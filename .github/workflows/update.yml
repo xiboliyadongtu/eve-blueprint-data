@@ -1,26 +1,32 @@
-name: 🌐 Update EVE SDE
+name: Auto Update SDE
 
 on:
   schedule:
-    - cron: '0 4 * * *'  # 每日 UTC 04:00 触发（日本时间 13:00）
-  workflow_dispatch:     # 手动运行支持
+    - cron: '0 0 * * *'  # 每天 UTC 时间 0 点执行
+  workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: ⬇️ Checkout repository
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: 🔧 Set up Python
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
+          python-version: 3.x
 
-      - name: 📦 Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install GitPython pyyaml
+      - name: Install dependencies
+        run: pip install pyyaml
 
-      - name: 🚀 Run update script
+      - name: Run update script
         run: python .github/scripts/update_sde.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add blueprints typeNames
+          git commit -m "🔄 Auto update SDE" || echo "No changes"
+          git push
