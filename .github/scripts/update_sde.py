@@ -1,58 +1,42 @@
+
 import os
 import zipfile
-import urllib.request
+import shutil
 import yaml
 import json
+import urllib.request
 
-# ✅ 下载 EVE 官方 SDE ZIP 包
+# ✅ 下载 SDE 数据包（官方提供的 ZIP）
 SDE_URL = "https://eve-static-data-export.s3-eu-west-1.amazonaws.com/tranquility/sde.zip"
 ZIP_PATH = "sde.zip"
-EXTRACT_PATH = "sde"
+LOCAL_PATH = "sde"
 
-# ✅ 清理旧文件
-if os.path.exists(ZIP_PATH):
-    os.remove(ZIP_PATH)
-if os.path.exists(EXTRACT_PATH):
-    import shutil
-    shutil.rmtree(EXTRACT_PATH)
-
-print("📦 Downloading SDE...")
+# 下载 ZIP 文件
 urllib.request.urlretrieve(SDE_URL, ZIP_PATH)
 
-print("📂 Extracting SDE...")
+# 解压 ZIP
+if os.path.exists(LOCAL_PATH):
+    shutil.rmtree(LOCAL_PATH)
 with zipfile.ZipFile(ZIP_PATH, 'r') as zip_ref:
-    zip_ref.extractall(EXTRACT_PATH)
+    zip_ref.extractall(LOCAL_PATH)
 
-# ✅ 拆分 blueprints.yaml
-bp_path = os.path.join(EXTRACT_PATH, "sde/fsd/blueprints.yaml")
-out_dir = "blueprints"
-os.makedirs(out_dir, exist_ok=True)
+# 读取 YAML → 生成拆分 JSON
+os.makedirs("blueprints", exist_ok=True)
+os.makedirs("typeNames", exist_ok=True)
 
-print("🛠️ Splitting blueprints...")
-with open(bp_path, "r", encoding="utf-8") as f:
-    bps = yaml.safe_load(f)
+with open(f"{LOCAL_PATH}/fsd/blueprints.yaml", "r", encoding="utf-8") as f:
+    blueprints = yaml.safe_load(f)
+    for blueprint in blueprints:
+        typeID = blueprint.get("blueprintTypeID")
+        with open(f"blueprints/{typeID}.json", "w", encoding="utf-8") as out:
+            json.dump(blueprint, out, ensure_ascii=False, indent=2)
 
-for bp in bps:
-    type_id = bp.get("blueprintTypeID")
-    if type_id:
-        with open(f"{out_dir}/{type_id}.json", "w", encoding="utf-8") as out:
-            json.dump(bp, out, indent=2, ensure_ascii=False)
+print(f"✅ 拆分完成，共导出 {len(blueprints)} 个蓝图")
 
-print(f"✅ Exported {len(bps)} blueprints to {out_dir}/")
-
-# ✅ 拆分 types.yaml 为 typeID → 名称映射
-type_path = os.path.join(EXTRACT_PATH, "sde/fsd/types.yaml")
-type_out_dir = "typeNames"
-os.makedirs(type_out_dir, exist_ok=True)
-
-print("📑 Splitting typeNames...")
-with open(type_path, "r", encoding="utf-8") as f:
+with open(f"{LOCAL_PATH}/fsd/types.yaml", "r", encoding="utf-8") as f:
     types = yaml.safe_load(f)
+    for type_id, data in types.items():
+        with open(f"typeNames/{type_id}.json", "w", encoding="utf-8") as out:
+            json.dump(data, out, ensure_ascii=False, indent=2)
 
-for t in types:
-    type_id = t.get("typeID")
-    if type_id:
-        with open(f"{type_out_dir}/{type_id}.json", "w", encoding="utf-8") as out:
-            json.dump(t, out, indent=2, ensure_ascii=False)
-
-print(f"✅ Exported {len(types)} type names to {type_out_dir}/")
+print(f"✅ 拆分完成，共导出 {len(types)} 个 typeID 名称文件")
