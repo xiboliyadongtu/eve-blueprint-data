@@ -5,9 +5,9 @@ import zipfile
 from urllib.request import urlretrieve
 
 # ✅ 下载链接和路径设置
-SDE_URL = "https://eve-static-data-export.s3-eu-west-1.amazonaws.com/tranquility/fsd.zip"
-ZIP_PATH = "sde.zip"
-EXTRACT_PATH = "sde"
+SDE_URL = "https://eve-static-data-export.s3-eu-west-1.amazonaws.com/tranquility/fsd.zip"  # 仅下载 fsd 文件夹
+ZIP_PATH = "fsd.zip"
+EXTRACT_PATH = "fsd"  # 解压后只处理 fsd 文件夹
 BLUEPRINT_OUTPUT_DIR = "blueprints"
 TYPENAME_OUTPUT_DIR = "typeNames"
 
@@ -27,23 +27,13 @@ print("📦 解压缩文件...")
 with zipfile.ZipFile(ZIP_PATH, 'r') as zip_ref:
     zip_ref.extractall(EXTRACT_PATH)
 
-# ✅ 自动查找包含 fsd/ 的子目录
-fsd_root = None
-for root, dirs, files in os.walk(EXTRACT_PATH):
-    if 'fsd' in dirs:
-        fsd_root = os.path.join(root, 'fsd')
-        break
-
-if not fsd_root:
-    raise RuntimeError("❌ 未找到 fsd 目录，请检查解压结果")
-
 # ✅ 创建输出目录
 os.makedirs(BLUEPRINT_OUTPUT_DIR, exist_ok=True)
 os.makedirs(TYPENAME_OUTPUT_DIR, exist_ok=True)
 
 # ✅ 拆分 blueprints.yaml
 print("🧩 拆分 blueprints.yaml...")
-with open(os.path.join(fsd_root, "blueprints.yaml"), "r", encoding="utf-8") as f:
+with open(os.path.join(EXTRACT_PATH, "blueprints.yaml"), "r", encoding="utf-8") as f:
     blueprints_data = yaml.safe_load(f)
 
 count_bp = 0
@@ -62,7 +52,7 @@ print(f"✅ 已导出 {count_bp} 个蓝图文件至 {BLUEPRINT_OUTPUT_DIR}/")
 
 # ✅ 拆分 types.yaml
 print("🧩 拆分 types.yaml...")
-with open(os.path.join(fsd_root, "types.yaml"), "r", encoding="utf-8") as f:
+with open(os.path.join(EXTRACT_PATH, "types.yaml"), "r", encoding="utf-8") as f:
     types_data = yaml.safe_load(f)
 
 count_type = 0
