@@ -5,7 +5,7 @@ import zipfile
 from urllib.request import urlretrieve
 
 # ✅ 下载链接和路径设置
-SDE_URL = "https://eve-static-data-export.s3-eu-west-1.amazonaws.com/tranquility/sde.zip"
+SDE_URL = "https://eve-static-data-export.s3-eu-west-1.amazonaws.com/tranquility/fsd.zip"
 ZIP_PATH = "sde.zip"
 EXTRACT_PATH = "sde"
 BLUEPRINT_OUTPUT_DIR = "blueprints"
