@@ -27,10 +27,15 @@ print("📦 解压缩文件...")
 with zipfile.ZipFile(ZIP_PATH, 'r') as zip_ref:
     zip_ref.extractall(EXTRACT_PATH)
 
-# ✅ 定位实际 SDE 数据目录
-entries = os.listdir(EXTRACT_PATH)
-subfolder = next((entry for entry in entries if entry.startswith("sde")), None)
-sde_path = os.path.join(EXTRACT_PATH, subfolder, "fsd")
+# ✅ 自动查找包含 fsd/ 的子目录
+fsd_root = None
+for root, dirs, files in os.walk(EXTRACT_PATH):
+    if 'fsd' in dirs:
+        fsd_root = os.path.join(root, 'fsd')
+        break
+
+if not fsd_root:
+    raise RuntimeError("❌ 未找到 fsd 目录，请检查解压结果")
 
 # ✅ 创建输出目录
 os.makedirs(BLUEPRINT_OUTPUT_DIR, exist_ok=True)
@@ -38,7 +43,7 @@ os.makedirs(TYPENAME_OUTPUT_DIR, exist_ok=True)
 
 # ✅ 拆分 blueprints.yaml
 print("🧩 拆分 blueprints.yaml...")
-with open(os.path.join(sde_path, "blueprints.yaml"), "r", encoding="utf-8") as f:
+with open(os.path.join(fsd_root, "blueprints.yaml"), "r", encoding="utf-8") as f:
     blueprints_data = yaml.safe_load(f)
 
 count_bp = 0
@@ -57,7 +62,7 @@ print(f"✅ 已导出 {count_bp} 个蓝图文件至 {BLUEPRINT_OUTPUT_DIR}/")
 
 # ✅ 拆分 types.yaml
 print("🧩 拆分 types.yaml...")
-with open(os.path.join(sde_path, "types.yaml"), "r", encoding="utf-8") as f:
+with open(os.path.join(fsd_root, "types.yaml"), "r", encoding="utf-8") as f:
     types_data = yaml.safe_load(f)
 
 count_type = 0
