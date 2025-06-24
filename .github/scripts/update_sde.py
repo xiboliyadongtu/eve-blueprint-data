@@ -1,34 +1,58 @@
 import os
-import shutil
+import zipfile
+import urllib.request
 import yaml
 import json
-import subprocess
 
-SDE_REPO = "https://github.com/ccpgames/eve-static-data-export.git"
-LOCAL_PATH = "sde"
-BLUEPRINT_OUT = "blueprints"
-TYPENAME_OUT = "typeNames"
+# ✅ 下载 EVE 官方 SDE ZIP 包
+SDE_URL = "https://web.ccpgamescdn.com/aws/evesde/latest/sde.zip"
+ZIP_PATH = "sde.zip"
+EXTRACT_PATH = "sde"
 
-# 克隆或更新仓库
-if os.path.exists(LOCAL_PATH):
-    shutil.rmtree(LOCAL_PATH)
-subprocess.run(["git", "clone", "--depth", "1", SDE_REPO, LOCAL_PATH])
+# ✅ 清理旧文件
+if os.path.exists(ZIP_PATH):
+    os.remove(ZIP_PATH)
+if os.path.exists(EXTRACT_PATH):
+    import shutil
+    shutil.rmtree(EXTRACT_PATH)
 
-# 加载并拆分蓝图
-with open(f"{LOCAL_PATH}/fsd/blueprints.yaml", "r", encoding="utf-8") as f:
+print("📦 Downloading SDE...")
+urllib.request.urlretrieve(SDE_URL, ZIP_PATH)
+
+print("📂 Extracting SDE...")
+with zipfile.ZipFile(ZIP_PATH, 'r') as zip_ref:
+    zip_ref.extractall(EXTRACT_PATH)
+
+# ✅ 拆分 blueprints.yaml
+bp_path = os.path.join(EXTRACT_PATH, "sde/fsd/blueprints.yaml")
+out_dir = "blueprints"
+os.makedirs(out_dir, exist_ok=True)
+
+print("🛠️ Splitting blueprints...")
+with open(bp_path, "r", encoding="utf-8") as f:
     bps = yaml.safe_load(f)
 
-os.makedirs(BLUEPRINT_OUT, exist_ok=True)
 for bp in bps:
-    tid = bp["blueprintTypeID"]
-    with open(f"{BLUEPRINT_OUT}/{tid}.json", "w", encoding="utf-8") as out:
-        json.dump(bp, out, indent=2)
+    type_id = bp.get("blueprintTypeID")
+    if type_id:
+        with open(f"{out_dir}/{type_id}.json", "w", encoding="utf-8") as out:
+            json.dump(bp, out, indent=2, ensure_ascii=False)
 
-# 加载并拆分类型名
-with open(f"{LOCAL_PATH}/fsd/types.yaml", "r", encoding="utf-8") as f:
+print(f"✅ Exported {len(bps)} blueprints to {out_dir}/")
+
+# ✅ 拆分 types.yaml 为 typeID → 名称映射
+type_path = os.path.join(EXTRACT_PATH, "sde/fsd/types.yaml")
+type_out_dir = "typeNames"
+os.makedirs(type_out_dir, exist_ok=True)
+
+print("📑 Splitting typeNames...")
+with open(type_path, "r", encoding="utf-8") as f:
     types = yaml.safe_load(f)
 
-os.makedirs(TYPENAME_OUT, exist_ok=True)
-for tid, entry in types.items():
-    with open(f"{TYPENAME_OUT}/{tid}.json", "w", encoding="utf-8") as out:
-        json.dump(entry, out, indent=2)
+for t in types:
+    type_id = t.get("typeID")
+    if type_id:
+        with open(f"{type_out_dir}/{type_id}.json", "w", encoding="utf-8") as out:
+            json.dump(t, out, indent=2, ensure_ascii=False)
+
+print(f"✅ Exported {len(types)} type names to {type_out_dir}/")
