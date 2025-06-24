@@ -1,51 +1,60 @@
-import os, json, yaml, shutil
+import os
+import zipfile
+import yaml
+import json
+import shutil
 from urllib.request import urlretrieve
-from zipfile import ZipFile
+from git import Repo
 
-# 下载 SDE
-sde_url = "https://developers.eveonline.com/resource/sde/latest"
-zip_path = "/tmp/sde.zip"
-sde_dir = "/tmp/sde"
-urlretrieve(sde_url, zip_path)
+SDE_URL = "https://eve-static-data-export.s3-eu-west-1.amazonaws.com/tranquility/sde.zip"
+ZIP_PATH = "sde.zip"
+EXTRACT_PATH = "sde"
+BLUEPRINT_OUT = "blueprints"
+TYPENAME_OUT = "typeNames"
+REPO_DIR = "."
 
-# 解压
-with ZipFile(zip_path, 'r') as zip_ref:
-    zip_ref.extractall(sde_dir)
+print("📥 Downloading latest SDE...")
+urlretrieve(SDE_URL, ZIP_PATH)
 
-fsd_dir = os.path.join(sde_dir, "fsd")
-bp_yaml = os.path.join(fsd_dir, "blueprints.yaml")
-type_yaml = os.path.join(fsd_dir, "types.yaml")
+print("📦 Extracting SDE zip...")
+with zipfile.ZipFile(ZIP_PATH, 'r') as zip_ref:
+    zip_ref.extractall(EXTRACT_PATH)
 
-# 拆分蓝图
-with open(bp_yaml, "r", encoding="utf-8") as f:
-    blueprints = yaml.safe_load(f)
+with open(f"{EXTRACT_PATH}/fsd/blueprints.yaml", "r", encoding="utf-8") as f:
+    blueprints_data = yaml.safe_load(f)
 
-os.makedirs("blueprints", exist_ok=True)
-bp_index = []
-for bp_id, data in blueprints.items():
-    with open(f"blueprints/{bp_id}.json", "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False)
-    bp_index.append(bp_id)
+with open(f"{EXTRACT_PATH}/fsd/types.yaml", "r", encoding="utf-8") as f:
+    types_data = yaml.safe_load(f)
 
-with open("blueprints/index.json", "w") as f:
-    json.dump(bp_index, f)
+shutil.rmtree(BLUEPRINT_OUT, ignore_errors=True)
+shutil.rmtree(TYPENAME_OUT, ignore_errors=True)
+os.makedirs(BLUEPRINT_OUT, exist_ok=True)
+os.makedirs(TYPENAME_OUT, exist_ok=True)
 
-# 拆分 typeNames
-with open(type_yaml, "r", encoding="utf-8") as f:
-    types = yaml.safe_load(f)
+print("🧩 Splitting blueprints...")
+count = 0
+for bp_id, bp_data in blueprints_data.items():
+    with open(f"{BLUEPRINT_OUT}/{bp_id}.json", "w", encoding="utf-8") as f:
+        json.dump(bp_data, f, indent=2)
+    count += 1
+print(f"✅ Exported {count} blueprints to /{BLUEPRINT_OUT}")
 
-os.makedirs("typeNames", exist_ok=True)
-tn_index = []
-for entry in types:
-    tid = entry.get("typeID")
-    name = entry.get("name", {})
-    volume = entry.get("volume")
-    if tid:
-        with open(f"typeNames/{tid}.json", "w", encoding="utf-8") as f:
-            json.dump({"id": tid, "name": name, "volume": volume}, f, ensure_ascii=False)
-        tn_index.append({"id": tid, "name": name})
+print("🧩 Splitting typeNames...")
+count = 0
+for type_id, type_data in types_data.items():
+    output = {
+        "name": type_data.get("name", {}),
+        "volume": type_data.get("volume", None)
+    }
+    with open(f"{TYPENAME_OUT}/{type_id}.json", "w", encoding="utf-8") as f:
+        json.dump(output, f, indent=2)
+    count += 1
+print(f"✅ Exported {count} typeNames to /{TYPENAME_OUT}")
 
-with open("typeNames/index.json", "w") as f:
-    json.dump(tn_index, f)
+print("🚀 Committing changes to GitHub...")
+repo = Repo(REPO_DIR)
+repo.git.add(A=True)
+repo.index.commit("🔄 Auto-update: latest SDE parsed and pushed")
+repo.remote(name="origin").push()
 
-print("✅ Auto update complete.")
+print("🎉 Done! All data updated and pushed.")
