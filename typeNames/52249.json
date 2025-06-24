@@ -1,5 +1,7 @@
 {
-  "typeID": 52249,
+  "graphicID": 1217,
+  "groupID": 920,
+  "mass": 1.0,
   "name": {
     "de": "Triglavian Invasion Strong System Effects",
     "en": "Triglavian Invasion Strong System Effects",
@@ -9,6 +11,80 @@
     "ko": "트리글라비안 침공 상급 항성계 효과",
     "ru": "Triglavian Invasion Strong System Effects",
     "zh": "三神裔入侵强星系效果"
+  },
+  "portionSize": 250,
+  "published": true,
+  "sofFactionName": "genericbase",
+  "traits": {
+    "iconID": 24309,
+    "miscBonuses": [
+      {
+        "bonus": 40.0,
+        "bonusText": {
+          "de": "Abzug auf die HP von Schiffsrümpfen",
+          "en": "penalty to ship hull hitpoints",
+          "es": "de penalización a los puntos de vida del casco de la nave.",
+          "fr": "de pénalité aux points de vie de la coque du vaisseau",
+          "ja": "艦船の船体HPにペナルティ",
+          "ko": "함선 선체 내구도 페널티",
+          "ru": "штраф к запасу прочности корпуса корабля",
+          "zh": "舰船结构值惩罚"
+        },
+        "importance": 2,
+        "isPositive": false,
+        "unitID": 105
+      },
+      {
+        "bonus": 45.0,
+        "bonusText": {
+          "de": "Bonus auf die Wendigkeit von Schiffen",
+          "en": "bonus to ship agility",
+          "es": "de bonificación a la agilidad de la nave.",
+          "fr": "de bonus à la maniabilité du vaisseau",
+          "ja": "艦船の機動性を強化",
+          "ko": "기동성 증가",
+          "ru": "бонус к манёвренности корабля",
+          "zh": "舰船灵活性加成"
+        },
+        "importance": 3,
+        "isPositive": true,
+        "unitID": 105
+      },
+      {
+        "bonus": 45.0,
+        "bonusText": {
+          "de": "Bonus auf die Durchlaufzeit von Bergbaulasern",
+          "en": "bonus to mining laser cycle time",
+          "es": "de bonificación al tiempo de ciclo del láser minero.",
+          "fr": "de bonus au temps de cycle de laser d'extraction",
+          "ja": "採掘レーザーのサイクル時間を短縮",
+          "ko": "채굴 레이저 사이클 시간 보너스",
+          "ru": "бонус к времени цикла бурового лазера",
+          "zh": "采矿激光器单次运转时间加成"
+        },
+        "importance": 4,
+        "isPositive": true,
+        "unitID": 105
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Abzug auf den Schaden und die Geschwindigkeit von Drohnen",
+          "en": "penalty to drone damage and speed",
+          "es": "de penalización al daño y la velocidad de los drones.",
+          "fr": "de pénalité aux dégâts et à la vitesse des drones",
+          "ja": "ドローンのダメージと速度にペナルティ",
+          "ko": "드론 피해량 및 속도 페널티",
+          "ru": "штраф к скорости и урону от дронов",
+          "zh": "无人机伤害和速度惩罚"
+        },
+        "importance": 1,
+        "isPositive": false,
+        "unitID": 105
+      }
+    ],
+    "roleBonuses": [],
+    "types": {}
   },
   "volume": 20.0
 }

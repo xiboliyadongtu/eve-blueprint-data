@@ -1,5 +1,17 @@
 {
-  "typeID": 25398,
+  "description": {
+    "de": "Im Inneren dieses Datenchips ist eine Meldung von Tikui aufgezeichnet worden.",
+    "en": "Tikui's message has been recorded inside this data chip.",
+    "es": "El mensaje de Tikui se ha registrado dentro de este chip de datos.",
+    "fr": "Cette puce de données contient l'enregistrement du message de Tikui.",
+    "ja": "ティクーイのメッセージが録音されたデータチップ。",
+    "ko": "티쿠이의 메시지가 기록된 데이터 칩입니다.",
+    "ru": "Послание Tikui записано на этот чип данных.",
+    "zh": "提库伊的信息被记录在了这块数据芯片中。"
+  },
+  "groupID": 526,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Tikui's Message",
     "en": "Tikui's Message",
@@ -10,5 +22,7 @@
     "ru": "Tikui's Message",
     "zh": "提库伊的信息"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 3334,
+  "basePrice": 1000000.0,
+  "description": {
+    "de": "Fertigkeit, Kreuzer der Caldari zu bedienen.",
+    "en": "Skill at operating Caldari cruisers.",
+    "es": "Habilidad en el manejo de cruceros caldaris.",
+    "fr": "Compétence liée au pilotage des croiseurs caldari.",
+    "ja": "カルダリ巡洋艦を操作するためのスキル。",
+    "ko": "칼다리 크루저를 운용하기 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на крейсерах производства Государства Калдари.",
+    "zh": "操作加达里巡洋舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Caldari Cruiser",
     "en": "Caldari Cruiser",
@@ -10,5 +23,8 @@
     "ru": "Калдарские крейсеры",
     "zh": "加达里巡洋舰操作"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
   "volume": 0.01
 }

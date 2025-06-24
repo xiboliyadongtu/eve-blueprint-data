@@ -1,5 +1,16 @@
 {
-  "typeID": 29279,
+  "description": {
+    "de": "Das Andocken an diese Caldari Station ohne angemessener Autorisierung ist verboten.",
+    "en": "Docking into this Caldari station without proper authorization has been prohibited.",
+    "es": "Está prohibido acoplarse a esta estación caldari sin la correspondiente autorización.",
+    "fr": "Une autorisation est requise pour s'amarrer dans cette station caldari.",
+    "ja": "このカルダリのステーションへの入港は、適切な承認がなければ認められない。",
+    "ko": "허가되지 않은 함선은 칼다리 정거장에 도킹할 수 없습니다.",
+    "ru": "Стыковка с этой станцией Caldari без надлежащих полномочий запрещена.",
+    "zh": "在没有经过有效的许可情况下就将舰船停靠到这座加达里空间站里是不允许的。"
+  },
+  "graphicID": 1267,
+  "groupID": 226,
   "name": {
     "de": "Station - Caldari",
     "en": "Station - Caldari",
@@ -10,5 +21,9 @@
     "ru": "Station - Caldari",
     "zh": "空间站 - 加达里"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 18000.0,
+  "sofFactionName": "caldaribase"
 }

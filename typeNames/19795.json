@@ -1,5 +1,18 @@
 {
-  "typeID": 19795,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieses grosse Radioteleskop enthält eine empfindliche, aber gleichzeitig auch sehr fortschrittliche Sensorausstattung. Es hat eine riesige maximale Scanreichweite und kann nahezu jedes bewegte Objekt in dem System, in dem es aufgebaut wurde, binnen erstaunlich kurzer Zeit entdecken. Wegen der Vorteile, die es im Gefecht bietet, haben die meisten Regierungen die Verwendung dieses Prototypen außerhalb des nationalen Militärs untersagt.",
+    "en": "This huge telescope contains fragile but advanced sensory equipment.  Its scanning range is huge, and it is able to detect almost any moving object in the solar system it's deployed in at an astoundingly fast rate.  Due to the advantage it gives in combat, use of this prototype outside national militaries has been banned by most governments.",
+    "es": "Este enorme telescopio contiene un equipo sensorial frágil pero avanzado. Su alcance de escaneo es enorme y es capaz de detectar casi cualquier objeto en movimiento en el sistema solar en el que se encuentre desplegado a una velocidad asombrosamente rápida. Debido a la ventaja que ofrece en combate, la mayoría de los gobiernos ha prohibido el uso de este prototipo fuera de las fuerzas armadas nacionales.",
+    "fr": "Cet énorme télescope contient des séries de détecteurs perfectionnés, mais très fragiles.  Son champ de détection est immense. Il est capable de repérer quasiment tout objet en déplacement dans le système solaire dans lequel il est déployé et ce, à une rapidité proprement incroyable.  En raison de l'avantage certain qu'il apporte lors des combats, l'utilisation de ce prototype hors des zones militaires nationales a été interdite par la plupart des gouvernements.",
+    "ja": "壊れやすいが高度な探知装置を搭載した大型望遠鏡。スキャン範囲の広さは驚異的で、配備されたソーラーシステムで動きがあれば、高速かつほぼ確実に検知する。戦況を有利に導けるため、この試作品を自国の軍部外で使用することはどの政府も禁じている。",
+    "ko": "첨단 센서 장비를 갖춘 거대한 텔레스코프입니다. 스캔 범위가 매우 넓으며 항성계 내에 움직이는 물체를 빠른 속도로 감지할 수 있습니다. 전투 시 상당한 이점을 제공하기 때문에 민간 사용은 현재 금지된 상태입니다.",
+    "ru": "Этот громадный радиотелескоп содержит хрупкое, но совершенное сенсорное оборудование. Его дальность действия огромна; он способен за кратчайшее время обнаружить любой движущийся объект в данной солнечной системе. Вследствие очевидных преимуществ, которое такие системы дают в бою, в большинстве империй их использование разрешается исключительно в рамках армии.",
+    "zh": "这座巨大的射电望远镜里装有脆弱却非常先进的传感设备。其扫描范围很大，能以极快速地侦察到星系里几乎任何移动的物体。鉴于它在战斗中体现出的优势，大多数政府明令禁止非国家军队的人使用这种东西。"
+  },
+  "graphicID": 2505,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Radio Telescope",
     "en": "Radio Telescope",
@@ -10,5 +23,10 @@
     "ru": "Radio Telescope",
     "zh": "射电望远镜"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 2636.0,
+  "sofFactionName": "genericbase",
+  "soundID": 31,
   "volume": 100000000.0
 }

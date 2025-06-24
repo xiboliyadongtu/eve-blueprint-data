@@ -1,5 +1,21 @@
 {
-  "typeID": 2811,
+  "basePrice": 1500245.0,
+  "description": {
+    "de": "Eine ultraschwere Lenkwaffe mit Plasma-Sprengkopf. Sie ist zwar ein langsames Projektil, aber ihr bloßes Schadenspotential ist einfach überwältigend.\n\nDiese modifizierte Version des Inferno Torpedo ist durchschlagskräftiger, allerdings auch schwerer und langsamer. Daher ist sie sehr effektiv gegen größere Ziele, jedoch deutlich weniger wirkungsvoll bei kleineren und agileren Zielen.",
+    "en": "An ultra-heavy plasma missile. While it is a slow projectile, its sheer damage potential is simply staggering.\r\n\r\nThis modified version of the Inferno Torpedo packs a considerably stronger punch, but as a result is heavier and slower. This makes it very effective against larger targets, but markedly less effective against smaller and more agile targets.",
+    "es": "Misil de plasma ultrapesado. Aunque lento, su potencial de daño real resulta impresionante.\n\nEsta versión modificada del torpedo Inferno asesta un golpe considerablemente más fuerte, pero es más pesado y lento. Por eso es muy eficaz contra objetivos grandes y no tanto contra otros más pequeños y ágiles.",
+    "fr": "Missile plasma ultra-lourd. Il s'agit certes d'un projectile assez lent, mais au potentiel destructeur tout simplement impressionnant.\n\nCette version modifiée de la torpille Inferno est beaucoup plus puissante, mais en contrepartie plus lourde et plus lente. Cela lui permet d'être plus efficace contre des cibles plus imposantes, mais beaucoup moins contre des cibles plus petites et plus maniables.",
+    "ja": "ウルトラヘビープラズマミサイル。速度は遅いが、その破壊力は実に驚異的。\n\nインフェルノトルピードの改良版。威力が大幅に増したが、その代償として鈍重になった。そのため、大型の標的には非常に強いが、小型で敏捷な標的に対する威力は明らかに劣る。",
+    "ko": "대형 플라즈마 미사일입니다. 느린 비행 속도를 지니고 있으나 타격 시 적에게 치명적인 피해를 입힙니다. <br><br>기존 인페르노 토피도에 비해 화력은 강력하지만 무게 증가로 인해 비행속도가 감소했습니다. 이러한 이유로 대형 목표물을 상대로 매우 효과적이지만 작고 빠른 함선을 대상으로는 눈에 띄게 효과가 감소합니다.",
+    "ru": "Сверхтяжелая неуправляемая плазменная ракета. Отличается низкой скоростью, но ее ударная мощь поражает воображение. Эта модификация торпеды Inferno отличается низкой скоростью и большим весом, но ее поражающая способность значительно выше. В высшей степени эффективна против крупных целей, и менее эффективна — против небольших.",
+    "zh": "一种终极重型等离子导弹。虽然慢而笨重，但是破坏力着实惊人。这是炼狱鱼雷的一种改良版本，这个型号在设计上显得很慢而且笨重，但是却相较拥有更强大的威力。它对于大型的目标非常有效，对小型目标的效果则不是很理想。"
+  },
+  "graphicID": 20017,
+  "groupID": 657,
+  "iconID": 1347,
+  "marketGroupID": 931,
+  "mass": 1000.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Inferno Rage Torpedo",
     "en": "Inferno Rage Torpedo",
@@ -10,5 +26,9 @@
     "ru": "Inferno Rage Torpedo",
     "zh": "炼狱狂乱鱼雷"
   },
+  "portionSize": 5000,
+  "published": true,
+  "radius": 5.0,
+  "variationParentTypeID": 2510,
   "volume": 0.05
 }

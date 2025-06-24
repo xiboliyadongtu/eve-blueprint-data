@@ -1,5 +1,18 @@
 {
-  "typeID": 56305,
+  "description": {
+    "de": "Erhöht bei Aktivierung die Maximalgeschwindigkeit des Schiffs. Der Schub, der das Schiff vorantreibt und der daraus resultierende maximale Geschwindigkeitsgewinn wird durch die Masse des Schiffs begrenzt, das dieses Modul verwendet. Hinweis: Kann nur in Schiffe der Capital-Klasse eingebaut werden.",
+    "en": "Gives a boost to the maximum velocity of the ship when activated. The thrust that boosts the ship, and the corresponding maximum velocity bonus, are limited by the mass of the ship that uses this module.\r\n\r\nNote: May only be fitted to capital class ships.",
+    "es": "Potencia la velocidad máxima al activarse. El impulso propulsor y la bonificación de velocidad máxima correspondiente, están limitadas por la masa de la nave que usa este módulo.\n\nAviso: Solo se puede equipar en naves capitales.",
+    "fr": "Augmente la vitesse maximale du vaisseau une fois activé. La poussée appliquée au vaisseau et le bonus de vitesse maximale correspondant sont limités par la masse du vaisseau utilisant ce module. Attention : Ne convient qu'aux vaisseaux de classe capitale.",
+    "ja": "船の最高速度を引き上げることができる。実際に得られる推進力と、それによる最高速度ボーナスは、このモジュールを使用する船の質量に制約を受ける。\r\n\n注：主力艦級艦船にのみ搭載可能。",
+    "ko": "활성화 시 함선의 최대 속도가 증가합니다. 함선 중량에 따라 추진력 및 최대 속도 보너스가 제한됩니다. <br><br>참고: 캐피탈급 함선에만 장착이 가능합니다.",
+    "ru": "В момент активации увеличивает максимальную скорость корабля. Мощность ускорения и размер соответствующего бонуса максимальной скорости ограничены массой корабля, использующего этот модуль. Примечание: можно установить только на корабли большого тоннажа.",
+    "zh": "激活后将增加舰船的最大速度。推进舰船的动力和相应的最大速度加成均受使用该装备的舰船重量所限。\n\n\n\n注：只能装配在旗舰级舰船上。"
+  },
+  "groupID": 46,
+  "iconID": 96,
+  "mass": 1000.0,
+  "metaGroupID": 15,
   "name": {
     "de": "10000MN Abyssal Afterburner",
     "en": "10000MN Abyssal Afterburner",
@@ -10,5 +23,7 @@
     "ru": "10000MN Abyssal Afterburner",
     "zh": "10000MN深渊加力燃烧器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 4000.0
 }

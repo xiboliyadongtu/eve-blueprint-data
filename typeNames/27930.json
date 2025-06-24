@@ -1,5 +1,20 @@
 {
-  "typeID": 27930,
+  "basePrice": 31244.0,
+  "description": {
+    "de": "Dieses Modul verwendet Nano-Roboter, um Schaden an der Hülle des Zielschiffs zu reparieren.",
+    "en": "This module uses nano-assemblers to repair damage done to the hull of the Target ship.",
+    "es": "Este módulo utiliza nanoensambladores para reparar el daño infligido al casco de la nave.",
+    "fr": "Module utilisant des nano-assembleurs pour réparer les dégâts infligés à la coque du vaisseau cible.",
+    "ja": "ナノアセンブラーを使用して、ターゲットにした艦船の船体が受けたダメージを修復するモジュール。",
+    "ko": "나노 어셈블러를 사용하여 대상 함선의 선체를 수리하는 모듈입니다.",
+    "ru": "Данный модуль использует наносборщики для ремонта повреждений корпуса корабля-цели.",
+    "zh": "该装备使用纳米级装配器来修复目标舰船船体所受到的损伤。"
+  },
+  "groupID": 585,
+  "iconID": 21428,
+  "marketGroupID": 1061,
+  "mass": 20.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Medium Remote Hull Repairer I",
     "en": "Medium Remote Hull Repairer I",
@@ -10,5 +25,7 @@
     "ru": "Medium Remote Hull Repairer I",
     "zh": "中型远程结构维修器 I"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 10.0
 }

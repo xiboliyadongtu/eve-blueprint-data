@@ -1,5 +1,21 @@
 {
-  "typeID": 27554,
+  "basePrice": 10000000.0,
+  "capacity": 2500.0,
+  "description": {
+    "de": "Feuert besonders große Projektilgeschosse gegen diejenigen, die der Kontrollturm als feindlich erachtet. Erzeugt ein konstantes Dauerfeuer und kann schnellere Ziele nachführen als ihr Artillerie-Äquivalent, dafür erzeugt sie weitaus weniger Schaden.",
+    "en": "Fires a barrage of extra large projectiles at those the Control Tower deems its enemies. Maintains a consistent spread of fire and is able to track the faster-moving targets, but lacks the sheer bludgeoning force of its artillery counterpart.",
+    "es": "Dispara una tromba de proyectiles extragrandes a cualquier objetivo que la torre de control considere una amenaza. Mantiene una propagación constante de fuego y puede rastrear a los objetivos más rápidos, pero carece de la fuerza bruta de su homóloga artillera.",
+    "fr": "Tire un barrage de très grands projectiles sur les vaisseaux que la tour de contrôle juge hostiles. Cette batterie assure un feu nourri et est capable de suivre des cibles rapides, mais elle n'a pas la puissance dévastatrice de la grande batterie d'artillerie.",
+    "ja": "コントロールタワーが敵と認識した物体に対して、超大型プロジェクタイル弾の集中砲火を浴びせる。安定した弾幕を維持することができ、非常に高速で移動する標的にもよく追従するが、アーティレリに比べると制止力にやや欠ける。",
+    "ko": "초대형 발사체로 이루어진 화망을 구성하여 관제타워가 지정한 적을 향해 발사합니다. 빠르게 움직이는 목표를 추적하고 지속적인 탄막을 유지할 수 있지만 함포 계열에서 볼 수 있는 화력보다는 많이 떨어집니다.",
+    "ru": "Эта батарея артиллерийских орудий сверхбольшого калибра ведет огонь по по всем целям, которые башня управления базой сочтет вражескими. Обеспечивает высокую плотность огня, способна отслеживать быстродвижущиеся цели, но обладает меньшей мощностью залпа, чем аналогичная батарея артиллерийских орудий.",
+    "zh": "向控制塔指定的敌人连续发射超大型射弹炮弹。它的持续火力发射有利于追踪移动速度较快的目标，但其纯粹的攻击力比不上同级别火炮。"
+  },
+  "graphicID": 2751,
+  "groupID": 426,
+  "marketGroupID": 594,
+  "mass": 50000000.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Angel Large AutoCannon Battery",
     "en": "Angel Large AutoCannon Battery",
@@ -10,5 +26,10 @@
     "ru": "Angel Large AutoCannon Battery",
     "zh": "天使大型自动加农炮塔台"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 400.0,
+  "sofFactionName": "genericbase",
+  "variationParentTypeID": 17770,
   "volume": 5000.0
 }

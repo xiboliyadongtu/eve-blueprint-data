@@ -1,5 +1,17 @@
 {
-  "typeID": 28065,
+  "description": {
+    "de": "Diese bestens durch Schilde geschützte Struktur strahlt ein ferngesteuertes Tarnfeld auf weit entfernte Strukturen aus, um diese zu verbergen.",
+    "en": "This heavily shielded structure remotely emits a cloaking field over far away structures, hiding them from sight.",
+    "es": "Esta estructura fuertemente blindada emite un campo de camuflaje remoto sobre estructuras lejanas y las oculta.",
+    "fr": "Module équipé de boucliers puissants qui émet un champ permettant de camoufler des structures éloignées.",
+    "ja": "堅く防御されたこの建造物からは遠隔的な遮蔽フィールドが放射されており、離れた場所にある建造物を視界から隠している。",
+    "ko": "강력한 실드가 씌워진 이 구조물은 멀리 떨어진 시설로 원격 클로킹 필드를 방출하여 해당 시설이 보이지 않도록 만듭니다.",
+    "ru": "Это сооружение, защищенное мощными силовыми щитами, делает невидимыми прочие модули базы, накрывая их маскировочным полем.",
+    "zh": "该重型护盾保驾的物体能对远处物体发射隐形力场，将其隐身。"
+  },
+  "graphicID": 2613,
+  "groupID": 319,
+  "mass": 100.0,
   "name": {
     "de": "Remote Cloaking Array",
     "en": "Remote Cloaking Array",
@@ -10,5 +22,9 @@
     "ru": "Remote Cloaking Array",
     "zh": "远程隐形阵列"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 450.0,
+  "sofFactionName": "genericbase",
   "volume": 100.0
 }

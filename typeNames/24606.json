@@ -1,5 +1,18 @@
 {
-  "typeID": 24606,
+  "basePrice": 125000000.0,
+  "description": {
+    "de": "Benötigt zum Einsatz des Klonbucht-Moduls. Spezial: Erhöht die maximale Kapazität der Klonbucht um 15 % je Skillstufe.",
+    "en": "Needed for use of the Clone Vat Bay module.\r\n\r\nSpecial: Increases a Clone Vat Bay's maximum clone capacity by 15% per skill level.",
+    "es": "Se necesita para utilizar el módulo de plataforma de contenedores de clonación.\n\nEspecial: aumenta un 15 % la capacidad máxima de clonación de la plataforma de contenedores de clonación por nivel de habilidad.",
+    "fr": "Nécessaire pour l'utilisation du module de la plateforme de clonage. Spécial : augmente de 15 % par niveau de compétence la capacité maximum d'une plateforme de clonage.",
+    "ja": "クローンバットベイモジュールの使用に必要なスキル。\r\n\n特記：スキルレベル上昇ごとにクローンバットベイの最大クローン容量が15%増加。",
+    "ko": "점프 클론 격납고를 사용하기 위해 필요합니다. <br><br>특수 효과: 매 레벨마다 점프 클론 격납고의 최대 클론 보유량 15% 증가",
+    "ru": "Необходимо для использования модуля бортовых клон-станций. Особ.: увеличивает максимальную вместимость бортовой клон-станции на 15% за каждый уровень навыка.",
+    "zh": "使用克隆舱的必备技能。\n\n\n\n特殊能力：每升一级，克隆舱最大容量增加15%。"
+  },
+  "groupID": 1220,
+  "iconID": 33,
+  "marketGroupID": 1746,
   "name": {
     "de": "Cloning Facility Operation",
     "en": "Cloning Facility Operation",
@@ -10,5 +23,8 @@
     "ru": "Бортовые клон-станции",
     "zh": "克隆设施运作技术"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

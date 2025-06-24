@@ -1,5 +1,18 @@
 {
-  "typeID": 24267,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieser Außenposten wurde von den Gefolgsleuten Lord Methros' gebaut.",
+    "en": "This outpost was constructed by Lord Methros' henchmen.",
+    "es": "Este puesto avanzado fue construido por los secuaces de Lord Methros.",
+    "fr": "Cet avant-poste fut construit par les acolytes du Seigneur Methros.",
+    "ja": "メソロス卿の部下が建造したアウトポスト。",
+    "ko": "메쓰로스의 수하들이 건설한 전초기지입니다.",
+    "ru": "Эта станция была сконструирована прихвостнями Лорда Arachnan.",
+    "zh": "这座哨站由梅多尔斯大人的随从建造。"
+  },
+  "graphicID": 1683,
+  "groupID": 306,
+  "mass": 100000.0,
   "name": {
     "de": "Lord Methros' Outpost",
     "en": "Lord Methros' Outpost",
@@ -10,5 +23,10 @@
     "ru": "Lord Methros' Outpost",
     "zh": "梅多尔斯大人哨站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 60.0,
+  "sofFactionName": "genericbase",
   "volume": 100000000.0
 }

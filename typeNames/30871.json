@@ -1,5 +1,17 @@
 {
-  "typeID": 30871,
+  "description": {
+    "de": "Einzelne besondere räumliche Erscheinungen können Ihr Schiff auf seltsame Weise beeinträchtigen.",
+    "en": "Local spatial phenomena may cause strange effects on your ship systems.",
+    "es": "Los fenómenos espaciales locales pueden provocar efectos extraños en los sistemas de la nave.",
+    "fr": "Phénomène local de l'espace pouvant avoir d'étranges effets sur les systèmes de votre vaisseau.",
+    "ja": "周囲の空間で発生している現象が、船のシステムに不可解な効果を与えるかもしれない。",
+    "ko": "함선 시스템에 영향을 줄 수 있는 공간현상이 감지되었습니다.",
+    "ru": "Излучение местной звезды влияет на работу бортовых систем вашего корабля.",
+    "zh": "本地空间现象可能会对你的舰船系统造成影响。"
+  },
+  "graphicID": 1217,
+  "groupID": 920,
+  "mass": 1.0,
   "name": {
     "de": "Class 3 Red Giant Effects",
     "en": "Class 3 Red Giant Effects",
@@ -9,6 +21,80 @@
     "ko": "3급 적색 거성 효과",
     "ru": "Class 3 Red Giant Effects",
     "zh": "三类红巨星效果光束"
+  },
+  "portionSize": 250,
+  "published": true,
+  "sofFactionName": "genericbase",
+  "traits": {
+    "iconID": 24307,
+    "miscBonuses": [
+      {
+        "bonus": 29.0,
+        "bonusText": {
+          "de": "erhöhter Hitzeschaden durch Überlastung von Modulen",
+          "en": "increased heat damage from overloading modules",
+          "es": "de aumento del daño por calor al sobrecargar los módulos.",
+          "fr": "d'augmentation des dégâts thermiques provoqués par la surcharge des modules",
+          "ja": "オーバーロードしたモジュールの熱ダメージが増加",
+          "ko": "모듈 과부하 피해 증가",
+          "ru": "увеличение теплового урона от перегрузки модулей",
+          "zh": "装备过载损伤提高"
+        },
+        "importance": 4,
+        "isPositive": false,
+        "unitID": 105
+      },
+      {
+        "bonus": 58.0,
+        "bonusText": {
+          "de": "Bonus auf den Nutzen der Überlastung von Modulen",
+          "en": "bonus to the benefits of overloading modules",
+          "es": "de bonificación a los beneficios de sobrecargar los módulos.",
+          "fr": "de bonus aux avantages de la surcharge des modules",
+          "ja": "オーバーヒートしたモジュールの恩恵が増加",
+          "ko": "과부하 효과 보너스",
+          "ru": "бонус к преимуществам от перегрузки модулей",
+          "zh": "装备过载效果加成"
+        },
+        "importance": 1,
+        "isPositive": true,
+        "unitID": 105
+      },
+      {
+        "bonus": 58.0,
+        "bonusText": {
+          "de": "Bonus auf Schaden und Reichweite von Smartbombs",
+          "en": "bonus to smartbomb damage and range",
+          "es": "de bonificación al daño y alcance de las bombas inteligentes.",
+          "fr": "de bonus aux dégâts et à la portée des bombes de proximité",
+          "ja": "スマートボムのダメージおよび射程距離が増加",
+          "ko": "스마트폭탄 피해량 및 사거리 보너스",
+          "ru": "бонус к урону и дальности импульсного излучателя",
+          "zh": "立体炸弹伤害和范围加成"
+        },
+        "importance": 2,
+        "isPositive": true,
+        "unitID": 105
+      },
+      {
+        "bonus": 58.0,
+        "bonusText": {
+          "de": "Bonus auf den Schaden von Bomben",
+          "en": "bonus to bomb damage",
+          "es": "de bonificación al daño de las bombas.",
+          "fr": "de bonus aux dégâts des bombes",
+          "ja": "ボムのダメージが増加",
+          "ko": "폭탄 피해량 보너스",
+          "ru": "бонус к урону от бомб",
+          "zh": "炸弹伤害加成"
+        },
+        "importance": 3,
+        "isPositive": true,
+        "unitID": 105
+      }
+    ],
+    "roleBonuses": [],
+    "types": {}
   },
   "volume": 20.0
 }

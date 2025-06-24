@@ -1,5 +1,18 @@
 {
-  "typeID": 42662,
+  "capacity": 27500.0,
+  "description": {
+    "de": "Die strukturelle Integrität dieses Schlachtschiffs ist völlig zerstört.",
+    "en": "This structural integrity of this battleship class vessel is completely shattered.",
+    "es": "La integridad estructural de esta nave de clase acorazado está totalmente comprometida.",
+    "fr": "L'intégrité structurelle de ce vaisseau de classe cuirassé est complètement démantibulée.",
+    "ja": "この戦艦の構造的完全性は失われ、バラバラになっている。",
+    "ko": "구조적인 면에서 소생 불가능한 배틀쉽입니다.",
+    "ru": "Корпус этого линкора находится в абсолютно невосстановимом состоянии.",
+    "zh": "这艘战列舰级舰船的结构已经支离破碎。"
+  },
+  "graphicID": 21365,
+  "groupID": 186,
+  "mass": 10000.0,
   "name": {
     "de": "Wrecked Amarr Battleship",
     "en": "Wrecked Amarr Battleship",
@@ -10,5 +23,10 @@
     "ru": "Wrecked Amarr Battleship",
     "zh": "损毁的艾玛战列舰"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 14.0,
+  "sofFactionName": "amarrbase",
   "volume": 27500.0
 }

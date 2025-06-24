@@ -1,5 +1,18 @@
 {
-  "typeID": 30948,
+  "capacity": 5250.0,
+  "description": {
+    "de": "Industrials sind ein gewöhnlicher Anblick im Universum von EVE. Sie verbinden verschiedene Versorgungspunkte miteinander.",
+    "en": "Industrials are a common sight in the universe of EVE, connecting supply points to each other.",
+    "es": "Ver naves industriales conectando entre sí diferentes puntos de suministro es de lo más habitual en el universo de EVE.",
+    "fr": "Les industries sont monnaie courante dans l'univers d'EVE, reliant ainsi les réserves entre elles.",
+    "ja": "輸送艦は、EVEユニバースでは一般的に見られる存在で、補給ポイントの間を結んでいる。",
+    "ko": "보급로를 오가는 화물선의 모습은 우주에서 흔히 볼 수 있는 광경입니다.",
+    "ru": "Промышленные корабли можно встретить во вселенной EVE довольно часто. Они применяются для снабжения.",
+    "zh": "工业舰是EVE世界中最常见到的船只之一，贯穿于各个贸易和物资的枢纽之间。"
+  },
+  "graphicID": 52,
+  "groupID": 927,
+  "mass": 13500000.0,
   "name": {
     "de": "State Transport",
     "en": "State Transport",
@@ -10,5 +23,10 @@
     "ru": "State Transport",
     "zh": "国家运输舰"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 315.0,
+  "sofFactionName": "caldaribase",
   "volume": 270000.0
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 12293,
+  "description": {
+    "de": "Unterbricht Warp-Vorgänge in einem weiten Umkreis.",
+    "en": "Disrupts warping over a large area.",
+    "es": "Inutiliza el warp en un radio muy amplio.",
+    "fr": "Perturbe le warp sur une zone très étendue.",
+    "ja": "長距離ワープ航行を妨害する。",
+    "ko": "광역으로 워프를 방해합니다.",
+    "ru": "Выводит из строя варп-двигатели кораблей на очень большом расстоянии от точки установки.",
+    "zh": "在大范围内扰断跃迁行为。"
+  },
+  "groupID": 368,
+  "iconID": 0,
+  "mass": 1.0,
   "name": {
     "de": "Basic Global Warp Disruptor",
     "en": "Basic Global Warp Disruptor",
@@ -10,5 +22,7 @@
     "ru": "Basic Global Warp Disruptor",
     "zh": "基础全局跃迁扰断器"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 100000000.0
 }

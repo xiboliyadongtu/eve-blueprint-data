@@ -1,5 +1,20 @@
 {
-  "typeID": 73252,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Mithilfe eines Datenanalysegeräts sollte es möglich sein, die Sternenwandler-Beobachtungsdaten dieser Anlage zu bergen.",
+    "en": "With the assistance of a data analyzer module it should be possible to retrieve the stellar transmuter observation data from this structure.",
+    "es": "Con la ayuda de un módulo analizador de datos, debería ser posible recuperar los datos de observación del transmutador estelar de esta estructura.",
+    "fr": "Avec l'aide d'un analyseur de données, il devrait être possible de récupérer les données d'observation de transmutateur stellaire que recèle cette structure.",
+    "ja": "データアナライザーモジュールの助けを借りれば、このストラクチャから恒星トランスミューターの観測データを回収することが可能だと思われる。",
+    "ko": "이 구조물에 데이터 분석기를 사용하면 태양광 트랜스뮤터의 관찰 데이터를 회수할 수 있습니다.",
+    "ru": "С помощью анализатора данных вы сможете извлечь из этого сооружения данные наблюдений за звёздными передатчиками.",
+    "zh": "使用数据分析仪可以从这座建筑中回收星际突变器观测数据。"
+  },
+  "graphicID": 20298,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Sternbeobachtungsgroßrechner",
     "en": "Stellar Observation Mainframe",
@@ -10,5 +25,9 @@
     "ru": "Суперкомпьютер наблюдений за звёздами",
     "zh": "星际观测站主机"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 300.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

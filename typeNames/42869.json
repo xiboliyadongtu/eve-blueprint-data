@@ -1,5 +1,16 @@
 {
-  "typeID": 42869,
+  "description": {
+    "de": "Die Ruinen einer Minmatar-Struktur.",
+    "en": "The ruins of a Minmatar structure.",
+    "es": "Las ruinas de una estructura minmatariana.",
+    "fr": "Ruines d'une structure minmatar.",
+    "ja": "ミンマター系構造物の残骸。",
+    "ko": "민마타 구조물 폐허입니다.",
+    "ru": "Обломки разрушенного минматарского сооружения.",
+    "zh": "一座米玛塔尔建筑的废墟。"
+  },
+  "graphicID": 3797,
+  "groupID": 226,
   "name": {
     "de": "Wrecked Minmatar Structure",
     "en": "Wrecked Minmatar Structure",
@@ -10,5 +21,9 @@
     "ru": "Wrecked Minmatar Structure",
     "zh": "损毁的米玛塔尔建筑"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 5213.0,
+  "sofFactionName": "minmatarbase"
 }

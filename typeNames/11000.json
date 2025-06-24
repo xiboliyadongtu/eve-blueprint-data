@@ -1,5 +1,18 @@
 {
-  "typeID": 11000,
+  "capacity": 160.0,
+  "description": {
+    "de": "Schiffstyp: Die GRIFFIN wird von der caldarischen Navy häufig als Kampfunterstützungsschiff in Kampfstaffeln verwendet. Dabei wird ihre eindrucksvolle elektronische Ausrüstung dazu verwendet, die Funktionsfähigkeit des Zielschiffes herabzusetzen und es so zu einer leichten Beute für die Kampfschiffe zu machen.\r\n\r\nBesondere Fähigkeit:\r\n5% Bonus auf die Reichweite von Hybridwaffen je Skillstufe\r\n5% Bonus auf die CPU-Leistung je Skillstufe",
+    "en": "Entity: The Griffin is much used by the Caldari Navy as a support vessel in combat squadrons, using its impressive array of electronic gadgetry to disrupt the operation of target ships, making them easy prey for traditional combat vessels. Special Ability: 5% bonus to hybrid turret range and CPU output per skill level.",
+    "es": "Entidad: La Griffin es muy utilizada por la Armada Caldari como nave de apoyo en los escuadrones de combate. Además, posee una impresionante variedad de dispositivos electrónicos para perturbar el funcionamiento de las naves objetivo y convertirlas en presa fácil para las naves de combate tradicionales. Capacidad especial: 5 % de bonificación al alcance de las torretas híbridas y el rendimiento de la CPU por nivel de habilidad.",
+    "fr": "Entité : Le Griffin est très apprécié de la Caldari Navy qui l'utilise comme vaisseau de soutien dans les escadrons de combat. Son large éventail de systèmes électroniques embarqués permet de perturber le fonctionnement des vaisseaux cibles, offrant ainsi le champ libre aux vaisseaux d'attaque conventionnels. Aptitude particulière : augmente de 5 % par niveau de compétence les dégâts des tourelles hybrides et la production du CPU.",
+    "ja": "エンティティ:グリフィンは、戦闘分隊の支援艦としてカルダリ海軍で多く利用される。ターゲットした船の動作を強力な電子装備によって妨害することで、従来型戦闘艦による攻撃を容易にする。 \n\n特殊能力:スキルレベルごとにハイブリッドタレットの射程とCPU出力が5%増加。",
+    "ko": "함선: 칼다리 해군의 지원선으로 주로 사용되는 그리핀은 뛰어난 전자전 장비를 바탕으로 적의 기동을 방해하는 역할을 합니다. 그리핀에 의해 움직임이 묶인 적 함선은 전투형 함선의 먹잇감으로 전락합니다. 특수 능력: 매 레벨마다 하이브리드 터렛 사거리 및 CPU 용량 5% 증가",
+    "ru": "Описание: Griffin часто используется Флотом Caldari в качестве корабля сопровождения в боевых эскадрах. Благодаря впечатляющему электронному оснащению, эти суда способны создавать серьёзные помехи для нормального функционирования кораблей противника, делая их лёгкой добычей для обычных боевых кораблей. Классовый бонус: 5%-ное увеличение дальности турелей гибридного действия и вычислительной мощности процессора на уровень навыка.",
+    "zh": "“狮鹫”常被加达里海军用作战斗中队的支援舰船，它出色的电子设备阵列能干扰目标舰船的运作，使得它们成为常规战斗舰船炮下待宰的羔羊。\r\n\r\n特殊能力：每提升一级相应技能，混合炮台射程和CPU输出增加5%。"
+  },
+  "graphicID": 40,
+  "groupID": 298,
+  "mass": 1940000.0,
   "name": {
     "de": "Convoy Protector",
     "en": "Convoy Protector",
@@ -10,5 +23,10 @@
     "ru": "Convoy Protector",
     "zh": "卫队防御舰"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 42.93,
+  "sofFactionName": "caldaribase",
   "volume": 19400.0
 }

@@ -1,5 +1,20 @@
 {
-  "typeID": 670,
+  "description": {
+    "de": "Das flüchtige und extrem fortschrittliche Jovian-Direktorat schenkte einer kleinen Caldari-Megacorporation die Blaupause und Entwürfe für eine Technologie, die das Schicksal der Menschheit radikal verändern sollte. Für eine kleine, auserwählte Gruppe von Individuen mit der körperlichen und geistigen Widerstandsfähigkeit, den Übergang zum Posthumanismus zu überstehen, bildete diese Technologie ein Tor zu Macht und Reichtum jenseits ihrer kühnsten Träume, was sie nahezu unsterblich machte.",
+    "en": "The elusive and radically advanced Jovian Directorate gifted a small Caldari megacorporation with the blueprint and designs for a piece of technology that was to radically change the fate of the human race.\r\n\r\nFor a small, select, and chosen group of individuals, those with the physical and mental durability to survive the transition into posthumanism, this technology would provide the gateway to power and riches beyond their wildest dreams and with it, near immortality.",
+    "es": "El esquivo y radicalmente avanzado Consejo Joviano le regaló a una pequeña megacorporación caldari el plano y los diseños de una tecnología que cambiaría radicalmente el destino de la raza humana.\r\n\r\nPara un grupo pequeño, selecto y elegido de individuos, aquellos con la fortaleza física y mental para sobrevivir la transición hacia el poshumanismo, esta tecnología proporcionaría la puerta de entrada al poder y a las riquezas más allá de sus sueños más locos y, con ello, a algo muy cercano a la inmortalidad.",
+    "fr": "Le directoire jove, insaisissable et doté d'une technologie extrêmement avancée, a offert à une petite mégacorporation caldari le plan de construction et les données d'une technologie destinée à changer radicalement l'avenir de la race humaine. Pour un petit groupe d'individus triés sur le volet, possédant la résilience physique et mentale nécessaire pour survivre à la transition vers le posthumanisme, cette technologie permettrait d'accéder à des pouvoirs et des richesses dépassant leurs rêves les plus fous, et avec cela, à une quasi-immortalité.",
+    "ja": "全容は不明ながらも非常に高い技術力を持つジョビアン幹部会は、少数のカルダリのメガコーポレーションに対し、設計図とデザインという形で人類の運命を根底から変えるほどの技術を供与した。\r\n\r\n生きてポストヒューマンとなるための肉体的・精神的耐久力を持つ少数の選ばれた人々は、このテクノロジーにより想像を絶する権力と富を手に入れ、さらには不死に近い存在となった。",
+    "ko": "조브 감독이사회는 막강한 기술력을 자랑하며 급진적인 정책을 펼치기도 합니다. 그들은 한 칼다리 메가코퍼레이션에 인류의 역사를 완전히 뒤바꿀 기술을 전수했습니다.\r\n\r\n인류의 다음 진화 형태를 감당할 수 있을 만큼 강인한 육체와 정신을 가진 인간이 선별되었습니다. 그들은 인류의 오랜 꿈을 이룰 힘을 받았습니다. 바로 불멸의 삶이었습니다. 그렇게 막강한 권력과 부를 지닌 이들이 탄생했습니다.",
+    "ru": "Неуловимая и фантастически прогрессивная компания «Джовианский директорат» однажды подарила небольшой калдарской мегакорпорации чертежи и проекты технологии, которая полностью изменила судьбу человеческой цивилизации. Для немногих избранных, обладающих достаточной физической и ментальной выносливостью, чтобы пережить переход к постгуманистическому существованию, эта технология открыла врата к невиданным власти и богатству, о которых те и мечтать не могли. Она как никогда приблизила этих людей к бессмертию.",
+    "zh": "神秘莫测的朱庇特内议会拥有极其先进的技术，向一家小型加达里超级集团赠予了某项技术的蓝图和设计，而这项技术将彻底改变人类的命运。经过重重筛选的一小部分人拥有强健的体魄和坚定的意志，能够过渡到后人类时代，他们将掌握这项技术，获得超乎想象的权力和财富，并几近实现永生。"
+  },
+  "factionID": 500005,
+  "graphicID": 73,
+  "groupID": 29,
+  "iconID": 73,
+  "mass": 32000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Capsule",
     "en": "Capsule",
@@ -9,6 +24,33 @@
     "ko": "캡슐",
     "ru": "Capsule",
     "zh": "太空舱"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 16,
+  "radius": 2.0,
+  "sofFactionName": "jovebase",
+  "soundID": 20080,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 90.0,
+        "bonusText": {
+          "de": "Reduzierte effektiv zurückgelegte Distanz für die Sprungerschöpfung",
+          "en": "reduction to effective distance traveled for jump fatigue",
+          "es": "de reducción de la distancia efectiva hasta sufrir fatiga de salto.",
+          "fr": "de réduction de la distance effective comptabilisée pour l'épuisement de saut",
+          "ja": "ジャンプ疲労までの移動有効距離が減少",
+          "ko": "이동 거리에 따른 점프 피로도 감소",
+          "ru": "медленнее накапливается усталость от гиперпереходов",
+          "zh": "减少跳跃疲劳对有效距离的影响"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {}
   },
   "volume": 1000.0
 }

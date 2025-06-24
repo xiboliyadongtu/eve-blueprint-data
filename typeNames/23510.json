@@ -1,5 +1,19 @@
 {
-  "typeID": 23510,
+  "basePrice": 60000.0,
+  "description": {
+    "de": "Schwere Drohne zur Nachführstörung",
+    "en": "Heavy Tracking Disruptor Drone",
+    "es": "Dron disruptor de rastreo pesado",
+    "fr": "Drone perturbateur de suivi lourd.",
+    "ja": "ヘビートラッキング妨害器ドローン",
+    "ko": "헤비 트래킹 디스럽터 드론",
+    "ru": "Тяжёлый дрон глушения системы слежения",
+    "zh": "重型索敌扰断无人机"
+  },
+  "graphicID": 1119,
+  "groupID": 639,
+  "marketGroupID": 841,
+  "mass": 3000.0,
   "name": {
     "de": "Praetor TD-900",
     "en": "Praetor TD-900",
@@ -10,5 +24,10 @@
     "ru": "Praetor TD-900",
     "zh": "执政官TD-900"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 15.0,
+  "sofFactionName": "amarrbase",
   "volume": 25.0
 }

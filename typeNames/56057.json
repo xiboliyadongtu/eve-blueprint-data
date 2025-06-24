@@ -1,5 +1,7 @@
 {
-  "typeID": 56057,
+  "graphicID": 1217,
+  "groupID": 920,
+  "mass": 1.0,
   "name": {
     "de": "Strong Metaliminal Electrical Storm",
     "en": "Strong Metaliminal Electrical Storm",
@@ -9,6 +11,93 @@
     "ko": "상급 메타경계성 전기폭풍",
     "ru": "Strong Metaliminal Electrical Storm",
     "zh": "强金属极限电子风暴"
+  },
+  "portionSize": 250,
+  "published": true,
+  "sofFactionName": "genericbase",
+  "traits": {
+    "iconID": 21903,
+    "miscBonuses": [
+      {
+        "bonusText": {
+          "de": "Tarnvorrichtungen funktionieren in Systemen unter dem Einfluss dieses Sturmes nicht.",
+          "en": "Cloaking devices cannot operate within systems affected by this storm",
+          "es": "Los dispositivos de camuflaje quedan inoperativos en los sistemas afectados por esta tormenta.",
+          "fr": "Les dispositifs de camouflage sont inutilisables dans les systèmes affectés par cette tempête",
+          "ja": "遮蔽装置は、この嵐の影響を受けているシステムの中では機能しない",
+          "ko": "폭풍의 영향을 받은 항성계에서 클로킹 장치를 사용할 수 없습니다.",
+          "ru": "Системы маскировки не могут работать в системах, подвергшихся воздействию этой бури",
+          "zh": "在受此风暴影响的星系中不能启用隐形装置"
+        },
+        "importance": 5
+      },
+      {
+        "bonus": 25.0,
+        "bonusText": {
+          "de": "Reduktion der EM-Resistenz von Schiffen",
+          "en": "reduction in ship EM resistances",
+          "es": "de reducción de las resistencias electromagnéticas de la nave.",
+          "fr": "de réduction des résistances EM du vaisseau",
+          "ja": "艦船EMレジスタンスが減少",
+          "ko": "EM 저항력 감소",
+          "ru": "уменьшение сопротивляемости корабля ЭМ-урону",
+          "zh": "舰船电磁抗性降低"
+        },
+        "importance": 1,
+        "isPositive": false,
+        "unitID": 105
+      },
+      {
+        "bonus": 25.0,
+        "bonusText": {
+          "de": "Bonus auf die Wiederaufladerate des Energiespeichers von Schiffen",
+          "en": "bonus to ship capacitor recharge rate",
+          "es": "de bonificación a la velocidad de carga del condensador de la nave.",
+          "fr": "de bonus à la vitesse de recharge du capaciteur du vaisseau",
+          "ja": "艦船のキャパシタ充電速度が増加",
+          "ko": "캐패시터 충전 속도 증가",
+          "ru": "бонус к скорости перезарядки накопителя",
+          "zh": "舰船电容回充速率加成"
+        },
+        "importance": 2,
+        "isPositive": true,
+        "unitID": 105
+      },
+      {
+        "bonus": 25.0,
+        "bonusText": {
+          "de": "Bonus auf die Virenkohärenz von <a href=showinfo:22177>Relikt-</a> und <a href=showinfo:22175>Datenanalysegeräten</a>",
+          "en": "bonus to <a href=showinfo:22177>Relic</a> and <a href=showinfo:22175>Data Analyzer</a> virus coherence",
+          "es": "de bonificación a la coherencia del virus de los <a href=showinfo:22175>analizadores de datos</a> y de <a href=showinfo:22177>reliquias</a>.",
+          "fr": "de bonus à la résistance virale des <a href=showinfo:22177>analyseurs de reliques</a> et des <a href=showinfo:22175>analyseurs de données</a>",
+          "ja": "<a href=showinfo:22177>遺物</a>と<a href=showinfo:22175>データアナライザー</a>のウイルスコヒーレンスが上昇",
+          "ko": "<a href=showinfo:22177>유물 분석기</a> 및 <a href=showinfo:22175>데이터 분석기</a> 바이러스 결합도 증가",
+          "ru": "бонус к целостности вируса <a href=showinfo:22177>артефактов</a> и <a href=showinfo:22175>анализатора данных</a>",
+          "zh": "<a href=showinfo:22177>遗迹分析仪</a>和<a href=showinfo:22175>数据分析仪</a>病毒同步率加成"
+        },
+        "importance": 3,
+        "isPositive": true,
+        "unitID": 139
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Bonus auf die Stärke von <a href=showinfo:30013>Kern-</a> und <a href=showinfo:30028>Gefechtsscansonden</a>",
+          "en": "bonus to <a href=showinfo:30013>Core</a> and <a href=showinfo:30028>Combat Scanner Probe</a> strength",
+          "es": "de bonificación a la intensidad de la <a href=showinfo:30028>sonda escáner de combate</a> y la <a href=showinfo:30013>de núcleo</a>.",
+          "fr": "de bonus à la puissance des <a href=showinfo:30013>sondes de balayage cosmiques</a> et des <a href=showinfo:30028>sondes de balayage de combat</a>",
+          "ja": "<a href=showinfo:30013>コア</a>及び<a href=showinfo:30028>戦闘スキャナープローブ</a>の強度が上昇",
+          "ko": "<a href=showinfo:30013>코어 프로브</a> 및 <a href=showinfo:30028>정찰 프로브</a> 강도 증가",
+          "ru": "бонус к чувствительности зондов <a href=showinfo:30013>навигационной</a> и <a href=showinfo:30028>боевой разведки</a>",
+          "zh": "<a href=showinfo:30013>核心</a>和<a href=showinfo:30028>作战扫描探针</a>强度加成"
+        },
+        "importance": 4,
+        "isPositive": true,
+        "unitID": 105
+      }
+    ],
+    "roleBonuses": [],
+    "types": {}
   },
   "volume": 20.0
 }

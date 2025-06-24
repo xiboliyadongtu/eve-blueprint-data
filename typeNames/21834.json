@@ -1,5 +1,16 @@
 {
-  "typeID": 21834,
+  "description": {
+    "de": "Eine Schranke - verstehen, umdrehen, abhauen.",
+    "en": "A barrier. Tune in, turn up, keep out.",
+    "es": "Una barrera. Se mira, pero no se toca.",
+    "fr": "Une barrière. Garde les intrus à distance.",
+    "ja": "バリアー。近付かない方がいいだろう。",
+    "ko": "배리어입니다. 출입금지.",
+    "ru": "Барьер. Держись подальше.",
+    "zh": "一个障碍物。接入，发现，隔离。"
+  },
+  "graphicID": 2478,
+  "groupID": 226,
   "name": {
     "de": "Fortified Minmatar Barrier",
     "en": "Fortified Minmatar Barrier",
@@ -10,5 +21,9 @@
     "ru": "Fortified Minmatar Barrier",
     "zh": "强化的米玛塔尔屏障"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 622.0,
+  "sofFactionName": "minmatarbase"
 }

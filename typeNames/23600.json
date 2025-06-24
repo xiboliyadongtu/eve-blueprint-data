@@ -1,5 +1,18 @@
 {
-  "typeID": 23600,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Ein kleiner Bunker, der mit ausgeklügelten Kommunikationsanlagen vollgestopft ist. Er wird von Schmugglern und Grenzgängern zur Koordination ihrer Aktivitäten genutzt.",
+    "en": "A small bunker crammed with sophisticated communication devices used by smuggler's and border runners to coordinate themselves.",
+    "es": "Un pequeño búnker repleto de dispositivos de comunicación sofisticados que los contrabandistas y los traficantes usan para coordinarse.",
+    "fr": "Petit bunker rempli de dispositifs de communication sophistiqués utilisés pour la coordination entre contrebandiers et trafiquants.",
+    "ja": "洗練された通信装置がひしめく小型バンカー。密輸業者や怪しげな者たちが連絡を取るために利用する。",
+    "ko": "소형 벙커에는 밀수업자들이 사용하는 각종 통신 장비가 빼곡히 들어서 있습니다.",
+    "ru": "Маленький бункер, заполненный продвинутыми устройствами связи, используется контрабандистами для координации своих действий.",
+    "zh": "一座小型碉堡，装满了精密复杂的通信设备，走私者会用这些设备来协调相互之间的行动。"
+  },
+  "graphicID": 2496,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Runner's Relay Station",
     "en": "Runner's Relay Station",
@@ -10,5 +23,10 @@
     "ru": "Runner's Relay Station",
     "zh": "走私中继站"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 738.0,
+  "sofFactionName": "serpentis",
+  "soundID": 20195,
   "volume": 100000000.0
 }

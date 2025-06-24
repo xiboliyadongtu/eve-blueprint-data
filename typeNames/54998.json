@@ -1,5 +1,18 @@
 {
-  "typeID": 54998,
+  "capacity": 20000.0,
+  "description": {
+    "de": "Diese Upwell-Struktur scheint als sekundärer Lagertresor für empfindliche Prototypen und Forschungsdaten zu dienen.",
+    "en": "This Upwell structure appears to be intended as a secondary storage vault for sensitive prototypes and research data.",
+    "es": "Esta estructura de Upwell parece ser una cámara de almacenamiento secundaria para prototipos y datos de investigación sensibles.",
+    "fr": "Cette structure Upwell semble être un coffre de stockage secondaire pour les prototypes et données de recherches sensibles.",
+    "ja": "このアップウェルストラクチャは、機密性の高いプロトタイプや研究データのための二次保管庫として意図されているようだ。",
+    "ko": "해당 업웰 구조물은 연구 데이터 및 프로토타입을 보관하기 위한 보조 창고로 사용되고 있습니다.",
+    "ru": "Это сооружение консорциума «Апвелл», видимо, действует как дополнительное хранилище для секретных прототипов и важнейших исследовательских данных.",
+    "zh": "这座昇威建筑似乎是用来作为敏感研究数据和原型机的次级存储设施。"
+  },
+  "graphicID": 2373,
+  "groupID": 494,
+  "mass": 1000000.0,
   "name": {
     "de": "Decloaked Backup Storage Vault",
     "en": "Decloaked Backup Storage Vault",
@@ -10,5 +23,9 @@
     "ru": "Decloaked Backup Storage Vault",
     "zh": "显形的备份存储库"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 937.0,
+  "sofFactionName": "genericmetal",
   "volume": 4000.0
 }

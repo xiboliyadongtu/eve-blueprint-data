@@ -1,5 +1,75 @@
 {
-  "typeID": 2006,
+  "basePrice": 8000000.0,
+  "capacity": 400.0,
+  "description": {
+    "de": "Die Omen ist ein Paradebeispiel für die Denkweise der Amarr in Bezug auf das Schiffsdesign: Mächtige Panzerung, starke Laser. Durch fortschrittliche Kühltechnologie kann die Omen ihre Laser schneller abfeuern als ähnlich bestückte Schiffe.",
+    "en": "The Omen is a stereotypical example of the Amarrian School of thinking when it comes to ship design: thick armor and hard hitting lasers. Advancements in heat dissipation allow the Omen to fire its lasers faster than other ships without this technology.",
+    "es": "La Omen es un ejemplo típico de la escuela de pensamiento amarriana en lo que se refiere al diseño de naves: un blindaje grueso y láseres contundentes. Los avances en disipación de calor permiten a la Omen disparar sus láseres más rápido que otras naves desprovistas de esta tecnología.",
+    "fr": "L’Omen est l’exemple même de l'école de pensée amarr en terme de conception de vaisseau : un épais blindage et de puissants lasers. Les progrès effectués dans le domaine de la dissipation thermique, offrent à l'Omen des cadences de tir laser plus élevées que celles des vaisseaux ne bénéficiant pas de cette technologie.",
+    "ja": "オーメンは、艦船設計におけるアマースクール的思考の典型例で、厚いアーマーと強力なレーザーを持つ。新開発の放熱技術により、同クラス艦に比べてレーザーの発射間隔を短縮することに成功した。",
+    "ko": "오멘은 두꺼운 장갑과 강력한 레이저 무기 체계를 탑재한 함선으로 아마르 함선 설계의 전형적인 예시입니다. 최첨단 냉각 기술이 적용되어 일반적인 함선과 비교하여 월등한 무기 연사속도를 자랑합니다.",
+    "ru": "Сильные стороны проекта «Омен» — толстая броня и мощные лазеры, что совершенно типично для амаррских кораблей. Благодаря усовершенствованным системам отвода тепла «Омен» превосходит по скорострельности лазерных орудий любой другой корабль, не оснащённый этой технологией.",
+    "zh": "就飞船设计而言，启示级堪称艾玛学院模式的典范：它拥有厚重的装甲和强悍的激光武器。启示级先进的散热技术使得它的激光射速比没有该技术的飞船更快。"
+  },
+  "factionID": 500003,
+  "graphicID": 1065,
+  "groupID": 26,
+  "marketGroupID": 74,
+  "mass": 13000000.0,
+  "masteries": {
+    "0": [
+      64,
+      96,
+      99,
+      164,
+      150,
+      89,
+      93,
+      94
+    ],
+    "1": [
+      64,
+      96,
+      99,
+      164,
+      150,
+      89,
+      93,
+      94
+    ],
+    "2": [
+      64,
+      96,
+      99,
+      164,
+      150,
+      89,
+      93,
+      94
+    ],
+    "3": [
+      64,
+      96,
+      99,
+      164,
+      150,
+      89,
+      93,
+      94
+    ],
+    "4": [
+      64,
+      96,
+      99,
+      164,
+      117,
+      150,
+      89,
+      93,
+      94
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Omen",
     "en": "Omen",
@@ -9,6 +79,48 @@
     "ko": "오멘",
     "ru": "Omen",
     "zh": "启示级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 134.43,
+  "sofFactionName": "amarrbase",
+  "soundID": 20063,
+  "traits": {
+    "types": {
+      "3335": [
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Reduktion der Aktivierungskosten von <a href=showinfo:3306>mittelgroßen Energiegeschütztürmen</a>",
+            "en": "reduction in <a href=showinfo:3306>Medium Energy Turret</a> activation cost",
+            "es": "de reducción del coste de activación de la <a href=showinfo:3306>torreta de energía mediana</a>.",
+            "fr": "de réduction du coût d'activation des <a href=showinfo:3306>tourelles à énergie intermédiaires</a>",
+            "ja": "<a href=showinfo:3306>中型エネルギータレット</a>の起動コストが軽減",
+            "ko": "<a href=showinfo:3306>중형 에너지 터렛</a> 활성화 비용 감소",
+            "ru": "сокращается расход энергии при ведении огня из <a href=showinfo:3306>средних лазерных орудий</a>",
+            "zh": "<a href=\"showinfo:3306\">中型能量炮台</a>启动消耗减少"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die Feuerrate von <a href=showinfo:3306>mittelgroßen Energiegeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3306>Medium Energy Turret</a> rate of fire",
+            "es": "de bonificación a la cadencia de tiro de la <a href=showinfo:3306>torreta de energía mediana</a>.",
+            "fr": "de bonus à la cadence de tir des <a href=showinfo:3306>tourelles à énergie intermédiaires</a>",
+            "ja": "<a href=showinfo:3306>中型エネルギータレット</a>の発射間隔が短縮",
+            "ko": "<a href=showinfo:3306>중형 에너지 터렛</a> 연사속도 증가",
+            "ru": "повышается скорострельность <a href=showinfo:3306>средних лазерных орудий</a>",
+            "zh": "<a href=\"showinfo:3306\">中型能量炮台</a>射速加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 118000.0
 }

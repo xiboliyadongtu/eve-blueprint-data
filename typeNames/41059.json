@@ -1,5 +1,18 @@
 {
-  "typeID": 41059,
+  "description": {
+    "de": "Stasisgreifarme reduzieren die Höchstgeschwindigkeit eines Ziels mittels Mikro-Energieströmen, die das Ziel zeitweilig förmlich umschließen und es dadurch verlangsamen.\nDer Verzögerungseffekt ist im unmittelbaren Nahbereich am stärksten und verringert sich wenn sich die Entfernung vergrößert.\nSchwere Stasisgreifarme benötigen eine sehr stabile Basis und können daher nur auf Schlachtschiffen und Capital-Schiffen montiert werden.",
+    "en": "Stasis Grapplers reduce the maximum speed of a target ship by employing micro energy streams which effectively entangle the target temporarily, thereby slowing it down.\r\nThis slowing effect is strongest at very close ranges, and diminishes as range increases.\r\nHeavy Stasis Grapplers require a very stable base platform, and therefore may only be fitted to Battleships and Capital Ships.",
+    "es": "Los anquilizadores de estasis reducen la velocidad máxima de una nave usando canales de microenergía que se entrelazan temporalmente con ella y la ralentizan.\n\nEste efecto de ralentización es más potente a corta distancia y disminuye conforme aumenta el alcance.\n\nLos anquilizadores de estasis pesados requieren una base muy estable, de modo que solo se pueden equipar en acorazados y naves capitales.",
+    "fr": "Les entraves de stase endiguent la vitesse maximale du vaisseau ciblé grâce aux flux microénergétiques qui enchaînent temporairement la cible pour la ralentir.\n\nLes effets de ralentissement décroissent proportionnellement à la distance de la cible.\n\nLes entraves de stase lourdes, qui requièrent une plateforme de projection stable, ne peuvent être montées que sur les cuirassés et les vaisseaux capitaux.",
+    "ja": "ステイシスグラップラーはマイクロエナジーの流れを生成してターゲットとなる艦船の機動力を一時的に制限することで、最大速度を低下させる。ターゲットとの距離が近いほど効果が高く、距離が遠くなるとそれに合わせて効果が低くなる。ヘビーステイシスグラップラーは十分安定した土台に設置する必要があるため、戦艦あるいは母艦にしか搭載することができない。",
+    "ko": "마이크로 에너지 파동을 발사하여 대상 함선의 움직임을 일시적으로 방해함으로써 최대 속도를 감소시킵니다. <br><br>감속 효과는 대상에 근접했을 때 가장 강하며 멀어질수록 약해집니다. <br><br>중량 스테이시스 그래플러는 안정적인 기반 플랫폼이 요구되기 때문에 배틀쉽 또는 캐피탈 함선에만 장착할 수 있습니다.",
+    "ru": "Высокомощные стазис-индукторы уменьшают максимальную скорость корабля, используя энергетические потоки, временно захватывающие корабль в стазис-поле и замедляющие его движение.\n\nОни наиболее эффективны на коротких дистанциях; с увеличением дистанции до корабля-цели эффективность падает.\n\nТяжёлые высокомощные стазис-индукторы предназначены для использования на линкорах и кораблях большого тоннажа.",
+    "zh": "停滞捕捉光束通过使用微能流来降低目标舰船的最大速度，该装备可以有效地暂时束缚目标，降低其速度。\n\n这种减速效果在近距离时十分有效，随着距离增加而逐渐减弱。\n\n装配重型停滞捕捉光束需要非常稳定的基础平台，所以只能装配在战列舰和旗舰级舰船上。"
+  },
+  "groupID": 1672,
+  "iconID": 21581,
+  "marketGroupID": 2154,
+  "metaGroupID": 4,
   "name": {
     "de": "Domination Heavy Stasis Grappler",
     "en": "Domination Heavy Stasis Grappler",
@@ -10,5 +23,9 @@
     "ru": "Domination Heavy Stasis Grappler",
     "zh": "主天使停滞捕捉光束"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 500.0,
+  "variationParentTypeID": 41040,
   "volume": 50.0
 }

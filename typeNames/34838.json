@@ -1,5 +1,18 @@
 {
-  "typeID": 34838,
+  "description": {
+    "de": "Der Aufbau dieses Geräts legt nahe, dass es dafür entworfen, um einen einzelnen Insassen eine unbestimmte Zeitspanne lang aufzubewahren.",
+    "en": "The structure of this device suggests that it is designed to preserve a singular occupant for an undefined period of time.",
+    "es": "La estructura de este dispositivo sugiere que está diseñado para preservar a un único ocupante durante un periodo de tiempo indefinido.",
+    "fr": "La structure ce dispositif suggère qu'il est destiné à assurer la conservation d'un occupant unique, pour une durée indéterminée.",
+    "ja": "この装置の構造は、乗員1名の生命を無期限に維持するために設計された装置であることを示唆している。",
+    "ko": "단일 개체를 장기간 보존하기 위해 설계된 슬리퍼 기계 장치입니다.",
+    "ru": "Конструкция этого устройства предполагает, что оно предназначено для сохранения заключённого в нём тела в течение неопределённого периода времени.",
+    "zh": "这个装置的建筑类型暗示它被设计用来无限期保存单人躯体。"
+  },
+  "graphicID": 21130,
+  "groupID": 226,
+  "iconID": 398,
+  "mass": 200.0,
   "name": {
     "de": "Sleeper Canopic",
     "en": "Sleeper Canopic",
@@ -10,5 +23,9 @@
     "ru": "Sleeper Canopic",
     "zh": "冬眠者尸棺"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "sofFactionName": "jovebase",
   "volume": 2.0
 }

@@ -1,5 +1,19 @@
 {
-  "typeID": 81615,
+  "basePrice": 100000000.0,
+  "description": {
+    "de": "Dieses Upgrade ermöglicht das Onlinegehen eines <a href=showinfo:35912>Standup-Anziehungsfeldgenerators</a> an einer <a href=showinfo:35840>Pharolux-Signalfeuer</a>-Struktur in dem System.",
+    "en": "This upgrade enables the onlining of a <a href=showinfo:35912>Standup cynosural field generator</a> at one <a href=showinfo:35840>Pharolux cyno beacon </a> structure in the system.",
+    "es": "Esta mejora permite la conexión de un <a href=showinfo:35912>generador de campo cinosural Standup</a> en una estructura de <a href=showinfo:35840>cinobaliza Pharolux</a> del sistema.",
+    "fr": "Cette amélioration permet l'activation d'un <a href=showinfo:35912>générateur de champ cynosural Standup</a> sur une structure de <a href=showinfo:35840>balise cynosurale Pharolux</a> dans le même système solaire.",
+    "ja": "このアップグレードにより、同じソーラーシステム内にある<a href=showinfo:35840>フファロラックス・サイノビーコン</a>ストラクチャ上で<a href=showinfo:35912>スタンドアップ・サイノシュラルフィールドジェネレーター</a>をオンライン化できるようになる。",
+    "ko": "<a href=showinfo:35912>스탠드업 사이노슈럴 필드 생성기</a>를 온라인 상태로 전환할 수 있는 업그레이드로 항성계에 설치된 <a href=showinfo:35840>패롤럭스 사이노슈럴 비컨</a>을 기반으로 작동합니다.",
+    "ru": "Это улучшение позволяет включить <a href=showinfo:35912>приводной маяк на базе «Стационар»</a> на одном <a href=showinfo:35840>приводном маяке «Фаролюкс»</a>, расположенном в той же звёздной системе.",
+    "zh": "这个升级件使得克隆飞行员能够在星系的<a href=showinfo:35840>明灯诱导信标</a>建筑中启动<a href=showinfo:35912>屹立诱导力场发生器</a>。"
+  },
+  "groupID": 4772,
+  "iconID": 3946,
+  "marketGroupID": 1282,
+  "mass": 1000.0,
   "name": {
     "de": "Cynosural Navigation",
     "en": "Cynosural Navigation",
@@ -10,5 +24,7 @@
     "ru": "Cynosural Navigation",
     "zh": "诱导力场导航系统"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 200000.0
 }

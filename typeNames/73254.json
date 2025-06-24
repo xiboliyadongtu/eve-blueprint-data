@@ -1,5 +1,18 @@
 {
-  "typeID": 73254,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese fortschrittliche Forschungseinrichtung wurde vom Imperium der Amarr errichtet, um Ergebnisse von Experimenten mit Triglavia-Prototypen von Sternenwandlern zu sammeln und zu analysieren, die in der nahegelegenen Kriegszone operieren. Kapselpiloten, die verschlüsselte Sternforschungsdaten in dieser Anlage deponieren, erhalten spezielle Loyalitätsmarken, die für ISK verkauft oder gegen exklusive Blaupausenkopien für frühzeitigen Zugang zur neuen Magnate Navy Issue und Prophecy Navy Issue eingetauscht werden können.",
+    "en": "This advanced research facility has been established by the Amarr Empire to collect and analyze the results of experiments with Triglavian-derived prototype stellar transmuters operating within the nearby warzone.\r\n\r\nCapsuleers who deposit stacks of Encrypted Stellar Research Data into this structure will receive special loyalty tokens that can be sold for ISK or traded for exclusive early access to blueprint copies for the new Magnate Navy Issue and Prophecy Navy Issue ships.",
+    "es": "El Imperio Amarr ha establecido este centro de investigación avanzado para recoger y analizar los resultados de los experimentos con los prototipos de transmutadores estelares triglavianos que operan en la zona de guerra cercana.\n\nLos capsulistas que depositen pilas de datos de investigación estelar cifrados en esta estructura recibirán fichas de lealtad especiales que se pueden vender por ISK o intercambiar para obtener un acceso anticipado exclusivo a copias de planos de las nuevas naves Magnate modelo de la Armada y Prophecy modelo de la Armada.",
+    "fr": "Cette installation de recherche avancée a été établie par l'Empire amarr pour recueillir et analyser les résultats des expériences menées avec des prototypes de transmutateurs stellaires dérivés de la technologie triglavian opérant dans la zone de guerre voisine. Les capsuliers qui déposent des piles de données de recherche stellaire cryptées dans cette structure recevront des jetons de loyauté spéciaux qui peuvent être vendus contre des ISK ou échangés contre un accès exclusif à des copies de plans de construction pour les nouveaux vaisseaux Magnate Navy Issue et Prophecy Navy Issue.",
+    "ja": "この先進的研究施設はアマー帝国によって建設されたもので、付近の紛争宙域で稼働しているトリグラビアン由来のプロトタイプ恒星トランスミューターを使った実験結果を収集、分析することを目的としている。\r\n\r\nこのストラクチャに大量の暗号化された星間研究データを預けたカプセラは、売却してISKを手に入れたり、この方法でのみ先行入手できる、新型艦のマグニート海軍仕様やプロフェシー海軍仕様の設計図コピーとの交換に使える特別なロイヤルティトークンを与えられる。",
+    "ko": "아마르 제국이 국경 지대에 건설한 연구시설입니다. 트리글라비안의 기술을 응용한 프로토타입 태양광 트랜스뮤터의 실험 결과를 수집하고 분석합니다.\r\n\r\n해당 시설에 암호화된 천체 연구 데이터를 제출한 캡슐리어는 특별 로열티 토큰을 받을 수 있습니다. 로열티 토큰은 거래소에서 ISK와 교환하거나 사전 판매되는 마그네이트 및 프로퍼시 해군 에디션 함선의 블루프린트 복제본을 구매할 수 있습니다.",
+    "ru": "Амаррская Империя построила эту передовую научную базу для сбора и анализа результатов экспериментов с прототипами звёздных передатчиков, расположенных в ближайшей зоне боевых действий, технологию изготовления которых она позаимствовала у Триглава. Пилоты, поставляющие этой базе зашифрованные данные звёздных исследований, получат особые наградные жетоны, которые можно продать за ISK или обменять на эксклюзивные копии чертежей новых кораблей — армейского «Магната» и армейского «Професи», — находящиеся в раннем доступе.",
+    "zh": "这座高级研究设施由艾玛帝国建造，旨在对附近战区中运行的基于三神裔科技的试验型星际突变器的实验结果进行收集和分析。\n\n\n\n在这座建筑中上交加密星际研究数据的克隆飞行员将获得特别的忠诚点凭证，可以出售换取星币，也可以用来兑换富豪级海军型和先知级海军型的蓝图拷贝。"
+  },
+  "graphicID": 2373,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Sternenwandlerforschungslabor des Imperiums",
     "en": "Imperial Stellar Transmuter Research Laboratory",
@@ -10,5 +23,10 @@
     "ru": "Амаррская лаборатория по изучению звёздных передатчиков",
     "zh": "帝国星际突变器研究实验室"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 220.0,
+  "sofFactionName": "genericmetal",
   "volume": 100000000.0
 }

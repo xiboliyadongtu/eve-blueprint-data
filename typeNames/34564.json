@@ -1,5 +1,17 @@
 {
-  "typeID": 34564,
+  "description": {
+    "de": "33.3% Bonus auf alle Schild- und Panzerungsresistenzen\n\n66,6% Reduktion des Signaturradius-Nachteils von Mikrowarpantrieben",
+    "en": "33.3% bonus to all shield and armor resistances\r\n66.6% reduction in MicroWarpdrive signature radius penalty",
+    "es": "33,3 % de bonificación a todas las resistencias de blindaje y escudo.\n\n66,6 % de reducción de la penalización al radio de la señal del motor de microwarp.",
+    "fr": "33 % de bonus à toutes les résistances de bouclier et de blindage\n\nRéduit de 66,6%  la pénalité du rayon de signature du propulseur de microwarp.",
+    "ja": "すべてのシールドおよびアーマーレジスタンスが33.3%増加。\r\nマイクロワープドライブのシグネチャ半径ペナルティが66.6%軽減",
+    "ko": "실드 및 장갑 저항력 33.3% 증가<br>마이크로 워프 드라이브 시그니처 반경 페널티 66.6% 감소",
+    "ru": "на 33,3% повышается сопротивляемость брони и силового поля корабля всем видам воздействия\n\nна 66,6% уменьшается влияние микроварп-ускорителей на размер сигнатуры корабля",
+    "zh": "护盾和装甲抗性提高33.3%\n\n微型跃迁推进器的信号半径惩罚减少66.6%"
+  },
+  "groupID": 1306,
+  "iconID": 1042,
+  "mass": 100.0,
   "name": {
     "de": "Svipul-Verteidigungsmodus",
     "en": "Svipul Defense Mode",
@@ -10,5 +22,9 @@
     "ru": "Svipul Defense Mode",
     "zh": "斯威普级防御模式"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 50.0,
   "volume": 5.0
 }

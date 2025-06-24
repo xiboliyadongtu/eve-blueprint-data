@@ -1,5 +1,17 @@
 {
-  "typeID": 26904,
+  "description": {
+    "de": "Ein gewöhnliches Paket, das Waren in einer Schutzverpackung enthält. Es ist mit einem Codeschloss gesichert und kann nicht ohne Kenntnis der passenden Kombination geöffnet werden.",
+    "en": "A generic package containing goods in a protective wrapping. It is secured with a code lock and cannot be opened without knowing the proper combination.",
+    "es": "Paquete genérico que contiene productos en un embalaje protector. Está protegido con un cierre con código y no se puede abrir sin conocer la combinación correcta.",
+    "fr": "Colis standard contenant des marchandises dans un emballage de protection. Il est protégé par un code et vous ne pouvez l'ouvrir que si vous disposez de la bonne combinaison.",
+    "ja": "丁寧に梱包された物資の入った、一般的なパッケージ。正しいパスワードを入力しないと開かないようになっている。",
+    "ko": "물품이 든 일반적인 패키지로 보호장치로 싸여있습니다. 코드가 걸려 있어 정확한 코드 조합을 모른다면 열 수 없습니다.",
+    "ru": "Пакет, содержащий товары в защитной оболочке. Он закрыт на кодовый замок, который нельзя открыть, не зная нужного кода.",
+    "zh": "一个通用的安全保护包裹。它由一个密码锁保护，如果不知道正确的密码组合就无法打开。"
+  },
+  "groupID": 526,
+  "iconID": 2039,
+  "mass": 25.0,
   "name": {
     "de": "Secure Coded Package",
     "en": "Secure Coded Package",
@@ -10,5 +22,7 @@
     "ru": "Secure Coded Package",
     "zh": "密码安全包装"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 120.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 77304,
+  "capacity": 500000.0,
+  "description": {
+    "de": "Diese Charon hat die Aufgabe, zurückerhaltene Gegenstände zu katalogisieren, damit der Staat sie nach Ermessen neu verteilen kann.",
+    "en": "This Charon is charged with cataloging reclaimed items so they can be reassigned as the State sees fit.",
+    "es": "Esta Charon se encarga de catalogar los objetos recuperados para que puedan ser reasignados según lo crea conveniente el Estado.",
+    "fr": "Ce Charon est chargé de faire l'inventaire des objets récupérés afin qu'ils soient réassignés comme l'État l'entend.",
+    "ja": "このカロンの任務は、回収された物品を記録し、連合が必要に応じて再配分できるようにする事である。",
+    "ko": "회수한 물자를 연합이 필요한 곳에 재배치할 수 있도록 분류하는 임무를 맡은 카론입니다.",
+    "ru": "Задача этого Charon — каталогизировать собранные объекты, чтобы затем распределить их по усмотрению Государства.",
+    "zh": "这艘渡神级舰船负责对收回的物品进行编目，以便按照合众国的需要重新分配。"
+  },
+  "graphicID": 2740,
+  "groupID": 952,
+  "mass": 100000.0,
   "name": {
     "de": "Charon Requisition",
     "en": "Charon Requisition",
@@ -10,5 +23,8 @@
     "ru": "Charon Requisition",
     "zh": "渡神级征用处"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 550.0,
+  "sofFactionName": "caldaribase"
 }

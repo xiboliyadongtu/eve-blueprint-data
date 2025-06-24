@@ -1,5 +1,17 @@
 {
-  "typeID": 353456,
+  "basePrice": 417000.0,
+  "description": {
+    "de": "Fortgeschrittener Skill in der Munitionsverwaltung von Sekundärwaffen.\n+3 % auf die maximale Munitionskapazität von Sekundärwaffen pro Skillstufe.",
+    "en": "Advanced skill at sidearm weapon ammunition management.\r\n+3% sidearm maximum ammunition capacity per level.",
+    "es": "Habilidad avanzada de gestión de munición de arma secundaria.\n+3% a la capacidad máxima de munición de armas secundarias por nivel.",
+    "fr": "Compétence avancée de gestion des munitions des armes secondaires.\n+3 % de capacité maximale de munitions des armes secondaires par niveau.",
+    "it": "Abilità avanzata nella gestione delle munizioni per armi secondarie.\n+3% alla massima capacità di munizioni delle armi secondarie per livello.",
+    "ja": "サイドアームの弾薬を管理する上級スキル。\nレベル上昇ごとにサイドアームの装弾数が3%増加。",
+    "ko": "보조 무기 탄약 관리 스킬입니다.<br><br>매 레벨마다 장탄수 3% 증가",
+    "ru": "Углубленный навык обращения с боеприпасом для личного оружия.\n+3% к максимальному количеству боеприпасов для личного оружия на каждый уровень.",
+    "zh": "管理副武器弹药的高级技能。每升一级，副武器的最大弹药容量增加3%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Fertigkeit: Sekundärwaffenkapazität",
     "en": "Sidearm Weapon Capacity Proficiency",
@@ -11,5 +23,7 @@
     "ru": "Эксперт по вместимости боеприпаса для личного оружия",
     "zh": "副武器容量熟练度"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

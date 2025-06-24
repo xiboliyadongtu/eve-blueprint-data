@@ -1,5 +1,18 @@
 {
-  "typeID": 27902,
+  "basePrice": 125000.0,
+  "description": {
+    "de": "Bedienung von Hüllen-Fernreparatursystemen.\r\n\r\n5% Bonus auf den Energiespeicherverbrauch von Hüllen-Fernreparatursystem-Modulen je Skillstufe.",
+    "en": "Operation of remote hull repair systems. 5% reduced capacitor need for remote hull repair system modules per skill level.",
+    "es": "Funcionamiento de sistemas de reparación remota del casco. Necesidad del condensador reducida un 5 % en los módulos de sistemas de reparación remota de casco por nivel de habilidad.",
+    "fr": "Systèmes permettant la réparation à distance d'une coque. Réduit de 5 % par niveau de compétence les besoins énergétiques du capaciteur pour les modules de système de réparation de coque à distance.",
+    "ja": "リモート船体リペアシステムを操作するスキル。スキルレベル上昇ごとにリモート船体リペアシステムモジュールのキャパシタ消費量が 5% 減少する。",
+    "ko": "원격 선체수리 시스템 스킬입니다. 매 레벨마다 원격 선체수리 시스템 모듈의 캐패시터 사용량 5% 감소",
+    "ru": "Навык управления системами дистанционного ремонта корпуса. За каждую степень освоения навыка: на 5% снижается расход энергии накопителя при работе систем дистанционного ремонта корпуса",
+    "zh": "操控远程船体维修系统的技能。每升一级，远程船体维修装备的电容消耗减少5%。"
+  },
+  "groupID": 1210,
+  "iconID": 33,
+  "marketGroupID": 1745,
   "name": {
     "de": "Remote Hull Repair Systems",
     "en": "Remote Hull Repair Systems",
@@ -10,5 +23,7 @@
     "ru": "Дистанционный ремонт корпуса",
     "zh": "远程船体维修系统研究"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

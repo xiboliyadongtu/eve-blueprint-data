@@ -1,5 +1,18 @@
 {
-  "typeID": 16735,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieser Außenposten hat eine Landeplattform. Man kann darauf größere Frachtmengen entgegennehmen und umschlagen.",
+    "en": "This outpost has a docking pad designed to receive and process large shipments of cargo.",
+    "es": "Este puesto avanzado tiene una plataforma de acoplamiento ideada para recibir y procesar grandes envíos de carga.",
+    "fr": "Cet avant-poste est équipé d'une plateforme qui permet de réceptionner des cargaisons importantes.",
+    "ja": "大型船荷の受け取りや処理が可能なドッキングパッドを備えたアウトポスト。",
+    "ko": "대규모 화물을 적하할 수 있는 도킹패드입니다.",
+    "ru": "Эта станция имеет стыковочную площадку для приема и сортировки больших грузов.",
+    "zh": "这种基地拥有一个停靠平台用来接收和处理大型集装箱出货。"
+  },
+  "graphicID": 2409,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Landing Pad",
     "en": "Landing Pad",
@@ -10,5 +23,9 @@
     "ru": "Landing Pad",
     "zh": "降落平台"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 785.0,
+  "sofFactionName": "genericbase",
   "volume": 100000000.0
 }

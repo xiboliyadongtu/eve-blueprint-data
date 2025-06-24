@@ -1,5 +1,16 @@
 {
-  "typeID": 21837,
+  "description": {
+    "de": "Eine Batterie. Interessant.",
+    "en": "A battery. Juicy.",
+    "es": "Una batería. Jugosa.",
+    "fr": "Batterie. Elle n'est peut-être pas complètement épuisée.",
+    "ja": "バッテリー。そこそこの価値がある。",
+    "ko": "포탑입니다. 흥미로워 보입니다.",
+    "ru": "Батарея. Сочная.",
+    "zh": "一个炮台，有趣。"
+  },
+  "graphicID": 2483,
+  "groupID": 226,
   "name": {
     "de": "Fortified Minmatar Battery",
     "en": "Fortified Minmatar Battery",
@@ -10,5 +21,9 @@
     "ru": "Fortified Minmatar Battery",
     "zh": "强化的米玛塔尔炮塔"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 200.0,
+  "sofFactionName": "minmatarbase"
 }

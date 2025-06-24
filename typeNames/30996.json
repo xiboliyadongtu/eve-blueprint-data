@@ -1,5 +1,18 @@
 {
-  "typeID": 30996,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieser kleine Klumpen Schutt sieht aus, als könnte er einst ein Shuttle oder möglicherweise über Bord geworfener Müll gewesen sein. Ganz bestimmt birgt er aber irgendeine Art von Gallente-Technologie.",
+    "en": "This small ball of debris looks like it might once have been a shuttle. Or possibly some jettisoned garbage. There is definitely some Gallente technology mixed in here somewhere though.",
+    "es": "Esta pequeña bola de escombros podría haber sido una lanzadera. O quizá basura eyectada. Sea lo que sea, definitivamente hay algo de tecnología gallente mezclada por ahí.",
+    "fr": "Ces débris semblent avoir été une navette, autrefois. À moins qu'il ne s'agisse que de déchets abandonnés. En tout cas, ils sont clairement l'œuvre de la technologie gallente.",
+    "ja": "この小さな円形の残骸は、かつてはシャトルだったと思われる。もしくは、船外投棄された廃棄物かもしれない。ガレンテの技術があちこちに取り入れられている。",
+    "ko": "한 때 셔틀이었을 것으로 추측됩니다. 물론 그냥 쓰레기 더미일 수도 있습니다. 과거에 무엇이었던 간에 갈란테 기술력이 투입된 것만은 확실해 보입니다.",
+    "ru": "Судя по форме этой маленькой кучки обломков, когда-то она была космическим челноком. А возможно мусором, который кто-то выкинул из своего корабля. Однако, в ней определенно просматриваются фрагменты объектов, созданных по технологии Gallente.",
+    "zh": "这一小团残骸看上去以前很可能是一架穿梭机。也或许只是一些被抛弃的垃圾。这里面肯定是有某种盖伦特科技混杂在其中。"
+  },
+  "graphicID": 3116,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Shuttle Wreck",
     "en": "Shuttle Wreck",
@@ -10,5 +23,9 @@
     "ru": "Shuttle Wreck",
     "zh": "穿梭机残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 314.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

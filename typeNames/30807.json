@@ -1,5 +1,18 @@
 {
-  "typeID": 30807,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diesen Verbindungs-Außenposten durchziehen dünne Rohre und Stromkabel, die gleichermaßen als elektrische Lebensadern wie der Verlinkung von Strukturen dienen. Das Innere dieser Verbindungseinrichtung ist zerschlissen und reparaturbedürftig.",
+    "en": "Narrow tubes and electrical wiring fill the outpost conduit. Equal parts electrical artery and linking structure, the interior of this connecting structure is in disrepair and on the verge of complete wreckage.",
+    "es": "El conducto del puesto avanzado está lleno de tubos estrechos y cables eléctricos. El interior de esta estructura de conexión, que es tanto una arteria eléctrica como una estructura de enlace, está deteriorado y al borde del siniestro total.",
+    "fr": "Ce conduit d'avant-poste est truffé de tubes étroits et de câbles électriques. Artère électrique et structure de liaison à la fois, l'intérieur de cette structure est en très mauvais état, et sur le point de succomber pour de bon.",
+    "ja": "細いチューブと電子ワイヤーがアウトポスト内の配管を満たしている。この接続構造の内部は電子的な経路とリンク構造に相当し、補修もされず完全に崩壊する寸前である。",
+    "ko": "전선으로 가득한 도관입니다. 내부는 상당히 파손되어 붕괴되기 일보직전입니다.",
+    "ru": "Переходы аванпоста заполнены узкими трубами и и электрическими кабелями. Этот сооружение — наполовину коллектор для коммуникаций, наполовину часть несущей конструкции — находится в плачевном состоянии и находится на грани полного разрушения.",
+    "zh": "狭窄的管道和输电线路缠绕在这座哨站的管道中。这座链接建筑物中近半数的电子管脉已经年久失修，整个建筑已经到了完全崩塌的边缘。"
+  },
+  "graphicID": 3702,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Disjointed Talocan Outpost Conduit",
     "en": "Disjointed Talocan Outpost Conduit",
@@ -10,5 +23,9 @@
     "ru": "Disjointed Talocan Outpost Conduit",
     "zh": "断裂的塔洛迦哨站管道"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 1522.0,
+  "sofFactionName": "talocanbase",
   "volume": 100000000.0
 }

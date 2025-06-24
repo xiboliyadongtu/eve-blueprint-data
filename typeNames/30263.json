@@ -1,5 +1,16 @@
 {
-  "typeID": 30263,
+  "description": {
+    "de": "Ein Elektronetzwerk mit geschlossenem Regelkreislauf und selbständigem Schaltwerk, wie man sie an jeder Ecke kaufen kann.",
+    "en": "Your average run-of-the-mill closed loop electrical network with redundant autonomous switchgear.",
+    "es": "La típica red eléctrica de circuito cerrado con conmutadores autónomos redundantes.",
+    "fr": "Votre réseau électrique quelconque en circuit fermé équipé d'un dispositif de commutation autonome redondant.",
+    "ja": "冗長自律型電流開閉装置付きのありふれた閉ループ電気ネットワーク。",
+    "ko": "자율 개폐장치가 과다하게 부착된 평범한 전자 네트워크 폐회로입니다.",
+    "ru": "Ваша обычная сеть замкнутого круга с избыточным автономным выключателем.",
+    "zh": "通用的标准电力网络，配备有众多自控接电装置。"
+  },
+  "groupID": 967,
+  "iconID": 3265,
   "name": {
     "de": "Intact Particle Emitter",
     "en": "Intact Particle Emitter",
@@ -10,5 +21,7 @@
     "ru": "Intact Particle Emitter",
     "zh": "完整的粒子发散器"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

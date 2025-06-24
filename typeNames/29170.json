@@ -1,5 +1,18 @@
 {
-  "typeID": 29170,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese Struktur bildet einen Teil des ersten Kommandonetzwerkes in diesem System, über welches die gesamten militärischen Operationen der Gallente Föderation koordiniert werden.",
+    "en": "This structure forms part of the primary command net for this system, co-ordinating all Gallente Federation military operations.",
+    "es": "Esta estructura forma parte de la red de mando principal de este sistema, que coordina todas las operaciones militares de la Federación Gallente.",
+    "fr": "Cette structure fait partie du principal réseau de commandement de ce système, et coordonne toutes les opérations militaires de la Fédération gallente.",
+    "ja": "このシステムの主要なコマンドネットワークの一部を担う建造物。全ガレンテ連邦の軍事作戦を調整する。",
+    "ko": "근처 항성계의 모든 갈란테 연방 군사 작전을 지휘하는 지휘소입니다.",
+    "ru": "Это сооружение является частью основной сети управления в этой системе и предназначено для координации всех военных операций Федерации Gallente.",
+    "zh": "这个设施组成了这个星系的主要指挥系统的一部分，指挥和协同所有的盖伦特军事行动。"
+  },
+  "graphicID": 2594,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Gallente Tactical Command Post",
     "en": "Gallente Tactical Command Post",
@@ -10,5 +23,10 @@
     "ru": "Gallente Tactical Command Post",
     "zh": "盖伦特战术指挥站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 3666.0,
+  "sofFactionName": "gallentebase",
   "volume": 100000000.0
 }

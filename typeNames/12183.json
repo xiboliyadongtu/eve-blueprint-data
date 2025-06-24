@@ -1,5 +1,18 @@
 {
-  "typeID": 12183,
+  "basePrice": 325000.0,
+  "description": {
+    "de": "Spezialisierung auf die Aufbereitung von Dark Ochre. Ermöglicht es einer sachkundigen Person, Aufbereitungsanlagen mit wesentlich höherer Effizienz zu bedienen.\n\n\n\n2% Bonus auf den Aufbereitungsertrag von Dark Ochre je Skillstufe.",
+    "en": "Specialization in Dark Ochre reprocessing. Allows a skilled individual to utilize reprocessing facilities at considerably greater efficiency.\r\n\r\n2% bonus to Dark Ochre reprocessing yield per skill level.",
+    "es": "Especialización en reprocesamiento de ocre oscuro. Permite a un individuo capacitado utilizar instalaciones de reprocesamiento de forma considerablemente más eficiente.\n\n2 % de bonificación al rendimiento del reprocesamiento de ocre oscuro por nivel de habilidad.",
+    "fr": "Spécialisation dans le retraitement de l'ochre foncé. Permet à un individu compétent de tirer le meilleur parti d'installations de retraitement. Augmente de 2% le rendement du retraitement de l'ochre foncé par niveau de compétence.",
+    "ja": "ダークオークルの再処理に特化している。このスキルがあれば、再処理施設を利用する際の生産性をいちじるしく上げることができる。\r\n\nスキルレベル上昇ごとに、ダークオークルの再処理収率が2%増加。",
+    "ko": "다크 오커 정제에 특화되었습니다. 정제시설의 효율성이 크게 증가합니다. <br><br>매 레벨마다 다크 오커 정제 산출량 2% 증가",
+    "ru": "Специализация в переработке тёмной охры. Позволяют опытным пилотам получать существенно более качественный результат в цехах переработки сырья.\n\n\n\nЗа каждую степень освоения навыка: на 2% увеличивается полезный выход ресурсов при переработке тёмной охры.",
+    "zh": "提炼黑赭石的专业技能。可以大大提高技能熟练者使用提炼设备时的效率。\n\n\n\n每升一级，黑赭石提炼产出提高2%。"
+  },
+  "groupID": 1218,
+  "iconID": 33,
+  "marketGroupID": 1323,
   "name": {
     "de": "Dark Ochre Processing",
     "en": "Dark Ochre Processing",
@@ -10,5 +23,7 @@
     "ru": "Переработка тёмной охры",
     "zh": "黑赭石处理技术"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 24268,
+  "basePrice": 7500000.0,
+  "description": {
+    "de": "Fertigkeit, Fertigungsaufträge aus der Ferne zu starten. Ohne diesen Skill kann man nur Aufträge in dem Sonnensystem starten, in dem man sich befindet. Jede Stufe erhöht die Distanz, aus der Fertigungsprojekte gestartet werden können Stufe 1 ermöglicht Aufträge innerhalb von 5 Sprüngen und jede folgende Stufe fügt der Reichweite 5 weitere Sprünge hinzu, bis zu einer maximalen Sprungreichweite von 25.",
+    "en": "Proficiency at starting manufacturing jobs remotely. Without this skill, one can only start jobs within the solar system where one is located. Each level increases the distance at which manufacturing jobs can be started. Level 1 allows for jobs at a range within 5 jumps, and each subsequent level adds 5 more jumps to the range, with a maximum of a 25 jump range.",
+    "es": "Aptitud para iniciar trabajos de fabricación a distancia. Sin esta habilidad, solo puedes iniciar trabajos dentro del sistema solar donde te encuentras. Cada nivel aumenta la distancia a la que puedes iniciar los trabajos de fabricación. El nivel 1 permite trabajos a una distancia de 5 saltos. Después, cada nivel posterior añade 5 saltos más al alcance, con un máximo de 25 saltos.",
+    "fr": "Compétence permettant de lancer des travaux de production à distance. Sans cette compétence, vous ne pourrez lancer des travaux que dans le système solaire où vous vous trouvez. Chaque niveau augmente la distance à laquelle les travaux de production peuvent être lancés. Le niveau 1 permet de lancer des travaux à portée dans un rayon de 5 sauts. Chaque niveau suivant ajoute 5 sauts supplémentaires, pour une distance hyperspatiale maximale de 25 sauts.",
+    "ja": "製造ジョブをリモートで開始するための専門知識。このスキルがない場合、ジョブは同じソーラーシステム内からしか開始できない。レベルが高くなるほど、遠くから製造ジョブを開始することができるようになる。レベル1で5ジャンプ以内の距離にあるジョブを開始でき、以後1レベル上がるごとに有効距離が5ジャンプずつ、最大25ジャンプまで増加する。",
+    "ko": "원격 제조 작업에 대한 효율성이 증가합니다. 스킬 미보유시 현재 위치한 항성계에서만 제조 작업을 진행할 수 있습니다. 매 레벨마다 원격 제조 작업의 범위가 확대됩니다. 점프 5회가 최초 기준이며 최대 25점프까지 범위가 확대됩니다.",
+    "ru": "Освоив этот навык, пилот сможет дистанционно руководить ходом производства. Не владея им, пилот способен запускать проекты лишь в той планетной системе, где находится лично. Каждой степени навыка соответствует максимальное расстояние, на котором может осуществляться руководство. Первая степень обеспечит доступ к проектам, запускаемым на расстоянии 5 переходов через гиперворота от пилота, каждая следующая степень освоения навыка добавит к этому расстоянию ещё 5 переходов; таким образом можно достичь максимума в 25 переходов через гиперворота от пилота до проекта.",
+    "zh": "精通远程配置生产项目的技能。如果没有学会这个技能，你只能配置本星系内的项目。这个技能可以提升你配置生产项目的距离，等级1允许的配置范围是5跳，每升一级再增加5跳，满级共25跳。"
+  },
+  "groupID": 268,
+  "iconID": 33,
+  "marketGroupID": 369,
   "name": {
     "de": "Supply Chain Management",
     "en": "Supply Chain Management",
@@ -10,5 +23,7 @@
     "ru": "Дистанционное управление производством",
     "zh": "供给链管理"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 11084,
+  "basePrice": 2000000.0,
+  "description": {
+    "de": "Spezialistentraining in der Handhabung fortschrittlicher, kleiner Maschinenkanonen. 2% Bonus je Skillstufe auf die Schadenswirkung kleiner Waffentürme, die den Skill \"Small Autocannon Specialization\" voraussetzen.",
+    "en": "Specialist training in the operation of advanced small autocannons. 2% bonus per skill level to the damage of small turrets requiring Small Autocannon Specialization.",
+    "es": "Entrenamiento especializado en el manejo de cañones automáticos pequeños avanzados. 2 % de bonificación por nivel de habilidad al daño de las torretas pequeñas que requieren especialización en cañones automáticos pequeños.",
+    "fr": "Formation de spécialiste en petits canons automatiques avancés. Augmente de 2 % par niveau les dégâts des petites tourelles nécessitant la spécialisation en petits canons automatiques.",
+    "ja": "高性能小型オートキャノンを操作する専門スキル。スキルレベル上昇ごとに小型オートキャノンスペシャリゼーションを必要とする小型タレットダメージが2%増加する。",
+    "ko": "소형 기관포 운용을 위한 스킬입니다. 매 레벨마다 소형 기관포 특화가 요구되는 소형 터렛의 피해량 2% 증가",
+    "ru": "Спецкурс по эксплуатации усовершенствованных малых автопушек. За каждую степень освоения навыка: на 2% повышается урон усовершенствованных малых автопушек.",
+    "zh": "操作高级小型自动加农炮的专业训练。每升一级，需要小型自动加农炮专业研究技能的小型炮台的伤害提高2%。"
+  },
+  "groupID": 255,
+  "iconID": 33,
+  "marketGroupID": 364,
   "name": {
     "de": "Small Autocannon Specialization",
     "en": "Small Autocannon Specialization",
@@ -10,5 +23,7 @@
     "ru": "Спецкурс: малые автопушки",
     "zh": "小型自动加农炮专业研究"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

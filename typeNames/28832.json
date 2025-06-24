@@ -1,5 +1,17 @@
 {
-  "typeID": 28832,
+  "description": {
+    "de": "Dieser einfache Raumschiffpilot, der über keine Kapsel oder andere Mittel eines Kapselpiloten verfügt, war dazu gezwungen sich in einer banalen Rettungskapsel aus seinem Schiff auswerfen zu lassen.",
+    "en": "This simple starship pilot, lacking the pod and other resources of a capsuleer, has been forced to eject from his ship in a mundane escape pod.",
+    "es": "Este humilde piloto, que carece de cápsula y otros recursos de capsulista, se ha visto en la obligación de eyectarse de su nave en una cápsula de escape rutinaria.",
+    "fr": "Ce pilote de vaisseau spatial, ne disposant pas des ressources habituelles des capsuliers, a dû s'éjecter de son vaisseau dans une capsule de survie bas de gamme.",
+    "ja": "このシンプルな艦船のパイロットは、カプセラー向けのポッドのようなリソースがなかったため、普通の脱出ポッドで船から脱出せざるを得なかった。",
+    "ko": "일반적인 우주선 파일럿입니다. 캡슐리어처럼 전용 포드에 각종 장비를 갖춘 건 아니며, 생존을 위해 어쩔 수 없이 평범한 캡슐 포드로 탈출했습니다.",
+    "ru": "Этому простому пилоту, не имеющему в своем распоряжении привычных для капсулеров средств спасения, пришлось выброситься из корабля в обычной спасательной капсуле.",
+    "zh": "这个初出茅庐的飞行员，因故被迫乘着一个普通逃生舱从飞船中弹射出来，如今他既没有太空舱也没有飞行员所需的其他任何资源。"
+  },
+  "groupID": 283,
+  "iconID": 2544,
+  "mass": 80.0,
   "name": {
     "de": "Stranded Pilot",
     "en": "Stranded Pilot",
@@ -10,5 +22,7 @@
     "ru": "Stranded Pilot",
     "zh": "落难的飞行员"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 30797,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Trotz ihrer beträchtlichen Größe ist diese Struktur ziemlich mager ausgestattet und beherbergt allenfalls ein paar Vestibüle sowie Andock-Plattformen. Historiker diskutieren, ob dieser Knotenpunkt im Angriffsfall auch problemlos und unabhängig vom Talocan-Außenposten agieren konnte, doch einig ist man sich darüber nach wie vor nicht.",
+    "en": "Though large in design, this structure is sparsely adorned, with only a few antechambers and docking platforms inside. Speculation among historians suggests that this outpost hub was capable of immediate and easy disconnection from the Talocan outpost in case of attack, but there hasn't been a scholarly consensus about this.",
+    "es": "A pesar de su gran tamaño, esta estructura cuenta con escasos adornos y posee solo algunas antesalas y plataformas de acoplamientos en su interior. Distintos historiadores han especulado con la posibilidad de que este centro de puesto avanzado fuera capaz de desconectarse inmediata y fácilmente del puesto avanzado talocano en caso de ataque, pero no existe un consenso académico al respecto.",
+    "fr": "Malgré sa forme imposante, cette structure n'est que faiblement ornée, comme en attestent les quelques antichambres et plateformes d'amarrage à l'intérieur. Les historiens racontent que ce noyau d'avant-poste pouvait se déconnecter aussi facilement que rapidement de l'avant-poste talocan en cas d'attaque, même si rien de tout cela n'a jamais été prouvé.",
+    "ja": "この建造物は、巨大な設計だが装飾は控え目で、内部にはいくつかのアンティチェンバとドッキングプラットフォームがあるのみだ。歴史家の推測によると、このアウトポストハブは攻撃に備えて、タロカンアウトポストから一瞬で簡単に切断できるようになっていたらしい。ただし、この件に関する学術的な見解は一致していない。",
+    "ko": "거대한 규모임에도 불구하고 소수의 대기실과 도킹 플랫폼만이 듬성듬성 위치한 허브입니다. 역사학자들 사이에서는 앞으로 있을지 모를 공격에 대비해 탈로칸 전초기지로부터 쉽고 즉각적인 분리가 가능하게 설계됐다고 주장하지만 아직 공식적으로 합의된 바는 없습니다.",
+    "ru": "Несмотря на большие размеры этого сооружения, его интерьер крайне скуден — внутри корпуса находятся лишь несколько предкамер и стыковочных платформ. Некоторые историки полагают, что этот аванпост был частью космической станции расы Talocan и мог быстро отсоединяться от нее в случае атаки, однако единого мнения на этот счет у них нет до сих пор.",
+    "zh": "尽管体积庞大，这座建筑却没有多少装饰，里面只是有几个停机坪和大厅。历史学家怀疑这座哨站枢纽之所以这么简单，目的是为了能够在哨站遭受攻击的时候与迅速主体分离，但目前还是没法得出准确的结论。"
+  },
+  "graphicID": 3534,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Talocan Outpost Hub",
     "en": "Talocan Outpost Hub",
@@ -10,5 +23,9 @@
     "ru": "Talocan Outpost Hub",
     "zh": "塔洛迦哨站枢纽"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 508.0,
+  "sofFactionName": "talocanbase",
   "volume": 100000000.0
 }

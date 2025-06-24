@@ -1,5 +1,18 @@
 {
-  "typeID": 23566,
+  "basePrice": 600000.0,
+  "description": {
+    "de": "Dieser Skill wird für die Bedienung von Drohnen zur elektronischen Kriegsführung benötigt, gibt darüber hinaus aber auch einen Bonus auf die Kontrollreichweite aller Drohnen.\n\n\n\n3.000m Kontrollreichweite von Drohnen je Skillstufe.",
+    "en": "This skill is required for the operation of Electronic Warfare Drones but also gives a bonus to the control range of all drones.\r\n\r\n3,000m bonus drone control range per level.",
+    "es": "Esta habilidad es necesaria para la operación de los drones de guerra electrónica, pero también otorga una bonificación al alcance de control de todos los drones.\n\n3000 m de bonificación al alcance de control de drones por nivel.",
+    "fr": "Cette compétence est nécessaire pour l'utilisation des drones de guerre électronique, et augmente également la portée de contrôle de tous les drones.\n\nAugmente de 3 000 m par niveau la portée de contrôle des drones.",
+    "ja": "このスキルは電子戦ドローンを扱うために必要なものだが、それに限らず全てのドローンの制御範囲にボーナスを与える。\n\nレベルごとにドローンの制御範囲が3,000m増加する。",
+    "ko": "전자전 드론 운용을 위한 필수 스킬로 모든 드론 기종에 대한 통제사거리 또한 증가합니다. <br><br>매 레벨마다 드론 통제 사거리 3,000m 증가",
+    "ru": "Этот навык необходим для использования дронов электронного противодействия, и кроме того, дает бонус к дальности управления всеми видами дронов.\n\n\n\nЗа каждую степень освоения навыка: на 3000 метров увеличивается дальность телеуправления дронами.",
+    "zh": "操控电子战无人机的技能，但其操控距离的加成适用于所有无人机。每升一级，无人机操控距离提升3000m。"
+  },
+  "groupID": 273,
+  "iconID": 33,
+  "marketGroupID": 366,
   "name": {
     "de": "Advanced Drone Avionics",
     "en": "Advanced Drone Avionics",
@@ -10,5 +23,7 @@
     "ru": "Спецкурс телеуправления дронами",
     "zh": "高级无人机电子理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

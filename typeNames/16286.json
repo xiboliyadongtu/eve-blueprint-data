@@ -1,5 +1,19 @@
 {
-  "typeID": 16286,
+  "basePrice": 400000000.0,
+  "capacity": 140000.0,
+  "description": {
+    "de": "Diese Struktur existiert nicht.",
+    "en": "This structure does not exist.",
+    "es": "Esta estructura no existe.",
+    "fr": "Cette structure n'existe pas.",
+    "ja": "この建造物は存在しない。",
+    "ko": "구조물이 존재하지 않습니다.",
+    "ru": "Такого сооружения не существует.",
+    "zh": "此建筑不存在。"
+  },
+  "graphicID": 2593,
+  "groupID": 365,
+  "mass": 1000000.0,
   "name": {
     "de": "QA Control Tower",
     "en": "QA Control Tower",
@@ -10,5 +24,10 @@
     "ru": "QA Control Tower",
     "zh": "QA测试控制塔"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 3394.0,
+  "sofFactionName": "amarrbase",
   "volume": 1.0
 }

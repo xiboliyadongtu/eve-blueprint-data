@@ -1,5 +1,18 @@
 {
-  "typeID": 21611,
+  "basePrice": 30000000.0,
+  "description": {
+    "de": "Fortschrittlicher Skill zur Verwendung von Sprungantrieben. 20% Bonus auf die maximale Sprungreichweite je Skillstufe.",
+    "en": "Advanced skill at using Jump Drives. 20% increase in maximum jump range per skill level.",
+    "es": "Habilidad avanzada en el uso de motores de salto. 20 % de aumento en el alcance de salto máximo por nivel de habilidad.",
+    "fr": "Compétence avancée liée à l'utilisation des propulseurs interstellaires. augmente de 20% la distance de saut maximale par niveau de compétence.",
+    "ja": "ジャンプドライブの上級スキル。スキルレベル上昇ごとに最大ジャンプ距離が20%拡大する。",
+    "ko": "점프 드라이브 운용을 위한 상급 스킬입니다. 매 레벨마다 최대 점프 거리 20% 증가",
+    "ru": "Углублённые познания в области применения гипердвигателей. Каждая степень освоения навыка увеличивает предел дальности осуществляемых пилотом гиперпереходов (на 20% за каждую степень освоения навыка).",
+    "zh": "操作跳跃引擎的高级技能。每升一级，最大跳跃距离增加20%。"
+  },
+  "groupID": 275,
+  "iconID": 33,
+  "marketGroupID": 374,
   "name": {
     "de": "Jump Drive Calibration",
     "en": "Jump Drive Calibration",
@@ -10,5 +23,8 @@
     "ru": "Калибровка гипердвигателей",
     "zh": "跳跃引擎校对理论"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

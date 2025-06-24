@@ -1,5 +1,19 @@
 {
-  "typeID": 26890,
+  "description": {
+    "de": "Eine mittlere Einheit mit eigener Energieversorgung, die ein Unterbrechungsfeld um ihre Verankerungsposition erzeugt. Innerhalb des Wirkungsbereichs können die Warpantriebe von Schiffen nicht aktiviert werden. Schiffe, die innerhalb einer Entfernung von 500 km eintreffen und sich auf einem Vektor befinden, der theoretisch mit dem Feld kollidieren würde, werden in seine kalten Fänge gesogen. Dieser Störer kann im All sieben Tage lang ununterbrochen arbeiten. Anschließend verfällt er automatisch.",
+    "en": "A medium deployable self powered unit that creates a disruption field around its anchored position. Ships within its area of effect will be unable to activate their warp drive, and any ships arriving within 500km of its vicinity on a vector that would theoretically cross its field, will find themselves pulled into its uncaring grasp.\r\n\r\nThis disruptor can operate in space continuously for seven days, after which it will automatically decay.",
+    "es": "Una unidad autopropulsada de despliegue mediano que crea un campo disruptor alrededor de su posición anclada. Las naves que se encuentren en su radio de acción no podrán activar su motor de warp y cualquier nave que esté a menos de 500 km de ella, en un vector que teóricamente cruce su campo, será violentamente arrastrada hacia ella.\n\nEste disruptor puede funcionar en el espacio de forma ininterrumpida durante siete días, tras los cuales de deteriorará automáticamente.",
+    "fr": "Unité mobile autonome moyenne créant un champ perturbateur autour de sa position d'ancrage. Les vaisseaux affectés par l'effet de zone ne pourront pas activer leur moteurs de warp, et tout vaisseau arrivant à moins de 500 km sur un vecteur croisant théoriquement le champ sera soumis à son inébranlable attraction. Ce perturbateur peut fonctionner dans l'espace durant sept jours sans interruption avant de se détériorer automatiquement.",
+    "ja": "係留位置の周辺に妨害フィールドを展開する中型自己動力ユニット。その影響範囲内にいる艦船はワープドライブを起動できない。またこのフィールドと理論的に交差するベクトルで500 km以内に到着する艦船はその強力な影響に捕らわれることになる。\r\n\n妨害装置は7日間継続して宇宙空間で動作し続け、その後自動的に使用不可能となる。",
+    "ko": "전개 가능한 중형 사이즈의 전개형 자가동력 교란장치입니다. 위치 고정된 장소를 중심으로 워프 디스럽션 필드를 전개합니다. 필드 내의 함선들은 워프 드라이브를 활성화할 수 없으며, 500km 내로 진입하는 함선들은 가차없이 워프 디스럽션 필드 내 갇히게 됩니다. <br><br>교란장치는 7일간 연속하여 가동할 수 있으며, 7일 후 자동으로 파기됩니다.",
+    "ru": "Полевой варп-заградитель средней мощности, снабженный автономным источником питания и гравитационным якорем. Не позволяет включить варп-двигатель кораблям, находящимся в зоне его действия; кроме того, все корабли, чья точка выхода из варп-режима находится в пределах 500 километров от заградителя по вектору, который пересёк бы границу создаваемого им поля, будут притянуты в его безжалостную хватку.\n\n\n\nЗаградитель способен непрерывно функционировать в течение семи дней, после чего он самоуничтожится.",
+    "zh": "一种自我供能的可部署中型设备，可在其部署位置周围形成扰断力场。在其效果范围内的舰船不能启动跃迁引擎，任何靠近其500km之内的舰船理论上可以穿越其力场，但会不由自主地被拉向其效果范围。\n\n\n\n这种扰断器可以在太空中连续运行7天，之后便会自动销毁。"
+  },
+  "graphicID": 2309,
+  "groupID": 361,
+  "iconID": 2309,
+  "marketGroupID": 405,
+  "metaGroupID": 2,
   "name": {
     "de": "Mobile Medium Warp Disruptor II",
     "en": "Mobile Medium Warp Disruptor II",
@@ -10,5 +24,10 @@
     "ru": "Mobile Medium Warp Disruptor II",
     "zh": "中型机动跃迁扰断器 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 70.0,
+  "sofFactionName": "genericmetal",
+  "variationParentTypeID": 12199,
   "volume": 195.0
 }

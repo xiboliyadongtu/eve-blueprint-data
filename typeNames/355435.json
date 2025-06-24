@@ -1,5 +1,17 @@
 {
-  "typeID": 355435,
+  "basePrice": 1470.0,
+  "description": {
+    "de": "Ein Drop-Uplink ist ein Slave-Transponder, ein Kommunikationsgerät mit kurzer Reichweite, das die exakten Raumkoordinaten erzeugt, die zur Generierung eines örtlich begrenzten Wurmlochs benötigt werden. Eine Durchquerung dieses Wurmlochs ermöglicht die unmittelbare Überbrückung kurzer Distanzen. Der ausgesprochen experimentelle Vorgang ist entsetzlich schmerzhaft und setzt das organische Gewebe übermäßiger Strahlung aus. Dies hat ein beschleunigtes Absterben der Zellen und schließlich den Tod zur Folge.",
+    "en": "The drop uplink is a slave transponder, a short-range tether that produces the precise spatial coordinates necessary to generate a localized wormhole, traversal of which allows the user to travel short distances instantly. Highly experimental, the process is excruciatingly painful and exposes organic tissue to excessive radiation, resulting in accelerated cellular decay and, ultimately, death.",
+    "es": "El teletransportador es un transpondedor de esclavos, un punto de amarre de corto alcance que produce las coordenadas espaciales precisas necesarias para generar un agujero de gusano localizado que permite al usuario viajar a distancias cortas al instante. El proceso es muy experimental, terriblemente doloroso, y expone el tejido orgánico a una radiación excesiva, lo que provoca una descomposición celular acelerada y, en última instancia, la muerte.",
+    "fr": "Le portail est un transpondeur secondaire, un lien de courte portée qui génère des coordonnées spatiales précises nécessaires pour créer un trou de ver localisé, grâce auquel l'utilisateur peut parcourir instantanément de courtes distances. Ce processus expérimental est horriblement douloureux et expose les tissus organiques à de fortes radiations, provoquant une décomposition cellulaire accélérée et, au bout du compte, la mort.",
+    "it": "Il portale di schieramento è un transponder secondario, un dispositivo di tethering a breve raggio che produce le esatte coordinate spaziali necessarie per generare una galleria gravitazionale circoscritta che consente all'utente di percorrere istantaneamente brevi distanze. Questo processo altamente sperimentale è incredibilmente doloroso ed espone i tessuti organici a un eccesso di radiazioni che comporta un decadimento cellulare accelerato e infine la morte.",
+    "ja": "地上戦アップリンクは奴隷輸送船の一種で、短距離テザーとして正確な空間座標を発信することで局地的ワームホールの生成を可能にし、利用者が現地まで瞬時に移動できるようにする。技術的にはごく初期の実験段階であり、その移動過程は極度の苦痛を伴ううえに生体組織を過剰な量の放射線にさらす。結果として細胞の劣化を早め、最終的には死に至る。",
+    "ko": "노예용 트랜스폰더로 분류되는 이동식 업링크는 단거리 좌표를 산출하여 웜홀을 생성하는 장치입니다. 웜홀을 통해 짧은 거리 이동이 가능합니다. 장치는 미완성품으로 웜홀 이용 시 사용자는 극심한 고통을 느낍니다. 또한 방사능 노출로 인해 세포가 붕괴하며 추후 사망에 이를 수 있습니다.",
+    "ru": "Десантный маяк — это ведомый приемопередатчик с малым радиусом действия, передающий точные пространственные координаты своего местонахождения. Эти координаты применяются для генерации локализованной червоточины, позволяющей пользователю мгновенно перемещаться на короткие расстояния. Этот процесс находится на самых начальных стадиях разработки, и, как следствие, он чрезвычайно болезнен. Кроме того, в процессе перемещения ткани организма подвергаются воздействию больших доз облучения, что ускоряет процесс разрушения клеток и в конечном итоге приводит к смертельному исходу.",
+    "zh": "上行链路是一个从属收发器，它可以提供一种短程驻留，通过产出精确的空间坐标在本地生成一个虫洞，而使用者穿过虫洞即可穿越短程时空。此过程具有高度实验性，会带来极端痛苦，有机组织会被暴露在高强度的辐射下，导致细胞加速腐烂，并最终致死。"
+  },
+  "groupID": 351844,
   "name": {
     "de": "Gehackter Drop-Uplink",
     "en": "Hacked Drop Uplink",
@@ -11,5 +23,7 @@
     "ru": "Взломанный десантный маяк",
     "zh": "被破译的上行链路"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

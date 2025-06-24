@@ -1,5 +1,19 @@
 {
-  "typeID": 85032,
+  "basePrice": 32256.0,
+  "description": {
+    "de": "Erhöht die Maximalgeschwindigkeit des Schiffes wenn eingeschaltet. Der Schub, der das Schiff vorantreibt, und der daraus resultierende maximale Geschwindigkeitsgewinn wird durch die Masse des Schiffs begrenzt, welches dieses Modul verwendet. Hinweis: Dieses Modul ist für Kreuzer und Schlachtkreuzer gedacht.",
+    "en": "Gives a boost to the maximum velocity of the ship when activated. The thrust that boosts the ship, and the corresponding maximum velocity bonus, are limited by the mass of the ship that uses this module.\r\n\r\nNote: Usually fit on Cruisers and Battlecruisers.",
+    "es": "Potencia la velocidad máxima al activarse. El impulso propulsor y la bonificación de velocidad máxima correspondiente, están limitadas por la masa de la nave que usa este módulo.\r\n\r\nAviso: Suele equiparse en cruceros y cruceros de combate.",
+    "fr": "Augmente la vitesse maximale du vaisseau une fois activé. La poussée appliquée au vaisseau et le bonus de vitesse maximale correspondant sont limités par la masse du vaisseau utilisant le module. Remarque : ce module est communément monté sur les croiseurs et croiseurs cuirassés.",
+    "ja": "船の最高速度を引き上げることができる。実際に得られる推進力と、それによる最高速度ボーナスは、このモジュールを使用する船の質量に制約を受ける。\r\n\r\n注：通常は巡洋艦艦および巡洋戦艦に装着される。",
+    "ko": "활성화 시 함선의 최대 속도가 증가합니다. 함선 중량에 따라 추진력 및 최대 속도 보너스가 제한됩니다.<br><br>참고: 주로 크루저 및 배틀크루저에 장착합니다.",
+    "ru": "В момент активации увеличивает максимальную скорость корабля. Мощность ускорения и размер соответствующего бонуса максимальной скорости ограничены массой корабля, использующего данный модуль. Примечание: обычно устанавливается на крейсеры и линейные крейсеры.",
+    "zh": "激活后将增加舰船的最大速度。推进舰船的动力和相应的最大速度加成均受使用该装备的舰船重量所限。注：通常装配在巡洋舰和战列巡洋舰上。"
+  },
+  "groupID": 46,
+  "iconID": 96,
+  "marketGroupID": 542,
+  "metaGroupID": 4,
   "name": {
     "de": "True Sansha 10MN Afterburner",
     "en": "True Sansha 10MN Afterburner",
@@ -10,5 +24,9 @@
     "ru": "True Sansha 10MN Afterburner",
     "zh": "萨沙爱国者10MN加力燃烧器"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "variationParentTypeID": 12056,
   "volume": 5.0
 }

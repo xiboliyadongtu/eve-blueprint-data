@@ -1,5 +1,21 @@
 {
-  "typeID": 32442,
+  "basePrice": 350000.0,
+  "description": {
+    "de": "XL-Cruise Missiles sind für die Langstreckenbombardierung von Capital-Schiffen und Einrichtungen geeignet. Aufgrund ihrer speziellen Konstruktion können sie nur von Capital-Schiffen eingesetzt werden.\n\nDiese Lenkwaffe besteht aus nichts Geringerem als einem kleinen Nuklearsprengkopf, der in den empfindlichen Elektroniksystemen an Bord eines Raumschiffes verheerenden Schaden anrichtet. Speziell dazu entworfen, um Schildsysteme zu zerstören, kann er im Handumdrehen Ziele vernichten, die selbst mit schweren Schilden geschützt sind.",
+    "en": "XL Cruise Missiles are designed for long range bombardment of capital ships and installations. They are a specialized design usable only by capital ships.\n\nNothing more than a baby nuclear warhead, this guided missile wreaks havoc with the delicate electronic systems aboard a starship. Specifically designed to damage shield systems, it is able to ravage heavily shielded targets in no time.",
+    "es": "Los misiles de crucero XL están diseñados para el bombardeo a larga distancia de las naves capitales e instalaciones. Su diseño especializado solo permite usarlos en naves capitales.\n\nEste misil guiado, que no es más que una pequeña ojiva nuclear, causa estragos en los delicados sistemas electrónicos de a bordo de una nave. Diseñado específicamente para dañar sistemas de escudos, es capaz de arrasar objetivos blindados en un abrir y cerrar de ojos.",
+    "fr": "Les missiles de croisière XL sont destinés au bombardement à longue portée des vaisseaux capitaux et des structures. Réservés aux vaisseaux capitaux.\n\nVéritables ogives nucléaires miniatures, ces missiles guidés sont capables de griller les délicats systèmes électroniques embarqués des vaisseaux ennemis. Spécialement conçus pour endommager les systèmes de bouclier, ces missiles sont dotés d'une force de pénétration destructrice.",
+    "ja": "XLクルーズミサイルは、母艦や軍事施設を長距離から爆撃するのに用いる。特殊な設計のため、母艦でしか使用できない。この誘導型ミサイルの核弾頭は小型でありながら、艦船に積まれたデリケートな電子システムに大損害を与えることができる。ターゲットのシールドシステムにダメージを与える目的に特化しており、防御の固い艦船が相手でも瞬く間に破壊することができる。",
+    "ko": "장거리 크루즈 미사일로 캐피탈 함선 및 구조물 파괴에 특화되어 있습니다. 캐피탈급 함선에만 장착이 가능합니다. <br><br>소형 핵탄두가 탑재된 유도 미사일로 적 함선의 전자 시스템을 철저하게 파괴합니다. 어지간한 실드 시스템은 단번에 꿰뚫을 수 있을만한 막강한 파괴력을 지녔습니다.",
+    "ru": "Ракеты дальнего боя сверхбольшой мощности предназначены для обстрела кораблей большого тоннажа и космических станций на больших расстояниях. Они могут запускаться только с кораблей большого тоннажа.\n\nТорпеда несет на борту крохотный ядерный заряд, подрыв которого выводит из строя хрупкие электронные системы космического корабля. Специально разработанная для поражения генераторов силовых полей, она способна мгновенно уничтожать хорошо защищенные щитами цели.",
+    "zh": "超大型巡航导弹是专门用于在远距离上对目标旗舰级舰船或建筑实施轰炸的武器。它们只能被旗舰级舰船所安装和使用。\n\n小型的核弹头装载到这种导弹上，能够对目标舰船脆弱的舰载电子设备造成巨大伤害。专门用于对付护盾系统，能够在短时间内把对手强大的能量护盾破坏殆尽。"
+  },
+  "graphicID": 20045,
+  "groupID": 1019,
+  "iconID": 182,
+  "marketGroupID": 1287,
+  "mass": 1500.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Mjolnir XL Cruise Missile",
     "en": "Mjolnir XL Cruise Missile",
@@ -10,5 +26,8 @@
     "ru": "Mjolnir XL Cruise Missile",
     "zh": "雷神超大型巡航导弹"
   },
+  "portionSize": 100,
+  "published": true,
+  "radius": 300.0,
   "volume": 0.3
 }

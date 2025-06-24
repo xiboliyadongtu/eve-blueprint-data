@@ -1,5 +1,17 @@
 {
-  "typeID": 365860,
+  "basePrice": 203000.0,
+  "description": {
+    "de": "Skill zur Kontrolle von Geschütznachladesystemen.\n\n+5% auf die Nachladegeschwindigkeit von kleinen Railguns pro Skillstufe.",
+    "en": "Skill at monitoring turret reload systems.\r\n\r\n+5% to small railgun reload speed per level.",
+    "es": "Habilidad de control de sistemas de recarga de torretas.\n\n+5% a la velocidad de recarga de los cañones gauss pequeños por nivel.",
+    "fr": "Compétence permettant de surveiller les systèmes de recharge des tourelles.\n\n+5 % à la vitesse de recharge de petit canon à rails par niveau.",
+    "it": "Abilità di monitoraggio sistemi di ricaricamento torretta.\n\n+5% alla velocità di ricarica del cannone a rotaia piccolo per livello.",
+    "ja": "タレットリロードシステムをモニターするスキル。\n\nレベル上昇ごとに小型レールガンリロード速度を5%増加させる。",
+    "ko": "터렛 재장전 시스템 스킬입니다.<br><br>매 레벨마다 소형 레일건 재장전 속도 5% 증가",
+    "ru": "Навык мониторинга систем перезарядки турелей\n\n+5% к скорости перезарядки малых рейлганных установок на каждый уровень.",
+    "zh": "监测炮台装填系统的技能。每升一级，小型磁轨炮的装填速度提高5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Aufladesysteme: Kleine Railgun",
     "en": "Small Railgun Reload Systems",
@@ -11,5 +23,7 @@
     "ru": "Системы перезарядки малой рейлганной установки",
     "zh": "小型磁轨炮装填系统"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

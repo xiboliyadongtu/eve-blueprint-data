@@ -1,5 +1,75 @@
 {
-  "typeID": 17715,
+  "basePrice": 36000000.0,
+  "capacity": 440.0,
+  "description": {
+    "de": "In Anbetracht dessen, was er in seinen Jahren in der Caldari Navy gelernt hat, entschied der Anführer der Guristas, Korako \"The Rabbit\" Kosakami, Salz in die Wunden des Staates Caldari zu reiben, indem er ihre Entwürfe aufmotzte und Angriffe gegen seine ehemaligen Vorgesetzten in Schiffen ausführte, deren Layout offensichtlich von ihnen gestohlen wurde. Die Gila, der Bastard-Zwilling der Moa, leistete ihm dabei gute Dienste.",
+    "en": "Taking what he had learned from his days in the Caldari Navy, Korako ‘The Rabbit' Kosakami, Gurista leader, decided that he would rub salt in the State's wounds by souping up their designs and making strikes against his former masters in ships whose layout was obviously stolen from them. To this end the Gila, bastard twin of the Moa, has served him well.",
+    "es": "Haciendo uso de todo lo que había aprendido de sus días en la Armada Caldari, Korako «el Conejo» Kosakami, líder de los Guristas, decidió meter el dedo en la llaga del Estado truncando sus diseños y lanzando ataques contra sus antiguos maestros en naves cuya configuración claramente les había robado. Para ello, la Gila, la gemela bastarda de la Moa, le ha servido a las mil maravillas.",
+    "fr": "En appliquant ce qu'il avait appris dans la Caldari Navy, Korako « Le Lapin » Kosakami, chef guristas, décida qu'il allait retourner le couteau dans les plaies de l'État en optimisant leurs concepts et en organisant des grèves contre ses anciens maîtres dans des vaisseaux dont le dessin leur avait été copieusement volé. C'est dans cette optique que Gila, fils bâtard des Moa, lui a prêté main forte.",
+    "ja": "ガリスタのリーダーであるコラコ「ラビット」コサカミは、かつてカルダリ海軍で過ごした日々の経験を活かし、カルダリ国のデザインを明らかに流用した艦船をさらに改良し、それを用いてカルダリのかつての師たちに対する復讐を遂げることを決意した。こういった目的において、モアの出来損ないの双子であったギラは役に立ったと言える。",
+    "ko": "과거 칼다리 해군에서 복무 하였던 구리스타스의 리더 '래빗' 코라코 코사카미는 칼다리 연합의 상처에 소금을 뿌리기로 했습니다. 해군에서의 복무 경험을 바탕으로 칼다리 함선 설계를 모방하고 개조한 그는 더 향상된 함선으로 본 설계자를 공격했습니다. 이러한 관점에서 본다면 모아의 배다른 쌍둥이인 길라는 성공적인 함선이었습니다.",
+    "ru": "Воспользовавшись навыками, полученными за время своей службы в калдарском флоте, Корако Косаками, предводитель гуристас по прозвищу «Кролик», решил посыпать солью свежие раны Государства Калдари: он украл чертежи калдарских кораблей, усовершенствовал их и начал нападать на своих бывших хозяев, используя для этого плоды их же трудов. Хорошим подспорьем в этом деле ему стала «Гила», незаконнорожденный близнец «Моа».",
+    "zh": "凭借以前在加达里海军学习的知识，古斯塔斯的首领“野兔”克拉克·卡萨加米打算给加达里的伤口上撒上一把盐——他窃取了合众国的飞船设计图并加以改造，并用这些改良过的飞船去攻击他以前的主人。这艘巨鸟级巡洋舰的邪恶同胞，毒蜥级巡洋舰，就是最好的例子。"
+  },
+  "factionID": 500010,
+  "graphicID": 1824,
+  "groupID": 26,
+  "marketGroupID": 1371,
+  "mass": 9600000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      150,
+      139,
+      76,
+      85,
+      94,
+      165
+    ],
+    "1": [
+      96,
+      99,
+      150,
+      139,
+      76,
+      85,
+      94,
+      165
+    ],
+    "2": [
+      96,
+      99,
+      150,
+      139,
+      76,
+      85,
+      94,
+      165
+    ],
+    "3": [
+      96,
+      99,
+      150,
+      139,
+      76,
+      85,
+      94,
+      165
+    ],
+    "4": [
+      96,
+      99,
+      150,
+      139,
+      76,
+      85,
+      118,
+      94,
+      165
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Gila",
     "en": "Gila",
@@ -10,5 +80,83 @@
     "ru": "Gila",
     "zh": "毒蜥级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 166.0,
+  "sofFactionName": "guristas",
+  "soundID": 20102,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 250.0,
+        "bonusText": {
+          "de": "Bonus auf die HP von <a href=showinfo:33699>Mittelgroßen Kampfdrohnen</a>",
+          "en": "bonus to <a href=showinfo:33699>Medium Combat Drone</a> hitpoints",
+          "es": "de bonificación a los puntos de vida de los <a href=showinfo:33699>drones de combate medianos</a>.",
+          "fr": "de bonus aux points de vie des <a href=showinfo:33699>drones de combat intermédiaires</a>",
+          "ja": "<a href=showinfo:33699>中型戦闘用ドローン</a>のHPが上昇",
+          "ko": "<a href=showinfo:33699>중형 공격 드론</a> 내구도 보너스",
+          "ru": "бонус к запасу прочности <a href=showinfo:33699>средних боевых дронов</a>",
+          "zh": "<a href=showinfo:33699>中型战斗无人机</a>HP加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 500.0,
+        "bonusText": {
+          "de": "Bonus auf den Schaden von <a href=showinfo:33699>Mittelgroßen Kampfdrohnen</a>",
+          "en": "bonus to <a href=showinfo:33699>Medium Combat Drone</a> damage",
+          "es": "de bonificación al daño de los <a href=showinfo:33699>drones de combate medianos</a>.",
+          "fr": "de bonus aux dégâts des <a href=showinfo:33699>drones de combat intermédiaires</a>",
+          "ja": "<a href=showinfo:33699>中型戦闘用ドローン</a>のダメージが上昇",
+          "ko": "<a href=showinfo:33699>중형 공격 드론</a> 피해량 보너스",
+          "ru": "бонус к урону от <a href=showinfo:33699>средних боевых дронов</a>",
+          "zh": "<a href=showinfo:33699>中型战斗无人机</a>伤害加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3332": [
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf den Kinetic- und Thermalschaden von Lenkwaffen",
+            "en": "bonus to kinetic and thermal missile damage",
+            "es": "de bonificación al daño cinético y térmico de los misiles.",
+            "fr": "bonus aux dégâts des missiles de type cinétique et thermique",
+            "ja": "ミサイルのキネティック・サーマルダメージが増加",
+            "ko": "미사일 키네틱 및 열 피해 증가",
+            "ru": "увеличивается урон кинетических и термических БЧ ракет",
+            "zh": "动能和热能导弹伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ],
+      "3334": [
+        {
+          "bonus": 4.0,
+          "bonusText": {
+            "de": "Bonus auf alle Schildresistenzen",
+            "en": "bonus to all shield resistances",
+            "es": "de bonificación a todas las resistencias de escudo.",
+            "fr": "de bonus à toutes les résistances de bouclier",
+            "ja": "全てのシールドレジスタンスが増加",
+            "ko": "모든 실드 저항력 증가",
+            "ru": "повышается сопротивляемость щитов корабля всем видам воздействия",
+            "zh": "护盾抗性加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 623,
   "volume": 101000.0
 }

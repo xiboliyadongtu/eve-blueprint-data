@@ -1,5 +1,19 @@
 {
-  "typeID": 27999,
+  "basePrice": 500000000.0,
+  "capacity": 7500000.0,
+  "description": {
+    "de": "Ein grundlegendes Upgrade für das Forschungspotential von Caldari-Außenposten. Erhöht die Kostenreduktion um 10% bei Materialeffizienz-, Zeiteffizienz-, Kopier- und Erfindungsaufträgen (summiert sich mit allen anderen Verbesserungen des selben Typs) und reduziert die Forschungszeit bei allen Erfindungsaufträgen um 20%.",
+    "en": "A basic upgrade to Caldari Outpost research capabilities. Gives a 10% cost reduction to Material Efficiency, Time Efficiency, Copy, Invention jobs (stacks with all other improvements of the same type) and gives a research time reduction on all Invention research of 20%.",
+    "es": "Mejora básica de las capacidades de investigación en puestos avanzados caldaris. Genera una reducción del 10 % del coste de los trabajos de invención, copia, eficiencia de materiales y eficiencia temporal (acumulable con todas las demás mejoras del mismo tipo) y reduce un 20 % el tiempo de todas las investigaciones de invención.",
+    "fr": "Amélioration de base permettant d'augmenter les capacités de recherche d'un avant-poste caldari. Réduit de 10 % le coût de la productivité matérielle, l'efficience de temps, la copie de tous les travaux d'invention (s'accumule avec toutes les autres améliorations de même type) et réduit de 20 % le temps de recherche de toutes les inventions.",
+    "ja": "カルダリアウトポストの研究能力を高める基本的なアップグレード。材料効率、時間効率、コピー、発明ジョブ（同じタイプのすべての改善点をスタック）に10％コスト削減を追加し、すべての発明研究時間を20%削減。",
+    "ko": "칼다리 전초기지 연구능력을 개선하기 위한 기본 업그레이드입니다. 자원효율성 연구, 시간효율성 연구, 복제, 인벤션 작업에 소요되는 비용이 10% 감소(동일한 효과와 중첩 가능)하며 모든 인벤션 연구 시간이 20% 감소합니다.",
+    "ru": "Базовый модуль расширения научно-исследовательских возможностей калдарского форпоста. На 10% снижает стоимость проектов по копированию чертежей, модернизации, повышению скорости производства и материалоэффективности производства (эффект кумулятивен с прочими того же типа); кроме того, экономия времени, расходуемого на проекты по модернизации — 20%.",
+    "zh": "针对加达里哨站研究能力的基础升级方案。材料效率研究、时间效率研究、拷贝和发明项目费用额外降低10%（可与同类效果叠加），所有发明研究时间减少20%。"
+  },
+  "graphicID": 3303,
+  "groupID": 836,
+  "iconID": 3303,
   "name": {
     "de": "Caldari Basic Outpost Research Facility Platform",
     "en": "Caldari Basic Outpost Research Facility Platform",
@@ -10,5 +24,10 @@
     "ru": "Caldari Basic Outpost Research Facility Platform",
     "zh": "加达里基础空间站研究设施平台"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 1000.0,
+  "sofFactionName": "caldaribase",
   "volume": 750000.0
 }

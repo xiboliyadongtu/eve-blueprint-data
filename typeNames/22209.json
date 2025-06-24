@@ -1,5 +1,17 @@
 {
-  "typeID": 22209,
+  "description": {
+    "de": "Eine Person, die aus ihrer Heimat geflohen ist. Sei es wegen eines Krieges, wegen politischer Unterdrückung oder religiöser Verfolgung.",
+    "en": "A person who has fled from their home because of war, political oppression or religious persecution.",
+    "es": "Una persona que ha huido de su hogar por la guerra, la opresión política o la persecución religiosa.",
+    "fr": "Personne qui a fui son pays d'origine à cause de la guerre ou par crainte de persécutions politiques ou religieuses.",
+    "ja": "戦争や政治的な弾圧、宗教上の迫害などの理由で故郷を追われた者。",
+    "ko": "전쟁, 정치적 탄압, 종교적 박해 등의 이유로 고향을 등지고 떠났습니다.",
+    "ru": "Человек, который улетел из дому из-за войны, политических или религиозных убеждений.",
+    "zh": "因为战争、政治压迫或者宗教迫害而背井离乡的人。"
+  },
+  "groupID": 283,
+  "iconID": 2542,
+  "mass": 60.0,
   "name": {
     "de": "Refugee",
     "en": "Refugee",
@@ -10,5 +22,7 @@
     "ru": "Refugee",
     "zh": "难民"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 3.0
 }

@@ -1,5 +1,65 @@
 {
-  "typeID": 640,
+  "basePrice": 123600000.0,
+  "capacity": 690.0,
+  "description": {
+    "de": "Die ersten Schlachtschiffe der Scorpion-Klasse wurden erst vor einigen Jahren in den Dienst gestellt und als Prototypen angesehen. Man weiß nur wenig über ihre Leistungsfähigkeit, aber es wird vermutet, dass eine Scorpion bis an den Rand mit High-Tech-Geräten vollgestopft ist, denen kaum ein anderes Schiff etwas entgegensetzen kann.",
+    "en": "The first Scorpion-class battleship was launched only a couple of years ago, and those that have been built are considered to be prototypes. Little is known of its capabilities, but what has been garnered suggests that the Scorpion is crammed to the brink with sophisticated hi-tech equipment that few can match.",
+    "es": "El primer acorazado de clase Scorpion se lanzó hace solo un par de años, y los que se han construido se consideran prototipos. Se sabe poco de sus capacidades, pero lo que se ha averiguado sugiere que la Scorpion está repleta de sofisticados equipos de alta tecnología que pocas naves pueden igualar.",
+    "fr": "Le premier cuirassé de la classe Scorpion a été lancé il y a quelques années seulement, et ceux qui ont été construits depuis sont encore considérés comme des prototypes. On ne sait quasiment rien de ce vaisseau, mais les quelques informations qui ont filtré laissent entendre que le Scorpion est rempli d'équipements ultra-perfectionnés avec lesquels il est difficile de rivaliser.",
+    "ja": "最初のスコーピオン級戦艦が就役したのはわずか数年前のことで、これまで建造された同型機もまだプロトタイプだと考えられている。その性能についてはほとんど判っていないが、断片的な情報から推測するに、スコーピオンにはどんな船もかなわないような最新鋭のハイテク装備がぎっしり詰まっているらしい。",
+    "ko": "최초의 스콜피온급 배틀쉽의 개발이 완료된 것은 불과 몇 년 전이기 때문에 현존하는 스콜피언급 배틀쉽들은 모두 일종의 프로토타입으로 여겨지고 있습니다. 능력 및 제원에 대해 알려진 것은 극히 드물지만 정보를 종합해보면 스콜피온이 머리부터 발끝까지 최첨단 기술로 무장하고 있어 상대할 만한 적이 없다는 것을 알 수 있습니다.",
+    "ru": "Первый линейный корабль типа «Скорпион» был запущен в производство всего несколько лет назад, и уже построенные экземпляры считаются прототипами. Мало что известно о возможностях «скорпионов», если верить слухам, они под завязку набиты высокотехнологичным оборудованием, практически не имеющим аналогов в мире.",
+    "zh": "第一艘毒蝎级战列舰的出航只不过是几年前的事情，目前已经造出的一些都被认为是原型机。有关它性能的信息非常少，但已知情报显示，毒蝎级最大限度地装配了几乎无人能敌的高科技装备。"
+  },
+  "factionID": 500001,
+  "graphicID": 50,
+  "groupID": 27,
+  "marketGroupID": 80,
+  "mass": 103600000.0,
+  "masteries": {
+    "0": [
+      96,
+      100,
+      165,
+      138,
+      139,
+      85
+    ],
+    "1": [
+      96,
+      100,
+      165,
+      138,
+      139,
+      85
+    ],
+    "2": [
+      96,
+      100,
+      165,
+      138,
+      139,
+      85
+    ],
+    "3": [
+      96,
+      100,
+      165,
+      138,
+      139,
+      85
+    ],
+    "4": [
+      96,
+      100,
+      165,
+      138,
+      139,
+      85,
+      118
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Scorpion",
     "en": "Scorpion",
@@ -9,6 +69,96 @@
     "ko": "스콜피온",
     "ru": "Scorpion",
     "zh": "毒蝎级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 250.0,
+  "sofFactionName": "caldaribase",
+  "soundID": 20068,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 5.0,
+        "bonusText": {
+          "de": "zusätzlicher Bonus auf HP der <a href=showinfo:3394>Verstärkten Schottwand</a>",
+          "en": "additional bonus to <a href=showinfo:3394>Reinforced Bulkhead</a> hitpoints",
+          "es": "de bonificación adicional a los puntos de vida del <a href=showinfo:3394>mamparo reforzado</a>.",
+          "fr": "de bonus supplémentaire aux points de vie de la <a href=showinfo:3394>cloison renforcée</a>",
+          "ja": "<a href=showinfo:3394>強化隔壁</a>HPがさらに増加",
+          "ko": "<a href=showinfo:3394>강화 격벽</a> 내구도 증가",
+          "ru": "дополнительный бонус к прочности <a href=showinfo:3394>укреплённой переборки</a>",
+          "zh": "<a href=showinfo:3394>强化舱隔壁</a>结构值加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der <a href=showinfo:3394>Panzerplatte</a>",
+          "en": "bonus to <a href=showinfo:3394>Armor Plate</a> hitpoints",
+          "es": "de bonificación a los puntos de vida de las <a href=showinfo:3394>placas de blindaje</a>.",
+          "fr": "de bonus aux points de vie du <a href=showinfo:3394>revêtement de blindage</a>",
+          "ja": "<a href=showinfo:3394>アーマープレート</a>HPが増加",
+          "ko": "<a href=showinfo:3394>장갑 플레이트</a> 내구도 증가",
+          "ru": "бонус к прочности <a href=showinfo:3394>бронеплиты</a>",
+          "zh": "<a href=showinfo:3394>装甲附甲板</a>装甲值加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 100.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der <a href=showinfo:3425>Schilderweiterung</a>",
+          "en": "bonus to <a href=showinfo:3425>Shield Extender</a> hitpoints",
+          "es": "de bonificación a los puntos de vida del <a href=showinfo:3425>extensor de escudo</a>.",
+          "fr": "de bonus aux points de vie de l'<a href=showinfo:3425>extenseur de bouclier</a>",
+          "ja": "<a href=showinfo:3425>シールドエクステンダー</a>HPが増加",
+          "ko": "<a href=showinfo:3425>실드 확장장치</a> 실드량 증가",
+          "ru": "бонус к прочности <a href=showinfo:3425>расширителя щитов</a>",
+          "zh": "<a href=showinfo:3425>护盾扩展装置</a>护盾值加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3338": [
+        {
+          "bonus": 15.0,
+          "bonusText": {
+            "de": "Bonus auf die Stärke von <a href=showinfo:3427>ECM-Zielstörsendern</a> und <a href=showinfo:3427>ECM-Burst-Störsendern</a>",
+            "en": "bonus to <a href=showinfo:3427>ECM Target Jammer</a> and <a href=showinfo:3427>ECM Burst Jammer</a> strength",
+            "es": "de bonificación a la intensidad del <a href=showinfo:3427>perturbador ECM de objetivo</a> y el <a href=showinfo:3427>perturbador de ráfaga ECM</a>.",
+            "fr": "de bonus aux dégâts du <a href=showinfo:3427>brouilleur de cibles CME</a> et du <a href=showinfo:3427>brouilleur à salves CME</a>",
+            "ja": "<a href=showinfo:3427>ECMターゲットジャマー</a>および<a href=showinfo:3427>ECMバーストジャマー</a>の強度が増加",
+            "ko": "<a href=showinfo:3427>ECM 타겟 재머</a> 및 <a href=showinfo:3427>ECM 버스트 재머</a> 강도 증가",
+            "ru": "увеличивается выходная мощность <a href=showinfo:3427>модулей глушения захвата целей</a> и <a href=showinfo:3427>генераторов импульсных помех</a>",
+            "zh": "<a href=showinfo:3427>ECM目标干扰器</a>和<a href=showinfo:3427>ECM脉冲干扰器</a>强度加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 25.0,
+          "bonusText": {
+            "de": "Bonus auf die optimale Reichweite und den Präzisionsabfall von <a href=showinfo:3427>ECM-Zielstörsendern</a> und <a href=showinfo:3427>ECM-Burst-Störsendern</a>",
+            "en": "bonus to <a href=showinfo:3427>ECM Target Jammer</a> and <a href=showinfo:3427>ECM Burst Jammer</a> optimal range and falloff",
+            "es": "de bonificación a los alcances óptimo y efectivo del <a href=showinfo:3427>perturbador ECM de objetivo</a> y el <a href=showinfo:3427>perturbador de ráfaga ECM</a>.",
+            "fr": "de bonus à la portée optimale et à la perte du <a href=showinfo:3427>brouilleur de pistes CME</a> et des <a href=showinfo:3427>brouilleurs à salves CME</a>",
+            "ja": "<a href=showinfo:3427>ECMターゲットジャマー</a>および<a href=showinfo:3427>ECMバーストジャマー</a>の最適射程距離および精度低下範囲が改善",
+            "ko": "<a href=showinfo:3427>ECM 타겟 재머</a>, <a href=showinfo:3427>ECM 버스트 재머</a> 최적사거리 및 유효사거리 증가",
+            "ru": "увеличивается оптимальная и добавочная дальность действия <a href=showinfo:3427>модулей глушения захвата целей</a> и <a href=showinfo:3427>генераторов импульсных помех</a>",
+            "zh": "<a href=showinfo:3427>ECM目标干扰器</a>和<a href=showinfo:3427>ECM脉冲干扰器</a>最佳射程和失准范围加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 468000.0
 }

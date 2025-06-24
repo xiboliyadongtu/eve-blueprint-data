@@ -1,5 +1,16 @@
 {
-  "typeID": 43630,
+  "description": {
+    "de": "Dieser Gegenstand kann in einer Station aktiviert werden, um dem Benutzer nicht vergebene Skillpunkte zu verleihen. Skill-Injektoren werden sofort verbraucht, sobald sie aktiviert werden. Kann nur benutzt werden, um die Skillpunkte auf maximal <b>1.500.000</b> zu erhöhen. Charaktere erhalten <b>25.000</b> nicht vergebene Skillpunkte.",
+    "en": "This item can be activated in a station to grant the user unallocated skill points. Skill injectors are consumed immediately once activated.\n\nThis can only be used to raise the skill points up to a total of <b>1,500,000</b>.\n\nCharacters will receive <b>25,000</b> unallocated skill points.",
+    "es": "Este objeto se puede activar en una estación para otorgar al usuario puntos de habilidad sin asignar. Los inyectores de habilidad se consume una vez activados.\n\nEl siguiente objeto solo se puede utilizar para aumentar los puntos de habilidad hasta <b>1 500 000</b>.\n\nLos personajes recibirán <b>25 000</b> puntos de habilidad sin asignar.",
+    "fr": "Une fois activé à bord d'une station, l'injecteur octroie des points de compétence non alloués à l'utilisateur. L'injecteur de compétence est consumé immédiatement après activation. Il permet d’élever le nombre de points de compétences jusqu'à <b>1 500 000</b>. Chaque injecteur prodigue <b>25 000</b> points de compétence non alloués.",
+    "ja": "このアイテムをステーションで使用することで、使用者は割り当てられていないスキルポイントを入手できる。使用すると、このインジェクターは消滅する。\n\nこのアイテムで得られるスキルポイントの合計は最大<b>1,500,000</b>。\n\nキャラクターは割り当てられていないスキルポイントを<b>25,000</b>得る。",
+    "ko": "정거장에서만 사용 가능합니다. 활성화 시 즉시 소모되며 추가 스킬 포인트를 부여합니다. <br><br>총 스킬 포인트는 <b>1,500,000</b>를 초과할 수 없습니다. <br><br>추가 스킬 포인트가 <b>25,000</b> 생성됩니다.",
+    "ru": "Используя этот предмет на станции, пилот получает нераспределённые синхропакеты (СП). При использовании СП-инъекторы мгновенно расходуются. Общий запас СП пилота после использования этого предмета не может превысить <b>1 500 000</b> СП. Пилот получит <b>25 000</b> нераспределённых СП.",
+    "zh": "这个物品可以在空间站中使用来给予玩家人物未分配的技能点数。一旦使用后，技能注入器便会消失。\n\n该人物将获得<b>25,000</b>未分配技能点。\n\n当人物的技能点总数达到<b>1,500,000</b>之后就不能用这种方式增加技能点了。"
+  },
+  "groupID": 1739,
+  "iconID": 21731,
   "name": {
     "de": "Mini Skill Injector",
     "en": "Mini Skill Injector",
@@ -10,5 +21,7 @@
     "ru": "Mini Skill Injector",
     "zh": "微型技能注入器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

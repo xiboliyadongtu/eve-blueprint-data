@@ -1,5 +1,22 @@
 {
-  "typeID": 2945,
+  "basePrice": 605200.0,
+  "capacity": 5.0,
+  "description": {
+    "de": "Vereinigt die Schadenswirkung zweier 425mm-Mittelstrecken-Maschinenkanonen. Sie muss mit einer der folgenden Projektil-Munitionssorten (regulär oder fortschrittlich) geladen werden: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, Titanium Sabot, Barrage oder Hail.",
+    "en": "Combines the damage output of two 425mm intermediate-range autocannons. \r\n\r\nMust be loaded with any of the following regular and advanced projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, Titanium Sabot, Barrage, Hail.",
+    "es": "Combina el daño infligido de dos cañones automáticos de 425 mm de alcance medio.\n\nDebe cargarse con cualquiera de los siguientes tipos de munición de proyectiles normales o avanzados: plomo carbonado, uranio empobrecido, EMP, fusión, nuclear, plasma fásico, protón, perforante de titanio, Barrage y Hail.",
+    "fr": "Combine les dégâts de deux canons automatiques de 425 mm à portée intermédiaire. \n\nRequiert les types de munitions de projectile normales et perfectionnées suivants : plomb trempé, uranium appauvri, IEM, fusion, nucléaire, plasma à phase, proton, sabot de titane, barrage, grêle.",
+    "ja": "425mm中距離オートキャノン2門が一度にダメージを与える。\n\n装填可能な標準または高性能プロジェクタイル弾のタイプ : 炭化鉛弾、劣化ウラン弾、電磁パルス弾、フュージョン弾、核弾頭弾、フェーズプラズマ弾、光子弾、チタン製サボット弾、バラージ弾、ヘイル弾。",
+    "ko": "425mm 중거리 기관포 두 대를 합쳤습니다. <br><br>사용 및 장착 가능한 발사체: 탄화납, 열화 우라늄, EMP, 융합, 원자력, 위상 플라즈마, 양성자, 티타늄 사봇, 버라지, 헤일.",
+    "ru": "Наносит такой же урон, как две 425-миллиметровые автопушки средней дальности.\n\nДля стрельбы из пушки используются стандартные и усовершенствованные снаряды следующих типов: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, Titanium Sabot, Barrage, Hail.",
+    "zh": "它是两门425mm中程加农炮的破坏力之合体。\r\n\r\n必须装填以下类型的常规和高级射弹弹药：碳铅弹、硬钼弹、电磁脉冲弹、聚变弹、核芯弹、定相离子弹、质子弹、钛合金萨博弹、“雷暴”、“冰雹”。"
+  },
+  "graphicID": 11291,
+  "groupID": 55,
+  "iconID": 381,
+  "marketGroupID": 576,
+  "mass": 200.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Dual 425mm AutoCannon II",
     "en": "Dual 425mm AutoCannon II",
@@ -10,5 +27,10 @@
     "ru": "Dual 425mm AutoCannon II",
     "zh": "双联425mm自动加农炮 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 200.0,
+  "sofFactionName": "brutor",
+  "variationParentTypeID": 494,
   "volume": 20.0
 }

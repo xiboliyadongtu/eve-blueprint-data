@@ -1,5 +1,18 @@
 {
-  "typeID": 24429,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Eine Menge Menschen wohnt in diesen Strukturen.",
+    "en": "A multitude of people inhabit these structures.",
+    "es": "En esta clase de estructuras vive una multitud de personas.",
+    "fr": "Une multitude de personnes vivent dans ces structures.",
+    "ja": "大勢がこの建造物に住んでいる。",
+    "ko": "다수의 사람이 구조물 안에 살고 있습니다.",
+    "ru": "В этих сооружениях живет множество людей.",
+    "zh": "许多人居住在这些建筑里。"
+  },
+  "graphicID": 2515,
+  "groupID": 306,
+  "mass": 100000.0,
   "name": {
     "de": "Rolette Residence",
     "en": "Rolette Residence",
@@ -10,5 +23,9 @@
     "ru": "Rolette Residence",
     "zh": "罗莱特居所"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 379.0,
+  "sofFactionName": "genericliving",
   "volume": 100000000.0
 }

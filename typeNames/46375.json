@@ -1,5 +1,17 @@
 {
-  "typeID": 46375,
+  "description": {
+    "de": "Dieser Gegenstand kann in einer Station aktiviert werden, um dem Benutzer 50.000 nicht vergebene Skill-Punkte zu gewähren. Der Injektor wird sofort verbraucht, sobald er aktiviert wird. Der Injektor kann ausschließlich von Charakteren des Klonstatus Alpha genutzt werden und pro Tag kann nur ein einziger täglicher Alpha-Injektor genutzt werden.",
+    "en": "This item can be activated in a station to grant the user 50,000 unallocated skill points. The injector is consumed immediately once activated.\r\n\r\nThe injector may only be used by characters in the Alpha Clone State and only one Daily Alpha Injector may be used per day.",
+    "es": "Este objeto se puede activar en una estación para otorgar al usuario 50 000 puntos de habilidad sin asignar. El inyector se consume una vez activado.\n\n\n\nEl inyector solo lo pueden usar personajes en el estatus de clon Alfa y solo se puede utilizar un inyector Alfa diario al día.",
+    "fr": "Activé à bord d'une station, l'injecteur octroie 50 000 points de compétence non alloués à l'utilisateur. L'injecteur est consommé immédiatement au moment de son activation. L'injecteur ne peut être utilisé que par des personnages possédant le statut de clone Alpha. Un seul injecteur alpha journalier peut être utilisé par jour.",
+    "ja": "このアイテムをステーションで使用することで、使用者は未割り当ての50,000スキルポイントを入手できる。使用すると、このインジェクターは消滅する。\r\n\nこのインジェクターはアルファクローン状態のキャラクターのみ使用できる。また、アルファインジェクターは1日に1回までしか使用できない。",
+    "ko": "정거장에서만 사용 가능합니다. 활성화 시 즉시 소모되며 추가 스킬 포인트가 50,000 생성됩니다. <br><br>알파 클론 상태에서 하루 최대 한번까지 사용 가능합니다.",
+    "ru": "Используя этот предмет на станции, пилот получает 50 тысяч нераспределённых очков навыков. При использовании СП-инъектор мгновенно расходуется. Инъектор может использоваться только клонами с альфа-статусом, в день можно использовать только один альфа-инъектор.",
+    "zh": "这个物品可以在空间站中使用来给予玩家50,000未分配技能点。一旦使用后，技能注入器便会消失。\n\n\n\n这个注入器只能由阿尔法克隆等级的人物使用，每天只能使用一个。"
+  },
+  "groupID": 1739,
+  "iconID": 21835,
+  "marketGroupID": 2358,
   "name": {
     "de": "Daily Alpha Injector",
     "en": "Daily Alpha Injector",
@@ -10,5 +22,7 @@
     "ru": "Daily Alpha Injector",
     "zh": "每日阿尔法注入器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

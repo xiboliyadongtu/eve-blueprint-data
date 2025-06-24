@@ -1,5 +1,18 @@
 {
-  "typeID": 81642,
+  "capacity": 1460.0,
+  "description": {
+    "de": "Ein Bundes-Transporter, der Waren zur Auslieferung in dieser Gegend befördert. Oder vielleicht ist das auch nur ein Vorwand.",
+    "en": "A Federal transport carrying goods to be delivered throughout this area. Or, perhaps that is only a ruse.",
+    "es": "Nave de transporte federal que transporta mercancías que deben entregarse en esta zona. O tal vez eso sea solo una artimaña.",
+    "fr": "Un transport fédéral acheminant des marchandises à distribuer dans cette région. Ou peut-être s'agit-il simplement d'une ruse.",
+    "ja": "このエリア一帯に届ける品物を運んでいる連邦の輸送船。あるいは、そう見せかけているだけかもしれないが。",
+    "ko": "갈란테 연방으로 배송되는 상품을 실은 운반선입니다. 물론 위장일 가능성을 배제할 수는 없습니다.",
+    "ru": "Федеральный транспорт, развозящий грузы по всей этой территории. Или, возможно, это всего лишь прикрытие.",
+    "zh": "联邦运输舰，负责向整个区域运送货物。不过，或许这只是一个障眼法罢了。"
+  },
+  "graphicID": 328,
+  "groupID": 4577,
+  "mass": 11000000.0,
   "name": {
     "de": "Postal Iteron Mark V",
     "en": "Postal Iteron Mark V",
@@ -10,5 +23,11 @@
     "ru": "Postal Iteron Mark V",
     "zh": "邮政伊特龙级MKV"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 450.0,
+  "sofFactionName": "gallentebase",
+  "soundID": 20066,
   "volume": 28600.0
 }

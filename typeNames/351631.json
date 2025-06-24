@@ -1,5 +1,17 @@
 {
-  "typeID": 351631,
+  "basePrice": 8050.0,
+  "description": {
+    "de": "Dieses Antriebsupgrade verbessert die Triebwerk-Stromleistung eines Fahrzeugs und erhöht dadurch seine Geschwindigkeit und sein Drehmoment.\n\nHINWEIS: Für dieses Modul gelten Stapelabzüge; nach dem ersten Modul nimmt die Wirksamkeit jedes weiteren ab, sofern es dieselben Attribute beeinflusst.",
+    "en": "This propulsion upgrade increases a vehicle powerplant's power output for increased speed and torque.\r\n\r\nNOTE: Stacking penalties apply to this module; the effectiveness of each additional module (after the first) that alters the same attributes will be reduced.",
+    "es": "Esta mejora de propulsión aumenta la potencia de salida del motor de un vehículo para incrementar la velocidad y el par de torsión.\n\nAVISO: Se aplican penalizaciones por acumulación a este módulo. Se reduce la efectividad de cada módulo adicional (después del primero) que altere los mismos atributos.",
+    "fr": "Ce module permet d'augmenter la puissance d'alimentation du moteur d'un véhicule pour développer un couple et une vitesse supérieures.\n\nREMARQUE : Des pénalités d'accumulation s'appliquent à ce module ; au-delà du premier module, l'efficacité de chaque module supplémentaire qui modifie les mêmes attributs sera réduite.",
+    "it": "Questo aggiornamento della propulsione aumenta l'emissione di energia della centrale energetica di un veicolo per incrementare la velocità e la torsione.\n\nNOTA: a questo modulo si applicano le penalità da accumulo; l'efficacia di ogni modulo aggiuntivo (dopo il primo) che modifica gli stessi attributi viene ridotta.",
+    "ja": "車両動力プラントの出力を引き上げ、スピードとトルクを増加させる推進力強化装置である。\n\n注：このモジュールはスタッキングペナルティの対象となり、同一のモジュールを複数取り付けると、一つ追加するごとにモジュールの効果が低下する。",
+    "ko": "전력시설 출력을 높여 속도와 토크를 증가시키는 추진력 업그레이드입니다. <br><br>참고: 중첩 페널티가 적용되는 모듈입니다. 동일한 효과를 지닌 모듈을 한 개 이상 장착할 경우 추가 모듈의 효율성이 감소합니다.",
+    "ru": "Данный модуль модернизации двигателя увеличивает выход энергии, вырабатываемый реактором транспортного средства, предназначенной для увеличения скорости и крутящего момента.\n\nПРИМЕЧАНИЕ: Для этого модуля действует система нарастающих штрафов; эффективность воздействия каждого последующего модуля (после первого), которая изменяет одинаковые характеристики, снижается.",
+    "zh": "这种推进升级增加了车辆动力装置的功率输出，从而增加了速度和转矩。注：此装备有堆叠惩罚，额外加装相同属性的装备的效果会降低。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Verbesserte Overdrive-Einheit",
     "en": "Enhanced Overdrive Unit",
@@ -11,5 +23,7 @@
     "ru": "Улучшенный модуль ускорителя",
     "zh": "增强型超速驱动装置"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

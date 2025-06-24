@@ -1,5 +1,17 @@
 {
-  "typeID": 24247,
+  "description": {
+    "de": "Ein Klumpen organischen Materials. Um den Verfall zu verhindern, wurde dem Gemisch eine antiseptische Substanz hinzugefügt.",
+    "en": "A mass of organic material. Antiseptic substance has been added to the mix to hinder decay.",
+    "es": "Una masa de material orgánico. Se ha añadido una sustancia antiséptica a la mezcla para evitar la descomposición.",
+    "fr": "Masse de matière organique. Une substance antiseptique a été ajoutée pour masquer la décomposition.",
+    "ja": "有機資源のかたまり。腐敗防止のため、防腐剤を混ぜてある。",
+    "ko": "유기 금속 덩어리입니다. 부식을 막기 위해 특수방지제가 섞여 있습니다.",
+    "ru": "Масса органического материала. Антисептик был добавлен в смесь для предотвращения разложения.",
+    "zh": "一大堆有机物质。这堆混合体中已添加了防腐物质来阻止其腐烂。"
+  },
+  "groupID": 526,
+  "iconID": 398,
+  "mass": 1000.0,
   "name": {
     "de": "Antiseptic Biomass",
     "en": "Antiseptic Biomass",
@@ -10,5 +22,7 @@
     "ru": "Antiseptic Biomass",
     "zh": "防腐的身体残骸"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

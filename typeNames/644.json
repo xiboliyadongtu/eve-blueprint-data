@@ -1,5 +1,75 @@
 {
-  "typeID": 644,
+  "basePrice": 153900000.0,
+  "capacity": 780.0,
+  "description": {
+    "de": "Hochgelobt von ihren Befürwortern und beschimpft von denen, die sie ablehnen, ist dieses Schlachtschiff der Typhoon-Klasse schon immer Gegenstand der schärfsten Debatten über Raumschiffe gewesen. Seine herausragende Fähigkeit - und gleichzeitig der Grund für die Kontroversen - ist seine Vielseitigkeit. Diese wird entweder als Mangel an zielgerichteter Entwicklung oder absichtlicher Freiraum für die Modifikation durch einen Piloten gesehen.",
+    "en": "Much praised by its proponents and much maligned by its detractors, the Typhoon-class battleship has always been one of the most hotly debated spacefaring vessels around. Its distinguishing aspect - and the source of most of the controversy - is its sheer versatility, variously seen as either a lack of design focus or a deliberate freedom for pilot modification.",
+    "es": "El acorazado de clase Typhoon, elogiado por sus defensores y criticado por sus detractores, siempre ha sido una de las naves espaciales que más debate han generado. Su principal característica (fruto de mucha controversia) es su increíble versatilidad, vista por muchos como una falta de enfoque en el diseño o como una licencia deliberada para que el piloto la modifique.",
+    "fr": "Loué par ses partisans et décrié par ses adversaires, le cuirassé de classe Typhoon est un vaisseau qui a fait couler beaucoup d’encre. Sa caractéristique principale, qui est la principale source de controverses, est son incroyable polyvalence. Certains la voient comme un défaut de conception et les autres comme la possibilité de plier le vaisseau aux désirs du pilote.",
+    "ja": "支持者からは盛大に賞賛され、誹謗者からは激しく中傷される。タイフーン級戦艦は常に称賛と罵倒が飛び交う議論の的となる艦船である。その特色は――議論の主な争点でもあるのだが――徹底した汎用性だ。それを設計方針の欠如と見る者もいれば、パイロットが手を加える余地を故意に残してあると見る者もいる。",
+    "ko": "타이푼급 배틀쉽은 지지자들에게는 찬사를, 비판적인 자에게는 혹평을 받는 함선으로 미묘한 성능에 대해서 많은 논란이 일고 있는 우주선입니다. 함선이 가진 고유의 개성이자 논란이 되고 있는 요소는 바로 범용성입니다. 설계사상에 대한 고민이 부족하거나 파일럿의 자유로운 개조를 염두에 두고 제작된 함선임이 틀림없습니다.",
+    "ru": "«Тайфуны» никогда не испытывали недостатка ни в хвале, ни в хуле, и всегда входили в круг наиболее обсуждаемых кораблей галактики. Причиной тому — их универсальность, которую пилоты склонны считать либо просчетом конструкторов, не сумевших дать кораблям специализацию, либо их остроумной находкой, благодаря которой пилоты вольны подгонять эти линкоры под свои собственные нужды.",
+    "zh": "台风级战列舰一向都是宇宙中最具争议的飞行器——支持者对它赞赏有加，反对者对它恶语中伤。它最引人瞩目的方面——同时也是多数争论的根源——是它的纯粹多功能性，有人认为这种设计缺乏重点，也有人觉得这是特意留给飞行员的装配自由。"
+  },
+  "factionID": 500002,
+  "graphicID": 301,
+  "groupID": 27,
+  "marketGroupID": 78,
+  "mass": 100600000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      133,
+      138,
+      141,
+      77,
+      150,
+      89
+    ],
+    "1": [
+      96,
+      99,
+      133,
+      138,
+      141,
+      77,
+      150,
+      89
+    ],
+    "2": [
+      96,
+      99,
+      133,
+      138,
+      141,
+      77,
+      150,
+      89
+    ],
+    "3": [
+      96,
+      99,
+      133,
+      138,
+      141,
+      77,
+      150,
+      89
+    ],
+    "4": [
+      96,
+      99,
+      133,
+      138,
+      141,
+      77,
+      117,
+      150,
+      89
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Typhoon",
     "en": "Typhoon",
@@ -9,6 +79,96 @@
     "ko": "타이푼",
     "ru": "Typhoon",
     "zh": "台风级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 250.0,
+  "sofFactionName": "minmatarbase",
+  "soundID": 20076,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 5.0,
+        "bonusText": {
+          "de": "zusätzlicher Bonus auf HP der <a href=showinfo:3394>Verstärkten Schottwand</a>",
+          "en": "additional bonus to <a href=showinfo:3394>Reinforced Bulkhead</a> hitpoints",
+          "es": "de bonificación adicional a los puntos de vida del <a href=showinfo:3394>mamparo reforzado</a>.",
+          "fr": "de bonus supplémentaire aux points de vie de la <a href=showinfo:3394>cloison renforcée</a>",
+          "ja": "<a href=showinfo:3394>強化隔壁</a>HPがさらに増加",
+          "ko": "<a href=showinfo:3394>강화 격벽</a> 내구도 증가",
+          "ru": "дополнительный бонус к прочности <a href=showinfo:3394>укреплённой переборки</a>",
+          "zh": "<a href=showinfo:3394>强化舱隔壁</a>结构值加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der <a href=showinfo:3394>Panzerplatte</a>",
+          "en": "bonus to <a href=showinfo:3394>Armor Plate</a> hitpoints",
+          "es": "de bonificación a los puntos de vida de las <a href=showinfo:3394>placas de blindaje</a>.",
+          "fr": "de bonus aux points de vie du <a href=showinfo:3394>revêtement de blindage</a>",
+          "ja": "<a href=showinfo:3394>アーマープレート</a>HPが増加",
+          "ko": "<a href=showinfo:3394>장갑 플레이트</a> 내구도 증가",
+          "ru": "бонус к прочности <a href=showinfo:3394>бронеплиты</a>",
+          "zh": "<a href=showinfo:3394>装甲附甲板</a>装甲值加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 100.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der <a href=showinfo:3425>Schilderweiterung</a>",
+          "en": "bonus to <a href=showinfo:3425>Shield Extender</a> hitpoints",
+          "es": "de bonificación a los puntos de vida del <a href=showinfo:3425>extensor de escudo</a>.",
+          "fr": "de bonus aux points de vie de l'<a href=showinfo:3425>extenseur de bouclier</a>",
+          "ja": "<a href=showinfo:3425>シールドエクステンダー</a>HPが増加",
+          "ko": "<a href=showinfo:3425>실드 확장장치</a> 실드량 증가",
+          "ru": "бонус к прочности <a href=showinfo:3425>расширителя щитов</a>",
+          "zh": "<a href=showinfo:3425>护盾扩展装置</a>护盾值加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3337": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf die Feuerrate von schnellen <a href=showinfo:3324>schweren Lenkwaffen-</a>, <a href=showinfo:3326>Marschflugkörper-</a> und <a href=showinfo:3325>Torpedo</a>-Werfern",
+            "en": "bonus to Rapid <a href=showinfo:3324>Heavy Missile</a>, <a href=showinfo:3326>Cruise Missile</a> and <a href=showinfo:3325>Torpedo</a> Launcher rate of fire",
+            "es": "de bonificación a la cadencia de tiro rápida de los <a href=showinfo:3324>lanzamisiles pesados</a>, los <a href=showinfo:3326>lanzamisiles de crucero</a> y los <a href=showinfo:3325>lanzatorpedos</a>.",
+            "fr": "de bonus à la cadence de tir des <a href=showinfo:3324>lance-missiles lourds</a>, <a href=showinfo:3326>lance-missiles de croisière</a> et <a href=showinfo:3325>lance-torpilles</a> rapides",
+            "ja": "高速<a href=showinfo:3324>ヘビーミサイル</a>・<a href=showinfo:3326>クルーズミサイル</a>・<a href=showinfo:3325>トルピード</a>ランチャーの発射間隔が短縮",
+            "ko": "급속 <a href=showinfo:3324>헤비 미사일</a>, <a href=showinfo:3326>크루즈 미사일</a>, <a href=showinfo:3325>토피도</a> 런처 연사속도 증가",
+            "ru": "повышается скорострельность <a href=showinfo:3325>торпедных аппаратов</a>, ПУ <a href=showinfo:3326>дальнобойных ракет</a>, скорострельных ПУ <a href=showinfo:3324>тяжёлых ракет</a>",
+            "zh": "<a href=\"showinfo:3324\">重型快速导弹</a>、<a href=\"showinfo:3326\">巡航导弹</a>和<a href=\"showinfo:3325\">鱼雷</a>发射器射速加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Explosionsgeschwindigkeit von <a href=showinfo:3326>Marschflugkörpern</a> und <a href=showinfo:3325>Torpedos</a>",
+            "en": "bonus to <a href=showinfo:3326>Cruise Missile</a> and <a href=showinfo:3325>Torpedo</a> explosion velocity",
+            "es": "de bonificación a la velocidad de explosión de los <a href=showinfo:3326>misiles de crucero</a> y los <a href=showinfo:3325>torpedos</a>.",
+            "fr": "de bonus à la vitesse d'explosion des <a href=showinfo:3326>missiles de croisière</a> et des <a href=showinfo:3325>torpilles</a>",
+            "ja": "<a href=showinfo:3326>クルーズミサイル</a>と<a href=showinfo:3325>トルピード</a>の爆発速度が上昇",
+            "ko": "<a href=showinfo:3326>크루즈 미사일</a> 및 <a href=showinfo:3325>토피도</a> 폭발속도 증가",
+            "ru": "повышается коэффициент скорости взрыва БЧ <a href=showinfo:3326>дальнобойных ракет</a> и <a href=showinfo:3325>торпед</a>",
+            "zh": "<a href=\"showinfo:3326\">巡航导弹</a>和<a href=\"showinfo:3325\">鱼雷</a>爆炸速度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 414000.0
 }

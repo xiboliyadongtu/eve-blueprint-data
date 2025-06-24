@@ -1,5 +1,21 @@
 {
-  "typeID": 19992,
+  "basePrice": 4000.0,
+  "description": {
+    "de": "Diese fortschrittliche Munition setzt eine neue Technologie ein, bei der ein konzentrierter EM-Impuls ausgesendet wird. Sehr wirksam gegen Schilde.\n\n\n\n50% geringere optimale Reichweite.",
+    "en": "A new technology, this highly advanced ammunition emits a focused EM pulse. Very potent against shields.\r\n\r\n50% reduced optimal range.",
+    "es": "Esta munición avanzada de nueva tecnología emite un pulso electromagnético concentrado. Muy potente contra escudos.\n\n\n\nAlcance óptimo reducido un 50 %.",
+    "fr": "Cette munition très perfectionnée et très récente émet une impulsion électromagnétique focalisée. Elle est très efficace contre les boucliers.\n\nRéduit de 50 % la portée optimale.",
+    "ja": "新技術を用いた高性能弾で、集束EMパルスを放射する。シールドには高い威力を持つ。最適射程距離が50％短縮。",
+    "ko": "첨단 기술이 집합된 탄약으로 타격 시 EMP를 방출합니다. 실드를 대상으로 매우 효과적입니다. <br><br>최적사거리 50% 감소",
+    "ru": "Эти снаряды были созданы лишь недавно и представляют собой венец современной артиллерийской мысли — при попадании в цель они излучают направленный электромагнитный импульс. Отлично пробивают щиты.\n\n\n\nСнижает оптимальную дальность действия на 50%.",
+    "zh": "作为新技术的结晶，这种高度先进的弹药可发射集束电磁脉冲。对护盾十分有效。最佳射程减少50%。"
+  },
+  "graphicID": 1286,
+  "groupID": 83,
+  "iconID": 1286,
+  "marketGroupID": 989,
+  "mass": 1.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Arch Angel EMP S",
     "en": "Arch Angel EMP S",
@@ -10,5 +26,8 @@
     "ru": "Arch Angel EMP S",
     "zh": "大天使电磁脉冲弹 S"
   },
+  "portionSize": 100,
+  "published": true,
+  "variationParentTypeID": 185,
   "volume": 0.0025
 }

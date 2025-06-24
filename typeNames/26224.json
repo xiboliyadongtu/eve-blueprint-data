@@ -1,5 +1,18 @@
 {
-  "typeID": 26224,
+  "basePrice": 25000000.0,
+  "description": {
+    "de": "Wird zur Fertigung von Boostern benötigt.",
+    "en": "Needed to manufacture boosters.",
+    "es": "Se necesita para fabricar potenciadores.",
+    "fr": "Compétence nécessaire pour la production de boosters.",
+    "ja": "ブースター製造に必要。",
+    "ko": "부스터 제작을 위한 스킬입니다.",
+    "ru": "Освоив первую степень этого навыка, пилот сможет заняться производством боевых стимуляторов.",
+    "zh": "生产增效剂的必需技能。"
+  },
+  "groupID": 268,
+  "iconID": 33,
+  "marketGroupID": 369,
   "name": {
     "de": "Drug Manufacturing",
     "en": "Drug Manufacturing",
@@ -10,5 +23,8 @@
     "ru": "Синтез боевых стимуляторов",
     "zh": "药品制备"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 3388,
+  "basePrice": 300000.0,
+  "description": {
+    "de": "Fertigkeit zur effizienten Bedienung von Industrieanlagen. 3% Reduktion sämtlicher Fertigungs- und Forschungszeit je Skillstufe.",
+    "en": "Skill at efficiently using industrial facilities. 3% reduction in all manufacturing and research times per skill level.",
+    "es": "Habilidad para usar instalaciones industriales de forma eficaz. 3 % de reducción en todos los tiempos de fabricación e investigación por nivel de habilidad.",
+    "fr": "Compétence liée à l’utilisation efficace des usines industrielles. Diminue de 3 % la durée de production et de recherche par niveau de compétence.",
+    "ja": "工場で使用されるスキル効率。スキルレベルごとに3%の製造時間削減。",
+    "ko": "산업 시설의 효율적 운영을 위한 스킬입니다. 매 레벨마다 제조 시간 및 연구 시간 3% 감소",
+    "ru": "Навык рационального использования заводов. За каждую степень освоения навыка: на 3% сокращается расход времени на все производственные и исследовательские проекты.",
+    "zh": "高效使用工业设施的技能。每升一级，所有制造和研究时间减少3%。"
+  },
+  "groupID": 268,
+  "iconID": 33,
+  "marketGroupID": 369,
   "name": {
     "de": "Advanced Industry",
     "en": "Advanced Industry",
@@ -10,5 +23,7 @@
     "ru": "Углубленный курс организации производства",
     "zh": "高级工业理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

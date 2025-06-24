@@ -1,5 +1,20 @@
 {
-  "typeID": 257,
+  "description": {
+    "de": "Moduliert den Strahl einer Laserwaffe in den Infrarot-Frequenzbereich. Leicht verbesserte Reichweite.\n\n20% höhere optimale Reichweite.\n35% niedrigerer Energiespeicherverbrauch.",
+    "en": "Modulates the beam of a laser weapon into the infrared frequencies. Slightly improved range.\r\n\r\n20% increased optimal range.\r\n35% reduced capacitor need.",
+    "es": "Modula el rayo de un arma láser en las frecuencias infrarrojas. Alcance ligeramente mejorado.\n\nAlcance óptimo aumentado un 20 %.\n\nNecesidad del condensador reducida un 35 %.",
+    "fr": "Module le rayon d'une arme laser dans les fréquences infrarouges. Améliore légèrement la portée.\n\nAugmente de 20 % la portée optimale.\nRéduit de 35 % les besoins énergétiques du capaciteur.",
+    "ja": "レーザー兵器のビームを赤外線波長に変調。有効射程はわずかに増加。\r\n\n最適射程距離が20％延長。\nキャパシタ使用量が35%低減。",
+    "ko": "레이저 무기에서 방출되는 빔을 적외선 주파수로 변조합니다. 사거리가 증가합니다. <br><br>최적사거리 20% 증가 <br>캐패시터 사용량 35% 감소",
+    "ru": "Перенастраивает лазер на работу в инфракрасном диапазоне. Незначительно увеличивает дальность поражения.\n\nПовышает оптимальную дальность действия на 20%.\nСнижает потребление энергии конденсатора на 35%.",
+    "zh": "将激光武器的光束调节到红外线频率。小幅提升攻击距离。最佳射程提升20%。电容需求降低35%。"
+  },
+  "graphicID": 1144,
+  "groupID": 86,
+  "iconID": 1144,
+  "marketGroupID": 105,
+  "mass": 1.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Infrared L",
     "en": "Infrared L",
@@ -10,5 +25,7 @@
     "ru": "Infrared L",
     "zh": "红外晶体 L"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

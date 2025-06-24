@@ -1,5 +1,18 @@
 {
-  "typeID": 53080,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Allgemeine Strukturen wie diese wurden an ihren speziellen Zweck angepasst. In diesem Fall wurden die Antennen und Schüsseln so ausgerichtet, dass sie Astronavigationsdaten sammeln und die umliegenden Asteroiden nach Materialien durchsuchen. Trägheitsräder und Photovoltaikzellen sind bei solchen Geräten üblich, können jedoch gegen andere Alternativen ausgetauscht werden.",
+    "en": "Generic structures such as this one have been modified to fit their special purpose. In this case, the antennae and dishes are set up to gather astronavigational data and survey the surrounding asteroids for materials. Momentum wheels and photovoltaic cells are common on these devices but can be swapped out for other options.",
+    "es": "Las estructuras genéricas como esta se han modificado para un propósito especial. En este caso, las antenas y los platos están configurados para reunir datos de astronavegación e inspeccionar los asteroides circundantes en busca de materiales. Las ruedas de impulso y las células fotovoltaicas son comunes en estos dispositivos, pero se pueden cambiar por otras opciones.",
+    "fr": "Des structures génériques telles que celle-ci ont été modifiées pour convenir à leur objectif spécifique. Dans ce cas, les antennes et les disques sont configurés pour recueillir des données astronavigationnelles et analyser les matériaux des astéroïdes environnants. Les roues d'inertie et les cellules photovoltaïques sont courantes sur ces appareils, mais peuvent être échangées pour d'autres options.",
+    "ja": "特化型に改造された一般的なストラクチャ。柱型・皿型のアンテナは航行データの収集と周辺アステロイドの資源調査のためにセッティングされている。これら装置には慣性ホイールと光発電セルが搭載される場合が多いが、他の動力源と取り換えることもできる。",
+    "ko": "이러한 아이템들은 특수 목적을 위해 근본적인 구조가 개량되는 경우가 많습니다. 이 경우에는 우주 항행 데이터와 주변 소행성의 광물 데이터를 수집할 수 있도록 안테나와 안테나 접시가 추가적으로 설치되었습니다. 모멘텀 휠과 광발전 전지 역시 이러한 장치에 흔히 사용되지만, 이는 다른 옵션으로 대체될 수도 있습니다.",
+    "ru": "Стандартные сооружения вроде этого были модифицированы, и теперь их можно использовать по особому назначению. В этом случае антенны и спутниковые тарелки настроены для сбора астронавигационных данных и поисков полезных материалов внутри ближайших астероидов. Как правило, в таких устройствах используются гироскопы и светогальванические элементы, но при желании их можно заменить.",
+    "zh": "这种通用建筑会根据其特殊用途而加以改装。以这个建筑为例，它的天线和圆盘用来收集星际导航数据并会探测附近的小行星的矿物构成。动量轮和光伏电池在这种设备上被广泛使用，不过也能被用来做其他用途。"
+  },
+  "graphicID": 2412,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Survey Array",
     "en": "Survey Array",
@@ -10,5 +23,10 @@
     "ru": "Survey Array",
     "zh": "探测阵列"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 4300.0,
+  "sofFactionName": "genericindustrial",
+  "soundID": 20195,
   "volume": 100000000.0
 }

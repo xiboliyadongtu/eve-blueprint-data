@@ -1,5 +1,17 @@
 {
-  "typeID": 354917,
+  "basePrice": 5440.0,
+  "description": {
+    "de": "Erhöht die maximale Ausdauer des Benutzers.\nSpiral verwendet hochwertige Materialien, um CPU- und PG-Last zu senken und gleichzeitig Leistung zu bieten, die mit komplexer Technologie vergleichbar ist.\nHINWEIS: Für dieses Modul gelten Stapelabzüge; nach dem ersten Modul nimmt die Wirksamkeit jedes weiteren ab.",
+    "en": "Increases maximum stamina of the user.\r\nThe Spiral utilizes high-grade materials to reduce CPU and PG load while providing comparative Complex-level performance.\r\nNOTE: Stacking penalties apply to this module; the effectiveness of each additional module after the first will be reduced.",
+    "es": "Aumenta el aguante máximo del usuario.\nEl \"Spiral\" usa materiales de alta calidad para reducir la carga de CPU y RA, al tiempo que ofrece un rendimiento complejo.\nAVISO: a este módulo se le aplican penalizaciones por agrupamiento; por cada módulo adicional que se coloque a partir del primero, se reduce su eficacia.",
+    "fr": "Augmente l'endurance maximale de l'utilisateur\nLe Spiral utilise des matériaux de haute qualité pour réduire la charge de CPU et PG tout en fournissant une performance comparable au niveau complexe.\nREMARQUE : Des pénalités d'accumulation s'appliquent à ce module ; au-delà du premier module, l'efficacité de chaque module supplémentaire sera réduite.",
+    "it": "Aumenta la forza vitale massima dell'utente.\nIl modello \"Spiral\" utilizza materiali avanzati per ridurre il carico di lavoro della CPU e della rete energetica fornendo prestazioni comparative complesse.\nNOTA: a questo modulo si applicano le penalità da accumulo; l'efficacia di ogni modulo aggiuntivo dopo il primo viene ridotta.",
+    "ja": "使用者のスタミナ最大値を上げる。\nスパイラルは高性能の資源を使用しCPUとPGの負荷を軽くしながら複雑なパーフォーマンスを提供する。\n注:このモジュールはスタッキングペナルティの対象となり、同一のモジュールを複数取り付けると、一つ追加するごとにモジュールの効果が低下する。",
+    "ko": "사용 시 최대 스태미나가 증가합니다. <br><br>스파이럴은 고급 자원을 활용해 CPU와 파워그리드의 사용량을 줄이면서도 컴플렉스급 수행이 가능하도록 합니다. <br><br>참고: 중첩 페널티가 적용되는 모듈입니다. 동일한 효과를 지닌 모듈을 한 개 이상 장착할 경우 추가 모듈의 효율성이 감소합니다.",
+    "ru": "Повышает максимальную выносливость владельца.\nВ модификации Spiral применяются высококачественные материалы, позволяющие снизить нагрузку на ЦПУ и энергосеть, но при этом обеспечивается эффективность работы, сопоставимая с усложненными системами.\nПРИМЕЧАНИЕ: Для этого модуля действует система нарастающих штрафов. Эффективность воздействия каждого последующего модуля снижается.",
+    "zh": "增加使用者的最大耐力。螺旋轨道采用高级材料，在提供可与复杂级性能媲美的性能时，还能降低CPU和PG负载。注：此装备有堆叠惩罚，额外加装同样装备的效果会降低。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Komplexes Kardialstimulans 'Spiral'",
     "en": "'Spiral' Complex Cardiac Stimulant",
@@ -11,5 +23,7 @@
     "ru": "Усложненный стимулятор сердечной деятельности 'Spiral'",
     "zh": "“螺旋”级复杂型强心剂"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

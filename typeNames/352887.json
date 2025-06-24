@@ -1,5 +1,17 @@
 {
-  "typeID": 352887,
+  "basePrice": 20000.0,
+  "description": {
+    "de": "Einfacher Skill zur Führung einer Corporation. \n\n+10 Corporation-Mitglieder pro Skillstufe erlaubt.",
+    "en": "Basic corporation operation. \r\n\r\n+10 corporation members allowed per level.",
+    "es": "Control básico de corporaciones. \n\nAumenta en 10 el número de miembros corporativos permitidos por nivel.",
+    "fr": "Gestion de corporation basique. \n\n+10 membres de corporation autorisés par niveau.",
+    "it": "Operazione corporazione di base. \n\n+10 membri consentiti per livello.",
+    "ja": "基本的なコーポレーション運営。\n\nレベル上昇ごとに、コーポレーションのメンバー数上限が10人増加。",
+    "ko": "기본 코퍼레이션 경영관리 스킬입니다. <br><br>매 레벨마다 코퍼레이션 멤버 +10",
+    "ru": "Базовые навыки управления корпорацией. \n\n+10 к количеству членов корпорации на каждый уровень.",
+    "zh": "军团运作的基本技能。每升一级，军团成员上限提升10人。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Corporations",
     "en": "Corporations",
@@ -11,5 +23,7 @@
     "ru": "Корпорации",
     "zh": "军团"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

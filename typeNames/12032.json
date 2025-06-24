@@ -1,5 +1,70 @@
 {
-  "typeID": 12032,
+  "basePrice": 18400000.0,
+  "capacity": 265.0,
+  "description": {
+    "de": "Speziell für den Abschuss von Torpedos entwickelt, stellen Tarnkappenbomber die nächste Generation im Covert Ops Bereich dar. Die Bomber wurden für Überraschungsangriffe auf große Schiffe mit einer leistungsstarken Raketenleittechnologie entwickelt, was es den Torpedos ermöglicht, schneller und aus einer größeren Entfernung zu treffen. \r\n",
+    "en": "Specifically engineered to fire torpedoes, stealth bombers represent the next generation in covert ops craft. The bombers are designed for sneak attacks on large vessels with powerful missile guidance technology enabling the torpedoes to strike faster and from a longer distance. \r\n",
+    "es": "En concreto, los bombarderos sigilosos representan la siguiente generación en operaciones encubiertas. Estos bombarderos están diseñados para atacar sigilosamente grandes naves, y cuentan con una potente tecnología de guiado que permite disparar torpedos más rápido y desde más lejos. ",
+    "fr": "Conçus pour lancer des torpilles, les bombardiers furtifs représentent l'étape suivante dans le développement des vaisseaux des opérations secrètes. Disposant d'une puissante technologie de guidage de missile permettant aux torpilles de frapper plus vite et à plus grande distance, les bombardiers sont conçus pour les attaques éclair sur de grands vaisseaux. \r\n",
+    "ja": "トルピード発射用に特別に設計されたステルス爆撃機。次世代を代表する光学迷彩船舶である。大型艦に奇襲を仕掛けるよう設計された爆撃機で、強力なミサイル誘導技術を使用して、長距離から素早くトルピードを発射する。 ",
+    "ko": "토피도 발사 전용으로 설계된 스텔스 폭격기는 코버트 옵스 계열 함선의 차세대 기체입니다. 대형 함선 기습에 최적화되어 있으며 최첨단 유도장치를 통해 토피도를 더 빠르고 먼 거리에서 발사할 수 있습니다. \r\n",
+    "ru": "Бомбардировщики-невидимки были специально созданы для запуска торпед и представляют собой следующее поколение воздушных судов для осуществления диверсий. Бомбардировщики предназначены для скрытных нападений на крупные суда и оснащены мощной технологией управления ракетами, которая позволяет торпедам двигаться быстрее и увеличивает радиус их действия. \r\n",
+    "zh": "隐形轰炸舰专为发射鱼雷而设计，是下一代隐形飞行器的典型代表。凭借着强大的导弹制导系统，该种舰船能让鱼雷奔得更快更远，专用来偷袭大型船只。 \r\n"
+  },
+  "factionID": 500001,
+  "graphicID": 1881,
+  "groupID": 834,
+  "marketGroupID": 422,
+  "mass": 1470000.0,
+  "masteries": {
+    "0": [
+      96,
+      150,
+      139,
+      108,
+      79,
+      85,
+      94
+    ],
+    "1": [
+      96,
+      150,
+      139,
+      108,
+      79,
+      85,
+      94
+    ],
+    "2": [
+      96,
+      150,
+      139,
+      108,
+      79,
+      85,
+      94
+    ],
+    "3": [
+      96,
+      150,
+      139,
+      108,
+      79,
+      85,
+      94
+    ],
+    "4": [
+      96,
+      150,
+      139,
+      108,
+      79,
+      85,
+      118,
+      94
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Manticore",
     "en": "Manticore",
@@ -10,5 +75,152 @@
     "ru": "Manticore",
     "zh": "蝎尾怪级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 39.0,
+  "sofFactionName": "laidai",
+  "soundID": 20068,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Keine Verzögerung bei der Zielaufschaltung nach der Deaktivierung von <a href=showinfo:11579>Tarnmodulen</a>",
+          "en": "No targeting delay after <a href=showinfo:11579>Cloaking Device</a> deactivation",
+          "es": "No hay demora en la adquisición de objetivos tras la desactivación del <a href=showinfo:11579>dispositivo de camuflaje</a>.",
+          "fr": "Aucun délai de ciblage après la désactivation des <a href=showinfo:11579>dispositifs de camouflage</a>",
+          "ja": "<a href=showinfo:11579>遮蔽装置</a>を停止した後のターゲット遅延なし",
+          "ko": "<a href=showinfo:11579>클로킹 장치</a> 비활성화 후 타겟팅 딜레이 없음",
+          "ru": "На кораблях этого типа устранена задержка включения систем захвата целей, вызываемая отключением <a href=showinfo:11579>систем маскировки</a>",
+          "zh": "重新启动<a href=\"showinfo:11579\">隐形装置</a>后不遭受锁定延时副作用"
+        },
+        "importance": 3
+      },
+      {
+        "bonusText": {
+          "de": "Es können <a href=showinfo:11578>Covert Ops-Tarnmodule</a>, <a href=showinfo:28646>getarnte Anziehungsfeldgeneratoren</a> und <a href=showinfo:28073>Bombenwerfer</a> eingebaut werden.",
+          "en": "Can fit <a href=showinfo:11578>Covert Ops Cloaking Device</a>, <a href=showinfo:28646>Covert Cynosural Field Generator</a> and <a href=showinfo:28073>Bomb Launcher</a>",
+          "es": "Es posible equipar un <a href=showinfo:11578>dispositivo de camuflaje de operaciones encubiertas</a>, un <a href=showinfo:28646>generador de campo cinosural encubierto</a> y un <a href=showinfo:28073>lanzabombas</a>.",
+          "fr": "Peut utiliser un <a href=showinfo:11578>dispositif de camouflage opérations secrètes</a>, un <a href=showinfo:28646>générateur de champ cynosural</a> et un <a href=showinfo:28073>lance-bombes</a>",
+          "ja": "<a href=showinfo:11578>光学迷彩型遮蔽装置</a>、<a href=showinfo:28646>潜伏用サイノシュラルフィールドジェネレータ</a>、<a href=showinfo:28073>ボムランチャー</a>を装備可能",
+          "ko": "<a href=showinfo:11578>코버트 옵스 클로킹 장치</a>, <a href=showinfo:28646>코버트 사이노슈럴 필드 생성기</a> 및 <a href=showinfo:28073>폭탄 런처</a> 장착 가능",
+          "ru": "Возможна установка <a href=showinfo:11578>внережимной системы маскировки</a>, <a href=showinfo:28646>приводного маяка скрытого действия</a> и <a href=showinfo:28073>бомбометателя</a>",
+          "zh": "可以装备<a href=showinfo:11578>隐秘行动隐形装置</a>、<a href=showinfo:28646>隐秘诱导力场发生器</a>和<a href=showinfo:28073>炸弹发射器</a>"
+        },
+        "importance": 4
+      },
+      {
+        "bonusText": {
+          "de": "Die Verzögerung bei Reaktivierung von <a href=showinfo:11579>Tarnmodulen</a> wird auf 15 Sekunden reduziert.",
+          "en": "<a href=showinfo:11579>Cloak</a> reactivation delay reduced to 15 seconds",
+          "es": "Reducción de la demora de reactivación del <a href=showinfo:11579>camuflaje</a> a 15 segundos.",
+          "fr": "Délai de réactivation du <a href=showinfo:11579>camouflage</a> réduit à 15 secondes",
+          "ja": "<a href=showinfo:11579>遮蔽装置</a>の再起動遅延が15秒に短縮",
+          "ko": "<a href=showinfo:11579>클로킹</a> 재가동 지연 시간 15초로 감소",
+          "ru": "Задержка повторного включения <a href=showinfo:11579>систем маскировки</a> сокращена до 15 секунд",
+          "zh": "<a href=\"showinfo:11579\">隐形装置</a>重启延时降到15秒"
+        },
+        "importance": 5
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Reduktion des CPU-Bedarfs für <a href=showinfo:11579>Tarnmodule</a>",
+          "en": "reduction in <a href=showinfo:11579>Cloaking Devices</a> CPU requirement",
+          "es": "de reducción del requisito de CPU de los <a href=showinfo:11579>dispositivos de camuflaje</a>.",
+          "fr": "de réduction du CPU requis par les <a href=showinfo:11579>dispositifs de camouflage</a>",
+          "ja": "<a href=showinfo:11579>遮蔽装置</a>のCPU使用量が減少",
+          "ko": "<a href=showinfo:11579>클로킹 장치</a> CPU 사용량 감소",
+          "ru": "сокращается потребность <a href=showinfo:11579>систем маскировки</a> в мощностях ЦПУ",
+          "zh": "<a href=\"showinfo:11579\">隐形装置</a>的CPU需求降低"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 99.65,
+        "bonusText": {
+          "de": "Reduktion des Stromnetz-Bedarfs von <a href=showinfo:3325>Torpedowerfern</a>",
+          "en": "reduction in <a href=showinfo:3325>Torpedo</a> Launcher powergrid requirement",
+          "es": "de reducción de los requisitos del sistema de potencia del <a href=showinfo:3325>lanzatorpedos</a>.",
+          "fr": "de réduction du réseau d'alimentation requis par les <a href=showinfo:3325>lance-torpilles</a>",
+          "ja": "<a href=showinfo:3325>トルピード</a>ランチャーのパワーグリッド使用量が減少",
+          "ko": "<a href=showinfo:3325>토피도</a> 런처 파워그리드 요구치 감소",
+          "ru": "сокращается потребность <a href=showinfo:3325>торпедных аппаратов</a> в мощности реактора",
+          "zh": "<a href=\"showinfo:3325\">鱼雷</a>发射器能量栅格需求降低"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3330": [
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf Flugdauer von <a href=showinfo:3325>Torpedos</a>",
+            "en": "bonus to <a href=showinfo:3325>Torpedo</a> flight time",
+            "es": "de bonificación al tiempo de vuelo de los <a href=showinfo:3325>torpedos</a>.",
+            "fr": "bonus au temps de vol des <a href=showinfo:3325>torpilles</a>",
+            "ja": "<a href=showinfo:3325>トルピード</a>の飛行時間が上昇",
+            "ko": "<a href=showinfo:3325>토피도</a> 비행시간 증가",
+            "ru": "бонус ко времени полёта <a href=showinfo:3325>торпед</a>",
+            "zh": "<a href=showinfo:3325>鱼雷</a>飞行时间加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 15.0,
+          "bonusText": {
+            "de": "Bonus auf die Maximalgeschwindigkeit von <a href=showinfo:3325>Torpedos</a>",
+            "en": "bonus to <a href=showinfo:3325>Torpedo</a> max velocity",
+            "es": "de bonificación a la velocidad máxima de los <a href=showinfo:3325>torpedos</a>.",
+            "fr": "de bonus à la vitesse maximale des <a href=showinfo:3325>torpilles</a>",
+            "ja": "<a href=showinfo:3325>トルピード</a>の最高速度が上昇",
+            "ko": "<a href=showinfo:3325>토피도</a> 최대속도 증가",
+            "ru": "повышается скорость полного хода <a href=showinfo:3325>торпед</a>",
+            "zh": "<a href=\"showinfo:3325\">鱼雷</a>飞行速度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ],
+      "12093": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf den Kinetikschaden von <a href=showinfo:28073>Bomben</a>",
+            "en": "bonus to kinetic <a href=showinfo:28073>Bomb</a> damage",
+            "es": "de bonificación al daño cinético de las <a href=showinfo:28073>bombas</a>.",
+            "fr": "de bonus aux dégâts cinétiques des <a href=showinfo:28073>bombes</a>",
+            "ja": "<a href=showinfo:28073>ボム</a>のキネティックダメージが増加",
+            "ko": "<a href=showinfo:28073>폭탄</a> 키네틱 피해량 증가",
+            "ru": "увеличивается поражающее действие кинетических БЧ <a href=showinfo:28073>бомб</a>",
+            "zh": "<a href=\"showinfo:28073\">炸弹</a>动能伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 15.0,
+          "bonusText": {
+            "de": "Bonus auf den Kinetikschaden von <a href=showinfo:3325>Torpedos</a>",
+            "en": "bonus to kinetic <a href=showinfo:3325>Torpedo</a> damage",
+            "es": "de bonificación al daño cinético de los <a href=showinfo:3325>torpedos</a>.",
+            "fr": "de bonus aux dégâts cinétiques des <a href=showinfo:3325>torpilles</a>",
+            "ja": "<a href=showinfo:3325>トルピード</a>のキネティックダメージが増加",
+            "ko": "<a href=showinfo:3325>토피도</a> 키네틱 피해량 증가",
+            "ru": "увеличивается поражающее действие кинетических БЧ <a href=showinfo:3325>торпед</a>",
+            "zh": "<a href=\"showinfo:3325\">鱼雷</a>动能伤害加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 602,
   "volume": 28100.0
 }

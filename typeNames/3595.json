@@ -1,5 +1,16 @@
 {
-  "typeID": 3595,
+  "description": {
+    "de": "Die Transporter der Badger-Klasse sind die wichtigsten Trägerschiffe des Staates der Caldari, besonders auf langen und beschwerlichen Handelsrouten. Dank ihrer enormen Baugröße und der reichlichen Bewaffnung sind diese Schiffe perfekt für solche Einsätze gerüstet, obwohl die Caldari sie nur selten allein auf die Reise schicken.",
+    "en": "The Badger-class hauler is the main cargo-carrier for the Caldari State, particularly in long, arduous trade-runs. Its huge size and comfortable armament makes it perfectly equipped for those tasks, although the Caldari seldom let it roam alone.",
+    "es": "La nave de mercancías de clase Badger es la principal nave de transporte de carga del Estado Caldari, sobre todo para negocios largos y arduos. Su enorme tamaño y armamento cómodo hacen que esté perfectamente equipada para esas tareas, aunque los caldaris raramente la dejan vagar sola.",
+    "fr": "Le cargo de classe Badger est le principal vaisseau de transport caldari. Il sert plus particulièrement pour les opérations de fret longues et difficiles. Sa taille impressionnante et son armement non négligeable le prédestinent à ce genre de missions, même si les Caldari lui adjoignent généralement une escorte.",
+    "ja": "バッジャー級ハウラーは、カルダリ連合の貨物輸送の主力で、特に長く厳しい交易に活躍する。こうした任務に十分耐えうる巨大な船体と適切なアーマーを有するが、カルダリがバッジャーを単独で航行させることはほとんどない。",
+    "ko": "뱃져는 칼다리 연합의 대표적인 화물 운반선으로 장거리 물자 운송에 특화되어 있습니다. 거대한 크기와 상당한 수준의 무장을 지니고 있으나, 홀로 움직이는 경우는 매우 드뭅니다.",
+    "ru": "Перевозчик класса «Бэджер» — основной грузовой корабль Государства Калдари, часто используемый на длинных и сложных маршрутах. Большая вместительность и хорошее боевое оснащение делают его идеальным кораблём для перевозки товаров, но он редко отправляется в путь без сопровождения.",
+    "zh": "獾级运载舰是加达里的主力货运舰，特别适用于路途遥远而艰辛的贸易路线。它巨大的船体和优秀的武装能力使它非常适合此类任务，不过加达里人很少驾驶它单独往来。"
+  },
+  "graphicID": 51,
+  "groupID": 226,
   "name": {
     "de": "Caldari Badger Hauler",
     "en": "Caldari Badger Hauler",
@@ -10,5 +21,9 @@
     "ru": "Caldari Badger Hauler",
     "zh": "加达里獾级运载舰"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 196.0,
+  "sofFactionName": "caldaribase"
 }

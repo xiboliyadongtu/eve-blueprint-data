@@ -1,5 +1,18 @@
 {
-  "typeID": 40537,
+  "basePrice": 500000000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Truppenunterstützern der Gallente.",
+    "en": "Skill at operating Gallente force auxiliaries.",
+    "es": "Habilidad en el manejo de naves auxiliares gallentes.",
+    "fr": "Compétence liée au pilotage forces auxiliaires gallente.",
+    "ja": "ガレンテ軍の増援部隊を操作するスキル。",
+    "ko": "갈란테 포스 악실리아를 운용하기 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на вспомогательных КБТ производства Галлентской Федерации.",
+    "zh": "操作盖伦特战力辅助舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Gallente Force Auxiliary",
     "en": "Gallente Force Auxiliary",
@@ -10,5 +23,8 @@
     "ru": "Галлентские вспомогательные КБТ",
     "zh": "盖伦特战力辅助舰操作"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
   "volume": 0.01
 }

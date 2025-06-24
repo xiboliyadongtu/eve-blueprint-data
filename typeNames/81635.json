@@ -1,5 +1,18 @@
 {
-  "typeID": 81635,
+  "capacity": 10.0,
+  "description": {
+    "de": "Ein ziviles Shuttle, das Flüchtlinge befördert, die vor der Kriegsfront oder vielleicht Pochven fliehen. Auf jeden Fall müssen sie hier erfasst und weiterverarbeitet werden, bevor sie weiterziehen können.",
+    "en": "A civilian shuttle carrying refugees fleeing the frontlines, or perhaps Pochven. Either way, they must be processed here before they can move on.",
+    "es": "Lanzadera civil que transporta refugiados que huyen del frente, o tal vez de Pochven. Sea como sea, se deben procesar sus datos en este lugar para que puedan seguir su camino.",
+    "fr": "Une navette civile transportant des réfugiés fuyant les lignes de front, ou peut-être Pochven. Dans tous les cas, ils doivent passer les contrôles ici avant de pouvoir poursuivre leur route.",
+    "ja": "前線やポクヴェンから逃げてきた難民を乗せている民間シャトル。どちらにせよ、先に進む前にここで手続きを行う必要がある。",
+    "ko": "국경 지대 또는 포치벤에서 온 셔틀로 다수의 피난민들이 탑승하고 있습니다. 물론 피난민이라고 해서 검문을 생략할 수는 없습니다.",
+    "ru": "Гражданский шаттл с беженцами из зоны боевых действий или, возможно, из Почвени. В любом случае им необходимо пройти здесь контроль, прежде чем они смогут продолжить путь.",
+    "zh": "这是一艘民用穿梭机，载着逃离前线或波赫文的难民。无论哪种情况，他们都需要在这里接受处理后才能继续前行。"
+  },
+  "graphicID": 317,
+  "groupID": 4737,
+  "mass": 1600000.0,
   "name": {
     "de": "Refugee Shuttle",
     "en": "Refugee Shuttle",
@@ -10,5 +23,11 @@
     "ru": "Refugee Shuttle",
     "zh": "难民穿梭机"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 50.0,
+  "sofFactionName": "caldaribase",
+  "soundID": 20080,
   "volume": 28600.0
 }

@@ -1,5 +1,20 @@
 {
-  "typeID": 58919,
+  "basePrice": 20000.0,
+  "description": {
+    "de": "Unterbricht bei Aktivierung vor dem Starten des Warpantriebs kurzzeitig den Effekt von Warpstörsonden und mobilen Warpstörern. Als Nebeneffekt werden maximale Zielerfassungsreichweite, Scanauflösung und Drohnen-Bandbreite des Schiffs verringert, in dem dieses Modul ausgerüstet ist. Dieses Modul verliert seine Funktion, wenn ein Burst-Störsender-Modul oder ein Higgs-Anker ausgerüstet sind.",
+    "en": "Temporarily nullifies the effects of warp disrupt probes and mobile warp disruptors when activated before entering warp. As a side effect, the host ship's max targeting range, scan resolution and drone bandwidth are penalized while this module is fitted.\r\n\r\nThis module ceases to function when a Burst Jammer module or Higgs Anchor rig are fit.",
+    "es": "Anula temporalmente los efectos de las sondas disruptoras de warp y los disruptores de warp móviles si se activa antes de warpear. Como efecto secundario, la nave que lo equipa sufre una penalización en su distancia-objetivo máxima, en su resolución de escaneo y en el ancho de banda para drones.\r\n\r\nEste módulo deja de funcionar cuando se equipa un módulo perturbador de ráfagas o un complemento de anclaje de Higgs.",
+    "fr": "Annule temporairement les effets des sondes de perturbation de warp et perturbateurs de warp mobiles si activé avant l'entrée en warp. Par effet secondaire, la portée de ciblage maximale du vaisseau hôte, sa résolution de balayage et sa bande passante de drone sont pénalisées tant que ce module est équipé. Ce module cesse de fonctionner lorsqu'un module de brouilleur à salves ou d'optimisation d'ancre de Higgs est équipé.",
+    "ja": "ワープ突入前に起動していた場合、ワープ妨害用プローブと移動型ワープ妨害器の効果を一時的に無効化する。副作用として、このモジュールを装備している艦船の最大ターゲット範囲、スキャン分解能、そしてドローン帯域幅が低下する。\r\n\r\nバーストジャマーモジュールかヒッグスアンカーリグを装備していた場合、このモジュールは機能しない。",
+    "ko": "워프 디스럽션 프로브 및 이동식 워프 디스럽터를 일시적으로 무력화합니다. 해당 모듈을 장착하면 함선의 최대 타겟팅 범위, 스캔 정밀도, 드론 대역폭이 감소합니다.\r\n\r\n해당 모듈은 버스트 재머 또는 힉스 앵커와 함께 장착하면 작동되지 않습니다.",
+    "ru": "При активации до перехода в варп-режим временно нивелирует воздействие мобильных варп-подавителей, а также зондов, генерирующих варп-помехи. Однако корабль, на котором установлен такой модуль, получает штрафы к максимальной дальности наведения, разрешающей способности сенсоров и ширине канала управления дронами. Этот модуль прекращает своё действие при оснащении корабля глушителем импульса или квантовым якорем Хиггса.",
+    "zh": "在进行跃迁之前启用可以暂时使跃迁干扰探针和机动跃迁扰断器失效。副作用就是，装配这一装备后，主舰的最大锁定范围、扫描分辨率和无人机带宽都会降低。此装备在装配了脉冲干扰器或希格斯粒子锚时失效。"
+  },
+  "groupID": 4117,
+  "iconID": 24730,
+  "marketGroupID": 2783,
+  "mass": 5000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Interdiction Nullifier I",
     "en": "Interdiction Nullifier I",
@@ -10,5 +25,7 @@
     "ru": "Interdiction Nullifier I",
     "zh": "拦截失效装置 I"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 5.0
 }

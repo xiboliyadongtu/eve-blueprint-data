@@ -1,5 +1,18 @@
 {
-  "typeID": 2263,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Dieser Container wurde von der Planetenoberfläche aus in den nahen Orbit geschossen, um dort von Raumschiffen eingesammelt zu werden. Container dieser Art zerfallen nach wenigen Tagen, wenn sie nicht eingesammelt werden.",
+    "en": "This container has been launched from the planet surface into low orbit for collection by starships.  These containers will burn up within a few days if not collected.",
+    "es": "Este contenedor se ha lanzado desde la superficie del planeta a una órbita baja para que lo recojan las naves estelares. Estos contenedores se quemarán en unos pocos días si no se recogen.",
+    "fr": "Ces conteneurs ont été lancés en orbite basse depuis la surface de la planète, afin d'être récupérés par les vaisseaux spatiaux.  Ils exploseront dans quelques jours s'ils n'ont pas été récupérés d'ici là.",
+    "ja": "惑星の表面から低い軌道に発射されたコンテナ。艦船で回収する。回収されなければ、数日以内に焼失する。",
+    "ko": "함선들이 수거해 가도록 행성에서 저궤도로 사출한 컨테이너입니다. 수거되지 않는다면 며칠 내로 자동 폐기됩니다.",
+    "ru": "Этот контейнер был запущен с поверхности планеты на низкую орбиту для погрузки на борт космического корабля. Контейнеры этого типа могут существовать в условиях космоса всего несколько дней."
+  },
+  "graphicID": 4578,
+  "groupID": 12,
+  "iconID": 24296,
+  "mass": 10000.0,
   "name": {
     "de": "Planetary Launch Container",
     "en": "Planetary Launch Container",
@@ -10,5 +23,9 @@
     "ru": "Planetary Launch Container",
     "zh": "行星运载货柜"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "debris",
   "volume": 27500.0
 }

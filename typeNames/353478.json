@@ -1,5 +1,17 @@
 {
-  "typeID": 353478,
+  "basePrice": 567000.0,
+  "description": {
+    "de": "Skill zur Benutzung von Maschinenpistolen.\n\n+3% auf die Schadenswirkung von Maschinenpistolen pro Skillstufe.",
+    "en": "Skill at handling submachine guns.\r\n\r\n+3% submachine gun damage against armor per level.",
+    "es": "Habilidad de manejo de subfusiles.\n\n+3% al daño de los subfusiles por nivel.",
+    "fr": "Compétence permettant de manipuler les pistolets-mitrailleurs.\n\n+3 % de dommages du pistolet-mitrailleur par niveau.",
+    "it": "Abilità nel maneggiare fucili mitragliatori.\n\n+3% ai danni inflitti dal fucile mitragliatore per livello.",
+    "ja": "サブマシンガンを扱うスキル。\n\nレベル上昇ごとに、サブマシンガンがアーマーに与えるダメージが3%増加する。",
+    "ko": "기관단총 운용을 위한 스킬입니다.<br><br>매 레벨마다 장갑에 가해지는 기관단총 피해량 3% 증가.",
+    "ru": "Навык обращения с пистолетами-пулеметами.\n\n+3% к урону, наносимому пистолетами-пулеметами, на каждый уровень.",
+    "zh": "使用冲锋枪的技能。每升一级，冲锋枪对装甲造成的伤害提高3%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Fertigkeit: Maschinenpistole",
     "en": "Submachine Gun Proficiency",
@@ -11,5 +23,7 @@
     "ru": "Эксперт по обращению с пистолетами-пулеметами",
     "zh": "冲锋枪熟练度"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 53836,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Dieses stationierbare Triglavia-Waffensystem arbeitet im Grunde nach dem gleichen Prinzip wie der Mikrosprungfeldgenerator, mit dem Kapselpiloten und andere Weltraumpiloten vertraut sind. Der Pohviz Spatial Displacer dient hauptsächlich der Störung gegnerischer Flotten, wobei offenbar intelligente Zielsysteme zum Einsatz kommen, und wird von Triglavia-Einheiten mit der Bezeichnung „Pohviznik“ eingesetzt.",
+    "en": "This Triglavian deployable weapon system operates on essentially the same principle as the Micro Jump Field Generators familiar to capsuleers and other space pilots. The Pohviz Spatial Displacer is principally used to disrupt enemy fleets, apparently using intelligent targeting systems, and is deployed by special Triglavian units using the designation \"Pohviznik\".",
+    "es": "Este sistema de armas desplegable triglaviano opera básicamente con el mismo principio que los generadores de campo de microsalto conocidos por los capsulistas y demás pilotos espaciales. Al parecer, el desplazador espacial Pohviz sirve para perturbar a las flotas enemigas mediante sistemas de adquisición de objetivos inteligentes y es desplegado por unidades triglavianas especiales, denominadas «Pohviznik».",
+    "fr": "Ce système d'armement déployable triglavian fonctionne fondamentalement sur le même principe que les générateurs de champ de microsaut bien connus des capsuliers et autres pilotes spatiaux. Le supplanteur spatial Pohviz est principalement utilisé pour perturber les flottes ennemies, employant apparemment des systèmes de ciblage intelligents, et est déployé par des unités triglavian spéciales utilisant la désignation « Pohviznik ».",
+    "ja": "この配置型トリグラビアンウェポンシステムは、カプセラやその他宇宙パイロットにはお馴染みの超小型ジャンプフィールドジェネレーターと本質的に同じ原理で動作する。ポーヴィズ空間ディスプレイサーは主に敵艦隊を混乱させることが目的だ。インテリジェントターゲティングシステムを使用しているようで、「ポーヴィズニク」という名のトリグラビアン特別部隊によって配備されている。",
+    "ko": "트리글라비안 전개형 무기로 캡슐리어가 사용하는 마이크로 점프 필드 생성기와 유사한 특징을 지니고 있습니다. 포비즈 공간 디스플레이서는 인공지능 추적 시스템을 통해 적 함대를 교란하는 무기로 \"포비즈니크\"라는 특수 기종에 의해 전개됩니다.",
+    "ru": "Это триглавское орудие использует те же принципы, что лежат в основе генераторов разгонного поля, хорошо знакомых всем капсулёрам и другим пилотам. Главная цель «Пространственного исказителя \"Повиз\"» — разбивать построения флотов противника. Судя по всему, они используют интеллектуальную систему наведения, а для их развёртывания применяются особые корабли из подразделения «Повизник».",
+    "zh": "这种三神裔可部署武器系统与微型跳跃力场发生器的作用机制类似。波维兹空间置换器使用了智能锁定系统来干扰敌方舰队，由名字中带有“波维兹尼克”字样的特殊三神裔单位来部署。"
+  },
+  "graphicID": 24557,
+  "groupID": 4073,
+  "mass": 1000.0,
   "name": {
     "de": "Pohviz Spatial Displacer",
     "en": "Pohviz Spatial Displacer",
@@ -10,5 +23,9 @@
     "ru": "Pohviz Spatial Displacer",
     "zh": "波维兹空间置换器"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 371.0,
+  "sofFactionName": "triglavianbase",
   "volume": 1000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 30905,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dies ist eine Verbindungsstruktur der Sleeper",
+    "en": "This is a Sleeper linkage structure",
+    "es": "Estructura de enlace sleeper.",
+    "fr": "Ceci est une structure de liaison sleeper.",
+    "ja": "スリーパーのリンケージ建造物",
+    "ko": "슬리퍼 연결 구획입니다.",
+    "ru": "Эта конструкция соединяет между собой несколько сооружений Sleeper.",
+    "zh": "这是一座冬眠者联动结构。"
+  },
+  "graphicID": 3534,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Sleeper linkage structure",
     "en": "Sleeper linkage structure",
@@ -10,5 +23,9 @@
     "ru": "Sleeper linkage structure",
     "zh": "冬眠者联动结构"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 508.0,
+  "sofFactionName": "talocanbase",
   "volume": 100000000.0
 }

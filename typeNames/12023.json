@@ -1,5 +1,75 @@
 {
-  "typeID": 12023,
+  "basePrice": 158900000.0,
+  "capacity": 415.0,
+  "description": {
+    "de": "Das Deimos ist von seinen taktischen Elementen her kleineren Schiffen ähnlicher als seinen Gegenstücken derselben Klasse. Es ist das Nonplusultra für den Kreuzernahkampf. Wer sich zu dicht an dieses Schiff heranwagt, dem ist ein schneller Tod gewiss. Es gibt Gerüchte, dass Duvolle von einer ungenannten Fraktion unter Vertrag genommen wurde, um den ultimativen Kurzstrecken-Blasterkreuzer zu entwickeln. Und in diesem Punkt haben ihre Ingenieure und Designer nicht versagt. Allerdings ist der Name der Auftraggeber noch immer unbekannt.",
+    "en": "Sharing more tactical elements with smaller vessels than with its size-class counterparts, the Deimos represents the final word in up-close-and-personal cruiser combat. Venture too close to this one, and swift death is your only guarantee. \r\n\r\nRumor has it Duvolle was contracted by parties unknown to create the ultimate close-range blaster cruiser. In this their engineers and designers haven't failed; but the identity of the company's client remains to be discovered.",
+    "es": "La Deimos, que comparte más elementos tácticos con naves más pequeñas que con sus homólogas de mayor tamaño, representa el último grito en el sector de los combates de cruceros en distancias cortas. Si te acercas demasiado a él, tu única garantía es una muerte rápida. \r\n\r\nSe rumorea que unos desconocidos contrataron a Duvolle para crear el gran crucero con blásteres de corto alcance. Los ingenieros y diseñadores que lo idearon no han defraudado las expectativas, pero la identidad del cliente de la empresa sigue siendo un misterio.",
+    "fr": "Plus proche des vaisseaux de plus petite taille au niveau de ses éléments tactiques que des vaisseaux de son gabarit, le Deimos représente ce qui se fait de mieux en combat rapproché. S'approcher trop près de ce vaisseau est la garantie d'une mort rapide. La rumeur raconte que ce sont des tierces parties inconnues qui ont contacté les laboratoires Duvolle pour créer le modèle ultime de croiseur blaster de combat rapproché. Leurs ingénieurs se sont bien entendu acquittés de cette tâche, mais l'identité de ce client reste un mystère.",
+    "ja": "戦術については同クラス艦よりはむしろ小型艦に通じるものが多いデイモスは、接近戦型巡洋艦の決定版といえる。うかつに近寄ろうものなら、待っているのは速やかな死のみだ。 \r\n\r\n噂によれば、デュボーレは正体不明の集団から、究極の近接戦型ブラスター巡洋艦の開発を請け負ったという。開発者や技術者は期待を裏切らない仕事をしたが、その依頼人の正体はいまだ不明であるらしい。",
+    "ko": "동급의 크루저에 비해 다소 차별된 전술적 임무를 지니고 있는 데이모스는 근거리 교전에 특화된 기체입니다. 함부로 다가온 적에게 신속하게 죽음을 선사합니다.\r\n\r\n듀볼레 연구소는 익명의 단체로부터 단거리 크루저를 설계해달라는 의뢰를 받았습니다. 요청에 따라 데이모스는 성공적으로 제작되었지만 의뢰인은 정체는 여전히 베일에 가려져 있습니다.",
+    "ru": "Во время сражения Deimos — современный крейсер ближнего боя — выполняет роль, которая обычно отводится небольшим судам, а не кораблям его размера и класса. Если вы не ищете лёгкой и быстрой смерти, лучше держитесь подальше от этого корабля. Ходят слухи, что неизвестные люди попросили инженеров лаборатории сконструировать несокрушимый крейсер, оснащённый бластерами для атак с близкого расстояния. Результат их работы превзошёл все ожидания. Правда, мы так и не знаем, кем были те таинственные заказчики.",
+    "zh": "戴默斯级所使用的战术更接近较小的舰船，而不是同级别的类似舰船，它代表了巡洋舰近身缠斗的终极力量。谁要是胆敢过于接近这家伙，只能等着被秒杀。据传，度沃勒实验室在与不明组织签约之后才建造出这种使用疾速炮的终极近战巡洋舰。他们的工程师和设计师的确不辱使命；但那位客户的身份一直是个谜。"
+  },
+  "factionID": 500004,
+  "graphicID": 11859,
+  "groupID": 358,
+  "marketGroupID": 451,
+  "mass": 11460000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      68,
+      165,
+      140,
+      150,
+      89,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      68,
+      165,
+      140,
+      150,
+      89,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      68,
+      165,
+      140,
+      150,
+      89,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      68,
+      165,
+      140,
+      150,
+      89,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      68,
+      165,
+      140,
+      117,
+      150,
+      89,
+      94
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Deimos",
     "en": "Deimos",
@@ -10,5 +80,111 @@
     "ru": "Deimos",
     "zh": "戴默斯级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 149.0,
+  "sofFactionName": "duvolle",
+  "soundID": 20074,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Kann <a href=showinfo:47254>Angriffsschadensregulierer</a> ausrüsten",
+          "en": "Can fit <a href=showinfo:47254>Assault Damage Controls</a>",
+          "es": "Es posible equipar <a href=showinfo:47254>controles de daños por asalto</a>.",
+          "fr": "Peut être équipé des <a href=showinfo:47254>contrôles des dégâts d'assaut</a>",
+          "ja": "<a href=showinfo:47254>アサルトダメージ制御</a>を装備可能",
+          "ko": "<a href=showinfo:47254>어썰트 데미지 컨트롤</a> 장착가능",
+          "ru": "Позволяет установить <a href=showinfo:47254>ударные модули боевой живучести</a>",
+          "zh": "可以装配<a href=showinfo:47254>突击损伤控制</a>装备"
+        },
+        "importance": 2
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Reduktion des <a href=showinfo:3454>Mikrowarpantrieb</a>-Signaturradius",
+          "en": "reduction in <a href=showinfo:3454>Microwarpdrive</a> signature radius penalty",
+          "es": "de reducción de la penalización de radio de la señal del <a href=showinfo:3454>motor de microwarp</a>.",
+          "fr": "de réduction à la pénalité de rayon de signature des <a href=showinfo:3454>propulseurs de microwarp</a>",
+          "ja": "<a href=showinfo:3454>マイクロワープドライブ</a>のシグネチャ半径ペナルティが軽減",
+          "ko": "<a href=showinfo:3454>마이크로 워프 드라이브</a> 시그니처 반경 페널티 감소",
+          "ru": "уменьшается влияние <a href=showinfo:3454>микроварп-ускорителей</a> на размер сигнатуры корабля",
+          "zh": "<a href=\"showinfo:3454\">微型跃迁推进器</a>的信号半径惩罚加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3332": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3304>mittelgroßen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3304>Medium Hybrid Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3304>torreta híbrida mediana</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:3304>tourelles hybrides intermédiaires</a>",
+            "ja": "<a href=showinfo:3304>中型ハイブリッドタレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3304>중형 하이브리드 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон боеприпасов <a href=showinfo:3304>средних гибридных орудий</a>",
+            "zh": "<a href=\"showinfo:3304\">中型混合炮台</a>伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Leistung von <a href=showinfo:3393>Panzerungsreparatursystemen</a>",
+            "en": "bonus to <a href=showinfo:3393>Armor Repairer</a> amount",
+            "es": "de bonificación a la eficiencia de los <a href=showinfo:3393>reparadores de blindaje</a>.",
+            "fr": "de bonus au montant des <a href=showinfo:3393>réparateurs de blindage</a>",
+            "ja": "<a href=showinfo:3393>アーマーリペアラ</a>のリペア量が増加",
+            "ko": "<a href=showinfo:3393>장갑수리 장치</a> 수리량 증가",
+            "ru": "повышается производительность <a href=showinfo:3393>установок ремонта брони</a>",
+            "zh": "<a href=\"showinfo:3393\">装甲维修器</a>维修量加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ],
+      "16591": [
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3304>mittelgroßen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3304>Medium Hybrid Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3304>torreta híbrida mediana</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:3304>tourelles hybrides intermédiaires</a>",
+            "ja": "<a href=showinfo:3304>中型ハイブリッドタレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3304>중형 하이브리드 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон боеприпасов <a href=showinfo:3304>средних гибридных орудий</a>",
+            "zh": "<a href=\"showinfo:3304\">中型混合炮台</a>伤害加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf den Präzisionsabfall von <a href=showinfo:3304>mittelgroßen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3304>Medium Hybrid Turret</a> falloff",
+            "es": "de bonificación al alcance efectivo de la <a href=showinfo:3304>torreta híbrida mediana</a>.",
+            "fr": "de bonus de distance de perte des <a href=showinfo:3304>tourelles hybrides intermédiaires</a>",
+            "ja": "<a href=showinfo:3304>中型ハイブリッドタレット</a>の精度低下範囲が拡大",
+            "ko": "<a href=showinfo:3304>중형 하이브리드 터렛</a> 유효사거리 증가",
+            "ru": "увеличивается добавочная дальность ведения огня из <a href=showinfo:3304>средних гибридных орудий</a>",
+            "zh": "<a href=\"showinfo:3304\">中型混合炮台</a>失准范围加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 627,
   "volume": 112000.0
 }

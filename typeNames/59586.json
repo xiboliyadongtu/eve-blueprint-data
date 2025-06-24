@@ -1,5 +1,18 @@
 {
-  "typeID": 59586,
+  "capacity": 150.0,
+  "description": {
+    "de": "Diese Fregatte der <i>Pacifier</i>-Klasse wird als schnelle Antwort der Sicherheitskräfte verwendet, welche den SCC-Sicherheitsschlüsselspeicher bewachen. Es wäre unklug, die Aufmerksamkeit dieser schnellen Schlachtfregatte auf sich zu ziehen.",
+    "en": "This <i>Pacifier</i>-class frigate is used as a rapid responder by the security forces guarding the SCC Secure Key Storage. It would be unwise to draw the attention of this fast combat frigate.",
+    "es": "Esta fragata de clase <i>Pacifier</i> la utilizan como respuesta rápida las fuerzas de seguridad que protegen las instalaciones de almacenamiento seguro de claves de la CCS. Más vale no llamar la atención de esta fragata de combate rápido.",
+    "fr": "Cette frégate de classe <i>Pacifier</i> sert de vaisseau d'intervention rapide aux forces gardant les sites de stockage de clés sécurisées de la CCS. Il ne serait pas sage d'attirer l'attention de cette frégate de combat rapide.",
+    "ja": "この<i>パシファイヤー</i>級フリゲートは、SCCセキュアキー保管庫を守っている警備部隊に緊急対応艦として使用されている。この高い機動性を持った戦闘用フリゲートの注意を引くのは賢明とは言えないだろう。",
+    "ko": "<i>퍼시파이어</i>급 프리깃으로 SCC 보안키를 지키기 위해 배치되었습니다. 접근 시 각별한 주의가 요구됩니다.",
+    "ru": "Этот фрегат класса <i>«Пасифаер»</i> — судно быстрого реагирования службы безопасности КпБТ, оберегающей защищённое хранилище ключа. От этого стремительного боевого фрегата лучше держаться подальше.",
+    "zh": "这艘<i>安抚者级</i>护卫舰是守卫着商业安全委员会安全密钥储藏设施的一艘快速反应战舰。引起这艘快速而迅猛的护卫舰的注意可是件危险的事。"
+  },
+  "graphicID": 21490,
+  "groupID": 1803,
+  "mass": 1400000.0,
   "name": {
     "de": "SCC Security Responder",
     "en": "SCC Security Responder",
@@ -10,5 +23,10 @@
     "ru": "SCC Security Responder",
     "zh": "商业安全委员会反击者"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 38.0,
+  "sofFactionName": "concordcivilian",
+  "soundID": 20070,
   "volume": 20000.0
 }

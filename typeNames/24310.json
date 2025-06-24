@@ -1,5 +1,16 @@
 {
-  "typeID": 24310,
+  "description": {
+    "de": "Diese Zitadelle der Amarr befindet sich über dem Beschleunigungstor in den Palastbezirk. Wer ohne Zutrittsberechtigung in den Palastbezirk vordringen will, muss zunächst die Besatzung dieser majestätischen Anlage und ihre Verteidigungsanlagen überwinden. Die Zitadelle ist die primäre Verbindung des Palastes zur Außenwelt. Deswegen dient sie oft als Veranstaltungsort für Zusammentreffen des Stabs der kaiserlichen Familie mit Bürgern, die ihrem Herrscher vortragen möchten.\r\n\r\nOhne spezielle Erlaubnis kann man an dieser Station nicht andocken.",
+    "en": "This Amarrian Citadel looms over the acceleration gate leading to the Palace grounds.  Anyone attempting to enter the palace without authorization would have to overcome the inhabitants of this majestic structure as well as its defenses.  The Citadel is the primary link that the outside world has to the Imperial Palace, often serving as the meeting ground between Emperor Family staff and outsiders intent on getting the Emperor's attention.\r\n\r\nDocking has been prohibited into this station without proper authorization.",
+    "es": "Esta ciudadela amarriana se alza sobre el portal de aceleración que conduce a los terrenos de palacio. Cualquiera que intente entrar en palacio sin autorización deberá enfrentarse a los habitantes de esta majestuosa estructura y a sus defensas. La ciudadela es la principal conexión que el mundo exterior tiene con palacio y a menudo sirve como espacio de reunión entre el personal de la familia imperial y los forasteros que tratan de atraer la atención del emperador.\n\nEstá prohibido acoplarse a esta estación sin la correspondiente autorización.",
+    "fr": "Cette citadelle amarr se dresse au-dessus du portail d'accélération menant aux terres du palais.  Toute personne essayant de pénétrer dans le palais sans autorisation devra venir à bout des défenses de cette structure impressionnante, ainsi que de ses habitants.  La citadelle est le lien principal entre le monde extérieur et le palais impérial. Elle sert souvent de lieu de rassemblement du personnel de l'Emperor Family et des étrangers en vue d'attirer l'attention de l'Empereur.\n\nUne autorisation est requise pour s'amarrer dans cette station.",
+    "ja": "宮殿の敷地に通じるアクセラレーションゲートを眺めることのできるアマーのシタデル。承認がない者が宮殿にたどり着くためには、この壮麗な城砦の防人と防衛システムを突破しなければならない。シタデルは外界と帝国宮殿とを結ぶ窓口で、皇帝家のメンバーが、皇帝に取り入ろうとする来訪者と会合する場所。このステーションへの入港は、適切な承認がなければ認められない。",
+    "ko": "아마르 시타델은 황궁으로 이어지는 액셀레이션 게이트 근처에 떠다니고 있습니다. 허가 없이 황궁으로 이동하고자 하는 자들은 시타델의 거대한 규모와 더불어 강력한 수비군을 뚫고 지나가야만 합니다. 시타델은 바깥 세계와 황궁을 잇는 연결고리 역할을 하며 외부 인사와 황실 가문을 위한 접선 장소로도 사용됩니다. <br><br>허가되지 않은 함선은 정거장에 도킹할 수 없습니다.",
+    "ru": "Эта цитадель Amarr стоит над вратами ускорения, ведущими к дворцу. Любому, кто попытается войти во дворец без разрешения, придется победить обитателей этой цитадели и разрушить ее оборонительные системы. Цитадель — это основная связь имперского дворца с внешним миром, она часто служит местом встречи между двором императорской семьи и посторонними, желающими привлечь внимание императора.\n\nСтыковка с этой станцией без надлежащих полномочий запрещена.",
+    "zh": "这座艾玛要塞巍然盘旋在通往宫殿的加速轨道上方。试图硬闯宫殿的来犯者将不得不面对这个庄严建筑里的精英驻军以及其防御设施的挑战。这座要塞是外界和皇宫的主要连接纽带，经常是皇室工作人员和执意想引起皇帝关注的外来者之间的会面场所。如果没有获得正式授权，不准在此空间站停靠。"
+  },
+  "graphicID": 1249,
+  "groupID": 319,
   "name": {
     "de": "Amarr Citadel",
     "en": "Amarr Citadel",
@@ -10,5 +21,9 @@
     "ru": "Amarr Citadel",
     "zh": "艾玛母站"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 10252.0,
+  "sofFactionName": "amarrbase"
 }

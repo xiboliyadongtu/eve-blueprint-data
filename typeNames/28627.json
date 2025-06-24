@@ -1,5 +1,18 @@
 {
-  "typeID": 28627,
+  "basePrice": 2000.0,
+  "description": {
+    "de": "Interstellares Eis bildet sich durch die Ablagerung von Gasmolekülen auf Partikeln aus Silikatstaub. Azure Ice bildet sich unter denselben Umständen wie \"Blue Ice\", aber wegen seiner leicht unterschiedlichen chemischen Zusammensetzung enthält es weitaus höhere Dichte an Sauerstoff-Isotopen als sein blauer Verwandter, was es zu einem \"niederen\" Material macht.",
+    "en": "Interstellar ices are formed by the accretion of gas molecules onto silicate dust particles. Azure ice forms under the same circumstances as \"blue ice,\" but due to its slightly different chemical composition, it contains substantially fewer oxygen isotopes by volume than its blue cousin, rendering it a \"lesser\" material.",
+    "es": "Los hielos interestelares se forman por la acumulación de moléculas de gases en partículas de polvo de silicato. El hielo azur se forma en condiciones similares al hielo azul, pero su estructura química es ligeramente diferente y contiene bastantes menos isótopos de oxígeno por volumen que este último, lo que lo convierte en un material «inferior».",
+    "fr": "Les glaces interstellaires se forment par accumulation de molécules de gaz sur des particules de poussière de silice. La glace azurée se forme dans les mêmes conditions que la glace bleue, mais sa composition chimique est légèrement différente : sa concentration en isotopes d'oxygène est plus faible, ce qui la rend beaucoup moins précieuse.",
+    "ja": "星間浮遊氷は、ガス状分子がケイ酸塩の粉塵に付着することによって形成される。アズールアイスはブルーアイスと同じ環境で形成されるが、化学組成がわずかに異なり、ブルーアイスよりも酸素同位体の含有量が大幅に少ないため、「劣った」資源となっている。",
+    "ko": "성간 아이스는 규산염 입자와 가스 분자의 혼합을 통해 생성됩니다. 기본적으로 \"블루 아이스\"와 동일한 환경에서 생성되나 화학적 구성이 다릅니다. 상대적으로 적은 산소 동위원소 탓에 \"하위\" 재료로 취급됩니다.",
+    "ru": "Межзвездный лед образуется в результате сращения молекул газа и частиц силикатной пыли. Лазурный лед образуется в таких же условиях, как и «голубой лед», но из-за иного химического состава содержит значительно меньше изотопов кислорода, что снижает его ценность.",
+    "zh": "星际里的冰通常都是由气体分子不断附着于硅酸盐尘粒而形成。天蓝冰和“蓝冰”是在同样的条件下形成的，但由于前者的化学成分稍有不同，所以它所含的氧同位素比“蓝冰”少很多，因而是一种“不太重要”的物质。"
+  },
+  "groupID": 465,
+  "iconID": 2554,
+  "mass": 1000.0,
   "name": {
     "de": "Azure Ice",
     "en": "Azure Ice",
@@ -10,5 +23,7 @@
     "ru": "Azure Ice",
     "zh": "天蓝冰"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1000.0
 }

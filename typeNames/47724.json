@@ -1,5 +1,19 @@
 {
-  "typeID": 47724,
+  "capacity": 120.0,
+  "description": {
+    "de": "Die Analyse dieses Schlachtschiffs durch CONCORD wurde durch seinen hoch entwickelten Rumpf und ebensolche Schilde verhindert. Das Antriebssystem ist unbekannt, aber erste Theorien legen nahe, dass das Schiff während der Fortbewegung in irgendeiner Form direkt mit dem Raum-Zeit-Gewebe interagiert. Die Standardwaffensysteme dieses Schiffs scheinen halbautomatisch und effektiv gegen eine breite Palette von Zielen zu sein. Einsatzbesprechungen von DED-Kontakten weisen darauf hin, dass die frei schwebenden Geschütztürme eine Sekundärwaffe darstellen. Eine extrem gefährliche Primärwaffe befindet sich in Reserve und wird gegen diejenigen eingesetzt, die der Kommandant dieses Schiffs als besondere Bedrohung einstuft. Bedrohungsstufe: Kritisch",
+    "en": "CONCORD's analysis of this battleship has been hampered by its advanced hull and shielding. The propulsion system is unfamiliar but tentative theories have suggested that the vessel somehow directly interacts with the fabric of space-time while moving. The standard weapon systems of this ship appear to be semi-autonomous and effective against a range of targets.\r\n\r\nDED contact briefings suggest the free floating turrets are a secondary weapon, with an extremely dangerous primary weapon held in reserve against those this ship's commander considers a significant threat.\r\n\r\nThreat level: Critical",
+    "es": "El análisis de CONCORD de este acorazado se ha visto dificultado por el casco y el escudo tan avanzados. El sistema de propulsión es desconocido; pero las teorías provisionales sugieren que la nave interactúa directamente con el tejido del espacio-tiempo mientras avanza. Los sistemas de armamento estándar parecen semiautónomos y efectivos contra un amplio abanico de objetivos.\n\nLos informes de contacto del DED sugieren que las torretas flotantes son un arma secundaria y que hay un arma principal extremadamente peligrosa, reservada para quienes el comandante de la nave considere una amenaza real.\n\nNivel de amenaza: crítico.",
+    "fr": "La coque et le bouclier avancés de ce cuirassé ont brouillé l'analyse de CONCORD. Le système de propulsion est inconnu, mais des théories ont suggéré que le vaisseau pourrait interagir directement avec la trame de l'espace-temps lorsqu'il est en déplacement. Les systèmes d'armement standards de ce vaisseau semblent être semi-automatiques et efficaces contre plusieurs cibles. Les briefings du DED laissent suggérer que les tourelles en dérive libre sont des armes secondaires, avec une arme primaire extrêmement dangereuse en réserve pour combattre ceux que le commandant du vaisseau considère comme une terrible menace. Niveau de menace : critique.",
+    "ja": "CONCORDによるこの戦艦の分析は同艦の先進型船体とシールドによって阻まれた。推進力システムは未知のもので、移動中にこの船は時空構造と直接干渉するのではないかと仮説が立てられた。この艦船の標準型兵器システムは半自動操作されており広範囲の敵に対して効果があるようだ。\r\n\nDEDの説明によると、独立して動く浮遊タレットは補助兵器で、指揮官が重大な脅威と判断した対象に向けて使用する、極めて攻撃力の高い主兵装が温存されているらしい。\r\n\n危険度：クリティカル",
+    "ko": "최첨단 실드 및 선체 시스템으로 인해 CONCORD가 대상 배틀쉽을 분석할 수 없습니다. 처음 보는 형태의 추진 시스템이 탑재되어 있으나 아마도 이 함선은 시공간 구조와 상호작용을 하며 이동하는 것으로 추정됩니다. <br><br>기본 무기 시스템으로는 장거리 포격에 특화된 반자동 무기 시스템이 탑재된 것으로 보입니다. <br><br>DED 보고서에 따르면 부유 중인 터렛은 보조 무기이며, 주무기는 지휘관 명령에 따라 위협으로 지정된 적을 섬멸하는데 사용됩니다. <br><br>위험도: 치명적 위험",
+    "ru": "Изучая конструкцию этого линкора, инженеры КОНКОРДа зашли в тупик. Камнем преткновения оказалась необычайно надёжная система защиты корабля, а именно его корпус и щиты. Устройство двигателя также породило больше вопросов, чем ответов, и некоторые теоретики предположили, что судно каким-то образом способно напрямую взаимодействовать с полотном пространства и времени. Стандартное орудие корабля представляет собой полуавтономную систему, эффективную против самых разных целей. Сотрудники СМЕР предполагают, что парящие турели — это лишь дополнительное вооружение, в то время как основное орудие — необычайной мощности — хранится в резерве и используется только против самых серьёзных врагов. Уровень угрозы: наивысший",
+    "zh": "这艘战列舰的船体和护盾系统非常先进，统合部对它的分析遇到了不小的麻烦。它的推进系统前所未见，有人猜想这艘船是直接与时空结构进行交互而实现星际穿梭的。它的标准武器系统似乎具有一定的自主性，面对各种目标都能发挥不俗的威力。\n\n\n\nDED线人报告说那些暴露在外的炮台不过是辅助武器，真正危险的主武器系统只有在舰长认为受到了巨大威胁的时候才会出马。\n\n\n\n威胁等级：致命"
+  },
+  "factionID": 500024,
+  "graphicID": 21049,
+  "groupID": 1667,
+  "mass": 10900000.0,
   "name": {
     "de": "Drifter Strike Commander",
     "en": "Drifter Strike Commander",
@@ -10,5 +24,11 @@
     "ru": "Ударный командир Скитальцев",
     "zh": "流浪者攻击指挥官"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 64,
+  "radius": 350.0,
+  "sofFactionName": "drifter",
+  "soundID": 20207,
   "volume": 109000.0
 }

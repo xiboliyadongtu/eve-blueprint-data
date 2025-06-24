@@ -1,5 +1,21 @@
 {
-  "typeID": 17407,
+  "basePrice": 2000000.0,
+  "capacity": 4.0,
+  "description": {
+    "de": "Feuert einen Puls-Energiestrahl mit großen Frequenzkristallen auf diejenigen, die der Kontrollturm als feindlich erachtet. Wirkungsvoll auf ziemlich große Entfernung. Besitzt eine hohe Nachführgeschwindigkeit und hat eine bessere Feuergeschwindigkeit als sein Dauerstrahllaser-Äquivalent. Hinweis: Ein Wechsel des Frequenzkristalls führt zur Zerstörung des bisher verwendeten.",
+    "en": "Fires a pulsed energy beam using large sized frequency crystals at those the Control Tower deems its enemies. Effective at fairly long ranges, tracks fast and has a higher rate of fire than its beam laser counterpart. Note: Placing a new type of crystal into the crystal compartment will result in the destruction of the crystal being replaced.",
+    "es": "Dispara un rayo de energía pulsada con cristales de frecuencia grandes a cualquier objetivo que la torre de control considere una amenaza. Funciona bastante bien a larga distancia, tiene una buena velocidad de rastreo y la cadencia de tiro supera a la de su láser de rayos homólogo. Aviso: Si colocas otro tipo de cristal en el compartimento para cristales, se destruirá el anterior.",
+    "fr": "Tire un rayon d'énergie à impulsions en utilisant des cristaux de fréquence de grande taille sur tous ceux que la tour de contrôle juge hostiles. Arme efficace à longue portée, suivi rapide et cadence de tir supérieure à celle de son équivalent à rayon laser. Remarque : placer un nouveau type de cristal dans le compartiment de cristal entraîne la destruction du cristal remplacé.",
+    "ja": "コントロールタワーが敵と認識した物体に対して、大型フリーケンシークリスタルを使ったパルスエネルギービームを発射する。有効射程はかなり長く、標的追従も速く、ビームレーザーに比べて連射速度に優れている。注：装填中のクリスタルと種類が異なるクリスタルを装填すると、現在装填中のクリスタルは破壊される。",
+    "ko": "관제타워가 지정한 적을 향해 대형 프리퀀시 크리스탈로 변조된 펄스 빔을 발사하는 포탑입니다. 비교적 빠른 트래킹 속도와 긴 사거리를 지니고 있으며 유사한 계열의 빔 레이저보다 빠른 연사속도를 자랑합니다. 참고: 새로운 프리퀸시 크리스탈 장착 시 기존에 장착되어 있던 크리스탈은 파괴됩니다.",
+    "ru": "Испускает импульсый энергетический луч, частота которого стабилизируется кварцевыми кристаллами, по объектам, распознаваемым как неприятель. Эффективна на достаточно больших дистанциях и обладает более высокой скорострельностью, чем батарея непрерывных лазеров. Примечание: если поместить в отделение для кристаллов кристалл другого типа, заменяемый кристалл уничтожается.",
+    "zh": "向控制塔指定的敌人发射由大型频率晶体产生的脉冲能量光束。有效距离相当大，跟踪速度快，发射速度比集束激光器快。注意：在晶体弹仓中填入不同种类的晶体会导致被替换的晶体损毁。"
+  },
+  "graphicID": 1006,
+  "groupID": 430,
+  "marketGroupID": 596,
+  "mass": 100000000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Medium Pulse Laser Battery",
     "en": "Medium Pulse Laser Battery",
@@ -10,5 +26,10 @@
     "ru": "Medium Pulse Laser Battery",
     "zh": "中型脉冲激光炮台"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 400.0,
+  "sofFactionName": "amarrbase",
   "volume": 1000.0
 }

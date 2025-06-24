@@ -1,5 +1,17 @@
 {
-  "typeID": 365893,
+  "basePrice": 774000.0,
+  "description": {
+    "de": "Grundlegende Kenntnisse über Modulressourcenhandhabung.\n\n3% Abzug auf den PG/CPU-Verbrauch von Fahrzeugschadensverstärkern pro Skillstufe.",
+    "en": "Basic understanding of module resource management.\r\n\r\n3% reduction to PG/CPU usage of vehicle damage amplifier modules per level.",
+    "es": "Conocimiento básico de gestión de recursos de módulos.\n\n-3% al coste de RA/CPU de los módulos amplificadores de daño de vehículos por nivel.",
+    "fr": "Notions de base en gestion des ressources des modules.\n\n+3 % de réduction de l'utilisation de PG/CPU des modules amplificateurs de dommages de véhicule par niveau.",
+    "it": "Comprensione base della gestione del modulo risorse.\n\n-3% all'uso di PG/CPU dei moduli amplificatore danno del veicolo per livello.",
+    "ja": "リソースモジュールを管理する基本的な知識。\n\nレベル上昇ごとに、車両ダメージ増幅器モジュールのPG/CPU消費量が3%節減する。",
+    "ko": "모듈 리소스 관리에 대한 기본적인 이해를 습득합니다. <br><br>매 레벨마다 차량용 데미지 증폭 모듈의 PG/CPU 요구치 3% 감소",
+    "ru": "Базовое знание управления ресурсами модулей.\n\n3% снижение потребления ресурсов ЦПУ устанавливаемыми на транспортных средствах модулями увеличения наносимого урона за каждый уровень.",
+    "zh": "管理装备资源基本知识。每升一级，载具伤害增效装备的PG/CPU使用率降低3%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Ausrüstungsoptimierung: Schadensverstärker",
     "en": "Damage Amplifier Fitting Optimization",
@@ -11,5 +23,7 @@
     "ru": "Оптимизация оснащения усилителя урона",
     "zh": "伤害增效器装配优化"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

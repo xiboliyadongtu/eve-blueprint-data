@@ -1,5 +1,18 @@
 {
-  "typeID": 3311,
+  "basePrice": 100000.0,
+  "description": {
+    "de": "Skill, mit Turmwaffen auf große Entfernung zu schießen. 5 % Bonus auf die optimale Reichweite von Waffen je Skillstufe.",
+    "en": "Skill at long-range weapon turret firing. 5% bonus to weapon optimal range per skill level.",
+    "es": "Habilidad al disparar con torretas de armas de larga distancia. 5 % de bonificación al alcance óptimo de armas por nivel de habilidad.",
+    "fr": "Compétence liée à l'utilisation des tourelles à longue portée. Augmente de 5 % par niveau de compétence la portée optimale de l'arme.",
+    "ja": "ターレット兵器の長距離射撃スキル。スキルレベル上昇ごとに兵器の最適射程距離に5%のボーナス。",
+    "ko": "장거리 교전용 터렛을 운용하기 위한 스킬입니다. 매 레벨마다 무기 최적사거리 5% 증가",
+    "ru": "Навык ведения огня из турелей дальнего действия. +5% к оптимальной дальности орудий за каждый уровень навыка.",
+    "zh": "增强炮台远程攻击能力的技能，每升一级，武器的最佳射程增加5%。"
+  },
+  "groupID": 255,
+  "iconID": 33,
+  "marketGroupID": 364,
   "name": {
     "de": "Sharpshooter",
     "en": "Sharpshooter",
@@ -10,5 +23,7 @@
     "ru": "Повышение дальнобойности орудий",
     "zh": "精确射击理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

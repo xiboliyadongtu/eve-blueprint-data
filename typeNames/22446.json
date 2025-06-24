@@ -1,5 +1,87 @@
 {
-  "typeID": 22446,
+  "basePrice": 283000000.0,
+  "capacity": 400.0,
+  "description": {
+    "de": "Kommandoschiffe werden dazu entworfen, auf einem Schlachtfeld mit vielen Kämpfern verheerenden Schaden anzurichten. Mit dem Einsatz fortschrittlicher Kommandomodule können diese Schiffe mehr, als nur den Ausgang in einem Massengefecht wenden. Kommandoschiffe sind das Modernste auf dem Gebiet der Kommandostrahlen; die Unterstützung, die sie den Verbandsschiffen geben, macht sie unentbehrlich für eine ausgewogene Einsatzflotte.\r\n",
+    "en": "Command ships are engineered specifically to wreak havoc on a battlefield of many. Sporting advanced command module interfaces, these vessels are more than capable of turning the tide in large engagements. Command ships represent the ultimate in Command Burst efficiency; the boosts they give their comrades in combat make them indispensable assets to any well-rounded fleet.\r\n",
+    "es": "Las naves de mando están diseñadas específicamente para causar estragos en el campo de batalla. Dotadas de interfaces modulares avanzadas de mando, son más que capaces de cambiar las tornas en los enfrentamientos a gran escala. Las naves de mando representan lo último en eficiencia de los estallidos de mando. Los impulsos que dan a sus compañeros en combate las convierten en bienes indispensables para cualquier flota bien equilibrada.",
+    "fr": "Les vaisseaux de commandement ont été conçus pour semer le chaos sur le champ de bataille. Dotés d'interfaces de module de commandement avancées, ces vaisseaux sont capables d'inverser la tendance lors de grandes batailles. Les vaisseaux de commandement représentent le nec plus ultra en matière de salve de commandement. Le soutien qu'ils apportent en combat les rend indispensables si vous voulez disposer d'une flotte complète.\r\n",
+    "ja": "指揮型巡洋戦艦は、多数の艦が入り乱れる戦場に大火力をまき散らす用途に設計された艦である。高性能なコマンドモジュールインターフェイスを搭載し、大規模交戦での形勢を覆して余りある能力を持つ。これら艦は艦隊支援システムを効果的に運用することにかけては究極の船で、味方艦の性能にブーストボーナスを与えられるため戦場ではかけがえのない戦力となり、バランスのとれた艦隊編成には欠かせない。",
+    "ko": "커맨드쉽은 대규모 전장에서 활약하기 위해 특수 설계된 기체입니다. 최첨단 지휘 모듈 인터페이스를 탑재하여 대규모 함대전의 전황을 뒤바꿀 수 있는 능력을 가진 커맨드쉽은 커맨드 버스트 분야에서 효율의 정점을 자랑합니다. 특히 위급한 상황에서 동료를 지원하는 능력으로 함대에서 핵심적인 역할을 맡고 있습니다.\r\n",
+    "ru": "Флагманские корабли сконструированы таким образом, чтобы сеять хаос на полях массовых сражений. Эти суда, оснащённые импульсными оптимизаторами с продвинутыми интерфейсами, способны сыграть решающую роль в любом — даже самом крупном — столкновении и являются неотъемлемой частью любого полноценного флота. Они крайне эффективно справляются со своей основной задачей: поддержкой и усилением союзных кораблей.\r\n",
+    "zh": "指挥舰专为在大规模战役中大量杀敌而设计。这些舰船装备了先进的指挥模块接口，在大型遭遇战中足以扭转乾坤。指挥舰代表了终极的指挥脉冲波效率，它在战斗中给予战友的强力协助使其成为任何一支能力全面的舰队必不可少的要素。\r\n"
+  },
+  "factionID": 500001,
+  "graphicID": 2807,
+  "groupID": 540,
+  "marketGroupID": 828,
+  "mass": 14000000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      68,
+      150,
+      139,
+      164,
+      85,
+      152,
+      154,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      68,
+      150,
+      139,
+      164,
+      85,
+      152,
+      154,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      68,
+      150,
+      139,
+      164,
+      85,
+      152,
+      154,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      68,
+      150,
+      139,
+      164,
+      85,
+      152,
+      154,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      68,
+      150,
+      139,
+      109,
+      164,
+      85,
+      118,
+      152,
+      153,
+      154,
+      94
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Vulture",
     "en": "Vulture",
@@ -10,5 +92,126 @@
     "ru": "Vulture",
     "zh": "兀鹫级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 215.0,
+  "sofFactionName": "ishukone",
+  "soundID": 20068,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Kann zwei <a href=showinfo:3348>Kommandostrahl</a>-Module verwenden",
+          "en": "Can use two <a href=showinfo:3348>Command Burst</a> modules",
+          "es": "Es posible equipar dos módulos de <a href=showinfo:3348>estallido de mando</a>.",
+          "fr": "Peut utiliser deux <a href=showinfo:3348>salves de commandement</a>.",
+          "ja": "<a href=showinfo:3348>コマンドバースト</a>モジュールは2個使用可能です",
+          "ko": "두개의 <a href=showinfo:3348>커맨드 버스트</a> 모듈 사용 가능",
+          "ru": "Корабли этого типа могут включать до двух <a href=showinfo:3348>импульсных оптимизаторов</a>",
+          "zh": "可以装配两个<a href=showinfo:3348>指挥脉冲波</a>装备"
+        },
+        "importance": 1
+      },
+      {
+        "bonus": 100.0,
+        "bonusText": {
+          "de": "Bonus auf die Reichweite des Wirkungsbereichs von <a href=showinfo:3348>Kommandostrahlen</a>",
+          "en": "bonus to <a href=showinfo:3348>Command Burst</a> area of effect range",
+          "es": "de bonificación al alcance del radio de acción del <a href=showinfo:3348>estallido de mando</a>.",
+          "fr": "de bonus à la portée de l'effet de zone des <a href=showinfo:3348>salves de commandement</a>.",
+          "ja": "<a href=showinfo:3348>コマンドバースト</a>効果範囲にボーナス",
+          "ko": "<a href=showinfo:3348>커맨드 버스트</a> 효과 반경 증가",
+          "ru": "увеличивается радиус импульсов, генерируемых <a href=showinfo:3348>импульсными оптимизаторами</a>",
+          "zh": "<a href=showinfo:3348>指挥脉冲波</a>效果范围加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "23950": [
+        {
+          "bonus": 3.0,
+          "bonusText": {
+            "de": "Bonus auf Stärke und Dauer von <a href=showinfo:3350>Schildkommando</a>- und <a href=showinfo:20495>Informationkommando</a>strahlen",
+            "en": "bonus to <a href=showinfo:3350>Shield Command</a> and <a href=showinfo:20495>Information Command</a> burst strength and duration",
+            "es": "de bonificación a la intensidad y la duración del estallido de <a href=showinfo:3350>mando de escudo</a> y de <a href=showinfo:20495>mando de información</a>.",
+            "fr": "de bonus à la puissance et à la durée des salves de <a href=showinfo:3350>commandement des boucliers</a> et de <a href=showinfo:20495>commandement électronique</a>.",
+            "ja": "<a href=showinfo:3350>シールドコマンドバースト</a>と<a href=showinfo:20495>情報戦コマンドバースト</a>の強度と持続時間が上昇",
+            "ko": "<a href=showinfo:3350>실드 버스트</a> 및 <a href=showinfo:20495>정보전 버스트</a> 강도 및 지속시간 증가",
+            "ru": "повышается эффективность и длительность действия импульсов, генерируемых <a href=showinfo:3350>импульсными оптимизаторами щитов</a> и <a href=showinfo:20495>импульсными оптимизаторами РЭБ</a>",
+            "zh": "<a href=showinfo:3350>护盾指挥</a>和<a href=showinfo:20495>信息战指挥</a>脉冲波强度和持续时间加成"
+          },
+          "importance": 3,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die HP von Schilden",
+            "en": "bonus to shield hitpoints",
+            "es": "de bonificación a los puntos de vida de los escudos.",
+            "fr": "de bonus aux points de vie du bouclier",
+            "ja": "シールドHPが増加",
+            "ko": "실드량 증가",
+            "ru": "бонус к запасу прочности щитов",
+            "zh": "护盾值加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3304>mittelgroßen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3304>Medium Hybrid Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3304>torreta híbrida mediana</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:3304>tourelles hybrides intermédiaires</a>",
+            "ja": "<a href=showinfo:3304>中型ハイブリッドタレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3304>중형 하이브리드 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон боеприпасов <a href=showinfo:3304>средних гибридных орудий</a>",
+            "zh": "<a href=\"showinfo:3304\">中型混合炮台</a>伤害加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ],
+      "33096": [
+        {
+          "bonus": 4.0,
+          "bonusText": {
+            "de": "Bonus auf alle Schildresistenzen",
+            "en": "bonus to all shield resistances",
+            "es": "de bonificación a todas las resistencias de escudo.",
+            "fr": "de bonus à toutes les résistances de bouclier",
+            "ja": "全てのシールドレジスタンスが増加",
+            "ko": "모든 실드 저항력 증가",
+            "ru": "повышается сопротивляемость щитов корабля всем видам воздействия",
+            "zh": "护盾抗性加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die optimale Reichweite von <a href=showinfo:3304>mittelgroßen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3304>Medium Hybrid Turret</a> optimal range",
+            "es": "de bonificación al alcance óptimo de la <a href=showinfo:3304>torreta híbrida mediana</a>.",
+            "fr": "de bonus à la portée optimale des <a href=showinfo:3304>tourelles hybrides intermédiaires</a>",
+            "ja": "<a href=showinfo:3304>中型ハイブリッドタレット</a>の最適射程距離が拡大",
+            "ko": "<a href=showinfo:3304>중형 하이브리드 터렛</a> 최적사거리 증가",
+            "ru": "увеличивается оптимальная дальность ведения огня из <a href=showinfo:3304>средних гибридных орудий</a>",
+            "zh": "<a href=\"showinfo:3304\">中型混合炮台</a>最佳射程加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 16227,
   "volume": 252000.0
 }

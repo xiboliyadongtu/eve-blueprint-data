@@ -1,5 +1,18 @@
 {
-  "typeID": 32250,
+  "basePrice": 150000000.0,
+  "description": {
+    "de": "Diese Struktur ist ein Relikt, entworfen um mit veralteter Souveränitätstechnologie zu interagieren. Wenn sie im Weltall stationiert wird, ist es der Struktur unmöglich, die notwendigen Netzwerkverbindungen herzustellen und sie wird sich automatisch selbst zerstören. Führende Corporations in ganz New Eden beteiligen sich an Rückkaufaktionen, um diese Struktur sicher zu recyceln.",
+    "en": "This structure is a relic, designed to interact with obsolete Sovereignty technology. When deployed into space it will be unable to make the necessary network connections and will self-destruct automatically. Major corporations throughout New Eden are engaging in buyback programs to recycle these structures safely.",
+    "es": "Esta estructura es una reliquia diseñada para interactuar con tecnología de soberanía obsoleta. Cuando se despliegue en el espacio, no podrá establecer las conexiones de red necesarias y se autodestruirá automáticamente. Las corporaciones principales de Nuevo Edén están inmersas en programas de recompra para reciclar estas estructuras de forma segura.",
+    "fr": "Cette structure est une relique, conçue pour interagir avec la technologie de souveraineté obsolète. Lorsqu'elle est déployée dans l'espace, elle ne pourra pas effectuer les connexions de réseau nécessaires et s'auto-détruira automatiquement. Les corporations majeures de New Eden s'engagent dans des programmes de rachat pour recycler ces structures en toute sécurité.",
+    "ja": "このストラクチャは先代の統治技術により通信を行う遺物である。宙域に配備されると必須のネットワーク接続を利用できなくなり、自ずと崩壊する。ニューエデン中の巨大なコーポレーションは、このストラクチャを買い戻して再利用する計画をすすめている。",
+    "ko": "구식 소버린티 기술이 적용된 유물입니다. 우주공간에 설치하여도 네트워크 연결이 불가능하며 설치 시 자폭이 자동으로 시작됩니다. 많은 대형 기업들이 자신의 제품을 안전하게 폐기하기 위해 해당 구조물들을 다시 되사고 있습니다.",
+    "ru": "Артефакт прошлого, разработанный для взаимодействия с устаревшей системой суверенитетов. Если разместить его в космосе, сооружение не сможет установить необходимые сетевые соединения и автоматически самоуничтожится. Крупные корпорации Нового Эдема участвуют в программе безопасной переработки этих отходов (с возвратом средств).",
+    "zh": "这个建筑是个古董，在过去老旧的主权科技体系中发挥作用。如果部署到太空中，它非但不能发挥应有的网络连接作用，还会自动销毁。新伊甸中各大军团都已开始回购这些建筑以妥善处理。"
+  },
+  "graphicID": 3826,
+  "groupID": 1005,
+  "mass": 1000000.0,
   "name": {
     "de": "Sovereignty Blockade Unit",
     "en": "Sovereignty Blockade Unit",
@@ -10,5 +23,10 @@
     "ru": "Sovereignty Blockade Unit",
     "zh": "主权干扰设施"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 243.0,
+  "sofFactionName": "genericbase",
+  "soundID": 33,
   "volume": 2500.0
 }

@@ -1,5 +1,16 @@
 {
-  "typeID": 78907,
+  "description": {
+    "de": "Dieser Händler nimmt Coalesced Elements, Element Control Data und Element Containment Vessels an und gibt im Gegenzug Deathless Circle Reward Tokens aus.",
+    "en": "This trader will accept Coalesced Elements, Element Control Data, and Element Containment Vessels and issue Deathless Circle Reward Tokens in return.",
+    "es": "Este comerciante aceptará elementos fusionados, datos de control de elementos y naves de contención de elementos y, a cambio, emitirá fichas de retribución del Círculo Inmortal.",
+    "fr": "Ce marchand acceptera les éléments coalescés, les données de contrôle d'élément et les réceptacles de confinement d'élément, et délivrera en retour des jetons de récompense du Cercle Immortel.",
+    "ja": "このトレーダーに融合エレメント、エレメント制御用データ、あるいはエレメント格納容器を渡せば、引き換えにデスレス・サークルの報酬トークンが手に入る。",
+    "ko": "융합된 원소, 원소 제어 데이터, 원소 격납장치를 취급하는 상인입니다. 보상으로 데스리스 서클 보상 토큰을 제공합니다.",
+    "ru": "Этот торговец предоставляет наградные сертификаты «Бессмертного круга» в обмен на комбинации элементов, данные об эксплуатации элементов и защитные контейнеры для элементов.",
+    "zh": "这名贸易官会用不死循环奖励凭证交换合并元素、元素控制数据和元素密闭舱。"
+  },
+  "graphicID": 24482,
+  "groupID": 226,
   "name": {
     "de": "Deathless Circle Elements Exchanger",
     "en": "Deathless Circle Elements Exchanger",
@@ -10,5 +21,8 @@
     "ru": "Пункт «Бессмертного круга» по обмену элементов",
     "zh": "不死循环元素转换器"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 16000.0,
+  "sofFactionName": "caldaribase"
 }

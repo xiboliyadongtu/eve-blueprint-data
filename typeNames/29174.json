@@ -1,5 +1,18 @@
 {
-  "typeID": 29174,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese Struktur fungiert als Relaisstation für die Operationen der Republik Minmatar in dieser Struktur; alle Geheiminformationen der Schlachtfelder werden hier empfangen, gesammelt und übermittelt.",
+    "en": "This structure acts as a relay station for the Minmatar Republic's operations in this structure, collecting, receiving and transmitting battlefield intelligence.",
+    "es": "Esta estructura actúa como estación de relés para las operaciones de la República Minmatar: recopila, recibe y transmite datos del campo de batalla.",
+    "fr": "Cette structure fait office de station relais pour les opérations de la République minmatar au sein de cette structure, récupérant, recevant et transmettant les renseignements sur le champ de bataille.",
+    "ja": "この建造物内で立てられるミンマター共和国の作戦におけるリレーステーションとして使われる建造物。戦場の情報を収集、受信、発信する。",
+    "ko": "군사작전에 관한 정보를 수신 및 송신하는 민마타 공화국의 통신중계소입니다.",
+    "ru": "Это сооружение используется республикой Minmatar в качестве ретранслятора: здесь происходит сбор, прием и передача данных с поля боя.",
+    "zh": "这个设施是米玛塔尔军事行动的信息中继中心，负责收集和传送战场的情报。"
+  },
+  "graphicID": 21948,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Minmatar Tactical Relay",
     "en": "Minmatar Tactical Relay",
@@ -10,5 +23,10 @@
     "ru": "Minmatar Tactical Relay",
     "zh": "米玛塔尔战术中继站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 330.0,
+  "sofFactionName": "minmatarbase",
   "volume": 100000000.0
 }

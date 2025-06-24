@@ -1,5 +1,17 @@
 {
-  "typeID": 3370,
+  "basePrice": 100000.0,
+  "description": {
+    "de": "Fertigkeit zum Leiten der Forschungsarbeit von Corporations.",
+    "en": "Skill at managing corp research.",
+    "es": "Habilidad para gestionar la investigación corporativa.",
+    "fr": "Compétence liée à la gestion des recherches d'une corporation.",
+    "ja": "コーポレーションの研究管理スキル。",
+    "ko": "코퍼레이션 연구 관리를 위한 스킬입니다.",
+    "ru": "Навык управления научно-исследовательскими проектами корпорации.",
+    "zh": "管理军团研究的技能。"
+  },
+  "groupID": 266,
+  "iconID": 33,
   "name": {
     "de": "Chief Science Officer",
     "en": "Chief Science Officer",
@@ -10,5 +22,7 @@
     "ru": "Руководство научным отделом",
     "zh": "首席科研官培训"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

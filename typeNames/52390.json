@@ -1,5 +1,16 @@
 {
-  "typeID": 52390,
+  "description": {
+    "de": "Abgefangene Datenübertragungen deuten darauf hin, dass dieses Gerät im umliegenden System Informationen über den Quantenzustand von Partikeln sammelt. CONCORD-Wissenschaftler glauben allerdings, dass es sich hierbei um einen Fehler handeln könnte, da die Rechenleistung, um solche enormen Datenmengen zu verarbeiten, theoretisch unmöglich zu erreichen ist.",
+    "en": "Intercepted data transfers indicate that this device is gathering information on the quantum state of particles throughout the surrounding system. CONCORD researchers believe this may be an error however, as the computational power required to process such vast quantities of data is theoretically impossible.",
+    "es": "Las transferencias de datos interceptadas indican que este dispositivo está recopilando información sobre el estado cuántico de las partículas que hay en el sistema circundante. Sin embargo, los investigadores de CONCORD creen que puede ser un error, ya que la potencia computacional necesaria para procesar semejantes cantidades de datos es teóricamente imposible.",
+    "fr": "Les transferts de données interceptés indiquent que cet appareil rassemble des informations sur l'état quantique des particules partout dans le système environnant. Cependant, les chercheurs de CONCORD pensent que cela peut-être une erreur, étant donné que la puissance de calcul requise pour traiter de telles quantités de données est théoriquement impossible.",
+    "ja": "傍受したデータ通信によると、このデバイスは周辺の星系一帯から素粒子の量子状態に関する情報を集めているらしい。しかし、そのような膨大な量のデータを処理できるコンピューター能力の実現は理論上不可能であるため、CONCORDの研究者たちはこれをエラーだと考えている。",
+    "ko": "가로챈 데이터에 의하면 이 장치는 주변 항성계에 분포한 입자의 양자역학 정보를 전범위적으로 수집하고 있습니다. CONCORD 연구자들에 의하면 수집하고 있는 대상의 범위가 너무 거대하고 이에 필요한 연산력 또한 막대하여 처리과정에서 오류가 있을 수 밖에 없을 것으로 추정되고 있습니다.",
+    "ru": "Судя по перехваченному обмену данными, это устройство собирает информацию о квантовом состоянии частиц во всей окружающей среде. Однако исследователи КОНКОРДа считают, что это, вероятно, ошибка, поскольку вычислительная мощность, необходимая для обработки такого огромного количества данных, в принципе невозможна.",
+    "zh": "截取的数据传输显示这个数据会从周边星系收集粒子的量子状态的信息。统合部研究人员认为这可能是个错误，因为能够处理如此巨大容量数据的计算设备理论上是不存在的。"
+  },
+  "graphicID": 24464,
+  "groupID": 319,
   "name": {
     "de": "Triglavian Fermion Monitor",
     "en": "Triglavian Fermion Monitor",
@@ -10,5 +21,7 @@
     "ru": "Triglavian Fermion Monitor",
     "zh": "三神裔费密子监控器"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "sofFactionName": "triglavianbase"
 }

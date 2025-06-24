@@ -1,5 +1,16 @@
 {
-  "typeID": 3759,
+  "description": {
+    "de": "Im Vergleich zu den meisten minmatarischen Fregatten ist die Probe ziemlich groß und wird als gutes Erkundungs- und Transportschiff angesehen. Ungewöhnlich für ein Minmatar-Schiff ist die gepanzerte Außenhülle, die sehr schwer zu zerstören ist. Allerdings ist die Probe wegen ihrer eingeschränkten Waffenmontageplätze auf die Unterstützung anderer Schiffe angewiesen.",
+    "en": "The Probe is large compared to most Minmatar frigates and is considered a good scout and cargo-runner. Uncharacteristically for a Minmatar ship, its hard outer coating makes it difficult to destroy, while the limited weapon hardpoints force it to rely on fighter assistance if engaged in combat.",
+    "es": "Comparada con la mayoría de fragatas minmatarianas, la Probe es bastante grande y está considerada como una nave de carga y exploración más que decente. Su sólido recubrimiento exterior, poco característico de las naves minmatarianas, hace que sea increíblemente resistente, aunque los limitados puntos de montaje de armas la obligan a depender de los cazas durante el combate.",
+    "fr": "Le Probe est plus grand que la plupart des frégates minmatar. Elle est efficace pour suivre les éclaireurs et les cargos. Contrairement à une grande partie des vaisseaux minmatar, son revêtement extérieur est très résistant, tandis que le nombre limité de points de fixation d'armement nécessite le renfort de chasseurs en cas de combat.",
+    "ja": "プローブは、一般のミンマターフリゲートと比較すると大型で、偵察や輸送任務に適するとされている。ミンマター船としては珍しく硬い外殻を持ち破壊されにくいが、兵装用ハードポイントが少ないので、戦闘に加わるなら他の火力艦の援護が頼りだ。",
+    "ko": "프로브는 대다수의 민마타 프리깃보다 큰 편으로 정찰기 및 밀수선으로 사용하기 적합합니다. 일반 민마타 함선과는 다르게 단단한 외막을 갖추어 파괴하기 쉽지 않으며 장착 가능한 무기의 수가 한정되어 있어 교전 시 지원 병력에 의존하는 특성을 보입니다.",
+    "ru": "От прочих фрегатов Республики Probe отличается большими размерами, что делает его пригодным для осуществления грузоперевозок и установки на его борту разведывательного спецоборудования. Кроме того, он на удивление хорошо бронирован; к сожалению, нехватка точек монтажа орудий заставляет пилотов этих фрегатов во время боя полагаться на огневую поддержку кораблей сопровождения.",
+    "zh": "探索级护卫舰是米玛塔尔护卫舰中的大家伙，是一种不错的侦察和货运舰。与一般的米玛塔尔飞船不同，它坚硬的船体外壳使它很难被摧毁，但它有限的武器槽位使它在战斗中不得不依赖其他战舰的火力支援。"
+  },
+  "graphicID": 45,
+  "groupID": 226,
   "name": {
     "de": "Minmatar Probe Frigate",
     "en": "Minmatar Probe Frigate",
@@ -10,5 +21,9 @@
     "ru": "Minmatar Probe Frigate",
     "zh": "米玛塔尔探索级护卫舰"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 20.0,
+  "sofFactionName": "minmatarbase"
 }

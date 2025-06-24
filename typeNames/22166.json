@@ -1,5 +1,17 @@
 {
-  "typeID": 22166,
+  "description": {
+    "de": "Ein kleiner Generator, der in der Lage ist, kleinere Installationen mit Energie zu versorgen.",
+    "en": "Small generator capable of powering up a small space installation.",
+    "es": "Generador pequeño capaz de alimentar una instalación espacial pequeña.",
+    "fr": "Petit générateur capable d'alimenter une installation de petite taille.",
+    "ja": "小規模な宇宙用設備に電力を供給できる、小型の発電機。",
+    "ko": "소규모 시설을 가동시킬 수 있는 소형 발전기입니다.",
+    "ru": "Маленький генератор, способный оснастить энергией маленькую космическую установку.",
+    "zh": "一个可以给小型空间装置供电的小型发电机。"
+  },
+  "groupID": 526,
+  "iconID": 1184,
+  "mass": 1500.0,
   "name": {
     "de": "Portable Power Generator",
     "en": "Portable Power Generator",
@@ -10,5 +22,7 @@
     "ru": "Portable Power Generator",
     "zh": "便携式发电机"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 10.0
 }

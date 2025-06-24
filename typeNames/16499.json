@@ -1,5 +1,19 @@
 {
-  "typeID": 16499,
+  "description": {
+    "de": "Zieht Energie aus dem Zielschiff ab und fügt sie dem eigenen hinzu. Diese imposante Einheit wurde für Schiffe der Schlachtschiff-Klasse entwickelt.\n\n\n\nHinweis: Ein Nosferatu-Modul leert den Energiespeicher des Zielschiffs nicht über die Kapazität Ihres eigenen Energiespeichers hinaus.",
+    "en": "Drains energy from the target ship and adds it to your own. This huge unit is designed for battleship class ships.\r\n\r\nNote: A Nosferatu module will not drain your target's capacitor below your own capacitor level.",
+    "es": "Drena la energía de la nave objetivo y la añade a la tuya. Esta enorme unidad está diseñada para naves de clase acorazado.\n\n\n\nNota: El módulo Nosferatu no drenará el condensador del objetivo por debajo del nivel del tuyo propio.",
+    "fr": "Draine l'énergie du vaisseau cible pour alimenter le capaciteur de l'assaillant. Cette unité colossale est conçue pour les vaisseaux de classe cuirassé. Remarque : le nosferatu ne draine pas le capaciteur de l'ennemi en-deçà de la réserve énergétique effective de l'assaillant.",
+    "ja": "他の艦船からエネルギーを奪い、自船のエネルギーとして転用できる。この大型モジュールは戦艦クラスの艦船のために設計されている。\r\n\n注意: ノスフェラトゥモジュールはターゲットのキャパシタ残量が自船のキャパシタ残量を下回る場合、エネルギー吸収を行わない。",
+    "ko": "대상 함선으로부터 에너지를 흡수합니다. 배틀쉽급 함선을 위해 설계된 대형 모듈입니다. <br><br>참고: 대상 함선의 캐패시터가 더 적을 경우 에너지를 흡수하지 않습니다.",
+    "ru": "Забирает энергию из накопителя корабля-цели и передает ее на ваш корабль. Этот гигантский модуль предназначен для применения на кораблях линейного тоннажа.\n\n\n\nПримечание: модуль паразитной подзарядки не сможет уменьшить заряд накопителя цели до уровня, меньшего, чем уровень заряда вашего собственного накопителя. Заряды ваших накопителей сравниваются в абсолютных единицах.",
+    "zh": "吸取对方舰船的能量为自己所用。这种大型装置是为战列舰级舰船设计的。\n\n\n\n注意：所有能量吸噬装备都不会将目标的电容器电量值抽取到比你自己的当前电量值更低的水平。"
+  },
+  "groupID": 68,
+  "iconID": 1029,
+  "marketGroupID": 694,
+  "mass": 1000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Heavy Knave Scoped Energy Nosferatu",
     "en": "Heavy Knave Scoped Energy Nosferatu",
@@ -10,5 +24,8 @@
     "ru": "Heavy Knave Scoped Energy Nosferatu",
     "zh": "重型流氓视野型掠能器"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 12261,
   "volume": 5.0
 }

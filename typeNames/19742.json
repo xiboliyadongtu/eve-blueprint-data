@@ -1,5 +1,18 @@
 {
-  "typeID": 19742,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Es ist bekannt, dass bestimmte Bauserien der Raubdrohnen, um die Errichtung von Strukturen der Raubdrohnen zu beschleunigen, die Ruinen besiegter Gegner wieder in Betrieb nehmen, indem sie sie entweder als Basis nutzen oder allmählich in die letzendlich gewünschte Konstruktion umbauen.",
+    "en": "To speed up the construction process of rogue drone structures, certain strains of drones have been known to salvage the ruins of their defeated enemies, using them either as a base or to slowly dissolve them into their desired final shape.",
+    "es": "Para acelerar el proceso de construcción de estructuras de drones rebeldes, se sabe que ciertas variedades de drones reciclan las ruinas de sus enemigos derrotados, usándolas como base o disolviéndolas lentamente para obtener la forma final deseada.",
+    "fr": "Certains drones renégats récupèrent les épaves des ennemis vaincus pour accélérer le processus de construction de leurs structures. Ils les utilisent comme base de construction ou les désossent pour leur donner la forme désirée.",
+    "ja": "ローグドローンの骨組みを組成する手間を省くため、ある種のドローンは倒した敵の残骸を回収して基部に流用するか、好ましい形状が得られるまでゆっくりと溶かしていったらしい。",
+    "ko": "로그 드론 중 일부는 건설 속도를 향상하기 위해 그들이 파괴한 적의 구조물을 건설 토대로 활용하거나 구조물을 분해하여 자신들이 필요한 형태로 재구성하곤 합니다.",
+    "ru": "Чтобы быстрее возводить свои сооружения, отдельные виды восставших дронов могут использовать останки кораблей и станций побежденных врагов, беря их за основу или постепенно доводя их до нужной кондиции.",
+    "zh": "为了加快自由无人机设施的建造速度，某一种类的无人机会打捞并改造从击败的敌人处占领的废墟，这些废墟或是作为基地底座，或是慢慢地被溶解最终成为它们想要的形状。"
+  },
+  "graphicID": 2565,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Infested station ruins",
     "en": "Infested station ruins",
@@ -10,5 +23,10 @@
     "ru": "Infested station ruins",
     "zh": "被感染的空间站废墟"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 5858.0,
+  "sofFactionName": "roguebase",
+  "soundID": 20174,
   "volume": 100000000.0
 }

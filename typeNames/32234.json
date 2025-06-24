@@ -1,5 +1,17 @@
 {
-  "typeID": 32234,
+  "description": {
+    "de": "Dies ist eine verschlüsselte Nachricht vom Ammatar-Spion des RSS-Agenten. Es handelt sich um eine komplett unverständliche Folge von Einsen und Nullen.",
+    "en": "This is an encrypted transmission from the RSS agent's Ammatar spy. It is a wholly incomprehensible string of 1s and 0s.",
+    "es": "Transmisión cifrada del espía Ammatar sobre el agente de los SSR. Es una cadena totalmente incomprensible de unos y ceros.",
+    "fr": "Il s'agit d'une transmission cryptée de l'espion ammatar des SSR. Elle se résume à une série incompréhensible de 1 et de 0.",
+    "ja": "RSSエージェントのアマタースパイからの暗号化された通信。全てが1と0の文字列で、理解不能。",
+    "ko": "RSS 에이전트 산하의 아마타 스파이에게서 온 암호문입니다. 0과 1로만 이루어져 있어 읽을 수가 없습니다.",
+    "ru": "Это шифрованное сообщение от the шпиона Ammatar, связанного с агентом RSS. Представляет собой совершенно бессмысленную череду нулей и единичек.",
+    "zh": "这是一条从RSS代理人的米玛塔尔间谍那里传来的加密传输信息。这就是一大段完全无法理解的0和1组成的字符串。"
+  },
+  "groupID": 314,
+  "iconID": 2037,
+  "mass": 1.0,
   "name": {
     "de": "Encrypted Transmission",
     "en": "Encrypted Transmission",
@@ -10,5 +22,7 @@
     "ru": "Encrypted Transmission",
     "zh": "加密传输"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

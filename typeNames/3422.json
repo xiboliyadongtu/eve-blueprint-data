@@ -1,5 +1,18 @@
 {
-  "typeID": 3422,
+  "basePrice": 100000.0,
+  "description": {
+    "de": "Betrieb von Shield Transfer Arrays und anderer Schild-emittierender Module.\r\n\r\nBonus: 5% verringerter Energiespeicherbedarf Schild-emittierender Module je Skillstufe.",
+    "en": "Operation of shield transfer array and other shield emission systems. 5% reduced capacitor need for shield emission system modules per skill level.",
+    "es": "Funcionamiento de la matriz de transferencia de escudo y otros sistemas de emisión de escudo. Necesidad del condensador reducida un 5 % en módulos de sistemas de emisión de escudo por nivel de habilidad.",
+    "fr": "Utilisation du module de transfert de bouclier et d'autres systèmes d'émission de bouclier. Réduit de 5 % par niveau de compétence les besoins énergétiques du capaciteur pour les modules de systèmes d'émission de bouclier.",
+    "ja": "シールドトランスファーアレイなどのシールドエミッションシステムを操作するためのスキル。スキルレベル上昇ごとにシールドエミッションシステムモジュールのキャパシタ消費が5%減少する。",
+    "ko": "실드 전송 시스템의 운용을 위한 스킬입니다. 매 레벨마다 실드 전달 시스템 모듈의 캐패시터 사용량 5% 감소",
+    "ru": "Навык управления системами дистанционной накачки щита и другими системами передачи энергии на щит. За каждую степень освоения навыка: на 5% уменьшается расход энергии накопителя при работе установок дистанционной накачки щитов.",
+    "zh": "操控护盾传输阵列和其他护盾频散系统的技能。每升一级，护盾频散类装备的电容消耗减少5%。"
+  },
+  "groupID": 1209,
+  "iconID": 33,
+  "marketGroupID": 1747,
   "name": {
     "de": "Shield Emission Systems",
     "en": "Shield Emission Systems",
@@ -10,5 +23,7 @@
     "ru": "Дистанционная накачка щитов",
     "zh": "护盾频散系统"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

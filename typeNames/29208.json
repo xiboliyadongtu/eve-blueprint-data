@@ -1,5 +1,18 @@
 {
-  "typeID": 29208,
+  "capacity": 1000.0,
+  "description": {
+    "de": "CONCORD-Plakatwände halten Sie auf dem Laufenden, bringen ihnen die neusten Nachrichten und Kopfgeld-Informationen.",
+    "en": "Concord Billboards keep you updated, bringing you the latest news and bounty information.",
+    "es": "Los anuncios de CONCORD te mantienen al día de las últimas novedades y avisos de recompensas.",
+    "fr": "Les panneaux d'affichage Concord vous permettront d'obtenir les dernières informations et les informations sur les primes.",
+    "ja": "最新のニュースや賞金稼ぎの情報を発信している。",
+    "ko": "새로운 소식과 현상금 정보를 끊임없이 제공해주는 CONCORD의 전광판입니다.",
+    "ru": "Информационные экраны Concord позволяют вам быть всегда в курсе событий, информируя о последних новостях и вознаграждениях за головы преступников.",
+    "zh": "统合部公告屏带给你最新的消息及荣誉追击的情况。"
+  },
+  "graphicID": 2046,
+  "groupID": 226,
+  "mass": 100.0,
   "name": {
     "de": "Fortified Billboard",
     "en": "Fortified Billboard",
@@ -10,5 +23,10 @@
     "ru": "Fortified Billboard",
     "zh": "强化的公告屏"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 644.0,
+  "sofFactionName": "genericbase",
   "volume": 1.0
 }

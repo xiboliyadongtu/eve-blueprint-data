@@ -1,5 +1,18 @@
 {
-  "typeID": 11067,
+  "basePrice": 100.0,
+  "description": {
+    "de": "Ein Datenchip, der die Schiffslogbücher eines Geheimagenten der Nugoeihuvi Corporation enthält.",
+    "en": "A data chip containing the ship logs of a Nugoeihuvi secret agent.",
+    "es": "Este chip de datos contiene el cuaderno de bitácora de un agente secreto de Nugoeihuvi.",
+    "fr": "Puce de données contenant les journaux de bord d'un agent secret nugoeihuvi.",
+    "ja": "ノゴエイハヴィのシークレットエージェント所有の航行記録を収めたデータチップ。",
+    "ko": "누고에히비 비밀 요원이 작성한 항해일지입니다.",
+    "ru": "Чип данных, содержащий бортовые журналы секретного агента Nugoeihuvi.",
+    "zh": "该芯片包含纳基维特工的飞船日志。"
+  },
+  "groupID": 314,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Nugoeihuvi Data Chip",
     "en": "Nugoeihuvi Data Chip",
@@ -10,5 +23,7 @@
     "ru": "Nugoeihuvi Data Chip",
     "zh": "纳基维数据芯片"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 30384,
+  "description": {
+    "de": "Diese Datenschnittstelle ermöglicht die Integration antiker Technologie in Systeme der Minmatar.\n\nWir für Nachkonstruktionsaufträge benutzt.",
+    "en": "This data interface allows the integration of ancient technology with Minmatar systems.\r\n\r\nUsed for Reverse Engineering jobs.",
+    "es": "Esta interfaz de datos permite la integración de tecnología antigua en sistemas minmatarianos.\n\nSe usa para trabajos de ingeniería inversa.",
+    "fr": "Cette interface de données permet l'intégration d'anciennes technologies dans les systèmes minmatar.\n\nUtilisée pour les travaux de rétro-ingénierie.",
+    "ja": "古代文明のテクノロジーをミンマターのシステムに組み込むデータインターフェイス。リバースエンジニアリングのジョブに使用する。",
+    "ko": "고대 기술과 아마르 시스템을 통합하기 위해 사용되는 데이터 인터페이스입니다. <br><br>역설계에 사용됩니다.",
+    "ru": "Эти интерфейсы данных позволяют осуществлять интеграцию древних и матарских технологий. Используются в проектах инженерного ретроанализа.",
+    "zh": "这种数据接口能整合古代科技设备与米玛塔尔系统。\n\n可以用于逆向工程项目。"
+  },
+  "groupID": 979,
+  "iconID": 3187,
+  "mass": 1.0,
   "name": {
     "de": "Minmatar Subsystems Data Interface",
     "en": "Minmatar Subsystems Data Interface",
@@ -10,5 +22,8 @@
     "ru": "Minmatar Subsystems Data Interface",
     "zh": "米玛塔尔子系统数据接口"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
   "volume": 1.0
 }

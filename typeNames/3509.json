@@ -1,5 +1,18 @@
 {
-  "typeID": 3509,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieses Array ist dafür verantwortlich, zwischen dem Freund- und Feindstatus für die Remote-Logistikeinrichtungen zu unterscheiden. Auch wenn diese durchaus brauchbar sind, sollte ein Kapselpilot dazu in der Lage sein, die darin befindliche, ausgeklügelte Elektronik zu überwinden.",
+    "en": "This array is responsible for determining friend or foe status for local remote logistics facilities. Although formidable, a capsuleer should be able to subvert the sophisticated electronics within.",
+    "es": "Esta plataforma se encarga de determinar el estatus de amigo o enemigo de las instalaciones logísticas remotas locales. Aunque es formidable, cualquier capsulista sería capaz de sabotear sus sofisticados componentes electrónicos.",
+    "fr": "Ce module détermine le statut d'allié ou d'ennemi des structures logistiques à distance. Aussi formidable soit-il, un capsulier devrait être en mesure d'en saboter les systèmes électroniques.",
+    "ja": "この施設では、ローカルとリモートのロジスティック施設の敵/味方ステータスが決定される。内部の高度なエレクトロニクスは堅固だが、カプセラにはこれを破壊する能力が要求される。",
+    "ko": "해당 구조물은 원격지원시설에 대한 피아식별 기능을 갖추고 있습니다. 정교한 보안 시스템이 설치되어 있으나 캡슐리어라면 우회할 수 있을 것으로 보입니다.",
+    "ru": "Этот узел отвечает за работу систем распознавания «свой-чужой» местных установок дистанционного ремонта. Несмотря на сложность его электронных систем, талантливый капсулер в принципе может их взломать.",
+    "zh": "该阵列负责为本地的远程后勤设施判别敌友。虽然看上去坚不可摧，但克隆飞行员还是可以从里面破坏其中精密的电子元件。"
+  },
+  "graphicID": 2363,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Sansha Logistics Control Array",
     "en": "Sansha Logistics Control Array",
@@ -10,5 +23,10 @@
     "ru": "Диспетчерский центр Санши",
     "zh": "萨沙后勤控制阵列"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 1239.0,
+  "sofFactionName": "sanshabase",
   "volume": 100000000.0
 }

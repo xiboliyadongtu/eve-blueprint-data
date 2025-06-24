@@ -1,5 +1,17 @@
 {
-  "typeID": 356915,
+  "basePrice": 1.0,
+  "description": {
+    "de": "Ein Trainingsskill der verwendet wird, um korrekte neurale Mappings zu testen und zu bestätigen.",
+    "en": "A training skill used to test and validate correct neural mappings.",
+    "es": "Una habilidad de entrenamiento usada para probar y validar mapas neurales correctos.",
+    "fr": "Une compétence de formation utilisée pour tester et valider les cartographies neurales correctes.",
+    "it": "Un'abilità di addestramento utilizzata per collaudare e convalidare le corrette mappature neurali.",
+    "ja": "正確な神経系マッピングを実験、検証するための鍛錬スキル。",
+    "ko": "신경망에 관한 실험에 사용됩니다.",
+    "ru": "Тренировочный навык, применяемый для тестирования и проверки правильности нейронного картирования.",
+    "zh": "一种用于测试和验证正确神经映射的训练技能。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Neuraler Trainer",
     "en": "Neural Trainer",
@@ -11,5 +23,7 @@
     "ru": "Нейротренажер",
     "zh": "神经训练器"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

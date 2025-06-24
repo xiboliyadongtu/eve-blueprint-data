@@ -1,5 +1,18 @@
 {
-  "typeID": 41404,
+  "basePrice": 30000000.0,
+  "description": {
+    "de": "Spezialistentraining in der Handhabung fortschrittlicher Capital-Artillerie. 2% Bonus je Skillstufe auf die Schadenswirkung von Capital-Geschütztürmen, die den Skill \"Capital Artillery Specialization\" voraussetzen.",
+    "en": "Specialist training in the operation of advanced capital artillery. 2% bonus per skill level to the damage of capital turrets requiring Capital Artillery Specialization.",
+    "es": "Entrenamiento especializado en el manejo de artillería capital avanzada. Bonificación del 2 % por nivel de habilidad al daño de las torretas capitales que requieren especialización en artillería capital.",
+    "fr": "Formation de spécialiste en artillerie avancée capitale. Augmente de 2 % par niveau les dégâts des tourelles capitales nécessitant la spécialisation en artillerie capitale.",
+    "ja": "高性能大型アーティレリを操作する専門スキル。スキルレベル上昇ごとに大型アーティレリスペシャリゼーションを必要とする大型タレットダメージが2%増加する。",
+    "ko": "캐피탈급 함포 운용을 위한 스킬입니다. 매 레벨마다 캐피탈 함포 특화가 요구되는 캐피탈 터렛의 피해량 2% 증가",
+    "ru": "Спецкурс по эксплуатации усовершенствованных сверхбольших артиллерийских орудий За каждую степень освоения навыка: на 2% повышается урон усовершенствованных сверхбольших артиллерийских орудий.",
+    "zh": "操作高级旗舰级火炮的专业训练。每升一级，需要旗舰级火炮专业研究技能的旗舰级炮台的伤害提高2%。"
+  },
+  "groupID": 255,
+  "iconID": 33,
+  "marketGroupID": 364,
   "name": {
     "de": "Capital Artillery Specialization",
     "en": "Capital Artillery Specialization",
@@ -10,5 +23,7 @@
     "ru": "Спецкурс: сверхбольшие артиллерийские орудия",
     "zh": "旗舰级火炮专业研究"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 77591,
+  "capacity": 235.0,
+  "description": {
+    "de": "Eine Segmenter-Drohne, vergleichbar mit einer Fregatte. Ihre Hauptaufgabe scheint die Instandhaltung von Panzerung zu sein. Sie wird von einer bösartigen künstlichen Intelligenz betrieben, deren Pläne sich dem menschlichen Verstand entziehen.",
+    "en": "A Segmenter drone, equivalent to a frigate class ship. Its primary objective seems to be armor maintenance.\r\n\r\nRun by a rogue artificial intelligence, the machinations of which are outside of human understanding.",
+    "es": "Un dron Segmenter equivalente a una nave de clase fragata. Su objetivo principal parece ser el mantenimiento del blindaje.    Está dirigido por una inteligencia artificial rebelde, cuyas maquinaciones escapan a la comprensión humana.",
+    "fr": "Un drone Segmenter, équivalent à une frégate. Son objectif principal semble être la maintenance de blindage. Il est contrôlé par une intelligence artificielle rebelle dont les machinations semblent échapper à la compréhension humaine.",
+    "ja": "アーマーのメンテナンスを主な役割としているらしい、フリゲート級艦船相当のセグメンター型ドローン。    運用しているのは野生化した人工知性だが、“彼ら”の思考回路は人類の理解の範疇を超えている。",
+    "ko": "프리깃급 함선과 동급인 세그멘터 드론입니다. 장갑 수리가 주 역할인 것으로 보입니다.<br><br>인간의 이해를 초월한 음모를 꾸미는 한 사악한 인공지능이 운용하고 있습니다.",
+    "ru": "Этот дрон типа Segmenter по характеристикам соответствует фрегату. Похоже, его основная функция — ремонт брони. Дроном управляет мятежный искусственный интеллект, принципы работы которого за гранью человеческого понимания.",
+    "zh": "一架分割者级无人机，相当于一艘护卫舰级舰船。其主要目标似乎是维护装甲。受自由人工智能操控，其计谋策略远非人类所能理解。"
+  },
+  "graphicID": 1225,
+  "groupID": 4569,
+  "mass": 1630000.0,
   "name": {
     "de": "Machinist Segmenter",
     "en": "Machinist Segmenter",
@@ -10,5 +23,11 @@
     "ru": "Machinist Segmenter",
     "zh": "机械师分割者级"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 20.5,
+  "sofFactionName": "roguebase",
+  "soundID": 11,
   "volume": 28700.0
 }

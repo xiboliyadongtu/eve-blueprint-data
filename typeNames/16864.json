@@ -1,5 +1,18 @@
 {
-  "typeID": 16864,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieses kleine Wunder enthält nur eine Handvoll mechanische Komponenten und speichert dennoch Energie von der Sonne des Systems durch die einzigartige Brechung elektromagnetischer Wellen in seinem Scartate-Gewebe.",
+    "en": "Containing only a handful of mechanical components, this simple wonder harvests energy from the system's sun by virtue of the unique EM refractive qualities in its scartate fabric.",
+    "es": "Con solo un puñado de componentes mecánicos, esta sencilla maravilla cosecha energía del sol del sistema gracias a las cualidades de refracción electromagnética únicas de su tejido.",
+    "fr": "Constitué d'un nombre de composants mécaniques très réduit, cette merveille collecte l'énergie du soleil du système grâce à ses qualités de réfraction électromagnétique.",
+    "ja": "スカーテイトファブリックの持つ独特なEM屈折特性の効果で銀河系の太陽エネルギーを吸収する、わずかな機械装置しか積み込んでいない驚異の船。",
+    "ko": "소수의 기계부품만이 장착된 이 단순하고 경이로운 시설은 항성계의 태양으로부터 에너지를 흡수하여 스카테이트 구조가 가진 EM 굴절 특성을 이용하여 동력을 발생시킵니다.",
+    "ru": "Содержа лишь горсть механических компонентов, эта простое чудо собирает энергию солнечной системы благодаря уникальным отражающим электромагнитным качествам его материи.",
+    "zh": "虽然只包含少量的机械部件，这个神奇的东西可以靠蓄能构件中独一无二的电磁折射特性，从恒星采集能量。"
+  },
+  "graphicID": 1725,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Low-Tech Deadspace Energy Harvester",
     "en": "Low-Tech Deadspace Energy Harvester",
@@ -10,5 +23,9 @@
     "ru": "Low-Tech Deadspace Energy Harvester",
     "zh": "低技术死亡空间能量采集站"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 90.0,
+  "sofFactionName": "genericpleasure",
   "volume": 100000000.0
 }

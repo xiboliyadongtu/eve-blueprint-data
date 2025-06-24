@@ -1,5 +1,19 @@
 {
-  "typeID": 75933,
+  "capacity": 5000.0,
+  "description": {
+    "de": "Dieser Staats-Schiffswerfer-Signalfeuer-Konstrukteur baut ein Signalfeuer, das nach seiner Fertigstellung als Ziel für das Interstellare Staats-Schiffswerfer-Netzwerk dienen kann. Der Interstellare Staats-Schiffswerfer stellt eine Verbindung zu bis zu drei verfügbaren Signalfeuern an bevorzugt strategisch wichtigen Standorten her, wenn mehr als die maximale Anzahl von Signalfeuern verfügbar ist. Kapselpiloten, die die benötigten Baumaterialien beisteuern möchten, können mit dem Schiffswerfer-Signalfeuer-Konstrukteur interagieren. Beiträge zum Bau des Signalfeuers bringen Loyalitätspunkte beim State Protectorate ein.",
+    "en": "This State Shipcaster Beacon Constructor is building a beacon that will be able to function as a destination for the State Interstellar Shipcaster network once completed. The State Interstellar Shipcaster will link to up to three available beacons, prioritizing those in strategically important locations if there are more than the maximum number of beacons available.\r\n\r\nThe Shipcaster Beacon Constructor can be interacted with by capsuleers wishing to contribute the necessary construction materials. Contributions to the construction of the beacon will earn loyalty points with the State Protectorate.",
+    "es": "Este constructor de balizas de lanzadores interestelares del Estado puede funcionar como destino para la red de lanzadores interestelares del Estado una vez completado. El lanzador interestelar del Estado se vinculará con hasta tres balizas disponibles, dando prioridad a aquellas en ubicaciones estratégicamente importantes si hay más balizas disponibles que la cantidad máxima.\r\n\r\nLos capsulistas que deseen contribuir con los materiales de construcción necesarios pueden interactuar con el constructor de balizas de lanzadores interestelares. Las contribuciones a la construcción de la baliza otorgarán puntos de lealtad con el Protectorado del Estado.",
+    "fr": "Ce constructeur de balise de lance-vaisseaux de l'État construit une balise qui pourra fonctionner comme destination pour le réseau de lance-vaisseaux de l'État une fois achevée. Le lance-vaisseaux interstellaire de l'État reliera jusqu'à trois balises disponibles, donnant priorité à celles se situant dans des emplacements stratégiques si le nombre de balises disponibles est supérieur à son maximum. Les capsuliers souhaitant contribuer en apportant les matériaux de construction nécessaires peuvent interagir avec le constructeur de balise de lance-vaisseaux. Les contributions à la construction de la balise feront gagner des points de loyauté avec le State Protectorate.",
+    "ja": "この連合艦艇キャスタービーコン・コンストラクターは、完成すれば連合惑星間艦艇キャスターネットワークの目的地として機能するビーコンを建設している。連合惑星間艦艇キャスターは最大3か所の有効なビーコンにリンク可能で、最大数を超える数のビーコンが有効な場合は戦略的に重要な地点が優先される。\r\n\r\n艦艇キャスタービーコン・コンストラクターは、必要な建設資材を提供する意思があるカプセラが使用することができる。ビーコンの建設に貢献すると、連合プロテクトレイトのロイヤルティポイントが手に入る。",
+    "ko": "연합 함선전송기 비컨 제조기가 연합 성간 함선전송망의 목적지로 활용될 비컨을 건설하고 있습니다. 연합 성간 함선전송기는 최대 3개의 비컨과 연계할 수 있습니다. 연결이 필요한 지점이 3개 이상일 경우 연합 성간 함선전송기는 전략적으로 중요한 지점의 비컨과 우선적으로 연계합니다.<br><br>캡슐리어는 함선전송기 비컨 제조기에 필요한 자원을 기부할 수 있습니다. 비컨 건설에 기여하면 연합 방위대의 로열티 포인트가 보상으로 지급됩니다.",
+    "ru": "Этот конструктор маяка калдарского кораблепускателя возводит маяк, который станет одним из пунктов назначения транспортной сети калдарского кораблепускателя. Калдарский межзвёздный кораблепускатель способен подключаться сразу к трём доступным маякам. Если количество доступных маяков превышает максимум, предпочтение отдаётся маякам, находящимся в стратегически важных областях. Капсулёры, желающие внести свой вклад в строительство, могут поместить в конструктор маяка кораблепускателя необходимые материалы. За вклад в строительство маяка пилоты получат наградные баллы от Охранного корпуса.",
+    "zh": "这个合众国舰船弹射台信标建造器正在建造一个信标，建成后可以作为合众国星际舰船弹射台网络的目的地。合众国星际舰船弹射台最多可以连接三个可用的信标，如果可用信标数量超过最大数量，则将优先考虑重要战略位置的信标。希望提供必要建造材料的克隆飞行员可以与舰船弹射台信标建造器进行互动。在合众国护卫军中，对信标建造做出贡献将获得忠诚点。"
+  },
+  "factionID": 500001,
+  "graphicID": 25927,
+  "groupID": 4548,
+  "mass": 100000.0,
   "name": {
     "de": "State Shipcaster Beacon Constructor",
     "en": "State Shipcaster Beacon Constructor",
@@ -10,5 +24,10 @@
     "ru": "State Shipcaster Beacon Constructor",
     "zh": "合众国舰船弹射台信标建造器"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 6907.0,
+  "sofFactionName": "caldarinavy_upw_trig",
+  "soundID": 20157,
   "volume": 100000000.0
 }

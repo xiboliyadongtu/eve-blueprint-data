@@ -1,5 +1,18 @@
 {
-  "typeID": 48237,
+  "description": {
+    "de": "Die Drohnen vom Ephialtes-Typ gehören zu autonomen, mit Driftern verbündeten Drohnen, die ihren Grundentwurf mit Circadian Seekers und Autothysian Lancers teilen. Es wurde eine Vielzahl von Varianten entdeckt, die die Drifter-Invasionskräfte begleiten, die gerade in die Raumverwerfung des Abgrunds drängen.",
+    "en": "The Ephialtes-type drones are a family of Drifter-allied autonomous drones derived from the same design base as the Circadian Seekers and Autothysian Lancers. A wide selection of variants have been detected accompanying the Drifter invasion forces currently pressing into Abyssal Deadspace.",
+    "es": "Los Ephialtes son una familia de drones autónomos al servicio de los drifters inspirados en el diseño de los seekers circadianos y los lancers autothysianos. Se ha identificado un gran número de variantes junto a las fuerzas de invasión drifter que actualmente se abren paso en el espacio muerto abisal.",
+    "fr": "Les drones de type Ephiliates sont une famille de drones autonomes alliés aux drifters, dérivés de la même conception de base que les seekers circadiens et les lanciers autothysian. Une large variété a été repérée aux côtés des envahisseurs drifters qui forcent actuellement leur entrée dans l'abîme Deadspace.",
+    "ja": "エフィアルテス型ドローンはドリフターに与する自律型ドローン群の一部。サーカディアン・シーカーズやオートティシアン・ランサーズと同じ設計を基にしている。同ドローンのさまざまな派生型がアビサルデッドスペースへ侵攻中のドリフター軍に追随しているのが確認されている。",
+    "ko": "에피알테스 종류의 드론은 드리프터와 연합한 자율가동 드론으로 서카디안 시커와 오토티시안 랜서에서 파생된 종류입니다. 최근 어비설 데드스페이스로 진출하는 시커 무리와 함께 다양한 형태로 목격되고 있습니다.",
+    "ru": "Дроны класса «Эфиальт» — это семейство автономных дронов, действующих на стороне скитальцев и имеющих общее происхождение с Циркадианскими искателями и Автотизианскими лансье. В составе вооружённых сил скитальцев, вторгающихся в Мёртвую бездну, замечено множество их разновидностей.",
+    "zh": "这种厄菲阿尔特无人机是流浪者自主型无人机的一类，设计理念与节律探寻者和塞申长矛手类似。多种不同类型的这类无人机护卫着冬眠者入侵舰队驶入了深渊空间。"
+  },
+  "factionID": 500021,
+  "graphicID": 20978,
+  "groupID": 1982,
+  "mass": 2000000.0,
   "name": {
     "de": "Ephialtes Illuminator",
     "en": "Ephialtes Illuminator",
@@ -10,5 +23,10 @@
     "ru": "Ephialtes Illuminator",
     "zh": "厄菲阿尔特 指路者"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 64,
+  "radius": 50.0,
+  "sofFactionName": "sleeperbase",
+  "soundID": 12
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 22289,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieses große Teleskop enthält eine empfindliche, aber sehr fortschrittliche Sensorausstattung.",
+    "en": "This huge telescope contains fragile but advanced sensory equipment.",
+    "es": "Este enorme telescopio contiene equipo sensorial frágil pero avanzado.",
+    "fr": "Cet énorme télescope contient des séries de détecteurs perfectionnés, mais très fragiles.",
+    "ja": "壊れやすいが高度な探知装置を搭載した大型望遠鏡。",
+    "ko": "첨단 센서 장비를 갖춘 거대한 텔레스코프입니다.",
+    "ru": "Этот громадный телескоп содержит хрупкое, но совершенное сенсорное оборудование.",
+    "zh": "这座巨大的射电望远镜里装有脆弱却非常先进的传感设备。"
+  },
+  "graphicID": 2505,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Scanner Tower",
     "en": "Scanner Tower",
@@ -10,5 +23,10 @@
     "ru": "Scanner Tower",
     "zh": "扫描塔"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 2636.0,
+  "sofFactionName": "genericbase",
+  "soundID": 20173,
   "volume": 100000000.0
 }

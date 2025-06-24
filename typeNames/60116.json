@@ -1,5 +1,19 @@
 {
-  "typeID": 60116,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieser Raubdrohnenanalyseknoten wurde von Forschern der Association for Interdisciplinary Research (AIR) benutzt, ehe sie offensichtlich von einem Schwarm Raubdrohnen überwältigt wurden. Es ist möglich, das Gerät zu hacken und die Daten oder sonstigen Materialien zu bergen, die von den Forschern analysiert wurden.",
+    "en": "This Rogue Drone Analysis Node was being used by researchers from the Association for Interdisciplinary Research (AIR) before they were evidently overcome by swarms of rogue drones.\r\n\r\nThe device may be hacked to retrieve any data or materials under analysis by the research effort here.",
+    "es": "Los investigadores de la Asociación para la Investigación Interdisciplinaria (también conocida como AIR) usaban este nodo de análisis de drones rebeldes antes de que los enjambres de drones rebeldes los superaran.\n\n\n\nSe puede hackear este dispositivo para recuperar cualquier dato o material analizado por el equipo de investigación.",
+    "fr": "Ce nœud d'analyse était étudié par les chercheurs de l'Association de recherche interdisciplinaire (AIR) avant que ceux-ci soient clairement submergés par une nuée de drones renégats. Ce dispositif peut être piraté afin de récupérer les données ou les matériaux analysés par les équipes de recherches.",
+    "ja": "ローグドローン解析ノードは、ローグドローンの大群に乗っ取られる前は、学際的研究協会（AIR）の研究者によって使用されていた。\n\n\n\nこのデバイスをハッキングすると、ここでの研究業務によって解析中だったデータや資源を回収できる。",
+    "ko": "학제간연구협회(AIR) 소속 과학자들이 분석하던 특수 장치로 로그 드론에 의해 습격을 받은 것으로 추측됩니다.<br><br>장치를 해킹하여 연구 자료를 확보할 수 있습니다.",
+    "ru": "Этот узел анализа восставших дронов использовали учёные из Ассоциации междисциплинарных исследований (АМИ), пока их не атаковал рой восставших дронов. Это устройство можно взломать, чтобы получить данные или материалы для проводимых здесь исследований.",
+    "zh": "这个自由无人机分析节点曾是星空会研究人员的工作地点，后来被自由无人机蜂群占据了。\n\n\n\n使用设备也许可以从中获取数据和材料。"
+  },
+  "graphicID": 20298,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "AIR Rogue Drone Analysis Node",
     "en": "AIR Rogue Drone Analysis Node",
@@ -10,5 +24,10 @@
     "ru": "AIR Rogue Drone Analysis Node",
     "zh": "星空会自由无人机分析节点"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 300.0,
+  "sofFactionName": "genericbase",
+  "soundID": 20182,
   "volume": 27500.0
 }

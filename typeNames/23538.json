@@ -1,5 +1,17 @@
 {
-  "typeID": 23538,
+  "description": {
+    "de": "Kiste mit verschiedenen Verkaufsgütern.",
+    "en": "Crate of various store goods.",
+    "es": "Caja de diversos artículos de tienda.",
+    "fr": "Caisse de provisions diverses.",
+    "ja": "ストアグッズの入った箱。",
+    "ko": "다양한 상품이 보관된 상자입니다.",
+    "ru": "Контейнер с различными товарами.",
+    "zh": "存储了各种货物的箱子。"
+  },
+  "groupID": 526,
+  "iconID": 26,
+  "mass": 1000.0,
   "name": {
     "de": "Store Goods",
     "en": "Store Goods",
@@ -10,5 +22,7 @@
     "ru": "Store Goods",
     "zh": "商店的货物"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 80.0
 }

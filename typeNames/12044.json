@@ -1,5 +1,70 @@
 {
-  "typeID": 12044,
+  "basePrice": 20400000.0,
+  "capacity": 165.0,
+  "description": {
+    "de": "Die mit nur einem Triebwerk ausgerüstete Enyo hat eine gute Feuerkraft, einen Lenkwaffen-Montageplatz und eine extrem starke Panzerung, was sie zu einer der besten Unterstützungsfregatten macht. Sie eignet sich besonders zum Köderschiff, um feindliches Feuer von anfälligeren Schiffen der eigenen Flotte abzulenken.\r\n",
+    "en": "The single-fanged Enyo sports good firepower capability, a missile hardpoint and some extremely strong armor plating, making it one of the best support frigates out there. Ideal for use as point ships to draw enemy fire from more vulnerable friendlies.\r\n",
+    "es": "La Enyo de un colmillo tiene una buena capacidad de fuego, un punto de montaje de misiles y un blindaje extremadamente fuerte, lo que la convierte en una de las mejores fragatas de apoyo. Es ideal para alejar el fuego enemigo de los aliados más vulnerables.",
+    "fr": "L'Enyo dispose d'une bonne puissance de feu, d'un point de fixation de missile et de revêtement de blindage extrêmement résistant. Tout cela en fait l'une des meilleures frégates d'appui. Il s'agit d'un vaisseau parfait pour attirer le feu ennemi loin de cibles alliées plus vulnérables.\r\n",
+    "ja": "一本角が特徴的なデザイン。優れた火力、ランチャー用ハードポイント、さらに極めて強固なアーマープレートを搭載し、支援型フリゲートとしては出色の性能を誇る。防御力が低い味方船に代わり、攻撃を引きつけるおとり役に向いている。",
+    "ko": "엔요는 준수한 화력, 견고한 장갑 플레이팅, 그리고 추가적인 미사일 하드포인트를 지닌 최고의 로지스틱스 프리깃입니다. 적의 시선을 끌어 방어가 취약한 아군 함선을 보호합니다.\r\n",
+    "ru": "Однорукий Enyo — один из лучших фрегатов снабжения в Новом Эдеме. Он может похвастаться хорошей огневой мощью, разъёмом для пусковой установки ракет и невероятно крепкой бронёй. Такой корабль служит отличной приманкой, отвлекающей врагов от более уязвимых целей.\r\n",
+    "zh": "长了一只角的恩尤级拥有良好的火力、一个导弹挂点和极其强大的装甲附甲，这也让它成为了最佳支援护卫舰之一。非常适合用作尖兵船，引开敌方原本针对脆弱友军的火力。\r\n"
+  },
+  "factionID": 500004,
+  "graphicID": 1771,
+  "groupID": 324,
+  "marketGroupID": 435,
+  "mass": 1053900.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      140,
+      67,
+      150,
+      89,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      140,
+      67,
+      150,
+      89,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      140,
+      67,
+      150,
+      89,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      140,
+      67,
+      150,
+      89,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      140,
+      67,
+      117,
+      150,
+      89,
+      94
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Enyo",
     "en": "Enyo",
@@ -10,5 +75,96 @@
     "ru": "Enyo",
     "zh": "恩尤级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 39.0,
+  "sofFactionName": "roden",
+  "soundID": 20074,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Kann <a href=showinfo:47254>Angriffsschadensregulierer</a> ausrüsten",
+          "en": "Can fit <a href=showinfo:47254>Assault Damage Controls</a>",
+          "es": "Es posible equipar <a href=showinfo:47254>controles de daños por asalto</a>.",
+          "fr": "Peut être équipé des <a href=showinfo:47254>contrôles des dégâts d'assaut</a>",
+          "ja": "<a href=showinfo:47254>アサルトダメージ制御</a>を装備可能",
+          "ko": "<a href=showinfo:47254>어썰트 데미지 컨트롤</a> 장착가능",
+          "ru": "Позволяет установить <a href=showinfo:47254>ударные модули боевой живучести</a>",
+          "zh": "可以装配<a href=showinfo:47254>突击损伤控制</a>装备"
+        },
+        "importance": 2
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Reduktion des <a href=showinfo:3454>Mikrowarpantrieb</a>-Signaturradius",
+          "en": "reduction in <a href=showinfo:3454>Microwarpdrive</a> signature radius penalty",
+          "es": "de reducción de la penalización de radio de la señal del <a href=showinfo:3454>motor de microwarp</a>.",
+          "fr": "de réduction à la pénalité de rayon de signature des <a href=showinfo:3454>propulseurs de microwarp</a>",
+          "ja": "<a href=showinfo:3454>マイクロワープドライブ</a>のシグネチャ半径ペナルティが軽減",
+          "ko": "<a href=showinfo:3454>마이크로 워프 드라이브</a> 시그니처 반경 페널티 감소",
+          "ru": "уменьшается влияние <a href=showinfo:3454>микроварп-ускорителей</a> на размер сигнатуры корабля",
+          "zh": "<a href=\"showinfo:3454\">微型跃迁推进器</a>的信号半径惩罚加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3328": [
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3301>kleinen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3301>Small Hybrid Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3301>torreta híbrida pequeña</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:3301>petites tourelles hybrides</a>",
+            "ja": "<a href=showinfo:3301>小型ハイブリッドタレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3301>소형 하이브리드 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон боеприпасов <a href=showinfo:3301>малых гибридных орудий</a>",
+            "zh": "<a href=\"showinfo:3301\">小型混合炮台</a>伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ],
+      "12095": [
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Nachführungsgeschwindigkeit von <a href=showinfo:3301>kleinen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3301>Small Hybrid Turret</a> tracking speed",
+            "es": "de bonificación a la velocidad de rastreo de la <a href=showinfo:3301>torreta híbrida pequeña</a>.",
+            "fr": "de bonus à la vitesse de poursuite des <a href=showinfo:3301>petites tourelles hybrides</a>",
+            "ja": "<a href=showinfo:3301>小型ハイブリッドタレット</a>の追跡速度が上昇",
+            "ko": "<a href=showinfo:3301>소형 하이브리드 터렛</a> 트래킹 속도 증가",
+            "ru": "повышается скорость наводки на цель <a href=showinfo:3301>малых гибридных орудий</a>",
+            "zh": "<a href=\"showinfo:3301\">小型混合炮台</a>跟踪速度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die optimale Reichweite von <a href=showinfo:3301>kleinen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3301>Small Hybrid Turret</a> optimal range",
+            "es": "de bonificación al alcance óptimo de la <a href=showinfo:3301>torreta híbrida pequeña</a>.",
+            "fr": "de bonus à la portée optimale des <a href=showinfo:3301>petites tourelles hybrides</a>",
+            "ja": "<a href=showinfo:3301>小型ハイブリッドタレット</a>の最適射程距離が拡大",
+            "ko": "<a href=showinfo:3301>소형 하이브리드 터렛</a> 최적사거리 증가",
+            "ru": "увеличивается оптимальная дальность ведения огня из <a href=showinfo:3301>малых гибридных орудий</a>",
+            "zh": "<a href=\"showinfo:3301\">小型混合炮台</a>最佳射程加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 594,
   "volume": 29500.0
 }

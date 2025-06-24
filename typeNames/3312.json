@@ -1,5 +1,18 @@
 {
-  "typeID": 3312,
+  "basePrice": 90000.0,
+  "description": {
+    "de": "Verbesserte Fähigkeit bewegliche Ziele zu treffen.\r\n\r\n5% Bonus auf die Zielnachführung von Geschütztürmen je Skillstufe.",
+    "en": "Improved ability at hitting moving targets. 5% bonus per skill level to weapon turret tracking speeds.",
+    "es": "Capacidad mejorada al dar a objetivos móviles. 5 % de bonificación por nivel de habilidad a la velocidad de rastreo de las torretas de armas.",
+    "fr": "Amélioration de l'aptitude à toucher les cibles mobiles. Augmente de 5 % par niveau de compétence la vitesse de poursuite des tourelles.",
+    "ja": "動いているターゲットを狙い撃つ能力を向上させるスキル。スキルレベル上昇ごとにタレット兵器の追跡速度に 5% のボーナス。",
+    "ko": "움직이는 타겟에 대한 명중률을 높여줍니다. 매 레벨마다 터렛 트래킹 속도 5% 증가",
+    "ru": "Углублённые познания в области ведения огня по движущимся целям. За каждую степень освоения навыка: на 5% увеличивается скорость наводки всех типов орудий.",
+    "zh": "攻击快速移动目标的进阶技能。每升一级，武器炮台的跟踪速度提升5%。"
+  },
+  "groupID": 255,
+  "iconID": 33,
+  "marketGroupID": 364,
   "name": {
     "de": "Motion Prediction",
     "en": "Motion Prediction",
@@ -10,5 +23,7 @@
     "ru": "Расчёт упреждения",
     "zh": "航迹预算学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

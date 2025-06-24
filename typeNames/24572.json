@@ -1,5 +1,18 @@
 {
-  "typeID": 24572,
+  "basePrice": 10000000.0,
+  "description": {
+    "de": "Bedienung von Capital-Energiespeicher-Ferntransmittern und anderen Energiespeicher-Abgabesystemen. 5% Reduzierter Energiespeicherbedarf von Capital-Energiespeicher-Abgabesystemen je Skillstufe",
+    "en": "Operation of capital remote capacitor transmitters and other capacitor emission systems. 5% reduced capacitor need of capital capacitor emission systems per skill level.",
+    "es": "Funcionamiento de transmisores de condensador remoto y capitales y otros sistemas de emisión de los condensadores. Necesidad del condensador reducida un 5 % en los sistemas de emisión de los condensadores capitales por nivel de habilidad.",
+    "fr": "Exploitation des transmetteurs capitaux de capaciteur à distance et d'autres systèmes d'émission du capaciteur. Réduit de 5 % par niveau de compétence les besoins énergétiques du capaciteur pour les systèmes d'émission du capaciteur capitaux.",
+    "ja": "キャピタルキャパシタトランスミッターとその他のキャパシタエミッションシステムを操作するスキル。スキルレベル上昇ごとにキャピタルキャパシタエミッションシステムのキャパシタ消費が5%削減される。",
+    "ko": "캐피탈 원격 캐패시터 전송기 및 그 외 캐패시터 전송 시스템 운용을 위한 스킬입니다. 매 레벨마다 캐피탈 캐패시터 전송 시스템의 캐패시터 사용량 5% 감소",
+    "ru": "Навык управления сверхбольшими установками дистанционного энергоснабжения и иными сверхбольшими системами ретрансляции энергии. За каждую степень освоения навыка: на 5% сокращается потребление энергии накопителя сверхбольшими установками дистанционного энергоснабжения.",
+    "zh": "操作旗舰级远程电容传输装置和其他电容散发系统的技能。每升一级，旗舰级电容散发系统的电容消耗减少5%。"
+  },
+  "groupID": 1216,
+  "iconID": 33,
+  "marketGroupID": 368,
   "name": {
     "de": "Capital Capacitor Emission Systems",
     "en": "Capital Capacitor Emission Systems",
@@ -10,5 +23,8 @@
     "ru": "Пилотам КБТ: дистанционный перенос заряда накопителя",
     "zh": "旗舰级电容散发系统研究"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

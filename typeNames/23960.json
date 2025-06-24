@@ -1,5 +1,18 @@
 {
-  "typeID": 23960,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese Station ist eine von zwei Wacheinheiten, in denen der Zugang zur SCCCCCS Raumverwerfung beobachtet wird.",
+    "en": "This station is one of two guard bases where access to the SCCCCCS deadspace complex is monitored.",
+    "es": "Esta estación es una de las dos bases de seguridad donde se monitorizan los accesos al complejo del espacio muerto SCCCCCS.",
+    "fr": "Cette station est l'une des deux bases qui surveillent l'accès au complexe Deadspace SCCCCCS.",
+    "ja": "SCCCCCSデッドスペースコンプレックスへの進路を監視している2か所の警備基地のうちの一つ。",
+    "ko": "SCCCCCS 데드스페이스 컴플렉스의 출입을 감시하는 두 정거장 중 하나입니다.",
+    "ru": "Эта станция - одна из двух сторожевых баз, где отслеживается доступ к комплексу дэдспейса SCCCCCS",
+    "zh": "这座空间站是两座守卫基地之一，进入SCCCCCS死亡空间复合体的来往船只在这里被严密监视。"
+  },
+  "graphicID": 1712,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Sentry Station Alpha/Beta",
     "en": "Sentry Station Alpha/Beta",
@@ -10,5 +23,10 @@
     "ru": "Sentry Station Alpha/Beta",
     "zh": "岗哨站 阿尔法/贝它"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 918.0,
+  "sofFactionName": "gallentebase",
   "volume": 100000000.0
 }

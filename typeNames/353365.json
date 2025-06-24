@@ -1,5 +1,17 @@
 {
-  "typeID": 353365,
+  "basePrice": 99000.0,
+  "description": {
+    "de": "Kenntnisse über die Bedienung von Fahrzeugscansystemen.\nSchaltet die Fähigkeit zur Verwendung von Reichweitenverstärkungsmodulen frei. \n+2% Bonus auf den Fahrzeugscanradius pro Skillstufe.",
+    "en": "Understanding of operating vehicle scanning systems.\r\nUnlocks ability to use range amplifier modules. \r\n+2% bonus to vehicle scan radius per level.",
+    "es": "Conocimiento de los sistemas de escaneo de vehículos.\nDesbloquea la habilidad de usar módulos amplificadores de alcance. \n+2% al radio de escaneo del vehículo por nivel.",
+    "fr": "Notions en utilisation des systèmes de balayage des véhicules.\nDéverrouille l'utilisation des modules amplificateurs de portée. \n+2 % de bonus au rayon de balayage du véhicule par niveau.",
+    "it": "Comprensione dell'utilizzo dei sistemi di scansione dei veicoli.\nSblocca l'abilità nell'utilizzo dei moduli per amplificatore di raggio. \n+2% di bonus al raggio di scansione del veicolo per livello.",
+    "ja": "車両スキャンシステムの操作に関する知識。\n有効範囲増幅器のモジュールが使用可能になる。\nレベル上昇ごとに、車両スキャン半径が2％増加する。",
+    "ko": "차량용 스캔 시스템에 대한 이해를 습득합니다. <br><br>사거리 증폭 모듈을 잠금 해제 합니다.<br><br>매 레벨마다 차량 탐지 반경 2% 증가",
+    "ru": "Умение применять сканирующие системы транспортного средства.\nПозволяет использовать модули усилителя сканирования. \n+2% к радиусу сканирования транспортного средства на каждый уровень.",
+    "zh": "操作载具扫描系统的知识。解锁使用范围增效装备的能力。每升一级，载具的扫描半径增加2%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Langstrecken-Scannen",
     "en": "Long Range Scanning",
@@ -11,5 +23,7 @@
     "ru": "Дальнее сканирование",
     "zh": "远程扫描"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

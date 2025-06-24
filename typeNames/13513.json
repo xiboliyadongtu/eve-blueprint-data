@@ -1,5 +1,18 @@
 {
-  "typeID": 13513,
+  "capacity": 120.0,
+  "description": {
+    "de": "Freibeuter gehören keiner der bekannten Fraktionen an, zumindest nicht offiziell.\r\n\r\nBedrohungsstufe: Tödlich",
+    "en": "Rogue pirates belong to no formal faction, or atleast not officially.  Threat level: Deadly",
+    "es": "Los piratas rebeldes no pertenecen a ninguna facción formal, o al menos no oficialmente. Nivel de amenaza: letal.",
+    "fr": "Les pirates renégats ne font partie d'aucune faction, ou tout au moins pas officiellement.  Niveau de menace : mortel",
+    "ja": "ローグ海賊はどの勢力にも属していない。少なくとも表向きは。危険度:致命的",
+    "ko": "그 어떤 정식 팩션에 속해있지 않습니다. 위험도: 치명적",
+    "ru": "Пираты-отщепенцы не принадлежат к какой-либо группировке, или, принадлежат, но не официально. Уровень опасности: смертельный",
+    "zh": "自由海盗不属于任何正规派系，至少形式上是这样。威胁等级：致命的"
+  },
+  "graphicID": 58,
+  "groupID": 817,
+  "mass": 10900000.0,
   "name": {
     "de": "Rogue Pirate",
     "en": "Rogue Pirate",
@@ -10,5 +23,11 @@
     "ru": "Rogue Pirate",
     "zh": "自由海盗"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 91.59,
+  "sofFactionName": "amarrbase",
+  "soundID": 31,
   "volume": 109000.0
 }

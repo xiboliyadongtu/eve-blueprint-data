@@ -1,5 +1,18 @@
 {
-  "typeID": 21678,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieses treibende Stück Schrott sieht aus, als könnte es für die richtige Person wertvoll sein.",
+    "en": "This Floating piece of debris looks like it might be of some value to the right person",
+    "es": "Estos escombros flotantes podrían tener algún valor para la persona adecuada.",
+    "fr": "Ces débris flottants dans l'espace ne sont pas totalement dénués d'intérêt pour certaines personnes et peuvent même s'avérer très utiles.",
+    "ja": "見る人によっては価値がありそうな、宇宙に浮かぶ何かの残骸。",
+    "ko": "누군가에게는 가치가 있을지도 모릅니다.",
+    "ru": "Этот дрейфующий обломок металла, похоже, для кого-то может оказаться ценным.",
+    "zh": "这块漂浮的碎片对懂行的人来说也许会有些价值。"
+  },
+  "graphicID": 1696,
+  "groupID": 1207,
+  "mass": 10000.0,
   "name": {
     "de": "Talocan Debris Fragment",
     "en": "Talocan Debris Fragment",
@@ -10,5 +23,9 @@
     "ru": "Talocan Debris Fragment",
     "zh": "塔洛迦残骸碎片"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 320.0,
+  "sofFactionName": "debris",
   "volume": 27500.0
 }

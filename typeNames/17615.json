@@ -1,5 +1,18 @@
 {
-  "typeID": 17615,
+  "capacity": 235.0,
+  "description": {
+    "de": "Von diesem Schiff gehen Befehle und Kommandos aus, als gehöre dem Kommandanten diese Gegend. Vielleicht stimmt das ja sogar...",
+    "en": "Commands and directions emanate from this vessel as if the person at the helm owns the place. Perhaps he does...",
+    "es": "Este comandante dicta órdenes y sentencias como si fuese el dueño del lugar. Tal vez lo sea...",
+    "fr": "Ordres et directions émanent de ce vaisseau comme si la personne aux commandes régnait sur tout ce qui l'entoure. Peut-être est-ce le cas...",
+    "ja": "この船の舵を握る者が一番偉いのだというような態度で、命令や指令を発している。",
+    "ko": "마치 이 일대의 주인이라도 되는 마냥 누군가 함선으로부터 외부로 명령을 전파하고 있습니다. 정말 그는 이곳의 주인일까요?",
+    "ru": "Этот корабль рассылает сигналы управления, как будто его капитан управляет всем этим местом. Возможно, так оно и есть.",
+    "zh": "这艘船上不断发出命令和指示，就像船长是这片区域的主人似的。说不定他还真是……"
+  },
+  "graphicID": 1759,
+  "groupID": 820,
+  "mass": 11800000.0,
   "name": {
     "de": "Corpus Crimson Commander",
     "en": "Corpus Crimson Commander",
@@ -10,5 +23,11 @@
     "ru": "Corpus Crimson Commander",
     "zh": "科波斯 深红指挥官"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 150.0,
+  "sofFactionName": "bloodraider",
+  "soundID": 31,
   "volume": 118000.0
 }

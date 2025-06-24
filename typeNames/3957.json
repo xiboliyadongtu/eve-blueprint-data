@@ -1,5 +1,18 @@
 {
-  "typeID": 3957,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese gigantische Station ist eine der Militärinstallationen der Serpentis Corporation und ein dunkles Juwel der Allianz zwischen den Guardian Angels und der Serpentis Corporation. Trotz ihrer Größe verfügt sie über keinen kommerziellen Stationsservice oder Andockschleusen für Besucher.",
+    "en": "This gigantic station is one of the Serpentis military installations and a black jewel of the alliance between The Guardian Angels and The Serpentis Corporation. Even for its size, it has no commercial station services or docking bays to receive guests.",
+    "es": "Esta gigantesca estación es una de las instalaciones militares serpentis y la perla negra de la alianza entre los Ángeles de la Guarda y la Corporación Serpentis. A pesar de su tamaño, no tiene los servicios propios de las estaciones comerciales ni plataformas de acoplamiento para recibir visitas.",
+    "fr": "Cette station gigantesque est l'une des installations militaires serpentis, et le symbole du couronnement de l'alliance scellée entre les Guardian Angel et la Serpentis Corporation. Malgré sa taille, elle ne dispose pas de services commerciaux ou de baie d'amarrage pour recevoir les invités.",
+    "ja": "この巨大なステーションはサーペンティスの軍事施設の一つで、ガーディアンエンジェルズとサーペンティスコーポレーションの同盟関係を象徴する黒い宝石である。規模が大きいにも関わらず、一般向けのステーションサービスや来客用のドッキングベイがない。",
+    "ko": "서펜티스 군사시설로 가디언 엔젤과 서펜티스 코퍼레이션 동맹의 굳건한 동맹을 상징합니다. 방대한 규모에도 불구하고 상업 시설물은 전혀 없으며 외부 인원을 위한 도킹 시설 또한 존재하지 않습니다.",
+    "ru": "Эта гигантская станция используется корпорацией Serpentis в военных целях, являя собой рукотворный памятник союзу между Serpentis и организацией Guardian Angels. Несмотря на свои внушительные размеры, она не имеет ни помещений для коммерческих служб, ни гостевого дока.",
+    "zh": "这个巨大的空间站是天蛇集团的军事设施之一，是守护天使集团与天蛇集团联盟的结晶产物。虽然体积巨大，但它不提供商业类空间站服务，也没有接引客人的船坞。"
+  },
+  "graphicID": 20651,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Serpentis Stronghold",
     "en": "Serpentis Stronghold",
@@ -10,5 +23,11 @@
     "ru": "Serpentis Stronghold",
     "zh": "天蛇集团要塞"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 8380.0,
+  "sofFactionName": "serpentis",
+  "soundID": 20193,
   "volume": 100000000.0
 }

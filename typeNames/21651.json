@@ -1,5 +1,18 @@
 {
-  "typeID": 21651,
+  "capacity": 450.0,
+  "description": {
+    "de": "Das ist ein feindliches Schiff. Bedrohungsstufe: Tödlich",
+    "en": "This is a hostile vessel. Threat level: Deadly",
+    "es": "Nave hostil. Nivel de amenaza: letal.",
+    "fr": "Il s'agit d'un vaisseau ennemi. Niveau de menace : mortel",
+    "ja": "敵の船。危険度:致命的",
+    "ko": "적대적인 함선입니다. 위험도: 치명적",
+    "ru": "Это вражеский корабль. Уровень опасности: смертельный",
+    "zh": "这是一艘敌对船只。威胁等级：致命的"
+  },
+  "graphicID": 1826,
+  "groupID": 533,
+  "mass": 9600000.0,
   "name": {
     "de": "Propel Dynamics Excavator",
     "en": "Propel Dynamics Excavator",
@@ -10,5 +23,10 @@
     "ru": "Propel Dynamics Excavator",
     "zh": "推进动力 开凿船"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 175.0,
+  "sofFactionName": "guristas",
   "volume": 96000.0
 }

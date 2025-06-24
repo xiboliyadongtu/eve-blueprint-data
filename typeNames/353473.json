@@ -1,5 +1,17 @@
 {
-  "typeID": 353473,
+  "basePrice": 149000.0,
+  "description": {
+    "de": "Skill zur Benutzung von Scramblerpistolen.\n\n+1 auf die Magazingröße von Scramblerpistolen pro Skillstufe.",
+    "en": "Skill at handling scrambler pistols.\n\n+1 scrambler pistol clip size per level.",
+    "es": "Habilidad de manejo de pistolas inhibidoras.\n\n+1 al cargador de las pistolas inhibidoras por nivel.",
+    "fr": "Compétence permettant de manipuler les pistolet-disrupteurs.\n\n+1 à la taille du chargeur du pistolet-disrupteur par niveau.",
+    "it": "Abilità nel maneggiare pistole scrambler.\n\n+1 alla dimensione della clip del fucile per livello.",
+    "ja": "スクランブラーピストルを扱うスキル。\n\nレベル上昇ごとに、扱えるスクランブラーピストルのクリップサイズが1増加する。",
+    "ko": "스크램블러 피스톨 운용을 위한 스킬입니다.<br><br>매 레벨마다 스크램블러 권총 장탄수 +1",
+    "ru": "Навык обращения с плазменными пистолетами.\n\n+1 к вместимости обоймы плазменных пистолетов на каждый уровень.",
+    "zh": "使用扰频手枪的技能。每升一级，扰频手枪的弹夹容量+1。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Bedienung: Scramblerpistole",
     "en": "Scrambler Pistol Operation",
@@ -11,5 +23,7 @@
     "ru": "Обращение с плазменными пистолетами",
     "zh": "扰频手枪操作"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

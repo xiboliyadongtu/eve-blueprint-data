@@ -1,5 +1,19 @@
 {
-  "typeID": 46346,
+  "capacity": 120.0,
+  "description": {
+    "de": "Diese Sleeper-Drohne ähnelt in ihrem Design den uralten Sleeper-Schiffen, kleine Details und ein unversehrter Rumpf weisen jedoch darauf hin, dass sie zu einer Welle von Drohnen gehört, die erst vor Kurzem gefertigt und in Betrieb genommen wurden. Diese Sleeper-Drohne scheint Teil der Verteidigungsmaßnahme von Drifter-Wracks zu sein, wahrscheinlich um eventuell vorhandene Technologie vor Plünderern zu schützen.",
+    "en": "The design of this Sleeper drone is similar to ancient Sleeper ship patterns, however minor details and an unspoiled hull indicates it is part of a wave of drones that have only very recently been built and launched.\r\n\r\nThis Sleeper drone seems to be part of a force defending Drifter wrecks, presumably to guard against any technology they harbor being pilfered.",
+    "es": "El diseño de este dron sleeper recuerda a las antiguas naves sleepers, pero la diferencia en los detalles y el buen estado del casco indican que forma parte de una tanda construida y lanzada muy recientemente.\n\n\n\nEste dron sleeper parece formar parte de una fuerza que defiende restos drifters, seguramente para evitar que roben su tecnología.",
+    "fr": "Le design de ce drone sleeper est similaire à celui des anciens modèles de vaisseaux sleeper. Cependant, certains détails mineurs et une coque intacte indiquent qu'il fait partie d'une vague de drones qui ont été construits et lancés récemment. Ce drone sleeper semble faire partie d'une force défendant les épaves drifter, probablement pour se prémunir contre le vol d'une technologie qu'ils abritent.",
+    "ja": "このスリーパードローンの設計は、古代のスリーパー艦船と似通っている。しかし、わずかに差異があり船体は新品同様であることから、このドローンが属する群れは最近になって建造・稼働開始したものと思われる。\r\n\nこのスリーパードローンはドリフターの残骸を護衛している部隊の一部のようだ。部隊の目的はおそらく、残骸の内部に存在するテクノロジーが盗まれるのを防ぐことだろう。",
+    "ko": "고대 슬리퍼 설계에서 흔히 보이는 특징들을 가지고 있지만 상이한 세부 부품과 손상되지 않은 선체로 미루어보아 비교적 최근에 배치된 드론으로 추측됩니다. <br><br>외부 침입자들로부터 드리프터 잔해 속 물건을 도난당하는 것을 막기 위해 배치된 병력으로 보입니다.",
+    "ru": "Конструкция этого беспилотника Спящих имеет ряд сходств с их древними кораблями, однако некоторые второстепенные детали и неповреждённый корпус указывают на то, что это судно действует в составе волны дронов, построенных и запущенных совсем недавно. Похоже, этот беспилотник Спящих входит в состав отряда, защищающего обломки Скитальцев, от всех технологий, которые они считают украденными.",
+    "zh": "这个冬眠者无人机的设计与古代冬眠者舰船的模式类似，但是一些微小细节和未经损坏的船体都表明它是最近才被制造并发射的一批无人机的一份子。\n\n\n\n这个无人机看起来隶属于一支守卫着流浪者残骸的部队，可能是在保卫它们所拥有的技术不被人偷走。"
+  },
+  "factionID": 500021,
+  "graphicID": 3536,
+  "groupID": 1665,
+  "mass": 10900000.0,
   "name": {
     "de": "Eosian Sentinel",
     "en": "Eosian Sentinel",
@@ -10,5 +24,11 @@
     "ru": "Eosian Sentinel",
     "zh": "黎明哨兵"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 64,
+  "radius": 150.0,
+  "sofFactionName": "sleeperbase",
+  "soundID": 12,
   "volume": 109000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 3380,
+  "basePrice": 30000.0,
+  "description": {
+    "de": "Ermöglicht den Betrieb von Fabrikationsanlagen. Bonus: 4 % Reduktion der Produktionszeit je Skillstufe.",
+    "en": "Allows basic operation of factories. 4% reduction in manufacturing time per skill level.",
+    "es": "Permite operaciones básicas en fábricas. Reduce el tiempo de fabricación en un 4 % por nivel de habilidad.",
+    "fr": "Permet l'utilisation basique des usines. Réduit de 4 % par niveau de compétence le temps de production.",
+    "ja": "工場の基本的運転が可能になるスキル。スキルレベル上昇ごとに製造にかかる時間が4%短縮。",
+    "ko": "공장의 기본적인 기능을 개방합니다. 매 레벨마다 제조 시간 4% 감소",
+    "ru": "Базовые навыки в управлении заводами. За каждую степень освоения навыка: на 4% сокращаются затраты времени на производство.",
+    "zh": "对工厂进行操作的基本技能。每升一级，制造时间缩短4%。"
+  },
+  "groupID": 268,
+  "iconID": 33,
+  "marketGroupID": 369,
   "name": {
     "de": "Industry",
     "en": "Industry",
@@ -10,5 +23,7 @@
     "ru": "Организация производства",
     "zh": "工业理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

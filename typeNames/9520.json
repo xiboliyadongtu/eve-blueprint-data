@@ -1,5 +1,17 @@
 {
-  "typeID": 9520,
+  "basePrice": 4960.0,
+  "description": {
+    "de": "Stört eine feindliche Aufschaltung durch Erzeugung eines Feldes von zufallsgenerierten Sensorstörgeräuschen. Wirkt besonders gut gegen Radarsysteme.",
+    "en": "Disrupts enemy targeting by generating a field of random sensor noise. Works especially well against Radar systems.",
+    "es": "Genera un campo de ruido sensor aleatorio para interrumpir la adquisición de objetivos. Funciona especialmente bien contra los sistemas radares.",
+    "fr": "Génère un champ d'interférences aléatoires qui perturbe le ciblage ennemi. Particulièrement efficace contre les systèmes radar.",
+    "ja": "ランダムなセンサーノイズフィールドを生成して、敵のターゲット機能を混乱させる。レーダーターゲットシステムを搭載した艦船に対して高い効果を発揮する。",
+    "ko": "센서 방해 전파를 방출하여 적의 타겟팅을 교란합니다. 레이더 시스템을 대상으로 매우 효과적입니다.",
+    "ru": "Препятствует работе вражеских систем целеуказания путем создания поля шумов по всему спектру. Эта система наиболее эффективна против радарных сенсоров.",
+    "zh": "通过产生一个无序感应器噪声场来干扰敌方的锁定系统。对雷达系统特别有效。"
+  },
+  "groupID": 201,
+  "iconID": 3229,
   "name": {
     "de": "'Penumbra' White Noise ECM",
     "en": "'Penumbra' White Noise ECM",
@@ -10,5 +22,8 @@
     "ru": "'Penumbra' White Noise ECM",
     "zh": "月食白噪ECM发生器 I"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
   "volume": 5.0
 }

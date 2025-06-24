@@ -1,5 +1,16 @@
 {
-  "typeID": 21831,
+  "description": {
+    "de": "Ein Zaun. Schafe.",
+    "en": "A fence. Sheep.",
+    "es": "Una valla. Borregos.",
+    "fr": "Clôture. À moutons ?",
+    "ja": "フェンス。恐れることはない。",
+    "ko": "울타리입니다. 당장이라도 양이 뛰어넘을 것만 같습니다.",
+    "ru": "Ограда. Овцы.",
+    "zh": "一座栅栏。绵羊。"
+  },
+  "graphicID": 2486,
+  "groupID": 226,
   "name": {
     "de": "Fortified Minmatar Fence",
     "en": "Fortified Minmatar Fence",
@@ -10,5 +21,9 @@
     "ru": "Fortified Minmatar Fence",
     "zh": "强化的米玛塔尔防护栏"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 350.0,
+  "sofFactionName": "minmatarbase"
 }

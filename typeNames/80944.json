@@ -1,5 +1,17 @@
 {
-  "typeID": 80944,
+  "description": {
+    "de": "Diese Triglavia-Struktur dient anscheinend dazu, große Entfernungen zurückzulegen. Außerdem wird sie als Leitung dienen und ein Schiff, das ein Abgrundfilament verwendet hat, zu seinem letzten Ausgangspunkt zurückbringen. Wie bei Triglavia-Technologie meist üblich bezieht dieses Gerät seine Energie aus Raum-Zeit-Singularitäten. Die benötigte Energie muss immens sein, denn die Leitung nutzt zweifellos ganze drei dieser Singularitäten.",
+    "en": "This Triglavian structure seems to function as a means of long-distance travel and will function as a conduit that will return a vessel that has used an Abyssal Filament to its ultimate point of origin. As with most Triglavian technology, the power for this device is drawn from harnessed space-time singularities. As the conduit clearly uses an array of three such singularities, the energy requirements must be considerable.",
+    "es": "Parece que esta estructura triglaviana sirve para hacer viajes de largo recorrido y funciona como conducto de retorno de naves que han utilizado un filamento abisal hasta su punto definitivo de origen. Como ocurre con la mayoría de las tecnologías triglavianas, la potencia para usar este dispositivo se obtiene de singularidades espaciotemporales fijadas. Como el conducto usa claramente una red de tres singularidades de esta naturaleza, los requisitos de energía resultan considerables.",
+    "fr": "Cette structure triglavian semble servir de moyen de transport pour les longues distances et fonctionne comme un conduit pour renvoyer à son point de départ un vaisseau ayant utilisé un filament abyssal. Comme souvent dans la technologie triglavian, la puissance de cet appareil provient de l'exploitation de singularités spatio-temporelles. Étant donné que le conduit utilise trois de ces singularités, sa consommation énergétique doit être considérable.",
+    "ja": "このトリグラビアンストラクチャは、長距離移動の手段として機能しているようで、アビサルフィラメントを使用した船を原極点に戻すための導管として使用できる。ほとんどのトリグラビアンのテクノロジーと同じように、この装置の動力は内蔵された時空特異点から抽出されている。この導管は特異点を3個使用しており、そのエネルギー必要量は相当なものであるはずだ。",
+    "ko": "어비설 데드스페이스에서 필라멘트를 처음 사용한 지점으로 귀환합니다. 트라글라비안 기술의 대부분이 그러하듯, 이 장치 역시 시공간의 특이성으로부터 전력을 추출하여 사용하고 있습니다. 3개의 시공간 특이성을 사용하고 있기 때문에 전송기에 필요한 에너지 요구량은 상당할 것으로 추정됩니다.",
+    "ru": "Это сооружение Триглава, судя по всему, позволяет перемещаться на дальние расстояния и выполняет роль канала, который возвращает пилота, использовавшего нить бездны, в начальную точку. Как и остальные технологии Триглава, это устройство черпает энергию из управляемых пространственно-временных сингулярностей. Каналу необходим мощный источник питания, поскольку для его работы нужны три такие сингулярности.",
+    "zh": "这个特格拉建筑似乎是承担长距离航行的功能。它作为一条导管，将任何使用深渊纤维的舰船传送回其初始位置。与大多数特格拉科技相同，这种设备的能量来自于时空奇点。鉴于导管使用了三个这种奇点组成的阵列，所需要的能量十分巨大。"
+  },
+  "graphicID": 26993,
+  "groupID": 366,
+  "mass": 100000000.0,
   "name": {
     "de": "Origin Conduit",
     "en": "Origin Conduit",
@@ -10,5 +22,8 @@
     "ru": "Origin Conduit",
     "zh": "初始导管"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 1000.0,
+  "sofFactionName": "triglavianbase"
 }

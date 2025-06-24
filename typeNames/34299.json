@@ -1,5 +1,18 @@
 {
-  "typeID": 34299,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieses Lagerdepot ist stark angeschlagen und der Großteil seines Inhalt ist wahrscheinlich zerstört, aber eine detaillierte Analyse könnte vielleicht noch etwas von Wert zu Tage bringen.",
+    "en": "This storage depot is badly banged up and most of its contents probably destroyed, but a detailed analysis might still reveal something of value.",
+    "es": "Este almacén está muy dañado y seguramente casi todo el contenido se haya echado a perder, pero un análisis detallado podría revelar algo de valor.",
+    "fr": "Ce dépôt de stockage a été complètement démonté et la majeure partie de son contenu est probablement détruite. Une analyse détaillée pourrait cependant révéler des éléments de valeur.",
+    "ja": "破損がひどく、おそらく中身もほとんどが壊れている。しかし、詳細な分析によって何か価値あるものが明らかになるかもしれない。",
+    "ko": "심하게 손상돼있는 저장고지만 정밀 분석을 통해 부품 및 자원을 획득할 수 있습니다.",
+    "ru": "Этот склад взорван; большая часть его содержимого уничтожена, но детальный анализ может позволить найти что--то ценное.",
+    "zh": "这个储藏库严重损坏了，但对其详细分析仍然可能找到有价值的东西。"
+  },
+  "graphicID": 2301,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Mangled Storage Depot",
     "en": "Mangled Storage Depot",
@@ -10,5 +23,11 @@
     "ru": "Mangled Storage Depot",
     "zh": "损坏的储藏库"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 600.0,
+  "sofFactionName": "genericmetal",
+  "soundID": 11,
   "volume": 27500.0
 }

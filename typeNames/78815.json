@@ -1,5 +1,17 @@
 {
-  "typeID": 78815,
+  "description": {
+    "de": "Dieses Signalfeuer kennzeichnet den Standort eines offenen Corporation-Außenpostens.",
+    "en": "This beacon marks an open Corporate Outpost location.",
+    "es": "Esta baliza señala una ubicación abierta de puesto avanzado corporativo.",
+    "fr": "Cette balise signale l'emplacement d'un avant-poste de corporation ouvert.",
+    "ja": "このビーコンで、開放状態のコーポレーションのアウトポストの位置が分かる。",
+    "ko": "공격 가능한 코퍼레이션 전초기지를 표시하는 비컨입니다.",
+    "ru": "Это маяк отмечает местонахождение открытого форпоста корпорации.",
+    "zh": "此信标表示一处开放的军团哨站据点。"
+  },
+  "graphicID": 1211,
+  "groupID": 310,
+  "mass": 1.0,
   "name": {
     "de": "Open Corporate Outpost Beacon",
     "en": "Open Corporate Outpost Beacon",
@@ -10,5 +22,9 @@
     "ru": "Open Corporate Outpost Beacon",
     "zh": "开放的军团哨站信标"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 30000.0,
+  "sofFactionName": "genericbase",
   "volume": 1.0
 }

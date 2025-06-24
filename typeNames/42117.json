@@ -1,5 +1,18 @@
 {
-  "typeID": 42117,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Ein Serpentis-Forschungs-Cache. Die Beseitigung der Wachen sollte bei der Überbrückung der Sicherheitsvorkehrungen behilflich sein.",
+    "en": "A Serpentis research cache. Destroying its guards should help with bypassing its security.",
+    "es": "Un depósito de investigación serpentis. Destruir a los guardias debería de bastar para burlar su seguridad.",
+    "fr": "Une cachette de recherche serpentis. En détruisant ses gardes, il devrait être plus simple d'outrepasser son système de sécurité.",
+    "ja": "サーペンティスの研究資材保管施設。警護要因を破壊すればセキュリティをかい潜れるだろう。",
+    "ko": "서펜티스의 연구 자료가 보관된 은닉처입니다. 경비함을 파괴하면 보안 장치를 해제하는 게 수월해질 것입니다.",
+    "ru": "Тайная лаборатория «змей». Уничтожение охраны поможет обойти системы безопасности.",
+    "zh": "一座天蛇研究储藏室。消灭它的守卫可以绕过它的安全系统。"
+  },
+  "graphicID": 2431,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Research Cache",
     "en": "Research Cache",
@@ -10,5 +23,9 @@
     "ru": "Research Cache",
     "zh": "研究储藏室"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 75.0,
+  "sofFactionName": "angelbase",
   "volume": 27500.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 32348,
+  "capacity": 6000.0,
+  "description": {
+    "de": "Dieses Schiff stellt keine unmittelbare Gefahr dar.",
+    "en": "This ship poses no immediate threat.",
+    "es": "Esta nave no supone una amenaza inmediata.",
+    "fr": "Ce vaisseau ne constitue pas une menace immédiate.",
+    "ja": "この船が直接脅威を与えることはない。",
+    "ko": "적대적인 함선이 아닙니다.",
+    "ru": "Корабль не представляет прямой угрозы.",
+    "zh": "这艘船并不会造成严重威胁。"
+  },
+  "graphicID": 20385,
+  "groupID": 1006,
+  "mass": 11750000.0,
   "name": {
     "de": "Agent Rulie Isoryn",
     "en": "Agent Rulie Isoryn",
@@ -10,5 +23,10 @@
     "ru": "Agent Rulie Isoryn",
     "zh": "代理人尤莉·伊索"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 553.0,
+  "sofFactionName": "soebase",
   "volume": 275000.0
 }

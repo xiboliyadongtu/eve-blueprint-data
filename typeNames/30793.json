@@ -1,5 +1,18 @@
 {
-  "typeID": 30793,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Diese für den Alleinsatz vorgesehenen Behälter bieten verschiedenen Gütern von Munition bis Landwirtschaftsgeräten Platz.",
+    "en": "These huge spacebound facilities are used to stock anything from ammunitions to agricultural supplies.",
+    "es": "Estas enormes instalaciones espaciales sirven para almacenar de todo, desde munición hasta suministros agrícolas.",
+    "fr": "Ces énormes installations spatiales servent à stocker toutes sortes de marchandises, des munitions au matériel agricole.",
+    "ja": "これらの巨大な宙域施設には、弾薬から農作物まで何でも貯蔵されている。",
+    "ko": "이 거대한 우주시설들은 탄약고에서부터 식품 저장고까지 다양하게 사용되고 있습니다.",
+    "ru": "Эти громадные космические сооружения используются для хранения чего угодно: от боеприпасов до продуктов сельского хозяйства.",
+    "zh": "这些大型的空间设施用来储藏从粮食到军备的各种物资。"
+  },
+  "graphicID": 2706,
+  "groupID": 952,
+  "mass": 10000.0,
   "name": {
     "de": "Storage Warehouse Container",
     "en": "Storage Warehouse Container",
@@ -10,5 +23,9 @@
     "ru": "Storage Warehouse Container",
     "zh": "储藏仓库货柜"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 727.0,
+  "sofFactionName": "genericmetal",
   "volume": 27500.0
 }

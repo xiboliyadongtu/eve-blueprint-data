@@ -1,5 +1,19 @@
 {
-  "typeID": 28055,
+  "basePrice": 1000000000.0,
+  "capacity": 7500000.0,
+  "description": {
+    "de": "Ein mittleres Upgrade für Büroeinheiten von Gallente-Außenposten. Bietet 24 zusätzliche Büro-Slots.",
+    "en": "An intermediate upgrade to Gallente Outpost office facilities. Gives an additional twenty four office slots.",
+    "es": "Mejora intermedia de los locales para oficinas en puestos avanzados gallentes. Otorga 24 ranuras de oficina adicionales.",
+    "fr": "Amélioration intermédiaire permettant d'augmenter les capacités administratives d'un avant-poste gallente. Ajoute vingt-quatre emplacements de bureaux supplémentaires.",
+    "ja": "ガレンテアウトポストオフィス施設を改良するやや高度なアップグレード。オフィススロットが24個増設される。",
+    "ko": "갈란테 전초기지의 사무실 확장을 위한 중급 업그레이드입니다. 사무실 슬롯이 24개 증가합니다.",
+    "ru": "Промежуточный модуль расширения офисных площадей станции Gallente. Добавляет двадцать четыре дополнительные помещения для офисов.",
+    "zh": "针对盖伦特哨站办公设施的中级升级方案。增加二十四个可用办公室。"
+  },
+  "graphicID": 3306,
+  "groupID": 836,
+  "iconID": 3306,
   "name": {
     "de": "Gallente Outpost Office Platform",
     "en": "Gallente Outpost Office Platform",
@@ -10,5 +24,10 @@
     "ru": "Gallente Outpost Office Platform",
     "zh": "盖伦特空间站办公室平台"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 1000.0,
+  "sofFactionName": "gallentebase",
   "volume": 750000.0
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 17899,
+  "description": {
+    "de": "Verringert den Signaturradius eines Kontrollturms.",
+    "en": "Decreases signature radius of control tower.",
+    "es": "Reduce el radio de la señal de la torre de control.",
+    "fr": "Diminue le rayon de signature d'une tour de contrôle.",
+    "ja": "コントロールタワーのシグネチャ半径を減少させる。",
+    "ko": "관제타워의 시그니처 반경을 감소시킵니다.",
+    "ru": "Уменьшает радиус сигнатуры башни управления.",
+    "zh": "减小控制塔的信号半径。"
+  },
+  "graphicID": 2613,
+  "groupID": 480,
+  "mass": 100000000.0,
   "name": {
     "de": "Stealth Emitter Array",
     "en": "Stealth Emitter Array",
@@ -10,5 +22,9 @@
     "ru": "Stealth Emitter Array",
     "zh": "反侦测发射天线阵列"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 629.0,
+  "sofFactionName": "genericbase",
   "volume": 4000.0
 }

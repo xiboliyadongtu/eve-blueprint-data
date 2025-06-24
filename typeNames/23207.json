@@ -1,5 +1,18 @@
 {
-  "typeID": 23207,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Ein Stasis-Sicherheitstresor der Blood Raider. Nahezu unzerstörbar, aber vielleicht kann man den Sicherheitsmechanismus umgehen.",
+    "en": "A Blood Raider stasis security vault. Nearly impossible to destroy but perhaps it is possible to bypass its security.",
+    "es": "Aunque esta cámara de seguridad en estasis de los Saqueadores Sanguinarios resulta casi indestructible, quizá sea posible burlar las medidas de seguridad.",
+    "fr": "Un coffre de sécurité de stase blood raider. Il est presque impossible à détruire, mais il est peut-être possible d'en court-circuiter la sécurité.",
+    "ja": "ブラッドレイダーステイシスの金庫室。破壊することはほぼ不可能だが、セキュリティを迂回することはできるかもしれない。",
+    "ko": "감속장으로 보호된 블러드 레이더 보관소입니다. 파괴는 불가능하지만 보안 시스템을 우회하여 진입할 수는 있습니다.",
+    "ru": "Защищенное стазис-хранилище Blood Raider. Его почти невозможно разрушить, но, вероятно, реально миновать его защиту.",
+    "zh": "一座血袭者的滞力安全保险库。几乎无法破坏，但也许可以绕过它的安全系统。"
+  },
+  "graphicID": 2431,
+  "groupID": 1207,
+  "mass": 10000.0,
   "name": {
     "de": "Fortified Blood Raider Vault",
     "en": "Fortified Blood Raider Vault",
@@ -10,5 +23,9 @@
     "ru": "Fortified Blood Raider Vault",
     "zh": "血袭者加强保险库"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 75.0,
+  "sofFactionName": "angelbase",
   "volume": 27500.0
 }

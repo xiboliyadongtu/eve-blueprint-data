@@ -1,5 +1,18 @@
 {
-  "typeID": 62636,
+  "basePrice": 121000000.0,
+  "description": {
+    "de": "Dieses Modul nutzt die neueste ORE-Materialkompressionstechnologie, damit ein Schiff mit einem Industriekern geerntetes Monderz komprimieren kann. Kompressoren sind außerdem mit leistungsstarken Computern und Logistik-Firmware ausgerüstet, die sich mit anderen Schiffen in Bergbauflotten verbinden können. Diese Besonderheiten ermöglichen hocheffiziente logistische Koordination durch rapiden Transfer, Frachtabwicklung und Kompression von Materialien in der gesamten Flotte. <b>Um einen Kompressor zu aktivieren, muss das Schiff einen aktiven Industriekern aufweisen.</b>",
+    "en": "This module uses ORE's latest materials compression technology to enable compression of harvested moon ore by a ship operating with an industrial core.\r\n\r\nCompressors are also equipped with powerful computer arrays and logistics firmware that can interface with other ships in mining fleets. These features allow for high-efficiency fleet logistics co-ordination, permitting rapid transfer, cargo-handling, and compression of materials across the fleet.\r\n\r\n<b>Activation of a compressor requires any ship using it to have an active industrial core.</b>",
+    "es": "Este módulo utiliza la tecnología de compresión de materiales más avanzada de ORE para que una nave que opere con un núcleo industrial pueda comprimir la mena lunar extraída.\n\nLos compresores también están equipados con potentes sistemas informáticos y firmware de logística que pueden interactuar con otras naves de las flotas mineras. Estas funciones ayudan a coordinar la flota logísticamente y de forma eficaz, lo que posibilita transferencias rápidas, circulación de carga y compresión de materiales por toda la flota.\n\n<b>Para activar un compresor es necesario que la nave que lo use tenga un núcleo industrial activo.</b>",
+    "fr": "Ce module utilise les dernières technologies de compression de matériaux de l'ORE pour permettre la compression des minerais lunaires récoltés par un vaisseau employant une cellule industrielle. Les compresseurs sont également équipés de puissants réseaux informatiques et de micrologiciels logistiques capables de communiquer avec les autres vaisseaux dans les flottes minières. Ces caractéristiques permettent une coordination logistique de haute efficacité, pour transférer, manipuler les cargaisons et compresser les matériaux rapidement à l'échelle de la flotte. <b>Pour activer un compresseur, le vaisseau l'utilisant doit être doté d'une cellule industrielle active.</b>",
+    "ja": "このモジュールはOREの最新資源圧縮技術を使用しており、インダストリアルコアを搭載した艦船が採掘した衛星鉱石を圧縮できるようになる。\n\n圧縮モジュールは強力なコンピューターアレイとロジスティクス用ファームウェアも備えており、採掘フリート内の別の艦船と連動することができる。これらの機能により、フリート内における高効率なフリートのロジスティクス調整や高速輸送、カーゴの取り扱い、そして資源の圧縮を実現している。\n\n<b>圧縮モジュールを起動するには、モジュールを使用する船がインダストリアルコアを起動している必要がある。</b>",
+    "ko": "ORE 압축 기술이 적용된 첨단 모듈로 인더스트리얼 코어가 탑재된 함선에 장착하여 위성 광물을 압축할 수 있습니다.<br><br>압축기에 설치된 고성능 컴퓨터 시스템과 로지스틱스 펌웨어를 활용하여 함대에 소속된 함선을 연결할 수 있습니다. 보급 효율성 강화, 신속한 물류 이동, 화물 처리 개선, 그리고 자원 압축 기능이 포함되어 있습니다.<br><br><b>압축기를 사용하려면 활성화된 인더스트리얼 코어가 요구됩니다.</b>",
+    "ru": "Этот модуль разработан на основе передовой технологии сжатия ОРЭ и позволяет кораблям, оснащённым промышленным ядром, производить сжатие руды со спутников. Такой компрессор оснащён мощными компьютерами и программным обеспечением, способными взаимодействовать с другими судами бурового флота. Это позволяет эффективно осуществлять координацию работы флота, включая быструю передачу и обработку грузов, а также одновременное сжатие сырья. <b>Для работы компрессора требуется корабль со включённым промышленным ядром.</b>",
+    "zh": "这个装备采用了联合矿业最新的矿物压缩技术，让装配了工业核心的舰船能够对卫星矿石进行压缩。\n\n\n\n压缩装置配备了强大的计算机阵列和后勤固件，能够与采矿队中的其他舰船进行交互。如此先进的功能为舰队提供了高效率的后勤协调支持，可以方便地在舰队中进行快速输送，货物处理和矿物压缩。\n\n\n\n<b>舰船需要装配工业核心才能启用这种压缩装置。</b>"
+  },
+  "groupID": 4174,
+  "iconID": 25161,
+  "marketGroupID": 2815,
   "name": {
     "de": "Capital Moon Ore Compressor I",
     "en": "Capital Moon Ore Compressor I",
@@ -10,5 +23,7 @@
     "ru": "Capital Moon Ore Compressor I",
     "zh": "旗舰级卫星矿石压缩装置 I"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 2000.0
 }

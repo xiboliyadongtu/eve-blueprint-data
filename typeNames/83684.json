@@ -1,5 +1,16 @@
 {
-  "typeID": 83684,
+  "description": {
+    "de": "Lagereinrichtung für ausgehende Pakete nach der Sortierung, jedoch vor der Neusortierung.",
+    "en": "Storage facility for outgoing packages after sorting but prior to re-sorting.",
+    "es": "Almacén donde se guardan los paquetes que se envían después de su clasificación, pero antes de su reclasificación.",
+    "fr": "Installation de stockage pour les colis sortant après le tri mais avant le retri.",
+    "ja": "仕分けが終わったものの、再仕分けが必要な出荷品を貯蔵しておくための施設。",
+    "ko": "분류가 끝났거나 재분류가 필요한 제품이 출하되는 저장시설입니다.",
+    "ru": "Хранилище исходящих посылок между двумя этапами сортировки.",
+    "zh": "外发包裹分拣完毕后，会暂时存放在这个设施中，等待再次分拣。"
+  },
+  "graphicID": 26065,
+  "groupID": 226,
   "name": {
     "de": "Outgoing Storage Bin",
     "en": "Outgoing Storage Bin",
@@ -10,5 +21,8 @@
     "ru": "Outgoing Storage Bin",
     "zh": "出口储藏舱体"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 231.0,
+  "sofFactionName": "gallentebase"
 }

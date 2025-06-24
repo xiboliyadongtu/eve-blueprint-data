@@ -1,5 +1,18 @@
 {
-  "typeID": 28886,
+  "basePrice": 100.0,
+  "description": {
+    "de": "Das Transportieren von Gefangenen erfordert Loyalität und das Vertrauen der obersten Legislative des Imperiums, ist aber normalerweise einer der am wenigsten begehrten Aufträge im Universum.",
+    "en": "Transporting prisoners is a task that requires trust and loyalty from the sovereign empire's legislative arm, yet it is generally one of the least sought-after jobs in the known universe.",
+    "es": "El transporte de prisioneros es una tarea que exige confianza y lealtad al brazo legislativo del imperio soberano, pero suele ser uno de los trabajos menos deseados del universo conocido.",
+    "fr": "Le transport de prisonniers est une tâche qui requiert une loyauté indéfectible envers les institutions législatives de l'empire souverain. C'est pourtant l'un des boulots les moins recherchés de l'univers connu.",
+    "ja": "囚人の輸送は、帝国の立法機関からの信頼と彼らへの忠誠心が求められる重要な任務である。しかし同時に、宇宙で最も不人気な仕事でもある。",
+    "ko": "포로 수송대의 경우 제국 사법부에 대한 깊은 충성과 신뢰가 요구되지만 대다수의 사람들은 해당 직업을 기피합니다.",
+    "ru": "Перевозка заключенных - задание, которое требует усердия и преданности органам власти империи, но это один из наименее популярных видов работ в галактике.",
+    "zh": "运送囚犯这个任务需要得到执法当局对你的忠诚和诚信的认可，目前这项工作是宇宙中最不受欢迎的职业之一。"
+  },
+  "groupID": 283,
+  "iconID": 2545,
+  "mass": 80.0,
   "name": {
     "de": "Prisoner",
     "en": "Prisoner",
@@ -10,5 +23,7 @@
     "ru": "Prisoner",
     "zh": "囚犯"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

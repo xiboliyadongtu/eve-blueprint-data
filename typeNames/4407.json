@@ -1,5 +1,18 @@
 {
-  "typeID": 4407,
+  "basePrice": 4000.0,
+  "description": {
+    "de": "Dieses Skript kann in ein spezielles Shield Booster Modul geladen werden, um den Energiespeichereinsatz bei Aktivierung mit einer Ladung aus dem Laderaum auszutauschen.",
+    "en": "This script can be loaded into a specialized shield booster module to exchange capacitor use on activation with a charge from the cargo hold.",
+    "es": "Este script se puede cargar en un módulo de potenciador de escudo especializado para que, al activarse, use una carga de la bodega en lugar del condensador.",
+    "fr": "Cette écriture peut être chargée sur un module de booster de bouclier spécialisé pour échanger la consommation énergétique du capaciteur avec une charge de la soute de chargement à l'activation.",
+    "ja": "このスクリプトを特定のシールドブースターモジュールに搭載すると、起動時にキャパシタではなくカーゴホールド内のチャージを使用するようになる。",
+    "ko": "특수 실드 부스터 모듈에 장착이 가능하며, 활성화 시 화물실에 탑재된 차지를 소모하여 모듈의 캐패시터 사용을 대체합니다.",
+    "ru": "Этот скрипт можно загрузить в специализированный модуль накачки щитов, чтобы уменьшить расход энергии при активации за счёт грузового отсека.",
+    "zh": "该脚本可以用在一种特殊的护盾回充增量装置上，使用后可以减少电容消耗，代价是货柜舱容量减少。"
+  },
+  "groupID": 1153,
+  "iconID": 3344,
+  "mass": 1.0,
   "name": {
     "de": "Shield Booster Fuel Allocation Script",
     "en": "Shield Booster Fuel Allocation Script",
@@ -10,5 +23,7 @@
     "ru": "Shield Booster Fuel Allocation Script",
     "zh": "护盾回充增量器燃料分配脚本"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 1.0
 }

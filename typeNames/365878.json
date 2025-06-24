@@ -1,5 +1,17 @@
 {
-  "typeID": 365878,
+  "basePrice": 72000.0,
+  "description": {
+    "de": "Grundlegende Kenntnisse über die Bedienung von großen Geschützen.\n\nSchaltet die Fähigkeit zur Verwendung von großen Blaster-, Railgun- und Raketenwerfergeschützen frei. 2% Abzug auf den PG/CPU-Verbrauch von großen Geschützen pro Skillstufe.",
+    "en": "Basic understanding of large turret operation.\r\n\r\nUnlocks the ability to use large blaster, railgun and missile launcher turrets. 2% reduction to PG/CPU usage of large turrets per level.",
+    "es": "Conocimiento básico de manejo de torretas grandes.\n\nDesbloquea la capacidad de usar torretas grandes de cañones bláster, cañones gauss y lanzamisiles. -2% al coste de RA/CPU de las torretas grandes por nivel.",
+    "fr": "Notions de base en utilisation de grande tourelle.\n\nDéverrouille l'utilisation des grandes tourelles de blaster, de canon à rails et de lance-missiles. 2 % de réduction d'utilisation de PG/CPU des grandes tourelles par niveau.",
+    "it": "Comprensione base dell'utilizzo delle torrette grandi.\n\nSblocca l'abilità nell'utilizzo di torrette cannone blaster grandi, torrette cannone a rotaia e torrette missilistiche. 2% di riduzione all'utilizzo di PG/CPU delle torrette grandi per livello.",
+    "ja": "大型タレットオペレーションに関する基本的な知識。大型ブラスター、レールガンおよびミサイルランチャータレットが使用可能になる。レベル上昇ごとに大型タレットのPG/CPU使用量が2%減少する。",
+    "ko": "대형 터렛 운용에 대한 기본적인 이해를 습득합니다. <br><br>대형 블라스터, 레일건, 그리고 미사일 터렛을 운용할 수 있습니다. <br><br>매 레벨마다 대형 터렛의 PG/CPU 요구치 2% 감소",
+    "ru": "Понимание основ оперирования большими турелями.\n\nОткрывает доступ к большому бластеру, рейлганным и ракетным турелям. На 2% снижает потребление большими турелями ресурсов ЭС/ЦПУ на каждый уровень.",
+    "zh": "对大型炮台操作有基本的了解。解锁使用大型疾速炮、磁轨炮和导弹发射器炮台的能力。每升一级，大型炮台的PG/CPU用量减少 2%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Bedienung: Großes Geschütz",
     "en": "Large Turret Operation",
@@ -11,5 +23,7 @@
     "ru": "Обращение с большими турелями",
     "zh": "大型炮台操作"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

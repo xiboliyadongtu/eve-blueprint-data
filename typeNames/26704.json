@@ -1,5 +1,18 @@
 {
-  "typeID": 26704,
+  "capacity": 8850.0,
+  "description": {
+    "de": "Lagersilos sind sehr viel sicherer und haltbarer als Sicherheitscontainer, ihre kleineren Gegenstücke. Sie sind bei Angriffen auf Außenposten häufig das Hauptziel und beinhalten in der Regel Erze, aufbereitete Mineralien oder wertvolle Waren, die auf den Abtransport in das Hoheitsgebiet eines Imperiums warten.",
+    "en": "Storage silos are much more secure and durable than their Secure Container counterparts. They are usually the focus of attacks on outposts and commonly contain ore, reprocessed minerals or valuable items waiting to be transported to empire space.",
+    "es": "Los depósitos de almacenamiento son mucho más seguros y duraderos que sus equivalentes de contenedores seguros. Suelen ser el centro de los ataques en puestos avanzados y normalmente guardan menas, minerales reprocesados o valiosos objetos que se transportarán al espacio imperial.",
+    "fr": "Les silos de stockage sont beaucoup plus sûrs et plus résistants que les conteneurs sécurisés. Ils sont habituellement l'objectif visé lors d'attaques d'avant-postes et contiennent en général du minerai brut, retraité ou des objets de valeur en attente d'être acheminés vers l'espace de l'empire.",
+    "ja": "貯蔵サイロは、相当するセキュアコンテナよりもはるかに安全で耐久性がある。アウトポストの攻撃目標とされることが多く、帝国に輸送するための鉱石や再処理鉱などの貴重品が保管されている。",
+    "ko": "안전 컨테이너에 비해 더 안전하고 내구성이 강해보이는 저장고입니다. 주요 국가 권역 내 각지로 수송하기 위한 광석, 미네랄 또는 귀중품이 보관되어 있어 전초기지가 습격 당하면 첫 번째 목표가 되곤 합니다.",
+    "ru": "Хранилища намного надёжнее и прочнее, нежели защищенные контейнеры. Обычно именно они являются целью атак на форпосты; как правило, они содержат руду, минералы, полученные в результате переработки, или ценности, которые необходимо транспортировать в космос метрополии.",
+    "zh": "储藏舱比安全货柜安全、耐用得多。哨站遭受袭击时，它们通常是主要目标，其中一般装有矿石、提炼矿物或者一些准备运往帝国区的贵重物品。"
+  },
+  "graphicID": 2301,
+  "groupID": 319,
+  "mass": 1000000.0,
   "name": {
     "de": "Storage Facility - radioactive stuff and small arms",
     "en": "Storage Facility - radioactive stuff and small arms",
@@ -10,5 +23,9 @@
     "ru": "Storage Facility - radioactive stuff and small arms",
     "zh": "储藏设施—放射性物资及小型武器"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 700.0,
+  "sofFactionName": "genericmetal",
   "volume": 1150.0
 }

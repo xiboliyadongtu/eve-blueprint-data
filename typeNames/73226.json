@@ -1,5 +1,18 @@
 {
-  "typeID": 73226,
+  "description": {
+    "de": "Propaganda-Sendeanlagen sind stationierbare Strukturen, die die Vorteilspunkte in dem System, in dem sie stationiert werden, erhöhen können. Um Vorteilspunkte zu erhalten, müssen sie für einen bestimmten Zeitraum verteidigt werden. Sie können Propaganda-Sendeanlagen im LP-Shop Ihrer Miliz kaufen.",
+    "en": "Propaganda Broadcast Structures are deployable structures that increase advantage points in the system they are deployed in. They must be defended for a period of time in order to gain advantage points. You can buy Propaganda Broadcast Structures from your militia's LP Store.",
+    "es": "Las estructuras de transmisión de propaganda son estructuras desplegables que incrementan los puntos de ventaja en el sistema en el que se despliegan. Es necesario defenderlas durante determinado tiempo antes de que empiecen a surtir efecto. Puedes comprar estructuras de transmisión de propaganda en la tienda de PL de tu milicia.",
+    "fr": "Propaganda Broadcast Structures are deployable structures that increase advantage points in the system they are deployed in. They must be defended for a period of time in order to gain advantage points. You can buy Propaganda Broadcast Structures from your militia's LP Store.",
+    "ja": "プロパガンダ放送ストラクチャは配置可能なストラクチャであり、配置したシステムでアドバンテージポイントを増加させる効果を持つ。アドバンテージポイント増加は一定時間防衛した後で発生する。プロパガンダ放送ストラクチャは義勇兵のロイヤルティポイントストアで購入できる。",
+    "ko": "선전용 방송시설은 전개형 구조물로, 전개되면 해당 성계에서 소속 팩션의 승기 포인트를 증가시킵니다. 전개 후 일정 시간 동안 구조물을 보호하면 승기 포인트 증가 효과가 발동됩니다.소속 밀리샤의 LP 스토어에서 선전용 방송시설을 구매할 수 있습니다.",
+    "ru": "Сооружения для передачи пропаганды — это полевые сооружения, которые дают вам очки преимущества в системе развёртывания. Чтобы получить очки преимущества, их необходимо защищать в течение некоторого времени. Приобрести сооружения для передачи пропаганды можно в наградном отделе вашего ополчения.",
+    "zh": "广播宣传建筑可以部署在星系中，增加己方的优势点数。部署后你必须保护它一段时间，直到它开始获取优势点数。你可以在自己的国民卫队忠诚点商店中兑换广播宣传建筑。"
+  },
+  "graphicID": 25667,
+  "groupID": 4477,
+  "marketGroupID": 3450,
+  "mass": 10000.0,
   "name": {
     "de": "Minmatar-Propaganda-Sendeanlage",
     "en": "Minmatar Propaganda Broadcast Structure",
@@ -10,5 +23,10 @@
     "ru": "Минматарское сооружение для передачи пропаганды",
     "zh": "米玛塔尔广播宣传建筑"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 100.0,
+  "sofFactionName": "minmatarnavy",
+  "soundID": 20803,
   "volume": 100.0
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 354926,
+  "basePrice": 4500.0,
+  "description": {
+    "de": "Dieses Modul steigert im aktivierten Zustand vorübergehend die Geschwindigkeit von Bodenfahrzeugen.\n\nHINWEIS: Es kann immer nur ein aktiver Einspritzer ausgerüstet werden.\nFür dieses Modul gelten Stapelabzüge; nach dem ersten Modul nimmt die Wirksamkeit jedes weiteren ab, sofern es dieselben Attribute beeinflusst.",
+    "en": "Once activated, this module provides a temporary speed boost to ground vehicles.\r\n\r\nNOTE: Only one active fuel injector can be fitted at a time.\r\nStacking penalties apply to this module; the effectiveness of each additional module (after the first) that alters the same attributes will be reduced.",
+    "es": "Una vez activado, este módulo potencia temporalmente la velocidad temporal de los vehículos terrestres.\n\nNOTA: Solo puedes equipar un inyector de combustible a la vez.\nSe aplican penalizaciones por acumulación a este módulo. Se reduce la efectividad de cada módulo adicional (después del primero) que altere los mismos atributos.",
+    "fr": "Une fois activé, ce module fournit un boost de vitesse temporaire aux véhicules terrestres.\n\nREMARQUE : Il est impossible de monter plus d'un injecteur de carburant à la fois.\nDes pénalités d'accumulation s'appliquent à ce module ; au-delà du premier module, l'efficacité de chaque module supplémentaire qui modifie les mêmes attributs sera réduite.",
+    "it": "Una volta attivato, questo modulo fornisce un'accelerazione temporanea ai veicoli terrestri.\n\nNOTA: È possibile assemblare un solo iniettore attivo di combustibile alla volta.\nA questo modulo si applicano le penalità da accumulo; l'efficacia di ogni modulo aggiuntivo (dopo il primo) che modifica gli stessi attributi viene ridotta.",
+    "ja": "一度起動すると、このモジュールは地上車両の速度を一時的に増加させる。注：複数のアクティブ燃料インジェクターを同時に装備することはできない。注：このモジュールはスタッキングペナルティの対象となり、同一のモジュールを複数取り付けると、一つ追加するごとにモジュールの効果が低下する。",
+    "ko": "모듈 활성화 시 일시적으로 지상 차량의 속도가 증가합니다. <br><br>참고: 연료 분사기는 한 개만 장착할 수 있습니다. <br>중첩 페널티가 적용되는 모듈입니다. 동일한 효과를 지닌 모듈을 한 개 이상 장착할 경우 추가 모듈의 효율성이 감소합니다.",
+    "ru": "При активации данный модуль позволяет временно увеличить скорость наземному транспорту.\n\nПРИМЕЧАНИЕ: Только один активный топливный инжектор может быть установлен за один раз.\nДля этого модуля действует система нарастающих штрафов; эффективность воздействия каждого последующего модуля (после первого), которая изменяет одинаковые характеристики, снижается.",
+    "zh": "启用后，该装备会为地面载具提供临时的速度加成。注：一艘舰船只能同时装配一个主动式燃料喷射器。此装备有堆叠惩罚，额外加装相同属性的装备的效果会降低。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Einfacher Einspritzer",
     "en": "Basic Fuel Injector",
@@ -11,5 +23,7 @@
     "ru": "Базовый топливный инжектор",
     "zh": "基础型燃料喷射器"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

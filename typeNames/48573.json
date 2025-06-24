@@ -1,5 +1,18 @@
 {
-  "typeID": 48573,
+  "description": {
+    "de": "Diese Sleeper-Drohne ähnelt in ihrem Design den uralten Schiffen von der Art der Schlachtschiffe, die in Anoikis als Wachdrohnen agieren. Gewisse Unterschiede im Detail sowie die fehlende Narbung bei Sleeper-Drohnen dieser Größe weisen darauf hin, dass sie zu einer Welle von Drohnen gehört, die erst vor Kurzem gefertigt und in Betrieb genommen wurden. Diese beeindruckende Sleeper-Drohne ist Teil einer Truppe, die mit Seeker-Spähergruppen zusammenarbeitet, und ist sehr leistungsstark.",
+    "en": "The design of this Sleeper drone is similar to ancient battleship-grade vessels that operate as guardian drones in Anoikis. Certain differences of detail, and lack of the scarring typical on Sleeper drones of this size, indicates it is part of a wave of drones that have only very recently been built and launched.\r\n\r\nThis formidable Sleeper drone is part of a force operating with Seeker scouting groups and is very powerful.",
+    "es": "El diseño de este dron sleeper recuerda a los antiguos acorazados que sirven de drones guardianes en Anoikis. La diferencia en los detalles y la ausencia de las marcas habituales en drones sleepers de este tamaño indican que forma parte de una tanda construida y lanzada muy recientemente.\n\nEste formidable dron sleeper forma parte de una fuerza que opera con grupos de exploración seekers y es muy potente.",
+    "fr": "Le design de ce drone sleeper est similaire à celui des anciens vaisseaux de grade cuirassé qui opèrent comme drones gardiens à Anoikis. Certaines différences dans les détails et l'absence des balafres typiques sur des drones sleeper de cette taille indiquent qu'il fait partie d'une vague de drones qui ont été construits et lancés récemment. Ce formidable drone sleeper extrêmement puissant fait partie d'une force opérant de concert avec des groupes d'éclaireurs Seeker.",
+    "ja": "このスリーパードローンの設計は、アノイキスの防衛ドローンが動かす古代の戦艦と似通っている。各所の相違点やこの大きさのスリーパードローンにありがちな傷が無いことから、このドローンが属する群れは最近になって建造・稼働開始したものと思われる。\r\n\nこの強大なスリーパードローンはシーカーの偵察部隊と共に行動する戦力の一部を担い、非常にパワフルだ。",
+    "ko": "슬리퍼 드론의 설계는 아노이키스의 고대 배틀쉽과 상당부분 유사한 면을 띠고 있습니다. 그러나 세부적인 부분에서의 차이와 동급 슬리퍼 드론에 비해 파손 부위가 적은 것으로 미루어보아 비교적 최근에 배치된 것으로 추측됩니다. <br><br>강력한 파괴력을 지닌 드론으로 시커 무리와 함께 발견되고 있습니다.",
+    "ru": "Конструкция этого беспилотника Спящих имеет ряд сходств с древними боевыми беспилотными линкорами, стоявшими на страже Аноикиса, однако отсутствие повреждений, характерных для кораблей Спящих такого размера, и некоторые отличия в конструкции указывают на то, что это судно действует в составе волны дронов, которые были построены и запущены совсем недавно. Этот грозный беспилотник Спящих входит в состав разведывательных отрядов Искателей и представляет большую опасность.",
+    "zh": "这个冬眠者无人机的设计与古代用于保卫阿诺基斯的战列舰级舰船的设计类似。某些细节的差异，以及缺少在这种体积的冬眠者无人机上常见的伤痕，都表明这是新近建造并使用的一批无人机的的一份子。\n\n\n\n这个强大的冬眠者无人机是探寻者侦察队的一员。"
+  },
+  "factionID": 500021,
+  "graphicID": 3516,
+  "groupID": 1768,
+  "mass": 2000000.0,
   "name": {
     "de": "Seeker Safeguard",
     "en": "Seeker Safeguard",
@@ -10,5 +23,10 @@
     "ru": "Seeker Safeguard",
     "zh": "探寻者 守卫"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 64,
+  "radius": 50.0,
+  "sofFactionName": "sleeperbase",
+  "soundID": 12
 }

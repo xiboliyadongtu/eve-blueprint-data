@@ -1,5 +1,20 @@
 {
-  "typeID": 80025,
+  "basePrice": 150.0,
+  "description": {
+    "de": "Ein Gerät unbekannter Bauweise, das einen einzelnen Raum-Zeit-Faden enthält, der in einem unbekannten Gebiet eingefangen wurde. In Kombination mit den passenden Materialien könnte diese Komponente die Basis für ein Internet-Filament bilden, das mit einer korrespondierenden Tasche in der Raumverwerfung verbunden ist.",
+    "en": "A device of unknown construction containing a single thread of space-time captured inside an unknown site. In combination with the correct materials this component could become the basis of an internet filament connecting to a correlating deadspace pocket.",
+    "es": "Dispositivo de construcción desconocida que contiene un único hilo de espacio-tiempo capturado en una zona desconocida. Combinado con los materiales adecuados, este componente podría servir como base para un filamento de internet conectado a una burbuja del espacio muerto.",
+    "fr": "Un dispositif de construction inconnue renfermant un unique fil d'espace-temps capturé au sein d'un site non identifié. Associé aux matériaux appropriés, ce composant pourrait constituer la base d'un filament internet se connectant à une poche Deadspace correspondante.",
+    "ja": "正体不明の構造物で構成されたデバイスで、中には未知のサイトの内に捉えられた1本の時空ひもが入っている。正しい資源と組み合わせることで、対応するデッドスペースポケットへの接続フィラメントの基礎パーツにすることができる。",
+    "ko": "시공간 데이터가 내장된 정체불명의 장치로 미지의 사이트에서 확보했습니다. 특정한 재료와 조합해 데드스페이스 포켓과 연결된 필라멘트를 제작할 수 있습니다.",
+    "ru": "В этом устройстве необычной конструкции заключён пространственно-временной поток из неизвестного пространства. Наряду с другими материалами, этот компонент используется для создания прыжковых нитей, переносящих корабли на участок Мёртвой бездны определённого типа.",
+    "zh": "这个设备构造不明，其中含有捕获自未知地点的单独时空线程。当它与合适的材料结合使用时，可以作为连接相关空间层的网络纤维的基础组件。"
+  },
+  "groupID": 4716,
+  "iconID": 21983,
+  "marketGroupID": 2013,
+  "mass": 1.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Isolated Dimensional Thread",
     "en": "Isolated Dimensional Thread",
@@ -10,5 +25,7 @@
     "ru": "Isolated Dimensional Thread",
     "zh": "孤立空间线程"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.005
 }

@@ -1,5 +1,20 @@
 {
-  "typeID": 62030,
+  "basePrice": 325000.0,
+  "description": {
+    "de": "Die Sensoren zeigen an, dass dieses Gerät eine gelenkte Waffe mit einem Sprengkopf ist, die Energieneutralisiererbomben ähnelt. Die Waffe nutzt offenbar die biomechanische Signaturtechnologie, der seltsamen Schiffe und Kampfeinheiten, die wir in der Raum-Zeit-Tasche angetroffen haben.",
+    "en": "Sensor readings indicate this device is a guided weapon carrying a warhead very similar in its effects to energy neutralizer bombs. The weapon appears to use the signature biomechanical technology of the strange ships and combat units encountered in this spacetime pocket.",
+    "es": "Las lecturas de los sensores indican que este dispositivo es un arma guiada que lleva una ojiva con unos efectos muy similares a los de las bombas neutralizadoras energéticas. Parece que emplea la tecnología biomecánica característica de las extrañas naves y unidades de combate que se encuentran en esta burbuja espacio-temporal.",
+    "fr": "Les détecteurs indiquent que cet appareil est une arme guidée emportant une ogive à l'effet très similaire aux bombes à neutralisation d'énergie. Cette arme semble utiliser la technologie biomécanique caractéristique des étranges vaisseaux et unités de combat que l'on rencontre dans cette poche spatiotemporelle.",
+    "ja": "センサーのスキャン結果によると、このデバイスは誘導兵器で、エネルギーニュートラライザーボムに非常によく似た効果を発揮する。この時空ポケットで遭遇する奇妙な艦船や戦闘ユニットに特徴的なバイオメカニカル技術を使っているようだ。",
+    "ko": "해당 장치는 일종의 유도 무기로, 탄두 부분은 에너지 뉴트럴라이저와 비슷한 역할을 합니다. 시공간 균열에서 마주친 정체불명의 함선 및 전투 유닛과 같은 종류의 생체기계 기술이 사용된 것으로 추측됩니다.",
+    "ru": "Согласно показаниям сенсоров, это устройство является управляемым снарядом с боеголовкой, эффект от действия которого очень похож на действие бомб энергонейтрализатора. В этом оружии применена фирменная биомеханическая технология неизвестных кораблей и боевых единиц, встречающихся в этом участке пространства-времени.",
+    "zh": "感应器读数显示这个装置是一种制导武器，搭载了类似于能量中和炸弹的弹头。它似乎使用了在这个时空层中遭遇的古怪舰船和战斗单位所使用的信号生化技术。"
+  },
+  "graphicID": 21311,
+  "groupID": 1548,
+  "iconID": 21572,
+  "mass": 2000.0,
+  "metaGroupID": 54,
   "name": {
     "de": "Biomechanoid Guided Neutralizer Bomb",
     "en": "Biomechanoid Guided Neutralizer Bomb",
@@ -10,5 +25,9 @@
     "ru": "Biomechanoid Guided Neutralizer Bomb",
     "zh": "生物机械制导中和炸弹"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 300.0,
+  "sofFactionName": "upwell",
   "volume": 100.0
 }

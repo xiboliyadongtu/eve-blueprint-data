@@ -1,5 +1,17 @@
 {
-  "typeID": 17979,
+  "description": {
+    "de": "Dieser Schildgenerator unterbricht das Beschleunigungstor durch einen codierten Datenstrom. Der Generator enthält den Code, der erforderlich ist, um das Tor in den Hauptgefängnisblock zu benutzen.",
+    "en": "This shield generator is disrupting the acceleration gate through an encoded datastream. The generator contains the cypher required to ride the gate into the main prison block.",
+    "es": "Este generador de escudo inutiliza el portal de aceleración mediante un flujo de datos codificado. Contiene la clave necesaria para que el portal te lleve al bloque principal de la prisión.",
+    "fr": "Ce générateur de bouclier perturbe le portail d'accélération grâce à un flux de données codées. Le générateur contient le code secret requis pour utiliser le portail et déboucher sur le bâtiment principal de la prison.",
+    "ja": "暗号化されたデータストリームでアクセラレーションゲートを妨害するシールドジェネレータ。ゲートに乗ってメインの刑務所ブロックに入るために必要となる暗号は、このジェネレータに格納されている。",
+    "ko": "암호화된 데이터스트림으로 엑셀레이션 게이트를 교란하고 있습니다. 교도소 본관으로 향하는 게이트의 잠금을 해제하는 암호가 이 실드 생성기에 보관되어있습니다.",
+    "ru": "Этот генератор щита нарушает работу врат ускорения, передавая кодированный поток информации. Генератор содержит шифр, необходимый для прохождения сквозь врата в главный тюремный блок.",
+    "zh": "这个护盾发生器通过一股加密的数据流阻扰着加速轨道。发生器内含有通过加速轨道到主监狱区必需的密码。"
+  },
+  "graphicID": 2380,
+  "groupID": 494,
+  "mass": 1.0,
   "name": {
     "de": "Scramble Wave Generator",
     "en": "Scramble Wave Generator",
@@ -10,5 +22,10 @@
     "ru": "Scramble Wave Generator",
     "zh": "飞行阻停微波发生器"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 1263.0,
+  "sofFactionName": "genericmetal",
+  "soundID": 20195,
   "volume": 1.0
 }

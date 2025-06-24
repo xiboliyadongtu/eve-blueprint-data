@@ -1,5 +1,7 @@
 {
-  "typeID": 56967,
+  "graphicID": 1217,
+  "groupID": 920,
+  "mass": 1.0,
   "name": {
     "de": "Strong Volatile Ice Storm",
     "en": "Strong Volatile Ice Storm",
@@ -9,6 +11,48 @@
     "ko": "강화된 불안정한 얼음 폭풍",
     "ru": "Strong Volatile Ice Storm",
     "zh": "强不稳定冰风暴"
+  },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "genericbase",
+  "traits": {
+    "iconID": 24577,
+    "miscBonuses": [
+      {
+        "bonus": 10.0,
+        "bonusText": {
+          "de": "Erhöhung der Thermalresistenz des Schiffs",
+          "en": "increase in ship thermal resistances",
+          "es": "de aumento de las resistencias térmicas de la nave.",
+          "fr": "d'augmentation des résistances thermiques du vaisseau",
+          "ja": "艦船サーマルレジスタンスが増加",
+          "ko": "열 저항력 증가",
+          "ru": "увеличение сопротивляемости корабля термальному урону",
+          "zh": "舰船热能抗性提升’"
+        },
+        "importance": 2,
+        "isPositive": true,
+        "unitID": 105
+      },
+      {
+        "bonus": 25.0,
+        "bonusText": {
+          "de": "reduzierter Hitzeschaden durch Überlastung von Modulen",
+          "en": "reduced heat damage from overloading modules",
+          "es": "de reducción del daño por calor al sobrecargar los módulos.",
+          "fr": "de réduction des dégâts thermiques provoqués par la surcharge des modules",
+          "ja": "オーバーロードしたモジュールの熱ダメージが減少",
+          "ko": "모듈 과부하 피해 감소",
+          "ru": "уменьшение теплового урона от перегрузки модулей",
+          "zh": "装备超载受到的过热伤害减少"
+        },
+        "importance": 1,
+        "isPositive": true,
+        "unitID": 105
+      }
+    ],
+    "roleBonuses": [],
+    "types": {}
   },
   "volume": 20.0
 }

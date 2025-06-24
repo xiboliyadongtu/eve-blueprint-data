@@ -1,5 +1,18 @@
 {
-  "typeID": 27028,
+  "basePrice": 1000.0,
+  "description": {
+    "de": "Dieses Erz ist nur für Bergbauoperationen von Zivilisten oder Anfängerpiloten interessant.",
+    "en": "This ore is of interest only to civilian and rookie pilot mining operations.",
+    "es": "Esta mena solo es de interés para las operaciones de minería de pilotos civiles y novatos.",
+    "fr": "Minerai brut utilisé uniquement par les civils et les pilotes débutants lors d'opérations d'extraction.",
+    "ja": "興味を持つのは、一般の人々や新米パイロットくらいだろう…",
+    "ko": "초보 파일럿이나 민간인들만 관심이 있을 정도로 흔한 광물입니다.",
+    "ru": "Эта руда интересна лишь гражданским пилотам и новичкам рудокопам.",
+    "zh": "只有平民和初入采矿业的新手飞行员才会对这种矿石感兴趣。"
+  },
+  "groupID": 462,
+  "iconID": 232,
+  "mass": 4000.0,
   "name": {
     "de": "Chondrite",
     "en": "Chondrite",
@@ -10,5 +23,7 @@
     "ru": "Chondrite",
     "zh": "球粒状陨石"
   },
+  "portionSize": 333,
+  "published": false,
   "volume": 0.1
 }

@@ -1,5 +1,19 @@
 {
-  "typeID": 17894,
+  "basePrice": 10000.0,
+  "description": {
+    "de": "Ein Gerät, mit dem man gespeicherte Daten oder Übertragungssignale erfassen kann.",
+    "en": "A device for sensing recorded data or transmission signals.",
+    "es": "Dispositivo para detectar datos grabados o señales de transmisión.",
+    "fr": "Dispositif destiné à capter des données enregistrées ou des signaux de transmission.",
+    "ja": "音声データや通信シグナルを察知するデバイス。",
+    "ko": "데이터 및 신호를 수신하는 장치입니다.",
+    "ru": "Устройство улавливания записанных данных сигналов передачи.",
+    "zh": "感知记录数据或传输信号的装置。"
+  },
+  "groupID": 314,
+  "iconID": 1364,
+  "marketGroupID": 20,
+  "mass": 2500.0,
   "name": {
     "de": "High-Tech Scanner",
     "en": "High-Tech Scanner",
@@ -10,5 +24,8 @@
     "ru": "High-Tech Scanner",
     "zh": "高科技扫描器"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

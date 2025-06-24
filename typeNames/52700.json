@@ -1,5 +1,18 @@
 {
-  "typeID": 52700,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Dieser Triglavia-Untermast bildet ein Feld um sich herum, das innerhalb der Wirkungsreichweite die Stärke von Waffen erhöht. Das Gerät scheint dadurch zu funktionieren, dass es Energie in die Potenzial-Kraft-Umwandlung beim Aufprall der verschiedenen Geschosse auf ihre Ziele einspeist. Das von dem System verwendete, fein abgestimmte und selektiv reaktive Feld benötigt eine beachtliche Rechenleistung, ist aber eine effiziente Lösung für das ansonsten unüberwindbare Problem, die vielen verschiedenen Waffensysteme zu verfolgen und vorherzuberechnen. Die Wirkung scheint bis zu 5000 m von seiner zentralen Struktur zu reichen.",
+    "en": "This Triglavian subpylon emits a field that enhances the power of weapons within its area of effect. The device appears to work by feeding energy into the potential-force conversion events taking place when various weapons impact their targets. The finely-tuned and selectively reactive field the system uses relies on considerable processing power but is an efficient solution to an otherwise insuperable problem of tracking and anticipation of many and diverse weapons systems.\r\n\r\nIt appears to project this area of effect up to 5000m from its central structure.",
+    "es": "Este subpilón triglaviano emite un campo que mejora la potencia de las armas dentro de su radio de acción. Parece que el dispositivo funciona enviando energía a los eventos de conversión de fuerza potencial que se producen cuando varias armas impactan en sus objetivos. El campo utilizado por el sistema, selectivamente reactivo y calibrado con exactitud, consume mucha potencia de procesamiento; sin embargo, es una solución eficaz al de otro modo irresoluble problema de rastreo y anticipación de gran parte de los sistemas de armamento.\n\nParece proyectar este radio de acción a una distancia de hasta 5000 m de su estructura central.",
+    "fr": "Ce sous-pylône triglavian émet un champ qui augmente la puissance des armes au sein de sa zone d'effet. Le dispositif semble fonctionner en alimentant en énergie les événements de conversion de la force potentielle, qui surviennent lorsque diverses armes touchent leurs cibles. Le champ réglé avec précision et réagissant de manière sélective utilisé par le système repose sur une puissance de traitement considérable, mais représente une solution efficace à un problème autrement insurmontable de suivi et d'anticipation de nombreux systèmes d'armes divers. Il semble projeter un effet de zone d'un rayon de 5000 m depuis sa structure centrale.",
+    "ja": "このトリグラビアン・サブパイロンは、効果範囲内の武器のパワーを強化するフィールドを放出する。様々な武器が標的に衝突した時に起こる、潜在的な力の変換イベントにエネルギーを供給する仕組みのようだ。システムが使用しているのは精密に調整された選択的反応フィールドで、処理能力にかなり負担がかかっている。しかしこれが効率的な解決策なのだろう。そうでなければ、様々な武器システムを大量に追跡・予測することなど到底不可能である。\r\n\n効果領域は、中央ストラクチャから最長5000mまでと予測されているようだ。",
+    "ko": "트리글라비안 서브파일론은 무기의 위력을 증폭시킬 수 있는 에너지 필드를 생성합니다. 공격이 표적에 명중할 경우 물리력 변환이 발생하며 피해 증폭을 일으키는 특수 에너지 필드를 방출합니다. 해당 시스템이 사용하는 반응형 에너지 필드는 다양한 무기 체계를 추적하고 예측하는 데 효율적이나 운용을 위해서는 상당한 수준의 전력이 요구됩니다.<br><br>해당 장치는 중심부로부터 5000m 범위의 필드를 방출합니다.",
+    "ru": "Этот малый триглавский пилон излучает поле, усиливающее орудия в зоне его действия. Судя по всему, это устройство направляет энергию в точки, где под воздействием корабельных орудий происходит преобразование потенциальной силы. Для создания высокоточного поля избирательного действия система должна обладать огромными вычислительными мощностями, но всё же это весьма эффективное решение непреодолимой иными способами проблемы одновременного отслеживания множества разных орудий. Судя по всему, эффективный радиус этого поля составляет около 5000 метров, а проецирует его центральное сооружение.",
+    "zh": "这座三神裔子塔发射出的力场能增强其作用范围内所有武器的威力。这个设备似乎是在武器对目标造成影响时通过将能量注入潜能转化方式来实现其作用的。这个系统使用的经过精密调教而且可选择性进行反应的力场依赖于相当强大的处理能力，但确实是一个解决各种不同武器系统之间的跟踪和预判难题的有效方法。\n\n\n\n它的效果范围似乎为从中心建筑向外5000m。"
+  },
+  "graphicID": 24516,
+  "groupID": 319,
+  "mass": 1000.0,
   "name": {
     "de": "Weapon Overcharge Subpylon",
     "en": "Weapon Overcharge Subpylon",
@@ -10,5 +23,9 @@
     "ru": "Weapon Overcharge Subpylon",
     "zh": "武器超载子塔"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 371.0,
+  "sofFactionName": "triglavianbase",
   "volume": 1000.0
 }

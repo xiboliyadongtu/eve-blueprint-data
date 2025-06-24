@@ -1,5 +1,16 @@
 {
-  "typeID": 11014,
+  "description": {
+    "de": "Diese fortschrittliche Gefechts-KI (künstliche Intelligenz) ermöglicht es einem Kommandeur, die komplexen Datenströme von taktischen Flottennetzwerken besser zu überblicken. Das ermöglicht ihm die gleichzeitige Verwendung mehrerer solcher Module. \n\nErmöglicht die Verwendung eines zusätzlichen taktischen Netzwerks.",
+    "en": "This sophisticated battle AI allows a commander to more efficiently oversee the complex data streams of a fleet warfare link, thus allowing him to utilize multiple such systems.\r\n\r\nAllows operation of one extra Warfare Link.",
+    "es": "Esta sofisticada IA de combate permite que un comandante supervise de manera más eficiente los flujos de datos complejos de un enlace de guerra de flotas, lo que le permite utilizar múltiples sistemas de este tipo.\n\nPermite el manejo de un enlace de guerra adicional.",
+    "fr": "Cette IA de combat sophistiquée permet à un commandant de superviser plus efficacement le flux complexe des données d'une interface tactique de flotte, et ainsi d'utiliser plusieurs systèmes simultanément.\n\nElle permet l'utilisation d'une interface tactique supplémentaire.",
+    "ja": "フリート艦隊支援の複雑なデータフローを効率的に管理し、機能の異なる艦隊支援を同時に操作することが可能となる。\n\n装備することにより、同時に操作できる艦隊支援システムを1つ追加できる。",
+    "ko": "전투용 인공지능으로 함대 링크에 대한 데이터 스트림 효율성을 증가시킵니다. <br><br>커맨드 버스트 모듈을 추가로 장착할 수 있습니다.",
+    "ru": "Передовой вычислитель флотового взаимодействия упрощает контроль командира над потоками данных, исходящих от систем управления боем, позволяя одновременное использование нескольких таких систем.\n\nКаждый установленный вычислитель флотового взаимодействия обеспечивает единовременное функционирование одной дополнительной системы управления боем.",
+    "zh": "这种精密的战争人工智能系统使指挥官可以更有效地监控舰队作战网络的复杂数据流，从而可以利用多个这样的系统。该处理器允许多用一个作战网络。"
+  },
+  "groupID": 316,
+  "iconID": 1444,
   "name": {
     "de": "Command Processor I",
     "en": "Command Processor I",
@@ -10,5 +21,7 @@
     "ru": "Command Processor I",
     "zh": "指挥处理器 I"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 5.0
 }

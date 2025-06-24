@@ -1,5 +1,22 @@
 {
-  "typeID": 85010,
+  "basePrice": 109744.0,
+  "capacity": 0.3,
+  "description": {
+    "de": "Die 200mm ist eine mächtige Maschinenkanone, die die meisten leicht-gepanzerten Fregatten ohne Probleme hinwegfegen kann. Sie muss mit einer der folgenden Projektil-Munitionssorten (regulär oder fortgeschritten) geladen werden: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, Titanium Sabot, Barrage oder Hail.",
+    "en": "The 200mm is a powerful autocannon that can smash apart most lightly armored frigates with ease. \r\n\r\nMust be loaded with any of the following regular and advanced projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, Titanium Sabot, Barrage, Hail.",
+    "es": "El potente cañón automático de 200 mm destroza fácilmente la mayoría de fragatas con blindaje ligero. \r\n\r\nDebe cargarse con cualquiera de los siguientes tipos de munición de proyectiles normales o avanzados: plomo carbonado, uranio empobrecido, EMP, fusión, nuclear, plasma fásico, protón, perforante de titanio, Barrage y Hail.",
+    "fr": "Ce canon automatique puissant de 200 mm peut facilement venir à bout de la plupart des frégates légèrement blindées. Vous devez y charger les types de munition de projectile suivants : plomb trempé, uranium appauvri, IEM, fusion, nucléaire, plasma à phase, proton, sabot de titane, barrage ou hail.",
+    "ja": "200mmオートキャノンは強力で、ほとんどの軽装フリゲートをいとも簡単に粉砕する。 \r\n\r\n装填可能な標準型または高性能プロジェクタイル弾のタイプ：炭化鉛弾、劣化ウラン弾、EMP弾、フュージョン弾、ニュークリア弾、フェーズプラズマ弾、プロトン弾、チタン製サボット弾、バラージ弾、ヘイル弾。",
+    "ko": "200mm 기관포는 장갑 내구도가 낮은 프리깃을 순식간에 조각 낼 수 있습니다.<br><br>사용 및 장착 가능한 발사체: 탄화납, 열화 우라늄, EMP, 융합, 원자력, 위상 플라즈마, 양성자, 티타늄 철갑탄, 버라지, 헤일.",
+    "ru": "200 мм — мощная автопушка, которая с лёгкостью разносит на куски большинство фрегатов с лёгкой бронёй. В неё можно заряжать следующие стандартные и улучшенные баллистические боеприпасы: снаряды из углеродистого свинца, обеднённого урана и фазированной плазмы, электромагнитные, протонные, ядерные и термоядерные снаряды, титановые снаряды с поддоном, залповые снаряды и снаряды шквального огня.",
+    "zh": "这种200mm自动加农炮威力强大，可以轻松击毁大部分装甲薄弱的护卫舰。必须装填以下类型的常规或高级射弹弹药：碳铅弹、贫铀弹、电磁脉冲弹、聚变弹、核芯弹、定相等离子弹、质子弹、钛合金萨博弹、“雷暴”、“冰雹”。"
+  },
+  "graphicID": 11306,
+  "groupID": 55,
+  "iconID": 387,
+  "marketGroupID": 574,
+  "mass": 500.0,
+  "metaGroupID": 5,
   "name": {
     "de": "Ramaku's Modified 200mm AutoCannon",
     "en": "Ramaku's Modified 200mm AutoCannon",
@@ -10,5 +27,10 @@
     "ru": "Ramaku's Modified 200mm AutoCannon",
     "zh": "拉玛库改良型200mm自动加农炮"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 20.0,
+  "sofFactionName": "angelbase",
+  "variationParentTypeID": 486,
   "volume": 5.0
 }

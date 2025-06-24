@@ -1,5 +1,18 @@
 {
-  "typeID": 32276,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Diese kleinen Niederlassungen können Hunderte von Büroangestellten aufnehmen und werden normalerweise als kostengünstige Übergangslösung für große Corporations genutzt, um ihre Arbeitskräfte zwischen Stationen pendeln zu lassen.",
+    "en": "These small compounds can house hundreds of office workers, and are typically used as a cost-efficient temporary solution for large corporations moving their workforce between stations.",
+    "es": "Estos pequeños complejos pueden albergar a cientos de oficinistas y suelen utilizarse como una solución temporal y económica para corporaciones grandes que trasladan su plantilla entre estaciones.",
+    "fr": "Ces petits complexes peuvent accueillir des centaines d'employés de bureau, et représentent généralement une solution temporaire rentable pour les grandes corporations souhaitant transférer leur main-d'œuvre entre les stations.",
+    "ja": "数百人のオフィスワーカーを収容できる。通常は、巨大コーポレーションの作業員がコスト効率良くステーション間を移動するための一時的な解決策として使用される。",
+    "ko": "수백 명의 직원을 수용할 수 있는 이 작은 시설은 대형 코퍼레이션들이 노동력을 다른 정거장으로 옮기는데 사용합니다.",
+    "ru": "Эти небольшие сооружения, способные вместить сотни офисных работников, как правило используются крупными корпорациями в качестве экономичных временных решений при перемещении рабочей силы между станциями.",
+    "zh": "这些小型的建筑内可以安置上百个办公室职员，通常被大型集团用做在搬迁时侯的廉价临时办公场所。"
+  },
+  "graphicID": 2515,
+  "groupID": 306,
+  "mass": 100000.0,
   "name": {
     "de": "Office Facility",
     "en": "Office Facility",
@@ -10,5 +23,9 @@
     "ru": "Office Facility",
     "zh": "办公设施"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericliving",
   "volume": 27500.0
 }

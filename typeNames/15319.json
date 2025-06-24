@@ -1,5 +1,18 @@
 {
-  "typeID": 15319,
+  "basePrice": 100.0,
+  "description": {
+    "de": "Dieser Container könnte persönliche Gegenstände oder Besitztümer enthalten, die nur für den Empfänger bestimmt sind. Der Container ist eher groß und sperrig.",
+    "en": "This box may contain personal items or commodities intended only for the delivery's recipient.  This container is rather large and cumbersome.",
+    "es": "Este contenedor puede incluir objetos personales o productos dirigidos únicamente al destinatario. Es bastante grande y engorroso.",
+    "fr": "Cette boîte contient des objets personnels ou des marchandises destinées uniquement à son destinataire.  Ce conteneur est plutôt grand et lourd.",
+    "ja": "私物を入れ、受取人を指定して届けるための箱。大きいので、やや扱いにくい。",
+    "ko": "개인적인 소지품이 담긴 소포입니다. 상당히 크고 무겁습니다.",
+    "ru": "Этот ящик может содержать личные предметы и товары, предназначенные для получателя. Этот контейнер довольно большой и тяжелый.",
+    "zh": "这个盒子里可能放置了本应仅供收件人使用的货物。这个盒子非常大且笨重。"
+  },
+  "groupID": 314,
+  "iconID": 2039,
+  "mass": 800.0,
   "name": {
     "de": "Large Special Delivery",
     "en": "Large Special Delivery",
@@ -10,5 +23,7 @@
     "ru": "Large Special Delivery",
     "zh": "大型的特殊邮件"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1000.0
 }

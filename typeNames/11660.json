@@ -1,5 +1,18 @@
 {
-  "typeID": 11660,
+  "capacity": 120.0,
+  "description": {
+    "de": "Dies ist ein Detektiv, der für das Militär der Minmatar arbeitet. Diese operativen Militärangehörigen führen manchmal Operationen in Gebieten durch, die von Piraten kontrolliert werden.\r\n\r\nBedrohungsstufe: Tödlich",
+    "en": "This is a detective working for the Minmatar military.  These operatives sometimes conduct operations inside pirate controlled territory.  Threat level: Deadly",
+    "es": "Se trata de un detective que trabaja para el ejército minmatariano. Estos agentes a veces realizan misiones dentro de territorio pirata. Nivel de amenaza: letal.",
+    "fr": "Il s'agit d'un détective travaillant pour la Minmatar Navy.  Ces agents mènent parfois des opérations à l'intérieur de territoires contrôlés par les pirates.  Niveau de menace : mortel",
+    "ja": "ミンマター軍のエージェント。軍事的活動として、海賊の支配領域に潜入することもある。危険度:致命的",
+    "ko": "민마타군 소속 조사관입니다. 이들은 종종 해적 점령지에서도 임무를 수행합니다. 위험도: 치명적",
+    "ru": "Это детектив, работающий на Флот Minmatar. Эти военные разведчики иногда проводят операции на контролируемой пиратами территории. Уровень опасности: смертельный",
+    "zh": "这是一个为米玛塔尔军方效力的侦探。这些军事侦探有时会在海盗控制的领域内进行行动。威胁等级：致命的"
+  },
+  "graphicID": 1965,
+  "groupID": 705,
+  "mass": 10900000.0,
   "name": {
     "de": "Republic Fleet Detective",
     "en": "Republic Fleet Detective",
@@ -10,5 +23,10 @@
     "ru": "Republic Fleet Detective",
     "zh": "共和舰队 侦探"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 49.78,
+  "sofFactionName": "minmatarnavy",
   "volume": 109000.0
 }

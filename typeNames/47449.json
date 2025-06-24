@@ -1,5 +1,19 @@
 {
-  "typeID": 47449,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Diese hydrostatische Kapsel ist inaktiv, unbesetzt und hat weder quantenmechanisch verschränktes Helium-4, hyperoxidiertes Absturzgel oder einem Klonrohling. Trotzdem könnte man die wertvolle Technologie dieser Kapselschale bergen und für den Transport komprimieren.",
+    "en": "This hydrostatic capsule is inert and unoccupied, lacking a stock of quantum-entangled 4-Helium, hyper-oxygenated crashgel or a clone blank. Nevertheless, the valuable technology of the capsule shell could be recovered and compressed for transport.",
+    "es": "Esta cápsula hidrostática está inerte y desocupada, carece de 4-Helium, gel anticolisiones hiperoxigenado o banco de clones. Sin embargo, la valiosa tecnología del caparazón de cápsula se podría recuperar y comprimir para su transporte.",
+    "fr": "Cette capsule hydrostatique est inerte et inoccupée, car elle ne contient aucun stock d'hélium 4 à intrication quantique, ni de gel hyperoxygéné ou de réceptacle vierge de clonage. Néanmoins, la précieuse technologie de la coque de la capsule a pu être récupérée et compressée pour être transportée.",
+    "ja": "この静水圧カプセルは機能不全で使用されていない。量子もつれヘリウム4、超含酸素クラッシュジェル、クローンブランクは搭載されていない。いずれにせよ、カプセルシェルの貴重なテクノロジーは回収のために圧縮、輸送することが可能だ。",
+    "ko": "비활성화된 유체 캡슐로 양자얽힘 헬륨-4, 과산소결합 충돌젤, 그리고 대체용 클론이 존재하지 않습니다. 신규 기술에 대한 정보를 획득할 수 있어 회수 가치가 높습니다.",
+    "ru": "Эта гидростатическая капсула неактивна и незанята. Ей не хватает квантово-сцепленного гелия-4, сверхнасыщенного кислородом противоударного геля или клон-тела. Как бы то ни было, ценные компоненты капсулы можно извлечь и транспортировать.",
+    "zh": "这个流体静力太空舱无人驾驶，一动不动，缺少生气。不过它的外壳所使用的高端技术可以被复原并压缩用于运输。"
+  },
+  "graphicID": 73,
+  "groupID": 306,
+  "iconID": 73,
+  "mass": 10000.0,
   "name": {
     "de": "Inert Capsule",
     "en": "Inert Capsule",
@@ -10,5 +24,9 @@
     "ru": "Inert Capsule",
     "zh": "停滞的太空舱"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 14.0,
+  "sofFactionName": "jovebase",
   "volume": 27500.0
 }

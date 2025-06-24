@@ -1,5 +1,17 @@
 {
-  "typeID": 5561,
+  "description": {
+    "de": "Ersetzt einige der schwereren Strukturbauteile durch leichteres, aber auch zerbrechlicheres Material. Erhöht die Geschwindigkeit und Manövrierbarkeit des Schiffes auf Kosten der Hüllenstärke. \r\n\r\nNachteil: Wenn man mehrere Module des gleichen oder ähnlichen Typs einsetzt, die die gleichen Attribute des Schiffes beeinflussen, wird deren Wirksamkeit eingeschränkt.",
+    "en": "Replaces some of the heavier structure components with lighter, but more fragile material. Increases ship's velocity and improves maneuverability at the expense of hull strength.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",
+    "es": "Reemplaza algunos de los componentes más pesados de la estructura con material ligero pero más frágil. Aumenta la velocidad de la nave y mejora la maniobrabilidad a costa de la resistencia del casco.\n\nPenalización: Por usar más de un tipo de módulo o módulos similares que afecten al mismo atributo de la nave.",
+    "fr": "Certains composants lourds sont ainsi remplacés par des matériaux plus légers, mais également plus fragiles. Augmente la vitesse du vaisseau et améliore sa maniabilité au détriment de la résistance de sa coque.\n\nPénalité : utiliser plus d'un module de ce type ou plusieurs modules liés à un même attribut du vaisseau fera l'objet d'une pénalité.",
+    "ja": "構造の重い部品のいくつかを、軽量だが強度の低い資源に置き換える。船体の強度を犠牲にし、艦船の速度と機動性を向上させる。\n\nペナルティ:同一のモジュール、または同じ属性のモジュールを複数取り付けると、一つ追加するごとにモジュールの効果が低下する。",
+    "ko": "가볍지만 경도가 낮은 자재로 선체 내부 구조를 교체하여 함선을 경량화합니다. 함선의 속도 및 기동력이 증가하는 반면 장갑 내구도가 감소합니다. <br><br>페널티: 동일한 속성의 모듈 여러 개를 장착할 경우 페널티가 부여됩니다.",
+    "ru": "Заменяет некоторые тяжелые детали корпуса корабля более легкими, но при этом более хрупкими конструкциями. Повышает скорость и маневренность за счет снижения количества хитов корпуса.\n\nМинус: при использовании нескольких модулей этого типа или модулей, изменяющих те же характеристики корабля, их эффективность снижается.",
+    "zh": "用较轻质但更脆弱的材料代替一些较重的结构部件。以牺牲结构强度为代价，提升舰船的速度增加其灵活性。\r\n\r\n注：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。"
+  },
+  "groupID": 763,
+  "iconID": 1042,
+  "mass": 100.0,
   "name": {
     "de": "Local Hull Conversion Nanofiber Structure I",
     "en": "Local Hull Conversion Nanofiber Structure I",
@@ -10,5 +22,9 @@
     "ru": "Local Hull Conversion Nanofiber Structure I",
     "zh": "局部结构转换纳米纤维构架 I"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 50.0,
   "volume": 5.0
 }

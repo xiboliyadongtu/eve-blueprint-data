@@ -1,5 +1,16 @@
 {
-  "typeID": 73036,
+  "description": {
+    "de": "Dies ist ein Triglavia-Speicher. Er ähnelt in seiner Form vielen solchen Systemen, die man überall dort findet, wo das Kollektiv seine Anlagen oder Außenposten einrichtet. Spezialisten der Informationskriegsführung aus einem der Imperien sind bereits teilweise in diesen Speicher eingedrungen. Ein erfahrener Hacker wäre sicherlich in der Lage, auf der bereits geleisteten Arbeit aufzubauen, um die vielfältigen Schutzmechanismen dieses komplexen Speichers zu umgehen und auf die Inhalte zuzugreifen.",
+    "en": "This is a Triglavian cache similar in form to many such devices encountered where the Collective establishes its facilities or outposts. This particular cache has been partially penetrated by information warfare specialists from one of the empires. The extent to which the multiple protections on this complex storage device have been bypassed is unclear but a skilled hacker would surely be able to build on the work already done and access the contents of the cache.",
+    "es": "Este es un depósito triglaviano con una forma similar a la de muchos de los dispositivos encontrados en zonas donde el Colectivo establece sus centros o puestos avanzados. En este depósito en particular han penetrado parcialmente los especialistas en guerra de información de uno de los imperios. No está claro hasta qué punto se han anulado las múltiples protecciones de este complejo dispositivo de almacenamiento, pero lo más seguro es que un hacker experto podría aprovechar el trabajo ya realizado y acceder al contenido del depósito.",
+    "fr": "C'est un cache triglavian similaire à de nombreux dispositifs de ce type rencontrés là où le Collectif établit ses installations ou ses avant-postes. Ce cache a été partiellement pénétré par des spécialistes des attaques informatiques appartenant à l'un des empires. La mesure dans laquelle les multiples protections de ce dispositif de stockage complexe ont été contournées n'est pas claire, mais un hacker habile serait sûrement capable de s'appuyer sur le travail déjà effectué et d'accéder au contenu du cache.",
+    "ja": "コレクティブによって設置された施設やアウトポストで頻繁に見られる装置に似た形状をしている、トリグラビアンの保管庫。この保管庫は、主要国家のいずれかに属する情報戦スペシャリストによって部分的にハッキング済みである。この複合施設用保管デバイスの多重プロテクトがどこまでバイパス済みなのかは不明だが、腕の立つハッカーであれば、実施済みのハッキングの後を引き継いで保管庫の中身にアクセスできるだろう。",
+    "ko": "지금까지 트리글라비안 컬렉티브의 시설에서 발견된 보관함과 비슷한 장치입니다. 각 국가의 전자전 전문가에 의해 어느 정도 해킹이 진행된 상태입니다. 보안이 정확히 어느 수준까지 뚫린 상태인지는 불확실하나, 실력이 뛰어난 해커라면 현재 상태에서 이어서 작업함으로써 보안을 완전히 해제하고 데이터를 회수할 수 있을 것입니다.",
+    "ru": "Это тайник Триглава стандартной формы. Устройства такого типа постоянно встречаются на базах и форпостах Сообщества. Тайник был частично взломан специалистами по информационной войне одной из четырёх держав. Остаётся неясным, насколько хакеры преуспели в обходе многочисленных систем защиты, которыми буквально напичкано это хранилище, однако настоящему профессионалу без труда удастся завершить начатое и получить доступ к содержимому тайника.",
+    "zh": "这个三神裔贮藏看上去与它们在宇宙各地建造设施和哨站时常见的贮藏设备很相似。这个贮藏已经被某个帝国的信息战专家所侵入过了。这个复杂存储设备的多层防护被破坏到了什么程度尚未可知，不过拥有熟练技能的破译者应该可以在破坏的基础之上进一步打开这个贮藏。"
+  },
+  "graphicID": 22217,
+  "groupID": 306,
   "name": {
     "de": "Captured Triglavian Relay Cache",
     "en": "Captured Triglavian Relay Cache",
@@ -10,5 +21,8 @@
     "ru": "Captured Triglavian Relay Cache",
     "zh": "被夺取的三神裔中继站储藏处"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 435.0,
+  "sofFactionName": "triglavianbase"
 }

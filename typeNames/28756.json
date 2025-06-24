@@ -1,5 +1,20 @@
 {
-  "typeID": 28756,
+  "basePrice": 6000.0,
+  "capacity": 8.0,
+  "description": {
+    "de": "Werfer für <a href=showinfo:30013>Basisscansonden</a> und <a href=showinfo:30028>Kampfscansonden</a>.\n\n\n\n<a href=showinfo:30013>Basisscansonden</a> werden verwendet, um nach kosmischen Signaturen im Weltall zu scannen.\n\n<a href=showinfo:30028>Kampfscansonden</a> werden verwendet, um nach kosmischen Signaturen, Raumschiffen, Strukturen und Drohnen zu scannen.\n\n\n\nHinweis: Es kann nur ein Scansondenwerfer pro Schiff ausgerüstet werden.\n\n\n\n10 % Bonus auf die Stärke von Scansonden.",
+    "en": "Launcher for <a href=showinfo:30013>Core Scanner Probes</a> and <a href=showinfo:30028>Combat Scanner Probes</a>.\r\n\r\n<a href=showinfo:30013>Core Scanner Probes</a> are used to scan down Cosmic Signatures in space.\r\n<a href=showinfo:30028>Combat Scanner Probes</a> are used to scan down Cosmic Signatures, starships, structures and drones.\r\n\r\nNote: Only one scan probe launcher can be fitted per ship.\r\n\r\n10% bonus to strength of scan probes.",
+    "es": "Lanzador de <a href=showinfo:30013>sondas escáner de núcleo</a> y <a href=showinfo:30028>sondas escáner de combate</a>.\n\nLas <a href=showinfo:30013>sondas escáner de núcleo</a> se usan para escanear señales cósmicas en el espacio.\n\nLas <a href=showinfo:30028>sondas escáner de combate</a> se usan para escanear señales cósmicas, naves, estructuras y drones.\n\nAviso: Solo se puede equipar un lanzasondas de escaneo por nave.\n\n10 % de bonificación a las sondas de escaneo.",
+    "fr": "Lanceur pour <a href=showinfo:30013>sondes de scan cosmiques</a> et <a href=showinfo:30028>sondes de scan de combat</a>.\n\n\n\nLes <a href=showinfo:30013>sondes de scan cosmiques</a> permettent de trianguler les <a href=\"http://wiki.eveonline.com/en/wiki/Cosmic_Signatures\">signatures cosmiques</a> dans l'espace.\n\nLes <a href=showinfo:30028>sondes de scan de combat</a> permettent de trianguler les <a href=\"http://wiki.eveonline.com/en/wiki/Cosmic_Signatures\">signatures cosmiques</a>, les vaisseaux spatiaux, les structures et les drones dans l'espace.\n\n\n\nRemarque : un seul lanceur de sonde de scan peut être équipé par vaisseau.\n\n\n\nAugmente de 10 % la puissance des sondes de scan.",
+    "ja": "<a href=showinfo:30013>コアスキャナープローブ</a>および<a href=showinfo:30028>コンバットスキャナープローブ</a>用ランチャー。<a href=showinfo:30013>コアスキャナープローブ</a>は宙域のシグネチャをスキャンする際に使用される。<a href=showinfo:30028>コンバットスキャナープローブ</a>は宙域のシグネチャ、艦船、ストラクチャ、ドローンのスキャンを行う際に使用される。注： 1艇につき装備可能なスキャンプローブランチャーは1つまでです。スキャンプローブの強度が10%上昇。",
+    "ko": "<a href=showinfo:30013>코어 프로브</a> 및 <a href=showinfo:30028>정찰 프로브</a> 사출을 위한 런처입니다.<br><br><a href=showinfo:30013>코어 프로브</a>는 우주의 코즈믹 시그니처를 탐지할 때 사용됩니다.<br><br><a href=showinfo:30028>정찰 프로브</a>는 함선, 드론, 구조물 및 코즈믹 시그니처를 탐지할 때 사용됩니다. <br><br>참고: 프로브 런처는 한 개만 장착할 수 있습니다. <br><br>프로브 스캔 강도 10% 증가",
+    "ru": "Пусковая установка, предназначенная для запуска <a href=showinfo:30013>зондов навигационной разведки</a> и <a href=showinfo:30028>боевых разведзондов</a>\n\n\n\n<a href=showinfo:30013>Зонды навигационной разведки</a> применяются для поиска (и получения точных координат) различных скрытых сигналов.\n\n<a href=showinfo:30028>Боевые разведзонды</a> применяются для поиска (и получения точных координат) скрытых сигналов, космических кораблей, стационарных сооружений, дронов.\n\n\n\nНе допускается оснащение корабля сразу несколькими ПУ разведзондов.\n\n\n\nПри запуске разведзондов: чувствительность бортовой аппаратуры разведзондов повышается на 10%.",
+    "zh": "发射<a href=showinfo:30013>核心扫描探针</a>和<a href=showinfo:30028>作战扫描探针</a>的发射器。\n\n\n\n<a href=showinfo:30013>核心扫描探针</a>用来扫描太空中的空间信号。\n\n<a href=showinfo:30028>作战扫描探针</a>用来扫描空间信号、舰船、建筑和无人机。\n\n\n\n注：每艘飞船只能安装一个扫描探针发射器。\n\n\n\n它能将探针的扫描强度增加10%。"
+  },
+  "groupID": 481,
+  "iconID": 2677,
+  "marketGroupID": 712,
+  "metaGroupID": 4,
   "name": {
     "de": "Sisters Expanded Probe Launcher",
     "en": "Sisters Expanded Probe Launcher",
@@ -10,5 +25,8 @@
     "ru": "Sisters Expanded Probe Launcher",
     "zh": "姐妹会延伸探针发射器"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 18639,
   "volume": 5.0
 }

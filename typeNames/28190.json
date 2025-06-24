@@ -1,5 +1,17 @@
 {
-  "typeID": 28190,
+  "description": {
+    "de": "Ein Gerät zum Kodieren und Dekodieren von Microlink-Nachrichten.",
+    "en": "A device used to encode and decode microlink messages.",
+    "es": "Dispositivo usado para cifrar y descifrar mensajes de MicroLink.",
+    "fr": "Dispositif permettant de coder et de décoder les messages microlink.",
+    "ja": "マイクロリンクメッセージを暗号化したり解読したりするのに使用する装置。",
+    "ko": "마이크로링크 메시지의 암호화 및 해독에 사용하는 장치입니다.",
+    "ru": "Устройство, предназначенное для шифровки и дешифровки сообщений.",
+    "zh": "用于编码和解码微型链接信息的设备。"
+  },
+  "groupID": 526,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "MicroLink Encoder/Decoder",
     "en": "MicroLink Encoder/Decoder",
@@ -10,5 +22,7 @@
     "ru": "MicroLink Encoder/Decoder",
     "zh": "网络连接编码/解码器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

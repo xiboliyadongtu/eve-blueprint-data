@@ -1,5 +1,17 @@
 {
-  "typeID": 366598,
+  "basePrice": 567000.0,
+  "description": {
+    "de": "Skill in der Benutzung von Ionenpistolen.+3% auf den Schildschaden von Ionenpistolen pro Skillstufe.",
+    "en": "Skill at handling ion pistols.\r\n\r\n+3% ion pistol damage against shields per level.",
+    "es": "Habilidad de manejo de pistolas iónicas. +3% al daño de las pistolas iónicas en los escudos por nivel.",
+    "fr": "Compétence permettant de manipuler les pistolets à ions. +3 % de dommages du pistolet à ions contre les boucliers par niveau.",
+    "it": "Abilità nel maneggiare pistole a ioni. +3% ai danni inflitti dalla pistola a ioni agli scudi per livello.",
+    "ja": "イオンピストルを扱うスキル。\n\nレベル上昇ごとに、イオンピストルがシールドに与えるダメージが3%増加する。",
+    "ko": "이온 피스톨 운용을 위한 스킬입니다.<br><br>매 레벨마다 실드에 가해지는 이온 권총 피해량 3% 증가",
+    "ru": "Навык обращения с ионными пистолетами. +3% к урону, наносимому ионными пистолетами щитам, на каждый уровень.",
+    "zh": "使用离子手枪的技能。每升一级，离子手枪对护盾造成的伤害提高3%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Fertigkeit: Ionenpistolen",
     "en": "Ion Pistol Proficiency",
@@ -11,5 +23,7 @@
     "ru": "Эксперт по ионному пистолету",
     "zh": "离子手枪熟练度"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

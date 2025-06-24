@@ -1,5 +1,20 @@
 {
-  "typeID": 24657,
+  "basePrice": 100000000.0,
+  "capacity": 19500000.0,
+  "description": {
+    "de": "Eine mobile Fertigungsanlage in der hochentwickelte große Schiffe wie Black Ops, Marauder-Schlachtschiffe und Sprung-Frachter gebaut werden können.\n\n\n\nHinweis: Um ein Schiff aus einer Schiff-Fertigungsanlage heraus verwenden zu können, muss eine Schiffwartungsanlage mit ausreichend freiem Platz in der Nähe sein, um das Schiff dort hinein bewegen zu können.",
+    "en": "A mobile assembly facility where advanced large ships such as Black Ops, Marauder class battleships as well as Jump Freighters can be manufactured.\r\n\r\nNote: To use a ship from a Ship Assembly Array a Ship Maintenance Array with enough free storage space needs to be in range that the ship can be moved there.",
+    "es": "Instalación de ensamblaje móvil en la que se pueden fabricar naves grandes con tecnología avanzada, como las de operaciones secretas, acorazados depredadores y cargueros de salto.\n\nAviso: Para usar una nave desde una batería de montaje, es necesario que haya una dársena de mantenimiento de naves con suficiente espacio libre para que la nave se pueda trasladar.",
+    "fr": "Module d'assemblage mobile permettant la fabrication de grands vaisseaux avancés, tels que les cuirassés de classe Marauder et des forces clandestines, ainsi que les cargos interstellaires. Remarque : pour utiliser un vaisseau à partir d'un module d'assemblage de vaisseaux, vous devez disposer d'un module de maintenance de vaisseaux à portée avec suffisamment d'espace de stockage pour y placer le vaisseau.)",
+    "ja": "大型エリート船用の移動式組み立て施設。光学迷彩型戦艦、襲撃型戦艦、ジャンプドライブ搭載型輸送艦などを建造できる。\r\n\n注：艦船組み立て施設から船を取り出して使用するには、その船を移せる距離に、十分な空き容量のある船舶調整施設がなければならない。",
+    "ko": "점프 프레이터, 블랙옵스 배틀쉽, 머라우더 배틀쉽과 같은 대형 함선을 건조하는 이동식 생산 시설입니다. <br><br>참고: 함선 건조 시설에서 제작된 함선을 이용하기 위해서는 여유 적재공간이 있는 함선 정비 시설이 범위 내에 존재해야 합니다.",
+    "ru": "Блок-завод для производства кораблей линейного тоннажа специализированных проектов — таких, как тяжелые диверсионные корабли, рейдеры, а также джамп-фрейтеры.\n\n\n\nЧтобы воспользоваться построенным кораблем, вам придется переместить его в находящийся достаточно близко ангарный блок, в котором при этом должно быть достаточно свободного места.",
+    "zh": "一座移动式装配设施，在这里可以生产高级大型舰船，如黑隐特勤舰、掠夺舰和战略货舰。\n\n\n\n注：若要使用来自舰船组装阵列的舰船，在舰船可被转移的范围内应该存在舰船维护阵列，并带有足够的可用存储空间以接收该船。"
+  },
+  "graphicID": 2625,
+  "groupID": 397,
+  "marketGroupID": 932,
+  "mass": 200000000.0,
   "name": {
     "de": "Advanced Large Ship Assembly Array",
     "en": "Advanced Large Ship Assembly Array",
@@ -10,5 +25,9 @@
     "ru": "Advanced Large Ship Assembly Array",
     "zh": "高级大型舰船组装阵列"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 1857.0,
+  "sofFactionName": "genericbase",
   "volume": 25000.0
 }

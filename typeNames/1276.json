@@ -1,5 +1,19 @@
 {
-  "typeID": 1276,
+  "description": {
+    "de": "Diese Beschichtung besteht aus mehreren Schichten, welche effektiv zur Steigerung der Panzerungs-HP beitragen.",
+    "en": "This coating is composed of several layers, effectively increasing the armor hit points.",
+    "es": "Este recubrimiento está compuesto de varias capas, lo que aumenta los puntos de vida del blindaje.",
+    "fr": "Cette surcouche est composée de plusieurs couches superposées, destinées à accroître efficacement les points de vie du blindage.",
+    "ja": "このコーティングは複数の層で形成されており、アーマーヒットポイントを効率的に上昇させる。",
+    "ko": "해당 코팅은 여러 겹으로 구성되어 있어 장갑 내구도를 크게 향상합니다.",
+    "ru": "Обшивка состоит из нескольких слоёв и значительно повышает запас прочности брони.",
+    "zh": "这种涂层由几层额外的覆层构成，从而有效增加装甲强度。"
+  },
+  "groupID": 98,
+  "iconID": 1030,
+  "marketGroupID": 1669,
+  "mass": 1.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Layered Coating II",
     "en": "Layered Coating II",
@@ -10,5 +24,9 @@
     "ru": "Layered Coating II",
     "zh": "覆层式涂层 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 10.0,
+  "variationParentTypeID": 1274,
   "volume": 5.0
 }

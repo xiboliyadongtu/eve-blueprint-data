@@ -1,5 +1,18 @@
 {
-  "typeID": 86481,
+  "capacity": 120.0,
+  "description": {
+    "de": "Eine Sleeper-Drohne, die einem Schiff der Fregattenklasse entspricht. Sie steht unter Drifter-Kontrolle und wurde darauf ausgerichtet, ihren Energieneutralisierer gegen feindliche Schiffe einzusetzen.",
+    "en": "A Sleeper drone, equivalent to a frigate-class ship. It is under Drifter control and has been directed to focus on using its energy neutralizer on hostiles.",
+    "es": "Un dron sleeper equivalente a una nave de clase fragata. Está bajo control drifter y se le ha ordenado centrarse en usar su neutralizador energético en los hostiles.",
+    "fr": "Un drone sleeper équivalent à une frégate. Il est sous contrôle drifter et a reçu pour instruction de se concentrer sur l'utilisation de son neutraliseur d'énergie sur les hostiles.",
+    "ja": "フリゲート級に相当するスリーパードローン。ドリフターの支配下にあり、敵にエネルギーニュートラライザーを使用することに集中するよう指示されている。",
+    "ko": "프리깃급 함선과 동급인 슬리퍼 드론입니다. 드리프터가 적에게 에너지 뉴트럴라이저를 사용하도록 조종하고 있습니다.",
+    "ru": "Этот дрон Спящих по характеристикам соответствует фрегату. Он находится под контролем Скитальцев и запрограммирован на нейтрализацию заряда накопителей вражеских судов.",
+    "zh": "一架护卫舰级别的冬眠者无人机。它由流浪者控制，主要负责对敌舰使用能量中和器。"
+  },
+  "graphicID": 3560,
+  "groupID": 1568,
+  "mass": 1910000.0,
   "name": {
     "de": "Enervating Pilum",
     "en": "Enervating Pilum",
@@ -10,5 +23,11 @@
     "ru": "Enervating Pilum",
     "zh": "短矛级萎靡者"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 64,
+  "radius": 50.0,
+  "sofFactionName": "sleeperbase",
+  "soundID": 12,
   "volume": 19100.0
 }

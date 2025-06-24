@@ -1,5 +1,22 @@
 {
-  "typeID": 81948,
+  "basePrice": 1308176.0,
+  "capacity": 0.8,
+  "description": {
+    "de": "Durch Manipulation von Gravitationsfeldern kann dieses Modul Frachtcontainer in Richtung des Schiffes ziehen.",
+    "en": "By manipulating gravity fields, this module can pull cargo containers towards the ship.",
+    "es": "Este módulo puede atraer contenedores de carga hacia la nave manipulando campos de gravedad.",
+    "fr": "Ce module est capable de remorquer des conteneurs de fret jusqu'au vaisseau grâce aux techniques de manipulation des champs de gravité.",
+    "ja": "このモジュールは、重力場を制御することで、カーゴコンテナを自艦に引き寄せる。",
+    "ko": "모듈 장착 시 중력장을 이용하여 화물 컨테이너를 함선으로 끌어올 수 있습니다.",
+    "ru": "Искажая гравитационные поля, этот модуль притягивает грузовые контейнеры к кораблю.",
+    "zh": "通过操纵重力场，这个装备能将货柜集装箱拖近飞船。"
+  },
+  "graphicID": 11867,
+  "groupID": 650,
+  "iconID": 2986,
+  "marketGroupID": 872,
+  "mass": 50.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Consortium Small Tractor Beam",
     "en": "Consortium Small Tractor Beam",
@@ -10,5 +27,10 @@
     "ru": "Consortium Small Tractor Beam",
     "zh": "财团小型牵引光束"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 10.0,
+  "sofFactionName": "orebase",
+  "variationParentTypeID": 24348,
   "volume": 50.0
 }

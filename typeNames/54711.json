@@ -1,5 +1,18 @@
 {
-  "typeID": 54711,
+  "capacity": 27500.0,
+  "description": {
+    "de": "Die schwelenden Überreste eines zerstörten Ingenieurskomplexes der Raitaru-Klasse.",
+    "en": "The smoldering remains of an Raitaru class engineering complex.",
+    "es": "Los restos humeantes de un complejo de ingeniería de clase Raitaru.",
+    "fr": "Les restes calcinés d'un complexe d'ingénierie de classe Raitaru.",
+    "ja": "ライタル級エンジニアリング複合施設の融解した残骸。",
+    "ko": "라이타루급 엔지니어링 시설의 타고 남은 잔해입니다.",
+    "ru": "Тлеющие обломки инженерного комплекса «Райтару».",
+    "zh": "这片燃烧的废墟曾是一座莱塔卢级工程复合体。"
+  },
+  "graphicID": 21416,
+  "groupID": 226,
+  "mass": 10000.0,
   "name": {
     "de": "Upwell Production Facility Wreck",
     "en": "Upwell Production Facility Wreck",
@@ -10,5 +23,10 @@
     "ru": "Upwell Production Facility Wreck",
     "zh": "昇威生产设施残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 5000.0,
+  "sofFactionName": "upwell-indy",
+  "soundID": 20237,
   "volume": 27500.0
 }

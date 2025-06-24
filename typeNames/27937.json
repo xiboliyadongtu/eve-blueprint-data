@@ -1,5 +1,19 @@
 {
-  "typeID": 27937,
+  "basePrice": 500000000.0,
+  "capacity": 7500000.0,
+  "description": {
+    "de": "Ein grundlegendes Upgrade für das Fertigungspotential von Caldari-Außenposten. Erhöht die Materialeffizienz um 1% für alle Fertigungsaufträge (summiert sich mit allen anderen Verbesserungen des selben Typs) und verringert die Fertigungszeit bei allen Tech II-Komponenten um 20%.",
+    "en": "A basic upgrade to Caldari Outpost manufacturing capabilities. Gives 1% Material Efficiency reduction to all manufacturing jobs (stacks with all other improvements of the same type) and gives a manufacturing time reduction on all Tech II components of 20%.",
+    "es": "Mejora básica de las capacidades de fabricación en puestos avanzados caldaris. Genera una reducción del 1 % de la eficiencia de materiales en todos los trabajos de fabricación (acumulable con todas las demás mejoras del mismo tipo) y aumenta hasta el 20 % la reducción del tiempo de fabricación de todos los componentes T2.",
+    "fr": "Amélioration de base permettant d'augmenter les capacités de production d'un avant-poste caldari. Réduit de 1 % la productivité matérielle de tous les travaux de production (s'accumule avec toutes les autres améliorations de même type) et réduit de 20 % le temps de production de tous les composants Tech II.",
+    "ja": "カルダリアウトポストの製造力を高める基本的なアップグレード。すべての製造ジョブ（同じタイプのすべての改善点をスタック）に1％の材料効率を与え、すべてのT2部品の製造時間を20%削減。",
+    "ko": "칼다리 전초기지의 제조 기능을 개선하기 위한 기본 업그레이드입니다. 모든 제조 작업에 대한 자원효율성이 1% 감소(동일한 효과와 중첩 가능)하며 모든 테크 II 부품에 대한 제조 시간이 20% 감소합니다.",
+    "ru": "Базовый модуль расширения производственных мощностей калдарского форпоста. На 1% повышает материалоэффективность всех производственных проектов (эффект кумулятивен с прочими того же типа); кроме того, экономия времени производства всех компонентов второй техкатегории — 20%.",
+    "zh": "针对加达里哨站生产能力的基础升级方案。所有生产项目的材料效率降低1%（可与同类效果叠加），所有二级科技组件生产时间减少20%。"
+  },
+  "graphicID": 3303,
+  "groupID": 836,
+  "iconID": 3303,
   "name": {
     "de": "Caldari Basic Outpost Factory Platform",
     "en": "Caldari Basic Outpost Factory Platform",
@@ -10,5 +24,10 @@
     "ru": "Caldari Basic Outpost Factory Platform",
     "zh": "加达里基础空间站车间平台"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 1000.0,
+  "sofFactionName": "caldaribase",
   "volume": 750000.0
 }

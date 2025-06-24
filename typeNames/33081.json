@@ -1,5 +1,74 @@
 {
-  "typeID": 33081,
+  "capacity": 125.0,
+  "description": {
+    "de": "Die Taipan gehört zu den kleineren Schiffen der Guristas. Während ihr Design auf einem vorherigen Schiffstyp der Caldari basiert – die Guristas stehlen mit besonderer Vorliebe von ihren verhassten Feinden –, wurde die Funktionsweise ihres Innenlebens stark verändert. Die Guristas haben sich nicht damit begnügt, den von den Caldari gesetzten Schwerpunkt auf den Kampf mit Lenkwaffen zu übernehmen. Sie haben auch die Drohnen-Kampfkraft der Gallente hinzugefügt.",
+    "en": "The Taipan is one of the smaller types of Gurista vessels. While the design is based on a pre-existing Caldari ship type - the Guristas delight in stealing anything they can from their hated enemies - its internal workings have been heavily modified. Not content to rely on the Caldari's focus on missile combat, the Guristas have added the drone power of the Gallente.",
+    "es": "La Taipan es una de las naves más pequeñas de los Guristas. El diseño está basado en un tipo de nave caldari ya existente (a los Guristas les encanta robar todo lo que pueden de sus odiados enemigos), pero su mecánica interna ha sufrido considerables modificaciones. Lejos de limitarse a ceñirse a los combates de misiles, como los caldaris, los Guristas han añadido la potencia de los drones gallentes.",
+    "fr": "Le Taipan est l'un des plus petits vaisseaux guristas. Si sa conception s'inspire d'un modèle de vaisseau caldari - les Guristas adorant s'approprier tout ce qu'ils peuvent prendre à leurs ennemis - son fonctionnement interne a été largement modifié. Non contents de s'appuyer sur la puissance des missiles caldari, les Guristas y ont ajouté la puissance des drones gallente.",
+    "ja": "タイパンはガリスタス艦としては小型な部類に入る。その設計は従来型のカルダリ艦をもとにしているが―ガリスタスは隙あらば宿敵から物を盗みたがる―内部機構は大幅に改造されている。ガリスタスはカルダリ流のミサイル偏重の仕様に飽き足らず、ガレンテのドローン能力を付け足したのだ。",
+    "ko": "구리스타스의 소형 함선 타이판입니다. 구리스타스는 칼다리의 것이라면 그 무엇이든 훔치고자 하며 이러한 행위를 통해 희열감을 느낍니다. 내부 구조는 크게 변형되었지만 타이판 또한 구리스타스가 칼다리 함선의 설계를 배껴 개발한 함선입니다. 미사일 전투에 주력하는 칼다리의 방식이 불만족스러웠던 구리스타스는 여기에 갈란테식 드론을 추가 탑재했습니다.",
+    "ru": "Учебный корабль типа «Тайпан» относится к разряду малотоннажных кораблей организации «Гуристас». Как известно, гуристас постоянно крадут у своих врагов все, до чего могут дотянуться, и этот корабль не исключение: его конструкция основана на идеях, принадлежащих калдарцам; однако начинка корабля основательно переработана. В данном случае инженеры гуристас не стали ограничиваться стандартной для калдарских проектов ориентацией на ведение ракетного огня, и добавили позаимствованные у галлентов усовершенствованные системы контроля дронов.",
+    "zh": "毒蛇级是古斯塔斯舰船中体型较小的一种。它的设计源自于一种古老的加达里舰船原型——古斯塔斯海盗总是乐于从他们痛恨的敌人那里窃取资料——不过它的内部设计还是做了很大的改动。除了继承了加达里擅长的导弹打击能力之外，古斯塔斯海盗还为这艘船加入了盖伦特的无人机技术。"
+  },
+  "factionID": 500010,
+  "graphicID": 1829,
+  "groupID": 237,
+  "marketGroupID": 2702,
+  "mass": 1163000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      164,
+      150,
+      75,
+      139,
+      85,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      164,
+      150,
+      75,
+      139,
+      85,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      164,
+      150,
+      75,
+      139,
+      85,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      164,
+      150,
+      75,
+      139,
+      85,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      164,
+      150,
+      75,
+      139,
+      85,
+      118,
+      94
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Taipan",
     "en": "Taipan",
@@ -9,6 +78,76 @@
     "ko": "타이판",
     "ru": "Taipan",
     "zh": "毒蛇级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 32,
+  "radius": 47.0,
+  "sofFactionName": "guristas",
+  "soundID": 20070,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonus": 50,
+        "bonusText": {
+          "de": "Bonus auf die Maximalgeschwindigkeit von <a href=showinfo:3321>leichten Lenkwaffen</a> und <a href=showinfo:3320>Raketen</a>",
+          "en": "bonus to <a href=showinfo:3321>Light Missile</a> and <a href=showinfo:3320>Rocket</a> max velocity",
+          "es": "de bonificación a la velocidad máxima de los <a href=showinfo:3321>misiles ligeros</a> y los <a href=showinfo:3320>cohetes</a>.",
+          "fr": "de bonus à la vitesse maximale des <a href=showinfo:3321>missiles légers</a> et des <a href=showinfo:3320>roquettes</a>",
+          "ja": "<a href=showinfo:3321>ライトミサイル</a>と<a href=showinfo:3320>ロケット</a>の最高速度が上昇",
+          "ko": "<a href=showinfo:3321>라이트 미사일</a> 및 <a href=showinfo:3320>로켓</a> 최대 속도 증가",
+          "ru": "увеличивается скорость полёта <a href=showinfo:3321>лёгких ракет</a> и <a href=showinfo:3320>лёгких штурмовых ракет</a>",
+          "zh": "<a href=\"showinfo:3321\">轻型导弹</a>和<a href=\"showinfo:3320\">火箭</a>飞行速度加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 12,
+        "bonusText": {
+          "de": "Bonus auf alle Schildresistenzen",
+          "en": "bonus to all shield resistances",
+          "es": "de bonificación a todas las resistencias de escudo.",
+          "fr": "de bonus à toutes les résistances de bouclier",
+          "ja": "全てのシールドレジスタンスが増加",
+          "ko": "모든 실드 저항력 증가",
+          "ru": "повышается сопротивляемость щитов корабля всем видам воздействия",
+          "zh": "护盾抗性加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 30,
+        "bonusText": {
+          "de": "Bonus auf die HP, den Schaden und die Erzausbeute von <a href=showinfo:3436>Drohnen</a>",
+          "en": "bonus to <a href=showinfo:3436>Drone</a> hitpoints, damage and mining yield",
+          "es": "de bonificación a los puntos de vida, el daño y el rendimiento minero de los <a href=showinfo:3436>drones</a>.",
+          "fr": "de bonus aux dégâts, aux PV et au rendement d'extraction des <a href=showinfo:3436>drones</a>",
+          "ja": "<a href=showinfo:3436>ドローン</a>のヒットポイント・ダメージ・採掘量が増加",
+          "ko": "<a href=showinfo:3436>드론</a> 내구도, 피해량, 채굴량 증가",
+          "ru": "увеличивается урон бортового оружия <a href=showinfo:3436>дронов</a> и производительность буровых дронов; увеличивается запас их прочности",
+          "zh": "<a href=\"showinfo:3436\">无人机</a>伤害、HP和采矿量加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonus": 25,
+        "bonusText": {
+          "de": "Bonus auf die Maximalgeschwindigkeit von <a href=showinfo:3436>Drohnen</a>",
+          "en": "bonus to <a href=showinfo:3436>Drone</a> max velocity",
+          "es": "de bonificación a la velocidad máxima de los <a href=showinfo:3436>drones</a>.",
+          "fr": "de bonus à la vitesse maximale des <a href=showinfo:3436>drones</a>",
+          "ja": "<a href=showinfo:3436>ドローン</a>の最高速度が上昇",
+          "ko": "<a href=showinfo:3436>드론</a> 최대속도 증가",
+          "ru": "повышается скорость полного хода <a href=showinfo:3436>дронов</a>",
+          "zh": "<a href=\"showinfo:3436\">无人机</a>最大速度加成"
+        },
+        "importance": 4,
+        "unitID": 105
+      }
+    ]
   },
   "volume": 15000.0
 }

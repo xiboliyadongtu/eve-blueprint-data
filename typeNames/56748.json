@@ -1,5 +1,19 @@
 {
-  "typeID": 56748,
+  "description": {
+    "de": "Diese Sonde wird von einem Unterbrechungsfeldwerfer aus eingesetzt, der an einen Unterbrecher montiert ist, und senkt die maximale Geschwindigkeit der Schiffe in ihrem Wirkungsbereich.",
+    "en": "Deployed from an Interdiction Sphere Launcher fitted to an Interdictor, this probe lowers the max velocity of ships in its area of effect.",
+    "es": "Desplegada desde un lanzaesferas de interdicción equipado en un interdictor, esta sonda reduce la velocidad máxima de las naves dentro de su radio de acción.",
+    "fr": "Cette sonde est lancée à l'aide d'un lanceur de sphère d'interdiction équipant un interdicteur. Elle réduit la vitesse maximale des vaisseaux se trouvant dans sa zone d'effet.",
+    "ja": "ワープ妨害型駆逐艦に搭載されるインターディクションスフィアランチャーで射出されるこのプローブは、有効範囲内の艦船の最大航行速度を低下させる。",
+    "ko": "인터딕션 런쳐에 탑재할 수 있는 프로브입니다. 일정 범위 내에 위치한 함선의 최대 속도를 감소시킵니다.",
+    "ru": "Этот зонд выбрасывается системой запуска заградительных сфер, установленной на заградительном эсминце, и снижает максимальную скорость кораблей, попавших в зону его действия.",
+    "zh": "这种探针由安装在拦截舰上的拦截泡发射器部署，可以降低在其有效区域内的舰船的最大速度。"
+  },
+  "groupID": 4088,
+  "iconID": 24543,
+  "marketGroupID": 1201,
+  "mass": 1.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Stasis Webification Probe",
     "en": "Stasis Webification Probe",
@@ -10,5 +24,7 @@
     "ru": "Stasis Webification Probe",
     "zh": "停滞缠绕探针"
   },
+  "portionSize": 2,
+  "published": true,
   "volume": 3.0
 }

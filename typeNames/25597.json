@@ -1,5 +1,17 @@
 {
-  "typeID": 25597,
+  "description": {
+    "de": "ANNs sind Netzwerke zur Überwachung der verschiedenen elektronischen Untersysteme von Schiffen und deren Arbeitsabläufen. Sie übernehmen die Energieversorgung und Datenverarbeitung, sobald ein System beschädigt wird oder offline geht. Dieses Gerät hat wohl etwas abbekommen, scheint aber noch brauchbar zu sein.",
+    "en": "ANNs preside over a starship's various electronics subsystems and keep everything in working order, rerouting power and processing when systems are damaged or go offline. This ANN is damaged but doesn't seem to be a total loss.",
+    "es": "Los ANN controlan varios subsistemas electrónicos de la nave y lo mantienen todo en funcionamiento, redirigiendo potencia y capacidad de procesamiento cuando los sistemas están dañados o se desconectan. Este ANN esta averiado, pero no se ha echado a perder del todo.",
+    "fr": "Les RNA gèrent les différents sous-systèmes électroniques d'un vaisseau et s'assurent qu'ils fonctionnent tous, redirigeant les flux d'énergie ou de données lorsque les systèmes sont endommagés ou déconnectés. Ce RNA est endommagé mais pas totalement détruit.",
+    "ja": "ANN は宇宙船の様々な電気システムの中核を成し、全システムの正常動作を管理する。システムが損傷したり、オフラインになった場合には、パワー経路や処理経路の変更を行う。この ANN は損傷を受けているが、全く使用不能なわけではない。",
+    "ko": "인공 신경망은 함선에 장착된 전자 서브시스템을 통제하며 함선 시스템이 피해를 입거나 오프라인 상태로 전환되면 전력 및 프로세스를 재배정합니다. 하지만 부분적으로 손상되었습니다.",
+    "ru": "Искусственная нейросеть контролирует различные подсистемы звездного корабля и удерживает их в рабочем состоянии методом перенаправления энергии к поврежденной или отключившейся системе. Этот элемент поврежден, но не разрушен полностью.",
+    "zh": "人工神经网络负责管理星舰的各种电子子系统并确保一切功能有条不紊，当系统受到损伤或者离线时，它要重新制定能量分配线路并进行运算处理。这个人工神经网络虽然已经损坏，但并不是完全不可救"
+  },
+  "groupID": 754,
+  "iconID": 3256,
+  "marketGroupID": 1863,
   "name": {
     "de": "Damaged Artificial Neural Network",
     "en": "Damaged Artificial Neural Network",
@@ -10,5 +22,7 @@
     "ru": "Damaged Artificial Neural Network",
     "zh": "损坏的人工神经网络"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

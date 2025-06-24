@@ -1,5 +1,16 @@
 {
-  "typeID": 10788,
+  "description": {
+    "de": "Dieses riesige Silo trägt die Narben vieler Meteoriteneinschläge Vermutlich schwebt es her schon lange herum.",
+    "en": "This enormous metal silo bears many marks of meteor-hits, suggesting it's lingered here for a long time.",
+    "es": "Este enorme depósito de metal presenta múltiples marcas de impactos de meteoritos, lo que sugiere que lleva aquí mucho tiempo.",
+    "fr": "Cet énorme silo métallique porte les marques de nombreux impacts de météorites, indiquant qu'il est là depuis longtemps.",
+    "ja": "巨大な金属製サイロ。隕石が衝突した痕跡が無数にあり、長い間この地点に放置されていることがうかがえる。",
+    "ko": "거대한 사일로의 금속 표면에 운석 충돌 흔적이 가득한 것으로 보아 오랜 시간 이 자리에 놓여있었을 것입니다.",
+    "ru": "Это огромное металическое хранилище носит многочисленные следы столкновения с метеоритами. Скорее всего оно здесь находится уже долгое время.",
+    "zh": "巨大的金属储藏库，上面留有许多陨石碰撞的痕迹，说明它已在此漂浮了很长时间。"
+  },
+  "graphicID": 2007,
+  "groupID": 226,
   "name": {
     "de": "Gas/Storage Silo",
     "en": "Gas/Storage Silo",
@@ -10,5 +21,8 @@
     "ru": "Gas/Storage Silo",
     "zh": "气体贮藏舱"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 1060.0,
+  "sofFactionName": "genericbase"
 }

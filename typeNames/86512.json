@@ -1,5 +1,18 @@
 {
-  "typeID": 86512,
+  "capacity": 1200.0,
+  "description": {
+    "de": "Eine Raubdrohne, die einem Schiff der Zerstörerklasse entspricht. Ihre Hauptaufgabe scheint die Energiespeicherneutralisation zu sein.",
+    "en": "A Rogue Drone equivalent to a destroyer-class ship. Its primary objective seems to be capacitor neutralization.",
+    "es": "Un dron rebelde equivalente a una nave de clase destructor. Su objetivo principal parece ser la neutralización de condensadores.",
+    "fr": "Un drone renégat équivalent à un destroyer. Son objectif principal semble être la neutralisation du capaciteur.",
+    "ja": "キャパシタの中和を主な役割としているらしい、駆逐艦級艦船相当のローグドローン。",
+    "ko": "디스트로이어급 함선과 동급인 로그 드론입니다. 캐패시터 무력화가 주요 임무인 것으로 보입니다.",
+    "ru": "Этот восставший дрон по характеристикам соответствует эсминцу. Похоже, его основная функция — нейтрализация заряда накопителя.",
+    "zh": "一架驱逐舰级别的自由无人机。其主要目标似乎在于中和电容器。"
+  },
+  "graphicID": 1220,
+  "groupID": 1664,
+  "mass": 1500000.0,
   "name": {
     "de": "Siphoning Guardian",
     "en": "Siphoning Guardian",
@@ -10,5 +23,10 @@
     "ru": "Siphoning Guardian",
     "zh": "虹吸守卫"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 45.0,
+  "sofFactionName": "roguebase",
+  "soundID": 11,
   "volume": 60.0
 }

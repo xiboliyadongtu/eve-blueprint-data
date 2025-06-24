@@ -1,5 +1,19 @@
 {
-  "typeID": 43551,
+  "capacity": 3.0,
+  "description": {
+    "de": "Dieses Modul kann mit verschiedenen Bergbauvorarbeiterstrahlenmunitionsarten geladen werden. Es verteilt ein Feld aus förderlichen Naniten an Flottenmitglieder und verbessert so ihre Bergbaufähigkeiten.\n\n\n\nBonus von +25 % auf die effektive Stärke von Bergbauvorarbeiterstrahlenmunition für dieses Modul.",
+    "en": "This module can be loaded with a variety of Mining Foreman Burst Charges to project a field of beneficial nanites over fleet members, improving their mining capabilities.\r\n\r\n+25% bonus to the effect strength of Mining Foreman Burst charges launched from this module.",
+    "es": "Este módulo se puede equipar con una variedad de cargas de estallido de capataz minero para proyectar un campo de nanobots beneficiosos sobre los miembros de la flota y mejorar así sus capacidades mineras.\n\n+25 % de bonificación a la intensidad del efecto de los estallidos de capataz minero que se lancen desde este módulo.",
+    "fr": "Muni de charges de salves de contremaîtrise minière, ce module projette un champ de nanites qui optimise les performances d'extraction de la flotte alliée.\n\n\n\nAugmente de 25 % la puissance des effets produits par les charges de salves de contremaîtrise minière.",
+    "ja": "このモジュールは各種採掘支援バーストチャージを装填することで、フリートメンバーに有利に作用するナノマシンを一帯に射出し、フリートの採掘能力を向上させることができます。このモジュールから射出する採掘支援バーストチャージの効果強度が25%増加。",
+    "ko": "각종 채광 버스트용 차지를 탑재할 수 있는 모듈입니다. 버스트 사용 시 나나이트 필드를 전개하여 함대의 채광 효율을 향상합니다.<br><br>채광 버스트 차지 효과 25% 증가",
+    "ru": "Этот модуль используется в сочетании с ассортиментом зарядов для импульсных оптимизаторов добычи; положительное воздействие активных нанитов на союзников по флоту обеспечивает повышенную эффективность добычи ресурсов.\n\n\n\nНа 25% повышается эффективность импульсов, генерируемых зарядами импульсных оптимизаторов добычи в этом модуле.",
+    "zh": "这个装备可以装载一系列开采先锋脉冲波弹药，对舰队成员投射一个纳米增益力场，提高他们的采矿能力。\n\n\n\n由此装备发射的开采先锋脉冲波弹药的效果强度提高25%"
+  },
+  "groupID": 1770,
+  "iconID": 21695,
+  "marketGroupID": 1633,
+  "metaGroupID": 2,
   "name": {
     "de": "Mining Foreman Burst II",
     "en": "Mining Foreman Burst II",
@@ -10,5 +24,8 @@
     "ru": "Mining Foreman Burst II",
     "zh": "开采先锋脉冲波 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 42528,
   "volume": 60.0
 }

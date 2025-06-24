@@ -1,5 +1,17 @@
 {
-  "typeID": 364618,
+  "basePrice": 99000.0,
+  "description": {
+    "de": "Grundlegende Kenntnisse über Waffenupgrades. \n\nSchaltet die Fähigkeit frei, Waffenupgrades wie beispielsweise Schadensmodifikatoren zu verwenden.\n\n3% Abzug auf die CPU-Auslastung von Waffenupgrades pro Skillstufe.",
+    "en": "Basic understanding of weapon upgrades. \r\n\r\nUnlocks ability to use weapon upgrades such as damage modifiers.\r\n\r\n3% reduction to weapon upgrade CPU usage per level.",
+    "es": "Conocimiento básico de mejoras de armamento. \n\nDesbloquea la habilidad de usar mejoras de armas, tales como modificadores de daño.\n\n-3% al coste de CPU de las mejoras de armamento por nivel.",
+    "fr": "Notions de base en améliorations des armes. \n\nDéverrouille l'utilisation des améliorations des armes telles que les modificateurs de dommages.\n\n 3 % de réduction d'utilisation de CPU des améliorations des armes par niveau.",
+    "it": "Comprensione fondamenti degli aggiornamenti delle armi. \n\nSblocca l'abilità nell'utilizzo degli aggiornamenti delle armi, come ad esempio i modificatori danni.\n\n3% di riduzione all'utilizzo della CPU da parte dell'aggiornamento armi per livello.",
+    "ja": "兵器強化に関する基本的な知識。\n\nダメージ増幅器などの兵器強化を使用可能になる。\n\nレベル上昇ごとに、兵器強化CPU使用量が3%減少する。",
+    "ko": "무기 업그레이드에 대한 기본적인 이해를 습득합니다. <br><br>무기 업그레이드를 잠금 해제합니다. <br><br>매 레벨마다 무기 업그레이드의 CPU 요구치 3% 감소",
+    "ru": "Понимание основ усовершенствования оружия. \n\nПозволяет использовать пакеты модернизации оружия, такие, как модификаторы урона.\n\n3% снижение использования ресурса ЦПУ пакетом модернизации оружия на каждый уровень.",
+    "zh": "武器升级基本知识。解锁使用武器升级件的能力，例如伤害量调整器。每升一级，武器升级件的CPU使用率降低3%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Upgrades für Handfeuerwaffen",
     "en": "Handheld Weapon Upgrades",
@@ -11,5 +23,6 @@
     "ru": "Пакеты модернизации ручного оружия",
     "zh": "手持武器升级件"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

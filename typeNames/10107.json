@@ -1,5 +1,18 @@
 {
-  "typeID": 10107,
+  "capacity": 100.0,
+  "description": {
+    "de": "Dies ist ein Sicherheitsschiff der Intaki Weltraumpolizei. Es patrouilliert in diesem Sektor und wird auf jeden Kampf reagieren, den es entdeckt. Falls nötig, kann dieses Schiff Verstärkung aus den nahegelegenen Sektoren rufen.\r\n\r\nBedrohungsstufe: Sehr hoch",
+    "en": "This is a security vessel of the Intaki Space Police. It is patrolling this sector and will respond to any combat it detects. It can call in reinforcements from nearby sectors if the need arises. Threat level: Very high",
+    "es": "Nave de seguridad de la Policía Espacial Intaki que patrulla por este sector y responderá a cualquier combate que detecte. Puede pedir refuerzos de los sectores cercanos si es necesario. Nivel de amenaza: muy alto.",
+    "fr": "Ceci est un vaisseau de sécurité de l'Intaki Space Police. Il est en patrouille dans ce secteur et interviendra dans tout combat qu'il pourra détecter. Au besoin, il peut appeler des renforts des secteurs voisins. Niveau de menace : très élevé",
+    "ja": "インタキ宇宙警察のセキュリティ艦。管轄区域をパトロールし、戦闘行為を探知すると現場へ急行する。緊急時には近隣区域からの援軍を要請することも可能。危険度:非常に高い",
+    "ko": "인타키 우주경찰의 경비함입니다. 지역을 순찰 중이며 교전 발견 시 즉각 개입합니다. 유사시 근처 지역에서 증원군을 요청합니다. 위험도: 매우 높음",
+    "ru": "Это корабль сил безопасности Космической полиции Intaki. Он патрулирует этот сектор и открывает ответный огонь по недружественным объектам. В случае необходимости может вызвать подкрепление из ближайших секторов. Уровень опасности: очень высокий",
+    "zh": "这是一艘印塔基空间警察的安全船只。它在这个地区中巡逻，会对侦测到的任何战斗做出响应。如果形势需要，它会呼叫邻近区域的增援部队。威胁等级：非常高"
+  },
+  "graphicID": 1843,
+  "groupID": 288,
+  "mass": 2300000.0,
   "name": {
     "de": "Intaki Defense Command Sergeant Major",
     "en": "Intaki Defense Command Sergeant Major",
@@ -10,5 +23,11 @@
     "ru": "Intaki Defense Command Sergeant Major",
     "zh": "印塔基 防卫舰队军校"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 39.0,
+  "sofFactionName": "creodron",
+  "soundID": 30,
   "volume": 23000.0
 }

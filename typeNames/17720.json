@@ -1,5 +1,75 @@
 {
-  "typeID": 17720,
+  "basePrice": 36000000.0,
+  "capacity": 400.0,
+  "description": {
+    "de": "Die Cynabal war eines der ersten Schiffsdesigns, das vom Angel Cartel hervorgebracht wurden und ist bis heute eines ihrer meistverwendeten. Die Herkunft ist unklar, aber wie bei den meisten Schiffen des Kartells, sind Gerüchte über Verbindungen zu den Jove im Umlauf. Ob das auf der Wahrheit beruht oder nicht, eines ist klar: Die Cynabal ist einer der schnellsten und schlagkräftigsten Kreuzer, den man finden kann.",
+    "en": "The Cynabal was one of the earliest designs put forth by the Angel Cartel, and to this day it remains their most-used. The ship's origins are unknown, but as with most Cartel ships persistent rumors of Jovian influence continue to linger. Whether these tales have basis in reality or not, the facts are on the table: The Cynabal is one of the fastest, most powerful cruisers to be found anywhere.",
+    "es": "La Cynabal fue una de las primeras creaciones del Cártel de los Ángeles y sigue siendo una de las naves más usadas a día de hoy. Sus orígenes son desconocidos; pero, como con la mayoría de naves del Cártel, hay rumores constantes sobre la posible influencia joviana. Tanto si es cierto como si no, los hechos son los que son: la Cynabal es uno de los cruceros más rápidos y poderosos en activo.",
+    "fr": "Parmi les premiers vaisseaux produits par le cartel angel, le Cynabal reste à ce jour la coque iconique de la faction. Son design d'origine inconnue n'est cependant pas sans rappeler les courbes organiques jove, dont semblent s'inspirer la plupart des vaisseaux angel. Que la rumeur soit avérée ou non, le Cynabal est sans conteste l'un des croiseurs les plus rapides et les plus puissants de l'amas.",
+    "ja": "サイナバルはエンジェルカルテルが最初期に設計した艦の一つだが、今日でも最もよく使用されている。起源は不明ながら、カルテルのほとんどの艦船が噂されているように、ジョヴの影響を感じずにはいられない艦だ。こうした噂が本当であれ嘘であれ、間違いなく言える事実もある。「サイナバルはニューエデンで最も早く、強力な巡洋艦のうちの一つである」と。",
+    "ko": "엔젤 카르텔이 초창기에 개발한 함선이지만 여전히 널리 사용되고 있습니다. 시나발의 탄생에 대해 공식적으로 알려진 바는 없으나 대부분의 엔젤 카르텔 함선과 마찬가지로 조브의 영향이 있었다는 소문이 끊이지 않습니다. 이러한 소문이 근거 있는 것인지 아닌지는 알 수 없으나 시나발이 가장 빠르고 강력한 크루저 중 하나라는 점만은 사실입니다.",
+    "ru": "Крейсеры типа «Сайнабал» производят по одному из первых проектов, разработанных «картелем ангелов»; лидируют они и по частоте применения. Происхождение корабля неизвестно. Однако, как и в отношении большинства кораблей «картеля», ходят упорные слухи о джовианском влиянии. Независимо от того, имеют ли эти слухи под собой основание, факты остаются фактами: тяжело найти крейсер мощнее или быстрее, чем «Сайнабал».",
+    "zh": "塞纳波级巡洋舰是天使企业联合体最早的飞船设计之一，直到现在，它依然是使用最为广泛的。这种船的起源已不可考，不过据说多数联合体的船只都留有朱庇特人的痕迹，估计这艘船也不会例外。无论这些传言是否有据可循，事实就是：塞纳波级是速度最快，火力最强的巡洋舰之一。"
+  },
+  "factionID": 500011,
+  "graphicID": 337,
+  "groupID": 26,
+  "marketGroupID": 1371,
+  "mass": 9047000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      164,
+      150,
+      72,
+      141,
+      85,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      164,
+      150,
+      72,
+      141,
+      85,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      164,
+      150,
+      72,
+      141,
+      85,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      164,
+      150,
+      72,
+      141,
+      85,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      164,
+      150,
+      72,
+      141,
+      85,
+      118,
+      94
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Cynabal",
     "en": "Cynabal",
@@ -9,6 +79,83 @@
     "ko": "시나발",
     "ru": "Cynabal",
     "zh": "塞纳波级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 170.0,
+  "sofFactionName": "angelbase",
+  "soundID": 20111,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 25.0,
+        "bonusText": {
+          "de": "Bonus auf die Feuerrate von <a href=showinfo:3305>mittelgroßen Projektilgeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:3305>Medium Projectile Turret</a> rate of fire",
+          "es": "de bonificación a la cadencia de tiro de la <a href=showinfo:3305>torreta de proyectiles mediana</a>.",
+          "fr": "de bonus à la cadence de tir des <a href=showinfo:3305>tourelles à projectiles intermédiaires</a>",
+          "ja": "<a href=showinfo:3305>中型プロジェクタイルタレット</a>の発射間隔が短縮",
+          "ko": "<a href=showinfo:3305>중형 발사체 터렛</a> 연사속도 증가",
+          "ru": "повышается скорострельность <a href=showinfo:3305>средних баллистических орудий</a>",
+          "zh": "<a href=\"showinfo:3305\">中型射弹炮台</a>射速加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 25.0,
+        "bonusText": {
+          "de": "Bonus auf die Warpgeschwindigkeit und Warpbeschleunigung",
+          "en": "bonus to warp speed and warp acceleration",
+          "es": "de bonificación a la velocidad y la aceleración de warp.",
+          "fr": "bonus à la vitesse et à l'accélération du warp",
+          "ja": "ワープ速度とワープ加速が上昇",
+          "ko": "워프 속도 및 워프 가속도 증가",
+          "ru": "повышается скорость полёта и ускорение корабля (только в варп-режиме)",
+          "zh": "跃迁速度和跃迁加速加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3332": [
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf den Präzisionsabfall von <a href=showinfo:3305>mittelgroßen Projektilgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3305>Medium Projectile Turret</a> falloff",
+            "es": "de bonificación al alcance efectivo de la <a href=showinfo:3305>torreta de proyectiles mediana</a>.",
+            "fr": "de bonus de distance de perte des <a href=showinfo:3305>tourelles à projectiles intermédiaires</a>",
+            "ja": "<a href=showinfo:3305>中型プロジェクタイルタレット</a>の精度低下範囲が拡大",
+            "ko": "<a href=showinfo:3305>중형 발사체 터렛</a> 유효사거리 증가",
+            "ru": "увеличивается добавочная дальность ведения огня из <a href=showinfo:3305>средних баллистических орудий</a>",
+            "zh": "<a href=\"showinfo:3305\">中型射弹炮台</a>失准范围加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ],
+      "3333": [
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3305>mittelgroßen Projektilgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3305>Medium Projectile Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3305>torreta de proyectiles mediana</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:3305>tourelles à projectiles intermédiaires</a>",
+            "ja": "<a href=showinfo:3305>中型プロジェクタイルタレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3305>중형 발사체 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон боеприпасов <a href=showinfo:3305>средних баллистических орудий</a>",
+            "zh": "<a href=\"showinfo:3305\">中型射弹炮台</a>伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 101000.0
 }

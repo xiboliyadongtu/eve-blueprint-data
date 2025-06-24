@@ -1,5 +1,18 @@
 {
-  "typeID": 2896,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Alles, was von der Bergbaustation übrig ist, ist eine albtraumartig verdrehte Hülle, die inzwischen zu einer Raubdrohnenbasis umfunktioniert wurde.",
+    "en": "All that remains of the mining station is a twisted, nightmarish husk that has been transformed into a rogue drone base.",
+    "es": "Lo único que queda de la estación minera es una dantesca cáscara retorcida que se ha transformado en una base de drones rebeldes.",
+    "fr": "Tout ce qui reste de la station d'extraction minière se trouve dans cette carcasse, qui a depuis été transformée en une base pour drones renégats.",
+    "ja": "採掘ステーションだったが、今は捻じ曲がった気味の悪いガラクタしか残っていない。ローグドローンの基地に姿を変えている。",
+    "ko": "폐허가 된 채굴기지로 로그 드론에 감염되어 악몽과도 같은 분위기를 풍기고 있습니다.",
+    "ru": "Все, что осталось от шахтерской станции - искореженный, кошмарный остов, превращенный в базу восставших дронов.",
+    "zh": "该矿站已是废墟一片，只剩下扭曲反转，形状可怕的钢架结构。它已经成了自由无人机的一座基地。"
+  },
+  "graphicID": 2565,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Patient Zero",
     "en": "Patient Zero",
@@ -10,5 +23,9 @@
     "ru": "Patient Zero",
     "zh": "0号病人"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 5858.0,
+  "sofFactionName": "roguebase",
   "volume": 100000000.0
 }

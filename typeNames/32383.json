@@ -1,5 +1,17 @@
 {
-  "typeID": 32383,
+  "description": {
+    "de": "Ein einfacher, aber effektiver Sprengstoff, der von den Guristas speziell für taktische Operationen verwendet wird. Diese 'niederträchtige' Bombe verursacht bei Detonation massiven Schaden an allen Schiffen, Strukturen oder Raumschiff-Basen. Ihre hohe Empfindlichkeit stellt allerdings ein Problem dar: Der Transport der Bombe ist gefährlicher als die eigentliche Zündung.",
+    "en": "A rudimentary, though effective, explosion matrix, used specifically for Guristas special operation tactical strikes. Once inside a ship's cargo bay, this “dirty” bomb will, upon detonation, cause massive damage to any ship, structure, or starship base. It's volatility, however, is also a liability: Getting the bomb to its destination is more dangerous than actually utilizing the explosion system.",
+    "es": "Sistema explosivo rudimentario pero eficaz usado específicamente por los Guristas para lanzar ataques tácticos en sus operaciones especiales. Una vez dentro de la bodega, esta bomba sucia explotará y causará una gran cantidad de daño a cualquier nave, estructura o base. Sin embargo, su volatilidad entraña riesgos, ya que conseguir llevar la bomba a su destino es más peligroso que detonarla.",
+    "fr": "Matrice d'explosion rudimentaire mais efficace, utilisée spécialement pour les opérations tactiques guristas. Une fois à l'intérieur de la baie de chargement d'un vaisseau, cette bombe « sale » provoquera d'énormes dégâts au vaisseau, sa structure, ou sa base. Toutefois, son instabilité peut également être un inconvénient : le transport de la bombe peut en effet s'avérer plus dangereux encore que son utilisation.",
+    "ja": "原始的だが効果的な爆発母材で、特にガリスタスの特殊任務の戦術的攻撃向けに使用される。船のカーゴベイに置くと、この「危ない」爆弾は爆発を起こし、船や構造物、艦船基地に甚大な損傷をもたらす。不安定だが、一方その信頼性は高い。この爆弾を目的地に運ぶのは、実際のところ起爆システムを使うよりも危険がある。",
+    "ko": "구리스타스 특수 작전부대에서 사용하는 폭발물로 원초적인 형태의 폭탄이지만 매우 강력한 위력을 지니고 있습니다. 폭발 시 함선, 구조물, 스타베이스에 막대한 타격을 입힐 수 있습니다. 그러나 위력만큼이나 불안정성이 높아 골칫거리가 되기도 합니다. 목적지까지 폭탄을 가지고 가는 과정 자체가 매우 위험합니다.",
+    "ru": "Примитивная, но эффективная матрица взрывчатки, которую особенно предпочитают использовать для спецопераций при тактических ударах. Если эту «грязную» бомбу поместить в грузовой отсек, при детонации она нанесет массивные повреждения любому кораблю, структуре или звездной базе. Вместе с тем легкость подрыва составляет проблему. Доставить бомбу к месту назначения гораздо опаснее, чем использовать само взрывное устройство.",
+    "zh": "这是一个简单但是有效地连锁爆破系统，专门为古斯塔斯的特别行动战术打击所使用。在进入到舰船的货柜舱过后，这个“肮脏”炸弹会在引爆时给舰船或者舰船基地的结构造成巨大的损伤。它具有的不稳定特性成为了它的最大障碍：通常，将这个炸弹安装到适当位置要比真正使用这个炸弹来的危险得多。"
+  },
+  "groupID": 314,
+  "iconID": 2863,
+  "mass": 1.0,
   "name": {
     "de": "Guristas 'Dirty' Explosive System",
     "en": "Guristas 'Dirty' Explosive System",
@@ -10,5 +22,7 @@
     "ru": "Guristas 'Dirty' Explosive System",
     "zh": "古斯塔斯\"肮脏\"爆炸系统"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

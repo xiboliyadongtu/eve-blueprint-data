@@ -1,5 +1,16 @@
 {
-  "typeID": 21111,
+  "description": {
+    "de": "Eine Mammoth, die von einem Agenten geflogen wird.",
+    "en": "A Mammoth piloted by an agent.",
+    "es": "Mammoth pilotada por un agente.",
+    "fr": "Un Mammoth piloté par un agent.",
+    "ja": "エージェントを乗せたマンモス。",
+    "ko": "에이전트가 조종하는 맘모스입니다.",
+    "ru": "Корабль класса Mammoth, управляемый агентом.",
+    "zh": "由代理人驾驶的猛犸级飞船。"
+  },
+  "graphicID": 309,
+  "groupID": 517,
   "name": {
     "de": "Cosmos Mammoth",
     "en": "Cosmos Mammoth",
@@ -10,5 +21,9 @@
     "ru": "Cosmos Mammoth",
     "zh": "深空 猛犸级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 660.0,
+  "sofFactionName": "minmatarbase"
 }

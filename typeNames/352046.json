@@ -1,5 +1,17 @@
 {
-  "typeID": 352046,
+  "basePrice": 3420.0,
+  "description": {
+    "de": "Passive Reparatur von Schäden an der Dropsuit-Panzerung.",
+    "en": "Passively repairs damage done to dropsuit's armor.",
+    "es": "Repara de forma pasiva el daño del blindaje del traje.",
+    "fr": "Répare de façon passive les dommages sur le blindage de la combinaison.",
+    "it": "Ripara passivamente i danni inflitti alla corazza dell'armatura.",
+    "ja": "降下スーツのアーマーが受けたダメージを自動リペアする。",
+    "ko": "강하슈트의 장갑을 지속적으로 수리합니다.",
+    "ru": "В пассивном режиме восстанавливает урон, нанесённый броне скафандра.",
+    "zh": "被动修复对作战服的装甲造成的伤害"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Verbessertes Panzerungsreparaturaggregat 'Menhir'",
     "en": "'Menhir' Enhanced Armor Repairer",
@@ -11,5 +23,7 @@
     "ru": "Улучшенный модуль ремонта брони 'Menhir'",
     "zh": "“巨碑”级增强型装甲维修器"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

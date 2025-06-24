@@ -1,5 +1,19 @@
 {
-  "typeID": 31402,
+  "description": {
+    "de": "Diese Schiffsmodifikation wurde dazu entwickelt, den CPU-Bedarf aller Power Upgrade Module eines Schiffes zu verringern.",
+    "en": "This ship modification is designed to reduce a ship's CPU need for all power upgrade modules.",
+    "es": "Esta modificación de nave está diseñada para reducir la necesidad de CPU de todos los módulos de mejora de potencia.",
+    "fr": "Cette modification de vaisseau est conçue pour réduire les contraintes de CPU d'un vaisseau pour tous les modules d'amélioration de puissance.",
+    "ja": "全パワー強化モジュールのCPU使用量が減少する。",
+    "ko": "리그 장착 시 파워 업그레이드 모듈 CPU 요구치가 감소합니다.",
+    "ru": "Эта модификация корабля уменьшает объем вычислительной мощности процессора, необходимой для установки всех пакетов модернизации энергосети.",
+    "zh": "这个飞船改装件用于减少所有能源升级设备的CPU需求。"
+  },
+  "groupID": 781,
+  "iconID": 3195,
+  "marketGroupID": 1223,
+  "mass": 200.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Medium Powergrid Subroutine Maximizer II",
     "en": "Medium Powergrid Subroutine Maximizer II",
@@ -10,5 +24,9 @@
     "ru": "Medium Powergrid Subroutine Maximizer II",
     "zh": "中型能量栅格子程序优化器 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 100.0,
+  "variationParentTypeID": 31396,
   "volume": 10.0
 }

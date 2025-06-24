@@ -1,5 +1,18 @@
 {
-  "typeID": 20533,
+  "basePrice": 450000000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Capital-Schiffen. 5 % Bonus je Skillstufe auf die Wendigkeit von Schiffen, die den Skill Capital Ships erfordern.",
+    "en": "Skill for the operation of capital ships. Grants a 5% bonus per skill level to the agility of ships requiring the Capital Ships skill.",
+    "es": "Habilidad de manejo de naves capitales. Otorga un 5 % de bonificación por nivel de habilidad a la agilidad de las naves que requieran la habilidad de naves capitales.",
+    "fr": "Compétence permettant de piloter des vaisseaux capitaux. Augmente de 5 % par niveau de compétence l'agilité des vaisseaux nécessitant la compétence Vaisseaux capitaux.",
+    "ja": "主力艦を操作するスキル。スキルレベル上昇ごとに主力艦スキルを必要とする艦船の機動性が5%向上する。",
+    "ko": "캐피탈 함선을 운용하기 위한 스킬입니다. 매 레벨마다 캐피탈 함선 스킬이 요구되는 함선의 기동성 5% 증가",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на кораблях большого тоннажа. Дальнейшее освоение навыка поможет пилоту повысить маневренность кораблей большого тоннажа (на 5% за каждую степень освоения навыка).",
+    "zh": "操控旗舰级船只的技能。每升一级，需要此技能的飞船的灵活性提升5%。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Capital Ships",
     "en": "Capital Ships",
@@ -10,5 +23,7 @@
     "ru": "Корабли большого тоннажа",
     "zh": "旗舰级舰船操作"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

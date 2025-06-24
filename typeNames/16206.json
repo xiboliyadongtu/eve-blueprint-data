@@ -1,5 +1,18 @@
 {
-  "typeID": 16206,
+  "basePrice": 70000.0,
+  "description": {
+    "de": "Schwere Angriffsdrohne",
+    "en": "Heavy Attack Drone",
+    "es": "Dron de asalto pesado",
+    "fr": "Drone d'attaque lourd.",
+    "ja": "ヘビーアタックドローン",
+    "ko": "헤비 어택 드론",
+    "ru": "Тяжелый боевой дрон",
+    "zh": "重型攻击无人机"
+  },
+  "graphicID": 20250,
+  "groupID": 100,
+  "mass": 12000.0,
   "name": {
     "de": "Hellhound I",
     "en": "Hellhound I",
@@ -10,5 +23,10 @@
     "ru": "Hellhound I",
     "zh": "地狱犬 I"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 35.0,
+  "sofFactionName": "gallentebase",
   "volume": 25.0
 }

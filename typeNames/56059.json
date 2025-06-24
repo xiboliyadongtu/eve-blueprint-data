@@ -1,5 +1,7 @@
 {
-  "typeID": 56059,
+  "graphicID": 1217,
+  "groupID": 920,
+  "mass": 1.0,
   "name": {
     "de": "Strong Metaliminal Exotic Matter Storm",
     "en": "Strong Metaliminal Exotic Matter Storm",
@@ -9,6 +11,96 @@
     "ko": "상급 메타경계성 엑조틱 물질 폭풍",
     "ru": "Strong Metaliminal Exotic Matter Storm",
     "zh": "强金属极限异种物质风暴"
+  },
+  "portionSize": 250,
+  "published": true,
+  "sofFactionName": "genericbase",
+  "traits": {
+    "iconID": 21905,
+    "miscBonuses": [
+      {
+        "bonus": 25.0,
+        "bonusText": {
+          "de": "Reduktion der Kinetikresistenz von Schiffen",
+          "en": "reduction in ship kinetic resistances",
+          "es": "de reducción de las resistencias cinéticas de la nave.",
+          "fr": "de réduction des résistances cinétiques du vaisseau",
+          "ja": "艦船のキネティックレジスタンスが減少",
+          "ko": "키네틱 저항력 감소",
+          "ru": "уменьшение сопротивляемости корабля кинетическому урону",
+          "zh": "舰船动能抗性降低"
+        },
+        "importance": 1,
+        "isPositive": false,
+        "unitID": 105
+      },
+      {
+        "bonus": 25.0,
+        "bonusText": {
+          "de": "Bonus auf die Zyklusgeschwindigkeit von Bergbaulasern",
+          "en": "bonus to mining laser cycle speed",
+          "es": "de bonificación a la velocidad de ciclo del láser minero.",
+          "fr": "de bonus de vitesse de cycle des lasers d'extraction",
+          "ja": "採掘レーザーのサイクル速度を短縮",
+          "ko": "채굴 레이저 사이클 시간 감소",
+          "ru": "бонус к скорости цикла бурового лазера",
+          "zh": "采矿激光器循环速度加成"
+        },
+        "importance": 3,
+        "isPositive": true,
+        "unitID": 105
+      },
+      {
+        "bonus": 25.0,
+        "bonusText": {
+          "de": "Bonus auf die Zyklusgeschwindigkeit von <a href=showinfo:3393>Panzerungsreparatursystemen</a> und <a href=showinfo:3416>Schildboostern</a>",
+          "en": "bonus to local <a href=showinfo:3393>Armor Repairer</a> and <a href=showinfo:3416>Shield Booster</a> cycle speed",
+          "es": "de bonificación a la velocidad de ciclo del <a href=showinfo:3393>reparador de blindaje</a> y el <a href=showinfo:3416>potenciador de escudo</a> locales.",
+          "fr": "de bonus au <a href=showinfo:3393>réparateur de blindage</a> local et à la vitesse de cycle du <a href=showinfo:3416>booster de bouclier</a>",
+          "ja": "ローカル<a href=showinfo:3393>アーマーリペアラ</a>と<a href=showinfo:3416>シールドブースター</a>のサイクル速度が増加",
+          "ko": "<a href=showinfo:3393>장갑수리 장치</a> 및 <a href=showinfo:3416>실드 부스터</a> 사이클 시간 감소",
+          "ru": "бонус к скорости цикла <a href=showinfo:3393>установки ремонта брони</a> и <a href=showinfo:3416>модуля усиления щитов</a>",
+          "zh": "自身<a href=showinfo:3393>装甲维修器</a>和<a href=showinfo:3416>护盾回充增量器</a>循环速度加成"
+        },
+        "importance": 4,
+        "isPositive": true,
+        "unitID": 105
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Bonus auf die Scanauflösung von Schiffen",
+          "en": "bonus to ship scan resolution",
+          "es": "de bonificación a la resolución de escaneo de la nave.",
+          "fr": "de bonus à la résolution du balayage du vaisseau",
+          "ja": "艦船のスキャン分解能を強化",
+          "ko": "함선 스캔 정밀도 증가",
+          "ru": "бонус к разрешающей способности сенсоров корабля",
+          "zh": "舰船扫描分辨率加成"
+        },
+        "importance": 2,
+        "isPositive": true,
+        "unitID": 105
+      },
+      {
+        "bonus": 100.0,
+        "bonusText": {
+          "de": "Bonus auf Warpgeschwindigkeit von Schiffen",
+          "en": "bonus to ship warp speed",
+          "es": "de bonificación a la velocidad de warp de la nave.",
+          "fr": "de bonus à la vitesse de warp du vaisseau",
+          "ja": "艦船のワープ速度が増加",
+          "ko": "워프 속도 증가",
+          "ru": "бонус к скорости хода корабля в варп-режиме",
+          "zh": "舰船跃迁速度加成"
+        },
+        "importance": 5,
+        "isPositive": true,
+        "unitID": 105
+      }
+    ],
+    "roleBonuses": [],
+    "types": {}
   },
   "volume": 20.0
 }

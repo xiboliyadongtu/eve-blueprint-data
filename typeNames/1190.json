@@ -1,5 +1,20 @@
 {
-  "typeID": 1190,
+  "basePrice": 140108.0,
+  "description": {
+    "de": "Transferiert Energie aus dem Energiespeicher zu einem anderen Schiff.",
+    "en": "Transfers capacitor energy to another ship.",
+    "es": "Transfiere energía del condensador a otra nave.",
+    "fr": "Transfère l'énergie du capaciteur vers un autre vaisseau.",
+    "ja": "キャパシタのエネルギーを他の船に送電する。",
+    "ko": "캐패시터 에너지를 다른 함선에 전송합니다.",
+    "ru": "Передает накопленную в конденсаторе энергию другому кораблю.",
+    "zh": "将电容能量转移到另一艘舰船上。"
+  },
+  "groupID": 67,
+  "iconID": 1035,
+  "marketGroupID": 695,
+  "mass": 10000.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Small Remote Capacitor Transmitter II",
     "en": "Small Remote Capacitor Transmitter II",
@@ -10,5 +25,9 @@
     "ru": "Small Remote Capacitor Transmitter II",
     "zh": "小型远程电容传输装置 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 2000.0,
+  "variationParentTypeID": 529,
   "volume": 5.0
 }

@@ -1,5 +1,21 @@
 {
-  "typeID": 41322,
+  "basePrice": 100000.0,
+  "description": {
+    "de": "Die Void Xenon-Ladung ist eine hochenergetische Blasterladung, die einen extrem energiereichen Feuerstoß aus kinetischer Energie liefert. Allerdings hat sie mehrere schwerwiegende Nachteile, am wichtigsten dabei ist die Tatsache, dass sie eine bedeutend höhere Energiemenge aus dem Energiespeicher benötigt als jede andere Blasterladung. Sie braucht auch eine etwas längere Zeit als normal, um ein klares Ziel zu finden.\n\n\n\n25% geringere optimale Reichweite.\n\n25% niedrigere Nachführgeschwindigkeit.\n\n50 % geringere Präzisionsabfall-Reichweite\n\n\n\nHinweis: Diese Munition kann nur von Capital-Blastern der Technologiestufe II und Fraktionsvarianten benutzt werden.",
+    "en": "The Void Xenon charge is a high-powered blaster charge that delivers an extremely powerful blast of kinetic energy. However, it has several serious drawbacks, most notably the fact that it requires considerably more capacitor energy than any other blaster charge. It also needs to maintain a clean aim for a slightly longer time than normal.\r\n\r\n25% reduced optimal range.\r\n25% reduced tracking speed.\r\n50% reduced falloff range.\r\n\r\nNote: This ammunition can only be used by capital tech level II and faction Blasters.",
+    "es": "La carga de xenón Void es una carga de bláster de alta potencia que provoca una poderosísima explosión de energía cinética. Sin embargo, tiene varias desventajas muy graves; principalmente, que requiere mucha más energía del condensador que cualquier otra carga de bláster. Además, debe apuntarse directamente sobre el objetivo algo más de tiempo de lo normal.\n\nAlcance óptimo reducido un 25 %.\n\n25 % de reducción a la velocidad de rastreo.\n\n50 % de reducción al alcance efectivo.\n\nAviso: Esta munición solo es compatible con blásteres T2 y faccionarios para naves capitales.",
+    "fr": "Le xénon vide est une redoutable charge de blaster, qui libère une explosion d'énergie cinétique extrêmement puissante. Outre ses faiblesses de poursuite et de ciblage, le xénon vide est cependant un véritable gouffre énergétique.\n\n\n\nRéduit de 25 % la portée optimale.\n\nRéduit de 25 % la vitesse de poursuite.\n\nRéduit de 50 % la portée de déperdition.\n\n\n\nRemarque : ces munitions sont réservées aux blasters capitaux de tech II et faction.",
+    "ja": "ボイドキセノンチャージは非常に強力なキネティックエネルギーの爆発を引き起こす高火力ブラスターチャージとなっている。しかし重大な欠点もいくつかあり、中でも、他のブラスターチャージよりもキャパシタ消費がかなり大きいという点が顕著である。さらに、照準を通常の兵器よりもわずかに長く合わせておく必要がある。最適射程距離が25%縮小。トラッキング速度が25%減少。精度低下範囲が50%縮小。注： 大型T2とファクションブラスター専用。",
+    "ko": "보이드 제논 탄은 강력한 에너지 폭발을 일으키는 고 위력 블라스터 탄약입니다. 강한 화력을 가진 대신 다른 블라스터 탄약보다 높은 캐패시터 사용량을 지니고 있으며 일반 탄약보다 더 긴 시간 동안 정확한 조준 상태를 유지해야 합니다. <br><br>최적사거리 25% 감소 <br>트래킹 속도 25% 감소 <br>유효사거리 50% 감소 <br><br>참고: 캐피탈 테크 II 및 팩션 블라스터에만 사용할 수 있습니다.",
+    "ru": "Ксеноновые заряды «Войд» являются мощными боеприпасами для бластеров, наносящими невероятно сильный кинетический удар. Тем не менее, они обладают несколькими серьезными недостатками, самым важным из которых является то, что он нуждается в значительно большем объеме энергии накопителя по сравнению с другими зарядами для бластеров. Они также требуют несколько большего времени на прицеливание.\n\n\n\nСнижает оптимальную дальность действия на 25%.\n\nНа 25% снижается скорость наводки орудий.\n\nСнижает добавочную дальность на 50%.\n\n\n\nПримечание: боеприпасы этого типа можно использовать только в бластерных орудиях КБТ-класса второй техкатегории, а также пиратских или армейских модификаций.",
+    "zh": "“涅槃”氙弹是一种高能疾速炮弹药，能造成剧烈的动能冲击。然而它有一些严重缺陷，最主要的就是它比其他任何疾速炮弹药都更耗电容能量。它的精确瞄准时间也比一般弹药稍长。\n\n\n\n最佳射程减少25%。\n\n跟踪速度降低25%。\n\n失准范围减少50%。\n\n\n\n注：只能用于旗舰级二级科技或势力疾速炮。"
+  },
+  "graphicID": 1047,
+  "groupID": 377,
+  "iconID": 2843,
+  "marketGroupID": 2254,
+  "mass": 0.5,
+  "metaGroupID": 2,
   "name": {
     "de": "Void XL",
     "en": "Void XL",
@@ -10,5 +26,9 @@
     "ru": "Void XL",
     "zh": "涅槃 XL"
   },
+  "portionSize": 100,
+  "published": true,
+  "radius": 10.0,
+  "variationParentTypeID": 17648,
   "volume": 0.125
 }

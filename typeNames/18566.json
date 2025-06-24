@@ -1,5 +1,17 @@
 {
-  "typeID": 18566,
+  "description": {
+    "de": "Dieser Sicherheitscode ist eine Hälfte des Codes, der erforderlich ist, um das Serpentis Fleet HQ zu betreten. Das Beschleunigungstor bleibt nach Benutzen des Codes eine kurze Zeit aktiviert. Nach Verwendung des Codes generiert das Sicherheitssystem des Tores automatisch ein neues Kennwort, wodurch der vorliegende Code ungültig wird.",
+    "en": "This security code is one half of what is needed to enter the Serpentis Fleet HQ. The gate will remain open for a short period of time after the code will be used. After usage, the gate security system automatically creates a new password, rendering this code useless.",
+    "es": "Este código de seguridad es una parte imprescindible para acceder al cuartel general de la flota de Serpentis. El portal permanece abierto durante un breve periodo de tiempo tras usar el código, que queda inutilizable y es sustituido por una nueva contraseña que genera automáticamente el sistema.",
+    "fr": "Ce code de sécurité est la moitié de ce qu'il faut pour pénétrer dans le QG de la flotte serpentis. Le portail restera ouvert un court moment après utilisation du code. Le système de sécurité du portail crée alors automatiquement un nouveau mot de passe, rendant ce code obsolète.",
+    "ja": "半分に切れたセキュリティコード。残りの半分があれば、サーペンティスフリートHQに入ることができる。ゲートが開くのは短時間で、使用直後にシステムが自動的に新たなパスワードを作成するため、それ以後このコードは無効になる。",
+    "ko": "서펜티스 함대 본부로 진입하기 위해 필요한 보안 코드입니다. 해당 보안 코드 입력 시 짧은 시간 동안 게이트가 개방됩니다. 이후 일정 시간 경과 후, 게이트 보안 시스템이 기존 코드를 폐기한 뒤 신규 코드를 생성합니다.",
+    "ru": "Этот код безопасности является половиной того, что необходимо для входа в штаб-квартиру флота Serpentis. После использования кода врата останутся открытыми на короткое время. После использования система безопасности врат автоматически генерирует новый пароль, делая этот код бесполезным.",
+    "zh": "这个安全密码只是进入天蛇舰队总部的所需密码的一半。在使用此密码之后加速轨道会持续打开一小段时间。用过之后，轨道安全系统自动生成一个新的密码，原先的密码自动失效。"
+  },
+  "groupID": 474,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Shipyard Code Part (One half)",
     "en": "Shipyard Code Part (One half)",
@@ -10,5 +22,7 @@
     "ru": "Shipyard Code Part (One half)",
     "zh": "船坞通行密码的一部分(一半)"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

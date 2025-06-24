@@ -1,5 +1,20 @@
 {
-  "typeID": 45605,
+  "description": {
+    "de": "Obwohl Sleeper-Drohnen nicht der Hauch moderner Schildtechnologie innewohnt, sind sie durch die Metallofullerene in ihren Panzerplatten und der Außenhülle sehr robust. Diese technischen Applikationen sind meist Kapselpiloten vorbehalten, doch einzelne illegale Firmen der Gallente haben diesen Hangar im Geheimen für moderne Drohnen entwickelt. In Verbindung mit diesem Projektionssystem spannt sich ein Fullerenfeld um die Drohnen auf, welche somit gleichzeitig mehr einstecken und austeilen können.",
+    "en": "Sleeper drones, while completely devoid of modern shielding technology, are nonetheless sturdy, mainly due to their metallofullerene armor plating and hull composition. Most of these technological applications are for capsuleer vessels, but a few rogue Gallente firms have quietly created this bay for use with contemporary drones. When drones are docked into this system, the projection system enhances their damage capabilities, both in absorbing and delivering damage, through the creation of a fullerene-based field around the drones.",
+    "es": "Aunque están completamente desprovistos de cualquier tecnología de escudo moderna, los drones sleepers son resistentes, principalmente debido a su blindaje de metalofullereno y a la composición de su casco. La mayoría de estas aplicaciones tecnológicas son para naves de capsulistas, pero algunas empresas rebeldes gallentes han creado en secreto esta plataforma para drones contemporáneos. Cuando los drones se acoplan a ella, el sistema de proyección mejora su capacidad tanto para resistir como para infligir daño mediante la creación de un campo basado en fullereno alrededor de los drones.",
+    "fr": "Les drones sleeper, bien que complètement dépourvus de technologie de bouclier moderne, n'en restent pas moins résistants, notamment en raison de leur revêtement de blindage en métallofullerène et la composition de leur coque. La plupart de ces utilisations technologiques sont destinées aux vaisseaux de capsuliers, même si quelques entreprises indépendantes gallente ont conçu cette baie pour l'utiliser avec des drones modernes. Quand les drones sont équipés sur ce système, le système de projection améliore leurs capacités de dégâts absorbés et infligés, grâce à la création d'un champ à base de fullerène autour des drones.",
+    "ja": "スリーパードローンは、現代のシールド技術が全く使われてないにも関わらず、超硬合金フラーレン製のアーマープレートと船体によって非常に頑強だ。こういった技術はほとんどがカプセラの艦船のために応用されているが、ガレンテの悪徳企業数社が現代のドローンに使用するべく、密かにこのベイを作った。ドローンをこのシステムにドッキングさせると、プロジェクションシステムによってドローンの周囲にフラーレンのフィールドが展開され、攻撃、防衛の両面でダメージに関する能力が向上する。",
+    "ko": "슬리퍼 드론은 현대적인 실드 기술과는 거리가 멀지만 메탈로퓰러렌 플레이팅과 특유의 선체 구조를 바탕으로 견고한 장갑을 갖추었습니다. 슬리퍼 기술은 캡슐리어 함선에 사용되는 것이 일반적이나 갈란테 기업들은 비밀리에 드론 전용 플랫폼을 건설하였습니다. 플랫폼 도킹 시 퓰러렌 기반 필드가 형성되어 드론의 공격력 및 방어력을 증폭시킵니다.",
+    "ru": "Дроны Спящих абсолютно лишены современной аппаратуры силовых полей; тем не менее благодаря металлофуллеренам, из которых собраны их элементы корпуса и бронезащиты, они очень прочны. По большей части эти технологические решения применяются в кораблях, пилотируемых капсулёрами, однако несколько подпольных галлентских фирм втайне создали этот отсек, предназначенный для современных дронов. Находясь в нём, дроны подвергаются воздействию фуллеренного поля, повышающего их боеспособность: увеличивается как урон дронов, так и запас их прочности.",
+    "zh": "冬眠者无人机虽然完全没有采用现代护盾科技，但却丝毫不会在防御上逊色。这很大程度上是由于金属富勒烯技术在船体制造中的广泛运用造成的。这种科技大都被应用在克隆飞行员的舰船上，但是一些盖伦特的流氓企业却悄悄地研发了这种供现代无人机使用的富勒烯技术。当无人机停放在这个装置中时，投射系统能够为它创建一个富勒烯力场，这能增强他们的伤害输出以及承受能力。"
+  },
+  "graphicID": 21776,
+  "groupID": 956,
+  "iconID": 3641,
+  "marketGroupID": 1132,
+  "mass": 800000.0,
+  "metaGroupID": 14,
   "name": {
     "de": "Proteus Offensive - Drone Synthesis Projector",
     "en": "Proteus Offensive - Drone Synthesis Projector",
@@ -9,6 +24,132 @@
     "ko": "프로테우스 공격용 시스템 - 드론 통합 프로젝터",
     "ru": "Proteus Offensive - Drone Synthesis Projector",
     "zh": "海神攻击 - 无人机合成投射装置"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 500.0,
+  "sofFactionName": "gallentebase",
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "<b><u>Zusätzliche Basiswerte</b></u>",
+          "en": "<b><u>Additional Base Stats</b></u>",
+          "es": "<b><u>Estadísticas básicas adicionales</b></u>",
+          "fr": "<b><u>Stats de base supplémentaires</b></u>",
+          "ja": "<b><u>追加ベース統計</b></u>",
+          "ko": "<b><u>추가 기본 능력치</b></u>",
+          "ru": "<b><u>Кроме того:</b></u>",
+          "zh": "<b><u>附加基础数值</b></u>"
+        },
+        "importance": 2
+      },
+      {
+        "bonusText": {
+          "de": "+6 High Slots, +5 Montageplätze für Geschütztürme",
+          "en": "+6 High Slots, +5 Turret Hardpoints",
+          "es": "+6 ranuras superiores, +5 puntos de montaje de torreta",
+          "fr": "+6 Emplacements supérieurs, +5 Points de fixation de tourelle",
+          "ja": "ハイスロット+6、タレットポイント+5",
+          "ko": "하이 슬롯 +6, 터렛 하드포인트 +5",
+          "ru": "+6 разъёмов большой мощности, +5 точек монтажа орудий",
+          "zh": "高槽+6，炮台+5"
+        },
+        "importance": 3
+      },
+      {
+        "bonusText": {
+          "de": "+130 Strom, +60 CPU",
+          "en": "+130 PWG, +60 CPU",
+          "es": "+130 SP, +60 CPU",
+          "fr": "+130 PWG, +60 CPU",
+          "ja": "PWG+130、CPU+60",
+          "ko": "파워그리드 +130, CPU +60",
+          "ru": "+130 к мощности реактора, +60 к мощности ЦПУ",
+          "zh": "能量栅格+130，CPU+60"
+        },
+        "importance": 4
+      },
+      {
+        "bonusText": {
+          "de": "+125 Mbit Drohnen-Bandbreite, +300 m3 Drohnenhangar",
+          "en": "+125mbit Drone Bandwidth, +300m3 Drone Bay",
+          "es": "+125 Mbit/s al ancho de banda de drones, 300 m³ al muelle de drones",
+          "fr": "+125 Mbit à la bande passante de drone, +300 m3 au hangar à drones",
+          "ja": "ドローン帯域+125mbit、ドローンベイ+300m3",
+          "ko": "드론 대역폭 +125mbit, 드론 격납고 +300m³",
+          "ru": "+125 Мбит к каналу управления дронами, +300 м³ к отсеку для дронов",
+          "zh": "无人机带宽+125mbit，无人机挂舱+300m³"
+        },
+        "importance": 5
+      },
+      {
+        "bonus": 25.0,
+        "bonusText": {
+          "de": "Reduktion der CPU- und Strom-Ausrüstungskosten von <a href=showinfo:3304>mittleren Hybridtürmen</a>",
+          "en": "reduction in the PWG and CPU fitting costs of <a href=showinfo:3304>Medium Hybrid Turrets</a>",
+          "es": "de reducción de los costes de equipamiento de SP y CPU en las <a href=showinfo:3304>torretas híbridas medianas</a>.",
+          "fr": "de réduction des coûts d'équipement du PWG et du CPU des <a href=showinfo:3304>Tourelles hybrides intermédiaires</a>",
+          "ja": "<a href=showinfo:3304>中型ハイブリッドタレット</a>のPWGとCPU装備コストが減少",
+          "ko": "<a href=showinfo:3304>중형 하이브리드 터렛</a> 파워그리드 및 CPU 요구치 감소",
+          "ru": "снижается потребность <a href=showinfo:3304>средних гибридных орудий</a> в мощностях ЦПУ и реактора",
+          "zh": "装配<a href=showinfo:3304>中型混合炮台</a>能量栅格和CPU消耗减少"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "30550": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf die Geschwindigkeit und Nachführungsgeschwindigkeit von <a href=showinfo:3436>Drohnen</a>",
+            "en": "bonus to <a href=showinfo:3436>Drone</a> velocity and tracking speed",
+            "es": "de bonificación a la velocidad máxima y de rastreo de los <a href=showinfo:3436>drones</a>.",
+            "fr": "de bonus à la vitesse et à la vitesse de poursuites des <a href=showinfo:3436>Drones</a>",
+            "ja": "<a href=showinfo:3436>ドローン</a>の速度と追跡速度にボーナス",
+            "ko": "<a href=showinfo:3436>드론</a> 속도 및 트래킹 속도 증가",
+            "ru": "повышается скорость полного хода <a href=showinfo:3436>дронов</a> и скорость наводки на цель их бортового оружия",
+            "zh": "<a href=showinfo:3436>无人机</a>飞行速度和跟踪速度加成"
+          },
+          "importance": 3,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die Zielverfolgungsgeschwindigkeit von <a href=showinfo:3304>mittelgroßen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3304>Medium Hybrid Turret</a> tracking speed",
+            "es": "de bonificación a la velocidad de rastreo de la <a href=showinfo:3304>torreta híbrida mediana</a>.",
+            "fr": "de bonus à la vitesse de poursuite des <a href=showinfo:3304>tourelles hybrides intermédiaires</a>",
+            "ja": "<a href=showinfo:3304>中型ハイブリッドタレット</a>の追跡速度にボーナス",
+            "ko": "<a href=showinfo:3304>중형 하이브리드 터렛</a> 트래킹 속도 증가",
+            "ru": "повышается скорость наводки на цель <a href=showinfo:3304>средних гибридных орудий</a>",
+            "zh": "<a href=showinfo:3304>中型混合炮台</a>跟踪速度加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf den Schaden und die HP von <a href=showinfo:3436>Drohnen</a>",
+            "en": "bonus to <a href=showinfo:3436>Drone</a> damage and hitpoints",
+            "es": "de bonificación al daño y los puntos de vida de los <a href=showinfo:3436>drones</a>.",
+            "fr": "bonus aux dégâts et aux points de vie des <a href=showinfo:3436>drones</a>",
+            "ja": "<a href=showinfo:3436>ドローン</a>のダメージとHPが増加",
+            "ko": "<a href=showinfo:3436>드론</a> 피해량 및 내구도 증가",
+            "ru": "увеличивается урон бортового оружия <a href=showinfo:3436>дронов</a>; увеличивается запас их прочности",
+            "zh": "<a href=showinfo:3436>无人机</a>伤害和HP加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 40.0
 }

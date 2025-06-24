@@ -1,5 +1,18 @@
 {
-  "typeID": 40542,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieser Container akzeptiert und speicherte Stränge von Jove-DNS im Namen der Sisters of EVE.",
+    "en": "This container is accepting and storing Jovian DNA Strands on behalf of the Sisters of EVE.",
+    "es": "Este contenedor acepta y almacena filamentos de ADN jovianos en nombre de las Sisters of EVE.",
+    "fr": "Ce conteneur conserve précieusement des brins d'ADN jove pour le compte des Sisters of EVE.",
+    "ja": "シスターズオブイブのためにジョビのDNA鎖を保存している容器。",
+    "ko": "시스터 오브 이브 소유의 컨테이너로 조브인의 DNA를 보관하고 있습니다.",
+    "ru": "В этом контейнере принимаются и хранятся данные ДНК джовиан, необходимые сёстрам-служительницам «Евы» для проведения исследований.",
+    "zh": "这个货柜是姐妹会用来接收和存放朱庇特DNA链的。"
+  },
+  "graphicID": 1684,
+  "groupID": 952,
+  "mass": 10000.0,
   "name": {
     "de": "Sisters of EVE Cold Storage Unit",
     "en": "Sisters of EVE Cold Storage Unit",
@@ -10,5 +23,10 @@
     "ru": "Sisters of EVE Cold Storage Unit",
     "zh": "姐妹会冷藏存储单元"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 320.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

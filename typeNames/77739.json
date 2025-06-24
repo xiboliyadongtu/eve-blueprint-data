@@ -1,5 +1,18 @@
 {
-  "typeID": 77739,
+  "basePrice": 500000000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Störlanzen. 5 % Reduktion des Energiespeicherverbrauchs von Störlanzen je Skillstufe.",
+    "en": "Skill at operating Disruptive Lance weapons.\r\n\r\n5% reduced capacitor need of Disruption Lance weapons per skill level.",
+    "es": "Habilidad en el manejo de armas de lanza disruptivas.    Necesidad del condensador de las armas de lanza disruptivas reducida un 5 % por nivel de habilidad.",
+    "fr": "Compétence liée à l'utilisation de lances disruptives. Réduit de 5 % par niveau de compétence les besoins énergétiques du capaciteur pour les lances disruptives.",
+    "ja": "妨害ランス兵器を使用するためのスキル。    スキルレベル上昇ごとに妨害ランス兵器のキャパシタ消費が5%減少する。",
+    "ko": "디스럽티브 랜스 무기를 운용하는 데 필요한 스킬입니다. 스킬 레벨 당 디스럽티브 랜스의 캐패시터 필요양이 5% 감소합니다.",
+    "ru": "Навык использования вооружения на основе технологии подавляющих копьевидных лучей. -5% от потребления накопителя вооружением на основе технологии подавляющих копьевидных лучей за каждую степень освоения навыка.",
+    "zh": "操作干扰长枪的技能。每升一级，干扰长枪的电容需求降低5%。"
+  },
+  "groupID": 255,
+  "iconID": 33,
+  "marketGroupID": 364,
   "name": {
     "de": "Disruptive Lance Operation",
     "en": "Disruptive Lance Operation",
@@ -10,5 +23,7 @@
     "ru": "Disruptive Lance Operation",
     "zh": "干扰长枪操控"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

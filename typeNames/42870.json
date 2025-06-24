@@ -1,5 +1,16 @@
 {
-  "typeID": 42870,
+  "description": {
+    "de": "Eine Zitadelle der Astrahus-Klasse. Erbaut vom Upwell Consortium.",
+    "en": "An Astrahus class Citadel. Built by the Upwell Consortium.",
+    "es": "Ciudadela de clase Astrahus. Construida por el Consorcio Upwell.",
+    "fr": "Citadelle de classe Astrahus Conçue par le consortium Upwell.",
+    "ja": "アストラフス型シタデル。アップウェル・コンソーシアムによって建設された。",
+    "ko": "아스트라허스급 시타델입니다. 업웰 컨소시엄에 의해 건설되었습니다.",
+    "ru": "Цитадель типа «Астрей». Построена консорциумом «Апвелл».",
+    "zh": "一座空堡级堡垒。由昇威财团建造。"
+  },
+  "graphicID": 21137,
+  "groupID": 226,
   "name": {
     "de": "Astrahus Citadel",
     "en": "Astrahus Citadel",
@@ -10,5 +21,9 @@
     "ru": "Astrahus Citadel",
     "zh": "空堡堡垒"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 16000.0,
+  "sofFactionName": "upwell",
+  "soundID": 20231
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 30552,
+  "basePrice": 5000000.0,
+  "description": {
+    "de": "Skill in Verbindung mit caldarischen Antriebs-Subsystemen für Tech-III-Schiffe.",
+    "en": "Skill in the operation of Caldari Propulsion Subsystems used on Tech III ships.",
+    "es": "Habilidad en la operación de subsistemas de propulsión caldaris usados en naves T3.",
+    "fr": "Compétence liée à l'utilisation des sous-systèmes de propulsion caldari sur les vaisseaux Tech III.",
+    "ja": "Tech 3艦船で使用するカルダリの推進力サブシステムを操作するスキル。",
+    "ko": "테크 III 함선에 사용되는 칼다리 추진기 서브시스템 운용을 위한 스킬입니다.",
+    "ru": "Освоив первую степень этого навыка, пилот сможет пользоваться калдарскими двигательными подсистемами для кораблей третьей техкатегории.",
+    "zh": "这是用来操纵三级科技舰船上加达里推进子系统的技能。"
+  },
+  "groupID": 1240,
+  "iconID": 33,
+  "marketGroupID": 1824,
   "name": {
     "de": "Caldari Propulsion Systems",
     "en": "Caldari Propulsion Systems",
@@ -10,5 +23,8 @@
     "ru": "Калдарские двигательные подсистемы",
     "zh": "加达里推进子系统"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

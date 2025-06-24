@@ -1,5 +1,21 @@
 {
-  "typeID": 1832,
+  "basePrice": 40000.0,
+  "description": {
+    "de": "Eine Cruise Missile der Gallente mit Plasma-Sprengkopf und automatisiertem Lenksystem.",
+    "en": "A Gallente cruise missile with a plasma warhead and automatic guidance system",
+    "es": "Misil de crucero gallente con ojiva de plasma y sistema de guiado automático.",
+    "fr": "Missile de croisière gallente équipé d'une ogive plasma et d'un système de guidage automatique.",
+    "ja": "プラズマ弾頭と自動誘導システムを装備したガレンテ製クルーズミサイル。",
+    "ko": "유도시스템과 플라즈마 탄두가 탑재된 갈란테 크루즈 미사일입니다.",
+    "ru": "Ракета дальнего боя Gallente с плазменной боеголовкой и системой автоматического наведения.",
+    "zh": "盖伦特联邦的一种巡航导弹，装备有等离子体战斗部和自动导航系统。"
+  },
+  "graphicID": 20040,
+  "groupID": 396,
+  "iconID": 1342,
+  "marketGroupID": 914,
+  "mass": 1250.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Inferno Auto-Targeting Cruise Missile I",
     "en": "Inferno Auto-Targeting Cruise Missile I",
@@ -10,5 +26,8 @@
     "ru": "Inferno Auto-Targeting Cruise Missile I",
     "zh": "炼狱自动锁定巡航导弹 I"
   },
+  "portionSize": 100,
+  "published": true,
+  "radius": 300.0,
   "volume": 0.05
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 21515,
+  "capacity": 850.0,
+  "description": {
+    "de": "Das ist ein feindliches Piratenschiff. Bedrohungsstufe: Extrem",
+    "en": "This is a hostile pirate vessel. Threat level: Extreme",
+    "es": "Nave pirata hostil. Nivel de amenaza: extremo.",
+    "fr": "Il s'agit d'un vaisseau pirate ennemi. Niveau de menace : extrême",
+    "ja": "敵の海賊船。危険度:極めて危険",
+    "ko": "적대적인 해적선입니다. 위험도: 극도로 위험",
+    "ru": "Это враждебный пиратский корабль. Уровень опасности: крайне высокий",
+    "zh": "这是一艘敌对的海盗船。威胁等级：极度危险"
+  },
+  "graphicID": 1823,
+  "groupID": 533,
+  "mass": 10700000.0,
   "name": {
     "de": "The Duke",
     "en": "The Duke",
@@ -10,5 +23,10 @@
     "ru": "The Duke",
     "zh": "公爵"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 221.9,
+  "sofFactionName": "guristas",
   "volume": 107000.0
 }

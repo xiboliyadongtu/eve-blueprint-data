@@ -1,5 +1,18 @@
 {
-  "typeID": 2903,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieses vornehme Anwesen dient wahrscheinlich als Junggesellenbude zum Angeben, wenn der Manager nicht seine Kunden unterhalten muss.",
+    "en": "This upscale estate probably serves as a swank bachelor pad when the manager isn't entertaining clients.",
+    "es": "Esta lujosa finca probablemente hace las veces de ostentoso apartamento de soltero cuando al gerente no le toca entretener a ningún cliente.",
+    "fr": "Cette station haut de gamme sert probablement de garçonnière quand le gérant n'accueille pas de clients.",
+    "ja": "この粋な建造物は、クライアントの接待に使われない時は、シングルライフを謳歌する男性のための洒落た空間に変貌する。",
+    "ko": "평균 이상의 시설을 갖춘 이 정거장은 고객을 접대하지 않을 시에는 관리인의 호화로운 안식처로 사용되는 것 같습니다.",
+    "ru": "Этот жилой модуль, скорее всего, служит холостяцкой берлогой менеджеру, когда тот не занят с клиентами.",
+    "zh": "当经理不招待客人时，这座上档次的空间站就成了他的私人豪宅。"
+  },
+  "graphicID": 1712,
+  "groupID": 952,
+  "mass": 10000.0,
   "name": {
     "de": "Manager's Station",
     "en": "Manager's Station",
@@ -10,5 +23,9 @@
     "ru": "Manager's Station",
     "zh": "经理的空间站"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 918.0,
+  "sofFactionName": "gallentebase",
   "volume": 27500.0
 }

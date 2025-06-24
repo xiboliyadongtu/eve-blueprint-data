@@ -1,5 +1,17 @@
 {
-  "typeID": 354870,
+  "basePrice": 500.0,
+  "description": {
+    "de": "Test-Modul, erhöht das Bewegungstempo des Trupps",
+    "en": "Test module, Increases movement speed of squad",
+    "es": "Módulo de prueba, aumenta la velocidad de movimiento del escuadrón.",
+    "fr": "Module d'essai, Augmente la vitesse de mouvement de l'équipe",
+    "it": "Modulo di verifica, incrementa la velocità di movimento della squadriglia",
+    "ja": "分隊の移動速度を向上させるテストモジュール。",
+    "ko": "테스트 모듈입니다. 편대의 이동 속도가 증가합니다.",
+    "ru": "Test module, Increases movement speed of squad",
+    "zh": "测试用装备，可提高中队的移动速度"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Trupp - Geschwindigkeitstest",
     "en": "Squad - Speed Test",
@@ -11,5 +23,7 @@
     "ru": "Squad - Speed Test",
     "zh": "中队-速度测试"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

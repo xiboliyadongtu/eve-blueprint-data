@@ -1,5 +1,18 @@
 {
-  "typeID": 12207,
+  "basePrice": 10000000.0,
+  "description": {
+    "de": "Spezialistentraining in der Handhabung fortschrittlicher, schwerer Railguns. 2% Bonus je Skillstufe auf die Schadenswirkung großer Waffentürme, die den Skill \"Large Railgun Specilization\" voraussetzen.",
+    "en": "Specialist training in the operation of advanced large railguns. 2% bonus per skill level to the damage of large turrets requiring Large Railgun Specialization.",
+    "es": "Entrenamiento especializado en el manejo de cañones electromagnéticos grandes avanzados. 2 % de bonificación por nivel de habilidad al daño de las torretas grandes que requieren especialización en cañones electromagnéticos grandes.",
+    "fr": "Formation de spécialiste dans l'utilisation des canons à rail lourds avancés. Augmente de 2 % par niveau de compétence les dégâts des grandes tourelles nécessitant la spécialisation en canons à rail lourds.",
+    "ja": "高性能大型レールガンを操作する専門スキル。スキルレベル上昇ごとに大型レールガンスペシャリゼーションを必要とする大型タレットダメージが2%増加する。",
+    "ko": "상급 대형 레일건 운용을 위한 스킬입니다. 매 레벨마다 대형 레일건 특화가 요구되는 대형 터렛의 피해량 2% 증가",
+    "ru": "Спецкурс по эксплуатации усовершенствованных больших рельсотронов. За каждую степень освоения навыка: на 2% повышается урон усовершенствованных больших рельсотронов.",
+    "zh": "操作高级大型磁轨炮的专业训练。每升一级，需要大型磁轨炮专业研究技能的大型炮台的伤害提高2%。"
+  },
+  "groupID": 255,
+  "iconID": 33,
+  "marketGroupID": 364,
   "name": {
     "de": "Large Railgun Specialization",
     "en": "Large Railgun Specialization",
@@ -10,5 +23,7 @@
     "ru": "Спецкурс: большие рельсотроны",
     "zh": "大型磁轨炮专业研究"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 22174,
+  "description": {
+    "de": "Eine kleine, versiegelte Box. Eine einzige Buchse bildet die Verbindung zur Außenwelt.",
+    "en": "Small, sealed box. A single socket connects it to the outside world.",
+    "es": "Pequeña caja sellada. Lo único que la conecta con el mundo exterior es una sola ranura.",
+    "fr": "Petite boîte scellée. Une seule prise permet de la relier au monde extérieur.",
+    "ja": "密封された小型の箱。小さなソケットが一つあり、内部と繋がっている。",
+    "ko": "밀봉된 작은 상자입니다. 조그마한 구멍 하나가 뚫려있습니다.",
+    "ru": "Небольшой запечатанный корпус. С внешним миром его соединяет одно гнездо.",
+    "zh": "小型密封盒子，靠一个孔洞与外面世界相连。"
+  },
+  "groupID": 526,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Blue Box",
     "en": "Blue Box",
@@ -10,5 +22,7 @@
     "ru": "Blue Box",
     "zh": "蓝色盒子"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

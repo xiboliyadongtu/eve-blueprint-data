@@ -1,5 +1,18 @@
 {
-  "typeID": 83464,
+  "basePrice": 250000000.0,
+  "description": {
+    "de": "Fertigkeit im Umgang mit Capital-Mikrosprungantrieben. 5 % Reduktion des Energiespeicherverbrauchs von Modulen, die diese Fertigkeit pro Skillstufe benötigen.",
+    "en": "Skill at using Capital Micro Jump Drives. \r\n\r\n5% reduction in the capacitor usage of modules that require this skill per skill level.",
+    "es": "Habilidad en el uso de motores de microsalto capitales. \r\n\r\n5 % de reducción al uso del condensador de los módulos que requieren esta habilidad por nivel de habilidad.",
+    "fr": "Compétence liée à l'utilisation des propulseurs de microsaut capitaux. Réduction de 5 % de l'utilisation du capaciteur des modules qui requièrent cette compétence par niveau de compétence.",
+    "ja": "キャピタル・マイクロジャンプドライブを扱うスキル。 \r\n\r\nスキルレベルが1上がるごとに、このスキルを必要とするモジュールのキャパシタ消費が5%減少する。",
+    "ko": "캐피탈 마이크로 점프 드라이브 운용을 위한 스킬입니다.<br><br>해당 스킬이 요구되는 모듈의 캐패시터 사용량 레벨당 5% 감소",
+    "ru": "Навык, позволяющий использовать маневровые гипердвигатели для кораблей большого тоннажа. Модули, для обращения с которыми требуется знание этого навыка, расходуют на 5% меньше энергии за каждую степень его освоения.",
+    "zh": "熟练使用旗舰级微型跳跃引擎。每升一级，需要配合此技能使用的装备的电容消耗降低5%。"
+  },
+  "groupID": 275,
+  "iconID": 33,
+  "marketGroupID": 374,
   "name": {
     "de": "Capital Micro Jump Drive Operation",
     "en": "Capital Micro Jump Drive Operation",
@@ -10,5 +23,7 @@
     "ru": "Capital Micro Jump Drive Operation",
     "zh": "旗舰级微型跳跃引擎操作"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

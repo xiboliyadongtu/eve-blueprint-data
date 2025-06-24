@@ -1,5 +1,19 @@
 {
-  "typeID": 88709,
+  "description": {
+    "de": "Der reaktive Panzerungsverstärker besitzt eine fortschrittliche Nanomembran, die auf Schäden der Panzerungsschicht reagiert indem Sie die Widerstandsfähigkeit im Laufe der Zeit verschiebt. Dadurch ist er in der Lage, seine Verteidigungsmaßnahmen allen möglichen Schadensarten anzupassen. Das Modul verteilt 64 % Resistenzen auf die vier Schadensarten; der Startwert ist jeweils 16 %. Es kann immer nur ein Modul dieses Typs eingebaut werden.",
+    "en": "The Reactive Armor Hardener possesses an advanced nano membrane that reacts to armor layer damage by shifting between resistances over time. This makes it able to align its defenses against whichever incoming damage types are prevalent.\r\n\r\nThe module spreads 64% resistance over the four damage types, starting at 16% in each.\r\n\r\nOnly one of this module type can be fitted at a time.",
+    "es": "El endurecedor de blindaje reactivo posee una nanomembrana avanzada que reacciona al daño en las capas de blindaje cambiando de resistencia a medida que pasa el tiempo. Esto le permite adaptar sus defensas a los tipos de daño prevalentes.\r\n\r\nEl módulo reparte un 64 % de la resistencia entre los cuatro tipos de daño, empezando por un 16 % para cada uno.\r\n\r\nSolo se puede equipar un módulo de este tipo a la vez.",
+    "fr": "Le renforcement de blindage réactif présente une nanomembrane avancée qui réagit aux dégâts du blindage en changeant de résistance au fil du temps. Cela lui permet ainsi d'aligner ses défenses selon les types de dégâts auxquels il doit faire face. Ce module étend 64 % de la résistance sur les quatre types de dégâts, en commençant à 16 % chacun. Un seul module de ce type peut être équipé à la fois.",
+    "ja": "リアクティブアーマーハードナーが採用する新型ナノ対応装甲は、受けたダメージに応じて各種レジスタンス値を随時変化させる。そのためタイプを問わず、主流のダメージに合わせてレジスタンスを最適な値に配分できる。\r\n\r\nこのモジュールは4つのダメージタイプに対し、64%のレジスタンスを任意の割合で配分する。初期値は各属性16%である。\r\n\r\nこのタイプのモジュールを装備できるのは同時に1つのみ。",
+    "ko": "첨단 나노 멤브레인을 활용하여 장갑에 가해지는 속성 피해에 따라 저항력 수치를 조정합니다. 저항력 수치는 수시로 변경됩니다.\r\n\r\n총 저항력 수치는 64%로 초기 설정은 각 속성별로 16%씩 맞춰져 있습니다.\r\n\r\n동일한 종류의 모듈을 하나만 장착할 수 있습니다.",
+    "ru": "Реактивный укрепитель брони оснащён передовой наномембраной, которая динамически подстраивает сопротивление под характер повреждений. Она определяет преобладающие типы входящего урона и меняет защиту судна под них. Этот модуль распределяет 64% сопротивляемости между четырьмя типами урона. Изначально такой показатель составляет 16% для каждого типа. Судно может быть оснащено только одним модулем такого типа.",
+    "zh": "反应式装甲增强器使用了先进的纳米薄膜技术，可以根据装甲层受到的伤害类型而改变抗性。这种特性使得它无论在应对何种类型的伤害时都表现得游刃有余。这个装备提供的四种伤害类型抗性的总和为64%，每种最低为16%。一艘舰船只能同时装配一个这种装备。"
+  },
+  "groupID": 1150,
+  "iconID": 10933,
+  "marketGroupID": 1416,
+  "mass": 1.0,
+  "metaGroupID": 3,
   "name": {
     "de": "Xarasier Reactive Armor Hardener",
     "en": "Xarasier Reactive Armor Hardener",
@@ -10,5 +24,10 @@
     "ru": "Xarasier Reactive Armor Hardener",
     "zh": "扎拉希反应式装甲增强器"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 10.0,
+  "variationParentTypeID": 4403,
   "volume": 25.0
 }

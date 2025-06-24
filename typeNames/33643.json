@@ -1,5 +1,67 @@
 {
-  "typeID": 33643,
+  "capacity": 450.0,
+  "description": {
+    "de": "Die Caracal ist ein mächtiges Schiff und auf den Einsatz von Lenkwaffen ausgerichtet. Ihre Schilde bieten ausgezeichneten Schutz bei eher schwacher Panzerung. Wenn ihr Lenkwaffenarsenal vollständig bestückt ist, kann sie fast alles auseinander nehmen.",
+    "en": "The Caracal is a powerful vessel that specializes in missile deployment. It has excellent shield defenses, but poor armor plating. Its missile arsenal, when fully stocked, is capable of making mincemeat of almost anyone.",
+    "es": "La Caracal es una potente nave que se especializa en el despliegue de misiles. Tiene unas defensas de escudo excelentes, pero un blindaje pobre. Su arsenal misilístico, cuando está lleno, es capaz de hacer picadillo casi a cualquiera.",
+    "fr": "Le Caracal est un vaisseau puissant spécialisé dans le tir de missiles. Ses boucliers sont excellents, mais son blindage est assez faible. Son arsenal de missiles lui permet de tailler en pièces presque tous les vaisseaux existants.",
+    "ja": "カラカルはミサイル攻撃に特化した強力艦である。シールドによる防衛力は極めて高いがアーマープレートは弱い。兵器庫には、ほとんどの敵を粉砕できるだけのミサイルを積むことができる。",
+    "ko": "카라칼은 미사일 운용에 특화된 함선으로 강력한 실드 성능과 반대로 빈약한 장갑 방어력을 갖추고 있습니다. 미사일을 최대로 탑재할 경우 어지간한 함선은 순식간에 산산조각 낼 수 있습니다.",
+    "ru": "Крейсер типа «Каракал» —  мощная ракетная платформа. Его броневое вооружение оставляет желать лучшего, но этот недостаток в полной мере компенсируется мощной аппаратурой силовых полей. Пусковые установки ракет, установленные на борту «каракалов», способны стереть в пыль практически любого противника.",
+    "zh": "狞獾级精于导弹技术，拥有强大的战斗力。它的护盾防御非常优秀，然而装甲却相当脆弱。当它的导弹储备充足时，消灭任何敌人都只是小菜一碟。"
+  },
+  "factionID": 500001,
+  "graphicID": 20464,
+  "groupID": 26,
+  "mass": 11910000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      150,
+      139,
+      76,
+      85,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      150,
+      139,
+      76,
+      85,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      150,
+      139,
+      76,
+      85,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      150,
+      139,
+      76,
+      85,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      150,
+      139,
+      76,
+      85,
+      118,
+      94
+    ]
+  },
   "name": {
     "de": "Caracal Nugoeihuvi Edition",
     "en": "Caracal Nugoeihuvi Edition",
@@ -9,6 +71,48 @@
     "ko": "카라칼 누고에히비 에디션",
     "ru": "Caracal Nugoeihuvi Edition",
     "zh": "狞獾级纳基维版"
+  },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 202.0,
+  "sofFactionName": "noh",
+  "soundID": 20070,
+  "traits": {
+    "types": {
+      "3334": [
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die Feuerrate von schnellen <a href=showinfo:3321>leichten Lenkwaffenwerfern</a>, <a href=showinfo:3324>schweren Lenkwaffenwerfern</a> und <a href=showinfo:25719>schweren Angriffslenkwaffenwerfern</a>",
+            "en": "bonus to Rapid <a href=showinfo:3321>Light Missile</a>, <a href=showinfo:3324>Heavy Missile</a> and <a href=showinfo:25719>Heavy Assault Missile</a> Launcher rate of fire",
+            "es": "de bonificación a la cadencia de tiro rápida de los <a href=showinfo:3321>lanzamisiles ligeros</a>, <a href=showinfo:3324>lanzamisiles pesados</a> y <a href=showinfo:25719>lanzamisiles de asalto pesados</a>.",
+            "fr": "bonus à la cadence de tir du <a href=showinfo:3321>lance-missiles léger</a>, <a href=showinfo:3324>lance-missiles lourd</a> et <a href=showinfo:25719>du lance-missiles d'assaut lourds</a> rapides",
+            "ja": "高速<a href=showinfo:3321>ライトミサイル</a>・<a href=showinfo:3324>ヘビーミサイル</a>・<a href=showinfo:25719>ヘビーアサルトミサイル</a>ランチャーの発射間隔が短縮",
+            "ko": "급속 <a href=showinfo:3321>라이트 미사일</a>, <a href=showinfo:3324>헤비 미사일</a>, <a href=showinfo:25719>헤비 어썰트 미사일</a> 런처 연사속도 증가",
+            "ru": "повышается скорострельность скорострельных ПУ <a href=showinfo:3321>лёгких ракет</a>, ПУ <a href=showinfo:25719>тяжёлых штурмовых ракет</a>, ПУ <a href=showinfo:3324>тяжёлых ракет</a>",
+            "zh": "<a href=\"showinfo:3324\">重型导弹发射器</a> 、<a href=\"showinfo:25719\">重型攻击导弹发射器</a>和<a href=\"showinfo:3321\">轻型快速导弹发射器</a>射速加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf die Maximalgeschwindigkeit von <a href=showinfo:3321>leichten Lenkwaffen</a>, <a href=showinfo:3324>schweren Lenkwaffen</a> und <a href=showinfo:25719>schweren Angriffslenkwaffen</a>",
+            "en": "bonus to <a href=showinfo:3321>Light Missile</a>, <a href=showinfo:3324>Heavy Missile</a> and <a href=showinfo:25719>Heavy Assault Missile</a> max velocity",
+            "es": "de bonificación a la velocidad máxima de los <a href=showinfo:3321>misiles ligeros</a>, los <a href=showinfo:3324>misiles pesados</a> y los <a href=showinfo:25719>misiles de asalto pesados</a>.",
+            "fr": "bonus à la vitesse maximale du <a href=showinfo:3321>missile léger</a>, <a href=showinfo:3324>missile lourd</a> et <a href=showinfo:25719>du missile d'assaut lourd</a>",
+            "ja": "<a href=showinfo:3321>ライトミサイル</a>・<a href=showinfo:3324>ヘビーミサイル</a>・<a href=showinfo:25719>ヘビーアサルトミサイル</a>の最高速度が上昇",
+            "ko": "<a href=showinfo:3321>라이트 미사일</a>, <a href=showinfo:3324>헤비 미사일</a> 및 <a href=showinfo:25719>헤비 어썰트 미사일</a> 최대 속도 증가",
+            "ru": "повышается скорость полёта <a href=showinfo:3321>лёгких ракет</a>, <a href=showinfo:3324>тяжёлых ракет</a> и <a href=showinfo:25719>тяжёлых штурмовых ракет</a>",
+            "zh": "<a href=\"showinfo:3321\">轻型导弹</a>、<a href=\"showinfo:3324\">重型导弹</a>和<a href=\"showinfo:25719\">重型攻击导弹</a>最大速度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 92000.0
 }

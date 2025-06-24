@@ -1,5 +1,16 @@
 {
-  "typeID": 23226,
+  "description": {
+    "de": "Ein Bunker - draußen bleiben.",
+    "en": "A bunker. Beware.",
+    "es": "Un búnker. Cuidado.",
+    "fr": "Bunker. Faites attention.",
+    "ja": "バンカー。要注意。",
+    "ko": "벙커입니다. 주의하십시오.",
+    "ru": "Бункер. Будьте осторожны.",
+    "zh": "一个碉堡，要小心。"
+  },
+  "graphicID": 2496,
+  "groupID": 226,
   "name": {
     "de": "Fortified Serpentis Bunker",
     "en": "Fortified Serpentis Bunker",
@@ -10,5 +21,9 @@
     "ru": "Fortified Serpentis Bunker",
     "zh": "强化的天蛇集团碉堡"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 700.0,
+  "sofFactionName": "serpentis"
 }

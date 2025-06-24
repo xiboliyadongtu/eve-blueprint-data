@@ -1,5 +1,18 @@
 {
-  "typeID": 16730,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese schmuckvolle Struktur dient als Ort für religiöse Riten.",
+    "en": "This decorated structure serves as a place for religious practice.",
+    "es": "Esta estructura ornamentada se utiliza como lugar de culto.",
+    "fr": "Cette structure richement décorée sert de lieu de culte.",
+    "ja": "宗教儀式が執り行われる装飾された建造物。",
+    "ko": "이 장식된 구조물은 종교적 의식을 행하기 위한 장소입니다.",
+    "ru": "В этом богато украшенном сооружении отправляются религиозные обряды.",
+    "zh": "这个装饰过的建筑物是一个宗教场所。"
+  },
+  "graphicID": 2404,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Amarr Chapel",
     "en": "Amarr Chapel",
@@ -10,5 +23,9 @@
     "ru": "Amarr Chapel",
     "zh": "艾玛礼拜堂"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 800.0,
+  "sofFactionName": "amarrbase",
   "volume": 100000000.0
 }

@@ -1,5 +1,16 @@
 {
-  "typeID": 20536,
+  "description": {
+    "de": "Eine Badger, die von einem Agenten geflogen wird.",
+    "en": "A Badger piloted by an agent.",
+    "es": "Badger pilotada por un agente.",
+    "fr": "Un Badger piloté par un agent.",
+    "ja": "エージェントを乗せたバッジャー。",
+    "ko": "에이전트가 조종하는 뱃져입니다.",
+    "ru": "Корабль класса Badger, управляемый агентом.",
+    "zh": "由代理人驾驶的獾级飞船。"
+  },
+  "graphicID": 51,
+  "groupID": 517,
   "name": {
     "de": "Sakkaro's Badger",
     "en": "Sakkaro's Badger",
@@ -10,5 +21,9 @@
     "ru": "Sakkaro's Badger",
     "zh": "萨卡诺的獾级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 216.4,
+  "sofFactionName": "caldaribase"
 }

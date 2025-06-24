@@ -1,5 +1,16 @@
 {
-  "typeID": 9892,
+  "description": {
+    "de": "Ruinen einer Station der Gallente.",
+    "en": "Ruins of a Gallentean station.",
+    "es": "Ruinas de una estación gallente.",
+    "fr": "Ruines d'une station gallente.",
+    "ja": "遺跡となったガレンテステーション。",
+    "ko": "갈란테 구조물 폐허입니다.",
+    "ru": "Руины станции Gallente.",
+    "zh": "一座盖伦特空间站废墟。"
+  },
+  "graphicID": 3788,
+  "groupID": 226,
   "name": {
     "de": "Gallente Commercial Station Ruins",
     "en": "Gallente Commercial Station Ruins",
@@ -10,5 +21,9 @@
     "ru": "Gallente Commercial Station Ruins",
     "zh": "盖伦特商业空间站废墟"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 8284.0,
+  "sofFactionName": "gallentebase",
+  "soundID": 20174
 }

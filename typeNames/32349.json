@@ -1,5 +1,18 @@
 {
-  "typeID": 32349,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Standard-Mine mit nuklearer Ladung.",
+    "en": "Standard mine with nuclear payload.",
+    "es": "Mina estándar con carga útil nuclear.",
+    "fr": "Mine standard équipée d'une charge nucléaire.",
+    "ja": "核弾頭を装備した標準型機雷。",
+    "ko": "엄청난 파괴력을 지닌 기본형 기뢰입니다.",
+    "ru": "Стандартная неконтактная мина с ядерным зарядом.",
+    "zh": "使用核芯战斗部的通用地雷"
+  },
+  "graphicID": 1217,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Proximity Charge",
     "en": "Proximity Charge",
@@ -10,5 +23,10 @@
     "ru": "Proximity Charge",
     "zh": "区域触发雷"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 120.0,
+  "sofFactionName": "genericbase",
   "volume": 100000000.0
 }

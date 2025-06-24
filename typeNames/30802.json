@@ -1,5 +1,16 @@
 {
-  "typeID": 30802,
+  "description": {
+    "de": "Diese schwebenden Trümmer stellten gewiss einmal Teile einer Außenhülle oder Panzerung dar und wurden durch eine Explosion oder den Aufprall eines Asteroiden auseinandergerissen.",
+    "en": "This floating debris appears to have once been a part of an outer hull or armor, ripped apart by an explosion or asteroid impact.",
+    "es": "Según parece, estos escombros flotantes antaño fueron parte de un casco o un blindaje exterior, pero sufrieron una explosión o el impacto de un asteroide.",
+    "fr": "Ces débris flottants semblent avoir fait partie d'une coque ou d'un blindage externe détruit par une explosion ou l'impact d'un astéroïde.",
+    "ja": "浮遊残骸物。何かの外殻構造部かアーマーの一部が、爆発またはアステロイドの衝突によって剥ぎ飛ばされたものだろう。",
+    "ko": "한때 선체의 일부였으나 폭발 또는 소행성 충돌로 인해 떨어져 나왔을 것으로 추정되는 파편입니다.",
+    "ru": "Эти дрейфующие обломки видимо раньше были частью внешнего корпуса или брони корабля, сорванные в результате взрыва или столкновения с астероидом.",
+    "zh": "这块漂浮在太空中的碎片看上去应该是属于某个外层船体或者装甲板的，被整块从原来的位置上撕裂下来，而且还经历了剧烈的爆炸或者陨石撞击。"
+  },
+  "graphicID": 3706,
+  "groupID": 226,
   "name": {
     "de": "Debris - Crumpled Metal",
     "en": "Debris - Crumpled Metal",
@@ -10,5 +21,8 @@
     "ru": "Debris - Crumpled Metal",
     "zh": "碎片 — 弯折的金属"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 450.0,
+  "sofFactionName": "debris"
 }

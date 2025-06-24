@@ -1,5 +1,18 @@
 {
-  "typeID": 24453,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Die Sprungtore der alten Schmugglerroute wurden von einem Bündnis der Minmatar Rebellen mit verschiedenen Piratenfraktionen gebaut, um schnell und diskret innerhalb der Außenregionen des Weltalls hin- und herreisen zu können. Diese Sprungtore werden von vielen bevorzugt, denen die imperialen Gebiete ein zu hohes Sicherheitsprofil haben, weil sie lieber einen gewissen Abstand zwischen sich und den wachsamen Flottenkommandeuren von CONCORD halten möchten.",
+    "en": "The old smuggling route gates were built by a coalition of Minmatar rebels and various pirate factions as a means to travel quickly and discreetly between the outer regions of space. They are favored by many to whom Empire Space is too high-profile and wish to keep a good distance from the vigilant fleet commanders of CONCORD.",
+    "es": "Los viejos portales de las rutas de contrabando fueron construidos por una coalición de rebeldes minmatarianos y varias facciones piratas para desplazarse rápida y discretamente entre las regiones exteriores del espacio. Resultan muy útiles cuando el espacio imperial es demasiado notorio y es preferible guardar las distancias con los comandantes de la flota de CONCORD.",
+    "fr": "Les anciens portails menant aux itinéraires de contrebande ont été construits par une coalition de rebelles minmatar et de différentes factions pirates, dans le but de se déplacer rapidement et discrètement entre les régions extérieures de l'espace. Les contrebandiers les préfèrent à l'espace de l'empire, considéré comme étant trop visible, désireux qu'ils sont de se tenir à bonne distance de la vigilance des commandants de flotte de CONCORD.",
+    "ja": "古くから密輸ルートとして使用されているゲート。ミンマターの反逆者や海賊勢力たちが、迅速かつ密かに遠隔地を行き来するために共同で建造した。帝国宙域では目立ちがちな者が、用心深いCONCORDのフリート司令官たちに近づきたくないと考えたときには、ありがたい設備だろう。",
+    "ko": "외곽 우주에서 빠르고 비밀스럽게 이동하기 위해 민마타 저항군과 해적들이 연합하여 건설한 오래된 밀수용 게이트입니다. 제국 권역에 들어가기에는 목에 걸린 현상금이 너무 높거나 CONCORD 함장들과 가까이하고 싶지 않은 자들이 즐겨 사용합니다.",
+    "ru": "Старые контрабандистские врата были построены коалицией повстанцев Minmatar и различными пиратскими фракциями для того, чтобы создать средство для быстрого и скрытого перемещения между внешними областями пространства. Ими предпочитают пользоваться те, для кого нахождение в имперском пространстве чревато встречей с бдительными командирами флота CONCORD.",
+    "zh": "这些破旧的走私门由米玛塔尔叛军和许多海盗组织联合建造，提供了在太空外部区域之间快速隐秘穿行的手段。喜爱这些走私门的人通常都无法抵挡帝国空间的诱惑，但又想避免撞上统合部里高度警惕的舰队指挥官员。"
+  },
+  "graphicID": 3465,
+  "groupID": 319,
+  "mass": 1e+35,
   "name": {
     "de": "Smuggler Stargate Strong",
     "en": "Smuggler Stargate Strong",
@@ -10,5 +23,10 @@
     "ru": "Smuggler Stargate Strong",
     "zh": "强力的走私者星门"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 2933.0,
+  "sofFactionName": "smuggler",
+  "soundID": 20180,
   "volume": 100000000.0
 }

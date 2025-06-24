@@ -1,5 +1,18 @@
 {
-  "typeID": 78845,
+  "basePrice": 4000000.0,
+  "description": {
+    "de": "Diese von Corporations ausgegebenen verschlüsselten Credit-Anweisungen können genutzt werden, um eine große Summe an Credits von Corporation-Hauptaccounts zu erhalten. Obwohl sie einen digitalen Schlüssel erfordern, sind sie aufgrund der leichten Einlösbarkeit von großem Interesse für Kriminelle und skrupellose Unternehmer, die anonym bleiben, Steuern hinterziehen oder Geld waschen wollen. Diejenigen, die in der Lage sind, den Schlüssel zu rekonstruieren, wie mächtige Kriminellen- und Piratennetzwerke, können diese Credit-Anweisungen gut nutzen. Das Angel Cartel wird Kapselpiloten belohnen, die diesen Gegenstand zu ihren Umschlagplätzen bringen.\r\n",
+    "en": "These corporation issued encrypted credit orders can be used against general corporate accounts to acquire a large sum of credits. Although they require an encrypted key, due to the ease of cashing these credit orders, they are of high interest to criminals and unscrupulous entrepreneurs who wish to remain anonymous, evade taxes or launder money. \r\n\r\nThose with the ability to reverse-engineer the key, such as powerful criminal and pirate networks, can make good use of these credit orders.\r\n\r\nThe Angel Cartel will reward capsuleers who bring this item to their laundering centers.\r\n",
+    "es": "Estas órdenes de crédito cifradas emitidas por las corporaciones se pueden utilizar contra cuentas corporativas generales para adquirir una gran suma de créditos. Aunque requieren una clave codificada, debido a la facilidad para cobrar estas órdenes de crédito, son de gran interés para delincuentes y empresarios sin escrúpulos que desean permanecer en el anonimato, evadir impuestos o blanquear dinero. \r\n\r\nAquellos con la capacidad para aplicar ingeniería inversa a la clave, como las poderosas redes criminales y piratas, pueden hacer un buen uso de estas órdenes de crédito.\r\n\r\nEl Cártel de los Ángeles recompensará a los capsulistas que lleven este objeto a sus centros de blanqueo.",
+    "fr": "Ces ordres de crédit chiffrés émis par des corporations peuvent être utilisés contre des comptes généraux de corporations pour acquérir une importante somme de crédits. Bien qu'ils nécessitent une clé chiffrée, en raison de la facilité à encaisser ces ordres de crédit, ils suscitent un grand intérêt de la part des criminels et des entrepreneurs sans scrupules qui souhaitent rester anonymes, échapper aux taxes ou blanchir de l'argent. Pour ceux qui ont la capacité de déchiffrer la clé, tels que les puissants réseaux criminels et pirates, ces ordres de crédit peuvent se révéler particulièrement utiles. Le cartel Angel récompensera les capsuliers qui apporteront cet objet à ses centres de blanchiment.\r\n",
+    "ja": "コーポレーションが発行する、こういった暗号化された掛け買い注文のデータを一般コーポレーションの口座に使えば多額のクレジットを得ることができる。暗号化キーが必要になるが、掛け買い注文は簡単に換金できるため、身元の隠蔽や脱税、マネーロンダリングを目的とする犯罪者や悪徳事業家からの関心は高い。 \r\n\r\nキーをリバースエンジニアリングできる犯罪者や海賊ネットワークなら、こういった掛け買い注文のデータを有効活用できるだろう。\r\n\r\nエンジェルカルテルは、このアイテムをロンダリングセンターに持ち込んだカプセラに報酬を提供している。",
+    "ko": "코퍼레이션이 발행한 암호화된 자금 지불 요청서입니다. 코퍼레이션 계좌에서 상당한 금액을 인출할 수 있습니다. 사용하려면 암호화 키가 필요하지만, 일단 인출하기만 한다면 쉽게 현금화할 수 있기 때문에 범죄자나 부정한 사업가들이 많이 찾습니다. 소유자의 흔적을 남기지 않으므로 자금세탁 또는 탈세 용도로 탁월하기 때문입니다.<br><br>기술력이 뛰어난 범죄자 집단이나 해적단의 힘을 빌려 디지털 키 해제에 성공하면 막대한 자금을 손에 넣을 수 있습니다.<br><br>엔젤 카르텔 자금세탁 시설에 제공하면 보상을 받을 수 있습니다.\r\n",
+    "ru": "Эти зашифрованные платёжные поручения предоставляют доступ к общим счетам одной из корпораций, где лежит кругленькая сумма кредитов. Правда, тут требуется зашифрованный ключ, но это единственная загвоздка. Платёжные поручения такого типа традиционно вызывают повышенный интерес у преступников и недобросовестных предпринимателей: они позволяют снимать деньги анонимно, уклоняться от уплаты налогов и создавать схемы по отмыванию капитала. Крупные криминальные и пиратские сети, имеющие в своём распоряжении оборудование для инженерного ретроанализа зашифрованных ключей, вовсю пользуются подобными поручениями. Если капсулёр доставит такое платёжное поручение в один из пунктов отмывания средств картеля «ангелов», награда не заставит себя ждать.\r\n",
+    "zh": "公司发行的加密信用订单适用于普通公司账号，可收取大量资金。由于信用订单兑现方便，哪怕会用到密钥，仍吸引了不少想要保持匿名、逃税或洗钱的犯罪分子和唯利是图的企业家。若能利用强大的犯罪网络和私有网络对密钥进行逆向工程，就能充分利用这些信用订单牟利。天使企业联合体会向上交此类物品至其洗钱中心的克隆飞行员发放奖励。\r\n"
+  },
+  "groupID": 314,
+  "iconID": 2038,
+  "mass": 0.75,
   "name": {
     "de": "Corporate Encrypted Credit Orders",
     "en": "Corporate Encrypted Credit Orders",
@@ -10,5 +23,7 @@
     "ru": "Corporate Encrypted Credit Orders",
     "zh": "军团加密信用订单"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.1
 }

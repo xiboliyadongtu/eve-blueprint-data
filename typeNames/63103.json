@@ -1,5 +1,17 @@
 {
-  "typeID": 63103,
+  "description": {
+    "de": "Eine Mauer",
+    "en": "A Wall",
+    "es": "Un muro.",
+    "fr": "Un mur",
+    "ja": "壁",
+    "ko": "벽",
+    "ru": "Стена",
+    "zh": "壁垒"
+  },
+  "graphicID": 2474,
+  "groupID": 1975,
+  "mass": 1000.0,
   "name": {
     "de": "Forified Guristas Wall",
     "en": "Forified Guristas Wall",
@@ -10,5 +22,8 @@
     "ru": "Forified Guristas Wall",
     "zh": "强化的古斯塔斯之墙"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 330.0,
+  "sofFactionName": "guristas"
 }

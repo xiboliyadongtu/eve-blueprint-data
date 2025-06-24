@@ -1,5 +1,17 @@
 {
-  "typeID": 353428,
+  "basePrice": 203000.0,
+  "description": {
+    "de": "Skill zur Verwendung von Dropsuiterweiterungen.\nSchaltet die Fähigkeit zur Verwendung von Kardialstimulansmodulen zur Steigerung der Ausdauer frei.\n+5% Ausdauer pro Skillstufe.",
+    "en": "Skill at using dropsuit augmentations.\r\nUnlocks ability to use cardiac stimulant modules to increase stamina.\r\n+5% stamina per level.",
+    "es": "Habilidad para usar aumentos para trajes de salto.\nDesbloquea la habilidad de usar módulos de regulación cardíaca para aumentar el aguante. \n+5% al aguante por nivel.",
+    "fr": "Compétence permettant d'utiliser les augmentations des combinaisons.\nDéverrouille l'utilisation des stimulants cardiaque pour augmenter l'endurance.\n+5 % d'endurance par niveau.",
+    "it": "Abilità nell'utilizzo delle aggiunte all'armatura.\nSblocca l'abilità nell'utilizzo dei moduli degli stimolanti cardiaci per aumentare la forza vitale.\n+5% alla forza vitale per livello.",
+    "ja": "降下スーツ強化を扱うスキル。\n心臓スティミュレーターが使用可能になる。\nレベル上昇ごとに、スタミナが5%増加する。",
+    "ko": "강하슈트 강화를 위한 스킬입니다. <br><br>스태미나를 증가시키기 위한 심장 각성 모듈을 잠금 해제합니다.<br><br>매 레벨마다 스태미나 5% 증가",
+    "ru": "Навык применения модулей для усовершенствования характеристик скафандров.\nПозволяет применять модули стимуляции сердечной деятельности для повышения выносливости.\n+5% к выносливости на каждый уровень.",
+    "zh": "使用作战服增强剂的技能。解锁使用强心剂装备增加体力的能力。每升一级，体力增加5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Infantry Skill Endurance",
     "en": "Infantry Skill Endurance",
@@ -11,5 +23,7 @@
     "ru": "Infantry Skill Endurance",
     "zh": "步兵技能耐力"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

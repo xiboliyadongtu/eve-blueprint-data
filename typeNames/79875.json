@@ -1,5 +1,17 @@
 {
-  "typeID": 79875,
+  "description": {
+    "de": "Dieses Signalfeuer kennzeichnet den Ort einer ORE-Eisraffinerie zur Gewinnung und Aufbereitung von hyperisomorphem Strontiumclathrat zu HISC-99-Treibstoff. Die Raffinerie wird von Piraten angegriffen, die den seltenen und wertvollen Treibstoff für ihre eigenen üblen Absichten entwenden wollen. Das Eingangstor ist so konfiguriert, dass es Tech I, Tech II und alle Fraktionsschiffe der Größe eines Schlachtschiffs oder kleiner zulässt. Die in diesem Beschleunigungstor installierten Sicherheitsfunktionen verhindern die Aktivierung durch Schiffe, die mit Warpkern-Stabilisatormodulen ausgestattet sind.",
+    "en": "This beacon marks the location of an ORE Ice Refinery dedicated to extracting and refining Hyper-Isomorphic Strontium Clathrates into HISC-99 fuel. The refinery is under attack by pirates looking to steal the rare and valuable fuel for their own nefarious purposes.\r\n\r\nThe entry gate is configured to admit Tech I, Tech II and all faction ships of Battleship size or smaller.\r\n\r\nThe security features installed in this acceleration gate will prevent activation by any ship that is fitted with warp core stabilizer modules.",
+    "es": "Esta baliza marca la ubicación de una refinería de hielo de ORE dedicada a extraer y refinar clatrato de estroncio hiperisomorfo para convertirlo en combustible HISC-99. La refinería está siendo atacada por piratas que buscan robar el valioso y poco común combustible para sus fines nefastos.\r\n\r\nEl portal de entrada está configurado para admitir naves T1, T2 y todas las naves faccionarias de tamaño acorazado o más pequeño.\r\n\r\nLas funciones de seguridad instaladas en este portal de aceleración impiden que lo active ninguna nave con módulos estabilizadores del núcleo de warp.",
+    "fr": "Cette balise marque l'emplacement d'une raffinerie de glace ORE dédiée à l'extraction et au raffinage des clathrates de strontium hyper-isomorphiques en carburant HISC-99. La raffinerie est attaquée par des pirates cherchant à dérober ce carburant rare et précieux pour leurs propres desseins malveillants. Le portail d'entrée est configuré pour accepter les vaisseaux Tech I, Tech II et tous les vaisseaux de faction de la taille d'un cuirassé ou plus petits. Les dispositifs de sécurité installés sur ce portail d'accélération empêcheront toute activation par un vaisseau équipé de modules stabilisateurs de réacteur de warp.",
+    "ja": "このビーコンは、超同型ストロンチウム化合物を抽出し、燃料物質「HISC-99」に精錬することに特化したOREのアイス精錬所の位置を示している。この精錬所は現在、悪しき目的のために貴重かつ高価な燃料を奪わんとする海賊によって襲撃を受けている。\r\n\r\nこのエントリーゲートは、戦艦以下のサイズのT1とT2艦船、そして全ての勢力専用艦が通過できる設定になっている。\r\n\r\nこの加速ゲートに設置されたセキュリティ機能は、ワープコア制御モジュールを装備した艦船が起動するのを防ぐ。",
+    "ko": "ORE 아이스 정제소의 위치를 표시하는 비컨입니다. 아이스 정제소는 초동형 스트론튬 클라스레이트를 정제해 HISC-99 연료를 생산하는 시설로, 범죄 행위에 쓸 희귀하고 값진 연료를 노리는 해적들의 공격을 받고 있습니다.<br><br>테크 I, II 및 모든 팩션 배틀쉽 이하 함급의 함선만 입장할 수 있습니다.<br><br>보안 규정에 따라 워프 코어 스태빌라이저 모듈을 탑재한 함선은 입장이 불가능합니다.",
+    "ru": "Этот маяк отмечает местоположение комплекса переработки льда ОРЭ, который специализируется на извлечении гиперизоморфных клатратов стронция и их преобразовании в топливо ГИКС-99. Комплекс атакован пиратами, которые хотят похитить это редкое и очень ценное топливо, чтобы использовать его для достижения своих порочных целей. Конфигурация ворот рассчитана на суда не крупнее линкора, включая корабли 1-го и 2-го техноуровней, а также корабли всех держав и организаций. Система безопасности не позволяет активировать эти разгонные ворота, если корабль оснащён модулями стабилизации варп-ядра.",
+    "zh": "这个信标标记了一座联合矿业冰矿精炼设施的位置，该冰矿精炼设施致力于将超同构锶包合物提取并精炼为HISC-99燃料。该精炼设施正遭受海盗袭击，他们打算盗取这一珍贵的稀有燃料，用于自己的不正当用途。\r\n\r\n入口通道设定为可通行一级科技、二级科技和船型小于或等于战列舰的所有势力舰船。\r\n\r\n安装在这个加速轨道中的安全设备会阻止任何舰船使用装配的跃迁核心稳定器。"
+  },
+  "graphicID": 1211,
+  "groupID": 310,
+  "mass": 1.0,
   "name": {
     "de": "Ice Refinery Heist",
     "en": "Ice Refinery Heist",
@@ -10,5 +22,9 @@
     "ru": "Ice Refinery Heist",
     "zh": "冰矿精炼设施劫掠"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 30000.0,
+  "sofFactionName": "genericbase",
   "volume": 1.0
 }

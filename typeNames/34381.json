@@ -1,5 +1,17 @@
 {
-  "typeID": 34381,
+  "description": {
+    "de": "Dies ist eines der drei Koordinatendiagramme, die Piloten benötigen, um den Spalt in der Nähe korrekt zu justieren und funktionstüchtig zu machen.\n\nAlle drei Koordinatendiagramme müssen entweder in das Low Power- oder High Power-Fernkalibrierungsgerät eingegeben werden.",
+    "en": "This is one of three coordinate plots required to correctly align the nearby rift to make it functional.\r\n\r\nAll three coordinate plots need to be placed into either the low power or the high power Remote Calibration Device.",
+    "es": "Una de las tablillas de coordenadas que hacen falta para alinear correctamente la grieta cercana y que funcione.\n\n\n\nLas tres tablillas de coordenadas deben colocarse en el dispositivo de calibración remota de alta o baja potencia.",
+    "fr": "Il s'agit de l'un des trois emplacements de coordonnées requis pour aligner correctement la faille proche afin que celle-ci soit fonctionnelle.\n\nLes trois emplacements de coordonnées doivent être placés au niveau de la puissance basse ou haute du dispositif de calibration à distance.",
+    "ja": "近隣の裂け目を適切に調整し、機能させるために必要な3点の座標のうちの1つ。3点すべての座標をローパワー遠隔キャリブレーション装置またはハイパワー遠隔キャリブレーション装置に入力しなければならない。",
+    "ko": "균열이 작동하는데 필요한 세 개의 좌표 중 하나입니다. <br><br>저전력 또는 고전력 원격 보정 장치에 세 좌표가 모두 입력되면 균열이 정렬되어 작동할 것입니다.",
+    "ru": "Одна из трёх координатных осей, требуемых для корректной настройки и ввода в строй близлежащего разлома.\n\nВсе три блока данных о координатах следует разместить в низко- или высокоэнергетическом устройстве дистанционной калибровки.",
+    "zh": "这是校准附近的裂隙并使其运作所需要的三张坐标图中的一张，\n\n三张坐标图都需要放入低能量或高能量远程校准装置中。"
+  },
+  "groupID": 314,
+  "iconID": 1192,
+  "mass": 1.0,
   "name": {
     "de": "X-Axis Calibration Coordinate",
     "en": "X-Axis Calibration Coordinate",
@@ -10,5 +22,8 @@
     "ru": "X-Axis Calibration Coordinate",
     "zh": "X轴校准坐标"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.1
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 18025,
+  "basePrice": 500000.0,
+  "description": {
+    "de": "Skill zur Aufbereitung von Eis. Ermöglicht es einer sachkundigen Person, unterdurchschnittliche Aufbereitungsanlagen mit wesentlich höherer Effizienz zu bedienen.\n\n2% Bonus auf den Aufbereitungsertrag von Eis je Skillstufe.",
+    "en": "Skill for Ice reprocessing. Allows a skilled individual to utilize substandard reprocessing facilities at considerably greater efficiency.\r\n\r\n2% bonus to Ice reprocessing yield per skill level.",
+    "es": "Habilidad para el reprocesamiento de hielo. Permite a un individuo hábil utilizar instalaciones subestándares de reprocesamiento con mucha más eficiencia.\n\n2 % de bonificación al rendimiento del reprocesamiento de hielo por nivel de habilidad.",
+    "fr": "Compétence pour le retraitement de la glace. Permet à un individu compétent de tirer le meilleur parti d'installations de retraitement médiocres.\n\nAugmente de 2% le rendement du retraitement de la glace par niveau de compétence.",
+    "ja": "アイス再処理に関するスキル。このスキルがあれば、低水準の再処理施設を利用してもかなりの生産性を上げることができる。\n\t\t\nアイス再処理による生産物が、スキルレベル上昇ごとに2%増加。",
+    "ko": "아이스 정제 관련 스킬입니다. 정제시설의 효율성이 크게 증가합니다. <br><br>매 레벨마다 아이스 정제 산출량 2% 증가",
+    "ru": "Специализированные методы переработки льда Позволяют опытным пилотам получать существенно более качественный результат в цехах переработки сырья, оснащённых не самым лучшим оборудованием.\n\n\n\nЗа каждую степень освоения навыка: на 2% увеличивается полезный выход ресурсов при переработке льда.",
+    "zh": "提炼冰矿的技能。可以大大提高技能熟练者使用低标准提炼设备时的效率。\n\n每升一级，冰矿提炼产出提高2%。"
+  },
+  "groupID": 1218,
+  "iconID": 33,
+  "marketGroupID": 1323,
   "name": {
     "de": "Ice Processing",
     "en": "Ice Processing",
@@ -10,5 +23,7 @@
     "ru": "Переработка льда",
     "zh": "冰矿处理技术"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

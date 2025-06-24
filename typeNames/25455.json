@@ -1,5 +1,16 @@
 {
-  "typeID": 25455,
+  "description": {
+    "de": "Eine Machariel, die von einem Agenten geflogen wird.",
+    "en": "A Machariel piloted by an agent.",
+    "es": "Machariel pilotada por un agente.",
+    "fr": "Un Machariel piloté par un agent.",
+    "ja": "エージェントを乗せたマカリエル。",
+    "ko": "에이전트가 조종하는 마케리엘입니다.",
+    "ru": "Корабль класса Machariel, управляемый агентом.",
+    "zh": "由代理人驾驶的马克瑞级飞船。"
+  },
+  "graphicID": 335,
+  "groupID": 517,
   "name": {
     "de": "Urandi Krilin's Machariel",
     "en": "Urandi Krilin's Machariel",
@@ -10,5 +21,9 @@
     "ru": "Urandi Krilin's Machariel",
     "zh": "乌尔迪·克利林的马克瑞级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 500.0,
+  "sofFactionName": "angelbase"
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 83590,
+  "description": {
+    "de": "Ein intensiver Feuerhagel hat diesen Werposten beschädigt, sodass er keine Zieldaten erfassen kann, aber vielleicht lässt sich das Problem umgehen, wenn seine Datenverarbeitung gehackt wurde.",
+    "en": "Intensive projectile fire has damaged this werpost, making it unable to aquire target data, but it might be possible to bypass the issue if its data processing was hacked.",
+    "es": "El intenso fuego de proyectiles ha dañado este Werpost, lo que le impide adquirir datos del objetivo, pero podría ser posible evitar el problema si su procesamiento de datos fuera hackeado.",
+    "fr": "Un tir intensif de projectiles a endommagé ce werpost, le rendant incapable d'acquérir des données cibles, mais il serait possible de contourner le problème en piratant son traitement des données.",
+    "ja": "このウェアポストは激しい攻撃を受けて損傷し、ターゲットのデータを取得できなくなっているが、データ処理機能をハッキングすれば不具合が発生している部分をバイパスさせることが可能かもしれない。",
+    "ko": "집중 포화로 방어탑이 손상되어 표적 정보를 수집할 수 없습니다. 데이터 처리 과정을 해킹해 우회 경로를 생성해 데이터를 수집할 수 있을 것 같습니다.",
+    "ru": "Эта станция дезинтегратора была повреждена во время интенсивного обстрела баллистическими снарядами, и сбор данных о цели прекращён. Однако вы можете обойти проблему, взломав систему обработки данных этого сооружения.",
+    "zh": "这座哨塔在密集的射弹火力中遭到损毁，无法获取目标数据。如果能破译哨塔的数据处理系统，应该可以绕过这个问题。"
+  },
+  "graphicID": 24549,
+  "groupID": 4576,
+  "mass": 1000.0,
   "name": {
     "de": "Malfunctioning Werpost",
     "en": "Malfunctioning Werpost",
@@ -10,5 +22,9 @@
     "ru": "Malfunctioning Werpost",
     "zh": "失灵的哨塔"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 1359.0,
+  "sofFactionName": "triglavianbase",
   "volume": 1000.0
 }

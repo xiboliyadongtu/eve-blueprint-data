@@ -1,5 +1,17 @@
 {
-  "typeID": 355932,
+  "basePrice": 567000.0,
+  "description": {
+    "de": "Grundlegende Kenntnisse über das Hacken.\n\nSchaltet die Fähigkeit zur Verwendung von Codeknackermodulen frei. \n\n+5% Bonus auf die Hack-Geschwindigkeit pro Skillstufe.",
+    "en": "Basic understanding of hacking.\r\n\r\nUnlocks ability to use codebreaker modules.\r\n\r\n+5% bonus to hacking speed per level.",
+    "es": "Conocimiento básico de piratería informática.\n\nDesbloquea la habilidad de usar módulos de piratería informática. \n\n+5% de bonificación de velocidad de pirateo por nivel.",
+    "fr": "Notions de base en piratage.\n\nDéverrouille l'utilisation des modules de décryptage. \n\n+5 % de bonus de vitesse de piratage par niveau.",
+    "it": "Comprensione base dell'hackeraggio.\n\nSblocca l'abilità di utilizzare i moduli decifratori.\n\n+5% di bonus alla velocità di hackeraggio per livello.",
+    "ja": "ハッキングに関する基本的な知識。\n\nコードブレーカーモジュールが使用可能になる。\n\nレベル上昇ごとに、ハッキング速度が5%上昇する。",
+    "ko": "해킹에 대한 기본적인 이해를 습득합니다. <br><br>해킹 모듈 조작 능력을 해제합니다.<br><br>매 레벨마다 해킹 속도 5% 증가",
+    "ru": "Понимание основных принципов работы систем взлома.\n\nПозволяет использовать модули генераторов ключей. \n\nБонус +5% к скорости взлома на каждый уровень.",
+    "zh": "破译基本知识。解锁使用代码破译装备的能力。每升一级，破译速度提高5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "System-Hacking",
     "en": "Systems Hacking",
@@ -11,5 +23,7 @@
     "ru": "Взлом систем",
     "zh": "系统破译中"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

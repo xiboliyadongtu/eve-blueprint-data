@@ -1,5 +1,18 @@
 {
-  "typeID": 30904,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dies ist eine ingenieurwissenschaftliche Talocan-Station",
+    "en": "This is a Talocan engineering station",
+    "es": "Estación de ingeniería de Talocan.",
+    "fr": "Il s'agit d'une station d'ingénierie talocan.",
+    "ja": "タロカンのエンジニアリングステーション",
+    "ko": "탈로칸 엔지니어링 정거장입니다.",
+    "ru": "Это инженерная станция Talocan",
+    "zh": "这是一座塔洛迦工程空间站。"
+  },
+  "graphicID": 3568,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Talocan Engineering Station",
     "en": "Talocan Engineering Station",
@@ -10,5 +23,9 @@
     "ru": "Talocan Engineering Station",
     "zh": "塔洛迦工程站"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 2500.0,
+  "sofFactionName": "talocanbase",
   "volume": 100000000.0
 }

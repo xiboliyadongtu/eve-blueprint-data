@@ -1,5 +1,22 @@
 {
-  "typeID": 41079,
+  "basePrice": 36286548.0,
+  "capacity": 11.5,
+  "description": {
+    "de": "Drei spezielle, extrem schwenkbare Geschütztürme, die mit Neutronen-Blasterkanonen bestückt sind, sind gegen Bedrohungen durch Sub-Capital-Schiffe vorgesehen.\n\nHinweis: Kann nur in Schiffe der Capital-Klasse eingebaut werden.\n\n\n\nBenötigt entweder reguläre oder fortschrittliche Hybridmunition: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium, Null, Void.",
+    "en": "Three specialized high angle turrets fitted with neutron blaster cannons are designed for engaging sub-capital threats.\r\nNote: May only be fitted to capital class ships.\r\n\r\nRequires either regular or advanced hybrid charge types: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium, Null, Void.",
+    "es": "Tres torretas especializadas de gran ángulo equipadas con cañones bláster de neutrones, concebidas para enemigos inferiores a la clase capital.\nAviso: Solo se puede equipar en naves capitales.\n\nRequiere un tipo de carga híbrida normal o avanzada: antimateria, iridio, hierro, plomo, plutonio, torio, tungsteno, uranio, Null, Void.",
+    "fr": "Les trois tourelles de tir incliné sont équipées de quadruple canons blasters à neutrons chargés de traquer et d'éliminer les menaces sous-capitales.\n\nRemarque : réservé aux vaisseaux de classe capital.\n\n\n\nMunitions standards et avancées : charges hybrides antimatière, iridium, fer, plomb, plutonium, thorium, tungstène, uranium, zéro, vide.",
+    "ja": "中性子ブラスターキャノンが装備された3基の特化型高角タレットは、母艦級よりも小さい艦船との交戦が想定されている。注： 母艦級の艦船にのみ装着可能。必要な標準またはアドバンスハイブリッドチャージのタイプ : アンチマター弾、イリジウム弾、アイアン弾、鉛弾、プルトニウム弾、トリウム弾、タングステン弾、ウラン弾、ヌル弾、ボイド弾。",
+    "ko": "세 대의 고각 터렛에 각각 중성자 블라스터 캐논이 장착되어 캐피탈 함선급 이하의 적을 상대하는데 최적화된 무기입니다. <br><br>참고: 캐피탈급 함선에만 장착이 가능합니다. <br><br>일반 또는 상급 하이브리드탄 필요: 반물질탄, 이리듐탄, 강철탄, 납탄, 플루토늄탄, 토륨탄, 텅스텐탄, 우라늄탄, 널, 보이드.",
+    "ru": "Три специализированных орудия с большим углом подъёма, оснащённые четырёхзарядными орудийными установками, разработаны для отражения атак кораблей стандартного тоннажа.\n\nВнимание! Этим модулем могут оснащаться исключительно корабли большого тоннажа.\n\n\n\nДля ведения огня из рельсотронов используются стандартные и усовершенствованные гибридные заряды следующих типов: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium, Javelin, Spike.",
+    "zh": "专业化高角度炮台装配三门中子疾速炮，被设计用来应对非旗舰级别舰船的威胁。\n\n注：只能用于旗舰级舰船。\n\n\n\n使用的普通或高级混合弹药类型：反物质弹药、铱质弹药、铁质弹药、铅质弹药、锰质弹药、钍质弹药、钨质弹药、钼质弹药、“虚空”、“涅磐”。"
+  },
+  "graphicID": 21202,
+  "groupID": 74,
+  "iconID": 2836,
+  "marketGroupID": 771,
+  "mass": 40000.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Shadow Serpentis Triple Neutron Blaster Cannon",
     "en": "Shadow Serpentis Triple Neutron Blaster Cannon",
@@ -10,5 +27,10 @@
     "ru": "Shadow Serpentis Triple Neutron Blaster Cannon",
     "zh": "暗影天蛇三中子疾速加农炮"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 1000.0,
+  "sofFactionName": "gallentebase",
+  "variationParentTypeID": 37291,
   "volume": 4000.0
 }

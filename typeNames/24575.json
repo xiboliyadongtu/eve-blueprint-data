@@ -1,5 +1,20 @@
 {
-  "typeID": 24575,
+  "basePrice": 2000000000.0,
+  "capacity": 320000000.0,
+  "description": {
+    "de": "Eine mobile Fertigungsanlage in der Capital- und Supercapital-Schiffe gebaut werden können. Das Verankern dieser Struktur erfordert die Souveränität über ein Sonnensystem. Diese Struktur hat keine spezifischen Boni auf Zeit- oder Materialvoraussetzungen um die Fertigung von Schiffen zu unterstützen. Hinweis: Um ein Schiff aus einer Schiff-Fertigungsanlage heraus verwenden zu können, muss eine Schiffwartungsanlage mit ausreichend freiem Platz in der Nähe sein, um das Schiff dort hinein bewegen zu können.",
+    "en": "A mobile assembly facility where capital and supercapital ships can be manufactured. Anchoring this structure requires system sovereignty. This structure has no specific time or material requirement bonuses to ship manufacturing.\r\n\r\nNote: To use a ship from a Ship Assembly Array a Ship Maintenance Array with enough free storage space needs to be in range that the ship can be moved there.",
+    "es": "Instalación de ensamblaje móvil donde se pueden fabricar naves capitales y supercapitales. Hace falta soberanía del sistema para anclar esta estructura. No ofrece bonificaciones específicas de tiempo o materiales en la fabricación de naves.\n\nAviso: Para usar una nave desde una batería de montaje, es necesario que haya una dársena de mantenimiento cerca con suficiente espacio libre para trasladarla ahí.",
+    "fr": "Module d'assemblage mobile où sont fabriqués les vaisseaux capitaux et supercapitaux. Vous devez détenir la souveraineté du système pour y ancrer ce type de structure. Cette structure ne présente aucun bonus spécifique de temps ou de matériaux requis pour la fabrication de vaisseaux.\n\nRemarque : pour utiliser un vaisseau à partir d'un module d'assemblage de vaisseaux, vous devez disposer d'un module de maintenance de vaisseaux à portée avec suffisamment d'espace de stockage pour y placer le vaisseau.",
+    "ja": "移動式組み立て施設。主力艦と大型母艦を建造できる。この建造物を係留するには、現地システムの領有権が必要となる。艦船製造に要する時間や資源に対するボーナスは特にない。注：艦船組み立て施設から船を取り出して使用するには、その船を移せる距離に、十分な空き容量のある船舶調整施設がなければならない。",
+    "ko": "캐피탈 및 슈퍼캐피탈급 함선을 생산할 수 있는 이동식 생산 시설입니다. 시설을 설치하기 위해선 항성계 소버린티가 요구됩니다. 함선 생산에 적용되는 시간 및 자원효율성 보너스는 없습니다. <br><br>참고: 함선 건조 시설에서 제작된 함선을 이용하기 위해서는 여유 적재공간이 있는 함선 정비 시설이 범위 내에 존재해야 합니다.",
+    "ru": "Блок-завод для производства кораблей большого и сверхбольшого тоннажа. Постановка на якорь этого сооружения требует наличия права владения системой, в которой находится ПОС. В этом сооружении расход времени и комплектующих при производстве кораблей не отличается от номинальных значений. Чтобы воспользоваться построенным кораблем, вам придется переместить его в находящийся достаточно близко ангарный блок, в котором при этом должно быть достаточно свободного места.",
+    "zh": "一座移动式装配设施，在这里可以生产旗舰和超级旗舰。需要握有星系主权才能锚定此建筑。这个建筑不提供生产时间或材料需求的加成。\n\n注：若要使用来自舰船组装阵列的舰船，在舰船可被转移的范围内应该存在舰船维护阵列，并带有足够的可用存储空间以接收该船。"
+  },
+  "graphicID": 2977,
+  "groupID": 397,
+  "marketGroupID": 932,
+  "mass": 200000000.0,
   "name": {
     "de": "Supercapital Ship Assembly Array",
     "en": "Supercapital Ship Assembly Array",
@@ -10,5 +25,9 @@
     "ru": "Supercapital Ship Assembly Array",
     "zh": "超级旗舰组装阵列"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 12954.0,
+  "sofFactionName": "genericmetal",
   "volume": 850000.0
 }

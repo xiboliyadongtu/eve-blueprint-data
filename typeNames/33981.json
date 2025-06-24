@@ -1,5 +1,19 @@
 {
-  "typeID": 33981,
+  "description": {
+    "de": "Diese Einheit erhöht die Warpgeschwindigkeit und -beschleunigung. Es können nicht mehr als drei Hyperraum-Beschleuniger in ein Schiff eingebaut werden.",
+    "en": "This unit increases warp speed and acceleration.\r\n\r\nNo more than three Hyperspatial Accelerators can be fit to one ship.",
+    "es": "Esta unidad aumenta la aceleración y la velocidad de warp.\n\nNo se puede equipar una nave con más de tres aceleradores hiperespaciales.",
+    "fr": "Cette unité augmente la vitesse de warp et l'accélération.\n\nIl est impossible d'équiper plus de trois accélérateurs hyperspatiaux sur un vaisseau.",
+    "ja": "ワープ速度と加速度を上昇させる。1隻の艦船に装備できるハイパースパシャル加速器は3基までである。",
+    "ko": "워프 속도와 가속도가 증가합니다. <br><br>하나의 함선에 최대 3개의 초공간 가속기가 장착 가능합니다.",
+    "ru": "Установка этого модуля повышает скорость полёта и ускорение корабля (только в варп-режиме). Допускается установка на борт корабля не более трёх гиперпространственных ускорителей.",
+    "zh": "这个装置可以提高跃迁速度和加速度。\n\n每艘舰船最多只能装配三个超空间加速装置。"
+  },
+  "groupID": 1289,
+  "iconID": 98,
+  "marketGroupID": 1931,
+  "mass": 50.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Limited Hyperspatial Accelerator",
     "en": "Limited Hyperspatial Accelerator",
@@ -10,5 +24,8 @@
     "ru": "Limited Hyperspatial Accelerator",
     "zh": "限量型空间加速装置"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 50.0,
   "volume": 5.0
 }

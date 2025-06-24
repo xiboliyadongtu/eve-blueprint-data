@@ -1,5 +1,17 @@
 {
-  "typeID": 81402,
+  "description": {
+    "de": "Solange ihr Energiespeicher geladen bleibt, sind diese Anlagen in der Lage, eine Spalte im Raum mit Multivarianz-Energiemustern zu überfluten, die sie destabilisieren und schließen.",
+    "en": "As long as their capacitor remains charged, these arrays are capable of flooding a rift in space with multivariant energy patterns that will cause it to destabilize and close.",
+    "es": "Mientras su condensador permanezca cargado, estos sistemas serán capaces de inundar una grieta del espacio con patrones de energía multivariantes que harán que se desestabilice y se cierre.",
+    "fr": "Tant que leur capaciteur reste chargé, ces modules sont capables de submerger une faille dans l'espace avec des motifs d'énergie multivariants qui la déstabiliseront et entraîneront sa fermeture.",
+    "ja": "キャパシタに電力が残っている間、このアレイは宇宙空間に発生したリフトを多変数的エネルギーパターンで満たして不安定にし、最終的には消滅させる。",
+    "ko": "캐패시터만 충분하다면 복합적인 에너지 파동을 집중시켜 균열을 불안정하게 만들 수 있습니다.",
+    "ru": "Пока их накопитель заряжен, эти излучатели способны заполнить пространственный разлом многовариантными энергетическими паттернами, которые вызовут его дестабилизацию и закрытие.",
+    "zh": "当电容器保持充电时，这些阵列能释放多种能量模式至空间裂隙，使其失去稳定并关闭。"
+  },
+  "graphicID": 3533,
+  "groupID": 4576,
+  "mass": 100000.0,
   "name": {
     "de": "Destabilizing Array",
     "en": "Destabilizing Array",
@@ -10,5 +22,9 @@
     "ru": "Destabilizing Array",
     "zh": "动荡阵列"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 241.0,
+  "sofFactionName": "sleeperbase",
   "volume": 100000000.0
 }

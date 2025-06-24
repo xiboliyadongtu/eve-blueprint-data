@@ -1,5 +1,17 @@
 {
-  "typeID": 30024,
+  "description": {
+    "de": "Auf den ersten Blick sieht dieses elektronische Zubehörteil ziemlich gewöhnlich aus, obwohl man es üblicherweise nicht unbedingt in einer Drohne erwarten würde. Diese wissenschaftlichen Geräte werden für Berechnungen verwendet, da sie eine Zahl konkreter Punkte auf einem potentiell unendlichen Zeitstrahl dokumentieren können. Aus unerfindlichen Gründen ist die Rechengeschwindigkeit dieses Gerätes laut Konfiguration mit der Entfernung zwischen zwei Punkten synchronisiert. Der Grund dafür bleibt unklar, aber die grundlegende Funktionalität des Geräts kann umkonfiguriert werden. Im Verbund mit einigen anderen Komponenten würde es elektronische Systeme Interferenzen gegenüber resistenter machen, die durch Subraum-Verzerrungen entstehen.",
+    "en": "At first glance this coordinator appears to be a common enough piece of equipment, albeit an odd one to be found inside a drone. Designed to plot various points in time across a potentially infinite period, these devices are often used for scientific calculations. \r\n\r\nFor some unknown reason, this particular coordinator is configured to synchronize its processing speed in time with the distance travelled between two points. What purpose this serves remains a mystery, but the object's basic functionality can be reconfigured. With the addition of a few other components, it would allow electronics systems to more easily withstand the interference from subspace distortion.",
+    "es": "A primera vista, este coordinador parece ser una pieza de equipamiento bastante común, aunque es un poco raro encontrar uno dentro de un dron. Estos dispositivos, diseñados para planear en un periodo potencialmente infinito, suelen utilizarse para hacer cálculos científicos.\n\nPor algún motivo desconocido, este coordinador en concreto está configurado para sincronizar su velocidad de procesamiento en el tiempo con la distancia que se ha recorrido entre dos puntos. No se sabe por qué querían calcular eso, pero la funcionalidad básica del objeto se puede reconfigurar. Incorporando algunos componentes más, permitiría a los sistemas electrónicos soportar más fácilmente las interferencias de la distorsión subespacial.",
+    "fr": "Au premier coup d'œil, ce coordinateur ne semble être rien de plus qu'un simple équipement, quoiqu'un peu étrange pour un drone. Conçus pour définir différents points dans le temps sur une période potentiellement infinie, ces dispositifs sont souvent utilisés dans le cadre de calculs scientifiques. \n\nPour une raison inconnue, ce coordinateur particulier est configuré pour synchroniser sa vitesse de traitement dans le temps avec la distance parcourue entre ces deux points. L'objectif de cette fonction reste un mystère, mais sa fonctionnalité première peut être reconfigurée. Avec l'ajout d'autres composants, il pourrait permettre aux systèmes électroniques de résister plus facilement aux interférences dues aux distorsions subspatiales.",
+    "ja": "一見したところ、この調整装置はありふれたもののようだが、ドローンの内部にあるという点が奇妙だ。これらの装置は時間上の様々なポイントを、無限に遠い点であってもプロットできるよう設計されており、科学分野の計算でよく使用される。理由は分からないが、この調整装置は 2 つの場所の間の移動距離に処理速度が同期するよう設定されている。目的は謎に包まれているが、基本機能は再設定することができる。電子システムに他の部品を少し追加すれば、サブスペースのひずみによって発生する障害にも容易に耐えられるようになるだろう。",
+    "ko": "언뜻 평범해 보이는 프로세서로 드론에 설치 된 이유는 알 수 없습니다. 해당 프로세서는 과학용 계산 장치의 일종으로 시간과 관련된 각종 실험에서 활용됩니다. <br><br>현재는 특정한 두 지점 사이의 시간과 프로세서 처리속도 간의 동기화가 이루어진 상태입니다. 정확한 역할은 알 수 없지만 각종 기능에 대한 재설정은 가능할 것으로 예상됩니다. 부품을 추가로 설치할 경우 아공간 왜곡에 대한 전자공학 시스템의 저항력이 상승합니다.",
+    "ru": "На первый взгляд, этот координатор представляет собой довольно обычное электронное устройство, хотя, конечно, странно, что оно находилось в дроне. Созданные для фиксирования различных моментов времени на потенциально бесконечном отрезке, данные устройства часто используются для научных расчетов.\n\nПо какой-то неизвестной причине, данный координатор настроен на синхронизацию скорости работы по времени с расстоянием, пройденным между двумя точками. Для чего это было сделано, неизвестно, но основные функции прибора могут быть изменены. С добавлением некоторых компонентов, оно позволит электронным системам корабля легче справляться с помехами, вызываемыми искажением подпространства.",
+    "zh": "第一眼看上去这个设备完全没有任何令人惊讶之处，只是一个非常普通的仪器而已，但要说是从一个无人机上找来的倒是让人觉得有些古怪。这个仪器的作用是在一段几乎无限长的时间内，记录一些特定的时间点，通常这样的仪器多半是用在科学计算上的。出于某种不明的原因，这个仪器设计上的工作方式是将处理速度同两点间运动的距离进行同步。这个设备的具体用处到目前还是不为人知，但是它的功能可以进行重新的设置。通过和其他几样设备的结合，它能够让舰载电子系统在亚空间扭曲发生的时候更容易维持正常工作。"
+  },
+  "groupID": 966,
+  "iconID": 3722,
+  "marketGroupID": 1862,
   "name": {
     "de": "Cartesian Temporal Coordinator",
     "en": "Cartesian Temporal Coordinator",
@@ -10,5 +22,7 @@
     "ru": "Cartesian Temporal Coordinator",
     "zh": "笛卡尔时空坐标仪"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

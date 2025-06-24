@@ -1,5 +1,70 @@
 {
-  "typeID": 17812,
+  "basePrice": 2100000.0,
+  "capacity": 135.0,
+  "description": {
+    "de": "Die Firetail ist vom Entwurf einer Fregatte abgeleitet, die als Shamrock bekannt ist. Dieser Bautyp wurde von einer kleinen, inzwischen verschwundenen Piratenorganisation namens Lazari Dromitus verwendet. Die Blaupausen fanden ihren Weg in die Hände des Militärs der Matari nach einem Angriff auf deren Hauptquartier, wobei der Anführer der Piraten getötet wurde, was die Gruppe führerlos machte und sie in alle vier Himmelsrichtungen zerstreute. Seither wurde die Firetail verbessert und ist jetzt ein wichtiges Element der meisten Patrouillen der Flotte der Republik.",
+    "en": "The Firetail is modeled off a fighter frigate known as the Shamrock, a design used by a small, now-extinct pirate faction known as Lazari Dromitus. The blueprint found its way into the hands of Matari military forces after a raid on Lazari Dromitus's headquarters succeeded in killing its leader, thus beheading the organization and scattering its remnants to the four winds. It has since been improved upon and upgraded, and the Firetail is now a mainstay in most Republic Fleet patrols.",
+    "es": "La Firetail se basa en una fragata de cazas conocida como la Shamrock, un diseño que utilizaba una pequeña y extinta facción pirata: Lazari Dromitus. El plano llegó a manos de las fuerzas militares mataris tras una incursión en el cuartel general de Lazari Dromitus durante la cual asesinaron a su líder, decapitando así a la organización y dispersando sus restos a los cuatro vientos. Desde entonces, se ha mejorado y actualizado, y ahora la Firetail es un elemento fundamental en la mayoría de patrullas de la Flota de la República.",
+    "fr": "Le Firetail est basé sur le modèle d'une frégate de combat connue sous le nom de Shamrock, un design utilisé par une petite faction pirate aujourd'hui disparue, appelée Lazari Dromitus. Le plan de construction est tombé entre les mains des forces militaires matari après un raid sur le QG du Lazari Dromitus qui s'est conclu par la mort de son chef et la chute de toute l'organisation. Le vaisseau a depuis été amélioré et remis au goût du jour et le Firetail est à présent un pilier de toute patrouille de la flotte de la République.",
+    "ja": "ファイアテイルは、今は亡きラザリ・ドロミタスという小規模な海賊勢力が使用していた、シャムロックという艦載戦闘機フリゲートのデザインを基に設計された。ラザリ・ドロミタスの本拠地への討伐により、首領は死亡、残党は四散したが、シャムロックのブループリントはマタール軍部の手にわたった。それに改良や機能強化を重ねて完成したファイアテイルは、今や共和国フリートのパトロール隊の主力となっている。",
+    "ko": "파이어테일은 라자리 드로미투스의 전투 프리깃인 샴록을 바탕으로 설계가 이루어졌습니다. 과거 민마타 함대가 라자리 드로미투스의 본부를 점령하고 지도자를 처치하는 과정에서 샴록의 블루프린트가 공화국으로 흘러 들어갔습니다. 이후 지속적인 업그레이드를 통해 파이어테일이 탄생했으며 현재는 민마타 함대의 주력 정찰함으로 활약하고 있습니다.",
+    "ru": "«Файртейл» создан на базе фрегата-истребителя типа «Шамрок» — модели, использовавшейся небольшой, ныне не существующей пиратской организацией, именовавшей себя «Лазари Дромитус». Во время матарского рейда на штаб «Лазари Дромитус» лидер организации был уничтожен, оставшиеся без руководства пираты рассеялись по вселенной — и именно в этом рейде матарская армия обнаружила чертёж «Шамрока». С тех пор он был усовершенствован и модернизирован; теперь «Файртейлы» составляют каркас патрульных отрядов флота Республики.",
+    "zh": "火尾鸡级的原型可以追溯到一艘名叫“三叶草”的战斗护卫舰，这个设计原由一个小型海盗组织拉泽里·多米达斯所有，现在这个组织已被剿灭。在针对拉泽里·多米达斯总部的清剿行动中，组织首领伏诛，该组织灰飞烟灭，飞船蓝图也落到了玛塔利军队的手里。经过多次升级改良，现在的火尾鸡级成为了共和国巡逻舰队的中流砥柱。"
+  },
+  "factionID": 500002,
+  "graphicID": 2635,
+  "groupID": 25,
+  "marketGroupID": 1366,
+  "mass": 1098000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      150,
+      71,
+      141,
+      85,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      150,
+      71,
+      141,
+      85,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      150,
+      71,
+      141,
+      85,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      150,
+      71,
+      141,
+      85,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      150,
+      71,
+      141,
+      85,
+      118,
+      94
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Republic Fleet Firetail",
     "en": "Republic Fleet Firetail",
@@ -9,6 +74,65 @@
     "ko": "공화국 함대 파이어테일",
     "ru": "Republic Fleet Firetail",
     "zh": "共和舰队火尾鸡级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 33.0,
+  "sofFactionName": "minmatarnavy",
+  "soundID": 20078,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [],
+    "types": {
+      "3329": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf den Präzisionsabfall von <a href=showinfo:3302>kleinen Projektilwaffentürmen</a>",
+            "en": "bonus to <a href=showinfo:3302>Small Projectile Turret</a> falloff",
+            "es": "de bonificación al alcance efectivo de la <a href=showinfo:3302>torreta de proyectiles pequeña</a>.",
+            "fr": "de bonus à la déperdition des <a href=showinfo:3302>petites tourelles à projectiles</a>",
+            "ja": "<a href=showinfo:3302>小型プロジェクタイルタレット</a>の精度低下範囲にボーナス",
+            "ko": "<a href=showinfo:3302>소형 발사체 터렛</a> 유효사거리 증가",
+            "ru": "бонус к остаточной дальности <a href=showinfo:3302>малых баллистических орудий</a>",
+            "zh": "<a href=showinfo:3302>小型射弹炮台</a>失准范围加成"
+          },
+          "importance": 3,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die Nachführungsgeschwindigkeit von <a href=showinfo:3302>kleinen Projektilgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3302>Small Projectile Turret</a> tracking speed",
+            "es": "de bonificación a la velocidad de rastreo de la <a href=showinfo:3302>torreta de proyectiles pequeña</a>.",
+            "fr": "de bonus à la vitesse de poursuite des <a href=showinfo:3302>petites tourelles à projectiles</a>",
+            "ja": "<a href=showinfo:3302>小型プロジェクタイルタレット</a>の追跡速度が上昇",
+            "ko": "<a href=showinfo:3302>소형 발사체 터렛</a> 트래킹 속도 증가",
+            "ru": "повышается скорость наводки на цель <a href=showinfo:3302>малых баллистических орудий</a>",
+            "zh": "<a href=\"showinfo:3302\">小型射弹炮台</a>跟踪速度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 25.0,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3302>kleinen Projektilgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3302>Small Projectile Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3302>torreta de proyectiles pequeña</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:3302>petites tourelles à projectiles</a>",
+            "ja": "<a href=showinfo:3302>小型プロジェクタイルタレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3302>소형 발사체 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон боеприпасов <a href=showinfo:3302>малых баллистических орудий</a>",
+            "zh": "<a href=\"showinfo:3302\">小型射弹炮台</a>伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 16500.0
 }

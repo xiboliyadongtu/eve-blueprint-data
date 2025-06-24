@@ -1,5 +1,19 @@
 {
-  "typeID": 57563,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Mit der passenden Ausrüstung sind Sie vielleicht in der Lage, sich in den Tresor zu hacken und an wertvolle Ressourcen zu gelangen.",
+    "en": "If you have the right equipment you might be able to hack into the vault and get some valuable resources.",
+    "es": "Con el equipo adecuado, podrías hackear la cámara y extraer algunos recursos de valor.",
+    "fr": "Si vous disposez du matériel adéquat, vous pourrez peut-être pirater le coffre-fort pour l’ouvrir et récupérer des ressources de grande valeur.",
+    "ja": "適切な機器があれば、金庫をハッキングして有益なリソースを得ることができるかもしれない。",
+    "ko": "적합한 장비를 통해 데이터뱅크에서 중요한 정보를 추출할 수 있습니다.",
+    "ru": "При наличии необходимого оборудования вы сможете взломать систему безопасности хранилища и получить ценные ресурсы.",
+    "zh": "如果你携带了合适的设备，就能破译这个保险库，获取珍贵的资源。"
+  },
+  "graphicID": 20297,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Super Special Vault",
     "en": "Super Special Vault",
@@ -10,5 +24,9 @@
     "ru": "Super Special Vault",
     "zh": "超级特殊储藏库"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 3421,
+  "basePrice": 130000.0,
+  "description": {
+    "de": "Fertigkeit im Umgang mit Smartbomben.\r\n\r\nBonus: 5% Verkürzung der Wirkungszeit von Smartbomben je Skillstufe.",
+    "en": "Skill at using smartbombs. 5% decrease in smartbomb duration per skill level.",
+    "es": "Habilidad para usar bombas inteligentes. Reduce un 5 % la duración de las bombas inteligentes por nivel de habilidad.",
+    "fr": "Compétence liée à l'utilisation de bombes de proximité. Réduit de 5 % par niveau de compétence la durée de la bombe de proximité.",
+    "ja": "スマートボムを使うスキル。スキルレベル上昇ごとにスマートボムの持続時間に 5% のボーナス。",
+    "ko": "스마트폭탄을 운용하기 위한 스킬입니다. 매 레벨마다 스마트폭탄 사이클 시간 5% 감소",
+    "ru": "Навык использования импульсных излучателей. За каждую степень освоения навыка: на 5% сокращается рабочий цикл импульсных излучателей.",
+    "zh": "使用立体炸弹的技能。每升一级，立体炸弹的循环时间缩短5%。"
+  },
+  "groupID": 1216,
+  "iconID": 33,
+  "marketGroupID": 368,
   "name": {
     "de": "Energy Pulse Weapons",
     "en": "Energy Pulse Weapons",
@@ -10,5 +23,7 @@
     "ru": "Импульсные излучатели",
     "zh": "能量脉冲武器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

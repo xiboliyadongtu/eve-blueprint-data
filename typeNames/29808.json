@@ -1,5 +1,18 @@
 {
-  "typeID": 29808,
+  "capacity": 235.0,
+  "description": {
+    "de": "Die Crucifier war zunächst als Forschungs- oder Kundschafterschiff ausgelegt, aber die aktuelle Version ist mit eigentlich für offensivere Forschungszwecke angedachter Elektronik ausgestattet. Das Elektronik- und Computersystem nimmt einen großen Teil des Innenraums ein, weshalb wenig Platz für Fracht und Bewaffnung bleibt. Die Beschriftung dieses Schiffes lässt nicht direkt auf eine Verbindung zum Imperium schließen.",
+    "en": "The Crucifier was first designed as an explorer/scout, but the current version employs the electronic equipment originally intended for scientific studies for more offensive purposes. The Crucifier's electronic and computer systems take up a large portion of the internal space leaving limited room for cargo or traditional weaponry.\r\n\r\nThe markings on this ship reveal no obvious connection to the Empire.",
+    "es": "La Crucifier inicialmente fue creada para trabajos de exploración, pero la versión actual posee equipamiento electrónico para estudios científicos que usa con fines más ofensivos. Sus sistemas informáticos y electrónicos ocupan tanto que tiene menos espacio de carga o para armamento tradicionales.\n\n\n\nLas marcas de esta nave no revelan una conexión evidente con el Imperio.",
+    "fr": "Le Crucifier a d'abord été conçu comme un vaisseau d'exploration et de reconnaissance, mais sa version actuelle utilise un équipement électronique destiné à l'origine aux études scientifiques à des fins plus offensives. Les systèmes informatiques et électroniques du Crucifier occupent une grande partie de l'espace interne, ne laissant qu'une place limitée pour le chargement et l'armement traditionnel.\n\nLes marques présentes sur ce vaisseau n'indiquent aucune relation avec l'Empire.",
+    "ja": "クルセファーは元々、探査偵察用に設計されたが、本来は科学研究のために装備された電子機器も、現行型では攻撃目的で使用されている。内部スペースの大部分を電子系統とコンピュータ系統が占めているため、カーゴや旧来の兵器を積載する余地はほとんどない。\n\n\nその外観から帝国との明らかなつながりを見出すことはできない。",
+    "ko": "크루시파이어는 본래 탐사 및 정찰 목적으로 설계되었으나, 연구용 장비가 공격 목적으로 활용되기 시작하면서 전반적인 설계 변경이 이루어졌습니다. 대규모 컴퓨터 시스템과 전자 장비 탓에 내부 공간이 상당히 협소하여 무기 체계 및 화물 적재를 위한 공간이 제한되어 있습니다. <br><br>함선에는 아마르 제국 소속임을 나타내는 어떠한 표식도 새겨져 있지 않습니다.",
+    "ru": "Crucifier изначально проектировался как исследовательский и разведывательный корабль, но текущая модель оснащена электронным оборудованием, которое ранее предназначалось для решения военных задач. Электронная и компьютерная системы Crucifier занимают большую часть внутреннего пространства корабля, оставляя мало места для груза или традиционных видов вооружения.\n\nCудя по опознавательным знакам этого корабля, он не имеет непосредственного отношения к Империи.",
+    "zh": "“磨难”护卫舰的设计初衷是用于侦察/探索，但它的当前版本将原本用作科学研究的电子设备投入到了更具攻击性的用途上。“磨难”的电子和计算机系统占据了大量船内空间，因此货舱和传统武器的空间就非常有限了。船上的标识表明其同帝国并没有直接联系。"
+  },
+  "graphicID": 1066,
+  "groupID": 665,
+  "mass": 2860000.0,
   "name": {
     "de": "Independent Crucifier",
     "en": "Independent Crucifier",
@@ -10,5 +23,10 @@
     "ru": "Independent Crucifier",
     "zh": "独立磨难级"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 50.0,
+  "sofFactionName": "amarrbase",
   "volume": 28600.0
 }

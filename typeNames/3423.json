@@ -1,5 +1,18 @@
 {
-  "typeID": 3423,
+  "basePrice": 75000.0,
+  "description": {
+    "de": "Betrieb von Energy Transfer Arrays und anderen Energieübertragungssystemen.\r\n\r\nBonus: 5% Reduktion des Energiespeicherbedarfs energieübertragender Systeme.",
+    "en": "Operation of energy transfer array and other energy emission systems. 5% reduced capacitor need of energy emission weapons per skill level.",
+    "es": "Funcionamiento de la matriz de transferencia energética y otros sistemas de emisión de energía. Necesidad del condensador reducida un 5 % en armas de emisión energética por nivel de habilidad.",
+    "fr": "Utilisation du module de transfert d'énergie et d'autres systèmes d'émission d'énergie. Réduit de 5 % par niveau de compétence les besoins énergétiques du capaciteur pour les armes à énergie.",
+    "ja": "エネルギートランスファーアレイなどのエネルギーエミッションシステムを操作するためのスキル。スキルレベル上昇ごとにエネルギーエミッション兵器のキャパシタ消費が 5% 減少する。",
+    "ko": "에너지 이미션 시스템의 운용을 위한 스킬입니다. 매 레벨마다 에너지 이미션 무기 캐패시터 사용량 5% 감소",
+    "ru": "Умение использовать модули передачи энергии и другие системы переноса энергии. За каждую степень освоения навыка: на 5% снижается расход энергии накопителя при работе систем дистанционного переноса заряда накопителя.",
+    "zh": "操控能量转移阵列和其他能量散发系统的技能。每升一级，能量散发装备的电容消耗减少5%。"
+  },
+  "groupID": 1216,
+  "iconID": 33,
+  "marketGroupID": 368,
   "name": {
     "de": "Capacitor Emission Systems",
     "en": "Capacitor Emission Systems",
@@ -10,5 +23,7 @@
     "ru": "Дистанционный перенос заряда накопителя",
     "zh": "电容散发系统研究"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

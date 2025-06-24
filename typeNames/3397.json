@@ -1,5 +1,18 @@
 {
-  "typeID": 3397,
+  "basePrice": 1000000.0,
+  "description": {
+    "de": "Skill zur Fertigung von fortschrittlichen Kreuzern und Schlachtkreuzern. 1% Reduktion der Fertigungszeit je Skillstufe für alle Gegenstände, die den Skill \"Advanced Medium Ship Construction\" erfordern.",
+    "en": "Skill required for the manufacturing of advanced cruisers and battlecruisers. 1% reduction in manufacturing time for all items requiring Advanced Medium Ship Construction per level.",
+    "es": "Habilidad necesaria para fabricar cruceros y cruceros de combate avanzados. 1 % de reducción del tiempo de fabricación de todos los objetos que requieran construcción de naves medianas avanzadas por nivel.",
+    "fr": "Compétence liée à la fabrication de croiseurs avancés et de bataille. réduit de 1 % le temps de production par niveau pour tous les éléments nécessitant la construction de vaisseaux intermédiaires avancés.",
+    "ja": "高度な巡洋艦と巡洋戦艦の製造に必要なスキル。高度な中型船の建造を必要とするすべてのアイテムの製造時間がレベル上昇ごとに1%削減。",
+    "ko": "상급 크루저 및 배틀크루저 제조에 요구되는 스킬입니다. 매 레벨마다 상급 중형 함선 제작 스킬을 요구하는 모든 항목의 제조 시간 1% 감소",
+    "ru": "Освоение этого навыка требуется для производства крейсеров и линейных крейсеров специализированных проектов. Приводит к экономии времени на прогон производства всех предметов, для производства которых необходим этот навык (на 1% за каждую степень освоения навыка).",
+    "zh": "建造高级巡洋舰和战列巡洋舰的必需技能。每升一级，所有需要高级中型舰船建造研究技能的物品的生产时间缩短1%。"
+  },
+  "groupID": 268,
+  "iconID": 33,
+  "marketGroupID": 369,
   "name": {
     "de": "Advanced Medium Ship Construction",
     "en": "Advanced Medium Ship Construction",
@@ -10,5 +23,8 @@
     "ru": "Производство кораблей крейсерского тоннажа спецпроектов",
     "zh": "高级中型舰船建造研究"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

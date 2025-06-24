@@ -1,5 +1,21 @@
 {
-  "typeID": 18637,
+  "basePrice": 107784.0,
+  "description": {
+    "de": "Diese Monduntersuchungssonde wird in Richtung eines nahe stehenden Mondes gestartet, auf dem sie schließlich landet und Daten von Atmosphären- und Bodenanalysen zurücksendet.\n\nDas Gaze-System ist ein extrem schnelles Erkundungssystem, das einen Mond zuverlässig in weniger als 2,5 Minuten scannen kann. Es verlangt zur Handhabung allerdings beträchtliche Erfahrung.",
+    "en": "The moon survey probe is launched in the direction of a nearby moon where it will eventually land and broadcast back atmospheric and soil analysis data.\r\n\r\nThe Gaze system is a extremely fast survey system that can reliably scan a moon in under 2.5 minutes. However, it requires considerable skill to use.",
+    "es": "La sonda de prospección lunar se lanza hacia una luna cercana para que aterrice sobre ella y transmita datos de análisis atmosféricos y terrestres.\n\nEl sistema Gaze es un sistema de prospección extremadamente rápido que puede escanear eficazmente una luna en menos de 2,5 minutos. Sin embargo, utilizarlo requiere una habilidad considerable.",
+    "fr": "La sonde d'inspection lunaire est lancée vers une lune proche où elle atterrira et renverra les données d'analyse du sol et de l'air.\n\nLe système Gaze est un système d'inspection extrêmement rapide qui peut scanner de manière fiable une lune en moins de 2,5 minutes. Toutefois, son utilisation nécessite des compétences considérables.",
+    "ja": "衛星調査プローブを近くの衛星に向けて発射すると、やがて地表に到達して大気と土壌の分析データを送信してくる。\r\n\nゲイズは超高速タイプの調査プローブで、2分半とかけずにかなり精度の高いスキャンを済ませてしまう。しかし、運用にはかなりの熟練が必要だ。",
+    "ko": "위성 조사 프로브는 위성의 대기 및 토양 분석 데이터를 전송합니다. <br><br>게이즈 시스템은 위성 하나를 2분 30초 이내에 완벽하게 조사할 수 있는 기능을 갖추고 있습니다. 하지만 사용하기 위해서는 상당히 높은 수준의 스킬이 필요합니다.",
+    "ru": "Применяемые для исследования спутников планет зонды выстреливаются в направлении интересующей пилота планеты. Приземлившись, они собирают данные об атмосфере и составе почвы, после чего отправляют собранную информацию на корабль.\n\nЗонды класса Gaze отличаются невероятно высокой скоростью работы бортовых систем (все необходимые замеры могут быть произведены менее чем за 2,5 минуты), однако требуют от оператора уверенного владения соответствующим навыком.",
+    "zh": "卫星探针能被发射到邻近的卫星表面，传回大气和土壤的分析数据。\n\n凝视探针是个能在2.5分钟内得到准确结果的迅捷扫描系统。但需要很高的技能才能使用。"
+  },
+  "graphicID": 20064,
+  "groupID": 492,
+  "iconID": 2663,
+  "marketGroupID": 1200,
+  "mass": 1.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Gaze Survey Probe I",
     "en": "Gaze Survey Probe I",
@@ -10,5 +26,9 @@
     "ru": "Gaze Survey Probe I",
     "zh": "凝视测量探针 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 30.0,
+  "variationParentTypeID": 18626,
   "volume": 5.0
 }

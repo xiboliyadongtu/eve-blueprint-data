@@ -1,5 +1,70 @@
 {
-  "typeID": 12021,
+  "basePrice": 231500000.0,
+  "capacity": 400.0,
+  "description": {
+    "de": "Schwere Unterbrechungskreuzer vereinen die hohe Kraft von Unterbrechern und die defensiven Eigenschaften von schweren Angriffskreuzern besonders effektiv und sind dadurch im Nahkampf, sowohl in der Offensive als auch in der Defensive, unersetzlich. Schwere Unterbrechungskreuzer sind die einzigen Schiffe, die in der Lage sind, Warpstörfeldgeneratoren zu benutzen, Module, die ein Warpstörfeld generieren, welches sich zusammen mit dem Schiff überallhin bewegt.  ",
+    "en": "Effectively combining the trapping power of interdictors with the defensive capabilities of heavy assault cruisers, the heavy interdiction cruiser is an invaluable addition to any skirmish force, offensive or defensive. Heavy interdiction cruisers are the only ships able to use the warp disruption field generator, a module that creates a warp disruption field that moves with the origin ship wherever it goes.  ",
+    "es": "El crucero interdictor pesado, que combina el poder de captura de los interdictores con las capacidades defensivas de los cruceros de asalto pesados, es una valiosa incorporación a cualquier fuerza de combate, ofensiva o defensiva. Son las únicas naves capaces de usar el generador de campo disruptor de warp, un módulo que produce un campo disruptor de warp que sigue a la nave de origen allá adonde vaya.  ",
+    "fr": "Combinant efficacement la puissance des interdicteurs aux capacités défensives des croiseurs d'assaut lourds, le croiseur d'interdiction lourd est un atout indéniable pour toutes les forces de guérilla, d'attaque ou de défense. Les croiseurs d'interdiction lourds sont les seuls vaisseaux en mesure d'utiliser le générateur de champ perturbateur de warp, un module capable de créer un champ de perturbation de warp qui se déplace partout avec le vaisseau qui le produit.  ",
+    "ja": "ワープ妨害型駆逐艦のタックル能力と強襲型巡洋艦のしぶとさを巧みに組み合わせたのがワープ妨害型巡洋艦で、高機動艦隊に加われば攻防両面でかけがえのない戦力となる。ワープ妨害型巡洋艦は、あらゆる船の中で唯一、ワープ妨害フィールド発生装置を使用できる。このモジュールが生成したワープ妨害フィールドは、発生源の船の移動に伴って移動する。  ",
+    "ko": "인터딕터의 워프 방해 능력과 어썰트 크루저의 견고한 방어력이 결합된 인터딕터 크루저로 스커미시 교전 시 공수양방으로 활약이 가능합니다. 워프 디스럽션 필드 생성 모듈을 사용할 수 있는 유일한 함급으로, 활성화 시 일정 범위 내로 적 워프 기능을 차단합니다.  ",
+    "ru": "Тяжёлые заградительные крейсеры сочетают в себе уникальные тактические возможности заградительных кораблей и высокую обороноспособность тяжёлых ударных крейсеров, по праву становясь незаменимой частью любой боевой группы — как ударной, так и оборонительной. Тяжёлые заградительные крейсеры — это единственные корабли, способные использовать варп-заградитель — модуль, создающий поле варп-помех, которое перемещается вместе с проецирующим его кораблём.  ",
+    "zh": "重型拦截巡洋舰结合了截击舰的拦截能力和重型突击巡洋舰的防御能力，使其在局部冲突中无论是进攻还是防守都具有不可估量的价值。重型拦截巡洋舰是所有舰种中唯一能够使用跃迁扰断力场发生器的舰船 - 该发生器是一种能够产生随船体移动的跃迁扰断力场的设备。  "
+  },
+  "factionID": 500004,
+  "graphicID": 3361,
+  "groupID": 894,
+  "marketGroupID": 1073,
+  "mass": 14000000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      68,
+      140,
+      150,
+      89,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      68,
+      140,
+      150,
+      89,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      68,
+      140,
+      150,
+      89,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      68,
+      140,
+      150,
+      89,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      68,
+      140,
+      117,
+      150,
+      89,
+      94
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Phobos",
     "en": "Phobos",
@@ -10,5 +75,111 @@
     "ru": "Phobos",
     "zh": "伏波斯级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 166.0,
+  "sofFactionName": "roden",
+  "soundID": 20074,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Kann Module für <a href=showinfo:28654>Warpstörfeldgenerator</a> und <a href=showinfo:21096>Anziehungsfeldgenerator</a> ausrüsten",
+          "en": "Can fit <a href=showinfo:28654>Warp Disruption Field Generator</a> and <a href=showinfo:21096>Cynosural Field Generator</a> modules",
+          "es": "Es posible equipar módulos de <a href=showinfo:28654>generador de campo disruptor de warp</a> y <a href=showinfo:21096>generador de campo cinosural</a>.",
+          "fr": "Peut équiper des modules <a href=showinfo:28654>générateur de champ perturbateur de warp</a> et <a href=showinfo:21096>générateur de champ cynosural</a>",
+          "ja": "<a href=showinfo:28654>ワープ妨害フィールドジェネレーター</a>と<a href=showinfo:21096>サイノシュラルフィールドジェネレーター</a>を装備可能",
+          "ko": "<a href=showinfo:28654>워프 디스럽션 필드 생성기</a> 및 <a href=showinfo:21096>사이노슈럴 필드 생성기</a> 장착 가능",
+          "ru": "Возможно оснащение <a href=showinfo:28654>бортовым варп-заградителем</a> и <a href=showinfo:21096>приводным маяком</a>",
+          "zh": "可以装配<a href=showinfo:28654>跃迁扰断力场发生器</a>和<a href=showinfo:21096>诱导力场发生器</a>装备"
+        },
+        "importance": 1
+      },
+      {
+        "bonus": 20.0,
+        "bonusText": {
+          "de": "Bonus auf alle Panzerungsresistenzen",
+          "en": "bonus to all armor resistances",
+          "es": "de bonificación a todas las resistencias de blindaje.",
+          "fr": "de bonus à toutes les résistances de blindage",
+          "ja": "全てのアーマーレジスタンスが増加",
+          "ko": "모든 장갑 저항력 증가",
+          "ru": "повышается сопротивляемость брони корабля всем видам воздействия",
+          "zh": "装甲抗性加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3332": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf die Feuerrate von <a href=showinfo:3304>mittelgroßen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3304>Medium Hybrid Turret</a> rate of fire",
+            "es": "de bonificación a la cadencia de tiro de la <a href=showinfo:3304>torreta híbrida mediana</a>.",
+            "fr": "de bonus à la cadence de tir de la <a href=showinfo:3304>tourelle hybride intermédiaire</a>",
+            "ja": "<a href=showinfo:3304>中型ハイブリッドタレット</a>の発射間隔が短縮",
+            "ko": "<a href=showinfo:3304>중형 하이브리드 터렛</a> 연사속도 증가",
+            "ru": "повышается скорострельность <a href=showinfo:3304>средних гибридных орудий</a>",
+            "zh": "<a href=showinfo:3304>中型混合炮台</a>射速加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die Zielverfolgungsgeschwindigkeit von <a href=showinfo:3304>mittelgroßen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3304>Medium Hybrid Turret</a> tracking speed",
+            "es": "de bonificación a la velocidad de rastreo de la <a href=showinfo:3304>torreta híbrida mediana</a>.",
+            "fr": "de bonus à la vitesse de poursuite de la <a href=showinfo:3304>tourelle hybride intermédiaire</a>",
+            "ja": "<a href=showinfo:3304>中型ハイブリッドタレット</a>の追跡速度が上昇",
+            "ko": "<a href=showinfo:3304>중형 하이브리드 터렛</a> 트래킹 속도 증가",
+            "ru": "повышается скорость наводки на цель <a href=showinfo:3304>средних гибридных орудий</a>",
+            "zh": "<a href=showinfo:3304>中型混合炮台</a>跟踪速度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ],
+      "28609": [
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die optimale Reichweite von <a href=showinfo:3304>mittelgroßen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3304>Medium Hybrid Turret</a> optimal range",
+            "es": "de bonificación al alcance óptimo de la <a href=showinfo:3304>torreta híbrida mediana</a>.",
+            "fr": "de bonus à la portée optimale de la <a href=showinfo:3304>tourelle hybride intermédiaire</a>",
+            "ja": "<a href=showinfo:3304>中型ハイブリッドタレット</a>の最適射程距離が拡大",
+            "ko": "<a href=showinfo:3304>중형 하이브리드 터렛</a> 최적사거리 증가",
+            "ru": "увеличивается оптимальная дальность ведения огня из <a href=showinfo:3304>средних гибридных орудий</a>",
+            "zh": "<a href=showinfo:3304>中型混合炮台</a>最佳射程加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf die Reichweite von <a href=showinfo:28654>Warpstörfeldgeneratoren</a>",
+            "en": "bonus to <a href=showinfo:28654>Warp Disruption Field Generator</a> range",
+            "es": "de bonificación al alcance del <a href=showinfo:28654>generador de campo disruptor de warp</a>.",
+            "fr": "de bonus à la portée du <a href=showinfo:28654>générateur de champ perturbateur de warp</a>",
+            "ja": "<a href=showinfo:28654>ワープ妨害フィールドジェネレーター</a>の範囲にボーナス",
+            "ko": "<a href=showinfo:28654>워프 디스럽션 필드 생성기</a> 사거리 증가",
+            "ru": "бонус к дальности действия <a href=showinfo:28654>бортового варп-заградителя</a>",
+            "zh": "<a href=showinfo:28654>跃迁扰断力场发生器</a>的范围扩大"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 627,
   "volume": 112000.0
 }

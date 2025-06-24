@@ -1,5 +1,18 @@
 {
-  "typeID": 19221,
+  "description": {
+    "de": "Steigert die Widerstandsfähigkeit des Schildes gegen Kinetikschaden.<br><br>Nachteil: Beim Einsatz mehrerer Module des gleichen öder ähnlichen Typs, welche die gleichen Attribute des Schiffs beeinflussen, wird deren Wirksamkeit eingeschränkt.",
+    "en": "Boosts the kinetic resistance of the shield.<br><br>Penalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",
+    "es": "Potencia la resistencia cinética del escudo.<br><br>Penalización: Por usar más de un tipo de módulo o módulos similares que afecten al mismo atributo de la nave.",
+    "fr": "Augmente la résistance cinétique du bouclier.<br><br>Pénalité : utiliser plus d'un module de ce type ou plusieurs modules liés à un même attribut du vaisseau fera l'objet d'une pénalité.",
+    "ja": "シールドのキネティックレジスタンスを強化する。<br><br>ペナルティ：艦船の同じ属性に関係する同タイプのモジュール、または類似モジュールを複数取り付けると、モジュールの効果が低下する。",
+    "ko": "실드의 키네틱 저항력을 강화합니다.<br><br>페널티: 동일한 속성의 모듈 여러 개를 장착할 경우 페널티가 부여됩니다.",
+    "ru": "Повышает сопротивляемость силового поля корабля кинетическому воздействию.<br><br>Внимание! Установка на борт корабля двух и более модулей, влияющих на одну и ту же характеристику корабля, приведёт к снижению эффективности их действия в отношении данной характеристики.",
+    "zh": "增强护盾的动能抗性。<br><br>惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。"
+  },
+  "groupID": 295,
+  "iconID": 20939,
+  "marketGroupID": 1689,
+  "metaGroupID": 6,
   "name": {
     "de": "Pithum B-Type Kinetic Shield Amplifier",
     "en": "Pithum B-Type Kinetic Shield Amplifier",
@@ -10,5 +23,8 @@
     "ru": "Pithum B-Type Kinetic Shield Amplifier",
     "zh": "皮特姆动能护盾增效器 B型"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 2545,
   "volume": 5.0
 }

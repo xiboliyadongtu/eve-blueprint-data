@@ -1,5 +1,18 @@
 {
-  "typeID": 3306,
+  "basePrice": 125000.0,
+  "description": {
+    "de": "Bedienung mittlerer Energiegeschütztürme.\r\n\r\n5% Bonus auf die Schadenswirkung mittlerer Energiegeschütztürme je Skillstufe.",
+    "en": "Operation of medium energy turret. 5% Bonus to medium energy turret damage per level.",
+    "es": "Funcionamiento de torretas de energía medianas. Bonificación del 5 % al daño de torretas de energía medianas por nivel de habilidad.",
+    "fr": "Aptitude à utiliser les tourelles à énergie intermédiaires. Augmente de 5 % par niveau les dégâts des tourelles à énergie intermédiaires.",
+    "ja": "中型エネルギータレットを操作するためのスキル。レベル上昇ごとに中型エネルギータレットダメージに 5% のボーナス。",
+    "ko": "중형 에너지 터렛을 운용하기 위한 스킬입니다. 매 레벨마다 중형 에너지 터렛 피해량 5% 증가",
+    "ru": "Навык эксплуатации средних лазерных орудий. За каждую степень освоения навыка: на 5% повышается урон средних лазерных орудий.",
+    "zh": "操作中型能量炮台的技能。每升一级，中型能量炮台的伤害提升5%。"
+  },
+  "groupID": 255,
+  "iconID": 33,
+  "marketGroupID": 364,
   "name": {
     "de": "Medium Energy Turret",
     "en": "Medium Energy Turret",
@@ -10,5 +23,7 @@
     "ru": "Средние лазерные орудия",
     "zh": "中型能量炮台研究"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

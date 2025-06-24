@@ -1,5 +1,19 @@
 {
-  "typeID": 88221,
+  "basePrice": 200000000.0,
+  "description": {
+    "de": "Die Arbeitskräfte dieser Division sind mit der Überwachung von Energieerzeugungssystemen beauftragt, wodurch die Energieerzeugung auf Kosten von Arbeitskräften moderat erhöht wird.",
+    "en": "This Division is staffed by workers tasked with monitoring power generation systems, moderately increasing power output at the cost of workforce.",
+    "es": "Esta división está compuesta por trabajadores encargados de supervisar los sistemas de generación de energía, lo que aumenta moderadamente la producción a costa de la mano de obra.",
+    "fr": "Cette division est dotée de travailleurs chargés de surveiller les systèmes de production d'énergie, augmentant modérément la puissance au détriment de la main-d'œuvre.",
+    "ja": "発電システムを監視する役目を負った労働者が勤務している部署。労働力を消費する代わりに発電量が若干増える。",
+    "ko": "전력 생산 성계를 관리하는 직원들이 운영합니다. 노동력을 소모해 전력 생산량을 적당량 향상합니다.",
+    "ru": "Сотрудники этого подразделения контролируют системы генерации энергии, умеренно повышая выработку энергии за счёт рабочей силы.",
+    "zh": "该部门的工作人员负责监控发电系统，以劳动力为代价适度提高发电量。"
+  },
+  "groupID": 4838,
+  "iconID": 26792,
+  "marketGroupID": 3736,
+  "mass": 1000.0,
   "name": {
     "de": "Power Monitoring Division 2",
     "en": "Power Monitoring Division 2",
@@ -10,5 +24,7 @@
     "ru": "Power Monitoring Division 2",
     "zh": "电力监控部门2"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 8000.0
 }

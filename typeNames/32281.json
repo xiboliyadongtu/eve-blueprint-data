@@ -1,5 +1,18 @@
 {
-  "typeID": 32281,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieser riesige Kommunikationsturm beinhaltet fortschrittliche, wenn auch empfindliche, Sensorausrüstung.",
+    "en": "This huge communications tower contains fragile but advanced sensory equipment.",
+    "es": "Esta enorme torre de comunicaciones contiene un equipo sensorial frágil pero avanzado.",
+    "fr": "Cette énorme tour de communication contient une batterie de détecteurs perfectionnés, mais très fragiles.",
+    "ja": "壊れやすいが高度な探知装置を搭載したコミュニケーションタワー。",
+    "ko": "첨단 센서 장비를 갖춘 거대한 통신타워입니다.",
+    "ru": "Этот громадная коммуникационная вышка содержит хрупкое, но мощное сенсорное оборудование.",
+    "zh": "这座巨大的通迅塔内安放了脆弱但非常先进的感应器设备。"
+  },
+  "graphicID": 2505,
+  "groupID": 306,
+  "mass": 100000.0,
   "name": {
     "de": "Secure Communications Tower",
     "en": "Secure Communications Tower",
@@ -10,5 +23,9 @@
     "ru": "Secure Communications Tower",
     "zh": "安全通迅塔"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 2636.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

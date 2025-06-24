@@ -1,5 +1,18 @@
 {
-  "typeID": 16683,
+  "basePrice": 5500.0,
+  "description": {
+    "de": "Eine magnetisierte Flüssigkeit, die dazu verwendet wird, den Fluss kalter Plasmaströme in Schildsystemen, Reaktorkernen, Pulsgeneratoren und Antriebssystemen zu kontrollieren.",
+    "en": "A magnetised liquid, used to control the flow of cold plasma fields in shield systems, reactor cores, pulse generators and thruster systems.",
+    "es": "Líquido magnetizado utilizado para controlar el flujo de campos de plasma frío en sistemas de escudos, núcleos de reactores, generadores de pulsos y sistemas de propulsores.",
+    "fr": "Un liquide magnétique utilisé pour contrôler le flux des champs de plasma froids des systèmes de bouclier, des réacteurs, des générateurs d'impulsion et des propulseurs.",
+    "ja": "磁力を帯びた液体。シールドシステムのコールドプラズマフィールド、炉心、パルスジェネレータ、スラスターシステムなどの管理に使用される。",
+    "ko": "자성 액체의 일종으로 실드 시스템, 반응로 코어, 펄스 생성기, 그리고 추진기 시스템에 사용되는 저온 플라즈마 필드를 제어하기 위해 사용됩니다.",
+    "ru": "Магнетическая жидкость, используемая, чтобы контролировать поток холодных плазменных полей в щитовых системах, реакторных ядрах, пульсовых генераторах и тяговых системах.",
+    "zh": "一种磁化液体，用来控制护盾系统、反应堆核心、脉冲发生器和推进器系统中的冷等离子场的流向。"
+  },
+  "groupID": 429,
+  "iconID": 2678,
+  "marketGroupID": 499,
   "name": {
     "de": "Ferrogel",
     "en": "Ferrogel",
@@ -10,5 +23,7 @@
     "ru": "Ferrogel",
     "zh": "铁磁胶体"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

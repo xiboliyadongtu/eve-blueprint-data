@@ -1,5 +1,20 @@
 {
-  "typeID": 88060,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Ein Sicherheitscontainer, der von der Expedition zurückgelassen wurde, die dieses Gebiet besucht hat. Um herauszufinden, was sich darin befindet, müssen Sie den Container mit einem Datenanalysegerät hacken.",
+    "en": "A secure container that was left behind by the expedition that visited this site. \r\n\r\nTo find out what is inside you will have to hack the container with a data analyzer.",
+    "es": "Un contenedor seguro perteneciente a la expedición que visitó esta zona. \r\n\r\nPara saber qué hay dentro, tendrás que hackear el contenedor con un analizador de datos.",
+    "fr": "Un conteneur sécurisé abandonné par l'expédition qui a visité ce site. Pour découvrir ce qu'elle renferme, il vous faudra pirater le conteneur avec un analyseur de données.",
+    "ja": "このサイトを訪れた遠征チームが残したセキュアコンテナ。 \r\n\r\n中にあるものを確認するには、データアナライザーを使ってこのコンテナをハッキングするしかない。",
+    "ko": "예전에 사이트를 방문한 탐사팀이 남긴 보안 데이터 캐시입니다.\r\n\r\n데이터 분석기로 상자를 해킹해 내부에 탑재된 정보를 확인할 수 있습니다.",
+    "ru": "Этот защищённый контейнер оставила здесь исследовательская группа. Взломайте контейнер с помощью анализатора данных, чтобы получить доступ к его содержимому.",
+    "zh": "曾经来过这里的远征队留下的安全货柜。要想知道里面的内容，就得先用数据分析仪破译这个容器。"
+  },
+  "factionID": 500021,
+  "graphicID": 22313,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Expedition Secure Supplies",
     "en": "Expedition Secure Supplies",
@@ -10,5 +25,9 @@
     "ru": "Expedition Secure Supplies",
     "zh": "远征安全补给"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 300.0,
+  "sofFactionName": "triglavianbase",
   "volume": 27500.0
 }

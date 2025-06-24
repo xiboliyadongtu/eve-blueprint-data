@@ -1,5 +1,18 @@
 {
-  "typeID": 29438,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Die Motoren dieses Frachtbehälters wurden außer Betrieb gesetzt, damit er nicht bewegt werden kann.",
+    "en": "The engines of this cargo vessel have been disabled so that it cannot move.",
+    "es": "Se han desactivado los motores de esta nave de carga para que no se pueda mover.",
+    "fr": "Les moteurs de ce vaisseau de chargement ont été désactivés, l'empêchant ainsi de se déplacer.",
+    "ja": "この貨物艦は、エンジンが壊れているため移動できない。",
+    "ko": "화물선의 엔진이 무력화되어 움직이지 못하고 있습니다.",
+    "ru": "Двигатели этого грузового корабля отключены, он не может двигаться.",
+    "zh": "这艘运输船的引擎已经被失效，所以它不能移动了。"
+  },
+  "graphicID": 52,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Disabled Badger",
     "en": "Disabled Badger",
@@ -10,5 +23,9 @@
     "ru": "Disabled Badger",
     "zh": "抛锚的獾级"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "caldaribase",
   "volume": 27500.0
 }

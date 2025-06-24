@@ -1,5 +1,18 @@
 {
-  "typeID": 16212,
+  "capacity": 120.0,
+  "description": {
+    "de": "Das ist ein Unterstützungsschiff der Khanid Navy.\r\n\r\nBedrohungsstufe: Sehr hoch",
+    "en": "This is a support ship for the Khanid Navy.  Threat level: Very high",
+    "es": "Nave de asistencia de la Armada Khanid. Nivel de amenaza: muy alto.",
+    "fr": "Il s'agit d'un vaisseau de soutien de la Khanid Navy.  Niveau de menace : très élevé",
+    "ja": "クーニッド海軍の支援船。危険度:非常に高い",
+    "ko": "카니드 해군의 지원함입니다. 위험도: 매우 높음",
+    "ru": "Это корабль поддержки Флота Khanid.  Уровень опасности: очень высокий",
+    "zh": "这是一艘卡尼迪海军的支援舰。威胁等级：非常高"
+  },
+  "graphicID": 1860,
+  "groupID": 687,
+  "mass": 1425000.0,
   "name": {
     "de": "Khanid Wingman",
     "en": "Khanid Wingman",
@@ -10,5 +23,10 @@
     "ru": "Khanid Wingman",
     "zh": "卡尼迪 僚机"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 40.0,
+  "sofFactionName": "khanidinnovation",
   "volume": 28600.0
 }

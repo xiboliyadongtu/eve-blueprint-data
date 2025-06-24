@@ -1,5 +1,18 @@
 {
-  "typeID": 3333,
+  "basePrice": 1000000.0,
+  "description": {
+    "de": "Fertigkeit, Kreuzer der Minmatar zu bedienen.",
+    "en": "Skill at operating Minmatar cruisers.",
+    "es": "Habilidad en el manejo de cruceros minmatarianos.",
+    "fr": "Compétence liée au pilotage des croiseurs minmatar.",
+    "ja": "ミンマター巡洋艦を操作するためのスキル。",
+    "ko": "민마타 크루저를 운용하기 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на крейсерах производства Республики Минматар.",
+    "zh": "操作米玛塔尔巡洋舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Minmatar Cruiser",
     "en": "Minmatar Cruiser",
@@ -10,5 +23,8 @@
     "ru": "Минматарские крейсеры",
     "zh": "米玛塔尔巡洋舰操作"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
   "volume": 0.01
 }

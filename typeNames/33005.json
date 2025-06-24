@@ -1,5 +1,21 @@
 {
-  "typeID": 33005,
+  "basePrice": 110000.0,
+  "capacity": 50000.0,
+  "description": {
+    "de": "Ein stabiler Frachtcontainer, der für den Güterumschlag zwischen den Regionen verwendet wird. Seine Hauptverwendung findet er in Frachtschiffsladeräumen.",
+    "en": "A massive cargo container, used for inter-regional freight; most commonly used in freighter cargo bays.",
+    "es": "Este enorme contenedor de carga se usa para fletes interregionales y generalmente se transporta en las bodegas de los cargueros.",
+    "fr": "Énorme conteneur de fret servant pour les chargements interrégionaux, plus couramment utilisé dans les baies de chargement des transports de fret.",
+    "ja": "大型のカーゴコンテナ。リージョン間輸送に使用される。超大型輸送艦のカーゴベイで最もよく使われる。",
+    "ko": "프레이터에 주로 탑재되는 거대한 화물 컨테이너로 무역품을 보관하는데 사용됩니다.",
+    "ru": "Вместительный контейнер, обычно используемый для перевозки грузов между регионами. Чаще всего используется в отсеках грузовых кораблей.",
+    "zh": "用于星域间货运的大型货柜集装箱，最常用在货舰上。"
+  },
+  "graphicID": 1174,
+  "groupID": 649,
+  "iconID": 1174,
+  "marketGroupID": 1653,
+  "mass": 1000000.0,
   "name": {
     "de": "Huge Freight Container",
     "en": "Huge Freight Container",
@@ -10,5 +26,9 @@
     "ru": "Huge Freight Container",
     "zh": "庞大的货物集装箱"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 150.0,
+  "sofFactionName": "genericmetal",
   "volume": 50000.0
 }

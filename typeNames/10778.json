@@ -1,5 +1,16 @@
 {
-  "typeID": 10778,
+  "description": {
+    "de": "Massive Konstruktionsstreben erstrecken sich zwischen den zerbrochenen Asteroiden und bilden ein festes Fundament für eine Station oder einen Außenposten.",
+    "en": "Massive construction girders stretch between the crumbled asteroids, giving a solid ground for a station or outpost.",
+    "es": "Las vigas de construcción macizas se extienden entre los asteroides demolidos, creando así una base sólida para una estación o un puesto avanzado.",
+    "fr": "Énormes poutrelles de construction placées entre des morceaux d'astéroïdes, afin d'obtenir des fondations sur lesquelles construire une station ou un avant-poste.",
+    "ja": "粉々になったアステロイドの破片に巨大な梁を渡して固定し、ステーションやアウトポストとして使用している。",
+    "ko": "소행성 파편 사이로 뻗은 철골이 구조물의 기저를 형성하고 있습니다.",
+    "ru": "Между покрытыми трещинами астероидами тянутся массивные опорные балки, представляя собой отличный фундамент для строительства станции или базы.",
+    "zh": "巨大的建筑钢梁在碎裂的小行星之间延伸，为空间站或者哨站提供了牢固的基础。"
+  },
+  "graphicID": 1997,
+  "groupID": 226,
   "name": {
     "de": "Asteroid Colony - High & Medium Size",
     "en": "Asteroid Colony - High & Medium Size",
@@ -10,5 +21,9 @@
     "ru": "Asteroid Colony - High & Medium Size",
     "zh": "大中型小行星殖民站"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 2800.0,
+  "sofFactionName": "genericbase",
+  "soundID": 20194
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 3326,
+  "basePrice": 750000.0,
+  "description": {
+    "de": "Fertigkeit, sehr große Lenkwaffen handhaben und abfeuern zu können. 5 % Bonus auf die Schadenswirkung von Cruise Missiles je Skillstufe.",
+    "en": "Skill at the handling and firing of very large guided missiles. 5% bonus to cruise missile damage per skill level.",
+    "es": "Habilidad para manejar y disparar misiles guiados muy grandes. 5 % de bonificación al daño de los misiles de crucero por nivel de habilidad.",
+    "fr": "Compétence liée à l'utilisation et au tir de très grands missiles guidés. Augmente de 5 % par niveau de compétence les dégâts causés par les missiles de croisière.",
+    "ja": "非常に大型の誘導ミサイルに関する操作、発射スキル。スキルレベル上昇ごとにクルーズミサイルのダメージが5%増加。",
+    "ko": "크루즈 미사일을 운용하기 위한 스킬입니다. 매 레벨마다 크루즈 미사일 피해량 5% 증가",
+    "ru": "Навык эксплуатации дальнобойных ракет и ПУ дальнобойных ракет. За каждую степень освоения навыка: на 5% повышается урон БЧ дальнобойных ракет.",
+    "zh": "操作和发射超大型制导导弹的技能。每升一级，巡航导弹伤害提高5%。"
+  },
+  "groupID": 256,
+  "iconID": 33,
+  "marketGroupID": 373,
   "name": {
     "de": "Cruise Missiles",
     "en": "Cruise Missiles",
@@ -10,5 +23,7 @@
     "ru": "Ракеты дальнего боя",
     "zh": "巡航导弹概论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

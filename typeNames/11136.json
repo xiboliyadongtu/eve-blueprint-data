@@ -1,5 +1,18 @@
 {
-  "typeID": 11136,
+  "capacity": 1000.0,
+  "description": {
+    "de": "CONCORD-Plakatwände halten Sie mit den neusten Nachrichten und Kopfgeld-Informationen auf dem Laufenden.",
+    "en": "CONCORD Billboards keep you updated, bringing you the latest news and bounty information.",
+    "es": "Los anuncios de CONCORD te mantienen al día de las últimas novedades y avisos de recompensas.",
+    "fr": "Les panneaux d'affichage CONCORD vous permettront d'obtenir les dernières actualités et les informations sur les primes.",
+    "ja": "CONCORD看板は最新のニュースや賞金稼ぎの情報を発信している。",
+    "ko": "CONCORD 전광판은 새로운 소식과 현상금 정보를 끊임없이 제공해줍니다.",
+    "ru": "Рекламные щиты КОНКОРДа держат вас в курсе событий. На них можно увидеть свежие новости и информацию о наградах.",
+    "zh": "统合部公告屏带给你最新的消息及荣誉追击的情况。"
+  },
+  "graphicID": 2046,
+  "groupID": 323,
+  "mass": 100.0,
   "name": {
     "de": "CONCORD Billboard",
     "en": "CONCORD Billboard",
@@ -10,5 +23,9 @@
     "ru": "CONCORD Billboard",
     "zh": "统合部公告屏"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 644.0,
+  "sofFactionName": "genericbase",
   "volume": 1.0
 }

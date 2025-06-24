@@ -1,5 +1,17 @@
 {
-  "typeID": 77200,
+  "description": {
+    "de": "Dieser Turm beherbergt einen Computer mit einer einfachen KI, die von über einem Kilometer CPUs unterstützt wird, um zusätzliche Rechenleistung für nur einen einzigen Zweck bereitzustellen: das diskrete Bewegen von Vermögenswerten. Mithilfe verschlüsselter Buchhaltungsoperationen, gigaschichtiger Finanzierungsinitiativen und der Fähigkeit, Milliarden von Operationen pro Sekunde auszuführen, ist der Siphoner in der Lage, Billionen von ISK zu bewegen, während es für andere Geräte oder Menschen nahezu unmöglich ist, zu erkennen, woher oder wohin die Gelder geflossen sind.",
+    "en": "This tower houses a computer running a low-level AI backed up by over a kilometer of CPUs to provide additional computational power, all dedicated to performing one task - the discreet moving of financial assets. Using encrypted accounting operations, gigalayered financing initiatives and capable of executing billions of operations a second, the Siphoner is able to move trillions of ISK while making it nearly impossible for any other device or human to discern where creds have moved from or to.",
+    "es": "Esta torre alberga un ordenador que ejecuta una IA de bajo nivel respaldada por más de un kilómetro de CPU para proporcionar potencia computacional adicional, todo dedicado a realizar una tarea: el movimiento discreto de bienes financieros. A través de operaciones de contabilidad encriptadas, iniciativas de financiamiento en capas de gigas y capaz de ejecutar miles de millones de operaciones por segundo, la Siphoner puede mover billones de ISK mientras hace que sea casi imposible para cualquier otro dispositivo o ser humano discernir hacia dónde se han movido los créditos.",
+    "fr": "Cette tour abrite un ordinateur qui exécute une IA basique renforcée par plus d'un kilomètre de CPU pour accroître sa puissance de calcul : toute cette installation a pour but une seule et même tâche, le déplacement discret d'actifs financiers. Le siphon utilise des opérations de comptabilité chiffrées, des initiatives de financement à plusieurs niveaux et est capable d'exécuter des milliards d'opérations à la seconde. Il peut ainsi déplacer des milliards d'ISK de sorte à qu'il soit pratiquement impossible pour tout autre appareil ou humain de déterminer l'origine ou la destination des crédits.",
+    "ja": "このタワーには低レベルAIを実行するコンピューターが内蔵。全長1キロメートル以上のCPUにバックアップを受けており、これによって得られた補助演算能力の一切が「資産を秘密裏に動かす」という目的にのみ使用されている。暗号化された会計処理、ギガレイヤー化された債務イニシアチブなどの計算を、毎秒数十億個実行でき、サイフォナーはクレジットがどこからどこへ動かされたのがどんなデバイスや人間でも感知できないように、兆単位のISKを動かすことが可能である。",
+    "ko": "구형 AI로 작동하는 컴퓨터가 배치된 타워입니다. 이 컴퓨터는 오로지 금융 자산을 은밀하게 옮기는 작업을 수행하기 위해 1킬로미터 이상으로 길게 배열된 무수한 CPU로 연산력을 크게 높였습니다. 거대자본 탈취기 컴퓨터는 회계 작업을 암호화해 수억 건에 달하는 금융 거래를 처리합니다. 그 과정에서 초당 수십억 개의 작업을 실행해 자금의 출처와 목적지를 완벽에 가깝게 은폐하고 수십억 ISK를 옮길 수 있습니다.",
+    "ru": "В этой башне находится компьютер, управляемый низкоуровневым ИИ, а также километровый ряд центральных процессоров, которые обеспечивают дополнительные вычислительные мощности для выполнения единственной задачи — незаметного перемещения денежных активов. Используя зашифрованные каналы, извлекатель финансов перемещает триллионы ISK. Он выполняет миллиарды бухгалтерских операций в секунду и применяет многоуровневые финансовые схемы. Едва ли хоть одному человеку или машине во вселенной под силу определить, откуда и куда направляются эти средства.",
+    "zh": "这座塔内有一台运行着低级人工智能的计算机，由巨型CPU提供额外的计算能力，专门用于执行一项任务——秘密转移金融资产。凭借加密会计操作、千兆级的融资计划，以及每秒执行数十亿次操作的能力，虹吸器能够在其他设备或人类几乎无法辨识资金来源或去向的情况下，完成数万亿星币的转移。"
+  },
+  "graphicID": 2599,
+  "groupID": 4576,
+  "mass": 100000.0,
   "name": {
     "de": "Megafinance Siphoner",
     "en": "Megafinance Siphoner",
@@ -10,5 +22,9 @@
     "ru": "Megafinance Siphoner",
     "zh": "巨型金融虹吸器"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 3346.0,
+  "sofFactionName": "caldaribase",
   "volume": 100000000.0
 }

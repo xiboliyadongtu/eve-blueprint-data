@@ -1,5 +1,18 @@
 {
-  "typeID": 86450,
+  "capacity": 1200.0,
+  "description": {
+    "de": "Eine Raubdrohne, die einem Schiff der Fregattenklasse entspricht. Ihre Hauptaufgabe scheint die Warpstörung zu sein.",
+    "en": "A Rogue Drone equivalent to a frigate-class ship. Its primary objective seems to be warp disruption.",
+    "es": "Un dron rebelde equivalente a una nave de clase fragata. Su objetivo principal parece ser la disrupción de warp.",
+    "fr": "Un drone renégat équivalent à une frégate. Son objectif principal semble être la perturbation de warp.",
+    "ja": "ワープ妨害を主な役割としているらしい、フリゲート級艦船相当のローグドローン。",
+    "ko": "프리깃급 함선과 동급인 로그 드론입니다. 워프 교란이 주요 임무인 것으로 보입니다.",
+    "ru": "Этот восставший дрон по характеристикам соответствует фрегату. Похоже, его основная функция — создание варп-помех.",
+    "zh": "一架护卫舰级别的自由无人机。其主要目标似乎在于跃迁扰断。"
+  },
+  "graphicID": 1219,
+  "groupID": 1568,
+  "mass": 1000000.0,
   "name": {
     "de": "Collapsing Forager",
     "en": "Collapsing Forager",
@@ -10,5 +23,10 @@
     "ru": "Collapsing Forager",
     "zh": "崩塌觅食者"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 45.0,
+  "sofFactionName": "roguebase",
+  "soundID": 11,
   "volume": 60.0
 }

@@ -1,5 +1,19 @@
 {
-  "typeID": 33283,
+  "description": {
+    "de": "Diese Schiffsmodifikation wurde entworfen, um die HP der Drohnen und Jäger des Schiffes zu vergrößern, auf Kosten der CPU-Kapazität des Schiffes.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26255>Drohnenmodifikation</a> reduziert werden.",
+    "en": "This ship modification is designed to increase the ship's drone and fighter hit points at the expense of the ship's CPU capacity.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26255>Drones Rigging</a> skill.",
+    "es": "Esta modificación de nave está diseñada para aumentar los puntos de vida de los drones y los cazas a costa de la capacidad de la CPU.\n\n\n\nSe pueden reducir las desventajas de equipar este complemento desarrollando la habilidad <a href=showinfo:26255>Complementos de drones</a>.",
+    "fr": "Cette modification de vaisseau est conçue pour augmenter le nombre de points de vie des drones et des chasseurs affectés au vaisseau, au détriment de la capacité en CPU du vaisseau.\n\n\n\nLes inconvénients du montage de cette plateforme pourraient être réduits en entraînant la compétence <a href=showinfo:26255>Optimisation de drones</a>.",
+    "ja": "この改造を行うと、艦船のCPU能力と引き換えに艦船のドローンおよび戦闘機のヒットポイントが上昇する。このリグを装備することで発生するペナルティは、<a href=showinfo:26255>ドローン・リギング</a>スキルをトレーニングすることで低減できる。",
+    "ko": "드론 및 파이터의 체력이 증가하지만 함선 CPU 용량은 감소합니다. <br><br>리그 부작용은 <a href=showinfo:26255>드론 리그</a> 스킬 습득 시 감소합니다.",
+    "ru": "Эта модификация увеличивает запас прочности силовых полей, брони и корпуса дронов и истребителей за счёт доступной мощности ЦПУ корабля.\n\n\n\nНегативный эффект от установки этого тюнинг-модуля можно снизить, освоив навык <a href=showinfo:26255>Drones Rigging</a>, дающий пилоту глубокое понимание принципов работы систем управления дронами.",
+    "zh": "这个飞船改装件通过牺牲舰船的CPU值来增加无人机和铁骑舰载机的HP。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26255>无人机改装技术</a>技能降低影响。"
+  },
+  "groupID": 778,
+  "iconID": 3200,
+  "marketGroupID": 1739,
+  "mass": 200.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Capital Drone Durability Enhancer II",
     "en": "Capital Drone Durability Enhancer II",
@@ -10,5 +24,9 @@
     "ru": "Capital Drone Durability Enhancer II",
     "zh": "旗舰级无人机耐用性增强装置 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 100.0,
+  "variationParentTypeID": 33281,
   "volume": 40.0
 }

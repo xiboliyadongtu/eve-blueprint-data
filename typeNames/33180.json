@@ -1,5 +1,20 @@
 {
-  "typeID": 33180,
+  "basePrice": 9870.0,
+  "capacity": 1.0,
+  "description": {
+    "de": "Erhöht die Scanleistung beim Scannen mit Scansonden. Nachteil: Beim Einsatz mehrerer Module oder Modifikationen des gleichen oder ähnlichen Typs, die das selbe Attribut des Schiffs beeinflussen, wird deren Wirksamkeit eingeschränkt.",
+    "en": "Increases the scan strength when scanning with scan probes.\r\n\r\nPenalty: Using more than one type of this module or similar modules or rigs that affect the same attribute on the ship will result in diminishing returns.",
+    "es": "Aumenta la intensidad del escaneo cuando se usan sondas de escaneo.\n\nPenalización: El uso de más de un módulo de este tipo o módulos o complementos similares que afectan al mismo atributo de la nave conlleva una pérdida de rendimiento.",
+    "fr": "Augmente la puissance du scanner lors de l'utilisation de la sonde de balayage. Pénalité : utiliser plus d'un module de ce type ou plusieurs modules liés à un même attribut du vaisseau fera l'objet d'une pénalité.",
+    "ja": "スキャンプローブを使ってスキャンを行う際のスキャン強度を増加させる。\n\nペナルティ： 艦船に対して同様の効果をもたらす同一モジュール、類似モジュールまたはリグを複数取り付けると、モジュールの効果が低下する。",
+    "ko": "스캔 프로브로의 스캔 강도가 증가합니다. <br><br>페널티: 함선에 동일하거나 같은 속성의 모듈 또는 리그를 한 개 이상 장착할 경우 강도가 약한 스캔 결과가 나오게 됩니다.",
+    "ru": "Повышает чувствительность бортовой аппаратуры разведзондов при определении координат. Внимание! Установка на борт корабля двух и более модулей, влияющих на одну и ту же характеристику корабля, приведёт к снижению эффективности их действия в отношении данной характеристики.",
+    "zh": "增加扫描探针的扫描强度。\n\n惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备或改装件将削弱实际使用效果。"
+  },
+  "groupID": 1223,
+  "iconID": 21027,
+  "marketGroupID": 1709,
+  "metaGroupID": 1,
   "name": {
     "de": "Scan Rangefinding Array I",
     "en": "Scan Rangefinding Array I",
@@ -10,5 +25,7 @@
     "ru": "Scan Rangefinding Array I",
     "zh": "扫描测距阵列 I"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 5.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 30903,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Der Störturm der Talocan gehört zu den rätselhaftesten aller Talocan-Strukturen. Obwohl er fester Bestandteil einer Talocan-Station ist, lassen seine Scharniere und Antriebssysteme darauf schließen, dass er auch leicht entfernt werden kann. Seine Höchstleistung ist zwar kaum mit modernen Waffensystemen oder Turmstrukturen zu vergleichen, und er erinnert auch eher an eine Art mechanische Spritze als an einen Verteidigungsturm, aber all dies ist letztendlich Ansichtssache. Ungeachtet dieser Spekulationen ist der Störturm ein beunruhigendes Relikt der Talocan.",
+    "en": "The Talocan disruption tower is the most mysterious of the Talocan structures. Although certainly a part of the Talocan station, its hinges and propulsion systems imply ready removal from stations, but the peaks and points are unlike any current weapon grouping or turret structure. The tower appears as more of a mechanical syringe than a defense turret, but that may be just speculation. Regardless of the theories, the disruption tower is an unsettling relic of the Talocans.",
+    "es": "Esta torre de disrupción es la estructura talocana más misteriosa. Aunque es evidente que forma parte de la estación talocana, sus bisagras y sistemas de propulsión sugieren que es fácil desacoplarla. Sin embargo, los picos y las puntas no se parecen a ninguna agrupación de armas ni estructura de torretas de la actualidad. Recuerda más a una jeringuilla mecánica que a una torreta defensiva, pero tal vez solo sea una especulación. Sean cuales sean las teorías, la torre de disrupción es una reliquia perturbadora de los talocanos.",
+    "fr": "La tour de perturbation talocan est la plus mystérieuse des structures talocan. Bien qu'elle fasse certainement partie de la station talocan, ses assemblages et ses systèmes de propulsion impliquent un détachement facile des stations, tandis que ses extrémités et ses points ne correspondent à aucun groupe d'armes ou à aucune structure de tourelle. La tour ressemble davantage à une seringue mécanique qu'à une tourelle de défense, même si tout cela n'est que spéculation. En dépit de toutes les théories, la tour de perturbation n'en reste pas moins une relique déconcertante des Talocan.",
+    "ja": "タロカンの分離タワーは、タロカンの建造物の中で最も謎に包まれた存在である。タロカンステーションの一部であることは間違いないが、接合部と推進システムから分かるのは、これがステーションから分離できるようになっていることだ。しかし、現在の兵器カテゴリやタレット構造の中に、これが持つ突起部分に類似のものは全く存在しない。このタワーは防御用のタレットというよりは何かを押し込む機械のようにも見えるが、それもただの推測に過ぎない。こうした調査結果とは関係なく、分離タワーは不思議な気持ちを起こさせるタロカンの遺跡となっている。",
+    "ko": "탈로칸 구조물 중 가장 파악이 어려운 시설입니다. 정거장의 일부로 보이지만 도킹장치로 연결되어있으며 추진 시스템이 장착된 것을 보아 정거장으로부터 분리가 가능하다는 것을 알 수 있습니다. 뾰족하게 솟은 형태는 현존하는 터렛 및 무기와는 구조가 상이합니다. 이 첨탑은 터렛 보다는 거대한 기계 주사기 같기도 합니다. 이 불안정한 탈로칸 유적에 대해 온갖 추측이 난무하고 있습니다.",
+    "ru": "Башня постановки квантовых помех — самое загадочное из всех сооружений Talocan. Вне всякого сомнения, она является частью орбитальной станции, однако наличие съемных соединительных ферм и реактивных двигателей говорит о возможности ее самостоятельной эксплуатации; в то же время своими обводами она отличается от любых известных нам автономных боевых платформ. Башня больше похожа на шприц, чем на оборонительное сооружение, но, возможно, это всего лишь злая шутка нашего воображения. Несмотря на ее археологическую ценность, башня в любом случае вызывает неприятные чувства.",
+    "zh": "这座塔洛迦干扰塔楼是塔洛迦最神秘的建筑。它虽然是塔洛迦空间站的一部分，但从其连接设备及推进系统来看，更像已经准备好要脱离这空间站了。但仔细一看，又不像是武器。与其说这塔楼是座防御炮台，不如说它是个机械设施。不管怎么说，这座干扰塔楼都是个让人不安的塔洛迦遗物。"
+  },
+  "graphicID": 3569,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Talocan Disruption Tower",
     "en": "Talocan Disruption Tower",
@@ -10,5 +23,9 @@
     "ru": "Talocan Disruption Tower",
     "zh": "塔洛迦干扰塔楼"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 6879.0,
+  "sofFactionName": "talocanbase",
   "volume": 100000000.0
 }

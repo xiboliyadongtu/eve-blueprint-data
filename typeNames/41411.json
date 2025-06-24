@@ -1,5 +1,19 @@
 {
-  "typeID": 41411,
+  "basePrice": 30000000.0,
+  "description": {
+    "de": "Ein elektronisches Interface für Trägerschiffe zur Verbesserung ihrer Sensoren. Das Sensornetzwerk leitet Energie von den offensiven Systemen zur elektronischen Kriegsführung und zum Warpantrieb um und verbessert die Auflösung der Zielerfassungsfelder des Schiffs, sowie die Sensorstärke des Schiffs und seiner Jägerstaffeln erheblich. Hinweis: Dieses Modul kann nur in Trägerschiffe und Supercarrier eingebaut werden.",
+    "en": "An electronic interface designed to augment and enhance a carrier's sensors. By redirecting power from offensive electronic warfare systems and warp drive, the networked sensor array greatly enhances the resolution of ship's targeting arrays, and the sensor strength of the ship and its fighter squadrons. \r\n\r\nNote: This module can only be fit to Carriers and Supercarrier class ships.",
+    "es": "Interfaz electrónica diseñada para aumentar y mejorar los sensores de un portanaves. Al redirigir la potencia de los sistemas de guerra electrónica ofensivos y el motor de warp, la red de sensores conectados mejora considerablemente la resolución de matrices de adquisición de objetivos de la nave y la intensidad de los sensores de esta y de sus escuadrones de caza. \n\n\n\nAviso: Este módulo solo se puede equipar en naves de clase portanave y superportanave.",
+    "fr": "Une interface électronique conçue pour améliorer et renforcer les détecteurs d'un porte-vaisseaux. Le module de détection en réseau emprunte de l'énergie aux systèmes de guerre électronique offensifs et au propulseur de warp pour augmenter considérablement la résolution des modules de ciblage et la puissance de détection du vaisseau et de ses escadrons de chasseurs. Note : Ce module ne peut être équipé que sur des vaisseaux des classes porte-vaisseaux et super porte-vaisseaux.",
+    "ja": "艦載機母艦のセンサーを強化するために設計された電子インターフェイス。攻撃用電子戦システムとワープドライブから電力をリダイレクトすることで、ネットワーク化されたセンサーアレイが艦船の照準アレイの解像度と、艦船及び艦載戦闘機部隊のセンサー強度を大幅に向上させる。\r\n\n注：このモジュールは艦載機母艦と大型艦載機母艦級艦船にのみ搭載可能。",
+    "ko": "캐리어의 센서 체계를 향상하기 위해 설계된 전자 인터페이스입니다. 네트워크 센서 장비를 통해 전자전 시스템과 워프 드라이브로 주입되는 전력을 끌어옵니다. 타게팅 장비의 전반적인 성능이 개선되며 함선 및 파이터 편대의 센서 강도가 향상됩니다. <br><br>참고: 캐리어 및 슈퍼캐리어에만 장착할 수 있습니다.",
+    "ru": "Электронный интерфейс, разработанный для повышения эффективности сенсоров КАРов. Перенаправляя энергию от атакующих систем электронной борьбы и варп-двигателя, сеть сенсорной матрицы значительно повышает разрешающую способность матриц наведения корабля, а также мощность его сенсоров и истребителей. Примечание: этот модуль можно установить только на КАРы и суперКАРы.",
+    "zh": "一种为扩大和增强航空母舰的感应器而设计的电子接口。它用舰船的攻击性电子战系统和跃迁引擎的能量打造了一个联网式的感应器阵列，提高了舰船锁定阵列的分辨率，增加了舰船及其铁骑舰载机中队的感应强度。 \n\n\n\n注：这个装备只能装配在航空母舰和超级航母上。"
+  },
+  "groupID": 1706,
+  "iconID": 26722,
+  "marketGroupID": 671,
+  "mass": 1000.0,
   "name": {
     "de": "Networked Sensor Array",
     "en": "Networked Sensor Array",
@@ -10,5 +24,7 @@
     "ru": "Networked Sensor Array",
     "zh": "联网感应器阵列"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 4000.0
 }

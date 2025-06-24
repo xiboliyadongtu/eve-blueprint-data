@@ -1,5 +1,18 @@
 {
-  "typeID": 27906,
+  "basePrice": 25000000.0,
+  "description": {
+    "de": "Fertigkeit zur Bedienung von Triagemodulen. Geringerer Verbrauch von Strontiumclathrat um 25 Einheiten je Skillstufe bei Aktivierung eines derartigen Moduls.",
+    "en": "Skill at the operation of triage modules. 25-unit reduction in strontium clathrate consumption amount for module activation per skill level.",
+    "es": "Habilidad para manejar módulos de triaje. Reducción de 25 unidades a la cantidad de consumo de clatrato de estroncio para la activación del módulo por nivel de habilidad.",
+    "fr": "Compétence liée à l'utilisation des modules de triage. Réduit de 25 unités par niveau de compétence la consommation de clathrates de strontium pour l'activation des modules.",
+    "ja": "トリアージモジュールを操作するスキル。スキルレベル上昇ごとにモジュールの起動に必要なストロンチウム化合物の消費量が 25 ユニット減少する。",
+    "ko": "트리아지 모듈 사용을 위한 스킬입니다. 매 레벨마다 모듈 활성화 시 소모되는 스트론튬 클라스레이트 25-유닛 감소",
+    "ru": "Навык управления реконфигураторами ремонтного профиля. За каждую степень освоения навыка: на 25 единиц снижается расход клатратов стронция (Strontium Clathrate) на работу соответствующих реконфигураторов.",
+    "zh": "操作会战型紧急修复增强模块的技能。每升一级，装备激活所需锶包合物消耗量减少25个单位。"
+  },
+  "groupID": 272,
+  "iconID": 33,
+  "marketGroupID": 367,
   "name": {
     "de": "Tactical Logistics Reconfiguration",
     "en": "Tactical Logistics Reconfiguration",
@@ -10,5 +23,8 @@
     "ru": "Реконфигураторы ремонтного профиля",
     "zh": "战术后勤控制理论"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

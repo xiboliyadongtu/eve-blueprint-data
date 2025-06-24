@@ -1,5 +1,15 @@
 {
-  "typeID": 1628,
+  "description": {
+    "de": "PwC +5% wenn im Kampf (unter Beschuß).",
+    "en": "PwC +5% when in combat (being shot at).",
+    "es": "PwC +5 % durante el combate (cuando te disparan).",
+    "fr": "Augmente de 5 % le PwC au combat (quand on vous tire dessus).",
+    "ja": "戦闘中のPwC+5%（攻撃を受けたとき）。",
+    "ko": "전투 상황에서 PwC 5% 증가",
+    "ru": "PwC +5% во время боя (под огнем)",
+    "zh": "战斗中(被敌人射击时)，能量消耗增加5%。"
+  },
+  "groupID": 193,
   "name": {
     "de": "Algiophobia Bonus",
     "en": "Algiophobia Bonus",
@@ -10,5 +20,6 @@
     "ru": "Algiophobia Bonus",
     "zh": "疼痛恐惧加成"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

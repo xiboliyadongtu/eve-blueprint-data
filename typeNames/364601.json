@@ -1,5 +1,17 @@
 {
-  "typeID": 364601,
+  "basePrice": 787000.0,
+  "description": {
+    "de": "Skill in der Bedienung von Amarr-Wächterdropsuits. Schaltet den Zugriff auf Amarr-Wächterdropsuits frei. Standard ab Stufe 1, erweitert ab Stufe 3 und Prototypen ab Stufe 5. Wächterdropsuitbonus: 5% auf die Streuschadenresistenz pro Skillstufe. 5% Abzug auf die PG/CPU-Kosten von schweren Waffen pro Skillstufe. Amarr-Wächterdropsuitbonus: 3% auf die Panzerungsresistenz gegen Projektilwaffen. 2% auf die Schildresistenz gegen Railgunwaffenhybride.",
+    "en": "Skill at operating Amarr Sentinel dropsuits.\n\nUnlocks access to Amarr Sentinel dropsuits. Standard at lvl.1; advanced at lvl.3; prototype at lvl.5.\n\nSentinel Suit Bonus: 5% resistance to splash damage per level. 5% reduction to PG/CPU cost of heavy weapons per level.\nAmarr Sentinel Bonus: \n3% armor resistance to projectile weapons.\n2% shield resistance to hybrid - railgun weapons.",
+    "es": "Habilidad de manejo de trajes de salto de centinela Amarr. Desbloquea el acceso a los trajes de salto de centinela Amarr: Estándar en el nivel 1, avanzados en el nivel 3 y prototipos en el nivel 5. Bonificación de traje de centinela: 5% a la resistencia a daños de explosiones por nivel. 5% de reducción al coste de RA/CPU de las armas pesadas por nivel. Bonificación de traje de centinela Amarr: 3% a la resistencia del blindaje contra armas de proyectiles. 2% a la resistencia de los escudos contra armas gauss híbridas.",
+    "fr": "Compétence permettant d'utiliser les combinaisons Sentinelle Amarr. Déverrouille l'accès aux combinaisons Sentinelle Amarr. Standard au niv.1 ; avancé au niv.3 ; prototype au niv.5. Bonus de combinaison Sentinelle : 5 % de résistance aux dommages collatéraux par niveau. 5 % de réduction d'utilisation de PG/CPU des armes lourdes par niveau. Bonus Sentinelle Amarr : 3 % de résistance du blindage contre les armes à projectiles. 2 % de résistance du bouclier contre les armes hybrides à rails.",
+    "it": "Abilità nell'utilizzo delle armature da sentinella Amarr. Sblocca l'accesso alle armature da sentinella Amarr. Standard al liv. 1; avanzate al liv. 3; prototipo al liv. 5. Bonus armatura da sentinella: 5% di resistenza al danno ad area per livello. 5% di riduzione all'utilizzo della rete energetica/CPU delle armi pesanti per livello. Bonus sentinella Amarr: 3% di resistenza in più della corazza alle armi che sparano proiettili. 2% di resistenza in più dello scudo alle armi ibride/a rotaia.",
+    "ja": "アマーセンチネル降下スーツを扱うためのスキル。アマーセンチネル降下スーツが使用できるようになる。レベル1で標準型、レベル3で高性能、レベル5でプロトタイプ。センチネルスーツボーナス：レベル上昇ごとに、拡散ダメージに対する5％のレジスタンス。レベル上昇ごとに、重火器のPG/CPU消費量が5%減少する。アマーセンチネルボーナス：プロジェクタイル兵器に対して3%のアーマーレジスタンス。ハイブリッド - レールガン兵器に対する2%のシールドレジスタンス。",
+    "ko": "아마르 센티넬 강하슈트 운용을 위한 스킬입니다. <br><br>아마르 센티넬 강하슈트를 잠금 해제합니다. 레벨 1 - 일반, 레벨 3 - 상급, 레벨 5 - 프로토타입 <br><br>센티넬 슈트 보너스: <br><br>매 레벨마다 받은 광역 피해 5% 감소 <br>매 레벨마다 중량 무기 PG/CPU 요구치 5% 감소 <br><br>아마르 센티넬 보너스: <br><br>발사체 무기에 대한 장갑 저항력 3% 증가 <br>하이브리드 - 레일건 무기에 대한 실드 저항력 2% 증가",
+    "ru": "Навык обращения с патрульными скафандрами Амарр. Позволяет использовать патрульные скафандры Амарр. Стандартные - на уровне 1; усовершенствованные - на уровне 3; прототипы - на уровне 5. Бонус патрульного скафандра: 5% к сопротивлению к урону по площади на уровень. 5% сокращение потребления ресурсов ЭС/ЦПУ для тяжелого оружия на каждый уровень. Бонус патрульного скафандра Амарр: 3% к сопротивлению брони к урону от артиллерийского вооружения. 2% к сопротивлению щитов к гибридному рейлгановому оружию.",
+    "zh": "操作艾玛哨兵作战服的技能。解锁艾玛哨兵作战服。1级解锁标准版；3级解锁高级版；5级解锁原型版。哨兵套装加成：每升一级，溅射伤害抗性提升5%。每升一级，重型武器的PG/CPU成本降低5%。艾玛哨兵加成：对射弹武器的装甲抗性提升3%。对混合磁轨炮的护盾抗性提升2%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Amarr-Wächterdropsuits",
     "en": "Amarr Sentinel Dropsuits",
@@ -11,5 +23,6 @@
     "ru": "Патрульные скафандры Амарр",
     "zh": "艾玛哨兵作战服"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

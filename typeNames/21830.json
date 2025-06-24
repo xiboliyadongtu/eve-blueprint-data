@@ -1,5 +1,16 @@
 {
-  "typeID": 21830,
+  "description": {
+    "de": "Eine Mauer - schauen Sie dahinter.",
+    "en": "A wall. Go figure.",
+    "es": "Una pared. Fíjate tú.",
+    "fr": "Mur. Allez voir de plus près.",
+    "ja": "壁。よく考えろ。",
+    "ko": "벽입니다. 튼튼하고 단단한 벽입니다.",
+    "ru": "Стена. Идите разберитесь.",
+    "zh": "一面墙。自己想。"
+  },
+  "graphicID": 2484,
+  "groupID": 226,
   "name": {
     "de": "Fortified Minmatar Wall",
     "en": "Fortified Minmatar Wall",
@@ -10,5 +21,9 @@
     "ru": "Fortified Minmatar Wall",
     "zh": "强化的米玛塔尔之墙"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 350.0,
+  "sofFactionName": "minmatarbase"
 }

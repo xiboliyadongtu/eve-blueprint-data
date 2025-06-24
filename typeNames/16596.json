@@ -1,5 +1,18 @@
 {
-  "typeID": 16596,
+  "basePrice": 35000000.0,
+  "description": {
+    "de": "Fertigkeit zur Organisation und Verwaltung von groß angelegten Marktabläufen. Jede Skillstufe erhöht die Grenze für aktive Aufträge um 16.",
+    "en": "Ability to organize and manage large-scale market operations. Each level raises the limit of active orders by 16.",
+    "es": "Capacidad de organizar y gestionar operaciones mercantiles gran escala. Cada nivel aumenta el límite de pedidos activos en 16.",
+    "fr": "Capacité à organiser et à gérer des opérations commerciales de grande envergure. Chaque niveau augmente de 16 la limite des ordres actifs.",
+    "ja": "大規模なマーケット活動を組織し、運営する能力。レベル上昇ごとに有効オーダー数の上限が16増加。",
+    "ko": "대규모 거래에 대한 관리 및 진행이 가능합니다. <br><br>매 레벨마다 최대 주문 개수 + 16",
+    "ru": "Способность организовывать крупномасштабные операции в торговой системе. Освоение этого навыка позволит пилоту повысить количество ордеров, поддерживаемых открытыми (на 16 за каждую степень освоения навыка).",
+    "zh": "组织并管理大规模市场运营的技能。每升一级，有效订单数上限加16。"
+  },
+  "groupID": 274,
+  "iconID": 33,
+  "marketGroupID": 378,
   "name": {
     "de": "Wholesale",
     "en": "Wholesale",
@@ -10,5 +23,8 @@
     "ru": "Оптовая торговля",
     "zh": "批发技巧"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

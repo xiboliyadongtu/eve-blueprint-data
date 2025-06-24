@@ -1,5 +1,19 @@
 {
-  "typeID": 81621,
+  "basePrice": 150000000.0,
+  "description": {
+    "de": "Dieses Netzwerk ermöglicht das Onlinegehen eines <a href=showinfo:35913>Standup-Leitungsgenerators</a> an einer <a href=showinfo:35841>Ansiblex-Sprungbrücke</a> in dem System.",
+    "en": "This network enables the onlining of a <a href=showinfo:35913>Standup conduit generator</a> at one <a href=showinfo:35841>Ansiblex jump bridge</a> structure in the system.",
+    "es": "Esta red permite la conexión de un <a href=showinfo:35913>generador de conductos Standup</a> en una estructura de <a href=showinfo:35841>puente de salto Ansiblex</a> del sistema.",
+    "fr": "Ce réseau permet la mise en ligne d'un <a href=showinfo:35913>générateur de conduit Standup</a> sur une structure de <a href=showinfo:35841>pont interstellaire Ansiblex</a> dans le système.",
+    "ja": "このネットワークにより、同じシステム内にある<a href=showinfo:35841>アンシブレックス・ジャンプブリッジ</a>ストラクチャ上で<a href=showinfo:35913>スタンドアップ導管ジェネレーター</a>をオンラインできるようになる。",
+    "ko": "<a href=showinfo:35913>스탠드업 전송장치</a>를 온라인 상태로 전환할 수 있는 네트워크로 항성계에 설치된 <a href=showinfo:35841>안시블렉스 점프 브릿지</a>를 기반으로 작동합니다.",
+    "ru": "Эта сеть позволяет включить <a href=showinfo:35913>проводниковый генератор на базе «Стационар»</a> на одном <a href=showinfo:35841>гипермосте «Ансиблекс»</a>, расположенном в той же системе.",
+    "zh": "这个网络允许克隆飞行员在星系的<a href=showinfo:35841>安塞波跳跃桥接</a>建筑中启动<a href=showinfo:35913>屹立通道发生器</a>。"
+  },
+  "groupID": 4772,
+  "iconID": 3952,
+  "marketGroupID": 1282,
+  "mass": 1000.0,
   "name": {
     "de": "Advanced Logistics Network",
     "en": "Advanced Logistics Network",
@@ -10,5 +24,7 @@
     "ru": "Advanced Logistics Network",
     "zh": "高级后勤网络"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 200000.0
 }

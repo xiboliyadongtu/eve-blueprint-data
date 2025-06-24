@@ -1,5 +1,18 @@
 {
-  "typeID": 47867,
+  "basePrice": 50000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Precursor-Fregatten.",
+    "en": "Skill at operating Precursor Frigates.",
+    "es": "Habilidad en el manejo de fragatas precursoras.",
+    "fr": "Compétence liée à l'utilisation des frégates précurseuses.",
+    "ja": "プリカーサーフリゲートを操作するためのスキル。",
+    "ko": "프리커서 프리깃 운용을 위한 스킬입니다.",
+    "ru": "Навык в использовании фрегатов Предтечей.",
+    "zh": "操作先驱者护卫舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Precursor Frigate",
     "en": "Precursor Frigate",
@@ -10,5 +23,8 @@
     "ru": "Precursor Frigate",
     "zh": "先驱者护卫舰操作"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 135,
   "volume": 0.01
 }

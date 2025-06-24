@@ -1,5 +1,19 @@
 {
-  "typeID": 27666,
+  "basePrice": 1000000000.0,
+  "capacity": 7500000.0,
+  "description": {
+    "de": "Ein mittleres Upgrade für das Fertigungspotential von Amarr-Außenposten. Erhöht die Materialeffizienz um 1% für alle Fertigungsaufträge (summiert sich mit allen anderen Verbesserungen des selben Typs) und verringert die Fertigungszeit bei allen Tech I-Schiffen um 50%.",
+    "en": "An intermediate upgrade to Amarr Outpost manufacturing capabilities. Gives 1% Material Efficiency reduction to all manufacturing jobs (stacks with all other improvements of the same type) and increases the manufacturing time reduction on all Tech I ships to 50%.",
+    "es": "Mejora intermedia de las capacidades de fabricación en puestos avanzados amarrianos. Genera una reducción del 1 % de la eficiencia de materiales en todos los trabajos de fabricación (acumulable con todas las demás mejoras del mismo tipo) y aumenta hasta el 50 % la reducción del tiempo de fabricación de todas las naves T1.",
+    "fr": "Amélioration intermédiaire permettant d'augmenter les capacités de production d'un avant-poste amarr. Réduit de 1 % l'efficacité matérielle de tous les travaux de production (s'accumule avec toutes les autres améliorations de même type) et réduit de 50 % le temps de production de tous les vaisseaux Tech I.",
+    "ja": "アマーアウトポストの製造力を高めるやや高度なアップグレード。すべての製造ジョブ（同じタイプのすべての改善点をスタック）に1％の材料効率を与え、すべてのT1船の製造時間を50%削減。",
+    "ko": "아마르 전초기지의 제조 기능을 개선하기 위한 중급 업그레이드입니다. 모든 제조 작업에 대한 자원효율성이 1% 감소(동일한 효과와 중첩 가능)하며 모든 테크 I 함선에 대한 건조시간이 50% 감소합니다.",
+    "ru": "Промежуточный модуль расширения производственных мощностей амаррского форпоста. На 1% повышает материалоэффективность всех производственных проектов (эффект кумулятивен с прочими того же типа); кроме того, экономия времени производства всех кораблей первой техкатегории — 50%.",
+    "zh": "针对艾玛哨站生产能力的中级升级方案。所有生产项目的材料效率降低1%（可与同类效果叠加），所有一级科技舰船生产时间减少50%。"
+  },
+  "graphicID": 3304,
+  "groupID": 836,
+  "iconID": 3304,
   "name": {
     "de": "Amarr Outpost Factory Platform",
     "en": "Amarr Outpost Factory Platform",
@@ -10,5 +24,10 @@
     "ru": "Amarr Outpost Factory Platform",
     "zh": "艾玛空间站车间平台"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 1000.0,
+  "sofFactionName": "amarrbase",
   "volume": 750000.0
 }

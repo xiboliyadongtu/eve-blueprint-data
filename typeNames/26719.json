@@ -1,5 +1,19 @@
 {
-  "typeID": 26719,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieser abgenutzte Container treibt lautlos durchs All und wird sorgfältig von Piraten bewacht.",
+    "en": "The worn container drifts quietly in space, closely guarded by pirates.",
+    "es": "Este contenedor oxidado flota sin rumbo y en silencio por el espacio, vigilado muy de cerca por unos piratas.",
+    "fr": "Vieux conteneur dérivant silencieusement dans l'espace et jalousement gardé par des pirates.",
+    "ja": "宇宙を静かに漂う古びたコンテナは、海賊の手で厳重に警備されている。",
+    "ko": "정적 속에서 우주를 떠다니는 낡은 컨테이너를 해적들이 지키고 있습니다.",
+    "ru": "Изношенный контейнер дрейфует спокойно в космосе, охраняемый пиратами поблизости.",
+    "zh": "这个已磨旧的集装箱藏安静地漂浮在太空中，周围有海盗严密把守。"
+  },
+  "graphicID": 1176,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 100000.0,
   "name": {
     "de": "Madcat's Stash",
     "en": "Madcat's Stash",
@@ -10,5 +24,9 @@
     "ru": "Madcat's Stash",
     "zh": "疯猫的藏匿箱"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericmetal",
   "volume": 100000000.0
 }

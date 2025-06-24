@@ -1,5 +1,19 @@
 {
-  "typeID": 87950,
+  "basePrice": 100000000.0,
+  "description": {
+    "de": "Dieser Generator erzeugt systemweite Effekte, die denen in elektrischen Umgebungen der Raumverwerfung des Abgrunds ähneln. Alle Schiffe im System: 25 % Bonus auf die Wiederaufladerate von Energiespeichern, +25 % Zielerfassungsreichweite und Richtungsscanner-Reichweite.",
+    "en": "This generator produces system-wide effects similar to those encountered in Electric environments within Abyssal Deadspace.\r\n\r\nAll ships in system: 25% bonus to Capacitor recharge rate, +25% targeting range and Directional Scanner range.",
+    "es": "Este generador produce efectos a nivel del sistema similares a los que se encuentran en entornos eléctricos dentro del espacio muerto abisal.\r\n\r\nTodas las naves en el sistema: 25 % de bonificación a la velocidad de carga del condensador, 25 % a la distancia-objetivo y al alcance del escáner direccional.",
+    "fr": "Ce générateur produit des effets à l'échelle du système similaires à ceux rencontrés dans les environnements électriques de l'abîme Deadspace. Tous les vaisseaux du système : 25 % de bonus à la vitesse de recharge du capaciteur, +25 % à la portée de ciblage et à la portée du scanner directionnel.",
+    "ja": "このジェネレーターは、アビサルデッドスペースの電気タイプ環境と似た効果をシステム全域に発生させる。\r\n\r\nシステム内の全艦船：キャパシタ充電速度+25%、ターゲット範囲と指向性スキャナーの範囲+25%",
+    "ko": "어비설 데드스페이스 전기 환경에서 볼 수 있는 성계 전체에 영향을 미치는 효과를 생성합니다.\r\n\r\n성계 내 함선에 적용되는 효과: 캐패시터 충전 속도 25% 증가, 타겟팅 및 전방위 스캐너 범위 25% 증가",
+    "ru": "Этот генератор создаёт эффекты, похожие на те, что встречаются в зонах электрических бурь на просторах Мёртвой бездны. Эффекты охватывают всю систему. Все корабли в системе: +25% к скорости перезарядки накопителя, +25% к дальности наведения и дальности пеленгатора.",
+    "zh": "该生成器可作用于整个星系，类似于你在深渊空间电子环境中遇到的效果。星系内所有舰船：电容回充速率提高25%，锁定范围和定向扫描范围+25%。"
+  },
+  "groupID": 4839,
+  "iconID": 26779,
+  "marketGroupID": 3741,
+  "mass": 1000.0,
   "name": {
     "de": "Electric Stability Generator",
     "en": "Electric Stability Generator",
@@ -10,5 +24,7 @@
     "ru": "Electric Stability Generator",
     "zh": "电力稳定发生器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 10000.0
 }

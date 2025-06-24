@@ -1,5 +1,17 @@
 {
-  "typeID": 30258,
+  "description": {
+    "de": "RCM spielt eine große Rolle bei der Stabilisierung und Ausrichtung eines Schiffes vor dem und beim interstellaren Warpen. Das RCM-System der Sleeper-Drohne arbeitet allerdings in einer völlig anderen Weise als das moderner imperialer Technologie, obwohl die Winkel, die ihre abschließenden Berechnungen ergeben, stets identisch sind. Trotz der Tatsache, dass die genaue Funktionsweise ihres Innenlebens nicht bekannt ist, arbeiten die Matritzen berechenbar und zuverlässig genug, um die Basis für einen neuen, etwas effizienteren Sprungantrieb zu bilden.",
+    "en": "RCM play an important role in stabilizing a ship's alignment prior to, and in the first moments of, interstellar warp. The Sleeper drone RCM system works in an entirely different manner to contemporary Empire-based technology and yet the angles of alignment produced by their final calculations are always identical. Even though their inner workings remain a mystery, the matrices operate in a predictable and reliable enough fashion to form the basis of a new, slightly more efficient jump drive.",
+    "es": "Los módulos de programación recursiva desempeñan un importante papel a la hora de estabilizar la alineación de una nave antes y durante los primeros momentos del warpeo interestelar. El sistema MPR de los drones sleepers funciona de forma totalmente diferente a la tecnología imperial contemporánea y, aun así, los ángulos de alineación conseguidos con sus últimos cálculos siempre son idénticos. Aunque su funcionamiento interno sigue siendo un misterio, las matrices son lo suficientemente predecibles y fiables como para constituirse en el pilar de un nuevo motor de salto ligeramente más eficiente.",
+    "fr": "Les MER jouent un rôle important dans la stabilisation de l'alignement d'un vaisseau avant et au tout début du warp interstellaire. Le système de MER des drones sleeper fonctionnent différemment de la technologie moderne de l'Empire, ce qui n'empêche pas les angles d'alignement produits d'être finalement identiques une fois les calculs finaux effectués. Même si leur structure interne reste un mystère, les matrices fonctionnent de manière assez prévisible et fiable pour constituer la base d'un nouveau propulseur interstellaire, légèrement plus efficace.",
+    "ja": "RCM は、ワープ開始前から突入の瞬間にかけて、船の向きを安定させる上で重要な役目を持っている。スリーパードローンの RCM システムは今まで帝国で使われてきた技術とは全く異なるが、最終的な計算結果として得られる調整角度は常に一致する。内部の動作は未だに解明されていないが、マトリックス演算の安定性と信頼性から、わずかながら効率の高い新しいジャンプドライブの基礎として使用可能である。",
+    "ko": "공명조정 매트릭스(RCM)는 워프 시작 전 정렬 과정을 안정화하는 중요한 역할을 맡고 있습니다. 슬리퍼 드론 RCM은 제국 기반 방식과 완전히 다른 방식으로 작동하지만 산출되는 정렬 결과값은 동일합니다. 내부 작동구조는 자세히 알려져 있지 않지만 변수가 적고 안정성이 뛰어나 이를 기반으로 조금 더 효율적인 점프를 할 수 있습니다.",
+    "ru": "Модуль RCM играет важную роль в стабилизации систем корабля как непосредственно перед, так и в первые моменты межзвездного гиперпрыжка. Принцип работы системы RCM дрона Sleeper радикально отличается от принципа, принятого при конструировании современных технологий в Империи, но, несмотря на это, углы совмещения, выдаваемые при их финальных расчетах, всегда совпадают. Хотя алгоритмы, применяемые ими, покрыты мраком, их матрицы работают с предсказуемым и надежным результатом, формируя базис для нового и несколького более эффективного гипердвигателя.",
+    "zh": "在进行空间跃迁的时候，舰船需要先进行对齐机动，而谐波校准矩阵（简称RCM）就是专门负责这个机动执行的舰载设备。冬眠者无人机RCM系统的工作原理同当代舰船相比是完全不同的，它们在最终运算中所产生的对齐角总是唯一的。尽管冬眠者RCM设备的内在运算机制目前还是一个没有解答的秘密，但它的矩阵功能却是有极高的预知性和可靠性，它所进行的跃迁也因此具有较高的效率。"
+  },
+  "groupID": 966,
+  "iconID": 3733,
+  "marketGroupID": 1862,
   "name": {
     "de": "Resonance Calibration Matrix",
     "en": "Resonance Calibration Matrix",
@@ -10,5 +22,7 @@
     "ru": "Resonance Calibration Matrix",
     "zh": "谐波校准矩阵"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

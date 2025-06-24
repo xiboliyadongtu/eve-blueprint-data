@@ -1,5 +1,18 @@
 {
-  "typeID": 26255,
+  "basePrice": 250000.0,
+  "description": {
+    "de": "Fortgeschrittenes Verständnis der Drohnenkontrollsysteme eines Raumschiffes. Ermöglicht, mithilfe von Anbauten Änderungen an den Drohnenkontrollsystemen vorzunehmen.\r\n\r\n10% Reduktion der Nachteile von Drohnenanbauten je Skillstufe.",
+    "en": "Advanced understanding of a ships drone control systems. Allows makeshift modifications to drone systems through the use of rigs. \r\n\r\n10% reduction in Drone Rig drawbacks per level.",
+    "es": "Conocimiento avanzado de los sistemas de control de drones. Permite realizar modificaciones improvisadas en los sistemas de los drones mediante el uso de complementos.\n\nReducción del 10 % de las desventajas del complemento de drones por nivel.",
+    "fr": "Compréhension avancée des systèmes de contrôle des drones d'un vaisseau. Permet de changer les systèmes de drones d'un vaisseau grâce à l'utilisation de modules d'optimisation. \n\nRéduit de 10 % par niveau les inconvénients liés à l'optimisation des drones.",
+    "ja": "艦載ドローン制御システムに関する高度な理解力。リグを使ってドローンシステムに一時的な変更を加えられる。\r\n\nレベル上昇ごとにドローンリグの副作用を 10% 軽減する。",
+    "ko": "드론 제어 시스템에 대한 심층적인 이해를 습득합니다. 리그 장착을 통해 드론 시스템을 임시로 변경합니다. <br><br>매 레벨마다 드론 리그 부작용 10% 감소",
+    "ru": "Глубокое понимание принципов работы систем управления дронами. Позволяет самостоятельно устанавливать модификаторы дронов. \n\n\n\nЗа каждую степень освоения навыка: на 10% уменьшается отрицательный эффект модификаторов дронов.",
+    "zh": "理解无人机控制系统的高级技能。允许通过使用改装件对无人机系统进行临时改进。\r\n\r\n每升一级，无人机改装件的副作用降低10%。"
+  },
+  "groupID": 269,
+  "iconID": 33,
+  "marketGroupID": 372,
   "name": {
     "de": "Drones Rigging",
     "en": "Drones Rigging",
@@ -10,5 +23,7 @@
     "ru": "Модификаторы дронов",
     "zh": "无人机改装技术"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

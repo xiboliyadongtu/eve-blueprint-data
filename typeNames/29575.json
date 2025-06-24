@@ -1,5 +1,16 @@
 {
-  "typeID": 29575,
+  "description": {
+    "de": "Eine Mauer.",
+    "en": "A wall.",
+    "es": "Un muro.",
+    "fr": "Mur.",
+    "ja": "壁。",
+    "ko": "벽입니다.",
+    "ru": "Стена.",
+    "zh": "壁垒"
+  },
+  "graphicID": 2453,
+  "groupID": 226,
   "name": {
     "de": "Fortified Caldari Wall",
     "en": "Fortified Caldari Wall",
@@ -10,5 +21,9 @@
     "ru": "Fortified Caldari Wall",
     "zh": "强化的加达里之墙"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 300.0,
+  "sofFactionName": "caldaribase"
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 26283,
+  "description": {
+    "de": "Dieser Schlüssel entriegelt alle Beschleunigungstore im Komplex, insbesondere die im Bereich der Forschung und Entwicklungsabteilung.",
+    "en": "This key unlocks all acceleration gates in the complex, most notably the R&D Circle.",
+    "es": "Esta llave abre todos los portales de aceleración del complejo, en particular del Círculo de I+D.",
+    "fr": "Cette clé permet de déverrouiller tous les portails d'accélération du complexe, dont celui du cercle R&D.",
+    "ja": "複合施設内にある全てのアクセラレーションゲート、中でも重要なものとしてR&Dサークルを開けるキー。",
+    "ko": "해당 열쇠를 통해 지역 내 모든 액셀레이션 게이트를 개방할 수 있습니다. R&D 구역으로 향하는 액셀레이션 게이트를 개방할 수 있습니다.",
+    "ru": "Этот ключ отпирает все врата ускорения в комплексе, в частности Круг R&D.",
+    "zh": "这把钥匙可以开启这个复合体中——尤其是环形研发设施——的所有加速轨道。"
+  },
+  "groupID": 474,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Master Key",
     "en": "Master Key",
@@ -10,5 +22,7 @@
     "ru": "Master Key",
     "zh": "主控密匙"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

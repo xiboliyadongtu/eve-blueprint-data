@@ -1,5 +1,18 @@
 {
-  "typeID": 11574,
+  "basePrice": 4000000.0,
+  "description": {
+    "de": "Verbesserte Fertigkeit zur Verteilung positiver Effekte an Flottenmitglieder. Erhöht die Reichweite des Wirkungsbereich von Kommandostrahlen und Bergbauvorarbeiterstrahlen um 6 % pro Skillstufe.",
+    "en": "Improved proficiency at projecting beneficial effects to fleetmates. Increases Command Burst and Mining Foreman Burst area of effect range by 6% per skill level.",
+    "es": "Aptitud mejorada para proyectar efectos beneficiosos a los compañeros de flota. Aumenta el alcance de radio de acción del estallido de mando y del estallido de capataz minero en un 6 % por nivel de habilidad.",
+    "fr": "Maîtrise opérationnelle de la projection d'effets positifs vers les vaisseaux alliés. Augmente de 6 % par niveau la portée de l'effet de zone des salves de commandement et de contremaîtrise minière.",
+    "ja": "味方フリートに対してプラス効果を付与するやや高度な能力。スキルレベル上昇ごとにコマンドバーストと採掘支援バーストの効果範囲が6%増加。",
+    "ko": "이로운 효과를 함대원들에게 보다 효율적으로 전달하기 위한 스킬입니다. 매 레벨마다 지휘 및 채광 버스트 반경 6% 증가",
+    "ru": "Глубокие познания в области улучшения ТТХ союзников по флоту. За каждую степень освоения навыка: на 6% увеличивается радиус импульсов, генерируемых импульсными оптимизаторами, как боевыми, так и добывающими.",
+    "zh": "精通于对舰队成员投放增益效果的技能。每升一级，指挥脉冲波和开采先锋脉冲波的效果范围增加6%。"
+  },
+  "groupID": 258,
+  "iconID": 33,
+  "marketGroupID": 370,
   "name": {
     "de": "Wing Command",
     "en": "Wing Command",
@@ -10,5 +23,8 @@
     "ru": "Командование эскадрой",
     "zh": "联队指挥学"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

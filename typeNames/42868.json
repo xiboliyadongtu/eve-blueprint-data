@@ -1,5 +1,16 @@
 {
-  "typeID": 42868,
+  "description": {
+    "de": "Die Ruinen einer Gallente-Struktur.",
+    "en": "The ruins of a Gallente structure.",
+    "es": "Las ruinas de una estructura gallente.",
+    "fr": "Ruines d'une structure gallente.",
+    "ja": "ガレンテ系構造物の残骸。",
+    "ko": "갈란테 구조물 폐허입니다.",
+    "ru": "Обломки разрушенного галлентского сооружения.",
+    "zh": "一座盖伦特建筑的废墟。"
+  },
+  "graphicID": 3783,
+  "groupID": 226,
   "name": {
     "de": "Wrecked Gallente Structure",
     "en": "Wrecked Gallente Structure",
@@ -10,5 +21,9 @@
     "ru": "Wrecked Gallente Structure",
     "zh": "损毁的盖伦特建筑"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 8380.0,
+  "sofFactionName": "gallentebase"
 }

@@ -1,5 +1,16 @@
 {
-  "typeID": 77065,
+  "description": {
+    "de": "Ein Heiligtum der berüchtigten Blood Raider, einem der grausamsten und gewalttätigsten Sani-Sabik-Kulte.",
+    "en": "A place of worship for the infamous Blood Raiders, one of the most ruthless and violent Sani Sabik cults.",
+    "es": "Un lugar de culto para los infames Saqueadores Sanguinarios, uno de los cultos de Sani Sabik más despiadados y violentos que existen.",
+    "fr": "Un lieu de prière pour les infâmes Blood Raiders, l'un des cultes de Sani Sabik les plus violents et impitoyables.",
+    "ja": "サニサビク系カルトの中でも特に凶暴で容赦ないと知られる、悪名高きブラッドレイダーズの祈りの場所。",
+    "ko": "악명 높은 블러드 레이더의 예배 공간입니다. 블러드 레이더는 사니 사비크 종파 중에서도 가장 잔혹하고 폭력적입니다.",
+    "ru": "Место поклонения печально известных «Охотников за кровью» — одного из самых кровавых и жестоких культов Сани Сабика.",
+    "zh": "臭名昭著的血袭者的礼拜场所，血袭者是萨萨比克最残暴的教派之一。"
+  },
+  "graphicID": 2359,
+  "groupID": 4576,
   "name": {
     "de": "Blood Raider Temple",
     "en": "Blood Raider Temple",
@@ -10,5 +21,8 @@
     "ru": "Blood Raider Temple",
     "zh": "血袭者圣殿"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 7000.0,
+  "sofFactionName": "bloodraider"
 }

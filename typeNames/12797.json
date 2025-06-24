@@ -1,5 +1,20 @@
 {
-  "typeID": 12797,
+  "basePrice": 33468.0,
+  "description": {
+    "de": "Im Wesentlichen ist der Bolt ein modifizierter EMP-Artilleriesprengkopf im Gehäuse einer Standard-Wolframgranate. Dies resultiert in deutlich gesteigerter Durchschlagkraft, da der EMP-Schock den Schild zerstört, sodass die Wolframschrapnells ihn effektiver durchdringen können. Hinweis: Diese Munition kann nur von mittelgroßen Technologiestufe II- und Fraktions-Railguns verwendet werden.",
+    "en": "The Bolt is actually a modified Emp Artillery warhead Encased in a standard tungsten charge casing. This results in substantially improved penetration as the emp shock disrupts the shield allowing the tungsten shrapnel to bypass it more effectively.\r\n        \r\nNote: This ammunition can only be used by medium tech level II and faction Railguns.",
+    "es": "\"La Bolt es en realidad una ojiva de artillería de EMP modificada, alojada en una caja estándar de carga de tungsteno, lo que se traduce en una penetración notablemente mejorada, pues la descarga de EMP perturba el escudo y permite que la metralla de tungsteno lo atraviese con mayor eficacia.\r\n\r\nAviso: Esta munición solo es compatible con cañones electromagnéticos T2, faccionarios y oficiales para naves grandes.\"",
+    "fr": "Le Bolt est une ogive d'artillerie IEM modifiée et insérée dans une enveloppe de tungstène standard. Cela se traduit par une pénétration bien supérieure car la charge IEM neutralise le bouclier et permet au noyau de tungstène de le traverser plus facilement. Remarque : ces munitions ne peuvent s'utiliser qu'avec les canons à rail intermédiaires de faction et de niveau technologique II.",
+    "ja": "ボルトは、標準タングステンチャージケースに納められた改良型EMPアーティレリ弾頭だ。EMP衝撃がシールドを分裂させタングステン榴散弾をより効率的に通過させるため、貫通力が大幅に向上する。\n        \r\n注：この弾薬は中型T2および各勢力のレールガン専用である。",
+    "ko": "볼트는 텅스텐탄 외피에 함포용 EMP 탄두를 넣은 개조 탄약입니다. 피격 시 EMP 충격을 통해 대상 함선의 실드를 교란하여 외부저항 없이 텅스텐 파편이 함선을 쉽게 관통할 수 있어 살상력이 증가합니다. <br><br>참고: 중형 테크 II 또는 팩션 레일건에만 장착할 수 있습니다.",
+    "ru": "«Молния» — это модифицированный электромагнитный артиллерийский боезаряд, заключённый в обычную вольфрамовую оболочку. Это приводит к существенному увеличению пробивной способности — электромагнитный удар разрушает щит, позволяя вольфрамовым осколкам проникнуть глубоко внутрь. Примечание: эти боеприпасы могут использовать только корабли среднего тоннажа второго техноуровня и государственные рельсотроны.",
+    "zh": "“闪电”型实际上是装在标准钨质弹壳里的改进型电磁脉冲炮弹头。电磁脉冲的冲击扰乱了护盾，使钨质弹片能有效地穿越护盾，从而大大增强了穿透性。\n\n        \n\n注：只能用于二级科技和势力中型磁轨炮。"
+  },
+  "graphicID": 1316,
+  "groupID": 373,
+  "iconID": 1316,
+  "mass": 0.01,
+  "metaGroupID": 2,
   "name": {
     "de": "Bolt M",
     "en": "Bolt M",
@@ -10,5 +25,7 @@
     "ru": "Bolt M",
     "zh": "闪电 M"
   },
+  "portionSize": 5000,
+  "published": false,
   "volume": 0.0125
 }

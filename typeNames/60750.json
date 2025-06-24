@@ -1,5 +1,19 @@
 {
-  "typeID": 60750,
+  "basePrice": 50000.0,
+  "description": {
+    "de": "Diese Datenbanken enthalten verschlüsselte Patrouillenberichte, die die täglichen Aktivitäten verschiedener AEGIS-Sicherheitspatrouillen beschreiben. Obwohl die Anzahl an Informationen recht hoch ist, beschränkt sich der Großteil wahrscheinlich auf langweilige Patrouillenprotokolle mit nur vereinzelten wirklich wichtigen Informationsbrocken. Da die Daten verschlüsselt sind, haben sie für Gesetzeslose einen geringeren Wert, weil diese sie mühevoll entschlüsseln müssten, ohne zu wissen, ob sie mehr enthalten als die banalen Gedanken eines AEGIS-Sicherheitsoffiziers. Dennoch, solche Daten haben immer irgendeinen Nutzen, weshalb Piraten sie vermutlich kaufen würden.",
+    "en": "These databases contain encrypted patrol reports describing the day-to-day activities of various AEGIS security patrol units. While the amount of information is quite high, much of it is likely to be tedious routine patrol logs, with precious view truly valuable nuggets of information included. As the data is encrypted it is also of less value to outlaws who will need to go to the effort of decrypting without knowing if there's anything here other than the banal musings of AEGIS security officers. Still, all such data has some use so pirates will probably buy this.",
+    "es": "Estas bases de datos contienen informes cifrados de patrulla que describen las actividades diarias de varias unidades de patrulla de seguridad de AEGIS. Aunque el volumen de información es bastante alto, es probable que sea muy tedioso, ya que se trata de registros de patrulla rutinarios. Sin embargo, puede haber algún dato verdaderamente valioso entre ellos. Puesto que los datos están encriptados, resultan menos valiosos para los forajidos que tendrán que hacer el esfuerzo de desencriptarlos sin saber si contienen algo más que transmisiones banales de los oficiales de seguridad de AEGIS. Aun así, todos esos datos pueden ser útiles, así que seguramente les interesen a los piratas.",
+    "fr": "Ces bases de données contiennent des rapports de patrouille cryptés décrivant les activités quotidiennes des différentes unités de patrouille des forces de sécurité d'AEGIS. La quantité d'informations disponible est relativement importante, il est donc probable que la plupart des sources proviennent de journaux de patrouille de routine. Cependant, il est n'est pas impossible d'y déceler quelques renseignements sporadiques de grande valeur. Les données étant cryptées, leur valeur est également moindre pour les hors-la-loi qui devront faire l'effort de les décrypter sans savoir si elles renferment autre chose que de banales élucubrations d'agents de sécurité d'AEGIS. Néanmoins, toutes ces données peuvent s'avérer utiles et les pirates les achèteront probablement.",
+    "ja": "このデータベースには暗号化されたパトロールレポートが入っており、そこにはイージスの警備パトロールユニットの日々の活動が記載されている。情報量は極めて多いものの大部分は退屈な定時パトロールのログである可能性が高いが、見る者が見れば本当に価値がある情報も含まれている。データは暗号化されており、イージスの警備士官の平凡な感想以外に何が入っているか分からない状態で解読を試みる必要があるアウトローにとっての価値は低いが、そんなデータでも利用価値はあり、おそらく海賊たちが買い取ってくれるだろう。",
+    "ko": "AEGIS 정찰대의 일일 보고서가 암호화된 문서로 저장되어 있습니다. 많은 양의 데이터가 담겨 있긴 하지만 대부분의 문서에는 특별한 정보가 없습니다. 물론 잘 찾아보면 핵심적인 정보도 존재합니다. 정보가 암호화되어 있기 때문에 데이터베이스를 확보한 범죄 조직들은 정찰대가 작성한 일상적인 기록 속에서 필요한 정보를 찾아야만 하는 수고를 들여야 합니다. 이러한 제약에도 불구하고 괜찮은 가격을 받을 수 있습니다.",
+    "ru": "Эти базы данных содержат зашифрованные отчеты, описывающие повседневную деятельность различных патрульных подразделений сил безопасности ЭГИДА. Несмотря на то что объем информации довольно велик, она по большей части представляет собой вызывающие малый интерес журналы патрулирования с редкими вкраплениями по-настоящему ценных данных. Поскольку информация зашифрована, она также представляет меньшую ценность для преступников, которым придется заняться расшифровкой, не зная, есть ли здесь что-нибудь, кроме досужих размышлений сотрудников службы безопасности ЭГИДА. Но и эти данные представляют некоторую ценность, так что их можно попробовать продать пиратам.",
+    "zh": "这些数据库中包含加密过的巡逻报告，涵盖了统合部紧急干预和安全局多支安全巡逻队日常活动的信息。数据量庞大，而且其中大多数是日常巡逻日志，不过偶尔还是能找到一星半点的宝贵信息。由于数据被加密过，而且价值较低，不法分子也不愿意花大力气破解后却发现里面除了些无用的闲聊外什么也没有。不过，可能还是有些海盗愿意付钱购买的。"
+  },
+  "groupID": 314,
+  "iconID": 10065,
+  "marketGroupID": 2801,
+  "mass": 1.0,
   "name": {
     "de": "AEGIS Security Patrol Reports",
     "en": "AEGIS Security Patrol Reports",
@@ -10,5 +24,8 @@
     "ru": "AEGIS Security Patrol Reports",
     "zh": "统合部紧急干预和安全局安全巡逻队报告"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.1
 }

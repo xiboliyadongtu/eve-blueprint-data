@@ -1,5 +1,18 @@
 {
-  "typeID": 17785,
+  "capacity": 1.0,
+  "description": {
+    "de": "Moon Harvesting Arrays bauen eine Anzahl verschiedener Mondmaterialien ab, die dann in die Reaktoren gefüllt werden. In den Reaktoren wird das Material zu Zwischenprodukten oder Endprodukten veredelt, mit denen man die Strukturen einer Starbase online und funktionsfähig halten kann.",
+    "en": "Moon Harvesting Arrays yield a number of moon materials that are then fed to Reactors. Reactors then process the materials in order to produce intermediate or final materials for use in keeping the Starbase's structures on-line and functioning.",
+    "es": "Las plataformas recolectoras lunares extraen diversos materiales lunares con los que se alimentan los reactores. Después, los reactores procesan los materiales y producen materiales intermedios o finales que se usarán para mantener las estructuras de la base estelar conectadas y en funcionamiento.",
+    "fr": "Les modules de collecte lunaire collectent énormément de matériaux qui sont ensuite utilisés par les réacteurs. Les réacteurs traitent ensuite les matériaux afin de fabriquer de nouveaux produits, finis ou intermédiaires, destinés à assurer le fonctionnement des structures de la base stellaire.",
+    "ja": "衛星採掘施設から得られた衛星原材料はリアクターに送られて加工され、中間的あるいは最終的な状態に生まれ変わる。こうして作られた資源によって、スターベースの建造物はオンラインの状態を維持し、機能し続ける。",
+    "ko": "위성 채굴 시설을 통해 자원을 다량 추출하여 반응로에 주입합니다. 이후 반응로에서 위성 자원을 가공하여 중간 자재 및 완제품을 생산합니다. 이때 생산된 자재는 스타베이스를 정비하거나 가동하기 위해 사용됩니다.",
+    "ru": "Комплексы экстракции со спутников выдают определённое количество лунного материала, который позднее подаётся в реакторы. Реакторы далее перерабатывают этот материал для получения промежуточных и готовых материалов, используемых для поддержания строений звёздной базы в рабочем режиме.",
+    "zh": "卫星采集阵列产出大量的卫星原料，然后提供给反应堆。反应堆会加工这些原料以将其制成维持母星建筑在线和运作所需的半成品或最终物质。"
+  },
+  "graphicID": 2299,
+  "groupID": 319,
+  "mass": 1000000.0,
   "name": {
     "de": "Starbase Reactor Array",
     "en": "Starbase Reactor Array",
@@ -10,5 +23,9 @@
     "ru": "Starbase Reactor Array",
     "zh": "母星反应堆阵列"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 550.0,
+  "sofFactionName": "genericmetal",
   "volume": 1150.0
 }

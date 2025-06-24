@@ -1,5 +1,18 @@
 {
-  "typeID": 34392,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Scans die diese Struktur durchdringen können legen Nahe, dass sie hauptsächlich aus einer Serie vernetzter Zellen besteht, durchdrungen von Überwachungssystemen und Datenverarbeitungsnetzwerken. Die Schilde dieser Anlage wurden stark beschädigt und einige Leitungen sind so weit freigelegt, dass sie die komplexen Verarbeitungsvorgänge offenbaren, die immer noch an großen Mengen von Bioinformationsdaten laufen.",
+    "en": "Such scans as can penetrate this structure suggest it is primarily made up of a series of interconnected cells, run through with monitoring systems and data processing networks. There is significant damage to the shielding of this facility and some conduits are sufficiently exposed to reveal that complex processing routines are still operating on vast quantities of bioinformatic data.",
+    "es": "Los escáneres capaces de penetrar en esta estructura sugieren que está formada principalmente por una serie de celdas interconectadas, atravesadas por sistemas de monitorización y redes de procesamiento de datos. El escudo está muy dañado y algunos conductos han quedado lo bastante expuestos como para dejar ver las complejas rutinas de procesamiento de datos bioinformáticos que siguen funcionando.",
+    "fr": "Les scans ayant pénétré cette structure suggèrent que l'unité est composée d'une série de cellules interconnectées, parcourues de systèmes de surveillance et de réseaux de traitement de données. Cet établissement présente des dégâts importants, et certains conduits sont suffisamment exposés pour révéler que les routines de traitement complexes sont toujours opérées sur de grandes quantités de données bio-informatiques.",
+    "ja": "ストラクチャへのスキャンを実行すると、この施設が基本的には一連の相互に関連する棟で構成されており、監視システムやデータ解析ネットワークが存在しているようだと分かる。本施設のシールドは大きな損傷を受けており、いくつかのケーブルがあらわになっている。そのため、膨大な量の生物情報学的データの解析作業がいまだ実行中であることが分かる。",
+    "ko": "해당 구조물은 다수의 개별적인 공간으로 이루어져 있으며 각종 모니터링 시스템 및 데이터 프로세싱 네트워크가 설치되어 있습니다. 방어 기능이 상당 부분 손상되었으며 내부 전력선이 외부로 노출된 상태입니다. 막대한 피해에도 불구하고 해당 시설은 여전히 생체정보 데이터를 생산하고 있습니다.",
+    "ru": "Зондирующие сигналы, способные проникнуть в сооружение, сообщают, что в основном оно состоит из наборов взаимосвязанных клеток, которые сопровождаются контрольными системами и блоками обработки данных. Защитное покрытие сооружения сильно повреждено, и открытые связи позволяют понять, что по сложным цепям обработки данных всё ещё идут огромные блоки биоинформационных сведений.",
+    "zh": "据能够穿透此建筑的扫描结果显示，它主要由许多紧密相连的单元构成，通过监控系统与数据处理网络运营。这个设施的外壳遭到了严重损毁，导致一些导管暴露在外，表明这个单元的日常工作仍在进行，每天要处理大量的生物信息数据。"
+  },
+  "graphicID": 3567,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Bioinformatics Processing Cells",
     "en": "Bioinformatics Processing Cells",
@@ -10,5 +23,10 @@
     "ru": "Bioinformatics Processing Cells",
     "zh": "生物信息处理单元"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 7684.0,
+  "sofFactionName": "sleeperbase",
   "volume": 100000000.0
 }

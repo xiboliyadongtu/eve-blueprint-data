@@ -1,5 +1,18 @@
 {
-  "typeID": 28097,
+  "basePrice": 420921150.0,
+  "description": {
+    "de": "Ein grundlegendes Upgrade für das Forschungspotential von Caldari-Außenposten.  Erhöht die Kostenreduktion um 10% bei Materialeffizienz-, Zeiteffizienz-, Kopier- und Erfindungsaufträgen (summiert sich mit allen anderen Verbesserungen des selben Typs).",
+    "en": "A basic upgrade to Caldari Outpost research capabilities.  Gives a 10% cost reduction to Material Efficiency, Time Efficiency, Copy, Invention jobs (stacks with all other improvements of the same type).",
+    "es": "Mejora básica de las capacidades de investigación en puestos avanzados caldaris. Genera una reducción del 10 % del coste de los trabajos de invención, copia, eficiencia de materiales y eficiencia temporal (acumulable con todas las demás mejoras del mismo tipo).",
+    "fr": "Amélioration de base permettant d'augmenter les capacités de recherche d'un avant-poste caldari.  Réduit de 10 % le coût de la productivité matérielle, l'efficience de temps, la copie de tous les travaux d'invention (s'accumule avec toutes les autres améliorations de même type).",
+    "ja": "カルダリアウトポストの研究能力を高める基本的なアップグレード。生産効率、時間効率、コピー、発明ジョブのコストを10%削減する（すでに削減されている場合も追加で利用可能）。",
+    "ko": "칼다리 전초기지 연구능력을 개선하기 위한 기본 업그레이드입니다. 자원효율성 연구, 시간효율성 연구, 복제, 인벤션 작업에 소요되는 비용이 10% 감소합니다. (동일한 효과와 중첩 가능)",
+    "ru": "Базовый модуль расширения научно-исследовательских возможностей калдарского форпоста.  На 10% снижает стоимость проектов по копированию чертежей, модернизации, повышению скорости производства и материалоэффективности производства (эффект кумулятивен с прочими того же типа).",
+    "zh": "针对加达里哨站研究能力的基础升级方案。  材料效率研究、时间效率研究、拷贝和发明项目费用额外降低10%（可与同类效果叠加）。"
+  },
+  "graphicID": 3303,
+  "groupID": 872,
+  "iconID": 3303,
   "name": {
     "de": "Caldari Basic Outpost Laboratory",
     "en": "Caldari Basic Outpost Laboratory",
@@ -10,5 +23,10 @@
     "ru": "Caldari Basic Outpost Laboratory",
     "zh": "加达里基础哨站实验室"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 19079.0,
+  "sofFactionName": "caldaribase",
   "volume": 1.0
 }

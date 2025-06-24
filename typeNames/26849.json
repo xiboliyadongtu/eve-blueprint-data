@@ -1,5 +1,16 @@
 {
-  "typeID": 26849,
+  "description": {
+    "de": "Eine große, stationierbare Einheit mit eigener Stromversorgung, die innerhalb ihres Wirkungsbereiches jeden Warpsprung unterbindet.",
+    "en": "A Large deployable self powered unit that prevents warping within its area of effect",
+    "es": "Una unidad autónoma desplegable grande que evita warpeos en su radio de acción",
+    "fr": "Unité mobile autonome lourde empêchant toute opération de warp dans sa zone d'effet.",
+    "ja": "有効範囲内でのワープを妨害する、配置可能なパワー内蔵型大型ユニット。",
+    "ko": "전개형 자가동력 교란장치로 지정한 범위 내에 워프를 차단합니다.",
+    "ru": "Большая развертываемая установка с автономным энергообеспечением, предотвращающая гиперпрыжки в радиусе своего действия.",
+    "zh": "一种自我供能的可部署大型设备，可以在其有效范围内阻止跃迁"
+  },
+  "graphicID": 3206,
+  "groupID": 361,
   "name": {
     "de": "Tournament Bubble",
     "en": "Tournament Bubble",
@@ -10,5 +21,9 @@
     "ru": "Претенденты на призовые места",
     "zh": "锦标赛版跃迁阻扰设备"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 70.0,
+  "sofFactionName": "igc",
   "volume": 5000000.0
 }

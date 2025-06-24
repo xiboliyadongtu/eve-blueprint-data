@@ -1,5 +1,18 @@
 {
-  "typeID": 17632,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dies ist eine Fabrik für den Bau von Kleinteilen, die später in alle Arten von Raumschiffen eingebaut werden.",
+    "en": "This is where small parts are built to be used in all kinds of spaceships further down the production line.",
+    "es": "Aquí se construyen piezas pequeñas que se usarán posteriormente en la cadena de producción para construir todo tipo de naves espaciales.",
+    "fr": "C'est ici que de petites pièces sont fabriquées pour être utilisées dans toutes sortes de vaisseaux, puis tout au long de la ligne de production.",
+    "ja": "あらゆる艦船向けの細かい部品が製造される工場。",
+    "ko": "함선용 소형 부품을 생산하는 공장입니다.",
+    "ru": "Здесь производятся небольшие компоненты для последующей установки во все виды космических кораблей.",
+    "zh": "这里生产所有飞船都在使用的基本零件。"
+  },
+  "graphicID": 1991,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "CreoCorp Main Factory",
     "en": "CreoCorp Main Factory",
@@ -10,5 +23,10 @@
     "ru": "CreoCorp Main Factory",
     "zh": "创造工业主厂区"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 4007.0,
+  "sofFactionName": "genericbase",
+  "soundID": 31,
   "volume": 100000000.0
 }

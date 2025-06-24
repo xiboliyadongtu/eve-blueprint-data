@@ -1,5 +1,18 @@
 {
-  "typeID": 29608,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieses herumschwebende Trümmerstück sieht vielversprechend aus, muss aber mit der richtigen Ausrüstung analysiert werden, bevor es irgendein Geheimnis preisgibt.",
+    "en": "This piece of floating rubble looks intriguing, but requires analyzing equipment before it yields any of its secrets.",
+    "es": "Estos escombros flotantes parecen fascinantes, pero para conocer sus secretos hace falta equipamiento de análisis.",
+    "fr": "Ces décombres flottants dans l'espace semblent étranges, mais vous devez disposer du matériel d'analyse adéquat pour qu'ils vous livrent leurs secrets.",
+    "ja": "興味深い浮遊残骸物だが、分析装置がなければ秘密が語られることはない。",
+    "ko": "눈길을 잡아 끄는 무언가가 있지만 자세히 확인하기 위해서는 별도의 분석 장비가 필요합니다.",
+    "ru": "Этот дрейфующий обломок выглядит интригующе, но для раскрытия его секретов требуется анализирующее оборудование.",
+    "zh": "这块漂浮的碎片看起来令人迷惑，需要使用分析设备来提取中间可能隐藏的秘密。"
+  },
+  "graphicID": 2505,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Radio Telescope - Hacking - Encoded Data Chip",
     "en": "Radio Telescope - Hacking - Encoded Data Chip",
@@ -10,5 +23,9 @@
     "ru": "Radio Telescope - Hacking - Encoded Data Chip",
     "zh": "射电望远镜 - 破译 - 扫描仪数据芯片"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 2636.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 365233,
+  "basePrice": 900.0,
+  "description": {
+    "de": "Selbstreparierende Panzerplatten, die eine begrenzte Steigerung der Dropsuitpanzerungsstärke bieten.",
+    "en": "Self-repairing armor plates that provide a marginal increase to dropsuit armor strength.",
+    "es": "Placas de blindaje autorreparables que proporcionan un aumento marginal de la resistencia del blindaje de los trajes.",
+    "fr": "Plaques d'armure auto-réparatrices qui confèrent une légère augmentation à la force de l'armure de la combinaison.",
+    "it": "Lamiere corazzate autoriparanti che aumentano leggermente la solidità della corazza dell'armatura.",
+    "ja": "降下スーツのアーマーに必要最低限の強度を与える自動リペアアーマープレート。",
+    "ko": "강하슈트 장갑 내구도를 미미하게 올려주는 자가수리 장갑 플레이트입니다.",
+    "ru": "Самовосстанавливающиеся бронепластины, которые обеспечивают незначительное увеличение прочности брони скафандров.",
+    "zh": "自我修复型装甲板，可小幅提升作战服的装甲强度。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Einfache reaktive Platten",
     "en": "Basic Reactive Plates",
@@ -11,5 +23,7 @@
     "ru": "Базовые реактивные пластины",
     "zh": "基础型反应式附甲板"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

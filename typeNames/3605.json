@@ -1,5 +1,16 @@
 {
-  "typeID": 3605,
+  "description": {
+    "de": "Die Maulus ist ein Hi-Tech-Schiff speziell zur elektronischen Kriegsführung. Besonders im Flottenkampf greift man gerne auf sie zurück, weil die Technologie zur Sensorendämpfung bei ihr optimiert wurde.",
+    "en": "ThThe Maulus is a high-tech vessel, specialized for electronic warfare. It is particularly valued in fleet warfare due to its optimization for sensor dampening technology.",
+    "es": "La Maulus es una nave de alta tecnología especializada en la guerra electrónica. Es especialmente valiosa en flotas bélicas por cómo optimiza la tecnología de atenuación de sensores.",
+    "fr": "Le Maulus est un vaisseau ultra-perfectionné spécialisé dans la guerre électronique. Sa technologie d'atténuation de détection en fait un atout non négligeable lors des affrontements entre flottes.",
+    "ja": "マウルスは電子戦に特化したハイテク艦船だ。艦隊戦ではセンサーダンプナー兵器の性能を活かせる点で評価が高い。",
+    "ko": "마울러스는 전자전에 특화된 최첨단 함선입니다. 센서 교란에 최적화된 기능 덕분에 함대전에서 상당한 가치를 지니고 있습니다.",
+    "ru": "Maulus — высокотехнологичный корабль, предназначенный для электронного противодействия. Это судно особенно ценится на флоте благодаря оптимизации под технологию глушения сенсорных систем противника.",
+    "zh": "毛鲁斯级是一种高科技战舰，专门用于电子战。由于针对感应抑阻技术进行过最优化处理，因此它在舰队战中的价值尤为突出。"
+  },
+  "graphicID": 324,
+  "groupID": 226,
   "name": {
     "de": "Gallente Maulus Frigate",
     "en": "Gallente Maulus Frigate",
@@ -10,5 +21,9 @@
     "ru": "Gallente Maulus Frigate",
     "zh": "盖伦特毛鲁斯级护卫舰"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 31.0,
+  "sofFactionName": "gallentebase"
 }

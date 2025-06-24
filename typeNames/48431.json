@@ -1,5 +1,18 @@
 {
-  "typeID": 48431,
+  "description": {
+    "de": "Vergrößert die Kapazität des Energiespeichers. Bietet Schutz gegen Energieabsaug- und Energieneutralisierungs-Effekte.",
+    "en": "Increases capacitor storage. Provides defense against Energy Leech and Energy Neutralizer effects.",
+    "es": "Aumenta la capacidad de almacenamiento del condensador. Protege contra los efectos de la absorción energética y los neutralizadores energéticos.",
+    "fr": "Augmente le stockage d'énergie du capaciteur. Protège des effets des sangsues énergétiques et des effets de neutralisation d'énergie.",
+    "ja": "キャパシタ容量を増加させ、エネルギー吸引やエネルギーニュートラライザー効果から保護する。",
+    "ko": "캐패시터 용량이 증가합니다. 에너지 흡수 및 에너지 뉴트럴라이저에 대한 방어력이 증가합니다.",
+    "ru": "Увеличивает ёмкость накопителя. Обеспечивает защиту от эффектов откачки и нейтрализации энергии.",
+    "zh": "增加电容器储量。有效抵抗能量吸取和能量中和效果。"
+  },
+  "groupID": 61,
+  "iconID": 89,
+  "mass": 1.0,
+  "metaGroupID": 15,
   "name": {
     "de": "Small Abyssal Cap Battery",
     "en": "Small Abyssal Cap Battery",
@@ -10,5 +23,7 @@
     "ru": "Small Abyssal Cap Battery",
     "zh": "小型深渊电容器电池"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 5.0
 }

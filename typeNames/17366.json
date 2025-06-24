@@ -1,5 +1,21 @@
 {
-  "typeID": 17366,
+  "basePrice": 10000.0,
+  "capacity": 1000000.0,
+  "description": {
+    "de": "Dies ist ein Stationscontainer. Er ist mit einem kennwortgeschützten Sicherheitsschloss und einer computergesteuerten Inventarbuchführung ausgestattet.\r\nObwohl die Konstruktion eines Stationscontainers der Konstruktion anderer Container weitgehend entspricht, ist ein Stationscontainer bei weitem zu groß, um in den Frachtraum eines Schiffes zu passen. Er wird daher auf Stationen nur zur Lagerhaltung und für Inventar Management verwendet.",
+    "en": "This is a Station Container. It is fitted with a password-protected security lock and computerized inventory auditing. Although the construction of a Station Container is much like that of other Cargo Containers a Station Container is far too big to fit in a ship's cargo hold and is only used for storage and inventory management at stations.",
+    "es": "Contenedor de estación. Está equipado con un cierre de seguridad protegido por contraseña y control de inventario informatizado. Aunque su construcción es muy parecida a la de otros contenedores de carga, es demasiado grande y no cabe en la bodega de una nave, de modo que solo se utiliza para el almacenamiento y la gestión del inventario en las estaciones.",
+    "fr": "Il s'agit d'un conteneur de la station. Il dispose d'un verrou de sécurité protégé par mot de passe et d'un dispositif d'inventaire informatisé. Bien que la construction d'un conteneur de station soit à peu près similaire à celle des autres conteneurs de fret, il est beaucoup trop imposant pour rentrer dans la soute de chargement d'un vaisseau, c'est pourquoi on ne l'utilise que pour le stockage et les inventaires des stations.",
+    "ja": "このステーションコンテナは、パスワード式ロック機能および自動在庫管理機能を装備している。構造は一般のカーゴコンテナとほぼ同じだが、艦船のカーゴホールドに搭載するには大きすぎるため、ステーションにおいてのみ使用し、保管庫として、または在庫管理に用いる。",
+    "ko": "정거장 컨테이너입니다. 암호화된 보안 장치와 전산 재고 시스템에 의해 보호되고 있습니다. 일반 화물 컨테이너와 기능은 크게 다르지 않지만, 정거장 컨테이너의 경우 규모가 상당한 탓에 함선 화물실에 적재가 불가능합니다. 주로 정거장에 설치되며 귀중품을 보관하는 용도로 사용됩니다.",
+    "ru": "Это станционный контейнер. Он оборудован защищённым паролем замком безопасности и компьютеризированным контролем инвентаря. По конструкции он похож на грузовой контейнер, но слишком велик для грузового отсека корабля, поэтому он используется под складские нужды только на станции.",
+    "zh": "这是一具空间站集装箱。它安装了由密码保护的安全锁装置和电脑化的存货审查系统。尽管空间站集装箱的构造与其他货物集装箱的构造很相似，但是由于空间站集装箱非常大，根本无法装载到飞船上，所以只能在空间站里用于储存和货物管理。"
+  },
+  "graphicID": 2091,
+  "groupID": 448,
+  "iconID": 1171,
+  "marketGroupID": 1658,
+  "mass": 3000000.0,
   "name": {
     "de": "Station Container",
     "en": "Station Container",
@@ -10,5 +26,9 @@
     "ru": "Station Container",
     "zh": "空间站集装箱"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 111.0,
+  "sofFactionName": "genericmetal",
   "volume": 2000000.0
 }

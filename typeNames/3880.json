@@ -1,5 +1,16 @@
 {
-  "typeID": 3880,
+  "description": {
+    "de": "Dieses enorme Teil einer aufwändigen Konstruktion lässt Wehmut aufkommen.",
+    "en": "This enormous part of a stellar construct carries a melancholic atmosphere.",
+    "es": "Esta enorme sección de una construcción estelar provoca melancolía.",
+    "fr": "Ce morceau apocalyptique d'une structure stellaire dégage une sorte de mélancolie.",
+    "ja": "巨大な建造物。陰鬱な雰囲気が漂っている。",
+    "ko": "뜯겨져 나간 대형 구조물에서 우울한 분위기가 흐릅니다.",
+    "ru": "Этот огромный фрагмент какого-то космического сооружения нагоняет на вас меланхолию.",
+    "zh": "这块巨大的物体是某个星际建筑的一部分，它萦绕着一种忧郁的氛围。"
+  },
+  "graphicID": 1265,
+  "groupID": 226,
   "name": {
     "de": "Ripped Superstructure",
     "en": "Ripped Superstructure",
@@ -10,5 +21,9 @@
     "ru": "Ripped Superstructure",
     "zh": "破坏的巨型建筑"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 4200.0,
+  "sofFactionName": "debris",
+  "soundID": 20174
 }

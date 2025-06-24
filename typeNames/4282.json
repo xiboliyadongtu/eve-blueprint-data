@@ -1,5 +1,17 @@
 {
-  "typeID": 4282,
+  "description": {
+    "de": "Senkt den Energiespeicherbedarf der Schildbooster und Schildtransportsysteme der Flotte.\n\n\n\nTaktische Netzwerke sind spezielle Kommandosysteme für die Flottenführung, vorgesehen zum Einsatz auf Schlachtkreuzern und Schiffen der gehobenen Kommandoklasse.\n\n\n\nObwohl man normalerweise nur eines dieser Module gleichzeitig verwenden kann, gibt es bestimmte weiterentwickelte Einheiten, die den Gebrauch mehrerer Netzwerke parallel erlauben.\n\n\n\nAnmerkung: Der Flottenbonus wirkt nur, wenn Sie als Flotten-Booster ausgewählt wurden. Dieses Modul kann nicht innerhalb des Kraftfelds einer Sternenbasis aktiviert werden. Der Flottenbonus, der durch dieses Modul bereitgestellt wird, wirkt nicht auf persönliche Boostermodule der Capital-Größe.",
+    "en": "Reduces the capacitor need of the fleet's shield boosters and shield transporters.\r\n\r\nWarfare links are dedicated fleet command systems designed for use on battlecruisers and advanced command class ships.\r\n\r\nWhile only one of these units can normally be operated at any given time, certain advanced units allow the use of multiple systems.\r\n\r\nNotes: The Fleet bonus only works if you are the assigned fleet booster. This module cannot activate inside a starbase forcefield. The Fleet bonus provided by this module does not apply to Capital sized local booster modules.",
+    "es": "Reduce la necesidad del condensador de los potenciadores y transportadores de escudo de la flota.\n\n\n\nLos enlaces de guerra son sistemas de mando de la flota diseñados para usarse en cruceros de combate y naves de mando con tecnología avanzada.\n\n\n\nAunque solo una de estas unidades se puede manejar en cualquier momento, ciertas unidades avanzadas permiten el uso de sistemas múltiples.\n\n\n\nAviso: La bonificación de la flota solo se aplica cuando te nombran potenciador de flota. Este módulo no se puede activar dentro de un campo de fuerza de base estelar. La bonificación de la flota proporcionada por este módulo no se aplica a los módulos de potenciadores locales de tamaño capital.",
+    "fr": "Réduit les besoins énergétiques des boosters et des transporteurs de bouclier de la flotte.\n\n\n\nLes interfaces de commandement sont des systèmes de commandement de flotte réservés aux croiseurs de bataille et aux vaisseaux de commandement avancés.\n\n\n\nOrdinairement limitées à un usage exclusif, certaines unités de commandement avancées autorisent néanmoins l'activation simultanée de plusieurs interfaces.\n\n\n\nRemarque : vous devez impérativement être {[character]player.gender -> \"promu\", \"promue\"} au rang de booster de flotte pour que le bonus de flotte soit opérant. Ce module ne peut pas être activé à l'intérieur du champ de force d'une base stellaire. Le bonus de flotte accordé par ce module ne s'applique pas aux boosters locaux de taille capitale.",
+    "ja": "フリートのシールドブースターおよびシールドトランスポーターのキャパシタ消費量を削減する。艦隊支援システムは、フリート指揮を補佐するシステムであり、巡洋戦艦や高性能指揮型巡洋戦艦に搭載できる。通常は1基を常時稼働させておくのが限界だが、特定の高性能ユニットと組み合わせれば、複数タイプを同時に稼働させることも可能である。備考: フリートボーナスは、フリートブースターに任命されている場合にのみ有効。このモジュールはスターベースのフォースフィールド内では有効化できない。このモジュールのフリートボーナスはキャピタルサイズのローカルブースターモジュールには適用されない。",
+    "ko": "함대원의 실드 부스터와 실드 트랜스포터의 캐패시터 사용량이 감소합니다. <br><br>전장 링크는 함대 지휘 시스템 전용 모듈로, 배틀크루저 및 상급 커맨드쉽에 장착하기 위해 제작된 장비입니다. <br><br>일반적으로 한 개의 모듈만이 가동 가능하지만 특정 고급 모듈들은 여러 개를 동시에 가동할 수 있습니다. <br><br>참고: 함대 보너스는 함대 부스터로 지정되어야만 사용할 수 있습니다. 이 모듈은 스타베이스 포스필드 내에서 활성화할 수 없습니다. 이 모듈이 제공하는 함대 보너스는 캐피탈급 기초 부스터모듈에 적용되지 않습니다.",
+    "ru": "Снижает потребление энергии накопителя бортовыми и дистанционными системами накачки силового поля, используемыми всеми кораблями флота.\n\n\n\nCистемы управления боем разработаны специально для управления флотом, используются на линейных крейсерах и кораблях специализированных проектов соответствующего предназначения.\n\n\n\nОбычно на борту корабля допускается установка лишь одного такого модуля, однако корабли некоторых проектов способны одновременно держать включенными несколько подобных систем.\n\n\n\nПримечание: действие этого модификатора распространяется на флот только в том случае, если вы назначены начштаба флота (Fleet Booster). Модуль невозможно включить в пределах силового поля ПОСа. Действие этого модификатора на флот не распространяется на установки накачки силового поля КБТ-класса.",
+    "zh": "降低舰队的护盾回充增量器和护盾传输装备的电容消耗。\n\n\n\n作战网络是专业的舰队命令系统，专为战列巡洋舰和高级指挥舰船而设计。\n\n\n\n通常在同一时间只允许一个此类设备运作，不过某些高级单位允许多系统并行。\n\n\n\n注意：只有当你被指定为舰队加成官时，舰队加成才有效。这个装备不能在母星力场内使用。此装备提供的舰队加成不适用于旗舰级自身护盾回充增量器装备。"
+  },
+  "groupID": 316,
+  "iconID": 2858,
+  "metaGroupID": 2,
   "name": {
     "de": "Siege Warfare Link - Shield Efficiency II",
     "en": "Siege Warfare Link - Shield Efficiency II",
@@ -10,5 +22,8 @@
     "ru": "Siege Warfare Link - Shield Efficiency II",
     "zh": "会战作战网络—护盾效率 II"
   },
+  "portionSize": 1,
+  "published": false,
+  "variationParentTypeID": 22228,
   "volume": 60.0
 }

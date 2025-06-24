@@ -1,5 +1,21 @@
 {
-  "typeID": 45591,
+  "capacity": 300.0,
+  "description": {
+    "de": "Die Konstrukteure der Sebiestor orientierten sich am Abwehrsystem einiger Talocan-Bauten, unter den entdeckten Ruinen aus alter Zeit, als sie Schildbooster-Verstärkungssysteme mit den Errungenschaften der Sleeper-Technologie verbessern sollten. In einigen seltenen Fällen verbanden die Talocan die Methoden der Sleeper harmonisch mit ihren eigenen, als sie ihre Gebäude mit Schildsystemen ausstatteten. Vor allem der erste Verstärkungs-Knotenpunkt für Schildbooster aus der neuen Produktionslinie basierte auf dieser besonderen Kombination.",
+    "en": "When confronted with the challenge of adapting Sleeper designs to produce shield boost amplification systems, Caldari engineers turned to the defense systems used by certain Talocan structures that had also been found in a few ancient ruins. In some rare cases, the shielding systems on Talocan facilities were constructed using a harmony of Sleeper and Talocan designs. The first successful production of a shield boost amplification node drew heavily upon early study of this particular combination.",
+    "es": "Cuando se enfrentaron al desafío de adaptar los diseños sleepers para producir sistemas de amplificación de potenciadores de escudo, los ingenieros caldari recurrieron a los sistemas de defensa utilizados por ciertas estructuras talocanas que también se habían encontrado entre algunas ruinas antiguas. En algunos casos aislados, los sistemas de blindaje en los centros de Talocan se construyeron utilizando una armonía de diseños sleepers y talocanos. La primera producción con éxito de un nodo de amplificación de potenciador de escudo se basó en gran medida en el estudio inicial de esta combinación particular.",
+    "fr": "Lorsqu'ils durent adapter les modèles sleeper pour produire des systèmes d'amplification de booster de bouclier, les ingénieurs caldari se tournèrent vers les systèmes de défense utilisés par certaines structures talocan également présentes dans les ruines antiques. À de rares occasions, les systèmes de bouclier des installations talocan furent construits à partir des modèles sleeper et talocan. La première production de nœuds d'amplification de booster de bouclier s'inspira des observations initiales de cette combinaison particulière.",
+    "ja": "シールドブースト増幅システム開発のため、スリーパーの設計の適用という課題に直面すると、カルダリの技術者たちは新たな古代遺跡で発見されたとあるタロカンの建造物に使われていた防衛システムを調査した。タロカンの施設のシールドシステムは、スリーパーの技術とタロカンの技術を組み合わせて作られていることが稀にあった。シールドブースト増幅ノードの製造に成功したのは、この組み合わせについての初期研究によるところが大きい。",
+    "ko": "실드 부스트 증폭 시스템을 개발하던 칼다리 엔지니어들은 슬리퍼 설계 적용에 고전하다 고대 유적에서 발견된 탈로칸 방어 시스템으로 시선을 돌렸습니다. 탈로칸 구조물 중 일부는 슬리퍼와 탈로칸의 설계 방식이 적절히 혼용된 방어시스템이 구축되어 있었습니다. 이러한 설계방식을 차용한 끝에 실드 부스트 증진 노드의 첫 개발이 성공적으로 이루어졌습니다.",
+    "ru": "Столкнувшись с необходимоcтью адаптировать технологии Спящих для производства усилителей накачки щитов, калдарские инженеры обратились к системам защиты, встроенным в определённые талоканские сооружения, найденные в древних руинах. В некоторых случаях генераторы щитов в талоканских сооружениях строились на основе сочетания талоканских технологий и наработок Спящих.. Именно это сочетание стало краеугольным камнем первого успешного проекта подсистемы накачки щитов.",
+    "zh": "当科研人员开始研究如何将冬眠者技术运用到护盾增强放大系统上的时候，加达里工程师转向研究一些塔洛迦建筑所采用的防御系统，这些防御系统也是在那些远古废墟中所发现的遗迹。在一些个别的案例中，塔洛迦的防御系统采用了一种介于冬眠者和塔洛迦技术之间的设计。最初被成功研发出来的护盾增强放大节点在很大程度上是基于对这些个别案例的研究的成果之上的。"
+  },
+  "graphicID": 21757,
+  "groupID": 954,
+  "iconID": 3631,
+  "marketGroupID": 1127,
+  "mass": 1400000.0,
+  "metaGroupID": 14,
   "name": {
     "de": "Tengu Defensive - Amplification Node",
     "en": "Tengu Defensive - Amplification Node",
@@ -10,5 +26,101 @@
     "ru": "Tengu Defensive - Amplification Node",
     "zh": "金鹏防御 - 放大节点"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "sofFactionName": "caldaribase",
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "<b><u>Zusätzliche Basiswerte</b></u>",
+          "en": "<b><u>Additional Base Stats</b></u>",
+          "es": "<b><u>Estadísticas básicas adicionales</b></u>",
+          "fr": "<b><u>Stats de base supplémentaires</b></u>",
+          "ja": "<b><u>追加ベース統計</b></u>",
+          "ko": "<b><u>추가 기본 능력치</b></u>",
+          "ru": "<b><u>Кроме того:</b></u>",
+          "zh": "<b><u>附加基础数值</b></u>"
+        },
+        "importance": 1
+      },
+      {
+        "bonusText": {
+          "de": "+3 Mid Slots, +1 Low Slot",
+          "en": "+3 Mid Slots, +1 Low Slot",
+          "es": "+ 3 ranuras intermedias, +1 ranura inferior",
+          "fr": "+3 Emplacements intermédiaires, +1 Emplacement inférieur",
+          "ja": "ミッドスロット+3、ロースロット+1",
+          "ko": "미드 슬롯 +3, 로우 슬롯 +1",
+          "ru": "+3 разъёма средней мощности, +1 разъём малой мощности",
+          "zh": "中槽+3，低槽+1"
+        },
+        "importance": 2
+      },
+      {
+        "bonusText": {
+          "de": "+500 Schild-HP, +100 Panzerungs-HP",
+          "en": "+500 Shield HP, +100 Armor HP",
+          "es": "+500 PV de escudo, +100 PV de blindaje",
+          "fr": "+500 PV au bouclier, +100 PV au blindage",
+          "ja": "シールドHP+500、アーマーHP+100",
+          "ko": "실드량 +500, 장갑 내구도 +100",
+          "ru": "+500 единиц прочности щитов, +100 единиц прочности брони",
+          "zh": "护盾值+500，装甲值+100"
+        },
+        "importance": 3
+      },
+      {
+        "bonusText": {
+          "de": "+300 GJ Energiespeicherkapazität",
+          "en": "+300GJ Capacitor Capacity",
+          "es": "+300 GJ de capacidad del condensador",
+          "fr": "Charge de capaciteur +300 GJ",
+          "ja": "キャパシタ容量+300GJ",
+          "ko": "캐패시터 용량 +300 GJ",
+          "ru": "+300 ГДж ёмкости накопителя",
+          "zh": "电容器电容量+300GJ"
+        },
+        "importance": 4
+      }
+    ],
+    "types": {
+      "30544": [
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf die Effektivität von <a href=showinfo:3416>Schildboostern</a>",
+            "en": "bonus to <a href=showinfo:3416>Shield Booster</a> effectiveness",
+            "es": "de bonificación a la efectividad del <a href=showinfo:3416>potenciador de escudo</a>.",
+            "fr": "de bonus à l'efficacité du <a href=showinfo:3416>Booster de bouclier</a>",
+            "ja": "<a href=showinfo:3416>シールドブースター</a>の効果が増大",
+            "ko": "<a href=showinfo:3416>실드 부스터</a> 효과 증가",
+            "ru": "повышается производительность <a href=showinfo:3416>установок накачки щитов</a>",
+            "zh": "<a href=showinfo:3416>护盾回充增量器</a>效果加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf den Nutzen der Überhitzung von <a href=showinfo:3416>Schildboostern</a>",
+            "en": "bonus to the benefits of overheating <a href=showinfo:3416>Shield Boosters</a>",
+            "es": "de bonificación a los beneficios de sobrecalentar los <a href=showinfo:3416>potenciadores de escudo</a>.",
+            "fr": "de bonus aux avantages de la surchauffe des <a href=showinfo:3416>Boosters de bouclier</a>",
+            "ja": "オーバーヒートした<a href=showinfo:3416>シールドブースター</a>の恩恵にボーナス",
+            "ko": "<a href=showinfo:3416>실드 부스터</a> 과부하 시 보너스 효과 증가",
+            "ru": "усиливается влияние перегрузки на параметры <a href=showinfo:3416>установок накачки щитов</a>",
+            "zh": "<a href=showinfo:3416>护盾回充增量器</a>过载效果加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 45589,
   "volume": 40.0
 }

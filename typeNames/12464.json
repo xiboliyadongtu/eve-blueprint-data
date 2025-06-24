@@ -1,5 +1,18 @@
 {
-  "typeID": 12464,
+  "capacity": 120.0,
+  "description": {
+    "de": "Das ist ein Söldnerschlachtschiff. Diese Schiffe fliegen in der Regel an der Spitze von Flottenverbänden und beherbergen den kommandierenden Offizier. Nur die größeren Fraktionen oder die größten Corporations können es sich leisten, einen Overlord anzuheuern.\r\n\r\nBedrohungsstufe: Tödlich",
+    "en": "This is a mercenary battleship, usually deployed at the head of a fleet of ships, and harboring their leader.  Only the major factions or biggest corporations in Eve can afford to hire Overlords.  Threat level: Deadly",
+    "es": "Acorazado mercenario que suele desplegarse a la cabeza de una flota de naves y que alberga a su líder. Solo las facciones principales y las grandes corporaciones de EVE pueden permitirse contratar a señores supremos. Nivel de amenaza: letal.",
+    "fr": "Il s'agit d'un cuirassé mercenaire menant généralement une flotte de vaisseaux et abritant son chef.  Seules les grandes factions ou les plus importantes corporations d'Eve peuvent disposer de chefs suprêmes.  Niveau de menace : mortel",
+    "ja": "フリート隊の先頭に配備されることが多い傭兵戦艦で、リーダーを乗せている。巨大な勢力やコーポレーションでなければ、オーバーロードを雇うだけの資金は捻出できない。危険度:致命的",
+    "ko": "함대 최전방에 배치되는 용병 배틀쉽으로 용병대장이 타고 있습니다. 오버로드를 고용할 자금력을 보유한 자들은 뉴에덴 내 주요 팩션이나 메가코퍼레이션들 뿐 입니다. 위험도: 치명적",
+    "ru": "Это линейный корабль наёмников; они обычно развёртываются во главе флотилии и несут на борту своего лидера. Только крупные фракции и самые большие корпорации могут позволить себе нанять эти корабли. Уровень опасности: смертельный",
+    "zh": "这是一艘雇佣兵战列舰，通常是舰队的指挥，保护其首领。只有EVE中主要的势力或是最强大的军团才能雇得起大君王。威胁等级：致命的"
+  },
+  "graphicID": 335,
+  "groupID": 816,
+  "mass": 19000000.0,
   "name": {
     "de": "Mercenary Overlord",
     "en": "Mercenary Overlord",
@@ -10,5 +23,10 @@
     "ru": "Mercenary Overlord",
     "zh": "雇佣兵 大君王"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 500.0,
+  "sofFactionName": "angelbase",
   "volume": 19000000.0
 }

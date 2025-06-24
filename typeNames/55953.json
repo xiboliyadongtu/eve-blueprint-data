@@ -1,5 +1,16 @@
 {
-  "typeID": 55953,
+  "description": {
+    "de": "Flottenaufklärer sind das Gegenstück zu Covert-Ops-Fregatten in Form eines Kreuzers. Sie sind nicht so robust wie Kampfaufklärer, erfüllen ihren Zweck jedoch ausgezeichnet durch ihre Covert-Ops-Tarnmodule und die Möglichkeit, Anziehungsfelder für die Verstärkung durch Capital-Schiffe zu kreieren. Entwickler: Ishukone Die meisten gegenwärtig bei Ishukone vom Fließband laufenden Schiffe werden dem Ruf des Herstellers gerecht: Sie besitzen hervorragende Qualitäten im Langstreckenbereich und Schildsysteme, die in ihrer Stärke unerreicht sind.",
+    "en": "Force recon ships are the cruiser-class equivalent of covert ops frigates. While not as resilient as combat recon ships, they are nonetheless able to do their job as reconnaissance vessels very effectively, due in no small part to their ability to interface with covert ops cloaking devices and set up cynosural fields for incoming capital ships.\r\n\r\nDeveloper: Ishukone\r\n\r\nMost of the recent designs off their assembly line have provided for a combination that the Ishukone name is becoming known for: great long-range capabilities and shield systems unmatched anywhere else.",
+    "es": "Las naves de reconocimiento auxiliares son el equivalente de clase crucero de las fragatas de operaciones encubiertas. Aunque no son tan resistentes como las naves de combate, cumplen su función con eficacia gracias a su interacción con dispositivos de camuflaje y la posibilidad de generar campos cinosurales contra naves capitales.\n\nDesarrollo: Ishukone.\n\nLa mayoría de los últimos diseños de su cadena de montaje han mantenido una combinación por la que el nombre de Ishukone se está haciendo conocido: altas capacidades de largo alcance y sistemas de escudo sin igual.",
+    "fr": "Les vaisseaux de reconnaissance furtifs sont l'équivalent des frégates des opérations secrètes pour la classe des croiseurs. Bien que n'étant pas aussi robustes que les vaisseaux de reconnaissance et combat, ils remplissent très efficacement leurs missions de reconnaissance, en partie grâce à leur capacité à se coupler avec les dispositifs de camouflage d'opérations secrètes et à mettre en place des champs cynosuraux pour les vaisseaux capitaux en approche. Concepteur : Ishukone Une grande partie des vaisseaux qui sortent de leur chaîne d'assemblage disposent des deux traits pour lesquels Ishukone est renommée : une capacité de ciblage longue portée et des systèmes de boucliers inégalés.",
+    "ja": "軍事偵察船は、光学迷彩フリゲートに相当する巡洋艦級の船である。戦闘偵察艦ほど頑丈ではないが、偵察艦として極めて効率的に任務を遂行できる。これは少なからず、各種光学迷彩型遮蔽装置を使用する能力、そして訪れる主力艦のためにサイノシュラルフィールドを展開できる能力に負うところが大きい。\n\n開発元：イシュコネ\n\n最近イシュコネが生産している設計の大半は、同社の名を世に知らしめるきっかけとなった強力な長距離射程機能と、他社の追随を許さない高性能シールドシステムの組み合わせを基幹としている。",
+    "ko": "포스 리콘 크루저는 코버트 옵스 프리깃의 크루저 버전입니다. 컴뱃 리콘 크루저만큼 단단하진 않지만 매우 효과적인 정찰함선입니다. 코버트 옵스 클로킹 장치를 이용하여 캐피탈 함선을 위한 사이노슈럴 필드를 생성할 수 있습니다.<br><br>개발사: 이슈콘<br><br>훌륭한 장거리 교전 능력과 타의 추종을 불허하는 실드 시스템의 조합을 갖춘 이슈콘의 최신 함선들 덕분에 개발사의 명성은 드높아지고 있습니다.",
+    "ru": "Фактически, тяжёлые диверсионные корабли — это крейсеры с возможностями диверсионных фрегатов. И пускай они не так прочны и выносливы, как боевые дозорные крейсеры, они всё же отлично справляются с разведкой, во многом благодаря возможности использовать всережимные системы маскировки и приводные маяки для кораблей большого тоннажа. Производитель: «Ишукон». Производственный принцип, заключающийся в эффективном комбинировании убойных орудий дальнего боя и высокомощных щитов, стал по-настоящему знаковым для корпорации «Ишукон» и нашёл применение в большинстве её недавних разработок.",
+    "zh": "力场侦察舰是隐秘护卫舰的巡洋舰级别版本。虽然生存能力不如战斗侦察舰，但力场侦察舰同样能高效行使侦察飞船的职能，这其中很大一部分原因就是：它们能使用隐秘行动隐形装置，并且能为即将跳入的旗舰创建诱导力场。开发商：异株湖集团生产线的最新产品结合了正逐渐成为该公司招牌的特性：强大的远程能力和无与伦比的护盾系统。"
+  },
+  "graphicID": 11863,
+  "groupID": 226,
   "name": {
     "de": "Caldari Falcon Cruiser",
     "en": "Caldari Falcon Cruiser",
@@ -10,5 +21,9 @@
     "ru": "Caldari Falcon Cruiser",
     "zh": "加达里战隼级巡洋舰"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 175.0,
+  "sofFactionName": "ishukone"
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 76199,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieses Forschungslabor hat einen temporären Schildverstärkungsmodus aktiviert, der es vor feindlichen Schiffen in der Nähe schützt. Wenn Sie alle feindlichen Schiffe in der Nähe zerstören, können Sie seine Verstärkung vermutlich aussitzen, es zerstören, sobald es verwundbar wird, und dann seine geheimen Schiffswerfer-Daten bergen.",
+    "en": "This research laboratory appears to have activated a temporary shield reinforcement mode that protects it from the nearby hostile vessels.\r\n\r\nIf you destroy any hostile ships nearby you can probably wait out its short reinforcement period, destroy it once it becomes vulnerable, and then retrieve any Shipcaster-related secrets it contains.",
+    "es": "Este laboratorio de investigación parece haber activado un modo de refuerzo de escudo temporal que lo protege de las naves hostiles cercanas.\n\nSi destruyes las naves hostiles cercanas, probablemente puedas esperar a que se agote su breve periodo de refuerzo, destruirlo una vez que se vuelva vulnerable y recuperar los secretos relacionados con los lanzadores interestelares que contenga.",
+    "fr": "Ce laboratoire de recherche semble avoir activé un mode de renforcement du bouclier qui le préserve temporairement des vaisseaux hostiles à proximité. Si vous détruisez les vaisseaux ennemis aux alentours, vous pourrez sûrement simplement attendre la fin du renforcement pour détruire le bouclier lorsqu'il deviendra vulnérable et récupérer les secrets sur les lance-vaisseaux stockés à l'intérieur.",
+    "ja": "この研究施設は、付近の敵艦からの攻撃に対して有効な一時的なシールド補強モードを起動しているようだ。\n\n付近の敵艦を撃破することができれば、短い補強時間が終了するのを待った後で、脆弱となった研究所を破壊して内部にある艦艇キャスターに関する極秘の研究データを入手できるだろう。",
+    "ko": "연구 시설에 외부 공격을 대비한 실드 강화 모듈이 설치되어 있으며 현재 활성화된 상태입니다.<br><br>주변의 적대적인 함선을 격퇴하고 대기하면 연구 시설의 실드 강화 모듈의 작동이 멈출 것입니다. 그때 시설을 습격해 함선전송기 극비 연구 데이터를 회수하십시오.",
+    "ru": "Похоже, эта исследовательская лаборатория активировала временный режим укрепления щитов. Он защищает её от атак ближайших вражеских кораблей. Если вы уничтожите любые вражеские корабли, которые находятся поблизости, дождётесь окончания короткого периода укрепления и атакуете лабораторию, когда она станет уязвимой, то сможете извлечь из обломков секретные данные о межзвёздных кораблепускателях.",
+    "zh": "这个研究实验室似乎启动了一种临时护盾强化模式，可以保护它免受附近敌对舰船的伤害。如果你摧毁了附近的敌对船只，你可以稍作等待，一旦短暂的强化期结束，就可以趁其容易受到伤害时摧毁它。之后就可以取回其中包含的舰船弹射台相关机密信息。"
+  },
+  "graphicID": 25718,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Reinforced Gallente Research Lab",
     "en": "Reinforced Gallente Research Lab",
@@ -10,5 +23,10 @@
     "ru": "Reinforced Gallente Research Lab",
     "zh": "强化的盖伦特研究实验室"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 64,
+  "radius": 24000.0,
+  "sofFactionName": "gallentenavy",
   "volume": 100000000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 2902,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieses Beschleunigungstor wurde gesperrt und ist von der Öffentlichkeit nicht nutzbar.",
+    "en": "This acceleration gate has been locked down and is not usable by the general public.",
+    "es": "Este portal de aceleración ha sido bloqueado y el público general no puede usarlo.",
+    "fr": "Ce portail d'accélération est verrouillé et n'est pas utilisable par tout le monde.",
+    "ja": "閉鎖されているアクセラレーションゲート。一般の人々は使用できない。",
+    "ko": "해당 액셀레이션 게이트는 잠겨있는 상태로 일반 사용은 금지되어 있습니다.",
+    "ru": "Эти врата ускорения заперты и недоступны для публики.",
+    "zh": "这个加速门已被关闭，普通人无法使用。"
+  },
+  "graphicID": 2341,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Deactivated Acceleration Gate",
     "en": "Deactivated Acceleration Gate",
@@ -10,5 +23,10 @@
     "ru": "Deactivated Acceleration Gate",
     "zh": "失效的加速轨道"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 4553.0,
+  "sofFactionName": "genericmetal",
   "volume": 100000000.0
 }

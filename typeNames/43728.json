@@ -1,5 +1,18 @@
 {
-  "typeID": 43728,
+  "basePrice": 200000000.0,
+  "description": {
+    "de": "Fertigkeit beim Einsatz von Titan-Phänomengeneratormodulen. Erhöht die Dauer der Effekte von Titan-Phänomengeneratoren um 10 % pro Stufe.",
+    "en": "Proficiency in operation of Titan Phenomena Generator modules. Increases the duration of Titan Phenomena Generator effects by 10% per level.",
+    "es": "Competencia en el manejo de los módulos generadores de fenómenos titán. Aumenta la duración de los efectos del generador de fenómenos titán un 10 % por nivel.",
+    "fr": "Contrôle opérationnel des générateurs de phénomènes pour titan. Augmente de 10 % par niveau les effets des générateurs de phénomènes pour titan.",
+    "ja": "タイタンフェノメナジェネレーターモジュールの操作能力。スキルレベル上昇ごとにタイタンフェノメナジェネレーターの効果持続時間が10%増加。",
+    "ko": "타이탄 특이점 생성기를 효율적으로 운용하기 위한 스킬입니다. 매 레벨마다 타이탄 특이점 생성기 효과 10% 증가",
+    "ru": "Навык эксплуатации генераторов аномалий пространства-времени (Titan Phenomena Generator). За каждую степень освоения навыка: на 10% увеличивается длительность действия эффектов аномалий пространства-времени.",
+    "zh": "精通操作泰坦现象发生器装备的技能。每升一级，泰坦现象发生器效果的持续时间增加10%。"
+  },
+  "groupID": 258,
+  "iconID": 33,
+  "marketGroupID": 370,
   "name": {
     "de": "Spatial Phenomena Generation",
     "en": "Spatial Phenomena Generation",
@@ -10,5 +23,7 @@
     "ru": "Создание пространственных феноменов",
     "zh": "空间现象发生器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,16 @@
 {
-  "typeID": 45008,
+  "description": {
+    "de": "Ein massiver Brocken des Mondes wurde von einer Raffinerie in der Nähe abgetrennt und wird nun mit Traktorstrahlen zum Abbauort gezogen.\n\nWenn der Brocken diese Position nahe bei der Raffinerie erreicht, können die Besitzer der Struktur diesen in kleinere Asteroiden aufbrechen. An diesen können Kapselpiloten direkt Ressourcen abbauen.",
+    "en": "This massive piece of rock has been blasted free of the moon's surface by the nearby refinery structure and is being slowly pulled towards a harvesting position with powerful tractor beams.\r\nWhen this chunk reaches a position near the refinery, the structure owners will be able to break it apart into smaller asteroids that may be mined by capsuleer-piloted ships.",
+    "es": "La refinería cercana ha desprendido este enorme pedazo de roca de la superficie lunar, que está siendo arrastrado lentamente mediante potentes rayos tractores hasta una zona de recolección.\n\nCuando se coloque cerca de la refinería, los propietarios de la estructura lo dividirán en asteroides más pequeños para que los capsulistas puedan extraer mineral desde la nave.",
+    "fr": "Cet énorme morceau de roche a été dégagé de la surface de la lune par la structure de raffinerie avoisinante et est lentement véhiculé en direction d'un point de collecte à l'aide de puissants rayons tracteurs. Lorsque ce morceau arrivera à proximité de la raffinerie, les propriétaires de la structure pourront l'éclater en de plus petits astéroïdes dont l'extraction sera assurée par des vaisseaux pilotés par des capsuliers.",
+    "ja": "この巨大な岩塊は付近の精錬ストラクチャによって衛星の表面から吹き飛ばされ、強力なトラクタービームでゆっくりと採掘位置まで引っぱられている。\r\nこの岩塊が精錬所近くに到達すると、ストラクチャ所有者はこれをカプセラ搭乗艦船で採掘可能なサイズのアステロイドになるまで割ることができる。",
+    "ko": "위성으로부터 갈라져 나온 암석 파편으로 광물 추출을 위해 정제소 방향으로 끌어오고 있습니다. <br><br>위성 파편이 정제소 근처에 도착하게 되면 소유자의 명령에 따라 파편을 보다 작은 소행성으로 분해할 수 있습니다. 채굴선을 통해 소행성을 채굴할 수 있습니다.",
+    "ru": "Перерабатывающий комплекс извлёк этот огромный кусок породы с поверхности спутника и медленно выводит его на рабочую позицию мощным лучом гравитатора.\n\nКогда извлечённая порода окажется рядом с перерабатывающим комплексом, владельцы сооружения смогут разбить её на мелкие астероиды, из которых затем пилоты-капсулёры смогут добыть полезные ресурсы.",
+    "zh": "这一大块岩石已经被附近的精炼厂建筑从卫星的表面上轰下来，正被强力的牵引光束缓慢地拉向开采位置。\n\n一旦这一区块到达了精炼厂附近的位置，建筑控制者就可以将其轰成小块的岩石，供克隆飞行员驾驶舰船进行开采。"
+  },
+  "graphicID": 21802,
+  "groupID": 1940,
   "name": {
     "de": "Moon Chunk",
     "en": "Moon Chunk",
@@ -10,5 +21,9 @@
     "ru": "Порода спутника",
     "zh": "卫星区块"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 30000.0,
+  "sofFactionName": "moon",
+  "soundID": 20799
 }

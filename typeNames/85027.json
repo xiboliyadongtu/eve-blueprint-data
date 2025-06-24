@@ -1,5 +1,20 @@
 {
-  "typeID": 85027,
+  "basePrice": 11250.0,
+  "capacity": 12.0,
+  "description": {
+    "de": "Bewirkt eine Soforteinspeisung von Energie in den Energiespeicher.",
+    "en": "Provides a quick injection of power into the capacitor.",
+    "es": "Inyectan rápidamente potencia en el condensador.",
+    "fr": "Permet de faire bénéficier le capaciteur d'un surcroît de puissance temporaire.",
+    "ja": "キャパシタを急速充電することができる。",
+    "ko": "캐패시터에 추가 전력을 주입합니다.",
+    "ru": "Обеспечивает быстрое введение небольшого заряда энергии в накопитель.",
+    "zh": "给电容器快速地注入能量。"
+  },
+  "groupID": 76,
+  "iconID": 1031,
+  "marketGroupID": 699,
+  "metaGroupID": 5,
   "name": {
     "de": "Usaras' Modified Small Capacitor Booster",
     "en": "Usaras' Modified Small Capacitor Booster",
@@ -10,5 +25,8 @@
     "ru": "Usaras' Modified Small Capacitor Booster",
     "zh": "尤萨哈改良小型电容注电器"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 3566,
   "volume": 5.0
 }

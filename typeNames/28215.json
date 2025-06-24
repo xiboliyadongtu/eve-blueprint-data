@@ -1,5 +1,20 @@
 {
-  "typeID": 28215,
+  "basePrice": 140000.0,
+  "description": {
+    "de": "Wächterdrohne",
+    "en": "Sentry Drone",
+    "es": "Dron centinela",
+    "fr": "Drone sentinelle.",
+    "ja": "セントリードローン",
+    "ko": "센트리 드론",
+    "ru": "Стационарный боевой дрон",
+    "zh": "岗哨无人机"
+  },
+  "graphicID": 20268,
+  "groupID": 100,
+  "marketGroupID": 911,
+  "mass": 12000.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Bouncer II",
     "en": "Bouncer II",
@@ -10,5 +25,11 @@
     "ru": "Bouncer II",
     "zh": "保镖 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 35.0,
+  "sofFactionName": "boundlesscreation",
+  "variationParentTypeID": 23563,
   "volume": 25.0
 }

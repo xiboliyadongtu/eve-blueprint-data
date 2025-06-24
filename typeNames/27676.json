@@ -1,5 +1,19 @@
 {
-  "typeID": 27676,
+  "basePrice": 15000000.0,
+  "capacity": 20000.0,
+  "description": {
+    "de": "Dient zur Reparatur von Strukturen, die angegriffen werden",
+    "en": "Used to repair structures under attack",
+    "es": "Sirve para reparar estructuras que están siendo atacadas.",
+    "fr": "Permet de réparer les structures subissant une attaque.",
+    "ja": "攻撃を受けている建造物を修理する。",
+    "ko": "공격 받고 있는 구조물을 수리합니다.",
+    "ru": "Используется для ремонта сооружений, атакуемых противников.",
+    "zh": "用于维修受损的结构"
+  },
+  "graphicID": 2598,
+  "groupID": 840,
+  "mass": 200000000.0,
   "name": {
     "de": "Structure Repair Array",
     "en": "Structure Repair Array",
@@ -10,5 +24,9 @@
     "ru": "Structure Repair Array",
     "zh": "结构维修阵列"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 1000.0,
+  "sofFactionName": "genericmetal",
   "volume": 4000.0
 }

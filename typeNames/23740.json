@@ -1,5 +1,17 @@
 {
-  "typeID": 23740,
+  "description": {
+    "de": "Ein elektronisches Gerät, das in Zielsystemen und Nachführcomputern verwendet wird. Dieses Modell wurde speziell für die Außendienstmitarbeiter des FON im Algintal-System entwickelt.",
+    "en": "An electrical device used in targeting systems and tracking computers. This model has been custom-built for use by FON's operatives in the Algintal system.",
+    "es": "Este dispositivo eléctrico se usa en sistemas de adquisición de objetivos y ordenadores de rastreo. Este modelo se ha desarrollado específicamente para que lo usen los operativos de los ADLN en el sistema Algintal.",
+    "fr": "Dispositif électrique utilisé dans les systèmes de ciblage et les ordinateurs de poursuite. Ce modèle a été personnalisé pour pouvoir être utilisé par les opérateurs de l'association FON dans le système Algintal.",
+    "ja": "ターゲットシステムやトラッキングコンピュータに使用される電子機器。アルギンタル星系で活動するFON工作員向けのカスタム仕様になっている。",
+    "ko": "타겟팅 및 유도 시스템에 사용되는 전자장치입니다. 엘진탈 성좌의 네이쳐 조합원들을 위해 주문 제작된 제품입니다.",
+    "ru": "Электрическое устройство, применяемое в системах наведения. Эта модель создана специально для оперативников ФОНа, работающих в системе Алгинтал.",
+    "zh": "用于锁定系统和跟踪计算机的电气设备。这个型号是为阿根塔星系的FON特工特别定制的。"
+  },
+  "groupID": 526,
+  "iconID": 1361,
+  "mass": 2500.0,
   "name": {
     "de": "Custom-built Guidance System",
     "en": "Custom-built Guidance System",
@@ -10,5 +22,7 @@
     "ru": "Custom-built Guidance System",
     "zh": "定制的制导系统"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 2.0
 }

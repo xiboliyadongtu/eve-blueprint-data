@@ -1,5 +1,18 @@
 {
-  "typeID": 3510,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese Station repariert die Sansha-Flotten vor Ort, wenn diese unter Beschuss kommen. Obwohl sie fast vollständig netzunabhängig ist, wird die Freund- oder Feindidentifizierung durch die Logistik-Kontrollarrays gesteuert, die von der Station getrennt sind, um das Risiko von unerlaubter Übernahme zu minimieren.",
+    "en": "This station repairs local Sansha fleets as they come under fire. Although almost entirely self-contained, friend or foe identification is handled by the Logistics Control Arrays, which are separated from the station to minimize risk of unauthorized overrides.",
+    "es": "Esta estación repara las flotas sanshas mientras son atacadas. Aunque funciona con bastante autonomía, la plataforma de control logístico —separada para minimizar el riesgo de anulaciones no autorizadas— es la responsable de identificar amigos o enemigos.",
+    "fr": "Cette station répare les vaisseaux endommagés de la flotte sansha. Bien qu'elle soit presque entièrement autonome, l'identification des alliés et des ennemis est effectuée par les modules de contrôle logistique qui sont séparés de la station, afin de minimiser le risque d'annulation non autorisée.",
+    "ja": "このステーションでは、攻撃を受けた現地のサンシャフリートのリペアを行う。ほぼ全体が自律型だが、敵/味方の区別は不正な乗っ取りのリスクを最小限に抑えるため、ステーションから離れたロジスティックコントロール施設が行う。",
+    "ko": "폭격으로 피해를 입은 산샤 네이션의 함대를 정비하는 정거장입니다. 대부분의 시설을 자체적으로 갖추고 있으나, 승인되지 않은 가동 중지가 일어날 위험성을 최소화하고자 정거장에서 떨어져있는 보급 통제시설에서 별도로 피아식별을 진행하고 있습니다.",
+    "ru": "Эта станция чинит корабли Sansha, получившие повреждения в бою. Хотя станция практически полностью автономна, за распознавание «свой-чужой» отвечают отдельные узлы ремонтного контроля; это разделение призвано уменьшить риск проникновения посторонних лиц в систему.",
+    "zh": "该空间站负责为当地遭受攻击的萨沙舰队进行维修与补给。尽管该空间站的整合度非常高，其敌友判别功能还是交给了一个独立的后勤控制阵列，以尽量降低被非法闯入的可能性。"
+  },
+  "graphicID": 2364,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Sansha Remote Logistics Station",
     "en": "Sansha Remote Logistics Station",
@@ -10,5 +23,10 @@
     "ru": "Sansha Remote Logistics Station",
     "zh": "萨沙边远后勤空间站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 6000.0,
+  "sofFactionName": "sanshabase",
   "volume": 100000000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 33091,
+  "basePrice": 100000.0,
+  "description": {
+    "de": "Fertigkeit, Zerstörer der Amarr zu bedienen.",
+    "en": "Skill at operating Amarr destroyers.",
+    "es": "Habilidad en el manejo de destructores amarrianos.",
+    "fr": "Compétence liée au pilotage des destroyers amarr.",
+    "ja": "アマー駆逐艦を操作するためのスキル。",
+    "ko": "아마르 디스트로이어 운용을 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на эсминцах производства Амаррской Империи.",
+    "zh": "操作艾玛驱逐舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Amarr Destroyer",
     "en": "Amarr Destroyer",
@@ -10,5 +23,8 @@
     "ru": "Амаррские эсминцы",
     "zh": "艾玛驱逐舰操作"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

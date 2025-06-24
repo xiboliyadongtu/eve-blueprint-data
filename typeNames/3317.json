@@ -1,5 +1,18 @@
 {
-  "typeID": 3317,
+  "basePrice": 250000.0,
+  "description": {
+    "de": "Verbessertes Verständnis der Physik der Schwerelosigkeit.\n\n5% Bonus auf die Präzionsabfallreichweite von Geschütztürmen je Skillstufe.",
+    "en": "Advanced understanding of zero-G physics. 5% bonus per skill level to weapon turret accuracy falloff.",
+    "es": "Comprensión avanzada de la física en gravedad cero. 5 % de bonificación por nivel de habilidad al alcance efectivo de las torretas.",
+    "fr": "Compréhension avancée de la physique à zéro gravité. Augmente de 5 % par niveau de compétence la distance de perte de précision des tourelles.",
+    "ja": "無重力物理学に関する高度な理解力。スキルレベル上昇ごとにタレット兵器の射程範囲に 5% のボーナス。",
+    "ko": "무중력 법칙에 대한 심층적인 이해를 습득합니다. 매 레벨마다 터렛 유효사거리 5% 증가",
+    "ru": "Изучение этого навыка гарантирует глубокое понимание принципов физики невесомости. За каждую степень освоения навыка: на 5% повышается добавочная дальность действия баллистических, лазерных и гибридных орудий.",
+    "zh": "理解零重力物理学的高级技能。每升一级，武器炮台的失准范围提升5%。"
+  },
+  "groupID": 255,
+  "iconID": 33,
+  "marketGroupID": 364,
   "name": {
     "de": "Trajectory Analysis",
     "en": "Trajectory Analysis",
@@ -10,5 +23,7 @@
     "ru": "Анализ траекторий",
     "zh": "弹道分析学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

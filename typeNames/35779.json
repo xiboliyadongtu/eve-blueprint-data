@@ -1,5 +1,70 @@
 {
-  "typeID": 35779,
+  "basePrice": 11900000.0,
+  "capacity": 150.0,
+  "description": {
+    "de": "Die Imp ist ein fortschrittlicher Abfangjäger von Sansha's Nation, der für den Gebrauch durch fortschrittlichen Parteien der gefürchteten Sammelstaffeln von True Power bestimmt war. Sie ist in der Lage, selbst die stärksten Blockaden zu durchbrechen, Nachzüglern nachzustellen oder einfach Schiffe festzuhalten, bis die Haupt-Sammelstreitkräfte eintreffen. Die Imp ist ein weiteres Beispiel dafür, wie Sansha's Nation bereits existierende fortschrittliche Hardware verbessert. Genau wie andere Ausrüstung von Sansha's Nation, konnten ein paar sichergestellte Proben der Imp in gewerblichen Händen für die Benutzung durch Kapselpiloten angepasst werden.",
+    "en": "The Imp is an advanced Sansha's Nation Interceptor intended for use by forward parties of True Power's feared harvester squadrons. Able to penetrate even the most intense blockades, hunt down stragglers or simply hold ships while waiting for the main harvester force to arrive, the Imp is yet another case of Sansha's Nation technology improving on existing advanced hardware. Like most Sansha's Nation equipment, the few captured examples of the Imp have proven to be readily adaptable for capsuleer use.",
+    "es": "La Imp es un interceptor avanzado de la Nación Sansha, diseñado para las ir en las avanzadillas de los temibles escuadrones de cosechadoras de True Power. La Imp, capaz de romper los bloqueos más duros, dar caza a los rezagados o simplemente contener a otras naves mientras aguarda la llegada de la fuerza cosechadora principal, pone de manifiesto una vez más las mejoras que introduce la tecnología de la Nación Sansha en cualquier equipo avanzado. Las contadas unidades de la Imp capturadas exhiben una gran adaptabilidad a los capsulistas, como ocurre con casi toda la producción de la Nación Sansha.",
+    "fr": "L'Imp est un intercepteur avancé de la Sansha's Nation, destiné aux escadrons collecteurs redoutés de True Power. Capable de forcer les blocus les plus hermétiques, traquer les retardataires ou simplement immobiliser des vaisseaux pour les livrer à l'armée collectrice principale, l'Imp incarne dans toute son ingéniosité l'aptitude de la Sansha's Nation à optimiser les équipements électroniques avancés existants. Comme la majeure partie de l'équipement sansha, les Imp interceptés exploitent une technologie transférable aux capsuliers.",
+    "ja": "サンシャ国の最新型迎撃機インプは、トゥルーパワーの強力な採掘部隊の急進派が使用するために作られた。極めて堅牢なバリケード突破する、敗残兵を追跡・捕獲する、主力の採掘部隊が到着するまで複数の敵艦を足止めすることなどが可能なインプは、サンシャ国が既存の最新型ハードウェアの技術を向上させて生まれた成果の一つである。捕獲できた少数のインプを調査した結果、ほとんどのサンシャ国の装置と同様、カプセラの使用にも対応できるようになっていることが明らかになった。",
+    "ko": "산샤 네이션의 첨단 인터셉터로 트루 파워 하베스팅 편대의 주력함으로 설계되었습니다. 임프는 적 봉쇄를 뚫을 수 있는 강력한 돌파력과 탁월한 추적 능력, 그리고 본대 합류 전까지 적을 묶어놓을 수 있는 굳건한 저지력을 보유하고 있습니다. 임프는 기존 하드웨어를 개선하는 산샤 네이션의 개발 방향에 따라 설계된 기체입니다. 산샤 네이션의 다른 장비와 마찬가지로 임프 또한 캡슐리어 운용이 가능한 기체입니다.",
+    "ru": "Перехватчик типа «Имп» разработан «Нацией Санши» и используется элитными отрядами «сборщиков» корпорации «Истинная сила» «Импы» могут прорывать самые тяжёлые блокады, охотиться на отстающих, задерживать их до прибытия основного флота «сборщиков»: они представляют собой ещё один пример того, как технологические решения «Нации Санши» доводят существующие концепты до совершенства. Как и прочая техника саншистов, захваченные образцы перехватчиков типа «Имп» могут быть переоборудованы для использования капсулёрами.",
+    "zh": "小鬼级是一艘高级萨沙截击舰，供旗下实力派那些令人闻风丧胆的收割小队使用。它能穿透最严密的封锁线，猎杀落单舰船，或是隐藏起来按兵不动，等待收割大队的到来。小鬼级是萨沙对现有科技进行改良的又一范例。与多数萨沙装备类似，几艘被缴获的小鬼级已经证明了它完全可以供克隆飞行员使用。"
+  },
+  "factionID": 500019,
+  "graphicID": 21156,
+  "groupID": 831,
+  "marketGroupID": 1932,
+  "mass": 900000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      150,
+      50,
+      85,
+      93,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      150,
+      50,
+      85,
+      93,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      150,
+      50,
+      85,
+      93,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      150,
+      50,
+      85,
+      93,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      150,
+      50,
+      85,
+      118,
+      93,
+      94
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Imp",
     "en": "Imp",
@@ -9,6 +74,160 @@
     "ko": "임프",
     "ru": "Imp",
     "zh": "小鬼级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 59.0,
+  "sofFactionName": "tournament-xiii",
+  "soundID": 20118,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 60.0,
+        "bonusText": {
+          "de": "Bonus auf die Warpgeschwindigkeit und Warpbeschleunigung",
+          "en": "bonus to warp speed and warp acceleration",
+          "es": "de bonificación a la velocidad y la aceleración de warp.",
+          "fr": "de bonus à la vitesse de warp et à l'accélération de warp",
+          "ja": "ワープ速度とワープ加速度が上昇",
+          "ko": "워프 속도 및 워프 가속도 증가",
+          "ru": "бонус к разгону и скорости хода (в варп-режиме)",
+          "zh": "跃迁速度和跃迁加速加成"
+        },
+        "importance": 5,
+        "unitID": 105
+      },
+      {
+        "bonus": 80.0,
+        "bonusText": {
+          "de": "Reduktion der Aktivierungskosten von <a href=showinfo:3435>Antriebsblockern</a>",
+          "en": "reduction in <a href=showinfo:3435>Propulsion Jamming</a> systems activation cost",
+          "es": "de reducción en el coste de activación de los sistemas <a href=showinfo:3435>perturbadores de propulsión</a>.",
+          "fr": "réduction du coût d'activation des systèmes de <a href=showinfo:3435>brouillage de propulsion</a>",
+          "ja": "<a href=showinfo:3435>推進力ジャミング</a>システムの起動コストが軽減",
+          "ko": "<a href=showinfo:3435>추진기 재밍</a>시스템 활성화 비용 감소",
+          "ru": "сокращается потребление энергии <a href=showinfo:3435>средствами ограничения подвижности кораблей</a>",
+          "zh": "<a href=showinfo:3435>推进抑制</a>系统启动消耗加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 80.0,
+        "bonusText": {
+          "de": "Reduktion in der Reaktivierungsverzögerung des <a href=showinfo:58919>Anti-Unterbrechers</a> und max. Erfassungsreichweitenabzug",
+          "en": "reduction in <a href=showinfo:58919>Interdiction Nullifier</a> reactivation delay and max lock range penalty",
+          "es": "de reducción de la demora de reactivación y de penalización al alcance de fijación máximo del <a href=showinfo:58919>anulador de interdicción</a>.",
+          "fr": "de réduction au délai de réactivation de la <a href=showinfo:58919>contremesure d’interdiction</a> et à la pénalité de portée de verrouillage maximale",
+          "ja": "<a href=showinfo:58919>インターディクション無効化</a>の再起動遅延と最大ロック射程のペナルティ減少",
+          "ko": "<a href=showinfo:58919>인터딕션 무효화 장치</a> 재활성화 대기시간 및 최대 타겟팅 거리 페널티 감소",
+          "ru": "уменьшение задержки повторного включения <a href=showinfo:58919>нейтрализатора варп-заграждений</a> и штрафа к максимальной дальности захвата цели",
+          "zh": "<a href=showinfo:58919>拦截失效装置</a>重启延迟和最大锁定距离惩罚降低"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonus": 100.0,
+        "bonusText": {
+          "de": "Bonus auf die Dauer des <a href=showinfo:58919>Anti-Unterbrechers</a>",
+          "en": "bonus to <a href=showinfo:58919>Interdiction Nullifier</a> duration",
+          "es": "de bonificación a la duración del <a href=showinfo:58919>anulador de interdicción</a>.",
+          "fr": "de bonus à la durée de la <a href=showinfo:58919>contremesure d’interdiction</a>",
+          "ja": "<a href=showinfo:58919>インターディクション無効化</a>の持続時間にボーナス",
+          "ko": "<a href=showinfo:58919>인터딕션 무효화 장치</a> 지속시간 보너스",
+          "ru": "бонус к длительности действия <a href=showinfo:58919>нейтрализатора варп-заграждений</a>",
+          "zh": "<a href=showinfo:58919>拦截失效装置</a>持续时间加成"
+        },
+        "importance": 4,
+        "unitID": 105
+      },
+      {
+        "bonus": 250.0,
+        "bonusText": {
+          "de": "Bonus auf den Schaden von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:3303>Small Energy Turret</a> damage",
+          "es": "de bonificación al daño de la <a href=showinfo:3303>torreta de energía pequeña</a>.",
+          "fr": "de bonus aux dégâts de la <a href=showinfo:3303>petite tourelle à énergie</a>",
+          "ja": "<a href=showinfo:3303>小型エネルギータレット</a>のダメージが増加",
+          "ko": "<a href=showinfo:3303>소형 에너지 터렛</a> 피해량 증가",
+          "ru": "увеличивается урон <a href=showinfo:3303>малых лазерных орудий</a>",
+          "zh": "<a href=showinfo:3303>小型能量炮台</a>伤害加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3330": [
+        {
+          "bonus": 20.0,
+          "bonusText": {
+            "de": "Bonus auf den Geschwindigkeitsbonus von <a href=showinfo:3450>Nachbrennern</a>",
+            "en": "bonus to <a href=showinfo:3450>Afterburner</a> velocity bonus",
+            "es": "de bonificación a la velocidad del <a href=showinfo:3450>posquemador</a>.",
+            "fr": "bonus au bonus de vitesse du <a href=showinfo:3450>système de post-combustion</a>",
+            "ja": "<a href=showinfo:3450>アフターバーナー</a>の速度ボーナスが上昇。",
+            "ko": "<a href=showinfo:3450>애프터버너</a> 속도 보너스 증가",
+            "ru": "повышается влияние <a href=showinfo:3450>форсажных ускорителей</a> на скорость полёта корабля",
+            "zh": "<a href=showinfo:3450>加力燃烧器</a>速度增益加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ],
+      "3331": [
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Nachführungsgeschwindigkeit von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3303>Small Energy Turret</a> tracking speed",
+            "es": "de bonificación a la velocidad de rastreo de la <a href=showinfo:3303>torreta de energía pequeña</a>.",
+            "fr": "de bonus à la vitesse de poursuite de la <a href=showinfo:3303>petite tourelle à énergie</a>",
+            "ja": "<a href=showinfo:3303>小型エネルギータレット</a>の追跡速度が上昇",
+            "ko": "<a href=showinfo:3303>소형 에너지 터렛</a> 트래킹 속도 증가",
+            "ru": "повышается скорость наводки на цель <a href=showinfo:3303>малых лазерных орудий</a>",
+            "zh": "<a href=showinfo:3303>小型能量炮台</a>跟踪速度加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ],
+      "12092": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf die optimale Reichweite von <a href=showinfo:447>Warpunterbrechern</a> und <a href=showinfo:3242>Warpstörern</a>",
+            "en": "bonus to <a href=showinfo:447>Warp Scrambler</a> and <a href=showinfo:3242>Warp Disruptor</a> optimal range",
+            "es": "de bonificación al alcance óptimo del <a href=showinfo:447>distorsionador de warp</a> y el <a href=showinfo:3242>disruptor de warp</a>.",
+            "fr": "bonus à la portée optimale de <a href=showinfo:447>l'inhibiteur de warp</a>, et du <a href=showinfo:3242>perturbateur de warp</a>",
+            "ja": "<a href=showinfo:447>ワープスクランブラー</a>と<a href=showinfo:3242>ワープ妨害器</a>の最適射程距離が拡大",
+            "ko": "<a href=showinfo:447>워프 스크램블러</a> 및 <a href=showinfo:3242>워프 디스럽터</a> 최적사거리 증가",
+            "ru": "увеличивается оптимальная дальность действия <a href=showinfo:447>варп-глушителей</a> и <a href=showinfo:3242>варп-подавителей</a>",
+            "zh": "<a href=showinfo:447>跃迁扰频器</a>和<a href=showinfo:3242>跃迁扰断器</a>有效距离加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 15.0,
+          "bonusText": {
+            "de": "Reduktion des <a href=showinfo:3454>Mikrowarpantrieb</a>-Signaturradius",
+            "en": "reduction in <a href=showinfo:3454>Microwarpdrive</a> signature radius penalty",
+            "es": "de reducción de la penalización de radio de la señal del <a href=showinfo:3454>motor de microwarp</a>.",
+            "fr": "de réduction à la pénalité de rayon de signature du <a href=showinfo:3454>propulseur de microwarp</a>",
+            "ja": "<a href=showinfo:3454>マイクロワープドライブ</a>のシグネチャ半径ペナルティが軽減",
+            "ko": "<a href=showinfo:3454>마이크로 워프 드라이브</a> 시그니처 반경 페널티 감소",
+            "ru": "уменьшается влияние <a href=showinfo:3454>микроварп-ускорителей</a> на размер сигнатуры корабля",
+            "zh": "<a href=showinfo:3454>微型跃迁推进器</a>的信号半径惩罚加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 28600.0
 }

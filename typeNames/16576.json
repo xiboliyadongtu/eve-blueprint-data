@@ -1,5 +1,18 @@
 {
-  "typeID": 16576,
+  "capacity": 315.0,
+  "description": {
+    "de": "Ein Geheimagent, der für den Thukker-Stamm arbeitet. Er fliegt, aufgrund seines verdeckten Auftrages in der Khanid Navy, ein Khanid-Schiff.\r\n\r\nBedrohungsstufe: Hoch",
+    "en": "A secret agent working for the Thukker Tribe - flies a Khanid ship due to his undercover job as a pilot within the Khanid Navy.   Threat level: High",
+    "es": "Agente de los servicios secretos que trabaja para la tribu Thukker. Pilota una nave de los Khanid en su misión encubierta como piloto de la Armada Khanid. Nivel de amenaza: alto.",
+    "fr": "Agent secret travaillant pour la tribu thukker. Il pilote un vaisseau khanid du fait de sa couverture de pilote au sein de la Khanid Navy.   Niveau de menace : élevé",
+    "ja": "サッカー族のエージェントで、クーニッド海軍で潜入調査を行っているため、クーニッドの船を操舵している。危険度:高い",
+    "ko": "터커 부족의 비밀 스파이입니다. 카니드 함대의 파일럿으로 위장하여 첩보 활동을 하고 있습니다. 위험도: 높음",
+    "ru": "Секретный агент, работающий на племя Thukker. Летает на корабле Khanid в связи со своей работой под прикрытием в качестве пилота Флота Khanid.   Уровень опасности: высокий",
+    "zh": "图克尔部落特工，伪装为卡尼迪海军飞行员，驾驶一艘卡尼迪飞船。威胁等级：高"
+  },
+  "graphicID": 1862,
+  "groupID": 818,
+  "mass": 2870000.0,
   "name": {
     "de": "Oggenon Shafi",
     "en": "Oggenon Shafi",
@@ -10,5 +23,10 @@
     "ru": "Oggenon Shafi",
     "zh": "欧基隆·沙费"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 20.5,
+  "sofFactionName": "khanid",
   "volume": 28700.0
 }

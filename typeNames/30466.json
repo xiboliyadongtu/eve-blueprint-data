@@ -1,5 +1,19 @@
 {
-  "typeID": 30466,
+  "basePrice": 400000.0,
+  "description": {
+    "de": "Kombiniert mit anderen Komponenten eines Raumschiffs wird ein EMI Nexus dazu verwendet, manuelle Kontrolle über zahlreiche elektromechanische Systeme zu ermöglichen, die in ihren Standardeinstellungen entsprechend der zugewiesenen Aufgabe automatisch ablaufen. Im Normalfall fungiert der EMI Nexus als eine Leitung zwischen dem Kapselpiloten und seinem Schiff und kann als Oberfläche eingesetzt werden, über die automatische elektromechanische Systeme wie z.B. eine zentrale Systemsteuerung (Central System Controller) bedient werden. Andere einfachere Aufgaben wie die Aktivierung eines Schiffsmoduls hängen auch häufig von diesen Komponenten ab.",
+    "en": "When integrated into a starship with other components, an EMI Nexus is used to facilitate manual control over numerous electromechanical systems which, by default, run in an automated manner according to their programmed roles. Typically, the EMI Nexus acts as a conduit between a capsuleer and their ship, serving as an interface through which they can operate normally automated electromechanical systems, such as a Central System Controller. Other more simple tasks, such as the activation of a ship's modules, also frequently rely on these components.",
+    "es": "Cuando se integra en una nave estelar con otros componentes, se utiliza el nexo EMI para facilitar el control manual de numerosos sistemas electromecánicos que, por defecto, funcionan de forma automatizada según sus funciones programadas. Normalmente, el nexo EMI actúa como un conducto entre un capsulista y su nave, sirviendo como una interfaz a través de la cual pueden operar sistemas electromecánicos normalmente automatizados, como un controlador del sistema central. Otras tareas más sencillas, como la activación de los módulos de una nave, también suelen depender de estos componentes.",
+    "fr": "Lorsqu'elle est intégrée à un vaisseau spatial avec d'autres composants, une interface électromécanique Nexus sert à faciliter le contrôle manuel des nombreux systèmes électromécaniques qui, par défaut, fonctionnent de manière automatisée conformément à leur programmation. Généralement, une interface électromécanique Nexus agit comme un conduit entre un capsulier et son vaisseau, grâce auquel le capsulier peut utiliser normalement les systèmes électromécaniques automatisés, tels que le système de contrôle central. D'autres tâches plus simples, comme l'activation des modules d'un vaisseau, se reposent aussi souvent sur ces composants.",
+    "ja": "EMIネクサスを他の部品と共に艦船に組み込むと、基本的にプログラムされ自動で作動しているだけの様々な電子機械システムを、手動で制御できる範囲が広くなる。通常、EMIネクサスがカプセラと艦船をつなぐ管として機能し、インターフェイスの役目を果たすことで、カプセラはセントラルシステムコントローラなどの通常は自動化されている電子機械システムを操作できるようになる。船のモジュールを起動するなど、それ以外のもっと単純な機能も、この部品を利用していることが多い。",
+    "ko": "함선에 전자기계 인터페이스(EMI) 넥서스를 장착하면 각종 전자기계 시스템에 대한 수동 조작이 활성화됩니다. EMI 넥서스는 캡슐리어와 함선 사이의 가두교 역할을 하는 장치로 중앙제어장치와 같은 자동화 시스템을 수동으로 조작할 수 있게끔 합니다. 그 외에도 모듈 활성화와 같은 간단한 작업 또한 가능합니다.",
+    "ru": "При интеграции с другими компонентами космического корабля, EMI Nexus применяется для упрощения ручного управления многочисленными электромеханическими системами, которые по умолчанию работают в автоматическом режиме в соответствии со своими запрограммированными ролями. Обычно, EMI Nexus действует как проводник между пилотом капсулы и его кораблем, и является интерфейсом для управления электромеханическими системами, которые обычно работают в автоматическом режиме, такие как Центральный системный контроллер. Другие более простые задачи, такие как активация модулей корабля, так же часто зависят от этих компонентов.",
+    "zh": "在进行星际航行的舰船中，机电接口节点将各种电子设备的程序指令以数字化的方式传达到各个舰船模块中，再在那里予以执行。一般来说，机电接口节点指的就是在逃生舱中的克隆飞行员同舰船进行信息沟通的接口设备，这个设备实际上就是控制所有舰载机电设施的一个中央控制单元。其他很多的简单命令，比如启动某一个舰船模块也通常是通过这个组件来完成的。"
+  },
+  "groupID": 964,
+  "iconID": 3716,
+  "marketGroupID": 1147,
+  "mass": 1.0,
   "name": {
     "de": "Electromechanical Interface Nexus",
     "en": "Electromechanical Interface Nexus",
@@ -10,5 +24,7 @@
     "ru": "Electromechanical Interface Nexus",
     "zh": "机械电子接口节点"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 10.0
 }

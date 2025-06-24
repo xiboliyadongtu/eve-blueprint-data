@@ -1,5 +1,16 @@
 {
-  "typeID": 6571,
+  "description": {
+    "de": "Scannt die Zusammensetzung von Asteroiden, Eis und Gaswolken.",
+    "en": "Scans the composition of asteroids, ice and gas clouds.",
+    "es": "Escanea la composición de los asteroides, el hielo y las nubes de gas.",
+    "fr": "Scanne la composition des astéroïdes, et des nuages de glace et de gaz.",
+    "ja": "アステロイド、アイスおよびガス雲の組成をスキャンする。",
+    "ko": "소행성, 아이스, 가스 성운의 성분을 스캔합니다.",
+    "ru": "Модуль, применяемый для получения данных о составе астероидов, обломков льда, газовых облаков.",
+    "zh": "扫描小行星，冰矿以及气云的矿物构成。"
+  },
+  "groupID": 49,
+  "iconID": 2732,
   "name": {
     "de": "Rock-Scanning Sensor Array I",
     "en": "Rock-Scanning Sensor Array I",
@@ -10,5 +21,8 @@
     "ru": "Rock-Scanning Sensor Array I",
     "zh": "岩石扫描感应器阵列 I"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
   "volume": 5.0
 }

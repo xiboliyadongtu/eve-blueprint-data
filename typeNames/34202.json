@@ -1,5 +1,18 @@
 {
-  "typeID": 34202,
+  "description": {
+    "de": "Dynamische Richtlinien für Erfindungsaufträge, wodurch sich Ihre Erfolgschancen und die Anzahl der Durchläufe beträchtlich erhöhen und die Materialeffizienzkosten nur geringfügig ansteigen.<br><br>Wahrscheinlichkeitsmultiplikator: +80%<br>Max.-Durchlauf-Modifikator: +4<br>Materialeffizienz-Modifikator: -1<br>Zeiteffizienz-Modifikator: +4",
+    "en": "Dynamic guidelines for invention jobs, increasing the chance of success and number of runs greatly at a slight cost to material efficiency.<br><br>Probability Multiplier: +80% <br>Max. Run Modifier: +4 <br>Material Efficiency Modifier: -1 <br>Time Efficiency Modifier: +4",
+    "es": "Directrices dinámicas para los trabajos de invención que aumentan en gran medida las posibilidades de éxito y el número de ejecuciones a un pequeño coste de la eficiencia del material.<br><br>Multiplicador de probabilidad: +80 %. <br>Modificador de ejecución máxima: +4. <br>Modificador de eficiencia de materiales: -1. <br>Modificador de eficiencia temporal: +4.",
+    "fr": "Instructions dynamiques pour les travaux d'invention, augmentant considérablement les chances de réussite ainsi que le nombre de cycles, mais au léger détriment de l'efficience du matériel.<br><br>Multiplicateur de probabilité : + +80% <br>Modificateur de cycles max. : +4 <br>Modificateur de productivité matérielle : -1 <br>Modificateur de gain de temps : +4",
+    "ja": "発明ジョブに関する最先端のガイドライン。成功率と生産可能回数が大幅に増えるが、生産効率はわずかに落ちる。<br><br>確率乗数：+80% <br>最大回数乗数：+4 <br>生産効率乗数：+1 <br>時間効率乗数：+4",
+    "ko": "인벤션 작업에 관한 가이드라인으로 인벤션 성공 확률과 실행횟수가 증가하는 대신 자원효율성이 소폭 하락합니다.<br><br>확률 증감: +80%<br>최대 실행 횟수 증감: +4 <br>자원효율성 증감: -1 <br>시간효율성 증감: +4",
+    "ru": "Динамические инструкции для модернизационных работ, повышающие шансы на успех и количество прогонов проекта за счет материальных затрат.<br><br>Вероятность успеха проекта: +80% <br>Число прогонов проекта: +4 <br>Экономия материалов при производстве: -1 <br>Экономия времени производства: +4",
+    "zh": "对发明项目的动态指导，只要稍微牺牲材料效率，便可大幅提升流程数量和成功率。<br><br>机率调节值：+80%<br> 最大流程调节值：+4<br>材料效率调节值：-1<br>时间效率调节值：+4"
+  },
+  "groupID": 1304,
+  "iconID": 2885,
+  "marketGroupID": 1873,
+  "mass": 1.0,
   "name": {
     "de": "Attainment Decryptor",
     "en": "Attainment Decryptor",
@@ -10,5 +23,8 @@
     "ru": "Attainment Decryptor",
     "zh": "获取装置解码器"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.1
 }

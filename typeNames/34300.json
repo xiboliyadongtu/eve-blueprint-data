@@ -1,5 +1,18 @@
 {
-  "typeID": 34300,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieses Lagerdepot wurde grob behandelt, aber Sie sollten nach wie vor unbeschädigte Wertgegenstände darin finden, wenn Sie Ihr Analysegerät gekonnt einsetzen.",
+    "en": "This storage depot has seen some rough treatment, but you should still find something of value intact, if you employ your analyzer with skill.",
+    "es": "Este almacén está muy trotado, pero, con ayuda del analizador, deberías ser capaz de encontrar algún artículo de valor intacto.",
+    "fr": "Ce dépôt de stockage a été sacrément maltraité, mais vous pourriez encore y trouver quelque chose de valeur en bon état, si vous utilisez votre analyseur correctement.",
+    "ja": "乱暴な扱いをいくらか受けたようだ。しかしスキルを持ってアナライザーを使用することで、十分価値あるものが見つかるだろう。",
+    "ko": "이 저장고는 상당히 거칠게 다뤄졌던 것 같습니다. 그러나 분석기를 적합하게 사용한다면 가치있는 물품을 얻을 수 있을 것 같습니다.",
+    "ru": "Этот склад серьёзно пострадал; тем не менее у вас есть шансы найти что-то ценное, оставшееся в целости, если вы умеете обращаться с комплексом анализа артефактов.",
+    "zh": "这个储藏库遭受了重创，但如果熟练使用你的分析仪对其分析仍然可能找到有价值的东西。"
+  },
+  "graphicID": 2301,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Dented Storage Depot",
     "en": "Dented Storage Depot",
@@ -10,5 +23,11 @@
     "ru": "Dented Storage Depot",
     "zh": "被挤压变形的储藏库"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 600.0,
+  "sofFactionName": "genericmetal",
+  "soundID": 11,
   "volume": 27500.0
 }

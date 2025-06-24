@@ -1,5 +1,18 @@
 {
-  "typeID": 4535,
+  "description": {
+    "de": "Dieses Modul verwendet Nano-Reparaturbots, um Schäden an der Panzerung des Schiffes zu beheben.",
+    "en": "This module uses nano-assemblers to repair damage done to the armor of the ship.",
+    "es": "Este módulo utiliza nanoensambladores para reparar el daño infligido al blindaje de la nave.",
+    "fr": "Module utilisant des nano-assembleurs pour réparer les dégâts infligés au blindage du vaisseau.",
+    "ja": "ナノアセンブラーを使用して、アーマーの損傷を修復する。",
+    "ko": "나노 어셈블러를 사용하여 함선의 손상된 장갑을 수리하는 모듈입니다.",
+    "ru": "Этот модуль используется для ремонта повреждений брони при помощи наносборщиков.",
+    "zh": "该装备使用纳米级装配器来修复对舰船装甲造成的损伤。"
+  },
+  "groupID": 62,
+  "iconID": 80,
+  "mass": 500.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Small Automated Carapace Restoration",
     "en": "Small Automated Carapace Restoration",
@@ -10,5 +23,8 @@
     "ru": "Small Automated Carapace Restoration",
     "zh": "小型自动外壳复位设备 I"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
   "volume": 5.0
 }

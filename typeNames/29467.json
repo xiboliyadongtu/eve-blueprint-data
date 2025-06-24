@@ -1,5 +1,18 @@
 {
-  "typeID": 29467,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieser Generator versorgt nahegelegene Strukturen mit Energie.",
+    "en": "This generator provides power to nearby structures.",
+    "es": "Este generador proporciona potencia a las estructuras cercanas.",
+    "fr": "Ce générateur fournit de l'énergie aux structures alentours.",
+    "ja": "近隣施設に動力を供給するジェネレータ。",
+    "ko": "근처 시설들의 필요한 전력을 생산하는 발전기입니다.",
+    "ru": "Этот генератор обеспечивает энергией близлежащие строения.",
+    "zh": "这个发电器为周围的建筑提供能源。"
+  },
+  "graphicID": 1684,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Power Generator 250k",
     "en": "Power Generator 250k",
@@ -10,5 +23,9 @@
     "ru": "Power Generator 250k",
     "zh": "发电器250k"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 8000.0,
+  "sofFactionName": "genericbase",
   "volume": 100000000.0
 }

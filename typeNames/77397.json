@@ -1,5 +1,18 @@
 {
-  "typeID": 77397,
+  "capacity": 27500.0,
+  "description": {
+    "de": "Die Überreste eines zerstörten Schiffswerfer-Signalfeuer-Konstrukteurs.",
+    "en": "The remains of a destroyed Shipcaster Beacon Constructor.",
+    "es": "Los restos de un constructor de balizas de lanzadores interestelares destruido.",
+    "fr": "Les vestiges d'un constructeur de balise de lance-vaisseaux détruit.",
+    "ja": "破壊された艦艇キャスタービーコン・コンストラクターの残骸。",
+    "ko": "파괴된 함선전송기 비컨 제조기의 잔해입니다.",
+    "ru": "Обломки уничтоженного конструктора маяка кораблепускателя.",
+    "zh": "已摧毁的舰船弹射台信标建造器残骸。"
+  },
+  "graphicID": 3115,
+  "groupID": 186,
+  "mass": 10000.0,
   "name": {
     "de": "Shipcaster Beacon Constructor Wreck",
     "en": "Shipcaster Beacon Constructor Wreck",
@@ -10,5 +23,9 @@
     "ru": "Shipcaster Beacon Constructor Wreck",
     "zh": "舰船弹射台信标建造器残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 28116,
+  "basePrice": 701515024.0,
+  "description": {
+    "de": "Ein mittleres Upgrade für das Herstellungspotential von Gallente-Außenposten. Verringert die Herstellungszeit für alle Capital-Konstruktionskomponenten um 40%.",
+    "en": "An intermediate upgrade to Gallente Outpost manufacturing capabilities. Increases the manufacturing time reduction on all Capital Construction Components to 40%.",
+    "es": "Mejora intermedia de las capacidades de fabricación en puestos avanzados gallentes. Aumenta hasta el 40 % la reducción del tiempo de fabricación de todos los componentes de construcción de naves capitales.",
+    "fr": "Amélioration intermédiaire permettant d'augmenter les capacités de production d'un avant-poste gallente. Réduit jusqu'à 40 % le temps de production de tous les composants de construction capitaux.",
+    "ja": "ガレンテアウトポストの製造力を高めるやや高度なアップグレード。キャピタル建設資材の製造時間が40%短縮される。",
+    "ko": "갈란테 전초기지의 제조 기능을 개선하기 위한 중급 업그레이드입니다. 캐피탈급 함선 부품 제조 시간 40% 감소",
+    "ru": "Промежуточный модуль расширения производственных мощностей станции Gallente. Уменьшает время производства всех компонентов кораблей большого тоннажа на 40%.",
+    "zh": "针对盖伦特哨站生产能力的中级升级方案。所有旗舰级建筑结构模块生产时间减少40%。"
+  },
+  "graphicID": 3306,
+  "groupID": 872,
+  "iconID": 3304,
   "name": {
     "de": "Gallente Outpost Factory",
     "en": "Gallente Outpost Factory",
@@ -10,5 +23,10 @@
     "ru": "Gallente Outpost Factory",
     "zh": "盖伦特哨站车间"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 19079.0,
+  "sofFactionName": "gallentebase",
   "volume": 1.0
 }

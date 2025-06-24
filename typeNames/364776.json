@@ -1,5 +1,17 @@
 {
-  "typeID": 364776,
+  "basePrice": 567000.0,
+  "description": {
+    "de": "Grundlegende Kenntnisse über Modulressourcenhandhabung.\n\n5% Abzug auf den CPU-Verbrauch der Fahrzeugschildmodule pro Skillstufe.",
+    "en": "Basic understanding of module resource management.\r\n\r\n5% reduction to CPU usage of vehicle shield modules per level.",
+    "es": "Conocimiento básico de gestión de recursos de módulos.\n\n-5% al coste de CPU de los módulos de escudo por nivel.",
+    "fr": "Notions de base en gestion des ressources des modules.\n\n+5 % de réduction de l'utilisation du CPU des modules de bouclier de véhicule par niveau.",
+    "it": "Comprensione base della gestione del modulo risorse.\n\n-5% all'uso della CPU dei moduli per scudo del veicolo per livello.",
+    "ja": "リソースモジュールを管理する基本的な知識。\n\nレベル上昇ごとに、車両シールドモジュールのCPU使用量が5%節減する。",
+    "ko": "모듈 리소스 관리에 대한 기본적인 이해를 습득합니다. <br><br>매 레벨마다 차량 실드 모듈 CPU 사용량 5% 감소",
+    "ru": "Базовое знание управления энергосберегающим модулем щита.\n\n5% снижение потребления ресурсов ЦПУ модулей щита за каждый уровень.",
+    "zh": "管理装备资源基本知识。每升一级，载具护盾装备的CPU使用率降低5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Ausrüstungsoptimierung: Schild",
     "en": "Shield Fitting Optimization",
@@ -11,5 +23,7 @@
     "ru": "Оптимизация оснащения щита",
     "zh": "护盾装配优化"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

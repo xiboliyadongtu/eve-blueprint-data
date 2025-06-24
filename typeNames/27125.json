@@ -1,5 +1,18 @@
 {
-  "typeID": 27125,
+  "basePrice": 200000.0,
+  "description": {
+    "de": "Ein Neuralinterface-Upgrade, das die Fertigkeiten des Piloten im Umgang mit Stromnetz-Upgrades erhöht.\n\n1% Reduktion des CPU-Bedarfs von Modulen, die die Fertigkeit im Umgang mit Elektronik-Upgrades erfordern",
+    "en": "A neural interface upgrade that boosts the pilot's skill with energy grid upgrades.\r\n\r\n1% reduction in CPU need of modules requiring the Energy Grid Upgrades skill.",
+    "es": "Mejora de interfaz neuronal que potencia la habilidad del piloto con las mejoras del sistema de energía.\n\n1 % de reducción de la necesidad de CPU de los módulos que requieren la habilidad de mejoras de sistema de energía.",
+    "fr": "Amélioration de l'interface neurale portant sur la compétence du pilote liée à l'utilisation des améliorations du réseau d'alimentation.\n\nRéduit de 1 % la charge CPU des modules nécessitant la compétence liée aux améliorations du réseau d'alimentation.",
+    "ja": "神経系インターフェイスのアップグレード。パイロットのエネルギー回路強化スキルを高める。エネルギー回路強化スキルを必要とするモジュールのCPU使用量が1%節減。",
+    "ko": "에너지그리드 업그레이드 스킬을 향상하는 신경 인터페이스 업그레이드입니다. <br><br>에너지그리드 업그레이드 스킬이 필요한 모듈의 CPU 요구치 1% 감소",
+    "ru": "Модуль расширения нейроинтерфейса, улучшающий навыки пилота в области модернизации энергосети.\n\n\n\nСокращение требований к мощности ЦПУ у модулей, для использования которых требуется навык Energy Grid Upgrades, на 1%.",
+    "zh": "一款神经接口升级芯片，可增强飞行员在电容量扩充理论方面的技能。对于那些要求能量栅格升级这一技能的装备，CPU需求量降低1%。"
+  },
+  "groupID": 741,
+  "iconID": 2224,
+  "marketGroupID": 1508,
   "name": {
     "de": "Inherent Implants 'Squire' Energy Grid Upgrades EU-701",
     "en": "Inherent Implants 'Squire' Energy Grid Upgrades EU-701",
@@ -10,5 +23,7 @@
     "ru": "Inherent Implants 'Squire' Energy Grid Upgrades EU-701",
     "zh": "天赋植体 随从 能量栅格提升 EU-701"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 3845,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Diese industrielle Struktur dient als eine Plattform für Lagerhallen und zur Sortierung von Frachtcontainern.",
+    "en": "This industrial structure serves as a platform for warehouses and the sorting of cargo containers.",
+    "es": "Esta estructura industrial sirve de plataforma para almacenes y para la distribución de contenedores de carga.",
+    "fr": "Cette structure industrielle sert de plateforme pour les entrepôts et permet de trier les conteneurs de fret.",
+    "ja": "産業用の建造物。倉庫のプラットフォームやカーゴコンテナの分類場として使用される。",
+    "ko": "컨테이너 적재 및 창고로 사용되는 산업용 시설입니다.",
+    "ru": "Эта постройка промышленного назначения служит платформой для складирования и сортировки грузовых контейнеров.",
+    "zh": "这座工业设施是储藏仓库的平台并用来分类各种货柜。"
+  },
+  "graphicID": 2403,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Amarr Cargo Rig",
     "en": "Amarr Cargo Rig",
@@ -10,5 +23,10 @@
     "ru": "Amarr Cargo Rig",
     "zh": "艾玛货柜装配站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 1255.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

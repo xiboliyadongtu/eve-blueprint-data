@@ -1,5 +1,17 @@
 {
-  "typeID": 356658,
+  "basePrice": 149000.0,
+  "description": {
+    "de": "Skill zur Benutzung von Nova-Messern.\n\n5% Abzug auf die Ladedauer von Nova-Messern pro Skillstufe.",
+    "en": "Skill at handling nova knives.\r\n\r\n5% reduction to nova knife charge time per level.",
+    "es": "Habilidad de manejo de los cuchillos Nova. \n\n-5% al tiempo de recarga de los cuchillos Nova por nivel.",
+    "fr": "Compétence permettant de manipuler les couteaux Nova. \n\n\n\n5% de réduction du temps de charge du couteau Nova par niveau.",
+    "it": "Abilità nel maneggiare coltelli Nova.\n\n5% di riduzione del tempo di ricarica del coltello Nova per livello.",
+    "ja": "ノヴァナイフを扱うスキル。\n\nレベル上昇ごとに、ノヴァナイフのチャージ時間が5%短縮する。",
+    "ko": "노바 나이프 사용을 위한 스킬입니다. <br><br>매 레벨마다 노바 나이프 충전 시간 5% 감소",
+    "ru": "Навык обращения с плазменными ножами.\n\n5% уменьшение времени зарядки плазменных ножей на каждый уровень.",
+    "zh": "使用新星刀的技能。每升一级，新星刀的回充时间缩短5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Bedienung: Nova-Messer",
     "en": "Nova Knife Operation",
@@ -11,5 +23,7 @@
     "ru": "Обращение с плазменными ножами",
     "zh": "新星刀操作"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

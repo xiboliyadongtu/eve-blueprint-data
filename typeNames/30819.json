@@ -1,5 +1,18 @@
 {
-  "typeID": 30819,
+  "capacity": 120.0,
+  "description": {
+    "de": "Die mysteriöse Drohne, die diese ganze Angelegenheit ins Rollen gebracht hat. Die Sensoren zeigen, dass die Drohne aus einem Kohlenstoffgemisch besteht, wie es keines der Imperien verwendet. Ihr stetes Signal klingt über den Hörkanal gleichzeitig wie ein klagender Walgesang und das Rascheln sich bewegender Insekten.",
+    "en": "The mysterious drone that began this whole affair. Sensors show that the drone is comprised of an carbonaceous alloy not used by any of the empires. It continuously gives off a signal that on audio sounds like a mournful whale song with the chattering of insects.",
+    "es": "El misterioso dron que inició todo este asunto. Los sensores indican que el dron está compuesto de una aleación a base de carbono que ninguno de los imperios utiliza. El dron emite continuamente una señal que suena como un canto de ballena triste y el murmullo de los insectos.",
+    "fr": "Le mystérieux drone par qui toute cette affaire a commencé. Les détecteurs indiquent que le drone est composé d'un alliage carboné qui n'est utilisé par aucun des empires. Il émet un signal continu qui ressemble vaguement à un cri mélancolique de baleine mêlé à des bruits d'insectes.",
+    "ja": "全ての始まりとなった謎のドローン。センサーによると、このドローンはどの国でも使われていない炭素合金で作られている。そして、虫たちのお喋りと共に流れる悲しげな鯨の歌のような音に乗せて信号を出し続けている。",
+    "ko": "이 모든 것을 시작한 수상한 드론입니다. 드론을 스캔한 결과 그 어떤 국가에서도 사용하지 않는 탄소질 합금으로 구성되어있다는 점을 알아냈습니다. 끊임없이 전송되는 신호는 애절한 고래의 소리에 곤충들이 우는 소리가 섞인 듯 한 형태로 오디오에서 출력되고 있습니다.",
+    "ru": "Таинственный дрон, заваривший всю эту кашу. Сенсоры показывают, что дрон состоит из углеродистого сплава, не используемого в имперском пространстве. Он постоянно посылает сигнал, звуковое воспроизведение которого похоже на помесь жалобной песни кита со стрекотом цикад.",
+    "zh": "这是引发整个事件的神秘无人机。感应器发现这个无人机的结构材料中采用了碳素合金，这种科技不属于任何一个已知的国家。它不断地发射出的信号在无线电上听起来像是哀嚎。"
+  },
+  "graphicID": 3536,
+  "groupID": 817,
+  "mass": 10900000.0,
   "name": {
     "de": "Mysterious Drone",
     "en": "Mysterious Drone",
@@ -10,5 +23,10 @@
     "ru": "Mysterious Drone",
     "zh": "神秘的无人机"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 150.0,
+  "sofFactionName": "sleeperbase",
+  "soundID": 31,
   "volume": 109000.0
 }

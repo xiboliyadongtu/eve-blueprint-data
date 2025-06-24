@@ -1,5 +1,18 @@
 {
-  "typeID": 53046,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Diese additive Verstärkungseinheit ist Teil des Verteidigungsnetzwerks einer CONCORD-Sternwarte. Die grundlegenden Prinzipien der Feldmanipulation von Triglavia-Überlastungsuntermasten wurden anhand deaktivierter Muster nachgebaut und von CONCORD in einer Struktur eingesetzt, die eigene Kommando- und Kontrollknoten verwendet. Diese Einheit projiziert ein modifizierendes Feld von 5000 m von ihrem zentralen Turm.",
+    "en": "This ancillary fortification unit is part of the defense network of a CONCORD Stellar Observatory. The basic field manipulation principles of Triglavian Overcharge subpylons have been retro-engineered from disabled examples and employed by CONCORD in a structure that uses their own command and control routines.\r\n\r\nThis Unit projects a modifying field out to 5000m from its central spire.",
+    "es": "Esta unidad de fortificación auxiliar forma parte de la red de defensa de un Observatorio Estelar de CONCORD. Los principios básicos de manipulación de campos de los subpilones de sobrecarga triglavianos se han creado imitando ejemplos desactivados y CONCORD los emplea en una estructura que utiliza sus propias rutinas de mando y control.\n\nEsta unidad proyecta un campo modificador a 5000 m desde su aguja central.",
+    "fr": "Cette unité de fortification secondaire fait partie du réseau de défense d'un observatoire stellaire CONCORD. Les principes de manipulation de champ de base des sous-pylônes de surcharge triglavians ont fait l'objet d'une rétro-ingénierie à partir d'exemplaires désactivés, et ont été employés par CONCORD dans une structure qui utilise leurs propres routines de commandes et de contrôles. Cette unité inflige un champ de modification d'un rayon de 5000 m depuis sa flèche centrale.",
+    "ja": "この補助的な要塞化ユニットは、CONCORD恒星観測所の防衛ネットワークの一部である。トリグラビアン・オーバーチャージサブパイロンの基本的なフィールド操作原理は、機能停止したサンプルからレトロエンジニアリングされ、独自の指揮制御ルーチンを使用するストラクチャでCONCORDが採用している。\r\n\nこのユニットは、中央の尖塔から5000mのところに修正フィールドを投影する。",
+    "ko": "CONCORD 천체 관측소의 방어 네트워크를 구성하고 있는 보조 장치입니다. 트리글라비안 과충전 서브파일론의 에너지 필드를 역설계하여 제작되었습니다.<br><br>해당 장치는 중심부로부터 5000m 범위의 필드를 방출합니다.",
+    "ru": "Это второстепенное укрепление является частью защитной сети Звёздных обсерваторий КОНКОРДа. Технология базовых манипуляций с полями перегрузки была получена путём ретроанализа малых триглавских пилонов, после чего инженеры КОНКОРДа смогли внедрить её в собственные защитные сооружения. Центральный шпиль этого устройства проецирует поле модификатора радиусом 5000 м.",
+    "zh": "这个辅助防御单元是统合部星际观测站的防御网络的一部分。从已经失效的类似建筑中逆向工程出的三神裔超载子塔的基础力场操控规则被统合部应用于自己的建筑中，当然，用的也是自己的指令和控制方式。\n\n\n\n它放射出的力场范围为距中心点5000m。"
+  },
+  "graphicID": 24511,
+  "groupID": 319,
+  "mass": 1000.0,
   "name": {
     "de": "CONCORD Observatory Overcharge Unit",
     "en": "CONCORD Observatory Overcharge Unit",
@@ -10,5 +23,9 @@
     "ru": "CONCORD Observatory Overcharge Unit",
     "zh": "统合部观测站超载单元"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 371.0,
+  "sofFactionName": "concordbase",
   "volume": 1000.0
 }

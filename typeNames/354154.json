@@ -1,5 +1,17 @@
 {
-  "typeID": 354154,
+  "basePrice": 14070.0,
+  "description": {
+    "de": "Erhöht die maximale Stärke der Fahrzeugschilde, aber auch die Ladeverzögerung, wenn die Schilde aufgebraucht sind.",
+    "en": "Increases maximum strength of vehicle's shields but increases the shield depleted recharge delay.",
+    "es": "Aumenta la fuerza máxima de los escudos del vehículo, pero también aumenta la demora al recargarse una vez agotado el escudo.",
+    "fr": "Augmente la force maximale des boucliers d'un véhicule, mais augmente le délai de recharge pour bouclier épuisé.",
+    "it": "Aumenta la solidità massima degli scudi di un veicolo, ma aumenta il ritardo di ricarica dello scudo esaurito.",
+    "ja": "車両のシールドの最大強度を増加させるが、シールド枯渇時にシールド枯渇時リチャージ速度が長くなる。",
+    "ko": "차량의 최대 실드량이 증가하지만 실드 고갈 시 재충전 시간이 증가합니다.",
+    "ru": "Увеличивает максимальную прочность щитов транспортного средства, но увеличивает и задержку старта подзарядки истощенного щита.",
+    "zh": "增加载具护盾的最大强度，但在护盾能量耗尽后，充能时间会延长。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Verbesserter leichter Schildextender",
     "en": "Enhanced Light Shield Extender",
@@ -11,5 +23,7 @@
     "ru": "Улучшенный расширитель легкого щита",
     "zh": "增强轻型护盾扩充器"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

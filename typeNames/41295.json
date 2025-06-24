@@ -1,5 +1,21 @@
 {
-  "typeID": 41295,
+  "basePrice": 250000.0,
+  "description": {
+    "de": "XL-Marschflugkörper sind für die Langstreckenbombardierung von Capital-Schiffen und Einrichtungen geeignet. Aufgrund ihrer speziellen Konstruktion können sie nur von Capital-Schiffen eingesetzt werden.\n\nIn Morphitematrizen eingeschlossene Nocxiumatome bilden den verheerenden Gefechtskopf dieser Lenkwaffe. Eine Salve davon kann fast alles vollkommen zerstören, was durchs All schwebt - sei es ein Schiff oder ein Bauwerk.\n\n\n\nEine modifizierte Version der Nova Cruise Missile. Eignet sich besonders für den Beschuss von kleineren Schiffen. Der Treibstoffverbrauch durch Stabilisierungs-Thruster verringert jedoch die maximale Flugzeit.",
+    "en": "XL Cruise Missiles are designed for long range bombardment of capital ships and installations. They are a specialized design usable only by capital ships.\r\nNocxium atoms captured in morphite matrices form this missile's devastating payload. A volley of these is able to completely obliterate almost everything that floats in space, be it vehicle or structure.\r\n\r\nA modified version of the Nova cruise missile. Is great for taking down smaller ships, but fuel use by stabilization thrusters reduces maximum flight time.",
+    "es": "Los misiles de crucero XL están diseñados para el bombardeo a larga distancia de las naves capitales e instalaciones. Su diseño especializado solo permite usarlos en naves capitales.\n\nLa devastadora carga útil de este misil está formada por átomos de nocxium capturados en matrices de morfita. Una salva puede aniquilar casi todo lo que flota en el espacio, sea vehículo o estructura.\n\n\n\nVersión modificada del misil de crucero Nova. Ideal para derribar naves más pequeñas, pero el consumo de combustible de los propulsores estabilizadores reduce el tiempo de vuelo máximo.",
+    "fr": "Les missiles de croisière XL sont destinés au bombardement à longue portée des vaisseaux capitaux et des structures. Réservés aux vaisseaux capitaux.\n\nLa charge explosive de ces missiles dévastateurs est composée d'atomes de noxcium capturés dans des matrices de morphite. Une rafale suffit à anéantir la plupart des vaisseaux et des structures spatiales.\n\n\n\nVersion modifiée du missile de croisière nova. Ce missile est la bête noire des petits vaisseaux, malgré son temps de vol maximum réduit par la consommation de combustible des propulseurs de stabilisation.",
+    "ja": "XLクルーズミサイルは、母艦や軍事施設を長距離から爆撃するのに用いる。特殊な設計のため、母艦でしか使用できない。このミサイルの弾頭はモルファイト鉱石に含まれるノキシウム原子から成っており、高い破壊力を誇る。このミサイルを浴びせれば、艦船であれストラクチャであれ、宙域に浮遊している大抵の物体は破壊できる。改良型ノヴァクルーズミサイル。小型艦の破壊には最適であるが、スタビライザースラスターで燃料を消費するため最大航行時間が減少する。",
+    "ko": "장거리 크루즈 미사일로 캐피탈 함선 및 구조물 파괴에 특화되어 있습니다. 캐피탈급 함선에만 장착이 가능합니다. <br><br>녹시움 원자로 구성되어 막강한 파괴력을 발휘합니다. 우주에 떠다니는 존재라면 무엇이든 파괴할 수 있는 가공할만한 위력을 지녔습니다. <br><br>개량된 노바 크루즈 미사일입니다. 소형 함선을 상대로 매우 효과적이지만 추진기 연료 사용으로 인해 최대 비행시간이 감소합니다.",
+    "ru": "Ракеты дальнего боя сверхбольшой мощности предназначены для обстрела кораблей большого тоннажа и сооружений в космосе на больших расстояниях. Они могут запускаться только с кораблей большого тоннажа.\n\nБоеголовки торпед представляют собой матрицы из морфита, в которые заключены атомы ноксия; они обладают огромной разрушительной силой. Залп торпед сверхбольшой мощности способен полностью уничтожить практически любую цель, будь то корабль или станция.\n\n\n\nМодифицированная версия ракеты дальнего боя типа «Нова». Отлично подходит для поражения целей малых размеров, но максимальное время полета снижено ввиду значительного потребления топлива стабилизационными двигателями.",
+    "zh": "超大型巡航导弹是专门用于对旗舰级舰船或建筑实施远程轰炸的武器。它们只能被旗舰级舰船所安装和使用。\n\n无数由莫尔石矩阵约束的超新星诺克石原子构成了此类导弹巨大的破坏力。这种导弹的一轮齐射几乎可以摧毁任何漂浮在太空中的物体，无论是建筑还是船只都难逃一劫。\n\n\n\n这是星爆巡航导弹的一种改良版本，针对小船效果好，但稳定推进器耗燃料，导致导弹飞行时间缩短。"
+  },
+  "graphicID": 20046,
+  "groupID": 1678,
+  "iconID": 185,
+  "marketGroupID": 2260,
+  "mass": 1500.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Nova Precision XL Cruise Missile",
     "en": "Nova Precision XL Cruise Missile",
@@ -10,5 +26,9 @@
     "ru": "Nova Precision XL Cruise Missile",
     "zh": "星爆精准超大型巡航导弹"
   },
+  "portionSize": 100,
+  "published": true,
+  "radius": 300.0,
+  "variationParentTypeID": 32438,
   "volume": 0.3
 }

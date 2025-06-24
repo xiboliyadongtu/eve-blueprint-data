@@ -1,5 +1,18 @@
 {
-  "typeID": 77647,
+  "capacity": 235.0,
+  "description": {
+    "de": "Eine Handler-Drohne, vergleichbar mit einem Kreuzer. Ihre Hauptaufgabe scheint Vernichtung zu sein. Sie wird von einer bösartigen künstlichen Intelligenz betrieben, deren Pläne sich dem menschlichen Verstand entziehen.",
+    "en": "A Handler drone, equivalent to a cruiser class ship. Its primary objective seems to be destruction.\r\n\r\nRun by a rogue artificial intelligence, the machinations of which are outside of human understanding.",
+    "es": "Un dron Handler equivalente a una nave de clase crucero. Su objetivo principal parece ser la destrucción.    Está dirigido por una inteligencia artificial rebelde, cuyas maquinaciones escapan a la comprensión humana.",
+    "fr": "Un drone Handler, équivalent à un croiseur. Son objectif principal semble être la destruction. Il est contrôlé par une intelligence artificielle rebelle dont les machinations semblent échapper à la compréhension humaine.",
+    "ja": "破壊を主な役割としているらしい、巡洋艦級艦船に相当するハンドラー型ドローン。    運用しているのは野生化した人工知性だが、“彼ら”の思考回路は人類の理解の範疇を超えている。",
+    "ko": "크루저급 함선과 동급인 핸들러 드론입니다. 파괴 활동이 주 임무인 것으로 보입니다.<br><br>인간의 이해를 초월한 음모를 꾸미는 한 사악한 인공지능이 운용하고 있습니다.",
+    "ru": "Этот дрон типа Handler по характеристикам соответствует крейсеру. Похоже, его основная функция — уничтожение противника. Дроном управляет мятежный искусственный интеллект, принципы работы которого за гранью человеческого понимания.",
+    "zh": "一架处置者级无人机，相当于一艘巡洋舰级舰船。其主要目标似乎在于摧毁。受自由人工智能操控，其计谋策略远非人类所能理解。"
+  },
+  "graphicID": 1222,
+  "groupID": 4571,
+  "mass": 13000000.0,
   "name": {
     "de": "Proliferator Handler",
     "en": "Proliferator Handler",
@@ -10,5 +23,11 @@
     "ru": "Proliferator Handler",
     "zh": "增速者处置者级"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 134.0,
+  "sofFactionName": "roguebase",
+  "soundID": 11,
   "volume": 118000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 2854,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieser kleine Container ist mit einem ortsgebundenen Tarnfeld ausgestattet, das ihn vor Sensoren verbirgt, wenn es aktiviert ist.",
+    "en": "Rigged with a localized cloaking field, this small container is hidden from sensors while activated.",
+    "es": "Este pequeño contenedor equipado con un campo de camuflaje localizado queda oculto a los sensores mientras está activado.",
+    "fr": "Équipé d'un champ de camouflage localisé, ce petit conteneur est situé à l'abri des détecteurs lorsqu'il est activé.",
+    "ja": "この小さなコンテナには、局所的な遮蔽フィールドが備えられていて、起動している間はセンサーに感知されない。",
+    "ko": "클로킹 필드가 전개된 소형 컨테이너로 센서 장비에 감지되지 않습니다.",
+    "ru": "Этот небольшой контейнер защищен локальным полем маскировки, укрывающим его от сенсоров.",
+    "zh": "在局部隐身力场的作用下，这个小型货柜能够躲过扫描器的侦测。"
+  },
+  "graphicID": 2431,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Cloaked Cache",
     "en": "Cloaked Cache",
@@ -10,5 +23,9 @@
     "ru": "Cloaked Cache",
     "zh": "隐身货柜"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "angelbase",
   "volume": 27500.0
 }

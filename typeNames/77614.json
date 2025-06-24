@@ -1,5 +1,18 @@
 {
-  "typeID": 77614,
+  "capacity": 235.0,
+  "description": {
+    "de": "Ein Talwar-Zerstörer mit Zielmarkierungsmodulen und der Aufgabe, Ziele zu markieren, die die Operation stören könnten. Die Platten auf dem Rumpf zeugen von Laser-Schweißarbeiten, einem Verfahren, das für die Republik zu ineffizient, im Imperium jedoch gängige Praxis ist. Es scheint allerdings kaum vorstellbar, dass in Amarr-Anlagen insgeheim eine Minmatar-Flotte gebaut wird.",
+    "en": "A Talwar destroyer fitted with target painters tasked with quickly highlighting targets who might disrupt the operation.\r\n\r\nThe panels across this hull show evidence of laser-welding, a practice too wasteful for the Republic, but standard throughout the Empire. However, the implications of a Minmatar fleet being secretly manufactured at Amarr facilities are too wild to believe.",
+    "es": "Un destructor Talwar equipado con reveladores de objetivo encargados de señalar rápidamente los objetivos que podrían perturbar la operación.    Los paneles a lo largo de este casco muestran indicios de soldadura láser, una práctica demasiado derrochadora para la República, pero estándar en todo el Imperio. Sin embargo, las implicaciones de que una Flota Minmatariana se fabrique en secreto en instalaciones amarrianas son demasiado descabelladas para creerlas.",
+    "fr": "Un destroyer Talwar équipé de marquages de cible chargé de repérer tout vaisseau qui pourrait interrompre l'opération. Les panneaux de cette coque indiquent que le soudage a été réalisé au laser, une pratique que la République considère comme du gaspillage, mais qui est standard pour l'Empire. Cependant, la possibilité qu'une flotte minmatar soit secrètement produite dans des usines amarr est difficile à croire.",
+    "ja": "作戦の障害となりうるターゲットを素早く指定するターゲットペインターを装備した、タルワー級駆逐艦。    船体のパネルにはレーザー溶接の痕跡が残っており、倹約を是とする共和国によるものとは考えづらい。一方で、帝国では標準的に使用されるやり方であるが、ミンマターの艦隊が密かにアマー系施設で建造されているという可能性は、あまりに驚異的で受け入れがたい。",
+    "ko": "타겟 페인터를 탑재한 탈와르 디스트로이어입니다. 작전에 방해가 될 가능성이 있는 목표물을 빠르게 표시하는 임무를 담당합니다.<br><br>선체를 살펴보면 모든 강판이 레이저로 용접된 흔적을 확인할 수 있습니다. 이러한 건조 방식은 공화국에서는 지나친 낭비로 여겨지는 반면 제국에서는 흔히 쓰이고 있습니다. 민마타 함대를 구성하는 함선이 사실은 아마르 시설에서 건조되고 있었다는 충격적인 진실을 암시하는 것일지도 모릅니다.",
+    "ru": "Этот эсминец типа Talwar применяет модули подсветки целей, увеличивая радиус сигнатуры вражеских кораблей, которые могут помешать выполнению боевых задач. На корпусе этого судна видны следы лазерной сварки. Минматары редко используют эту дорогостоящую технологию, зато для амаррцев это обычное дело. Однако трудно поверить, что на амаррских заводах могут производить суда минматарского флота, пусть и втайне ото всех.",
+    "zh": "一艘弯刀级驱逐舰，装配有目标标记装置，负责快速标出可能干扰行动的目标。船体上的面板显示出激光焊接的痕迹，这种做法对共和国来说十分浪费，对于整个帝国而言却已经是司空见惯。然而，在艾玛设施中秘密制造米玛塔尔舰队所造成的影响失控到令人难以置信。"
+  },
+  "graphicID": 20202,
+  "groupID": 4570,
+  "mass": 1700000.0,
   "name": {
     "de": "Spotter Talwar",
     "en": "Spotter Talwar",
@@ -10,5 +23,11 @@
     "ru": "Spotter Talwar",
     "zh": "侦察者弯刀级"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 150.0,
+  "sofFactionName": "minmatarbase",
+  "soundID": 20078,
   "volume": 28600.0
 }

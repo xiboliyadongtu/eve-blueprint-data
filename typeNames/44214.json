@@ -1,5 +1,18 @@
 {
-  "typeID": 44214,
+  "description": {
+    "de": "Dieser Strafzettel wurde durch das Directive Enforcement Department an einen Piloten eines Frachters der Charon-Klasse ausgestellt, der offenbar mit einer Geschwindigkeit von 402.110 m/Sek auf das Perimeter-Sprungtor im Marktzentrum von Jita zusteuerte. Die wütende, handgeschriebene Antwort des Kapselpiloten ist abgesehen von einigen Kraftausdrücken, die hier lieber nicht wiederholt werden sollten, sowie der Erwähnung eines Schlachtschiffs der Machariel-Klasse unentzifferbar.",
+    "en": "This speeding ticket was issued by the Directive Enforcement Department to the pilot of a Charon class freighter who was apparently detected travelling at 402,110 m/sec on approach to the Perimeter stargate in the market hub system of Jita. The angry, handwritten response from the capsuleer is undecipherable save for several expletives it would not be appropriate to mention here, and mention of a Machariel class battleship.",
+    "es": "El Departamento de Ejecución de Directivas puso esta multa de velocidad al piloto de un carguero de clase Charon que supuestamente viajaba a 402,110 m/s al acercarse al portal estelar perimetral en el centro mercantil del sistema Jita. La furiosa respuesta manuscrita del capsulista es indescifrable salvo por varios tacos que no sería apropiado incluir aquí y la mención a un acorazado de clase Machariel.",
+    "fr": "Cette contravention pour excès de vitesse a été dressée par le département exécutif des directives à l'encontre d'un pilote de cargo de classe Charon, qui se déplaçait à 402 110 m/s à l'approche du portail stellaire très fréquenté de Perimeter dans le système névralgique commercial de Jita. La réponse manuscrite courroucée du capsulier sanctionné est indéchiffrable, hormis quelques jurons qu'il serait tout à fait inapproprié de retranscrire ici et la mention d'un cuirassé de classe Machariel.",
+    "ja": "このスピード違反チケットは、管理執行局がカロン級超大型輸送艦のパイロットに対して発行したものだ。パイロットはジタ星系において402,110m/sでペリメーター行きスターゲートへ接近していた。怒り狂ったカプセラの手書きの返事は、ここで言及するのが不適切ないくつかの罵詈雑言を除けば、ほとんどが解読不能だった。ただ、マカリエル級戦艦について何か言っていることだけは分かる。",
+    "ko": "지령집행부가 발행한 속도 위반 딱지입니다. 적발 대상은 카론급 프레이터로 지타 항성계에 위치한 스타게이트에서 402,110 m/s의 속도로 비행하던 중 적발되었습니다. 카론급 프레이터를 조종하던 캡슐리어는 종이 뒷면에 온갖 욕설과 함께 마케리엘 배틀쉽에 대한 이야기를 휘갈겨 적었습니다.",
+    "ru": "Этот штраф за превышение скорости выдан службой мониторинга реализации резолюций КОНКОРДа пилоту фрейтера типа «Харон», Судя по бланку, он был замечен летящим на скорости в 402 110 метров в секунду по направлению к гиперворотам, ведущим из торгового центра — Джиты — в соседнюю планетнуюю систему, Периметр.  Гневный ответ капсулёра написан от руки и практически нечитаем: разобрать можно лишь несколько инвектив, которые мы не считаем возможным публиковать здесь, а также упоминание линкора типа «Махариэль».",
+    "zh": "这张超速罚单由联合安全局签发给一名渡神级货舰驾驶员，他被侦测到在接近吉他市场中心的星门时以402,110米/秒的速度飞行。而该名飞行员充满愤怒的手写回执有几处不适合在此提及，而提及到一艘马克瑞级战列舰。"
+  },
+  "groupID": 1194,
+  "iconID": 2552,
+  "marketGroupID": 1661,
+  "mass": 10.0,
   "name": {
     "de": "CONCORD Speeding Ticket",
     "en": "CONCORD Speeding Ticket",
@@ -10,5 +23,8 @@
     "ru": "CONCORD Speeding Ticket",
     "zh": "统合部超速罚单"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 3.0
 }

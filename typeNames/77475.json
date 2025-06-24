@@ -1,5 +1,17 @@
 {
-  "typeID": 77475,
+  "description": {
+    "de": "Ein großes versiegeltes Paket, gefüllt mit einer unbekannten, aber zweifellos illegalen narkotischen Substanz.",
+    "en": "A large sealed package filled with an unknown, but undoubtedly illegal, narcotic substance.",
+    "es": "Un gran paquete sellado lleno de una sustancia estupefaciente desconocida, pero sin duda ilegal.",
+    "fr": "Un grand paquet scellé rempli d'une substance narcotique inconnue, mais assurément illégale.",
+    "ja": "封がされた大きなパッケージ。中身は不明だが、間違いなく違法薬物だ。",
+    "ko": "밀봉된 커다란 화물입니다. 내용물은 아직 확인되지 않았지만 불법 마약일 가능성이 큽니다.",
+    "ru": "Большой запечатанный контейнер с неизвестным, но, очевидно, запрещённым наркотическим веществом.",
+    "zh": "一个密封的大型包裹，里面装有一种不知名但绝对非法的毒物。"
+  },
+  "groupID": 4575,
+  "iconID": 1168,
+  "mass": 20000.0,
   "name": {
     "de": "Narcotics Package",
     "en": "Narcotics Package",
@@ -10,5 +22,7 @@
     "ru": "Narcotics Package",
     "zh": "毒品包裹"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 3500.0
 }

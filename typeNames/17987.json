@@ -1,5 +1,17 @@
 {
-  "typeID": 17987,
+  "description": {
+    "de": "Dieser Sicherheitszugangscode ermöglicht den Zutritt zum Zentrum der Kommandorelaisstationen von Sansha.",
+    "en": "This security passkey allows access into the core area of Sansha's command relay stations.",
+    "es": "Este pase de seguridad da acceso a la zona central de las estaciones de relés de mando de Sansha.",
+    "fr": "Cette carte d'accès de sécurité permet d'accéder à la zone centrale des stations relais du commandement sansha.",
+    "ja": "サンシャの指令中継ステーション中核エリアにアクセスできるセキュリティマスターキー。",
+    "ko": "해당 보안용 패스키를 사용하여 산샤 지휘통신중계소의 중심부로 향할 수 있습니다.",
+    "ru": "Эта ключ-карта открывает доступ в самое сердце центров управления Санши.",
+    "zh": "有了这把加密钥匙，就能进入萨沙司令部的核心地区。"
+  },
+  "groupID": 474,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Command Relay Key",
     "en": "Command Relay Key",
@@ -10,5 +22,7 @@
     "ru": "Command Relay Key",
     "zh": "司令部加密钥匙"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

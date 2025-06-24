@@ -1,5 +1,16 @@
 {
-  "typeID": 21125,
+  "description": {
+    "de": "Eine Wreathe, die von einem Agenten geflogen wird.",
+    "en": "A Wreathe piloted by an agent.",
+    "es": "Wreathe pilotada por un agente.",
+    "fr": "Un Wreathe piloté par un agent.",
+    "ja": "エージェントを乗せたウレス。",
+    "ko": "에이전트가 조종하는 레이쓰입니다.",
+    "ru": "Корабль класса Wreathe, управляемый агентом.",
+    "zh": "由代理人驾驶的环绕级飞船。"
+  },
+  "graphicID": 310,
+  "groupID": 517,
   "name": {
     "de": "Cosmos Wreathe",
     "en": "Cosmos Wreathe",
@@ -10,5 +21,9 @@
     "ru": "Cosmos Wreathe",
     "zh": "深空 环绕级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 207.0,
+  "sofFactionName": "minmatarbase"
 }

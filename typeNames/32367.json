@@ -1,5 +1,19 @@
 {
-  "typeID": 32367,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Zugang zu diesem Container erhält man nur mithilfe eines <b>Civilian Relic Analyzer</b>. Sobald ein erfolgreicher Versuch registriert wird, öffnet sich der Container. Im Innern befindet sich das Dokument <b>\"Beweis für die Entdeckung: Relikt\"</b>.\n\nFalls Sie den Container leer vorfinden sollten, warten Sie bitte ein paar Minuten, bis ein neues Dokument erstellt wurde.",
+    "en": "This container must be accessed using a <b>Civilian Relic Analyzer</b>. As soon as a successful attempt is detected, it will unlock. Inside, the <b>“Proof of Discovery: Relic”</b> document can be retrieved.\r\n\r\nIf at first the container appears empty, please wait a few minutes for a new document to be provided.",
+    "es": "Hay que acceder a este contenedor usando un <b>analizador de reliquias civil</b>. En cuanto se detecte un intento de recuperación correcto, se desbloqueará. Dentro se puede recuperar el documento <b>«Prueba de descubrimiento: Reliquia»</b>.\n\n\n\nSi, inicialmente, el contenedor parece vacío, espera unos minutos hasta que se genere un nuevo documento.",
+    "fr": "Vous pouvez accéder à ce conteneur à l'aide d'un <b>analyseur de reliques civil</b>. En cas de tentative réussie, il se déverrouillera. À l'intérieur se trouve le document <b>« Certificat de découverte : Relique »</b>.\n\nSi, à première vue, le conteneur vous semble vide, attendez quelques minutes pour recevoir le nouveau document.",
+    "ja": "このコンテナを開けるには<b>民間人仕様遺物アナライザー</b>を使用する。試行が成功した時点で直ちにロックが解除される。中から<b>『発見の証拠：遺物』</b>という書類を回収できる。\n\n最初に開けた時コンテナが空になっている場合があるが、数分待てば新しい書類が出てくる。",
+    "ko": "<b>민수용 유물 분석기</b>를 통해 개방할 수 있는 컨테이너로 해킹 성공 시 잠금이 해제됩니다. 해당 컨테이너에는 <b>\"탐사 증명서: 유물\"</b>이 포함되어 있습니다. <br><br>아이템이 없을 경우 재생성이 이루어지니 잠시 대기하시기 바랍니다.",
+    "ru": "Этот контейнер необходимо открыть с помощью <b>гражданского анализатора реликвий (Civilian Relic Analyzer)</b>. Как только будет отмечена успешная попытка, контейнер будет отперт. Внутри вы найдете документ <b>Proof of Discovery: Relic</b>.\n\n\n\nЕсли в первый раз контейнер окажется пустым, подождите несколько минут, пока не появится новая копия документа.",
+    "zh": "这个货柜必须要使用<b>民用遗迹分析仪</b>才能打开。一旦尝试成功，它就会自动解锁。货柜里有一份<b>“目标证据：遗迹”</b>文件。如果你在找到这个货柜的时候发现它是空的，那么请等待片刻，一份新的文件会被重新生成在里面。"
+  },
+  "graphicID": 20296,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Training Container - Relic",
     "en": "Training Container - Relic",
@@ -10,5 +24,9 @@
     "ru": "Training Container - Relic",
     "zh": "训练用货柜 - 遗迹"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 314.0,
+  "sofFactionName": "genericcolony",
   "volume": 27500.0
 }

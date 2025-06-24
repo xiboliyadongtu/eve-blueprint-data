@@ -1,5 +1,18 @@
 {
-  "typeID": 19719,
+  "basePrice": 35000000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Transportschiffen.",
+    "en": "Skill for operation of Transport Ships.",
+    "es": "Habilidad en el manejo de naves de transporte.",
+    "fr": "Compétence permettant de piloter des vaisseaux transporteurs.",
+    "ja": "特化型輸送艦を操作するスキル。",
+    "ko": "수송선 운용을 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на транспортных кораблях.",
+    "zh": "操作运输舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Transport Ships",
     "en": "Transport Ships",
@@ -10,5 +23,7 @@
     "ru": "Транспортные корабли",
     "zh": "运输舰操作"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

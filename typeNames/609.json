@@ -1,5 +1,60 @@
 {
-  "typeID": 609,
+  "basePrice": 300000.0,
+  "capacity": 275.0,
+  "description": {
+    "de": "Die Maulus ist ein Hochtechnologieschiff, das auf elektronische Kriegsführung spezialisiert ist. Sie wird aufgrund ihrer ausgezeichneten Sensordämpfertechnologie vor allem in der Flottenkriegsführung sehr geschätzt.",
+    "en": "The Maulus is a high-tech vessel, specialized for electronic warfare. It is particularly valued in fleet warfare due to its optimization for sensor dampening technology.",
+    "es": "La Maulus es una nave de alta tecnología especializada en la guerra electrónica. Es especialmente valiosa en flotas bélicas por cómo optimiza la tecnología de atenuación de sensores.",
+    "fr": "Le Maulus est un vaisseau ultra-perfectionné spécialisé dans la guerre électronique. Sa technologie embarquée d’atténuation de détection en fait un atout non négligeable dans le cadre d'affrontements entre flottes.",
+    "ja": "マウルスは電子戦に特化したハイテク艦船だ。フリート戦ではセンサーダンプナー兵器の性能を活かせる点で評価が高い。",
+    "ko": "마울러스는 전자전에 특화된 최첨단 함선입니다. 센서 교란에 최적화된 기능 덕분에 함대전에서 상당한 가치를 지니고 있습니다.",
+    "ru": "«Молус» — это корабль, оснащенный по последнему слову техники; его основным назначением является ведение радиоэлектронной борьбы. «Молусы» особенно ценятся при ведении флотовых действий благодаря оптимизации под технологию постановки помех системам обнаружения целей.",
+    "zh": "毛鲁斯级是一种高科技战舰，专门用于电子战。由于针对感应抑阻技术进行过最优化处理，因此它在舰队战中的价值尤为突出。"
+  },
+  "factionID": 500004,
+  "graphicID": 324,
+  "groupID": 25,
+  "marketGroupID": 77,
+  "mass": 1063000.0,
+  "masteries": {
+    "0": [
+      96,
+      101,
+      140,
+      89,
+      94
+    ],
+    "1": [
+      96,
+      101,
+      140,
+      89,
+      94
+    ],
+    "2": [
+      96,
+      101,
+      140,
+      89,
+      94
+    ],
+    "3": [
+      96,
+      101,
+      140,
+      89,
+      94
+    ],
+    "4": [
+      96,
+      101,
+      140,
+      117,
+      89,
+      94
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Maulus",
     "en": "Maulus",
@@ -9,6 +64,48 @@
     "ko": "마울러스",
     "ru": "Maulus",
     "zh": "毛鲁斯级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 31.0,
+  "sofFactionName": "gallentebase",
+  "soundID": 20074,
+  "traits": {
+    "types": {
+      "3328": [
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Effektivität von <a href=showinfo:3433>Sensorferndämpfern</a>",
+            "en": "bonus to <a href=showinfo:3433>Remote Sensor Dampener</a> effectiveness",
+            "es": "de bonificación a la efectividad del <a href=showinfo:3433>atenuador de sensor remoto</a>.",
+            "fr": "de bonus à l'efficacité des <a href=showinfo:3433>atténuateurs de détection à distance</a>",
+            "ja": "<a href=showinfo:3433>リモートセンサーダンプナー</a>の効果が増加",
+            "ko": "<a href=showinfo:3433>원격 센서 댐프너</a> 효과 증가",
+            "ru": "повышается эффективность действия <a href=showinfo:3433>модулей подавления захвата целей</a>",
+            "zh": "<a href=\"showinfo:3433\">远程感应抑阻器</a>效果加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Reduktion der Aktivierungskosten von <a href=showinfo:3433>Sensorferndämpfern</a>",
+            "en": "reduction in <a href=showinfo:3433>Remote Sensor Dampener</a> activation cost",
+            "es": "de reducción del coste de activación del <a href=showinfo:3433>atenuador de sensor remoto</a>.",
+            "fr": "de réduction du coût d'activation des <a href=showinfo:3433>atténuateurs de détection à distance</a>",
+            "ja": "<a href=showinfo:3433>リモートセンサーダンプナー</a>の起動コストが軽減",
+            "ko": "<a href=showinfo:3433>원격 센서 댐프너</a> 활성화 비용 감소",
+            "ru": "сокращается потребление энергии <a href=showinfo:3433>модулями подавления захвата целей</a>",
+            "zh": "<a href=\"showinfo:3433\">远程感应抑阻器</a>启动消耗减少"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 23000.0
 }

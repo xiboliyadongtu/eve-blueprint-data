@@ -1,5 +1,18 @@
 {
-  "typeID": 2899,
+  "basePrice": 8000000.0,
+  "description": {
+    "de": "Während Drohnen AI leicht zu replizieren ist, benötigen bestimmte Verhaltensweisen eine angepasste Programmierung. Diese Einheiten scheinen generell für schwache Kampfleistung entwickelt worden zu sein.",
+    "en": "While drone AI is easily replicated, certain behaviors require custom programming.  These units seem to have been designed for generally poor   combat performance.",
+    "es": "Aunque la IA de drones es fácil de replicar, ciertos comportamientos requieren una programación personalizada. Parece que estas unidades se han diseñado para ofrecer un rendimiento en combate bajo.",
+    "fr": "S'il est facile de reproduire l'IA d'un drone, certains comportements nécessitent une programmation personnalisée.  Ces unités semblent avoir été conçues pour de mauvaises performances au combat.",
+    "ja": "ドローンAIは簡単に複製できるが、特定の行動をさせるにはプログラムのカスタマイズが必要。これらのユニットは、一般に戦闘能力に乏しい設計となっているようである。",
+    "ko": "드론 인공지능의 경우 비교적 쉽게 복제가 가능하지만 특정 설정을 입력하기 위해서는 커스텀 프로그래밍이 요구됩니다. 해당 장치는 드론의 전반적인 전투 능력을 약화시킵니다.",
+    "ru": "Хотя искусственный интеллект дронов легко воспроизводится, определенные модели поведения требуют специального программирования. Эти блоки были разработаны специально для достижения низкого уровня боевой эффективности.",
+    "zh": "虽然无人机的人工智能复制起来很容易，但要实现有些功能还是需要修改程序。这些元件好像就是被设计成战斗力不强的样子。"
+  },
+  "groupID": 314,
+  "iconID": 3265,
+  "mass": 1.0,
   "name": {
     "de": "Custom Circuitry",
     "en": "Custom Circuitry",
@@ -10,5 +23,7 @@
     "ru": "Custom Circuitry",
     "zh": "自制电路"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

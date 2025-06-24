@@ -1,5 +1,17 @@
 {
-  "typeID": 30882,
+  "description": {
+    "de": "Einzelne besondere räumliche Erscheinungen können Ihr Schiff auf seltsame Weise beeinträchtigen.",
+    "en": "Local spatial phenomena may cause strange effects on your ship systems.",
+    "es": "Los fenómenos espaciales locales pueden provocar efectos extraños en los sistemas de la nave.",
+    "fr": "Phénomène local de l'espace pouvant avoir d'étranges effets sur les systèmes de votre vaisseau.",
+    "ja": "周囲の空間で発生している現象が、船のシステムに不可解な効果を与えるかもしれない。",
+    "ko": "함선 시스템에 영향을 줄 수 있는 공간현상이 감지되었습니다.",
+    "ru": "Излучение местной звезды влияет на работу бортовых систем вашего корабля.",
+    "zh": "本地空间现象可能会对你的舰船系统造成影响。"
+  },
+  "graphicID": 1217,
+  "groupID": 920,
+  "mass": 1.0,
   "name": {
     "de": "Class 6 Cataclysmic Variable Effects",
     "en": "Class 6 Cataclysmic Variable Effects",
@@ -9,6 +21,96 @@
     "ko": "6급 격변변광성 효과",
     "ru": "Class 6 Cataclysmic Variable Effects",
     "zh": "六类激变变星效果光束"
+  },
+  "portionSize": 250,
+  "published": true,
+  "sofFactionName": "genericbase",
+  "traits": {
+    "iconID": 24304,
+    "miscBonuses": [
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Abzug auf die Wiederaufladezeit des Energiespeichers",
+          "en": "penalty to capacitor recharge time",
+          "es": "de penalización al tiempo de carga del condensador.",
+          "fr": "de pénalité au temps de recharge du capaciteur",
+          "ja": "キャパシタのリチャージ時間にペナルティ",
+          "ko": "캐패시터 충전시간 페널티",
+          "ru": "штраф к времени перезарядки накопителя",
+          "zh": "电容器回充时间惩罚"
+        },
+        "importance": 3,
+        "isPositive": false,
+        "unitID": 105
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Abzug auf die Effektivität von Energiespeicher-Ferntransmittern",
+          "en": "penalty to remote capacitor transmitter effectiveness",
+          "es": "de penalización a la efectividad del transmisor de condensador remoto.",
+          "fr": "de pénalité à l'efficacité du transmetteur de capaciteur à distance",
+          "ja": "リモートキャパシタトランスミッターの効果にペナルティ",
+          "ko": "원격 캐패시터 전송기 효과 페널티",
+          "ru": "штраф к эффективности модуля дистанционного пополнения накопителя",
+          "zh": "远程电容传输装置效果惩罚"
+        },
+        "importance": 4,
+        "isPositive": false,
+        "unitID": 105
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Abzug auf die Effektivität von Panzerungsreparatursystemen und Schildboostern",
+          "en": "penalty to local armor repairer and shield booster effectiveness",
+          "es": "de penalización a la efectividad del reparador de blindaje y del potenciador de escudo locales.",
+          "fr": "de pénalité à l'efficacité des réparateurs de blindage locaux et des boosters de bouclier",
+          "ja": "ローカルアーマーリペアラとシールドブースターの効果にペナルティ",
+          "ko": "장갑수리 장치 및 실드 부스터 효과 페널티",
+          "ru": "штраф к эффективности локального ремонта брони и усиления щитов",
+          "zh": "自身装甲维修器和护盾回充增量器效果惩罚"
+        },
+        "importance": 5,
+        "isPositive": false,
+        "unitID": 105
+      },
+      {
+        "bonus": 100.0,
+        "bonusText": {
+          "de": "Bonus auf die Effektivität von Panzerungs-Fernreparatursystemen und Schildfernboostern",
+          "en": "bonus to remote armor repairer and remote shield booster effectiveness",
+          "es": "de bonificación a la efectividad del reparador de blindaje remoto y el potenciador de escudo remoto.",
+          "fr": "de bonus à l'efficacité des réparateurs de blindage à distance et des boosters de bouclier à distance",
+          "ja": "リモートアーマーリペアラとリモートシールドブースターの効果が上昇",
+          "ko": "원격 장갑수리 장치 및 실드 부스터 효과 보너스",
+          "ru": "бонус к эффективности модуля дистанционного ремонта брони и модуля дистанционного усиления щитов",
+          "zh": "远程装甲维修器和远程护盾回充增量器效果加成"
+        },
+        "importance": 1,
+        "isPositive": true,
+        "unitID": 105
+      },
+      {
+        "bonus": 100.0,
+        "bonusText": {
+          "de": "Bonus auf die Energiespeicherkapazität",
+          "en": "bonus to capacitor capacity",
+          "es": "de bonificación a la capacidad del condensador",
+          "fr": "de bonus à la charge du capaciteur",
+          "ja": "キャパシタ容量が増加",
+          "ko": "캐패시터 용량 증가",
+          "ru": "бонус к ёмкости накопителя",
+          "zh": "电容器电容量加成"
+        },
+        "importance": 2,
+        "isPositive": true,
+        "unitID": 105
+      }
+    ],
+    "roleBonuses": [],
+    "types": {}
   },
   "volume": 20.0
 }

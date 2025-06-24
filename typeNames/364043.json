@@ -1,5 +1,15 @@
 {
-  "typeID": 364043,
+  "description": {
+    "de": "This type is created on purpose to test how the various systems handle incomplete inventory types.\n\n\n\nThis type does not have any associated CATMA data.",
+    "en": "This type is created on purpose to test how the various systems handle incomplete inventory types.\r\n\r\nThis type does not have any associated CATMA data.",
+    "es": "Este tipo es creado a propósito para analizar cómo los diversos sistemas manejan tipos de inventario incompletos.\n\nEste tipo no tiene datos de CATMA relacionados.",
+    "fr": "Ce type est créé exprès pour tester comment les différents systèmes gèrent les types d'inventaire incomplets.\n\n\n\nCe type n'a aucune donnée CATMA associée.",
+    "ja": "このタイプは、各種のシステムが未完のインベントリータイプを扱う際の挙動をテストするために作成されています。このタイプにはCATMAの関連データがありません。",
+    "ko": "해당 타입은 인벤토리 타입이 불완전한 경우 다양한 시스템에서 이를 어떻게 처리하는지 테스트하기 위해 의도적으로 고안되었습니다.<br><br>해당 타입에는 관련 CATMA 데이터가 전혀 없습니다.",
+    "ru": "This type is created on purpose to test how the various systems handle incomplete inventory types.\n\n\n\nThis type does not have any associated CATMA data.",
+    "zh": "创建这一类型是为了测试不同系统对库存类型不足情况的处理能力。此类型没有任何关联的CAYMA数据。"
+  },
+  "groupID": 351064,
   "name": {
     "de": "[TEST] Dropsuit missing CATMA data",
     "en": "[TEST] Dropsuit missing CATMA data",
@@ -10,5 +20,6 @@
     "ru": "[TEST] Dropsuit missing CATMA data",
     "zh": "[测试]作战服缺少CATMA信息"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

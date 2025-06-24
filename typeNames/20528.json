@@ -1,5 +1,18 @@
 {
-  "typeID": 20528,
+  "basePrice": 80000000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Minmatar-Frachtern.",
+    "en": "Skill at operating Minmatar freighters.",
+    "es": "Habilidad en el manejo de cargueros minmatarianos.",
+    "fr": "Compétence permettant de manœuvrer des transports de fret minmatar.",
+    "ja": "ミンマター超大型輸送艦を操作するスキル。",
+    "ko": "민마타 프레이터를 운용하기 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на фрейтерах производства Республики Минматар.",
+    "zh": "操作米玛塔尔货舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Minmatar Freighter",
     "en": "Minmatar Freighter",
@@ -10,5 +23,7 @@
     "ru": "Минматарские фрейтеры",
     "zh": "米玛塔尔货舰操作"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,54 @@
 {
-  "typeID": 28846,
+  "basePrice": 9875200000.0,
+  "capacity": 132000.0,
+  "description": {
+    "de": "Bis zum heutigen Tage spekuliert man darüber, wie genau es die Thukker schaffen konnten, ihre riesigen Karawanen fast unbemerkt durch das All zu bewegen. Aber ihre Fachkenntnisse über die Technologie des Sprungantriebs wurden umso deutlicher, als sie die Nomad kreierten. Durch den mittlerweile weit verbreiteten Gebrauch der Nomad von umherstreifenden, einzelnen Thukker-Vorreitern wird sie rasend schnell zu einem unentbehrlichen Teil des Lebens der Thukker, die nicht mit den großen Karawanen umherziehen.",
+    "en": "There is continuing speculation as to how exactly the Thukkers manage to move their vast caravans throughout space relatively undetected, but their expertise with jump drive technology became glaringly apparent when they created the Nomad. Now seeing widespread service with roving Thukker outrider detachments, the Nomad is rapidly becoming an essential part of Thukker life away from the great caravans.",
+    "es": "Continúa la especulación sobre cómo logran mover los thukkers sus vastas caravanas a través del espacio sin ser detectados, pero su experiencia con la tecnología de motores de salto se hizo evidente cuando crearon el Nomad. Ahora que disfruta de un servicio generalizado con destacamentos errantes de thukkers, el Nomad se está convirtiendo rápidamente en una parte esencial de la vida de los thukkers lejos de las grandes caravanas.",
+    "fr": "On se demandait comment les Thukker parvenaient à déplacer leurs énormes caravanes dans l'espace sans qu'elles soient détectées, mais leur expertise en matière de propulseur interstellaire fut mise au jour lorsqu'ils créèrent le Nomad. Largement utilisé dans les formations itinérantes thukker, le Nomad fait aujourd'hui partie intégrante de leur univers et il est devenu presque aussi essentiel que les grandes caravanes.",
+    "ja": "サッカーがその大規模キャラバンをあまり発見されることなく正確に宇宙空間を移動させている方法は以前から議論の的となっているが、同部族がノマッドを製造した時点で、ジャンプドライブ技術に関する専門知識を所有していることは明白となった。現在、放浪生活を送るサッカーの偵察分遣隊の役割は多岐に渡っており、大規模キャラバン外でのサッカーの生活にとってノマッドは急速に不可欠な要素になりつつある。",
+    "ko": "터커 부족이 무슨 수로 탐지를 피하면서 대규모 캐러밴을 이동시킬 수 있었는지 정확히 알려져 있진 않으나 노마드에 탑재된 첨단 점프 드라이브와 연관이 있을 것으로 추측됩니다. 최근 부족민들이 노마드를 중심으로 독립적인 활동을 하는 경우가 많아졌으며 이에 따라 노마드의 역할 또한 한층 부각되고 있습니다.",
+    "ru": "До сих не до конца известно, как таккерам удаётся практически незаметно перемещать свои огромные караваны по просторам вселенной, но их компетентность по части гипердвигателей стала более чем очевидной после создания Nomad. Эта модель широко используется кочующими отрядами коммивояжёров, однако она быстро завоёвывает популярность среди самых разных представителей племени.",
+    "zh": "人们不断猜测图克尔人巨大的商队是如何在几乎难以察觉的情况下进行移动的，但当图克尔人创造出游牧者级时，他们在跳跃引擎方面的专业技术显露无遗。游牧者级现在为图克尔先驱分遣队提供广泛的服务，它正快速成为图克尔人除巨大的商队之外，生活中的另一基本部分。"
+  },
+  "factionID": 500002,
+  "graphicID": 3360,
+  "groupID": 902,
+  "marketGroupID": 1093,
+  "mass": 820000000.0,
+  "masteries": {
+    "0": [
+      145,
+      117,
+      118,
+      151
+    ],
+    "1": [
+      145,
+      117,
+      118,
+      151
+    ],
+    "2": [
+      145,
+      117,
+      118,
+      151
+    ],
+    "3": [
+      145,
+      117,
+      118,
+      151
+    ],
+    "4": [
+      145,
+      117,
+      118,
+      151
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Nomad",
     "en": "Nomad",
@@ -10,5 +59,112 @@
     "ru": "Nomad",
     "zh": "游牧者级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 700.0,
+  "sofFactionName": "thukkermix",
+  "soundID": 20077,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonus": 100,
+        "bonusText": {
+          "de": "Reduktion des CPU-Bedarfs für <a href=showinfo:1333>Verstärkte Schotten</a>",
+          "en": "reduction in <a href=showinfo:1333>Reinforced Bulkhead</a> CPU requirements",
+          "es": "de reducción de los requisitos de CPU del <a href=showinfo:1333>mamparo reforzado</a>.",
+          "fr": "réduction de la charge CPU requise pour les <a href=showinfo:1333>cloisons renforcées</a>",
+          "ja": "<a href=showinfo:1333>強化隔壁</a>のCPU要件が減少",
+          "ko": "<a href=showinfo:1333>강화 격벽</a> CPU 사용량 감소",
+          "ru": "сокращается потребность <a href=showinfo:1333>усиленных переборок</a> в мощностях ЦПУ",
+          "zh": "<a href=\"showinfo:1333\">加强型舱隔壁</a>的CPU需求降低"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 90,
+        "bonusText": {
+          "de": "Reduktion der effektiv zurückgelegten Distanz für die Sprungerschöpfung",
+          "en": "reduction to effective distance traveled for jump fatigue",
+          "es": "de reducción de la distancia efectiva hasta sufrir fatiga de salto.",
+          "fr": "de réduction de la distance effectuée pour l'épuisement de saut",
+          "ja": "ジャンプによる疲弊が飛行距離に及ぼす影響を低減",
+          "ko": "이동 거리에 따른 점프 피로도 감소",
+          "ru": "медленнее накапливается усталость от гиперпереходов",
+          "zh": "减少跳跃距离对产生跳跃疲劳的影响"
+        },
+        "importance": 2,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "20528": [
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die Frachtraumkapazität des Schiffs",
+            "en": "bonus to ship cargo capacity",
+            "es": "de bonificación a la capacidad de carga de la nave.",
+            "fr": "de bonus à la capacité de la soute du vaisseau",
+            "ja": "艦船のカーゴ容量が増加",
+            "ko": "화물 적재량 증가",
+            "ru": "увеличивается вместимость грузового отсека корабля",
+            "zh": "舰船货柜舱容量加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf den Trägheitsmodifikator des Schiffs",
+            "en": "bonus to ship inertia modifier",
+            "es": "de bonificación al modificador de inercia de la nave.",
+            "fr": "de bonus au modificateur d'inertie du vaisseau",
+            "ja": "艦船の慣性修正乗数が増加",
+            "ko": "관성 계수 증가",
+            "ru": "уменьшается инертность конструкции корабля",
+            "zh": "舰船惯性调整系数加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ],
+      "29029": [
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf die HP der Panzerung und des Rumpf des Schiffs",
+            "en": "bonus to ship shield and hull hitpoints",
+            "es": "de bonificación a los puntos de vida del escudo y el casco de la nave.",
+            "fr": "bonus aux boucliers et aux PV de la coque du vaisseau",
+            "ja": "艦船のシールド・船体のヒットポイントが増加",
+            "ko": "함선의 실드 및 선체 내구도 증가",
+            "ru": "увеличивается запас прочности щитов и корпуса корабля",
+            "zh": "舰船护盾值和结构值加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Reduktion des Sprungtreibstoff-Bedarfs",
+            "en": "reduction in jump fuel requirement",
+            "es": "de reducción del requisito de combustible para saltos.",
+            "fr": "de réduction au carburant de saut hyperspatial requis",
+            "ja": "ジャンプ燃料使用量が減少",
+            "ko": "요구되는 점프 연료량 감소",
+            "ru": "сокращается потребление топлива гипердвигателем корабля",
+            "zh": "跳跃燃料需求减少"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 20189,
   "volume": 15500000.0
 }

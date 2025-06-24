@@ -1,5 +1,19 @@
 {
-  "typeID": 83591,
+  "description": {
+    "de": "<b>Typ:</b> Unterstützungsjäger <b>Funktion:</b> Energieneutralisierung <b>Beschreibung:</b> Die Cenobite bringt Energieneutralisierungsunterstützung auf das Schlachtfeld. <b>Energieneutralisierer</b>: Neutralisiert einen Teil der Energie des Energiespeichers des Ziels. <b>Mikrowarpantrieb</b>: Gewährt einen erheblichen Geschwindigkeitsschub auf Kosten eines erhöhten Signaturradius. Der Mikrowarpantrieb hat eine lange Abkühlphase zwischen den Einsätzen.",
+    "en": "<b>Type:</b> Support Fighter\r\n<b>Role:</b> Energy Neutralizing\r\n<b>Description:</b> The Cenobite brings energy neutralizing support to the battlefield.\r\n\r\n<b>Energy Neutralizer</b>: Neutralizes a portion of the energy of the target's capacitor.\r\n<b>Microwarpdrive</b>: Gives a significant speed boost at the cost of higher signature radius. The Microwarpdrive has a long cool-down cycle between uses.",
+    "es": "<b>Tipo:</b> caza de apoyo.\r\n<b>Función:</b> neutralizador energético.\r\n<b>Descripción:</b> la Cenobite proporciona neutralización energética en el campo de batalla.\r\n\r\n<b>Neutralizador energético</b>: neutraliza parte de la energía del condensador del objetivo.\r\n<b>Motor de microwarp</b>: otorga un aumento considerable de velocidad a costa de un radio de señal superior. Tiene un ciclo de recarga largo entre un uso y otro.",
+    "fr": "<b>Type :</b> Chasseur de soutien <b>Rôle :</b> neutralisation de l'énergie <b>Description :</b> Le Cenobite apporte un soutien à la neutralisation d'énergie sur le champ de bataille. <b>Neutraliseur d'énergie</b> : Neutralise une partie de l'énergie du capaciteur de la cible. <b>Propulseur de microwarp</b> : Augmente la vitesse de manière considérable, au prix d'un rayon de signature plus élevé. Le propulseur de microwarp a un cycle de refroidissement prolongé entre deux utilisations.",
+    "ja": "<b>タイプ：</b>支援戦闘機\r\n<b>用途：</b>エネルギー中和\r\n<b>説明：</b>セノバイトは戦場でエネルギー中和によるサポートを行うことができる。\r\n\r\n<b>エネルギーニュートラライザー：</b>ターゲットした艦船のキャパシタに蓄えられているエネルギーを一部中和することができる。\r\n<b>マイクロワープドライブ：</b>シグネチャ半径が大きくなる代わりに、速度が大幅に向上する。マイクロワープドライブのクールダウンサイクルは長い。",
+    "ko": "<b>분류:</b> 서포트 파이터 <br><b>임무:</b> 에너지 뉴트럴라이즈 <br><b>설명:</b> 세노바이트는 에너지 뉴트럴라이징 임무를 수행하는 함선입니다. <br><br><b>에너지 뉴트럴라이저</b>: 대상 함선의 캐패시터를 일정량 무력화시킵니다. <br><b>마이크로 워프 드라이브</b>: 속도가 크게 향상되지만 시그니처 반경이 증가합니다. 긴 재사용 대기시간을 갖고 있습니다.",
+    "ru": "<b>Тип:</b> истребитель поддержки <b>Роль:</b> нейтрализация энергии <b>Описание:</b> порой Cenobite просто незаменим в бою — этот корабль оказывает достойную поддержку союзникам, нейтрализуя энергию вражеских кораблей. <b>Дистанционный нейтрализатор заряда</b>: нейтрализует часть энергии в накопителе цели. <b>Микроварп-ускоритель</b>: ощутимо повышает скорость, при этом увеличивая радиус сигнатуры. Каждый раз после использования микроварп-ускорителю требуется длительное охлаждение.",
+    "zh": "<b>类型：</b>后勤铁骑舰载机<b>职责：</b>能量中和<b>描述：</b>修道士在战场上进行能量中和支援。<b>能量中和器</b>：中和目标舰船电容器的部分能量。<b>微型跃迁推进器</b>：通过牺牲信号半径来大幅度提升速度。微型跃迁推进器运转后的冷却时间较长。"
+  },
+  "graphicID": 27490,
+  "groupID": 1537,
+  "marketGroupID": 2239,
+  "mass": 1500.0,
+  "metaGroupID": 4.0,
   "name": {
     "de": "Imperial Navy Cenobite",
     "en": "Imperial Navy Cenobite",
@@ -10,5 +24,11 @@
     "ru": "Imperial Navy Cenobite",
     "zh": "帝国海军修道士"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 35.0,
+  "sofFactionName": "amarrnavy",
+  "variationParentTypeID": 37599,
   "volume": 3000.0
 }

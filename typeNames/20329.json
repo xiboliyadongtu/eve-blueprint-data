@@ -1,5 +1,18 @@
 {
-  "typeID": 20329,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieser grosse Fernmeldeturm enthält eine empfindliche, aber gleichzeitig auch sehr fortschrittliche Sensorausstattung. Eine Struktur wie diese hier hat unglaubliche Fähigkeiten, Überwachungsdaten nahe gelegener Systeme und Konstellationen zu verarbeiten, kann aber auch über weite Entfernungen kommunizieren.",
+    "en": "This huge Communication Tower contains fragile but advanced sensory equipment. A structure such as this has enormous capabilities in crunching survey data from nearby systems and constellations, as well as communicating over enormous distances.",
+    "es": "Esta enorme torre de comunicaciones contiene sensores tan frágiles como avanzados. Una estructura como esta ofrece excelentes posibilidades a la hora de obtener datos de prospección de los sistemas y constelaciones cercanos, además de comunicarse a enormes distancias.",
+    "fr": "Cette énorme tour de communication contient une batterie de détecteurs perfectionnés, mais très fragiles. Une structure de ce type offre d'énormes possibilités en matière de déchiffrement des données d'exploration provenant des systèmes et des constellations à proximité. Elle permet également de communiquer à des distances sidérales.",
+    "ja": "壊れやすいが高度な探知装置を搭載したコミュニケーションタワー。この類の建造物は、近隣のソーラーシステムやコンステレーションの測量データを処理する能力に秀でているだけでなく、交信可能距離もけた外れに長い。",
+    "ko": "첨단 센서 장비를 갖춘 거대한 통신타워입니다. 근방의 항성계와 성좌로부터 수집한 방대한 양의 자료를 처리할 수 있는 능력을 가지고 있으며 초장거리 통신 또한 가능합니다.",
+    "ru": "Эта громадная башня связи содержит хрупкое, но при этом весьма совершенное оборудование. Подобные сооружения обладают неимоверными возможностями по обработке исследовательских данных из соседних систем и созвездий, а также передаче информации на огромные расстояния.",
+    "zh": "这座巨大的通信塔装有脆弱却非常先进的感应设备，这类建筑物所具有的强大性能可以轻易处理来自邻近星系和星座的探测数据。"
+  },
+  "graphicID": 2505,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Radio Telescope",
     "en": "Radio Telescope",
@@ -10,5 +23,10 @@
     "ru": "Radio Telescope",
     "zh": "射电望远镜"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 2636.0,
+  "sofFactionName": "genericbase",
+  "soundID": 31,
   "volume": 100000000.0
 }

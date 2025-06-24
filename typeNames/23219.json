@@ -1,5 +1,18 @@
 {
-  "typeID": 23219,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieser Turm dient als Netzwerkrelaisstation. Die richtige Person könnte ein paar interessante Informationen aus seinem Hauptrechner \"befreien\".",
+    "en": "This tower acts as a Network relay. It might be possible for the right person to \"liberate\" some interesting information from its mainframe.",
+    "es": "Esta torre actúa como relé de función red. Puede que la persona adecuada «libere» información interesante de la unidad central.",
+    "fr": "Cette tour fait office de relais de réseau. Il doit être possible à quelqu'un d'astucieux d'« extraire » certaines informations intéressantes de son ordinateur central...",
+    "ja": "ネットワークの中継点として機能するタワー。しかるべき人物なら、そのメインフレームから興味深い情報を「解放」できるかもしれない。",
+    "ko": "네트워크 통신중계 타워입니다. 타워 메인프레임에 있는 몇몇 흥미로운 정보를 “해방”시킬 수도 있을 것 같습니다.",
+    "ru": "Эта башня является релейной станцией сети. Человек с подходящими навыками может заполучить интересную информацию из ее компьютерной системы.",
+    "zh": "这座塔行使着网络中继站的职能。技术到位的人有可能会从其主机中“解放”出一些有趣的信息。"
+  },
+  "graphicID": 2792,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Serpentis Network Nexus",
     "en": "Serpentis Network Nexus",
@@ -10,5 +23,9 @@
     "ru": "Serpentis Network Nexus",
     "zh": "天蛇集团网络连接站"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 320.0,
+  "sofFactionName": "angelbase",
   "volume": 27500.0
 }

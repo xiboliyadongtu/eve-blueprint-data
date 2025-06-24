@@ -1,5 +1,16 @@
 {
-  "typeID": 20676,
+  "description": {
+    "de": "Eine Ferox, die von einem Agenten geflogen wird.",
+    "en": "A Ferox piloted by an agent.",
+    "es": "Ferox pilotada por un agente.",
+    "fr": "Un Ferox piloté par un agent.",
+    "ja": "エージェントを乗せたフェロックス。",
+    "ko": "에이전트가 조종하는 페록스입니다.",
+    "ru": "Корабль класса Ferox, управляемый агентом.",
+    "zh": "由代理人驾驶的猛鲑级飞船。"
+  },
+  "graphicID": 2382,
+  "groupID": 517,
   "name": {
     "de": "Karpela's Ferox",
     "en": "Karpela's Ferox",
@@ -10,5 +21,9 @@
     "ru": "Karpela's Ferox",
     "zh": "卡赫蓓拉的猛鲑级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 363.0,
+  "sofFactionName": "caldaribase"
 }

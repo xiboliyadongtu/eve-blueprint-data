@@ -1,5 +1,18 @@
 {
-  "typeID": 86448,
+  "capacity": 1200.0,
+  "description": {
+    "de": "Eine Raubdrohne, die einem Schiff der Fregattenklasse entspricht. Ihre Hauptaufgabe scheint das Stasisnetz zu sein.",
+    "en": "A Rogue Drone equivalent to a frigate-class ship. Its primary objective seems to be webifying.",
+    "es": "Un dron rebelde equivalente a una nave de clase fragata. Su objetivo principal parece ser lanzar redes ralentizadoras.",
+    "fr": "Un drone renégat équivalent à une frégate. Son objectif principal semble être la génération de stase.",
+    "ja": "ウェビファイヤーの行使を主な役割としているらしい、フリゲート級艦船相当のローグドローン。",
+    "ko": "프리깃급 함선과 동급인 로그 드론입니다. 웹 생성기 시전이 주요 임무인 것으로 보입니다.",
+    "ru": "Этот восставший дрон по характеристикам соответствует фрегату. Похоже, его основная функция — стазис-индукция.",
+    "zh": "一架护卫舰级别的自由无人机。其主要目标似乎在于停滞缠绕。"
+  },
+  "graphicID": 1224,
+  "groupID": 1568,
+  "mass": 1000000.0,
   "name": {
     "de": "Obstructing Scavenger",
     "en": "Obstructing Scavenger",
@@ -10,5 +23,10 @@
     "ru": "Obstructing Scavenger",
     "zh": "食腐级阻碍者"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 45.0,
+  "sofFactionName": "roguebase",
+  "soundID": 11,
   "volume": 60.0
 }

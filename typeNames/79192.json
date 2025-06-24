@@ -1,5 +1,19 @@
 {
-  "typeID": 79192,
+  "basePrice": 100000.0,
+  "description": {
+    "de": "Dieser elektronische Token ist mit einem festgelegten Belohnungswert vom Deathless Circle kodiert und kann in den Stationen des Stützpunktes, des Angel Cartels oder der Guristas-Piraten eingetauscht werden, um eine ISK-Belohnung zu erhalten.",
+    "en": "This electronic token is encoded with a set reward value by the Deathless Circle, and can be exchanged at The Fulcrum, Angel Cartel or Guristas Pirates stations for an ISK reward.",
+    "es": "Esta ficha electrónica está codificada con un valor de retribución establecido por el Círculo Inmortal y se puede canjear en las estaciones del Fulcro, el Cártel de los Ángeles o los Piratas Guristas para obtener una retribución de ISK.",
+    "fr": "Ce jeton électronique est encodé avec une valeur de récompense définie par le Cercle Immortel, et peut être échangé au Fulcrum, ou dans les stations du cartel Angel ou des pirates Guristas pour une récompense en ISK.",
+    "ja": "この電子トークンにはデスレス・サークルが提供した報酬の価値が暗号化された状態で記録されており、フルクラムか、エンジェルカルテルやガリスタス海賊のステーションにて報酬のISKと交換することができる。",
+    "ko": "데스리스 서클이 제공하는 전자 토큰입니다. 펄크럼, 엔젤 카르텔, 구리스타스 해적단 정거장에서 ISK로 교환할 수 있습니다.",
+    "ru": "Этот электронный сертификат «Бессмертного круга» содержит зашифрованные данные о сумме вознаграждения. Его можно использовать на форпосте «Центр», а также на станциях картеля «ангелов» и организации «Гуристас» для получения вознаграждения в ISK.",
+    "zh": "这个电子凭证是由不死循环加密的一组奖励值，可以在“支点”、天使或古斯塔斯海盗的空间站中换取星币奖励。"
+  },
+  "groupID": 314,
+  "iconID": 25833,
+  "marketGroupID": 754,
+  "mass": 1.0,
   "name": {
     "de": "Deathless Circle Insurgents Loyalty Token",
     "en": "Deathless Circle Insurgents Loyalty Token",
@@ -10,5 +24,7 @@
     "ru": "Deathless Circle Insurgents Loyalty Token",
     "zh": "不死循环起义军忠诚点凭证"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.001
 }

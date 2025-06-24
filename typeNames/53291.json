@@ -1,5 +1,17 @@
 {
-  "typeID": 53291,
+  "description": {
+    "de": "Eine Datenbank mit den Details und Schemata der Hardware- und Softwaresysteme dieses Dreadnoughts. Diese kann Interessenten, die ihren eigenen Dreadnought bauen möchten, wichtige Informationen liefern.",
+    "en": "A database containing specifics and schematics of this dreadnought's hardware and software systems. This might provide key information to parties whom have an interest in building their own dreadnought.",
+    "es": "Base de datos que contiene datos y diagramas de los sistemas de hardware y software de este superacorazado. Podría proporcionar información clave a los interesados en construir su propio acorazado.",
+    "fr": "Une base de données contenant des chiffres et des schémas sur le matériel et les systèmes logiciels des supercuirassés. Elle pourrait renfermer des informations cruciales pour toute personne souhaitant construire son propre supercuirassé.",
+    "ja": "この攻城艦のハードとソフトに関する仕様と設計図を保存したデータベース。自分たちで攻城艦を建造したいと望む集団にとっては非常に重要な情報をもたらす。",
+    "ko": "드레드노트의 하드웨어 및 소프트웨어의 설계도와 세부사항을 담고 있는 데이터베이스입니다. 자신만의 드레드노트를 만들고자 하는 자들에게 핵심적인 정보를 제공합니다.",
+    "ru": "База данных со спецификациями и чертежами аппаратных и программных систем данного дредноута. Эта информация может заинтересовать тех, кто собирается построить свой собственный дредноут.",
+    "zh": "这个数据库中包含了这艘无畏舰的硬件和软件系统的参数和原理图。对于有兴趣建造一艘自己的无畏舰的人来说，这里面的信息非常关键。"
+  },
+  "groupID": 526,
+  "iconID": 2038,
+  "marketGroupID": 20,
   "name": {
     "de": "Dreadnought Systems Diagram",
     "en": "Dreadnought Systems Diagram",
@@ -10,5 +22,7 @@
     "ru": "Dreadnought Systems Diagram",
     "zh": "无畏舰系统示意图"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

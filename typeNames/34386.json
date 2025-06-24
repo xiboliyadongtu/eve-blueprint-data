@@ -1,5 +1,16 @@
 {
-  "typeID": 34386,
+  "description": {
+    "de": "Dieses Lagerdepot hat dicke Wände, was die Beurteilung seines Inhalts aus der Ferne erschwert. Sie müssen näher heran um einen Einblick davon zu bekommen, was sich in seinem Innern verbirgt.",
+    "en": "This storage depot has thick walls, making it hard to gauge its contents from afar. You need to get close to get a read on what is hidden inside.",
+    "es": "Este almacén tiene paredes gruesas, por lo que no es fácil adivinar su contenido desde lejos. Tendrás que acercarte para ver qué oculta dentro.",
+    "fr": "Ce dépôt de stockage a des murs épais, ce qui rend son contenu plus difficile à estimer à distance. Il vous faudra vous en approcher pour déceler ce qui est caché à l'intérieur.",
+    "ja": "保管庫の壁が厚く、保管されているものを遠方から測定することは困難だ。内部に隠されているものを判別するには接近する必要がある。",
+    "ko": "두꺼운 외벽과 거리 탓에 무엇이 들었는지 알 수가 없습니다. 확인을 위해서는 접근을 해야합니다.",
+    "ru": "У склада толстые стены; определить его содержимое издалека затруднительно. Чтобы узнать, что лежит внутри, требуется приблизиться.",
+    "zh": "这个储藏库的墙壁非常厚，无法从远处探测里面的东西。你需要靠近它才能知道里面有些什么。"
+  },
+  "graphicID": 2301,
+  "groupID": 226,
   "name": {
     "de": "Impenetrable Storage Depot",
     "en": "Impenetrable Storage Depot",
@@ -10,5 +21,9 @@
     "ru": "Impenetrable Storage Depot",
     "zh": "无法穿透的储藏库"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 600.0,
+  "sofFactionName": "genericmetal"
 }

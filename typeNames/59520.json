@@ -1,5 +1,19 @@
 {
-  "typeID": 59520,
+  "basePrice": 100.0,
+  "capacity": 650.0,
+  "description": {
+    "de": "Diese speziell angepasste Wächterkanone wird verwendet, um die Konkurrenz in den Befreiungsspielen mit Feuerwerk zu beschießen.",
+    "en": "This specially modified sentry gun platform is designed to shoot fireworks at competitors in the Liberation Games.",
+    "es": "Esta plataforma de torreta centinela especialmente modificada está diseñada para disparar fuegos artificiales a los competidores en los Juegos de Liberación.",
+    "fr": "Cette plateforme pour canon sentinelle spécialement modifiée est conçue pour tirer des feux d'artifice sur ses concurrents dans le cadre des Jeux de la libération.",
+    "ja": "この特別な改造が施されたセントリーガン用プラットフォームは、解放の日記念ゲームにおいて、参加者たちに花火を打ち込むために設計された。",
+    "ko": "독립절 대회에 참가한 선수들을 향해 폭죽을 발사합니다.",
+    "ru": "Эта платформа с модифицированными стационарными орудиями предназначена для стрельбы фейерверками по соперникам во время Игр свободного Минматара.",
+    "zh": "这座特别改装的岗哨炮平台用来向独立日竞赛的参赛者发射焰火。"
+  },
+  "graphicID": 2419,
+  "groupID": 383,
+  "mass": 12720000.0,
   "name": {
     "de": "Liberation Games Firework Sentry",
     "en": "Liberation Games Firework Sentry",
@@ -10,5 +24,8 @@
     "ru": "Liberation Games Firework Sentry",
     "zh": "独立日竞赛焰火发射塔"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 476.0,
+  "sofFactionName": "minmatarbase"
 }

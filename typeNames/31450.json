@@ -1,5 +1,19 @@
 {
-  "typeID": 31450,
+  "description": {
+    "de": "Diese Schiffsmodifikation wurde dazu entwickelt, die Feuerrate der Energiegeschütztürme eines Schiffes zu erhöhen, auf Kosten eines erhöhten Stromnetzbedarfs.\n\n\n\nNachteil: Bei der Verwendung mehrerer Module des selben oder ähnlichen Typs, welche das selbe Attribut des Schiffes beeinflussen, wird deren Wirksamkeit eingeschränkt.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26258>Energiewaffenmodifikation</a> reduziert werden.",
+    "en": "This ship modification is designed to increase a ship's energy turrets' rate of fire at the expense of increased power grid need for them.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26258>Energy Weapon Rigging</a> skill.",
+    "es": "Esta modificación de nave está diseñada para aumentar la cadencia de tiro de las torretas de energía en perjuicio de un aumento de la necesidad del sistema de potencia.\n\nPenalización: Por usar más de un tipo de módulo o módulos similares que afecten al mismo atributo de la nave.\n\nSe pueden reducir las desventajas de equipar este complemento desarrollando la habilidad <a href=showinfo:26258>Complementos de armas de energía</a>.",
+    "fr": "Cette modification de vaisseau est conçue pour augmenter la cadence de tir des tourelles à énergie d'un vaisseau, au détriment de leurs besoins en ressources de réseau d'alimentation amélioré.\n\n\n\nPénalité : utiliser plus d'un module de ce type ou plusieurs modules modifiant un même attribut du vaisseau fera l'objet d'une pénalité.\n\n\n\nLes inconvénients du montage de cette plateforme pourraient être réduits en entraînant la compétence <a href=showinfo:26258>Optimisation des armes à énergie</a>.",
+    "ja": "この改造を行うと、艦船のエネルギータレットに必要なパワーグリッド量が増加するのと引き換えに発射間隔が短縮される。ペナルティ： 同じタイプのモジュール、または同じ属性に関係するモジュールを複数取り付けると、ペナルティが発生する。このリグを装備することで発生するペナルティは、<a href=showinfo:26258>エネルギー兵器リギング</a>スキルをトレーニングすることで低減できる。",
+    "ko": "리그 장착 시 에너지 터렛 연사속도가 증가하는 반면 에너지 터렛 파워그리드 요구치도 증가합니다. <br><br>페널티: 동일한 속성의 모듈 여러 개를 장착할 경우 페널티가 부여됩니다. <br><br>리그 부작용은 <a href=showinfo:26258>에너지 무기 리그</a> 스킬 습득 시 감소합니다.",
+    "ru": "Эта модификация предназначена для увеличения скорострельности лазерных орудий корабля за счёт повышения расхода энергии реактора, необходимой для их установки и работы.\n\n\n\nВнимание! Установка на борт корабля двух и более модулей, влияющих на одну и ту же характеристику корабля, приведёт к снижению эффективности их действия в отношении данной характеристики.\n\n\n\nНегативный эффект от установки этого тюнинг-модуля можно снизить, освоив навык <a href=showinfo:26258>Energy Weapon Rigging</a>, дающий пилоту углублённое понимание принципов взаимодействия между лазерными орудиями и различными системами корабля.",
+    "zh": "这个飞船改装件可以增加飞船能量炮台的发射速度，但代价是能量武器的能量栅格需求增加。\n\n\n\n惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26258>能量武器改装技术</a>技能降低影响。"
+  },
+  "groupID": 775,
+  "iconID": 3203,
+  "marketGroupID": 1226,
+  "mass": 200.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Medium Energy Burst Aerator II",
     "en": "Medium Energy Burst Aerator II",
@@ -10,5 +24,9 @@
     "ru": "Medium Energy Burst Aerator II",
     "zh": "中型能量武器发散调节装置 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 100.0,
+  "variationParentTypeID": 31444,
   "volume": 10.0
 }

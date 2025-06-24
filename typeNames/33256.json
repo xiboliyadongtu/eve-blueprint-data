@@ -1,5 +1,19 @@
 {
-  "typeID": 33256,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieses Treibgut sieht vielversprechend aus, muss aber zuerst mit der richtigen Ausrüstung analysiert werden, bevor es irgendein Geheimnis preisgibt.",
+    "en": "This piece of floating remains look intriguing, but requires analyzing equipment before it yields any of its secrets.",
+    "es": "Esta sección de restos flotantes parece intrigante; pero, para conocer sus secretos, es necesario tener herramientas de análisis.",
+    "fr": "Ces restes flottants dans l'espace semblent étranges, mais vous devez disposer du matériel d'analyse adéquat pour qu'ils vous livrent leurs secrets.",
+    "ja": "興味深い浮遊残骸物だが、分析装置がなければ秘密が語られることはない。",
+    "ko": "눈길을 잡아 끄는 무언가가 있지만 자세히 확인하기 위해서는 별도의 분석 장비가 필요합니다.",
+    "ru": "Эти дрейфующие останки выглядят интригующе, но для раскрытия их секретов требуется анализирующее оборудование.",
+    "zh": "这块漂浮在太空中的残骸看起来有点意思，但需要分析设备才能探究其中的秘密。"
+  },
+  "graphicID": 20295,
+  "groupID": 1207,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Serpentis Remains",
     "en": "Serpentis Remains",
@@ -10,5 +24,9 @@
     "ru": "Serpentis Remains",
     "zh": "天蛇残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 300.0,
+  "sofFactionName": "genericcolony",
   "volume": 27500.0
 }

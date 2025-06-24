@@ -1,5 +1,17 @@
 {
-  "typeID": 355331,
+  "basePrice": 500.0,
+  "description": {
+    "de": "Verringert die FR von feindlichen Waffen im Wirkungsbereich.",
+    "en": "Reduces the ROF of enemy weapons in AoE",
+    "es": "Reduce la cadencia de fuego de las armas enemigas dentro del área de efecto.",
+    "fr": "Réduit la cadence de tir des armes ennemies dans le rayon d'action",
+    "it": "Riduce la cadenza di fuoco delle armi nemiche nell'AoE",
+    "ja": "AoEの敵兵器のROFを減少させる",
+    "ko": "적의 광역 무기 연사속도가 감소합니다.",
+    "ru": "Снижает скорострельность всех единиц вражеского оружия в радиусе действия",
+    "zh": "降低AoE中的敌军武器射速"
+  },
+  "groupID": 351121,
   "name": {
     "de": "[DEV] Anti-FR",
     "en": "[DEV] Anti-ROF",
@@ -11,5 +23,7 @@
     "ru": "[DEV] Противоскорострельное",
     "zh": "[DEV]反射速"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

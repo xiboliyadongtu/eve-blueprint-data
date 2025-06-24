@@ -1,5 +1,15 @@
 {
-  "typeID": 1622,
+  "description": {
+    "de": "50% Genauigkeitsabzug bei Höchstgeschwindigkeit.",
+    "en": "Half acc.penalty for high speed.",
+    "es": "Penalización de media precisión por alta velocidad.",
+    "fr": "Réduit de moitié les pénalités de précision lors de déplacements à grande vitesse.",
+    "ja": "高速時の精度ペナルティが半減。",
+    "ko": "속도가 증가하는 대신 명중률이 반으로 줄어듭니다.",
+    "ru": "уменьшение ускорения вдвое на высокой скорости.",
+    "zh": "高速运行中，精度惩罚降低一半。"
+  },
+  "groupID": 191,
   "name": {
     "de": "Vector Reckoning Bonus",
     "en": "Vector Reckoning Bonus",
@@ -10,5 +20,6 @@
     "ru": "Vector Reckoning Bonus",
     "zh": "向量估算加成"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

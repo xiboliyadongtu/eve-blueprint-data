@@ -1,5 +1,18 @@
 {
-  "typeID": 24625,
+  "basePrice": 20000000.0,
+  "description": {
+    "de": "Weiteres Training bei der Verwaltung mehrerer Fertigungsanlagen. Durchführung eines weiteren Fertigungsauftrags je Skillstufe",
+    "en": "Further training in the operation of multiple factories. Ability to run 1 additional manufacturing job per skill level.",
+    "es": "Permite entrenarte aún más en el funcionamiento simultáneo de varias fábricas. Capacidad para realizar un trabajo de fabricación adicional por nivel de habilidad.",
+    "fr": "Formation plus avancée de l'exploitation de plusieurs usines. Aptitude à lancer 1 travail de production supplémentaire par niveau de compétence.",
+    "ja": "複数の工場を操業する上級スキル。スキルレベル上昇ごとに実行可能な製造ジョブ数が1増加。",
+    "ko": "다수의 공장 운용을 위한 상급 스킬입니다. 매 레벨마다 생산 슬롯 +1",
+    "ru": "Дальнейшее развитие навыка управления несколькими фабриками. Дальнейшее освоение навыка позволяет пилоту увеличивать количество проводимых производственных работ (на 1 за каждую степень освоения навыка).\"",
+    "zh": "操作多个工厂的高级技能。每升一级，可同时多运行一个制造项目。"
+  },
+  "groupID": 268,
+  "iconID": 33,
+  "marketGroupID": 369,
   "name": {
     "de": "Advanced Mass Production",
     "en": "Advanced Mass Production",
@@ -10,5 +23,7 @@
     "ru": "Спецкурс массового производства",
     "zh": "高级量产技术"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

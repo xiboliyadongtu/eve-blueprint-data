@@ -1,5 +1,16 @@
 {
-  "typeID": 21169,
+  "description": {
+    "de": "Eine Sonde, die von einem Agenten geflogen wird.",
+    "en": "A Probe piloted by an agent.",
+    "es": "Probe pilotada por un agente.",
+    "fr": "Un Probe piloté par un agent.",
+    "ja": "エージェントを乗せたプローブ。",
+    "ko": "에이전트가 조종하는 프로브입니다.",
+    "ru": "Корабль класса Probe, управляемый агентом.",
+    "zh": "由代理人驾驶的探索级飞船。"
+  },
+  "graphicID": 45,
+  "groupID": 517,
   "name": {
     "de": "Jogmundt's Probe",
     "en": "Jogmundt's Probe",
@@ -10,5 +21,9 @@
     "ru": "Jogmundt's Probe",
     "zh": "约格蒙特的探索级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 19.95,
+  "sofFactionName": "minmatarbase"
 }

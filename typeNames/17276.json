@@ -1,5 +1,19 @@
 {
-  "typeID": 17276,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Dieser verstärkte Container ist mit einem Empfangsmechanismus für Daten von nahegelegenen Sensorenplattformen versehen.",
+    "en": "This reinforced container is outfitted with a capturing mechanism to pick up data from nearby sensor arrays.",
+    "es": "Este contenedor reforzado está equipado con un mecanismo de captura para recoger datos de redes de sensores cercanas.",
+    "fr": "Ce conteneur renforcé est équipé d'un mécanisme permettant de récupérer les données des modules de détection alentours.",
+    "ja": "付近のセンサーアレイからデータを捕捉する機能を搭載した強化コンテナ。",
+    "ko": "근처 센서 시설의 데이터를 수집할 수 있는 강화 컨테이너입니다.",
+    "ru": "Укрепленный контейнер оборудован механизмом улавливания, чтобы собирать информацию с ближайших сенсорных устройств.",
+    "zh": "这个经加强的集装箱配备了一种捕获装置，可以获取来自附近感应器阵列的数据。"
+  },
+  "graphicID": 1176,
+  "groupID": 496,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Container with blast marks",
     "en": "Container with blast marks",
@@ -10,5 +24,10 @@
     "ru": "Container with blast marks",
     "zh": "有爆炸痕迹的货柜"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericmetal",
+  "soundID": 31,
   "volume": 1200.0
 }

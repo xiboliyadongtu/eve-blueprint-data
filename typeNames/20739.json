@@ -1,5 +1,20 @@
 {
-  "typeID": 20739,
+  "basePrice": 10000.0,
+  "description": {
+    "de": "XL-Projektilmunition. Kann nur von den Abwehrbatterien einer Starbase oder von Capital-Schiffen wie Dreadnoughts verwendet werden. Diese von Minmatar-Piloten häufig verwendete Munition hat einen Brandsatz und eine sehr gute Durchschlagsleistung. Sie sollten sehr sorgfältig damit umgehen, es sei denn, Sie möchten mit einer zusätzlichen Zehe auf der Stirn aufwachen!\n\n20% Nachführungsgeschwindigkeit-Bonus.",
+    "en": "Extra Large Projectile Ammo. Can be used only by starbase defense batteries and capital ships like dreadnoughts. Very commonly used by Minmatar pilots, this ammo is incendiary and also has great penetration. Just be careful handling it unless you want to wake up with an extra toe on your forehead.\r\n\r\n20% tracking speed bonus.",
+    "es": "Munición de proyectiles de calibre extragrande. Solo pueden usarla las baterías defensivas de bases estelares y las naves capitales, como los superacorazados. Esta munición, muy habitual entre los pilotos minmatarianos, es incendiaria y de gran penetración. Ten cuidado al manejarla, a menos que quieras despertarte con un cuerno en la frente.\n\n\n\n20 % de bonificación de velocidad de rastreo.",
+    "fr": "Très grande munition de projectile lourde. Ne peut être utilisé que par les batteries de défense de base stellaire et les vaisseaux capitaux tels que les dreadnoughts. Cette munition très appréciée des pilotes minmatar est incendiaire et dispose d'un grand pouvoir de pénétration. Faites bien attention en la manipulant si vous ne voulez pas vous réveiller avec une oreille supplémentaire au beau milieu du front.\n\nAugmente de 20 % la vitesse de poursuite.",
+    "ja": "超大型プロジェクタイル弾。スターベース防衛用兵器や、攻城艦などの主力艦だけが使用できる。ミンマターのパイロットにきわめて人気の弾で、焼夷弾だが貫通力にも優れる。ただし、取り扱いには注意しないと、気がつけば額から余分なつま先が生えているなんていう事態になりかねない。\n追跡速度が20%増加。",
+    "ko": "초대형 발사체 탄약입니다. 스타베이스 방어 포탑 또는 드레드노트와 같은 캐피탈 함선만 사용할 수 있습니다. 민마타에서 주로 사용되며 열 피해와 더불어 탁월한 관통력을 자랑합니다. 방사능으로 인해 이마에 발가락이 자라는 꼴을 보고 싶지 않다면 취급 시 각별한 주의를 권장합니다. <br><br>트래킹 속도 20% 증가",
+    "ru": "Снаряды сверхбольшого калибра. Могут применяться только оборонительными батареями звёздных баз и кораблями большого тоннажа — например, дредноутами. Эти зажигательные снаряды, часто используемые пилотами Минматар, обладают высокой поражающей способностью. С ними следует обращаться очень осторожно — если, конечно, вы не хотите, чтобы в один прекрасный день у вас выросла третья нога.\n\n\n\nБонус к скорости слежения — 20%.",
+    "zh": "超大型射弹弹药。只有母星防御炮塔以及无畏舰这样的旗舰级战舰才能使用。米玛塔尔共和国飞行员的常用弹药，具有燃烧性和很强的穿透力。不过一定要谨慎操作，你肯定不希望一觉醒来发现脚被烧着了。20%跟踪速度加成。"
+  },
+  "groupID": 83,
+  "iconID": 2828,
+  "marketGroupID": 1006,
+  "mass": 1.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Arch Angel Depleted Uranium XL",
     "en": "Arch Angel Depleted Uranium XL",
@@ -10,5 +25,9 @@
     "ru": "Arch Angel Depleted Uranium XL",
     "zh": "大天使硬钼弹 XL"
   },
+  "portionSize": 100,
+  "published": true,
+  "radius": 10.0,
+  "variationParentTypeID": 17666,
   "volume": 0.125
 }

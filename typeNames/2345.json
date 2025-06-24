@@ -1,5 +1,18 @@
 {
-  "typeID": 2345,
+  "basePrice": 1.0,
+  "description": {
+    "de": "Auch wenn sie am häufigsten in der Raumschiffsentwicklung, vor allem in den Schiffen der Kapselpiloten, Verwendung finden, werden andere Typen von Kameradrohnen in den Bereichen der Nano-Medizin, der Überwachung und der Unterhaltung eingesetzt.",
+    "en": "Most visibly used in starship development, especially on capsuleer craft, other types of camera drones are also employed in the fields of nano-medicine, surveillance, and entertainment.",
+    "es": "Aunque su uso más común se da en el desarrollo de naves, concretamente las de los capsulistas, hay otros tipos de drones cámara que también se emplean en nanomedicina, vigilancia y entretenimiento.",
+    "fr": "Principalement utilisés dans le développement des vaisseaux spatiaux, notamment les vaisseaux des capsuliers, les autres types de drones caméra sont également usités dans les domaines de la nanomédecine, la surveillance, et le divertissement.",
+    "ja": "最もわかりやすい使用例は宇宙船開発（特に、カプセラ船）である。種類により、ナノ医学、偵察、エンターテイメントに採用されるものもある。",
+    "ko": "카메라 드론은 함선 개발, 그 중에서도 캡슐리어 함선 개발에 주로 사용되며 그 외에도 나노의학, 관측, 그리고 각종 엔터테인먼트 분야에서도 활용됩니다.",
+    "ru": "Несмотря на то, что наиболее обычной и самой заметной областью применения этих дронов является космическое кораблестроение, и особенно капсулерский флот, другие типы дрон-камер постоянно используются в наномедицине, в охранных системах и в индустрии развлечений.",
+    "zh": "这种设备最常见于空间舰船之上，特别是克隆飞行员所使用的飞行器对它的应用最多。其他种类的监控无人机也用于纳米医疗技术，监视及娱乐行业。"
+  },
+  "groupID": 1040,
+  "iconID": 10040,
+  "marketGroupID": 1336,
   "name": {
     "de": "Camera Drones",
     "en": "Camera Drones",
@@ -10,5 +23,7 @@
     "ru": "Camera Drones",
     "zh": "监控无人机"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 3.0
 }

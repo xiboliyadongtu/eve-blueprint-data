@@ -1,5 +1,18 @@
 {
-  "typeID": 3508,
+  "capacity": 5000000.0,
+  "description": {
+    "de": "Dieser große Funksender übermittelt Bestellungen und Informationen an die Sansha-Flotten. Typischerweise werden diese Aufträge von Kommandanten vor Ort aufgegeben, aber auch andere Einrichtungen - wie ein zentraler Steuerungsnexus - sind ebenfalls dazu in der Lage, beschränkte taktische Befehle zu erteilen.",
+    "en": "This large radio transmitter relays orders and information to Sansha fleets. Typically these orders come from a local commander, but other facilities such as a central control nexus are also capable of issuing limited tactical commands.",
+    "es": "Este gran transmisor de radio transmite órdenes e información a las flotas sanshas. Por lo general, estas órdenes provienen de un comandante local, pero otros centros, como un nexo de control central, también son capaces de emitir comandos tácticos limitados.",
+    "fr": "Ce grand transmetteur radio relaie les ordres et les informations à destination des flottes sansha. Ces ordres proviennent généralement d'un commandant de la région, bien que d'autres structures peuvent également diffuser des commandes tactiques, comme le centre de commandement.",
+    "ja": "この巨大な無線送信機は注文と情報をサンシャのフリートへ中継する。これらの注文はローカルの司令官から出されるのが一般的だが、中央コントロールネクサスのような他の施設でも、制限つきで戦術コマンドを指示することができる。",
+    "ko": "산샤 함대는 대형 라디오 송신기를 통해 명령을 하달합니다. 지역 사령관에 의해 명령이 발령되는 것이 일반적이나 중앙 넥서스와 같은 시설에서도 제한적인 전술 지시가 하달될 수 있습니다.",
+    "ru": "Этот радиоцентр передает флотам Sansha приказы и разведдданные. Как правило, речь идет об оперативных планах, разрабатываемых штабом вторжения, однако при наличии в составе комплекса координационного центра становится возможным и ограниченное тактическое управление силами Нации.",
+    "zh": "这个大型的无线电传输器负责中转萨沙舰队的指令信息。这些指令一般都出自当地的指挥官，但诸如控制中枢之类的其他设施也能发出一些有限的战术指令。"
+  },
+  "graphicID": 2505,
+  "groupID": 952,
+  "mass": 100000.0,
   "name": {
     "de": "Sansha Control Relay",
     "en": "Sansha Control Relay",
@@ -10,5 +23,9 @@
     "ru": "Sansha Control Relay",
     "zh": "萨沙控制中继器"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 1239.0,
+  "sofFactionName": "genericbase",
   "volume": 100000000.0
 }

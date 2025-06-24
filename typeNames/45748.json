@@ -1,5 +1,18 @@
 {
-  "typeID": 45748,
+  "basePrice": 5000000.0,
+  "description": {
+    "de": "Ermöglicht die Durchführung mehrerer gleichzeitiger Reaktionen. Kann pro Skillstufe eine zusätzliche Reaktion durchführen.",
+    "en": "Allows the operation of multiple reactions simultaneously. Ability to run 1 additional reaction job per level.",
+    "es": "Permite el funcionamiento simultáneo de varias reacciones. Capacidad para realizar un trabajo de reacción adicional por nivel.",
+    "fr": "Permet l'utilisation de plusieurs réactions à la fois. Aptitude à lancer 1 travail de réaction supplémentaire par niveau.",
+    "ja": "複数のリアクションを同時に実行できるようになる。レベルごとに1つの追加リアクションジョブを実行することができる。",
+    "ko": "동시다발적 분자 반응이 가능하도록 하는 스킬입니다. 매 레벨마다 합성 슬롯 +1",
+    "ru": "Навык параллельного ведения нескольких реакций. Позволяет вести 1 дополнительную реакцию за каждую степень освоения навыка.",
+    "zh": "允许同时运行多个反应项目。每升一级，可同时多运行一个反应项目。"
+  },
+  "groupID": 1218,
+  "iconID": 33,
+  "marketGroupID": 1323,
   "name": {
     "de": "Mass Reactions",
     "en": "Mass Reactions",
@@ -10,5 +23,7 @@
     "ru": "Массовое ведение реакций",
     "zh": "大规模反应理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 24766,
+  "description": {
+    "de": "Ein Mitglied einer Schiffsbesatzung, das kein Kapselpilot ist und zu manuellen Tätigkeiten eingeteilt wurde, die zur Aufrechterhaltung der Einsatzbereitschaft eines Schiffes notwendig sind.",
+    "en": "A non-capsuleer member of a ship's crew relegated to manual tasks essential for maintaining the operational status of the ship.",
+    "es": "Miembro no capsulista de la tripulación de una nave relegado a tareas manuales esenciales para mantener el estado operativo de la nave.",
+    "fr": "Membre non-capsulier de l'équipage d'un vaisseau assigné aux tâches manuelles essentielles au maintien du vaisseau à l'état opérationnel.",
+    "ja": "艦船の運航上、重要な肉体労働に従事する、非カプセラー搭乗員。",
+    "ko": "비캡슐리어 선원으로 함선의 전반적인 업무를 담당합니다.",
+    "ru": "Член команды корабля, не являющийся капсулером, выполняет задачи, связанные с поддержанием работоспособности корабля.",
+    "zh": "船员中的非太空舱驾驶者，负责进行维护船只正常工作的体力活。"
+  },
+  "groupID": 283,
+  "iconID": 2536,
+  "mass": 1000.0,
   "name": {
     "de": "Ship's Crew",
     "en": "Ship's Crew",
@@ -10,5 +22,7 @@
     "ru": "Ship's Crew",
     "zh": "船员"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 2.0
 }

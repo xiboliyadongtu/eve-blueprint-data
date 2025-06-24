@@ -1,5 +1,21 @@
 {
-  "typeID": 4248,
+  "basePrice": 3964874.0,
+  "capacity": 1.0,
+  "description": {
+    "de": "Der Feldgenerator projiziert ein Warpstörungsfeld, das während seiner gesamten Dauer um das Schiff zentriert ist. Das Feld verhindert jegliche Warpvorgänge oder Aktivierungen des Sprungantriebs im Wirkungsbereich. Der Generator hat mehrere Auswirkungen auf das Ursprungsschiff, während er aktiv ist. Er verstärkt seinen Signaturradius und verhindert außerdem, dass von Verbündeten ausgehende externe Effekte auf das Ursprungsschiff wirken können. Die Wirkung dieses Moduls kann durch Skripte verändert werden. Wenn Skripte verwendet werden, hindert es Schiffe der Capital-Klasse an der Benutzung von Sprungtoren (mit der Ausnahme von Sprungfrachtern, Frachtern und der Orca). Hinweis: Dieses Modul kann nur in schwere Unterbrechungskreuzer eingebaut werden.",
+    "en": "The field generator projects a warp disruption sphere centered upon the ship for its entire duration. The field prevents any warping or jump drive activation within its area of effect.\r\n\r\nThe generator has several effects upon the parent ship whilst active. It increases its signature radius and also prevents any friendly remote effects from being rendered to the parent ship.\r\n\r\nThis module's effect can be modified with scripts. When scripted it prevents capital class ships from using stargates (excluding Jump Freighters, Freighters and the Orca). \r\n\r\nNote: Can only be fitted to the Heavy Interdiction Cruisers.",
+    "es": "El generador de campo proyecta una esfera de disrupción de warp centrada en la nave hasta que se extingue. El campo impide que activar los motores de salto o de warp dentro de su radio de acción.\n\n\n\nEl generador influye de distintas maneras en la nave principal mientras está activo: aumenta el radio de su señal y evita que se reproduzcan los efectos remotos aliados en la nave principal.\n\n\n\nEl efecto de este módulo se puede modificar con scripts para impedir que las naves capitales usen portales estelares (salvo los cargueros, los cargueros de salto y la Orca). \n\n\n\nAviso: Solo se puede equipar en cruceros interdictores pesados.",
+    "fr": "Le générateur de champ projette une sphère perturbatrice de warp invariablement amarrée au centre du vaisseau pendant toute sa durée. Le champ empêche de warper ou d'activer un propulseur interstellaire dans sa zone d'effet. Lorsqu'il est actif, le générateur a plusieurs effets sur le vaisseau parent. Il augmente son rayon de signature et empêche les effets à distance des alliés de le toucher. Les effets de ce module peuvent être modifiés à l'aide de scripts. Une fois les scripts appliqués, le module empêche les vaisseaux de classe capitale d'utiliser des portails stellaires (à l'exception des cargos interstellaires, des cargos et de l'Orca). Remarque : ne peut être équipé que sur des croiseurs d'interdiction lourds.",
+    "ja": "フィールドジェネレーターの起動時間中、船を中心としたワープ妨害領域が生成され続ける。このフィールドでは、有効範囲内でのワープまたはジャンプドライブの起動が妨害される。\n\n\n\nジェネレーターの起動中、親艦にはいくつかの効果がもたらされる。また、シグネチャ範囲が拡大し、親艦は味方艦船からの遠隔的な機能向上効果を受けることができなくなる。\n\n\n\nこのモジュールの効果はスクリプトで変更できる。スクリプトを使用すると、キャピタルクラスの艦船がスターゲートを使用できなくなる（ジャンプドライブ搭載型輸送艦、超大型輸送艦、オルカを除く）。 \n\n\n\n注：ワープ妨害型巡洋艦にのみ装備可能。",
+    "ko": "함선 주변으로 워프 디스럽션 필드를 전개합니다. 필드 내에서는 그 어떤 점프 드라이브도 활성화 되지 않으며 워프가 불가능합니다. 필드 생성기 활성화 시 생성기를 탑재한 함선의 시그니처 반경이 증가하며 우호적인 원격 효과가 적용되지 않습니다. 모듈의 효과는 스크립트로 변경할 수 있습니다. 스크립트 장착 시 (점프 화물선, 화물선, 오르카를 제외한) 캐피탈 함선의 스타게이트 사용을 방해할 수 있습니다. 참고: 인터딕터 크루저에만 장착할 수 있습니다.",
+    "ru": "Генератор поля создаёт сферу варп-помех, которая окружает корабль и сохраняется на всё время действия. Поле не позволяет использовать гипер- и варп-двигатели в радиусе своего действия. Работа генератора также создаёт ряд эффектов для корабля, на котором он установлен. Увеличивается радиус его сигнатуры и блокируются дистанционные эффекты союзников. Действие этого модуля можно усилить при помощи скриптов. После установки скриптов этот модуль не позволяет кораблям сверхбольшого тоннажа (кроме джамп-фрейтеров, фрейтеров и «Орки») использовать звёздные врата. Примечание: можно установить только на тяжёлый заградительный крейсер.",
+    "zh": "跃迁扰断力场发生器能生成一个以舰船为中心的跃迁扰断力场。这个扰断力场将在其有效范围内阻止任何舰船进行跃迁或者使用跳跃引擎。\n\n\n\n此装备对使用它的舰船有一些副作用。它会提高信号半径，还将阻断任何加载在本舰上的友方远程协助效果。\n\n\n\n此装备的效果可以用脚本进行修改。使用脚本后，它阻止旗舰级舰船（战略货舰、货舰和逆戟鲸级除外）使用星门。 \n\n\n\n注：只能安装在重型拦截巡洋舰上。"
+  },
+  "graphicID": 20396,
+  "groupID": 899,
+  "iconID": 21489,
+  "marketGroupID": 1085,
+  "metaGroupID": 2,
   "name": {
     "de": "Warp Disruption Field Generator II",
     "en": "Warp Disruption Field Generator II",
@@ -10,5 +26,8 @@
     "ru": "Warp Disruption Field Generator II",
     "zh": "跃迁扰断力场发生器 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 28654,
   "volume": 50.0
 }

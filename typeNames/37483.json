@@ -1,5 +1,87 @@
 {
-  "typeID": 37483,
+  "basePrice": 43400000.0,
+  "capacity": 400.0,
+  "description": {
+    "de": "Kommandozerstörer sind eine vielseitige Ergänzung für Flotten aller Größenordnungen. Da sie die kleinste und wendigste Plattform für Kommandostrahlentechnologie darstellen, prädestiniert sie das als vorrangige Wahl für sich schnell bewegende Wolfsrudel. Der einzigartige Zugriff auf Mikrosprungfeldgeneratoren ermöglicht es ihnen, Manöver durchzuführen, die andere Schiffe rasch im Raum versetzen, egal ob befreundete oder feindliche.",
+    "en": "Command Destroyers represent a versatile addition to fleets of all sizes. Being the smallest and most agile platforms for Command Burst technology positions them as the premier support option for fast-moving wolf packs. Unique access to Micro Jump Field Generators also allows them to perform maneuvers that rapidly reposition other ships, be they friend or foe.",
+    "es": "Los destructores de mando representan una versátil incorporación a flotas de todos los tamaños. Al ser las plataformas más pequeñas y ágiles para la tecnología de estallido de mando, se posicionan como la principal opción de apoyo para las veloces manadas de lobos. El acceso exclusivo a los generadores de campo de microsalto también les permite realizar maniobras que reposicionan rápidamente a otras naves, ya sean amigas o enemigas.",
+    "fr": "Les destroyers de commandement représentent un atout versatile au sein de toute flotte. Les plus petites et les plus agiles des plateformes de soutien équipées de la technologie des salves de commandement s'avèrent redoutables dans les flottes rapides adeptes d'offensives éclair. Les destroyers de commandement, développés parallèlement aux générateurs de champ de micro-saut, sont capables d'exécuter des manœuvres inédites de repositionnement stratégique à l'échelle de flottes alliées comme ennemies.",
+    "ja": "指揮型駆逐艦はあらゆる場面・規模のフリートで活躍する。コマンドバーストテクノロジーを利用できるものの中では極めて小型で身軽であるため、俊敏性と高度な連携を要するグループ作戦にもってこいである。マイクロジャンプフィールドジェネレーターに対する特殊なアクセス方法を採用しており、敵・味方の艦船の位置が周囲で目まぐるしく変わるような機動作戦にも耐えられる。",
+    "ko": "커맨드 디스트로이어는 함대의 규모와 상관 없이 범용적으로 투입 가능한 함선입니다. 커맨드 버스트 기술을 사용할 수 있는 가장 작고 빠른 함선이기에 고속 함대 지원에 관해서는 최고로 여겨집니다. 마이크로 점프 필드 생성기 또한 사용 가능하여 아군 함선 또는 적군 함선의 위치를 전략적으로 재배치 할 수 있습니다.",
+    "ru": "Лидеры гармонично дополняют флот любых размеров. Будучи самыми небольшими и маневренными кораблями, приспособленными для использования импульсных оптимизаторов, они являются идеальными кораблями поддержки стремительных «волчьих стай». Только лидеры могут оснащаться генераторами разгонного поля; эти генераторы позволяют пилоту лидера оперативно перемещать по полю боя другие корабли — как вражеские, так и союзные.",
+    "zh": "指挥驱逐舰是对各种规模舰队的一种有力补充。作为最小且最灵活的指挥脉冲波技术搭载平台，它可以为来去如风的狼群战术提供强力支持。能装载微型跳跃力场发生器更让它为迅速改变战场上敌我舰船的阵型提供了源动力。"
+  },
+  "factionID": 500004,
+  "graphicID": 21223,
+  "groupID": 1534,
+  "marketGroupID": 2132,
+  "mass": 1150000.0,
+  "masteries": {
+    "0": [
+      96,
+      67,
+      164,
+      140,
+      109,
+      99,
+      150,
+      153,
+      89,
+      94
+    ],
+    "1": [
+      96,
+      67,
+      164,
+      140,
+      109,
+      99,
+      150,
+      153,
+      89,
+      94
+    ],
+    "2": [
+      96,
+      67,
+      164,
+      140,
+      109,
+      99,
+      150,
+      153,
+      89,
+      94
+    ],
+    "3": [
+      96,
+      67,
+      164,
+      140,
+      109,
+      99,
+      150,
+      153,
+      89,
+      94
+    ],
+    "4": [
+      96,
+      67,
+      164,
+      140,
+      109,
+      99,
+      117,
+      150,
+      153,
+      152,
+      89,
+      154,
+      94
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Magus",
     "en": "Magus",
@@ -10,5 +92,154 @@
     "ru": "Magus",
     "zh": "占星级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 136.0,
+  "sofFactionName": "creodron",
+  "soundID": 20072,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Kann Mikrosprungfeldgeneratoren ausrüsten",
+          "en": "Can fit Micro Jump Field Generators",
+          "es": "Es posible equipar generadores de campo de microsalto.",
+          "fr": "Peut contenir des générateurs de champ de microsaut",
+          "ja": "マイクロジャンプフィールドジェネレーターを装備できる",
+          "ko": "마이크로 점프 필드 생성기들을 장착할 수 있음",
+          "ru": "Корабли этого типа могут оснащаться генераторами разгонного поля",
+          "zh": "可以装配微型跳跃力场发生器"
+        },
+        "importance": 4
+      },
+      {
+        "bonusText": {
+          "de": "Kann ein <a href=showinfo:3348>Kommandostrahl</a>-Modul verwenden",
+          "en": "Can use one <a href=showinfo:3348>Command Burst</a> module",
+          "es": "Es posible equipar un módulo de <a href=showinfo:3348>estallido de mando</a>.",
+          "fr": "Peut utiliser une <a href=showinfo:3348>salve de commandement</a>.",
+          "ja": "<a href=showinfo:3348>コマンドバースト</a>モジュールは1個使用可能です",
+          "ko": "한 개의 <a href=showinfo:3348>커맨드 버스트</a> 모듈만 사용 가능",
+          "ru": "Корабли этого типа могут включать один <a href=showinfo:3348>импульсный оптимизатор</a>",
+          "zh": "可以装配一个<a href=showinfo:3348>指挥脉冲波</a>装备"
+        },
+        "importance": 5
+      },
+      {
+        "bonus": 50,
+        "bonusText": {
+          "de": "Reduktion des <a href=showinfo:3454>Mikrowarpantrieb</a>-Signaturradius",
+          "en": "reduction in <a href=showinfo:3454>Microwarpdrive</a> signature radius penalty",
+          "es": "de reducción de la penalización de radio de la señal del <a href=showinfo:3454>motor de microwarp</a>.",
+          "fr": "de réduction à la pénalité de rayon de signature du <a href=showinfo:3454>propulseur de microwarp</a>",
+          "ja": "<a href=showinfo:3454>マイクロワープドライブ</a>のシグネチャ半径ペナルティが軽減",
+          "ko": "<a href=showinfo:3454>마이크로 워프 드라이브</a> 시그니처 반경 페널티 감소",
+          "ru": "уменьшается влияние <a href=showinfo:3454>микроварп-ускорителей</a> на размер сигнатуры корабля",
+          "zh": "<a href=showinfo:3454>微型跃迁推进器</a>的信号半径惩罚减少"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 50,
+        "bonusText": {
+          "de": "Reduktion der Reaktivierungsverzögerung von <a href=showinfo:3323>Abfangwerfern</a>",
+          "en": "reduction in reactivation delay for <a href=showinfo:3323>Defender Launcher</a>",
+          "es": "de reducción de la demora de reactivación de los <a href=showinfo:3323>lanzamisiles defensivos</a>.",
+          "fr": "de réduction du délai de réactivation des <a href=showinfo:3323>lanceurs antibalistiques</a>.",
+          "ja": "<a href=showinfo:3323>迎撃ランチャー</a>の再起動遅延時間を短縮",
+          "ko": "<a href=showinfo:3323>디펜더 런처</a> 사이클 감소",
+          "ru": "сокращается задержка повторного включения ПУ <a href=showinfo:3323>противоракет</a>",
+          "zh": "缩短<a href=showinfo:3323>拦截导弹发射器</a>的重启延时"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonus": 95,
+        "bonusText": {
+          "de": "Reduktion des Stromnetzbedarfs von <a href=showinfo:3348>Kommandostrahlen</a>",
+          "en": "reduction in powergrid requirements for <a href=showinfo:3348>Command Bursts</a>",
+          "es": "de reducción de los requisitos del sistema de potencia para los <a href=showinfo:3348>estallidos de mando</a>.",
+          "fr": "de réduction de la consommation en réseau d'alimentation des <a href=showinfo:3348>salves de commandement</a>.",
+          "ja": "<a href=showinfo:3348>コマンドバースト</a>のパワーグリッド要件が減少",
+          "ko": "<a href=showinfo:3348>커맨드 버스트</a> 파워그리드 요구치 감소",
+          "ru": "сокращается потребность <a href=showinfo:3348>импульсных оптимизаторов</a> в мощностях реактора",
+          "zh": "<a href=showinfo:3348>指挥脉冲波</a>能量栅格需求降低"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "33093": [
+        {
+          "bonus": 4,
+          "bonusText": {
+            "de": "Bonus auf alle Panzerungsresistenzen",
+            "en": "bonus to all armor resistances",
+            "es": "de bonificación a todas las resistencias de blindaje.",
+            "fr": "de bonus à toutes les résistances de blindage",
+            "ja": "全てのアーマーレジスタンスが増加",
+            "ko": "모든 장갑 저항력 증가",
+            "ru": "повышается сопротивляемость брони корабля всем видам воздействия",
+            "zh": "装甲抗性加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf die HP und den Schaden von <a href=showinfo:3436>Drohnen</a>",
+            "en": "bonus to <a href=showinfo:3436>Drone</a> hitpoints and damage",
+            "es": "de bonificación a los puntos de vida y el daño de los <a href=showinfo:3436>drones</a>.",
+            "fr": "de bonus aux dégâts et aux points de vie du <a href=showinfo:3436>drone</a>",
+            "ja": "<a href=showinfo:3436>ドローン</a>のヒットポイント、ダメージが増加",
+            "ko": "<a href=showinfo:3436>드론</a> 내구도 및 피해량 증가",
+            "ru": "увеличивается урон бортового оружия <a href=showinfo:3436>дронов</a>; увеличивается запас их прочности",
+            "zh": "<a href=showinfo:3436>无人机</a>HP和伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ],
+      "37615": [
+        {
+          "bonus": 2,
+          "bonusText": {
+            "de": "Bonus auf Effektstärke und Dauer von <a href=showinfo:20494>Panzerungkommando</a>- und <a href=showinfo:3349>Gefechtkommando</a>strahlen",
+            "en": "bonus to <a href=showinfo:20494>Armored Command</a> and <a href=showinfo:3349>Skirmish Command</a> Burst effect strength and duration",
+            "es": "de bonificación a la intensidad y la duración del efecto del estallido de <a href=showinfo:20494>mando de blindaje</a> y <a href=showinfo:3349>mando de escaramuza</a>.",
+            "fr": "de bonus à la puissance et à la durée des salves de <a href=showinfo:20494>commandement blindé</a> et de <a href=showinfo:3349>commandement tactique</a>.",
+            "ja": "<a href=showinfo:20494>アーマーコマンドバースト</a>と<a href=showinfo:3349>機動戦コマンドバースト</a>の効果強度と持続時間が上昇",
+            "ko": "<a href=showinfo:20494>장갑 커맨드 버스트</a> 및 <a href=showinfo:3349>스커미시 버스트</a> 효과 강화 및 지속시간 증가",
+            "ru": "повышается эффективность и длительность действия импульсов, генерируемых <a href=showinfo:20494>импульсными оптимизаторами брони</a> и <a href=showinfo:3349>импульсными оптимизаторами маневрирования</a>",
+            "zh": "<a href=showinfo:20494>装甲指挥</a>和<a href=showinfo:3349>游击战指挥</a>脉冲波强度和持续时间加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Reduktion der Hochfahrzeit von <a href=showinfo:37479>Mikrosprungfeldgeneratoren</a>",
+            "en": "reduction in <a href=showinfo:37479>Micro Jump Field Generator</a> spool up time",
+            "es": "de reducción del tiempo de carga del <a href=showinfo:37479>generador de campo de microsalto</a>.",
+            "fr": "de réduction du temps de réactivation du <a href=showinfo:37479>générateur de champ de microsaut</a>",
+            "ja": "<a href=showinfo:37479>マイクロジャンプフィールドジェネレーター</a>の起動準備時間を短縮",
+            "ko": "<a href=showinfo:37479>마이크로 점프 필드 생성기</a> 예열 시간 감소",
+            "ru": "сокращается продолжительность рабочего цикла (время разогрева после запуска) <a href=showinfo:37479>генераторов разгонного поля</a>",
+            "zh": "<a href=showinfo:37479>微型跳跃力场发生器</a>加速时间减少"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 32872,
   "volume": 55000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 3361,
+  "basePrice": 200000.0,
+  "description": {
+    "de": "Fertigkeit, mit kriminellen, aber freundlich gesinnten NPCs zusammenzuarbeiten.\r\n\r\n4% Modifikator auf das effektive Ansehen bei NPCs mit niedrigem Ansehen bei CONCORD. Nicht kumulativ mit \"Diplomacy\" oder \"Connections\".",
+    "en": "Skill at interacting with friendly criminal NPCs. 4% Modifier per level to effective standing towards NPCs with low Concord standing. Not cumulative with Diplomacy or Connections.",
+    "es": "Habilidad para interactuar con PNJ criminales amistosos. Modificador del 4 % por nivel al prestigio efectivo con PNJ con un bajo prestigio con CONCORD. No se acumula con la diplomacia ni con las conexiones.",
+    "fr": "Compétence liée à l'interaction avec les PNJ alliés criminels. Modifie de 4 % par niveau la réputation effective envers les PNJ dotés d'une faible réputation auprès de Concord. Non cumulable avec les compétences Diplomatie ou Relations.",
+    "ja": "犯罪社会のNPCと友好的に交際するスキル。レベル上昇ごとに低いCONCORDスタンディングを持つNPCに対する有効なスタンディングを4%改善する。折衝またはコネクションとは加算されない。",
+    "ko": "우호적인 범죄조직 NPC와의 교류 확대를 위한 스킬입니다. 매 레벨마다 낮은 CONCORD 평판을 가진 NPC를 대상으로 실질 평판 4% 증가. 외교 및 커넥션 스킬 효과와 중첩되지 않습니다.",
+    "ru": "Навык общения с дружественными NPC-персонажами, принадлежащими к миру криминала. За каждую степень освоения навыка: на 4% улучшаются фактические отношения пилотов и NPC-персонажей, которым КОНКОРД присвоил низкую степень соответствия своим нормам. Эффект не складывается с эффектом от навыков «Отношения с организациями» или «Дипломатические отношения».",
+    "zh": "与不法NPC交涉的技能。每升一级，对于低统合部声望的NPC有效声望值增加4%。不与外交学或者关系学技能进行累加。"
+  },
+  "groupID": 278,
+  "iconID": 33,
+  "marketGroupID": 376,
   "name": {
     "de": "Criminal Connections",
     "en": "Criminal Connections",
@@ -10,5 +23,7 @@
     "ru": "Отношения с криминалитетом",
     "zh": "犯罪关系研究"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

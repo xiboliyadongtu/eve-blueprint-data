@@ -1,5 +1,19 @@
 {
-  "typeID": 28748,
+  "description": {
+    "de": "Ein einfacher Bergbaulaser für den Abbau von Erzen, die im tiefen Inneren von Asteroiden verborgen sind, wie zum Beispiel Mercoxit. Der Laser ist ziemlich ineffizient, aber erledigt seine Arbeit ... früher oder später.",
+    "en": "A basic mining laser for deep core mining ore such as mercoxit. Very inefficient but does get the job done ... eventually",
+    "es": "Láser minero con tecnología básica para extraer menas de núcleo profundo, como la mercoxita. Poco eficaz, pero al final cumple su cometido.",
+    "fr": "Laser d'extraction de base permettant d'extraire du minerai de profondeur, tel que le mercoxit. Très inefficace mais remplit son rôle... lentement mais sûrement.",
+    "ja": "メロコキサイトなどディープコア採掘が必要な鉱石に使う、基本的な採掘レーザー。効率が良いとはいえないが、仕事を確実にこなしてくれる…時間さえかければ。",
+    "ko": "딥코어 채굴에 사용되는 기본형 채굴 레이저로 메르코시트와 같은 광석을 추출하는데 사용됩니다. 효율성이 매우 낮지만... 어쨌든 작동은 합니다.",
+    "ru": "Базовая модель экстрактора для глубокого бурения, например, для добычи Mercoxit. Чрезвычайно малоэффективный, но свою работу делает... рано или поздно.",
+    "zh": "一种用于开采基腹断岩之类的深层地核矿石的基础采矿激光器。效率非常低，但至少能完成开采。"
+  },
+  "graphicID": 11142,
+  "groupID": 54,
+  "iconID": 2101,
+  "marketGroupID": 1039,
+  "metaGroupID": 4,
   "name": {
     "de": "ORE Deep Core Mining Laser",
     "en": "ORE Deep Core Mining Laser",
@@ -10,5 +24,10 @@
     "ru": "ORE Deep Core Mining Laser",
     "zh": "外空联合矿业深层地核采矿激光器"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 25.0,
+  "sofFactionName": "orebase",
+  "variationParentTypeID": 12108,
   "volume": 5.0
 }

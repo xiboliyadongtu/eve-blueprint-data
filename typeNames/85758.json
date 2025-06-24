@@ -1,5 +1,19 @@
 {
-  "typeID": 85758,
+  "basePrice": 50000.0,
+  "description": {
+    "de": "Scans, die direkt am Observatorium durchgeführt wurden, kartieren einzigartige Strahlungsmuster und Hyperraumverzerrungen.",
+    "en": "Scans carried out on the observatory itself, charting unique radiation patterns and hyperspace distortions.",
+    "es": "Escaneos realizados en el propio observatorio que trazan patrones de radiación únicos y distorsiones del hiperespacio.",
+    "fr": "Les balayages réalisés sur l'observatoire lui-même cartographient des motifs de rayonnement uniques et des distorsions de l'hyperespace.",
+    "ja": "観測所で行われたスキャンのデータ。独特な放射線パターンとハイパースペースの歪みが表れている。",
+    "ko": "관측소 스캔 데이터로 다양한 특이 방사 패턴과 하이퍼스페이스 신호가 기록되었습니다.",
+    "ru": "Благодаря сканированию, проведённому в самой обсерватории, нам удалось составить схему излучения и искажений гиперпространства.",
+    "zh": "对观测站本身进行的扫描，绘制出独特的辐射模式和超空间畸变图。"
+  },
+  "groupID": 314,
+  "iconID": 2886,
+  "marketGroupID": 1863,
+  "mass": 1.0,
   "name": {
     "de": "Observatory Spectrography",
     "en": "Observatory Spectrography",
@@ -10,5 +24,7 @@
     "ru": "Observatory Spectrography",
     "zh": "观测站光谱分析"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

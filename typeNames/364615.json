@@ -1,5 +1,17 @@
 {
-  "typeID": 364615,
+  "basePrice": 787000.0,
+  "description": {
+    "de": "Skill in der Bedienung von Minmatar-Angriffsdropsuits. Schaltet den Zugriff auf Minmatar-Angriffsdropsuits frei. Standard ab Stufe 1, erweitert ab Stufe 3 und Prototypen ab Stufe 5. Angriffsdropsuitbonus: 5% Abzug auf die PG/CPU-Kosten von Leichtwaffen/Sekundärwaffen und Granaten pro Skillstufe. Minmatar-Angriffsdropsuitbonus: +5% auf die Magazingröße von leichten Projektilwaffen/Sekundärwaffen pro Skillstufe.",
+    "en": "Skill at operating Minmatar Assault dropsuits.\n\nUnlocks access to Minmatar Assault dropsuits. Standard at lvl.1; advanced at lvl.3; prototype at lvl.5.\n\nAssault Suit Bonus: 5% reduction to PG/CPU cost of light/sidearm weapons and grenades per level.\nMinmatar Assault Bonus: +5% to clip size of projectile light/sidearm weapons per level.",
+    "es": "Habilidad de manejo de trajes de salto de combate Minmatar. Desbloquea el acceso a los trajes de salto de combate Minmatar: Estándar en el nivel 1, avanzados en el nivel 3 y prototipos en el nivel 5. Bonificación de traje de salto de combate: 5% de reducción al coste de RA/CPU de las granadas y armas ligeras y secundarias por nivel. Bonificación de traje de salto de combate Minmatar: +5% al tamaño del cargador de las armas de proyectiles ligeras y secundarias por nivel.",
+    "fr": "Compétence permettant d'utiliser les combinaisons Assaut Minmatar. Déverrouille l'accès aux combinaisons Assaut Minmatar. Standard au niv.1 ; avancé au niv.3 ; prototype au niv.5. Bonus de combinaison Assaut : 5 % de réduction d'utilisation de PG/CPU des armes légères/secondaires et des grenades par niveau. Bonus Assaut Minmatar : +5 % à la taille du chargeur des armes à projectiles légères/secondaires par niveau.",
+    "it": "Abilità nell'utilizzo delle armature d'assalto Minmatar. Sblocca l'accesso alle armature d'assalto Minmatar. Standard al liv. 1; avanzate al liv. 3; prototipo al liv. 5. Bonus armatura d'assalto: 5% di riduzione all'utilizzo della rete energetica/CPU delle armi leggere/secondarie e delle granate per livello. Bonus assalto Minmatar: +5% alla dimensione della clip delle armi leggere/secondarie che sparano proiettili per livello.",
+    "ja": "ミンマターアサルト降下スーツを扱うためのスキル。ミンマターアサルト降下スーツが使用できるようになる。レベル1で標準型、レベル3で高性能、レベル5でプロトタイプ。アサルトスーツボーナス：レベル上昇ごとに、小火器、サイドアームおよびグレネードのPG/CPU消費量が5%減少する。ミンマターアサルトボーナス：レベル上昇ごとに、プロジェクタイル小兵器とサイドアーム兵器のクリップサイズが5%上昇する。",
+    "ko": "민마타 어썰트 강하슈트를 운용하기 위한 스킬입니다. <br><br>민마타 어썰트 강하슈트를 잠금 해제합니다. 레벨 1 - 일반, 레벨 3 - 상급, 레벨 5 - 프로토타입 <br><br>어썰트 슈트 보너스: <br><br>매 레벨마다 라이트/보조무기 및 수류탄 PG/CPU 요구치 5% 감소 <br><br>민마타 어썰트 보너스:<br><br>매 레벨마다 발사체 라이트/보조무기 탄환 크기 5% 증가",
+    "ru": "Навык обращения с штурмовыми скафандрами Минматар. Позволяет использовать штурмовые скафандры Минматар. Стандартные - на уровне 1; усовершенствованные - на уровне 3; прототипы - на уровне 5. Бонус штурмового скафандра: 5% сокращение потребления ресурсов ЭС/ЦПУ для легкого/личного оружия и гранат на каждый уровень. Штурмовой бонус Минматар: +5% к емкости магазинов артиллерийского легкого/личного вооружения на каждый уровень.",
+    "zh": "操作米玛塔尔突击作战服的技能。解锁米玛塔尔突击作战服。1级解锁标准版；3级解锁高级版；5级解锁原型版。突击套装加成：每升一级，轻型武器/副武器和手榴弹的PG/CPU成本降低5%。米玛塔尔突击加成：每升一级，轻型射弹武器/副武器的弹夹容量增加5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Minmatar-Angriffsdropsuits",
     "en": "Minmatar Assault Dropsuits",
@@ -11,5 +23,6 @@
     "ru": "Штурмовые скафандры Минматар",
     "zh": "米玛塔尔突击作战服"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

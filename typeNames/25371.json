@@ -1,5 +1,18 @@
 {
-  "typeID": 25371,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Die Caracal ist ein mächtiges Schiff und auf den Einsatz von Lenkwaffen ausgerichtet. Ihre Schilde bieten ausgezeichneten Schutz bei eher schwacher Panzerung. Wenn ihr Lenkwaffenarsenal vollständig bestückt ist, kann sie fast alles auseinander nehmen.",
+    "en": "The Caracal is a powerful vessel that specializes in missile deployment. It has excellent shield defenses, but poor armor plating. Its missile arsenal, when fully stocked, is capable of making mincemeat of almost anyone.",
+    "es": "La Caracal es una potente nave que se especializa en el despliegue de misiles. Tiene unas defensas de escudo excelentes, pero un blindaje pobre. Su arsenal misilístico, cuando está lleno, es capaz de hacer picadillo casi a cualquiera.",
+    "fr": "Le Caracal est un vaisseau puissant spécialisé dans le tir de missiles. Ses boucliers sont excellents, mais son blindage est assez faible. Son arsenal de missiles lui permet de tailler en pièces presque tous les vaisseaux existants.",
+    "ja": "カラカルはミサイル攻撃に特化した強力艦である。シールドによる防衛力は極めて高いがアーマープレートは弱い。兵器庫には、ほとんどの敵を粉砕できるだけのミサイルを積むことができる。",
+    "ko": "카라칼은 미사일 운용에 특화된 함선으로 강력한 실드 성능과 반대로 빈약한 장갑 방어력을 갖추고 있습니다. 미사일을 최대로 탑재할 경우 어지간한 함선은 순식간에 산산조각 낼 수 있습니다.",
+    "ru": "Крейсер типа «Каракал» —  мощная ракетная платформа. Его броневое вооружение оставляет желать лучшего, но этот недостаток в полной мере компенсируется мощной аппаратурой силовых полей. Пусковые установки ракет, установленные на борту «каракалов», способны стереть в пыль практически любого противника.",
+    "zh": "狞獾级精于导弹技术，拥有强大的战斗力。它的护盾防御非常优秀，然而装甲却相当脆弱。当它的导弹储备充足时，消灭任何敌人都只是小菜一碟。"
+  },
+  "graphicID": 42,
+  "groupID": 715,
+  "mass": 100000.0,
   "name": {
     "de": "Tomi_Hakiro Caracal",
     "en": "Tomi_Hakiro Caracal",
@@ -10,5 +23,9 @@
     "ru": "Tomi_Hakiro Caracal",
     "zh": "托米·哈吉罗的狞獾级"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 221.05,
+  "sofFactionName": "caldaribase",
   "volume": 100000000.0
 }

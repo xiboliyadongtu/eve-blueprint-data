@@ -1,5 +1,16 @@
 {
-  "typeID": 21838,
+  "description": {
+    "de": "Ein Aufzug - nach unten?",
+    "en": "An elevator. Going down?",
+    "es": "Un ascensor. ¿Bajas?",
+    "fr": "Un ascenseur. Vous voulez descendre ?",
+    "ja": "エレベーター。下へ参ります!",
+    "ko": "엘리베이터입니다. 몇 층 가세요?",
+    "ru": "Лифт. Вам вниз?",
+    "zh": "一部升降机。下去？"
+  },
+  "graphicID": 2480,
+  "groupID": 226,
   "name": {
     "de": "Fortified Minmatar Elevator",
     "en": "Fortified Minmatar Elevator",
@@ -10,5 +21,9 @@
     "ru": "Fortified Minmatar Elevator",
     "zh": "强化的米玛塔尔升降机"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 765.0,
+  "sofFactionName": "minmatarbase"
 }

@@ -1,5 +1,16 @@
 {
-  "typeID": 47866,
+  "description": {
+    "de": "Eine Raumverwerfung des Abgrunds, die mit der Strahlung vom Nachleuchten eines Gammastrahlenblitzes gesättigt ist. Schiffe in dieser Umgebung erhalten Abzüge auf ihre Explosivresistenz und einen Bonus auf die Schild-HP.",
+    "en": "An Abyssal Deadspace environment saturated with radiation from the afterglow of a gamma-ray burst.\r\n\r\nShips in this environment receive a bonus to shield HP and a penalty to explosive resistance.",
+    "es": "Entorno del espacio muerto abisal saturado con radiación del resplandor de un estallido de rayos gamma.\n\nLas naves en este entorno reciben una bonificación a los PV del escudo y una penalización a la resistencia explosiva.",
+    "fr": "Un abîme Deadspace saturé de radiations dues à la rémanence d'une salve de rayons gamma. Les vaisseaux se trouvant dans cet environnement reçoivent un bonus aux PV du bouclier et une pénalité à la résistance aux explosifs.",
+    "ja": "ガンマ線バーストの残光による放射線で飽和したアビサルデッドスペース環境。\r\n\nこの環境にいる艦船は、シールドHPにボーナス、爆発耐性にペナルティを受ける。",
+    "ko": "감마선 폭발로 인해 어버실 데드스페이스가 방사선으로 포화되었습니다. <br><br>해당 환경에 놓인 함선은 실드 내구도가 증가하는 반면 폭발 저항력이 감소합니다.",
+    "ru": "Область Мёртвой бездны, насыщенная радиацией от остаточного свечения гамма-лучей. Корабли в таких условиях получают бонус к прочности щитов и штраф к сопротивляемости взрывному урону.",
+    "zh": "深渊空间环境中充满了伽马射线脉冲波的残余放射性物质。\n\n\n\n舰船在这种环境中的爆炸抗性有所降低，但护盾值有所提高。"
+  },
+  "groupID": 1983,
+  "iconID": 21904,
   "name": {
     "de": "Gamma-Ray Afterglow",
     "en": "Gamma-Ray Afterglow",
@@ -10,5 +21,6 @@
     "ru": "Gamma-Ray Afterglow",
     "zh": "伽玛射线余波"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

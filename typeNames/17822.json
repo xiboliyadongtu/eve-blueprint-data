@@ -1,5 +1,18 @@
 {
-  "typeID": 17822,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Das architektonische Design für das CreoDron Wohnmodul begann als ein Bauauftrag seitens der Expert Housing Corporation, um die Unterkünfte, die üblicherweise von Bergleuten und Allforschern verwendet wurden, zu standardisieren. Als das Projekt wegen mangelnder Finanzierungsmöglichkeiten eingestellt wurde, verwendete CreoDron den Designentwurf für den kommerziellen Gebrauch auf dem freien Markt, um High-Orbit-Bürogebäude anzubieten. Der Marketingversuch war ein Volltreffer: Heute sieht man das Wohnmodul überall im Universum. Es wird u.a. für Bars, Kasinos, Hotels, Bordelle, Polizeistationen und Verhörstationen verwendet.",
+    "en": "The architectural design for the CreoDron Habitation Module started out as a contract deal from the Expert Housing Corporation to standardize the modular drifter homes normally used by miners and deep space explorers. When the project was cancelled due to insufficient funding, CreoDron utilized their design for the open market as high-orbit department buildings for commercial use. The marketing was a tremendous hit, making the Habitation Module a common sight across the universe. Common uses include anything from bars, casinos and brothels, to police stations and interrogation facilities.",
+    "es": "El diseño arquitectónico del módulo habitacional de CreoDron surgió como un contrato de la corporación Expert Housing para estandarizar los hogares modulares drifters que suelen usar los mineros y los exploradores del espacio profundo. Cuando el proyecto se canceló debido a la falta de financiación, CreoDron aprovechó su diseño para el mercado libre y construyó bloques de edificios de alta órbita para uso comercial. La campaña tuvo un éxito tremendo, por lo que el módulo habitacional se ve a menudo por todo el universo. Sus usos más comunes van desde bares, casinos y burdeles hasta estaciones de policía y centros de interrogatorios.",
+    "fr": "La conception architecturale du module d'habitation CreoDron avait été confiée à l'origine à la corporation Expert Housing. Cette dernière devait mettre au point un habitat standard pour les mineurs et les explorateurs de l'espace profond. Après l'annulation du projet par manque de fonds, CreoDron commercialisa cette conception pour des bâtiments de haute orbite à des fins commerciales. Son succès fut immédiat, à tel point que le module d'habitation est aujourd'hui présent dans tout l'univers. On l'utilise généralement pour les bars, les casinos et les bordels, mais aussi les postes de police et les salles d'interrogatoire.",
+    "ja": "クレオドロンの居住施設の建築デザインはそもそも、鉱山労働者や宇宙の深淵の探検家が愛用していたモジュール式漂流住宅を一般に浸透させるためにエキスパート住宅コーポレーションとの間で交わされた契約内容に含まれていた。資金不足で計画が頓挫すると、クレオドロンは商用の高軌道デパートメントビルにそのデザインを流用した。この市場戦略が奏功して、今では宇宙中で一般的に見られる居住施設となった。用途は多岐にわたり、酒場やカジノ、売春宿から警察署や尋問施設までと幅広い。",
+    "ko": "크레오드론 거주 모듈은 주점, 카지노, 윤락소부터 경찰서나 심문시설 등으로도 활용되고 있는 엑스퍼트 하우징 사의 인기작입니다. 엑스퍼트 하우징이 심우주 탐험가 및 광부 거주모듈 생산 프로젝트를 입찰하는 과정에서 크레오드론 거주 모듈이 탄생하였습니다. 자금확보 실패로 프로젝트가 취소되자 크레오드론은 거주모듈을 고궤도 상업시설이라는 컨셉에 맞춰 설계를 변경하여 출시했습니다. 이러한 마케팅 방식이 큰 성공을 거두게 되면서 뉴에덴 전역에서 크레오드론 거주 모듈을 손쉽게 찾아볼 수 있게 되었습니다.",
+    "ru": "Архитектурный проект жилого модуля CreoDron был изначально разработан по договору с корпорацией Expert Housing для стандартизации модульных домов, которые обычно использовались шахтерами и исследователями дальнего космоса. Когда проект был закрыт из-за недостаточного финансирования, компания CreoDron выпустила проект на открытый рынок в виде орбитальных жилых помещений для коммерческого использования. Маркетинговая кампания прошла чрезвычайно успешно, и через некоторое время жилые модули CreoDron получили распространение во всей вселенной. Они используются самым разным образом: в них устраивают бары, казино, публичные дома, полицейские участки и помещения для допросов.",
+    "zh": "西顿工业与行家住宅公司达成协议，为其实现矿工和外空间探索者居住漂流站的标准化，这便是西顿工业居住舱设计的开端。当工程因资金短缺而取消时，西顿工业把他们的设计以高轨道商用公寓的形式推向市场。这次市场推广极其成功，以致后来居住舱成为宇宙中随处可见的景象。 它们被赋予各种用途：酒吧、赌场甚至娱乐场所、警察局和星际安保站。"
+  },
+  "graphicID": 2515,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Staff Quarters",
     "en": "Staff Quarters",
@@ -10,5 +23,10 @@
     "ru": "Staff Quarters",
     "zh": "工作人员居所"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 379.0,
+  "sofFactionName": "genericliving",
+  "soundID": 31,
   "volume": 100000000.0
 }

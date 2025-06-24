@@ -1,5 +1,21 @@
 {
-  "typeID": 33867,
+  "basePrice": 10000000.0,
+  "capacity": 1000000.0,
+  "description": {
+    "de": "Eine Produktionseinrichtung, in der gewöhnliche und hochentwickelte Capital-Schiffskomponenten gebaut werden können.",
+    "en": "An assembly facility where Standard and Advanced Capital Ship Components can be manufactured.",
+    "es": "Un centro de ensamblaje donde se pueden fabricar componentes estándar y avanzados de naves capitales.",
+    "fr": "Module d'assemblage permettant la fabrication de composants standard et avancés pour vaisseaux capitaux.",
+    "ja": "標準および高性能母艦の部品を製造できる組み立て施設。",
+    "ko": "스탠다드 및 어드밴스 함선 부품을 생산할 수 있는 생산 시설입니다.",
+    "ru": "Блок-завод для производства стандартных и усовершенствованных компонентов для кораблей большого тоннажа.",
+    "zh": "制造标准和高级旗舰级舰船组件的组装设施。"
+  },
+  "graphicID": 2377,
+  "groupID": 397,
+  "marketGroupID": 932,
+  "mass": 100000000.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Thukker Component Assembly Array",
     "en": "Thukker Component Assembly Array",
@@ -10,5 +26,10 @@
     "ru": "Thukker Component Assembly Array",
     "zh": "图克尔组件装配阵列"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 937.0,
+  "sofFactionName": "genericmetal",
   "volume": 12500.0
 }

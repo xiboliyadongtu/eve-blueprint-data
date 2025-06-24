@@ -1,5 +1,79 @@
 {
-  "typeID": 33151,
+  "basePrice": 78000000.0,
+  "capacity": 475.0,
+  "description": {
+    "de": "Dieses Schiff basiert auf den Erfahrungen, welche die Föderation mit den offensiven Schlachtschiffen der Talos machen durfte. In dem Wissen, dass der Rumpf der Brutix ausbaufähig war, wurden sämtliche aktiven Verteidigungselemente entfernt und durch Verbesserungen am ohnehin schon beträchtlichen Schadenspotential ersetzt. Das Ergebnis dieses Experiments war die Brutix Navy Issue, ein Schiff, das in den wenigen Kämpfen, die es bisher bestehen musste, enormes Potenzial bewiesen hat.",
+    "en": "This ship was born out of the experience gained by the Federation after the launch of the Talos-Class Attack Battlecruiser. Sensing that the Brutix hull could be refined further, it was decided to remove all notion of active defense from it to favor improvements to its already significant damage potential. The final outcome of this experiment resulted in the Brutix Navy Issue, a vessel that already shows great potential from the few skirmishes it has been into so far.",
+    "es": "Esta nave nació de la experiencia adquirida por la Federación tras el lanzamiento del crucero de combate de clase Talos. Al creer que el casco de la Brutix podía perfeccionarse aún más, se decidió eliminar toda noción de defensa activa para mejorar una capacidad de daño ya de por sí significativa. El resultado final de este experimento resultó en la Brutix modelo de la Armada, una nave que ya muestra gran potencial en las pocas escaramuzas en las que ha participado hasta la fecha.",
+    "fr": "Ce vaisseau est né de l'expérience acquise par la Fédération après le lancement des croiseurs de bataille d'attaque de classe Talos. Sentant que la coque du Brutix pouvait être améliorée, il fut décidé d'en retirer tout élément de défense active afin d'augmenter encore sa puissance de feu déjà conséquente. Cette expérience donna naissance au Brutix Navy, un vaisseau qui a déjà montré un grand potentiel dans les quelques escarmouches auxquelles il a participé.",
+    "ja": "この船はタロス級強襲型巡洋戦艦の発表後に連邦が得た経験から生まれた。ブルティクスの船体にはまだ改良の余地があると見て、思いきって能動防御の概念を完全に捨て、元々優秀だったダメージ性能の向上に集中したのである。その実験的な試みから生まれたのがブルティクス海軍仕様で、すでに何度かのスカーミッシュ戦に投入され、大きな期待の持てる戦果を出している。",
+    "ko": "갈란테 연방에서 탈로스급 배틀크루저의 등장으로 인해 새로 건조된 함선입니다. 브루틱스 선체를 좀 더 개선하여 기존 방어 기능을 모조리 제거하고 이미 뛰어난 공격 능력을 더 강화했습니다. 그렇게 건조된 브루틱스 해군 에디션은 최근 소수의 스커미시 교전 결과만으로도 앞으로의 전투에 높은 잠재력이 보입니다.",
+    "ru": "Этот корабль был создан после осмысления опыта, полученного Галлентской Федерацией в результате создания быстроходного линейного крейсера типа «Талос». В целях дальнейшего улучшения проекта «Брутикс» было решено убрать из него все активные защитные системы и дополнительно усилить и без того уже немалую огневую мощь. В результате был создан «Брутикс-флотский» — корабль, который уже сейчас выглядит многообещающе, судя по тем немногим стычкам, в которых он успел себя проявить.",
+    "zh": "联邦在研发塔洛斯级攻击型战列巡洋舰的过程中积累了许多宝贵经验，并将其应用到了这艘船上。它是对布鲁提克斯级的改良，移除了所有的主动防御特性，进一步提升了它本已十分出色的攻击能力。这就是布鲁提克斯级海军型，尽管目前它只参与了几次小型战斗，但已经展现出了巨大的潜力。"
+  },
+  "factionID": 500004,
+  "graphicID": 20229,
+  "groupID": 419,
+  "marketGroupID": 1704,
+  "mass": 11800000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      68,
+      165,
+      140,
+      150,
+      89,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      68,
+      165,
+      140,
+      150,
+      89,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      68,
+      165,
+      140,
+      150,
+      89,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      68,
+      165,
+      140,
+      150,
+      89,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      68,
+      165,
+      140,
+      109,
+      117,
+      150,
+      153,
+      152,
+      89,
+      154,
+      94
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Brutix Navy Issue",
     "en": "Brutix Navy Issue",
@@ -10,5 +84,94 @@
     "ru": "Brutix Navy Issue",
     "zh": "布鲁提克斯级海军型"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 196.0,
+  "sofFactionName": "gallentenavy",
+  "soundID": 20072,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Kann ein <a href=showinfo:3348>Kommandostrahl</a>-Modul verwenden",
+          "en": "Can use one <a href=showinfo:3348>Command Burst</a> module",
+          "es": "Es posible equipar un módulo de <a href=showinfo:3348>estallido de mando</a>.",
+          "fr": "Peut utiliser une <a href=showinfo:3348>salve de commandement</a>.",
+          "ja": "<a href=showinfo:3348>コマンドバースト</a>モジュールは1個使用可能です",
+          "ko": "한 개의 <a href=showinfo:3348>커맨드 버스트</a> 모듈만 사용 가능",
+          "ru": "Корабли этого типа могут включать один <a href=showinfo:3348>импульсный оптимизатор</a>",
+          "zh": "可以装配一个<a href=showinfo:3348>指挥脉冲波</a>装备"
+        },
+        "importance": 1
+      },
+      {
+        "bonus": 25,
+        "bonusText": {
+          "de": "Bonus auf die optimale Reichweite und den Präzisionsabfall von <a href=showinfo:3304>mittelgroßen Hybridgeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:3304>Medium Hybrid Turret</a> optimal range and falloff",
+          "es": "de bonificación a los alcances óptimo y efectivo de la <a href=showinfo:3304>torreta híbrida mediana</a>.",
+          "fr": "de bonus à la portée optimale et à la perte de la <a href=showinfo:3304>tourelle hybride intermédiaire</a>",
+          "ja": "<a href=showinfo:3304>中型ハイブリッドタレット</a>の最適射程距離および精度低下範囲が拡大",
+          "ko": "<a href=showinfo:3304>중형 하이브리드 터렛</a> 최적사거리 및 유효사거리 증가",
+          "ru": "увеличивается оптимальная и добавочная дальность ведения огня из <a href=showinfo:3304>средних гибридных орудий</a>",
+          "zh": "<a href=showinfo:3304>中型混合炮台</a>最佳射程和失准范围加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonus": 50,
+        "bonusText": {
+          "de": "Bonus auf die Reichweite des Wirkungsbereichs von <a href=showinfo:3348>Kommandostrahlen</a>",
+          "en": "bonus to <a href=showinfo:3348>Command Burst</a> area of effect range",
+          "es": "de bonificación al alcance del radio de acción del <a href=showinfo:3348>estallido de mando</a>.",
+          "fr": "de bonus à la portée de l'effet de zone des <a href=showinfo:3348>salves de commandement</a>.",
+          "ja": "<a href=showinfo:3348>コマンドバースト</a>効果範囲にボーナス",
+          "ko": "<a href=showinfo:3348>커맨드 버스트</a> 효과 반경 증가",
+          "ru": "увеличивается радиус импульсов, генерируемых <a href=showinfo:3348>импульсными оптимизаторами</a>",
+          "zh": "<a href=showinfo:3348>指挥脉冲波</a>效果范围加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "33097": [
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Nachführungsgeschwindigkeit von <a href=showinfo:3304>mittelgroßen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3304>Medium Hybrid Turret</a> tracking speed",
+            "es": "de bonificación a la velocidad de rastreo de la <a href=showinfo:3304>torreta híbrida mediana</a>.",
+            "fr": "de bonus à la vitesse de poursuite des <a href=showinfo:3304>tourelles hybrides intermédiaires</a>",
+            "ja": "<a href=showinfo:3304>中型ハイブリッドタレット</a>の追跡速度が上昇",
+            "ko": "<a href=showinfo:3304>중형 하이브리드 터렛</a> 트래킹 속도 증가",
+            "ru": "повышается скорость наводки на цель <a href=showinfo:3304>средних гибридных орудий</a>",
+            "zh": "<a href=\"showinfo:3304\">中型混合炮台</a>跟踪速度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3304>mittelgroßen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3304>Medium Hybrid Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3304>torreta híbrida mediana</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:3304>tourelles hybrides intermédiaires</a>",
+            "ja": "<a href=showinfo:3304>中型ハイブリッドタレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3304>중형 하이브리드 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон боеприпасов <a href=showinfo:3304>средних гибридных орудий</a>",
+            "zh": "<a href=\"showinfo:3304\">中型混合炮台</a>伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 16229,
   "volume": 270000.0
 }

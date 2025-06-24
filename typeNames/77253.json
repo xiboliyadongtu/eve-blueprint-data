@@ -1,5 +1,16 @@
 {
-  "typeID": 77253,
+  "description": {
+    "de": "Diese Station des Angel Cartel wurde als Basis für Schutzgelderpressungen in den umliegenden Sonnensystemen errichtet. Sie empfängt verschlüsselte Transaktionen der lokalen Klans und beherbergt eine Flotte von Schiffen, die bereit sind, jeden anzugreifen, der nicht fristgerecht zahlt.",
+    "en": "This Angel Cartel station was constructed to act as a base for their protection racketeering in the surrounding solar systems. It receives encrypted transactions to be made by local clans and houses a fleet of ships ready to attack any who fail to pay on time.",
+    "es": "Esta estación del Cártel de los Ángeles se construyó para que sirviera de base a sus extorsiones de protección en los sistemas solares circundantes. Recibe transacciones encriptadas de los clanes locales y alberga una flota de naves preparadas para atacar a quienes no paguen a tiempo.",
+    "fr": "Cette station du cartel Angel a été construite pour servir de base à leur chantage à la protection dans les systèmes solaires alentour. Elle reçoit les transactions codées imposées aux clans locaux et abrite une flotte de vaisseaux prêts à s'en prendre à quiconque ne paierait pas dans les temps.",
+    "ja": "このエンジェルカルテルのステーションは、周囲のソーラーシステムにおいて用心棒代の取り立てを行うための基地として建設された。現地の氏族からの暗号通信による送金を受けとる場所であると同時に、支払い期限に間に合わなかった者たちを襲撃する準備を整えた艦隊を収容しておく場所でもある。",
+    "ko": "엔젤 카르텔이 주변 성계에서 보호비를 갈취하려 건설한 정거장입니다. 주변 부족이나 가문의 암호화된 통신을 감청해 어떤 거래를 하고 있는지 추적합니다. 그리고 보호비를 기한까지 내지 않는다면 바로 응징할 함대를 준비합니다.",
+    "ru": "Эта станция картеля «ангелов» служит базой для преступников, которые занимаются вымогательством и шантажом в ближайших звёздных системах. Сюда поступают зашифрованные транзакции от местных кланов и домов. Кроме того, на станции есть целый флот, который можно натравить на тех, кто не заплатит вовремя.",
+    "zh": "之所以会建造天使企业联合体空间站，是为了充当他们对周围恒星系进行敲诈勒索的保护基地。这里能够接收本地氏族进行的加密交易，并配备有一支舰队，可以随时攻击任何未能按时付款的人。"
+  },
+  "graphicID": 2357,
+  "groupID": 4576,
   "name": {
     "de": "Cartel Racket HQ",
     "en": "Cartel Racket HQ",
@@ -10,5 +21,8 @@
     "ru": "Cartel Racket HQ",
     "zh": "企业联合体非法业务总部"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 12748.0,
+  "sofFactionName": "angelbase"
 }

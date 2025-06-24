@@ -1,5 +1,17 @@
 {
-  "typeID": 23551,
+  "description": {
+    "de": "DNS von einem Mitglied der FON (Friends Of Nature).",
+    "en": "DNA from a member of the Friends of Nature (FON) organization.",
+    "es": "ADN de un miembro de la organización de los Amigos de la Naturaleza (ADLN).",
+    "fr": "ADN provenant d'un membre de l'organisation des Friends of Nature (FON).",
+    "ja": "フレンズオブネイチャー(FON)のメンバーから採取したDNA。",
+    "ko": "네이쳐 조합 구성원의 DNA입니다.",
+    "ru": "ДНК одного из представителей организации Друзей природы (FON)",
+    "zh": "该DNA来自FON组织的一个成员。"
+  },
+  "groupID": 526,
+  "iconID": 2302,
+  "mass": 1.0,
   "name": {
     "de": "FON Contact DNA",
     "en": "FON Contact DNA",
@@ -10,5 +22,7 @@
     "ru": "FON Contact DNA",
     "zh": "FON联络者的DNA"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

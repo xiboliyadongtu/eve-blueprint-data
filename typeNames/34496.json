@@ -1,5 +1,49 @@
 {
-  "typeID": 34496,
+  "basePrice": 14000.0,
+  "capacity": 10.0,
+  "description": {
+    "de": "Dieser schnelle, gepanzerte Transporter basiert auf einer ausgemusterten CONCORD-Fregatte der Pacifier-Klasse und wird für gewöhnlich vom Directive Enforcement Department eingesetzt um den sicheren Transport von wichtigen Personen und hochrangigen Politikern zu gewährleisten.\n\nIn letzter Zeit wurde er dazu benutzt, um Mitglieder des <url=http://community.eveonline.com/community/csm/>Council of Stellar Management</url> zu ihrem zweijährlichen Treffen mit CONCORD in Yulai hin und zurück zu bringen.",
+    "en": "Based on a decommissioned Pacifier-class CONCORD frigate, this swift armored transport is typically used by the Directive Enforcement Department to ensure secure transportation of VIPs and high profile political figures.\r\n\r\nMost recently it has been utilized to carry members of the <url=http://community.eveonline.com/community/csm/>Council of Stellar Management</url> to and from their bi-annual summit with the CONCORD Assembly in Yulai.",
+    "es": "Este transporte blindado, basado en una fragata de CONCORD de clase Pacifier desmantelada, lo suele utilizar el Departamento de Ejecución de Directivas para garantizar un transporte seguro de los vips y los personajes políticos de primer nivel.\r\n\r\nHace poco se ha usado para llevar y traer a miembros del <url=http://community.eveonline.com/community/csm/>Council of Stellar Management</url> en su viaje a la cumbre bianual con la Asamblea CONCORD en Yulai.",
+    "fr": "Basé sur une frégate CONCORD de classe pacificateur, ce transporteur blindé et véloce est généralement utilisé par le DED pour assurer le transport sécurisé de VIP et de personnalités politiques.\n\nIl a été utilisé récemment pour transporter les membres du <url=http://community.eveonline.com/community/csm/>Council of Stellar Management</url> vers et depuis le sommet bisannuel à Yulai avec l'assemblée CONCORD.",
+    "ja": "退役した調停用CONCORD小型フリゲートを基に造られたこの俊敏な装甲輸送船は、VIPや有名政治家らの安全輸送のために主に司令部によって使用される。\nごく最近では、半年ごとに行われるユーライのCONCORD議会との首脳会談へ<url=http://community.eveonline.com/community/csm/>惑星間管理議会</url>のメンバーを運ぶ往復便として利用された。",
+    "ko": "폐함 처분된 CONCORD의 퍼시파이어급 프리깃을 바탕으로 설계된 함선입니다. 주로 지령집행부(DED)에 의해 운용되며 고위 정치인을 포함한 각종 VIP 수송 임무에 사용됩니다. <br><br>최근 율라이에서 개최된 <url=http://community.eveonline.com/community/csm/>은하관리위원회</url>와 CONCORD 위원회 간의 정상회담에서 인원 수송을 맡은바 있습니다.",
+    "ru": "Этот быстрый бронированный транспорт, основанный на разработанном КОНКОРДом и позднее списанном проекте личного катера типа «Миротворец» обычно используется сотрудниками Службы мониторинга реализации резолюций КОНКОРДа в целях безопасной транспортировки лиц особой важности и высокопоставленных политиков.\n\nПоследними его пассажирами были члены <url=http://community.eveonline.com/community/csm/>Совета игроков</url>; этот катер перевозил их на саммит Ассамблеи КОНКОРДа, проходящий дважды в год в планетной системе Юлай (Yulai), а также обеспечивал их обратную доставку.",
+    "zh": "这是一艘由已经退役的统合部护卫舰改装而成的运输舰，速度快、装甲厚，是联合安全局运载政要和贵宾的常用交通工具。\n\n最近一段时间，它往返于尤拉星系，被用来运载参加一年两届的统合部协商峰会的<url=http://community.eveonline.com/community/csm/>星际管理委员会</url>与会成员。"
+  },
+  "factionID": 500006,
+  "graphicID": 1053,
+  "groupID": 31,
+  "marketGroupID": 1618,
+  "mass": 1600000.0,
+  "masteries": {
+    "0": [
+      144,
+      117,
+      118
+    ],
+    "1": [
+      144,
+      117,
+      118
+    ],
+    "2": [
+      144,
+      117,
+      118
+    ],
+    "3": [
+      144,
+      117,
+      118
+    ],
+    "4": [
+      144,
+      117,
+      118
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Council Diplomatic Shuttle",
     "en": "Council Diplomatic Shuttle",
@@ -9,6 +53,45 @@
     "ko": "외교관 셔틀",
     "ru": "Council Diplomatic Shuttle",
     "zh": "议会外交穿梭机"
+  },
+  "portionSize": 1,
+  "published": true,
+  "radius": 38.0,
+  "sofFactionName": "specops",
+  "soundID": 20083,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Immun gegen <a href=showinfo:22782>Unterbrechungsfeldwerfer</a>, <a href=showinfo:28654>Warpstörfeldgeneratoren</a> und <a href=showinfo:12198>mobile kleine </a>, <a href=showinfo:12199>mittelgroße</a> und <a href=showinfo:12200>große Warpstörer</a>",
+          "en": "Immune to <a href=showinfo:22782>Interdiction Sphere Launcher</a>, <a href=showinfo:28654>Warp Disruption Field Generator</a> and <a href=showinfo:12198>Mobile Small</a>, <a href=showinfo:12199>Medium</a> and <a href=showinfo:12200>Large Warp Disruptor</a>",
+          "es": "Inmune al <a href=showinfo:22782>lanzaesferas de interdicción</a>, al <a href=showinfo:28654>generador de campo disruptor de warp</a> y al <a href=showinfo:12198>disruptor de warp móvil pequeño</a>, <a href=showinfo:12199>mediano</a> y <a href=showinfo:12200>grande</a>.",
+          "fr": "Immunité contre les <a href=showinfo:22782>lanceurs de sphère d'interdiction</a>, <a href=showinfo:28654>générateurs de champ perturbateur de warp</a> et <a href=showinfo:12198>perturbateurs de warp mobiles légers</a>, <a href=showinfo:12199>intermédiaires</a> et <a href=showinfo:12200>grands perturbateurs de warp</a>",
+          "ja": "<a href=showinfo:22782>インターディクションスフィアランチャー</a>、<a href=showinfo:28654>ワープ妨害フィールドジェネレーター</a>、<a href=showinfo:12198>小型</a>、<a href=showinfo:12199>中型</a>、<a href=showinfo:12200>大型移動式ワープ妨害器</a>の影響を受けない",
+          "ko": "<a href=showinfo:22782>인터딕션 런처</a>, <a href=showinfo:28654>워프 디스럽션 필드 생성기</a>, <a href=showinfo:12198>이동식 소형</a>/<a href=showinfo:12199>중형</a>/<a href=showinfo:12200>대형 워프 디스럽터</a>에 면역",
+          "ru": "Невосприимчивость к воздействию <a href=showinfo:22782>систем запуска заградительных сфер</a>, <a href=showinfo:28654>бортовых варп-заградителей</a>, а также <a href=showinfo:12198>полевых варп-заградителей малой</a>, <a href=showinfo:12199>средней</a> и <a href=showinfo:12200>большой мощности</a>",
+          "zh": "对<a href=showinfo:22782>拦截泡发射器</a>、<a href=showinfo:28654>跃迁扰断力场发生器</a>与<a href=showinfo:12198>小型</a>、<a href=showinfo:12199>中型</a>及<a href=showinfo:12200>大型机动跃迁扰断器</a>免疫"
+        },
+        "importance": 2
+      },
+      {
+        "bonus": 90.0,
+        "bonusText": {
+          "de": "Reduzierte effektiv zurückgelegte Distanz für die Sprungerschöpfung",
+          "en": "reduction to effective distance traveled for jump fatigue",
+          "es": "de reducción de la distancia efectiva hasta sufrir fatiga de salto.",
+          "fr": "de réduction de la distance effective comptabilisée pour l'épuisement de saut",
+          "ja": "ジャンプ疲労までの移動有効距離が減少",
+          "ko": "이동 거리에 따른 점프 피로도 감소",
+          "ru": "медленнее накапливается усталость от гиперпереходов",
+          "zh": "减少跳跃疲劳对有效距离的影响"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {}
   },
   "volume": 5000.0
 }

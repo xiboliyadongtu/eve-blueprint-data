@@ -1,5 +1,18 @@
 {
-  "typeID": 30523,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Sie gehen davon aus, dass dieser zerbeulte Metallhaufen eine Art Relikt beinhaltet.",
+    "en": "You suspect this battered hunk of metal may conceal some kind of relic.",
+    "es": "Sospechas que este trozo de metal abollado puede ocultar una especie de reliquia.",
+    "fr": "Vous vous dites que ce gros morceau de métal usé pourrait bien cacher une relique.",
+    "ja": "すっかり傷んだこの金属の中に、何か古い宝が隠れているかもしれない。",
+    "ko": "반쯤 부서진 고철 덩어리 안쪽에 유물이 숨겨져 있을 확률이 존재합니다.",
+    "ru": "Вы подозреваете, что этот искореженный кусок металла может прятать в себе какой-то реликт.",
+    "zh": "你怀疑这块伤痕累累的金属块中隐藏了什么古物。"
+  },
+  "graphicID": 3706,
+  "groupID": 1207,
+  "mass": 10000.0,
   "name": {
     "de": "Lost Sleeper Artifact",
     "en": "Lost Sleeper Artifact",
@@ -10,5 +23,9 @@
     "ru": "Lost Sleeper Artifact",
     "zh": "遗失的冬眠者人工物件"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 314.0,
+  "sofFactionName": "debris",
   "volume": 27500.0
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 30899,
+  "capacity": 500.0,
+  "description": {
+    "de": "Ein Wreathe-Industrial in Erwartung seiner Fracht.",
+    "en": "A Wreathe-class industrial awaiting cargo.",
+    "es": "Industrial de clase Wreathe a la espera de cargamento.",
+    "fr": "Industriel de classe Wreathe attendant son chargement.",
+    "ja": "産業用ウレス級カーゴ船",
+    "ko": "화물적재를 위해 대기 중인 레이쓰 인더스트리얼입니다.",
+    "ru": "Индустриальный корабль класса Wreathe ждет загрузки.",
+    "zh": "一艘环绕级工业舰正在等待货物。"
+  },
+  "graphicID": 310,
+  "groupID": 952,
   "name": {
     "de": "Cargo Wreathe",
     "en": "Cargo Wreathe",
@@ -10,5 +22,9 @@
     "ru": "Cargo Wreathe",
     "zh": "货柜环绕级"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 207.0,
+  "sofFactionName": "minmatarbase"
 }

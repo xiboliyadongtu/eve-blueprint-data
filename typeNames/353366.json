@@ -1,5 +1,17 @@
 {
-  "typeID": 353366,
+  "basePrice": 567000.0,
+  "description": {
+    "de": "Grundlegende Kenntnisse über Dropsuitkonstruktion.\n\n+5% auf die maximale Dropsuitstromnetzleistung (PG) pro Skillstufe.",
+    "en": "Basic understanding of dropsuit engineering.\r\n\r\n+5% to dropsuit maximum powergrid (PG) output per level.",
+    "es": "Conocimiento básico de ingeniería de trajes de salto.\n\n+5% a la producción de energía de la red de alimentación (RA) del traje de salto por nivel.",
+    "fr": "Compréhension de base en ingénierie de combinaison.\n\n+5 % de rendement maximum du réseau d'alimentation (PG) des combinaisons par niveau.",
+    "it": "Comprensione base dell'ingegneria delle armature.\n\n+5% al rendimento massimo della rete energetica dell'armatura per livello.",
+    "ja": "降下スーツエンジニアリングの基本的な知識。\n\nレベル上昇ごとに、降下スーツのパワーグリッド（PG）最大出力が5%増加する。",
+    "ko": "강하슈트공학에 대한 기본적인 이해를 습득합니다.<br><br>매 레벨마다 강하슈트 파워그리드 (PG) 최대 출력량 5% 증가",
+    "ru": "Понимание основ устройства скафандра.\n\n+5% к максимальной мощности энергосети (ЭС) скафандра на каждый уровень.",
+    "zh": "作战服工程机制基本知识。每升一级，作战服能量栅格的最大输出提高5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Dropsuitkonstruktion",
     "en": "Dropsuit Engineering",
@@ -11,5 +23,7 @@
     "ru": "Проектирование скафандров",
     "zh": "作战服工程学"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

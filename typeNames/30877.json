@@ -1,5 +1,17 @@
 {
-  "typeID": 30877,
+  "description": {
+    "de": "Einzelne besondere räumliche Erscheinungen können Ihr Schiff auf seltsame Weise beeinträchtigen.",
+    "en": "Local spatial phenomena may cause strange effects on your ship systems.",
+    "es": "Los fenómenos espaciales locales pueden provocar efectos extraños en los sistemas de la nave.",
+    "fr": "Phénomène local de l'espace pouvant avoir d'étranges effets sur les systèmes de votre vaisseau.",
+    "ja": "周囲の空間で発生している現象が、船のシステムに不可解な効果を与えるかもしれない。",
+    "ko": "함선 시스템에 영향을 줄 수 있는 공간현상이 감지되었습니다.",
+    "ru": "Излучение местной звезды влияет на работу бортовых систем вашего корабля.",
+    "zh": "本地空间现象可能会对你的舰船系统造成影响。"
+  },
+  "graphicID": 1217,
+  "groupID": 920,
+  "mass": 1.0,
   "name": {
     "de": "Class 4 Wolf Rayet Effects",
     "en": "Class 4 Wolf Rayet Effects",
@@ -9,6 +21,80 @@
     "ko": "4급 볼프-레이에성 효과",
     "ru": "Class 4 Wolf Rayet Effects",
     "zh": "四类沃尔夫-拉叶星效果光束"
+  },
+  "portionSize": 250,
+  "published": true,
+  "sofFactionName": "genericbase",
+  "traits": {
+    "iconID": 24308,
+    "miscBonuses": [
+      {
+        "bonus": 36.0,
+        "bonusText": {
+          "de": "Reduktion des Signaturradius von Schiffen",
+          "en": "reduction in ship signature radius",
+          "es": "de reducción del radio de la señal de la nave.",
+          "fr": "de réduction du rayon de signature du vaisseau",
+          "ja": "艦船のシグネチャ半径が縮小",
+          "ko": "함선 시그니처 반경 감소",
+          "ru": "уменьшение размера сигнатуры корабля",
+          "zh": "舰船信号半径降低"
+        },
+        "importance": 3,
+        "isPositive": true,
+        "unitID": 105
+      },
+      {
+        "bonus": 36.0,
+        "bonusText": {
+          "de": "Abzug auf alle Schildresistenzen",
+          "en": "penalty to shield resistances",
+          "es": "de penalización a las resistencias de escudo.",
+          "fr": "de pénalité aux résistances du bouclier",
+          "ja": "シールドレジスタンスにペナルティ",
+          "ko": "실드 저항력 페널티",
+          "ru": "штраф к сопротивляемости щитов",
+          "zh": "护盾抗性惩罚"
+        },
+        "importance": 4,
+        "isPositive": false,
+        "unitID": 105
+      },
+      {
+        "bonus": 72.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der Panzerung",
+          "en": "bonus to armor hitpoints",
+          "es": "de bonificación a los puntos de vida del blindaje.",
+          "fr": "de bonus aux points de vie du blindage",
+          "ja": "アーマーHPが増加",
+          "ko": "장갑 내구도 증가",
+          "ru": "бонус к запасу прочности брони",
+          "zh": "装甲值加成"
+        },
+        "importance": 2,
+        "isPositive": true,
+        "unitID": 105
+      },
+      {
+        "bonus": 144.0,
+        "bonusText": {
+          "de": "Bonus auf den Schaden von kleinen Waffen",
+          "en": "bonus to small weapon damage",
+          "es": "de bonificación al daño de las armas de pequeño calibre.",
+          "fr": "de bonus aux dégâts de petites armes",
+          "ja": "小型兵器のダメージが増加",
+          "ko": "소형 무기 피해량 보너스",
+          "ru": "бонус к урону от малых орудий",
+          "zh": "小型武器伤害加成"
+        },
+        "importance": 1,
+        "isPositive": true,
+        "unitID": 105
+      }
+    ],
+    "roleBonuses": [],
+    "types": {}
   },
   "volume": 20.0
 }

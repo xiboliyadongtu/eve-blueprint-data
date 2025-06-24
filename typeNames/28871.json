@@ -1,5 +1,18 @@
 {
-  "typeID": 28871,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Diese modifizierte Wohnmodul dient als Lager für verschiedene Gegenstände der Piraten-Fraktionen zur Herstellung von Drogen. Normalerweise ist ein solches Lager schwer bewacht und wird dem Hacker zweifellos eine beträchtliche Beute einbringen, wenn er an den Sicherheitsvorkehrungen vorbei kommt.",
+    "en": "This modified habitat module is being used as storage facility for various items that the pirate factions use for drug manufacturing.  Usually heavily guarded this would undoubtedly reap a bounty with a bit of hacking once past the security.",
+    "es": "Este módulo habitacional modificado sirve para almacenar elementos varios que las facciones piratas usan para fabricar estupefacientes. Aunque suele estar fuertemente custodiado, guarda una gran recompensa una vez sorteadas las medidas de seguridad con un poco de hackeo.",
+    "fr": "Module d'habitation modifié pour stocker divers objets utilisés par les factions pirates pour la fabrication de drogues.  Ce module est généralement bien gardé, mais c'est un véritable jackpot pour toute personne capable de s'en emparer... et de l'ouvrir.",
+    "ja": "居住モジュールを改造したもの。海賊勢力が薬物製造に用いる品々を保管する場所として使われている。通常は厳重に警戒されているが、それをくぐり抜ければ簡単なハッキングで大金が得られるだろう。",
+    "ko": "거주모듈을 개량하여 만든 저장시설로 마약 제조에 사용하는 다양한 재료들이 보관되어있습니다. 엄중하게 방어되고 있지만 해킹에 성공한다면 상당한 보상이 뒤따를 것입니다.",
+    "ru": "Этот модифицированный жилой модуль используется в качестве складского помещения для хранения различных объектов, используемых пиратскими группировками для производства наркотиков. Как правило, они хорошо охраняются, но способны принести целое состояние, если у вас хватит способностей взломать систему безопасности.",
+    "zh": "这个改装过的居住舱现在是一个存储设施，用于储存海盗势力生产毒品所需的各种物品。这里通常都有强大的守卫力量。但毫无疑问，一旦击破了守卫力量，只需略用一些破解技术，就肯定能拿到好东西。"
+  },
+  "graphicID": 2516,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Angel Narcotics Storage Facility",
     "en": "Angel Narcotics Storage Facility",
@@ -10,5 +23,9 @@
     "ru": "Angel Narcotics Storage Facility",
     "zh": "天使镇定剂储存站"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 415.0,
+  "sofFactionName": "genericnarcotics",
   "volume": 27500.0
 }

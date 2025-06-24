@@ -1,5 +1,75 @@
 {
-  "typeID": 17726,
+  "basePrice": 219800000.0,
+  "capacity": 790.0,
+  "description": {
+    "de": "Die Elite der Waffenproduzenten des Imperiums ist seit langem stolz auf ihre fachmännischen Methoden zur Härtung der Panzerplatten und inneren Strukturelemente der Apocalypse Navy Issue. Auch ihre Schildsysteme sind von exzellenter Qualität und können sich mit den besten von Caldari Prime messen. Ihr Ruf eilt der Apocalypse voraus; sie gilt als Flaggschiff des Elite-Geschwaders der Imperial Navy. Nicht viele hatten bislang das Pech, diesem Schiff im Gefecht zu begegnen. Wer die Freude tatsächlich hatte, kann davon nicht mehr berichten.",
+    "en": "The Empire's inner circle of armaments manufacturers has long been proud of the expert methods utilized to harden the Navy Issue Apocalypse's armor plating and structural framework to such an amazing degree. Its shield systems are also state-of-the-art, rivalling even Caldari Prime's best. Fearsome by reputation, this is the flagship vessel of the Imperial Navy's elite wing. Not many are unfortunate enough to have ever actually met one on the field of battle, and those who do usually do not live to tell the tale.",
+    "es": "El círculo interno de los fabricantes de armamento del Imperio lleva tiempo sintiendo orgullo de los métodos expertos que se emplean para endurecer el blindaje y el armazón estructural de la Apocalypse modelo de la Armada. Sus sistemas de escudo también son de última generación, lo que le permite rivalizar hasta con las mejores naves de Caldari Prime. Esta nave, de reputación temible, es la nave insignia de la Armada Imperial. Pocos tienen la fortuna de encontrársela en el campo de batalla y vivir para contarlo.",
+    "fr": "Le cercle fermé des fabricants d'armes de l'Empire s'est longtemps enorgueilli des méthodes d'expert utilisées pour renforcer à un degré incroyable le revêtement de blindage ainsi que la structure de l'Apocalypse Navy. Ses systèmes de boucliers sont eux aussi à la pointe de la technologie, rivalisant avec ce qui se fait de mieux sur Caldari Prime. D'une réputation redoutable, il s'agit du vaisseau amiral des combattants d'élite de la Navy impériale. Rares sont ceux qui ont eu le malheur de tomber sur lui au combat et ceux qui l'ont croisé ne sont d'ailleurs plus là pour en parler.",
+    "ja": "帝国兵器産業の枢軸企業は、海軍仕様のアポカリプスのアーマープレートおよびフレームを驚異的レベルにまで強化する特殊技法を以前から売り物にしてきた。シールドシステムもまた究極の域に達しており、カルダリプライムの最高ランクにも匹敵する。この船への評価は極めて高く、帝国海軍の精鋭ウィングの旗艦として採用されている。戦場でこの船に出会った者のほとんどは、この船について何かを語る機会もないまま命を落としている。",
+    "ko": "제국 무기 설계자들은 아포칼립스 해군 에디션의 장갑 플레이팅을 독보적인 수준으로 향상시킨 기술력에 대해 무한한 자부심을 갖고 있습니다. 실드 시스템에도 각종 최첨단 기술이 투입되었으며 칼다리 프라임산 함선과 비교해도 성능이 밀리지 않습니다. 제국 해군의 최정예 함선이라는 명성을 지녔으나 실제 전장에서 마주치는 일은 흔치 않습니다. 물론 마주친다고 해도 살아나올 확률은 매우 희박합니다.",
+    "ru": "Технологии и методики, позволившие достичь непревзойдённой прочности корпуса и брони «Апокалипсиса-флотского» — предмет гордости элитного круга лучших имперских оружейников. Установленная на его борту аппаратура силовых полей также является ультрасовременной и может составить конкуренцию даже лучшим калдарским изделиям. Он является флагманским кораблем элитного крыла флота Амаррской Империи; вселяемый им страх небезоснователен. Немногие встречались с ним на поле боя, а те несчастные, с кем это все-таки произошло, обычно уже не могут рассказать об этом.",
+    "zh": "帝国核心的军火制造商长期以来就以他们能够通过其专业的制造技术将海军型灾难级战列舰的附甲和结构加强到这样一种坚不可摧的程度而为荣。它的护盾系统同样也是最前沿的先进技术的表现，可以同加达里最好的舰船媲美。其不可一世的名号让它成为帝国海军精英联队的旗舰。但不是所有人都有幸能够在战场上见到一艘，而那些实际看到的却很少能够活着回来讲述它的传奇。"
+  },
+  "factionID": 500003,
+  "graphicID": 2239,
+  "groupID": 27,
+  "marketGroupID": 1379,
+  "mass": 97100000.0,
+  "masteries": {
+    "0": [
+      96,
+      65,
+      99,
+      165,
+      138,
+      150,
+      89,
+      93
+    ],
+    "1": [
+      96,
+      65,
+      99,
+      165,
+      138,
+      150,
+      89,
+      93
+    ],
+    "2": [
+      96,
+      65,
+      99,
+      165,
+      138,
+      150,
+      89,
+      93
+    ],
+    "3": [
+      96,
+      65,
+      99,
+      165,
+      138,
+      150,
+      89,
+      93
+    ],
+    "4": [
+      96,
+      65,
+      99,
+      165,
+      138,
+      117,
+      150,
+      89,
+      93
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Apocalypse Navy Issue",
     "en": "Apocalypse Navy Issue",
@@ -10,5 +80,96 @@
     "ru": "Apocalypse Navy Issue",
     "zh": "灾难级海军型"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 400.0,
+  "sofFactionName": "amarrnavy",
+  "soundID": 20061,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 5.0,
+        "bonusText": {
+          "de": "zusätzlicher Bonus auf HP der <a href=showinfo:3394>Verstärkten Schottwand</a>",
+          "en": "additional bonus to <a href=showinfo:3394>Reinforced Bulkhead</a> hitpoints",
+          "es": "de bonificación adicional a los puntos de vida del <a href=showinfo:3394>mamparo reforzado</a>.",
+          "fr": "de bonus supplémentaire aux points de vie de la <a href=showinfo:3394>cloison renforcée</a>",
+          "ja": "<a href=showinfo:3394>強化隔壁</a>HPがさらに増加",
+          "ko": "<a href=showinfo:3394>강화 격벽</a> 내구도 증가",
+          "ru": "дополнительный бонус к прочности <a href=showinfo:3394>укреплённой переборки</a>",
+          "zh": "<a href=showinfo:3394>强化舱隔壁</a>结构值加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der <a href=showinfo:3394>Panzerplatte</a>",
+          "en": "bonus to <a href=showinfo:3394>Armor Plate</a> hitpoints",
+          "es": "de bonificación a los puntos de vida de las <a href=showinfo:3394>placas de blindaje</a>.",
+          "fr": "de bonus aux points de vie du <a href=showinfo:3394>revêtement de blindage</a>",
+          "ja": "<a href=showinfo:3394>アーマープレート</a>HPが増加",
+          "ko": "<a href=showinfo:3394>장갑 플레이트</a> 내구도 증가",
+          "ru": "бонус к прочности <a href=showinfo:3394>бронеплиты</a>",
+          "zh": "<a href=showinfo:3394>装甲附甲板</a>装甲值加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 100.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der <a href=showinfo:3425>Schilderweiterung</a>",
+          "en": "bonus to <a href=showinfo:3425>Shield Extender</a> hitpoints",
+          "es": "de bonificación a los puntos de vida del <a href=showinfo:3425>extensor de escudo</a>.",
+          "fr": "de bonus aux points de vie de l'<a href=showinfo:3425>extenseur de bouclier</a>",
+          "ja": "<a href=showinfo:3425>シールドエクステンダー</a>HPが増加",
+          "ko": "<a href=showinfo:3425>실드 확장장치</a> 실드량 증가",
+          "ru": "бонус к прочности <a href=showinfo:3425>расширителя щитов</a>",
+          "zh": "<a href=showinfo:3425>护盾扩展装置</a>护盾值加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3339": [
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die optimale Reichweite von <a href=showinfo:3309>großen Energiegeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3309>Large Energy Turret</a> optimal range",
+            "es": "de bonificación al alcance óptimo de la <a href=showinfo:3309>torreta de energía grande</a>.",
+            "fr": "de bonus à la portée optimale des <a href=showinfo:3309>grandes tourelles à énergie</a>",
+            "ja": "<a href=showinfo:3309>大型エネルギータレット</a>の最適射程距離が拡大",
+            "ko": "<a href=showinfo:3309>대형 에너지 터렛</a> 최적사거리 증가",
+            "ru": "увеличивается оптимальная дальность ведения огня из <a href=showinfo:3309>больших лазерных орудий</a>",
+            "zh": "<a href=\"showinfo:3309\">大型能量炮台</a>最佳射程加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Nachführungsgeschwindigkeit von <a href=showinfo:3309>großen Energiegeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3309>Large Energy Turret</a> tracking speed",
+            "es": "de bonificación a la velocidad de rastreo de la <a href=showinfo:3309>torreta de energía grande</a>.",
+            "fr": "de bonus à la vitesse de poursuite des <a href=showinfo:3309>grandes tourelles à énergie</a>",
+            "ja": "<a href=showinfo:3309>大型エネルギータレット</a>の追跡速度が上昇",
+            "ko": "<a href=showinfo:3309>대형 에너지 터렛</a> 트래킹 속도 증가",
+            "ru": "повышается скорость наводки на цель <a href=showinfo:3309>больших лазерных орудий</a>",
+            "zh": "<a href=\"showinfo:3309\">大型能量炮台</a>跟踪速度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 642,
   "volume": 470000.0
 }

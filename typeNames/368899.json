@@ -1,5 +1,17 @@
 {
-  "typeID": 368899,
+  "basePrice": 10050.0,
+  "description": {
+    "de": "Verringert bei vollautomatischem Feuern die Ausweitung der Streuung pro Schuss, wodurch die Treffgenauigkeit erhöht wird.",
+    "en": "Reduces the dispersion growth per shot of fully automatic fire, increasing accuracy.",
+    "es": "Reduce la ampliación de la dispersión por cada disparo de fuego automático, lo cual aumenta la precisión.",
+    "fr": "Réduit l'augmentation de la dispersion par tir en mode tir automatique intégral, ce que améliore la précision.",
+    "it": "Riduce l'aumento della dispersione per colpo delle armi automatiche aumentandone la precisione.",
+    "ja": "全自動射撃の1撃あたりの分散率上昇を下げて、精度を上げる。",
+    "ko": "매 자동 사격마다 집탄률 증가",
+    "ru": "Снижает возрастание дисперсии за выстрел в режиме полностью автоматического огня, увеличивая точность.",
+    "zh": "降低全自动射击时每一发子弹的散射效果，提高射击精度。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Verbesserter Streuungsstabilisator",
     "en": "Enhanced Dispersion Stabilizer",
@@ -11,5 +23,7 @@
     "ru": "Улучшенный стабилизатор дисперсии",
     "zh": "增强型散射稳定器"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4
 }

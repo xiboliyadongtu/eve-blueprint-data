@@ -1,5 +1,17 @@
 {
-  "typeID": 35686,
+  "description": {
+    "de": "33,3% Bonus auf alle Panzerungs- und Rumpfresistenzen\n\n33,3% Reduktion der Dauer von Panzerungsreperatursystemen",
+    "en": "33.3% bonus to all armor and hull resistances\r\n33.3% reduction to armor repairer duration",
+    "es": "33,3 % de bonificación a todas las resistencias de blindaje y de casco.\n\n33,3 % de reducción de la duración del reparador de blindaje.",
+    "fr": "33,3 % de bonus à toutes les résistances de bouclier et de blindage\n\n33,3 % de réduction de la durée de réparation du blindage",
+    "ja": "全てのアーマーレジスタンスと船体レジスタンスが33.3％増加、アーマーリペアラの起動時間が33.3％短縮",
+    "ko": "장갑 및 선체 저항력 33.3% 증가<br>장갑수리 사이클 시간 33.3% 감소",
+    "ru": "на 33,3% повышается сопротивляемость брони и корпуса корабля всем видам воздействия\n\nна 33,3% сокращается рабочий цикл установок ремонта брони",
+    "zh": "装甲和结构抗性提高33.3%\n\n装甲维修器运转时间缩短33.3%"
+  },
+  "groupID": 1306,
+  "iconID": 1042,
+  "mass": 100.0,
   "name": {
     "de": "Hecate-Verteidigungsmodus",
     "en": "Hecate Defense Mode",
@@ -10,5 +22,9 @@
     "ru": "Hecate Defense Mode",
     "zh": "赫卡特级防御模式"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 50.0,
   "volume": 5.0
 }

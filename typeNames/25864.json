@@ -1,5 +1,17 @@
 {
-  "typeID": 25864,
+  "description": {
+    "de": "Dieser Zugangsschlüssel aktiviert das höchstrangigste Beschleunigungstor im Rakogh Administration Komplex. Er gilt nur für einen Besuch, verwenden Sie ihn also weise.",
+    "en": "This passkey activates the highest level acceleration gate in the Rakogh Administration Complex. It is good for only one visit, so use it wisely.",
+    "es": "Este pase de seguridad activa el portal de aceleración de nivel más alto en el Complejo Administrativo de Rakogh. Solo funciona para una visita, así que úsalo bien.",
+    "fr": "Cette carte d'accès active le portail d'accélération le plus sécurisé du complexe administratif de Rakogh. Elle permet une seule utilisation, alors faites-en bon usage.",
+    "ja": "ラコーグ行政複合施設の最高レベルにあるアクセラレーションゲートを起動するマスターキー。一度しか使用できないので注意。",
+    "ko": "라코흐 행정 구역으로 향하는 최상위 액셀레이션 게이트의 출입키입니다. 출입키는 일회용이므로 신중히 사용하시기 바랍니다.",
+    "ru": "Этот ключ активирует врата ускорения высшего уровня безопасности в Rakogh Administration Complex. Ключ действует только один раз, поэтому используйте его с умом.",
+    "zh": "这把通行密匙可以开启拉格夫行政复合体的最高等级加速轨道。这把钥匙只能使用一次，因此请谨慎使用。"
+  },
+  "groupID": 474,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Rakogh Officer Gate Key",
     "en": "Rakogh Officer Gate Key",
@@ -10,5 +22,7 @@
     "ru": "Rakogh Officer Gate Key",
     "zh": "拉格夫官员密匙"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 23688,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Ramponierter Behälter eines Schwarmgehirns, zerstört von Raubdrohnen, die von einer anderen Königin geschickt wurden.",
+    "en": "Battered cage of a drone hive mind destroyed by rogue drones sent by another drone queen.",
+    "es": "Jaula maltrecha de una mente colmena destruida por los drones rebeldes enviados por otra reina.",
+    "fr": "Cage abîmée d'une d'intelligence de ruche de drone détruite par des drones renégats envoyés par une autre reine de drone.",
+    "ja": "ドローンクイーンが送り込んだローグドローンの手でぼろぼろに破壊された、ドローン集団頭脳の檻。",
+    "ko": "다른 하이브의 로그 드론에 의해 파괴된 드론 하이브 마인드 시설입니다.",
+    "ru": "Содержавшая мозговой центр улья структура, уничтоженная дронами, присланными другой королевой.",
+    "zh": "装有无人机母体芯片的箱子，现已支离破碎，破坏者是由另一个无人机皇后派遣的自由无人机。"
+  },
+  "graphicID": 2583,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Cracked Hive Mind Cage",
     "en": "Cracked Hive Mind Cage",
@@ -10,5 +23,10 @@
     "ru": "Cracked Hive Mind Cage",
     "zh": "破损的无人机母体芯片箱"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 717.0,
+  "sofFactionName": "roguebase",
+  "soundID": 31,
   "volume": 100000000.0
 }

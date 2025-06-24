@@ -1,5 +1,18 @@
 {
-  "typeID": 16850,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Der Staat Caldari war der erste, der Erzraffinerien außerhalb von Raumstationen in Betrieb nahm. Das ist nur natürlich für eine Gruppe, die Effizienz über alles stellt.",
+    "en": "The Caldari State was the first to employ ore refineries outside space stations, a natural move for an entity that values efficiency above everything else.",
+    "es": "El Estado Caldari fue el primero en emplear refinerías de menas fuera de las estaciones espaciales, un movimiento lógico para una entidad que valora la eficiencia por encima de todo.",
+    "fr": "L'État caldari fut le premier à utiliser des raffineries de minerai brut hors des stations spatiales, ce qui est bien naturel pour une entité qui place l'efficacité au-dessus de tout le reste.",
+    "ja": "鉱石の精錬所を宇宙ステーション外に初めて設営したのはカルダリ連合で、何よりも効率を重視する組織にとっては自然な成り行きと言える。",
+    "ko": "효율성을 중시하는 칼다리 연합은 우주 최초로 광물 정제소를 우주 정거장 밖에 배치하였습니다.",
+    "ru": "Государство Caldari было первым, начавшим использовать заводы очистки руды вне космических станций. Это разумный шаг для организации, ставящей эффективность превыше всего остального.",
+    "zh": "加达里合众国最先在空间站外部使用矿石精炼厂的，对于一个视效率为一切的国家来说，这么做非常合乎情理。"
+  },
+  "graphicID": 1706,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Caldari Deadspace Refining Outpost",
     "en": "Caldari Deadspace Refining Outpost",
@@ -10,5 +23,10 @@
     "ru": "Caldari Deadspace Refining Outpost",
     "zh": "加达里死亡空间精炼站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 300.0,
+  "sofFactionName": "caldaribase",
   "volume": 100000000.0
 }

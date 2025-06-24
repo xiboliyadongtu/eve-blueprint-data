@@ -1,5 +1,21 @@
 {
-  "typeID": 45594,
+  "capacity": 300.0,
+  "description": {
+    "de": "Die fortschrittliche Sleeper-Technologie dieses Subsystems verbessert die Funktionsfähigkeit der Panzerungs-Nanobots eines Schiffs. Direkt angebrachte Reparaturmodule unterstützen die Panzerung jeder Proteus besser, wenn man dieses Subsystem in den Rumpf integriert. Das Gerät folgt in seiner Bauweise völlig anderen Prinzipien als die üblichen fest installierten Reparaturmodule, erzielt jedoch die gleichen Ergebnisse und lässt sich dabei einfacher vom Schiff entkoppeln.",
+    "en": "The advanced Sleeper-based technology in this subsystem is focused on increasing the effectiveness of a vessel's armor nanobots. When integrated into the hull of a Proteus, it offers a substantial increase in the armor output of any local repair modules fitted. Although the subsystem offers the same end result as other built-in armor repair augmentations, the technology driving it operates in a vastly different way, allowing for easy removal from its host vessel.",
+    "es": "La tecnología avanzada basada en los sleepers de este subsistema se centra en aumentar la eficacia de los nanobots blindados de una nave. Cuando se integra en el casco de una Proteus, ofrece un aumento sustancial en la producción de blindaje de cualquier módulo de reparación local instalado. Aunque el subsistema ofrece el mismo resultado final que otros aumentos de reparación de blindaje integrados, la tecnología que lo impulsa funciona de una manera muy diferente, lo que permite una fácil extracción de su nave anfitriona.",
+    "fr": "Ce sous-système, basé sur la technologie avancée des Sleeper, s'attelle à améliorer l'efficacité des nanorobots du blindage d'un vaisseau. Lorsqu'il est intégré à la coque d'un Proteus, il augmente de manière significative les modules de réparation locaux équipés sur le blindage. Bien que ce sous-système offre le même résultat final que d'autres améliorations de réparateurs de blindage, la technologie qui en est à l'origine fonctionne d'une manière totalement différente, en garantissant un retrait en toute simplicité de son vaisseau hôte.",
+    "ja": "このサブシステムで用いられているスリーパー起源の高度な技術は、艦船の装甲部に位置するナノボットの作業効率を高める。プロテウスの船体に組み込むことで、ローカルリペアモジュールのアーマー出力を大幅に向上させることができる。このサブシステムは、内蔵のアーマーリペアアグメンテーションと同じ効果をもたらすにも関わらず、その機構を動かす技術は大きく異なり、それゆえに母艦から簡単に取り外すことが可能である。",
+    "ko": "해당 서브시스템에 적용된 슬리퍼 기반 기술은 나노봇의 장갑 수리 효율성을 향상하는데 중점이 맞춰져 있습니다. 프로테우스에 장착할 경우 장갑 수리 모듈의 성능이 대폭 증가합니다. 다른 장갑 수리 리그와 효과는 유사하지만 작동 원리가 다르기 때문에 비교적 간편하게 장착을 해제할 수 있습니다.",
+    "ru": "Передовая технология, по которой создана эта подсистема, основана на решениях Спящих и повышает эффективность наносборщиков брони корабля. Будучи встроена в корпус крейсера типа «Протей», она существенно повышает полезный выход бортовых ремонтных систем. Несмотря на то, что конечный результат идентичен результатам применения иных встраиваемых модулей, повышающих эффективность ремонта, кардинально отличные технологические решения позволяют с лёгкостью демонтировать её с корабля.<br>",
+    "zh": "这个子系统中所采用的冬眠者高级技术增加了舰船装甲纳米机器人的工作效率。当这个设备被整合到海神级船体中后，它能有效地增强所装配的自身维修设备对装甲的维修量。尽管这个子系统所达成的效果同其他舰载装甲维修增强装置所提供的没有什么大的区别，但实际上这个设备背后的支持技术却有相当大的优势，它不但能整合在船体结构中而且还能够方便的进行拆除。"
+  },
+  "graphicID": 21773,
+  "groupID": 954,
+  "iconID": 3631,
+  "marketGroupID": 1129,
+  "mass": 1400000.0,
+  "metaGroupID": 14,
   "name": {
     "de": "Proteus Defensive - Nanobot Injector",
     "en": "Proteus Defensive - Nanobot Injector",
@@ -10,5 +26,101 @@
     "ru": "Proteus Defensive - Nanobot Injector",
     "zh": "海神防御 - 纳米机器人喷注器"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "sofFactionName": "gallentebase",
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "<b><u>Zusätzliche Basiswerte</b></u>",
+          "en": "<b><u>Additional Base Stats</b></u>",
+          "es": "<b><u>Estadísticas básicas adicionales</b></u>",
+          "fr": "<b><u>Stats de base supplémentaires</b></u>",
+          "ja": "<b><u>追加ベース統計</b></u>",
+          "ko": "<b><u>추가 기본 능력치</b></u>",
+          "ru": "<b><u>Кроме того:</b></u>",
+          "zh": "<b><u>附加基础数值</b></u>"
+        },
+        "importance": 1
+      },
+      {
+        "bonusText": {
+          "de": "+2 Mid Slots, +2 Low Slots",
+          "en": "+2 Mid Slots, +2 Low Slots",
+          "es": "+2 ranuras intermedias, +2 ranuras inferiores",
+          "fr": "+2 Emplacements intermédiaires, +2 Emplacements inférieurs",
+          "ja": "ミッドスロット+2、ロースロット+2",
+          "ko": "미드 슬롯 +2, 로우 슬롯 +2",
+          "ru": "+2 разъёма средней мощности, +2 разъёма малой мощности",
+          "zh": "中槽+2，低槽+2"
+        },
+        "importance": 2
+      },
+      {
+        "bonusText": {
+          "de": "+100 Schild-HP, +500 Panzerungs-HP",
+          "en": "+100 Shield HP, +500 Armor HP",
+          "es": "+100 PV de escudo, +500 PV de blindaje",
+          "fr": "+100 PV au bouclier, +500 PV au blindage",
+          "ja": "シールドHP+100、アーマーHP+500",
+          "ko": "실드량 +100, 장갑 내구도 +500",
+          "ru": "+100 единиц прочности щитов, +500 единиц прочности брони",
+          "zh": "护盾值+100，装甲值+500"
+        },
+        "importance": 3
+      },
+      {
+        "bonusText": {
+          "de": "+300 GJ Energiespeicherkapazität",
+          "en": "+300GJ Capacitor Capacity",
+          "es": "+300 GJ de capacidad del condensador",
+          "fr": "Charge de capaciteur +300 GJ",
+          "ja": "キャパシタ容量+300GJ",
+          "ko": "캐패시터 용량 +300 GJ",
+          "ru": "+300 ГДж ёмкости накопителя",
+          "zh": "电容器电容量+300GJ"
+        },
+        "importance": 4
+      }
+    ],
+    "types": {
+      "30540": [
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf die Effektivität von <a href=showinfo:3393>Panzerungsreparatursystemen</a>",
+            "en": "bonus to <a href=showinfo:3393>Armor Repairer</a> effectiveness",
+            "es": "de bonificación a la efectividad del <a href=showinfo:3393>reparador de blindaje</a>.",
+            "fr": "de bonus à l'efficacité du <a href=showinfo:3393>Réparateur de blindage</a>",
+            "ja": "<a href=showinfo:3393>アーマーリペアラ</a>の効果が増大",
+            "ko": "<a href=showinfo:3393>장갑수리 장치</a> 효과 증가",
+            "ru": "повышается производительность <a href=showinfo:3393>установок ремонта брони</a>",
+            "zh": "<a href=showinfo:3393>装甲维修器</a>效果加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf den Nutzen der Überhitzung von <a href=showinfo:3393>Panzerungsreparatursystemen</a>",
+            "en": "bonus to the benefits of overheating <a href=showinfo:3393>Armor Repairers</a>",
+            "es": "bonificación a los beneficios de sobrecalentar los <a href=showinfo:3393>reparadores de blindaje</a>.",
+            "fr": "de bonus aux avantages de la surchauffe des <a href=showinfo:3393>Réparateurs de blindage</a>",
+            "ja": "オーバーヒートした<a href=showinfo:3393>アーマーリペアラ</a>の恩恵にボーナス",
+            "ko": "<a href=showinfo:3393>장갑수리 장치</a> 과부하 시 보너스 효과 증가",
+            "ru": "усиливается влияние перегрузки на параметры <a href=showinfo:3393>установок ремонта брони</a>",
+            "zh": "<a href=showinfo:3393>装甲维修器</a>过载效果加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 45592,
   "volume": 40.0
 }

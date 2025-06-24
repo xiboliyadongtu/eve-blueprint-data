@@ -1,5 +1,18 @@
 {
-  "typeID": 3319,
+  "basePrice": 30000.0,
+  "description": {
+    "de": "Grundlegende Fertigkeit im Umgang mit Raketenwerfern.\r\n\r\n2% Bonus auf die Feuergeschwindigkeit von Raketenwerfern je Skillstufe.",
+    "en": "Basic operation of missile launcher systems. 2% Bonus to missile launcher rate of fire per skill level.",
+    "es": "Funcionamiento básico de los sistemas de lanzamisiles. 2 % de bonificación a la cadencia de tiro del lanzamisiles por nivel de habilidad.",
+    "fr": "Aptitude de base à utiliser les systèmes de lance-missiles. Augmente de 2 % par niveau de compétence la cadence de tir des lance-missiles.",
+    "ja": "ミサイルランチャーシステムの基本操作スキル。スキルレベル上昇ごとにミサイルランチャーの発射間隔に 2% のボーナス。",
+    "ko": "미사일 런처를 운용하기 위한 스킬입니다. 매 레벨마다 미사일 런처 연사속도 2% 증가",
+    "ru": "Базовый навык управления пусковыми установками ракет. За каждую степень освоения навыка: на 2% повышается скорострельность всех пусковых установок ракет.",
+    "zh": "操控导弹发射系统的基本技能。每升一级，导弹发射器的发射速率提升2%。"
+  },
+  "groupID": 256,
+  "iconID": 33,
+  "marketGroupID": 373,
   "name": {
     "de": "Missile Launcher Operation",
     "en": "Missile Launcher Operation",
@@ -10,5 +23,7 @@
     "ru": "Пусковые установки",
     "zh": "导弹发射器操作"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

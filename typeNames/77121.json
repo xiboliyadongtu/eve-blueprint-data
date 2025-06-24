@@ -1,5 +1,19 @@
 {
-  "typeID": 77121,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Diese Remote Armor Array ist normalerweise Teil des Verteidigungssystems dieses Ortes und wurde hier von den Amarr in Stellung gebracht, um die Hauptstruktur im Falle eine Angriffs zu schützen. Stattdessen wurde es von Minmatar-Agenten umprogrammiert, um ihren eigenen Transmitter zu schützen.",
+    "en": "Normally part of this location's defense systems, this remote armor array was placed here by the Amarr to protect the main structure in case of an attack. Instead, it has been reprogrammed by Minmatar Agents to protect their own transmitter.",
+    "es": "Normalmente parte de los sistemas de defensa de esta ubicación, esta red de blindaje remota fue colocada aquí por Amarr para proteger la estructura principal en caso de un ataque. En cambio, ha sido reprogramada por los agentes minmatarianos para proteger su propio transmisor.",
+    "fr": "Ce projecteur de blindage à distance fait normalement partie des systèmes de défense de ce site, il y a été installé par les Amarr afin de protéger la structure principale en cas d'attaque. À la place, il a été reprogrammé par des agents minmatar pour protéger leur propre transmetteur.",
+    "ja": "このリモートアーマーアレイは、通常であればこの場所の防衛システムの一部として稼働するが、このアレイに関しては攻撃を受けた際のメインストラクチャ防衛用としてアマーが配置したものだ。しかし、ミンマターの工作員によって自軍の発信装置を守るようにプログラムがいじられている。",
+    "ko": "평상시 이 지역에서 방어 시스템의 한 축을 담당하는 원격 장갑 장치입니다. 아마르가 적의 공격으로부터 주요 구조물을 보호하기 위해 배치했습니다. 하지만 지금은 민마타 공작원들이 재프로그래밍을 통해 자신들의 송신기를 보호하는 데 활용하고 있습니다.",
+    "ru": "Эта станция дистанционного ремонта брони является частью местного оборонительного комплекса. Амаррцы разместили её здесь, чтобы защитить главное сооружение в случае нападения. Однако минматарские агенты перепрограммировали этот объект, и теперь он защищает их передатчик.",
+    "zh": "这个远程装甲阵列通常是此处防御系统的一部分，由艾玛放置于此，以保护主建筑不受攻击。而现在，米玛塔尔特工对其进行了重新编程，用于保护他们自己的发射器。"
+  },
+  "graphicID": 25972,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Remote Armor Array",
     "en": "Remote Armor Array",
@@ -10,5 +24,9 @@
     "ru": "Remote Armor Array",
     "zh": "远程装甲阵列"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "amarrbase",
   "volume": 27500.0
 }

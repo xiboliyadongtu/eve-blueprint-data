@@ -1,5 +1,54 @@
 {
-  "typeID": 1944,
+  "basePrice": 1400000.0,
+  "capacity": 4800.0,
+  "description": {
+    "de": "Die Bestower wurde vom Imperium über Jahrzehnte hinweg für den Sklaventransport verwendet und beförderte menschliche Arbeitskräfte zwischen den kultivierten Planeten des Imperiums hin und her. Als Beweis für die stete Zuverlässigkeit dieser Klasse hat der Kaiser selbst eine verbesserte Version der gleichen Schiffsklasse als Transporter für den kaiserlichen Schatz verwendet. Die Bestower verfügt über eine äußerst starke Panzerung und einen großen Frachtraum.",
+    "en": "The Bestower has for decades been used by the Empire as a slave transport, shipping human labor between cultivated planets in Imperial space. As a proof to how reliable this class has been through the years, the Emperor has used an upgraded version of this very same class as transports for the Imperial Treasury. The Bestower has very thick armor and large cargo space.",
+    "es": "La Bestower ha sido utilizada durante décadas por el Imperio como nave de transporte de esclavos, llevando mano de obra humana entre los planetas cultivados del espacio Imperial. Como prueba de la gran fiabilidad de esta clase a pesar de los años, el emperador ha utilizado una versión mejorada de la misma como nave de transporte de la Tesorería Imperial. La Bestower cuenta con un blindaje muy grueso y un gran espacio de carga.",
+    "fr": "Pendant des décennies, le Bestower a été utilisé par l’Empire comme vaisseau de transport d’esclaves pour acheminer la main d'œuvre entre les planètes cultivées de l’espace impérial. Les vaisseaux de cette classe sont si résistants que c'est une version améliorée de ce vaisseau qui assure le transport du trésor impérial. Le Bestower dispose d’un blindage très épais et d’une grande soute.",
+    "ja": "ビストワーは、数十年に渡って帝国の奴隷輸送船として領内農業惑星間の人員輸送に使われている。その歳月に培われてきた信頼がどれほどのものかといえば、皇帝さえこのクラスの改良型を帝国宝物殿への輸送艦にしていたほどだ。ビストワーは極めて厚いアーマーと広いカーゴスペースを持つ。",
+    "ko": "베스토어급은 아마르 제국에서 수십 년간 노예 운송에 사용된 함선으로, 노동력을 필요로 하는 행성을 오가며 인력을 수송했습니다. 오랜 세월 신뢰를 쌓아 올린 결과, 황제는 해당 함급을 개조하여 제국 재무부의 전용 수송선으로 사용하기도 하였습니다. 베스토어급은 두터운 장갑과 대규모 화물 적재 공간을 보유하고 있습니다.",
+    "ru": "Промышленные корабли типа «Бестоуэр» вот уже несколько десятилетий используются Амаррской Империей в качестве средства транспортировки рабов, перевозя живую силу меж населенными планетами в пределах границ сверхдержавы. Доказательством надежности кораблей этого типа является то, что их усовершенствованным вариантом охотно пользуется имперское казначейство. «Бестоуэр» отличается от прочих промышленных кораблей очень толстой броней и большим объемом грузового отсека.",
+    "zh": "恩赐者级几十年来一直被帝国用作劳工运输舰，在帝国空间的各文明行星间运送劳动力。作为该级别飞船多年来的可靠性的证明，皇帝自己已经将恩赐者级的一个升级版本用作皇室国库的运输舰。恩赐者级拥有很厚的装甲和巨大的货舱空间。"
+  },
+  "factionID": 500003,
+  "graphicID": 1064,
+  "groupID": 28,
+  "marketGroupID": 85,
+  "mass": 13500000.0,
+  "masteries": {
+    "0": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "1": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "2": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "3": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "4": [
+      96,
+      118,
+      117,
+      94
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Bestower",
     "en": "Bestower",
@@ -9,6 +58,65 @@
     "ko": "베스토어",
     "ru": "Bestower",
     "zh": "恩赐者级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 350.0,
+  "sofFactionName": "amarrbase",
+  "soundID": 20063,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonus": 90,
+        "bonusText": {
+          "de": "Reduktion der effektiv zurückgelegten Distanz für die Sprungerschöpfung",
+          "en": "reduction to effective distance traveled for jump fatigue",
+          "es": "de reducción de la distancia efectiva hasta sufrir fatiga de salto.",
+          "fr": "de réduction de la distance effectuée pour l'épuisement de saut",
+          "ja": "ジャンプによる疲弊が飛行距離に及ぼす影響を低減",
+          "ko": "이동 거리에 따른 점프 피로도 감소",
+          "ru": "медленнее накапливается усталость от гиперпереходов",
+          "zh": "减少跳跃距离对产生跳跃疲劳的影响"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3343": [
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die Frachtraumkapazität des Schiffs",
+            "en": "bonus to ship cargo capacity",
+            "es": "de bonificación a la capacidad de carga de la nave.",
+            "fr": "de bonus à la capacité de la soute du vaisseau",
+            "ja": "艦船のカーゴ容量が増加",
+            "ko": "화물 적재량 증가",
+            "ru": "увеличивается вместимость грузового отсека корабля",
+            "zh": "舰船货柜舱容量加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die Maximalgeschwindigkeit des Schiffs",
+            "en": "bonus to ship max velocity",
+            "es": "de bonificación a la velocidad máxima de la nave.",
+            "fr": "de bonus à la vitesse maximale du vaisseau",
+            "ja": "艦船の最高速度が上昇",
+            "ko": "최대 속도 증가",
+            "ru": "увеличивается скорость полного хода корабля",
+            "zh": "舰船最大速度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 260000.0
 }

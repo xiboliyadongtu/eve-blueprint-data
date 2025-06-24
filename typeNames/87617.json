@@ -1,5 +1,17 @@
 {
-  "typeID": 87617,
+  "capacity": 500000.0,
+  "description": {
+    "de": "Diese Struktur verwaltet den Fernzugriff auf den Wächter in Zarzakh und verketten übermittelte Daten für alle anderen Operationen des Deathless Circle in diesem System.",
+    "en": "This structure manages remote access to the Warden in Zarzakh, chaining together relayed data for all other Deathless Circle operations in this system.",
+    "es": "Esta estructura gestiona el acceso remoto a la Warden en Zarzakh, y enlaza los datos transmitidos para todas las demás operaciones del Círculo Inmortal en este sistema.",
+    "fr": "Cette structure gère l'accès à distance à la structure du Gardien, à Zarzakh, assemblant des données relayées pour toutes les autres opérations du Cercle Immortel dans ce système.",
+    "ja": "ザルザクにあるウォーデンへのリモートアクセスを管理しているストラクチャ。システムにおけるデスレス・サークルのあらゆる活動のため、中継されたデータの結合作業を行っている。",
+    "ko": "자르자크에 있는 워든 출입을 통제하는 구조물입니다. 자르자크에서 데스리스 서클이 진행하는 모든 작전 정보를 공유합니다.",
+    "ru": "Это сооружение обеспечивает удалённый доступ к центру «Страж» в Zarzakh. Оно последовательно передаёт данные всем оперативным группам «Бессмертного круга» в этой системе.",
+    "zh": "这座建筑拥有对远程访问扎尔扎克典狱长的管理权限，可将该星系中的其他所有不死循环行动的中继数据串联起来。"
+  },
+  "graphicID": 27983,
+  "groupID": 319,
   "name": {
     "de": "Warden Relay-Chainer",
     "en": "Warden Relay-Chainer",
@@ -10,5 +22,8 @@
     "ru": "Warden Relay-Chainer",
     "zh": "典狱长中继链"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 5000.0,
+  "sofFactionName": "deathless"
 }

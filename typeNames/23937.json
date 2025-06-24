@@ -1,5 +1,17 @@
 {
-  "typeID": 23937,
+  "description": {
+    "de": "Ein Sicherheits- und Überwachungsgerät, mit dem man Bewegungen und andere Aktivitäten innerhalb von Gebäuden feststellen kann. Dieses hier wird dazu benutzt, alle Aktivitäten in den persönlichen Räumen von Lord Arachnan zu verfolgen und aufzuzeichnen.",
+    "en": "A security and surveillance device used to track movement and other activity inside buildings. This one is used to track and record all activity inside the personal chambers of Lord Arachnan.",
+    "es": "Un dispositivo de seguridad y vigilancia para rastrear movimientos y otras actividades dentro de los edificios. Este permite seguir y grabar toda actividad que ocurra en los aposentos de Lord Arachnan.",
+    "fr": "Dispositif de sécurité et de surveillance utilisé pour effectuer le suivi des moindres mouvements et autres activités à l'intérieur de bâtiments. Ce dispositif sert à suivre et à enregistrer toute activité à l'intérieur des appartements personnels du Seigneur Arachnan.",
+    "ja": "建造物内部で行われているあらゆる活動を追跡するセキュリティ監視装置。この装置は、ロードアーチャナンの個人部屋内部での活動全てを追跡記録している。",
+    "ko": "구조물 내의 움직임과 활동을 추적하기 위한 보안 및 감시 장치입니다. 아라크난의 개인실 내부에서 일어나는 모든 활동들을 추적하고 기록하기 위해 사용되고 있습니다.",
+    "ru": "Устройства охраны и наблюдения используются для отслеживания движений и другой активности в зданиях. Это используется для записи всей активности в личной палате Лорда Arachnan.",
+    "zh": "用来追踪建筑物里面的运动和其他活动的安全监控设备。这个设备可以跟踪并记录埃拉克兰大人私人住宅里面的所有活动。"
+  },
+  "groupID": 526,
+  "iconID": 1361,
+  "mass": 2500.0,
   "name": {
     "de": "Perpetual Chamber Warden",
     "en": "Perpetual Chamber Warden",
@@ -10,5 +22,7 @@
     "ru": "Perpetual Chamber Warden",
     "zh": "永室监护"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 2.0
 }

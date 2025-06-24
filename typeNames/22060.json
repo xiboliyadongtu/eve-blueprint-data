@@ -1,5 +1,17 @@
 {
-  "typeID": 22060,
+  "description": {
+    "de": "Diese Cryo-Transportbehälter werden verwendet, um Körperteile ohne das Risiko der Verwesung transportieren zu können.",
+    "en": "These cryogenic storage containers are used to transfer body-parts without risk of decay.",
+    "es": "Estos contenedores de almacenamiento criogénico se usan para transportar partes del cuerpo sin que se descompongan.",
+    "fr": "Ces conteneurs cryogéniques permettent de transférer des parties corporelles sans risque de décomposition.",
+    "ja": "臓器を輸送中の腐敗のリスクから守る、超低温保管コンテナ。",
+    "ko": "운반 중 시체 부패 방지 용도로 사용된 냉동 저장 컨테이너입니다.",
+    "ru": "Эти криогенные контейнеры используются для транспортировки частей тела без риска разложения.",
+    "zh": "这些低温存储柜用于运送人体器官从而避免了腐烂的危险。"
+  },
+  "groupID": 526,
+  "iconID": 2039,
+  "mass": 100.0,
   "name": {
     "de": "Frozen Livers",
     "en": "Frozen Livers",
@@ -10,5 +22,7 @@
     "ru": "Frozen Livers",
     "zh": "冰冻的肝脏"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 10.0
 }

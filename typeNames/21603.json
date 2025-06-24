@@ -1,5 +1,18 @@
 {
-  "typeID": 21603,
+  "basePrice": 10000000.0,
+  "description": {
+    "de": "Skill zur Generierung effektiver Anziehungsfelder. 10% Reduktion des Liquid Ozone-Verbrauchs bei Modulaktivierung je Skillstufe.",
+    "en": "Skill at creating effective cynosural fields. 10% reduction in liquid ozone consumption for module activation per skill level.",
+    "es": "Habilidad para crear campos cinosurales efectivos. 10 % de reducción del consumo de ozono líquido para la activación del módulo por nivel de habilidad.",
+    "fr": "Compétence liée à la création de champs cynosuraux efficaces. Réduit de 10 % par niveau de compétence la consommation d'ozone liquide nécessaire à l'activation du module.",
+    "ja": "効果的なサイノシュラルフィールドを作り出すスキル。モジュールの起動によって消費される液体オゾン量がスキルレベル上昇ごとに10% 減少する。",
+    "ko": "사이노슈럴 필드 생성을 위한 스킬입니다. 매 레벨마다 모듈 활성화 시 소모되는 액화 오존 10% 감소",
+    "ru": "Освоив первую степень этого навыка, пилот сможет создавать путеводные поля. Дальнейшее освоение навыка поможет пилоту сократить расход жидкого озона при включении генератора путеводного поля (на 10% за каждую степень освоения навыка).",
+    "zh": "有效建立诱导力场的技能。每升一级，激活诱导力场装备所消耗的液态臭氧减少10%。"
+  },
+  "groupID": 275,
+  "iconID": 33,
+  "marketGroupID": 374,
   "name": {
     "de": "Cynosural Field Theory",
     "en": "Cynosural Field Theory",
@@ -10,5 +23,7 @@
     "ru": "Теория приводного поля",
     "zh": "诱导力场理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

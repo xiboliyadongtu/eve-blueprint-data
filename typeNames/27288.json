@@ -1,5 +1,18 @@
 {
-  "typeID": 27288,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Ein Hotel, doch es sieht so aus, als sei es verlassen worden.",
+    "en": "A hotel, looks like it has been abandoned.",
+    "es": "Un hotel que parece haber sido abandonado.",
+    "fr": "Hôtel semblant abandonné.",
+    "ja": "廃業したと見られるホテル。",
+    "ko": "버려진 호텔입니다.",
+    "ru": "Отель, похоже, заброшенный.",
+    "zh": "一座旅馆，看上去已被遗弃。"
+  },
+  "graphicID": 2518,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Habitation_Module_Container",
     "en": "Habitation_Module_Container",
@@ -10,5 +23,9 @@
     "ru": "Habitation_Module_Container",
     "zh": "生活舱_单元_货柜"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 416.0,
+  "sofFactionName": "genericpleasure",
   "volume": 1200.0
 }

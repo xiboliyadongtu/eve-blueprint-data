@@ -1,5 +1,20 @@
 {
-  "typeID": 2464,
+  "basePrice": 3000.0,
+  "description": {
+    "de": "Leichte Aufklärungsdrohne",
+    "en": "Light Scout Drone",
+    "es": "Dron de reconocimiento ligero",
+    "fr": "Drone de reconnaissance léger.",
+    "ja": "ライトスカウトドローン",
+    "ko": "라이트 스카우트 드론",
+    "ru": "Легкий разведывательный дрон",
+    "zh": "轻型侦查无人机"
+  },
+  "graphicID": 1104,
+  "groupID": 100,
+  "marketGroupID": 837,
+  "mass": 3500.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Hornet I",
     "en": "Hornet I",
@@ -10,5 +25,10 @@
     "ru": "Hornet I",
     "zh": "大黄蜂 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 15.0,
+  "sofFactionName": "caldaribase",
   "volume": 5.0
 }

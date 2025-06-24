@@ -1,5 +1,17 @@
 {
-  "typeID": 25386,
+  "description": {
+    "de": "Diese Sicherheitszugangskarte wird von den Guristas Piraten hergestellt und ermöglicht dem Benutzer Zugang zu den Gefängnisarealen im Zusammenhang mit der Iacta Space Plain in O-LR1H.",
+    "en": "This security passcard is manufactured by the Guristas Pirates, and allows the user to access the Prison grounds connected with the Iacta Space Plain in O-LR1H.",
+    "es": "Este pase de seguridad ha sido fabricado por los Piratas Guristas y permite al usuario acceder a los terrenos de la prisión conectados con la Llanura Espacial Iacta en O-LR1H.",
+    "fr": "Ce passe d'accès est fabriqué par les pirates guristas et permet à son utilisateur d'accéder à la prison connectée à la plaine spatiale Iacta, sur O-LR1H.",
+    "ja": "ガリスタス海賊が製造したセキュリティパス。O-LR1H内のイアクタスペースプレーンにつながる刑務所の敷地にアクセスできる。",
+    "ko": "구리스타스 해적단이 제작한 출입키입니다. 사용 시 O-LR1H 성좌의 약타 스페이스 플레인과 연결된 수감시설로 진입할 수 있습니다.",
+    "ru": "Этот охранный пропуск разработан пиратами Gurista и позволяет пользователю попасть в тюремный комплекс, соединенную с Iacta Space Plain в O-LR1H.",
+    "zh": "这张安全通行卡是由古斯塔斯海盗制造，允许使用者进入O-LR1H内与以阿塔星原相连的监狱场所。"
+  },
+  "groupID": 474,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Prison Area Pass",
     "en": "Prison Area Pass",
@@ -10,5 +22,7 @@
     "ru": "Prison Area Pass",
     "zh": "监狱区域通行卡"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

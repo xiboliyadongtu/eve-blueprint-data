@@ -1,5 +1,18 @@
 {
-  "typeID": 2730,
+  "basePrice": 500.0,
+  "description": {
+    "de": "Angereichertes Uran wird in vielen Arten von Herstellungsprozessen und als Treibstoff verwendet. Deshalb ist Uran ein ständiges Handelsgut. Angereichertes Uran wird im Allgemeinen durch die Kombinierung von Standard PVD-Halbleitermethoden mit Ionenseparation mittels Massenspektrometrie hergestellt.",
+    "en": "Enriched Uranium is used in many kinds of manufacturing and as a fuel, making it a steady trade commodity. Enriched Uranium is generally manufactured by combining standard semiconductor PVD methods with ionic separation by means of mass spectrometry.",
+    "es": "El uranio enriquecido se usa en muchos procesos de fabricación, además de como combustible, lo que lo convierte en un producto de comercio estable. Por lo general, se obtiene combinando los métodos habituales de deposición física de vapor de semiconductores con la separación iónica mediante la espectrometría de masa.",
+    "fr": "L'uranium enrichi sert à la fabrication de nombreux produits. Il s'agit également d'un combustible et donc d'un bien de consommation courant. L'uranium enrichi est généralement produit en mélangeant des semi-conducteurs obtenus par séparation ionique via un processus de spectrométrie de masse.",
+    "ja": "濃縮ウランは各種の製造工程でも、また燃料としても使われるため、手堅い交易品となっている。一般的には、質量分析を用いて通常の半導体物理蒸着法にイオン分離を組み合わせて製造される。",
+    "ko": "농축 우라늄은 연료뿐만 아니라 각종 제조 분야에서도 사용되는 물질로 꾸준한 수요가 존재합니다. 질량 분석을 바탕으로 한 반도체 표면처리와 이온 분리를 통해 생산됩니다.",
+    "ru": "Обогащённый уран (Enriched Uranium) используется во многих отраслях производства, применяется в качестве топлива, благодаря чему пользуется устойчивым спросом. В основном производится путём объединения методов стандартного полупроводникового газотермического напыления и ионного разделения путем масс-спектрометрии.",
+    "zh": "浓缩钼在许多生产作业中要用到，而且还能作为燃料，这使它成为一种稳定的贸易品。浓缩钼通常是经过将标准半导体PVD方法同离子质谱分离法相结合而生产出来的。"
+  },
+  "groupID": 314,
+  "iconID": 29,
+  "mass": 1000000.0,
   "name": {
     "de": "Crates of Enriched Uranium",
     "en": "Crates of Enriched Uranium",
@@ -10,5 +23,7 @@
     "ru": "Crates of Enriched Uranium",
     "zh": "装箱的浓缩钼"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 70.0
 }

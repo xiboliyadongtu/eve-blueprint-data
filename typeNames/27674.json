@@ -1,5 +1,19 @@
 {
-  "typeID": 27674,
+  "basePrice": 8000000.0,
+  "description": {
+    "de": "Erzeugt ein Unterbrecher-Feld im gesamten System, welches die Funktion von allen Anziehungsgeneratoren (Cynosural Generators) - ausgenommen Verdeckte Anziehungsgeneratoren (Covert Cynosural Generators) - unterbindet.",
+    "en": "Creates a system-wide inhibitor field which prevents cynosural generators except covert cynosural generators from functioning.",
+    "es": "Crea un campo inhibidor de sistemas que impide el funcionamiento de los generadores cinosurales, excepto los encubiertos.",
+    "fr": "Génère un champ inhibiteur autour du système qui empêche les générateurs cynosuraux, hormis les générateurs cynosuraux furtifs, de fonctionner.",
+    "ja": "ソーラーシステム全体をカバーする反応阻止フィールドを作り出し、サイノシュラルジェネレーターの機能を妨害する。ただし潜伏用サイノシュラルジェネレーターは機能する。",
+    "ko": "시스템 전체에 영향을 미치는 억제 필드를 생성하여 코버트를 제외한 모든 사이노슈럴 생성기를 가동불가 상태로 만듭니다.",
+    "ru": "Создает в пределах системы специальное поле, которое блокирует работу генераторов путеводного поля (Cynosural Field Generator), кроме генераторов скрытого путеводного поля (Covert Cynosural Field Generator).",
+    "zh": "产生一个星系范围的抑制力场，防止除隐秘诱导力场发生器之外的各种诱导力场发生器发挥作用。"
+  },
+  "graphicID": 2615,
+  "groupID": 839,
+  "marketGroupID": 1012,
+  "mass": 100000000.0,
   "name": {
     "de": "Cynosural System Jammer",
     "en": "Cynosural System Jammer",
@@ -10,5 +24,9 @@
     "ru": "Cynosural System Jammer",
     "zh": "诱导力场系统干扰器"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 629.0,
+  "sofFactionName": "genericmetal",
   "volume": 4000.0
 }

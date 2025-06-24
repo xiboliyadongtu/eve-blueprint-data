@@ -1,5 +1,18 @@
 {
-  "typeID": 76210,
+  "basePrice": 50000.0,
+  "description": {
+    "de": "Diese Transportrelais-Forschungsindexdatei kann als Eingabe mit einer <a href=showinfo:76206>Transportrelais-Datenkern-Blaupause</a> verwendet werden, um einen Teil der gesammelten Forschungs- und technischen Daten zu rekonstruieren. Diese wurden von jenen Imperien gesammelt, die ein umfassendes Verständnis von Bau und Betrieb der Transportrelais-Technologie im Herzen interstellarer Schiffswerfer besitzen. Für die Rekonstruktion solcher Daten ist es auch erforderlich, <a href=showinfo:76211>Transportrelais-Forschungsdatenfragmente</a> und <a href=showinfo:76212>-Forschungsverschlüsselungscodes</a> zu erwerben.",
+    "en": "This Transport Relay Research Index File can be used as an input with a <a href=showinfo:76206>Transport Relay Datacore Blueprint</a> in order to reconstruct a portion of the accumulated research and technical data gathered by those empires with a comprehensive understanding of the means to build and operate the Transport Relay technology at the heart of Interstellar Shipcasters.\r\n\r\nTo reconstruct such data it will also be necessary to acquire <a href=showinfo:76211>Transport Relay Research Data Fragments</a> and <a href=showinfo:76212>Encryption Keys</a>.",
+    "es": "Este archivo de índice de investigación de relés de transporte se puede utilizar como entrada con un <a href=showinfo:76206>plano de núcleo de datos de relés de transporte</a> para reconstruir una parte de la investigación y los datos técnicos obtenidos por esos imperios con una comprensión exhaustiva de los medios para construir y operar la tecnología de relés de transporte en el corazón de los lanzadores interestelares.\n\nPara reconstruir dichos datos, también será necesario adquirir <a href=showinfo:76211>fragmentos de datos de investigación de relés de transporte</a> y <a href=showinfo:76212>claves de cifrado</a>.",
+    "fr": "Ce fichier de recherche sur les relais de transport peut être utilisé avec un <a href=showinfo:76206>plan de construction Banque de données de relais de transport</a> pour reconstituer une partie des recherches et des données techniques accumulées par les empires possédant une compréhension globale des moyens de construction et d'exploitation des relais de transport, la technologie sur laquelle reposent les lance-vaisseaux interstellaires. Pour reconstituer ces données, il sera également nécessaire d'acquérir des <a href=showinfo:76211>fragments de données de recherche sur les relais de transport</a>, ainsi que des <a href=showinfo:76212>clés d'encodage</a>.",
+    "ja": "この輸送中継研究インデックスファイルは、<a href=showinfo:76206>輸送中継データコア設計図</a>のインプットとして使用することができます。この設計図を使用することで、惑星間艦艇キャスターの中核である輸送中継技術の建造・制御手段を知る大国が蓄積してきた、研究・技術データの一部を復元することが可能となります。\n\nまた、これらデータの復元には<a href=showinfo:76211>輸送中継研究データの断片</a>および<a href=showinfo:76212>暗号キー</a>を入手する必要があります。",
+    "ko": "전송 연계 시설 연구 인덱스 파일은 <a href=showinfo:76206>전송 연계 시설 데이터코어 블루프린트</a>와 함께 사용됩니다. 전송 연계 시설은 성간 함선전송기의 핵심이며, 이를 건설하고 운영하는 기술력을 완전히 확보한 국가의 연구 내용을 일부 재현할 수 있습니다.<br><br>연구 내용을 재현하려면 <a href=showinfo:76211>전송 연계 시설 연구 데이터 파편</a>과 <a href=showinfo:76212>암호화 키</a>가 필요합니다.",
+    "ru": "Этот индексный файл исследования транспортного ретранслятора вкупе с <a href=showinfo:76206>чертежом инфоблока транспортного ретранслятора</a> позволяет восстановить часть собранных державами научных и технических данных и получить важную информацию о принципах создания и эксплуатации транспортного ретранслятора, обеспечивающего работу межзвёздного кораблепускателя. Кроме того, для восстановления этих данных понадобится добыть <a href=showinfo:76211>фрагменты данных исследований транспортного ретранслятора</a>, а также <a href=showinfo:76212>шифровальные ключи</a>.",
+    "zh": "该运输中继研究索引文件可以作为带有<a href=showinfo:76206>运输中继数据核心蓝图</a>的输入材料，用来重建部分研究与技术累积数据，这些数据由全面掌握运输中继技术（星际舰船弹射台的核心技术）的构建与运行方法的帝国所收集。要重建这些数据，你还必须获取<a href=showinfo:76211>运输中继研究数据片段</a>和<a href=showinfo:76212>加密密钥</a>。"
+  },
+  "groupID": 314,
+  "iconID": 2225,
+  "marketGroupID": 1661,
   "name": {
     "de": "Transport Relay Research Index File",
     "en": "Transport Relay Research Index File",
@@ -10,5 +23,7 @@
     "ru": "Transport Relay Research Index File",
     "zh": "运输中继研究索引文件"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

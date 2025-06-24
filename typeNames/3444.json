@@ -1,5 +1,18 @@
 {
-  "typeID": 3444,
+  "basePrice": 125000.0,
+  "description": {
+    "de": "Fertigkeit zur Organisation und Verwaltung von Marktabläufen. Jede Skillstufe erhöht die Grenze für aktive Aufträge um 8.",
+    "en": "Ability to organize and manage market operations. Each level raises the limit of active orders by 8.",
+    "es": "Capacidad de organizar y gestionar operaciones de mercado. Cada nivel aumenta el límite de pedidos activos en 8.",
+    "fr": "Aptitude à organiser et à gérer les opérations de marché. Chaque niveau augmente de 8 la limite des ordres actifs.",
+    "ja": "マーケット活動を組織、運営する能力。レベル上昇ごとに有効オーダー数の上限が8増加。",
+    "ko": "거래에 대한 관리 및 진행이 가능합니다. <br><br>매 레벨마다 최대 주문 개수 + 8",
+    "ru": "Умение организовывать рыночные операции и управлять ими. Освоение этого навыка позволит пилоту повысить количество ордеров, поддерживаемых открытыми (на 8 за каждую степень освоения навыка).",
+    "zh": "组织并管理市场运营的技能。每升一级，有效订单数上限加8。"
+  },
+  "groupID": 274,
+  "iconID": 33,
+  "marketGroupID": 378,
   "name": {
     "de": "Retail",
     "en": "Retail",
@@ -10,5 +23,8 @@
     "ru": "Розничная торговля",
     "zh": "零售技巧"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

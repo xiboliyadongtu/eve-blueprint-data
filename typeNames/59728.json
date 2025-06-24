@@ -1,5 +1,16 @@
 {
-  "typeID": 59728,
+  "description": {
+    "de": "Diese Einrichtung wird als Quartier für Besucher des Testzentrums genutzt und umfasst eine Reihe von zusätzlichen Bereichen für Konferenzen, Handel und den Austausch von Forschungsergebnissen. Darüber hinaus enthält die Einrichtung einen Bereich mit einer historischen Übersicht über die Minmatar Mining Corporation. In den Ausstellungen im historischen Bereich wird häufig die Rolle der MMC bei der Versorgung des Minmatar-Widerstands mit Schiffen und der Beseitigung von Kollaborateuren während der Großen Rebellion betont.",
+    "en": "This facility is used to quarter visitors to the Testing Center and contains a number of subsidiary conference, trading, and research exchange areas. The facility also contains a section providing a historical overview of the Minmatar Mining Corporation. The displays in the historical section tend to emphasize the role of the MMC in supplying ships to the Minmatar resistance and the elimination of collaborators during the Great Rebellion.",
+    "es": "Esta instalación se usa para alojar a los visitantes al centro de pruebas y alberga una serie de zonas secundarias para la puesta en común de investigaciones, comercio y conferencias. También incluye una sección en la que se hace un repaso por la historia de Minmatar Mining Corporation. Las exposiciones en el área histórica tienden a recalcar el papel de MMC en el suministro de naves a la resistencia minmatariana y en la eliminación de colaboradores durante la Gran Rebelión.",
+    "fr": "Cette installation sert de quartier aux visiteurs du centre d'essai et contient plusieurs zones subsidiaires de conférence, de commerce et d'échange de recherches. L'installation renferme également une section fournissant un aperçu de l'histoire de la Minmatar Mining Corporation. Les expositions de la section historique embellissent le rôle de la MMC dans l'approvisionnement en vaisseaux pour la résistance minmatar, et dans l'élimination des collaborateurs pendant la Grande Rébellion.",
+    "ja": "これはテストセンターのビジター向け宿泊施設で、それに伴い、カンファレンスや商談、研究情報の交換用のエリアも存在している。またこの施設には、ミンマター採掘コーポレーションの社史を閲覧できる区画も存在している。この区画では、ミンマターのレジスタンスへの艦船供給において同社が果たした役割と、偉大なる反乱中に行われた内通者の排除について強調して展示されている傾向がある。",
+    "ko": "실험시설 방문자들을 위한 건물로 회의, 거래, 연구 등 다양한 목적으로 활용됩니다. 민마타 채굴사의 역사를 한눈에 살펴볼 수 있는 박물관 또한 위치해 있습니다. 박물관에는 저항군에게 함선을 보급하고 친 제국파 인사들을 척결한 내용이 주를 이루고 있습니다.",
+    "ru": "Этот объект используется для временного размещения посетителей испытательного центра и оснащён зонами для проведения конференций, торговых операций и совместных исследований. Также все желающие могут ознакомиться здесь с историей «Минматарской добывающей корпорации». Основное внимание уделяется освещению роли корпорации в обеспечении минматарских повстанцев кораблями, а также её борьбе с коллаборационистами во время Великого восстания.",
+    "zh": "这座设施用来容纳前往测试中心的参观者，有许多附属的会议、贸易和研究场所。这里还有一处地方，可以对米玛塔尔矿业联合体的历史进行回顾。在历史回顾中，它着重强调了米玛塔尔矿业联合体在大起义中为米玛塔尔抵抗军提供舰船并清除通敌者的角色。"
+  },
+  "graphicID": 2482,
+  "groupID": 226,
   "name": {
     "de": "MMC Testing Center Visitors Facility",
     "en": "MMC Testing Center Visitors Facility",
@@ -10,5 +21,9 @@
     "ru": "MMC Testing Center Visitors Facility",
     "zh": "米玛塔尔矿业联合体测试中心参观者设施"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 1296.0,
+  "sofFactionName": "minmatarbase"
 }

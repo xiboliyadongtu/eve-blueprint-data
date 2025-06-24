@@ -1,5 +1,18 @@
 {
-  "typeID": 72902,
+  "basePrice": 2000.0,
+  "description": {
+    "de": "Diese dichte Variante von Polykras-Erz schätzen Caldari-Ingenieure besonders bei großen Bauprojekten. Jüngste Fortschritte in der systemübergreifenden Erz-Scantechnologie haben es dem Staat ermöglicht, versteckte Asteroidengruppen aufzuspüren, die dieses Erz enthalten. Der Staat der Caldari hat Kapselpiloten um Unterstützung beim Abbau von dichtem Polykras in der <url=showinfo:4//20000563>Serthoulde</url>-Konstellation und beim Transport des Erzes zur staatlichen Erz-Raffinerie innerhalb der Sprungtor-Baustelle der Caldari im <url=showinfo:5//30003856>Athounon</url>-System gebeten.",
+    "en": "This dense variant of Polycrase ore is especially prized by Caldari engineers for use in large-scale construction projects. Recent advances in system-wide ore scanning technology has enabled the state to detect hidden asteroid clusters containing this ore.\r\n\r\nThe Caldari State has requested capsuleer assistance in helping them mine Dense Polycrase deposits within the <url=showinfo:4//20000563>Serthoulde</url> constellation and depositing the ore in the State Ore Refinery structure within the State Gate Construction Site in the <url=showinfo:5//30003856>Athounon</url> system.",
+    "es": "Esta variante densa de mena de policrasa es especialmente apreciada por los ingenieros caldaris para su uso en proyectos de construcción a gran escala. Los avances recientes en la tecnología de escaneo de menas en todo el sistema han permitido al Estado detectar cúmulos de asteroides ocultos que contienen esta mena.\n\nEl Estado Caldari ha solicitado la ayuda de los capsulistas para extraer depósitos de policrasa densa en la constelación de <url=showinfo:4//20000563>Serthoulde</url> y depositar la mena en la estructura de la refinería de menas del Estado en la zona de obras del portal del Estado, situada en el sistema <url=showinfo:5//30003856>Athounon</url>.",
+    "fr": "Cette variante plus dense du minerai de polycrase est très prisée des ingénieurs caldari pour les projets de construction de grande envergure. C'est grâce aux récents progrès des technologies de balayage de minerai à l'échelle du système que l'État a pu détecter des amas d'astéroïdes cachés la contenant. L'État Caldari a sollicité l'aide des capsuliers pour procéder à l'exploitation des gisements de polycrase dense de la constellation <url=showinfo:4//20000563>Serthoulde</url> et à leur transport jusqu'à la structure de raffinerie de minerais de l'État. Cette dernière est située dans le système <url=showinfo:5//30003856>Athounon</url>, sur le site de construction de portail de l'État.",
+    "ja": "この高密度のポリクレース鉱石は、大規模な建設プロジェクト用としてカルダリのエンジニアたちに特に珍重されている。最近のシステム全域を対象としたスキャン技術の向上により、カルダリ連合はこの種の鉱石を含んでいる未発見のアステロイド群を検知できるようになった。\n\nカルダリ連合はカプセラに対し、<url=showinfo:4//20000563>サースルド</url>コンステレーション内の高密度ポリクレース鉱脈の採掘に加わり、鉱石を<url=showinfo:5//30003856>アソウノン</url>システム内の連合ゲート建設サイトにあるストラクチャ「連合鉱石精錬所」に預けるよう求めている。",
+    "ko": "응축된 폴리크레이스 광물은 거대한 건축 프로젝트를 진행하는 칼다리 엔지니어들에게 값진 선물이 될 것입니다. 최근 개발된 성계 단위로 광물을 스캔하는 기술을 활용해 응축 폴리크레이스 광물이 매장된 소행성 군집을 찾을 수 있었습니다.<br><br>칼다리 연합은 캡슐리어에게 <url=showinfo:4//20000563>서술드</url> 성좌에서 응축 폴리크레이스 채굴을 의뢰했습니다. 채굴한 광물은 <url=showinfo:5//30003856>아토논</url> 성계의 연합 게이트 건설 현장에 있는 연합 광물 정제소에서 처리할 수 있습니다.",
+    "ru": "Калдарские инженеры охотно используют эту плотную разновидность поликразовой руды в крупномасштабных строительных проектах. Благодаря новым технологиям, которые позволяют сканировать залежи сырья по всей системе, калдарские учёные научились находить трудноразличимые скопления астероидов, содержащие эту руду. Власти Государства Калдари просят капсулёров о помощи в разработке залежей плотного поликраза в созвездии <url=showinfo:4//20000563>Serthoulde</url> и перевозке добытого сырья в калдарский перерабатывающий комплекс, который располагается на калдарском участке строительства звёздных врат в системе <url=showinfo:5//30003856>Athounon</url>.",
+    "zh": "这种厚质复稀金矿可以用在大规模建造项目中，大受加达里工程师的欢迎。新兴的全星系矿石扫描技术让合众国得以探测到不易发现的含有厚质碳硅石的小行星带。\n\n\n\n加达里合众国号召克隆飞行员协助他们在<url=showinfo:4//20000563>萨托洱德</url>星座中开采厚质复稀金矿，并上交给位于<url=showinfo:5//30003856>埃托伦</url>星系中合众国星门建造地点里的合众国矿石精炼建筑。"
+  },
+  "groupID": 1911,
+  "iconID": 232,
+  "mass": 4000.0,
   "name": {
     "de": "Dichtes Polykras",
     "en": "Dense Polycrase",
@@ -10,5 +23,7 @@
     "ru": "Плотный поликраз",
     "zh": "厚质复稀金矿"
   },
+  "portionSize": 100,
+  "published": false,
   "volume": 0.1
 }

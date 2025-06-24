@@ -1,5 +1,20 @@
 {
-  "typeID": 22615,
+  "basePrice": 24960.0,
+  "description": {
+    "de": "Erhöht den Ertrag für Mining Laser, führt aber zu höherem CPU-Verbrauch.",
+    "en": "Increases the yield on mining lasers, but causes them to use up more CPU.",
+    "es": "Aumenta el rendimiento de los láseres mineros, pero provoca que usen más CPU.",
+    "fr": "Augmente le rendement des lasers d'extraction, au détriment de leurs besoins en CPU.",
+    "ja": "採掘用レーザーの採掘量が向上するが、CPU 使用量が多い。",
+    "ko": "채굴 레이저의 산출량이 증가하지만 CPU 요구치도 증가합니다.",
+    "ru": "Повышает производительность экстракторов (Mining Lasers) за счет увеличения нагрузки на бортовой компьютер корабля (CPU).",
+    "zh": "增加采矿激光器的产出，但需占用更多CPU。"
+  },
+  "groupID": 546,
+  "iconID": 1046,
+  "marketGroupID": 935,
+  "mass": 1.0,
+  "metaGroupID": 3,
   "name": {
     "de": "'Aoede' Mining Laser Upgrade",
     "en": "'Aoede' Mining Laser Upgrade",
@@ -10,5 +25,9 @@
     "ru": "'Aoede' Mining Laser Upgrade",
     "zh": "奥德采矿激光提升器"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "variationParentTypeID": 22542,
   "volume": 5.0
 }

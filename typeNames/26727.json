@@ -1,5 +1,17 @@
 {
-  "typeID": 26727,
+  "description": {
+    "de": "Verstärkt die Schildwiederstände eines Kontrollturms gegen Explosionsschäden.",
+    "en": "Boosts the control tower's shield resistance against explosive damage.",
+    "es": "Potencia la resistencia de escudo de la torre de control contra el daño explosivo.",
+    "fr": "Augmente la résistance des boucliers de la tour de contrôle contre les dégâts explosifs.",
+    "ja": "コントロールタワーの対エクスプローシブダメージのシールドレジスタンスを強化する。",
+    "ko": "폭발 피해에 대한 관제타워의 실드 저항력이 증가합니다.",
+    "ru": "Повышает сопротивляемость силового щита диспетчерской башни действию взрыва.",
+    "zh": "增强控制塔护盾抵抗爆破伤害的能力。"
+  },
+  "graphicID": 2380,
+  "groupID": 319,
+  "mass": 4000.0,
   "name": {
     "de": "Starbase Explosion Dampening Array",
     "en": "Starbase Explosion Dampening Array",
@@ -10,5 +22,10 @@
     "ru": "Starbase Explosion Dampening Array",
     "zh": "母星爆破补偿发射器阵列"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 750.0,
+  "sofFactionName": "genericmetal",
+  "soundID": 20195,
   "volume": 4000.0
 }

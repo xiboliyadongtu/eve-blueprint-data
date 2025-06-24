@@ -1,5 +1,18 @@
 {
-  "typeID": 32238,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieses Biodome dient gleichermaßen zur Kultivierung von Planzen und Tieren.",
+    "en": "This biodome is used for cultivation of plants and animals alike.",
+    "es": "Este biodomo se usa para cultivar plantas y criar animales.",
+    "fr": "Ce biodôme est utilisé pour élever des animaux et cultiver des plantations.",
+    "ja": "植物の栽培や食用動物の飼育に使われるバイオドーム。",
+    "ko": "동식물을 재배하는 바이오돔입니다.",
+    "ru": "Этот биокупол используется для выращивания растений и животных.",
+    "zh": "这个生物技术园区用来培养动植物。"
+  },
+  "graphicID": 2782,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Biodome",
     "en": "Biodome",
@@ -10,5 +23,10 @@
     "ru": "Biodome",
     "zh": "生物园区"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 4974.0,
+  "sofFactionName": "gallentebase",
   "volume": 100000000.0
 }

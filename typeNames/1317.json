@@ -1,5 +1,19 @@
 {
-  "typeID": 1317,
+  "description": {
+    "de": "Vergrößert die Frachtraumkapazität auf Kosten von maximaler Geschwindigkeit und Rumpfstärke.",
+    "en": "Increases cargo hold capacity at the expense of maximum velocity and hull strength.",
+    "es": "Aumenta la capacidad de la bodega a costa de la velocidad máxima y la fuerza de la nave.",
+    "fr": "Augmente la capacité de la soute de chargement au détriment de sa vitesse maximum et de la résistance de sa coque.",
+    "ja": "最高速度と船体強度を引きかえに、カーゴ容量を増加する。",
+    "ko": "화물 적재량이 증가하는 반면 최대 속도와 장갑 내구도가 감소합니다.",
+    "ru": "Повышает вместимость грузового отсека корабля за счёт уменьшения максимальной скорости и запаса прочности корпуса.",
+    "zh": "牺牲最大速度和结构强度来增加货柜舱容量。"
+  },
+  "groupID": 765,
+  "iconID": 92,
+  "marketGroupID": 1197,
+  "mass": 50.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Expanded Cargohold I",
     "en": "Expanded Cargohold I",
@@ -10,5 +24,8 @@
     "ru": "Expanded Cargohold I",
     "zh": "扩充货柜舱 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 10.0,
   "volume": 5.0
 }

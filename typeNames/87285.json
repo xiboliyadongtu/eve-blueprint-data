@@ -1,5 +1,16 @@
 {
-  "typeID": 87285,
+  "description": {
+    "de": "Ein Austauschpunkt, an dem Vertreter verschiedener Caldari-Megacorporations sich auf neutralem Boden treffen können, um zu handeln und gemeinsame Projekte zu besprechen, oder wo Kinder mehr über die anderen Megacorporations der Caldari erfahren können.",
+    "en": "An exchange point where representatives of different Caldari megacorporations can meet on neutral ground to trade and discuss joint ventures, or where children can come to learn about the other megacorporations of the Caldari.",
+    "es": "Un punto de intercambio donde los representantes de las diferentes megacorporaciones caldaris pueden reunirse en terreno neutral para comerciar y discutir negocios conjuntos, o donde los niños pueden venir a aprender sobre las otras megacorporaciones caldaris.",
+    "fr": "Un pôle où des représentants de différentes mégacorporations caldari peuvent se rencontrer en terrain neutre pour commercer et discuter de projets communs, ou bien où les enfants peuvent venir pour en apprendre davantage sur les autres mégacorporations caldari.",
+    "ja": "カルダリの様々なメガコーポレーションの代表者たちが訪れ、中立的な状況で取り引きをしたり共同事業について協議したりすることができる取引所。子供たちが訪れ、カルダリに存在するその他のメガコーポレーションについて学ぶことができる場所でもある。",
+    "ko": "칼다리의 메가코퍼레이션의 대표단이 계약을 맺거나 공동 투자 관련 회의를 하려 모이는 중립 지역입니다. 또는 대표단의 자녀들이 다른 칼다리 메가코퍼레이션에 대해 배우는 곳이기도 합니다.",
+    "ru": "Этот обменный пункт — нейтральная территория, на которой представители мегакорпораций Государства Калдари встречаются для торговли и обсуждения совместных инициатив. Кроме того, здесь дети могут познакомиться с другими калдарскими мегакорпорациями.",
+    "zh": "一个交流中心，供加达里多个巨型企业的代表在中立地带会面，进行交易和讨论合资事宜，孩子们可以来这里了解加达里其他的巨型企业。"
+  },
+  "graphicID": 1017,
+  "groupID": 319,
   "name": {
     "de": "Megacorp Exchange",
     "en": "Megacorp Exchange",
@@ -10,5 +21,8 @@
     "ru": "Megacorp Exchange",
     "zh": "巨型企业交流中心"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 100.0,
+  "sofFactionName": "caldaribase"
 }

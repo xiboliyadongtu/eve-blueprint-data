@@ -1,5 +1,16 @@
 {
-  "typeID": 4099,
+  "description": {
+    "de": "Amarr-Fabrikaußenposten werden meist im tiefen Raum verwendet und sind Strukturen, die sich der schnellen und effizienten Herstellung von Schiffen und Modulen widmen. Diese Außenposten werden häufig von Kapselpilotenorganisationen gebaut, gewartet und geleitet.",
+    "en": "Generally utilized in deep space scenarios, Amarr Factory Outposts are structures dedicated to the swift and efficient manufacture of ships and modules. These outposts are most often built, maintained and owned by capsuleer organizations.",
+    "es": "Los puestos avanzados de fábrica amarrianos, más frecuentes en el espacio profundo, son estructuras dedicadas a la fabricación rápida y eficiente de naves y módulos. Estos puestos suelen ser construidos y mantenidos por organizaciones de capsulistas.",
+    "fr": "Généralement utilisés dans l'espace profond, les avant-postes d'usines amarr sont des structures dédiées exclusivement à la production rapide et efficace de vaisseaux et de modules. Ces avant-postes sont le plus souvent construits, entretenus, et détenus par des organisations de capsuliers.",
+    "ja": "一般的に宇宙の深淵シナリオで有用なアマー工場アウトポストは、艦船とモジュールを迅速かつ効率よく製造するために使用される建造物。これらの建造物のほとんどはカプセラ組織によって建設、維持、所有されている。",
+    "ko": "일반적으로 심우주에 위치하고 있는 아마르 함선과 모듈의 제조시설입니다. 대부분은 캡슐리어 단체가 소유하고 있습니다.",
+    "ru": "Аванпосты Amarr, которые обычно используются в дальнем космосе, — это специальные сооружения для быстрого и эффективного производства кораблей и модулей. Эти аванпосты чаще всего создаются и поддерживаются организациями пилотов капсул.",
+    "zh": "无说明"
+  },
+  "graphicID": 2785,
+  "groupID": 226,
   "name": {
     "de": "Amarr-Fabrikaußenposten",
     "en": "Amarr Factory Outpost",
@@ -10,5 +21,9 @@
     "ru": "Amarr Factory Outpost",
     "zh": "艾玛制造站"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 18000.0,
+  "sofFactionName": "amarrbase"
 }

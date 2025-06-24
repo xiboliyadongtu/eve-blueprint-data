@@ -1,5 +1,18 @@
 {
-  "typeID": 3640,
+  "description": {
+    "de": "Eine mehrläufige Schnellfeuer-Hybridwaffe, die nicht viel Energie benötigt und einen nicht abreißenden Schaden verursacht. Erzeugt ihre eigene Munition aus Partikeln im Weltraum. Kann keine Standardhybridmunition verwenden.",
+    "en": "Low powered, rapid fire multi-barreled hybrid weapon that delivers a steady stream of damage. Generates Its own ammo from space particles. Cannot use standard hybrid ammo.",
+    "es": "Arma híbrida con varios cañones de tiro rápido y baja potencia que inflige un flujo de daño constante. Genera su propia munición a partir de partículas espaciales. No admite munición híbrida estándar.",
+    "fr": "Arme hybride à tir rapide et à faible consommation d'énergie composée de plusieurs tubes assurant un feu nourri et régulier. Génère ses propres munitions à partir de particules spatiales. Elle ne peut pas utiliser de munitions hybrides standard.",
+    "ja": "マルチバレル式のハイブリッド兵器。威力は弱いが速射能力が高く、間断なく砲撃を浴びせることができる。空間に浮遊する粒子から実弾を生成する。標準のハイブリッド弾は使用できない。",
+    "ko": "전력소모가 낮은 속사형 다중배럴 발사체 무기로 적에게 지속적인 피해를 입힙니다. 우주의 입자를 활용하여 장전되는 탄약을 직접 생성해냅니다. 표준 하이브리드 탄약은 사용할 수 없습니다.",
+    "ru": "Многоствольная скорострельная установка гибридного действия низкой мощности, способная вести непрерывный огонь. \n\nИспользует космические частицы для изготовления собственного боезапаса. Не может стрелять стандартными гибридными боеприпасами.",
+    "zh": "低能量，快速发射的多管混合武器，可以产生较为稳定的持续破坏力。它能够从空间物质中自行产生弹药，不能使用标准的混合弹药。"
+  },
+  "graphicID": 11127,
+  "groupID": 53,
+  "iconID": 376,
+  "mass": 500.0,
   "name": {
     "de": "Civilian Light Electron Blaster",
     "en": "Civilian Light Electron Blaster",
@@ -10,5 +23,8 @@
     "ru": "Civilian Light Electron Blaster",
     "zh": "民用轻型电子疾速炮"
   },
+  "portionSize": 1,
+  "published": false,
+  "sofFactionName": "gallentebase",
   "volume": 5.0
 }

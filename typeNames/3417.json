@@ -1,5 +1,18 @@
 {
-  "typeID": 3417,
+  "basePrice": 60000.0,
+  "description": {
+    "de": "Fertigkeit für den Betrieb des schiffseigenen Energiespeichers, einschließlich der Benutzung der Capacitor Boosters und anderen grundlegenden Energiemodulen.\n\nBonus: 5% Reduktion in der Energiespeicherladezeit je Skillstufe.",
+    "en": "Skill at operating your ship's capacitor, including the use of capacitor boosters and other basic energy modules. 5% reduction in capacitor recharge time per skill level.",
+    "es": "Habilidad en el manejo de los condensadores de la nave, incluidos los potenciadores de condensador y otros módulos básicos de energía. Reduce un 5 % el tiempo de carga del condensador por nivel de habilidad.",
+    "fr": "Compétence liée à l'utilisation des capaciteurs de votre vaisseau, y compris l'utilisation des boosters de capaciteurs et autres modules d'énergie basiques. Réduit de 5 % par niveau de compétence le temps de recharge du capaciteur.",
+    "ja": "キャパシタブースターなどの基本的エネルギーモジュールの使用法など、船のキャパシタを操作するためのスキル。スキルレベル上昇ごとにキャパシタのリチャージ時間が 5% 短縮される。",
+    "ko": "캐패시터 운용을 위한 스킬입니다. 캐패시터 부스터 및 에너지 모듈에 영향을 미칩니다. 매 레벨마다 캐패시터 충전시간 5% 감소",
+    "ru": "Навык эксплуатации накопителя корабля, в том числе основных предназначенных для него модулей, таких как системы подачи зарядов накопителя. За каждую степень освоения навыка: на 5% сокращается время, требуемое для полной перезарядки накопителя.",
+    "zh": "操作飞船电容器的技能，包括使用电容注电器和其他基础能源装备。每升一级，电容器回充时间缩短5%。"
+  },
+  "groupID": 1216,
+  "iconID": 33,
+  "marketGroupID": 368,
   "name": {
     "de": "Capacitor Systems Operation",
     "en": "Capacitor Systems Operation",
@@ -10,5 +23,7 @@
     "ru": "Системы пополнения накопителя",
     "zh": "电容系统操作"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

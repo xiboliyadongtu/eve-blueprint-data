@@ -1,5 +1,18 @@
 {
-  "typeID": 33096,
+  "basePrice": 2500000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Caldari-Schlachtkreuzern.",
+    "en": "Skill at operating Caldari battlecruisers.",
+    "es": "Habilidad en el manejo de cruceros de combate caldaris.",
+    "fr": "Compétence liée au pilotage des croiseurs de bataille caldari. Formation impossible sur les comptes d'évaluation.",
+    "ja": "カルダリ巡洋戦艦を操作するスキル。",
+    "ko": "칼다리 배틀크루저를 운용하기 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на линейных крейсерах производства Государства Калдари.",
+    "zh": "操作加达里战列巡洋舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Caldari Battlecruiser",
     "en": "Caldari Battlecruiser",
@@ -10,5 +23,8 @@
     "ru": "Калдарские линейные крейсеры",
     "zh": "加达里战列巡洋舰操作"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
   "volume": 0.01
 }

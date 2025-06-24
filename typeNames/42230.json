@@ -1,5 +1,18 @@
 {
-  "typeID": 42230,
+  "description": {
+    "de": "Sie wurden vom Scope-Nachrichtenkanal belohnt.<br><br>Dieser sorgfältig hergestellte Ouroboros-Container wurde mit einem robusten, elektronischen Verriegelungsmechanismus hermetisch versiegelt, um den Inhalt in makellosem Zustand zu erhalten.<br><br>Allerdings hat eine Beschädigung des Siegels schwerwiegende Auswirkungen auf den Container, sodass er sich in diesem Fall vollständig auflöst.<br><br>Die Integrität der sich darin befindenden Gegenstände wird jedoch für eine zukünftige Nutzung aufrechterhalten.",
+    "en": "You have been rewarded by the Scope Network.<br><br>This meticulously constructed Ouroboros container is hermetically sealed with a robust electronic locking mechanism which provides a perfect level of internal preservation.<br><br>However, compromising this seal will have devastating effects on the container, causing it to fully disintegrate.<br><br>Despite that, the integrity of the items held within is retained, keeping them safe for future use.",
+    "es": "Scope Network te ha recompensado.<br><br>Este contenedor Ouroboros tan firme está sellado herméticamente con un robusto mecanismo de bloqueo electrónico que proporciona una conservación interna perfecta.<br><br>Sin embargo, la manipulación de este sello tendrá efectos devastadores en el contenedor y provocará que se desintegre.<br><br>Pese a todo, los objetos que alberga se preservan y quedan a salvo para ser utilizados en el futuro.",
+    "fr": "Vous avez été {[character]player.gender -> \"récompensé\", \"récompensée\"} par le Scope Network.<br><br>Ce conteneur Ouroboros construit avec soin est fermé hermétiquement à l'aide d'un mécanisme de verrouillage robuste, ce qui lui prodigue un niveau de préservation interne parfait.<br><br>Si ce sceau est compromis, le conteneur se désintègrera totalement.<br><br>Les objets qui y sont contenus resteront cependant intacts et en bon état, prêts à être utilisés.",
+    "ja": "スコープネットワークから報酬を獲得。<br><br>細心の注意を払って製造されたこのウロボロス・コンテナは 強固な電子ロック機構によって密封されており、保存能力は極めて優れている。<br><br>しかし、この密封機構が損傷するとコンテナ全体が致命的な影響を受け、バラバラに崩れてしまう。<br><br>それでも内部の保存物が破損することはなく、利用可能な状態のまま維持される。",
+    "ko": "스코프 네트워크로부터 보상을 받았습니다.<br><br>정교하게 설계된 우로보로스 컨테이너로 전자식 잠금 장치가 내부를 철저히 보호하고 있습니다.<br><br>잠금 장치를 강제로 개방하면 충격으로 인해 컨테이너가 파괴됩니다.<br><br>하지만 내용물은 손상되지 않은 채 회수할 수 있을 것입니다.",
+    "ru": "Вы получили награду от новостного агентства «Скоуп».<br><br>Этот контейнер типа «Уроборос» собран умелым техником; он герметически запечатан надёжным электронным замком, обеспечивающим идеальную защиту содержимого.<br><br>Однако вскрытие печати полностью и необратимо уничтожает контейнер.<br><br>Тем не менее, разрушение контейнера ни в коей мере не влияет на возможность дальнейшего использования его содержимого, которое остаётся в целости и сохранности.",
+    "zh": "你获得了视界网络的奖励。<br><br>这个精心打造的衔尾蛇货柜用一种坚固的电子锁定机制密封了起来，能够给内部完美的保护。<br><br>试图中和密封会对货柜造成毁灭性影响，使其完全解体。<br><br>除此之外，里面物品的完整性得以保留，以备将来之用。"
+  },
+  "graphicID": 21237,
+  "groupID": 1194,
+  "iconID": 21621,
+  "marketGroupID": 1661,
   "name": {
     "de": "Silver Ouroboros",
     "en": "Silver Ouroboros",
@@ -10,5 +23,8 @@
     "ru": "Silver Ouroboros",
     "zh": "白银衔尾蛇"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "serpentis",
   "volume": 0.1
 }

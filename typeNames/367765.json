@@ -1,5 +1,16 @@
 {
-  "typeID": 367765,
+  "description": {
+    "de": "Ein verschlüsselter Tresor wird zum Transport von Hochsicherheits-Wertgegenständen wie beispielsweise Ausrüstung und ISK verwendet. Er kann nur mit dem Decodierungsschlüssel geöffnet werden, mit dem er verschlossen wurde. Kreative Spieler finden vielleicht andere Möglichkeiten, ihn zu öffnen.",
+    "en": "An encrypted strongbox is used to transport high security valuables, such as armaments and ISK, and can only be opened by the decryptor key used to lock it. Crafty individuals may find that there are other ways to pry it open.",
+    "es": "Las cajas fuertes encriptadas se usan como medios de alta seguridad para transportar objetos de valor (armamento o ISK) y cada una solo se puede abrir con la llave de desencriptación con la que se cerró. Aunque puede que los más manitas encuentren otra manera de abrirlas.",
+    "fr": "Un coffre-fort crypté est utilisé pour transporter des objets de valeur à très haut niveau de sécurité, tels que des armements et des ISK, et peut uniquement être ouvert par la clé de cryptage utilisée pour le verrouiller. Les individus les plus rusés pourront trouver d'autres moyens de l'ouvrir.",
+    "it": "Un forziere criptato è usato per trasportare oggetti di valore che necessitano della massima sicurezza, come armamenti e ISK, e può essere aperto solo usando la chiave crittografica usata per chiuderlo. Alcuni individui scaltri potrebbero trovare altri metodi per aprirlo.",
+    "ja": "暗号化された金庫は、装備やISKなどの高度な安全対策を要する貴重品を輸送するために使用されます。金庫はロックするために使用されたディクリプタキーだけで開くことができます。ずるい個人は金庫をこじあける他の方法を見つけようとするかもしれません。",
+    "ko": "ISK를 포함한 각종 귀중품 수송에 사용되는 금고입니다. 개방하려면 암호 해독기가 필요합니다. 손재주를 보유한 자들은 어떻게든 다른 방법을 찾으려고 합니다.",
+    "ru": "Зашифрованный сейф применяется для транспортировки тщательно охраняемых ценностей, таких, как оружие или ISK. Его можно открыть только тем ключом-дешифратором, которым он был закрыт.  Мастеровитые личности могут обнаружить другие способы вскрытия подобных сейфов.",
+    "zh": "加密型保险箱用于运输安全等级较高的贵重物品，如武器装备和星币，并且只能用对应的解密密钥打开。但也会有人投机取巧，用其他方式打开。"
+  },
+  "groupID": 367774,
   "name": {
     "de": "Verschlüsselter Tresor",
     "en": "Encrypted Strongbox",
@@ -11,5 +22,7 @@
     "ru": "Зашифрованный сейф",
     "zh": "加密保险箱"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 29789,
+  "capacity": 120.0,
+  "description": {
+    "de": "Der Kreuzer der Scythe-Klasse ist das älteste Schiff, das die Minmatar noch gebrauchen. Es hat sich in zahlreichen Schlachten bewährt und taucht immer wieder in den Geschichten und Überlieferungen der Minmatar auf. Seine Bergbau-Kapazitäten haben sich seit einem Firmware-Upgrade, das man sich bei den Caldari \"ausborgte\", vor kurzem immens verbessert. Die Markierungen an diesem Schiff verweisen auf keinerlei Verbindung zur Republik.",
+    "en": "The Scythe-class cruiser is the oldest Minmatar ship still in use. It has seen many battles and is an integrated part in Minmatar tales and heritage. Recent firmware upgrades \"borrowed\" from the Caldari have vastly increased the efficiency of its mining output.\r\n\r\nThe markings on this ship reveal no obvious connection to the Republic.",
+    "es": "El crucero de clase Scythe es la nave minmatariana más antigua aún en uso. Ha visto muchas batallas y es un elemento importante de la historia y el legado minmatarianos. Las mejoras recientes del firmware, «prestadas» de los caldaris, han aumentado considerablemente su eficiencia en lo que a producción minera se refiere.\n\n\n\nLas marcas de esta nave no revelan una conexión evidente con la República.",
+    "fr": "Le croiseur de classe Scythe est le plus ancien vaisseau minmatar encore en service. Il a pris part à de nombreux combats et fait désormais partie intégrante de l'histoire minmatar. Des améliorations récentes « inspirées » des techniques caldari ont grandement amélioré son rendement lors des opérations d'extraction.\n\nLes marques présentes sur ce vaisseau n'indiquent aucune relation avec la République.",
+    "ja": "サイス級巡洋艦は、現役のミンマター船としては最古の船である。数々の戦いの目撃者である同船は、ミンマターの歴史と文化の欠くべからざる要素と言える。最近、カルダリから「拝借」されたファームウェアが導入され、採掘効率が大きく向上した。\n\n\nその外観から共和国との明らかなつながりを見出すことはできない。",
+    "ko": "사이드급 크루저는 민마타에서 사용되는 함선 중 가장 오랜 된 함선으로 알려져 있습니다. 민마타의 유산인 해당 기종은 각종 무용담에 단골로 등장합니다. 칼다리에서 \"빌려온\" 최신 펌웨어 업그레이드를 통해 함선의 채굴 효율성이 매우 증가하였습니다. <br><br>함선에는 민마타 공화국 소속임을 나타내는 어떠한 표식도 새겨져 있지 않습니다.",
+    "ru": "Крейсеры класса Scythe — старейшие из стоящих на вооружении кораблей Minmatar. Они побывали во многих сражениях и является неотъемлемой частью сказаний Minmatar. Недавняя модернизация с использованием технологий, «позаимствованных» у Caldari, позволила существенно усовершенствовать эффективность этого корабля в добыче полезных ископаемых.\n\nCудя по опознавательным знакам этого корабля, он не имеет непосредственного отношения к Республике.",
+    "zh": "“镰刀”级巡洋舰是仍在使用的最古老的米玛塔尔舰船。它见证了无数的战争，已经成为米玛塔尔的经典传说和宝贵遗产中的不可或缺的一部分。最近从加达里“借鉴”而来的固件升级技术，极大地提高了它的采矿效能。船上的标识表明其同共和国并没有直接联系。"
+  },
+  "graphicID": 304,
+  "groupID": 705,
+  "mass": 9900000.0,
   "name": {
     "de": "Independent Green-Crewed Scythe",
     "en": "Independent Green-Crewed Scythe",
@@ -10,5 +23,10 @@
     "ru": "Independent Green-Crewed Scythe",
     "zh": "独立新兵的镰刀级"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 150.0,
+  "sofFactionName": "minmatarbase",
   "volume": 99000.0
 }

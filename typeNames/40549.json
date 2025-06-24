@@ -1,5 +1,19 @@
 {
-  "typeID": 40549,
+  "basePrice": 10000.0,
+  "description": {
+    "de": "Dieser Gutschein besagt, dass dessen Besitzer für erwiesene Dienste für das Upwell Consortium eine Blaupausenkopie mit 1 Durchlauf für eine große Fortizar-Zitadelle erhält.",
+    "en": "This reward token signifies that its owner will be gifted a 1 run blueprint copy for a large sized Fortizar Citadel structure for services rendered to the Upwell Consortium.",
+    "es": "Esta ficha de retribución significa que el propietario recibirá una copia de 1 iteración del plano de una ciudadela grande Fortizar por los servicios prestados al Consorcio Upwell.",
+    "fr": "Ce jeton de récompense implique que son propriétaire recevra une copie de plan de construction pour une citadelle de grande taille (Fortizar), pour services rendus à l'Upwell Consortium.",
+    "ja": "このトークンは、アップウェル・コンソーシアムの作戦に参加した報酬として所有者が大型「フォータイザー城塞」ストラクチャのブループリント1回分を受領できることを示している。",
+    "ko": "업웰 컨소시엄에 도움을 제공한 대가로 받은 보상 토큰입니다. 토큰은 대형 포티자 시타델을 1회 제작할 수 있는 블루프린트 복제본으로 교환 가능합니다.",
+    "ru": "Этот наградной знак даёт обладателю право на получение копии чертежа на одну постройку большой цитадели типа «Фортизар» за особую услугу, оказанную консорциуму «Апвелл».",
+    "zh": "这个奖励凭证表明持有者将获得大型铁壁堡垒蓝图的一流程拷贝，以表彰其对昇威财团的贡献。"
+  },
+  "groupID": 314,
+  "iconID": 2038,
+  "marketGroupID": 20,
+  "mass": 1.0,
   "name": {
     "de": "Large 'Fortizar' Citadel BPC Token",
     "en": "Large 'Fortizar' Citadel BPC Token",
@@ -10,5 +24,7 @@
     "ru": "Large 'Fortizar' Citadel BPC Token",
     "zh": "大型铁壁堡垒蓝图拷贝凭证"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 29945,
+  "description": {
+    "de": "Dieses befremdlich aussehende Ausrüstungsteil fand sich unversehrt in zerschossenen Rumpf des Schiffs von Guristas Leutnant Sukkenen Fusura. Der komplexe Aufbau mag verblüffen, doch es ist ersichtlich, dass man damit Sicherheitsnetzwerke knacken kann. Die gesamt eSoftware scheint allerdings geschützt zu sein. So lange man auch nur grundlegende Funktionen und den Aufbau des Systems nicht versteht, ist das Gerät nahezu unbrauchbar und kann auch nicht umprogrammiert werden.",
+    "en": "This strange-looking piece of equipment was discovered unharmed amid the shattered hull of Guristas Lieutenant Sukkenen Fusura's vessel. Although baffling in its complexity, it is clearly used as a tool to breach secure networks. All the software appears to be proprietary, however. Without some way to understand even the basic functionality or system design there is little chance of using the device, let alone reverse-engineering it.",
+    "es": "Esta curiosa pieza de equipo fue descubierta en perfectas condiciones entre los restos de la nave del teniente Sukkenen Fusura de los Guristas. Aunque su complejidad resulta desconcertante, claramente sirve para vulnerar redes seguras. Sin embargo, todo el software parece estar patentado. Sin ningún modo de comprender ni siquiera la funcionalidad básica o el diseño del sistema, hay muy pocas posibilidades de usar el dispositivo; mucho menos de aplicar ingeniería inversa.",
+    "fr": "Cet étrange équipement a été découvert intact au beau milieu de la coque détruite du vaisseau du lieutenant guristas, Sukkenen Fusura. Malgré une complexité déconcertante, il est très usité pour pénétrer dans les réseaux sécurisés. Toutefois, tous les logiciels ont semble-t-il été brevetés. Sans comprendre les fonctionnalités de base ou même la conception du système, il est quasiment impossible d'utiliser le dispositif, sans parler d'une ingénierie inversée.",
+    "ja": "この奇妙な機器の部品は、ガリスタスの中尉スッケネンフスラの船の破壊された船体から無傷で発見された。複雑で理解するのが難しいが、セキュアネットワークに侵入するツールとして使われていたことは確かだ。ただ、ソフトウェアは全て独自のものが使われているらしい。基本的な機能やシステム設計に関するなんらかの理解がなければ、リバースエンジニアリングはもちろん、この機器を使うこともできないだろう。",
+    "ko": "구리스타스 부관, 수케넨 푸수라가 탑승했던 함선에서 알 수 없는 장치를 발견했습니다. 복잡한 구조 탓에 정확한 사용 방법은 알 수 없으나, 네트워크 해킹 장치인 것으로 추측됩니다. 활성화한 결과 전용 소프트웨어가 실행됩니다. 시스템 설계 또는 기본 사용법을 숙지하지 않는 이상 해당 장치를 활용하거나 역설계할 수 없습니다.",
+    "ru": "Это странной формы оборудование было обнаружено среди обломков корпуса судна Sukkenen Fusura, лейтенанта Guristas. Хотя разобраться в его устройстве будет сложно, его назначение, всё же, представляется очевидным: оно предназначено для взлома защищенных сетей. Хотя всё программное обеспечение, кажется, собственной разработки. Если не иметь представления хотя бы о его базовой функциональности или о принципах его архитектурного проектирования, существует мало шансов на его использование, не говоря уже об инженерном анализе.",
+    "zh": "这是从古斯塔斯上尉素肯伦·弗舒拉被撕裂的舰船残骸中发现的物品。这个奇怪的设备在爆炸中没有受到任何损坏。尽管这个仪器外观复杂难懂，但很明显它肯定是一种用于突破安全网络的破译设备。它所安装的所有软件都是私密的，如果不能知道它最基础的功能和系统设定的话，这个东西能再次被使用的可能性是很小的，更别说反向工程了。"
+  },
+  "groupID": 314,
+  "iconID": 2857,
+  "mass": 1.0,
   "name": {
     "de": "Network Decryption Analyzer",
     "en": "Network Decryption Analyzer",
@@ -10,5 +22,7 @@
     "ru": "Network Decryption Analyzer",
     "zh": "网络破译分析器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

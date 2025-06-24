@@ -1,5 +1,80 @@
 {
-  "typeID": 42124,
+  "basePrice": 44112000000.0,
+  "capacity": 2550.0,
+  "description": {
+    "de": "Als Reaktion auf den Anstieg an Capital-Flotten unter der Aufsicht von Kapselpiloten hat die Serpentis-Corporation bei den Schiffbauingenieuren des Angel Cartels die Entwicklung eines neuen Capital-Schiffs der Dreadnought-Klasse in Auftrag gegeben. Bei der Entwicklung wurde der Moros-Rumpf als Grundlage für eine beachtliche mobile Waffenplattform genutzt. Nach Erhalt des Prototyps wurden die Capital-Schiffingenieure der \"Guardian Angels\"-Division des Kartells angesetzt, um das Schadenspotenzial des Designs zu maximieren. Um das Design zu vervollständigen, integrierten die Guardian Angels zudem die fortschrittliche Stasisnetztechnologie von Serpentis in das Konzept.",
+    "en": "Reacting to the rise of capsuleer capital fleets, the Serpentis Corporation requested that the Angel Cartel’s naval architects design a dreadnought class capital ship. This was done using the Moros hull as the basis for a formidable mobile weapons platform. After receiving the prototype, capital ship engineers from the Cartel’s Guardian Angels division maximized the damage potential of the design. For good measure, the Guardian Angels combined this with advanced Serpentis stasis webification technology.",
+    "es": "Como reacción al auge de las flotas de naves capitales de capsulistas, la Corporación Serpentis solicitó que los arquitectos navales del Cártel de los Ángeles diseñaran una nave capital de clase superacorazado. Esto se hizo utilizando el casco de la Moros como base para crear una formidable plataforma de armamento móvil. Después de recibir el prototipo, los ingenieros de naves capitales de la división de los Ángeles de la Guarda del Cártel maximizaron el daño potencial del diseño. En buena medida, los Ángeles de la Guarda aprovecharon la avanzada tecnología de redes ralentizadoras de Serpentis.",
+    "fr": "Face à l'ascension des flottes capitales de capsuliers, la corporation Serpentis a demandé aux architectes navals de l'Angel Cartel de concevoir un vaisseau capital Dreadnought. Celui-ci a pris pour base la coque du Moros, et va devenir une formidable plateforme d'armement mobile. Après avoir reçu son prototype, les ingénieurs de vaisseau capital de la division Guardian Angels du cartel ont maximisé le potentiel de dégâts du modèle. Les Guardian Angels ont donc combiné cela avec la technologie de génération de stase serpentis avancée.",
+    "ja": "勢力が拡大しつつあったカプセラの主力部隊に対抗するため、サーペンティス・コーポレーションはエンジェルカルテルの造船技師らに攻城艦級母艦の設計を依頼した。これにより、モロスの船体を基礎にして可動式の強力な砲台を搭載するという設計がなされた。その後、プロトタイプを受け取ったカルテルのガーディアンエンジェル師団の母艦技師らによって、破壊力を極限まで高める設計に見直された。ちなみにその際、ガーディアンエンジェルはサーペンティスの最新式ステイシスウェビファイヤー技術を併せて利用している。",
+    "ko": "캡슐리어의 캐피탈 함대가 급부상하자 서펜티스 코퍼레이션은 엔젤 카르텔의 설계자들에게 드레드노트급 캐피탈 함선 개발을 요청했습니다. 엔젤 카르텔은 모로스의 선체를 기반 플랫폼으로 사용하여 가공할만한 이동식 무기를 탑재한 함선을 개발했습니다. 프로토타입이 완성되자 가디언 엔젤의 엔지니어들은 최대 피해량을 끌어올리기 위해 함선을 더욱 개량했으며 서펜티스의 첨단 스테이시스 웹 기술까지 적용했습니다.",
+    "ru": "Отвечая на рост использования капсулёрами флотов КБТ, корпорация «Серпентис» запросила у космостроителей картеля «ангелов» разработку нового дредноута.  Его создатели опирались на концепцию «Мороса» — именно этот проект стал основой грозной передвижной орудийной платформы. Получив чертежи прототипа, инженеры корпорации «Ангелы-хранители» довели до предела поражающее действие его орудий, а затем, в качестве вишенки на торте, добавили высокоэффективные системы генерации стазис-поля, типичные для «Серпентис».",
+    "zh": "为了应对克隆飞行员旗舰舰队的崛起，天蛇军团请求天使企业联合体的工程师为其设计一艘无畏级旗舰。该船采用了莫洛级的船体，打造一艘强大的移动式武器平台。在收到原型设计后，守护天使集团的旗舰工程师将该设计的伤害潜力发掘到了极致。此外，守护天使还为其融合了先进的天蛇停滞缠绕技术。"
+  },
+  "factionID": 500020,
+  "graphicID": 21282,
+  "groupID": 485,
+  "marketGroupID": 3483,
+  "mass": 1250000000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      70,
+      140,
+      145,
+      147,
+      150,
+      90,
+      95
+    ],
+    "1": [
+      96,
+      99,
+      70,
+      140,
+      145,
+      147,
+      150,
+      90,
+      95
+    ],
+    "2": [
+      96,
+      99,
+      70,
+      140,
+      145,
+      147,
+      150,
+      90,
+      95
+    ],
+    "3": [
+      96,
+      99,
+      70,
+      140,
+      145,
+      147,
+      150,
+      90,
+      95
+    ],
+    "4": [
+      96,
+      99,
+      70,
+      140,
+      145,
+      147,
+      117,
+      150,
+      90,
+      95
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Vehement",
     "en": "Vehement",
@@ -10,5 +85,96 @@
     "ru": "Vehement",
     "zh": "猛烈级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 1613.0,
+  "sofFactionName": "serpentis",
+  "soundID": 20072,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Es kann ein <a href=showinfo:20280>Belagerungsmodul</a> eingebaut werden",
+          "en": "Can fit a <a href=showinfo:20280>Siege module</a>",
+          "es": "Es posible equipar un <a href=showinfo:20280>módulo de asedio</a>.",
+          "fr": "Peut être équipé d'un <a href=showinfo:20280>module de siège</a>",
+          "ja": "<a href=showinfo:20280>シージモジュール</a>を搭載可能",
+          "ko": "<a href=showinfo:20280>시즈모듈</a> 장착 가능",
+          "ru": "Корабли этого типа могут оснащаться <a href=showinfo:20280>реконфигураторами осадного профиля</a>",
+          "zh": "可以装配一个<a href=showinfo:20280>会战装备</a>"
+        },
+        "importance": 1
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Bonus auf den Schaden von <a href=showinfo:21666>Capital-Hybridgeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:21666>Capital Hybrid Turret</a> damage",
+          "es": "de bonificación al daño de la <a href=showinfo:21666>torreta híbrida capital</a>.",
+          "fr": "de bonus aux dégâts de la <a href=showinfo:21666>tourelle hybride capitale</a>",
+          "ja": "<a href=showinfo:21666>キャピタルハイブリッドタレット</a>のダメージが増加",
+          "ko": "<a href=showinfo:21666>캐피탈 하이브리드 터렛</a> 피해량 증가",
+          "ru": "увеличивается урон боеприпасов <a href=showinfo:21666>сверхбольших гибридных орудий</a>",
+          "zh": "<a href=showinfo:21666>旗舰级混合炮台</a>伤害加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 5.0,
+        "bonusText": {
+          "de": "Abzug auf die Durchlaufzeit von <a href=showinfo:34593>Entosis-Netzwerken</a>",
+          "en": "penalty to <a href=showinfo:34593>Entosis Link</a> cycle time",
+          "es": "de penalización al tiempo de ciclo del <a href=showinfo:34593>enlace de entosis</a>.",
+          "fr": "d'allongement du temps de cycle des <a href=showinfo:34593>interfaces Entosis</a>",
+          "ja": "<a href=showinfo:34593>エントーシスリンク</a>のサイクル時間にペナルティ",
+          "ko": "<a href=showinfo:34593>엔토시스 링크</a> 사이클 시간 증가",
+          "ru": "увеличивается длительность рабочего цикла <a href=showinfo:34593>энтоз-передатчиков</a>",
+          "zh": "<a href=showinfo:34593>侵噬链接</a>运转周期惩罚"
+        },
+        "importance": 3,
+        "unitID": 104
+      }
+    ],
+    "types": {
+      "20531": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf die Feuerrate von <a href=showinfo:21666>Capital-Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:21666>Capital Hybrid Turret</a> rate of fire",
+            "es": "de bonificación a la cadencia de tiro de la <a href=showinfo:21666>torreta híbrida capital</a>.",
+            "fr": "de bonus à la cadence de tir des <a href=showinfo:21666>tourelles hybrides capitales</a>",
+            "ja": "<a href=showinfo:21666>キャピタルハイブリッドタレット</a>の射撃速度が上昇",
+            "ko": "<a href=showinfo:21666>캐피탈 하이브리드 터렛</a> 연사속도 증가",
+            "ru": "повышается скорострельность <a href=showinfo:21666>сверхбольших гибридных орудий</a>",
+            "zh": "<a href=showinfo:21666>旗舰级混合炮台</a>射速加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ],
+      "20532": [
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die Effektivität von <a href=showinfo:526>Stasisnetzen</a>",
+            "en": "bonus to <a href=showinfo:526>Stasis Webifier</a> effectiveness",
+            "es": "de bonificación a la efectividad de la <a href=showinfo:526>red ralentizadora</a>.",
+            "fr": "de bonus à l'efficacité du <a href=showinfo:526>générateur de stase</a>",
+            "ja": "<a href=showinfo:526>ステイシスウェビファイア</a>の効果が上昇",
+            "ko": "<a href=showinfo:526>스테이시스 웹 생성기</a> 효과 증가",
+            "ru": "повышается эффективность действия <a href=showinfo:526>стазис-индукторов</a>",
+            "zh": "<a href=showinfo:526>停滞缠绕光束</a>效果加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 19724,
   "volume": 17550000.0
 }

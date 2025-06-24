@@ -1,5 +1,54 @@
 {
-  "typeID": 650,
+  "basePrice": 1400000.0,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Ursprünglich als Weiterentwicklung der „Iteron“ geplant, ist diese Neuauflage eines alten, robusten Transporters schnell und zuverlässig. Aufgrund des niedrigen Preises und der zahlreichen Anpassungsmöglichkeiten ist dieses Schiff bei Zivilisten und dem Militär gleichermaßen beliebt. Trotz seiner Geschwindigkeit und Widerstandsfähigkeit bedarf es in besonders rauen Gefilden womöglich zusätzlichen Schutz. Aus diesem Grund wurde es mit einem Drohnenhangar ausgestattet.",
+    "en": "Originally set to sail under the guise of \"Iteron\", this new iteration of an old and stalwart hauler is fast and reliable. It is equally popular among civilians and militaries due to its low price and ability to be fitted in myriad different ways. Despite its speed and resilience, however, it may need to be guarded while in particularly unfriendly territories, which is why it has also been outfitted with a drone bay for extra protection.",
+    "es": "Originalmente concebida para operar bajo el nombre de Iteron, esta nueva versión de una vieja y robusta nave de mercancías es rápida y eficaz. Es muy popular tanto entre civiles como entre militares debido a su económico precio y a la infinidad de posibilidades de equipamiento. Sin embargo, a pesar de su velocidad y resistencia, puede necesitar protección en zonas especialmente hostiles, por lo que también ha sido equipada con un muelle de drones para mayor seguridad.",
+    "fr": "Conçu à l'origine pour naviguer sous les traits d'un « Iteron », cette nouvelle version d'un cargo ayant fait ses preuves est rapide et fiable. Le faible coût de ce vaisseau et sa capacité à s'adapter à de multiples usages ont séduit les civils autant que les militaires. Malgré ses qualités de vitesse et de résistance, il peut avoir besoin de protection dans les territoires particulièrement hostiles. C'est la raison pour laquelle il a également été doté d'un hangar à drones pour une sécurité accrue.",
+    "ja": "元々は『イタロン』シリーズとして発表されたもので、往年の名機に新しい改良を加え、軽快で信頼性のある船となっている。民間にも軍用にも等しく人気が高いのは、安価なうえに多種多様なフィッティングに対応するためだ。ただし、速度と頑丈さを備えてはいるが万全とはいえず、特に非友好宙域では護衛が必要な場合もあるため、防衛用のドローンベイも備えている。",
+    "ko": "이테론과 유사한 외관을 지닌 운반선으로 기존 설계와는 달리 빠른 비행 속도와 견고한 방어력을 갖추고 있습니다. 저렴한 생산 비용과 다양한 모듈을 탑재할 수 있는 능력 덕분에 군대 뿐만 아니라 민간 함선으로도 인기가 높습니다. 그 밖에도 위험 지역에서의 작전 수행을 위해 드론 격납고가 추가로 설치되었습니다.",
+    "ru": "Эта новая модификация известного перевозчика «Итерон» отличается быстротой и надёжностью. Данное судно популярно как среди промышленников, так и среди военных из-за своей невысокой цены и возможности использовать разнообразные варианты оснастки. Хотя этот корабль обладает высокой скоростью и прочностью, ему может понадобиться охрана, особенно в опасных районах. Для дополнительной защиты он также оснащён отсеком для дронов.",
+    "zh": "涅鲁斯级最初是伊特龙级运载舰的衍生版本，不仅快速，而且可靠。由于价格低廉且具有无数种装配可能性，它广受新伊甸居民和武装人员的喜爱。尽管它快速且结实，但是在敌对领地中进行运输任务的话最好还是配备支护航队，这也是为什么涅鲁斯级有一个无人机挂舱的原因。"
+  },
+  "factionID": 500004,
+  "graphicID": 65,
+  "groupID": 28,
+  "marketGroupID": 83,
+  "mass": 11250000.0,
+  "masteries": {
+    "0": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "1": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "2": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "3": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "4": [
+      96,
+      118,
+      117,
+      94
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Nereus",
     "en": "Nereus",
@@ -9,6 +58,81 @@
     "ko": "네레우스",
     "ru": "Nereus",
     "zh": "涅鲁斯级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 94.79,
+  "sofFactionName": "gallentebase",
+  "soundID": 20074,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 30.0,
+        "bonusText": {
+          "de": "Bonus auf die Warpgeschwindigkeit und Warpbeschleunigung",
+          "en": "bonus to warp speed and warp acceleration",
+          "es": "de bonificación a la velocidad y la aceleración de warp.",
+          "fr": "de bonus à la vitesse de warp et à l'accélération de warp",
+          "ja": "ワープ速度とワープ加速度が上昇",
+          "ko": "워프 속도 및 워프 가속도 증가",
+          "ru": "бонус к разгону и скорости хода (в варп-режиме)",
+          "zh": "跃迁速度和跃迁加速加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 90.0,
+        "bonusText": {
+          "de": "Reduktion der effektiv zurückgelegten Distanz für die Sprungerschöpfung",
+          "en": "reduction to effective distance traveled for jump fatigue",
+          "es": "de reducción de la distancia efectiva hasta sufrir fatiga de salto.",
+          "fr": "de réduction de la distance effectuée pour l'épuisement de saut",
+          "ja": "ジャンプによる疲弊が飛行距離に及ぼす影響を低減",
+          "ko": "이동 거리에 따른 점프 피로도 감소",
+          "ru": "медленнее накапливается усталость от гиперпереходов",
+          "zh": "减少跳跃距离对产生跳跃疲劳的影响"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3340": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf die Frachtraumkapazität des Schiffs",
+            "en": "bonus to ship cargo capacity",
+            "es": "de bonificación a la capacidad de carga de la nave.",
+            "fr": "de bonus à la capacité de la soute du vaisseau",
+            "ja": "艦船のカーゴ容量が増加",
+            "ko": "화물 적재량 증가",
+            "ru": "увеличивается вместимость грузового отсека корабля",
+            "zh": "舰船货柜舱容量加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf den Trägheitsmodifikator des Schiffs",
+            "en": "bonus to ship inertia modifier",
+            "es": "de bonificación al modificador de inercia de la nave.",
+            "fr": "de bonus au modificateur d'inertie du vaisseau",
+            "ja": "艦船の慣性修正乗数が増加",
+            "ko": "관성 계수 증가",
+            "ru": "уменьшается инертность конструкции корабля",
+            "zh": "舰船惯性调整系数加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 240000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 21773,
+  "capacity": 75.0,
+  "description": {
+    "de": "Das ist ein feindliches Piratenschiff. Bedrohungsstufe: Niedrig",
+    "en": "This is a hostile pirate vessel. Threat level: Low",
+    "es": "Nave pirata hostil. Nivel de amenaza: bajo.",
+    "fr": "Il s'agit d'un vaisseau pirate ennemi. Niveau de menace : faible",
+    "ja": "敵の海賊船。危険度:低い",
+    "ko": "적대적인 해적선입니다. 위험도: 낮음",
+    "ru": "Это враждебный пиратский корабль. Уровень опасности: низкий",
+    "zh": "这是一艘敌对的海盗船。威胁等级：低"
+  },
+  "graphicID": 344,
+  "groupID": 520,
+  "mass": 2250000.0,
   "name": {
     "de": "COSMOS Minmatar Rogue",
     "en": "COSMOS Minmatar Rogue",
@@ -10,5 +23,10 @@
     "ru": "COSMOS Minmatar Rogue",
     "zh": "深空 米玛塔尔无赖"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 64.0,
+  "sofFactionName": "angelbase",
   "volume": 22500.0
 }

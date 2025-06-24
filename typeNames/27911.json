@@ -1,5 +1,18 @@
 {
-  "typeID": 27911,
+  "basePrice": 20000000.0,
+  "description": {
+    "de": "Bedienung von Pulsprojektor-Systemen. 5% Reduktion der Modulaktivierungszeit je Skillstufe.",
+    "en": "Operation of Burst Projector systems. Each skill level gives a 5% reduction in module activation time.",
+    "es": "Funcionamiento de sistemas de proyector de estallido. Cada nivel de habilidad reduce en un 5 % el tiempo de activación de los módulos.",
+    "fr": "Opération des projecteurs à salves. Réduit de 5 % par niveau le délai d'activation du module.",
+    "ja": "バーストプロジェクターシステムを操作するスキル。スキルレベル上昇ごとにモジュール起動時間が 5% 短縮する。",
+    "ko": "버스트 프로젝터 시스템을 작동합니다. 매 레벨마다 모듈 작동 대기시간 5% 감소",
+    "ru": "Навык эксплуатации проекторов объёмных помех. За каждую степень освоения навыка: на 5% сокращается продолжительность рабочего цикла (время разогрева после запуска) проекторов объёмных помех.",
+    "zh": "操作脉冲波投射器系统的技能。每升一级，装备激活间隔缩短5%。"
+  },
+  "groupID": 272,
+  "iconID": 33,
+  "marketGroupID": 367,
   "name": {
     "de": "Burst Projector Operation",
     "en": "Burst Projector Operation",
@@ -10,5 +23,8 @@
     "ru": "Проекторы объёмных помех",
     "zh": "脉冲波投射器操作"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

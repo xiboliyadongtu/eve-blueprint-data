@@ -1,5 +1,20 @@
 {
-  "typeID": 73430,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Mithilfe eines Datenanalysegeräts sollte es möglich sein, die Gallente-Verschlüsselungsdaten dieser Anlage zu bergen.",
+    "en": "With the assistance of a data analyzer module it should be possible to retrieve Gallente encryption data from this structure.",
+    "es": "Con la ayuda de un módulo analizador de datos, debería ser posible recuperar los datos de encriptación gallentes de esta estructura.",
+    "fr": "Avec l'aide d'un analyseur de données, il devrait être possible de récupérer les données chiffrées gallente que recèle cette structure.",
+    "ja": "データアナライザーモジュールの助けを借りれば、このストラクチャからガレンテの暗号化データを回収することが可能だと思われる。",
+    "ko": "이 구조물에 데이터 분석기를 사용하면 갈란테 암호화 데이터를 회수할 수 있을 듯합니다.",
+    "ru": "С помощью анализатора данных вы сумеете извлечь галлентские данные шифрования из этого сооружения.",
+    "zh": "使用数据分析仪可以从这座建筑中回收盖伦特加密数据。"
+  },
+  "graphicID": 20298,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Gallente Cryptograph Storage",
     "en": "Gallente Cryptograph Storage",
@@ -10,5 +25,9 @@
     "ru": "Gallente Cryptograph Storage",
     "zh": "盖伦特暗码存储装置"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 300.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

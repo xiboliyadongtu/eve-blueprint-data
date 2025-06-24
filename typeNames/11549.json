@@ -1,5 +1,18 @@
 {
-  "typeID": 11549,
+  "description": {
+    "de": "Eine Reaktorkomponente, die primär in Amarr-Schiffen eingesetzt wird, aber auch Teil unzähliger anderer Technologien ist.",
+    "en": "Power Core component used primarily in Amarr ships. A component in various other technology as well.",
+    "es": "Componente del núcleo de potencia utilizado principalmente en naves Amarr. También es un componente de otras tecnologías.",
+    "fr": "Composant de réacteur principal utilisé principalement pour les vaisseaux amarr. Ce composant est également utilisé dans diverses autres technologies.",
+    "ja": "主にアマー艦船に用いられるパワーコア部品。他にも幅広い機械装置に使われている。",
+    "ko": "아마르 함선에 주로 사용되는 파워코어 부품입니다. 다양한 기술 분야에서 활용되는 부품입니다.",
+    "ru": "Компонент силового ядра, используемый преимущественно на кораблях Amarr. Применяется и в других различных технологиях.",
+    "zh": "主要由艾玛舰船使用的能源核心构件。这个部件也存在于别的各种科技类型中。"
+  },
+  "groupID": 334,
+  "iconID": 2196,
+  "marketGroupID": 802,
+  "mass": 1.0,
   "name": {
     "de": "Antimatter Reactor Unit",
     "en": "Antimatter Reactor Unit",
@@ -10,5 +23,8 @@
     "ru": "Antimatter Reactor Unit",
     "zh": "反物质反应堆组件"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 1.0
 }

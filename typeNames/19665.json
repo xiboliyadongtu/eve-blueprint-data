@@ -1,5 +1,18 @@
 {
-  "typeID": 19665,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Diese mit leichten Raketen bewaffnete Wachplattform wird Raketen auf jedes Ziel abfeuern, das von ihr als Bedrohung eingestuft wird.",
+    "en": "This Light missile Sentry will launch missiles at any target it considers to be a threat.",
+    "es": "Esta estructura centinela de misiles ligeros atacará a cualquier objetivo que considere una amenaza.",
+    "fr": "Cette sentinelle tirera des missiles légers sur toute cible considérée comme une menace.",
+    "ja": "脅威と見なしたターゲットに容赦なくミサイルを発射するライトミサイルセントリー。",
+    "ko": "라이트 미사일 센트리는 위협으로 간주되는 모든 대상을 공격합니다.",
+    "ru": "Эта батарея легких ракет предназначена для атаки любых целей, опознанных ею как вражеские.",
+    "zh": "这座轻型导弹岗哨将向其视为威胁的目标发射导弹。"
+  },
+  "graphicID": 2430,
+  "groupID": 383,
+  "mass": 1000.0,
   "name": {
     "de": "Ammatar Light Missile Battery",
     "en": "Ammatar Light Missile Battery",
@@ -10,5 +23,9 @@
     "ru": "Ammatar Light Missile Battery",
     "zh": "艾玛达轻型导弹炮塔"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 371.0,
+  "sofFactionName": "amarrbase",
   "volume": 1000.0
 }

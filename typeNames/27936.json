@@ -1,5 +1,18 @@
 {
-  "typeID": 27936,
+  "basePrice": 10000000.0,
+  "description": {
+    "de": "Bedienung von Rumpf-Fernreparatursystemen der Capital-Klasse. 5% Reduzierter Energiespeicherbedarf für Capital-Reparatursystemen je Skillstufe.",
+    "en": "Operation of capital class remote hull repair systems. 5% reduced capacitor need for capital class remote hull repair system modules per skill level.",
+    "es": "Funcionamiento de sistemas de reparación remota del casco de clase capital. Necesidad del condensador reducida un 5 % en los módulos de sistemas de reparación remota del casco de clase capital por nivel de habilidad.",
+    "fr": "Systèmes permettant la réparation à distance d'une coque de classe capitale. Réduit de 5 % par niveau de compétence les besoins énergétiques du capaciteur pour les modules de système de réparation de coque à distance de classe capitale.",
+    "ja": "母艦級のリモート船体リペアシステムを操作するためのスキル。スキルレベル上昇ごとに母艦級リモート船体リペアシステムモジュールのキャパシタ消費量が 5% 減少する。",
+    "ko": "캐피탈급 원격 선체수리 시스템 운용을 위한 스킬입니다. 매 레벨마다 캐피탈급 원격 선체수리 시스템 모듈의 캐패시터 사용량 5% 감소",
+    "ru": "Навык управления дистанционными системами ремонта корпуса, предназначенными к установке на КБТ. За каждую степень освоения навыка: на 5% сокращается потребление энергии накопителя сверхбольшими дистанционными системами ремонта корпуса.",
+    "zh": "操作旗舰级远程船体维修系统的技能。每升一级，旗舰级远距船体维修装备的电容消耗减少5%。"
+  },
+  "groupID": 1210,
+  "iconID": 33,
+  "marketGroupID": 1745,
   "name": {
     "de": "Capital Remote Hull Repair Systems",
     "en": "Capital Remote Hull Repair Systems",
@@ -10,5 +23,8 @@
     "ru": "Пилотам КБТ: дистанционный ремонт корпуса",
     "zh": "旗舰级远程船体修理技术"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

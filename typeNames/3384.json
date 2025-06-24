@@ -1,5 +1,17 @@
 {
-  "typeID": 3384,
+  "basePrice": 100000.0,
+  "description": {
+    "de": "Bonus: Gewährt eine 5% Reduktion in der Produktionszeit von Ausrüstungsteilen der Minmatar.",
+    "en": "Grants +5% reduction in Minmatar equipment production time.",
+    "es": "Otorga un +5 % de reducción del tiempo de producción de equipo minmatariano.",
+    "fr": "Réduit de 5 % le temps de production des équipements minmatar.",
+    "ja": "ミンマターの装備の製造時間が 5% 短縮される。",
+    "ko": "민마타 장비 생산 시간 5% 감소",
+    "ru": "На 5% сокращает срок проектов по производству минматарского оборудования.",
+    "zh": "米玛塔尔装备的制造时间缩短5%。"
+  },
+  "groupID": 268,
+  "iconID": 33,
   "name": {
     "de": "Minmatar Tech",
     "en": "Minmatar Tech",
@@ -10,5 +22,7 @@
     "ru": "Минматарская система конструкторской документации",
     "zh": "米玛塔尔科技"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

@@ -1,5 +1,54 @@
 {
-  "typeID": 19744,
+  "basePrice": 1400000.0,
+  "capacity": 2100.0,
+  "description": {
+    "de": "Die Sigil ist ein neues Schiff von Viziam und basiert auf dem Design eines alten Sklaventransporters.",
+    "en": "The Sigil is a recent ship from Viziam based on an old slave transport design.",
+    "es": "La Sigil es una nueva nave de Viziam basada en un antiguo diseño de transporte de esclavos.",
+    "fr": "Le Sigil est un vaisseau récent de Viziam conçu à partir du modèle d'un ancien vaisseau de transport d'esclaves.",
+    "ja": "サイジルは、古い奴隷輸送艦の設計をベースにしたビジアムの現行艦である。",
+    "ko": "비지암 사가 제작한 함선으로 구형 노예 수송선를 바탕으로 설계가 되었습니다.",
+    "ru": "Грузовой корабль типа «Сигил» производится корпорацией «Визиам». Он представляет собой переосмысленный старый транспорт для перевозки рабов.",
+    "zh": "魔符级是维鲜集团在老式奴隶运输船的基础上加以改造而成的新船。"
+  },
+  "factionID": 500003,
+  "graphicID": 2715,
+  "groupID": 28,
+  "marketGroupID": 85,
+  "mass": 11000000.0,
+  "masteries": {
+    "0": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "1": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "2": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "3": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "4": [
+      96,
+      118,
+      117,
+      94
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Sigil",
     "en": "Sigil",
@@ -9,6 +58,81 @@
     "ko": "시길",
     "ru": "Sigil",
     "zh": "魔符级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 220.0,
+  "sofFactionName": "amarrbase",
+  "soundID": 20063,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 30.0,
+        "bonusText": {
+          "de": "Bonus auf die Warpgeschwindigkeit und Warpbeschleunigung",
+          "en": "bonus to warp speed and warp acceleration",
+          "es": "de bonificación a la velocidad y la aceleración de warp.",
+          "fr": "de bonus à la vitesse de warp et à l'accélération de warp",
+          "ja": "ワープ速度とワープ加速度が上昇",
+          "ko": "워프 속도 및 워프 가속도 증가",
+          "ru": "бонус к разгону и скорости хода (в варп-режиме)",
+          "zh": "跃迁速度和跃迁加速加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 90.0,
+        "bonusText": {
+          "de": "Reduktion der effektiv zurückgelegten Distanz für die Sprungerschöpfung",
+          "en": "reduction to effective distance traveled for jump fatigue",
+          "es": "de reducción de la distancia efectiva hasta sufrir fatiga de salto.",
+          "fr": "de réduction de la distance effectuée pour l'épuisement de saut",
+          "ja": "ジャンプによる疲弊が飛行距離に及ぼす影響を低減",
+          "ko": "이동 거리에 따른 점프 피로도 감소",
+          "ru": "медленнее накапливается усталость от гиперпереходов",
+          "zh": "减少跳跃距离对产生跳跃疲劳的影响"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3343": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf die Frachtraumkapazität des Schiffs",
+            "en": "bonus to ship cargo capacity",
+            "es": "de bonificación a la capacidad de carga de la nave.",
+            "fr": "de bonus à la capacité de la soute du vaisseau",
+            "ja": "艦船のカーゴ容量が増加",
+            "ko": "화물 적재량 증가",
+            "ru": "увеличивается вместимость грузового отсека корабля",
+            "zh": "舰船货柜舱容量加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf den Trägheitsmodifikator des Schiffs",
+            "en": "bonus to ship inertia modifier",
+            "es": "de bonificación al modificador de inercia de la nave.",
+            "fr": "de bonus au modificateur d'inertie du vaisseau",
+            "ja": "艦船の慣性修正乗数が増加",
+            "ko": "관성 계수 증가",
+            "ru": "уменьшается инертность конструкции корабля",
+            "zh": "舰船惯性调整系数加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 230000.0
 }

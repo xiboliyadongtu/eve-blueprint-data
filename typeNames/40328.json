@@ -1,5 +1,18 @@
 {
-  "typeID": 40328,
+  "basePrice": 5000000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Logistikfregatten.",
+    "en": "Skill for operation of Logistics Frigates.",
+    "es": "Habilidad para el manejo de fragatas logísticas.",
+    "fr": "Compétence permettant de piloter des frégates logistiques.",
+    "ja": "物資輸送フリゲートを操作するスキル。",
+    "ko": "로지스틱스 프리깃 운용을 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на фрегатах обеспечения.",
+    "zh": "操作后勤护卫舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Logistics Frigates",
     "en": "Logistics Frigates",
@@ -10,5 +23,7 @@
     "ru": "Фрегаты обеспечения",
     "zh": "后勤护卫舰"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

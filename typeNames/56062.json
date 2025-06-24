@@ -1,5 +1,7 @@
 {
-  "typeID": 56062,
+  "graphicID": 1217,
+  "groupID": 920,
+  "mass": 1.0,
   "name": {
     "de": "Weak Metaliminal Plasma Firestorm",
     "en": "Weak Metaliminal Plasma Firestorm",
@@ -9,6 +11,96 @@
     "ko": "하급 메타경계성 플라즈마 화염폭풍",
     "ru": "Weak Metaliminal Plasma Firestorm",
     "zh": "弱金属极限等离子火焰风暴"
+  },
+  "portionSize": 250,
+  "published": true,
+  "sofFactionName": "genericbase",
+  "traits": {
+    "iconID": 21907,
+    "miscBonuses": [
+      {
+        "bonus": 10.0,
+        "bonusText": {
+          "de": "Reduktion der Thermalresistenz von Schiffen",
+          "en": "reduction in ship thermal resistances",
+          "es": "de reducción de las resistencias térmicas de la nave.",
+          "fr": "de réduction des résistances thermiques du vaisseau",
+          "ja": "艦船のサーマルレジスタンスが減少",
+          "ko": "열 저항력 감소",
+          "ru": "уменьшение сопротивляемости корабля термальному урону",
+          "zh": "舰船热能抗性降低"
+        },
+        "importance": 1,
+        "isPositive": false,
+        "unitID": 105
+      },
+      {
+        "bonus": 10.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der Panzerung von Schiffen",
+          "en": "bonus to ship armor hitpoints",
+          "es": "de bonificación a los puntos de vida del blindaje de la nave.",
+          "fr": "de bonus aux points de dommages du blindage du vaisseau",
+          "ja": "艦船のアーマーHPが増加",
+          "ko": "장갑 내구도 증가",
+          "ru": "бонус к запасу прочности брони корабля",
+          "zh": "舰船装甲值加成"
+        },
+        "importance": 2,
+        "isPositive": true,
+        "unitID": 105
+      },
+      {
+        "bonus": 20.0,
+        "bonusText": {
+          "de": "Bonus auf den Schaden durch Geschütztürme, Lenkwaffen, Drohnen und Jäger",
+          "en": "bonus to turret, missile, drone, and fighter damage",
+          "es": "de bonificación al daño de las torretas, los misiles, los drones y los cazas.",
+          "fr": "de bonus aux dégâts des tourelles, des missiles, des drones et des chasseurs",
+          "ja": "タレット、ミサイル、ドローン、艦載戦闘機のダメージ上昇",
+          "ko": "터렛, 미사일, 드론, 파이터 피해량 증가",
+          "ru": "бонус к урону от турелей, ракет, дронов и истребителей",
+          "zh": "炮台，导弹、无人机和铁骑舰载机伤害加成"
+        },
+        "importance": 3,
+        "isPositive": true,
+        "unitID": 105
+      },
+      {
+        "bonus": 20.0,
+        "bonusText": {
+          "de": "Reduktion der Nachführungsgeschwindigkeit von Geschütztürmen und Drohnen",
+          "en": "reduction in turret and drone tracking speed",
+          "es": "de reducción de la velocidad de rastreo de las torretas y los drones.",
+          "fr": "de réduction de la vitesse de poursuite des tourelles et des drones",
+          "ja": "タレットとドローンの追跡速度が減少",
+          "ko": "터렛 및 드론 트래킹 속도 감소",
+          "ru": "уменьшение скорости наведения турелей и дронов",
+          "zh": "炮台和无人机跟踪速度降低"
+        },
+        "importance": 4,
+        "isPositive": false,
+        "unitID": 105
+      },
+      {
+        "bonus": 20.0,
+        "bonusText": {
+          "de": "Erhöhung des Explosionsradius von Lenkwaffen und Jägern",
+          "en": "increase to missile and fighter explosion radius",
+          "es": "de aumento del radio de explosión de los misiles y los cazas.",
+          "fr": "d'augmentation du rayon d'explosion des missiles et des chasseurs",
+          "ja": "ミサイルと艦載戦闘機の爆発半径が増加",
+          "ko": "미사일 및 파이터 폭발반경 증가",
+          "ru": "увеличение радиуса взрыва ракет и истребителей",
+          "zh": "导弹和铁骑舰载机爆炸半径增加"
+        },
+        "importance": 5,
+        "isPositive": false,
+        "unitID": 105
+      }
+    ],
+    "roleBonuses": [],
+    "types": {}
   },
   "volume": 20.0
 }

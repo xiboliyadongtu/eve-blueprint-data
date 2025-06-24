@@ -1,5 +1,17 @@
 {
-  "typeID": 30536,
+  "basePrice": 5000000.0,
+  "description": {
+    "de": "Skill in Verbindung mit amarrianischen Elektronik-Subsystemen für Tech-III-Schiffe.",
+    "en": "Skill in the operation of Amarr Electronic Subsystems used on Tech III ships.",
+    "es": "Habilidad en el manejo de subsistemas electrónicos amarrianos usados en naves T3.",
+    "fr": "Compétence liée à l'utilisation des sous-systèmes électroniques amarr sur les vaisseaux Tech III.",
+    "ja": "Tech 3艦船で使用するアマーの電子サブシステムを操作するスキル。",
+    "ko": "테크 III 함선에 사용되는 아마르 전자 서브시스템 운용을 위한 스킬입니다.",
+    "ru": "Освоив первую степень этого навыка, пилот сможет пользоваться амаррскими электронными подсистемами для кораблей третьей техкатегории.",
+    "zh": "这是用来操纵三级科技舰船上艾玛电子子系统的技能。"
+  },
+  "groupID": 1240,
+  "iconID": 33,
   "name": {
     "de": "Amarr Electronic Systems",
     "en": "Amarr Electronic Systems",
@@ -10,5 +22,8 @@
     "ru": "Амаррские электронные подсистемы",
     "zh": "艾玛电子子系统"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
   "volume": 0.01
 }

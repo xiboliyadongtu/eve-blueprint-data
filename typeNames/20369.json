@@ -1,5 +1,16 @@
 {
-  "typeID": 20369,
+  "description": {
+    "de": "Eine Incursus, die von einem Agenten geflogen wird.",
+    "en": "An Incursus piloted by an agent.",
+    "es": "Incursus pilotada por un agente.",
+    "fr": "Un Incursus piloté par un agent.",
+    "ja": "エージェントを乗せたインカーサス。",
+    "ko": "에이전트가 조종하는 인커서스입니다.",
+    "ru": "Корабль класса Incursus, управляемый агентом.",
+    "zh": "由代理人驾驶的因卡萨斯级飞船。"
+  },
+  "graphicID": 61,
+  "groupID": 517,
   "name": {
     "de": "Cosmos Incursus",
     "en": "Cosmos Incursus",
@@ -10,5 +21,9 @@
     "ru": "Cosmos Incursus",
     "zh": "深空 因卡萨斯级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 42.0,
+  "sofFactionName": "gallentebase"
 }

@@ -1,5 +1,19 @@
 {
-  "typeID": 63596,
+  "basePrice": 1000.0,
+  "description": {
+    "de": "Es wird sofort nach der Einlösung aktiv. Grunddauer 2 Stunden. 1 % Bonus auf die Effektivität lokaler Schild- und Panzerungsreparaturmodule 1 % Bonus auf die Maximalgeschwindigkeit des Schiffs 1 % Bonus auf die Feuerrate von Geschütztürmen, Vorton-Projektoren und Lenkwaffenwerfern 1 % Bonus auf die Wiederaufladerate des Energiespeichers 1 % Bonus auf den Signaturradius 2 % Bonus auf die Maximalgeschwindigkeit und Nachführungsgeschwindigkeit von Drohnen 2 % Bonus auf die Reichweite von Bergbaulasern und Eisschürfern 2 % Bonus auf die Scanauflösung 2 % Bonus auf die Abweichung und Scangeschwindigkeit von Scansonden",
+    "en": "It will apply immediately when redeemed. Base Duration 2 Hours.\r\n\r\n1% bonus to local shield and armor repair module effectiveness\r\n1% bonus to ship max velocity\r\n1% bonus to turret, vorton projector and missile launcher rate of fire\r\n1% bonus to capacitor recharge rate\r\n1% bonus to signature radius\r\n2% bonus to drone max velocity and tracking speed\r\n2% bonus to mining laser and ice harvester range\r\n2% bonus to scan resolution\r\n2% bonus to scan probe deviation and scan speed",
+    "es": "Se aplicará inmediatamente tras canjearlo. Duración base: 2 horas.\r\n\r\n1 % de bonificación a la efectividad del módulo de reparación de escudo y blindaje local.\r\n1 % de bonificación a la velocidad máxima de la nave.\r\n1 % de bonificación a la cadencia de tiro de las torretas, los proyectores vortónicos y los lanzamisiles.\r\n1 % de bonificación a la velocidad de carga del condensador.\r\n1 % de bonificación al radio de la señal.\r\n2 % de bonificación a la velocidad máxima y la velocidad de rastreo de los drones.\r\n2 % de bonificación al alcance de la cosechadora de hielo y el láser minero.\r\n2 % de bonificación a la resolución de escaneo.\r\n2 % de bonificación a la desviación de sondas y la velocidad de escaneo.",
+    "fr": "S'appliquera immédiatement une fois récupéré. Durée de base : 2 heures. 1 % de bonus à l'efficacité des modules de réparation de bouclier et de blindage locaux 1 % de bonus à la vitesse maximale du vaisseau 1 % de bonus à la cadence de tir des tourelles, des projecteurs de vortons et des lance-missiles 1 % de bonus à la vitesse de recharge du capaciteur 1 % de bonus au rayon de signature 2 % de bonus à la vitesse maximale et à la vitesse de poursuite des drones 2 % de bonus à la portée des lasers d'extraction et du collecteur de glace 2 % de bonus à la résolution du balayage 2 % de bonus à la déviation de balayage et à la vitesse de balayage des sondes",
+    "ja": "引き換えると直ちに適用される。基本持続時間は2時間。\r\n\r\n装備したシールドとアーマーリペアモジュールの効果に1%のボーナス\r\n艦船の最高速度に1%のボーナス\r\nタレット、ヴォートンプロジェクター、そしてミサイルランチャーの発射間隔に1%のボーナス\r\nキャパシタ充電速度に1%のボーナス\r\nシグネチャ半径に1%のボーナス\r\nドローンの最大速度と追跡速度に2%のボーナス\r\n採掘レーザーとアイス採掘機の射程に2%のボーナス\r\nスキャン分解能に2%のボーナス\r\nスキャンプローブ誤差とスキャン速度に2%のボーナス",
+    "ko": "수령 즉시 활성화되는 부스터입니다. 기본 지속시간: 2시간\r\n\r\n지역 실드 및 장갑 수리 모듈 효과 1% 증가\r\n함선 최대 속도 1% 증가\r\n터렛, 보르톤 프로젝터, 미사일 발사 속도 1% 증가\r\n캐패시터 충전 속도 1% 중가\r\n시그니처 반경 1% 감소\r\n드론 최대 속도 및 트래킹 속도 2% 증가\r\n채굴 레이저 및 아이스 채굴기 사거리 2% 증가\r\n스캔 정밀도 2% 증가\r\n스캔 프로브 오차 범위 2% 감소 및 스캔 속도 2% 증가",
+    "ru": "Применяется сразу же после активации. Базовая длительность: 2 часа. На 1% повышает эффективность бортовых модулей ремонта щитов и брони, максимальную скорость корабля, скорострельность турелей, вортонных проекторов и ракетных установок, а также скорость перезарядки накопителя. На 2% повышает максимальную скорость дронов, скорость наведения дронов, дальность действия буровых лазеров и установок для бурения льда, разрешающую способность сканеров и скорость сканирования. На 2% уменьшает радиус сигнатуры и отклонение при сканировании разведзондами.",
+    "zh": "领取后立即生效。基础持续时间：2小时。自身护盾和装甲维修装备的效果提高1%，舰船最大速度提高1%，炮台、电弧弦投射器和导弹发射器的发射速率提高1%，电容回充速率提高1%，信号半径提高1%，无人机最大速度和跟踪速度提高2%，采矿激光器和冰矿采集器的射程提高2%，扫描分辨率提高2%，探针扫描偏差降低2%，扫描速度提高2%"
+  },
+  "groupID": 303,
+  "iconID": 25265,
+  "mass": 1.0,
+  "metaGroupID": 19,
   "name": {
     "de": "Halcyon R-1 Booster",
     "en": "Halcyon R-1 Booster",
@@ -10,5 +24,7 @@
     "ru": "Halcyon R-1 Booster",
     "zh": "寂静R-1增效剂"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

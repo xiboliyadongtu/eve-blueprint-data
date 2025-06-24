@@ -1,5 +1,18 @@
 {
-  "typeID": 33000,
+  "basePrice": 250000.0,
+  "description": {
+    "de": "Skill zur Verstärkung von gravimetrischen Sensoren gegen feindliche elektronische Gegenmaßnahmen-Module. 4% erhöhte gravimetrische Sensorstärke je Skillstufe. Gravimetrische Sensoren finden sich in erster Linie auf den Schiffen der Caldari, Guristas und Mordu's Legion.",
+    "en": "Skill at hardening Gravimetric Sensors against hostile Electronic Counter Measure modules. 4% improved Gravimetric Sensor Strength per skill level.\r\n\r\nGravimetric Sensors are primarily found on Caldari, Guristas and Mordu's Legion ships.",
+    "es": "Habilidad para fortalecer los sensores gravimétricos contra los módulos hostiles de contramedidas electrónicas. Mejora del 4 % de la intensidad de los sensores gravimétricos por nivel de habilidad.\n\n\n\nLos sensores gravimétricos se encuentran principalmente en naves caldaris, guristas y de la Legión de Mordu.",
+    "fr": "Compétence liée au renforcement des détecteurs gravimétriques face aux modules de contremesures électroniques ennemis. Augmente de 4 % par niveau de compétence la puissance de détection gravimétrique.\n\nOn trouve principalement les détecteurs gravimétriques sur les vaisseaux caldari, guristas et ceux de la Mordu's Legion.",
+    "ja": "重力センサーを強化して各種ECMモジュールの攻撃に対抗するスキル。スキルレベル上昇ごとに重力センサー強度が4％上昇。\n\t\t\n重力センサーは主としてカルダリ、ガリスタス、モードゥ部隊が艦船に採用している。",
+    "ko": "ECM 모듈에 대한 중력장 센서의 저항력을 향상하기 위한 스킬입니다. 매 레벨마다 중력장 센서 강도 4% 증가 <br><br>중력장 타겟팅 시스템은 칼다리, 구리스타스, 그리고 모르두 군단 함선에 주로 탑재됩니다.",
+    "ru": "Навык, позволяющий повысить защищённость гравиметрических систем сопровождения целей от помех, наводимых противником. За каждую степень освоения навыка: на 4% повышается эффективность гравиметрических систем сопровождения целей.\n\n\n\nГравиметрические системы сопровождения целей обычно применяются на кораблях Государства Калдари, легиона Морду и гуристас.",
+    "zh": "提高引力感应器应对ECM攻击能力的技能。每升一级，引力感应器强度提高4%。\n\n引力感应器多见于加达里、古斯塔斯和莫德团舰船。"
+  },
+  "groupID": 1213,
+  "iconID": 33,
+  "marketGroupID": 1748,
   "name": {
     "de": "Gravimetric Sensor Compensation",
     "en": "Gravimetric Sensor Compensation",
@@ -10,5 +23,7 @@
     "ru": "Повышение эффективности гравиметрических систем",
     "zh": "引力感应器补偿"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

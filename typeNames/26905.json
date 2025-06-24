@@ -1,5 +1,17 @@
 {
-  "typeID": 26905,
+  "description": {
+    "de": "Der Nachweis über den Besitz eines einzelnen Sklaven. Enthält Vorbesitzer, Beschäftigungshistorie und aktuellen Gesundheitszustand.",
+    "en": "A Record of owner ship of a single slave, previous owners, work history and current state of health",
+    "es": "Un registro de propiedad de una nave en la que constan un único esclavo, propietarios anteriores, historial de trabajo y estado de salud actual.",
+    "fr": "Document de propriété d'un esclave. Indique les propriétaires précédents, les antécédents professionnels et l'état de santé actuel.",
+    "ja": "ある一人の奴隷に関する記録。過去の所有者、仕事の経歴、現在の健康状態などが記されている。",
+    "ko": "노예 소유 문서에는 과거 주인, 대략적인 이력, 그리고 현재 건강상태가 기록되어 있습니다.",
+    "ru": "Запись о владельце раба, о его предыдущих владельцах, история работы и текущее состояние здоровья.",
+    "zh": "这里记录了每个劳工的现任主人、前任主人、工作历史以及当前健康状况。"
+  },
+  "groupID": 526,
+  "iconID": 1192,
+  "mass": 1.0,
   "name": {
     "de": "Slave Ownership Record",
     "en": "Slave Ownership Record",
@@ -10,5 +22,7 @@
     "ru": "Slave Ownership Record",
     "zh": "劳工领主记录"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

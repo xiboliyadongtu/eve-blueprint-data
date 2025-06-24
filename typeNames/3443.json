@@ -1,5 +1,18 @@
 {
-  "typeID": 3443,
+  "basePrice": 30000.0,
+  "description": {
+    "de": "Skill für Kenntnisse über und Einflussnahme auf den Markt.\r\n\r\nJede Skillstufe erhöht die Grenze für aktive Kaufs-/Verkauforders um 4.",
+    "en": "Knowledge of the market and skill at manipulating it. Active buy/sell order limit increased by 4 per level of skill.",
+    "es": "Conocimiento del mercado y habilidad para manipularlo. Límite de pedidos de compra/venta activos incrementado en 4 por nivel de habilidad.",
+    "fr": "Connaissance du marché et compétence liée à ce marché. Chaque niveau de compétence augmente de 4 la limite des ordres d'achat/de vente actifs.",
+    "ja": "マーケットに関する知識と操作スキル。有効な売り／買い注文の上限がスキルレベル上昇ごとに 4 ずつ増加する。",
+    "ko": "거래소에 관한 기본적인 이해를 습득합니다. <br><br>매 레벨마다 구매 및 판매 주문 +4",
+    "ru": "Знание торговой системы и навыки обращения с ней. Увеличивает максимальное число одновременно открытых ордеров на покупку и/или продажу на 4 на уровень навыка.",
+    "zh": "理解市场和操纵市场的技能。每升一级，有效购买/出售订单数上限加4。"
+  },
+  "groupID": 274,
+  "iconID": 33,
+  "marketGroupID": 378,
   "name": {
     "de": "Trade",
     "en": "Trade",
@@ -10,5 +23,7 @@
     "ru": "Торговля",
     "zh": "贸易学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

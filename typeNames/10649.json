@@ -1,5 +1,18 @@
 {
-  "typeID": 10649,
+  "capacity": 1200.0,
+  "description": {
+    "de": "Diese schwache, aber feindselige Drohne ermöglicht es Anfängerpiloten, einen Kampf ohne großes Risiko zu erleben.\r\n\r\nBedrohungsstufe: Sehr niedrig",
+    "en": "This weak but hostile training drone allows rookie-pilots to experience combat without too much risk. Threat level: Very low",
+    "es": "Este débil pero hostil dron de entrenamiento sirve para que los pilotos noveles se enfrenten a combates sin demasiado riesgo. Nivel de amenaza: muy bajo.",
+    "fr": "Ce drone d'entraînement peu résistant mais combatif permet aux pilotes débutants de s'entraîner au combat sans trop de risques. Niveau de menace : très faible",
+    "ja": "この弱いが攻撃的なトレーニングドローンのおかげで、新人パイロットは過度の危険を負わずに実戦経験を積むことができる。危険度:非常に低い",
+    "ko": "약하지만 적대적인 태세를 갖춘 훈련 드론입니다. 신참 파일럿들이 큰 위험부담을 안지 않고도 실전을 경험하도록 해줍니다. 위험도: 매우 낮음",
+    "ru": "Этот слабый, но враждебный тренировочный дрон позволяет пилотам-новичкам повысить навыки ведения боя без лишнего риска. Уровень опасности: Очень низкий",
+    "zh": "这种弱小但具有敌意的训练无人机可以让新手飞行员真正体验战斗，同时又不会冒太大的风险。威胁等级：非常低"
+  },
+  "graphicID": 1124,
+  "groupID": 287,
+  "mass": 100000.0,
   "name": {
     "de": "Training Drone",
     "en": "Training Drone",
@@ -10,5 +23,9 @@
     "ru": "Training Drone",
     "zh": "训练无人机"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 45.0,
+  "sofFactionName": "minmatarbase",
   "volume": 60.0
 }

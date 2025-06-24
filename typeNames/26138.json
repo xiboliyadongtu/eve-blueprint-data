@@ -1,5 +1,17 @@
 {
-  "typeID": 26138,
+  "description": {
+    "de": "Sicherheitsschlüssel, der Zutritt zum Forschungsturm-Raum gewährt.",
+    "en": "Security key that grants entry into the Research Tower room.",
+    "es": "Llave de seguridad que permite acceder a la sala de la Torre de investigación.",
+    "fr": "Clé de sécurité permettant l'accès à la salle située dans la tour de recherche.",
+    "ja": "研究タワー内部にアクセスできるセキュリティパス。",
+    "ko": "이 보안키를 사용하면 연구타워로 진입할 수 있습니다.",
+    "ru": "Ключ охраны, дающий доступ к комнате исследовательской вышки.",
+    "zh": "通往研究塔台的通行密匙。"
+  },
+  "groupID": 474,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Research Tower Key",
     "en": "Research Tower Key",
@@ -10,5 +22,7 @@
     "ru": "Research Tower Key",
     "zh": "研究塔台的钥匙"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

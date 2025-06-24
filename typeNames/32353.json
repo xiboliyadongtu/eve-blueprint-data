@@ -1,5 +1,19 @@
 {
-  "typeID": 32353,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieser Container enthält das Dokument <b>“Beweis für die Entdeckung: Anomalien”</b>, das als Beleg dafür dient, dass ein Kapselpilot im Training in der Lage war, die Anomalie mithilfe des eingebauten Scanners ausfindig zu machen. Dieses Dokument wird benötigt, um die erste Mission des Tutorials erfolgreich abzuschließen. Falls Sie den Container leer vorfinden sollten, warten Sie bitte ein paar Minuten, bis ein neues Dokument erstellt wurde.",
+    "en": "This container houses the <b>“Proof of Discovery: Anomalies”</b> document, which serves as physical proof that a capsuleer-in-training has been able to locate the anomaly through the use of On-Board Scanning. It must be retrieved to complete the first tutorial mission. \r\n\r\nIf at first the container appears empty, please wait a few minutes for a new document to be provided.",
+    "es": "Este contenedor alberga el documento <b>«Prueba de descubrimiento: Anomalías»</b>, que sirve como prueba física de que un capsulista en formación ha sido capaz de localizar la anomalía mediante el escaneo de a bordo. Debes recuperarla para completar la primera misión del tutorial.\n\nSi, inicialmente, el contenedor parece vacío, espera unos minutos hasta que se genere un nuevo documento.",
+    "fr": "Ce conteneur contient le document <b>« Certificat de découverte : Anomalies »</b>, qui constitue la preuve physique qu'un capsulier en formation a bien été en mesure de localiser l'anomalie grâce à l'utilisation d'un balayage à bord. Vous devez le récupérer pour terminer la première mission du didacticiel. \n\nSi, à première vue, le conteneur vous semble vide, attendez quelques minutes pour recevoir le nouveau document.",
+    "ja": "このコンテナには<b>「発見の証拠:特異点」</b>文書が所蔵されている。この文書は、訓練中のカプセラが船内スキャニングを通して異常を発見できたことの物理的証拠になる。最初のチュートリアルミッションを完了するには、回収する必要がある。\n\n\n最初にコンテナが空になっている場合は、新しい文書が提示されるまで数分待つ必要がある。",
+    "ko": "해당 컨테이너에는 <b>\"탐사 증명서: 어노말리 발견\"</b> 훈련받은 캡슐리어가 항성계 스캐너를 사용한 특이점 발견 훈련을 완수했다는 증거입니다. 첫 번째 튜토리얼 미션을 완수하려면 탐사 증명서를 회수해야 합니다. <br><br>아이템이 없을 경우 재생성이 이루어지니 잠시 대기하시기 바랍니다.",
+    "ru": "В этом контейнере содержится документ <b>Proof of Discovery: Anomalies</b>, который служит физическим доказательством того, что капсулер-курсант успешно нашел аномалию, используя бортовой сканер. Этот документ необходимо найти для завершения первого учебного задания. \n\nЕсли в первый раз контейнер окажется пустым, подождите несколько минут, пока не появится новая копия документа.",
+    "zh": "这个货柜中装有<b>“目标证据：异常现象”</b>这份文件，它是用来作为证明参训飞行员使用舰载扫描设备发现这个异常空间的实物证据。要完成第一项教程任务必须要获取这份文件。\r\n\r\n如果你再找到这个货柜的时候发现它是空的，那么请等待片刻，一份新的文件会被重新生成在里面。"
+  },
+  "graphicID": 1176,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Training Container - Anomalies",
     "en": "Training Container - Anomalies",
@@ -10,5 +24,9 @@
     "ru": "Training Container - Anomalies",
     "zh": "训练用货柜 - 空间异常"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericmetal",
   "volume": 27500.0
 }

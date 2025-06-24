@@ -1,5 +1,19 @@
 {
-  "typeID": 31522,
+  "description": {
+    "de": "Diese Schiffsmodifikation wurde dazu entwickelt, die Präzisionsabfall-Reichweite der Hybridgeschütztürme eines Schiffes zu erhöhen, auf Kosten eines erhöhten Stromnetzbedarfs für Hybridwaffen.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26259>Hybridwaffenmodifikation</a> reduziert werden.",
+    "en": "This ship modification is designed to increase the accuracy falloff range of a ship's hybrid turrets at the expense of increased power grid need for hybrid weapons.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26259>Hybrid Weapon Rigging</a> skill.",
+    "es": "Esta modificación de nave está diseñada para aumentar el alcance efectivo de precisión de las torretas híbridas de una nave a costa de aumentar la necesidad del sistema de potencia de las armas híbridas.\n\n\n\nSe pueden reducir las desventajas de equipar este complemento desarrollando la habilidad <a href=showinfo:26259>Complementos de armas híbridas</a>.",
+    "fr": "Cette modification de vaisseau est conçue pour augmenter la distance de perte de précision des tourelles hybrides d'un vaisseau, au détriment des ressources de réseau d'alimentation amélioré requises par les armes hybrides.\n\n\n\nLes inconvénients du montage de cette plateforme pourraient être réduits en entraînant la compétence <a href=showinfo:26259>Optimisation des armes hybrides</a>.",
+    "ja": "この改造を行うと、ハイブリッド兵器に必要なパワーグリッド量が増加するのと引き換えに、艦船のハイブリッドタレットの精度低下範囲が拡大する。このリグを装備することで発生するペナルティは、<a href=showinfo:26259>ハイブリッド兵器リギング</a>スキルをトレーニングすることで低減できる。",
+    "ko": "리그 장착 시 하이브리드 터렛 유효사거리가 증가하는 반면 하이브리드 무기 파워그리드 요구치도 증가합니다. <br><br>리그 부작용은 <a href=showinfo:26259>하이브리드 무기 리그</a> 스킬 습득 시 감소합니다.",
+    "ru": "Эта модификация позволяет увеличить эффективную дальность поражения бортовыми гибридными орудиями за счёт повышения расхода энергии реактора, необходимой для их установки и работы.\n\n\n\nНегативный эффект от установки этого тюнинг-модуля можно снизить, освоив навык <a href=showinfo:26259>Hybrid Weapon Rigging</a>, дающий пилоту углублённое понимание принципов взаимодействия между гибридными орудиями и различными системами корабля.",
+    "zh": "这个飞船改装件可以增加混合炮台的失准范围，但代价是混合武器的能量栅格需求增加。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26259>混合武器改装技术</a>技能降低影响。"
+  },
+  "groupID": 776,
+  "iconID": 3202,
+  "marketGroupID": 1229,
+  "mass": 200.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Medium Hybrid Ambit Extension II",
     "en": "Medium Hybrid Ambit Extension II",
@@ -10,5 +24,9 @@
     "ru": "Medium Hybrid Ambit Extension II",
     "zh": "中型混合武器范围扩大装置 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 100.0,
+  "variationParentTypeID": 31516,
   "volume": 10.0
 }

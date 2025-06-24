@@ -1,5 +1,18 @@
 {
-  "typeID": 30502,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Das Herz dieser Talocan-Station ist die Polestar, die den zentralen Knotenpunkt des Komplexes bildet und das Überleben der Talocan sicherte. Obwohl sie marode ist und nicht mehr funktioniert, weist die Außenhülle der Polestar viele Antriebsdüsen und kleine Generatoren auf, was nahelegt, dass es sich um eine eigenständige Struktur handelt, die über unabhängige Ressourcen verfügt. Die Brandspuren um die Antriebsdüsen herum lassen darauf schließen, dass diese Polestar viele Male als notwendige Struktur für eine umherziehende Kultur abgeworfen wurde.",
+    "en": "The central piece of this Talocan station is the Polestar, the nerve center of the complex and the heart of Talocan survival. Though dilapidated and unusable, the Polestar's outer hull holds many propulsion jets and mini-generators, implying its use as a self-sufficient structure with independent capabilities. From the burn marks around the propulsion thrusters, this Polestar has been jettisoned many times as a necessary structure for a migrant culture.",
+    "es": "La parte central de esta estación talocana es la Estrella Polar, el centro neurálgico del complejo y el corazón de la supervivencia de los talocanos. Aunque el casco exterior de la Estrella Polar está destartalado y es inutilizable, tiene muchos chorros de propulsión y minigeneradores que sugieren que servía como estructura autosuficiente con capacidades independientes. Como indican las marcas de quemaduras alrededor de los propulsores, han desmantelado la Estrella Polar en muchas ocasiones como estructura necesaria para una cultura migrante.",
+    "fr": "La pièce centrale de cette station talocan est le Pôle céleste, centre névralgique du complexe et noyau dur de la survie des Talocan. Même délabrée et inutilisable, la coque extérieure du Pôle céleste renferme de nombreux jets de propulsion et autres mini-générateurs, qui lui permettent ainsi d'agir en toute indépendance des autres structures. D'après les marques de brûlure autour des propulseurs, ce Pôle céleste a dû être maintes fois considéré comme une structure nécessaire pour une culture migrante.",
+    "ja": "このタロカンステーションの中心部にはポールスターがある。これはコンプレックスの神経網の中心とも言える存在で、タロカンが生きていく上で最も重要な役割を果たしていた。放置されて現在では機能しないが、ポールスターの外殻船体の内部には多数の推進用ジェットや小型発電機が備えられており、独立した機能によって単独で使用可能であったことが分かる。推進システム周辺に残る焼け焦げた痕跡から、移住文化の中での必要性から、このポールスターが何度も宇宙空間に打ち出されたことが分かる。",
+    "ko": "탈로칸 정거장 중심부에 자리잡고 있는 폴스타는 시설의 중추이며 심장같은 존재입니다. 다 허물어져가는 이 구조물은 더이상 사용할 수 없는 상태이지만 외곽에 달린 많은 제트 추진기와 소형 생성기를 통해 독자적인 능력을 가진 자립형 구조물이라는 것을 알 수 있습니다. 추진기 주변의 그을음을 통해 폴스타가 여러 번 발사되었을 것으로 추측할 수 있습니다. 아마도 탈로칸의 이주문화에 있어 중요한 역할을 하는 구조물이었을 겁니다.",
+    "ru": "Центральным звеном станции Talocan является Polestar — настоящий нервный центр всего комплекса и главный способ выживания Talocan. Внешний корпус Polestar обветшал и непригоден к дальнейшей эксплуатации, однако закрепленные на нем реактивные двигатели и минигенераторы свидетельствуют о том, что когда-то Polestar был вполне автономен. Судя по обгоревшим следам вокруг сопел реактивных двигателей, этот Polestar неоднократно перемещался, выполняя необходимые для кочевого общества функции.",
+    "zh": "这座塔洛迦空间站的中心就是这座极地之星，是整个建筑群的神经中枢和心脏所在。它已经残破不堪不再能够发挥作用，外壳也发生了多出的破裂，推进器和迷你发电站已经完全被摧毁。从推进喷嘴周围的灼烧痕迹可以看出，这座极地之星已经被弹射过好几次，这种做法在一个经常迁徙的文明中是常见的。"
+  },
+  "graphicID": 3561,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Talocan Polestar",
     "en": "Talocan Polestar",
@@ -10,5 +23,9 @@
     "ru": "Talocan Polestar",
     "zh": "塔洛迦极地之星"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 8818.0,
+  "sofFactionName": "talocanbase",
   "volume": 100000000.0
 }

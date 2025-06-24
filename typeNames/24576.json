@@ -1,5 +1,17 @@
 {
-  "typeID": 24576,
+  "description": {
+    "de": "Eine Standard Sprungtorzulassung. Sie führt zu einem Komplex der Imperial Navy.",
+    "en": "A standard gate permit leading to an Imperial Navy complex.",
+    "es": "Un permiso de portal estándar que conduce a un complejo de la Armada Imperial.",
+    "fr": "Autorisation standard du portail menant au complexe de la Navy impériale.",
+    "ja": "帝国海軍複合施設に入るためのゲートパス。",
+    "ko": "제국 해군 시설 내부로 진입할 수 있는 게이트 허가증입니다.",
+    "ru": "Стандартный пропуск, позволяющий войти во врата, ведущие в комплекс Имперского флота.",
+    "zh": "一个标准轨道通行许可，可到达一座帝国海军复合体。"
+  },
+  "groupID": 526,
+  "iconID": 2885,
+  "mass": 1.0,
   "name": {
     "de": "Imperial Navy Gate Permit",
     "en": "Imperial Navy Gate Permit",
@@ -10,5 +22,8 @@
     "ru": "Imperial Navy Gate Permit",
     "zh": "帝国海军通行许可"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 1.0
 }

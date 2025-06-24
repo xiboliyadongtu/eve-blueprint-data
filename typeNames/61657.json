@@ -1,5 +1,18 @@
 {
-  "typeID": 61657,
+  "capacity": 1200.0,
+  "description": {
+    "de": "Bei dieser Kampfeinheit handelt es sich offenbar um eine Art biomechanische Drohne, die auf derselben Technologie basiert wie die seltsamen „Untertassen“-Schiffe und andere Geräte in dieser Tasche der Raum-Zeit. Woher diese Einheit und ihre Technologie auch stammt, sie ist eine Gefahr und muss schnell neutralisiert werden.",
+    "en": "Apparently some kind of biomechanical drone, this combat unit clearly shares a technological basis with the strange \"saucer\" ships and other devices encountered in this spacetime pocket. Whatever its origin and technology may be, the unit is a threat that should be neutralized swiftly.",
+    "es": "Esta unidad de combate, que parece ser una especie de dron biomecánico, comparte claramente una base tecnológica con las extrañas naves en forma de platillo y otros dispositivos de esta burbuja espaciotemporal. Sean cuales sean su origen y su tecnología, la unidad es una amenaza que debería ser neutralizada rápidamente.",
+    "fr": "Cette unité de combat, apparemment un genre de drone biomécanique, partage clairement la même base technologique que les étranges vaisseaux de type « soucoupe », ainsi que d'autres appareils rencontrés dans cette poche spatiotemporelle. Quelles que soient son origine et sa technologie, cette unité représente une menace et doit être neutralisée sans attendre.",
+    "ja": "バイオメカニカルドローンの一種のように見える戦闘ユニット。明らかに、この時空ポケットで遭遇する奇妙な『円盤型』艦船やその他のデバイスと技術的基盤を共有している。由来や技術が何であれ、このユニットは迅速に無力化しなければならない脅威である。",
+    "ko": "생체기계 드론의 일종으로, 시공간 좌표에 등장하는 '접시' 모양의 우주선 그리고 기타 장비와 동일한 종류의 기술을 사용하고 있습니다. 기원 또는 사용 중인 기술에 대한 정보는 없지만, 위협으로 간주되는 만큼 신속한 제거가 요구됩니다.",
+    "ru": "Эта боевая единица представляет собой разновидность биомеханических дронов. В них используется та же технология, что и в странных кораблях-«тарелках» и других устройствах, встречающихся в этом участке пространства-времени. Какими бы ни были её происхождение и природа, она представляет собой угрозу, которую следует как можно скорее нейтрализовать.",
+    "zh": "这个战斗单位很显然是某种生物无人机，与在这个时空层中遭遇的古怪舰船和其他设备使用的技术相同。无论它来自哪里，使用了何种技术，它的存在终归是一种威胁，需要被立即清除。"
+  },
+  "graphicID": 25136,
+  "groupID": 1567,
+  "mass": 1000000.0,
   "name": {
     "de": "Biomechanoid Combat Unit",
     "en": "Biomechanoid Combat Unit",
@@ -10,5 +23,10 @@
     "ru": "Biomechanoid Combat Unit",
     "zh": "生物机械战斗单位"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 10.0,
+  "sofFactionName": "soctbase",
+  "soundID": 11,
   "volume": 60.0
 }

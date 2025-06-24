@@ -1,5 +1,18 @@
 {
-  "typeID": 16865,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese Scannerplattform kann Umgebungsdaten bemerkenswert schnell ermitteln und speichern. Sie sendet einen hochfrequenten elektromagnetischen Impuls aus und ist besonders wirksam beim Aufspüren kleinster Energieflüsse innerhalb des Partikelfeldes um sie herum.",
+    "en": "Emitting a high-frequency electromagnetic pulse, this scanner sentry is able to assimilate and store environmental data with remarkable efficiency.  Particularly effective at picking up miniscule fluctuations in the particle field within its range.",
+    "es": "Este centinela de escaneo emite un pulso electromagnético de alta frecuencia con el que adquiere y almacena datos ambientales con notable eficacia. Especialmente recomendable para registrar diminutas fluctuaciones del campo de partículas dentro de su alcance.",
+    "fr": "En émettant des pulsations électromagnétiques à haute fréquence, cette sentinelle de scan est capable de traiter et de stocker des données environnementales avec une efficacité redoutable.  Très efficace pour relever les fluctuations les plus infimes du champ de particules dans son rayon d'action.",
+    "ja": "高周期電磁波を放出することで、驚くほど効率的に環境データを吸収し、保管できるスキャナーセントリー。とりわけ、有効範囲内の粒子フィールドから微妙な変動をピックアップすることに秀でている。",
+    "ko": "스캐너 센트리는 라디오파 전자기 펄스를 방출하여 환경 데이터를 효율적으로 수집할 수 있습니다. 특히 입자 필드에서 발생하는 미소 파동을 효과적으로 탐지할 수 있습니다.",
+    "ru": "Эта автоматическая станция оборудована высокочастотными электромагнитными излучателями, позволяющими ей наблюдать за окружающим ее космическим пространством. Она способна реагировать на малейшие изменения в омывающих ее потоках частиц.",
+    "zh": "通过发射高频的电磁脉冲，这个扫描岗哨可以极高的效率吸收和储存环境数据。它特别擅长捕获扫描范围内粒子场里的细小波动。"
+  },
+  "graphicID": 1217,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Rapid Pulse Sentry",
     "en": "Rapid Pulse Sentry",
@@ -10,5 +23,9 @@
     "ru": "Rapid Pulse Sentry",
     "zh": "高速脉冲岗哨"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 120.0,
+  "sofFactionName": "genericbase",
   "volume": 100000000.0
 }

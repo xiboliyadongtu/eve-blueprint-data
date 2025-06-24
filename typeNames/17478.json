@@ -1,5 +1,65 @@
 {
-  "typeID": 17478,
+  "basePrice": 28800000.0,
+  "capacity": 450.0,
+  "description": {
+    "de": "Die Bergbaubarkasse wurde von <a href=showinfo:30//500014>ORE</a> entwickelt, um den Bergbau auf eine neue Stufe zu heben. Jede Barkasse wurde für überragende Leistung auf einem bestimmten Gebiet gebaut. Der Schwerpunkt der Retriever liegt hierbei auf der Frachtkapazität. Ihr großer Erzfrachtraum erlaubt der Retriever längere Einsätze ohne die Unterstützung, die andere Barkassen benötigen.\n\n\n\nBergbaubarkassen sind mit Elektroniksubsystemen ausgestattet, die speziell auf den Gebrauch von Oberflächen-Bergbaulasern und Ice-Harvesting-Modulen zugeschnitten wurden.",
+    "en": "The mining barge was designed by <a href=showinfo:30//500014>ORE</a> to facilitate advancing the mining profession to a new level. Each barge was created to excel at a specific function, the Retriever's being storage. A massive ore hold allows the Retriever to operate for extended periods without requiring as much support as other barges.\r\n\r\nMining barges are equipped with electronic subsystems specifically designed to accommodate Strip Mining and Ice Harvesting modules.",
+    "es": "La gabarra minera ha sido creada por <a href=showinfo:30//500014>ORE</a> para facilitar el avance de la minería a un nuevo nivel. Cada gabarra fue ideada para tareas específicas y especializadas. En el caso de la Retriever, es su capacidad de almacenamiento: el enorme almacén de menas de la Retriever le permite trabajar durante largos periodos sin necesitar tanto apoyo como otras gabarras.\n\nLas gabarras mineras están equipadas con subsistemas electrónicos diseñados específicamente para albergar módulos de extracción minera y recolección de hielo.",
+    "fr": "La barge d'extraction a été conçue par <a href=showinfo:30//500014>ORE</a> dans l'optique de promouvoir la filière minière. Chaque barge a été créée pour exceller dans une fonction spécifique, celle du Retriever étant la capacité de stockage. Doté d'une soute à minerai colossale, le Retriever jouit d'une autonomie sans pareil, qui lui permet de réduire les impératifs logistiques pour se consacrer pleinement à l'extraction du minerai.\n\n\n\nLes barges d'extraction sont équipées de sous-systèmes électroniques spécialement conçus pour accueillir les modules d'extraction minière et de collecte de glace.",
+    "ja": "<a href=showinfo:30//500014>ORE</a>が設計した採掘艦は、採掘業を別次元に進化させた。採掘艦は、いずれも特定の機能を強化した仕様になっている。レトリーバーの場合は積載量だ。鉱石を多く積載できるため、レトリーバーは支援がなくても他の採掘艦より長時間稼働できる。\r\n\n採掘艦はストリップマイナーおよびアイス採掘機モジュール専用に設計された電子補助システムを搭載している。",
+    "ko": "채광선은 <a href=showinfo:30//500014>ORE</a>가 설계한 선박으로 채굴과 관련된 작업에서 획기적인 개선을 가져왔습니다. 각 채광선은 저마다의 특성을 보유하고 있으며, 리트리버의 경우 대규모 적재 공간이 강점입니다. 리트리버는 다른 채광선에 비해 거대한 광물 저장고를 보유하고 있어 중간 하적 없이 장시간 운용이 가능합니다. <br><br>전자 서브시스템이 탑재되어 아이스 채굴 및 가속 채굴 모듈을 운용할 수 있습니다.",
+    "ru": "Буровые корабли, разработанные <a href=showinfo:30//500014>Окраинной Рудной Экспедицией</a>, позволили достичь принципиально нового уровня добычи. Каждый из типов буровых кораблей превосходит другие по одной специфической характеристике; для «Ретривера» это объём грузового отсека. Огромный отсек для руды позволяет пилоту «Ретривера» вести длительные буровые работы, существенно меньше нуждаясь в поддержке при сравнении с другими буровыми кораблями.\n\n\n\nБуровые корабли оснащены бортовыми электронными системами, специально спроектированными для работы с буровыми лазерами валовой выемки и установками для бурения льда.",
+    "zh": "为了将采矿业推进到一个全新高度，<a href=showinfo:30//500014>外空联合矿业集团</a>设计了该采矿驳船。每种驳船都在某一方面有长处。回旋者级的特长便是容量大。超大的矿石舱使得回旋者级能够长时间进行采矿作业而不像其他采矿驳船一样需要后勤支持。\n\n\n\n采矿驳船装备有专为配合露天开采及冰矿采集装备而设计的电子子系统。"
+  },
+  "factionID": 500014,
+  "graphicID": 2523,
+  "groupID": 463,
+  "marketGroupID": 494,
+  "mass": 17500000.0,
+  "masteries": {
+    "0": [
+      96,
+      164,
+      106,
+      140,
+      85,
+      94
+    ],
+    "1": [
+      96,
+      164,
+      106,
+      140,
+      85,
+      94
+    ],
+    "2": [
+      96,
+      164,
+      106,
+      140,
+      85,
+      94
+    ],
+    "3": [
+      96,
+      164,
+      106,
+      140,
+      85,
+      94
+    ],
+    "4": [
+      96,
+      164,
+      106,
+      140,
+      85,
+      118,
+      94
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Retriever",
     "en": "Retriever",
@@ -9,6 +69,126 @@
     "ko": "리트리버",
     "ru": "Retriever",
     "zh": "回旋者级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 128,
+  "radius": 202.0,
+  "sofFactionName": "orebase",
+  "soundID": 20066,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": -12.5,
+        "bonusText": {
+          "de": "der Dauer von <a href=showinfo:16278>Eisschürfern</a>",
+          "en": "in <a href=showinfo:16278>Ice Harvester</a> duration",
+          "es": "a la duración de la <a href=showinfo:16278>cosechadora de hielo</a>.",
+          "fr": "à la durée des <a href=showinfo:16278>collecteurs de glace</a>",
+          "ja": "<a href=showinfo:16278>アイス採掘機</a>サイクル時間ボーナス",
+          "ko": "<a href=showinfo:16278>아이스 채굴기</a> 지속시간",
+          "ru": "от времени работы <a href=showinfo:16278>установок для бурения льда</a>",
+          "zh": "<a href=showinfo:16278>冰矿采集器</a>运转周期"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": -12.5,
+        "bonusText": {
+          "de": "der Dauer von <a href=showinfo:60313>Gas-Extraktoren</a>",
+          "en": "in <a href=showinfo:60313>Gas Harvester</a> duration",
+          "es": "a la duración de la <a href=showinfo:60313>cosechadora de gas</a>.",
+          "fr": "à la durée des <a href=showinfo:60313>collecteurs de gaz</a>",
+          "ja": "<a href=showinfo:60313>ガス採掘機</a>サイクル時間ボーナス",
+          "ko": "<a href=showinfo:60313>가스 하베스터</a> 지속시간",
+          "ru": "от времени работы <a href=showinfo:60313>установок для сбора газа</a>",
+          "zh": "<a href=showinfo:60313>冰矿采集器</a>运转周期"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonus": 10.0,
+        "bonusText": {
+          "de": "der Ausbeute von <a href=showinfo:17482>Oberflächen-Bergbaulasern</a>",
+          "en": "in <a href=showinfo:17482>Strip Miner</a> yield",
+          "es": "a la producción del <a href=showinfo:17482>extractor minero</a>.",
+          "fr": "au rendement des <a href=showinfo:17482>lasers d'extraction intensive</a>",
+          "ja": "<a href=showinfo:17482>ストリップマイナー</a>採掘量ボーナス",
+          "ko": "<a href=showinfo:17482>가속 채굴기</a> 채굴량",
+          "ru": "от эффективности добычи <a href=showinfo:17482>буровых лазеров валовой выемки</a>",
+          "zh": "<a href=showinfo:17482>露天采矿器</a>开采量"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "17940": [
+        {
+          "bonus": -2.0,
+          "bonusText": {
+            "de": "der Dauer von <a href=showinfo:16278>Eisschürfern</a>",
+            "en": "in <a href=showinfo:16278>Ice Harvester</a> duration",
+            "es": "a la duración de la <a href=showinfo:16278>cosechadora de hielo</a>.",
+            "fr": "à la durée des <a href=showinfo:16278>collecteurs de glace</a>",
+            "ja": "<a href=showinfo:16278>アイス採掘機</a>サイクル時間ボーナス",
+            "ko": "<a href=showinfo:16278>아이스 채굴기</a> 지속시간",
+            "ru": "от времени работы <a href=showinfo:16278>установок для бурения льда</a>",
+            "zh": "<a href=showinfo:16278>冰矿采集器</a>运转周期"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": -2.0,
+          "bonusText": {
+            "de": "der Dauer von <a href=showinfo:60313>Gas-Extraktoren</a>",
+            "en": "in <a href=showinfo:60313>Gas Harvester</a> duration",
+            "es": "a la duración de la <a href=showinfo:60313>cosechadora de gas</a>.",
+            "fr": "à la durée des <a href=showinfo:60313>collecteurs de gaz</a>",
+            "ja": "<a href=showinfo:60313>ガス採掘機</a>サイクル時間ボーナス",
+            "ko": "<a href=showinfo:60313>가스 하베스터</a> 지속시간",
+            "ru": "от времени работы <a href=showinfo:60313>установок для сбора газа</a>",
+            "zh": "<a href=showinfo:60313>冰矿采集器</a>运转周期"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 3.0,
+          "bonusText": {
+            "de": "der Ausbeute von <a href=showinfo:17482>Oberflächen-Bergbaulasern</a>",
+            "en": "in <a href=showinfo:17482>Strip Miner</a> yield",
+            "es": "a la producción del <a href=showinfo:17482>extractor minero</a>.",
+            "fr": "au rendement des <a href=showinfo:17482>lasers d'extraction intensive</a>",
+            "ja": "<a href=showinfo:17482>ストリップマイナー</a>採掘量ボーナス",
+            "ko": "<a href=showinfo:17482>가속 채굴기</a> 채굴량",
+            "ru": "от эффективности добычи <a href=showinfo:17482>буровых лазеров валовой выемки</a>",
+            "zh": "<a href=showinfo:17482>露天采矿器</a>开采量"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf die Kapazität des Erzfrachtraums des Schiffs",
+            "en": "bonus to ship ore hold capacity",
+            "es": "de bonificación a la capacidad del almacén de menas de la nave.",
+            "fr": "de bonus à la capacité de la soute â minerai du vaisseau",
+            "ja": "艦船の鉱石容量が増加",
+            "ko": "광물 저장고 적재량 증가",
+            "ru": "увеличивается вместимость отсека для руды",
+            "zh": "舰船矿石舱容量加成"
+          },
+          "importance": 3,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 150000.0
 }

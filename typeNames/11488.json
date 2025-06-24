@@ -1,5 +1,21 @@
 {
-  "typeID": 11488,
+  "basePrice": 67500.0,
+  "capacity": 1950.0,
+  "description": {
+    "de": "Dieser riesige Container ist mit einem passwortgeschützten Sicherheitsschloss ausgestattet.\n\n\n\nHinweis: Der Container muss verankert werden, um die Passwortfunktionalität zu aktivieren. Die Verankerung von Containern ist nur in Sonnensystemen mit einem Sicherheitsstatus von 0,7 oder darunter möglich.",
+    "en": "This Huge container is fitted with a password-protected security lock.\r\n\r\nNote: The container must be anchored to enable password functionality. Anchoring containers is only possible in solar systems with a security status of 0.7 or lower.",
+    "es": "Este enorme contenedor está equipado con un cierre de seguridad protegido por contraseña.\n\nAviso: El contenedor debe anclarse para habilitar la funcionalidad de contraseña. El anclaje de contenedores solo es posible en sistemas solares con un estado de seguridad de 0,7 o inferior.",
+    "fr": "Cet immense conteneur est équipé d'une serrure de sécurité protégée par mot de passe.\n\n\n\nRemarque : le conteneur doit être ancré pour bénéficier de la protection par mot de passe. Vous ne pouvez pas ancrer un conteneur dans les systèmes solaires au statut de sécurité supérieur à 0,7.",
+    "ja": "パスワード式ロック機能を備えた特大コンテナ。\r\n\n注意: パスワードを使用するにはコンテナを係留しなければならない。コンテナの係留はセキュリティステータス0.7以下の星系でのみ可能。",
+    "ko": "암호화된 보안 장치가 장착되어 있는 초대형 컨테이너입니다. <br><br>참고: 암호 기능을 활성화하기 위해서는 컨테이너의 위치 고정이 선행되어야 합니다. 컨테이너의 위치 고정은 시큐리티 상태가 0.7 이하의 항성계에서만 가능합니다.",
+    "ru": "Безопасность груза, находящегося в этом огромном контейнере, обеспечивается кодовым замком.\n\n\n\nКодовый замок включается лишь в том случае, если контейнер поставлен на якорь в открытом космосе. Постановка контейнеров на якорь разрешена в планетных системах со степенью соответствия нормам КОНКОРДа 0.7 и ниже.",
+    "zh": "这个庞大的集装箱安装了密码保护安全锁装置。\n\n\n\n注意：安全货柜必须在锚定过后才能启动密码保护功能。只能在安全等级等于或者低于0.7的恒星系锚定安全货柜。"
+  },
+  "graphicID": 2091,
+  "groupID": 340,
+  "iconID": 1171,
+  "marketGroupID": 1651,
+  "mass": 3000000.0,
   "name": {
     "de": "Huge Secure Container",
     "en": "Huge Secure Container",
@@ -10,5 +26,9 @@
     "ru": "Huge Secure Container",
     "zh": "庞大的安全货柜"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 111.0,
+  "sofFactionName": "genericmetal",
   "volume": 1500.0
 }

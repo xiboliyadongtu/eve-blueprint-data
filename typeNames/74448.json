@@ -1,5 +1,19 @@
 {
-  "typeID": 74448,
+  "basePrice": 33264.0,
+  "description": {
+    "de": "Das Einzige, was dieses Modul nicht mehr retten kann, ist Ihre furchtbare Anzeige.",
+    "en": "The only thing this module can't salvage is your terrible posting.",
+    "es": "Lo único que este módulo no puede recuperar es tu terrible destino.",
+    "fr": "The only thing this module can't salvage is your terrible posting.",
+    "ja": "このモジュールでサルベージできない唯一のもの。それは配送をしくじった配達物だ。",
+    "ko": "이 모듈이라면 뭐든지 샐비지할 수 있습니다. 당신이 엉망진창으로 작성한 포스트만 제외하고요.",
+    "ru": "Единственное, что не под силу этому модулю, так это жуткие посты.",
+    "zh": "这个装备唯一不能挽救的就是你那糟糕的帖子。"
+  },
+  "graphicID": 11165,
+  "groupID": 1122,
+  "iconID": 3240,
+  "metaGroupID": 1,
   "name": {
     "de": "QA Salvager",
     "en": "QA Salvager",
@@ -10,5 +24,9 @@
     "ru": "QA Salvager",
     "zh": "QA打捞者"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 500.0,
+  "sofFactionName": "orebase",
   "volume": 5.0
 }

@@ -1,5 +1,20 @@
 {
-  "typeID": 27299,
+  "basePrice": 7500.0,
+  "capacity": 10.0,
+  "description": {
+    "de": "Amarr Shuttle",
+    "en": "Amarr Shuttle",
+    "es": "Lanzadera amarriana.",
+    "fr": "Navette amarr.",
+    "ja": "アマーシャトル",
+    "ko": "아마르 셔틀",
+    "ru": "Челнок Amarr",
+    "zh": "艾玛穿梭机"
+  },
+  "factionID": 500003,
+  "graphicID": 2044,
+  "groupID": 31,
+  "mass": 1600000.0,
   "name": {
     "de": "Civilian Amarr Shuttle",
     "en": "Civilian Amarr Shuttle",
@@ -10,5 +25,11 @@
     "ru": "Civilian Amarr Shuttle",
     "zh": "民用艾玛穿梭机"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 17.0,
+  "sofFactionName": "amarrbase",
+  "soundID": 20080,
   "volume": 5000.0
 }

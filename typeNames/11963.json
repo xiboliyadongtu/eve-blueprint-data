@@ -1,5 +1,85 @@
 {
-  "typeID": 11963,
+  "basePrice": 138100000.0,
+  "capacity": 315.0,
+  "description": {
+    "de": "Flottenaufklärer entsprechen den Covert Ops-Fregatten in der Kreuzerklasse. Sie sind nicht so robust wie Kampfaufklärer, erfüllen ihren Auftrag als Aufklärungsschiffe aber nicht zuletzt durch ihre Covert Ops-Tarnvorrichtungen und den Einsatz von Anziehungsfeldern für sich nähernde Capital-Schiffe sehr effektiv.",
+    "en": "Force recon ships are the cruiser-class equivalent of covert ops frigates. While not as resilient as combat recon ships, they are nonetheless able to do their job as reconnaissance vessels very effectively, due in no small part to their ability to interface with covert ops cloaking devices and set up cynosural fields for incoming capital ships.",
+    "es": "Las naves de reconocimiento auxiliares son el equivalente de clase crucero de las fragatas de operaciones encubiertas. Aunque no son tan resistentes como las naves de combate, cumplen su función con eficacia gracias a su interacción con dispositivos de camuflaje y la posibilidad de generar campos cinosurales contra naves capitales.",
+    "fr": "Les vaisseaux de reconnaissance furtifs sont l'équivalent des frégates des opérations secrètes pour la classe des croiseurs. Bien que n'étant pas aussi robustes que les vaisseaux de reconnaissance et combat, ils remplissent très efficacement leurs missions de reconnaissance, en partie grâce à leur capacité à se coupler avec les dispositifs de camouflage d'opérations secrètes et à mettre en place des champs cynosuraux pour les vaisseaux capitaux en approche.",
+    "ja": "軍事偵察船は、光学迷彩フリゲートに相当する巡洋艦級の船である。戦闘偵察艦ほど頑丈ではないが、偵察艦として極めて効率的に任務を遂行できる。これは少なからず、各種光学迷彩型遮蔽装置を使用する能力、そして訪れる主力艦のためにサイノシュラルフィールドを展開できる能力に負うところが大きい。",
+    "ko": "포스 리콘 크루저는 코버트 옵스 프리깃의 크루저 버전입니다. 컴뱃 리콘 크루저만큼 단단하진 않지만 매우 효과적인 정찰함선입니다. 코버트 옵스 클로킹 장치를 이용하여 캐피탈 함선을 위한 사이노슈럴 필드를 생성할 수 있습니다.",
+    "ru": "Тяжёлые диверсионные корабли по сути представляют собой крейсеры с возможностями диверсионных фрегатов. И пускай они не так прочны и выносливы, как боевые дозорные крейсеры, они всё же отлично справляются с разведкой, во многом благодаря возможности использовать внережимные системы маскировки и приводные маяки для кораблей большого тоннажа.",
+    "zh": "力场侦察舰是隐秘护卫舰的巡洋舰级别版本。虽然生存能力不如战斗侦察舰，但力场侦察舰同样能高效行使侦察飞船的职能，这其中很大一部分原因就是：它们能使用隐秘行动隐形装置，并且能为即将跳入的旗舰创建诱导力场。"
+  },
+  "factionID": 500002,
+  "graphicID": 1777,
+  "groupID": 833,
+  "marketGroupID": 836,
+  "mass": 11040000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      150,
+      103,
+      76,
+      108,
+      141,
+      85,
+      94,
+      165
+    ],
+    "1": [
+      96,
+      99,
+      150,
+      103,
+      76,
+      108,
+      141,
+      85,
+      94,
+      165
+    ],
+    "2": [
+      96,
+      99,
+      150,
+      103,
+      76,
+      108,
+      141,
+      85,
+      94,
+      165
+    ],
+    "3": [
+      96,
+      99,
+      150,
+      103,
+      76,
+      108,
+      141,
+      85,
+      94,
+      165
+    ],
+    "4": [
+      96,
+      99,
+      150,
+      103,
+      76,
+      108,
+      141,
+      85,
+      118,
+      94,
+      165
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Rapier",
     "en": "Rapier",
@@ -10,5 +90,139 @@
     "ru": "Rapier",
     "zh": "长剑级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 113.0,
+  "sofFactionName": "corecomplexion",
+  "soundID": 20078,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 80.0,
+        "bonusText": {
+          "de": "Reduktion des Flüssigozon-Verbrauchs von <a href=showinfo:21096>Anziehungsfeldgeneratoren</a> und <a href=showinfo:28646>getarnten Anziehungsfeldgeneratoren</a>",
+          "en": "reduction in <a href=showinfo:21096>Cynosural Field Generator</a> and <a href=showinfo:28646>Covert Cynosural Field Generator</a> liquid ozone consumption",
+          "es": "de reducción del consumo de ozono líquido del <a href=showinfo:21096>generador de campo cinosural</a> y el <a href=showinfo:28646>generador de campo cinosural encubierto</a>.",
+          "fr": "de réduction de la consommation d'ozone liquide du <a href=showinfo:21096>générateur de champ cynosural</a> et du <a href=showinfo:28646>générateur de champ cynosural furtif</a>",
+          "ja": "<a href=showinfo:21096>サイノシュラルフィールドジェネレーター</a>と<a href=showinfo:28646>潜伏用サイノシュラルフィールドジェネレーター</a>の液体オゾン消費量が減少",
+          "ko": "<a href=showinfo:21096>사이노슈럴 필드 생성기</a> 및 <a href=showinfo:28646>코버트 사이노슈럴 필드 생성기</a> 액화 오존 소모량 감소",
+          "ru": "снижение потребления жидкого озона <a href=showinfo:21096>приводным маяком</a> и <a href=showinfo:28646>приводным маяком скрытого действия</a>",
+          "zh": "<a href=showinfo:21096>诱导力场发生器</a>和<a href=showinfo:28646>隐秘诱导力场发生器</a>消耗的液态臭氧数量降低"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Reduktion der Dauer von <a href=showinfo:21096>Anziehungsfeldgeneratoren</a> und <a href=showinfo:28646>getarnten Anziehungsfeldgeneratoren</a>",
+          "en": "reduction in <a href=showinfo:21096>Cynosural Field Generator</a> and <a href=showinfo:28646>Covert Cynosural Field Generator</a> duration",
+          "es": "de reducción de la duración del <a href=showinfo:21096>generador de campo cinosural</a> y el <a href=showinfo:28646>generador de campo cinosural encubierto</a>.",
+          "fr": "de réduction de la durée du <a href=showinfo:21096>générateur de champ cynosural</a> et du <a href=showinfo:28646>générateur de champ cynosural furtif</a>",
+          "ja": "<a href=showinfo:21096>サイノシュラルフィールドジェネレーター</a>と<a href=showinfo:28646>潜伏用サイノシュラルフィールドジェネレーター</a>の持続時間が減少",
+          "ko": "<a href=showinfo:21096>사이노슈럴 필드 생성기</a> 및 <a href=showinfo:28646>코버트 사이노슈럴 필드 생성기</a> 지속시간 감소",
+          "ru": "сокращение времени работы <a href=showinfo:21096>приводного маяка</a> и <a href=showinfo:28646>приводного маяка скрытого действия</a>",
+          "zh": "<a href=showinfo:21096>诱导力场发生器</a>和<a href=showinfo:28646>隐秘诱导力场发生器</a>的持续时间缩短"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonusText": {
+          "de": "Kann <a href=showinfo:11578>Covert-Ops-Tarnvorrichtung</a>, <a href=showinfo:21096>Anziehungsfeldgenerator</a> und <a href=showinfo:28646>getarnten Anziehungsfeldgenerator</a> ausrüsten",
+          "en": "Can fit <a href=showinfo:11578>Covert Ops Cloaking Device</a>, <a href=showinfo:21096>Cynosural Field Generator</a>, and <a href=showinfo:28646>Covert Cynosural Field Generator</a> modules",
+          "es": "Es posible equipar módulos de <a href=showinfo:11578>dispositivo de camuflaje de operaciones encubiertas</a>, un <a href=showinfo:21096>generador de campo cinosural</a> y un <a href=showinfo:28646>generador de campo cinosural encubierto</a>.",
+          "fr": "Peut équiper des modules <a href=showinfo:11578>dispositif de camouflage d'opérations secrètes</a>, <a href=showinfo:21096>générateur de champ cynosural</a> et <a href=showinfo:28646>générateur de champ cynosural furtif</a>",
+          "ja": "<a href=showinfo:11578>光学迷彩型遮蔽装置</a>と<a href=showinfo:21096>サイノシュラルフィールドジェネレーター</a>、そして<a href=showinfo:28646>潜伏用サイノシュラルフィールドジェネレーター</a>を装備可能",
+          "ko": "<a href=showinfo:11578>코버트 옵스 클로킹 장치</a>, <a href=showinfo:21096>사이노슈럴 필드 생성기</a>, <a href=showinfo:28646>코버트 사이노슈럴 필드 생성기</a> 장착 가능",
+          "ru": "Возможно оснащение <a href=showinfo:11578>всережимной системой маскировки</a>, <a href=showinfo:21096>приводным маяком</a> и <a href=showinfo:28646>приводным маяком скрытого действия</a>.",
+          "zh": "可以装配<a href=showinfo:11578>隐秘行动隐形装置</a>、<a href=showinfo:21096>诱导力场发生器</a>和<a href=showinfo:28646>隐秘诱导力场发生器</a>装备"
+        },
+        "importance": 3
+      },
+      {
+        "bonusText": {
+          "de": "Die Verzögerung bei Reaktivierung von <a href=showinfo:11579>Tarnmodulen</a> wird auf 5 Sekunden reduziert.",
+          "en": "<a href=showinfo:11579>Cloak</a> reactivation delay reduced to 5 seconds",
+          "es": "Reducción de la demora de reactivación del <a href=showinfo:11579>camuflaje</a> a 5 segundos.",
+          "fr": "Délai de réactivation du <a href=showinfo:11579>camouflage</a> réduit à 5 secondes",
+          "ja": "<a href=showinfo:11579>遮蔽装置</a>の再起動遅延が5秒に短縮",
+          "ko": "<a href=showinfo:11579>클로킹</a> 재가동 지연 시간 5초로 감소",
+          "ru": "Задержка повторного включения <a href=showinfo:11579>систем маскировки</a> сокращена до 5 секунд",
+          "zh": "<a href=\"showinfo:11579\">隐形装置</a>重启延时降到5秒"
+        },
+        "importance": 4
+      }
+    ],
+    "types": {
+      "3333": [
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3321>leichten Lenkwaffen</a>, <a href=showinfo:3324>schweren Lenkwaffen</a> und <a href=showinfo:25719>schweren Angriffslenkwaffen</a>",
+            "en": "bonus to <a href=showinfo:3321>Light Missile</a>, <a href=showinfo:3324>Heavy Missile</a> and <a href=showinfo:25719>Heavy Assault Missile</a> damage",
+            "es": "de bonificación al daño de los <a href=showinfo:3321>misiles ligeros</a>, los <a href=showinfo:3324>misiles pesados</a> y los <a href=showinfo:25719>misiles de asalto pesados</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:3321>missiles légers</a>, <a href=showinfo:3324>missiles lourds</a> et <a href=showinfo:25719>missiles d'assaut lourds</a>",
+            "ja": "<a href=showinfo:3321>ライトミサイル</a>、<a href=showinfo:3324>ヘビーミサイル</a>、<a href=showinfo:25719>ヘビーアサルトミサイル</a>のダメージが増加",
+            "ko": "<a href=showinfo:3321>라이트 미사일</a>, <a href=showinfo:3324>헤비 미사일</a> 및 <a href=showinfo:25719>헤비 어썰트 미사일</a> 피해량 증가",
+            "ru": "увеличивается урон БЧ <a href=showinfo:3321>лёгких ракет</a>, <a href=showinfo:3324>тяжёлых ракет</a> и <a href=showinfo:25719>тяжёлых штурмовых ракет</a>",
+            "zh": "<a href=showinfo:3321>轻型导弹</a>、<a href=showinfo:3324>重型导弹</a>和<a href=showinfo:25719>重型攻击导弹</a>伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die Effektivität von <a href=showinfo:19921>Zielmarkierungsmodulen</a>",
+            "en": "bonus to <a href=showinfo:19921>Target Painter</a> effectiveness",
+            "es": "de bonificación a la efectividad del <a href=showinfo:19921>revelador de objetivo</a>.",
+            "fr": "de bonus à l'efficacité du <a href=showinfo:19921>marqueur de cible</a>",
+            "ja": "<a href=showinfo:19921>ターゲットペインター</a>の効果が増加",
+            "ko": "<a href=showinfo:19921>타겟 페인터</a> 효과 증가",
+            "ru": "повышается эффективность действия <a href=showinfo:19921>систем подсветки целей</a>",
+            "zh": "<a href=\"showinfo:19921\">目标标记装置</a>效果加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ],
+      "22761": [
+        {
+          "bonus": 60.0,
+          "bonusText": {
+            "de": "Bonus auf die optimale Reichweite von <a href=showinfo:526>Stasisnetzen</a>",
+            "en": "bonus to <a href=showinfo:526>Stasis Webifier</a> optimal range",
+            "es": "de bonificación al alcance óptimo de la <a href=showinfo:526>red ralentizadora</a>.",
+            "fr": "de bonus à la portée optimale du <a href=showinfo:526>générateur de stase</a>",
+            "ja": "<a href=showinfo:526>ステイシスウェビファイア</a>の最適射程距離が拡大",
+            "ko": "<a href=showinfo:526>스테이시스 웹 생성기</a> 최적사거리 증가",
+            "ru": "увеличивается оптимальная дальность действия <a href=showinfo:526>стазис-индукторов</a>",
+            "zh": "<a href=\"showinfo:526\">停滞缠绕光束</a>最佳射程加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 20.0,
+          "bonusText": {
+            "de": "Reduktion des CPU-Bedarfs für <a href=showinfo:11579>Tarnmodule</a>",
+            "en": "reduction in <a href=showinfo:11579>Cloaking Devices</a> CPU requirement",
+            "es": "de reducción del requisito de CPU de los <a href=showinfo:11579>dispositivos de camuflaje</a>.",
+            "fr": "de réduction au CPU requis par les <a href=showinfo:11579>dispositifs de camouflage</a>",
+            "ja": "<a href=showinfo:11579>遮蔽装置</a>のCPU使用量が減少",
+            "ko": "<a href=showinfo:11579>클로킹 장치</a> CPU 사용량 감소",
+            "ru": "сокращается потребность <a href=showinfo:11579>систем маскировки</a> в мощностях ЦПУ",
+            "zh": "<a href=\"showinfo:11579\">隐形装置</a>的CPU需求降低"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 630,
   "volume": 85000.0
 }

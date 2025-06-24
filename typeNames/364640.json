@@ -1,5 +1,17 @@
 {
-  "typeID": 364640,
+  "basePrice": 66000.0,
+  "description": {
+    "de": "Grundlegende Kenntnisse über Fahrzeugkernsysteme.\n\nSchaltet die Fähigkeit zur Verwendung von Modulen frei, die das Stromnetz (PG), die CPU und den Antrieb eines Fahrzeugs beeinflussen. Einfache Varianten ab Skillstufe 1; verbesserte ab Skillstufe 3; komplexe ab Skillstufe 5.",
+    "en": "Basic understanding of vehicle core systems.\r\n\r\nUnlocks the ability to use modules that affect a vehicle's powergrid (PG), CPU and propulsion. Basic variants at lvl.1; enhanced at lvl.3; complex at lvl.5.",
+    "es": "Conocimiento básico de sistemas principales de vehículos.\n\nDesbloquea la capacidad de usar módulos que afectan a la red de alimentación (RA), la CPU y la propulsión de los vehículos. Variantes básicas en el nivel 1, mejoradas en el nivel 3 y complejas en el nivel 5.",
+    "fr": "Notions de base des systèmes de base de véhicule.\n\nDéverrouille l'utilisation des modules affectant le réseau d'alimentation (PG), le CPU et la propulsion d'un véhicule. Variante basique au niv.1 ; améliorée au niv.3 ; complexe au niv.5.",
+    "it": "Comprensione base dei sistemi fondamentali di un veicolo.\n\nSblocca l'abilità di usare moduli che influenzano la rete energetica di un veicolo (PG), la CPU e la propulsione. Varianti di base al liv. 1; potenziate al liv. 3; complesse al liv. 5.",
+    "ja": "車両コアシステムに関する基本的な知識。車両のパワーグリッド(PG)、CPU、推進力に影響を与えるモジュールが使用可能になる。レベル1で基本改良型、レベル3で強化型、レベル5で複合型。",
+    "ko": "차량 코어 시스템에 대한 기본적인 이해를 습득합니다. <br><br>차량 파워그리드(PG), CPU 그리고 추진력에 영향을 주는 모듈을 사용할 수 있습니다. 레벨 1 - 기본 모듈; 레벨 3 - 강화 모듈; 레벨 5 - 첨단 모듈",
+    "ru": "Понимание основных принципов работы транспортного средства.\n\nОткрывает доступ к способности пользоваться модулями, оказывающими влияние на энергосеть (ЭС), ЦПУ и двигатель транспортного средства. Базовый вариант - на ур.1; улучшенный - на ур.3; усложненный - на ур.5.",
+    "zh": "载具核心系统基本知识。解锁使用会影响载具能量栅格(PG)、CPU和推进效果的装备的能力。1级解锁基础型；3级解锁增强型；5级解锁复杂型。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Fahrzeugkernupgrades",
     "en": "Vehicle Core Upgrades",
@@ -11,5 +23,6 @@
     "ru": "Пакеты модернизации основных элементов транспортного средства",
     "zh": "载具核心升级件"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

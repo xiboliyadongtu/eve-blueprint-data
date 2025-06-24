@@ -1,5 +1,49 @@
 {
-  "typeID": 20185,
+  "basePrice": 1723000000.0,
+  "capacity": 465000.0,
+  "description": {
+    "de": "Als Konstrukteur der Charon wird dem Staat der Caldari zugutegehalten, Pionierarbeit in der Frachterklasse geleistet zu haben. Als man den Bedarf für ein riesiges Transportschiff erkannte, weil es immer mehr Installationen im Weltraum gab, wurde beschlossen, ein ultimatives Schiff für den Massentransport zu entwickeln. Schon bald folgten die anderen Großreiche diesem Beispiel.\n\n\n\nNichtsdestotrotz bleibt die Charon der Meilenstein, an dem andere Frachter gemessen werden. Ihre riesigen Ausmaße und der gigantische Frachtraum sind unübertroffen.",
+    "en": "As the makers of the Charon, the Caldari State are generally credited with pioneering the freighter class. Recognizing the need for a massive transport vehicle as deep space installations constantly increase in number, they set about making the ultimate in efficient mass transport - and were soon followed by the other empires.\r\n\r\nRegardless, the Charon still stands out as the benchmark by which the other freighters were measured. Its massive size and titanic cargo hold are rivalled by none.",
+    "es": "Como creadores de la Charon, el Estado Caldari se considera pionero en el desarrollo de cargueros. Conscientes de la necesidad de vehículos de transporte masivo para dar respuesta al crecimiento sostenido del número de instalaciones en el espacio profundo, se propusieron dar un paso más allá en la construcción de medios de transporte en masa eficientes, y los demás imperios no tardaron en seguir sus pasos.\n\nSea como sea, la Charon sigue siendo el referente en el que se inspiraron para diseñar los demás cargueros. Su enorme tamaño y su titánica bodega no tienen rival.",
+    "fr": "À l'origine du Charon, l'État caldari a joué un rôle pionnier dans le développement de vaisseaux de classe cargo. Les membres de cet État se rendirent compte qu'il devenait urgent de construire un engin de transport massif pour faire face au développement des installations dans l'espace profond. C'est la raison pour laquelle ils décidèrent de se lancer dans l'aventure et furent bientôt suivis par les autres empires.\n\n\n\nLe Charon reste aujourd'hui encore la référence en matière de vaisseaux de transport. Ses dimensions pharaoniques et sa soute de chargement gigantesque n'ont pas d'équivalent dans l'espace.",
+    "ja": "カロンを開発したカルダリ連合は、超大型輸送艦級艦船の先駆者として一般的に知られている。深宇宙圏の施設が増加していく中で、彼らは超大型輸送船の必要性を感じ、輸送効率を極限まで高めた大量輸送手段の開発に着手したが、他の帝国も間もなくそれに続くこととなった。それにもかかわらず、カロンは並みいる超大型輸送艦の中でも一つの基準として注目され続けている。そのとてつもないサイズと巨大なカーゴホールドは他の追随を許さないものとなっている。",
+    "ko": "칼다리 연합은 프레이터 제작 분야에서는 그야말로 선구자나 다름 없는 존재입니다. 심우주 시설이 점차 증가하자 연합은 대규모 운송 수단이 필요하다는 사실을 인식하게 되었고 이에 따라 프레이터의 제작에 착수하였습니다. 이러한 움직임에 따라 뒤늦게 다른 국가들도 뛰어들었지만 <br><br>그 어떠한 프레이터도 카론의 성능에는 미치지 못했습니다. 카론의 거대한 규모와 엄청난 수준의 화물 적재량은 다른 프레이터로서는 함부로 넘볼 수 없는 독보적인 존재감을 발휘합니다.",
+    "ru": "Государство Калдари, где был построен фрейтер типа «Харон», считается первопроходцем в области производства кораблей этого класса. Калдарские инженеры понимали, что по мере увеличения числа сооружений в дальнем пространстве возрастет необходимость в тяжёлых транспортах для дальних перевозок, и постарались спроектировать наиболее подходящий корабль для этих целей. Вскоре по их стопам пошли конструкторы прочих сверхдержав.\n\n\n\nТем не менее, «Харон» по-прежнему остаётся эталоном, по которому поверяют остальные фрейтеры. Его размер и огромный объем грузового отсека остаются непревзойденными.",
+    "zh": "作为渡神级的制造者，加达里通常被誉为货舰行业的领头人。他们意识到，随着深空装置数目不断显著增长，对于大型运输工具的需求必定大增，因此他们着手制造终极大规模运输工具——其他帝国不久纷纷跟进。\n\n\n\n尽管如此，渡神级依然是衡量其他货舰的标尺。它巨大的体形和货舱容量无船能及。"
+  },
+  "factionID": 500001,
+  "graphicID": 2740,
+  "groupID": 513,
+  "marketGroupID": 768,
+  "mass": 960000000.0,
+  "masteries": {
+    "0": [
+      117,
+      118,
+      151
+    ],
+    "1": [
+      117,
+      118,
+      151
+    ],
+    "2": [
+      117,
+      118,
+      151
+    ],
+    "3": [
+      117,
+      118,
+      151
+    ],
+    "4": [
+      117,
+      118,
+      151
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Charon",
     "en": "Charon",
@@ -9,6 +53,80 @@
     "ko": "카론",
     "ru": "Charon",
     "zh": "渡神级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 800.0,
+  "sofFactionName": "caldaribase",
+  "soundID": 20069,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonus": 100,
+        "bonusText": {
+          "de": "Reduktion des CPU-Bedarfs für <a href=showinfo:1333>Verstärkte Schotten</a>",
+          "en": "reduction in <a href=showinfo:1333>Reinforced Bulkhead</a> CPU requirements",
+          "es": "de reducción de los requisitos de CPU del <a href=showinfo:1333>mamparo reforzado</a>.",
+          "fr": "réduction de la charge CPU requise pour les <a href=showinfo:1333>cloisons renforcées</a>",
+          "ja": "<a href=showinfo:1333>強化隔壁</a>のCPU要件が減少",
+          "ko": "<a href=showinfo:1333>강화 격벽</a> CPU 사용량 감소",
+          "ru": "сокращается потребность <a href=showinfo:1333>усиленных переборок</a> в мощностях ЦПУ",
+          "zh": "<a href=\"showinfo:1333\">加强型舱隔壁</a>的CPU需求降低"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 90,
+        "bonusText": {
+          "de": "Reduktion der effektiv zurückgelegten Distanz für die Sprungerschöpfung",
+          "en": "reduction to effective distance traveled for jump fatigue",
+          "es": "de reducción de la distancia efectiva hasta sufrir fatiga de salto.",
+          "fr": "de réduction de la distance effectuée pour l'épuisement de saut",
+          "ja": "ジャンプによる疲弊が飛行距離に及ぼす影響を低減",
+          "ko": "이동 거리에 따른 점프 피로도 감소",
+          "ru": "медленнее накапливается усталость от гиперпереходов",
+          "zh": "减少跳跃距离对产生跳跃疲劳的影响"
+        },
+        "importance": 2,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "20526": [
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die Frachtraumkapazität des Schiffs",
+            "en": "bonus to ship cargo capacity",
+            "es": "de bonificación a la capacidad de carga de la nave.",
+            "fr": "de bonus à la capacité de la soute du vaisseau",
+            "ja": "艦船のカーゴ容量が増加",
+            "ko": "화물 적재량 증가",
+            "ru": "увеличивается вместимость грузового отсека корабля",
+            "zh": "舰船货柜舱容量加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die Maximalgeschwindigkeit des Schiffs",
+            "en": "bonus to ship max velocity",
+            "es": "de bonificación a la velocidad máxima de la nave.",
+            "fr": "de bonus à la vitesse maximale du vaisseau",
+            "ja": "艦船の最高速度が上昇",
+            "ko": "최대 속도 증가",
+            "ru": "увеличивается скорость полного хода корабля",
+            "zh": "舰船最大速度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 16250000.0
 }

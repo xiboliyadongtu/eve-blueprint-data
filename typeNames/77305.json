@@ -1,5 +1,18 @@
 {
-  "typeID": 77305,
+  "capacity": 500000.0,
+  "description": {
+    "de": "Diesem Obelisken wurde die Rolle eines sicheren mobilen Abstellplatzes zur Unterstützung der Navy bei der Beschlagnahmung von Besitz zugewiesen.",
+    "en": "This Obelisk has been assigned to act as a mobile secure impound to support the Navy in the seizing of assets.",
+    "es": "Esta Obelisk ha sido asignada para actuar como un punto de embargo seguro móvil para apoyar a la Armada en la incautación de bienes.",
+    "fr": "Cet Obelisk sert de fourrière sécurisée mobile et soutient la Navy dans sa saisie de biens.",
+    "ja": "海軍による資産押収を支援するための移動型の差押物品保管施設の役目を果たすオベリスク。",
+    "ko": "해군의 자산 압류 임무를 지원하는 이동식 압류 보관소로 사용되는 오벨리스크 함선입니다.",
+    "ru": "Фрейтер типа Obelisk используется в качестве защищённого передвижного хранилища, куда отправляются активы, конфискованные флотом.",
+    "zh": "这艘方尖塔级舰船被指派为一个协助海军扣押资产的移动式安全扣押站。"
+  },
+  "graphicID": 2739,
+  "groupID": 952,
+  "mass": 100000.0,
   "name": {
     "de": "Obelisk Impound",
     "en": "Obelisk Impound",
@@ -10,5 +23,8 @@
     "ru": "Obelisk Impound",
     "zh": "方尖塔级扣押站"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 550.0,
+  "sofFactionName": "gallentebase"
 }

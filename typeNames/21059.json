@@ -1,5 +1,18 @@
 {
-  "typeID": 21059,
+  "basePrice": 150000.0,
+  "description": {
+    "de": "Verbesserte Fähigkeit, den Energiefluss zu den Schilden zu regulieren. 2 % geringerer Energiespeicherbedarf von Schildboostern je Skillstufe\n\n\n\nHinweis: Hat keine Auswirkungen auf Capital-Module",
+    "en": "Improved skill for regulating energy flow to shields. 2% less capacitor need for shield boosters per skill level.\r\n\r\nNote: Has no effect on capital sized modules.",
+    "es": "Habilidad mejorada para regular el flujo de energía a los escudos. 2 % menos de necesidad del condensador para potenciadores de escudo por nivel de habilidad.\n\nAviso: No tiene efecto en los módulos de naves capitales.",
+    "fr": "Compétence améliorée permettant de réguler le flux d'énergie envoyé aux boucliers. Réduit de 2 % par niveau de compétence les besoins énergétiques du capaciteur pour les boosters de bouclier.\n\nRemarque : n'a aucun effet sur les modules de taille capitale.",
+    "ja": "シールドへのエネルギー流を調整する上級スキル。スキルレベル上昇ごとにシールドブースターのキャパシタ消費が2%低減する。注: キャピタルサイズのモジュールには無効。",
+    "ko": "실드를 구성하는 에너지 흐름을 제어하는 스킬입니다. 매 레벨마다 실드 부스터의 캐패시터 사용량 2% 감소 <br><br>참고: 캐피탈급 모듈에는 효과가 적용되지 않습니다.",
+    "ru": "Углублённое понимания принципов регуляции потока энергии к щиту. За каждую степень освоения навыка: на 2% сокращается расход энергии накопителя при работе бортовых установок накачки щитов.\n\n\n\nПримечание: не действует на модули капитального класса.",
+    "zh": "调整护盾所获能量流的进阶技能。每升一级，护盾回充增量器的电容需求减少2%。注：对旗舰级装备不起作用。"
+  },
+  "groupID": 1209,
+  "iconID": 33,
+  "marketGroupID": 1747,
   "name": {
     "de": "Shield Compensation",
     "en": "Shield Compensation",
@@ -10,5 +23,7 @@
     "ru": "Энергоснабжение установок накачки щитов",
     "zh": "护盾补偿"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

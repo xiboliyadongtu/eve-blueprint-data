@@ -1,5 +1,16 @@
 {
-  "typeID": 34335,
+  "description": {
+    "de": "Diese Station wurde anscheinend zum Studium naher Talocan-Technologie errichtet und wurde von zahllosen Einschlägen zerschlagen und zerrüttet, die möglicherweise von Material stammen, das von dem verwüsteten Planeten unter ihr geworfen wurde. Die Anlage statischer Talocan-Tore in der Nähe ist merkwürdigerweise intakt und scheint bis zu einem gewissen Grad zu funktionieren.",
+    "en": "Apparently set up to study nearby Talocan technology, this station has been buckled and broken by numerous impacts, possibly from material thrown up from the devastated planet below. The array of Talocan static gates nearby is eerily intact and seems to be functional to some degree.",
+    "es": "Esta estación se estableció en un principio para estudiar la tecnología talocana de la zona, pero ha sido objeto de numerosos impactos, posiblemente de material arrojado desde el planeta desolado que hay debajo. Los sistemas de los portales estáticos talocanos se han mantenido intactos, curiosamente, y es posible que aún funcionen.",
+    "fr": "Mise en place pour étudier la technologie talocan voisine, cette station a été déformée et fracassée par de nombreux impacts, probablement avec des matériaux projetés depuis la planète dévastée se trouvant en-dessous. Le module de portail statique talocan est étrangement intact et semble être relativement fonctionnel.",
+    "ja": "本ステーションは多数の衝突、おそらくは下方に位置する被災した惑星から跳ね上がった物質の衝撃により、崩壊している。付近にあるタロカンの技術を研究する準備は整っているようだ。タロカンスタティックゲート設備は不気味なほどに無傷であり、ある程度は機能しているようである。",
+    "ko": "탈로칸 기술 연구를 위해 건설된 정거장입니다. 황폐화된 행성에서 날아온 각종 물질로 인해 연달아 충돌이 발생한 것으로 예상됩니다. 불가사의하게도 탈로칸 스태틱 게이트는 온전한 상태이며 부분적으로 작동하고 있습니다.",
+    "ru": "Станция, предназначавшаяся для исследования находящихся поблизости талоканских артефактов, изогнута и сломана многочисленными столкновениями с материей, предположительно выброшенной в космос с лежащей под станцией опустошённой планеты. Группа близлежащих талоканских ворот устрашающе невредима и выглядит до определённой степени работоспособной.",
+    "zh": "这座空间站明显是为了研究附近的塔洛迦科技而建立的，现在已经被巨大的冲击破坏，很有可能是被旁边毁坏的行星上喷射出的物质击中了。奇怪的是，附近的塔洛迦静态星门阵列仍保持完好，可能在某种程度上还能运作。"
+  },
+  "graphicID": 3787,
+  "groupID": 226,
   "name": {
     "de": "Testing Facilities Wreck",
     "en": "Testing Facilities Wreck",
@@ -10,5 +21,9 @@
     "ru": "Testing Facilities Wreck",
     "zh": "测试设施残骸"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 8000.0,
+  "sofFactionName": "gallentebase"
 }

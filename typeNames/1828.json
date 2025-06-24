@@ -1,5 +1,21 @@
 {
-  "typeID": 1828,
+  "basePrice": 15000.0,
+  "description": {
+    "de": "Eine Cruise Missile der Amarr mit EMP-Sprengkopf und automatisiertem Lenksystem.",
+    "en": "An Amarr cruise missile with an EMP warhead and automatic guidance system.",
+    "es": "Misil de crucero amarriano con ojiva EMP y sistema de guiado automático.",
+    "fr": "Missile de croisière amarr équipé d'une ogive IEM et d'un système de guidage automatique.",
+    "ja": "EMP弾頭と自動誘導システムを装備したアマー製クルーズミサイル。",
+    "ko": "유도시스템과 EMP 탄두가 탑재된 아마르 크루즈 미사일입니다.",
+    "ru": "Ракета дальнего боя Amarr с ЭМ-боеголовкой и системой автоматического наведения.",
+    "zh": "艾玛帝国的一种巡航导弹，装备有电磁脉冲战斗部和自动导航系统。"
+  },
+  "graphicID": 20041,
+  "groupID": 396,
+  "iconID": 1344,
+  "marketGroupID": 914,
+  "mass": 1250.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Mjolnir Auto-Targeting Cruise Missile I",
     "en": "Mjolnir Auto-Targeting Cruise Missile I",
@@ -10,5 +26,8 @@
     "ru": "Mjolnir Auto-Targeting Cruise Missile I",
     "zh": "雷神自动锁定巡航导弹 I"
   },
+  "portionSize": 100,
+  "published": true,
+  "radius": 300.0,
   "volume": 0.05
 }

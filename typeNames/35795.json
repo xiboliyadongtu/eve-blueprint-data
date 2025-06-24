@@ -1,5 +1,19 @@
 {
-  "typeID": 35795,
+  "basePrice": 4000.0,
+  "description": {
+    "de": "Dieses Skript kann in einen Lenkwaffen-Leitcomputer geladen werden, um die Boni des Moduls auf Explosionsgeschwindigkeit und Explosionsradius auf Kosten seines Reichweitenbonus zu erhöhen.",
+    "en": "This script can be loaded into a missile guidance computer to increase the module's explosion velocity and explosion radius bonus at the expense of its range bonus.",
+    "es": "Este script se puede cargar en un ordenador de guiado de misiles para aumentar las bonificaciones del módulo a la velocidad y al radio de explosión a costa de su bonificación al alcance.",
+    "fr": "Ce script peut être chargé dans un ordinateur de guidage de missile pour augmenter les bonus de vitesse et de rayon d'explosion au détriment des bonus de portée.",
+    "ja": "ミサイル誘導コンピューターにこのスクリプトをロードすることで、射程距離ボーナスと引き換えに爆発速度および爆発半径ボーナスが増加する。",
+    "ko": "미사일 유도 컴퓨터에 장착이 가능하며, 장착 시 폭발속도가 증가하고 폭발반경이 감소하는 반면 사거리 또한 감소합니다.",
+    "ru": "Этот скрипт может быть загружен в <url=showinfo:35788>вычислители наведения ракет</url>; он усиливает влияние вычислителя на скорость и сигнатуру взрыва, но при этом приходится жертвовать влиянием вычислителя на дальность полёта ракет.",
+    "zh": "该脚本可用在导弹制导计算机上以增加导弹的爆炸速度和爆炸半径，不过会降低射程。"
+  },
+  "groupID": 1400,
+  "iconID": 21442,
+  "marketGroupID": 1094,
+  "mass": 1.0,
   "name": {
     "de": "Missile Precision Script",
     "en": "Missile Precision Script",
@@ -10,5 +24,7 @@
     "ru": "Missile Precision Script",
     "zh": "导弹精确打击脚本"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

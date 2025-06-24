@@ -1,5 +1,19 @@
 {
-  "typeID": 85718,
+  "basePrice": 5000000.0,
+  "description": {
+    "de": "Ein wiederhergestellter Tagebucheintrag. Er war Teil des Gemeinschaftsarchivs eines Entdeckers, das vor Jahren mit lokalen Computersystemen verbunden war, bevor es durch einen automatisierten Reinigungsprozess gelöscht wurde. Spuren der gelöschten Dateien verbleiben weiterhin im Datenmüll dieses Systems, sodass der Computer Ihres Schiffes diesen Eintrag wieder zusammensetzen kann.",
+    "en": "A recovered journal entry.\r\n\r\nIt was part of an explorer’s shared archive that connected to local computer systems years ago before being deleted by an automated clean-up process. Traces of the deleted files still remain in this system's garbage data, allowing your ship’s computer to reassemble this entry.",
+    "es": "Una entrada de diario recuperada.\r\n\r\nFormaba parte del archivo compartido de un explorador que se conectó a los sistemas informáticos locales hace años antes de ser eliminado por un proceso de limpieza automático. Aún quedan rastros de los archivos eliminados en los datos basura de este sistema, lo que permite que el ordenador de tu nave vuelva a ensamblar esta entrada.",
+    "fr": "Une entrée de journal récupérée. Elle faisait partie de l'archive partagée d'un explorateur, connectée aux systèmes informatiques locaux il y a des années avant d'être effacée par un processus de nettoyage automatisé. Des traces des fichiers supprimés subsistent encore dans les données résiduelles de ce système, permettant à l'ordinateur de votre vaisseau de reconstituer cette entrée.",
+    "ja": "回収されたジャーナルの記録。\r\n\r\n自動クリーンアップ処理で削除される数年前にローカルコンピューターシステムに接続された、ある探検家の共有アーカイブの断片。システムのジャンクデータではあるが、削除されたデータの手がかりが含まれており、艦船のコンピューターを使って記録を再構築できる。",
+    "ko": "회수한 탐사 기록입니다.\r\n\r\n탐험가의 탐사 기록으로 지역 컴퓨터 시스템에 업데이트 되었습니다. 그러나 몇 년 전 자동 삭제 기능으로 일부분이 삭제되었습니다. 삭제된 기록은 아직 시스템에 데이터로 남아 있는 것 같습니다. 함선의 컴퓨터를 이용해 복원할 수 있을 것입니다.",
+    "ru": "Запись в журнале из архива одного исследователя, много лет назад сохранённая в локальных системах и впоследствии удалённая в процессе автоматической очистки. Полное форматирование не было проведено, поэтому бортовому компьютеру вашего корабля удалось восстановить этот файл.",
+    "zh": "一份恢复的日志记录。原本是某位探险家在几年前与本地计算机系统连接的部分共享档案内容，后来被自动清理程序删除了。本系统的垃圾数据中还有已删除文件的残留内容，你可以使用舰船上的计算机重组此条目。"
+  },
+  "groupID": 314,
+  "iconID": 2038,
+  "marketGroupID": 1661,
+  "mass": 1.0,
   "name": {
     "de": "YC113.01.15 - Dr. Yosef Okada Journal entry",
     "en": "YC113.01.15 - Dr. Yosef Okada Journal entry",
@@ -10,5 +24,7 @@
     "ru": "YC113.01.15 - Dr. Yosef Okada Journal entry",
     "zh": "YC113.01.15 - 约瑟夫·奥卡达博士的日志记录"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

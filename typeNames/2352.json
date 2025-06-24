@@ -1,5 +1,18 @@
 {
-  "typeID": 2352,
+  "basePrice": 1.0,
+  "description": {
+    "de": "Dieser Energiekern ist in der Lage schwere Elemente durch Kernspaltung in Strom umzuwandeln, indem Atome gespalten werden, um thermische Energie in großem Maßstab zu produzieren. Wenn sie richtig abgeschirmt und gekühlt werden, gibt es nur wenige sicherere, sauberere Arten, Gebäude oder Fahrzeuge mit Strom zu versorgen.",
+    "en": "This power core is able to convert heavy elements into electricity by way of nuclear fission, splitting atoms to produce thermal energy on a massive scale. If they are properly shielded and cooled, there are few safer, cleaner ways to power buildings or large vehicles.",
+    "es": "Este núcleo de potencia es capaz de convertir elementos pesados en electricidad a través de la fisión nuclear, dividiendo átomos para producir energía térmica a gran escala. Si se protegen y enfrían adecuadamente, hay pocas formas más seguras y limpias de alimentar edificios o vehículos grandes.",
+    "fr": "Ce réacteur principal est capable de convertir des éléments lourds en électricité au moyen d'une fission nucléaire, divisant les atomes afin de produire une énergie thermique à large échelle. S'ils sont correctement protégés et refroidis, il existe des moyens plus sûrs et plus propres d'alimenter des bâtiments ou de grands véhicules.",
+    "ja": "核分裂によって重元素を電力に変換し、原子を分裂させて大量の熱エネルギーを生成するパワーコア。シールドと冷却を適切に行えば、最も安全かつクリーンに、建物や大きな乗り物に電源を供給できる。",
+    "ko": "파워코어는 핵분열을 통해 중원소를 전력으로 변환합니다. 이때 원자를 쪼갬으로써 막대한 열 에너지가 발생합니다. 적절한 보호 및 냉각 장치가 구성될 경우 더욱 안전하고 간편한 방법을 통해 전력을 생산할 수 있습니다.",
+    "ru": "Это ядро силовой установки способно преобразовывать тяжелые элементы в электричество посредством деления ядра; в ходе расщепления атомов вырабатывается колоссальное количество термальной энергии. Этот процесс является одним из самых безопасных и экологически чистых способов энергоснабжения зданий или больших транспортных средств - конечно, при обеспечении соответствующего экранирования и охлаждения.",
+    "zh": "这座能源核心通过核裂变反应将重元素转变为电能，原子被拆分以产生海量的热能并推动发电涡轮机的转动。只要它们能够被正确地包裹密封并进行冷却，核反应是少有的安全及干净的能源，可用于建筑物和大型载具的能源供给。"
+  },
+  "groupID": 1040,
+  "iconID": 10045,
+  "marketGroupID": 1336,
   "name": {
     "de": "Nuclear Reactors",
     "en": "Nuclear Reactors",
@@ -10,5 +23,7 @@
     "ru": "Nuclear Reactors",
     "zh": "核反应堆"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 3.0
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 368497,
+  "basePrice": 10.0,
+  "description": {
+    "de": "Angriffstransporter-Herstellungsverfahren.",
+    "en": "Warbarge manufacturing processes.",
+    "es": "Procesos de fabricación de transportadores de guerra.",
+    "fr": "Processus de fabrication de la barge de guerre.",
+    "it": "Processo di manifattura del vascello da guerra.",
+    "ja": "将官艇製造プロセス。",
+    "ko": "전투선 제조 과정",
+    "ru": "Производственные процессы десантной баржи.",
+    "zh": "战争驳船制造流程。"
+  },
+  "groupID": 368666,
   "name": {
     "de": "Angriffstransporterbauteil",
     "en": "Warbarge Component",
@@ -11,5 +23,8 @@
     "ru": "Комплектующая десантных барж",
     "zh": "战争驳船组件"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 64,
   "volume": 0.01
 }

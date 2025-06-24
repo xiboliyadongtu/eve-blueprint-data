@@ -1,5 +1,16 @@
 {
-  "typeID": 29582,
+  "description": {
+    "de": "Ein Zaun.",
+    "en": "A fence.",
+    "es": "Una valla.",
+    "fr": "Clôture.",
+    "ja": "フェンス。",
+    "ko": "울타리입니다.",
+    "ru": "Ограда.",
+    "zh": "防护栏"
+  },
+  "graphicID": 2476,
+  "groupID": 226,
   "name": {
     "de": "Fortified Guristas Fence",
     "en": "Fortified Guristas Fence",
@@ -10,5 +21,9 @@
     "ru": "Fortified Guristas Fence",
     "zh": "强化的古斯塔斯防护栏"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 330.0,
+  "sofFactionName": "guristas"
 }

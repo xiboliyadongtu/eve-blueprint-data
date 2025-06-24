@@ -1,5 +1,18 @@
 {
-  "typeID": 17820,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese Mehrzweck-Strukturen sind für wissenschaftliche Beobachtungen vorgesehen, verfügen aber gleichermaßen über alle möglichen Unterhaltungsangebote. Zwar gehen sie ob ihrer geringen Größe nicht als Stationen durch, doch dafür werden sie von Touristen wie Professionellen frequentiert.",
+    "en": "Equally equipped for scientific observation and entertainment of all sorts, these multi-purpose structures, while not quite big enough to be classified as stations, nonetheless see quite a bit of use by both tourists and professionals.",
+    "es": "Estas estructuras multifuncionales están preparadas tanto para la observación científica como para actividades de ocio de todo tipo y, pese a no ser lo bastante grandes como para considerarse estaciones, son frecuentadas por turistas y profesionales a partes iguales.",
+    "fr": "Équipées tant pour des observations scientifiques que pour toutes sortes de divertissements, ces structures polyvalentes ne sont pas suffisamment importantes pour être qualifiées de stations, mais elles n'en sont pas moins utiles pour les touristes et pour les professionnels.",
+    "ja": "科学的観測やあらゆる娯楽に対応可能な設備を備えた、多目的建造物。ステーションと呼べるほど大きくはないものの、観光客や専門家が足繁く訪れる。",
+    "ko": "실험용 관측 장비부터 유흥시설에 이르기까지, 각종 시설이 설치된 구조물입니다. 정거장 보다 규모는 작지만 많은 숫자의 기술자 및 관광객이 방문합니다.",
+    "ru": "Эти многоцелевые сооружения одинаково хорошо подходят как для научных исследований, так и для развлечений. Размерами они уступают настоящим станциям, но тем не менее популярны среди туристов и профессионалов.",
+    "zh": "这些多功能建筑都配备了各种科学观察和娱乐设施，虽然其规模还达不到空间站的标准，但对游客和专业人士来说仍然极具使用价值。"
+  },
+  "graphicID": 1712,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Supply Traffic Management",
     "en": "Supply Traffic Management",
@@ -10,5 +23,11 @@
     "ru": "Supply Traffic Management",
     "zh": "补给调度管理处"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 918.0,
+  "sofFactionName": "gallentebase",
+  "soundID": 20195,
   "volume": 100000000.0
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 353990,
+  "basePrice": 23160.0,
+  "description": {
+    "de": "Repariert im aktivierten Zustand Schäden an der Panzerung des Zielfahrzeugs.",
+    "en": "Once activated, repairs damage done to the targeted vehicle's armor.",
+    "es": "Una vez activado, repara el daño infligido al blindaje del vehículo objetivo.",
+    "fr": "Après activation, répare les dommages occasionnés au blindage du véhicule ciblé.",
+    "it": "Una volta attivato, ripara i danni inflitti alla corazza del veicolo colpito.",
+    "ja": "起動すると、車両のアーマーが受けたダメージをリペアする。",
+    "ko": "모듈 활성화 시 지정된 차량에 가해진 피해를 복구합니다.",
+    "ru": "В активном состоянии осуществляет ремонт брони целевого транспортного средства.",
+    "zh": "启用后，该装备会修复目标载具装甲的受损部位。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Leichter polarisierter IG-R Fernregenerator für Panzerungen",
     "en": "Light Remote IG-R Polarized Armor Regenerator",
@@ -11,5 +23,7 @@
     "ru": "Легкий дистанционный поляризационный регенератор брони IG-R",
     "zh": "轻型远程IG-R极化装甲再生器"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

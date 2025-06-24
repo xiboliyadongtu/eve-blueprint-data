@@ -1,5 +1,18 @@
 {
-  "typeID": 26155,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Die Informationsmatrix wird von den örtlichen Piraten zum Erlernen ihres Metiers verwendet. Sie ist kennwortgeschützt, aber vermutlich nicht allzu gut.",
+    "en": "The info matrix is used by the local pirates to learn how to become good pirates. It is password protected, but probably not all that well.",
+    "es": "La matriz de información utiliza el cubo de desarrollo para aprender a ser buenos piratas. Está protegido por una contraseña, pero probablemente no sea muy eficaz.",
+    "fr": "La matrice d'infos est utilisée par les pirates de la région pour apprendre à devenir de bons pirates. Il est protégé par mot de passe, mais rien de bien méchant.",
+    "ja": "情報マトリックスは、立派な海賊になるための秘訣を学ぼうと、地元の海賊に利用されている。パスワードで保護されているが、それほど確実なものではないはずだ。",
+    "ko": "지역 해적들이 운용하는 정보 네트워크로 우수한 해적이 되는 방법을 습득할 수 있습니다. 암호가 걸려있으나 쉽게 해킹할 수 있을 것 같습니다.",
+    "ru": "Информационная матрица используется местными пиратами, чтобы узнать, как стать настоящими пиратами. Она защищен паролем, но видимо, не очень хорошо.",
+    "zh": "信息矩阵是当地海盗用来学习海盗技能的工具。它由密码保护，不过保护力度可能并不强。"
+  },
+  "graphicID": 1683,
+  "groupID": 1207,
+  "mass": 10000.0,
   "name": {
     "de": "Info Matrix",
     "en": "Info Matrix",
@@ -10,5 +23,10 @@
     "ru": "Info Matrix",
     "zh": "信息矩阵"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 60.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

@@ -1,5 +1,20 @@
 {
-  "typeID": 29974,
+  "capacity": 280.0,
+  "description": {
+    "de": "Dieses Subsystem ist veraltet und wurde durch neuere Technologie ersetzt.\n\n\n\nDiese winzigen Nano-Reparaturbots, die auf der gleichen Technologie basieren, die zur Verstärkung der Panzerung von Sleeper-Drohnen dient, wurden neu konfiguriert, um die Schadensresistenz von Schilden zu verbessern. Dank hochwertiger Materialien sowie der Modulbauweise von Sleeper-Komponenten war diese rigorose Umgestaltung geradezu ein Kinderspiel.\n\n\n\nSubsystem-Skillbonus: \n\n4 % Bonus auf alle Schildresistenzen je Skillstufe\n\n10 % Bonus auf Schildtransporter-Effektivität je Skillstufe",
+    "en": "This subsystem is obsolete and has been replaced by newer technology\r\n\r\nBased on the same advanced technology employed by Sleeper drones to harden their armor plating, these tiny nano-assemblers have been reconfigured to improve a shield's resistance to damage. The influx of superior construction materials and the modularity of Sleeper components have made even this drastic redesign into a fairly simple process.   \r\n\r\nSubsystem Skill Bonus: \r\n4% bonus to all shield resistances per level\r\n10% bonus to shield transporter effectiveness per level",
+    "es": "Este subsistema está obsoleto y ha sido sustituido por tecnología nueva.\n\nEstos pequeños nanoensambladores se basan en la misma tecnología avanzada que utilizan los drones sleepers para endurecer su blindaje. Además, han sido reconfigurados para mejorar la resistencia de su escudo al daño. Gracias a la presencia de materiales de construcción superiores y la modularidad de los componentes sleepers, rediseñarlos tan drásticamente fue bastante sencillo.\n\nBonificación de habilidad del subsistema:\n\n4 % de bonificación a todas las resistencias de escudo por nivel.\n\n10 % de bonificación a la eficacia del transportador de escudos por nivel.",
+    "fr": "Ce sous-système est obsolète et a été remplacé par une technologie plus récente. Basés sur la même technologie avancée utilisée par les drones sleeper pour renforcer leurs plaques de blindage, ces minuscules nano-assembleurs ont été reconfigurés pour améliorer la résistance d'un bouclier aux dégâts. L'arrivée de meilleurs matériaux de construction et la modularité des composants sleeper ont largement facilité ce processus de reconfiguration. Bonus de compétence du sous-système : augmente de 4 % par niveau toutes les résistances du bouclier, augmente de 10 % par niveau l'efficacité du transporteur de bouclier",
+    "ja": "このサブシステムは旧式化したため、新型技術に差し替えられた\n\n\n\nスリーパードローンがアーマープレート強化に使用したのと同じ先端技術に基づいている。小さなナノアセンブラーが再構成されており、ダメージに対するシールドレジスタンスを増加させる。優れた建設資材とスリーパー部品のモジュールを使用して、抜本的に再設計を行い、単純なプロセスに再構築した。\n\n\n\nサブシステムのスキルボーナス：\n\nレベルごとに全シールドレジスタンスが4%増加\n\nレベル上昇ごとにシールドトランスポート効果が10%増加",
+    "ko": "이 서브시스템은 노후되어 최신식 기술로 교체되었습니다.<br><br>슬리퍼 드론의 장갑 플레이팅과 동일한 기술이 적용되었기 때문에 나노 어셈블러를 통해 피해에 대한 실드 저항력을 향상할 수 있습니다. 슈퍼 컨스트럭션 물질 및 슬리퍼 모듈 방식을 차용하여 난해한 설계를 간소화하였고 이로 인해 효율성이 크게 개선되었습니다. <br><br>서브시스템 스킬 보너스: <br><br>매 레벨마다 모든 실드 저항력 4% 증가<br>매 레벨마다 실드 트랜스포터 효율성 10% 증가",
+    "ru": "Эта подсистема устарела и заменена на продукт новых технологий\n\n\n\nНаносборщики, основанные на усовершенствованной технологии, применяемой в дронах Спящих для укрепления их бронезащиты, перепрограммированы и повышают сопротивляемость щитов. Благодаря превосходным материалам Спящих и модульности их решений даже столь радикальная модернизация проводится относительно просто.   \n\n\n\nЗа каждую степень освоения навыка соответствующей подсистемы:<br> \n\nна 4% повышается сопротивляемость щитов корабля всем видам воздействия\n\nна 10% повышается производительность установок дистанционной накачки щитов",
+    "zh": "这个子系统太过老旧，已经被新科技取代。\n\n\n\n与冬眠者无人机用来加强装甲附甲使用的高科技相同，这些纳米级装配器被重新配置用来提高护盾抗性。由于使用了优质的生产材料，而且冬眠者组件的模块化程度较高，这次重新设计虽然动作大却不费功夫。   \n\n\n\n每等级子系统技能加成： \n\n护盾抗性提高4%\n\n护盾传输设备效果提高10%"
+  },
+  "graphicID": 3681,
+  "groupID": 955,
+  "iconID": 3631,
+  "mass": 1400000.0,
+  "metaGroupID": 14,
   "name": {
     "de": "OLD Loki Defensive - Adaptive Shielding",
     "en": "OLD Loki Defensive - Adaptive Shielding",
@@ -10,5 +25,9 @@
     "ru": "OLD Loki Defensive - Adaptive Shielding",
     "zh": "旧洛基防御 - 自适应护盾发生器"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "sofFactionName": "minmatarbase",
   "volume": 40.0
 }

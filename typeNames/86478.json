@@ -1,5 +1,18 @@
 {
-  "typeID": 86478,
+  "capacity": 120.0,
+  "description": {
+    "de": "Eine Sleeper-Drohne, die einem Schiff der Fregattenklasse entspricht. Es steht unter Drifter-Kontrolle und wurde auf die Zielmarkierung feindlicher Schiffe ausgerichtet.",
+    "en": "A Sleeper drone, equivalent to a frigate-class ship. It is under Drifter control and has been directed to focus on target painting hostiles.",
+    "es": "Un dron sleeper equivalente a una nave de clase fragata. Está bajo control drifter y se le ha ordenado centrarse en revelar los objetivos hostiles.",
+    "fr": "Un drone sleeper équivalent à une frégate. Il est sous contrôle drifter et a reçu l'ordre de se concentrer sur le marquage de cible des hostiles.",
+    "ja": "フリゲート級に相当するスリーパードローン。ドリフターの支配下にあり、敵にターゲットペインティングをしかけることに集中するよう指示されている。",
+    "ko": "프리깃급 함선과 동급인 슬리퍼 드론입니다. 드리프터가 타겟 페인터로 주요 목표를 지정하도록 조종하고 있습니다.",
+    "ru": "Этот дрон Спящих по характеристикам соответствует фрегату. Он находится под контролем Скитальцев и запрограммирован на подсветку вражеских целей.",
+    "zh": "一架护卫舰级别的冬眠者无人机。它由流浪者控制，主要负责对敌舰进行标记。"
+  },
+  "graphicID": 3560,
+  "groupID": 1568,
+  "mass": 1910000.0,
   "name": {
     "de": "Phosphene Pilum",
     "en": "Phosphene Pilum",
@@ -10,5 +23,11 @@
     "ru": "Phosphene Pilum",
     "zh": "短矛级幻光者"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 64,
+  "radius": 50.0,
+  "sofFactionName": "sleeperbase",
+  "soundID": 12,
   "volume": 19100.0
 }

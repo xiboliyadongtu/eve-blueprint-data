@@ -1,5 +1,18 @@
 {
-  "typeID": 4357,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Das ist eine Amarr-Drohnenmine.",
+    "en": "This is an Amarr drone mine.",
+    "es": "Mina de drones amarriana.",
+    "fr": "Il s'agit d'une mine de drones amarr.",
+    "ja": "これはアマードローン機雷である。",
+    "ko": "아마르 드론 기뢰입니다.",
+    "ru": "Это дронная мина Amarr.",
+    "zh": "这是一个艾玛无人机地雷。"
+  },
+  "graphicID": 2425,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Amarr Drone Mine",
     "en": "Amarr Drone Mine",
@@ -10,5 +23,9 @@
     "ru": "Amarr Drone Mine",
     "zh": "艾玛无人机地雷"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 637.0,
+  "sofFactionName": "amarrbase",
   "volume": 100000000.0
 }

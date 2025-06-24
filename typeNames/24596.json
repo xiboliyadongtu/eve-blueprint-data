@@ -1,5 +1,19 @@
 {
-  "typeID": 24596,
+  "basePrice": 50000.0,
+  "description": {
+    "de": "Ein vom Königreich Khanid ausgestellter elektronischer Code, der es dem Inhaber erlaubt, eine Starbase in einem Mondorbit innerhalb des Hoheitsgebietes des Königreiches eine Stunde lang zu betreiben. Der Code ist auf einem fälschungssicheren Chip gespeichert, der im Kontrollturm der Starbase eingelesen werden muss.",
+    "en": "An electronic charter code issued by the Khanid Kingdom which permits the bearer to use a starbase around a moon in Kingdom sovereign space for 1 hour. The code is stored on tamperproof chips which must be inserted into the starbase control tower.",
+    "es": "Un código electrónico emitido por el Reino Khanid que permite al portador utilizar una base estelar alrededor de una luna en el espacio del Reino durante 1 hora. El código se almacena en chips a prueba de manipulaciones que deben introducirse en la torre de control de la base estelar.",
+    "fr": "Code électronique émis par le Royaume khanid permettant à son détenteur d'utiliser une base stellaire autour d'une lune dans l'espace souverain du Royaume pendant une heure. Le code est enregistré sur une puce inviolable qui doit être insérée dans la tour de contrôle de base stellaire.",
+    "ja": "クーニッド王国発行の許可証コード。王国領域内の衛星周辺にあるスターベースを1時間使用できる。コードは不正改ざん防止機能付きのチップに保存されており、このチップをスターベースコントロールタワーに挿入して使用する。",
+    "ko": "카니드 왕국이 발한 전자 헌장으로 소지자는 왕국 통치지역 내의 위성 주변에 위치한 스타베이스를 1시간 동안 사용할 수 있습니다. 스타베이스의 관제타워에 헌장이 저장된 칩을 삽입하면 됩니다. 이 칩은 조작이 불가능합니다.",
+    "ru": "Код-разрешение, выданный королевством Khanid и позволяющий его владельцу установить на орбите планеты-спутника, находящейся в суверенном пространстве Королевства, звездную базу сроком на 1 час. Этот код хранится в блоках памяти, устойчивых к взлому; их необходимо установить в соответствующий разъем башни управления звездной базы.",
+    "zh": "一种卡尼迪王国发行的电子租用代码，允许持有者使用王国主权空间内某卫星周围的母星一个小时。代码储存在防篡改芯片上，必须插入母星控制塔。"
+  },
+  "groupID": 652,
+  "iconID": 1192,
+  "marketGroupID": 940,
+  "mass": 1.0,
   "name": {
     "de": "Khanid Kingdom Starbase Charter",
     "en": "Khanid Kingdom Starbase Charter",
@@ -10,5 +24,7 @@
     "ru": "Khanid Kingdom Starbase Charter",
     "zh": "卡尼迪王国母星宪章"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

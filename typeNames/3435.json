@@ -1,5 +1,18 @@
 {
-  "typeID": 3435,
+  "basePrice": 175000.0,
+  "description": {
+    "de": "Fertigkeit zur Verwendung von Antriebs- und Warpstörern. 5% Reduktion des Energiespeicherverbrauchs von Warpunterbrechern, Warpstörern und Stasisnetzen je Skillstufe.",
+    "en": "Skill at using propulsion/warpdrive jammers. 5% Reduction to Warp Scrambler, Warp Disruptor, and Stasis Web capacitor need per skill level.",
+    "es": "Habilidad en el uso de los perturbadores de propulsión/warp. 5 % de reducción de la necesidad del distorsionador de warp, el disruptor de warp y la necesidad del condensador de la red ralentizadora por nivel de habilidad.",
+    "fr": "Compétence liée à l'utilisation des brouilleurs de propulsion et de dispositifs de warp. Réduit de 5 % par niveau de compétence les besoins énergétiques du capaciteur pour l'inhibiteur de warp, le perturbateur de warp et le générateur de stase.",
+    "ja": "推進力ジャマーやワープドライブジャマーを使うスキル。ワープスクランブラー、ワープ妨害器、ステイシスウェブのキャパシタ使用量を5%節減する。",
+    "ko": "추진기/워프 드라이브 재머를 위한 스킬입니다. 매 레벨마다 워프 스크램블러, 워프 디스럽터, 스테이시스 웹 생성기의 캐패시터 사용량 5% 감소",
+    "ru": "Навык эксплуатации средств ограничения подвижности кораблей. За каждую степень освоения навыка: на 5% снижается расход энергии накопителя при работе варп-подавителей, варп-глушителей и стазис-индукторов.",
+    "zh": "使用推进/跃迁引擎干扰器的技能。每升一级，跃迁扰频器、跃迁扰断器和停滞缠绕光束的电容消耗各减少5%。"
+  },
+  "groupID": 272,
+  "iconID": 33,
+  "marketGroupID": 367,
   "name": {
     "de": "Propulsion Jamming",
     "en": "Propulsion Jamming",
@@ -10,5 +23,7 @@
     "ru": "Глушение двигательных систем",
     "zh": "推进阻扰理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

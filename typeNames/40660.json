@@ -1,5 +1,19 @@
 {
-  "typeID": 40660,
+  "description": {
+    "de": "Neutralisiert einen Teil der Energie im Energiespeicher des Zielschiffes.\n\nHinweis: Kann nur in Schiffe der Capital-Klasse eingebaut werden.",
+    "en": "Neutralizes a portion of the energy in the target ship's capacitor.\n\nNote: May only be fitted to capital class ships.",
+    "es": "Neutraliza parte de la energía del condensador de la nave objetivo.\n\nAviso: Solo se puede equipar en naves capitales.",
+    "fr": "Ce module neutralise une partie de l'énergie du capaciteur ennemi.\n\nRemarque : réservé aux vaisseaux de classe capital.",
+    "ja": "対象の艦船のキャパシタエネルギーを一部無効化する。注： 母艦級の艦船にのみ装着可能。",
+    "ko": "대상 함선의 캐패시터를 일정량 무력화시킵니다. <br><br>참고: 캐피탈급 함선에만 장착이 가능합니다.",
+    "ru": "Нейтрализует часть энергии накопителя выбранного корабля.\n\nВнимание! Этим модулем могут оснащаться исключительно корабли большого тоннажа.",
+    "zh": "中和目标舰船电容器的部分能量。\n\n注：只能用于旗舰级舰船。"
+  },
+  "groupID": 71,
+  "iconID": 1283,
+  "marketGroupID": 2250,
+  "mass": 2000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Capital Gremlin Compact Energy Neutralizer",
     "en": "Capital Gremlin Compact Energy Neutralizer",
@@ -10,5 +24,8 @@
     "ru": "Capital Gremlin Compact Energy Neutralizer",
     "zh": "旗舰级小鬼紧凑型能量中和器"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 40659,
   "volume": 4000.0
 }

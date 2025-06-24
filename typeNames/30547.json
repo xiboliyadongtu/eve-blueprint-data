@@ -1,5 +1,18 @@
 {
-  "typeID": 30547,
+  "basePrice": 5000000.0,
+  "description": {
+    "de": "Skill in Verbindung mit minmatarischen Kernsubsystemen für Tech-III-Schiffe.",
+    "en": "Skill in the operation of Minmatar Core Subsystems used on Tech III ships.",
+    "es": "Habilidad en la operación de subsistemas nuclearios minmatarianos usados en naves T3.",
+    "fr": "Compétence liée à l'utilisation des sous-systèmes principaux minmatar sur les vaisseaux Tech III.",
+    "ja": "T3艦船で使用するミンマターのコアサブシステムを操作するスキル。",
+    "ko": "테크 III 함선에 사용되는 민마타 코어 서브시스템 운용을 위한 스킬입니다.",
+    "ru": "Освоив первую степень этого навыка, пилот сможет пользоваться матарскими центральными подсистемами для кораблей третьей техкатегории.",
+    "zh": "这是用来操纵三级科技舰船上米玛塔尔核心子系统的技能。"
+  },
+  "groupID": 1240,
+  "iconID": 33,
+  "marketGroupID": 1824,
   "name": {
     "de": "Minmatar Core Systems",
     "en": "Minmatar Core Systems",
@@ -10,5 +23,8 @@
     "ru": "Минматарские центральные подсистемы",
     "zh": "米玛塔尔核心系统"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

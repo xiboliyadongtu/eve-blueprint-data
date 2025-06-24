@@ -1,5 +1,21 @@
 {
-  "typeID": 24511,
+  "basePrice": 600080.0,
+  "description": {
+    "de": "Ursprünglich als Lenkwaffe für den Fangschuss entworfen, um einem beschädigten Schiff den Todesstoß zu geben, hat die Inferno Heavy Missile seither eine Reihe technischer Upgrades durchlaufen. Die neueste Version hat eine leichtere Sprengladung als das Original, aber stark verbesserte Lenksysteme.\n\n\n\nEine modifizierte Version der Inferno Heavy Missile. Verursacht größeren Schaden als die Vorgängermunition. Die Unberechenbarkeit des Sprengkopfs und das leistungsstarke Abschirmsystem verringern jedoch sowohl Flugzeit als auch Genauigkeit.",
+    "en": "Originally designed as a 'finisher' - the killing blow to a crippled ship - the Inferno heavy missile has since gone through various technological upgrades. The latest version has a lighter payload than the original, but much improved guidance systems.\r\n\r\nA modified version of the Inferno heavy missile. Does more damage than its predecessor but the volatile nature of the warhead, and its powerful containment system, reduce both flight time and precision.",
+    "es": "Diseñado originalmente como «rematador», encargado de dar el golpe de gracia a las naves atacadas, el misil pesado Inferno ha sido sometido desde entonces a varias mejoras tecnológicas. La última versión tiene una carga útil más ligera que la original, pero unos sistemas de guiado mucho más optimizados.\n\nVersión modificada del misil pesado Inferno. Inflige más daño que su predecesor, pero la naturaleza volátil de la ojiva y su potente sistema de contención reducen tanto el tiempo de vuelo como la precisión.",
+    "fr": "Conçu à l'origine pour donner le coup de grâce, le missile lourd Inferno a depuis subi de nombreuses améliorations techniques. La dernière version emporte une charge utile réduite par rapport à l'originale, mais est dotée de systèmes de guidage améliorés.\n\nVersion modifiée du missile lourd Inferno. Il inflige davantage de dégâts que son prédécesseur, mais la nature explosive de l'ogive, combinée à son puissant système de confinement, réduit à la fois le temps de vol et la précision.",
+    "ja": "元々「フィニッシャー」――大破した船にとどめを刺す兵器として設計されたインフェルノヘビーミサイルは、以来各種の技術改良を経てきた。現行型は初期型より軽い弾頭を採用しているが、それを補って余りある優れた誘導システムを持つ。\n\nインフェルノヘビーミサイルの改良版。従来型より与えるダメージは高いが、不安定な物質を使った弾頭と強化封じ込めシステムのせいで、飛行時間や精度は劣る。",
+    "ko": "마무리 일격을 가하는 미사일입니다. 인페르노 헤비 미사일은 기술적인 면에서 끊임없는 개량을 거쳐왔습니다. 가장 최신식의 인페르노 미사일은 기존의 형태에 비해 파괴력이 약화되었지만 유도 시스템의 성능이 눈에 띄게 상승했습니다. <br><br>개량된 인페르노 헤비 미사일입니다. 기존 버전보다 파괴력은 뛰어나지만 낮은 탄두 안정성과 고성능 격납시스템의 탑재로 인해 사거리 및 정확도는 상대적으로 떨어집니다.",
+    "ru": "Тяжелая ракета Inferno изначально была спроектирована как «оружие последнего удара» для уничтожения подбитых кораблей. С тех пор было выпущено несколько ее модификаций. В последней модификации используется заряд меньшей мощности, но более совершенная система наведения. \n\nМодифицированная версия тяжелой ракеты Inferno. Обладает более значительным разрушительным действием, чем базовая модель, но при этом имеет меньшую дальность полета и пониженную эффективность ввиду низкой стабильности боеголовки.",
+    "zh": "炼狱重型导弹历经多种技术改良，原本被设计为给予落魄敌舰最后一击的“终结者”角色。相比原型，最新版导弹载荷较轻，但装配了大幅改进的制导系统。这是炼狱重型导弹的一种改良版本，相比其前身具备更强的伤害力，但由于其强大的密封系统及高度不稳定性，飞行时间和准确性都有所降低。"
+  },
+  "graphicID": 20048,
+  "groupID": 655,
+  "iconID": 188,
+  "marketGroupID": 926,
+  "mass": 1000.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Inferno Fury Heavy Missile",
     "en": "Inferno Fury Heavy Missile",
@@ -10,5 +26,9 @@
     "ru": "Inferno Fury Heavy Missile",
     "zh": "炼狱愤怒重型导弹"
   },
+  "portionSize": 5000,
+  "published": true,
+  "radius": 300.0,
+  "variationParentTypeID": 208,
   "volume": 0.03
 }

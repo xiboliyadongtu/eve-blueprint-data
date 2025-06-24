@@ -1,5 +1,16 @@
 {
-  "typeID": 76307,
+  "description": {
+    "de": "Diese Boombox hat eine generische Wiedergabeliste, die für jeden Dungeon verwendet werden kann, der sich nicht in einer der folgenden Kategorien befindet: Hacking, Bergbau betreiben, Kampf, Erkundung oder Agent.",
+    "en": "This boombox has a generic playlist that can be used for any dungeon that is not in one of the following categories: hacking, mining, combat, exploration or agent.",
+    "es": "Este radiocasete tiene una lista de reproducción genérica que se puede usar para cualquier mazmorra que no esté en una de las siguientes categorías: hackeo, minería, combate, exploración o agente.",
+    "fr": "Ce lecteur contient une liste de lecture générique qui peut être utilisée pour tout donjon qui n'appartient pas à l'une des catégories suivantes : piratage, extraction minière, combat, exploration ou agent.",
+    "ja": "この音楽再生デバイスには、次のカテゴリーに含まれないダンジョンで使用できる汎用プレイリストが含まれている：ハッキング、採掘、戦闘、探検、エージェント",
+    "ko": "해킹, 채굴, 전투, 탐사, 에이전트 이외의 모든 사이트에서 사이트 배경음악을 재생할 수 있는 붐박스입니다.",
+    "ru": "В этот переносной проигрыватель загружены композиции, которые можно слушать в любом подземелье, кроме районов взлома, районов поиска, горячих точек и локаций агентов.",
+    "zh": "音箱内置了通用播放列表，可在除以下类别外的所有空间中使用：破译、采矿、战斗、探索或代理。"
+  },
+  "graphicID": 10026,
+  "groupID": 227,
   "name": {
     "de": "Generic Fallback Boombox",
     "en": "Generic Fallback Boombox",
@@ -10,5 +21,6 @@
     "ru": "Generic Fallback Boombox",
     "zh": "通用备用音箱"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

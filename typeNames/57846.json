@@ -1,5 +1,16 @@
 {
-  "typeID": 57846,
+  "description": {
+    "de": "Dieses Wohnmodul dient als Heimatbasis für die „EVE Travel Agency“, eine kleine unabhängige Corporation, die Touren und Reiseinformationen für Entdecker in ganz New Eden anbietet. Ihre Nähe zum System New Eden macht sie zu einer praktischen Anlaufstelle für Reisende, die zum EVE-Gate pilgern. Der GalNet-Blog von EVE Travel ist eine Pflichtlektüre für alle Kapselpiloten, die die verschiedenen Sehenswürdigkeiten von New Eden erkunden wollen.",
+    "en": "This habitation module serves as the home base for the \"EVE Travel Agency\", a small independent corporation that provides tours and travel information services to explorers across New Eden. Their proximity to the New Eden system makes them a convenient stopping point for travelers making a pilgrimage to the EVE Gate.\r\n\r\nEVE Travel's GalNet blog is a must-read for all capsuleers seeking to explore New Eden's various sights.",
+    "es": "Este módulo habitacional sirve de base de operaciones para la «Agencia de viajes EVE», una pequeña corporación independiente que ofrece servicios de información turística y de viajes a los exploradores de Nuevo Edén. Su proximidad al sistema de Nuevo Edén lo convierte en una parada muy práctica para los viajeros que peregrinan al Portal de EVE.\n\nEl blog GalNet de la agencia de viajes de EVE es una lectura obligada para todos los capsulistas que buscan explorar los diversos rincones de interés de Nuevo Edén.",
+    "fr": "Ce module d’habitation sert de base à l’Agence de voyage d’EVE, une petite corporation indépendante proposant des visites guidées et informations de voyage aux explorateurs de tout New Eden. Sa proximité avec le système New Eden en fait une escale bien placée pour les voyageurs en pèlerinage vers l’EVE Gate. Le blog d’EVE Travel sur le GalNet est une lecture incontournable pour tous les capsuliers cherchant à explorer les différents sites et monuments de New Eden.",
+    "ja": "この居住施設は、ニューエデンを飛び回る探検家向けにツアーや移動情報サービスを提供している小規模なインディペンデント企業「EVEトラベルエージェンシー」の本拠地である。ニューエデンシステムに近いため、EVE Gateへの巡礼を行う旅行者にとっては格好の滞在場所となっている。\n\n\n\nEVEトラベルのGalNetブログは、ニューエデンの様々な景勝地を探検してみたいと思っている全てのカプセラにとって必見である。",
+    "ko": "\"EVE 여행사\"는 소규모 독립 법인으로 뉴에덴을 여행하는 캡슐리어들을 위한 관광 가이드를 제공합니다. 뉴에덴 항성계 주변에 위치해 있기 때문에 EVE 게이트로 향하는 여행자들이 주로 방문합니다. EVE Travel에서 운영하는 갤넷 블로그를 참고하면 여러 관광 명소에 관한 정보를 얻을 수 있습니다.",
+    "ru": "Этот жилой модуль служит основной базой для «Туристического агентства EVE» — небольшой независимой корпорации, которая организовывает туры и предоставляет информацию о маршрутах Нового Эдема. Поскольку база располагается совсем недалеко от кластера Новый Эдем, здесь частенько останавливаются путешественники, держащие курс на Врата EVE. Каждый капсулёр, желающий полюбоваться на достопримечательности Нового Эдема, просто обязан ознакомиться с блогом агентства в сети GalNet.",
+    "zh": "这座居住设施是“新伊甸旅行社”的基地。新伊甸旅行社是一个向宇宙中的探险者们提供旅行信息服务的小型军团。由于靠近新伊甸星系，这里是前往EVE之门进行朝圣之旅的旅行者们的理想落脚点。\n\n\n\n对于想要探索宇宙中的风景的飞行员来说，EVE旅行家博客不可不读。"
+  },
+  "graphicID": 2515,
+  "groupID": 226,
   "name": {
     "de": "EVE Travel Agency",
     "en": "EVE Travel Agency",
@@ -10,5 +21,9 @@
     "ru": "EVE Travel Agency",
     "zh": "新伊甸旅行社"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 300.0,
+  "sofFactionName": "genericliving"
 }

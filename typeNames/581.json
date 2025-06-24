@@ -1,5 +1,19 @@
 {
-  "typeID": 581,
+  "description": {
+    "de": "Verwendet fortschrittliche gravitative und optische Zielsysteme, um Bedrohungen zu identifizieren. Ermöglicht eine Zielaufschaltung, ohne das anvisierte Schiff auf eine mögliche Bedrohung aufmerksam zu machen.",
+    "en": "Uses advanced gravitational and visual targeting to identify threats. Allows target lock without alerting the ship to a possible threat.",
+    "es": "Se sirve de una adquisición de objetivos gravitacional y visual avanzada para identificar enemigos. Permite fijar el objetivo sin alertar a la nave de una posible amenaza.",
+    "fr": "Utilise un système de ciblage gravitationnel et visuel avancé pour identifier les menaces. Permet de verrouiller une cible sans que cette dernière ne s'en rende compte.",
+    "ja": "高性能な引力および視覚的手段によって敵を探知するターゲットシステム。相手に気付かれることなくターゲットロックすることができる。",
+    "ko": "중력 감지 및 광학 타겟팅을 사용하여 위협을 감지합니다. 대상 함선에게 발각되지 않고 타겟팅을 할 수 있습니다.",
+    "ru": "Использует усовершенствованные системы гравитационной и визуальной идентификации противника. Позволяет захватывать корабль в прицел, не оповещая его пилота о возможной угрозе.",
+    "zh": "使用先进的重力和视觉锁定技术来识别威胁性目标。可以锁定目标而不引起对方警觉。"
+  },
+  "groupID": 82,
+  "iconID": 26724,
+  "marketGroupID": 672,
+  "mass": 2000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Passive Targeter I",
     "en": "Passive Targeter I",
@@ -10,5 +24,7 @@
     "ru": "Passive Targeter I",
     "zh": "被动锁定器 I"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 25.0
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 18644,
+  "description": {
+    "de": "Diese Zutrittskarte wird nur den Außendienstmitarbeitern der Guristas ausgehändigt, die sich den Zutritt zum Spielerparadies im Rekreationszentrum der Guristas verdient haben. Das Beschleunigungstor bleibt eine kurze Zeit aktiviert und die Karte wird entwertet, nachdem die Kartendaten in den Aktivierungsmechanismus des Tores eingelesen worden sind.",
+    "en": "This passcard is handed out to Guristas operatives that have earned access to the gambler's paradise in the guristas reinvigoration camp. The gate will remain open for a short period of time and the card will be rendered useless after uploading the card's data to the gate's activation device.",
+    "es": "Este pase de seguridad se entrega a los operarios guristas que han conseguido acceso al paraíso de los apostadores en el campamento de revigorización gurista. El portal permanecerá abierto durante un breve periodo de tiempo y el pase dejará de ser útil tras cargar los datos en el dispositivo de activación del portal.",
+    "fr": "Ce passe d'accès est attribué aux agents guristas qui ont mérité d'accéder au paradis des joueurs dans le camp de remise en forme guristas. Ce portail restera ouvert quelques instants et la carte d'accès deviendra inutilisable une fois les informations de la carte envoyées vers le dispositif d'activation du portail.",
+    "ja": "ガリスタスの工作員に支給されているパスカードで、ガリスタスレクリエーションキャンプ内のカジノに入れる。ゲートが開くのは短時間で、起動デバイスにデータをアップロードした後、そのカードを再度使用することはできない。",
+    "ko": "휴양기지에 위치한 도박꾼의 낙원으로 입장 허가를 얻은 구리스타스 대원의 주말 외출증입니다. 데이터 입력 시 짧은 시간 동안 게이트가 활성화되며 이후 외출증은 자동 파기됩니다.",
+    "ru": "Этот пропуск выдаётся работникам Gurista, получившим доступ в рай игроков в лагере досуга. После загрузки данных в устройство активации ключ приходит в негодность, а врата на короткое время остаются открытыми.",
+    "zh": "这种通行卡分发给一些古斯塔斯特工，藉此能够进入古斯塔斯复兴营地里的赌徒天堂。轨道的打开状态会持续一小段时间。通行卡在将卡上数据上传到加速装置之后，就会失效。"
+  },
+  "groupID": 474,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "High Roller's Passcard",
     "en": "High Roller's Passcard",
@@ -10,5 +22,7 @@
     "ru": "High Roller's Passcard",
     "zh": "赌徒的通行卡"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 11546,
+  "description": {
+    "de": "Eine giftige Wolke, die Schiffe und Schilde beschädigt.",
+    "en": "A toxic cloud which damages ships and shielding.",
+    "es": "Nube tóxica que corroe naves y escudos.",
+    "fr": "Un nuage toxique qui endommage les vaisseaux et les boucliers.",
+    "ja": "船やシールドにダメージを与える有毒の雲。",
+    "ko": "함선과 실드에 피해를 주는 유독성 성운입니다.",
+    "ru": "Облако токсичного газа, повреждающего корабли и cиловые щиты.",
+    "zh": "这是个毒性云团，能破坏舰船与护盾。"
+  },
+  "graphicID": 1984,
+  "groupID": 335,
+  "iconID": 3225,
   "name": {
     "de": "Mining Pollution Cloud",
     "en": "Mining Pollution Cloud",
@@ -10,5 +22,7 @@
     "ru": "Mining Pollution Cloud",
     "zh": "矿区污染云团"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 5000.0
 }

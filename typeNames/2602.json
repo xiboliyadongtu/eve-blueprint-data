@@ -1,5 +1,18 @@
 {
-  "typeID": 2602,
+  "description": {
+    "de": "Diese großen Container sind mit einem kennwortgeschützten Sicherheitsschloss ausgestattet. Sie enthalten Ersatzteile für einen Bohrer, der sich durch Eis und Felsen hindurcharbeiten kann.",
+    "en": "These large containers are fitted with a password-protected security lock.  These particular containers are filled with spare parts needed to build a drill used for drilling through rock and ice sheets.",
+    "es": "Estos grandes contenedores están equipados con un cierre de seguridad protegido por contraseña. Estos en concreto están llenos de piezas de repuesto necesarias para construir una perforadora que taladre la roca y las capas de hielo.",
+    "fr": "Ces grands conteneurs sont équipés d'un verrou de sécurité protégé par mot de passe.  C'est dans ces conteneurs d'un type particulier que sont stockées les pièces détachées nécessaires à la fabrication des machines de forage utilisées pour percer la roche et les couches de glace.",
+    "ja": "パスワード式ロック機能付きの大型コンテナ。岩や氷床に穴を開けるドリルのスペアパーツでいっぱいだ。",
+    "ko": "암호화된 보안 장치가 장착되어 있는 대형 컨테이너입니다. 암석과 아이스 채굴에 필요한 드릴의 제작 부품이 보관돼있습니다.",
+    "ru": "Эти огромные контейнеры защищены замком с паролем.  Эти контейнеры наполнены запасными частями для постройки бура для сверления пластов породы и льда.",
+    "zh": "这些大型集装箱配备了密码保护安全锁。这些特殊箱子装有制造钻凿岩石和冰层的钻机所需要的零件。"
+  },
+  "graphicID": 1171,
+  "groupID": 314,
+  "iconID": 1171,
+  "mass": 90000.0,
   "name": {
     "de": "Crates of Drill Parts",
     "en": "Crates of Drill Parts",
@@ -10,5 +23,8 @@
     "ru": "Crates of Drill Parts",
     "zh": "装箱的钻机零件"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "genericmetal",
   "volume": 90.0
 }

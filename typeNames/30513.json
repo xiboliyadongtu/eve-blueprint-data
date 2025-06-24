@@ -1,5 +1,18 @@
 {
-  "typeID": 30513,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese geheimnisvolle Struktur ist ganz klar auf die Anwendung im Verbund mit den automatisierten Verteidigungsdrohnen des Sleeper geeicht, denn Sie fungiert als eine der Haupt-Andockstationen. Trotz ihres Alters ist die Einrichtung noch gut in Schuss, weshalb man annehmen kann, dass die Einheimischen sie noch warten.",
+    "en": "Clearly built to serve the needs of the Sleeper's automated defense drones, this ominous structure functions as one of their central docking points. Despite its age, the facility shows few signs of decay, suggesting that it is perhaps maintained by its residents.",
+    "es": "Construida claramente para responder a las necesidades de los drones de defensa automatizados de los Sleepers, esta ominosa estructura actúa como uno de sus puntos centrales de acoplamiento. A pesar de su antigüedad, no exhibe demasiadas señales de deterioro, lo que sugiere que quizá la mantienen los residentes.",
+    "fr": "Clairement conçue pour répondre aux besoins des drones de défense automatisés de Sleeper, cette sinistre structure leur sert de point d'amarrage central. Malgré son âge avancé, elle ne montre que quelques signes d'usure, laissant ainsi penser un certain entretien par ses occupants.",
+    "ja": "自動制御されたスリーパーディフェンスドローンの需要を満たすためにこの構造物が建設されたことは明白であり、主に彼らが使用する入港場所となっている。長い年月を経ているが古びた様子はなく、住人が手入れを怠っていないことが伺える。",
+    "ko": "슬리퍼 자동 방어 드론의 주요 도킹 지점입니다. 오래된 시설이지만 세월의 흔적이 많이 느껴지지 않습니다. 시설의 드론들이 꾸준히 유지보수를 해온듯 합니다.",
+    "ru": "Это сооружение зловещего вида явно построено в целях обслуживания дронов Sleeper. Несмотря на свой почтенный возраст, оно находится в хорошем состоянии; вполне возможно, что сооружение регулярно ремонтируется его обитателями.",
+    "zh": "很明显是用做冬眠者自动化无人机防御系统的一个部分，这个诡异的建筑是它其中的一个中心机库。尽管年代久远，但它受到的损伤和老化并不是很严重，有可能还能用。"
+  },
+  "graphicID": 3585,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Sleeper Drone Hangar",
     "en": "Sleeper Drone Hangar",
@@ -10,5 +23,9 @@
     "ru": "Sleeper Drone Hangar",
     "zh": "冬眠者无人机挂舱"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 3394.0,
+  "sofFactionName": "sleeperbase",
   "volume": 100000000.0
 }

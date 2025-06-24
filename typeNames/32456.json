@@ -1,5 +1,18 @@
 {
-  "typeID": 32456,
+  "capacity": 450.0,
+  "description": {
+    "de": "Nachdem sie aus Sicherheitsgründen unter Vertrag genommen wurden, hat Mordus Legion diese Eskorte zum Schutz der Interessen Ishukones in das Intaki-System gesandt. Dieses Schiff ist auf Wache. Auch wenn es damit beauftragt wurde, den Verkehr in diesem System durchzulassen, wird es sich gegen jegliche Provokationen zur Wehr setzen.",
+    "en": "Contracted for security purposes, Mordu's Legion sent this escort in order to protect the interests of Ishukone in the Intaki system. This ship is on sentry duty. Though it has orders to allow traffic through the system, it will fight back if provoked.",
+    "es": "Por motivos de seguridad, la Legión de Mordu envió a esta escolta para proteger los intereses de Ishukone en el sistema Intaki. A esta nave se le han asignado funciones de centinela. Aunque tiene órdenes de permitir el tráfico a través del sistema, luchará si la provocan.",
+    "fr": "Sous contrat pour des raisons de sécurité, la Mordu's Legion a envoyé cette escorte dans le but de protéger les intérêts d'Ishukone dans le système intaki. Ce vaisseau effectue son devoir de sentinelle. Bien que ses ordres se limitent à la circulation au sein du système, il n'hésitera pas à riposter en cas d'attaque.",
+    "ja": "セキュリティのために契約された護衛艦。インタキシステム内のイシュコネの利益を守るためにモードゥ部隊が派遣した。この船は監視業務中である。システムを通過する交通を許可するよう指示されているが、攻撃を受ければ応戦する。",
+    "ko": "이슈콘과 경호 계약을 맺은 모르두 군단은 이슈콘의 자산을 보호하기 위해 인타키 항성계로 호위함을 보냈습니다. 이 함선은 보초 근무 중입니다. 해당 항성계에 함선들의 통행을 허용하고 있으나, 먼저 싸움을 건다면 반격할 것입니다.",
+    "ru": "Легион Mordu обычно нанимают для обеспечения безопасности. Этот эскорт был послан для охраны интересов корпорации Ishukone в системе Intaki. Этот корабль – патрульный. Несмотря на то, что ему отдан приказ пропускать корабли через систему, он откроет ответный огонь, если его спровоцировать.",
+    "zh": "这艘战舰受到莫德团的委托，奉命保护在印塔基星系中的异株湖集团财产。它是担任岗哨任务的安全防御舰艇。尽管按照指令它也会让一些船通过该星系，但是它任然会向任何挑衅行为发起反击。"
+  },
+  "graphicID": 20614,
+  "groupID": 701,
+  "mass": 9600000.0,
   "name": {
     "de": "Mordus Escort",
     "en": "Mordus Escort",
@@ -10,5 +23,10 @@
     "ru": "Mordus Escort",
     "zh": "莫德团护卫队"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 221.9,
+  "sofFactionName": "mordubase",
   "volume": 96000.0
 }

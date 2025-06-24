@@ -1,5 +1,19 @@
 {
-  "typeID": 84639,
+  "basePrice": 112500000.0,
+  "capacity": 933.0,
+  "description": {
+    "de": "Ein Kopis-Sleeper, vergleichbar mit einem Schlachtschiff. Er demonstriert Neutralisierungsfähigkeiten. Die Verteidigungsprotokolle des uralten Roboter-Beschützers eines untergegangenen Volkes wurden mit Parametern für einen Belagerungskrieg überschrieben.",
+    "en": "A Kopis sleeper, equivalent to a battleship class ship. It demonstrates neutralizer capabilities.\r\n\r\nOnce the ancient robotic protector of a lost people, its guardian protocols have been overwritten with siege warfare parameters.",
+    "es": "Una Kopis sleeper, equivalente a una nave de clase acorazado. Demuestra capacidades de neutralizador.\r\n\r\nAntiguamente era un protector robótico de un pueblo perdido; sus protocolos de protección se han sobrescrito con parámetros de guerra de asedio.",
+    "fr": "Un Kopis sleeper, équivalent à un vaisseau de classe cuirassé. Il présente des capacités de neutralisation. Autrefois protecteur robotique d'un peuple disparu, ses protocoles de gardien ont été remplacés par des paramètres de guerre de siège.",
+    "ja": "戦艦級の同等艦にあたるコピス型スリーパー。ニュートラライザーを使用できることが確認されている。\r\n\r\nもともとは滅びた古代人が使用していた防衛用ロボットだったが、当時の護衛プロトコロルは包囲戦闘用パラメーターで上書きされてしまっている。",
+    "ko": "배틀쉽급 함선과 동급인 코피스 슬리퍼입니다. 적을 파괴하는 데 특화되었습니다.<br><br>지금은 사라진 민족을 수호했던 고대 로봇으로, 탑재된 방어 프로토콜이 공성 프로토콜로 전환되었습니다.",
+    "ru": "Этот корабль Спящих модели Kopis является аналогом линкора и оснащён оборудованием для нейтрализации заряда. Давным-давно этот робот защищал забытый народ, однако позднее его перепрограммировали для ведения осадной войны.",
+    "zh": "一架双刃曲剑级冬眠者，相当于一艘战列舰级舰船。具备中和器的能力。它曾是某个古老失落民族的守护机器人，不过现在它的守护协议已经被会战参数所覆盖。"
+  },
+  "graphicID": 3559,
+  "groupID": 1667,
+  "mass": 63000000.0,
   "name": {
     "de": "Enervating Kopis",
     "en": "Enervating Kopis",
@@ -10,5 +24,10 @@
     "ru": "Enervating Kopis",
     "zh": "双刃曲剑级萎靡者"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 400.0,
+  "sofFactionName": "sleeperbase",
+  "soundID": 12,
   "volume": 495000.0
 }

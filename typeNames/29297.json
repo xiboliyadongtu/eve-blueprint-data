@@ -1,5 +1,17 @@
 {
-  "typeID": 29297,
+  "description": {
+    "de": "Dieses Signalfeuer markiert eine kleine militärische Position. Das Eingangstor ist wahrscheinlich so konfiguriert, dass Fregatten und Zerstörer vom Typ Tech I und Tech II passieren können. Die in diesem Beschleunigungstor installierten Sicherheitsfunktionen verhindern die Aktivierung durch alle mit Warpkern-Stabilisatormodulen ausgestatteten Schiffe.",
+    "en": "This beacon marks a small military location. The entry gate is likely configured to admit Tech I frigates, Tech II frigates, Tech I destroyers and Tech II destroyers.\r\nThe security features installed in this acceleration gate will prevent activation by any ship that is fitted with warp core stabilizer modules.",
+    "es": "Esta baliza marca una pequeña sede militar. Es probable que el portal de entrada esté configurado para admitir fragatas T1, T2, destructores T1 y destructores T2.\n\nLas funciones de seguridad instaladas en este portal de aceleración impiden que lo active ninguna nave con módulos estabilizadores del núcleo de warp.",
+    "fr": "Cette balise indique un petit emplacement militaire. Le portail d'entrée est probablement configuré pour accepter les frégates Tech I et Tech II, ainsi que les destroyers Tech I et Tech II. Les fonctions de sécurité installées sur cette porte d'accélération empêchent tout vaisseau équipé de modules de stabilisateur du réacteur de warp de l'activer.",
+    "ja": "このビーコンは小型の軍事設備の位置を示す。このエントリーゲートは、T1フリゲート、T2フリゲート、T1駆逐艦、T2駆逐艦が通過できる設定になっているようだ。\r\nこの加速ゲートに設置されたセキュリティ機能は、ワープコア制御モジュールを装備した艦船が起動するのを防ぐ。",
+    "ko": "소규모 군사 지역의 위치를 표시하고 있습니다. 테크 I 프리깃, 테크 II 프리깃, 테크 I 디스트로이어, 테크 II 디스트로이어만 입장할 수 있습니다. <br><br>보안 규정에 따라 워프 코어 스태빌라이저 모듈을 탑재한 함선은 입장이 불가능합니다.",
+    "ru": "Этот маяк обозначает небольшую зону боевых действий. Конфигурация врат, вероятнее всего, рассчитана на фрегаты первого и второго техноуровня и эсминцы первого и второго техноуровня. Система безопасности не позволяет активировать эти разгонные врата кораблям, оснащённым модулями стабилизации варп-ядра.",
+    "zh": "这个信标标记着一个小型的军事设施。入口通道似乎被设定为允许一级科技和二级科技的护卫舰和驱逐舰进入。\n\n安装在这个加速轨道中的安全设备会阻止任何舰船使用装配的跃迁核心稳定器。"
+  },
+  "graphicID": 1211,
+  "groupID": 310,
+  "mass": 1.0,
   "name": {
     "de": "Small Military Beacon",
     "en": "Small Military Beacon",
@@ -10,5 +22,10 @@
     "ru": "Small Military Beacon",
     "zh": "小型军事信标"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 30000.0,
+  "sofFactionName": "genericbase",
   "volume": 1.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 12244,
+  "capacity": 900.0,
+  "description": {
+    "de": "Dies ist ein Begleitschiff einer größeren Universität. Diese Schiffe sind ungewöhnlich gut bewaffnet und begleiten normalerweise Personentransporte. Sie können sich als recht gefährlich erweisen, da sie darauf ausgelegt sind, Piraten in Gebieten mit niedriger Sicherheit abzuwehren.\r\n\r\nBedrohungsstufe: Tödlich",
+    "en": "This is an escort ship for a major university.  These ships are usually well equipped, and are normally used for escorting personelle transports.  They can prove to be quite dangerous as they are designed to fend off pirates in low secure space. Threat level: Deadly",
+    "es": "Nave de escolta para una universidad principal. Estas naves suelen estar bien equipadas y normalmente se usan para escoltar transporte personal. Pueden ser bastante peligrosas, pues están diseñadas para repeler a los piratas en un espacio de seguridad baja. Nivel de amenaza: letal.",
+    "fr": "Il s'agit d'un vaisseau d'escorte pour une grande université.  Ces vaisseaux sont généralement bien équipés et servent généralement à escorter des transports de personnel.  Ils peuvent être dangereux car ils sont conçus pour repousser les pirates dans des zones de basse sécurité. Niveau de menace : mortel",
+    "ja": "一流大学の護衛艦。充分に武装していることが多く、大学職員の輸送船を護送する。ローセキュリティ宙域で海賊を撃退するように設計されているため、かなり危険な船。危険度:致命的",
+    "ko": "주요 대학에서 운용하는 호위함입니다. 중무장된 함선으로 호위 임무를 주로 담당합니다. 로우 시큐리티 지역에서 해적들을 몰아내는데 매우 효과적입니다. 위험도: 치명적",
+    "ru": "Это корабль охраны, принадлежащий крупному университету. Эти корабли, как правило, хорошо оснащены, и обычно, используются в качестве транспортных судов для персонала. Они могут оказаться довольно опасными, так как специально созданы для того, чтобы отбиваться от пиратов в пограничном пространстве. Уровень опасности: смертельный",
+    "zh": "这是一所重要大学的护卫船。这些飞船装备精良，通常用于人员运输。该船在被设计为可以在低安全空间击退海盗，因此绝不要低估它。威胁等级：致命的"
+  },
+  "graphicID": 1056,
+  "groupID": 817,
+  "mass": 10100000.0,
   "name": {
     "de": "University Escort Ship",
     "en": "University Escort Ship",
@@ -10,5 +23,10 @@
     "ru": "University Escort Ship",
     "zh": "大学护卫船"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 199.86,
+  "sofFactionName": "swat",
+  "soundID": 31,
   "volume": 101000.0
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 364690,
+  "basePrice": 203000.0,
+  "description": {
+    "de": "Skill in der Munitionsverwaltung.\n\n+1 Raketenkapazität pro Skillstufe.",
+    "en": "Skill at ammunition management.\r\n\r\n+1 missile capacity per level.",
+    "es": "Habilidad de gestión de munición.\n\n+1 a la capacidad máxima de misiles por nivel.",
+    "fr": "Compétence de gestion des munitions.\n\n+1 de capacité maximale de missile par niveau.",
+    "it": "Abilità nella gestione delle munizioni.\n\n+1% alla capacità missilistica per livello.",
+    "ja": "弾薬を管理するスキル。\n\nレベル上昇ごとに、ミサイルの装弾量が1増加する。",
+    "ko": "탄약 관리 스킬입니다.<br><br>매 레벨마다 미사일 적재량 +1",
+    "ru": "Навык обращения с боеприпасами.\n\n+1 к количеству носимых ракет на каждый уровень.",
+    "zh": "管理弹药的技能。每升一级，导弹容量+1。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Munitionskapazität: Flaylock-Pistole",
     "en": "Flaylock Pistol Ammo Capacity",
@@ -11,5 +23,6 @@
     "ru": "Количество боеприпасов флэйлок-пистолета",
     "zh": "枪栓手枪弹药容量"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

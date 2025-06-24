@@ -1,5 +1,18 @@
 {
-  "typeID": 26900,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Die Caldari nennen Sie Propagandatürme, während die Gallente den Begriff Freiheitstürme vorziehen. Wie man es auch dreht und wendet, senden diese versteckten Rundfunktürme verstärkte Signale durch das gesamte System, in dem sie sich befinden. Die Netzwerke der Gallente strahlen ihre ihre Kanäle über diese Türme in die Gebiete des Weltraums aus, in denen solche Signale normalerweise verboten sind. Es gibt ein Netzwerk von Relaistürmen, welche ihrem Umsetzerturm ihre Untergrundsignale mittels dieser überlichtschnellen Verbindung übermitteln.",
+    "en": "The Caldari call these propoganda towers, however the Gallente people prefer to call them liberty towers. Whatever their designation these hidden broadcast towers send their amplified signal throughout the system they are located in. The Gallente networks use them to broadcast their channels to areas of space where such signals are usually banned. There are a network of relay towers which utilise the FTL networks to bring their underground signal to the source tower.",
+    "es": "Los caldaris las llaman torres de propaganda, pero los gallentes prefieren llamarlas torres de libertad. Cualquiera que sea su designación, estas torres de transmisión ocultas envían su señal amplificada a través del sistema en el que se encuentran. Las redes gallentes las utilizan para transmitir sus canales a áreas del espacio donde dichas señales normalmente están prohibidas. Hay una red de torres de comunicación que utilizan las redes supralumínicas para llevar su señal subterránea a la torre de origen.",
+    "fr": "Les Caldari les appellent « tours de propagande », mais les Gallente préfèrent utiliser le terme de « tours de la liberté ». Quel que soit leur objectif, ces tours de transmission secrètes émettent un signal amplifié à travers tout le système dans lequel elles se trouvent. Les réseaux gallente les utilisent pour diffuser leurs chaînes dans des zones spatiales où ce type de signal est généralement interdit. Le signal clandestin parvient jusqu'à la tour source grâce à un réseau de tours-relais qui utilise les réseaux PRL.",
+    "ja": "カルダリは広告塔と呼ぶが、ガレンテの民は自由の塔と呼んでいる。名称はどうあれ、これらの秘密の放送塔は増幅された信号を生活圏であるソーラーシステム全域に送信している。ガレンテのネットワークは、これらの塔を利用して、こうした信号の受信が禁じられている地域で番組を放送している。FTLネットワークを使って秘密の信号を送信塔に伝える中継塔のネットワークがあるらしい。",
+    "ko": "칼다리에서 선전 타워, 갈란테에서는 자유의 타워라고 부르는 송수신 타워입니다. 무엇이라 명명되든 관계없이 이 숨겨진 타워는 항성계 전체에 증폭된 신호를 전송하는 역할을 합니다. 갈란테 네트워크에서는 이 송신 타워를 이용하여 방송이 금지된 구역에 자신들의 채널을 방송합니다. 통신중계 타워의 네트워크가 형성되어있기에 FTL 네트워크를 사용하여 숨겨진 신호를 수신하는 것이 가능합니다.",
+    "ru": "Caldari называют их «башнями пропаганды», однако люди Gallente предпочитают называть их «башнями свободы». Эти хитро спрятанные башни охватывают своими передачами всю систему, в которой они находятся. Средства массовой информации Gallente используют их для вещания на те регионы космоса, в которых их деятельность запрещена цензурой. Существует целая сеть релейных башен сверхсветовой связи, снабжающих эти передатчики данными.",
+    "zh": "加达里人把这些称作“宣传塔”，而盖伦特人还是喜欢称之为“自由之塔”。不管它们如何称呼，这些隐蔽的广播塔将经它们放大的信号发送到所在星系内的每个角落。盖伦特网络使用这些塔来将广播发送至那些禁止这类信号的区域。那些区域的中继塔网络会使用超光速网络将地下信号发送至目标塔。"
+  },
+  "graphicID": 2505,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Broadcast Tower",
     "en": "Broadcast Tower",
@@ -10,5 +23,10 @@
     "ru": "Broadcast Tower",
     "zh": "广播塔"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 2636.0,
+  "sofFactionName": "genericbase",
+  "soundID": 20179,
   "volume": 100000000.0
 }

@@ -1,5 +1,22 @@
 {
-  "typeID": 7489,
+  "basePrice": 1976.0,
+  "capacity": 0.5,
+  "description": {
+    "de": "Das Arbeitsprinzip der Partikelblaster ähnelt dem der Railguns, mit dem Unterschied, dass sie eine magnetisch zusammengehaltene Kugel sub-atomarer Partikel verschießen. Kein anderer Geschützturm erreicht die unglaubliche Zerstörungskraft eines Partikelblasters, aber wegen der raschen Zerstreuung des Eindämmungsfeldes hat diese Waffe die schlechteste Reichweite aller Türme\n\n\n\nBenötigt Hybridmunition: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",
+    "en": "Particle blasters operate on a similar principle as the railgun except they fire a magnetically contained ball of subatomic particles. No other turret class can match the sheer destructive power of particle blasters, but due to the rapid dispersion of the containment field, it also has the worst range of all turrets. \r\n\r\nRequires hybrid charge types: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",
+    "es": "Los blásteres de partículas funcionan según un principio similar al del cañón electromagnético, salvo que disparan una bola de partículas subatómicas contenidas magnéticamente. Ninguna otra clase de torreta iguala el enorme poder destructivo de los blásteres de partículas, pero, debido a la rápida dispersión del campo de contención, también tiene el peor alcance de todas las torretas.\n\nRequiere tipos de carga híbrida: antimateria, iridio, hierro, plomo, plutonio, torio, tungsteno, uranio.",
+    "fr": "Les blasters à particules fonctionnent sur le même principe que les canons à rail, à ceci près qu'ils tirent des sphères de particules subatomiques confinées magnétiquement. Aucune autre classe de tourelle n'atteint la puissance destructive des blasters à particules. Néanmoins, en raison de la dispersion rapide du champ de confinement, ils ont aussi la plus mauvaise portée de toutes les tourelles. \n\nRequiert les types de charges hybrides suivants : antimatière, iridium, fer, plomb, plutonium, thorium, tungstène, uranium.",
+    "ja": "粒子ブラスターの動作原理はレールガンとほぼ同じだが、撃ち出す弾は原子を構成する素粒子を磁力で球状に凝縮したものという点が異なる。粒子ブラスターは純粋な破壊力では他のタレット兵器の追随を許さないが、コンテインメントフィールドが急速に崩壊するため、射程はタレット兵器中最短である。\r\n\n装填できるハイブリッド弾のタイプ:アンチマター弾、イリジウム弾、アイアン弾、鉛弾、プルトニウム弾、トリウム弾、タングステン弾、ウラン弾。",
+    "ko": "입자포의 작동 원리는 레일건과 유사하나 자력으로 뭉쳐 놓은 원자구성입자를 발사한다는 점에서 차이점이 존재합니다. 독보적인 수준의 파괴력을 지녔으나 발사 시 자력 필드가 급속도로 흩어지기 때문에 사거리는 매우 짧습니다. <br><br>사용 가능한 하이브리드탄: 반물질탄, 이리듐탄, 강철탄, 납탄, 플루토늄탄, 토륨탄, 텅스텐탄, 우라늄탄.",
+    "ru": "По принципу действия бластеры ничем не отличаются от рейлганов — за тем лишь исключением, что они ведут огонь не снарядами, а сгустками элементарных частиц, удерживаемых вместе магнитным полем. Из всех видов корабельных орудий бластеры являются наиболее мощным — и в то же время наименее дальнобойным, что обусловлено малым временем существования сгустка. \n\n\n\nСтрельба из бластера ведётся гибридными боеприпасами следующих типов: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",
+    "zh": "粒子疾速炮的工作原理与磁轨炮基本一致，不同点在于它们发射的是以磁场约束的亚原子微粒球体。单纯就破坏力而言，没有其他级别的炮台可以比得上粒子疾速炮。但由于炮弹约束力场会快速扩散，所以粒子疾速炮的射程是所有炮台中最短的。使用的混合弹药类型：反物质弹药、铱质弹药、铁质弹药、铅质弹药、锰质弹药、钍质弹药、钨质弹药、钼质弹药。"
+  },
+  "graphicID": 11127,
+  "groupID": 74,
+  "iconID": 376,
+  "marketGroupID": 561,
+  "mass": 500.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Limited Light Electron Blaster I",
     "en": "Limited Light Electron Blaster I",
@@ -10,5 +27,11 @@
     "ru": "Limited Light Electron Blaster I",
     "zh": "有限轻型电子疾速炮 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 10.0,
+  "sofFactionName": "gallentebase",
+  "variationParentTypeID": 562,
   "volume": 5.0
 }

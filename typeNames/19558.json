@@ -1,5 +1,18 @@
 {
-  "typeID": 19558,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieses große Radioteleskop ist mit empfindlichen, aber gleichzeitig auch sehr fortschrittlichen Sensoren ausgestattet. Eine Struktur wie diese hier ist mehr als geeignet, um Überwachungsdaten nahe gelegener Systeme und Konstellationen zu verarbeiten.",
+    "en": "This huge radio telescope contains fragile but advanced sensory equipment. A structure such as this has enormous capabilities in crunching survey data from nearby systems and constellations.",
+    "es": "Este enorme radiotelescopio contiene aparatos sensores tan frágiles como avanzados. Una estructura como esta ofrece excelentes capacidades para la obtención de datos de prospección de los sistemas y constelaciones cercanos.",
+    "fr": "Cet énorme radiotélescope contient des séries de détecteurs perfectionnés, mais très fragiles. Une structure de cette envergure est capable d'ingurgiter d'importantes quantités de données provenant de constellations et de systèmes voisins.",
+    "ja": "大型のテレスコープ。内部には、破損しやすいが高度で高感度の装置が搭載されている。付近のソーラーシステムやコンステレーションを観測してデータを収集する際には、抜群の威力を発揮する。",
+    "ko": "첨단 센서 장비를 갖춘 거대한 전파 텔레스코프입니다. 근방의 항성계와 성좌로부터 수집한 방대한 양의 자료를 처리할 수 있는 능력을 가지고 있습니다.",
+    "ru": "Этот громадный радиотелескоп содержит хрупкое, но при этом весьма совершенное оборудование. Подобные сооружения обладают неимоверными возможностями по обработке исследовательских данных из соседних систем и созвездий.",
+    "zh": "巨大的射电望远镜，装配有脆弱却非常先进的传感设备。这类建筑物所具有的强大性能可以轻易处理来自邻近星系和星座的探测数据。"
+  },
+  "graphicID": 2505,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Angel Radiating Telescope",
     "en": "Angel Radiating Telescope",
@@ -10,5 +23,10 @@
     "ru": "Angel Radiating Telescope",
     "zh": "射电望远镜"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 2636.0,
+  "sofFactionName": "genericbase",
+  "soundID": 20179,
   "volume": 100000000.0
 }

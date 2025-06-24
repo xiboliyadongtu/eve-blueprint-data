@@ -1,5 +1,16 @@
 {
-  "typeID": 29457,
+  "description": {
+    "de": "Ein Zaun.",
+    "en": "A fence.",
+    "es": "Una valla.",
+    "fr": "Clôture.",
+    "ja": "フェンス。",
+    "ko": "울타리입니다.",
+    "ru": "Ограда.",
+    "zh": "防护栏"
+  },
+  "graphicID": 2465,
+  "groupID": 226,
   "name": {
     "de": "Fortified Gallente Fence",
     "en": "Fortified Gallente Fence",
@@ -10,5 +21,9 @@
     "ru": "Fortified Gallente Fence",
     "zh": "强化的盖伦特防护栏"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 350.0,
+  "sofFactionName": "gallentebase"
 }

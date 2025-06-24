@@ -1,5 +1,17 @@
 {
-  "typeID": 366600,
+  "basePrice": 149000.0,
+  "description": {
+    "de": "Skill in der Benutzung von Ionenpistolen. 5% Abzug auf die Ladezeit von Ionenpistolen pro Skillstufe.",
+    "en": "Skill at handling ion pistols.\r\n\r\n5% reduction to ion pistol charge time per level.",
+    "es": "Habilidad de manejo de pistolas iónicas. -5% al tiempo de carga de las pistolas iónicas por nivel.",
+    "fr": "Compétence permettant de manipuler les pistolets à ions. 5 % de réduction du temps de charge du pistolet à ions par niveau.",
+    "it": "Abilità nel maneggiare pistole a ioni. 5% di riduzione del tempo di ricarica della pistola a ioni per livello.",
+    "ja": "イオンピストルを扱うスキル。レベル上昇ごとに、イオンピストルのチャージ時間が5%短縮する。",
+    "ko": "이온 피스톨 운용을 위한 스킬입니다. <br><br>매 레벨마다 이온 권총 충전 시간 5% 감소",
+    "ru": "Навык обращения с ионными пистолетами. 5% снижение времени перезарядки ионных пистолетов на каждый уровень",
+    "zh": "使用离子手枪的技能。每升一级，离子手枪的装填时间缩短5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Bedienung: Ionenpistolen",
     "en": "Ion Pistol Operation",
@@ -11,5 +23,7 @@
     "ru": "Применение ионного пистолета",
     "zh": "离子手枪操作"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

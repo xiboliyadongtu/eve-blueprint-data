@@ -1,5 +1,18 @@
 {
-  "typeID": 34327,
+  "basePrice": 35000000.0,
+  "description": {
+    "de": "Skill zur Bedienung von ORE-Frachtern.",
+    "en": "Skill at operating ORE freighters.",
+    "es": "Habilidad en el manejo de cargueros de ORE.",
+    "fr": "Compétence permettant de manœuvrer des transports de fret ORE.",
+    "ja": "ORE超大型輸送艦を操作するスキル",
+    "ko": "ORE 프레이터 운용을 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на фрейтерах производства Окраинной Рудной Экспедиции.",
+    "zh": "操作外空联合矿业货舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "ORE Freighter",
     "en": "ORE Freighter",
@@ -10,5 +23,8 @@
     "ru": "Фрейтеры ОРЭ",
     "zh": "外空联合矿业货舰操作"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 128,
   "volume": 0.01
 }

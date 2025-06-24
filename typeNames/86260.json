@@ -1,5 +1,18 @@
 {
-  "typeID": 86260,
+  "basePrice": 250000.0,
+  "description": {
+    "de": "Bedienung von Kapselbrecher-Werfern. +5 % auf den maximalen Prozentsatz des pro Sekunde verursachten Ziel-HP-Schadens pro Skillstufe.",
+    "en": "Operation of breacher pod launchers. +5% to the maximum percentage of target HP damaged per second per skill level.",
+    "es": "Funcionamiento de los lanzacápsulas de ataque. +5 % al porcentaje máximo de PV del objetivo dañados por segundo por nivel de habilidad.",
+    "fr": "Utilisation de lanceurs de capsule de brèche. +5 % au pourcentage maximum de PV de dégâts infligés à la cible par seconde et par niveau de compétence.",
+    "ja": "突入ポッドランチャーを操作するためのスキル。スキルレベルが1つ上がるたびに、ターゲットのHPに与える秒間割合ダメージの上限が5%増加する。",
+    "ko": "침투 포드 런처 운용을 위한 스킬입니다. 스킬 레벨당 목표의 내구도 비례 최대 초당 피해량이 5% 증가합니다.",
+    "ru": "Навык управления пусковыми установками внедряющихся капсул. Каждая степень освоения прибавляет 5% к максимуму повреждений, наносимых кораблю-цели в секунду.",
+    "zh": "分裂者级逃生舱发射器操作。每升一级，每秒对目标HP造成的最大百分比伤害提高5%。"
+  },
+  "groupID": 256,
+  "iconID": 33,
+  "marketGroupID": 373,
   "name": {
     "de": "Breacher Pod Launcher Operation",
     "en": "Breacher Pod Launcher Operation",
@@ -10,5 +23,7 @@
     "ru": "Breacher Pod Launcher Operation",
     "zh": "分裂者级逃生舱发射器操作"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

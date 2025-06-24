@@ -1,5 +1,18 @@
 {
-  "typeID": 24565,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieses Sprungtor ist zur Zeit nur vom anderen Ende nutzbar.",
+    "en": "This stargate is currently only usable from the other end.",
+    "es": "Actualmente, solo se puede usar este portal estelar desde el otro lado.",
+    "fr": "Ce portail stellaire n'est actuellement accessible que depuis l'autre extrémité.",
+    "ja": "現在、反対側からの一方通行しかできなくなっているスターゲート。",
+    "ko": "이 스타게이트는 반대편에서만 사용 가능합니다.",
+    "ru": "Эти звездные врата в настоящее время могут быть активированы только с другой стороны.",
+    "zh": "该星门目前只能从另一端进入。"
+  },
+  "graphicID": 235,
+  "groupID": 319,
+  "mass": 1e+35,
   "name": {
     "de": "Stargate - Caldari 1",
     "en": "Stargate - Caldari 1",
@@ -10,5 +23,10 @@
     "ru": "Stargate (Caldari 1)",
     "zh": "星门 - 加达里 1"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 3532.0,
+  "sofFactionName": "caldaribase",
   "volume": 100000000.0
 }

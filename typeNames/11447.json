@@ -1,5 +1,18 @@
 {
-  "typeID": 11447,
+  "basePrice": 15000000.0,
+  "description": {
+    "de": "Fähigkeit und Kenntnisse von Laserphysik und deren Verwendung in der Entwicklung fortschrittlicher Technologie. Wird in erster Linie zur Forschung an Laserwaffen, sowie EM-basierten Lenkwaffen und Smartbombs verwendet. Ermöglicht die Forschung an Laserphysik mit Hilfe eines Forschungsagenten. 1% Reduktion der Fertigungszeit je Skillstufe für alle Gegenstände, die den Skill \"Laser Physics\" erfordern. Voraussetzung für alle Forschungs- und Fertigungsaufträge mit entsprechenden Blaupausen.",
+    "en": "Skill and knowledge of Laser Physics and its use in the development of advanced Technology. \r\n\r\nUsed primarily in the research of Laser weaponry as well as EM based missiles and smartbombs.\r\n\r\nAllows Laser Physics research to be performed with the help of a research agent. 1% reduction in manufacturing time for all items requiring Laser Physics per level.\r\n\r\nNeeded for all research and manufacturing operations on related blueprints.",
+    "es": "Habilidad y conocimientos de física láser y su uso en el desarrollo de tecnología avanzada.\n\nSe usa principalmente en la investigación de armamento láser, además de misiles electromagnéticos y bombas inteligentes.\n\nPermite investigar la física láser con la ayuda de un agente de investigación. Reduce un 1 % el tiempo de fabricación de todos los objetos que requieran física láser por nivel de habilidad.\n\nSe necesita para todas las operaciones de investigación y fabricación de planos relacionados.",
+    "fr": "Compétence et connaissances liées à la physique du rayonnement laser et à son utilisation pour le développement de technologies avancées. Cette compétence sert principalement à la recherche sur les armes lasers mais aussi sur les missiles et les bombes de proximité électromagnétiques. Elle permet de lancer des recherches sur la physique du rayonnement laser avec l'aide d'un agent de recherche. réduit de 1 % le temps de production par niveau pour tous les éléments nécessitant la physique du laser. Nécessaire pour toutes les opérations de recherche et de fabrication sur les plans de construction connexes.",
+    "ja": "レーザー物理学と、それを先端技術の開発に利用するスキルおよび知識。\n\n主にレーザー兵器、またEM系のミサイルとスマートボムの研究に利用される。\n\nリサーチエージェントの助けを借りてレーザー物理学の研究を行うことができる。レベル上昇ごとにレーザー物理学を必要とするすべてのアイテムの製造時間が1%削減。\n\n関連するブループリントを用いる全ての研究および製造作業に必要。",
+    "ko": "첨단 과학기술 분야인 레이저 물리학 스킬입니다. <br><br>레이저 무기 연구에 주로 사용되며 EM 기반 미사일 및 스마트폭탄에도 활용됩니다. <br><br>연구 에이전트의 도움을 받아 레이저 물리학 연구를 시행할 수 있습니다. 매 레벨마다 f레이저 물리학 스킬을 요구하는 모든 항목의 제조 시간 1% 감소 <br><br>관련된 블루프린트가 사용되는 모든 연구 및 제조 과정에 필요한 스킬입니다.",
+    "ru": "Знания в области лазерной физики и навыки их использования для создания передовых технологий. \n\n\n\nЭтот навык преимущественно используется для разработки лазерного оружия, а также ракет и импульсных излучателей с электромагнитной поражающей частью.\n\n\n\nПозволяет проводить научно-исследовательские работы в области лазерной физики с помощью агента научно-исследовательского отдела. Приводит к экономии времени на прогон производства всех предметов, для производства которых необходим этот навык (на 1% за каждую степень освоения навыка).\n\n\n\nИспользуется для исследовательских и производственных операций по соответствующим чертежам.",
+    "zh": "理解激光物理学及其在高科技开发中应用的技能。 \n\n主要用于激光武器、电磁类导弹和立体炸弹的研究。\n\n可以在研究代理人的帮助下进行激光物理学研究。每升一级，所有需要激光物理学技能的物品的生产时间减少1%。\n\n这是相关蓝图研究和制造的必需技能。"
+  },
+  "groupID": 270,
+  "iconID": 33,
+  "marketGroupID": 375,
   "name": {
     "de": "Laser Physics",
     "en": "Laser Physics",
@@ -10,5 +23,8 @@
     "ru": "Лазерная физика",
     "zh": "激光物理学"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

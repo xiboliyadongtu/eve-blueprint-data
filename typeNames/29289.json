@@ -1,5 +1,18 @@
 {
-  "typeID": 29289,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Mit der richtigen Bergungsausrüstung könnte man wohl doch noch etwas Wertvolles aus diesem alten Wrack holen.",
+    "en": "You surmise that with some salvaging equipment there is still something of value to be had from this old wreck.",
+    "es": "Con algo de equipo de recuperación, quizá aún pueda sacarse algo de valor de estos viejos restos.",
+    "fr": "Vous estimez qu'avec du bon matériel de récupération, on pourrait tirer quelque chose de cette épave.",
+    "ja": "なんらかのサルベージ装置があれば、まだ、この古びた残骸に価値を見いだせるかもしれない。",
+    "ko": "샐비지 장비로 잔해에서 부품이나 자원을 획득할 수 있습니다.",
+    "ru": "Вы думаете, что с помощью специального демонтажного оборудования из остова корабля можно будет извлечь что-то полезное.",
+    "zh": "你估计如果使用某种打捞设备，或许还能从这些残骸中获得些有价值的东西。"
+  },
+  "graphicID": 3115,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Zainou Biotech Convoy Wreck",
     "en": "Zainou Biotech Convoy Wreck",
@@ -10,5 +23,9 @@
     "ru": "Zainou Biotech Convoy Wreck",
     "zh": "载诺生化科技舰残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

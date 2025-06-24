@@ -1,5 +1,18 @@
 {
-  "typeID": 24312,
+  "basePrice": 550000000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Caldari-Trägerschiffen.",
+    "en": "Skill at operating Caldari carriers.",
+    "es": "Habilidad en el manejo de portanaves caldaris.",
+    "fr": "Compétence liée à l'utilisation des porte-vaisseaux caldari.",
+    "ja": "カルダリの艦載機母艦を操作するスキル。",
+    "ko": "칼다리 캐리어를 운용하기 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на кораблях автономного развёртывания производства Государства Калдари.",
+    "zh": "操作加达里航空母舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Caldari Carrier",
     "en": "Caldari Carrier",
@@ -10,5 +23,8 @@
     "ru": "Калдарские КАРы",
     "zh": "加达里航空母舰操作"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
   "volume": 0.01
 }

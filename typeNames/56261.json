@@ -1,5 +1,17 @@
 {
-  "typeID": 56261,
+  "description": {
+    "de": "Dies ist ein nicht verbundenes Sprungtor der Minmatar, das durch die Manipulation des Sonnensystems, zu dem das Tor einst führte, durch das Triglavia-Kollektiv gestört wurde. Das gestörte Tor ist jetzt ein Navigationsrisiko und Versuche, es für interstellare Reisen zu nutzen, schlagen fehl.",
+    "en": "This is a disconnected Minmatar stargate disrupted by the Triglavian Collective's manipulation of the star system to which it once led. The disrupted gate is now a navigation hazard and attempts to use it for interstellar travel will fail.",
+    "es": "Este portal estelar minmatariano quedó inservible tras la manipulación que el Colectivo Triglaviano hizo del sistema estelar al que conducía. Ahora supone un peligro para la navegación, y cualquier esfuerzo por reactivarlo para hacer viajes interestelares será en vano.",
+    "fr": "Il s'agit d'un portail stellaire minmatar déconnecté qui a été perturbé par le Collectif Triglavian lorsque ce dernier a manipulé un système stellaire vers sa direction. Le portail désactivé est maintenant un danger pour la navigation et toute tentative de l'utiliser pour un voyage interstellaire sera vouée à l'échec.",
+    "ja": "接続が切れたミンマタースターゲート。接続先だった星系がトリグラビアンコレクティブによって操作されたため、現在は不通になっている。接続が切れたゲートは航行の妨げとなっており、惑星間の移動には使用できない。",
+    "ko": "트리글라비안 항성계 교란으로 인해 비활성화된 민마타 스타게이트입니다. 해당 게이트는 위험 지역으로 분류되었으며 더 이상 성간 이동을 지원하지 않습니다.",
+    "ru": "Это отключённые минматарские звёздные врата, выведенные из строя действиями Триглава в системе, в которую они прежде вели. Нестабильные гиперврата представляют собой навигационное препятствие, и любые попытки использовать их для межзвёздного перемещения обречены на провал.",
+    "zh": "这是一座米玛塔尔星门，不过在三神裔的干扰下已经失去了之前曾与其他星系的连接。受干扰的星门现在就像一块拦路石，之前途径此地的星际航线将不再有效。"
+  },
+  "graphicID": 24653,
+  "groupID": 4081,
+  "mass": 100000000000.0,
   "name": {
     "de": "Disrupted Gate (Minmatar Constellation)",
     "en": "Disrupted Gate (Minmatar Constellation)",
@@ -10,5 +22,10 @@
     "ru": "Disrupted Gate (Minmatar Constellation)",
     "zh": "受干扰的星门 (米玛塔尔星座)"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 12915.0,
+  "sofFactionName": "minmatarbase",
   "volume": 10000000.0
 }

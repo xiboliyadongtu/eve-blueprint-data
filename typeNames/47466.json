@@ -1,5 +1,98 @@
 {
-  "typeID": 47466,
+  "basePrice": 6.0,
+  "capacity": 1200.0,
+  "description": {
+    "de": "<i>„Die Form bestimmt das Handeln. Das Denken bestimmt die Form. Wir haben eingehend über die Gestalt der Zukunft nachgedacht. Die Formen wurden geschaffen und jetzt ist die Zeit des Handelns gekommen.“</i> – Ältester und Mentor Matshi Raish, Kapitel Geminate, Society of Conscious Thought, YC 120.05.06. Das Schlachtschiff der Praxis-Klasse ist ein neues Design der SoCT, das Prinzipien der Jove-Schiffsbautechniken nutzt, die den Schiffsbauingenieuren der Society kürzlich zugänglich gemacht wurden. Die Praxis wurde entworfen und gebaut, um die aufkeimenden Bedrohungen in New Eden zu bekämpfen. Diese nehmen im Jahr YC 120 und darüber hinaus weiter zu. Im 15. Jahr seit Beginn der Kapselpilotenära hat die Society die Praxis für alle unabhängigen Kapselpiloten verfügbar gemacht.",
+    "en": "<i>\"Action follows form. Form follows thought. We have thought deeply on the shape of the future. The forms have been established and now is the time to act.\"</i> – Elder Mentor Matshi Raish, Geminate Chapter, Society of Conscious Thought, YC120.05.06.\r\n\r\nThe Praxis-class battleship is a new SoCT design that uses principles derived from Jove shipbuilding techniques recently made available to the Society's naval architects. The Praxis was designed and constructed to combat the emergent threats to New Eden, as they continue to increase in YC120 and beyond.\r\n\r\nIn the 15th year since the dawn of the Capsuleer Era, the Society made the Praxis available to all independent capsuleers.",
+    "es": "<i>«La acción viene después de la forma. La forma viene del pensamiento. Hemos reflexionado profundamente en la forma del futuro. Las formas están pautadas, y ha llegado la hora de actuar».</i> — Ilustre mentor Matshi Raish, capítulo Geminate, Círculo del Pensamiento Consciente, 06-05-120 CY.\n\n\n\nEl acorazado de clase Praxis es un nuevo diseño de CPC basado en los principios derivados de las técnicas de construcción jovianas que desde hace poco están a disposición de los arquitectos navales del Círculo. El Praxis fue diseñado y construido para combatir las amenazas emergentes contra Nuevo Edén, que desde el 120 CY no paran de aumentar.\n\n\n\nAl decimoquinto año del inicio de la Era Capsulista, el Círculo ofreció la Praxis a todos los capsulistas independientes.",
+    "fr": "<i>« L'action suit la forme. La forme suit la pensée. Nous avons mûrement réfléchi à la forme de l'avenir. Les formes ont été établies et il est temps à présent d'agir. »</i> Ancien mentor Matshi Raish, Chapitre Geminate, Society of Conscious Thought, YC 120.06.05. Le cuirassé de classe Praxis est une nouvelle conception de la SoCT, basé sur des principes dérivés de techniques de construction de vaisseau Jove et mis récemment à la disposition des architectes navals de la Society. Le Praxis est conçu pour combattre les nouvelles menaces contre New Eden qui ne cessent d'augmenter en YC 120 et au-delà. Pour le 15e anniversaire de l'avènement de l'ère des capsuliers, la Society a rendu le Praxis disponible à tous les capsuliers indépendants.",
+    "ja": "<i>「行動には形が続く。形には思想が続く。我々は未来の形状について深く思索を巡らせた。形は完成し、今や行動の時である」</i> – 上級メンター マツシ・ライシュ、ジェミネイトの章、コンシャスソウト学会、YC120.05.06.\r\n\nプラクシス級戦艦は新たなコンシャスソウト学会デザインで、近年学会の海軍造船技術者にも利用可能になったジョビの建造技術が応用されている。プラクシスは急速に高まるニューエデンへの脅威に対抗するために設計、建造され、この脅威はYC120年以降も増大を続けた。\r\n\nカプセラ時代の夜明けから15年目に学会は全ての独立カプセラに対してプラクシスの提供を開始した。",
+    "ko": "<i>\"행동은 형식을 따르며 형식은 생각을 따른다. 우리는 미래의 형태를 어떻게 그려가야 할지에 대해 깊게 생각해보았다. 형식은 확립이 되었고 이제는 행동할 때이다.\"</i> <br><br>프락시스급 배틀쉽은 깨어있는 자들의 사회의 새로운 함선으로 최근 습득한 조브의 함선 제작 기술을 차용하여 제작하였습니다. YC 120년부터 꾸준히 뉴에덴에 증가하는 위협에 대응하기 위해 설계 및 제작이 이루어졌습니다. <br><br>캡슐리어의 시대가 열린 지 15년이 되던 해, 깨어있는 자들의 사회는 독자적으로 활동하는 모든 캡슐리어들에게 프락시스 사용을 허용했습니다.",
+    "ru": "<i>«Форма порождает действия. Мысль порождает форму. У нас было много мыслей о будущем. Формы определены — настало время действий».</i> (старший наставник Мэтси Рэис, парная глава, «Общество осознанно мыслящих», 05.06.120 от ю. с.) Линкор класса «Праксис» — новейшая разработка ООМ, основанная на принципах кораблестроения Джовианской Империи, недавно ставших доступными конструкторам «Общества». «Праксис» создавался специально для противодействия новым угрозам, бесконечно возникающим начиная с 120 года. Спустя 15 лет после рассвета эпохи капсулёров ООМ сделало «Праксис» доступным для всех независимых пилотов.",
+    "zh": "<i>“动随形，形随意。吾辈常意之高远，今其形已现，当随之而动”</i> – 马许·拉什长老，理性思维社团，YC120.05.06。\n\n\n\n实践级战列舰是理性思维社团是其海军工程师用从最近获得的朱庇特造船技术中提取的理念打造的全新舰船。实践级被设计用于对抗新伊甸不断受到的威胁，而这种威胁在YC120年有愈演愈烈的态势。\n\n\n\n在克隆飞行员时代到来十五周年之际，理性思维社团向所有独立克隆飞行员开放了这款舰船。"
+  },
+  "factionID": 500017,
+  "graphicID": 22070,
+  "groupID": 27,
+  "marketGroupID": 1620,
+  "mass": 87000000.0,
+  "masteries": {
+    "0": [
+      96,
+      65,
+      99,
+      69,
+      104,
+      73,
+      138,
+      139,
+      77,
+      85,
+      150,
+      89,
+      133
+    ],
+    "1": [
+      96,
+      65,
+      99,
+      69,
+      104,
+      73,
+      138,
+      139,
+      77,
+      85,
+      150,
+      89,
+      133
+    ],
+    "2": [
+      96,
+      65,
+      99,
+      69,
+      104,
+      73,
+      138,
+      139,
+      77,
+      85,
+      150,
+      89,
+      133
+    ],
+    "3": [
+      96,
+      65,
+      99,
+      69,
+      104,
+      73,
+      138,
+      139,
+      77,
+      85,
+      150,
+      89,
+      133
+    ],
+    "4": [
+      96,
+      65,
+      99,
+      69,
+      104,
+      73,
+      138,
+      139,
+      77,
+      85,
+      150,
+      89,
+      133
+    ]
+  },
   "name": {
     "de": "Praxis",
     "en": "Praxis",
@@ -9,6 +102,78 @@
     "ko": "프락시스",
     "ru": "Praxis",
     "zh": "实践级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 16,
+  "radius": 400.0,
+  "sofFactionName": "soctbase",
+  "soundID": 20824,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 25.0,
+        "bonusText": {
+          "de": "Bonus auf den Schaden durch <a href=showinfo:3307>Große Hybridgeschütztürme</a>, <a href=showinfo:3309>Große Energiegeschütztürme</a> und <a href=showinfo:3308>Große Projektilgeschütztürme</a>",
+          "en": "bonus to <a href=showinfo:3307>Large Hybrid Turret</a>, <a href=showinfo:3309>Large Energy Turret</a> and <a href=showinfo:3308>Large Projectile Turret</a> damage",
+          "es": "de bonificación al daño de la <a href=showinfo:3307>torreta híbrida grande</a>, la <a href=showinfo:3309>torreta de energía grande</a> y la <a href=showinfo:3308>torreta de proyectiles grande</a>.",
+          "fr": "de bonus aux dégâts des <a href=showinfo:3307>grandes tourelles hybrides</a>, des <a href=showinfo:3309>grandes tourelles à énergie</a> et des <a href=showinfo:3308>grandes tourelles à projectiles</a>",
+          "ja": "<a href=showinfo:3307>大型ハイブリッドタレット</a>、<a href=showinfo:3309>大型エネルギータレット</a>、<a href=showinfo:3308>大型実体弾タレット</a>のダメージにボーナス",
+          "ko": "<a href=showinfo:3307>대형 하이브리드 터렛</a>, <a href=showinfo:3309>대형 에너지 터렛</a> 및 <a href=showinfo:3308>대형 발사체 터렛</a> 피해량 증가",
+          "ru": "бонус к урону от <a href=showinfo:3307>больших гибридных турелей</a>, <a href=showinfo:3309>больших энергетических турелей</a> и <a href=showinfo:3308>больших баллистических турелей</a>",
+          "zh": "<a href=showinfo:3307>大型混合炮台</a>、<a href=showinfo:3309>大型能量炮台</a>和<a href=showinfo:3308>大型射弹炮台</a>伤害加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 25.0,
+        "bonusText": {
+          "de": "Bonus auf den Schaden durch <a href=showinfo:3324>schwere Lenkwaffen</a>, <a href=showinfo:3326>Marschflugkörper</a> und <a href=showinfo:3325>Torpedos</a>",
+          "en": "bonus to <a href=showinfo:3324>Heavy Missile</a>, <a href=showinfo:3326>Cruise Missile</a> and <a href=showinfo:3325>Torpedo</a> damage",
+          "es": "de bonificación al daño de los <a href=showinfo:3324>misiles pesados</a>, los <a href=showinfo:3326>misiles de crucero</a> y los <a href=showinfo:3325>torpedos</a>.",
+          "fr": "de bonus aux dégâts des <a href=showinfo:3324>missiles lourds</a>, des <a href=showinfo:3326>missiles de croisière</a> et des <a href=showinfo:3325>torpilles</a>",
+          "ja": "<a href=showinfo:3324>ヘビーミサイル</a>、<a href=showinfo:3326>クルーズミサイル</a>及び<a href=showinfo:3325>トルピード</a>のダメージにボーナス",
+          "ko": "<a href=showinfo:3324>헤비 미사일</a>, <a href=showinfo:3326>크루즈 미사일</a>, <a href=showinfo:3325>토피도</a> 피해량 증가",
+          "ru": "увеличивается урон <a href=showinfo:3324>тяжёлых ракет</a>, <a href=showinfo:3326>дальнобойных ракет</a> и <a href=showinfo:3325>торпед</a>",
+          "zh": "<a href=showinfo:3324>重型导弹</a>、<a href=showinfo:3326>巡航导弹</a>和<a href=showinfo:3325>鱼雷</a>伤害加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 37.5,
+        "bonusText": {
+          "de": "Bonus auf <a href=showinfo:30013>Kern-</a> und <a href=showinfo:30028>Gefechtsscansonden-</a>Stärke",
+          "en": "bonus to <a href=showinfo:30013>Core</a> and <a href=showinfo:30028>Combat Scanner Probe</a> strength",
+          "es": "de bonificación a la intensidad de la <a href=showinfo:30028>sonda escáner de combate</a> y la <a href=showinfo:30013>de núcleo</a>.",
+          "fr": "de bonus à la puissance des <a href=showinfo:30013>sondes de balayage cosmiques</a> et des <a href=showinfo:30028>sondes de balayage de combat</a>",
+          "ja": "<a href=showinfo:30013>コア</a>及び<a href=showinfo:30028>戦闘スキャナープローブ</a>の強度が上昇",
+          "ko": "<a href=showinfo:30013>코어 프로브</a> 및 <a href=showinfo:30028>정찰 프로브</a> 스캔 강도 증가",
+          "ru": "повышается чувствительность <a href=showinfo:30013>зондов навигационной разведки</a> и <a href=showinfo:30028>боевых разведзондов</a>",
+          "zh": "<a href=showinfo:30013>核心</a>和<a href=showinfo:30028>作战扫描探针</a>强度加成"
+        },
+        "importance": 4,
+        "unitID": 105
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Bonus auf die HP von und den Schaden durch <a href=showinfo:3436>Drohnen</a>",
+          "en": "bonus to <a href=showinfo:3436>Drone</a> hitpoints and damage",
+          "es": "de bonificación a los puntos de vida y el daño de los <a href=showinfo:3436>drones</a>.",
+          "fr": "de bonus aux dégâts et aux points de vie des <a href=showinfo:3436>drones</a>",
+          "ja": "<a href=showinfo:3436>ドローン</a>のヒットポイントとダメージにボーナス",
+          "ko": "<a href=showinfo:3436>드론</a> 내구도 및 피해량 증가",
+          "ru": "увеличивается урон орудий и запас прочности <a href=showinfo:3436>дронов</a>",
+          "zh": "<a href=showinfo:3436>无人机</a>HP和伤害加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      }
+    ],
+    "types": {}
   },
   "volume": 470000.0
 }

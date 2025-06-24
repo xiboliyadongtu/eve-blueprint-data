@@ -1,5 +1,18 @@
 {
-  "typeID": 81368,
+  "basePrice": 30000000.0,
+  "description": {
+    "de": "Grundlegender Skill in der Auflistung von SKINs zum Verkauf im Paragon-Hub. Erhöht die maximale Anzahl der Angebote im Paragon-Hub um 1 je Skillstufe.",
+    "en": "Basic skill in listing SKINs for sale in the Paragon Hub.\r\n\r\nIncreases maximum listings on the Paragon Hub by 1 per skill level.",
+    "es": "Habilidad básica para poner SKIN a la venta en el Centro de Paragon.\r\n\r\nAumenta el número máximo de comercializaciones en el Centro de Paragon en 1 por nivel de habilidad.",
+    "fr": "Compétence de base pour publier des annonces de SKINS à vendre au centre Paragon. Augmente le nombre maximal d'annonces au centre Paragon de 1 par niveau de compétence.",
+    "ja": "パラゴンハブでSKINを販売リストに載せることに関する基本スキル。\r\n\r\nパラゴンハブに掲載する販売リストの最大数が、スキルレベルが1上がるごとに1個増える。",
+    "ko": "파라곤 허브에 SKIN을 등록하기 위해 사용되는 기본 스킬입니다.<br><br>스킬 레벨당 1개의 품목을 추가로 등록할 수 있습니다.",
+    "ru": "Базовый навык размещения окрасок на продажу в штабе «Парагона». Увеличивает максимальное количество продающихся окрасок на 1 за каждую степень освоения навыка.",
+    "zh": "初级技能，可助你在派瑞根中心上架涂装进行销售。每升一级，派瑞根中心上架数量上限增加1。"
+  },
+  "groupID": 4734,
+  "iconID": 33,
+  "marketGroupID": 3656,
   "name": {
     "de": "Hub Promotion",
     "en": "Hub Promotion",
@@ -10,5 +23,7 @@
     "ru": "Hub Promotion",
     "zh": "促销中心"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

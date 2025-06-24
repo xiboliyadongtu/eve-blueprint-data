@@ -1,5 +1,18 @@
 {
-  "typeID": 77599,
+  "capacity": 135.0,
+  "description": {
+    "de": "Eine Enyo-Angriffsfregatte mit Sensordämpfern, um die Flotte der Propagandisten zu verwirren. Ein erster Scan lässt darauf schließen, dass es keinen Versuch gegeben hat, die Identifikation des Schiffes zu verschlüsseln, was darauf hindeutet, dass das legendäre Aufklärungsnetzwerk der FIO ihnen gestattet hat, dieses Schiff ohne Modifizierung auf Staatsterritorium zu transportieren.",
+    "en": "A Enyo assault frigate fitted with sensor dampeners to obfuscate the propagandist fleet.\r\n\r\nA preliminary scan indicates that no attempt has been made to encrypt the ship’s identification, implying that FIOs legendary intelligence network allowed them to transport this ship into State territory unmodified.",
+    "es": "Una fragata de asalto Enyo equipada con atenuadores de sensor para confundir a la flota propagandista.    Un escaneo preliminar indica que no se ha intentado cifrar la identificación de la nave, lo que implica que la legendaria red de inteligencia de la OIF les permitió transportar esta nave a territorio del Estado sin modificaciones.",
+    "fr": "Une frégate d'assaut Enyo équipée d'atténuateurs de détection pour brouiller les pistes de la flotte de propagande. Un balayage préliminaire indique qu'il n'y a eu aucune tentative de chiffrer l'identification du vaisseau, ce qui implique que le réseau de renseignements légendaire du BFR a autorisé son transport sur le territoire de l'État sans qu'il ne subisse de modifications.",
+    "ja": "プロパガンダ要員のフリートを視界不良に陥らせる、センサーダンプナーを装備したエンヨ級強襲型フリゲート。    事前スキャンによるとこの艦船は一切素性を隠そうとしておらず、伝説的な情報ネットワークであるFIOが、艦を連合の領域にそのまま持ち込むことを許可していることが伺える。",
+    "ko": "센서 댐프너를 장착해 선전 함대를 교란하는 엔요 어썰트 프리깃입니다.<br><br>사전 스캔을 실시한 결과 함선의 식별 정보가 전혀 암호화되지 않은 것으로 밝혀졌습니다. FIO가 지닌 고도의 정보망 덕에 식별 정보의 변동 없이 연합 영역에 진입할 수 있었던 것으로 추정됩니다.",
+    "ru": "Этот ударный фрегат типа Enyo оснащён модулями подавления сенсоров, которые позволяют скрыть местоположение флота пропагандистов. Предварительное сканирование показало, что никто даже не пытался скрыть принадлежность этого корабля. Вероятно, Федеральной разведслужбе удалось доставить это судно в пространство Калдари в неизменённом виде благодаря своей легендарной разведывательной сети.",
+    "zh": "一艘恩尤级突击护卫舰，装配有感应抑阻器，可用于干扰宣传舰队。初步扫描显示，该舰船的身份未经加密，这表明FIO的传奇情报网络允许他们将这艘舰船原封不动地运输至合众国境内。"
+  },
+  "graphicID": 1771,
+  "groupID": 4569,
+  "mass": 1190000.0,
   "name": {
     "de": "Diverter Enyo",
     "en": "Diverter Enyo",
@@ -10,5 +23,11 @@
     "ru": "Diverter Enyo",
     "zh": "疏导者恩尤级"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 34.0,
+  "sofFactionName": "roden",
+  "soundID": 20074,
   "volume": 28100.0
 }

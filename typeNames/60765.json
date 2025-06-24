@@ -1,5 +1,70 @@
 {
-  "typeID": 60765,
+  "basePrice": 3100000.0,
+  "capacity": 220.0,
+  "description": {
+    "de": "„‚Von Zwei Generälen, die sich wissentlich im Kampf begegnen, glauben beide, den Sieg schon in der Hand zu haben, wobei sich jedoch in den meisten Fällen einer der Generäle irrt. Daran zeigt sich, wie wichtig es für Generäle an der Front ist, gut informiert zu sein. Wenn Informationen fehlen, unwahr oder anderweitig mangelhaft sind, ist dem General, der überstürzt handelt, die Niederlage sicher.‘ „So steht es irgendwo in den Analekten geschrieben. Mit anderen Worten: Überprüft immer alle Informationen. Und wenn der Gegner auch noch im Dunkeln tappt, ist das umso besser. Es scheint zwar offensichtlich, aber es gibt doch einige, die sich unvorbereitet in den Kampf stürzen.“</i> – Muryia Mordu über die Analekten des Raata-Imperiums",
+    "en": "<i>\"'Two generals choosing to meet in battle will each believe victory is in their grasp despite one general being wrong in the greater number of cases. This shows the importance of good information to the general in the field. If information is lacking, false, or otherwise imperfect, disaster is sure for the general acting precipitously.' \r\n\r\n\"So it goes somewhere in the Analects. In other words, make sure of your own info before committing, and if you can stop the other guy from knowing what the hell is going on, so much the better. It's basic but you'd be surprised how often people will jump into a fight without thinking it through.\"</i>\r\n\r\n– Muryia Mordu, quoting the Analects of the Raata Empire",
+    "es": "<i>«\"Cuando dos generales eligen medirse en combate, ambos creen que la victoria está a su alcance, pero uno casi siempre se equivoca. Esto demuestra la importancia que la buena información tiene para el general en el campo de batalla. Sin información, o con datos falsos o incompletos, el desastre está servido para aquel general que se precipite\". \n\n\n\nO eso dicen las analectas. En otras palabras, verifica tu propia información antes de comprometerte y, si puedes evitar que la otra parte se entere de lo que está pasando, mucho mejor. Es algo muy básico, pero te sorprendería la frecuencia con la que la gente se mete en una pelea sin pensarlo demasiado».</i>\n\n\n\n— Muryia Mordu, citando las analectas del Imperio Raata.",
+    "fr": "« ''Deux généraux choisissant de s'affronter au combat croiront chacun que la victoire est à leur portée, bien que l'un des deux se trompe dans la plupart des cas. Cela montre à quel point il est important que le général soit bien informé lorsqu'il est sur le champ de bataille. S'il manque d'informations, si elles sont erronées ou incomplètes, et que le général agit dans la précipitation, ce sera un désastre à coup sûr.'' C'est ce qui est écrit quelque part dans les Analectes. En d'autres termes, vérifiez vos propres informations avant de vous engager, et si vous pouvez empêcher votre adversaire de savoir ce qui se passe, c'est encore mieux. C'est la base, mais vous seriez surpris de voir à quelle fréquence les gens se jettent dans la bataille sans y réfléchir à deux fois. »</i> – Muryia Mordu, citation tirée des Analectes de l'Empire Raata",
+    "ja": "「二人の将軍が交戦を選んだ時、それぞれが勝利は我にありと考えるだろうが、多くの場合はどちらかが間違っている。このことからも、戦場の将軍にとっては正確な情報が重要であることがわかる。情報が不足していたり、誤っていたり、不完全であったりすると、慌てて行動した将軍には必ず災難が降りかかる」 \n\n\n\n「かの語録にはこう記されている。言い換えれば、全力でことに当たる前に、まず得た情報を確認せよということだ。そして相手に予想される展開を悟らせないようにできればなお良い。基本的なことだが、よく考えずに戦いに飛び込んでしまう者が意外と多いのである。」</i>\n\n\n\n- ムルイア・モードゥによる、ラータ帝国の語録の引用",
+    "ko": "<i>\"'두 명의 지휘관이 전장에서 부딪힐 경우, 둘 중 하나는 십중팔구 어긋난 정보를 지니고 있다. 이처럼 전투에 있어 정보 습득의 중요성을 결코 잊어서는 안된다. 불완전하거나 잘못된 정보를 습득한 지휘관은 성급한 결정을 내리고, 실패를 맛볼 확률이 높기 때문이다.'<br><br>\"어록에 실린 내용입니다. 무언가를 시작하기에 앞서 정보를 다시 확인해보고, 적의 정보는 최대한 차단하는 것이 좋다는 뜻이죠. 기초적인 내용이긴 하지만, 꽤나 많은 지휘관들이 생각없이 전투에 돌입하고는 합니다.\"</i><br><br>- 무리야 모르두, 라아타 제국 어록에서 인용문 발췌",
+    "ru": "«Оба генерала, которым предстоит встретиться на поле боя, верят, что победа будет за ними. Вот только один из них обязательно ошибается. Хорошая осведомлённость о предстоящей битве — вот истинный залог успеха. Если же в распоряжении генерала сведения скудные или ложные, его решения непременно приведут к катастрофе». Я вычитал это где-то в «Аналектах». Говоря простым языком, тщательно проверяйте достоверность данных о грядущем сражении и старайтесь избежать утечки информации: чем меньше ваш враг будет понимать, что, чёрт возьми, происходит, тем лучше для вас. «Казалось бы, это основа основ, но вы даже не представляете, как часто люди бросаются в бой, ничего толком не продумав».</i> — Мурия Морду, комментарий к цитате из «Аналектов Раатской Империи»",
+    "zh": "“两位将军在战场上相遇，都对自己获胜胸有成竹，当然他们之中总有一位是错的。这说明了战场上获得正确信息的重要性。如果缺少信息，或信息不完善，则鲁莽冒进的将军失败是必然的事。” \n\n\n\n“文选中也提到了这一点。换句话说，你要在采取行动之前确认好自己的信息，如果你还能阻止对方及时获得信息，那就再好不过了。这是很基础的理论，但还是有无数人在没有认真思考的前提下就匆匆投身战场。”</i>\n\n\n\n- 穆瑞亚·莫德援引拉塔帝国的文选"
+  },
+  "factionID": 500018,
+  "graphicID": 25141,
+  "groupID": 893,
+  "marketGroupID": 2819,
+  "mass": 987000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      150,
+      75,
+      139,
+      85,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      150,
+      75,
+      139,
+      85,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      150,
+      75,
+      139,
+      85,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      150,
+      75,
+      139,
+      85,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      150,
+      75,
+      139,
+      85,
+      118,
+      94
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Raiju",
     "en": "Raiju",
@@ -9,6 +74,131 @@
     "ko": "라이주",
     "ru": "Raiju",
     "zh": "雷兽级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 50.0,
+  "sofFactionName": "tournament-xvii",
+  "sofMaterialSetID": 2852,
+  "soundID": 20169,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 25.0,
+        "bonusText": {
+          "de": "Abzug auf die Flugdauer von Lenkwaffen",
+          "en": "penalty to missile flight time",
+          "es": "de penalización al tiempo de vuelo de los misiles.",
+          "fr": "de pénalité au temps de vol des missiles",
+          "ja": "ミサイルの飛行時間にペナルティ",
+          "ko": "미사일 비행시간 감소",
+          "ru": "сокращение полётного времени ракет",
+          "zh": "导弹飞行时间惩罚"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 200.0,
+        "bonusText": {
+          "de": "Bonus auf die Geschwindigkeit von Lenkwaffen",
+          "en": "bonus to missile velocity",
+          "es": "de bonificación a la velocidad de los misiles.",
+          "fr": "de bonus à la vitesse des missiles",
+          "ja": "ミサイルの速度が上昇",
+          "ko": "미사일 속도 증가",
+          "ru": "бонус к скорости полёта ракет",
+          "zh": "导弹飞行速度加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3328": [
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die Effektivität von <a href=showinfo:3433>Sensorferndämpfern</a>",
+            "en": "bonus to <a href=showinfo:3433>Remote Sensor Dampener</a> effectiveness",
+            "es": "de bonificación a la efectividad del <a href=showinfo:3433>atenuador de sensor remoto</a>.",
+            "fr": "de bonus à l'efficacité de l'<a href=showinfo:3433>atténuateur de détection à distance</a>",
+            "ja": "<a href=showinfo:3433>リモートセンサーダンプナー</a>の効果にボーナス",
+            "ko": "<a href=showinfo:3433>원격 센서 댐프너</a> 효과 증가",
+            "ru": "бонус к эффективности <a href=showinfo:3433>модулей подавления захвата целей</a>",
+            "zh": "<a href=showinfo:3433>远程感应抑阻器</a>效果加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 15.0,
+          "bonusText": {
+            "de": "Reduktion der Aktivierungskosten von <a href=showinfo:3433>Sensorferndämpfern</a>",
+            "en": "reduction in <a href=showinfo:3433>Remote Sensor Dampener</a> activation cost",
+            "es": "de reducción del coste de activación del <a href=showinfo:3433>atenuador de sensor remoto</a>.",
+            "fr": "de réduction du coût d'activation de l'<a href=showinfo:3433>atténuateur de détection à distance</a>",
+            "ja": "<a href=showinfo:3433>リモートセンサーダンプナー</a>の起動コストが減少",
+            "ko": "<a href=showinfo:3433>원격 센서 댐프너</a> 활성화 비용 감소",
+            "ru": "снижение расхода энергии на активацию <a href=showinfo:3433>модуля подавления захвата целей</a>",
+            "zh": "<a href=showinfo:3433>远程感应抑阻器</a>启动消耗加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ],
+      "3330": [
+        {
+          "bonus": 25.0,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von Lenkwaffen",
+            "en": "bonus to missile damage",
+            "es": "de bonificación al daño de los misiles.",
+            "fr": "de bonus aux dégâts des missiles",
+            "ja": "ミサイルの与えるダメージが増加",
+            "ko": "미사일 피해량 증가",
+            "ru": "бонус к урону от ракет",
+            "zh": "导弹伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ],
+      "28615": [
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Reduktion der Aktivierungskosten von <a href=showinfo:447>Warpstörern</a> und <a href=showinfo:3242>Warpunterbrechern</a>",
+            "en": "reduction in <a href=showinfo:447>Warp Scrambler</a> and <a href=showinfo:3242>Warp Disruptor</a> activation cost",
+            "es": "de reducción al coste de activación del <a href=showinfo:447>distorsionador de warp</a> y el <a href=showinfo:3242>disruptor de warp</a>.",
+            "fr": "de réduction du coût d'activation des <a href=showinfo:447>inhibiteurs de warp</a> et <a href=showinfo:3242>perturbateurs de warp</a>",
+            "ja": "<a href=showinfo:447>ワープスクランブラー</a>と<a href=showinfo:3242>ワープ妨害器</a>の起動コストが減少",
+            "ko": "<a href=showinfo:447>워프 스크램블러</a> 및 <a href=showinfo:3242>워프 디스럽터</a> 활성화 비용 감소",
+            "ru": "снижение расхода энергии на активацию <a href=showinfo:447>варп-глушителей</a> и <a href=showinfo:3242>варп-подавителей</a>",
+            "zh": "<a href=showinfo:447>跃迁扰频器</a>和<a href=showinfo:3242>跃迁扰断器</a>启动节能加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 20.0,
+          "bonusText": {
+            "de": "Bonus auf die optimale Reichweite von <a href=showinfo:447>Warpunterbrechern</a> und <a href=showinfo:3242>Warpstörern</a>",
+            "en": "bonus to <a href=showinfo:447>Warp Scrambler</a> and <a href=showinfo:3242>Warp Disruptor</a> optimal range",
+            "es": "de bonificación al alcance óptimo del <a href=showinfo:447>distorsionador de warp</a> y el <a href=showinfo:3242>disruptor de warp</a>.",
+            "fr": "de bonus à la portée optimale des <a href=showinfo:447>inhibiteurs de warp</a> et <a href=showinfo:3242>perturbateurs de warp</a>",
+            "ja": "<a href=showinfo:447>ワープスクランブラー</a>と<a href=showinfo:3242>ワープ妨害器</a>の最適射程距離が上昇",
+            "ko": "<a href=showinfo:447>워프 스크램블러</a> 및 <a href=showinfo:3242>워프 디스럽터</a> 최적사거리 증가",
+            "ru": "бонус к оптимальной дальности <a href=showinfo:447>варп-глушителей</a> и <a href=showinfo:3242>варп-подавителей</a>",
+            "zh": "<a href=showinfo:447>跃迁扰频器</a>和<a href=showinfo:3242>跃迁扰断器</a>有效距离加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 27289.0
 }

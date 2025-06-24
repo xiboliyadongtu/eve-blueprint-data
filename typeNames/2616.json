@@ -1,5 +1,17 @@
 {
-  "typeID": 2616,
+  "description": {
+    "de": "Diese speziell gemischte Flüssigkeit ist ideal dafür geeignet, Thermalenergie weg von sensiblen Maschinen- oder Computerteilen zu leiten und sie stattdessen auf Kühlkörper zu übertragen, damit sie aus dem System entfernt werden kann.",
+    "en": "This specially blended fluid is ideal for transferring thermal energy away from sensitive machinery or computer components, rerouting it to heat sinks so it can be eliminated from the system.",
+    "es": "Este fluido combinado especial es perfecto para transferir energía térmica fuera de la maquinaria sensible o de los componentes de un ordenador, redirigiéndola hacia los disipadores de calor para que sea eliminada del sistema.",
+    "fr": "Ce fluide spécial est idéal pour transférer l'énergie thermique loin des composants informatiques ou des machines sensibles, la renvoyant vers des puits de chaleur afin qu'elle puisse être éliminée du système.",
+    "ja": "この特殊な混合液体は、精密機器やコンピュータ部品から放出される熱エネルギーの除去に使用する。熱エネルギーは放熱機に送られ、システムから取り除かれる。",
+    "ko": "특수한 혼합 액체로 각종 회로 및 컴퓨터 부품에서 열 에너지를 흡수하여 방열판으로 전달합니다.",
+    "ru": "Эта специально обработанная жидкость применяется для отвода тепловой энергии от термочувствительного оборудования и компьютерных деталей к теплоприемникам, выводящим ее из рабочих систем.",
+    "zh": "这种特殊的混合液体是十分理想的热传导物质，可将热能从敏感的机器和电脑元件上导离，并传导至散热槽从而将多余的热能从系统中消除。"
+  },
+  "groupID": 314,
+  "iconID": 1360,
+  "mass": 800000.0,
   "name": {
     "de": "Large Crates of Coolant",
     "en": "Large Crates of Coolant",
@@ -10,5 +22,7 @@
     "ru": "Large Crates of Coolant",
     "zh": "大箱的冷却剂"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 800.0
 }

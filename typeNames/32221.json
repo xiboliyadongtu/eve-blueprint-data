@@ -1,5 +1,16 @@
 {
-  "typeID": 32221,
+  "description": {
+    "de": "Eine der Satellitenstationen von Scope in der Gegend.",
+    "en": "One of Scope's satellite stations in the area.",
+    "es": "Una de las estaciones satélite que Scope tiene en la zona.",
+    "fr": "Une des stations satellites de The Scope.",
+    "ja": "領域内のスコープの衛星ステーションの一つ。",
+    "ko": "스코프 위성 정거장입니다.",
+    "ru": "Одна из спутниковых станций агентства Scope в этом районе.",
+    "zh": "视角传媒在这区域的一个人造卫星站。"
+  },
+  "graphicID": 1256,
+  "groupID": 319,
   "name": {
     "de": "Scope Station",
     "en": "Scope Station",
@@ -10,5 +21,9 @@
     "ru": "Scope Station",
     "zh": "视角传媒空间站"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 8651.0,
+  "sofFactionName": "gallentebase"
 }

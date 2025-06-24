@@ -1,5 +1,75 @@
 {
-  "typeID": 17722,
+  "basePrice": 36000000.0,
+  "capacity": 450.0,
+  "description": {
+    "de": "Die Vigilant war das erste Design der Gallente, das die Guardian Angels gestohlen und sich zu eigen gemacht haben - es wird nicht das letzte gewesen sein. Sie baut auf der natürlichen Stärke der Thorax auf und ist sowohl für sich genommen wie auch in einer Flotte ein tödliches Schiff. Wenn man eine Gruppe dieser Schiffe sieht, hat man allen Grund zur Furcht.",
+    "en": "The Vigilant was the first Gallente design the Guardian Angels would steal and make their own, but it wouldn't be the last. Building on the Thorax's natural strengths, it is a deadly vessel both by itself and in fleet tandem. A group of these sluggers is a sight to fear.",
+    "es": "La Vigilant fue el primer diseño gallente que los Ángeles de la Guarda robaron y convirtieron en suyo, pero no fue el último. Aprovechando las fortalezas naturales de la Thorax, hablamos de una nave letal tanto por sí misma como en tándem con la flota. Un grupo de estas naves supone un espectáculo temible.",
+    "fr": "Le Vigilant fut le premier vaisseau gallente à être volé par les Guardian Angel pour en produire leurs propres modèles, et ce ne fut pas le dernier. Profitant des qualités naturelles du Thorax, c'est un vaisseau mortel, qu'il soit en solo ou dans une flotte. Se retrouver devant un groupe de Vigilant effraie même les plus aguerris.",
+    "ja": "ヴィジラントはガーディアンエンジェルが初めてガレンテの設計を模倣したものであったが、その後も模倣は続いたのであった。ソーラックス本来の性能を増強しているため、単体であっても艦隊においても強力な艦船である。群をなして現れたならば恐怖すべき存在である。",
+    "ko": "갈란테 함선을 바탕으로 설계된 최초의 엔젤 카르텔 함선입니다. 쏘락스급을 토대로 제작되었으며 독자적인 임무뿐만 아니라 함대전에서도 막강한 위력을 발휘합니다. 비질런트 편대는 적에게 엄청난 압박감을 주는 존재입니다.",
+    "ru": "«Виджилант» — самый первый проект, украденный у Галлентской Федерации пиратами корпорации «Гардиан Ангел». Развивая естественные преимущества своего прототипа, «Торакса», крейсер типа «Виджилант» смертельно опасен как в одиночку, так и в составе флота. С группой таких кораблей лучше не связываться.",
+    "zh": "警惕级巡洋舰是守护天使窃取的第一张盖伦特设计图，但绝不会是最后一张。借助托勒克斯级本身的长处，无论是一对一的战斗还是配合其他飞船群战，它都能起到致命的作用。一支警惕级巡洋舰队可以令敌人闻风丧胆。"
+  },
+  "factionID": 500020,
+  "graphicID": 1815,
+  "groupID": 26,
+  "marketGroupID": 1371,
+  "mass": 9830000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      68,
+      165,
+      140,
+      150,
+      89,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      68,
+      165,
+      140,
+      150,
+      89,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      68,
+      165,
+      140,
+      150,
+      89,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      68,
+      165,
+      140,
+      150,
+      89,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      68,
+      165,
+      140,
+      117,
+      150,
+      89,
+      94
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Vigilant",
     "en": "Vigilant",
@@ -10,5 +80,67 @@
     "ru": "Vigilant",
     "zh": "警惕级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 149.0,
+  "sofFactionName": "serpentis",
+  "soundID": 20122,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonus": 75,
+        "bonusText": {
+          "de": "Bonus auf den Schaden von <a href=showinfo:3304>mittelgroßen Hybridgeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:3304>Medium Hybrid Turret</a> damage",
+          "es": "de bonificación al daño de la <a href=showinfo:3304>torreta híbrida mediana</a>.",
+          "fr": "de bonus aux dégâts des <a href=showinfo:3304>tourelles hybrides intermédiaires</a>",
+          "ja": "<a href=showinfo:3304>中型ハイブリッドタレット</a>のダメージが増加",
+          "ko": "<a href=showinfo:3304>중형 하이브리드 터렛</a> 피해량 증가",
+          "ru": "увеличивается урон боеприпасов <a href=showinfo:3304>средних гибридных орудий</a>",
+          "zh": "<a href=\"showinfo:3304\">中型混合炮台</a>伤害加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3332": [
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf den Präzisionsabfall von <a href=showinfo:3304>mittelgroßen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3304>Medium Hybrid Turret</a> falloff",
+            "es": "de bonificación al alcance efectivo de la <a href=showinfo:3304>torreta híbrida mediana</a>.",
+            "fr": "de bonus de distance de perte des <a href=showinfo:3304>tourelles hybrides intermédiaires</a>",
+            "ja": "<a href=showinfo:3304>中型ハイブリッドタレット</a>の精度低下範囲が拡大",
+            "ko": "<a href=showinfo:3304>중형 하이브리드 터렛</a> 유효사거리 증가",
+            "ru": "увеличивается добавочная дальность ведения огня из <a href=showinfo:3304>средних гибридных орудий</a>",
+            "zh": "<a href=\"showinfo:3304\">中型混合炮台</a>失准范围加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ],
+      "3333": [
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf die Effektivität von <a href=showinfo:526>Stasisnetzen</a>",
+            "en": "bonus to <a href=showinfo:526>Stasis Webifier</a> effectiveness",
+            "es": "de bonificación a la efectividad de la <a href=showinfo:526>red ralentizadora</a>.",
+            "fr": "de bonus à l'efficacité des <a href=showinfo:526>générateurs de stase</a>",
+            "ja": "<a href=showinfo:526>ステイシスウェビファイア</a>の効果が増加",
+            "ko": "<a href=showinfo:526>스테이시스 웹 생성기</a> 효과 증가",
+            "ru": "повышается эффективность действия <a href=showinfo:526>стазис-индукторов</a>",
+            "zh": "<a href=\"showinfo:526\">停滞缠绕光束</a>效果加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 627,
   "volume": 101000.0
 }

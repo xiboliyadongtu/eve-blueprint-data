@@ -1,5 +1,16 @@
 {
-  "typeID": 42856,
+  "description": {
+    "de": "Ein zerstörtes Apostle-Truppenunterstützerschiff.",
+    "en": "A wrecked Apostle Force Auxiliary vessel.",
+    "es": "Escombros de una nave auxiliar Apostle.",
+    "fr": "Épave de vaisseau de force auxiliaire de classe Apostle.",
+    "ja": "破壊されたアポストル級支援型主力艦",
+    "ko": "난파된 어포슬 포스 악실리아입니다.",
+    "ru": "Обломки вспомогательного КБТ типа «Апостол».",
+    "zh": "一艘使徒级战力辅助舰的残骸。"
+  },
+  "graphicID": 21301,
+  "groupID": 226,
   "name": {
     "de": "Amarr Force Auxiliary Wreck",
     "en": "Amarr Force Auxiliary Wreck",
@@ -10,5 +21,8 @@
     "ru": "Amarr Force Auxiliary Wreck",
     "zh": "艾玛战力辅助舰残骸"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 1000.0,
+  "sofFactionName": "amarrbase"
 }

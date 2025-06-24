@@ -1,5 +1,18 @@
 {
-  "typeID": 16839,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Sehr anfällig, aber ertragreich. Asteroidenfabriken repräsentieren die positiven Auswirkungen der expandierenden Raumindustrie.",
+    "en": "Highly vulnerable, but economically extremely feasible, asteroid factories are one of the major boons of the expanding space industry.",
+    "es": "Las fábricas de asteroides, muy vulnerables, pero extremadamente económicas, son una de las principales ventajas de la industria espacial en expansión.",
+    "fr": "Hautement vulnérables, mais extrêmement rentables et faciles à mettre en place, les usines d'astéroïdes sont une véritable aubaine pour l'industrie spatiale en pleine expansion.",
+    "ja": "極めて脆弱だが経済的な、アステロイド工場は、常に成長を続ける宇宙産業の寵児というべき存在だ。",
+    "ko": "시설 방어가 매우 취약하지만, 사업적인 측면에 있어서 경제적으로 뛰어난 이윤을 남겨주는 소행성 공장입니다.",
+    "ru": "Крайне уязвимые, но экономически выгодные, астероидные фабрики являются одним из главных толчков развития космической промышленности.",
+    "zh": "小行星带工厂虽然很脆弱，但在经济角度上是非常可行的，它们是不断扩张的太空产业的主要恩赐之一。"
+  },
+  "graphicID": 1990,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Asteroid Factory",
     "en": "Asteroid Factory",
@@ -10,5 +23,9 @@
     "ru": "Asteroid Factory",
     "zh": "小行星工厂"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 3843.0,
+  "sofFactionName": "genericbase",
   "volume": 100000000.0
 }

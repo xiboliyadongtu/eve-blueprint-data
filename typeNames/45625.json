@@ -1,5 +1,20 @@
 {
-  "typeID": 45625,
+  "description": {
+    "de": "Mit dem Fortschritt neuer Technologien sind schwächelnde Rechner mittlerweile kein Thema mehr. Die Nanotechnologie ermöglicht den Bau winziger Schaltkreise, für die unzureichende Energiezufuhr ein Fremdwort ist. Dieser Elektroeffizienz-Regler baut auf dieser Technologie auf und bietet Piloten so eine bessere CPU-Leistung und deutlich erhöhte Sensorintegrität.",
+    "en": "New technologies have resulted in a noticeable increase in CPU efficiency, as better nanotech enables further miniaturization of circuits, the result of which is a marked decrease in system bottlenecking. This electronic efficiency gate capitalizes on that technology, offering a pilot greater CPU output and significantly improved sensor integrity.",
+    "es": "Las nuevas tecnologías han propiciado un considerable aumento de la eficacia de la CPU, pues la nanotecnología mejorada permite una mayor miniaturización de los circuitos. El resultado es un menor estrangulamiento del sistema. Esta eficiencia electrónica permite aprovechar al máximo esa tecnología, lo que ofrece a un piloto un mayor rendimiento de la CPU y una integridad del sensor significativamente mejorada.",
+    "fr": "Les nouvelles technologies ont engendré une augmentation notable de l'efficacité du CPU. Par exemple, la nanotechnologie permet la miniaturisation des circuits, résultant sur une diminution de l'engorgement du système. Ce portail d'efficacité électronique met l'accent sur cette technologie, offrant au pilote davantage de puissance CPU et une intégrité de capteur grandement améliorée.",
+    "ja": "ナノテクノロジーの進歩により回路が小型化され、システムのボトルネックが大きく改善されたことで、CPU性能は飛躍的に向上している。この技術を電気効率化ゲートは最大限に活用しており、より高性能化したCPU出力をパイロットにもたらし、センサーの整合性が大幅に改善された。",
+    "ko": "첨단 기술의 발전으로 CPU 효율이 눈에 띄게 개선되었으며, 최신 나노 기술을 통해 회로가 소형화되면서 시스템 병목 현상 또한 큰 폭으로 감소했습니다. 서브시스템은 이러한 기술을 토대로 함선의 전반적인 CPU 용량과 센서 정확도를 개선합니다.",
+    "ru": "Новые технологии позволили существенно повысить эффективность ЦПУ за счёт нанотехнологичеcкой миниатюризации электронных схем, что позволило сократить число «узких мест» в системе. Параллельный вычислительный блок-подсистема использует эту технологию и, помимо упомянутого повышения эффективности ЦПУ, также значительно повышает защищенность системы захвата целей.",
+    "zh": "新近的科技成果大大地增加了CPU的效能，这是因为更加先进的纳米技术提升了电路微型化的空间，这实际上有效地打通了系统上的发展瓶颈。电子效能组合逻辑元件是这些科技的集合体，为飞行员提供了更多的CPU输出，大幅提升了感应信号的完整性。"
+  },
+  "graphicID": 21756,
+  "groupID": 958,
+  "iconID": 3636,
+  "marketGroupID": 1123,
+  "mass": 1200000.0,
+  "metaGroupID": 14,
   "name": {
     "de": "Tengu Core - Electronic Efficiency Gate",
     "en": "Tengu Core - Electronic Efficiency Gate",
@@ -10,5 +25,103 @@
     "ru": "Tengu Core - Electronic Efficiency Gate",
     "zh": "金鹏核心 - 电子效能组合逻辑元件"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "sofFactionName": "caldaribase",
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "<b><u>Zusätzliche Basiswerte</b></u>",
+          "en": "<b><u>Additional Base Stats</b></u>",
+          "es": "<b><u>Estadísticas básicas adicionales</b></u>",
+          "fr": "<b><u>Stats de base supplémentaires</b></u>",
+          "ja": "<b><u>追加ベース統計</b></u>",
+          "ko": "<b><u>추가 기본 능력치</b></u>",
+          "ru": "<b><u>Кроме того:</b></u>",
+          "zh": "<b><u>附加基础数值</b></u>"
+        },
+        "importance": 2
+      },
+      {
+        "bonusText": {
+          "de": "+3 Mid Slots, +1 Low Slot",
+          "en": "+3 Mid Slots, +1 Low Slot",
+          "es": "+ 3 ranuras intermedias, +1 ranura inferior",
+          "fr": "+3 Emplacements intermédiaires, +1 Emplacement inférieur",
+          "ja": "ミッドスロット+3、ロースロット+1",
+          "ko": "미드 슬롯 +3, 로우 슬롯 +1",
+          "ru": "+3 разъёма средней мощности, +1 разъём малой мощности",
+          "zh": "中槽+3，低槽+1"
+        },
+        "importance": 3
+      },
+      {
+        "bonusText": {
+          "de": "+1 max. aufgeschaltetes Ziel",
+          "en": "+1 max locked target",
+          "es": "+1 objetivo fijado máximo",
+          "fr": "+1 Cible verrouillée max",
+          "ja": "最大ロックターゲット数+1",
+          "ko": "최대 타겟팅 수 +1",
+          "ru": "+1 к максимуму захваченных целей",
+          "zh": "目标锁定数上限+1"
+        },
+        "importance": 4
+      },
+      {
+        "bonus": 25,
+        "bonusText": {
+          "de": "Bonus auf die CPU-Leistung des Schiffes",
+          "en": "bonus to ship CPU output",
+          "es": "de bonificación al rendimiento de la CPU de la nave.",
+          "fr": "de bonus à la puissance du CPU du vaisseau",
+          "ja": "艦船のCPU出力が上昇",
+          "ko": "CPU 용량 증가",
+          "ru": "повышается мощность ЦПУ корабля",
+          "zh": "舰船CPU输出加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "30548": [
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die maximale Zielerfassungsreichweite",
+            "en": "bonus to max targeting range",
+            "es": "de bonificación a la distancia-objetivo máxima.",
+            "fr": "de bonus à la portée maximale du système de ciblage",
+            "ja": "最大ターゲット範囲が拡大",
+            "ko": "최대 타겟팅 거리 증가",
+            "ru": "увеличивается максимальная дальность захвата целей",
+            "zh": "最大锁定距离加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 15,
+          "bonusText": {
+            "de": "Bonus auf die Sensorstärke des Schiffs",
+            "en": "bonus to ship sensor strength",
+            "es": "de bonificación a la intensidad de los sensores de la nave.",
+            "fr": "de bonus à la puissance de détection du vaisseau",
+            "ja": "艦船のセンサー強度が増加",
+            "ko": "센서 강도 증가",
+            "ru": "повышается эффективность системы захвата целей",
+            "zh": "舰船感应强度加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 45626,
   "volume": 40.0
 }

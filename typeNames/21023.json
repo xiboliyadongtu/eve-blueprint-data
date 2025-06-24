@@ -1,5 +1,18 @@
 {
-  "typeID": 21023,
+  "description": {
+    "de": "Eine modulare Geräteausstattung, die dazu entworfen wurde, einen riesigen elektromagnetischen Schild um Capital Ships zu generieren.",
+    "en": "A modular unit designed to create a vast electromagnetic shield around capital ships.",
+    "es": "Unidad modular diseñada para crear un vasto escudo electromagnético alrededor de las naves capitales.",
+    "fr": "Unité modulaire conçue pour créer un vaste bouclier électromagnétique autour des vaisseaux capitaux.",
+    "ja": "主力艦の周囲に電磁性シールドを発生させるモジュール式ユニット。",
+    "ko": "캐피탈 함선에 사용되는 모듈식 장치로 대규모 EM 실드를 생성합니다.",
+    "ru": "Модульная система, разработанная для создания огромного силового щита вокруг корабля большого тоннажа.",
+    "zh": "用于在旗舰级飞船周围创建巨型电磁护盾的模块化装置。"
+  },
+  "groupID": 873,
+  "iconID": 2865,
+  "marketGroupID": 781,
+  "mass": 10000.0,
   "name": {
     "de": "Capital Shield Emitter",
     "en": "Capital Shield Emitter",
@@ -10,5 +23,7 @@
     "ru": "Capital Shield Emitter",
     "zh": "旗舰护盾发射器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 2000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 22232,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese Station ist ein Informationszentrum des Angel Cartels. Hier speichern und filtern sie alle Daten, die von ihren Agenten in der gesamten Konstellation zusammengetragen werden. Die Station ist auch ein Ort der Entspannung und Erholung für alle Mitarbeiter des Kartells in diesem Gebiet.",
+    "en": "This station is a center of information for the Angel Cartel. Here, they store and filter all the data gathered by their agents throughout the constellation. It also acts as a place of recreation and relaxation for all cartel members in the area.",
+    "es": "Esta estación es un centro de información del Cártel de los Ángeles. Aquí almacenan y filtran todos los datos recogidos por sus agentes en toda la constelación. También actúa como lugar de recreo y descanso para todos los miembros del Cártel en la zona.",
+    "fr": "Cette station est un centre d'informations pour le cartel angel. C'est là que sont conservées et filtrées toutes les données recueillies dans la constellation par les agents du cartel. C'est également un lieu de détente et de relaxation ouvert à tous les membres du cartel de la zone.",
+    "ja": "エンジェルカルテルの情報センターとして機能するステーション。コンステレーション各所でエージェントが収集したデータはここに保管され、ふるいにかけられる。地域一帯のカルテル会員のレクリエーションやリラックスの場として利用されることもある。",
+    "ko": "엔젤 카르텔에게 정보의 중심지로 활용되는 정거장입니다. 엔젤 카르텔의 에이전트들이 성좌 도처에서 모은 정보들이 이곳에 저장됩니다. 저장고의 용도 이외에도 카르텔 구성원들이 휴식을 취하고 유흥을 즐기는 장소이기도 합니다.",
+    "ru": "Эта станция служит информационным центром Картеля Angel. Здесь они хранят и обрабатывают все данные, собранные агентами по всему созвездию. Это ещё и место отдыха для всех представителей картеля в этой области.",
+    "zh": "这座空间站是天使企业联合体的信息中心。在这里，他们筛选并存储该星座所有特工收集的数据。同时它也是该区域天使成员休闲放松的地方。"
+  },
+  "graphicID": 2782,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Angel Information Center",
     "en": "Angel Information Center",
@@ -10,5 +23,10 @@
     "ru": "Angel Information Center",
     "zh": "天使信息中心"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 4974.0,
+  "sofFactionName": "gallentebase",
   "volume": 100000000.0
 }

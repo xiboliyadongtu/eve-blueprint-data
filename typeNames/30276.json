@@ -1,5 +1,18 @@
 {
-  "typeID": 30276,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Die winzigen Bullaugen starren ins All hinaus und gewähren Einblick in das durch einst imposante Panzerplatten umschlossene, seltsame Innere dieser Struktur. Im Zwielicht reihen sich kleine Kammern kaum erkennbar aneinander und winden sich endlos durch die dunklen Korridore dieser gigantischen Verbindungskonstruktion. Myriaden Leitungskabel stoßen auf dicke Rohre, die alle defekt oder sogar stark beschädigt sind. Eine unerklärliche elektronische Interferenz ist aus dem Inneren wahrnehmbar und legt die Vermutung nahe, dass noch nicht alles im Inneren vollständig verfallen ist.",
+    "en": "Tiny windows looking out into space offer a glimpse past this structure's once-impressive armor plating and through to the strange sights within. Barely visible in the dim light are rows upon rows of small chambers, stretching out endlessly inside the darkened hallways of this mammoth conduit. A myriad of connective wires interlace with giant pipelines, all of them broken or badly damaged. A strange electronic interference emanates from deep inside the facility, suggesting that perhaps not everything inside has fallen into disrepair.",
+    "es": "Las diminutas ventanas que miran hacia el espacio permiten ver, más allá del otrora impresionante blindaje de esta estructura, las extrañas vistas de su interior. Apenas visibles en la tenue luz, hay filas y filas de pequeñas cámaras que se extienden sin fin por los oscuros pasillos de este gigantesco conducto. Una miríada de cables conectores se entrelazan con gigantescas tuberías que están rotas o muy dañadas. Una misteriosa interferencia electrónica emana de la instalación, lo que sugiere que tal vez no todo el interior se haya deteriorado.",
+    "fr": "À travers de minuscules fenêtres donnant sur l'espace, on peut voir le blindage autrefois impressionnant de cette structure, ainsi qu'un spectacle des plus étranges. À peine visibles dans cette lumière feutrée, des rangées de petits caissons s'étendent à perte de vue dans les couloirs obscurs de ce gigantesque conduit. D'innombrables câbles s'entremêlent avec d'immenses tuyaux endommagés ou complètement détruits. Une étrange interférence électronique émane du cœur de ce complexe, laissant supposer qu'une partie du système est encore en état de marche.",
+    "ja": "宇宙空間が見える小さな窓の向こうには、この建造物のかつては他を圧していたアーマープレートと、内部が透けて見える奇妙な光景が広がっている。薄暗がりの下、小部屋が並んでいるのがかろうじて分かる。巨大な暗渠の中にある暗い廊下に果てしなく連なっている。結合用の無数のワイヤーが巨大なパイプラインの間を走っているが、パイプラインはどれも破壊されているか激しく損傷している。奇妙な妨害信号が施設の奥深くから発信されていることから、内部には破壊されていない部分も残っていることが分かる。",
+    "ko": "한때 견고했던 장갑 사이에 설치된 자그마한 창문들을 통해 구조물 내부를 들여다 볼 수 있습니다. 어둠이 집어삼킨 거대한 복도에는 소형 수면 장치가 끝도 없이 늘어서 있습니다. 교차연결되어있는 수많은 전선과 배관은 모두 망가졌거나 손상이 심한 상태입니다. 시설 내부에서 정체불명의 전파신호가 발산되는 걸 보아 내부의 모든 것이 다 파손된 것은 아닌 것 같습니다.",
+    "ru": "Крохотные окошки, проделанные в некогда впечатляющей броне этого сооружения, позволяют разглядеть скрывающиеся за ней странные помещения. В недрах базы бесконечными сумеречными коридорами тянутся ряды небольших камер, освещаемых тусклым светом. Мириады кабелей переплетаются с гигантскими трубопроводами, но все они поломаны или сильно повреждены. Из глубин этого объекта исходят странные радиопомехи; возможно, еще не все здесь пришло в запустение.",
+    "zh": "从小小的舷窗中可以窥见这座宏伟建筑上让人惊叹的装甲腹板以及各种诡异的细节。在昏暗的灯光下，可以看到一排排小房间一层叠一层地在这座建筑物中沿着走道延伸出去。复杂的线路相互交织在巨大的管道上，但它们都遭受了严重的损坏。一股奇怪的电子干扰从这座建筑的深处发射出来，暗示这个建筑物的内部还有某种东西依然在运作。"
+  },
+  "graphicID": 3520,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Crippled Sleeper Preservation Conduit",
     "en": "Crippled Sleeper Preservation Conduit",
@@ -10,5 +23,9 @@
     "ru": "Crippled Sleeper Preservation Conduit",
     "zh": "毁坏的冬眠者后勤储管"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 11361.0,
+  "sofFactionName": "sleeperbase",
   "volume": 100000000.0
 }

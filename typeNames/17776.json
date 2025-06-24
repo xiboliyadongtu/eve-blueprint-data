@@ -1,5 +1,18 @@
 {
-  "typeID": 17776,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Fertigungshallen sind unverzichtbar zur Großproduktion von High-Tech oder illegalen Modulen, von denen die großen Imperien nicht wollen, dass sie in ihrem Hoheitsgebiet hergestellt werden. Diese hier ist zwar recht klein, aber dafür überaus effizient. Die Produktion hochwertiger Module erfolgt hier überraschend schnell.",
+    "en": "Assembly Arrays are oftentimes required to manufacture many high-tech and illegal modules that the empires don't want manufactured in their stations.  While humble in size, this one is able to operate at a high level of efficiency, bringing its operators quality modules with surprising speed.",
+    "es": "Las baterías de montaje a menudo son necesarias para fabricar muchos módulos ilegales y de alta tecnología que los imperios no quieren que se fabriquen en sus estaciones. Si bien es de tamaño modesto, esta puede funcionar a un alto nivel de eficiencia, lo que ofrece módulos de calidad con una velocidad sorprendente.",
+    "fr": "Les modules d'assemblage sont souvent nécessaires pour produire des modules de haute technologie et illégaux que les empires refusent de produire dans leurs stations.  Malgré sa taille correcte, ce modèle est capable de fonctionner à un niveau d'efficacité très élevé, livrant à ses opérateurs des modules de qualité à une vitesse incroyable.",
+    "ja": "直営ステーション内で製造されることを帝国が避けたい、高度で違法なモジュールの多くは、アセンブリ施設がないと製造できない。このアセンブリ施設は小型だが作業効率が高く、驚くほど短時間で良質のモジュールを製造できる。",
+    "ko": "각 국가에서 생산을 금지한 최첨단 모듈들을 자유롭게 제작할 수 있는 생산 시설입니다. 크기는 그리 크지 않지만 높은 효율성을 갖추고 있어 고품질의 모듈을 빠르게 생산할 수 있습니다.",
+    "ru": "Для изготовления множества высокотехнологичных или незаконных модулей, которые империи не позволяют производить на своих станциях, часто используются сборочные линии. Несмотря на свой небольшой размер, эта линия способна качественно и удивительно быстро выпускать продукцию.",
+    "zh": "装配阵列经常被用于制造那些许多帝国不想在自己的空间站内制造的非法高科技模块。这个阵列的尺寸虽然不大，运行效率却很高，能将高质量模块以令人吃惊的速度生产出来。"
+  },
+  "graphicID": 2377,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Starbase Minor Assembly Array",
     "en": "Starbase Minor Assembly Array",
@@ -10,5 +23,10 @@
     "ru": "Starbase Minor Assembly Array",
     "zh": "母星小型装配阵列"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 800.0,
+  "sofFactionName": "genericmetal",
+  "soundID": 20195,
   "volume": 100000000.0
 }

@@ -1,5 +1,21 @@
 {
-  "typeID": 34294,
+  "basePrice": 655792.0,
+  "capacity": 3.0,
+  "description": {
+    "de": "Ein gewaltiger Lenkwaffenwerfer, der für lang andauernden Beschuss von schweren Zielen wie Schlachtschiffen und Stationen entwickelt wurde. Er hat eine große Lenkwaffenkapazität, aber eine geringe Feuerrate und Probleme bei der Aufschaltung kleiner, schneller Schiffe. Polarisierte Waffen bieten extrem gute Primärwerte, machen dafür aber alle Widerstände auf einem Schiff zunichte, in das sie eingebaut wurden.",
+    "en": "A massive launcher designed for extended bombardments of hard targets like battleships and stations. Contains a huge missile capacity, but has a slow firing rate and trouble targeting small, fast ships.\r\n\r\nPolarized weapons offer extremely good primary stats, but come with the cost of completely negating all resistances on a ship if fitted.",
+    "es": "Lanzador enorme diseñado para bombardeos prolongados a objetivos resistentes, como acorazados o estaciones. Lleva una gran capacidad misilística, pero tiene una cadencia de tiro lenta y le cuesta fijar naves pequeñas y rápidas en el punto de mira.\n\n\n\nLas armas polarizadas ofrecen estadísticas principales extremadamente buenas, pero tienen el coste de anular por completo todas las resistencias de la nave en que están equipadas.",
+    "fr": "Lanceur lourd conçu pour les bombardements prolongés de cibles massives telles que des cuirassés ou des stations. Il dispose d'une grande capacité de stockage de missiles, mais est pénalisé par sa faible cadence de tir et son système de ciblage peu efficace pour les vaisseaux petits et rapides.\n\nLes armes polarisées offrent de très bons statistiques principaux, mais leur installation a pour effet d'annuler toutes les résistances d'un vaisseau.",
+    "ja": "戦艦や固定施設といった頑丈な標的に爆撃を加え続けるのに適した大型ランチャー。装填可能弾数は非常に多いが、連射速度が遅く、小型高機動艦の攻撃はしづらい。\n\nポーラライズド系兵器は、主要なステータスに非常に良い影響を及ぼす。ただし、装備した艦船のレジスタンスが完全に無効化されるというデメリットもある。",
+    "ko": "장기 포격에 특화된 무기로 견고한 방어 체계를 지닌 배틀쉽 또는 정거장에 막대한 피해를 입힙니다. 다수의 미사일을 탑재할 수 있으나 발사속도가 느리며 작고 빠른 함선을 타겟팅하기 어렵습니다. <br><br>극성 무기는 출중한 기본 능력치를 지녔으나 함선에 장착하게 될 경우 피해 저항력이 무효화됩니다.",
+    "ru": "Гигантская пусковая установка, предназначенная для продолжительного ведения ракетного огня по хорошо защищённым целям, таким как линкоры и станции. Она отличается внушительным боезапасом, но обладает невысокой скорострельностью и низкой эффективностью стрельбы по малым и подвижным целям.\n\n«Поляризованное» вооружение имеет высочайшие ключевые характеристики, но оснащённый им корабль полностью лишается сопротивлений всем поражающим факторам.",
+    "zh": "一种大型发射器，专为对战列舰和空间站等坚固目标进行长时间轰炸而设计。具有极大的弹载量，但是发射速度慢，而且很难锁定小型高速舰只。\n\n偏振式武器的主要参数极佳，但同时会使舰船装配的任何抗性装备完全失效。"
+  },
+  "graphicID": 21585,
+  "groupID": 508,
+  "iconID": 170,
+  "marketGroupID": 644,
+  "metaGroupID": 2,
   "name": {
     "de": "Polarized Torpedo Launcher",
     "en": "Polarized Torpedo Launcher",
@@ -10,5 +26,11 @@
     "ru": "Polarized Torpedo Launcher",
     "zh": "偏振式鱼雷发射器"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 50.0,
+  "sofFactionName": "sleeperbase",
+  "variationParentTypeID": 503,
   "volume": 20.0
 }

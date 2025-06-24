@@ -1,5 +1,20 @@
 {
-  "typeID": 45621,
+  "description": {
+    "de": "Dieses Subsystem dämmt die durch den Mikrowarpantrieb verursachte Spur ein, sodass Schiffe selbst bei hoher Geschwindigkeit einen niedrigeren Signaturradius einhalten. Das zugrundeliegende Design nutzt dieselbe Technologie wie kleinere Sleeper-Drohnen und Interceptor-Schiffe des Imperiums. Die technischen Möglichkeiten für Spurbegrenzer existieren schon seit geraumer Zeit, aber die Imperien können sie erst in modularen Subsystemen einsetzen, seitdem Fulleren-Polymere leichter verfügbar sind.",
+    "en": "This subsystem limits the wake left behind by a starship's microwarpdrive, allowing a pilot to maintain a lowered signature radius while still moving at high speed. The underlying design is based on the same technology used by smaller Sleeper drones and empire-produced Interceptors. Although the engineering processes behind wake limiters have existed for quite some time in the empires, their application in modular subsystems has only become a possibility after fullerene polymers became more widely available.",
+    "es": "Este subsistema reduce la estela que deja el motor de microwarp de la nave, lo que permite al piloto mantener un radio de señal reducido mientras se mueve a gran velocidad. El diseño subyacente se basa en la misma tecnología utilizada por los drones sleepers más pequeños y por los interceptores producidos por el Imperio. Aunque los procesos de ingeniería utilizados llevan tiempo existiendo en los imperios, su uso en subsistemas modulares solo ha sido posible gracias al aumento de disponibilidad de los polímeros fullerenos.",
+    "fr": "Ce sous-système limite le sillage laissé par le micropropulseur de warp d'un vaisseau spatial, permettant ainsi au pilote de maintenir un faible rayon de signature tout en se déplaçant à vitesse grand V. Le modèle sous-jacent est basé sur la même technologie utilisée par les plus petits drones sleeper et les intercepteurs produits par l'Empire. Si les processus d'ingénierie visant à limiter le sillage des vaisseaux existent depuis longtemps au sein des Empires, leur utilisation pour les sous-systèmes modulaire n'a été rendue possible qu'après la généralisation des polymères de fullerène.",
+    "ja": "船のマイクロワープドライブが残す航跡を抑制するサブシステム。高速で移動中も、シグネチャ半径を小さく保つことができる。設計の根本には小型スリーパードローンや各帝国のワープ妨害型フリゲートなどと同等の技術が使われている。航跡抑制の元となる工学プロセスは、各帝国で随分以前から存在したが、フラーレン重合体が幅広く使用されるようになったことでモジュラーサブシステムへの応用も可能になった。",
+    "ko": "마이크로 워프 드라이브가 남기는 항적을 줄이는 방식으로 고속 이동 중 낮은 시그니처 반경을 유지하게 해주는 서브시스템입니다. 소형 슬리퍼 드론 또는 인터셉터 제작에 사용된 기술을 기반으로 만들어졌습니다. 항적 제한 장치의 기술적 기반이 성립된 지는 오래되었지만, 퓰러렌 폴리머를 쉽게 구할 수 있게 된 이후에야 서브시스템에 적용하는 것이 가능해졌습니다.",
+    "ru": "Эта подсистема уменьшает след, оставляемый микроварп-ускорителями стратегического крейсера — его пилот может не беспокоиться об увеличении размера сигнатуры корабля при движении на большой скорости. Технологические решения, лежащие в основе подсистемы, применяются как Спящими (в малоразмерных дронах), так и сверхдержавами Нового Эдема (при производстве перехватчиков). Несмотря на то, что соответствующие технологические процессы известны достаточно давно, их применение в сменных подсистемах стало возможным лишь после начала массового производства фуллеренных полимеров.",
+    "zh": "这个设备能够降低和抑阻舰船微型跃迁设备所留下的尾迹残余物质，使飞行员在进行高速飞行的同时大大降低自身的信号强度半径。这种科技来源于小型的冬眠者无人机和各国的拦截舰上的同类型科技。尽管这种减灭尾迹的技术已经在各大国中存在了相当长的一段时间，但它们能被用于模块化的三级科技舰船上只是在富勒烯合成物技术成熟过后才实现的。"
+  },
+  "graphicID": 21793,
+  "groupID": 957,
+  "iconID": 3646,
+  "marketGroupID": 1137,
+  "mass": 1400000.0,
+  "metaGroupID": 14,
   "name": {
     "de": "Loki Propulsion - Wake Limiter",
     "en": "Loki Propulsion - Wake Limiter",
@@ -10,5 +25,75 @@
     "ru": "Loki Propulsion - Wake Limiter",
     "zh": "洛基推进 - 尾迹抑制器"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "sofFactionName": "minmatarbase",
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "<b><u>Zusätzliche Basiswerte</b></u>",
+          "en": "<b><u>Additional Base Stats</b></u>",
+          "es": "<b><u>Estadísticas básicas adicionales</b></u>",
+          "fr": "<b><u>Stats de base supplémentaires</b></u>",
+          "ja": "<b><u>追加ベース統計</b></u>",
+          "ko": "<b><u>추가 기본 능력치</b></u>",
+          "ru": "<b><u>Кроме того:</b></u>",
+          "zh": "<b><u>附加基础数值</b></u>"
+        },
+        "importance": 1
+      },
+      {
+        "bonusText": {
+          "de": "+2 Mid Slots",
+          "en": "+2 Mid Slots",
+          "es": "+2 ranuras intermedias",
+          "fr": "+2 Emplacements intermédiaires",
+          "ja": "ミッドスロット+2",
+          "ko": "미드 슬롯 +2",
+          "ru": "+2 разъёма средней мощности",
+          "zh": "中槽+2"
+        },
+        "importance": 2
+      }
+    ],
+    "types": {
+      "30554": [
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf den Geschwindigkeitsbonus von <a href=showinfo:3450>Nachbrennern</a>",
+            "en": "bonus to <a href=showinfo:3450>Afterburner</a> velocity bonus",
+            "es": "de bonificación a la velocidad del <a href=showinfo:3450>posquemador</a>.",
+            "fr": "de bonus au bonus de vitesse de la <a href=showinfo:3450>post-combustion</a>",
+            "ja": "<a href=showinfo:3450>アフターバーナー</a>速度ボーナスが増加",
+            "ko": "<a href=showinfo:3450>애프터버너</a> 속도 보너스 증가",
+            "ru": "повышается влияние <a href=showinfo:3450>форсажных ускорителей</a> на скорость полёта корабля",
+            "zh": "<a href=showinfo:3450>加力燃烧器</a>速度增益加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Reduktion des <a href=showinfo:3454>Mikrowarpantrieb</a>-Signaturradius",
+            "en": "reduction in <a href=showinfo:3454>Microwarpdrive</a> signature radius penalty",
+            "es": "de reducción de la penalización de radio de la señal del <a href=showinfo:3454>motor de microwarp</a>.",
+            "fr": "réduction de la pénalité du rayon de signature du <a href=showinfo:3454>micropropulseur de warp</a>",
+            "ja": "<a href=showinfo:3454>マイクロワープドライブ</a>のシグネチャ半径ペナルティが減少",
+            "ko": "<a href=showinfo:3454>마이크로 워프 드라이브</a> 시그니처 반경 페널티 감소",
+            "ru": "уменьшается влияние <a href=showinfo:3454>микроварп-ускорителей</a> на размер сигнатуры корабля",
+            "zh": "<a href=showinfo:3454>微型跃迁推进器</a>的信号半径惩罚减少"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 45620,
   "volume": 40.0
 }

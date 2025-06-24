@@ -1,5 +1,18 @@
 {
-  "typeID": 28247,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Verstärkte Angel-Station. Man weiß nicht viel darüber, was genau hier vor sich geht.",
+    "en": "Reinforced Angel Station.\r\n\r\nLittle is known about what exactly goes on in here.",
+    "es": "Estación de los Ángeles reforzada.\n\nPoco se sabe sobre lo que pasa aquí exactamente.",
+    "fr": "Station angel renforcée.\n\nCet endroit cache des activités bien mystérieuses...",
+    "ja": "強化されたエンジェルステーション。この中で何が行われているかはほとんど知られていない。",
+    "ko": "강화된 엔젤 카르텔의 정거장입니다. <br><br>이곳에서 어떤 일이 벌어지고 있는지에 대해 알려진 바가 거의 없습니다.",
+    "ru": "Укрепленная станция Angel.\n\nНемного известно о том, что именно там происходит.",
+    "zh": "经过强化的天使空间站。 外界不清楚这里发生了什么。"
+  },
+  "graphicID": 2357,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Angel Battlestation_event",
     "en": "Angel Battlestation_event",
@@ -10,5 +23,10 @@
     "ru": "Angel Battlestation_event",
     "zh": "天使太空堡垒_事件"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 6185.0,
+  "sofFactionName": "angelbase",
   "volume": 100000000.0
 }

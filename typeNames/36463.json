@@ -1,5 +1,17 @@
 {
-  "typeID": 36463,
+  "description": {
+    "de": "Unidentifizierte, massenhafte Trümmer. Die Sensoren zeigen mehrere starke, stetig ausstrahlende Energiewogen.",
+    "en": "Unidentified debris on a massive scale. Sensors indicate multiple severe power surges emanating throughout.",
+    "es": "Escombros no identificados a gran escala. Los sensores detectan múltiples y elevados picos de tensión.",
+    "fr": "Débris non identifiés à échelle massive. Les détecteurs indiquent de multiples surtensions qui émanent aux alentours",
+    "ja": "身元不明の大量の瓦礫強力な電力サージが複数発生し続けていることをセンサーが感知。",
+    "ko": "매립지에는 정체를 알 수 없는 잔해가 끝 없이 펼쳐져 있습니다. 센서를 통해 이 지역에서 강력한 전파가 방사되고 있다는 사실을 알게 되었습니다.",
+    "ru": "Неидентифицированное гигантское поле обломков. Бортовые системы сигнализируют о множественных мощных выплесках энергии в ближайшем окружении.",
+    "zh": "大面积的不明残片。感应器侦测到多处剧烈的能量波动。"
+  },
+  "graphicID": 21172,
+  "groupID": 226,
+  "mass": 100000000000.0,
   "name": {
     "de": "Massive Debris",
     "en": "Massive Debris",
@@ -10,5 +22,10 @@
     "ru": "Massive Debris",
     "zh": "大量的碎片"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 64,
+  "radius": 7850.0,
+  "sofFactionName": "drifter",
   "volume": 10000000000.0
 }

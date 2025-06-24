@@ -1,5 +1,70 @@
 {
-  "typeID": 11365,
+  "basePrice": 19800000.0,
+  "capacity": 210.0,
+  "description": {
+    "de": "Die Vengeance repräsentiert die neueste Entwicklung in der ständigen Verschmelzung von Technologie der Amarr und Caldari durch das Königreich Khanid, wobei neue und interessante Modelle entstehen. Da das Schiff über die für Schiffe der Caldari typischen Montageplätze für Werfer und die Panzerungssysteme eines Schiffes der Amarr verfügt, ist diese unbarmherzige Kampfmaschine perfekt geeignet, wenn es auf kurzer Distanz zur Sache geht.",
+    "en": "The Vengeance represents the latest in the Kingdom's ongoing mission to wed Amarr and Caldari tech, molding the two into new and exciting forms. Sporting a Caldari ship's launcher hardpoints as well as an Amarr ship's armor systems, this relentless slugger is perfect for when you need to get up close and personal.",
+    "es": "La Vengeance es el último logro del Reino en su misión por combinar las tecnología amarriana y caldari de nuevas y emocionantes formas. Equipada con puntos de montaje de lanzador caldaris y sistemas de blindaje amarrianos, esta imparable nave es perfecta para aquellas ocasiones en las que la cosa se decide en un cara a cara.",
+    "fr": "Le Royaume s'est donné pour objectif de fusionner les technologies amarr et caldari. Avec le Vengeance, ses scientifiques ont fait un grand pas dans la bonne direction. Disposant des points de fixation pour lanceur des vaisseaux caldari et des systèmes de blindage des vaisseaux amarr, ce vaisseau de choc est tout indiqué pour aller au plus près de l'ennemi.",
+    "ja": "ベンジェンスは、アマーとカルダリの技術を融合させるという現在も進行しているミッションの最新成果である。2つの技術の融合によって新たな刺激的形態が作り出された。カルダリ艦的なランチャー用ハードポイントとアマー艦的なアーマーシステムを備え、近距離での個人戦において徹底した破壊力を誇る。",
+    "ko": "벤젼스는 아마르와 칼다리의 함선 설계를 융합하는 과정에서 탄생한 함선으로 상당히 독특한 형태를 자랑합니다. 칼다리 미사일 체계와 아마르 장갑 시스템으로 무장한 이 함선은 근접 교전 시 적에게 가차 없는 공격을 가합니다.",
+    "ru": "Модель Vengeance — новейшая разработка инженеров Ханидского Королевства, которые специализируются на поиске новых захватывающих комбинаций амаррских и калдарских технологий. Этот крупный и мощный корабль снабжен амаррской бронёй и точками монтажа калдарских ПУ, поэтому идеально подходит для одиночных сражений на ближней дистанции.",
+    "zh": "复仇级突击护卫舰代表了卡尼迪王国结合艾玛和加达里科技的最新成果，这两种技术铸造了新型且令人激动的船型。这个冷血杀手配有加达里飞船的发射器槽位和艾玛飞船的装甲系统，是你近身搏杀的理想选择。"
+  },
+  "factionID": 500003,
+  "graphicID": 1860,
+  "groupID": 324,
+  "marketGroupID": 433,
+  "mass": 1046700.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      75,
+      150,
+      89,
+      93,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      75,
+      150,
+      89,
+      93,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      75,
+      150,
+      89,
+      93,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      75,
+      150,
+      89,
+      93,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      75,
+      117,
+      150,
+      89,
+      93,
+      94
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Vengeance",
     "en": "Vengeance",
@@ -10,5 +75,111 @@
     "ru": "Vengeance",
     "zh": "复仇级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 40.0,
+  "sofFactionName": "khanidinnovation",
+  "soundID": 20063,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Kann <a href=showinfo:47254>Angriffsschadensregulierer</a> ausrüsten",
+          "en": "Can fit <a href=showinfo:47254>Assault Damage Controls</a>",
+          "es": "Es posible equipar <a href=showinfo:47254>controles de daños por asalto</a>.",
+          "fr": "Peut être équipé des <a href=showinfo:47254>contrôles des dégâts d'assaut</a>",
+          "ja": "<a href=showinfo:47254>アサルトダメージ制御</a>を装備可能",
+          "ko": "<a href=showinfo:47254>어썰트 데미지 컨트롤</a> 장착가능",
+          "ru": "Позволяет установить <a href=showinfo:47254>ударные модули боевой живучести</a>",
+          "zh": "可以装配<a href=showinfo:47254>突击损伤控制</a>装备"
+        },
+        "importance": 2
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Reduktion des <a href=showinfo:3454>Mikrowarpantrieb</a>-Signaturradius",
+          "en": "reduction in <a href=showinfo:3454>Microwarpdrive</a> signature radius penalty",
+          "es": "de reducción de la penalización de radio de la señal del <a href=showinfo:3454>motor de microwarp</a>.",
+          "fr": "de réduction à la pénalité de rayon de signature des <a href=showinfo:3454>propulseurs de microwarp</a>",
+          "ja": "<a href=showinfo:3454>マイクロワープドライブ</a>のシグネチャ半径ペナルティが軽減",
+          "ko": "<a href=showinfo:3454>마이크로 워프 드라이브</a> 시그니처 반경 페널티 감소",
+          "ru": "уменьшается влияние <a href=showinfo:3454>микроварп-ускорителей</a> на размер сигнатуры корабля",
+          "zh": "<a href=\"showinfo:3454\">微型跃迁推进器</a>的信号半径惩罚加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3331": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf die Feuerrate von <a href=showinfo:3321>Leichten Lenkwaffenwerfern</a> und <a href=showinfo:3320>Raketenwerfern</a>",
+            "en": "bonus to <a href=showinfo:3321>Light Missile</a> and <a href=showinfo:3320>Rocket</a> Launcher rate of fire",
+            "es": "de bonificación a la cadencia de tiro de los <a href=showinfo:3321>lanzamisiles ligeros</a> y los <a href=showinfo:3320>lanzacohetes</a>.",
+            "fr": "de bonus à la cadence de tir des <a href=showinfo:3321>lance-missiles légers</a> et des <a href=showinfo:3320>lance-roquettes</a>",
+            "ja": "<a href=showinfo:3321>ライトミサイル</a>と<a href=showinfo:3320>ロケット</a>ランチャーの発射間隔が短縮",
+            "ko": "<a href=showinfo:3321>라이트 미사일</a> 및 <a href=showinfo:3320>로켓</a> 런처 연사속도 증가",
+            "ru": "увеличивается скорострельность ПУ <a href=showinfo:3321>лёгких ракет</a> и <a href=showinfo:3320>лёгких штурмовых ракет</a>",
+            "zh": "<a href=\"showinfo:3320\">火箭</a>和<a href=\"showinfo:3321\">轻型导弹</a>发射器射速加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3320>Raketen</a>",
+            "en": "bonus to <a href=showinfo:3320>Rocket</a> damage",
+            "es": "de bonificación al daño de los <a href=showinfo:3320>cohetes</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:3320>roquettes</a>",
+            "ja": "<a href=showinfo:3320>ロケット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3320>로켓</a> 피해량 증가",
+            "ru": "увеличивается урон БЧ <a href=showinfo:3320>лёгких штурмовых ракет</a>",
+            "zh": "<a href=\"showinfo:3320\">火箭</a>伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ],
+      "12095": [
+        {
+          "bonus": 4.0,
+          "bonusText": {
+            "de": "Bonus auf alle Panzerungsresistenzen",
+            "en": "bonus to all armor resistances",
+            "es": "de bonificación a todas las resistencias de blindaje.",
+            "fr": "de bonus à toutes les résistances du blindage",
+            "ja": "全てのアーマーレジスタンスが増加",
+            "ko": "모든 장갑 저항력 증가",
+            "ru": "повышается сопротивляемость брони корабля всем видам воздействия",
+            "zh": "装甲抗性加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf die Energiespeicherladezeit",
+            "en": "bonus to ship capacitor recharge rate",
+            "es": "de bonificación a la velocidad de carga del condensador de la nave.",
+            "fr": "de bonus à la vitesse de recharge du capaciteur du vaisseau",
+            "ja": "艦船のキャパシタリチャージ率が増加",
+            "ko": "함선 캐패시터 충전 속도 증가",
+            "ru": "повышается скорость регенерации энергии в накопителе корабля",
+            "zh": "舰船电容回充速率加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 597,
   "volume": 28600.0
 }

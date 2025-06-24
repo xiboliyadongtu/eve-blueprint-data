@@ -1,5 +1,18 @@
 {
-  "typeID": 28259,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Mit der richtigen Bergungsausrüstung kann man wohl doch noch etwas Wertvolles aus diesem alten Klotz holen.",
+    "en": "You surmise that with some salvaging equipment there is still something of value to be had from this old hulk.",
+    "es": "Con algo de equipo de recuperación, quizá aún pueda sacarse algo de valor de este viejo mastodonte.",
+    "fr": "Vous estimez qu'avec du bon matériel de récupération, on pourrait tirer quelque chose de cette carcasse.",
+    "ja": "なんらかのサルベージ装置があれば、まだ、この古びた遺棄物に価値を見い出せるかもしれない。",
+    "ko": "샐비지 장비로 낡은 선체에서 부품이나 자원을 획득할 수 있습니다.",
+    "ru": "Вы думаете, что с помощью специального демонтажного оборудования из этого старого остова можно будет извлечь что-то полезное.",
+    "zh": "你估计如果使用某种打捞设备，或许还能从这老旧的船体中获得些有价值的东西。"
+  },
+  "graphicID": 3115,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "colins test Hulk",
     "en": "colins test Hulk",
@@ -10,5 +23,9 @@
     "ru": "colins test Hulk",
     "zh": "科林 测试霍克舰"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

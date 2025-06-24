@@ -1,5 +1,16 @@
 {
-  "typeID": 8746,
+  "description": {
+    "de": "Erhöht die Prozessorleistung.",
+    "en": "Increases CPU output.",
+    "es": "Aumenta el rendimiento de la CPU.",
+    "fr": "Augmente la capacité du CPU.",
+    "ja": "CPU 出力が向上する。",
+    "ko": "CPU 용량이 증가합니다.",
+    "ru": "Увеличивает вычислительную мощность процессора корабля.",
+    "zh": "增加CPU输出"
+  },
+  "groupID": 285,
+  "iconID": 1405,
   "name": {
     "de": "Quantum Co-Processor",
     "en": "Quantum Co-Processor",
@@ -10,5 +21,8 @@
     "ru": "Quantum Co-Processor",
     "zh": "量子协处理器"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
   "volume": 5.0
 }

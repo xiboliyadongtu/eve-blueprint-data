@@ -1,5 +1,18 @@
 {
-  "typeID": 44208,
+  "description": {
+    "de": "Dieses aus einem einzigen Datenkern gespeicherte Datenpaket enthält eine Blaupause für jede standardmäßige Dienstfregatte. Es scheint, als seien diese Blaupausen illegaler Weise kopiert wurden. Zwar sind sie von Herstellungshardware zur Herstellung von Schiffen nicht lesbar, allerdings wurden sie mit umfassenden Notizen versehen, die aus der Feder eines Wahnsinnigen zu stammen scheinen.",
+    "en": "Stored on a single datacore, this data pack contains a blueprint for every standard service frigate. It would appear that these blueprints have been illegally copied, and while they cannot be read by manufacturing equipment in order to be manufactured from, they do appear to have been heavily annotated with the scribblings of a madman.",
+    "es": "Este paquete de datos almacenado en un único núcleo de datos contiene un plano de cada fragata de servicio estándar. Parece que han sido copiados ilegalmente y, aunque los equipos de fabricación no pueden leerlos ni usarlos, parecen contener muchas notas con los garabatos de un loco.",
+    "fr": "Cette base de données sauvegardée sur une banque de données individuelle contient un plan de construction de chaque frégate standard en service. Indéchiffrables par les équipements de production, ces plans de construction semblent être issus de copies illégales profusément annotées de griffonnages frénétiques et névrosés.",
+    "ja": "このデータコアにはあらゆる標準型フリゲートのブループリントが記録されている。ブループリントは違法にコピーされたものらしく、実際に製造するために製造施設で読みこむこともできないが、狂ったような走り書きによって細々とした注釈が書き足されているようだ。",
+    "ko": "해당 데이터코어에는 현존하는 모든 기본형 프리깃의 블루프린트가 저장되어 있습니다. 블루프린트는 불법 복제본으로 보이며 생산 시설을 통한 물품 생산은 불가능할 것으로 예측됩니다. 추가로 블루프린트 곳곳에 미치광이가 휘갈겨 적은 각종 주석이 달려 있습니다.",
+    "ru": "Эта база данных хранится на одном инфоблоке и содержит чертежи всех типовых фрегатов. Похоже, что чертежи скопированы нелегально; промышленное оборудование не может их считать и запустить производство, но они снабжены множеством неразборчивых и спутанных пометок, вызывающих сомнения в здравом рассудке автора.",
+    "zh": "这个数据包储存在一个单一数据核心中，其中包含了所有标准护卫舰的蓝图各一份。这些蓝图明显是被非法拷贝的，不能被生产设施使用来进行制造，上面布满了不知出自哪个疯子之手的涂鸦。"
+  },
+  "groupID": 1194,
+  "iconID": 2853,
+  "marketGroupID": 1661,
+  "mass": 10.0,
   "name": {
     "de": "Forged Frigate Blueprints",
     "en": "Forged Frigate Blueprints",
@@ -10,5 +23,8 @@
     "ru": "Forged Frigate Blueprints",
     "zh": "伪造的护卫舰蓝图"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 3.0
 }

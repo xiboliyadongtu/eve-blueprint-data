@@ -1,5 +1,17 @@
 {
-  "typeID": 23546,
+  "description": {
+    "de": "Ein Gerät, mit dem man ComLink-Meldungen ver- und entschlüsseln kann.",
+    "en": "A device used to encode and decode comlink messages.",
+    "es": "Dispositivo para cifrar y descifrar mensajes de ComLink.",
+    "fr": "Dispositif permettant de coder ou de décoder les messages ComLink.",
+    "ja": "コムリンクのメッセージの暗号化および暗号解読に使用する装置。",
+    "ko": "COM링크 메시지의 암호화 및 해독에 사용하는 장치입니다.",
+    "ru": "Устройство для кодирования и расшифровки посланий.",
+    "zh": "一个用来编码和解码信道信息的设备。"
+  },
+  "groupID": 526,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "ComLink Encoder/Decoder",
     "en": "ComLink Encoder/Decoder",
@@ -10,5 +22,7 @@
     "ru": "ComLink Encoder/Decoder",
     "zh": "信道加密/破译器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

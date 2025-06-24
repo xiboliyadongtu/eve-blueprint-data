@@ -1,5 +1,18 @@
 {
-  "typeID": 16208,
+  "capacity": 75.0,
+  "description": {
+    "de": "Ein Ex-Geheimagent, der jetzt seine ehemalige Corporation um Geld erpresst.",
+    "en": "An ex-secret agent who has turned to blackmailing his former corporation for money.",
+    "es": "Antiguo agente secreto que ahora se dedica a extorsionar a su antigua corporación por dinero.",
+    "fr": "Un ex-agent secret qui a fait chanter la corporation pour laquelle il travaillait afin d'obtenir de l'argent.",
+    "ja": "以前所属していたコーポレーションを脅して金をせしめる元エージェント。",
+    "ko": "전직 비밀 요원으로 돈을 위해 과거 고용주를 협박하고 있습니다.",
+    "ru": "Бывший секретный агент, вымогающий деньги у предыдущего работодателя.",
+    "zh": "一名前秘密特工，目前正在向老雇主勒索钱财。"
+  },
+  "graphicID": 344,
+  "groupID": 818,
+  "mass": 2250000.0,
   "name": {
     "de": "Ex-Secret Agent",
     "en": "Ex-Secret Agent",
@@ -10,5 +23,10 @@
     "ru": "Ex-Secret Agent",
     "zh": "前安全官员"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 64.0,
+  "sofFactionName": "angelbase",
   "volume": 22500.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 3453,
+  "basePrice": 35000.0,
+  "description": {
+    "de": "Verbesserte Fertigkeit zum Manövrieren und Beschleunigen eines Raumschiffs. 5 % Bonus auf die Wendigkeit aller Raumschiffe je Skillstufe.",
+    "en": "Improved skill at efficiently turning and accelerating a spaceship. 5% improved ship agility for all ships per skill level.",
+    "es": "Habilidad mejorada para maniobrar y acelerar una nave espacial de manera eficiente. +5 % de agilidad mejorada a todas las naves por nivel de habilidad.",
+    "fr": "Compétence avancée permettant de virer et d'accélérer efficacement avec un vaisseau. Augmente de 5 % par niveau de compétence la maniabilité de tous les vaisseaux.",
+    "ja": "宇宙船を効率的に方向転換させたり加速させたりする上級スキル。スキルレベル上昇ごとに全ての船の機動性が5%上昇。",
+    "ko": "함선 선회력 및 가속도를 위한 스킬입니다. 매 레벨마다 함선 기동성 5% 증가",
+    "ru": "Углублённый навык эффективного разворота и разгона корабля. За каждую степень освоения навыка: на 5% повышается маневренность всех кораблей.",
+    "zh": "高效转向和加速飞船的进阶技能。每升一级，飞船的灵活性提升5%。"
+  },
+  "groupID": 275,
+  "iconID": 33,
+  "marketGroupID": 374,
   "name": {
     "de": "Evasive Maneuvering",
     "en": "Evasive Maneuvering",
@@ -10,5 +23,7 @@
     "ru": "Повышение маневренности кораблей",
     "zh": "规避机动理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

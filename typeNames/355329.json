@@ -1,5 +1,17 @@
 {
-  "typeID": 355329,
+  "basePrice": 500.0,
+  "description": {
+    "de": "Neutralisiert die Schildladung von Feinden innerhalb eines 15m-Radius. Kann nur vom Feldzugdropsuit ausgerüstet werden.",
+    "en": "Cancels shield recharge of enemy units within 15m radius. Can only be equipped by the Crusader dropsuit.",
+    "es": "Cancela la recarga del escudo de las unidades enemigas en un radio de 15 m. Solo se puede equipar en el traje de salto Cruzado.",
+    "fr": "Annule la recharge du bouclier des unités ennemies dans un rayon de 15 m. Peut uniquement être équipé sur la combinaison Croisade.",
+    "it": "Annulla la ricarica scudo delle unità nemiche nel raggio di 15 m. Può essere montato solo sull'armatura Crociato.",
+    "ja": "半径15m以内の敵のシールドリチャージを無効にする。クルセイダー降下スーツでのみ装備が可能。",
+    "ko": "15m 반경 이내 적군의 실드 회복 스킬을 취소합니다. 크루세이더 강하슈트에만 장착 가능합니다.",
+    "ru": "Подавляет подзарядку щитов у вражеских боевых единиц в радиусе 15 м. Можно устанавливать только в скафандр класса «Крестоносец».",
+    "zh": "取消半径15米范围内敌军的护盾充能。只能装配于十字军作战服。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "[DEV] Anti-Schildlader",
     "en": "[DEV] Anti-Shield Recharger",
@@ -11,5 +23,7 @@
     "ru": "[DEV] Система нейтрализации подзарядки щита",
     "zh": "[DEV]反护盾回充器"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

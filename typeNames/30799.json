@@ -1,5 +1,16 @@
 {
-  "typeID": 30799,
+  "description": {
+    "de": "Die Wrackteile dieses riesigen Rumpfes waren offenbar einmal Teile der Außenhülle eines Kampfschiffes oder einer Station.",
+    "en": "This massive hulk of debris seems to have once been a part of the outer hull of a battleship or station.",
+    "es": "Este enorme montón de escombros parece haber sido en su día parte del casco exterior de un acorazado o una estación.",
+    "fr": "Cette immense quantité de débris semble avoir fait partie d'une station ou de la coque externe d'un cuirassé.",
+    "ja": "巨大な瓦礫。かつては戦艦やステーションの外殻の一部であったものだろう。",
+    "ko": "한때 배틀쉽 또는 정거장의 일부였을 것으로 추정되는 거대한 잔해물입니다.",
+    "ru": "Этот массивный разбитый корпус видимо когда-то был частью внешнего корпуса линкора или станции.",
+    "zh": "这个巨大的残骸看上去曾经应该是某个战列舰或空间的外壳。"
+  },
+  "graphicID": 3704,
+  "groupID": 226,
   "name": {
     "de": "Debris - Broken Drive Unit",
     "en": "Debris - Broken Drive Unit",
@@ -10,5 +21,8 @@
     "ru": "Debris - Broken Drive Unit",
     "zh": "碎片 - 损坏的动力单元"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 314.0,
+  "sofFactionName": "debris"
 }

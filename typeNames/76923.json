@@ -1,5 +1,17 @@
 {
-  "typeID": 76923,
+  "description": {
+    "de": "Die Überreste eines zerstörten Föderations-Schiffswerfer-Signalfeuers.",
+    "en": "The remains of a destroyed Federation Shipcaster Beacon.",
+    "es": "Los restos de una baliza de lanzador interestelar de la Federación destruida.",
+    "fr": "Les vestiges d'une balise de lance-vaisseaux de la Fédération détruite.",
+    "ja": "破壊された連邦艦艇キャスタービーコンの残骸。",
+    "ko": "파괴된 연방 함선전송기 비컨의 잔해입니다.",
+    "ru": "Обломки уничтоженного маяка галлентского кораблепускателя.",
+    "zh": "已摧毁的联邦舰船弹射台信标残骸。"
+  },
+  "graphicID": 25935,
+  "groupID": 186,
+  "mass": 10000.0,
   "name": {
     "de": "Federation Shipcaster Beacon Wreck",
     "en": "Federation Shipcaster Beacon Wreck",
@@ -10,5 +22,9 @@
     "ru": "Federation Shipcaster Beacon Wreck",
     "zh": "联邦舰船弹射台信标残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "gallentenavy_upw_trig",
   "volume": 27500.0
 }

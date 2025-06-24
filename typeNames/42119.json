@@ -1,5 +1,18 @@
 {
-  "typeID": 42119,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Eine Serpentis-Forschungskammer. Die Beseitigung der Wachen sollte bei der Überbrückung der Sicherheitsvorkehrungen behilflich sein.",
+    "en": "A Serpentis research vault. Destroying its guards should help with bypassing its security.",
+    "es": "Una cámara de investigación de Serpentis. Destruir a los guardias debería de bastar para burlar su seguridad.",
+    "fr": "Une coffre de recherche serpentis. En détruisant ses gardes, il devrait être plus simple d'outrepasser son système de sécurité.",
+    "ja": "サーペンティスの研究用保管庫。警護要因を破壊すればセキュリティをかい潜れるだろう。",
+    "ko": "서펜티스 연구시설입니다. 경비함을 파괴하면 진입이 더욱 수월해질 것입니다.",
+    "ru": "Бункер лаборатории «змей». Уничтожение охраны поможет обойти системы безопасности.",
+    "zh": "一座天蛇研究地下室消灭它的守卫可以绕过它的安全系统。"
+  },
+  "graphicID": 2431,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Research Vault",
     "en": "Research Vault",
@@ -10,5 +23,9 @@
     "ru": "Research Vault",
     "zh": "研究地下室"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 75.0,
+  "sofFactionName": "angelbase",
   "volume": 27500.0
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 352070,
+  "basePrice": 18200.0,
+  "description": {
+    "de": "Erhöht die gesamte CPU-Leistung eines Fahrzeugs und ermöglicht die Installation weiterer CPU-intensiver Module. Erhöht die CPU-Leistung um 13%.\n\nHINWEIS: Für dieses Modul gelten Stapelabzüge; nach dem ersten Modul nimmt die Wirksamkeit jedes weiteren ab, sofern es dieselben Attribute beeinflusst.",
+    "en": "Increases a vehicle's overall CPU output, enabling it to equip more CPU intensive modules. Increases CPU output by 13%.\r\n\r\nNOTE: Stacking penalties apply to this module; the effectiveness of each additional module (after the first) that alters the same attributes will be reduced.",
+    "es": "Aumenta la capacidad de CPU de los vehículos para permitir el montaje de módulos de alto consumo de procesador. Aumenta la producción de CPU un 13%.\n\nAVISO: a este módulo se le aplican penalizaciones por agrupamiento. Su eficacia se ve reducida por cada módulo del mismo tipo que se monte después del primero.",
+    "fr": "Augmente la capacité globale de CPU d'un véhicule, permettant ainsi d'équiper des modules plus gourmands en CPU. Augmente la capacité de CPU de 13 %.\n\nREMARQUE : Des pénalités d'accumulation s'appliquent à ce module ; au-delà du premier module, l'efficacité de chaque module supplémentaire qui modifie les mêmes attributs sera réduite.",
+    "it": "Aumenta il rendimento CPU complessivo di un veicolo per consentire di dotarlo di moduli che richiedono maggiore CPU. Aumenta il rendimento della CPU del 13%.\n\nNOTA: a questo modulo si applicano le penalità da accumulo; l'efficacia di ogni modulo aggiuntivo (dopo il primo) che modifica gli stessi attributi viene ridotta.",
+    "ja": "車両のCPU総出力を増やし、より必要CPUの高いモジュールをも装備可能にする。CPU出力を13%増やす。\n\n注：このモジュールはスタッキングペナルティの対象となり、同一のモジュールを複数取り付けると、一つ追加するごとにモジュールの効果が低下する。",
+    "ko": "차량의 CPU 용량이 증가하여 높은 처리량이 필요한 모듈을 탑재할 수 있게 됩니다. CPU 용량 13% 증가 <br><br>참고: 중첩 페널티가 적용되는 모듈입니다. 동일한 효과를 지닌 모듈을 한 개 이상 장착할 경우 추가 모듈의 효율성이 감소합니다.",
+    "ru": "Повышает общую мощность ЦПУ транспортного средства, что позволяет устанавливать на него модули с более высоким потреблением ресурсов процессора. Увеличивает мощность ЦПУ на 13%.\n\nПРИМЕЧАНИЕ: Для этого модуля действует система нарастающих штрафов; эффективность воздействия каждого последующего модуля (после первого), которая изменяет одинаковые характеристики, снижается.",
+    "zh": "增加载具的整体CPU输出，以装配更多CPU密集型装备。增加13%的CPU输出。注：此装备有堆叠惩罚，额外加装相同属性的装备的效果会降低。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Quantum CPU-Verstärker",
     "en": "Quantum CPU Enhancer",
@@ -11,5 +23,7 @@
     "ru": "Квантовый усилитель ЦПУ",
     "zh": "量子级CPU增效器"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

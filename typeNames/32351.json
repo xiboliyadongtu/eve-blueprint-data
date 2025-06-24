@@ -1,5 +1,17 @@
 {
-  "typeID": 32351,
+  "description": {
+    "de": "Dieses Dokument wurde in einem durch Empire-Agenten gesicherten Erz-Gebiet platziert. Es dient als Beweis dafür, dass ein Kapselpilot im Training in der Lage war, die Signatur mithilfe von Kern-Scansonden zu lokalisieren.",
+    "en": "This document has been placed inside a Ore site secured by Empire agents. It serves as physical proof that a capsuleer-in-training has been able to locate the signature through the use of Core Scanner Probes.",
+    "es": "Este documento se ha colocado dentro de un yacimiento de menas asegurado por agentes del Imperio. Sirve como prueba física de que un capsulista en formación ha sido capaz de localizar la señal mediante el uso de sondas escáner de núcleo.",
+    "fr": "Ce document a été placé dans un site de minerai sécurisé par des agents de l'Empire. Il constitue la preuve physique qu'un capsulier en formation a bien été en mesure de localiser la signature grâce à l'utilisation de sondes d'exploration principales.",
+    "ja": "この書類はアマー帝国のエージェントが確保している鉱石サイトの中に保管されていた。カプセラが訓練において、コアスキャナープローブでシグネチャの位置を特定する課題を達成した証拠の品となる。",
+    "ko": "제국 에이전트들이 지키고 있던 채광 사이트의 내부에 놓여있던 문서입니다. 캡슐리어 훈련생이 코어 프로브를 사용하여 성공적으로 코즈믹 시그니처를 발견했다는 물질적인 증거입니다.",
+    "ru": "Этот документ находился внутри рудного участка, зачищенного агентами Империи. Он служит вещественным доказательством того, что капсулер-курсант успешно нашел сигнатуру, используя сканирующие зонды.",
+    "zh": "这份文档被存放在一个由帝国特工保护的采矿地点中。它的作用是，作为在训练任务中使用核心扫描探针成功定位这个信号并抵达这里的克隆飞行员的实物证据。"
+  },
+  "groupID": 314,
+  "iconID": 2908,
+  "mass": 1.0,
   "name": {
     "de": "Proof of Discovery: Ore",
     "en": "Proof of Discovery: Ore",
@@ -10,5 +22,7 @@
     "ru": "Proof of Discovery: Ore",
     "zh": "目标证据：采矿"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

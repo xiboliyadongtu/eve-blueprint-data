@@ -1,5 +1,16 @@
 {
-  "typeID": 20538,
+  "description": {
+    "de": "Eine Crow, die von einem Agenten geflogen wird.",
+    "en": "A Crow piloted by an agent.",
+    "es": "Crow pilotada por un agente.",
+    "fr": "Un Crow piloté par un agent.",
+    "ja": "エージェントを乗せたクロウ。",
+    "ko": "에이전트가 조종하는 크로우입니다.",
+    "ru": "Корабль класса Crow, управляемый агентом.",
+    "zh": "由代理人驾驶的黑鸦级飞船。"
+  },
+  "graphicID": 1848,
+  "groupID": 517,
   "name": {
     "de": "Mottoya's Crow",
     "en": "Mottoya's Crow",
@@ -10,5 +21,9 @@
     "ru": "Mottoya's Crow",
     "zh": "莫托雅的黑鸦级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 33.0,
+  "sofFactionName": "kaalakiota"
 }

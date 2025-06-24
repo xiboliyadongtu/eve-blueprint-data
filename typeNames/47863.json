@@ -1,5 +1,16 @@
 {
-  "typeID": 47863,
+  "description": {
+    "de": "Eine Raumverwerfung des Abgrunds, die mit dunkler Materie gefüllt ist, welche elektromagnetische Strahlung nicht reflektiert. Schiffe in dieser Umgebung erhalten Abzüge auf die Geschützturmreichweite und einen Bonus auf ihre maximale Geschwindigkeit.",
+    "en": "An Abyssal Deadspace environment suffused with dark matter that does not reflect electromagnetic radiation.\r\n\r\nShips in this environment receive a bonus to maximum velocity and a penalty to turret range.",
+    "es": "Un espacio muerto abisal anegado en materia oscura que no refleja la radiación electromagnética.\n\nLas naves en este entorno reciben una bonificación a la velocidad máxima y una penalización al alcance de las torretas.",
+    "fr": "Un abîme Deadspace imprégné de matière noire qui ne réfléchit pas le rayonnement électromagnétique. Les vaisseaux se trouvant dans cet environnement reçoivent un bonus de vitesse maximale et une pénalité à la portée des tourelles.",
+    "ja": "電磁放射を反射しない暗黒物質で満たされたアビサルデッドスペース環境。\r\n\nこの環境にいる艦船は、最高速度にボーナス、タレット射程にペナルティを受ける。",
+    "ko": "EM 방사선이 반사되지 않는 암흑 물질로 가득 찬 어비설 데드스페이스입니다. <br><br>해당 환경에 놓인 함선은 최대 속도가 증가하는 반면 터렛 사거리가 감소합니다.",
+    "ru": "Область Мёртвой бездны, наполненная тёмной материей, не способной отражать электромагнитное изучение. Корабли в таких условиях получают бонус к максимальной скорости и штраф к дальности стрельбы турелей.",
+    "zh": "深渊空间环境中充满了不能反射电磁射线的暗物质。\n\n\n\n舰船在这种环境中会获得速度加成，但炮台射程有所降低。"
+  },
+  "groupID": 1983,
+  "iconID": 21906,
   "name": {
     "de": "Dark Matter Field",
     "en": "Dark Matter Field",
@@ -10,5 +21,6 @@
     "ru": "Dark Matter Field",
     "zh": "暗物质场"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 19384,
+  "capacity": 200.0,
+  "description": {
+    "de": "Dies ist ein Sicherheitsschiff der Zollbehörden Sarums. Es patrouilliert in diesem Sektor und wird präventiv vorbeifliegende Raumschiffe nach illegalen Waren scannen.\r\n\r\nBedrohungsstufe: Sehr hoch",
+    "en": "This is a security vessel of the Sarum Customs force. It is patrolling this sector and will proactively scan bypassing vessels for illegal goods.\r\n\r\nThreat level: Very high",
+    "es": "Nave de seguridad de las fuerzas aduaneras de Sarum que patrulla por este sector y escaneará de forma proactiva las naves que pasen en busca de mercancías ilegales.\n\n\n\nNivel de amenaza: muy alto.",
+    "fr": "Ceci est un vaisseau de sécurité des douanes Sarum. Il patrouille dans le secteur et scanne de façon anticipée les vaisseaux à la recherche de marchandises interdites.\n\nNiveau de menace : très élevé",
+    "ja": "サルム税関艦隊のセキュリティ艦。地域一帯をパトロールし、迂回しようとする船を率先的にスキャンして違法物資を検知する。危険度:非常に高い",
+    "ko": "사룸 관세청의 경비함입니다. 지역 순찰을 통해 불법 밀수선을 적발합니다. <br><br>위험도: 매우 높음",
+    "ru": "Это корабль сил безопасности таможенной службы Sarum. Он патрулирует этот сектор и активно сканирует проходящие корабли на наличие запрещённых товаров.\n\nУровень опасности: очень высокий",
+    "zh": "这是一艘萨拉姆海关军队的安全船只。它在这个区域巡逻并且能主动扫描过往船只是否载有非法物品。威胁等级：非常高"
+  },
+  "graphicID": 1067,
+  "groupID": 446,
+  "mass": 1810000.0,
   "name": {
     "de": "Sarum Customs Surveillance Officer",
     "en": "Sarum Customs Surveillance Officer",
@@ -10,5 +23,11 @@
     "ru": "Sarum Customs Surveillance Officer",
     "zh": "萨拉姆海关 监察官"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 50.0,
+  "sofFactionName": "amarrnavy",
+  "soundID": 30,
   "volume": 18100.0
 }

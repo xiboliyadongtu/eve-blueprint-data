@@ -1,5 +1,19 @@
 {
-  "typeID": 78906,
+  "basePrice": 50000000.0,
+  "description": {
+    "de": "Dieser elektronische Token ist mit einem festgelegten Belohnungswert vom Deathless Circle kodiert und kann in den Loyalitätspunkteläden des Angel Cartel oder der Guristas-Piraten eingetauscht werden, um speziellen Zugang zu ihren neuesten Zerstörer-Klasse Entwürfen zu erhalten.",
+    "en": "This electronic token is encoded with a set reward value by the Deathless Circle, and can be exchanged at Angel Cartel or Guristas Pirates loyalty point stores for special access to their latest destroyer-class designs.",
+    "es": "Esta ficha electrónica está codificada con un valor de retribución establecido por el Círculo Inmortal y se puede canjear en las tiendas de puntos de lealtad del Cártel de los Ángeles o los Piratas Guristas para obtener acceso especial a sus últimos diseños de clase destructor.",
+    "fr": "Ce jeton électronique est encodé avec une valeur de récompense définie par le Cercle Immortel, et peut être échangé dans les boutiques de points de loyauté du cartel Angel ou des pirates Guristas pour un accès spécial à leurs derniers modèles de classe destroyer.",
+    "ja": "この電子トークンにはデスレス・サークルが提供した報酬の価値が暗号化された状態で記録されており、エンジェルカルテルかガリスタス海賊のロイヤルティポイントストアにて、海賊の最新型駆逐艦艦船の設計図と特別に交換することができる。",
+    "ko": "데스리스 서클이 제공하는 전자 토큰입니다. 엔젤 카르텔 또는 구리스타스 해적단 로열티 포인트 스토어에서 신형 디스트로이어 함선과 교환할 수 있습니다.",
+    "ru": "Этот электронный сертификат «Бессмертного круга» содержит зашифрованные данные о сумме вознаграждения. Его можно использовать в наградных отделах картеля «ангелов» или организации «Гуристас», чтобы получить доступ к новым пиратским эсминцам.",
+    "zh": "这个电子凭证是由不死循环加密的一组奖励值，可以在天使企业联合体或古斯塔斯游寇的忠诚点商店中，换取他们最新驱逐舰级设计的特别使用权。"
+  },
+  "groupID": 314,
+  "iconID": 25833,
+  "marketGroupID": 754,
+  "mass": 1.0,
   "name": {
     "de": "Deathless Circle Reward Token",
     "en": "Deathless Circle Reward Token",
@@ -10,5 +24,7 @@
     "ru": "Deathless Circle Reward Token",
     "zh": "不死循环奖励凭证"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.001
 }

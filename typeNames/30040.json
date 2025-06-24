@@ -1,5 +1,19 @@
 {
-  "typeID": 30040,
+  "description": {
+    "de": "Dieses Subsystem ist veraltet und wurde durch neuere Technologie ersetzt.\n\n\n\nDieses Subsystem nutzt ein nano-elektromechanisches Zerstreuungsfeld und verbessert dadurch die Sensorsysteme eines Schiffes. Es besteht aus Milliarden von molekülgroßen Schaltkreisen und bietet besseren Schutz gegen elektronische Gegenmaßnahmen von Gegnern.\n\n\n\nSubsystem-Skillbonus:\n\n15 % Bonus auf die Sensorstärke des Schiffs, 5 % Bonus auf die maximale Aufschaltungsreichweite je Skillstufe",
+    "en": "This subsystem is obsolete and has been replaced by newer technology\r\n\r\nThis subsystems employs a nano-electromechanical dispersion field to strengthen a vessel's sensor systems. Made from billions of advanced molecular-level circuits, the subsystem offers improved protection against hostile ECM. \r\n\r\nSubsystem Skill Bonus:\r\n15% bonus to ship sensor strength, 5% bonus to max targeting range per level.",
+    "es": "Este subsistema está obsoleto y ha sido sustituido por tecnología nueva.\n\n\n\nEste subsistema emplea un campo de dispersión nanoelectromecánico para fortalecer los sistemas de sensores de la nave. Fabricado a partir de miles de millones de circuitos avanzados a escala molecular, el subsistema ofrece una protección mejorada contra ECM hostiles. \n\n\n\nBonificación de habilidad del subsistema:\n\n15 % de bonificación a la intensidad de los sensores de la nave, 5 % de bonificación de distancia-objetivo máxima por nivel.",
+    "fr": "Ce sous-système est obsolète et a été remplacé par une technologie plus récente. Ce sous-système utilise un champ de dispersion nano-électromécanique visant à renforcer les systèmes de détection d'un vaisseau. Fabriqué à partir de milliards de circuits moléculaires avancés, ce sous-système garantit une protection améliorée contre les CME hostiles. Bonus de compétence du sous-système : augmente de 15 % la puissance de détection du vaisseau, augmente de 5 % par niveau la portée du système de ciblage maximum.",
+    "ja": "このサブシステムは旧式化したため、新型技術に差し替えられた\n\n\n\nナノエレクトロメカニカル拡散フィールドを使用して、船のセンサーシステムを強化するサブシステム。何10億もの高性能分子レベル回路から作られており、敵のECMに対する防御機能を向上させる。\n\n\n\nサブシステムのスキルボーナス：\n\nレベル上昇ごとに船のセンサー強度が15%増加、最大ターゲット範囲が5%増加。",
+    "ko": "이 서브시스템은 노후되어 최신식 기술로 교체되었습니다.<br><br>나노전자기기 필드를 전개하여 함선 센서 시스템을 강화합니다. 이 서브시스템은 수십억 개의 분자 회로로 구성되었으며 적의 ECM에 대응 가능합니다. <br><br>서브시스템 스킬 보너스: <br><br>매 레벨마다 함선 센서 강도 15% 증가, 최대 타겟팅 거리 5% 증가",
+    "ru": "Эта подсистема устарела и заменена на продукт новых технологий\n\n\n\nНаночастотное электромеханическое поле рассеяния, используемое в этой подсистеме, повышает эффективность корабельных систем обнаружения и захвата целей. Подсистема состоит из миллиардов высокотехнологичных молекулярных схем, усиливающих защиту корабля от помех, наводимых на системы захвата целей. \n\n\n\nЗа каждую степень освоения навыка соответствующей подсистемы:<br>\n\nна 15% повышается эффективность системы захвата целей<br>на 5% увеличивается максимальная дальность захвата целей",
+    "zh": "这个子系统太过老旧，已经被新科技取代。\n\n\n\n这个子系统使用纳米机电分散场来加强舰船的感应系统。它包含了数十亿个先进的分子级电路，使舰船对敌方的电子干扰有更强的抵抗能力。 \n\n\n\n每等级子系统技能加成：\n\n舰船感应强度增加15%，最大锁定距离增加5%。"
+  },
+  "graphicID": 3628,
+  "groupID": 955,
+  "iconID": 3626,
+  "mass": 1200000.0,
+  "metaGroupID": 14,
   "name": {
     "de": "OLD Legion Electronics - Dissolution Sequencer",
     "en": "OLD Legion Electronics - Dissolution Sequencer",
@@ -10,5 +24,10 @@
     "ru": "OLD Legion Electronics - Dissolution Sequencer",
     "zh": "旧圣卒电子 - 散解程控装置"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "sofFactionName": "amarrbase",
+  "variationParentTypeID": 30036,
   "volume": 40.0
 }

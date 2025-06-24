@@ -1,5 +1,18 @@
 {
-  "typeID": 32394,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Diese Einrichtung wird von den Forschungsteams der Serpentis benutzt, um Waren aus dem Cartel-Raum zurück nach Fountain zu schaffen.",
+    "en": "This facility is used by Serpentis research teams to ship goods out of Cartel space and back towards Fountain.",
+    "es": "Esta instalación es utilizada por los equipos de investigación de Serpentis para enviar mercancías fuera del espacio del Cártel y de vuelta a Fountain.",
+    "fr": "Cette structure est utilisée par les équipes de recherche serpentis pour envoyer des marchandises hors de l'espace du cartel vers Fountain.",
+    "ja": "この施設は、サーペンティスリサーチチームがカルテルの宙域から物資を船で運び出し、ファウンテンへ戻すために使われる。",
+    "ko": "엔젤 카르텔의 영토에서 파운틴으로 상품을 수송하기 위해 서펜티스 연구팀이 사용하는 허브입니다.",
+    "ru": "Этот комплекс используется исследовательскими командами Serpentis для переправки товаров из пространства, контролируемого Картелем, и обратно по направлению к региону Fountain.",
+    "zh": "这个设施被天蛇集团的研究团队用作将货物在联合企业空域和源泉星域之间运输的基地。"
+  },
+  "graphicID": 2706,
+  "groupID": 952,
+  "mass": 10000.0,
   "name": {
     "de": "Serpentis Transport Hub",
     "en": "Serpentis Transport Hub",
@@ -10,5 +23,9 @@
     "ru": "Serpentis Transport Hub",
     "zh": "天蛇运输中心"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 727.0,
+  "sofFactionName": "genericmetal",
   "volume": 27500.0
 }

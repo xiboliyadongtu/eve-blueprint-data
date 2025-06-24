@@ -1,5 +1,19 @@
 {
-  "typeID": 23595,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Ein verbeulter und beschädigter Container aus einem zerstörten Schmugglerschiff.",
+    "en": "A dented and damaged container from a destroyed smuggling vessel.",
+    "es": "Contenedor abollado y dañado de una nave de contrabando destruida.",
+    "fr": "Conteneur cabossé et endommagé par un vaisseau de contrebande détruit.",
+    "ja": "ひどく破損したコンテナ。撃沈された密輸船に積まれていたもの。",
+    "ko": "파괴된 밀수용 함선에서 발견한 컨테이너로 여기저기 찌그러지고 손상되어있습니다.",
+    "ru": "Помятый и поврежденный контейнер с разрушенного корабля контрабандистов.",
+    "zh": "被毁走私船上的集装箱，已经被烧焦，表面也凹陷了进去。"
+  },
+  "graphicID": 1176,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Scorched Container",
     "en": "Scorched Container",
@@ -10,5 +24,9 @@
     "ru": "Scorched Container",
     "zh": "烧焦的货柜"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericmetal",
   "volume": 1200.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 28115,
+  "basePrice": 350760372.0,
+  "description": {
+    "de": "Installiert eine Basis-Aufbereitungsanlage in Gallente-Außenposten. Erhöht die Aufbereitungseffizienz von Erz und Eis auf 52%. Hinweis: Hat keinen Effekt auf etwas anderes als die beiden oben genannten Gruppen.",
+    "en": "Installs a basic refinery into Gallente Outposts. Increases ore and ice reprocessing efficiency to 52%.\r\n\r\nNote: does not affect anything else but the two groups mentioned above.",
+    "es": "Instala una refinería básica en puestos avanzados gallentes. Aumenta la eficiencia de reprocesamiento de menas y hielo al 52 %.\n\n\n\nAviso: No afecta a nada más que los dos grupos mencionados anteriormente.",
+    "fr": "Installe une raffinerie de base dans les avant-postes gallente. Augmente de 52 % l'efficacité du retraitement du minerai et de la glace.\n\nRemarque : affecte uniquement les deux groupes mentionnés ci-dessus.",
+    "ja": "ガレンテアウトポストに基本的な精錬所を設置する。鉱石とアイスの再処理効率が52%に向上する。注：上記の2つ以外には何の影響も及ぼさない。",
+    "ko": "갈란테 전초기지에 기본 정제소 설치합니다. 광물 및 아이스 정제 효율성 52% 증가 <br><br>참고: 상기에 언급된 두 종류의 자원에만 효과가 적용됩니다.",
+    "ru": "Устанавливает на галлентском форпосте цех переработки начального уровня. Доводит эффективность переработки руды и льда до 52%.<br><br> Внимание! Ко всем прочим категориям материалов, помимо двух упомянутых, вышеуказанный эффект не относится.",
+    "zh": "为盖伦特哨站安装基础精炼设施。提高矿石和冰矿的提炼效率到52%。\n\n注：只对上述两种物品有影响。"
+  },
+  "graphicID": 3306,
+  "groupID": 872,
+  "iconID": 3305,
   "name": {
     "de": "Gallente Basic Outpost Refinery",
     "en": "Gallente Basic Outpost Refinery",
@@ -10,5 +23,10 @@
     "ru": "Gallente Basic Outpost Refinery",
     "zh": "盖伦特基础哨站精炼设施"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 19079.0,
+  "sofFactionName": "gallentebase",
   "volume": 1.0
 }

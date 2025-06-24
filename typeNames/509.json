@@ -1,5 +1,19 @@
 {
-  "typeID": 509,
+  "description": {
+    "de": "Verbessert die Energiespeicherladerate, verringert aber dessen maximale Ladekapazität.",
+    "en": "Increases capacitor recharge rate, but causes a reduction in maximum capacitor storage.",
+    "es": "Aumenta la velocidad de carga del condensador, pero provoca una reducción de su almacenamiento máximo.",
+    "fr": "Améliore la vitesse de recharge du capaciteur, mais entraîne une réduction de son stockage d'énergie.",
+    "ja": "キャパシタ充電速度が向上するが、最大キャパシタ容量は減少する。",
+    "ko": "캐패시터 충전속도가 증가하는 대신 최대 캐패시터 용량이 감소합니다.",
+    "ru": "Увеличивает скорость подзарядки конденсатора, но уменьшает его максимальную ёмкость.",
+    "zh": "提高电容器的回充速率，但会减少电容器的最大储量。"
+  },
+  "groupID": 768,
+  "iconID": 26456,
+  "marketGroupID": 666,
+  "mass": 20.0,
+  "metaGroupID": 3,
   "name": {
     "de": "'Basic' Capacitor Flux Coil",
     "en": "'Basic' Capacitor Flux Coil",
@@ -10,5 +24,9 @@
     "ru": "'Basic' Capacitor Flux Coil",
     "zh": "基础型电容通量线圈"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 500.0,
+  "variationParentTypeID": 1246,
   "volume": 5.0
 }

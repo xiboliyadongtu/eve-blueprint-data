@@ -1,5 +1,19 @@
 {
-  "typeID": 59749,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Ein fortgeschrittener Datentresor zur Durchführung von Hacking-Herausforderungen für Kapselpiloten, die an den Minmatar-Befreiungsspielen teilnehmen.",
+    "en": "An intermediate level data vault being used to run hacking challenges for capsuleers participating in the Minmatar Liberation Games.",
+    "es": "Depósito de datos de nivel intermedio que se usa para llevar a cabo desafíos de hackeo para los capsulistas que participan en los Juegos de Liberación Minmatarianos.",
+    "fr": "Un coffre de données de niveau intermédiaire utilisé pour organiser des défis de piratage des capsuliers participant aux Jeux de la libération minmatar.",
+    "ja": "中級者向けデータ金庫。ミンマター解放の日記念ゲームに参加するカプセラ向けが、ハッキングチャレンジに挑戦するときに使用する。",
+    "ko": "민마타 독립절 대회를 위해 제작된 중급 데이터 저장장치입니다.",
+    "ru": "Хранилище данных среднего уровня, которое капсулёры, участвующие в Играх свободного Минматара, используют для выполнения испытаний по взлому.",
+    "zh": "为克隆飞行员参加米玛塔尔独立日竞赛的破译挑战而准备的中级数据仓库。"
+  },
+  "graphicID": 20298,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Intermediate Data Vault",
     "en": "Intermediate Data Vault",
@@ -10,5 +24,10 @@
     "ru": "Intermediate Data Vault",
     "zh": "中级数据仓库"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 300.0,
+  "sofFactionName": "genericbase",
+  "soundID": 20182,
   "volume": 27500.0
 }

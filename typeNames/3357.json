@@ -1,5 +1,18 @@
 {
-  "typeID": 3357,
+  "basePrice": 200000.0,
+  "description": {
+    "de": "Skill mit feindlichen Agenten umzugehen, um Konfliktsituationen zu entspannen, wie es einige der besten Diplomaten von New Eden getan haben. 4% Modifikator auf das effektive Ansehen gegenüber feindlichen Agenten je Skillstufe. Nicht kumulativ mit \"Connections\" oder \"Criminal Connections\".",
+    "en": "Skill at interacting with hostile Agents in order to de-escalate tense situations as demonstrated by some of the finest diplomats in New Eden. 4% Modifier per level to effective standing towards hostile Agents. Not cumulative with Connections or Criminal Connections.",
+    "es": "Habilidad para interactuar con agentes hostiles con el fin de calmar situaciones tensas, como han demostrado algunos de los mejores diplomáticos de Nuevo Edén. Modificador del 4 % por nivel al prestigio efectivo ante los agentes hostiles. No se acumula con conexiones ni conexiones criminales.",
+    "fr": "Compétence liée à l'interaction avec les agents ennemis de manière à apaiser les tensions, tout comme certains des plus grands diplomates de New Eden. Augmente de 4 % par niveau la réputation envers les agents ennemis. Non cumulable avec les compétences Relations ou Relations criminelles.",
+    "ja": "敵対的なエージェントと交渉して緊迫した状況を緩和するスキル。ニューエデンでも超一流といわれる外交官はこの技術を駆使して劇的な成果をあげる。レベル上昇ごとに敵対関係のエージェントに対する有効なスタンディングが4%改善。コネクションまたは犯罪コネクションとは加算されない。.",
+    "ko": "정치적인 대화를 통해 적대적인 에이전트와의 관계를 개선합니다. 매 레벨마다 적대적인 에이전트를 대상으로 실질 평판 4% 증가. 커넥션 및 범죄 커넥션 스킬과 효과가 중첩되지 않습니다.",
+    "ru": "Навык общения с враждебно настроенными агентами, призванный приводить к разрядке напряженных отношений, по примеру ведущих дипломатов Нового Эдема. За каждую степень освоения навыка: на 4% улучшаются фактические отношения с враждебными агентами. Эффект не складывается с эффектом от навыков «Отношения с организациями» или «Отношения с криминалитетом».",
+    "zh": "与敌对代理人进行互动的技能，以此来缓和双方的紧张局势。每升一级，对于敌对代理人的有效声望值增加4%。不与关系学或者犯罪关系研究技能累加。"
+  },
+  "groupID": 278,
+  "iconID": 33,
+  "marketGroupID": 376,
   "name": {
     "de": "Diplomacy",
     "en": "Diplomacy",
@@ -10,5 +23,7 @@
     "ru": "Дипломатические отношения",
     "zh": "外交学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

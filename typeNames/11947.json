@@ -1,5 +1,18 @@
 {
-  "typeID": 11947,
+  "capacity": 225.0,
+  "description": {
+    "de": "Dies ist ein Kampfschiff des Königreichs Khanid. Es beschützt das Eigentum des Königreichs Khanid und kann jeden angreifen, den es als Bedrohung oder leichte Beute einschätzt.\r\n\r\nBedrohungsstufe: Mäßig",
+    "en": "This is a fighter for the Khanid Kingdom. It is protecting the assets of the Khanid Kingdom and may attack anyone it perceives as a threat. Threat level: Moderate",
+    "es": "Caza del Reino Khanid que protege sus bienes y puede atacar a todo aquello que perciba como una amenaza. Nivel de amenaza: moderado.",
+    "fr": "Il s'agit d'un chasseur du Royaume khanid. Il protège les biens du Royaume khanid et peut attaquer quiconque est perçu comme une menace. Niveau de menace : moyen",
+    "ja": "クーニッド王国の艦載戦闘機。クーニッド王国の船や施設の護衛を任務とし、危険もしくは格下と判断した標的を全て攻撃する。危険度:普通",
+    "ko": "카니드 왕국의 전투함입니다. 위협으로 간주되는 대상을 공격합니다. 위험도: 보통",
+    "ru": "Это боец Королевства Khanid. Он защищает владения Королевства Khanid и нападает на всех, кого посчитает опасностью. Уровень опасности: умеренный",
+    "zh": "这是一艘卡尼迪王国的战舰。它保护着卡尼迪王国的产业，会主动攻击任何它认为可能造成威胁的飞船。威胁等级：中等"
+  },
+  "graphicID": 1861,
+  "groupID": 687,
+  "mass": 1810000.0,
   "name": {
     "de": "Khanid Fighter",
     "en": "Khanid Fighter",
@@ -10,5 +23,10 @@
     "ru": "Khanid Fighter",
     "zh": "卡尼迪 战士"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 13.0,
+  "sofFactionName": "khanidinnovation",
   "volume": 18100.0
 }

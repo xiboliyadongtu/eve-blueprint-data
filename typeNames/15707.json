@@ -1,5 +1,19 @@
 {
-  "typeID": 15707,
+  "description": {
+    "de": "Eine verbesserte Version der Standard-Kinetikpanzerungsbeschichtung. Verwendet fortschrittliche Magnetfeldgeneratoren, um den Zusammenhalt der Nanobotbeschichtung zu stärken.\n\nNachteil: Wenn man mehrere Module des gleichen oder ähnlichen Typs einsetzt, die die gleichen Attribute des Schiffes beeinflussen, wird deren Wirksamkeit eingeschränkt.",
+    "en": "An enhanced version of the standard kinetic armor plating. Uses advanced magnetic field generators to strengthen the Nanobot Plating integrity.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",
+    "es": "Versión mejorada del blindaje cinético estándar. Utiliza generadores de campo magnético avanzados para reforzar la integridad del revestimiento de nanobots.\n\nPenalización: Por usar más de un tipo de módulo o módulos similares que afecten al mismo atributo de la nave.",
+    "fr": "Version améliorée du revêtement de blindage cinétique standard. Le module exploite des générateurs de champ magnétique avancés pour renforcer l'intégrité du revêtement nanorobotique.\n\nPénalité : l'utilisation de plusieurs modules de ce type, ou de plusieurs modules modifiant un même attribut du vaisseau, entraîne une pénalité.",
+    "ja": "標準型キネティックアーマープレートの強化版。高性能磁場ジェネレーターを使用してナノボットプレートの統合性を強化する。ペナルティ： 同じタイプのモジュール、または同じ属性に関係するモジュールを複数取り付けると、ペナルティが発生する。",
+    "ko": "강화된 키네틱 플레이팅입니다. 첨단 자기장 생성기를 활용하여 나노봇 플레이팅의 내구도를 강화합니다. <br><br>페널티: 동일한 속성의 모듈 여러 개를 장착할 경우 페널티가 부여됩니다.",
+    "ru": "Улучшенная версия стандартного защитного покрытия брони от кинетического воздействия. Включает в себя усовершенствованные генераторы магнитного поля, повышающие стойкость наноботового покрытия.\n\nВнимание! Установка на борт корабля двух и более модулей, влияющих на одну и ту же характеристику корабля, приведёт к снижению эффективности их действия в отношении данной характеристики.",
+    "zh": "标准动能装甲附甲的加强版本。使用了先进的磁场发生器来增强纳米技术附甲的完整性。\n\n惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。"
+  },
+  "groupID": 328,
+  "iconID": 20945,
+  "marketGroupID": 1679,
+  "mass": 1.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Imperial Navy Kinetic Armor Hardener",
     "en": "Imperial Navy Kinetic Armor Hardener",
@@ -10,5 +24,9 @@
     "ru": "Imperial Navy Kinetic Armor Hardener",
     "zh": "帝国海军动能装甲增强器"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 10.0,
+  "variationParentTypeID": 11305,
   "volume": 5.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 29029,
+  "basePrice": 100000000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Sprungfrachtern.",
+    "en": "Skill for operation of Jump Freighters.",
+    "es": "Habilidad en el manejo de cargueros de salto.",
+    "fr": "Compétence pour l'utilisation des transports de fret hyperspatiaux.",
+    "ja": "ジャンプドライブ搭載型輸送艦を操作するスキル。",
+    "ko": "점프 프레이터 운용을 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на джамп-фрейтерах.",
+    "zh": "操作战略货舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Jump Freighters",
     "en": "Jump Freighters",
@@ -10,5 +23,7 @@
     "ru": "Джамп-фрейтеры",
     "zh": "战略货舰操作"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

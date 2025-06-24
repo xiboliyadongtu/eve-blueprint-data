@@ -1,5 +1,18 @@
 {
-  "typeID": 30741,
+  "capacity": 120.0,
+  "description": {
+    "de": "Der Kreuzer der Scythe-Klasse ist das älteste Schiff, das die Minmatar noch gebrauchen. Es hat sich in zahlreichen Schlachten bewährt und taucht immer wieder in den Geschichten und Überlieferungen der Minmatar auf. Seine Bergbau-Kapazitäten haben sich seit einem Firmware-Upgrade, das man sich bei den Caldari \"ausborgte\", vor kurzem immens verbessert. Dieses Schiff stellt keine unmittelbare Bedrohung dar.",
+    "en": "The Scythe-class cruiser is the oldest Minmatar ship still in use. It has seen many battles and is an integrated part in Minmatar tales and heritage. Recent firmware upgrades \"borrowed\" from the Caldari have vastly increased the efficiency of its mining output.\r\n\r\nThis ship poses no immediate threat.",
+    "es": "El crucero de clase Scythe es la nave minmatariana más antigua aún en uso. Ha visto muchas batallas y es un elemento importante de la historia y el legado minmatarianos. Las mejoras recientes del firmware, «prestadas» de los caldaris, han aumentado considerablemente su eficiencia en lo que a producción minera se refiere.\n\nEsta nave no supone una amenaza inmediata.",
+    "fr": "Le croiseur de classe Scythe est le plus ancien vaisseau minmatar encore en service. Il a pris part à de nombreux combats et fait désormais partie intégrante de l'histoire minmatar. Des améliorations récentes « inspirées » des techniques caldari ont grandement amélioré son rendement lors des opérations d'extraction.\n\nCe vaisseau ne constitue pas une menace immédiate.",
+    "ja": "サイス級巡洋艦は、現役のミンマター船としては最古の船である。数々の戦いの目撃者である同船は、ミンマターの歴史と文化の欠くべからざる要素と言える。最近、カルダリから「拝借」されたファームウェアが導入され、採掘効率が大きく向上した。\n\n\nこの艦船が直接脅威を与えることはない。",
+    "ko": "사이드급 크루저는 민마타에서 사용되는 함선 중 가장 오랜 된 함선으로 알려져 있습니다. 민마타의 유산인 해당 기종은 각종 무용담에 단골로 등장합니다. 칼다리에서 \"빌려온\" 최신 펌웨어 업그레이드를 통해 함선의 채굴 효율성이 매우 증가하였습니다. <br><br>적대적인 함선이 아닙니다.",
+    "ru": "Крейсеры класса Scythe — старейшие из стоящих на вооружении кораблей Minmatar. Они побывали во многих сражениях и является неотъемлемой частью сказаний Minmatar. Недавняя модернизация с использованием технологий, «позаимствованных» у Caldari, позволила существенно усовершенствовать эффективность этого корабля в добыче полезных ископаемых.\n\nЭтот корабль не представляет непосредственной угрозы.",
+    "zh": "“镰刀”级巡洋舰是仍在使用的最古老的米玛塔尔舰船。它见证了无数的战争，已经成为米玛塔尔的经典传说和宝贵遗产中的不可或缺的一部分。最近从加达里“借鉴”而来的固件升级技术，极大地提高了它的采矿效能。这艘船并不会造成严重威胁。"
+  },
+  "graphicID": 304,
+  "groupID": 705,
+  "mass": 9900000.0,
   "name": {
     "de": "Civilian Minmatar Cruiser Scythe",
     "en": "Civilian Minmatar Cruiser Scythe",
@@ -10,5 +23,10 @@
     "ru": "Civilian Minmatar Cruiser Scythe",
     "zh": "民用米玛塔尔镰刀级巡洋舰"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 150.0,
+  "sofFactionName": "minmatarbase",
   "volume": 99000.0
 }

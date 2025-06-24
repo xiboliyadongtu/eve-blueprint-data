@@ -1,5 +1,18 @@
 {
-  "typeID": 56311,
+  "description": {
+    "de": "Zieht Energie aus dem Zielschiff ab und fügt sie dem eigenen hinzu. Hinweis: Ein Nosferatu-Modul leert den Energiespeicher des Zielschiffs nicht über die Kapazität Ihres eigenen Energiespeichers hinaus. Kann nur in Schiffe der Capital-Klasse eingebaut werden.",
+    "en": "Drains energy from the target ship and adds it to your own.\r\n\r\nNote: A Nosferatu module will not drain your target's capacitor below your own capacitor level. May only be fitted to capital ships.",
+    "es": "Drena la energía de la nave objetivo y la añade a la tuya.\n\n\n\nNota: El módulo Nosferatu no drenará el condensador del objetivo por debajo del nivel del tuyo propio. Solo se puede equipar en naves capitales.",
+    "fr": "Draine l'énergie du vaisseau cible pour alimenter le capaciteur de l'assaillant. Remarque : Un module Nosferatu ne drainera pas le capaciteur de votre cible en dessous du niveau de votre propre capaciteur. Réservé aux vaisseaux de classe capitale.",
+    "ja": "ターゲット指定した艦船からキャパシタを吸収して自艦のものとする。\r\n\n注：ノスフェラトゥモジュールは、ターゲットのキャパシタ残量が自艦のキャパシタ残量を下回る場合、キャパシタ吸収を行わない。主力艦級艦船にのみ搭載可能。",
+    "ko": "대상 함선으로부터 에너지를 흡수합니다. <br><br>참고: 대상 함선의 캐패시터가 더 적을 경우 에너지를 흡수하지 않습니다. 캐피탈급 함선에만 장착이 가능합니다.",
+    "ru": "Откачивает энергию из выбранного корабля и передаёт её на ваш. Примечание: модуль паразитной подзарядки не может опустошить запас накопителя цели ниже уровня вашего собственного накопителя. Можно установить только на корабли большого тоннажа.",
+    "zh": "吸取对方舰船的能量为自己所用。\n\n\n\n注意：所有能量吸噬装备都不会将目标的电容器电量值抽取到比你自己的当前电量值更低的水平。注：只能装配在旗舰级舰船上。"
+  },
+  "groupID": 68,
+  "iconID": 1029,
+  "mass": 2000.0,
+  "metaGroupID": 15,
   "name": {
     "de": "Capital Abyssal Energy Nosferatu",
     "en": "Capital Abyssal Energy Nosferatu",
@@ -10,5 +23,7 @@
     "ru": "Capital Abyssal Energy Nosferatu",
     "zh": "旗舰级深渊掠能器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 4000.0
 }

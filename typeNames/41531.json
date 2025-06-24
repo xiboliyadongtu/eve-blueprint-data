@@ -1,5 +1,21 @@
 {
-  "typeID": 41531,
+  "basePrice": 75000.0,
+  "capacity": 1.0,
+  "description": {
+    "de": "Flex-Schildhärter nutzen starke, aber platzraubende Resonanzspulen, um ein aufbauendes Interferenzmuster über den Schild des Schiffes zu projizieren. Diese Muster können die Schildresistenzen gegen alle Schadensarten erhöhen oder durch wechselbare Skripte erhöhten Schutz gegen eine bestimmte Schadensart bieten.\n\n\n\nHinweis: Es kann immer nur ein Modul dieses Typs eingebaut werden. Kann nur in Schiffe der Capital-Klasse eingebaut werden.\n\nNachteil: Bei der Verwendung mehrerer Module des selben oder ähnlichen Typs, welche das selbe Attribut des Schiffes beeinflussen, wird deren Wirksamkeit eingeschränkt.",
+    "en": "Flex Shield Hardeners use powerful but bulky resonance coils to project a constructive interference pattern across a ship's shields. These patterns can increase shield resistances against all damage types, or to provide increased protection against one specific damage type with the aid of swappable scripts.\r\n\r\nNote: Only one of this module type can be fitted at a time. May only be fitted to capital ships.\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",
+    "es": "Los endurecedores de escudo Flex usan potentes bobinas de resonancia para proyectar un patrón de interferencia constructivo en los escudos de la nave. Sus patrones aumentan las resistencias de escudo contra todo tipo de daño o para otorgar protección ante un tipo de daño específico con la ayuda de scripts intercambiables.\n\nNOTA: Solo puede equiparse una unidad de este tipo de módulo y solamente en naves capitales.\nPenalización: Por usar más de un tipo de módulo o módulos similares que afecten al mismo atributo de la nave.",
+    "fr": "Les revêtements de bouclier adaptatifs sont équipés de bobines de résonance massives et puissantes, qui projettent des ondes d'interférences constructives à travers le bouclier du vaisseau. Ces ondes modulables permettent d'augmenter les résistances du bouclier à tous les types de dégâts, ou de favoriser l'une des résistances à un type de dégâts spécifique lorsque le module est chargé d'un script interchangeable dédié.\n\n\n\nRemarque : un seul module de ce type peut être équipé à la fois. Réservé aux vaisseaux de classe capitale.\n\nPénalité : utiliser plus d'un module de ce type ou plusieurs modules modifiant un même attribut du vaisseau fera l'objet d'une pénalité.",
+    "ja": "フレックスシールドハードナーは、強力かつ巨大な共鳴コイルを使用し、艦船のシールド上に干渉パターンを形成する。形成されたパターンにより、全ダメージタイプに対するシールドレジスタンスを増加させたり、交換可能なスクリプトを使用して特定の1種のダメージタイプに対する防御効果を大幅に増加させることが可能。注： 同じモジュールタイプのものを一度に複数装備することはできない。主力艦にのみ装着可能。ペナルティ： 同じタイプのモジュール、または同じ属性に関係するモジュールを複数取り付けると、ペナルティが発生する。",
+    "ko": "다목적 실드 강화장치는 강력한 성능을 지닌 공진 코일을 활용하여 실드 표면부에 간섭 패턴을 씌웁니다. 스크립 미탑재 시 모든 피해 속성에 대한 저항력이 증가하는 반면 특정 스크립트를 탑재하게 될 경우 단일 속성에 대한 저항력이 대폭 증가합니다. <br><br>참고: 동일한 종류의 모듈은 동시에 한 개 이상 장착할 수 없습니다. 캐피탈급 함선에만 장착이 가능합니다. <br><br>페널티: 동일한 속성의 모듈 여러 개를 장착할 경우 페널티가 부여됩니다.",
+    "ru": "В программируемых энергоёмких модуляторах сопротивляемости полей используются мощные, но громоздкие катушки для проекции интерференционной картины на силовые поля корабля. Они могут равномерно увеличивать сопротивляемость силовых полей корабля всем типам поражающего действия, либо с помощью переключаемых прошивок значительно повышать сопротивляемость одному типу воздействия.\n\n\n\nНа корабль можно установить только один модуль этого типа. Внимание! Этим модулем могут оснащаться исключительно корабли большого тоннажа.\n\nВнимание! Установка на борт корабля двух и более модулей, влияющих на одну и ту же характеристику корабля, приведёт к снижению эффективности их действия в отношении данной характеристики.",
+    "zh": "弯曲护盾增强器使用强力但笨重的共振线圈对舰船全身护盾投射具有修复效果的干涉条纹。这些条纹能增加所有伤害类型的护盾抗性，或使用可切换脚本提供针对某种伤害类型的增强保护。\n\n\n\n注：只能同时装配一个这样的装备。注：只能装配在旗舰级舰船上。\n\n惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。"
+  },
+  "groupID": 1700,
+  "iconID": 81,
+  "marketGroupID": 2246,
+  "mass": 10000.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Domination Capital Flex Shield Hardener",
     "en": "Domination Capital Flex Shield Hardener",
@@ -10,5 +26,8 @@
     "ru": "Domination Capital Flex Shield Hardener",
     "zh": "主天使旗舰级弯曲护盾增强器"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 41516,
   "volume": 3000.0
 }

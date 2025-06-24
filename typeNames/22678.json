@@ -1,5 +1,16 @@
 {
-  "typeID": 22678,
+  "description": {
+    "de": "Eine Imicus, die von einem Agenten geflogen wird.",
+    "en": "An Imicus piloted by an agent.",
+    "es": "Imicus pilotada por un agente.",
+    "fr": "Un Imicus piloté par un agent.",
+    "ja": "エージェントを乗せたイミュカス。",
+    "ko": "에이전트가 조종하는 이미커스입니다.",
+    "ru": "Корабль класса Imicus, управляемый агентом.",
+    "zh": "由代理人驾驶的伊米卡斯级飞船。"
+  },
+  "graphicID": 322,
+  "groupID": 517,
   "name": {
     "de": "Cosmos Imicus",
     "en": "Cosmos Imicus",
@@ -10,5 +21,9 @@
     "ru": "Cosmos Imicus",
     "zh": "深空 伊米卡斯级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 42.0,
+  "sofFactionName": "gallentebase"
 }

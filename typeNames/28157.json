@@ -1,5 +1,18 @@
 {
-  "typeID": 28157,
+  "description": {
+    "de": "Sofern betriebsbereit, erlaubt es der Fabrikdienst Kapselpiloten Gegenstände und Schiffe in dieser Station zu fertigen.",
+    "en": "When operational, the Factory Service allows capsuleers to manufacture items and ships at this station.",
+    "es": "Cuando está operativo, el servicio de fábrica permite a los capsulistas fabricar objetos y naves en esta estación.",
+    "fr": "Une fois opérationnel, le service de production permet aux capsuliers de construire des objets et des vaisseaux dans la station.",
+    "ja": "工場サービスが稼働中のステーションでは、カプセラがアイテムや艦船を製造することができる。",
+    "ko": "공장 서비스를 통해 아이템 및 함선을 제작할 수 있습니다.",
+    "ru": "Действующая служба производства позволяет капсулёрам в доке станции производить предметы и корабли.",
+    "zh": "启用后，玩家停靠在空间站中时可以使用工厂服务来制造物品和舰船。"
+  },
+  "graphicID": 10026,
+  "groupID": 874,
+  "iconID": 21433,
+  "mass": 1.0,
   "name": {
     "de": "Factory Service",
     "en": "Factory Service",
@@ -10,5 +23,9 @@
     "ru": "Factory Service",
     "zh": "工厂服务"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 5000.0,
   "volume": 1.0
 }

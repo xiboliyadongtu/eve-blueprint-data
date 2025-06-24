@@ -1,5 +1,16 @@
 {
-  "typeID": 17873,
+  "description": {
+    "de": "Scannt die Erzbeschaffenheit eines Asteroiden.",
+    "en": "Scans the ore make-up of an asteroid.",
+    "es": "Escanea las menas que componen un asteroide.",
+    "fr": "Analyse la composition en minerai des astéroïdes.",
+    "ja": "アステロイドの鉱石組成を解析する。",
+    "ko": "소행성의 광석 구조를 스캔합니다.",
+    "ru": "Определяет состав астероида.",
+    "zh": "扫描小行星的矿物构成。"
+  },
+  "groupID": 472,
+  "iconID": 107,
   "name": {
     "de": "System Scanner I",
     "en": "System Scanner I",
@@ -10,5 +21,8 @@
     "ru": "System Scanner I",
     "zh": "星系扫描仪 I"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 60.0,
   "volume": 5.0
 }

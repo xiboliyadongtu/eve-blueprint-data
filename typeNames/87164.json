@@ -1,5 +1,7 @@
 {
-  "typeID": 87164,
+  "graphicID": 1217,
+  "groupID": 920,
+  "mass": 1.0,
   "name": {
     "de": "Finale Liminalität",
     "en": "Final Liminality",
@@ -9,6 +11,80 @@
     "ko": "최종 임계선",
     "ru": "Последнее ограничение",
     "zh": "最终阶段"
+  },
+  "portionSize": 250,
+  "published": true,
+  "sofFactionName": "genericbase",
+  "traits": {
+    "iconID": 24135,
+    "miscBonuses": [
+      {
+        "bonus": 30.0,
+        "bonusText": {
+          "de": "Bonus auf Fern-Panzerungsreparatur",
+          "en": "bonus to remote armor repair",
+          "es": "de bonificación a la reparación remota de blindajes.",
+          "fr": "de bonus au réparateur de blindage à distance",
+          "ja": "リモートアーマーリペアラにボーナス",
+          "ko": "원격 장갑수리량 증가",
+          "ru": "бонус к дистанционному ремонту брони",
+          "zh": "远程装甲维修加成"
+        },
+        "importance": 1,
+        "isPositive": true,
+        "unitID": 105
+      },
+      {
+        "bonus": 30.0,
+        "bonusText": {
+          "de": "Bonus auf Fern-Schildbooster",
+          "en": "bonus to remote shield boost",
+          "es": "de bonificación a la potenciación remota de escudos.",
+          "fr": "de bonus au booster de bouclier à distance",
+          "ja": "リモートシールドブースターを強化",
+          "ko": "원격 실드 부스터 회복량 증가",
+          "ru": "бонус к дистанционному усилению щитов",
+          "zh": "远程护盾回充量加成"
+        },
+        "importance": 2,
+        "isPositive": true,
+        "unitID": 105
+      },
+      {
+        "bonus": 30.0,
+        "bonusText": {
+          "de": "Abzug auf die Warpgeschwindigkeit",
+          "en": "penalty to warp speed",
+          "es": "de penalización a la velocidad de warp.",
+          "fr": "de pénalité à la vitesse de warp",
+          "ja": "ワープ速度にペナルティ",
+          "ko": "워프 속도 감소",
+          "ru": "штраф к скорости хода в варп-режиме",
+          "zh": "跃迁速度惩罚"
+        },
+        "importance": 3,
+        "isPositive": false,
+        "unitID": 105
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Abzug auf maximal aufgeschaltete Ziele",
+          "en": "penalty to maximum locked targets",
+          "es": "de penalización al máximo de objetivos fijados.",
+          "fr": "de pénalité au nombre maximum de cibles verrouillées",
+          "ja": "最大ターゲットロック数にペナルティ",
+          "ko": "최대 타겟 수 감소",
+          "ru": "штраф к максимальному числу захваченных целей",
+          "zh": "目标锁定数上限惩罚"
+        },
+        "importance": 4,
+        "isPositive": false,
+        "unitID": 105
+      }
+    ],
+    "roleBonuses": [],
+    "types": {}
   },
   "volume": 20.0
 }

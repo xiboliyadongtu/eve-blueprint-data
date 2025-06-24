@@ -1,5 +1,15 @@
 {
-  "typeID": 1631,
+  "description": {
+    "de": "Stirbt, wenn er sich länger als 5 Minuten in einer Rettungskapsel im Weltraum befindet.",
+    "en": "If floating in capsule in space for 5 mins, he dies.",
+    "es": "Si flota en una cápsula en el espacio durante cinco minutos, muere.",
+    "fr": "Il meurt s'il flotte dans l'espace à bord d'une capsule plus de 5 minutes.",
+    "ja": "カプセルのみで宇宙空間に放り出されると、5分で死亡する。",
+    "ko": "우주에서 캡슐로 5 분 이상 체류할 경우 그는 죽습니다.",
+    "ru": "Погибает в капсуле, если находится в космосе в течение 5 минут.",
+    "zh": "若太空舱在空间内飘浮时间达5分钟，则飞行员死亡。"
+  },
+  "groupID": 193,
   "name": {
     "de": "Claustrophobia Bonus",
     "en": "Claustrophobia Bonus",
@@ -10,5 +20,6 @@
     "ru": "Claustrophobia Bonus",
     "zh": "幽闭恐怖症加成"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

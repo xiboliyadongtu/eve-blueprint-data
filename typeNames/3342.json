@@ -1,5 +1,18 @@
 {
-  "typeID": 3342,
+  "basePrice": 500000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Caldari-Transportern.",
+    "en": "Skill at operating Caldari hauler ships.",
+    "es": "Habilidad en el manejo de naves de mercancías caldaris.",
+    "fr": "Compétence liée à l'utilisation de cargos caldari.",
+    "ja": "カルダリハウラーを操作するためのスキル。",
+    "ko": "칼다리 운반선을 운용하기 위한 스킬입니다.",
+    "ru": "Навык управления перевозчиками Государства Калдари.",
+    "zh": "操作加达里运载舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Caldari Hauler",
     "en": "Caldari Hauler",
@@ -10,5 +23,8 @@
     "ru": "Caldari Hauler",
     "zh": "加达里运载舰"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
   "volume": 0.01
 }

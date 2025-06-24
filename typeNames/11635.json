@@ -1,5 +1,17 @@
 {
-  "typeID": 11635,
+  "description": {
+    "de": "Ein Stapel Datenchips, die persönliche Informationen über die Bevölkerung einer Raumstation enthalten. Obwohl Informationen über wohlhabende oder wichtige Bewohner auf solchen Chips in der Regel nicht gespeichert werden, sind sie dennoch wertvoll für Kriminelle. Zugriff auf diese Informationen ohne Zustimmung der Betroffenen ist in den meisten Teilen der Galaxie illegal.",
+    "en": "This is a stack of data chips holding personal information about a station's general population.  Although information on wealthy or important citizens is rarely kept on these disks, they are still quite valuable for criminals.  Accessing this information without consent is illegal in most parts of the galaxy.",
+    "es": "Chips de datos con datos personales sobre la población general de una estación. Aunque no suelen contener información de ciudadanos ricos o influyentes, son muy valiosos para cualquier delincuente. El acceso a esta información sin consentimiento es ilegal en la mayoría de la galaxia.",
+    "fr": "Il s'agit d'une pile de puces de données contenant les informations personnelles de tous les habitants d'une station.  Bien que les informations concernant les citoyens aisés ou importants soient rarement conservées sur ce genre de support, ces données sont tout de même intéressantes pour les criminels.  Accéder à ces informations sans l'accord de la personne concernée est un délit dans presque toute la galaxie.",
+    "ja": "あるステーションの一般住民の個人情報が保存されたデータチップ。こうしたディスクに重要人物や富裕階級の人物に関する情報が保存されている可能性は低いが、それでも犯罪集団にとっては極めて価値が高い。こうした情報に許可なくアクセスすることは、銀河系のほぼ全域で違法とされている。",
+    "ko": "정거장 거주민의 개인정보가 저장되어 있는 데이터 칩입니다. 부유층 및 중요 인물의 개인정보는 기록되어 있지 않지만, 여전히 범죄자들 사이에서는 가치가 높습니다. 인가 없이 정보를 열람하는 행위는 대다수 지역에서 불법으로 간주됩니다.",
+    "ru": "Эта сводка на чипах данных содержит личную информацию о всём населении станции.  Несмотря на то, что информация о богатых и важных жителях редко хранится на этих дисках, преступники всё равно за них платят. Доступ к этой информации без согласия незаконен в большинстве районов вселенной.",
+    "zh": "这是一堆数据芯片，记录了某空间站内普通大众的个人信息。尽管富人和重要公民的信息很少保存在这上面，但是对罪犯来说还是很有价值的。未经许可访问这些信息在宇宙大多数地方都被视为违法行为。"
+  },
+  "groupID": 314,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Personal Information Data",
     "en": "Personal Information Data",
@@ -10,5 +22,7 @@
     "ru": "Personal Information Data",
     "zh": "个人信息数据"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

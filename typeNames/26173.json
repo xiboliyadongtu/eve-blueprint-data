@@ -1,5 +1,18 @@
 {
-  "typeID": 26173,
+  "basePrice": 6000.0,
+  "capacity": 8.0,
+  "description": {
+    "de": "Ein Raketenwerfer, der so modifiziert wurde, dass er mit Scannersonden geladen werden kann. Kann bis zu zwölf Systemscannersonden jeglicher Konfiguration aufnehmen.\r\nMan kann ihn auch als Startplattform für Überwachungssonden nutzen. Auf jedem Schiff kann nur ein Sondenstarter montiert werden.",
+    "en": "A missile launcher shell modified to fit scanner probes.  Can hold up to twelve system scan probes of any one configuration. Can also be used to launch survey probes. Only one probe launcher can be fitted per ship.",
+    "es": "Un proyectil para lanzamisiles modificado para alojar sondas escáner. Puede albergar hasta doce sondas de escaneo del sistema de cualquier configuración. También puede usarse para lanzar sondas de prospección. Solo se puede equipar un lanzasondas por nave.",
+    "fr": "Lance-missiles modifié pour larguer des sondes d'exploration.  Il peut contenir jusqu'à 12 systèmes de sondes d'exploration, quelle que soit la configuration. Peut s'utiliser pour lancer des sondes d'inspection. Un seul lanceur de sonde peut être installé par vaisseau.",
+    "ja": "スキャナープローブの発射が可能となる。装填配置に関わらず、一つの構成で 12 基までのシステムスキャンプローブを装填できる。また、衛星調査プローブの発射も可能。搭載可能なプローブランチャーは、1 艦につき 1 基のみ。",
+    "ko": "스캐너 및 프로브 장착을 위해 개조된 미사일 런처 외장입니다. 최대 12개의 스캔 프로브를 장착할 수 있습니다. 조사 프로브 사출 또한 가능합니다. 프로브 런처는 한 함선에 한 개만 장착할 수 있습니다.",
+    "ru": "Пусковая установка, модифицированная для использования исследовательских зондов. Вмещает до двенадцати исследовательских зондов для систем в любой конфигурации. Также можно использовать как пробы для исследования. На корабле может помещаться только одна пусковая установка для зондов.",
+    "zh": "这是为发射扫描探针而改进的导弹发射器。最多可以装载十二枚任意配置的星系扫描探测器。也可以用于发射测量探针。每艘飞船只能安装一部探针发射器。"
+  },
+  "groupID": 481,
+  "iconID": 2677,
   "name": {
     "de": "QA Probe Launcher",
     "en": "QA Probe Launcher",
@@ -10,5 +23,7 @@
     "ru": "QA Probe Launcher",
     "zh": "QA探针发射器"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 5.0
 }

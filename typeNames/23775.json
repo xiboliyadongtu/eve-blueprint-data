@@ -1,5 +1,16 @@
 {
-  "typeID": 23775,
+  "description": {
+    "de": "Eine Crucifier, die von einem Agenten geflogen wird.",
+    "en": "A Crucifier piloted by an agent.",
+    "es": "Crucifier pilotada por un agente.",
+    "fr": "Un Crucifier piloté par un agent.",
+    "ja": "エージェントを乗せたクルセファー。",
+    "ko": "에이전트가 조종하는 크루시파이어입니다.",
+    "ru": "Корабль класса Crucifier, управляемый агентом.",
+    "zh": "由代理人驾驶的磨难级飞船。"
+  },
+  "graphicID": 1066,
+  "groupID": 517,
   "name": {
     "de": "Cosmos Crucifier",
     "en": "Cosmos Crucifier",
@@ -10,5 +21,9 @@
     "ru": "Cosmos Crucifier",
     "zh": "深空 磨难级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 39.0,
+  "sofFactionName": "amarrbase"
 }

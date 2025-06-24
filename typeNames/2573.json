@@ -1,5 +1,16 @@
 {
-  "typeID": 2573,
+  "description": {
+    "de": "Dieser Titan der Ragnarok-Klasse ist ein Geisterschiff enormen Ausmaßes und sollte eigentlich im Zentrum einer minmatarischen Streitmacht oder planetaren Verteidigung agieren, aber stattdessen schwebt es in aller Ruhe hier herum. Seine Hülle ist noch unversehrt, aber alle Teile nützlicher Technologie, beispielsweise Waffensysteme, Antrieb und Elektronik, sind sorgfältig entfernt worden. Von der Besatzung des Schiffes gibt es keine Spur, obwohl alle Rettungskapseln noch da sind.",
+    "en": "A ghost ship of enormous proportions, this Ragnarok-class Titan should be at the core of a Minmatar strike force or planetary defense, yet here it floats in silence. Its hull is airtight, yet all useful technology has been meticulously stripped from it, including weapons systems, propulsion, and electronics. There is no trace of its crew, despite all of its escape pods being present.",
+    "es": "Este titán de clase Ragnarok, una nave fantasma de proporciones épicas, debería formar parte de una fuerza de ataque minmatariana o de defensa planetaria; sin embargo, aquí está, flotando en silencio. Aunque el casco es más bien hermético, poco a poco le han ido arrebatando toda la tecnología útil, incluidos los sistemas de armas, de propulsión y aparatos electrónicos varios. No hay rastro de su tripulación, a pesar de que aún conserva todas las cápsulas de escape.",
+    "fr": "Vaisseau fantôme aux dimensions énormes, ce Titan de classe Ragnarok devrait être au centre d'une force de frappe minmatar ou d'une défense planétaire. Pourtant, il flotte ici, dans le plus grand silence. Sa coque est très hermétique, bien que toutes les technologies utiles ont été méticuleusement retirées, y compris les systèmes d'armement, de propulsion et électroniques. Aucune trace de l'équipage, malgré la présence de toutes les capsules de survie.",
+    "ja": "巨大な幽霊船。このラグナロク級のタイタンはミンマターの襲撃部隊や惑星防衛の中核となり得るが、今は静寂の中を漂っている。船体は密閉されているが、兵器システム、推進力、電気系統などの役に立つ技術はすべて失われている。脱出ポッドはすべて残っているが、クルーがいた形跡がない。",
+    "ko": "한때는 민마타 타격 함대를 이끄는 라그나로크급 타이탄이었으나 지금은 거대한 유령선의 모습으로 우주를 떠다니고 있습니다. 함선 내부는 밀폐되었으나 외부에 장착된 무기 시스템, 추진기, 그리고 전자 장치 등의 주요 장비는 전부 해체된 상태입니다. 함대원의 행방은 찾을 수 없으며, 기이하게도 캡슐 포드는 전부 제자리에 남아있습니다.",
+    "ru": "Покинутый корабль чудовищных размеров, этот титан класса Ragnarok должен был бы находиться в самой гуще ударных сил флота Minmatar или планетарной защиты, вместо того, чтобы безмолвно плавать в пространстве. Его корпус не поврежден и герметичен, но вся полезная техника и оборудование были с него сняты, включая орудийные системы, двигательные установки и электронные приборы. От команды нет и следа, но все спасательные капсулы находятся на месте.",
+    "zh": "一艘巨大的鬼船，拉格纳洛克级泰坦本应是米玛塔尔打击部队和行星攻防部队中的核心力量，而现在它只是静静地飘荡在太空中。它的船体是密闭的，但包括武器、推进和电子系统在内，其所有有用的技术设备已被悉数拆卸。它的乘员也都全不见了踪影，但所有的逃生舱都还原封不动的留在舰体上。"
+  },
+  "graphicID": 3114,
+  "groupID": 226,
   "name": {
     "de": "The Solitaire",
     "en": "The Solitaire",
@@ -10,5 +21,8 @@
     "ru": "The Solitaire",
     "zh": "独居者"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 2000.0,
+  "sofFactionName": "minmatarbase"
 }

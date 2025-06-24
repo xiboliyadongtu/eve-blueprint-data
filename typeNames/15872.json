@@ -1,5 +1,21 @@
 {
-  "typeID": 15872,
+  "capacity": 1.0,
+  "description": {
+    "de": "Dieser leichte Strahllaser verwendet zwei separate Laser-Fokussierungssysteme, um die Abkühlungsphase zwischen den Schüssen zu verkürzen; eine gute Kurz- und Mittelstreckenwaffe. \n\nMuss mit einem der folgenden Frequenzkristalle geladen werden: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",
+    "en": "This light beam laser uses two separate laser focusing systems to reduce the cool down period between shots. Good short to medium range weapon. \r\n\r\nRequires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",
+    "es": "Este láser de rayos ligero usa dos sistemas de enfoque láser independientes para reducir el periodo de enfriamiento entre los disparos. Bueno a corto y medio alcance.\n\nRequiere tipos de munición de cristales de frecuencia: gamma, infrarrojos, microondas, multifrecuencia, radio, estándar, ultravioleta, rayos X.",
+    "fr": "Ce laser à rayons léger utilise deux systèmes laser indépendants visant à réduire le délai de refroidissement nécessaire entre deux tirs. Arme idéale pour les combats de courte à moyenne portée. \n\nRequiert les cristaux de fréquence suivants en guise de munitions : gamma, infrarouge, micro-onde, multifréquence, radio, standard, ultraviolet, rayon X.",
+    "ja": "ライトビームレーザー。独立した 2 基のレーザー集束システムを交互に使用して、連射の間の冷却時間を短縮している。近距離から中距離が得意な兵器。\r\n\n装填可能なフリーケンシークリスタルのタイプ : ガンマ、赤外線、マイクロ波、多周波、放射線、標準、紫外線、エックス線。",
+    "ko": "분리된 두 개의 레이저 집속시스템을 사용하여 발사 간 냉각 시간이 줄어들었습니다. 중단거리 교전에 특화된 무기입니다. <br><br>사용 가능한 프리퀀시 크리스탈: 감마선, 적외선, 마이크로파, 멀티프리퀀시, 라디오파, 스탠다드, 자외선, 엑스선.",
+    "ru": "Этот легкий непрерывный лазер оснащен двумя раздельными системами фокусировки лазерного излучения, позволяющими сократить перерывы на охлаждение и повышающими скорострельность. Рекомендуется для ведения огня на средних и ближних дистанциях.\n\nСледует заряжать частотными кристаллами: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",
+    "zh": "这种轻型集束激光器配有两个独立的激光聚焦装置，以缩短两次开火之间的冷却周期。适用于中短程交战的好装备。\r\n\r\n使用的频率晶体弹药类型：伽玛、红外线、微波、多频、射频、标准、紫外线和X射线。"
+  },
+  "graphicID": 21556,
+  "groupID": 53,
+  "iconID": 352,
+  "marketGroupID": 567,
+  "mass": 500.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Imperial Navy Dual Light Beam Laser",
     "en": "Imperial Navy Dual Light Beam Laser",
@@ -10,5 +26,10 @@
     "ru": "Imperial Navy Dual Light Beam Laser",
     "zh": "帝国海军双联轻型集束激光器"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "sofFactionName": "amarrnavy",
+  "variationParentTypeID": 452,
   "volume": 5.0
 }

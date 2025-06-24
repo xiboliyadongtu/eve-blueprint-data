@@ -1,5 +1,18 @@
 {
-  "typeID": 20530,
+  "basePrice": 150000000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Caldari-Dreadnoughts.",
+    "en": "Skill at operating Caldari dreadnoughts.",
+    "es": "Habilidad en el manejo de superacorazados caldaris.",
+    "fr": "Compétence permettant de manœuvrer des dreadnoughts caldari.",
+    "ja": "カルダリ攻城艦を操作するスキル。",
+    "ko": "칼다리 드레드노트를 운용하기 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на дредноутах производства Государства Калдари.",
+    "zh": "操作加达里无畏舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Caldari Dreadnought",
     "en": "Caldari Dreadnought",
@@ -10,5 +23,7 @@
     "ru": "Калдарские дредноуты",
     "zh": "加达里无畏舰操作"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

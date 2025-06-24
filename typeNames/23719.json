@@ -1,5 +1,20 @@
 {
-  "typeID": 23719,
+  "basePrice": 3276.0,
+  "description": {
+    "de": "Wartungsdrohne für den Schild",
+    "en": "Shield Maintenance Drone",
+    "es": "Dron de mantenimiento del escudo.",
+    "fr": "Drone de maintenance de bouclier.",
+    "ja": "シールド修理ドローン",
+    "ko": "실드 재생 드론입니다.",
+    "ru": "Дрон накачки щита",
+    "zh": "护盾维修无人机"
+  },
+  "graphicID": 1104,
+  "groupID": 640,
+  "marketGroupID": 842,
+  "mass": 3000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Light Shield Maintenance Bot I",
     "en": "Light Shield Maintenance Bot I",
@@ -10,5 +25,9 @@
     "ru": "Light Shield Maintenance Bot I",
     "zh": "轻型护盾维护机器人 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 15.0,
+  "sofFactionName": "caldaribase",
   "volume": 5.0
 }

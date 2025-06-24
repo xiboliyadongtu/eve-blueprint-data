@@ -1,5 +1,16 @@
 {
-  "typeID": 3652,
+  "description": {
+    "de": "Die Bestower wurde vom Imperium über Jahrzehnte hinweg für den Sklaventransport verwendet und beförderte menschliche Arbeitskräfte zwischen den kultivierten Planeten des Imperiums hin und her. Als Beweis für die stete Zuverlässigkeit der Bestower hat der Kaiser selbst eine verbesserte Version der gleichen Schiffsklasse als Transporter für den kaiserlichen Schatz verwendet. Die Bestower verfügt über eine äußerst starke Panzerung und viel Platz für Schiffsfracht.",
+    "en": "The Bestower has for decades been used by the Empire as a slave transport, shipping human labor between cultivated planets in Imperial space. As a proof to how reliable this class has been through the years, the Emperor himself has used an upgraded version of this very same class as transports for the Imperial Treasury. The Bestower has very thick armor and large cargo space.",
+    "es": "El Imperio ha utilizado la Bestower durante décadas como nave de transporte de esclavos, llevando mano de obra humana entre los planetas cultivados del espacio imperial. Como prueba de la gran fiabilidad de esta clase a pesar de los años, el propio emperador ha utilizado una versión mejorada de la misma como nave de transporte de la Tesorería Imperial. La Bestower cuenta con un blindaje muy grueso y un gran espacio de carga.",
+    "fr": "Pendant des décennies, le Bestower a été utilisé par l'Empire comme vaisseau de transport d'esclaves permettant l'échange de populations entre les planètes cultivées de l'espace impérial. Les vaisseaux de cette classe sont si résistants que l'Empereur en personne utilise une version améliorée de ce vaisseau pour assurer le transport du trésor impérial. Le Bestower dispose d'un blindage très épais et d'une grande soute.",
+    "ja": "ビストワーは、数十年に渡って帝国の奴隷輸送船として領内農業惑星間の人員輸送に使われている。その歳月に培われてきた信頼がどれほどのものかといえば、皇帝自らが他ならぬこのクラスの改良型を帝国宝物殿への輸送艦にしていたほどだ。極めて厚いアーマーと広いカーゴスペースが特徴である。",
+    "ko": "베스토어급은 아마르 제국에서 수십 년간 노예 운송에 사용된 함선으로 노동력을 필요로 하는 행성을 오가며 인력을 수송해왔습니다. 오랜 세월 신뢰를 쌓아 올린 결과, 황제는 해당 함급을 개조하여 제국 재무부의 전용 수송선으로 사용하기도 하였습니다. 베스토어급은 두터운 장갑과 대규모 화물 적재 공간을 보유하고 있습니다.",
+    "ru": "Промышленные корабли класса Bestower вот уже несколько десятилетий используются Империей в качестве средства транспортировки рабов, перевозя рабочую силу между населенными планетами в имперском пространстве. Доказательством надежности кораблей этого типа является то, что их усовершенствованным вариантом охотно пользуется имперское казначейство. Bestower отличается от прочих промышленных кораблей очень толстой броней и большим объемом грузового отсека.",
+    "zh": "恩赐者级几十年来一直被帝国用作劳工运输舰，在帝国空间的各文明行星间运送劳动力。作为该级别飞船多年来的可靠性的证明，皇帝自己已经将恩赐者级的一个升级版本用作皇室国库的运输舰。恩赐者级拥有很厚的装甲和巨大的货舱空间。"
+  },
+  "graphicID": 1064,
+  "groupID": 226,
   "name": {
     "de": "Amarr Bestower Hauler",
     "en": "Amarr Bestower Hauler",
@@ -10,5 +21,9 @@
     "ru": "Amarr Bestower Hauler",
     "zh": "艾玛恩赐者级运载舰"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 350.0,
+  "sofFactionName": "amarrbase"
 }

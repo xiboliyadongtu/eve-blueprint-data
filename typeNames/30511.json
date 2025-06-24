@@ -1,5 +1,18 @@
 {
-  "typeID": 30511,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese Turmstruktur weist alle grundlegenden Elemente eines gewöhnlichen Silos auf: höhlenartige Speicher, dicke Wände, umfassende Belüftung und dergleichen. Die Scans dieses Silos geben jedoch keine Auskunft darüber, was hier aufbewahrt wurde. Die Rückstände im Innern deuten auf nichts, was man heutzutage kennt oder was gar eine auffällige Genstruktur hätte. Was auch immer sein Inhalt gewesen sein mag - dieses Silo strahlt etwas Unbekanntes und Unbehagliches aus.",
+    "en": "This towering structure contains all the basic elements of a regular silo: cavernous storage areas, thick walls, extensive ventilation, etc. Based on the scans of this silo, however, the silo's previous contents are unknown. The residue from inside reveals nothing known in modern times, or even odd genetic combinations. Whatever its contents, the silo emits an unfamiliar – and uneasy – presence.",
+    "es": "Esta imponente estructura incluye todos los elementos básicos de un depósito normal: zonas de almacenamiento cavernosas, paredes gruesas, amplia ventilación, etcétera. Sin embargo, según los escaneos, se des conoce qué almacenaba anteriormente. Los residuos del interior no revelan nada conocido en tiempos modernos, ni tampoco combinaciones genéticas extrañas. Fuera cual fuera su contenido, el depósito desprende una extraña (e inquietante) presencia.",
+    "fr": "Cette imposante structure contient tous les éléments de base d'un silo ordinaire : zones de stockage caverneuses, murs épais, excellente ventilation, etc. Toutefois, si l'on se réfère aux scans du silo, son contenu demeurerait un mystère. Les résidus internes ne présentent rien d'actuel, ni même de traces d'étranges combinaisons génétiques. Quoi qu'il contienne, ce silo dégage cependant quelque chose d'inhabituel et de désagréable.",
+    "ja": "一般的なサイロの基本要素が全て揃っているタワー状の建造物。穴のように深い貯蔵エリア、分厚い壁、徹底した換気システムなどがある。しかし、スキャンしても以前何が入っていたかまでは分からない。内部に残っているものは、奇妙な遺伝子の組み合わせも含め、現代の知識では手がかりにならないものばかりだった。ここに何があったにせよ、このサイロは近寄りがたく不安にさせるような雰囲気を漂わせている。",
+    "ko": "동굴 같은 저장구역, 두터운 외벽, 잘 갖추어진 통풍 장치 등 기본적인 사일로의 요소를 모두 갖춘 탑입니다. 사일로를 스캔하여 알아낸 바로는 과거에 이 사일로에 알 수 없는 무언가가 저장되어있었습니다. 내부의 잔여물은 오늘날 우리가 알고 있는 그 무엇과도 유사점이 없습니다. 그 내용물이 무엇이었든 간에 어쩐지 생경한 불안감을 느끼게 하는 사일로입니다.",
+    "ru": "Это сооружение содержит все основные элементы обычного хранилища: вместительные отсеки, толстые стены, мощная система вентиляции и т.д. Тем не менее, результаты его сканирования не позволяют установить, что же именно в нем хранилось. Остаточные элементы, найденные внутри, не соответствуют ничему, что было бы известно современной науке, и не поддаются анализу. Каковым бы не было его прежнее содержимое, это хранилище оставляет непривычное и неприятное ощущение.",
+    "zh": "这座塔状的建筑物拥有普通储藏库的各种设置：巨大的仓库、储藏区、厚厚的外壁及复杂的通风系统等等。根据对它的扫描结果可以看出，无论之前这座仓库装过什么东西，现在它已经空无一物。内部的残留物都是现今世界所不知的物质，甚至连生物残留的遗传信息都难以理解。不管它装的是什么，这座建筑的存在实在让人感到诡异。"
+  },
+  "graphicID": 3574,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Hollow Talocan Extraction Silo",
     "en": "Hollow Talocan Extraction Silo",
@@ -10,5 +23,9 @@
     "ru": "Hollow Talocan Extraction Silo",
     "zh": "空荡的塔洛迦采集仓库"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 11048.0,
+  "sofFactionName": "talocanbase",
   "volume": 100000000.0
 }

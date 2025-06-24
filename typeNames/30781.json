@@ -1,5 +1,18 @@
 {
-  "typeID": 30781,
+  "capacity": 145.0,
+  "description": {
+    "de": "Dieser defekten Drohne kann man sich gefahrlos nähern.",
+    "en": "This corrupted drone looks safe to approach.",
+    "es": "Parece seguro aproximarse a este dron dañado.",
+    "fr": "Il semblerait que l'on puisse s'approcher sans risque de ce drone corrompu.",
+    "ja": "この壊れたドローンには、近付いても問題なさそうだ。",
+    "ko": "손상된 상태라 접근해도 괜찮을 듯 합니다.",
+    "ru": "Этот испорченный дрон выглядит достаточно безопасным, чтобы к нему приблизиться.",
+    "zh": "这只被摧毁的无人机看起来应该不具有任何危险。"
+  },
+  "graphicID": 1226,
+  "groupID": 306,
+  "mass": 1450000.0,
   "name": {
     "de": "Corrupted Drone",
     "en": "Corrupted Drone",
@@ -10,5 +23,9 @@
     "ru": "Corrupted Drone",
     "zh": "毁坏的无人机"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 47.0,
+  "sofFactionName": "roguebase",
   "volume": 16120.0
 }

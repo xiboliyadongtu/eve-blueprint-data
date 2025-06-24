@@ -1,5 +1,16 @@
 {
-  "typeID": 29386,
+  "description": {
+    "de": "CONCORD-Schiffe verfügen über fortschrittliche Rumpftechnologie, welche es ihnen erlaubt, sogar nach völligem Aussetzen aller Systeme die externe Integrität aufrecht zu erhalten. An diesem Beispiel kann man das sehr gut erkennen: Obwohl die Hülle intakt zu sein scheint, ist der Rest des Schiffs offensichtlich nicht mehr funktionstüchtig.",
+    "en": "CONCORD vessels employ advanced hull technology which allows them to maintain external integrity even after the ship has suffered complete systems failure. This is definitely one of those cases - while the hull appears intact, the rest of the ship is very clearly non-functional",
+    "es": "Las naves CONCORD emplean tecnología de casco avanzada que les permite mantener la integridad externa incluso después de que la nave haya sufrido un fallo completo de los sistemas. Este es definitivamente uno de esos casos: mientras que el casco parece intacto, el resto de la nave no funciona.",
+    "fr": "Les vaisseaux de CONCORD utilisent une technologie avancée de coque, leur permettant ainsi d'assurer l'intégrité externe de leurs vaisseaux, et ce même en cas de défaillance des systèmes. C'est justement le cas ici : si la coque semble bel et bien intacte, le reste du vaisseau est bon pour la casse.",
+    "ja": "CONCORDの艦船は先進的な船体技術を採用しており、システムが障害によって完全に停止した場合でも外見上は問題が発生していないように見える。これは正にそのような状態である。船体には問題が発生していないが、それ以外の部分は明らかに機能していない。",
+    "ko": "CONCORD의 함선은 첨단 선체 기술을 적용하여 시스템 붕괴 시에도 외부 선체의 건전성을 유지합니다. 이 함선 잔해물이 그 예입니다. 선체는 온전해 보이나 가동이 불가능한 상태입니다.",
+    "ru": "В кораблях CONCORD используются усовершенствованные технологии производства корпусов, которые обеспечивают поддержание целостности даже при полном отказе систем корабля. Видимо, это один из таких корпусов — он не имеет видимых повреждений, но все остальные системы не работают.",
+    "zh": "统合部舰船通常采用先进的船体建造工艺，即使在舰船受到完全损伤时也能保持外表的完整性。这个残骸看上去就是一个最直接的例子——尽管外壳看上去没有受到严重的损伤，但整个舰船很明显已经完全丧失了所有功能。"
+  },
+  "graphicID": 21928,
+  "groupID": 226,
   "name": {
     "de": "CONCORD Battleship Wreck",
     "en": "CONCORD Battleship Wreck",
@@ -10,5 +21,9 @@
     "ru": "CONCORD Battleship Wreck",
     "zh": "统合部战列舰残骸"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 400.0,
+  "sofFactionName": "army"
 }

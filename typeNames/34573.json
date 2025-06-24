@@ -1,5 +1,16 @@
 {
-  "typeID": 34573,
+  "description": {
+    "de": "Es gibt nichts in unseren Datenbanken, das dieser Struktur ähnlich sieht.",
+    "en": "There's nothing in our databanks that matches this structure.",
+    "es": "No se ha encontrado información en los bancos de datos que coincida con esta estructura.",
+    "fr": "Il n'y a rien dans nos bases de données qui corresponde à cette structure.",
+    "ja": "このストラクチャに該当するものがデータバンクにありません。",
+    "ko": "해당 구조물과 일치하는 정보가 데이터베이스에 존재하지 않습니다.",
+    "ru": "В наших базах данных нет ничего, соответствующего этому сооружению.",
+    "zh": "我们的数据库中没有和这个建筑匹配的资料。"
+  },
+  "graphicID": 21056,
+  "groupID": 226,
   "name": {
     "de": "Unidentifizierte Struktur",
     "en": "Unidentified Structure",
@@ -10,5 +21,10 @@
     "ru": "Неидентифицированное сооружение",
     "zh": "不明建筑"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 6500.0,
+  "sofFactionName": "jovebase",
+  "soundID": 20209
 }

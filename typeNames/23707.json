@@ -1,5 +1,19 @@
 {
-  "typeID": 23707,
+  "basePrice": 3000.0,
+  "description": {
+    "de": "Leichte ECM-Drohne",
+    "en": "Light ECM Drone",
+    "es": "Dron ECM ligero.",
+    "fr": "Drone CME léger.",
+    "ja": "小型ECMドローン",
+    "ko": "라이트 ECM 드론",
+    "ru": "Лёгкий дрон РЭБ",
+    "zh": "轻型ECM无人机"
+  },
+  "graphicID": 1104,
+  "groupID": 639,
+  "marketGroupID": 841,
+  "mass": 3000.0,
   "name": {
     "de": "Hornet EC-300",
     "en": "Hornet EC-300",
@@ -10,5 +24,10 @@
     "ru": "Hornet EC-300",
     "zh": "大黄蜂EC-300"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 15.0,
+  "sofFactionName": "caldaribase",
   "volume": 5.0
 }

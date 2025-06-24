@@ -1,5 +1,21 @@
 {
-  "typeID": 24497,
+  "basePrice": 101160.0,
+  "description": {
+    "de": "Die Nova Light Missile ist eine winzige Projektilwaffe mit Nuklear-Sprengkopf, die auf einem klassischen Minmatar-Design beruht, das seit den frühen Tagen des Widerstandes der Minmatar in Gebrauch ist.\n\n\n\nEine modifizierte Version der Nova Light Missile. Verursacht größeren Schaden als die Vorgängermunition. Die Unberechenbarkeit des Sprengkopfs und das leistungsstarke Abschirmsystem verringern jedoch sowohl Flugzeit als auch Genauigkeit.",
+    "en": "The Nova light missile is a tiny nuclear projectile based on a classic Minmatar design that has been in use since the early days of the Minmatar Resistance.\r\n\r\nA modified version of the Nova light missile. Does more damage than its predecessor but the volatile nature of the warhead, and its powerful containment system, reduce both flight time and precision.",
+    "es": "El misil ligero Nova es un pequeño proyectil nuclear basado en un diseño clásico minmatariano que se utiliza desde los inicios de la resistencia minmatariana.\n\nVersión modificada del misil ligero Nova. Inflige más daño que su predecesor, pero la naturaleza volátil de la ojiva y su potente sistema de contención reducen tanto el tiempo de vuelo como la precisión.",
+    "fr": "Le missile léger Nova est un petit projectile nucléaire basé sur des plans minmatar. Sa mise en service remonte aux débuts de la résistance minmatar.\n\nVersion modifiée du missile léger Nova. Il inflige davantage de dégâts que son prédécesseur, mais la nature explosive de l'ogive, combinée à son puissant système de confinement, réduit à la fois le temps de vol et la précision.",
+    "ja": "ノヴァライトミサイルは、ミンマター蜂起の昔から使われている古いミンマター系設計を基に作られた超小型核ミサイルである。\n\nノヴァライトミサイルの改良版。従来型より与えるダメージは高いが、不安定な物質を使った弾頭と強化封じ込めシステムのせいで、飛行時間や精度は劣る。",
+    "ko": "노바 라이트 마사일은 핵탄두가 탑재된 소형 미사일로 민마타 레지스탕스 초기에 설계된 역사 깊은 무기입니다. <br><br>개량된 노바 라이트 미사일입니다. 기존 버전보다 파괴력은 뛰어나지만 낮은 탄두 안정성과 고성능 격납시스템의 탑재로 인해 사거리 및 정확도는 상대적으로 떨어집니다.",
+    "ru": "Nova — это легкая ядерная ракета, разработанная на основе классической модели Минматар, которая использовалась с самого начала Сопротивления Минматар.\n\nМодифицированная версия легкой ракеты Nova. Обладает более значительным разрушительным действием, чем базовая модель, но при этом имеет меньшую дальность полета и пониженную эффективность ввиду низкой стабильности боеголовки.",
+    "zh": "星爆轻型导弹是种超小型的核子武器，源于自米玛塔尔抵抗运动早期开始就有应用的某个经典共和国设计。这是星爆轻型导弹的一种改良版本，相比其前身具备更强的伤害力，但由于其强大的密封系统及高度不稳定性，飞行时间和准确性都有所降低。"
+  },
+  "graphicID": 20063,
+  "groupID": 653,
+  "iconID": 193,
+  "marketGroupID": 927,
+  "mass": 700.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Nova Fury Light Missile",
     "en": "Nova Fury Light Missile",
@@ -10,5 +26,9 @@
     "ru": "Nova Fury Light Missile",
     "zh": "星爆愤怒轻型导弹"
   },
+  "portionSize": 5000,
+  "published": true,
+  "radius": 300.0,
+  "variationParentTypeID": 213,
   "volume": 0.015
 }

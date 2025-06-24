@@ -1,5 +1,18 @@
 {
-  "typeID": 60203,
+  "capacity": 1200.0,
+  "description": {
+    "de": "Diese Raubdrohne verteidigt das örtliche Kolonienest und ist für diese Aufgabe gut bewaffnet. Die Drohnen reagieren auf jede von ihnen wahrgenommene Bedrohung gegenüber der Kolonie. In ausreichender Zahl reißen sie jeden Eindringling in Stücke und verwenden ihn als Material für die Verseuchung.",
+    "en": "This rogue drone is dedicated to the defense of the local colony nest and is well-armed for that purpose. These drones will respond to any perceived threat to the colony, and in sufficient numbers will tear apart any intruder and feed its materials to the expanding infestation.",
+    "es": "Este dron rebelde se dedica a la defensa del nido de la colonia local y está bien armado para ello. Estos drones responderán ante cualquier amenaza que perciban hacia la colonia y, en número suficiente, harán pedazos a cualquier intruso y utilizarán sus materiales para expandir su infestación.",
+    "fr": "Ce drone renégat est dédié à la défense du nid de la colonie locale et il est fortement armé à cette fin. Ces drones répondront à toute menace qu'ils percevront à l'égard de la colonie. En nombre suffisant, ils mettront en pièces tout intrus et nourriront de ses débris l'infestation grandissante.",
+    "ja": "このローグドローンは現地のコロニーネストを守る役割を担っているため重武装だ。コロニーに対するいかなる脅威にも反応し、十分な数でどんな侵入者でも引き裂き、その残骸をドローンの個体数を増やし続けるために資源として持ち帰る。",
+    "ko": "콜로니 둥지의 방어를 책임지는 로그 드론 개체로 상당한 수준의 무장을 지니고 있습니다. 숫자를 앞세워 전투를 펼치며 콜로니를 위협하는 대상을 파괴하여 양분으로 삼습니다.",
+    "ru": "Этот восставший дрон предназначен для защиты местной колонии и отлично для этого оснащён. Такие дроны реагируют на любую угрозу: они набрасываются на чужаков отрядами, а затем используют обломки кораблей и оборудования для развития колонии.",
+    "zh": "这个自由无人机装配精良，专门负责保护此地的领地巢穴。它们会用压倒性的数量来撕碎一切入侵者，然后把得到的材料用来扩张巢穴。"
+  },
+  "graphicID": 1230,
+  "groupID": 1664,
+  "mass": 1000000.0,
   "name": {
     "de": "Colony Nest Guardian",
     "en": "Colony Nest Guardian",
@@ -10,5 +23,10 @@
     "ru": "Colony Nest Guardian",
     "zh": "领地巢穴守卫"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 45.0,
+  "sofFactionName": "roguebase",
+  "soundID": 11,
   "volume": 60.0
 }

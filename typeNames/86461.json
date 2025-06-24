@@ -1,5 +1,18 @@
 {
-  "typeID": 86461,
+  "description": {
+    "de": "Dies entspricht einem Schiff der Kreuzerklasse von Sansha’s Nation. Sie greift alles an, was sie als Bedrohung oder leichte Beute wahrnimmt. Sie neutralisiert die Energiespeicher ihrer Ziele, wann immer es möglich ist.",
+    "en": "This is a cruiser-class ship equivalent for Sansha's Nation. It will attack anyone it perceives as a threat or easy pickings. It neutralizes its targets' capacitors whenever possible.",
+    "es": "Este es el equivalente a una nave de clase crucero de la Nación Sansha. Atacará a todo aquello que perciba como una amenaza o una presa fácil, y neutralizará los condensadores de su objetivo siempre que sea posible.",
+    "fr": "Il s'agit d'un vaisseau équivalent à un croiseur pour la Sansha's Nation. Il attaquera quiconque perçu comme une menace ou une proie facile. Il neutralise les capaciteurs de ses cibles chaque fois que possible.",
+    "ja": "サンシャ国にとっての巡洋艦級にあたる艦船。危険もしくは格下と判断した標的を全て攻撃する。隙あらば標的のキャパシタを中和してくる。",
+    "ko": "산샤 네이션의 크루저급 함선입니다. 적이나 쉬운 사냥감을 공격합니다. 기회를 노려 캐패시터를 무력화합니다.",
+    "ru": "Этот корабль «Нации Санши» по характеристикам соответствует крейсеру. Он атакует всех, кто представляет угрозу или воспринимается как лёгкая жертва. Он постарается нейтрализовать энергию накопителя врага, как только представится возможность.",
+    "zh": "这是一艘萨沙巡洋舰级别的舰船。它会主动攻击任何它认为可能造成威胁或者极易对付的飞船。只要有可能，它就会中和目标的电容。"
+  },
+  "factionID": 1000162,
+  "graphicID": 1236,
+  "groupID": 1665,
+  "mass": 9600000.0,
   "name": {
     "de": "Exacting Phantasm",
     "en": "Exacting Phantasm",
@@ -10,5 +23,11 @@
     "ru": "Exacting Phantasm",
     "zh": "幽灵级严苛者"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 32,
+  "radius": 137.0,
+  "sofFactionName": "sanshabase",
+  "soundID": 20902,
   "volume": 118000.0
 }

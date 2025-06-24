@@ -1,5 +1,16 @@
 {
-  "typeID": 58807,
+  "description": {
+    "de": "Unsichtbare Steuerung für Szene 1 – steuert: Kamerafokus-Niveau",
+    "en": "Invisible Controller for Scene 1 - Will control the following :\r\n\r\nCamera focus level",
+    "es": "Controlador invisible para la 1.ª escena. Controlará lo siguiente:\n\nNivel de enfoque de la cámara",
+    "fr": "Contrôleur invisible pour la scène 1 - Permet de contrôler : niveau de focalisation de la caméra",
+    "ja": "シーン1用の不可視コントローラー - 制御対象は次の通り：\n\n\n\nカメラフォーカスレベル",
+    "ko": "Invisible Controller for Scene 1 - Will control the following : Camera focus level",
+    "ru": "Скрытый регулятор для сцены 1 — Отвечает за: уровень фокусировки камеры",
+    "zh": "场景1控制器 - 负责控制：\n\n\n\n视角聚焦等级"
+  },
+  "graphicID": 10026,
+  "groupID": 227,
   "name": {
     "de": "Invisible Controller for Scene 1",
     "en": "Invisible Controller for Scene 1",
@@ -10,5 +21,6 @@
     "ru": "Invisible Controller for Scene 1",
     "zh": "Invisible Controller for Scene 1"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

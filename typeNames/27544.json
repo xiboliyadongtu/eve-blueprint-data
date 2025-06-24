@@ -1,5 +1,21 @@
 {
-  "typeID": 27544,
+  "basePrice": 10000000.0,
+  "capacity": 2400.0,
+  "description": {
+    "de": "Gibt ein Trommelfeuer besonders großer Hybridgeschosse auf diejenigen ab, die der Kontrollturm als feindlich erachtet. Nur wirksam auf ziemlich kurze Distanz, aber dann aufgrund der hohen Schadenswirkung extrem tödlich.",
+    "en": "Fires a barrage of extra large hybrid slugs at those the Control Tower deems its enemies. Only effective at fairly close ranges, but extremely deadly in terms of sheer damage output.",
+    "es": "Dispara una tromba de proyectiles híbridos extragrandes a cualquier objetivo que la torre de control considere una amenaza. Solo funciona a poca distancia, pero su ofensiva la hace extremadamente letal.",
+    "fr": "Tire un barrage de très grandes munitions hybrides sur les vaisseaux que la tour de contrôle juge hostiles. Arme extrêmement meurtrière, efficace uniquement à courte portée.",
+    "ja": "コントロールタワーが敵と認識した物体に対して、超大型ハイブリッド弾の集中砲火を浴びせる。有効射程はかなり短いが、そのぶんダメージ出力は極めてすさまじい。",
+    "ko": "초대형 하이브리드 탄으로 이루어진 화망을 구성하여 관제타워가 지정한 적을 향해 발사합니다. 중장거리 교전 시 위력이 감소하지만 근접 교전 시에는 막대한 피해를 입힙니다.",
+    "ru": "Ведет огонь гибридными зарядами сверхбольшого калибра по всем целям, которые башня управления базой сочтет вражескими. Эффективна лишь на сравнительно близких дистанциях, но при этом наносит целям чрезвычайно большой ущерб.",
+    "zh": "向控制塔指定的敌人连续发射超大型混合炮弹。只在相当近的范围内有效，但就纯粹杀伤力而言极其致命。"
+  },
+  "graphicID": 2751,
+  "groupID": 449,
+  "marketGroupID": 595,
+  "mass": 100000000.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Shadow Large Blaster Battery",
     "en": "Shadow Large Blaster Battery",
@@ -10,5 +26,10 @@
     "ru": "Shadow Large Blaster Battery",
     "zh": "暗影大型疾速炮台"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 400.0,
+  "sofFactionName": "genericbase",
+  "variationParentTypeID": 17402,
   "volume": 5000.0
 }

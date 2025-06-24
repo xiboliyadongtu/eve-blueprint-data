@@ -1,5 +1,19 @@
 {
-  "typeID": 79589,
+  "capacity": 40000.0,
+  "description": {
+    "de": "Konzept und Design der Rorqual von Outer Ring Excavations entstanden als Antwort auf die steigende Nachfrage nach großen Industrie-Schiffen für groß angelegte Bergbau-Operationen in unbewohnten Gebieten des Alls über einen längeren Zeitraum. Die Rorqual kann insbesondere einen Capital-Industriekern nutzen, um ihre industrielle Leistungsfähigkeit deutlich zu erhöhen und zugleich während des Einsatzes in statischer Konfiguration ihre Verteidigung zu stärken. Ein Hauptelement der industriellen Kapazität eines aktivierten Industriekerns ist die Möglichkeit, Kompressormodule zu nutzen. Damit kann die Rorqual die mächtigen und logistisch beeindruckenden Capital-Kompressoren nutzen.",
+    "en": "The Rorqual was conceived and designed by Outer Ring Excavations in response to a growing need for capital industry platforms with the ability to support and sustain large-scale mining operations in uninhabited areas of space.\r\n\r\nThe Rorqual is notably capable of using a capital industrial core to substantially increase its industrial capabilities, while empowering its defenses during deployment in a static configuration. A key element of the industrial capacity unlocked by activating an industrial core is the ability to use compressor modules, with the Rorqual able to use the powerful and logistically impressive capital compressors.",
+    "es": "Outer Ring Excavations concibió y diseñó la Rorqual como respuesta a una necesidad creciente de plataformas industriales capitales con capacidad de apoyar las explotaciones mineras a gran escala en zonas deshabitadas del espacio.\r\n\r\nDestaca por utilizar un núcleo industrial capital que le permite aumentar considerablemente las capacidades industriales al tiempo que refuerza las defensas durante el despliegue en una configuración estática. Uno de los elementos clave de su capacidad industrial, que se desbloquea mediante la activación de un núcleo para tal fin, radica en la posibilidad de usar unos módulos compresores tan potentes como impresionantes a nivel logístico.",
+    "fr": "Le Rorqual a été conçu par Outer Ring Excavations, afin de répondre au besoin croissant de plateformes industrielles capitales pouvant prendre en charge et soutenir des opérations d'extraction minière à grande échelle dans des zones spatiales inhabitées. Le Rorqual est notamment capable d'utiliser une cellule industrielle capitale pour augmenter considérablement ses capacités industrielles, tout en renforçant ses défenses lors du déploiement dans une configuration statique. Un élément clé de la capacité industrielle rendue possible par l'activation d'une cellule industrielle est la possibilité d'utiliser des modules de compression, le Rorqual pouvant employer les puissants compresseurs capitaux à la logistique impressionnante.",
+    "ja": "ロークアルは人の住まない宙域で大規模な採掘作業を行える大型工業用プラットフォームの需要の高まりに応え、アウターリング発掘調査が考案、設計した艦船である。\r\n\r\nロークアルの特徴としてキャピタル工業コアを使って工業的能力を大幅に向上させることが可能で、さらに静止形態で配置されている最中は防衛能力が強化される。工業コアを起動すると利用可能になる工業的能力で特に重要なのが、圧縮モジュールが使用可能になる点である。特にロークアルの場合、ロジスティクスに大きな影響を与える強力なキャピタル圧縮装置を使用することができる。",
+    "ko": "로퀄은 아우터링 채굴조합에서 설계한 함선으로 외우주에서도 대규모 채굴 작전을 진행할 수 있는 캐피탈 산업 플랫폼에 대한 수요를 충족하기 위해 제작된 함선입니다.\r\n\r\n캐피탈 인더스트리얼 코어를 통해 산업 역량을 강화할 수 있으며, 고정된 상태에서 방어력이 증가합니다. 로퀄의 경우 인더스트리얼 코어를 장착함으로써 압축 모듈을 사용할 수 있습니다.",
+    "ru": "Rorqual был задуман и спроектирован инженерами из Окраинной рудной экспедиции в ответ на растущую потребность в промышленных флагманах для оказания поддержки флотам во время крупных буровых работ в необитаемых районах космоса. Промышленное ядро КБТ значительно повышает промышленный потенциал Rorqual и усиливает его защиту в неподвижном состоянии в период развёртывания. Основное преимущество Rorqual как флагмана заключается в том, что при активации промышленного ядра он может использовать мощные компрессоры КБТ, позволяющие производить сжатие больших партий сырья.",
+    "zh": "长须鲸级是由外空联合矿业集团(ORE)设计并建造，用于满足日益增长的旗舰工业平台需求，支持并承担大规模的深空采矿作业。长须鲸级能够使用旗舰级工业核心来大幅提高工业效能，并增强防御能力。启用工业核心后，长须鲸级能够使用强大的旗舰级压缩装置。"
+  },
+  "factionID": 500014,
+  "graphicID": 3331,
+  "groupID": 4673,
+  "mass": 1920000000.0,
   "name": {
     "de": "ORE Rorqual",
     "en": "ORE Rorqual",
@@ -10,5 +24,9 @@
     "ru": "ORE Rorqual",
     "zh": "联合矿业长须鲸级"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 1100.0,
+  "sofFactionName": "orebase",
+  "soundID": 20069
 }

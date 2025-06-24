@@ -1,5 +1,20 @@
 {
-  "typeID": 27856,
+  "basePrice": 5000000.0,
+  "description": {
+    "de": "Eine verbesserte Version des imperialen Marine-Energie-Neutralisier-Arrays.",
+    "en": "An enhanced version of the Imperial Navy Energy Neutralizing Array.",
+    "es": "Versión mejorada de la matriz neutralizadora de energía de la Armada Imperial.",
+    "fr": "Version améliorée du module de neutralisation de l'énergie utilisé par la Navy impériale.",
+    "ja": "帝国海軍のエネルギー無効化施設の強化型。",
+    "ko": "제국 해군 소유의 강화된 에너지 뉴트럴라이저 시설입니다.",
+    "ru": "Улучшенная версия батареи нейтрализации энергии Имперского Флота.",
+    "zh": "帝国海军能量中和阵列的一种加强版本。"
+  },
+  "graphicID": 2613,
+  "groupID": 837,
+  "marketGroupID": 1009,
+  "mass": 100000000.0,
+  "metaGroupID": 4,
   "name": {
     "de": "True Sansha Energy Neutralizing Battery",
     "en": "True Sansha Energy Neutralizing Battery",
@@ -10,5 +25,10 @@
     "ru": "True Sansha Energy Neutralizing Battery",
     "zh": "萨沙爱国者能量中和波发射台"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 629.0,
+  "sofFactionName": "genericbase",
+  "variationParentTypeID": 27672,
   "volume": 4000.0
 }

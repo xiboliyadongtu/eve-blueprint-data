@@ -1,5 +1,17 @@
 {
-  "typeID": 353477,
+  "basePrice": 149000.0,
+  "description": {
+    "de": "Skill zur Benutzung von Maschinenpistolen.\n\n5% Abzug auf den Rückstoß von Maschinenpistolen pro Skillstufe.",
+    "en": "Skill at handling submachine guns.\n\n5% reduction to submachine gun kick per level.",
+    "es": "Habilidad de manejo de subfusiles.\n\n-5% al retroceso de los subfusiles por nivel.",
+    "fr": "Compétence permettant de manipuler les pistolet-mitrailleurs.\n\n5 % de réduction du recul du pistolet-mitrailleur par niveau.",
+    "it": "Abilità nel maneggiare fucili mitragliatori.\n\n5% di riduzione del rinculo dei fucili mitragliatori per livello.",
+    "ja": "サブマシンガンを扱うスキル。\n\nレベル上昇ごとに、サブマシンガンの反動が5%軽減する。",
+    "ko": "기관단총 운용을 위한 스킬입니다. <br><br>매 레벨마다 기관단총 반동 5% 감소",
+    "ru": "Навык обращения с пистолетами-пулеметами.\n\n5% снижение силы отдачи пистолетов-пулеметов на каждый уровень.",
+    "zh": "使用冲锋枪的技能。每升一级，冲锋枪的后坐力降低5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Bedienung: Maschinenpistole",
     "en": "Submachine Gun Operation",
@@ -11,5 +23,7 @@
     "ru": "Обращение с пистолетами-пулеметами",
     "zh": "冲锋枪操作"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

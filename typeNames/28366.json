@@ -1,5 +1,18 @@
 {
-  "typeID": 28366,
+  "description": {
+    "de": "Das schlagende Herz einer Raubdrohne. Dieses Aggregat ist ein Wunder der Technologie und in Anbetracht des Verhältnisses zwischen Leistung und Größe leistungsfähiger als alles, was mit modernen Konstruktionen erreicht werden könnte. Es wäre mit ein bisschen Bastelei möglich, dieses Aggregat in die aktuelle Drohnentechnologie zu integrieren.",
+    "en": "The beating heart of a rogue drone, this power unit is a marvel of technology providing a greater size/power ratio than is currently achievable by modern designs. With some clever tinkering it is possible to adapt this to interface with current drone technology.",
+    "es": "Esta unidad de potencia, el corazón de un dron rebelde, es una maravilla de la tecnología que proporciona una mayor cantidad de tamaño y potencia que actualmente los diseños modernos. Es posible adaptar esto a la tecnología de drones actual.",
+    "fr": "Véritable cœur du drone renégat, cette unité d'alimentation est une petite merveille de technologie fournissant le meilleur rapport taille/puissance actuellement disponible. Un savant bricolage rendrait possible son adaptation sur un drone de technologie actuelle.",
+    "ja": "ローグドローンの脈打つ心臓にあたるこの動力ユニットは、現在の設計技術の限界を凌駕するサイズ／パワー比を実現する、驚異の装置である。うまく手を加えてやれば、現在のドローン技術に適合させて動かすことも可能だ。",
+    "ko": "로그 드론의 동력 기관으로 기존 엔진에 비해 월등한 출력을 지니고 있습니다. 개조를 통해 기존 드론 기술과의 융합을 시도할 수 있습니다.",
+    "ru": "Сердце восставшего дрона, чудо современных технологий, обладающее невероятно высоким соотношением мощности и размера, недоступным для большинства современных разработок. При некоторой доработке его можно использовать с существующей технологией дронов.",
+    "zh": "自由无人机的心脏，这个能源结构是项技术奇迹，它的尺寸/能量比超过了现代设计所能达到的水平。只要用一些巧妙的方法，就可能使它与当前的无人机技术相适应。"
+  },
+  "groupID": 886,
+  "iconID": 3338,
+  "marketGroupID": 1906,
+  "mass": 2.0,
   "name": {
     "de": "Drone Coronary Unit",
     "en": "Drone Coronary Unit",
@@ -10,5 +23,7 @@
     "ru": "Drone Coronary Unit",
     "zh": "无人机心脏"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.08
 }

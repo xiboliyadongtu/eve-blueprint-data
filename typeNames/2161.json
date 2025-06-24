@@ -1,5 +1,60 @@
 {
-  "typeID": 2161,
+  "basePrice": 300000.0,
+  "capacity": 265.0,
+  "description": {
+    "de": "Die Crucifier wurde als Erkundungsschiff oder Späher entworfen. Das aktuelle Modell verwendet die ursprünglich für wissenschaftliche Untersuchungen entwickelte elektronische Ausrüstung jedoch für offensivere Zwecke. Das Elektronik- und Computersysteme der Crucifier nehmen einen Großteil des Innenraums ein, so dass nur wenig Platz für Fracht oder traditionelle Waffen bleibt.",
+    "en": "The Crucifier was first designed as an explorer/scout, but the current version employs the electronic equipment originally intended for scientific studies for more offensive purposes. The Crucifier's electronic and computer systems take up a large portion of the internal space leaving limited room for cargo or traditional weaponry.",
+    "es": "La Crucifier inicialmente fue creada para trabajos de exploración, pero la versión actual posee equipamiento electrónico para estudios científicos que usa con fines más ofensivos. Sus sistemas informáticos y electrónicos ocupan tanto que tiene menos espacio de carga o para armamento tradicionales.",
+    "fr": "Le Crucifier a d'abord été conçu comme un vaisseau d'exploration et de reconnaissance, mais sa dernière version embarque un équipement électronique destiné à l'origine aux études scientifiques mais modifié à des fins bien plus offensives. Les ordinateurs et l'électronique du Crucifier occupent une grande partie de l'espace interne, ce qui laisse peu de place pour le chargement et l'armement conventionnel.",
+    "ja": "クルセファーは初め探査/偵察艦として設計されたが、もともと調査研究用だった電子機器は、現行型ではより攻撃的な用途に供されている。艦内は大部分が電子系統やコンピュータ系統に占められており、貨物や一般兵装を載せる余地はほとんどない。",
+    "ko": "크루시파이어는 본래 탐사 및 정찰 목적으로 설계되었으나, 연구용 장비가 공격 목적으로 활용되기 시작하면서 전반적인 설계 변경이 이루어졌습니다. 대규모 컴퓨터 시스템과 전자 장비 탓에 내부 공간이 상당히 협소하여 무기 체계 및 화물 적재를 위한 공간이 제한되어 있습니다.",
+    "ru": "Фрегаты типа «Крусифаер» изначально создавались как экспедиционно-разведывательные корабли, однако сейчас на конвейер поставлена модель, в которой бортовые электронные системы перепрофилированы на ведение наступательного боя. Электронно-вычислительные бортовые системы «Крусифаера» занимают большую часть внутреннего пространства корабля, оставляя мало места для груза или традиционных видов вооружения.",
+    "zh": "磨难级护卫舰的设计初衷是用于侦察及探索，但它的当前版本将原本用作科学研究的电子设备投入到了更具攻击性的用途上。磨难级的电子和计算机系统占据了大量船内空间，因此货舱和传统武器的空间就非常有限了。"
+  },
+  "factionID": 500003,
+  "graphicID": 1066,
+  "groupID": 25,
+  "marketGroupID": 72,
+  "mass": 1064000.0,
+  "masteries": {
+    "0": [
+      96,
+      102,
+      89,
+      93,
+      94
+    ],
+    "1": [
+      96,
+      102,
+      89,
+      93,
+      94
+    ],
+    "2": [
+      96,
+      102,
+      89,
+      93,
+      94
+    ],
+    "3": [
+      96,
+      102,
+      89,
+      93,
+      94
+    ],
+    "4": [
+      96,
+      102,
+      117,
+      89,
+      93,
+      94
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Crucifier",
     "en": "Crucifier",
@@ -9,6 +64,48 @@
     "ko": "크루시파이어",
     "ru": "Crucifier",
     "zh": "磨难级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 39.0,
+  "sofFactionName": "amarrbase",
+  "soundID": 20063,
+  "traits": {
+    "types": {
+      "3331": [
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Effektivität von <a href=showinfo:3434>Waffenstörern</a>",
+            "en": "bonus to <a href=showinfo:3434>Weapon Disruptor</a> effectiveness",
+            "es": "de bonificación a la efectividad del <a href=showinfo:3434>disruptor de armas</a>.",
+            "fr": "de bonus à l'efficacité du <a href=showinfo:3434>perturbateur d'arme</a>",
+            "ja": "<a href=showinfo:3434>兵器妨害器</a>の有効性が向上",
+            "ko": "<a href=showinfo:3434>무기 디스럽터</a> 효과 증가",
+            "ru": "повышается эффективность действия <a href=showinfo:3434>постановщиков помех системам наводки</a>",
+            "zh": "<a href=showinfo:3434>武器扰断器</a>效果加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf die optimale Reichweite von <a href=showinfo:3434>Waffenstörern</a>",
+            "en": "bonus to <a href=showinfo:3434>Weapon Disruptor</a> optimal range",
+            "es": "de bonificación al alcance óptimo del <a href=showinfo:3434>disruptor de armas</a>.",
+            "fr": "de bonus à la portée optimale du <a href=showinfo:3434>perturbateur d'arme</a>",
+            "ja": "<a href=showinfo:3434>兵器妨害器</a>の最適射程距離が拡大",
+            "ko": "<a href=showinfo:3434>무기 디스럽터</a> 효과 증가",
+            "ru": "повышается оптимальная дальность действия <a href=showinfo:3434>постановщиков помех системам наводки</a>",
+            "zh": "<a href=showinfo:3434>武器扰断器</a>最佳射程加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 28100.0
 }

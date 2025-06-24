@@ -1,5 +1,18 @@
 {
-  "typeID": 61660,
+  "capacity": 8000.0,
+  "description": {
+    "de": "Ein eigenartig aufgebautes Raumschiff, dass in seiner Form einer Untertasse gleicht. Laut der Sensorenanzeigen basiert es auf einer unbekannten biomechanischen Technologie. Auf den ersten Blick scheint sich der Zustand des Schiffes aufgrund der Effekte des lokalen Raums zu verschlechtern. Möglicherweise verfügt es jedoch über automatische Verteidigungssysteme, die immer noch aktiv sind und eine gewisse Gefahr für unvorsichtige Piloten darstellen.",
+    "en": "A strange design of spaceship with a distinctive \"saucer\" shape that sensor readings indicate uses an unknown form of biomechanical technology. On initial inspection the ship is clearly deteriorating, probably under the stress of local space effects, but it is possible that automated defense systems are still active and pose something of a danger to the unwary.",
+    "es": "Nave espacial con un curioso diseño en forma de platillo. Según las lecturas, utiliza una forma desconocida de tecnología biomecánica. Tras una inspección inicial, la nave está en claro deterioro, tal vez por la presión del espacio local, pero es probable que los sistemas de defensa automatizados sigan funcionando y puedan ser peligrosos para los incautos.",
+    "fr": "Un modèle étrange de vaisseau à la forme distinctive de « soucoupe », que les lectures des détecteurs indiquent comme employant une forme de technologie biomécanique inconnue. À première vue, ce vaisseau est clairement en train de se détériorer, probablement sous l'effet de l'espace local, mais il est possible que les systèmes de défense automatisés soient encore actifs et présentent un danger pour les imprudents.",
+    "ja": "独特な『円盤』状の形をした奇妙なデザインの宇宙船。センサーの測定値によると、未知の種類のバイオメカニカル技術が使われている。初期検査では、この艦船の性能は現地宙域のストレス下で明らかに低下しているが、自動制御された防衛システムはまだ有効で、不用心な者に危害を及ぼす可能性がある。",
+    "ko": "'접시' 모양의 우주선으로 정체불명의 생체기계 기술이 사용되었습니다. 주변 지역으로 인해 훼손되고 있는 것으로 추정됩니다. 단, 자동 방어 시스템은 여전히 작동 중일 가능성이 높으며, 위협이 가해질 경우 대응할 것입니다.",
+    "ru": "Странный космический корабль с характерной формой «тарелки», на которую указывают показания сенсоров, построен с применением неизвестной биомеханической технологии. На первый взгляд корабль разрушается под воздействием эффектов местной среды, но, вполне возможно, его автоматизированные оборонительные системы ещё работают и могут представлять опасность.",
+    "zh": "这是一艘外形古怪的碟形飞船，感应器读数显示它是利用某种未知的生物技术制造的。初步扫描结果显示这艘船已经彻底损毁了，可能是由此地的星系效应导致的，不过它的自动防御系统可能仍在运转，会对不小心接近的目标造成威胁。"
+  },
+  "graphicID": 25168,
+  "groupID": 1666,
+  "mass": 97100000.0,
   "name": {
     "de": "Critically Damaged Biomechanoid Saucer",
     "en": "Critically Damaged Biomechanoid Saucer",
@@ -10,5 +23,9 @@
     "ru": "Critically Damaged Biomechanoid Saucer",
     "zh": "彻底损坏的碟形生物机械"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 400.0,
+  "sofFactionName": "dalek",
+  "soundID": 11
 }

@@ -1,5 +1,20 @@
 {
-  "typeID": 76187,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Mithilfe eines Datenanalysegeräts sollte es möglich sein, die Schiffswerfer-Forschungsdaten dieser Anlage zu bergen.",
+    "en": "With the assistance of a data analyzer module it should be possible to retrieve Shipcaster-related research data from this structure.",
+    "es": "Con la ayuda de un módulo analizador de datos, debería ser posible recuperar datos de investigación relacionados con los lanzadores interestelares de esta estructura.",
+    "fr": "Avec l'aide d'un analyseur de données, il devrait être possible de récupérer les données de recherche sur les lance-vaisseaux que recèle cette structure.",
+    "ja": "データアナライザーモジュールの助けを借りれば、このストラクチャから艦艇キャスターに関連するデータを回収することが可能だと思われる。",
+    "ko": "이 구조물에 데이터 분석기를 사용하면 함선전송기 극비 연구 데이터를 회수할 수 있을 듯합니다.",
+    "ru": "С помощью анализатора данных вы сумеете извлечь исследовательские данные о межзвёздном кораблепускателе из этого сооружения.",
+    "zh": "使用数据分析仪装备可以从这座建筑中回收舰船弹射台相关的研究数据。"
+  },
+  "graphicID": 20297,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Federation Research Databank",
     "en": "Federation Research Databank",
@@ -10,5 +25,9 @@
     "ru": "Federation Research Databank",
     "zh": "联邦研究数据库"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 300.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

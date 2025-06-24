@@ -1,5 +1,18 @@
 {
-  "typeID": 12093,
+  "basePrice": 5000000.0,
+  "description": {
+    "de": "Geheimdienstfregatten sind für Aufklärungs- und Spionagemissionen konzipiert. Ihre größte Stärke ist es, ungesehen durch feindliche Gebiete zu fliegen und unvorteilhafte Begegnungen zu vermeiden. Ein Großteil im Innenraum wird verwendet, um ein fortschrittliches Raumkontrollsystem zu beherbergen. Das ermöglicht den Einsatz sehr fortschrittlicher Formen der Tarntechnologie bei einem stark reduzierten Energiespeicherverbrauch.",
+    "en": "Covert operations frigates are designed for recon and espionage operation. Their main strength is the ability to travel unseen through enemy territory and to avoid unfavorable encounters. Much of their free space is sacrificed to house an advanced spatial field control system. This allows it to utilize very advanced forms of cloaking at greatly reduced CPU cost.",
+    "es": "Las fragatas de operaciones encubiertas realizan labores de reconocimiento y espionaje. Su principal fortaleza es la capacidad de viajar sin ser vistas a través del territorio enemigo y evitar encuentros inconvenientes. Sacrifican la mayor parte de su espacio vacío para alojar un avanzado sistema de control de campo espacial que les permite beneficiarse formas muy sofisticadas de camuflaje con un coste muy bajo para la CPU.",
+    "fr": "Les frégates des opérations secrètes sont conçues pour les opérations de reconnaissance et d'espionnage. Indécelables, elles excellent en mission de repérage en territoire ennemi, où elles peuvent évoluer en toute impunité. L'espace libre est principalement dédié au système de contrôle avancé du champ spatial qui leur permet d'utiliser des formes de camouflage ultra-perfectionnées, sans pour autant sacrifier leur CPU.",
+    "ja": "隠密行動フリゲートは、偵察とスパイ活動を目的として設計されている。姿を見せずに敵地を飛び回り、不利な交戦を避けられる能力が最大の長所である。\n\n船内の空きスペースのかなりの部分を最新型の空間コントロールシステムが占めている。このシステムのおかげで、高度な遮蔽技術を非常に低いCPUコストで利用できる。",
+    "ko": "코버트 옵스 프리깃은 리콘 및 첩보활동에 특화된 함급입니다. 모습을 감춘 상태로 적전에서 임무를 수행할 수 있으며 원치 않는 전투의 경우 회피가 가능합니다. 추가로 공간필드 제어시스템이 탑재되어 클로킹 시 CPU 사용량이 큰 폭으로 감소하였습니다.",
+    "ru": "Диверсионные фрегаты предназначены для проведения диверсионно-разведывательных операций. Разработан для диверсионных и шпионских заданий; его сильная сторона состоит в способности перемещаться незамеченным по территориям неприятеля, избегая нежелательных столкновений. Большая часть внутреннего пространства корабля используется для размещения современной системы контроля поля пространственного искажения. Это позволяет устанавливать очень совершенные системы маскировки при ограниченных вычислительных мощностях процессора.",
+    "zh": "隐秘护卫舰专为侦察和间谍行动而设计。它们的主要特点在于能穿越敌方领空而不暴露行踪，避免了遭遇战的危险。它们牺牲了船内的大部分自由空间用于安装一种先进的空间力场控制系统。这使得它们能在大幅降低CPU消耗的情况下使用先进的隐形功能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Covert Ops",
     "en": "Covert Ops",
@@ -10,5 +23,7 @@
     "ru": "Диверсионные фрегаты",
     "zh": "隐形特勤舰操作"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

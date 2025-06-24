@@ -1,5 +1,20 @@
 {
-  "typeID": 17621,
+  "basePrice": 10000000.0,
+  "capacity": 3000000.0,
+  "description": {
+    "de": "Eine große Hangarstruktur mit abgrenzbaren Abteilen zur leichten Ordnung und Lagerung von Materialien und Modulen.",
+    "en": "A large hangar structure with divisional compartments, for easy separation and storage of materials and modules.",
+    "es": "Una gran estructura de hangar con compartimentos divisorios para separar y almacenar fácilmente materiales y módulos.",
+    "fr": "Hangar de grande taille divisé en plusieurs compartiments afin de simplifier le stockage et le tri du matériel et des modules.",
+    "ja": "大型のハンガー建造物で、複数の区画に仕切られ、資源やモジュールの分類保管がしやすくなっている。",
+    "ko": "재료 및 모듈을 보관할 수 있는 대규모 격납고로 다수의 개별적인 공간으로 구성되어 간편하게 분리할 수 있습니다.",
+    "ru": "Вместительный ангар, разделенный на несколько отделений для удобства хранения и поиска материалов и модулей.",
+    "zh": "一座巨型的机库建筑，内部有多个分割舱，可方便地对材料和装备进行分类储藏。"
+  },
+  "graphicID": 2301,
+  "groupID": 471,
+  "marketGroupID": 506,
+  "mass": 10000000.0,
   "name": {
     "de": "Corporate Hangar Array",
     "en": "Corporate Hangar Array",
@@ -10,5 +25,9 @@
     "ru": "Corporate Hangar Array",
     "zh": "军团机库阵列"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 911.0,
+  "sofFactionName": "genericmetal",
   "volume": 4000.0
 }

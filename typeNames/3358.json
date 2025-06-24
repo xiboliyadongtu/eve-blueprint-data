@@ -1,5 +1,18 @@
 {
-  "typeID": 3358,
+  "basePrice": 100000.0,
+  "description": {
+    "de": "Fertigkeit, mit CONCORD zu verhandeln.\r\n\r\n5% Bonus auf die effektive Erhöhung des Sicherheitsstatus.",
+    "en": "Skill at interacting with Concord. 5% Bonus to effective security rating increase.",
+    "es": "Habilidad para interactuar con CONCORD. 5 % de bonificación a la mejora del índice de seguridad.",
+    "fr": "Compétence liée à l'interaction avec Concord. Bonus d'efficacité de la cote de sécurité : + 5 %.",
+    "ja": "CONCORDとの交際スキル。実効セキュリティレベルに 5% のボーナス。",
+    "ko": "CONCORD와의 교류 확대를 위한 스킬입니다. 시큐리티 수치 상승률 5% 증가",
+    "ru": "Навык взаимодействия с КОНКОРДом. За каждую степень освоения навыка: на 5% увеличивается скорость прироста СС пилота (степени соответствия нормам КОНКОРДа).",
+    "zh": "与统合部互动的技能。每升一级，有效安全等级的增加值提升5%。"
+  },
+  "groupID": 278,
+  "iconID": 33,
+  "marketGroupID": 376,
   "name": {
     "de": "Fast Talk",
     "en": "Fast Talk",
@@ -10,5 +23,7 @@
     "ru": "Отношения с представителями закона",
     "zh": "高级沟通技巧"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

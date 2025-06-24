@@ -1,5 +1,94 @@
 {
-  "typeID": 85086,
+  "basePrice": 40400000.0,
+  "capacity": 425.0,
+  "description": {
+    "de": "Die Cenotaph ist eine Kombination aus Minmatar-Konstruktion, Caldari-Elektronik und modernster Bioinformatik-Technologie. Sie ist perfekt für Überraschungsangriffe tief hinter den feindlichen Linien konzipiert. Die Deathless Custodians entwickelten die Cenotaph speziell dafür, um ihre Kapselbrecher-Waffen zu beherbergen und die für ihre Geheimoperationen erforderliche Covert-Ops-Technologie zu unterstützen.",
+    "en": "An amalgamation of Minmatar engineering, Caldari electronics, and cutting edge bioinformatic technology, the Cenotaph is perfectly engineered for surprise strikes, deep behind enemy lines.\r\n\r\nThe Deathless Custodians devised the Cenotaph specifically to house their Breacher Pod weaponry while supporting the Covert Ops technology capabilities required for their clandestine operations.",
+    "es": "La Cenotaph, una amalgama de ingeniería minmatariana, electrónica caldari y tecnología bioinformática de vanguardia, está perfectamente diseñada para ataques sorpresa, muy por detrás de las líneas enemigas.\r\n\r\nLos Custodios Inmortales idearon la Cenotaph específicamente para albergar su armamento de cápsulas de ataque mientras respaldaban las capacidades tecnológicas de operaciones encubiertas requeridas para sus operaciones clandestinas.",
+    "fr": "Amalgame d'ingénierie Minmatar, d'électronique Caldari et de technologie bioinformatique de pointe, le Cenotaph est parfaitement conçu pour des frappes surprises en profondeur derrière les lignes ennemies. Les Gardiens immortels ont spécifiquement conçu le Cenotaph pour recevoir leurs armements de capsules de brèche tout en soutenant les capacités technologiques des opérations secrètes nécessaires à leurs missions clandestines.",
+    "ja": "ミンマターの工学技術とカルダリの電子技術を融合させた最新の生物情報工学技術の結晶たるセノターフは、敵陣奥深くへの奇襲攻撃に理想的な設計となっている。\r\n\r\nセノターフ開発の具体的な背景としては、デスレス・カストディアンが極秘作戦に必要な、突入ポッドと呼ばれる兵器を装備可能かつ光学迷彩技術を運用できる艦船を必要としていたことが挙げられる。",
+    "ko": "세노타프는 민마타의 엔지니어링, 칼다리의 전자공학, 최신 생체 정보 기술의 집약체로 적의 사각을 기습하는 데 최적화된 함선입니다.\r\n\r\n데스리스 커스터디언은 비밀 작전을 수행하기 위해 세노타프에 코버트 옵스 기술 및 침투 포드를 탑재하였습니다.",
+    "ru": "Корабль модели Cenotaph спроектирован на основе новейших разработок в биоинформатике, минматарской инженерии и калдарской электронике и потому идеально подходит для внезапных атак на вражеской территории. «Бессмертные стражи» создали эту модель специально для того, чтобы опробовать своё последнее изобретение: внедряющиеся капсулы. Судно также оснащено системами маскировки, что позволяет эффективно проводить секретные операции.",
+    "zh": "“纪念碑级”融合了米玛塔尔工程技术、加达里电子技术和尖端生物信息技术，是在敌后深处发动突袭的完美之选。“纪念碑级”是来自不死守护者的设计，专门用于存放分裂者级逃生舱武器装备，并为秘密行动提供所需的技术能力支持。"
+  },
+  "factionID": 500029,
+  "graphicID": 27876,
+  "groupID": 419,
+  "marketGroupID": 3534,
+  "mass": 13000000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      165,
+      72,
+      108,
+      76,
+      141,
+      85,
+      150,
+      2267,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      165,
+      72,
+      108,
+      76,
+      141,
+      85,
+      150,
+      2267,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      165,
+      72,
+      108,
+      76,
+      141,
+      85,
+      150,
+      2267,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      165,
+      72,
+      108,
+      76,
+      141,
+      85,
+      150,
+      2267,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      165,
+      72,
+      108,
+      76,
+      141,
+      109,
+      85,
+      150,
+      152,
+      153,
+      154,
+      2267,
+      118,
+      94
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Cenotaph",
     "en": "Cenotaph",
@@ -9,6 +98,178 @@
     "ko": "세노타프",
     "ru": "Cenotaph",
     "zh": "纪念碑级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 32,
+  "radius": 246.0,
+  "sofFactionName": "deathless",
+  "soundID": 20076,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 100.0,
+        "bonusText": {
+          "de": "Bonus auf den Schaden von <a href=showinfo:3305>mittleren Projektilwaffentürmen</a> und <a href=showinfo:25719>schweren Angriffslenkwaffen</a>",
+          "en": "bonus to <a href=showinfo:3305>Medium Projectile Turret</a> and <a href=showinfo:25719>Heavy Assault Missile</a> damage",
+          "es": "de bonificación al daño de las <a href=showinfo:3305>torretas de proyectiles medianas</a> y los <a href=showinfo:25719>misiles de asalto pesados</a>.",
+          "fr": "de bonus aux dégâts des <a href=showinfo:3305>tourelles à projectiles intermédiaires</a> et des <a href=showinfo:25719>missiles d'assaut lourds</a>",
+          "ja": "<a href=showinfo:3305>中型プロジェクタイルタレット</a>と<a href=showinfo:25719>ヘビーアサルトミサイル</a>のダメージにボーナス",
+          "ko": "<a href=showinfo:3305>중형 발사체 터렛</a> 및 <a href=showinfo:25719>헤비 어썰트 미사일</a> 피해량 증가",
+          "ru": "бонус к урону <a href=showinfo:3305>средних баллистических орудий</a> и <a href=showinfo:25719>тяжёлых штурмовых ракет</a>",
+          "zh": "<a href=showinfo:3305>中型射弹炮台</a>和<a href=showinfo:25719>重型攻击导弹</a>伤害加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonusText": {
+          "de": "Kann ein <a href=showinfo:3348>Kommandostrahlen</a>-Modul verwenden",
+          "en": "Can use one <a href=showinfo:3348>Command Burst</a> module",
+          "es": "Es posible equipar un módulo de <a href=showinfo:3348>estallido de mando</a>.",
+          "fr": "Peut utiliser un module de <a href=showinfo:3348>salve de commandement</a>",
+          "ja": "<a href=showinfo:3348>コマンドバースト</a>モジュール1個使用可能",
+          "ko": "한 개의 <a href=showinfo:3348>커맨드 버스트</a> 모듈만 사용 가능",
+          "ru": "Может использовать один <a href=showinfo:3348>импульсный оптимизатор</a>",
+          "zh": "可以装配一个<a href=showinfo:3348>指挥脉冲波</a>装备"
+        },
+        "importance": 2
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Bonus auf die Reichweite des Wirkungsbereichs von <a href=showinfo:3348>Kommandostrahlen</a>",
+          "en": "bonus to <a href=showinfo:3348>Command Burst</a> area of effect range",
+          "es": "de bonificación al alcance del radio de acción del <a href=showinfo:3348>estallido de mando</a>.",
+          "fr": "de bonus à la portée de l'effet de zone des <a href=showinfo:3348>salves de commandement</a>",
+          "ja": "<a href=showinfo:3348>コマンドバースト</a>の有効範囲を拡大",
+          "ko": "<a href=showinfo:3348>커맨드 버스트</a> 효과 반경 증가",
+          "ru": "бонус к области действия <a href=showinfo:3348>импульсного оптимизатора</a>",
+          "zh": "<a href=showinfo:3348>指挥脉冲波</a>效果范围加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonus": 25.0,
+        "bonusText": {
+          "de": "Bonus auf die optimale Reichweite und den Präzisionsabfall von <a href=showinfo:3305>mittleren Projektilwaffentürmen</a> und die Geschwindigkeit von <a href=showinfo:3319>Lenkwaffen</a>",
+          "en": "bonus to <a href=showinfo:3305>Medium Projectile Turret</a> optimal range and falloff and <a href=showinfo:3319>Missile</a> velocity",
+          "es": "de bonificación a los alcances óptimo y efectivo de la <a href=showinfo:3305>torreta de proyectiles mediana</a> y a la velocidad de los <a href=showinfo:3319>misiles</a>.",
+          "fr": "de bonus à la portée optimale et à la déperdition des <a href=showinfo:3305>tourelles à projectiles intermédiaires</a> et à la vitesse des <a href=showinfo:3319>missiles</a>",
+          "ja": "<a href=showinfo:3305>中型プロジェクタイルタレット</a>の最適射程距離と精度低下範囲、<a href=showinfo:3319>ミサイル</a>速度にボーナス",
+          "ko": "<a href=showinfo:3305>중형 발사체 터렛</a> 최적사거리, 유효사거리, <a href=showinfo:3319>미사일 속도</a> 증가",
+          "ru": "бонус к оптимальной и остаточной дальности <a href=showinfo:3305>средних баллистических орудий</a>, а также к скорости полёта <a href=showinfo:3319>ракет</a>",
+          "zh": "<a href=showinfo:3305>中型射弹炮台</a>最佳射程和失准范围及<a href=showinfo:3319>导弹</a>飞行速度加成"
+        },
+        "importance": 4,
+        "unitID": 105
+      },
+      {
+        "bonusText": {
+          "de": "Kann einen <a href=showinfo:85085>mittelgroßen Kapselbrecher-Werfer</a> ausrüsten",
+          "en": "Can fit one <a href=showinfo:85085>Medium Breacher Pod Launcher</a>",
+          "es": "Es posible equipar un <a href=showinfo:85085>lanzacápsulas de ataque mediano</a>.",
+          "fr": "Peut recevoir un <a href=showinfo:85085>lanceur de capsules de brèche intermédiaire</a>",
+          "ja": "<a href=showinfo:85085>中型突入ポッドランチャー</a>を1つ装備可能",
+          "ko": "<a href=showinfo:85085>중형 침투 포드 런처</a> 1대 장착 가능",
+          "ru": "Возможна установка одной <a href=showinfo:85085>средней ПУ внедряющихся капсул</a>",
+          "zh": "可以装配一个<a href=showinfo:85085>中型分裂者级逃生舱发射器</a>"
+        },
+        "importance": 5
+      },
+      {
+        "bonusText": {
+          "de": "Kann <a href=showinfo:11578>Covert-Ops-Tarnvorrichtung</a> ausrüsten",
+          "en": "Can fit <a href=showinfo:11578>Covert Ops Cloaking Device</a>",
+          "es": "Es posible equipar un <a href=showinfo:11578>dispositivo de camuflaje de operaciones encubiertas</a>.",
+          "fr": "Peut utiliser un <a href=showinfo:11578>dispositif de camouflage opérations secrètes</a>",
+          "ja": "<a href=showinfo:11578>光学迷彩型遮蔽装置</a>を装備可能",
+          "ko": "<a href=showinfo:11578>코버트 옵스 클로킹 장치</a> 장착 가능",
+          "ru": "Возможна установка <a href=showinfo:11578>внережимной системы маскировки</a>",
+          "zh": "可以装配<a href=showinfo:11578>隐秘行动隐形装置</a>"
+        },
+        "importance": 6
+      },
+      {
+        "bonus": 100.0,
+        "bonusText": {
+          "de": "Reduktion der CPU-Anforderung von <a href=showinfo:11579>Tarnmodulen</a>",
+          "en": "reduction in <a href=showinfo:11579>Cloaking Devices</a> CPU requirement",
+          "es": "de reducción del requisito de CPU de los <a href=showinfo:11579>dispositivos de camuflaje</a>.",
+          "fr": "de réduction du CPU requis par les <a href=showinfo:11579>dispositifs de camouflage</a>",
+          "ja": "<a href=showinfo:11579>遮蔽装置</a>の必要CPUが減少",
+          "ko": "<a href=showinfo:11579>클로킹 장치</a> CPU 사용량 감소",
+          "ru": "снижение требований к ЦПУ для <a href=showinfo:11579>систем маскировки</a>",
+          "zh": "<a href=showinfo:11579>隐形装置</a>CPU需求降低"
+        },
+        "importance": 7,
+        "unitID": 105
+      },
+      {
+        "bonusText": {
+          "de": "Verzögerung bei Reaktivierung des <a href=showinfo:11579>Tarnmoduls</a> auf 15 Sekunden reduziert",
+          "en": "<a href=showinfo:11579>Cloak</a> reactivation delay reduced to 15 seconds",
+          "es": "Se reduce la demora de reactivación del <a href=showinfo:11579>camuflaje</a> a 15 segundos.",
+          "fr": "Délai de réactivation du <a href=showinfo:11579>camouflage</a> réduit à 15 secondes",
+          "ja": "<a href=showinfo:11579>遮蔽装置</a>の再起動遅延を15秒に短縮",
+          "ko": "<a href=showinfo:11579>클로킹</a> 재가동 지연 시간 15초로 감소",
+          "ru": "Задержка повторного включения <a href=showinfo:11579>систем маскировки</a> снижена до 15 секунд",
+          "zh": "<a href=showinfo:11579>隐形装置</a>重启延迟降到15秒"
+        },
+        "importance": 8
+      },
+      {
+        "bonusText": {
+          "de": "Immun gegen alle <a href=showinfo:442>Frachtscanner</a>",
+          "en": "Immune to all <a href=showinfo:442>Cargo Scanners</a>",
+          "es": "Inmune a todos los <a href=showinfo:442>escáneres de carga</a>.",
+          "fr": "Immunisé contre tous les <a href=showinfo:442>scanners de soute</a>",
+          "ja": "全ての<a href=showinfo:442>カーゴスキャナー</a>への耐性",
+          "ko": "<a href=showinfo:442>화물 스캐너</a> 면역",
+          "ru": "Невосприимчивость к воздействию любых <a href=showinfo:442>сканеров груза</a>",
+          "zh": "免疫所有<a href=showinfo:442>货舱扫描</a>"
+        },
+        "importance": 9
+      }
+    ],
+    "types": {
+      "33096": [
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Leistung von <a href=showinfo:3416>Schildboostern</a>",
+            "en": "bonus to <a href=showinfo:3416>Shield Booster</a> amount",
+            "es": "de bonificación a la eficiencia de los <a href=showinfo:3416>potenciadores de escudo</a>.",
+            "fr": "de bonus au montant des <a href=showinfo:3416>boosters de bouclier</a>",
+            "ja": "<a href=showinfo:3416>シールドブースター</a>量が増加",
+            "ko": "<a href=showinfo:3416>실드 부스터</a> 회복량 증가",
+            "ru": "бонус к эффективности <a href=showinfo:3416>восстановителя щитов</a>",
+            "zh": "<a href=showinfo:3416>护盾回充增量器</a>回充量加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ],
+      "33098": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf die Resistenz des Schiffs gegen <a href=showinfo:526>Stasisnetze</a>",
+            "en": "bonus to ship <a href=showinfo:526>Stasis Webifier</a> resistance",
+            "es": "de bonificación a la resistencia a <a href=showinfo:526>redes ralentizadoras</a> de la nave.",
+            "fr": "de bonus à la résistance aux <a href=showinfo:526>générateurs de stase</a> du vaisseau",
+            "ja": "艦船の<a href=showinfo:526>ステイシスウェビファイヤー</a>耐性にボーナス",
+            "ko": "함선의 <a href=showinfo:526>스테이시스 웹 생성기</a> 저항력 증가",
+            "ru": "бонус к сопротивляемости <a href=showinfo:526>стазис-индукторам</a>",
+            "zh": "舰船<a href=showinfo:526>停滞缠绕</a>抗性加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 216000.0
 }

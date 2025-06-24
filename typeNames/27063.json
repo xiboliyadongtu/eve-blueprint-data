@@ -1,5 +1,18 @@
 {
-  "typeID": 27063,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Weil sie billig und schnell errichtet sind, erfreuen sich diese Reparatur-Außenposten einer steigenden Beliebtheit bei Reisenden, die in gefährlichen Gebieten mobil bleiben müssen.",
+    "en": "Due to their amazing cost-effectiveness and the speed at which they can be built, these repair outposts are seeing greater and greater use among travelers who need to be able to stay mobile in dangerous territory.",
+    "es": "En vista de su increíble rentabilidad y la velocidad a la que se pueden construir, estos puestos avanzados de reparación son cada vez más populares entre los viajeros que necesitan poder moverse por territorios peligrosos.",
+    "fr": "Ces avant-postes de réparation, très rapides à construire et peu coûteux, sont de plus en plus utilisés par les voyageurs souhaitant conserver leur mobilité en territoire dangereux.",
+    "ja": "コストパフォーマンスが驚くほど高いうえ、手軽に設営できることから、危険領域での機動性が求められる旅人の間で熱烈に支持されているリペアアウトポスト。",
+    "ko": "높은 가성비와 제조 속도가 빠르다는 장점을 가진 정비기지로, 위험 지역에서 항상 이동 준비태세를 갖춰야 하는 여행자들이 자주 애용합니다.",
+    "ru": "Благодаря поразительной экономичности и скорости постройки, эти станции все больше и больше используются путешественниками, которым нужно оставаться мобильными в опасных местах.",
+    "zh": "归因于惊人的性价比和建造速度，这些维修哨站越来越受到需要在危险区域保持移动性的旅行者的欢迎。"
+  },
+  "graphicID": 1711,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Repair Station",
     "en": "Repair Station",
@@ -10,5 +23,10 @@
     "ru": "Repair Station",
     "zh": "维修空间站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 320.0,
+  "sofFactionName": "angelbase",
   "volume": 100000000.0
 }

@@ -1,5 +1,19 @@
 {
-  "typeID": 46335,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Ein anscheinend in Eile zurückgelassener Stasis-Tresor, dessen Sicherheitssysteme defekt sind oder nie richtig eingestellt waren. Bergungsdrohnen haben im Tresor eine vielfältige Ansammlung alter Datenträger geortet. Die beschädigten trinären Überreste darin könnten für einen Sammler, ein Museum oder einfach einen Experten auf dem Gebiet der Wiederherstellung von trinären Daten aus alten Zeiten sehr interessant sein.",
+    "en": "A stasis vault left behind, apparently in some haste, and with its security systems compromised or perhaps never even set properly. A varied selection of ancient data storage devices were located inside the vault by recovery drones. The corrupted trinary relics found within might be of interest to a collector, museum or just possibly an expert in the field of reconstructing trinary data from the ancient past.",
+    "es": "Una cámara de estasis abandonada, aparentemente con cierta prisa, y con sus sistemas de seguridad comprometidos o, tal vez, es que nunca fueran configurados correctamente. Los drones de recuperación encontraron una serie de antiguos dispositivos de almacenamiento de datos en su interior. Las reliquias trinarias dañadas que contiene pueden interesar a un coleccionista, un museo o a un mero experto en el campo de la reconstrucción de datos trinarios de la antigüedad.",
+    "fr": "Un coffre de stase abandonné, apparemment dans la précipitation, et dont les systèmes de sécurité ont été compromis, ou peut-être même jamais configurés correctement. Plusieurs anciens dispositifs de stockage de données ont été localisés au sein du coffre par les drones de récupération. Les reliques trinaires corrompues découvertes à l'intérieur pourraient intéresser un collectionneur, un musée ou tout simplement un expert en reconstruction de données trinaires de l'ancien temps.",
+    "ja": "持ち主の慌てぶりがうかがえる、放置されたステイシスの金庫室。不正アクセスを受けたか、あるいは元から設定が間違っていたかでセキュリティシステムは損傷している。リカバリードローンによって、金庫室内で様々な旧時代のデータストレージが確認された。見つかったトライナリー言語データの遺物はコレクターや博物館、あるいはひょっとすると、大昔の旧時代のトライナリーデータを復元しようとしている専門家の興味を引くかもしれない。",
+    "ko": "감속장이 활성화된 보관소입니다. 보안 시스템이 작동하지 않는 것으로 보아 해킹되었거나 급하게 달아나느라 설정을 하지 못 한 것으로 예상됩니다. 회수 드론을 통해 다수의 고대 트라이너리 데이터 장치를 입수하는데 성공했습니다. 수집가나 박물관, 또는 트라이너리 데이터를 복구하는데 관심을 가진 전문가들이 해당 장치에 관심을 보일 것으로 예상됩니다.",
+    "ru": "Стазис-хранилище, покинутое в спешке. Его системы безопасности сломаны или даже никогда и не были активированы должным образом. Разнообразные древние устройства хранения данных, найденные поисковыми дронами в хранилище. Найденные здесь повреждённые устройства для хранения тринарных данных могут заинтересовать какого-нибудь коллекционера, музей или эксперта по восстановлению тринарных данных из древних времён.",
+    "zh": "一个静止的保险库被留了下来，看起来有点匆忙，它的安全系统已经失效，或是从来就没有好好设置过。回收无人机定位到保险库里有多种古代数据存储设备。里面的损坏的三进制遗物可能会引起某位收藏家、某个博物馆、或哪位重构古代三进制数据领域的专家的兴趣。"
+  },
+  "graphicID": 1176,
+  "groupID": 306,
+  "iconID": 21785,
+  "mass": 10000.0,
   "name": {
     "de": "Compromised Stasis Vault",
     "en": "Compromised Stasis Vault",
@@ -10,5 +24,9 @@
     "ru": "Compromised Stasis Vault",
     "zh": "被盗用的静止保险库"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericmetal",
   "volume": 27500.0
 }

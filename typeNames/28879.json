@@ -1,5 +1,18 @@
 {
-  "typeID": 28879,
+  "basePrice": 1000000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Nanobots. 5 % Reduktion des Verbrauchs von Nanobots je Skillstufe.",
+    "en": "Skill at operating nanites. 5% reduction in nanite consumption per level.",
+    "es": "Habilidad en el manejo de nanobots. 5 % de reducción de consumo de nanobots por nivel.",
+    "fr": "Compétence liée à l'utilisation des nanites. Réduit de 5 % par niveau de compétence la consommation de nanites.",
+    "ja": "ナノマシンを操作するためのスキル。レベル上昇ごとにナノマシンの消費量が5%削減。",
+    "ko": "나나이트 활용을 위한 스킬입니다. 매 레벨마다 나나이트 사용량 5% 감소",
+    "ru": "Умение использовать наноматериалы. За каждую степень освоения навыка: на 5% сокращается расход нанитов",
+    "zh": "操作纳米体的技能。每升一级，纳米体消耗减少5％。"
+  },
+  "groupID": 1216,
+  "iconID": 33,
+  "marketGroupID": 368,
   "name": {
     "de": "Nanite Operation",
     "en": "Nanite Operation",
@@ -10,5 +23,7 @@
     "ru": "Ремонтные наниты",
     "zh": "纳米体操作技术"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

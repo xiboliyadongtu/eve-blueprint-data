@@ -1,5 +1,18 @@
 {
-  "typeID": 28252,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese gigantische Kriegsstation ist eine der militärischen Einrichtungen von Sansha's schlummernder Nation. Man weiß, dass sie eine gewaltige Zahl Sansha-Schiffe birgt, doch angeblich gehen unter der zerklüfteten Außenhülle dunklere Dinge als nur Kriegstreiberei vor sich.",
+    "en": "This gigantic warstation is one of the military installations of Sansha's slumbering nation.  It is known to be able to hold a massive number of Sansha vessels, but strange whispers hint at darker things than mere warfare going on underneath its jagged exterior.",
+    "es": "Esta gigantesca estación de guerra es una de las instalaciones militares de la nación durmiente de Sansha. Se sabe que puede albergar un gran número de naves sanshas, pero extraños rumores apuntan a que en su interior esconde cosas más oscuras que simple equipo bélico.",
+    "fr": "Cette station de guerre gigantesque est l'une des installations militaires de la Sansha's Nation.  Il est de notoriété publique qu'elle abrite un grand nombre de vaisseaux sansha, mais on dit également que ses murs renferment de terribles secrets...",
+    "ja": "この巨大な戦時ステーションは、鳴りをひそめているサンシャ国の軍事施設の一つである。サンシャの無数の船を収容できることで知られているが、奇妙なざわめきが、戦争よりも不穏な何かがそのいかつい外観の下で進行していることを臭わせる。",
+    "ko": "이 거대한 구조물은 산샤 네이션이 운영하는 군용 시설입니다. 대규모 함대가 정박할 수 있을 정도로 넓은 시설이지만 항간의 소문에 의하면 단순히 군사 목적으로만 세워진 기지는 아닙니다.",
+    "ru": "Эта гигантская боевая станция является одной из военных установок дремлющего народа Sansha. Она может содержать огромное количество кораблей Sansha, но некоторые шепотом намекают на то, что в ее стенах находится кое-что похуже.",
+    "zh": "这座巨大的超级建筑是萨沙混沌国家的军事设施之一。众所周知，它能容纳大量萨沙飞船，但是还有奇怪的传言说，在其凹凸不平的外表之下，存在着比战争更为黑暗的东西。"
+  },
+  "graphicID": 2364,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Sansha Battlestation_event",
     "en": "Sansha Battlestation_event",
@@ -10,5 +23,10 @@
     "ru": "Sansha Battlestation_event",
     "zh": "萨沙太空堡垒_事件"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 6000.0,
+  "sofFactionName": "sanshabase",
   "volume": 100000000.0
 }

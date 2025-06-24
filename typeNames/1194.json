@@ -1,5 +1,18 @@
 {
-  "typeID": 1194,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Sentry-Guns sind rund um wichtige Installationen im All platziert und werden jeden angreifen, der den Ort bedroht, den sie verteidigen sollen. Sentry-Guns sind sehr wirkungsvoll im Vergleich zu ihrer leichten Anschaffung und Einsatz.",
+    "en": "Sentry guns are placed around important space facilities and will attack anyone threatening the place they've been assigned to defend. Sentry guns are very powerful compared to their ease of purchase and deployment.",
+    "es": "Las torretas centinela, que se colocan alrededor de importantes instalaciones espaciales, atacarán a cualquiera que amenace el lugar que se les ha encargado proteger. Son muy poderosas para lo fáciles de comprar y desplegar que resultan.",
+    "fr": "Les canons de sentinelle sont placés autour des grandes installations spatiales et attaquent tout vaisseau menaçant la structure dont ils ont la défense. Les canons de sentinelle sont très puissants malgré leur prix réduit et leur facilité de mise en œuvre.",
+    "ja": "セントリーガンは、重要な宇宙施設の周辺に設置され、防御を命じられた施設への侵入者を攻撃する。安価で配置も簡単でありながら、かなりの威力がある。",
+    "ko": "중요 시설에 주로 설치되며 위협으로 간주되는 모든 대상을 공격합니다. 가격 대비 성능이 뛰어나며 설치 또한 매우 간편합니다.",
+    "ru": "Сторожевые орудия размещаются по периметру важных космических сооружений; они открывают огонь по всему, что представляет угрозу обороняемым ими объектам. Сторожевые орудия обладают огромной мощью, если учесть их дешевизну и простоту развёртывания.",
+    "zh": "岗哨炮被布置在重要太空设施的周围，会攻击任何威胁其保护对象的人。岗哨炮易于购买和部署，但威力却不容小视。"
+  },
+  "graphicID": 1006,
+  "groupID": 99,
+  "mass": 1000.0,
   "name": {
     "de": "Amarr Sentry Gun",
     "en": "Amarr Sentry Gun",
@@ -10,5 +23,10 @@
     "ru": "Amarr Sentry Gun",
     "zh": "艾玛岗哨炮塔"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 45.0,
+  "sofFactionName": "amarrbase",
   "volume": 1000.0
 }

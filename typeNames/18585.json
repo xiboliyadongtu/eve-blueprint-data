@@ -1,5 +1,17 @@
 {
-  "typeID": 18585,
+  "description": {
+    "de": "Diese Zutrittskarte wird nur den Mitarbeitern der Guristas ausgehändigt, die sich einen Aufenthalt im Erholungszentrum der Guristas verdient haben. Das Beschleunigungstor bleibt eine kurze Zeit aktiviert und die Karte wird entwertet, nachdem die Kartendaten in den Aktivierungsmechanismus des Tores eingelesen worden sind.",
+    "en": "This pass is handed out to Guristas operatives that have earned a special treatment in their reinvigoration camp. The gate will remain open for a short period of time and the accesscard will be rendered useless after uploading the card's data to the gate's activation device.",
+    "es": "Este pase se entrega a los operarios de los Guristas que se han ganado un trato especial en su campamento de revigorización. El portal permanecerá abierto durante un breve periodo de tiempo y la tarjeta de acceso dejará de ser útil tras cargar los datos en el dispositivo de activación del portal.",
+    "fr": "Ce passe est attribué aux agents guristas qui ont mérité un traitement spécial dans leur camp de remise en forme. Ce portail restera ouvert quelques instants et la carte d'accès deviendra inutilisable une fois les informations de la carte envoyées vers le dispositif d'activation du portail.",
+    "ja": "レクリエーションキャンプで特別待遇を受ける権利を与えられた、ガリスタスの工作員に支給されるパス。ゲートが開くのは短時間で、起動デバイスにデータをアップロードした後、そのカードを再度使用することはできない。",
+    "ko": "휴양기지로의 휴가를 얻은 구리스타스 대원의 주말 외출증입니다. 데이터 입력 시 짧은 시간 동안 게이트가 활성화되며 이후 외출증은 자동 파기됩니다.",
+    "ru": "Этот пропуск выдаётся оперативникам Gurista, заслужившим особый восстановительный курс в лагере отдыха. После загрузки данных в устройство активации ключ приходит в негодность, а врата на короткое время остаются открытыми.",
+    "zh": "该通行证被分发给那些获得了复兴营地内特殊疗养权的古斯塔斯特工。轨道会打开一小段时间，出入卡在将卡中数据上传到轨道激活设备后，就会失去效用。"
+  },
+  "groupID": 474,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Weekend Pass for Sin Boulevard",
     "en": "Weekend Pass for Sin Boulevard",
@@ -10,5 +22,7 @@
     "ru": "Weekend Pass for Sin Boulevard",
     "zh": "罪恶林荫道的假期通行证"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

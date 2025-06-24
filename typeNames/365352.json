@@ -1,5 +1,16 @@
 {
-  "typeID": 365352,
+  "description": {
+    "de": "Stromstoßmodule erzeugen eine überaus starke temporäre Schutzhülle um ein Fahrzeug, indem sie unmittelbar einen extremen Ladungsimpuls vom bordeigenen Energiespeicher zur Fahrzeughülle leiten.\n\nDiese Module sind äußerst effektiv in der Abwehr von Zielerfassungswaffen, wenn die Aktivierung zeitlich korrekt abgestimmt wird.\n\nHinweis: Nur ein Modul dieser Art kann zur selben Zeit ausgerüstet werden.",
+    "en": "Surge modules create a brief, incredibly strong protective shell around a vehicle by instantly diverting a massive amount of charge from the vehicle's on-board capacitor to the vehicle's hull.\r\n\r\nThese modules are exceedingly effective at countering lock-on weaponry when activation is timed correctly.\r\n\r\nNote: Only one module of this type can be equipped at one time.",
+    "es": "Los módulos de aumento de tensión crean un breve e increíblemente fuerte caparazón protector alrededor de un vehículo al desviar instantáneamente una gran cantidad de carga del condensador de a bordo al casco.\n\nEstos módulos resultan extremadamente efectivos para contrarrestar armas con fijado si se activan en el momento justo.\n\nAviso: Solo puede equiparse un módulo de este tipo a la vez.",
+    "fr": "Les modules de surtension créent une brève enveloppe protectrice incroyablement solide autour d'un véhicule en détournant instantanément une large quantité de la charge du condensateur de bord vers la coque du véhicule.\n\nCes modules sont terriblement efficaces pour contrer les armes à verrouillage de cible lorsqu'ils sont activés au bon moment.\n\nRemarque : un seul module de ce type peut être équipé à la fois.",
+    "it": "I moduli Surge creano attorno a un veicolo un guscio protettivo incredibilmente forte che si ottiene deviando istantaneamente una massiccia quantità di carica dal condensatore di bordo verso lo scafo del veicolo stesso.\n\nQuesti moduli sono estremamente efficaci nel contrastare l'aggancio quando l'attivazione è cronometrata correttamente.\n\nNota: i moduli di questo tipo possono essere equipaggiati solo uno alla volta.",
+    "ja": "車両に搭載されている車内キャパシタから大量の弾を転換することにより、サージモジュールは車両の周囲に簡潔で驚くほど強固な保護殻を作り出す。\n\nこれらのモジュールは、起動のタイミングが合うと照準兵器からの攻撃に対して飛び抜けて効果的である。\n\n注：このタイプのモジュールは、同一のモジュールを複数取り付けることはできない。",
+    "ko": "서지 모듈 활성화 시 일정 시간 동안 차량을 보호하는 강력한 실드가 생성됩니다. 이때 캐패시터의 상당부분이 차체로 전송됩니다. <br><br>적절한 타이밍에 활성화할 경우 유도 무기의 피해를 크게 감소시킬 수 있습니다. <br><br>참고: 동일한 종류의 모델은 한 개만 장착할 수 있습니다.",
+    "ru": "Модули напряжения создают кратковременную, но невероятно мощную защитную оболочку вокруг транспорта, мгновенно перенаправляя огромный заряд от бортового накопителя транспортного средства к корпусу автомобиля.\n\nЭти модули, при правильно подобранном времени активации, являются чрезвычайно эффективнымы в борьбе с самонаводящейся боевой техникой.\n\nПримечание: Единовременно может быть использован только один модуль этого типа.",
+    "zh": "电涌模块能够瞬间将车载电容器的大量电荷转移到车体上，从而在车辆周围临时形成一个无比坚固的保护壳。如果启用时机正确，这些装备还能对付反锁定武器。注：只能同时装配一件相同类型的装备。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Stromstoß-Außenhülle II",
     "en": "Surge Carapace II",
@@ -11,5 +22,6 @@
     "ru": "Карапакс 'Surge' II",
     "zh": "电涌保护壳II"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

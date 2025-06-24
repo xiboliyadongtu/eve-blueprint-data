@@ -1,5 +1,21 @@
 {
-  "typeID": 20060,
+  "basePrice": 100000000.0,
+  "capacity": 35000.0,
+  "description": {
+    "de": "Die Amarr hatten immer schon eine Vorliebe für majestätische und beeindruckende Konstruktionen. Ihre Kontrolltürme weichen von dieser Tradition nicht ab und sind in der Tat große und mächtige Strukturen, eher dazu vorgesehen territoriale Interessen durchzusetzen als kommerziellen Nutzen zu bringen.\r\n\r\nRassenboni:\r\n50% Bonus auf die optimale Reichweite von Energy Sentrys\r\n25% Bonus auf die Schadenswirkung von Energy Sentrys\r\n50% Bonus auf die Kapazität von Warenlagern",
+    "en": "The Amarr have always been fond of majestic and intimidating constructions. Their Control Towers do not deviate from that tradition and are truly big and powerful structures, intended more for preservation of territorial interests than commercial benefits.\r\n\r\nRacial Bonuses:\r\n50% bonus to Energy Sentry Optimal Range\r\n25% bonus to Energy Sentry Damage\r\n50% bonus to Silo Cargo Capacity",
+    "es": "Los amarrianos siempre han sido dados a las construcciones imponentes y majestuosas, y sus torres de control no iban a ser la excepción. Estas estructuras, grandes y poderosas, están más orientadas a defender los intereses territoriales que a obtener beneficios comerciales.\n\n\n\nBonificaciones raciales:\n\n50 % de bonificación al alcance óptimo de la estructura centinela de energía.\n\n25 % de bonificación al daño de la estructura centinela de energía.\n\n50 % de bonificación a la capacidad de carga del depósito.",
+    "fr": "Les Amarr ont toujours aimé les constructions majestueuses et intimidantes. Leurs tours de contrôle en sont une parfaite illustration. Ce sont des bâtiments imposants conçus davantage pour la préservation des intérêts territoriaux que pour le commerce.\n\nBonus de race :\nAugmente de 50 % la portée optimale des sentinelles à énergie\nAugmente de 25 % les dégâts des sentinelles à énergie\nAugmente de 50 % la capacité de chargement du silo",
+    "ja": "アマーは、荘厳で人を圧倒するかのような建造物を常に好む。彼らのコントロールタワーもその例に漏れず、商業的な利益より領地の利益を守ることを意図した、大きく力強い建造物となっている。人種ボーナス :\n\nエネルギーセントリーの最適射程距離が50%拡大\n\nエネルギーセントリーダメージが25%増加\n\n貯蔵庫のカーゴ容量が50%増大",
+    "ko": "아마르 제국은 장엄하면서도 보는 이를 압도하는 건축물을 주로 선호해왔습니다. 관제타워 또한 아마르 전통에서 크게 벗어나지 않으며, 커다란 규모와 더불어 강력한 방어 체계를 보유하고 있습니다. 상업적인 용도보다는 지역 방어에 역할이 치중되어 있습니다. <br><br>국가 보너스: <br><br>에너지 센트리 최적사거리 50% 증가<br>에너지 센트리 피해량 25% 증가<br>사일로 화물용량 50% 증가",
+    "ru": "Amarr всегда увлекались возведением величественных сооружений, вселяющих благоговение в сердца зрителей. Их башни управления базами не являются исключением из этого правила; эти могучие постройки в первую очередь предназначены для защиты территориальных интересов, а не для получения коммерческой выгоды.\n\nРасовые бонусы: \nУвеличение оптимальной дальности автоматических энергетических орудий (Energy Sentry) — на 50%\nУвеличение ущерба, наносимого автоматическими энергетическими орудиями — на 25%\nУвеличение объема грузовых отсеков хранилищ — на 50%",
+    "zh": "艾玛历来喜欢威严壮观的建筑。他们的控制塔也沿袭了这一传统。这些控制塔真正算得上是巨大而有威力的建筑，其目的更多的是为保卫领土利益而不是商业利益。 \r\n\r\n种族加成：能量炮塔的最佳射程增加50% 能量炮塔伤害增加25% 储藏库容量增加50%"
+  },
+  "graphicID": 2593,
+  "groupID": 365,
+  "marketGroupID": 478,
+  "mass": 200000000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Amarr Control Tower Small",
     "en": "Amarr Control Tower Small",
@@ -10,5 +26,10 @@
     "ru": "Amarr Control Tower Small",
     "zh": "艾玛小型控制塔"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 3394.0,
+  "sofFactionName": "amarrbase",
   "volume": 2000.0
 }

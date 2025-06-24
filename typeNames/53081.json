@@ -1,5 +1,18 @@
 {
-  "typeID": 53081,
+  "capacity": 27500.0,
+  "description": {
+    "de": "Das sind wohl die Überreste eines Vermessungsschiffs.",
+    "en": "This appears to be the remains of a survey ship.",
+    "es": "Parecen ser los restos de una nave de reconocimiento.",
+    "fr": "Il semble s'agir des restes d'un vaisseau d'exploration.",
+    "ja": "破壊された調査船の残骸のようだ。",
+    "ko": "탐사선의 잔해로 추측됩니다.",
+    "ru": "Судя по всему, это обломки наблюдательного корабля.",
+    "zh": "这看上去像是一艘探测船的残骸。"
+  },
+  "graphicID": 21397,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Survey Ship",
     "en": "Survey Ship",
@@ -10,5 +23,9 @@
     "ru": "Survey Ship",
     "zh": "探测船"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 100.0,
+  "sofFactionName": "soebase",
   "volume": 27500.0
 }

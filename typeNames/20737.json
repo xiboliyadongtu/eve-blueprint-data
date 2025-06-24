@@ -1,5 +1,20 @@
 {
-  "typeID": 20737,
+  "basePrice": 10000.0,
+  "description": {
+    "de": "XL-Projektilmunition. Kann nur von Sternenbasis-Abwehrbatterien und Capital Ships wie Dreadnoughts verwendet werden. Diese Munition verwendet einen simplen Bleikern in einer harten Umhüllung aus kristallinem Carbon. Sie ist relativ kostengünstig und eignet sich bei fast allen Panzerungen. Schilde hingegen stellen ein Problem dar.\n\n\n\n60 % höhere optimale Reichweite.\n\n5 % höhere Nachführungsgeschwindigkeit.",
+    "en": "Extra Large Projectile Ammo. Can be used only by starbase defense batteries and capital ships like dreadnoughts. This ammo uses a simple lead slug encased in a hard shell of crystalline carbon. It is fairly cheap and works very well against most armors. Shields, however, are a problem.\r\n\r\n60% increased optimal range.\r\n5% increased tracking speed.",
+    "es": "Munición de proyectiles de calibre extragrande. Solo pueden usarla las baterías defensivas de bases estelares y las naves capitales, como los superacorazados. Esta munición emplea un proyectil de plomo recubierto de carbono cristalino. Cuesta poco y funciona muy bien contra la mayoría de los blindajes, aunque los escudos suponen un problema.\n\n\n\nAlcance óptimo aumentado un 60 %.\n\nVelocidad de rastreo aumentada un 5 %.",
+    "fr": "Très grande munition de projectile lourde. Exploitable uniquement par les batteries de défense de base stellaire et les vaisseaux capitaux tels que les dreadnoughts. Cette munition se compose d'un noyau en plomb contenu dans une coquille de carbone cristallin. Elle est bon marché et donne de bons résultats sur la plupart des blindages. Elle est cependant beaucoup moins efficace contre les boucliers.\n\nAugmente de 60 % la portée optimale.\nAugmente de 5 % la vitesse de poursuite.",
+    "ja": "超大型プロジェクタイル弾。スターベース防衛用兵器や、攻城艦などの主力艦だけが使用できる。この弾薬は、鉛弾を固い炭素結晶で覆っている。極めて安価で、ほとんどのアーマーに対して高い効力を発揮する。ただし、シールドは弱い。最適射程距離が60％延長。追跡速度が5%増加。",
+    "ko": "초대형 발사체 탄약입니다. 스타베이스 방어 포탑 또는 드레드노트와 같은 캐피탈 함선만 사용할 수 있습니다. 결정성 탄소 외피에 납을 채워서 제작한 탄약입니다. 생산 비용이 저렴하고 대부분의 장갑 속성을 대상으로 효과를 발휘합니다. 그러나 실드를 대상으로는 피해량이 크게 감소합니다. <br><br>최적사거리 60% 증가 <br>트래킹 속도 5% 증가",
+    "ru": "Снаряды сверхбольшого калибра. Можно использоваться только оборонительными батареями звёздной базы и крупными боевыми кораблями, как дредноуты. Эти снаряды представляют собой обычную свинцовую болванку, заключенную в прочную оболочку из кристаллического углерода. Их стоимость сравнительно невелика, но при этом они пробивают практически любую броню. К сожалению, против щитов они по большей части бессильны.\n\n\n\nПовышает оптимальную дальность действия на 60%.\n\nПовышает скорость слежения на 5%.",
+    "zh": "超大型射弹弹药。只有母星防御炮塔以及无畏舰这样的旗舰级战舰才能使用。这种弹药采用了一种简单的铅块，外面包着一层坚硬的晶化碳弹壳。它的价格相当便宜，而且对多数装甲非常有效。不过对能量护盾却没多大作用。\n\n最佳射程提升60%。\n跟踪速度提高5%。"
+  },
+  "groupID": 83,
+  "iconID": 2827,
+  "marketGroupID": 1006,
+  "mass": 1.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Arch Angel Carbonized Lead XL",
     "en": "Arch Angel Carbonized Lead XL",
@@ -10,5 +25,9 @@
     "ru": "Arch Angel Carbonized Lead XL",
     "zh": "大天使碳铅弹 XL"
   },
+  "portionSize": 100,
+  "published": true,
+  "radius": 10.0,
+  "variationParentTypeID": 17664,
   "volume": 0.125
 }

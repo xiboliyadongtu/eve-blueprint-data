@@ -1,5 +1,18 @@
 {
-  "typeID": 33490,
+  "capacity": 27500.0,
+  "description": {
+    "de": "Die Überreste einer zerstörten extragroßen Schiffwartungsstraße; bevor Sie etwas Brauchbares daraus bergen können, müssen alle noch im Wrack befindlichen Schiffe ins All ausgestoßen werden.",
+    "en": "Destroyed remains of an X-Large Ship Maintenance Array; before anything of value can be salvaged from it all surviving ships must be ejected out of the wreck into space.",
+    "es": "Restos destruidos de una dársena de mantenimiento de naves extragrande. Antes de poder recuperar algo de valor, hay que sacar todas las naves supervivientes de entre los restos y lanzarlas al espacio.",
+    "fr": "Vestiges d'un très grand module de maintenance de vaisseaux. Avant de pouvoir en tirer quelque chose, tous les vaisseaux survivants doivent être éjectés hors de cette épave dans l'espace.",
+    "ja": "破壊された超大型船舶調整施設の残骸。利用価値のあるパーツをサルベージできるかもしれないが、その前に焼け残った船を格納庫から宇宙空間に射出する必要がある。",
+    "ko": "대규모 함선 정비 시설의 잔해입니다. 잔해를 탐색하기 전에 파괴되지 않은 함선을 우선적으로 끌어낼 필요성이 있습니다.",
+    "ru": "Обломки разрушенного ангарного блока большой ёмкости. Перед окончательным демонтажем обломков следует выгрузить из них в космос все уцелевшие корабли.",
+    "zh": "被摧毁的超大型舰船维护阵列的残骸，在打捞任何有价值的物品之前，必须先把所有残存的舰船从残骸里弹射到太空中。"
+  },
+  "graphicID": 20400,
+  "groupID": 186,
+  "mass": 10000.0,
   "name": {
     "de": "X-Large Ship Maintenance Array Wreck",
     "en": "X-Large Ship Maintenance Array Wreck",
@@ -10,5 +23,9 @@
     "ru": "X-Large Ship Maintenance Array Wreck",
     "zh": "超大型舰船维护阵列残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14394.0,
+  "sofFactionName": "genericmetal",
   "volume": 27500.0
 }

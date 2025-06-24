@@ -1,5 +1,17 @@
 {
-  "typeID": 364610,
+  "basePrice": 787000.0,
+  "description": {
+    "de": "Skill in der Bedienung von Amarr-Logistikdropsuits. Schaltet den Zugriff auf Amarr-Logistikdropsuits frei. Standard ab Stufe 1, erweitert ab Stufe 3 und Prototypen ab Stufe 5. Logistikdropsuitbonus: 5% Abzug auf die PG/CPU-Kosten von Equipment pro Skillstufe.. Amarr-Logistikdropsuitbonus: 10% Abzug auf die Spawndauer von Drop-Uplinks und +2 auf die maximale Anzahl von Spawns pro Skillstufe.",
+    "en": "Skill at operating Amarr Logistics dropsuits.\r\n\r\nUnlocks access to Amarr Logistics dropsuits. Standard at lvl.1; advanced at lvl.3; prototype at lvl.5.\r\n\r\nLogistics Suit Bonus: 5% reduction to PG/CPU cost of equipment  per level.\r\nAmarr Logistics Bonus: 10% reduction to drop uplink spawn time and +2 to max. spawn count per level.",
+    "es": "Habilidad de manejo de trajes de salto logísticos Amarr. Desbloquea el acceso a los trajes de salto logísticos Amarr: Estándar en el nivel 1, avanzados en el nivel 3 y prototipos en el nivel 5. Bonificación de traje logístico: -5% al coste de RA/CPU del equipo por nivel. Bonificación de traje logístico Amarr: -10% al tiempo de despliegue de los enlaces de salto y +2 al máximo de despliegues por nivel.",
+    "fr": "Compétence permettant d'utiliser les combinaisons Logistique Amarr. Déverrouille l'accès aux combinaisons Logistique Amarr. Standard au niv.1 ; avancé au niv.3 ; prototype au niv.5. Bonus de combinaison Logistique : 5 % de réduction d'utilisation de PG/CPU de l'équipement par niveau. Bonus Logistique Amarr : 10 % de réduction du temps de résurrection des portails et +2 au nombre maximum d'entités par niveau.",
+    "it": "Abilità nell'utilizzo delle armature logistiche Amarr. Sblocca l'accesso alle armature logistiche Amarr. Standard al liv. 1; avanzate al liv. 3; prototipo al liv. 5. Bonus armatura logistica: 5% di riduzione all'utilizzo della rete energetica/CPU dell'equipaggiamento per livello. Bonus logistica Amarr: 10% di riduzione del tempo di rigenerazione del portale di schieramento e +2 al numero massimo di rigenerazioni per livello.",
+    "ja": "アマーロジスティクス降下スーツを扱うためのスキル。アマーロジスティクス降下スーツが使用できるようになる。レベル1で標準型、レベル3で高性能、レベル5でプロトタイプ。ロジスティクススーツボーナス：レベル上昇ごとに、装備のPG/CPU消費量が5%減少する。アマーロジスティクスボーナス：レベル上昇ごとに、地上戦アップリンクスポーン時間が10%減少し、最大スポーン回数が2増加する。",
+    "ko": "아마르 지원형 강하슈트 운용을 위한 스킬입니다. <br><br>아마르 지원형 강하슈트를 잠금 해제합니다. 레벨 1 - 일반, 레벨 3 - 상급, 레벨 5 - 프로토타입 <br><br>지원형 슈트 보너스: <br><br>매 레벨마다 장비 PG/CPU 요구치 5% 감소 <br><br>아마르 지원 보너스: <br><br>매 레벨마다 이동식 업링크 스폰 시간 10% 감소 및 최대 스폰 수 +2",
+    "ru": "Навык обращения с ремонтными скафандрами Амарр. Позволяет использовать ремонтные скафандры Амарр. Стандартные - на уровне 1; усовершенствованные - на уровне 3; прототипы - на уровне 5. Бонус ремонтного скафандра: 5% сокращение потребления ресурсов ЭС/ЦПУ для снаряжения на каждый уровень. Бонус ремонтного скафандра Амарр: 10% уменьшение времени появления десантного маяка и +2 к максимальному количеству возрождений на каждый уровень.",
+    "zh": "操作艾玛后勤作战服的技能。解锁艾玛后勤作战服。1级解锁标准版；3级解锁高级版；5级解锁原型版。后勤套装加成：每升一级，设备的PG/CPU成本降低5%。艾玛后勤加成：每升一级，上行链路的运行时间减少10%，最大运行数量+2。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Amarr-Logistikdropsuits",
     "en": "Amarr Logistics Dropsuits",
@@ -11,5 +23,6 @@
     "ru": "Ремонтные скафандры Амарр",
     "zh": "艾玛后勤作战服"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

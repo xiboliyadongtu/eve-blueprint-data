@@ -1,5 +1,16 @@
 {
-  "typeID": 60121,
+  "description": {
+    "de": "Eine große, unübersichtliche Ansammlung von Felsbrocken.",
+    "en": "A huge branching rock formation.",
+    "es": "Una enorme formación rocosa ramificada.",
+    "fr": "Une énorme formation ramifiée de roches.",
+    "ja": "巨大な木の枝のように広がる岩石群。",
+    "ko": "거대한 암석 지형물입니다.",
+    "ru": "Огромное каменное образование с ответвлениями.",
+    "zh": "大型的分枝状岩石群落。"
+  },
+  "graphicID": 1693,
+  "groupID": 1975,
   "name": {
     "de": "Rock Formation - Branched & Twisted",
     "en": "Rock Formation - Branched & Twisted",
@@ -10,5 +21,9 @@
     "ru": "Rock Formation - Branched & Twisted",
     "zh": "岩石群—变形裂开"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 5825.0,
+  "sofFactionName": "genericbase",
+  "soundID": 20174
 }

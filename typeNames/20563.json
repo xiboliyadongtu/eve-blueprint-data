@@ -1,5 +1,19 @@
 {
-  "typeID": 20563,
+  "basePrice": 1785720.0,
+  "description": {
+    "de": "Diese Tarnung für verdeckte Operationen ist ein sehr spezielles Stück Technologie und für den gemeinsamen Einsatz mit spezifischen Covert Ops-Schiffen gedacht. Theoretisch könnte sie zwar auch auf anderen Schiffen funktionieren, aber ihr Raumverzerrungsfeld ist derart instabil, dass der Versuch, seine Fluktuationen zu kompensieren, eine nicht darauf spezialisierte Hardware überfordern würde.\n\nHinweis: Dieses besondere Modul ist fortschrittlich genug, dass es einem Schiff gestattet, den Warpantrieb zu benutzen, während es sich im Tarnmodus befindet. Das Ausrüsten von zwei oder mehr Tarnmodulen stört allerdings deren Funktionalität, da die asynchrone Krümmung des Lichts zu Interferenzen führt.",
+    "en": "A very specialized piece of technology, the covert ops cloak is designed for use in tandem with specific covert ops vessels. Although it could theoretically work on other ships, its spatial distortion field is so unstable that trying to compensate for its fluctuations will overwhelm non-specialized computing hardware.\r\n\r\nNote: This particular module is advanced enough that it allows a ship to warp while cloaked. However, fitting two or more cloaking devices to a ship negates their use, as unsynchronized light deflection causes interference.",
+    "es": "El camuflaje de operaciones encubiertas es una pieza de tecnología muy especializada que está diseñada para usarse en tándem con naves de operaciones encubiertas específicas. Aunque en teoría podría funcionar en otras naves, su campo de distorsión espacial es tan inestable que tratar de compensar sus fluctuaciones abrumará el hardware informático no especializado.\n\nAviso: Este módulo en particular es lo bastante avanzado como para permitir que una nave warpee mientras está camuflada. Sin embargo, si se equipa una nave con dos o más dispositivos de camuflaje, se anulará su uso, ya que la desviación de luz asíncrona provoca interferencias.",
+    "fr": "Le camouflage des opérations secrètes est un petit bijou de technologie extrêmement spécialisé, conçu pour être utilisé sur les vaisseaux des opérations secrètes. Bien qu'il puisse en théorie être installé sur d'autres vaisseaux, son champ de distorsion spatiale est si instable que les fluctuations qu'il génère sont trop fortes pour être compensées par du matériel informatique non spécialisé.\n\nRemarque : ce module particulier est assez avancé pour permettre à un vaisseau de warper lorsqu'il est camouflé. Toutefois, équiper deux dispositifs de camouflage ou plus sur un vaisseau annule leurs effets, puisque la réfraction asynchrone de la lumière provoque des interférences.",
+    "ja": "隠密行動用遮蔽装置は特定の隠密行動艦に搭載することを目的として、技術の粋を集めて設計された。理論上は他のタイプの船に搭載しても作動可能だが、この装置が造り出す空間の歪みは極めて不安定なため、歪みによる揺れを補償することによって非特殊型コンピューティングハードウェアは負荷を強いられる。\n\n注：このモジュールは高性能なため、遮蔽中でも艦船がワープできる。しかし複数の遮蔽装置を装備すると、光の屈折が同期せずに干渉を起こすため、効果を発揮しなくなる。",
+    "ko": "코버트 옵스 함선에 탑재되는 클로킹 장치입니다. 이론적으로 다른 함급에 탑재하는 것 또한 가능하지만 전용 하드웨어 없이 공간왜곡 필드의 안정성을 유지하기가 어려워 권장되지는 않습니다. <br><br>참고: 최첨단 기술로 설계되어 클로킹 중에도 워프가 가능합니다. 두 개 이상의 클로킹 장치를 탑재할 경우 광편향 싱크로율의 불일치로 인해 은폐 효과가 무효화됩니다.",
+    "ru": "Всережимная система маскировки является очень узкоспециализированным оборудованием, созданным для использования на отдельных диверсионных кораблях. Теоретически, она может работать и на других кораблях, но ее поле пространственного искажения настолько нестабильно, что из-за попыток компенсировать ее колебания неспециализированное оборудование может выйти из строя.\n\nВнимание: Этот модуль позволяет использовать варп-двигатель корабля при включенной системе маскировки. Примечание: одновременное использование нескольких систем маскировки невозможно, так как вызываемые несинхронным отражением световых волн помехи нейтрализуют их действие.",
+    "zh": "作为一种非常特殊的技术，隐秘行动隐形装置被设计为与某些隐秘类型的舰船协同使用。尽管理论上它也能配备在其他舰船上，但是其空间扭曲立场非常不稳定，要弥补这种波动，即使最大的标准舰载电脑也会不堪重负。\n\n注意：这种高级装备让舰船可以在隐形的情况下跃迁，但是使用两个或者多个隐形装置将会导致其作用抵消，因为不同步的光反射会造成相互干扰。"
+  },
+  "groupID": 330,
+  "iconID": 2106,
+  "marketGroupID": 675,
+  "metaGroupID": 3,
   "name": {
     "de": "'Smokescreen' Covert Ops Cloaking Device II",
     "en": "'Smokescreen' Covert Ops Cloaking Device II",
@@ -10,5 +24,8 @@
     "ru": "'Smokescreen' Covert Ops Cloaking Device II",
     "zh": "烟幕隐秘行动隐形装置 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 11370,
   "volume": 100.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 45749,
+  "basePrice": 30000000.0,
+  "description": {
+    "de": "Weiteres Training in der Durchführung mehrerer Reaktionen. Kann pro Skillstufe eine zusätzliche Reaktion durchführen.",
+    "en": "Further training in the operation of multiple reactions. Ability to run 1 additional reaction job per skill level.",
+    "es": "Permite entrenarte aún más en el funcionamiento simultáneo de varias reacciones. Capacidad para realizar un trabajo de reacción adicional por nivel de habilidad.",
+    "fr": "Formation plus avancée dans la gestion de plusieurs réactions. Aptitude à lancer 1 travail de réaction supplémentaire par niveau de compétence.",
+    "ja": "複数の反応操作をさらにトレーニングする。スキルレベルが上がるたびに1つの追加反応ジョブを実行することができる。",
+    "ko": "다발적 분자 반응이 가능하도록 하는 상급 스킬입니다. 매 레벨마다 합성 슬롯 +1",
+    "ru": "Дальнейшее развитие навыка управления множественными реакциями. Освоение навыка позволяет пилоту увеличить количество единовременно проводимых реакций (на 1 за каждую степень освоения навыка).",
+    "zh": "操作多个反应的高级技能。每升一级，可同时多运行一个反应项目。"
+  },
+  "groupID": 1218,
+  "iconID": 33,
+  "marketGroupID": 1323,
   "name": {
     "de": "Advanced Mass Reactions",
     "en": "Advanced Mass Reactions",
@@ -10,5 +23,7 @@
     "ru": "Спецкурс массового ведения реакций",
     "zh": "高级大规模反应理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,19 @@
 {
-  "typeID": 77198,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Eine Tarnvorrichtung, die in der Lage ist, weitaus größere Strukturen als sie selbst vor allen Arten der elektronischen und visuellen Erfassung zu verbergen.",
+    "en": "Cloaking array capable of hiding a much larger structure than itself from all forms of electronic and visual detection.",
+    "es": "Sistema de camuflaje capaz de ocultar una estructura mucho más grande que ella misma de todas las formas de detección electrónica y visual.",
+    "fr": "Projecteur de camouflage capable de cacher une structure bien plus grande que lui à toute forme de détection électronique ou visuelle.",
+    "ja": "遮蔽アレイは自身よりもはるかに大きなストラクチャを、電子的および視覚的に隠蔽することができる。",
+    "ko": "활성화하면 거대한 구조물을 각종 전자기 및 시각적 탐지에서 숨길 수 있는 클로킹 장치입니다.",
+    "ru": "Эта станция маскировки скрывает сооружение значительно большего размера, не позволяя обнаружить его как визуально, так и с помощью приборов.",
+    "zh": "隐形阵列能够隐藏比自身大得多的建筑，不会被任何形式的电子和视觉探测所察觉。"
+  },
+  "graphicID": 25978,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Remote Cloaking Array",
     "en": "Remote Cloaking Array",
@@ -10,5 +24,9 @@
     "ru": "Remote Cloaking Array",
     "zh": "远程隐形阵列"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "minmatarbase",
   "volume": 27500.0
 }

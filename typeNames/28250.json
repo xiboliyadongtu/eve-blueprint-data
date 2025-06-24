@@ -1,5 +1,16 @@
 {
-  "typeID": 28250,
+  "description": {
+    "de": "Das Andocken an dieser Station ist verboten, so lange der Leiter keine Entwarnung gibt.",
+    "en": "Docking has been prohibited into this station until the all clear has been given by the manager.",
+    "es": "Está prohibido acoplarse a esta estación hasta que el gerente dé luz verde.",
+    "fr": "L'amarrage à cette station est interdit à toute personne non autorisée par le directeur.",
+    "ja": "このステーションへの入港は、マネージャの許可がなければ認められない。",
+    "ko": "정거장 관리인이 경보를 해제 하지 않는 이상 도킹은 불가능합니다.",
+    "ru": "Стыковка с этой станцией запрещена для капсулеров, пока не будет получено подтверждение от менеджера.",
+    "zh": "除非收到管理人发出的准入指令，否则任何人不得在该空间站停靠。"
+  },
+  "graphicID": 2307,
+  "groupID": 319,
   "name": {
     "de": "Caldari Station_event",
     "en": "Caldari Station_event",
@@ -10,5 +21,9 @@
     "ru": "Caldari Station_event",
     "zh": "加达里空间站_事件"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 5959.0,
+  "sofFactionName": "gallentebase"
 }

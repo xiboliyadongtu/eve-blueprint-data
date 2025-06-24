@@ -1,5 +1,21 @@
 {
-  "typeID": 13933,
+  "basePrice": 3000.0,
+  "capacity": 0.2813,
+  "description": {
+    "de": "Ein winziger Raketenwerfer, der nur eine begrenzte Anzahl Raketen fassen kann. Nicht ernsthaft als Primärbewaffnung gedacht, mehr als eine preiswerte Feuerunterstützung.",
+    "en": "A tiny launcher that can carry a very limited supply of rockets. Not really intended as a primary weapon but rather as a cheap supplementary weapon system.",
+    "es": "Este pequeño lanzador puede llevar un suministro muy limitado de cohetes. No está pensado como arma principal, sino como un sistema de armas complementario y barato.",
+    "fr": "Petit lanceur pouvant transporter une réserve restreinte de roquettes. Fait office de système d'armement secondaire peu cher, et non d'arme principale.",
+    "ja": "超小型ロケットランチャー。装填可能弾数もごく限られている。主砲向きの仕様ではなく、安価な補助兵装という位置づけである。",
+    "ko": "한정된 수량의 로켓을 탑재할 수 있는 소형 미사일 런처입니다. 저렴한 비용의 보조 무기 시스템으로 주 무장으로는 적합하지 않습니다.",
+    "ru": "Пусковая установка очень малых размеров с крайне ограниченным боезапасом ракет ближнего боя. Предназначена для использования не как основной вид вооружения, а скорее в роли дешевой вспомогательной системы.",
+    "zh": "一种火箭装载数量非常有限的小型发射器。并不作为主战武器，而是一种廉价的辅助武器系统。"
+  },
+  "graphicID": 21741,
+  "groupID": 507,
+  "iconID": 1345,
+  "marketGroupID": 639,
+  "metaGroupID": 4,
   "name": {
     "de": "Dread Guristas Rocket Launcher",
     "en": "Dread Guristas Rocket Launcher",
@@ -10,5 +26,9 @@
     "ru": "Dread Guristas Rocket Launcher",
     "zh": "恐惧古斯塔斯火箭发射器"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "guristas",
+  "variationParentTypeID": 10629,
   "volume": 5.0
 }

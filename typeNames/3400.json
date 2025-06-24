@@ -1,5 +1,18 @@
 {
-  "typeID": 3400,
+  "basePrice": 100000000.0,
+  "description": {
+    "de": "Skill zur Fertigung von spielerkontrollierten Außenposten.",
+    "en": "Skill required for the manufacturing of player controllable outposts.",
+    "es": "Habilidad necesaria para fabricar puestos avanzados controlables por el jugador.",
+    "fr": "Compétence liée à la construction d'avant-postes.",
+    "ja": "プレイヤー制御可能なアウトポストを製造するために必要なスキル。",
+    "ko": "플레이어 소유 전초기지 제조에 요구되는 스킬입니다.",
+    "ru": "Освоение этого навыка требуется для производства управляемых игроками форпостов.",
+    "zh": "建造玩家控制的哨站的必需技能。"
+  },
+  "groupID": 268,
+  "iconID": 33,
+  "marketGroupID": 369,
   "name": {
     "de": "Outpost Construction",
     "en": "Outpost Construction",
@@ -10,5 +23,7 @@
     "ru": "Производство форпостов",
     "zh": "哨站建造研究"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 75930,
+  "description": {
+    "de": "Dieses Föderations-Schiffswerfer-Signalfeuer kann nach seiner Fertigstellung als Ziel für das Interstellare Föderations-Schiffswerfer-Netzwerk dienen. Der Interstellare Föderations-Schiffswerfer stellt eine Verbindung zu bis zu drei verfügbaren Signalfeuern an bevorzugt strategisch wichtigen Standorten her, wenn mehr als die maximale Anzahl von Signalfeuern verfügbar ist. Interstellare Schiffswerfer sind eine Langstreckentransportmethode, gehen jedoch nur in eine Richtung. Dieses Schiffswerfer-Signalfeuer dient nur als Ziel. Der Interstellare Föderations-Schiffswerfer befindet sich im Intaki-System.",
+    "en": "This Federation Shipcaster Beacon can function as a destination for the Federation Interstellar Shipcaster network once completed. The Federation Interstellar Shipcaster will link to up to three available beacons, prioritizing those in strategically important locations if there are more than the maximum number of beacons available.\r\n\r\nInterstellar Shipcaster travel is a long-range but one-way method of transport. This Shipcaster Beacon only functions as a destination point. The Federation Interstellar Shipcaster is located in the Intaki system.",
+    "es": "Esta baliza de lanzador interestelar de la Federación puede funcionar como destino para la red de lanzadores interestelares de la Federación una vez completada. El lanzador interestelar de la Federación se vinculará con hasta tres balizas disponibles, dando prioridad a aquellas en ubicaciones estratégicamente importantes si hay más balizas disponibles que la cantidad máxima.\r\n\r\nEl viaje mediante el lanzador interestelar es un método de transporte de largo alcance, pero unidireccional. Esta baliza de lanzador interestelar solo funciona como un punto de destino. El lanzador interestelar de la Federación se encuentra en el sistema Intaki.",
+    "fr": "Cette balise de lance-vaisseaux de la Fédération peut fonctionner comme destination pour le réseau de lance-vaisseaux de la Fédération une fois achevée. Le lance-vaisseaux interstellaire de la Fédération reliera jusqu'à trois balises disponibles, donnant priorité à celles se situant dans des emplacements stratégiques si le nombre de balises disponibles est supérieur à son maximum. Le lance-vaisseaux interstellaire est une méthode de transport longue distance, mais à sens unique. Cette balise de lance-vaisseaux ne fonctionne que comme point de destination. Le lance-vaisseaux interstellaire de la Fédération se situe dans le système d'Intaki.",
+    "ja": "完成した連邦艦艇キャスタービーコンは、連邦惑星間艦艇キャスターネットワークの目的地として機能する。連邦惑星間艦艇キャスターは最大3か所の有効なビーコンにリンク可能で、最大数を超える数のビーコンが有効な場合は戦略的に重要な地点が優先される。\r\n\r\n惑星間艦艇キャスターは射程が長い一方で片道切符の移動手段であり、艦艇キャスタービーコンは目的地としてのみ機能する。連邦惑星間艦艇キャスターはインタキシステムに設置されている。",
+    "ko": "건설이 완료되면 연방 성간 함선전송망의 목적지로 활용될 연방 함선전송기 비컨입니다. 연방 성간 함선전송기는 최대 3개의 비컨과 연계할 수 있습니다. 연결이 필요한 지점이 3개 이상일 경우 연방 성간 함선전송기는 전략적으로 중요한 지점의 비컨과 우선적으로 연계합니다.<br><br>성간 함선전송기를 이용하면 장거리 이동이 가능합니다. 그러나 함선전송기 비컨이 오직 목적지 지정 기능만 수행하기에 편도 이동만 할 수 있습니다. 연방 성간 함선전송기는 인타키 성계에 위치해 있습니다.",
+    "ru": "По завершении строительства этот маяк галлентского кораблепускателя станет одним из пунктов назначения транспортной сети галлентского кораблепускателя. Галлентский межзвёздный кораблепускатель способен подключаться сразу к трём доступным маякам. Если количество доступных маяков превышает максимум, предпочтение отдаётся маякам, находящимся в стратегически важных областях. Кораблепускатель способен перемещать корабли на дальние расстояния, но только в одну сторону. Этот маяк кораблепускателя работает только в качестве пункта назначения. Галлентский межзвёздный кораблепускатель расположен в системе Intaki.",
+    "zh": "这个联邦舰船弹射台信标建成后可以作为联邦星际舰船弹射台网络的目的地。联邦星际舰船弹射台最多可以连接三个可用的信标，如果可用信标数量超过最大数量，则将优先考虑重要战略位置的信标。星际舰船弹射台旅行是一种远距离单程运输方式。这个舰船弹射台信标仅用作目的地。联邦星际舰船弹射台位于印塔基星系。"
+  },
+  "factionID": 500004,
+  "graphicID": 25928,
+  "groupID": 4547,
+  "mass": 100000.0,
   "name": {
     "de": "Federation Shipcaster Beacon",
     "en": "Federation Shipcaster Beacon",
@@ -10,5 +23,10 @@
     "ru": "Federation Shipcaster Beacon",
     "zh": "联邦舰船弹射台信标"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 30000.0,
+  "sofFactionName": "gallentenavy_upw_trig",
+  "soundID": 20157,
   "volume": 100000000.0
 }

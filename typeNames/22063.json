@@ -1,5 +1,17 @@
 {
-  "typeID": 22063,
+  "description": {
+    "de": "Ein leerer Datenchip. Als Eigentümer ist Dagras Kutill eingetragen.",
+    "en": "An empty data chip, marked as being owned by Dagras Kutill.",
+    "es": "Un chip de datos vacío, marcado como propiedad de Dagras Kutill.",
+    "fr": "Puce de données vide portant l'inscription de Dagras Kutill.",
+    "ja": "空のデータチップ。所有者の名前はダグラスクティル。",
+    "ko": "비어있는 데이터 칩으로 소유자는 다그라스 쿠틸입니다.",
+    "ru": "Пустой чип данных, промаркированный как принадлежащий Dagrass Kutill.",
+    "zh": "一块空的数据芯片，从标记看属于达格拉斯·库提尔。"
+  },
+  "groupID": 526,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Empty Data Chip",
     "en": "Empty Data Chip",
@@ -10,5 +22,7 @@
     "ru": "Empty Data Chip",
     "zh": "空的数据芯片"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

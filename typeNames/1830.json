@@ -1,5 +1,21 @@
 {
-  "typeID": 1830,
+  "basePrice": 7500.0,
+  "description": {
+    "de": "Eine Cruise Missile der Minmatar mit Nuklear-Sprengkopf und automatisiertem Lenksystem.",
+    "en": "A Minmatar cruise missile with a nuclear warhead and automatic guidance system.",
+    "es": "Misil de crucero minmatariano con ojiva nuclear y sistema de guiado automático.",
+    "fr": "Missile de croisière minmatar équipé d'une ogive nucléaire et d'un système de guidage automatique.",
+    "ja": "核弾頭と自動誘導システムを装備したミンマター製クルーズミサイル。",
+    "ko": "유도시스템과 핵탄두가 탑재된 민마타 크루즈 미사일입니다.",
+    "ru": "Ракета дальнего боя Minmatar с ядерной боеголовкой и системой автоматического наведения.",
+    "zh": "米玛塔尔共和国的一种巡航导弹，装备有核战斗部和自动导航系统。"
+  },
+  "graphicID": 20042,
+  "groupID": 396,
+  "iconID": 1343,
+  "marketGroupID": 914,
+  "mass": 1250.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Nova Auto-Targeting Cruise Missile I",
     "en": "Nova Auto-Targeting Cruise Missile I",
@@ -10,5 +26,8 @@
     "ru": "Nova Auto-Targeting Cruise Missile I",
     "zh": "星爆自动锁定巡航导弹 I"
   },
+  "portionSize": 100,
+  "published": true,
+  "radius": 300.0,
   "volume": 0.05
 }

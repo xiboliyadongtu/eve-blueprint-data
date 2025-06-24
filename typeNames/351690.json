@@ -1,5 +1,17 @@
 {
-  "typeID": 351690,
+  "basePrice": 7920.0,
+  "description": {
+    "de": "Erhöht die maximale Ausdauer des Benutzers.\nHINWEIS: Für dieses Modul gelten Stapelabzüge; nach dem ersten Modul nimmt die Wirksamkeit jedes weiteren ab.",
+    "en": "Increases maximum stamina of the user.\r\nNOTE: Stacking penalties apply to this module; the effectiveness of each additional module after the first will be reduced.",
+    "es": "Aumenta la resistencia máxima del usuario.\nAVISO: Se aplican penalizaciones por acumulación a este módulo. Se reduce la efectividad de cada módulo adicional (después del primero).",
+    "fr": "Augmente l'endurance maximale de l'utilisateur\nREMARQUE : Des pénalités d'accumulation s'appliquent à ce module ; au-delà du premier module, l'efficacité de chaque module supplémentaire sera réduite.",
+    "it": "Aumenta la forza vitale massima dell'utente.\nNOTA: a questo modulo si applicano le penalità da accumulo; l'efficacia di ogni modulo aggiuntivo dopo il primo viene ridotta.",
+    "ja": "使用者のスタミナ最大値を上げる。\n注:このモジュールはスタッキングペナルティの対象となり、同一のモジュールを複数取り付けると、一つ追加するごとにモジュールの効果が低下する。",
+    "ko": "사용 시 최대 스태미나가 증가합니다. <br><br>참고: 중첩 페널티가 적용되는 모듈입니다. 동일한 효과를 지닌 모듈을 한 개 이상 장착할 경우 추가 모듈의 효율성이 감소합니다.",
+    "ru": "Повышает максимальную выносливость владельца.\nПРИМЕЧАНИЕ: Для этого модуля действует система нарастающих штрафов. Эффективность воздействия каждого последующего модуля снижается.",
+    "zh": "增加使用者的最大耐力。注：此装备有堆叠惩罚，额外加装同样装备的效果会降低。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Komplexes Kardialstimulans",
     "en": "Complex Cardiac Stimulant",
@@ -11,5 +23,7 @@
     "ru": "Усложненный стимулятор сердечной деятельности",
     "zh": "复杂型强心剂"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

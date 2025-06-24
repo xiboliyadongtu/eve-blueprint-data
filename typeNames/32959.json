@@ -1,5 +1,18 @@
 {
-  "typeID": 32959,
+  "capacity": 120.0,
+  "description": {
+    "de": "Diese Unit hasst jegliches Leben. Der kleinste Anschein davon führt zu heftigen Krämpfen in ihren Schaltkreisen.  Jegliche Bewegung, jedes noch so kleine Zucken muss im Keim erstickt werden. Es ist, als wäre das Leben selbst eine unerträglich laute Kakophonie, die das zugegebenermaßen instabile Zentrum der Unit erschüttert. Bedrohungsstufe: Tödlich",
+    "en": "This unit is violently opposed to all life, to the point where the merest hint of its existence is enough to drive its circuits into violent spasms.  Any movement, any twitch, must be silenced, as though life itself were a cacophony blasting at unbearable volume in the unit's admittedly quite unstable mind. Threat level: Deadly",
+    "es": "Esta unidad se opone violentamente a cualquier forma de vida hasta el punto de que la más mínima indicación de su existencia es suficiente para que sus circuitos sufran violentos espasmos. Cualquier movimiento debe ser silenciado, como si la vida misma fuera una cacofonía insoportable y ensordecedora en la ya de por sí inestable mente de la unidad. Nivel de amenaza: letal.",
+    "fr": "Cette unité est violemment opposée à toute vie, à tel point que la moindre trace de son existence suffit à provoquer de violents spasmes au sein de ses circuits.  Le moindre mouvement, le moindre tressautement, doit se faire dans le plus grand silence, comme si la vie en elle-même était une cacophonie assourdissante dans l'esprit instable de l'unité. Niveau de menace : mortel",
+    "ja": "このユニットはあらゆる生命を激しく憎悪している。ほんのわずかな生命反応を感知しただけでも急激に戦闘回路が起動するぐらいだ。どんな活動、どんな反応であろうと、完全に沈黙するまで容赦しない。それはあたかも、生命の存在そのものが耳をつんざく耐えがたい騒音であるかのようだ。そしてどう見ても、このユニットは忍耐強いほうではない。危険度:致命的",
+    "ko": "생명체에 대한 극한의 파괴 본능이 내재된 개체로, 생명 반응이 감지되면 회로를 불태우는 한이 있더라도 폭력을 행사합니다. 작은 움직임 하나도 용납하지 않으며 생명체의 존재가 마치 끔찍한 불협화음이라도 되는 것마냥 불안정한 모습을 보입니다. 위험도: 치명적",
+    "ru": "Эта модель — непримиримый враг всего живого. Даже при малейшем намеке на наличие жизни в ее логических контурах начинаются серьезные сбои.  Она будет стремиться подавить и уничтожить любое движение. Похоже, что в неуравновешенном разуме этой модели само наличие жизни как таковой отдается мучительно громкой какофонией. Смертельно опасен.",
+    "zh": "这个家伙对一切生命物体都持敌视态度，一点点的生命气息都会挑动它的暴力情绪。一切动作都不能发出任何声音，否则就会如同炸雷一般给这家伙本已混沌不堪的神经雪上加霜。威胁等级：致命的"
+  },
+  "graphicID": 1718,
+  "groupID": 1174,
+  "mass": 19000000.0,
   "name": {
     "de": "Unit D-34343",
     "en": "Unit D-34343",
@@ -10,5 +23,10 @@
     "ru": "Unit D-34343",
     "zh": "D-34343单元"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 350.0,
+  "sofFactionName": "gallenteinfested",
+  "soundID": 31,
   "volume": 19000000.0
 }

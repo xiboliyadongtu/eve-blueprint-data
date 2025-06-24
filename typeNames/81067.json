@@ -1,5 +1,18 @@
 {
-  "typeID": 81067,
+  "description": {
+    "de": "Schildkomponente, die hauptsächlich in Upwell-Schiffen verwendet wird",
+    "en": "Shield Component used primarily in Upwell Ships",
+    "es": "Componente de escudo usado principalmente en naves de Upwell.",
+    "fr": "Composant de bouclier utilisé principalement dans les vaisseaux Upwell",
+    "ja": "主にアップウェル艦に用いられるシールド部品。",
+    "ko": "업웰 함선에 주로 사용되는 실드 장치입니다.",
+    "ru": "Деталь щита, которую обычно устанавливают на корабли «Апвелл».",
+    "zh": "主要由昇威舰船使用的护盾构件"
+  },
+  "groupID": 334,
+  "iconID": 2204,
+  "marketGroupID": 3594,
+  "mass": 1.0,
   "name": {
     "de": "Repelling Shield Emitter",
     "en": "Repelling Shield Emitter",
@@ -10,5 +23,8 @@
     "ru": "Repelling Shield Emitter",
     "zh": "斥力护盾发射器"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 1.0
 }

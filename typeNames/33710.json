@@ -1,5 +1,20 @@
 {
-  "typeID": 33710,
+  "basePrice": 25762.0,
+  "description": {
+    "de": "Rumpf-Wartungsdrohne",
+    "en": "Hull Maintenance Drone",
+    "es": "Dron de mantenimiento del casco.",
+    "fr": "Drone de maintenance de la coque",
+    "ja": "船体メンテナンスドローン",
+    "ko": "선체수리 드론입니다.",
+    "ru": "Беспилотный комплекс ремонта корпуса",
+    "zh": "船体维修无人机"
+  },
+  "graphicID": 1095,
+  "groupID": 640,
+  "marketGroupID": 842,
+  "mass": 3000.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Medium Hull Maintenance Bot II",
     "en": "Medium Hull Maintenance Bot II",
@@ -10,5 +25,10 @@
     "ru": "Medium Hull Maintenance Bot II",
     "zh": "中型船体维护机器人 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 15.0,
+  "sofFactionName": "creodron",
+  "variationParentTypeID": 33704,
   "volume": 10.0
 }

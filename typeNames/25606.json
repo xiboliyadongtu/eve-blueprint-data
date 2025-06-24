@@ -1,5 +1,17 @@
 {
-  "typeID": 25606,
+  "description": {
+    "de": "Kontrolleinheit für die Schildsysteme eines Schiffes.",
+    "en": "The control unit for a starships shield systems.",
+    "es": "Unidad de control de los sistemas de escudo de las naves.",
+    "fr": "Unité de contrôle des systèmes de bouclier équipant les vaisseaux.",
+    "ja": "宇宙船のシールドシステム用制御ユニット。",
+    "ko": "함선 실드 시스템에 사용되는 제어 장치입니다.",
+    "ru": "Блок управления щитовыми системами космических кораблей.",
+    "zh": "星舰护盾系统的控制单元。"
+  },
+  "groupID": 754,
+  "iconID": 3256,
+  "marketGroupID": 1863,
   "name": {
     "de": "Ward Console",
     "en": "Ward Console",
@@ -10,5 +22,7 @@
     "ru": "Ward Console",
     "zh": "防御控制台"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

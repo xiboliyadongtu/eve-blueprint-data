@@ -1,5 +1,15 @@
 {
-  "typeID": 29348,
+  "description": {
+    "de": "Dieses Schlachtschiff der Apocalypse-Klasse wurde in zwei Teile gerissen. Der Bug ist größtenteils intakt, es gibt jedoch keinerlei Lebenszeichen.",
+    "en": "This Apocalypse-class battleship has been torn in half; the bow section is largely intact, although there are no obvious signs of life.",
+    "es": "Este acorazado de clase Apocalypse ha sido seccionado por la mitad; la sección de proa está casi intacta, aunque no se detectan señales de vida.",
+    "fr": "Ce cuirassé de classe Apocalypse a été déchiré en deux. La proue semble largement intacte, bien qu'on ne distingue aucun signe de vie.",
+    "ja": "半分に引き裂かれたアポカリプス級の戦艦。船首部分はほぼ無傷だが、誰かが生き残っている気配はない。",
+    "ko": "절반이 파괴되어 소실된 아포칼립스급 배틀쉽입니다. 뱃머리는 상당히 온전하나 생존자의 흔적은 보이지 않습니다.",
+    "ru": "Этот линкор класса Apocalypse расколот надвое. Носовая часть сохранилась относительно хорошо, но явных признаков жизни не наблюдается.",
+    "zh": "这艘灾难级战列舰断成了两截；船头大部分虽然还保持完整，但已经没有任何生命迹象的存在。"
+  },
+  "groupID": 226,
   "name": {
     "de": "Apocalypse Bow",
     "en": "Apocalypse Bow",
@@ -10,5 +20,8 @@
     "ru": "Apocalypse Bow",
     "zh": "灾难级船头"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 220.0
 }

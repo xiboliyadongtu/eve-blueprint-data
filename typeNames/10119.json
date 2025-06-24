@@ -1,5 +1,16 @@
 {
-  "typeID": 10119,
+  "description": {
+    "de": "Diese Anlage verringert innerhalb ihrer Reichweite jede Art von Schaden an einem Raumschiff.",
+    "en": "This construction dampens all damage inflicted to ships within range.",
+    "es": "Esta construcción atenúa todo el daño infligido a las naves dentro de su radio de alcance.",
+    "fr": "Cette structure réduit tous les dégâts infligés aux vaisseaux à portée.",
+    "ja": "有効範囲内にいる艦船へのダメージを緩和することができる。",
+    "ko": "구조물 범위 내에서 함선이 입는 모든 피해가 감소합니다.",
+    "ru": "Эта конструкция уменьшает повреждения, наносимые всем кораблям в ее радиусе действия.",
+    "zh": "这座建筑能在有效范围内降低舰船受到的所有伤害。"
+  },
+  "graphicID": 1680,
+  "groupID": 226,
   "name": {
     "de": "Outpost/Disc - Spiky & Pulsating",
     "en": "Outpost/Disc - Spiky & Pulsating",
@@ -10,5 +21,9 @@
     "ru": "Outpost/Disc - Spiky & Pulsating",
     "zh": "前哨站/碟状—狭长，脉动的"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 205.0,
+  "sofFactionName": "genericbase",
+  "soundID": 20177
 }

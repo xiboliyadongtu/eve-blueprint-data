@@ -1,5 +1,18 @@
 {
-  "typeID": 34378,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieses Lagerdepot sieht relativ unbeschädigt aus. Es ist gut möglich, dass sich im Innern etwas lukratives verbirgt, das nur darauf wartet, mit einem Reliktanalysator aufgedeckt zu werden.",
+    "en": "This storage depot seems relatively intact, meaning there is a good chance of something lucrative lurking inside, waiting to be unlocked with a relic analyzer.",
+    "es": "Este depósito de almacenamiento parece relativamente intacto, lo que significa que hay bastantes probabilidades de que haya algo lucrativo oculto dentro esperando a ser descubierto con un analizador de reliquias.",
+    "fr": "Ce dépôt de stockage semble relativement intact. Il y a donc de fortes chances que quelque chose de valeur s'y cache, qui ne demande qu'à être décelé par un analyseur de relique.",
+    "ja": "この保管庫は比較的無傷のようだ。内部には何か儲かるものが隠されていて、遺物アナライザーで解除されるのを待っているってわけだ。",
+    "ko": "온전한 상태로 보존되어있는 저장고입니다. 내부에 값진 무언가가 유물 분석기로 잠금 해제되길 기다리고 있습니다.",
+    "ru": "Склад выглядит относительно неповреждённым; весьма вероятно, что внутри лежит что-то ценное, получить доступ к нему можно будет посредством комплекса анализа артефактов.",
+    "zh": "这个储藏库似乎相对完整，仓库内很有可能存有值钱的物品。你可以使用遗迹分析仪对其解锁。"
+  },
+  "graphicID": 2301,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Intact Storage Depot",
     "en": "Intact Storage Depot",
@@ -10,5 +23,10 @@
     "ru": "Intact Storage Depot",
     "zh": "完整的储藏库"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 600.0,
+  "sofFactionName": "genericmetal",
   "volume": 27500.0
 }

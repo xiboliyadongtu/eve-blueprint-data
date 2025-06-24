@@ -1,5 +1,17 @@
 {
-  "typeID": 17990,
+  "description": {
+    "de": "Dieser Code schaltet das Beschleunigungstor im Angel-Gefängniskomplex frei. Das Tor wird für eine kurze Zeit geöffnet sein und die Verwendung des Codes wird zu seiner Selbstzerstörung führen.",
+    "en": "This cypher unlocks the acceleration gate in an Angel Prison Complex. The gate will remain open for a short period of time and using the cypher will cause it to self-destruct.",
+    "es": "Este código desbloquea el portal de aceleración de una prisión de los Ángeles. Al usarlo, el portal permanecerá abierto durante un breve periodo de tiempo y luego se autodestruirá.",
+    "fr": "Ce code d'accès secret déverrouille le portail d'accélération du complexe pénitencier angel. Une fois activé, le code ouvrira brièvement l'accès au portail avant de s'autodétruire.",
+    "ja": "エンジェル刑務所複合施設内にあるアクセラレーションゲートを開ける暗号。ゲートを短時間開くことができるが、使用後は自動的に破壊される。",
+    "ko": "해당 암호키를 사용하면 엔젤 카르텔 교도소로 향하는 액셀레이션 게이트를 개방할 수 있습니다. 사용 시 짧은 시간 동안 게이트가 개방되며 이후 암호키는 자동으로 폐기됩니다.",
+    "ru": "Этот ключ открывает разгонные ворота, ведущие в тюремный комплекс «ангелов». Ворота останутся открытыми на короткое время, использование ключа вызовет его самоуничтожение.",
+    "zh": "这个密码可以打开天使监狱复合体的加速轨道一小段时间，使用密码卡后，密码卡会自我销毁。"
+  },
+  "groupID": 474,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Security Cypher for Angel Prison",
     "en": "Security Cypher for Angel Prison",
@@ -10,5 +22,7 @@
     "ru": "Security Cypher for Angel Prison",
     "zh": "天使集团监狱的安全密码"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

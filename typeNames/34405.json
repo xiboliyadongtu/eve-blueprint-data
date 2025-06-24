@@ -1,5 +1,16 @@
 {
-  "typeID": 34405,
+  "description": {
+    "de": "Die Sonnenstrahlen-Netzklemme scheint jetzt korrekt zu funktionieren. Der unberechenbare Energieausstoß scheint nachzulassen. Sie sollten nun in der Lage sein, sich der Struktur anzunähern - doch lassen Sie Vorsicht walten.",
+    "en": "The Solray Power Terminal now seems to be in working order. The erratic outlet of energy seems to be lessening. You should be able to move close to this structure now, but use extreme care.",
+    "es": "Parece que ahora la terminal de energía de Solray funciona sin problemas y la pérdida errática de energía va reduciéndose. Ya deberías poder acercarte a esta estructura, pero ten mucho cuidado.",
+    "fr": "La borne d'alimentation de rayons solaires semble désormais être en état de marche. La dispersion d'énergie semble diminuer. Vous devriez pouvoir vous rapprocher de cette structure, mais faites très attention.",
+    "ja": "ソルレーパワーターミナルは現在、作動中のようだ。不安定なエネルギー放出はおさまりつつあるらしい。十分注意して、ストラクチャに接近しろ。",
+    "ko": "솔레이 전력 시설은 현재 정상적으로 작동하고 있습니다. 불규칙하게 뿜어져 나오던 에너지가 점차 감소 추세에 접어들었습니다. 접근은 가능할 것으로 보이지만 여전히 주의는 요구됩니다.",
+    "ru": "Блок распределения энергии теперь функционирует нормально. Хаотические выбросы энергии, кажется, ослабли. Теперь вы можете попытаться приблизиться к сооружению, но соблюдайте крайнюю осторожность.",
+    "zh": "恒星射线能量终端现在看起来能正常工作了。散射的能源少多了。你应该可以接近这个建筑了，不过还是要万分小心。"
+  },
+  "graphicID": 2069,
+  "groupID": 226,
   "name": {
     "de": "Solray Aligned Power Terminal",
     "en": "Solray Aligned Power Terminal",
@@ -10,5 +21,9 @@
     "ru": "Solray Aligned Power Terminal",
     "zh": "校准的恒星射线能量终端"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 3500.0,
+  "sofFactionName": "genericmetal"
 }

@@ -1,5 +1,16 @@
 {
-  "typeID": 3790,
+  "description": {
+    "de": "Die Wreathe ist ein altes Schiff der Republik Minmatar und eines der ältesten überhaupt, die sich noch im Einsatz befinden. Das Design der Wreathe wurde sehr einfach gehalten, was einerseits der Grund für ihre Langlebigkeit ist, sie andererseits jedoch in ihrer Einsatzfähigkeit beschränkt.",
+    "en": "The Wreathe is an old ship of the Minmatar Republic and one of the oldest ships still in usage. The design of the Wreathe is very plain, which is the main reason for its longevity, but it also makes the ship incapable of handling anything but the most mundane tasks.",
+    "es": "La Wreathe es una antigua nave de la República Minmatar y una de las más veteranas que aún se utilizan. Tiene un diseño muy sencillo, lo que explica su longevidad, pero también hace que la nave sea incapaz de manejar nada más que las tareas más mundanas.",
+    "fr": "Le Wreathe est un ancien vaisseau de la République minmatar, et l'un des plus vieux vaisseaux encore en service. Sa simplicité explique sa longévité, mais également le fait qu'il soit cantonné aux tâches les plus simples.",
+    "ja": "ウレスはミンマター共和国の旧型船で、現役船の中では最古の部類に入る。設計は極めて簡素で、それが長寿の理由ともなっている。ただし、日常業務以外に耐えるだけの能力はない。",
+    "ko": "민마타 공화국의 레이쓰는 현재 사용되는 함선 중 가장 오래된 함선입니다. 단순하게 설계된 것이 오랜 시간 사용되는 비결일지도 모르지만, 그로 인해 단조로운 임무에서만 사용되는 경향이 있습니다.",
+    "ru": "Промышленные корабли класса Wreathe вот уже много лет верой и правдой служат республике Minmatar; . Wreathe имеет крайне простую конструкцию, которая является главной причиной долгого срока жизни этой модели. Тем не менее, это делает корабль пригодным для выполнения только самых обыденных задач.",
+    "zh": "环绕级是米玛塔尔共和国的一种旧式飞船，也是仍在服役的最老的飞船之一。环绕级的设计非常简单，这是它长期服役的主要原因，不过这也使得这种飞船只适用于一些最普通的任务。"
+  },
+  "graphicID": 310,
+  "groupID": 226,
   "name": {
     "de": "Minmatar-Wreathe-Transporter",
     "en": "Minmatar Wreathe Hauler",
@@ -10,5 +21,9 @@
     "ru": "Minmatar Wreathe Hauler",
     "zh": "米玛塔尔环绕级运载舰"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 205.0,
+  "sofFactionName": "minmatarbase"
 }

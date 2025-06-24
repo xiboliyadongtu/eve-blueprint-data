@@ -1,5 +1,90 @@
 {
-  "typeID": 85087,
+  "basePrice": 800000.0,
+  "capacity": 400.0,
+  "description": {
+    "de": "Die Tholos wurde Ende YC126 von den Deathless Custodians entwickelt und ist eine Fusion des Thukker-Raumschiffbaus, hochmoderner Elektronik der Caldari und Durchbrüchen in der bioinformatischen Schiffstechnologie. Diese Synergie rief die perfekte Maschine für die bevorzugte Guerilla-Doktrin des Circle ins Leben. Die Tholos verfügt über die Fähigkeit, sowohl Kapselbrecher-Werfer als auch Covert-Ops-Tarnvorrichtungen zu verwenden.",
+    "en": "Developed by the Deathless Custodians in late YC126, the Tholos is a fusion of Thukker starship engineering, cutting-edge Caldari electronics, and breakthroughs in shipboard bioinformatic technology. This synergy beckoned into reality the perfect machine for the Circle’s preferred hit and run doctrine.\r\n\r\nThe Tholos boasts the capabilities to use both Breacher Pod Launchers and Covert Ops Cloaking Devices.",
+    "es": "Desarrollada por los Custodios Inmortales a finales de 126 CY, la Tholos es una fusión de ingeniería de naves estelares Thukker, electrónica de vanguardia caldari y avances en tecnología bioinformática de a bordo. Esta sinergia hizo realidad la máquina perfecta para la doctrina de ataques relámpagos preferida por el Círculo.\r\n\r\nLa Tholos cuenta con la capacidad de utilizar tanto lanzacápsulas de ataque como dispositivos de camuflaje de operaciones encubiertas.",
+    "fr": "Développé par les Gardiens immortels à la fin de l'année 126 après CY, le Tholos est une fusion de l'ingénierie de vaisseaux thukker, de l'électronique avancée caldari et des avancées en technologie bioinformatique embarquée. Cette synergie a concrétisé la machine idéale pour la doctrine d'attaque éclair privilégiée par le Cercle. Le Tholos possède les capacités pour utiliser à la fois les lanceurs de capsules de brèche et les dispositifs de camouflage des opérations secrètes.",
+    "ja": "YC126年にデスレス・カストディアンによって開発されたトロスは、サッカーの宇宙船工学とカルダリの最先端電気工学を融合させ、艦載される生物情報工学技術におけるブレークスルーを達成した艦船である。このシナジーにより、この艦船はデスレス・サークルが好む一撃離脱戦法にうってつけの性能を備えている。\r\n\r\nまた、トロスは突入ポッドランチャーと光学迷彩遮蔽装置を使用することができる。",
+    "ko": "YC 126년에 데스리스 커스터디언이 개발한 톨로스는 터커 부족의 함선 엔지니어링 기술에 칼다리의 전자공학을 접목하고 최첨단 생체 정보 기술을 탑재했습니다. 데스리스 서클이 선호하는 게릴라 전술에 특화한 것입니다.\r\n\r\n톨로스는 침투 포드 런처와 코버트 옵스 클로킹 장치를 모두 사용할 수 있습니다.",
+    "ru": "Корабль модели Tholos, разработанный «Бессмертными стражами» в конце 126 года от ю. с., представляет собой смесь инженерных разработок племени таккеров, передовых электронных систем калдарцев и последних достижений в области биоинформационных технологий. Такое сочетание как нельзя лучше подходит для тактики «бей и беги», столь полюбившейся членам «Бессмертного круга». Tholos обладает достаточными мощностями для одновременного использования внережимных систем маскировки и пусковых установок внедряющихся капсул.",
+    "zh": "“穹顶级”由不死守护者于YC126年末研发，融合了图克尔星舰工程技术、加达里尖端电子技术和突破性的舰载生物信息技术。这种协同作用与不死循环偏好的游击战策略最为适配。穹顶级可以使用分裂者级逃生舱发射器和隐秘行动隐形装置。"
+  },
+  "factionID": 500029,
+  "graphicID": 27875,
+  "groupID": 420,
+  "marketGroupID": 3531,
+  "mass": 1700000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      164,
+      150,
+      71,
+      75,
+      108,
+      141,
+      85,
+      2267,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      164,
+      150,
+      71,
+      75,
+      108,
+      141,
+      85,
+      2267,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      164,
+      150,
+      71,
+      75,
+      108,
+      141,
+      85,
+      2267,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      164,
+      150,
+      71,
+      75,
+      108,
+      141,
+      85,
+      2267,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      164,
+      150,
+      71,
+      75,
+      108,
+      141,
+      85,
+      118,
+      2267,
+      94
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Tholos",
     "en": "Tholos",
@@ -9,6 +94,135 @@
     "ko": "톨로스",
     "ru": "Tholos",
     "zh": "穹顶级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 32,
+  "radius": 138.0,
+  "sofFactionName": "deathless",
+  "soundID": 20074,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Kann einen <a href=showinfo:85084>kleinen Kapselbrecher-Werfer</a> ausrüsten",
+          "en": "Can fit one <a href=showinfo:85084>Small Breacher Pod Launcher</a>",
+          "es": "Es posible equipar un <a href=showinfo:85084>lanzacápsulas de ataque pequeño</a>.",
+          "fr": "Peut recevoir un <a href=showinfo:85084>petit lanceur de capsules de brèche</a>",
+          "ja": "<a href=showinfo:85084>小型突入ポッドランチャー</a>を1つ装備可能",
+          "ko": "<a href=showinfo:85084>소형 침투 포드 런처</a> 1대 장착 가능",
+          "ru": "Возможна установка одной <a href=showinfo:85084>малой ПУ внедряющихся капсул</a>",
+          "zh": "可以装配一个<a href=showinfo:85084>小型分裂者级逃生舱发射器</a>"
+        },
+        "importance": 2
+      },
+      {
+        "bonusText": {
+          "de": "Kann <a href=showinfo:11578>Covert-Ops-Tarnvorrichtung</a> ausrüsten",
+          "en": "Can fit <a href=showinfo:11578>Covert Ops Cloaking Device</a>",
+          "es": "Es posible equipar un <a href=showinfo:11578>dispositivo de camuflaje de operaciones encubiertas</a>.",
+          "fr": "Peut utiliser un <a href=showinfo:11578>dispositif de camouflage opérations secrètes</a>",
+          "ja": "<a href=showinfo:11578>光学迷彩型遮蔽装置</a>を装備可能",
+          "ko": "<a href=showinfo:11578>코버트 옵스 클로킹 장치</a> 장착 가능",
+          "ru": "Возможна установка <a href=showinfo:11578>внережимной системы маскировки</a>",
+          "zh": "可以装配<a href=showinfo:11578>隐秘行动隐形装置</a>"
+        },
+        "importance": 3
+      },
+      {
+        "bonusText": {
+          "de": "Verzögerung bei Reaktivierung des <a href=showinfo:11579>Tarnmoduls</a> auf 15 Sekunden reduziert",
+          "en": "<a href=showinfo:11579>Cloak</a> reactivation delay reduced to 15 seconds",
+          "es": "Se reduce la demora de reactivación del <a href=showinfo:11579>camuflaje</a> a 15 segundos.",
+          "fr": "Délai de réactivation du <a href=showinfo:11579>camouflage</a> réduit à 15 secondes",
+          "ja": "<a href=showinfo:11579>遮蔽装置</a>の再起動遅延を15秒に短縮",
+          "ko": "<a href=showinfo:11579>클로킹</a> 재가동 지연 시간 15초로 감소",
+          "ru": "Задержка повторного включения <a href=showinfo:11579>систем маскировки</a> снижена до 15 секунд",
+          "zh": "<a href=showinfo:11579>隐形装置</a>重启延迟降到15秒"
+        },
+        "importance": 5
+      },
+      {
+        "bonusText": {
+          "de": "Immun gegen alle <a href=showinfo:442>Frachtscanner</a>",
+          "en": "Immune to all <a href=showinfo:442>Cargo Scanners</a>",
+          "es": "Inmune a todos los <a href=showinfo:442>escáneres de carga</a>.",
+          "fr": "Immunisé contre tous les <a href=showinfo:442>scanners de soute</a>",
+          "ja": "全ての<a href=showinfo:442>カーゴスキャナー</a>への耐性",
+          "ko": "<a href=showinfo:442>화물 스캐너</a> 면역",
+          "ru": "Невосприимчивость к воздействию любых <a href=showinfo:442>сканеров груза</a>",
+          "zh": "免疫所有<a href=showinfo:442>货舱扫描</a>"
+        },
+        "importance": 6
+      },
+      {
+        "bonus": 100.0,
+        "bonusText": {
+          "de": "Reduktion der CPU-Anforderung von <a href=showinfo:11579>Tarnmodulen</a>",
+          "en": "reduction in <a href=showinfo:11579>Cloaking Devices</a> CPU requirement",
+          "es": "de reducción del requisito de CPU de los <a href=showinfo:11579>dispositivos de camuflaje</a>.",
+          "fr": "de réduction du CPU requis par les <a href=showinfo:11579>dispositifs de camouflage</a>",
+          "ja": "<a href=showinfo:11579>遮蔽装置</a>の必要CPUが減少",
+          "ko": "<a href=showinfo:11579>클로킹 장치</a> CPU 사용량 감소",
+          "ru": "снижение требований к ЦПУ для <a href=showinfo:11579>систем маскировки</a>",
+          "zh": "<a href=showinfo:11579>隐形装置</a>CPU需求降低"
+        },
+        "importance": 4,
+        "unitID": 105
+      },
+      {
+        "bonus": 150.0,
+        "bonusText": {
+          "de": "Bonus auf den Schaden von <a href=showinfo:3302>kleinen Projektilwaffentürmen</a> und <a href=showinfo:3320>Raketen</a>",
+          "en": "bonus to <a href=showinfo:3302>Small Projectile Turret</a> and <a href=showinfo:3320>Rocket</a> damage",
+          "es": "de bonificación al daño de la <a href=showinfo:3302>torreta de proyectiles pequeña</a> y el <a href=showinfo:3320>cohete</a>.",
+          "fr": "de bonus aux dégâts des <a href=showinfo:3302>petites tourelles à projectiles</a> et <a href=showinfo:3320>roquettes</a>",
+          "ja": "<a href=showinfo:3302>小型プロジェクタイルタレット</a>の精度低下範囲と<a href=showinfo:3320>ロケット</a>のダメージにボーナス",
+          "ko": "<a href=showinfo:3302>소형 발사체 터렛</a> 및 <a href=showinfo:3320>로켓</a> 피해량 증가",
+          "ru": "бонус к урону <a href=showinfo:3302>малых баллистических орудий</a> и <a href=showinfo:3320>ракетных снарядов</a>",
+          "zh": "<a href=showinfo:3302>小型射弹炮台</a>和<a href=showinfo:3320>火箭</a>伤害加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "33092": [
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Leistung von <a href=showinfo:3416>Schildboostern</a>",
+            "en": "bonus to <a href=showinfo:3416>Shield Booster</a> amount",
+            "es": "de bonificación a la eficiencia de los <a href=showinfo:3416>potenciadores de escudo</a>.",
+            "fr": "de bonus au montant des <a href=showinfo:3416>boosters de bouclier</a>",
+            "ja": "<a href=showinfo:3416>シールドブースター</a>量が増加",
+            "ko": "<a href=showinfo:3416>실드 부스터</a> 회복량 증가",
+            "ru": "бонус к эффективности <a href=showinfo:3416>восстановителя щитов</a>",
+            "zh": "<a href=showinfo:3416>护盾回充增量器</a>回充量加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ],
+      "33094": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf die Resistenz des Schiffs gegen <a href=showinfo:526>Stasisnetze</a>",
+            "en": "bonus to ship <a href=showinfo:526>Stasis Webifier</a> resistance",
+            "es": "de bonificación a la resistencia a <a href=showinfo:526>redes ralentizadoras</a> de la nave.",
+            "fr": "de bonus à la résistance aux <a href=showinfo:526>générateurs de stase</a> du vaisseau",
+            "ja": "艦船の<a href=showinfo:526>ステイシスウェビファイヤー</a>耐性にボーナス",
+            "ko": "함선의 <a href=showinfo:526>스테이시스 웹 생성기</a> 저항력 증가",
+            "ru": "бонус к сопротивляемости <a href=showinfo:526>стазис-индукторам</a>",
+            "zh": "舰船<a href=showinfo:526>停滞缠绕</a>抗性加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 43000.0
 }

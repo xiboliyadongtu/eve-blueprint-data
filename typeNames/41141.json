@@ -1,5 +1,22 @@
 {
-  "typeID": 41141,
+  "basePrice": 46052412.0,
+  "capacity": 5.0,
+  "description": {
+    "de": "Diese gewaltige Railgun, eine der größten zurzeit existierenden Waffen, ist für ausgedehnte Belagerungen stationärer Einrichtungen und anderer großer Ziele konzipiert.\n\nHinweis: Kann nur in Schiffe der Capital-Klasse eingebaut werden.\n\n\n\nBenötigt folgende Hybridladungstypen: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",
+    "en": "One of the largest weapons currently in existence, this massive railgun is designed for extended sieges of stationary installations and other large targets.\r\nNote: May only be fitted to capital class ships.\r\n\r\nRequires hybrid charge types: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",
+    "es": "Este enorme cañón electromagnético, una de las armas más grandes que existen actualmente, ha sido diseñado para asedios prolongados a instalaciones estacionarias y otros objetivos de gran tamaño.\n\nAviso: Solo se puede equipar en naves capitales.\n\n\n\nRequiere tipos de carga híbrida: antimateria, iridio, hierro, plomo, plutonio, torio, tungsteno, uranio.",
+    "fr": "Parmi les armes les plus colossales jamais conçues, ce canon à rail est destiné au siège de longue durée des structures stationnaires et autres cibles massives.\n\nRemarque : réservé aux vaisseaux de classe capital.\n\n\n\nMunitions : charges hybrides antimatière, iridium, fer, plomb, plutonium, thorium, tungstène, uranium.",
+    "ja": "現存する中でも最大級の武器であるこの巨大なレールガンは、固定式基地などの大きな標的に対する大規模な包囲攻撃用に設計されている。注： 母艦級の艦船にのみ装着可能。装填可能なハイブリッド弾のタイプ： アンチマター弾、イリジウム弾、アイアン弾、鉛弾、プルトニウム弾、トリウム弾、タングステン弾、ウラン弾。",
+    "ko": "현존하는 가장 거대한 레일건 중 하나로 장기간 공성전 및 대형 목표물 타격에 적합합니다. <br><br>참고: 캐피탈급 함선에만 장착이 가능합니다. <br><br>사용 가능한 하이브리드탄: 반물질탄, 이리듐탄, 강철탄, 납탄, 플루토늄탄, 토륨탄, 텅스텐탄, 우라늄탄.",
+    "ru": "Этот гигантский рельсотрон является одним из самых больших орудий в мире; он предназначен для осады стационарных объектов и обстрела других крупных целей.\n\nВнимание! Этим модулем могут оснащаться исключительно корабли большого тоннажа.\n\n\n\nДля стрельбы используются гибридные заряды следующих типов: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",
+    "zh": "现今最大型的武器之一，这种大型磁轨炮专为针对固定装置和其它大型目标的长期围攻而特别设计。\n\n注：只能用于旗舰级舰船。\n\n\n\n使用的混合弹药类型：反物质弹药、铱质弹药、铁质弹药、铅质弹药、锰质弹药、钍质弹药、钨质弹药、钼质弹药。"
+  },
+  "graphicID": 11262,
+  "groupID": 74,
+  "iconID": 2840,
+  "marketGroupID": 772,
+  "mass": 40000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Prototype Precise Dual 1000mm Railgun",
     "en": "Prototype Precise Dual 1000mm Railgun",
@@ -10,5 +27,10 @@
     "ru": "Prototype Precise Dual 1000mm Railgun",
     "zh": "尖端型精准双联1000mm磁轨炮"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 1000.0,
+  "sofFactionName": "caldaribase",
+  "variationParentTypeID": 20448,
   "volume": 4000.0
 }

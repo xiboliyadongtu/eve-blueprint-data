@@ -1,5 +1,16 @@
 {
-  "typeID": 77287,
+  "description": {
+    "de": "Nach einem Hinterhalt von Guristas-Piraten ist diese Charon das letzte überlebende Schiff eines Konvois, der wertvollen Caldari-Besitz von außerhalb des Staats zurückführen sollten.",
+    "en": "Part of a convoy of ships repatriating valuable Caldari assets from outside the State, this Charon is the last survivor following an ambush by Guristas Pirates.",
+    "es": "Parte de un convoy de naves que repatrían valiosos activos caldaris desde fuera del Estado, esta Charon es la última superviviente tras una emboscada de los Piratas Guristas.",
+    "fr": "Ce Charon faisait partie d'un convoi de vaisseaux qui rapatriaient de précieuses marchandises caldari depuis l'extérieur de l'État. Il est le seul survivant d'une embuscade tendue par les pirates guristas.",
+    "ja": "このカロンは高価なカルダリの資産を連合領域外から送還する船団の一部であったが、ガリスタス海賊の待ち伏せに遭い、船団最後の生き残りとなった。",
+    "ko": "국외에서 귀중한 칼다리 자산을 들여오는 수송대 소속의 함선입니다. 이 카론은 구리스타스 해적단의 기습에서 마지막까지 살아남았습니다.",
+    "ru": "Этот фрейтер типа Charon — всё, что осталось от конвоя, возвращавшего калдарские активы на территорию Государства. Из всех кораблей, попавших в засаду пиратов «Гуристас», уцелел только этот.",
+    "zh": "这艘渡神级舰船隶属于一支护航舰队，负责将加达里的宝贵资产从合众国外运回，是舰队遭到古斯塔斯游寇伏击后的最后一名幸存者。"
+  },
+  "graphicID": 2740,
+  "groupID": 4576,
   "name": {
     "de": "Charon Repatriator",
     "en": "Charon Repatriator",
@@ -10,5 +21,8 @@
     "ru": "Charon Repatriator",
     "zh": "渡神级遣返舰"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 5000.0,
+  "sofFactionName": "caldaribase"
 }

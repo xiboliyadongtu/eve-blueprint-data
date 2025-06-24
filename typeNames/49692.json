@@ -1,5 +1,18 @@
 {
-  "typeID": 49692,
+  "capacity": 25000.0,
+  "description": {
+    "de": "Das Wrack eines biokombinativen Triglavia-Speichers. Diese Speicher sind in bestimmten Raumverwerfung des Abgrunds zu finden und enthalten oftmals bioadaptive Mutaplasmide, Abgrundfilamente, verschiedene Materialien und Navigations-Telemetriedatentresore. Analytiker von CONCORD glauben, dass sie hauptsächlich als Speicher für Ressourcen dienen, die Triglavia-Schiffe auf ihrer Reise durch den Abgrund nutzen. Kapselpiloten, die die Tiefen der Raumverwerfung des Abgrunds erforschen, könnten es für profitabel halten, diese Speicher wegen der darin gelagerten Ressourcen zu überfallen.",
+    "en": "The wreck of a Triglavian Biocombinative Cache. Found in certain Abyssal Deadspace zones, these caches usually contain bioadaptive mutaplasmids, abyssal filaments, various materials, and navigational telemetry datavaults. CONCORD analysts believe their main purpose is to serve as caches of resources useful to Triglavian vessels travelling through the Abyss. \r\n\r\nCapsuleers exploring the depths of Abyssal Deadspace may well find it profitable to raid these caches for the resources they contain.",
+    "es": "Los restos de un depósito biocombinativo triglaviano. Se suelen encontrar en el espacio muerto abisal y generalmente contienen mutaplásmidos bioadaptativos, filamentos abisales, materiales varios y cámaras de datos telemétricos de navegación. Los analistas de CONCORD creen que su objetivo principal es servir de contenedores de recursos útiles para las naves triglavianas que viajan a través del Abismo. \n\n\n\nLos capsulistas que exploran las profundidades del espacio muerto abisal pueden sacar tajada si los asaltan para extraer los recursos que guardan en el interior.",
+    "fr": "L'épave d'une cache biocombinative triglavian. Ces caches se trouvent dans certaines zones de l'abîme Deadspace et renferment généralement des mutaplasmides bioadaptatifs, des filaments abyssaux, divers matériaux et des coffres de données télémétriques de navigation. Selon les analystes de CONCORD, ces caches renferment principalement des ressources utiles aux vaisseaux triglavian qui se déplacent dans l'abîme. Les capsuliers qui explorent les profondeurs de l'abîme Deadspace feraient bien de dévaliser ces caches pour récupérer les ressources qu'elles renferment.",
+    "ja": "トリグラビアン・バイオコンビナティブキャッシュの残骸。特定のアビサルデッドスペースゾーンで発見されるこれらのキャッシュには通常、生体適応型の変異プラスミド、アビサルフィラメント、様々な資源、航海用テレメトリーデータ保管庫などが含まれている。CONCORDのアナリストはストラクチャの主な用途を、アビスを航行するトリグラビアン艦のための資源貯蔵庫だと考えている。\r\n\nアビサルデッドスペースを探索しているカプセラには、こういった貯蔵庫を漁るメリットがある。中にある資材が手に入るのだ。",
+    "ko": "트리글라비안 바이오결합형 저장고의 잔해입니다. 어비설 데드스페이스에 찾을 수 있는 이 저장고에는 바이오적응형 뮤타플라즈미드, 어비설 필라멘트, 다양한 자원, 그리고 운항 텔레미터 데이터보관소 등이 있습니다. CONCORD의 분석에 따르면 이 저장고는 어비셜 지역을 탐사하는 트리글라비안 함선에 필요한 물자를 공급하는 보관소 역할을 하고 있습니다. <br><br>어비설 데드스페이스를 탐사 중인 캡슐리어들 같은 경우 이 저장고의 자원을 약탈할 경우 상당한 수익을 낼 수 있을 것으로 예상됩니다.",
+    "ru": "Обломки биокомбинативного тайника Триглава. Такие тайники встречаются в определённых районах Мёртвой бездны. Внутри часто можно найти биоадаптивные мутаплазмиды, нити бездны, различные материалы и центры хранения навигационных данных. Аналитики КОНКОРДа полагают, что, в первую очередь, они служат хранилищами ресурсов для кораблей Триглава, странствующих в бездне. Капсулёрам, исследующим глубины бездны, следует обратить внимание на эти тайники. Внутри могут ждать полезные ресурсы.",
+    "zh": "一处三神裔生化结合贮藏的残骸。这种建筑存在于某些特定深渊空间中，里面经常含有生化适应性突变质体、深渊纤维、各种材料和航行遥测数据库。统合部的分析推断这种建筑的主要功能是储存对三神裔舰船在深渊中航行有裨益的资源。 \n\n\n\n探索深渊空间深处的克隆飞行员如果遇到这种建筑，就会将里面的资源收为己有。"
+  },
+  "graphicID": 22312,
+  "groupID": 186,
+  "mass": 10000.0,
   "name": {
     "de": "Biocombinative Cache Wreck",
     "en": "Biocombinative Cache Wreck",
@@ -10,5 +23,9 @@
     "ru": "Biocombinative Cache Wreck",
     "zh": "生化结合贮藏残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 250.0,
+  "sofFactionName": "triglavianbase",
   "volume": 25000.0
 }

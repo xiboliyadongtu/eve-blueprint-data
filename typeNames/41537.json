@@ -1,5 +1,18 @@
 {
-  "typeID": 41537,
+  "basePrice": 250000000.0,
+  "description": {
+    "de": "Skill für die schnelle Entladung von Titan-Doomsday-Waffen. 4% Reduktion der Zyklusdauer der Doomsday-Waffe je Skillstufe.",
+    "en": "Skill at the rapid discharge of titan doomsday weapons. 4% reduction per skill level to doomsday duration.",
+    "es": "Habilidad de descarga rápida de armas apocalípticas de titanes. 4 % de reducción por nivel de habilidad a la duración del apocalipsis.",
+    "fr": "Compétence liée à la décharge rapide des armes d'annihilation pour titan. Réduit de 4 % par niveau la durée de charge des armes d'annihilation.",
+    "ja": "タイタンのドゥームズデイ兵器の速射に関するスキル。スキルレベルにつきドゥームズデイ起動時間が 4% 短縮。",
+    "ko": "타이탄급 둠스데이 무기의 발사 속도를 증가시키는 스킬입니다. 매 레벨마다 둠스데이 작동주기 4% 감소",
+    "ru": "Навык ведения быстрого огня из орудий Судного дня. За каждую степень освоения навыка: на 4% снижается время цикла перезарядки орудий Судного дня.",
+    "zh": "操作泰坦末日武器进行快速充能的技能。每升一级，末日武器循环周期缩短4%。"
+  },
+  "groupID": 255,
+  "iconID": 33,
+  "marketGroupID": 364,
   "name": {
     "de": "Doomsday Rapid Firing",
     "en": "Doomsday Rapid Firing",
@@ -10,5 +23,7 @@
     "ru": "Повышение скорострельности орудий Судного дня",
     "zh": "末日武器快速发射"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

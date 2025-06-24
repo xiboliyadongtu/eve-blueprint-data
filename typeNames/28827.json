@@ -1,5 +1,18 @@
 {
-  "typeID": 28827,
+  "basePrice": 80.0,
+  "description": {
+    "de": "Diese Kristalle enthalten wohl so etwas wie Daten, wurden aber anscheinend mithilfe fortschrittlicher Methoden verschlüsselt. Das macht die Daten allen und jedem unzugänglich – mal von den geschicktesten Codeknackern abgesehen.",
+    "en": "These crystals contain data of some sort, but have apparently been encrypted using advanced methods, making the information inaccessible to all but the most skilled hackers.",
+    "es": "Estos cristales contienen datos de algún tipo, pero parece que han sido cifrados mediante métodos avanzados, lo que hace la información inaccesible para todos excepto los hackers más mañosos.",
+    "fr": "Ces cristaux contiennent des données qui semblent avoir été codées à l'aide de méthodes avancées, que seuls les meilleurs hackers seront capables de déchiffrer.",
+    "ja": "何らかのデータが格納されているのは確かだが、高度な暗号化が施されているらしく、一流の腕を持つハッカーでなければ解読できそうにない。",
+    "ko": "불분명한 데이터가 내장돼있는 크리스탈입니다. 최신 기술로 암호화되었기 때문에 뛰어난 능력의 상위 해커들만 암호를 풀 수 있습니다.",
+    "ru": "В этих кристаллах хранятся какие-то данные, но они защищены современными методами шифрования; добыть информацию не сможет никто, кроме самых опытных хакеров.",
+    "zh": "这些水晶体中含有某种数据，但显然它们已采用先进方法进行过加密，因此只有技术最高超的破译员才能访问。"
+  },
+  "groupID": 314,
+  "iconID": 2886,
+  "mass": 50.0,
   "name": {
     "de": "Encrypted Data Crystals",
     "en": "Encrypted Data Crystals",
@@ -10,5 +23,7 @@
     "ru": "Encrypted Data Crystals",
     "zh": "加密的数据水晶"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

@@ -1,5 +1,20 @@
 {
-  "typeID": 31892,
+  "basePrice": 40000.0,
+  "description": {
+    "de": "Schwere Angriffsdrohne",
+    "en": "Heavy Attack Drone",
+    "es": "Dron de asalto pesado",
+    "fr": "Drone d'attaque lourd.",
+    "ja": "ヘビーアタックドローン",
+    "ko": "헤비 어택 드론",
+    "ru": "Тяжелый боевой дрон",
+    "zh": "重型攻击无人机"
+  },
+  "graphicID": 20267,
+  "groupID": 100,
+  "marketGroupID": 839,
+  "mass": 10000.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Republic Fleet Berserker",
     "en": "Republic Fleet Berserker",
@@ -10,5 +25,11 @@
     "ru": "Republic Fleet Berserker",
     "zh": "共和舰队狂战士"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 35.0,
+  "sofFactionName": "minmatarnavy",
+  "variationParentTypeID": 2476,
   "volume": 25.0
 }

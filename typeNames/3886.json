@@ -1,5 +1,18 @@
 {
-  "typeID": 3886,
+  "capacity": 1800.0,
+  "description": {
+    "de": "Dies ist ein Sicherheitsschiff von CONCORD. Es patrouilliert in diesem Sektor und wird auf jeden Kampf reagieren, den es entdeckt. Falls nötig, kann es Verstärkung aus nahegelegenen Sektoren herbeirufen.",
+    "en": "This is a security vessel of CONCORD. It is patrolling this sector and will respond to any combat it detects. It can call in reinforcements from nearby sectors if the need arises.",
+    "es": "Nave de seguridad de CONCORD que patrulla por este sector y responderá a cualquier combate que detecte. Puede pedir refuerzos de los sectores cercanos si es necesario.",
+    "fr": "Ceci est un vaisseau de sécurité de CONCORD. Il est en patrouille dans ce secteur et interviendra dans tout combat qu'il pourra détecter. Au besoin, il peut appeler des renforts des secteurs voisins.",
+    "ja": "CONCORDのセキュリティ艦。管轄区域をパトロールし、戦闘行為を探知すると現場へ急行する。緊急時には近隣区域からの援軍を要請することも可能。",
+    "ko": "CONCORD의 경비함입니다. 지역을 순찰 중이며 교전 발견 시 즉각 개입합니다. 유사시 근처 지역에서 증원군을 요청합니다.",
+    "ru": "Это корабль сил безопасности CONCORD. Он патрулирует этот сектор и открывает ответный огонь по недружественным объектам. В случае необходимости может вызвать подкрепление из ближайших секторов.",
+    "zh": "这是一艘统合部的安全船只。它在这个地区中巡逻，会对侦测到的任何战斗做出响应。如果形势需要，它会呼叫邻近区域的增援部队。"
+  },
+  "graphicID": 1052,
+  "groupID": 288,
+  "mass": 10100000.0,
   "name": {
     "de": "DED Army Captain",
     "en": "DED Army Captain",
@@ -10,5 +23,10 @@
     "ru": "DED Army Captain",
     "zh": "DED军队 上尉"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 199.86,
+  "sofFactionName": "army",
+  "soundID": 30,
   "volume": 101000.0
 }

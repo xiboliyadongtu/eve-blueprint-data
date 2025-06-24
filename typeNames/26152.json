@@ -1,5 +1,19 @@
 {
-  "typeID": 26152,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Ein verschlossener Lagerbehälter, der verschiedene Gegenstände der örtlichen Piraten zur Drogenherstellung enthält. Ein wenig Hacking könnte den Behälter öffnen.",
+    "en": "A locked storage bin containing various items used by the local pirates in their drug manufacturing. A bit of hacking might unlock it.",
+    "es": "Este silo cerrado a cal y canto contiene varios objetos que han usado los piratas locales en la fabricación de estupefacientes. Igual se puede hackear para abrirlo.",
+    "fr": "Lieu d'entreposage verrouillé contenant divers objets utilisés par les pirates de la région pour la fabrication de drogues. Essayez de le pirater pour le déverrouiller.",
+    "ja": "地元の海賊が薬物製造に使用する各種ツールがしまってある、ロックされた保管容器。ハッキングで開錠できるかもしれない。",
+    "ko": "잠금 장치가 채워진 저장고로 지역 해적들이 마약 생산에 사용하는 각종 재료가 보관되어 있습니다. 해킹을 통해 잠금을 해제할 수 있습니다.",
+    "ru": "Запертый контейнер, в котором хранятся разные предметы, используемые местными пиратами для производства своих наркотиков. Немного смекалки, и вы сможете его взломать.",
+    "zh": "一个装有各种物资的锁闭储藏舱，地方海盗用它来存放生产毒品的各种原料。用一些破解技术应该就够打开它。"
+  },
+  "graphicID": 1176,
+  "groupID": 1207,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Outbound Freight",
     "en": "Outbound Freight",
@@ -10,5 +24,9 @@
     "ru": "Outbound Freight",
     "zh": "外运货船"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericmetal",
   "volume": 27500.0
 }

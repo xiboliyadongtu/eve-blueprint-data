@@ -1,5 +1,21 @@
 {
-  "typeID": 21924,
+  "basePrice": 800.0,
+  "description": {
+    "de": "Kleine Projektilmunition. Diese Munition verwendet einen ähnlichen Plasmakern wie Hybridmunition. Allerdings ist sie in diesem Fall mit einer normalen Geschosshülle ummantelt.\n\n\n\n50% geringere optimale Reichweite.",
+    "en": "Small Projectile Ammo. This ammo uses a similar plasma containment core as hybrid charges except that it is mounted in a standard cannon shell.\r\n\r\n50% reduced optimal range.",
+    "es": "Munición de proyectiles de pequeño calibre. Esta munición utiliza un núcleo de contención de plasma similar al de las cargas híbridas, salvo que está montada en un proyectil de cañón estándar.\n\n\n\nAlcance óptimo reducido un 50 %.",
+    "fr": "Petite munition de projectile. L'enveloppe de confinement entourant le noyau de cette munition est en plasma, comme pour les charges hybrides, mais elle est placée dans un obus standard.\n\nRéduit de 50 % la portée optimale.",
+    "ja": "小型プロジェクタイル弾。この弾はハイブリッドチャージと同じくプラズマ封入コアを使用するが、それを入れる弾殻は一般的なキャノン砲のものを使う。最適射程距離が50％短縮。",
+    "ko": "소형 발사체 탄약입니다. 하이브리드탄에 탑재되는 플라즈마 차단 코어를 일반 포탄에 장착하였습니다. <br><br>최적사거리 50% 감소",
+    "ru": "Снаряды малого калибра. Внутри этих снарядов, на вид ничем не отличающихся от снарядов других типов, установлены системы сдерживания плазмы — такие же, как и в гибридных зарядах.\n\n\n\nСнижает оптимальную дальность действия на 50%.",
+    "zh": "小型射弹弹药。这种炮弹由类等离子体核和标准炮弹外壳构成。最佳射程减少50%。"
+  },
+  "graphicID": 1289,
+  "groupID": 83,
+  "iconID": 1289,
+  "marketGroupID": 989,
+  "mass": 0.01,
+  "metaGroupID": 4,
   "name": {
     "de": "Republic Fleet Phased Plasma S",
     "en": "Republic Fleet Phased Plasma S",
@@ -10,5 +26,8 @@
     "ru": "Republic Fleet Phased Plasma S",
     "zh": "共和舰队定相等离子弹 S"
   },
+  "portionSize": 100,
+  "published": true,
+  "variationParentTypeID": 184,
   "volume": 0.0025
 }

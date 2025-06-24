@@ -1,5 +1,19 @@
 {
-  "typeID": 31256,
+  "description": {
+    "de": "Diese Schiffsmodifikation wurde entworfen, um den Energiespeicherverbrauch eines Schiffes für ECM und ECM Burst Module zu verringern.",
+    "en": "This ship modification is designed to reduce a ship's capacitor need for ECM and ECM Burst modules.",
+    "es": "Esta modificación de nave está diseñada para reducir la necesidad del condensador de los módulos de contramedidas electrónicas y ráfaga ECM.",
+    "fr": "Cette modification de vaisseau est conçue pour réduire les besoins du capaciteur du vaisseau pour les modules CME et de salve CME.",
+    "ja": "ECMまたはECMバーストモジュールを起動する際に必要な船のキャパシタ消費が低減する。",
+    "ko": "리그 장착 시 ECM과 ECM 버스트 모듈 캐패시터 사용량이 감소합니다.",
+    "ru": "Эта модификация уменьшает потребление энергии конденсатора модулями РЭБ (ECM) и импульсными модулями РЭБ (Burst ECM).",
+    "zh": "这个飞船改装件用于减少ECM和ECM脉冲设备的电容器需求。"
+  },
+  "groupID": 786,
+  "iconID": 3199,
+  "marketGroupID": 1219,
+  "mass": 200.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Small Signal Disruption Amplifier II",
     "en": "Small Signal Disruption Amplifier II",
@@ -10,5 +24,9 @@
     "ru": "Small Signal Disruption Amplifier II",
     "zh": "小型信号干扰增效装置 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 100.0,
+  "variationParentTypeID": 31250,
   "volume": 5.0
 }

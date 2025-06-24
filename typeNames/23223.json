@@ -1,5 +1,16 @@
 {
-  "typeID": 23223,
+  "description": {
+    "de": "Eine Schranke. Nein, es ist keine Schlange.",
+    "en": "A barricade. No, it's not a snake.",
+    "es": "Una barricada. No, no es una serpiente.",
+    "fr": "Barricade. Ne la prenez pas pour un serpent...",
+    "ja": "バリケード。",
+    "ko": "바리케이드입니다. 뱀이 아니라.",
+    "ru": "Баррикада. Нет, это не змея.",
+    "zh": "一个路障。不，不是蛇。"
+  },
+  "graphicID": 2502,
+  "groupID": 226,
   "name": {
     "de": "Fortified Serpentis Barricade",
     "en": "Fortified Serpentis Barricade",
@@ -10,5 +21,9 @@
     "ru": "Fortified Serpentis Barricade",
     "zh": "强化的天蛇集团阻隔带"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 603.0,
+  "sofFactionName": "serpentis"
 }

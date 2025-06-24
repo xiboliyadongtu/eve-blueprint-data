@@ -1,5 +1,18 @@
 {
-  "typeID": 33001,
+  "basePrice": 250000.0,
+  "description": {
+    "de": "Skill zur Verstärkung von Ladar-Sensoren gegen feindliche elektronische Gegenmaßnahmen-Module. 4% erhöhte Sensorstärke des Ladars je Skillstufe.\n\nLadar-Sensoren finden sich in erster Linie auf den Schiffen von Minmatar und Angels.",
+    "en": "Skill at hardening Ladar Sensors against hostile Electronic Counter Measure modules. 4% improved Ladar Sensor Strength per skill level.\r\n\r\nLadar Sensors are primarily found on Minmatar and Angel ships.",
+    "es": "Habilidad para fortalecer los sensores lidar contra los módulos hostiles de contramedidas electrónicas. Mejora del 4 % de la intensidad de los sensores lidar por nivel de habilidad.\n\nPrincipalmente, los sensores lidar se encuentran en las naves minmatarianas y las de los Ángeles.",
+    "fr": "Compétence liée au renforcement des détecteurs ladar face aux modules de contremesures électroniques ennemis. Augmente de 4 % par niveau de compétence la puissance de détection ladar.\n\nLes détecteurs ladar sont monnaie courante sur les vaisseaux minmatar et angel.",
+    "ja": "光学センサーを強化して各種ECM兵器の攻撃に対抗するスキル。スキルレベル上昇ごとに光学センサー強度が4％上昇。\n\n光学センサーは主としてミンマター、エンジェルが艦船に採用している。",
+    "ko": "ECM 모듈에 대한 라이다 센서의 저항력을 향상하기 위한 스킬입니다. 매 레벨마다 라이다 센서 강도 4% 증가 <br><br>라이다 센서는 민마타 또는 엔젤 카르텔의 함선에 주로 탑재됩니다.",
+    "ru": "Навык повышения эффективности ладарных сенсоров в условиях воздействия РЭБ-модулей противника. За каждую степень освоения навыка: на 4% повышается эффективность ладарных систем.\n\n\n\nЛадарные сенсоры обычно применяются на кораблях Республики Минматар и «ангелов».",
+    "zh": "提高光雷达感应器应对ECM攻击能力的技能。每升一级，光雷达感应器强度提高4%。光雷达感应器多见于米玛塔尔和天使舰船。"
+  },
+  "groupID": 1213,
+  "iconID": 33,
+  "marketGroupID": 1748,
   "name": {
     "de": "Ladar Sensor Compensation",
     "en": "Ladar Sensor Compensation",
@@ -10,5 +23,7 @@
     "ru": "Повышение эффективности ладарных систем",
     "zh": "光雷达感应器补偿"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

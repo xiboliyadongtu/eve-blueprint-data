@@ -1,5 +1,17 @@
 {
-  "typeID": 35687,
+  "description": {
+    "de": "66,6% Bonus auf den MWD-Geschwindigkeitsbonus und Reduktion der MWD-Energiespeichernutzung\n\n66,6% Bonus auf den Trägheitsmodifikator des Schiffs",
+    "en": "66.6% bonus to MWD speed boost and reduction in MWD capacitor use\r\n66.6% bonus to ship inertia modifier",
+    "es": "66,6 % de bonificación al impulso de velocidad y reducción del uso del condensador del MMW.\n\n66,6 % de bonificación al modificador de inercia de la nave.",
+    "fr": "66,6 % de bonus à l'accélération du MPW et de réduction à la consommation du capaciteur du MPW\n\n66,6 % de bonus au modificateur d'inertie du vaisseau",
+    "ja": "MWDのスピードブースト、キャパシタ消費量が66.6％改善、艦船の慣性修正乗数が66.6％増加",
+    "ko": "마이크로 워프 드라이브 최대 속도 66.6% 증가<br>마이크로 워프 드라이브 캐패시터 사용량 66.6% 감소<br>관성 계수에 66.6% 보너스 부여",
+    "ru": "на 66,6% сокращается потребление энергии накопителя микроварп-ускорителями, а также повышается их эффективность по приросту скорости (при работе в <i>скоростном режиме</i>)  \n\nна 66,6% уменьшается инертность конструкции корабля",
+    "zh": "微型跃迁推进器速度增量提高66.6%，微型跃迁推进器电容消耗减少66.6%\n\n舰船惯性调整系数提高66.6%"
+  },
+  "groupID": 1306,
+  "iconID": 1042,
+  "mass": 100.0,
   "name": {
     "de": "Hecate-Antriebsmodus",
     "en": "Hecate Propulsion Mode",
@@ -10,5 +22,9 @@
     "ru": "Hecate Propulsion Mode",
     "zh": "赫卡特级高速模式"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 50.0,
   "volume": 5.0
 }

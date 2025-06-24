@@ -1,5 +1,18 @@
 {
-  "typeID": 22552,
+  "basePrice": 500000.0,
+  "description": {
+    "de": "Fortgeschrittene Fertigkeit zur Verstärkung der Bergbaufertigkeiten verbündeter Schiffe. Erhört die Stärke der Effekte von Bergbauvorarbeiterstrahlen um 10 % pro Skillstufe.",
+    "en": "Advanced proficiency at boosting the mining capabilities of allied ships. Increases the strength of Mining Foreman Burst effects by 10% per skill level.",
+    "es": "Habilidad avanzada para potenciar las capacidades de minería de las naves aliadas. Aumenta la intensidad de los efectos de estallido de capataz minero un 10 % por nivel de habilidad.",
+    "fr": "Maîtrise avancée de la projection minière dédiée à l'optimisation des capacités d'extraction des vaisseaux alliés. Augmente de 10 % par niveau la puissance des effets des salves de contremaîtrise minière.",
+    "ja": "味方艦船の採掘性能を向上させる高度な能力。スキルレベル上昇ごとに採掘支援バーストの効果強度が10%増加。",
+    "ko": "아군 함선의 채굴 성능을 향상하기 위한 상급 스킬입니다. 매 레벨마다 채광 버스트 효과 10% 증가",
+    "ru": "Глубинные познания в области повышения эффективности добычи ресурсов союзными кораблями. За каждую степень освоения навыка: на 10% повышается эффективность действия импульсов, генерируемых импульсными оптимизаторами добычи.",
+    "zh": "精通于增强所有友方舰船的采矿能力的高级技能。每升一级，开采先锋脉冲波的效果强度提高10%。"
+  },
+  "groupID": 258,
+  "iconID": 33,
+  "marketGroupID": 370,
   "name": {
     "de": "Mining Director",
     "en": "Mining Director",
@@ -10,5 +23,7 @@
     "ru": "Координация буровых флотов",
     "zh": "采矿管理技术"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

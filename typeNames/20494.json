@@ -1,5 +1,18 @@
 {
-  "typeID": 20494,
+  "basePrice": 125000.0,
+  "description": {
+    "de": "Grundlegende Fertigkeit zur Verstärkung der Panzerungen verbündeter Schiffe. Verleiht einen Bonus von 10 % pro Stufe auf die Dauer der Effekte von Panzerungkommandostrahlen.",
+    "en": "Basic proficiency at boosting the armor defenses of allied ships. Grants a 10% bonus to the duration of Armored Command Burst effects per level.",
+    "es": "Habilidad básica para potenciar las defensas de blindaje de las naves aliadas. Concede una bonificación del 10 % a la duración de los efectos del estallido de mando de blindaje por nivel.",
+    "fr": "Maîtrise basique de la projection blindée dédiée au renforcement des blindages défensifs des vaisseaux alliés. Augmente de 10 % par niveau la durée des effets des salves de commandement blindé.",
+    "ja": "味方艦船のアーマー防御力を向上させる基礎的な能力。レベル上昇ごとにアーマードコマンドバーストの持続時間が10%増加。",
+    "ko": "아군 함선의 장갑 성능을 향상하기 위한 스킬입니다. 매 레벨마다 장갑 버스트 지속시간 10% 증가",
+    "ru": "Основы повышения эффективности брони союзных кораблей. За каждую степень освоения навыка: на 10% повышается длительность действия импульсов, генерируемых импульсными оптимизаторами брони.",
+    "zh": "精通于增强所有友方舰船的装甲防御能力的基本技能。每升一级，装甲指挥脉冲波的效果持续时间增加10%。"
+  },
+  "groupID": 258,
+  "iconID": 33,
+  "marketGroupID": 370,
   "name": {
     "de": "Armored Command",
     "en": "Armored Command",
@@ -10,5 +23,7 @@
     "ru": "Оптимизация броневой защиты флотов",
     "zh": "装甲指挥"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

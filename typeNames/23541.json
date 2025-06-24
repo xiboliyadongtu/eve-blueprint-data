@@ -1,5 +1,17 @@
 {
-  "typeID": 23541,
+  "description": {
+    "de": "Kiste mit verschiedenen, nicht identifizierbaren Waren zweifelhaften Ursprungs.",
+    "en": "Crate of various unidentifiable goods of shady origin.",
+    "es": "Caja de varios bienes no identificables y de origen turbio.",
+    "fr": "Caisse de marchandises non identifiables d'origine douteuse.",
+    "ja": "正体不明の物資の数々。どこから運ばれてきたかも分からない。",
+    "ko": "출처를 알 수 없는 용도불명의 물건이 다양하게 든 상자입니다.",
+    "ru": "Контейнер с различными неопознанными товарами туманного происхождения.",
+    "zh": "装满了各种来历不明、无法识别的货物的箱子。"
+  },
+  "groupID": 526,
+  "iconID": 26,
+  "mass": 1000.0,
   "name": {
     "de": "Shady Goods",
     "en": "Shady Goods",
@@ -10,5 +22,7 @@
     "ru": "Shady Goods",
     "zh": "阴暗领土的货物"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 80.0
 }

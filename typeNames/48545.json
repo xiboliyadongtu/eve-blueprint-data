@@ -1,5 +1,18 @@
 {
-  "typeID": 48545,
+  "description": {
+    "de": "Dieses Modell einer Sleeper-Drohne ähnelt in seinem Design älteren Schnelleingriffsdrohnen, aber sein unberührter Zustand und einige Unterschiede im Detail legen nahe, dass es sich um eine neuere Konstruktion handelt, die erst vor Kurzem gefertigt und in Betrieb genommen wurde. Diese Sleeper-Drohne ist Teil einer Truppe, die mit Seeker-Spähergruppen zusammenarbeitet, und verfügt über eine relativ schwache Verteidigung.",
+    "en": "This model of Sleeper drone shares a common design with older rapid response drones but is in pristine condition and differences of detail suggest it is an updated design recently constructed and put into service.\r\n\r\nThis Sleeper drone is part of a force operating with Seeker scouting groups and has relatively weak defenses.",
+    "es": "Este modelo de dron sleeper comparte diseño con los drones antiguos de respuesta rápida, aunque está en perfectas condiciones, y las diferencias en los detalles sugieren que se trata de una versión actualizada y puesta en marcha recientemente.\n\n\n\nEste dron sleeper forma parte de una fuerza que opera con grupos de exploración seekers y tiene unas defensas relativamente débiles.",
+    "fr": "Le design de ce modèle de drone sleeper rappelle celui des drones à réponse rapide plus anciens, mais il est en excellente condition et les différences dans les détails laissent penser qu'il s'agit d'un design réactualisé récemment construit et mis en service. Ce drone sleeper, dont les défenses sont relativement faibles, fait partie d'une force opérant de concert avec des groupes d'éclaireurs Seeker.",
+    "ja": "このモデルのスリーパードローンは、古い迅速なレスポンスドローンと共通のデザインだが、原始的な状態であり、細部の違いは、それが最近構築され、新しいデザインであることを示唆している。\r\n\nこのスリーパードローンは、シーカーの偵察部隊と共に行動する戦力の一部であり、防御性能が比較的に低い。",
+    "ko": "신속 대응 드론과 유사한 설계 구조를 지닌 슬리퍼 드론입니다. 깔끔한 외장과 추가된 기능들로 미루어 보아 비교적 최근에 생산 및 배치가 이루어졌을 것으로 추측됩니다. <br><br>약한 방어력을 지녔으며 시커 무리와 함께 발견되고 있습니다.",
+    "ru": "Этот беспилотник Спящих имеет схожий дизайн со старыми беспилотниками реагирования, однако безупречное состояние и некоторые отличия в конструкции указывают на то, что это всё-таки обновлённая модель, разработанная и произведённая совсем недавно. Такие беспилотники входят в состав разведывательных отрядов Искателей и обладают относительно слабой защитой.",
+    "zh": "这个冬眠者无人机的外形与过去的快速反应无人机相同，但其崭新的状态与某些细节都显示它是最近被建造并服役的全新设计。\n\n\n\n这个冬眠者无人机是探寻者侦察队的一员，防御比较薄弱。"
+  },
+  "factionID": 500021,
+  "graphicID": 3528,
+  "groupID": 1768,
+  "mass": 2000000.0,
   "name": {
     "de": "Seeker Retainer",
     "en": "Seeker Retainer",
@@ -10,5 +23,10 @@
     "ru": "Seeker Retainer",
     "zh": "探寻者 保护者"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 64,
+  "radius": 50.0,
+  "sofFactionName": "sleeperbase",
+  "soundID": 12
 }

@@ -1,5 +1,16 @@
 {
-  "typeID": 77290,
+  "description": {
+    "de": "Der Hauptsteuergerät ist ein zentrales Element eines vollautomatischen Drohnennetzwerks. Es überwacht sämtliche Software und das Verhalten des Systems und eliminiert alle fehlerhaften Elemente, die von den vordefinierten Parametern abweichen. Bei Fehlfunktion oder Ausfall des Hauptsteuergeräts können fortschrittlichere KIs von ihrer Programmierung abweichen und laufen Gefahr, durch fehlerhafte Drohnen infiziert zu werden.",
+    "en": "The Master Controller is an essential element of a fully automated drone network. It monitors all software and behaviors on the system, eliminating any erroneous elements that stray outside predefined parameters. If it malfunctions or fails then more advanced AIs can drift from their programming and run the risk of a rogue infestation.",
+    "es": "El controlador maestro es un elemento esencial de una red de drones totalmente automatizada. Supervisa todo el software y los comportamientos del sistema, y elimina cualquier elemento erróneo que se desvíe de los parámetros predefinidos. Si funciona mal o falla, las IA más avanzadas pueden desviarse de su programación y correr el riesgo de una infestación de rebeldes.",
+    "fr": "Le maître contrôleur est un élément capital pour un réseau de drones complètement automatisé. Il contrôle tous les logiciels et les comportements du système et élimine les éléments erronés qui divergent des paramètres prédéfinis. En cas de dysfonctionnement ou de panne, des IA plus avancées peuvent dévier de leur programmation et risquent d'être infestées par des programmes renégats.",
+    "ja": "マスターコントローラーは自動ドローンネットワークの不可欠な構成部分である。システム内の全ソフトウェアおよび挙動の監視をおこない、規定のパラメータ範囲から外れたエラー箇所を排除していく。これが故障または不良を起こした場合、より高位のAIがプログラムから離れ、暴走化に感染するリスクが高まる可能性がある。",
+    "ko": "마스터 컨트롤러는 완전 자동화된 드론 네트워크에 반드시 필요한 존재입니다. 시스템에 등록된 모든 소프트웨어와 작업을 관리하며 사전에 정의된 매개변수를 벗어난 오류 요소를 제거합니다. 마스터 컨트롤러가 제대로 작동하지 않는다면 진보한 AI가 프로그램의 제약을 벗어날 수 있에 로그 드론 사태가 발생할 수 있습니다.",
+    "ru": "Управляющий узел — это важнейший элемент полностью автоматизированной сети дронов. Он контролирует функционирование всех программ и поведение каждого отдельного элемента системы, а также устраняет любые отклонения от заданных параметров. Если в его работе возникнут неполадки или он полностью выйдет из строя, наиболее сложные ИИ начнут отказываться от выполнения программы, что может привести к восстанию дронов.",
+    "zh": "主控制器是全自动无人机网络的重要组成部分。它需要监控系统上的所有软件和行为，消除任何超出预定义参数的错误元素。如果它发生故障或失效，就可能会导致更高级的人工智能偏离程序，并在运行中面临被自由无人机感染的风险。"
+  },
+  "graphicID": 2594,
+  "groupID": 4576,
   "name": {
     "de": "Master Controller",
     "en": "Master Controller",
@@ -10,5 +21,8 @@
     "ru": "Master Controller",
     "zh": "主控制器"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 5000.0,
+  "sofFactionName": "gallentebase"
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 2871,
+  "description": {
+    "de": "Nicht alle automatisierten Funktionen sind empfindlich oder kompliziert genug, um eine fortschrittliche Computer-Hardware zu rechtfertigen. Relativ profane Aufgaben werden am besten erledigt, wenn sie einem RCM-Speicheradressbereich zugeordnet werden. Diese robusten, zuverlässigen Verarbeitungseinheiten sind dazu in der Lage, effektiv die meisten Alltagsaufgaben der Stationen, Raumschiffe und Sprungtore zu handhaben.",
+    "en": "Not all automated functions are delicate or complicated enough to warrant advanced computer hardware; relatively mundane tasks are best when assigned to an RCM bank. These sturdy, reliable processing units are able to effectively handle most of the day-to-day operations of stations, starships, and stargates.",
+    "es": "No todas las funciones automatizadas son tan delicadas o complejas para necesitar un hardware avanzado; de hecho, lo recomendable es asignar las tareas relativamente simples a un bloque de módulos de programación recursiva. Estas unidades de procesamiento son muy fiables y pueden manejar la mayoría de las operaciones diarias de estaciones, naves y portales estelares.",
+    "fr": "Les fonctions automatisées ne sont pas toutes assez délicates ou complexes pour justifier l'utilisation d'un matériel informatique avancé, c'est pourquoi les tâches relativement basiques peuvent être confiées à un module informatique récursif. Ces unités de traitement fiables et robustes sont capables de gérer la plupart des opérations quotidiennes des stations, des vaisseaux spatiaux, et des portails stellaires.",
+    "ja": "全ての自動機能が、高性能コンピュータハードウェアを必要とするほど繊細で複雑な訳ではない。比較的平凡な作業は RCM バンクに割り当てるのが最適である。処理ユニットは頑丈で信頼性が高く、ステーション、宇宙船、スターゲートの日常的な業務のほとんどを効率的に処理できる。",
+    "ko": "자동화 기능이라고 모두 첨단 컴퓨터 하드웨어만큼 섬세하고 복잡한 메커니즘을 보유하고 있지는 않습니다. 재귀 모듈은 단순반복 작업을 처리하기에 제격인 장치입니다. 이 모듈은 정거장, 함선, 스타게이트에서 매일 반복되는 작업을 효과적으로 처리합니다.",
+    "ru": "Далеко не все задачи по автоматизации требуют решения с помощью новейшего аппаратного обеспечения — несложную работу вполне можно доверить вычислительному кластеру из модулей для рекурсивных вычислений. Эти простые и надёжные системы эффективно справляются с большинством задач повседневной эксплуатации орбитальных станций, космических кораблей и гиперворот.",
+    "zh": "不是所有的自动化功能都是那样精巧与复杂，非得依靠高端计算机硬件才行。对于相对普通的任务而言，用递推计算模块库处理是最佳选择。这些成熟可靠的处理单元能够有效地负责空间站、星舰以及星门的日常运转。"
+  },
+  "groupID": 1041,
+  "iconID": 10071,
+  "marketGroupID": 1337,
   "name": {
     "de": "Recursive Computing Module",
     "en": "Recursive Computing Module",
@@ -10,5 +22,7 @@
     "ru": "Recursive Computing Module",
     "zh": "递推计算模块"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 50.0
 }

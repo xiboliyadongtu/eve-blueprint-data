@@ -1,5 +1,75 @@
 {
-  "typeID": 11938,
+  "basePrice": 95000000.0,
+  "capacity": 600.0,
+  "description": {
+    "de": "Die imperiale Ausgabe der mächtigen Armageddon ist die verbesserte Version eines ganz gewöhnlichen Kriegsschiffs der Amarr und geht auf die am besten ausgebildeten Ingenieure und Architekten des Imperiums zurück. Ihre schwere Bewaffnung und die starke Frontpanzerung sind speziell dafür vorgesehen, während des Gefechts einen Keil in die Front zu treiben und Gerechtigkeit im Namen des Kaisers sprechen zu lassen..",
+    "en": "Designed and constructed by the most skilled starship engineers and architects of the Empire, the imperial issue of the mighty Armageddon class is an upgraded version of the most-used warship of the Amarr. Its heavy armaments and strong front are specially designed to crash into any battle like a juggernaut and deliver swift justice in the name of the Emperor.",
+    "es": "El modelo imperial de la poderosa clase Armageddon, diseñado y construido por los ingenieros y arquitectos de naves estelares más hábiles del Imperio, es una versión mejorada de la nave de guerra más usada por los amarrianos. Su armamento pesado y su resistente frontal están especialmente diseñados para irrumpir en cualquier batalla cual coloso e impartir justicia rápida en nombre del emperador.",
+    "fr": "Conçu et produit par les meilleurs ingénieurs et architectes d'astronefs de l'Empire, ce modèle impérial du puissant Armageddon est une version améliorée du vaisseau de guerre amarr le plus utilisé. Son armement lourd et sa proue renforcée ont été spécialement conçus pour faire des ravages au combat et pour faire régner la loi au nom de l'Empereur.",
+    "ja": "帝国最高の技術者によって設計建造された帝国版のアルマゲドン級は、アマーで最も広く使用されている戦艦の改良型である。重武装と頑丈な艦首は、いかなる戦場にもジャガーノートのごとく突撃し、皇帝の名において速やかに正義の鉄槌を振り下ろすための専用設計である。",
+    "ko": "제국에서 가장 뛰어난 과학자 및 엔지니어들을 동원하여 아마겟돈을 개량하여 개발한 제국 에디션 아마겟돈입니다. 강력한 무장과 단단한 선체를 이용하여 적 진열을 파괴하며 황제의 이름으로 적을 심판합니다.",
+    "ru": "Разработанный и сконструированный опытнейшими инженерами и конструкторами Амаррской Империи, «Армагеддон-имперский» — это модернизированная версия самого распространенного амаррского боевого корабля. Конструкторы наделили его возможностью нести тяжёлое вооружение и прочнейшую броню, дабы он без малейших сомнений входил на поле боя и нёс правосудие во имя Императора.",
+    "zh": "“末日沙场”级帝国型是艾玛最常用的军舰的升级版，由帝国内技术最娴熟的星舰工程师和建筑师设计并建造。它的重型装备和强大的正面装甲经过特别设计，使其能够像一股不可抗拒的钢铁洪流一般冲进任何战场，以皇帝的名义闪电般地做出裁决。"
+  },
+  "factionID": 500003,
+  "graphicID": 2240,
+  "groupID": 27,
+  "marketGroupID": 1620,
+  "mass": 97100000.0,
+  "masteries": {
+    "0": [
+      96,
+      65,
+      99,
+      133,
+      138,
+      150,
+      89,
+      93
+    ],
+    "1": [
+      96,
+      65,
+      99,
+      133,
+      138,
+      150,
+      89,
+      93
+    ],
+    "2": [
+      96,
+      65,
+      99,
+      133,
+      138,
+      150,
+      89,
+      93
+    ],
+    "3": [
+      96,
+      65,
+      99,
+      133,
+      138,
+      150,
+      89,
+      93
+    ],
+    "4": [
+      96,
+      65,
+      99,
+      133,
+      138,
+      117,
+      150,
+      89,
+      93
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Armageddon Imperial Issue",
     "en": "Armageddon Imperial Issue",
@@ -10,5 +80,96 @@
     "ru": "Armageddon Imperial Issue",
     "zh": "末日沙场级帝国型"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 250.0,
+  "sofFactionName": "imperial",
+  "soundID": 20061,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 5.0,
+        "bonusText": {
+          "de": "zusätzlicher Bonus auf HP der <a href=showinfo:3394>Verstärkten Schottwand</a>",
+          "en": "additional bonus to <a href=showinfo:3394>Reinforced Bulkhead</a> hitpoints",
+          "es": "de bonificación adicional a los puntos de vida del <a href=showinfo:3394>mamparo reforzado</a>.",
+          "fr": "de bonus supplémentaire aux points de vie de la <a href=showinfo:3394>cloison renforcée</a>",
+          "ja": "<a href=showinfo:3394>強化隔壁</a>HPがさらに増加",
+          "ko": "<a href=showinfo:3394>강화 격벽</a> 내구도 증가",
+          "ru": "дополнительный бонус к прочности <a href=showinfo:3394>укреплённой переборки</a>",
+          "zh": "<a href=showinfo:3394>强化舱隔壁</a>结构值加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der <a href=showinfo:3394>Panzerplatte</a>",
+          "en": "bonus to <a href=showinfo:3394>Armor Plate</a> hitpoints",
+          "es": "de bonificación a los puntos de vida de las <a href=showinfo:3394>placas de blindaje</a>.",
+          "fr": "de bonus aux points de vie du <a href=showinfo:3394>revêtement de blindage</a>",
+          "ja": "<a href=showinfo:3394>アーマープレート</a>HPが増加",
+          "ko": "<a href=showinfo:3394>장갑 플레이트</a> 내구도 증가",
+          "ru": "бонус к прочности <a href=showinfo:3394>бронеплиты</a>",
+          "zh": "<a href=showinfo:3394>装甲附甲板</a>装甲值加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 100.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der <a href=showinfo:3425>Schilderweiterung</a>",
+          "en": "bonus to <a href=showinfo:3425>Shield Extender</a> hitpoints",
+          "es": "de bonificación a los puntos de vida del <a href=showinfo:3425>extensor de escudo</a>.",
+          "fr": "de bonus aux points de vie de l'<a href=showinfo:3425>extenseur de bouclier</a>",
+          "ja": "<a href=showinfo:3425>シールドエクステンダー</a>HPが増加",
+          "ko": "<a href=showinfo:3425>실드 확장장치</a> 실드량 증가",
+          "ru": "бонус к прочности <a href=showinfo:3425>расширителя щитов</a>",
+          "zh": "<a href=showinfo:3425>护盾扩展装置</a>护盾值加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3339": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf die Feuerrate von <a href=showinfo:3309>großen Energiegeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3309>Large Energy Turret</a> rate of fire",
+            "es": "de bonificación a la cadencia de tiro de la <a href=showinfo:3309>torreta de energía grande</a>.",
+            "fr": "de bonus à la cadence de tir des <a href=showinfo:3309>grandes tourelles à énergie</a>",
+            "ja": "<a href=showinfo:3309>大型エネルギータレット</a>の発射間隔が短縮",
+            "ko": "<a href=showinfo:3309>대형 에너지 터렛</a> 연사속도 증가",
+            "ru": "повышается скорострельность <a href=showinfo:3309>больших лазерных орудий</a>",
+            "zh": "<a href=\"showinfo:3309\">大型能量炮台</a>射速加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Reduktion der Aktivierungskosten von <a href=showinfo:3309>großen Energiegeschütztürmen</a>",
+            "en": "reduction in <a href=showinfo:3309>Large Energy Turret</a> activation cost",
+            "es": "de reducción del coste de activación de la <a href=showinfo:3309>torreta de energía grande</a>.",
+            "fr": "de réduction du coût d'activation des <a href=showinfo:3309>grandes tourelles à énergie</a>",
+            "ja": "<a href=showinfo:3309>大型エネルギータレット</a>の起動コストが軽減",
+            "ko": "<a href=showinfo:3309>대형 에너지 터렛</a> 활성화 비용 감소",
+            "ru": "сокращается расход энергии при ведении огня из <a href=showinfo:3309>больших лазерных орудий</a>",
+            "zh": "<a href=\"showinfo:3309\">大型能量炮台</a>启动消耗减少"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 643,
   "volume": 470000.0
 }

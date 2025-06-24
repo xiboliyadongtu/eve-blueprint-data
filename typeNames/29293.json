@@ -1,5 +1,18 @@
 {
-  "typeID": 29293,
+  "capacity": 5625.0,
+  "description": {
+    "de": "Man trifft im Universum nicht selten auf Industrials, welche verschiedene Versorgungspunkte miteinander verbinden. Konvois verfügen meistens über eine bewaffnete Eskorte, es ist daher riskant, sie anzugreifen.",
+    "en": "Industrials are a common sight in the universe of EVE, connecting supply points to each other. Convoys usually have armed escorts, so attacking them is risky.",
+    "es": "Ver naves industriales conectando entre sí diferentes puntos de suministro es de lo más habitual en el universo de EVE. Los convoyes suelen tener escoltas armadas, por lo que atacarlos es arriesgado.",
+    "fr": "Les industries sont monnaie courante dans l'univers d'EVE, reliant ainsi les réserves entre elles. Les convois sont généralement fortement escortés et s'en prendre à eux est une entreprise risquée.",
+    "ja": "輸送艦は、EVEユニバースでは一般的に見られる存在で、補給ポイントの間を結んでいる。輸送船団は武装した護衛艦を従えていることが多いため、襲撃にはリスクが伴う。",
+    "ko": "보급로를 오가는 화물선의 모습은 우주에서 흔히 볼 수 있는 광경입니다. 통상적으로 무장한 호위함을 거느리고 있어 섣부른 공격은 위험합니다.",
+    "ru": "Промышленные корабли — обычное зрелище на торговых трассах вселенной EVE. Конвои обычно ходят с хорошо вооруженным эскортом, поэтому нападать на них довольно рискованно.",
+    "zh": "工业舰是EVE世界中最常见到的船只之一，贯穿于各个贸易和物资的枢纽之间。通常这些运输舰都有武装护航，所以攻击它们是一件非常危险的事。"
+  },
+  "graphicID": 309,
+  "groupID": 927,
+  "mass": 12500000.0,
   "name": {
     "de": "Republic Courier",
     "en": "Republic Courier",
@@ -10,5 +23,10 @@
     "ru": "Republic Courier",
     "zh": "共和快运舰"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 660.0,
+  "sofFactionName": "minmatarbase",
   "volume": 255000.0
 }

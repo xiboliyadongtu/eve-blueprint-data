@@ -1,5 +1,79 @@
 {
-  "typeID": 16227,
+  "basePrice": 40400000.0,
+  "capacity": 475.0,
+  "description": {
+    "de": "Die Ferox soll nicht nur wie eine Kampfmaschine aussehen, sondern auch so agieren und versetzt alle jene in Angst, die das Pech haben, in ihr Fadenkreuz zu geraten. Mit seinem Potenzial für starke Bewaffnung sowie seinen unglaublichen Fähigkeiten bei der elektronischen Kriegsführung eignet sich dieses vielseitige Kampfschiff für viele Szenarien.",
+    "en": "Designed as much to look like a killing machine as to be one, the Ferox will strike fear into the heart of anyone unlucky enough to get caught in its crosshairs. With the potential for sizable armament as well as tremendous electronic warfare capability, this versatile gunboat is at home in a great number of scenarios.",
+    "es": "Diseñada tanto para parecer una máquina de matar como para serlo, la Ferox infundirá terror a cualquiera con la mala suerte de cruzarse con ella. Con una notable capacidad armamentística y de guerra electrónica, esta versátil cañonera se adapta prácticamente a cualquier tipo de situación.",
+    "fr": "Conçu autant pour ressembler à une machine à tuer que pour en être une, le Ferox remplira d'effroi quiconque aura la malchance de se retrouver dans sa ligne de mire. Avec un potentiel d'armement considérable et d'incroyables capacités de guerre électronique, cette canonnière pleine de ressources est à l'aise dans un grand nombre de situations.",
+    "ja": "見た目を裏切らぬ殺人機械として設計されたフェロックスは、不幸にもその照準に捉えられた者の心臓を恐怖でわしづかみにする。火力艦としてはもちろん、電子戦艦としても恐るべき性能を発揮する汎用性の高い砲艦で、様々な状況になんなく対応する。",
+    "ko": "압도적인 외형과 그에 걸맞는 살상 능력을 보유한 페록스는 표적 함선들에게 견디기 힘든 공포를 심어주는 존재입니다. 대형 무장을 탑재할 수 있는 잠재력과 수준급 전자전 능력을 보유한 전천후 함선으로 다양한 전술적 역할을 수행할 수 있습니다.",
+    "ru": "Линейный крейсер типа «Ферокс» был спроектирован, чтобы выглядеть и функционировать как бескомпромиссная машина для убийства. Смертный ужас — вот что почувствует каждый, оказавшийся в его прицеле. «Фероксы» могут с успехом применяться для выполнения широкого спектра боевых задач, залогом чему служит высокая огневая мощь и отличная способность к ведению радиоэлектронной борьбы.",
+    "zh": "猛鲑级战舰有着“沙场绞肉机”般的外观，给任何不幸落入它瞄准器的猎物带去恐怖和死亡。充足的武器装备以及惊人的电子战性能使这种全面型炮舰成为战争中不可或缺的角色。"
+  },
+  "factionID": 500001,
+  "graphicID": 2382,
+  "groupID": 419,
+  "marketGroupID": 471,
+  "mass": 14250000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      68,
+      150,
+      139,
+      164,
+      85,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      68,
+      150,
+      139,
+      164,
+      85,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      68,
+      150,
+      139,
+      164,
+      85,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      68,
+      150,
+      139,
+      164,
+      85,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      68,
+      150,
+      139,
+      109,
+      164,
+      85,
+      118,
+      152,
+      153,
+      154,
+      94
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Ferox",
     "en": "Ferox",
@@ -9,6 +83,94 @@
     "ko": "페록스",
     "ru": "Ferox",
     "zh": "猛鲑级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 215.0,
+  "sofFactionName": "caldaribase",
+  "soundID": 20068,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Kann ein <a href=showinfo:3348>Kommandostrahl</a>-Modul verwenden",
+          "en": "Can use one <a href=showinfo:3348>Command Burst</a> module",
+          "es": "Es posible equipar un módulo de <a href=showinfo:3348>estallido de mando</a>.",
+          "fr": "Peut utiliser une <a href=showinfo:3348>salve de commandement</a>.",
+          "ja": "<a href=showinfo:3348>コマンドバースト</a>モジュールは1個使用可能です",
+          "ko": "한 개의 <a href=showinfo:3348>커맨드 버스트</a> 모듈만 사용 가능",
+          "ru": "Корабли этого типа могут включать один <a href=showinfo:3348>импульсный оптимизатор</a>",
+          "zh": "可以装配一个<a href=showinfo:3348>指挥脉冲波</a>装备"
+        },
+        "importance": 1
+      },
+      {
+        "bonus": 25,
+        "bonusText": {
+          "de": "Bonus auf die optimale Reichweite und den Präzisionsabfall von <a href=showinfo:3304>mittelgroßen Hybridgeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:3304>Medium Hybrid Turret</a> optimal range and falloff",
+          "es": "de bonificación a los alcances óptimo y efectivo de la <a href=showinfo:3304>torreta híbrida mediana</a>.",
+          "fr": "de bonus à la portée optimale et à la perte de la <a href=showinfo:3304>tourelle hybride intermédiaire</a>",
+          "ja": "<a href=showinfo:3304>中型ハイブリッドタレット</a>の最適射程距離および精度低下範囲が拡大",
+          "ko": "<a href=showinfo:3304>중형 하이브리드 터렛</a> 최적사거리 및 유효사거리 증가",
+          "ru": "увеличивается оптимальная и добавочная дальность ведения огня из <a href=showinfo:3304>средних гибридных орудий</a>",
+          "zh": "<a href=showinfo:3304>中型混合炮台</a>最佳射程和失准范围加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonus": 50,
+        "bonusText": {
+          "de": "Bonus auf die Reichweite des Wirkungsbereichs von <a href=showinfo:3348>Kommandostrahlen</a>",
+          "en": "bonus to <a href=showinfo:3348>Command Burst</a> area of effect range",
+          "es": "de bonificación al alcance del radio de acción del <a href=showinfo:3348>estallido de mando</a>.",
+          "fr": "de bonus à la portée de l'effet de zone des <a href=showinfo:3348>salves de commandement</a>.",
+          "ja": "<a href=showinfo:3348>コマンドバースト</a>効果範囲にボーナス",
+          "ko": "<a href=showinfo:3348>커맨드 버스트</a> 효과 반경 증가",
+          "ru": "увеличивается радиус импульсов, генерируемых <a href=showinfo:3348>импульсными оптимизаторами</a>",
+          "zh": "<a href=showinfo:3348>指挥脉冲波</a>效果范围加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "33096": [
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3304>mittelgroßen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3304>Medium Hybrid Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3304>torreta híbrida mediana</a>.",
+            "fr": "bonus aux dégâts de la <a href=showinfo:3304>tourelle hybride intermédiaire</a>",
+            "ja": "<a href=showinfo:3304>中型ハイブリッドタレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3304>중형 하이브리드 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон боеприпасов <a href=showinfo:3304>средних гибридных орудий</a>",
+            "zh": "<a href=showinfo:3304>中型混合炮台</a>伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf die optimale Reichweite von <a href=showinfo:3304>mittelgroßen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3304>Medium Hybrid Turret</a> optimal range",
+            "es": "de bonificación al alcance óptimo de la <a href=showinfo:3304>torreta híbrida mediana</a>.",
+            "fr": "de bonus à la portée optimale des <a href=showinfo:3304>tourelles hybrides intermédiaires</a>",
+            "ja": "<a href=showinfo:3304>中型ハイブリッドタレット</a>の最適射程距離が拡大",
+            "ko": "<a href=showinfo:3304>중형 하이브리드 터렛</a> 최적사거리 증가",
+            "ru": "увеличивается оптимальная дальность ведения огня из <a href=showinfo:3304>средних гибридных орудий</a>",
+            "zh": "<a href=\"showinfo:3304\">中型混合炮台</a>最佳射程加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 252000.0
 }

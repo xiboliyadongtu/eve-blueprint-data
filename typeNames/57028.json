@@ -1,5 +1,20 @@
 {
-  "typeID": 57028,
+  "basePrice": 2000.0,
+  "description": {
+    "de": "Metaliminale unbeständige Eisstürme sind voller Felder mit Eis und gefrorenem Material, das unermessliche Reichtümer beinhalten kann. Im unbeständigen Eis solcher Felder wurden alle möglichen neuartigen und einzigartigen Ressourcen gefunden, darunter auch Gegenstände, die offenbar von anderen Reisenden im Weltall verloren wurden. Aus brüchigen unbeständigen Eiserzen wurden die wertvollsten Materialien extrahiert, wobei das Eis im Licht der Sternenstrahlung anfängt, abzubröseln. Schnelle Arbeiter finden in diesen gefrorenen Fragmenten noch viel wertvolles Material, vielleicht sogar ungewöhnliche Bergungsgegenstände.",
+    "en": "Metaliminal volatile ice storms are filled with fields of ice and frozen material that may hold immense riches. All manner of novel and unique resources have been found to be trapped in the volatile ices of such fields, including items apparently lost by other travelers in space\r\n\r\nFriable volatile ice ores are those where the most valuable materials have been extracted, with the ice itself beginning to crumble in the glare of stellar radiation. Quick workers will still find plenty of valuable material in these frozen fragments, perhaps including unusual salvage items.",
+    "es": "Las tormentas de hielo volátil metaliminales están llenas de campos de hielo y material congelado que pueden contener inmensas riquezas. Se ha encontrado todo tipo de recursos nuevos y únicos atrapados en los hielos volátiles de dichos campos, incluidos objetos aparentemente perdidos por otros viajeros espaciales.\n\nLas menas de hielo volátil quebradizo son las que más materiales valiosos han proporcionado, ya que el propio hielo empieza a deshacerse cuando se expone al brillo de la radiación estelar. Los trabajadores rápidos encontrarán un montón de materiales valiosos en estos fragmentos congelados, puede que hasta encuentren objetos peculiares.",
+    "fr": "Les tempêtes métaliminales de glace volatile sont remplies de champs de glace et de matières gelées pouvant renfermer des richesses immenses. Tous les genres de ressources inhabituelles et uniques ont été trouvés piégés dans les glaces volatiles de ce type de champs, parmi lesquels des objets apparemment perdus dans l'espace par d'autres voyageurs. Les minerais de glace volatile friable sont ceux dont les matériaux de plus grande valeur ont été extraits, la glace elle-même commençant à se fissurer sous l'effet des radiations stellaires. Les travailleurs réactifs trouveront malgré tout de nombreux matériaux de valeur dans ces fragments gelés, dont peut-être des objets inhabituels à récupérer.",
+    "ja": "メタリミナルの揮発性アイスストームには、アイスと凍結資源のフィールドが多くあり、莫大な価値を秘めている可能性がある。そうしたフィールドの揮発性アイスの中には、宇宙空間で旅行者が紛失したアイテムなど、あらゆる種類の斬新でユニークな資源が閉じ込められていることがある。\n\n\n\n脆い揮発性アイス鉱石は、最も価値の高い物質が取り去られたものであり、太陽放射を浴びて氷自体が崩れ始めている。迅速に作業すれば、この凍結した破片から、珍しいサルベージアイテムなど、貴重な資源が数多く見つかるはずである。",
+    "ko": "메타경계성 얼음 폭풍은 높은 경제적 가치를 지닌 아이스 지대로 각종 희귀 재료를 품고 있습니다. 여행자들이 잃어버린 물건, 각종 신소재, 그리고 희귀 자원이 다량 묻혀 있습니다.<br><br>취약한 아이스는 이미 대부분의 자원이 추출된 광석 유형으로 항성 복사 에너지로 인해 곧 소멸될 예정입니다. 숙련된 광부의 경우 얼음 속에서 값비싼 재료 또는 아이템을 획득할 수 있습니다.",
+    "ru": "Внутри нестабильных металиминальных ледяных бурь находятся ледяные поля и замороженная материя, которые могут содержать несметные богатства. Оказалось, что в ледяную ловушку попадают самые разные необычные и даже уникальные ресурсы, а также предметы, потерянные космическими путешественниками. Рыхлая нестабильная ледяная руда содержит наибольшее количество ценных материалов, при этом сам лёд начинает рассыпаться под воздействием звёздной радиации. Однако если работать быстро, в этих кусках льда можно обнаружить множество ценных материалов. Иногда в них даже встречаются различные ценные находки.",
+    "zh": "金属极限不稳定的冰风暴中充斥着冰带和被冻住的材料，其中可能蕴藏着巨大财富。这种不稳定的冰带中可能存在所有已知的常见和特有资源，甚至包括其他旅行者在太空中丢失的物品。\n\n\n\n这里最有价值的材料都是从易碎的不稳定冰矿石中提取出来的，冰本身在宇宙辐射的作用下开始崩坏。如果手脚够快，就可以在这些冰冻的残片中找到大量珍贵材料，甚至还可能有不寻常的打捞物品。"
+  },
+  "graphicID": 20525,
+  "groupID": 2022,
+  "iconID": 2554,
+  "mass": 1e+35,
+  "metaGroupID": 19,
   "name": {
     "de": "Friable Volatile Ice",
     "en": "Friable Volatile Ice",
@@ -10,5 +25,8 @@
     "ru": "Friable Volatile Ice",
     "zh": "易碎的不稳定冰体"
   },
+  "portionSize": 100,
+  "published": false,
+  "sofFactionName": "blue",
   "volume": 1000.0
 }

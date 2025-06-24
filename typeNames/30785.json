@@ -1,5 +1,18 @@
 {
-  "typeID": 30785,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Es spielt jetzt eigentlich gar keine Rolle mehr, wessen Schiff das hier ursprünglich einmal war. Wichtig ist, dass sich Dr. Castilles Daten möglicherweise noch darin befinden.",
+    "en": "It doesn't really matter whose ship this was, now. What matters is that Dr. Castille's data may be still be inside.",
+    "es": "No importa de quién fuera esta nave. Lo que importa es que los datos de la Dra. Castille podrían estar dentro todavía.",
+    "fr": "Peu importe à qui pouvait bien appartenir ce vaisseau. Ce qui importe en revanche, c'est qu'il pourrait bien contenir les données du Dr Castille.",
+    "ja": "それが誰の船だったかは、今は問題ではない。カスティーユ博士のデータがまだ内部にあるかもしれないということが重要なのだ。",
+    "ko": "누구의 함선이었을지는 이제 더이상 중요하지 않습니다. 중요한 단 한가지는 캐스틸 박사의 데이터가 함선 잔해에 남아있을 수 있다는 것입니다.",
+    "ru": "Теперь уже не имеет никакого значения, чей это был корабль. Важно то, что данные доктора Castille всё еще могут сохраняться внутри.",
+    "zh": "这艘船的主人是谁现在已经不重要了。重要的是卡斯蒂勒博士的数据可能还在里面。"
+  },
+  "graphicID": 3115,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Destroyed Ship",
     "en": "Destroyed Ship",
@@ -10,5 +23,9 @@
     "ru": "Destroyed Ship",
     "zh": "摧毁的舰船"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

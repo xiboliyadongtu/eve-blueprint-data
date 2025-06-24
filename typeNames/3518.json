@@ -1,5 +1,84 @@
 {
-  "typeID": 3518,
+  "basePrice": 116100000.0,
+  "capacity": 550.0,
+  "description": {
+    "de": "Die Vangel ist ein schwerer Angriffskreuzer, der exklusiv als Belohnung für das 9. Allianzturnier in Auftrag gegeben wurde. Wie ihr kleineres Schwesterschiff, die Malice, verfügt sie über verbesserte Energie-Destabilisierungssysteme. Obwohl sie primär als Kampfschiff für einzelne Piloten gedacht war, machen sie die großen Energiespeichervorräte sowie die erstklassige Panzerung als Teil einer kleinen Flotte nicht minder effektiv. Ein geschmeidiger, tödlicher Triumph von Form und Funktionalität.",
+    "en": "The Vangel is a heavy assault cruiser design exclusively commissioned as a reward in the ninth Alliance Tournament. Like its smaller sibling the Malice, it possesses greatly enhanced energy destabilization systems. Though it was primarily conceived as a combat vessel for the solitary pilot, the Vangel‘s great stores of capacitor power and top-of-the-line armor plating make it no less effective in small fleets. A sleek, deadly triumph of both form and function.",
+    "es": "La Vangel es un crucero de asalto pesado que se encargó exclusivamente como recompensa en el IX Torneo de Alianzas. Igual que su hermana pequeña Malice, posee sistemas de desestabilización de energía muy mejorados. Aunque originalmente se concibió como nave de combate para pilotos solitarios, sus grandes reservas de potencia de condensador y su blindaje de última generación hacen que también funcione muy bien en flotas pequeñas. Una combinación de forma y función que la convierte en una nave de éxito elegante y mortal.",
+    "fr": "Le Vangel est un croiseur d'assaut lourd conçu spécialement en vue d'être offert en guise de récompense lors du neuvième Tournoi des alliances. Comme son homologue plus petit, le Malice, il présente des systèmes de déstabilisation d'énergie améliorés. Bien qu'il devait initialement remplir les fonctions de vaisseau de combat solitaire, le Vangel possède également un capaciteur important et un revêtement de blindage haut de gamme qui le rendent tout aussi efficace dans de petites flottes. La combinaison parfaite entre esthétique et efficacité, en somme.",
+    "ja": "ヴァンジェルは第9回アライアンストーナメントの賞品として贈呈された、限定生産モデルの強襲型巡洋艦である。弟分のマライス同様、エネルギーディスタビリゼーションシステムが大幅に強化されている。ヴァンジェルはもっぱらソロパイロット向けの戦闘艦という印象があるが、大容量のキャパシタと最高級のアーマーにより、小規模フリートでもいかんなくその性能を発揮する。その姿においても性能においても、無駄のない恐るべき傑作艦である。",
+    "ko": "제9회 얼라이언스 토너먼트의 보상으로 지급된 어썰트 크루저입니다. 맬리스급과 같이 에너지 불안정화 시스템이 탑재되어 있습니다. 본래 단일 전투용 기체로 설계되었지만 대용량 캐패시터와 최첨단 장갑 플레이팅을 바탕으로 소규모 함대전에서도 뛰어난 활약을 보입니다. 외형 그리고 성능, 모든 부분에서 감탄이 나오는 기종입니다.",
+    "ru": "Тяжёлые ударные крейсеры типа «Вангел» вручались в качестве призов победителям 9-го «Турнира альянсов». Подобно «Малисам», своим младшим братьям, они оснащены мощнейшими нейтрализаторами накопленного заряда. Изначально он задумывался как боевой корабль для пилотов-одиночек; тем не менее «Вангелы» могут эффективно использоваться в составе малых флотов благодаря большой ёмкости накопителя и первоклассной броне. «Вангел» — это невероятно изящный и одновременно смертельно опасный корабль.",
+    "zh": "传道者级是一艘重型突击巡洋舰，经过特别设计，专门作为第九届联盟锦标赛的奖品。传道者级拥有极大增强过的能量扰乱系统，与它的小兄弟恶意级类似。传道者级最初的设计构想是为那些独来独往的飞行员打造一艘战斗舰船，不过它那海量的电容以及顶级的装甲板使得它在小型舰队中同样可以发挥重要作用。华丽的外表加上致命的武器，该船是外形与内功兼备的典范。"
+  },
+  "factionID": 500003,
+  "graphicID": 10951,
+  "groupID": 358,
+  "marketGroupID": 1621,
+  "mass": 11890000.0,
+  "masteries": {
+    "0": [
+      96,
+      97,
+      99,
+      165,
+      76,
+      117,
+      150,
+      89,
+      93,
+      94
+    ],
+    "1": [
+      96,
+      97,
+      99,
+      165,
+      76,
+      117,
+      150,
+      89,
+      93,
+      94
+    ],
+    "2": [
+      96,
+      97,
+      99,
+      165,
+      76,
+      117,
+      150,
+      89,
+      93,
+      94
+    ],
+    "3": [
+      96,
+      97,
+      99,
+      165,
+      76,
+      117,
+      150,
+      89,
+      93,
+      94
+    ],
+    "4": [
+      96,
+      97,
+      99,
+      165,
+      76,
+      117,
+      150,
+      89,
+      93,
+      94
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Vangel",
     "en": "Vangel",
@@ -9,6 +88,124 @@
     "ko": "반젤",
     "ru": "Vangel",
     "zh": "传道者级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 108.0,
+  "sofFactionName": "tournament-ix",
+  "soundID": 20063,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Kann <a href=showinfo:47254>Angriffsschadensregulierer</a> ausrüsten",
+          "en": "Can fit <a href=showinfo:47254>Assault Damage Controls</a>",
+          "es": "Es posible equipar <a href=showinfo:47254>controles de daños por asalto</a>.",
+          "fr": "Peut être équipé des <a href=showinfo:47254>contrôles des dégâts d'assaut</a>",
+          "ja": "<a href=showinfo:47254>アサルトダメージ制御</a>を装備可能",
+          "ko": "<a href=showinfo:47254>어썰트 데미지 컨트롤</a> 장착가능",
+          "ru": "Позволяет установить <a href=showinfo:47254>ударные модули боевой живучести</a>",
+          "zh": "可以装配<a href=showinfo:47254>突击损伤控制</a>装备"
+        },
+        "importance": 3
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Bonus auf die Feuerrate von schnellen <a href=showinfo:3321>leichten Lenkwaffenwerfern</a>, <a href=showinfo:3324>schweren Lenkwaffenwerfern</a> und <a href=showinfo:25719>schweren Angriffslenkwaffenwerfern</a>",
+          "en": "bonus to Rapid <a href=showinfo:3321>Light Missile</a>, <a href=showinfo:3324>Heavy Missile</a> and <a href=showinfo:25719>Heavy Assault Missile</a> Launcher rate of fire",
+          "es": "de bonificación a la cadencia de tiro rápida de los <a href=showinfo:3321>lanzamisiles ligeros</a>, <a href=showinfo:3324>lanzamisiles pesados</a> y <a href=showinfo:25719>lanzamisiles de asalto pesados</a>.",
+          "fr": "de bonus à la cadence de tir des <a href=showinfo:3321>lance-missiles légers</a>, <a href=showinfo:3324>lance-missiles lourds</a> et <a href=showinfo:25719>lance-missiles d'assaut lourds</a> rapides",
+          "ja": "高速<a href=showinfo:3321>ライトミサイル</a>・<a href=showinfo:3324>ヘビーミサイル</a>・<a href=showinfo:25719>ヘビーアサルトミサイル</a>ランチャーの発射間隔が短縮",
+          "ko": "급속 <a href=showinfo:3321>라이트 미사일</a>, <a href=showinfo:3324>헤비 미사일</a>, <a href=showinfo:25719>헤비 어썰트 미사일</a> 런처 연사속도 증가",
+          "ru": "повышается скорострельность скорострельных ПУ <a href=showinfo:3321>лёгких ракет</a>, ПУ <a href=showinfo:25719>тяжёлых штурмовых ракет</a>, ПУ <a href=showinfo:3324>тяжёлых ракет</a>",
+          "zh": "<a href=\"showinfo:3324\">重型导弹发射器</a> 、<a href=\"showinfo:25719\">重型攻击导弹发射器</a>和<a href=\"showinfo:3321\">轻型快速导弹发射器</a>射速加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Bonus auf die Leistung von <a href=showinfo:3393>Panzerungsreparatursystemen</a>",
+          "en": "bonus to <a href=showinfo:3393>Armor Repairer</a> amount",
+          "es": "de bonificación a la eficiencia de los <a href=showinfo:3393>reparadores de blindaje</a>.",
+          "fr": "de bonus au montant des <a href=showinfo:3393>réparateurs de blindage</a>",
+          "ja": "<a href=showinfo:3393>アーマーリペアラ</a>のリペア量が増加",
+          "ko": "<a href=showinfo:3393>장갑수리 장치</a> 수리량 증가",
+          "ru": "повышается производительность <a href=showinfo:3393>установок ремонта брони</a>",
+          "zh": "<a href=\"showinfo:3393\">装甲维修器</a>维修量加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3335": [
+        {
+          "bonus": 4.0,
+          "bonusText": {
+            "de": "Bonus auf alle Panzerungsresistenzen",
+            "en": "bonus to all armor resistances",
+            "es": "de bonificación a todas las resistencias de blindaje.",
+            "fr": "de bonus à toutes les résistances du blindage",
+            "ja": "全てのアーマーレジスタンスが増加",
+            "ko": "모든 장갑 저항력 증가",
+            "ru": "повышается сопротивляемость брони корабля всем видам воздействия",
+            "zh": "装甲抗性加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die Präzisionsabfallreichweite von <a href=showinfo:3423>Nosferatu-</a> und <a href=showinfo:3423>Energieneutralisierer</a>-Modulen",
+            "en": "bonus to <a href=showinfo:3423>Energy Nosferatu</a> and <a href=showinfo:3423>Energy Neutralizer</a> falloff range",
+            "es": "de bonificación al alcance efectivo del <a href=showinfo:3423>nosferatu de energía</a> y el <a href=showinfo:3423>neutralizador energético</a>.",
+            "fr": "de bonus à la perte du <a href=showinfo:3423>nosferatu à énergie</a> et du <a href=showinfo:3423>neutraliseur d'énergie</a>",
+            "ja": "<a href=showinfo:3423>エネルギーノスフェラトゥ</a>および<a href=showinfo:3423>エネルギーニュートライザー</a>の精度低下範囲が改善",
+            "ko": "<a href=showinfo:3423>에너지 노스페라투</a> 및 <a href=showinfo:3423>에너지 뉴트럴라이저</a> 유효사거리 증가",
+            "ru": "увеличивается добавочная дальность действия <a href=showinfo:3423>дистанционных нейтрализаторов заряда</a> и <a href=showinfo:3423>устройств паразитной подзарядки накопителя</a>",
+            "zh": "<a href=showinfo:3423>掠能器</a>和<a href=showinfo:3423>能量中和器</a>失准范围加成"
+          },
+          "importance": 4,
+          "unitID": 105
+        },
+        {
+          "bonus": 20.0,
+          "bonusText": {
+            "de": "Bonus auf die Transfermenge von <a href=showinfo:3423>Nosferatu-</a> und <a href=showinfo:3423>Energieneutralisierer</a>-Modulen",
+            "en": "bonus to <a href=showinfo:3423>Energy Nosferatu</a> and <a href=showinfo:3423>Energy Neutralizer</a> drain amount",
+            "es": "de bonificación a la cantidad drenada por el <a href=showinfo:3423>nosferatu de energía</a> y el <a href=showinfo:3423>neutralizador energético</a>.",
+            "fr": "de bonus à la quantité d'énergie récupérée par le <a href=showinfo:3423>Nosferatu à énergie</a> et le <a href=showinfo:3423>neutraliseur d'énergie</a>",
+            "ja": "<a href=showinfo:3423>エネルギーノスフェラトゥ</a>および<a href=showinfo:3423>エネルギーニュートライザー</a>の消費量が改善",
+            "ko": "<a href=showinfo:3423>에너지 노스페라투</a> 및 <a href=showinfo:3423>에너지 뉴트럴라이저</a> 흡수량 증가",
+            "ru": "увеличивается пропускная способность <a href=showinfo:3423>устройств паразитной подзарядки накопителя</a> и <a href=showinfo:3423>дистанционных нейтрализаторов заряда</a>",
+            "zh": "<a href=showinfo:3423>掠能器</a>和<a href=showinfo:3423>能量中和器</a>吸取量加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 20.0,
+          "bonusText": {
+            "de": "Bonus auf die optimale Reichweite von <a href=showinfo:3423>Nosferatu-</a> und <a href=showinfo:3423>Energieneutralisierer</a>-Modulen",
+            "en": "bonus to <a href=showinfo:3423>Energy Nosferatu</a> and <a href=showinfo:3423>Energy Neutralizer</a> optimal range",
+            "es": "de bonificación al alcance óptimo del <a href=showinfo:3423>nosferatu de energía</a> y el <a href=showinfo:3423>neutralizador energético</a>.",
+            "fr": "de bonus à la portée optimale du <a href=showinfo:3423>nosferatu à énergie</a> et du <a href=showinfo:3423>neutraliseur d'énergie</a>",
+            "ja": "<a href=showinfo:3423>エネルギーノスフェラトゥ</a>および<a href=showinfo:3423>エネルギーニュートライザー</a>の最適射程距離が拡大",
+            "ko": "<a href=showinfo:3423>에너지 노스페라투</a> 및 <a href=showinfo:3423>에너지 뉴트럴라이저</a> 최적사거리 증가",
+            "ru": "увеличивается оптимальная дальность действия <a href=showinfo:3423>дистанционных нейтрализаторов заряда</a> и <a href=showinfo:3423>устройств паразитной подзарядки накопителя</a>",
+            "zh": "<a href=showinfo:3423>掠能器</a>和<a href=showinfo:3423>能量中和器</a>最佳射程加成"
+          },
+          "importance": 3,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 118000.0
 }

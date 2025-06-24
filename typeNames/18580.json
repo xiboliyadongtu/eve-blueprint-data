@@ -1,5 +1,18 @@
 {
-  "typeID": 18580,
+  "basePrice": 125000000.0,
+  "description": {
+    "de": "Fertigkeit zur Organisation und Verwaltung von extrem groß angelegten Marktabläufen. Jede Skillstufe erhöht die Grenze für aktive Aufträge um 32.",
+    "en": "Ability to organize and manage ultra large-scale market operations. Each level raises the limit of active orders by 32.",
+    "es": "Capacidad de organizar y gestionar operaciones de mercado a gran escala. Cada nivel aumenta el límite de pedidos activos en 32.",
+    "fr": "Capacité à organiser et à gérer des opérations commerciales à très grande échelle. Chaque niveau augmente de 32 la limite des ordres actifs.",
+    "ja": "超大規模なマーケット活動を組織し、運営する能力。レベル上昇ごとに有効オーダー数の上限が32増加。",
+    "ko": "초대규모 거래에 대한 관리 및 진행이 가능합니다. <br><br>매 레벨마다 최대 주문 개수 + 32",
+    "ru": "Способность организовывать гигантские операции в торговой системе. Освоение этого навыка позволит пилоту повысить количество ордеров, поддерживаемых открытыми (на 32 за каждую степень освоения навыка).",
+    "zh": "组织并管理超大规模市场运营的技能。每升一级，有效订单数上限加32。"
+  },
+  "groupID": 274,
+  "iconID": 33,
+  "marketGroupID": 378,
   "name": {
     "de": "Tycoon",
     "en": "Tycoon",
@@ -10,5 +23,8 @@
     "ru": "Транснациональная торговля",
     "zh": "商业巨头"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

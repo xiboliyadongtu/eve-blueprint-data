@@ -1,5 +1,18 @@
 {
-  "typeID": 3410,
+  "basePrice": 500000.0,
+  "description": {
+    "de": "Fertigkeit, den Inhalt astrogeologischer Objekte analysieren zu können, mit der Absicht diese abzubauen.\r\n\r\n5% Bonus auf den Ertrag von Bergbautürmen je Skillstufe.",
+    "en": "Skill at analyzing the content of celestial objects with the intent of mining them. 5% bonus to mining turret yield per skill level.",
+    "es": "Habilidad para analizar el contenido de cuerpos celestes con la intención de explotarlos. 5 % de bonificación al rendimiento de las torretas mineras por nivel de habilidad.",
+    "fr": "Compétence liée à l'analyse du contenu d'objets célestes dans l'intention de procéder à son exploitation. Augmente de 5 % par niveau de compétence le rendement des tourelles d'extraction.",
+    "ja": "採掘する天体の含有成分を分析するスキル。スキルレベル上昇ごとに採掘用タレットの採掘量に 5% のボーナス。",
+    "ko": "채굴 목적으로 천체를 분석하는 스킬입니다. 매 레벨마다 채굴 터렛 산출량 5% 증가",
+    "ru": "Навык анализа содержимого космических тел на предмет содержания руды. За каждую степень освоения навыка: на 5% повышается производительность буровых лазеров.",
+    "zh": "分析天体所含物质以便进行开采的技能。每升一级，采矿器的开采量增加5%。"
+  },
+  "groupID": 1218,
+  "iconID": 33,
+  "marketGroupID": 1323,
   "name": {
     "de": "Astrogeology",
     "en": "Astrogeology",
@@ -10,5 +23,7 @@
     "ru": "Астрогеология",
     "zh": "太空地质学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

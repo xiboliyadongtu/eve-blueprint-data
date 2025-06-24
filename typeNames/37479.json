@@ -1,5 +1,18 @@
 {
-  "typeID": 37479,
+  "basePrice": 340852.0,
+  "description": {
+    "de": "Dieses Modul lädt sich auf und teleportiert anschließend den Benutzer sowie bis zu 24 nahegelegene Schiffe zusammen mit allen Drohnen, Jägern, Sonden und Bomben 100 km in die Richtung, in die das Schiff ausgerichtet ist. Alle teleportierten Schiffe behalten ihre Bewegungsrichtung und Geschwindigkeit am neuen Ort bei. Hinweis: Das Mikrosprungfeld wirkt nur auf von Kapselpiloten gesteuerte Schiffe und versetzt bestimmte Schiffstypen nicht, einschließlich Capital-Schiffe, Frachter und die Orca.",
+    "en": "This module spools up and then teleports the user and up to 24 nearby ships along with all drones, fighters, probes and bombs 100km in the direction the ship is facing. All ships teleported will retain their movement direction and velocity in the new location.\r\n\r\nNote: The micro jump field only affects capsuleer-piloted ships and will not move certain ship types, including; Capital Ships, Freighters, and the Orca.",
+    "es": "Este módulo se carga y luego teletransporta al usuario y hasta 24 naves cercanas junto con todos los drones, cazas, sondas y bombas a 100 km de distancia en línea recta. Todas las naves teletransportadas conservan la dirección y la velocidad en la nueva ubicación.\r\n\r\nAviso: El campo de microsalto solo afecta a las naves de capsulistas y no traslada ciertos tipos de naves, entre ellas, naves capitales, cargueros y la Orca.",
+    "fr": "Ce module accélère, puis téléporte son utilisateur et jusqu'à 24 vaisseaux à proximité ainsi que tous les drones, chasseurs, sondes et bombes à 100 km dans la direction dans laquelle le vaisseau est orienté. Tous les vaisseaux téléportés conserveront leur direction de déplacement et leur vélocité à destination. Remarque : le champ de micro-saut affecte uniquement les vaisseaux pilotés par des capsuliers et ne déplacera pas certains types de vaisseaux tels que les vaisseaux capitaux, les cargos et l'Orca.",
+    "ja": "このモジュールは一定時間かけて起動し、使用艦と最大24隻の艦船を、すべてのドローン、艦載戦闘機、プローブ、爆弾とともに、艦船の進行方向に100kmテレポートさせる。テレポートしたすべての艦船は、移動方向と速度を保持した状態で新しい場所に出現する。\r\n\r\n注：マイクロジャンプフィールドはカプセラが操縦する艦船にのみ有効であり、特定の船種（主力艦、超大型輸送艦、オルカなど）を移動させることはできない。",
+    "ko": "정렬 방향으로 자신과 함선 24대를 포함한 드론, 파이터, 프로브, 폭탄을 100km 순간이동 시킵니다. 모든 함선은 순간이동 직전의 비행 속도 및 방향을 유지한 채 이동합니다.<br><br>참고: 마이크로 점프 필드의 효과는 캡슐리어 조종 함선에만 적용되며 캐피탈 함선, 프레이터, 오르카는 이동시킬 수 없습니다.",
+    "ru": "Этот модуль с небольшой задержкой телепортирует ваш корабль и до 24 ближайших судов вместе со всеми дронами, истребителями, зондами и бомбами на 100 км вперёд по курсу, заданному положением корабля. Оказавшись в новой области, все суда сохраняют курс и скорость. Примечание: разгонное поле воздействует только на корабли, управляемые капсулёрами, и неспособно перемещать некоторые типы кораблей, среди которых корабли большого тоннажа, фрейтеры и Orca.",
+    "zh": "这个装备可以将使用者和附近最多24艘舰船，以及其全部无人机、铁骑舰载机、探针和炸弹瞬间传送到前方100km的地方。被传送后，舰船的移动方向和速度保持不变。注：这种微型跳跃力场只影响有人驾驶舰船，对某些舰船类型无效，包括：旗舰、货舰和逆戟鲸级。"
+  },
+  "groupID": 1533,
+  "iconID": 20971,
+  "marketGroupID": 2135,
   "name": {
     "de": "Micro Jump Field Generator",
     "en": "Micro Jump Field Generator",
@@ -10,5 +23,7 @@
     "ru": "Micro Jump Field Generator",
     "zh": "微型跳跃力场发生器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 10.0
 }

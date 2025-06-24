@@ -1,5 +1,18 @@
 {
-  "typeID": 58804,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Die Verteidigungsanlagen der Raub-Capital-Schiffswerft scheinen geschwächt zu sein. Sie ist nun verwundbar für einen Angriff. Diese Capital-Schiffswerft dient in erster Linie dazu, EoM-Dreadnoughts zu versorgen, zu reparieren und für neue Angriffsoperationen einsatzbereit zu machen. Die Raub-Capital-Schiffswerften des EoM sind vorrangige Ziele für erste Angriffsoperationen.",
+    "en": "The Rogue Capital Shipyard's defenses appear to have lowered and it is now vulnerable to a demolition attack.\r\n\r\nThis capital shipyard is primarily being used to supply, repair and make ready operational EoM dreadnoughts for new assault operations. The EoM Rogue Capital Shipyards are priority targets for initial assault operations",
+    "es": "Parece que han bajado las defensas del astillero de naves capitales rebeldes, que ahora es vulnerable a un ataque de demolición.\n\nEste astillero de naves capitales fortificado se usa principalmente para suministrar, reparar y preparar superacorazados de EoM para nuevas operaciones de asalto. Los astilleros de naves capitales rebeldes de EoM son objetivos prioritarios para las operaciones de asalto iniciales.",
+    "fr": "Les défenses du chantier de vaisseaux capitaux renégat semblent avoir été désactivées, et il est maintenant vulnérable à une attaque visant à le démolir. Ce chantier de vaisseaux capitaux sert principalement à ravitailler, réparer et préparer les supercuirassés opérationnels de l’EoM en vue de nouveaux assauts. Les chantiers de vaisseaux capitaux renégats de l’EoM sont des cibles prioritaires pour les opérations d’assaut initiales",
+    "ja": "ローグキャピタル級造船所の防衛能力が低下しているようだ。今なら攻撃を行い、破壊することができる。\n\n\n\nこのキャピタル級造船所は、主にEoMの攻城艦の補給や修理、作戦可能態勢を整えるために使われている。ローグキャピタル級造船所は、奇襲攻撃の第一段階における優先ターゲットとなっている。",
+    "ko": "방어 시스템이 무력화되어 적 공격에 취약합니다.<br><br>EoM 드레드노트의 생산 및 정비를 담당하는 시설입니다. 최우선 공략 대상으로 방어 시스템을 무력화한 후 캐피탈 쉽야드를 파괴할 수 있습니다.",
+    "ru": "Защита верфи для КБТ «Изгой» ослаблена, и теперь она уязвима для разрушительной атаки. Эта верфь для кораблей большого тоннажа обычно используется для снабжения, починки и подготовки исправных дредноутов культа «Равновесие человечества» к новым наступательным операциям. Верфи для КБТ «Изгой» культа «Равновесие человечества» — приоритетные цели для начальных наступательных операций.",
+    "zh": "自由旗舰船坞的防御出现了漏洞，现在可以对其进行毁灭性打击了。\n\n\n\n这座旗舰船坞主要用来为EoM的无畏舰提供维修和后勤服务。EoM自由旗舰船坞是需要优先处理的目标。"
+  },
+  "graphicID": 2301,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Vulnerable EoM Rogue Capital Shipyard",
     "en": "Vulnerable EoM Rogue Capital Shipyard",
@@ -10,5 +23,10 @@
     "ru": "Vulnerable EoM Rogue Capital Shipyard",
     "zh": "可被攻击的EoM自由旗舰船坞"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 64,
+  "radius": 2636.0,
+  "sofFactionName": "genericmetal",
   "volume": 100000000.0
 }

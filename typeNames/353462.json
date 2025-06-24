@@ -1,5 +1,17 @@
 {
-  "typeID": 353462,
+  "basePrice": 567000.0,
+  "description": {
+    "de": "Skill zur Benutzung von Sturmgewehren.\n\n+3% auf die Schadenswirkung von Sturmgewehren pro Skillstufe.",
+    "en": "Skill at handling assault rifles.\r\n\r\n+3% assault rifle damage against shields per level.",
+    "es": "Habilidad de manejo de fusiles de asalto.\n\n+3% al daño de los fusiles de asalto por nivel.",
+    "fr": "Compétence permettant de manipuler les fusils d'assaut.\n\n+3 % de dommages du fusil d'assaut par niveau.",
+    "it": "Abilità nel maneggiare fucili d'assalto.\n\n+3% ai danni inflitti dal fucile d'assalto per livello.",
+    "ja": "アサルトライフルを扱うスキル。\n\nレベル上昇ごとに、アサルトライフルがシールドに与えるダメージが3%増加する。",
+    "ko": "돌격 소총 운용을 위한 스킬입니다.<br><br>매 레벨마다 실드에 가해지는 피해량 3% 증가.",
+    "ru": "Навык обращения со штурмовыми винтовками.\n\n+3% к урону, наносимому штурмовыми винтовками, на каждый уровень.",
+    "zh": "使用突击步枪的技能。每升一级，突击步枪对护盾造成的伤害提高3%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Fertigkeit: Sturmgewehr",
     "en": "Assault Rifle Proficiency",
@@ -11,5 +23,7 @@
     "ru": "Эксперт по штурмовым винтовкам",
     "zh": "突击步枪熟练度"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

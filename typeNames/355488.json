@@ -1,5 +1,17 @@
 {
-  "typeID": 355488,
+  "basePrice": 1500.0,
+  "description": {
+    "de": "Dies wird für Passagierpositionen eingesetzt. Dies bitte nicht entpublizieren oder löschen.",
+    "en": "This is used for passenger positions. Please do not unpublish or delete this.",
+    "es": "Se usa para las posiciones de los pasajeros. Se ruega no borrar ni eliminar.",
+    "fr": "Utilisé pour la position des passagers Merci de ne pas dépublier ou supprimer ceci.",
+    "it": "Utilizzato per le posizioni dei passeggeri. Non eliminarlo o annullarne la pubblicazione.",
+    "ja": "これは助手席用に使用します。非公開や削除にしないでください。",
+    "ko": "This is used for passenger positions. Please do not unpublish or delete this.",
+    "ru": "Применяется для сидений пассажиров. Просим не удалять и не снимать публикацию.",
+    "zh": "这是乘客的位置。请勿取消发布或删除。"
+  },
+  "groupID": 350858,
   "name": {
     "de": "Passagierposition",
     "en": "Passenger Position",
@@ -11,5 +23,7 @@
     "ru": "Сидение пассажира",
     "zh": "乘客位置"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

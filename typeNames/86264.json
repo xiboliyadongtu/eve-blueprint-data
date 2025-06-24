@@ -1,5 +1,18 @@
 {
-  "typeID": 86264,
+  "basePrice": 250000.0,
+  "description": {
+    "de": "Spezialistentraining zur Vorbereitung von Kapselbrechern. -10 % Durchlaufzeit von Kapselbrecher-Werfern pro Skillstufe.",
+    "en": "Specialist training in the preparation of Breacher Pods. -10% to Breacher Pod Launcher cycle time per skill level.",
+    "es": "Entrenamiento especializado en la preparación de los lanzacápsulas de ataque. -10 % al tiempo de ciclo del lanzacápsulas de ataque por nivel de habilidad.",
+    "fr": "Formation spécialisée dans la préparation des capsules de brèche. Réduction de 10 % du temps de cycle du lanceur de capsules de brèche par niveau de compétence.",
+    "ja": "突入ポッドランチャーの準備に関する特殊訓練を受けるスキル。スキルレベルが1つ上がるたびに、突入ポッドランチャーの発射サイクルが10%短縮される。",
+    "ko": "침투 포드를 더 빨리 준비할 수 있는 특수 훈련 스킬입니다. 스킬 레벨당 침투 포드 런처의 재사용 대기시간이 10% 감소합니다.",
+    "ru": "Этот особый навык обслуживания пусковых установок внедряющихся капсул. Каждая степень освоения на 10% сокращает время цикла таких ПУ.",
+    "zh": "备战分裂者级逃生舱的专业技能。每升一级，分裂者级逃生舱发射器循环时间减少10%。"
+  },
+  "groupID": 256,
+  "iconID": 33,
+  "marketGroupID": 373,
   "name": {
     "de": "Breacher Pod Rapid Firing",
     "en": "Breacher Pod Rapid Firing",
@@ -10,5 +23,7 @@
     "ru": "Breacher Pod Rapid Firing",
     "zh": "分裂者逃生舱高速射击"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

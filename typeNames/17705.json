@@ -1,5 +1,19 @@
 {
-  "typeID": 17705,
+  "capacity": 130.0,
+  "description": {
+    "de": "Navy-Fregatte",
+    "en": "Navy Frig.",
+    "es": "Fragata de la Armada.",
+    "fr": "Frégate de la Navy.",
+    "ja": "海軍のフリゲート。",
+    "ko": "해군 프리깃입니다.",
+    "ru": "NULL",
+    "zh": "海军护卫舰"
+  },
+  "factionID": 500001,
+  "graphicID": 314,
+  "groupID": 25,
+  "mass": 1450000.0,
   "name": {
     "de": "Khanid Navy Frigate",
     "en": "Khanid Navy Frigate",
@@ -10,5 +24,11 @@
     "ru": "Khanid Navy Frigate",
     "zh": "卡尼迪海军护卫舰"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 39.0,
+  "sofFactionName": "caldaribase",
+  "soundID": 20070,
   "volume": 16500.0
 }

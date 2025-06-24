@@ -1,5 +1,18 @@
 {
-  "typeID": 25739,
+  "basePrice": 500000.0,
+  "description": {
+    "de": "Skill für die fortschrittliche Bedienung von Langstreckenscannern. 5% Bonus auf die Scanleistung von Scansonden je Skillstufe.",
+    "en": "Skill for the advanced operation of long range scanners. 5% increase to scan probe strength per level.",
+    "es": "Habilidad para el manejo avanzado de escáneres de largo alcance. +5 % de aumento de intensidad de la sonda de escaneo por nivel.",
+    "fr": "Compétence liée à l'utilisation avancée de scanners longue portée. Augmente de 5 % par niveau la puissance de la sonde de balayage.",
+    "ja": "長距離スキャナーの上級操作スキル。スキャンプローブの強度がレベル上昇ごとに5%増加。",
+    "ko": "장거리 스캐너 운용을 위한 상급 스킬입니다. 매 레벨마다 프로브 스캔 강도 5% 증가",
+    "ru": "Навык усовершенствованного управления разведсистемами. За каждую степень освоения навыка: на 5% повышается чувствительность бортовой аппаратуры разведзондов.",
+    "zh": "掌握远程扫描仪的进阶技能。每升一级，探针扫描强度提高5%。"
+  },
+  "groupID": 1217,
+  "iconID": 33,
+  "marketGroupID": 1110,
   "name": {
     "de": "Astrometric Rangefinding",
     "en": "Astrometric Rangefinding",
@@ -10,5 +23,7 @@
     "ru": "Повышение чувствительности разведзондов",
     "zh": "天文测距学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

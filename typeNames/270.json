@@ -1,5 +1,17 @@
 {
-  "typeID": 270,
+  "description": {
+    "de": "Standard-Mine mit nuklearer Ladung.",
+    "en": "Standard mine with nuclear payload.",
+    "es": "Mina estándar con carga útil nuclear.",
+    "fr": "Mine standard équipée d'une charge nucléaire.",
+    "ja": "核弾頭を装備した標準型機雷。",
+    "ko": "엄청난 파괴력을 지닌 기본형 기뢰입니다.",
+    "ru": "Стандартная неконтактная мина с ядерным зарядом.",
+    "zh": "使用核芯战斗部的通用地雷。"
+  },
+  "groupID": 92,
+  "iconID": 1007,
+  "mass": 1.0,
   "name": {
     "de": "Python Mine",
     "en": "Python Mine",
@@ -10,5 +22,8 @@
     "ru": "Python Mine",
     "zh": "巨蟒悬浮雷"
   },
+  "portionSize": 10,
+  "published": false,
+  "radius": 300.0,
   "volume": 0.15
 }

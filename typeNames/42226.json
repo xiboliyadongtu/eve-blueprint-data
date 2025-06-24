@@ -1,5 +1,19 @@
 {
-  "typeID": 42226,
+  "basePrice": 250000.0,
+  "description": {
+    "de": "Dieser stark angepasste taktische Prozessor wurde von Ingenieuren der Guardian Angels für die Verwendung in Capital-Schiffen von Serpentis entwickelt. Er wurde für verbesserte Feuerkontrollroutinen und den präzisen Einsatz von Stasisnetzen optimiert.",
+    "en": "This heavily customized tactical processing unit was designed by Guardian Angel engineers for the use in Serpentis capital ships. It contains special optimizations for improved fire control routines and precise stasis webifier operation.",
+    "es": "Los ingenieros de los Ángeles de la Guarda diseñaron esta unidad de procesamiento táctico sumamente personalizada para usarla en las naves capitales de Serpentis. Contiene optimizaciones especiales para mejorar las rutinas de control de incendios y el funcionamiento preciso de las redes ralentizadoras.",
+    "fr": "Cette unité de traitement tactique lourdement modifiée a été conçue par les ingénieurs guardian angel. Elle est destinée aux vaisseaux capitaux serpentis. Elle contient des optimisations spéciales pour les routines de contrôle de tir améliorées et l'exécution précise de générateurs de stase.",
+    "ja": "ガーディアンエンジェルのエンジニアが設計した戦略的処理ユニット。サーペンティスの母艦で使用するために徹底したカスタマイズが施されている。火力制御ルーチンを改善し、ステイシスウェビファイヤーの精度を高めることに特化した最適化が行われている。",
+    "ko": "가디언 엔젤 엔지니어가 서펜티스 캐피탈 함선에 사용할 목적으로 개조한 전술 프로세서입니다. 최적화된 기능으로 개선된 사격 통제와 스테이시스 웹 생성이 가능합니다.",
+    "ru": "Глубоко переработанный модуль обработки тактической информации был разработан инженерами корпорации «Ангелы-хранители» и предназначен для КБТ, созданных по проектам «Серпентис». В нём реализованы оптимизационные процедуры управления орудийными системами и генераторами стазис-поля.",
+    "zh": "这个大幅改装的战术处理单元由守护天使工程师设计用于天蛇旗舰，加强火力控制和停滞缠绕精确化操作进行了优化。"
+  },
+  "groupID": 528,
+  "iconID": 2186,
+  "marketGroupID": 1901,
+  "mass": 1.0,
   "name": {
     "de": "Serpentis Modified Capital Microprocessor",
     "en": "Serpentis Modified Capital Microprocessor",
@@ -10,5 +24,8 @@
     "ru": "Serpentis Modified Capital Microprocessor",
     "zh": "天蛇改良型旗舰级微处理器"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
   "volume": 1.0
 }

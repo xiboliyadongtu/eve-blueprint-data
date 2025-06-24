@@ -1,5 +1,17 @@
 {
-  "typeID": 22146,
+  "description": {
+    "de": "Logs, die wie offizielle, imperiale Dokumente aussehen sollen und bestimmte Einstellungen für Wegpunkte nennen.",
+    "en": "Logs made to look like official imperial documents giving certain waypoint settings.",
+    "es": "Registros hechos para parecerse a los documentos oficiales del Imperio que otorgan ciertos ajustes de puntos de ruta.",
+    "fr": "Registres paraissant d'authentiques documents impériaux qui contiennent des indications d'étape.",
+    "ja": "帝国が発行したかのように見せかけた、なんらかの航路定点を示したログ。",
+    "ko": "위조된 제국 공식 문서로 웨이포인트에 대한 정보가 기록되어 있습니다.",
+    "ru": "Журналы, похожие на официальные документы империи, с координатами определенных точек маршрута.",
+    "zh": "看上去像那么回事的帝国官方文档，给出了几个特定航标的位置。"
+  },
+  "groupID": 526,
+  "iconID": 1192,
+  "mass": 1.0,
   "name": {
     "de": "Forged Waypoint Logs",
     "en": "Forged Waypoint Logs",
@@ -10,5 +22,7 @@
     "ru": "Forged Waypoint Logs",
     "zh": "伪造的航标日志"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

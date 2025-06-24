@@ -1,5 +1,18 @@
 {
-  "typeID": 29168,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese Vielzweckstruktur fungiert als temporäre Behausung aller Arten von Personal der Amarr, welches sich um die Sicherheit des Systems bemüht.",
+    "en": "This multi-purpose structure acts as temporary housing for all kinds of Amarr Empire personnel in their efforts to secure this system.",
+    "es": "Esta estructura multifuncional sirve de alojamiento temporal para todo tipo de personal del Imperio Amarr dedicado a proteger este sistema.",
+    "fr": "Cette structure multifonction abrite temporairement le personnel de l'Empire amarr pendant qu'ils s'attellent à sécuriser le système.",
+    "ja": "このシステムを守るために働くあらゆる種類のアマー帝国の人々が一時的な居住場所として使用する、多目的の建造物。",
+    "ko": "항성계 확보를 위해 모인 여러 분야의 아마르 제국 인원들이 임시로 거주하고 있는 다용도 시설입니다.",
+    "ru": "Эта многоцелевая постройка служит базой для временного размещения военного персонала Империи Amarr в ходе операции по захвату этой системы.",
+    "zh": "这个多功能的设施是临时用做于为各种艾玛人员提供住宿，他们通常都是负责这个星系安全事务的人。"
+  },
+  "graphicID": 2400,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Amarr Tactical Support Center",
     "en": "Amarr Tactical Support Center",
@@ -10,5 +23,10 @@
     "ru": "Amarr Tactical Support Center",
     "zh": "艾玛战术支援中心"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 2787.0,
+  "sofFactionName": "amarrbase",
   "volume": 100000000.0
 }

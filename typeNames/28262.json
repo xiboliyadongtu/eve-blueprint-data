@@ -1,5 +1,21 @@
 {
-  "typeID": 28262,
+  "basePrice": 826.0,
+  "description": {
+    "de": "Leichte Aufklärungsdrohne. Diesem speziellen Modell wurden mehrere Raubdrohnenkomponenten eingebaut, was die Leistung der Drohne erhöht.",
+    "en": "Light Scout Drone\r\n\r\nThis particular model has had multiple components from rogue drones incorporated into its design, enhancing its performance.",
+    "es": "Dron de reconocimiento ligero\n\nEste modelo en particular incorpora varios componentes de drones rebeldes en el diseño, lo que mejora el rendimiento.",
+    "fr": "Drone de reconnaissance léger.\n\nCe modèle est composé de nombreuses pièces de drones renégats qui améliorent ses performances.",
+    "ja": "ライトスカウトドローン\r\r\n\nこのモデルは、設計にローグドローンの部品をいくつも組み込むことで性能を向上させている。",
+    "ko": "라이트 스카우트 드론<br><br>각종 로그 드론 부품을 적용하여 성능을 향상시킨 드론 기종입니다.",
+    "ru": "Легкий разведывательный дрон\n\nВ конструкцию этого дрона было добавлено значительное количество частей восставших дронов для повышения его характеристик.",
+    "zh": "轻型侦察无人机 \n\n该特殊型号的设计中集成了多个来自自由无人机的部件，从而增强了其性能。"
+  },
+  "graphicID": 1084,
+  "groupID": 100,
+  "iconID": 1084,
+  "marketGroupID": 837,
+  "mass": 3000.0,
+  "metaGroupID": 4,
   "name": {
     "de": "'Integrated' Acolyte",
     "en": "'Integrated' Acolyte",
@@ -10,5 +26,11 @@
     "ru": "'Integrated' Acolyte",
     "zh": "集成型侍僧"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 15.0,
+  "sofFactionName": "amarrbase",
+  "variationParentTypeID": 2203,
   "volume": 5.0
 }

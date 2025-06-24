@@ -1,5 +1,19 @@
 {
-  "typeID": 42143,
+  "capacity": 120.0,
+  "description": {
+    "de": "Diese Piloten wurden in der Nähe von Asteroidengürteln und Sprungtoren gesichtet, auch wenn der Grund für ihr Handeln noch nicht identifiziert wurde.\n\nGreifen Sie an und vernichten Sie die Ziele um das Kopfgeld einzulösen, dass CONCORD auf sie ausgesetzt hat.",
+    "en": "These pilots have been spotted at asteroid belts and stargates, although the reason behind their actions has yet to be identified.\r\nEngage and destroy to claim the bounty that CONCORD has placed on them.",
+    "es": "Estos pilotos han sido avistados en cinturones de asteroides y portales estelares, aunque por ahora se desconoce su motivación.\n\nAcaba con ellos para conseguir la recompensa que ofrece CONCORD.",
+    "fr": "Ces pilotes ont été repérés dans des ceintures d'astéroïde et portails stellaires. La raison de leurs actions demeure inconnue à l'heure actuelle.\n\nAffrontez et détruisez-les pour récupérer la prime que CONCORD a placée sur eux.",
+    "ja": "小惑星帯やスターゲートで発見されたこれらのパイロットの行動の意図は未だ不明。\n\nCONCORDがかけた懸賞金を獲得するために、やつらと交戦し、破壊せよ。",
+    "ko": "소행성 벨트와 스타게이트에서 종종 목격되지만 어떠한 목적으로 활동하고 있는지에 대해 알려진 바가 없습니다. <br><br>이 파일럿을 격추하여 CONCORD가 내건 현상금을 차지하십시오.",
+    "ru": "Эти пилоты были замечены в скоплениях астероидов и у гиперворот; впрочем, цели их присутствия пока не выяснены.\n\nАтакуй и уничтожь, чтобы получить вознаграждение, назначенное КОНКОРДом за этого пилота.",
+    "zh": "有人看见这些飞行员出现在小行星带和星门附近，他们的动机目前还不得而知。\n\n击毁他们，就能获得统合部为其设置的赏金。"
+  },
+  "factionID": 500011,
+  "graphicID": 336,
+  "groupID": 1728,
+  "mass": 9900000.0,
   "name": {
     "de": "Angel Cartel Guard",
     "en": "Angel Cartel Guard",
@@ -10,5 +24,11 @@
     "ru": "Angel Cartel Guard",
     "zh": "天使守卫"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 150.0,
+  "sofFactionName": "angelbase",
+  "soundID": 20900,
   "volume": 99000.0
 }

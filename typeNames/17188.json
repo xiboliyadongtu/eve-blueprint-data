@@ -1,5 +1,18 @@
 {
-  "typeID": 17188,
+  "basePrice": 1000000.0,
+  "description": {
+    "de": "Projiziert ein kennwortgeschütztes Kraftfeld um Strukturen, die außerhalb der Reichweite des Schildes eines Kontrollturms liegen.",
+    "en": "Projects a password protected force field around structures that are outside the range of a control tower's shields.",
+    "es": "Proyecta un campo de fuerza protegido por contraseña alrededor de las estructuras que se encuentran fuera del alcance de los escudos de una torre de control.",
+    "fr": "Projette un champ de force protégé par mot de passe autour des structures qui sont hors de portée des boucliers d'une tour de contrôle.",
+    "ja": "コントロールタワーのシールドの範囲外にある施設の周りに、パスワードで保護されたフォースフィールドを放射する。",
+    "ko": "관제타워의 실드 범위 밖에 있는 구조물에 암호로 피아식별을 하는 포스필드를 방출합니다.",
+    "ru": "Накрывает отдельным силовым щитом модули, находящеся за пределами силового щита башни. Щит отключается лишь по предъявлению пароля.",
+    "zh": "为处于控制塔护盾保护范围之外的建筑设置一道加密防护力场。"
+  },
+  "graphicID": 2603,
+  "groupID": 445,
+  "mass": 100.0,
   "name": {
     "de": "Force Field Array",
     "en": "Force Field Array",
@@ -10,5 +23,9 @@
     "ru": "Force Field Array",
     "zh": "力场阵列"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 100.0,
+  "sofFactionName": "genericbase",
   "volume": 100.0
 }

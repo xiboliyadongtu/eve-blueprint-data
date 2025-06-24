@@ -1,5 +1,16 @@
 {
-  "typeID": 46770,
+  "description": {
+    "de": "Dieses Denkmal ehrt die Tausenden Märtyrer, die im Jahr YC112 ihr Leben bei dem brutalen Terroranschlag auf diese Station verloren haben; unter ihnen hochangesehene Amtsträger des Kriegsministeriums und des Theologierates. Diese engagierten Reichsdiener kamen durch einen feigen Bombenangriff ums Leben, der von einer Terrororganisation verübt wurde, die sich selbst die „Blutigen Hände Matars“ nennen. Mögen dieses Denkmal und die reparierte Kriegsministeriumsstation die Widerstandsfähigkeit des Heiligen Imperiums der Amarr bezeugen, denn jene, die dem Imperium und seinen Bürgern schaden wollen, werden den Zorn der Kaiserin zu spüren bekommen.",
+    "en": "This monument honors the thousands of martyrs who lost their lives in the brutal terrorist attack against this station in YC112, including esteemed high officials of both the Ministry of War and the Theology Council.\r\n\r\nThese dedicated servants of the Empire were slain by a cowardly bombing orchestrated by the so-called \"Bloody Hands of Matar\" terrorist organization.\r\n\r\nLet this monument and the fully repaired Ministry of War station stand as testaments to the resilience of the Holy Amarr Empire and as a commitment to bring the Empress's justice to all those who would seek to harm the Empire and its subjects.",
+    "es": "Este monumento rinde homenaje a los miles de mártires que perdieron la vida en el brutal atentado terrorista contra la estación en el año 112 CY, entre los que se encontraban estimados altos cargos del Ministerio de Guerra y del Consejo de Teología.\n\nEstos entregados servidores del Imperio fueron asesinados en un cobarde atentado orquestado por la organización terrorista Manos Sangrientas de Matar.\n\nQue este monumento y la estación del Ministerio de Guerra, ahora reparada, queden como testimonio de la resistencia del Sacro Imperio Amarr y como compromiso de llevar la justicia de la emperatriz a todos aquellos que pretendan dañar al Imperio y a sus súbditos.",
+    "fr": "Ce monument honore les milliers de martyrs qui ont perdu la vie lors du brutal attentat terroriste mené contre cette station en CY 112, et notamment les hauts fonctionnaires du ministère de la Guerre et du conseil théologique qui étaient présents. Ces dévoués serviteurs de l'Empire ont été tués lors d'une lâche attaque à la bombe orchestrée par l'organisation terroriste qui se fait appeler les « Mains sanglantes de Matar ». Que ce monument, ainsi que la station du ministère de la Guerre, aujourd'hui entièrement réparée, témoignent de la résilience de l'Empire amarr et de la volonté d'amener devant la justice de l'Impératrice tous ceux qui chercheraient à nuire à l'Empire et à ses sujets.",
+    "ja": "この記念碑は、YC112のこのステーションに対する残忍なテロ攻撃で命を落とした数千人の犠牲者を称えるもので、その中には戦略省と宗教評議会の尊敬すべき高官も含まれている。\r\n\n帝国の献身的支持者たちは、「ブラッディハンズオブマター」と呼ばれるテロ組織によって仕組まれた卑劣な爆撃によって殺害された。\r\n\nこの記念碑と完全に修復された戦略省のステーションは、神聖アマー帝国の回復力の証として、帝国とその臣民に危害を加えようとする全ての者に女帝の裁きを約束するものである。",
+    "ko": "YC 112년 당시 테러 사건 때 사망했던 제국 전쟁부와 종교위원회의 고위 공직자들, 그리고 수천 명에 달하는 순교자들을 기리기 위해 세워진 기념비입니다. <br><br>당시 사건은 \"마타르의 붉은 손\"이라는 테러 조직의 소행으로 정거장에서 발생한 폭탄 테러로 인해 막대한 숫자의 사상자가 발생했습니다. <br><br>복구가 이루어진 전쟁부 정거장과 그 위에 세워진 기념비는 신성 아마르 제국의 건재함을 상징합니다. 또한 제국을 상대로 적대 행위를 자행하는 자들에게는 여황의 심판이 내려질 것임을 의미합니다.",
+    "ru": "Этот монумент возведён в память о мучениках, погибших в результате беспощадной террористической атаки на этой станции в 112 году от ю. с. Среди них были высокопоставленные чиновники из Имперского военного министерства и Имперского синода. Эти преданные слуги империи были убиты взрывом, организованным подлыми трусами из так называемой террористической организации «Кровавые руки Матара». Пусть же этот монумент и полностью восстановленная станция Имперского военного министерства станут символами стойкости Священной Амаррской Империи и обещанием того, что гнев императрицы настигнет каждого, кто возжелает причинить вред империи и её подданным.",
+    "zh": "这座纪念碑纪念了在YC112年针对该空间站的恐怖袭击中消逝的数以千计的生命，其中包括了军务部和神学理事会的高级官员。\n\n\n\n这些帝国的忠诚仆从被所谓的“玛塔尔之赤手”恐怖组织的宵小用卑鄙的炸弹袭击夺去了生命。\n\n\n\n让这座纪念碑和修缮一新的军务部空间站一起见证神圣艾玛帝国誓将女皇之裁决带给所有妄图与帝国为敌之徒的不灭决心。"
+  },
+  "graphicID": 21862,
+  "groupID": 226,
   "name": {
     "de": "Pashanai Bombing Monument",
     "en": "Pashanai Bombing Monument",
@@ -10,5 +21,9 @@
     "ru": "Pashanai Bombing Monument",
     "zh": "帕厦纳伊炸弹纪念碑"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 6000.0,
+  "sofFactionName": "amarrbase",
+  "soundID": 20804
 }

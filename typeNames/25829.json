@@ -1,5 +1,17 @@
 {
-  "typeID": 25829,
+  "description": {
+    "de": "Dieses Schiff wird gegenwärtig gewartet.",
+    "en": "This ship is currently undergoing maintenance.",
+    "es": "Esta nave está en mantenimiento.",
+    "fr": "Ce vaisseau est actuellement en cours de maintenance.",
+    "ja": "現在メンテナンス中の船。",
+    "ko": "정비 중인 함선입니다.",
+    "ru": "В данный момент корабль находится на ремонте.",
+    "zh": "这艘舰船目前正在进行维护。"
+  },
+  "graphicID": 338,
+  "groupID": 784,
+  "mass": 1200000.0,
   "name": {
     "de": "Angel Chaos Frigate",
     "en": "Angel Chaos Frigate",
@@ -10,5 +22,9 @@
     "ru": "Angel Chaos Frigate",
     "zh": "天使混沌护卫舰"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 50.0,
+  "sofFactionName": "angelbase"
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 27157,
+  "basePrice": 200000.0,
+  "description": {
+    "de": "Ein Neuralinterface-Upgrade, das die Sozial-Skills des Piloten verbessert.\r\n\r\n1% Bonus des Ansehens bei NPC Agenten, Corporations und Fraktionen",
+    "en": "A neural Interface upgrade that boosts the pilots social skills. 1% Bonus to NPC agent, corporation and faction standing increase.",
+    "es": "Mejora de interfaz neuronal que potencia las habilidades sociales del piloto. 1 % de bonificación al prestigio de los agentes PNJ, de la corporación y de la facción.",
+    "fr": "Amélioration de l'interface neurale portant sur les compétences sociales du pilote. Augmente de 1 % la réputation de la faction, de la corporation et de l'agent PNJ.",
+    "ja": "神経系インターフェイスのアップグレード。パイロットのソーシャルスキルを高める。NPCエージェント、コーポレーション、およびファクションのスタンディングが1%上昇する。",
+    "ko": "사회 커넥션 스킬을 향상하는 신경 인터페이스 업그레이드입니다. <br><br>NPC 에이전트, 코퍼레이션, 팩션에 대한 평판 획득량 1% 증가",
+    "ru": "Модификация нейронного интерфейса, улучшающая социальные навыки пилота. Повышает прирост отношений с агентами, корпорациями и фракциями на 1%.",
+    "zh": "一款神经接口升级芯片，可以增强飞行员社交方面的技能。NPC代理人、军团和势力声望增加值提升1%。"
+  },
+  "groupID": 750,
+  "iconID": 2224,
   "name": {
     "de": "Hardwiring - Poteque Pharmaceuticals 'Consul' PPA-0",
     "en": "Hardwiring - Poteque Pharmaceuticals 'Consul' PPA-0",
@@ -10,5 +22,7 @@
     "ru": "Hardwiring - Poteque Pharmaceuticals 'Consul' PPA-0",
     "zh": "神经交互强化芯片 - 波特克制药 执政官 PPA-0"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 1.0
 }

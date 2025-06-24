@@ -1,5 +1,18 @@
 {
-  "typeID": 3340,
+  "basePrice": 500000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Gallente-Transportern.",
+    "en": "Skill at operating Gallente hauler ships.",
+    "es": "Habilidad en el manejo de naves de mercancías gallentes.",
+    "fr": "Compétence liée à l'utilisation de cargos gallente.",
+    "ja": "ガレンテハウラーを操作するためのスキル。",
+    "ko": "갈란테 운반선을 운용하기 위한 스킬입니다.",
+    "ru": "Навык управления перевозчиками Галлентской Федерации.",
+    "zh": "操作盖伦特运载舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Gallente Hauler",
     "en": "Gallente Hauler",
@@ -10,5 +23,8 @@
     "ru": "Gallente Hauler",
     "zh": "盖伦特运载舰"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
   "volume": 0.01
 }

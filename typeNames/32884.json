@@ -1,5 +1,17 @@
 {
-  "typeID": 32884,
+  "description": {
+    "de": "Satelliten identifizieren die Position im Orbit um einen Planeten herum. Sie werden dazu verwendet, mit den Distrikten auf dem Boden zu kommunizieren.",
+    "en": "Satellites identify the position in orbit around a planet which are used for interacting with districts on the ground.",
+    "es": "Los satélites identifican la posición en la órbita de un planeta que se usa para interactuar con los distritos en la superficie terrestre.",
+    "fr": "Les satellites repèrent la position en orbite autour d'une planète, et sont utilisés pour interagir avec les districts au sol.",
+    "ja": "サテライトは惑星周囲軌道上の位置を割り出し、地上の管区との交信の際に使用される。",
+    "ko": "행성 궤도를 돌며 지상에 설치된 시설과 교류합니다.",
+    "ru": "Каждому району на поверхности планеты соответствует спутник связи, расположенный на орбите над этим районом; с его помощью осуществляется взаимодействие между пилотами и наземными силами.",
+    "zh": "人造卫星可以环绕行星轨道运行，用来与地面进行沟通。"
+  },
+  "graphicID": 20203,
+  "groupID": 1165,
+  "mass": 1.0,
   "name": {
     "de": "District Satellite",
     "en": "District Satellite",
@@ -10,5 +22,8 @@
     "ru": "District Satellite",
     "zh": "地区人造卫星"
   },
+  "portionSize": 1,
+  "published": false,
+  "sofFactionName": "debris",
   "volume": 1.0
 }

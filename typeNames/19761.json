@@ -1,5 +1,18 @@
 {
-  "typeID": 19761,
+  "basePrice": 1000000.0,
+  "description": {
+    "de": "Fertigkeit zur Bedienung von Geräten zur Zielstörung. 5 % Bonus auf die Stärke aller ECM-Jammer je Skillstufe.",
+    "en": "Skill at the operation of target jamming equipment. 5% bonus to strength of all ECM jammers per skill level.",
+    "es": "Habilidad para manejar equipo de inhibición de objetivos. 5 % de bonificación a la intensidad de todos los perturbadores ECM por nivel de habilidad.",
+    "fr": "Compétence liée à l'utilisation de l'équipement de brouillage de la cible. Augmente de 5 % par niveau de compétence la force de tous les brouilleurs CME.",
+    "ja": "ターゲットジャミング装置を操作するためのスキル。スキルレベル上昇ごとに全てのECMジャマーの強度が5%増加。",
+    "ko": "타겟 재밍 장비 사용을 위한 스킬입니다. 매 레벨마다 모든 ECM 재머 효과 5% 증가",
+    "ru": "Навык эксплуатации модулей глушения захвата целей. За каждую степень освоения навыка: на 5% повышается выходная мощность модулей глушения захвата целей.",
+    "zh": "操作锁定干扰装备的技能。每升一级，所有ECM扰断器强度增加5%。"
+  },
+  "groupID": 272,
+  "iconID": 33,
+  "marketGroupID": 367,
   "name": {
     "de": "Signal Dispersion",
     "en": "Signal Dispersion",
@@ -10,5 +23,7 @@
     "ru": "Рассеяние сигналов",
     "zh": "信号频散学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 23184,
+  "description": {
+    "de": "Wenn man ihn bei Erfindungsaufträgen der Gallente verwendet, reduziert dieser Dekodierer die Produktionszeit erheblich.<br><br>Wahrscheinlichkeitsmultiplikator: +20%<br>Max.-Durchlauf-Modifikator: +1<br>Materialeffizienz-Modifikator: +2<br>Zeiteffizienz-Modifikator: +10",
+    "en": "If used in Gallente invention jobs this decryptor reduces the production time considerably.<br><br>Probability Multiplier: +20% <br>Max. Run Modifier: +1 <br>Material Efficiency Modifier: +2 <br>Time Efficiency Modifier: +10",
+    "es": "Al utilizarse en trabajos de invención gallentes, reduce considerablemente el tiempo de producción.<br><br>Multiplicador de probabilidad: +20 % <br>Modificador de ejecución máxima: +1 <br>Modificador de eficiencia de materiales: +2 <br>Modificador de eficiencia temporal: +10",
+    "fr": "Pour les travaux d'invention gallente, ce décrypteur diminue les délais de production de manière importante.<br><br>Multiplicateur de probabilité : + 20 % <br>Modificateur de cycles max. : + 1 <br>Modificateur de productivité matérielle : + 2 <br>Modificateur de gain de temps : + 10",
+    "ja": "この解読器をガレンテの発明ジョブに使用すると、製造にかかる時間をかなり短縮できる。<br><br>成功率係数：+20%<br>生産可能回数修正：+1<br>資源効率修正：+2<br>時間効率修正：+10",
+    "ko": "갈란테 인벤션 작업에 사용되면 생산 시간이 대폭 감소됩니다.<br><br>확률 증감: +20% <br>최대 실행횟수 증감: +1 <br>자원효율성 증감: +2 <br>시간효율성 증감: +10",
+    "ru": "Если использовать эти сведения, то можно значительно сократить время производства по модернизованным галлентским чертежам.<br><br>Вероятность успеха проекта: +20% <br>Число прогонов проекта: +1 <br>Экономия материалов при производстве: +2 <br>Экономия времени производства: +10",
+    "zh": "这种解码器可以大幅缩短盖伦特发明项目的生产时间。<br><br>机率调节值：+20%<br> 最大流程调节值：+1<br>材料效率调节值：+2<br>时间效率调节值：+10"
+  },
+  "groupID": 730,
+  "iconID": 2885,
+  "mass": 1.0,
   "name": {
     "de": "Incognito Accelerant",
     "en": "Incognito Accelerant",
@@ -10,5 +22,7 @@
     "ru": "Incognito Accelerant",
     "zh": "匿名加速装置"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

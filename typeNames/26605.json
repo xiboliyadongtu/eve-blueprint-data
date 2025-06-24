@@ -1,5 +1,19 @@
 {
-  "typeID": 26605,
+  "capacity": 1400.0,
+  "description": {
+    "de": "Vielseitiger Drohnencontainer.",
+    "en": "Drone Utility Container",
+    "es": "Contenedor de herramientas de drones",
+    "fr": "Conteneur drone.",
+    "ja": "ドローンユーティリティコンテナ",
+    "ko": "드론 유틸리티 컨테이너",
+    "ru": "Drone Utility Container",
+    "zh": "无人机多用途集装箱"
+  },
+  "graphicID": 1176,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Drone Hold",
     "en": "Drone Hold",
@@ -10,5 +24,9 @@
     "ru": "Drone Hold",
     "zh": "无人机箱子"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericmetal",
   "volume": 1200.0
 }

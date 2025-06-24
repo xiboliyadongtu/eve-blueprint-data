@@ -1,5 +1,70 @@
 {
-  "typeID": 17718,
+  "basePrice": 36000000.0,
+  "capacity": 410.0,
+  "description": {
+    "de": "Wie auch bei den anderen Schiffen von Sansha's Nation, weiß man nicht viel über den Ursprung des Designs. Ihre außerordentlich fremdartig anmutende äußere Form trägt die Merkmale weit fortgeschrittener Physikforschung: Kanten und Ecken fließen ineinander und bilden eine Form, deren Widerstandsfähigkeit und strukturelle Integrität kaum zu übertreffen sind. Zusammen mit hoch entwickelter Waffenmontagetechnik und einem extrem effizienten Energieerzeuger ist der legendäre Ruf der Phantasm wohlverdient.",
+    "en": "As with other Sansha ships, not much is known about the origin of this design. Its form - while harshly alien in shape - bears the mark of extremely advanced physics research, lines and corners coalescing to form a shape whose resilience and structural integrity are hard to match. Coupled with advanced hardpoint technology and an extremely efficient powercore, the Phantasm's legendary status is well-deserved.",
+    "es": "Al igual que con otras naves sanshas, poco se sabe del origen de este diseño. Su forma, pese a ser tan rara, lleva el sello de una investigación física extremadamente avanzada, líneas y esquinas que se integran para dar lugar a un perfil cuyas resistencia e integridad estructural resultan difíciles de igualar. Dotada de tecnología de puntos de montaje de última generación y un núcleo de potencia terriblemente eficaz, la legendaria reputación de la Phantasm está bien merecida.",
+    "fr": "Comme pour la plupart des vaisseaux sansha, l'origine du Phantasm reste un mystère. Au-delà du design intimement fantasmagorique de la coque, les arabesques de lignes et d'arêtes parfaitement fusionnées révèlent un chef-d'œuvre physique de cinématique avancée, à l'origine de la résistance et de l'intégrité structurelles inégalées du vaisseau. Grâce à sa formidable résilience, combinée à ses points de fixation évolués et à son réacteur principal extrêmement puissant, le Phantasm est à juste titre entré dans la légende.",
+    "ja": "他のサンシャ艦と同じく、このデザインの起源はあまりよく知られていない。辺や角が融合したような異種族じみた船体は突出した耐久力を生み出しており、非常に高度な物理学により設計されていることが窺える。ファンタズムは先進的なハードポイント技術と非常に効率の良いパワーコアを備え、その伝説的とも言える地位はうなずけるものである。",
+    "ko": "다른 산샤 함선과 마찬가지로 디자인의 기원이 불분명한 함선입니다. 외관상 외계 생물체처럼 생겼지만, 최첨단 물리학 연구를 통해 완성된 외부 구조는 그 어떤 함선보다도 저항력이 뛰어나고 구조가 견고합니다. 그뿐만 아니라 첨단 하드포인트 기술과 뛰어난 전력 효율성까지 더해지며 판타즘이 왜 전설급 함선인지 알 수 있습니다.",
+    "ru": "Как и в случае с другими кораблями «Нации Санши», о происхождении этой модели почти ничего не известно. Несмотря на то, что очертания корабля выглядят вызывающе чужеродно, в нем угадываются черты новейших разработок в области физики: из обводов и углов сплетается форма, которой трудно подобрать аналог по прочности и надёжности конструкции. Благодаря сочетанию улучшенной технологии монтажа орудийных установок и поразительно эффективной энергосистемы «Фантазм» полностью оправдывает свой легендарный статус.",
+    "zh": "与其它萨沙战舰一样，人们对幽灵级的设计起源知之甚少。它的外形非常奇特，却蕴含了非凡的物理研究成果：线条和棱角共同构成了弹性和完整性都无与伦比的结构外形。幽灵级巡洋舰装配有先进的挂载技术和极高效的能源核心，其传奇性的地位名至实归。"
+  },
+  "factionID": 500019,
+  "graphicID": 1236,
+  "groupID": 26,
+  "marketGroupID": 1371,
+  "mass": 9600000.0,
+  "masteries": {
+    "0": [
+      64,
+      96,
+      99,
+      150,
+      85,
+      93,
+      94
+    ],
+    "1": [
+      64,
+      96,
+      99,
+      150,
+      85,
+      93,
+      94
+    ],
+    "2": [
+      64,
+      96,
+      99,
+      150,
+      85,
+      93,
+      94
+    ],
+    "3": [
+      64,
+      96,
+      99,
+      150,
+      85,
+      93,
+      94
+    ],
+    "4": [
+      64,
+      96,
+      99,
+      150,
+      85,
+      118,
+      93,
+      94
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Phantasm",
     "en": "Phantasm",
@@ -9,6 +74,67 @@
     "ko": "판타즘",
     "ru": "Phantasm",
     "zh": "幽灵级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 143.0,
+  "sofFactionName": "sanshabase",
+  "soundID": 20118,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonus": 150,
+        "bonusText": {
+          "de": "Bonus auf den Schaden von <a href=showinfo:3306>mittelgroßen Energiegeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:3306>Medium Energy Turret</a> damage",
+          "es": "de bonificación al daño de la <a href=showinfo:3306>torreta de energía mediana</a>.",
+          "fr": "de bonus aux dégâts des <a href=showinfo:3306>tourelles à énergie intermédiaires</a>",
+          "ja": "<a href=showinfo:3306>中型エネルギータレット</a>のダメージが増加",
+          "ko": "<a href=showinfo:3306>중형 에너지 터렛</a> 피해량 증가",
+          "ru": "увеличивается урон <a href=showinfo:3306>средних лазерных орудий</a>",
+          "zh": "<a href=\"showinfo:3306\">中型能量炮台</a>伤害加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3334": [
+        {
+          "bonus": 20,
+          "bonusText": {
+            "de": "Bonus auf den Geschwindigkeitsbonus von <a href=showinfo:3450>Nachbrennern</a>",
+            "en": "bonus to <a href=showinfo:3450>Afterburner</a> velocity bonus",
+            "es": "de bonificación a la velocidad del <a href=showinfo:3450>posquemador</a>.",
+            "fr": "de bonus au bonus de vitesse du <a href=showinfo:3450>système de post-combustion</a>",
+            "ja": "<a href=showinfo:3450>アフターバーナー</a>の速度ボーナスが増加",
+            "ko": "<a href=showinfo:3450>애프터버너</a> 속도 보너스 증가",
+            "ru": "повышается влияние <a href=showinfo:3450>форсажных ускорителей</a> на скорость полёта корабля",
+            "zh": "<a href=\"showinfo:3450\">加力燃烧器</a>速度增益加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ],
+      "3335": [
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Nachführungsgeschwindigkeit von <a href=showinfo:3306>mittelgroßen Energiegeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3306>Medium Energy Turret</a> tracking speed",
+            "es": "de bonificación a la velocidad de rastreo de la <a href=showinfo:3306>torreta de energía mediana</a>.",
+            "fr": "de bonus à la vitesse de poursuite des <a href=showinfo:3306>tourelles à énergie intermédiaires</a>",
+            "ja": "<a href=showinfo:3306>中型エネルギータレット</a>の追跡速度が上昇",
+            "ko": "<a href=showinfo:3306>중형 에너지 터렛</a> 트래킹 속도 증가",
+            "ru": "повышается скорость наводки на цель <a href=showinfo:3306>средних лазерных орудий</a>",
+            "zh": "<a href=\"showinfo:3306\">中型能量炮台</a>跟踪速度加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 101000.0
 }

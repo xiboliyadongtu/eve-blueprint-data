@@ -1,5 +1,16 @@
 {
-  "typeID": 83685,
+  "description": {
+    "de": "Übertragungsempfänger und Quanten-Computing-Einheit, die in der Lage ist, 60 Qubits pro Sekunde zu verarbeiten, wodurch sie Cluster-relevante Standortdaten mit föderalen Verwaltungsdaten mit einer Genauigkeit von 73 % live abgleichen kann.",
+    "en": "Broadcast receiver and quantum computing unit capable of 60-qubit per second processing, allowing it to pair live cluster-relevant locational data with federal administrative data at 73% accuracy.",
+    "es": "Receptor de transmisión y unidad de computación cuántica capaz de procesar 60 cúbits por segundo, lo que le permite emparejar datos de ubicación en vivo relevantes para el cúmulo con datos administrativos federales con una precisión del 73 %.",
+    "fr": "Récepteur de transmission et unité de calcul quantique capables de traiter 60 qubits par seconde, permettant de jumeler des données de localisation pertinentes à la galaxie avec des données administratives fédérales avec 73 % de précision.",
+    "ja": "ブロードキャストの受信装置と、1秒あたり60量子ビットを処理できる量子コンピューターユニット。これらを使うことで星団に関連した位置データと連邦当局のデータをリアルタイムに、73%の精度で紐づけることができる。",
+    "ko": "초당 60 큐비트 연산이 가능한 신호 수신 및 양자 컴퓨팅 장치입니다. 연방 행정에서 사용되는 성계 좌표에 따른 위치 정보를 73% 정확도로 계산할 수 있습니다.",
+    "ru": "Приёмник с квантовым вычислительным блоком, способным обрабатывать информацию со скоростью 60 кубитов в секунду, что позволяет в режиме реального времени сопоставлять данные о местоположении в скоплении с федеральными административными данными с точностью до 73%.",
+    "zh": "广播接收器搭配每秒可处理60量子比特的量子计算单元，能够实时、精准地将集群相关位置数据与联邦行政数据配对，配对准确率高达73%。"
+  },
+  "graphicID": 26064,
+  "groupID": 226,
   "name": {
     "de": "Dispatch Informational Coordinator",
     "en": "Dispatch Informational Coordinator",
@@ -10,5 +21,8 @@
     "ru": "Dispatch Informational Coordinator",
     "zh": "调度信息协调员"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 782.0,
+  "sofFactionName": "gallentebase"
 }

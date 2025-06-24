@@ -1,5 +1,18 @@
 {
-  "typeID": 2400,
+  "basePrice": 1.0,
+  "description": {
+    "de": "Giftmetalle werden aus Schwermetallen gewonnen und verfügen über keine biologische Funktion. Tatsächlich sind sie für die meisten Lebewesen giftig.",
+    "en": "Derived from heavy metals, toxic metals are those that have no biological function and are in fact poisonous to most living creatures.",
+    "es": "Derivados de los metales pesados, los metales tóxicos son aquellos que no tienen una función biológica y, de hecho, resultan venenosos para la mayoría de los seres vivos.",
+    "fr": "Dérivés des métaux lourds, les métaux toxiques n'ont pas de fonction biologique et sont en réalité toxiques pour la plupart des créatures vivantes.",
+    "ja": "重金属から生成される。生物学的な機能はなく、実際のところ、ほとんどの生命体にとって有毒である。",
+    "ko": "중금속에서 파생된 유독성 금속은 생물학적 기능이 전무하며 대다수의 생명체에게 유해합니다.",
+    "ru": "Токсичные металлы производят из тяжелых металлов. Они не выполняют никаких биологических функций, совсем наоборот: для большинства живых организмов они обладают отравляющим действием.",
+    "zh": "有毒金属从重金属中分离出来，没有任何生物学功能，而且对大多数的生物都是有害的。"
+  },
+  "groupID": 1042,
+  "iconID": 10022,
+  "marketGroupID": 1334,
   "name": {
     "de": "Toxic Metals",
     "en": "Toxic Metals",
@@ -10,5 +23,7 @@
     "ru": "Toxic Metals",
     "zh": "有毒金属"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.19
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 60730,
+  "description": {
+    "de": "Die Capital-Schiff-Konstruktions- und Nachrüstungsoperationen, die AEGIS durchführt, benötigen eine beträchtliche Anzahl an Schmiedewerkzeugen und Ressourcen. Diese wertvollen Gegenstände werden in einem Lager aufbewahrt, das nur mit dem dafür vorgesehenen codierten AEGIS-Sicherheitsschlüssel geöffnet werden kann. Der Transponder dieses Sicherheitsschlüssels ist mit einem eindeutigen Code versehen, der den Zugang zum betreffenden Beschleunigungstor ermöglicht.",
+    "en": "The capital ship construction and refitting operations being carried out by AEGIS require significant numbers of forging tools and resources. These valuable items are kept in a storage location that is only accessible with the correct AEGIS Coded Security Key.\r\n\r\nThis security key's transponder is set with the unique code that acts as a key to the specified acceleration gate.",
+    "es": "La construcción y el reajuste de naves capitales que AEGIS lleva a cabo requieren un número considerable de recursos y herramientas de forja. Estos valiosos objetos se guardan en una zona de almacenamiento a la que solo se puede acceder con la llave de seguridad codificada correcta de AEGIS.\n\nEl transpondedor de esta llave de seguridad tiene un código único que abre y cierra el portal de aceleración indicado.",
+    "fr": "Les opérations de construction et de refonte des vaisseaux capitaux menées par AEGIS nécessitent un nombre important d'outils et de ressources de forgeage. Ces précieux objets sont conservés dans un entrepôt dont l'accès est garanti par une clé de sécurité codée d'AEGIS. Le transpondeur de cette clé de sécurité est réglé sur un code unique autorisant l'accès au portail d'accélération correspondant.",
+    "ja": "イージスが行っている主力艦の建設と改修オペレーションは、大量の鍛造ツールと資源を必要としている。これらの貴重なリソースは、正しいイージスコード化セキュリティキーがなければアクセスできない保管場所で管理されている。\n\n\n\nセキュリティキーのトランスポンダーは固有のコードとセットになっている。このコードは、特定のアクセラレーションゲートで使用するキーとして機能する。",
+    "ko": "캐피탈 함선에 대한 건조 및 피팅 작업은 다량의 장비와 재료를 요구합니다. 제작 재료는 AEGIS 암호 출입키로만 접근할 수 있는 저장고에 보관되어 있습니다.<br><br>암호 출입키에 내장된 응답기는 특수한 신호를 내보내 액셀레이션 게이트의 잠금을 해제할 수 있습니다.",
+    "ru": "При изготовлении и переоснащении КБТ ЭГИДА использует большое количество материалов и оборудования. Эти ценные предметы хранятся на объекте, куда можно попасть только с зашифрованным ключом безопасности. Ретранслятор этого ключа передаёт уникальный код, открывающий доступ к определённым разгонным воротам.",
+    "zh": "统合部紧急干预和安全局的旗舰建造和装配作业需要海量的工具和资源。这些贵重物品保存在一座储存设施中，只有使用正确的统合部紧急干预和安全局加密安全密钥才能打开。\n\n\n\n这个密钥的收发器使用了独特的编码，只能对特定的加速轨道使用。"
+  },
+  "groupID": 474,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "AEGIS Coded Security Key SCCF-FTS",
     "en": "AEGIS Coded Security Key SCCF-FTS",
@@ -10,5 +22,7 @@
     "ru": "AEGIS Coded Security Key SCCF-FTS",
     "zh": "统合部紧急干预和安全局加密安全密钥SCCF-FTS"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

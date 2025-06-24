@@ -1,5 +1,18 @@
 {
-  "typeID": 43699,
+  "description": {
+    "de": "Eisschürfdrohne",
+    "en": "Ice Harvesting Drone",
+    "es": "Dron recolector de hielo",
+    "fr": "Drone collecteur de glace",
+    "ja": "氷採掘ドローン",
+    "ko": "아이스 채굴 드론",
+    "ru": "Дрон для добычи льда",
+    "zh": "冰矿采集无人机"
+  },
+  "graphicID": 21421,
+  "groupID": 101,
+  "marketGroupID": 158,
+  "metaGroupID": 1,
   "name": {
     "de": "Ice Harvesting Drone I",
     "en": "Ice Harvesting Drone I",
@@ -10,5 +23,9 @@
     "ru": "Ice Harvesting Drone I",
     "zh": "冰矿采集无人机 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 5.0,
+  "sofFactionName": "frostline",
   "volume": 50.0
 }

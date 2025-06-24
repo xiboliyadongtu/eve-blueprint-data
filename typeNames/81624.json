@@ -1,5 +1,20 @@
 {
-  "typeID": 81624,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Das Wrack eines EDENCOM-Aufklärungsschiffs, das zur Erforschung immenser Energieentladungen in unerforschten Bereichen der Raumverwerfung des Abgrunds eingesetzt wurde. In den Wrackteilen kann wertvolle Technologie verborgen sein, die mittels eines Reliktanalysegeräts geborgen werden kann.",
+    "en": "The wreckage of an EDENCOM scout ship, deployed to probe immense energy discharges within uncharted realms of Abyssal Deadspace.\r\n\r\nConcealed within the wreckage, lies the potential to recover valuable technology through the application of a relic analyzer.",
+    "es": "Restos de una nave exploradora de EDENCOM desplegada para sondear inmensas descargas de energía en mundos inexplorados del espacio muerto abisal.\r\n\r\nLos restos tal vez contengan valiosa tecnología que podría recuperarse mediante la aplicación de un analizador de reliquias.",
+    "fr": "L'épave d'un vaisseau éclaireur EDENCOM, déployé pour sonder d'immenses décharges d'énergie au sein des territoires inexplorés de l'abîme Deadspace. Dissimulées dans les débris, il y a une chance potentielle de récupérer des technologies précieuses à l'aide d'un analyseur de reliques.",
+    "ja": "アビサルデッドスペースの未踏破宙域における莫大なエネルギー放射を調査するために派遣された、EDENCOMの偵察船の残骸。\r\n\r\n遺物アナライザーを使えば、残骸に紛れている貴重なハイテク装置を回収できる可能性がある。",
+    "ko": "EDENCOM 정찰선 전해입니다. 어비설 데드스페이스의 미개척지에서 방출되는 에너지를 조사하기 위해 파견되었습니다.<br><br>유물 분석기를 사용하여 잔해에서 각종 첨단 기술을 추출할 수 있습니다.",
+    "ru": "Обломки разведывательного корабля ЭДЕНКОМа, отправленного для изучения мощных выбросов энергии в неизведанных пространствах Мёртвой бездны. Возможно, эти обломки всё ещё хранят ценные технологии, которые можно обнаружить с помощью анализатора артефактов.",
+    "zh": "伊甸联合防御阵线侦察舰船的残骸，该舰船在执行“探测发生在深渊空间未知领域内的大量能量释放”任务中遭遇意外。使用遗迹分析仪或许能从这些残骸中回收前沿科技。"
+  },
+  "graphicID": 27384,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "EDENCOM Scout Stash",
     "en": "EDENCOM Scout Stash",
@@ -10,5 +25,9 @@
     "ru": "EDENCOM Scout Stash",
     "zh": "伊甸联合防御阵线侦察舰船藏匿处"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 228.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

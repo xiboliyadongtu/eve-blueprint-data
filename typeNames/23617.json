@@ -1,5 +1,18 @@
 {
-  "typeID": 23617,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Station, die vom FON (Friends of Nature) Naturschutzbund betrieben wird, um gegen die Besetzung des Skeleton Comet Parks durch die Schmuggler der Serpentis zu protestieren.",
+    "en": "Station operated by the FON environmental organization to protest the occupation of the Serpentis smugglers of the Skeleton Comet park.",
+    "es": "Estación operada por la organización ecologista ADLNA para protestar por la ocupación de los contrabandistas serpentis del parque de Cometa Esquelético.",
+    "fr": "Station gérée par l'organisation environnementale FON protestant contre l'occupation par les contrebandiers serpentis du parc de la comète du Squelette.",
+    "ja": "FON環境組織の運営するステーションで、サーペンティスの密輸業者がスケルトンコメットパークを占拠したことに抗議するためのもの。",
+    "ko": "환경단체인 네이쳐 조합의 정거장으로 서펜티스 밀수업자들의 스켈레톤 혜성 점거를 항의하기 위해 운영되고 있습니다.",
+    "ru": "Станция, использующаяся экологической организацией FON для проведения протеста против захвата парка Skeleton Comet контрабандистами Serpentis.",
+    "zh": "由FON环保组织运作的空间站，借以对抗天蛇走私者对骷髅彗星公园的占领。"
+  },
+  "graphicID": 1712,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "FON Operation Station",
     "en": "FON Operation Station",
@@ -10,5 +23,10 @@
     "ru": "FON Operation Station",
     "zh": "FON控制站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 918.0,
+  "sofFactionName": "gallentebase",
   "volume": 100000000.0
 }

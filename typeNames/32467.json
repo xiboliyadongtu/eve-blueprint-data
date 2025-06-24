@@ -1,5 +1,18 @@
 {
-  "typeID": 32467,
+  "basePrice": 4996.0,
+  "description": {
+    "de": "Überträgt die Schildenergie hinüber auf das Zielschiff, um dessen Verteidigung zu verstärken.",
+    "en": "Transfers shield power over to the target ship, aiding in its defense.",
+    "es": "Transfiere potencia del escudo a la nave objetivo, contribuyendo así a su defensa.",
+    "fr": "Transfère de l'énergie de bouclier vers le vaisseau cible, l'aidant ainsi à se défendre.",
+    "ja": "味方艦船にシールドエネルギーを転送して、防衛能力を向上させる。",
+    "ko": "대상 함선에 실드 에너지를 전송합니다.",
+    "ru": "Подкачивает энергией щиты корабля-цели, усиливая его защиту.",
+    "zh": "将护盾的能量传输到目标舰船上，帮助其进行防御。"
+  },
+  "groupID": 41,
+  "iconID": 86,
+  "metaGroupID": 1,
   "name": {
     "de": "Civilian Small Remote Shield Booster",
     "en": "Civilian Small Remote Shield Booster",
@@ -10,5 +23,8 @@
     "ru": "Civilian Small Remote Shield Booster",
     "zh": "民用小型远程护盾回充增量器"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 3586,
   "volume": 5.0
 }

@@ -1,5 +1,20 @@
 {
-  "typeID": 24305,
+  "capacity": 10.0,
+  "description": {
+    "de": "Der modulierte Deep-Core-Bergbaulaser ist ein technologisches Wunder, das die Fähigkeiten des weit verbreiteten Miner II mit denen des einfachen-Deep Core-Bergbaulaser kombiniert: Da er ein modulares Kristallsystem verwendet, kann er im Handumdrehen auf maximale Effizienz modifiziert werden. Kann nur auf Bergbaubarkassen (Mining Barges) und Ausgrabungsschiffen (Exhumers) verwendet werden.",
+    "en": "The modulated deep core miner is a technological marvel that combines the capacities of the commonly used Miner II with that of the deep core mining laser. Using a modular mining crystal system, it can be altered on the fly for maximum efficiency.\r\n\r\nCan only be fit to Mining Barges and Exhumers.",
+    "es": "El minero de núcleo profundo modulado es una maravilla tecnológica que combina las capacidades del minero II de uso común con las del láser minero de núcleo profundo. Mediante un sistema de cristal de minería modular, se puede modificar sobre la marcha para obtener la máxima eficiencia.\n\nSolo se puede equipar en gabarras mineras y exhumadores.",
+    "fr": "Le laser d'extraction modulé de grande profondeur est une merveille technologique combinant les capacités d'un laser d'extraction II normal et d'un laser d'extraction minière profonde. En utilisant un système de cristal d'extraction modulaire, il peut être modifié en temps réel pour une efficacité maximale.\n\nNe convient qu'aux barges d'extraction minière et aux Exhumers.",
+    "ja": "この改良型ディープコアマイナーは、広く使われている採掘機IIとディープコア採掘レーザーの性能を併せ持つという、テクノロジーの驚異である。改良型採掘用クリスタル装置を採用し、宙域でもクリスタルを換装して採掘効率を最大限に上げられる。 \n\n採掘艦および特化型採掘艦にのみ搭載可能。",
+    "ko": "보정된 딥코어 채굴기는 일반적으로 사용되는 채굴기 II와 딥코어 채굴 레이저의 장점을 융합한 기술적 혁신입니다. 모듈식 채광용 크리스탈 시스템을 사용할 시 최대의 효율을 끌어낼 수 있습니다. <br><br>채광선 및 익스허머에만 장착할 수 있습니다.",
+    "ru": "Модулируемый лазер глубокого бурения — настоящее чудо техники, объединившее в себе лучшие черты буровых лазеров глубокого бурения и популярных буровых лазеров типа Miner II. Производительность лазера можно довести до максимальной, непосредственно перед началом работы подстроив его под конкретный тип руды путём замены подстроечного кристалла.\n\nПредназначен для оснащения буровых кораблей первого поколения и тяжёлых буровых кораблей.",
+    "zh": "调制型深层地核采矿器是一项科技奇迹，集普通的采矿器II与深层地核采矿激光器的功能于一体。它使用模块化的采矿晶体系统，因此可以在出航时更换晶体以获得最佳采矿效率。只能装配在采矿驳船和采掘者舰船上。"
+  },
+  "graphicID": 11145,
+  "groupID": 483,
+  "iconID": 2527,
+  "marketGroupID": 1040,
+  "metaGroupID": 2,
   "name": {
     "de": "Modulated Deep Core Strip Miner II",
     "en": "Modulated Deep Core Strip Miner II",
@@ -10,5 +25,10 @@
     "ru": "Modulated Deep Core Strip Miner II",
     "zh": "调制型深层地核露天采矿器 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 25.0,
+  "sofFactionName": "prospecting",
+  "variationParentTypeID": 17482,
   "volume": 5.0
 }

@@ -1,5 +1,20 @@
 {
-  "typeID": 2585,
+  "basePrice": 3700000.0,
+  "capacity": 500.0,
+  "description": {
+    "de": "Das modulare Design dieser Verwaltungsstruktur kann stückweise vom Orbit aus eingesetzt und anschließend manuell auf der Oberfläche von MTACs und Ingenieurspersonal zusammengebaut werden. Die Einrichtung kann sich an nahezu jede Neigung oder andere unkritische geologische Gefahr anpassen, da sie durch selbsteinstellende Masten, die sich an die Gegebenheiten des jeweiligen Terrains ausrichten, getragen wird. Sobald sie in Betrieb genommen wird, fungiert sie als zentraler Kommandoposten, um die Aktivitäten aller anderen Knoten zu koordinieren, und gleichzeitig als grundlegende Transportanlage zu dienen, um Güter mithilfe von vertikal abgeschossenen Standardraketen zu versenden.",
+    "en": "The modular design of this administrative structure allows it to be deployed piecemeal from orbit, then manually assembled on the surface by MTACs and engineering personnel. Supported by self-regulating pylons that follow the contours of indigenous terrain, the facility can accommodate almost any severity of incline or other non-critical geological hazard. Once active, it serves as both a central command post to coordinate the activity of all other nodes and a basic transportation site for getting commodities off world using standard, vertically launched rockets.",
+    "es": "El diseño modular de esta estructura administrativa permite su despliegue gradual desde órbita y su posterior ensamblaje manual en la superficie por los CTM y el personal de ingeniería. Esta instalación, sostenida por pilares autorregulables que siguen los contornos del terreno indígena, puede adaptarse a casi cualquier pendiente y otros inconvenientes geológicos no críticos. Una vez activada, sirve como puesto de mando central para coordinar la actividad de todos los demás nodos y como zona de transporte básica para obtener mercancías del mundo exterior usando cohetes estándar de despegue vertical.",
+    "fr": "La conception modulaire de cette structure administrative lui permet d'être déployée pièce par pièce en orbite, avant d'être assemblée manuellement à la surface par des châssis à bras mécaniques et un personnel qualifié. Soutenue par des pylônes autorégulateurs qui suivent les contours du terrain, la structure peut s'adapter à presque tous les angles d'inclinaison et aux dangers géologiques non critiques. Une fois activée, elle sert à la fois de poste de commandement central pour coordonner l'activité de tous les autres nœuds et de site de transport pour expédier des marchandises à l'aide de roquettes standard lancées verticalement.",
+    "ja": "モジュール式設計の管理用構造物。軌道からモジュールのまま配置し、その後 MTAC やエンジニアリングスタッフが地表で組み立てることが可能。自動制御式パイロンで固有の地形の輪郭に合わせて支えるため、きつい傾斜や比較的軽度の土砂災害のほとんどに対応できる。アクティブにすると、他の全てのノードの活動を統合する中央司令部として機能するだけでなく、標準の垂直発射ロケットを使用して商品を発射する簡易輸送拠点にもなる。",
+    "ko": "모듈식 관리 시설의 일종으로 궤도 발사를 통해 전개용 구조물을 지상으로 운반합니다. 이후 MTAC 및 기술 인력이 투입되어 구조물에 대한 수동 설치를 진행합니다. 추가로 지상 경계선에 자동 조절식 파일론을 설치하여 구조물의 전반적인 안정성을 확보하며 잠재적인 지질학적 위험에 대한 대응책을 마련합니다. 활성화 시 중앙 지휘소의 역할을 포함한 각종 구조물을 연결하는 연결고리로써 기능하게 됩니다. 또한 기초적인 운반 시설이 설치되어 우주 방면으로 화물을 운송할 수 있습니다.",
+    "ru": "Благодаря модульной конструкции этого административного центра его можно полностью развернуть с орбиты, а затем вручную собрать на поверхности с помощью команды техников и MTAC. Комплекс опирается на саморегулирующиеся опоры, которые могут приспособиться к любым контурам поверхности, устоять на склоне почти любой крутизны, и выдержать другие неугрожающие жизни геологические особенности планеты. После подключения он становится одновременно и центральным командным пунктом для координации всех действий любых других узлов, и основным транспортировочным пунктом для переброски товаров с поверхности планеты с помощью стандартных ракет вертикального запуска.",
+    "zh": "这种行政建筑的模块化设计让它可以从轨道上一块一块的进行部署，然后再由MTAC和工程人员在地面上进行安装。用于支撑建筑的自调节式支柱根据起伏的地形轮廓能够自行进行平衡调整，整个设施可以适应几乎任何剧烈的地形起伏或者其他非极端地质障碍。一旦开始运转，它既能够作为中央控制中心用于协调其他节点的各种活动，又可以作为一个基本的转运站，使用标准的垂直发射火箭运送各种物资。"
+  },
+  "graphicID": 4566,
+  "groupID": 1027,
+  "mass": 5000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Advanced Temperate Command Center",
     "en": "Advanced Temperate Command Center",
@@ -10,5 +25,8 @@
     "ru": "Advanced Temperate Command Center",
     "zh": "温和行星高级指挥中心"
   },
+  "portionSize": 1,
+  "published": false,
+  "variationParentTypeID": 2254,
   "volume": 800.0
 }

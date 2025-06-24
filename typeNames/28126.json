@@ -1,5 +1,18 @@
 {
-  "typeID": 28126,
+  "basePrice": 495994559.0,
+  "description": {
+    "de": "Ein einfaches Upgrade für das Herstellungspotential von Minmatar-Außenposten. Verringert die Herstellungszeit für alle Module um 20%.",
+    "en": "A basic upgrade to Minmatar Outpost manufacturing capabilities. Gives a manufacturing time reduction on all Modules of 20%.",
+    "es": "Mejora básica de las capacidades de fabricación en puestos avanzados minmatarianos. Genera una reducción del 20 % del tiempo de fabricación de todos los módulos.",
+    "fr": "Amélioration de base permettant d'augmenter les capacités de production d'un avant-poste minmatar. Réduit jusqu'à 20 % le temps de production de tous les modules.",
+    "ja": "ミンマターアウトポストの製造力を高める基本的なアップグレード。モジュールの製造時間が20%短縮される。",
+    "ko": "민마타 전초기지의 제조 기능을 개선하기 위한 기본 업그레이드입니다. 모듈 제조 시간 20% 감소",
+    "ru": "Базовый модуль расширения производственных мощностей станции Minmatar. Уменьшает время производства всех модулей на 20%.",
+    "zh": "针对米玛塔尔哨站生产能力的基础升级方案。所有装备生产时间减少20%。"
+  },
+  "graphicID": 3305,
+  "groupID": 872,
+  "iconID": 3304,
   "name": {
     "de": "Minmatar Basic Outpost Factory",
     "en": "Minmatar Basic Outpost Factory",
@@ -10,5 +23,10 @@
     "ru": "Minmatar Basic Outpost Factory",
     "zh": "米玛塔尔基础哨站车间"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 19079.0,
+  "sofFactionName": "minmatarbase",
   "volume": 1.0
 }

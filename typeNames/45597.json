@@ -1,5 +1,21 @@
 {
-  "typeID": 45597,
+  "capacity": 300.0,
+  "description": {
+    "de": "Nach jahrelanger Erfahrung aus der Arbeit mit geborgener Sleeper- und Talocan-Technologie aus Anoikis erreichten Sebiestor-Ingenieure einen Durchbruch, der lange als unmöglich galt: Sie entwickelten erfolgreich Fulleren-Nanomaschinen, welche in gleichem Maße Schild und Panzerung reparieren können. Diese winzigen Nanobots können ohne Zeitverlust zwischen der Reparatur von Schild und Panzerung wechseln. Dies ermöglicht der Loki ein unglaubliches Reparatursystem ohne Ausrüstungsanlagen.",
+    "en": "After years of experience working with recovered Sleeper and Talocan technology from Anoikis, Sebiestor engineers have achieved a new breakthrough long though impossible: they have successfully developed fullerene nanomachines capable of repairing either shield and armor equally effectively. These tiny nanobots can actively switch between shield and armor repair on the fly allowing the Loki to achieve incredible repair systems without refitting facilities.",
+    "es": "Tras años de experiencia trabajando con la tecnología sleeper y talocana recuperada de Anoikis, los ingenieros de Sebiestor han logrado un nuevo avance que desde hace mucho se consideraba imposible: desarrollar con éxito nanomáquinas de fullereno capaces de reparar escudos y blindaje con la misma eficacia. Estos diminutos nanobots pueden cambiar activamente entre la reparación de escudos y blindaje sobre la marcha, lo que permite a la Loki lograr increíbles sistemas de reparación sin tener que reacondicionar las instalaciones.",
+    "fr": "Après des années d'expérience à travailler avec des technologies sleeper et talocan d'Anoikis, des ingénieurs sebiestor ont fait une découverte que l'on croyait jusqu'alors impossible : ils ont réussi à développer des nanomachines en fullerène capables de réparer aussi efficacement le bouclier que le blindage. Ces minuscules nanorobots peuvent passer de la réparation du bouclier à celle du blindage à la volée, ce qui permet au Loki d'exploiter des systèmes de réparation incroyables sans installations de révision.",
+    "ja": "アノイキスから回収したスリーパーやタロカンの文明を扱ってきたセビエスターのエンジニアたちは、長年不可能だと考えられてきたブレークスルーを成し遂げた。つまり、彼らはシールドとアーマーの両方を、等しく有効にリペアできるフラーレン製のナノマシンを開発してみせたのだ。この極小のナノボットは、シールドとアーマーのリペアを航行中に何度も切り替えることができ、これにより、ロキは装備の変更設備なしで驚異的なリペアシステムを保持できるようになった。",
+    "ko": "슬리퍼 및 탈로칸 기술에 대한 다년간의 연구를 통해 세비에스터 엔지니어들은 실드와 장갑을 동일한 효율로 복구할 수 있는 퓰러렌 기반 나노기기를 개발하는데 성공하였습니다. 로키에 탑재된 초소형 나노기기는 실드와 장갑을 오가며 수리를 진행할 수 있어 개별적인 모듈 교체가 불필요합니다.",
+    "ru": "После многих лет работы с добытыми из Аноикиса артефактами Спящих и талоканов себьесторские инженеры достигли нового, казавшегося невозможным, достижения: они разработали фуллереновые наномашины, способных с одинаковой эффективностью восстанавливать прочность как щитов, так и брони. Эти мельчайшие наноботы могут свободно переходить от ремонта брони к накачке щитов и обратно: теперь пилоты крейсеров типа «Локи» в меньшей мере нуждаются в переоснастке своих кораблей.",
+    "zh": "经过多年在阿诺基斯复原冬眠者和塔洛迦科技的经验，赛毕斯托工程师取得了不可思议的巨大突破：他们成功研制出了能够高效地进行护盾维修和装甲维修而且效果相当的富勒烯纳米机器人。这些细微的纳米机器人在飞行中能够在护盾维修和装甲维修之间自由切换，允许洛基级无需重新装配就能获得强大的维修系统。"
+  },
+  "graphicID": 21787,
+  "groupID": 954,
+  "iconID": 3631,
+  "marketGroupID": 1128,
+  "mass": 1400000.0,
+  "metaGroupID": 14,
   "name": {
     "de": "Loki Defensive - Adaptive Defense Node",
     "en": "Loki Defensive - Adaptive Defense Node",
@@ -10,5 +26,101 @@
     "ru": "Loki Defensive - Adaptive Defense Node",
     "zh": "洛基防御 - 自适应防御节点"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "sofFactionName": "minmatarbase",
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "<b><u>Zusätzliche Basiswerte</b></u>",
+          "en": "<b><u>Additional Base Stats</b></u>",
+          "es": "<b><u>Estadísticas básicas adicionales</b></u>",
+          "fr": "<b><u>Stats de base supplémentaires</b></u>",
+          "ja": "<b><u>追加ベース統計</b></u>",
+          "ko": "<b><u>추가 기본 능력치</b></u>",
+          "ru": "<b><u>Кроме того:</b></u>",
+          "zh": "<b><u>附加基础数值</b></u>"
+        },
+        "importance": 1
+      },
+      {
+        "bonusText": {
+          "de": "+2 Mid Slots, +2 Low Slots",
+          "en": "+2 Mid Slots, +2 Low Slots",
+          "es": "+2 ranuras intermedias, +2 ranuras inferiores",
+          "fr": "+2 Emplacements intermédiaires, +2 Emplacements inférieurs",
+          "ja": "ミッドスロット+2、ロースロット+2",
+          "ko": "미드 슬롯 +2, 로우 슬롯 +2",
+          "ru": "+2 разъёма средней мощности, +2 разъёма малой мощности",
+          "zh": "中槽+2，低槽+2"
+        },
+        "importance": 2
+      },
+      {
+        "bonusText": {
+          "de": "+300 Schild-HP, +300 Panzerungs-HP, +100 Rumpf-HP",
+          "en": "+300 Shield HP, +300 Armor HP, +100 Hull HP",
+          "es": "+300 PV de escudo, +300 PV de blindaje, +100 PV de casco",
+          "fr": "+300 PV au bouclier, +300 PV au blindage, +100 PV à la coque",
+          "ja": "シールドHP+300、アーマーHP+300、船体HP+100",
+          "ko": "실드량 +300, 장갑 내구도 +300, 선체 내구도 +100",
+          "ru": "+300 единиц прочности щитов, +300 единиц прочности брони, +100 единиц прочности корпуса",
+          "zh": "护盾值+300，装甲值+300，结构值+100"
+        },
+        "importance": 3
+      },
+      {
+        "bonusText": {
+          "de": "+300 GJ Energiespeicherkapazität",
+          "en": "+300GJ Capacitor Capacity",
+          "es": "+300 GJ de capacidad del condensador",
+          "fr": "Charge de capaciteur +300 GJ",
+          "ja": "キャパシタ容量+300GJ",
+          "ko": "캐패시터 용량 +300 GJ",
+          "ru": "+300 ГДж ёмкости накопителя",
+          "zh": "电容器电容量+300GJ"
+        },
+        "importance": 4
+      }
+    ],
+    "types": {
+      "30545": [
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf die Effektivität von <a href=showinfo:3393>Panzerungsreparatursystemen</a> und <a href=showinfo:3416>Schildboostern</a>",
+            "en": "bonus to <a href=showinfo:3393>Armor Repairer</a> and <a href=showinfo:3416>Shield Booster</a> effectiveness",
+            "es": "de bonificación a la efectividad del <a href=showinfo:3393>reparador de blindaje</a> y el <a href=showinfo:3416>potenciador de escudo</a>.",
+            "fr": "de bonus à l'efficacité du <a href=showinfo:3393>Réparateur de blindage</a> et du <a href=showinfo:3416>Booster de bouclier</a>",
+            "ja": "<a href=showinfo:3393>アーマーリペアラ</a>と<a href=showinfo:3416>シールドブースター</a>の効果にボーナス",
+            "ko": "<a href=showinfo:3393>장갑수리 장치</a> 및 <a href=showinfo:3416>실드 부스터</a> 과부하 시 보너스 효과 증가",
+            "ru": "повышается производительность <a href=showinfo:3393>установок ремонта брони</a> и <a href=showinfo:3416>установок накачки щитов</a>",
+            "zh": "<a href=showinfo:3393>装甲维修器</a>和<a href=showinfo:3416>护盾回充增量器</a>效果加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf den Nutzen der Überhitzung von <a href=showinfo:3393>Panzerungsreparatursystemen</a> und <a href=showinfo:3416>Schildboostern</a>",
+            "en": "bonus to the benefits of overheating <a href=showinfo:3393>Armor Repairers</a> and <a href=showinfo:3416>Shield Boosters</a>",
+            "es": "de bonificación a los beneficios de sobrecalentar los <a href=showinfo:3393>reparadores de blindaje</a> y los <a href=showinfo:3416>potenciadores de escudo</a>.",
+            "fr": "de bonus aux avantages de la surchauffe des <a href=showinfo:3393>Réparateurs de blindage</a> et des <a href=showinfo:3416>Boosters de bouclier</a>",
+            "ja": "オーバーヒートした<a href=showinfo:3393>アーマーリペアラ</a>と<a href=showinfo:3416>シールドブースター</a>の恩恵にボーナス",
+            "ko": "<a href=showinfo:3393>장갑수리 장치</a> 및 <a href=showinfo:3416>실드 부스터</a> 과부하 시 보너스 효과 증가",
+            "ru": "усиливается влияние перегрузки на параметры <a href=showinfo:3393>установок ремонта брони</a> и <a href=showinfo:3416>установок накачки щитов</a>",
+            "zh": "<a href=showinfo:3393>装甲维修器</a>和<a href=showinfo:3416>护盾回充增量器</a>过载效果加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 45595,
   "volume": 40.0
 }

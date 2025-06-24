@@ -1,5 +1,16 @@
 {
-  "typeID": 53091,
+  "description": {
+    "de": "Diese Kiste enthält ein Verteidigungsmodul, das für die Nutzung an den Fregatten und Zerstörern Ihrer Fraktion geeignet ist. Diese Module verbrauchen Energiespeicherladung und stellen bei Aktivierung einige der HP Ihres Schiffes wieder her. In der Kapselpiloten-Sprache werden Verteidigungsmodule häufig als „Tank“-Module bezeichnet und der Begriff „Tanken“ beschreibt die Art und Weise, auf die sich ein Schiff in feindlichen Umgebungen am Leben hält.",
+    "en": "This crate contains a defensive module appropriate for use on your faction's frigates and destroyers. \r\nThese modules consume capacitor charge and recover some of your ship's hitpoints when activated. \r\nIn Capsuleer shorthand, defensive modules are often called \"tank\" modules and the term \"tanking\" is used to describe the ways in which a ship keeps itself alive in hostile environments.",
+    "es": "Esta caja contiene un módulo defensivo apropiado para usar en las fragatas y los destructores de tu facción. \n\nEstos módulos consumen carga del condensador y recuperan algunos de los puntos de vida de tu nave cuando se activan. \n\nEn la jerga capsulista, los módulos defensivos suelen llamarse módulos tanque o tanquerizados, y el término «tanquerizar» se usa para describir las formas en las que una nave se mantiene viva en entornos hostiles.",
+    "fr": "Cette caisse contient un module défensif idéal à employer sur les frégates et les destroyers de votre faction. Ces modules consomment des charges de capaciteur et restaurent certains des points de vies de votre vaisseau lors de leur activation. En termes de capsuliers, les modules défensifs sont souvent appelés des modules « protecteurs » et le mot de « protection » s'emploie pour décrire la manière dont un vaisseau résiste en environnement hostile.",
+    "ja": "この箱には自勢力のフリゲートや駆逐艦で使用するのに適した防衛モジュールが入っている。\r\nこれらのモジュールはコンデンサーの電荷を消費し、起動時に自機のHPの一部を回復する。\r\nカプセラ語で言うと、防御モジュールはいわゆる「タンク」用モジュールであり、「タンキング」とは艦船が戦闘環境で生き残るためのさまざまな方法を指す。",
+    "ko": "소속 팩션의 프리깃 및 디스트로이어에 적합한 방어 모듈이 담겨 있는 상자입니다.<br><br>이 모듈은 캐패시터를 소모하여 함선의 장갑 내구도를 일정량 회복시킵니다. <br><br>방어 모듈은 캡슐리어들 사이에서는 흔히 \"탱크 모듈\"이라 불리는데, 적대적 환경 속에서도 생존을 보장한다는 의미에서 이러한 별칭이 붙었습니다.",
+    "ru": "В этом контейнере находится защитный модуль, подходящий для фрегатов и эсминцев вашего государства. Этот модуль расходует заряд накопителя и после активации частично восстанавливает прочность вашего корабля. В кругах капсулёров защитные модули часто называют «танковыми», а образ действия, при котором корабль способен в течение продолжительного времени выдерживать большое количество урона, они называют «танковкой».",
+    "zh": "这个箱子中有一个适用于你所在势力的护卫舰和驱逐舰的防御性装备。 \n\n这种装备启用后会消耗电容来修复你的舰船的部分损伤。 \n\n在克隆飞行员的俗语中，防御性装备一般被称为“抗”装，用来说明它如何帮助舰船在敌对环境中活下来。"
+  },
+  "groupID": 1194,
+  "iconID": 21725,
   "name": {
     "de": "Defensive Ship Module",
     "en": "Defensive Ship Module",
@@ -10,5 +21,7 @@
     "ru": "Defensive Ship Module",
     "zh": "舰船防御装备"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 5.0
 }

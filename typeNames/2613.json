@@ -1,5 +1,21 @@
 {
-  "typeID": 2613,
+  "basePrice": 101160.0,
+  "description": {
+    "de": "Die Mjolnir Light Missile, eine fortschrittliche Lenkwaffe mit einer unberechenbaren Sprengladung aus magnetisiertem Plasma, ist eine Mehrzwecklenkwaffe, die speziell für die Zerschlagung von Schilden konstruiert wurde.\n\n\n\nEine modifizierte Version der Mjolnir Light Missile. Verursacht größeren Schaden als die Vorgängermunition. Die Unberechenbarkeit des Sprengkopfs und das leistungsstarke Abschirmsystem verringern jedoch sowohl Flugzeit als auch Genauigkeit.",
+    "en": "An advanced missile with a volatile payload of magnetized plasma, the Mjolnir light missile is specifically engineered to take down shield systems.\r\n\r\nA modified version of the Mjolnir light missile. Does more damage than its predecessor but the volatile nature of the warhead, and its powerful containment system, reduce both flight time and precision.",
+    "es": "El misil ligero Mjolnir, un proyectil avanzado con una carga útil volátil de plasma magnetizado, está específicamente diseñado para derribar sistemas de escudos.\n\nUna versión modificada del misil ligero Mjolnir. Inflige más daño que su predecesor, pero la naturaleza volátil de la ojiva y su potente sistema de contención reducen tanto el tiempo de vuelo como la precisión.",
+    "fr": "Missile perfectionné doté d'une charge explosive de plasma magnétisé, le missile léger Mjolnir est conçu tout particulièrement pour venir à bout des systèmes de boucliers.\n\nVersion modifiée du missile léger Mjolnir. Il inflige davantage de dégâts que son prédécesseur, mais la nature explosive de l'ogive, combinée à son puissant système de confinement, réduit à la fois le temps de vol et la précision.",
+    "ja": "ミョルニールライトミサイルは、磁化プラズマ封入弾頭を搭載した高性能ミサイルで、シールド防御を破るのに特化した設計になっている。\n\nミョルニールライトミサイルの改良版。従来型より与えるダメージは高いが、不安定な物質を使った弾頭と強化封じ込めシステムのせいで、飛行時間や精度は劣る。",
+    "ko": "자화 플라즈마로 구성된 묠니르 라이트 미사일은 실드 시스템 무력화에 특화된 무기입니다. <br><br>개량된 묠니르 라이트 미사일입니다. 기존 버전보다 파괴력은 뛰어나지만 낮은 탄두 안정성과 고성능 격납시스템의 탑재로 인해 사거리 및 정확도는 상대적으로 떨어집니다.",
+    "ru": "Mjolnir — усовершенствованная многоцелевая ракета с нестабильным боевым зарядом намагниченной плазмы. Она специально спроектирована для выведения из строя щитов.\n\n\n\nМодифицированная версия легкой ракеты Mjolnir. Обладает более значительным разрушительным действием, чем базовая модель, но при этом имеет меньшую дальность полета и пониженную эффективность ввиду низкой стабильности боеголовки.",
+    "zh": "雷神轻型导弹被专门设计来摧毁舰船护盾系统，并因此配备了不稳定磁化离子载荷。这是雷神轻型导弹的一种改良版本，相比其前身具备更强的伤害力，但由于其强大的密封系统及高度不稳定性，飞行时间和准确性都有所降低。"
+  },
+  "graphicID": 20062,
+  "groupID": 653,
+  "iconID": 192,
+  "marketGroupID": 927,
+  "mass": 700.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Mjolnir Fury Light Missile",
     "en": "Mjolnir Fury Light Missile",
@@ -10,5 +26,9 @@
     "ru": "Mjolnir Fury Light Missile",
     "zh": "雷神愤怒轻型导弹"
   },
+  "portionSize": 5000,
+  "published": true,
+  "radius": 300.0,
+  "variationParentTypeID": 212,
   "volume": 0.015
 }

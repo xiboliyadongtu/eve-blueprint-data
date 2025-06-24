@@ -1,5 +1,18 @@
 {
-  "typeID": 42668,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Die strukturelle Integrität dieses Schlachtschiffs ist völlig zerstört.",
+    "en": "The structural integrity of this battleship class vessel is completely shattered.",
+    "es": "La integridad estructural de esta nave de clase acorazado está totalmente destrozada.",
+    "fr": "L'intégrité structurelle de ce vaisseau de classe cuirassé est complètement démantibulée.",
+    "ja": "この戦艦の構造的完全性は失われ、バラバラになっている。",
+    "ko": "완전히 파괴되어 수리가 불가능한 배틀쉽입니다.",
+    "ru": "Корпус этого линкора находится в абсолютно невосстановимом состоянии.",
+    "zh": "这艘战列舰级舰船的结构已经支离破碎。"
+  },
+  "graphicID": 21371,
+  "groupID": 306,
+  "mass": 100000.0,
   "name": {
     "de": "Wrecked Gallente Megathron Battleship",
     "en": "Wrecked Gallente Megathron Battleship",
@@ -10,5 +23,9 @@
     "ru": "Wrecked Gallente Megathron Battleship",
     "zh": "盖伦特万王宝座级战列舰残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 400.0,
+  "sofFactionName": "gallentebase",
   "volume": 100000000.0
 }

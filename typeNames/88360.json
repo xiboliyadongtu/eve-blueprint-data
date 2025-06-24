@@ -1,5 +1,16 @@
 {
-  "typeID": 88360,
+  "description": {
+    "de": "Dank der Bemühungen der Kapselpiloten konnte EDENCOM dieses neue Kommando-Hauptquartier im Herzen von J055520 einsetzen und den direkten Kampf mit den Driftern aufnehmen.",
+    "en": "Thanks to capsuleer efforts, EDENCOM was able to deploy this new Command HQ at the heart of J055520 and take the fight to the Drifters directly.",
+    "es": "Gracias a los esfuerzos de los capsulistas, EDENCOM logró desplegar este nuevo cuartel general de mando en el corazón de J055520 y enfrentarse directamente a los drifters.",
+    "fr": "Grâce aux efforts des capsuliers, EDENCOM a pu déployer ce nouveau quartier général de commandement au cœur de J055520 et s'attaquer directement aux Drifters.",
+    "ja": "EDENCOMはカプセラの尽力によってJ055520の中枢にこの新たな司令本部を配置することに成功し、これによりドリフターへの直接攻撃が可能となった。",
+    "ko": "캡슐리어의 활약에 힘입어 EDENCOM이 J055520 성계에 지휘 본부를 설치했으며 그곳에서 드리프터와 전투를 시작합니다.",
+    "ru": "С помощью капсулёров ЭДЕНКОМу удалось разместить новый командный штаб в системе J055520 и вступить в прямое противостояние со Скитальцами.",
+    "zh": "多亏有克隆飞行员的努力，伊甸联合防御阵线才得以在J055520的核心位置部署新的指挥总部，与流浪者展开正面交锋。"
+  },
+  "graphicID": 21138,
+  "groupID": 1975,
   "name": {
     "de": "Sentinel Fortification HQ",
     "en": "Sentinel Fortification HQ",
@@ -10,5 +21,9 @@
     "ru": "Sentinel Fortification HQ",
     "zh": "哨兵防御工事总部"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 85000.0,
+  "sofFactionName": "upwell",
+  "soundID": 20232
 }

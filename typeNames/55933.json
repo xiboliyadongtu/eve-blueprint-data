@@ -1,5 +1,20 @@
 {
-  "typeID": 55933,
+  "basePrice": 1000000.0,
+  "description": {
+    "de": "Dieses verschlüsselte SCC-Wertpapier kann für 1.000.000 ISK auf CONCORD-Stationen verkauft werden. Verschlüsselte Wertpapiere sind ein etabliertes Mittel, um ISK sicher zu verwahren und große Währungsbeträge zu überweisen, ohne unbegrenzten Zugriff auf Kontendatenbanken zu gewähren.",
+    "en": "This SCC Encrypted Bond can be sold for 1,000,000 ISK at CONCORD stations.\r\n\r\nEncrypted bonds are a well-established means of securing ISK and for transferring large amounts of currency without providing unlimited access to accounting databases.",
+    "es": "Este bono cifrado de la CCS se puede vender por 1 000 000 ISK en las estaciones de CONCORD.\n\nLos bonos cifrados son un medio bien establecido para asegurar ISK y transferir grandes cantidades de dinero sin proporcionar acceso ilimitado a las bases de datos de contabilidad.",
+    "fr": "Cette obligation cryptée de la SCC peut être vendue pour 1 000 000 d'ISK dans les stations CONCORD. Les obligations cryptées sont un moyen bien établi de sécuriser les ISK et de transférer de grandes quantités de devises sans fournir d'accès illimité aux banques de données comptables.",
+    "ja": "このSCC暗号化債券は、CONCORDステーションにおいて1,000,000 ISKで売却できる。\n\n\n\n暗号化債券は、ISKの安全性を確保し、会計データベースへの無制限アクセスを提供することなく、大量の通貨を転送するための手段として定着している。",
+    "ko": "1,000,000 ISK의 가치를 지닌 SSC 암호 채권으로 CONCORD 정거장에서 판매할 수 있습니다. 암호 채권은 회계 데이터베이스를 거치지 않고 처리가 가능하며 비교적 안전하게 ISK를 전송할 수 있습니다.",
+    "ru": "Эту зашифрованную облигацию Комиссии по безопасной торговле можно продать за 1 000 000 ISK на станциях КОНКОРДа. Зашифрованные облигации — это надёжное средство защиты ISK, которое позволяет безопасно переводить большие суммы, не предоставляя пользователям неограниченный доступ к базам данных.",
+    "zh": "这个SCC加密债券可以在统合部空间站中换得1,000,000星币。\n\n\n\n加密债券是一种安全形式的星币，不需对会计数据库开放不受限访问权就能转账大量现金。"
+  },
+  "groupID": 1248,
+  "iconID": 24564,
+  "marketGroupID": 1846,
+  "mass": 0.1,
+  "metaGroupID": 1,
   "name": {
     "de": "1M Bounty SCC Encrypted Bond",
     "en": "1M Bounty SCC Encrypted Bond",
@@ -10,5 +25,8 @@
     "ru": "1M Bounty SCC Encrypted Bond",
     "zh": "100万赏金加密债券"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
   "volume": 0.01
 }

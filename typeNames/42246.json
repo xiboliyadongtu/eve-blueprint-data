@@ -1,5 +1,80 @@
 {
-  "typeID": 42246,
+  "basePrice": 15500000.0,
+  "capacity": 170.0,
+  "description": {
+    "de": "<i>„Terror und Mord sind Werkzeuge, die unserem noblen Zweck hervorragend dienen, doch nur Narren sehen in ihnen mehr als Mittel zu ebendiesem. Ist eine Atmosphäre unablässiger Furcht unserer Sache zuträglich, so müssen wir die Schwachen unter allen Umständen mit derselben Grausamkeit einschüchtern und entsetzen, mit der wir ihre erbärmlichen Gemeinschaften überziehen. Und dennoch wird der größte Schrecken durch die verborgene Klinge und das leise Wispern aus den Schatten hervorgerufen. Die Große Wahrheit kann nur von jenen gefunden werden, die die Macht in all ihren Facetten zu meistern verstehen: blutrünstige Narren und gedankenlose Mörder werden uns niemals lange auf unserem Pfad begleiten.“</i> – Omir Sarikusa, Meditationen des Blutroten Kelchs",
+    "en": "<i>\"Terror and murder are tools that serve our great work well but only fools mistake them for ends in themselves. When an atmosphere of unremitting fear is to our purpose, by all means we should horrify and cow the weak with the ferocity of slaughter we bring to their pitiful communities. Even still, the greatest terror can be evoked with the hidden blade and subtle whispers from the shadows unseen. The Great Truth can only be approached by those who master all the ways of power: bloodthirsty fools and unreasoning murderers can never make progress on our path.\"</i>\r\n\r\n– Omir Sarikusa, Meditations on a Crimson Chalice",
+    "es": "<i>«El terror y el asesinato son herramientas que nos resultarán muy útiles para nuestro trabajo, pero solo los necios las confunden y las usan para sus propios fines. Cuando nuestro propósito es crear una atmósfera de miedo implacable debemos aterrorizar y amedrentar a los débiles por todos los medios con la ferocidad de la matanza que traemos a sus patéticas comunidades. Aun así, el mayor terror se puede evocar con la hoja oculta y los sutiles susurros de las sombras invisibles. Solo pueden acercarse a La Gran Verdad aquellos que dominan todas las formas de poder: los necios sedientos de sangre y los asesinos irracionales nunca podrán progresar en nuestro camino».</i>\n\n\n\n— Omir Sarikusa, Meditaciones sobre un cáliz carmesí.",
+    "fr": "<i>« La terreur et le meurtre sont des outils qui nous servent dans notre grand dessein, mais seuls des idiots feraient l'erreur de penser qu'il s'agit d'une fin en soi. Si un climat de peur constante joue en notre faveur, alors il nous faut tout faire pour terrifier et intimider les faibles par la violence des massacres sur leurs communautés pitoyables. Mieux encore, la pire terreur peut être suggérée par la lame dissimulée, et des murmures discrets dans les ombres invisibles. Seuls ceux qui maîtrisent tous les chemins vers le pouvoir peuvent s'approcher de la Grande Vérité : des sots assoiffés de sang et des massacres gratuits ne peuvent en aucun cas nous rapprocher de nos buts. »</i> – Omir Sarikusa, Méditations sur un calice pourpre",
+    "ja": "<i>「テロや殺人は、我々の偉大な仕事に役立つ手段ですが、それを目的と勘違いするのは愚か者だけです。絶え間なく漂う恐怖が我々の目的であるならば、いかなる手段を用いてでも、哀れな共同体に殺戮の猛威を振るい、弱者を恐怖に陥れ支配するべきでしょう。それでも、隠された刃や見えない影による曖昧な囁きこそが、最大の恐怖を呼び起こすこともあるのです。血に飢えた愚か者や理不尽な殺人者では、我々の道を進むことはできません。」</i>\n\n\n\n- オミール・サリクサ、紅き聖杯での瞑想",
+    "ko": "<i>\"살인과 테러는 분명 효과적인 수단이지만 어리석은 자들은 그것만을 목적으로 삼는다. 상대방의 두려움을 이용할 수 있는 환경을 조성하고, 나약한 사회에 죽음의 공포를 심어 넣는 것이야 말로 진정 현명한 수단이다. 허나 진정한 공포는 숨겨진 칼날이나 어둠 속의 속삭임에서 비롯되는 법이다. 위대한 진리에 도달하려면 이와 같은 방법을 활용할 줄 알아야 할 것이다. 단순히 피와 살육에 심취한 자들은 결코 진리의 길에 들어서지 못할 것이다.\"</i><br><br>- 오미르 사리쿠사, 피의 성배에 새겨진 명상록으로부터 발췌",
+    "ru": "<i>«Убийства и террор — инструменты, которые мы используем ради достижения нашей великой цели, но лишь глупец будет считать, что они и есть наша цель. Покуда атмосфера неумолимого страха играет нам на руку, мы должны всеми средствами держать слабых в ужасе — пусть жалкие обыватели дрожат при одной мысли о насилии, которое мы можем над ними свершить. Но знайте: нет кошмара страшнее, чем тот, что порождается невидимым клинком и шёпотом в тени. Великая истина откроется лишь тем, кто познает все пути силы: кровожадным глупцам и головорезам, убивающим всех без разбору, нет места на нашем пути».</i> (Омир Сарикуса, «Размышления о Кровавой чаше»)",
+    "zh": "<i>“恐怖和杀戮是我们实现伟大目标的优良手段，但只有傻瓜才会以为这就是目的。如果我们想要散播恐惧，那就用残忍和死亡来让那些可悲的弱者瑟瑟发抖。甚至，从看不见的暗处传来的窃窃私语和阴影中的利刃能造成更大的恐怖。只有将权力玩弄于股掌之中，才能得窥真知，只知道杀戮的蠢货对我们的事业毫无裨益。”</i>\n\n\n\n- 奥玛·萨利库萨，血红圣杯的冥思"
+  },
+  "factionID": 500012,
+  "graphicID": 21360,
+  "groupID": 830,
+  "marketGroupID": 1838,
+  "mass": 1200000.0,
+  "masteries": {
+    "0": [
+      96,
+      97,
+      99,
+      164,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "1": [
+      96,
+      97,
+      99,
+      164,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "2": [
+      96,
+      97,
+      99,
+      164,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "3": [
+      96,
+      97,
+      99,
+      164,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "4": [
+      96,
+      97,
+      99,
+      164,
+      50,
+      117,
+      150,
+      89,
+      93,
+      94
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Caedes",
     "en": "Caedes",
@@ -9,6 +84,212 @@
     "ko": "카에데스",
     "ru": "Caedes",
     "zh": "凯帝斯级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 20.5,
+  "sofFactionName": "tournament-xiv",
+  "soundID": 20114,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 400.0,
+        "bonusText": {
+          "de": "Bonus auf den Schaden von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:3303>Small Energy Turret</a> damage",
+          "es": "de bonificación al daño de la <a href=showinfo:3303>torreta de energía pequeña</a>.",
+          "fr": "de bonus aux dégâts de la <a href=showinfo:3303>petite tourelle à énergie</a>",
+          "ja": "<a href=showinfo:3303>小型エネルギータレット</a>のダメージが増加",
+          "ko": "<a href=showinfo:3303>소형 에너지 터렛</a> 피해량 증가",
+          "ru": "увеличивается урон <a href=showinfo:3303>малых лазерных орудий</a>",
+          "zh": "<a href=showinfo:3303>小型能量炮台</a>伤害加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 10.0,
+        "bonusText": {
+          "de": "Bonus auf die Virusstärke von <a href=showinfo:22177>Relikt-</a> und <a href=showinfo:22175>Daten-</a>Analysegeräten",
+          "en": "bonus to <a href=showinfo:22177>Relic</a> and <a href=showinfo:22175>Data Analyzer</a> virus strength",
+          "es": "de bonificación a la intensidad del virus de los <a href=showinfo:22175>analizadores de datos</a> y de <a href=showinfo:22177>reliquias</a>.",
+          "fr": "de bonus à la puissance du virus de <a href=showinfo:22177>relique</a> et d'<a href=showinfo:22175>analyseur de données</a>",
+          "ja": "<a href=showinfo:22177>遺物アナライザー</a>と<a href=showinfo:22175>データアナライザー</a>のウイルス強度が増加",
+          "ko": "<a href=showinfo:22177>유물</a> 및 <a href=showinfo:22175>데이터 분석기</a> 바이러스 침투력 증가",
+          "ru": "повышается степень опасности вирусов, применяемых в <a href=showinfo:22175>комплексах анализа данных</a> и <a href=showinfo:22177>комплексах анализа артефактов</a>",
+          "zh": "<a href=showinfo:22177>遗迹分析仪</a>和<a href=showinfo:22175>数据分析仪</a>病毒强度加成"
+        },
+        "importance": 2,
+        "unitID": 139
+      },
+      {
+        "bonusText": {
+          "de": "Es können <a href=showinfo:11578>Covert Ops-Tarnmodule</a> und <a href=showinfo:28646>getarnte Anziehungsfeldgeneratoren</a> eingebaut werden",
+          "en": "Can fit <a href=showinfo:11578>Covert Ops Cloaking Device</a> and <a href=showinfo:28646>Covert Cynosural Field Generator</a>",
+          "es": "Es posible equipar un <a href=showinfo:11578>dispositivo de camuflaje de operaciones encubiertas</a> y un <a href=showinfo:28646>generador de campo cinosural encubierto</a>.",
+          "fr": "Peut monter un <a href=showinfo:11578>dispositif de camouflage opérations secrètes II</a> et un <a href=showinfo:28646>générateur furtif de champ cynosural</a>",
+          "ja": "<a href=showinfo:11578>隠密行動用遮蔽装置</a>と<a href=showinfo:28646>潜伏用サイノシュラルフィールドジェネレータ</a>を装備できる",
+          "ko": "<a href=showinfo:11578>코버트 옵스 클로킹 장치</a> 및 <a href=showinfo:11578>코버트 사이노슈럴 필드 생성기</a>장착 가능",
+          "ru": "Корабли этого типа могут оснащаться <a href=showinfo:11578>всережимными системами маскировки</a> и <a href=showinfo:28646>приводными маяками скрытого действия</a>",
+          "zh": "可以装备<a href=showinfo:11578>隐秘行动隐形装置</a>和<a href=showinfo:28646>隐秘诱导力场发生器</a>"
+        },
+        "importance": 3
+      },
+      {
+        "bonusText": {
+          "de": "Keine Verzögerung bei der Zielaufschaltung nach der Deaktivierung von <a href=showinfo:11579>Tarnmodulen</a>",
+          "en": "No targeting delay after <a href=showinfo:11579>Cloaking Device</a> deactivation",
+          "es": "No hay demora en la adquisición de objetivos tras la desactivación del <a href=showinfo:11579>dispositivo de camuflaje</a>.",
+          "fr": "Aucun délai de ciblage après la désactivation des <a href=showinfo:11579>dispositifs de camouflage</a>",
+          "ja": "<a href=showinfo:11579>遮蔽装置</a>を停止した後のターゲット遅延なし",
+          "ko": "<a href=showinfo:11579>클로킹 장치</a> 비활성화 후 타겟팅 딜레이 없음",
+          "ru": "На кораблях этого типа устранена задержка включения систем захвата целей, вызываемая отключением <a href=showinfo:11579>систем маскировки</a>",
+          "zh": "重新启动<a href=showinfo:11579>隐形装置</a>后不遭受锁定延时副作用"
+        },
+        "importance": 4
+      },
+      {
+        "bonusText": {
+          "de": "Die Verzögerung bei Reaktivierung von <a href=showinfo:11579>Tarnmodulen</a> wird auf 5 Sekunden reduziert.",
+          "en": "<a href=showinfo:11579>Cloak</a> reactivation delay reduced to 5 seconds",
+          "es": "Reducción de la demora de reactivación del <a href=showinfo:11579>camuflaje</a> a 5 segundos.",
+          "fr": "Délai de réactivation du <a href=showinfo:11579>camouflage</a> réduit à 5 secondes",
+          "ja": "<a href=showinfo:11579>遮蔽装置</a>の再起動遅延が5秒に短縮",
+          "ko": "<a href=showinfo:11579>클로킹</a> 재가동 지연 시간 5초로 감소",
+          "ru": "Задержка повторного включения <a href=showinfo:11579>систем маскировки</a> сокращена до 5 секунд",
+          "zh": "<a href=showinfo:11579>隐形装置</a>重启延时降到5秒"
+        },
+        "importance": 5
+      },
+      {
+        "bonusText": {
+          "de": "<a href=showinfo:3423>Nosferatu-Module</a>, die in dieses Schiff eingebaut werden, ziehen dem als Ziel aufgeschaltetem Schiff Energie ab, unabhängig von Ihrem eigenen Energiespeicher-Level",
+          "en": "<a href=showinfo:3423>Energy Nosferatu</a> fitted to this ship will drain targeted ship's capacitor regardless of your own capacitor level",
+          "es": "El <a href=showinfo:3423>nosferatu de energía</a> equipado en esta nave drenará el condensador de la nave objetivo independientemente del nivel de tu propio condensador.",
+          "fr": "Les modules de <a href=showinfo:3423>Nosferatu à énergie</a> montés sur ce vaisseau vont absorber le capaciteur du vaisseau visé quel que soit le niveau de votre capaciteur",
+          "ja": "この艦船に搭載されている<a href=showinfo:3423>エネルギーノスフェラトゥ</a>は、自身のキャパシタレベルに関わらず、ターゲットとなる艦船のキャパシタを吸収する",
+          "ko": "<a href=showinfo:3423>에너지 노스페라투</a> 적 함선 캐패시터 흡수",
+          "ru": "На кораблях этого типа <a href=showinfo:3423>устройства паразитной подзарядки накопителя</a> извлекают энергию из накопителя корабля-цели независимо от уровня заряда накопителя корабля-получателя энергии",
+          "zh": "这艘舰船的<a href=showinfo:3423>掠能器</a>可以无视自身剩余电容量而对目标舰船的电容无限吸取"
+        },
+        "importance": 6
+      },
+      {
+        "bonus": 60.0,
+        "bonusText": {
+          "de": "Bonus auf die Warpgeschwindigkeit und Warpbeschleunigung",
+          "en": "bonus to warp speed and warp acceleration",
+          "es": "de bonificación a la velocidad y la aceleración de warp.",
+          "fr": "de bonus à la vitesse de warp et à l'accélération de warp",
+          "ja": "ワープ速度とワープ加速度が上昇",
+          "ko": "워프 속도 및 워프 가속도 증가",
+          "ru": "бонус к разгону и скорости хода (в варп-режиме)",
+          "zh": "跃迁速度和跃迁加速加成"
+        },
+        "importance": 7,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3329": [
+        {
+          "bonus": 20.0,
+          "bonusText": {
+            "de": "Bonus auf die Reichweite von <a href=showinfo:526>Stasisnetzen</a>",
+            "en": "bonus to <a href=showinfo:526>Stasis Webifier</a> range",
+            "es": "de bonificación al alcance de la <a href=showinfo:526>red ralentizadora</a>.",
+            "fr": "bonus à la portée du<a href=showinfo:526>générateur de stase</a>",
+            "ja": "<a href=showinfo:526>ステイシスウェビファイアー</a>の範囲が拡大",
+            "ko": "<a href=showinfo:526>스테이시스 웹 생성기</a> 사거리 증가",
+            "ru": "увеличивается оптимальная дальность действия <a href=showinfo:526>стазис-индукторов</a>",
+            "zh": "<a href=showinfo:526>停滞缠绕光束</a>射程加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 20.0,
+          "bonusText": {
+            "de": "Reduktion des CPU-Bedarfs von <a href=showinfo:11579>Tarnmodulen</a>",
+            "en": "reduction in <a href=showinfo:11579>Cloaking Devices</a> CPU requirement",
+            "es": "de reducción del requisito de CPU de los <a href=showinfo:11579>dispositivos de camuflaje</a>.",
+            "fr": "réduction de la charge CPU requise pour les <a href=showinfo:11579>dispositifs de camouflage</a>",
+            "ja": "<a href=showinfo:11579>遮蔽装置</a>のCPU使用量が減少",
+            "ko": "<a href=showinfo:11579>클로킹 장치</a> CPU 사용량 감소",
+            "ru": "сокращается потребность <a href=showinfo:11579>систем маскировки</a> в мощностях ЦПУ",
+            "zh": "<a href=showinfo:11579>隐形装置</a>CPU需求降低"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ],
+      "3331": [
+        {
+          "bonus": 20.0,
+          "bonusText": {
+            "de": "Bonus auf die Transfermenge von <a href=showinfo:3423>Nosferatu-</a> und <a href=showinfo:3423>Energieneutralisierer</a>-Modulen",
+            "en": "bonus to <a href=showinfo:3423>Energy Nosferatu</a> and <a href=showinfo:3423>Energy Neutralizer</a> drain amount",
+            "es": "de bonificación a la cantidad drenada por el <a href=showinfo:3423>nosferatu de energía</a> y el <a href=showinfo:3423>neutralizador energético</a>.",
+            "fr": "de bonus à la quantité d'énergie récupérée par le <a href=showinfo:3423>Nosferatu à énergie</a> et le <a href=showinfo:3423>neutraliseur d'énergie</a>",
+            "ja": "<a href=showinfo:3423>エネルギーノスフェラトゥ</a>とのキャパシタ吸収量が増加",
+            "ko": "<a href=showinfo:3423>에너지 노스페라투</a> 및 <a href=showinfo:3423>에너지 뉴트럴라이저</a> 흡수량 증가",
+            "ru": "увеличивается пропускная способность <a href=showinfo:3423>устройств паразитной подзарядки накопителя</a> и <a href=showinfo:3423>дистанционных нейтрализаторов заряда</a>",
+            "zh": "<a href=showinfo:3423>掠能器</a>和<a href=showinfo:3423>能量中和器</a>吸取量加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 25.0,
+          "bonusText": {
+            "de": "Bonus auf die Präzisionsabfallreichweite von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3303>Small Energy Turret</a> falloff range",
+            "es": "de bonificación al alcance efectivo de la <a href=showinfo:3303>torreta de energía pequeña</a>.",
+            "fr": "de bonus à la portée de perte de précision des <a href=showinfo:3303>petites tourelles à énergie</a>",
+            "ja": "<a href=showinfo:3303>小型エネルギータレット</a>の精度低下範囲が拡大",
+            "ko": "<a href=showinfo:3303>소형 에너지 터렛</a> 유효사거리 증가",
+            "ru": "увеличивается добавочная дальность ведения огня из <a href=showinfo:3303>малых лазерных орудий</a>",
+            "zh": "<a href=showinfo:3303>小型能量炮台</a>失准范围加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ],
+      "12093": [
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die Stärke von <a href=showinfo:30013>Basis-</a> und <a href=showinfo:30028>Gefechtsscansonden</a>",
+            "en": "bonus to <a href=showinfo:30013>Core</a> and <a href=showinfo:30028>Combat Scanner Probe</a> strength",
+            "es": "de bonificación a la intensidad de la <a href=showinfo:30028>sonda escáner de combate</a> y la <a href=showinfo:30013>de núcleo</a>.",
+            "fr": "de bonus au rendement du <a href=showinfo:30013>réacteur</a> et de la <a href=showinfo:30028>sonde de balayage de combat</a>",
+            "ja": "<a href=showinfo:30013>コアスキャナープローブ</a>と<a href=showinfo:30028>戦闘スキャナープローブ</a>の強度が増加",
+            "ko": "<a href=showinfo:30013>코어 프로브</a> 및 <a href=showinfo:30028>정찰 프로브</a> 스캔 강도 증가",
+            "ru": "повышается чувствительность бортовой аппаратуры <a href=showinfo:30013>зондов навигационной разведки</a> и <a href=showinfo:30028>боевых разведзондов</a>",
+            "zh": "<a href=showinfo:30013>核心</a>和<a href=showinfo:30028>作战扫描探针</a>强度加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 25.0,
+          "bonusText": {
+            "de": "Bonus auf die Präzisionsabfallreichweite von <a href=showinfo:3423>Nosferatu-</a> und <a href=showinfo:3423>Energieneutralisierer</a>-Modulen",
+            "en": "bonus to <a href=showinfo:3423>Energy Nosferatu</a> and <a href=showinfo:3423>Energy Neutralizer</a> falloff range",
+            "es": "de bonificación al alcance efectivo del <a href=showinfo:3423>nosferatu de energía</a> y el <a href=showinfo:3423>neutralizador energético</a>.",
+            "fr": "de bonus à la perte du <a href=showinfo:3423>Nosferatu à énergie</a> et du <a href=showinfo:3423>neutraliseur d'énergie</a>",
+            "ja": "<a href=showinfo:3423>エネルギーノスフェラトゥ</a>と<a href=showinfo:3423エネルギーニュートラライザー</a>の精度低下範囲が拡大",
+            "ko": "<a href=showinfo:3423>에너지 노스페라투</a> 및 <a href=showinfo:3423>에너지 뉴트럴라이저</a> 유효사거리 증가",
+            "ru": "увеличивается добавочная дальность действия <a href=showinfo:3423>дистанционных нейтрализаторов заряда</a> и <a href=showinfo:3423>устройств паразитной подзарядки накопителя</a>",
+            "zh": "<a href=showinfo:3423>掠能器</a>和<a href=showinfo:3423>能量中和器</a>失准范围加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 28600.0
 }

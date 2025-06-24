@@ -1,5 +1,17 @@
 {
-  "typeID": 29599,
+  "description": {
+    "de": "Ein Sansha Bunker",
+    "en": "A Sansha Bunker",
+    "es": "Búnker sansha.",
+    "fr": "Bunker sansha.",
+    "ja": "サンシャのバンカー",
+    "ko": "산샤 벙커",
+    "ru": "A Sansha Bunker",
+    "zh": "萨沙碉堡"
+  },
+  "graphicID": 2488,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Fortified Sansha Bunker",
     "en": "Fortified Sansha Bunker",
@@ -10,5 +22,10 @@
     "ru": "Fortified Sansha Bunker",
     "zh": "强化的萨沙堡垒"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 450.0,
+  "sofFactionName": "sanshabase",
   "volume": 100000000.0
 }

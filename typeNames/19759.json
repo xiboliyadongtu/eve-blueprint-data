@@ -1,5 +1,18 @@
 {
-  "typeID": 19759,
+  "basePrice": 500000.0,
+  "description": {
+    "de": "Skill zum Betrieb von Systemen zur elektronischen Kriegsführung auf weite Entfernung. 10 % Bonus auf die optimale Reichweite von ECM-Modulen, Sensorferndämpfern, Waffenstörern, Fernleitcomputern, Sensorfernboostern und Zielmarkierungsmodulen je Skillstufe.",
+    "en": "Skill at the long-range operation of electronic warfare systems. 10% bonus to optimal range of ECM, Remote Sensor Dampeners, Weapon Disruptors, Remote Tracking Computers, Remote Sensor Boosters and Target Painters per skill level.",
+    "es": "Habilidad para el manejo de los sistemas de guerra electrónica a larga distancia. 10 % de bonificación al alcance óptimo de las ECM, atenuadores de sensor remotos, disruptores de armas, ordenadores de rastreo remotos, potenciadores de sensor remotos y reveladores de objetivo por nivel de habilidad.",
+    "fr": "Compétence permettant l'utilisation des systèmes de guerre électronique à longue portée. Augmente de 10 % par niveau de compétence la portée optimale des CME, atténuateurs de détection à distance, perturbateurs d'armement, ordinateurs de poursuite, amplificateurs de détection à distance et marqueurs de cible.",
+    "ja": "電子戦システムを長距離で使用するスキル。スキルレベルが上昇するごとに、ECM、リモートセンサーダンプナー、兵器妨害器、リモートトラッキングコンピュータ、リモートセンサーブースター、ターゲットペインターの最適射程距離が10%改善。",
+    "ko": "장거리 전자전 시스템 사용을 위한 스킬입니다. 매 레벨마다 ECM, 원격 센서 댐프너, 무기 디스럽터, 원격 트래킹 컴퓨터, 원격 센서 부스터 및 타겟 페인터 최적사거리 10% 증가",
+    "ru": "Навык управления системами электронного противодействия на большой дальности. За каждую степень освоения навыка: на 10% увеличивается оптимальная дальность действия модулей глушения захвата целей (ECM), модулей подавления захвата целей (Remote Sensor Dampener), постановщиков помех системам наводки (Weapon Disruptor), передатчиков данных наводки (Remote Tracking Computer), передатчиков для систем захвата целей (Remote Sensor Boosters) и систем подсветки цели (Target Painter).",
+    "zh": "进行远程电子战的技能。每升一级，ECM目标干扰器、远程感应抑阻器、武器扰断器、远距索敌计算机、远程感应增强器和目标标记装置最佳射程增加10%。"
+  },
+  "groupID": 272,
+  "iconID": 33,
+  "marketGroupID": 367,
   "name": {
     "de": "Long Distance Jamming",
     "en": "Long Distance Jamming",
@@ -10,5 +23,7 @@
     "ru": "Повышение дальности действия средств РЭБ",
     "zh": "远距干扰学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

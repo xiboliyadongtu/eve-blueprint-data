@@ -1,5 +1,16 @@
 {
-  "typeID": 86278,
+  "description": {
+    "de": "Dieser Ort bietet wertvolle Gegenstände im Austausch gegen Atavum. Diese Einrichtung ist Teil der Forschungsanstrengungen des Deathless Circle. Hier und innerhalb des Wächters selbst studieren sie Atavum in der Hoffnung, neue Einblicke in uralte Jovian-Technologien zu gewinnen. Wer diese Forschung durch die Lieferung von zusätzlichem Atavum unterstützt, wird belohnt.",
+    "en": "This location offers valuable items in exchange for Atavum.\r\n\r\nThis faculty is a part of the Deathless Circle's research efforts. Here and within The Warden itself they study Atavum in the hopes of gaining new insights into ancient Jovian technologies. Anyone who supports that research by bringing more Atavum will be rewarded.",
+    "es": "Esta ubicación ofrece objetos valiosos a cambio de Atavum.\r\n\r\nEsta facultad forma parte de los esfuerzos de investigación del Círculo Inmortal. Aquí y dentro de la propia Warden estudian el Atavum con la esperanza de obtener nuevos conocimientos sobre las antiguas tecnologías jovianas. Cualquiera que apoye esta investigación trayendo más Atavum será recompensado.",
+    "fr": "Ce lieu propose des objets précieux en échange d'Atavum. Cette faculté fait partie des efforts de recherche du Cercle Immortel. Ici et au sein du Gardien lui-même, on y étudie l'Atavum dans l'espoir d'acquérir de nouvelles connaissances sur les anciennes technologies jove. Quiconque soutient ces recherches en apportant davantage d'Atavum sera récompensé pour sa contribution.",
+    "ja": "この場所ではアタヴァムと引き換えに貴重なアイテムを入手できる。\r\n\r\nデスレス・サークルの研究活動に使われている施設。デスレスは古代ジョビ人の技術に関する新たな発見を目指し、こういった施設やウォーデン内でアタヴァムの研究に取り組んでいる。アタヴァムを提供し、研究活動を支援した者は誰であろうと報酬を受け取ることができる。",
+    "ko": "아타붐을 유용한 아이템으로 교환할 수 있습니다.\r\n\r\n데스리스 서클이 연구 목적으로 건설한 시설입니다. 데스리스 서클은 이 시설과 워든에서 아타붐을 연구해 고대 조브 기술을 밝혀낼 계획입니다. 아타붐을 제공해 연구를 지원하는 캡슐리어에게 마땅한 보상을 지급할 것입니다.",
+    "ru": "В этом месте можно обменять атавум на ценные товары. Это один из научно-исследовательских отделов «Бессмертного круга». Здесь и в стенах легендарного «Стража» учёные изучают атавум, надеясь получить новые знания о технологиях древних джовиан. Всех, кто доставит исследователям атавум, ждёт щедрое вознаграждение.",
+    "zh": "此地会产出贵重资源，可换取阿塔文。这里是不死循环开展研究工作的地点之一。不死者在这里和典狱官建筑内研究阿塔文，希望能对古代朱庇特科技产生新的认识。凡是提交较多阿塔文的研究支持者都将获得奖励。"
+  },
+  "graphicID": 27982,
+  "groupID": 226,
   "name": {
     "de": "Atavum Research Trader",
     "en": "Atavum Research Trader",
@@ -10,5 +21,8 @@
     "ru": "Atavum Research Trader",
     "zh": "阿塔文研究贸易商"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 22000.0,
+  "sofFactionName": "deathless"
 }

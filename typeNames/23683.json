@@ -1,5 +1,17 @@
 {
-  "typeID": 23683,
+  "description": {
+    "de": "Dieses Blatt kann dazu verwendet werden, geschichtete Binärcodes mit Leichtigkeit zu entschlüsseln.",
+    "en": "This sheet can be used to dechiper layered binary codes with extreme ease.",
+    "es": "Esta hoja sirve para descifrar códigos binarios superpuestos con extrema facilidad.",
+    "fr": "Cette feuille permet de déchiffrer très facilement les différentes couches de codes binaires.",
+    "ja": "極めて容易に多重バイナリコードを解読できるシート。",
+    "ko": "다중으로 설계된 이진 코드 암호 체계를 손쉽게 해독할 수 있도록 해줍니다.",
+    "ru": "Эта плата может быть использована для расшифровки многоуровневых бинарных кодов с легкостью.",
+    "zh": "这种薄片可以轻易解密分层的二进制代码。"
+  },
+  "groupID": 526,
+  "iconID": 1192,
+  "mass": 1.0,
   "name": {
     "de": "Binary Transpositional Code",
     "en": "Binary Transpositional Code",
@@ -10,5 +22,7 @@
     "ru": "Binary Transpositional Code",
     "zh": "二进制置变密码"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

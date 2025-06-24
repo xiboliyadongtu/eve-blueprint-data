@@ -1,5 +1,18 @@
 {
-  "typeID": 34447,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Diese große Struktur enthält verschiedenes Material, das zur Instandhaltung und Reparatur der wichtigen Zentralarchiv-Struktur eingesetzt wird. Beachten Sie, dass diese Struktur mit dem Verteidigungssystem des Archivs verbunden sein kann. Führen Sie Hackversuche also mit Vorsicht durch.",
+    "en": "This large structure contains various materials used to maintain and repair the important Central Archive Cerebrum structure. Note that it is possible this structure is linked into the archive defense system, so hack with caution.",
+    "es": "Esta gran estructura contiene varios materiales que sirven para mantener y reparar la estructura principal del cerebro del archivo central. Ten en cuenta que puede estar enlazada al sistema de defensa del archivo, así que hackea con precaución.",
+    "fr": "Cette large structure contient plusieurs matériaux utilisés pour maintenir et réparer l'importante structure du Cerebrum d'archives centrales. Veuillez noter qu'il est possible que cette structure soit liée au système de défense d'archive, assurez-vous de pirater avec précaution.",
+    "ja": "この大型ストラクチャには、重要な中央アーカイブセレブラムストラクチャを維持・修復するための様々な材料が保管されている。ストラクチャはアーカイブ防衛システムとリンクしている可能性がある。注意してハッキングせよ。",
+    "ko": "중앙 아카이브 세레브럼의 유지 보수에 사용되는 다양한 자원이 저장되어있습니다. 아카이브 방어 시스템에 연결되어있을 가능성이 있으므로 해킹 시 주의 요합니다.",
+    "ru": "В этом огромном сооружении хранятся материалы, необходимые для техобеспечения и ремонта ключевого сооружения — Центрального Мозгового Архива. Внимание! Возможно, что это сооружение связано с защитными системами архива; стоит взламывать с осторожностью.",
+    "zh": "这个大型建筑中存有多种用于维护和修理重要的中心档案端脑的材料。注意，这个建筑可能连向档案防御系统，破译时要小心操作。"
+  },
+  "graphicID": 2007,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Cerebrum Maintenance Chamber",
     "en": "Cerebrum Maintenance Chamber",
@@ -10,5 +23,10 @@
     "ru": "Cerebrum Maintenance Chamber",
     "zh": "端脑维护室"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 1060.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

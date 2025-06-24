@@ -1,5 +1,18 @@
 {
-  "typeID": 33017,
+  "description": {
+    "de": "Gegen Ende des Jahres 114 YC mussten Stationsmanager in ganz New Eden überrascht und mit Schrecken feststellen, dass aufgrund eines Fehlers in der zentralen InterBus-Datenbank versehentlich eine große Anzahl von Stationsschlüsseln wahllos an Piloten ausgegeben worden war. Da eine Rückrufaktion quasi unmöglich gewesen wäre, sprach sich der erfahrene Stationsmanager Scotty, der mittlerweile als Berater der SCC fungiert, dafür aus, einen allgemeinen Deaktivierungsbefehl auszusenden und die Generalschlüssel der Stationsmitarbeiter auszutauschen. Die versehentlich ausgegebenen Schlüssel sind nichts weiter als Andenken an einen ungewöhnlichen, letztendlich aber harmlosen Vorfall.",
+    "en": "At the end of YC114, station managers across New Eden were surprised and shocked by the accidental delivery of station key passes to large numbers of pilots due to an inventory error in the InterBus central database. With recall next to impossible, the recommendation of veteran station manager Scotty, now consulting with the SCC, was to simply send out a general deactivation order and replace the master key passes used by station staff. The mistakenly delivered passes are now nothing more than souvenirs of an odd but ultimately harmless incident.",
+    "es": "Al finales del 114 CY, los gerentes de estación de todo Nuevo Edén se quedaron sorprendidos boquiabiertos ante la entrega accidental de pases de llave de estación a elevados números de pilotos debido a un error de inventario en la base de datos central de InterBus. Como recuperarlas era prácticamente imposible, la recomendación del veterano responsable de estación Scotty, que ahora es consultor de la CCS, fue enviar una orden de desactivación general y reemplazar los pases de llave maestra del personal de las estaciones. Los pases entregados por error no son más que el recuerdo de un extraño pero inofensivo incidente.",
+    "fr": "À la fin de l'année 114 après CY, les gérants de station de tout New Eden furent à la fois surpris et stupéfaits de voir des cartes d'accès distribuées par erreur à de nombreux pilotes, suite à une erreur d'inventaire survenue dans la base centrale de données de l'InterBus. Puisqu'il était impossible de toutes les rappeler, Scotty, autrefois responsable de station vétéran et aujourd'hui consultant pour la CCS, proposa d'envoyer un ordre de désactivation général et de remplacer les passe-partout utilisés par le personnel des stations. Les cartes d'accès livrées par erreur ne sont plus aujourd'hui que de simples vestiges d'un incident plus étrange que dramatique.",
+    "ja": "YC114年末、ニューエデン中のステーション管理者たちが驚き慌てる事故が起きた。ステーションキーパスが大勢のパイロットに誤って配送されてしまったのである。原因はインターバス社の中央データベースの在庫エラーだった。回収はまず不可能だったため、元ベテランステーション管理者で現在SCC顧問を務めるスコッティの提案により、全て無効化する命令が送信され、ステーションスタッフが使うマスターキーパスを交換することになった。こうして誤配されたパスは、結局被害もなく終わった珍事件の記念品となったのだった。",
+    "ko": "YC 114년 말, 인터버스의 중앙 데이터베이스에 오류가 발생하면서 정거장 출입키가 캡슐리어들에게 유출되는 사건이 발생했습니다. 출입키 회수가 절망적인 상황에서 당시 정거장 관리자이자 현재 SCC에서 근무 중인 스코티가 단순한 해결 방안을 제시했습니다. 내용인즉, 모든 출입키를 일괄적으로 정지시킨 다음 정거장 스태프가 보유한 마스터 키를 교체하는 방식이었습니다. 유출된 출입키는 현재 작동하지 않으며 단순한 기념품으로만 남아있습니다.",
+    "ru": "В конце 114 года YC управляющие станциями по всему Новому Эдему были ошеломлены и шокированы: из-за ошибки в центральной базе данных InterBus огромное количество пилотов получило несанкционированные станционные пропуска. Отозвать их уже было невозможно. По рекомендации одного из старейшего и опытного управляющего Скотти было принято соломоново решение: для уже выпущенных в оборот пропусков был издан приказ об их деактивации, а служащие станций взамен получили персональные мастер-ключи. Пропуска, выданные по ошибке, теперь являются не более чем курьезными сувенирами — напоминаниями об инциденте, который, к счастью, обошелся без серьезных последствий.",
+    "zh": "在YC114年底，EVE宇宙中各大空间站管理员们都惊讶地发现，由于星际捷运中央数据库物品管理系统发生了一次错误，空间站的钥匙流落到了大量飞行员手里。由于将那些钥匙回收几近不可能，一位名叫“斯考迪”的老资格空间站管理员建议让它们都失效，换掉空间站工作人员当时所使用的钥匙。现在，这批失效了的钥匙成了纪念品，纪念那次奇怪但又有惊无险的事件。"
+  },
+  "groupID": 1194,
+  "iconID": 2853,
+  "marketGroupID": 1661,
+  "mass": 0.01,
   "name": {
     "de": "Deactivated Station Key Pass",
     "en": "Deactivated Station Key Pass",
@@ -10,5 +23,7 @@
     "ru": "Deactivated Station Key Pass",
     "zh": "失效的空间站钥匙"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,16 @@
 {
-  "typeID": 355801,
+  "description": {
+    "de": "Erhöht die Schadenswirkung von auf Fahrzeugen montierten kleinen Railgun- und Blastergeschützen.  Verleiht einen Bonus von 10% auf Schaden durch Hybridgeschütze und eine 5% höhere Feuerrate.\n\nHINWEIS: Für dieses Modul gelten Stapelabzüge; nach dem ersten Modul nimmt die Wirksamkeit jedes weiteren ab, sofern es dieselben Attribute beeinflusst.",
+    "en": "Increases the damage output of vehicle mounted small railgun and blaster turrets.  Grants 10% bonus to hybrid turret damage, and a 5% increase to rate of fire.\r\n\r\nNOTE: Stacking penalties apply to this module; the effectiveness of each additional module (after the first) that alters the same attributes will be reduced.",
+    "es": "Este módulo aumenta el daño causado por las torretas bláster y de cañón gauss montadas en vehículos.  Otorga un 10% de bonificación al daño de las torretas híbrida y un 5% a la cadencia de disparo.\n\nAVISO: a este módulo se le aplican penalizaciones por agrupamiento. Su eficacia se ve reducida por cada módulo del mismo tipo que se monte después del primero.",
+    "fr": "Augmente les dommages générés par les petites tourelles de canon à rails et de blaster des véhicules.  Accorde 10 % de bonus aux dommages des tourelles hybrides et 5 % à la cadence de tir.\n\nREMARQUE : Des pénalités d'accumulation s'appliquent à ce module ; au-delà du premier module, l'efficacité de chaque module supplémentaire qui modifie les mêmes attributs sera réduite.",
+    "it": "Aumenta il potenziale danni delle torrette piccole di cannoni blaster e cannoni a rotaia montate sui veicoli.  Assegna il 10% di bonus danni alla torretta ibrida, e aumenta del 5% la cadenza di fuoco.\n\nNOTA: a questo modulo si applicano le penalità da accumulo; l'efficacia di ogni modulo aggiuntivo (dopo il primo) che modifica gli stessi attributi viene ridotta.",
+    "ja": "車両に搭載した小型レールガンとブラスタータレットが与えるダメージを増やすモジュール。 ハイブリッドタレットが与えるダメージが10%増加、発射間隔を5%短縮。\n\n注：このモジュールはスタッキングペナルティの対象となり、同一のモジュールを複数取り付けると、一つ追加するごとにモジュールの効果が低下する。",
+    "ko": "차량에 탑재되는 소형 레일건 및 블라스터 터렛의 피해량이 증가합니다. 하이브리드 터렛 피해량 10% 증가 및 연사속도 5% 증가 <br><br>참고: 중첩 페널티가 적용되는 모듈입니다. 동일한 효과를 지닌 모듈을 한 개 이상 장착할 경우 추가 모듈의 효율성이 감소합니다.",
+    "ru": "Увеличивает урон, наносимый малым рейлганом и бластерной турелью, установленными на транспортное средство.  Увеличивает на 10% урон, наносимый гибридной турелью, и на 5% - ее скорострельность.\n\nПРИМЕЧАНИЕ: Для этого модуля действует система нарастающих штрафов; эффективность воздействия каждого последующего модуля (после первого), которая изменяет одинаковые характеристики, снижается.",
+    "zh": "增加车载小型磁轨炮和疾速炮炮台的伤害输出。混合炮台的伤害增加10%，射速增加5%。注：此装备有堆叠惩罚，额外加装相同属性的装备的效果会降低。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Isoliertes LT Stabilisatoren-Array",
     "en": "LT Insulated Stabilizer Array",
@@ -11,5 +22,7 @@
     "ru": "НП изолированный стабилизатор батареи",
     "zh": "LT绝缘稳定器阵列"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

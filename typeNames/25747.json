@@ -1,5 +1,16 @@
 {
-  "typeID": 25747,
+  "description": {
+    "de": "Eine Brutix, die von einem Agenten geflogen wird.",
+    "en": "A Brutix piloted by an agent.",
+    "es": "Brutix pilotada por un agente.",
+    "fr": "Un Brutix piloté par un agent.",
+    "ja": "エージェントを乗せたブルティクス。",
+    "ko": "에이전트가 조종하는 브루틱스입니다.",
+    "ru": "Корабль типа «Брутикс», управляемый агентом.",
+    "zh": "代理人驾驶的布鲁提克斯级飞船。"
+  },
+  "graphicID": 2383,
+  "groupID": 517,
   "name": {
     "de": "Dars Amene's Brutix",
     "en": "Dars Amene's Brutix",
@@ -10,5 +21,9 @@
     "ru": "Dars Amene's Brutix",
     "zh": "达尔斯·阿门的布鲁提克斯级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 266.0,
+  "sofFactionName": "gallentebase"
 }

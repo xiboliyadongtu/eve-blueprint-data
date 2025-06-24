@@ -1,5 +1,19 @@
 {
-  "typeID": 32379,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieser Container enthält das Dokument <b>“Proof of Discovery: Gas”</b>, das als Beleg dafür dient, dass ein Kapselpilot im Training in der Lage war, das Gebiet mithilfe von Kern-Scansonden ausfindig zu machen. Dieses Dokument wird benötigt, um die Gas-Trainingsmission erfolgreich abzuschließen.  \n\nFalls Sie den Container leer vorfinden sollten, warten Sie bitte ein paar Minuten, bis ein neues Dokument erstellt wurde.",
+    "en": "This container houses the <b>“Proof of Discovery: Gas”</b> document, which serves as physical proof that a capsuleer-in-training has been able to locate the Gas site through the use of Core Scanner Probes. It must be retrieved to complete the Gas training mission.  \n\nIf at first the container appears empty, please wait a few minutes for a new document to be provided.",
+    "es": "Este contenedor alberga el documento <b>«Prueba de descubrimiento: gas»</b>, que sirve como prueba física de que un capsulista en formación ha sido capaz de localizar la zona de gas mediante sondas escáner de núcleo. Debes recuperarlo para completar la misión de entrenamiento Gas.\n\nSi, inicialmente, el contenedor parece vacío, espera unos minutos hasta que se genere un nuevo documento.",
+    "fr": "Ce conteneur contient le document <b>« Certificat de découverte : Gaz »</b>, qui constitue la preuve physique qu'un capsulier en formation a bien été en mesure de localiser le gaz grâce à l'utilisation de sondes d'exploration principales. Vous devez le récupérer pour terminer la mission d'entraînement Gaz.  \n\nSi, à première vue, le conteneur vous semble vide, attendez quelques minutes pour recevoir le nouveau document.",
+    "ja": "このコンテナには<b>『発見の証拠：ガス』</b>という書類が入っている。この書類は、カプセラが訓練でコアスキャナープローブを使ってガスサイトの位置を特定するという課題を達成した証拠の品となる。ガストレーニングミッションを完了するには、この書類が必要である。最初に開けた時コンテナが空になっている場合があるが、数分待てば新しい書類が出てくる。",
+    "ko": "해당 컨테이너에는 <b>\"탐사 증명서: 가스\"가 포함되어 있습니다. 이는 캡슐리어 훈련생이 코어 프로브를 사용하여 성공적으로 사이트를 발견했다는 물질적인 증거입니다. 훈련 미션을 완수하려면 탐사 증명서를 회수해야 합니다. <br><br>아이템이 없을 경우 재생성이 이루어지니 잠시 대기하시기 바랍니다.",
+    "ru": "В данном контейнере находится <b>«контрольная карточка»</b>  — документ, удостоверяющий факт посещения обучаемым пилотом района добычи газа, найденного пилотом при помощи зондов навигационной разведки. Задание по обнаружению района добычи газа будет считаться выполненным лишь в случае предъявления агенту-наставнику данного документа.\n\nЕсли контейнер окажется пуст, рекомендуем вам подождать — через несколько минут из контейнера можно будет извлечь новую карточку.",
+    "zh": "这个货柜中装有<b>“目标证据：气云”</b>文件，它是用来证明受训飞行员使用核心扫描探针发现这个气云地点的实物证据。要完成气云地点教程任务必须要获取这份文件。如果你在找到这个货柜的时候发现它是空的，那么请等待片刻，一份新的文件会被重新生成在里面。"
+  },
+  "graphicID": 1176,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Training Container - Gas",
     "en": "Training Container - Gas",
@@ -10,5 +24,9 @@
     "ru": "Training Container - Gas",
     "zh": "训练用货柜 - 气云"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericmetal",
   "volume": 27500.0
 }

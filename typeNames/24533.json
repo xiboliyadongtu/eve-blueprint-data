@@ -1,5 +1,21 @@
 {
-  "typeID": 24533,
+  "basePrice": 837360.0,
+  "description": {
+    "de": "Die erste von den Minmatar geschaffene große Lenkwaffe. Die aus reaktiven Metalllegierungen gebaute Scourge Cruise Missile ist darauf ausgelegt, ihr Ziel unter allen Umständen zu erreichen. Lenk- und Antriebssystem sind gallentischen Ursprungs und wurden ursprünglich in Drohnen verwendet. Sie machen die Lenkwaffe schnell und wendig, trotz ihrer schweren Sprengladung.\n\n\n\nEine modifizierte Version der Scourge Cruise. Verursacht größeren Schaden als die Vorgängermunition. Die Unberechenbarkeit des Sprengkopfs und das leistungsstarke Abschirmsystem verringern jedoch sowohl Flugzeit als auch Genauigkeit.",
+    "en": "The first Minmatar-made large missile. Constructed of reactionary alloys, the Scourge cruise missile is built to get to the target. Guidance and propulsion systems are of Gallente origin and were initially used in drones, making this a nimble projectile despite its heavy payload.\r\n\r\nA modified version of the Scourge cruise. Does more damage than its predecessor but the volatile nature of the warhead, and its powerful containment system, reduce both flight time and precision.",
+    "es": "Los minmatarianos construyeron su primer misil de gran calibre está con aleaciones refractarias. El llamado misil de crucero Scourge no falla. Los sistemas de propulsión y guiado, de origen gallente, se emplearon inicialmente en drones, lo que lo convierte en un proyectil ágil a pesar de su pesada carga útil.\n\nVersión modificada del crucero Scourge. Inflige más daño que su predecesor, pero la naturaleza volátil de la ojiva y su potente sistema de contención reducen tanto el tiempo de vuelo como la precisión.",
+    "fr": "Il s'agit du premier grand missile fabriqué par les Minmatar. Produit à partir d'alliages réactifs, le missile de croisière Scourge est conçu pour atteindre sa cible quoi qu'il arrive. Les systèmes de propulsion et de guidage sont d'origine gallente et sont normalement utilisés pour la fabrication de drones. Ces technologies permettent à ce missile d'être très rapide, et ce malgré sa charge très importante.\n\nVersion modifiée du missile de croisière Scourge. Il inflige davantage de dégâts que son prédécesseur, mais la nature explosive de l'ogive, combinée à son puissant système de confinement, réduit à la fois le temps de vol et la précision.",
+    "ja": "初のミンマター製大型ミサイル。反発性合金で作られたスコージクルーズミサイルは、ターゲットに命中することを主眼として設計されている。誘導および推進システムにはガレンテのドローンにも採用されていた装置を使い、弾頭の重さのわりに機敏な飛行を実現している。\n\nスコージクルーズの改良版。従来型より与えるダメージは高いが、不安定な物質を使った弾頭と強化封じ込めシステムのせいで、飛行時間や精度は劣る。",
+    "ko": "민마타 최초로 내수 생산된 대형 미사일입니다. 합금으로 만들어진 스커지 크루즈 미사일은 적을 파괴하기 위해 설계되었습니다. 유도 및 추진 시스템 설계는 갈란테의 기술을 본떠서 제작되었으며 강력한 화력에 비해 낮은 무게로 초기에는 드론 무기로 사용되었습니다. <br><br>개량된 스커지 크루즈 미사일입니다. 기존 버전보다 파괴력은 뛰어나지만 낮은 탄두 안정성과 고성능 격납시스템의 탑재로 인해 사거리 및 정확도는 상대적으로 떨어집니다.",
+    "ru": "Первая большая ракета, выпущенная в республике Минматар. Ракета дальнего боя Scourge сконструирована из реакционных сплавов. Системы наведения и двигательная установка разработаны Галленте. Они первоначально использовались в дронах, что позволяет обеспечить быстроту и маневренность ракеты, несмотря на существенную массу боеголовки.\n\n\n\nМодификация ракеты дальнего боя Scourge. Обладает более значительным разрушительным действием, чем базовая модель, но при этом имеет меньшую дальность полета и пониженную эффективность ввиду низкой стабильности боеголовки.",
+    "zh": "米玛塔尔共和国制造的首款大型导弹。鞭挞巡航导弹由反应合金制造而成，其制造目的就是为了消灭目标。它的导航和推进系统来自盖伦特，最初用于无人机，这使得此种巡航导弹虽然载荷很大，却依然快速灵巧。这是鞭挞巡航导弹的一种改良版本，相比其前身具备更强的伤害力，但由于其强大的密封系统及高度不稳定性，飞行时间和准确性都有所降低。"
+  },
+  "graphicID": 20043,
+  "groupID": 656,
+  "iconID": 183,
+  "marketGroupID": 925,
+  "mass": 1250.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Scourge Fury Cruise Missile",
     "en": "Scourge Fury Cruise Missile",
@@ -10,5 +26,9 @@
     "ru": "Scourge Fury Cruise Missile",
     "zh": "鞭挞愤怒巡航导弹"
   },
+  "portionSize": 5000,
+  "published": true,
+  "radius": 300.0,
+  "variationParentTypeID": 203,
   "volume": 0.05
 }

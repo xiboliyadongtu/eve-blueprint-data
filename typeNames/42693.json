@@ -1,5 +1,18 @@
 {
-  "typeID": 42693,
+  "description": {
+    "de": "Das Design dieser Sleeper-Drohne ist anders als alles, das man bis zu diesem Zeitpunkt gesehen hat. Die Drohne erkundet Gebiete mit einer mechanischen Gleichgültigkeit ihrer monotonen Aufgabe gegenüber und führt jedes Manöver mit fehlerfreier, gedankenloser Präzision aus.",
+    "en": "The design of this Sleeper drone is unlike anything that has been seen to date. The drone explores with a mechanical indifference to the monotony of its task, executing each new maneuver with a flawless, unthinking precision.",
+    "es": "El diseño de este dron sleeper no se parece a nada que se haya visto hasta la fecha. El dron explora con mecánica indiferencia a la monotonía de su tarea, ejecutando cada nueva maniobra con una precisión impecable e irreflexiva.",
+    "fr": "La conception de ce drone sleeper diffère de toutes les technologies développées jusqu'à présent. Le drone explore l'espace mécaniquement, indifférent à la monotonie de sa mission, et exécute chaque nouvelle manœuvre avec une précision infaillible d'automate.",
+    "ja": "これまでとは全く異なるデザインのスリーパードローン。機械的な無関心さで単調な仕事に精を出し、また何事にも惑わされない完璧な正確性をもって新たな任務を遂行する。",
+    "ko": "한번도 본 적 없는 기묘한 형태의 슬리퍼 드론입니다. 드론은 자신에게 주어진 단순한 임무를 기계적인 정밀성을 바탕으로 수행해 나가고 있습니다.",
+    "ru": "Внешне этот дрон Спящих не похож ни на что ранее виденное. Дрон ведёт поисковые работы с механической безразличностью к своему монотонному заданию, выполняя каждый новый маневр с безупречной, бездумной точностью.",
+    "zh": "这个冬眠者无人机和目前为止见到过的都不一样。它完全是机械化地执行单调的任务，每一个操作都精准无比。"
+  },
+  "factionID": 500021,
+  "graphicID": 20978,
+  "groupID": 1768,
+  "mass": 2000000.0,
   "name": {
     "de": "Circadian Seeker",
     "en": "Circadian Seeker",
@@ -10,5 +23,10 @@
     "ru": "Circadian Seeker",
     "zh": "节律探寻者"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 64,
+  "radius": 50.0,
+  "sofFactionName": "sleeperbase",
+  "soundID": 12
 }

@@ -1,5 +1,65 @@
 {
-  "typeID": 22546,
+  "basePrice": 190300000.0,
+  "capacity": 350.0,
+  "description": {
+    "de": "Dieses Ausgrabungsschiff ist ein Bergbauschiff der zweiten Generation, das von <a href=showinfo:30//500014>ORE</a> entwickelt wurde. Ausgrabungsschiffe wurden genau wie Bergbaubarkassen entwickelt, um in einer bestimmten Rolle herauszustechen; die Skiff überzeugt in Sachen Robustheit und Selbstverteidigung. Fortschrittliche Schilde und Drohnenkontrollsysteme machen die Skiff zum robustesten Bergbauschiff im Cluster.\n\n\n\nAusgrabungsschiffe sind mit Elektroniksubsystemen ausgestattet, die speziell auf den Gebrauch von Oberflächen-Bergbaulasern und Eisschürfer-Modulen zugeschnitten wurden.",
+    "en": "The exhumer is the second generation of mining vessels created by <a href=showinfo:30//500014>ORE</a>. Exhumers, like their mining barge cousins, were each created to excel at a specific function, the Skiff's being durability and self-defense. Advanced shielding and drone control systems make the Skiff the toughest mining ship in the cluster.\r\n\r\nExhumers are equipped with electronic subsystems specifically designed to accommodate Strip Mining and Ice Harvesting modules.",
+    "es": "El exhumador es la segunda generación de naves mineras que ha creado <a href=showinfo:30//500014>ORE</a>. Los exhumadores, como sus primas las gabarras mineras, se crearon para destacar en una función específica, siendo la de la Skiff la durabilidad y la autodefensa. Los sistemas de control de drones y escudos avanzados la convierten en la nave minera más dura del cúmulo.\n\n\n\nLos exhumadores están equipados con subsistemas electrónicos diseñados específicamente para albergar módulos de extracción minera y recolección de hielo.",
+    "fr": "Les exhumers incarnent la deuxième génération de vaisseaux d'extraction minière créés par <a href=showinfo:30//500014>ORE</a>. À l'instar des barges d'extraction minière, chaque exhumer se spécialise dans un domaine particulier. Le Skiff, en l'occurrence, brille par sa solidité et sa résistance défensive. Pourvu de systèmes de boucliers et de contrôle des drones avancés, le Skiff surclasse tout autre vaisseau d'extraction sur le plan défensif.\n\n\n\nLes exhumers sont équipés de sous-systèmes électroniques spécialement conçus pour accueillir les modules d'extraction minière et de collecte de glace.",
+    "ja": "特化型採掘艦は<a href=showinfo:30//500014>ORE社</a>によって製造された採掘艦の第二世代である。通常の採掘艦と同様、それぞれ特定の機能を強化した仕様になっている。スキフの場合は耐久性の高く、自己防衛機能に優れている。高性能のシールドとドローン制御システムを備えるスキフは、クラスタ内で最もタフな艦船である。特化型採掘艦はストリップマイナーおよびアイス採掘機モジュール専用に設計された電子補助システムを搭載している。",
+    "ko": "익스허머는 <a href=showinfo:30//500014>ORE</a>에서 제작한 2세대 채광선입니다. 1세대 채광선과 마찬가지로 익스허머 또한 저마다의 특성을 보유하고 있으며, 스키프의 경우 견고한 선체와 강력한 방어 체계가 강점으로 꼽힙니다. 실드 및 드론 제어 시스템을 탑재한 스키프는 전 우주에서 가장 단단한 채굴선으로도 알려져 있습니다. <br><br>익스허머는 채굴용 전자 서브시스템이 장착되어 있어 가속 채굴 및 아이스 채굴에 적합합니다.",
+    "ru": "Тяжёлые буровые корабли — представители второго поколения буровых кораблей, созданных <a href=showinfo:30//500014>Окраинной Рудной Экспедицией</a>. Не отличаясь в этом аспекте от младших родственников, каждый из типов тяжёлых буровых кораблей превосходит другие по одной специфической характеристике; для «Скифа» это прочность корпуса и бортовые системы защиты. Благодаря улучшенным генераторам щитов и системам управления дронами «Скиф» считается прочнейшим буровым кораблём Нового Эдема.\n\n\n\nТяжёлые буровые корабли оснащены бортовыми электронными системами, специально спроектированными для работы с буровыми лазерами валовой выемки и установками для бурения льда.",
+    "zh": "该采掘舰船是<a href=showinfo:30//500014>外空联合矿业</a>集团制造的第二代采矿船。采掘舰船，像它的兄弟采矿驳船一样，都被设计成在一方面具备十分出挑能力的舰船。轻舟级的强项便在于抗击力及自卫能力。高级的护盾和无人机控制系统使得轻舟级成为宇宙中最难对付的采矿船。\n\n\n\n采掘舰船装备有专为配合露天开采及冰矿采集装备而设计的电子子系统。"
+  },
+  "factionID": 500014,
+  "graphicID": 2940,
+  "groupID": 543,
+  "marketGroupID": 874,
+  "mass": 20000000.0,
+  "masteries": {
+    "0": [
+      96,
+      164,
+      106,
+      140,
+      85,
+      94
+    ],
+    "1": [
+      96,
+      164,
+      106,
+      140,
+      85,
+      94
+    ],
+    "2": [
+      96,
+      164,
+      106,
+      140,
+      85,
+      94
+    ],
+    "3": [
+      96,
+      164,
+      106,
+      140,
+      85,
+      94
+    ],
+    "4": [
+      96,
+      164,
+      106,
+      140,
+      85,
+      118,
+      94
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Skiff",
     "en": "Skiff",
@@ -10,5 +70,128 @@
     "ru": "Skiff",
     "zh": "轻舟级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 128,
+  "radius": 137.0,
+  "sofFactionName": "prospecting",
+  "soundID": 20067,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Bonus auf den Schaden und die HP von Drohnen",
+          "en": "bonus to drone damage and hitpoints",
+          "es": "de bonificación al daño y los puntos de vida de los drones.",
+          "fr": "bonus aux dégâts et aux PV des drones",
+          "ja": "ドローンのダメージとHPが増加",
+          "ko": "드론 피해량 및 내구도 증가",
+          "ru": "увеличивается урон бортового оружия дронов, увеличивается запас их прочности",
+          "zh": "无人机伤害和HP加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "17940": [
+        {
+          "bonus": -4.0,
+          "bonusText": {
+            "de": "der Dauer von <a href=showinfo:16278>Eisschürfern</a>",
+            "en": "in <a href=showinfo:16278>Ice Harvester</a> duration",
+            "es": "en la duración de la <a href=showinfo:16278>cosechadora de hielo</a>.",
+            "fr": "à la durée des <a href=showinfo:16278>collecteurs de glace</a>",
+            "ja": "<a href=showinfo:16278>アイス採掘機</a>サイクル時間ボーナス",
+            "ko": "<a href=showinfo:16278>아이스 채굴기</a> 지속시간",
+            "ru": "от времени работы <a href=showinfo:16278>установок для бурения льда</a>",
+            "zh": "<a href=showinfo:16278>冰矿采集器</a>运转周期"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 2.0,
+          "bonusText": {
+            "de": "der Ausbeute von <a href=showinfo:17482>Oberflächen-Bergbaulasern</a>",
+            "en": "in <a href=showinfo:17482>Strip Miner</a> yield",
+            "es": "en la producción del <a href=showinfo:17482>extractor minero</a>.",
+            "fr": "au rendement des <a href=showinfo:17482>lasers d'extraction intensive</a>",
+            "ja": "<a href=showinfo:17482>ストリップマイナー</a>採掘量ボーナス",
+            "ko": "<a href=showinfo:17482>가속 채굴기</a> 채굴량",
+            "ru": "от эффективности добычи <a href=showinfo:17482>буровых лазеров валовой выемки</a>",
+            "zh": "<a href=showinfo:17482>露天采矿器</a>开采量"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 6.0,
+          "bonusText": {
+            "de": "Bonus auf die HP der Schilde des Schiffs",
+            "en": "bonus to ship shield hitpoints",
+            "es": "de bonificación a los puntos de vida del escudo de la nave.",
+            "fr": "de bonus aux PV du bouclier du vaisseau",
+            "ja": "艦船のシールドヒットポイントが増加",
+            "ko": "실드량 증가",
+            "ru": "повышается запас прочности щитов корабля",
+            "zh": "舰船护盾值加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ],
+      "22551": [
+        {
+          "bonus": -3.0,
+          "bonusText": {
+            "de": "der Dauer von <a href=showinfo:60313>Gas-Extraktoren</a>",
+            "en": "in <a href=showinfo:60313>Gas Harvester</a> duration",
+            "es": "en la duración de la <a href=showinfo:60313>cosechadora de gas</a>.",
+            "fr": "à la durée des <a href=showinfo:60313>collecteurs de gaz</a>",
+            "ja": "<a href=showinfo:60313>ガス採掘機</a>サイクル時間ボーナス",
+            "ko": "<a href=showinfo:60313>가스 하베스터</a> 지속시간",
+            "ru": "от времени работы <a href=showinfo:60313>установок для сбора газа</a>",
+            "zh": "<a href=showinfo:60313>冰矿采集器</a>运转周期"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 2.0,
+          "bonusText": {
+            "de": "der Ausbeute von <a href=showinfo:17482>Oberflächen-Bergbaulasern</a>",
+            "en": "in <a href=showinfo:17482>Strip Miner</a> yield",
+            "es": "en la producción del <a href=showinfo:17482>extractor minero</a>.",
+            "fr": "au rendement des <a href=showinfo:17482>lasers d'extraction intensive</a>",
+            "ja": "<a href=showinfo:17482>ストリップマイナー</a>採掘量ボーナス",
+            "ko": "<a href=showinfo:17482>가속 채굴기</a> 채굴량",
+            "ru": "от эффективности добычи <a href=showinfo:17482>буровых лазеров валовой выемки</a>",
+            "zh": "<a href=showinfo:17482>露天采矿器</a>开采量"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 4.0,
+          "bonusText": {
+            "de": "Bonus auf alle Schildresistenzen",
+            "en": "bonus to all shield resistances",
+            "es": "de bonificación a todas las resistencias de escudo.",
+            "fr": "bonus à toutes les résistances de bouclier",
+            "ja": "全てのシールドレジスタンスが増加",
+            "ko": "모든 실드 저항력 증가",
+            "ru": "повышается сопротивляемость щитов корабля всем видам воздействия",
+            "zh": "护盾抗性加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 17480,
   "volume": 150000.0
 }

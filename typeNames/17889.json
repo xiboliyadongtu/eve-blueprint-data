@@ -1,5 +1,17 @@
 {
-  "typeID": 17889,
+  "description": {
+    "de": "Wasserstoff-2, auch als Deuterium bekannt. Wegen seiner einzigartigen Beschaffenheit kann das Wasserstoff-2-Isotop sehr effektiv mit anderen Atomen verschmolzen werden. Es hat eine große Verwendungsbreite und ist notwendig für den Betrieb von Kontrolltürmen der Minmatar. \n\nKann durch die Aufbereitung von folgendem Eis erhalten werden:\n\nSonnensystem-Sicherheitsstatus <color='0xFF33FFFF'>1.0</color> oder darunter:\n<a href=showinfo:16263>Glacial Mass</a>\n\nSonnensystem-Sicherheitsstatus <color='0xFFFF0000'>0.0</color> oder darunter:\n<a href=showinfo:17977>Smooth Glacial Mass</a>",
+    "en": "Hydrogen-2, otherwise known as Deuterium. Due to its unique properties the hydrogen-2 isotope is able to very effectively fuse with other atoms. Useful in a variety of nuclear scenarios, and an essential material for the maintenance of Minmatar Control Towers.\r\n\r\nMay be obtained by reprocessing the following ice ores:\r\n\r\n<color='0xFF33FFFF'>1.0</color> security status solar system or lower:\r\n<a href=showinfo:16263>Glacial Mass</a>\r\n\r\n<color='0xFFFF0000'>0.0</color> security status solar system or lower:\r\n<a href=showinfo:17977>Smooth Glacial Mass</a>",
+    "es": "Hidrógeno-2, también conocido como deuterio. Debido a sus propiedades únicas, el isótopo de hidrógeno-2 se fusiona muy bien con otros átomos. Es útil en diversas situaciones nucleares y se trata de un material esencial para el mantenimiento de las torres de control minmatarianas.\n\nPuede obtenerse mediante el reprocesamiento de las siguientes menas de hielo:\n\nSistemas solares con estado de seguridad <color='0xFF33FFFF'>1,0</color> o inferior:\n\n<a href=showinfo:16263>Masa glacial</a>\n\nSistemas solares con estado de seguridad <color='0xFFFF0000'>0,0</color> o inferior:\n\n<a href=showinfo:17977>Masa glacial tersa</a>",
+    "fr": "L'hydrogène 2, aussi connu sous le nom de deutérium. En raison de ses propriétés uniques, l'isotope hydrogène 2 est capable de fusionner très efficacement avec les autres atomes. Utile dans divers scénarios nucléaires, il est aussi un matériel essentiel pour la maintenance des tours de contrôle minmatar.\n\nPeut être obtenu en retraitant les minerais de glace suivants :\n\nSystème solaire de statut de sécurité <color='0xFF33FFFF'>1,0</color> ou inférieur : <a href=showinfo:16263>masse de glace</a>\n\nSystème solaire de statut de sécurité <color='0xFFFF0000'>0,0</color> ou inférieur : <a href=showinfo:17977>masse de glace lisse</a>",
+    "ja": "水素-2。またの名を重水素。他の原子と大変効率良く融合するという、特異な性質をもつ。様々な核反応に利用され、ミンマターコントロールタワーの動力源として必須の資源である。\n\t\t\n以下のアイス鉱石を再処理することによって得ることができる。\n\nセキュリティステータスが<color='0xFF33FFFF'>1.0</color>以下のソーラーシステム：\n<a href=showinfo:16263>グレイシャル塊</a>\n\nセキュリティステータスが<color='0xFFFF0000'>0.0</color>以下のソーラーシステム：\n<a href=showinfo:17977>スムーズグレイシャル塊</a>",
+    "ko": "수소-2 또는 듀테륨이라고 불리는 동위원소입니다. 이 동위 원소의 독특한 성질로 인해 다른 원자와 결합이 효과적으로 이루어지는 편입니다. 원자력을 사용하는 각종 무기 및 구조물에 활용되며 특히 민마타 관제타워 유지에 필수적인 요소입니다. <br><br>아래의 아이스를 정제하여 획득할 수 있습니다 :<br><br><color='0xFF33FFFF'>1.0</color> 시큐리티 상태 이하 항성계:<br><a href=showinfo:16263>글레이셜 매스</a><br><br><color='0xFFFF0000'>0.0</color> 시큐리티 상태 이하 항성계:<br><a href=showinfo:17977>투명한 글레이셜 매스</a>",
+    "ru": "Водород-2, называемый также дейтерием. Из-за своих уникальных характеристик водород-2 способен весьма эффективно вступать в синтез с другими атомами. Применяется в различных ядерных программах и является незаменимым материалом для работы матарских башен управления. Добывается посредством переработки следующих типов льда: <br><br>СС <color='0xFF33FFFF'>1.0</color> и ниже: <br><a href=showinfo:16263>Glacial Mass</a> <br><br> <color='0xFFFF0000'>0.0</color> и ниже: <br><a href=showinfo:17977>Smooth Glacial Mass</a>",
+    "zh": "氢-2也被称作氘。由于其独特的性质，氢-2同位素能够非常有效地与其他原子熔合。它在许多原子能场合下非常有用，也是维持米玛塔尔控制塔的一种必要物质。\n\n可以从下列冰矿石中提炼获得：\n\n安全等级<color='0xFF33FFFF'>1.0</color>及以下星系：\n<a href=showinfo:16263>聚合冰体</a>\n\n安全等级<color='0xFFFF0000'>0.0</color>及以下星系：\n<a href=showinfo:17977>光滑聚合冰</a>"
+  },
+  "groupID": 423,
+  "iconID": 2700,
+  "marketGroupID": 1033,
   "name": {
     "de": "Hydrogen Isotopes",
     "en": "Hydrogen Isotopes",
@@ -10,5 +22,7 @@
     "ru": "Hydrogen Isotopes",
     "zh": "氢同位素"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.03
 }

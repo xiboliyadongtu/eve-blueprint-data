@@ -1,5 +1,18 @@
 {
-  "typeID": 29895,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Sie vermuten, dass man mit dem richtigen Bergungswerkzeug noch etwas von Wert in diesem Wrack finden könnte.",
+    "en": "You surmise that with some salvaging equipment there is still something of value to be had from this wreck.",
+    "es": "Con algo de equipo de recuperación, quizá aún pueda sacarse algo de valor de estos restos.",
+    "fr": "Vous estimez qu'avec du bon matériel de récupération, on pourrait tirer quelque chose de cette épave.",
+    "ja": "なんらかのサルベージ装置があれば、まだ、この残骸に価値を見いだせるかもしれない。",
+    "ko": "샐비지 장비로 잔해에서 부품이나 자원을 획득할 수 있습니다.",
+    "ru": "Вы думаете, что с помощью специального демонтажного оборудования из этого остова можно будет извлечь что-то полезное.",
+    "zh": "你思量着如果使用打捞工具的话，说不定能从这个残骸中搞出点什么值钱的东西。"
+  },
+  "graphicID": 3115,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Blood Ship Ruins",
     "en": "Blood Ship Ruins",
@@ -10,5 +23,9 @@
     "ru": "Blood Ship Ruins",
     "zh": "血袭者舰船废墟"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 418.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

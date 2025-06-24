@@ -1,5 +1,17 @@
 {
-  "typeID": 24714,
+  "description": {
+    "de": "Eine kleine Scheibe aus einem Halbleitermaterial, die als Grundlage für einen integrierten Schaltkreis dient.",
+    "en": "A small wafer of semiconductor material that forms the base for an integrated circuit.",
+    "es": "Pequeña porción del material semiconductor que forma la base de un circuito integrado.",
+    "fr": "Petite galette de matériau semi-conducteur qui forme la base d'un circuit intégré.",
+    "ja": "集積回路の素材となる、小型の半導体ウエハー。",
+    "ko": "집적회로를 만드는 데 사용되는 반도체용 규소 웨이퍼입니다.",
+    "ru": "Небольшая пластина полупроводникового материала формирует основу интегральной схемы.",
+    "zh": "一小块由半导体组成的晶片，是集成电路的基板。"
+  },
+  "groupID": 526,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Important Surveillance Data",
     "en": "Important Surveillance Data",
@@ -10,5 +22,7 @@
     "ru": "Important Surveillance Data",
     "zh": "重要监察数据"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

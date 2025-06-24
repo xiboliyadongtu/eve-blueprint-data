@@ -1,5 +1,18 @@
 {
-  "typeID": 33480,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Ein Container mit eingebautem Transportmechanismus für den schnellen Versand kleiner Gegenstände.",
+    "en": "A container with internal transportation mechanism. Used for quick shipments of low-volume items.",
+    "es": "Contenedor con un mecanismo de transporte interno. Se usa para envíos rápidos de objetos de poco volumen.",
+    "fr": "Un conteneur avec des mécanismes de transport internes. Utilisé pour les livraisons rapides d'objets de petite taille.",
+    "ja": "移動メカニズムを内蔵したコンテナ。少量の貨物を手早く配送するために使われる。",
+    "ko": "자체 이동 기능이 있는 컨테이너입니다. 적은 양의 물건을 빠르게 배송해야 될 때 쓰입니다.",
+    "ru": "Контейнер со встроенным транспортирующим устройством. Применяется для быстрой транспортировки малогабаритных грузов.",
+    "zh": "一种带有内部传输机制的货柜，用来快速运输少量物品。"
+  },
+  "graphicID": 2007,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Mobile Shipping Unit",
     "en": "Mobile Shipping Unit",
@@ -10,5 +23,9 @@
     "ru": "Mobile Shipping Unit",
     "zh": "移动式运输装置"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 1226.0,
+  "sofFactionName": "genericbase",
   "volume": 100000000.0
 }

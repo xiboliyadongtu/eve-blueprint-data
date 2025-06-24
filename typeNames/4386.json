@@ -1,5 +1,18 @@
 {
-  "typeID": 4386,
+  "description": {
+    "de": "Eine große, stationierbare Einheit mit eigener Stromversorgung, die innerhalb ihres Wirkungsbereiches jeden Mikrosprung unterbindet.",
+    "en": "A Large deployable self powered unit that prevents micro jumping into its area of effect.",
+    "es": "Esta unidad autónoma desplegable grande evita los microsaltos en su radio de acción",
+    "fr": "Unité mobile autonome lourde empêchant toute opération de micropropulsion dans sa zone d'effet.",
+    "ja": "有効範囲へのマイクロジャンプを防ぐ大型配置用自家発電ユニット",
+    "ko": "전개형 자가동력 교란장치로 지정한 범위 내의 마이크로 점프를 방해합니다.",
+    "ru": "Генератор большой мощности, снабженный автономным источником питания и гравитационным якорем; выводит из строя варп-двигатели всех кораблей, находящихся на определенном расстоянии от точки его установки.",
+    "zh": "一种自我供能的可部署大型设备，可以阻止舰船微型跃迁到其有效范围内。"
+  },
+  "graphicID": 2309,
+  "groupID": 1149,
+  "iconID": 2309,
+  "marketGroupID": 405,
   "name": {
     "de": "Mobile Large Jump Disruptor I",
     "en": "Mobile Large Jump Disruptor I",
@@ -10,5 +23,9 @@
     "ru": "Mobile Large Jump Disruptor I",
     "zh": "大型机动跳跃扰断器 I"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 70.0,
+  "sofFactionName": "genericmetal",
   "volume": 585.0
 }

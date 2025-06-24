@@ -1,5 +1,16 @@
 {
-  "typeID": 10120,
+  "description": {
+    "de": "Diese Ansammlung von Felsen und Verstärkungsstreben scheint von selbständigem künstlichen Leben besetzt worden zu sein.",
+    "en": "This block of rock and girders seems to be infested with independant artificial life.",
+    "es": "Este bloque de roca y vigas parece haber sido infestado por vida artificial independiente.",
+    "fr": "Cet enchevêtrement de roche et de poutrelles semble infesté par une vie artificielle indépendante.",
+    "ja": "梁で結合された岩石。組織に所属していない人工生命体が多数住み着いている。",
+    "ko": "드론에 의해 감염되었습니다.",
+    "ru": "Эти куски скалы и балок кажутся населенными некоей искуственной жизнью.",
+    "zh": "这些岩石块和钢梁似乎已被人工智能生命体占据。"
+  },
+  "graphicID": 1681,
+  "groupID": 226,
   "name": {
     "de": "Rock - Infested by Rogue Drones",
     "en": "Rock - Infested by Rogue Drones",
@@ -10,5 +21,8 @@
     "ru": "Rock - Infested by Rogue Drones",
     "zh": "岩石—被自由无人机所占据"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 150.0,
+  "sofFactionName": "genericbase"
 }

@@ -1,5 +1,21 @@
 {
-  "typeID": 27477,
+  "basePrice": 7500.0,
+  "description": {
+    "de": "Ein Marschflugkörper der Mordu mit nuklearem Sprengkopf und automatisiertem Lenksystem.",
+    "en": "A Mordu cruise missile with a nuclear warhead and automatic guidance system.",
+    "es": "Misil de crucero de Mordu con una ojiva nuclear y un sistema de guiado automático.",
+    "fr": "Missile de croisière mordu équipé d'une ogive nucléaire et d'un système de guidage automatique.",
+    "ja": "核弾頭と自動誘導システムを搭載したモードゥ式クルーズミサイル。",
+    "ko": "유도시스템과 핵탄두가 탑재된 모르두 크루즈 미사일입니다.",
+    "ru": "Дальнобойная ракета легиона Морду с ядерной боеголовкой и автоматической системой наводки.",
+    "zh": "一种莫德团巡航导弹，带有核弹头和自动导引系统。"
+  },
+  "graphicID": 20042,
+  "groupID": 396,
+  "iconID": 1343,
+  "marketGroupID": 1192,
+  "mass": 1250.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Legion Nova Auto-Targeting Cruise Missile",
     "en": "Legion Nova Auto-Targeting Cruise Missile",
@@ -10,5 +26,9 @@
     "ru": "Legion Nova Auto-Targeting Cruise Missile",
     "zh": "圣卒级新星自动锁定巡航导弹"
   },
+  "portionSize": 100,
+  "published": true,
+  "radius": 300.0,
+  "variationParentTypeID": 1830,
   "volume": 0.05
 }

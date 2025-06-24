@@ -1,5 +1,18 @@
 {
-  "typeID": 30519,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Veraltete Sleeper-Datenbank: Das war vielleicht das Steuerelement einer Luftschleuse oder eines Belüftungssystems - oder eine Art Stasis-Pod. Wie auch immer: allein die Datenbank, die Sie im Innern ausfindig gemacht haben, besitzt noch einen gewissen Wert.",
+    "en": "Obsolete Sleeper Databank: This could once have been an airlock. Or an essential component of a ventilation system. Or some kind of stasis pod. Whatever it was, the only thing of value that remains is the databank you can detect concealed within.",
+    "es": "Banco de datos sleeper obsoleto. En el pasado, podría haber sido una esclusa o un componente esencial de un sistema de ventilación. O quizá una especie de cápsula de ralentización. Sea lo que sea, lo único que queda de valor es el banco de datos en su interior.",
+    "fr": "Banque de données sleeper obsolète : autrefois, cela aurait pu être un sas, ou un composant essentiel d'un système de ventilation... À moins qu'il ne s'agissait d'une capsule de stase. Quoi qu'il en soit, la seule chose de valeur reste cette banque de données coincée à l'intérieur.",
+    "ja": "廃れたスリーパーデータバンク。これは、エアロックだった可能性がある。換気システムの主要部品だったかもしれない。それとも何らかの固定ポッドだったのだろうか。何であったにしろ、現在残っている中で価値のあるものは、中に埋め込まれているデータバンクだけだ。",
+    "ko": "노후화된 슬리퍼 데이터뱅크: 에어록, 통풍 시스템, 스테이시스 포드. 정확한 용도는 알 수 없으며 유일하게 쓸모 있는 데이터뱅크는 안쪽에 감춰져 있습니다.",
+    "ru": "Вышедший из употребления банк данных Sleeper. Его могли использовать в качестве воздушного шлюза. Или важного компонента вентиляционной системы. Или в качестве какого-то неподвижного контейнера. Чем бы это не было, единственной ценной вещью в нем остается банк данных, который вы можете обнаружить спрятанным внутри.",
+    "zh": "抛弃的数据库：这以前可能属于某个气闸，或者通风系统的关键部件，或者停滞设备载舱之类的。不管是什么，现在所剩下的唯一有价值的东西可能就是里面的一块数据库设备了。"
+  },
+  "graphicID": 3706,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Obsolete Sleeper Databank",
     "en": "Obsolete Sleeper Databank",
@@ -10,5 +23,9 @@
     "ru": "Obsolete Sleeper Databank",
     "zh": "抛弃的数据库"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 858.0,
+  "sofFactionName": "debris",
   "volume": 27500.0
 }

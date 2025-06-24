@@ -1,5 +1,16 @@
 {
-  "typeID": 44274,
+  "description": {
+    "de": "Diese Drohne existiert nicht.",
+    "en": "This drone does not exist.",
+    "es": "Este dron no existe.",
+    "fr": "Ce drone n'existe pas.",
+    "ja": "このドローンは存在していません。",
+    "ko": "해당 드론이 존재하지 않습니다.",
+    "ru": "Такого дрона не существует.",
+    "zh": "此无人机不存在。"
+  },
+  "graphicID": 20129,
+  "groupID": 1159,
   "name": {
     "de": "QA Salvage Drone",
     "en": "QA Salvage Drone",
@@ -10,5 +21,9 @@
     "ru": "QA Salvage Drone",
     "zh": "QA打捞无人机"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 5.0,
+  "sofFactionName": "orebase",
   "volume": 5.0
 }

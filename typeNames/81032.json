@@ -1,5 +1,18 @@
 {
-  "typeID": 81032,
+  "basePrice": 2000000.0,
+  "description": {
+    "de": "Skill zum Betrieb von Transporter des Upwell Consortium.",
+    "en": "Skill at operating Upwell Consortium haulers.",
+    "es": "Habilidad en el manejo de naves de mercancías del Consorcio Upwell.",
+    "fr": "Compétence d'utilisation des transports de l'Upwell Consortium.",
+    "ja": "アップウェル・コンソーシアムのハウラーを操作するためのスキル。",
+    "ko": "업웰 컨소시엄 운반선 운용을 위한 스킬입니다.",
+    "ru": "Навык управления перевозчиками консорциума «Апвелл».",
+    "zh": "操作昇威财团运载舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Upwell Hauler",
     "en": "Upwell Hauler",
@@ -10,5 +23,8 @@
     "ru": "Upwell Hauler",
     "zh": "昇威运载舰"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
   "volume": 0.01
 }

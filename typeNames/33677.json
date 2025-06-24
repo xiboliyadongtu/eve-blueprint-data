@@ -1,5 +1,68 @@
 {
-  "typeID": 33677,
+  "capacity": 145.0,
+  "description": {
+    "de": "Das Design der Comet stammt von einem gewissen Arnerore Rylerave, einem Ingenieur und Entwickler der Roden Shipyards Corporation.  Ursprünglich wurde sie als Standard-Polizeipatrouillenschiff entwickelt, aber ihre erstaunliche Manövrier- und Angriffsfähigkeit haben die Comet in die Reihen der Navy katapultiert.",
+    "en": "The Comet's design comes from one Arnerore Rylerave, an engineer and researcher of the Roden Shipyards corporation.  Originally created as a standard-issue police patrol vessel, its tremendous maneuverability and great offensive capabilities catapulted it into the Navy's ranks, where it is now a widely-used skirmish vessel.",
+    "es": "El diseño de la Comet es de Arnerore Rylerave, que trabajó en procesos de ingeniería e investigación en la corporación Roden Shipyards. Se creó originalmente como una nave patrulla de policía estándar, con una gran maniobrabilidad y poderosas capacidades ofensivas que la catapultaron directamente a la Armada, donde es muy usada como nave de escaramuzas.",
+    "fr": "Le design du Comet vient d'un certain Arnerore Rylerave, un ingénieur et chercheur de la corporation des Roden Shipyards.  D'abord créé pour être le vaisseau standard des patrouilles de police, sa formidable manœuvrabilité et ses grandes capacités offensives lui ont valu d'être propulsé dans les rangs de la Navy, où il est aujourd'hui très utilisé comme vaisseau d'escarmouche.",
+    "ja": "コメットは、ローデン造船所のエンジニアであり研究者であるアルネロア・ライラレイヴにより設計された。元々は警備隊の日常的なパトロール任務用だったのだが、その驚異的な機動力と高い攻撃能力でたちまち海軍が正式採用するところとなり、現在ではスカーミッシュ艦として幅広く活躍している。",
+    "ko": "로덴 쉽야드 코퍼레이션의 엔지니어 겸 연구자인 아르네로레 릴러레이브가 설계한 함선입니다. 치안유지용 순찰선으로 개발되었으나 기동성과 화력이 뛰어나 단기간 내에 해군 배틀쉽으로 인정받게 되었고 스커미시 함선으로 활발히 사용되고 있습니다.",
+    "ru": "Авторство конструкции «Кометы» принадлежит Арнэрору Рилераву, инженеру и исследователю «Верфей Родена».  Изначально «Комета» являлась стандартным кораблём полицейских патрулей; исключительная маневренность и высочайшая огневая мощь ввели «Комету» в состав флота Галлентской Федерации. В рядах флота она широко применяется в качестве корабля для мелкомасштабных боевых операций.",
+    "zh": "彗星级的设计理念来自于莱登船业军团的工程师和研究员阿内若•莱瑞芙。  最初设计为标准的警用巡逻舰，但优秀的操作性和攻击能力使它晋级为海军级别，在小规模冲突中被广泛使用。"
+  },
+  "graphicID": 66,
+  "groupID": 25,
+  "marketGroupID": 1366,
+  "mass": 970000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      140,
+      67,
+      150,
+      89,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      140,
+      67,
+      150,
+      89,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      140,
+      67,
+      150,
+      89,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      140,
+      67,
+      150,
+      89,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      140,
+      67,
+      117,
+      150,
+      89,
+      94
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Police Pursuit Comet",
     "en": "Police Pursuit Comet",
@@ -9,6 +72,46 @@
     "ko": "경찰 추적대 코멧",
     "ru": "Police Pursuit Comet",
     "zh": "警察追击彗星级"
+  },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "sofFactionName": "police",
+  "traits": {
+    "types": {
+      "3328": [
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Nachführungsgeschwindigkeit von <a href=showinfo:3301>kleinen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3301>Small Hybrid Turret</a> tracking speed",
+            "es": "de bonificación a la velocidad de rastreo de la <a href=showinfo:3301>torreta híbrida pequeña</a>.",
+            "fr": "bonus à la vitesse de poursuite des <a href=showinfo:3301>petites tourelles hybrides</a>",
+            "ja": "<a href=showinfo:3301>小型ハイブリッドタレット</a>の追跡速度が上昇",
+            "ko": "<a href=showinfo:3301>소형 하이브리드 터렛</a> 트래킹 속도 증가",
+            "ru": "повышается скорость наводки на цель <a href=showinfo:3301>малых гибридных орудий</a>",
+            "zh": "<a href=\"showinfo:3301\">小型混合炮台</a>跟踪速度加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 20,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3301>kleinen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3301>Small Hybrid Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3301>torreta híbrida pequeña</a>.",
+            "fr": "bonus aux dégâts des <a href=showinfo:3301>petites tourelles hybrides</a>",
+            "ja": "<a href=showinfo:3301>小型ハイブリッドタレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3301>소형 하이브리드 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон боеприпасов <a href=showinfo:3301>малых гибридных орудий</a>",
+            "zh": "<a href=\"showinfo:3301\">小型混合炮台</a>伤害加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 16500.0
 }

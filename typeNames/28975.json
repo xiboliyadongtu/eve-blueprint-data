@@ -1,5 +1,18 @@
 {
-  "typeID": 28975,
+  "basePrice": 100.0,
+  "description": {
+    "de": "Diese komplizierten Datenblätter mögen für das Auge des Laien wenig bedeutend sein, aber sie enthalten viele Informationen über Handelswege, Steuern sowie andere undurchsichtige Geschäftsdaten.",
+    "en": "These complicated data sheets may mean little to the layman's eye, but they contain a great deal of information about trade routes, taxes, and other arcane business data.",
+    "es": "Estas complejas hojas de datos pueden tener poco valor para el lego en la materia, pero contienen una gran cantidad de información sobre rutas comerciales, impuestos y otros datos de negocios arcanos.",
+    "fr": "Si ces fiches de données complexes semblent dénuées d'intérêt à des yeux profanes, elles contiennent énormément d'informations concernant les routes commerciales, les taxes, ainsi que d'autres informations commerciales.",
+    "ja": "一見、重要度は低そうに見えるが、取引ルート、税などの難解なビジネスデータに関する大量の情報が含まれる複雑なデータシートを格納したシート。",
+    "ko": "일반적인 사람들에게는 별 의미가 없어보일 수 있으나 무역로, 세금 및 비밀사업과 관련된 방대한 데이터가 담겨있는 복잡한 데이터 시트입니다.",
+    "ru": "Этот грузовой манифест мало что значит для непосвященного, но он тем не менее содержит множество сведений о торговых путях, налогах и других деловых данных.",
+    "zh": "这些复杂的数据单在外行人看来也许毫无用处，但它们包含了大量关于贸易路线、税款和其他鲜为人知的商业信息。"
+  },
+  "groupID": 314,
+  "iconID": 1192,
+  "mass": 1.0,
   "name": {
     "de": "Cargo Manifest",
     "en": "Cargo Manifest",
@@ -10,5 +23,7 @@
     "ru": "Cargo Manifest",
     "zh": "货物信息"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 3.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 10100,
+  "capacity": 500.0,
+  "description": {
+    "de": "Dies ist ein Sicherheitsschiff der Ammatar-Flotte. Es patrouilliert in diesem Sektor und wird auf jegliche Zeichen von Kampf reagieren. Es kann Verstärkung aus nahegelegenen Sektoren verlangen, wenn dies nötig werden sollte.\r\n\r\nBedrohungsstufe: Extrem",
+    "en": "This is a security vessel of the Ammatar Fleet. It is patrolling this sector and will respond to any combat it detects. It can call in reinforcements from nearby sectors if the need arises. Threat level: Extreme",
+    "es": "Nave de seguridad de la flota ammatariana que patrulla por este sector y responderá a cualquier combate que detecte. Puede pedir refuerzos de los sectores cercanos si es necesario. Nivel de amenaza: extremo.",
+    "fr": "Ceci est un vaisseau de sécurité de l'Ammatar Fleet. Il est en patrouille dans ce secteur et interviendra dans tout combat qu'il pourra détecter. Au besoin, il peut appeler des renforts des secteurs voisins. Niveau de menace : extrême",
+    "ja": "アマターフリートのセキュリティ艦。管轄区域をパトロールし、戦闘行為を探知すると現場へ急行する。緊急時には近隣区域からの援軍を要請することも可能。危険度:極めて危険",
+    "ko": "아마타 함대의 경비함입니다. 지역을 순찰 중이며 교전 발견 시 즉각 개입합니다. 유사시 근처 지역에서 증원군을 요청합니다. 위험도: 극도로 위험",
+    "ru": "Это корабль сил безопасности Флота Ammatar. Он патрулирует этот сектор и открывает ответный огонь по недружественным объектам. В случае необходимости может вызвать подкрепление из ближайших секторов. Уровень опасности: предельно опасный",
+    "zh": "这是一艘艾玛达海军的安全船只。它在这个地区中巡逻，会对侦测到的任何战斗做出响应。如果形势需要，它会呼叫邻近区域的增援部队。威胁等级：极度危险"
+  },
+  "graphicID": 1740,
+  "groupID": 182,
+  "mass": 11500000.0,
   "name": {
     "de": "Ammatar Surveillance Sergeant",
     "en": "Ammatar Surveillance Sergeant",
@@ -10,5 +23,11 @@
     "ru": "Ammatar Surveillance Sergeant",
     "zh": "艾玛达监察 中士"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 91.59,
+  "sofFactionName": "ammatar",
+  "soundID": 30,
   "volume": 115000.0
 }

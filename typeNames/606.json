@@ -1,5 +1,73 @@
 {
-  "typeID": 606,
+  "capacity": 135.0,
+  "description": {
+    "de": "Die Velator-Corvette ist eine der älteren Schiffstypen in der Flotte der Gallente. Sie wurde zuerst als schneller Personentransporter auf den Markt gebracht. Als die neueren Versionen des Modells für kleinere Sicherheits- und Militäraufgaben verwendet wurden, baute man die zusätzlichen Passagierkabinen jedoch zu Waffenstationen um. Die Velator ist nach wie vor eine solide Fregatte für Handel und Bergbaueinsätze.",
+    "en": "The Velator class corvette is one of the older vessel types in the Gallente fleet. It was first deployed on the market as a fast passenger craft but the extra passenger quarters were later modified into weapon hardpoints as the newer models came to be used for small-scale security and military duties. The Velator is still a very solid mining and trading vessel.",
+    "es": "La corbeta de clase Velator es uno de los tipos de nave más antiguos de la flota gallente. Salió al mercado como nave de pasajeros rápida, pero las dependencias adicionales para pasajeros se convirtieron posteriormente en puntos de montaje de armas, ya que los modelos más nuevos se dedicaron a tareas militares y de seguridad a pequeña escala. La Velator sigue siendo una nave minera y comercial muy sólida.",
+    "fr": "La corvette de classe Velator est l'un des vaisseaux les plus anciens de la flotte gallente. Le Velator fut originellement vendu sur le marché comme transport rapide. Au cours des refontes successives, ses quartiers passagers furent transformés en points de fixation d'armement afin d'adapter la corvette aux missions militaires de surveillance à petite échelle. Le Velator demeure cependant un vaisseau de commerce et d’extraction efficace.",
+    "ja": "ベラター級コルベットはガレンテフリートの中でも最も古い部類に入る。元々は民間用の高速旅客機として使用されていたが、後に臨時旅客区画を兵装ハードポイントに改装した新型が作成され、小規模保安および軍事行動に使われるようになった。しかしベラターは今でも採掘船や交易船として定評が高い。",
+    "ko": "벨레이터급 코르벳은 갈란테 함대에서 가장 오래된 함선 중 하나입니다. 초기에는 고속 여객선으로 출시되었던 함선이지만, 점차 소규모 보안 및 군사 임무에 도입되며 기존의 객실은 무기 하드포인트를 위한 공간으로 개조되었습니다. 채굴선 및 무역선으로 믿음직스러운 함선입니다.",
+    "ru": "Корветы типа «Велатор» — одни из самых старых кораблей, состоящих на вооружении флота Галлентской Федерации. При выпуске в свободную продажу «велаторы» предназначались для скоростной перевозки пассажиров, однако со временем на месте кают появились дополнительные точки монтажа орудийных и пусковых установок — «Велатор» был признан в качестве малотоннажного боевого корабля. Несмотря на смену профессии, «Велатор» по-прежнему отлично подходит для перевозки грузов и добычи сырья.",
+    "zh": "维拉托尔号轻型护卫舰是盖伦特舰队中较古老的一种。它原本作为高速客运飞船出现在市场上，但由于其新型号开始被用于小规模的保安和军事行动中，其额外的客舱后来被改装为武器槽。维拉托尔号还是艘非常可靠的采矿和贸易飞船。"
+  },
+  "factionID": 500004,
+  "graphicID": 321,
+  "groupID": 237,
+  "marketGroupID": 1818,
+  "mass": 1148000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      101,
+      140,
+      67,
+      150,
+      89,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      101,
+      140,
+      67,
+      150,
+      89,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      101,
+      140,
+      67,
+      150,
+      89,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      101,
+      140,
+      67,
+      150,
+      89,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      101,
+      140,
+      67,
+      117,
+      150,
+      89,
+      94
+    ]
+  },
   "name": {
     "de": "Velator",
     "en": "Velator",
@@ -9,6 +77,76 @@
     "ko": "벨레이터",
     "ru": "Velator",
     "zh": "维拉托尔号"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 40.0,
+  "sofFactionName": "gallentebase",
+  "soundID": 20074,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonus": 10,
+        "bonusText": {
+          "de": "Bonus auf den Schaden von <a href=showinfo:3301>kleinen Hybridgeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:3301>Small Hybrid Turret</a> damage",
+          "es": "de bonificación al daño de la <a href=showinfo:3301>torreta híbrida pequeña</a>.",
+          "fr": "de bonus aux dégâts des <a href=showinfo:3301>petites tourelles hybrides</a>",
+          "ja": "<a href=showinfo:3301>小型ハイブリッドタレット</a>のダメージが増加",
+          "ko": "<a href=showinfo:3301>소형 하이브리드 터렛</a> 피해량 증가",
+          "ru": "увеличивается урон боеприпасов <a href=showinfo:3301>малых гибридных орудий</a>",
+          "zh": "<a href=\"showinfo:3301\">小型混合炮台</a>伤害加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 20,
+        "bonusText": {
+          "de": "Bonus auf die HP, den Schaden und die Erzausbeute von <a href=showinfo:3436>Drohnen</a>",
+          "en": "bonus to <a href=showinfo:3436>Drone</a> hitpoints, damage and mining yield",
+          "es": "de bonificación a los puntos de vida, el daño y el rendimiento minero de los <a href=showinfo:3436>drones</a>.",
+          "fr": "de bonus aux dégâts, aux PV et au rendement d'extraction des <a href=showinfo:3436>drones</a>",
+          "ja": "<a href=showinfo:3436>ドローン</a>のヒットポイント・ダメージ・採掘量が増加",
+          "ko": "<a href=showinfo:3436>드론</a> 내구도, 피해량, 채굴량 증가",
+          "ru": "увеличивается урон бортового оружия <a href=showinfo:3436>дронов</a> и производительность буровых дронов; увеличивается запас их прочности",
+          "zh": "<a href=\"showinfo:3436\">无人机</a>伤害、HP和采矿量加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 15,
+        "bonusText": {
+          "de": "Bonus auf die Effektivität von <a href=showinfo:3433>Sensorferndämpfern</a>",
+          "en": "bonus to <a href=showinfo:3433>Remote Sensor Dampener</a> effectiveness",
+          "es": "de bonificación a la efectividad del <a href=showinfo:3433>atenuador de sensor remoto</a>.",
+          "fr": "de bonus à l'efficacité des <a href=showinfo:3433>atténuateurs de détection à distance</a>",
+          "ja": "<a href=showinfo:3433>リモートセンサーダンプナー</a>の効果が増加",
+          "ko": "<a href=showinfo:3433>원격 센서 댐프너</a> 효과 증가",
+          "ru": "повышается эффективность действия <a href=showinfo:3433>модулей подавления захвата целей</a>",
+          "zh": "<a href=\"showinfo:3433\">远程感应抑阻器</a>效果加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonus": 15,
+        "bonusText": {
+          "de": "Bonus auf die Leistung von <a href=showinfo:3393>Panzerungsreparatursystemen</a>",
+          "en": "bonus to <a href=showinfo:3393>Armor Repairer</a> amount",
+          "es": "de bonificación a la eficiencia de los <a href=showinfo:3393>reparadores de blindaje</a>.",
+          "fr": "de bonus au montant des <a href=showinfo:3393>réparateurs de blindage</a>",
+          "ja": "<a href=showinfo:3393>アーマーリペアラ</a>のリペア量が増加",
+          "ko": "<a href=showinfo:3393>장갑수리 장치</a> 수리량 증가",
+          "ru": "повышается производительность <a href=showinfo:3393>установок ремонта брони</a>",
+          "zh": "<a href=\"showinfo:3393\">装甲维修器</a>维修量加成"
+        },
+        "importance": 4,
+        "unitID": 105
+      }
+    ]
   },
   "volume": 24500.0
 }

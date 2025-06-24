@@ -1,5 +1,17 @@
 {
-  "typeID": 32241,
+  "description": {
+    "de": "Dies ist eine Ansammlung von Laufwerken, von denen jedes einige Exabytes verschlüsselter Daten enthält. Irgendwo hier drin befinden sich wichtige Informationen über den Wildfire Khumaak.",
+    "en": "This is a cluster of drives, each of which contains several exabytes worth of encoded data. Somewhere in here is vital information on the Wildfire Khumaak.",
+    "es": "Esto es un cúmulo de motores, en el que cada uno contiene varios exabytes de datos codificados. Entre ellos tiene que haber información vital sobre Khumaak Fuego Salvaje.",
+    "fr": "Mécanismes contenant chacun plusieurs exaoctets de données cryptées. Quelque part là-dedans se trouvent des informations capitales sur le Khumaak ardent.",
+    "ja": "ドライブの集合で、それぞれに数エクサバイト相当のエンコードされたデータが格納されている。どこかにワイルドファイアクゥーマックに関する重要な情報が記録されている。",
+    "ko": "다중 저장장치에는 수십억 기가바이트에 달하는 데이터가 보관되어 있습니다. 이 안 어딘가에 와일드파이어 쿠마아크에 대한 정보가 담겨 있습니다.",
+    "ru": "Это кластер дисков, каждый из которых содержит несколько экзабайт зашифрованных данных. Где-нибудь среди них есть жизненно важная информация о Wildfire Khumaak.",
+    "zh": "这是一大堆驱动器的集群，每一个都有数亿兆字节的数据量。在这些数据中间就有野火库马克的关键信息。"
+  },
+  "groupID": 314,
+  "iconID": 1365,
+  "mass": 1.0,
   "name": {
     "de": "Drive Cluster EDF-285",
     "en": "Drive Cluster EDF-285",
@@ -10,5 +22,7 @@
     "ru": "Drive Cluster EDF-285",
     "zh": "驱动器集群 EDF-285"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

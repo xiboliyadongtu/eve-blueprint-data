@@ -1,5 +1,18 @@
 {
-  "typeID": 24771,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Ein kleiner Bunker zur Unterbringung des Aufsehers einer Gruppierung innerhalb von Sansha's Armee.",
+    "en": "A small bunker, there for accommodation for the overseer of a faction within Sansha's army.",
+    "es": "Un pequeño búnker que sirve como alojamiento para el vigilante de una facción del ejército sansha.",
+    "fr": "Petit bunker utilisé pour loger le surveillant d'une faction de l'armée sansha.",
+    "ja": "サンシャ軍内の勢力争いに目を光らせる監督者の住居でもある小型バンカー。",
+    "ko": "산샤 네이션 오버시어를 위한 소형 벙커입니다.",
+    "ru": "Маленький бункер, используемый для хранения товаров надсмотрщика армии Sansha",
+    "zh": "一座小型碉堡，是某支萨沙军队监察官的住处。"
+  },
+  "graphicID": 2488,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Overseer's Stash",
     "en": "Overseer's Stash",
@@ -10,5 +23,10 @@
     "ru": "Overseer's Stash",
     "zh": "监察官的匿藏处"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 753.0,
+  "sofFactionName": "sanshabase",
+  "soundID": 20902,
   "volume": 100000000.0
 }

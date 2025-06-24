@@ -1,5 +1,18 @@
 {
-  "typeID": 17875,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Diese Station der Angel wurde mit riesigen XL-Torpedobatterien und weitreichenden Stasisnetz-Generatoren nachgerüstet.",
+    "en": "This Angel Station has been refitted with huge XL torpedo batteries and a long range stasis web generators",
+    "es": "Esta estación de los Ángeles lleva equipadas enormes baterías de torpedos XL y generadores de redes ralentizadoras de largo alcance",
+    "fr": "Cette station angel a été équipée d'énormes batteries de torpilles XL et de générateurs de stase à longue portée.",
+    "ja": "このエンジェルのステーションは、巨大なXLトルピード砲列と長距離射程のステイシスウェブジェネレーターを新たに装備している。",
+    "ko": "XL 토피도 발사대와 장거리 스테이시스 웹 생성기로 무장된 엔젤 카르텔 정거장입니다.",
+    "ru": "Эта станция «ангелов» была оснащена огромными батареями торпед сверхбольшой мощности и генераторами стазис-сети широкого радиуса действия.",
+    "zh": "这座天使空间站已经过改装，装配了巨大的超大型鱼雷炮塔和远距离停滞光束发生器。"
+  },
+  "graphicID": 2357,
+  "groupID": 383,
+  "mass": 1000.0,
   "name": {
     "de": "Sentinel Angel",
     "en": "Sentinel Angel",
@@ -10,5 +23,11 @@
     "ru": "Sentinel Angel",
     "zh": "天使集团前哨站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 6185.0,
+  "sofFactionName": "angelbase",
+  "soundID": 20191,
   "volume": 1000.0
 }

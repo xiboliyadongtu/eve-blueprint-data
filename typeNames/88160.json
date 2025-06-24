@@ -1,5 +1,18 @@
 {
-  "typeID": 88160,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Von diesem Außenposten gehen alle Sicherheitsoperationen im Innenbereich des Komplexes in dieser Raumverwerfung aus. (Do not translate)",
+    "en": "This outpost is the base of security operations in this deadspace complex's inner perimeter.  (Do not translate)",
+    "es": "This outpost is the base of security operations in this deadspace complex's inner perimeter.  (Do not translate)",
+    "fr": "Cet avant-poste est le camp de base des opérations de sécurité dans le périmètre intérieur de ce complexe Deadspace. (Do not translate)",
+    "ja": "This outpost is the base of security operations in this deadspace complex's inner perimeter.  (Do not translate) ",
+    "ko": "This outpost is the base of security operations in this deadspace complex's inner perimeter.  (Do not translate)",
+    "ru": "Данный форпост является базой для проведения операций по обеспечению безопасности внутреннего периметра этого комплекса, расположенного в Мёртвой бездне. (Do not translate)",
+    "zh": "This outpost is the base of security operations in this deadspace complex's inner perimeter.(Do not translate)"
+  },
+  "graphicID": 1683,
+  "groupID": 1975,
+  "mass": 100000.0,
   "name": {
     "de": "Non-Interactable Security Outpost (Do not translate)",
     "en": "Non-Interactable Security Outpost (Do not translate)",
@@ -10,5 +23,11 @@
     "ru": "Non-Interactable Security Outpost (Do not translate)",
     "zh": "Non-Interactable Security Outpost (Do not translate)"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 60.0,
+  "sofFactionName": "genericbase",
+  "soundID": 20173,
   "volume": 100000000.0
 }

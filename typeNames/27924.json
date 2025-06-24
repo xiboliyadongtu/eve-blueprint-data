@@ -1,5 +1,21 @@
 {
-  "typeID": 27924,
+  "basePrice": 2500.0,
+  "description": {
+    "de": "Schießt nach der Detonation einen pulsierenden Strahl in alle Richtungen, der in allen Schiffen in der Umgebung einen Teil der vorhandenen Energie neutralisiert.",
+    "en": "Radiates an omnidirectional pulse upon detonation that neutralizes a portion of the energy in the surrounding vessels.",
+    "es": "Irradia un pulso omnidireccional tras la detonación que neutraliza parte de la energía de las naves circundantes.",
+    "fr": "Lors de la détonation, cette bombe émet une vibration omnidirectionelle qui neutralise une partie de l'énergie des vaisseaux situés à proximité.",
+    "ja": "爆発と同時に全方向に波動を放出し、周囲の船のエネルギーの一部を無力化する。",
+    "ko": "전방위 펄스를 방사하여 주변 함선의 캐패시터를 일정량 무력화시킵니다.",
+    "ru": "При взрыве излучает всенаправленный импульс, нейтрализующий часть энергии окружающих кораблей.",
+    "zh": "在爆炸同时会发出一个全向脉冲，中和周围舰船的一部分电容能量。"
+  },
+  "graphicID": 20039,
+  "groupID": 864,
+  "iconID": 3282,
+  "marketGroupID": 1015,
+  "mass": 1000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Void Bomb",
     "en": "Void Bomb",
@@ -10,5 +26,8 @@
     "ru": "Void Bomb",
     "zh": "涅槃炸弹"
   },
+  "portionSize": 20,
+  "published": true,
+  "radius": 300.0,
   "volume": 75.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 33407,
+  "basePrice": 36000000.0,
+  "description": {
+    "de": "Fortgeschrittenes Training für Kapselpiloten, die die Klontechnologie an ihre Grenzen bringen wollen. Ermöglicht 1 zusätzlichen Sprungklon je Skillstufe. Hinweis: Klone können nur in Stationen mit medizinischen Einrichtungen oder in Schiffen mit Klonanlagen erstellt werden. Erstellte Klone werden in der Charakterübersicht aufgelistet.",
+    "en": "Advanced training for those Capsuleers who want to push clone technology to its limits.\r\n\r\nAllows 1 additional jump clone per level.\r\n\r\nNote: Clones can only be installed in stations with medical facilities or in ships with clone vat bays. Installed clones are listed in the character sheet.",
+    "es": "Entrenamiento avanzado para los capsulistas que quieran exprimir al máximo la tecnología clon.\n\nPermite 1 clon de salto adicional por nivel.\n\nAviso: Los clones solo pueden instalarse en estaciones con centro médico o en naves con plataformas de contenedores de clonación. Los clones instalados se enumeran en la ficha del personaje.",
+    "fr": "Formation avancée pour les capsuliers qui veulent repousser les limites des technologies de clone. Autorise 1 clone interstellaire supplémentaire par niveau. Remarque : les clones peuvent être installés dans les stations dotées d'installations médicales ou dans les vaisseaux comportant des plateformes de clonage. La feuille de personnage indique les clones installés.",
+    "ja": "クローン技術をその限界まで高めたいカプセラのための高度なトレーニング。\n\nレベル上昇ごとにジャンプクローンを1体追加できる。\n\n注： クローンは、医療施設のあるステーションか、クローンバットベイを備えた船でなければ設置できない。設置されたクローンはキャラクター詳細に記載される。",
+    "ko": "클론 기술 운용을 극한으로 끌어올리기 위한 스킬입니다. <br><br>매 레벨마다 점프 클론 1개 증가 <br><br>참고: 클론은 의료시설이 있는 정거장이나 점프 클론 격납고가 탑재된 함선에서만 배치할 수 있습니다. 배치된 클론은 캐릭터 정보창에서 확인할 수 있습니다.",
+    "ru": "Освоение этого навыка рекомендовано капсулёрам, стремящимся выжать максимум из технологии клонирования.\n\n\n\nС каждой освоенной степенью этого навыка появляется возможность хранить ещё одного джамп-клона\n\n\n\nПримечание: Клоны можно размещать только на станциях с медотсеками или на кораблях с отсеками клонирования. Со списком установленных клонов можно ознакомиться, открыв окно «Личное дело пилота».",
+    "zh": "帮助克隆飞行员将其克隆技术发挥到极致的高级技能。\n\n每升一级，远距克隆体数量增加1。\n\n注意：克隆体只能安置在有医疗设施的空间站内或者是有克隆舱的舰船内。已安置的克隆会在人物表单中列出。"
+  },
+  "groupID": 1220,
+  "iconID": 33,
+  "marketGroupID": 1746,
   "name": {
     "de": "Advanced Infomorph Psychology",
     "en": "Advanced Infomorph Psychology",
@@ -10,5 +23,8 @@
     "ru": "Спецкурс психологии инфоморфов",
     "zh": "高级坚韧心理学"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

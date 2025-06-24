@@ -1,5 +1,18 @@
 {
-  "typeID": 27658,
+  "basePrice": 4000000000.0,
+  "capacity": 7500000.0,
+  "description": {
+    "de": "Die Träger-Uprade-Plattform ist das zweite  Level von verfügbaren Upgrade-Plattformen für Außenposten tief im All. Sie erlaubt die Installation von einer Rang 1 und einer Rang 2 Außenposten-Verbesserung.\r\n\r\nHinweis: Das Fundament-Außenposten-Upgrade ist Voraussetzungen für die Installation des Träger-Upgrades.",
+    "en": "The Pedestal upgrade platform is the second level of available upgrade platforms for deep-space outposts. It allows for the installation of 1 Tier 1 improvement and 1 Tier 2 improvement.\r\n\r\nNote: A Foundation outpost upgrade is a prerequisite for the installation of the Pedestal upgrade.",
+    "es": "La plataforma de mejora Pedestal es el segundo nivel de las plataformas de mejora disponibles para los puestos avanzados del espacio profundo. Permite la instalación de una mejora de nivel 1 y una mejora de nivel 2.\n\nAviso: La mejora de puesto avanzado Fundación es un requisito para la instalación de la mejora Pedestal.",
+    "fr": "La plateforme d'amélioration Piédestal est le deuxième niveau de plateformes d'amélioration disponibles pour les avant-postes de l'espace profond. Permet l'installation de deux améliorations pour avant-poste (une de 1er rang et une autre de 2e rang).\n\nRemarque : pour installer une plateforme d'amélioration Piédestal, vous devez déjà avoir installé une amélioration pour avant-poste Fondation.",
+    "ja": "ペデスタルのアップグレードプラットフォームは、ディープスペースアウトポスト用の利用可能なレベル2の強化プラットフォーム。第1類の改良を1回、第2類の改良を1回インストールすることができる。\n\n\n\n注：アウトポストのアップグレードをインストールするには、ファンデーションのアップグレードが必要。",
+    "ko": "심우주 전초기지 플랫폼의 2단계 업그레이드입니다. 1티어 2티어 추가 구성물을 각각 1개씩 설치할 수 있습니다. <br><br>참고: 지지대 업그레이드를 위해서 기반 업그레이드가 선행되어야 합니다.",
+    "ru": "Платформы для модуля расширения станции Pedestal представляют собой второй уровень модернизации аванпостов в глубоком космосе. Эта платформа позволяет осуществить установку 1 модуля расширения станции класса Tier 1 и 1 модуля расширения станции класса Tier 2.\n\nПримечание: для установки платформы Pedestal необходимо сначала установить платформу Foundation.",
+    "zh": "下层升级平台是深空空间站所使用的第二层可用升级平台。它允许安装1个1级加强平台和1个2级加强平台。 注：在安装下层升级平台前必须先安装基础升级平台。"
+  },
+  "graphicID": 3304,
+  "groupID": 835,
   "name": {
     "de": "Pedestal Upgrade Platform",
     "en": "Pedestal Upgrade Platform",
@@ -10,5 +23,9 @@
     "ru": "Pedestal Upgrade Platform",
     "zh": "下层升级平台"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 579.0,
+  "sofFactionName": "amarrbase",
   "volume": 750000.0
 }

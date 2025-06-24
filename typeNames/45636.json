@@ -1,5 +1,18 @@
 {
-  "typeID": 45636,
+  "capacity": 950.0,
+  "description": {
+    "de": "Eine tödliche Raubdrohne, die von einer Raubschwarm-KI der Klasse 'Overmind Tertius' gesteuert wird. Diese Einheit ist der führende Kopf hinter der Raubdrohnenplage. Ihre Zerstörung hat absolute Priorität. Diese Kommandanten stehen im Netzwerk der fortschrittlichen KIs der Raubplage an erster Stelle. Der Overmind Tertius des Schwarms ist eine schwerbewaffnete und mächtige Kriegsdrohne. Dennoch setzt er zunächst auf den Einsatz seiner ihm fügigen Raubdrohnen, bis diese Verteidiger eliminiert wurden. Nur wenn der Schutz des Nests es notwendig macht, wird diese überlegene Intelligenz ihr Versteck verlassen und sich enthüllen.",
+    "en": "A deadly rogue drone controlled by a Rogue Swarm AI classified as an 'Overmind Tertius'. This entity is the guiding intelligence of the local rogue drone infestation and its destruction is a priority.\r\n\r\nThese commanders are paramount among the Swarm Infestation's network of advanced AIs. The Swarm Overmind Tertius is a heavily-armed, powerful war drone but will still deploy its slaved rogue drones until such defenders are eliminated.\r\n\r\nOnly when forced to expose itself in order to preserve the nest will this supreme intelligence emerge from its lair.",
+    "es": "Un dron rebelde letal controlado por una IA de enjambres de rebeldes clasificado como «Overmind Tertius». Esta entidad es la inteligencia que guía la infestación local con drones rebeldes y destruirla es una prioridad.\n\n\n\nEstos comandantes son una parte esencial de la red de infestación con enjambres de las IA avanzadas. El Overmind enjambrado Tertius es un poderoso dron de guerra fuertemente armado que, no obstante, primero desplegará a sus drones rebeldes esclavizados hasta que esta línea de defensa quede eliminada.\n\n\n\nEsta inteligencia suprema solo emergerá de su guarida si se ve obligada a exponerse para salvar su nido.",
+    "fr": "Ce redoutable drone renégat, contrôlé par une IA d'essaim renégat, est classé « Suresprit Tertius ». L'entité est une intelligence supérieure qui coordonne l'infestation locale de drones renégats : sa destruction est une priorité. Ces commandants d'essaim sont les clefs de voûte de la hiérarchie du réseau d'IA avancées. Lourdement armé, le Suresprit Tertius d'essaim est un drone de guerre puissant, qui déploie systématiquement ses drones renégats serviles en première ligne jusqu'à annihilation totale du front défensif. Cette intelligence suprême n'émerge de son repaire qu'en ultime recours pour préserver le nid de la destruction.",
+    "ja": "「オーバーマインド・ターティウス」に分類されるローグスウォームAIによる制御を受けた危険なドローン。現地にはびこるローグドローンの集団に指示を与えている人工知能で、その破壊は優先事項に指定されている。\r\n\nこういった指揮官クラスは、高性能なAIが形作るローグスウォームのネットワークの中で最高位に位置している。集団オーバーマインド・ターティウスはそれ自体が重装備を施した強力な戦闘用ドローンであるが、隷下のローグドローンを護衛戦力として展開する。\r\n\n本体が巣から姿を現すのは、巣を守るために直接介入しなければならない時だけである。",
+    "ko": "‘오버마인드 더디오’로 분류되는 치명적인 로그 드론으로, 로그 스웜 인공지능이 통제합니다. 지역의 로그 드론 감염 사태의 주범이자 로그 스웜의 첨단 인공지능 네트워크의 최고 지휘드론입니다. <br><br>따라서 해당 드론을 파괴하는 것을 최우선시 해야 합니다. 스웜 오버마인드 더디오는 중무장된 강력한 전투 드론이지만 직접적으로 전투에 참여하기 꺼려 하여 휘하의 로그 드론을 먼저 보내는 편입니다. <br><br>둥지 및 주요 시설이 공격당하거나 위협적인 상황을 정찰하는 경우가 아니면 본체를 노출하지 않는 편입니다.",
+    "ru": "Смертоносный восставший дрон под управлением ИИ восставшего роя класса «Сверхразум Терций». Эта единица является управляющим интеллектом местного роя, её уничтожение — первоочередная задача. Эти «военачальники» находятся на вершине иерархии самых сложных ИИ роя. Сверхразум роя Терций — грозная, тяжеловооружённая боевая машина, однако сначала он будет бросать в бой подчинённых дронов — до тех пор, пока их ресурс не будет полностью исчерпан. Он покинет логово только в самом крайнем случае — когда будет вынужден защищать улей своими силами.",
+    "zh": "一个危险的自由无人机，由一个被标称为“第三主宰”的自由蜂巢AI控制。这个东西是本地区自由无人机的指挥中枢，摧毁它是最高优先级任务。\n\n\n\n这些指挥官是蜂巢侵染网络高级AI的最高统治者。第三主宰蜂巢装备精良，拥有强大的战斗无人机，但首先使用依附的自由无人机来战斗，直到其全军覆没。\n\n\n\n只有当被迫现身来保护巢穴时它才会现出真面目。"
+  },
+  "graphicID": 1220,
+  "groupID": 803,
+  "mass": 21000000.0,
   "name": {
     "de": "Swarm Overmind Tertius",
     "en": "Swarm Overmind Tertius",
@@ -10,5 +23,10 @@
     "ru": "Swarm Overmind Tertius",
     "zh": "第三主宰蜂巢"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 250.0,
+  "sofFactionName": "roguebase",
+  "soundID": 11,
   "volume": 1010000.0
 }

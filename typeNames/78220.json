@@ -1,5 +1,17 @@
 {
-  "typeID": 78220,
+  "description": {
+    "de": "Diese fragmentarischen Daten wurden aus einem Kommunikationsspeicher-Puffer des Angel Cartel geborgen, einem Gerät, das typischerweise verwendet wird, um Daten über gesicherte Flüssigrouternetzwerke von und zu einem Raumschiff sowie entfernten Standorten zu übertragen. Die Daten sind unvollständig und teilweise beschädigt, aber mit dem <b>rechten</b> Ansatz sollte es möglich sein, den Datenstrom zu dekodieren und ein kohärentes Bild aus den intakten Daten zusammenzusetzen. Es kann nicht schaden, es zu versuchen und zu schauen, ob es <b>Klick</b> macht.",
+    "en": "This fragmentary data has been recovered from an Angel Cartel communications storage buffer, a device typically used to hold data relayed to and from a spaceship and remote locations via secured fluid router networks.\r\n\r\nAlthough partial and somewhat corrupted, with the <b>right</b> approach it should be possible to decode the data stream and assemble something coherent from the intact data. It wouldn't hurt to give it a try and see if something <b>clicks</b>.",
+    "es": "Estos datos parciales se han recuperado de un búfer de almacenamiento de comunicaciones del Cártel de los Ángeles. Normalmente se usan para almacenar datos que se han transmitido entre una nave espacial y ubicaciones remotas mediante redes de router fluido aseguradas.\r\n\r\nAunque está fragmentada y parcialmente corrupta, con el enfoque <b>adecuado</b> debería de ser posible descifrar la transmisión y sacar algo en claro de los datos intactos. No estaría de más intentarlo y ver si <b>funciona</b>.",
+    "fr": "Ces données fragmentaires ont été récupérées dans une mémoire tampon de communication du cartel Angel, un dispositif généralement utilisé pour conserver les données relayées vers et depuis un vaisseau et des sites distants via des réseaux de routeurs de fluides sécurisés. Même s'il n'est que partiel et en partie corrompu, avec la <b>bonne</b> approche, il devrait être possible de décoder le flux de données pour produire un assemblage cohérent à partir des données intactes. Ça ne coûte rien d'essayer et de voir si cela donne <b>quelque chose d'intéressant</b>.",
+    "ja": "この断片的なデータは、エンジェルカルテルの通信ストレージバッファから回収されたものだ。通信ストレージバッファは一般的に、安全なフルイドルーター・ネットワークを経由して宇宙船や遠隔地と送受信するデータを保持しておくために使われているデバイスである。\r\n\r\nデータの一部はやや破損しているが、<b>正しい</b>方法で対処すれば、残存データを解読してデータストリームを復号化して読み取り可能なデータとして再構築できるかもしれない。何か<b>役に立つ</b>ものが見つかるか試してみて損はないだろう。",
+    "ko": "엔젤 카르텔의 통신기록 저장장치에서 얻어낸 데이터 조각입니다. 원래는 유동 라우터 네트워크를 통해 특정한 함선이나 장소에 전송할 목적으로 보관되어 있었습니다.<br><br>불완전하고 일부 손상되어 있지만 <b>적절한</b> 방법만 동원한다면 남은 정보를 해석하여 데이터 스트림에 접근할 수 있을지도 모릅니다. 손해 볼 건 없으니 해석을 시도해보는 것이 좋겠습니다.",
+    "ru": "Эти фрагменты данных были получены из буфера сообщений картеля «ангелов». Такие устройства, как правило, используются для хранения и передачи данных между космическим кораблём и отдалёнными системами по квантовой сети. Хотя часть данных повреждена или вовсе отсутствует, при <b>прав</b>ильном подходе поток данных можно расшифровать, чтобы получить кое-какую ценную информацию. Почему бы не попытаться? Вдруг в голове что-то <b>щёлкнет</b>, и вы вдруг поймёте нечто важное?",
+    "zh": "这些数据片断是从天使通信存储缓冲器中复原出来的，此设备通常用于存储通过安全高效路由器网络在舰船和远程地点之间进行传输的数据。尽管数据不完整而且已部分损坏，但使用<b>合适</b>的方式可以解码数据流并拼凑出一些完整的数据。值得一试，也许会有什么<b>发现</b>呢。"
+  },
+  "groupID": 314,
+  "iconID": 2335,
+  "mass": 1.0,
   "name": {
     "de": "Angel Cartel Data Fragment",
     "en": "Angel Cartel Data Fragment",
@@ -10,5 +22,7 @@
     "ru": "Angel Cartel Data Fragment",
     "zh": "天使数据片段"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.1
 }

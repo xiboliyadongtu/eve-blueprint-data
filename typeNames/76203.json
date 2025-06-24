@@ -1,5 +1,19 @@
 {
-  "typeID": 76203,
+  "basePrice": 4000000.0,
+  "description": {
+    "de": "Dieser Datenkern enthält einen rekonstruierten Teil der gesammelten Forschungs- und technischen Daten, die von jenen Imperien gesammelt wurden, die ein umfassendes Verständnis von Bau und Kontrolle von Sternenwandlern besitzen. Der spezifische Energiebedarf der interstellaren Schiffswerfer erfordert Ressourcen, die in Sternenwandlern enthalten sind, um ein solches Gerät funktionsfähig zu machen.",
+    "en": "This datacore contains a reconstructed portion of the accumulated research and technical data gathered by those empires with a comprehensive understanding of the means to construct and control Stellar Transmuters. The specific energy needs of Interstellar Shipcasters are such that the resources available from Stellar Transmuters are required to make such a device operational.",
+    "es": "Este núcleo de datos contiene una parte reconstruida de la investigación y los datos técnicos obtenidos por esos imperios con una comprensión exhaustiva de los medios para construir y controlar los transmutadores estelares. Las necesidades energéticas específicas de los lanzadores interestelares son tales que los recursos disponibles de los transmutadores estelares son necesarios para que dicho dispositivo funcione.",
+    "fr": "Cette banque de données contient la reconstitution d'une partie des recherches et des données techniques accumulées par les empires possédant une compréhension globale des moyens de construction et de contrôle des transmutateurs stellaires. Les besoins énergétiques spécifiques des lance-vaisseaux interstellaires sont tels que pour rendre un tel dispositif opérationnel, les ressources rendues disponibles par les transmutateurs stellaires sont essentielles.",
+    "ja": "このデータコアには、恒星トランスミューターの建造・制御手段に関する包括的な理解を有した大国が蓄積してきた、研究・技術データの復元された一部が記録されています。惑星間艦艇キャスターの稼働に必要なエネルギーを用意するには、恒星トランスミューターから得られるリソースが必要となります。",
+    "ko": "성간 함선전송기 건설에 반드시 필요한 태양광 트랜스뮤터 기술의 핵심이 담긴 데이터코어입니다. 태양광 트랜스뮤터 기술을 완벽히 습득한 국가가 그동안 연구한 데이터를 수록했습니다. 성간 함선전송기를 운용하려면 태양광 트랜스뮤터 기술을 반드시 습득해야 합니다.",
+    "ru": "Этот инфоблок содержит часть восстановленных научных и технических данных, собранных державами, и позволяет получить важную информацию о принципах создания и эксплуатации звёздных передатчиков. Межзвёздные кораблепускатели потребляют энергию особого рода, поэтому для их работы требуются ресурсы, добываемые звёздными передатчиками.",
+    "zh": "该数据核心拥有已重建的部分研究与技术累积数据，这些数据由全面掌握星际突变器的建造与控制方法的帝国所收集。星际舰船弹射台必须使用星际突变器提供的资源作为特殊能量，才能维持运行。"
+  },
+  "groupID": 314,
+  "iconID": 3233,
+  "marketGroupID": 1661,
+  "mass": 0.75,
   "name": {
     "de": "Stellar Transmuter Datacore",
     "en": "Stellar Transmuter Datacore",
@@ -10,5 +24,7 @@
     "ru": "Stellar Transmuter Datacore",
     "zh": "星际突变器数据核心"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

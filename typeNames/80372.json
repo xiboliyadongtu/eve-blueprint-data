@@ -1,5 +1,17 @@
 {
-  "typeID": 80372,
+  "description": {
+    "de": "Eine Spalte, die zu Zonen der Raumverwerfung des Abgrunds führt, die von Kapselpiloten nicht durchquert werden können. Es ist unmöglich, hindurchzureisen, aber ein Traktorstrahl, der auf diese Spalte zielt, könnte interessante Gegenstände von der anderen Seite bergen.",
+    "en": "A rift that leads to Abyssal Deadspace zones untraversable by capsuleers. \r\n\r\nIt is impossible to travel through, but a tractor beam targeting this rift might dredge up items of interest from the other side.",
+    "es": "Una grieta que conduce a zonas del espacio muerto abisal que los capsulistas no pueden atravesar. \r\n\r\nEs imposible atravesarla, pero un rayo tractor dirigido a esta grieta podría sacar a la luz objetos de interés del otro lado.",
+    "fr": "Une faille menant à des zones de l'abîme Deadspace, impossible à franchir par les capsuliers. En revanche, un rayon de tractage ciblant cette faille pourrait remonter des objets intéressants depuis l'autre côté.",
+    "ja": "カプセラが通過できないアビサルデッドスペースへと続くリフト。 \r\n\r\n通り抜けることはできないが、トラクタービームをリフトに向ければ向こう側から価値あるアイテムを回収できる可能性がある。",
+    "ko": "캡슐리어가 통과할 수 없는 어비설 데드스페이스로 이어지는 균열입니다.<BR><BR>진입할 수는 없지만, 트랙터 빔으로 유용한 아이템을 인양할 수 있을지도 모릅니다.",
+    "ru": "Разлом, ведущий в участки Мёртвой бездны, недоступные для капсулёров. Но если вы наведёте на разлом гравизахват, возможно, вам удастся выловить из него какие-нибудь ценные предметы.",
+    "zh": "一道通往深渊空间的裂隙，克隆飞行员无法穿越。目前无人能穿越，但可以利用锁定此裂隙的牵引光束从背面挖些有价值的抢手货。"
+  },
+  "graphicID": 24422,
+  "groupID": 4719,
+  "mass": 1.0,
   "name": {
     "de": "Deepflow Rift",
     "en": "Deepflow Rift",
@@ -10,5 +22,7 @@
     "ru": "Deepflow Rift",
     "zh": "深流裂隙"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 1274.0
 }

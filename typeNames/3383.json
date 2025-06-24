@@ -1,5 +1,17 @@
 {
-  "typeID": 3383,
+  "basePrice": 100000.0,
+  "description": {
+    "de": "Bonus: Gewährt eine 5% Reduktion in der Produktionszeit von Ausrüstungsteilen der Gallente.",
+    "en": "Grants +5% reduction in Gallente equipment production time.",
+    "es": "Otorga un +5 % de reducción del tiempo de producción de equipo gallente.",
+    "fr": "Réduit de 5 % le temps de production des équipements gallente.",
+    "ja": "ガレンテの装備の製造時間が 5% 短縮される。",
+    "ko": "갈란테 장비 생산 시간 5% 감소",
+    "ru": "На 5% сокращает срок проектов по производству галлентского оборудования.",
+    "zh": "盖伦特装备的制造时间缩短5%。"
+  },
+  "groupID": 268,
+  "iconID": 33,
   "name": {
     "de": "Gallente Tech",
     "en": "Gallente Tech",
@@ -10,5 +22,7 @@
     "ru": "Галлентская система конструкторской документации",
     "zh": "盖伦特科技"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

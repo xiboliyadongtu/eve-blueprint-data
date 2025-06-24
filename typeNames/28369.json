@@ -1,5 +1,18 @@
 {
-  "typeID": 28369,
+  "description": {
+    "de": "Hat einen verbesserten Laserstrahl, was den Extraktionsprozess umso effizienter macht. Der Laser ist einsetzbar für die Extraktion aller Erze, mit Ausnahme der aller seltensten.",
+    "en": "Has an improved technology beam, making the extraction process more efficient. Useful for extracting all but the rarest ore.",
+    "es": "Tiene un rayo de tecnología mejorada que asegura un proceso de extracción más eficiente. Resulta útil para extraer prácticamente todas las menas, menos las menos comunes.",
+    "fr": "Dispose d'un rayon d'une technologie avancée qui rend l'extraction plus efficace. Permet l'extraction de n'importe quel minerai, à l'exception des plus rares.",
+    "ja": "高い技術が駆使されたビームを持ち、効率的な採掘作業が可能。極めて希少な鉱石の採掘でない限り、非常に効果的。",
+    "ko": "향상된 빔으로 채굴에 더욱 효율적입니다. 희귀한 종류의 광석을 제외한 모든 광석 채취에 사용됩니다.",
+    "ru": "Усовершенствованная модель экстрактора, обеспечивающая более эффективную добычу руды. Пригодна для добычи практически всех видов руды, кроме самых редких.",
+    "zh": "拥有经过技术改良的激光，使采矿更有效率。适合开采除最稀有矿石外的所有矿石。"
+  },
+  "graphicID": 11146,
+  "groupID": 54,
+  "iconID": 1061,
+  "metaGroupID": 2,
   "name": {
     "de": "Miner II (China)",
     "en": "Miner II (China)",
@@ -10,5 +23,9 @@
     "ru": "Miner II (China)",
     "zh": "采矿器 II(中国)"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 25.0,
+  "sofFactionName": "orebase",
   "volume": 5.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 41484,
+  "description": {
+    "de": "Vergrößert die Kapazität des Energiespeichers. Bietet Schutz gegen Energieabsaug- und Energieneutralisierungs-Effekte.\n\nHinweis: Kann nur in Schiffe der Capital-Klasse eingebaut werden.",
+    "en": "Increases capacitor storage. Provides defense against Energy Leech and Energy Neutralizer effects.\n\nNote: May only be fitted to capital class ships.",
+    "es": "Aumenta la capacidad de almacenamiento del condensador. Protege contra los efectos de la absorción energética y los neutralizadores energéticos.\n\nAviso: Solo se puede equipar en naves capitales.",
+    "fr": "Augmente la charge énergétique du capaciteur. Mesure défensive contre le détournement énergétique des nosferatu et des neutraliseurs.\n\nRemarque : réservé aux vaisseaux de classe capital.",
+    "ja": "キャパシタ容量が増加。エネルギーリーチおよびエネルギーニュートライザーの効果から身を守ることができる。\n\n注意: 主力艦のみ装備可能。",
+    "ko": "캐패시터 용량이 증가합니다. 에너지 흡수 및 에너지 뉴트럴라이저의 효과가 감소합니다. <br><br>참고: 캐피탈급 함선에만 장착이 가능합니다.",
+    "ru": "Увеличивает ёмкость накопителя энергии. Обеспечивает более полную защиту против эффектов выкачивания и нейтрализации энергии.\n\nВнимание! Этим модулем могут оснащаться исключительно корабли большого тоннажа.",
+    "zh": "增加电容器储量。有效抵抗能量吸取和能量中和效果。\n\n注：只能装配在旗舰级舰船上。"
+  },
+  "groupID": 61,
+  "iconID": 89,
+  "marketGroupID": 2242,
+  "metaGroupID": 1,
   "name": {
     "de": "Capital Cap Battery I",
     "en": "Capital Cap Battery I",
@@ -10,5 +23,8 @@
     "ru": "Capital Cap Battery I",
     "zh": "旗舰级电容器电池 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 500.0,
   "volume": 4000.0
 }

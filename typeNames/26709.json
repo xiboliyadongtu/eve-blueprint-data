@@ -1,5 +1,18 @@
 {
-  "typeID": 26709,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Eine geheime Anlage der Angel. Ihr genauer Zweck ist nicht bekannt.",
+    "en": "A secret Angel facility.  Its purpose is unknown.",
+    "es": "Instalación secreta de los Ángeles. Se desconoce su finalidad.",
+    "fr": "Installation secrète angel  à l'activité inconnue.",
+    "ja": "エンジェルの秘密の施設。用途は不明。",
+    "ko": "엔젤 비밀 시설입니다. 용도를 알 수 없습니다.",
+    "ru": "Тайная станция Angel. Ее назначение неизвестно.",
+    "zh": "一座天使秘密设施，它的用途目前还不是很清楚。"
+  },
+  "graphicID": 2366,
+  "groupID": 383,
+  "mass": 100000.0,
   "name": {
     "de": "Secret Angel Facility",
     "en": "Secret Angel Facility",
@@ -10,5 +23,11 @@
     "ru": "Secret Angel Facility",
     "zh": "天使集团秘密设施"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 1672.0,
+  "sofFactionName": "genericindustrial",
+  "soundID": 20202,
   "volume": 100000000.0
 }

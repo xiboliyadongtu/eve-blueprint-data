@@ -1,5 +1,7 @@
 {
-  "typeID": 87294,
+  "graphicID": 1217,
+  "groupID": 920,
+  "mass": 1.0,
   "name": {
     "de": "Drifter Crisis",
     "en": "Drifter Crisis",
@@ -9,6 +11,80 @@
     "ko": "드리프터 침공",
     "ru": "Drifter Crisis",
     "zh": "流浪者危机"
+  },
+  "portionSize": 250,
+  "published": true,
+  "sofFactionName": "genericbase",
+  "traits": {
+    "iconID": 21404,
+    "miscBonuses": [
+      {
+        "bonus": 15.0,
+        "bonusText": {
+          "de": "Abzug auf alle Schildresistenzen",
+          "en": "penalty to shield resistances",
+          "es": "de penalización a las resistencias de escudo.",
+          "fr": "de pénalité aux résistances du bouclier",
+          "ja": "シールドレジスタンスにペナルティ",
+          "ko": "실드 저항력 페널티",
+          "ru": "штраф к сопротивляемости щитов",
+          "zh": "护盾抗性惩罚"
+        },
+        "importance": 3,
+        "isPositive": false,
+        "unitID": 105
+      },
+      {
+        "bonus": 20.0,
+        "bonusText": {
+          "de": "Bonus auf die Maximalgeschwindigkeit",
+          "en": "bonus to max velocity",
+          "es": "de bonificación a la velocidad máxima.",
+          "fr": "de bonus à la vitesse maximale",
+          "ja": "最高速度が上昇",
+          "ko": "최대속도 증가",
+          "ru": "повышается максимальная скорость корабля",
+          "zh": "最大速度加成"
+        },
+        "importance": 2,
+        "isPositive": true,
+        "unitID": 105
+      },
+      {
+        "bonus": 30.0,
+        "bonusText": {
+          "de": "Bonus auf die Warpgeschwindigkeit",
+          "en": "bonus to warp speed",
+          "es": "de bonificación a la velocidad de warp.",
+          "fr": "bonus to warp speed",
+          "ja": "ワープ速度が上昇",
+          "ko": "워프 속도 증가",
+          "ru": "бонус к скорости хода в варп-режиме",
+          "zh": "跃迁速度加成"
+        },
+        "importance": 1,
+        "isPositive": true,
+        "unitID": 105
+      },
+      {
+        "bonus": 30.0,
+        "bonusText": {
+          "de": "Abzug auf den Schaden und die Geschwindigkeit von Drohnen",
+          "en": "penalty to drone damage and speed",
+          "es": "de penalización al daño y la velocidad del dron.",
+          "fr": "de pénalité aux dégâts et à la vitesse des drones",
+          "ja": "ドローンのダメージと速度にペナルティ",
+          "ko": "드론 피해량 및 속도 페널티",
+          "ru": "штраф к скорости и урону от дронов",
+          "zh": "无人机伤害和速度惩罚"
+        },
+        "importance": 4,
+        "isPositive": false,
+        "unitID": 105
+      }
+    ],
+    "roleBonuses": [],
+    "types": {}
   },
   "volume": 20.0
 }

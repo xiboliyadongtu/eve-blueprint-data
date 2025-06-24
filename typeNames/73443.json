@@ -1,5 +1,17 @@
 {
-  "typeID": 73443,
+  "description": {
+    "de": "Dieses Objekt registriert die Präsenz von Schiffen innerhalb von 30 km.",
+    "en": "This object registers the presence of ships within 30km",
+    "es": "Este objeto registra la presencia de naves a menos de 30 km.",
+    "fr": "Cet objet enregistre la présence de vaisseaux dans un rayon de 30 km.",
+    "ja": "30Km以内に存在する艦船が登録されるオブジェクト。",
+    "ko": "이 구조물은 30km 내에 함선을 감지합니다.",
+    "ru": "Этот объект распознаёт присутствие кораблей в радиусе 30 км",
+    "zh": "这个装置记录距离其30千米范围内出现的船只。"
+  },
+  "graphicID": 25694,
+  "groupID": 4494,
+  "mass": 1000000.0,
   "name": {
     "de": "Amarr Control Zone A",
     "en": "Amarr Control Zone A",
@@ -10,5 +22,9 @@
     "ru": "Amarr Control Zone A",
     "zh": "艾玛控制区 A"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 231.0,
+  "sofFactionName": "amarrnavy",
   "volume": 1.0
 }

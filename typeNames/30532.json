@@ -1,5 +1,18 @@
 {
-  "typeID": 30532,
+  "basePrice": 5000000.0,
+  "description": {
+    "de": "Skill in Verbindung mit amarrianischen Verteidigungs-Subsystemen für Tech-III-Schiffe.",
+    "en": "Skill in the operation of Amarr Defensive Subsystems used on Tech III ships.",
+    "es": "Habilidad en la operación de subsistemas defensivos amarrianos usados en naves T3.",
+    "fr": "Compétence liée à l'utilisation des sous-systèmes défensifs amarr sur les vaisseaux Tech III.",
+    "ja": "Tech 3艦船で使用するアマーの防衛サブシステムを操作するスキル。",
+    "ko": "테크 III 함선에 사용되는 아마르 방어용 서브시스템 운용을 위한 스킬입니다.",
+    "ru": "Освоив первую степень этого навыка, пилот сможет пользоваться амаррскими оборонительными подсистемами для кораблей третьей техкатегории.",
+    "zh": "这是用来操纵三级科技舰船上艾玛防御子系统的技能。"
+  },
+  "groupID": 1240,
+  "iconID": 33,
+  "marketGroupID": 1824,
   "name": {
     "de": "Amarr Defensive Systems",
     "en": "Amarr Defensive Systems",
@@ -10,5 +23,8 @@
     "ru": "Амаррские оборонительные подсистемы",
     "zh": "艾玛防御子系统"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

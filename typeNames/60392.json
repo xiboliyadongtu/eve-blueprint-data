@@ -1,5 +1,18 @@
 {
-  "typeID": 60392,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Sichere Capital-Konstruktionsschmieden werden von AEGIS sowohl für neue Schiffskonstruktionen als auch für das Nachrüsten älterer Capital-Schiffe mit Anti-Subversionssystemen betrieben. Auch wenn die wertvollen Schmiedewerkzeuge und Capital-Konstruktionsgegenstände nicht hier gelagert werden, könnte das Hacken einer solchen Anlage Informationen hervorbringen, die Ihnen Zugang zum Lager beschaffen.",
+    "en": "Secure Capital Construction Forges are operated by AEGIS for both new ship construction and retrofitting of older capital ships with counter-subversion systems.\r\n\r\nWhile the valuable forging tools and capital construction items are not stored here, hacking into such a facility could provide information that gives access to the storage area.",
+    "es": "Las forjas de construcción de naves capitales seguras están operadas por AEGIS tanto para la construcción de naves nuevas como para la renovación de naves capitales antiguas con sistemas de contrasubversión.\n\n\n\nAunque las valiosas herramientas de forja y los objetos de construcción de naves capitales no se almacenan aquí, hackear una instalación así podría proporcionar información que dé acceso a la zona de almacenamiento.",
+    "fr": "Les forges de construction capitales sécurisées d'AEGIS sont exploitées par AEGIS aussi bien pour la construction de nouveaux vaisseaux que pour le rééquipement de vaisseaux capitaux plus anciens avec des systèmes anti-subversion. Bien que les coûteux outils de forge et les objets de construction capitales ne soient pas stockés ici, le piratage d'une telle installation pourrait fournir des informations trahissant la sécurité de la zone de stockage.",
+    "ja": "重警備キャピタル建造・鍛造所はイージスによって運営されており、その目的は新しい艦船の建造と、破壊活動を防ぐためのシステムを旧式主力艦に取り付け改修することにある。\n\n\n\n貴重な鍛造用ツールやキャピタル建造に必要な物資がここに貯蔵されているわけではないが、こういった施設にハッキングすれば、貯蔵エリアへと繋がる情報が手に入るだろう。",
+    "ko": "AEGIS에서 운영하는 캐피탈급 제철소로 구형 캐피탈 함선에 교란 대응 시스템을 장착하거나 함선을 제작하기 위해 사용됩니다.<br><br>비록 핵심 제작 시설이나 캐피탈급 부품이 보관되어 있지는 않지만, 해킹에 성공할 경우 보관 시설에 접근하기 위한 정보를 획득할 수 있습니다.",
+    "ru": "Защищённые кузнечные цеха производства КБТ принадлежат организации ЭГИДА, выпускающей новые корабли и переоснащающей существующие противодиверсионными системами. Хоть здесь и не хранятся ценные инструменты и детали КБТ, но взлом этого объекта может помочь получить информацию о том, как попасть на склад.",
+    "zh": "统合部紧急干预和安全局旗舰建造车间用于建造新船或对老旧旗舰进行改装。\n\n\n\n比较值钱的建造工具和建造组件并不存放在这里，对这座设施进行破译可以了解到关于储存设施的信息。"
+  },
+  "graphicID": 25106,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "AEGIS No. 4 Capital Construction Forge",
     "en": "AEGIS No. 4 Capital Construction Forge",
@@ -10,5 +23,9 @@
     "ru": "AEGIS No. 4 Capital Construction Forge",
     "zh": "统合部紧急干预和安全局四号旗舰建造车间"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 6000.0,
+  "sofFactionName": "upwell-edencom",
   "volume": 27500.0
 }

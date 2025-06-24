@@ -1,5 +1,18 @@
 {
-  "typeID": 61933,
+  "capacity": 8000.0,
+  "description": {
+    "de": "Ein eigenartig aufgebautes Raumschiff, dass in seiner Form einer Untertasse gleicht. Laut der Sensorenanzeigen basiert es auf einer unbekannten biomechanischen Technologie. Das Schiff ist beschädigt, vielleicht durch die Effekte des lokalen Raums. Es muss jedoch davon ausgegangen werden, dass es über automatische Verteidigungssysteme verfügt, die immer noch aktiv sind und eine Gefahr für unvorsichtige Piloten darstellen.",
+    "en": "A strange design of spaceship with a distinctive \"saucer\" shape that sensor readings indicate uses an unknown form of biomechanical technology. This ship is somewhat impaired, perhaps by the effects of local space, but it should be assumed that automated defense systems are still active and pose something of a danger to the unwary.",
+    "es": "Nave espacial con un curioso diseño en forma de platillo. Según las lecturas, utiliza una forma desconocida de tecnología biomecánica. La nave está algo estropeada, tal vez por los efectos del espacio local, pero hay que suponer que los sistemas de defensa automatizados siguen funcionando y pueden ser peligrosos para los incautos.",
+    "fr": "Un modèle étrange de vaisseau à la forme distinctive de « soucoupe », que les lectures des détecteurs indiquent comme employant une forme de technologie biomécanique inconnue. Ce vaisseau est quelque peu détérioré, peut-être sous l'effet de l'espace local, mais il convient de partir du principe que les systèmes de défense automatisés sont encore actifs et présentent un danger pour les imprudents.",
+    "ja": "独特な『円盤』状の形をした奇妙なデザインの宇宙船。センサーの測定値によると、未知の種類のバイオメカニカル技術が使われている。この艦船は、おそらくは現地宙域の影響によって若干性能が低下しているが、自動制御された防衛システムはまだ有効で、不用心な者にある種の危害を及ぼすと見なすべきである。",
+    "ko": "'접시' 모양의 우주선으로 정체불명의 생체기계 기술이 사용되었습니다. 주변 지역으로 인해 기능이 손상되었습니다. 단, 자동 방어 시스템은 여전히 작동 중이며, 위협이 가해질 경우 대응할 가능성이 높습니다.",
+    "ru": "Странный космический корабль с характерной формой «тарелки», на которую указывают показания сенсоров, построен с применением неизвестной биомеханической технологии. Корабль несколько повреждён — возможно, из-за воздействия эффектов местной среды, — но можно предположить, что его автоматизированные оборонительные системы ещё работают и могут представлять опасность.",
+    "zh": "这是一艘外形古怪的碟形飞船，感应器读数显示它是利用某种未知的生物技术制造的。这艘船已基本损坏，可能是由此地的星系效应导致的，不过还是应当假定它的自动防御系统仍然在运转，会对不小心接近的目标造成威胁。"
+  },
+  "graphicID": 25168,
+  "groupID": 1666,
+  "mass": 97100000.0,
   "name": {
     "de": "Impaired Biomechanoid Saucer",
     "en": "Impaired Biomechanoid Saucer",
@@ -10,5 +23,9 @@
     "ru": "Impaired Biomechanoid Saucer",
     "zh": "受损的碟形生物机械"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 400.0,
+  "sofFactionName": "dalek",
+  "soundID": 11
 }

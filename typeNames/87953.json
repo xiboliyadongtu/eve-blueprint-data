@@ -1,5 +1,19 @@
 {
-  "typeID": 87953,
+  "basePrice": 100000000.0,
+  "description": {
+    "de": "Dieser Standard-Detektor ermöglicht es Schiffsscannern, in einem System eine moderate Zahl unentdeckter Relikt- und Datensignaturen für Sonden-Scans zu erfassen.",
+    "en": "This standard detector allows ship scanners to pick up a moderate number of undetected relic and data signatures for probe scanning within a system.",
+    "es": "Este detector estándar permite que los escáneres de la nave detecten un número moderado de señales de reliquias y datos previamente no identificadas para su escaneo por sonda dentro de un sistema.",
+    "fr": "Ce détecteur standard permet aux scanners du vaisseau de détecter un nombre modéré de signatures de reliques et de données non détectées pour le balayage des sondes dans un système.",
+    "ja": "標準的な性能のディテクター。艦船のスキャナーでシステムをプローブスキャンした際に、未発見の遺物・データシグネチャを若干数捕捉できるようになる。",
+    "ko": "프로브 스캐너를 활용해 성계에 밝혀지지 않은 유물 및 데이터 시그니처를 탐지하는 표준형 탐지기입니다.",
+    "ru": "С помощью этого датчика средней мощности бортовые сенсоры могут улавливать внутри системы умеренное количество прежде не обнаруженных сигнатур районов сбора данных и артефактов для дальнейшего сканирования разведзондами.",
+    "zh": "装配这款标准探测器后，舰船扫描仪就能在用探针扫描星系时额外发现适量未经探测的遗迹和数据信号。"
+  },
+  "groupID": 4768,
+  "iconID": 26758,
+  "marketGroupID": 3739,
+  "mass": 1000.0,
   "name": {
     "de": "Exploration Detector 2",
     "en": "Exploration Detector 2",
@@ -10,5 +24,7 @@
     "ru": "Exploration Detector 2",
     "zh": "探索探测器2"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 10000.0
 }

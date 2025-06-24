@@ -1,5 +1,18 @@
 {
-  "typeID": 16615,
+  "capacity": 665.0,
+  "description": {
+    "de": "Ein Schiff der Starship-Klasse des CONCORD wird nur eingesetzt, um besonders wichtige Personen im Patrouillengebiet des CONCORD zu transportieren oder zu begleiten. Es wurde zur Verteidigung gebaut und hat nur schwache Offensiveinrichtungen.",
+    "en": "The CONCORD Starship is solely used for transporting or escorting people of extreme importance within CONCORD patrolled space.  It is built for defense with very light offensive capability.",
+    "es": "La nave espacial de CONCORD se usa exclusivamente para transportar o escoltar a personas de gran importancia en el espacio vigilado por CONCORD. Se diseñó pensando en la defensa, de modo que su capacidad ofensiva es relativamente baja.",
+    "fr": "Le vaisseau spatial CONCORD est uniquement utilisé pour transporter ou escorter des personnalités très importantes à l'intérieur de l'espace contrôlé par CONCORD.  Il est conçu pour la défense et ne dispose que d'une capacité offensive limitée.",
+    "ja": "CONCORDパトロール宙域で超VIP級のゲストを輸送、または護衛するときのみ使用される。防衛を主たる任務としながらも、ごくわずかな攻撃能力も持つ。",
+    "ko": "VIP 수송 용도로 사용되는 CONCORD의 함선입니다. 방어 특화 함선으로 비교적 약한 공격능력을 가졌습니다.",
+    "ru": "CONCORD Starship используется только для перевозки и сопровождения самых важных персон в патрулируемом пространстве CONCORD. Он рассчитан на оборону и обладает крайне слабыми боевыми характеристиками.",
+    "zh": "统合部星舰只是用来在统合部巡逻空间内运输或护送极其重要的人。它的侧重点放在防御上，攻击能力极其有限。"
+  },
+  "graphicID": 1058,
+  "groupID": 697,
+  "mass": 20500000.0,
   "name": {
     "de": "CONCORD Starship",
     "en": "CONCORD Starship",
@@ -10,5 +23,9 @@
     "ru": "CONCORD Starship",
     "zh": "联合星舰"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 600.0,
+  "sofFactionName": "concordbase",
   "volume": 1080000.0
 }

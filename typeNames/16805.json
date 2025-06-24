@@ -1,5 +1,18 @@
 {
-  "typeID": 16805,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Ein kleiner Bunker, der zur Unterbringung und verbesserten Mobilität von Truppen und anderem Personal dient.",
+    "en": "A small bunker, there for accommodation and increased mobility of troops and other personnel.",
+    "es": "Un pequeño búnker para alojar y aumentar la movilidad de las tropas y demás personal.",
+    "fr": "Petit bunker utilisé en guise d'hébergement et favorisant la mobilité des soldats et du personnel.",
+    "ja": "兵士などの要員を収容し、彼らの機動性を向上させる小型バンカー。",
+    "ko": "막사 겸 병력의 기동력 향상을 위해 설치된 소형 벙커입니다.",
+    "ru": "Небольшой бункер, предназначенный для размещения войск и персонала с целью повышения их мобильности.",
+    "zh": "一座小碉堡，能提供住处，增加部队和其他人员的机动性。"
+  },
+  "graphicID": 2479,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Minmatar Bunker",
     "en": "Minmatar Bunker",
@@ -10,5 +23,9 @@
     "ru": "Minmatar Bunker",
     "zh": "米玛塔尔碉堡"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 713.0,
+  "sofFactionName": "minmatarbase",
   "volume": 100000000.0
 }

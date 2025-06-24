@@ -1,5 +1,20 @@
 {
-  "typeID": 21908,
+  "basePrice": 70000.0,
+  "description": {
+    "de": "XL-Projektilmunition. Kann nur von Sternenbasis-Abwehrbatterien und Capital Ships wie Dreadnoughts verwendet werden. Die zerstörerische Kraft eines Fusionssprengkopfes ist besser als die der meisten anderen verfügbaren Projektilsprengköpfe, obwohl er Probleme hat, schwere Schildsysteme zu durchdringen.\n\n\n\n50 % geringere optimale Reichweite.",
+    "en": "Extra Large Projectile Ammo. Can be used only by starbase defense batteries and capital ships like dreadnoughts. The destructive power of a fusion warhead is superior to most other projectile warheads available, although it has problems penetrating heavy shield systems.\r\n\r\n50% reduced optimal range.",
+    "es": "Munición de proyectiles de calibre extragrande. Solo pueden usarla las baterías defensivas de bases estelares y las naves capitales, como los superacorazados. El poder destructivo de una ojiva de fusión supera al de la mayoría de las ojivas de proyectiles disponibles, aunque tiene problemas a la hora de perforar los sistemas con escudos pesados.\n\nAlcance óptimo reducido un 50 %.",
+    "fr": "Très grande munition de projectile lourde. Exploitable uniquement par les batteries de défense de base stellaire et les vaisseaux capitaux tels que les dreadnoughts. La puissance destructrice d'une ogive à fusion est supérieure à toutes les autres ogives disponibles, bien qu'elle ne parvienne cependant que difficilement à pénétrer les gros systèmes de bouclier.\n\nRéduit de 50 % la portée optimale.",
+    "ja": "超大型プロジェクタイル弾。スターベース防衛用兵器や、攻城艦などの主力艦だけが使用できる。フュージョン弾は、市販のプロジェクタイル弾の中では抜群の破壊力を誇るが、シールド防御が厚い場合の貫通力には課題が残る。最適射程距離が50％短縮。",
+    "ko": "초대형 발사체 탄약입니다. 스타베이스 방어 포탑 또는 드레드노트와 같은 캐피탈 함선만 사용할 수 있습니다. 융합탄은 다른 발사체 탄약보다 뛰어난 파괴력을 자랑하지만 강력한 실드 시스템을 갖춘 함선을 상대할 시 낮은 관통력을 보입니다. <br><br>최적사거리 50% 감소",
+    "ru": "Снаряды сверхбольшого калибра. Могут применяться только оборонительными батареями звёздных баз и кораблями большого тоннажа — например, дредноутами. Разрушительная сила термоядерной боеголовки выше, чем у большинства других снарядов, однако ей сложно пробивать прочные щиты.\n\n\n\nСнижает оптимальную дальность действия на 50%.",
+    "zh": "超大型射弹弹药。只有母星防御炮塔以及无畏舰这样的旗舰级战舰才能使用。聚变弹头的破坏力大于多数现有的其他射弹弹头，但在穿透重型护盾系统时会比较吃力。\n\n最佳射程减少50%。"
+  },
+  "groupID": 83,
+  "iconID": 2830,
+  "marketGroupID": 1006,
+  "mass": 1.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Republic Fleet Fusion XL",
     "en": "Republic Fleet Fusion XL",
@@ -10,5 +25,9 @@
     "ru": "Republic Fleet Fusion XL",
     "zh": "共和舰队聚变弹 XL"
   },
+  "portionSize": 100,
+  "published": true,
+  "radius": 10.0,
+  "variationParentTypeID": 17670,
   "volume": 0.125
 }

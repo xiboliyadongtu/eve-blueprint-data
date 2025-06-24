@@ -1,5 +1,17 @@
 {
-  "typeID": 26789,
+  "description": {
+    "de": "Halbautomatische Handfeuerwaffen zum persönlichen Schutz und für die Guerillakriegsführung.",
+    "en": "Semi-automatic small arms used for personal protection and skirmish warfare.",
+    "es": "Armas cortas semiautomáticas usadas para la protección personal y las escaramuzas.",
+    "fr": "Armes portatives semi-automatiques utilisées pour la protection personnelle et la guérilla.",
+    "ja": "高機動戦闘や護身用に使われる、半自動式小型兵器。",
+    "ko": "스커미시 교전에 사용되는 반자동 소형 무기입니다.",
+    "ru": "Полуавтоматическое ручное оружие используется для самообороны и ближнего боя.",
+    "zh": "半自动小型枪械，主要用于个人防卫和小型冲突。"
+  },
+  "groupID": 526,
+  "iconID": 1366,
+  "mass": 2500000.0,
   "name": {
     "de": "Cache of Pistols",
     "en": "Cache of Pistols",
@@ -10,5 +22,7 @@
     "ru": "Cache of Pistols",
     "zh": "手枪贮藏箱"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 2000.0
 }

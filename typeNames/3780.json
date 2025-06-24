@@ -1,5 +1,16 @@
 {
-  "typeID": 3780,
+  "description": {
+    "de": "Die Durchschlagskraft dieses Schiffes ist mehr als ausreichend, um einen Pfad zerschmetterter Feinde zu hinterlassen, die wie lebloser Schrott umherschweben. Sie ist ein sehr anpassungsfähiges Schiff: es gibt ausreichend viele Montageplätze für Geschütztürme, um einen vollen Angriff zu fliegen, und dennoch kann sie eine große Menge Raketen abfeuern. Sie ist schnell genug, um Feinde auszumanövrieren. Außerdem besitzt sie einen Energiespeicher, der denen der Gegner überlegen ist.",
+    "en": "The force with which this ship hits is more than sufficient to leave a trail of shattered enemies, floating around like so much lifeless debris. An adaptable vessel, it has enough turret hardpoints for a full-scale assault while remaining versatile enough to allow for plenty of missile fire, and has both sufficient speed to outrun its enemies and sufficient capacitor charge to outlast them.",
+    "es": "La fuerza con la que golpea esta nave es más que suficiente para dejar un rastro de enemigos destrozados, flotando como escombros sin vida. Se trata de una nave adaptable que tiene suficientes puntos de montaje de torreta para un asalto a gran escala y versatilidad para realizar un gran número de disparos de misiles. Además, cuenta con la velocidad suficiente para superar a sus enemigos, así como con la carga de condensador necesaria para aguantar más que ellos.",
+    "fr": "La force de frappe de ce vaisseau est plus que suffisante pour mettre en pièces n'importe quel ennemi. Ce vaisseau modulable dispose de suffisamment de points de fixation de tourelles pour lancer un assaut de grande envergure, tout en restant suffisamment polyvalent pour effectuer un tir de missiles. Il dispose en outre d'un chargeur de capaciteur extrêmement puissant et d'une vitesse qui lui permettent de laisser sur place n'importe quel ennemi.",
+    "ja": "この艦の火力をもってすれば悠々と敵陣を突破し、航跡には粉砕された無数の敵艦が、生命徴候のかけらもないデブリよろしく点々と漂うばかりとなるだろう。汎用性の高い艦で、本格的な突撃艦として通用するタレットハードポイント数を有しながらも、必要とあらばミサイル砲撃も充分こなせる器用さを持ち、敵を翻弄する機動性と交戦に持ちこたえるだけのキャパシタ容量も兼ね備える。",
+    "ko": "함선의 뒤를 따라 적의 잔해물로 은하수가 형성될 정도로 막강한 파괴력을 가지고 있습니다. 다수의 터렛 하드포인트로 총력전을 벌이는 와중에 미사일 발포도 가능한 뛰어난 범용성을 보이며, 적 함선보다 더 빠르게, 더 오래 추진할 수 있는 캐패시터까지 갖추었습니다.",
+    "ru": "Ударная мощь этого корабля достаточна, чтобы оставлять за собой горящие остовы кораблей противника, не замедляя хода. Это универсальный корабль: у него достаточно турельных установок для полномасштабного наступление, но в то же время и весьма мощные ракетные системы; корабль достаточно быстрый, чтобы обогнать всех своих противников, но при этом обладает более обширным запасом энергии.",
+    "zh": "暴风级的攻击力足以让敌军支离破碎，然后像死寂的太空垃圾到处飘荡。作为一艘适应性强的战舰，它拥有足够多的炮塔安装座，能够发动全面的猛烈炮击，同时也不失灵活地拥有较强的导弹攻击能力。它的航速让敌舰望尘莫及，充足的电容器电容量使它能打赢任何消耗战。"
+  },
+  "graphicID": 3135,
+  "groupID": 226,
   "name": {
     "de": "Minmatar Hurricane Battlecruiser",
     "en": "Minmatar Hurricane Battlecruiser",
@@ -10,5 +21,9 @@
     "ru": "Minmatar Hurricane Battlecruiser",
     "zh": "米玛塔尔暴风级战列巡洋舰"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 200.0,
+  "sofFactionName": "minmatarbase"
 }

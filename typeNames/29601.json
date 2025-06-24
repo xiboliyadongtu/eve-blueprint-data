@@ -1,5 +1,16 @@
 {
-  "typeID": 29601,
+  "description": {
+    "de": "Ein Zaun.",
+    "en": "A fence.",
+    "es": "Una valla.",
+    "fr": "Clôture.",
+    "ja": "フェンス。",
+    "ko": "울타리입니다.",
+    "ru": "Ограда.",
+    "zh": "防护栏"
+  },
+  "graphicID": 2487,
+  "groupID": 226,
   "name": {
     "de": "Fortified Sansha Fence",
     "en": "Fortified Sansha Fence",
@@ -10,5 +21,9 @@
     "ru": "Fortified Sansha Fence",
     "zh": "强化的萨沙防护栏"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 463.0,
+  "sofFactionName": "sanshabase"
 }

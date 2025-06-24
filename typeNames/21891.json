@@ -1,5 +1,19 @@
 {
-  "typeID": 21891,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Der beschädigte Container driftet lautlos zwischen den Sternen dahin.",
+    "en": "The wrecked container drifts silently amongst the stars.",
+    "es": "El contenedor destrozado vaga en silencio entre las estrellas.",
+    "fr": "L'épave du conteneur dérive dans l'espace sans laisser de trace.",
+    "ja": "古びたコンテナは星屑を縫って静かに漂う。",
+    "ko": "난파된 컨테이너는 별들 사이를 소리 없이 부유하고 있습니다.",
+    "ru": "Разрушенный контейнер тихо дрейфует между звездами.",
+    "zh": "这具遇难飞船的货柜在群星间静静地漂浮。"
+  },
+  "graphicID": 1176,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Kutill's Storage Bin",
     "en": "Kutill's Storage Bin",
@@ -10,5 +24,9 @@
     "ru": "Kutill's Storage Bin",
     "zh": "库提尔的仓库柜"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericmetal",
   "volume": 27500.0
 }

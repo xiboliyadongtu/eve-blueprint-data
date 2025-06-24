@@ -1,5 +1,18 @@
 {
-  "typeID": 49742,
+  "basePrice": 40000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Precursor-Zerstörern",
+    "en": "Skill at operating Precursor Destroyers",
+    "es": "Habilidad en el manejo de destructores precursores.",
+    "fr": "Compétence liée à l'utilisation des destroyers de précursion",
+    "ja": "プリカーサー駆逐艦を操作するためのスキル。",
+    "ko": "프리커서 디스트로이어 운용을 위한 스킬입니다.",
+    "ru": "Навык в использовании эсминцев Предтечей",
+    "zh": "操作先驱者驱逐舰的技能"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Precursor Destroyer",
     "en": "Precursor Destroyer",
@@ -10,5 +23,8 @@
     "ru": "Precursor Destroyer",
     "zh": "先驱者驱逐舰操作"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 135,
   "volume": 0.01
 }

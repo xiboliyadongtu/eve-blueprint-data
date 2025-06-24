@@ -1,5 +1,17 @@
 {
-  "typeID": 29938,
+  "description": {
+    "de": "Mit diesem schwer beschädigten Flüssigrouter gelangt man unauffällig in die geheimen FIO-Netzwerke. Im funktionsfähigen Zustand könnte er Auskunft darüber geben, ob Serpentis Kapitän Scane Essyn wirklich übergelaufen ist. Da man die verschiedenen eingebauten Verschlüsslungssysteme jedoch nicht überbrücken kann, werden sich jedwede geretteten Daten als nutzlos erweisen. Das deutet vielleicht darauf hin, dass Essyn altes Wissen zu seinem Vorteil für eine neue Laufbahn anwendet; vielleicht zeigt es aber auch nur, dass er seine alte gar nicht erst verlassen hat.",
+    "en": "This heavily damaged fluid router appears to offer a low-profile backdoor into classified FIO networks. In a more functional state this unit could have shed some light on whether or not Serpentis Captain Scane Essyn truly defected. Without a way to bypass the various built-in encryption systems, however, it will be impossible to make sense of any recoverable data. This could be proof of Essyn using old knowledge to his advantage in a new career, or simply his link back to one he never abandoned in the first place.",
+    "es": "Este router fluido muy dañado parece ofrecer una discreta puerta trasera para acceder a redes clasificadas de la OIF. Si funcionase mejor, esta unidad podría haber servido para aclarar si el capitán serpentis Scane Essyn desertó de verdad. Sin embargo, sin una forma de eludir los diversos sistemas de encriptación incorporados, será imposible entender los datos que se recuperen. Podría ser una prueba de que Essyn aprovecha sus viejas habilidades en su nueva profesión o simplemente un vínculo a una que jamás abandonó.",
+    "fr": "Ce routeur de fluide considérablement endommagé offre une porte de secours secrète vers des réseaux classés du BFR. Dans un état plus fonctionnel, cette unité aurait pu nous dire avec certitude si le capitaine des Serpentis Scane Essyn a vraiment fui ou non. Toutefois, sans un moyen de contourner les différents systèmes de cryptage intégrés, il est tout simplement impossible d'exploiter les données récupérées. Cela pourrait être la preuve qu'Essyn utilise des connaissances ancestrales dans le cadre pour sa nouvelle carrière, ou simplement pour une carrière qu'il n'a jamais réellement abandonnée.",
+    "ja": "大きなダメージを受けたフルイドルーターは、秘密のFIOネットワークへの目立たない進入経路となっているようだ。このユニットがもう少し機能すれば、サーペンティスの大尉スケーンエッシンが本当に逃亡したかどうかが明らかになっていただろう。しかし、組み込まれている多数の暗号システムを回避してデータを復元し、解読することは不可能であろう。これは、エッシンが昔の知識を今の仕事に利用している証拠になったかもしれない。または、そもそも彼が見捨ててはいなかった者への人脈がたどれたかもしれない。",
+    "ko": "파손된 유체 라우터로 FIO 비밀 네트워크에 접속하기 위해 사용됩니다. 정상적으로 작동 했더라면 서펜티스 지휘관 스케인 에신이 전향한 것에 대한 사실여부를 확인할 수 있었을 것입니다. 데이터 추출을 시도하는 것도 방법이 되겠지만 내장된 암호화 시스템 탓에 해독에는 여러 난관이 존재합니다. 새로운 커리어를 쌓는 에신에게는 이러한 점이 유리하게 다가오겠지만... 전향한 것 자체가 거짓일 가능성도 배제할 수는 없습니다.",
+    "ru": "Этот сильно поврежденный жидкостный маршрутизатор предоставляет низкопрофильную лазейку в конфиденциальные FIO-сети. В более функциональном состоянии данное устройство способно было бы подтвердить, бежал ли Scane Essyn, капитан Serpentis. Не зная методов обхода различных встроенных систем шифрования, невозможно будет понять смысл расшифрованных данных. Это могло бы послужить доказательством того, что Essyn воспользовался древними знаниями в корыстных целях ради новой карьеры, или что он никогда не бросал старой.",
+    "zh": "这个破损的流体路由器提供了一个隐蔽的后门，通过这个后门能够进入到FIO的加密网络中。如果这东西损坏得没这么严重，那它应该能够为天蛇船长斯堪因•伊森是否真正转投他人提供一些线索。如果没有一个能够绕开多重内置加密系统的方法，这个东西就算有可回复的数据也只能说是毫无用处。这或许表明伊森在新岗位上发挥了其早有的专长，或者只是他根本就没转投他人。"
+  },
+  "groupID": 314,
+  "iconID": 3230,
+  "mass": 10.0,
   "name": {
     "de": "Cipher Router",
     "en": "Cipher Router",
@@ -10,5 +22,7 @@
     "ru": "Cipher Router",
     "zh": "加密路由器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 2.0
 }

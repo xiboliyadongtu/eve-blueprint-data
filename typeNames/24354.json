@@ -1,5 +1,17 @@
 {
-  "typeID": 24354,
+  "description": {
+    "de": "Diese ungewöhnliche Karte zeigt anscheinend eine Flugroute, aber da Startpunkt und Ziel fehlen, ist sie von wenig Nutzen.",
+    "en": "This strange map seems to show a route of some sort, but as it lacks the source and destination locations it is of little use.",
+    "es": "Este extraño mapa parece mostrar una ruta de algún tipo, pero como no indica origen ni destino, no es muy útil.",
+    "fr": "Cette étrange carte semble indiquer un itinéraire, mais le point de départ et le point d'arrivée n'étant pas précisés, elle ne présente pas beaucoup d'intérêt.",
+    "ja": "ルートらしきものが描かれた奇妙なマップ。目的地に関する情報が不十分なため、ほとんど役に立たない。",
+    "ko": "어딘가의 위치를 알려주는 지도로 정확한 좌표 및 목표 지점이 기록되어 있지 않아 쓸모가 없습니다.",
+    "ru": "Эта странная карта похоже указывает некий маршрут, но она не указывает точки отправления и прибытия, так что она мало полезна.",
+    "zh": "这张奇怪的地图似乎显示了某种路线，但由于缺少起点和终点，因此它几乎没用。"
+  },
+  "groupID": 526,
+  "iconID": 2853,
+  "mass": 1.0,
   "name": {
     "de": "Threaded Waypoint Map",
     "en": "Threaded Waypoint Map",
@@ -10,5 +22,7 @@
     "ru": "Threaded Waypoint Map",
     "zh": "空间航线图"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

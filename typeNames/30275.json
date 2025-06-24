@@ -1,5 +1,18 @@
 {
-  "typeID": 30275,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese für die Sleeper typische Struktur dient als Informations-Knotenpunkt, der diverse Datenquellen miteinander verbindet. Obwohl die unzähligen Jahre in dieser unwirtlichen Umgebung des Alls ihre Spuren hinterlassen haben, leitet diese Struktur weiterhin Informationen hin und her und ignoriert hartnäckig ihre eigene Schadenanfälligkeit.",
+    "en": "Distinctively Sleeper in design, this structure served as an information hub, linking various data sources with one another. Although countless years in the harsh environments of space have rendered its defenses all but non-existent, the structure continues to relay information back and forth, oblivious to its own vulnerability.",
+    "es": "Con un diseño distintivamente sleeper, esta estructura funcionaba como centro de información, vinculando varias fuentes de datos entre sí. Aunque incontables años en el inhóspito entorno del espacio han reducido sus defensas casi a la nada, sigue transmitiendo información, inconsciente de su propia vulnerabilidad.",
+    "fr": "Basée sur un modèle typiquement sleeper, cette structure servait de plaque tournante de l'information, reliant entre elles les différentes sources de données. Bien que ces nombreuses années passées dans la rigueur de l'espace aient affecté ses défenses, cette structure continue de relayer les informations, faisant fi de sa propre vulnérabilité.",
+    "ja": "スリーパー独自のデザインを持つこの建造物は情報ハブとして機能し、いくつものデータソースと繋がっていた。長年にわたり厳しい環境にさらされて防御力はなきに等しい状態だが、情報の中継は続けられており、衰えは感じられない。",
+    "ko": "정보 허브로 사용되던 슬리퍼 구조물입니다. 우주의 혹독한 환경에서 무수한 세월을 보낸 탓에 방어 시스템은 다 망가져 버렸으나 여전히 정보를 끊임없이 송수신하고 있습니다.",
+    "ru": "Это сооружение, похожее на многие другие сооружения Sleeper, служило в качестве информационного коммутатора, связывая между собой различные источники данных. И хотя бесчисленные годы пребывания в неблагоприятной среде космоса разрушили чуть ли не всю ее защиту, сооружение продолжает передавать информацию туда и обратно, не замечая своей собственной уязвимости.",
+    "zh": "这座设施是典型的冬眠者式建筑，它是一座信息交互枢纽，连接了无数的数据源。在宇宙中经过了漫长的岁月，它的防御系统已经完全失效。尽管这座设施还在传输着一些数据，但它其实已在安静地走向自己的毁灭。"
+  },
+  "graphicID": 3519,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Exposed Sleeper Interlink Hub",
     "en": "Exposed Sleeper Interlink Hub",
@@ -10,5 +23,9 @@
     "ru": "Exposed Sleeper Interlink Hub",
     "zh": "炸毁的冬眠者交互枢纽"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 2917.0,
+  "sofFactionName": "sleeperbase",
   "volume": 100000000.0
 }

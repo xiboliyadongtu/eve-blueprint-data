@@ -1,5 +1,18 @@
 {
-  "typeID": 57579,
+  "capacity": 27500.0,
+  "description": {
+    "de": "Diese Ansammlung von Wrackteilen wurde aus einem Gefecht geborgen und zur Verwertung und Verteilung in die Aufzuchtnester der Raubdrohnen gebracht. In diesem Wrack, das auf sein endgültiges Schicksal wartet, befinden sich wahrscheinlich noch einige bergbare Wertgegenstände.",
+    "en": "This collection of wreckage has been retrieved from some battle and brought to the rogue drone nursery grove for salvage and distribution throughout the nursery nests. As this wreckage is awaiting its final fate it probably contains some salvageable items of value.",
+    "es": "Colección de restos procedentes de alguna batalla que se ha traído al criadero de los drones rebeldes para recuperar materiales y distribuirlos entre los nidos. Seguramente haya algún objeto de valor aprovechable esperando su destino final.",
+    "fr": "Cet amas de débris a été récupéré après une bataille et amené à la pépinière de drones renégats pour y être recyclé et distribué à travers les nids de la pépinière. Pendant que ces débris attendent leur ultime destin, ils contiennent probablement encore des objets de valeur potentiellement récupérables.",
+    "ja": "この残骸の塊は戦闘現場から回収されたもので、回収後はローグドローンの製造区画へと運ばれ、サルベージと生育巣全体への配分が行われる。この残骸は最終工程前のもので、サルベージ可能な価値のあるアイテムが中に入っている可能性が高い。",
+    "ko": "전장에서 회수한 잔해로 분해를 거친 후 로그 드론 둥지에서 분배될 예정입니다. 잘만 찾아보면 쓸만한 물건을 획득할 수도 있습니다.",
+    "ru": "Эти обломки были добыты после одного из сражений и доставлены в инкубаторную оранжерею восставших дронов, где из них извлекут полезные ресурсы и после распределят посредством системы инкубаторных гнёзд. Пока судьба этих обломков неизвестна, но они вполне могут содержать какие-то ценные предметы.",
+    "zh": "这些残骸是某次大战留下的，现在被带到这个自由无人机培养室里进行打捞和分配。这些残骸中很可能含有一些有价值的打捞物。"
+  },
+  "graphicID": 3115,
+  "groupID": 186,
+  "mass": 10000.0,
   "name": {
     "de": "Drone-Collected Wreckage",
     "en": "Drone-Collected Wreckage",
@@ -10,5 +23,9 @@
     "ru": "Drone-Collected Wreckage",
     "zh": "无人机回收残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

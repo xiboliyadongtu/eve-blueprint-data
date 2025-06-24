@@ -1,5 +1,20 @@
 {
-  "typeID": 20881,
+  "description": {
+    "de": "Moduliert den Strahl einer Laserwaffe in den Radio-Frequenzbereich. Erzielt zwar eine bedeutende Verbesserung der Reichweite, aber auch einen wesentlich geringeren Schaden. Der EM-Schaden erhöht sich zwar bei größerer Reichweite, der Gesamtschaden ist jedoch geringer.\n\nDie empfindlichen Kristallin-Strukturen, die zur Herstellung dieses fortschrittlichen Kristalls verwendet werden, zerfallen mit der Zeit durch den Gebrauch, was dazu führt, dass der Kristall schließlich zerbricht.\n\n60% höhere optimale Reichweite.\n15% niedrigerer Energiespeicherverbrauch.",
+    "en": "Modulates the beam of a laser weapon into the radio frequencies. Offers greatly improved range but significantly lower damage.\r\n\r\nWith longer range, EM damage increases although the overall damage output is decreased.\r\n\r\nThe delicate crystalline structures used in the manufacture of this advanced crystal degrade with use, eventually causing it to shatter.\r\n\r\n60% increased optimal range.\r\n15% reduced capacitor need.",
+    "es": "Modula el rayo de un arma láser en radiofrecuencias. Ofrece un alcance muy mejorado pero un daño significativamente menor.\n\nCon un alcance mayor, el daño electromagnético aumenta, si bien se reduce el daño general.\n\nLas delicadas estructuras cristalinas utilizadas en la fabricación de este avanzado cristal se degradan con el uso hasta acabar quebrándose.\n\nAlcance óptimo aumentado un 60 %.\nNecesidad del condensador reducida un 15 %.",
+    "fr": "Module le rayon d'une arme laser dans les fréquences radio. Offre une portée largement améliorée mais des dégâts considérablement inférieurs.\n\nAvec une portée accrue, les dégâts électromagnétiques sont augmentés, en dépit d'une diminution des dégâts globaux.\n\nLes délicates structures cristallines utilisées dans la production de ce cristal avancé se dégradent à cause de l'usure, avant de finir par voler en éclats.\n\nAugmente de 60 % la portée optimale.\nRéduit de 15 % les besoins énergétiques du capaciteur.",
+    "ja": "レーザー兵器のビームを無線波長に変調。有効射程ははるかに伸びたものの、敵に与えるダメージは極めて低い。\n\n\nより長距離の射程ではEMダメージは増加するが、敵に与える全体的なダメージは減る。\n\n\nこの高性能クリスタルは、構成部品である結晶の構造がもろいため、使用するうちに徐々に劣化し、最後には砕けてしまう。\n\n\n\n最適射程距離が60％延長。キャパシタ消費量が15%低減。",
+    "ko": "레이저 무기에서 방출되는 빔을 라디오파로 변조합니다. 사거리가 증가하는 반면 피해량이 감소합니다. <br><br>사거리가 길수록 EM 피해량은 증가하지만 총 피해량은 감소합니다. <br><br>최첨단 크리스탈 생산에 사용되는 분자구조는 정교하지만 부서지기 쉬워 반복 사용 시 붕괴합니다. <br><br>최적사거리 60% 증가 <br>캐패시터 사용량 15% 감소",
+    "ru": "Перенастраивает лазер на работу в радиоволновом диапазоне. Обладает значительной дальностью действия, но при этом наносит гораздо меньший ущерб.\n\nНа более длинных расстояниях увеличивается электромагнитный (EM) ущерб, но наносимый ущерб уменьшается в целом.\n\nХрупкие кристаллические структуры, используемые при производстве данного усовершенствованного кристалла, со временем приходят в негодность, что в конечном итоге приводит к его разрушению.\n\nПовышает оптимальную дальность действия на 60%.\nСнижает потребление энергии конденсатора на 15%.",
+    "zh": "将激光武器的光束调节到射频段，使火力范围大大提高，而伤害输出能力却被大幅降低。电磁伤害在较远的距离上会有所提高，而整体伤害输出能力却被削弱。这种高级晶体中所用到的结晶结构会在使用的过程中降解，最终会导致晶体碎裂。最佳射程提升60%。电容需求降低15%。"
+  },
+  "graphicID": 1145,
+  "groupID": 86,
+  "iconID": 1145,
+  "marketGroupID": 995,
+  "mass": 1.0,
+  "metaGroupID": 4,
   "name": {
     "de": "True Sanshas Radio L",
     "en": "True Sanshas Radio L",
@@ -10,5 +25,8 @@
     "ru": "True Sanshas Radio L",
     "zh": "萨沙爱国者射频晶体 L"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 255,
   "volume": 1.0
 }

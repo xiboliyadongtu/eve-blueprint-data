@@ -1,5 +1,18 @@
 {
-  "typeID": 34303,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese Lagereinheit ist mit flüchtigem Material gefüllt. \"Handle with care\".",
+    "en": "This storage unit is filled with volatile materials. Handle with care.",
+    "es": "Esta unidad de almacenamiento está llena de materiales volátiles. Se debe manipular con cuidado.",
+    "fr": "Cette unité de stockage est remplie de matériaux instables. Utilisez-la avec précaution.",
+    "ja": "揮発性物質で満たされた保管ユニット。取り扱いに注意。",
+    "ko": "폭발성 물질이 가득한 저장고입니다. 주의하여 취급하십시오.",
+    "ru": "Камера, заполненная взрывоопасными материалами. Соблюдайте осторожность.",
+    "zh": "这个储藏单元里充满了爆炸性物体，注意小心操作。"
+  },
+  "graphicID": 2007,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Plasma Chamber",
     "en": "Plasma Chamber",
@@ -10,5 +23,10 @@
     "ru": "Плазменная ловушка",
     "zh": "等离子室"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 1226.0,
+  "sofFactionName": "genericbase",
   "volume": 100000000.0
 }

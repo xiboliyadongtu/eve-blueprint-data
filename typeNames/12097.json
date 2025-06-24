@@ -1,5 +1,17 @@
 {
-  "typeID": 12097,
+  "basePrice": 100000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Zerstörern.",
+    "en": "Skill for the operation of Destroyers.",
+    "es": "Habilidad en el manejo de destructores.",
+    "fr": "Compétence permettant de piloter des Destroyers.",
+    "ja": "駆逐艦を操作するスキル。",
+    "ko": "디스트로이어를 운용하기 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на эсминцах.",
+    "zh": "操作驱逐舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
   "name": {
     "de": "Destroyers",
     "en": "Destroyers",
@@ -10,5 +22,7 @@
     "ru": "Эсминцы",
     "zh": "驱逐舰操作"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

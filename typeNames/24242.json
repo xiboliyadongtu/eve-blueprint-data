@@ -1,5 +1,18 @@
 {
-  "typeID": 24242,
+  "basePrice": 1000000.0,
+  "description": {
+    "de": "Psychologisches Training, welches die mentale Widerstandskraft des Piloten stärkt. Die Erkenntnis, dass das eigene Bewusstsein von der körperlichen Form losgelöst, über die gesamte Galaxis verteilt und dann in einen in einem Bottich hochgezogenem Klon platziert wird, kann für den ungeübten Geist sehr verstörend sein.\n\nErmöglicht 1 Sprungklon je Skillstufe.\n\nHinweis: Klone können nur in Stationen mit medizinischen Einrichtungen oder in Schiffen mit Klonbuchten erstellt werden. Erstellte Klone werden in der Charakterübersicht aufgelistet.",
+    "en": "Psychological training that strengthens the pilot's mental tenacity. The reality of having one's consciousness detached from one's physical form, scattered across the galaxy and then placed in a vat-grown clone can be very unsettling to the untrained mind.\r\n\r\nAllows 1 jump clone per level.\r\n\r\nNote: Clones can only be installed in stations with medical facilities or in ships with clone vat bays. Installed clones are listed in the character sheet.",
+    "es": "Entrenamiento psicológico que fortalece la tenacidad mental del piloto. La realidad de tener la conciencia separada de la forma física de uno, dispersada por la galaxia y luego colocada en un clon que ha crecido en un tanque puede ser muy inquietante para una mente no entrenada.\n\nPermite un clon de salto por nivel.\n\nAviso: Los clones solo pueden instalarse en estaciones con centro médico o en naves con plataformas de contenedores de clonación. Los clones instalados se enumeran en la ficha del personaje.",
+    "fr": "Entraînement psychologique consacré à renforcer la fortitude du pilote. Imaginez votre conscience, dissociée de son enveloppe charnelle et disséminée dans l'immensité galactique, pour soudainement se retrouver confinée dans le corps d'un clone cultivé en cuve : une expérience extrêmement déroutante pour l'esprit d'un novice.\n\nAutorise 1 clone interstellaire par niveau.\n\nÀ savoir : les clones peuvent être installés dans les stations dotées d'installations médicales ou dans les vaisseaux abritant des plateformes de clonage. Les clones installés sont répertoriés sur votre feuille de personnage.",
+    "ja": "パイロットの精神的な粘り強さを向上させる心理的な訓練。自分の体から意識を引き離し宇宙にばらまかれ、それを培養クローンに注入されるという体験は、訓練されていない精神にとって非常に不安をかき立てられるものである。レベルごとにジャンプクローンを1体増やすことができる。注： クローンは、医療施設のあるステーションか、クローンバットベイを備えた船でなければ設置できない。設置されたクローンはキャラクター詳細に記載される。",
+    "ko": "정신력 강화를 위한 스킬입니다. 훈련되지 않은 자의 의식을 신체로부터 분리한 뒤 우주 건너편의 클론에 재삽입하는 행위는 매우 불안정한 작업입니다. <br><br>매 레벨마다 점프 클론 1개 증가 <br><br>참고: 클론은 의료시설이 건설된 정거장이나 점프 클론 격납고가 탑재된 함선에만 배치할 수 있습니다. 배치된 클론은 캐릭터 정보창에서 확인할 수 있습니다.",
+    "ru": "Психологическая подготовка, усиливающая ментальную выносливость пилота. Отделение сознания от тела, перемещение его через всю галактику и помещение в искусственно выращенный клон может вызвать повреждение нетренированного разума.\n\n\n\nЗа каждую степень освоения навыка: на 1 увеличивается количество действующих джамп-клонов.\n\n\n\nПримечание: Клоны можно размещать только на станциях с медотсеками или на кораблях с бортовыми клон-станциями. Со списком наличных джамп-клонов можно ознакомиться, открыв окно «Личное дело пилота».",
+    "zh": "心理训练可增强飞行员的精神承受力。将人的意识从肉体上分离出来，传送过星系，再注入一个成熟的克隆体内——这个过程对于未经过此训练的人是很难安然接受的。\n\n每升一级，可以增加一个远距克隆体。\n\n注意：克隆体只能安置在有医疗设施的空间站内或者是有克隆舱的舰船内。已安置的克隆体会在人物表单中列出。"
+  },
+  "groupID": 1220,
+  "iconID": 33,
+  "marketGroupID": 1746,
   "name": {
     "de": "Infomorph Psychology",
     "en": "Infomorph Psychology",
@@ -10,5 +23,7 @@
     "ru": "Психология инфоморфов",
     "zh": "坚韧心理学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,15 @@
 {
-  "typeID": 1630,
+  "description": {
+    "de": "+50% Warpkosten für Zielgebiete, in denen sich keine Station oder kein Sprungtor befinden.",
+    "en": "+50% warp cost to bubbles with no station/stargate.",
+    "es": "+50 % al coste de warp en las burbujas sin estación/portal estelar.",
+    "fr": "Augmente de 50 % le coût du warp vers les bulles ne disposant d'aucune station ou d'aucun portail stellaire.",
+    "ja": "バブル内にステーションまたはスターゲートが含まれていない場合のワープコスト+50%。",
+    "ko": "정거장/스타게이트가 버블 내에 위치하지 않을 시 워프 비용 50% 증가",
+    "ru": "+50% стоимости гиперпрыжка к баблам без звездных врат или станции.",
+    "zh": "若目标立场中无空间站或星门，则跃迁能量消耗增加50%。"
+  },
+  "groupID": 193,
   "name": {
     "de": "Cenophobia Bonus",
     "en": "Cenophobia Bonus",
@@ -10,5 +20,6 @@
     "ru": "Cenophobia Bonus",
     "zh": "综合恐惧加成"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

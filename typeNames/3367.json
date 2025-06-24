@@ -1,5 +1,17 @@
 {
-  "typeID": 3367,
+  "basePrice": 75000.0,
+  "description": {
+    "de": "Fertigkeit zur Führung der Raffinerien einer Station. Erhöht die Mineralausbeute des Raffinierens um 5%, wenn als Stationsleiter eingesetzt.",
+    "en": "Skill at managing station refineries. Increases mineral yield of refinery by 5% if acting as station manager.",
+    "es": "Habilidad para gestionar refinerías en estaciones. Aumenta un 5 % la producción de minerales de la refinería si eres gerente de estación.",
+    "fr": "Compétence liée à la gestion des raffineries des stations. Augmente de 5 % le rendement minéral de la raffinerie si vous agissez en tant que responsable de la station.",
+    "ja": "ステーションの精錬装置を管理するスキル。ステーションマネージャーになったときの精錬所の無機物産出量が5%増加する。",
+    "ko": "정거장 정제소 관리를 위한 스킬입니다. 정거장 관리자인 경우 정제소의 미네랄 산출량 5% 증가",
+    "ru": "Навык управления перерабатывающим оборудованием, размещаемым на орбитальных станциях. За каждую степень освоения навыка: на 5% увеличивается полезный выход ресурсов при переработке менеджером станции.",
+    "zh": "管理空间站精炼厂的技能。当作为空间站管理员时，精炼矿物产量增加5%。"
+  },
+  "groupID": 266,
+  "iconID": 33,
   "name": {
     "de": "Refinery Management",
     "en": "Refinery Management",
@@ -10,5 +22,7 @@
     "ru": "Управление цехами переработки сырья",
     "zh": "精炼厂管理"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

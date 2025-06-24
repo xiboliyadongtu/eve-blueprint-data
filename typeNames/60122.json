@@ -1,5 +1,18 @@
 {
-  "typeID": 60122,
+  "capacity": 27500.0,
+  "description": {
+    "de": "Dieser einst funktionale Infosplitter wurde irreparabel geschädigt. Die Ursache der Zerstörung ist unbekannt.",
+    "en": "This once functional info shard has been destroyed beyond repair. The cause of destruction is unknown.",
+    "es": "Este fragmento de información, que en su día fue útil, ha sido destruido sin posibilidad de reparación. Se desconoce la causa de su destrucción.",
+    "fr": "Ce fragment d'information autrefois fonctionnel a été détruit et n'est plus en état d'être réparé. La cause de sa destruction est inconnue.",
+    "ja": "かつて動作していたこの情報シャードは修復不能なほど破壊されました。破壊の原因は不明です。",
+    "ko": "복구할 수 없을 정도로 손상된 데이터 파편입니다. 손상된 원인을 알 수 없습니다.",
+    "ru": "Этот некогда рабочий информационный осколок был уничтожен и ремонту не подлежит. Причина его уничтожения неизвестна.",
+    "zh": "这个曾经启用过的数据片被摧毁了，已经无法修理。毁坏原因不明。"
+  },
+  "graphicID": 21404,
+  "groupID": 1975,
+  "mass": 10000.0,
   "name": {
     "de": "Secure Info Shard Wreck",
     "en": "Secure Info Shard Wreck",
@@ -10,5 +23,9 @@
     "ru": "Secure Info Shard Wreck",
     "zh": "安全的信息碎片残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

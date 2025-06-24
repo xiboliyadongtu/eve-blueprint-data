@@ -1,5 +1,21 @@
 {
-  "typeID": 2534,
+  "basePrice": 90000.0,
+  "capacity": 500.0,
+  "description": {
+    "de": "Um Kontrolle über einen Gebietsabschnitt oberhalb eines Gasriesen zu behalten, ist eine sehr spezielle Art von Kommandoeinrichtung nötig - und zwar eine, die in der Lage ist, innerhalb ihres eigenen Orbits zu verbleiben, Verwaltungspersonal zu beherbergen und leicht mit den anderen Knoten zu kommunizieren und interagieren. Abgehängt mit Gleichgewichtstechnologie, sind diese Knoten fähig, ihre Flughöhe bei nur minimalem Instandhaltungsaufwand zu halten. Wenn es einen Vorteil für die Besiedlung von Gasriesen-Planeten gibt, besteht dieser darin, dass diese Einrichtungen buchstäblich überall direkt vom Orbit aus abgesetzt werden können, ohne dass man sich um deren Sinkflug oder Entsendung sorgen muss.",
+    "en": "Maintaining control over a section of “territory” above a gas giant requires a very specific type of command facility, one that is able to maintain its own orbit, house administrative personnel, and easily communicate and interact with other nodes. Suspended with equilibrium technology, these nodes are able to maintain altitude with minimal upkeep. If there is one major advantage to colonizing gas giant planets, it is that these facilities can literally be dropped directly from orbit with almost no concern for their descent or deployment.",
+    "es": "Controlar una porción de «territorio» sobre un gigante gaseoso requiere un tipo de centro de control muy específico: uno capaz de sostener su propia órbita, alojar al personal administrativo y comunicarse fácilmente e interactuar con otros nodos. Estos nodos, que flotan gracias a la tecnología de Equilibrium, pueden mantener la altitud con unos cuidados mínimos. Si colonizar gigantes gaseosos tiene alguna ventaja, es que estas instalaciones se pueden dejar caer de su órbita tranquilamente, sin apenas ninguna precaución para el descenso o despliegue.",
+    "fr": "Assurer le contrôle d'une partie de « territoire » au-dessus d'une planète gazeuse nécessite un type de centre de commandement très spécifique, capable à la fois de se maintenir en orbite, d'accueillir du personnel administratif, et de communiquer et d'interagir avec d'autres centres. Suspendues grâce à une technologie d'équilibre, ces structures sont capables de rester en altitude en dépit d'un entretien minimal. S'il fallait retenir un avantage majeur à la colonisation des planètes gazeuses, ce serait le fait que ces structures peuvent littéralement être lâchées en orbite sans se soucier de leur atterrissage ni de leur déploiement.",
+    "ja": "ガス惑星上空の「領空」のコントロールを維持するには、特殊な司令部施設が必要となる。具体的には、固有軌道の維持、管理担当者の居住、および他のノードとの通信ややり取りの機能が必要とされる。これらのノードは、平衡技術を使用して浮遊しているため、最小限の維持費で高度を保つことができる。ガス惑星の植民地化に大きな利点が一つあるとすれば、降下や配置の心配をほとんどすることなく、これらの施設を文字通り軌道からまっすぐ降ろすことができることである。",
+    "ko": "거대 가스 행성 위의 \"영역\"을 관리하기 위해서는 특정한 종류의 통제센터가 필요합니다. 스스로 궤도를 유지하며 행정인력을 수용할 수 있어야 하며 다른 지점과의 통신이 원활해야 합니다. 평형기술로 부유하는 이러한 지점은 최소한의 전력으로 고도를 유지하는 것이 가능합니다. 거대 가스 행성 콜로니화의 가장 큰 장점이라면 이 같은 시설을 궤도로부터 이탈시킬 시 추락 위치 및 전개에 대한 걱정을 하지 않아도 된다는 점입니다.",
+    "ru": "Для поддержания контроля над участком поверхности газового гиганта требуется совершенно особый тип командного центра, способный поддерживать собственную орбиту, вмещать административный персонал, осуществлять связь и взаимодействовать с другими узлами. Эти центры находятся во взвешенном состоянии благодаря использованию равновесной технологии, и они способны удерживаться на одной и той же высоте при минимальных затратах. Огромным преимуществом колонизации газовых гигантов является простота установки командного центра: его можно просто сбросить с орбиты и не беспокоиться по поводу спуска или развертывания.",
+    "zh": "在气体行星上对某一个地区进行控制，需要用到一种特殊的指挥中心设施。它必须要能够保持自己在气体行星上空的运行轨道，能够承载管理人员并且要能方便地与其他节点设施进行通信交流。节点设施通过专门的平衡技术悬浮于空中，并能够在最低消耗的情况下保持自身的高度。如果要问在气体行星上建立殖民站相较其他行星有什么较大优点的话，那就是在气体行星上对设施进行投放的时候，它们所采用的降下保护措施或者部署技术要简单得多。"
+  },
+  "graphicID": 4569,
+  "groupID": 1027,
+  "marketGroupID": 1322,
+  "mass": 5000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Gas Command Center",
     "en": "Gas Command Center",
@@ -10,5 +26,7 @@
     "ru": "Gas Command Center",
     "zh": "气体行星指挥中心"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1000.0
 }

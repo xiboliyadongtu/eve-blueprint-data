@@ -1,5 +1,18 @@
 {
-  "typeID": 49964,
+  "capacity": 15000.0,
+  "description": {
+    "de": "Ein fortschrittliches Ausgrabungsschiff, das von den Forschungsanlagen der Frostline-Labore für verschiedene Aufgaben rund um die Ausschöpfung von Eiszwergen eingesetzt wird.",
+    "en": "An advanced exhumer-class mining ship used by Frostline Laboratories for various tasks related to exploitation of ice dwarfs at its exploratory facilities.",
+    "es": "Una nave minera avanzada de clase exhumador usada por Frostline Laboratories para diversas tareas relacionadas con la explotación de los enanos helados en sus centros de exploración.",
+    "fr": "Un vaisseau d'extraction avancé de classe exhumer employé par les laboratoires Frostline pour diverses tâches liées à l'exploitation de naines blanches à ses installations d'exploration.",
+    "ja": "フロストライン研究所のエクスヒューマー級採掘艦で氷矮惑星の開発に関わる様々な作業に使用されている輸送艦。",
+    "ko": "프로스트라인 연구소의 최첨단 채굴선으로 얼음 왜행성 채굴을 포함한 다양한 탐사 임무를 담당합니다.",
+    "ru": "Улучшенный вскрышно-буровой корабль, который используют в лаборатории «Иней» для выполнения различных задач, связанных с разработкой ледяных карликов.",
+    "zh": "这是一艘由霜线实验室驱使的高级采掘者采矿船，用来执行与其探索冰矮星相关的多项任务。"
+  },
+  "graphicID": 2940,
+  "groupID": 1766,
+  "mass": 10000000.0,
   "name": {
     "de": "Frostline Gatherer",
     "en": "Frostline Gatherer",
@@ -10,5 +23,9 @@
     "ru": "Frostline Gatherer",
     "zh": "霜线收集者"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 137.0,
+  "sofFactionName": "prospecting",
   "volume": 100000.0
 }

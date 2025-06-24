@@ -1,5 +1,18 @@
 {
-  "typeID": 3309,
+  "basePrice": 3000000.0,
+  "description": {
+    "de": "Bedienung großer Energiegeschütztürme.\r\n\r\n5% Bonus auf die Schadenswirkung großer Energiegeschütztürme je Skillstufe.",
+    "en": "Operation of large energy turrets. 5% Bonus to large energy turret damage per level.",
+    "es": "Funcionamiento de torretas de energía grandes. 5 % de bonificación al daño de torretas de energía grandes por nivel.",
+    "fr": "Aptitude à utiliser les grandes tourelles à énergie. Augmente de 5 % par niveau les dégâts des grandes tourelles à énergie.",
+    "ja": "大型エネルギータレットを操作するためのスキル。レベル上昇ごとに大型エネルギータレットダメージに 5% のボーナス。",
+    "ko": "대형 에너지 터렛을 운용하기 위한 스킬입니다. 매 레벨마다 대형 에너지 터렛 피해량 5% 증가",
+    "ru": "Навык эксплуатации больших лазерных орудий. За каждую степень освоения навыка: на 5% повышается урон больших лазерных орудий.",
+    "zh": "操作大型能量炮台的技能。每升一级，大型能量炮台的伤害提升5%。"
+  },
+  "groupID": 255,
+  "iconID": 33,
+  "marketGroupID": 364,
   "name": {
     "de": "Large Energy Turret",
     "en": "Large Energy Turret",
@@ -10,5 +23,7 @@
     "ru": "Большие лазерные орудия",
     "zh": "大型能量炮台研究"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

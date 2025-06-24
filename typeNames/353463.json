@@ -1,5 +1,17 @@
 {
-  "typeID": 353463,
+  "basePrice": 149000.0,
+  "description": {
+    "de": "Skill zur Benutzung von Infernogewehren.\n\n5% Abzug auf die Ladezeit von Infernogewehren pro Skillstufe.",
+    "en": "Skill at handling forge guns.\n\n5% reduction to forge gun charge time per level.",
+    "es": "Habilidad de manejo de cañones forja.\n\n-5% al tiempo de carga de los cañones forja por nivel.",
+    "fr": "Compétence permettant de manipuler les canons-forges.\n\n\n\n5 % de réduction du temps de charge du canon-forge par niveau.",
+    "it": "Abilità nel maneggiare cannoni antimateria.\n\n5% di riduzione al tempo di ricarica del cannone antimateria per livello.",
+    "ja": "フォージガンを扱うスキル。\n\nレベル上昇ごとに、フォージガンのチャージ時間が5%短縮する。",
+    "ko": "포지 건 운용을 위한 스킬입니다. <br><br>매 레벨마다 포지 건 충전 시간 5% 감소",
+    "ru": "Навык обращения с форжганами\n\n5% уменьшение времени перезарядки на каждый уровень.",
+    "zh": "使用锻造炮的技能。每升一级，锻造炮的装填时间缩短5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Bedienung: Infernogewehr",
     "en": "Forge Gun Operation",
@@ -11,5 +23,7 @@
     "ru": "Обращение с форжганами",
     "zh": "锻造炮操作"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

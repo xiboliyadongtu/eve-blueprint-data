@@ -1,5 +1,18 @@
 {
-  "typeID": 26136,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Der Trainingswürfel hilft den örtlichen Piraten beim Erlernen ihres Metiers. Er ist kennwortgeschützt, aber vermutlich nicht allzu gut.",
+    "en": "The training cube is used by the local pirates to learn how to become good pirates. It is password protected, but probably not all that well.",
+    "es": "Los piratas locales utilizan el cubo de desarrollo para aprender a ser buenos piratas. Está protegido por una contraseña que seguramente no sea muy eficaz.",
+    "fr": "Ce cube d'entraînement est utilisé par les pirates de la région pour apprendre à devenir de bons pirates. Il est protégé par mot de passe, mais rien de bien méchant.",
+    "ja": "トレーニングキューブは、立派な海賊になるための道を学ぶために地元の海賊により使われる。パスワードで保護されているが、それほど確実なものではないはずだ。",
+    "ko": "우수한 해적이 되는 방법을 습득하고자 지역의 해적들이 사용하는 훈련용 큐브입니다. 암호가 걸려있으나 쉽게 해킹할 수 있을 것 같습니다.",
+    "ru": "Учебный куб используется местными пиратами, чтобы узнать, как стать настоящими пиратами. Она защищен паролем, но видимо, не очень хорошо.",
+    "zh": "训练方形舱是当地海盗用来学习海盗技能的工具。它由密码保护，不过保护力度可能并不强。"
+  },
+  "graphicID": 1683,
+  "groupID": 1207,
+  "mass": 10000.0,
   "name": {
     "de": "Training Cube",
     "en": "Training Cube",
@@ -10,5 +23,10 @@
     "ru": "Training Cube",
     "zh": "训练方形舱"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 60.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

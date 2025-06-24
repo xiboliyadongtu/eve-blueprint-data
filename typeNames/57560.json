@@ -1,5 +1,19 @@
 {
-  "typeID": 57560,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieses verschlüsselte Schlüssellager enthält den codierten Sicherheitsschlüssel, der benötigt wird, um das Beschleunigungstor zu aktivieren, das zum AEGIS-Sicherheitstresor führt. Mit der passenden Ausrüstung sind Sie vielleicht in der Lage, sich in das Lager zu hacken und an einen Sicherheitsschlüssel zu gelangen.",
+    "en": "This encrypted key storage contains the coded security key necessary to activate the acceleration gate leading to the site of the AEGIS Security Vault.\r\n\r\nIf you have the correct equipment you may be able to hack into the storage and extract a security key.",
+    "es": "Este almacén de llaves cifradas contiene la llave de seguridad codificada necesaria para activar el portal de aceleración que lleva a la cámara de seguridad de AEGIS.\n\nCon el equipo adecuado, podrías hackear el almacén y extraer la llave de seguridad.",
+    "fr": "Ce stockage de clé de sécurité contient la clé codée requise pour activer le portail d’accélération menant au site du coffre-fort de sécurité d’AEGIS. Si vous disposez du matériel adéquat, vous pourrez peut-être pirater le stockage pour l’ouvrir et en extraire une clé de sécurité.",
+    "ja": "この暗号化されたキー保管庫には、コード化されたセキュリティキーが入っている。セキュリティキーは、イージスの金庫室があるサイトに通じているアクセラレーションゲートを起動する際に必要となる。\n\n\n\n適切な機器があれば、保管庫をハッキングしてセキュリティキーを取り出せるかもしれない。",
+    "ko": "보관함에서 출입키를 획득하면 AEGIS 금고로 향하는 액셀레이션 게이트를 활성화할 수 있습니다.<br><br>적합한 장비를 사용할 경우 보관함을 해제할 수 있습니다.",
+    "ru": "В этом хранилище находится зашифрованный ключ безопасности, который активирует разгонные ворота, ведущие к хранилищу сил безопасности «ЭГИДА». При наличии подходящего оборудования вы сможете взломать систему безопасности хранилища и получить ключ безопасности.",
+    "zh": "这个加密储藏柜中的安全密钥可以打开通向统合部紧急干预和安全局安保部保险库的加速轨道。\n\n\n\n如果你携带了合适的设备，就能破译这个储藏柜，拿到里面的密钥。"
+  },
+  "graphicID": 20297,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "AEGIS Encrypted Key Storage",
     "en": "AEGIS Encrypted Key Storage",
@@ -10,5 +24,9 @@
     "ru": "AEGIS Encrypted Key Storage",
     "zh": "统合部紧急干预和安全局密钥储藏库"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericbase",
   "volume": 100000.0
 }

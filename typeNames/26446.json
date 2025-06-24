@@ -1,5 +1,19 @@
 {
-  "typeID": 26446,
+  "description": {
+    "de": "Diese Schiffsmodifikation wurde dazu entwickelt, den Energiebedarf aller Schild-Upgrade-Module zu verringern. Dies geschieht auf Kosten eines erhöhten Signaturradius.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden.",
+    "en": "This ship modification is designed to reduce the power need of all shield upgrade modules at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
+    "es": "Esta modificación de nave está diseñada para reducir la necesidad de potencia de todos los módulos de mejora de escudo a costa de aumentar el radio de la señal.\n\nSe pueden reducir las desventajas de equipar este complemento desarrollando la habilidad <a href=showinfo:26261>Complementos de escudo</a>.",
+    "fr": "Cette modification de vaisseau est conçue pour diminuer l'énergie requise par tous les modules d'amélioration de bouclier, au détriment du rayon de signature étendu.\n\n\n\nLes inconvénients du montage de cette plateforme pourraient être réduits en entraînant la compétence <a href=showinfo:26261>Optimisation de bouclier</a>.",
+    "ja": "この改造を行うと、シグネチャ半径の増大と引き換えに、すべてのシールド改善系モジュールに必要な電力量が減少する。このリグを装備することで発生するペナルティは、<a href=showinfo:26261>シールド・リギング</a>スキルをトレーニングすることで低減できる。",
+    "ko": "리그 장착 시 실드 업그레이드 모듈 파워그리드 요구치가 감소하는 반면 함선의 시그니처 반경이 증가합니다. <br><br>리그 부작용은 <a href=showinfo:26261>실드 리그</a> 스킬 습득 시 감소합니다.",
+    "ru": "Эта модификация уменьшает необходимую мощность энергосети для установки всех модулей, для применения которых требуется навык установки пакетов модернизации силовых полей (Shield Upgrades) за счёт увеличенного радиуса сигнатуры.\n\n\n\nНегативный эффект от установки этого тюнинг-модуля можно снизить, освоив навык <a href=showinfo:26261>Shield Rigging</a>, дающий пилоту глубокое понимание принципов работы систем силовых полей корабля.",
+    "zh": "这个飞船改装件通过增大信号半径来减少所有护盾升级装备的能量需求。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。装配这种改装件的副作用可以通过训练装甲改装技术技能降低影响。"
+  },
+  "groupID": 774,
+  "iconID": 3193,
+  "marketGroupID": 1236,
+  "mass": 200.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Large Core Defense Charge Economizer II",
     "en": "Large Core Defense Charge Economizer II",
@@ -10,5 +24,9 @@
     "ru": "Large Core Defense Charge Economizer II",
     "zh": "大型核心防御节能装置 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 100.0,
+  "variationParentTypeID": 26090,
   "volume": 20.0
 }

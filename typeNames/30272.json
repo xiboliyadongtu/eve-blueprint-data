@@ -1,5 +1,16 @@
 {
-  "typeID": 30272,
+  "description": {
+    "de": "Kontrolleinheit für die Schildsysteme eines Schiffes.",
+    "en": "The control unit for a starships shield systems.",
+    "es": "Unidad de control de los sistemas de escudo de las naves.",
+    "fr": "Unité de contrôle des systèmes de bouclier équipant les vaisseaux.",
+    "ja": "宇宙船のシールドシステム用制御ユニット。",
+    "ko": "함선 실드 시스템에 사용되는 제어 장치입니다.",
+    "ru": "Блок управления щитовыми системами космических кораблей.",
+    "zh": "星舰护盾系统的控制单元。"
+  },
+  "groupID": 967,
+  "iconID": 3256,
   "name": {
     "de": "Sleeper Ward Console",
     "en": "Sleeper Ward Console",
@@ -10,5 +21,7 @@
     "ru": "Sleeper Ward Console",
     "zh": "冬眠者防御控制台"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

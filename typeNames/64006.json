@@ -1,5 +1,18 @@
 {
-  "typeID": 64006,
+  "capacity": 300.0,
+  "description": {
+    "de": "Die Spezialabteilung für Regulierungen & Ordnung (SARO) ist ein oft verdeckt agierender Elite-Zweig von CONCORDs DED. Ihre Agenten haben die Erlaubnis, vorbeugend auf jegliche potentielle Bedrohungen für ihre Mission zu reagieren, inklusive des sofortigen Eröffnens von Feuer auf Eindringlinge.",
+    "en": "Special Affairs for Regulations & Order (SARO) is an secretive elite branch of CONCORD's Directive Enforcement Department. Their officers are authorized to respond pre-emptively to all potential threats to their missions, up to and including firing on interlopers on sight.",
+    "es": "La Subdivisión de Asuntos para la Regulación y el Orden (SARO) es una sección secreta de élite del Departamento de Ejecución de Directivas de CONCORD. Sus oficiales están autorizados a responder preventivamente a cualquier amenaza potencial para sus misiones, pudiendo incluso llegar a abrir fuego contra intrusos a la menor ocasión.",
+    "fr": "Le Service d'Application des Réglementations et de l'Ordre (SARO) est une branche d'élite secrète du département exécutif des directives de CONCORD. Leurs officiers sont autorisés à répondre de manière préventive à toute menace potentielle pour leurs missions, jusqu'à tirer à vue sur les intrus.",
+    "ja": "「規制及び秩序のための特別任務部隊（Special Affairs for Regulations & Order＝SARO）」は、統制施行部門（DED）の秘密エリート部隊である。隊員は任務を阻む全ての潜在的脅威に対して先制的対処を行う権限を与えられており、侵入者を見つけ次第攻撃することもある。",
+    "ko": "질서유지특임대(SARO)는 CONCORD 지령집행부 산하의 비밀 특수 부대입니다. SARO 장교들은 임무에 대한 잠재적인 위협을 배제할 권한을 지니고 있으며, 특정 상황에서 선제 공격을 가할 수 있습니다.",
+    "ru": "Специальный отдел правил и порядка (СОПП) — элитное секретное подразделение службы мониторинга реализации резолюций КОНКОРДа. Его руководство уполномочено совершать упреждающие действия при наличии потенциальной угрозы своей деятельности, включая стрельбу по замеченным подозрительным целям.",
+    "zh": "统合部法规秩序特别事务局（SARO）是DED旗下的一支精英队伍。他们的指挥官获授权可以在执行任务时对任何潜在的威胁采取先发制人的措施，包括可以对来犯者直接开火。"
+  },
+  "graphicID": 21489,
+  "groupID": 1665,
+  "mass": 12500000.0,
   "name": {
     "de": "SoCT Enforcer",
     "en": "SoCT Enforcer",
@@ -10,5 +23,10 @@
     "ru": "SoCT Enforcer",
     "zh": "理性思维社团执法者"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 64,
+  "radius": 200.0,
+  "sofFactionName": "concordcivilian",
+  "soundID": 20078
 }

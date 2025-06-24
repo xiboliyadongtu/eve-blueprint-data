@@ -1,5 +1,18 @@
 {
-  "typeID": 11600,
+  "capacity": 1200.0,
+  "description": {
+    "de": "Das ist eine unbemannte Piratendrohne. Sie scheint von einem KI-System gesteuert zu werden. Sie sollten vorsichtig sein, wenn Sie sich einem derartigen Schiff nähern.\r\n\r\nBedrohungsstufe: Niedrig",
+    "en": "This is an unmanned pirate drone.  It appears to be controlled by an artificial intelligence system.  Caution is advised when approaching such vessels.  Threat level: Low",
+    "es": "Este es un pirata dron no tripulado. Parece estar controlado por un sistema de inteligencia artificial. Se recomienda precaución al acercarse a estas naves. Nivel de amenaza: bajo.",
+    "fr": "Il s'agit d'un drone pirate non habité.  Il semble contrôlé par un système d'intelligence artificielle.  Il est préférable de rester sur ses gardes lorsque vous approchez ces vaisseaux.  Niveau de menace : faible",
+    "ja": "無人海賊ドローン。人工知能システムで操縦されているらしく、接近時は用心しなくてはならない。危険度:低い",
+    "ko": "무인 해적 드론입니다. 인공지능 시스템으로 통제되고 있습니다. 접근 시 주의가 요구됩니다. 위험도: 낮음",
+    "ru": "Это автоматический дрон-пират. Похоже на то, что оно контролируется системой искусственного интеллекта. Необходимо соблюдать осторожность при приближении к кораблям подобного рода. Уровень опасности: низкий",
+    "zh": "这是一艘无人驾驶的海盗无人机。它似乎由一种人工智能系统控制。建议在接近此类飞船时小心提防。威胁等级：低"
+  },
+  "graphicID": 1124,
+  "groupID": 818,
+  "mass": 100000.0,
   "name": {
     "de": "Pirate Drone",
     "en": "Pirate Drone",
@@ -10,5 +23,9 @@
     "ru": "Pirate Drone",
     "zh": "海盗无人机"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 45.0,
+  "sofFactionName": "minmatarbase",
   "volume": 60.0
 }

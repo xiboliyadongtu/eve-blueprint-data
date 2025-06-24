@@ -1,5 +1,18 @@
 {
-  "typeID": 12366,
+  "basePrice": 150000.0,
+  "description": {
+    "de": "5% Bonus auf Kinetikresistenzen von Schildverstärkern je Skillstufe",
+    "en": "5% bonus to kinetic resistance per level for Shield Amplifiers.",
+    "es": "5 % de bonificación a la resistencia cinética por nivel a los amplificadores de escudo.",
+    "fr": "Augmente de 5 % par niveau la résistance cinétique des amplificateurs de boucliers.",
+    "ja": "レベル上昇ごとにシールド増幅器のキネティックレジスタンスが5%上昇",
+    "ko": "매 레벨마다 실드 증폭장치의 키네틱 저항력 5% 증가",
+    "ru": "За каждую степень освоения навыка: на 5% повышается влияние пассивных модуляторов щитов на сопротивляемость щитов кинетическому воздействию.",
+    "zh": "每升一级，护盾增效器的动能抗性提高5%"
+  },
+  "groupID": 1209,
+  "iconID": 33,
+  "marketGroupID": 1747,
   "name": {
     "de": "Kinetic Shield Compensation",
     "en": "Kinetic Shield Compensation",
@@ -10,5 +23,7 @@
     "ru": "Антикинетическое укрепление щитов",
     "zh": "动能护盾补偿研究"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

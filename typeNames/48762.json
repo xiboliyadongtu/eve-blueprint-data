@@ -1,5 +1,17 @@
 {
-  "typeID": 48762,
+  "description": {
+    "de": "Dieser trinäre Triglavia-Datentresor konnte durch die Eingabe von Triglavia-Überwachungsdaten in eine <b>Übertragungsleitung</b> in der Raumverwerfung des Abgrunds erlangt werden. Der Inhalt des Ausgabedatentresors scheint entsprechend einer rätselhaften Formel, die vermutlich vom Inhalt eingegebener Überwachungsdaten abhängt, zu variieren. Alternativ kann die Ausgabe auch einfach durch probalistische Wechselalgorithmen, die nur Triglavia verstehen würden, ermittelt werden.",
+    "en": "This Triglavian trinary data vault was obtained by inputting Triglavian survey data into a <b>Transfer Conduit</b> in Abyssal Deadspace. The contents of the output data vault seem to vary according to some inscrutable formula that presumably depends on the contents of the inputted survey data. Alternatively, the output may simply be determined by a probabilistic exchange algorithm that only a Triglavian would understand.",
+    "es": "Este depósito de datos trinarios triglavianos se consiguió introduciendo datos de inspecciones triglavianas en un <b>conducto de transferencia</b> del espacio muerto abisal. El contenido de salida parece variar según algunas fórmulas inescrutables que dependen de los datos introducidos. También podría ser que la producción dependa simplemente de un algoritmo de intercambio de probabilidades que solo los triglavianos entienden.",
+    "fr": "Ces données trinaires ont été obtenues en entrant des données d'inspection triglavian dans un <b>Conduit de transfert</b> dans l'abîme Deadspace. Le contenu des données de sortie semble varier en fonction d'une formule absconse qui, hypothétiquement, change selon la valeur des données d'inspection entrées. Une autre explication serait que les données de sortie sont déterminées par un algorithme d'échange probabiliste que seuls les Triglavian peuvent comprendre.",
+    "ja": "アビサルデッドスペースに存在する<b>転送導管</b>にトリグラビアンの調査データを入力すると、トリグラビアンのトライナリーデータ金庫が手に入る。出力されるデータ金庫の中身は、謎めいた法則性によって変わるようだが、それはどうやら入力されたデータの内容の影響を受けているらしい。言い換えれば、結果は単純に、トリグラビアンにしか理解できない確率論的交換アルゴリズムによって決まっていると言うこともできるだろう。",
+    "ko": "어비설 데드스페이스 내부의 <b>연결 전송기</b>에 트리글라비안 관측 데이터를 입력하여 획득한 데이터 저장장치입니다. 담긴 내용은 입력된 관측 데이터의 수학적 알고리즘에 따라 설계된 것으로 추정되지만 알고리즘의 정확한 정체는 알 수 없습니다. 하지만 관측 데이터가 아닌 트리글라비안 확률교환 알고리즘으로 설계되었을 가능성도 있습니다.",
+    "ru": "Это хранилище тернарных данных Триглава удалось получить путём ввода данных изучения Триглава в <b>канал передачи</b> внутри Мёртвой бездны. Содержимое полученного хранилища данных, судя по всему, определяется некой непостижимой формулой, которая, в свою очередь, зависит от вводимой информации. Также есть вероятность, что результат может определяться вероятностным алгоритмом обмена информации, понимание которого доступно только представителям Сообщества Триглава.",
+    "zh": "在深渊空间中将三神裔探测数据输入<b>传输导管</b>就会获得这个三神裔三重数据仓库。数据仓库中的内容看起来是由某种神秘公式决定的，可能是基于输入的探测数据的内容。相应地，输出的内容可以简单地用一种交换算法来得出，不过只有三神裔人才懂这种算法。"
+  },
+  "groupID": 1977,
+  "iconID": 21785,
+  "mass": 1.0,
   "name": {
     "de": "Triglavian Transfer Data Vault",
     "en": "Triglavian Transfer Data Vault",
@@ -10,5 +22,7 @@
     "ru": "Triglavian Transfer Data Vault",
     "zh": "三神裔传输数据仓库"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 1.0
 }

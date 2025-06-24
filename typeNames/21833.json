@@ -1,5 +1,16 @@
 {
-  "typeID": 21833,
+  "description": {
+    "de": "Ein Ausguck. Achtung.",
+    "en": "A lookout. Look out.",
+    "es": "Un vigía. Cuidado.",
+    "fr": "Un poste d'observation. Faites attention.",
+    "ja": "展望台。風景を観賞できる。",
+    "ko": "정찰초소입니다. 주의하십시오.",
+    "ru": "Наблюдательный пост. Смотрите в оба.",
+    "zh": "哨所。要当心。"
+  },
+  "graphicID": 2482,
+  "groupID": 226,
   "name": {
     "de": "Fortified Minmatar Lookout",
     "en": "Fortified Minmatar Lookout",
@@ -10,5 +21,9 @@
     "ru": "Fortified Minmatar Lookout",
     "zh": "强化的米玛塔尔哨站"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 1296.0,
+  "sofFactionName": "minmatarbase"
 }

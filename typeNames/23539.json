@@ -1,5 +1,17 @@
 {
-  "typeID": 23539,
+  "description": {
+    "de": "Eine Kiste, gefüllt mit verschiedenen Dingen, komplett gestohlen.",
+    "en": "A crate of various goods, all stolen.",
+    "es": "Caja de varios bienes robados.",
+    "fr": "Une caisse de marchandises, toutes volées.",
+    "ja": "様々な物資が入った箱。全て盗品である。",
+    "ko": "다양한 물건이 담긴 상자로 전부 도난품입니다.",
+    "ru": "Контейнер с различными ворованными товарами.",
+    "zh": "一个装满各种物品的箱子，都是偷来的。"
+  },
+  "groupID": 526,
+  "iconID": 26,
+  "mass": 1000.0,
   "name": {
     "de": "Stolen Goods",
     "en": "Stolen Goods",
@@ -10,5 +22,7 @@
     "ru": "Stolen Goods",
     "zh": "偷盗的货物"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 80.0
 }

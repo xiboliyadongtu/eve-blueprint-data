@@ -1,5 +1,21 @@
 {
-  "typeID": 27513,
+  "basePrice": 500.0,
+  "description": {
+    "de": "Eine leichte Mordu-Lenkwaffe mit einem Graviton-Sprengkopf und automatischem Leitsystem.",
+    "en": "A Mordu light missile with a graviton warhead and automatic guidance system.",
+    "es": "Misil ligero de Mordu con una ojiva de gravitones y un sistema de guiado automático.",
+    "fr": "Missile léger mordu équipé d'une ogive à graviton et d'un système de guidage automatique.",
+    "ja": "重力子弾頭と自動誘導システムを搭載したモードゥ式ライトミサイル。",
+    "ko": "유도시스템과 중력자 탄두가 탑재된 모르두 라이트 미사일입니다.",
+    "ru": "Лёгкая ракета Легиона Морду с гравитонной боеголовкой и автоматической системой наводки.",
+    "zh": "一种莫德团轻型导弹，带有引力子弹头和自动导引系统。"
+  },
+  "graphicID": 20064,
+  "groupID": 394,
+  "iconID": 1333,
+  "marketGroupID": 1192,
+  "mass": 700.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Legion Scourge Auto-Targeting Light Missile",
     "en": "Legion Scourge Auto-Targeting Light Missile",
@@ -10,5 +26,9 @@
     "ru": "Legion Scourge Auto-Targeting Light Missile",
     "zh": "圣卒级祸患自动锁定轻型导弹"
   },
+  "portionSize": 100,
+  "published": true,
+  "radius": 300.0,
+  "variationParentTypeID": 1810,
   "volume": 0.015
 }

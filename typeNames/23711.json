@@ -1,5 +1,20 @@
 {
-  "typeID": 23711,
+  "basePrice": 3652.0,
+  "description": {
+    "de": "Wartungsdrohne für die Panzerung",
+    "en": "Armor Maintenance Drone",
+    "es": "Dron de mantenimiento del blindaje.",
+    "fr": "Drone de maintenance de blindage.",
+    "ja": "アーマー修理ドローン",
+    "ko": "장갑수리 드론입니다.",
+    "ru": "Дрон ремонта брони",
+    "zh": "装甲维修无人机"
+  },
+  "graphicID": 1084,
+  "groupID": 640,
+  "marketGroupID": 842,
+  "mass": 3000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Light Armor Maintenance Bot I",
     "en": "Light Armor Maintenance Bot I",
@@ -10,5 +25,9 @@
     "ru": "Light Armor Maintenance Bot I",
     "zh": "轻型装甲维护机器人 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 15.0,
+  "sofFactionName": "amarrbase",
   "volume": 5.0
 }

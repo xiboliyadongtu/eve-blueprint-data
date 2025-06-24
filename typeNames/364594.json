@@ -1,5 +1,17 @@
 {
-  "typeID": 364594,
+  "basePrice": 787000.0,
+  "description": {
+    "de": "Skill in der Bedienung von Amarr-Späherdropsuits. Schaltet den Zugriff auf Amarr-Späherdropsuits frei. Standard ab Stufe 1, erweitert ab Stufe 3 und Prototypen ab Stufe 5. Späherdropsuitbonus: +15% Bonus auf die PG/CPU-Kosten des Tarnungsfelds pro Skillstufe. Amarr-Späherdropsuitbonus: +5% Bonus auf die Scanpräzision, Ausdauerregenerierung und maximale Ausdauer pro Skillstufe.",
+    "en": "Skill at operating Amarr Scout dropsuits.\n\nUnlocks access to Amarr Scout dropsuits. Standard at lvl.1; advanced at lvl.3; prototype at lvl.5.\n\nScout Suit Bonus: +15% bonus to PG/CPU cost of cloak field per level.\nAmarr Scout Bonus: +5% bonus to scan precision, stamina regen and max.stamina per level.",
+    "es": "Habilidad de manejo de trajes de salto de explorador Amarr. Desbloquea el acceso a los trajes de salto de explorador Amarr: Estándar en el nivel 1, avanzados en el nivel 3 y prototipos en el nivel 5. Bonificación de traje de explorador: +15% al coste de RA/CPU del campo de visibilidad por nivel. Bonificación de traje de explorador Amarr: +5% a la precisión del escáner, a la recuperación de aguante y al aguante máximo por nivel.",
+    "fr": "Compétence permettant d'utiliser les combinaisons Éclaireur Amarr. Déverrouille l'accès aux combinaisons Éclaireur Amarr. Standard au niv.1 ; avancé au niv.3 ; prototype au niv.5. Bonus combinaison Éclaireur : +15 % de réduction d'utilisation de PG/CPU du champ de camouflage par niveau. Bonus Éclaireur Amarr : +5 % de bonus à la précision de balayage, ainsi qu'à la régénération et au maximum d'endurance par niveau.",
+    "it": "Abilità nell'utilizzo delle armature da ricognitore Amarr. Sblocca l'accesso alle armature da ricognitore Amarr. Standard al liv. 1; avanzate al liv. 3; prototipo al liv. 5. Bonus armatura da ricognitore: +15% bonus all'utilizzo della rete energetica/CPU del campo di copertura per livello. Bonus ricognitore Amarr: +5% bonus alla precisione dello scanner, alla rigenerazione della forza vitale e alla forza vitale massima per livello.",
+    "ja": "アマースカウト降下スーツを扱うためのスキル。アマースカウト降下スーツが使用できるようになる。レベル1で標準型、レベル3で高性能、レベル5でプロトタイプ。スカウトスーツボーナス: レベル上昇ごとに、クロークフィールドのPG/CPU消費量が15%増加する。アマースカウトボーナス：レベル上昇ごとに、スキャン精度、スタミナリジェネレイターおよび最大スタミナが5%増加する。",
+    "ko": "아마르 정찰 강하슈트 운용을 위한 스킬입니다. <br><br>아마르 정찰 강하슈트를 잠금 해제합니다. 레벨 1 - 일반, 레벨 3 - 상급, 레벨 5 - 프로토타입 <br><br>정찰 슈트 보너스:<br><br>매 레벨마다 클로킹 필드 PG/CPU 사용량 15% 감소 <br><br>아마르 정찰 슈트 보너스:<br><br>매 레벨마다 스캔 정확도 5% 증가 / 최대 스태미나 및 스태미나 회복률 5% 증가",
+    "ru": "Навык обращения с разведывательными скафандрами Амарр. Позволяет использовать разведывательные скафандры Амарр. Стандартные - на уровне 1; усовершенствованные - на уровне 3; прототипы - на уровне 5. Бонус разведывательного скафандра: 15% снижение расходов ресурсов ЭС/ЦПУ на маскирующее поле на каждый уровень. Бонус разведывательного скафандра Амарр: +5% к точности сканирования скафандра, восстановлению выносливости и максимальной выносливости на каждый уровень.",
+    "zh": "操作艾玛侦察兵作战服的技能。解锁艾玛侦察兵作战服。1级解锁标准版；3级解锁高级版；5级解锁原型版。侦察兵套装加成：每升一级，隐形力场的PG/CPU消耗增加15%。艾玛侦察兵加成：每升一级，扫描精度、体力恢复速度和最大体力增加5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Amarr-Späherdropsuits",
     "en": "Amarr Scout Dropsuits",
@@ -11,5 +23,6 @@
     "ru": "Разведывательные скафандры Амарр",
     "zh": "艾玛侦察兵作战服"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

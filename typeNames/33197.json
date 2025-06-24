@@ -1,5 +1,20 @@
 {
-  "typeID": 33197,
+  "basePrice": 9870.0,
+  "capacity": 1.0,
+  "description": {
+    "de": "Reduziert die Scandauer von Scansonden.\n\nEs kann max. ein Scan Acquisition Array-Modul eingebaut werden",
+    "en": "Reduces the scan time of scan probes.\r\n\r\nOnly one Scan Acquisition Array module can be fitted at max.",
+    "es": "Reduce el tiempo de escaneo de las sondas de escaneo.\n\n\n\nSolo se puede equipar un módulo de batería de adquisición de escaneo como máximo.",
+    "fr": "Réduit le temps de scanner des sondes de balayage.\n\nSeul un module d'acquisition de scanner peut être équipé.",
+    "ja": "スキャンプローブを使ってスキャンを行う際のスキャン時間を短縮する。\n\n\n搭載できるスキャン捕捉アレイモジュールは1台のみ。",
+    "ko": "프로브의 스캔 소요 시간이 감소합니다. <br><br>정밀 스캔 장치 모듈은 한 개만 장착할 수 있습니다.",
+    "ru": "Снижает время сканирования при использовании сканирующих зондов.\n\n\n\nМожно устанавливать не более одного модуля Scan Acquisition Array.",
+    "zh": "减少扫描探针的扫描时间。\n\n最多只能装配一个扫描精准阵列。"
+  },
+  "groupID": 1238,
+  "iconID": 21025,
+  "marketGroupID": 1709,
+  "metaGroupID": 2,
   "name": {
     "de": "Scan Acquisition Array II",
     "en": "Scan Acquisition Array II",
@@ -10,5 +25,8 @@
     "ru": "Scan Acquisition Array II",
     "zh": "扫描精准阵列 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 33176,
   "volume": 5.0
 }

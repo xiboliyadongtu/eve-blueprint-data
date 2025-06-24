@@ -1,5 +1,20 @@
 {
-  "typeID": 45614,
+  "description": {
+    "de": "Jüngste Fortschritte im Zuge der wiederentdeckten Technologie des alten Sleeper-Volks kommen in diesem Subsystem zum Tragen. Die Optimierungen am Chassis ermöglichen der Tengu eine deutlich höhere Grundgeschwindigkeit und Wendigkeit. Den verschiedenen Verbesserungen des Designs fielen zwar einige andere Optionen zur Antriebsmodifikation zum Opfer, doch der Nutzen durch die verbesserte Wendigkeit macht es zu einem attraktiven Upgrade für Piloten, deren Tech-III-Schiffe eine grundlegende Steigerung der Mobilität brauchen.",
+    "en": "This subsystem exploits the latest technological advances afforded by discovery of the ancient Sleeper race's own designs. Optimizations made to the chassis allow for vast improvements to be made to a Tengu's agility and base velocity. Although the various layout optimizations sacrifice other options for propulsion customization, the flow-on effects from an improvement in base agility make it an attractive upgrade for those whose Tech III vessels are in need of an overall mobility increase.",
+    "es": "Este subsistema explota los últimos avances tecnológicos desarrollados por el descubrimiento de los propios diseños de la antigua raza Sleeper. Las optimizaciones realizadas en el chasis permiten realizar grandes mejoras en la velocidad base y la agilidad de la Tengu. Aunque las diversas optimizaciones de diseño sacrifican otras opciones para la personalización de la propulsión, los efectos de flujo obtenidos por la mayor agilidad base lo convierten en una mejora atractiva para aquellos cuyas naves T3 necesitan un aumento de la movilidad general.",
+    "fr": "Ce sous-système utilise les dernières avancées technologiques disponibles grâce à la découverte d'anciens modèles sleeper. Les améliorations apportées au châssis permettent d'augmenter la vitesse de base et la maniabilité d'un Tengu. Bien que les diverses optimisations de configuration sacrifient d'autres options de personnalisation de la propulsion, l'amélioration de la maniabilité de base du vaisseau représente une amélioration très intéressante pour ceux qui considèrent encore que leur vaisseau Tech III est trop peu maniable.",
+    "ja": "このサブシステムは、古代スリーパー種族独自の技術が発見されたことで利用可能になった最先端技術を用いており、テングの機動性と標準速度を高める各種の改良を施せるよう、シャーシが最適化されている。各部設計の最適化により推進力設計のオプションが狭まっているものの、基本機動性の上昇により、T3艦の全体的な機動性上昇を望む者にとって魅力的なアップグレードが可能となる。",
+    "ko": "고대 슬리퍼 설계를 바탕으로 제작된 최첨단 서브시스템입니다. 선체에 적용된 각종 개조를 통해 텐구의 비행 속도 및 기동성이 향상됩니다. 추진 계통을 중심으로 개조가 이루어진 탓에 다른 부분은 비교적 취약하나 기동성 증가로 인해 전반적인 성능 개선이 이루어졌습니다. 이 서브시스템은 추가 기동력을 요구하는 테크 III 함선에 적합합니다.",
+    "ru": "В этой подсистеме используются новейшие технологические достижения, полученные в результате открытия творений древней цивилизации Спящих. Оптимизация несущей конструкции значительно увеличивает скорость и маневренность крейсеров типа «Тенгу». Хотя применённые методы оптимизации компоновки корабля требуют отказаться от иных вариантов тонкой настройки двигательных установок, эта подсистема может заинтересовать пилотов, стремящихся просто летать на маневренном корабле третьей техкатегории.",
+    "zh": "这个子系统采用了最新发现的冬眠者科技，能为金鹏级战舰提供更大的灵活性和基础推进能力。尽管这种优化系统牺牲了推进系统的其他自定义功能，但是它所提供的基础灵活性提升却大大地满足了一些整体机动性较慢的三级科技舰船的需要。"
+  },
+  "graphicID": 21763,
+  "groupID": 957,
+  "iconID": 3646,
+  "marketGroupID": 1135,
+  "mass": 1400000.0,
+  "metaGroupID": 14,
   "name": {
     "de": "Tengu Propulsion - Chassis Optimization",
     "en": "Tengu Propulsion - Chassis Optimization",
@@ -9,6 +24,75 @@
     "ko": "텐구 추진기 시스템 - 섀시 강화 장치",
     "ru": "Tengu Propulsion - Chassis Optimization",
     "zh": "金鹏推进 - 机舱优化"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "sofFactionName": "caldaribase",
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "<b><u>Zusätzliche Basiswerte</b></u>",
+          "en": "<b><u>Additional Base Stats</b></u>",
+          "es": "<b><u>Estadísticas básicas adicionales</b></u>",
+          "fr": "<b><u>Stats de base supplémentaires</b></u>",
+          "ja": "<b><u>追加ベース統計</b></u>",
+          "ko": "<b><u>추가 기본 능력치</b></u>",
+          "ru": "<b><u>Кроме того:</b></u>",
+          "zh": "<b><u>附加基础数值</b></u>"
+        },
+        "importance": 1
+      },
+      {
+        "bonusText": {
+          "de": "+1 Mid Slot, +1 Low Slot",
+          "en": "+1 Mid Slot, +1 Low Slot",
+          "es": "+1 ranura intermedia, +1 ranura inferior",
+          "fr": "+1 Emplacement intermédiaire, +1 Emplacement inférieur",
+          "ja": "ミッドスロット+1、ロースロット+1",
+          "ko": "미드 슬롯 +1, 로우 슬롯 +1",
+          "ru": "+1 разъём средней мощности, +1 разъём малой мощности",
+          "zh": "中槽+1，低槽+1"
+        },
+        "importance": 2
+      }
+    ],
+    "types": {
+      "30552": [
+        {
+          "bonus": 3,
+          "bonusText": {
+            "de": "Bonus auf die Maximalgeschwindigkeit",
+            "en": "bonus to max velocity",
+            "es": "de bonificación a la velocidad máxima.",
+            "fr": "de bonus à la vitesse maximale",
+            "ja": "最高速度が上昇",
+            "ko": "최대속도 증가",
+            "ru": "повышается максимальная скорость корабля",
+            "zh": "最大速度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Wendigkeit des Schiffs",
+            "en": "bonus to ship agility",
+            "es": "de bonificación a la agilidad de la nave.",
+            "fr": "de bonus à la maniabilité du vaisseau",
+            "ja": "艦船の機動性を強化",
+            "ko": "기동성 증가",
+            "ru": "повышается маневренность корабля",
+            "zh": "舰船灵活性加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 40.0
 }

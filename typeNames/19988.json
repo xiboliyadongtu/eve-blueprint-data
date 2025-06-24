@@ -1,5 +1,21 @@
 {
-  "typeID": 19988,
+  "basePrice": 4000.0,
+  "description": {
+    "de": "Die zerstörerische Kraft eines Fusionssprengkopfes ist besser als die der meisten anderen verfügbaren Projektilsprengköpfe, obwohl er Probleme hat, schwere Schildsysteme zu durchdringen.\n\n\n\n50% geringere optimale Reichweite.",
+    "en": "The destructive power of a fusion warhead is superior to most other projectile warheads available, although it has problems penetrating heavy shield systems.\r\n\r\n50% reduced optimal range.",
+    "es": "El poder destructivo de una ojiva de fusión supera al de la mayoría de las ojivas de proyectiles disponibles, aunque tiene problemas a la hora de perforar los sistemas con escudos pesados.\n\nAlcance óptimo reducido un 50 %.",
+    "fr": "La puissance destructrice d'une ogive à fusion est supérieure à toutes les autres ogives disponibles, bien qu'elle ne parvienne cependant que difficilement à pénétrer les gros systèmes de bouclier.\n\nRéduit de 50 % la portée optimale.",
+    "ja": "フュージョン弾は、市販のプロジェクタイル弾の中では抜群の破壊力を誇るが、シールド防御が厚い場合の貫通力には課題が残る。最適射程距離が50％短縮。",
+    "ko": "융합탄은 다른 발사체 탄약보다 뛰어난 파괴력을 자랑하지만 강력한 실드 시스템을 갖춘 함선을 상대할 시 낮은 관통력을 보입니다. <br><br>최적사거리 50% 감소",
+    "ru": "Разрушительная сила термоядерной боеголовки выше, чем у большинства других снарядов, однако ей сложно пробивать прочные щиты.\n\n\n\nСнижает оптимальную дальность действия на 50%.",
+    "zh": "聚变弹头的破坏力大于多数现有的其他射弹弹头，但在穿透重型护盾系统时会比较吃力。最佳射程减少50%。"
+  },
+  "graphicID": 1287,
+  "groupID": 83,
+  "iconID": 1287,
+  "marketGroupID": 989,
+  "mass": 1.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Arch Angel Fusion S",
     "en": "Arch Angel Fusion S",
@@ -10,5 +26,8 @@
     "ru": "Arch Angel Fusion S",
     "zh": "大天使聚变弹 S"
   },
+  "portionSize": 100,
+  "published": true,
+  "variationParentTypeID": 183,
   "volume": 0.0025
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 34373,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Das Kalibrierungsgerät kann mit Koordinaten gefüttert werden, um den nahegelegenen Spalt so abzustimmen, dass er funktioniert. Dieser Geräteslot ist für niedrige Energieeinstellungen, was dazu führt, dass bei Benutzen des Spalts eine geringere Entfernung zurückgelegt wird.\n\nUm diesen Slot zu aktivieren, müssen Sie jeweils Koordinaten für die X-Achse, die Y-Achse und die Z-Achse eingeben.",
+    "en": "The calibration device can be fed coordinates to calibrate the nearby rift to become functional. This device slot is for low power setting, resulting in shorter distance covered when using the rift.\r\n\r\nTo activate this slot, you need to insert X-Axis Coordinate, Y-Axis Coordinate and a Z-Axis Coordinate into it.",
+    "es": "El dispositivo de calibración puede recibir coordenadas que permitan ajustar la grieta cercana para hacerla funcional. Esta ranura del dispositivo es para la configuración de baja potencia, lo que resulta en una menor distancia cubierta al utilizarse la grieta.\n\n\n\nPara activar esta ranura, es necesario insertar en ella la coordenada de los ejes X, Y y Z.",
+    "fr": "Vous pouvez insérer des coordonnées au dispositif de calibration afin de calibrer la faille la plus proche afin que celle-ci soit fonctionnelle. L'emplacement du dispositif est pour le paramètre de puissance basse. Une distance plus courte est alors couverte lors de l'utilisation de la faille.\n\nPour activer cet emplacement, vous devez y insérer une coordonnée d'axe X, une coordonnée d'axe Y et une coordonnée d'axe Z.",
+    "ja": "キャリブレーション装置に近隣の裂け目を調整する座標を入力すると、機能させることができる。本装置のスロットはローパワー設定用で、裂け目を利用するときに短距離をカバーする。\n\nスロットを有効化するには、X軸座標、Y座標およびZ座標を入力する。",
+    "ko": "보정 장치에 좌표를 입력하게 되면 주변 균열을 활성화할 수 있습니다. 전력 사용량이 낮은 편이기 때문에 균열 통과 시 이동 거리는 상대적으로 짧습니다. <br><br>장치를 활성화하기 위해서는 X, Y, Z 좌표값을 입력해야만 합니다.",
+    "ru": "Устройство калибровки должно быть снабжено координатами, при помощи которых близлежащий разлом может быть приведён в действующее состояние. Разъём этого устройства предназначен для низкоэнергетической работы: вследствие этого при его использовании покрывается относительно малое расстояние.\n\nЧтобы включить разъём, требуется загрузить в него три координаты (по осям Х, Y и Z).",
+    "zh": "这个校准装置能通过坐标校准附近的裂隙。由于采用了低能量设定，所以在校准裂隙时覆盖范围较小。\n\n你需要插入X、Y和Z轴坐标来激活该槽位。"
+  },
+  "graphicID": 3518,
+  "groupID": 952,
+  "mass": 10000.0,
   "name": {
     "de": "Remote Calibration Device - Low Power",
     "en": "Remote Calibration Device - Low Power",
@@ -10,5 +23,10 @@
     "ru": "Remote Calibration Device - Low Power",
     "zh": "低能量远程校准装置"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 4738.0,
+  "sofFactionName": "sleeperbase",
   "volume": 27500.0
 }

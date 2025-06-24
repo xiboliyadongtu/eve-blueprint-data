@@ -1,5 +1,19 @@
 {
-  "typeID": 8263,
+  "description": {
+    "de": "Erhöht die Stromnetzleistung.",
+    "en": "Boosts power core output.",
+    "es": "Aumenta el rendimiento del núcleo de potencia.",
+    "fr": "Améliore la puissance d'alimentation du réacteur principal.",
+    "ja": "パワーコアの出力を向上させる。",
+    "ko": "파워그리드 용량이 증가합니다.",
+    "ru": "Увеличивает производительность энергосистемы корабля.",
+    "zh": "提升能源核心输出功率。"
+  },
+  "groupID": 769,
+  "iconID": 26547,
+  "marketGroupID": 659,
+  "mass": 20.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Mark I Compact Reactor Control Unit",
     "en": "Mark I Compact Reactor Control Unit",
@@ -10,5 +24,10 @@
     "ru": "Mark I Compact Reactor Control Unit",
     "zh": "紧凑型反应堆控制元件MKI"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 500.0,
+  "variationParentTypeID": 1353,
   "volume": 5.0
 }

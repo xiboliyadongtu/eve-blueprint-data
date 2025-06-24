@@ -1,5 +1,21 @@
 {
-  "typeID": 266,
+  "basePrice": 240.0,
+  "description": {
+    "de": "Eine kleine Rakete mit Durchschlagskopf.",
+    "en": "A small rocket with a piercing warhead.",
+    "es": "Cohete pequeño con ojiva perforante.",
+    "fr": "Petite roquette dotée d'une ogive perforante.",
+    "ja": "徹甲弾頭を装備した小型ロケット。",
+    "ko": "철갑 탄두가 탑재된 소형 로켓입니다.",
+    "ru": "Маленькая ракета ближнего боя с бронебойной боеголовкой.",
+    "zh": "一种装备了穿甲弹头的小型火箭。"
+  },
+  "graphicID": 20060,
+  "groupID": 387,
+  "iconID": 1350,
+  "marketGroupID": 922,
+  "mass": 100.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Scourge Rocket",
     "en": "Scourge Rocket",
@@ -10,5 +26,8 @@
     "ru": "Scourge Rocket",
     "zh": "鞭挞火箭"
   },
+  "portionSize": 100,
+  "published": true,
+  "radius": 300.0,
   "volume": 0.005
 }

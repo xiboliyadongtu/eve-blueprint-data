@@ -1,5 +1,17 @@
 {
-  "typeID": 25601,
+  "description": {
+    "de": "Interface-Schaltkreise kommen stets bei der Entwicklung von Schiffs-Untersystemen zum Einsatz. Dieser hier sieht ein wenig mitgenommen aus, lässt sich aber mit ein wenig Geschick bestimmt noch zu etwas gebrauchen.",
+    "en": "Interface Circuits are common building blocks of starship subsystems. This one seems a little worse for wear but might be useful for something with a little ingenuity.",
+    "es": "Los circuitos de la interfaz son bloques de construcción comunes de los subsistemas de la nave. Este en concreto parece más desgastado, pero con un poco de creatividad tal vez se pueda aprovechar para algo.",
+    "fr": "Les circuits d'interface sont des blocs de construction courant dans les sous-systèmes de vaisseau spatial. Celui-ci a l'air en plutôt mauvais état, mais il peut s'avérer utile pour des personnes dotées d'un minimum d'ingéniosité.",
+    "ja": "インターフェイス回路は、宇宙船のサブシステムに普通に見られる主要部品。この部品は、装備するには少し品質が悪いが、あまり精密性が必要ないものには使えるかもしれない。",
+    "ko": "함선 서브시스템의 보편적인 구성요소입니다. 서브시스템에 장착하기에는 그다지 상태가 좋아 보이지는 않지만, 창의성을 발휘하면 어딘가에 쓸 수 있을지도 모릅니다.",
+    "ru": "Интегральные системы — обычные материалы для производства подсистем звездного корабля. Это не самое новое устройство, но при желании его можно привести в рабочее состояние.",
+    "zh": "接口电路是常见的星舰子系统建造模块。这一块电路板可能没法直接使用，但只要发挥些创造力，它可以被用于别的东西。"
+  },
+  "groupID": 754,
+  "iconID": 3264,
+  "marketGroupID": 1863,
   "name": {
     "de": "Fried Interface Circuit",
     "en": "Fried Interface Circuit",
@@ -10,5 +22,7 @@
     "ru": "Fried Interface Circuit",
     "zh": "烧焦的接口电路"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

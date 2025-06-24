@@ -1,5 +1,18 @@
 {
-  "typeID": 40754,
+  "description": {
+    "de": "Stört den Navigationscomputer des Zielschiffes und schaltet die Warp-, Sprung-, Mikrowarp- und Mikrosprungantriebe ab.",
+    "en": "Disrupts the target ship's navigation computer, disabling warping, jumping, microwarpdrives and micro jump drives.",
+    "es": "Perturba el ordenador de navegación de la nave objetivo e inhabilita warpear, los saltos, los motores de microwarp y los de microsalto.",
+    "fr": "Le module perturbe l'ordinateur de navigation du vaisseau cible pour désactiver ses capacités de warp et de saut, ainsi que son propulseur de micro-warp et son propulseur de micro-sauts.",
+    "ja": "ターゲットとなる艦船のナビゲーションコンピューター、ワープ、ジャンプ、マイクロワープドライブ、マイクロジャンプドライブを妨害する。",
+    "ko": "대상의 항법 시스템을 교란하여 워프, 점프, 마이크로 워프, 마이크로 점프 능력을 차단합니다.",
+    "ru": "Вносит помехи в работу навигационного компьютера корабля-цели, делая невозможным переход в варп-режим, использование гипердвигателей, микроварп-ускорителей и маневровых гипердвигателей.",
+    "zh": "干扰对方舰船的导航计算机，防止其跃迁、跳跃、使用微型跃迁推进器或微型跳跃引擎。"
+  },
+  "groupID": 52,
+  "iconID": 3433,
+  "marketGroupID": 1936,
+  "metaGroupID": 1,
   "name": {
     "de": "Heavy J5b Enduring Warp Scrambler",
     "en": "Heavy J5b Enduring Warp Scrambler",
@@ -10,5 +23,8 @@
     "ru": "Heavy J5b Enduring Warp Scrambler",
     "zh": "重型J5b持久型跃迁扰频器"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 40750,
   "volume": 100.0
 }

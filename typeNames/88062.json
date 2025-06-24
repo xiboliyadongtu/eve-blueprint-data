@@ -1,5 +1,20 @@
 {
-  "typeID": 88062,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Ein Datenspeicher, der vom Expeditionsteam zurückgelassen wurde, das dieses Gebiet besucht hat. Um herauszufinden, was sich darin befindet, müssen Sie den Container mit einem Datenanalysegerät hacken.",
+    "en": "An abandoned data cache left behind by the expedition team that once visited this site.\r\n\r\nTo find out what is inside you will have to hack the container with a data analyzer.",
+    "es": "Un contenedor de datos abandonado perteneciente al equipo de expedición que una vez visitó esta zona.\r\n\r\nPara saber qué hay dentro, tendrás que hackear el contenedor con un analizador de datos.",
+    "fr": "Une cache de données abandonnée par l'équipe d'expédition qui a autrefois visité ce site. Pour découvrir ce qu'elle renferme, il vous faudra pirater le conteneur avec un analyseur de données.",
+    "ja": "以前このサイトを訪れた遠征チームが残した、放棄されたデータキャッシュ。\r\n\r\n中にあるものを確認するには、データアナライザーを使ってこのコンテナをハッキングするしかない。",
+    "ko": "예전에 사이트를 방문한 탐사팀이 남긴 버려진 데이터 캐시입니다.\r\n\r\n데이터 분석기로 상자를 해킹해 내부에 탑재된 정보를 확인할 수 있습니다.",
+    "ru": "Этот блок данных забыла исследовательская группа, некогда здесь побывавшая. Взломайте контейнер с помощью анализатора данных, чтобы получить доступ к его содержимому.",
+    "zh": "曾经来过这里的远征队留下的废弃数据缓存。要想知道里面的内容，就得先用数据分析仪破译这个容器。"
+  },
+  "factionID": 500021,
+  "graphicID": 22313,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Expedition Research Cache",
     "en": "Expedition Research Cache",
@@ -10,5 +25,8 @@
     "ru": "Expedition Research Cache",
     "zh": "远征研究缓存"
   },
+  "portionSize": 1,
+  "published": false,
+  "sofFactionName": "triglavianbase",
   "volume": 27500.0
 }

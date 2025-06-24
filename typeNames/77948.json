@@ -1,5 +1,19 @@
 {
-  "typeID": 77948,
+  "basePrice": 350000.0,
+  "description": {
+    "de": "Ein isolierter Vorgang einer Reihe komplexer Transaktionen, durchgeführt von einer unbekannten Caldari-Megacorporation. Für sich betrachtet ist der Vorgang unbedeutend, aber wenn dies öfter vorkommt, könnte die Föderation eine Transaktionskette aufbauen, mit der die Credits zu ihrer Quelle rückverfolgbar wären.",
+    "en": "An isolated thread from a series of complex transactions carried out by an unknown Caldari megacorporation. \r\n\r\nBy itself the thread is meaningless but with enough of them, the Federation could begin to establish a chain of transactions that traces the credits back to their source.",
+    "es": "Secuencia aislada de una serie de transacciones complejas que llevó a cabo una megacorporación caldari desconocida. \r\n\r\nPor sí misma, la secuencia no tiene sentido, pero con suficientes, la Federación podría empezar a establecer una cadena de transacciones para llegar hasta el origen.",
+    "fr": "Un fil isolé d'une série de transactions complexes effectuées par une mégacorporation caldari inconnue. En soi, le fil n'apporte aucune information, mais en réunissant suffisamment d'entre eux, la Fédération pourrait commencer à établir une chaîne de transactions remontant jusqu'à leur source.",
+    "ja": "カルダリの正体不明のメガコーポレーションが行った、一連の複雑な取引の断片的な記録。 \r\n\r\n単体では意味をなさないが、十分な量があれば、連邦が取引同士の関連性を確認し、金の流れを通じて大本までさかのぼる切っ掛けとなるだろう。",
+    "ko": "정체를 감춘 칼다리 메가코퍼레이션의 복잡한 거래 명세의 일부입니다.<br><br>전체 내용을 파악할 수 없는 파편에 불과하지만, 충분히 모으면 연방이 거래 과정을 추적해 자금의 출처를 밝혀낼 수 있을 것입니다.",
+    "ru": "Изолированный канал из сложной сети переводов, организованной неизвестной калдарской мегакорпорацией. Сам по себе этот канал бесполезен, но, если их наберётся достаточное количество, Федерация сможет начать устанавливать цепочку переводов и в конце концов отследить, откуда отправлялись средства.",
+    "zh": "一个单独的线程，从某个不知名加达里超级集团进行的系列复杂交易中提取而来。线程本身没有任何意义，但只要累积的数量足够多，联邦就可以据此开始建立一个交易链，追踪这些资金的来源。"
+  },
+  "groupID": 4575,
+  "iconID": 2038,
+  "marketGroupID": 1863,
+  "mass": 1.0,
   "name": {
     "de": "Megacorp Transaction Thread",
     "en": "Megacorp Transaction Thread",
@@ -10,5 +24,7 @@
     "ru": "Megacorp Transaction Thread",
     "zh": "超级集团交易线程"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

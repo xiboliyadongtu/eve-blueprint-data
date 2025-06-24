@@ -1,5 +1,18 @@
 {
-  "typeID": 34453,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Diese mysteriöse, aber hochentwickelte Struktur verfügt über enormes Reparatur- und Schutzpotential für Schiffe in seiner Nähe, das aber nur eine sehr kurze Zeit lang anhält. Sie wird durch einen erfolgreichen Hackversuch aktiviert. Dies sollte nur in einer aussichtslosen Situation getan werden.",
+    "en": "This enigmatic, but highly advanced structure has massive repairing and protection capabilities for ships in its vicinity, but will only last for a very short time. It can be activated by successfully hacking it. This should be done only when in a dire situation.",
+    "es": "Esta estructura, enigmática pero muy avanzada, tiene una gran capacidad de reparación y protección de naves que se encuentran en sus inmediaciones, pero solo dura un breve periodo de tiempo. Se puede activar hackeándola. Esto solo debería hacerse en situaciones desesperadas.",
+    "fr": "Cette structure énigmatique, quoique très avancée, possède des capacités de réparation et de protection énormes pour les vaisseaux dans sa proximité. Cependant, celles-ci ne durent que très peu de temps. Elles ne peuvent être activées que par un piratage réussi. Ceci ne peut être effectué que dans une situation désespérée.",
+    "ja": "高い技術に基づく、謎めいたストラクチャ。付近の艦船に対する修復力と防衛力は絶大だが、非常に短い間しか持続しない。ハッキングにより起動することができる。緊急事態が発生したときにのみ使用すること。",
+    "ko": "이 불가사의한 첨단 구조물은 근방의 수 많은 함선을 동시에 수리하고 보호할 수 있으나 효과의 지속 시간이 매우 짧습니다. 해킹을 통해 활성화할 수 있습니다. 매우 급박한 상황에서만 활용하시기 바랍니다.",
+    "ru": "Это загадочное, но несомненно высокотехнологическое сооружение предоставляет близлежащим кораблям предельно эффективный ремонт и защиту — но лишь на исключительно краткое время. Успешный взлом позволит его включить. Делать это стоит только в качестве акта последней надежды.",
+    "zh": "这个神秘的高级建筑能够在很短时间内为附近的舰船提供大规模的维修和保护协助。成功破译就能激活它。不过不到万不得已，最好不要使用。"
+  },
+  "graphicID": 1685,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Vessel Rejuvenation Battery",
     "en": "Vessel Rejuvenation Battery",
@@ -10,5 +23,10 @@
     "ru": "Vessel Rejuvenation Battery",
     "zh": "舰船恢复站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 300.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 3350,
+  "basePrice": 125000.0,
+  "description": {
+    "de": "Grundlegende Fertigkeit zur Verstärkung der Schilde verbündeter Schiffe. Verleiht einen Bonus von 10 % pro Stufe auf die Dauer der Effekte von Schildkommandostrahlen.",
+    "en": "Basic proficiency at boosting the shield defenses of allied ships. Grants a 10% bonus to the duration of Shield Command Burst effects per level.",
+    "es": "Habilidad básica para potenciar las defensas de escudo de las naves aliadas. Concede una bonificación del 10 % a la duración de los efectos del estallido de mando de escudo por nivel.",
+    "fr": "Maîtrise basique de la projection de boucliers dédiée au renforcement des boucliers défensifs des vaisseaux alliés. Augmente de 10 % par niveau la durée des effets des salves de commandement de boucliers.",
+    "ja": "味方艦船のシールド防御力を向上させる基礎的な能力。レベル上昇ごとにシールドコマンドバーストの持続時間が10%増加。",
+    "ko": "아군 함선의 실드 성능을 향상하기 위한 스킬입니다. 매 레벨마다 실드 버스트 지속시간 10% 증가",
+    "ru": "Основы повышения эффективности щитов союзных кораблей. За каждую степень освоения навыка: на 10% повышается длительность действия импульсов, генерируемых импульсными оптимизаторами щитов.",
+    "zh": "精通于增强所有友方舰船的护盾防御能力的基本技能。每升一级，护盾指挥脉冲波的效果持续时间增加10%。"
+  },
+  "groupID": 258,
+  "iconID": 33,
+  "marketGroupID": 370,
   "name": {
     "de": "Shield Command",
     "en": "Shield Command",
@@ -10,5 +23,7 @@
     "ru": "Оптимизация силовой защиты флотов",
     "zh": "护盾指挥"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

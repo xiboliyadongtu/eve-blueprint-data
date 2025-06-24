@@ -1,5 +1,18 @@
 {
-  "typeID": 33098,
+  "basePrice": 2500000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Minmatar-Schlachtkreuzern.",
+    "en": "Skill at operating Minmatar battlecruisers.",
+    "es": "Habilidad en el manejo de cruceros de combate minmatarianos.",
+    "fr": "Compétence liée au pilotage des croiseurs de bataille minmatar. Formation impossible sur les comptes d'évaluation.",
+    "ja": "ミンマター巡洋戦艦を操作するスキル。",
+    "ko": "민마타 배틀크루저를 운용하기 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на линейных крейсерах производства Республики Минматар.",
+    "zh": "操作米玛塔尔战列巡洋舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Minmatar Battlecruiser",
     "en": "Minmatar Battlecruiser",
@@ -10,5 +23,8 @@
     "ru": "Минматарские линейные крейсеры",
     "zh": "米玛塔尔战列巡洋舰操作"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
   "volume": 0.01
 }

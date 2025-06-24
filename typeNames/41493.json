@@ -1,5 +1,20 @@
 {
-  "typeID": 41493,
+  "basePrice": 70258.0,
+  "capacity": 640.0,
+  "description": {
+    "de": "Bewirkt eine Soforteinspeisung von Energie in den Energiespeicher. Hinweis: Kann nur in Schiffe der Capital-Klasse eingebaut werden.",
+    "en": "Provides a quick injection of power into the capacitor.\r\n\r\nNote: May only be fitted to capital class ships.",
+    "es": "Inyectan rápidamente potencia en el condensador.\n\nAviso: Solo se puede equipar en naves capitales.",
+    "fr": "Permet de faire bénéficier le capaciteur d'un surcroît de puissance temporaire. Attention : Ne convient qu'aux vaisseaux de classe capitale.",
+    "ja": "キャパシタを急速充電することができる。\r\n\n注：主力艦にのみ搭載可能。",
+    "ko": "캐패시터에 추가 전력을 주입합니다. <br><br>참고: 캐피탈급 함선에만 장착이 가능합니다.",
+    "ru": "Обеспечивает быстрое введение небольшого заряда энергии в накопитель. Примечание: можно установить только на корабли большого тоннажа.",
+    "zh": "给电容器快速地注入能量。\n\n\n\n注：只能装配在旗舰级舰船上。"
+  },
+  "groupID": 76,
+  "iconID": 1031,
+  "marketGroupID": 2243,
+  "metaGroupID": 2,
   "name": {
     "de": "Capital Capacitor Booster II",
     "en": "Capital Capacitor Booster II",
@@ -10,5 +25,9 @@
     "ru": "Capital Capacitor Booster II",
     "zh": "旗舰级电容注电器 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "variationParentTypeID": 41491,
   "volume": 4000.0
 }

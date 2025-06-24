@@ -1,5 +1,49 @@
 {
-  "typeID": 20187,
+  "basePrice": 1943000000.0,
+  "capacity": 440000.0,
+  "description": {
+    "de": "Die Obelisk wurde von der Föderation als Antwort auf den Charon-Frachter des Staats der Caldari gebaut. Er hat zwar ähnliche Charakteristika, aber dadurch, dass mehr Wert auf Defensivfähigkeit gelegt wurde, stellt dieses Schwerlastschiff den neuesten und vermutlich besten Stand in der Transporttechnologie der Gallente dar.",
+    "en": "The Obelisk was designed by the Federation in response to the Caldari State's Charon freighter. Possessing similar characteristics but placing a greater emphasis on resilience, this massive juggernaut represents the latest, and arguably finest, step in Gallente transport technology.",
+    "es": "La Obelisk fue diseñada por la Federación en respuesta al carguero Charon del Estado Caldari. Este coloso posee características similares, pero da mayor importancia a la resistencia, y representa la tecnología de transporte gallente más avanzada y sofisticada.",
+    "fr": "La Fédération conçut l'Obelisk dans l'espoir de rivaliser avec le cargo Charon de l'État caldari. Ce mastodonte possède des caractéristiques similaires au Charon mais une résilience supérieure. Il constitue à ce jour l'un des fleurons de la Fédération gallente dans le domaine du transport spatial.",
+    "ja": "オベリスクとはカルダリ連合のカロン級超大型輸送艦に対抗して連邦が開発したものだ。この巨大艦船は似通った特徴を持っているが堅牢性に重点を置いて設計されており、間違いなくガレンテの輸送技術の最先端を行くものである。",
+    "ko": "오벨리스크는 칼다리 카론에 대응하기 위한 목적으로 설계된 갈란테 프레이터입니다. 기본적으로 카론과 성능은 비슷하나 방어에 보다 많은 부분이 치중되어 있습니다. 최첨단 기술이 투입된 오벨리스크는 갈란테 프레이터 가운데 최상의 성능을 자랑합니다.",
+    "ru": "Фрейтер типа «Обелиск» был разработан Галлентской Федерацией в ответ на то, что Государство Калдари спустило со стапелей его одноклассник, «Харон». Галлентский грузовой монстр очень похож по ТТХ на соперника, но более прочен. Это самый современный и, по-видимому, самый совершенный образец галлентских транспортных кораблей.",
+    "zh": "针对加达里的货舰渡神级，联邦设计了方尖塔级。两者拥有相似的特性，但方尖塔级货舰的适应力更佳。这个庞然大物代表了盖伦特最新最优秀的运输技术。"
+  },
+  "factionID": 500004,
+  "graphicID": 2739,
+  "groupID": 513,
+  "marketGroupID": 769,
+  "mass": 940000000.0,
+  "masteries": {
+    "0": [
+      117,
+      118,
+      151
+    ],
+    "1": [
+      117,
+      118,
+      151
+    ],
+    "2": [
+      117,
+      118,
+      151
+    ],
+    "3": [
+      117,
+      118,
+      151
+    ],
+    "4": [
+      117,
+      118,
+      151
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Obelisk",
     "en": "Obelisk",
@@ -9,6 +53,80 @@
     "ko": "오벨리스크",
     "ru": "Obelisk",
     "zh": "方尖塔级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 581.0,
+  "sofFactionName": "gallentebase",
+  "soundID": 20073,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonus": 100,
+        "bonusText": {
+          "de": "Reduktion des CPU-Bedarfs für <a href=showinfo:1333>Verstärkte Schotten</a>",
+          "en": "reduction in <a href=showinfo:1333>Reinforced Bulkhead</a> CPU requirements",
+          "es": "de reducción de los requisitos de CPU del <a href=showinfo:1333>mamparo reforzado</a>.",
+          "fr": "réduction de la charge CPU requise pour les <a href=showinfo:1333>cloisons renforcées</a>",
+          "ja": "<a href=showinfo:1333>強化隔壁</a>のCPU要件が減少",
+          "ko": "<a href=showinfo:1333>강화 격벽</a> CPU 사용량 감소",
+          "ru": "сокращается потребность <a href=showinfo:1333>усиленных переборок</a> в мощностях ЦПУ",
+          "zh": "<a href=\"showinfo:1333\">加强型舱隔壁</a>的CPU需求降低"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 90,
+        "bonusText": {
+          "de": "Reduktion der effektiv zurückgelegten Distanz für die Sprungerschöpfung",
+          "en": "reduction to effective distance traveled for jump fatigue",
+          "es": "de reducción de la distancia efectiva hasta sufrir fatiga de salto.",
+          "fr": "de réduction de la distance effectuée pour l'épuisement de saut",
+          "ja": "ジャンプによる疲弊が飛行距離に及ぼす影響を低減",
+          "ko": "이동 거리에 따른 점프 피로도 감소",
+          "ru": "медленнее накапливается усталость от гиперпереходов",
+          "zh": "减少跳跃距离对产生跳跃疲劳的影响"
+        },
+        "importance": 2,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "20527": [
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die Frachtraumkapazität des Schiffs",
+            "en": "bonus to ship cargo capacity",
+            "es": "de bonificación a la capacidad de carga de la nave.",
+            "fr": "de bonus à la capacité de la soute du vaisseau",
+            "ja": "艦船のカーゴ容量が増加",
+            "ko": "화물 적재량 증가",
+            "ru": "увеличивается вместимость грузового отсека корабля",
+            "zh": "舰船货柜舱容量加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die Maximalgeschwindigkeit des Schiffs",
+            "en": "bonus to ship max velocity",
+            "es": "de bonificación a la velocidad máxima de la nave.",
+            "fr": "de bonus à la vitesse maximale du vaisseau",
+            "ja": "艦船の最高速度が上昇",
+            "ko": "최대 속도 증가",
+            "ru": "увеличивается скорость полного хода корабля",
+            "zh": "舰船最大速度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 17550000.0
 }

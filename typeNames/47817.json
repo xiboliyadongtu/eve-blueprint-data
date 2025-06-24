@@ -1,5 +1,17 @@
 {
-  "typeID": 47817,
+  "description": {
+    "de": "Erhöht den Maximalwert für die Stärke der Panzerung. Nachteil: Die Masse Ihres Schiffes nimmt zu, es ist nicht mehr so wendig und schwieriger zu steuern. Außerdem sind Geschwindigkeitsmodule wie Nachbrenner oder Mikrowarpantriebe nun weniger wirkungsvoll.",
+    "en": "Increases the maximum strength of the Armor.\r\n\r\nPenalty: Adds to your ship's mass, making it less agile and maneuverable in addition to decreasing the factor of thrust gained from speed modules like Afterburners and MicroWarpdrives.",
+    "es": "Aumenta la fuerza máxima del blindaje.\n\nPenalización: Añade peso a tu nave, lo que hace que sea menos ágil y manejable, además de reducir el impulso obtenido de módulos de velocidad como posquemadores y motores de microwarp.",
+    "fr": "Augmente la puissance maximale du blindage. Pénalité : augmente la masse du vaisseau, le rendant moins agile et moins maniable en plus de diminuer le facteur de poussée délivré par les modules de vitesse tels que les systèmes de post-combustion et les micropropulseurs de warp.",
+    "ja": "アーマーの最大強度を向上させる。\r\n\nペナルティ：船の質量が増すため、機動性や操作性が低下する。また、アフターバーナーやマイクロワープドライブなどの加速モジュールによる推進力も低減する。",
+    "ko": "장갑 내구도가 증가합니다. <br><br>페널티: 함선 무게 증가로 인해 속도 및 선회력이 감소합니다. 애프터버너 또는 마이크로 워프드라이브로 얻는 추진력 또한 감소합니다.",
+    "ru": "Увеличивает максимальную силу брони. Штраф: увеличивает массу вашего корабля, в результате чего он становится менее подвижным и манёвренным, а эффективность ускоряющих модулей, таких как форсажные ускорители и микроварп-ускорители, снижается.",
+    "zh": "增加装甲的最大强度。\n\n\n\n惩罚：增加舰船质量，使其灵活性和机动能力降低，减少诸如加力燃烧器和微型跃迁推进器等速度装备的推力加成效果。"
+  },
+  "groupID": 329,
+  "iconID": 79,
+  "metaGroupID": 15,
   "name": {
     "de": "Medium Abyssal Armor Plates",
     "en": "Medium Abyssal Armor Plates",
@@ -10,5 +22,7 @@
     "ru": "Medium Abyssal Armor Plates",
     "zh": "中型深渊装甲附甲板"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 10.0
 }

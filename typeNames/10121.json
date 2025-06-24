@@ -1,5 +1,16 @@
 {
-  "typeID": 10121,
+  "description": {
+    "de": "Dieser massige Felsbrocken scheint von Raubdrohnen eingenommen worden zu sein.",
+    "en": "This massive hulk of rock appears to be infested with rogue drones.",
+    "es": "Parece que esta gigantesca mole rocosa está infestada de drones rebeldes.",
+    "fr": "Cet énorme bloc de roche semble infesté par des drones renégats.",
+    "ja": "巨大な岩石。多数のローグドローンが住み着いている。",
+    "ko": "로그 드론에 의해 감염된 거대한 암석입니다.",
+    "ru": "Этот массивный кусок скалы, кажется, населен восставшими дронами.",
+    "zh": "这块巨大的岩石看上去被自由无人机占据了。"
+  },
+  "graphicID": 1682,
+  "groupID": 226,
   "name": {
     "de": "Small Asteroid w/Drone-tech",
     "en": "Small Asteroid w/Drone-tech",
@@ -10,5 +21,8 @@
     "ru": "Small Asteroid w/Drone-tech",
     "zh": "小行星—无人机技术"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 44.0,
+  "sofFactionName": "genericbase"
 }

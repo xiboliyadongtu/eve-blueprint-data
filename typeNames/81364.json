@@ -1,5 +1,18 @@
 {
-  "typeID": 81364,
+  "basePrice": 20000000.0,
+  "description": {
+    "de": "Fortgeschrittener Skill zur Produktion mehrerer SKINs in einem einzigen Sequenzierungsauftrag. Erhöht die maximalen SKINs pro Sequenzierung um zusätzliche 25 auf Skillstufe 1, 25 auf Stufe 2, 50 auf Stufe 3, 50 auf Stufe 4 und 100 auf Stufe 5.",
+    "en": "Intermediary skill in producing multiple SKINs in a single sequencing job.\r\n\r\nIncreases maximum SKINs per sequencing by an additional 25 at skill level 1, 25 at level 2, 50 at level 3, 50 at level 4, and 100 at level 5.",
+    "es": "Habilidad intermedia para producir múltiples SKIN en un solo trabajo de secuenciación.\r\n\r\nAumenta el máximo de SKIN por secuenciación en 25 adicionales en el nivel de habilidad 1, 25 en el nivel 2, 50 en el nivel 3, 50 en el nivel 4 y 100 en el nivel 5.",
+    "fr": "Compétence intermédiaire pour produire plusieurs SKINS lors d'une même tâche de séquençage. Augmente le nombre maximal de SKINS par séquençage de 25 supplémentaires au niveau de compétence 1, 25 au niveau 2, 50 au niveau 3, 50 au niveau 4 et 100 au niveau 5.",
+    "ja": "1回のシーケンシングジョブで複数のSKINを制作することに関する中級スキル。\r\n\r\nシーケンシング1回あたりのSKINの最大数がレベル1で25個、レベル2で25個、レベル3で50個、レベル4で50個、レベル5で100個増える。",
+    "ko": "SKIN 각인 시 다량의 SKIN을 동시에 제작할 수 있도록 해주는 중급 스킬입니다.<br><br>스킬 레벨에 따라 제작할 수 있는 SKIN의 수량이 증가합니다. 레벨 1: +25, 레벨 2: +25, 레벨 3: +50, 레벨 4: +50, 레벨 5: +100",
+    "ru": "Навык среднего уровня по созданию серии окрасок в одном проекте по генерации последовательности. Увеличивает максимальное количество окрасок в проекте на 25 за 1-ю степень освоения навыка, на 25 за 2-ю степень, на 50 за 3-ю степень, на 50 за 4-ю степень и на 100 за 5-ю степень.",
+    "zh": "中级技能，可在单次排序中高效排序多个涂装。随着技能等级提升，单次排序的涂装上限将逐步增加：1级+25，2级+25，3级+50，4级+50，5级+100。"
+  },
+  "groupID": 4734,
+  "iconID": 33,
+  "marketGroupID": 3656,
   "name": {
     "de": "Mass Sequencing",
     "en": "Mass Sequencing",
@@ -10,5 +23,7 @@
     "ru": "Массовая генерация",
     "zh": "规模排序"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

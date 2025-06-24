@@ -1,5 +1,17 @@
 {
-  "typeID": 351700,
+  "basePrice": 3210.0,
+  "description": {
+    "de": "Erhöht die maximale Stromnetzleistung des Dropsuits.",
+    "en": "Increases dropsuit's maximum powergrid output.",
+    "es": "Aumenta el rendimiento del sistema de potencia máximo del traje.",
+    "fr": "Augmente le rendement maximal du réseau d'alimentation de la combinaison.",
+    "it": "Aumenta il rendimento massimo della rete energetica dell'armatura.",
+    "ja": "降下スーツのパワーグリッド最大出力を増やす。",
+    "ko": "강하슈트의 최대 파워그리드 용량이 증가합니다.",
+    "ru": "Увеличивает мощность энергосети десантного скафандра.",
+    "zh": "增加作战服能量栅格的最大输出。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Verbessertes PG-Upgrade",
     "en": "Enhanced PG Upgrade",
@@ -11,5 +23,7 @@
     "ru": "Пакет модернизации энергосети, улучшенный",
     "zh": "增强型PG升级件"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 21667,
+  "basePrice": 15000000.0,
+  "description": {
+    "de": "Bedienung von Projektilwaffentürmen auf Capital-Schiffen. 5% Bonus auf die Schadenswirkung von Capital Projektilwaffentürmen je Skillstufe.",
+    "en": "Operation of capital projectile turrets. 5% Bonus to capital projectile turret damage per level.",
+    "es": "Funcionamiento de torretas de proyectiles de naves capitales. 5 % de bonificación al daño de torretas de proyectiles de naves capitales por nivel de habilidad.",
+    "fr": "Aptitude à utiliser les tourelles à projectiles capitales. Augmente de 5 % par niveau les dégâts des tourelles à projectiles capitales.",
+    "ja": "キャピタルプロジェクタイルタレットを操作するスキル。レベル上昇ごとにキャピタルプロジェクタイルタレットのダメージが5%増加。",
+    "ko": "캐피탈 발사체 터렛을 운용하기 위한 스킬입니다. 매 레벨마다 캐피탈 발사체 터렛 피해량 5% 증가",
+    "ru": "Навык эксплуатации сверхбольших баллистических орудий. За каждую степень освоения навыка: на 5% повышается урон сверхбольших баллистических орудий.",
+    "zh": "操作旗舰级射弹炮台的技能。每升一级，旗舰级射弹炮台的伤害提高5%。"
+  },
+  "groupID": 255,
+  "iconID": 33,
+  "marketGroupID": 364,
   "name": {
     "de": "Capital Projectile Turret",
     "en": "Capital Projectile Turret",
@@ -10,5 +23,8 @@
     "ru": "Сверхбольшие баллистические орудия",
     "zh": "旗舰级射弹炮台研究"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

@@ -1,5 +1,21 @@
 {
-  "typeID": 27427,
+  "basePrice": 7500.0,
+  "description": {
+    "de": "Eine sehr einfache Rakete für große Werfer mit mäßiger Ladekapazität. Verwendet das heute als veraltet geltende Bulls-Eye-Zielsystem.",
+    "en": "A very basic missile for large launchers with reasonable payload. Utilizes the now substandard technology of bulls-eye guidance systems.",
+    "es": "Un misil muy básico para lanzamisiles de gran tamaño con una carga útil razonable. Utiliza una tecnología de sistemas de guiado al blanco de calidad inferior actual.",
+    "fr": "Missile basique doté d'une charge utile correcte et destiné aux gros lanceurs. Il fait appel à la technologie désormais déclassée de systèmes de guidage de haute précision.",
+    "ja": "大型ランチャー用のごく標準的なミサイルで、威力も手頃。誘導システムはいささか旧式で、現代の基準からいうと精度に劣る。",
+    "ko": "대형 미사일 런처에 탑재되는 기본형 미사일로 평균적인 파괴력을 자랑합니다. 구형 불스아이 유도시스템을 탑재하고 있습니다.",
+    "ru": "Довольно примитивная ракета с мощной боеголовкой для больших пусковых установок. Использует уже устаревшую технологию наведения.",
+    "zh": "一种配合大型发射架使用，载荷量适中的基础型导弹。使用了如今已经不合标准的牛眼制导系统。"
+  },
+  "graphicID": 20042,
+  "groupID": 386,
+  "iconID": 185,
+  "marketGroupID": 1001,
+  "mass": 1250.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Guristas Nova Cruise Missile",
     "en": "Guristas Nova Cruise Missile",
@@ -10,5 +26,9 @@
     "ru": "Guristas Nova Cruise Missile",
     "zh": "古斯塔斯星爆巡航导弹"
   },
+  "portionSize": 100,
+  "published": true,
+  "radius": 300.0,
+  "variationParentTypeID": 205,
   "volume": 0.05
 }

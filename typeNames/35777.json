@@ -1,5 +1,16 @@
 {
-  "typeID": 35777,
+  "description": {
+    "de": "Diese Konstruktion verwendet elektromagnetische Leiterbahnen, um Energie von der Sonne dieses Systems zu gewinnen.",
+    "en": "This construction uses electromagnetic conductors to harvest solar power from the system's sun.",
+    "es": "Esta construcción utiliza conductores electromagnéticos para recolectar energía del sol del sistema.",
+    "fr": "Cette construction utilise des conducteurs électromagnétiques pour collecter de l'énergie solaire.",
+    "ja": "EM伝導体を使用するこの建造物は、システム内の太陽からソーラーエネルギーを得ることができる。",
+    "ko": "이 구조물은 EM 전도체를 활용하여 태양열을 흡수합니다.",
+    "ru": "Гигантское сооружение, накапливающее энергию ближайшей звезды при помощи нескольких приёмников электромагнитного излучения.",
+    "zh": "这座建筑运用了电磁导体来采集恒星能源。"
+  },
+  "graphicID": 21153,
+  "groupID": 226,
   "name": {
     "de": "Sail Charger",
     "en": "Sail Charger",
@@ -10,5 +21,9 @@
     "ru": "Парусный зарядник",
     "zh": "充电器"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 120.0,
+  "sofFactionName": "genericmetal"
 }

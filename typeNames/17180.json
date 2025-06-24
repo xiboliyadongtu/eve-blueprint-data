@@ -1,5 +1,20 @@
 {
-  "typeID": 17180,
+  "basePrice": 1250000.0,
+  "description": {
+    "de": "Stationierbare Struktur, die feindliche Sensoren durchgehend schwächt.",
+    "en": "Deployable structure that cycle dampens enemy sensors.",
+    "es": "Estructura desplegable que atenúa cíclicamente los sensores enemigos.",
+    "fr": "Structure mobile permettant d'atténuer l'efficacité des détecteurs ennemis.",
+    "ja": "敵のセンサーを一定周期で無力化できる配置可能施設。",
+    "ko": "주기적으로 적의 센서를 교란하는 전개형 구조물입니다.",
+    "ru": "Модуль базы, используемый для глушения вражеских сенсоров.",
+    "zh": "循环抑阻敌方感应器的可部署结构。"
+  },
+  "graphicID": 2613,
+  "groupID": 440,
+  "marketGroupID": 481,
+  "mass": 100000000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Sensor Dampening Battery",
     "en": "Sensor Dampening Battery",
@@ -10,5 +25,9 @@
     "ru": "Sensor Dampening Battery",
     "zh": "感应抑阻波发射台"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 629.0,
+  "sofFactionName": "genericbase",
   "volume": 4000.0
 }

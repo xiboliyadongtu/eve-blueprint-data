@@ -1,5 +1,75 @@
 {
-  "typeID": 630,
+  "basePrice": 8000000.0,
+  "capacity": 315.0,
+  "description": {
+    "de": "Als vielseitiges Schiff setzen die Minmatar die Bellicose zum Kampf sowie zur Unterstützung für Fregattengeschwader ein. Obwohl die Bellicose neueren Navy-Kreuzern nichts entgegenzusetzen hat, ist sie immer noch ein solides Schiff mit vielfältigen Einsatzmöglichkeiten, vor allem im in Gefechten auf lange Distanzen.",
+    "en": "Being a highly versatile class of Minmatar ships, the Bellicose has been used as a combat juggernaut as well as a support ship for wings of frigates. While not quite in the league of newer navy cruisers, the Bellicose is still a very solid ship for most purposes, especially in terms of long range combat.",
+    "es": "La Bellicose, una clase muy versátil de naves minmatarianas, se ha usado como gigante de combate y también como nave de apoyo para alas de fragatas. Aunque no está en la liga de los cruceros de la Armada más recientes, la Bellicose sigue siendo una nave muy resistente en la mayoría de los casos, especialmente en términos de combate a larga distancia.",
+    "fr": "Le Bellicose est un vaisseau minmatar si polyvalent qu'il a été aussi bien utilisé comme vaisseau de combat lourd qu’en soutien pour les escadres de frégates. Bien qu'il soit dépassé par les croiseurs dernier cri, le Bellicose demeure un vaisseau très robuste et adapté à de nombreuses missions, et plus particulièrement au combat à longue portée.",
+    "ja": "ベリコース級はミンマター船の中でも汎用性が高く、突撃艦としても、フリゲート隊の支援艦としても利用されてきた。最新の海軍巡洋艦に比肩するほどではないにせよ、今も大抵の用途に使い回しが利く極めて実用的な艦船であり、特に長距離での射撃戦では活躍する。",
+    "ko": "벨리코즈는 민마타 함선 중에서 유연성이 돋보이는 함선으로 치열한 전투 임무는 물론 프리깃 편대를 지원하는 역할도 수행할 수 있습니다. 비록 벨리코즈는 최신 설계가 적용된 해군 크루저는 아니지만 뛰어난 범용성과 장거리 공격 성능으로 군 내에서 공고한 위치를 확보하고 있습니다.",
+    "ru": "Крейсеры типа «Белликоуз» отличаются многофункциональностью и используются в лобовом наступлении, а также для поддержки эскадрилий фрегатов. Несмотря на некоторую архаичность по сравнению с более современными флотскими крейсерами, «Белликоуз» тем не менее всё ещё считается весьма пригодным для большинства получаемых задач, в особенности требующих вести боевые действия на дальних дистанциях.",
+    "zh": "作为多功能的米玛塔尔战舰，挑战级既能成为毁灭性的战斗力量，也能为大队的护卫舰提供支持。虽然它已经不能与新型的海军巡洋舰相提并论，但是挑战级仍然是执行各种任务时的可靠选择，尤其是在远程作战方面。"
+  },
+  "factionID": 500002,
+  "graphicID": 303,
+  "groupID": 26,
+  "marketGroupID": 73,
+  "mass": 11550000.0,
+  "masteries": {
+    "0": [
+      96,
+      150,
+      103,
+      76,
+      141,
+      85,
+      94,
+      165
+    ],
+    "1": [
+      96,
+      150,
+      103,
+      76,
+      141,
+      85,
+      94,
+      165
+    ],
+    "2": [
+      96,
+      150,
+      103,
+      76,
+      141,
+      85,
+      94,
+      165
+    ],
+    "3": [
+      96,
+      150,
+      103,
+      76,
+      141,
+      85,
+      94,
+      165
+    ],
+    "4": [
+      96,
+      150,
+      103,
+      76,
+      141,
+      85,
+      118,
+      94,
+      165
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Bellicose",
     "en": "Bellicose",
@@ -9,6 +79,65 @@
     "ko": "벨리코즈",
     "ru": "Bellicose",
     "zh": "挑战级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 113.0,
+  "sofFactionName": "minmatarbase",
+  "soundID": 20078,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [],
+    "types": {
+      "3333": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf die Feuerrate von schnellen <a href=showinfo:3321>leichten Lenkwaffenwerfern</a>, <a href=showinfo:3324>schweren Lenkwaffenwerfern</a> und <a href=showinfo:25719>schweren Angriffslenkwaffenwerfern</a>",
+            "en": "bonus to Rapid <a href=showinfo:3321>Light Missile</a>, <a href=showinfo:3324>Heavy Missile</a> and <a href=showinfo:25719>Heavy Assault Missile</a> Launcher rate of fire",
+            "es": "de bonificación a la cadencia de tiro rápida de los <a href=showinfo:3321>lanzamisiles ligeros</a>, los <a href=showinfo:3324>lanzamisiles pesados</a> y los <a href=showinfo:25719>lanzamisiles de asalto pesados</a>.",
+            "fr": "de bonus à la cadence de tir des <a href=showinfo:3321>lance-missiles légers</a>, <a href=showinfo:3324>lance-missiles lourds</a> et <a href=showinfo:25719>lance-missiles d'assaut lourds</a> rapides",
+            "ja": "高速<a href=showinfo:3321>ライトミサイル</a>・<a href=showinfo:3324>ヘビーミサイル</a>・<a href=showinfo:25719>ヘビーアサルトミサイル</a>ランチャーの発射間隔が短縮",
+            "ko": "급속 <a href=showinfo:3321>라이트 미사일</a>, <a href=showinfo:3324>헤비 미사일</a>, <a href=showinfo:25719>헤비 어썰트 미사일</a> 런처 연사속도 증가",
+            "ru": "повышается скорострельность скорострельных ПУ <a href=showinfo:3321>лёгких ракет</a>, ПУ <a href=showinfo:25719>тяжёлых штурмовых ракет</a>, ПУ <a href=showinfo:3324>тяжёлых ракет</a>",
+            "zh": "<a href=\"showinfo:3324\">重型导弹发射器</a> 、<a href=\"showinfo:25719\">重型攻击导弹发射器</a>和<a href=\"showinfo:3321\">轻型快速导弹发射器</a>射速加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Effektivität von <a href=showinfo:19921>Zielmarkierungsmodulen</a>",
+            "en": "bonus to <a href=showinfo:19921>Target Painter</a> effectiveness",
+            "es": "de bonificación a la efectividad del <a href=showinfo:19921>revelador de objetivo</a>.",
+            "fr": "de bonus à l'efficacité des <a href=showinfo:19921>marqueurs de cible</a>",
+            "ja": "<a href=showinfo:19921>ターゲットペインター</a>の効果が増加",
+            "ko": "<a href=showinfo:19921>타겟 페인터</a> 효과 증가",
+            "ru": "повышается эффективность действия <a href=showinfo:19921>систем подсветки целей</a>",
+            "zh": "<a href=\"showinfo:19921\">目标标记装置</a>效果加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Explosionsgeschwindigkeit von <a href=showinfo:3324>schweren Lenkwaffen</a> und <a href=showinfo:25719>schweren Angriffslenkwaffen</a>",
+            "en": "bonus to <a href=showinfo:3324>Heavy Missile</a> and <a href=showinfo:25719>Heavy Assault Missile</a> explosion velocity",
+            "es": "de bonificación a la velocidad de explosión de los <a href=showinfo:3324>misiles pesados</a> y los <a href=showinfo:25719>misiles de asalto pesados</a>.",
+            "fr": "de bonus aux dommages des <a href=showinfo:3324>missiles lourds</a> et à la vitesse d'explosion des <a href=showinfo:25719>missiles d'assaut lourds</a>",
+            "ja": "<a href=showinfo:3324>ヘビーミサイル</a>と<a href=showinfo:25719>ヘビーアサルトミサイル</a>の爆発速度上昇",
+            "ko": "<a href=showinfo:3324>헤비 미사일</a> 및 <a href=showinfo:25719>헤비 어썰트 미사일</a> 폭발속도 증가",
+            "ru": "бонус к скорости распространения взрыва <a href=showinfo:3324>тяжёлых ракет</a> и <a href=showinfo:25719>тяжёлых штурмовых ракет</a>",
+            "zh": "<a href=showinfo:3324>重型导弹</a>和<a href=showinfo:25719>重型攻击导弹</a>爆炸速度加成"
+          },
+          "importance": 3,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 85000.0
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 364617,
+  "basePrice": 787000.0,
+  "description": {
+    "de": "Skill in der Bedienung von Gallente-Späherdropsuits. Schaltet den Zugriff auf Gallente-Späherdropsuits frei. Standard ab Stufe 1, erweitert ab Stufe 3 und Prototypen ab Stufe 5. Späherdropsuitbonus: +15% Bonus auf die PG/CPU-Kosten des Tarnungsfelds pro Skillstufe. Gallente-Späherdropsuitbonus: +2% Bonus auf die Scanpräzision und 3% auf das Scanprofil des Dropsuits pro Skillstufe.",
+    "en": "Skill at operating Gallente Scout dropsuits.\n\nUnlocks access to Gallente Scout dropsuits. Standard at lvl.1; advanced at lvl.3; prototype at lvl.5.\n\nScout Suit Bonus: +15% bonus to PG/CPU cost of cloak field per level.\nGallente Scout Bonus: +2% bonus to dropsuit scan precision, 3% to scan profile per level.",
+    "es": "Habilidad de manejo de trajes de salto de explorador Gallente. Desbloquea el acceso a los trajes de salto de explorador Gallente: Estándar en el nivel 1, avanzados en el nivel 3 y prototipos en el nivel 5. Bonificación de traje de explorador: +15% al coste de RA/CPU del campo de visibilidad por nivel. Bonificación de traje de explorador Gallente: +2% a la precisión del escáner del traje de salto, +3% al perfil de emisiones por nivel.",
+    "fr": "Compétence permettant d'utiliser les combinaisons Éclaireur Gallente. Déverrouille l'accès aux combinaisons Éclaireur Gallente. Standard au niv.1 ; avancé au niv.3 ; prototype au niv.5. Bonus combinaison Éclaireur : +15 % de réduction d'utilisation de PG/CPU du champ de camouflage par niveau. Bonus Éclaireur Gallente : +2 % de bonus à la précision de balayage de la combinaison, 3 % de profil de balayage par niveau.",
+    "it": "Abilità nell'utilizzo delle armature da ricognitore Gallente. Sblocca l'accesso alle armature da ricognitore Gallente. Standard al liv. 1; avanzate al liv. 3; prototipo al liv. 5. Bonus armatura da ricognitore: +15% bonus all'utilizzo della rete energetica/CPU del campo di copertura per livello. Bonus ricognitore Gallente: +2% di bonus alla precisione dello scanner dell'armatura, 3% al profilo di scansione per livello.",
+    "ja": "ガレンテスカウト降下スーツを扱うためのスキル。ガレンテスカウト降下スーツが使用できるようになる。レベル1で標準型、レベル3で高性能、レベル5でプロトタイプ。スカウトスーツボーナス: レベル上昇ごとに、クロークフィールドのPG/CPU消費量が15%増加する。ガレンテスカウトボーナス：レベル上昇ごとに、降下スーツスキャン精度が２％、スキャンプロファイルが３％増加する。",
+    "ko": "갈란테 정찰 강하슈트 운용을 위한 스킬입니다. <br><br>갈란테 정찰 강하슈트를 잠금 해제합니다. 레벨 1 - 일반, 레벨 3 - 상급, 레벨 5 - 프로토타입 <br><br>정찰 슈트 보너스:<br><br>매 레벨마다 클로킹 필드 PG/CPU 사용량 15% 감소 <br><br>갈란테 정찰 슈트 보너스:<br><br>매 레벨마다 강하슈트 스캔 정확도 2% 증가 / 스캔 프로필 3% 증가",
+    "ru": "Навык обращения с разведывательными скафандрами Галленте. Позволяет использовать разведывательные скафандры Галленте. Стандартные - на уровне 1; усовершенствованные - на уровне 3; прототипы - на уровне 5. Бонус разведывательного скафандра: 15% снижение расходов ресурсов ЭС/ЦПУ на маскирующее поле на каждый уровень. Бонус к разведывательному скафандру Галленте : +2% к точности сканирования скафандра , 3% к профилю сканирования на каждый уровень.",
+    "zh": "Skill at operating Gallente Scout dropsuits.\n\nUnlocks access to Gallente Scout dropsuits. Standard at lvl.1; advanced at lvl.3; prototype at lvl.5.\n\nScout Suit Bonus: +15% bonus to PG/CPU cost of cloak field per level.\nGallente Scout Bonus: +1% bonus to dropsuit scan radius, 3% to scan profile per level."
+  },
+  "groupID": 351648,
   "name": {
     "de": "Gallente-Späherdropsuits",
     "en": "Gallente Scout Dropsuits",
@@ -11,5 +23,6 @@
     "ru": "Разведывательные скафандры Галленте",
     "zh": "盖伦特侦察兵作战服"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

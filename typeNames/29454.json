@@ -1,5 +1,16 @@
 {
-  "typeID": 29454,
+  "description": {
+    "de": "Eine Barrikade.",
+    "en": "A barricade.",
+    "es": "Una barricada.",
+    "fr": "Barricade.",
+    "ja": "バリケード。",
+    "ko": "바리케이드입니다.",
+    "ru": "Баррикада.",
+    "zh": "阻隔带"
+  },
+  "graphicID": 2464,
+  "groupID": 226,
   "name": {
     "de": "Fortified Gallente Barricade",
     "en": "Fortified Gallente Barricade",
@@ -10,5 +21,9 @@
     "ru": "Fortified Gallente Barricade",
     "zh": "强化的盖伦特阻隔带"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 603.0,
+  "sofFactionName": "gallentebase"
 }

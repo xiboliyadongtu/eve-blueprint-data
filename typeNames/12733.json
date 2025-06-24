@@ -1,5 +1,59 @@
 {
-  "typeID": 12733,
+  "basePrice": 97900000.0,
+  "capacity": 2900.0,
+  "description": {
+    "de": "Blockadebrecher sind die schnellsten verfügbaren Industrieschiffe. Unter Verwendung von leichten, aber widerstandsfähigen Materialien und durch den Verzicht auf einen großen Frachtraum sind diese Transporter in der Lage, eine höhere Geschwindigkeit als Kreuzer zu erreichen, und stecken zudem heftigen Beschuss weg. Damit sind sie perfekt dazu geeignet, mit wertvoller Ladung schnell feindliches Gebiet zu durchqueren.",
+    "en": "Blockade runner transports are the fastest type of industrial available. Utilizing sturdy but lightweight construction materials and sacrificing some cargo space, these haulers are able to reach speeds greater than those of a cruiser while withstanding heavy fire - factors that make them ideal for zipping through dangerous territories with valuable cargo.",
+    "es": "Las naves que transportan naves de bloqueo son el tipo de nave industrial más rápido. Al utilizar materiales de construcción resistentes pero ligeros y sacrificar parte del espacio de carga, estas naves de mercancías pueden alcanzar una velocidad superior a la de un crucero y resistir un fuerte fuego enemigo, lo que las hace ideales para atravesar territorios peligrosos con cargas de valor.",
+    "fr": "Les vaisseaux de transport forceurs de blocus sont les vaisseaux industriels les plus rapides. L'utilisation de matériaux de construction légers et résistants et un espace de soute réduit permettent à ces vaisseaux d'être plus rapides que la plupart des croiseurs tout en résistant à un tir nourri, ce qui rend leur utilisation parfaite pour traverser des territoires dangereux avec de précieuses cargaisons.",
+    "ja": "封鎖突破輸送艦は市販の輸送艦としては最速級である。丈夫で軽量な建造資材を採用し、カーゴスペースを若干犠牲にすることで、集中砲火に耐えつつ巡洋艦の速度を上回るスピードを誇る。そのため、危険宙域で高価な荷物を運ぶには理想の輸送艇である。",
+    "ko": "블록케이드 러너는 인더스트리얼 중 가장 빠른 비행 속도를 가졌습니다. 가볍지만 견고한 소재로 제작되었으며 화물실 용량을 희생함으로써 크루저를 뛰어넘는 비행 속도를 지니게 되었습니다. 또한 뛰어난 방어체계를 바탕으로 값비싼 화물을 싣고 적대적 지역을 통과할 수 있습니다.",
+    "ru": "Корабли прорыва блокады — самый быстрый грузовой транспорт. Эти перевозчики со слегка уменьшенным грузовым отсеком созданы из прочных, но лёгких материалов. Их максимальная скорость выше, чем у крейсеров, а ещё они способны выдерживать шквальный огонь. Такие суда идеально подходят для перевозки ценных грузов по опасным территориям.",
+    "zh": "偷运舰是速度最快的工业舰。这类运载舰使用坚固的轻质建筑材料，牺牲了一些货舱空间，从而可达到超过巡洋舰的速度，并能够承受重型火力的攻击 - 这些因素使其成为运载贵重货物穿梭于危险区域的理想选择。"
+  },
+  "factionID": 500003,
+  "graphicID": 2716,
+  "groupID": 1202,
+  "marketGroupID": 630,
+  "mass": 10750000.0,
+  "masteries": {
+    "0": [
+      96,
+      118,
+      108,
+      117,
+      94
+    ],
+    "1": [
+      96,
+      118,
+      108,
+      117,
+      94
+    ],
+    "2": [
+      96,
+      118,
+      108,
+      117,
+      94
+    ],
+    "3": [
+      96,
+      118,
+      108,
+      117,
+      94
+    ],
+    "4": [
+      96,
+      118,
+      108,
+      117,
+      94
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Prorator",
     "en": "Prorator",
@@ -10,5 +64,151 @@
     "ru": "Prorator",
     "zh": "分裂级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 220.0,
+  "sofFactionName": "viziam",
+  "soundID": 20062,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Es können <a href=showinfo:11578>Covert Ops-Tarnmodule</a> und <a href=showinfo:28646>getarnte Anziehungsfeld-Generatoren</a> eingebaut werden",
+          "en": "Can fit <a href=showinfo:11578>Covert Ops Cloaking Device</a> and <a href=showinfo:28646>Covert Cynosural Field Generator</a>",
+          "es": "Es posible equipar un <a href=showinfo:11578>dispositivo de camuflaje de operaciones encubiertas</a> y un <a href=showinfo:28646>generador de campo cinosural encubierto</a>.",
+          "fr": "Peut équiper des <a href=showinfo:11578>dispositifs de camouflage opérations secrètes</a> et des <a href=showinfo:28646>générateurs de champ cynosural furtif</a>",
+          "ja": "<a href=showinfo:11578>隠密行動用遮蔽装置</a>と<a href=showinfo:28646>潜伏用サイノシュラルフィールドジェネレータ</a>を装備できる",
+          "ko": "<a href=showinfo:11578>코버트 옵스 클로킹 장치</a> 및 <a href=showinfo:11578>코버트 사이노슈럴 필드 생성기</a>장착 가능",
+          "ru": "Корабли этого типа могут оснащаться <a href=showinfo:11578>всережимными системами маскировки</a> и <a href=showinfo:28646>приводными маяками скрытого действия</a>",
+          "zh": "可以装备<a href=\"showinfo:11578\">隐秘行动隐形装置</a>和<a href=\"showinfo:28646\">隐秘诱导力场发生器</a>"
+        },
+        "importance": 1
+      },
+      {
+        "bonusText": {
+          "de": "Die Verzögerung bei Reaktivierung von <a href=showinfo:11579>Tarnmodulen</a> wird auf 5 Sekunden reduziert.",
+          "en": "<a href=showinfo:11579>Cloak</a> reactivation delay reduced to 5 seconds",
+          "es": "Reducción de la demora de reactivación del <a href=showinfo:11579>camuflaje</a> a 5 segundos.",
+          "fr": "Délai de réactivation du <a href=showinfo:11579>camouflage</a> réduit à 5 secondes",
+          "ja": "<a href=showinfo:11579>遮蔽装置</a>の再起動遅延が5秒に短縮",
+          "ko": "<a href=showinfo:11579>클로킹</a> 재가동 지연 시간 5초로 감소",
+          "ru": "Задержка повторного включения <a href=showinfo:11579>систем маскировки</a> сокращена до 5 секунд",
+          "zh": "<a href=\"showinfo:11579\">隐形装置</a>重启延时降到5秒"
+        },
+        "importance": 2
+      },
+      {
+        "bonusText": {
+          "de": "Immun gegen jede Art von <a href=showinfo:442>Frachtscanner</a>",
+          "en": "Immune to all <a href=showinfo:442>Cargo Scanners</a>",
+          "es": "Inmune a todos los <a href=showinfo:442>escáneres de carga</a>.",
+          "fr": "Immunité contre tous les <a href=showinfo:442>scanners de soute</a>",
+          "ja": "全ての<a href=showinfo:442>カーゴスキャナー</a>に対して無効",
+          "ko": "<a href=showinfo:442>화물 스캐너</a> 면역",
+          "ru": "Корабли этого типа оборудованы <a href=showinfo:442>экранированными грузовыми отсеками</a>",
+          "zh": "免疫<a href=\"showinfo:442\">货舱扫描</a>"
+        },
+        "importance": 3
+      },
+      {
+        "bonus": 90,
+        "bonusText": {
+          "de": "Reduktion der effektiv zurückgelegten Distanz für die Sprungerschöpfung",
+          "en": "reduction to effective distance traveled for jump fatigue",
+          "es": "de reducción de la distancia efectiva hasta sufrir fatiga de salto.",
+          "fr": "de réduction de la distance effectuée pour l'épuisement de saut",
+          "ja": "ジャンプによる疲弊が飛行距離に及ぼす影響を低減",
+          "ko": "이동 거리에 따른 점프 피로도 감소",
+          "ru": "медленнее накапливается усталость от гиперпереходов",
+          "zh": "减少跳跃距离对产生跳跃疲劳的影响"
+        },
+        "importance": 4,
+        "unitID": 105
+      },
+      {
+        "bonus": 75,
+        "bonusText": {
+          "de": "Bonus auf die Warpgeschwindigkeit und Warpbeschleunigung",
+          "en": "bonus to warp speed and warp acceleration",
+          "es": "de bonificación a la velocidad y la aceleración de warp.",
+          "fr": "de bonus à la vitesse de warp et à l'accélération de warp",
+          "ja": "ワープ速度とワープ加速度が上昇",
+          "ko": "워프 속도 및 워프 가속도 증가",
+          "ru": "бонус к разгону и скорости хода (в варп-режиме)",
+          "zh": "跃迁速度和跃迁加速加成"
+        },
+        "importance": 5,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3343": [
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die Frachtraumkapazität des Schiffs",
+            "en": "bonus to ship cargo capacity",
+            "es": "de bonificación a la capacidad de carga de la nave.",
+            "fr": "de bonus à la capacité de la soute du vaisseau",
+            "ja": "艦船のカーゴ容量が増加",
+            "ko": "화물 적재량 증가",
+            "ru": "увеличивается вместимость грузового отсека корабля",
+            "zh": "舰船货柜舱容量加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die Maximalgeschwindigkeit des Schiffs",
+            "en": "bonus to ship max velocity",
+            "es": "de bonificación a la velocidad máxima de la nave.",
+            "fr": "de bonus à la vitesse maximale du vaisseau",
+            "ja": "艦船の最高速度が上昇",
+            "ko": "최대 속도 증가",
+            "ru": "увеличивается скорость полного хода корабля",
+            "zh": "舰船最大速度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ],
+      "19719": [
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die Warpgeschwindigkeit und Warpbeschleunigung",
+            "en": "bonus to warp speed and warp acceleration",
+            "es": "de bonificación a la velocidad y la aceleración de warp.",
+            "fr": "de bonus à la vitesse de warp et à l'accélération de warp",
+            "ja": "ワープ速度とワープ加速が上昇",
+            "ko": "워프 속도 및 워프 가속도 증가",
+            "ru": "повышается скорость полёта и ускорение корабля (только в варп-режиме)",
+            "zh": "跃迁速度和跃迁加速加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 20,
+          "bonusText": {
+            "de": "Reduktion des CPU-Bedarfs für <a href=showinfo:11579>Tarnmodule</a>",
+            "en": "reduction in <a href=showinfo:11579>Cloaking Devices</a> CPU requirement",
+            "es": "de reducción del requisito de CPU de los <a href=showinfo:11579>dispositivos de camuflaje</a>.",
+            "fr": "de réduction du CPU requis par les <a href=showinfo:11579>dispositifs de camouflage</a>",
+            "ja": "<a href=showinfo:11579>遮蔽装置</a>のCPU使用量が減少",
+            "ko": "<a href=showinfo:11579>클로킹 장치</a> CPU 사용량 감소",
+            "ru": "сокращается потребность <a href=showinfo:11579>систем маскировки</a> в мощностях ЦПУ",
+            "zh": "<a href=\"showinfo:11579\">隐形装置</a>的CPU需求降低"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 19744,
   "volume": 200000.0
 }

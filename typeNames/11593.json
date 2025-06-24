@@ -1,5 +1,18 @@
 {
-  "typeID": 11593,
+  "capacity": 110.0,
+  "description": {
+    "de": "Dieses Schiff befördert den Dieb, der kürzlich einen großen Coup auf einer nahe gelegenen Raumstation gelandet hat. Auf ihn wurde ein Kopfgeld ausgesetzt und die Identität seines Schiffes allen Kopfgeldjägern übermittelt. Seien Sie aber gewarnt! Das Schiff ist bewaffnet und gefährlich. Versuchen Sie nicht, es abzufangen, es sei denn Sie wissen genau was Sie tun.\r\n\r\nBedrohungsstufe: Hoch",
+    "en": "This is the vessel carrying the thief which recently pulled off an audacious burglary at a nearby station.  A bounty has been put on his head and his ship identity revealed to all bounty hunters.  Bewarned however, the ship is armed and dangerous, do not attempt to intercept it unless you know what you are doing!  Threat level: High",
+    "es": "Esta es la nave que transporta al ladrón que acaba de dar un golpe maestro en una estación cercana. Se ha puesto una recompensa en su cabeza y su identidad se ha revelado a todos los cazarrecompensas. Sin embargo, la nave está armada y es peligrosa, ¡no intentes interceptarla a menos que sepas lo que haces! Nivel de amenaza: alto.",
+    "fr": "Il s'agit du vaisseau transportant le voleur qui a réussi ce très beau cambriolage dans une station du secteur.  Sa tête a été mise à prix et l'identification de son vaisseau a été communiquée à tous les chasseurs de primes.  Faites bien attention. Son vaisseau est armé et dangereux. N'essayez pas de l'intercepter à moins que vous ne sachiez ce que vous faites !  Niveau de menace : élevé",
+    "ja": "近くのステーションで大それた盗みをやってのけたばかりのシーフを乗せた船。その首には懸賞金が賭けられ、艦船の正体は全ての賞金稼ぎに公表された。ただし、武装していて危険な船なので、半端な気持ちで干渉すべきではない。危険度:高い",
+    "ko": "주변 정거장을 말 그대로 탈탈 털어버린 간 큰 도둑입니다. 막대한 현상금이 붙은 상태로 함선 정보 또한 공개가 이루어졌습니다. 그러나 만만히 보면 큰 코 다칠 수 있으니 확실한 상황에서만 공격하십시오! 위험도: 높음",
+    "ru": "Это судно, на борту которого находится грабитель, недавно совершивший кражу со взломом на близлежащей станции. За его голову назначено вознаграждение, а описание его корабля уже передано охотникам за головами. Его корабль вооружён и опасен, не пытайтесь самостоятельно задержать его, если вы не убеждены, что ваши действия увенчаются успехом! Уровень опасности: высокий",
+    "zh": "这艘飞船上载有一个胆大包天的贼，他最近在邻近的空间站内实施了入室行窃。他已被悬赏通缉，其飞船标识也向所有赏金猎人公开。但是请注意，这艘飞船有全副武装，十分危险，除非你有把握，否则不要去尝试拦截它！威胁等级：高"
+  },
+  "graphicID": 338,
+  "groupID": 818,
+  "mass": 1645000.0,
   "name": {
     "de": "The Thief",
     "en": "The Thief",
@@ -10,5 +23,10 @@
     "ru": "The Thief",
     "zh": "盗贼"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 50.0,
+  "sofFactionName": "angelbase",
   "volume": 16450.0
 }

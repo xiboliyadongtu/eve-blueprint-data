@@ -1,5 +1,16 @@
 {
-  "typeID": 60033,
+  "description": {
+    "de": "Dieser Gegenstand kann in einer Station aktiviert werden, um dem Benutzer nicht vergebene Skillpunkte zu verschaffen. Die Injektoren werden sofort verbraucht, sobald sie aktiviert werden.",
+    "en": "This item can be activated in a station to grant the user unallocated skill points. The injectors are consumed immediately once activated.",
+    "es": "Este objeto se puede activar en una estación para otorgar al usuario puntos de habilidad sin asignar. Los inyectores se consumen inmediatamente una vez activados.",
+    "fr": "Une fois activé à bord d'une station, l'injecteur octroie des points de compétence non alloués à l'utilisateur. L'injecteur de compétence est consumé immédiatement après activation.",
+    "ja": "このアイテムをステーションで使用することで、使用者は未割り当てのスキルポイントを入手できる。使用すると、このインジェクターは消滅する。",
+    "ko": "정거장 안에서 사용 시 추가 스킬 포인트를 부여합니다. 주입기는 활성화 시 즉시 사용됩니다.",
+    "ru": "Использовав этот предмет на станции, пилот получает нераспределённые очки навыков. Инъекторы мгновенно расходуются при использовании.",
+    "zh": "这个物品可以在空间站中使用来给予玩家未分配的技能点数。一旦使用后，技能注入器便会消失。"
+  },
+  "groupID": 1739,
+  "iconID": 21731,
   "name": {
     "de": "AIR Skill Injector",
     "en": "AIR Skill Injector",
@@ -10,5 +21,7 @@
     "ru": "AIR Skill Injector",
     "zh": "星空会技能注入器"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.002
 }

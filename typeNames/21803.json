@@ -1,5 +1,18 @@
 {
-  "typeID": 21803,
+  "basePrice": 20000000.0,
+  "description": {
+    "de": "Bedienung von Capital-Panzerungs- und Rumpfreparatursystemen. 5% Reduktion der Dauer von Capital-Reparatursystemen je Skillstufe.",
+    "en": "Operation of capital armor/hull repair modules. 5% reduction in capital repair systems duration per skill level.",
+    "es": "Funcionamiento de módulos de reparación de blindaje/casco capitales. 5 % de reducción de la duración de los sistemas de reparación capitales por nivel de habilidad.",
+    "fr": "Aptitude à utiliser les modules de réparation capitaux du blindage et de la coque. Réduit de 5 % par niveau de compétence la durée nécessaire aux systèmes de réparation capitaux.",
+    "ja": "キャピタルアーマー／船体リペアモジュールを操作するスキル。スキルレベル上昇ごとにキャピタルリペアシステムの起動時間が5%短縮される。",
+    "ko": "캐피탈급 장갑 및 선체 수리 모듈을 운용하기 위한 스킬입니다. 매 레벨마다 캐피탈 수리 시스템 사이클 시간 5% 감소",
+    "ru": "Навык управления сверхбольшими бортовыми системами ремонта брони и корпуса. За каждую степень освоения навыка: на 5% сокращается продолжительность рабочего цикла сверхбольших бортовых систем ремонта брони и корпуса.",
+    "zh": "操作旗舰级装甲/船体维修设备的技能。每升一级，旗舰级维修系统的运转周期缩短5%。"
+  },
+  "groupID": 1210,
+  "iconID": 33,
+  "marketGroupID": 1745,
   "name": {
     "de": "Capital Repair Systems",
     "en": "Capital Repair Systems",
@@ -10,5 +23,8 @@
     "ru": "Пилотам КБТ: установки ремонта брони",
     "zh": "旗舰维修系统研究"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

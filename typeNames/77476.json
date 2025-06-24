@@ -1,5 +1,17 @@
 {
-  "typeID": 77476,
+  "description": {
+    "de": "Eine Reihe grundlegender Vorräte für die Republic Fleet. Darin kann sich von Militärrationen über medizinische Versorgungsgüter und Munition bis hin zu Schiffsteilen alles befinden. Im Inneren befindet sich auch ein diskreter Peilsender, damit das Militär der Republik ihr Eigentum aufspüren kann, falls es in unerwünschte Hände geraten sollte.",
+    "en": "A collection of essential supplies intended for the Republic Fleet. Inside could be anything from military rations, medical supplies, ammunition, or even ship parts. \r\n\r\nThis also contains a discreet tracking device so the Republic military can hunt down their property should it ever fall into undesirable hands.",
+    "es": "Una colección de suministros esenciales destinados a la Flota de la República. En su interior puede haber cualquier cosa, desde raciones militares, suministros médicos, munición o incluso piezas de naves.     También contiene un discreto dispositivo de rastreo para que los militares de la República puedan localizar sus propiedades si alguna vez caen en manos no deseadas.",
+    "fr": "Diverses ressources essentielles à l'attention de la Flotte de la République. Elles peuvent contenir des rations militaires, du matériel médical, des munitions ou même des pièces de vaisseau. On y trouve également un discret appareil de suivi afin que l'armée de la République puisse traquer sa propriété si elle venait à tomber entre des mains indésirables.",
+    "ja": "共和国海軍のために用意されていた支給必需品。中には軍隊用のレーションや医療品、弾薬、あるいは艦船のパーツが入っている。     なお、共和国軍の資産が好ましからぬ者の手に落ちた場合に追跡できるよう、トラッキングデバイスが隠してある。",
+    "ko": "공화국 함대에 지급되는 필수 보급물자입니다. 군용 식량, 의료 물자, 탄약, 심지어 함선 부품도 들어 있을 수 있습니다.<br><br>공화국은 보급품이 적의 손에 넘어가도 쉽게 추적할 수 있도록 눈에 잘 띄지 않게 추적 장치를 삽입했습니다.",
+    "ru": "Это груз необходимых предметов снабжения, предназначенных для использования в республиканском флоте. Содержимое может быть самым разным: военные пайки, медикаменты, боеприпасы или даже запчасти кораблей. Контейнер снабжён незаметным отслеживающим устройством. Минматарские военные используют его для того, чтобы возвращать собственность флота, если она попадёт не в те руки.",
+    "zh": "为共和舰队准备的一系列基本补给品。里面可能包含军粮、医疗物资、弹药，甚至舰船部件。这里面还有一个隐秘的追踪设备，如果落入不法分子之手，共和国军方可以借此追查。"
+  },
+  "groupID": 4575,
+  "iconID": 2039,
+  "mass": 20000.0,
   "name": {
     "de": "M.R.F. Supplies",
     "en": "M.R.F. Supplies",
@@ -10,5 +22,7 @@
     "ru": "M.R.F. Supplies",
     "zh": "M.R.F.补给"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 3500.0
 }

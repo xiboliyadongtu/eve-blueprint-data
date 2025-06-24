@@ -1,5 +1,18 @@
 {
-  "typeID": 87684,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Die Lösungen für die Pfade dieses Labyrinths, sowohl in unseren vier Dimensionen als auch darüber hinaus, sind hier zur Betrachtung festgehalten. Sobald sie verarbeitet wurden oder der Kondensator gehackt wurde, damit er glaubt, dass sie verarbeitet wurden, wird es eine Abrechnung geben.",
+    "en": "The solutions to this Labyrinth's pathways, both those within our four dimensions and beyond, are held here for contemplation. Once they have been processed, or the Capacitor has been hacked to believe they have been processed, there will be a reckoning.",
+    "es": "Las soluciones a los caminos de este laberinto, tanto dentro de nuestras cuatro dimensiones como más allá, se guardan aquí para su contemplación. Una vez procesadas, o una vez que el condensador haya sido manipulado para creer que lo han sido, habrá un juicio.",
+    "fr": "Les solutions aux chemins de ce Labyrinthe, aussi bien dans nos quatre dimensions qu'au-delà, sont conservées ici pour la contemplation. Une fois traitées, ou le capaciteur piraté pour lui faire croire qu'elles ont été traitées, les représailles se feront sentir.",
+    "ja": "我々の4次元宇宙とその先における、このラビリンスの道への解は、吟味されるためにここに留められる。処理が完了する、あるいはハッキングにより完了したと誤認されると、計算が実行されることになる。",
+    "ko": "미로 처리 경로에 따라 처리되는 솔루션입니다. 4차원 세계 내부 및 외부 정보가 모두 포함되며 최종 처리를 위해 이곳에 저장됩니다. 정보 처리가 완료되거나 해킹으로 캐패시터가 해당 정보를 처리가 완료된 정보로 오인하면 심판이 시작될 것입니다.",
+    "ru": "Здесь ожидают анализа решения, сгенерированные в проходах лабиринта как в наших четырёх измерениях, так и за их пределами. Когда они пройдут обработку (или когда взломанные системы репозитория зафиксируют завершение обработки), запустится протокол расплаты.",
+    "zh": "这里给出迷宫路径的解决方案（涵盖四维空间内外）仅供参考。这些数据一旦经过处理，或因电容器破译而被认为经过处理，就将进行估算。"
+  },
+  "graphicID": 28020,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Solution Capacitor",
     "en": "Solution Capacitor",
@@ -10,5 +23,8 @@
     "ru": "Solution Capacitor",
     "zh": "解算电容器"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 300.0,
+  "sofFactionName": "drifter"
 }

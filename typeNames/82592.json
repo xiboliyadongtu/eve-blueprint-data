@@ -1,5 +1,19 @@
 {
-  "typeID": 82592,
+  "basePrice": 100000000.0,
+  "description": {
+    "de": "Diese Anlage ortet zusätzliche Erzressourcen in einem System und priorisiert dabei Asteroidengürtel, die reich an<a href=showinfo:34>Tritanium</a> sind. Diese Variante wird deutlich größere Asteroidengürtel langsamer entdecken, die geeignet für größere Miner-Gruppen.",
+    "en": "This array locates additional ore resources in a system, prioritizing <a href=showinfo:34>tritanium</a>-rich asteroids belts.\r\n\r\nThis variant will discover significantly larger asteroid belts at a slower rate, suitable for larger fleets of miners.",
+    "es": "Este sistema localiza recursos de menas adicionales en un sistema y da prioridad a los cinturones de asteroides ricos en <a href=showinfo:34>tritanio</a>.\r\n\r\nEsta variante descubre cinturones de asteroides significativamente más grandes a un ritmo más lento, lo que resulta adecuado para flotas de mineros más grandes.",
+    "fr": "Ce module localise des ressources de minerai supplémentaires dans un système, en accordant la priorité aux ceintures d'astéroïdes riches en <a href=showinfo:34>tritanium</a>. Cette variante découvrira des ceintures d'astéroïdes beaucoup plus grandes à un rythme plus lent, elle convient donc mieux à des flottes de mineurs plus importantes.",
+    "ja": "システム内に存在する鉱石資源を追加で発見できる施設。<a href=showinfo:34>トリタニウム</a>が豊富なアステロイドベルトに特化している。\r\n\r\nこのタイプは非常に大規模なアステロイドベルトをゆっくりとしたペースで発見でき、大規模な採掘フリートに適している。",
+    "ko": "성계에 매장된 자원을 탐지하기 위한 시설로, <a href=showinfo:34>트리타늄</a>이 풍부한 소행성 지대를 우선적으로 탐지합니다.<br><br>초대형 소행성 지대를 탐지하지만 탐지 속도가 느리기 때문에 대규모 채굴 함대가 사용하기 좋습니다.",
+    "ru": "Это устройство позволяет обнаружить в системе новые запасы руды. Приоритет отдаётся поясам астероидов, богатых <a href=showinfo:34>тританием</a>. Данная модель находит огромные пояса астероидов, но обладает меньшей скоростью обнаружения, поэтому больше подходит для крупных флотов бурильщиков.",
+    "zh": "这个阵列可以找到星系上的其他矿石资源，并根据<a href=showinfo:34>三钛合金</a>储量对小行星带进行排列。此衍生版阵列将以更慢的速度发现新的大型小行星带，适合大型矿工团队。"
+  },
+  "groupID": 4768,
+  "iconID": 26736,
+  "marketGroupID": 1283,
+  "mass": 1000.0,
   "name": {
     "de": "Tritanium Prospecting Array 2",
     "en": "Tritanium Prospecting Array 2",
@@ -10,5 +24,7 @@
     "ru": "Tritanium Prospecting Array 2",
     "zh": "三钛合金勘探阵列2"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 5000.0
 }

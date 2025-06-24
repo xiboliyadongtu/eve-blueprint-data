@@ -1,5 +1,22 @@
 {
-  "typeID": 20452,
+  "basePrice": 32694870.0,
+  "capacity": 10.0,
+  "description": {
+    "de": "Diese gewaltige Automatikkanone, eine der größten zurzeit existierenden Waffen, ist für ausgedehnte Belagerungen stationärer Einrichtungen und anderer großer Ziele konzipiert.\n\nHinweis: Kann nur in Schiffe der Capital-Klasse eingebaut werden.\n\n\n\nSie muss mit einer der folgenden Projektil-Munitionsarten geladen werden: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton oder Titanium Sabot.",
+    "en": "One of the largest weapons currently in existence, this massive autocannon is designed for extended sieges of stationary installations and other large targets.\r\nNote: May only be fitted to capital class ships.\r\n\r\nMust be loaded with any of the following projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, or Titanium Sabot.",
+    "es": "Este enorme cañón automático, una de las armas más grandes que existen actualmente, ha sido diseñado para asedios prolongados a instalaciones estacionarias y otros objetivos de gran tamaño.\n\nAviso: Solo se puede equipar en naves capitales.\n\nDebe cargarse con cualquiera de los siguientes tipos de munición de proyectiles: plomo carbonado, uranio empobrecido, EMP, fusión, nuclear, plasma fásico, protón o perforante de titanio.",
+    "fr": "Ce canon automatique est l'une des armes les plus lourdes conçues à ce jour. Il permet d'assiéger des installations stationnaires ou d'autres cibles de grande taille. Remarque : ne convient qu'aux vaisseaux de classe capitale.\n\nVous devez y charger les types de munition de projectile suivants : plomb trempé, uranium appauvri, IEM, fusion, nucléaire, plasma à phase, proton ou sabot de titane.",
+    "ja": "現行兵器としては最大級のオートキャノンで、固定施設などの大型目標へ長時間にわたり砲撃を加えることを想定した設計になっている。注：主力艦級艦船にのみ搭載可能。装填可能なプロジェクタイル弾のタイプ：炭化鉛弾、劣化ウラン弾、EMP弾、フュージョン弾、ニュークリア弾、フェーズプラズマ弾、プロトン弾、チタン製サボット弾。",
+    "ko": "현존하는 가장 거대한 기관포 중 하나로 장기간 공성전 및 대형 목표물 타격에 적합합니다. <br><br>참고: 캐피탈급 함선에만 장착이 가능합니다. <br><br>사용 및 장착 가능한 발사체: 탄화납, 열화 우라늄, EMP, 융합, 원자력, 위상 플라즈마, 양성자, 티타늄 철갑탄.",
+    "ru": "Эта гигантская автоматическая пушка является одним из самых больших орудий в мире; она предназначена для осады космических станций и обстрела других крупных целей.\nПримечание: может устанавливаться только на корабли большого тоннажа.\n\n\n\nДля стрельбы из орудия используются снаряды следующих типов: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton или Titanium Sabot.",
+    "zh": "现今最大型的武器之一，这种大型自动加农炮专为针对固定装置和其它大型目标的长期围攻而特别设计。注：只能装配在旗舰级舰船上。必须装填以下类型的弹药：碳铅弹、硬钼弹、电磁脉冲弹、聚变弹、核芯弹、定相离子弹、质子弹和钛合金萨博弹。"
+  },
+  "graphicID": 11308,
+  "groupID": 55,
+  "iconID": 2838,
+  "marketGroupID": 776,
+  "mass": 75.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Hexa 2500mm Repeating Cannon I",
     "en": "Hexa 2500mm Repeating Cannon I",
@@ -10,5 +27,9 @@
     "ru": "Hexa 2500mm Repeating Cannon I",
     "zh": "六联2500mm频射加农炮 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 200.0,
+  "sofFactionName": "minmatarbase",
   "volume": 4000.0
 }

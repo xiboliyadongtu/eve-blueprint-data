@@ -1,5 +1,17 @@
 {
-  "typeID": 21839,
+  "description": {
+    "de": "Dieser Sicherheits-Zutrittsschlüssel wird von CONCORD hergestellt und an Bord der automatisierten Trainingsschiffe platziert, die sich in den von der CONCORD ausgewiesenen Übungsräumen befinden. Der Schlüssel aktiviert ein  Beschleunigungstor, das für eine kurze Zeit aktiviert wird. Der Schlüssel wird dabei unbrauchbar gemacht.",
+    "en": "This security passkey is made by CONCORD and placed aboard one of the automated pirate vessels in the training complex CONCORD designed. It will open up an Acceleration Gate which will remain open for a short period of time and render the passkey unusable afterwards.",
+    "es": "CONCORD ha expedido este pase de seguridad y lo ha colocado a bordo de una de las naves piratas automatizadas del complejo de entrenamiento que diseñó. Abrirá un portal de aceleración que permanecerá abierto durante un breve periodo de tiempo. Una vez se cierre, el pase de seguridad quedará inutilizado.",
+    "fr": "Cette carte d'accès de sécurité, fabriquée par CONCORD, est placée à bord de l'un des vaisseaux pirates automatisés dans le complexe d'entraînement CONCORD. Elle permet de déverrouiller temporairement le mécanisme d'ouverture du portail d'accélération, puis devient inutilisable.",
+    "ja": "CONCORD設計のトレーニング施設内を航行する、自動操縦の海賊船に搭載されているマスターキー。キーの作成もCONCORDが行っている。アクセラレーションゲートを短時間開けるが、一度使用すると再使用はできなくなる。",
+    "ko": "CONCORD에서 발급한 보안키입니다. CONCORD 훈련시설의 무인 해적선 중 한 척에 실려있었습니다. 엑셀레이션 게이트에 사용 시 짧은 시간 동안 게이트가 개방되며 이후 보안키는 사용불가능해집니다.",
+    "ru": "Этот ключ безопасности сделан CONCORD и помещён на борт одного из автоматических пиратских кораблей в тренировочном комплексе разработки CONCORD. Он на короткое время откроет врата ускорения и деактивируется.",
+    "zh": "这把通行证钥匙由统合部制造的，放置在训练复合体里的某自动海盗船内。它可以令一座加速轨道开启一小段时间，使用后钥匙就会失效。"
+  },
+  "groupID": 474,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Training Complex Passkey",
     "en": "Training Complex Passkey",
@@ -10,5 +22,7 @@
     "ru": "Training Complex Passkey",
     "zh": "训练场通行证钥匙"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

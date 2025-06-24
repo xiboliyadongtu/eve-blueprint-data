@@ -1,5 +1,18 @@
 {
-  "typeID": 2366,
+  "basePrice": 1.0,
+  "description": {
+    "de": "Als eine entscheidende Komponente von Raumstationen, Raumschiffen oder jeder anderen isolierten Umgebung, sind diese kleinen Geräte darauf programmiert Alarm zu schlagen, sobald die gentechnisch veränderten Viren im Inneren mutieren. Dies bedeutet, sie haben eine signifikante Dosis an Strahlung, natürlichen Kontaminanten oder in die Luft gestoßene Erreger ausgemacht, was zur Folge hat, dass sich die umliegende Besatzung in Gefahr befindet.",
+    "en": "A critical component of space stations, starships, or any other isolated environment, these tiny devices are set to trigger alarms when the genetically engineered viruses inside mutate — which means that they've encountered a significant dose of radiation, natural contaminant, or airborne pathogen, signifying that the surrounding crew is in danger.",
+    "es": "Estos pequeños dispositivos, que son componentes críticos de estaciones espaciales, naves y de cualquier otro entorno aislado, están configurados para activar alarmas en caso de que muten los virus genéticamente diseñados que contienen, ya que eso significa que se han expuesto a una gran dosis de radiación, a un contaminante natural o a un patógeno aéreo y los miembros de la tripulación están en peligro.",
+    "fr": "Composants essentiels des stations spatiales, des vaisseaux, ou de toute autre environnement isolé, ces minuscules dispositifs sont conçus pour déclencher l'alarme en cas de mutation de virus créés génétiquement. Cela signifie alors qu'ils ont détecté une dose importante de radiations, de substances contaminantes naturelles, ou d'un pathogène dans l'air, synonymes de danger pour l'équipage.",
+    "ja": "宇宙ステーション、宇宙船などの隔離環境に欠かせない部品。この小型デバイスは、内部の遺伝子操作されたウイルスが突然変異したときにアラームが鳴るよう設定されており、周囲の搭乗員に危険が及ぶ量の放射線、天然汚染物質、空中の病原体が発生したことを知らせる。",
+    "ko": "우주 정거장, 함선 등에 사용되는 중요한 부품입니다. 장치 내부의 유전자 조작된 바이러스들이 변형되는 순간 경보가 유발되도록 설정되어있습니다. 바이러스의 변형이 의미하는 바는 주변 환경에서 과도한 양의 방사선, 오염물질, 또는 병원균이 감지되어 선원들이 위험에 처해있다는 것입니다.",
+    "ru": "Эти крошечные устройства являются насущным компонентом космических станций, кораблей, да и вообще любых изолированных местообитаний. Они запрограммированы издавать сигнал тревоги, если содержащиеся в них генетически измененные вирусы мутируют, что означает, что они подверглись значительной дозе радиации, естественного загрязнителя или патогена, переносимого воздушным путем, а следовательно, команде данного местообитания угрожает опасность.",
+    "zh": "这是空间站、空间舰船以及其他独立环境所必备的重要设备。当其内部经过基因改造的病毒发生变异的时候，这些小型的装置便能发出警报。其中病毒的变异意味着它们受到了一定计量的辐射、自然环境污染及空气传播病毒之类的侵扰。这也意味着其周围环境中的人员正处于危险之中。"
+  },
+  "groupID": 1040,
+  "iconID": 10049,
+  "marketGroupID": 1336,
   "name": {
     "de": "Hazmat Detection Systems",
     "en": "Hazmat Detection Systems",
@@ -10,5 +23,7 @@
     "ru": "Hazmat Detection Systems",
     "zh": "危险物探测系统"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 3.0
 }

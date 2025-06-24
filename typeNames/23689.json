@@ -1,5 +1,18 @@
 {
-  "typeID": 23689,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Nicht mehr funktionierender Bestandteil einer Raubdrohnengruppe, die von einer Königin losgeschickt wurde, um konkurrierende Drohnen zu vernichten.",
+    "en": "Out of order rogue drone part of a strike force sent by a hive queen to get rid of competing drones.",
+    "es": "Dron rebelde fuera de servicio que forma parte de una fuerza de ataque enviada por la reina de la colmena para deshacerse de drones rivales.",
+    "fr": "Pièce de drone renégat en panne provenant d'une force de frappe envoyée par une autre reine de ruche, en vue de se débarrasser d'adversaires.",
+    "ja": "敵対するドローンを始末するためにハイブクィーンが派遣した攻撃隊に参加していた、故障したローグドローン。",
+    "ko": "대립하는 드론 무리를 처치하기 위해 보내진 타격대의 로그 드론으로 고장 나 있습니다.",
+    "ru": "Вышедший из строя дрон ― часть ударной группы, посланной королевой, чтобы расправиться с дронами-конкурентами.",
+    "zh": "出故障的自由无人机，属于某个无人机皇后派去清理无人机竞争对手的攻击队。"
+  },
+  "graphicID": 2592,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Dysfunctional Raid Drone",
     "en": "Dysfunctional Raid Drone",
@@ -10,5 +23,10 @@
     "ru": "Dysfunctional Raid Drone",
     "zh": "失灵的攻击无人机"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 222.0,
+  "sofFactionName": "roguebase",
+  "soundID": 31,
   "volume": 100000000.0
 }

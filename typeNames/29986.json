@@ -1,5 +1,105 @@
 {
-  "typeID": 29986,
+  "basePrice": 300000000.0,
+  "capacity": 400.0,
+  "description": {
+    "de": "Offenbarung bohrt sich durch die materielle Welt, verleibt sich den Ackerboden der Schöpfung ein, verdaut die gedankenlose Leere und lässt mit Gottes Segen Bedeutsamkeit entstehen. Leere erzeugt Sinn, aus dem Sein entsteht das Wesentliche und aus Materie die Seele.\n\n\n\nBefindet sich Gott jenseits des Wurmlochs? Verdanken wir Gott diesen Segen, diese neue Technologie, ein Geschenk des Himmels? Diese Waffen sind Gottes neue Prophezeiung, sein neuer Wirkungskreis und Segen. Lasst uns Gottes Gnade nutzen und New Eden vorbereiten. Wir sind Gottes Kämpfer, Waffen und Herrlichkeit. Unser Volk ist Gottes Armee. Gemeinsam bilden wir die Legion.\n\n\n\n    -<i>Die Häresie von Hinketsu</i>",
+    "en": "Revelation burrows through the material world, devours creation's soil, digests the thoughtless void, and produces significance with God's grace. From emptiness comes meaning, essence from existence, soul from matter.\r\n\r\nIs God through the wormhole? Did God grant us this boon, this new technology, a revelation from on high? These weapons are God's new prophecy, domain, and blessing. Let us use God's grace and prepare New Eden. We are God's soldiers, weapons, glory. Our people are God's army. Together, we are the legion.\r\n\r\n    -<i>The Heresies of Hinketsu</i>",
+    "es": "La revelación se abre paso a través del mundo material, devora el suelo de la creación, digiere el descontrolado vacío y aporta sentido con la gracia de Dios. Del vacío surge el significado; de la existencia, la esencia; de la materia, el alma.\n\n¿Está Dios tras los agujeros de gusano? ¿Fue Él quien nos concedió esta bendición, esta nueva tecnología, una revelación desde las alturas? Estas armas son la nueva profecía, reino y bendición de Dios. Usemos la gracia de Dios y preparemos Nuevo Edén. Somos sus soldados, sus armas, su gloria. Nuestro pueblo es el ejército de Dios. Juntos somos legión.\n\n    <i>— Las Herejías de Hinketsu.</i>",
+    "fr": "La révélation creuse à travers le monde matériel, engloutit la terre de la création, absorbe le vide inconsidéré, et donne tout son sens à la grâce de Dieu. Du néant naît le sens, de l'existence naît l'essence, de la matière naît l'âme. Le Royaume de Dieu est-il dans la dimension des trous de ver ? Dieu nous a-t-il accordé cette bénédiction, cette nouvelle technologie, une révélation venue des Cieux ? Ces armes sont la nouvelle prophétie de Dieu, son pouvoir, sa consécration. Manions humblement la grâce de Dieu pour fertiliser New Eden. Nous sommes les soldats de Dieu. Ses armes. Sa gloire. Notre peuple est l'armée de Dieu. Ensemble, nous formons la légion. -<i>Les hérésies d'Hinketsu</i>",
+    "ja": "啓示は物質界より現れ、創造の土壌を食い荒らし、思念なき虚空を飲み込み、神の恩恵の意味を生んだ。無意味から意味が、存在から本質が、物質から魂が生まれた。\r\n\n神はワームホールを越えるのか。神が我らにこの恩恵と新たな技術をもたらし、天より啓示を与えたもうたのか。これらの兵器は、神の新たな予言であり、具現であり、祝福である。神の恩寵をもって、ニューエデンを整えよ。我らは神の兵であり、武器であり、栄光である。我らが民は、神の軍隊である。我らこそがレギオンなり。\r\n\n-<i>ヒンキツの異端信仰者</i>",
+    "ko": "신의 계시는 물질세계로 파고들어 창조의 토양을 삼키며 무심한 공허를 소화하여 존재의 의미를 형성해냅니다. 공허에서 의미가, 존재에서 본질이, 물질에서 영혼이 나타나는 것처럼 말입니다. <br><br>신께서 웜홀을 통해 강림하시는 것일까요? 신께서 이 요긴한 신기술을 계시해주신 것일까요? 이 신무기는 신의 예언이오, 영역이오, 축복입니다. 우리 모두 신의 은혜를 입고 뉴에덴을 봉헌해야 합니다. 우리는 신의 병사요, 무기요, 영광일지 어니. 우리 민족은 신의 군대이니라. 우리는 모두 군단이다.<br><br>-<i>힌케츠의 이단 행위</i>",
+    "ru": "Откровение прорывается сквозь материальный мир, пожирает почву творения, поглощает безмысленный вакуум и производит значительность с помощью Божественной Славы. Из пустоты приходит значение, сущность из существования, душа из вещества.\n\n\n\nСкрывают ли червоточины лик Бога? Дал ли Бог нам этот дар, эту новую технологию, это откровение свыше? Это оружие является новым пророчеством, владением и благословением Бога. Воспользуемся милостью Божьей и принесем ее в Новый Эдем. Мы являемся воинами Бога, Его оружием и славой. Наш народ — это Божья армия. Вместе мы легион.\n\n\n\n    -<i>Ереси Хинкецу</i>",
+    "zh": "末世的昭显翻滚在这凡浊的尘界，吞噬万物，消息阴阳，又秉着上神的恩典，成就大事。自虚空出形色，由万物做精华，拂尘土生灵魂。\n\n\n\n神是自宇宙的另一端而来？又或是施与我们的恩恵？这种新的科技，是上苍给我们的又一次启示？那些枪炮是他的新预言，是他的领地，是他的神恩。让我们举着他的恩典，为他备好这新伊甸。我们是神的将士，是他的兵器，是他的荣耀。聚集起来，我们就是神圣的军队。\n\n\n\n    -<i>异端教派神决</i>"
+  },
+  "factionID": 500003,
+  "graphicID": 20216,
+  "groupID": 963,
+  "iconID": 3763,
+  "marketGroupID": 1139,
+  "mass": 14500000.0,
+  "masteries": {
+    "0": [
+      64,
+      96,
+      99,
+      165,
+      97,
+      104,
+      108,
+      76,
+      150,
+      89,
+      91,
+      93,
+      94
+    ],
+    "1": [
+      64,
+      96,
+      99,
+      165,
+      97,
+      104,
+      108,
+      76,
+      150,
+      89,
+      91,
+      93,
+      94
+    ],
+    "2": [
+      64,
+      96,
+      99,
+      165,
+      97,
+      104,
+      108,
+      76,
+      150,
+      89,
+      91,
+      93,
+      94
+    ],
+    "3": [
+      64,
+      96,
+      99,
+      165,
+      97,
+      104,
+      108,
+      76,
+      150,
+      89,
+      91,
+      93,
+      94
+    ],
+    "4": [
+      64,
+      96,
+      99,
+      165,
+      97,
+      104,
+      108,
+      76,
+      109,
+      117,
+      150,
+      153,
+      152,
+      89,
+      154,
+      91,
+      93,
+      94
+    ]
+  },
+  "metaGroupID": 14,
   "name": {
     "de": "Legion",
     "en": "Legion",
@@ -9,6 +109,139 @@
     "ko": "레기온",
     "ru": "Legion",
     "zh": "圣卒级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 190.0,
+  "sofFactionName": "amarrbase",
+  "soundID": 20061,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Modifikationen können unbeschadet von diesem Schiff entfernt werden.",
+          "en": "Rigs may be removed from this ship without being destroyed",
+          "es": "Es posible quitar los complementos de esta nave sin destruirlos.",
+          "fr": "Les modifications de ce vaisseau peuvent être retirées sans être détruites",
+          "ja": "艦船を破壊せずにリグを取り外せることがある",
+          "ko": "리그를 파괴하지 않고 해제 가능",
+          "ru": "Из кораблей этого типа модификаторы извлекаются без разрушения",
+          "zh": "改装件从舰船上移除不会销毁"
+        },
+        "importance": 2
+      },
+      {
+        "bonus": 99.0,
+        "bonusText": {
+          "de": "Reduktion des CPU-Bedarfs von Scansondenwerfern",
+          "en": "reduction in Scan Probe Launcher CPU requirements",
+          "es": "de reducción de los requisitos de CPU del lanzasondas de escaneo.",
+          "fr": "de réduction de la charge CPU requise pour les lanceurs de sondes de balayage",
+          "ja": "スキャンプローブランチャーのCPU使用率を軽減",
+          "ko": "스캔 프로브 런처 CPU 사용량 감소",
+          "ru": "сокращается потребность пусковых установок разведзондов в мощностях ЦПУ",
+          "zh": "扫描探针发射器CPU需求降低"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "30532": [
+        {
+          "bonusText": {
+            "de": "Bonus auf die Effektivität aller <a href=showinfo:30532>Amarr-Defensivsysteme</a>",
+            "en": "bonus to all <a href=showinfo:30532>Amarr Defensive Systems</a> effectiveness",
+            "es": "de bonificación a la efectividad de todos los <a href=showinfo:30532>sistemas defensivos amarrianos</a>.",
+            "fr": "bonus à l'efficacité de tous les <a href=showinfo:30532>systèmes défensifs amarr</a>",
+            "ja": "全ての<a href=showinfo:30532>アマー防御システム</a>の効果が増加",
+            "ko": "<a href=showinfo:30532>아마르 방어용 시스템</a> 효과 증가",
+            "ru": "повышается эффективность действия <a href=showinfo:30532>амаррских оборонительных подсистем</a>",
+            "zh": "<a href=\"showinfo:30532\">艾玛防御子系统</a>效果加成"
+          },
+          "importance": 1
+        }
+      ],
+      "30537": [
+        {
+          "bonusText": {
+            "de": "Bonus auf die Effektivität aller <a href=showinfo:30537>Amarr-Offensivsysteme</a>",
+            "en": "bonus to all <a href=showinfo:30537>Amarr Offensive Systems</a> effectiveness",
+            "es": "de bonificación a la efectividad de todos los <a href=showinfo:30537>sistemas ofensivos amarrianos</a>.",
+            "fr": "bonus à l'efficacité de tous les <a href=showinfo:30537>systèmes offensifs amarr</a>",
+            "ja": "全ての<a href=showinfo:30537>アマー攻撃システム</a>の効果が増加",
+            "ko": "<a href=showinfo:30537>아마르 공격용 시스템</a> 효과 증가",
+            "ru": "повышается эффективность действия <a href=showinfo:30537>амаррских наступательных подсистем</a>",
+            "zh": "<a href=\"showinfo:30537\">艾玛攻击子系统</a>效果加成"
+          },
+          "importance": 1
+        }
+      ],
+      "30538": [
+        {
+          "bonusText": {
+            "de": "Bonus auf die Effektivität aller <a href=showinfo:30538>Amarr-Schiffsantriebe</a>",
+            "en": "bonus to all <a href=showinfo:30538>Amarr Propulsion Systems</a> effectiveness",
+            "es": "de bonificación a la efectividad de todos los <a href=showinfo:30538>sistemas de propulsión amarrianos</a>.",
+            "fr": "bonus à l'efficacité de tous les <a href=showinfo:30538>systèmes de propulsion amarr</a>",
+            "ja": "全ての<a href=showinfo:30538>アマー推進力システム</a>の効果が増加",
+            "ko": "<a href=showinfo:30538>아마르 추진기 시스템</a> 효과 증가",
+            "ru": "повышается эффективность действия <a href=showinfo:30538>амаррских двигательных подсистем</a>",
+            "zh": "<a href=\"showinfo:30538\">艾玛推进子系统</a>效果加成"
+          },
+          "importance": 1
+        }
+      ],
+      "30539": [
+        {
+          "bonusText": {
+            "de": "Bonus auf die Effektivität aller <a href=showinfo:30539>Amarr-Kernsysteme</a>",
+            "en": "bonus to all <a href=showinfo:30539>Amarr Core Systems</a> effectiveness",
+            "es": "de bonificación a la efectividad de todos los <a href=showinfo:30539>sistemas centrales amarrianos</a>.",
+            "fr": "de bonus à l'efficacité de tous les <a href=showinfo:30539>systèmes principaux amarr</a>",
+            "ja": "全ての<a href=showinfo:30539>アマーコアシステム</a>の効果が増大",
+            "ko": "<a href=showinfo:30539>아마르 코어 시스템</a> 효과 증가",
+            "ru": "повышается эффективность действия <a href=showinfo:30539>амаррских центральных подсистем</a>",
+            "zh": "<a href=showinfo:30539>艾玛核心子系统</a>效果加成"
+          },
+          "importance": 1
+        }
+      ],
+      "30650": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Verringerung des Modulschadens durch Überhitzung",
+            "en": "reduction in module damage from overheating",
+            "es": "de reducción del daño del módulo por sobrecalentamiento.",
+            "fr": "de réduction de la détérioration du module suite à la surchauffe",
+            "ja": "オーバーヒート時のモジュールダメージを軽減",
+            "ko": "과부하로 인한 모듈 손상 감소",
+            "ru": "уменьшается объём повреждений модулей, получаемых ими при перегрузке",
+            "zh": "装备过载损伤降低"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf Reparaturgeschwindigkeit von Nanobot-Reparaturpaste",
+            "en": "bonus to nanite repair paste repair speed",
+            "es": "de bonificación a la velocidad de reconstrucción del fluido reparador de nanobots.",
+            "fr": "bonus à la vitesse de réparation des nanites de réparation",
+            "ja": "ナノマシンリペアペイストの速度が上昇",
+            "ko": "나나이트 용액 수리 속도 증가",
+            "ru": "повышается скорость ремонта модулей ремонтной нанопастой",
+            "zh": "纳米体修复粘合剂维修速度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 118000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 80246,
+  "capacity": 27500.0,
+  "description": {
+    "de": "Die Überreste einer zerstörten Biomechanoiden-Untertasse. Ihr Aufbau und ihr Design sind zu ungewöhnlich, als dass man sie mit den vorhandenen Modulen und Drohnen effizient bergen könnte. ( Kopie )",
+    "en": "The remains of a destroyed biomechanoid saucer. Its composition and design are far too unusual for effective salvaging with existing modules and drones. ( copy )",
+    "es": "Los restos de un platillo biomecanoide destruido. Su composición y diseño son demasiado inusuales como para llevar a cabo una recuperación eficaz con los módulos y drones existentes.",
+    "fr": "Les vestiges d'une soucoupe biomécanoïde détruite. Sa composition et sa conception sont bien trop singulières pour permettre d'en récupérer quoi que ce soit de façon efficace avec les modules et les drones actuels. ( copy )",
+    "ja": "破壊されたバイオメカノイドの円盤の残骸。その材質と設計は通常のものとはかけ離れており、既存のモジュールやドローンでは効率的にサルベージすることができない。（コピー）",
+    "ko": "파괴된 생체기계 비행접시의 잔해입니다. 기존 샐비징 모듈 및 드론으로는 해당 잔해를 수거할 수 없습니다. (복제)",
+    "ru": "Обломки уничтоженного биомеханического корабля. Крайне необычная конструкция этой «тарелки» не позволяет произвести успешный демонтаж посредством современных модулей и дронов.",
+    "zh": "一个被摧毁的生物机械生命体的残骸。它的结构与常规的打捞装备和无人机相比非常不寻常。（拷贝）"
+  },
+  "graphicID": 3115,
+  "groupID": 186,
+  "mass": 10000.0,
   "name": {
     "de": "CD Boss Wreck",
     "en": "CD Boss Wreck",
@@ -10,5 +23,9 @@
     "ru": "CD Boss Wreck",
     "zh": "CD首领残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

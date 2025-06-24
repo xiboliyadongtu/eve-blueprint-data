@@ -1,5 +1,53 @@
 {
-  "typeID": 651,
+  "basePrice": 1400000.0,
+  "capacity": 500.0,
+  "description": {
+    "de": "Die Hoarder verfügt zusätzlich zu den üblichen Trägerkapazitäten eines Transporters noch über einen weiteren Frachtraum. Bei diesem handelt es sich um eine statikfreie, explosionsgeschützte Kammer, die dem Transport aller möglichen Verbrauchsgüter vorbehalten ist, u. a. Munition, Lenkwaffen, Energiespeicher-Ladegeräte, Nanobot-Paste und Bomben.",
+    "en": "Aside from being endowed with the usual carrying capabilities of haulers, the Hoarder possesses an extra cargo bay. That bay is a static-free, blast-proof chamber, and as such is meant to be dedicated solely to ferrying consumable charges of all kinds, including ammunition, missiles, capacitor charges, nanite paste and bombs.",
+    "es": "Además de poseer la capacidad de carga habitual de las naves de mercancías, la Hoarder posee una bodega adicional: una plataforma libre de estática a prueba de explosiones que, como tal, debe dedicarse exclusivamente a transportar cargas consumibles de todo tipo, como munición, misiles, cargas de condensador, fluido de nanobots y bombas.",
+    "fr": "Outre les capacités de transport propres aux cargos, le Hoarder est doté d'une baie de chargement supplémentaire. Cette baie est une chambre antistatique et antidéflagration et en tant que telle conçue pour servir exclusivement au transport de charges de toutes sortes, y compris les munitions, missiles, charges de capaciteurs, colle en nanites et bombes.",
+    "ja": "ホーダーは従来の積載容量の多さに加え、特殊なカーゴベイを搭載した輸送艦だ。このベイは無慣性の耐爆仕様で、各種の消耗チャージ（弾薬、ミサイル、キャパシタチャージ、ナノマシンリペアペイスト、ボムなど）の運搬に特化している。",
+    "ko": "호더에는 기본적인 운반선의 기능 외에도 화물실이 추가로 설치되어 있습니다. 화물실은 정지장에 영향을 비교적 적게 받으며 자체적인 폭발 저항력도 갖추었습니다. 견고한 내구성을 바탕으로 각종 탄약, 미사일, 캐패시터 차지, 나나이트 용액, 폭탄 등을 운반하는 데 적합합니다.",
+    "ru": "Помимо стандартных возможностей перевозчиков, «Хордер» также обладает дополнительным грузовым отсеком. Он представляет собой защищённую от статического электричества бронированную камеру и предназначен исключительно для перевозки расходуемых боеприпасов всех видов, включая ракеты, заряды накопителя, нанопасту и бомбы.",
+    "zh": "除了具有运载舰的常规运载能力之外，囤积者级还有一个额外的货柜舱。这个货舱无静电，防爆能力强，所以专门用来运载各种弹药，包括炮弹、导弹、电容注电装料、纳米体粘合剂和立体炸弹。"
+  },
+  "factionID": 500002,
+  "graphicID": 308,
+  "groupID": 28,
+  "marketGroupID": 82,
+  "mass": 10625000.0,
+  "masteries": {
+    "0": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "1": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "2": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "3": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "4": [
+      96,
+      118,
+      117,
+      94
+    ]
+  },
   "name": {
     "de": "Hoarder",
     "en": "Hoarder",
@@ -9,6 +57,81 @@
     "ko": "호더",
     "ru": "Hoarder",
     "zh": "囤积者级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 211.0,
+  "sofFactionName": "minmatarbase",
+  "soundID": 20078,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 90.0,
+        "bonusText": {
+          "de": "Reduktion der effektiv zurückgelegten Distanz für die Sprungerschöpfung",
+          "en": "reduction to effective distance traveled for jump fatigue",
+          "es": "de reducción de la distancia efectiva hasta sufrir fatiga de salto.",
+          "fr": "de réduction de la distance effectuée pour l'épuisement de saut",
+          "ja": "ジャンプによる疲弊が飛行距離に及ぼす影響を低減",
+          "ko": "이동 거리에 따른 점프 피로도 감소",
+          "ru": "медленнее накапливается усталость от гиперпереходов",
+          "zh": "减少跳跃距离对产生跳跃疲劳的影响"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3341": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf die Maximalgeschwindigkeit des Schiffs",
+            "en": "bonus to ship max velocity",
+            "es": "de bonificación a la velocidad máxima de la nave.",
+            "fr": "de bonus à la vitesse maximale du vaisseau",
+            "ja": "艦船の最高速度が上昇",
+            "ko": "최대 속도 증가",
+            "ru": "увеличивается скорость полного хода корабля",
+            "zh": "舰船最大速度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die Kapazität des Munitionsfrachtraums des Schiffs",
+            "en": "bonus to ship ammo bay capacity",
+            "es": "de bonificación a la capacidad de carga de munición de la nave.",
+            "fr": "de bonus à la capacité de munitions du vaisseau",
+            "ja": "艦船の弾薬ベイ容量が増加",
+            "ko": "탄약고 적재량 증가",
+            "ru": "увеличивается вместимость отсека для боеприпасов",
+            "zh": "舰船弹药舱容量加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die Kapazität des Gasfrachtraums des Schiffs",
+            "en": "bonus to ship Gas hold capacity",
+            "es": "de bonificación a la capacidad de la bodega de gas de la nave.",
+            "fr": "de bonus à la capacité de la soute à gaz du vaisseau",
+            "ja": "艦船のガスホールド容量へのボーナス",
+            "ko": "가스 저장고 적재량 증가",
+            "ru": "бонус к вместимости отсека для газа",
+            "zh": "舰船气云舱容量加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 400000.0
 }

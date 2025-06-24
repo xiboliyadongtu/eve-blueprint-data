@@ -1,5 +1,18 @@
 {
-  "typeID": 54838,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Um Capital-Flotten von Piraten und Abtrünnigen daran zu hindern, EDENCOMs Verteidigungsbemühungen zu untergraben, wurde der Einsatz von Anziehungsstörsendern in allen Invasionszonen genehmigt. EDENCOM-Streitkräfte, die von den Kernimperien versorgt werden, werden Capital-Kampfgruppen mit eigenen Netzwerken von Anziehungssignalfeuern dort einsetzen, wo sie zur Verteidigung gegen die Triglavia-Invasoren benötigt werden.",
+    "en": "In order to guard against the threat of pirate and renegade capital fleets interfering with EDENCOM defense operations, the deployment of cynosural jammer units has been authorized in all invasion zones. EDENCOM forces supplied by the core empires will operate capital battlegroups using their own cynosural beacon networks where they are needed in the defense against the Triglavian invaders.",
+    "es": "Para protegerse de posibilidad de que las flotas capitales piratas y renegadas interfieran en las operaciones de defensa de EDENCOM, se ha autorizado el despliegue de unidades de perturbadores cinosurales en todas las zonas de invasión. Las fuerzas de EDENCOM, proporcionadas por los imperios principales, dirigirán operativos de combate capitales utilizando sus propias redes de balizas cinosurales allí donde sean necesarias en su defensa contra los invasores triglavianos.",
+    "fr": "À des fins de protection contre la menace de flottes capitales pirates et renégates interférant avec les opérations défensives d'EDENCOM, le déploiement d'unités de brouilleurs cynosuraux a été autorisé dans toutes les zones d'invasion. Les forces d'EDENCOM fournies par les empires centraux géreront les groupes de combat capitaux, utilisant leurs propres réseaux de balises cynosurales où il le faut pour défendre les envahisseurs triglavian.",
+    "ja": "EDENCOMの防衛作戦の妨げとなっている海賊や無法者の主力艦隊の脅威を防ぐため、全侵略ゾーンにおいてサイノシュラルジャマーユニットの展開が許可された。主要国家の援助を受けたEDENCOMが、サイノシュラルビーコンネットワークを使う超大型戦闘群を運用することになる。戦闘群は必要とあらば、トリグラビアンの侵略軍に対する防衛線に投入される。",
+    "ko": "EDENCOM 작전을 방해하는 적 캐피탈 함대 및 해적에 대항하기 위해 침공 항성계에서의 사이노슈럴 재머 사용이 허가되었습니다. 4대 제국의 지원을 받는 EDENCOM 함대는 자체적으로 사이노슈럴 비컨 네트워크를 전개하여 트리글라비안 침공을 방어합니다.",
+    "ru": "Для защиты от кораблей пиратов и флотилий отступников во всех зонах вторжения разрешено использование генераторов помех приводному маяку. Вооружённые силы ЭДЕНКОМа, снабжаемые сверхдержавами, будут управлять боевыми группами при помощи собственных сетей приводных маяков там, где это потребуется для защиты от вторжения Триглава.",
+    "zh": "为了防止海盗和变节的克隆飞行员破坏伊甸联合防御阵线的防御行动，所有遭受入侵的地区都已获准部署诱导力场干扰器。伊甸联合防御阵线武装力量中来自四大帝国的成员将使用自己的诱导力场信标网络来操作旗舰，以便在需要的地方抵御三神裔入侵者。"
+  },
+  "graphicID": 22252,
+  "groupID": 4033,
+  "mass": 3000000000.0,
   "name": {
     "de": "EDENCOM Cynosural Jammer",
     "en": "EDENCOM Cynosural Jammer",
@@ -9,6 +22,31 @@
     "ko": "EDENCOM 사이노슈럴 재머",
     "ru": "EDENCOM Cynosural Jammer",
     "zh": "伊甸联合防御阵线诱导力场干扰器"
+  },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 9856.0,
+  "sofFactionName": "upwell",
+  "traits": {
+    "iconID": 24419,
+    "miscBonuses": [
+      {
+        "bonusText": {
+          "de": "Anziehungsfeldgeneration blockiert",
+          "en": "Cynosural Field Generation Blocked",
+          "es": "Generación de campo cinosural bloqueada.",
+          "fr": "Génération de champ cynosural bloquée",
+          "ja": "サイノシュラルフィールド生成ブロック",
+          "ko": "사이노슈럴 필드 생성 차단",
+          "ru": "Создание поля приводного маяка заблокировано",
+          "zh": "诱导力场发生器被阻扰"
+        },
+        "importance": 1
+      }
+    ],
+    "roleBonuses": [],
+    "types": {}
   },
   "volume": 5000.0
 }

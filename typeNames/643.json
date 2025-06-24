@@ -1,5 +1,70 @@
 {
-  "typeID": 643,
+  "basePrice": 153900000.0,
+  "capacity": 750.0,
+  "description": {
+    "de": "Die mächtige Armageddon-Klasse ist eines der alten Schlachtrösser des Imperiums der Amarr. Ehemals eine Dampfwalze, die auf dem Weg in die Schlacht alles niederwalzte, was ihr in die Quere kam, folgt die Armageddon jetzt einem durchdachteren Plan und schickt stellvertretend mehrere Drohnen los, während sie selbst aus der Ferne den Gegner aufs Korn nimmt.",
+    "en": "The mighty Armageddon class is one of the enduring warhorses of the Amarr Empire. Once a juggernaut that steamrolled its way into battle, it has now taken on a more stately and calculated approach, sending out a web of drones in its place while it drains the enemy from a distance.",
+    "es": "La poderosa clase Armageddon es uno de los peones de guerra más resistentes del Imperio Amarr. Antaño una enormidad arrolladora en la batalla, ahora ha adoptado una estrategia más estable y calculada, enviando una nube de drones en su lugar mientras mina al enemigo desde la distancia.",
+    "fr": "Le puissant Armageddon reste l'un des principaux bâtiments de guerre de l'Empire amarr. Ce mastodonte qui autrefois écrasait tout sur son passage, prend aujourd'hui des allures plus subtiles et raffinées, envoyant une vague de drones faire le travail à sa place pendant qu'il draine l'ennemi de son énergie à distance.",
+    "ja": "この無敵のアルマゲドン級は、アマー帝国の不朽の軍艦である。戦場へ突き進むと、威風堂々と、しかし計算ずくで近づいてドローンたちを送り込み、距離を保ちながら敵を疲弊させるのだ。",
+    "ko": "아마겟돈은 아마르 제국의 불후의 군마입니다. 한때 전장을 지배하던 거대한 함선으로 현재는 전략적인 접근 방식을 취해 원거리에서 드론 무리를 보내 적군을 섬멸합니다.",
+    "ru": "«Армагеддон» — это основная боевая единица флота Амаррской Империи. Когда-то он был мощным бронированным тяжеловесом, сокрушающим все на своем пути; теперь он рассчитан на применение более осторожной и взвешенной тактики: вместо него в ближний бой вступает рой дронов, пока сам он с дистанции нейтрализует энергию бортового накопителя вражеского корабля.",
+    "zh": "强大的末日沙场级战列舰是艾玛帝国的主力军舰。它曾经是战场上不可抗拒的主宰力量，不过现在它的战斗方式更加庄严与精准，一边从远距吸取敌人的能量，一边用海量的无人机撕碎目标。"
+  },
+  "factionID": 500003,
+  "graphicID": 297,
+  "groupID": 27,
+  "marketGroupID": 79,
+  "mass": 105200000.0,
+  "masteries": {
+    "0": [
+      96,
+      97,
+      99,
+      133,
+      138,
+      89,
+      93
+    ],
+    "1": [
+      96,
+      97,
+      99,
+      133,
+      138,
+      89,
+      93
+    ],
+    "2": [
+      96,
+      97,
+      99,
+      133,
+      138,
+      89,
+      93
+    ],
+    "3": [
+      96,
+      97,
+      99,
+      133,
+      138,
+      89,
+      93
+    ],
+    "4": [
+      96,
+      97,
+      99,
+      133,
+      138,
+      117,
+      89,
+      93
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Armageddon",
     "en": "Armageddon",
@@ -9,6 +74,111 @@
     "ko": "아마겟돈",
     "ru": "Armageddon",
     "zh": "末日沙场级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 250.0,
+  "sofFactionName": "amarrbase",
+  "soundID": 20061,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 5.0,
+        "bonusText": {
+          "de": "zusätzlicher Bonus auf HP der <a href=showinfo:3394>Verstärkten Schottwand</a>",
+          "en": "additional bonus to <a href=showinfo:3394>Reinforced Bulkhead</a> hitpoints",
+          "es": "de bonificación adicional a los puntos de vida del <a href=showinfo:3394>mamparo reforzado</a>.",
+          "fr": "de bonus supplémentaire aux points de vie de la <a href=showinfo:3394>cloison renforcée</a>",
+          "ja": "<a href=showinfo:3394>強化隔壁</a>HPがさらに増加",
+          "ko": "<a href=showinfo:3394>강화 격벽</a> 내구도 증가",
+          "ru": "дополнительный бонус к прочности <a href=showinfo:3394>укреплённой переборки</a>",
+          "zh": "<a href=showinfo:3394>强化舱隔壁</a>结构值加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der <a href=showinfo:3394>Panzerplatte</a>",
+          "en": "bonus to <a href=showinfo:3394>Armor Plate</a> hitpoints",
+          "es": "de bonificación a los puntos de vida de las <a href=showinfo:3394>placas de blindaje</a>.",
+          "fr": "de bonus aux points de vie du <a href=showinfo:3394>revêtement de blindage</a>",
+          "ja": "<a href=showinfo:3394>アーマープレート</a>HPが増加",
+          "ko": "<a href=showinfo:3394>장갑 플레이트</a> 내구도 증가",
+          "ru": "бонус к прочности <a href=showinfo:3394>бронеплиты</a>",
+          "zh": "<a href=showinfo:3394>装甲附甲板</a>装甲值加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 100.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der <a href=showinfo:3425>Schilderweiterung</a>",
+          "en": "bonus to <a href=showinfo:3425>Shield Extender</a> hitpoints",
+          "es": "de bonificación a los puntos de vida del <a href=showinfo:3425>extensor de escudo</a>.",
+          "fr": "de bonus aux points de vie de l'<a href=showinfo:3425>extenseur de bouclier</a>",
+          "ja": "<a href=showinfo:3425>シールドエクステンダー</a>HPが増加",
+          "ko": "<a href=showinfo:3425>실드 확장장치</a> 실드량 증가",
+          "ru": "бонус к прочности <a href=showinfo:3425>расширителя щитов</a>",
+          "zh": "<a href=showinfo:3425>护盾扩展装置</a>护盾值加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3339": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf die Präzisionsabfallreichweite von <a href=showinfo:3423>Nosferatu-</a> und <a href=showinfo:3423>Energieneutralisierer</a>-Modulen",
+            "en": "bonus to <a href=showinfo:3423>Energy Nosferatu</a> and <a href=showinfo:3423>Energy Neutralizer</a> falloff range",
+            "es": "de bonificación al alcance efectivo del <a href=showinfo:3423>nosferatu de energía</a> y el <a href=showinfo:3423>neutralizador energético</a>.",
+            "fr": "de bonus à la perte du <a href=showinfo:3423>nosferatu à énergie</a> et du <a href=showinfo:3423>neutraliseur d'énergie</a>",
+            "ja": "<a href=showinfo:3423>エネルギーノスフェラトゥ</a>および<a href=showinfo:3423>エネルギーニュートライザー</a>の精度低下範囲が改善",
+            "ko": "<a href=showinfo:3423>에너지 노스페라투</a> 및 <a href=showinfo:3423>에너지 뉴트럴라이저</a> 유효사거리 증가",
+            "ru": "увеличивается добавочная дальность действия <a href=showinfo:3423>дистанционных нейтрализаторов заряда</a> и <a href=showinfo:3423>устройств паразитной подзарядки накопителя</a>",
+            "zh": "<a href=showinfo:3423>掠能器</a>和<a href=showinfo:3423>能量中和器</a>失准范围加成"
+          },
+          "importance": 3,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die HP und den Schaden von <a href=showinfo:3436>Drohnen</a>",
+            "en": "bonus to <a href=showinfo:3436>Drone</a> hitpoints and damage",
+            "es": "de bonificación a los puntos de vida y el daño de los <a href=showinfo:3436>drones</a>.",
+            "fr": "de bonus aux dégâts et aux PV des <a href=showinfo:3436>drones</a>",
+            "ja": "<a href=showinfo:3436>ドローン</a>のヒットポイントとダメージが増加",
+            "ko": "<a href=showinfo:3436>드론</a> 내구도 및 피해량 증가",
+            "ru": "увеличивается урон бортового оружия <a href=showinfo:3436>дронов</a>; увеличивается запас их прочности",
+            "zh": "<a href=\"showinfo:3436\">无人机</a>伤害和HP加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die optimale Reichweite von <a href=showinfo:3423>Nosferatu-</a> und <a href=showinfo:3423>Energieneutralisierer</a>-Modulen",
+            "en": "bonus to <a href=showinfo:3423>Energy Nosferatu</a> and <a href=showinfo:3423>Energy Neutralizer</a> optimal range",
+            "es": "de bonificación al alcance óptimo del <a href=showinfo:3423>nosferatu de energía</a> y el <a href=showinfo:3423>neutralizador energético</a>.",
+            "fr": "de bonus à la portée optimale du <a href=showinfo:3423>nosferatu à énergie</a> et du <a href=showinfo:3423>neutraliseur d'énergie</a>",
+            "ja": "<a href=showinfo:3423>エネルギーノスフェラトゥ</a>および<a href=showinfo:3423>エネルギーニュートライザー</a>の最適射程距離が拡大",
+            "ko": "<a href=showinfo:3423>에너지 노스페라투</a> 및 <a href=showinfo:3423>에너지 뉴트럴라이저</a> 최적사거리 증가",
+            "ru": "увеличивается оптимальная дальность действия <a href=showinfo:3423>дистанционных нейтрализаторов заряда</a> и <a href=showinfo:3423>устройств паразитной подзарядки накопителя</a>",
+            "zh": "<a href=showinfo:3423>掠能器</a>和<a href=showinfo:3423>能量中和器</a>最佳射程加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 470000.0
 }

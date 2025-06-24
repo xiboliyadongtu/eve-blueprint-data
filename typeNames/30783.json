@@ -1,5 +1,18 @@
 {
-  "typeID": 30783,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Die \"medizinische Versorgung\" beschränkt sich auf ein paar Verbände und Spinnweben.",
+    "en": "The \"Medical Supply Hold\" is down to a few bandages and cobwebs.",
+    "es": "En la bodega de suministros médicos no hay más que unas pocas vendas y telarañas.",
+    "fr": "La « Soute de réserves médicales » ne se résume plus qu'à quelques bandages et des toiles d'araignée.",
+    "ja": "「医療品保管所」には、わずかばかりの包帯と布きれしか残っていない。",
+    "ko": "붕대 몇 개를 제외하고 텅텅 빈 \"의무보급 저장고\" 입니다.",
+    "ru": "В «Хранилище медицинских припасов» не осталось ничего, кроме нескольких бинтов и паутины.",
+    "zh": "这个医疗补给物资只剩一些绷带还有蜘蛛网了。"
+  },
+  "graphicID": 2515,
+  "groupID": 952,
+  "mass": 10000.0,
   "name": {
     "de": "Colonial Supply Depot",
     "en": "Colonial Supply Depot",
@@ -10,5 +23,9 @@
     "ru": "Colonial Supply Depot",
     "zh": "殖民站补给物资库房"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 379.0,
+  "sofFactionName": "genericliving",
   "volume": 27500.0
 }

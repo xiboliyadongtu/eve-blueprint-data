@@ -1,5 +1,17 @@
 {
-  "typeID": 17475,
+  "description": {
+    "de": "Dieses radioaktiv verseuchte Material wird normalerweise wiederverwertet oder zu Treibstoff weiterverarbeitet. Es kann für jegliche Lebensformen, die damit in Berührung kommen, hochgradig gefährlich sein.",
+    "en": "This radioactively contaminated material is normally recycled or processed into fuel. It can be highly dangerous to any lifeforms that come into contact with it.",
+    "es": "Material contaminado con radiación que suele reciclarse o procesarse en combustible. Puede ser muy peligroso para cualquier forma de vida que entre en contacto con él.",
+    "fr": "Ce matériau contaminé radioactivement est normalement recyclé ou transformé en carburant. Il peut s'avérer très dangereux pour tout être vivant qui entre en contact avec lui.",
+    "ja": "放射能に汚染された廃棄物。通常はリサイクル処理されるか、燃料として再利用される。直接触れると、極めて危険である。",
+    "ko": "방사선에 오염된 물질입니다. 주로 연료로 재활용되거나 처리됩니다. 접촉 시 매우 유해합니다.",
+    "ru": "Этот материал с сильным радиационным фоном, как правило, идёт на утилизацию или перерабатывается в топливо. При непосредственном контакте представляет опасность для всех форм жизни.",
+    "zh": "这些经放射性污染的材料通常被回收或者处理成燃料。它对任何接触到它的生命形态都极具危险。"
+  },
+  "groupID": 282,
+  "iconID": 29,
+  "mass": 2000.0,
   "name": {
     "de": "Radioactive Waste",
     "en": "Radioactive Waste",
@@ -10,5 +22,7 @@
     "ru": "Radioactive Waste",
     "zh": "放射性废物"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 17784,
+  "description": {
+    "de": "Diese Datenfelder erzeugen eine beträchtliche Menge zusätzlicher Energie, die es ermöglicht, eine noch größere Anzahl an Strukturen in das Operationsfeld der Starbase einzubinden.",
+    "en": "These arrays provide considerable added power output, allowing for an increased number of deployable structures in the starbase's field of operation.",
+    "es": "Estas matrices proporcionan una considerable potencia de salida adicional, lo que permite aumentar el número de estructuras desplegables en el campo de operaciones de la base estelar.",
+    "fr": "Ces modules fournissent une formidable énergie supplémentaire, permettant d'installer un plus grand nombre de structures mobiles dans le champ d'opérations de la base stellaire.",
+    "ja": "スターベースの活動フィールドで配置可能な建造物が増えた場合を考慮し、十分な補助出力を提供する施設。",
+    "ko": "추가 에너지를 생산함으로써 스타베이스가 전개할 수 있는 구조물의 숫자를 늘립니다.",
+    "ru": "Эти устройства обеспечивают значительный прирост мощности силовой установки, что позволяет увеличить число используемых модулей базы.",
+    "zh": "这些能源阵列能够提供非常可观的补充能源，让母星能装配更多的外部建筑。"
+  },
+  "graphicID": 2374,
+  "groupID": 319,
+  "mass": 100.0,
   "name": {
     "de": "Starbase Auxiliary Power Array",
     "en": "Starbase Auxiliary Power Array",
@@ -10,5 +22,10 @@
     "ru": "Starbase Auxiliary Power Array",
     "zh": "母星辅助能源阵列"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 459.0,
+  "sofFactionName": "genericmetal",
+  "soundID": 20181,
   "volume": 100.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 28625,
+  "basePrice": 2000.0,
+  "description": {
+    "de": "Arkonor ist eines der seltensten und wertvollsten Erze im bekannten Universum. Polygypsum ist ein enger Verwandter dieses Erzes, allerdings weniger bekannt. Beide Stoffe sind vom chemischen Aufbau her sehr ähnlich. Polygypsum ist jedoch relativ instabil und entzündet sich bei unvorsichtiger Handhabung. Dies stellt für Raumschiffe keine Gefahr dar, weil sie von Werk aus großer Hitze widerstehen. Eine anderweitige Verwendung des Erzes, wie zum Beispiel die Aufbereitung, ist aufgrund seiner Eigenschaften allerdings zu gefährlich.",
+    "en": "One of the rarest and most valuable ores in the known universe, Arkonor, has a less well known cousin called Polygypsum. While the two are very similar in chemical composition, the latter is quite unstable, having a tendency to ignite when handled roughly. While posing little danger to a spacecraft, which is built to withstand tremendous heat, this property makes the ore too dangerous under any other circumstances - such as in the business of refining.",
+    "es": "Una de las menas más valiosas y menos comunes del universo conocido, el arkonor, tiene un pariente no tan conocido, llamado polialjez. Aunque ambos poseen una composición química muy similar, este último es bastante inestable y tiende a arder en llamas al ser manipulado bruscamente. Si bien el riesgo para una nave es ínfimo, pues están construidas para soportar el calor extremo, esta propiedad hace que la mena sea demasiado peligrosa en cualquier otra circunstancia; como, por ejemplo, en el sector del refinamiento.",
+    "fr": "Le polygypsum est un dérivé de l'arkonor, l'un des minerais les plus rares et les plus précieux de tout l'univers connu. Si la composition chimique des deux minerais est similaire, le polygypsum est très instable et a tendance à s'enflammer lorsqu'il subit des chocs. Ce défaut ne présente aucun danger réel pour un vaisseau conçu pour résister à des chaleurs extrêmes, mais il est rédhibitoire dans tous les autres cas, notamment dans le commerce de produits raffinés.",
+    "ja": "既知宇宙で最も希少で価値の高い鉱石の一つであるアーコナーには、ポリギプサムと呼ばれるあまり知られていないよく似た鉱石がある。これらは化学組成が非常によく似ているが、ポリギプサムは極めて不安定で、乱暴に扱うと発火することがある。非常に高い熱に耐えるように建造されている艦船にとっては危険は少ないが、それ以外の精錬ビジネスなどの環境では、この特性により極めて危険なものとなっている。",
+    "ko": "폴리지프섬은 우주에서 가장 희귀하고 값비싼 광석 중 하나인 아르카노르와 동일한 계통에 속해 있는 광석입니다. 두 광석 모두 구성 성분은 유사하나 폴리지프섬의 경우 불안정한 성질 탓에 발화할 확률이 존재합니다. 방열 기능이 갖춰진 우주선에서는 이러한 문제가 크게 드러나지 않지만 그 외에 상황, 즉 정제 과정에서는 발화 위험성 때문에 크게 선호되지 않습니다.",
+    "ru": "У одной из самых редких и ценных разновидностей руды в известной вселенной — арконора — есть менее известный младший брат под названием «полигипс». Несмотря на сходства в химическом составе, последний весьма неустойчив и при неосторожном обращении легко возгорается. И пускай эта руда не представляет существенной угрозы для корабля, способного выдерживать экстремальные температуры, из-за этого необычного свойства она всё же считается весьма опасной, и перерабатывающей промышленности от неё принято держаться подальше.",
+    "zh": "艾克诺岩是已知宇宙里最稀有且最珍贵的矿石，它有一个名气不大的近亲，叫聚合石膏。虽然这两种岩石在化学成分上非常相似，但后者相当不稳定，如果不小心处置就很容易自燃。虽然对太空飞船危险不大，因为飞船都是能承受高温的，但这种不稳定的特性在其他情况下，比如在精炼的过程中，让这种矿石异常危险。"
+  },
+  "groupID": 450,
+  "iconID": 1277,
+  "mass": 1e+35,
   "name": {
     "de": "Polygypsum",
     "en": "Polygypsum",
@@ -10,5 +23,7 @@
     "ru": "Polygypsum",
     "zh": "聚合石膏"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 16.0
 }

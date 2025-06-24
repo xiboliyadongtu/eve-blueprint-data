@@ -1,5 +1,21 @@
 {
-  "typeID": 3296,
+  "basePrice": 27000.0,
+  "capacity": 780.0,
+  "description": {
+    "de": "Ein Standard-Frachtbehälter, der für gewöhnliche Güter verwendet wird.",
+    "en": "A standard cargo container, used for common freight.",
+    "es": "Contenedor de carga estándar usado para cargamentos comunes.",
+    "fr": "Ce conteneur de fret standard est utilisé pour les chargements classiques.",
+    "ja": "一般の貨物輸送に用いる標準タイプのカーゴコンテナ。",
+    "ko": "평범한 화물 컨테이너입니다.",
+    "ru": "Стандартный контейнер для перевозки грузов.",
+    "zh": "标准货柜集装箱，用于运输普通货物。"
+  },
+  "graphicID": 1174,
+  "groupID": 12,
+  "iconID": 1174,
+  "marketGroupID": 1657,
+  "mass": 1000000.0,
   "name": {
     "de": "Large Standard Container",
     "en": "Large Standard Container",
@@ -10,5 +26,9 @@
     "ru": "Large Standard Container",
     "zh": "大型标准货柜"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 50.0,
+  "sofFactionName": "genericmetal",
   "volume": 650.0
 }

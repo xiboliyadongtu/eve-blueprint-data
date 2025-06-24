@@ -1,5 +1,20 @@
 {
-  "typeID": 41336,
+  "description": {
+    "de": "Ein großer Dauerstrahl-Laserkristall von Carthum Conglomerate, der auf einer verbesserten Version des Standard-Radio-Kristalls beruht. Große Reichweitenerhöhung und Verbesserung der Schadenswirkung, aber er leidet an einer verminderten Nachführung und hat eine deutlich längere Abkühlzeit als normal. Die feinen kristallinen Strukturen, die zur Herstellung dieses fortschrittlichen Kristalls verwendet werden, degenerieren bei Verwendung, was dazu führt, dass sie schließlich zerbrechen.\n\n\n\n80% höhere optimale Reichweite.\n\n75% niedrigere Nachführgeschwindigkeit.\n\n\n\nHinweis: Diese Munition kann nur von Capital-Dauerstrahllasern der Technologiestufe II und Fraktionsvarianten benutzt werden.",
+    "en": "A Carthum Conglomerate large Beam Laser Crystal based on an upgraded version of the standard radio Crystal. Huge range and damage boost but suffers from much reduced tracking and has a considerably longer cooldown than normal. The delicate crystalline structures used in the manufacture of this advanced crystal degrade with use, eventually causing it to shatter.\r\n\r\n80% increased optimal range.\r\n75% reduced tracking speed.\r\n\r\nNote: This ammunition can only be used by capital tech level II and faction Beam Lasers.",
+    "es": "Cristal de láser de rayos grande de Carthum Conglomerate basado en una versión mejorada del cristal de radio estándar. Tiene un alcance enorme y daño potenciado, pero adolece de un rastreo muy reducido y el tiempo de recarga resulta considerablemente mayor de lo normal. Las delicadas estructuras cristalinas utilizadas en la fabricación de este avanzado cristal se degradan con el uso hasta acabar quebrándose.\n\n\n\nAlcance óptimo aumentado un 80 %.\n\nReduce un 75 % la velocidad de rastreo.\n\n\n\nAviso: Esta munición solo es compatible con láseres de rayos T2 y faccionarios para naves capitales.",
+    "fr": "Ce grand cristal de laser à rayons, conçu par le conglomérat Carthum, est une version améliorée du cristal de radio standard. Malgré sa poursuite réduite et sa durée de refroidissement supérieure à la normale, l'aurore bénéficie d'une portée très étendue et de dégâts ravageurs. Les délicates structures cristallines utilisées dans la production de ce cristal avancé se dégradent au gré des utilisations, pour irrémédiablement se briser.\n\n\n\nAugmente de 80 % la portée optimale.\n\nRéduit de 75 % la vitesse de poursuite.\n\n\n\nRemarque : ces munitions sont réservées aux lasers à rayons capitaux de tech II et faction.",
+    "ja": "カーサムコングロマリット仕様大型ビームレーザークリスタルは、標準的な放射性クリスタルを改良することで誕生した。攻撃範囲がかなり広く、ダメージブーストに優れているが、通常のものよりトラッキング性能が低く、クールダウンに相当な時間を要する。本高性能クリスタルの製造に使用されるクリスタル構造はもろく、使用するうちに徐々に劣化し、最後には砕けてしまう。最適射程距離が80％延長。トラッキング速度が75%減少。注： 大型T2とファクションビームレーザー専用。",
+    "ko": "카슘 복합산업이 설계한 대형 빔 레이저 크리스탈로 라디오파 크리스탈을 토대로 제작되었습니다. 사거리 및 피해량이 큰 폭으로 증가하는 대신 트래킹 성능이 감소하고 재사용 대기시간이 증가합니다. 최첨단 크리스탈 생산에 사용되는 분자구조는 정교하지만 부서지기 쉬워 반복 사용 시 붕괴합니다. <br><br>최적사거리 80% 증가 <br>트래킹 속도 75% 감소 <br><br>참고: 캐피탈 테크 II 및 팩션 빔 레이저에만 사용할 수 있습니다.",
+    "ru": "Большой кристалл для непрерывных лазеров, разработанный Картумским конгломератом, является результатом развития технологии стандартных радиочастотных кристаллов. Он обеспечивает огромную дальность поражения и ущерб, но значительно уменьшает скорость наводки орудий и требует намного больше времени на охлаждение. Микроструктуры кристаллов, на основе которых создан данный усовершенствованный кристалл, по мере использования постепенно приходят в негодность, что в конечном итоге приводит к его разрушению.\n\n\n\nНа 80% повышается оптимальная дальность ведения огня.\n\nНа 75% снижается скорость наводки орудий.\n\n\n\nВнимание! Данные боеприпасы используются только в лазерах непрерывного действия КБТ-класса второй техкатегории, а также пиратских или армейских модификаций.",
+    "zh": "天主凝聚会的大型集束激光晶体以标准型射频晶体的一种升级版本为基础制造。射程和伤害大幅提升，但跟踪性能差，冷却时间较长。这种高级晶体中所用到的结晶结构会在使用的过程中降解，最终会导致晶体碎裂。\n\n\n\n最佳射程提升80%。\n\n跟踪速度降低75%。\n\n\n\n注：只能用于旗舰级二级科技或势力集束激光器。"
+  },
+  "graphicID": 1145,
+  "groupID": 374,
+  "iconID": 1145,
+  "marketGroupID": 2257,
+  "mass": 1.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Aurora XL",
     "en": "Aurora XL",
@@ -10,5 +25,8 @@
     "ru": "Aurora XL",
     "zh": "极光 XL"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 17688,
   "volume": 1.0
 }

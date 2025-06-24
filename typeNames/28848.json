@@ -1,5 +1,54 @@
 {
-  "typeID": 28848,
+  "basePrice": 9038800000.0,
+  "capacity": 137500.0,
+  "description": {
+    "de": "CreoDron hat viele mit der schnellen Konzipierung der Anshar überrascht. Sie weicht stark von CreoDrons anderen Schiffs-Entwürfen ab, die normalerweise auf Drohnen ausgerichtet sind. Die speziell entwickelten Drohnen zur Frachtmanipulation ermöglichten es CreoDron, ihre Fracht-Algorithmen zu optimieren und den großen Innenraum bis in die hinterletzte Ecke auszunutzen, was die Anshar mehr als nur konkurrenzfähig gegenüber ihresgleichen macht.  ",
+    "en": "CreoDron surprised many by their quick conception of the Anshar, a stark diversification from their usual drone centric ship designs. The Anshar's specially-developed cargo-manipulation drones allowed CreoDron to optimize their loading algorithms and fully utilize every nook and cranny of the ship's spacious interior, ensuring it more than holds its own amongst its peers.  ",
+    "es": "CreoDron sorprendió a muchos con su rápida concepción de la Anshar, que supone una fuerte diversificación de sus habituales diseños de naves centradas en drones. Los drones de manipulación de carga especialmente desarrollados de la Anshar permitieron a CreoDron optimizar sus algoritmos de carga y aprovechar al máximo todos los rincones del espacioso interior de la nave, asegurando que esté a la altura de sus compañeras.  ",
+    "fr": "CreoDron en a surpris plus d'un lors de la fabrication éclair de l'Anshar, version austère de ses vaisseaux de drones habituels. Les drones de l'Anshar, spécialisés dans la manipulation de marchandises, permirent à CreoDron d'optimiser ses algorithmes de chargement, ainsi que l'utilisation des moindres recoins de ses vastes vaisseaux, faisant de l'Anshar l'un des premiers vaisseaux de sa catégorie.  ",
+    "ja": "クレオドロンは、通常のドローン中心の艦船設計から大きく方向転換したアンシャーをいち早く考案したことにより、多くの人を驚かせた。アンシャーは専用に開発された貨物操作ドローンを搭載している。荷役アルゴリズムの最適化により、広大な貨物スペースを隅から隅まで無駄なく使い切ることができるため、同クラスの船より収容力に優れているのだ。  ",
+    "ko": "크레오드론의 신규 함선이었던 안샤르는 기존 드론선과 확연한 차이를 보여 사람들에게 큰 놀라움을 선사했습니다. 안샤르에 탑재되는 특수 화물 운반 드론은 효율적인 공간 사용과 적재 알고리즘의 최적화를 통해 기존 함선보다 더욱 많은 양의 화물을 적재할 수 있게 되었습니다.  ",
+    "ru": "Модель Anshar от «КреоДрона» стала для многих большой неожиданностью: она разительно отличалась от традиционных кораблей компании, ориентированных на применение дронов. Специально для Anshar были разработаны особые дроны, занимающиеся распределением грузов, что позволило оптимизировать алгоритмы погрузки и использовать каждый уголок и без того вместительного судна. Таким образом, это творение «КреоДрона» ничуть не уступает своим конкурентам и даже в чём-то их превосходит.  ",
+    "zh": "西顿构想出安莎尔级速度之快让很多人吃惊不小，因为该舰型和他们传统的无人机中心舰设计迥然不同。安莎尔级专门开发的货物操纵无人机让西顿可以充分利用该舰宽大的载货空间以及舰船内部每个角落和缝隙，确保其在同类中最优秀的载货能力。  "
+  },
+  "factionID": 500004,
+  "graphicID": 3359,
+  "groupID": 902,
+  "marketGroupID": 1092,
+  "mass": 940000000.0,
+  "masteries": {
+    "0": [
+      145,
+      117,
+      118,
+      151
+    ],
+    "1": [
+      145,
+      117,
+      118,
+      151
+    ],
+    "2": [
+      145,
+      117,
+      118,
+      151
+    ],
+    "3": [
+      145,
+      117,
+      118,
+      151
+    ],
+    "4": [
+      145,
+      117,
+      118,
+      151
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Anshar",
     "en": "Anshar",
@@ -10,5 +59,112 @@
     "ru": "Anshar",
     "zh": "安莎尔级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 581.0,
+  "sofFactionName": "creodron",
+  "soundID": 20073,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonus": 100,
+        "bonusText": {
+          "de": "Reduktion des CPU-Bedarfs für <a href=showinfo:1333>Verstärkte Schotten</a>",
+          "en": "reduction in <a href=showinfo:1333>Reinforced Bulkhead</a> CPU requirements",
+          "es": "de reducción de los requisitos de CPU del <a href=showinfo:1333>mamparo reforzado</a>.",
+          "fr": "réduction de la charge CPU requise pour les <a href=showinfo:1333>cloisons renforcées</a>",
+          "ja": "<a href=showinfo:1333>強化隔壁</a>のCPU要件が減少",
+          "ko": "<a href=showinfo:1333>강화 격벽</a> CPU 사용량 감소",
+          "ru": "сокращается потребность <a href=showinfo:1333>усиленных переборок</a> в мощностях ЦПУ",
+          "zh": "<a href=\"showinfo:1333\">加强型舱隔壁</a>的CPU需求降低"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 90,
+        "bonusText": {
+          "de": "Reduktion der effektiv zurückgelegten Distanz für die Sprungerschöpfung",
+          "en": "reduction to effective distance traveled for jump fatigue",
+          "es": "de reducción de la distancia efectiva hasta sufrir fatiga de salto.",
+          "fr": "de réduction de la distance effectuée pour l'épuisement de saut",
+          "ja": "ジャンプによる疲弊が飛行距離に及ぼす影響を低減",
+          "ko": "이동 거리에 따른 점프 피로도 감소",
+          "ru": "медленнее накапливается усталость от гиперпереходов",
+          "zh": "减少跳跃距离对产生跳跃疲劳的影响"
+        },
+        "importance": 2,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "20527": [
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die Frachtraumkapazität des Schiffs",
+            "en": "bonus to ship cargo capacity",
+            "es": "de bonificación a la capacidad de carga de la nave.",
+            "fr": "de bonus à la capacité de la soute du vaisseau",
+            "ja": "艦船のカーゴ容量が増加",
+            "ko": "화물 적재량 증가",
+            "ru": "увеличивается вместимость грузового отсека корабля",
+            "zh": "舰船货柜舱容量加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf den Trägheitsmodifikator des Schiffs",
+            "en": "bonus to ship inertia modifier",
+            "es": "de bonificación al modificador de inercia de la nave.",
+            "fr": "de bonus au modificateur d'inertie du vaisseau",
+            "ja": "艦船の慣性修正乗数が増加",
+            "ko": "관성 계수 증가",
+            "ru": "уменьшается инертность конструкции корабля",
+            "zh": "舰船惯性调整系数加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ],
+      "29029": [
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf die HP der Panzerung und des Rumpf des Schiffs",
+            "en": "bonus to ship armor and hull hitpoints",
+            "es": "de bonificación a los puntos de vida del blindaje y el casco de la nave.",
+            "fr": "bonus au blindage et aux PV de la coque du vaisseau",
+            "ja": "艦船のアーマー・船体のヒットポイントが増加",
+            "ko": "함선 장갑 및 선체 내구도 증가",
+            "ru": "увеличивается запас прочности брони и корпуса корабля",
+            "zh": "舰船装甲值和结构值加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Reduktion des Sprungtreibstoff-Bedarfs",
+            "en": "reduction in jump fuel requirement",
+            "es": "de reducción del requisito de combustible para saltos.",
+            "fr": "de réduction au carburant de saut hyperspatial requis",
+            "ja": "ジャンプ燃料使用量が減少",
+            "ko": "요구되는 점프 연료량 감소",
+            "ru": "сокращается потребление топлива гипердвигателем корабля",
+            "zh": "跳跃燃料需求减少"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 20187,
   "volume": 17550000.0
 }

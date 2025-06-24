@@ -1,5 +1,19 @@
 {
-  "typeID": 17274,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Der verriegelte Container treibt lautlos inmitten der Sterne und gibt keinen Hinweis darauf, welche Schätze in seinem Inneren verborgen sind.",
+    "en": "The bolted container drifts silently amongst the stars, giving no hint to what treasures it may hide.",
+    "es": "El contenedor cerrado se desplaza silencioso a la deriva entre las estrellas sin desvelar qué tesoros oculta.",
+    "fr": "Ce conteneur verrouillé dérive silencieusement dans l'espace, sans donner la moindre indication sur son chargement.",
+    "ja": "ボルト留めされたコンテナ。星屑を縫うようにひっそりと漂い、どんな宝が積まれているのか、外側からうかがい知ることはできない。",
+    "ko": "밀폐된 컨테이너는 알 수 없는 보물을 품은 채 별들 사이를 소리 없이 부유하고 있습니다.",
+    "ru": "Этот запертый контейнер мирно дрейфует среди звезд, не давая ни намека о тех сокровищах, которые он может скрывать.",
+    "zh": "这个上了栓的集装箱悄然无声地在星际之间漂移，丝毫不向人们透露其中可能隐藏了什么宝藏。"
+  },
+  "graphicID": 1176,
+  "groupID": 496,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Stuffed Container",
     "en": "Stuffed Container",
@@ -10,5 +24,10 @@
     "ru": "Stuffed Container",
     "zh": "塞满的集装箱"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericmetal",
+  "soundID": 31,
   "volume": 2750.0
 }

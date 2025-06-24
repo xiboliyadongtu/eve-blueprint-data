@@ -1,5 +1,16 @@
 {
-  "typeID": 29590,
+  "description": {
+    "de": "Ein Aufzug.",
+    "en": "An elevator.",
+    "es": "Un ascensor.",
+    "fr": "Un ascenseur.",
+    "ja": "エレベーター。",
+    "ko": "엘리베이터입니다.",
+    "ru": "Лифт.",
+    "zh": "一部升降机。"
+  },
+  "graphicID": 2584,
+  "groupID": 226,
   "name": {
     "de": "Fortified Drone Elevator",
     "en": "Fortified Drone Elevator",
@@ -10,5 +21,9 @@
     "ru": "Fortified Drone Elevator",
     "zh": "强化的无人机升降机"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 300.0,
+  "sofFactionName": "roguebase"
 }

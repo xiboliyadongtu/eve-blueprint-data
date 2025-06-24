@@ -1,5 +1,18 @@
 {
-  "typeID": 2628,
+  "description": {
+    "de": "Was auch immer auf diesen Datenkristallen gespeichert wird - die eingesetzte Verschlüsselungstechnologie sprengt gängige Methoden der Entschlüsselung und bedarf der Kompetenz eines Experten, um sie zu knacken.",
+    "en": "Whatever is recorded on these datacrystals, the encryption is far beyond normal methods of deciphering, and requires expert attention to crack.",
+    "es": "Sea lo que sea lo que contienen estos cristales de datos, su encriptación va más allá de los métodos convencionales de descifrado y solo una mano experta puede hackearlos.",
+    "fr": "Peu importe ce que contiennent ces cristaux de données, leur méthode de cryptage dépasse les méthodes classiques, et nécessite l'intervention d'un expert.",
+    "ja": "このデータクリスタルの山に何が記録されているにせよ、一般的な手法とは完全に異なる暗号化形式が使われており、解読は専門家に依頼する必要がある。",
+    "ko": "이 안의 데이터 크리스탈에 무엇이 기록되어있던 간에, 일반적인 방법으로 해독할 수 있는 암호 방식이 아니며 전문적인 기술이 필요합니다.",
+    "ru": "Неизвестно, что именно записано на этих кристаллах данных: этот шифровальный метод не поддается расшифровке, и для того, чтобы его раскусить, надо привлекать экспертов.",
+    "zh": "无论这些数据晶体上记录着什么，它们所采用的加密技术已经远远超过现有的普通揭秘技术所能及的程度，只有专家才能够将它们破解。"
+  },
+  "graphicID": 1176,
+  "groupID": 314,
+  "iconID": 1209,
+  "mass": 40000.0,
   "name": {
     "de": "Crates of Odd Data Crystals",
     "en": "Crates of Odd Data Crystals",
@@ -10,5 +23,8 @@
     "ru": "Crates of Odd Data Crystals",
     "zh": "装箱的奇异数据晶体"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "genericmetal",
   "volume": 40.0
 }

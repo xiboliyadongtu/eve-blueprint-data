@@ -1,5 +1,19 @@
 {
-  "typeID": 72850,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Versorgungsdepots versorgen die verteidigende Fraktion mit Vorteilspunkten. Durch die Zerstörung von Versorgungsdepots werden die Vorteilspunkte des Verteidigers in diesem System verringert.",
+    "en": "Supply Depots supply the defending faction with advantage points. Destroying Supply Depots will reduce the defender's advantage points in that system.",
+    "es": "Los depósitos de suministros proporcionan puntos de ventaja a la facción defensora. Al destruir depósitos de suministros reducirás los puntos de ventaja del defensor en dicho sistema.",
+    "fr": "Supply Depots supply the defending faction with advantage points. Destroying Supply Depots will reduce the defender's advantage points in that system.",
+    "ja": "補給所は防衛側の勢力にアドバンテージポイントをもたらす。補給所を破壊するとそのシステムでの防御側のアドバンテージポイントを減少させる。",
+    "ko": "보급고는 방어 측 팩션의 승기 포인트를 증가시킵니다. 보급고를 파괴하면 해당 성계에서 방어 측 팩션의 승기 포인트가 감소합니다.",
+    "ru": "Склады с припасами дают очки преимущества обороняющейся державе. Уничтожение складов с припасами снизит преимущество обороняющихся в системе.",
+    "zh": "补给站可以为防守方势力提供优势点数。摧毁补给站可以降低防守方在该星系中的优势点数。"
+  },
+  "factionID": 500003,
+  "graphicID": 2706,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Amarr-Versorgungsdepot",
     "en": "Amarr Supply Depot",
@@ -10,5 +24,10 @@
     "ru": "Амаррский склад снабжения",
     "zh": "艾玛补给站"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 500.0,
+  "sofFactionName": "genericmetal",
+  "soundID": 20195,
   "volume": 100000000.0
 }

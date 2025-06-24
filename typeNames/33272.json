@@ -1,5 +1,20 @@
 {
-  "typeID": 33272,
+  "basePrice": 6000.0,
+  "capacity": 10.0,
+  "description": {
+    "de": "Werfer für <a href=showinfo:18635>Vermessungssonden</a>\n\n\n\n10 % Reduktion der benötigten Zeit zur Vermessung eines Mondes.\n\n\n\nMit <a href=showinfo:18635>Vermessungssonden</a> wird das Material analysiert, aus dem Monde bestehen.\n\n\n\nHinweis: Es kann nur ein Vermessungssondenwerfer pro Schiff ausgerüstet werden.",
+    "en": "Launcher for <a href=showinfo:18635>Survey Probes</a>.\r\n\r\n10% reduction to the time required for a moon survey\r\n\r\n<a href=showinfo:18635>Survey Probes</a> are used to analyze the material composition of moons.\r\n\r\nNote: Only one survey probe launcher can be fitted per ship.",
+    "es": "Lanza <a href=showinfo:18635>sondas de prospección</a>.\n\n\n\n10 % de reducción del tiempo necesario para realizar prospecciones lunares.\n\n\n\nLas <a href=showinfo:18635>sondas de prospección</a> se utilizan para analizar la composición de materiales de las lunas.\n\n\n\nAviso: Solo se puede equipar un lanzasondas de prospección por nave.",
+    "fr": "Lanceur pour <a href=showinfo:18635>sondes d'exploration</a>. 10 % de réduction au temps nécessaire pour une inspection lunaire. Les <a href=showinfo:18635>sondes d'exploration</a> sont utilisées pour analyser la composition matérielle des lunes. Remarque : un seul lanceur de sonde d'exploration peut être installé par vaisseau.",
+    "ja": "<a href=showinfo:18635>調査プローブ</a>を射出するランチャー。\r\n\n衛星調査の所要時間が10%短縮\r\n\n<a href=showinfo:18635>調査プローブ</a>は衛星の資源組成を分析するのに使う。\r\n\n注：衛星調査プローブランチャーは船1隻に1基しか搭載できない。",
+    "ko": "<a href=showinfo:18635>조사 프로브</a> 런처입니다. <br><br>위성 조사에 소요되는 시간 10% 감소<br><br><a href=showinfo:18635>조사 프로브</a>는 위성의 자원 구성을 분석하는데 사용됩니다. <br><br>참고: 조사 프로브 런처는 한 개만 장착할 수 있습니다.",
+    "ru": "Пусковая установка <a href=showinfo:18635>зондов луноразведки</a>.\n\n\n\nНа 10% сокращается расход времени на сбор данных о составе луны\n\n\n\n<a href=showinfo:18635>Зонды луноразведки</a> используются для получения данных о составе лун.\n\n\n\nВнимание: установка на один корабль нескольких пусковых установок зондов луноразведки невозможна.",
+    "zh": "<a href=showinfo:18635>测量探针</a>发射器。\n\n\n\n测量卫星需要的时间减少10%\n\n\n\n<a href=showinfo:18635>测量探针</a>用来分析卫星的物质组成结构。\n\n\n\n注：每艘飞船只能安装一个测量探针发射器。"
+  },
+  "groupID": 1226,
+  "iconID": 2677,
+  "marketGroupID": 1717,
+  "metaGroupID": 2,
   "name": {
     "de": "Survey Probe Launcher II",
     "en": "Survey Probe Launcher II",
@@ -10,5 +25,8 @@
     "ru": "Survey Probe Launcher II",
     "zh": "测量探针发射器 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 33270,
   "volume": 5.0
 }

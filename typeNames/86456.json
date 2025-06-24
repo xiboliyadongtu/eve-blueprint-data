@@ -1,5 +1,18 @@
 {
-  "typeID": 86456,
+  "capacity": 950.0,
+  "description": {
+    "de": "Eine Raubdrohne, die einem Schiff der Kreuzerklasse entspricht. Ihre Hauptaufgabe scheint Vernichtung zu sein.",
+    "en": "A Rogue Drone equivalent to a cruiser-class ship. Its primary objective seems to be destruction.",
+    "es": "Un dron rebelde equivalente a una nave de clase crucero. Su objetivo principal parece ser la destrucción.",
+    "fr": "Un drone renégat équivalent à un croiseur. Son objectif principal semble être la destruction.",
+    "ja": "破壊を主な役割としているらしい、巡洋艦級艦船相当のローグドローン。",
+    "ko": "크루저급 함선과 동급인 로그 드론입니다. 파괴 활동이 주요 임무인 것으로 보입니다.",
+    "ru": "Этот восставший дрон по характеристикам соответствует крейсеру. Похоже, его основная функция — уничтожение противника.",
+    "zh": "一架巡洋舰级别的自由无人机。其主要目标似乎在于摧毁。"
+  },
+  "graphicID": 1229,
+  "groupID": 1665,
+  "mass": 3000000.0,
   "name": {
     "de": "Secure Emergence",
     "en": "Secure Emergence",
@@ -10,5 +23,10 @@
     "ru": "Secure Emergence",
     "zh": "安全崛起"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 250.0,
+  "sofFactionName": "roguebase",
+  "soundID": 11,
   "volume": 1010000.0
 }

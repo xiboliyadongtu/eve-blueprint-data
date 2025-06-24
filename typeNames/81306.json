@@ -1,5 +1,19 @@
 {
-  "typeID": 81306,
+  "capacity": 360.0,
+  "description": {
+    "de": "Das leichte Langstrecken-Kampfschiff Kikimora kann als Antwort des Kollektivs auf Schiffe der Zerstörerklasse verstanden werden. Es ist in der Lage, leichte entropische Desintegratoren sowie eine Reihe von Unterstützungswaffen zu montieren. Diese spezielle Variante der Kikimora scheint auf Schadensanrichtung und Fernreparatur ausgelegt zu sein. Bei einer ersten Untersuchung zeigt das Schiff Anzeichen von jüngeren Kampfschäden. Es ist jedoch wahrscheinlich, dass automatisierte Verteidigungssysteme weiterhin betriebsbereit sind und eine potenzielle Gefahr für unvorbereitete Kapselpiloten darstellen.",
+    "en": "A light, long-range combat ship that may be considered the Collective's approach to standoff destroyer designs, the Kikimora is capable of mounting Light Entropic Disintegrators and an array of support weapons. This particular Kikimora variant appears to be engineered towards damage application and remote repair capabilities.\r\n\r\nUpon initial examination, the ship exhibits signs of recent battle damage. However, it is probable that automated defense systems remain operational, presenting a potential hazard to the unsuspecting.",
+    "es": "Nave de guerra ligera y de largo alcance que puede considerarse el acercamiento del Colectivo a los diseños de destructores con ataque a distancia. La Kikimora es capaz de montar desintegradores entrópicos ligeros y una batería de armas de apoyo. Esta variante concreta de la Kikimora parece haber sido diseñada para infligir daño y tiene capacidades de reparación remota.\r\n\r\nEl examen inicial revela que la nave muestra signos de haber recibido daño en una batalla reciente. Sin embargo, es probable que los sistemas de defensa automatizados sigan funcionando y puedan resultar peligrosos para los incautos.",
+    "fr": "Vaisseau de combat léger et de longue portée pouvant être considéré comme une tentative du Collectif de s'approcher d'un destroyer d'affrontement, le Kikimora peut être équipé de désintégrateurs entropiques légers et de diverses armes de soutien. Cette variante particulière du Kikimora semble avoir été conçue pour infliger des dégâts et pour ses capacités de réparation à distance. À première vue, le vaisseau présente des signes de dégâts de combat récents. Cependant, il est probable que les systèmes de défense automatisés restent opérationnels, représentant un danger potentiel pour qui n'y prend pas garde.",
+    "ja": "キキモラは、軽量で長距離戦に向いた戦闘船である。ライトエントロピックディスインテグレーターや多数のサポート兵器を搭載可能で、コレクティブにとっての駆逐艦級の役割を与えられていると見なすこともできる。このタイプのキキモラは、ダメージとリモートリペア機能を念頭に設計されているようだ。\r\n\r\n初期調査により、この艦船は最近の戦闘で損傷していることが分かっている。ただし自動防衛システムは健在な可能性があり、無防備な者にとって潜在的な脅威となっている。",
+    "ko": "키키모라는 장거리 경량 전투함으로 라이트 엔트로픽 분열기 및 다양한 지원 무기를 장착할 수 있어 디스트로이어에 대한 트리글라비안의 생각을 엿볼 수 있습니다. 해당 키키모라 기종은 화력과 원격 수리 성능이 향상된 것으로 추측됩니다.<br><br>최근 전투로 인해 선체가 손상되었으나, 자동 방어 체계는 아직 작동하고 있습니다. 무방비하게 접근할 경우 피해를 입을 수 있습니다.",
+    "ru": "Лёгкий боевой корабль дальнего действия — так, по мнению Сообщества, должен выглядеть штурмовой эсминец. Эсминец Kikimora пригоден для установки лёгких энтропических дезинтеграторов и ряда орудий поддержки. Этот вариант, по-видимому, создан для нанесения урона и может осуществлять дистанционный ремонт. Похоже, корабль получил повреждения во время недавнего боя, но высока вероятность, что его автоматизированные оборонительные системы ещё работают и могут представлять опасность.",
+    "zh": "作为一艘轻型远距战斗舰船，奇奇莫拉级可以看做是三神裔在驱逐舰设计方向上的尝试。它能够装配轻型熵能分解者以及一系列辅助武器。这艘特殊的奇奇莫拉级衍生型看起来加装了伤害增强和远程维修装备。初步检查发现这艘舰船近期有战损的痕迹，但它的自动防御系统很可能仍在运行，贸然接近可能会受到攻击。"
+  },
+  "factionID": 500026,
+  "graphicID": 22316,
+  "groupID": 1982,
+  "mass": 1350000.0,
   "name": {
     "de": "Impaired Blitzing Kikimora",
     "en": "Impaired Blitzing Kikimora",
@@ -10,5 +24,10 @@
     "ru": "Impaired Blitzing Kikimora",
     "zh": "受损的闪击型奇奇莫拉级"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 42.0,
+  "sofFactionName": "triglavianbase",
+  "soundID": 20063,
   "volume": 28600.0
 }

@@ -1,5 +1,16 @@
 {
-  "typeID": 29583,
+  "description": {
+    "de": "Ein Aufzug.",
+    "en": "An elevator.",
+    "es": "Un ascensor.",
+    "fr": "Un ascenseur.",
+    "ja": "エレベーター。",
+    "ko": "엘리베이터입니다.",
+    "ru": "Лифт.",
+    "zh": "一部升降机。"
+  },
+  "graphicID": 2471,
+  "groupID": 226,
   "name": {
     "de": "Fortified Guristas Elevator",
     "en": "Fortified Guristas Elevator",
@@ -10,5 +21,9 @@
     "ru": "Fortified Guristas Elevator",
     "zh": "强化的古斯塔斯升降机"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 741.0,
+  "sofFactionName": "guristas"
 }

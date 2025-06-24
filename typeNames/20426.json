@@ -1,5 +1,16 @@
 {
-  "typeID": 20426,
+  "description": {
+    "de": "Dieses tragbare Interface ermöglicht dem Nutzer, den elektronischen Datenstrom zu erkunden und jede einzelne Information aufzuspüren, die zu seiner Reproduktion notwendig ist. Nur eine Datenschnittstelle ist für die Entwicklung erforderlich und kann so oft verwendet werden, wie notwendig.",
+    "en": "This portable interface permits its user to course through the electronic datastream, hunting down the stray bits of information necessary for his grand creation. Only one data interface is required for invention, and it can be re-used as often as needed.",
+    "es": "Esta interfaz portátil permite al usuario atravesar el flujo electrónico de datos y dar caza a los fragmentos perdidos de datos necesarios para su creación. Solo se necesita una interfaz de datos por invención y se puede volver a usar siempre que se necesite.",
+    "fr": "Cette interface portable permet à son utilisateur de parcourir les flots de données électroniques afin de choisir celles dont il a besoin pour ses projets. Une seule interface de données est nécessaire pour l'invention, et peut être réutilisée aussi souvent que nécessaire.",
+    "ja": "ブループリントの電子データストリームをたどって細切れのデータを収集し、革新技術の開発を可能にする携帯型インターフェイス。新技術の発明に必要なデータインターフェイスは一つで、何度でも再利用できる。",
+    "ko": "휴대용 인터페이스로 전자 데이터스트림을 탐색하여 인벤션에 필요한 데이터를 입수할 수 있습니다. 인벤션에는 하나의 데이터 인터페이스만이 요구되며 재사용이 가능합니다.",
+    "ru": "Этот переносной интерфейс позволяет своему пользователю выискивать отдельные биты данных, необходимые для осуществления грандиозных изобретений, в потоке данных электронных чертежей. Для изобретения требуется только один интерфейс данных; его можно использовать повторно.",
+    "zh": "这个便携接口允许使用者快速流览物品图表的电子流，找到他所需的数据串。每次生产只需要使用一个数据接口，而且可以根据需要重复使用。"
+  },
+  "groupID": 716,
+  "mass": 1.0,
   "name": {
     "de": "Data Interface - Basic",
     "en": "Data Interface - Basic",
@@ -10,5 +21,7 @@
     "ru": "Data Interface - Basic",
     "zh": "数据接口—基础级"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 1.0
 }

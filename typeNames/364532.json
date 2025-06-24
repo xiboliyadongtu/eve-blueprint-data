@@ -1,5 +1,17 @@
 {
-  "typeID": 364532,
+  "basePrice": 66000.0,
+  "description": {
+    "de": "Grundlegende Kenntnisse in der Bedienung von schweren Waffen.\n\n3% Abzug auf die CPU-Auslastung pro Skillstufe.",
+    "en": "Basic understanding of heavy weapon operation.\n\n3% reduction to CPU usage per level.",
+    "es": "Conocimiento básico del manejo de armas pesadas.\n\n-3% al coste de CPU por nivel.",
+    "fr": "Notions de base en utilisation des armes lourdes.\n\n3 % de réduction d'utilisation de CPU par niveau.",
+    "it": "Comprensione fondamenti del funzionamento delle armi pesanti.\n\n3% di riduzione dell'utilizzo della CPU per livello.",
+    "ja": "重火器操作の基本的な知識。\n\nレベル上昇ごとに、CPU使用量が3%減少する。",
+    "ko": "중량 무기 운용에 대한 기본적인 이해를 습득합니다. <br><br>매 레벨마다 CPU 요구치 3% 감소",
+    "ru": "Понимание основ управления тяжелым оружием.\n\n3% снижение потребления ресурсов ЦПУ на каждый уровень.",
+    "zh": "操作重型武器基本知识。每升一级，CPU使用率降低3%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Bedienung: schwere Waffen",
     "en": "Heavy Weapon Operation",
@@ -11,5 +23,6 @@
     "ru": "Обращение с тяжелым оружием",
     "zh": "重型武器操作"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

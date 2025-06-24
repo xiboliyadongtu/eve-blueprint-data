@@ -1,5 +1,15 @@
 {
-  "typeID": 1629,
+  "description": {
+    "de": "+50% Warpkosten, wenn sich ein Planet oder Mond im unmittelbaren Zielgebiet befindet.",
+    "en": "+50% warp cost if planet/moon in target bubble.",
+    "es": "+50 % al coste de warp si el planeta/luna está en la burbuja objetivo.",
+    "fr": "Augmente de 50 % le coût du warp si la planète ou la lune est dans la bulle ciblée.",
+    "ja": "ターゲットバブル内に惑星または衛星が含まれている場合のワープコスト+50%。",
+    "ko": "행성/위성이 타겟 버블 내에 위치할 시 워프 비용 50% 증가",
+    "ru": "+50% стоимости гиперпрыжка, если в бабле есть планета/луна.",
+    "zh": "若目标立场中有行星或卫星，则跃迁能量消耗增加50%。"
+  },
+  "groupID": 193,
   "name": {
     "de": "Barophobia Bonus",
     "en": "Barophobia Bonus",
@@ -10,5 +20,6 @@
     "ru": "Barophobia Bonus",
     "zh": "重力恐惧加成"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

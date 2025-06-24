@@ -1,5 +1,18 @@
 {
-  "typeID": 27656,
+  "basePrice": 2000000000.0,
+  "capacity": 7500000.0,
+  "description": {
+    "de": "Die Fundament-Upgrade-Plattform ist das erste Level von verfügbaren Upgrade-Plattformen für Außenposten tief im All. Sie erlaubt die Installation von einer Rang 1 Außenposten-Verbesserung.",
+    "en": "The Foundation upgrade platform is the first level of available upgrade platforms for deep-space outposts. It allows for the installation of 1 Tier 1 outpost improvement.",
+    "es": "La plataforma de mejora Fundación es el primer nivel de las plataformas de mejora disponibles para los puestos avanzados del espacio profundo. Permite la instalación de una mejora de nivel 1.",
+    "fr": "Premier niveau de plateformes d'amélioration disponibles pour les avant-postes de l'espace profond. Permet l'installation d'une optimisation de 1er rang pour un avant-poste.",
+    "ja": "ディープスペースアウトポスト用の基礎強化プラットフォーム。ティアー1の改良を1回インストールすることができる。",
+    "ko": "심우주 전초기지 플랫폼의 1단계 업그레이드입니다. 1티어 추가 구성물을 설치할 수 있습니다.",
+    "ru": "Платформы для модуля расширения станции Foundation представляют собой первый уровень модернизации аванпостов в глубоком космосе. Эта платформа позволяет осуществить установку 1 модуля расширения станции класса Tier 1.",
+    "zh": "基础升级平台是深空空间站所使用的第一层可用升级平台。它允许安装1个1级哨站加强平台。"
+  },
+  "graphicID": 3304,
+  "groupID": 835,
   "name": {
     "de": "Foundation Upgrade Platform",
     "en": "Foundation Upgrade Platform",
@@ -10,5 +23,9 @@
     "ru": "Foundation Upgrade Platform",
     "zh": "基础升级平台"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 579.0,
+  "sofFactionName": "amarrbase",
   "volume": 750000.0
 }

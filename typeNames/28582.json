@@ -1,5 +1,18 @@
 {
-  "typeID": 28582,
+  "capacity": 8850.0,
+  "description": {
+    "de": "Eine Fabrik für Salzsäure.",
+    "en": "A Hydrochloric Acid manufacturing plant.",
+    "es": "Una planta de fabricación de ácido clorhídrico.",
+    "fr": "Usine de production d'acide chlorhydrique.",
+    "ja": "塩酸製造プラント。",
+    "ko": "염산 제조 시설입니다.",
+    "ru": "Цех по производству соляной кислоты.",
+    "zh": "一座盐酸生产厂。"
+  },
+  "graphicID": 2373,
+  "groupID": 319,
+  "mass": 1000000.0,
   "name": {
     "de": "Hydrochloric Acid Manufacturing Plant",
     "en": "Hydrochloric Acid Manufacturing Plant",
@@ -10,5 +23,9 @@
     "ru": "Hydrochloric Acid Manufacturing Plant",
     "zh": "盐酸生产厂"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 450.0,
+  "sofFactionName": "genericmetal",
   "volume": 150.0
 }

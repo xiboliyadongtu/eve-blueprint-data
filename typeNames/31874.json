@@ -1,5 +1,20 @@
 {
-  "typeID": 31874,
+  "basePrice": 16000.0,
+  "description": {
+    "de": "Mittlere Aufklärungsdrohne",
+    "en": "Medium Scout Drone",
+    "es": "Dron de reconocimiento mediano",
+    "fr": "Drone de reconnaissance intermédiaire.",
+    "ja": "ミディアムスカウトドローン",
+    "ko": "미디움 스카우트 드론",
+    "ru": "Средний разведывательный дрон",
+    "zh": "中型侦察无人机"
+  },
+  "graphicID": 2770,
+  "groupID": 100,
+  "marketGroupID": 838,
+  "mass": 5000.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Caldari Navy Vespa",
     "en": "Caldari Navy Vespa",
@@ -10,5 +25,11 @@
     "ru": "Caldari Navy Vespa",
     "zh": "加达里海军金星"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 20.0,
+  "sofFactionName": "caldarinavy",
+  "variationParentTypeID": 15508,
   "volume": 10.0
 }

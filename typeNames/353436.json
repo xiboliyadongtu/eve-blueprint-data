@@ -1,5 +1,17 @@
 {
-  "typeID": 353436,
+  "basePrice": 192000.0,
+  "description": {
+    "de": "Skill für das Ressourcenmanagement bei Sekundärwaffen.\n5% Abzug auf die CPU-Auslastung von Sekundärwaffen pro Skillstufe.",
+    "en": "Skill at sidearm weapon resource management.\r\n5% reduction to sidearm CPU usage per level.",
+    "es": "Habilidad de gestión de recursos de armas secundarias.\n-5% al coste de CPU de las armas secundarias por nivel.",
+    "fr": "Compétence de gestion des ressources d'arme secondaire.\n5 % de réduction d'utilisation de CPU des armes secondaires par niveau.",
+    "it": "Abilità nella gestione delle risorse con armi secondarie.\n5% di riduzione dell'utilizzo della CPU delle armi secondarie per livello.",
+    "ja": "サイドアームのリソース消費を管理するスキル。\nレベル上昇ごとに、サイドアームのCPU消費量が5%節減する。",
+    "ko": "보조무기 전용 자원관리를 위한 스킬입니다. <br><br>매 레벨마다 보조무기의 CPU 사용량 5% 감소",
+    "ru": "Навык управления ресурсами личного оружия.\n5% сокращение потребления ресурсов ЦПУ личным оружием на каждый уровень.",
+    "zh": "管理副武器资源的技能。每升一级，副武器的CPU使用率降低5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Sekundärwaffenupgrade",
     "en": "Sidearm Weapon Upgrade",
@@ -11,5 +23,7 @@
     "ru": "Пакет модернизации личного оружия",
     "zh": "副武器升级件"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

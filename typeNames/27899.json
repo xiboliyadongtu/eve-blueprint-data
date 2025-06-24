@@ -1,5 +1,18 @@
 {
-  "typeID": 27899,
+  "capacity": 1200.0,
+  "description": {
+    "de": "Diese Schiffe sind von sich in der Nähe befindlichen Schiffen der Träger-Klasse losgelöst. Ihre kleine Größe und Manövrierfertigkeit, kombiniert mit topmodernen Waffen, machen sie sogar für die größten Schiffe zu einer Bedrohung.",
+    "en": "These ships are detached from nearby Carrier-class ships. Their small size and manoeuvrability, combined with state-of-the-art weaponry make them a threat to even the biggest of ships.",
+    "es": "Estas naves están separadas de los portanaves cercanos. Su pequeño tamaño y maniobrabilidad, combinados con un armamento de última generación, las convierten en una amenaza incluso para la mayor de las naves.",
+    "fr": "Ces vaisseaux proviennent de porte-vaisseaux situés à proximité. Leur souplesse et leur petite taille, alliées à un armement de pointe, en font de dangereux adversaires, même pour les vaisseaux lourds.",
+    "ja": "近くにいる艦載機母艦級の船から飛び立った艦載戦闘機。小型の船体と機動性に加えて最先端兵器を搭載しており、最大級の船さえも脅かす存在。",
+    "ko": "캐리어급 함선에 탑재되는 파이터입니다. 작은 크기와 빠른 기동력을 지닌 이 파이터는 최첨단 무기 시스템을 탑재하여 대형 함선에도 매우 위협적인 존재입니다.",
+    "ru": "Эти истребители запускаются с находящихся неподалеку кораблей-носителей. Их небольшие размеры и маневренность в сочетании с современным оружием делают их угрозой даже для самых крупных кораблей.",
+    "zh": "这些飞船是从附近的母舰级飞船上分离出来的。它们体积小、灵活性高，拥有最先进的武器，即使对最大的飞船也具有威胁性。"
+  },
+  "graphicID": 2975,
+  "groupID": 861,
+  "mass": 12000.0,
   "name": {
     "de": "State Fighter",
     "en": "State Fighter",
@@ -10,5 +23,10 @@
     "ru": "State Fighter",
     "zh": "合众国战士"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 35.0,
+  "sofFactionName": "caldaribase",
   "volume": 5000.0
 }

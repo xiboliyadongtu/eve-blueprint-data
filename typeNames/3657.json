@@ -1,5 +1,16 @@
 {
-  "typeID": 3657,
+  "description": {
+    "de": "Ein neues Schiff von Viziam. Basiert auf dem Design eines alten Sklaventransporters.",
+    "en": "A recent ship from Viziam. Based on a old slave transport design.",
+    "es": "Una nueva nave de Viziam. Está basada en un antiguo diseño de transporte de esclavos.",
+    "fr": "Vaisseau récent de Viziam. Basé sur un ancien modèle transportant des esclaves.",
+    "ja": "ビジアムの新型船。旧式の奴隷輸送船を基に設計されている。",
+    "ko": "비지암 사가 제작한 함선으로 과거 노예 운반선을 바탕으로 설계되었습니다.",
+    "ru": "Новый корабль производства Viziam. Разработан на основе старой конструкции рабовладельческого транспорта.",
+    "zh": "维鲜集团设计的新船。在老式劳工运送船的基础上加以改造。"
+  },
+  "graphicID": 2715,
+  "groupID": 226,
   "name": {
     "de": "Amarr Sigil Hauler",
     "en": "Amarr Sigil Hauler",
@@ -10,5 +21,9 @@
     "ru": "Amarr Sigil Hauler",
     "zh": "艾玛魔符级运载舰"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 220.0,
+  "sofFactionName": "amarrbase"
 }

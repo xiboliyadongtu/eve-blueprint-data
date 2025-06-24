@@ -1,5 +1,19 @@
 {
-  "typeID": 28754,
+  "description": {
+    "de": "Ein Erz-Extraktor zum Großabbau, für den Einsatz auf Bergbaubarkassen (Mining barges) und Ausgrabungsschiffen (Exhumers) konzipiert.",
+    "en": "A bulk ore extractor designed for use on Mining Barges and Exhumers.",
+    "es": "Extractor masivo de menas diseñado para su uso en gabarras mineras y exhumadores.",
+    "fr": "Extracteur de minerai conçu pour équiper les barges d'extraction minière et les Exhumers.",
+    "ja": "採掘艦および特化型採掘艦用の大量採掘装置。",
+    "ko": "대규모 광석 채굴기로 채광선 및 익스허머에 장착할 수 있습니다.",
+    "ru": "Установка для валовой выемки руды. Предназначена для оснащения буровых кораблей первого поколения и тяжёлых буровых кораблей.",
+    "zh": "专用于采矿驳船和采掘者的大型矿石采集器。"
+  },
+  "graphicID": 11147,
+  "groupID": 464,
+  "iconID": 2527,
+  "marketGroupID": 1040,
+  "metaGroupID": 4,
   "name": {
     "de": "ORE Strip Miner",
     "en": "ORE Strip Miner",
@@ -10,5 +24,10 @@
     "ru": "ORE Strip Miner",
     "zh": "外空联合矿业露天采矿器"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 25.0,
+  "sofFactionName": "orebase",
+  "variationParentTypeID": 17482,
   "volume": 5.0
 }

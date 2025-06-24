@@ -1,5 +1,16 @@
 {
-  "typeID": 26230,
+  "description": {
+    "de": "Ruinen.",
+    "en": "Ruins.",
+    "es": "Ruinas.",
+    "fr": "Ruines.",
+    "ja": "遺跡。",
+    "ko": "폐허입니다.",
+    "ru": "Руины.",
+    "zh": "废墟。"
+  },
+  "graphicID": 3793,
+  "groupID": 226,
   "name": {
     "de": "Fortified Minmatar Mining Station Ruins",
     "en": "Fortified Minmatar Mining Station Ruins",
@@ -10,5 +21,9 @@
     "ru": "Fortified Minmatar Mining Station Ruins",
     "zh": "强化的米玛塔尔采矿空间站废墟"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 14675.0,
+  "sofFactionName": "minmatarbase"
 }

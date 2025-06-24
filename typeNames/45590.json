@@ -1,5 +1,21 @@
 {
-  "typeID": 45590,
+  "capacity": 300.0,
+  "description": {
+    "de": "Durch den vollen Einsatz von kürzlich erreichten wissenschaftlichen Fortschritten, die durch die Entdeckung von uralten Technologien möglich waren, haben die Raumschiffsingenieure der Caldari die Systeme nachbauen können, die hinter der metallofullerenen Panzerungsbeschichtung der Sleeper steckt. Durch ein komplexes Austauschverfahren waren fähige Ingenieure und Physiker in der Lage, die Schilde der Tengu zu ergänzen, was eine erhöhte Überlebenschance für einen Piloten im Gefecht bietet.",
+    "en": "Making full use of recent scientific advances afforded by the discovery of ancient technologies, Caldari starship designers have reverse engineered the equipment behind the Sleeper's metallofullerene armor plating. Through a complex substitution method, skilled engineers and physicists have been able to supplement a Tengu's shields, offering increased survivability for a pilot under heavy fire.",
+    "es": "Aprovechando al máximo los recientes avances científicos impulsados por el descubrimiento de tecnologías antiguas, los diseñadores de naves estelares caldaris han aplicado la ingeniería inversa al equipamiento de placas de blindaje de metalofullereno de los sleepers. Mediante un complejo método de sustitución, ingenieros y físicos expertos han logrado suplementar los escudos de la Tengu, lo que le ofrece al piloto una mayor probabilidad de supervivencia bajo fuego pesado.",
+    "fr": "Tirant pleinement profit des récentes avancées scientifiques rendues possibles grâce à la découverte des anciennes technologies, les créateurs de vaisseaux spatiaux caldari ont procédé à une ingénierie inverse de l'équipement derrière les plaques de blindage sleeper en métallofullerène. Par l'intermédiaire d'une méthode complexe de substitution, les ingénieurs et les physiciens experts en la matière ont réussi à compléter les boucliers du Tengu, garantissant ainsi au pilote de meilleures chances de survie.",
+    "ja": "カルダリの宇宙船設計者たちは、古代技術の発見によってもたらされた先端技術を活かして、スリーパーのフラーレンアーマープレートの裏側にある装置のリバースエンジニアリングを行った。物理学者と科学者たちは複雑な置換手法を用いて、巧みにテング級のシールドを補強することに成功し、強大な砲火にさらされるパイロットの生還率を上昇させることができた。",
+    "ko": "고대 기술이 잇달아 발견됨에 따라 칼다리 함선 설계자들은 슬리퍼의 메탈로퓰러렌 장갑 플레이팅을 역설계하는데 성공하였습니다. 숙련된 엔지니어와 물리학자들은 정교한 치환법을 통해 텐구의 실드 성능을 강화하는데 성공하였습니다. 이로써 텐구의 생존력은 대폭 향상되었습니다.",
+    "ru": "В полной мере используя последние достижения науки, которые стали возможными благодаря открытию древних технологий, разработчики Государства Калдари провели инженерный анализ оборудования, лежащего в основе металлофуллеренной обшивки брони кораблей Спящих. Благодаря методу комплексной подстановки опытные инженеры и физики смогли дополнить силовые поля стратегических крейсеров типа «Тенгу», что в значительной степени повысило выживаемость пилотов под шквальным огнем.",
+    "zh": "借助新近发现的古老科技，加达里舰船设计师成功地逆向工程了冬眠者金属富勒烯装甲板的核心技术。通过一个复杂的代换机制，经验丰富的工程技术人员和物理学家研发出了金鹏级护盾的补充机制，大大提高了强火力打击下飞船的生存能力。"
+  },
+  "graphicID": 21758,
+  "groupID": 954,
+  "iconID": 3631,
+  "marketGroupID": 1127,
+  "mass": 1400000.0,
+  "metaGroupID": 14,
   "name": {
     "de": "Tengu Defensive - Supplemental Screening",
     "en": "Tengu Defensive - Supplemental Screening",
@@ -10,5 +26,101 @@
     "ru": "Tengu Defensive - Supplemental Screening",
     "zh": "金鹏防御 - 辅助保护幕墙"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "sofFactionName": "caldaribase",
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "<b><u>Zusätzliche Basiswerte</b></u>",
+          "en": "<b><u>Additional Base Stats</b></u>",
+          "es": "<b><u>Estadísticas básicas adicionales</b></u>",
+          "fr": "<b><u>Stats de base supplémentaires</b></u>",
+          "ja": "<b><u>追加ベース統計</b></u>",
+          "ko": "<b><u>추가 기본 능력치</b></u>",
+          "ru": "<b><u>Кроме того:</b></u>",
+          "zh": "<b><u>附加基础数值</b></u>"
+        },
+        "importance": 1
+      },
+      {
+        "bonusText": {
+          "de": "+2 Mid Slots, +2 Low Slots",
+          "en": "+2 Mid Slots, +2 Low Slots",
+          "es": "+2 ranuras intermedias, +2 ranuras inferiores",
+          "fr": "+2 Emplacements intermédiaires, +2 Emplacements inférieurs",
+          "ja": "ミッドスロット+2、ロースロット+2",
+          "ko": "미드 슬롯 +2, 로우 슬롯 +2",
+          "ru": "+2 разъёма средней мощности, +2 разъёма малой мощности",
+          "zh": "中槽+2，低槽+2"
+        },
+        "importance": 2
+      },
+      {
+        "bonusText": {
+          "de": "+1000 Schild-HP",
+          "en": "+1000 Shield HP",
+          "es": "+1000 PV de escudo",
+          "fr": "+1 000 PV au bouclier",
+          "ja": "シールドHP+1000",
+          "ko": "실드량 +1000",
+          "ru": "+1000 единиц прочности щитов",
+          "zh": "护盾值+1000"
+        },
+        "importance": 3
+      },
+      {
+        "bonusText": {
+          "de": "+10 m Signaturradius",
+          "en": "+10m Signature Radius",
+          "es": "+10 m al radio de la señal",
+          "fr": "Rayon de signature +10 m",
+          "ja": "シグネチャ半径+10m",
+          "ko": "시그니처 반경 +10m",
+          "ru": "+10 метров размера сигнатуры",
+          "zh": "信号半径+10m"
+        },
+        "importance": 4
+      }
+    ],
+    "types": {
+      "30544": [
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf alle Schild-HP",
+            "en": "bonus to all shield hitpoints",
+            "es": "de bonificación a todos los puntos de vida de los escudos.",
+            "fr": "de bonus aux points de dommages du bouclier",
+            "ja": "全てのシールドHPが増加",
+            "ko": "실드량 증가",
+            "ru": "повышается запас прочности щитов корабля",
+            "zh": "护盾值加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf den Nutzen der Überhitzung von Schildhärtern",
+            "en": "bonus to the benefits of overheating shield hardeners",
+            "es": "de bonificación a los beneficios de sobrecalentar los endurecedores de escudo.",
+            "fr": "de bonus aux avantages de la surchauffe des Renforcements de bouclier",
+            "ja": "オーバーヒートしたシールドハードナーの恩恵にボーナス",
+            "ko": "실드 강화장치 과부하 시 보너스 효과 증가",
+            "ru": "усиливается влияние перегрузки на параметры активных модуляторов щитов",
+            "zh": "护盾增强器过载效果加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 45589,
   "volume": 40.0
 }

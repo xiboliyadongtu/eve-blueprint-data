@@ -1,5 +1,21 @@
 {
-  "typeID": 34292,
+  "basePrice": 174120.0,
+  "capacity": 2.97,
+  "description": {
+    "de": "Ein Lenkwaffenwerfer zum Einbau in Raumschiffe der Kreuzerklasse. Obwohl Angriffslenkwaffenwerfer nicht die gleiche Schadenswirkung wie normale schwere Lenkwaffenwerfer haben, gibt ihnen ihre Mischung aus Geschwindigkeit und Angriffskraft eine Anwendungsmöglichkeit in einer ganzen Reihe taktischer Situationen. Polarisierte Waffen bieten extrem gute Primärwerte, machen dafür aber alle Widerstände auf einem Schiff zunichte, in das sie eingebaut wurden.",
+    "en": "A launcher intended for use on cruiser-class spacecraft. While assault launchers do not possess the sheer damage-dealing capability of regular heavy missile launchers, their blend of speed and attack power lends them application across a good range of tactical situations.\r\n\r\nPolarized weapons offer extremely good primary stats, but come with the cost of completely negating all resistances on a ship if fitted.",
+    "es": "Este lanzador está diseñado para naves de clase crucero. Aunque los lanzamisiles de asalto no tienen la misma capacidad destructora que los lanzamisiles pesados normales, su combinación de velocidad y potencia de ataque les confiere una versatilidad que permite emplearlos en situaciones tácticas de lo más variopintas.\n\nLas armas polarizadas ofrecen estadísticas principales extremadamente buenas, pero tienen el coste de anular por completo todas las resistencias de la nave en que están equipadas.",
+    "fr": "Lanceur conçu pour équiper un vaisseau de type croiseur. S'il n'a pas la puissance dévastatrice des lance-missiles lourds standard, son rapport rapidité/puissance d'attaque le rend indispensable dans bon nombre de situations tactiques.\n\nLes armes polarisées offrent de très bons statistiques principaux, mais leur installation a pour effet d'annuler toutes les résistances d'un vaisseau.",
+    "ja": "巡洋艦級の宇宙船での使用に適したランチャー。アサルトランチャーは純粋な破壊力では標準型ヘビーミサイルランチャーに及ばないが、速射性と攻撃力のバランスの良さから、幅広い場面で活躍する。\n\nポーラライズド系兵器は、主要なステータスに非常に良い影響を及ぼす。ただし、装備した艦船のレジスタンスが完全に無効化されるというデメリットもある。",
+    "ko": "크루저급 함선을 위해 설계된 미사일 런처입니다. 헤비 미사일 런처에 비해 파괴력은 떨어지지만 빠른 발사 속도를 바탕으로 한 전술적 유연성을 지니고 있습니다. <br><br>극성 무기는 기본 능력치가 매우 높지만 장착 시 함선의 피해 저항력을 무효화합니다.",
+    "ru": "Эта установка предназначена для использования на кораблях крейсерского тоннажа. Вес залпа облегчённых пусковых установок ракет большой мощности уступает весу залпа обычных пусковых установок, но сочетание высокой скорострельности с мощью БЧ ракет делает их очень полезными во многих боевых ситуациях.\n\n«Поляризованное» вооружение имеет высочайшие ключевые характеристики, но оснащённый им корабль полностью лишается сопротивлений всем поражающим факторам.",
+    "zh": "一种用于巡洋舰级飞船的发射器。虽然攻击导弹发射器没有普通重型导弹发射器那样强大的纯破坏力，但是它在射速和攻击力之间找到了完美的结合点，使它可以被用于多种战术环境中。\n\n偏振式武器的主要参数极佳，但同时会使舰船装配的任何抗性装备完全失效。"
+  },
+  "graphicID": 21706,
+  "groupID": 771,
+  "iconID": 3241,
+  "marketGroupID": 974,
+  "metaGroupID": 2,
   "name": {
     "de": "Polarized Heavy Assault Missile Launcher",
     "en": "Polarized Heavy Assault Missile Launcher",
@@ -10,5 +26,10 @@
     "ru": "Polarized Heavy Assault Missile Launcher",
     "zh": "偏振式重型攻击导弹发射器"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "sofFactionName": "sleeperbase",
+  "variationParentTypeID": 20138,
   "volume": 10.0
 }

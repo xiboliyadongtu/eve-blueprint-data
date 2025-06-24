@@ -1,5 +1,20 @@
 {
-  "typeID": 31866,
+  "basePrice": 17000.0,
+  "description": {
+    "de": "Mittlere Aufklärungsdrohne",
+    "en": "Medium Scout Drone",
+    "es": "Dron de reconocimiento mediano",
+    "fr": "Drone de reconnaissance intermédiaire.",
+    "ja": "ミディアムスカウトドローン",
+    "ko": "미디움 스카우트 드론",
+    "ru": "Средний разведывательный дрон",
+    "zh": "中型侦察无人机"
+  },
+  "graphicID": 2773,
+  "groupID": 100,
+  "marketGroupID": 838,
+  "mass": 5000.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Imperial Navy Infiltrator",
     "en": "Imperial Navy Infiltrator",
@@ -10,5 +25,11 @@
     "ru": "Imperial Navy Infiltrator",
     "zh": "帝国海军渗透者"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 20.0,
+  "sofFactionName": "amarrnavy",
+  "variationParentTypeID": 2173,
   "volume": 10.0
 }

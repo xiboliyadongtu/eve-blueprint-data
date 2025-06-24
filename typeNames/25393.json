@@ -1,5 +1,18 @@
 {
-  "typeID": 25393,
+  "description": {
+    "de": "Ein Container, in dem man Standard-Torberechtigungen finden kann, die zu einem Komplex der Imperial Navy führen.",
+    "en": "A container, inside of which can be found standard gate permits leading to an Imperial Navy complex.",
+    "es": "Un contenedor en cuyo interior guarda permisos de un portal estándar que conduce a un complejo de la Armada Imperial.",
+    "fr": "Conteneur à l'intérieur duquel se trouvent des laissez-passer permettant d'utiliser un portail donnant accès à un complexe de la Navy impériale.",
+    "ja": "帝国海軍複合施設に入るためのゲートパスを収めたケース。",
+    "ko": "컨테이너 안에는 제국 해군 시설 내부로 진입할 수 있는 게이트 허가증이 포함되어 있습니다.",
+    "ru": "Контейнер со стандартными пропусками от врат, ведущих в комплекс Имперского флота.",
+    "zh": "这个集装箱内装有允许进入某个帝国海军复合体的标准轨道通行许可。"
+  },
+  "graphicID": 2090,
+  "groupID": 526,
+  "iconID": 1171,
+  "mass": 1.0,
   "name": {
     "de": "Imperial Navy Gate Permit Container",
     "en": "Imperial Navy Gate Permit Container",
@@ -10,5 +23,8 @@
     "ru": "Imperial Navy Gate Permit Container",
     "zh": "帝国海军通行许可保险箱"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "genericmetal",
   "volume": 10.0
 }

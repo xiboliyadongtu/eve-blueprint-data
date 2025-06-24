@@ -1,5 +1,18 @@
 {
-  "typeID": 33910,
+  "capacity": 20000.0,
+  "description": {
+    "de": "Diese Anlage wirkt auf Außenstehende vielleicht wie eine gewöhnliche Komponentenfabrik verziert mit Thukker-Markierungen, doch an der Außenhülle gibt es zahllose dezente Änderungen. Aufgrund starker Panzerung ist es unmöglich zu sagen, was sich im Innern befindet, ohne sie gewaltsam auseinander zu nehmen.",
+    "en": "This facility may look to outsiders like a standard component factory adorned with Thukker markings, but there are numerous subtle alterations in the outer shell. Heavy armoring makes it impossible to tell what's inside without forcibly disassembling it.",
+    "es": "A ojos de forasteros, esta instalación puede parecer una fábrica de componentes estándar adornada con marcas thukkers, pero hay numerosas alteraciones sutiles en la carcasa exterior. Debido a su pesado blindaje, es imposible saber lo que hay dentro sin desmontarlo.",
+    "fr": "Pour des étrangers, cette installation peut ressembler à une usine de composants standard portant la marque des Thukker, mais elle présente de subtiles retouches sur sa coque extérieure. Son blindage lourd empêche de savoir ce qu'elle contient, à moins de la désassembler.",
+    "ja": "この施設は、部外者の目にはありふれた部品工場にサッカーの紋章が付いているだけに見えるが、中身は無数の細かな改造が施されている。分厚い装甲に覆われているため、力ずくで解体しない限り、中に何があるのかは全く分からない。",
+    "ko": "터커 부족의 상징이 새겨진 부품 생산 공장으로 외부 구조를 살펴본 결과 다수의 개조 흔적이 발견되었습니다. 두터운 외장으로 덮여 있어 정확한 내부 구조는 알 수 없습니다.",
+    "ru": "На первый взгляд этот завод выглядит стандартным заводом для производства компонентов, украшенным символами племени таккеров, но в его внешнем покрытии заметно множество мельчайших модификаций. Тяжёлая броня защищает его от любых попыток узнать, что же находится внутри — по крайней мере без разборки с применением силы.",
+    "zh": "该设施可能在外人看上去是一个贴有图克尔标志的标准组件工厂，其实在外壳做了大量不易觉察的改装。坚固的装甲使它固若金汤，根本无法进入一探究竟。"
+  },
+  "graphicID": 2377,
+  "groupID": 494,
+  "mass": 1000000.0,
   "name": {
     "de": "Thukker Component Assembly Facility",
     "en": "Thukker Component Assembly Facility",
@@ -10,5 +23,9 @@
     "ru": "Thukker Component Assembly Facility",
     "zh": "图克尔组件装配设施"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 937.0,
+  "sofFactionName": "genericmetal",
   "volume": 4000.0
 }

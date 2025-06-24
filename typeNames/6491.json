@@ -1,5 +1,17 @@
 {
-  "typeID": 6491,
+  "capacity": 1.0,
+  "description": {
+    "de": "Steigert die Wiederaufladerate des Schildes.",
+    "en": "Improves the recharge rate of the shield.",
+    "es": "Mejora la velocidad de recarga del escudo.",
+    "fr": "Améliore la vitesse de recharge du bouclier.",
+    "ja": "シールド自動回復効率を向上させる。",
+    "ko": "실드 회복률이 증가합니다.",
+    "ru": "Повышает скорость подзарядки щита.",
+    "zh": "提高护盾的回充速率。"
+  },
+  "groupID": 39,
+  "iconID": 26451,
   "name": {
     "de": "Passive Barrier Compensator I",
     "en": "Passive Barrier Compensator I",
@@ -10,5 +22,9 @@
     "ru": "Passive Barrier Compensator I",
     "zh": "被动式屏障补偿器 I"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 1000.0,
   "volume": 5.0
 }

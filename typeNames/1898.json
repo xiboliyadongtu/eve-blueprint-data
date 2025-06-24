@@ -1,5 +1,18 @@
 {
-  "typeID": 1898,
+  "capacity": 300.0,
+  "description": {
+    "de": "Ein SWAT-Schiff des CONCORD.",
+    "en": "A Concord SWAT vessel. .",
+    "es": "Nave SWAT de CONCORD.",
+    "fr": "Un vaisseau SWAT Concord. .",
+    "ja": "CONCORDの特別機動艦。",
+    "ko": "CONCORD 특공대 함선입니다.",
+    "ru": "Судно быстрого реагирования Concord.",
+    "zh": "一艘统合部特警舰船。"
+  },
+  "graphicID": 1054,
+  "groupID": 25,
+  "mass": 1200000.0,
   "name": {
     "de": "Concord SWAT Frigate",
     "en": "Concord SWAT Frigate",
@@ -10,5 +23,10 @@
     "ru": "Concord SWAT Frigate",
     "zh": "统合部特警护卫舰"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 38.0,
+  "sofFactionName": "swat",
+  "soundID": 20083,
   "volume": 20400.0
 }

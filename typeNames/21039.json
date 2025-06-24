@@ -1,5 +1,18 @@
 {
-  "typeID": 21039,
+  "description": {
+    "de": "Ein elektronisches Interface, das zuständig ist für die Umleitung der Energie eines Dreadnoughts von den Antriebssystemen zu den Defensiv- und Offensivsystemen.",
+    "en": "An electronic interface responsible for rerouting a dreadnought's energy from its propulsion systems towards its defensive and offensive systems.",
+    "es": "Una interfaz electrónica responsable de redirigir la energía de un superacorazado desde sus sistemas de propulsión hacia sus sistemas defensivos y ofensivos.",
+    "fr": "Interface électronique responsable du réacheminement de l'énergie d'un dreadnought depuis les systèmes de propulsion vers ses systèmes d'attaque et de défense.",
+    "ja": "攻城艦に搭載し、推進力システムから防御攻撃システムへエネルギーを変換する電子インターフェイス。",
+    "ko": "해당 인터페이스는 추진 계통으로 투입되는 에너지를 일정 부분 회수한 뒤 공격 및 방어 모듈로 전송합니다.",
+    "ru": "Электронный интерфейс для направления энергии дредноута от двигательной установки к оборонной и наступательной системам.",
+    "zh": "一种电子接口，负责将无畏级战舰的能源从推进系统重新引导至防御和攻击系统。"
+  },
+  "groupID": 873,
+  "iconID": 2871,
+  "marketGroupID": 781,
+  "mass": 10000.0,
   "name": {
     "de": "Capital Siege Array",
     "en": "Capital Siege Array",
@@ -10,5 +23,7 @@
     "ru": "Capital Siege Array",
     "zh": "旗舰会战能源阵列"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 2000.0
 }

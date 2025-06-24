@@ -1,5 +1,18 @@
 {
-  "typeID": 23544,
+  "description": {
+    "de": "Sicher verschlossene Kiste mit unbekanntem Inhalt.",
+    "en": "Securily locked case with unknown ingredients.",
+    "es": "Caja cerrada de forma segura que contiene ingredientes desconocidos.",
+    "fr": "Caisse verrouillée dont le contenu est inconnu.",
+    "ja": "セキュリティロック付きのケース。何でできているかは不明。",
+    "ko": "잠금장치가 단단히 걸려있는 컨테이너입니다. 무엇이 들어있는지는 알 수 없습니다.",
+    "ru": "Закрытая капсула с неизвестными компонентами.",
+    "zh": "装有未知成分的保密上锁箱。"
+  },
+  "graphicID": 2092,
+  "groupID": 526,
+  "iconID": 1171,
+  "mass": 500.0,
   "name": {
     "de": "Sealed Container",
     "en": "Sealed Container",
@@ -10,5 +23,8 @@
     "ru": "Sealed Container",
     "zh": "密封箱"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "genericmetal",
   "volume": 50.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 17790,
+  "capacity": 8850.0,
+  "description": {
+    "de": "Eine Fabrik, die Erze zu Mineralien aufbereitet.",
+    "en": "A factory that refines ore into minerals.",
+    "es": "Fábrica que refina menas en minerales.",
+    "fr": "Une usine qui transforme le minerai brut en minerai raffiné.",
+    "ja": "鉱石を無機物に精錬する工場。",
+    "ko": "광석을 미네랄로 정제하는 공장입니다.",
+    "ru": "Фабрика, перерабатывающая руду в материалы.",
+    "zh": "将矿石精炼为矿物的工厂。"
+  },
+  "graphicID": 2300,
+  "groupID": 319,
+  "mass": 1000000.0,
   "name": {
     "de": "Starbase Minor Refinery",
     "en": "Starbase Minor Refinery",
@@ -10,5 +23,10 @@
     "ru": "Starbase Minor Refinery",
     "zh": "母星小型精炼厂"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 350.0,
+  "sofFactionName": "genericmetal",
+  "soundID": 20197,
   "volume": 1150.0
 }

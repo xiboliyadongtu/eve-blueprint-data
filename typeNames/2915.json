@@ -1,5 +1,18 @@
 {
-  "typeID": 2915,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Eine anpassbare Standardstruktur im All, die dazu entworfen wurde, einfach bewegt und verankert zu werden. Diese hier wurde für frühkindliche Erziehung konfiguriert.",
+    "en": "A standard, customizable, space-faring  structure designed to be easily moved and deployed.  This one has been configured for early childhood education.",
+    "es": "Estructura de viaje espacial estándar y personalizable diseñada para un fácil desplazamiento y despliegue. Esta se ha configurado como escuela infantil.",
+    "fr": "Une structure spatiale standard et personnalisable conçu pour être facilement installée.  Celle-ci a été configurée pour l'éducation des enfants.",
+    "ja": "カスタマイズ可能な標準的な宙域移動用建造物。簡単に移動、配置できるように設計されている。この建造物は、幼児教育用に作られている。",
+    "ko": "커스터마이즈가 가능한 기본형 구조물로 이동 및 전개가 간편합니다. 해당 구조물은 현재 교육 시설로 운영되고 있습니다.",
+    "ru": "Типовое сооружение, разработанное для быстрой транспортировки и развертывания в любой точке космоса. Этот модуль приспособлен для обучения детей дошкольного возраста.",
+    "zh": "这是一种标准化、可按自身要求修改并且能发射飞船的建筑，其设计上就是要便于移动与部署。该建筑已被修改用于幼儿教育。"
+  },
+  "graphicID": 2372,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Auxiliary Academic Campus",
     "en": "Auxiliary Academic Campus",
@@ -10,5 +23,10 @@
     "ru": "Auxiliary Academic Campus",
     "zh": "教辅学院"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 700.0,
+  "sofFactionName": "genericmetal",
   "volume": 100000000.0
 }

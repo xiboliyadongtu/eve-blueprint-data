@@ -1,5 +1,76 @@
 {
-  "typeID": 12015,
+  "basePrice": 141900000.0,
+  "capacity": 515.0,
+  "description": {
+    "de": "Im Auftrag der Republic Fleet entwickelte Boundless Creation die Muninn, ein mächtiges Angriffsschiff zur Stärkung der Stämme der Matari, das aber auch als Handelsplattform für schwere Lenkwaffen und weitere von der Fleet entwickelten Waffen dient. Schwer gepanzert, gespickt mit Montageplätzen für Lenkwaffen und ausgestattet mit der besten Optimierungstechnologie für Sprengköpfe, ist sie die Quintessenz eines schweren Angriffsschiffs.",
+    "en": "Commissioned by the Republic Fleet to create a powerful assault vessel for the strengthening of the Matari tribes as well as a commercial platform for the Heavy Missiles and other weapons produced by the Fleet, Boundless Creation came up with the Muninn. Heavily armored, laden with missile hardpoints and sporting the latest in warhead optimization technology, this is the very definition of heavy assault.",
+    "es": "Boundless Creations fabricó la Muninn por encargo de la Flota de la República, que necesitaba una potente nave de asalto para fortalecer las tribus mataris, además de una plataforma comercial para los misiles pesados y otras armas producidas por la Flota. Esta nave, fuertemente blindada, con puntos de montaje de misiles y la última tecnología de optimización de ojivas, es la mismísima definición del asalto pesado.",
+    "fr": "Chargé par la flotte de la République de créer un vaisseau d'assaut puissant pour le renforcement des tribus matari, mais également une plateforme commerciale pour présenter à la clientèle les missiles lourds et autres armements produits par la flotte, Boundless Creation a conçu le Muninn. Lourdement blindé, disposant d'une flopée de points de fixation de missiles et embarquant le nec plus ultra en termes de technologies d'optimisation des ogives... C'est la définition même d'un vaisseau d'assaut lourd.",
+    "ja": "共和国海軍から「マタール部族強化用のパワフルな強襲型艦船であると同時に、軍仕様のヘビーミサイルや他の兵器を搭載できる商業艦としても使えるような艦を」という注文を受け、バウンドレスクリエーションが考案した艦船がムニンである。アーマーが強固で、多くのミサイルハードポイントを持ち、最新の弾頭最適化技術を誇るムニンは、まさに強襲艦そのものである。",
+    "ko": "민마타 함대에서 마타리 부족의 세력을 강화시키기 위한 목적으로 바운들리스 크리에이션에 건조를 의뢰한 강력한 어썰트 함선입니다. 최첨단 탄두 최적화 기술이 적용된 미사일 하드포인트를 가득 탑재했습니다.",
+    "ru": "Мощный штурмовой корабль Muninn был разработан консорциумом «Свобода творчества» по заказу республиканского флота, которому потребовалось укрепить позиции матарских племён и создать достойную платформу для тяжёлых минматарских ракет и других орудий. Этот корабль, покрытый тяжёлой бронёй, обвешанный ракетными установками и оснащённый системой оптимизации боеголовок, буквально воплощает собой понятие «тяжёлый штурмовик».",
+    "zh": "为加强玛塔利部落并为舰队制造的重型导弹和其他武器拓宽市场，共和国舰队委派无限创造公司建造了缪宁级。它周身覆盖厚重的装甲，装配无数的导弹挂点，而且配备了最新的弹头优化技术，可以说是最为典型的重型突击舰。"
+  },
+  "factionID": 500002,
+  "graphicID": 1925,
+  "groupID": 358,
+  "marketGroupID": 452,
+  "mass": 11000000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      164,
+      150,
+      76,
+      141,
+      85,
+      89
+    ],
+    "1": [
+      96,
+      99,
+      164,
+      150,
+      76,
+      141,
+      85,
+      89
+    ],
+    "2": [
+      96,
+      99,
+      164,
+      150,
+      76,
+      141,
+      85,
+      89
+    ],
+    "3": [
+      96,
+      99,
+      164,
+      150,
+      76,
+      141,
+      85,
+      89
+    ],
+    "4": [
+      96,
+      99,
+      164,
+      150,
+      76,
+      141,
+      85,
+      118,
+      89,
+      117
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Muninn",
     "en": "Muninn",
@@ -10,5 +81,111 @@
     "ru": "Muninn",
     "zh": "缪宁级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 88.0,
+  "sofFactionName": "boundlesscreation",
+  "soundID": 20076,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Kann <a href=showinfo:47254>Angriffsschadensregulierer</a> ausrüsten",
+          "en": "Can fit <a href=showinfo:47254>Assault Damage Controls</a>",
+          "es": "Es posible equipar <a href=showinfo:47254>controles de daños por asalto</a>.",
+          "fr": "Peut être équipé des <a href=showinfo:47254>contrôles des dégâts d'assaut</a>",
+          "ja": "<a href=showinfo:47254>アサルトダメージ制御</a>を装備可能",
+          "ko": "<a href=showinfo:47254>어썰트 데미지 컨트롤</a> 장착가능",
+          "ru": "Позволяет установить <a href=showinfo:47254>ударные модули боевой живучести</a>",
+          "zh": "可以装配<a href=showinfo:47254>突击损伤控制</a>装备"
+        },
+        "importance": 2
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Reduktion des <a href=showinfo:3454>Mikrowarpantrieb</a>-Signaturradius",
+          "en": "reduction in <a href=showinfo:3454>Microwarpdrive</a> signature radius penalty",
+          "es": "de reducción de la penalización de radio de la señal del <a href=showinfo:3454>motor de microwarp</a>.",
+          "fr": "de réduction à la pénalité de rayon de signature des <a href=showinfo:3454>propulseurs de microwarp</a>",
+          "ja": "<a href=showinfo:3454>マイクロワープドライブ</a>のシグネチャ半径ペナルティが軽減",
+          "ko": "<a href=showinfo:3454>마이크로 워프 드라이브</a> 시그니처 반경 페널티 감소",
+          "ru": "уменьшается влияние <a href=showinfo:3454>микроварп-ускорителей</a> на размер сигнатуры корабля",
+          "zh": "<a href=\"showinfo:3454\">微型跃迁推进器</a>的信号半径惩罚加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3333": [
+        {
+          "bonus": 3.0,
+          "bonusText": {
+            "de": "Bonus auf alle Schild- und Panzerungsresistenzen",
+            "en": "bonus to all shield and armor resistances",
+            "es": "de bonificación a todas las resistencias de blindaje y escudo.",
+            "fr": "de bonus à toutes les résistances de bouclier et de blindage",
+            "ja": "全てのシールドとアーマーのレジスタンスが増加",
+            "ko": "실드 및 장갑 저항력 증가",
+            "ru": "бонус к сопротивляемости щитов и брони всем видам воздействия",
+            "zh": "护盾和装甲抗性加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3321>leichten Lenkwaffen</a>, <a href=showinfo:3324>schweren Lenkwaffen</a> und <a href=showinfo:25719>schweren Angriffslenkwaffen</a>",
+            "en": "bonus to <a href=showinfo:3321>Light Missile</a>, <a href=showinfo:3324>Heavy Missile</a> and <a href=showinfo:25719>Heavy Assault Missile</a> damage",
+            "es": "de bonificación al daño de los <a href=showinfo:3321>misiles ligeros</a>, los <a href=showinfo:3324>misiles pesados</a> y los <a href=showinfo:25719>misiles de asalto pesados</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:3321>missiles légers</a>, <a href=showinfo:3324>missiles lourds</a> et <a href=showinfo:25719>missiles d'assaut lourds</a>",
+            "ja": "<a href=showinfo:3321>ライトミサイル</a>、<a href=showinfo:3324>ヘビーミサイル</a>、<a href=showinfo:25719>ヘビーアサルトミサイル</a>のダメージが増加",
+            "ko": "<a href=showinfo:3321>라이트 미사일</a>, <a href=showinfo:3324>헤비 미사일</a>, <a href=showinfo:25719>헤비 어썰트 미사일</a> 피해량 증가",
+            "ru": "бонус к урону от <a href=showinfo:3321>лёгких ракет</a>, <a href=showinfo:3324>тяжёлых ракет</a> и <a href=showinfo:25719>тяжёлых штурмовых ракет</a>",
+            "zh": "<a href=showinfo:3321>轻型导弹</a>、<a href=showinfo:3324>重型导弹</a>和<a href=showinfo:25719>重型攻击导弹</a>伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ],
+      "16591": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf die Explosionsgeschwindigkeit von <a href=showinfo:3324>schweren Lenkwaffen</a> und <a href=showinfo:25719>schweren Angriffslenkwaffen</a>",
+            "en": "bonus to <a href=showinfo:3324>Heavy Missile</a> and <a href=showinfo:25719>Heavy Assault Missile</a> explosion velocity",
+            "es": "de bonificación a la velocidad de explosión de los <a href=showinfo:3324>misiles pesados</a> y los <a href=showinfo:25719>misiles de asalto pesados</a>.",
+            "fr": "de bonus à la vitesse d'explosion des <a href=showinfo:3324>missiles lourds</a> et des <a href=showinfo:25719>missiles d'assaut lourds</a>",
+            "ja": "<a href=showinfo:3324>ヘビーミサイル</a>と<a href=showinfo:25719>ヘビーアサルトミサイル</a>の爆発速度上昇",
+            "ko": "<a href=showinfo:3324>헤비 미사일</a>, <a href=showinfo:25719>헤비 어썰트 미사일</a> 폭발속도 증가",
+            "ru": "бонус к скорости распространения взрыва <a href=showinfo:3324>тяжёлых ракет</a> и <a href=showinfo:25719>тяжёлых штурмовых ракет</a>",
+            "zh": "<a href=showinfo:3324>重型导弹</a>和<a href=showinfo:25719>重型攻击导弹</a>爆炸速度加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf die Feuerrate von Werfern für <a href=showinfo:3321>leichte Lenkwaffen</a>, <a href=showinfo:3324>schwere Lenkwaffen</a> sowie <a href=showinfo:25719>schwere Angriffslenkwaffen</a>",
+            "en": "bonus to <a href=showinfo:3321>Light Missile</a>, <a href=showinfo:3324>Heavy Missile</a> and <a href=showinfo:25719>Heavy Assault Missile</a> launcher rate of fire",
+            "es": "de bonificación a la cadencia de tiro de los <a href=showinfo:3321>lanzamisiles ligeros</a>, los <a href=showinfo:3324>lanzamisiles pesados</a> y los <a href=showinfo:25719>lanzamisiles de asalto pesados</a>.",
+            "fr": "de bonus à la cadence de tir des <a href=showinfo:3321>lance-missiles légers</a>, <a href=showinfo:3324>lance-missiles lourds</a> et <a href=showinfo:25719>lance-missiles d'assaut lourds</a>",
+            "ja": "<a href=showinfo:3321>ライトミサイル</a>、<a href=showinfo:3324>ヘビーミサイル</a>及び<a href=showinfo:25719>ヘビーアサルトミサイル</a>ランチャーの発射間隔が短縮",
+            "ko": "<a href=showinfo:3321>라이트 미사일</a>, <a href=showinfo:3324>헤비 미사일</a>, <a href=showinfo:25719>헤비 어썰트 미사일</a> 연사속도 증가",
+            "ru": "бонус к скорострельности установок для <a href=showinfo:3321>лёгких</a> и <a href=showinfo:3324>тяжёлых ракет</a>, а также <a href=showinfo:25719>тяжёлых штурмовых ракет</a>",
+            "zh": "<a href=showinfo:3321>轻型导弹</a>、 <a href=showinfo:3324>重型导弹</a> 和 <a href=showinfo:25719>重型攻击导弹</a>发射器射速加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 629,
   "volume": 96000.0
 }

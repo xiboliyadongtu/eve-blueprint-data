@@ -1,5 +1,70 @@
 {
-  "typeID": 78333,
+  "basePrice": 800000.0,
+  "capacity": 400.0,
+  "description": {
+    "de": "Die <i>Mekubal</i> ist die Antwort des Angel Cartels auf die zunehmende Präsenz von Zerstörern in den Flotten der Imperien. Sie repräsentiert die klassische Angel-Fusion aus Gallente- und Minmatar-Technologie, vielleicht mit einem Hauch von etwas noch Älterem, in einem schlagkräftigen und kompakten Paket. Das resultierende Schiff ist ein leistungsfähiges Kanonenboot, das in der Lage ist, einen Sturm von Projektilwaffenfeuer zu entfachen, während es die Geschwindigkeit besitzt, zu reagieren und sich nach Bedarf für die plündernden Flotten des Cartels neu zu positionieren.",
+    "en": "The <i>Mekubal</i> is the Angel Cartel's answer to the increasing prevalence of destroyers in the fleets of empire navies, representing the classic Angel fusion of Gallente and Minmatar technology, with perhaps a dash of something more ancient, in a hard-hitting and compact package. The resultant ship is a potent gunboat capable of putting out a storm of projectile weapons fire while having the speed to respond and redeploy as needed by the raiding fleets of the Cartel.",
+    "es": "La <i>Mekubal</i> es la respuesta del Cártel de los Ángeles a la creciente prevalencia de destructores en las flotas de las armadas del imperio, y representa la fusión clásica de los Ángeles entre la tecnología gallente y minmatariana, con quizás un toque de algo más antiguo, en un paquete compacto y contundente. La nave resultante es una potente cañonera capaz de sofocar una tormenta de armas de proyectiles mientras tiene la velocidad para responder y redesplegarse según lo necesiten las flotas de asalto del Cártel.",
+    "fr": "Le <i>Mekubal</i> est la réponse du cartel Angel à la prévalence croissante des destroyers au sein des flottes des marines impériales, représentant la fusion classique de la technologie gallente et minmatar, avec peut-être un soupçon de quelque chose de plus ancien, dans un ensemble robuste et compact. Le vaisseau résultant est une redoutable canonnière capable de déclencher une tempête de tirs d'armes à projectiles, tout en ayant la vitesse pour réagir et se redéployer selon les nécessités des flottes de raid du Cartel.",
+    "ja": "主要大国のフリートにおける駆逐艦の流行に対してエンジェルカルテルが出した解答、それが<i>メクバル</i>である。ガレンテとミンマターの技術を融合させた典型的なカルテル艦である一方で、かなりの“年代物”とだと思われる技術がわずかに使われており、その兵装はコンパクトながらも強烈。メクバルは結果として、プロジェクタイル兵器を嵐のように発射しつつ、カルテルの襲撃フリートが必要とする迅速な対応能力と再出撃能力を備えた強力なガンボートとなっている。",
+    "ko": "각국의 해군 함대에 디스트로이어의 비중을 높아지자 이에 엔젤 카르텔은 대책으로 <i>메쿠발</i>을 제작했습니다. 갈란테와 민마타의 기술을 융합하는 엔젤 카르텔 특유의 함선 개발 방식을 고스란히 반영했으며, 고대의 기술을 일부 접목했습니다. 그 결과 발사체 무기로 적에게 무자비한 포화를 퍼부으면서 엔젤 카르텔 본대의 지시에 따라 빠르게 임무와 목표를 변경할 수 있는 고화력, 고기능 함선이 만들어졌습니다.",
+    "ru": "Проектируя <i>Mekubal</i>, инженеры картеля «ангелов» следовали новой тенденции великих держав, которые в бою стали всё чаще опираться на эсминцы. Этот корабль представляет собой традиционное для картеля попурри из галлентских и минматарских технологий — быть может, с щепоткой чего-то более древнего — в грозной и одновременно компактной оболочке. Новое судно получилось достаточно мощным и вместе с тем манёвренным: оно способно накрыть врага неистовым огнём из баллистических орудий и обладает достаточной скоростью для стремительной передислокации, что делает его идеальным вариантом для рейдовых флотов картеля.",
+    "zh": "<i>梅库巴尔级</i>是天使企业联合体对帝国海军不断扩充的驱逐舰舰队的一种回应，它融合了盖伦特和米玛塔尔的经典技术，也许带着一丝古老的气质，但杀伤力更强，结构也更紧凑。这最终成就了一艘强大的炮舰，能够让射弹武器狂风暴雨般倾泻火力，同时能够快速响应企业联合体突袭舰队的部署要求。"
+  },
+  "factionID": 500011,
+  "graphicID": 26216,
+  "groupID": 420,
+  "marketGroupID": 3531,
+  "mass": 1440000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      150,
+      71,
+      141,
+      85,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      150,
+      71,
+      141,
+      85,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      150,
+      71,
+      141,
+      85,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      150,
+      71,
+      141,
+      85,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      150,
+      71,
+      141,
+      85,
+      118,
+      94
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Mekubal",
     "en": "Mekubal",
@@ -9,6 +74,83 @@
     "ko": "메쿠발",
     "ru": "Mekubal",
     "zh": "梅库巴尔级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 32,
+  "radius": 138.0,
+  "sofFactionName": "angelbase",
+  "soundID": 20074,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 25.0,
+        "bonusText": {
+          "de": "Bonus auf die Warpgeschwindigkeit und Warpbeschleunigung",
+          "en": "bonus to warp speed and warp acceleration",
+          "es": "de bonificación a la velocidad y la aceleración de warp.",
+          "fr": "de bonus à la vitesse de warp et à l'accélération de warp",
+          "ja": "ワープ速度とワープ加速度が上昇",
+          "ko": "워프 속도 및 워프 가속도 증가",
+          "ru": "бонус к разгону и скорости хода (в варп-режиме)",
+          "zh": "跃迁速度和跃迁加速加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 100.0,
+        "bonusText": {
+          "de": "Bonus auf den Schaden von <a href=showinfo:3302>kleinen Projektilwaffentürmen</a>",
+          "en": "bonus to <a href=showinfo:3302>Small Projectile Turret</a> damage",
+          "es": "de bonificación al daño de la <a href=showinfo:3302>torreta de proyectiles pequeña</a>.",
+          "fr": "de bonus aux dégâts des <a href=showinfo:3302>petites tourelles à projectiles</a>",
+          "ja": "<a href=showinfo:3302>小型プロジェクタイルタレット</a>のダメージにボーナス",
+          "ko": "<a href=showinfo:3302>소형 발사체 터렛</a> 피해량 증가",
+          "ru": "бонус к урону <a href=showinfo:3302>малых баллистических орудий</a>",
+          "zh": "<a href=showinfo:3302>小型射弹炮台</a>伤害加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "33093": [
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Nachführungsgeschwindigkeit von <a href=showinfo:3302>kleine Projektilwaffentürmen</a>",
+            "en": "bonus to <a href=showinfo:3302>Small Projectile Turret</a> tracking speed",
+            "es": "de bonificación a la velocidad de rastreo de la <a href=showinfo:3302>torreta de proyectiles pequeña</a>.",
+            "fr": "de bonus à la vitesse de poursuite des <a href=showinfo:3302>petites tourelles à projectiles</a>",
+            "ja": "<a href=showinfo:3302>小型プロジェクタイルタレット</a>の追跡速度にボーナス",
+            "ko": "<a href=showinfo:3302>소형 발사체 터렛</a> 트래킹 속도 증가",
+            "ru": "бонус к скорости наведения <a href=showinfo:3302>малых баллистических орудий</a>",
+            "zh": "<a href=showinfo:3302>小型射弹炮台</a>追踪速度加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ],
+      "33094": [
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf den Präzisionsabfall von <a href=showinfo:3302>kleinen Projektilwaffentürmen</a>",
+            "en": "bonus to <a href=showinfo:3302>Small Projectile Turret</a> falloff",
+            "es": "de bonificación al alcance efectivo de la <a href=showinfo:3302>torreta de proyectiles pequeña</a>.",
+            "fr": "de bonus à la déperdition des <a href=showinfo:3302>petites tourelles à projectiles</a>",
+            "ja": "<a href=showinfo:3302>小型プロジェクタイルタレット</a>の精度低下範囲にボーナス",
+            "ko": "<a href=showinfo:3302>소형 발사체 터렛</a> 유효사거리 증가",
+            "ru": "бонус к остаточной дальности <a href=showinfo:3302>малых баллистических орудий</a>",
+            "zh": "<a href=showinfo:3302>小型射弹炮台</a>失准范围加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 43000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 11548,
+  "description": {
+    "de": "Eine Reaktorkomponente, die primär in Minmatar-Schiffen eingesetzt wird, aber auch Teil unzähliger anderer Technologien ist.",
+    "en": "Power Core component used primarily in Minmatar ships. A component in various other technology as well.",
+    "es": "Núcleo de potencia usado principalmente en naves minmatarianas. También es un componente de otras tecnologías.",
+    "fr": "Composant de réacteur principal utilisé principalement pour les vaisseaux minmatar. Ce composant est également utilisé dans diverses autres technologies.",
+    "ja": "主にミンマター艦船に用いられるパワーコア部品。他にも幅広い機械装置に使われている。",
+    "ko": "민마타 함선에 주로 사용되는 파워코어 부품입니다. 다양한 기술 분야에서 활용되는 부품입니다.",
+    "ru": "Компонент силового ядра, используемый преимущественно на кораблях Minmatar. Применяется и в других различных технологиях.",
+    "zh": "主要由米玛塔尔舰船使用的能源核心构件。这个部件也存在于别的各种科技类型中。"
+  },
+  "groupID": 334,
+  "iconID": 2195,
+  "marketGroupID": 1889,
+  "mass": 1.0,
   "name": {
     "de": "Nuclear Reactor Unit",
     "en": "Nuclear Reactor Unit",
@@ -10,5 +23,8 @@
     "ru": "Nuclear Reactor Unit",
     "zh": "核反应堆机组"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
   "volume": 1.0
 }

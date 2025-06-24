@@ -1,5 +1,18 @@
 {
-  "typeID": 30510,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Die langen Behälter an dem Verbindungsmodul geben keinen Hinweis auf ihre Verwendung. Archäologen mutmaßen, dass die Behälter Rettungskapseln, Nachrungsvorräte, Treibstoff oder Folterwerkzeug enthielten. Einige Theorien behaupten, dass all das Genannte stimmt. So zerbrochen und abgenutzt wird das Modul keine dieser Funktionen erfüllen können. Sein Rahmen ist total zerstört.",
+    "en": "The long capsules in the coupling array offer no hints as to their purpose. Archaeologists conjecture that the Array contained escape vessels, food bins, fuel resources or equipment for punishment. Some theories purport that all of the above are true. Cracked and worn, the coupling array won't function as any of these, as its fragile frame is completely broken inside and out.",
+    "es": "Las cápsulas largas del sistema de acoplamiento no dan pistas sobre su propósito. Los arqueólogos conjeturan que contenía naves de huida, arcones de comida, recursos de combustible o instrumentos de tortura. Algunas teorías afirman que todo lo anterior es cierto. El sistema de acople, agrietado y desgastado, ya no funcionará para ninguno de esos fines, ya que su frágil armazón está hecho trizas, por dentro y por fuera.",
+    "fr": "Les longues capsules du module de couplage ne donnent aucune indication quant à leur utilisation. D'après les archéologues, ce module contenait des vaisseaux de secours, des paniers de nourriture, des ressources en carburant ou du matériel de sentence. Certaines théories prétendent que tout cela est bien vrai. Fissuré et en mauvais état, ce module de couplage ne risque plus de remplir aucune de ces fonctions, comme en atteste sa fragilité intérieure et extérieure.",
+    "ja": "結合施設内の長いカプセルは、何の目的で作られたのか不明である。考古学者の推測では、この施設の中には脱出用の船、食料の貯蔵容器、燃料、刑罰用の道具のいずれかが収められていたということだ。そのどれもが正しいのだという意見もある。結合施設はひび割れ、傷んでおり、全く機能しない。もろい表面部分は完全にめくれ上がっている。",
+    "ko": "연결 구조물 사이에 위치한 캡슐은 어떤 용도였을지 알 수 없습니다. 고고학자들은 과거 선박, 식품, 연료, 또는 처벌 장비가 보관되었을 것으로 추측하고 있습니다. 이러한 추측은 몇몇 이론들로 인해 타당성이 뒷받침되어지고 있습니다. 갈라지고 허물어져 가는 이 연결 구조물은 더는 사용 불가능한 상태입니다.",
+    "ru": "По длинным капсулам в шлюзовом отсеке ничего невозможно сказать об их назначении. Археологи полагают, что в них могли помещаться спасательные шлюпки, контейнеры с пищей, топливные баки или оборудование для наказаний. Некоторые теории говорят в пользу всех вышеперечисленных догадок. Растрескавшийся и изношенный, шлюзовой отсек теперь не способен выполнять ни одну из этих функций, так как его хрупкая конструкция полностью обветшала как внутри, так и снаружи.",
+    "zh": "没人知道连接阵列装置中长长的密封舱是做什么用的。考古学家认为是这其中含有逃逸船只，有人说是食物燃料等物资的储藏柜。有些人则说前面提及的都有。现在它已经破损老化，不能用作上面任何一种用途了，因为它整个已经完全损坏。"
+  },
+  "graphicID": 3570,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Broken Talocan Coupling Array",
     "en": "Broken Talocan Coupling Array",
@@ -10,5 +23,9 @@
     "ru": "Broken Talocan Coupling Array",
     "zh": "毁坏塔洛迦连接装置阵列"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 4859.0,
+  "sofFactionName": "talocanbase",
   "volume": 100000000.0
 }

@@ -1,5 +1,15 @@
 {
-  "typeID": 49,
+  "description": {
+    "de": "Abschussbestätigung",
+    "en": "Kill confirmation",
+    "es": "Confirmación de bajas",
+    "fr": "Confirmation de meurtre",
+    "ja": "殺害確認",
+    "ko": "킬 확인",
+    "ru": "Подтверждение уничтожения корабля",
+    "zh": "死亡确认"
+  },
+  "groupID": 24,
   "name": {
     "de": "Player Kill",
     "en": "Player Kill",
@@ -10,5 +20,6 @@
     "ru": "Player Kill",
     "zh": "PK"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

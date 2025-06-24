@@ -1,5 +1,17 @@
 {
-  "typeID": 30391,
+  "description": {
+    "de": "Einzelne besondere räumliche Erscheinungen können Ihr Schiff auf seltsame Weise beeinträchtigen.",
+    "en": "Local spatial phenomena may cause strange effects on your ship systems.",
+    "es": "Los fenómenos espaciales locales pueden provocar efectos extraños en los sistemas de la nave.",
+    "fr": "Phénomène local de l'espace pouvant avoir d'étranges effets sur les systèmes de votre vaisseau.",
+    "ja": "周囲の空間で発生している現象が、船のシステムに不可解な効果を与えるかもしれない。",
+    "ko": "함선 시스템에 영향을 줄 수 있는 공간현상이 감지되었습니다.",
+    "ru": "Излучение местной звезды влияет на работу бортовых систем вашего корабля.",
+    "zh": "本地空间现象可能会对你的舰船系统造成影响。"
+  },
+  "graphicID": 1217,
+  "groupID": 920,
+  "mass": 1.0,
   "name": {
     "de": "Omni Effect Beacon",
     "en": "Omni Effect Beacon",
@@ -10,5 +22,8 @@
     "ru": "Omni Effect Beacon",
     "zh": "全方向效果光束"
   },
+  "portionSize": 250,
+  "published": true,
+  "sofFactionName": "genericbase",
   "volume": 20.0
 }

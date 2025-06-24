@@ -1,5 +1,18 @@
 {
-  "typeID": 16616,
+  "capacity": 235.0,
+  "description": {
+    "de": "Ein Kampfschiff der Streitkräfte des CONCORD. Betrachten Sie es als Bedrohung für jeden, der im von CONCORD gesicherten Raum ein Verbrechen begeht. Nur ein Dummkopf würde es sich mit einem Star Destroyer des CONCORD verderben.",
+    "en": "This is a fighter-ship belonging to the CONCORD Army.  Consider it a threat to anyone that has commited a criminal offense within CONCORD patrolled space.  Only a fool would mess with a CONCORD Star Destroyer.",
+    "es": "Caza que pertenece al ejército de CONCORD. Se la considera una amenaza para cualquiera que haya cometido un acto delictivo en el espacio vigilado por CONCORD. Solo un idiota se metería con un destructor estelar de CONCORD.",
+    "fr": "Il s'agit d'un chasseur appartenant à l'armée CONCORD.  Il représente une menace pour toute personne ayant commis un crime dans l'espace contrôlé par CONCORD.  Il faut avoir perdu la raison pour s'opposer à un Star Destroyer CONCORD.",
+    "ja": "CONCORD軍所属の戦闘機。CONCORDパトロール宙域で犯罪を働く者にとっては脅威的存在。CONCORDスター駆逐艦に楯突くとしたら、よほどの怖いもの知らずだろう。",
+    "ko": "CONCORD 소속 전투함입니다. CONCORD 관리 구역에서 범죄를 저지르셨다면 피하는 것이 좋을 겁니다. CONCORD 항성 파괴자와 싸우는 건 미친 짓입니다.",
+    "ru": "Этот боевой корабль принадлежит армии CONCORD.  Он представляет угрозу для всех, кто совершил уголовное преступление в пределах патрулируемого CONCORD пространства. Только глупец может бросить вызов CONCORD Star Destroyer.",
+    "zh": "这艘战舰隶属统合部军队。任何在统合部巡逻空间内犯下刑事罪者都视其为威胁。只有傻瓜才会去招惹统合部驱逐舰。"
+  },
+  "graphicID": 1060,
+  "groupID": 697,
+  "mass": 20500000.0,
   "name": {
     "de": "CONCORD ship",
     "en": "CONCORD ship",
@@ -10,5 +23,9 @@
     "ru": "CONCORD ship",
     "zh": "统合部 舰船"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 600.0,
+  "sofFactionName": "army",
   "volume": 1080000.0
 }

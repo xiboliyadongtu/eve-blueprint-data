@@ -1,5 +1,20 @@
 {
-  "typeID": 30389,
+  "basePrice": 100000000.0,
+  "capacity": 2000000.0,
+  "description": {
+    "de": "Eine mobile Fertigungsanlage in der fortschrittliche Subsysteme und Rümpfe für strategische Kreuzer gebaut werden können. Diese Struktur hat keine spezifischen Boni auf Zeit- oder Materialvoraussetzungen um die Fertigung von Subsystemen zu unterstützen. Hinweis: In Sternenbasis-Strukturen können keine Tech III Rümpfe gebaut werden.  Die Rümpfe und Subsysteme können nur gebaut werden, während man an einer Station angedockt ist.",
+    "en": "A mobile assembly facility where advanced subsystems and hulls of strategic cruisers can be manufactured. This structure has no specific time or material requirement bonuses to subsystem manufacturing.\r\n\r\nNote: Tech III hulls cannot be assembled at starbase structures.  The hulls and subsystems can only be assembled whilst docked in a station.",
+    "es": "Instalación de ensamblaje móvil en la que se pueden fabricar subsistemas avanzados y cruceros estratégicos. No ofrece bonificaciones específicas de tiempo o materiales en la fabricación de subsistemas.\n\nAviso: No es posible ensamblar cascos T3 en estructuras de base estelar. Los cascos y los subsistemas solo se pueden ensamblar cuando la nave está acoplada en una estación.",
+    "fr": "Module d'assemblage mobile permettant la fabrication de sous-systèmes avancés et de coques de croiseur stratégique. Cette structure ne présente aucun bonus spécifique de temps ou de matériaux requis pour la fabrication de sous-systèmes.\n\nRemarque : les coques Tech III ne peuvent pas être assemblées dans les structures de base stellaire.  Les coques et les sous-systèmes ne peuvent être assemblés que s'ils sont amarrés à une station.",
+    "ja": "移動式組み立て施設。高度なテクノロジーを用いたサブシステムや戦略的巡洋艦本体を建造できる。サブシステム製造に要する時間や資源に対するボーナスは特にない。注：T3船本体はスターベース施設では組み立てられない。T3船本体およびサブシステムの組み立ては、ステーションに入港した状態でのみ可能である。",
+    "ko": "첨단 서브시스템과 전략 크루저의 선체를 생산할 수 있는 이동식 생산 시설입니다. 서브시스템 제조에 적용되는 시간 및 자원효율성 보너스는 없습니다. <br><br>참고: 스타베이스 구조물에서 테크 III 선체 조립이 불가능합니다. 정거장에 도킹된 상태로만 선체와 서브시스템의 조립이 가능합니다.",
+    "ru": "Цех-завод для производства усовершенствованных подсистем и корпусов для стратегических крейсеров. В этом сооружении расход времени и комплектующих при производстве подсистем не отличается от номинальных значений. Сборка корпусов кораблей третьей техкатегории на ПОСе недопустима.  Установка подсистем в корпуса возможна лишь тогда, когда корабль находится в доке станции.",
+    "zh": "一座移动式装配设施，在这里可以生产高级子系统和战略巡洋舰。这个建筑不提供生产时间或材料需求的加成。\n\n注：三级科技舰船不能在母星建筑中组装。  这种舰船和子系统只能在空间站中进行组装。"
+  },
+  "graphicID": 2625,
+  "groupID": 397,
+  "marketGroupID": 932,
+  "mass": 200000000.0,
   "name": {
     "de": "Subsystem Assembly Array",
     "en": "Subsystem Assembly Array",
@@ -10,5 +25,9 @@
     "ru": "Subsystem Assembly Array",
     "zh": "子系统组装阵列"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 1857.0,
+  "sofFactionName": "genericbase",
   "volume": 17000.0
 }

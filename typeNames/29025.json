@@ -1,5 +1,18 @@
 {
-  "typeID": 29025,
+  "capacity": 1200.0,
+  "description": {
+    "de": "Diese Varianten eines Standard-Kampfschiffdesigns gehören im Allgemeinen zu fest stationierten Strukturen, wo sie als schlagkräftige Verteidigungslinien fungieren.",
+    "en": "These variants of the standard fighter design are most commonly based off static structures, where they serve as a powerful line of defense.",
+    "es": "Estas variantes del diseño estándar de los cazas suelen tener sus bases en estructuras estáticas, donde funcionan como una poderosa línea de defensa.",
+    "fr": "Ces variantes du modèle de chasseur standard se basent généralement sur des structures statiques, où elles sont utilisées comme ligne de défense.",
+    "ja": "ここに含まれる標準的な艦載戦闘機の改良型は、固定的な建造物を基地にしていることが多く、防衛のために使用される。",
+    "ko": "고정 시설에서 운용되는 일반형 파이터로 방어 임무에 주로 투입됩니다.",
+    "ru": "Эти модификации стандартных истребителей используются для обороны стационарных сооружений.",
+    "zh": "这些标准战机的变形设计多数基于稳定的结构，使得他们可以成为非常强劲的防御力量。"
+  },
+  "graphicID": 2899,
+  "groupID": 861,
+  "mass": 12000.0,
   "name": {
     "de": "Outpost Defender",
     "en": "Outpost Defender",
@@ -10,5 +23,10 @@
     "ru": "Outpost Defender",
     "zh": "哨站防卫者"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 35.0,
+  "sofFactionName": "amarrbase",
   "volume": 5000.0
 }

@@ -1,5 +1,54 @@
 {
-  "typeID": 648,
+  "basePrice": 1400000.0,
+  "capacity": 3900.0,
+  "description": {
+    "de": "Die Transporter der Badger-Klasse sind die wichtigsten leichten Trägerschiffe des Staates der Caldari, besonders auf langen und beschwerlichen Handelsrouten. Dank ihrer Baugröße und der flexiblen Verteidigung sind diese Schiffe perfekt für solche Einsätze gerüstet, obwohl die Caldari sie nur selten allein auf die Reise schicken.",
+    "en": "The Badger-class hauler is the main light cargo-carrier for the Caldari State, particularly for long, arduous trade runs. Its large size and flexible defenses make it perfectly equipped for those tasks, although the Caldari seldom let it roam alone.",
+    "es": "La nave de mercancías de clase Badger es la principal nave de transporte de carga del Estado Caldari, sobre todo para negocios largos y arduos. Su enorme tamaño y sus flexibles defensas hacen que esté perfectamente equipada para esas tareas, aunque los caldaris raramente la dejan vagar sola.",
+    "fr": "Le cargo de classe Badger est le principal vaisseau de transport léger caldari. Il sert plus particulièrement pour les opérations de fret longues et difficiles. Sa grande taille et ses défenses polyvalentes le prédestinent à ce genre de missions, même si les Caldari lui adjoignent généralement une escorte.",
+    "ja": "バッジャー級ハウラーは、カルダリ連合の軽貨物輸送の主力で、特に長く厳しい交易に活躍する。こうした任務に十分耐えうる大きな船体と柔軟な防衛方法を有するが、カルダリがバッジャーを単独で航行させることはほとんどない。",
+    "ko": "뱃져는 칼다리 연합의 대표적인 화물 운반선으로 장거리 물자 운송에 특화되어 있습니다. 거대한 크기와 유연한 무장을 지니고 있지만, 칼다리 연합이 뱃져를 홀로 운영하는 경우는 거의 없습니다.",
+    "ru": "Перевозчик класса «Бэджер» — основной лёгкий грузовой корабль Государства Калдари, часто используемый на длинных и сложных маршрутах. Большая вместительность и многофункциональное защитное оснащение делают его идеальным кораблём для перевозки товаров, но он редко отправляется в путь без сопровождения.",
+    "zh": "獾级运载舰是加达里的主力轻型货运舰，特别适用于路途遥远而艰辛的贸易路线。它巨大的船体和灵活的防御性能使它非常适合此类任务，不过加达里人很少驾驶它单独往来。"
+  },
+  "factionID": 500001,
+  "graphicID": 51,
+  "groupID": 28,
+  "marketGroupID": 84,
+  "mass": 10650000.0,
+  "masteries": {
+    "0": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "1": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "2": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "3": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "4": [
+      96,
+      118,
+      117,
+      94
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Badger",
     "en": "Badger",
@@ -9,6 +58,81 @@
     "ko": "뱃져",
     "ru": "Badger",
     "zh": "獾级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 196.0,
+  "sofFactionName": "caldaribase",
+  "soundID": 20070,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 30.0,
+        "bonusText": {
+          "de": "Bonus auf die Warpgeschwindigkeit und Warpbeschleunigung",
+          "en": "bonus to warp speed and warp acceleration",
+          "es": "de bonificación a la velocidad y la aceleración de warp.",
+          "fr": "de bonus à la vitesse de warp et à l'accélération de warp",
+          "ja": "ワープ速度とワープ加速度が上昇",
+          "ko": "워프 속도 및 워프 가속도 증가",
+          "ru": "бонус к разгону и скорости хода (в варп-режиме)",
+          "zh": "跃迁速度和跃迁加速加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 90.0,
+        "bonusText": {
+          "de": "Reduktion der effektiv zurückgelegten Distanz für die Sprungerschöpfung",
+          "en": "reduction to effective distance traveled for jump fatigue",
+          "es": "de reducción de la distancia efectiva hasta sufrir fatiga de salto.",
+          "fr": "de réduction de la distance effectuée pour l'épuisement de saut",
+          "ja": "ジャンプによる疲弊が飛行距離に及ぼす影響を低減",
+          "ko": "이동 거리에 따른 점프 피로도 감소",
+          "ru": "медленнее накапливается усталость от гиперпереходов",
+          "zh": "减少跳跃距离对产生跳跃疲劳的影响"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3342": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf die Frachtraumkapazität des Schiffs",
+            "en": "bonus to ship cargo capacity",
+            "es": "de bonificación a la capacidad de carga de la nave.",
+            "fr": "de bonus à la capacité de la soute du vaisseau",
+            "ja": "艦船のカーゴ容量が増加",
+            "ko": "화물 적재량 증가",
+            "ru": "увеличивается вместимость грузового отсека корабля",
+            "zh": "舰船货柜舱容量加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf den Trägheitsmodifikator des Schiffs",
+            "en": "bonus to ship inertia modifier",
+            "es": "de bonificación al modificador de inercia de la nave.",
+            "fr": "de bonus au modificateur d'inertie du vaisseau",
+            "ja": "艦船の慣性修正乗数が増加",
+            "ko": "관성 계수 증가",
+            "ru": "уменьшается инертность конструкции корабля",
+            "zh": "舰船惯性调整系数加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 250000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 28615,
+  "basePrice": 5000000.0,
+  "description": {
+    "de": "Skill zur Bedienung von elektronisches Angriffsfregatten.",
+    "en": "Skill for the operation of Electronic Attack Frigates.",
+    "es": "Habilidad en el manejo de fragatas de ataque electrónico.",
+    "fr": "Compétence liée à l'utilisation des frégates d'attaque électronique.",
+    "ja": "電子攻撃フリゲートを操縦するスキル。",
+    "ko": "전자전 프리깃을 운용하기 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на дозорных фрегатах.",
+    "zh": "操作电子攻击护卫舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Electronic Attack Ships",
     "en": "Electronic Attack Ships",
@@ -10,5 +23,7 @@
     "ru": "Дозорные фрегаты",
     "zh": "电子攻击舰操作"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

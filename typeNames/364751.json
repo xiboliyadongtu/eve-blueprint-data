@@ -1,5 +1,17 @@
 {
-  "typeID": 364751,
+  "basePrice": 1772000.0,
+  "description": {
+    "de": "Skill zum Steuern von Caldari-Logistiklandungsschiffen.\n\nSchaltet die Fähigkeit zur Verwendung von Landungsschiffen der Caldari-Logistikklasse frei. -2% auf den CPU-Verbrauch aller Schildmodule pro Skillstufe.",
+    "en": "Skill at piloting Caldari Logistics Dropships.\r\n\r\nUnlocks the ability to use Caldari Logistics Dropships. -2% CPU consumption to all shield modules per level.",
+    "es": "Habilidad de pilotaje de naves de descenso logísticas Caldari.\n\nDesbloquea la habilidad para usar las naves de descenso logísticas Caldari. -2% al coste de CPU de todos los módulos de escudo por nivel.",
+    "fr": "Compétence permettant d'utiliser les barges de transport Logistique Caldari.\n\nDéverrouille l'utilisation des barges de transport Logistique Caldari. -2 % de consommation de CPU de tous les modules de bouclier par niveau.",
+    "it": "Abilità nel pilotaggio delle navicelle logistiche Caldari.\n\nSblocca l'abilità nell'utilizzo delle navicelle logistiche Caldari. -2% al consumo di CPU di tutti i moduli dello scudo per livello.",
+    "ja": "カルダリロジスティクス降下艇を操縦するためのスキル。\n\nカルダリロジスティクス降下艇が使用可能になる。レベル上昇ごとに、全てのシールドモジュールのCPU消費率が2%減少する。",
+    "ko": "칼다리 지원 수송함을 조종하기 위한 스킬입니다. <br><br>칼다리 지원 수송함을 운용할 수 있습니다.<br><br>매 레벨마다 실드 모듈의 CPU 요구치 2% 감소",
+    "ru": "Навык пилотирования ремонтными десантными кораблями Калдари.\n\nПозволяет использовать ремонтные десантные корабли Калдари. -2% потребления ресурсов ЦПУ всеми модулями щитов на каждый уровень",
+    "zh": "驾驶加达里后勤运输船的技能。解锁使用加达里后勤运输船的能力。每升一级，所有护盾装备的CPU消耗减少2%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Caldari-Logistiklandungsschiff",
     "en": "Caldari Logistics Dropship",
@@ -11,5 +23,7 @@
     "ru": "Ремонтные десантные корабли Калдари",
     "zh": "加达里后勤运输船"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

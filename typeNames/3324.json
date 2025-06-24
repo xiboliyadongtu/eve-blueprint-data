@@ -1,5 +1,18 @@
 {
-  "typeID": 3324,
+  "basePrice": 125000.0,
+  "description": {
+    "de": "Fertigkeit im Steuern schwerer Raketen. \r\n\r\n5% Bonus auf die Schadenwirkung schwerer Raketen je Skillstufe.",
+    "en": "Skill with heavy missiles. Special: 5% bonus to heavy missile damage per skill level.",
+    "es": "Habilidad con misiles pesados. Especial: 5 % de bonificación al daño de misiles pesados por nivel de habilidad.",
+    "fr": "Compétence liée à l'utilisation des missiles lourds. Spécificité : augmente de 5 % par niveau de compétence les dégâts causés par les missiles lourds.",
+    "ja": "ヘビーミサイルに関するスキル。特記 : スキルレベル上昇ごとにヘビーミサイルダメージに5%のボーナス。",
+    "ko": "헤비 미사일 운용을 위한 스킬입니다. 특수 효과: 매 레벨마다 헤비 미사일 피해량 5% 증가",
+    "ru": "Навык эксплуатации тяжёлых ракет За каждую степень освоения навыка: на 5% повышается урон тяжёлых ракет.",
+    "zh": "操作重型导弹的技能。每升一级，重型导弹的伤害提升5%。"
+  },
+  "groupID": 256,
+  "iconID": 33,
+  "marketGroupID": 373,
   "name": {
     "de": "Heavy Missiles",
     "en": "Heavy Missiles",
@@ -10,5 +23,7 @@
     "ru": "Тяжёлые ракеты",
     "zh": "重型导弹概论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,19 @@
 {
-  "typeID": 47073,
+  "description": {
+    "de": "Sendet ein elektronisches Schockfeld, das um das angesetzte Ziel zentriert ist. Bringt den Navigationscomputer des Zielschiffs zum Erliegen, wodurch dieses am Warpen gehindert wird. Es kann pro Struktur nur ein Modul dieses Typs eingebaut sein. Standup ist ein gesetzlich geschütztes System, welches eine Strukturautonome Nanofertigungseinheit (Upwell) nutzt, das eine integrierte Vorlagensoftware, eine Nanofertigungsanlage und ausreichend Nanomasse enthält, um die Fertigung einer Vielzahl an Dienstmodulen, Strukturmodulen und Strukturmodifikationen zu ermöglichen, wenn es in entsprechende Slots in einer Struktur mit Upwell-Technologie eingebaut wird.",
+    "en": "Emits an area-of-effect burst centered on the designated location. The burst disrupts the affected ships' navigation computer which prevents them from warping. Only one module of this type can be fit per structure.\r\n\r\nStandup is a proprietary system that uses a Structure Autonomous Nanoassembly Device (Upwell) containing integrated template software, a nanoassembler array and sufficient nanomass to enable the construction of a variety of service modules, structure modules and structure rigs when inserted into the appropriate slots on a structure built with Upwell technology.",
+    "es": "Emite un estallido de radio de acción centrado en la ubicación designada que inutiliza el ordenador de navegación de la nave afectada, impidiéndole usar el warp. Solo se puede equipar un módulo de este tipo por estructura.\n\n\n\nStandup es un sistema patentado que utiliza un dispositivo de nanoensamblaje autónomo estructural (de Upwell) que contiene una plantilla integrada de software, una matriz de nanoensambladores y suficiente nanomasa como para construir una serie de módulos de servicio, de estructura y complementos de estructura cuando se insertan en las ranuras apropiadas en una estructura construida con la tecnología de Upwell.",
+    "fr": "Émet une salve à effet de zone ayant pour centre la cible désignée. La salve perturbe l'ordinateur de navigation des vaisseaux touchés et les empêche de warper. Un seul module de ce type peut être installé par structure. La technologie brevetée 'Standup' exploite un dispositif autonome de nano-assemblage pour structure Upwell, alliant un logiciel de modélisation intégré, une baie de nano-assemblage et une réserve de nano-masse. Une fois insérés dans les emplacements dédiés sur les structures Upwell, les dispositifs 'Standup' permettent l'assemblage moléculaire de divers modules de services, modules de structure et optimisations de structure.",
+    "ja": "指定位置を中心とした範囲攻撃バーストを放射する。バーストは影響を受けた艦船のナビゲーションコンピュータを妨害し、ワープを阻止する。この種類のモジュールはストラクチャごとに1つしか設置できない。\r\n\nスタンドアップは、自動ナノアセンブリーストラクチャデバイス（アップウェル）を使用して、様々なサービスモジュール、ストラクチャモジュール、そしてストラクチャリグを作り出すことができるプロプライエタリシステムである。アップウェルテクノロジーで建造されたストラクチャの適切なスロットに挿入して使う。アップウェルには統合テンプレートソフトウェア、ナノアセンブラー配列と、十分なナノ物質が含まれている。",
+    "ko": "지정된 위치를 중심으로 광범위 버스트를 방출합니다. 대상의 항법 시스템을 교란하여 워프를 차단합니다. 동일한 종류의 모델은 한 개만 장착할 수 있습니다. <br><br>스탠드업은 자율구조형 나노어셈블러 장치(업웰)를 사용하는 시스템으로 템플릿 소프트웨어가 내장되어 있으며 나노어셈블리 배열, 충분한 양의 나노물질이 탑재돼있습니다. 업웰 기반 구조물에 장착 시 다양한 종류의 서비스 모듈, 구조물 모듈, 구조물 장착형 리그를 제조할 수 있습니다.",
+    "ru": "Создаёт в выбранной точке объёмные помехи с большим радиусом действия. Эти помехи нарушают работу навигационных систем поражённых кораблей, что не позволяет им совершить варп-прыжок. На одно сооружение можно установить только один такой модуль. СТАЦИОНАР — это проприетарная система, использующая стационарный автономный наносборщик производства «Апвелл», который и лёг в основу её названия. Он содержит встроенное ПО для создания шаблонов, линию наносборщиков и достаточное количество наномассы для сборки различных модулей технического обслуживания, а также модулей и надстроек для сооружений, сконструированных по проектам консорциума «Апвелл», которые устанавливаются в соответствующие разъёмы.",
+    "zh": "发射以指定位置为中心的区域爆炸效果。这种脉冲波干扰受影响舰船的导航计算机从而阻止其进行跃迁。每个建筑只能装配一件这类装备。\n\n\n\n屹立专用系统采用了昇威建筑分控纳米装配装置，由集成模版软件、纳米装配阵列和许多纳米块体构成。安装在采用昇威科技建造的建筑上的专门槽位中可以制造各种服务装备、建筑装备和建筑改装件。"
+  },
+  "groupID": 1331,
+  "iconID": 21611,
+  "marketGroupID": 2408,
+  "mass": 500.0,
+  "metaGroupID": 54,
   "name": {
     "de": "Standup Warp Disruption Burst Projector",
     "en": "Standup Warp Disruption Burst Projector",
@@ -10,5 +24,7 @@
     "ru": "Standup Warp Disruption Burst Projector",
     "zh": "屹立跃迁扰断脉冲波投射器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 4000.0
 }

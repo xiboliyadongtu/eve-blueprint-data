@@ -1,5 +1,18 @@
 {
-  "typeID": 23594,
+  "basePrice": 650000.0,
+  "description": {
+    "de": "Fertigkeit zur Steuerung von Wächterdrohnen. 5 % Bonus auf die Schadenswirkung von Wächterdrohnen je Skillstufe.",
+    "en": "Skill at controlling sentry drones. 5% bonus to Sentry Drone damage per level.",
+    "es": "Habilidad para controlar drones centinela. 5 % de bonificación al daño de los drones centinela por nivel.",
+    "fr": "Compétence liée à l'utilisation des drones sentinelles. Augmente de 5 % par niveau les dégâts des drones sentinelles.",
+    "ja": "セントリードローンを操作するためのスキル。レベル上昇ごとにセントリードローンのダメージが5%増加。",
+    "ko": "센트리 드론 운용을 위한 스킬입니다. 매 레벨마다 센트리 드론 피해량 5% 증가",
+    "ru": "Навык эксплуатации стационарных дронов. За каждую степень освоения навыка: на 5% повышается урон бортового оружия стационарных дронов.",
+    "zh": "操纵岗哨无人机的技能。每升一级，岗哨无人机的伤害提高5%。"
+  },
+  "groupID": 273,
+  "iconID": 33,
+  "marketGroupID": 366,
   "name": {
     "de": "Sentry Drone Interfacing",
     "en": "Sentry Drone Interfacing",
@@ -10,5 +23,7 @@
     "ru": "Стационарные дроны",
     "zh": "岗哨无人机操控理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

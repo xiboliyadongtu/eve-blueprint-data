@@ -1,5 +1,20 @@
 {
-  "typeID": 24659,
+  "basePrice": 10000000.0,
+  "capacity": 1000000.0,
+  "description": {
+    "de": "Eine mobile Fertigungsanlage, in der kleine unbemannte Drohnen gebaut werden können.\n\n\n\nHinweis: Jäger werden in kleinen Schiff-Fertigungsanlagen gebaut.",
+    "en": "A mobile assembly facility where small unmanned drones can be manufactured.\r\n\r\nNote: Fighters are built in Small Ship Assembly Arrays.",
+    "es": "Instalación de ensamblaje móvil en la que se pueden fabricar drones autónomos pequeños.\n\nAviso: Los cazas se construyen con baterías de montaje de naves pequeñas.",
+    "fr": "Module d'assemblage mobile permettant la fabrication de petits drones automatiques. Remarque : la construction des chasseurs s'effectue dans les modules d'assemblage de petits vaisseaux.",
+    "ja": "小型無人ドローンを製造できる移動型組み立て施設。\r\n\n注: 艦載戦闘機は、小型船組み立て施設で建造",
+    "ko": "소형 무인드론을 생산할 수 있는 이동식 생산 시설입니다. <br><br>참고: 파이터는 소형 함선 건조 시설에서 생산됩니다.",
+    "ru": "Блок-завод для производства маленьких беспилотных дронов.\n\n\n\nВнимание: истребители строятся на заводе для сборки кораблей малого тоннажа.",
+    "zh": "一座移动式装配设施，在这里可以生产小型无人机。\n\n\n\n注：铁骑舰载机是在小型舰船组装阵列中生产的。"
+  },
+  "graphicID": 2377,
+  "groupID": 397,
+  "marketGroupID": 932,
+  "mass": 100000000.0,
   "name": {
     "de": "Drone Assembly Array",
     "en": "Drone Assembly Array",
@@ -10,5 +25,9 @@
     "ru": "Drone Assembly Array",
     "zh": "无人机组装阵列"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 937.0,
+  "sofFactionName": "genericmetal",
   "volume": 1250.0
 }

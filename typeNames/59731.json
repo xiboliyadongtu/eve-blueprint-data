@@ -1,5 +1,18 @@
 {
-  "typeID": 59731,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Das Upwell Consortium wurde von Kasiha Valkanir, der Kommandeurin von EDENCOM, beauftragt, eine mächtige Verteidigungsstation zu entwickeln, die zur Sicherung von New Edens Sonnensystemen dienen könnte. Upwell kooperierte zu diesem Zweck mit mehreren namhaften, auf Waffenherstellung spezialisierten Corporations der Kernimperien und präsentierte schließlich den GunStar. Die CONCORD-Kräfte haben Zugriff auf die GunStar-Entwürfe von EDENCOM und eine Vielzahl von Variationen für ihre speziellen Bedürfnisse entwickelt. Der Stasis GunStar wird von der SCC als Element in den ineinandergreifenden Verteidigungsnetzwerken eingesetzt, um wichtige Einrichtungen wie SCC-Schlüsselspeicheranlagen zu schützen.",
+    "en": "Charged by EDENCOM's Provost Marshal Kasiha Valkanir to develop a potent defense platform to aid in the fortification of New Eden's star systems, the Upwell Consortium collaborated with a number of the core empires' key weapons development corporations and came up with the GunStar.\r\n\r\nCONCORD forces have access to EDENCOM's GunStar designs and have developed a number of variants to suit their special needs. The Stasis GunStar is used by the SCC as an element in the interlocking defense networks used to secure vital facilities such as SCC Key Storage Sites.",
+    "es": "La oficial de vigilancia Kasiha Valkanir de EDENCOM designó el Consorcio Upwell para desarrollar una potente plataforma de defensa destinada a ayudar en la fortificación de los sistemas estelares de Nuevo Edén, para lo que colaboró con algunas de las corporaciones armamentísticas más importantes de los principales imperios. El resultado fue la GunStar.\n\nLas fuerzas de CONCORD tienen acceso a los diseños de la GunStar de EDENCOM y han desarrollado distintas variantes para cubrir ciertas necesidades específicas. Por ejemplo, la CCS utiliza la GunStar de estasis en sus redes de defensa interconectadas para proteger instalaciones vitales, como zonas clave de almacenamiento.",
+    "fr": "Chargé par Kasiha Valkanir, grand prévôt d'EDENCOM, de développer une puissante plateforme défensive pour contribuer à la fortification des systèmes stellaires de New Eden, l'Upwell Consortium a collaboré avec plusieurs des principales corporations de développement d'armes des empires centraux et mis au point le GunStar. Les forces CONCORD ont accès aux conceptions de GunStar d'EDENCOM, et ont développé un certain nombre de variantes afin de répondre à leurs besoins spécifiques. Le GunStar à stase est utilisé par la CCS comme un maillon de la chaîne de défense de ses installations clés, telles que les sites de stockage des clés CCS.",
+    "ja": "EDENCOM最高元帥カシーハ・ヴァルカニルからニューエデン圏内の星系防衛を担う有力な防衛プラットフォームの開発要請を受けたアップウェル・コンソーシアムは、主要帝国の主な兵器開発コーポレーションと協力して「ガンスター」を開発した。\n\n\n\nCONCORDはEDENCOMのガンスター設計図にアクセス権があり、特定のニーズに合わせて様々なバージョンを作り出した。ステイシスガンスターは、SCCキー保管サイトなどの重要施設を守るためのインターロッキングディフェンスネットワークの一部として、SCCに使われている。",
+    "ko": "건스타는 EDENCOM 헌병 대장 카시하 발카니르의 요청으로 개발된 방어형 플랫폼으로 업웰 컨소시엄과 4대 제국 산하의 무기 개발사들이 공동 제작했습니다.<br><br>CONCORD는 건스타의 설계도를 보유하고 있으며, 이를 바탕으로 다양한 종류의 건스타를 제작하였습니다. 스테이시스 건스타는 SCC에서 운용하는 특수 구조물로 보안키 사이트와 같은 핵심 시설에 대한 방어 기능을 제공합니다.",
+    "ru": "Когда маршал ЭДЕНКОМа Касия Валканир приказала создать надёжную защитную платформу для укрепления обороны звёздных систем Нового Эдема, консорциум «Апвелл» обратился к крупнейшим военным корпорациям всех сверхдержав, и вместе они разработали «Ударную звезду». Силы КОНКОРДа имеют доступ к чертежам «Ударной звезды» ЭДЕНКОМа и изобрели множество вариаций платформы, отвечающих их специфическим нуждам. Стазисная «Ударная звезда» используется КпБТ как элемент взаимосвязанных оборонных сетей для обороны ключевых объектов, таких как защищённые районы КпБТ.",
+    "zh": "接到伊甸联合防御阵线司令官卡斯哈·瓦卡宁要求研发一种强大的防御平台来增强新伊甸星系的防御力量的指令后，昇威财团与几大帝国合作推出了伊甸联合防御阵线炮塔。\n\n\n\n统合部对伊甸联合防御阵线炮塔的设计做了些修改，开发出了几种符合自己需求的衍生型号。停滞网塔是商业安全委员会用来保护如密钥储存设施这样的重要地点的环环相扣的防御网络的一部分。"
+  },
+  "graphicID": 24546,
+  "groupID": 383,
+  "mass": 1000.0,
   "name": {
     "de": "SCC Security Stasis GunStar",
     "en": "SCC Security Stasis GunStar",
@@ -10,5 +23,10 @@
     "ru": "SCC Security Stasis GunStar",
     "zh": "商业安全委员会安保部 阻滞者"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 247.0,
+  "sofFactionName": "upwell-edencom",
   "volume": 1000.0
 }

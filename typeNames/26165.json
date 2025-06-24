@@ -1,5 +1,18 @@
 {
-  "typeID": 26165,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Die örtlichen Piraten versuchen beharrlich, ihre Produktqualität zu steigern sowie andere Aspekte der Drogenherstellung zu optimieren. Diese Einheit enthält einige ihrer Backup-Dateien, und mit der richtigen Ausrüstung müsste man sich einhacken können.",
+    "en": "The local pirates are actively trying to enhance the potency of their products, as well as improving other aspects of drug manufacturing. This unit stores some of their backup files and with the right equipment it might be possible to hack into it.",
+    "es": "Los piratas locales intentan mejorar la potencia de sus productos y optimizar otros aspectos de la fabricación de fármacos. Esta unidad contiene las copias de seguridad de algunos de sus archivos. Con el equipo adecuado, tal vez se pueda hackear.",
+    "fr": "Les pirates de la région essaient d'améliorer l'action de leurs produits, mais aussi d'autres aspects de la fabrication de drogue. Cette unité, qu'il serait facile de pirater avec le bon équipement, contient certains de leurs fichiers de sauvegarde.",
+    "ja": "地元の海賊は各種製品の性能を高めようと骨折っているだけでなく、薬物製造を多彩な角度から進歩させようとしている。海賊のバックアップファイルが保管されているこのユニットは、適切な機器さえあればハッキングが可能かもしれない。",
+    "ko": "해적들은 자신들의 제품 효능을 향상시키고 마약 제조 과정을 개선하려는 적극적인 노력을 하고 있습니다. 백업 파일이 일부 저장되어 있으며 적절한 장비를 통해 해킹할 수 있습니다.",
+    "ru": "Местные пираты активно пытаются повысить сильнодействие своей продукции и усовершенствовать другие аспекты производства наркотиков. Здесь хранятся архивные файлы. При наличии нужного оборудования для взлома их можно будет извлечь.",
+    "zh": "当地的海盗正在积极地尝试各种方法增强他们产品的效力，同时也改善毒品生产的各方面。这个装置储存着他们的备份文件，使用合适的装备就有可能破解它。"
+  },
+  "graphicID": 1683,
+  "groupID": 1207,
+  "mass": 10000.0,
   "name": {
     "de": "Backup Array",
     "en": "Backup Array",
@@ -10,5 +23,10 @@
     "ru": "Backup Array",
     "zh": "备用数据储藏阵列"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 60.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

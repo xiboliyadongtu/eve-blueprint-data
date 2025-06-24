@@ -1,5 +1,18 @@
 {
-  "typeID": 60204,
+  "capacity": 1200.0,
+  "description": {
+    "de": "Diese Raubdrohne wurde allgemein für den Plünderdienst entwickelt. Sie sucht nach jeder Quelle für Materialien und bringt sie zum Kolonienest zurück. Obwohl diese Drohnen relativ leicht sind, stellen sie in größerer Anzahl dennoch eine Gefahr dar. Sie sind bewaffnet, und die Kolonie wird sie im Kampf einsetzen, sollten Eindringlinge den Perimeter überschreiten.",
+    "en": "This rogue drone is generally designed for foraging duties, scavenging for any source of materials it can find and bring back to the colony nest. These relatively light drones are still a danger in large numbers as they are armed and will be pressed into combat by the colony if any intruders penetrate its perimeter.",
+    "es": "Este dron rebelde suele estar diseñado para realizar tareas de búsqueda de cualquier fuente de materiales y llevarla al nido de la colonia. Estos drones relativamente ligeros siguen siendo un peligro en gran número, ya que están armados y se unirán al combate por la colonia si algún intruso atraviesa su perímetro.",
+    "fr": "Ce drone renégat assume généralement une fonction de récupération, amassant tous les matériaux qu'il peut trouver avant de les ramener au nid de la colonie. Bien que relativement légers, ces drones sont armés et représentent une réelle menace, étant déployés en large nombre par la colonie pour éliminer tout intrus s'approchant de trop près.",
+    "ja": "このローグドローンは通常、採集任務のために設計されており、コロニーネストに持ち帰ることができるあらゆる資源を探し回る。比較的軽量なドローンだが、武装しているため数が増えると危険だ。侵入者が境界線を越えるとコロニーにより戦闘命令が下される。",
+    "ko": "자원 수집 임무를 담당하는 로그 드론으로 각종 재료를 회수하여 둥지로 운반합니다. 크기는 비교적 작지만 콜로니가 위험에 처할 경우 수적 우위를 바탕으로 적을 섬멸합니다.",
+    "ru": "Основная функция этого восставшего дрона — сбор различных ресурсов и материалов для гнезда колонии. Если эти относительно лёгкие дроны нападут всем скопом, то пиши пропало: они оснащены боевыми орудиями и запрограммированы на уничтожение любого злоумышленника, проникшего за периметр колонии.",
+    "zh": "这个自由无人机负责搜索打捞，将任何有价值的材料带回巢穴。这些无人机虽然体型较小，但成群结队地出现仍然极具威胁，它们会对任何入侵者发起攻击。"
+  },
+  "graphicID": 1219,
+  "groupID": 1568,
+  "mass": 1000000.0,
   "name": {
     "de": "Colony Nest Forager",
     "en": "Colony Nest Forager",
@@ -10,5 +23,10 @@
     "ru": "Colony Nest Forager",
     "zh": "领地巢穴打捞者"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 45.0,
+  "sofFactionName": "roguebase",
+  "soundID": 11,
   "volume": 60.0
 }

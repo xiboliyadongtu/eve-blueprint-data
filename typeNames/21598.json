@@ -1,5 +1,18 @@
 {
-  "typeID": 21598,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Hier wohnt ein Agent.\r\n\r\nMissionen:\r\n<b>Schwierigkeitsgrad: Stufe 7,5</b>\r\n<i>Warnung: Es empfiehlt sich sowohl ein Kampf- als auch ein Industrieschiff</i>",
+    "en": "An agent resides in here.\r\n\r\nMissions: \r\n\r\n<b>Difficulty Rating: Grade 7.5</b> \r\n\r\n<i>Warning:  Industrial and combat ship recommended</i>",
+    "es": "Aquí reside un agente.\n\n\n\nMisiones: \n\n\n\n<b>Índice de dificultad: grado 7,5</b> \n\n\n\n<i>Aviso: Se recomienda nave industrial y de guerra</i>",
+    "fr": "Un agent occupe cette installation.\n\nMissions : \n\n<b>Niveau de difficulté : niveau 7,5</b> \n\n<i>Attention :  il est recommandé d'utiliser un vaisseau industriel et un vaisseau de combat</i>",
+    "ja": "エージェントが在駐。ミッション:\n\n<b>難易度:</b>\n\n<i>警告:輸送艦または戦闘船を推奨</i>",
+    "ko": "에이전트가 위치해 있습니다. <br><br>미션:<br><br><b>난이도: 7.5</b><br><br><i>경고: 인더스트리얼 또는 전투용 함선에 탑승하시길 권장합니다.</i>",
+    "ru": "Здесь живет агент. \n\nЗадания: \n\n<b>Рейтинг сложности: уровень 7.5</b> \n\n<i>Внимание: рекомендуется иметь промышленный и боевой корабль</i>",
+    "zh": "有一个代理人居住在这里。任务：<b>难度等级: 7.5 级</b> <i>警告: 建议工业舰与战舰一起上</i>"
+  },
+  "graphicID": 2520,
+  "groupID": 517,
+  "mass": 100000.0,
   "name": {
     "de": "Guristas Prison",
     "en": "Guristas Prison",
@@ -10,5 +23,9 @@
     "ru": "Guristas Prison",
     "zh": "古斯塔斯监狱"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 416.0,
+  "sofFactionName": "genericprison",
   "volume": 100000000.0
 }

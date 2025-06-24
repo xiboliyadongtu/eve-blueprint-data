@@ -1,5 +1,21 @@
 {
-  "typeID": 2506,
+  "basePrice": 35000.0,
+  "description": {
+    "de": "Eine ultraschwere EMP-Lenkwaffe. Sie ist zwar ein langsames Projektil, aber ihr bloßes Schadenspotential ist einfach überwältigend.",
+    "en": "An ultra-heavy EMP missile. While it is a slow projectile, its sheer damage potential is simply staggering.",
+    "es": "Misil EMP ultrapesado. Aunque lento, su potencial de daño real resulta impresionante.",
+    "fr": "Missile IEM ultra-lourd. Il s'agit certes d'un projectile assez lent, mais au potentiel destructeur tout simplement impressionnant.",
+    "ja": "ウルトラヘビーEMPミサイル。速度は遅いが、その破壊力は実に驚異的。",
+    "ko": "대형 EMP 미사일입니다. 느린 비행 속도를 지니고 있으나 타격 시 적에게 치명적인 피해를 입힙니다.",
+    "ru": "Сверхтяжелая неуправляемая ракета с электромагнитной боеголовкой. Отличается низкой скоростью, но ее ударная мощь поражает воображение.",
+    "zh": "一种终极重型电磁脉冲导弹。虽然慢而笨重，但是破坏力着实惊人。"
+  },
+  "graphicID": 20015,
+  "groupID": 89,
+  "iconID": 1349,
+  "marketGroupID": 923,
+  "mass": 1500.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Mjolnir Torpedo",
     "en": "Mjolnir Torpedo",
@@ -10,5 +26,8 @@
     "ru": "Mjolnir Torpedo",
     "zh": "雷神鱼雷"
   },
+  "portionSize": 100,
+  "published": true,
+  "radius": 300.0,
   "volume": 0.05
 }

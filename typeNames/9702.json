@@ -1,5 +1,20 @@
 {
-  "typeID": 9702,
+  "description": {
+    "de": "Ein ungerichteter Rundum-Impuls der vom Schiff ausgestrahlt wird und bei umliegenden Schiffen Kinetikschaden verursacht.",
+    "en": "Radiates an omnidirectional pulse from the ship that causes kinetic damage to surrounding vessels.",
+    "es": "Irradia un pulso omnidireccional desde la nave que inflige daño cinético a las naves circundantes.",
+    "fr": "Émet une impulsion omnidirectionelle qui part du vaisseau et provoque des dégâts cinétiques à tous les vaisseaux situés à proximité.",
+    "ja": "全方位にパルスを放射し、周囲の艦にキネティックダメージを与える。",
+    "ko": "전방위 펄스를 방사하여 주변 함선에 광역 키네틱 피해를 입힙니다.",
+    "ru": "Испускает сильный всенаправленный импульс, наносящий кинетический ущерб всем объектам, окружающим корабль.",
+    "zh": "从舰船上发射一个全向脉冲，对周围船只造成动能伤害。"
+  },
+  "graphicID": 2033,
+  "groupID": 72,
+  "iconID": 112,
+  "marketGroupID": 380,
+  "mass": 100.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Micro Rudimentary Concussion Bomb I",
     "en": "Micro Rudimentary Concussion Bomb I",
@@ -10,5 +25,10 @@
     "ru": "Micro Rudimentary Concussion Bomb I",
     "zh": "微型基础震荡离子炸弹 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 1000.0,
+  "variationParentTypeID": 3901,
   "volume": 2.5
 }

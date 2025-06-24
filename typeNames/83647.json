@@ -1,5 +1,19 @@
 {
-  "typeID": 83647,
+  "description": {
+    "de": "Vergrößert die Frachtraumkapazität auf Kosten von maximaler Geschwindigkeit und Rumpfstärke. Macht immun gegenüber Frachtscannern",
+    "en": "Increases cargo hold capacity at the expense of maximum velocity and hull strength.\r\nGrants Immunity to cargo scanners",
+    "es": "Aumenta la capacidad de la bodega a costa de la velocidad máxima y la fuerza del casco.\r\nOtorga inmunidad a los escáneres de carga.",
+    "fr": "Augmente la capacité de la soute au détriment de la vitesse maximale et de la résistance de la coque. Confère l'immunité aux scanners de soute",
+    "ja": "最高速度と船体の強度と引き換えに、カーゴホールド容量を増加させる。\r\nカーゴスキャナーへの耐性を付与する",
+    "ko": "화물 적재량이 증가하는 반면 최대 속도와 장갑 내구도가 감소합니다. 화물 스캐너에 면역입니다.",
+    "ru": "Увеличивает вместимость грузового отсека, но снижает максимальную скорость и прочность корпуса. Препятствует работе сканеров груза.",
+    "zh": "牺牲最大速度和结构强度来增加货柜舱容量。赋予免疫货舱扫描的能力"
+  },
+  "groupID": 765,
+  "iconID": 92,
+  "marketGroupID": 1197,
+  "mass": 50.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Guri Malakim Frachtraumerweiterung",
     "en": "Guri Malakim Expanded Cargohold",
@@ -10,5 +24,8 @@
     "ru": "Guri Malakim Expanded Cargohold",
     "zh": "古力·摩拉基穆扩充货柜舱"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 10.0,
   "volume": 5.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 3329,
+  "basePrice": 50000.0,
+  "description": {
+    "de": "Fertigkeit, Fregatten der Minmatar zu bedienen.",
+    "en": "Skill at operating Minmatar frigates.",
+    "es": "Habilidad en el manejo de fragatas minmatarianas.",
+    "fr": "Compétence liée au pilotage des frégates minmatar.",
+    "ja": "ミンマターフリゲートを操作するためのスキル。",
+    "ko": "민마타 프리깃을 운용하기 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на фрегатах производства Республики Минматар.",
+    "zh": "操作米玛塔尔护卫舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Minmatar Frigate",
     "en": "Minmatar Frigate",
@@ -10,5 +23,8 @@
     "ru": "Минматарские фрегаты",
     "zh": "米玛塔尔护卫舰操作"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
   "volume": 0.01
 }

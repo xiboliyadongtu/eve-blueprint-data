@@ -1,5 +1,20 @@
 {
-  "typeID": 15935,
+  "description": {
+    "de": "Ein ungerichteter Rundum-Impuls der vom Schiff ausgestrahlt wird und bei umliegenden Schiffen Explosionsschaden verursacht.",
+    "en": "Radiates an omnidirectional pulse from the ship that causes explosive damage to surrounding vessels.",
+    "es": "Irradia un pulso omnidireccional desde la nave que inflige daño explosivo a las naves circundantes.",
+    "fr": "Émet une impulsion omnidirectionnelle qui part du vaisseau et qui provoque des dégâts explosifs à tous les vaisseaux situés à proximité.",
+    "ja": "全方位にパルスを放射し、周囲の艦にエクスプローシブダメージを与える。",
+    "ko": "전방위 펄스를 방사하여 주변 함선에 광역 폭발 피해를 입힙니다.",
+    "ru": "Испускает сильный всенаправленный импульс, наносящий взрывной ущерб всем объектам, окружающим корабль.",
+    "zh": "从舰船上发射一个全向脉冲，对周围船只造成爆炸伤害。"
+  },
+  "graphicID": 2034,
+  "groupID": 72,
+  "iconID": 112,
+  "marketGroupID": 382,
+  "mass": 10.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Republic Fleet Small Proton Smartbomb",
     "en": "Republic Fleet Small Proton Smartbomb",
@@ -10,5 +25,9 @@
     "ru": "Republic Fleet Small Proton Smartbomb",
     "zh": "共和舰队小型质子立体炸弹"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 1000.0,
+  "variationParentTypeID": 1547,
   "volume": 5.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 30277,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Der Sleeper Multiplex Forwarder ist vermutlich dafür zuständig gewesen, Daten zwischen verschiedenen Sleeper-Einrichtungen zu übermitteln. Hunderte von Jahren im All fordern allerdings ihren Tribut. Ein flüchtiger Scan der Struktur zeigt, dass es nur eine geringfügige Menge elektronischer Aktivität gibt.",
+    "en": "The Sleeper Multiplex Forwarder may have been responsible for transferring data between various Sleeper facilities. Hundreds of years in space have taken their toll, however, and brief scans of the structure show only miniscule amounts of electronic activity.",
+    "es": "Puede que el reexpedidor múltiple sleeper fuese responsable de transferir datos entre varias instalaciones sleepers. Sin embargo, cientos de años en el espacio le han pasado factura y breves escaneos de la estructura detectan solo cantidades minúsculas de actividad electrónica.",
+    "fr": "Le vaisseau transitaire sleeper est peut-être à l'origine du transfert des données entre les différentes installations des Sleeper. Cependant, après des siècles passés dans l'espace, la structure ne montre plus qu'une activité électronique minime.",
+    "ja": "スリーパー多重転送器は、あらゆるスリーパー施設間でのデータ転送を行っていたと思われる。宇宙空間に何百年もさらされていたにも関わらず、構造を簡単にスキャンするとごくわずかながら電子的な活動が確認された。",
+    "ko": "슬리퍼 멀티플렉스 운송선은 슬리퍼 시설들 간에 데이터를 전송합니다. 우주에서 수백년을 부유한 탓에 큰 손상을 입었으며 매우 적은 양의 전자적 신호만이 탐지되고 있습니다.",
+    "ru": "По всей видимости, Sleeper Multiplex Forwarder отвечал за передачу данных на различные объекты Sleeper. Сотни лет нахождения в космосе отрицательно сказались на его состоянии; беглый осмотр сооружения показывает что его радиоэлектронная активность сведена к минимуму.",
+    "zh": "冬眠者多元转发站是一座巨大的交换机房，负责传递来自不同冬眠者设施的电子数据。在宇宙中的数百年岁月无情地摧残着它，初步的扫描显示建筑物中的电子信号已经十分微弱。"
+  },
+  "graphicID": 3521,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Malfunctioning Sleeper Multiplex Forwarder",
     "en": "Malfunctioning Sleeper Multiplex Forwarder",
@@ -10,5 +23,9 @@
     "ru": "Malfunctioning Sleeper Multiplex Forwarder",
     "zh": "失效的冬眠者多元转发站"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 2759.0,
+  "sofFactionName": "sleeperbase",
   "volume": 100000000.0
 }

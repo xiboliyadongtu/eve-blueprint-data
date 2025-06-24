@@ -1,5 +1,19 @@
 {
-  "typeID": 63812,
+  "basePrice": 32768.0,
+  "description": {
+    "de": "Dieser Booster wurde von der Association for Interdisciplinary Research (AIR) entwickelt, um ihre Bergbaupläne zu verwirklichen. <b>+15 % Ausbeute von Bergbaulasern, Dauer: 4 Stunden</b> Dieser Booster wird automatisch aktiviert, sobald der Kapselpilot, der ihn nutzen möchte, den entsprechenden Gegenstand einlöst.",
+    "en": "This booster has been developed by the Association for Interdisciplinary Research (AIR) to assist with their mining efforts.\r\n\r\n<b>+15% Mining Laser Yield, 4 hour duration</b>",
+    "es": "Este potenciador ha sido desarrollado por la Asociación para la Investigación Interdisciplinaria (AIR) para contribuir a su minería.\n\n<b>+15 % de rendimiento del láser minero. Duración: 4 horas</b>\n\nEste potenciador se activa automáticamente cuando el capsulista que va a usar el servicio canjea el artículo.",
+    "fr": "Ce booster a été développé par l'Association de recherche interdisciplinaire (AIR) pour l'aider dans ses activités d'extraction. <b>+15 % au rendement des lasers d'extraction, durée de 4 heures</b> L'activation de ce booster se fait automatiquement dès la récupération de l'objet par le capsulier ayant l'intention de l'utiliser.",
+    "ja": "このブースターは、採掘任務を支えるべく学際的研究協会（AIR）によって開発された。\n\n<b>採掘レーザーの採掘量+15%。持続時間は4時間</b>\n\nこのブースターの起動は、サービスを利用しようとする特定のカプセラがアイテムを交換することで自動的に行われます。",
+    "ko": "학제간연구협회(AIR)가 개발한 채광 지원용 부스터입니다.<br><br><b>채굴 레이저 채굴량 15% 증가. 지속시간: 4시간</b><br><br>수령 시 즉시 적용됩니다.",
+    "ru": "Этот стимулятор разработан Ассоциацией междисциплинарных исследований (АМИ) для повышения эффективности бурения. <b>+15% к объёму выработки буровых лазеров, длительность — 4 часа</b> Этот стимулятор активируется автоматически, когда капсулёр использует соответствующий предмет.",
+    "zh": "这款增效剂由跨学科研究协会（星空会）研发，旨在提高采矿效率。\n\n\n\n<b>采矿激光器开采量提高5%，持续时间4小时</b>\n\n\n\n克隆飞行员兑换此物品后就会自动使用此增效剂。"
+  },
+  "factionID": 500028,
+  "groupID": 303,
+  "iconID": 24794,
+  "mass": 1.0,
   "name": {
     "de": "AIR Mining Yield Booster III",
     "en": "AIR Mining Yield Booster III",
@@ -10,5 +24,7 @@
     "ru": "AIR Mining Yield Booster III",
     "zh": "星空会采矿产量增效剂 3"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 1.0
 }

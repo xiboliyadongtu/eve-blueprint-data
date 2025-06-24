@@ -1,5 +1,18 @@
 {
-  "typeID": 24563,
+  "basePrice": 250000000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Titan Doomsday-Waffen. 10% erhöhter Schaden je Skillstufe.",
+    "en": "Skill at operating titan doomsday weapons. 10% increased damage per level.",
+    "es": "Habilidad en el manejo de armas apocalípticas de titanes. +10 % de aumento de daño por nivel de habilidad.",
+    "fr": "Compétence liée à l'utilisation des armes d'annihilation du titan. Augmente de 10 % par niveau les dégâts causés.",
+    "ja": "タイタンのドゥームズデイウェポンを操作するスキル。レベル上昇ごとにダメージが 10%増加。",
+    "ko": "타이탄급 둠스데이 무기 운용을 위한 스킬입니다. 매 레벨마다 피해량 10% 증가",
+    "ru": "Навык эксплуатации орудий Судного дня, устанавливаемых на титаны. За каждую степень освоения навыка: на 10% повышается урон орудий Судного дня.",
+    "zh": "操作泰坦末日武器的技能。每升一级，伤害提高10%。"
+  },
+  "groupID": 255,
+  "iconID": 33,
+  "marketGroupID": 364,
   "name": {
     "de": "Doomsday Operation",
     "en": "Doomsday Operation",
@@ -10,5 +23,7 @@
     "ru": "Орудия Судного дня",
     "zh": "末日武器操作技术"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

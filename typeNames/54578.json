@@ -1,5 +1,18 @@
 {
-  "typeID": 54578,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Auf Annäherung basierende Wächterkanone. Wenn Sie sich diesem Geschützturm auf weniger als 10km annähern wird dieser das Feuer auf Ihr Schiff eröffnen.",
+    "en": "Proximity based sentry gun.\r\n\r\nEntering within 10km of this turret will cause it to engage with your ship.",
+    "es": "Torreta centinela de proximidad.\n\nAcercarse a menos de 10 km de esta torreta hará que ataque a tu nave.",
+    "fr": "Canon de sentinelle de proximité. Le mécanisme de défense de cette tourelle se déclenchera à la moindre transgression d'un rayon de proximité de 10 km.",
+    "ja": "近接センサー式セントリーガン。\r\n\n半径10 km以内に接近した艦船に対し攻撃を行う。",
+    "ko": "근거리 센트리 포탑. 10km 내로 접근할 시 공격합니다.",
+    "ru": "Стационарное орудие, атакующее ближайшие цели. Открывает огонь по кораблям, находящимся в пределах 10 км от него.",
+    "zh": "基于接近触发式原理工作的岗哨炮。\n\n\n\n船只进入炮台10km范围内会受到攻击。"
+  },
+  "graphicID": 2421,
+  "groupID": 383,
+  "mass": 1000.0,
   "name": {
     "de": "PLACEDHOLDER Triglavian Defense Platform XL",
     "en": "PLACEDHOLDER Triglavian Defense Platform XL",
@@ -10,5 +23,10 @@
     "ru": "PLACEDHOLDER Triglavian Defense Platform XL",
     "zh": "PLACEDHOLDER Triglavian Defense Platform XL"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 371.0,
+  "sofFactionName": "serpentis",
   "volume": 1000.0
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 28612,
+  "description": {
+    "de": "Ein Satellit, der in der niedrigen  Umlaufbahn eines Planeten eingesetzt wird, um das Scannen von Ressourcen zu ermöglichen.",
+    "en": "A satellite deployed into low orbit of a planet to allow focused scanning for resources.",
+    "es": "Un satélite desplegado en la órbita baja de un planeta para permitir el escaneo concentrado de recursos.",
+    "fr": "Un satellite envoyé en orbite basse d'une planète pour permettre un balayage plus concentré sur les ressources.",
+    "ja": "衛星が惑星の軌道下方に配備され、リソースのスキャンに集中できる。",
+    "ko": "집중적인 자원 스캔을 위해 저궤도에서 전개되는 인공위성입니다.",
+    "ru": "Спутник, запущенный на низкую орбиту вокруг планеты для поиска ресурсов.",
+    "zh": "被投放到行星的低轨道上对资源进行精确扫描的人造卫星。"
+  },
+  "groupID": 892,
+  "iconID": 2222,
+  "mass": 1.0,
   "name": {
     "de": "Planet Satellite",
     "en": "Planet Satellite",
@@ -10,5 +22,7 @@
     "ru": "Planet Satellite",
     "zh": "行星人造卫星"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 30.0
 }

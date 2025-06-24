@@ -1,5 +1,19 @@
 {
-  "typeID": 33368,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Der beschädigte Container treibt lautlos zwischen den Sternen und gibt keinen Hinweis darauf, welche Schätze er verbergen könnte.",
+    "en": "The wrecked container drifts silently amongst the stars, giving no hint to what treasures it may hide.",
+    "es": "El contenedor destrozado se desplaza silencioso a la deriva entre las estrellas sin desvelar qué tesoros oculta.",
+    "fr": "L'épave du conteneur dérive dans l'espace sans laisser de trace et sans donner la moindre indication sur son chargement.",
+    "ja": "星々の間にひっそりと漂う難破コンテナ。価値あるものが入っているとしても、見かけからは分からない。",
+    "ko": "난파된 컨테이너는 알 수 없는 보물을 품은 채 별들 사이를 소리 없이 부유하고 있습니다.",
+    "ru": "Заброшенный контейнер, медленно дрейфующий среди звёзд и хранящий в себе неизвестные сокровища.",
+    "zh": "这具遇难船只的货柜无声地漂浮在星辰之间，丝毫不向人们透露其中可能隐藏了什么宝藏。"
+  },
+  "graphicID": 1176,
+  "groupID": 1207,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Tutorial Archaeology",
     "en": "Tutorial Archaeology",
@@ -10,5 +24,9 @@
     "ru": "Tutorial Archaeology",
     "zh": "教程 考古"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericmetal",
   "volume": 27500.0
 }

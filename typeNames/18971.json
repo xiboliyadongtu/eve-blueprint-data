@@ -1,5 +1,19 @@
 {
-  "typeID": 18971,
+  "description": {
+    "de": "Eine verbesserte Version der Standard-Thermalpanzerungsbeschichtung. Verwendet fortschrittliche Magnetfeldgeneratoren, um den Zusammenhalt der Nanobotbeschichtung zu stärken. Abzug: Beim Einsatz mehrerer Module des gleichen oder eines ähnlichen Typs, welche dasselbe Attribut des Schiffes beeinflussen, wird deren Wirksamkeit eingeschränkt.",
+    "en": "An enhanced version of the standard thermal armor plating. Uses advanced magnetic field generators to strengthen the Nanobot Plating integrity.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",
+    "es": "Versión mejorada del blindaje térmico estándar. Utiliza generadores de campo magnético avanzados para reforzar la integridad del revestimiento de nanobots.\r\n\r\nPenalización: Por usar más de un tipo de módulo o módulos similares que afecten al mismo atributo de la nave.",
+    "fr": "Il s'agit d'une amélioration du revêtement de blindage thermique standard. Il utilise les générateurs de champs magnétiques avancés pour renforcer l'intégrité du blindage nanorobots. Pénalité : utiliser plus d'un module de ce type ou plusieurs modules modifiant un même attribut du vaisseau fera l'objet d'une pénalité.",
+    "ja": "標準的なサーマルアーマープレートの強化型。高性能磁場ジェネレーターを使用してナノボットプレートの完全性を高めている。\r\n\r\nペナルティ：艦船に同じタイプのモジュール、または同じ属性の類似モジュールを複数取り付けると、ペナルティが発生する。",
+    "ko": "강화된 단열 플레이팅입니다. 첨단 자기장 생성기를 활용하여 나노봇 플레이팅의 내구도를 강화합니다.\r\n\r\n페널티: 동일한 속성의 모듈 여러 개를 장착하면 페널티가 부여됩니다.",
+    "ru": "Это модернизированная версия стандартной термальной брони. Для поддержания целостности нанопокрытия используются продвинутые генераторы магнитных полей. Внимание! Установка на борт корабля двух и более модулей, влияющих на одну и ту же характеристику корабля, приведёт к снижению эффективности их действия в отношении данной характеристики.",
+    "zh": "标准热能装甲附甲的加强版本。使用了先进的磁场发生器来增强纳米技术附甲的完整性。惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。"
+  },
+  "groupID": 328,
+  "iconID": 20946,
+  "marketGroupID": 1678,
+  "mass": 1.0,
+  "metaGroupID": 6,
   "name": {
     "de": "Core A-Type Thermal Armor Hardener",
     "en": "Core A-Type Thermal Armor Hardener",
@@ -10,5 +24,9 @@
     "ru": "Core A-Type Thermal Armor Hardener",
     "zh": "科尔热能装甲增强器 A型"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 10.0,
+  "variationParentTypeID": 11277,
   "volume": 5.0
 }

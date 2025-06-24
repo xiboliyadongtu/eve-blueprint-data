@@ -1,5 +1,20 @@
 {
-  "typeID": 33681,
+  "basePrice": 500000.0,
+  "description": {
+    "de": "Die Gecko ist eines der Resultate der Explosion neuer Technologie, die aus den geheimen und hochgradig illegalen Forschungslaboren stammt, die als Ghost Sites bekannt sind. Sie ist eine Superdrohne, deren Struktur jener schwerer Drohnen ähnelt, jedoch eine weitaus tödlichere Funktion hat. Die Gecko verbraucht die doppelte Bandbreite einer normalen Drohne, kommt dafür aber mit doppeltem Kampfpotential für weitaus weniger Skillkosten. Sie erreicht dies zum Teil durch eine mysteriöse neue Entwicklung in der Theorie von Fernoperationen, die Klonpiloten eine weitaus höhere Kontrolle über ausgestoßene Hochgeschwindigkeitsausrüstung gibt, als es bisher möglich war.",
+    "en": "The Gecko was one of the results of the explosion in new technology deriving from the covert and highly illegal research labs known as Ghost Sites. It is a superdrone whose structure bears some similarity to Heavy Drones, but whose function is far deadlier.\r\n\r\nThe Gecko uses up twice the bandwidth of a regular drone, and in turn comes with twice the combat capabilities at much less the skill cost. It accomplishes this in part through an enigmatic new advancement in the theory of remote operations, which allows clone pilots much greater control of detached high-velocity equipment than had hereto been possible.",
+    "es": "El Gecko fue uno de los resultados del boom de las nuevas tecnologías que tuvo lugar en los laboratorios de investigación encubiertos y totalmente ilegales conocidos como zonas fantasma. Se trata de un superdron cuya estructura guarda cierta similitud con los drones pesados, pero cuya función es mucho más letal.\n\n\n\nEl Gecko usa el doble de ancho de banda que un dron normal y, por tanto, tiene el doble de capacidades de combate a cambio de un coste en habilidades mucho menor. Lo logra, en parte, gracias a un nuevo y enigmático avance en el área de las operaciones remotas, que brinda a los pilotos clon un control mucho mayor sobre el equipo de alta velocidad independiente del que jamás había sido posible.",
+    "fr": "Le Gecko est issu de l'explosion des nouvelles technologies dérivant des laboratoires de recherche secrets et hautement illégaux connus sous le nom de sites fantômes. Il s'agit d'un superdrone dont la structure présente quelques similitudes avec celle des drones lourds, mais dont la fonction est bien plus dangereuse.\n\nLe Gecko utilise jusqu'à deux fois la bande passante d'un drone classique, le rendant ainsi deux fois plus efficace au combat pour un coût moindre en compétences. Ses progrès énigmatiques en termes d'opérations à distance permettent aux pilotes clones de disposer d'un meilleur contrôle qu'auparavant des équipements détachés à grande vitesse.",
+    "ja": "ゲッコーは、ゴーストサイトとして知られる、隠された非合法研究施設由来の新テクノロジーが発展した結果である。このスーパードローンの構造はヘビードローンとやや似通っているが、機能ははるかに致命的だ。ゲッコーは通常のドローンの2倍の帯域幅を使用するが、スキルに対して2倍の戦闘能力を持つ。これは部分的には遠隔操作セオリーにおける謎の革新による。クローンパイロットたちが、高速で展開されたドローンを以前よりも大幅にコントロールできるようになったのである。",
+    "ko": "최첨단 기술의 폭발적 발전이 일어나던 시절 고스트 사이트라 불리는 불법 연구소에서 개발된 슈퍼드론입니다. 헤비드론과 어느정도 구조적 유사성을 가졌으나 더 강력한 위력을 지녔습니다. <br><br>일반적인 드론에 비해 두배의 대역폭을 사용하여 두배의 전투력을 발휘할 수 있으며 요구되는 스킬 또한 비교적 적습니다. 원격 조작 기술의 진보를 통해 함선으로부터 분리된 고속 장비에 더 큰 통제력을 갖출 수 있었기 때문입니다.",
+    "ru": "Дрон типа «Геко» — лишь один из результатов пуска в дело новых технологий, разработка которых велась в тайных и незаконных исследовательских лабораториях: «объектах-призраках». Это сверхтяжёлый дрон; в его конструкции заметно некоторое сходство с обычными тяжёлыми боевыми дронами — сходство, становящееся неоспоримым превосходством, если говорить о смертоносности. Для телеуправления дронами типа «Геко» по сравнению с обычными тяжёлыми дронами требуется двойная пропускная способность канала; в ответ «Геко» обеспечит двойную боевую мощь, будучи при этом существенно менее требователен к навыкам пилота. Достичь такого эффекта удалось, в частности, при помощи таинственных новых разработок в теории удалённого управления; теперь пилоты могут управлять отсоединяемым высокоскоростным оборудованием намного эффективнее, чем когда бы то ни было ранее.",
+    "zh": "壁虎无人机的设计源于从那些名为“幽灵地点”的非法隐秘研究实验室中流出的新技术。它是一种超级无人机，机体与重型无人机类似，但能力却远在其之上。\n\n壁虎占用的带宽是普通无人机的两倍，但战斗能力提升了一倍，而且技能要求也低得多。它的能力部分得益于一种神秘的远程操控新技术，这种技术将克隆飞行员控制分离式高速设备的能力提升到了前所未有的高度。"
+  },
+  "graphicID": 20483,
+  "groupID": 100,
+  "marketGroupID": 839,
+  "mass": 10000.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Gecko",
     "en": "Gecko",
@@ -10,5 +25,10 @@
     "ru": "Gecko",
     "zh": "壁虎级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 35.0,
+  "sofFactionName": "guristas",
   "volume": 50.0
 }

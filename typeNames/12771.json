@@ -1,5 +1,21 @@
 {
-  "typeID": 12771,
+  "basePrice": 600000.0,
+  "description": {
+    "de": "Die Tremor ist ein fortschrittliches Langstreckengeschoss, das für ausgedehnte Bombardierungen entwickelt wurde. Das Geschoss hat eine große Reichweite, ist im Nahkampf jedoch nahezu nutzlos. 80 % höhere optimale Reichweite. 75 % geringere Nachführung. Hinweis: Diese Munition kann nur von mittelgroßen Technologiestufe II- und Fraktions-Artilleriekanonen verwendet werden.",
+    "en": "An advanced long range shell designed for extended bombardment, the Tremor has great range but is nearly useless in close combat.\r\n\r\n80% increased optimal range.\r\n75% reduced tracking.\r\n\r\nNote: This ammunition can only be used by medium tech level II and faction Artillery Cannons.",
+    "es": "El Tremor es un proyectil de largo alcance y tecnología avanzada diseñado para bombardeos prolongados, pero es casi inútil en el combate a corta distancia.\n\nAlcance óptimo aumentado un 80 %.\n\nRastreo reducido un 75 %.\n\nAviso: Esta munición solo es compatible con cañones de artillería de T2 y faccionarios para naves medianas.",
+    "fr": "Obus à longue portée avancée conçu pour un bombardement prolongé, le Tremor présente une incroyable portée, mais est quasiment inutile en combat rapproché. Portée optimale augmentée de 80 %. Poursuite réduite de 75 %. Remarque : ces munitions ne peuvent s'utiliser qu'avec les canons d'artillerie intermédiaires de faction et de niveau technologique II.",
+    "ja": "遠距離からの爆撃用に作られた高性能長距離弾であるトレマー弾は、射程距離に優れているが、接近戦ではほとんど役に立たない。\n\n\n\n最適射程距離が80%延長。\n\nトラッキング速度が75%低下。\n\n\n\n注：この弾薬は中型T2および各勢力のアーティレリーキャノン専用である。",
+    "ko": "장기간 포격에 특화된 첨단 장거리 탄약입니다. 근거리 교전 시 위력이 급격히 감소합니다. <br><br>최적사거리 80% 증가 <br>트래킹 속도 75% 감소 <br><br>참고: 중형 테크 II 또는 팩션 함포에만 사용할 수 있습니다.",
+    "ru": "«Дрожь» — улучшенный снаряд, предназначенный для длительной бомбардировки. Имеет большую дальность поражения, но в ближнем бою почти бесполезен. Оптимальная дальность увеличена на 80%. Наведение ухудшено на 75%. Примечание: эти боеприпасы могут использовать только корабли среднего тоннажа второго техноуровня и государственные артиллерийские орудия.",
+    "zh": "“战栗”型是一种先进的专为长距离轰炸而设计的远程炮弹，结构异常紧密，射程很远，几乎无法用于近战。\n\n\n\n最佳射程提升80%。\n\n跟踪速度降低75%。\n\n\n\n注：只能用于二级科技和势力中型加农火炮。"
+  },
+  "graphicID": 1292,
+  "groupID": 376,
+  "iconID": 1292,
+  "marketGroupID": 855,
+  "mass": 0.01,
+  "metaGroupID": 2,
   "name": {
     "de": "Tremor M",
     "en": "Tremor M",
@@ -10,5 +26,8 @@
     "ru": "Tremor M",
     "zh": "战栗 M"
   },
+  "portionSize": 5000,
+  "published": true,
+  "variationParentTypeID": 186,
   "volume": 0.0125
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 46080,
+  "capacity": 425.0,
+  "description": {
+    "de": "Die Durchschlagskraft dieses Schiffes ist mehr als ausreichend, um eine Spur zerschmetterter Feinde zu hinterlassen, die wie lebloser Schrott umherschweben. Sie ist ein sehr anpassungsfähiges Schiff. Es gibt genügend Montageplätze für Geschütztürme, um einen vollen Angriff zu fliegen, und gleichzeitig kann sie eine große Menge Lenkwaffen abfeuern. Sie ist schnell genug, um Feinde auszumanövrieren und besitzt einen Energiespeicher, der jenem der Gegner überlegen ist.",
+    "en": "The force with which this ship hits is more than sufficient to leave a trail of shattered enemies, floating around like so much lifeless debris. An adaptable vessel, it has enough turret hardpoints for a full-scale assault while remaining versatile enough to allow for plenty of missile fire, and has both sufficient speed to outrun its enemies and sufficient capacitor charge to outlast them.",
+    "es": "La fuerza con la que golpea esta nave es más que suficiente para dejar un rastro de enemigos destrozados, flotando como escombros sin vida. Se trata de una nave adaptable que tiene suficientes puntos de montaje de torreta para un asalto a gran escala y versatilidad para realizar un gran número de disparos de misiles. Además, cuenta con la velocidad suficiente para superar a sus enemigos, así como con la carga de condensador necesaria para aguantar más que ellos.",
+    "fr": "La force avec laquelle ce vaisseau frappe est suffisante pour laisser dans son sillon une traînée d'ennemis brisés flottant sans but, comme des débris dénués de vie. Un vaisseau modulable disposant de suffisamment de points de fixation de tourelle pour être capable de lancer un assaut à grande échelle tout en restant suffisamment polyvalent pour permettre un tir de missiles extrêmement nourri. Il est assez rapide pour distancer ses ennemis et dispose d'une charge de capaciteur suffisamment puissante pour durer plus longtemps qu'eux.",
+    "ja": "この艦船の火力をもってすれば悠々と敵陣を突破し、航跡には粉砕された無数の敵艦が、命無き廃石よろしく点々と漂うばかりとなるだろう。汎用性の高い艦船で、本格的な突撃艦として通用するタレットハードポイント数を有しながらも、必要とあればミサイル砲撃も充分こなせる器用さを持ち、敵を翻弄する機動性と交戦に持ちこたえるだけのキャパシタ容量も兼ね備える。",
+    "ko": "함선의 뒤를 따라 적의 잔해물로 은하수가 형성될 정도로 막강한 파괴력을 가지고 있습니다. 다수의 터렛 하드포인트로 총력전을 벌이는 와중에 미사일 발포도 가능한 뛰어난 범용성을 보이며, 적 함선보다 더 빠르게, 더 오래 추진할 수 있는 캐패시터까지 갖추었습니다.",
+    "ru": "Огневая мощь этого корабля достаточно велика для того, чтобы за ним оставался «хвост» из вражеских обломков, пополнивших собой вселенскую коллекцию космического мусора. Они легко адаптируются к различным тактическим ситуациям, несут достаточно орудий для успеха в полномасштабном бою, но могут дополнить орудийный огонь ракетным. Мощный двигатель поможет пилоту «Харрикейна» догнать врагов, а вместительный накопитель энергии — выйти победителем из затяжного сражения.",
+    "zh": "暴风级的攻击力足以让敌军支离破碎，然后像死寂的太空垃圾到处飘荡。作为一艘适应性强的战舰，它拥有足够多的炮塔安装座，能够发动全面的猛烈炮击，同时也不失灵活地拥有较强的导弹攻击能力。它的航速让敌舰望尘莫及，充足的电容器容量使它能打赢任何消耗战。"
+  },
+  "graphicID": 3135,
+  "groupID": 1909,
+  "mass": 12800000.0,
   "name": {
     "de": "♦ Hurricane",
     "en": "♦ Hurricane",
@@ -10,5 +23,11 @@
     "ru": "♦ Hurricane",
     "zh": "♦ 暴风级"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 246.0,
+  "sofFactionName": "minmatarbase",
+  "soundID": 20076,
   "volume": 216000.0
 }

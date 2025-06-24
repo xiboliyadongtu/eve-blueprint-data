@@ -1,5 +1,18 @@
 {
-  "typeID": 42814,
+  "capacity": 10000.0,
+  "description": {
+    "de": "In diesem Container können allerhand Ressourcen verstaut werden.",
+    "en": "This container is used to store resources of all kinds.",
+    "es": "Este contenedor se usa para almacenar recursos de todo tipo.",
+    "fr": "Ce conteneur permet d'entreposer diverses ressources.",
+    "ja": "あらゆる種類のリソースを保管するために使われるコンテナ。",
+    "ko": "여러 종류의 자원을 보관하는데 사용됐던 컨테이너입니다.",
+    "ru": "В этом контейнере могут храниться материалы всех видов.",
+    "zh": "这个货柜用来存放各种资源。"
+  },
+  "graphicID": 1176,
+  "groupID": 306,
+  "mass": 100000.0,
   "name": {
     "de": "Resource Crate",
     "en": "Resource Crate",
@@ -10,5 +23,10 @@
     "ru": "Resource Crate",
     "zh": "资源箱"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 10.0,
+  "sofFactionName": "genericmetal",
+  "soundID": 20253,
   "volume": 100000000.0
 }

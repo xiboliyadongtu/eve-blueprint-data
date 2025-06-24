@@ -1,5 +1,17 @@
 {
-  "typeID": 8329,
+  "description": {
+    "de": "Erhöht die Wiederaufladerate des Schildes, verringert aber die maximale Schildkapazität.",
+    "en": "Increases shield recharge rate while lowering the maximum shield capacity.",
+    "es": "Aumenta la velocidad de carga del escudo al tiempo que reduce su capacidad máxima.",
+    "fr": "Augmente la vitesse de recharge du bouclier tout en réduisant la capacité maximale du bouclier.",
+    "ja": "シールド充電速度が向上するが、最大容量が低下する。",
+    "ko": "실드 회복률이 증가하는 반면 최대 실드량이 감소합니다.",
+    "ru": "Повышает скорость подзарядки щита, уменьшая при этом его емкость.",
+    "zh": "增加护盾的回充速率，但会降低护盾的最大容量。"
+  },
+  "groupID": 770,
+  "iconID": 26449,
+  "mass": 20.0,
   "name": {
     "de": "Marked Generator Refitting: Shield Flux",
     "en": "Marked Generator Refitting: Shield Flux",
@@ -10,5 +22,9 @@
     "ru": "Marked Generator Refitting: Shield Flux",
     "zh": "标注发电器改装型：护盾波动器"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 500.0,
   "volume": 5.0
 }

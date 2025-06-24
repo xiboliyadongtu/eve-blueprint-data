@@ -1,5 +1,18 @@
 {
-  "typeID": 10652,
+  "capacity": 125.0,
+  "description": {
+    "de": "Dies ist ein Sicherheitsschiff der Gallente Federation Navy. Es patrouilliert in diesem Sektor und wird auf jeden Kampf reagieren, den es entdeckt. Falls nötig, kann dieses Schiff Verstärkung aus den nahegelegenen Sektoren rufen. \r\n\r\nBedrohungsstufe: Mäßig",
+    "en": "This is a security vessel of the Gallente Federation Navy. It is patrolling this sector and will respond to any combat it detects. It can call in reinforcements from nearby sectors if the need arises. Threat level: Moderate",
+    "es": "Nave de seguridad de la Armada de la Federación Gallente que patrulla por este sector y responderá a cualquier combate que detecte. Puede pedir refuerzos de los sectores cercanos si es necesario. Nivel de amenaza: moderado.",
+    "fr": "Il s'agit d'un vaisseau de sécurité de la Federation Navy gallente. Il est en patrouille dans ce secteur et interviendra dans tout combat qu'il pourra détecter. Au besoin, il peut appeler des renforts des secteurs voisins. Niveau de menace : moyen",
+    "ja": "ガレンテ連邦海軍のセキュリティ艦。管轄区域をパトロールし、戦闘行為を探知すると現場へ急行する。緊急時には近隣区域からの援軍を要請することも可能。危険度:普通",
+    "ko": "갈란테 연방의 경비함입니다. 지역을 순찰 중이며 교전 발견 시 즉각 개입합니다. 유사시 근처 지역에서 증원군을 요청합니다. 위험도: 보통",
+    "ru": "Это корабль сил безопасности Федерального флота Gallente. Он патрулирует этот сектор и открывает ответный огонь по недружественным объектам. В случае необходимости может вызвать подкрепление из ближайших секторов. Уровень опасности: умеренный",
+    "zh": "这是一艘盖伦特联邦海军的安全船只。它在这个地区中巡逻，会对侦测到的任何战斗做出响应。如果形势需要，它会呼叫邻近区域的增援部队。威胁等级：中等"
+  },
+  "graphicID": 1810,
+  "groupID": 288,
+  "mass": 2250000.0,
   "name": {
     "de": "Federation Navy First Sergeant",
     "en": "Federation Navy First Sergeant",
@@ -10,5 +23,11 @@
     "ru": "Federation Navy First Sergeant",
     "zh": "联邦海军 第一中士"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 31.0,
+  "sofFactionName": "gallentenavy",
+  "soundID": 30,
   "volume": 22500.0
 }

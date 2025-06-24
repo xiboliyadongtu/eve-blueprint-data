@@ -1,5 +1,21 @@
 {
-  "typeID": 45587,
+  "capacity": 300.0,
+  "description": {
+    "de": "Obwohl dieses Subsystem dieselben Nano-Panzerungsreparatureinheiten verwendet wie die standardmäßige Imperiumstechnologie, wurden verschiedene Optimierungen durchgeführt. Dank kürzlich entdeckter Sleeper-Designs konnten mithilfe von Technologie auf Fullerenbasis deutlich kompaktere und widerstandsfähigere Panzerungskomponenten kombiniert werden.",
+    "en": "Although this subsystem uses the same armor nano-assemblers as standard empire technology, various optimizations have been made. Taking full advantage of recently discovered Sleeper designs, the use of fullerene-based technology has allowed for the combination of far more compact and resilient armor components.",
+    "es": "Aunque este subsistema utiliza los nanoensambladores de blindaje de la tecnología estándar del Imperio, se han realizado varias optimizaciones. Aprovechando las ventajas de los diseños sleepers recientemente descubiertos, el uso de la tecnología basada en fullereno ha permitido la combinación de componentes de blindaje mucho más compactos y resistentes.",
+    "fr": "Bien que ce sous-système utilise les mêmes nano-assembleurs de blindage que la technologie standard de l'Empire, différentes améliorations y ont depuis été apportées. Tirant pleinement profit des modèles sleeper récemment découverts, l'utilisation de la technologie à base de fullerène a permis l'association de composants bien plus compacts à un blindage plus résistant.",
+    "ja": "このサブシステムには、帝国の標準的な技術と同じアーマーナノアセンブラーが使用されているが、あらゆる最適化処理が施されている。最近発見されたスリーパーの設計を最大限に活用し、フラーレンを活用した技術を駆使することで、遥かにコンパクトで、より強靱なアーマー部品を作ることが可能になった。",
+    "ko": "아마르식 나노 어셈블러를 활용한 서브시스템으로 다양한 개조가 이루어졌습니다. 슬리퍼 설계를 토대로 개발된 퓰러렌 기술을 활용하였으며 첨단 부품에 대한 소형화 및 내구성 향상을 이룩했습니다.",
+    "ru": "Несмотря на то, что в этой подсистеме используются те же наносборщики брони, что и в стандартных имперских системах, она была существенно оптимизирована. Благодаря применению фуллеренов в качестве технологической основы, а также наработок, полученных в результате анализа проектов Спящих, инженерам удалось существенно уменьшить размер комплектующих и повысить их прочность.",
+    "zh": "尽管这个子系统采用了帝国标准技术的纳米装配机器人，但却做了多处优化和提升。它利用了新近发现的冬眠者技术，而富勒烯技术的推广使得精简化高强度的组件能够自由进行组合。"
+  },
+  "graphicID": 21513,
+  "groupID": 954,
+  "iconID": 3631,
+  "marketGroupID": 1126,
+  "mass": 1400000.0,
+  "metaGroupID": 14,
   "name": {
     "de": "Legion Defensive - Augmented Plating",
     "en": "Legion Defensive - Augmented Plating",
@@ -10,5 +26,101 @@
     "ru": "Legion Defensive - Augmented Plating",
     "zh": "圣卒防御 - 增强装甲板"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "sofFactionName": "amarrbase",
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "<b><u>Zusätzliche Basiswerte</b></u>",
+          "en": "<b><u>Additional Base Stats</b></u>",
+          "es": "<b><u>Estadísticas básicas adicionales</b></u>",
+          "fr": "<b><u>Stats de base supplémentaires</b></u>",
+          "ja": "<b><u>追加ベース統計</b></u>",
+          "ko": "<b><u>추가 기본 능력치</b></u>",
+          "ru": "<b><u>Кроме того:</b></u>",
+          "zh": "<b><u>附加基础数值</b></u>"
+        },
+        "importance": 1
+      },
+      {
+        "bonusText": {
+          "de": "+1 Mid Slot, +3 Low Slots",
+          "en": "+1 Mid Slot, +3 Low Slots",
+          "es": "+1 ranura intermedia, +3 ranuras inferiores",
+          "fr": "+1 Emplacement intermédiaire, +3 Emplacements inférieurs",
+          "ja": "ミッドスロット+1、ロースロット+3",
+          "ko": "미드 슬롯 +1, 로우 슬롯 +3",
+          "ru": "+1 разъём средней мощности, +3 разъёма малой мощности",
+          "zh": "中槽+1，低槽+3"
+        },
+        "importance": 2
+      },
+      {
+        "bonusText": {
+          "de": "+1000 Panzerungs-HP",
+          "en": "+1000 Armor HP",
+          "es": "+1000 PV de blindaje",
+          "fr": "+1 000 PV au blindage",
+          "ja": "アーマーHP+1000",
+          "ko": "장갑 내구도 +1000",
+          "ru": "+1000 единиц прочности брони",
+          "zh": "装甲值+1000"
+        },
+        "importance": 3
+      },
+      {
+        "bonusText": {
+          "de": "+10 m Signaturradius",
+          "en": "+10m Signature Radius",
+          "es": "+10 m al radio de la señal",
+          "fr": "Rayon de signature +10 m",
+          "ja": "シグネチャ半径+10m",
+          "ko": "시그니처 반경 +10m",
+          "ru": "+10 метров размера сигнатуры",
+          "zh": "信号半径+10m"
+        },
+        "importance": 4
+      }
+    ],
+    "types": {
+      "30532": [
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf alle Panzerungs-HP",
+            "en": "bonus to all armor hitpoints",
+            "es": "de bonificación a todos los puntos de vida del blindaje.",
+            "fr": "de bonus à tous les points de dommages du blindage",
+            "ja": "全てのアーマーヒットポイントが増加",
+            "ko": "장갑 내구도 증가",
+            "ru": "повышается запас прочности брони корабля",
+            "zh": "装甲值加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf den Nutzen der Überhitzung von Panzerungshärtern",
+            "en": "bonus to the benefits of overheating armor hardeners",
+            "es": "de bonificación a los beneficios de sobrecalentar los endurecedores de blindaje.",
+            "fr": "de bonus aux avantages de la surchauffe des Renforcements de blindage",
+            "ja": "オーバーヒートしたアーマーハードナーにボーナス",
+            "ko": "장갑 강화장치 과부하 시 보너스 효과 증가",
+            "ru": "усиливается влияние перегрузки на параметры укрепителей брони",
+            "zh": "装甲增强器过载效果加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 45586,
   "volume": 40.0
 }

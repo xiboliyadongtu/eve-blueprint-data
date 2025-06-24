@@ -1,5 +1,18 @@
 {
-  "typeID": 3086,
+  "basePrice": 200000.0,
+  "description": {
+    "de": "Ein Neuralinterface-Upgrade, das den Energiespeicherbedarf von Schild-Erzeugersystem-Modulen, z. B. Shield Transfer Array, verringert.\n\n\n\n4% Reduktion des Energiespeicherverbrauchs von Modulen, die die Fertigkeit im Umgang mit Schild-emittierenden Module erfordern.",
+    "en": "A neural Interface upgrade that reduces the capacitor need for shield emission system modules such as shield transfer array.\r\n\r\n4% reduction in capacitor need of modules requiring the Shield Emission Systems skill.",
+    "es": "Mejora de interfaz neuronal que reduce la necesidad del condensador de los sistemas de emisión de escudo, como la matriz de transferencia de escudo.\n\n4 % de reducción de la necesidad del condensador de los módulos que requieren la habilidad de sistemas de emisión de escudo.",
+    "fr": "Amélioration de l'interface neurale portant sur la réduction des besoins énergétiques du capaciteur pour les systèmes d'émission de bouclier (module de transfert de bouclier, par exemple).\n\nRéduit de 4 % les besoins énergétiques du capaciteur des modules nécessitant la compétence liée aux systèmes d'émission de bouclier.",
+    "ja": "神経系インターフェイスのアップグレード。シールドトランスファーアレイなど、シールドエミッションシステムスキルを必要とするモジュールのキャパシタ消費を抑える。\n\nシールドエミッションシステムスキルを必要とするモジュールのキャパシタ消費が4%節減。",
+    "ko": "실드 전달 시스템 모듈의 캐패시터 사용량을 감소시켜주는 신경 인터페이스입니다. <br><br>실드 전송 시스템 스킬을 요구하는 모든 모듈의 캐패시터 사용량 4% 감소",
+    "ru": "Модуль расширения нейроинтерфейса, сокращающий потребление энергии конденсатора модулями передачи энергии на щит, такими как системы дистанционной накачки щита.\n\n\n\nСокращение потребления емкости накопителя модулями, для использования которых требуется навык Shield Emission Systems, на 4%.",
+    "zh": "一款神经接口升级芯片，减少护盾频散系统模块的电容消耗，例如护盾传输阵列。对于需要护盾频散系统技能的装备，降低其电容需求量4%。"
+  },
+  "groupID": 749,
+  "iconID": 2224,
+  "marketGroupID": 1482,
   "name": {
     "de": "Zainou 'Gnome' Shield Emission Systems SE-804",
     "en": "Zainou 'Gnome' Shield Emission Systems SE-804",
@@ -10,5 +23,7 @@
     "ru": "Zainou 'Gnome' Shield Emission Systems SE-804",
     "zh": "载诺 侏儒 护盾频散系统 SE-804"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

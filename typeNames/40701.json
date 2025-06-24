@@ -1,5 +1,19 @@
 {
-  "typeID": 40701,
+  "basePrice": 10000.0,
+  "description": {
+    "de": "Dieses transportable Transneurale Echo-Brennscanner-Interface scheint eine hochgradige Kurzstreckenversion des TEBS-Interfaces zu sein, das bei der Kapsel-Klontechnologie verwendet wird. Noch weiter verkleinert als die Hardware, die in den Kapseln verwendet wird, scheint dieses Gerät dafür entwickelt worden zu sein, um in viel kleinere Schiffe zu passen. \n\n\n\nDieses Interface ermöglicht es dem TEBS mit einer Sendeeinheit zu kommunizieren, um Neuraldaten an einen anderen Ort zu schicken. Angesichts der Natur dieser Technologie kann es sich als unglaubliche wertvoll erweisen, falls sie an die richtige Organisation übergeben wird.",
+    "en": "This portable Transneural Echo Burn Scanner interface appears to be a high-gain, short range version of the TEBS interface used in capsule cloning technology. Scaled down in size from hardware used in the Capsule, this device appears to have been engineered to be installed on a much smaller craft. \r\n\r\nThis interface allows the TEBS to communicate with a burst transmitter in order to relay neural data to a remote location. Given the nature of this technology, it may prove incredibly valuable if turned in to the correct organization.",
+    "es": "Esta interfaz portátil del ecoescáner de grabación transneuronal (TEBS por su nombre en inglés) parece una versión de alta ganancia y corto alcance de la misma interfaz utilizada en la tecnología de clonación de cápsulas. Con un tamaño reducido del hardware de la cápsula, parece haberse diseñado para instalarse en una nave mucho más pequeña. \n\n\n\nEsta interfaz permite que el TEBS se comunique con un transmisor de ráfagas para enviar datos neuronales a una ubicación remota. Dada la naturaleza de esta tecnología, puede resultar increíblemente valiosa en manos de la organización adecuada.",
+    "fr": "Cette interface de Scanner Transneural d'Imagerie à Écho mobile est une puissante version à courte portée de l'interface STIE, fondatrice de la technologie de clonage des capsules. Le modèle réduit semble avoir été spécifiquement conçu pour équiper un appareil bien plus petit qu'une capsule. \n\n\n\nCette interface permet au STIE de communiquer avec un transmetteur à impulsions afin de relayer les données neurales à distance. Vu la nature de cette technologie avancée, ce dispositif pourrait s'avérer inestimable dans les laboratoires de l'organisation adéquate.",
+    "ja": "この移動式トランスニューラル・エコーバーンスキャナーは、カプセラのクローン化技術に使用されているTEBSインターフェースの範囲を縮小させ、高出力化したものらしい。カプセラに使用されているハードウェアを小型化しており、より小型の艦船に搭載することを目的に設計されたデバイスのようである。このインターフェースにより、TEBSがバーストトランスミッターと通信を行って神経データを遠隔地に転送することが可能になる。そのような性質があるため、この技術に大きな価値を見出す組織もあるであろう。",
+    "ko": "휴대용 트랜스뉴럴 에코 분사 스캐너(TEBS) 인터페이스는 캡슐 클론 기술에 사용되는 기존의 TEBS 인터페이스보다 사거리가 짧으나 더 뛰어난 성능을 가졌습니다. 캡슐에서 사용되는 하드웨어에 비해 규모가 작아진 이 장치는 소형 함선에 장착하기 위한 목적으로 개발되었습니다. <br><br>인터페이스를 통해 TEBS가 버스트 송신기를 조정하여 신경 데이터를 원거리로 전송할 수 있습니다. 올바른 조직에서 사용한다면 가치있는 장치가 될 것입니다.",
+    "ru": "Этот портативный вариант деструктивного нейропередатчика представляет собой высокомощную версию интерфейса ДН, используемого при создании клон-тел, однако предназначен для работы на небольшом расстоянии. Scaled down in size from hardware used in the Capsule, this device appears to have been engineered to be installed on a much smaller craft. \n\n\n\nОно позволяет ДН транслировать нейронные данные на удалённый компьютер с помощью пакетной передачи. С учётом особенностей этой технологии, она может представлять собой невероятную ценность при правильном использовании.",
+    "zh": "它似乎是飞行员克隆科技神经转移响应燃烧扫描仪界面的高增益、距离短的便携式版本。缩小了在逃生舱内的硬件尺寸，这件装备似乎被设计安装在更小的舰船中。 \n\n\n\n这种界面允许神经转移响应燃烧扫描仪和脉冲传输装置交互，将神经数据传输至异地。这种高科技装置如果用于正途应该会价值无穷。"
+  },
+  "groupID": 314,
+  "iconID": 3257,
+  "marketGroupID": 20,
+  "mass": 1.0,
   "name": {
     "de": "Subcompact TEBS Interface",
     "en": "Subcompact TEBS Interface",
@@ -10,5 +24,7 @@
     "ru": "Subcompact TEBS Interface",
     "zh": "超小型跨神经扫描接口"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 4093,
+  "basePrice": 22500000.0,
+  "description": {
+    "de": "Diese vorgefertigte Einheit setzt sich zum Surface Command Center zusammen.",
+    "en": "This prefab unit self assembles into the Surface Command Center.",
+    "es": "Esta unidad prefabricada se ensambla en el centro de mando de la superficie.",
+    "fr": "Cette unité préfabriquée s'assemble sur le centre de commandement de la surface.",
+    "ja": "このプレハブユニットは、地表司令基地に自己組み立てを行う。",
+    "ko": "통제센터에 설치되는 조립식 건축물입니다.",
+    "ru": "В процессе самосборки этот комплекс превращается в командный центр на поверхности.",
+    "zh": "这个预制单元会自行组装到地表指挥中心上。"
+  },
+  "groupID": 1118,
+  "iconID": 2875,
+  "mass": 10000.0,
   "name": {
     "de": "Surface Command Center Prefab Unit",
     "en": "Surface Command Center Prefab Unit",
@@ -10,5 +23,7 @@
     "ru": "Surface Command Center Prefab Unit",
     "zh": "地表指挥中心预制单元"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 100000.0
 }

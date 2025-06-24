@@ -1,5 +1,20 @@
 {
-  "typeID": 31868,
+  "basePrice": 140000.0,
+  "description": {
+    "de": "Wächterdrohne",
+    "en": "Sentry Drone",
+    "es": "Dron centinela",
+    "fr": "Drone sentinelle.",
+    "ja": "セントリードローン",
+    "ko": "센트리 드론",
+    "ru": "Стационарный боевой дрон",
+    "zh": "岗哨无人机"
+  },
+  "graphicID": 20258,
+  "groupID": 100,
+  "marketGroupID": 911,
+  "mass": 12000.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Imperial Navy Curator",
     "en": "Imperial Navy Curator",
@@ -10,5 +25,11 @@
     "ru": "Imperial Navy Curator",
     "zh": "帝国海军监护官"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 35.0,
+  "sofFactionName": "amarrnavy",
+  "variationParentTypeID": 23525,
   "volume": 25.0
 }

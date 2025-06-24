@@ -1,5 +1,19 @@
 {
-  "typeID": 17549,
+  "description": {
+    "de": "Diese Version der Panzerungsbeschichtung erhöht den Panzerungsschutz gegen alle Schadensarten, ist aber nicht so effektiv wie Beschichtungen, die nur vor bestimmten Schadensarten schützen. Abzug: Beim Einsatz mehrerer Module des gleichen oder eines ähnlichen Typs, welche dasselbe Attribut beeinflussen, wird deren Wirksamkeit für dieses Attribut eingeschränkt.",
+    "en": "This version of armor coating increases the armor protection against all types of damage, however it is less effective than coatings tuned against a specific damage profile.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",
+    "es": "Esta versión de recubrimiento del blindaje aumenta la protección contra todos los tipos de daño, pero es menos efectiva que los recubrimientos contra un tipo de daño específico.\n\n\n\nPenalización: Por usar más de un tipo de módulo o módulos similares que afecten al mismo atributo de la nave.",
+    "fr": "Cette version de la surcouche de blindage renforce la résistance du blindage à tous les types de dégâts. Elle est toutefois moins efficace que les surcouches conçues pour mitiger un type de dégât spécifique. Pénalité : utiliser plus d'un module de ce type ou plusieurs modules modifiant un même attribut du vaisseau fera l'objet d'une pénalité.",
+    "ja": "このバージョンのアーマーコーティングはあらゆる種類のダメージに対するアーマーの防御力を高める。ただし、特定のダメージプロファイルに対して調整されたコーティングよりは効果が低い。\r\n\nペナルティ：艦船に同じタイプのモジュール、または同じ属性の類似モジュールを複数取り付けると、ペナルティが発生する。",
+    "ko": "모든 공격 속성에 대한 저항력을 증가시켜주는 장갑 코팅입니다. 단일 피해 속성에 특화된 코팅보다 성능이 떨어집니다.<br><br>페널티: 동일한 속성의 모듈 여러 개를 장착할 경우 페널티가 부여됩니다.",
+    "ru": "Эта разновидность покрытия брони увеличивает защиту брони от всех типов урона, однако оно менее эффективно, чем покрытия, рассчитанные на урон определённого типа. Внимание! Установка на борт корабля двух и более модулей, влияющих на одну и ту же характеристику, приведёт к снижению эффективности их действия в отношении данной характеристики.",
+    "zh": "这种装甲涂层能够提高装甲对所有类型伤害的抗性，但效果比对单一属性伤害的抗性要差一点。\n\n\n\n惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。"
+  },
+  "groupID": 98,
+  "iconID": 1030,
+  "marketGroupID": 1670,
+  "mass": 1.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Federation Navy Multispectrum Coating",
     "en": "Federation Navy Multispectrum Coating",
@@ -10,5 +24,9 @@
     "ru": "Federation Navy Multispectrum Coating",
     "zh": "联邦海军多谱式涂层"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 10.0,
+  "variationParentTypeID": 1304,
   "volume": 5.0
 }

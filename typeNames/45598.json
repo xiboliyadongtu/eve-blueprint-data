@@ -1,5 +1,20 @@
 {
-  "typeID": 45598,
+  "description": {
+    "de": "Die Entwicklung effizienterer Flüssigkristalllinsen ist nur einer der gehobenen Schätze aus dem Vermächtnis der Sleeper. Damit halten Wissenschaftler der Amarr die Linsen ihrer Laser auch auf Distanz hin scharf. Diese zielen nun dank des Fullerens ohne höheren Energieaufwand in die Ferne und richten mit heißeren Strahlen sowie stärkeren Impulsen mehr Schaden an. Zudem ist es den in Fullerenen eingegossenen Linsen möglich, höhere Temperaturen sowie stärkere Strahlen und Impulse zu generieren.",
+    "en": "One of the many gems discovered amidst Sleeper technology was the creation of more efficient liquid crystal lenses. Amarr researchers have engineered these lenses to increase a laser's focus for longer stretches, both in distance and in timing, allowing a laser to reach farther targets with more efficiency of energy output. Additionally, the fullerene-infused lenses can generate higher temperatures and stronger, more damaging beams and pulses.",
+    "es": "Una de las muchas joyas descubiertas entre la tecnología de los Sleepers fue la creación de lentes de cristal líquido más eficientes. Los investigadores de Amarr han diseñado estas lentes para aumentar el enfoque de los láseres en extensiones más largas tanto de distancia como de tiempo, lo que les permite alcanzar objetivos más lejanos con mayor eficiencia en lo que a la producción energética se refiere. Además, las lentes con fullereno inyectado son capaces de generar temperaturas más altas, además de pulsos y rayos más potentes y dañinos.",
+    "fr": "La création d'une lentille de cristal liquide plus efficace fait partie des découvertes intéressantes au sein de la technologie sleeper. Les chercheurs amarr ont développé ces lentilles pour améliorer la concentration d'un laser, à la fois en termes de distance et de timing, permettant ainsi d'atteindre des cibles plus éloignées avec davantage d'efficacité et d'énergie. Par ailleurs, les lentilles imprégnées de fullerène peuvent générer des températures plus élevées, et des impulsions et des rayons infligeant davantage de dégâts.",
+    "ja": "スリーパー技術から得られた貴重な発見は多くあったが、そのうちの一つはより効果的な液晶レンズを生成する技術である。アマーの研究者たちは、これらのレンズを加工して、レーザー照準の改良を時間、距離の両面で行った。これにより、レーザーがより遠くのターゲットまで、より高いエネルギー効率で届くようになった。更に、フラーレンを注入したレンズは、より強力で高温のダメージビームやパルスを発生させることができる。",
+    "ko": "이 서브시스템은 개선된 액정 렌즈로 고대 슬리퍼의 획기적인 기술 중 하나입니다. 신기술을 적용해 아마르 연구진들은 렌즈의 레이저 거리 초점과 타이밍을 확장시켜 공격 사거리와 에너지 요구치 효율성이 증가했습니다. 또한, 퓰러렌으로 강화된 렌즈는 더 강력하고 높은 화력의 에너지 빔을 발사합니다.",
+    "ru": "Одной из множества технологических жемчужин, найденных в наследии Спящих, можно считать разработку более эффективных жидкокристаллических линз. Амаррские инженеры создали эти линзы для улучшения фокусировки лазера как по расстоянию, так и по времени. Они позволяют лазерам поражать цели на дальних дистанциях с повышенным КПД. Кроме того, линзы, созданные с применением фуллеренов, проводят излучение более высокой температуры, увеличивая урон лазерных орудий (как импульсных, так и лучевых).",
+    "zh": "高效液晶镜头是冬眠者科技遗产众多的结晶中的一个。艾玛研究人员对这些镜头进行了改进，增加了激光器的焦距以获得更长的射程和射击时长，这样激光武器就能够以更强的功率攻击更远的目标。同时，采用了富勒烯技术的镜头能够产生更高温高强的光束。"
+  },
+  "graphicID": 21518,
+  "groupID": 956,
+  "iconID": 3641,
+  "marketGroupID": 1130,
+  "mass": 800000.0,
+  "metaGroupID": 14,
   "name": {
     "de": "Legion Offensive - Liquid Crystal Magnifiers",
     "en": "Legion Offensive - Liquid Crystal Magnifiers",
@@ -10,5 +25,132 @@
     "ru": "Legion Offensive - Liquid Crystal Magnifiers",
     "zh": "圣卒攻击 - 液晶放大器"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 500.0,
+  "sofFactionName": "amarrbase",
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "<b><u>Zusätzliche Basiswerte</b></u>",
+          "en": "<b><u>Additional Base Stats</b></u>",
+          "es": "<b><u>Estadísticas básicas adicionales</b></u>",
+          "fr": "<b><u>Stats de base supplémentaires</b></u>",
+          "ja": "<b><u>追加ベース統計</b></u>",
+          "ko": "<b><u>추가 기본 능력치</b></u>",
+          "ru": "<b><u>Кроме того:</b></u>",
+          "zh": "<b><u>附加基础数值</b></u>"
+        },
+        "importance": 2
+      },
+      {
+        "bonusText": {
+          "de": "+7 High Slots, +6 Montageplätze für Geschütztürme",
+          "en": "+7 High Slots, +6 Turret Hardpoints",
+          "es": "+7 ranuras superiores, +6 puntos de montaje de torreta",
+          "fr": "+7 Emplacements supérieurs, +6 Points de fixation de tourelle",
+          "ja": "ハイスロット+7、タレットハードポイント+6",
+          "ko": "하이 슬롯 +7, 터렛 하드포인트 +6",
+          "ru": "+7 разъёмов большой мощности, +6 точек монтажа орудий",
+          "zh": "高槽+7，炮台+6"
+        },
+        "importance": 3
+      },
+      {
+        "bonusText": {
+          "de": "+400 Strom, +90 CPU",
+          "en": "+400 PWG, +90 CPU",
+          "es": "+400 SP, +90 CPU",
+          "fr": "+400 PWG, +90 CPU",
+          "ja": "PWG+400、CPU+90",
+          "ko": "파워그리드 +400, CPU +90",
+          "ru": "+400 МВт мощности реактора, +90 Тф мощности ЦПУ",
+          "zh": "能量栅格+400 CPU+90"
+        },
+        "importance": 4
+      },
+      {
+        "bonusText": {
+          "de": "+100 GJ Energiespeicherkapazität",
+          "en": "+100GJ Capacitor Capacity",
+          "es": "+100 GJ de capacidad del condensador",
+          "fr": "Charge de capaciteur +100 GJ",
+          "ja": "キャパシタ容量+100GJ",
+          "ko": "캐패시터 용량 +100 GJ",
+          "ru": "+100 ГДж ёмкости накопителя",
+          "zh": "电容器电容量+100GJ"
+        },
+        "importance": 5
+      },
+      {
+        "bonus": 25,
+        "bonusText": {
+          "de": "Reduktion der CPU- und Strom-Ausrüstungskosten von <a href=showinfo:3306>mittleren Energiegeschütztürmen</a>",
+          "en": "reduction in the PWG and CPU fitting costs of <a href=showinfo:3306>Medium Energy Turrets</a>",
+          "es": "de reducción de los costes de equipamiento de SP y CPU en las <a href=showinfo:3306>torretas de energía medianas</a>.",
+          "fr": "de réduction des coûts d'équipement du PWG et du CPU des <a href=showinfo:3306>Tourelles à énergie intermédiaires</a>",
+          "ja": "<a href=showinfo:3306>中型エネルギータレット</a>のPWGとCPU装備コストが減少",
+          "ko": "<a href=showinfo:3306>중형 에너지 터렛</a> 파워그리드 및 CPU 요구치 감소",
+          "ru": "снижается потребность <a href=showinfo:3306>средних лазерных орудий</a> в мощностях ЦПУ и реактора",
+          "zh": "装配<a href=showinfo:3306>中型能量炮台</a>能量栅格和CPU消耗减少"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "30537": [
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Reduktion der Aktivierungskosten von <a href=showinfo:3306>mittelgroßen Energiegeschütztürmen</a>",
+            "en": "reduction in <a href=showinfo:3306>Medium Energy Turret</a> activation cost",
+            "es": "de reducción del coste de activación de la <a href=showinfo:3306>torreta de energía mediana</a>.",
+            "fr": "réduction du coût d'activation de la <a href=showinfo:3306>tourelle à énergie intermédiaire</a>",
+            "ja": "<a href=showinfo:3306>中型エネルギータレット</a>の起動コストが減少",
+            "ko": "<a href=showinfo:3306>중형 에너지 터렛</a> 활성화 비용 감소",
+            "ru": "сокращается расход энергии при ведении огня из <a href=showinfo:3306>средних лазерных орудий</a>",
+            "zh": "<a href=showinfo:3306>中型能量炮台</a>启动消耗降低"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3306>mittelgroßen Energiegeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3306>Medium Energy Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3306>torreta de energía mediana</a>.",
+            "fr": "de bonus aux dégâts à la <a href=showinfo:3306>tourelle à énergie intermédiaire</a>",
+            "ja": "<a href=showinfo:3306>中型エネルギータレット</a>の与えるダメージが増加",
+            "ko": "<a href=showinfo:3306>중형 에너지 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон <a href=showinfo:3306>средних лазерных орудий</a>",
+            "zh": "<a href=showinfo:3306>中型能量炮台</a>伤害加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf die optimale Reichweite von <a href=showinfo:3306>mittelgroßen Energiegeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3306>Medium Energy Turret</a> optimal range",
+            "es": "de bonificación al alcance óptimo de la <a href=showinfo:3306>torreta de energía mediana</a>.",
+            "fr": "de bonus à la portée optimale des <a href=showinfo:3306>tourelles à énergie intermédiaires</a>",
+            "ja": "<a href=showinfo:3306>中型エネルギータレット</a>の最適射程距離にボーナス",
+            "ko": "<a href=showinfo:3306>중형 에너지 터렛</a> 최적사거리 증가",
+            "ru": "увеличивается оптимальная дальность ведения огня из <a href=showinfo:3306>средних лазерных орудий</a>",
+            "zh": "<a href=showinfo:3306>中型能量炮台</a>最佳射程加成"
+          },
+          "importance": 3,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 45599,
   "volume": 40.0
 }

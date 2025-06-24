@@ -1,5 +1,18 @@
 {
-  "typeID": 2536,
+  "basePrice": 250000.0,
+  "capacity": 12000.0,
+  "description": {
+    "de": "Die Frage, wie man Massen gewonnener Materialien und zusammengesetzter Güter aufbewahren könnte, bis sie für den Transport in Anlagen im höheren Orbit fertig sind, stellte eine große Herausforderung dar. Das Problem wurde allerdings durch die Erfindung des Equilibrium-Frachtsilosystems gelöst. Es handelt sich dabei um eine Anordnung von leeren Kanistern, die in einer ebenfalls leeren Kammer aufgehängt werden, die dann vorsichtig mit einer speziellen Art eines gewöhnlichen Materials aus unterschiedlichen Schichten des Wirtplaneten gefüllt wird. Das Ergebnis ist ein Konstrukt mit der Nettomasse 0 Kg, was dazu führt, dass die Anlage schaurig in der exakt gewünschten Höhe schwebt.",
+    "en": "The problem of how to safely store mass quantities of harvested materials and assembled commodities until they can be transported to higher orbital facilities was difficult to solve. The issue was alleviated by the invention of the equilibrium cargo silo system, an arrangement of empty canisters suspended in a hollow chamber, which is then carefully filled with a specific type of common material from different strata of the host planet. The result has an effective net mass of zero kilograms, causing the facility to hang eerily at the exact desired altitude.",
+    "es": "El problema de cómo almacenar de forma segura grandes cantidades de material cosechado y productos ensamblados hasta poder transportarse a una instalación orbital superior era algo complejo. La solución llegó con la invención del sistema de depósito de carga en equilibrio, una configuración de contenedores vacíos suspendidos en una cámara hueca, que luego se llena con un material concreto de diferentes estratos del planeta anfitrión. El resultado tiene una masa neta efectiva de cero kilogramos, lo que hace que la instalación cuelgue de forma inquietante desde la altitud exacta deseada.",
+    "fr": "Il n'a pas été facile de résoudre le problème consistant à stocker de grandes quantités de matériaux récoltés et de marchandises assemblées avant leur transport vers des structures situées plus haut en orbite. Pour cela, un système d'équilibre entre le chargement et le silo fut mis au point. Il s'agissait d'un dispositif composé de boîtes vides suspendues dans une chambre creuse, ensuite remplie à l'aide d'un matériau spécifique issu d'une autre strate de la planète hôte. Il en résulta une masse nette de zéro kilogramme, permettant à la structure de flotter à l'altitude désirée.",
+    "ja": "上層軌道の施設に輸送するまでの間、採掘した大量の資源と組み立てた製品を安全に保管することは、解決が困難な問題だった。この問題は、平衡カーゴ貯蔵庫システムの発明によって軽減された。中空のチャンバーに複数の空の容器を浮かせて配置し、ホスト惑星により様々だが、各惑星の地層に由来する一種類の一般的な物質で慎重に充填するのである。その結果、事実上の正味重量はゼロキログラムになり、施設を目的の高度で浮遊させることができる。",
+    "ko": "대량으로 채굴한 자원과 생산제품을 고 궤도시설로 옮기기 전까지 안전하게 보관하는 것은 어려운 문제였습니다. 이러한 문제는 화물 사일로 평형유지 시스템이 개발되며 어느 정도 해결이 되었습니다. 컨테이너에 빈 통들을 매달고 내부를 행성 지층에서 흔히 발견되는 물질로 채워 넣음으로써 컨테이너의 총 질량을 0에 가깝게 만들어 원하는 고도에 올려놓을 수 있게 되었습니다.",
+    "ru": "Проблема хранения огромных количеств добытых материалов и готовых товаров, пока они не будут переправлены в орбитальные комплексы, была одной из наиболее трудных задач, вставших перед конструкторами этого типа складов. К счастью, изобретение равновесной грузовой вертикальной системы помогло решить проблему. По сути система представляет собой ряд пустых цистерн, подвешенных в пустотелой емкости, которая затем наполняется определенным типом обычных материалов из различных слоев на планете-хозяине. Суммарная эффективная масса всего комплекса при этом равняется нулю, что позволяет ему плавать в атмосфере на точно заданной высоте.",
+    "zh": "开采出来的物资以及组装好的各种产品在被转运到轨道上的设施之前都需要进行储存。如何能够安全地大量储存这些物资，是一项比较难以解决的任务。平衡货柜储藏系统的发明很好地减轻了这个问题所带来的压力了：一系列的管子被悬挂在一个中空的舱室中，然后又在其中小心翼翼地装满特定的常见物质，这些物质都是从所在行星的不同层面中获得的。这样做的结果是，它使有效净重达到零千克，从而让整个建筑悬浮在所需要的高度层上。"
+  },
+  "graphicID": 4573,
+  "groupID": 1029,
   "name": {
     "de": "Gas Storage Facility",
     "en": "Gas Storage Facility",
@@ -10,5 +23,6 @@
     "ru": "Gas Storage Facility",
     "zh": "气体行星储藏设施"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": true
 }

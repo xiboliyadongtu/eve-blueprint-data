@@ -1,5 +1,18 @@
 {
-  "typeID": 12098,
+  "basePrice": 25000000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Unterbrechern.",
+    "en": "Skill for operation of Interdictors.",
+    "es": "Habilidad para el manejo de interdictores.",
+    "fr": "Compétence permettant de piloter les vaisseaux de classe interdicteur.",
+    "ja": "ワープ妨害型駆逐艦を操作するスキル。",
+    "ko": "인터딕터 운용을 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на заградительных эсминцах.",
+    "zh": "操作拦截舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Interdictors",
     "en": "Interdictors",
@@ -10,5 +23,7 @@
     "ru": "Заградительные эсминцы",
     "zh": "拦截舰操作"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

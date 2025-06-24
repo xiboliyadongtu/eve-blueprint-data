@@ -1,5 +1,20 @@
 {
-  "typeID": 28758,
+  "basePrice": 6000.0,
+  "capacity": 0.8,
+  "description": {
+    "de": "Werfer für <a href=showinfo:30013>Basisscansonden</a>, die dazu verwendet werden, um nach kosmischen Signaturen im Weltall zu scannen.\n\n\n\nHinweis: Es kann nur ein Scansondenwerfer pro Schiff ausgerüstet werden.\n\n\n\n10 % Bonus auf die Stärke von Scansonden.",
+    "en": "Launcher for <a href=showinfo:30013>Core Scanner Probes</a>, which are used to scan down Cosmic Signatures in space.\r\n\r\nNote: Only one scan probe launcher can be fitted per ship.\r\n\r\n10% bonus to strength of scan probes.",
+    "es": "Lanzador de <a href=showinfo:30013>sondas escáner de núcleo</a> que sirven para escanear señales cósmicas en el espacio.\n\nAviso: Solo se puede equipar un lanzasondas de escaneo por nave.\n\n10 % de bonificación a las sondas de escaneo.",
+    "fr": "Le lanceur de <a href=showinfo:30013>sondes de scan cosmique</a> permet de trianguler les <a href=\"http://wiki.eveonline.com/en/wiki/Cosmic_Signatures\">signatures cosmiques</a> dans l'espace.\n\n\n\nRemarque : un seul lanceur de sonde de scan peut être équipé par vaisseau.\n\n\n\nAugmente de 10 % la puissance des sondes de scan.",
+    "ja": "宙域のシグネチャをスキャンする際に使われる<a href=showinfo:30013>コアスキャナープローブ</a>用ランチャー。注： 1艇につき装備可能なスキャンプローブランチャーは1つまでです。スキャンプローブの強度が10%上昇。",
+    "ko": "<a href=showinfo:30013>코어 프로브</a> 사출을 위한 런처입니다. 코어 프로브는 코즈믹 시그니처를 탐지할 때 사용됩니다. <br><br>참고: 프로브 런처는 한 개만 장착할 수 있습니다. <br><br>프로브 스캔 강도 10% 증가",
+    "ru": "Пусковая установка, предназначенная для запуска <a href=showinfo:30013>зондов навигационной разведки</a> — устройств, с помощью которых ведётся расчёт координат различных скрытых сигналов.\n\n\n\nНе допускается оснащение корабля сразу несколькими ПУ разведзондов.\n\n\n\nПри запуске разведзондов: чувствительность бортовой аппаратуры разведзондов повышается на 10%.",
+    "zh": "这是发射<a href=showinfo:30013>核心扫描探针</a>的发射器，用来扫描太空中的空间信号。\n\n\n\n注：每艘飞船只能安装一个扫描探针发射器。\n\n\n\n它能将探针的扫描强度增加10%。"
+  },
+  "groupID": 481,
+  "iconID": 2677,
+  "marketGroupID": 712,
+  "metaGroupID": 4,
   "name": {
     "de": "Sisters Core Probe Launcher",
     "en": "Sisters Core Probe Launcher",
@@ -10,5 +25,8 @@
     "ru": "Sisters Core Probe Launcher",
     "zh": "姐妹会核心探针发射器"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 17938,
   "volume": 5.0
 }

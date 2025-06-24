@@ -1,5 +1,18 @@
 {
-  "typeID": 26161,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Die örtlichen Piraten versuchen beharrlich, ihre Produktqualität zu steigern sowie andere Aspekte der Drogenherstellung zu optimieren. Mit der richtigen Ausrüstung müsste man sich in den Hauptcomputer des Büros einhacken und einiges von Interesse herausholen können.",
+    "en": "The local pirates are actively trying to enhance the potency of their products, as well as improving other aspects of drug manufacturing. With the right equipment it might be possible to hack into the tank's mainframe and get something of interest.",
+    "es": "Los piratas locales intentan mejorar la potencia de sus productos y optimizar otros aspectos de la fabricación de fármacos. Con las herramientas adecuadas se puede hackear la unidad central del tanque y pillar algo interesante.",
+    "fr": "Les pirates de la région essaient d'améliorer l'action de leurs produits, mais aussi d'autres aspects de la fabrication de drogue. Avec du matériel approprié, il doit bien être possible de pirater l'ordinateur central du réservoir et d'en récupérer quelque chose d'intéressant.",
+    "ja": "地元の海賊は各種製品の性能を高めようと骨折っているだけでなく、薬物製造を多彩な角度から進歩させようとしている。適切なツールがあれば、シンクタンクのメインフレームをハッキングして、興味深い情報を入手できるかもしれない。",
+    "ko": "해적들은 자신들의 제품 효능을 향상시키고 마약 제조 과정을 개선하려는 적극적인 노력을 하고 있습니다. 적합한 장비로 탱크의 메인 프레임을 해킹하여 쓸만한 무언가를 발견할 수 있습니다.",
+    "ru": "Местные пираты активно пытаются повысить сильнодействие своей продукции и усовершенствовать другие аспекты производства наркотиков. При наличии нужного оборудования можно будет взломать компьютер танка и узнать что-нибудь интересное.",
+    "zh": "当地的海盗正在积极地尝试各种方法增强他们产品的效力，同时也改善毒品生产的各方面。使用适当的设备就可能侵入数据池电脑主机获得一些有用的东西。"
+  },
+  "graphicID": 2515,
+  "groupID": 1207,
+  "mass": 10000.0,
   "name": {
     "de": "Think Tank",
     "en": "Think Tank",
@@ -10,5 +23,9 @@
     "ru": "Think Tank",
     "zh": "数据池"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 379.0,
+  "sofFactionName": "genericliving",
   "volume": 27500.0
 }

@@ -1,5 +1,20 @@
 {
-  "typeID": 25305,
+  "basePrice": 75000000.0,
+  "capacity": 100000.0,
+  "description": {
+    "de": "Ein Labor zur Produktion von leistungssteigernden Drogen. Diese Struktur hat keine spezifischen Boni auf Zeit- oder Materialvoraussetzungen um die Fertigung zu unterstützen.",
+    "en": "A laboratory to produce performance enhancing drugs. This structure has no specific time or material requirement bonuses to booster manufacturing.",
+    "es": "Laboratorio de producción de sustancias que mejoran el rendimiento. No ofrece bonificaciones específicas de tiempo o materiales en la fabricación de potenciadores.",
+    "fr": "Laboratoire fabriquant des drogues qui permettent d'améliorer les performances. Cette structure ne présente aucun bonus spécifique de temps ou de matériaux requis pour la fabrication de boosters.",
+    "ja": "能力強化ドラッグを製造する研究所。ブースター製造に要する時間や資源に対するボーナスは特にない。",
+    "ko": "각성제 제조를 위한 연구소입니다. 부스터 제조에 적용되는 시간 및 자원효율성 보너스는 따로 없습니다.",
+    "ru": "Лаборатория для производства боевых стимуляторов, повышающих эффективность работы пилота. В этом сооружении расход времени и комплектующих при производстве боевых стимуляторов не отличается от номинальных значений.",
+    "zh": "一座制造增效剂的实验室。这个建筑不提供生产时间或材料需求的加成。"
+  },
+  "graphicID": 2377,
+  "groupID": 397,
+  "marketGroupID": 933,
+  "mass": 100000000.0,
   "name": {
     "de": "Drug Lab",
     "en": "Drug Lab",
@@ -10,5 +25,9 @@
     "ru": "Drug Lab",
     "zh": "药物实验室"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 937.0,
+  "sofFactionName": "genericmetal",
   "volume": 1250.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 17166,
+  "capacity": 120.0,
+  "description": {
+    "de": "Dieses Schiff sieht aus wie ein Standardkreuzer des Angel Cartels, aber die Waffenbaugruppen dieses Schiffes glitzern und glühen in einer eigenartigen Weise.",
+    "en": "This looks much like a standard cruiser fighting for the Angel Cartel, but this one's weapon module glisten and gleam in an uncanny way.",
+    "es": "Se asemeja mucho a un crucero estándar que lucha para el Cártel de los Ángeles, pero este módulo de armas reluce y brilla de un modo inquietante.",
+    "fr": "Cela ressemble beaucoup à un croiseur standard affilié au cartel angel, mais le module d'armement de celui-ci brille d'une lueur douteuse.",
+    "ja": "エンジェルカルテルの標準的な巡洋艦のようにしか見えないが、異様なぎらつきを放つ兵器モジュールを搭載している。",
+    "ko": "겉으로는 평범해 보이는 엔젤 카르텔 크루저가지만 무기가 묘하게 반짝거립니다.",
+    "ru": "Выглядит как стандартный крейсер Картеля Angel, но его модуль вооружения необычно блестит и светится.",
+    "zh": "看上去这像是一艘标准的天使企业联合体巡洋舰，但是它的某个武器模块忽明忽暗，闪着离奇的光芒。"
+  },
+  "graphicID": 337,
+  "groupID": 820,
+  "mass": 10900000.0,
   "name": {
     "de": "Security Coordinator",
     "en": "Security Coordinator",
@@ -10,5 +23,11 @@
     "ru": "Security Coordinator",
     "zh": "安全协调者"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 150.0,
+  "sofFactionName": "angelbase",
+  "soundID": 20900,
   "volume": 109000.0
 }

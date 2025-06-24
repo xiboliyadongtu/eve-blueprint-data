@@ -1,5 +1,19 @@
 {
-  "typeID": 54226,
+  "basePrice": 1.0,
+  "description": {
+    "de": "Dieses ausgeklügelte Gerät verwendet eine Kombination aus Magnetresonanzbildgebung und Emissionstopografie, um schnell einen detaillierten Scan des menschlichen Gehirns bis hin zur Quantenebene zu erstellen. Diese Informationen können dann an einen Kortikalrekonstruktor an einem entfernten Standort gesendet werden, um Erinnerungen und Persönlichkeit des Subjekts auf einen frischen Klon zu übertragen. Dieser Vorgang ist sowohl schnell als auch zerstörerisch und das ursprüngliche Gehirn sowie der Transneuralscanner werden dabei irreparabel beschädigt. Diese transneurale Scaneinheit hat ihren Zweck erfüllt und ist nicht länger funktionsfähig.",
+    "en": "This elaborate device utilizes a combination of magnetic resonance imaging and emission tomography to quickly acquire a detailed scan of a human brain down to the quantum level. This information can then be transmitted to a cortex reconstructor in a remote facility to transfer the subject's memories and personality into a fresh clone. This process is both rapid and destructive, leaving the original brain and the transneural scanner damaged beyond repair.\r\n\r\nThis particular transneural scanning unit has served its purpose and is no longer operational.",
+    "es": "Este elaborado dispositivo combina los escaneos por resonancia magnética con la tomografía de emisiones para generar rápidamente una imagen detallada de un cerebro humano a nivel cuántico. La información puede enviarse a un reconstructor de córtex en una instalación remota para transferir los recuerdos y la personalidad del sujeto a un clon nuevo. Este proceso es tan rápido como destructivo, y deja el cerebro original y el escáner transneuronal dañado sin posibilidad de reparación.\n\n\n\nEsta unidad de escaneo transneuronal ha cumplido su propósito y ya no funciona.",
+    "fr": "Cet appareil élaboré utilise une combinaison d'imagerie par résonnance magnétique et de tomographie d'émission pour obtenir rapidement un scan détaillé d'un cerveau humain jusqu'au niveau quantique. Cette information peut ensuite être transmise à un reconstructeur de cortex situé dans une structure à distance pour transférer les souvenirs et la personnalité du sujet dans un nouveau clone. Ce processus est à la fois rapide et destructeur, causant des dégâts irréparables au cerveau d'origine et au scanner transneural. Cette unité de scan transneural a bien servi et n'est maintenant plus opérationnelle.",
+    "ja": "この精巧なデバイスは磁力共振イメージングとトモグラフィ発振の組み合わせにより、人間の脳の詳細を量子レベルまで素早くスキャンすることができる。こうして得られた情報は遠隔施設にあるコーテックスリコンストラクターに送られ、対象者の記憶と個性を新しいクローンに転送する。このプロセスは迅速だが破壊的で、元の脳と神経転送スキャナーは修復不可能なレベルまで損傷する。\r\n\nこの神経転送スキャンユニットは目的を果たしてもう使えない。",
+    "ko": "정교하게 설계된 스캐너로 자기공명영상과 단층촬영을 통해 양자 단위로 뇌를 스캔할 수 있습니다. 수집된 신경 정보는 관련 시설로 원격 전송되며 피질 재구성기를 통해 클론에 주입됩니다. 이러한 전송 과정은 매우 빠르게 이루어지기에 기존 뇌와 트랜스뉴럴 스캐너는 재사용이 불가능할 정도로 손상됩니다.<br><br>해당 장치는 이미 사용되어 망가진 상태입니다.",
+    "ru": "Благодаря использованию технологий магнитного резонансного сканирования и эмиссионной томографии это причудливое устройство может сделать подробнейший снимок человеческого мозга, воссоздавая даже его квантовую структуру. Затем эту информацию можно передать на удалённый кортексный реконструктор, который перенесёт воспоминания и личность субъекта в тело нового клона. Этот быстрый и отлаженный процесс, однако, губителен как для мозга исходного субъекта, так и для самого транснейронного сканера. Данное устройство уже исполнило своё предназначение и к дальнейшему использованию непригодно.",
+    "zh": "这个精密的仪器使用了磁力共振成像和发射断层成像技术相结合的方式来迅速以量子级别对人类大脑进行扫描。接下来信息会被传输到远方某座设施中的皮层重构器，将主体的记忆和人格转移到一具新的克隆体中。整个过程非常迅速而具有破坏性，原始的大脑和神经扫描器会被损坏得无法修复。\n\n\n\n这个特别的神经扫描装置已经完成了它的使命，无法继续运作了。"
+  },
+  "groupID": 526,
+  "iconID": 1365,
+  "marketGroupID": 1661,
+  "mass": 1.0,
   "name": {
     "de": "Burned Transneural Scanner",
     "en": "Burned Transneural Scanner",
@@ -10,5 +24,7 @@
     "ru": "Burned Transneural Scanner",
     "zh": "烧毁的跨神经扫描器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,19 @@
 {
-  "typeID": 23721,
+  "basePrice": 15000.0,
+  "description": {
+    "de": "Mittlere Drohne zur Zielmarkierung",
+    "en": "Medium Target Painter Drone",
+    "es": "Dron revelador de objetivo mediano",
+    "fr": "Drone marqueur de cible intermédiaire.",
+    "ja": "中型ターゲットペインタードローン",
+    "ko": "미디움 타겟 지시 드론",
+    "ru": "Средний дрон подсветки цели",
+    "zh": "中型目标标记无人机"
+  },
+  "graphicID": 2780,
+  "groupID": 639,
+  "marketGroupID": 841,
+  "mass": 3000.0,
   "name": {
     "de": "Valkyrie TP-600",
     "en": "Valkyrie TP-600",
@@ -10,5 +24,10 @@
     "ru": "Valkyrie TP-600",
     "zh": "瓦尔基里TP-600"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 15.0,
+  "sofFactionName": "minmatarbase",
   "volume": 10.0
 }

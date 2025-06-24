@@ -1,5 +1,18 @@
 {
-  "typeID": 80043,
+  "capacity": 8000.0,
+  "description": {
+    "de": "Ein äußerst schweres und gut bewaffnetes Kriegsschiff, das eindeutig das Frontlinien-Kriegsschiff des Kollektivs ist. Bei einer ersten Untersuchung zeigt das Schiff Anzeichen von jüngeren Kampfschäden. Es ist jedoch anzunehmen, dass automatisierte Verteidigungssysteme weiterhin betriebsbereit sind und für unvorbereitete Kapselpiloten eine potenzielle Gefahr darstellen.",
+    "en": "A very heavy and well-armed warship that is clearly the Collective's frontline battleship.\r\n\r\nUpon initial examination, the ship exhibits signs of recent battle damage. However, it is probable that automated defense systems remain operational, presenting a potential hazard to the unsuspecting.",
+    "es": "Una nave de guerra muy pesada y bien armada que actúa como acorazado de primera línea del Colectivo.\r\n\r\nEl examen inicial revela que la nave muestra signos de haber recibido daño en una batalla reciente. Sin embargo, es probable que los sistemas de defensa automatizados sigan funcionando y puedan resultar peligrosos para los incautos.",
+    "fr": "Un vaisseau de guerre très lourd et bien armé qui est à l'évidence le cuirassé de première ligne du Collectif. Au premier coup d'œil, le vaisseau présente des dégâts de combat récents. Cependant, il est probable que les systèmes de défense automatisés soient toujours opérationnels, représentant un danger potentiel pour ceux qui n'y prendraient pas garde.",
+    "ja": "非常に大型で武装が充実したコレクティブの前線用戦艦。\r\n\r\n初期調査により、この艦船は最近の戦闘で損傷していることが分かっている。ただし自動防衛システムは健在な可能性があり、無防備な者にとって潜在的な脅威となっている。",
+    "ko": "트리글라비안 컬렉티브의 중무장 전투함입니다.<br><br>최근 전투로 인해 선체가 손상되었으나, 자동 방어 체계는 아직 작동하고 있습니다. 무방비하게 접근할 경우 피해를 입을 수 있습니다.",
+    "ru": "В этом массивном корабле, оснащённом множеством орудий, можно без труда узнать линкор, находящийся в авангарде флота Сообщества. По всей видимости, он получил повреждения во время недавнего боя, но высока вероятность, что его автоматизированные оборонительные системы ещё работают и могут представлять опасность.",
+    "zh": "一艘装备精良的重型战舰，显然是三神裔的前线战列舰。初步检查发现这艘舰船近期有战损的痕迹，但它的自动防御系统很可能仍在运行，贸然接近可能会受到攻击。"
+  },
+  "graphicID": 21993,
+  "groupID": 1982,
+  "mass": 63000000.0,
   "name": {
     "de": "Impaired Shackling Leshak",
     "en": "Impaired Shackling Leshak",
@@ -10,5 +23,9 @@
     "ru": "Impaired Shackling Leshak",
     "zh": "受损的束缚型勒沙克级"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 400.0,
+  "sofFactionName": "triglavianbase",
+  "soundID": 20061
 }

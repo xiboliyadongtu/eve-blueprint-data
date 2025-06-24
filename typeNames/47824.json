@@ -1,5 +1,18 @@
 {
-  "typeID": 47824,
+  "description": {
+    "de": "Neutralisiert einen Teil der Energie im Energiespeicher des Zielschiffes.",
+    "en": "Neutralizes a portion of the energy in the target ship's capacitor.",
+    "es": "Neutraliza parte de la energía del condensador de la nave objetivo.",
+    "fr": "Neutralise une partie de l'énergie dans le capaciteur du vaisseau cible.",
+    "ja": "ターゲットした艦船のキャパシタに蓄えられているエネルギーを一部中和することができる。",
+    "ko": "대상 함선의 캐패시터를 일정량 무력화시킵니다.",
+    "ru": "Нейтрализует часть энергии в накопителе поражённого корабля.",
+    "zh": "中和目标舰船电容器的部分能量。"
+  },
+  "groupID": 71,
+  "iconID": 1283,
+  "mass": 1.0,
+  "metaGroupID": 15,
   "name": {
     "de": "Small Abyssal Energy Neutralizer",
     "en": "Small Abyssal Energy Neutralizer",
@@ -10,5 +23,7 @@
     "ru": "Small Abyssal Energy Neutralizer",
     "zh": "小型深渊能量中和器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 5.0
 }

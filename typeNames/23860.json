@@ -1,5 +1,18 @@
 {
-  "typeID": 23860,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieser Industrial der BESTOWER-Klasse entlädt gerade Nachschubgüter für diese Station.",
+    "en": "This Bestower-class industrial is currently offloading and loading supplies to this installation.",
+    "es": "Esta nave industrial de clase Bestower está descargando y cargando suministros en la instalación.",
+    "fr": "Ce vaisseau industriel de classe Bestower est en cours de chargement et de déchargement de marchandises sur cette installation.",
+    "ja": "基地に送られる物資の積み込みや積み降ろしに使われているビストワー級輸送艦シップ。",
+    "ko": "베스토어급 인더스트리얼은 싣고 온 보급품을 하역하고 있습니다.",
+    "ru": "Этот промышленный корабль класса Bestower в настоящее время разгружает груз у этой структуры.",
+    "zh": "这艘恩赐者级工业舰目前在卸货，向这个设施提供补给。"
+  },
+  "graphicID": 1064,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Angedockte Bestower",
     "en": "Docked Bestower",
@@ -10,5 +23,10 @@
     "ru": "Docked Bestower",
     "zh": "停靠着的恩赐者级"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 350.0,
+  "sofFactionName": "amarrbase",
   "volume": 100000000.0
 }

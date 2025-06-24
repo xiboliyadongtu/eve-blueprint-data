@@ -1,5 +1,19 @@
 {
-  "typeID": 82500,
+  "basePrice": 50000000.0,
+  "description": {
+    "de": "Diese Anlage erkennt Kampfanomalien mit Gegnern mäßiger Stärke und ist ideal, um aufstrebenden Kampfpiloten eine Möglichkeit zu bieten, sich zu bewähren. Diese Variante kann im Vergleich zu ihrer Grundversion neue Anomalien schneller entdecken.",
+    "en": "Detecting combat anomalies containing hostiles of modest strength, this array is ideal for giving up-and-coming combat pilots a way to prove their worth.\r\nThis variant has a faster detection capability for new anomalies compared to its base version.",
+    "es": "Este sistema, que detecta anomalías de combate que contienen hostiles de fuerza modesta, es ideal para ofrecer a los pilotos de combate prometedores una forma de demostrar su valía.\r\nEsta variante tiene una capacidad de detección más rápida de nuevas anomalías en comparación con su versión base.",
+    "fr": "Capable de détecter les anomalies de combat abritant des hostiles de force modeste, ce module est idéal pour permettre aux pilotes de combat encore peu expérimentés de prouver leur valeur. Cette variante détecte les nouvelles anomalies plus rapidement comparée à sa version de base.",
+    "ja": "若干の脅威となる敵がいる戦闘特異点を探知する、新進気鋭の戦闘志向のパイロットが自らの価値を証明するのに最適な施設。\r\nこのタイプは、ベースとなっている施設よりも早く新たな特異点を探知することができる。",
+    "ko": "전투 어노말리를 탐지하는 시설로 신참 파일럿에게 적합한 적이 등장합니다.<BR>기본 시설보다 빠른 탐지 속도를 자랑합니다.",
+    "ru": "Такой комплекс позволяет обнаруживать боевые аномалии со скромными вражескими силами. Эти районы которые отлично подходят начинающим пилотам, желающим показать себя в сражениях. Данная версия осуществляет поиск новых аномалий быстрее, чем базовая.",
+    "zh": "这个阵列能够检测出存在实力一般的敌军的战斗异常空间，非常适合新晋战斗飞行员证明自己的价值。此衍生版阵列会比基础版阵列更快地检测出新生的异常空间。"
+  },
+  "groupID": 4768,
+  "iconID": 26733,
+  "marketGroupID": 1284,
+  "mass": 1000.0,
   "name": {
     "de": "Minor Threat Detection Array 2",
     "en": "Minor Threat Detection Array 2",
@@ -10,5 +24,7 @@
     "ru": "Minor Threat Detection Array 2",
     "zh": "小型威胁探测阵列2"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 20000.0
 }

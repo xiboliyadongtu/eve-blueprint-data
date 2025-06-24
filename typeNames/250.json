@@ -1,5 +1,20 @@
 {
-  "typeID": 250,
+  "description": {
+    "de": "Moduliert den Strahl einer Laserwaffe in den Bereich des sichtbaren Lichtspektrums.\n\n\n\n45% niedrigerer Energiespeicherverbrauch.",
+    "en": "Modulates the beam of a laser weapon into the visible light spectrum.\r\n\r\n45% reduced capacitor need.",
+    "es": "Modula el rayo de un arma láser en el espectro de luz visible.\n\nNecesidad del condensador reducida un 45 %.",
+    "fr": "Module le rayon d'une arme laser dans le spectre de lumière visible.\n\nRéduit de 45 % les besoins énergétiques du capaciteur.",
+    "ja": "レーザー兵器のビームを可視光波長に変調。\n\n\nキャパシタ使用量が45%低減。",
+    "ko": "레이저 무기에서 방출되는 빔을 가시광선으로 변조합니다. <br><br>캐패시터 사용량 45% 감소",
+    "ru": "Перенастраивает лазер на работу в спектре видимого излучения. Снижает потребление энергии конденсатора на 45%.",
+    "zh": "将激光武器的光束调节到可见光波段。电容需求降低45%。"
+  },
+  "graphicID": 1142,
+  "groupID": 86,
+  "iconID": 1142,
+  "marketGroupID": 103,
+  "mass": 1.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Standard M",
     "en": "Standard M",
@@ -10,5 +25,7 @@
     "ru": "Standard M",
     "zh": "标准晶体 M"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

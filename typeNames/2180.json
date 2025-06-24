@@ -1,5 +1,21 @@
 {
-  "typeID": 2180,
+  "basePrice": 300000.0,
+  "description": {
+    "de": "XL-Cruise Missiles sind für die Langstreckenbombardierung von Capital-Schiffen und Einrichtungen geeignet. Aufgrund ihrer speziellen Konstruktion können sie nur von Capital-Schiffen eingesetzt werden.\n\nAusgerüstet mit einem Gravitonimpulsgenerator verursacht diese Waffe schwerste Schäden, da sie die inneren Strukturen eines Schiffes überlastet und Schotten sowie Panzerplatten mit beängstigender Leichtigkeit auseinander reißt.",
+    "en": "XL Cruise Missiles are designed for long range bombardment of capital ships and installations. They are a specialized design usable only by capital ships.\n\nFitted with a graviton pulse generator, this weapon causes massive damage as it overwhelms ships' internal structures, tearing bulkheads and armor plating apart with frightening ease.",
+    "es": "Los misiles de crucero XL están diseñados para el bombardeo a larga distancia de las naves capitales e instalaciones. Su diseño especializado solo permite usarlos en naves capitales.\n\nEsta arma, equipada con un generador de pulsos de gravitones, causa una gran cantidad de daño al sobrepasar las estructuras internas de las naves, destrozando mamparos y blindajes con una facilidad pasmosa.",
+    "fr": "Les missiles de croisière XL sont destinés au bombardement à longue portée des vaisseaux capitaux et des structures. Réservés aux vaisseaux capitaux.\n\nCette arme destructrice dotée d'un puissant générateur d'impulsions gravitationnelles pulvérise les cloisons et le blindage internes des vaisseaux avec une effrayante facilité.",
+    "ja": "XLクルーズミサイルは、母艦や軍事施設を長距離から爆撃するのに用いる。特殊な設計のため、母艦でしか使用できない。この兵器には重力量子を生み出す重力波生成装置が搭載されており、艦船の内部隔壁およびアーマープレートをいとも簡単に破壊して艦船の内部から致命的なダメージを与えることができる。",
+    "ko": "장거리 크루즈 미사일로 캐피탈 함선 및 구조물 파괴에 특화되어 있습니다. 캐피탈 함선에만 장착 가능합니다. <br><br>중력자 펄스 생성기는 함선의 내부, 격벽과 플레이팅을 손쉽게 파괴하여 큰 피해를 입힐 수 있습니다.",
+    "ru": "Ракеты дальнего боя сверхбольшой мощности предназначены для обстрела кораблей большого тоннажа и космических станций на больших расстояниях. Они могут запускаться только с кораблей большого тоннажа.\n\nОни оснащены генераторами гравитонных пучков, которые наносят кораблям страшные повреждения, поражая их изнутри. Эти пучки с устрашающей легкостью разрывают на части как переборки, так и бронеплиты.",
+    "zh": "超大型巡航导弹是专门用于在远距离上对目标旗舰级舰船或建筑实施轰炸的武器。它们只能被旗舰级舰船所安装和使用。\n\n这种武器装载有引力子脉冲发生器，可以对舰船内部结构造成巨大的伤害，还能将外部防护层和装甲板轻易撕裂。"
+  },
+  "graphicID": 20047,
+  "groupID": 1019,
+  "iconID": 183,
+  "marketGroupID": 1317,
+  "mass": 1500.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Guristas Scourge XL Cruise Missile",
     "en": "Guristas Scourge XL Cruise Missile",
@@ -10,5 +26,9 @@
     "ru": "Guristas Scourge XL Cruise Missile",
     "zh": "古斯塔斯鞭挞超大型巡航导弹"
   },
+  "portionSize": 100,
+  "published": true,
+  "radius": 300.0,
+  "variationParentTypeID": 32436,
   "volume": 0.3
 }

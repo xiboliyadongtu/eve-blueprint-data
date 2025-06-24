@@ -1,5 +1,19 @@
 {
-  "typeID": 63611,
+  "basePrice": 1000.0,
+  "description": {
+    "de": "Es wird sofort nach Einlösen angewendet. Grunddauer: 2 Stunden. 1 % Bonus auf Panzerungsresistenzen 1 % Bonus auf die Wendigkeit von Schiffen 1 % Bonus auf den Schaden von Geschütztürmen, Vorton-Projektoren und Lenkwaffen 1 % Bonus auf die Energiespeicherkapazität 2 % Bonus auf die optimale Reichweite und den Präzisionsabfall von Drohnen +4 km Drohnen-Kontrollreichweite 2 % Bonus auf die Reichweite von Bergbaulasern und Eisschürfern 2 % Bonus auf die maximale Zielerfassungsreichweite 2 % Bonus auf die Resistenz gegen Energiekriegsführung +4 Virenkohärenz für Reliktanalysegeräte",
+    "en": "It will apply immediately when redeemed. Base Duration 2 Hours.\r\n\r\n1% bonus to armor resistances\r\n1% bonus to ship agility\r\n1% bonus to turret, vorton projector and missile damage\r\n1% bonus to capacitor capacity\r\n2% bonus to drone optimal range and falloff\r\n+4km drone control range\r\n2% bonus to mining laser and ice harvester range\r\n2% bonus to maximum targeting range\r\n2% bonus to energy warfare resistance\r\n+4 virus coherence for relic analyzers",
+    "es": "Se aplicará inmediatamente tras canjearlo. Duración base: 2 horas.\r\n\r\n1 % de bonificación a las resistencias de blindaje.\r\n1 % de bonificación a la agilidad de la nave.\r\n1 % de bonificación al daño de torretas, proyectores vortónicos y misiles.\r\n1 % de bonificación a la capacidad del condensador.\r\n2 % de bonificación a los alcances óptimo y efectivo de los drones.\r\n+4 km de alcance de control de los drones.\r\n2 % de bonificación al alcance de la cosechadora de hielo y el láser minero.\r\n2 % de bonificación a la distancia-objetivo máxima.\r\n2 % de bonificación a la resistencia a la guerra de energía.\r\n+4 de coherencia del virus para analizadores de reliquias.",
+    "fr": "S'appliquera immédiatement une fois récupéré. Durée de base : 2 heures. 1 % de bonus aux résistances de blindage 1 % de bonus à la maniabilité du vaisseau 1 % de bonus aux dégâts des tourelles, des projecteurs de vortons et des lance-missiles 1 % de bonus à la charge du capaciteur 2 % de bonus à la portée optimale et de déperdition des drones +4 km à la portée de contrôle des drones 2 % de bonus à la portée des lasers d'extraction et du collecteur de glace 2 % de bonus à la portée de ciblage maximale 2 % de bonus à la résistance à la guerre d'énergie +4 à la résistance virale des analyseurs de reliques",
+    "ja": "引き換えると直ちに適用される。基本持続時間は2時間。\r\n\r\nアーマーレジスタンスに1%のボーナス\r\n艦船の機動性に1%のボーナス\r\nタレット、ヴォートンプロジェクター、そしてミサイルのダメージに1%のボーナス\r\nキャパシタ容量に1%のボーナス\r\nドローンの最適射程距離と精度低下範囲に2%のボーナス\r\nドローンの制御可能範囲+4km\r\n採掘レーザーとアイス採掘機の射程に2%のボーナス\r\n最大ターゲット範囲に2%のボーナス\r\nエネルギー戦レジスタンスに2%のボーナス\r\n遺物アナライザーのウイルスコヒーレンス+4ポイント",
+    "ko": "수령 즉시 활성화되는 부스터입니다. 기본 지속시간: 2시간\r\n\r\n장갑 저항력 1% 증가\r\n함선 기동성 1% 증가\r\n터렛, 보르톤 프로젝터, 미사일 피해량 1% 증가\r\n캐패시터 용량 1% 중가\r\n드론 최적사거리 및 유효사거리 2% 증가\r\n드론 통제 사거리 4km 증가\r\n채굴 레이저 및 아이스 채굴기 사거리 2% 증가\r\n최대 타겟팅 거리 2% 증가\r\n에너지전 저항력 2% 증가\r\n유물 분석기 바이러스 결합도 4 증가",
+    "ru": "Применяется сразу же после активации. Базовая длительность: 2 часа. На 1% повышает сопротивляемость брони, манёвренность корабля, урон от турелей, ракет и вортонных проекторов, а также ёмкость накопителя. На 2% повышает оптимальную и остаточную дальность дронов, дальность буровых лазеров и установок для бурения льда, максимальную дальность наведения и сопротивляемость средствам воздействия на накопитель. Увеличивает радиус управления дронами на 4 км и целостность вируса для анализаторов артефактов на 4 ед.",
+    "zh": "领取后立即生效。基础持续时间：2小时。装甲抗性提高1%，舰船灵活性提高1%，炮台、电弧弦投射器和导弹伤害提高1%，电容器电量提高1%，无人机最佳射程和失准范围增加2%，无人机控制范围+4km，采矿激光器和冰矿采集器的射程提高2%，最大锁定距离提高2%，能量战抗性提高2%，遗迹分析仪的病毒同步率+4"
+  },
+  "groupID": 303,
+  "iconID": 25270,
+  "mass": 1.0,
+  "metaGroupID": 19,
   "name": {
     "de": "Halcyon Y-1 Booster",
     "en": "Halcyon Y-1 Booster",
@@ -10,5 +24,7 @@
     "ru": "Halcyon Y-1 Booster",
     "zh": "寂静Y-1增效剂"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

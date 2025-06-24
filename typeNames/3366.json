@@ -1,5 +1,17 @@
 {
-  "typeID": 3366,
+  "basePrice": 75000.0,
+  "description": {
+    "de": "Fertigkeit zum Leiten einer Fabrik.",
+    "en": "Skill at factory operation.",
+    "es": "Habilidad en el funcionamiento de fábricas.",
+    "fr": "Compétence liée à l'utilisation des usines.",
+    "ja": "工場の運営スキル。",
+    "ko": "공장 가동을 위한 스킬입니다.",
+    "ru": "Навык управления заводами.",
+    "zh": "运作工厂的技能。"
+  },
+  "groupID": 266,
+  "iconID": 33,
   "name": {
     "de": "Factory Management",
     "en": "Factory Management",
@@ -10,5 +22,7 @@
     "ru": "Управление заводами",
     "zh": "生产管理学"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

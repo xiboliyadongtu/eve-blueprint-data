@@ -1,5 +1,17 @@
 {
-  "typeID": 30542,
+  "basePrice": 5000000.0,
+  "description": {
+    "de": "Skill in Verbindung mit caldarischen Elektronik-Subsystemen für Tech-III-Schiffe.",
+    "en": "Skill in the operation of Caldari Electronic Subsystems used on Tech III ships.",
+    "es": "Habilidad en el manejo de subsistemas electrónicos caldaris usados en naves T3.",
+    "fr": "Compétence liée à l'utilisation des sous-systèmes électroniques caldari sur les vaisseaux Tech III.",
+    "ja": "Tech 3艦船で使用するカルダリの電子サブシステムを操作するスキル。",
+    "ko": "테크 III 함선에 사용되는 칼다리 전자 서브시스템 운용을 위한 스킬입니다.",
+    "ru": "Освоив первую степень этого навыка, пилот сможет пользоваться калдарскими электронными подсистемами для кораблей третьей техкатегории.",
+    "zh": "这是用来操纵三级科技舰船上加达里电子子系统的技能。"
+  },
+  "groupID": 1240,
+  "iconID": 33,
   "name": {
     "de": "Caldari Electronic Systems",
     "en": "Caldari Electronic Systems",
@@ -10,5 +22,8 @@
     "ru": "Калдарские электронные подсистемы",
     "zh": "加达里电子子系统"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
   "volume": 0.01
 }

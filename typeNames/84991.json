@@ -1,5 +1,19 @@
 {
-  "typeID": 84991,
+  "description": {
+    "de": "Neutralisiert einen Teil der Energie im Energiespeicher des Zielschiffes.",
+    "en": "Neutralizes a portion of the energy in the target ship's capacitor.",
+    "es": "Neutraliza parte de la energía del condensador de la nave objetivo.",
+    "fr": "Neutralise une partie de l'énergie dans le capaciteur du vaisseau cible.",
+    "ja": "ターゲット指定した艦船のキャパシタに蓄えられているエネルギーを一部中和することができる。",
+    "ko": "대상 함선의 캐패시터 에너지를 일정량 무력화합니다.",
+    "ru": "Нейтрализует часть энергии в накопителе поражённого корабля.",
+    "zh": "中和目标舰船电容器的部分能量。"
+  },
+  "groupID": 71,
+  "iconID": 1283,
+  "marketGroupID": 689,
+  "mass": 2000.0,
+  "metaGroupID": 5,
   "name": {
     "de": "Makra's Modified Small Energy Neutralizer",
     "en": "Makra's Modified Small Energy Neutralizer",
@@ -10,5 +24,8 @@
     "ru": "Makra's Modified Small Energy Neutralizer",
     "zh": "马卡拉改良小型能量中和器"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 533,
   "volume": 5.0
 }

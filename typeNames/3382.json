@@ -1,5 +1,17 @@
 {
-  "typeID": 3382,
+  "basePrice": 100000.0,
+  "description": {
+    "de": "Bonus: Gewährt eine 5% Reduktion in der Produktionszeit von Ausrüstungsteilen der Caldari.",
+    "en": "Grants +5% reduction in Caldari equipment production time.",
+    "es": "Otorga un +5 % de reducción del tiempo de producción de equipo caldari.",
+    "fr": "Réduit de 5 % le temps de production des équipements caldari.",
+    "ja": "カルダリの装備の製造時間が 5% 短縮される。",
+    "ko": "칼다리 장비 생산 시간 5% 감소",
+    "ru": "На 5% сокращает срок проектов по производству калдарского оборудования.",
+    "zh": "加达里装备的制造时间缩短5%。"
+  },
+  "groupID": 268,
+  "iconID": 33,
   "name": {
     "de": "Caldari Tech",
     "en": "Caldari Tech",
@@ -10,5 +22,7 @@
     "ru": "Калдарская система конструкторской документации",
     "zh": "加达里科技"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

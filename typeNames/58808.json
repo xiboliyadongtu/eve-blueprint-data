@@ -1,5 +1,18 @@
 {
-  "typeID": 58808,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Dies ist ein Warpstörungswachturm, der vom Equilibrium of Mankind als Teil seiner Verteidigungsanlagen errichtet wurde.",
+    "en": "This is a warp disruption sentry tower set up by the Equilibrium of Mankind as part of their facility defenses.",
+    "es": "Torre centinela de disrupción de warp instalada por Equilibrium of Mankind como parte de las defensas de sus instalaciones.",
+    "fr": "Il s’agit d’une tour de surveillance à perturbation de warp installée par l’Equilibrium of Mankind en défense de ses installations.",
+    "ja": "これは、イクイブリアムオブマンカインドが施設の防衛装置の一部として設置したワープ妨害セントリータワーだ。",
+    "ko": "균형의 수호자가 자신들의 시설을 방어하기 위해 건설한 워프 교란기입니다.",
+    "ru": "Эту сторожевую башню подавления варп-двигателя техники «Равновесия человечества» установили в качестве защитного средства для обороны объектов.",
+    "zh": "这座跃迁扰断岗哨塔由EoM组织设立，旨在加强自己设施的防御能力。"
+  },
+  "graphicID": 2425,
+  "groupID": 383,
+  "mass": 1000.0,
   "name": {
     "de": "EoM Warp Disruptor Tower",
     "en": "EoM Warp Disruptor Tower",
@@ -10,5 +23,9 @@
     "ru": "EoM Warp Disruptor Tower",
     "zh": "EoM跃迁扰断塔"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 637.0,
+  "sofFactionName": "amarrbase",
   "volume": 1000.0
 }

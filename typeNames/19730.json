@@ -1,5 +1,17 @@
 {
-  "typeID": 19730,
+  "description": {
+    "de": "Ein Stapel verschlüsselter Kommunikationslogs. Wertvolle nachrichtendienstliche Unterlagen in den richtigen Händen.",
+    "en": "A stack of encrypted communications logs.  Valuable intelligence data in the right hands.",
+    "es": "Registros de comunicaciones encriptados. Datos de información valiosa en buenas manos.",
+    "fr": "Pile de registres des communications cryptées.  Informations précieuses si elles tombent en de bonnes mains.",
+    "ja": "暗号化された通信ログ。しかるべき者の手に渡れば、貴重な情報となりうる。",
+    "ko": "다량의 암호화된 통신기록입니다. 알맞은 사람에게는 가치있는 정보가 될 것입니다.",
+    "ru": "Стопка зашифрованных протоколов связи. Важные разведывательные данные в нужных руках.",
+    "zh": "一叠经加密的通信记录。在专业人士手中是有价值的情报数据。"
+  },
+  "groupID": 314,
+  "iconID": 1192,
+  "mass": 1.0,
   "name": {
     "de": "Communications Logs",
     "en": "Communications Logs",
@@ -10,5 +22,7 @@
     "ru": "Communications Logs",
     "zh": "通讯日志"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

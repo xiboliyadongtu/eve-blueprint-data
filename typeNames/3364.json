@@ -1,5 +1,17 @@
 {
-  "typeID": 3364,
+  "basePrice": 200000.0,
+  "description": {
+    "de": "Betrieb und Verwaltung von Raumstationen.",
+    "en": "The operation and management of spacestations.",
+    "es": "Operación y gestión de estaciones espaciales.",
+    "fr": "Aptitude à gérer et à utiliser les stations spatiales.",
+    "ja": "宇宙ステーションの管理運営スキル。",
+    "ko": "우주 정거장 가동 및 관리 스킬입니다.",
+    "ru": "Умение управлять космическими станциями.",
+    "zh": "经营和管理空间站的技能。"
+  },
+  "groupID": 266,
+  "iconID": 33,
   "name": {
     "de": "Station Management",
     "en": "Station Management",
@@ -10,5 +22,7 @@
     "ru": "Управление станциями",
     "zh": "空间站管理学"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

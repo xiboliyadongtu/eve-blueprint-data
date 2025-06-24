@@ -1,5 +1,17 @@
 {
-  "typeID": 21783,
+  "description": {
+    "de": "Einzelteile von Hybridwaffen. Sie warten darauf, zu voll funktionsfähiger Ausrüstung zusammengebaut zu werden.",
+    "en": "Hybrid weapon parts waiting to be assembled into fully functional equipment.",
+    "es": "Piezas de armas híbridas que esperan ser ensambladas en un equipo completamente funcional.",
+    "fr": "Pièces d'arme hybride à assembler pour obtenir un équipement parfaitement opérationnel.",
+    "ja": "ハイブリッド兵器の部品。実際に使用するには組み立てが必要。",
+    "ko": "온전한 장비로 조립되기만을 기다리고 있는 하이브리드 무기 부품입니다.",
+    "ru": "Части комбинированного оружия, готовые к сборке полнофункционального оборудования.",
+    "zh": "等待装配完整的混合武器零件。"
+  },
+  "groupID": 526,
+  "iconID": 2039,
+  "mass": 1.0,
   "name": {
     "de": "Unassembled Hybrid Weapons",
     "en": "Unassembled Hybrid Weapons",
@@ -10,5 +22,7 @@
     "ru": "Unassembled Hybrid Weapons",
     "zh": "未装配的混合武器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 5.0
 }

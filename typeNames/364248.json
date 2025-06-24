@@ -1,5 +1,17 @@
 {
-  "typeID": 364248,
+  "basePrice": 3660.0,
+  "description": {
+    "de": "Dieses Modul wird im aktivierten Zustand die Position feindlicher Einheiten innerhalb seines aktiven Radius unter der Voraussetzung anzeigen, dass es präzise genug ist, um das Scanprofil der Einheit zu entdecken.",
+    "en": "Once activated, this module will reveal the location of enemy units within its active radius provided it's precise enough to detect the unit's scan profile.",
+    "es": "Una vez activado, este módulo revela la ubicación de las unidades enemigas dentro de su radio activo, siempre que sea lo bastante preciso como para detectar el perfil de escaneo de la unidad.",
+    "fr": "Une fois activé, ce module révèle la position des unités ennemies dans son rayon de balayage s'il est assez précis pour détecter le profil de balayage des ennemis.",
+    "it": "Una volta attivato, questo modulo rivelerà la posizione delle unità nemiche nel suo raggio d'azione, ammesso che sia abbastanza preciso da individuare il profilo scansione dell'unità.",
+    "ja": "一度起動すると、このモジュールは、敵ユニットのスキャンプロファイルを探知できるほど正確であれば、有効距離内にいる敵ユニットの位置を示す。",
+    "ko": "모듈 활성화 시 작동 반경 내에 있는 적들의 위치를 보여줍니다. 탐지 가능한 시그니처 반경을 가진 대상에만 적용됩니다.",
+    "ru": "Будучи активированным, данный модуль укажет расположение боевых единиц противника в пределах его активного радиуса действия, при условии, что он достаточно точен для обнаружения профилей сканирования боевых единиц.",
+    "zh": "这种装备只要足够精确，能够检测出敌军部队的扫描范围，就能在启用后找出有效半径内的敌军阵地。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Miliz: Scanner",
     "en": "Militia Scanner",
@@ -11,5 +23,7 @@
     "ru": "Сканер, для ополчения",
     "zh": "国民卫队扫描仪"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

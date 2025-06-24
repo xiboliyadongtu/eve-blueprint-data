@@ -1,5 +1,19 @@
 {
-  "typeID": 14492,
+  "basePrice": 790940.0,
+  "description": {
+    "de": "Ein gewaltiger Geschwindigkeitsschub für eine sehr kurze Zeit. Der Schub, der das Schiff vorantreibt und der daraus resultierende maximale Geschwindigkeitsgewinn wird durch die Masse des Schiffs begrenzt, das dieses Modul verwendet. Die unglaubliche Energiemenge, die benötigt wird, um diesen Antrieb zu aktivieren, bedeutet, dass permanent ein Teil der Energiespeicherleistung auf Reserve gehalten werden muss, um die Integrität des Warpeindämmungsfeldes aufrecht zu erhalten. Wenn der Antrieb aktiv ist, wird das EM-Profil des Schiffs erheblich erhöht.\n\n\n\nNachteil: Reduktion der maximalen Energiespeicherkapazität.\n\n\n\nHinweis: Dieses Modul ist für Schlachtschiffe gedacht.",
+    "en": "Massive boost to speed for a very short time. The thrust that boosts the ship, and the corresponding maximum velocity bonus, are limited by the mass of the ship that uses this module. The sheer amount of energy needed to power this system means that it must permanently reserve a fraction of the capacitor output just to maintain the integrity of its warp containment field, and when activated it substantially increases the ship's EM footprint.\r\n\r\nPenalty: Max capacitor reduced.\r\n\r\nNote: Battleship class module.",
+    "es": "Aumento enorme de la velocidad durante un periodo muy breve. El impulso que potencia la nave, y la bonificación de velocidad máxima correspondiente, están limitadas por la masa que usa este módulo. La cantidad de energía necesaria para alimentar este sistema le obliga a reservar de forma permanente una fracción de la salida del condensador para mantener la integridad del campo de contención de warp y, al activarlo, la huella electromagnética de la nave aumenta considerablemente.\n\nPenalización: condensador máximo reducido.\n\nAviso: Módulo de clase acorazado.",
+    "fr": "Puissante accélération fugace. La force de la poussée et le bonus de vitesse maximale du module sont limités par la masse du vaisseau équipé. La quantité phénoménale d'énergie absorbée par ce système exige d'allouer en permanence une fraction de l'énergie produite par le capaciteur au champ de confinement de warp, dans le seul but de maintenir son intégrité. Par ailleurs, l'énergie libérée à l'activation du module accroît vertigineusement l'empreinte EM du vaisseau.\n\n\n\nPénalité : réduit la capacité maximale du capaciteur.\n\n\n\nNote : module réservé aux cuirassés",
+    "ja": "ごく短時間だけ速度を大幅に向上させる。推進力の向上により得られる最高速度のボーナスは、このモジュールを使用する艦の質量により制限されます。このシステムの稼働には莫大なエネルギーを要し、アイドル状態でも常時キャパシタ出力の一部を割り当ててワープコンテインメントフィールドを維持しておく必要がある。また、起動中は艦船のEM負荷が著しく増大してしまうという弊害もある。ペナルティ： キャパシタの最大値が低下する。注： 戦艦級モジュール。",
+    "ko": "일정 시간 동안 비행속도가 대폭 증가합니다. 함선 중량에 따라 추진력 및 최대 속도 보너스가 제한됩니다. 워프 제어 필드를 안정적으로 유지하기 위해 지속적인 전력 소모를 요구합니다. 장착 시 캐패시터 용량이 감소하며 활성화 시 시그니처 반경이 증가합니다. <br><br>페널티: 캐패시터 용량이 감소합니다. <br><br>참고: 배틀쉽급 모듈입니다.",
+    "ru": "Значительно увеличивает скорость движения корабля на очень короткий промежуток времени. Величина прироста скорости зависит не только от мощности модуля, но и от массы корабля, на котором установлен этот модуль. К сожалению, показатели энергопотребления модуля настолько велики, что его установка приводит к фактическому уменьшению ёмкости бортового накопителя энергии — часть энергии, вырабатываемой кораблём, постоянно тратится на обеспечение варп-поля питанием; кроме того, при включении модуля значительно увеличивается радиус сигнатуры корабля.\n\n\n\nВнимание: при установке модуля уменьшается максимальная емкость накопителя энергии!\n\n\n\nПримечание: обычно устанавливается на линкоры.",
+    "zh": "在极短时间内大幅提高航行速度。推进舰船的动力和相应的最大速度加成均受使用该装备的舰船重量所限。该系统运转所需的高额能量值意味着它必须使用部分电容输出的能量，以确保跃迁有效力场的完整性。启用该装备会显著增加舰船的电磁辐射信号。\n\n\n\n惩罚：最大电容量将减少。\n\n\n\n注：战列舰级别装备。"
+  },
+  "groupID": 46,
+  "iconID": 10149,
+  "marketGroupID": 131,
+  "metaGroupID": 5,
   "name": {
     "de": "Mizuro's Modified 500MN Microwarpdrive",
     "en": "Mizuro's Modified 500MN Microwarpdrive",
@@ -10,5 +24,9 @@
     "ru": "Mizuro's Modified 500MN Microwarpdrive",
     "zh": "米兹罗氏改良型500MN微型跃迁推进器"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "variationParentTypeID": 12054,
   "volume": 10.0
 }

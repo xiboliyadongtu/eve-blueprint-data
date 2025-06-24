@@ -1,5 +1,17 @@
 {
-  "typeID": 32020,
+  "description": {
+    "de": "Diese Sicherheitskarte wird von Sansha's Nation hergestellt und erlaubt es dem Benutzer, spezielle Beschleunigungstore zu aktivieren.",
+    "en": "This security card is manufactured by Sansha's Nation and allows the user to unlock a specific acceleration gate.",
+    "es": "Esta tarjeta de seguridad está fabricada por la Nación Sansha y permite al usuario desbloquear un portal de aceleración específico.",
+    "fr": "Cette carte de sécurité est fabriquée par la Sansha's Nation et permet à l'utilisateur de débloquer un portail d'accélération spécial.",
+    "ja": "サンシャ国で製造され、特定のアクセラレーションゲートのロックを解除できる。",
+    "ko": "산샤 네이션이 제작한 출입키입니다. 사용 시 특정한 액셀레이션 게이트를 활성화할 수 있습니다.",
+    "ru": "Этот электронный ключ производства Нации Sansha позволяет активировать заблокированные вратами ускорения.",
+    "zh": "这张安全卡由萨沙国制造，使用者可以用它开启某个特定的加速轨道。"
+  },
+  "groupID": 474,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Rahsa's Security Card",
     "en": "Rahsa's Security Card",
@@ -10,5 +22,7 @@
     "ru": "Rahsa's Security Card",
     "zh": "睿萨的安全卡"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

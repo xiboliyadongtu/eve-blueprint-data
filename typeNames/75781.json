@@ -1,5 +1,18 @@
 {
-  "typeID": 75781,
+  "capacity": 27500.0,
+  "description": {
+    "de": "Dich beschleicht das Gefühl, dass du dieses Wrack lieber nicht plündern solltest.",
+    "en": "You get the feeling that looting from this wreck is a bad idea.",
+    "es": "Tienes la sensación de que saquear estos restos es una mala idea.",
+    "fr": "Quelque chose vous dit que piller cette épave est une mauvaise idée.",
+    "ja": "この残骸を漁るのはいい考えではないように思える。",
+    "ko": "아시겠지만 이런 잔해를 뒤적이는 건 그다지 좋은 생각이 아닙니다.",
+    "ru": "Что-то подсказывает вам, что обыскивать эти обломки — не лучшая идея.",
+    "zh": "你觉得拾取这个残骸并不是什么好主意。"
+  },
+  "graphicID": 3115,
+  "groupID": 186,
+  "mass": 10000.0,
   "name": {
     "de": "QA - Shady Wreck",
     "en": "QA - Shady Wreck",
@@ -10,5 +23,9 @@
     "ru": "QA - Shady Wreck",
     "zh": "QA - 阴暗的残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

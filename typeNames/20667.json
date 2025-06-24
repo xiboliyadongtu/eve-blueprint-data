@@ -1,5 +1,16 @@
 {
-  "typeID": 20667,
+  "description": {
+    "de": "Eine Raptor, die von einem Agenten geflogen wird.",
+    "en": "A Raptor piloted by an agent.",
+    "es": "Raptor pilotada por un agente.",
+    "fr": "Un Raptor piloté par un agent.",
+    "ja": "エージェントを乗せたラプター。",
+    "ko": "에이전트가 조종하는 랩터입니다.",
+    "ru": "Корабль класса Raptor, управляемый агентом.",
+    "zh": "由代理人驾驶的猛禽级飞船。"
+  },
+  "graphicID": 1878,
+  "groupID": 517,
   "name": {
     "de": "Gorgoz's Raptor",
     "en": "Gorgoz's Raptor",
@@ -10,5 +21,9 @@
     "ru": "Gorgoz's Raptor",
     "zh": "格尔戈斯的猛禽级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 33.0,
+  "sofFactionName": "laidai"
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 3440,
+  "basePrice": 500000.0,
+  "description": {
+    "de": "Fertigkeit zur Steuerung von Bergungsdrohnen. 2% erhöhte Bergungschance je Skillstufe.",
+    "en": "Skill at controlling salvage drones. 2% increased salvage chance per level.",
+    "es": "Habilidad para controlar drones recuperadores. 2 % más de probabilidades de recuperación por nivel.",
+    "fr": "Compétence liée au contrôle des drones de récupération. Augmente de 2 % par niveau les probabilités de récupération.",
+    "ja": "サルベージドローンを制御するスキル。レベル上昇ごとにサルベージ成功率が2%増加する。",
+    "ko": "샐비지 드론 운용을 위한 스킬입니다. 매 레벨마다 샐비지 성공 확률 2% 증가",
+    "ru": "Навык эксплуатации дронов-демонтажников. За каждую степень освоения навыка: на 2% повышается вероятность успешного демонтажа.",
+    "zh": "控制打捞无人机的技能。每升一级，打捞成功率提高2%。"
+  },
+  "groupID": 273,
+  "iconID": 33,
+  "marketGroupID": 366,
   "name": {
     "de": "Salvage Drone Operation",
     "en": "Salvage Drone Operation",
@@ -10,5 +23,7 @@
     "ru": "Дроны-демонтажники",
     "zh": "打捞无人机操控理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

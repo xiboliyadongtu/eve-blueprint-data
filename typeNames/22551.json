@@ -1,5 +1,18 @@
 {
-  "typeID": 22551,
+  "basePrice": 30000000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Ausgrabungsschiffen.",
+    "en": "Skill for the operation of Exhumers.",
+    "es": "Habilidad en el manejo de exhumadores.",
+    "fr": "Compétence liée au pilotage des vaisseaux Exhumers.",
+    "ja": "特化型採掘艦を操作するスキル。",
+    "ko": "익스허머를 운용하기 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на тяжёлых буровых кораблях.",
+    "zh": "操作采掘者的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Exhumers",
     "en": "Exhumers",
@@ -10,5 +23,7 @@
     "ru": "Тяжёлые буровые корабли",
     "zh": "采掘者操作"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

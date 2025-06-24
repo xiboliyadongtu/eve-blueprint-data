@@ -1,5 +1,18 @@
 {
-  "typeID": 59745,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieses Wrack ist ein Teil der Trümmer, die von der Schlacht von Fort Kavad übrig geblieben sind. Aus Respekt vor jenen, die in der Schlacht von Fort Kavad gefallen sind, bleibt es weitestgehend unangetastet.",
+    "en": "This wreckage is part of the debris left over from the Battle of Fort Kavad. It remains largely untouched out of respect for the dead of the Battle of Fort Kavad.",
+    "es": "Estos restos forman parte de los escombros que quedaron de la batalla de Fuerte Kavad. Permanecen en gran parte intactos por respeto a los muertos de la batalla.",
+    "fr": "Cette épave fait partie des débris laissés par la bataille de Fort Kavad. Par respect pour les morts de la bataille de Fort Kavad, elle demeure particulièrement bien conservée.",
+    "ja": "この残骸は、フォートカヴァドの戦いで放置されたままになっているデブリの一部である。フォートカヴァドの戦いで散った死者に敬意を払い、その大部分は手つかずである。",
+    "ko": "카바드 요새 전투로 인해 발생한 잔해입니다. 죽은 자들의 넋을 기리기 위해 그 누구도 건들지 않은 상태입니다.",
+    "ru": "Эти обломки, как и многие другие, остались после Битвы за Форт Кавад. Из уважения к погибшим в Битве за Форт Кавад их стараются не трогать.",
+    "zh": "这个残骸是卡瓦要塞战役中留下的。它基本保存完好，表达了对那场战役中的牺牲者的尊重。"
+  },
+  "graphicID": 3582,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Unidentified Wreckage",
     "en": "Unidentified Wreckage",
@@ -10,5 +23,9 @@
     "ru": "Unidentified Wreckage",
     "zh": "不明残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 1000.0,
+  "sofFactionName": "debris",
   "volume": 100000000.0
 }

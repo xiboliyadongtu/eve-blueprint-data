@@ -1,5 +1,17 @@
 {
-  "typeID": 17905,
+  "description": {
+    "de": "Diese Sicherheitszutrittskarte wird vom Angel Cartel hergestellt und ermöglicht dem Inhaber das Beschleunigungstor zur zweiten Creo-Corp Raumverwerfung im Angel Creo-Corp Mining-Komplex freizuschalten. Das Beschleunigungstor bleibt eine kurze Zeit aktiviert und die Karte wird entwertet, nachdem die Kartendaten in den Aktivierungsmechanismus des Tores eingelesen worden sind.",
+    "en": "This security passkey is manufactured by the Angel Cartel and allows the user to unlock the acceleration gate to the second Creo-Corp deadspace pocket in the Angel Creo-Corp Mining complex. The gate will remain open for a short period of time and the passkey will be rendered useless after uploading the key's data to the gate's activation device.",
+    "es": "Este pase de seguridad está fabricado por el Cártel de los Ángeles y permite abrir el portal de aceleración a la segunda burbuja del espacio muerto de Creo-Corp en el complejo minero Creo-Corp de los Ángeles. El portal permanecerá abierto durante un breve periodo de tiempo, y el pase queda inutilizado tras cargar los datos en el dispositivo de activación del portal.",
+    "fr": "Cette carte d'accès de sécurité est fabriquée par le cartel angel et permet à l'utilisateur de débloquer le portail d'accélération menant à la seconde poche Deadspace du complexe minier angel CreoCorp. Ce portail restera ouvert quelques instants et la carte d'accès deviendra inutilisable une fois les informations de la carte envoyées vers le dispositif d'activation du portail.",
+    "ja": "エンジェルカルテル製のセキュリティマスターキー。エンジェルクレオコープマイニング内の第2クレオコープデッドスペースポケットへのアクセラレーションゲートを開く。ゲートが開くのは短時間で、起動デバイスにデータをアップロードした後、そのマスターキーを再度使用することはできない。",
+    "ko": "엔젤 카르텔이 제작한 출입키입니다. 사용 시 엔젤 카르텔의 크레오 코퍼레이션 채굴 시설의 두번째 데드스페이스 포켓으로 향하는 엑셀레이션 게이트를 활성화할 수 있습니다. 데이터 입력 시 짧은 시간 동안 게이트가 개방되며 이후 출입키는 자동 파기됩니다.",
+    "ru": "Этот электронный ключ производится Картелем Angel и позволяет пользователю открыть определённые врата ускорения, ведущие во второй район дэдспейса Creo-Corp, находящегося в горнодобывающем комплексе Angel Creo-Corp. После загрузки данных в устройство активации ключ приходит в негодность, а врата на короткое время остаются открытыми.",
+    "zh": "这把安全通行钥匙由天使企业联合体制造，使用者可打开通往天使创造工业矿冶复合体里的第二创造工业死亡空间层的加速轨道。轨道会打开一小段时间，通行钥匙在将钥匙数据上传到轨道激活设备后，就会失去效用。"
+  },
+  "groupID": 474,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Creo-Synchronization Pass",
     "en": "Creo-Synchronization Pass",
@@ -10,5 +22,7 @@
     "ru": "Creo-Synchronization Pass",
     "zh": "自生同步通行证"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

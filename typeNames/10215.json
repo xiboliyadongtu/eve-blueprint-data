@@ -1,5 +1,18 @@
 {
-  "typeID": 10215,
+  "basePrice": 3200000.0,
+  "description": {
+    "de": "Ein Datenprozessor, der in den Scheitellappen implantiert wird. Bewirkt einen Bonus auf die Willenskraft des Charakters.\n\n\n\n+7 Bonus auf Willenskraft",
+    "en": "A Data processing unit implanted in the Parietal lobe. Grants a bonus to Willpower.\r\n\r\n+7 Bonus to Willpower",
+    "es": "Unidad de procesamiento de datos implantada en el lóbulo parietal. Otorga una bonificación a la voluntad.\n\n+7 de bonificación a la voluntad.",
+    "fr": "Unité de traitement des données implantée dans le lobe pariétal. Augmente la volonté.\n\nBonus de volonté : + 7",
+    "ja": "頭頂葉に埋め込むデータ処理ユニット。キャラクターの精神力を増強する効果がある。精神力+7のボーナス",
+    "ko": "두정엽에 삽입되는 데이터 처리 장치입니다. 정신력 보너스가 부여됩니다.<br><br>정신력 +7",
+    "ru": "Модуль фильтрации импульсов, вживляемый в теменную долю головного мозга пилота.\n\nВживление имплантата приводит к росту характеристики «Сила воли» на 7 единиц.",
+    "zh": "植入在大脑顶叶的数据处理单元。增加人物的毅力属性值。毅力+7"
+  },
+  "groupID": 745,
+  "iconID": 2054,
+  "metaGroupID": 1,
   "name": {
     "de": "Neural Boost - Elite",
     "en": "Neural Boost - Elite",
@@ -10,5 +23,8 @@
     "ru": "Neural Boost - Elite",
     "zh": "神经增效体—精英级"
   },
+  "portionSize": 1,
+  "published": false,
+  "variationParentTypeID": 9942,
   "volume": 1.0
 }

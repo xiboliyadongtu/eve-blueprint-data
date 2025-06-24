@@ -1,5 +1,17 @@
 {
-  "typeID": 2868,
+  "description": {
+    "de": "Hüllenbrüche sind eine dauernde, ernsthafte Bedrohung auf Raumreisen sowie auch ein großes, alltägliches Risiko für Orbitstationen, die zu massiv sind, um auf sie zusteuernde Objekte zu vermeiden. Integritäts-Rückmelde-Drohnen helfen, diese Bedrohung zu mildern, indem sie automatisch und umgehend Dichtstoffe auf die festgestellten Einschlags- oder Druckstellen in der Struktur auftragen, um die sie patrouillieren.",
+    "en": "Hull breaches are a constant, serious threat during space travel, as well as a dangerous reality to orbital stations, which are too massive to avoid incoming objects. Integrity response drones help mitigate that threat by providing the automated, immediate application of sealants to any detected impact or pressure fracture in the structure they patrol.",
+    "es": "Las brechas en el casco son una amenaza constante y bastante grave durante los viajes espaciales, así como una peligrosa realidad en estaciones orbitales, que son demasiado grandes para esquivar los objetos que chocan contra ellas. Los drones de control de la integridad ayudan a mitigar la amenaza aplicando automáticamente y sin demora materiales sellantes que reparan cualquier impacto o fractura por presión que detecten en la estructura que vigilan.",
+    "fr": "Au cours des voyages spatiaux, les brèches dans la coque représentent une menace constante et une dangereuse réalité pour les stations orbitales, trop volumineuses pour éviter les objets en approche. Les drones de contrôle d'intégrité permettent d'atténuer cette menace en appliquant immédiatement une couche d'enduit réparateur à l'endroit de l'impact ou de la fissure sur la structure qu'ils surveillent.",
+    "ja": "船体の破損は宇宙旅行時に常に存在する重大な脅威だが、軌道ステーションの場合は、その大きさゆえに向かってくる物を避けることができないため、現実的な脅威となる。巡回対象の建造物で衝撃や圧力の裂け目を検出すると、シーリング剤を自動的に即時適用し、破損の脅威を軽減する。",
+    "ko": "우주에서 함선의 선체가 망가지는 일은 흔하지만 심각한 일입니다. 이것은 정거장 구조물에도 해당되는 사항입니다. 거대한 덩치로 인해 날아오는 소행성 또는 공격에 대응하기가 쉽지 않기에 구조물의 파손은 매우 빈번한 일입니다. 이러한 상황에 대처하는 것이 피해 복구 드론입니다. 정거장 순찰 도중 충돌 또는 균열을 탐지하면 즉각적으로 밀폐제를 발라 조치를 취합니다.",
+    "ru": "Во время космических путешествий самой серьезной угрозой остается нарушение целостности корпуса корабля. Оно угрожает и орбитальным станциям, которые ввиду своих размеров и инерции не могут уклоняться от сталкивающихся с ними объектов. Дроны-ремонтники уменьшают эту угрозу, постоянно патрулируя поверхность корпуса и нанося в автоматическом режиме уплотнительный материал на места столкновения и на микротрещины.",
+    "zh": "航空器和空间站外壁的破损是时常发生的事情，这对于空间旅行来说是非常严重的威胁。而对轨道上运行的空间站来说，也同样要面对危险的现实——由于体积过大，它们无法躲避来自外太空的物品。反破损快速反应无人机能降低外壁破损的危害性。它能快速自动地对所负责区域的撞击损伤和外壁裂痕进行密封修补。"
+  },
+  "groupID": 1041,
+  "iconID": 10074,
+  "marketGroupID": 1337,
   "name": {
     "de": "Integrity Response Drones",
     "en": "Integrity Response Drones",
@@ -10,5 +22,7 @@
     "ru": "Integrity Response Drones",
     "zh": "反破损快速反应无人机"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 50.0
 }

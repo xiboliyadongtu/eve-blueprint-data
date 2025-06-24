@@ -1,5 +1,17 @@
 {
-  "typeID": 365397,
+  "basePrice": 567000.0,
+  "description": {
+    "de": "Skill zur Benutzung von Kampfgewehren.\n\n+3% auf die Schadenswirkung von Kampfgewehren pro Skillstufe.",
+    "en": "Skill at handling combat rifles.\r\n\r\n+3% combat rifle damage against armor per level.",
+    "es": "Habilidad de manejo de fusiles de combate.\n\n+3% al daño de los fusiles de combate por nivel.",
+    "fr": "Compétence permettant de manipuler les fusils de combat.\n\n+3 % de dommages du fusil de combat par niveau.",
+    "it": "Abilità nel maneggiare fucili da combattimento.\n\n+3% ai danni inflitti dal fucile da combattimento per livello.",
+    "ja": "コンバットライフルを扱うスキル。\n\nレベル上昇ごとに、コンバットライフルがアーマーに与えるダメージが%増加する。",
+    "ko": "컴뱃 라이플 운용을 위한 스킬입니다.<br><br>매 레벨마다 장갑에 가해지는 피해량 3% 증가.",
+    "ru": "Навык обращения с боевыми винтовками.\n\n+3% к урону, наносимому боевыми винтовками, на каждый уровень.",
+    "zh": "使用战斗步枪的技能。每升一级，战斗步枪对装甲造成的伤害提高3%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Fertigkeit: Kampfgewehr",
     "en": "Combat Rifle Proficiency",
@@ -11,5 +23,7 @@
     "ru": "Эксперт по боевым винтовкам",
     "zh": "战斗步枪熟练度"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

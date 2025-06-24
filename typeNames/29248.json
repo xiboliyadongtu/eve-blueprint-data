@@ -1,5 +1,66 @@
 {
-  "typeID": 29248,
+  "basePrice": 400000.0,
+  "capacity": 400.0,
+  "description": {
+    "de": "Diese Fregatte der Magnate-Klasse gehört zu einer der am kunstvollsten gestalteten Schiffsklassen im Imperium der Amarr und gilt als Lieblingsprojekt einer kleinen Elitegruppe königlicher Schiffsbauingenieure. Das Design selbst durchlief innerhalb der letzten zehn Jahre mehrere Phasen. Alle paar Jahre erscheinen neue Modelle der Magnate. Die letzten Versionen dieses Schiffes, die Silver Magnate und die Gold Magnate, wurden als Preise bei den Meisterschafen der Amarr im Jahre YC 105 vorgestellt. Allerdings stehen auch die Originaldesigns der Magnate bei Amarr-Piloten nach wie vor hoch im Kurs.",
+    "en": "This Magnate-class frigate is one of the most decoratively designed ship classes in the Amarr Empire, considered to be a pet project for a small, elite group of royal ship engineers for over a decade. The frigate's design has gone through several stages over the past decade, and new models of the Magnate appear every few years. The most recent versions of this ship – the Silver Magnate and the Gold Magnate – debuted as rewards in the Amarr Championships in YC105, though the original Magnate design is still a popular choice among Amarr pilots.",
+    "es": "La fragata Magnate es una de las naves de diseño más decorativo del Imperio Amarr, considerada un proyecto predilecto de un pequeño y selecto grupo de ingenieros de naves reales durante más de una década. El diseño de la fragata ha pasado por varias etapas durante la última década, y cada pocos años aparecen nuevos modelos de la Magnate. Las últimas versiones de esta nave, la Silver Magnate y la Gold Magnate, debutaron como retribuciones en el Campeonato Amarriano de 105 CY, aunque la Magnate original sigue siendo popular entre los pilotos amarrianos.",
+    "fr": "Fruit de l'investissement décennal d'un petit groupe d'ingénieurs d'élite affectés à la Marine royale, la frégate de classe Magnate est l'un des vaisseaux les plus ornementés de l'Empire amarr. La conception d'orfèvre de la frégate n'a cessé d'inspirer les ingénieurs, et de nouveaux modèles de Magnate ont vu le jour au cours de la dernière décennie. Si les sublimes versions les plus récentes du vaisseau, le Silver Magnate et le Gold Magnate, ont incarné les trophées des Championnats amarr de CY 105, le modèle original reste aujourd'hui encore largement prisé par les pilotes amarr.",
+    "ja": "このマグニート級フリゲートはアマー帝国の船でもとりわけ装飾性の高いデザインで、皇室付き造船技術者の少数エリート集団が10年以上にわたり手がけてきた思い入れの深いプロジェクトの産物だ。デザインはこの10年幾度も改訂され、何年かに一度はマグニートの新モデルが発表される。最新モデル――シルバーマグニートとゴールドマグニート――は、YC105年のアマーチャンピオンシップの賞品として披露されたが、アマーパイロットの間ではやはり初代デザインのマグニートが根強い人気を誇っている。",
+    "ko": "마그네이트급 프리깃은 아마르 제국에서 가장 화려하게 장식된 함선이며, 지난 십수 년 동안 소규모 제국 엔지니어들이 취미 삼아 연구하던 프로젝트의 결과물입니다. 지난 10년간 프리깃의 설계는 계속해서 변경되었고 신형 마그네이트 기종이 몇 년마다 새로이 재출시되었습니다. YC 105년 아마르 챔피언쉽에서 실버 마그네이트와 골드 마그네이트가 공개되었으나 아마르 파일럿들 사이에서는 여전히 일반형 마그나이트의 인기가 높습니다.",
+    "ru": "При разработке дизайна фрегата типа «Магнат» декоративным элементам уделялось большое внимание — или даже рекордное при сравнении с другими кораблями Амаррской Империи. Считается, что в течение более десятка лет он был частным проектом маленькой группы лучших королевских инженеров. За последнее десятилетие дизайн корабля прошел через несколько этапов. Каждые несколько лет выпускается новая модель «Магната». Последние из этих моделей — «Серебряный Магнат» и «Золотой Магнат» — были представлены публике как призы в амаррских Состязаниях, прошедших в 105 году по юлайскому летоисчислению; первоначальный дизайн «Магната» весьма популярен среди амаррских пилотов.",
+    "zh": "富豪级护卫舰是艾玛帝国中装饰最为豪华的舰船之一，它是一小群精英皇家工程师孕育十年才得出的成果。过去十年中，护卫舰的设计发展经过了多个阶段，而富豪级也每隔几年就推出全新的模型。YC105年，富豪级护卫舰的最新版本——白银富豪级以及黄金富豪级作为艾玛冠军杯的奖品正式面世，而其实它的最初设计版本仍然广受艾玛飞行员的推崇。"
+  },
+  "factionID": 500003,
+  "graphicID": 3367,
+  "groupID": 25,
+  "marketGroupID": 72,
+  "mass": 1072000.0,
+  "masteries": {
+    "0": [
+      96,
+      104,
+      105,
+      89,
+      93,
+      94
+    ],
+    "1": [
+      96,
+      104,
+      105,
+      89,
+      93,
+      94
+    ],
+    "2": [
+      96,
+      104,
+      105,
+      89,
+      93,
+      94
+    ],
+    "3": [
+      96,
+      104,
+      105,
+      89,
+      93,
+      94
+    ],
+    "4": [
+      96,
+      104,
+      105,
+      107,
+      117,
+      89,
+      93,
+      94
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Magnate",
     "en": "Magnate",
@@ -9,6 +70,65 @@
     "ko": "마그네이트",
     "ru": "Magnate",
     "zh": "富豪级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 32.0,
+  "sofFactionName": "amarrbase",
+  "soundID": 20063,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonus": 5,
+        "bonusText": {
+          "de": "Bonus auf die Virusstärke von <a href=showinfo:22177>Relikt-</a> und <a href=showinfo:22175>Datenanalysatoren</a>",
+          "en": "bonus to <a href=showinfo:22177>Relic</a> and <a href=showinfo:22175>Data Analyzer</a> virus strength",
+          "es": "de bonificación a la intensidad del virus de los <a href=showinfo:22175>analizadores de datos</a> y de <a href=showinfo:22177>reliquias</a>.",
+          "fr": "de bonus à la puissance du virus des <a href=showinfo:22177>analyseurs de reliques</a> et des <a href=showinfo:22175>analyseurs de données</a>",
+          "ja": "<a href=showinfo:22177>遺物アナライザー</a>と<a href=showinfo:22175>データアナライザー</a>のウイルス強度が増加",
+          "ko": "<a href=showinfo:22177>유물</a> 및 <a href=showinfo:22175>데이터 분석기</a> 바이러스 침투력 증가",
+          "ru": "повышается степень опасности вирусов, применяемых в <a href=showinfo:22175>комплексах анализа данных</a> и <a href=showinfo:22177>комплексах анализа артефактов</a>",
+          "zh": "<a href=\"showinfo:22177\">遗迹分析仪</a>和<a href=\"showinfo:22175\">数据分析仪</a>病毒强度加成"
+        },
+        "importance": 1,
+        "unitID": 139
+      }
+    ],
+    "types": {
+      "3331": [
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Stärke von <a href=showinfo:30013>Basis-</a> und <a href=showinfo:30028>Gefechtsscansonden</a>",
+            "en": "bonus to <a href=showinfo:30013>Core</a> and <a href=showinfo:30028>Combat Scanner Probe</a> strength",
+            "es": "de bonificación a la intensidad de la <a href=showinfo:30028>sonda escáner de combate</a> y la <a href=showinfo:30013>de núcleo</a>.",
+            "fr": "de bonus à la puissance des <a href=showinfo:30013>sondes d'exploration principales</a> et des <a href=showinfo:30028>sondes d'exploration de combat</a>",
+            "ja": "<a href=showinfo:30013>コアスキャナープローブ</a>と<a href=showinfo:30028>戦闘スキャナープローブ</a>の強度が増加",
+            "ko": "<a href=showinfo:30013>코어 프로브</a> 및 <a href=showinfo:30028>정찰 프로브</a> 스캔 강도 증가",
+            "ru": "повышается чувствительность бортовой аппаратуры <a href=showinfo:30013>зондов навигационной разведки</a> и <a href=showinfo:30028>боевых разведзондов</a>",
+            "zh": "<a href=\"showinfo:30013\">核心</a>和<a href=\"showinfo:30028\">作战扫描探针</a>强度加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Reduktion der Dauer von <a href=showinfo:25861>Bergungsmodulen</a>",
+            "en": "reduction in <a href=showinfo:25861>Salvager</a> duration",
+            "es": "de reducción de la duración de los <a href=showinfo:25861>recuperadores</a>.",
+            "fr": "de réduction à la durée des <a href=showinfo:25861>récupérateurs</a>",
+            "ja": "<a href=showinfo:25861>サルベージャー</a>の起動時間が短縮",
+            "ko": "<a href=showinfo:25861>샐비저</a> 지속시간 감소",
+            "ru": "сокращается продолжительность рабочего цикла <a href=showinfo:25861>демонтажных модулей</a>",
+            "zh": "<a href=\"showinfo:25861\">打捞装置</a>运转周期降低"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 22100.0
 }

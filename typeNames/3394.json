@@ -1,5 +1,18 @@
 {
-  "typeID": 3394,
+  "basePrice": 85000.0,
+  "description": {
+    "de": "Fertigkeit zur Aufrechterhaltung der Panzerung und Installation von Upgrades der Schiffshülle, zum Beispiel erweiterte Laderäume oder Trägheitsstabilisatoren. 5 % Bonus auf die HP der Panzerung je Skillstufe.",
+    "en": "Skill at maintaining your ship's armor and installing hull upgrades like expanded cargoholds and inertial stabilizers. Grants a 5% bonus to armor hit points per skill level.",
+    "es": "Habilidad para mantener el blindaje de tu nave e instalar mejoras de casco como bodegas amplificadas y estabilizadores inerciales. Otorga un 5 % de bonificación a los puntos de vida del blindaje por nivel de habilidad.",
+    "fr": "Compétence liée à l'entretien du blindage d'un vaisseau et à l'installation d'améliorations de coque telles que les expansions de soute et des stabilisateurs d'inertie. Augmente de 5 % par niveau de compétence les PV du blindage.",
+    "ja": "船のアーマーを整備し、エクスパンドカーゴや慣性制御装置といった船体強化モジュールを装備するためのスキル。スキルレベル上昇ごとにアーマーのHPが5%増加。",
+    "ko": "화물적재량 확대, 관성 안정기 부착과 같은 선체 업그레이드 및 함선 장갑 정비를 위한 스킬입니다. 매 레벨마다 장갑량 5% 증가",
+    "ru": "Навык обслуживания брони корабля и установки модулей для корпуса, например, расширений грузового отсека и инерционных стабилизаторов. За каждую степень освоения навыка: на 5% увеличивается запас прочности брони.",
+    "zh": "维护飞船装甲以及安装扩充货柜舱和惯性稳定器等船体升级设备的技能。每升一级，装甲强度提高5%。"
+  },
+  "groupID": 1210,
+  "iconID": 33,
+  "marketGroupID": 1745,
   "name": {
     "de": "Hull Upgrades",
     "en": "Hull Upgrades",
@@ -10,5 +23,7 @@
     "ru": "Улучшения корпуса",
     "zh": "船体加固理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

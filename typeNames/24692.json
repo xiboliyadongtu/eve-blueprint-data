@@ -1,5 +1,74 @@
 {
-  "typeID": 24692,
+  "basePrice": 153900000.0,
+  "capacity": 740.0,
+  "description": {
+    "de": "Schiffe der Abaddon-Klasse sind ein himmlisches Werkzeug der Zerstörung. Sie wurden dazu entwickelt, von Anfang an in den Kampf einzugreifen, die Feinde auf Abstand zu erfassen, Salve um Salve auf sie abzufeuern und selbst solange auf dem Schlachtfeld intakt zu bleiben, bis auch der letzte Ketzer in Sichtweite zerfetzt wurde.",
+    "en": "The Abaddon class ship is a celestial tool of destruction. It is designed to enter combat from the outset, targeting enemies at range and firing salvo after salvo at them, and to remain intact on the battlefield until every heretic in sight has been torn to shreds.",
+    "es": "La nave de clase Abaddon es un arma de destrucción celestial. Está diseñada para entrar en combate desde el principio, apuntando a los enemigos desde lejos y disparándoles salva tras salva, y para permanecer intacta en el campo de batalla hasta que todos los herejes a la vista han volado por los aires.",
+    "fr": "Le vaisseau de classe Abaddon est un véritable engin de mort. Il est conçu pour être déployé dès le début des combats, et lancer salve sur salve contre les ennemis se trouvant à distance, et pour rester intact sur le champ de bataille jusqu'à ce que tous les hérétiques aient été pulvérisés.",
+    "ja": "アバドン級艦は至高の破壊兵器である。先制攻撃に向いた設計で、遠距離から敵艦隊をターゲットして斉射に斉射を浴びせ、反撃できる距離まで近づくことも許さず異教徒どもをことごとく粉砕する。",
+    "ko": "천상의 집행자로 불리는 아바돈급 함선입니다. 아바돈은 교전이 개시되면 적을 향해 지속적인 원거리 포격을 가하고 이단자들을 전부 처치할 때까지 전장에 남아있을 수 있게끔 견고히 설계되었습니다.",
+    "ru": "Линкоры типа «Абаддон» — это божественные орудия уничтожения. Они призваны первыми вступать в бой, непрерывными залпами атакуя противника с дистанции и не позволяя приблизиться к себе, пока от последнего еретика не останутся лишь обугленные обломки.",
+    "zh": "地狱天使级飞船是专于破坏的星际工具。它的设计宗旨是这样：从战斗一开始就进入战场，锁定射程内的敌人，不断用火力对它们扫射，直到视线内所有的异教徒都被扫成碎片，最后它仍完好无损地屹立于战场。"
+  },
+  "factionID": 500003,
+  "graphicID": 3132,
+  "groupID": 27,
+  "marketGroupID": 79,
+  "mass": 103200000.0,
+  "masteries": {
+    "0": [
+      96,
+      65,
+      99,
+      165,
+      138,
+      150,
+      89,
+      93
+    ],
+    "1": [
+      96,
+      65,
+      99,
+      165,
+      138,
+      150,
+      89,
+      93
+    ],
+    "2": [
+      96,
+      65,
+      99,
+      165,
+      138,
+      150,
+      89,
+      93
+    ],
+    "3": [
+      96,
+      65,
+      99,
+      165,
+      138,
+      150,
+      89,
+      93
+    ],
+    "4": [
+      96,
+      65,
+      99,
+      165,
+      138,
+      117,
+      150,
+      89,
+      93
+    ]
+  },
   "name": {
     "de": "Abaddon",
     "en": "Abaddon",
@@ -9,6 +78,96 @@
     "ko": "아바돈",
     "ru": "Abaddon",
     "zh": "地狱天使级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 400.0,
+  "sofFactionName": "amarrbase",
+  "soundID": 20061,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 5.0,
+        "bonusText": {
+          "de": "zusätzlicher Bonus auf HP der <a href=showinfo:3394>Verstärkten Schottwand</a>",
+          "en": "additional bonus to <a href=showinfo:3394>Reinforced Bulkhead</a> hitpoints",
+          "es": "de bonificación adicional a los puntos de vida del <a href=showinfo:3394>mamparo reforzado</a>.",
+          "fr": "de bonus supplémentaire aux points de vie de la <a href=showinfo:3394>cloison renforcée</a>",
+          "ja": "<a href=showinfo:3394>強化隔壁</a>HPがさらに増加",
+          "ko": "<a href=showinfo:3394>강화 선체 격벽</a> 내구도 증가",
+          "ru": "дополнительный бонус к прочности <a href=showinfo:3394>укреплённой переборки</a>",
+          "zh": "<a href=showinfo:3394>强化舱隔壁</a>结构值加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der <a href=showinfo:3394>Panzerplatte</a>",
+          "en": "bonus to <a href=showinfo:3394>Armor Plate</a> hitpoints",
+          "es": "de bonificación a los puntos de vida de las <a href=showinfo:3394>placas de blindaje</a>.",
+          "fr": "de bonus aux points de vie du <a href=showinfo:3394>revêtement de blindage</a>",
+          "ja": "<a href=showinfo:3394>アーマープレート</a>HPが増加",
+          "ko": "<a href=showinfo:3394>장갑 플레이트</a> 내구도 증가",
+          "ru": "бонус к прочности <a href=showinfo:3394>бронеплиты</a>",
+          "zh": "<a href=showinfo:3394>装甲附甲板</a>装甲值加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 100.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der <a href=showinfo:3425>Schilderweiterung</a>",
+          "en": "bonus to <a href=showinfo:3425>Shield Extender</a> hitpoints",
+          "es": "de bonificación a los puntos de vida del <a href=showinfo:3425>extensor de escudo</a>.",
+          "fr": "de bonus aux points de vie de l'<a href=showinfo:3425>extenseur de bouclier</a>",
+          "ja": "<a href=showinfo:3425>シールドエクステンダー</a>HPが増加",
+          "ko": "<a href=showinfo:3425>실드 확장장치</a> 실드량 증가",
+          "ru": "бонус к прочности <a href=showinfo:3425>расширителя щитов</a>",
+          "zh": "<a href=showinfo:3425>护盾扩展装置</a>护盾值加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3339": [
+        {
+          "bonus": 4.0,
+          "bonusText": {
+            "de": "Bonus auf alle Panzerungsresistenzen",
+            "en": "bonus to all armor resistances",
+            "es": "de bonificación a todas las resistencias de blindaje.",
+            "fr": "de bonus à toutes les résistances du blindage",
+            "ja": "全てのアーマーレジスタンスが増加",
+            "ko": "모든 장갑 저항력 증가",
+            "ru": "повышается сопротивляемость брони корабля всем видам воздействия",
+            "zh": "装甲抗性加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3309>großen Energiegeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3309>Large Energy Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3309>torreta de energía grande</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:3309>grandes tourelles à énergie</a>",
+            "ja": "<a href=showinfo:3309>大型エネルギータレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3309>대형 에너지 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон <a href=showinfo:3309>больших лазерных орудий</a>",
+            "zh": "<a href=\"showinfo:3309\">大型能量炮台</a>伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 470000.0
 }

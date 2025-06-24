@@ -1,5 +1,16 @@
 {
-  "typeID": 58743,
+  "description": {
+    "de": "Ein Aufzug.",
+    "en": "An elevator.",
+    "es": "Un ascensor.",
+    "fr": "Un ascenseur.",
+    "ja": "エレベーター。",
+    "ko": "엘리베이터입니다.",
+    "ru": "Лифт.",
+    "zh": "一部升降机。"
+  },
+  "graphicID": 2423,
+  "groupID": 1975,
   "name": {
     "de": "Fortified EoM Elevator",
     "en": "Fortified EoM Elevator",
@@ -10,5 +21,9 @@
     "ru": "Fortified EoM Elevator",
     "zh": "强化的EoM升降机"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 350.0,
+  "sofFactionName": "amarrbase"
 }

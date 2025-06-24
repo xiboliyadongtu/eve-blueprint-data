@@ -1,5 +1,17 @@
 {
-  "typeID": 353457,
+  "basePrice": 149000.0,
+  "description": {
+    "de": "Skill zur Munitionshandhabung von Leichtwaffen.\n+5% auf die maximale Munitionskapazität von Leichtwaffen pro Skillstufe.",
+    "en": "Skill at light weapon ammunition management.\r\n+5% light weapons maximum ammunition capacity per level.",
+    "es": "Habilidad de gestión de munición de armas ligeras.\n+5% a la capacidad de munición máxima de las armas ligeras por nivel.",
+    "fr": "Compétence de gestion des munitions des armes légères.\n+5 % de capacité maximale de munitions des armes légères par niveau.",
+    "it": "Abilità nella gestione delle munizioni per armi leggere.\n+5% alla massima capacità di munizioni delle armi leggere per livello.",
+    "ja": "小火器の弾薬を管理するスキル。\nレベル上昇ごとに、小火器の装弾数が5%増加する。",
+    "ko": "경량 무기를 위한 탄약 관리 스킬입니다.<br><br>매 레벨마다 장탄수 5% 증가",
+    "ru": "Навык обращения с боеприпасом для легкого оружия.\n+5% к максимальному количеству боеприпасов для легкого оружия на каждый уровень.",
+    "zh": "管理轻型武器弹药的技能。每升一级，轻型武器的最大弹药容量增加5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Leichtwaffenkapazität",
     "en": "Light Weapon Capacity",
@@ -11,5 +23,7 @@
     "ru": "Вместимость боеприпаса для легкого оружия",
     "zh": "轻型武器容量"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

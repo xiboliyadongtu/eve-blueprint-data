@@ -1,5 +1,17 @@
 {
-  "typeID": 365853,
+  "basePrice": 774000.0,
+  "description": {
+    "de": "Fortgeschrittener Skill in der Ressourcenhandhabung von Geschützen.\n\n3% Abzug auf den PG/CPU-Verbrauch von kleinen Raketenwerfern pro Skillstufe.",
+    "en": "Advanced skill at turret resource management.\r\n\r\n3% reduction to PG/CPU usage of small missile launchers per level.",
+    "es": "Habilidad avanzada de gestión de recursos de torretas.\n\n-3% al coste de RA/CPU de los lanzamisiles pequeños por nivel.",
+    "fr": "Compétence avancée en gestion des ressources des tourelles.\n\n3 % de réduction d'utilisation de PG/CPU des petits lance-missiles par niveau.",
+    "it": "Abilità avanzata nella gestione delle risorse delle torrette. \n\n3% di riduzione all'uso di PG/CPU dei lanciamissili piccoli per livello.",
+    "ja": "タレットリソース管理の上級スキル。\n\nレベル上昇ごとに、小型ミサイルランチャーのPG/CPU消費量を3%減少させる。",
+    "ko": "터렛 자원 관리를 위한 상급 스킬입니다. <br><br>매 레벨마다 소형 미사일 런처의 PG/CPU 요구치 3% 감소",
+    "ru": "Продвинутый навык управления ресурсами турели.\n\n3% снижение использования ЭС/ЦПУ для малых ракетных установок за каждый уровень.",
+    "zh": "管理炮台资源的高级技能。每升一级，小型导弹发射器的PG/CPU使用率降低3%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Ausrüstungsoptimierung: Kleiner Raketenwerfer",
     "en": "Small Missile Launcher Fitting Optimization",
@@ -11,5 +23,7 @@
     "ru": "Оптимизация оснащения для малых ракетных турелей",
     "zh": "小型导弹发射器装配优化"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

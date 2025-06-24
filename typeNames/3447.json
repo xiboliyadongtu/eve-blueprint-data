@@ -1,5 +1,18 @@
 {
-  "typeID": 3447,
+  "basePrice": 7500000.0,
+  "description": {
+    "de": "Ein Skill für die Erwerbung von Produkten aus der Ferne. Jede Stufe des Skills erhöht die effektive Reichweite der Fern-Kaufaufträge gemessen von ihrer Ursprungsstation. Stufe 1 ermöglicht Fern-Kaufaufträge mit einer Reichweite innerhalb desselben Sonnensystems, Stufe 2 erhöht die Reichweite auf Systeme innerhalb von 5 Sprüngen und jede weitere Stufe verdoppelt die Reichweite. Stufe 5 weitet die Reichweite schließlich auf die gesamte Region aus.\n\n\n\nHinweis: Nur aus der Ferne gestellte Kaufaufträge (via Auftragswesen) benötigen diesen Skill, um die Reichweite anzupassen. Bei einem lokalen Kaufauftrag kann auch ohne Skill jede Reichweite eingestellt werden.",
+    "en": "Skill at acquiring products remotely. Each level of skill increases the range your remote buy orders are effective to from their origin station. Level 1 allows for the placing of remote buy orders with a range limited to the same solar system, Level 2 extends that range to systems within 5 jumps, and each subsequent level then doubles it. Level 5 allows for a full regional range.\r\n\r\nNote: Only remotely placed buy orders (using Procurement) require this skill to alter the range. Any range can be set on a local buy order with no skill.",
+    "es": "Habilidad en la adquisición de productos a distancia. Cada nivel de habilidad aumenta el alcance de los pedidos de compra desde la estación de origen. El nivel 1 permite realizar pedidos remotos con un alcance limitado al mismo sistema solar, el nivel 2 aumenta la distancia a sistemas en un radio de 5 saltos y cada nivel posterior lo dobla. El nivel 5 aumenta el alcance a toda la región.\n\nAviso: Solo los pedidos de compra realizados remotamente (utilizando Aprovisionamiento) requieren esta habilidad para modificar el alcance. En un pedido de compra local se puede fijar cualquier distancia sin necesidad de ninguna habilidad.",
+    "fr": "Compétence liée à l'acquisition de biens à distance. Chaque niveau de compétence augmente la portée maximale des ordres d'achat effectués à distance. Le niveau 1 permet de lancer des ordres d'achat à distance au cœur d'un même système solaire. Le niveau 2 étend cette distance aux systèmes situés dans un rayon de 5 sauts, et chaque niveau suivant multiplie par deux la portée maximale des ordres d'achat. Le niveau 5 autorise les ordres d'achat à échelle régionale.\n\n\n\nRemarque : seuls les ordres d'achat placés à distance (via l'approvisionnement) requièrent cette compétence pour amenuiser les restrictions de portée inhérentes. Vous pouvez en revanche déterminer la portée d'un ordre d'achat local sans compétence particulière.",
+    "ja": "製品を遠隔で手に入れるスキル。レベルが上がるごとに元のステーションとの遠隔買い注文が可能な範囲が広がる。レベル1では同じソーラーシステム内、レベル2では5ジャンプで行けるシステムの範囲内で遠隔買い注文を出すことができ、以降のレベルではこの距離が倍になっていく。レベル5では全リージョンを網羅することができる。\r\n\n注意: 範囲を変更するのにこのスキルが必要なのは、（調達を使った）遠隔買い注文のみ。スキルなしで出された現地買いオーダーでは範囲を自由に設定できる。",
+    "ko": "생산품의 원격 획득을 위한 스킬입니다. 매 레벨마다 원격 구매 주문의 거리가 증가합니다. 레벨 1일 경우 동일한 항성계 내에서, 레벨 2일 경우 점프 5회 이내의 항성계 내에서 원격 구매 주문이 가능합니다. 이후 원격 구매 주문 가능 거리는 매 레벨마다 두 배로 증가합니다. 레벨 5일 경우 지역 전체로 거리가 확장됩니다. <br><br>참고: (물품 조달 스킬을 사용한)원격 구매 주문만이 해당 스킬에 영향을 받습니다. 로컬 주문의 경우 거리 제한이 존재하지 않으며 해당 스킬에 영향을 받지 않습니다.",
+    "ru": "Навык дистанционного приобретения товаров. Каждая степень освоения навыка позволяет увеличить расстояние, на котором всё ещё работают ордера на покупку, созданные вами дистанционно. Расстояние отсчитывается от станции их возникновения. Первая степень позволяет размещать дистанционные закупочные ордера, действующие в пределах планетной системы, где они находятся. Вторая степень увеличивает дальность их охвата до 5 переходов через гиперворота, и при переходе на каждую последующую степень это расстояние удваивается. На пятой степень освоения навыки ордера распространяются на весь сектор.\n\n\n\nПримечание: этот навык необходим только для увеличения дальности действия удаленно размещаемых ордеров (созданных с помощью навыка «Дистанционное размещение ордеров»). При размещении ордера на покупку в системе, где вы находитесь лично, можно указывать любую дальность, не обладая данным навыком.",
+    "zh": "远程采购产品的技能。每升一级，都会增加远程购买订单距离其所在空间站的有效范围。等级1时，可以远程发布在同一恒星系内具有采购能力的购买订单；等级2时，这个范围扩大至5个跳跃内的星系，随后每等级范围加倍。等级5时，远程购买订单的有效范围将达到整个星域。\n\n\n\n注意：只有（通过供给学技能）远程发布的购买订单需要配合此技能来影响采购范围。设置本地购买订单的采购范围不需要此技能。"
+  },
+  "groupID": 274,
+  "iconID": 33,
+  "marketGroupID": 378,
   "name": {
     "de": "Visibility",
     "en": "Visibility",
@@ -10,5 +23,7 @@
     "ru": "Дистанционные поставки",
     "zh": "市场观测学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

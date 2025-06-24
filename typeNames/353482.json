@@ -1,5 +1,17 @@
 {
-  "typeID": 353482,
+  "basePrice": 72000.0,
+  "description": {
+    "de": "Skill zur Benutzung von Fernsprengsätzen. \n\nSchaltet den Zugriff auf Standardfernsprengsätze ab Stufe 1, erweiterte Fernsprengsätze ab Stufe 3 und Fernsprengsatzprototypen ab Stufe 5 frei.",
+    "en": "Skill at handling remote explosives. \n\nUnlocks access to standard remote explosives at lvl.1; advanced at lvl.3; prototype at lvl.5",
+    "es": "Habilidad de manejo de explosivos remotos. \n\nDesbloquea el acceso a explosivos remotos estándar en el nivel 1, avanzados en el nivel 3 y prototipos en el nivel 5.",
+    "fr": "Compétence permettant de manipuler les explosifs télécommandés. \n\nDéverrouille l'utilisation des explosifs télécommandés. Standard au niv.1 ; avancé au niv.3 ; prototypes au niv.5.",
+    "it": "Abilità nel maneggiare esplosivi a controllo remoto. \n\nSblocca l'accesso agli esplosivi a controllo remoto standard al liv. 1; a quelli avanzati al liv. 3; a quelli prototipo al liv. 5",
+    "ja": "リモート爆弾を扱うスキル。\n\nレベル1で標準型、レベル3で高性能、レベル5でプロトタイプのリモート爆弾が利用可能になる。",
+    "ko": "원격 폭발물 운용을 위한 스킬입니다. <br><br>원격 폭발물이 잠금 해제됩니다. (레벨 1 - 일반, 레벨 3 - 상급, 레벨 5 - 프로토타입)",
+    "ru": "Навык обращения с радиоуправляемыми взрывными устройствами. \n\nПозволяет пользоваться стандартными радиоуправляемыми взрывными устройствами на уровне 1; усовершенствованными на уровне 3; прототипами на уровне 5",
+    "zh": "使用远程爆炸物的技能。1级解锁标准远距爆炸物；3级解锁高级远距爆炸物；5级解锁原型远距爆炸物。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Destruktion",
     "en": "Demolitions",
@@ -11,5 +23,7 @@
     "ru": "Взрывное дело",
     "zh": "爆破工程"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

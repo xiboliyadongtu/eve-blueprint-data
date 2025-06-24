@@ -1,5 +1,17 @@
 {
-  "typeID": 24249,
+  "description": {
+    "de": "Schrottteile eines zerfallenen Stromerzeugers.",
+    "en": "Debris from a disintegrated power generator.",
+    "es": "Escombros de un generador de energía desintegrado.",
+    "fr": "Débris provenant d'un générateur de puissance désintégré.",
+    "ja": "解体されたパワージェネレーターの残骸。",
+    "ko": "파괴된 발전기의 잔해입니다.",
+    "ru": "Обломки разрушенного силового генератора.",
+    "zh": "某个四分五裂的发电机的碎片。"
+  },
+  "groupID": 526,
+  "iconID": 1186,
+  "mass": 2000.0,
   "name": {
     "de": "Generator Debris",
     "en": "Generator Debris",
@@ -10,5 +22,7 @@
     "ru": "Generator Debris",
     "zh": "发电机残骸"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

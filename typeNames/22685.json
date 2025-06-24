@@ -1,5 +1,16 @@
 {
-  "typeID": 22685,
+  "description": {
+    "de": "Eine Vexor, die von einem Agenten geflogen wird.",
+    "en": "A Vexor piloted by an agent.",
+    "es": "Vexor pilotada por un agente.",
+    "fr": "Un Vexor piloté par un agent.",
+    "ja": "エージェントを乗せたベクサー。",
+    "ko": "에이전트가 조종하는 벡서입니다.",
+    "ru": "Корабль класса Vexor, управляемый агентом.",
+    "zh": "由代理人驾驶的狂怒者级飞船。"
+  },
+  "graphicID": 62,
+  "groupID": 517,
   "name": {
     "de": "Cosmos Vexor",
     "en": "Cosmos Vexor",
@@ -10,5 +21,9 @@
     "ru": "Cosmos Vexor",
     "zh": "深空 狂怒者级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 140.15,
+  "sofFactionName": "gallentebase"
 }

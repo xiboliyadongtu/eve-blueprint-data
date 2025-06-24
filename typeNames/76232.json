@@ -1,5 +1,16 @@
 {
-  "typeID": 76232,
+  "description": {
+    "de": "Dieses Gebiet ist auf T1-/Fraktionsschlachtkreuzer und kleinere Schiffe beschränkt. Im Inneren scheinen feindliche Schiffe aktiv zu sein. Warnung: Kapselpiloten, die das Beschleunigungstor aktivieren, um das Gebiet zu betreten, erhalten einen Verdächtigen-Timer und werden zu legalen Angriffszielen für alle anderen Kapselpiloten.",
+    "en": "This restricted site can be entered by T1/Faction battlecruisers and smaller ships. Hostile ships appear to be active inside. Warning: Capsuleers who activate the acceleration gate to enter this site will incur a suspect timer and become legal targets for all other capsuleers.",
+    "es": "A esta zona restringida pueden entrar los cruceros de combate T1/faccionarios y naves más pequeñas. Parece haber naves hostiles activas en el interior. Advertencia: Los capsulistas que activen el portal de aceleración para entrar en esta zona iniciarán un temporizador de sospechosos y se convertirán en objetivos legales para todos los demás capsulistas.",
+    "fr": "Seuls les croiseurs cuirassés Tech I ou de faction ou les vaisseaux de taille inférieure sont autorisés à pénétrer sur ce site à accès restreint. Il semble que des vaisseaux hostiles sont actifs à l'intérieur. Avertissement : Les capsuliers qui activent le portail d'accélération pour pénétrer sur ce site déclencheront un compteur d'activité suspecte et pourront être légalement pris pour cibles par tous les autres capsuliers.",
+    "ja": "この制限付きサイトには、T1/国家勢力の巡洋戦艦以下の艦船で進入可能。内部では敵艦が活動中の模様。警告：本サイトへの進入にあたってアクセラレーションゲートを起動させたカプセラは、容疑者タイマーが付与され、他の全カプセラが撃破可能な標的と化す。",
+    "ko": "테크 I/팩션 배틀크루저 및 이해 함급만 입장할 수 있는 사이트입니다. 사이트 내에서 적대적인 함선이 활동 중입니다. 경고: 엑셀레이션 게이트로 입장하는 캡슐리어는 용의자 타이머가 작동하며 다른 캡슐리어의 교전 허용 타겟으로 변경됩니다.",
+    "ru": "В этот закрытый район могут попасть только линейные крейсеры (армейские, а также 1-го техноуровня) и корабли меньших размеров. Похоже, там находятся вражеские корабли. Внимание: капсулёры, которые активируют разгонные ворота, чтобы попасть в этот район, будут отмечены как нарушители правопорядка и станут законной целью для всех остальных пилотов.",
+    "zh": "T1/势力战列巡洋舰和小型舰船可以进入该限制地点。里面似乎有敌对舰船活动。警告：激活加速轨道进入该地点的克隆飞行员将触发嫌犯计时器，并成为所有其他克隆飞行员的合法攻击目标。"
+  },
+  "graphicID": 1211,
+  "groupID": 310,
   "name": {
     "de": "Besieged State Laboratory",
     "en": "Besieged State Laboratory",
@@ -10,5 +21,8 @@
     "ru": "Besieged State Laboratory",
     "zh": "被包围的合众国实验室"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "sofFactionName": "genericbase"
 }

@@ -1,5 +1,19 @@
 {
-  "typeID": 5245,
+  "description": {
+    "de": "Einfacher Bergbaulaser. Der Laser extrahiert die einfachen Erze schnell, hat aber mit selteneren Erzen Probleme.",
+    "en": "Basic mining laser. Extracts common ore quickly, but has difficulty with the more rare types.",
+    "es": "Láser minero con tecnología básica. Extrae menas comunes con rapidez, pero las poco comunes le cuestan más trabajo.",
+    "fr": "Laser d'extraction de base. Extrait les minerais ordinaires rapidement, mais éprouve des difficultés à extraire les types de minerais plus rares.",
+    "ja": "標準タイプの採掘レーザー。一般的な鉱石を効率良く採掘できる。希少鉱石の採掘は困難。",
+    "ko": "기초적인 수준의 채굴 레이저입니다. 일반 광물에 대한 채굴 효율성은 뛰어나지만 희귀 광물을 대상으로는 적합하지 않습니다.",
+    "ru": "Базовая модель экстрактора для добычи руды. Позволяет эффективно добывать обычные руды, но непригоден для более редких пород.",
+    "zh": "基础采矿激光器。能快速采集普通的矿石，但不太适合开采稀有品种。"
+  },
+  "graphicID": 11146,
+  "groupID": 54,
+  "iconID": 1061,
+  "marketGroupID": 1039,
+  "metaGroupID": 1,
   "name": {
     "de": "Particle Bore Compact Mining Laser",
     "en": "Particle Bore Compact Mining Laser",
@@ -10,5 +24,11 @@
     "ru": "Particle Bore Compact Mining Laser",
     "zh": "紧凑型采矿粒子激光钻"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 25.0,
+  "sofFactionName": "orebase",
+  "variationParentTypeID": 483,
   "volume": 5.0
 }

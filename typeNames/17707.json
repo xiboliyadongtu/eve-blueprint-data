@@ -1,5 +1,19 @@
 {
-  "typeID": 17707,
+  "capacity": 130.0,
+  "description": {
+    "de": "Navy-Fregatte",
+    "en": "Navy Frig.",
+    "es": "Fragata de la Armada.",
+    "fr": "Frégate de la Navy.",
+    "ja": "海軍のフリゲート。",
+    "ko": "해군 프리깃입니다.",
+    "ru": "NULL",
+    "zh": "海军护卫舰"
+  },
+  "factionID": 500001,
+  "graphicID": 20616,
+  "groupID": 25,
+  "mass": 1450000.0,
   "name": {
     "de": "Mordus Frigate",
     "en": "Mordus Frigate",
@@ -10,5 +24,11 @@
     "ru": "Mordus Frigate",
     "zh": "莫德团护卫舰"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 39.0,
+  "sofFactionName": "mordubase",
+  "soundID": 20070,
   "volume": 16500.0
 }

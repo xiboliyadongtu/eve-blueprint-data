@@ -1,5 +1,16 @@
 {
-  "typeID": 28998,
+  "description": {
+    "de": "Eines der vielen Quartiere der Angel-Flotte.",
+    "en": "One of the many quarters of the Angel fleet.",
+    "es": "Una de las muchas sedes de la flota de los Ángeles.",
+    "fr": "Un des nombreux quartiers de la flotte des Angel.",
+    "ja": "エンジェルフリートの数多い兵舎の一つ。",
+    "ko": "엔젤 카르텔이 보유한 수많은 기지 중 한 곳입니다.",
+    "ru": "Одно из сооружений флота Angel.",
+    "zh": "天使集团舰队的众多据点之一。"
+  },
+  "graphicID": 2357,
+  "groupID": 495,
   "name": {
     "de": "Angel Fleet Outpost",
     "en": "Angel Fleet Outpost",
@@ -10,5 +21,10 @@
     "ru": "Angel Fleet Outpost",
     "zh": "天使舰队哨站"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 6185.0,
+  "sofFactionName": "angelbase",
+  "soundID": 20191
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 28234,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Verstärkter Treibstoffentsorgungsplatz.",
+    "en": "Reinforced Fuel Dump",
+    "es": "Vertedero de combustible reforzado.",
+    "fr": "Dépôt de carburant renforcé.",
+    "ja": "強化型燃料ダンプ",
+    "ko": "강화된 연료 폐기장입니다.",
+    "ru": "Reinforced Fuel Dump",
+    "zh": "加强型燃料堆放箱"
+  },
+  "graphicID": 2706,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Fuel Fump_event",
     "en": "Fuel Fump_event",
@@ -10,5 +23,9 @@
     "ru": "Fuel Fump_event",
     "zh": "燃料堆放箱_事件"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 560.0,
+  "sofFactionName": "genericmetal",
   "volume": 100000000.0
 }

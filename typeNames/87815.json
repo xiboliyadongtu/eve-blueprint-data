@@ -1,5 +1,19 @@
 {
-  "typeID": 87815,
+  "basePrice": 100000000.0,
+  "description": {
+    "de": "Dieser Generator erzeugt systemweite Effekte, die denen in Gamma-Umgebungen der Raumverwerfung des Abgrunds ähneln. Alle Schiffe im System: +5 % Schild-HP, +5 % Effektivität lokaler Schildbooster, +10 % Energiespeicherkapazität",
+    "en": "This generator produces system-wide effects similar to those encountered in Gamma environments within Abyssal Deadspace.\r\n\r\nAll ships in system: +5% Shield HP, +5% Local Shield Booster Effectiveness, +10% Capacitor capacity",
+    "es": "Este generador produce efectos a nivel del sistema similares a los que se encuentran en entornos gamma dentro del espacio muerto abisal.\r\n\r\nTodas las naves en el sistema: +5 % a los PV de escudo, +5 % a la eficacia del potenciador de escudo local, +10 % a la capacidad del condensador.",
+    "fr": "Ce générateur produit des effets à l'échelle du système similaires à ceux rencontrés dans les environnements gamma de l'abîme Deadspace. Tous les vaisseaux du système : +5 % de PV de bouclier, +5 % d'efficacité du booster de bouclier local, +10 % de charge du capaciteur",
+    "ja": "このジェネレーターは、アビサルデッドスペースのガンマタイプ環境と似た効果をシステム全域に発生させる。\r\n\r\nシステム内の全艦船：シールドHP+5%、ローカルシールドブースターの効果+5%、キャパシタ容量+10%",
+    "ko": "어비설 데드스페이스 감마 환경에서 볼 수 있는 성계 전체에 영향을 미치는 효과를 생성합니다.\r\n\r\n성계 내 함선에 적용되는 효과: 실드량 5% 증가, 실드 부스터 효과 5% 증가, 캐패시터 용량 10% 증가",
+    "ru": "Этот генератор создаёт эффекты, похожие на те, что встречаются в зонах гамма-излучения на просторах Мёртвой бездны. Эффекты охватывают всю систему. Все корабли в системе: +5% к прочности щитов, +5% к эффективности бортового модуля накачки щитов, +10% к ёмкости накопителя",
+    "zh": "该生成器可作用于整个星系，类似于你在深渊空间伽玛环境中遇到的效果。星系内所有舰船：护盾值+5%，自身护盾回充增量器效果+5%，电容器容量+10%"
+  },
+  "groupID": 4839,
+  "iconID": 26777,
+  "marketGroupID": 3741,
+  "mass": 1000.0,
   "name": {
     "de": "Gamma Stability Generator",
     "en": "Gamma Stability Generator",
@@ -10,5 +24,7 @@
     "ru": "Gamma Stability Generator",
     "zh": "伽玛稳定发生器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 10000.0
 }

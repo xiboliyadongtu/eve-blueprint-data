@@ -1,5 +1,17 @@
 {
-  "typeID": 2888,
+  "description": {
+    "de": "Dieses Gerät verwaltet Zeitstempel und ID-Verifizierung für Beschleunigungstore. Wenn dieses Teil fehlt oder beschädigt wurde, kann das Tor nicht aktiviert werden.",
+    "en": "This device handles timestamps and user ID validation for acceleration gates. If this part is missing or otherwise broke, the gate will refuse to activate.",
+    "es": "Este dispositivo gestiona las marcas temporales y la validación del ID de usuario en los portales de aceleración. Si falta esto o se avería, el portal no se activará.",
+    "fr": "Ce dispositif gère les estampilles et la validation de l'identité de l'utilisateur pour les portails d'accélération. Si cette partie est manquante ou inutilisable, le portail ne pourra pas être activé.",
+    "ja": "アクセラレーションゲートのタイムスタンプとユーザーIDの検証を処理する装置。この部品がなかったり、何らかの理由で壊れている場合、ゲートは起動しない。",
+    "ko": "액셀레이션 게이트의 신분증 확인 및 타임스탬프 기록을 위한 장치입니다. 이 부품이 없거나 고장난 경우 게이트가 활성화되지 않습니다.",
+    "ru": "Это устройство отвечает за проверку временных меток и идентификаторов пользователей для врат ускорения. Если оно отсутствует или неисправно, ворота невозможно будет активировать.",
+    "zh": "加速轨道采用该设备来验证用户身份及相应的时间戳。只要没有该设备或者它遭到了损坏，那加速轨道就不会启用。"
+  },
+  "groupID": 314,
+  "iconID": 2038,
+  "mass": 50.0,
   "name": {
     "de": "Acceleration Gate Authentication Matrix",
     "en": "Acceleration Gate Authentication Matrix",
@@ -10,5 +22,7 @@
     "ru": "Acceleration Gate Authentication Matrix",
     "zh": "加速轨道验证转码器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 3419,
+  "basePrice": 170000.0,
+  "description": {
+    "de": "Fertigkeit, die Schildsysteme eines Schiffs zu regulieren. 5 % Bonus auf die Schildkapazität je Skillstufe.",
+    "en": "Skill at regulating a spaceship's shield systems. 5% bonus to shield capacity per skill level.",
+    "es": "Habilidad de regular los sistemas de escudo de tu nave. 5 % de bonificación a la capacidad de los escudos por nivel de habilidad.",
+    "fr": "Compétence liée au contrôle des systèmes de bouclier d'un vaisseau spatial. Augmente de 5 % par niveau de compétence la capacité du bouclier.",
+    "ja": "宇宙船のシールドシステムを調整するスキル。スキルレベル上昇ごとにシールド容量が5%増加。",
+    "ko": "함선의 실드 시스템을 조정하기 위한 스킬입니다. 매 레벨마다 실드량 5% 증가",
+    "ru": "Навык регулирования рабочих параметров аппаратуры щитов корабля. За каждую степень освоения навыка: на 5% повышается запас прочности щитов.",
+    "zh": "调整舰船护盾系统的技能。每升一级，护盾量提高5%。"
+  },
+  "groupID": 1209,
+  "iconID": 33,
+  "marketGroupID": 1747,
   "name": {
     "de": "Shield Management",
     "en": "Shield Management",
@@ -10,5 +23,7 @@
     "ru": "Управление щитами",
     "zh": "护盾管理"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,70 @@
 {
-  "typeID": 585,
+  "basePrice": 400000.0,
+  "capacity": 120.0,
+  "description": {
+    "de": "Die Slasher ist preiswert, aber vielseitig. Sie wird in Massenproduktion hergestellt, was sie zu einem der am weitesten verbreiteten Schiffe im Hoheitsgebiet der Minmatar macht. Die Slasher ist extrem schnell, hat eine anständige Bewaffnung und ist bei angehenden Piraten und Schmugglern beliebt.",
+    "en": "The Slasher is cheap, but versatile. It's been manufactured en masse, making it one of the most common vessels in Minmatar space. The Slasher is extremely fast, with decent armaments, and is popular amongst budding pirates and smugglers.",
+    "es": "La Slasher es barata pero versátil. Se ha fabricado en masa, lo que la convierte en una de las naves más comunes del espacio minmatariano. La Slasher es extremadamente rápida, cuenta con un armamento decente y es popular entre los piratas y los contrabandistas en ciernes.",
+    "fr": "Le Slasher est bon marché et polyvalent. Il a fait l'objet d'une véritable production de masse. C'est pour cette raison que c'est un des vaisseaux les plus courants dans l'espace minmatar. Extrêmement rapide et bien armé, le Slasher est très populaire parmi les pirates et les contrebandiers débutants.",
+    "ja": "スラッシャーは安価でありながら用途が広い。大量製造されたため、ミンマター宙域で一般的に見られる船の一つである。卓越したスピードと並以上の火力を兼ね備えていることから、新進の海賊や密輸業者に人気が高い。",
+    "ko": "슬래셔는 저렴하지만 다양하게 활용할 수 있는 함선입니다. 대량으로 생산되었기 때문에 민마타 지역에서 가장 흔하게 볼 수 있는 함선 중 하나입니다. 슬래셔는 매우 빠르면서도 평균 이상의 무장을 탑재할 수 있어, 신참 해적이나 밀수업자들이 선호합니다.",
+    "ru": "«Слэшер» — дешевый и на удивление универсальный корабль. В пространстве Республики Минматар он встречается чуть ли не на каждом шагу, так как производят его в огромных объёмах. «Слэшер» способен передвигаться с очень большой скоростью и может быть оснащен неплохим набором оружейных систем; он пользуется особой популярностью у начинающих пиратов и контрабандистов.",
+    "zh": "伐木者级护卫舰虽然廉价，但却是个多面手。它被大规模生产，是米玛塔尔空间内最常见的舰船之一。伐木者级速度极快，武器装备也不错，因此在新手海盗和走私者中很流行。"
+  },
+  "factionID": 500002,
+  "graphicID": 44,
+  "groupID": 25,
+  "marketGroupID": 64,
+  "mass": 1075000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      150,
+      71,
+      141,
+      85,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      150,
+      71,
+      141,
+      85,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      150,
+      71,
+      141,
+      85,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      150,
+      71,
+      141,
+      85,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      150,
+      71,
+      141,
+      85,
+      118,
+      94
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Slasher",
     "en": "Slasher",
@@ -9,6 +74,65 @@
     "ko": "슬래셔",
     "ru": "Slasher",
     "zh": "伐木者级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 31.0,
+  "sofFactionName": "minmatarbase",
+  "soundID": 20078,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonus": 80,
+        "bonusText": {
+          "de": "Reduktion der Aktivierungskosten von <a href=showinfo:3435>Antriebsblockern</a>",
+          "en": "reduction in <a href=showinfo:3435>Propulsion Jamming</a> systems activation cost",
+          "es": "de reducción en el coste de activación de los sistemas <a href=showinfo:3435>perturbadores de propulsión</a>.",
+          "fr": "de réduction du coût d'activation des systèmes de <a href=showinfo:3435>brouillage de propulsion</a>",
+          "ja": "<a href=showinfo:3435>推進力ジャミング</a>システムの起動コストが軽減",
+          "ko": "<a href=showinfo:3435>추진기 재밍</a>시스템 활성화 비용 감소",
+          "ru": "сокращается потребление энергии <a href=showinfo:3435>средствами ограничения подвижности кораблей</a>",
+          "zh": "<a href=\"showinfo:3435\">推进抑制</a>系统启动消耗减少"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3329": [
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3302>kleinen Projektilgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3302>Small Projectile Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3302>torreta de proyectiles pequeña</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:3302>petites tourelles à projectiles</a>",
+            "ja": "<a href=showinfo:3302>小型プロジェクタイルタレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3302>소형 발사체 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон боеприпасов <a href=showinfo:3302>малых баллистических орудий</a>",
+            "zh": "<a href=\"showinfo:3302\">小型射弹炮台</a>伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Nachführungsgeschwindigkeit von <a href=showinfo:3302>kleinen Projektilgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3302>Small Projectile Turret</a> tracking speed",
+            "es": "de bonificación a la velocidad de rastreo de la <a href=showinfo:3302>torreta de proyectiles pequeña</a>.",
+            "fr": "de bonus à la vitesse de poursuite des <a href=showinfo:3302>petites tourelles à projectiles</a>",
+            "ja": "<a href=showinfo:3302>小型プロジェクタイルタレット</a>の追跡速度が上昇",
+            "ko": "<a href=showinfo:3302>소형 발사체 터렛</a> 트래킹 속도 증가",
+            "ru": "повышается скорость наводки на цель <a href=showinfo:3302>малых баллистических орудий</a>",
+            "zh": "<a href=\"showinfo:3302\">小型射弹炮台</a>跟踪速度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 17400.0
 }

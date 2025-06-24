@@ -1,5 +1,18 @@
 {
-  "typeID": 12196,
+  "basePrice": 500000.0,
+  "description": {
+    "de": "Spezialisierung auf die Aufbereitung von Metallschrott. Erhöht den Aufbereitungsertrag von Modulen, Schiffen und anderer verwertbarer Ausrüstung (allerdings nicht von Erz und Eis).\n\n2% Bonus auf den Aufbereitungsertrag von Schiffen und Modulen je Skillstufe.",
+    "en": "Specialization in Scrapmetal reprocessing. Increases reprocessing returns for modules, ships and other reprocessable equipment (but not ore and ice).\r\n\r\n2% bonus to ship and module reprocessing yield per skill level.",
+    "es": "Especialización en reprocesamiento de chatarra. Aumenta el rendimiento al reciclar módulos, naves y otros equipos reprocesables (excepto menas o hielo).\n\n2 % de bonificación al rendimiento de reprocesamiento de naves y módulos por nivel de habilidad.",
+    "fr": "Spécialisation dans le retraitement de la ferraille. Augmente les résultats de retraitement pour les modules, les vaisseaux et autres équipements recyclables (mais pas pour les minerais et la glace). \r\n\r\nRéduit de 2 % par niveau de compétence les déchets de retraitement des modules et des vaisseaux.",
+    "ja": "スクラップメタル再処理用。モジュール、艦船、その他の再処理可能な装備（鉱石およびアイスを除く）を再処理した際の生産性を向上させる。\n\t\t\nスクラップメタルおよびモジュールの再処理による生産物が、スキルレベル上昇ごとに2%増加。",
+    "ko": "고철 정제에 특화되었습니다. 광물 및 아이스를 제외한 모듈, 함선, 그리고 그 외 정제 가능한 장비의 정제 산출량이 증가합니다. <br><br>매 레벨마다 함선 및 모듈 정제 산출량 2% 증가",
+    "ru": "Специализированные методы переработки металлолома. Увеличивает количество материалов, получаемых в результате переработки модулей, кораблей и прочих предметов, могущих подлежать переработке, за исключением руд и льда.\n\n\n\nЗа каждую степень освоения навыка: на 2% увеличивается полезный выход ресурсов при переработке кораблей и модулей.",
+    "zh": "提炼废金属的专业技能。提高装备、舰船和其他可提炼设备（不包括矿石和冰矿）的提炼产出。\n\n每升一级，舰船和装备提炼产出提高2%。"
+  },
+  "groupID": 1218,
+  "iconID": 33,
+  "marketGroupID": 1323,
   "name": {
     "de": "Scrapmetal Processing",
     "en": "Scrapmetal Processing",
@@ -10,5 +23,7 @@
     "ru": "Переработка металлолома",
     "zh": "碎铁处理技术"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

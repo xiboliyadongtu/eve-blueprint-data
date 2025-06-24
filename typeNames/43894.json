@@ -1,5 +1,18 @@
 {
-  "typeID": 43894,
+  "description": {
+    "de": "Diese Schiffsmodifikation wurde dazu entwickelt, die Anzahl der Kommandostrahlmodule zu erhöhen, die in ein kommandofähiges Schiff ausgerüstet werden können.",
+    "en": "This ship modification is designed to increase the number of Command Burst modules that can be equipped to a command-capable ship.",
+    "es": "Esta modificación de nave está diseñada para aumentar la cantidad de módulos de estallido de mando que se puede equipar en una nave de mando.",
+    "fr": "Cette modification de vaisseau permet d'augmenter le nombre de salves de commandement qu'un vaisseau de commandement dédié peut équiper.",
+    "ja": "この改造を行うと、指揮艦に装備可能なコマンドバーストモジュールの数が増加する。",
+    "ko": "리그 장착 시 커맨드쉽이 설치할 수 있는 커맨드 버스트 모듈 숫자를 늘려줍니다.",
+    "ru": "Этот модификатор разработан с целью увеличить количество импульсных оптимизаторов, которыми может быть оснащён корабль, если он в принципе способен нести импульсные оптимизаторы.",
+    "zh": "这个飞船改装件增加装配至一艘舰船上的指挥脉冲波装备的数量。"
+  },
+  "groupID": 781,
+  "iconID": 3199,
+  "marketGroupID": 1222,
+  "mass": 200.0,
   "name": {
     "de": "Small Command Processor I",
     "en": "Small Command Processor I",
@@ -10,5 +23,8 @@
     "ru": "Small Command Processor I",
     "zh": "小型指挥处理器 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 100.0,
   "volume": 5.0
 }

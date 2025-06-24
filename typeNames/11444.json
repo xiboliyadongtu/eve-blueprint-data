@@ -1,5 +1,18 @@
 {
-  "typeID": 11444,
+  "basePrice": 15000000.0,
+  "description": {
+    "de": "Fähigkeit und Kenntnisse des Amarr-Raumschiffbaus. \n\nVerwendbar in der Erforschung von Amarr-Schiffen jeder Größenordnung.\n\nErmöglicht die Erforschung des Amarr-Raumschiffsbaus mit Hilfe eines Forschungsagenten. \n\nVoraussetzung für alle Forschungs- und Fertigungsaufträge mit entsprechenden Blaupausen. 1% Reduktion der Fertigungszeit je Skillstufe für alle Gegenstände, die den Skill \"Amarr Starship Engineering\" erfordern.",
+    "en": "Skill and knowledge of Amarr Starship Engineering. \r\n\r\nUsed in the research of Amarr Ships of all Sizes.\r\n\r\nAllows Amarr Starship Engineering research to be performed with the help of a research agent. \r\n\r\nNeeded for all research and manufacturing operations on related blueprints. 1% reduction in manufacturing time for all items requiring Amarr Starship Engineering per level.",
+    "es": "Habilidad y conocimiento de la ingeniería naval amarriana. \n\n\n\nSe usa en la investigación de naves amarrianas de todos los tamaños.\n\n\n\nPermite hacer investigaciones de la ingeniería naval amarriana con la ayuda de un agente de investigación. \n\n\n\nSe necesita para todas las operaciones de investigación y fabricación de planos relacionados. Reduce un 1 % el tiempo de fabricación de todos los objetos que requieran ingeniería naval amarriana por nivel.",
+    "fr": "Compétence liée à l'ingénierie des vaisseaux spatiaux amarr. \n\n\n\nCette compétence sert à la recherche industrielle dédiée aux vaisseaux amarr de toutes tailles.\n\n\n\nElle permet d'effectuer des recherches sur l'ingénierie des vaisseaux d'élite amarr avec l'aide d'un agent de recherche. \n\n\n\nNécessaire pour toutes les opérations de recherche et de fabrication des plans de construction connexes. Réduit de 1 % par niveau le temps de production de tous les objets exploitant l'ingénierie des vaisseaux spatiaux amarr.",
+    "ja": "アマー宇宙船工学のスキルと知識。 \r\n\n全てのサイズのアマー艦船に関する研究にのみ利用可能。\r\n\nリサーチエージェントの助けを借りてアマー宇宙船工学の研究を行うことができる。 \r\n\n関連するブループリントを用いる全ての研究および製造作業に必要。レベル上昇ごとにアマー宇宙船工学を必要とするすべてのアイテムの製造時間が1%削減。",
+    "ko": "아마르 함선 엔지니어링에 관한 스킬입니다. <br><br>아마르 함선에 관한 연구를 수행할 수 있습니다. <br><br>연구 에이전트의 도움을 받아 아마르 함선 엔지니어링에 관한 연구를 시행할 수 있습니다. 관련된 블루프린트가 사용되는 모든 연구 및 제조 과정에 필요한 스킬입니다. <br><br>매 레벨마다 아마르 함선 엔지니어링 스킬을 요구하는 모든 항목의 제조 시간 1% 감소",
+    "ru": "Знания и навыки в области конструирования кораблей производства Амаррской Империи. \n\n\n\nОбласть применения этого навыка ограничена научно-исследовательскими работами по проектам амаррских кораблей любого тоннажа.\n\n\n\nПозволяет проводить научно-исследовательские работы в области конструирования амаррских кораблей с помощью агента научно-исследовательского отдела. \n\n\n\nИспользуется для исследовательских и производственных операций по соответствующим чертежам. Приводит к экономии времени на прогон производства всех предметов, для производства которых необходим этот навык (на 1% за каждую степень освоения навыка).",
+    "zh": "关于艾玛星舰工程学的技能。 \n\n用于各种型号艾玛舰船的研究。\n\n可以在研究代理人的帮助下进行艾玛星舰工程学研究。 \n\n这是相关蓝图研究和制造的必需技能。每升一级，所有需要艾玛星舰工程学技能的物品的生产时间减少1%。"
+  },
+  "groupID": 270,
+  "iconID": 33,
+  "marketGroupID": 375,
   "name": {
     "de": "Amarr Starship Engineering",
     "en": "Amarr Starship Engineering",
@@ -10,5 +23,8 @@
     "ru": "Технологические основы амаррского кораблестроения",
     "zh": "艾玛星舰工程学"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 364605,
+  "basePrice": 787000.0,
+  "description": {
+    "de": "Skill in der Bedienung von Gallente-Wächterdropsuits. Schaltet den Zugriff auf Gallente-Wächterdropsuits frei. Standard ab Stufe 1, erweitert ab Stufe 3 und Prototypen ab Stufe 5. Wächterdropsuitbonus: 5% auf die Streuschadenresistenz pro Skillstufe. 5% Abzug auf die PG/CPU-Kosten von schweren Waffen pro Skillstufe. Gallente-Wächterdropsuitbonus: 3% auf die Panzerungsresistenz gegen Railgunwaffenhybriden. 2% auf die Panzerungsresistenz gegen Projektilwaffen.",
+    "en": "Skill at operating Gallente Sentinel dropsuits.\n\nUnlocks access to Gallente Sentinel dropsuits. Standard at lvl.1; advanced at lvl.3; prototype at lvl.5.\n\nSentinel Suit Bonus: 5% resistance to splash damage per level. 5% reduction to PG/CPU cost of heavy weapons per level.\nGallente Sentinel Bonus: \n3% armor resistance to hybrid - railgun weapons.\n2% armor resistance to projectile weapons.",
+    "es": "Habilidad de manejo de trajes de salto de centinela Gallente. Desbloquea el acceso a los trajes de salto de centinela Gallente: Estándar en el nivel 1, avanzados en el nivel 3 y prototipos en el nivel 5. Bonificación de traje de centinela: 5% a la resistencia a daños de explosiones por nivel. 5% de reducción al coste de RA/CPU de las armas pesadas por nivel. Bonificación de traje de centinela Gallente: 3% a la resistencia del blindaje contra armas gauss híbridas. 2% a la resistencia del blindaje contra armas de proyectiles.",
+    "fr": "Compétence permettant d'utiliser les combinaisons Sentinelle Gallente. Déverrouille l'accès aux combinaisons Sentinelle Gallente. Standard au niv.1 ; avancé au niv.3 ; prototype au niv.5. Bonus de combinaison Sentinelle : 5 % de résistance aux dommages collatéraux par niveau. 5 % de réduction d'utilisation de PG/CPU des armes lourdes par niveau. Bonus Sentinelle Gallente : 3 % de résistance du bouclier contre les armes hybrides à rails. 2 % de résistance du blindage contre les armes à projectiles.",
+    "it": "Abilità nell'utilizzo delle armature da sentinella Gallente. Sblocca l'accesso alle armature da sentinella Gallente. Standard al liv. 1; avanzate al liv. 3; prototipo al liv. 5. Bonus armatura da sentinella: 5% di resistenza al danno ad area per livello. 5% di riduzione all'utilizzo della rete energetica/CPU delle armi pesanti per livello. Bonus sentinella Gallente: 3% di resistenza in più della corazza alle armi ibride/a rotaia. 2% di resistenza in più della corazza alle armi che sparano proiettili.",
+    "ja": "ガレンテセンチネル降下スーツを扱うためのスキル。ガレンテセンチネル降下スーツが使用できるようになる。レベル1で標準型、レベル3で高性能、レベル5でプロトタイプ。センチネルスーツボーナス：レベル上昇ごとに、拡散ダメージに対する5％のレジスタンス。レベル上昇ごとに、重火器のPG/CPU消費量が5%減少する。ガレンテセンチネルボーナス：ハイブリッド - レールガン兵器に対する3%のアーマーレジスタンス。プロジェクタイル兵器に対して2%のアーマーレジスタンス。",
+    "ko": "갈란테 센티넬 강하슈트를 운용하기 위한 스킬입니다. <br><br>갈란테 센티넬 강하슈트를 잠금 해제합니다. 레벨 1 - 일반, 레벨 3 - 상급, 레벨 5 - 프로토타입 <br><br>센티넬 슈트 보너스: <br><br>매 레벨마다 받은 광역 피해 5% 감소 <br>매 레벨마다 중량 무기 PG/CPU 요구치 5% 감소 <br><br>갈란테 센티넬 보너스: <br><br>하이브리드 - 레일건 무기에 대한 장갑 저항력 3% 증가 <br>발사체 무기에 대한 장갑 저항력 2% 증가",
+    "ru": "Навык обращения с патрульными скафандрами Галленте. Позволяет использовать патрульные скафандры Галленте. Стандартные - на уровне 1; усовершенствованные - на уровне 3; прототипы - на уровне 5. Бонус патрульного скафандра: 5% к сопротивлению к урону по площади на уровень. 5% сокращение потребления ресурсов ЭС/ЦПУ для тяжелого оружия на каждый уровень. Бонус патрульного скафандра Галленте: 3% к сопротивлению брони к урону от гибридного рейлганового оружия. 2% к сопротивлению брони к урону от артиллерийского вооружения.",
+    "zh": "操作盖伦特哨兵作战服的技能。解锁盖伦特哨兵作战服。1级解锁标准版；3级解锁高级版；5级解锁原型版。哨兵套装加成：每升一级，溅射伤害抗性提升5%。每升一级，重型武器的PG/CPU成本降低5%。盖伦特哨兵加成：对混合磁轨炮的装甲抗性提升3%。对射弹武器的装甲抗性提升2%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Gallente-Wächterdropsuits",
     "en": "Gallente Sentinel Dropsuits",
@@ -11,5 +23,6 @@
     "ru": "Патрульные скафандры Галленте",
     "zh": "盖伦特哨兵作战服"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

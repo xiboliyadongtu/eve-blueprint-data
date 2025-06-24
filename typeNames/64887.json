@@ -1,5 +1,17 @@
 {
-  "typeID": 64887,
+  "description": {
+    "de": "Die Grenzsicherheitsaußenposten der Republic Fleet befinden sich unmittelbarer Nähe der wichtigsten Sprungtore entlang der Grenzen der Republik Minmatar. Diese Außenposten sind schwer bewaffnet und mit Schnelleingreiftruppen besetzt, um die Sicherheit der Republikgrenzen zu gewährleisten.",
+    "en": "Republic Fleet border security outposts have been placed in proximity to key stargates along the borders of the Minmatar Republic.\r\n\r\nThese outposts are heavily fortified and are garrisoned by rapid response forces ready to enforce the security of the Republic's borders.",
+    "es": "Hay puestos avanzados de seguridad fronterizos de la Flota de la República cerca de los portales estelares claves de todas las fronteras de la República Minmatar.\n\nEstos puestos avanzados están fuertemente fortificados y guarnecidos por fuerzas de respuesta rápida que garantizan la seguridad de las fronteras de la República.",
+    "fr": "Les avant-postes de sécurité frontalière de la Flotte de la République ont été placés à proximité des portails stellaires clés, aux limites de la République minmatar. Ces avant-postes lourdement fortifiés abritent une garnison de forces d'intervention rapide, veillant à la sécurité des frontières de la République.",
+    "ja": "共和国海軍の国境セキュリティアウトポストは、ミンマター共和国の国境沿いに存在する主要スターゲートの付近に設置されている。\n\nこういったアウトポストは重武装を備えている上、共和国国境の安全保障任務を遂行することができる即応部隊が駐留している。",
+    "ko": "공화국 함대 접경지 보안기지들은 민마타 공화국의 접경지와 가까운 주요 스타게이트 주변에 배치되어 있습니다.<br><br>보안기지 자체도 강력한 무장을 보유했으며 공화국 접경지에 문제가 발생했을 때 즉시 출동할 수 있는 부대가 상주하고 있습니다.",
+    "ru": "Вдоль границ Республики Минматар, рядом с важными звёздными вратами, расставлены защитные форпосты республиканского флота. В этих хорошо укреплённых сооружениях размещаются войска сил быстрого реагирования, охраняющие приграничную зону.",
+    "zh": "共和舰队边境安全哨站坐落在米玛塔尔共和国边境上关键星门的周围。\n\n\n\n这些哨站防御坚固，由快速反应部队守卫，时刻准备保护共和国边境的安全。"
+  },
+  "factionID": 500002,
+  "graphicID": 2758,
+  "groupID": 226,
   "name": {
     "de": "Minmatar Border Security Outpost",
     "en": "Minmatar Border Security Outpost",
@@ -10,5 +22,9 @@
     "ru": "Minmatar Border Security Outpost",
     "zh": "米玛塔尔边境安全哨站"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 918.0,
+  "sofFactionName": "minmatarbase"
 }

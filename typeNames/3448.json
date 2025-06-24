@@ -1,5 +1,17 @@
 {
-  "typeID": 3448,
+  "basePrice": 100000.0,
+  "description": {
+    "de": "Fertigkeit, sich unauffällig zu verhalten und unerwünschte Aufmerksamkeit zu vermeiden.\r\n\r\nMit jeder Skillstufe -10% Chance beim Transport von Schmuggelware gescannt zu werden (Basischance: 90%).",
+    "en": "Proficiency at laying low and avoiding unwanted attention. From a base of 90%, each level of skill reduces by 10% the likelihood of being scanned while transporting contraband.",
+    "es": "Capacidad de no llamar la atención y de que nadie se fije en ti. Partiendo de una base del 90 %, cada nivel de habilidad reduce un 10 % la probabilidad de que te escaneen mientras transportas contrabando.",
+    "fr": "Compétence permettant de faire profil bas et de ne pas attirer l'attention. À partir d'une base de 90 %, chaque niveau de compétence réduit de 10 % la probabilité de faire l'objet d'un scan alors que vous transportez des marchandises de contrebande.",
+    "ja": "目立たないようにして余計な注意を引かない能力。密輸品を運んでいる最中にチェックされる可能性がスキルレベル上昇ごとに基本値の 90% から 10% ずつ低下する。",
+    "ko": "불필요한 시선과 관심을 끌지 않기 위한 스킬입니다. 매 레벨마다 밀수품 운반 시 스캔 당할 확률 10% 감소 (기본 90%)",
+    "ru": "Умение залегать на дно и избегать ненужного внимания. За каждую степень освоения навыка: на 10% уменьшается вероятность быть просканированным в поисках контрабанды (базовая вероятность составляет 90%).",
+    "zh": "保持低调和避免不必要关注的技能。每升一级，运输违禁品被扫描的几率降低10%。初始几率为90%。"
+  },
+  "groupID": 274,
+  "iconID": 33,
   "name": {
     "de": "Smuggling",
     "en": "Smuggling",
@@ -10,5 +22,7 @@
     "ru": "Контрабанда",
     "zh": "走私运输学"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

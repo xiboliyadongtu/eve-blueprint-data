@@ -1,5 +1,17 @@
 {
-  "typeID": 2853,
+  "description": {
+    "de": "Diese Schiffsteile sind alt, funktionieren aber noch.",
+    "en": "These ship parts are old but functional.",
+    "es": "Estas piezas de nave son antiguas, pero funcionales.",
+    "fr": "Ces pièces de vaisseau sont vieilles mais fonctionnent encore.",
+    "ja": "これらの船の部品は古いがまだ使える。",
+    "ko": "낡은 함선 부품으로 아직 작동은 됩니다.",
+    "ru": "Это старые, но еще действующие корабельные компоненты.",
+    "zh": "这些舰船部件虽然旧了但还能用。"
+  },
+  "groupID": 314,
+  "iconID": 3265,
+  "mass": 10.0,
   "name": {
     "de": "Salvaged Electronics",
     "en": "Salvaged Electronics",
@@ -10,5 +22,7 @@
     "ru": "Salvaged Electronics",
     "zh": "回收的电子元件"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 20.0
 }

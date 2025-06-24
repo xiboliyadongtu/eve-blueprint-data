@@ -1,5 +1,17 @@
 {
-  "typeID": 26455,
+  "description": {
+    "de": "Dieser Zugangsschlüssel ermöglicht dem Inhaber das Betreten des Verwaltungsareals dieses Komplexes.",
+    "en": "This passkey allows the bearer to enter the Administration Area of this complex.",
+    "es": "Esta clave de paso permite que el portador entre en la zona de administración de este complejo.",
+    "fr": "Cette carte d'accès permet d'entrer dans la zone administrative de ce complexe.",
+    "ja": "この複合施設の行政エリアに入るためのキーカード。",
+    "ko": "해당 출입키를 사용하면 행정 구역으로 진입할 수 있습니다.",
+    "ru": "Этот ключ позволяет пройти в Административную зону этого комплекса.",
+    "zh": "这个通行密匙允许携带者进入这个复合体的管控区域。"
+  },
+  "groupID": 474,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Administrative Key",
     "en": "Administrative Key",
@@ -10,5 +22,7 @@
     "ru": "Administrative Key",
     "zh": "管理密匙"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

@@ -1,5 +1,19 @@
 {
-  "typeID": 34251,
+  "basePrice": 103750000.0,
+  "capacity": 600.0,
+  "description": {
+    "de": "Die Tempest ist eines der Schlüssel-Schiffe der Republic Fleet. Sie ist ein vielseitiges Kampfschiff, gut geeignet für weitreichendes Bombardement und in der Lage, spezialisierte Arten von Schaden mit großer Effektivität zu verursachen. Eine ausgewogene Tempest-Staffel hat sich immer wieder als unschätzbarer Joker in Flottengefechten bewährt, den Gegner nur auf eigene Gefahr ignorieren sollten.",
+    "en": "The Tempest is one of the Republic Fleet's key vessels; a versatile gunship proficient at long-range bombardment and capable of dishing out specialized types of damage with great effectiveness. A well-rounded squadron of Tempests has been proven time and time again to be an invaluable wild card in a fleet battle, one which opponents should ignore at their own peril.",
+    "es": "La Tempest es una de las naves principales de la Flota de la República, una cañonera versátil y competente en el bombardeo a gran distancia, capaz de producir tipos especializados de daño con gran efectividad. Se ha demostrado en repetidas ocasiones que un escuadrón de naves Tempest es un comodín valioso en una batalla de flotas, uno que sus enemigos no deberían ignorar.",
+    "fr": "Le vaisseau Tempest est un des vaisseaux les plus importants de la flotte de la République. Cet engin de combat polyvalent, expert dans les bombardements à longue portée, est capable d'infliger différents types de dégâts spécifiques d'une rare violence. Une formation de Tempests bien organisée s'est révélée à maintes reprises être un atout précieux dans les batailles de flottes, une donnée que l'on n'ignore pas sans risque.",
+    "ja": "テンペストは共和国フリートの主要艦艇の一つで、長距離砲撃を得意とし、特定のタイプのダメージを極めて効率よく与える能力を持つ多目的武装船である。テンペストの多目的小隊は、フリート戦において無視すれば命取りとなる貴重なワイルドカードとして、利用価値を何度となく証明してきた。",
+    "ko": "템페스트는 다양한 무기 체계를 탑재할 수 있는 민마타의 핵심 함선으로 뛰어난 범용성과 강력한 장거리 포격 능력을 보유하고 있습니다. 중무장된 템페스트 중대는 함대전 시 와일드카드의 역할을 담당하며 변칙적인 상황을 만들어 적 함대의 방심을 유도합니다.",
+    "ru": "«Темпест» — основа флота Республики Минматар. Это универсальный тяжеловооружённый корабль, предназначенный для работы на больших дистанциях; пилот «темпеста» в силах эффективно донести поражающее действие необходимых по ситуации боеприпасов. Хорошо укомплектованная эскадра «темпестов» неоднократно становилась решающим козырем, определяющим исход флотового сражения.",
+    "zh": "狂暴级战列舰是共和舰队的重要舰船之一。作为多用途的武装炮舰，它擅长远程炮击，并且能有效造成特种伤害。实践一次次证明，一支实力全面的狂暴级飞船中队是个在舰队战中可以翻盘的不确定因素，如果对手忽视它们，将使自己陷入极其危险的境地。"
+  },
+  "graphicID": 20948,
+  "groupID": 27,
+  "mass": 99500000.0,
   "name": {
     "de": "Tempest Nefantar Edition",
     "en": "Tempest Nefantar Edition",
@@ -9,6 +23,47 @@
     "ko": "템페스트 네판타르 에디션",
     "ru": "Tempest Nefantar Edition",
     "zh": "狂暴级内凡达版"
+  },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 250.0,
+  "sofFactionName": "nefantar",
+  "traits": {
+    "types": {
+      "3337": [
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die Feuerrate von <a href=showinfo:3308>großen Projektilgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3308>Large Projectile Turret</a> rate of fire",
+            "es": "de bonificación a la cadencia de tiro de la <a href=showinfo:3308>torreta de proyectiles grande</a>.",
+            "fr": "de bonus à la cadence de poursuite de la <a href=showinfo:3308>grande tourelle à projectiles</a>",
+            "ja": "<a href=showinfo:3308>大型プロジェクタイルタレット</a>の発射間隔が短縮",
+            "ko": "<a href=showinfo:3308>대형 발사체 터렛</a> 연사속도 증가",
+            "ru": "повышается скорострельность <a href=showinfo:3308>больших баллистических орудий</a>",
+            "zh": "<a href=showinfo:3308>大型射弹炮台</a>射速加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3308>großen Projektilgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3308>Large Projectile Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3308>torreta de proyectiles grande</a>.",
+            "fr": "de bonus aux dégâts de la <a href=showinfo:3308>grande tourelle à projectiles</a>",
+            "ja": "<a href=showinfo:3308>大型プロジェクタイルタレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3308>대형 발사체 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон боеприпасов <a href=showinfo:3308>больших баллистических орудий</a>",
+            "zh": "<a href=showinfo:3308>大型射弹炮台</a>伤害加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 450000.0
 }

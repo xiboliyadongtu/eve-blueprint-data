@@ -1,5 +1,18 @@
 {
-  "typeID": 1855,
+  "description": {
+    "de": "Scannt das Zielschiff und erstellt eine taktische Analyse von dessen Fähigkeiten.",
+    "en": "Scans the target ship and provides a tactical analysis of its capabilities. The further it goes beyond scan range, the more inaccurate its results will be.",
+    "es": "Escanea la nave objetivo y proporciona un análisis táctico de sus capacidades. Cuanto más se aleje del alcance de escaneo, más imprecisos serán los resultados.",
+    "fr": "Scanne le vaisseau cible et fournit une analyse tactique de ses capacités. Plus le vaisseau est loin de la portée du balayage, plus les résultats seront approximatifs.",
+    "ja": "ターゲットした艦船の戦闘能力を解析する。スキャン範囲を越えると、分析結果の精度が低下する。",
+    "ko": "대상 함선을 스캔하여 함선에 대한 세부적인 정보를 제공합니다. 스캔 범위에서 벗어날수록 결과도 부정확할 가능성이 높아집니다.",
+    "ru": "Данный модуль предназначен для анализа конструкции корабля-цели и оценки его тактико-технических характеристик. Если цель находится за пределами оптимальной дальности действия сканера, то отображаемая им информация будет менее точной.",
+    "zh": "扫描目标舰船，并对其能力做出战术分析。目标超出扫描范围越远，扫描结果就越不精确。"
+  },
+  "groupID": 48,
+  "iconID": 107,
+  "marketGroupID": 713,
+  "metaGroupID": 2,
   "name": {
     "de": "Ship Scanner II",
     "en": "Ship Scanner II",
@@ -10,5 +23,8 @@
     "ru": "Ship Scanner II",
     "zh": "船体扫描器 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 443,
   "volume": 5.0
 }

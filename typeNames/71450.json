@@ -1,5 +1,18 @@
 {
-  "typeID": 71450,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Die Caldari verwenden bei ihrer Sprungtor-Konstruktion die von der Caldari-Weltraumindustrie bevorzugten Methoden und Materialien, aber im Grunde basieren sie auf derselben Technologie wie alle anderen Sprungtore auch.",
+    "en": "Caldari State stargate construction uses the preferred methods and materials of Caldari space industry but fundamentally uses the same core technology as all standard stargates.",
+    "es": "La construcción del portal estelar del Estado Caldari utiliza los métodos y materiales preferidos de la industria espacial caldari, pero fundamentalmente emplea la misma tecnología básica que todos los portales estelares estándar.",
+    "fr": "Les méthodes et matériaux de l'espace industriel caldari sont privilégiés pour la construction du portail stellaire de l'État caldari, bien que les technologies centrales utilisées soient fondamentalement les mêmes que pour tous les portails stellaires standards.",
+    "ja": "カルダリ連合スターゲート建設サイトでは、カルダリの宇宙産業で推奨されている手法と資源を採用しているが、根本的な部分では通常のスターゲートと同じ中核技術が使われている。",
+    "ko": "칼다리 연합 스타게이트는 칼다리 우주 산업의 권장 건설 방식과 자재를 사용합니다. 하지만 근원이 되는 기술은 다른 일반 스타게이트와 같습니다.",
+    "ru": "При возведении звёздных врат калдарцы отдают предпочтение методам и материалам, широко применяемым в промышленности их государства, однако ключевых технологий и стандартов строительства эти изменения не касаются.",
+    "zh": "加达里合众国星门建造使用了一部分加达里工业体系的建设方式和材料，但核心技术还是依托于标准化星门的通用技术。"
+  },
+  "graphicID": 25530,
+  "groupID": 226,
+  "mass": 1e+35,
   "name": {
     "de": "Caldari State Stargate Construction",
     "en": "Caldari State Stargate Construction",
@@ -10,5 +23,10 @@
     "ru": "Caldari State Stargate Construction",
     "zh": "加达里合众国星门建造"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 4706.0,
+  "sofFactionName": "caldaribase",
   "volume": 100000000.0
 }

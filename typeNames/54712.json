@@ -1,5 +1,16 @@
 {
-  "typeID": 54712,
+  "description": {
+    "de": "Die Überreste eines zerstörten Schlachtschiffs der Leshak-Klasse.",
+    "en": "The remains of a destroyed Leshak-class battleship.",
+    "es": "Los restos de un acorazado de clase Leshak destruido.",
+    "fr": "Une épave de cuirassé de classe Leshak détruit.",
+    "ja": "破壊されたレシャククラス戦艦の残骸。",
+    "ko": "레샤크급 배틀쉽의 잔해입니다.",
+    "ru": "Обломки уничтоженного линкора класса «Леший».",
+    "zh": "一艘勒沙克级战列舰被摧毁后的残骸。"
+  },
+  "graphicID": 22206,
+  "groupID": 226,
   "name": {
     "de": "Triglavian Battleship Wreckage",
     "en": "Triglavian Battleship Wreckage",
@@ -10,5 +21,9 @@
     "ru": "Triglavian Battleship Wreckage",
     "zh": "三神裔战列舰残骸"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 400.0,
+  "sofFactionName": "triglavianbase"
 }

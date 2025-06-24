@@ -1,5 +1,16 @@
 {
-  "typeID": 73263,
+  "description": {
+    "de": "Dieser kleine Erz-Cluster wurde von Scannern der Föderation der Gallente geortet und offengelegt. Er enthält seltenes dichtes Moissanit-Erz, das dem Sprungtor-Bauprojekt der Föderation in <url=showinfo:5//30003856>Athounon</url> von Nutzen sein kann.",
+    "en": "This small ore cluster has been detected and revealed by Gallente Federation scanners and contains rare Dense Moissanite ore that can assist the Federation stargate construction project in <url=showinfo:5//30003856>Athounon</url>.",
+    "es": "Los escáneres de la Federación Gallente han detectado y revelado este pequeño cúmulo de menas que contiene moissanita densa poco común, que puede ayudar al proyecto de construcción del portal estelar de la Federación en <url=showinfo:5//30003856>Athounon</url>.",
+    "fr": "Ce gisement de taille modeste, découvert par les scanners de la Fédération gallente, recèle le rare minerai de moissanite dense. C'est un atout précieux pour le projet de construction de portail stellaire de la Fédération dans le système <url=showinfo:5//30003856>Athounon</url>.",
+    "ja": "この小規模な鉱石群はガレンテ連邦のスキャナーにより発見、特定されたもので、<url=showinfo:5//30003856>アソウノン</url>で進められている連邦のスターゲート建設プロジェクトの役に立つ希少な高密度モアサナイト鉱石を含んでいる。",
+    "ko": "갈란테 연방이 찾아낸 광물 클러스터입니다. 희귀한 응축 모이사나이트가 함유된 광물로 갈란테 연방 <url=showinfo:5//30003856>아토논</url> 스타게이트 건설에 필요한 자원입니다.",
+    "ru": "Это скромное месторождение было обнаружено сканерами Галлентской Федерации. Оно является источником плотного муассанита — редкой руды, которая поможет галлентам успешно завершить проект по строительству звёздных врат в системе <url=showinfo:5//30003856>Athounon</url>.",
+    "zh": "这个小型矿带是被盖伦特联邦的扫描器探测出来的，其所含的厚质碳硅石可以用于盖伦特在<url=showinfo:5//30003856>埃托伦</url>星系的星门建造工程。"
+  },
+  "graphicID": 1211,
+  "groupID": 310,
   "name": {
     "de": "Strategischer Moissanit-Cluster der Föderation",
     "en": "Federal Strategic Moissanite Cluster",
@@ -10,5 +21,8 @@
     "ru": "Галлентский стратегический запас муассанита",
     "zh": "联邦战略军需处碳硅石带"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "sofFactionName": "genericbase"
 }

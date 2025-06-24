@@ -1,5 +1,18 @@
 {
-  "typeID": 42687,
+  "capacity": 27500.0,
+  "description": {
+    "de": "Dieses SOE-Schlachtschiff wurde irreparabel geschädigt. Es gibt keine Lebenszeichen an Bord.",
+    "en": "This SOE battleship has been destroyed beyond repair. No life signs are present on board.",
+    "es": "Este acorazado de SOE ha sido destruido sin posibilidad de reparación. No se detectan señales de vida a bordo.",
+    "fr": "Ce cuirassé SOE a subi des dégâts irréversibles. Aucun signe de vie n'apparaît à bord.",
+    "ja": "このSOE戦艦は修復不能なまでに破壊されています。艦内に生命の気配はありません。",
+    "ko": "SOE 배틀쉽이 수리가 불가능할 정도로 완전히 파괴되었습니다. 생명체 반응 또한 감지되지 않습니다.",
+    "ru": "Этот линкор Сестёр-служительниц «Евы» уничтожен и не подлежит восстановлению. На его борту нет признаков жизни.",
+    "zh": "这艘姐妹会战列舰被摧毁了， 已经无法修理。船上已经没有生命迹象。"
+  },
+  "graphicID": 21397,
+  "groupID": 226,
+  "mass": 10000.0,
   "name": {
     "de": "Nestor Battleship Wreck",
     "en": "Nestor Battleship Wreck",
@@ -10,5 +23,9 @@
     "ru": "Nestor Battleship Wreck",
     "zh": "涅斯托级战列舰残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 100.0,
+  "sofFactionName": "soebase",
   "volume": 27500.0
 }

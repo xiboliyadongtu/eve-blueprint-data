@@ -1,5 +1,18 @@
 {
-  "typeID": 47490,
+  "description": {
+    "de": "Das Design dieser Sleeper-Drohne ist anders als alles, was man bis zu diesem Zeitpunkt je gesehen hat. Die Drohne erkundet Gebiete mit einer mechanischen Gleichgültigkeit ihrer monotonen Aufgabe gegenüber und führt jedes Manöver mit fehlerfreier, gedankenloser Präzision aus. Diese Sleeper-Drohne ist Teil einer Truppe, die mit Seeker-Spähergruppen zusammenarbeitet, und verfügt über gute Verteidigung gegen Thermalschaden.",
+    "en": "The design of this Sleeper drone is unlike anything that has been seen to date. The drone explores with a mechanical indifference to the monotony of its task, executing each new maneuver with a flawless, unthinking precision.\r\n\r\nThis Sleeper drone is part of a force operating with Seeker scouting groups and has good defenses against thermal damage.",
+    "es": "El diseño de este dron sleeper no se parece a nada que se haya visto hasta la fecha. El dron explora con mecánica indiferencia a la monotonía de su tarea, ejecutando cada nueva maniobra con una precisión impecable e irreflexiva.\n\nEste dron sleeper forma parte de una fuerza que opera con grupos de exploración seekers y tiene buenas defensas frente al daño térmico.",
+    "fr": "Le design de ce drone sleeper ne ressemble à rien de ce que l'on peut rencontrer aujourd'hui. Le drone continue son exploration dans l'indifférence mécanique due à la monotonie de sa mission, exécutant chaque nouvelle manœuvre avec une précision infaillible d'automate. Ce drone sleeper disposant de bonnes défenses contre les dégâts thermiques fait partie d'une force opérant de concert avec des groupes d'éclaireurs Seeker.",
+    "ja": "このスリーパードローンの設計は今までに見たことがない。本機は機械的な無関心さのまま単調な仕事に精を出し、何も顧みない完璧な正確性で新たな作戦を次々と実行している。\r\n\nこのスリーパードローンは、シーカーの偵察部隊と共に行動する戦力の一部であり、サーマルダメージに対する抵抗力がかなり強化されている。",
+    "ko": "한번도 본 적 없는 기묘한 형태의 슬리퍼 드론입니다. 드론은 자신에게 주어진 단순한 임무를 기계적인 정밀성을 바탕으로 수행해 나가고 있습니다. <br><br>열 피해에 대한 뛰어난 저항력을 지녔으며 시커 무리와 함께 발견되고 있습니다.",
+    "ru": "Конструкция этого беспилотника Спящих не похожа ни на что из виденного нами ранее. Беспилотник выполняет свои задачи с безупречной автоматической точностью, безразличный к тому, насколько они монотонны. Такие беспилотники Спящих входят в состав разведывательных отрядов Искателей и обладают хорошей защитой от термального урона.",
+    "zh": "这个冬眠者无人机和目前为止见到过的都不一样。它完全是机械化地执行单调的任务，每一个操作都精准无比。\n\n\n\n这个冬眠者无人机是探寻者侦查小队的一员，对热能伤害有很高抗性。"
+  },
+  "factionID": 500021,
+  "graphicID": 20978,
+  "groupID": 1768,
+  "mass": 2000000.0,
   "name": {
     "de": "Seeker Flare",
     "en": "Seeker Flare",
@@ -10,5 +23,10 @@
     "ru": "Seeker Flare",
     "zh": "探寻者 闪光"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 64,
+  "radius": 50.0,
+  "sofFactionName": "sleeperbase",
+  "soundID": 12
 }

@@ -1,5 +1,19 @@
 {
-  "typeID": 614,
+  "capacity": 180.0,
+  "description": {
+    "de": "Die Fury ist eine schnelle und vielseitig einsetzbare Fregatte. Ihre Primärfunktion sind Festhaltemanöver, bei denen sie auf dichtem Raum die Gegner des Angel Cartels festnagelt. Zusätzlich fährt sie mit einer angemessenen Bewaffnung aus und ist selten allein.",
+    "en": "The Fury is a fast and versatile frigate. Its primary role is as a tackler, getting in close and holding down the enemies of the Angel Cartel. It backs up this with decent armaments and is rarely alone.",
+    "es": "La Fury es una fragata rápida y versátil. Actúa como un interceptor que mantiene a raya a los enemigos del Cártel de los Ángeles. Está equipada con un arsenal bastante decente y suele ir acompañada.",
+    "fr": "Le Fury est une frégate rapide et versatile. Ce tacleur spécialisé s'infiltre en orbite rapprochée pour immobiliser les ennemis du Cartel. Son armement honorable lui permet d'entamer l'intégrité des coques hostiles en attendant le soutien d'une flotte angel.",
+    "ja": "フューリーは速度が出る万能型フリゲートだ。エンジェルカルテルにより、主にタックルのポジションとして敵の近距離に潜り込み、敵の侵攻を食い止める際に利用されている。並以上の兵器を装備しており、単独で行動することは稀である。",
+    "ko": "퓨리는 신속한 기동력을 보유한 전천후 프리깃입니다. 적의 기동을 방해하는 역할을 담당하며 적에게 접근 후 움직임을 제한합니다. 퓨리는 강력한 무기 체계를 보유하고 있으며 대다수의 경우 편대로 운용됩니다.",
+    "ru": "«Фьюри» — быстрый и многофункциональный фрегат. Его основная задача — быть кораблём перехвата, среди первых входящим в огневой контакт и фиксирующим врагов «Картеля ангелов». В выполнении задачи ему помогают эффективные оружейные системы; в одиночестве «Фьюри» встречается редко.",
+    "zh": "女神级是一艘快速而灵活的护卫舰。它的主要职能是作为拦截者，贴近天使集团的敌人并使其无法逃脱。它的武器系统相当强大，而且多是成群结队出现。"
+  },
+  "factionID": 500002,
+  "graphicID": 340,
+  "groupID": 25,
+  "mass": 1200000.0,
   "name": {
     "de": "Fury",
     "en": "Fury",
@@ -10,5 +24,11 @@
     "ru": "Fury",
     "zh": "女神级"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 29.96,
+  "sofFactionName": "angelbase",
+  "soundID": 20078,
   "volume": 26000.0
 }

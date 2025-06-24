@@ -1,5 +1,18 @@
 {
-  "typeID": 34390,
+  "basePrice": 1000000.0,
+  "description": {
+    "de": "Skill zur Bedienung von taktischen Amarr-Zerstörern.",
+    "en": "Skill at operating Amarr Tactical Destroyers.",
+    "es": "Habilidad en el manejo de destructores tácticos amarrianos.",
+    "fr": "Compétence liée au pilotage des destroyers amarr tactiques.",
+    "ja": "アマー戦術駆逐艦を操作するためのスキル。",
+    "ko": "아마르 전술 디스트로이어 운용을 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на эсминцах производства Амаррской Империи.",
+    "zh": "操作艾玛战术驱逐舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Amarr Tactical Destroyer",
     "en": "Amarr Tactical Destroyer",
@@ -10,5 +23,8 @@
     "ru": "Амаррские многорежимные эсминцы",
     "zh": "艾玛战术驱逐舰操作"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

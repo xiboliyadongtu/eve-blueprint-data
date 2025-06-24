@@ -1,5 +1,20 @@
 {
-  "typeID": 27576,
+  "basePrice": 2500000.0,
+  "description": {
+    "de": "Gibt ein schwaches Feld aus ionisierten Partikeln ab, um die Effektivität gegnerischer Sensoren zu stören. Wirkt besonders gut gegen magnetometrische Sensoren.",
+    "en": "Projects a low intensity field of ionized particles to disrupt the effectivenes of enemy sensors. Very effective against Magnetometric-based sensors.",
+    "es": "Proyecta un campo de baja intensidad de partículas ionizadas para inutilizar la eficacia de los sensores enemigos. Muy efectivo contra sensores magnetométricos.",
+    "fr": "Émet un champ de particules ionisées de faible intensité visant à perturber l'efficacité des détecteurs ennemis. Extrêmement efficace contre les détecteurs magnétométriques.",
+    "ja": "微力なイオン化粒子フィールドを生成して、敵のセンサーの効果を妨げる。磁力ベースのセンサーに対して非常に効果的。",
+    "ko": "이온 입자 필드를 방출하여 적 센서를 방해합니다. 자기장 기반 센서를 상대로 매우 효과적입니다.",
+    "ru": "Проецирует поле низкого напряжения из ионизированных частиц, нарушающее работу сенсоров корабля противника. Эта система очень эффективна против магнитометрических сенсоров.",
+    "zh": "产生一个低强度的电离微粒场来破坏敌方感应器的效力。对磁力感应器非常有效。"
+  },
+  "graphicID": 2613,
+  "groupID": 439,
+  "marketGroupID": 481,
+  "mass": 100000000.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Dread Guristas Ion Field Projection Battery",
     "en": "Dread Guristas Ion Field Projection Battery",
@@ -10,5 +25,10 @@
     "ru": "Dread Guristas Ion Field Projection Battery",
     "zh": "恐惧古斯塔斯离子力场投射台"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 629.0,
+  "sofFactionName": "genericbase",
+  "variationParentTypeID": 17174,
   "volume": 4000.0
 }

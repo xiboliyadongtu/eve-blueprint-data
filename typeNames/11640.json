@@ -1,5 +1,18 @@
 {
-  "typeID": 11640,
+  "description": {
+    "de": "Bei Aktivierung versucht dieses Modul, Schwankungen und Störungen im Warpkern des Schiffes auszugleichen. Als Nebeneffekt werden maximale Zielerfassungsreichweite, Scanauflösung und Drohnen-Bandbreite des Schiffs verringert, in dem dieses Modul ausgerüstet ist. Es kann immer nur ein Modul dieses Typs eingebaut werden.",
+    "en": "When activated this unit attempts to compensate for fluctuations and disruptions of the ship's warp core. As a side effect, the host ship's maximum targeting range, scan resolution and drone bandwidth are penalized while this module is fitted.\r\n\r\nOnly one of this module type can be fitted at a time.",
+    "es": "Al activarse, esta unidad intenta compensar las fluctuaciones e interrupciones del núcleo de warp de la nave. Como efecto secundario, la nave que lo equipa sufre una penalización en su distancia-objetivo máxima, en su resolución de escaneo y en el ancho de banda para drones.\r\n\r\nSolo se puede equipar un módulo de este tipo a la vez.",
+    "fr": "Lorsqu'elle est activée, cette unité tente de compenser les variations et les perturbations du réacteur de warp du vaisseau. Par effet secondaire, la portée de ciblage maximale du vaisseau hôte, sa résolution de balayage et sa bande passante de drone sont pénalisées tant que ce module est équipé. Un seul module de ce type peut être équipé à la fois.",
+    "ja": "このユニットは起動すると艦船のワープコアの変動を補正し、安定した状態を保とうとする。副作用として、このモジュールを装備している艦船の最大ターゲット範囲、スキャン分解能、そしてドローン帯域幅が低下する。\r\n\r\nこのタイプのモジュールを装備できるのは同時に1つのみ。",
+    "ko": "함선에 설치된 워프 코어의 각종 파장 및 방해 전파를 차단합니다. 해당 모듈을 장착하면 함선의 최대 타겟팅 범위, 스캔 정밀도, 드론 대역폭이 감소합니다.\r\n\r\n동일한 종류의 모듈을 하나만 장착할 수 있습니다.",
+    "ru": "При активации это устройство пытается компенсировать колебания и сбои в работе бортового варп-ядра. Однако корабль, на котором установлен такой модуль, получает штрафы к максимальной дальности наведения, разрешающей способности сенсоров и ширине канала управления дронами. Судно может быть оснащено только одним модулем такого типа.",
+    "zh": "该装置在激活后将尽力稳定舰船跃迁核心的波动与紊乱。副作用就是，装配这一装备后，主舰的最大锁定范围、扫描分辨率和无人机带宽都会降低。一艘舰船只能同时装配一个这种装备。"
+  },
+  "groupID": 315,
+  "iconID": 97,
+  "marketGroupID": 1088,
+  "metaGroupID": 2,
   "name": {
     "de": "Warp Core Stabilizer II",
     "en": "Warp Core Stabilizer II",
@@ -10,5 +23,8 @@
     "ru": "Warp Core Stabilizer II",
     "zh": "跃迁核心稳定器 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 10998,
   "volume": 5.0
 }

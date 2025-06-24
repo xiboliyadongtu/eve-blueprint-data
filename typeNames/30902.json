@@ -1,5 +1,18 @@
 {
-  "typeID": 30902,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieses Wrack eines Talocan-Schiffs treibt anmutig durchs All und sieht überraschend unbeschädigt aus. Auch in seinem derzeitigen nicht funktionstüchtigen, aufgegebenen Zustand macht dieser Embarkment Destroyer noch den Eindruck, als sei er genau dafür konstruiert worden, oder zumindest für das Überleben auf langen Wegstrecken durch unbekanntes All. Trotz seines inaktiven Status' sieht das Wrack noch stabil genug aus, um das Schiff möglicherweise wieder aufbauen zu können. Vielleicht stellt das Erscheinungsbild des Schiffes auch lediglich eine List dar; eine Falle, die vor langer Zeit von einer ausgestorbenen Zivilisation gelegt wurde. In jedem Fall ist Vorsicht geboten.",
+    "en": "This Talocan ship wreckage drifts in space with surprising grace and efficiency. Even completely offline and abandoned, the embarkment destroyer appears to have been created for just this function, or at least for survival across vast stretches of unknown space for extended periods of time. Despite its incapacitated status, the wreckage looks sturdy enough to be rebuilt; perhaps its appearance is merely a ruse, a trap set long ago by a dead civilization. Regardless, caution is recommended.",
+    "es": "Esta nave talocana destrozada va a la deriva en el espacio con una gracia y eficiencia sorprendentes. Incluso completamente desconectado y abandonado, el destructor de naves parece haber sido creado precisamente para eso, o al menos para sobrevivir en grandes extensiones de espacio desconocido durante largos periodos de tiempo. A pesar de estar fuera de servicio, los restos parecen lo suficientemente resistentes para poder ser reconstruidos. Tal vez su apariencia no sea más que una treta, una trampa tendida hace tiempo por una civilización muerta. En cualquier caso, se recomienda precaución.",
+    "fr": "Cette carcasse de vaisseau talocan dérive dans l'espace avec une grâce et une efficacité surprenantes. Même complètement hors service et abandonné, ce destroyer d'embarquement semble avoir été créé pour remplir ce rôle, ou du moins pour survivre pendant de longues périodes dans des parties inconnues de l'espace. En dépit de son inactivité, cette carcasse semble assez résistante pour être retapée. Son apparence n'est peut-être qu'un leurre, un piège mis en place il y a bien longtemps par une civilisation aujourd'hui disparue. Néanmoins, la prudence est de mise.",
+    "ja": "このタロカン船の残骸は、驚くべき優雅さと効率的な動きを保って宇宙空間を漂っている。完全に活動が停止して放置されているが、この乗船不可能な船はまさに現在の状態になることを予測して作られたか、それが言い過ぎならば長い年月をかけて未知の広大な宇宙空間を生き延びるために作られたように見える。機能することのない残骸ではあるが、修理に耐えるだけの強度は持っているようだ。この外見はもしかすると敵を欺くためのもので、今は絶滅した文明によってはるか昔に仕掛けられた罠が内部に存在するかもしれない。注意を怠ってはならない。",
+    "ko": "놀랍게도 이 탈로칸 함선 잔해는 온전한 채로 우주 속을 떠돌고 있었습니다. 임바크먼트 디스트로이어는 너무나도 완벽하게 꺼진 상태로 버려져 있어 마치 드넓은 우주를 장기간 동안 표류하기 위해 만들어진 함선처럼 보입니다. 비록 작동불능 상태에 있지만 잔해에 손상이 심하지 않아 수리 및 보수를 통해 본래의 모습을 되찾을 수 있을지도 모릅니다. 하지만 이러한 외관상의 모습은 멸망한 문명이 아주 오래전에 설치한 위장 또는 함정일지도 모릅니다. 접근하실 때 유의하시기 바랍니다.",
+    "ru": "Обломки этого корабля Talocan дрейфуют в космосе с поразительной легкостью и грацией. Даже обесточенный и заброшенный, эсминец выглядит совершенным орудием уничтожения или, по крайней мере, чем-то, созданным для вечного существования в бескрайних просторах космоса. Несмотря на повреждения, кажется, что этот корпус можно восстановить; возможно, его вид всего лишь обман, ловушка, созданная древней и уже давно мертвой цивилизацией. В любом случае рекомендуется соблюдать особую осторожность.",
+    "zh": "该塔洛迦驱逐舰残骸以一种令人觉得优美的姿态漂浮在太空中。它已经完全遭弃不能用了，也许当初造它的人就是想让它这样长年累月浪迹于宇宙吧。虽然这船已经没用了，但从其残骸的坚实度来看，好像还有再利用的可能。也许这就是个陷阱，是前人老早以前就设下的圈套。请小心为上。"
+  },
+  "graphicID": 3531,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Talocan Embarkment Destroyer",
     "en": "Talocan Embarkment Destroyer",
@@ -10,5 +23,9 @@
     "ru": "Talocan Embarkment Destroyer",
     "zh": "塔洛迦驱逐舰"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 150.0,
+  "sofFactionName": "talocanbase",
   "volume": 100000000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 16594,
+  "basePrice": 1500000.0,
+  "description": {
+    "de": "Fertigkeit zum Erteilen von Kaufaufträgen aus der Ferne. Stufe 1 ermöglicht Kaufaufträge innerhalb desselben Sonnensystems, Stufe 2 erhöht die Reichweite auf Systeme innerhalb von 5 Sprüngen und jede weitere Stufe verdoppelt die Reichweite. Stufe 5 erlaubt das Erteilen von Kaufaufträgen überall innerhalb der aktuellen Region. \n\n\n\nHinweis: Das Erteilen von Kaufaufträgen und der Direktkauf eines Artikels sind zwei verschiedene Dinge. Für Direktkäufe aus der Ferne wird kein Skill benötigt.",
+    "en": "Proficiency at placing remote buy orders on the market. Level 1 allows for the placement of orders within the same solar system, Level 2 extends that range to systems within 5 jumps, and each subsequent level then doubles it. Level 5 allows for placement of remote buy orders anywhere within current region.  \r\n\r\nNote: Placing buy orders and directly buying an item are not the same thing. Direct remote purchase requires no skill.",
+    "es": "Aptitudes para efectuar pedidos de compra remotos en el mercado. El nivel 1 permite realizar pedidos dentro del mismo sistema solar, el nivel 2 amplía el alcance a los sistemas situados en un radio de 5 saltos, y cada nivel posterior lo dobla. El nivel 5 aumenta el alcance a toda la región.\n\nAviso: Realizar un pedido no es lo mismo que comprar un artículo. La compra remota no requiere de habilidades específicas.",
+    "fr": "Maîtrise des ordres d'achat à distance sur le marché. Le niveau 1 permet de placer des ordres au cœur d'un même système solaire. Le niveau 2 étend les ordres d'achat à distance aux systèmes situés dans un rayon de 5 sauts, et chaque niveau suivant multiplie par deux leur portée maximale. Le niveau 5 permet de placer des ordres d'achat à distance à l'échelle régionale. Remarque : les ordres d'achat et les achats directs ne relèvent pas des mêmes compétences. Les achats directs à distance ne requièrent aucune compétence particulière.",
+    "ja": "遠隔地からマーケットに買い注文を出すための専門知識。レベル1では同じソーラーシステム内、レベル2では5ジャンプで移動できるソーラーシステムの範囲内で注文を行うことができ、以降はレベルが上がるたびにこの距離が倍になる。レベル5になれば、現在のリージョン内のどこへでも買い注文を出せるようになる。  \r\n\n注意: 買い注文を出すことと、直接アイテムを購入することは異なる。遠隔地のアイテムを直接購入する場合はスキルは不要。",
+    "ko": "거래소에서 원격 주문을 보다 효율적으로 운용하기 위한 스킬입니다. 레벨 1일 경우 동일한 항성계 내에서, 레벨 2일 경우 점프 5회 이내의 항성계 내에서 원격 주문이 가능합니다. 이후 원격 주문 가능 거리는 매 레벨마다 두 배로 증가합니다. 레벨 5는 동일한 지역 내의 어느 곳에서나 거래소 주문이 가능합니다. <br><br>참고: 주문과 구매는 서로 다릅니다. 직접적인 구매는 스킬을 요구하지 않습니다.",
+    "ru": "Навык дистанционного размещения ордеров на покупку в торговой системе. Первая степень позволяет размещать ордера на покупку в пределах той же планетной системы. Вторая степень увеличивает дальность охвата до 5 переходов через гиперворота, и при переходе на каждую последующую степень это расстояние удваивается. Пятая степень позволяет размещать закупочные ордера в любой точке данного сектора.  \n\n\n\nВнимание: Размещение ордеров на покупку и непосредственная покупка чего-либо — это не одно и то же. Для непосредственной покупки специальные навыки не требуются.",
+    "zh": "在市场上远程发布购买订单的技能。等级1允许在同一恒星系内发布购买订单，等级2扩大到5个跳跃内的星系，随后每个等级加倍。等级5时可以在当前星域内任何地方发布购买订单。  \n\n\n\n注意：发布购买订单和直接远程购买不同，直接远程购买不需要技能。"
+  },
+  "groupID": 274,
+  "iconID": 33,
+  "marketGroupID": 378,
   "name": {
     "de": "Procurement",
     "en": "Procurement",
@@ -10,5 +23,7 @@
     "ru": "Дистанционное размещение ордеров",
     "zh": "供给学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

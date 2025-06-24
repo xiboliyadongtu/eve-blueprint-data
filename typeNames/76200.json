@@ -1,5 +1,18 @@
 {
-  "typeID": 76200,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieses Forschungslabor hat seinen Schildverstärkungsmodus aufgebraucht und ist nun verwundbar. Darin befinden sich wahrscheinlich geheime Schiffswerfer-Forschungsdaten.",
+    "en": "This research laboratory has exhausted its shield reinforcement mode and is now vulnerable to attack. Secret Shipcaster-related research data can likely be found within.",
+    "es": "Este laboratorio de investigación ha agotado su modo de refuerzo de escudo y ahora es vulnerable a los ataques. Es probable que en su interior se encuentren datos de investigación secretos relacionados con los lanzadores interestelares.",
+    "fr": "Ce laboratoire de recherche a épuisé le mode de renforcement de son bouclier, ce qui le rend vulnérable aux attaques. Des données de recherche confidentielles sur les lance-vaisseaux s'y trouvent sûrement.",
+    "ja": "この研究施設は、シールド補強モードを使い果たしており、攻撃に対して脆弱になっている。内部からは、艦艇キャスターに関する極秘の研究データが見つかる可能性が高い。",
+    "ko": "연구 시설의 실드 강화 모듈의 작동이 멈췄습니다. 지금이 공격할 기회입니다. 함선전송기 극비 연구 데이터는 연구 시설 안에서 찾을 수 있을 것입니다.",
+    "ru": "Эта исследовательская лаборатория вышла из режима укрепления щитов. Теперь она уязвима для атаки. Вероятно, внутри неё можно найти секретные исследовательские данные о межзвёздном кораблепускателе.",
+    "zh": "这个研究实验室的护盾强化模式已失效，现在容易受到伤害。与舰船弹射台相关的秘密研究数据很可能就在其中。"
+  },
+  "graphicID": 25718,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Vulnerable Gallente Research Lab",
     "en": "Vulnerable Gallente Research Lab",
@@ -10,5 +23,10 @@
     "ru": "Vulnerable Gallente Research Lab",
     "zh": "容易受到伤害的盖伦特研究实验室"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 64,
+  "radius": 24000.0,
+  "sofFactionName": "gallentenavy",
   "volume": 100000000.0
 }

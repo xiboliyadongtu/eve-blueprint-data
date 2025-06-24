@@ -1,5 +1,21 @@
 {
-  "typeID": 12767,
+  "basePrice": 600000.0,
+  "description": {
+    "de": "Ein Treibkäfig-Geschoss aus Titan, das das Ziel mit vernichtender Wirkung trifft. Allerdings ist das Geschoss fast doppelt so groß wie Standardmunition. 75 % geringere optimale Reichweite. 25 % höhere Nachführungsgeschwindigkeit. Hinweis: Diese Munition kann nur von mittelgroßen Technologiestufe II- und Fraktions-Artilleriekanonen verwendet werden.",
+    "en": "A titanium sabot shell that delivers a shattering blow to the target. It is however nearly twice as bulky as standard ammunition.\r\n\r\n75% reduced optimal range.\r\n25% increased tracking speed.\r\n\r\nNote: This ammunition can only be used by medium tech level II and faction Artillery Cannons.",
+    "es": "Este proyectil perforante de titanio asesta un golpe demoledor al objetivo. Sin embargo, es casi el doble de voluminoso que la munición estándar.\n\n\n\nAlcance óptimo reducido un 75 %.\n\nVelocidad de rastreo aumentada un 25 %.\n\n\n\nAviso: Esta munición solo es compatible con cañones de artillería de T2 y faccionarios para naves medianas.",
+    "fr": "Sabot de titane terriblement destructeur. Il prend cependant deux fois plus de place que des munitions standard. Portée optimale réduite de 75 %. Vitesse de poursuite augmentée de 25 %. Remarque : ces munitions ne peuvent s'utiliser qu'avec les canons d'artillerie intermédiaires de faction et de niveau technologique II.",
+    "ja": "ターゲットを粉々に砕くチタン製サボット弾。破壊力が高い代わりに、通常弾に比べてサイズが倍近い。\n\n\n\n最適射程距離が25%縮小。\n\n追跡速度が25%増加。\n\n\n\n注：この弾薬は中型T2および各勢力のアーティレリキャノン専用である。",
+    "ko": "티타늄 철갑탄은 적을 분쇄하는 강력한 파괴력을 지닌 탄약입니다. 그러나 무거운 중량 탓에 사거리는 상당히 짧습니다. <br><br>최적사거리 75% 감소<br>트래킹 속도 25% 증가 <br><br>참고: 중형 테크 II 또는 팩션 함포에만 사용할 수 있습니다.",
+    "ru": "Титановый снаряд с поддоном, наносящий сокрушительный удар по цели. Однако он почти в два раза больше обычных боеприпасов. Оптимальная дальность уменьшена на 75%. Скорость наведения повышена на 25%. Примечание: эти боеприпасы могут использовать только корабли среднего тоннажа второго техноуровня и государственные артиллерийские орудия.",
+    "zh": "一种钛合金萨博弹，可对目标造成粉碎性打击。但它的体积将近标准弹药两倍，而且射速稍慢。\n\n\n\n最佳射程减少75%。\n\n跟踪速度提高25%。\n\n\n\n注：只能用于二级科技和势力中型加农火炮。"
+  },
+  "graphicID": 1299,
+  "groupID": 376,
+  "iconID": 1299,
+  "marketGroupID": 855,
+  "mass": 0.01,
+  "metaGroupID": 2,
   "name": {
     "de": "Quake M",
     "en": "Quake M",
@@ -10,5 +26,8 @@
     "ru": "Quake M",
     "zh": "地震 M"
   },
+  "portionSize": 5000,
+  "published": true,
+  "variationParentTypeID": 190,
   "volume": 0.0125
 }

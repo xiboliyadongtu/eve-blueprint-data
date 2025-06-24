@@ -1,5 +1,21 @@
 {
-  "typeID": 41326,
+  "basePrice": 40000.0,
+  "description": {
+    "de": "Die Javelin-Ladung besteht aus einer Traube Iridium-Flechets mit einem Gravitationspulsdetonator. Dies ermöglicht einen viel höheren Schaden, als er durch ein Standard-Railsystem erreicht werden kann. Allerdings bewirkt die inhärente Entropie, dass es sehr schwierig ist, die Genauigkeit auf große Entfernungen zu halten.\n\n\n\n75 % geringere optimale Reichweite.\n\n25 % höhere Zielverfolgungsgeschwindigkeit.\n\n\n\nHinweis: Diese Munition kann nur von Capital-Railguns der Technologiestufe II und Fraktionsvarianten benutzt werden.",
+    "en": "The Javelin charge consists of a cluster of Iridium Fletchets with a Graviton Pulse Detonator. This allows for much higher damage than can be achieved by a standard rail system. However, the inherent entropy of graviton pulses means that it is very hard to maintain accuracy at long range.\r\n\r\n75% reduced optimal range.\r\n25% increased tracking speed.\r\n\r\nNote: This ammunition can only be used by capital tech level II and faction Railguns.",
+    "es": "La carga Javelin consiste en un racimo de flechettes de iridio con un detonador de pulsos de gravitones, lo que permite infligir mucho más daño que un sistema electromagnético estándar. Sin embargo, la entropía inherente de los pulsos de gravitones significa que es muy difícil mantener la precisión a larga distancia.\n\n\n\nAlcance óptimo reducido un 75 %.\n\nVelocidad de rastreo aumentada un 25 %.\n\n\n\nAviso: Esta munición solo es compatible con cañones electromagnéticos T2 y faccionarios para naves capitales.",
+    "fr": "La charge javelin est composée d'un chapelet de fléchettes en iridium, projetées par un détonateur à impulsions de gravitons. Si l'entropie inhérente des impulsions de gravitons ruine la précision à longue portée, les dégâts du javelin surpassent largement les dégâts d'une charge de canon à rail standard.\n\n\n\nRéduit de 75 % la portée optimale.\n\nAugmente de 25 % la vitesse de poursuite.\n\n\n\nRemarque : ces munitions sont réservées aux canons à rail capitaux de tech II et faction.",
+    "ja": "ジャベリンチャージとは、イリジウム製フレシェットの束と重力子パルスジェネレーターを組み合わせたものである。この構造により通常のレールシステムよりも大きなダメージを引き出すことができる。重力子パルス固有のエントロピーの影響により、長距離において射撃精度を保つことは大変困難である。最適射程距離が75%縮小。追跡速度が25%向上。注： 大型T2とファクションレールガン専用。",
+    "ko": "자벨린 차지는 화력을 극대화하기 위해 이리듐 클러스터 파편과 그라비톤 펄스 기폭장치를 사용하고 있어 일반 레일건보다 막대한 피해를 전달합니다. 그러나 그라비톤 펄스에 내재된 엔트로피로 인해 장거리 사격 시 정확도를 유지하기 어렵습니다. <br><br>최적사거리 75% 감소 <br>트래킹 속도 25% 증가 <br><br>참고: 캐피탈 테크 II 및 팩션 레일건에만 사용할 수 있습니다.",
+    "ru": "Заряд «Джавелин» включает в себя кассету с зарядом стреловидных поражающих элементов из иридия и гравитонный импульсный детонатор. Это позволяет существенно увеличить поражающее действие по сравнению с обычным рельсотроном. Тем не менее, внутренняя энтропия гравитационного импульса крайне осложняет поддержание точности на длинных дистанциях.\n\n\n\nСнижает оптимальную дальность действия на 75%.\n\nПовышает скорость наводки орудий на 25%.\n\n\n\nВнимание! Данные боеприпасы используются только в автоматических пушках КБТ-класса второй техкатегории, а также пиратских или армейских модификаций.",
+    "zh": "“标枪”型弹药由聚集铱元素和引力脉冲起爆器组成。这使它的破坏力远远超过标准磁轨炮系统。然而引力脉冲固有的衰退性决定了它很难在远距离保持精度。\n\n\n\n最佳射程减少75%。\n\n跟踪速度提高25%。\n\n\n\n注：只能用于旗舰级二级科技或势力磁轨炮。"
+  },
+  "graphicID": 1310,
+  "groupID": 373,
+  "iconID": 2844,
+  "marketGroupID": 2255,
+  "mass": 0.5,
+  "metaGroupID": 2,
   "name": {
     "de": "Javelin XL",
     "en": "Javelin XL",
@@ -10,5 +26,9 @@
     "ru": "Javelin XL",
     "zh": "标枪 XL"
   },
+  "portionSize": 100,
+  "published": true,
+  "radius": 10.0,
+  "variationParentTypeID": 17650,
   "volume": 0.125
 }

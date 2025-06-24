@@ -1,5 +1,18 @@
 {
-  "typeID": 3436,
+  "basePrice": 30000.0,
+  "description": {
+    "de": "Fertigkeit zur Fernsteuerung von Drohnen.\r\n\r\nSteuerung einer Drohne je Skillstufe.",
+    "en": "Skill at remote controlling drones. Can operate 1 drone per skill level.",
+    "es": "Habilidad para controlar drones de forma remota. Se puede manejar 1 dron por nivel de habilidad.",
+    "fr": "Compétence liée au contrôle à distance des drones. Il est possible d'utiliser un drone par niveau de compétence.",
+    "ja": "ドローンを遠隔操作するスキル。スキルレベル上昇ごとに 1 機のドローンを操作できる。",
+    "ko": "드론 원격 조종을 위한 스킬입니다. 매 레벨마다 운용 가능한 드론 +1",
+    "ru": "Навык дистанционного управления дронами. За каждую степень освоения навыка: на 1 увеличивается число дронов, разрешённое к запуску с борта корабля.",
+    "zh": "远程控制无人机的技能。每升一级，可多控制一架无人机。"
+  },
+  "groupID": 273,
+  "iconID": 33,
+  "marketGroupID": 366,
   "name": {
     "de": "Drones",
     "en": "Drones",
@@ -10,5 +23,7 @@
     "ru": "Дроны",
     "zh": "无人机概论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

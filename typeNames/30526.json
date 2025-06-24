@@ -1,5 +1,18 @@
 {
-  "typeID": 30526,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Diese gepanzerte Außenhülle eines Schiffs sieht aus wie durch den Wolf gedreht, scheint aber für Ihr Analysator noch etwas von Interesse zu enthalten.",
+    "en": "This mangled sheet of hull plating contains something of interest to your analyzer.",
+    "es": "Este trozo de revestimiento de casco abollado contiene algo interesante para tu analizador.",
+    "fr": "Ce morceau de coque abîmée contient quelque chose d'intéressant, d'après votre analyseur.",
+    "ja": "バラバラになったこの船体プレートには、アナライザーが反応する何かが含まれている。",
+    "ko": "선체 잔해로부터 정체를 알 수 없는 반응이 감지됩니다.",
+    "ru": "Этот искромсанный кусок обшивки корпуса содержит что-то интересное для вашего анализатора.",
+    "zh": "使用分析仪应该能够从这块扭曲的船体外壳金属板上找到一些有用的信息。"
+  },
+  "graphicID": 3707,
+  "groupID": 1207,
+  "mass": 10000.0,
   "name": {
     "de": "Decrepit Sleeper Artifact",
     "en": "Decrepit Sleeper Artifact",
@@ -10,5 +23,9 @@
     "ru": "Decrepit Sleeper Artifact",
     "zh": "破朽的冬眠者人工物件"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 314.0,
+  "sofFactionName": "debris",
   "volume": 27500.0
 }

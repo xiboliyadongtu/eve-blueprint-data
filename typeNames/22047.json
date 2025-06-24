@@ -1,5 +1,18 @@
 {
-  "typeID": 22047,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Ausgerüstet mit behelfsmäßigen Sensoranlagen und gebrauchter Ausrüstung zur Datenanalyse sieht dieser Außenposten für jeden, der es nicht besser weiß, wie ein nutzloser Schrotthaufen aus. Das ist genau das, was die Matari Sie glauben machen wollen.\r\n\r\nDieser hier wird von verschiedenen Kommandoeinheiten der Republik benutzt, die nicht auffallen möchten.",
+    "en": "Outfitted with makeshift sensor arrays and second-hand tactical data analysis equipment, these outposts will, to anyone not in the know, look like useless scrapyards.  Which is exactly what the Matari would have you think.\r\n\r\nThis particular one is being used by several Republic commandos trying to lay low.",
+    "es": "Estos puestos avanzados, dotados de redes de sensores provisionales y aparatos de segunda mano para el análisis de datos tácticos, parecerán desguaces inútiles para cualquiera que no esté al corriente. Justo lo que los mataris quieren hacer creer.\n\nVarios comandantes de la República están usando este en concreto para intentar pasar desapercibidos.",
+    "fr": "Équipés de modules de détection de fortune et d'équipements d'analyse de données tactiques d'occasion, ces avant-postes peuvent passer pour de véritables décharges pour les personnes non averties.  C'est exactement ce que les Matari veulent que vous pensiez.\n\nCelui-ci en particulier est utilisé par plusieurs commandos de la République qui essaient de passer inaperçus.",
+    "ja": "間に合わせのセンサーアレイと中古の戦略データ分析装置が取りつけられているアウトポスト。実情を知らなければ、無用な廃材置き場のように見える。実のところ、そう思わせることがマタールの狙いである。数人の共和国司令官が身を隠そうとして利用している。",
+    "ko": "언뜻보면 열악한 작전통제 장비와 센서 시설이 임시방편으로 세워져 있는 것처럼 보여 허술한 고철 처리장처럼 보입니다. 바로 마타리가 노리고 있는 바입니다. <br><br>해당 시설에서는 공화국 특공대원들이 은폐 중에 있습니다.",
+    "ru": "Оборудованные самодельными сенсорными матрицами и бывшим в употреблении оборудованием тактического анализа данных, эти станции могут показаться несведущим бесполезными свалками. Minmatar хотят, чтобы вы думали именно так.\nЭта структура занята несколькими коммандос Республики, пытающимися затаиться.",
+    "zh": "这类哨站配备了临时感应器阵列和二手战术数据分析设备，对于不晓内情的人来说，它们看上去就像一堆一无是处的垃圾。玛塔利正希望别人有这样的想法。 一些共和突击队员正潜伏在此。"
+  },
+  "graphicID": 21948,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Special Forces Command Post",
     "en": "Special Forces Command Post",
@@ -10,5 +23,11 @@
     "ru": "Special Forces Command Post",
     "zh": "特种部队指挥站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 471.0,
+  "sofFactionName": "minmatarbase",
+  "soundID": 31,
   "volume": 100000000.0
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 85436,
+  "description": {
+    "de": "Dieser Witness wurde gebaut, um jede Bewegung in der Nähe zu erkennen, und löst eine Abriegelung aus, wenn nicht autorisierte Schiffe zu nah herankommen.",
+    "en": "Built to detect any nearby motion, this Witness will trigger a Lockdown if any non-authorized ships venture to close.",
+    "es": "Diseñado para detectar cualquier movimiento cercano, este testigo activará un bloqueo si alguna nave no autorizada se atreve a acercarse.",
+    "fr": "Conçu pour détecter tout mouvement à proximité, ce témoin déclenchera un confinement si des vaisseaux non autorisés s'en approchent trop.",
+    "ja": "このウィットネスは付近の動体物を検知する機能を持っており、認証されていない宇宙船が接近するとロックダウンを引き起こす。",
+    "ko": "감지자는 주변의 움직이는 사물을 탐지하는 장치로 권한이 없는 함선이 다가오면 폐쇄 절차를 발동합니다.",
+    "ru": "Эта обсерватория Witness улавливает любое движение в ближнем радиусе и запустит процедуру изоляции, если рядом с ней окажется корабль без права доступа.",
+    "zh": "目击者被设计用于检测附近的行动，任何未经授权的舰船靠近都会触发封锁。"
+  },
+  "graphicID": 28014,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Steadfast Witness",
     "en": "Steadfast Witness",
@@ -10,5 +22,9 @@
     "ru": "Steadfast Witness",
     "zh": "坚定目击者"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 241.0,
+  "sofFactionName": "drifter",
   "volume": 100000000.0
 }

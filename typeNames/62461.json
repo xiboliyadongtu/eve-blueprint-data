@@ -1,5 +1,19 @@
 {
-  "typeID": 62461,
+  "basePrice": 1500.0,
+  "description": {
+    "de": "Wenn aus Monden geförderte Erzbrocken überdurchschnittlich viel Sylvin enthalten, spricht man von übervollem Sylvin. Bei der Aufbereitung wird etwa 15 % mehr brauchbares Material gewonnen. Sylvin ist ein verbreitetes Erz, das auf Monden kommerziell abgebaut wird. Es ist sehr nützlich, da es reich an <a href=showinfo:16635>Evaporit-Ablagerungen</a> ist, die als Grundelement einiger fortschrittlicher Materialien dienen. Sylvin-Erze enthalten außerdem <a href=showinfo:36>Mexallon</a> and <a href=showinfo:35>Pyerite</a>. Dieses Material ist komprimiert und sehr viel kompaktere Version des Ausgangsmaterials.",
+    "en": "When chunks of ore mined out of moons yield above-average densities of Sylvite, the ore is called Brimful Sylvite and reprocessing returns approximately 15% higher quantities of useful material.\r\n\r\nA ubiquitous ore commercially mined from moons, Sylvite is very useful as it yields good quantities of <a href=showinfo:16635>Evaporite Deposits</a> used as basic elements of some advanced materials. Sylvite ores will also yield <a href=showinfo:36>Mexallon</a> and <a href=showinfo:35>Pyerite</a>.\r\n\r\nThis material is compressed and a much more compact form of the original material.",
+    "es": "Cuando los trozos de mena extraídos de las lunas presentan densidades de silvina superiores a la media, la mena se denomina silvina desbordante y el reprocesamiento genera aproximadamente un 15 % más de material útil.\n\n\n\nLa silvina, una mena lunar predominante explotada comercialmente, es muy útil, ya que produce grandes cantidades de <a href=showinfo:16635>depósitos de evaporita</a> usados como elementos básicos de materiales avanzados. Las menas de silvina producen además <a href=showinfo:36>mexalón</a> y <a href=showinfo:35>pierita</a>.\n\n\n\nEste material está comprimido y tiene una forma mucho más compacta que el original.",
+    "fr": "Lorsque des morceaux de minerai extraits sur des lunes présentent une densité de sylvine supérieure à la moyenne, ce minerai est appelé « sylvine pleine » et son retraitement permet un rendement en matériaux utiles environ 15 % plus élevé. La sylvine est un minerai très commun, extrait sur les lunes à des fins commerciales, et dont l'utilité réside dans sa richesse en <a href=showinfo:16635>gisements volatiles</a> pouvant servir de composants de base à la fabrication de matériaux avancés. Le minerai de sylvine génère aussi du <a href=showinfo:36>mexallon</a> et de la <a href=showinfo:35>pyérite</a>. Ce matériau est compressé et se présente donc sous une forme bien plus compacte que sa version d'origine.",
+    "ja": "平均以上の密度のシルバイトを持った鉱石の塊を衛星から採掘した場合、その鉱石はブリムフルシルバイトと呼ばれ、再処理を行うことで約15%多い有用資源を入手できる。\n\nシルバイトは衛星から商業的に採掘される遍在する鉱石である。内部にかなりの量の<a href=showinfo:16635>エバポライトディポジット</a>があり、高性能素材の基礎材料として使われる。シルバイト鉱石からは、他にも<a href=showinfo:36>メクサロン</a>や<a href=showinfo:35>パイライト</a>が手に入る。\n\nこの資源は圧縮されており、元々の状態よりはるかにコンパクトになっている。",
+    "ko": "위성에서 채굴된 광물 중 높은 실바이트 함량을 가진 광석을 투명한 실바이트라 부릅니다. 일반 실바이트에 비해 정제 산출량이 15% 높습니다.<br><br>실바이트는 위성에서 채굴되는 저급 광석으로, 상급 재료를 제작하는데 사용되는 물질인 <a href=showinfo:16635>이베포라이트</a>를 다량 함유하고 있습니다. 정제 과정에서 <a href=showinfo:36>멕살론</a>과 <a href=showinfo:35>파이어라이트</a> 또한 함께 산출됩니다.<br><br>해당 자원은 압축되어 기존에 비해 밀도가 높습니다.",
+    "ru": "Если содержание сильвина в породе выше среднего, такая руда называется насыщенным сильвином. Из неё можно извлечь на 15% больше полезного материала. Сильвин — широко распространённая руда, добываемая в промышленных количествах на спутниках. Её ценность заключается в высоком содержании <a href=showinfo:16635>эвапорита</a>, используемого в качестве базового элемента для некоторых сложных материалов. Сильвиновые руды также содержат <a href=showinfo:36>мексаллон</a> и <a href=showinfo:35>пирит</a>. Это — сжатая и намного более компактная форма исходного материала.",
+    "zh": "如果卫星开采出的矿石的产出高于钾盐的平均密度，则称为富钾盐，提炼出的有用矿物会多出大概15%。\n\n\n\n钾盐是卫星中开采出的一种常见矿石，它用处很大，能够提炼出丰富的<a href=showinfo:16635>蒸发岩沉积物</a>，可作为某些高级矿物的基础元素。钾盐矿石还会产出<a href=showinfo:36>类银超金属</a>和<a href=showinfo:35>类晶体胶矿</a>。\n\n\n\n这种矿物被压缩过，比它的原始形态紧密得多。"
+  },
+  "groupID": 1884,
+  "iconID": 25174,
+  "marketGroupID": 2396,
+  "mass": 4000.0,
   "name": {
     "de": "Compressed Brimful Sylvite",
     "en": "Compressed Brimful Sylvite",
@@ -10,5 +24,7 @@
     "ru": "Compressed Brimful Sylvite",
     "zh": "高密度富钾盐"
   },
+  "portionSize": 100,
+  "published": true,
   "volume": 0.1
 }

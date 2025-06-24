@@ -1,5 +1,18 @@
 {
-  "typeID": 53290,
+  "description": {
+    "de": "Eine Komponente zur Informationsverarbeitung, die beim Design von Triglavia-Schiffen und anderen darauf aufbauenden Schiffen Anwendung findet. Möglicherweise nützlich als Komponente zahlreicher anderer Technologien. Triglavia-Technologien sind auf den Betrieb durch Trinar-Code ausgelegt und dieses Gerät ist eine wichtige Komponente für die Datenverarbeitung in solchen Systemen. Das Verständnis der Ein- und Ausgabe von Daten solcher Geräte führte zu einem Durchbruch in der Benutzung von Triglavia-Technologie.",
+    "en": "An information processing component used in Triglavian ship designs and others adapted from such designs. Potentially useful as a component in various other technologies.\r\n\r\nTriglavian technologies are designed to be run by trinary-based code and this device is a key component of information processing in such systems. Determining how to interface with and interpret the input and output of such devices was a key breakthrough in the use of Triglavian technology.",
+    "es": "Un componente de procesamiento de información utilizado por las naves triglavianas y otras adaptaciones de tales diseños. Potencialmente útil como componente en distintas tecnologías.\n\n\n\nLas tecnologías triglavianas están pensadas para funcionar mediante un código trinario y este dispositivo es un componente clave del procesamiento de información en tales sistemas. Determinar cómo se interrelacionan las entradas y los resultados de estos dispositivos marcó un antes y un después en el uso de tecnología triglaviana.",
+    "fr": "Un composant pour le traitement d'information utilisé dans la conception des vaisseaux triglavian et d'autres composants adaptés à partir de cette conception. Potentiellement utile comme composant pour diverses autres technologies. Les technologies triglavian sont conçues pour fonctionner grâce à un code trinaire et cet appareil est un composant clé dans le traitement des informations dans de tels systèmes. Comprendre comment interagir et interpréter les données entrantes et sortantes de ces appareils fut la clé de la compréhension de l'utilisation de la technologie triglavian.",
+    "ja": "トリグラビアンの船舶設計や、その派生形で使われていた情報処理システム。ひょっとすると、その以外の広い分野でも部品として役に立つかもしれない。\r\n\nトリグラビアンの技術は3進数ベースのコードで実行されるよう設計されており、この装置はそういったシステムの情報処理を担う重要部品である。こういった装置がどのように操作されるのか、またどのように入出力を解釈するのかが、トリグラビアン技術の利用における中心的なブレイクスルーとなった。",
+    "ko": "트리글라비안 기술이 적용된 함선 및 장치에서 흔히 사용되는 정보 프로세서로 다른 분야 또는 목적에 맞게 재설계가 가능합니다.<br><br>트리글라비안 기술은 트라이너리 코드를 기반으로 암호화되어 있어 프로세서가 없을 경우 시스템에서 트리글라비안 기반 정보를 처리할 수 없습니다. 그러나 입출력 데이터를 시스템을 통해 읽는 프로세스가 성공적으로 적용되면서 인류는 트리글라비안 기술을 다양한 분야에서 폭 넓게 적용할 수 있게 되었습니다.",
+    "ru": "Компонент обработки информации, используемый в кораблях Триглава и других кораблях, созданных по их мотивам. Потенциальный компонент для различных других технологий. Управление технологиями Триглава оптимизировано под троичный код, и это устройство является ключевым компонентом обработки информации в подобных системах. Определение способа взаимодействия с входными и выходными данными таких устройств и их интерпретации стало важнейшим прорывом в использовании технологий Триглава.",
+    "zh": "三神裔舰船以及其他采用采用相似设计的舰船所使用的信息处理系统的组件。可能也可用于其他科技种类中。\n\n\n\n三神裔科技是基于三进制代码的，这个设备就是这类系统进行信息处理的关键部件。搞清如何与它进行连接以及如何转译输入和输出是对应用三神裔技术的突破性进展。"
+  },
+  "groupID": 334,
+  "iconID": 24141,
+  "marketGroupID": 2658,
+  "mass": 1.0,
   "name": {
     "de": "Capital Trinary State Processor",
     "en": "Capital Trinary State Processor",
@@ -10,5 +23,8 @@
     "ru": "Capital Trinary State Processor",
     "zh": "旗舰级三元态处理器"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 135,
   "volume": 1.0
 }

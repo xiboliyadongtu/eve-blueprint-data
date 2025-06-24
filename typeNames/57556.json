@@ -1,5 +1,17 @@
 {
-  "typeID": 57556,
+  "description": {
+    "de": "Aufgrund ihres großen Interesses an der Entwicklung von Befestigungs- und Flächenverteidigungstechnologie hat EDENCOMs Organisation AEGIS während der Triglavia-Invasionen verschiedene Designs für verbesserte Annäherungsminen erstellt. EDENCOM nutzt diese statischen Waffen ausgiebig und AEGIS hat die Designs auch CONCORDs Militär und Polizei zur Verfügung gestellt. Viele CONCORD- und EDENCOM-Einrichtungen mit verbesserter Sicherheit haben eine Reihe von Annäherungsminen in den von ihnen bewachten Anlagen verlegt. Diese Minen sind sehr gefährlich und sollten unter allen Umständen gemieden werden. Code: o10-15",
+    "en": "As an organization with a strong interest in the development of fortification and area denial technology, EDENCOM's AEGIS organization created a variety of enhanced proximity mine designs during the Triglavian Invasions. While EDENCOM uses these static weapons extensively, AEGIS has also made these designs available to CONCORD's military and police forces. \r\n\r\nMany CONCORD and EDENCOM installations with enhanced security have a number of proximity mines sowed throughout the facilities they guard. These mines are very dangerous and should be avoided at all costs.\r\n\r\nCode: o10-15",
+    "es": "Dado su gran interés en el desarrollo de la tecnología de fortificación y negación de zonas, la organización AEGIS de EDENCOM creó una serie de diseños de minas de proximidad mejoradas durante las invasiones triglavianas. EDENCOM usa estas armas estáticas con mucha frecuencia, pero AEGIS ha puesto estos diseños a disposición de las fuerzas militares y policiales de CONCORD. \n\n\n\nMuchas instalaciones de CONCORD y EDENCOM con seguridad mejorada tienen varias minas de proximidad distribuidas por todo el espacio que protegen. Estas minas son muy peligrosas y deben evitarse a toda costa.\n\n\n\nCódigo: o10-15",
+    "fr": "Organisation s'intéressant de très près au développement des technologies de fortification et d'interdiction de zone, la division AEGIS d'EDENCOM a créé divers modèles de mines de proximité améliorées pendant les invasions triglavian. Si EDENCOM utilise abondamment ces armes statiques, AEGIS a également mis ces modèles à la disposition des forces militaires et de police de CONCORD. Dans de nombreuses installations de CONCORD et EDENCOM à la sécurité renforcée, un certain nombre de ces mines de proximité ont été déployées. Ces mines sont très dangereuses et doivent être évitées à tout prix. Code : o10-15",
+    "ja": "EDENCOMのイージスは、防衛および領域拒否技術の開発と密接な関係を持つ組織であり、トリグラビアンの侵略の最中、様々な高性能近接機雷を作り出した。EDENCOMがそういった固定型兵器を大々的に使用した一方、イージスはこれらの地雷をCONCORDの軍事組織や警察隊にも提供した。 \n\n\n\nCONCORDとEDENCOMの多くの施設は、その警備対象としている設備のそこかしこに相当量の近接機雷を設置している。この機雷は非常に危険で、何としてでも避けるべきだ。\n\n\n\nコード：o10-15",
+    "ko": "EDENCOM 산하 AEGIS 부대는 지역 장악 및 요새화 기술에 큰 관심을 보이던 단체로 트리글라비안 침공 당시 다양한 종류의 근접 기뢰를 제작하였습니다. EDENCOM의 주력 무장 중 하나로 CONCORD 부대에서도 폭넓게 활용되고 있습니다.<br><br>CONCORD 및 EDENCOM 구조물 주변에 설치되어 있습니다. 굉장한 파괴력을 지닌 만큼 접근 시 각별한 주의가 요구됩니다.<br><br>코드: o10-15",
+    "ru": "Во время триглавских вторжений организация ЭДЕНКОМа «ЭГИДА», специализирующаяся на строительстве фортификационных сооружений и разработке систем ограничения доступа, создала множество усовершенствованных конструкций мин. Помимо активно использующего их ЭДЕНКОМа, доступ к минам получили военные и полиция КОНКОРДа. Они установлены на многих объектах КОНКОРДа и ЭДЕНКОМа, требующих повышенной защиты. Эти мины очень опасны, и их нужно избегать любой ценой. Код: o10-15",
+    "zh": "伊甸联合防御阵线的紧急干预和安全局对于发展防御和区域拒止技术有浓厚兴趣，并在三神裔入侵期间研发了一系列强化的高敏地雷。伊甸联合防御阵线大面积应用了这种静止性武器，紧急干预和安全局还向统合部的军事和警察力量开放了这种武器。 \n\n\n\n许多防御严密的统合部和伊甸联合防御阵线设施的附近都布下了大量高敏地雷。这些地雷非常危险，一定不要靠近。\n\n\n\n代码：o10-15"
+  },
+  "graphicID": 24974,
+  "groupID": 226,
+  "mass": 10000.0,
   "name": {
     "de": "AEGIS Proximity Mine",
     "en": "AEGIS Proximity Mine",
@@ -10,5 +22,9 @@
     "ru": "AEGIS Proximity Mine",
     "zh": "统合部紧急干预和安全局高敏地雷"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 10.0,
+  "sofFactionName": "genericrelic",
   "volume": 100.0
 }

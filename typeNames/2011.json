@@ -1,5 +1,18 @@
 {
-  "typeID": 2011,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieses von Ratten befallene Gefängnis wird streng bewacht.",
+    "en": "This rat-infested prison is being closely guarded.",
+    "es": "Esta prisión infestada de ratas está fuertemente vigilada.",
+    "fr": "Cette prison infestée de rats est placée sous haute surveillance.",
+    "ja": "厳重に警備されたネズミのはびこる刑務所。",
+    "ko": "쥐가 득실대는 감옥으로 엄중한 경비가 이루어지고 있습니다.",
+    "ru": "Эта заполненная крысами тюрьма пристально охраняется.",
+    "zh": "这座老鼠满地的监狱被严密的把守着。"
+  },
+  "graphicID": 10026,
+  "groupID": 306,
+  "mass": 100000.0,
   "name": {
     "de": "Prison Facility",
     "en": "Prison Facility",
@@ -10,5 +23,8 @@
     "ru": "Prison Facility",
     "zh": "监狱设施"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 416.0,
   "volume": 100000000.0
 }

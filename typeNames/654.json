@@ -1,5 +1,53 @@
 {
-  "typeID": 654,
+  "basePrice": 1400000.0,
+  "capacity": 550.0,
+  "description": {
+    "de": "Neben den üblichen Transportmöglichkeiten von Frachtern, verfügt die Kryos über zwei zusätzliche Frachträume. Diese sind mit präzisen Vorrichtungen zur Temperatur- und Druckregelung ausgestattet; der erste wird speziell für den Transport von Mineralien geschätzt, während der zweite auf die extrem niedrigen Temperaturen abgestimmt ist, die für die Lagerung von kosmischem Eis erforderlich sind. Ursprünglich als Ableger der Iteron konzipiert, konnte sich die Kryos im Laufe der Zeit als eigenständige Klasse etablieren.",
+    "en": "Aside from being endowed with the usual hauling capabilities of haulers, the Kryos possesses two extra cargo bays. They are both equipped with precise temperature and pressure controls; the first is celebrated specifically for ferrying minerals, while the second is calibrated at the extremely low temperatures required for harvested cosmic ice. \r\n\r\nThe Kryos was originally designed as a variant of the Iteron, but eventually evolved to perform an entirely separate role.",
+    "es": "Además de estar dotada de las capacidades de transporte habituales de las naves de mercancías, la Kryos posee dos bodegas adicionales. Ambas están equipadas con controles precisos de temperatura y presión; la primera se utiliza específicamente para transportar minerales, mientras que la segunda está calibrada para las temperaturas extremadamente bajas que se requieren para el hielo cósmico recolectado. \r\n\r\nLas Kryos se diseñaron originalmente como variantes de la Iteron, pero al final evolucionaron y acabaron desempeñando una función completamente distinta.",
+    "fr": "Outre les capacités propres aux vaisseaux de transport, le Kryos est doté de deux baies de chargement supplémentaire. Elles sont toutes deux équipées de contrôles précis de température et de pression ; la première est spécifiquement calibrée pour le transport de minéraux, tandis que la seconde est calibrée pour les températures extrêmement basses nécessaires à la glace cosmique récoltée. Le Kryos fut construit à l'origine comme une variante de l'Iteron, mais a finalement évolué pour remplir un rôle entièrement différent.",
+    "ja": "クリオスは輸送艦だが、通常の積載容量の多さを追求する代わりに2種類の追加カーゴベイを搭載している。カーゴベイはどちらも温度と圧力を正確に制御可能だが、1つ目のカーゴベイは無機物の輸送に特化した設定になっている一方で、2つ目は採掘した宇宙アイスを運ぶために必要な極低温に合わせた設定となっている。 \r\n\r\nクリオスは元々イタロンのバリエーションとして設計されたが、進化の果てに全く別の役割を持つに至った。",
+    "ko": "크라이오스에는 기본적인 운반선의 기능 외에도 온도 및 압력 조절 기능이 내장된 화물실이 두 곳 설치되어 있습니다. 첫 번째 화물실은 미네랄을 적재하기 위한 용도로 주로 사용되며, 두 번째 화물실은 채굴한 아이스를 보관하기 위해 초저온 상태가 유지됩니다.\r\n\r\n본래 이테론급을 바탕으로 설계되었으나 완성 단계에 이르러서는 별개의 역할을 부여받게 되었습니다.",
+    "ru": "Помимо систем, стандартных для перевозчиков, корабль модели Kryos оборудован двумя дополнительными грузовыми отсеками, которые, в свою очередь, снабжены современными устройствами контроля температуры и давления. Первый отсек предназначен для транспортировки минералов, а во втором поддерживаются экстремально низкие температуры, необходимые для хранения космического льда. Изначально Kryos разрабатывался как версия Iteron, но в конечном итоге стал выполнять совершенно другую роль.",
+    "zh": "除了具有运载舰的常规运载能力之外，克琉斯级还有两个额外的货柜舱。它们都配备了精确的温度和压力控制装置；前者专门用于运送矿物，后者可以在极低的温度下进行校准，主要用于采集空间中的冰。克琉斯级本来是伊特龙级的一个衍生品，但后来不断进化成为了一个完全独立的个体。"
+  },
+  "factionID": 500004,
+  "graphicID": 325,
+  "groupID": 28,
+  "marketGroupID": 83,
+  "mass": 12625000.0,
+  "masteries": {
+    "0": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "1": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "2": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "3": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "4": [
+      96,
+      118,
+      117,
+      94
+    ]
+  },
   "name": {
     "de": "Kryos",
     "en": "Kryos",
@@ -9,6 +57,81 @@
     "ko": "크라이오스",
     "ru": "Kryos",
     "zh": "克琉斯级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 256.0,
+  "sofFactionName": "gallentebase",
+  "soundID": 20074,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 90.0,
+        "bonusText": {
+          "de": "Reduktion der effektiv zurückgelegten Distanz für die Sprungerschöpfung",
+          "en": "reduction to effective distance traveled for jump fatigue",
+          "es": "de reducción de la distancia efectiva hasta sufrir fatiga de salto.",
+          "fr": "de réduction de la distance effectuée pour l'épuisement de saut",
+          "ja": "ジャンプによる疲弊が飛行距離に及ぼす影響を低減",
+          "ko": "이동 거리에 따른 점프 피로도 감소",
+          "ru": "медленнее накапливается усталость от гиперпереходов",
+          "zh": "减少跳跃距离对产生跳跃疲劳的影响"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3340": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf die Maximalgeschwindigkeit des Schiffs",
+            "en": "bonus to ship max velocity",
+            "es": "de bonificación a la velocidad máxima de la nave.",
+            "fr": "de bonus à la vitesse maximale du vaisseau",
+            "ja": "艦船の最高速度が上昇",
+            "ko": "최대 속도 증가",
+            "ru": "увеличивается скорость полного хода корабля",
+            "zh": "舰船最大速度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die Kapazität des Mineralienfrachtraums des Schiffs",
+            "en": "bonus to ship mineral hold capacity",
+            "es": "de bonificación a la capacidad de la bodega de minerales de la nave.",
+            "fr": "de bonus à la capacité de la soute à minéraux du vaisseau",
+            "ja": "艦船の無機物容量が増加",
+            "ko": "미네랄 저장고 적재량 증가",
+            "ru": "увеличивается вместимость отсека для минералов",
+            "zh": "舰船矿物舱容量加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die Kapazität des Eisfrachtraums des Schiffs",
+            "en": "bonus to ship Ice hold capacity",
+            "es": "de bonificación a la capacidad de la bodega de hielo de la nave.",
+            "fr": "de bonus à la capacité de la soute à glace du vaisseau",
+            "ja": "艦船のアイスホールド容量へのボーナス",
+            "ko": "아이스 저장고 적재량 증가",
+            "ru": "бонус к вместимости отсека для льда",
+            "zh": "舰船冰矿舱容量加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 245000.0
 }

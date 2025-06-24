@@ -1,5 +1,18 @@
 {
-  "typeID": 3184,
+  "basePrice": 2500000.0,
+  "description": {
+    "de": "Skill zur Bedienung von ORE-Transportern.",
+    "en": "Skill at operating ORE hauler ships.",
+    "es": "Habilidad en el manejo de naves de mercancías de ORE.",
+    "fr": "Compétence liée à l'utilisation de cargos de l'ORE.",
+    "ja": "OREハウラーを操作するためのスキル。",
+    "ko": "ORE 운반선을 운용하기 위한 스킬입니다.",
+    "ru": "Навык управления перевозчиками ОРЭ.",
+    "zh": "操作联合矿业运载舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "ORE Hauler",
     "en": "ORE Hauler",
@@ -10,5 +23,8 @@
     "ru": "ORE Hauler",
     "zh": "联合矿业运载舰"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
   "volume": 0.01
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 2076,
+  "description": {
+    "de": "Dieser Transponder ist mit einer einzigartigen hardwareseitigen Codierung versehen und fungiert als eine Art Schlüssel zu bestimmten Beschleunigungstoren.",
+    "en": "This transponder, set with a unique code built into the device's hardware, acts as a key to a specific acceleration gate.",
+    "es": "Este transpondedor, equipado con un código único integrado en el hardware del dispositivo, actúa como llave de un portal de aceleración específico.",
+    "fr": "Ce transpondeur, présentant un code unique intégré, sert de clé pour un portail d'accélération spécifique.",
+    "ja": "このトランスポンダーは、独自のコードを使って装置のハードウェアに組み込んで設定されており、特定のアクセラレーションゲートのキーとして使える。",
+    "ko": "특수한 코드가 내장된 응답기로 특정 액셀레이션 게이트의 출입키로 사용됩니다.",
+    "ru": "Этот транспондер, снабженный уникальным кодом, служит ключом к определенным вратам ускорения.",
+    "zh": "该收发机的硬件中内置了一串独特的密码，可用于开启某一特定加速轨道。"
+  },
+  "groupID": 474,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Gate Key",
     "en": "Gate Key",
@@ -10,5 +22,7 @@
     "ru": "Gate Key",
     "zh": "加速轨道钥匙"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

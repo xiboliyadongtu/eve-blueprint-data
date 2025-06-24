@@ -1,5 +1,17 @@
 {
-  "typeID": 353484,
+  "basePrice": 378000.0,
+  "description": {
+    "de": "Skill zur Benutzung von Granaten.\n\nSchaltet den Zugriff auf Standardgranaten ab Stufe 1, erweiterte Granaten ab Stufe 3 und Granatenprototypen ab Stufe 5 frei.",
+    "en": "Skill at handling grenades.\n\nUnlocks access to standard grenades at lvl.1; advanced at lvl.3; prototype at lvl.5",
+    "es": "Habilidad de manejo de granadas.\n\nDesbloquea el acceso a granadas estándar en el nivel 1, avanzadas en el nivel 3 y prototipos en el nivel 5.",
+    "fr": "Compétence permettant de manipuler les grenades.\n\n\n\nDéverrouille l'utilisation des grenades. Standard au niv.1 ; avancé au niv.3 ; prototype au niv.5.",
+    "it": "Abilità nel maneggiare le granate.\n\nSblocca l'accesso alle granate standard al liv. 1; a quelle avanzate al liv. 3; a quelle prototipo al liv. 5",
+    "ja": "グレネード類を扱うスキル。\n\nレベル1で標準型、レベル3で高性能、レベル5でプロトタイプのグレネードが利用可能になる。",
+    "ko": "수류탄 운용을 위한 스킬입니다. <br><br>수류탄이 잠금 해제됩니다. (레벨 1 - 일반, 레벨 3 - 상급, 레벨 5 - 프로토타입)",
+    "ru": "Навык обращения с гранатами.\n\nПозволяет пользоваться стандартными гранатами на уровне 1; усовершенствованными на уровне 3; прототипами на уровне 5",
+    "zh": "使用手榴弹的技能。1级解锁标准手榴弹；3级解锁高级手榴弹；5级解锁原型手榴弹。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Grenadier",
     "en": "Grenadier",
@@ -11,5 +23,7 @@
     "ru": "Гранатометчик",
     "zh": "掷弹兵"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

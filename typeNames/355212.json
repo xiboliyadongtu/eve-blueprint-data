@@ -1,5 +1,17 @@
 {
-  "typeID": 355212,
+  "basePrice": 149000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Schrotflinten.\n\n3% Abzug auf die Streuung von Schrotflinten pro Skillstufe.",
+    "en": "Skill at handling shotguns.\n\n3% reduction to shotgun spread per level.",
+    "es": "Habilidad de manejo de escopetas. \n\n-3% al radio de dispersión de las escopetas por nivel.",
+    "fr": "Compétence permettant de manipuler les fusils à pompe.\n\n3 % de réduction de la dispersion des balles du fusil à pompe par niveau.",
+    "it": "Abilità nel maneggiare fucili a pompa.\n\n3% di riduzione della dispersione di fuoco del fucile a pompa per livello.",
+    "ja": "ショットガンを操作するためのスキル。\n\nレベル上昇ごとに、ショットガンの拡散率が3%縮小する。",
+    "ko": "샷건 운용을 위한 스킬입니다. <br><br>매 레벨마다 샷건 탄환 확산률 3% 감소",
+    "ru": "Навык обращения с дробовиками.\n\n3% снижение рассеяния выстрелов дробовика на каждый уровень.",
+    "zh": "使用散弹枪的技能。每升一级，散弹枪的散射效果降低3%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Bedienung: Schrotflinte",
     "en": "Shotgun Operation",
@@ -11,5 +23,7 @@
     "ru": "Обращение с дробовиками",
     "zh": "散弹枪操作"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

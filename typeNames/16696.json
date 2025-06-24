@@ -1,5 +1,21 @@
 {
-  "typeID": 16696,
+  "basePrice": 500000.0,
+  "capacity": 3500.0,
+  "description": {
+    "de": "Eine Lenkwaffenwerferanlage, die entwickelt wurde, um Cruise Missiles einzusetzen. Feuert auf diejenigen, die vom Kontrollturm als Feinde erachtet werden.",
+    "en": "A launcher array designed to fit cruise missiles. Fires at those the Control Tower deems its enemies.",
+    "es": "Una batería de lanzaproyectiles para alojar misiles de crucero. Dispara a cualquier objetivo que la torre de control considere una amenaza.",
+    "fr": "Base de lancement conçue pour tirer des missiles de croisière. Ouvre le feu sur les vaisseaux que la tour de contrôle juge hostiles.",
+    "ja": "クルーズミサイル用ランチャー砲塔。コントロールタワーが敵と認識した物体に対して、攻撃を行う。",
+    "ko": "크루즈 미사일 발사 시설입니다. 관제타워가 지정한 적을 향해 미사일을 발사합니다.",
+    "ru": "Ракетная батарея, ведущая огонь ракетами дальнего боя. Ведет огонь по по всем целям, которые башня управления базой сочтет вражескими.",
+    "zh": "为装载巡航导弹而设计的发射阵列。向控制塔指定的敌人开火。"
+  },
+  "graphicID": 2603,
+  "groupID": 417,
+  "marketGroupID": 479,
+  "mass": 50000000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Cruise Missile Battery",
     "en": "Cruise Missile Battery",
@@ -10,5 +26,9 @@
     "ru": "Cruise Missile Battery",
     "zh": "巡航导弹发射台"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 366.0,
+  "sofFactionName": "genericbase",
   "volume": 500.0
 }

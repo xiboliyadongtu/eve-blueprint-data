@@ -1,5 +1,18 @@
 {
-  "typeID": 26269,
+  "capacity": 1200.0,
+  "description": {
+    "de": "Eine Elite-Reparaturdrohne.",
+    "en": "An elite repair drone.",
+    "es": "Un dron reparador de élite.",
+    "fr": "Drone de réparation élite.",
+    "ja": "エリートリペアドローン。",
+    "ko": "고성능 수리 드론입니다.",
+    "ru": "Элитный ремонтный дрон.",
+    "zh": "一架精英维修无人机"
+  },
+  "graphicID": 1220,
+  "groupID": 803,
+  "mass": 100000.0,
   "name": {
     "de": "Elite Repair Drone",
     "en": "Elite Repair Drone",
@@ -10,5 +23,10 @@
     "ru": "Elite Repair Drone",
     "zh": "精英维修无人机"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 150.0,
+  "sofFactionName": "roguebase",
+  "soundID": 11,
   "volume": 60.0
 }

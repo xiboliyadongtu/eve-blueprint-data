@@ -1,5 +1,21 @@
 {
-  "typeID": 24537,
+  "basePrice": 837360.0,
+  "description": {
+    "de": "Eine sehr einfache Lenkwaffe für große Werfer mit mäßiger Ladekapazität. Verwendet das heute als veraltet geltende Bulls-Eye-Zielsystem.\n\n\n\nEine modifizierte Version der Nova Cruise Missile. Eignet sich besonders für den Beschuss von kleineren Schiffen. Der Treibstoffverbrauch durch Stabilisierungs-Thruster verringert jedoch die maximale Flugzeit.",
+    "en": "A very basic missile for large launchers with reasonable payload. Utilizes the now substandard technology of bulls-eye guidance systems.\r\n\r\nA modified version of the Nova cruise missile. Is great for taking down smaller ships, but fuel use by stabilization thrusters reduces maximum flight time.",
+    "es": "Un misil muy básico para lanzamisiles de gran tamaño con una carga útil razonable. Utiliza una tecnología de sistemas de guiado al blanco de calidad inferior actual.\n\n\n\nVersión modificada del misil de crucero Nova. Ideal para derribar naves más pequeñas, pero el consumo de combustible de los propulsores estabilizadores reduce el tiempo de vuelo máximo.",
+    "fr": "Missile basique doté d'une charge utile correcte et destiné aux gros lanceurs. Il fait appel à la technologie désormais déclassée de systèmes de guidage de haute précision.\n\nVersion modifiée du missile de croisière Nova. Ce missile est idéal face aux vaisseaux plus petits, mais l'utilisation du carburant par les propulseurs de stabilisation réduit le temps de vol maximal.",
+    "ja": "大型ランチャー用のごく標準的なミサイルで、威力も手頃。誘導システムはいささか旧式で、現代の基準からいうと精度に劣る。\n\nノヴァクルーズミサイルの改良版。小型艦を撃ち落とすには便利だが、姿勢制御スラスターが推進剤を食うので最大飛行時間は短くなる。",
+    "ko": "대형 미사일 런처에 탑재되는 기본형 미사일로 평균적인 파괴력을 자랑합니다. 구형 불스아이 유도시스템을 탑재하고 있습니다. <br><br>개량된 노바 크루즈 미사일입니다. 소형 함선을 상대로 매우 효과적이지만 추진기 연료 사용으로 인해 최대 비행시간이 감소합니다.",
+    "ru": "Довольно примитивная ракета с мощной боеголовкой для больших пусковых установок. Использует уже устаревшую технологию наведения.\n\n\n\nМодифицированная версия крылатой ракеты Nova. Отлично подходит для поражения целей малых размеров, но максимальное время полета снижено ввиду значительного потребления топлива стабилизационными двигателями.",
+    "zh": "一种配合大型发射架使用，载荷量适中的基础型导弹。使用了如今已经不合标准的牛眼制导系统。这是星爆巡航导弹的一种改良版本，针对小船效果好，但稳定推进器耗燃料的这一事实导致导弹飞行时间缩短。"
+  },
+  "graphicID": 20042,
+  "groupID": 656,
+  "iconID": 185,
+  "marketGroupID": 918,
+  "mass": 1250.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Nova Precision Cruise Missile",
     "en": "Nova Precision Cruise Missile",
@@ -10,5 +26,9 @@
     "ru": "Nova Precision Cruise Missile",
     "zh": "星爆精准巡航导弹"
   },
+  "portionSize": 5000,
+  "published": true,
+  "radius": 300.0,
+  "variationParentTypeID": 205,
   "volume": 0.05
 }

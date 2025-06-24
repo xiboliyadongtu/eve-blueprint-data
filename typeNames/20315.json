@@ -1,5 +1,18 @@
 {
-  "typeID": 20315,
+  "basePrice": 2000000.0,
+  "description": {
+    "de": "Fertigkeit, den Sprengkopf von Lenkwaffen mit tödlicheren Sprengladungen versehen zu können. 2 % Bonus auf die Schadenswirkung aller Lenkwaffen-Typen je Skillstufe.",
+    "en": "Proficiency at upgrading missile warheads with deadlier payloads. 2% bonus to all missile damage per skill level.",
+    "es": "Habilidad para mejorar las ojivas de los misiles con cargas útiles más letales. 2 % de bonificación a todo el daño de los misiles por nivel de habilidad.",
+    "fr": "Compétence permettant l'installation de charges encore plus mortelles sur des ogives de missiles. Augmente de 2 % par niveau de compétence les dégâts causés par tous les missiles.",
+    "ja": "より殺傷力のあるミサイルの弾頭にアップグレードするスキル。スキルレベル上昇ごとに全てのミサイルダメージが2%増加。",
+    "ko": "탄두의 파괴력을 증가시키기 위한 스킬입니다. 매 레벨마다 미사일 피해량 2% 증가",
+    "ru": "Умение оснащать ракеты более мощными боеголовками. За каждую степень освоения навыка: на 2% повышается урон всех ракет.",
+    "zh": "升级弹头弹药威力的技能。每升一级，所有导弹伤害提高2%。"
+  },
+  "groupID": 256,
+  "iconID": 33,
+  "marketGroupID": 373,
   "name": {
     "de": "Warhead Upgrades",
     "en": "Warhead Upgrades",
@@ -10,5 +23,7 @@
     "ru": "Повышение урона ракет",
     "zh": "战斗部升级研究"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

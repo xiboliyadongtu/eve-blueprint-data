@@ -1,5 +1,18 @@
 {
-  "typeID": 28258,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese gigantische Superstruktur ist eine Forschungsstation. Aufgrund der Art dieser Forschungen bietet diese Station keine kommerziellen Stationsdienste oder Andockhangars und empfängt keine Gäste.",
+    "en": "This gigantic superstructure is a research station. Due to the nature of the research this station does not offer commercial station services or docking bays and does not receive guests.",
+    "es": "Esta superestructura gigante es una estación de investigación. Debido a la naturaleza de los trabajos que en ella se realizan, no tiene los servicios propios de las estaciones comerciales ni plataformas de acoplamiento, y tampoco recibe visitas.",
+    "fr": "Cette superstructure gigantesque est une station de recherche. Étant donné la nature de ses recherches, elle ne dispose pas de services commerciaux ou de baie d'amarrage pour recevoir les invités.",
+    "ja": "この巨大な上位建造物は研究ステーション。研究の性質上、このステーションでは一般向けのステーションサービスを行っておらず、来客を受け入れないためドッキングベイもない。",
+    "ko": "거대한 규모의 연구소 정거장입니다. 오로지 연구 목적으로 건설되었기 때문에 각종 상업 시설은 물론이고 도킹 베이 또한 존재하지 않습니다.",
+    "ru": "Это гигантское сооружение является исследовательской станцией. Проводимые на ней эксперименты исключают возможность ее оснащения помещениями для коммерческих служб и гостевым доками.",
+    "zh": "这个巨大的超建筑是座研究空间站。由于是以研究为目的，因而该空间站不提供商业化的空间站服务或船坞，也不接待访客。"
+  },
+  "graphicID": 2781,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Research Station",
     "en": "Research Station",
@@ -10,5 +23,10 @@
     "ru": "Research Station",
     "zh": "研究站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 11451.0,
+  "sofFactionName": "caldaribase",
   "volume": 100000000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 88153,
+  "capacity": 135.0,
+  "description": {
+    "de": "Eine Drifter-Fregatte. Im Gegensatz zu anderen Drifter-Schiffen werden diese nicht direkt von einem Drifter gesteuert. Stattdessen werden sie von einem Drifter ferngesteuert, der derzeit ein anderes Schiff oder eine andere Struktur steuert.",
+    "en": "A frigate class Drifter vessel. Unlike other Drifter ships, these are not piloted by a Drifter directly. Instead, they are remotely controlled by a Drifter currently piloting another vessel or structure.",
+    "es": "Una nave drifter de clase fragata. A diferencia de otras naves drifter, estas no son pilotadas directamente por un drifter, sino que las controla remotamente un drifter que pilota otra nave o estructura.",
+    "fr": "Une frégate drifter. Contrairement aux autres vaisseaux drifter, celles-ci ne sont pas directement pilotées par un Drifter. Au lieu de cela, elles sont contrôlées à distance par un Drifter actuellement aux commandes d'un autre vaisseau ou d'une structure.",
+    "ja": "フリゲート級のドリフター艦。他のドリフター艦船とは異なり、ドリフターの個体が操縦しているわけではなく、現在別の船またはストラクチャを操縦しているドリフターによって遠隔操縦されている。",
+    "ko": "드리프터의 프리깃 함선입니다. 다른 드리프터 함선과 다르게 드리프터가 직접 조종하지 않습니다. 다른 함선이나 구조물을 조종하는 드리프터가 원격으로 조종합니다.",
+    "ru": "Этот корабль Скитальцев относится к фрегатам. В отличие от своих собратьев, он не управляется Скитальцами напрямую. Его дистанционно контролирует Скиталец, который в данный момент выступает пилотом другого судна или сооружения.",
+    "zh": "一艘护卫舰级流浪者舰船。和其他流浪者舰船不同，这些舰船不是由流浪者直接驾驶的，而是由正在驾驶其他舰船或控制其他建筑的流浪者进行远程控制。"
+  },
+  "graphicID": 28248,
+  "groupID": 1568,
+  "mass": 1190000.0,
   "name": {
     "de": "Drifter Hopilite",
     "en": "Drifter Hopilite",
@@ -10,5 +23,11 @@
     "ru": "Drifter Hopilite",
     "zh": "流浪者重装步兵"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 64,
+  "radius": 34.0,
+  "sofFactionName": "drifter",
+  "soundID": 12,
   "volume": 19100.0
 }

@@ -1,5 +1,19 @@
 {
-  "typeID": 77197,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Von den Caldari entwickelte Schildmatrizen, die dem Schild eines Ziels genügend Energie zuführen, um es praktisch unverwundbar zu machen.",
+    "en": "Caldari made shield arrays capable of outputting sufficient energy to a target's shield to render it practically invulnerable.",
+    "es": "Caldari fabricó sistemas de escudos capaces de enviar suficiente energía al escudo de un objetivo para hacerlo prácticamente invulnerable.",
+    "fr": "Projecteurs de bouclier de fabrication caldari capables de fournir suffisamment d'énergie au bouclier d'une cible pour la rendre pratiquement invulnérable.",
+    "ja": "カルダリ製のシールドアレイは、ターゲットのシールドを実質、破壊不能にできるエネルギーを出力できる。",
+    "ko": "칼다리에서 제작한 실드 장치입니다. 대상의 실드에 충분한 에너지를 공급해 내구성을 대폭 강화합니다.",
+    "ru": "Калдарцы создали станции накачки щитов, которые направляют на щиты цели такой мощный поток энергии, что она становится практически неуязвима.",
+    "zh": "加达里制造的护盾阵列能够向目标的护盾输出足够的能量，使其几乎无懈可击。"
+  },
+  "graphicID": 25976,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Remote Shield Array",
     "en": "Remote Shield Array",
@@ -10,5 +24,9 @@
     "ru": "Remote Shield Array",
     "zh": "远程护盾阵列"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "gallentebase",
   "volume": 27500.0
 }

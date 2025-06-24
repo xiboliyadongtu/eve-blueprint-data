@@ -1,5 +1,18 @@
 {
-  "typeID": 28166,
+  "description": {
+    "de": "Sofern betriebsbereit, erlaubt es der Labordienst Kapselpiloten Forschungs- und Erfindungsaufträge in dieser Station vorzunehmen.",
+    "en": "When operational, the Laboratory Service allows capsuleers to conduct research and invention operations at this station.",
+    "es": "Cuando está operativo, el servicio de laboratorio permite a los capsulistas llevar a cabo operaciones de investigación y de invención en esta estación.",
+    "fr": "Une fois opérationnel, le service d'analyses en laboratoire permet aux capsuliers amarrés à la station de se consacrer à la recherche et à l'invention.",
+    "ja": "研究サービスが稼働中のステーションでは、カプセラは研究・発明を行うことができる。",
+    "ko": "연구 서비스를 통해 연구 및 인벤션 진행이 가능합니다.",
+    "ru": "Действующая научная служба позволяет капсулёрам в доке станции производить работы по модернизации и повышению эффективности производства.",
+    "zh": "启用后，玩家停靠在空间站中时可以使用实验室服务来开展研究和发明项目。"
+  },
+  "graphicID": 10026,
+  "groupID": 874,
+  "iconID": 21430,
+  "mass": 1.0,
   "name": {
     "de": "Laboratory Service",
     "en": "Laboratory Service",
@@ -10,5 +23,9 @@
     "ru": "Laboratory Service",
     "zh": "实验室服务"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 5000.0,
   "volume": 1.0
 }

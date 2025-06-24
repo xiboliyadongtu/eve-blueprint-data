@@ -1,5 +1,19 @@
 {
-  "typeID": 2030,
+  "basePrice": 250000000.0,
+  "description": {
+    "de": "Dies ist ein veralteter Gegenstand, und obwohl er noch funktioniert, gibt es Pläne, ihn in Zukunft aus dem Verkehr zu ziehen. Dieses Upgrade erhöht die Anzahl aktiver Kampfgebiete im aufgewerteten Sonnensystem.",
+    "en": "This is a deprecated item, and though it still functions there are plans for it to be removed from circulation in the future.\r\n\r\nThis upgrade increases the number of active combat sites in the upgraded solar system.",
+    "es": "Este es un objeto obsoleto y, aunque sigue funcionando, hay planes para quitarlo de la circulación en el futuro.\r\n\r\nEsta mejora aumenta el número de zonas de combate activas en el sistema solar mejorado.",
+    "fr": "Il s'agit d'un objet obsolète, et bien qu'il fonctionne encore, des plans sont prévus pour le retirer de la circulation à l'avenir. Cette amélioration augmente les chances de présence d'un site de combat actif dans le système solaire amélioré.",
+    "ja": "これは廃止予定のアイテムです。現在も機能していますが、将来的に市場から削除される予定です。\r\n\r\nアップグレードしたソーラーシステム内のアクティブな戦闘サイトを増加させるアップグレード。",
+    "ko": "해당 아이템은 더 이상 제작이 불가능합니다. 사용은 가능하지만 추후 폐기될 가능성이 존재하니 유의하시기 바랍니다.\r\n\r\n업그레이드가 설치된 성계에서 활성화되는 전투 사이트의 수가 증가합니다.",
+    "ru": "Это устаревший предмет, который до сих пор работает, но в дальнейшем будет изъят из обращения. Такое улучшение повышает число активных горячих точек в отдельной звёздной системе.",
+    "zh": "该物品已弃用。虽然目前依然有效，但计划未来将不再流通。该升级件可以增加星系中活跃战斗地点的数量。"
+  },
+  "groupID": 1021,
+  "iconID": 3951,
+  "marketGroupID": 1284,
+  "mass": 1000.0,
   "name": {
     "de": "Deprecated Pirate Detection Array 5",
     "en": "Deprecated Pirate Detection Array 5",
@@ -10,5 +24,7 @@
     "ru": "Deprecated Pirate Detection Array 5",
     "zh": "弃用的海盗探测阵列5"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 60000.0
 }

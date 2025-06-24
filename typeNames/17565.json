@@ -1,5 +1,17 @@
 {
-  "typeID": 17565,
+  "description": {
+    "de": "Eine Drohne, die dazu verwendet werden kann, Strukturen zu destabilisieren, die an einem Standort verankert sind. Sie können nicht viel mehr, sind aber sehr geschickt bei ihrer Hauptaufgabe.",
+    "en": "A drone that can be used to destabilize structures that are anchored in place.  They are not good for much else but are pretty versatile at what they do.",
+    "es": "Un dron que se puede usar para desestabilizar estructuras ancladas. Aunque no sirve para prácticamente nada más, es muy versátil en su campo.",
+    "fr": "Un drone qui peut être utilisé pour déstabiliser les structures qui sont ancrées sur place.  Ils ne sont guère capables de réaliser d'autres choses, mais sont assez fiables dans leur domaine.",
+    "ja": "所定の位置に固定された建造物を移動可能にするドローン。他に何ができるというわけでもないが、この作業に関しては有能。",
+    "ko": "구조물의 위치 고정을 해제할 수 있는 드론으로 그 외에 기능은 크게 부각되지 않습니다.",
+    "ru": "Дрон, используемый для снятия с якоря стационарных сооружений. Особой многофункциональностью они не отличаются, но при этом порученную им работу делают на «отлично».",
+    "zh": "该无人机可以破坏锚定装置的稳定性。它们没什么别的能耐，但在其专长方面表现还相当不错。"
+  },
+  "graphicID": 1084,
+  "groupID": 470,
+  "mass": 37500.0,
   "name": {
     "de": "Unanchoring Drone",
     "en": "Unanchoring Drone",
@@ -10,5 +22,9 @@
     "ru": "Unanchoring Drone",
     "zh": "反悬浮定位无人机"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 100.0,
+  "sofFactionName": "amarrbase",
   "volume": 500.0
 }

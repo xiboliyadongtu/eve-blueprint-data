@@ -1,5 +1,16 @@
 {
-  "typeID": 3920,
+  "description": {
+    "de": "Amarr Industrial Station.",
+    "en": "Amarr Industrial Station.",
+    "es": "Estación industrial amarriana.",
+    "fr": "Station industrielle amarr.",
+    "ja": "アマーの工業ステーション。",
+    "ko": "아마르 산업 정거장",
+    "ru": "Промышленная станция империи Amarr.",
+    "zh": "艾玛工业空间站。"
+  },
+  "graphicID": 1070,
+  "groupID": 226,
   "name": {
     "de": "Fortified Amarr Industrial Station",
     "en": "Fortified Amarr Industrial Station",
@@ -10,5 +21,9 @@
     "ru": "Fortified Amarr Industrial Station",
     "zh": "强化的艾玛工业空间站"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 17000.0,
+  "sofFactionName": "amarrbase"
 }

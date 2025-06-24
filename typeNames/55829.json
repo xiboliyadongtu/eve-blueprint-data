@@ -1,5 +1,16 @@
 {
-  "typeID": 55829,
+  "description": {
+    "de": "Die Überreste eines zerstörten Schiffs.",
+    "en": "The remains of a destroyed ship.",
+    "es": "Los restos de una nave destruida.",
+    "fr": "Les vestiges d'un vaisseau détruit.",
+    "ja": "破壊された船の残骸。",
+    "ko": "파괴된 함선의 잔해입니다.",
+    "ru": "Обломки уничтоженного корабля.",
+    "zh": "一艘舰船被摧毁后的残骸。"
+  },
+  "graphicID": 24514,
+  "groupID": 226,
   "name": {
     "de": "Triglavian Dreadnought Zirnitra Wreckage",
     "en": "Triglavian Dreadnought Zirnitra Wreckage",
@@ -10,5 +21,9 @@
     "ru": "Triglavian Dreadnought Zirnitra Wreckage",
     "zh": "三神裔无畏舰泽尼塔级残骸"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 135,
+  "radius": 14.0,
+  "sofFactionName": "triglavianbase"
 }

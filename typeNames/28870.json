@@ -1,5 +1,18 @@
 {
-  "typeID": 28870,
+  "basePrice": 100.0,
+  "description": {
+    "de": "Auf den meisten Stationen sind robotische AI Medical Doctors (AIMEDs oder auch \"KI Docs\" oder einfach \"KIDs\") viel häufiger anzutreffen als menschliche Ärzte. Sie sind auch wesentlich günstiger.",
+    "en": "On most stations, robotic AI Medical Doctors (AIMEDs, more commonly known as \"AI Docs\" or just \"AIDs\") are much more common than human medical practitioners, and much more affordable.",
+    "es": "En la mayoría de las estaciones, los robots médicos IA (AIMED, más conocidos como doctores IA) son mucho más comunes y asequibles que los médicos humanos.",
+    "fr": "Dans la plupart des stations, on trouve plus de médecins robots à intelligence artificielle (également appelés « MRIA », « Méd-Rob » ou tout simplement « MR ») que de médecins humains. Il faut dire aussi qu'ils sont aussi beaucoup moins chers.",
+    "ja": "多くのステーションでは、ロボットによるAIメディカルドクター（略称はAIMEDで、一般的には「AIドック」または単に「AID」と呼ばれる）は人間の開業医よりも一般的で、料金もずっと手頃である。",
+    "ko": "대다수의 정거장에서는 인간 의사 대신 로봇 의사(정식 명칭은 AIMED이나 \"인공지능 의사\" 또는 \"AID\"로 주로 불림)를 도입하였습니다.",
+    "ru": "На большинстве станций медицинские роботы с искуственным интеллектом (AIMED или «доктороботы») встречаются намного чаще, чем люди-врачи, и обходятся значительно дешевле.",
+    "zh": "在大多数空间站里，智能机器医生比人类医生要常见得多，而且费用更低廉。"
+  },
+  "groupID": 314,
+  "iconID": 2304,
+  "mass": 5000.0,
   "name": {
     "de": "AIMEDs",
     "en": "AIMEDs",
@@ -10,5 +23,7 @@
     "ru": "AIMEDs",
     "zh": "机器人医生"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 25.0
 }

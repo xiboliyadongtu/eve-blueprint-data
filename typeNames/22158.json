@@ -1,5 +1,18 @@
 {
-  "typeID": 22158,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Teil eines geheimnisvollen Sprungtores, das schon seit langem außer Funktion ist.",
+    "en": "Part of a mysterious portal that has long since malfunctioned.",
+    "es": "Parte de un portal misterioso que falla desde hace mucho.",
+    "fr": "Partie d'un mystérieux portail dysfonctionnant depuis des lustres.",
+    "ja": "長いこと故障したままの謎めいたポータルの一部。",
+    "ko": "오랜 시간 동안 작동이 멈춘 포탈입니다.",
+    "ru": "Часть мистического портала, которая уже давно вышла из строя.",
+    "zh": "一座早已失灵的神秘传送门的一部分。"
+  },
+  "graphicID": 1695,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Damaged Portal",
     "en": "Damaged Portal",
@@ -10,5 +23,10 @@
     "ru": "Damaged Portal",
     "zh": "损坏的传送口"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 890.0,
+  "sofFactionName": "genericbase",
+  "soundID": 31,
   "volume": 100000000.0
 }

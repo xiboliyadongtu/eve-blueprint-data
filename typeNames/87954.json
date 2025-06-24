@@ -1,5 +1,19 @@
 {
-  "typeID": 87954,
+  "basePrice": 100000000.0,
+  "description": {
+    "de": "Dieser fortgeschrittene Detektor ermöglicht es Schiffsscannern, in einem System viele unentdeckte Relikt- und Datensignaturen für Sonden-Scans zu erfassen.",
+    "en": "This advanced detector allows ship scanners to pick up many undetected relic and data signatures for probe scanning within a system.",
+    "es": "Este detector avanzado permite que los escáneres de la nave detecten muchas señales de reliquias y datos previamente no identificadas para su escaneo por sonda dentro de un sistema.",
+    "fr": "Ce détecteur avancé permet aux scanners du vaisseau de détecter de nombreuses signatures de reliques et de données non détectées pour le balayage des sondes dans un système.",
+    "ja": "高性能なディテクター。艦船のスキャナーでシステムをプローブスキャンした際に、未発見の遺物・データシグネチャを大量に捕捉できるようになる。",
+    "ko": "프로브 스캐너를 활용해 성계에 밝혀지지 않은 유물 및 데이터 시그니처를 다량 탐지하는 고급형 탐지기입니다.",
+    "ru": "С помощью этого датчика высокой мощности бортовые сенсоры могут улавливать внутри системы большое количество прежде не обнаруженных сигнатур районов сбора данных и артефактов для дальнейшего сканирования разведзондами.",
+    "zh": "装配这款高级探测器后，舰船扫描仪就能在用探针扫描星系时额外发现大量未经探测的遗迹和数据信号。"
+  },
+  "groupID": 4768,
+  "iconID": 26759,
+  "marketGroupID": 3739,
+  "mass": 1000.0,
   "name": {
     "de": "Exploration Detector 3",
     "en": "Exploration Detector 3",
@@ -10,5 +24,7 @@
     "ru": "Exploration Detector 3",
     "zh": "探索探测器3"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 20000.0
 }

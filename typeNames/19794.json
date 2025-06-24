@@ -1,5 +1,19 @@
 {
-  "typeID": 19794,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Das ist ein Nachschublager für große Raketen.",
+    "en": "This is a supply storage for large missiles.",
+    "es": "Almacén de suministros para misiles grandes.",
+    "fr": "Il s'agit d'un site de stockage de missiles de grande taille.",
+    "ja": "ヘビーミサイルの倉庫。",
+    "ko": "대형 미사일 저장고입니다.",
+    "ru": "Это склад больших ракет.",
+    "zh": "这是一个大型导弹供给仓库。"
+  },
+  "graphicID": 1176,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Cruise Missile Storage",
     "en": "Cruise Missile Storage",
@@ -10,5 +24,9 @@
     "ru": "Cruise Missile Storage",
     "zh": "巡航导弹舱库"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericmetal",
   "volume": 1200.0
 }

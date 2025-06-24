@@ -1,5 +1,19 @@
 {
-  "typeID": 83592,
+  "description": {
+    "de": "<b>Typ:</b> Unterstützungsjäger <b>Rolle:</b> Stören <b>Beschreibung:</b> Die Scarab bietet elektronische Störunterstützung auf dem Schlachtfeld. <b>Störsender</b>: Unterbricht Zielerfassungssysteme. <b>Mikrowarpantrieb</b>: Gewährt einen erheblichen Geschwindigkeitsschub auf Kosten eines höheren Signaturradius. Der Mikrowarpantrieb hat eine lange Abkühlphase zwischen den Einsätzen.",
+    "en": "<b>Type:</b> Support Fighter\r\n<b>Role:</b> Jamming\r\n<b>Description:</b> The Scarab brings electronic jamming support to the battlefield.\r\n\r\n<b>Jammer</b>: Disrupts targeting systems.\r\n<b>Microwarpdrive</b>: Gives a significant speed boost at the cost of higher signature radius. The Microwarpdrive has a long cool-down cycle between uses.",
+    "es": "<b>Tipo:</b> caza de apoyo.\r\n<b>Función:</b> perturbación.\r\n<b>Descripción:</b> la Scarab produce perturbaciones electrónicas en el campo de batalla.\r\n\r\n<b>Perturbador</b>: interrumpe los sistemas de adquisición de objetivos.\r\n<b>Motor de microwarp</b>: otorga un aumento considerable de velocidad a costa de un radio de señal superior. Tiene un ciclo de recarga largo entre un uso y otro.",
+    "fr": "<b>Type :</b> Chasseur de soutien <b>Rôle :</b> Brouillage <b>Description :</b> Le Scarab apporte un soutien au brouillage électronique sur le champ de bataille. <b>Brouilleur</b> : Perturbe les systèmes de ciblage. <b>Propulseur de microwarp</b> : Augmente la vitesse de manière considérable, au prix d'un rayon de signature plus élevé. Le propulseur de microwarp a un cycle de refroidissement prolongé entre deux utilisations.",
+    "ja": "<b>タイプ：</b>支援戦闘機\r\n<b>用途：</b>ジャミング\r\n<b>説明：</b>スカラベは戦場で電子ジャミングによるサポートを行うことができる。\r\n\r\n<b>ジャマー：</b>ターゲティングシステムを妨害する。\r\n<b>マイクロワープドライブ：</b>シグネチャ半径が大きくなる代わりに、速度が大幅に向上する。マイクロワープドライブのクールダウンサイクルは長い。",
+    "ko": "<b>분류:</b> 서포트 파이터 <br><b>임무:</b> 재밍 <br><b>설명:</b> 스캐럽은 전자전 재밍을 수행하기 위해 설계되었습니다. <br><br><b>재머</b>: 타겟팅 시스템에 간섭합니다. <br><b>마이크로 워프 드라이브</b>: 속도가 크게 향상되지만 시그니처 반경이 증가합니다. 긴 재사용 대기시간을 갖고 있습니다.",
+    "ru": "<b>Тип:</b> истребитель поддержки <b>Роль:</b> создание помех <b>Описание:</b> Порой Scarab просто незаменим в бою — этот корабль оказывает достойную поддержку союзникам, создавая помехи для вражеских систем наведения. <b>Генератор помех</b>: нарушает работу систем наведения. <b>Микроварп-ускоритель</b>: ощутимо повышает скорость, при этом увеличивая радиус сигнатуры. Каждый раз после использования микроварп-ускорителю требуется длительное охлаждение.",
+    "zh": "<b>类型：</b>后勤铁骑舰载机<b>职责：</b>干扰<b>描述</b>：圣甲虫在战场上进行电子干扰支援。<b>干扰器</b>：干扰锁定系统。<b>微型跃迁推进器</b>：通过牺牲信号半径来大幅度提升速度。微型跃迁推进器运转后的冷却时间较长。"
+  },
+  "graphicID": 27489,
+  "groupID": 1537,
+  "marketGroupID": 2239,
+  "mass": 1500.0,
+  "metaGroupID": 4.0,
   "name": {
     "de": "Caldari Navy Scarab",
     "en": "Caldari Navy Scarab",
@@ -10,5 +24,11 @@
     "ru": "Caldari Navy Scarab",
     "zh": "加达里海军圣甲虫"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 35.0,
+  "sofFactionName": "caldarinavy",
+  "variationParentTypeID": 40345,
   "volume": 3000.0
 }

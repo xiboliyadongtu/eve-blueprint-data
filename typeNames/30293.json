@@ -1,5 +1,18 @@
 {
-  "typeID": 30293,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Die winzigen Bullaugen starren ins All hinaus und gewähren Einblick hinter die imposanten Panzerplatten dieser Struktur und in ihr seltsames Interieur. Im Zwielicht reihen sich kleine Kammern kaum erkennbar aneinander zu scheinbar endlosen Korridoren im Dunkel dieser gigantischen Verbindungskonstruktion. Myriaden Leitungskabel stoßen auf dicke Rohre, die bis in die hinteren Verschläge des Baus reichen. Auch wenn man ihren Verlauf vom Fundament aus klar erkennen kann, gibt es keinen Hinweis darauf, was sie transportieren. Eine unerklärliche elektronische Interferenz ist aus dem Inneren wahrnehmbar - ein unregelmäßiges Pochen alle paar Sekunden.",
+    "en": "Tiny windows looking out into space offer a glimpse past this structure's impressive armor plating and through to the strange sights within. Barely visible in the dim light are rows upon rows of small chambers, stretching out endlessly inside the darkened hallways of this mammoth conduit. A myriad of connective wires interlace with giant pipelines, feeding into every area of the facility. Although they can be seen coiling up through the foundations, the compounds they are ferrying remain a mystery.\r\n\r\nA strange electronic interference emanates from deep within, pulsing randomly every few seconds.",
+    "es": "Las diminutas ventanas que miran hacia el espacio permiten ver, más allá del impresionante blindaje de esta estructura, su extraño interior. Apenas visibles en la tenue luz, hay filas y filas de pequeñas cámaras que se extienden sin fin por los oscuros pasillos de este gigantesco conducto. Una miríada de cables conectores se entrelazan con gigantescas tuberías que suministran energía a todas las áreas de la instalación. Aunque se pueden intuir a través de los cimientos, los compuestos que transportan siguen siendo un misterio.\n\nUna extraña interferencia electrónica, que late cada pocos segundos, emana de las entrañas.",
+    "fr": "À travers de minuscules fenêtres donnant sur l'espace, on peut voir le blindage impressionnant de cette structure, ainsi qu'un spectacle des plus étranges. À peine visibles dans cette lumière feutrée, des rangées de petits caissons s'étendent à perte de vue dans les couloirs obscurs de ce gigantesque conduit. D'innombrables câbles s'entremêlent avec d'immenses tuyaux, alimentant toutes les zones de la structure. Bien qu'on puisse les voir autour des fondations, les composés qu'ils transportent demeurent un mystère.\n\nAu bout de quelques secondes, une étrange interférence électronique émane de l'intérieur.",
+    "ja": "宇宙が見える小さな窓の向こうには、この建造物の他を圧していたアーマープレートと、内部が透けて見える奇妙な光景が広がっている。薄暗がりの下、小部屋が並んでいるのがかろうじて分かる。巨大な暗渠の中にある暗い廊下に果てしなく連なっている。結合用の無数のワイヤーが巨大なパイプラインの間を走り、施設の全エリアに伸びている。パイプラインは基幹部分の至る所でとぐろを巻いているが、パイプで運ばれている化合物が何かは謎のままだ。\n\n\n奇妙な妨害電波が数秒おきに内部の奥深くから発せられている。",
+    "ko": "견고한 장갑 사이에 설치된 자그마한 창문들을 통해 구조물 내부를 들여다 볼 수 있습니다. 어둠이 집어삼킨 거대한 복도에는 소형 수면 장치가 끝도 없이 늘어서 있습니다. 수많은 전선과 배관이 엉키고 교차연결되어 시설 전체의 전력을 공급하고 있습니다. 바닥에 깔려있는 전선이 어느 구획으로 무엇을 보내는 중인지 알 수 없습니다. <br><br>구조 내부의 깊숙한 곳에서 몇 초에 한 번씩, 정체불명의 전파신호가 발산되고 있습니다.",
+    "ru": "Крохотные окошки, проделанные в некогда впечатляющей броне этого сооружения, позволяют разглядеть скрывающиеся за ней странные помещения. В недрах базы бесконечными сумеречными коридорами тянутся ряды небольших камер, освещаемых тусклым светом. Кабели переплетаются с вездесущими гигантскими трубами; несмотря на то, что эти трубы пронизывают собой все сооружение, их содержимое остается для исследователей загадкой.\n\nКаждые несколько секунд откуда-то из глубин сооружения исходит странный поток электронного излучения.",
+    "zh": "从小小的舷窗中可以窥见这座宏伟建筑上让人惊叹的装甲腹板以及各种诡异的细节。在昏暗的灯光下，可以看到一排排小房间一层叠一层地在这座建筑物中沿着走道延伸出去。复杂的线路相互交织在巨大的管道上，连接着这座设施的各个角落，没人知道这些东西到底是用来输送什么的。\r\n\r\n一股奇怪的电子干扰从这座建筑的深处发射出来，每隔几秒钟就波动一次。"
+  },
+  "graphicID": 3520,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Sleeper Preservation Conduit",
     "en": "Sleeper Preservation Conduit",
@@ -10,5 +23,10 @@
     "ru": "Sleeper Preservation Conduit",
     "zh": "冬眠者后勤储管"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 11361.0,
+  "sofFactionName": "sleeperbase",
+  "soundID": 20218,
   "volume": 100000000.0
 }

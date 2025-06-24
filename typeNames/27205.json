@@ -1,5 +1,17 @@
 {
-  "typeID": 27205,
+  "basePrice": 200000.0,
+  "description": {
+    "de": "Ein Hardwiring von Zainou zum Lenkwaffeninterface, dazu entwickelt, die Fertigkeiten im Umgang mit Lenkwaffen zu verbessern. 5% Bonus auf die Schadenswirkung von XL-Torpedos.",
+    "en": "A Zainou missile hardwiring designed to enhance skill with missiles. 5% bonus to XL torpedo damage.",
+    "es": "Hardware de misil Zainou diseñado para mejorar la habilidad con los misiles. 5 % de bonificación al daño de los torpedos XL.",
+    "fr": "Extension neurale de missiles Zainou, conçue pour optimiser la manœuvre des missiles. Augmente de 5 % les dégâts des torpilles XL.",
+    "ja": "ミサイルのスキルを高めることができるザイノウミサイルの配線。XLトルピードのダメージが5％増加。",
+    "ko": "자이누 미사일 하드와이어링은 미사일 조작 숙련도를 향상합니다. <br><br>매 레벨마다 XL 토피도 피해량 5% 증가",
+    "ru": "Ракетный имплантат «Зайноу» разработан для улучшения навыков ведения ракетного огня из всех типов пусковых установок. На 5% увеличивает поражающее действие всех торпед сверхбольшой мощности.",
+    "zh": "一款载诺集团开发的导弹技能神经交互强化芯片，可增强导弹操纵技能。超大型鱼雷伤害增加5%。"
+  },
+  "groupID": 746,
+  "iconID": 2224,
   "name": {
     "de": "Hardwiring - Zainou 'Sharpshooter' ZMX1000",
     "en": "Hardwiring - Zainou 'Sharpshooter' ZMX1000",
@@ -10,5 +22,7 @@
     "ru": "Hardwiring - Zainou 'Sharpshooter' ZMX1000",
     "zh": "神经交互强化芯片 - 载诺 精确射击 ZMX1000"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

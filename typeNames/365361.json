@@ -1,5 +1,16 @@
 {
-  "typeID": 365361,
+  "description": {
+    "de": "Gegenmaßnahmen werden verwendet, um Geschosse abzuwenden, die schon ein Ziel erfasst haben und verfolgen.",
+    "en": "Countermeasures are employed to explicitly throw off munitions that are already locked-on and in pursuit of a target.",
+    "es": "Las contramedidas se emplean para librarse de las municiones que ya están fijadas en el objetivo y, por tanto, lo persiguen.",
+    "fr": "Des contre-mesures sont utilisées pour se débarrasser des projectiles déjà verrouillés et à la recherche de la cible.",
+    "it": "Contromisure vengono impiegate per liberarsi specificamente di quelle munizioni che sono già bloccate nel perseguimento di un obiettivo.",
+    "ja": "カウンターメジャーは、すでに照準を定められ自動追跡されている武器弾薬を明らかに捨て去るために使用される。",
+    "ko": "적이 타겟팅하여 추적하고 있는 군수품을 버리는 대책을 시행합니다.",
+    "ru": "Ложные цели используются для для того, чтобы сбить с толку снаряды, которые уже захватили и преследуют цель.",
+    "zh": "反制系统可以成功甩掉已经锁定目标且正在追击的飞弹。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Erweiterte Gegenmaßnahme",
     "en": "Advanced Countermeasure",
@@ -11,5 +22,6 @@
     "ru": "Усовершенствованная контрсистема",
     "zh": "高级反制措施"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

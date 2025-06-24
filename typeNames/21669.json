@@ -1,5 +1,18 @@
 {
-  "typeID": 21669,
+  "basePrice": 3328.0,
+  "description": {
+    "de": "Diese, aus einem zerstörten Schiff der Guristas geborgenen Daten, enthalten die Tonaufzeichnung aller Gespräche zwischen dem Piloten und seiner kommandierenden Offiziere während des letzten Monats.",
+    "en": "This salvaged data from a destroyed Guristas vessel contains an audio record of all communications between the pilot and his commanding officers for the last month.",
+    "es": "Estos datos recuperados de una nave gurista destruida contienen un registro de audio de todas las comunicaciones entre el piloto y sus oficiales al mando durante el último mes.",
+    "fr": "Cet enregistrement audio, qui fait partie des données récupérées sur l'épave d'un vaisseau guristas, permet de suivre le fil des communications entre le pilote et ses officiers de commandement au cours du dernier mois.",
+    "ja": "撃墜されたガリスタスの船から回収したデータ。パイロットと司令官の間でやりとりされた、先月分の音声通信データ全てを記録したもの。",
+    "ko": "파괴된 구리스타스 함선에서 습득한 데이터 파일로 지난 한 달간의 통신 내용이 기록되어 있습니다.",
+    "ru": "Эти спасенные данные из разрушенного корабля Gurista содержат запись всех разговоров пилота с командующим офицером за последний месяц.",
+    "zh": "这些从被毁的古斯塔斯船中打捞出来的数据包含了飞行员和指挥官在上个月所有的通信语音记录。"
+  },
+  "groupID": 526,
+  "iconID": 2338,
+  "mass": 1.0,
   "name": {
     "de": "Guristas Communications Logs",
     "en": "Guristas Communications Logs",
@@ -10,5 +23,7 @@
     "ru": "Guristas Communications Logs",
     "zh": "古斯塔斯通讯日志"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

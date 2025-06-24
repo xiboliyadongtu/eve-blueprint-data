@@ -1,5 +1,17 @@
 {
-  "typeID": 23828,
+  "description": {
+    "de": "Von diesen Naturphänomenen behaupten Gerüchte, dass sie diejenigen, die ihnen zu nahe kommen, zu weit entfernten Orten schleudern. Vorsichtige Reisende halten sich von ihnen fern, da einige Leute, die sich zu nahe herangewagt haben, nie wieder gesehen wurden.",
+    "en": "These natural phenomenum that rumour says will hurtle those that come too close to faraway places. Wary travelers stay away from them as some that have ventured too close have never been seen again.",
+    "es": "Fenómenos naturales que, según dicen, enviarán a un lugar remoto a quien se acerque demasiado. Los viajeros precavidos procuran mantener las distancias, pues los que se han atrevido a dar el paso, no han vuelto jamás.",
+    "fr": "Ces phénomènes naturels précipitent, paraît-il, les curieux vers des destinations très éloignées. Les voyageurs ne s'en approchent pas, car les quelques imprudents qui s'y sont aventurés ne sont jamais revenus.",
+    "ja": "自然発生した時空の裂け目。近付いた者は、どこか遠い場所へ飛ばされてしまうと噂されている。無謀にも接近していった者はいずれも行方不明となっているため、用心深い旅行者は近づかない。",
+    "ko": "소문에 따르면 이러한 우주 현상들은 감히 겁 없이 다가오는 자들을 집어 삼켜 머나먼 곳으로 던져 버린다고 합니다. 접근했던 자들의 말로에 대해 익히 들어왔던 여행자들은 이러한 현상들을 자극하지 않도록 매우 조심합니다.",
+    "ru": "Природные явления, по слухам, угрожающие тем, кто забредает в чересчур отдалённые места. Осторожные путешественники держатся от них подальше, так как тех, кто отважился подлететь слишком близко, больше никто никогда не видел.",
+    "zh": "据传，这些自然现象会将过于靠近的人抛到非常遥远的地方。谨慎的旅行者都会避开它们；曾经有些人大着胆靠近它们，结果从此失去了踪迹。"
+  },
+  "graphicID": 2907,
+  "groupID": 366,
+  "mass": 100000.0,
   "name": {
     "de": "Spatial Rift",
     "en": "Spatial Rift",
@@ -10,5 +22,8 @@
     "ru": "Spatial Rift",
     "zh": "空间裂隙"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 14000.0,
+  "soundID": 20211
 }

@@ -1,5 +1,19 @@
 {
-  "typeID": 14530,
+  "description": {
+    "de": "Ein Computersystem, das dazu entworfen wurde, Lenkwaffen während des Fluges zu überwachen und steuern und dadurch eine überragende Effektivität und Abschussrate zu erreichen. \n\nNachteil: Wenn man mehrere Module des gleichen oder ähnlichen Typs einsetzt, die die gleichen Attribute des Schiffes beeinflussen, wird deren Wirksamkeit eingeschränkt.",
+    "en": "A computer system designed for monitoring and guiding missiles in flight, thus allowing for superior effectiveness and lethality. \r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",
+    "es": "Sistema informático desarrollado para controlar y guiar misiles durante el vuelo, lo cual incrementa su efectividad y letalidad. \n\n\n\nPenalización: Por usar más de un tipo de módulo o módulos similares que afecten al mismo atributo de la nave.",
+    "fr": "Système informatique conçu pour suivre et guider les missiles, offrant ainsi une meilleure efficacité et une meilleure létalité. \n\nPénalité : utiliser plus d'un module de ce type ou plusieurs modules liés à un même attribut du vaisseau fera l'objet d'une pénalité.",
+    "ja": "飛行中のミサイルを監視誘導するコンピュータシステム。ミサイルの効果と威力を向上させる。ペナルティ：同じタイプのモジュール、または同じ属性に影響するモジュールを複数取り付けると、ペナルティが発生する。",
+    "ko": "미사일 유도 및 통제를 담당하는 시스템으로 미사일 무기의 살상력과 전반적인 효율성이 증가합니다. <br><br>페널티: 동일한 속성의 모듈 여러 개를 장착할 경우 페널티가 부여됩니다.",
+    "ru": "Эта компьютерная система разработана для управления ракетами в полете, повышая их точность попадания и поражающую силу. Внимание: при использовании нескольких модулей этого типа (или модулей, изменяющих те же характеристики корабля) их общая эффективность снижается.",
+    "zh": "一种用于对飞行中导弹进行监控和制导的电脑系统，可以大大提高导弹的攻击效率和杀伤力。 \n\n惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。"
+  },
+  "groupID": 367,
+  "iconID": 21440,
+  "marketGroupID": 645,
+  "mass": 1.0,
+  "metaGroupID": 5,
   "name": {
     "de": "Mizuro's Modified Ballistic Control System",
     "en": "Mizuro's Modified Ballistic Control System",
@@ -10,5 +24,8 @@
     "ru": "Mizuro's Modified Ballistic Control System",
     "zh": "米兹罗氏改良型弹道控制系统"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 12274,
   "volume": 5.0
 }

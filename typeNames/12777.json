@@ -1,5 +1,21 @@
 {
-  "typeID": 12777,
+  "basePrice": 400000.0,
+  "description": {
+    "de": "Die Hail ist der Versuch, die Durchschlagskraft eines Titan-Treibkäfiggeschosses mit der Vielseitigkeit einer Hülle aus angereichertem Uran zu verbinden. Das Schadenspotential ist bemerkenswert. Allerdings sollte die Hail nicht auf große Entfernung eingesetzt werden. Ein Pilot, der diese Munition verwendet, sollte sich darüber im Klaren sein, dass ein Schaden von verheerendem Ausmaß zu Lasten von optimaler Reichweite, Präzisionsabfall-Quote und Nachführungsgeschwindigkeit geht. 25 % geringerer Präzisionsabfall. 50 % geringere optimale Reichweite. 25 % geringere Nachführungsgeschwindigkeit. Hinweis: Diese Munition kann nur von mittelgroßen Technologiestufe II- und Fraktionsmaschinenkanonen verwendet werden.",
+    "en": "Hail is an attempt to combine the penetration of titanium sabot with the versatility of a depleted uranium shell. It has tremendous damage potential, but should not be used at long ranges. Any pilot using this ammunition should be prepared to trade optimal range, falloff range, and tracking speed for a devastating amount of damage.\r\n\r\n25% reduced falloff.\r\n50% reduced optimal range.\r\n25% reduced tracking speed.\r\n\r\nNote: This ammunition can only be used by medium tech level II and faction Autocannons.",
+    "es": "Hail es un intento de combinar la potencia del perforante de titanio con la versatilidad de un proyectil de uranio empobrecido. Tiene un tremendo potencial destructor, pero no debe usarse a larga distancia. Cualquier piloto que recurra a esta munición debe estar preparado para cambiar el alcance óptimo, el alcance efectivo y la velocidad de rastreo por una cantidad devastadora de daño.\n\n25 % de reducción del alcance efectivo.\n\nAlcance óptimo reducido un 50 %.\n\n25 % de reducción a la velocidad de rastreo.\n\nAviso: Esta munición solo es compatible con cañones automáticos T2 y faccionarios para naves medianas.",
+    "fr": "Le Hail correspond à une tentative de combiner la pénétration d'un sabot de titane et la polyvalence d'un obus d'uranium appauvri. Son potentiel destructif est énorme, mais il ne doit pas être utilisé à longue portée. Les pilotes qui utilisent ces munitions doivent se préparer à perdre une portée optimale, une portée de déperdition et une vitesse de poursuite au profit de dégâts bien plus importants. Déperdition réduite de 25 %. Portée optimale réduite de 50 %. Vitesse de poursuite réduite de 25 %. Remarque : ces munitions ne peuvent s'utiliser qu'avec les canons automatiques intermédiaires de faction et de niveau technologique II.",
+    "ja": "ヘイル弾は、チタン製サボット弾の貫通力と劣化ウラン弾の汎用性を併せ持つ。非常に大きなダメージを与える能力があるが、遠距離戦には向かない。この弾薬を使うなら、膨大なダメージと引き換えに最適射程距離距離、精度低下範囲、そして追跡速度を犠牲にする覚悟が必要だ。\n\n\n\n精度低下範囲が25%縮小。。\n\n最適射程距離が50％短縮。\n\nトラッキング速度が25%減少。\n\n\n\n注：この弾薬は中型T2および各勢力のオートキャノン専用である。",
+    "ko": "헤일은 티타늄 철갑탄의 관통력과 열화 우라늄탄의 범용성을 동시에 취하기 위한 고민 끝에 탄생하였습니다. 대단히 강력한 화력을 보유하고 있지만, 장거리 사격에는 적합하지 않습니다. 막강한 화력을 가진 반면 비교적 최적사거리 및 유효사거리가 짧으며 트래킹 속도가 낮은 편입니다.<br><br>유효사거리 25% 감소 <br>최적사거리 50% 감소 <br>트래킹 속도 25% 감소 <br><br>참고: 중형 테크 II 및 팩션 기관포에만 장착할 수 있습니다.",
+    "ru": "«Шквал» сочетает в себе пробивную способность титанового снаряда с поддоном и многофункциональность оболочки из обеднённого урана. Обладает огромным боевым потенциалом, но совершенно не подходит для использования на больших расстояниях. Пилот, использующий эти боеприпасы, должен быть готов пожертвовать оптимальной и остаточной дальность и скорость наведения взамен на разрушительный урон. Остаточная дальность уменьшена на 25%. Оптимальная дальность уменьшена на 50%. Скорость наведения снижена на 25%. Примечание: эти боеприпасы могут использовать только корабли среднего тоннажа второго техноуровня и государственные автопушки.",
+    "zh": "“冰雹”型弹药的设计意图是将钛合金萨博弹的穿透性与硬钼弹的多功能性相结合。这种弹药具有极强的破坏力，但是却不能在远距离上体现其价值。任何使用这种弹药的飞行员都必须意识到，在拥有强大破坏力的同时，炮的最佳射程、失准范围与追踪速度都会降低。\n\n\n\n失准范围减少25%。\n\n最佳射程减少50%。\n\n跟踪速度降低25%。\n\n\n\n注：只能用于二级科技和势力中型自动加农炮。"
+  },
+  "graphicID": 1293,
+  "groupID": 372,
+  "iconID": 1293,
+  "marketGroupID": 858,
+  "mass": 0.01,
+  "metaGroupID": 2,
   "name": {
     "de": "Hail M",
     "en": "Hail M",
@@ -10,5 +26,8 @@
     "ru": "Hail M",
     "zh": "冰雹 M"
   },
+  "portionSize": 5000,
+  "published": true,
+  "variationParentTypeID": 189,
   "volume": 0.0125
 }

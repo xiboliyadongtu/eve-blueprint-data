@@ -1,5 +1,18 @@
 {
-  "typeID": 34384,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Schnell arbeitender, Hochleistungstraktorstrahl. Er kann so justiert werden, dass er die Lagerdepots, die sich rings um die entfernte Sleeper-Enklave befinden, nah zu sich heranzieht - falls SIe es schaffen, ihn zu aktivieren.",
+    "en": "Heavy duty, fast working tractor beam. It can be aligned to pull storage depots surrounding the distant Sleeper enclave close to itself, if you manage to activate it.",
+    "es": "Rayo tractor rápido de alta resistencia. Se puede alinear para tirar de los depósitos de almacenamiento que rodean el lejano enclave sleeper, si consigues activarlo.",
+    "fr": "Rayon de tractage lourd rapide Il peut être aligné pour rapprocher les dépôts de stockage qui entourent l'enclave sleeper, si vous parvenez à l'activer.",
+    "ja": "頑丈かつ高速で作動するトラクタービーム作動させることができれば、離れたスリーパー領土を取り囲む保管庫を引き寄せるよう調整することができる。",
+    "ko": "대형 트랙터 빔입니다. 활성화 시 슬리퍼 엔클레이브 외곽에 있는 저장고들을 끌어올 수 있습니다.",
+    "ru": "Быстродействующий гравизахват для перевозки тяжёлых грузов После настройки может притянуть к себе склады, окружающие отдалённую территорию Спящих, если у вас получится его включить.",
+    "zh": "快速的重型牵引光束，如果能够激活，经过调整，可以用于牵引距离遥远的冬眠者领地周围的储藏库。"
+  },
+  "graphicID": 2412,
+  "groupID": 226,
+  "mass": 10000.0,
   "name": {
     "de": "Immobile Tractor Beam",
     "en": "Immobile Tractor Beam",
@@ -10,5 +23,10 @@
     "ru": "Immobile Tractor Beam",
     "zh": "静止牵引光束"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 4300.0,
+  "sofFactionName": "genericindustrial",
   "volume": 27500.0
 }

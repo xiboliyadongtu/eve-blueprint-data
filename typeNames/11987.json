@@ -1,5 +1,72 @@
 {
-  "typeID": 11987,
+  "basePrice": 135400000.0,
+  "capacity": 465.0,
+  "description": {
+    "de": "Die Guardian ist das erste Schiff, das mit dem brandneuen Maximierungssystem für Speicherenergie von Carthum Conglomerate ausgerüstet wurde. Das erlaubt sowohl, dass eine größere Energiemenge im Speicher hinterlegt werden, wie auch mehr Energie zu anderen Schiffen transportiert werden kann. Entsprechend dem Wahlspruch von Carthum Conglomerate \"Panzerung und Rumpfstärke\" hat die Guardian nur begrenzte Montageplätze für Bewaffnung. Ihre vorgesehene Hauptaufgabe ist es, als Allround-Unterstützungsschiff die begleitenden Kampfeinheiten mit Energie zu versorgen, damit diese alles unternehmen können, was getan werden muss, um den Sieg zu erringen.",
+    "en": "The Guardian is the first vessel to feature Carthum Conglomerate's brand new capacitor flow maximization system, allowing for greater amounts of energy to be stored in the capacitor as well as providing increased facilities for transporting that energy to other ships.\r\n\r\nWhile featuring Carthum's trademark armor and hull strength, the Guardian, being a support ship, has limited room for armaments. Its intended main function is to serve as an all-round support vessel, providing the raw energy for fleet compatriots to do what they need to do in order to achieve victory.",
+    "es": "La Guardian es la primera nave que integra el nuevo sistema de maximización de flujo de condensador de Carthum Conglomerate, lo que le permite almacenar más energía en él y conseguir con ello una mayor capacidad para transportar dicha energía a otras naves.\r\n\r\nTiene el casco robusto y el blindaje sólido tan típicos de Carthum; pero, como nave de apoyo que es, la Guardian no tiene mucho espacio para armamento. La función principal para la que se la ha creado es la de servir como nave de apoyo todoterreno y proporcionar la energía bruta que los compatriotas de la flota necesitan para alzarse con la victoria.",
+    "fr": "Le Guardian est le premier vaisseau à disposer du tout nouveau système de maximisation de flux du capaciteur de Carthum Conglomerate, ce qui lui permet de stocker beaucoup plus d'énergie dans le capaciteur et d'améliorer la mise à la disposition de cette énergie pour d'autres vaisseaux. Tout en disposant d'une coque et d'un blindage résistants, véritable marque de fabrique de Carthum, le Guardian n'offre que peu de place pour l'armement. Il s'agit avant tout d'un vaisseau de soutien fournissant de l'énergie aux vaisseaux chargés de frapper et de remporter la victoire.",
+    "ja": "ガーディアンは、カーサム複合企業の新製品であるキャパシタ流量最大化システムを装備した最初の艦船である。このシステムは、他の船へのエネルギー転送能力が強化されているだけでなく、キャパシタの容量自体も強化されている。\r\n\r\nカータムのトレードマークである頑丈なアーマーと船体を備えたガーディアンではあるが、支援艦であるため兵器を積載するスペースは限られている。主な役目は汎用支援艦として僚艦にエネルギーを補給し、勝利のためにやるべきことを成し遂げるだけの動力を確保できるようはからうことだ。",
+    "ko": "가디언은 출력 극대화 시스템이 탑재된 최초의 함선으로 캐패시터 총량이 비약적으로 늘어남과 동시에 다른 함선을 대상으로 전송할 수 있는 에너지의 총량이 증가했습니다.\r\n\r\n카슘 사 특유의 견고한 장갑과 선체 방어력을 지녔으나 지원함이라는 한계 탓인지 무기 체계는 상대적으로 뒤떨어집니다. 가디언은 다목적 지원함으로 설계되어 아군 함선을 대상으로 에너지를 전송하는 역할을 담당합니다.",
+    "ru": "Guardian — первое судно, оснащённое новой системой максимизации энергетического потока накопителя, которая позволяет хранить больше энергии и эффективнее поставлять её другим кораблям. Этот корабль боевого обеспечения, как и другие детища инженеров из Картумского конгломерата, отличается особой прочностью брони и корпуса, однако в нём не так много места для орудий. Его основная функция — снабжать корабли союзного флота энергией, необходимой для выполнения боевых задач и достижения победы.",
+    "zh": "守卫级是第一艘装备天主凝聚会新研制的电容电流最大化系统的舰船，这使得它能在电容器中存储更多能量，并可提供更多向其它飞船输送能量的设备。尽管守卫级具有天主凝聚会招牌式的装甲和船体强度，但是作为支援舰，它装配武器的空间十分有限。它的主要定位是全能支援舰，为舰队同伴提供实实在在的能源，以帮助它们取得胜利。"
+  },
+  "factionID": 500003,
+  "graphicID": 1916,
+  "groupID": 832,
+  "marketGroupID": 438,
+  "mass": 11980000.0,
+  "masteries": {
+    "0": [
+      96,
+      97,
+      84,
+      89,
+      91,
+      93,
+      94
+    ],
+    "1": [
+      96,
+      97,
+      84,
+      89,
+      91,
+      93,
+      94
+    ],
+    "2": [
+      96,
+      97,
+      84,
+      89,
+      91,
+      93,
+      94
+    ],
+    "3": [
+      96,
+      97,
+      142,
+      84,
+      89,
+      91,
+      93,
+      94
+    ],
+    "4": [
+      96,
+      97,
+      142,
+      84,
+      117,
+      89,
+      91,
+      93,
+      94
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Guardian",
     "en": "Guardian",
@@ -10,5 +77,143 @@
     "ru": "Guardian",
     "zh": "守卫级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 80.0,
+  "sofFactionName": "carthum",
+  "soundID": 20063,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 65.0,
+        "bonusText": {
+          "de": "Reduktion des Stromnetz-Bedarfs von <a href=showinfo:16069>Panzerungs-Fernreparatursystemen</a>",
+          "en": "reduction in <a href=showinfo:16069>Remote Armor Repairer</a> powergrid requirement",
+          "es": "de reducción de los requisitos del sistema de potencia del <a href=showinfo:16069>reparador de blindaje remoto</a>.",
+          "fr": "de réduction du réseau d'alimentation requis par les <a href=showinfo:16069>réparateurs de blindage à distance</a>",
+          "ja": "<a href=showinfo:16069>リモートアーマーリペアラ</a>のパワーグリッド使用量が軽減",
+          "ko": "<a href=showinfo:16069>원격 장갑수리 장치</a> 파워그리드 요구치 감소",
+          "ru": "сокращается потребность <a href=showinfo:16069>установок дистанционного ремонта брони</a> в мощности реактора",
+          "zh": "<a href=\"showinfo:16069\">远程装甲维修器</a>能量栅格需求降低"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Reduktion des Stromnetz-Bedarfs von <a href=showinfo:3423>Energiespeicher-Ferntransmittern</a>",
+          "en": "reduction in <a href=showinfo:3423>Remote Capacitor Transmitter</a> powergrid requirement",
+          "es": "de reducción de los requisitos del sistema de potencia del <a href=showinfo:3423>transmisor de condensador remoto</a>.",
+          "fr": "de réduction du réseau d'alimentation requis par les <a href=showinfo:3423>transmetteurs de capaciteur à distance</a>",
+          "ja": "<a href=showinfo:3423>リモートキャパシタトランスミッター</a>のパワーグリッド使用量が軽減",
+          "ko": "<a href=showinfo:3423>원격 캐패시터 전송기</a> 파워그리드 요구치 감소",
+          "ru": "сокращается потребность <a href=showinfo:3423>установок дистанционного энергоснабжения</a> в мощности реактора",
+          "zh": "<a href=\"showinfo:3423\">远程电容传输装置</a>能量栅格需求降低"
+        },
+        "importance": 2,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3335": [
+        {
+          "bonus": 150.0,
+          "bonusText": {
+            "de": "Bonus auf die Reichweite von <a href=showinfo:3423>Energiespeicher-Ferntransmittern</a>",
+            "en": "bonus to <a href=showinfo:3423>Remote Capacitor Transmitter</a> range",
+            "es": "de bonificación al alcance del <a href=showinfo:3423>transmisor de condensador remoto</a>.",
+            "fr": "de bonus à la portée du <a href=showinfo:3423>transmetteur de capaciteur à distance</a>",
+            "ja": "<a href=showinfo:3423>リモートキャパシタトランスミッター</a>の範囲が拡大",
+            "ko": "<a href=showinfo:3423>원격 캐패시터 전송기</a> 사거리 증가",
+            "ru": "увеличивается дальность действия <a href=showinfo:3423>установок дистанционного энергоснабжения</a>",
+            "zh": "<a href=showinfo:3423>远程电容传输装置</a>距离加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 20.0,
+          "bonusText": {
+            "de": "Bonus auf die Transfermenge von <a href=showinfo:3439>Versorgungsdrohnen</a>",
+            "en": "bonus to <a href=showinfo:3439>Logistic Drone</a> transfer amount",
+            "es": "de bonificación a la cantidad de transferencia de los <a href=showinfo:3439>drones logísticos</a>.",
+            "fr": "de bonus à la quantité de transfert du <a href=showinfo:3439>drone logistique</a>",
+            "ja": "<a href=showinfo:3439>支援型ドローン</a>の転送量が向上",
+            "ko": "<a href=showinfo:3439>로지스틱스 드론</a> 수리량 증가",
+            "ru": "повышается производительность <a href=showinfo:3439>ремонтных дронов</a>",
+            "zh": "<a href=showinfo:3439>后勤无人机</a>传输量加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 60.0,
+          "bonusText": {
+            "de": "Bonus auf die optimale Reichweite und den Präzisionsabfall von <a href=showinfo:16069>Panzerungsfernreparatursystemen</a>",
+            "en": "bonus to <a href=showinfo:16069>Remote Armor Repairer</a> optimal range and falloff",
+            "es": "de bonificación a los alcances óptimo y efectivo del <a href=showinfo:16069>reparador de blindaje remoto</a>.",
+            "fr": "de bonus à la portée optimale et à la perte du <a href=showinfo:16069>réparateur de blindage à distance</a>",
+            "ja": "<a href=showinfo:16069>リモートアーマーリペアラ</a>の最適射程距離および精度低下範囲が改善",
+            "ko": "<a href=showinfo:16069>원격 장갑수리 장치</a> 최적사거리 및 유효사거리 증가",
+            "ru": "увеличивается оптимальная и добавочная дальность действия <a href=showinfo:16069>установок дистанционного ремонта брони</a>",
+            "zh": "<a href=showinfo:16069>远程装甲维修器</a>最佳射程和失准范围加成"
+          },
+          "importance": 3,
+          "unitID": 105
+        }
+      ],
+      "12096": [
+        {
+          "bonus": 15.0,
+          "bonusText": {
+            "de": "Reduktion der Aktivierungskosten von <a href=showinfo:3423>Energiespeicher-Ferntransmittern</a>",
+            "en": "reduction in <a href=showinfo:3423>Remote Capacitor Transmitter</a> activation cost",
+            "es": "de reducción del coste de activación del <a href=showinfo:3423>transmisor de condensador remoto</a>.",
+            "fr": "de réduction du coût d'activation des <a href=showinfo:3423>transmetteurs de capaciteur à distance</a>",
+            "ja": "<a href=showinfo:3423>リモートキャパシタトランスミッター</a>の起動コストが軽減",
+            "ko": "<a href=showinfo:3423>원격 캐패시터 전송기</a> 활성화 비용 감소",
+            "ru": "сокращается потребление энергии <a href=showinfo:3423>установками дистанционного энергоснабжения</a>",
+            "zh": "<a href=\"showinfo:3423\">远程电容传输装置</a>启动消耗减少"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 15.0,
+          "bonusText": {
+            "de": "Reduktion der Aktivierungskosten von <a href=showinfo:16069>Panzerungs-Fernreparatursystemen</a>",
+            "en": "reduction in <a href=showinfo:16069>Remote Armor Repairer</a> activation cost",
+            "es": "de reducción del coste de activación del <a href=showinfo:16069>reparador de blindaje remoto</a>.",
+            "fr": "de réduction du coût d'activation des <a href=showinfo:16069>réparateurs de blindage à distance</a>",
+            "ja": "<a href=showinfo:16069>リモートアーマーリペアラ</a>の起動コストが軽減",
+            "ko": "<a href=showinfo:16069>원격 장갑수리 장치</a> 활성화 비용 감소",
+            "ru": "сокращается потребление энергии <a href=showinfo:16069>установками дистанционного ремонта брони</a>",
+            "zh": "<a href=\"showinfo:16069\">远程装甲维修器</a>启动消耗减少"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die HP der <a href=showinfo:3394>Panzerplatte</a>",
+            "en": "bonus to <a href=showinfo:3394>Armor Plate</a> hitpoints",
+            "es": "de bonificación a los puntos de vida de las <a href=showinfo:3394>placas de blindaje</a>.",
+            "fr": "de bonus aux points de vie du <a href=showinfo:3394>revêtement de blindage</a>",
+            "ja": "<a href=showinfo:3394>アーマープレート</a>HPが増加",
+            "ko": "<a href=showinfo:3394>장갑 플레이트</a> 내구도 증가",
+            "ru": "бонус к прочности <a href=showinfo:3394>бронеплиты</a>",
+            "zh": "<a href=showinfo:3394>装甲板</a>装甲值加成"
+          },
+          "importance": 3,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 625,
   "volume": 115000.0
 }

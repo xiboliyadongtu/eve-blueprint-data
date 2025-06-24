@@ -1,5 +1,17 @@
 {
-  "typeID": 8255,
+  "description": {
+    "de": "Erhöht die Stromnetzleistung.",
+    "en": "Boosts power core output.",
+    "es": "Aumenta el rendimiento del núcleo de potencia.",
+    "fr": "Améliore la puissance d'alimentation du réacteur principal.",
+    "ja": "パワーコアの出力を向上させる。",
+    "ko": "파워그리드 용량이 증가합니다.",
+    "ru": "Увеличивает производительность энергосистемы корабля.",
+    "zh": "提升能源核心输出功率。"
+  },
+  "groupID": 766,
+  "iconID": 26546,
+  "mass": 20.0,
   "name": {
     "de": "Type-E Power Core Modification: Reaction Control",
     "en": "Type-E Power Core Modification: Reaction Control",
@@ -10,5 +22,9 @@
     "ru": "Type-E Power Core Modification: Reaction Control",
     "zh": "E型能源核心增强改进型：反应堆控制"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 500.0,
   "volume": 5.0
 }

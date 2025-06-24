@@ -1,5 +1,72 @@
 {
-  "typeID": 58745,
+  "capacity": 210.0,
+  "description": {
+    "de": "Die Association for Interdisciplinary Research (AIR) ist eine unabhängige Organisation, die ihren Schwerpunkt auf die Erforschung und Entwicklung neuer Technologien in verschiedenen Industriezweigen setzt. Das Unternehmen hat Abteilungen, die alles, von Rüstungstechnologie, über industrielle und wirtschaftliche Aufgaben, bis hin zu Erkundungsoperationen, abdecken. AIR Laboratories, eine Unterabteilung der AIR, beaufsichtigt und verwaltet das AIR-Trainingsprogramm für Kapselpiloten. AIR Civilian Astero wurde speziell für den Einsatz von Angestellten der AIR Laboratories auf jenen entlegenen Außenposten entworfen, auf denen sich die AIR CTP-Operationen befinden.",
+    "en": "The Association for Interdisciplinary Research is an independent organization focused heavily on research and development of new technologies across multiple industries. The company has subdivisions that cover everything from combat-oriented technology, industrial and economic endeavors, and exploration-focused pursuits. AIR Laboratories, a subdivision of AIR, is responsible for oversight and management of the AIR Capsuleer Training Program. The AIR Civilian Astero has been designed specifically for use by AIR Laboratories personnel stationed at the remote outpost sites that house AIR CTP operations.",
+    "es": "La Asociación para la Investigación Interdisciplinaria (también conocida como AIR) es una organización independiente centrada en la investigación y el desarrollo de nuevas tecnologías en distintos sectores. La empresa tiene subdivisiones que cubren todos los ámbitos, desde tecnología de combate hasta objetivos industriales, pasando por actividades económicas y de exploración. AIR Laboratories, una subdivisión de AIR, se ocupa de supervisar y gestionar el programa de entrenamiento de capsulistas. La Astero civil de AIR se ha diseñado específicamente para su utilización por parte del personal de AIR Laboratories destinado en los puestos avanzados remotos del PAC.",
+    "fr": "L'Association de recherche interdisciplinaire est une organisation indépendante qui se concentre principalement sur la recherche et le développement de nouvelles technologies englobant plusieurs industries. Le groupe possède des sous-divisions qui couvrent tous les domaines, de la technologie de combat aux efforts industriels et économiques, en passant par les activités d'exploration. Les Laboratoires de l'AIR sont une sous-division de l'AIR responsable de la supervision et de la gestion du programme de formation des Capsuliers de l'AIR. L'Astero civil de l'AIR a été conçu spécifiquement pour le personnel des Laboratoires de l'AIR, et notamment pour les personnes affectées aux avant-postes isolés abritant les opérations de formation de l'organisation.",
+    "ja": "学際的研究協会（AIR）は、複数の分野にまたがった新技術の研究開発に特化した第三者機関です。この企業には、戦闘向け技術や産業・経済的な取り組み、そして調査に特化した研究まであらゆるジャンルを網羅する複数の下位部門が存在しています。そんな下位部門の一つであるAIR研究所は、AIRカプセラトレーニングプログラムの管理、経営を担当しています。AIR民間人仕様アステロは、AIR CTPオペレーションがある辺境アウトポストにいるAIR研究所スタッフが使用するために設計されています。",
+    "ko": "학제간연구협회는 다양한 분야의 기술을 연구 및 개발하는 단체로 전투, 산업, 경제, 그리고 탐사 관련 프로젝트를 다수 진행하고 있습니다. AIR 또한 그 가운데 하나로 AIR 캡슐리어 훈련 프로그램이 활발하게 실행되고 있습니다. AIR 아스테로는 외곽 지역에서 캡슐리어 훈련 프로그램(CTP)을 진행하는 연구소 직원들을 위해 설계되었습니다.",
+    "ru": "Ассоциация междисциплинарных исследований — независимая организация, в основном специализирующаяся на исследованиях и разработке новых технологий в разных отраслях. Компания насчитывает множество подразделений, охватывающих все сферы, начиная с боевых, промышленных и экономических технологий и заканчивая средствами разведки. Сотрудники лабораторий АМИ, одного из подразделений организации, ответственны за реализацию учебной программы АМИ. Этот фрегат «Астеро» гражданского образца создавался специально для персонала «Лабораторий АМИ», работающих в удалённых форпостах, где реализуется новая программа подготовки капсулёров.",
+    "zh": "跨学科研究协会是一个独立组织，致力于多种工业门类的新技术研发。该组织的下属分支机构涵盖了战斗、工业、经济和探索相关的几乎所有方面。星空会实验室是星空会的下属组织，负责监管星空会的克隆飞行员训练项目。星空会民用阿斯特罗级专为驻扎在偏远地区的星空会实验室人员设计。"
+  },
+  "factionID": 500016,
+  "graphicID": 25014,
+  "groupID": 25,
+  "mass": 975000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      102,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      102,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      102,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      102,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      102,
+      50,
+      117,
+      150,
+      89,
+      93,
+      94
+    ]
+  },
   "name": {
     "de": "AIR Civilian Astero",
     "en": "AIR Civilian Astero",
@@ -10,5 +77,12 @@
     "ru": "AIR Civilian Astero",
     "zh": "星空会民用阿斯特罗级"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 35.0,
+  "sofFactionName": "air",
+  "sofMaterialSetID": 2758,
+  "soundID": 20126,
   "volume": 16500.0
 }

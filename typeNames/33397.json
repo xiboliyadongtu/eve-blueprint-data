@@ -1,5 +1,80 @@
 {
-  "typeID": 33397,
+  "basePrice": 400000.0,
+  "capacity": 190.0,
+  "description": {
+    "de": "Die Chremoas ist die Covert Ops-Variante des Angel Cartel. Lassen Sie sich nicht von der Klassenbezeichnung täuschen: Die Chremoas ist ein überaus leistungsfähiges Schlachtschiff, das von einer Tarnvorrichtung, fortgeschrittenen Zielsystemen, wie man sie bislang nur von Tarnkappenbombern kannte, und umfangreichen mittelstarken Energiemodul-Slots Gebrauch macht, um Kämpfe auszuwählen und zu kontrollieren, die sie gewinnen kann. Wenn Sie sehen wie sich eine Chremoas enttarnt, ist der Kampf bereits vorbei.",
+    "en": "The Chremoas is the Angel Cartel's take on the Covert Ops ship. Don't let the class designation fool you, the Chremoas is a more than capable combat vessel that takes advantage of a covert cloak, advanced targeting systems previously only seen on stealth bombers, and ample medium power module slots to pick and control the fights it knows it can win. By the time you see a Chremoas decloak, the fight is already over.",
+    "es": "La Chremoas es la nave de operaciones encubiertas del Cártel de los Ángeles. Que la designación de clase no te engañe: es una nave de combate más que capaz equipada con camuflaje encubierto, sistemas avanzados de adquisición de objetivos antes solo vistos en los bombarderos sigilosos, y muchas ranuras de módulos de potencia mediana para seleccionar y controlar los combates que sabe que puede ganar. Para cuando veas a una Chremoas descamuflada, es que la batalla ha terminado.",
+    "fr": "Le Chremoas est la mise en perspective angel d'un vaisseau des opérations secrètes. Malgré son appartenance à la classe des frégates, le Chremoas est un vaisseau de combat extrêmement efficace, doté d'un camouflage opérations secrètes, de systèmes de ciblage avancés auparavant réservés aux bombardiers furtifs, et de nombreux emplacements intermédiaires où équiper les modules qui lui permettront de rester maître de ses combats. Si par malheur un Chremoas désactive son camouflage à portée de votre vaisseau, votre sort est déjà scellé.",
+    "ja": "エンジェルカルテルが隠密行動艦として採用しているもの。ドラミエル級という名前に惑わされてはならない。従来ステルス爆撃機にしか搭載されていなかった隠密行動用遮蔽装置、高性能なターゲット捕捉システム、さらには十分な数のミディアムパワーモジュールスロットを装備し、戦闘を終始意のままに操る負け知らずのクレモアスは、並の高性能戦艦ではない。クレモアスがその姿を表す時、勝者はすでに決まっている。",
+    "ko": "크레모아스는 엔젤 카르텔이 운용하는 코버트 옵스 전용 함선입니다. 코버트 옵스라는 명칭과는 달리 상당히 준수한 전투력을 보유한 함선으로 일반적인 클로킹 기능뿐만 아니라 스텔스 폭격기용 첨단 타겟팅 시스템을 탑재하고 있습니다. 추가로 준수한 확장성을 지녀 다수의 모듈을 탑재할 수 있습니다. 이러한 특징을 바탕으로 크레모아스는 이길 수 있는 싸움을 고르고 교전 상황을 유리하게 제어할 수 있습니다. 크레모아스가 클로킹을 해제한다면 전투는 사실상 끝난 것이나 마찬가지입니다.",
+    "ru": "Проект «Хремоас» — результат попытки «картеля ангелов» создать диверсионный фрегат. Не следует судить о возможностях этого корабля по его роли: «Хремоас» — более чем достойный боевой корабль. В распоряжении его пилота окажутся всережимные системы маскировки, сверхсовременные системы сопровождения цели (ранее применявшиеся лишь в конструкциях ударно-диверсионных бомбардировщиков) и достаточное количество разъёмов средней мощности. Пилот диверсионного корабля типа «Хремоас» начинает и ведёт бой на своих условиях — тогда, когда может быть уверен в победе. Выход «Хремоаса» из режима маскировки означает, что исход боя предрешён.",
+    "zh": "克雷默斯级是天使集团在隐形特勤舰船方面的新尝试。千万别被它的舰船级别给骗了，克雷默斯级可是一艘强大的战斗舰船。它拥有先进的隐形装置、辅以之前只在隐形轰炸舰上使用的高级锁定系统及海量的中槽位，使得它可以随心所欲地掌控战斗，所向披靡。在你看到一艘克雷默斯级从黑暗中现身的那一刻，战斗其实就已经结束了。"
+  },
+  "factionID": 500011,
+  "graphicID": 20344,
+  "groupID": 830,
+  "marketGroupID": 1838,
+  "mass": 930000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      150,
+      71,
+      104,
+      108,
+      141,
+      85,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      150,
+      71,
+      104,
+      108,
+      141,
+      85,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      150,
+      71,
+      104,
+      108,
+      141,
+      85,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      150,
+      71,
+      104,
+      108,
+      141,
+      85,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      150,
+      71,
+      104,
+      108,
+      141,
+      85,
+      118,
+      94
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Chremoas",
     "en": "Chremoas",
@@ -9,6 +84,169 @@
     "ko": "크레모아스",
     "ru": "Chremoas",
     "zh": "克雷默斯级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 25.0,
+  "sofFactionName": "tournament-xi",
+  "soundID": 20070,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 200.0,
+        "bonusText": {
+          "de": "Bonus auf den Schaden von <a href=showinfo:3302>kleinen Projektilgeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:3302>Small Projectile Turret</a> damage",
+          "es": "de bonificación al daño de la <a href=showinfo:3302>torreta de proyectiles pequeña</a>.",
+          "fr": "de bonus aux dégâts des <a href=showinfo:3302>petites tourelles à projectiles</a>",
+          "ja": "<a href=showinfo:3302>小型プロジェクタイルタレット</a>のダメージが増加",
+          "ko": "<a href=showinfo:3302>소형 발사체 터렛</a> 피해량 증가",
+          "ru": "увеличивается урон боеприпасов <a href=showinfo:3302>малых баллистических орудий</a>",
+          "zh": "<a href=\"showinfo:3302\">小型射弹炮台</a>伤害加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 10.0,
+        "bonusText": {
+          "de": "Bonus auf die Virusstärke von <a href=showinfo:22177>Relikt-</a> und <a href=showinfo:22175>Datenanalysatoren</a>",
+          "en": "bonus to <a href=showinfo:22177>Relic</a> and <a href=showinfo:22175>Data Analyzer</a> virus strength",
+          "es": "de bonificación a la intensidad del virus de los <a href=showinfo:22175>analizadores de datos</a> y de <a href=showinfo:22177>reliquias</a>.",
+          "fr": "de bonus à la puissance du virus des <a href=showinfo:22177>analyseurs de reliques</a> et des <a href=showinfo:22175>analyseurs de données</a>",
+          "ja": "<a href=showinfo:22177>遺物アナライザー</a>と<a href=showinfo:22175>データアナライザー</a>のウイルス強度が増加",
+          "ko": "<a href=showinfo:22177>유물</a> 및 <a href=showinfo:22175>데이터 분석기</a> 바이러스 침투력 증가",
+          "ru": "повышается степень опасности вирусов, применяемых в <a href=showinfo:22175>комплексах анализа данных</a> и <a href=showinfo:22177>комплексах анализа артефактов</a>",
+          "zh": "<a href=\"showinfo:22177\">遗迹分析仪</a>和<a href=\"showinfo:22175\">数据分析仪</a>病毒强度加成"
+        },
+        "importance": 2,
+        "unitID": 139
+      },
+      {
+        "bonusText": {
+          "de": "Es können <a href=showinfo:11578>Covert Ops-Tarnmodule</a> und <a href=showinfo:28646>getarnte Anziehungsfeldgeneratoren</a> eingebaut werden",
+          "en": "Can fit <a href=showinfo:11578>Covert Ops Cloaking Device</a> and <a href=showinfo:28646>Covert Cynosural Field Generator</a>",
+          "es": "Es posible equipar un <a href=showinfo:11578>dispositivo de camuflaje de operaciones encubiertas</a> y un <a href=showinfo:28646>generador de campo cinosural encubierto</a>.",
+          "fr": "Peut équiper des <a href=showinfo:11578>dispositifs de camouflage opérations spéciales</a> et des <a href=showinfo:28646>générateurs de champ cynosural furtif</a>",
+          "ja": "<a href=showinfo:11578>隠密行動用遮蔽装置</a>と<a href=showinfo:28646>潜伏用サイノシュラルフィールドジェネレータ</a>を装備できる",
+          "ko": "<a href=showinfo:11578>코버트 옵스 클로킹 장치</a> 및 <a href=showinfo:11578>코버트 사이노슈럴 필드 생성기</a>장착 가능",
+          "ru": "Корабли этого типа могут оснащаться <a href=showinfo:11578>всережимными системами маскировки</a> и <a href=showinfo:28646>приводными маяками скрытого действия</a>",
+          "zh": "可以装备<a href=\"showinfo:11578\">隐秘行动隐形装置</a>和<a href=\"showinfo:28646\">隐秘诱导力场发生器</a>"
+        },
+        "importance": 3
+      },
+      {
+        "bonusText": {
+          "de": "Keine Verzögerung bei der Zielaufschaltung nach der Deaktivierung von <a href=showinfo:11579>Tarnmodulen</a>",
+          "en": "No targeting delay after <a href=showinfo:11579>Cloaking Device</a> deactivation",
+          "es": "No hay demora en la adquisición de objetivos tras la desactivación del <a href=showinfo:11579>dispositivo de camuflaje</a>.",
+          "fr": "Aucun délai de ciblage après la désactivation des <a href=showinfo:11579>dispositifs de camouflage</a>",
+          "ja": "<a href=showinfo:11579>遮蔽装置</a>を停止した後のターゲット遅延なし",
+          "ko": "<a href=showinfo:11579>클로킹 장치</a> 비활성화 후 타겟팅 딜레이 없음",
+          "ru": "На кораблях этого типа устранена задержка включения систем захвата целей, вызываемая отключением <a href=showinfo:11579>систем маскировки</a>",
+          "zh": "重新启动<a href=\"showinfo:11579\">隐形装置</a>后不遭受锁定延时副作用"
+        },
+        "importance": 4
+      },
+      {
+        "bonusText": {
+          "de": "Die Verzögerung bei Reaktivierung von <a href=showinfo:11579>Tarnmodulen</a> wird auf 5 Sekunden reduziert.",
+          "en": "<a href=showinfo:11579>Cloak</a> reactivation delay reduced to 5 seconds",
+          "es": "Reducción de la demora de reactivación del <a href=showinfo:11579>camuflaje</a> a 5 segundos.",
+          "fr": "Délai de réactivation du <a href=showinfo:11579>camouflage</a> réduit à 5 secondes",
+          "ja": "<a href=showinfo:11579>遮蔽装置</a>の再起動遅延が5秒に短縮",
+          "ko": "<a href=showinfo:11579>클로킹</a> 재가동 지연 시간 5초로 감소",
+          "ru": "Задержка повторного включения <a href=showinfo:11579>систем маскировки</a> сокращена до 5 секунд",
+          "zh": "<a href=\"showinfo:11579\">隐形装置</a>重启延时降到5秒"
+        },
+        "importance": 5
+      },
+      {
+        "bonus": 60.0,
+        "bonusText": {
+          "de": "Bonus auf die Warpgeschwindigkeit und Warpbeschleunigung",
+          "en": "bonus to warp speed and warp acceleration",
+          "es": "de bonificación a la velocidad y la aceleración de warp.",
+          "fr": "de bonus à la vitesse de warp et à l'accélération de warp",
+          "ja": "ワープ速度とワープ加速度が上昇",
+          "ko": "워프 속도 및 워프 가속도 증가",
+          "ru": "бонус к разгону и скорости хода (в варп-режиме)",
+          "zh": "跃迁速度和跃迁加速加成"
+        },
+        "importance": 6,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3328": [
+        {
+          "bonus": 15.0,
+          "bonusText": {
+            "de": "Bonus auf die Nachführungsgeschwindigkeit von <a href=showinfo:3302>kleinen Projektilgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3302>Small Projectile Turret</a> tracking speed",
+            "es": "de bonificación a la velocidad de rastreo de la <a href=showinfo:3302>torreta de proyectiles pequeña</a>.",
+            "fr": "de bonus à la vitesse de poursuite des <a href=showinfo:3302>petites tourelles à projectiles</a>",
+            "ja": "<a href=showinfo:3302>小型プロジェクタイルタレット</a>の追跡速度が上昇",
+            "ko": "<a href=showinfo:3302>소형 발사체 터렛</a> 트래킹 속도 증가",
+            "ru": "повышается скорость наводки на цель <a href=showinfo:3302>малых баллистических орудий</a>",
+            "zh": "<a href=\"showinfo:3302\">小型射弹炮台</a>跟踪速度加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ],
+      "3329": [
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die optimale Reichweite und den Präzisionsabfall von <a href=showinfo:3302>kleinen Projektilgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3302>Small Projectile Turret</a> optimal range and falloff",
+            "es": "de bonificación a los alcances óptimo y efectivo de la <a href=showinfo:3302>torreta de proyectiles pequeña</a>.",
+            "fr": "de bonus à la portée optimale et à la distance de perte des <a href=showinfo:3302>petites tourelles à projectiles</a>",
+            "ja": "<a href=showinfo:3302>小型プロジェクタイルタレット</a>の最適射程距離と精度低下範囲が拡大",
+            "ko": "<a href=showinfo:3302>소형 발사체 터렛</a> 최적사거리 및 유효사거리 증가",
+            "ru": "увеличивается оптимальная и добавочная дальность ведения огня из <a href=showinfo:3302>малых баллистических орудий</a>",
+            "zh": "<a href=\"showinfo:3302\">小型射弹炮台</a>最佳射程和失准范围加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ],
+      "12093": [
+        {
+          "bonus": 20.0,
+          "bonusText": {
+            "de": "Reduktion des CPU-Bedarfs für <a href=showinfo:11579>Tarnmodule</a>",
+            "en": "reduction in <a href=showinfo:11579>Cloaking Devices</a> CPU requirement",
+            "es": "de reducción del requisito de CPU de los <a href=showinfo:11579>dispositivos de camuflaje</a>.",
+            "fr": "de réduction au CPU requis par les <a href=showinfo:11579>dispositifs de camouflage</a>",
+            "ja": "<a href=showinfo:11579>遮蔽装置</a>のCPU使用量が減少",
+            "ko": "<a href=showinfo:11579>클로킹 장치</a> CPU 사용량 감소",
+            "ru": "сокращается потребность <a href=showinfo:11579>систем маскировки</a> в мощностях ЦПУ",
+            "zh": "<a href=\"showinfo:11579\">隐形装置</a>的CPU需求降低"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die Stärke von <a href=showinfo:30013>Basis-</a> und <a href=showinfo:30028>Gefechtsscansonden</a>",
+            "en": "bonus to <a href=showinfo:30013>Core</a> and <a href=showinfo:30028>Combat Scanner Probe</a> strength",
+            "es": "de bonificación a la intensidad de la <a href=showinfo:30028>sonda escáner de combate</a> y la <a href=showinfo:30013>de núcleo</a>.",
+            "fr": "de bonus à la puissance des <a href=showinfo:30013>sondes d'exploration principales</a> et des <a href=showinfo:30028>sondes d'exploration de combat</a>",
+            "ja": "<a href=showinfo:30013>コアスキャナープローブ</a>と<a href=showinfo:30028>戦闘スキャナープローブ</a>の強度が増加",
+            "ko": "<a href=showinfo:30013>코어 프로브</a> 및 <a href=showinfo:30028>정찰 프로브</a> 스캔 강도 증가",
+            "ru": "повышается чувствительность бортовой аппаратуры <a href=showinfo:30013>зондов навигационной разведки</a> и <a href=showinfo:30028>боевых разведзондов</a>",
+            "zh": "<a href=\"showinfo:30013\">核心</a>和<a href=\"showinfo:30028\">作战扫描探针</a>强度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 28000.0
 }

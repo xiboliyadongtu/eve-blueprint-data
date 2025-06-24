@@ -1,5 +1,18 @@
 {
-  "typeID": 17626,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieser Industrial der Bestower-Klasse wird zur Zeit gewartet.",
+    "en": "This Bestower-class industrial is currently undergoing maintenance.",
+    "es": "Esta nave industrial de clase Bestower está en mantenimiento.",
+    "fr": "Ce vaisseau industriel de classe Bestower est en cours de maintenance.",
+    "ja": "現在メンテナンス中のビストワー級輸送艦。",
+    "ko": "정비 중인 베스토어급 인더스트리얼입니다.",
+    "ru": "Промышленный корабль класса Bestower, стоящий на ремонте.",
+    "zh": "这艘“恩赐者”级工业舰正在进行维护。"
+  },
+  "graphicID": 1064,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Stationary Bestower",
     "en": "Stationary Bestower",
@@ -10,5 +23,10 @@
     "ru": "Stationary Bestower",
     "zh": "停靠着的恩赐者级"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 400.0,
+  "sofFactionName": "amarrbase",
   "volume": 100000000.0
 }

@@ -1,5 +1,60 @@
 {
-  "typeID": 37459,
+  "basePrice": 18200000.0,
+  "capacity": 280.0,
+  "description": {
+    "de": "Die Logistikfregatte der Thalia-Klasse wurde von Roden Shipyards als mobilere Alternative zu ihrem äußerst erfolgreichen Oneiros-Versorgungskreuzer entwickelt. Die Thalia kann mit Fregatten- und Zerstörergeschwadern mithalten und bietet herausragende Unterstützung für Panzerung in einem kompakten und preislich attraktiven Format. Ende YC117 trieb die Nachricht, dass die Federation Navy eine riesige Bestellung von Fregatten der Thalia-Klasse aufgegeben hatte, die Aktien von Roden Shipyards auf ein Siebenjahreshoch.",
+    "en": "The Thalia-class Logistics Frigate was developed by Roden Shipyards as a more mobile counterpart to their wildly successful Oneiros Logistics Cruiser. Able to keep pace with frigate and destroyer wings, the Thalia boasts excellent armor support capabilities in a compact and reasonably-priced form factor. In late YC117, news that the Federation Navy had placed a massive order for Thalia-class frigates brought Roden Shipyards stock to a seven year high.",
+    "es": "La fragata logística Thalia fue desarrollada por Roden Shipyards como una homóloga más móvil de su exitoso crucero logístico Oneiros. La Thalia, capaz de seguir el ritmo de las alas de fragatas y destructores, cuenta con excelentes capacidades de apoyo de blindaje, en un formato compacto y por un precio razonable. A finales del año 117 CY, se supo que la Armada de la Federación había realizado un pedido masivo de fragatas Thalia, lo cual provocó que las acciones de Roden Shipyards alcanzaran su nivel máximo en siete años.",
+    "fr": "La frégate logistique de classe Thalia a été développée par les chantiers navals Roden comme une version plus mobile de leur croiseur logistique Oneiros, lui-même un grand succès. Capable de suivre le rythme des escadres de frégates et de destroyers, le Thalia offre d'excellentes capacités de soutien de blindage dans un format compact et à un prix raisonnable. Fin 117 après CY, l'annonce que la Federation Navy avait passé une commande massive de frégates de classe Thalia a propulsé les actions des chantiers navals Roden à un sommet inégalé depuis sept ans.",
+    "ja": "ローデン造船所はオネイロス級支援型巡洋艦を開発し大成功を収めたが、その機動性を高めることに重点を置いて生まれたのがタリア級支援型フリゲートである。比較的安価に生産できる小型な形状で、フリゲートや駆逐艦で構成された部隊について行くことができる機動力に加え、優れたアーマーサポート能力を備えている。YC117年後半、連邦海軍がタリア級フリゲートの大量発注を行ったというニュースが報じられると、ローデン造船所の株価が過去7年の最高値に跳ね上がった。",
+    "ko": "로덴 쉽야드가 개발한 탈리아급 로지스틱스 프리깃으로 오네이로스급 로지스틱스 크루저로부터 기동성을 향상한 모델입니다. 효율적인 장갑 수리 능력을 바탕으로 프리깃 및 디스트로이어 전대의 지원 임무를 담당하며 생산 단가 또한 저렴하여 파일럿들이 크게 선호하는 기체입니다. YC 117년 말, 연방 해군이 탈리아급 프리깃에 대한 대량 구매를 신청함으로써 로덴 쉽야드의 주식은 7년만에 최고가를 달성하였습니다.",
+    "ru": "Фрегат боевого обеспечения Thalia от «Верфей Родена» создавался как более шустрая версия чудовищно популярного крейсера Oneiros, выпущенного той же компанией. Thalia обладает достаточной скоростью, чтобы поспевать за флангами фрегатов и эсминцев, и может похвастаться мощнейшими системами восстановления брони в своём ценовом и весовом сегменте. В конце 117 года от ю. с. флот Федерации заказал у «Верфей Родена» огромную партию таких кораблей, и акции компании взлетели до семилетнего максимума.",
+    "zh": "塔利亚级后勤护卫舰由莱登船业研发，是其大受欢迎的奥内罗斯级后勤巡洋舰的小型版本。塔利亚级具有优秀的装甲维修能力，而且能跟得上护卫舰和巡洋舰队伍。YC117年底，联邦海军下达了大批量塔利亚级护卫舰订单，使得莱登船业的股票达到了7年来的新高。"
+  },
+  "factionID": 500004,
+  "graphicID": 21217,
+  "groupID": 1527,
+  "marketGroupID": 2149,
+  "mass": 1450000.0,
+  "masteries": {
+    "0": [
+      96,
+      140,
+      89,
+      91,
+      94
+    ],
+    "1": [
+      96,
+      140,
+      89,
+      91,
+      94
+    ],
+    "2": [
+      96,
+      140,
+      89,
+      91,
+      94
+    ],
+    "3": [
+      96,
+      140,
+      89,
+      91,
+      94
+    ],
+    "4": [
+      96,
+      140,
+      117,
+      89,
+      91,
+      94
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Thalia",
     "en": "Thalia",
@@ -10,5 +65,112 @@
     "ru": "Thalia",
     "zh": "塔利亚级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 35.0,
+  "sofFactionName": "roden",
+  "soundID": 20074,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonus": 50,
+        "bonusText": {
+          "de": "Bonus auf die optimale Reichweite von <a href=showinfo:16069>Panzerungsfernreparatursystemen</a>",
+          "en": "bonus to <a href=showinfo:16069>Remote Armor Repairer</a> optimal range",
+          "es": "de bonificación al alcance óptimo del <a href=showinfo:16069>reparador de blindaje remoto</a>.",
+          "fr": "de bonus à la portée optimale du <a href=showinfo:16069>réparateur de blindage à distance</a>",
+          "ja": "<a href=showinfo:16069>リモートアーマーリペアラ</a>の最適射程距離が拡大",
+          "ko": "<a href=showinfo:16069>원격 장갑수리 장치</a> 최적사거리 증가",
+          "ru": "увеличивается оптимальная дальность действия <a href=showinfo:16069>установок дистанционного ремонта брони</a>",
+          "zh": "<a href=showinfo:16069>远程装甲维修器</a>最佳射程加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 600,
+        "bonusText": {
+          "de": "Bonus auf den Präzisionsabfall von <a href=showinfo:16069>Panzerungsfernreparatursystemen</a>",
+          "en": "bonus to <a href=showinfo:16069>Remote Armor Repairer</a> falloff",
+          "es": "de bonificación al alcance efectivo del <a href=showinfo:16069>reparador de blindaje remoto</a>.",
+          "fr": "de bonus à la perte du <a href=showinfo:16069>réparateur de blindage à distance</a>",
+          "ja": "<a href=showinfo:16069>リモートアーマーリペアラ</a>の精度低下範囲が改善",
+          "ko": "<a href=showinfo:16069>원격 장갑수리 장치</a> 유효사거리 증가",
+          "ru": "увеличивается добавочная дальность действия <a href=showinfo:16069>установок дистанционного ремонта брони</a>",
+          "zh": "<a href=showinfo:16069>远程装甲维修器</a>失准范围加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3328": [
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf die Reparaturmenge von <a href=showinfo:16069>Panzerungsfernreparatursystemen</a>",
+            "en": "bonus to <a href=showinfo:16069>Remote Armor Repairer</a> amount",
+            "es": "de bonificación a la eficiencia de los <a href=showinfo:16069>reparadores de blindaje remotos</a>.",
+            "fr": "de bonus au montant du <a href=showinfo:16069>réparateur de blindage à distance</a>",
+            "ja": "<a href=showinfo:16069>リモートアーマーリペアラ</a>のリペア量が増加",
+            "ko": "<a href=showinfo:16069>원격 장갑수리 장치</a> 수리량 증가",
+            "ru": "повышается производительность <a href=showinfo:16069>установок дистанционного ремонта брони</a>",
+            "zh": "<a href=showinfo:16069>远程装甲维修器</a>维修量加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Reduktion der Aktivierungskosten von <a href=showinfo:16069>Panzerungs-Fernreparatursystemen</a>",
+            "en": "reduction in <a href=showinfo:16069>Remote Armor Repairer</a> activation cost",
+            "es": "de reducción del coste de activación del <a href=showinfo:16069>reparador de blindaje remoto</a>.",
+            "fr": "de réduction du coût d'activation du <a href=showinfo:16069>réparateur de blindage à distance</a>",
+            "ja": "<a href=showinfo:16069>リモートアーマーリペアラ</a>の起動コストを削減",
+            "ko": "<a href=showinfo:16069>원격 장갑수리 장치</a> 활성화 비용 감소",
+            "ru": "сокращается потребление энергии <a href=showinfo:16069>установками дистанционного ремонта брони</a>",
+            "zh": "<a href=showinfo:16069>远程装甲维修器</a>启动消耗减少"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ],
+      "40328": [
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Reduktion der Dauer und Aktivierungskosten von <a href=showinfo:16069>Panzerungsfernreparatursystemen</a>",
+            "en": "reduction in <a href=showinfo:16069>Remote Armor Repairer</a> duration and activation cost",
+            "es": "de reducción de la duración y el coste de activación del <a href=showinfo:16069>reparador de blindaje remoto</a>.",
+            "fr": "de réduction du coût d'activation et de la durée du <a href=showinfo:16069>réparateur de blindage à distance</a>",
+            "ja": "<a href=showinfo:16069>リモートアーマーリペアラ</a>の持続時間および起動コストが改善",
+            "ko": "<a href=showinfo:16069>원격 장갑수리 장치</a> 지속시간 및 활성화 비용 감소",
+            "ru": "сокращается потребление энергии <a href=showinfo:16069>установками дистанционного ремонта брони</a> и продолжительность их рабочего цикла",
+            "zh": "<a href=showinfo:16069>远程装甲维修器</a>运转周期和启动消耗减少"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 4,
+          "bonusText": {
+            "de": "Reduktion des Signaturradius",
+            "en": "reduction in signature radius",
+            "es": "de reducción del radio de la señal.",
+            "fr": "réduction du rayon de signature",
+            "ja": "シグネチャ半径が縮小",
+            "ko": "시그니처 반경 감소",
+            "ru": "уменьшается размер сигнатуры корабля",
+            "zh": "信号半径降低"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 592,
   "volume": 10000.0
 }

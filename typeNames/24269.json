@@ -1,5 +1,18 @@
 {
-  "typeID": 24269,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieser Außenposten wurde von den Gefolgsleuten Lord Arachnans gebaut.",
+    "en": "This outpost was constructed by Lord Arachnan's henchmen.",
+    "es": "Este puesto avanzado fue construido por los secuaces de Lord Arachnan.",
+    "fr": "Cet avant-poste fut construit par les acolytes du Seigneur Arachnan.",
+    "ja": "アーチャナン卿の部下が建造したアウトポスト。",
+    "ko": "아라크난의 수하들이 건설한 전초기지입니다.",
+    "ru": "Эта станция была сконструирована прихвостнями Лорда Arachnan.",
+    "zh": "这座哨站由埃拉克兰大人的随从建造。"
+  },
+  "graphicID": 1683,
+  "groupID": 306,
+  "mass": 100000.0,
   "name": {
     "de": "Lord Arachnan's Outpost",
     "en": "Lord Arachnan's Outpost",
@@ -10,5 +23,10 @@
     "ru": "Lord Arachnan's Outpost",
     "zh": "埃拉克兰大人哨站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 60.0,
+  "sofFactionName": "genericbase",
   "volume": 100000000.0
 }

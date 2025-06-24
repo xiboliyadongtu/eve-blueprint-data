@@ -1,5 +1,17 @@
 {
-  "typeID": 32403,
+  "description": {
+    "de": "Dieser Transponder, von Koris Geheimagent, ist Ihr Ticket für ein Rendezvous mit der Navy. Nach der Zerstörung des Schiffs des Agenten ist der Transponder kaum noch funktionsfähig, enthält aber Erkennungsdaten, die die Sicherheitsfrequenzen verschlüsseln, so dass wir ihnen vorgaukeln können, Ihr Schiff sei das von Eroma.",
+    "en": "This transponder, taken from Kori's operative, is your ticket to the rendezvous with the Navy. Barely functional after the destruction of the operative's ship, it contains identification data that will scramble security frequencies, tricking them into identifying your ship as Eroma's.",
+    "es": "Este transpondedor, tomado del operativo de Kori, es tu billete para reunirte con la Armada. Apenas funciona después de la destrucción de la nave del operativo, pero contiene datos de identificación que distorsionan las frecuencias de seguridad, haciendo que identifiquen tu nave como la de Eroma.",
+    "fr": "Ce transpondeur, volé à l'agent de Kori, est votre laissez-passer pour un rendez-vous avec la Navy. Ayant presque perdu toute utilité depuis la destruction du vaisseau, il contient des données d'identification qui viendront brouiller les fréquences de sécurité, faisant passer votre vaisseau pour celui d'Eroma.",
+    "ja": "コーリの工作員から手に入れた応答装置。海軍との合流点へのチケットとなる。工作船の破壊後はほとんど機能していないが、識別データが含まれており、セキュリティ周波数を変調して自分の船をエロマの船と偽ることができる。",
+    "ko": "코리의 요원으로부터 얻은 이 트랜스폰더는 당신이 해군과 접선할 수 있도록 해줄 것 입니다. 요원의 함선이 파괴되며 트랜스폰더도 상당히 손상되었으나 다행히 작동은 가능합니다. 내장된 식별자료를 통해 비밀통신을 교란시킬 수 있어 당신의 함선을 에로마의 함선으로 속일 수 있을 것 같습니다.",
+    "ru": "Транспондер, снятый с корабля оперативника Kiri, станет вашим пропуском на встречу с представителем Флота. Он уже почти не работает после уничтожения корабля оперативника, но в нем содержатся идентификационные данные, которые глушат частоты служб безопасности и заставляют их опознавать ваш корабль как принадлежащий Eroma.",
+    "zh": "这个应答器是从考利的特工那里弄到的，你需要用它来同海军进行会合。特工的舰船爆炸后使这个东西的功能受到了损坏，它里面包含的识别数据能够干扰欺骗安全频道，使其将你的舰船识别为伊洛玛的舰船。"
+  },
+  "groupID": 314,
+  "iconID": 2037,
+  "mass": 1.0,
   "name": {
     "de": "Caldari Navy Overlay Transponder",
     "en": "Caldari Navy Overlay Transponder",
@@ -10,5 +22,7 @@
     "ru": "Caldari Navy Overlay Transponder",
     "zh": "加达里海军覆盖应答器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

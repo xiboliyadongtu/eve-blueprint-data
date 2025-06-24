@@ -1,5 +1,17 @@
 {
-  "typeID": 2747,
+  "basePrice": 50000000.0,
+  "description": {
+    "de": "Dieser Typ von Blaupause wurde ausgemustert und kann nicht mehr für industrielle Zwecke verwendet werden.",
+    "en": "This type of blueprint has been phased out and may no longer be used for industrial activities.",
+    "es": "Este tipo de plano se ha eliminado y ya no se puede usar en actividades industriales.",
+    "fr": "Ce type de plan de construction a été progressivement abandonné, et est dorénavant inutilisable pour les activités industrielles.",
+    "ja": "このタイプのプループリントは廃止され、もはや工業活動において使用することはできなくなっている。",
+    "ko": "사용이 중단된 블루프린트로 더 이상 생산을 진행할 수 없습니다.",
+    "ru": "Этот тип чертежа снят с эксплуатации, и его больше нельзя использовать в производственных целях.",
+    "zh": "这种蓝图已经被淘汰，不再用于任何工业项目中。"
+  },
+  "graphicID": 2598,
+  "groupID": 1048,
   "name": {
     "de": "Hybrid Polymer Silo Blueprint",
     "en": "Hybrid Polymer Silo Blueprint",
@@ -10,5 +22,8 @@
     "ru": "Hybrid Polymer Silo Blueprint",
     "zh": "混合聚合物储藏库蓝图"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "genericmetal",
   "volume": 0.01
 }

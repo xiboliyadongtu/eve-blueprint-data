@@ -1,5 +1,22 @@
 {
-  "typeID": 14403,
+  "basePrice": 1500000.0,
+  "capacity": 1.0,
+  "description": {
+    "de": "Diese wuchtige, schlachtschiff-typische Waffe kann ganz schön zuschlagen. Railguns verwenden Magnetschienen, um solide Materiebrocken mit Überschallgeschwindigkeit zu verschießen. Die Präzisionsreichweite von Railguns ist sehr gut, aber aufgrund technischer Einschränkungen kann keine bordeigene Zielsuche benutzt werden. Das führt zu einem drastischen Abfall der Genauigkeit bei extremen Entfernungen. \n\n\n\nBenötigt Hybridmunition: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",
+    "en": "This large battleship-sized weapon packs quite a punch. Railguns use magnetic rails to fire solid chunks of matter at hypersonic speed. The accurate range of railguns is very good, but due to technical limitations it cannot use onboard guidance. This results in a fairly rapid drop in accuracy at extreme ranges. \r\n\r\nRequires hybrid charge types: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",
+    "es": "Arma grande y potente para naves de tamaño acorazado. Los cañones electromagnéticos usan carriles imantados para disparar fragmentos sólidos de materia a velocidad hipersónica. Buena precisión de alcance. Pero, debido a sus limitaciones técnicas, no puede usar el sistema de guiado de a bordo; por lo que, en distancias extremas, su precisión se reduce drásticamente.\n\nRequiere tipos de carga híbrida: antimateria, iridio, hierro, plomo, plutonio, torio, tungsteno, uranio.",
+    "fr": "Cette arme faite pour les cuirassés est très puissante. Les canons à rail font appel à des rails magnétiques pour envoyer de gros morceaux de matières à une vitesse hypersonique. La portée des canons à rail est très précise, mais des limites techniques empêchent l'utilisation de systèmes de guidage embarqués. Cela se traduit par une diminution notable de la précision à très longue portée. \n\nRequiert les types de charges hybrides suivants : antimatière, iridium, fer, plomb, plutonium, thorium, tungstène, uranium.",
+    "ja": "この戦艦用大型砲が秘めた威力は絶大だ。レールガンは電磁誘導レールを使って固体弾を超音速で発射する兵器である。レールガンの命中精度は非常に高いが、技術上の制約で、弾に誘導装置を搭載できない。そのため超長距離射程では命中精度が急激に低下する。\r\n\n装填できるハイブリッド弾のタイプ:アンチマター弾、イリジウム弾、アイアン弾、鉛弾、プルトニウム弾、トリウム弾、タングステン弾、ウラン弾。",
+    "ko": "강력한 화력을 갖춘 배틀쉽용 대형 무기입니다. 레일건은 전자기력을 이용하여 초음속 고체 탄자를 발사합니다. 최적사거리는 길지만 기술적인 한계로 인해 함내 유도 시스템의 사용이 불가능합니다. 이로 인해 장거리 사격일수록 명중률이 급속도로 하락합니다. <br><br>사용 가능한 하이브리드탄: 반물질탄, 이리듐탄, 강철탄, 납탄, 플루토늄탄, 토륨탄, 텅스텐탄, 우라늄탄.",
+    "ru": "Крупнокалиберное орудие большой мощности. Предназначено для оснащения линейных кораблей. Рейлган — это электромагнитный ускоритель, «рельсы» которого способны разогнать снаряд до гиперзвуковой скорости. Из рейлгана можно вести прицельный огонь на очень большие дистанции, однако по мере удаления цели точность стрельбы по ней будет заметно снижаться — увы, снаряды рейлганов нельзя оборудовать системами наведения. \n\n\n\nСтрельба из рейлгана ведётся гибридными боеприпасами следующих типов: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",
+    "zh": "这种大型战列舰级武器的威力强大。使用电磁轨道将实心的弹丸以超高音速发射出去。磁轨炮的精确射程很长，但由于技术限制，不能进行舰载制导。这导致了在极限射程附近命中率会骤减。使用的混合弹药类型：反物质弹药、铱质弹药、铁质弹药、铅质弹药、锰质弹药、钍质弹药、钨质弹药、钼质弹药。"
+  },
+  "graphicID": 21684,
+  "groupID": 74,
+  "iconID": 366,
+  "marketGroupID": 566,
+  "mass": 2000.0,
+  "metaGroupID": 5,
   "name": {
     "de": "Vepas' Modified 425mm Railgun",
     "en": "Vepas' Modified 425mm Railgun",
@@ -10,5 +27,10 @@
     "ru": "Vepas' Modified 425mm Railgun",
     "zh": "威帕斯改良型425mm磁轨炮"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 1000.0,
+  "sofFactionName": "caldariofficer",
+  "variationParentTypeID": 574,
   "volume": 20.0
 }

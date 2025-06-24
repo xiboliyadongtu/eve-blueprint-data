@@ -1,5 +1,21 @@
 {
-  "typeID": 20061,
+  "basePrice": 200000000.0,
+  "capacity": 70000.0,
+  "description": {
+    "de": "Caldari-Kontrolltürme wurden zunächst von Kaalakiota gebaut. Seitdem sie ihre Anstrengungen jedoch hauptsächlich auf andere, profitablere Installation richteten, verloren sie bald den Vertrag und die Sukuuvestaa Corporation übernahm die Entwicklung und Fertigung der Kontrolltürme.\r\n\r\nRassenboni:\r\n25% Bonus auf die Feuergeschwindigkeit von Raketenbatterien\r\n50% Bonus auf die Geschwindigkeit von Raketen\r\n75% reduzierte Zeit für Zielwechsel von Batterien für elektronische Kriegsführung",
+    "en": "At first the Caldari Control Towers were manufactured by Kaalakiota, but since they focused their efforts mostly on other, more profitable installations, they soon lost the contract and the Sukuuvestaa corporation took over the Control Towers' development and production.\r\n\r\nRacial Bonuses:\r\n25% bonus to Missile Battery Rate of Fire\r\n50% bonus to Missile Velocity\r\n-75% bonus to Electronic Warfare Battery Target Cycling Speed",
+    "es": "Al principio, Kaalakiota fabricaba las torres de control caldaris, pero, como centraban sus esfuerzos en otras instalaciones más rentables, pronto perdieron el contrato y la corporación Sukuuvestaa pasó a ser la responsable de su desarrollo y producción.\n\n\n\nBonificaciones raciales:\n\n25 % de bonificación a la cadencia de tiro de la batería de misiles.\n\n50 % de bonificación a la velocidad de los misiles.\n\n-75 % de bonificación a la velocidad de cambio de objetivos de la batería de guerra electrónica.",
+    "fr": "À l'origine, les tours de contrôle caldari étaient produites par la corporation Kaalakiota, mais cette dernière ayant porté ses efforts sur d'autres installations plus rentables, elle perdit rapidement le contrat. La Sukuuvestaa Corporation reprit le développement et la production des tours de contrôle.\n\nBonus de race :\nAugmente de 25 % la cadence de tir des batteries de missiles\nAugmente de 50 % la vitesse du missile\nRéduit de 75 % la vitesse cyclique de la cible de la batterie de guerre électronique",
+    "ja": "当初、カルダリコントロールタワーの製造を請け負っていたのはカーラキオタだったが、やがて彼らの労力はもっと実入りのいい施設に注がれるようになった。この結果、契約は破棄され、スクーベスタコーポレションが開発と生産を引き継いだ。人種ボーナス :\n\nミサイル兵器の発射間隔に 25% のボーナス\n\nミサイルの速度に 50% のボーナス\n\n電子戦兵器のターゲットサイクル速度が 75% 減少",
+    "ko": "칼다리의 첫 관제타워를 건설했던 회사는 칼라키오타였습니다. 그러나 이들이 수익이 되는 다른 시설 건설에 더 주력하자 칼다리는 불만을 가지게 되었습니다. 얼마 지나지 않아 계약은 파기되었고 이후 수쿠베스타 코퍼레이션이 칼다리의 관제타워 개발과 건설을 도맡게 되었습니다. <br><br>종족 보너스: <br><br>미사일 포탑 연사속도 25% 증가<br>미사일 속도 50% 증가<br>전자전 포탑 타겟 전환 속도 75% 감소",
+    "ru": "Сначала башни управления базами Caldari производились корпорацией Kaalakiota, но потом она сфокусировала свое внимание на более прибыльных проектах; контракт на модернизацию и поставку башен перешел в руки корпорации Ishukone.\n\nРасовые бонусы: \nУвеличение скорострельности ракетных батарей (Missile Battery) — на 25%\nУвеличение скорости полета запускаемых батареями ракет — на 50%\nУвеличение скорости переключения батарей РЭБ (Electronic Warfare Battery) между целями — на 75%",
+    "zh": "加达里控制塔最初由卡拉吉塔集团制造，但由于该集团将精力主要集中于其他利润更高的装备，不久便失去了合同，于是斯库维塔集团接管了控制塔的开发和生产工作。 \r\n\r\n种族加成：导弹发射塔的发射速度增加25% 导弹速度增加50% 电子战炮架切换目标间隔时间减少75%"
+  },
+  "graphicID": 2599,
+  "groupID": 365,
+  "marketGroupID": 478,
+  "mass": 200000000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Caldari Control Tower Medium",
     "en": "Caldari Control Tower Medium",
@@ -10,5 +26,10 @@
     "ru": "Caldari Control Tower Medium",
     "zh": "加达里中型控制塔"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 3275.0,
+  "sofFactionName": "caldaribase",
   "volume": 4000.0
 }

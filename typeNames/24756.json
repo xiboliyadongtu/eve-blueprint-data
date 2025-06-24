@@ -1,5 +1,17 @@
 {
-  "typeID": 24756,
+  "description": {
+    "de": "Als gestohlen gemeldete Unterlagen.",
+    "en": "Documents reported stolen.",
+    "es": "Documentos cuyo robo se denunció.",
+    "fr": "Documents déclarés volés.",
+    "ja": "盗難届けが出されていた文書。",
+    "ko": "도난당했다고 알려진 문서입니다.",
+    "ru": "Украденные документы.",
+    "zh": "失窃的文件。"
+  },
+  "groupID": 526,
+  "iconID": 1192,
+  "mass": 1.0,
   "name": {
     "de": "Stolen Documents",
     "en": "Stolen Documents",
@@ -10,5 +22,7 @@
     "ru": "Stolen Documents",
     "zh": "失窃的文件"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

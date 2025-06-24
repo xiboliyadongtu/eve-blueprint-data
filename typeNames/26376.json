@@ -1,5 +1,19 @@
 {
-  "typeID": 26376,
+  "description": {
+    "de": "Diese Schiffsmodifikation wurde dazu entwickelt, die Kapazität des Energiespeichers eines Schiffes zu vergrößern.",
+    "en": "This ship modification is designed to increase a ship's capacitor capacity.",
+    "es": "Esta modificación de nave está diseñada para aumentar la capacidad del condensador de una nave.",
+    "fr": "Cette modification de vaisseau est conçue pour améliorer la charge de capaciteur d'un vaisseau.",
+    "ja": "船のキャパシタ容量が増加する。",
+    "ko": "리그 장착 시 함선의 캐패시터 용량이 증가합니다.",
+    "ru": "Эта модификация увеличивает емкость конденсатора корабля.",
+    "zh": "这个飞船改装件用于来增加舰船的电容器电容量。"
+  },
+  "groupID": 781,
+  "iconID": 3195,
+  "marketGroupID": 1224,
+  "mass": 200.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Large Semiconductor Memory Cell II",
     "en": "Large Semiconductor Memory Cell II",
@@ -10,5 +24,9 @@
     "ru": "Large Semiconductor Memory Cell II",
     "zh": "大型半导体记忆电池 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 100.0,
+  "variationParentTypeID": 25954,
   "volume": 20.0
 }

@@ -1,5 +1,16 @@
 {
-  "typeID": 2733,
+  "description": {
+    "de": "Als Schemata bezeichnet man einen Satz von Maschinen und industrielle Prozesse, durch die eine planetare Fertigungsanlage so konfiguriert werden kann, dass bestimmte Güter in bestimmte andere Güter umgewandelt werden können.",
+    "en": "Schematics define a set of machinery and industrial processes with which a planetary manufacturing facility can be configured in order to enable the facility to convert certain commodities into certain other commodities.",
+    "es": "Los diagramas definen un conjunto de maquinaria y procesos industriales con los que se puede configurar una instalación de fabricación planetaria para que pueda convertir ciertas mercancías en otras.",
+    "fr": "Les schémas définissent un ensemble de machineries et de processus industriels avec lesquels une installation de production planétaire peut être configurée pour convertir certaines marchandises en d'autres marchandises.",
+    "ja": "概要図とは、惑星の製造施設内で物資を別の加工品へ変換できるように設定された、施設にある機械とその産業プロセスをまとめたものである。",
+    "ko": "기계 부품과 산업 분야의 생산시설을 통해 특정 물품이나 원자재를 사용하여 또 다른 물품으로 가공합니다.",
+    "ru": "Производственные схемы описывают последовательность технологических операций, выполняемых в процессе выпуска продукции определенного типа. Смена производственной схемы приводит к переналадке оборудования планетарного производственного комплекса и изменению списка товаров, потребляемых комплексом в ходе производства.",
+    "zh": "加工方案定义一套机械和工业流程，行星生产设施将会按照这套流程工艺进行生产，由此工厂设施才能将一类资源物品转变成另外类型的资源物品。"
+  },
+  "groupID": 937,
+  "iconID": 1438,
   "name": {
     "de": "Schematic",
     "en": "Schematic",
@@ -10,5 +21,6 @@
     "ru": "Schematic",
     "zh": "加工方案"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

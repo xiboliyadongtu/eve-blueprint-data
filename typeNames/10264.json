@@ -1,5 +1,17 @@
 {
-  "typeID": 10264,
+  "basePrice": 300000000.0,
+  "description": {
+    "de": "Fertigkeit, für CONCORD arbeiten zu können.",
+    "en": "Skill at operating Concord.",
+    "es": "Habilidad en el manejo de CONCORD.",
+    "fr": "Compétence liée à l'utilisation de Concord.",
+    "ja": "CONCORDを操作するスキル。",
+    "ko": "CONCORD 함선 운용을 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на кораблях КОНКОРДа.",
+    "zh": "操作统合部舰船的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
   "name": {
     "de": "Concord",
     "en": "Concord",
@@ -10,5 +22,7 @@
     "ru": "КОНКОРД",
     "zh": "统合关系部研究"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

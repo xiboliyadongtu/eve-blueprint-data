@@ -1,5 +1,21 @@
 {
-  "typeID": 27641,
+  "basePrice": 2500000.0,
+  "capacity": 4500.0,
+  "description": {
+    "de": "Eine Lenkwaffenwerferanlage, die entwickelt wurde, um Torpedos einzusetzen. Feuert auf diejenigen, die vom Kontrollturm als Feinde erachtet werden.",
+    "en": "A launcher array designed to fit torpedos. Fires at those the Control Tower deems its enemies.",
+    "es": "Una batería de lanzaproyectiles para alojar torpedos. Dispara a cualquier objetivo que la torre de control considere una amenaza.",
+    "fr": "Base de lancement conçue pour tirer des torpilles. Ouvre le feu sur les vaisseaux que la tour de contrôle juge hostiles.",
+    "ja": "トルピード用ランチャー砲塔。コントロールタワーが敵と認識した物体に対して、攻撃を行う。",
+    "ko": "토피도 발사대입니다. 해당 발사대는 관제타워가 지정한 적을 향해 토피도를 발사합니다.",
+    "ru": "Ракетная батарея, оснащенная установками для запуска торпед. Ведет огонь по по всем целям, которые башня управления базой сочтет вражескими.",
+    "zh": "为装载鱼雷而设计的发射阵列。向控制塔指定的敌人开火。"
+  },
+  "graphicID": 2603,
+  "groupID": 417,
+  "marketGroupID": 479,
+  "mass": 50000000.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Guristas Torpedo Battery",
     "en": "Guristas Torpedo Battery",
@@ -10,5 +26,10 @@
     "ru": "Guristas Torpedo Battery",
     "zh": "古斯塔斯鱼雷发射台"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 366.0,
+  "sofFactionName": "genericbase",
+  "variationParentTypeID": 16697,
   "volume": 1000.0
 }

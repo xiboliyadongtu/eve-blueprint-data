@@ -1,5 +1,15 @@
 {
-  "typeID": 23227,
+  "description": {
+    "de": "Ein Aufzug.",
+    "es": "Un ascensor.",
+    "fr": "Un ascenseur.",
+    "ja": "エレベーター。",
+    "ko": "엘리베이터입니다.",
+    "ru": "Лифт.",
+    "zh": "一部升降机。"
+  },
+  "graphicID": 2459,
+  "groupID": 226,
   "name": {
     "de": "Fortified Gallente Elevator",
     "en": "Fortified Gallente Elevator",
@@ -10,5 +20,9 @@
     "ru": "Fortified Gallente Elevator",
     "zh": "强化的盖伦特升降机"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 689.0,
+  "sofFactionName": "gallentebase"
 }

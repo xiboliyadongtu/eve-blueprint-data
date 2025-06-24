@@ -1,5 +1,21 @@
 {
-  "typeID": 17772,
+  "basePrice": 400000.0,
+  "capacity": 750.0,
+  "description": {
+    "de": "Feuert mittelgroße Projektilgeschosse gegen diejenigen, die der Kontrollturm als feindlich erachtet. Erzeugt ein sehr schnelles Dauerfeuer und kann die schnellsten Ziele auf kurze Entfernung nachführen, erzeugt dafür aber weniger Schaden als ihr Artillerie-Äquivalent.",
+    "en": "Fires a barrage of medium projectiles at those the Control Tower deems its enemies. Maintains a very rapid spread of fire and is able to track the fastest targets at close ranges, but lacks some of the punch evidenced by its artillery counterpart.",
+    "es": "Dispara una barrera de proyectiles medianos a cualquier objetivo que la torre de control considere una amenaza. Propaga el fuego a una velocidad muy rápida y puede rastrear a los enemigos más raudos a corta distancia, pero carece de la fuerza de sus homólogos artilleros.",
+    "fr": "Tire un barrage de projectiles intermédiaires sur les vaisseaux que la tour de contrôle juge hostiles. Cette batterie assure un feu nourri et peut suivre des cibles rapides à bout portant, mais elle n'a pas la puissance de la petite batterie d'artillerie.",
+    "ja": "コントロールタワーが敵と認識した物体に対して、中型プロジェクタイル弾の集中砲火を浴びせる。非常に高速な連射性能を誇り、近距離を超高速で移動する標的にもよく追従するが、アーティレリに比べると威力にはやや欠ける。",
+    "ko": "중형 발사체로 이루어진 화망을 구성하여 관제타워가 지정한 적을 향해 발사합니다. 근거리에서 빠르게 움직이는 목표를 추적하고 속사형 탄막을 유지할 수 있지만 함포 계열에서 볼 수 있는 화력보다는 많이 떨어집니다.",
+    "ru": "Эта батарея артиллерийских орудий среднего калибра ведет огонь по по всем целям, которые башня управления базой сочтет вражескими. Обеспечивает крайне высокую плотность огня, способна отслеживать самые быстрые цели, но обладает меньшей мощностью залпа, чем аналогичная батарея артиллерийских орудий.",
+    "zh": "向控制塔指定的敌人连续发射中型射弹炮弹。火力连发速度极快，有利于在短距离追踪最快的移动目标，但缺少同级别火炮强大的攻击力。"
+  },
+  "graphicID": 1216,
+  "groupID": 426,
+  "marketGroupID": 594,
+  "mass": 50000000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Small AutoCannon Battery",
     "en": "Small AutoCannon Battery",
@@ -10,5 +26,10 @@
     "ru": "Small AutoCannon Battery",
     "zh": "小型自动加农炮塔台"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 400.0,
+  "sofFactionName": "minmatarbase",
   "volume": 500.0
 }

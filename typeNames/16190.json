@@ -1,5 +1,18 @@
 {
-  "typeID": 16190,
+  "capacity": 220.0,
+  "description": {
+    "de": "Dieses Schiff wurde auf dem Schwarzmarkt erworben. Der gegenwärtige Käufer möchte anonym bleiben.",
+    "en": "This ship was purchased through the black market.  The current owner has chosen to remain anonymous.",
+    "es": "Esta nave ha sido adquirida en el mercado negro. El propietario actual ha decidido permanecer en el anonimato.",
+    "fr": "Ce vaisseau a été acheté au marché noir.  Son propriétaire actuel préfère garder l'anonymat.",
+    "ja": "ブラックマーケットで購入された船で、現オーナーの名は伏せられている。",
+    "ko": "암시장을 통해 구입된 함선입니다. 구매자의 신원은 알 수 없습니다.",
+    "ru": "Этот корабль был куплен на черном рынке. Нынешний владелец предпочел не называть свое имя.",
+    "zh": "这艘船是从黑市上买到的。它的现任主人不希望透露自己的身份。"
+  },
+  "graphicID": 321,
+  "groupID": 818,
+  "mass": 1650000.0,
   "name": {
     "de": "Rogue Agent",
     "en": "Rogue Agent",
@@ -10,5 +23,10 @@
     "ru": "Rogue Agent",
     "zh": "自由代理人"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 40.0,
+  "sofFactionName": "gallentebase",
   "volume": 24500.0
 }

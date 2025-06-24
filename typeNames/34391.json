@@ -1,5 +1,18 @@
 {
-  "typeID": 34391,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Diese Einheit fängt Gammastrahlen der Sonne auf, verstärkt diese und leitet sie anderenorts weiter, je nachdem, wie die Einheit ausgerichtet ist. Benötigt eventuell eine Gammastrahlen-Anpassungsscheibe, um korrekt ausgerichtet zu werden.",
+    "en": "This unit catches gamma rays from the sun, amplifies them and redirects elsewhere based on how the unit is aligned. It may require a Gamma Ray Modulate Disc to align correctly.",
+    "es": "Esta unidad captura rayos gamma del sol, los amplifica y los redirige a otro lugar en función de cómo se alinee la unidad. Puede que requiera un disco modulador de rayos gamma para alinearse correctamente.",
+    "fr": "Cette unité capture les rayons gamma à partir des rayons solaires, les amplifie et les redirige ailleurs selon la manière dont l'unité est alignée. Elle peut avoir besoin d'un disque de modulation de rayons gamma pour être alignée correctement.",
+    "ja": "このユニットは、調整内容に基づいて、太陽からガンマ線をとらえ、増幅させた後にあらゆる方向へ向けて放出することができる。適切に調整するにはガンマ線変調ディスクが必要となる場合がある。",
+    "ko": "태양으로부터 감마선을 흡수한 뒤 증폭하여 다른 곳으로 전송합니다. 전송 방향을 올바르게 설정하기 위해서는 감마 모듈 디스크가 요구됩니다.",
+    "ru": "Блок улавливает гамма-излучение звезды, усиливает его и перенаправляет в соответствии с положением блока. Корректная наводка может потребовать вставки диска модуляции гамма-лучей.",
+    "zh": "这个装置收集恒星的伽玛射线，对其进行放大并指向到这个装置朝向的地方。你可能需要一个伽玛射线调节盘来正确地校准它。"
+  },
+  "graphicID": 1725,
+  "groupID": 952,
+  "mass": 10000.0,
   "name": {
     "de": "Solray Gamma Alignment Unit",
     "en": "Solray Gamma Alignment Unit",
@@ -10,5 +23,10 @@
     "ru": "Solray Gamma Alignment Unit",
     "zh": "恒星伽玛射线校准单元"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 120.0,
+  "sofFactionName": "genericpleasure",
   "volume": 27500.0
 }

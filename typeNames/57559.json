@@ -1,5 +1,17 @@
 {
-  "typeID": 57559,
+  "description": {
+    "de": "AEGIS Security hat Scan-Technologien entwickelt, die die Tarnfelder von Eindringlingen, die versuchen, heimlich in ihre Anlagen einzudringen, erkennen und stören können. Es wäre ratsam, einen großen Bogen um diese Scanner zu machen.",
+    "en": "AEGIS Security have developed scanning technologies that are capable of detecting and disrupting the cloaking fields of intruders attempting to use stealth to penetrate their facilities. It would be wise to give these scanners a wide berth.",
+    "es": "Las fuerzas de seguridad de AEGIS han desarrollado tecnologías de escaneo capaces de detectar y perturbar los campos de camuflaje de los intrusos que intenten usar el sigilo para penetrar en sus instalaciones. Lo mejor sería evitar estos escáneres.",
+    "fr": "La sécurité d’AEGIS a développé des technologies de balayage capables de détecter et perturber les champs de camouflage des intrus tentant de s’introduire furtivement dans ses installations. Il serait sage de garder ses distances avec ces scanners.",
+    "ja": "イージスセキュリティは、ステルスを使って自分たちの施設に潜り込もうとする侵入者の遮蔽フィールドを検知、妨害することができるスキャン技術を開発した。彼らのスキャナーには近寄らないほうが賢明だろう。",
+    "ko": "AEGIS는 은폐장을 감지 및 무력화할 수 있는 첨단 탐지 기술을 보유하고 있습니다. 스캐너 주변으로 접근하지 않도록 주의하십시오.",
+    "ru": "Силы безопасности «ЭГИДА» создали технологию сканирования, способную обнаруживать и выводить из строя маскирующие поля злоумышленников, пытающихся проникнуть на их объекты. Разумно будет держаться от этих сканеров подальше.",
+    "zh": "统合部紧急干预和安全局的安保部研发出了能够侦测并干扰入侵者的隐形力场的扫描技术，以防止自己的设施被暗中渗透。建议将其放置于空旷的地方。"
+  },
+  "graphicID": 24970,
+  "groupID": 226,
+  "mass": 100.0,
   "name": {
     "de": "AEGIS Security Scanner",
     "en": "AEGIS Security Scanner",
@@ -10,5 +22,8 @@
     "ru": "AEGIS Security Scanner",
     "zh": "统合部紧急干预和安全局安全扫描仪"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 450.0,
+  "sofFactionName": "genericbase"
 }

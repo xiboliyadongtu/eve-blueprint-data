@@ -1,5 +1,19 @@
 {
-  "typeID": 28059,
+  "basePrice": 500000000.0,
+  "capacity": 7500000.0,
+  "description": {
+    "de": "Ein einfaches Upgrade für Büroeinheiten von Minmatar-Außenposten. Bietet sieben zusätzliche Büro-Slots.",
+    "en": "A basic upgrade to Minmatar Outpost office facilities. Gives an additional seven office slots.",
+    "es": "Mejora básica de los locales para oficinas en puestos avanzados minmatarianos. Otorga siete ranuras de oficina adicionales.",
+    "fr": "Amélioration de base permettant d'augmenter les capacités administratives d'un avant-poste minmatar. Ajoute sept emplacements de bureaux.",
+    "ja": "ミンマターアウトポストオフィス施設を改良する基本的なアップグレード。オフィススロットが7個増設される。",
+    "ko": "민마타 전초기지의 사무실 확장을 위한 기초 업그레이드입니다. 사무실 슬롯이 7개 증가합니다.",
+    "ru": "Базовый модуль расширения офисных площадей станции Minmatar. Добавляет семь дополнительных помещений для офисов.",
+    "zh": "针对米玛塔尔哨站办公设施的基础升级方案。增加七个可用办公室。"
+  },
+  "graphicID": 3305,
+  "groupID": 836,
+  "iconID": 3305,
   "name": {
     "de": "Minmatar Basic Outpost Office Platform",
     "en": "Minmatar Basic Outpost Office Platform",
@@ -10,5 +24,10 @@
     "ru": "Minmatar Basic Outpost Office Platform",
     "zh": "米玛塔尔基础空间站办公室平台"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 1000.0,
+  "sofFactionName": "minmatarbase",
   "volume": 750000.0
 }

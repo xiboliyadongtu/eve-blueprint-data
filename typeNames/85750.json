@@ -1,5 +1,19 @@
 {
-  "typeID": 85750,
+  "basePrice": 550000.0,
+  "description": {
+    "de": "Ein archäologisches Modul zur Untersuchung historischer Ruinen, das möglicherweise wertvolle Sammelgegenstände freilegt. Hinweis: Aufgrund der kürzlich in Zweigstellenprognosen entdeckten Schwachstellen bestimmter Recursive-Computing-Module des Upwell Consortiums kann dieses Analysegerät auch dazu verwendet werden, um sensible Informationen über die Verstärkungsphasen von Upwell-Strukturen zu sammeln.",
+    "en": "An archaeology system used to analyze and search ancient ruins, potentially revealing valuable items for collection.\r\n\r\nNote: Due to recently discovered branch prediction vulnerabilities in certain Upwell Consortium Recursive Computing Modules this analyzer may also be used to collect sensitive information concerning reinforcement periods of Upwell Structures.",
+    "es": "Un sistema arqueológico utilizado para analizar y buscar en ruinas antiguas, lo que podría revelar objetos valiosos que recoger.\r\n\r\nNota: Debido a las recién descubiertas vulnerabilidades en la predicción de bifurcaciones descubiertas recientemente en ciertos módulos de computación recursiva del Consorcio Upwell, este analizador también sirve para recopilar información confidencial sobre los periodos de refuerzo de las estructuras de Upwell.",
+    "fr": "Un système d'archéologie utilisé pour analyser et fouiller des ruines antiques, capable de révéler de précieux artefacts. Remarque : depuis la découverte récente de failles dans la prédiction de branchement de certains modules informatiques récursifs de l'Upwell Consortium, cet analyseur peut également être utilisé pour recueillir des informations sensibles sur les périodes de renforcement des structures Upwell.",
+    "ja": "遺跡の検出や解析が可能な考古学システム。収蔵に値する価値のある物品も識別できる。\r\n\r\n注：特定のアップウェル・コンソーシアム再帰コンピューティングモジュールで最近発見された分岐予測の脆弱性により、このアナライザーはアップウェルストラクチャの補強期間に関する機密情報の収集にも使用される可能性がある。",
+    "ko": "유적지 탐사 및 분석을 위한 시스템으로 희귀한 아이템을 발견할 수 있습니다.\r\n\r\n참고: 업웰 재귀 모듈이 분기 예측에 취약하다는 사실이 밝혀지면서 분석기를 통해 업웰 구조물의 보강 시기와도 같은 비밀 정보를 수집할 수 있음을 알게 되었습니다.",
+    "ru": "Археологическая система для анализа и исследования древних руин с целью поиска ценных предметов. Примечание: в связи с недавно обнаруженными уязвимостями в системах прогнозирования некоторых модулей обратного вычисления консорциума «Апвелл» этот анализатор также можно использовать для сбора важной информации о периодах укрепления сооружений «Апвелл».",
+    "zh": "一套考古系统，用于分析和研究古代遗迹，可能会发掘出珍贵的藏品。注：由于最近发现的特定昇威递推计算模块的漏洞，这个分析仪也可用于收集关于昇威建筑增强时间的机密信息。"
+  },
+  "groupID": 538,
+  "iconID": 2857,
+  "marketGroupID": 1718,
+  "metaGroupID": 4,
   "name": {
     "de": "Deathless Circle Relic Analyzer",
     "en": "Deathless Circle Relic Analyzer",
@@ -10,5 +24,9 @@
     "ru": "Deathless Circle Relic Analyzer",
     "zh": "不死循环遗迹分析仪"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 500.0,
+  "variationParentTypeID": 22177,
   "volume": 5.0
 }

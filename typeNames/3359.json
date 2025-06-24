@@ -1,5 +1,18 @@
 {
-  "typeID": 3359,
+  "basePrice": 200000.0,
+  "description": {
+    "de": "Fertigkeit, mit befreundeten NPCs umzugehen.\r\n\r\n4% Modifikator auf das effektive Ansehen bei befreundeten NPC-Corporations und -Fraktionen je Skillstufe. Nicht kumulativ mit \"Diplomacy\" oder \"Criminal Connections\".",
+    "en": "Skill at interacting with friendly NPCs. 4% Modifier to effective standing from friendly NPC Corporations and Factions per level. Not cumulative with Diplomacy or Criminal Connections.",
+    "es": "Habilidad para interactuar con PNJ amistosos. Modificador del 4 % al prestigio efectivo con corporaciones PNJ y facciones amistosas por nivel. No se acumula con la diplomacia ni con las conexiones criminales.",
+    "fr": "Compétence liée à l'interaction avec les PNJ alliés. Modification de 4 % par niveau de la réputation envers les corporations et les factions de PNJ alliées. Non cumulable avec les compétences Diplomatie ou Relations criminelles.",
+    "ja": "友好的なNPCとの交際スキル。レベル上昇ごとに友好的なNPCコーポレーションおよび勢力からの有効なスタンディングが4%増加。折衝または犯罪コネクションとは加算されない。",
+    "ko": "우호적인 NPC와의 교류 확대를 위한 스킬입니다. 매 레벨마다 우호적인 NPC 코퍼레이션 및 팩션을 대상으로 실질 평판 4% 증가. 외교 및 범죄 커넥션 스킬 효과와 중첩되지 않습니다.",
+    "ru": "Навык общения с дружественными NPC-персонажами. За каждую степень освоения навыка: на 4% улучшаются фактические отношения пилотов и дружественных им NPC-персонажей. Эффект не складывается с эффектом от навыков «Отношения с криминалитетом» или «Дипломатические отношения».",
+    "zh": "与友善NPC互动的技能。每升一级，对于友方NPC军团和势力的有效声望值增加4%。不与外交学或者犯罪关系研究技能进行累加。"
+  },
+  "groupID": 278,
+  "iconID": 33,
+  "marketGroupID": 376,
   "name": {
     "de": "Connections",
     "en": "Connections",
@@ -10,5 +23,7 @@
     "ru": "Отношения с организациями",
     "zh": "关系学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

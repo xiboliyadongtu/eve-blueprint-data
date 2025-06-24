@@ -1,5 +1,19 @@
 {
-  "typeID": 23659,
+  "basePrice": 2000.0,
+  "description": {
+    "de": "Energie neutralisierende Drohne",
+    "en": "Energy Neutralizer Drone",
+    "es": "Dron neutralizador energético",
+    "fr": "Drone neutraliseur d'énergie.",
+    "ja": "エネルギーニュートライザードローン",
+    "ko": "에너지 뉴트럴라이저 드론",
+    "ru": "Дрон-нейтрализатор энергии.",
+    "zh": "能量中和无人机"
+  },
+  "graphicID": 1084,
+  "groupID": 544,
+  "marketGroupID": 843,
+  "mass": 3000.0,
   "name": {
     "de": "Acolyte EV-300",
     "en": "Acolyte EV-300",
@@ -10,5 +24,10 @@
     "ru": "Acolyte EV-300",
     "zh": "侍僧EV-300"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 15.0,
+  "sofFactionName": "amarrbase",
   "volume": 5.0
 }

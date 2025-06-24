@@ -1,5 +1,18 @@
 {
-  "typeID": 13712,
+  "capacity": 235.0,
+  "description": {
+    "de": "Das ist ein Transporter für die Serpentis Corporation. Er beschützt das Eigentum der Serpentis Corporation und greift alles an, was er als Bedrohung oder leichte Beute einschätzt. Bedrohungsstufe: Hoch",
+    "en": "This is a hauler for the Serpentis Corporation. It is protecting the assets of the Serpentis Corporation and may attack anyone it perceives as a threat or easy pickings. Threat level: High",
+    "es": "Nave de mercancías de la Corporación Serpentis. que protege sus bienes y puede atacar a todo aquello que perciba como una amenaza o una presa fácil. Nivel de amenaza: alto.",
+    "fr": "C'est un cargo de la Serpentis Corporation. Il protège les biens de la Serpentis Corporation et peut attaquer quiconque est perçu comme une menace ou une proie facile. Niveau de menace : Supérieur",
+    "ja": "サーペンティスコーポレーションの輸送船。サーペンティスコーポレーションの資産防衛を任務とし、脅威もしくは格下と判断した標的を攻撃する可能性がある。危険度：高",
+    "ko": "서펜티스 코퍼레이션의 운반선입니다. 위협으로 간주되는 적이나 손쉬운 먹잇감으로 보이는 대상을 공격합니다. 위험도: 높음",
+    "ru": "Это грузовой корабль корпорации «Серпентис». Он защищает имущество своей организации (корпорация «Серпентис») и атакует всех, кто представляет угрозу или воспринимается им как лёгкая жертва. Уровень угрозы: Высокий",
+    "zh": "这是一艘天蛇集团的运载舰。它保护着天蛇集团的资产，会主动攻击任何它认为可能造成威胁或者极易对付的飞船。威胁等级：高"
+  },
+  "graphicID": 65,
+  "groupID": 573,
+  "mass": 2300000.0,
   "name": {
     "de": "Serpentis Gatherer",
     "en": "Serpentis Gatherer",
@@ -10,5 +23,11 @@
     "ru": "Serpentis Gatherer",
     "zh": "天蛇集团 采集船"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 50.0,
+  "sofFactionName": "gallentebase",
+  "soundID": 20903,
   "volume": 23000.0
 }

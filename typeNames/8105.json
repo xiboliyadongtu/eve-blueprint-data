@@ -1,5 +1,21 @@
 {
-  "typeID": 8105,
+  "basePrice": 14996.0,
+  "capacity": 1.08,
+  "description": {
+    "de": "Entwickelt für lange Gefechte zwischen mittelgroßen Schiffen. Besitzt zwar eine langsame Feuerrate, macht dies aber durch die große Raketenkapazität wett.",
+    "en": "Designed for long engagements between medium sized ships. Slow firing rate, but makes up for it with a large missile capacity.",
+    "es": "Diseñado para combates largos entre naves de tamaño medio. Tiene una cadencia de tiro lenta, pero compensada con una gran capacidad misilística.",
+    "fr": "Idéal pour des combats de longue haleine entre des vaisseaux de taille intermédiaire. Il dispose d'une grande capacité de stockage de missiles, mais est pénalisé par sa faible cadence de tir.",
+    "ja": "中型船同士の長距離射程での戦闘に適している。連射速度は遅いが、ミサイル格納キャパシティが大きい。",
+    "ko": "중형 함선 간의 장기 교전에 특화된 미사일 런처입니다. 발사속도는 느리지만 다수의 미사일을 탑재할 수 있습니다.",
+    "ru": "Предназначена для длительных боев между кораблями среднего размера. Невысокая скорострельность, что компенсируется величиной калибра или запасом снарядов.",
+    "zh": "专为中型舰船间的长时间交战而设计。虽然发射速度慢，但巨大的导弹容积弥补了这一缺点。"
+  },
+  "graphicID": 21547,
+  "groupID": 510,
+  "iconID": 169,
+  "marketGroupID": 642,
+  "metaGroupID": 1,
   "name": {
     "de": "'Arbalest' Heavy Missile Launcher",
     "en": "'Arbalest' Heavy Missile Launcher",
@@ -10,5 +26,10 @@
     "ru": "'Arbalest' Heavy Missile Launcher",
     "zh": "劲弩重型导弹发射器"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "sofFactionName": "arbalest",
+  "variationParentTypeID": 501,
   "volume": 10.0
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 35776,
+  "description": {
+    "de": "Die Beschleunigungstor-Technologie reicht bis in die Era der Ausbreitung der Imperien zurück, welche den Zusammenbruch des EVE-Gates überstanden. Obwohl sich die individuelle Einstellung in Bezug auf Schiffsgrößen unterscheiden mag und manche Tore einen bestimmten Zugangscode oder -schlüssel benötigen können, haben alle doch die gleichen grundsätzlichen Funktionen, Raumschiffe zu ihrer Zielposition innerhalb des Sonnensystems zu schleudern.",
+    "en": "Acceleration gate technology reaches far back to the expansion era of the empires that survived the great EVE gate collapse. While their individual setup might differ in terms of ship size they can transport and whether they require a certain passkey or code to be used, all share the same fundamental function of hurling space vessels to a destination beacon within solar system boundaries.",
+    "es": "La tecnología de los portales de aceleración se remonta a la era de la expansión de los imperios que sobrevivieron al gran colapso del Portal de EVE. Aunque su configuración individual varía en términos del tamaño de las naves que pueden transportar o en el uso de claves o códigos de acceso, todos cumplen la misma función: lanzar naves espaciales hacia una baliza de destino en los límites del sistema solar.",
+    "fr": "La technologie des portails d'accélération remonte à l'ère du développement des empires ayant survécu au grand effondrement de l'EVE Gate. Si tous les portails peuvent différer les uns des autres au niveau de la taille des vaisseaux qu'ils peuvent faire voyager ou parce que certains requièrent un code ou une carte d'accès, ils servent tous à la même chose : propulser des vaisseaux spatiaux vers une balise de destination se trouvant dans les limites d'un système solaire.",
+    "ja": "アクセラレーションゲートの技術は、大昔、かのEVEゲート崩壊を乗り越えた一部の帝国が拡大を開始した時期にまで遡ることができる。輸送できる艦船の大きさが異なったり、暗号キーやパスコードを使用するものもあったりと、各自仕様が異なる面もあるが、いずれもソーラーシステム内の目的地ビーコンまで艦船を誘導するという根本的な機能を共通して備えている。",
+    "ko": "액셀레이션 게이트 기술은 EVE 게이트 붕괴 이후 각 제국이 앞다투어 영토 확장을 하던 시대로 거슬러 올라갑니다. 게이트 설정에 따라 이동시킬 수 있는 함선의 규모는 상이하며 특정 게이트의 경우 출입키 또는 보안코드가 요구되기도 합니다. 그러나 기본적으로 우주선을 가속화한 뒤 지정된 항성계로 내던지는 이동 방식은 전부 동일합니다.",
+    "ru": "Технология разгонных ворот уходит корнями далеко в эру расширения сверхдержав, переживших эпоху крушения «Евы». Конкретные реализации проекта могут отличаться размерами пропускаемых кораблей и наличием определенного ключа или кода, но все они действуют одинаково: забрасывают корабли в определенную точку той же планетной системы.",
+    "zh": "加速轨道技术可以追溯到很久以前，当时从EVE之门坍塌中幸存的各帝国正开始向外扩张。虽然各星门的设置可能会在传送飞船尺寸以及是否需要通行钥匙或密码等方面存在差异，但它们都有着共同的基本功能，那就是把太空飞船推进到星系内的目的地信标处。"
+  },
+  "graphicID": 3468,
+  "groupID": 366,
+  "mass": 100000.0,
   "name": {
     "de": "Large Acceleration Gate",
     "en": "Large Acceleration Gate",
@@ -10,5 +22,10 @@
     "ru": "Large Acceleration Gate",
     "zh": "大型加速轨道"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 14000.0,
+  "sofFactionName": "genericmetal",
+  "soundID": 20810
 }

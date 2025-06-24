@@ -1,5 +1,18 @@
 {
-  "typeID": 3349,
+  "basePrice": 100000.0,
+  "description": {
+    "de": "Grundlegende Fertigkeit zur Verstärkung von Guerilla-Fertigkeiten verbündeter Schiffe. Verleiht einen Bonus von 10 % pro Stufe auf die Dauer der Effekte von Gefechtskommandostrahlen.",
+    "en": "Basic proficiency at boosting the hit-and-run capabilities of allied ships. Grants a 10% bonus to the duration of Skirmish Command Burst effects per level.",
+    "es": "Habilidad básica para potenciar las capacidades de efectuar ataques relámpago de las naves aliadas. Concede una bonificación del 10 % a la duración de los efectos del estallido de mando de escaramuza por nivel.",
+    "fr": "Maîtrise basique de la projection tactique dédiée à l'optimisation des manœuvres de guérilla et des stratégies éclair des vaisseaux alliés. Augmente de 10 % par niveau la durée des effets des salves de commandement tactique.",
+    "ja": "味方艦船の奇襲能力を向上させる基礎的な能力。レベル上昇ごとに機動戦コマンドバーストの効果持続時間が10%増加。",
+    "ko": "아군 함선의 유격전 능력을 향상하기 위한 스킬입니다. 매 레벨마다 스커미시 버스트 지속시간 10% 증가",
+    "ru": "Основы повышения эффективности тактики «набега и отхода» союзников. За каждую степень освоения навыка: на 10% повышается длительность действия импульсов, генерируемых импульсными оптимизаторами маневрирования.",
+    "zh": "精通于增强所有友方舰船的游击战能力的基本技能。每升一级，游击战指挥脉冲波的效果持续时间增加10%。"
+  },
+  "groupID": 258,
+  "iconID": 33,
+  "marketGroupID": 370,
   "name": {
     "de": "Skirmish Command",
     "en": "Skirmish Command",
@@ -10,5 +23,7 @@
     "ru": "Оптимизация маневрирования флотов",
     "zh": "游击战指挥"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

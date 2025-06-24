@@ -1,5 +1,18 @@
 {
-  "typeID": 22052,
+  "capacity": 300.0,
+  "description": {
+    "de": "Der Pilot ist ein Mitglied der Republic Expeditionary Force.",
+    "en": "This pilot is a member of the Republic Expeditionary Force.",
+    "es": "Este piloto es miembro de la Fuerza Expedicionaria de la República.",
+    "fr": "Ce pilote est un membre de la Force expéditionnaire de la République.",
+    "ja": "共和国探索艦隊の一員であるパイロット。",
+    "ko": "공화국 원정대 소속 파일럿입니다.",
+    "ru": "Этот пилот - представитель Republic Expeditionary Force.",
+    "zh": "这名飞行员是共和国远征军(REF)的一员。"
+  },
+  "graphicID": 1885,
+  "groupID": 533,
+  "mass": 11500000.0,
   "name": {
     "de": "REF Pilot",
     "en": "REF Pilot",
@@ -10,5 +23,10 @@
     "ru": "REF Pilot",
     "zh": "REF飞行员"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 109.0,
+  "sofFactionName": "minmatarnavy",
   "volume": 96000.0
 }

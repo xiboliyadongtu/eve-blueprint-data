@@ -1,5 +1,19 @@
 {
-  "typeID": 32801,
+  "basePrice": 1000.0,
+  "description": {
+    "de": "Diese hochspezialisierte Raum-zu-Boden-Munition kann in die Atomsphäre von Planeten eindringen. Sie ist nur für Ziele auf der Oberfläche nützlich und benötigt spezielle Zieldaten, die von Bodentruppen bereitgestellt werden.\n\nDer elektromagnetische Schlag hat den größten Radius von allen Orbitalschlägen und zerstört die Schilde von allem, das mit ihm in Kontakt kommt. Wenn ein Team hauptsächlich mit Panzerung ausgerüstet ist, kann das einen bedeutenden Vorteil in der Hitze des Gefechts darstellen.",
+    "en": "This highly specialized space to ground ammunition can penetrate the atmosphere of planets. It is only useful against ground targets and relies on special targeting data provided by ground troops.\r\n\r\nThe Electro Magnetic strike has the broadest radius of all small orbital strikes and wipes out the shields of anything unfortunate enough to come in to contact with it. For a team fitted primarily with armor this can provide a significant combat advantage in the heat of battle.",
+    "es": "Esta munición de espacio a tierra altamente especializada puede atravesar la atmósfera de los planetas. Solo sirve contra objetivos terrestres y depende de los datos especiales de adquisición de objetivos proporcionados por tropas terrestres.\n\n\n\nEl ataque electromagnético tiene el radio más amplio de todos los ataques orbitales menores y elimina los escudos de cualquier entidad que tenga la mala suerte de toparse con él. Para un equipo que destaca principalmente por su blindaje, puede proporcionar una ventaja considerable en el fragor de la batalla.",
+    "fr": "Ces munitions espace-sol spécialisées peuvent pénétrer l'atmosphère des planètes. Elles ne sont efficaces que contre les cibles au sol, et s'appuient sur les données de ciblage spéciales fournies par les troupes au sol.\n\nLes munitions électromagnétiques présentent le rayon le plus large de toutes les petites munitions orbitales, et anéantissent les boucliers assez malheureux pour entrer en contact avec elles. Pour une équipe au blindage renforcé, cela pourrait se traduire par un avantage conséquent au combat.",
+    "ja": "この高度に特化した、宇宙から大地へ発せられる弾薬は、惑星の大気圏を貫通できる。地上のターゲットのみに有効で、地上部隊により提供された特別なターゲットデータを拠り所にする。\n\nエレクトロマグネティック攻撃は全ての小型軌道攻撃の中で最も広い半径におよび、半径内にいる不幸なもの全てのシールドを吹き飛ばす。アーマーに重点をおいて装備したチームにとっては、白熱した戦いにおいて優れた戦闘上の優位性をもたらす。",
+    "ko": "대기권을 관통할 수 있는 행성 타격 전용 탄입니다. 공대지 타격 전용으로 발사 시 표적 정보는 지상으로부터 수신합니다. <br><br>EM 타격은 소규모 궤도 타격과 동일한 공격 범위를 지니고 있으며 운이 나빠 피격 당하게 되면 실드가 그대로 소멸합니다. 해당 위성 병기를 상대로는 장갑을 장비한 팀이 크게 유리합니다.",
+    "ru": "Данный оперативно-тактический боеприпас предназначен исключительно для ведения огня по наземным целям с борта космических кораблей, находящихся на орбите планеты. Конструкция боеприпаса позволяет эффективно поражать цели на дне атмосферы, однако его применение требует наличия связи с десантными отрядами, передающими на борт корабля данные целеуказания.\n\nБомбардировка электромагнитными боеприпасами обеспечивает наибольший радиус поражения наземных целей (по сравнению с прочими боеприпасами малой мощности); ЭМ-боеприпасы полностью выводят из строя защитные силовые поля («щиты») десантных скафандров и прочей военной техники, оказавшейся в зоне поражения. Применение ЭМ-боеприпасов — наиболее эффективный способ поддержки десантных отрядов, отдающих предпочтение броневой защите.",
+    "zh": "这种非常特殊的空对地弹药可以穿透行星大气层。它只能打击地面目标，并且需要地面部队提供瞄准数据才能使用。电磁炮是所有小型轨道轰炸装置中打击范围最广的，可以摧毁任何目标的防御护盾。如果地面小队事先装备好装甲的话，可以利用它在战斗中占得很大便宜。"
+  },
+  "graphicID": 1286,
+  "groupID": 83,
+  "iconID": 10942,
+  "mass": 0.01,
   "name": {
     "de": "Orbital EMP S",
     "en": "Orbital EMP S",
@@ -10,5 +24,7 @@
     "ru": "Orbital EMP S",
     "zh": "战术电磁炮S"
   },
+  "portionSize": 100,
+  "published": false,
   "volume": 0.0025
 }

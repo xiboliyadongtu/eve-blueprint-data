@@ -1,5 +1,16 @@
 {
-  "typeID": 59726,
+  "description": {
+    "de": "In dieser Einrichtung werden Muster aller Technologien gelagert und aufbewahrt, die im Laufe der langen Jahrhunderte ihres Bestehens von der Minmatar Mining Corporation entwickelt oder verwendet wurden. Hier werden einige Stücke sehr alter Minmatar-Technologie aufbewahrt, was die Einrichtung zu einem Magneten für Minmatar-Gelehrte macht, welche die materielle Kultur des alten Minmatar-Imperiums rekonstruieren wollen.",
+    "en": "This facility is used to store and preserve samples of all the technology developed or used by the Minmatar Mining Corporation over the long centuries of its existence. A number of very old pieces of Minmatar technology are kept here, making the facility a magnet for Minmatar scholars keen to reconstruct the material culture of the old Minmatar Empire.",
+    "es": "Esta instalación se usa para almacenar y conservar muestras de toda la tecnología desarrollada o utilizada por Minmatar Mining Corporation a lo largo de sus dilatados siglos de existencia. Aquí se guardan varias piezas muy antiguas de tecnología minmatariana, lo que convierte a la instalación en un imán para los estudiosos de Minmatar deseosos de reconstruir la cultura material de su antiguo imperio.",
+    "fr": "Cette installation est utilisée pour stocker et préserver des échantillons de toutes les technologies développées ou utilisées par la Minmatar Mining Corporation au cours de ses longs siècles d'existence. Un certain nombre de pièces très anciennes de la technologie minmatar sont conservées ici, faisant de l'installation un pôle d'attraction pour les chercheurs minmatar désireux de retracer la culture matérielle de leur ancien empire.",
+    "ja": "何世紀にも渡る歴史の中で、この設備はミンマター採掘コーポレーションによって開発、もしくは使用されたありとあらゆる技術を確保、保存するために使われてきた。ミンマターの技術を使った非常に古い機材が多数保管されており、かつて存在したミンマター帝国の物質文化の復興に熱意を燃やす学者たちにとって垂涎の場所となっている。",
+    "ko": "민마타 채굴사가 수백 년 동안 개발한 여러 기술이 보관되어 있습니다. 민마타 제국의 문화를 복원하기 위해 학자들이 자주 찾아옵니다.",
+    "ru": "Этот объект хранит образцы всех технологий, которые разрабатывались и применялись «Минматарской добывающей корпорацией» за долгие столетия её существования. Здесь находится множество старинных образцов, что представляет особую ценность для минматарских учёных, изучающих материальную культуру Империи Минматар.",
+    "zh": "这座设施用于储存米玛塔尔矿业联合体多年以来研发的各种科技。这里有些非常古老的米玛塔尔科技，对于想要重塑古米玛塔尔帝国物质文化的米玛塔尔学者来说有着巨大的吸引力。"
+  },
+  "graphicID": 2706,
+  "groupID": 226,
   "name": {
     "de": "MMC Storage and Preservation Facility",
     "en": "MMC Storage and Preservation Facility",
@@ -10,5 +21,8 @@
     "ru": "MMC Storage and Preservation Facility",
     "zh": "米玛塔尔矿业联合体存储设施"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 600.0,
+  "sofFactionName": "genericmetal"
 }

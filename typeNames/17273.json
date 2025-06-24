@@ -1,5 +1,18 @@
 {
-  "typeID": 17273,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieses ehemalige Gallente-Vergnügungsressort wurde von den Amarr im großen Umfang umgebaut. Jetzt dient es der Produktion von Biochemikalien zur Nahrungsproduktion. Dazu werden Substanzen verwendet, die sowohl in den umliegenden Raumverwerfungen gesammelt, als auch von weit entfernten Starbases eingeflogen werden.",
+    "en": "This previous Gallentean pleasure resort has been heavily modified by the Amarrians and is now used for the production of biochemicals for food production. It uses substances harvested from the surrounding deadspace pockets as well as supplies flown in from distant starbases.",
+    "es": "Este antiguo resort gallente ha sido profundamente modificado por los amarrianos, que ahora lo usan para producir bioquímicos para la producción de alimentos. Emplea sustancias recolectadas de las burbujas de espacio muerto circundantes, además de los suministros que llegan de bases estelares lejanas.",
+    "fr": "Cet ancien centre de plaisir gallente a été très largement modifié par les Amarr et il sert à présent de site de fabrication de produits biochimiques pour l'alimentaire. Il utilise des substances collectées dans les poches Deadspace des alentours, ainsi que des matériaux apportés depuis des bases stellaires éloignées.",
+    "ja": "かつてのガレンテの憩いの楽園も、アマーの介入によって変貌を遂げ、現在では食品用生化学物質の生産地と化している。近隣のデッドスペースポケットで採取した物質だけでなく、遠方のスターベースから運ばれた物資も使っている。",
+    "ko": "아마르인들은 갈란테 휴양 리조트를 개조하여 식량 생산에 필요한 생화학 물질을 제조하는 공장으로 만들었습니다. 다른 지역의 스타베이스에서 공급받거나 데드스페이스 포켓에서 채굴한 물질을 이용하여 공정이 진행됩니다.",
+    "ru": "Этот курорт Gallente был перестроен Империей Amarr и теперь используется для производства биохимических компонентов, из которых изготавливаются продукты питания. Для производства используются вещества, как добытые в близлежащих районах дэдспейса, так и доставляемые с других баз.",
+    "zh": "这个前盖伦特人娱乐胜地已经被艾玛人大幅改造，现被用于生产食品加工所需的生化物。其物资主要来源于周围的死亡空间层以及从远处母星运送来的补给。"
+  },
+  "graphicID": 2782,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Biodome Gardens",
     "en": "Biodome Gardens",
@@ -10,5 +23,10 @@
     "ru": "Biodome Gardens",
     "zh": "生物技术园区"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 4974.0,
+  "sofFactionName": "gallentebase",
   "volume": 100000000.0
 }

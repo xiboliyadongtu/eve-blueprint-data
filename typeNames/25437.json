@@ -1,5 +1,16 @@
 {
-  "typeID": 25437,
+  "description": {
+    "de": "Eine Occator, die von einem Agenten geflogen wird.",
+    "en": "An Occator piloted by an agent.",
+    "es": "Occator pilotada por un agente.",
+    "fr": "Un Occator piloté par un agent.",
+    "ja": "エージェントを乗せたオカター。",
+    "ko": "에이전트가 조종하는 오케이터입니다.",
+    "ru": "Корабль класса Occator, управляемый агентом.",
+    "zh": "由代理人驾驶的奥卡托级飞船。"
+  },
+  "graphicID": 2711,
+  "groupID": 517,
   "name": {
     "de": "Mabvrion Atlete's Occator",
     "en": "Mabvrion Atlete's Occator",
@@ -10,5 +21,9 @@
     "ru": "Mabvrion Atlete's Occator",
     "zh": "马维隆·阿特里特的奥卡托级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 256.0,
+  "sofFactionName": "roden"
 }

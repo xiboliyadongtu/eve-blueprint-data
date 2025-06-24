@@ -1,5 +1,18 @@
 {
-  "typeID": 16737,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieses defekte Sprungtor hat zumindest noch ein paar interne Stromgeneratoren, ist aber dennoch außer Betrieb und kann Schiffe nicht mehr wie vorgesehen in entfernte Sonnensysteme transportieren.",
+    "en": "This ruined stargate has at least a few internal power generators left but is nevertheless currently inoperational, unable to serve its intended function of hurling starships to distant solar systems.",
+    "es": "A este portal estelar en ruinas le quedan al menos algunos generadores de energía internos, pero actualmente no está operativo y es incapaz de cumplir su función prevista para lanzar naves estelares a sistemas solares distantes.",
+    "fr": "Ce portail stellaire en ruines dispose encore de quelques générateurs de puissance en état de marche mais il est actuellement hors service, incapable de réaliser sa fonction originelle : projeter les vaisseaux spatiaux vers des systèmes solaires distants.",
+    "ja": "複数のパワージェネレータが内部に残されている荒廃したスターゲートだが、現在は稼働しておらず、遠方のソーラーシステムに艦船を移動させるという本来の目的を果たせずにいる。",
+    "ko": "파괴된 스타게이트 내부에 발전기가 남아있지만 가동되지 않는 상태입니다.",
+    "ru": "У этих разрушенных врат осталось несколько силовых генераторов, но они все равно не работают и не выполняют своего предназначения по направлению кораблей в отдаленные солнечные системы.",
+    "zh": "这座毁坏的星门还留下了数个内部发电机，但目前已经无法运作，不能将星际飞船送往遥远的星系。"
+  },
+  "graphicID": 2411,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Ruined Stargate",
     "en": "Ruined Stargate",
@@ -10,5 +23,10 @@
     "ru": "Ruined Stargate",
     "zh": "星际之门废墟"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 5991.0,
+  "sofFactionName": "genericbase",
+  "soundID": 20174,
   "volume": 100000000.0
 }

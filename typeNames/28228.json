@@ -1,5 +1,18 @@
 {
-  "typeID": 28228,
+  "capacity": 8850.0,
+  "description": {
+    "de": "Abhörposten",
+    "en": "Listening Post",
+    "es": "Puesto de escucha",
+    "fr": "Poste d'écoute",
+    "ja": "リスニングポスト",
+    "ko": "감청기지",
+    "ru": "Пост прослушивания",
+    "zh": "监听哨站"
+  },
+  "graphicID": 2599,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Listening Post_event",
     "en": "Listening Post_event",
@@ -10,5 +23,10 @@
     "ru": "Listening Post_event",
     "zh": "监听哨站_事件"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 3275.0,
+  "sofFactionName": "caldaribase",
   "volume": 1150.0
 }

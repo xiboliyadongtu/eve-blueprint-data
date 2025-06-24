@@ -1,5 +1,18 @@
 {
-  "typeID": 26897,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Die Sisters of EVE müssen Hilfe schnell entgegennehmen und weiterleiten können. So wurden die Hilfsstationen ins Leben gerufen, welche schnell und leicht zu bauen sind. Befinden sie sich einmal in einer bestimmten Umlaufbahn, können sie große Mengen an Hilfsgütern annehmen und zur weiteren Verteilung auf dem jeweiligen Planteten in Raumschiffe verladen. Seit ihrer Einführung haben die Stationen viele Leben gerettet, so dass andere Corporations das Design für eigene Zwecke übernommen haben.",
+    "en": "The Sisters need to rapidly receive and deploy aid has led to the creation of the Aid Stations, relatively quick and easy to construct and place in orbit these stations can recieve vast quantities of aid and transfer them to orbital craft for quick deployment on a planet. Since their inception they have saved vast quantities of lives and other corporations have leased the design for their own purposes.",
+    "es": "La necesidad de Sisters of EVE de recibir y desplegar ayuda inmediata ha llevado a la creación de las estaciones de asistencia, fáciles y relativamente rápidas de construir y colocar en órbita. Estas estaciones pueden recibir grandes cantidades de materiales y transferirlos a naves orbitales para desplegarlos con rapidez en un planeta. Desde su creación, han salvado muchas vidas y otras corporaciones han alquilado el diseño para sus propios fines.",
+    "fr": "Les besoins des Sisters en matière de réception et de déploiement des marchandises sont à l'origine de la création des stations d'aide. Simples et rapides à construire et à mettre en orbite, ces stations peuvent recevoir de grandes quantités de marchandises qu'elles peuvent ensuite transférer sur des vaisseaux orbitaux pour un déploiement rapide sur une planète. Depuis leur création, elles ont sauvé un grand nombre de vies, au point que certaines corporations ont récupéré l'idée pour la mettre à leur profit.",
+    "ja": "支援活動の迅速な受け入れと展開を求めたシスターズの声がきっかけとなってエイドステーションは誕生した。素早く簡単に建造し、軌道に配置できるステーションで、大量の救援物資を受領して軌道船に積み替え、地表への早期投入を実現している。過去に多くの人命を救ってきたことから、他のコーポレーションも独自の目的のために、このデザインを有料で借りている。",
+    "ko": "지원 및 구호 용도로 사용되는 시스터 오브 이브(SOE) 정거장으로 간편한 건설 과정을 통해 궤도에 안착시킬 수 있습니다. 다량의 구호물자를 보관하는 것이 가능하며 궤도 비행선을 통해 지상으로 물자를 수송할 수 있습니다. 구호용 정거장의 등장으로 인해 많은 사람들의 목숨이 보전되었으며 다수의 코퍼레이션이 각자 목적에 맞춰 정거장을 개조한 뒤 사용하게 되었습니다.",
+    "ru": "Вследствие того, что Sisters было нужно быстро принимать и развертывать помощь, были созданы вспомогательные станции, которые могут принимать огромные количества помощи и передавать ее на орбитальные корабли для быстрой доставки на планету. Эти станции помогли сохранить тысячи жизней. Другие корпорации скопировали их проект для своих целей.",
+    "zh": "由于姐妹会通常需要迅速接收和部署救助物资，救助站应运而生。这些空间站非常容易建设及部署在轨道上，并且可以接收大量的救助物资，同时能通过轨道飞行器将物资快速部署到星球上。自这些空间站启用以来，它们拯救了大量的生命，其他集团也借鉴了这种设计用作己用。"
+  },
+  "graphicID": 2403,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Sisters of EVE Aid Station",
     "en": "Sisters of EVE Aid Station",
@@ -10,5 +23,9 @@
     "ru": "Sisters of EVE Aid Station",
     "zh": "姐妹会救助站"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 1255.0,
+  "sofFactionName": "genericbase",
   "volume": 100000000.0
 }

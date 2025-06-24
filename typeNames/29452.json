@@ -1,5 +1,17 @@
 {
-  "typeID": 29452,
+  "description": {
+    "de": "Ein gallentischer Bunker",
+    "en": "A Gallente Bunker",
+    "es": "Un búnker gallente.",
+    "fr": "Bunker gallente.",
+    "ja": "ガレンテバンカー",
+    "ko": "갈란테 벙커",
+    "ru": "A Gallente Bunker",
+    "zh": "一个盖伦特碉堡"
+  },
+  "graphicID": 2458,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Fortified Gallente Bunker",
     "en": "Fortified Gallente Bunker",
@@ -10,5 +22,10 @@
     "ru": "Fortified Gallente Bunker",
     "zh": "强化的盖伦特堡垒"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 650.0,
+  "sofFactionName": "gallentebase",
   "volume": 100000000.0
 }

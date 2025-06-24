@@ -1,5 +1,18 @@
 {
-  "typeID": 20279,
+  "capacity": 120.0,
+  "description": {
+    "de": "Dieses Schiff gehört einem Freibeuter. Freibeuter gehören keiner der bekannten Fraktionen an, zumindest nicht offiziell.\r\n\r\nBedrohungsstufe: Tödlich",
+    "en": "This is a rogue pirate vessel.  Rogue pirates are not part of any specific faction, or at least not officially. Threat level: Deadly",
+    "es": "Nave pirata rebelde. Los piratas rebeldes no forman parte de ninguna facción específica; al menos no oficialmente. Nivel de amenaza: letal.",
+    "fr": "Il s'agit d'un vaisseau pirate renégat.  Les pirates renégats ne font partie d'aucune faction, ou tout au moins pas officiellement. Niveau de menace : mortel",
+    "ja": "ローグ海賊の艦船。ローグ海賊はどの勢力にも属していない、少なくとも表向きは。危険度:致命的",
+    "ko": "떠돌이 해적입니다. 떠돌이 해적은 특정 집단에 소속되어 있지 않습니다. 적어도 공식적으로는 말입니다. 위험도: 치명적",
+    "ru": "Это корабль пиратов-отщепенцев. Пираты-отщепенцы не принадлежат к какой-либо группировке, или, принадлежат, но не официально. Уровень опасности: смертельный",
+    "zh": "这是一艘自由海盗船。自由海盗不属于任何派别，至少表面上是这样。威胁等级：致命的"
+  },
+  "graphicID": 337,
+  "groupID": 817,
+  "mass": 10900000.0,
   "name": {
     "de": "Rogue Pirate Raider",
     "en": "Rogue Pirate Raider",
@@ -10,5 +23,11 @@
     "ru": "Rogue Pirate Raider",
     "zh": "自由海盗 奇袭者"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 187.0,
+  "sofFactionName": "angelbase",
+  "soundID": 31,
   "volume": 109000.0
 }

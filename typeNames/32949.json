@@ -1,5 +1,20 @@
 {
-  "typeID": 32949,
+  "basePrice": 139232.0,
+  "description": {
+    "de": "Erhöht die Geschwindigkeit des Mikrowarpantriebs von Drohnen.\n\nErhöht die Geschwindigkeit von Jägern.\n\n\n\nNachteil: Bei der Verwendung mehrerer Module des selben oder ähnlichen Typs, welche das selbe Attribut des Schiffes beeinflussen, wird deren Wirksamkeit eingeschränkt.",
+    "en": "Increases microwarpdrive speed of drones.\r\nIncreases the speed of fighters.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",
+    "es": "Aumenta la velocidad del motor de microwarp de los drones.\n\nAumenta la velocidad de los cazas.\n\n\n\nPenalización: Por usar más de un tipo de módulo o módulos similares que afecten al mismo atributo de la nave.",
+    "fr": "Augmente la vitesse de microwarp des drones.\n\nAugmente la vitesse des chasseurs.\n\n\n\nPénalité : utiliser plus d'un module de ce type ou plusieurs modules modifiant un même attribut du vaisseau fera l'objet d'une pénalité.",
+    "ja": "ドローンのマイクロワープドライブの速度を向上させる。戦闘機の速度を向上させる。ペナルティ： 同じタイプのモジュール、または同じ属性に関係するモジュールを複数取り付けると、ペナルティが発生する。",
+    "ko": "드론의 마이크로 워프 드라이브 속도 및 파이터의 속도가 증가합니다. <br><br>페널티: 동일한 속성의 모듈 여러 개를 장착할 경우 페널티가 부여됩니다.",
+    "ru": "Увеличивает скорость полёта дронов при включении ими бортовых микроварп-ускорителей.\n\nУвеличивает скорость полёта истребителей.\n\n\n\nВнимание! Установка на борт корабля двух и более модулей, влияющих на одну и ту же характеристику корабля, приведёт к снижению эффективности их действия в отношении данной характеристики.",
+    "zh": "提高无人机的微型跃迁速度。\n\n提高铁骑舰载机的速度。\n\n\n\n惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。"
+  },
+  "groupID": 644,
+  "iconID": 2988,
+  "marketGroupID": 938,
+  "mass": 200.0,
+  "metaGroupID": 5,
   "name": {
     "de": "Unit W-634's Modified Drone Navigation Computer",
     "en": "Unit W-634's Modified Drone Navigation Computer",
@@ -10,5 +25,9 @@
     "ru": "Unit W-634's Modified Drone Navigation Computer",
     "zh": "W-634的改良型无人机导航电脑"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 100.0,
+  "variationParentTypeID": 24395,
   "volume": 25.0
 }

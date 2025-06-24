@@ -1,5 +1,18 @@
 {
-  "typeID": 29177,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese Vielzweckstruktur fungiert als temporäre Behausung aller Arten von Personal der Republik Minmatar, welches sich um die Sicherheit des Systems bemüht.",
+    "en": "This multi-purpose structure acts as temporary housing for all kinds of Minmatar Republic personnel in their efforts to secure this system.",
+    "es": "Esta estructura multifuncional sirve de alojamiento temporal para todo tipo de personal de la República Minmatar dedicado a proteger este sistema.",
+    "fr": "Cette structure multifonction abrite temporairement le personnel de la République minmatar pendant qu'ils s'attellent à sécuriser le système.",
+    "ja": "このシステムを守るために働くあらゆる種類のミンマター共和国の人々が一時的な居住場所として使用する、多目的の建造物。",
+    "ko": "항성계 확보를 위해 모인 여러 분야의 민마타 공화국 인원들이 임시로 거주하고 있는 다용도 시설입니다.",
+    "ru": "Эта многоцелевая постройка служит базой для временного размещения военного персонала Республики Minmatar в ходе операции по захвату этой системы.",
+    "zh": "这个多功能的设施为各种米玛塔尔人员提供临时住宿，那些人通常都是负责这个星系安全事务的人。"
+  },
+  "graphicID": 1991,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Minmatar Tactical Support Center",
     "en": "Minmatar Tactical Support Center",
@@ -10,5 +23,10 @@
     "ru": "Minmatar Tactical Support Center",
     "zh": "米玛塔尔战术支援中心"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 2300.0,
+  "sofFactionName": "genericbase",
   "volume": 100000000.0
 }

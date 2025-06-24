@@ -1,5 +1,19 @@
 {
-  "typeID": 24447,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Ein Container mit verwanzten Leichen. Er wurde von den Blood Raider entworfen, um Spionagegeräte in die Schiffe unachtsamer Plünderer zu schmuggeln.",
+    "en": "A container filled with bug-ridden corpses created by the Blood Raiders to get spy devices into the ships of unwary scavengers.",
+    "es": "Contenedor lleno de cadáveres que los Saqueadores Sanguinarios han plagado de chivatos para conseguir meter dispositivos de espionaje en las naves de los chatarreros más incautos.",
+    "fr": "Conteneur rempli de cadavres infestés de virus construit par les Blood Raiders dans le but de placer des dispositifs espions dans les vaisseaux des charognards imprudents.",
+    "ja": "うじ虫のたかった死体が詰め込まれたコンテナ。軽率なハイエナどもの船に盗聴装置をセットするため、ブラッドレイダーズがこしらえたもの。",
+    "ko": "벌레로 들끓는 시체가 가득한 컨테이너입니다. 부주의한 스캐빈져들의 함선에 스파이 장치를 장착하고자 블러드 레이더가 제작했습니다.",
+    "ru": "Контейнер с телами, набитыми электронными устройствами слежения. Его создали Blood Raiders, чтобы подкладывать жучки в корабли демонтажников",
+    "zh": "血袭者散发的集装箱，内含装有窃听装置的尸体，这样，粗心的拾荒者就会把间谍设备带入自己的船中。"
+  },
+  "graphicID": 1176,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Corpse Stash",
     "en": "Corpse Stash",
@@ -10,5 +24,9 @@
     "ru": "Corpse Stash",
     "zh": "尸体藏匿箱"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericmetal",
   "volume": 1200.0
 }

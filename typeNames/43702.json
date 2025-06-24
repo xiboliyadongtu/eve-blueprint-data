@@ -1,5 +1,18 @@
 {
-  "typeID": 43702,
+  "basePrice": 100000.0,
+  "description": {
+    "de": "Fertigkeit zur Steuerung von Eisschürfdrohnen. 5% Reduktion des Eisschürfzyklus der Drohne je Skillstufe",
+    "en": "Skill at controlling ice harvesting drones. 5% reduction in ice harvesting drone cycle time per level.",
+    "es": "Habilidad para controlar los drones recolectores de hielo. Reducción del 5 % por nivel del tiempo de ciclo de los drones recolectores de hielo.",
+    "fr": "Compétence liée au contrôle des drones collecteurs de glace. 5 % de réduction de la durée du cycle de collecte des drones collecteurs de glace.",
+    "ja": "氷採掘ドローンをコントロールする能力。レベル上昇ごとに氷採掘ドローンのサイクル時間が5%減少。",
+    "ko": "아이스 채굴 드론 운용을 위한 스킬입니다. 매 레벨마다 아이스 채굴 드론 채굴 사이클 시간 5% 감소",
+    "ru": "Навык эксплуатации дронов для добычи льда. За каждую степень освоения навыка: на 5% уменьшается длительность рабочего цикла дронов для добычи льда",
+    "zh": "控制冰矿采集无人机的技能。每升一级，冰矿采集无人机的循环时间减少5%。"
+  },
+  "groupID": 273,
+  "iconID": 33,
+  "marketGroupID": 366,
   "name": {
     "de": "Ice Harvesting Drone Operation",
     "en": "Ice Harvesting Drone Operation",
@@ -10,5 +23,7 @@
     "ru": "Дроны для добычи льда",
     "zh": "冰矿采集无人机操控理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

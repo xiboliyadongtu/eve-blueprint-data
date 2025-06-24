@@ -1,5 +1,18 @@
 {
-  "typeID": 26674,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Mit der richtigen Bergungsausrüstung könnte man wohl doch noch etwas Wertvolles aus diesem alten Müllberg holen.",
+    "en": "You surmise that with some salvaging equipment there is still something of value to be had from this old waste.",
+    "es": "Con algo de equipo de recuperación, quizá aún pueda sacarse algo de valor de este viejo montón de chatarra.",
+    "fr": "Vous estimez qu'avec du bon matériel de récupération, on pourrait tirer quelque chose de ces déchets.",
+    "ja": "なんらかのサルベージ装置があれば、まだ、この古びた遺棄物に価値を見いだせるかもしれない。",
+    "ko": "샐비지 장비로 잔해에서 부품이나 자원을 획득할 수 있습니다.",
+    "ru": "Вы думаете, что с помощью специального демонтажного оборудования из этого мусора можно будет извлечь что-то полезное.",
+    "zh": "你估计如果使用某种打捞设备，或许还能从这些废渣中获得些有价值的东西。"
+  },
+  "graphicID": 3117,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Serpentis Waste",
     "en": "Serpentis Waste",
@@ -10,5 +23,9 @@
     "ru": "Serpentis Waste",
     "zh": "天蛇集团废渣"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

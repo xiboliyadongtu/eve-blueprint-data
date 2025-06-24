@@ -1,5 +1,16 @@
 {
-  "typeID": 59509,
+  "description": {
+    "de": "Diese Struktur bietet eine bequemere Sicht auf die Befreiungsspiele als die Tribünen und ist für die Elite der Clans und Stämme und ihre Ehrengäste vorgesehen. An einem solchen Ort wird neben traditioneller Minmatar-Küche aus exklusivere Kost angeboten, beispielsweise Rogen von Hanging Long-Limbs. Ein teures, besonders beliebtes Gericht ist der \"Befreiungsauflauf\", ein gebackener Syrikos-Hundemagen, gefüllt mit Curryziege, Walnüssen und Trockenfrüchten. Massive Befestigungen schützen die Würdenträger vor Eindringlingen oder Angriffen von aufgebrachten Mitgliedern des Syrikos-Hundezuchtvereins.",
+    "en": "This structure provides more comfortable viewing of the Liberation Games than the grandstands can offer, and caters to the elite of the clans and tribes, and their honored guests. Such a venue offers traditional Minmatar cuisine alongside more luxurious fare, such as Hanging long-limb roe. A particular, expensive favorite on offer is \"Liberation Pudding\", a baked Syrikos Hound stomach stuffed with curried goat, walnuts and dried fruits. Substantial fortifications protect the dignitaries from intrusion or attack by outraged members of the Syrikos Hound Breeders Association.",
+    "es": "Esta estructura proporciona una vista más confortable de los Juegos de Liberación que la que ofrecen las tribunas, además de atender tanto a la élite de clanes y tribus como a los invitados de honor. Aquí se sirve cocina tradicional minmatariana con otros platos más lujosos, como las huevas de pataslargas. Uno de los platos más especiales y solicitados que ofrecen es el «pudín de la Liberación»: estómago de perro de presa de Syrikos al horno relleno de cabra al curry, nueces y frutos secos. Varias e importantes fortificaciones protegen a los dignatarios de las intrusiones y ataques de los indignados miembros de la Asociación de Criadores de Perros de Presa de Syrikos.",
+    "fr": "La vue sur les Jeux de la libération depuis cette structure est meilleure que celle offerte depuis les tribunes. Cette structure permet également d'accueillir l'élite des clans et des tribus, ainsi que leurs invités d'honneur. Ce lieu propose une cuisine minmatar traditionnelle ainsi que des plats plus raffinés, tels que du caviar de Long-membre. Un des plats les plus populaires et onéreux est le « Pudding de la libération », une panse de molosse de Syrikos cuite au four et farcie de chèvre au curry, de noix et de fruits secs. D'importantes fortifications protègent les dignitaires d'une intrusion ou d'une attaque par des membres véhéments de l'Association des éleveurs de molosses de Syrikos.",
+    "ja": "このストラクチャでは特別観覧席よりも快適に解放の日記念ゲームを観戦することができ、さらに氏族や部族のエリート、そして名誉あるゲストには食事が提供される。こういった会場では伝統的なミンマター料理の他に、ハンギング・ロングリムの卵など、より豪華な食事も提供される。その中でも特に高価な人気料理が『解放ソーセージ』で、これはシリコスハウンドの胃袋にカレーで味付けしたヤギとクルミ、そしてドライフルーツを詰めて焼いたものである。なお、シリコスハウンドブリーダー協会の怒れる協会員たちによる侵入や攻撃から要人たちを守るため、堅牢な防衛設備が設置されている。",
+    "ko": "각 부족 및 클랜의 고위인사를 수용하기 위해 건설된 시설로 일반 관람석에 비해 안락한 경험을 제공합니다. 롱림 어란 등 각종 고급 식재료를 사용하는 민마타 요리를 맛볼 수 있습니다. 다양한 메뉴 중 시리코스 하운드의 뱃속에 염소, 호두, 그리고 말린 과일을 넣어 구운 \"해방 푸딩\"이 가장 유명합니다. 해당 시설은 견고한 방어력을 지니고 있어 시리코스 사육협회로부터 발생할 수 있는 모든 잠재적인 위협을 차단합니다.",
+    "ru": "Это сооружение, в отличие от трибун, даёт возможность с комфортом насладиться просмотром Игр свободного Минматара. Оно принимает высокопоставленных членов кланов и племён, а также их почётных гостей. Меню заведения включает как традиционные минматарские блюда, так и более экзотические — например, икру висячей длинноножки. Самое дорогое и востребованное лакомство — так называемый «пудинг освобождения» — представляет собой запечённый желудок сирикосской гончей, фаршированный козлятиной в соусе карри, грецкими орехами и сухофруктами. От налётов неприятеля и атак разгневанных членов Ассоциации заводчиков сирикосских гончих сановников защищает мощная система оборонных укреплений.",
+    "zh": "这座建筑具有比看台更佳的观看独立日竞赛的视角，并为部族精英人士和他们尊贵的宾客提供餐饮服务。这里除了米玛塔尔传统食物之外，还有某些更奢华的选择，比如长肢龙鹿的卵。最受欢迎的是一款“独立日布丁”，由烤希尔库索猎奴犬胃、咖喱羊肉、胡桃和干水果制成。这里坚实的防御工事也保护了重要人物免遭愤怒的希尔库索猎奴犬哺育协会成员袭击。"
+  },
+  "graphicID": 2482,
+  "groupID": 226,
   "name": {
     "de": "Fortified Minmatar Viewing Lounge",
     "en": "Fortified Minmatar Viewing Lounge",
@@ -10,5 +21,9 @@
     "ru": "Fortified Minmatar Viewing Lounge",
     "zh": "强化的米玛塔尔观景台"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 1296.0,
+  "sofFactionName": "minmatarbase"
 }

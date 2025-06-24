@@ -1,5 +1,18 @@
 {
-  "typeID": 29286,
+  "basePrice": 600000.0,
+  "description": {
+    "de": "Diese Struktur dient als zentraler Kommandoposten dieses Systems. Wer dieses Infrastrukturzentrum kontrolliert, kann das ganze System militärisch kontrollieren.",
+    "en": "This structure serves as the central command post for this system. Whoever controls this Infrastructure Hub can exert system-wide military control.",
+    "es": "Esta estructura actúa como puesto de mando central para este sistema. Quien controle el centro de infraestructuras puede ejercer un amplio control militar.",
+    "fr": "Cette structure sert de poste de commandement central pour ce système. Quiconque commande ce centre d'infrastructure peut exercer un contrôle militaire à l'échelle du système.",
+    "ja": "このソーラーシステムの中央司令所となっている建造物。この領域管理用拠点を制圧すれば、システム全体に軍事力を行使できる。",
+    "ko": "시스템의 중앙 지휘소로 사용되는 구조물입니다. 인프라 허브 점령 시 항성계 전역에 걸쳐 군사 통제권을 장악할 수 있습니다.",
+    "ru": "Это сооружение служит главным командным пунктом планетной системы. Владелец центра управления планетной системой осуществляет военный контроль над ней.",
+    "zh": "这座建筑是这个星系的中央指挥站。无论谁控制了这座设施中心就可以控制整个星系的军事力量。"
+  },
+  "graphicID": 3827,
+  "groupID": 925,
+  "mass": 1000000.0,
   "name": {
     "de": "Amarr Infrastructure Hub",
     "en": "Amarr Infrastructure Hub",
@@ -10,5 +23,10 @@
     "ru": "Amarr Infrastructure Hub",
     "zh": "艾玛基础设施中心"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 10290.0,
+  "sofFactionName": "genericbase",
+  "soundID": 20187
 }

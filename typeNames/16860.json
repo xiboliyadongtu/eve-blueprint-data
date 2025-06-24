@@ -1,5 +1,18 @@
 {
-  "typeID": 16860,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese Plattformen wurde gebaut für eine schnelle und exakte Analyse von taktischen und umweltpolitischen Daten. Man findet sie im Umkreis vieler Komplexe in Raumverwerfungen.",
+    "en": "Built for up-to-the-minute analysis of tactical and environmental data, these pads can be found dotted around many a deadspace complex.",
+    "es": "Estas plataformas, construidas para analizar datos tácticos y ambientales en tiempo real, se encuentran desperdigadas por muchos complejos del espacio muerto.",
+    "fr": "Conçues pour fournir des analyses très précises sur l'environnement tactique, ces plateformes se trouvent un peu partout autour des complexes Deadspace.",
+    "ja": "戦術および環境データを分刻みで分析するために作られたパッドで、デッドスペースコンプレックス付近に点在している。",
+    "ko": "최신 전술 및 환경 데이터에 기반하여 건설된 패드들로서 데드스페이스 컴플렉스 여기저기에 흩어져 있습니다.",
+    "ru": "Построенные для быстрого анализа тактических и экологических данных, эти площадки можно найти во многих комплексах дэдспейса.",
+    "zh": "这些为即时分析战术和环境数据而造的平台经常散布在死亡空间复合体周围。"
+  },
+  "graphicID": 1683,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Freight Pad",
     "en": "Freight Pad",
@@ -10,5 +23,11 @@
     "ru": "Freight Pad",
     "zh": "货运平台"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 60.0,
+  "sofFactionName": "genericbase",
+  "soundID": 20173,
   "volume": 100000000.0
 }

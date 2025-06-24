@@ -1,5 +1,17 @@
 {
-  "typeID": 60784,
+  "description": {
+    "de": "Diese Blackbox wurde aus dem Dramielwrack geborgen, das bei einem AIR-Bergbaugebiet entdeckt wurde. Sie könnte Flugdaten oder andere wertvolle Gegenstände beinhalten, ist aber durch mehrstufige, komplexe Verschlüsselungen gesichert.",
+    "en": "This is a black box looted from the wrecked Dramiel discovered at one of AIR's mining sites. It may contain flight data or other valuable items but it is protected by layers of complex encryptions.",
+    "es": "Caja negra saqueada de la Dramiel destruida y descubierta en uno de los yacimientos mineros de AIR. Puede contener datos de vuelo u otros objetos valiosos, pero están protegidos por capas de complejas encriptaciones.",
+    "fr": "Une boîte noire récupérée sur l'épave du Dramiel découverte sur l'un des sites d'extraction de l'AIR. Elle pourrait contenir des données de vol ou des objets de valeur, mais plusieurs niveaux de cryptage complexe la protègent.",
+    "ja": "AIRの採掘サイトで発見したドラミエルの残骸から手に入れたブラックボックス。フライトデータか貴重品が入っている可能性があるが、多重暗号化方式で保護されている。",
+    "ko": "AIR 채굴 사이트에서 입수한 드라미엘 블랙박스입니다. 비행 데이터와 귀중품이 들어있을 가능성이 있지만 다중 암호가 걸려 있어 열 수가 없습니다.",
+    "ru": "Это чёрный ящик из обломков «Драмиэля», найденный в одном из районов добычи АМИ. В нём могут содержаться данные о полёте или ценные предметы, однако он защищён несколькими уровнями шифрования.",
+    "zh": "这个黑色盒子是在星空会一处采矿地点中的德拉米尔级舰船残骸中发现的。其中可能储存有飞行数据或其他珍贵物品，不过它被几道复杂的加密程序层层保护着。"
+  },
+  "groupID": 526,
+  "iconID": 25091,
+  "mass": 0.1,
   "name": {
     "de": "Dramiel-Blackbox",
     "en": "Dramiel Black Box",
@@ -10,5 +22,7 @@
     "ru": "Dramiel Black Box",
     "zh": "德拉米尔级黑匣子"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.1
 }

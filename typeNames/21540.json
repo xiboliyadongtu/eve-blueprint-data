@@ -1,5 +1,18 @@
 {
-  "typeID": 21540,
+  "description": {
+    "de": "Ein Subsystem der Zielerfassung, das eine elektronische Marke auf ein Ziel projiziert, so dass man es leichter erfassen und treffen kann. \n\nNachteil: Bei der Verwendung mehrerer Module des selben oder ähnlichen Typs, welche das selbe Attribut des Schiffes beeinflussen, wird deren Wirksamkeit eingeschränkt.",
+    "en": "A targeting subsystem that projects an electronic \"Tag\" on the target thus making it easier to target and hit. \n\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",
+    "es": "Subsistema de adquisición de objetivos que proyecta una «etiqueta» electrónica sobre el blanco, lo que hace que sea más fácil de fijar y atacar. \n\nPenalización: Por usar más de un tipo de módulo o módulos similares que afecten al mismo atributo de la nave.",
+    "fr": "Ce sous-système de ciblage projette une « marque » électronique sur la cible, qui amplifie son rayon de signature. \n\nPénalité : utiliser plus d'un module de ce type ou plusieurs modules modifiant un même attribut du vaisseau fera l'objet d'une pénalité.",
+    "ja": "ターゲティング補助システム。標的を電子的な『タグ』でマーキングすることにより、ターゲットを容易にし、命中率を向上させる。 \n\nペナルティ: 同じタイプのモジュール、または同じ属性に関係するモジュールを複数取り付けると、ペナルティが発生する。",
+    "ko": "손쉬운 타겟팅 및 피격을 위해 대상에 전자 \"태그\"를 투사하는 타겟팅 서브시스템입니다. <br><br>페널티: 동일한 속성의 모듈 여러 개를 장착할 경우 페널티가 부여됩니다.",
+    "ru": "Модуль поддержки захвата целей, проецирующий на цель электронную метку, ускоряющую захват цели другими кораблями и увеличивающую вероятность попадания по ней. \n\nВнимание! Установка на борт корабля двух и более модулей, влияющих на одну и ту же характеристику корабля, приведёт к снижению эффективности их действия в отношении данной характеристики.",
+    "zh": "一种向目标投射电子“标记”的锁定子系统，能使目标更易被锁定和击中。 \n\n惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。"
+  },
+  "groupID": 379,
+  "iconID": 2983,
+  "marketGroupID": 757,
+  "metaGroupID": 3,
   "name": {
     "de": "'Inception' Target Painter",
     "en": "'Inception' Target Painter",
@@ -10,5 +23,9 @@
     "ru": "'Inception' Target Painter",
     "zh": "起源目标标记装置"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 500.0,
+  "variationParentTypeID": 12709,
   "volume": 5.0
 }

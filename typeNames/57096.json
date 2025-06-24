@@ -1,5 +1,17 @@
 {
-  "typeID": 57096,
+  "description": {
+    "de": "Dieser Kreuzer wurde von Mordus Legion zum Schutz des Besitzes der Outer Ring Excavations Corporation beauftragt. Jede Bedrohung für ORE-Anlagen oder Schiffe der Legion wird mit Gewalt beantwortet.",
+    "en": "This cruiser has been assigned by Mordu's Legion to protect assets of the Outer Ring Excavations corporation. Any threat to ORE facilities or Legion vessels will be met with deadly force.",
+    "es": "La Legión de Mordu ha asignado este crucero para proteger los bienes de la corporación Outer Ring Excavations. Cualquier amenaza contra las instalaciones de ORE o las naves de la Legión tendrá fuertes represalias.",
+    "fr": "Ce croiseur a été affecté à la Légion Mordu pour protéger la propriété de la corporation Outer Ring Excavations. Toute menace à l'encontre des installations ORE ou des vaisseaux de la Legion aura comme réponse la force mortelle.",
+    "ja": "この巡洋艦はモーダスリージョンがアウターリング発掘調査コーポレーションの資産を守るために派遣したものである。ORE施設およびリージョンの艦隊への脅威が発生した場合、圧倒的な力で対処する。",
+    "ko": "모르두 군단 소속의 크루저로 아우터링 채굴조합의 자산을 보호하기 위해 파견되었습니다. ORE 시설 또는 모르두 함선을 공격할 경우 철저한 보복이 따릅니다.",
+    "ru": "Этот крейсер принадлежит легиону Морду и охраняет активы корпорации «Окраинная рудная экспедиция». Любого, кто попробует напасть на объекты ОРЭ или суда Легиона, ожидает смертельная угроза.",
+    "zh": "这艘巡洋舰受莫德团指派来保护联合矿业集团的资产不受侵害。任何对联合矿业设施或莫德团舰船的威胁都将遭到重创。"
+  },
+  "graphicID": 20614,
+  "groupID": 226,
+  "mass": 9600000.0,
   "name": {
     "de": "Mordu's Markguard",
     "en": "Mordu's Markguard",
@@ -10,5 +22,8 @@
     "ru": "Mordu's Markguard",
     "zh": "莫德团 亲卫队"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 221.9,
+  "sofFactionName": "mordubase"
 }

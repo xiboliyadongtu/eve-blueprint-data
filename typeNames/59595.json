@@ -1,5 +1,17 @@
 {
-  "typeID": 59595,
+  "description": {
+    "de": "Die folgenden Schiffe sind zur Aktivierung des Beschleunigungstors berechtigt: Corvettes und Tech I-Fregatten. Maximal gleichzeitig erlaubte Kapselpiloten: 3",
+    "en": "Ships allowed to activate the acceleration gate are:\r\ncorvettes and Tech I frigates.\r\n\r\nMaximum simultaneous capsuleers: 3",
+    "es": "Las naves que pueden activar el portal de aceleración son:\n\ncorbetas y fragatas T1.\n\n\n\nMáximo de capsulistas simultáneos: 3",
+    "fr": "Les vaisseaux autorisés à activer le portail d’accélération sont les suivants : corvettes et frégates Tech I. Maximum de capsuliers à la fois : 3",
+    "ja": "Ships allowed to activate the acceleration gate are:\n\ncorvettes and Tech I frigates.\n\n\n\nMaximum simultaneous capsuleers: 3",
+    "ko": "액셀레이션 게이트를 활성화할 수 있는 함급은 다음과 같습니다:<br><br>코르벳, 테크 I 프리깃<br><br>동시에 사용 가능한 인원: 3명",
+    "ru": "Суда, которым разрешено активировать разгонные ворота: корветы и фрегаты 1-го техноуровня. Максимум капсулёров за проход: 3",
+    "zh": "允许通过加速轨道的舰船包括：\n\n轻型护卫舰，T1护卫舰。\n\n\n\n同时容纳克隆飞行员最大数量：3"
+  },
+  "graphicID": 1211,
+  "groupID": 310,
+  "mass": 1.0,
   "name": {
     "de": "Limited Mining Expedition Beacon",
     "en": "Limited Mining Expedition Beacon",
@@ -10,5 +22,8 @@
     "ru": "Limited Mining Expedition Beacon",
     "zh": "有限采矿远征信标"
   },
+  "portionSize": 1,
+  "published": false,
+  "sofFactionName": "genericbase",
   "volume": 1.0
 }

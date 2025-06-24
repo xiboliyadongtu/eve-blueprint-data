@@ -1,5 +1,74 @@
 {
-  "typeID": 11567,
+  "basePrice": 177038000000.0,
+  "capacity": 11250.0,
+  "description": {
+    "de": "Seinen Blick auf sein Reich werfend, erlebte der Herr\ndie Kaskade des Bösen, die Ströme des Krieges.\nBrennend vor Zorn stieg Er \naus dem Himmelsreich hinab,\num über die Unwürdigen zu richten\nund die Reinen zu erlösen.\n\n<i>-Die Heilige Schrift, Offenbarung, Verse 2:12</i>",
+    "en": "Casting his sight on his realm, the Lord witnessed\r\nThe cascade of evil, the torrents of war.\r\nBurning with wrath, He stepped \r\ndown from the Heavens\r\nTo judge the unworthy,\r\nTo redeem the pure.\r\n\r\n<i>-The Scriptures, Revelation Verses 2:12</i>",
+    "es": "Al observar su reino, el Señor presenció\n\nla cascada del mal y los torrentes de guerra.\n\nArdiendo de ira,\n\ndescendió de los cielos\n\npara juzgar a los indignos,\n\ny redimir a los puros.\n\n<i>— Las Escrituras, versos de la Revelación 2:12</i>.",
+    "fr": "En posant son regard sur son royaume, le Seigneur a vu Les flots maléfiques, les torrents de guerres. Débordant de colère, Il est descendu du ciel Pour châtier les pêcheurs, Pour sauver les purs.\n\n<i>- Les Écritures, Versets 2:12 de la Révélation</i>",
+    "ja": "主はご自分の王国をご覧になり、目にとめられた\n悪の翼列と戦の奔流があった。\nこれを見て神はお怒りになり、 \n降臨された\n価値なき者を裁かれ、\n清らかなる者を救われるために。\n\n<i>-聖典、黙示録2:12</i>",
+    "ko": "지상을 내려다 보니<br><br>온 세상이 전란에 휩싸인 채 악이 만연해 있더라. <br><br>그리하여 그분께서<br><br>분노를 불태우며<br><br>천상에서 내려오심에 <br><br>악을 심판하고<br><br>선한 자들을 구원하러 오셨도다.<br><br><i>성서, 계시록 2장 12절</i>",
+    "ru": "Взглядом окинув уделы свои, Господь созерцал\nЗло бесконечное, войной исходящее.\nСтупил он, снедаемый праведным гневом \nС небес благодатных на юдоль страданий\nИ суд учинил над насилье творящими,\nИ чистых душою возвысил...\n\n<i>-Писание, Откровения, Стих 2:12</i></div>",
+    "zh": "自天庭俯瞰，\n大地邪恶暗涌，战火连绵。\n神怒火中烧， \n亲入凡间，\n裁决卑贱之徒，\n救赎纯洁之心。\n\n<i>——《圣典·启示录2:12》</i>"
+  },
+  "factionID": 500003,
+  "graphicID": 2910,
+  "groupID": 30,
+  "marketGroupID": 813,
+  "mass": 2400000000.0,
+  "masteries": {
+    "0": [
+      96,
+      66,
+      145,
+      146,
+      150,
+      90,
+      95
+    ],
+    "1": [
+      96,
+      66,
+      145,
+      146,
+      150,
+      90,
+      95
+    ],
+    "2": [
+      96,
+      66,
+      145,
+      146,
+      150,
+      90,
+      95
+    ],
+    "3": [
+      96,
+      66,
+      145,
+      146,
+      150,
+      90,
+      95
+    ],
+    "4": [
+      96,
+      66,
+      109,
+      145,
+      146,
+      117,
+      150,
+      152,
+      153,
+      90,
+      154,
+      95
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Avatar",
     "en": "Avatar",
@@ -9,6 +78,236 @@
     "ko": "아바타",
     "ru": "Avatar",
     "zh": "神使级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 6800.0,
+  "sofFactionName": "amarrbase",
+  "soundID": 20064,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Es kann ein <a href=showinfo:24563>Doomsday</a>-Modul eingebaut werden",
+          "en": "Can fit a <a href=showinfo:24563>Doomsday</a> module",
+          "es": "Es posible equipar un módulo <a href=showinfo:24563>apocalíptico</a>.",
+          "fr": "Peut être équipé d'une <a href=showinfo:24563>arme d'annihilation</a>",
+          "ja": "<a href=showinfo:24563>ドゥームズデイ</a>モジュールを装着可能",
+          "ko": "<a href=showinfo:24563>둠스데이</a>모듈 장착 가능",
+          "ru": "Корабли этого типа могут оснащаться <a href=showinfo:24563>орудиями Судного дня</a>",
+          "zh": "可以装配一个<a href=showinfo:24563>末日武器</a>装备"
+        },
+        "importance": 1
+      },
+      {
+        "bonusText": {
+          "de": "Kann ein <a href=showinfo:43728>Phänomengenerator</a>-Modul ausrüsten",
+          "en": "Can fit a <a href=showinfo:43728>Phenomena Generator</a> module",
+          "es": "Es posible equipar un módulo <a href=showinfo:43728>generador de fenómenos</a>.",
+          "fr": "Peut être équipé d'un module de <a href=showinfo:43728>générateur de phénomènes</a>",
+          "ja": "<a href=showinfo:43728>現象ジェネレーター</a>モジュールを装着可能",
+          "ko": "<a href=showinfo:43728>특이점 생성기</a> 모듈 장착 가능",
+          "ru": "Позволяет установить модуль <a href=showinfo:43728>генератора аномалий</a>",
+          "zh": "可以装配一个<a href=showinfo:43728>现象发生器</a>装备"
+        },
+        "importance": 2
+      },
+      {
+        "bonusText": {
+          "de": "Es kann ein <a href=showinfo:23953>Sprungtor-Generator</a>-Modul eingebaut werden",
+          "en": "Can fit a <a href=showinfo:23953>Jump Portal Generator</a> module",
+          "es": "Es posible equipar un módulo <a href=showinfo:23953>generador de portales de salto</a>.",
+          "fr": "Peut être équipé d'un <a href=showinfo:23953>générateur de portail interstellaire</a>",
+          "ja": "<a href=showinfo:23953>ジャンプポータルジェネレーター</a>モジュールを装着可能",
+          "ko": "<a href=showinfo:23953>점프 포탈 생성기</a> 모듈 장착 가능",
+          "ru": "Корабли этого типа могут оснащаться <a href=showinfo:23953>генераторами гиперпорталов</a>",
+          "zh": "可以装配一个<a href=showinfo:23953>跳跃通道发生器</a>装备"
+        },
+        "importance": 3
+      },
+      {
+        "bonusText": {
+          "de": "Es kann ein <a href=showinfo:23735>Klonbucht</a>-Modul eingebaut werden",
+          "en": "Can fit a <a href=showinfo:23735>Clone Vat Bay</a> module",
+          "es": "Es posible equipar un módulo de <a href=showinfo:23735>plataforma de contenedores de clonación</a>.",
+          "fr": "Peut être équipé d'une <a href=showinfo:23735>plateforme de clonage</a>",
+          "ja": "<a href=showinfo:23735>クローンバットベイ</a>モジュールを装着可能",
+          "ko": "<a href=showinfo:23735>점프 클론 격납고</a> 모듈 장착 가능",
+          "ru": "Корабли этого типа могут оснащаться <a href=showinfo:23735>отсеками клонирования</a>",
+          "zh": "可以装配一个<a href=showinfo:23735>克隆舱</a>装备"
+        },
+        "importance": 4
+      },
+      {
+        "bonusText": {
+          "de": "Kann drei <a href=showinfo:3348>Kommandostrahl</a>-Module verwenden",
+          "en": "Can use three <a href=showinfo:3348>Command Burst</a> modules",
+          "es": "Es posible equipar tres módulos de <a href=showinfo:3348>estallido de mando</a>.",
+          "fr": "Peut utiliser trois <a href=showinfo:3348>salves de commandement</a>.",
+          "ja": "<a href=showinfo:3348>コマンドバースト</a>モジュールは3個使用可能です",
+          "ko": "세개의 <a href=showinfo:3348>커맨드 버스트</a> 모듈 사용 가능",
+          "ru": "Корабли этого типа могут включать до трёх <a href=showinfo:3348>импульсных оптимизаторов</a>",
+          "zh": "可以装配三个<a href=showinfo:3348>指挥脉冲波</a>装备"
+        },
+        "importance": 5
+      },
+      {
+        "bonus": 200.0,
+        "bonusText": {
+          "de": "Bonus auf die Reichweite des Wirkungsbereichs von <a href=showinfo:3348>Kommandostrahlen</a>",
+          "en": "bonus to <a href=showinfo:3348>Command Burst</a> area of effect range",
+          "es": "de bonificación al alcance del radio de acción del <a href=showinfo:3348>estallido de mando</a>.",
+          "fr": "de bonus à la portée de l'effet de zone des <a href=showinfo:3348>salves de commandement</a>.",
+          "ja": "<a href=showinfo:3348>コマンドバースト</a>効果範囲にボーナス",
+          "ko": "<a href=showinfo:3348>커맨드 버스트</a> 효과 반경 증가",
+          "ru": "увеличивается радиус импульсов, генерируемых <a href=showinfo:3348>импульсными оптимизаторами</a>",
+          "zh": "<a href=showinfo:3348>指挥脉冲波</a>效果范围加成"
+        },
+        "importance": 6,
+        "unitID": 105
+      },
+      {
+        "bonus": 500.0,
+        "bonusText": {
+          "de": "Bonus auf Panzerplatten und Schilderweiterungen",
+          "en": "bonus to Armor Plates and Shield Extenders",
+          "es": "de bonificación a las placas de blindaje y los extensores de escudo.",
+          "fr": "de bonus aux revêtements de blindage et aux extenseurs de bouclier",
+          "ja": "アーマープレートとシールド拡張器にボーナス",
+          "ko": "장갑 플레이트 및 실드 확장장치 성능 향상",
+          "ru": "увеличивается запас прочности, обеспечиваемый бронеплитами и дополнительными источниками щитов",
+          "zh": "装甲附甲板和护盾扩展装置加成"
+        },
+        "importance": 7,
+        "unitID": 105
+      },
+      {
+        "bonus": 80.0,
+        "bonusText": {
+          "de": "Bonus auf den Widerstand gegen Sensordämpfer",
+          "en": "bonus to Sensor Dampener resistance",
+          "es": "de bonificación a la resistencia de atenuador de sensor.",
+          "fr": "de bonus de résistance aux atténuateurs de détection",
+          "ja": "センサーダンプナーのレジスタンスが増加",
+          "ko": "센서 교란 저항력 증가",
+          "ru": "увеличивается сопротивление подавлению захвата целей",
+          "zh": "感应抑阻器抗性加成"
+        },
+        "importance": 8,
+        "unitID": 105
+      },
+      {
+        "bonus": 80.0,
+        "bonusText": {
+          "de": "Bonus auf den Widerstand gegen Waffenstörer",
+          "en": "bonus to Weapon Disruption resistance",
+          "es": "de bonificación a la resistencia de disrupción de armas.",
+          "fr": "de bonus de résistance aux perturbateurs d'armement",
+          "ja": "兵器妨害レジスタンスが増加",
+          "ko": "무기 교란 저항력 증가",
+          "ru": "увеличивается сопротивление воздействию помех на системы наводки вооружения",
+          "zh": "武器干扰抗性加成"
+        },
+        "importance": 9,
+        "unitID": 105
+      },
+      {
+        "bonus": 80.0,
+        "bonusText": {
+          "de": "Bonus auf den Widerstand gegen Stasis-Effekte",
+          "en": "bonus to Stasis effect resistance",
+          "es": "de bonificación a la resistencia al efecto ralentizador.",
+          "fr": "de bonus de résistance aux effets de stase",
+          "ja": "ステイシス効果レジスタンスが増加",
+          "ko": "스테이시스 웹 저항력 증가",
+          "ru": "увеличивается сопротивление воздействию стазиса",
+          "zh": "停滞效果抗性加成"
+        },
+        "importance": 10,
+        "unitID": 105
+      },
+      {
+        "bonus": 80.0,
+        "bonusText": {
+          "de": "Erhöhung der Fernunterstützungsimpedanz auf Elektronik",
+          "en": "increase to Remote Electronic Assistance impedance",
+          "es": "de aumento de la impedancia de asistencia electrónica remota.",
+          "fr": "d'amplification de l'impédance du soutien électronique à distance",
+          "ja": "リモート電子アシスタンスインピーダンスが増加",
+          "ko": "원격 전자 지원 임피던스 증가",
+          "ru": "увеличивается коэффициент ослабления получаемой дистанционной радиоэлектронной поддержки",
+          "zh": "增加到远程电子辅助阻抗"
+        },
+        "importance": 11,
+        "unitID": 105
+      },
+      {
+        "bonus": 5.0,
+        "bonusText": {
+          "de": "Abzug auf die Dauer von <a href=showinfo:34593>Entosis-Netzwerken</a>",
+          "en": "penalty to <a href=showinfo:34593>Entosis Link</a> duration",
+          "es": "de penalización a la duración del <a href=showinfo:34593>enlace de entosis</a>.",
+          "fr": "d'allongement du temps de cycle des <a href=showinfo:34593>interfaces Entosis</a>",
+          "ja": "<a href=showinfo:34593>エントーシスリンク</a>持続時間にペナルティ",
+          "ko": "<a href=showinfo:34593>엔토시스 링크</a> 지속시간 감소",
+          "ru": "увеличивается длительность рабочего цикла <a href=showinfo:34593>энтоз-передатчиков</a>",
+          "zh": "<a href=showinfo:34593>侵噬链接</a>运转周期惩罚"
+        },
+        "importance": 12,
+        "unitID": 104
+      }
+    ],
+    "types": {
+      "3347": [
+        {
+          "bonus": 180.0,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:20327>Capital-Energiegeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:20327>Capital Energy Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:20327>torreta de energía capital</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:20327>tourelles à énergie capitales</a>",
+            "ja": "<a href=showinfo:20327>キャピタルエネルギータレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:20327>캐피탈 에너지 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон <a href=showinfo:20327>сверхбольших лазерных орудий</a>",
+            "zh": "<a href=\"showinfo:20327\">旗舰级能量炮台</a>伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Reduktion der Aktivierungskosten von <a href=showinfo:20327>Capital-Energiegeschütztürmen</a>",
+            "en": "reduction in <a href=showinfo:20327>Capital Energy Turret</a> activation cost",
+            "es": "de reducción del coste de activación de la <a href=showinfo:20327>torreta de energía capital</a>.",
+            "fr": "de réduction du coût d'activation de la <a href=showinfo:20327>tourelle à énergie capitale</a>",
+            "ja": "<a href=showinfo:20327>キャピタルエネルギータレット</a>の起動コストが軽減",
+            "ko": "<a href=showinfo:20327>캐피탈 에너지 터렛</a> 활성화 비용 감소",
+            "ru": "сокращается расход энергии при ведении огня из <a href=showinfo:20327>сверхбольших лазерных орудий</a>",
+            "zh": "<a href=showinfo:20327>旗舰级能量炮台</a>启动消耗减少"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die Warpkernstärke des Schiffs",
+            "en": "bonus to ship warp core strength",
+            "es": "de bonificación a la intensidad del núcleo de warp de la nave.",
+            "fr": "de bonus à la puissance du réacteur de warp",
+            "ja": "艦船のワープコアを強化",
+            "ko": "워프 코어 출력 증가",
+            "ru": "повышается степень помехозащищённости варп-двигателя корабля",
+            "zh": "舰船跃迁核心强度加成"
+          },
+          "importance": 4,
+          "unitID": 139
+        }
+      ]
+    }
   },
   "volume": 155000000.0
 }

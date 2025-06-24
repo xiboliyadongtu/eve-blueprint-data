@@ -1,5 +1,17 @@
 {
-  "typeID": 368595,
+  "basePrice": 80000.0,
+  "description": {
+    "de": "Eine experimentelle Waffe, die in einem Labor hergestellt wurde",
+    "en": "An experimental weapon synthesized in a laboratory",
+    "es": "Arma experimental sintetizada en un laboratorio",
+    "fr": "Une arme expérimentale synthétisée en laboratoire",
+    "it": "Un'arma sperimentale sintetizzata in laboratorio",
+    "ja": "研究所で合成された実験的な兵器",
+    "ko": "연구소에서 개발한 프로토타입 무기입니다.",
+    "ru": "Синтезированное в лаборатории экспериментальное оружие",
+    "zh": "在实验室中合成的实验性武器"
+  },
+  "groupID": 350858,
   "name": {
     "de": "Experimentelle-Schweres Maschinengewehr",
     "en": "Experimental Heavy Machine Gun",
@@ -11,5 +23,8 @@
     "ru": "Экспериментальное тяжелый пулемет",
     "zh": "实验型重机枪"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
   "volume": 0.01
 }

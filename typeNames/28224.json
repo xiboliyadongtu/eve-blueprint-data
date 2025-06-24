@@ -1,5 +1,18 @@
 {
-  "typeID": 28224,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieser Kommunikationsknotenpunkt wurde mit einem elektronischen Sicherheitssystem verschlüsselt. Sie brauchen ein Datenanalysator, um ihn zu öffnen.",
+    "en": "This communications hub is locked with an electronic security system. You will need a Data Analyzer to open it.",
+    "es": "Este centro de comunicaciones está bloqueado con un sistema de seguridad electrónica. Necesitarás un analizador de datos para abrirlo.",
+    "fr": "Nœud de communication verrouillé à l'aide d'un système de sécurité électronique. Pour l'ouvrir, vous devez disposer d'un analyseur de données.",
+    "ja": "この通信ハブは電子セキュリティシステムでロックされている。開けるにはデータアナライザーが必要だ。",
+    "ko": "통신 허브는 전자 보안 시스템으로 보호되고 있습니다. 개방하려면 데이터 분석기가 필요합니다.",
+    "ru": "Узел связи заблокирован электронной системой безопасности. Чтобы открыть его, вам потребуется анализатор данных.",
+    "zh": "这个通信中心由电子安全系统锁定保护。你需要数据分析仪才能打开它。"
+  },
+  "graphicID": 1683,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Mission Hacking Can 2",
     "en": "Mission Hacking Can 2",
@@ -10,5 +23,10 @@
     "ru": "Mission Hacking Can 2",
     "zh": "任务可破译货柜 2"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 858.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

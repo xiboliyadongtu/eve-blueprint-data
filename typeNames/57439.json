@@ -1,5 +1,19 @@
 {
-  "typeID": 57439,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Mit der richtigen Ausrüstung könnten Sie sich in den Kommunikationsturm einhacken und ein paar wertvolle Informationen auslesen.",
+    "en": "If you have the right equipment you might be able to hack into the com tower and get some valuable information.",
+    "es": "Si tienes el equipo adecuado, podrías hackear la torre de comunicaciones y obtener información valiosa.",
+    "fr": "Si vous disposez du matériel adéquat, vous pourrez peut-être pirater cette tour de communication et récupérer des informations précieuses.",
+    "ja": "適切な機器があれば、通信タワーをハッキングして有益な情報を得ることができる。",
+    "ko": "전용 장비를 사용하여 통신타워를 해킹하고 핵심 정보를 추출할 수 있습니다.",
+    "ru": "При наличии необходимого оборудования вы сможете взломать систему безопасности коммуникационной башни и получить ценную информацию.",
+    "zh": "如果你有正确的设备，你也许可以破解这座通信塔并获得宝贵的信息。"
+  },
+  "graphicID": 20297,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Secure Depot",
     "en": "Secure Depot",
@@ -10,5 +24,9 @@
     "ru": "Secure Depot",
     "zh": "安全的仓库"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

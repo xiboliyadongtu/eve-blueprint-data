@@ -1,5 +1,18 @@
 {
-  "typeID": 60202,
+  "capacity": 950.0,
+  "description": {
+    "de": "Eine tödliche Raubdrohne, welche das örtliche Kolonienest anführt und die Erweiterung der örtlichen Raubdrohnenverseuchung überwacht. Die Zerstörung dieses mächtigen Wesens hat Priorität. Diese Kommandanten sind höchst intelligent und konzentrieren sich normalerweise auf das Wachstum ihrer Kolonie. Sie stationieren meist geringere Raubdrohnen zur Verteidigung, bis diese vernichtet wurden. Trotzdem sind diese mächtigen Drohnen schwer bewaffnet und nehmen am Kampf teil, wenn sie gezwungen sind, ihr Nest gegen Eindringlinge zu verteidigen.",
+    "en": "A deadly rogue drone that commands the local colony nest and oversees the expansion of the local rogue drone infestation. Destruction of this powerful entity is a priority.\r\n\r\nThese commanders are highly intelligent and typically focus on the growth of their colony, and will usually deploy lesser rogue drones until such defenders are eliminated. Despite this, these powerful drones are heavily-armed, and when forced to act to preserve the nest they will emerge and join battle against intruders.",
+    "es": "Un dron rebelde letal que controla el nido de la colonia local y supervisa la expansión de la infestación local de drones rebeldes. La destrucción de esta poderosa entidad es un objetivo prioritario.\n\n\n\nEstos comandantes, que se centran en el crecimiento de su colonia, son muy inteligentes y suelen desplegar drones rebeldes inferiores hasta que se elimina a estos defensores. Aun así, estos poderosos drones están bien armados y, si se ven obligados a actuar para preservar el nido, saldrán y se unirán a la batalla contra los intrusos.",
+    "fr": "Un drone renégat meurtrier qui dirige le nid de la colonie et veille à ce que l'infestation locale de drones renégats continue son expansion. La destruction de cette puissante entité est une priorité. Ces commandants sont dotés d'une grande intelligence et concentrent la plus grande partie de leurs efforts sur la croissance de la colonie. Ils déploient généralement leurs drones renégats de rang inférieur en première ligne jusqu'à annihilation totale du front défensif. En dépit de cela, ces drones puissants sont lourdement armés, et lorsqu'ils sont contraints d'intervenir pour préserver le nid, ils émergent et rejoignent la lutte contre les intrus.",
+    "ja": "現地のコロニーネストを指揮し、ローグドローン生息数の拡大を監視する、恐ろしいローグドローン。この強力なドローンは優先的に破壊すべきである。\n\n\n\nこういった指揮官クラスは高度な知性を持ち、通常はコロニーの成長に集中しており、低級ローグドローンを防衛手段として排除されてしまうまで配置する。しかし、この強力なドローンは重武装で、ネストを守るために行動せざるを得なくなると、侵入者を倒すために現れる。",
+    "ko": "콜로니 둥지의 지휘 개체로 로그 드론 감염을 주도합니다. 최우선 제거 대상입니다.<br><br>지휘 개체는 지적 능력이 뛰어나며 콜로니의 성장 및 확장을 목표로 활동합니다. 일반적으로 하급 드론을 앞세워 전투를 수행하지만 둥지가 위험에 처할 경우에는 직접 나섭니다. 상당한 수준의 무장을 지니고 있어 전투 시 각별한 주의가 필요합니다.",
+    "ru": "Смертоносный восставший дрон, управляющий гнездом местной колонии и отвечающий за её расширение и развитие. Уничтожение этой мощнейшей машины — приоритетная задача. Эти «начальники» чрезвычайно умны. Их первостепенная обязанность — процветание колонии, и зачастую для её защиты они используют дроны статусом пониже, а когда их истребляют, набирают новые. Тем не менее, эти крупные дроны оснащены воистину грозными орудиями, и при наличии серьёзной угрозы для гнезда они сами вступают в бой со злоумышленниками.",
+    "zh": "这个危险的自由无人机是本地巢穴的指挥官，并监督着自由无人机的扩张行为。摧毁它是最高优先级。\n\n\n\n这些指挥官拥有高度智能，专注于领地扩张，会不断派出小型自由无人机，直至敌人被消灭。除此之外，它们也武装精良，会亲自加入战斗保护领地免遭入侵。"
+  },
+  "graphicID": 1223,
+  "groupID": 1665,
+  "mass": 1500000.0,
   "name": {
     "de": "Colony Nest Overseer",
     "en": "Colony Nest Overseer",
@@ -10,5 +23,10 @@
     "ru": "Colony Nest Overseer",
     "zh": "领地巢穴监工"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 250.0,
+  "sofFactionName": "roguebase",
+  "soundID": 11,
   "volume": 1010000.0
 }

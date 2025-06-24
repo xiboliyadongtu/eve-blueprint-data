@@ -1,5 +1,18 @@
 {
-  "typeID": 3456,
+  "basePrice": 10000000.0,
+  "description": {
+    "de": "Skill zur Verwendung von Sprungantrieben. 5% Reduktion des Energiespeicherbedarfs bei Sprungeinleitung je Skillstufe.",
+    "en": "Skill at using Jump Drives. 5% reduction in capacitor need of initiating a jump per skill level.",
+    "es": "Habilidad para usar los motores de salto. 5 % de reducción a la necesidad del condensador de iniciar un salto por nivel de habilidad.",
+    "fr": "Compétence liée à l'utilisation des propulseurs interstellaires. réduit de 5 % par niveau les besoins énergétiques du capaciteur pour effectuer un saut.",
+    "ja": "ジャンプドライブを使うスキル。スキルレベルごとにジャンプ開始に必要なキャパシタが5％減少。",
+    "ko": "점프 드라이브 운용을 위한 스킬입니다. 매 레벨마다 점프 시 캐패시터 사용량 5% 감소",
+    "ru": "Навык управления гипердвигателями. За каждую степень освоения навыка: на 5% снижается расход энергии накопителя на запуск гипердвигателя",
+    "zh": "操作跳跃引擎的技能。每升一级，启动跳跃的电容消耗减少5%。"
+  },
+  "groupID": 275,
+  "iconID": 33,
+  "marketGroupID": 374,
   "name": {
     "de": "Jump Drive Operation",
     "en": "Jump Drive Operation",
@@ -10,5 +23,8 @@
     "ru": "Гипердвигатели",
     "zh": "跳跃引擎操作理论"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

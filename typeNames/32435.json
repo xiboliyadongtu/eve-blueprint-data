@@ -1,5 +1,18 @@
 {
-  "typeID": 32435,
+  "basePrice": 15000000.0,
+  "description": {
+    "de": "Skill zur Bedienung und dem Abschuss von XL-Marschflugkörpern. 5% Bonus auf die Schadenswirkung von XL-Marschflugkörpern je Skillstufe.",
+    "en": "Skill at the handling and firing of XL Cruise Missiles. 5% bonus to XL Cruise Missile damage per skill level.",
+    "es": "Habilidad para manejar y disparar misiles de crucero XL. 5 % de bonificación al daño de los misiles de crucero XL por nivel de habilidad.",
+    "fr": "Compétence liée à la balistique et au maniement des missiles de croisière XL. Augmente de 5 % par niveau de compétence les dégâts des missiles de croisière XL.",
+    "ja": "XLクルーズミサイルを操作し、発射するスキル。スキルレベル上昇ごとにXLクルーズミサイルのダメージが5%増加。",
+    "ko": "XL 크루즈 미사일을 운용하기 위한 스킬입니다. 매 레벨마다 XL 크루즈 미사일 피해량 5% 증가",
+    "ru": "Навык эксплуатации сверхбольших дальнобойных ракет. За каждую степень освоения навыка: на 5% повышается урон БЧ сверхбольших дальнобойных ракет.",
+    "zh": "操作和发射超大型巡航导弹的技能。每升一级，超大型巡航导弹的伤害提高5%。"
+  },
+  "groupID": 256,
+  "iconID": 33,
+  "marketGroupID": 373,
   "name": {
     "de": "XL Cruise Missiles",
     "en": "XL Cruise Missiles",
@@ -10,5 +23,8 @@
     "ru": "Сверхбольшие дальнобойные ракеты",
     "zh": "超大型巡航导弹"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 3249,
+  "basePrice": 200000.0,
+  "description": {
+    "de": "Ein Neuralinterface-Upgrade, das die Fertigkeiten des Piloten im Umgang mit Energie ausstoßenden Systemen erhöht. 6% Reduktion des Energiespeicherverbrauchs von Modulen, die den Skill \"Capacitor Emission Systems\" erfordern.",
+    "en": "A neural interface upgrade that boosts the pilot's skill with energy emission systems.\r\n\r\n6% reduction in capacitor need of modules requiring the Capacitor Emission Systems skill.",
+    "es": "Mejora de interfaz neuronal que potencia la habilidad del piloto en sistemas de emisión de energía.\n\n6 % de reducción de la necesidad del condensador de módulos que requieren la habilidad de Sistemas de emisión del condensador.",
+    "fr": "Amélioration de l'interface neurale portant sur la compétence du pilote de systèmes d'émission d'énergie. Réduit de 6% les besoins énergétiques du capaciteur des modules nécessitant la compétence liée aux systèmes d'émission du capaciteur.",
+    "ja": "ニューラルインターフェイスのアップグレード。パイロットのエネルギーエミッションシステムスキルを高める。\n\nキャパシタエミッションシステムスキルを必要とするモジュールのキャパシタ消費量が6%削減。",
+    "ko": "캐패시터 전송 시스템 스킬을 향상하는 신경 인터페이스 업그레이드입니다. <br><br>캐패시터 전송 시스템 스킬을 요구하는 모든 모듈의 캐패시터 사용량 6% 감소",
+    "ru": "Модуль расширения нейроинтерфейса, улучшающий навыки пилота в области работы с системами передачи энергии. На 6% сокращается продолжительность рабочего цикла всех модулей, для применения которых необходим навык <url=showinfo:3423>«Дистанционный перенос заряда накопителя»</url>.",
+    "zh": "一款神经接口升级芯片，可以增强飞行员在能量散发系统方面的技能。\n\n对于需要电容散发系统研究技能的装备，降低其电容需求量6%。"
+  },
+  "groupID": 741,
+  "iconID": 2224,
+  "marketGroupID": 1508,
   "name": {
     "de": "Inherent Implants 'Squire' Capacitor Emission Systems ES-706",
     "en": "Inherent Implants 'Squire' Capacitor Emission Systems ES-706",
@@ -10,5 +23,7 @@
     "ru": "Inherent Implants 'Squire' Capacitor Emission Systems ES-706",
     "zh": "天赋植体 随从 电容散发系统 ES-706"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

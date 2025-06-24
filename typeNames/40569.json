@@ -1,5 +1,19 @@
 {
-  "typeID": 40569,
+  "description": {
+    "de": "<b>Typ:</b> Unterstützungsjäger\n\n<b>Aufgabe:</b> Störung\n\n<b>Beschreibung:</b> Die Scarab bringt Unterstützung für die Elektronikstörung aufs Schlachtfeld.\n\n\n\n<b>Störer</b>: Stört die Zielerfassungssysteme.\n\n<b>Microwarpantrieb</b>: Verleiht eine beträchtliche Geschwindigkeitserhöhung auf Kosten eines höheren Signaturradius. Der Microwarpantrieb hat eine lange Abkühlzeit zwischen den Einsätzen.",
+    "en": "<b>Type:</b> Support Fighter\r\n<b>Role:</b> Jamming\r\n<b>Description:</b> The Scarab brings electronic jamming support to the battlefield.\r\n\r\n<b>Jammer</b>: Disrupts targeting systems.\r\n<b>Microwarpdrive</b>: Gives a significant speed boost at the cost of higher signature radius. The Microwarpdrive has a long cool-down cycle between uses.",
+    "es": "<b>Tipo:</b> caza de apoyo.\n<b>Función:</b> perturbación.\n<b>Descripción:</b> la Scarab produce perturbaciones electrónicas en el campo de batalla.\n\n<b>Perturbador:</b> interrumpe los sistemas de adquisición de objetivos.\n<b>Motor de microwarp:</b> otorga un aumento considerable de velocidad a costa de un radio de señal superior. Tiene un ciclo de recarga largo entre un uso y otro.",
+    "fr": "<b>Type :</b> chasseur de soutien\n\n<b>Rôle :</b> brouillage\n\n<b>Description:</b> le Scarab offre un renfort d'attaque électronique sur le champ de bataille grâce à ses brouilleurs embarqués.\n\n\n\n<b>Brouilleur :</b> cet armement de guerre électronique brouille les systèmes de ciblage ennemis.\n\n<b>Propulseur de microwarp :</b> l'activation de ce module génère une puissante accélération au détriment du rayon de signature du vaisseau, suivie d'un long délai de récupération.",
+    "ja": "<b>タイプ：</b> 支援戦闘機<b>用途：</b> ジャミング<b>詳細：</b> スカラベが電子機器へのジャミングを行い、戦況をサポートする。<b>ジャマー</b>： 捕捉システムを妨害する。<b>マイクロワープドライブ</b>： シグネチャ半径が拡大する代わりに大幅に速度を増加させる。マイクロワープドライブは使用後のクールダウンに長時間を要する。",
+    "ko": "<b>분류:</b> 서포트 파이터 <br><br><b>임무:</b> 재밍 <br><br><b>설명:</b> 스캐럽은 전자전 재밍을 수행하기 위해 설계되었습니다. <br><br><b>재머</b>: 타겟팅 시스템에 간섭합니다. <br><br><b>마이크로 워프 드라이브</b>: 속도가 크게 향상되지만 시그니처 반경이 증가합니다. 긴 재사용 대기시간을 갖고 있습니다.",
+    "ru": "<b>Тип:</b> Истребитель поддержки\n\n<b>Задача:</b> Электронное противодействие\n\n<b>Описание:</b> «Скарабей» вносит помехи в работу систем целеуказания вражеских кораблей.\n\n\n\n<b>Глушение</b>: Вносит помехи в работу систем целеуказания корабля-цели.\n\n<b>Микроварп-ускоритель</b>: Даёт значительный прирост к скорости полёта за счёт увеличения размера сигнатуры корабля. Микроварп-ускорителю нужно дать остыть перед повторным использованием; это может занять довольно долгое время.",
+    "zh": "<b>类型：</b>后勤铁骑舰载机\n\n<b>作用：</b>电子干扰\n\n<b>描述：</b>圣甲虫在战场上进行电子干扰支援。\n\n\n\n<b>干扰器</b>：干扰锁定系统。\n\n<b>微型跃迁推进器</b>：通过牺牲信号半径来大幅度提升速度。装备运转后的冷却时间较长。"
+  },
+  "graphicID": 2975,
+  "groupID": 1537,
+  "marketGroupID": 2239,
+  "mass": 1500.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Scarab II",
     "en": "Scarab II",
@@ -10,5 +24,11 @@
     "ru": "Scarab II",
     "zh": "圣甲虫 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 35.0,
+  "sofFactionName": "caldaribase",
+  "variationParentTypeID": 40345,
   "volume": 3000.0
 }

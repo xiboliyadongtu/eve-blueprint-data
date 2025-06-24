@@ -1,5 +1,16 @@
 {
-  "typeID": 77126,
+  "description": {
+    "de": "Sitz eines Missionardienstes, dessen Aufgabe es ist, wohltätige Unterstützung für all jene zu leisten, die aufgrund ihrer Dienste für das Imperium befreit worden sind. Der Dienst sieht sich Angriffen der Disciples of Purity ausgesetzt, die die geringe Möglichkeit sozialer Mobilität ablehnen, die diese Art Wohltätigkeit bietet.",
+    "en": "Home to a missionary service charged with providing charitable support to those who have been freed as a result of performing services for the Empire. It has come under attack by the Disciples of Purity as they oppose the slim possibility of social mobility this charity represents.",
+    "es": "Hogar de un servicio misionero encargado de ofrecer apoyo caritativo a aquellos que han sido liberados como resultado de realizar servicios para el Imperio. Ha sido atacado por los Discípulos de la Pureza que se oponen a la escasa posibilidad de movilidad social que representa esta caridad.",
+    "fr": "Siège d'un service missionnaire chargé d'apporter un soutien charitable aux personnes libérées pour services rendus à l'Empire. Il a été attaqué par les Disciples de la pureté, ces derniers étant opposés au risque minime d'ascension sociale que cette initiative caritative représente.",
+    "ja": "帝国への奉公によって自由を獲得した者たちに向けて、無償の支援を提供する宣教団体の本拠地。昨今は、同団体の示すわずかな社会的移動性を拒絶する「清白の門徒団」による攻撃の対象となっている。",
+    "ko": "제국 내 선교 활동에 의해 자유를 얻은 이들을 대상으로 자선 활동을 벌이는 선교 집단의 본거지입니다. 그러나 순결의 추종자는 해당 자선 활동이 표방하는 사회적 계층 이동의 실현 가능성이 희박하다고 주장하며 이 구조물을 공격했습니다.",
+    "ru": "Здесь находится миссионерская организация, которая оказывает безвозмездную помощь тем, кто был освобождён за верную службу Империи. Этот объект подвергся нападению «Поборников чистоты» — им не нравится, что организация даёт людям возможность изменить своё социальное положение.",
+    "zh": "传教士服务机构本部，负责为那些因向帝国提供服务而获得自由的人提供慈善支持。曾遭到纯洁信徒的攻击，因为他们反对这个慈善机构所代表的微弱社会机动性。"
+  },
+  "graphicID": 26049,
+  "groupID": 4576,
   "name": {
     "de": "Holy Mission",
     "en": "Holy Mission",
@@ -10,5 +21,8 @@
     "ru": "Holy Mission",
     "zh": "神圣使命"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 5000.0,
+  "sofFactionName": "amarrbase"
 }

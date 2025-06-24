@@ -1,5 +1,70 @@
 {
-  "typeID": 623,
+  "basePrice": 8000000.0,
+  "capacity": 450.0,
+  "description": {
+    "de": "Die Moa wurde als Kampfschiff entwickelt. Ihre schwere Bewaffnung lässt das Schiff mit fast allem fertig werden, was sich im Weltraum bewegt. Im Gegensatz zur Thorax, ihrer ärgsten Konkurrentin, ist die Moa dort am effektivsten, wo sie auf weite Entfernungen mit ihren Schienengewehren einen tödlichen Kugelhagel auf ihre Feinde niederprasseln lassen kann.",
+    "en": "The Moa was designed as an all-out combat ship, and its heavy armament allows the Moa to tackle almost anything that floats in space. In contrast to its nemesis the Thorax, the Moa is most effective at long range where its railguns can rain death upon foes.",
+    "es": "La Moa se ideó como nave de guerra total, y su pesado armamento le permite interceptar casi cualquier cosa que flote en el espacio. A diferencia de su némesis, la Thorax, la Moa es más eficaz a distancia, donde sus cañones electromagnéticos resultan letales contra el enemigo.",
+    "fr": "Le Moa a été conçu pour être un vaisseau de combat polyvalent. Son armement lourd lui permet d'attaquer à peu près tout ce qui sillonne l'espace. Contrairement à son adversaire direct, le Thorax, le Moa est plus efficace à longue portée où ses canons à rails et ses batteries de missiles taillent ses ennemis en pièces.",
+    "ja": "モアは完全攻撃型の戦闘機として設計され、その重武装にものをいわせて、およそ宇宙に浮いている物ならほぼ何であれ突撃していける。不倶戴天の敵であるソーラックスとは対照的に、モアが最大の性能を発揮するのは長距離射撃で、レールガンで敵艦に死の雨を降らせる。",
+    "ko": "모아는 오로지 전투를 위해 설계된 함선으로 강력한 무장을 통해 우주에서 맞닥뜨리는 그 무엇이든 파괴합니다. 레일건으로 적들에게 강력한 포격이 가능하기에 장거리전에 효과적입니다.",
+    "ru": "Крейсер типа «Моа» представляет собой мощный корабль общего назначения; тяжёлые орудия «Моа» позволяют его пилоту не теряться перед лицом любых обитателей космоса. В противоположность «Тораксу» крейсер типа «Моа» наиболее эффективен на дальних дистанциях, с которых его рельсотроны уничтожают более близоруких противников.",
+    "zh": "巨鸟级被设计为一艘全能型战舰，它的重型武装使其几乎能应付太空里飞行的任何东西。与竞争对手托勒克斯级不同，巨鸟级擅长远程作战，它的磁轨炮能将死亡的气息像雨点一般砸在对手身上。"
+  },
+  "factionID": 500001,
+  "graphicID": 49,
+  "groupID": 26,
+  "marketGroupID": 75,
+  "mass": 12000000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      68,
+      150,
+      139,
+      85,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      68,
+      150,
+      139,
+      85,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      68,
+      150,
+      139,
+      85,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      68,
+      150,
+      139,
+      85,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      68,
+      150,
+      139,
+      85,
+      118,
+      94
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Moa",
     "en": "Moa",
@@ -9,6 +74,48 @@
     "ko": "모아",
     "ru": "Moa",
     "zh": "巨鸟级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 166.0,
+  "sofFactionName": "caldaribase",
+  "soundID": 20070,
+  "traits": {
+    "types": {
+      "3334": [
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3304>mittelgroßen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3304>Medium Hybrid Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3304>torreta híbrida mediana</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:3304>tourelles hybrides intermédiaires</a>",
+            "ja": "<a href=showinfo:3304>中型ハイブリッドタレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3304>중형 하이브리드 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон боеприпасов <a href=showinfo:3304>средних гибридных орудий</a>",
+            "zh": "<a href=\"showinfo:3304\">中型混合炮台</a>伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 4,
+          "bonusText": {
+            "de": "Bonus auf alle Schildresistenzen",
+            "en": "bonus to all shield resistances",
+            "es": "de bonificación a todas las resistencias de escudo.",
+            "fr": "de bonus à toutes les résistances de bouclier",
+            "ja": "全てのシールドレジスタンスが増加",
+            "ko": "모든 실드 저항력 증가",
+            "ru": "повышается сопротивляемость щитов корабля всем видам воздействия",
+            "zh": "护盾抗性加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 101000.0
 }

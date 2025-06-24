@@ -1,5 +1,18 @@
 {
-  "typeID": 4385,
+  "basePrice": 5000000.0,
+  "description": {
+    "de": "Skill zur Verwendung von Mikrosprungantrieben. 5% Reduktion der Aktivierungszeit je Skillstufe.",
+    "en": "Skill at using Micro Jump Drives. 5% reduction in activation time per skill level.",
+    "es": "Habilidad en el uso de motores de microsalto. 5 % de reducción del tiempo de activación por nivel de habilidad.",
+    "fr": "Compétence liée à l'utilisation des micropropulseurs interstellaires. Réduit de 5% par niveau de compétence le temps d'activation.",
+    "ja": "マイクロジャンプドライブを扱うスキル。スキルレベル上昇ごとに起動時間が5％短縮。",
+    "ko": "마이크로 점프 드라이브 운용을 위한 스킬입니다. 매 레벨마다 활성화 시간 5% 감소",
+    "ru": "Навык управления маневровыми гипердвигателями. \n\nЗа каждую степень освоения навыка: на 5% сокращается продолжительность рабочего цикла (время разогрева после запуска) маневровых гипердвигателей.",
+    "zh": "使用微型跳跃引擎的技能。每升一级，激活时间减少5%。"
+  },
+  "groupID": 275,
+  "iconID": 33,
+  "marketGroupID": 374,
   "name": {
     "de": "Micro Jump Drive Operation",
     "en": "Micro Jump Drive Operation",
@@ -10,5 +23,7 @@
     "ru": "Маневровые гипердвигатели",
     "zh": "微型跳跃引擎操作"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

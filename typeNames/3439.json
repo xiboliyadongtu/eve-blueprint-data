@@ -1,5 +1,18 @@
 {
-  "typeID": 3439,
+  "basePrice": 200000.0,
+  "description": {
+    "de": "Ermöglicht die Bedienung von Versorgungsdrohnen. \r\n\r\n5% Bonus auf den Reparaturumfang von Versorgungsdrohnen je Skillstufe.",
+    "en": "Allows operation of logistic drones. 5% increased repair amount per level.",
+    "es": "Permite operar drones logísticos. 5 % de bonificación a la reparación por nivel de habilidad.",
+    "fr": "Permet le fonctionnement des drones d'assistance. Augmente de 5 % par niveau le niveau de réparation.",
+    "ja": "支援専門ドローンの操作が可能になる。レベル上昇ごとにリペア量が 5% 増加。",
+    "ko": "수리 드론 운용을 위한 스킬입니다. 매 레벨마다 수리 효율 5% 증가",
+    "ru": "Навык эксплуатации ремонтных дронов. За каждую степень освоения навыка: на 5% повышается эффективность ремонтных дронов.",
+    "zh": "操纵后勤无人机的技能。每升一级，维修量提升5%。"
+  },
+  "groupID": 273,
+  "iconID": 33,
+  "marketGroupID": 366,
   "name": {
     "de": "Repair Drone Operation",
     "en": "Repair Drone Operation",
@@ -10,5 +23,7 @@
     "ru": "Ремонтные дроны",
     "zh": "维修无人机操控理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

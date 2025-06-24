@@ -1,5 +1,17 @@
 {
-  "typeID": 355786,
+  "basePrice": 5000.0,
+  "description": {
+    "de": "Erhöht die Feuergeschwindigkeit von Hybridgeschützen.\nHINWEIS: Für dieses Modul gelten Stapelabzüge; nach dem ersten Modul nimmt die Wirksamkeit jedes weiteren ab, sofern es dieselben Attribute beeinflusst.",
+    "en": "Increases firing rate of hybrid turrets.\r\nNOTE: Stacking penalties apply to this module; the effectiveness of each additional module (after the first) that alters the same attributes will be reduced.",
+    "es": "Aumenta la cadencia de tiro de las torretas híbridas.\nAVISO: Se aplican penalizaciones por acumulación a este módulo. Se reduce la efectividad de cada módulo adicional (después del primero) que altere los mismos atributos.",
+    "fr": "Augmente la vitesse de tir des tourelles hybrides.\nREMARQUE : Des pénalités d'accumulation s'appliquent à ce module ; au-delà du premier module, l'efficacité de chaque module supplémentaire qui modifie les mêmes attributs sera réduite.",
+    "it": "Aumenta la cadenza di fuoco delle torrette ibride.\nNOTA: a questo modulo si applicano le penalità da accumulo; l'efficacia di ogni modulo aggiuntivo (dopo il primo) che modifica gli stessi attributi viene ridotta.",
+    "ja": "ハイブリッドタレットの射撃率を増加する。\n注:このモジュールはスタッキングペナルティの対象となり、同一のモジュールを複数取り付けると、一つ追加するごとにモジュールの効果が低下する。",
+    "ko": "하이브리드 터렛 발사 속도가 증가합니다. <br><br>참고: 중첩 페널티가 적용되는 모듈입니다. 동일한 효과를 지닌 모듈을 한 개 이상 장착할 경우 추가 모듈의 효율성이 감소합니다.",
+    "ru": "Повышает скорострельность гибридных турелей.\nПРИМЕЧАНИЕ: Для этого модуля действует система нарастающих штрафов; эффективность воздействия каждого последующего модуля (после первого), которая изменяет одинаковые характеристики, снижается.",
+    "zh": "增加混合炮台的射速。注：此装备有堆叠惩罚，额外加装相同属性的装备的效果会降低。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Nonlinearer Flux-Stabilisator",
     "en": "Nonlinear Flux Stabilizer",
@@ -11,5 +23,7 @@
     "ru": "Нелинейный стабилизатор силового поля",
     "zh": "非线性通量稳定器"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

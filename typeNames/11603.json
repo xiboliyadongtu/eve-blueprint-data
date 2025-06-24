@@ -1,5 +1,17 @@
 {
-  "typeID": 11603,
+  "description": {
+    "de": "Dieser kleine, durchsichtige Datenchip enthält Informationen aus der Datenbank eines Schiffes, dass zuvor im Besitz von Shiez Kozak war. Die hier gespeicherten Informationen können alles Mögliche aus dem Schiffslogbuch enthalten.",
+    "en": "This tiny, glassy data chip holds information from the database of a ship formerly in the possession of Shiez Kozak.  Information stored within here could be anything from the ship's logs.",
+    "es": "Este pequeño chip de datos de vidrio contiene información de la base de datos de una nave que antes pertenecía a Shiez Kozak. La información almacenada puede ser cualquier dato del cuaderno de bitácora.",
+    "fr": "Cette petite puce de données en verre contient des informations extraites de la base de données d'un vaisseau ayant appartenu à Shiez Kuzak.  Les informations stockées peuvent provenir des registres du vaisseau.",
+    "ja": "ガラス状の超小型データチップ。シーズコザックが所有していた艦船のデータベース内にあった情報が格納されている。この中に格納されている情報は、船の航海記録かもしれない。",
+    "ko": "조그마한 데이터칩에는 쉬즈 쿠자크가 소유했던 함선의 데이터베이스가 담겨 있습니다. 항해 일지에 관한 내용이 기록되어 있을 확률이 높습니다.",
+    "ru": "Это крохотный стеклянный чип данных содержит информацию из базы данных корабля, принадлежавшего Shiez Kozak. Информация, хранящаяся внутри, может являться чем угодно, начиная с корабельных записей.",
+    "zh": "这块微小、玻璃状的数据芯片包含曾属于西尔兹·库扎克的飞船的数据库信息。这里面存储的信息可能是飞船日志上的任何内容。"
+  },
+  "groupID": 314,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Shiez Kuzaks Ship Database",
     "en": "Shiez Kuzaks Ship Database",
@@ -10,5 +22,7 @@
     "ru": "Shiez Kuzaks Ship Database",
     "zh": "西尔兹·库扎克飞船数据库"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

@@ -1,5 +1,19 @@
 {
-  "typeID": 28021,
+  "basePrice": 2000000000.0,
+  "capacity": 7500000.0,
+  "description": {
+    "de": "Ein fortschrittliches Upgrade für das Aufbereitungspotential von Amarr-Außenposten. Erhöht die Aufbereitungseffizienz von Erz und Eis auf 57%. Hinweis: Hat keinen Effekt auf etwas anderes als die beiden oben genannten Gruppen.",
+    "en": "An advanced upgrade to Amarr Outpost reprocessing capabilities. Increases ore and ice reprocessing efficiency to 57%.\r\n\r\nNote: does not affect anything else but the two groups mentioned above.",
+    "es": "Mejora avanzada de la capacidad de reprocesamiento en puestos avanzados amarrianos. Aumenta la eficiencia de reprocesamiento de menas y hielo al 57 %.\n\n\n\nAviso: No afecta a nada más que los dos grupos mencionados anteriormente.",
+    "fr": "Amélioration avancée permettant d'augmenter les capacités de retraitement d'un avant-poste amarr. Augmente de 57 % l'efficacité du retraitement du minerai et de la glace.\n\nRemarque : affecte uniquement les deux groupes mentionnés ci-dessus.",
+    "ja": "アマーアウトポストの再処理能力をさらに高める高度なアップグレード。鉱石とアイスの再処理効率を57％増加。注意: 上に書かれた2つのグループのものにのみ影響あり。",
+    "ko": "아마르 전초기지 정제능력을 개선하기 위한 상급 업그레이드입니다. 광물 및 아이스 정제 효율성 57% 증가 <br><br>참고: 상기에 언급된 두 종류의 자원에만 효과가 적용됩니다.",
+    "ru": "Усовершенствованный модуль расширения перерабатывающих мощностей амаррского форпоста. Доводит эффективность переработки руды и льда до 57%. Внимание! Ко всем прочим категориям материалов, помимо двух упомянутых, вышеуказанный эффект не относится.",
+    "zh": "针对艾玛哨站提炼能力的高级升级方案。提高矿石和冰矿的提炼效率到57%。\n\n注：只对上述两种物品有影响。"
+  },
+  "graphicID": 3304,
+  "groupID": 836,
+  "iconID": 3304,
   "name": {
     "de": "Amarr Advanced Outpost Refinery Platform",
     "en": "Amarr Advanced Outpost Refinery Platform",
@@ -10,5 +24,10 @@
     "ru": "Amarr Advanced Outpost Refinery Platform",
     "zh": "艾玛高级空间站精炼设施平台"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 1000.0,
+  "sofFactionName": "amarrbase",
   "volume": 750000.0
 }

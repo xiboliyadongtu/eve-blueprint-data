@@ -1,5 +1,20 @@
 {
-  "typeID": 27569,
+  "basePrice": 2500000.0,
+  "description": {
+    "de": "Stationierbare Struktur zur Warpstörung.",
+    "en": "Deployable warp jamming structure.",
+    "es": "Estructura desplegable de perturbación de warp.",
+    "fr": "Structure de brouillage de warp mobile.",
+    "ja": "配置可能なワープジャミング施設。",
+    "ko": "전개형 워프 재밍 구조물입니다.",
+    "ru": "Модуль базы, используемый для глушения квантовых двигателей.",
+    "zh": "可部署的跃迁干扰结构。"
+  },
+  "graphicID": 2615,
+  "groupID": 443,
+  "marketGroupID": 481,
+  "mass": 100000000.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Shadow Warp Scrambling Battery",
     "en": "Shadow Warp Scrambling Battery",
@@ -10,5 +25,10 @@
     "ru": "Shadow Warp Scrambling Battery",
     "zh": "暗影跃迁扰频波发射台"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 629.0,
+  "sofFactionName": "genericmetal",
+  "variationParentTypeID": 17182,
   "volume": 4000.0
 }

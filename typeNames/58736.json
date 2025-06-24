@@ -1,5 +1,17 @@
 {
-  "typeID": 58736,
+  "description": {
+    "de": "Dieses gestohlene Anziehungssignalfeuer wird vom Equilibrium of Mankind genutzt, um ihre Capital-Schiffe unbemerkt von den Kernimperien durch New Eden zu bewegen. Es funktioniert nur innerhalb des von den Imperien kontrollierten Raums, da das EoM sich in ihre Anziehungsnetzwerke gehackt und eine Umgehungsregistrierung für die Anziehungsstörung gefälscht hat. Wenn dieses Signalfeuer durch das Hacken einer verbundenen Anlage zur Manipulation des Anziehungsnetzwerks gestört wird, stellt dieses Signalfeuer keine Bedrohung mehr dar.",
+    "en": "This stolen cynosural beacon is being used by the Equilibrium of Mankind to move their capital ships around New Eden under the noses of the core empires. It can only function within empire-controlled space because the EoM have hacked into the cyno networks of the empires and spoofed a cyno-jamming bypass registration. If this beacon is disrupted by hacking into a connected Cyno Network Spoofing Facility this beacon will cease to be a threat.",
+    "es": "Esta baliza cinosural robada está siendo utilizada por Equilibrium of Mankind para mover sus naves capitales alrededor de Nuevo Edén delante de las narices de los imperios centrales. Solo puede funcionar dentro del espacio controlado por el imperio porque EoM ha hackeado las cinorredes del imperio y ha falsificado un registro para eludir la cinoinhibición. Si esta baliza se inhibe al hackear un centro de suplantación de cinorredes de EoM, dejará de ser una amenaza.",
+    "fr": "Cette balise cynosurale volée est utilisée par l’Equilibrium of Mankind pour déplacer ses vaisseaux capitaux à travers New Eden à l’insu des principaux empires. Elle peut seulement fonctionner dans l’espace sous contrôle impérial, l’EoM ayant piraté les réseaux cynosuraux des empires et falsifié l’enregistrement de contournement du brouillage cynosural. Si cette balise est perturbée par le piratage d’une installation de falsification du réseau cynosural, elle ne présentera plus de menace.",
+    "ja": "この盗まれたサイノシュラルビーコンは、イクイブリアムオブマンカインド（EoM）によって、主要国家に気付かれずに主力艦をニューエデン中に移動させるために使用されている。EoMが主要国家のサイノネットワークにハッキングし、サイノジャミングのバイパス登録にスプーフィングを行っているため、このビーコンは主要国家の支配宙域でのみ機能する。接続されているサイノネットワーク・スプーフィング設備にハッキングして妨害すれば、このビーコンの脅威を取り除くことができる。",
+    "ko": "균형의 수호자가 점령한 사이노슈럴 비컨으로 4대 제국 몰래 캐피탈 함선을 이동시키기 위해 사용되고 있습니다. 기존에 설치된 사이노 네트워크를 해킹한 것이기 때문에 제국 영토 내에서만 활성화가 가능합니다. 사이노 네트워크 교란시설과 연결된 비컨을 해킹할 경우 가동이 중지됩니다.",
+    "ru": "Этот украденный приводной маяк «Равновесие человечества» используется для перемещения КБТ секты через пространство Нового Эдема прямо под носом великих держав. Он может действовать только в пространстве держав, так как сектанты из «Равновесия человечества» взломали приводные сети держав и получили доступ к технологии обхода помех приводному маяку. Если вывести из строя этот маяк, взломав подключённый к нему центр имитации объекта приводной сети, он перестанет представлять угрозу.",
+    "zh": "这个被偷的诱导信标现在被EoM用于在几大帝国的鼻子底下四处调动他们的旗舰。它只能在帝国领地启用，因为EoM破译了帝国的诱导网络并绕过了诱导阻扰。如果通过破译诱导网络伪装设施来对这个信标进行干扰，它就会失去作用。"
+  },
+  "graphicID": 22262,
+  "groupID": 226,
+  "mass": 100.0,
   "name": {
     "de": "EoM Stolen Cyno Beacon",
     "en": "EoM Stolen Cyno Beacon",
@@ -10,5 +22,8 @@
     "ru": "EoM Stolen Cyno Beacon",
     "zh": "EoM被盗的诱导信标"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 7000.0,
+  "sofFactionName": "upwell"
 }

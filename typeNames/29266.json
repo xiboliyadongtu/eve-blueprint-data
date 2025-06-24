@@ -1,5 +1,48 @@
 {
-  "typeID": 29266,
+  "basePrice": 7500.0,
+  "capacity": 10.0,
+  "description": {
+    "de": "„Für euch, Kinder, zum fünften Geburtstag. Mögen eure nächsten Jahre voller Zuversicht und Hoffnung sein, sodass ihr eines Tages mit den Sternen wie unter gleichen wandeln möget.“ <br><br><i>Idmei Sver, Society of Conscious Thought, zum fünften Geburtstag der Kapselpilotenära.</i>",
+    "en": "\"For you, children, on your fifth birthday. May your next five years be as full of promise and hope, and may you one day walk with us as equals among the stars.\"\r\n<br><br><i>Idmei Sver, Society of Conscious Thought, on the fifth anniversary of the Capsuleer Era.</i>",
+    "es": "«Para vosotros, hijos míos, en vuestro quinto aniversario. Que los próximos cinco años vengan llenos de promesas y esperanza, y que algún día caminéis junto a nosotros como iguales entre las estrellas».\r\n<br><br><i>Idmei Sver, Círculo del Pensamiento Consciente, en el quinto aniversario de la Era Capsulista.</i>",
+    "fr": "« Pour vous, mes enfants, pour votre cinquième anniversaire. Puissent ces cinq prochaines années être emplies de promesses et d'espoir, qu'un jour vous marchiez à nos côtés, tels nos semblables parmi les étoiles. » <br><br><i>Idmei Sver, Society of Conscious Thought, pour le cinquième anniversaire de l'Ère des capsuliers.</i>",
+    "ja": "「子供たちよ、5歳のお誕生日おめでとう。次の5年間が展望と希望に満ち、いつの日か君らが我々と肩を並べて星々の間を巡ることができますように」\r\n<br><br><i>コンシャスソウト学会のイドメイ・スベルがカプセラ時代の5周年に。</i>",
+    "ko": "너에게 주는 선물이야. 다섯번째 생일 축하해. 네가 앞으로 맞을 오 년 또한 꿈과 희망이 가득하길 바라. 언젠가 동등한 파일럿이 되어 함께 항성 사이를 누빌 날을 기대하며...\r\n<br><br><i>깨어있는 자들의 사회의 이드메이 스베르로부터, 캡슐리어 시대의 5주년을 기념하며.</i>",
+    "ru": "«Поздравляю вас с пятилетием, дети мои! Пусть следующие пять лет будут полны возможностей и надежд. Быть может, однажды мы с вами станем друг другу ровней». <br><br><i>Идмей Свер, «Общество осознанно мыслящих». Отрывок из речи в честь 5-й годовщины эпохи капсулёров.</i>",
+    "zh": "“孩子们，这是给你们五岁的生日礼物。祝愿你们在接下来的日子里憧憬满怀，并希望你们有一天能和我们并肩行走于宇宙之间。” <br><br><i>伊德梅·斯凡，理性思维社团，在太空飞行纪元五周年时发表的演说。</i>"
+  },
+  "factionID": 500017,
+  "graphicID": 1233,
+  "groupID": 31,
+  "marketGroupID": 1618,
+  "mass": 1600000.0,
+  "masteries": {
+    "0": [
+      144,
+      117,
+      118
+    ],
+    "1": [
+      144,
+      117,
+      118
+    ],
+    "2": [
+      144,
+      117,
+      118
+    ],
+    "3": [
+      144,
+      117,
+      118
+    ],
+    "4": [
+      144,
+      117,
+      118
+    ]
+  },
   "name": {
     "de": "Apotheosis",
     "en": "Apotheosis",
@@ -9,6 +52,46 @@
     "ko": "아포테오시스",
     "ru": "Apotheosis",
     "zh": "神圣穿梭机"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 16,
+  "radius": 93.0,
+  "sofFactionName": "soctbase",
+  "soundID": 20080,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Immun gegen <a href=showinfo:22782>Unterbrechungsfeldwerfer</a>, <a href=showinfo:28654>Warpstörfeldgeneratoren</a> und <a href=showinfo:12198>mobile kleine </a>, <a href=showinfo:12199>mittelgroße</a> und <a href=showinfo:12200>große Warpstörer</a>",
+          "en": "Immune to <a href=showinfo:22782>Interdiction Sphere Launcher</a>, <a href=showinfo:28654>Warp Disruption Field Generator</a> and <a href=showinfo:12198>Mobile Small</a>, <a href=showinfo:12199>Medium</a> and <a href=showinfo:12200>Large Warp Disruptor</a>",
+          "es": "Inmune al <a href=showinfo:22782>lanzaesferas de interdicción</a>, al <a href=showinfo:28654>generador de campo disruptor de warp</a> y al <a href=showinfo:12198>disruptor de warp móvil pequeño</a>, <a href=showinfo:12199>mediano</a> y <a href=showinfo:12200>grande</a>.",
+          "fr": "Immunité contre les <a href=showinfo:22782>lanceurs de sphère d'interdiction</a>, <a href=showinfo:28654>générateurs de champ perturbateur de warp</a> et <a href=showinfo:12198>perturbateurs de warp mobiles légers</a>, <a href=showinfo:12199>intermédiaires</a> et <a href=showinfo:12200>grands perturbateurs de warp</a>",
+          "ja": "<a href=showinfo:22782>インターディクションスフィアランチャー</a>、<a href=showinfo:28654>ワープ妨害フィールドジェネレーター</a>、<a href=showinfo:12198>小型</a>、<a href=showinfo:12199>中型</a>、<a href=showinfo:12200>大型移動式ワープ妨害器</a>の影響を受けない",
+          "ko": "<a href=showinfo:22782>인터딕션 런처</a>, <a href=showinfo:28654>워프 디스럽션 필드 생성기</a>, <a href=showinfo:12198>이동식 소형</a>/<a href=showinfo:12199>중형</a>/<a href=showinfo:12200>대형 워프 디스럽터</a>에 면역",
+          "ru": "Невосприимчивость к воздействию <a href=showinfo:22782>систем запуска заградительных сфер</a>, <a href=showinfo:28654>бортовых варп-заградителей</a>, а также <a href=showinfo:12198>полевых варп-заградителей малой</a>, <a href=showinfo:12199>средней</a> и <a href=showinfo:12200>большой мощности</a>",
+          "zh": "对<a href=showinfo:22782>拦截泡发射器</a>、<a href=showinfo:28654>跃迁扰断力场发生器</a>与<a href=showinfo:12198>小型</a>、<a href=showinfo:12199>中型</a>及<a href=showinfo:12200>大型机动跃迁扰断器</a>免疫"
+        },
+        "importance": 2
+      },
+      {
+        "bonus": 90.0,
+        "bonusText": {
+          "de": "Reduzierte effektiv zurückgelegte Distanz für die Sprungerschöpfung",
+          "en": "reduction to effective distance traveled for jump fatigue",
+          "es": "de reducción de la distancia efectiva hasta sufrir fatiga de salto.",
+          "fr": "de réduction de la distance effective comptabilisée pour l'épuisement de saut",
+          "ja": "ジャンプ疲労までの移動有効距離が減少",
+          "ko": "이동 거리에 따른 점프 피로도 감소",
+          "ru": "медленнее накапливается усталость от гиперпереходов",
+          "zh": "减少跳跃疲劳对有效距离的影响"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {}
   },
   "volume": 17400.0
 }

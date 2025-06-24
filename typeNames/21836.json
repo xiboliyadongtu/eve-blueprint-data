@@ -1,5 +1,16 @@
 {
-  "typeID": 21836,
+  "description": {
+    "de": "Eine Schranke. Nein, es ist keine Schlange.",
+    "en": "A barricade. No, it's not a snake.",
+    "es": "Una barricada. No, no es una serpiente.",
+    "fr": "Barricade. Ne la prenez pas pour un serpent...",
+    "ja": "バリケード、ヘビではない。",
+    "ko": "바리케이드입니다. 뱀이 아니라.",
+    "ru": "Баррикада. Нет, это не змея.",
+    "zh": "一个路障。不，不是蛇。"
+  },
+  "graphicID": 2485,
+  "groupID": 226,
   "name": {
     "de": "Fortified Minmatar Barricade",
     "en": "Fortified Minmatar Barricade",
@@ -10,5 +21,9 @@
     "ru": "Fortified Minmatar Barricade",
     "zh": "强化的米玛塔尔阻隔带"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 603.0,
+  "sofFactionName": "minmatarbase"
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 17701,
+  "basePrice": 5000000.0,
+  "description": {
+    "de": "Verbessert die optimale Reichweite und die Nachführgeschwindigkeit von Sentry-Geschütztürmen.",
+    "en": "Boosts turret sentries' optimal range and tracking speed.",
+    "es": "Potencia la velocidad de rastreo y el alcance óptimo de las torretas centinela.",
+    "fr": "Améliore la portée optimale ainsi que la vitesse de poursuite des sentinelles des tourelles.",
+    "ja": "タレットセントリーの最適射程距離および追跡速度を向上させる。",
+    "ko": "터렛 센트리의 최적사거리 및 트래킹 속도를 향상합니다.",
+    "ru": "Увеличивает оптимальную дальность и скорость слежения автоматических орудий.",
+    "zh": "增大炮塔的最佳攻击范围及跟踪速度。"
+  },
+  "graphicID": 2613,
+  "groupID": 473,
+  "mass": 100000000.0,
   "name": {
     "de": "Tracking Array",
     "en": "Tracking Array",
@@ -10,5 +23,9 @@
     "ru": "Tracking Array",
     "zh": "索敌天线阵列"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 629.0,
+  "sofFactionName": "genericbase",
   "volume": 4000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 40573,
+  "basePrice": 110000000.0,
+  "description": {
+    "de": "Ermöglicht den Einsatz von Unterstützungsjägern. 5% Bonus auf die HP von Unterstützungsjägern je Skillstufe.",
+    "en": "Allows operation of support fighter craft. 5% increase in support fighter hit-points per level.",
+    "es": "Permite el manejo de cazas de apoyo. Aumenta un 5 % los puntos de vida de los cazas de apoyo por nivel.",
+    "fr": "Permet de piloter des chasseurs de soutien. Augmente de 5 % par niveau les points de vie des chasseurs de soutien.",
+    "ja": "支援戦闘機による作戦が可能。レベル上昇ごとに支援戦闘機のヒットポイントが5％上昇。",
+    "ko": "서포트 파이터 운용을 위한 스킬입니다. 매 레벨마다 서포트 파이터 내구도 5% 증가",
+    "ru": "Навык эксплуатации истребителей поддержки. За каждую степень освоения навыка: на 5% повышается запас прочности истребителей поддержки.",
+    "zh": "操作后勤铁骑舰载机的技能。每升一级，后勤铁骑舰载机的HP提高5%。"
+  },
+  "groupID": 273,
+  "iconID": 33,
+  "marketGroupID": 366,
   "name": {
     "de": "Support Fighters",
     "en": "Support Fighters",
@@ -10,5 +23,7 @@
     "ru": "Истребители поддержки",
     "zh": "后勤铁骑舰载机操控理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

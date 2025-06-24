@@ -1,5 +1,16 @@
 {
-  "typeID": 2335,
+  "description": {
+    "de": "Trotz ihrer vertrauten Bauweise wurde diese uralte Sonde aus Materialien und Elektronikteilen gebaut, die anders als alles bisherige sind, was Sie jemals in New Eden gesehen haben. Sie schwebt lautlos, scheinbar inaktiv, durch den Raum.",
+    "en": "Despite its familiar construction, this ancient probe is made from materials and electronics unlike anything you've ever seen in New Eden. It floats silently through space, seemingly dormant.",
+    "es": "A pesar de su construcción familiar, esta antigua sonda está hecha con materiales y componentes electrónicos nunca vistos en Nuevo Edén hasta ahora. Surca el espacio en silencio, aparentemente inactiva.",
+    "fr": "Malgré sa construction familière, cette ancienne sonde est fabriquée à partir de matériaux et de pièces électroniques ne ressemblant à rien de connu dans New Eden. Elle flotte silencieusement dans l'espace, apparemment inactive.",
+    "ja": "この古代のプローブは構造こそ馴染みがあるものの、ニューエデンでは見たことのない素材とエレクトロニクスからできている。音もなく宇宙を漂い、まるで眠っているかのようだ。",
+    "ko": "익숙한 생김새이지만 이 고대 프로브는 뉴에덴에서 볼 수 없는 자원과 전자장치로 만들어졌습니다. 조용히 우주 공간 속을 떠도는 것처럼 보입니다.",
+    "ru": "Конструкция этого древнего зонда вполне привычна, но он изготовлен из материалов и электронных деталей, подобных которым в Новом Эдеме нет. Он молчаливо плавает в пространстве, и, по-видимому, неактивен.",
+    "zh": "尽管它的构造看起来非常熟悉，但是这个科学探针所采用的材质和电子元件却是在新伊甸前所未见的。它静静地飘过太空，就像是在冬眠一样。"
+  },
+  "graphicID": 1211,
+  "groupID": 226,
   "name": {
     "de": "Mysterious Probe",
     "en": "Mysterious Probe",
@@ -10,5 +21,8 @@
     "ru": "Mysterious Probe",
     "zh": "神秘的探针"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 6.0,
+  "sofFactionName": "genericbase"
 }

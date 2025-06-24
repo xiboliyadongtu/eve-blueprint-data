@@ -1,5 +1,18 @@
 {
-  "typeID": 81375,
+  "basePrice": 1000000.0,
+  "description": {
+    "de": "Grundlegender Skill zur Produktion mehrerer SKINs in einem einzigen Sequenzierungsauftrag. Erhöht die maximalen SKINs pro Sequenzierungsauftrag um 5 auf Skillstufe 1, 10 auf Stufe 2, 20 auf Stufe 3, 30 auf Stufe 4 und 50 auf Stufe 5.",
+    "en": "Basic skill at producing multiple SKINs in a single sequencing job.\r\n\r\nIncreases maximum SKINs per sequencing job to 5 at level 1, 10 at level 2, 20 at level 3, 30 at level 4, and 50 at level 5.",
+    "es": "Habilidad básica para producir múltiples SKIN en un solo trabajo de secuenciación.\r\n\r\nAumenta el máximo de SKIN por secuenciación en 5 en el nivel de habilidad 1, 10 en el nivel 2, 20 en el nivel 3, 30 en el nivel 4 y 50 en el nivel 5.",
+    "fr": "Compétence de base pour produire plusieurs SKINS dans une seule tâche de séquençage. Augmente le nombre maximal de SKINS par tâche de séquençage de 5 au niveau de compétence 1, 10 au niveau 2, 20 au niveau 3, 30 au niveau 4 et 50 au niveau 5.",
+    "ja": "1回のシーケンシングジョブで複数のSKINを制作することに関する基本スキル。\r\n\r\nシーケンシングジョブ1回あたりのSKINの最大数がレベル1で5個、レベル2で10個、レベル3で20個、レベル4で30個、レベル5で50個に増える。",
+    "ko": "SKIN 각인 시 다량의 SKIN을 동시에 제작할 수 있도록 해주는 기본 스킬입니다.<br><br>스킬 레벨에 따라 제작할 수 있는 SKIN의 수량이 증가합니다. 레벨 1: +5, 레벨 2: +10, 레벨 3: +20, 레벨 4: +30, 레벨 5: +50",
+    "ru": "Базовый навык по созданию серии окрасок в одном проекте по генерации последовательности. Увеличивает максимальное количество окрасок в проекте до 5 за 1-ю степень освоения навыка, до 10 за 2-ю, до 20 за 3-ю, до 30 за 4-ю и до 50 за 5-ю.",
+    "zh": "初级技能，可在单次排序中高效排序多个涂装。单次排序任务的涂装上限会逐步增加：1级+5，2级+10，3级+20，4级+30，5级+50。"
+  },
+  "groupID": 4734,
+  "iconID": 33,
+  "marketGroupID": 3656,
   "name": {
     "de": "Batch Sequencing",
     "en": "Batch Sequencing",
@@ -10,5 +23,7 @@
     "ru": "Серийная генерация",
     "zh": "批量排序"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

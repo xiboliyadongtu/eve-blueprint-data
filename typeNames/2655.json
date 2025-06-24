@@ -1,5 +1,21 @@
 {
-  "typeID": 2655,
+  "basePrice": 600080.0,
+  "description": {
+    "de": "Am oberen Ende der mittelgroßen Lenkwaffen angesiedelt, ist die Nova ein Muss für diejenigen, die einen sicheren Abschuss ohne Rücksicht auf die Kosten wollen.\nEine modifizierte Version der Nova Heavy Missile. Eignet sich besonders für den Beschuss von kleineren Schiffen. Der Treibstoffverbrauch durch Stabilisierungs-Thruster verringert jedoch die maximale Flugzeit.",
+    "en": "The be-all and end-all of medium-sized missiles, the Nova is a must for those who want a guaranteed kill no matter the cost.\r\n\r\nA modified version of the Nova heavy missile. Great for taking down smaller ships, but fuel use by stabilization thrusters reduces maximum flight time.",
+    "es": "El modelo Nova, el proyectil autopropulsado definitivo de tamaño medio, es imprescindible para quienes quieren infligir una muerte segura a cualquier precio.\n\nEsta versión modificada del misil pesado Nova resulta ideal para derribar naves más pequeñas, aunque el consumo de combustible de los propulsores de estabilización reduce el tiempo de vuelo máximo.",
+    "fr": "Le Nova est le nec plus ultra du missile de taille moyenne. Il est destiné à ceux qui veulent éliminer leur cible à n'importe quel prix.\n\nVersion modifiée du missile lourd Nova. Ce missile est idéal face aux vaisseaux plus petits, mais l'utilisation du carburant par les propulseurs de stabilisation réduit le temps de vol maximal.",
+    "ja": "究極の汎用中型ミサイルであるノヴァヘビーミサイルは、弾代がかさんでも敵を確実に仕留めたいなら欠かせない。\n\nノヴァヘビーミサイルの改良版。小型艦を撃ち落とすには便利だが、姿勢制御スラスターが推進剤を食うので最大飛行時間は短くなる。",
+    "ko": "거듭된 개량을 통해 완성형에 가까워진 노바 미사일은 수단과 방법을 가리지 않고 상대방을 파괴하고 싶은 자에게 어울리는 무기입니다. <br><br>개량된 노바 헤비 미사일입니다. 소형 함선을 상대로 매우 효과적이지만 추진기 연료 사용으로 인해 최대 비행시간이 감소합니다.",
+    "ru": "Самая мощная из всех ракет среднего размера, Nova — это обязательный атрибут для тех, кому требуется гарантированное средство поражения независимо от его цены.\n\nМодифицированная версия тяжелой ракеты Nova. Отлично подходит для поражения целей малых размеров, но максимальное время полета снижено ввиду значительного потребления топлива стабилизационными двигателями.",
+    "zh": "作为中型导弹的精华代表，星爆重型导弹是那些不惜成本消灭对方的人的不二选择。这是星爆重型导弹的一种改良版本，针对小船效果好，但稳定推进器耗燃料的这一事实导致导弹飞行时间缩短。"
+  },
+  "graphicID": 20050,
+  "groupID": 655,
+  "iconID": 186,
+  "marketGroupID": 919,
+  "mass": 1000.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Nova Precision Heavy Missile",
     "en": "Nova Precision Heavy Missile",
@@ -10,5 +26,9 @@
     "ru": "Nova Precision Heavy Missile",
     "zh": "星爆精准重型导弹"
   },
+  "portionSize": 5000,
+  "published": true,
+  "radius": 300.0,
+  "variationParentTypeID": 206,
   "volume": 0.03
 }

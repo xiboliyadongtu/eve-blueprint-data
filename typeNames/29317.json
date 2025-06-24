@@ -1,5 +1,17 @@
 {
-  "typeID": 29317,
+  "description": {
+    "de": "Dieses Objekt registriert die Präsenz von Schiffen innerhalb von 90km.",
+    "en": "This object registers the presence of ships within 90km",
+    "es": "Este objeto registra la presencia de naves a menos de 90 km.",
+    "fr": "Cet objet enregistre la présence de vaisseaux dans un rayon de 90 km.",
+    "ja": "90Km以内に存在する艦船が登録されるオブジェクト。",
+    "ko": "이 구조물은 90km 내에 함선을 감지합니다.",
+    "ru": "Этот объект определяет присутствие кораблей в радиусе 90 км",
+    "zh": "这个装置记录距离其90千米范围内出现的船只。"
+  },
+  "graphicID": 1211,
+  "groupID": 922,
+  "mass": 1000000.0,
   "name": {
     "de": "90km Capture Point",
     "en": "90km Capture Point",
@@ -10,5 +22,8 @@
     "ru": "90km Capture Point",
     "zh": "90km争夺点"
   },
+  "portionSize": 1,
+  "published": false,
+  "sofFactionName": "genericbase",
   "volume": 1.0
 }

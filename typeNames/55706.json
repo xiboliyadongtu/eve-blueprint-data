@@ -1,5 +1,17 @@
 {
-  "typeID": 55706,
+  "description": {
+    "de": "Diese einst geheime Upwell-Forschungseinrichtung sendet ein Notsignal aus. Die Nachricht ist verstümmelt, aber sie scheint einen Angriff der automatisierten Drohnen der Einrichtung zu beschreiben.",
+    "en": "This formerly secret Upwell Research Facility is currently broadcasting a distress signal. The message is garbled but it seems to describe an attack from the facility's automated drones.",
+    "es": "Este centro de investigación de Upwell, antes secreto, emite una señal de socorro. El mensaje es confuso, pero parece describir un ataque de los drones automatizados del complejo.",
+    "fr": "L'unité de recherche Upwell, autrefois secrète, émet actuellement un signal de détresse. Le message est brouillé, mais il semble décrire une attaque des drones automatisés du site.",
+    "ja": "以前は秘密だったこのアップウェル研究施設は、現在、救難信号を放送している。メッセージは文字化けしているが、施設の自動化ドローンから攻撃を受けていると訴えているようだ。",
+    "ko": "업웰의 비밀 연구시설이었던 이 건축물에서 구조 신호가 송신되고 있습니다. 메시지를 잘 알아들을 수 없으나 시설의 자동화 드론이 공격을 감행했다는 내용같습니다.",
+    "ru": "Этот некогда секретный объект консорциума «Апвелл» передаёт сигнал бедствия. Сообщение звучит бессвязно, но, похоже, оно описывает нападение автоматизированных дронов, обслуживающих этот объект.",
+    "zh": "这座秘密的昇威研究设施正在发送求救信号。讯息混乱不堪，似乎是在说设施遭到了自动无人机的攻击。"
+  },
+  "graphicID": 1211,
+  "groupID": 310,
+  "mass": 1.0,
   "name": {
     "de": "Geheime Forschungsanlage von Upwell",
     "en": "Upwell Covert Research Facility",
@@ -10,5 +22,8 @@
     "ru": "Скрытая научная база консорциума «Апвелл»",
     "zh": "昇威隐秘研究设施"
   },
+  "portionSize": 1,
+  "published": false,
+  "sofFactionName": "genericbase",
   "volume": 1.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 54841,
+  "basePrice": 31000000.0,
+  "description": {
+    "de": "Skill zur Abstimmung von Wellenleitern der schiffsbasierten Arcing-Vorton-Projektoren zur Verbesserung von Treffern auf schnelle Ziele. 5 % Bonus auf den Explosionsradius der Vorton-Projektoren und 10 % Bonus auf die Explosionsgeschwindigkeit pro Skillstufe.",
+    "en": "Skill in tuning wave-guides of ship-based Arcing Vorton Projectors to improve strikes on fast-moving targets.\r\n\r\n5% bonus to Vorton Projector explosion radius and 10% bonus to explosion velocity per skill level.",
+    "es": "Habilidad para ajustar las guías de ondas de los proyectores vortónicos de arco de la nave para mejorar los ataques contra objetivos rápidos.\r\n\r\n5 % de bonificación al radio de explosión y 10 % de bonificación a la velocidad de explosión del proyector vortónico por nivel de habilidad.",
+    "fr": "Compétence liée au réglage des guides d'ondes des projecteurs d'arcs de vortons sur les vaisseaux pour améliorer les frappes sur les cibles rapides. Augmente de 5 % par niveau de compétence le rayon d'explosion des projecteurs de vortons et leur vitesse d'explosion de 10 %.",
+    "ja": "艦船型アーク式ヴォートンプロジェクターの波動ガイドを調整し、高速で動くターゲットへの攻撃を強化するスキル。\r\n\r\nスキルレベル上昇ごとにヴォートンプロジェクターの爆発半径を5%、爆発速度を10%強化する。",
+    "ko": "도파관을 조정해 함선 전용 아크 보르톤 프로젝터의 추적 능력을 향상합니다.\r\n\r\n레벨당 보르톤 프로젝터 폭발반경 5% 및 폭발속도 10% 증가",
+    "ru": "Навык настройки волновых проводников корабельных дуговых вортонных проекторов для увеличения эффективности борьбы с подвижными целями. +5% к радиусу и +10% к скорости распространения взрывов от вортонных проекторов за каждую степень освоения навыка.",
+    "zh": "通过调节舰载电弧弦投射器的波导器来提高对快速移动目标的命中率的技能。每升一级，电弧弦投射器的爆炸半径提高5%，爆炸速度提高10%。"
+  },
+  "groupID": 255,
+  "iconID": 33,
+  "marketGroupID": 364,
   "name": {
     "de": "Vorton Arc Guidance",
     "en": "Vorton Arc Guidance",
@@ -10,5 +23,7 @@
     "ru": "Vorton Arc Guidance",
     "zh": "电弧弦制导研究"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

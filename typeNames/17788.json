@@ -1,5 +1,18 @@
 {
-  "typeID": 17788,
+  "capacity": 8850.0,
+  "description": {
+    "de": "Eine Fabrik, die Mondmineralien abbaut und sammelt.",
+    "en": "A harvesting factory for collecting moon minerals.",
+    "es": "Estructura de recolección de minerales lunares.",
+    "fr": "Usine de collecte des minéraux lunaires.",
+    "ja": "衛星の無機物を収集する採掘工場。",
+    "ko": "위성 채굴 하베스터입니다.",
+    "ru": "Фабрика по добыче минералов со спутника.",
+    "zh": "收集卫星矿物的采集工厂。"
+  },
+  "graphicID": 2378,
+  "groupID": 319,
+  "mass": 1000000.0,
   "name": {
     "de": "Starbase Moon Harvester",
     "en": "Starbase Moon Harvester",
@@ -10,5 +23,10 @@
     "ru": "Starbase Moon Harvester",
     "zh": "母星月球采集站"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 700.0,
+  "sofFactionName": "genericbase",
+  "soundID": 20205,
   "volume": 1150.0
 }

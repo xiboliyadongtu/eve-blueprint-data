@@ -1,5 +1,70 @@
 {
-  "typeID": 589,
+  "basePrice": 400000.0,
+  "capacity": 115.0,
+  "description": {
+    "de": "Die Executioner ist ein weiteres neu zugelassenes Schiff der Amarr Imperial Navy. Die Executioner ist speziell darauf ausgelegt, den kleinen, schnellen Waffenfregatten der Republik Minmatar etwas entgegenzusetzen. Deswegen ist sie – im Gegensatz zu den üblichen Schiffen der Amarr Navy – eher auf Geschwindigkeit als auf Verteidigung getrimmt. Mit diesem schnellen Schiff eröffnen sich den Amarr neue taktische Möglichkeiten auf dem Schlachtfeld.",
+    "en": "The Executioner is another newly commissioned ship of the Amarr Imperial Navy. The Executioner was designed specially to counter the small, fast raider frigates of the Minmatar Republic; thus it is different from most Amarr ships in favoring speed over defenses. With the Executioner, the Amarrians have expanded their tactical capabilities on the battlefield.",
+    "es": "La Executioner es otra nave de la Armada Imperial de Amarr que acaba de entrar en servicio. Se ha diseñado especialmente para contrarrestar a las pequeñas y rápidas fragatas de la República Minmatar, por lo que se diferencia de la mayoría de las naves amarrianas en que sacrifica la defensa en favor de la velocidad. Con la Executioner, los amarrianos han ampliado sus capacidades tácticas en el campo de batalla.",
+    "fr": "L'Executioner est un des nouveaux vaisseaux commandés par l'Amarr Navy impériale. L'Executioner a été conçu dans le but de contrer les petites frégates rapides que la République minmatar utilise pour ses raids éclair. Ce vaisseau est donc différent de la plupart des vaisseaux amarr, car il met l'accent sur la vitesse plutôt que sur les capacités défensives. Avec l'Executioner, les Amarr ont amélioré leurs capacités tactiques sur le champ de bataille.",
+    "ja": "エクスキューショナーもまた、アマー帝国海軍が新たに就役させた艦船である。エクスキューショナーは特に、ミンマター共和国の小型高機動フリゲート艦隊の襲撃に対抗する目的で設計されたため、防衛より速度を重視するという点で、アマー艦としては異色である。エクスキューショナーの登場により、戦場におけるアマーの戦術は幅が広がった。",
+    "ko": "엑세큐셔너는 새로이 진수된 아마르 제국 해군의 함선입니다. 민마타의 작고 빠른 급습형 프리깃에 대항하기 위한 특수 함선으로 일반적인 아마르 함선과는 달리 방어력보다 속도를 중심으로 설계되었습니다. 엑세큐셔너의 탄생으로 아마르 제국의 전술 역량은 한층 확대되었습니다.",
+    "ru": "«Экзекьюшнер» — ещё один фрегат, лишь недавно вошедший в строй флота Амаррской Империи. Он специально разрабатывался для противостояния небольшим быстрым фрегатам Республики Минматар, что и является причиной его необычно большой скорости, достигнутой за счёт ослабления защитных систем. «Экзекьюшнер» расширил спектр тактических возможностей амаррцев на поле боя.",
+    "zh": "刽子手级是艾玛帝国海军新近启用的舰船。刽子手级专门用来对抗米玛塔尔共和国轻巧快速的突袭护卫舰；因此，与多数艾玛舰船不同的是，该船侧重于速度而不是防御。有了刽子手级，艾玛人扩充了自己的战术能力。"
+  },
+  "factionID": 500003,
+  "graphicID": 54,
+  "groupID": 25,
+  "marketGroupID": 72,
+  "mass": 1090000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      50,
+      117,
+      150,
+      89,
+      93,
+      94
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Executioner",
     "en": "Executioner",
@@ -9,6 +74,65 @@
     "ko": "엑스큐셔너",
     "ru": "Executioner",
     "zh": "刽子手级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 13.0,
+  "sofFactionName": "amarrbase",
+  "soundID": 20063,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonus": 80,
+        "bonusText": {
+          "de": "Reduktion der Aktivierungskosten von <a href=showinfo:3435>Antriebsblockern</a>",
+          "en": "reduction in <a href=showinfo:3435>Propulsion Jamming</a> systems activation cost",
+          "es": "de reducción en el coste de activación de los sistemas <a href=showinfo:3435>perturbadores de propulsión</a>.",
+          "fr": "de réduction du coût d'activation des systèmes de <a href=showinfo:3435>brouillage de propulsion</a>",
+          "ja": "<a href=showinfo:3435>推進力ジャミング</a>システムの起動コストが軽減",
+          "ko": "<a href=showinfo:3435>추진기 재밍</a>시스템 활성화 비용 감소",
+          "ru": "сокращается потребление энергии <a href=showinfo:3435>средствами ограничения подвижности кораблей</a>",
+          "zh": "<a href=\"showinfo:3435\">推进抑制</a>系统启动消耗减少"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3331": [
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Reduktion der Aktivierungskosten von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a>",
+            "en": "reduction in <a href=showinfo:3303>Small Energy Turret</a> activation cost",
+            "es": "de reducción del coste de activación de la <a href=showinfo:3303>torreta de energía pequeña</a>.",
+            "fr": "de réduction du coût d'activation des <a href=showinfo:3303>petites tourelles à énergie</a>",
+            "ja": "<a href=showinfo:3303>小型エネルギータレット</a>の起動コストが軽減",
+            "ko": "<a href=showinfo:3303>소형 에너지 터렛</a> 활성화 비용 감소",
+            "ru": "сокращается расход энергии при ведении огня из <a href=showinfo:3303>малых лазерных орудий</a>",
+            "zh": "<a href=\"showinfo:3303\">小型能量炮台</a>启动消耗减少"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3303>Small Energy Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3303>torreta de energía pequeña</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:3303>petites tourelles à énergie</a>",
+            "ja": "<a href=showinfo:3303>小型エネルギータレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3303>소형 에너지 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон <a href=showinfo:3303>малых лазерных орудий</a>",
+            "zh": "<a href=\"showinfo:3303\">小型能量炮台</a>伤害加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 28100.0
 }

@@ -1,5 +1,20 @@
 {
-  "typeID": 28306,
+  "basePrice": 15296.0,
+  "description": {
+    "de": "Schwere Angriffsdrohne. Diesem speziellen Modell wurden mehrere Raubdrohnenkomponenten eingebaut, was die Leistung der Drohne erhöht.",
+    "en": "Heavy Attack Drone\r\n\r\nThis particular model has had multiple components from rogue drones incorporated into its design, enhancing its performance.",
+    "es": "Dron de asalto pesado\n\nEste modelo en particular incorpora varios componentes de drones rebeldes en el diseño, lo que mejora el rendimiento.",
+    "fr": "Drone d'attaque lourd.\n\nCe modèle est composé de nombreuses pièces de drones renégats qui améliorent ses performances.",
+    "ja": "ヘビーアタックドローン\r\n\nこのモデルは、設計にローグドローンの部品をいくつも組み込むことで性能を向上させている。",
+    "ko": "헤비 어택 드론<br><br>각종 로그 드론 부품을 적용하여 성능을 향상시킨 드론 기종입니다.",
+    "ru": "Тяжелый боевой дрон\n\nВ конструкцию этого дрона было добавлено значительное количество частей восставших дронов для повышения его характеристик.",
+    "zh": "重型攻击无人机 \n\n该特殊型号的设计中集成了多个来自自由无人机的部件，从而增强了其性能。"
+  },
+  "graphicID": 1079,
+  "groupID": 100,
+  "marketGroupID": 839,
+  "mass": 10000.0,
+  "metaGroupID": 4,
   "name": {
     "de": "'Integrated' Wasp",
     "en": "'Integrated' Wasp",
@@ -10,5 +25,11 @@
     "ru": "'Integrated' Wasp",
     "zh": "集成型胡蜂"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 35.0,
+  "sofFactionName": "caldaribase",
+  "variationParentTypeID": 1201,
   "volume": 25.0
 }

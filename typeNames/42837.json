@@ -1,5 +1,19 @@
 {
-  "typeID": 42837,
+  "basePrice": 1000.0,
+  "description": {
+    "de": "Dieses kompakte Bündel aktiver Naniten kann in ein <a href=showinfo:42527>Informationskommandostrahlen</a>-Modul geladen und an verbündete Schiffe verteilt werden, um den Widerstand ihrer Sensor- und Zielsysteme gegen gegnerische Störversuche zu erhöhen.",
+    "en": "This compact bundle of active nanites can be loaded into an <a href=showinfo:42527>Information Command Burst</a> module and dispersed across allied ships to harden their sensor and tracking systems against enemy disruption.",
+    "es": "Este lote compacto de nanobots activos puede cargarse en un módulo de <a href=showinfo:42527>estallido de mando de información</a> y dispersarse por naves aliadas para mejorar los sistemas de sensor y rastreo contra disrupciones enemigas.",
+    "fr": "Cette masse dense de nanites actives peut être injectée dans une <a href=showinfo:42527>salve commandante d'information</a> et propulsée vers les vaisseaux alliés pour renforcer la résistance de leurs systèmes de détection et de poursuite aux tentatives de perturbation ennemies.",
+    "ja": "この活性ナノマシンの小さな塊を<a href=showinfo:42527>情報戦コマンドバースト</a>に装填して味方艦へ拡散すれば、敵の妨害に対するセンサーとトラッキングシステムの耐性を向上させることができる。",
+    "ko": "<a href=showinfo:42527>정보전 버스트</a> 모듈에 장착 가능한 나나이트 차지입니다. 동맹 함선의 센서 및 트래킹 시스템을 강화함으로써 적 교란에 대한 저항력을 향상시킵니다.",
+    "ru": "Этот компактный пакет активных нанитов может быть заряжен в <a href=showinfo:42527>импульсную систему координации мер РЭБ (Information Command Burst)</a> и с её помощью распределён по союзным кораблям, обеспечивая повышение сопротивляемости их систем захвата целей и наводки орудий действию вражеских систем РЭБ.",
+    "zh": "这种紧凑的纳米机器人集群可以装载到<a href=showinfo:42527>信息指挥脉冲波</a>装备中，并散布到友方舰船全身，提高其在对抗敌方扰断时的感应器和跟踪系统强度。"
+  },
+  "groupID": 1773,
+  "iconID": 21694,
+  "marketGroupID": 2299,
+  "mass": 0.01,
   "name": {
     "de": "Electronic Hardening Charge",
     "en": "Electronic Hardening Charge",
@@ -10,5 +24,7 @@
     "ru": "Electronic Hardening Charge",
     "zh": "电子增强弹药"
   },
+  "portionSize": 500,
+  "published": true,
   "volume": 0.01
 }

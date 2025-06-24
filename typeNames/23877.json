@@ -1,5 +1,17 @@
 {
-  "typeID": 23877,
+  "description": {
+    "de": "Ein sehr stark verschlüsseltes Datenfragment. Datenfragmente wie dieses werden, wegen ihrer Komplexität und Empfindlichkeit der darin enthaltenen Daten, für gewöhnlich eher mit Schiffen als mit Überlichtfunk transportiert.",
+    "en": "A heavily coded data fragment.\r\n\r\nData fragments such as this are usually transported by ship rather than FTL communication systems due to their complexity and sensitivity of the data contained within them.",
+    "es": "Fragmento de datos altamente codificados.\n\nLos fragmentos de datos de este tipo se suelen transportar por nave, en lugar de por sistemas de comunicación supralumínica, debido a la complejidad y confidencialidad de los datos que contienen.",
+    "fr": "Fragment de données de codage ultra-sophistiqué.\n\nLes données de ce genre sont généralement transportées par vaisseau plutôt que transmises par les systèmes de communication PRL en raison de leur complexité et de leur caractère très sensible.",
+    "ja": "厳重に暗号化されたデータの断片。こうしたデータは通常FTL通信システムではなく、船を使って輸送される。これはデータが極めて複雑で、機密性も高いためである。",
+    "ko": "복잡하게 암호화된 데이터 파편입니다. <br><br>복잡하고 민감한 정보가 포함되어 있기 때문에 이러한 데이터 파편은 보통 FTL 통신망보다는 함선으로 수송되는 편입니다.",
+    "ru": "Сильно закодированный фрагмент данных. \n\nТакие фрагменты сложно закодированных данных, как этот, обычно перевозятся на кораблях, а не передаются через системы коммуникации FTL из-за сложности и важности данных, содержащихся в них.",
+    "zh": "高度加密的数据片段。由于所含数据的复杂性与敏感性，这类数据片段通常不通过超光速通讯系统传输，而是用飞船运送。"
+  },
+  "groupID": 526,
+  "iconID": 2885,
+  "mass": 1.0,
   "name": {
     "de": "Encoded Data Transmission",
     "en": "Encoded Data Transmission",
@@ -10,5 +22,8 @@
     "ru": "Encoded Data Transmission",
     "zh": "加密的数据传输信号"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 50.0
 }

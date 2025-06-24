@@ -1,5 +1,18 @@
 {
-  "typeID": 22806,
+  "basePrice": 150000.0,
+  "description": {
+    "de": "5 % Bonus auf EM-Resistenzen von Panzerungsbeschichtungen und spannungsunterstützten Panzerungen je Skillstufe.",
+    "en": "5% bonus to EM resistance per level for Armor Coatings and Energized Membranes.",
+    "es": "5 % de bonificación a la resistencia electromagnética por nivel a los recubrimientos de blindaje y membranas energizadas.",
+    "fr": "Augmente de 5 % par niveau la résistance EM des surcouche de blindage et des membranes énergétiques.",
+    "ja": "レベル上昇ごとにアーマーコーティングおよび電磁加工装甲のEMレジスタンスが5%上昇。",
+    "ko": "레벨당 장갑 코팅 및 에너지 멤브레인 EM 저항력 5% 증가",
+    "ru": "+5% к сопротивляемости ЭМ-урону для покрытий брони и заряжаемых мембран за каждый уровень.",
+    "zh": "每升一级，装甲附甲和电压薄膜的电磁抗性提高5%。"
+  },
+  "groupID": 1210,
+  "iconID": 33,
+  "marketGroupID": 1745,
   "name": {
     "de": "EM Armor Compensation",
     "en": "EM Armor Compensation",
@@ -10,5 +23,7 @@
     "ru": "Анти-ЭМ укрепление брони",
     "zh": "电磁装甲补偿理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,21 @@
 {
-  "typeID": 24517,
+  "basePrice": 600080.0,
+  "description": {
+    "de": "Die Mjolnir Heavy Missile wurde erstmals von den Waffenentwicklern der Wiyrkomi-Corporation vorgestellt und ist eine solide Investition mit einer großen Sprengladung und konstanter Leistung.\n\nEine modifizierte Version der Mjolnir Heavy Missile. Eignet sich hervorragend zum Abschuss kleinerer Schiffe, allerdings muss die Geschwindigkeit verringert werden, um einen besseren Raketenstart zu erreichen.",
+    "en": "First introduced by the armaments lab of the Wiyrkomi Corporation, the Mjolnir heavy missile is a solid investment with a large payload and steady performance.\r\n\r\nA modified version of the Mjolnir heavy missile. Great for taking down smaller ships, but velocity has to be curbed to get a better launch.",
+    "es": "Los misiles pesados Mjolnir, presentados por el laboratorio armamentístico de la corporación Wiyrkomi, son una buena inversión con una gran carga útil y un rendimiento constante.\n\nEsta versión modificada del misil pesado Mjolnir resulta ideal para derribar naves más pequeñas, aunque la velocidad se debe reducir para conseguir un mejor lanzamiento.",
+    "fr": "Mis sur le marché par les laboratoires de la Wiyrkomi Corporation, le missile lourd Mjolnir est un bon investissement pour qui cherche une grande charge utile et des performances constantes.\n\nVersion modifiée du missile lourd Mjolnir. Ce missile est idéal face aux vaisseaux plus petits, mais il est nécessaire de diminuer sa vitesse initiale pour assurer le lancement.",
+    "ja": "ウィルコミコーポレーションの兵器研究所が開発したミョルニールヘビーミサイルは、大型弾頭を搭載し安定した威力を誇る。手堅い買い物といえるだろう。\n\nミョルニールヘビーミサイルの改良版。従来型より小型艦船へのダメージ効率に優れるが、効果的に発射するために自艦の最高速度が制限される。",
+    "ko": "위요르코미 코퍼레이션이 개발한 묠니르 헤비 미사일은 막강한 파괴력과 안정적인 성능을 갖춘 무기입니다. <br><br>개량된 묠니르 헤비 미사일입니다. 소형 함선을 상대로 매우 효과적이지만 정밀한 미사일 발사를 위해 함선의 최대 속도를 제한했습니다.",
+    "ru": "Первоначально выпущенная на рынок лабораторией вооружений Wiyrkomi Corporation, тяжелая ракета Mjolnir является серьезным оружием, имеющим мощную боеголовку и хорошие технические характеристики. \n\nМодифицированная версия тяжелой ракеты Mjolnir. Отлично подходит для поражения малых кораблей, однако требует ограничения скорости корабля для успешного пуска.",
+    "zh": "雷神重型导弹是由维克米集团军备实验室率先开发出来的，它载荷大、性能稳定，始终是飞行员值得依靠的选择。这是雷神重型导弹的一种改良版本，针对小船效果好，但为了优化发射，导弹飞行速度上必须作出限制。"
+  },
+  "graphicID": 20049,
+  "groupID": 655,
+  "iconID": 187,
+  "marketGroupID": 919,
+  "mass": 1000.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Mjolnir Precision Heavy Missile",
     "en": "Mjolnir Precision Heavy Missile",
@@ -10,5 +26,9 @@
     "ru": "Mjolnir Precision Heavy Missile",
     "zh": "雷神精准重型导弹"
   },
+  "portionSize": 5000,
+  "published": true,
+  "radius": 300.0,
+  "variationParentTypeID": 207,
   "volume": 0.03
 }

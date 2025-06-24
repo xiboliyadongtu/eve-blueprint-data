@@ -1,5 +1,18 @@
 {
-  "typeID": 37472,
+  "capacity": 120.0,
+  "description": {
+    "de": "Die Rumpfstruktur dieser Sleeper-Drohne ähnelt den bekannten \"schlaflosen\"-Einheiten, aber genauere Scans zeigen eindeutig, dass diese Drohne vor Kurzem merklich umgerüstet wurde. Die Energiekonzentrationen bei den Waffen scheinen deutlich erhöht worden zu sein und zusätzliche Bänke an Energieneutralisierern sind zu sehen.\n\nAnders als die älteren Versionen scheint sich diese Drohne nur auf einzelne, vorrangige Ziele zu konzentrieren und wird weniger wichtige Bedrohungen ignorieren bis die Primärziele entweder zerstört oder geflüchtet sind.",
+    "en": "The hull structure of this Sleeper drone resembles that of known \"sleepless\" units, but focused scans clearly indicate that this drone has received significant retooling recently. Energy concentrations at the weapons appears to have increased significantly, and additional banks of energy neutralizers are visible.\r\nUnlike its older kin, this drone appears focused on a single overriding purpose and will ignore any lesser threats until it has destroyed or driven away away its primary targets.",
+    "es": "La estructura del casco de este dron sleeper recuerda a las unidades «insomnes», pero los escaneos dirigidos indican claramente que este dron ha sido recientemente sometido a un reequipamiento considerable. Al parecer, las concentraciones de energía de las armas han aumentado significativamente y se pueden apreciar bancos adicionales de neutralizadores energéticos.\n\nA diferencia de su antecesor, este dron parece estar concebido para un único y absoluto propósito e ignorará cualquier amenaza menor hasta haber destruido o repelido a sus objetivos principales.",
+    "fr": "Si la structure de la coque de ce drone sleeper évoque l'architecture des unités « sleepless », des scans approfondis du drone ont mis en lumière le perfectionnement récent de son équipement embarqué. Non seulement la concentration énergétique des armes s'est considérablement intensifiée, mais le drone s'est également hérissé d'une batterie de neutraliseurs d'énergie supplémentaire.\n\nContrairement à son précurseur sleepless, ce drone est capable d'élaborer un plan de bataille stratégique en se focalisant sur la destruction de cibles prioritaires.",
+    "ja": "「眠らない」ユニットを思わせる船体構造を持つが、詳細なスキャンを行えば、このスリーパードローンは近年大幅に一新されていることが分かる。兵器へのエネルギー集中度が大幅に高められ、エネルギーニュートライザーにはバンクが追加されていることが見て取れる。旧型とは異なり、このドローンの用途は無効化に特化されており、メインターゲットを破壊または撃退するまで、その他の脅威は無視するようである。",
+    "ko": "일반적인 슬리퍼 기체와 선체 구조상 큰 차이는 없어 보이지만 스캔 결과 상당 부분 개조가 이루어진 것으로 드러났습니다. 무기 체계의 에너지 집중도가 큰 폭으로 상승하였으며 추가적인 에너지 뉴트럴라이저가 탑재 된 것으로 보입니다. <br><br>구형 기체와는 달리 주어진 목표를 파괴 또는 격퇴하기 전까지 활동을 멈추지 않습니다.",
+    "ru": "Конструкция корпуса этого дрона Спящих отдалённо напоминает его «бодрствующих» собратьев, однако результаты направленного сканирования свидетельствуют о том, что этот дрон недавно подвергся существенному переоснащению. Были значительно увеличены затраты энергии на орудийные установки, кроме того ясно видны дополнительные дистанционные нейтрализаторы заряда. \n\nВ отличие от своих предшественников этот дрон концентрируется на одной-единственной цели и не обращает внимания на прочие угрозы, пока не уничтожит или не отдалится на значительное расстояние от основной цели.",
+    "zh": "冬眠者无人机的这种船体结构和为人熟知的“长明”系列无人机非常相似，但是聚焦扫描能力清楚表明这种无人机最近经过了大幅改进。武器系统的能量聚集似乎大幅提升了，能量中和器的载荷也有明显提升。\n\n和旧的型号不同，这种无人机似乎目标专一，在击毁或赶跑首要目标前会忽略其它较低的威胁。"
+  },
+  "graphicID": 3516,
+  "groupID": 1529,
+  "mass": 19000000.0,
   "name": {
     "de": "Upgraded Avenger",
     "en": "Upgraded Avenger",
@@ -10,5 +23,11 @@
     "ru": "Upgraded Avenger",
     "zh": "升级的复仇者"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 64,
+  "radius": 350.0,
+  "sofFactionName": "sleeperbase",
+  "soundID": 12,
   "volume": 19000000.0
 }

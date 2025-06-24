@@ -1,5 +1,18 @@
 {
-  "typeID": 3277,
+  "basePrice": 200000.0,
+  "description": {
+    "de": "Ein Neuralinterface-Upgrade, das die Fertigkeiten des Piloten im Umgang mit Antriebsblockern erhöht.\n\n2% Reduktion des Energiespeicherverbrauchs von Modulen, die den Umgang mit Antriebsblockern erfordern.",
+    "en": "A neural interface upgrade that boosts the pilot's skill at propulsion jamming.\r\n\r\n2% reduction in capacitor need for modules requiring Propulsion Jamming skill.",
+    "es": "Mejora de interfaz neuronal que potencia la habilidad del piloto para perturbar la propulsión.\n\n2 % de reducción de la necesidad del condensador para los módulos que requieren la habilidad de perturbación de propulsión.",
+    "fr": "Amélioration de l'interface neurale portant sur la compétence du pilote liée au brouillage de propulsion.\n\nRéduit de 2 % les besoins énergétiques du capaciteur pour les modules nécessitant la compétence liée au brouillage de propulsion.",
+    "ja": "神経系インターフェイスのアップグレード。パイロットの推進力ジャミングスキルを高める。推進力ジャミングスキルを必要とするモジュールのキャパシタ消費が2%節減。",
+    "ko": "추진기 재밍 스킬을 향상하는 신경 인터페이스 업그레이드입니다. <br><br>추진기 재밍 스킬을 요구하는 모듈의 캐패시터 사용량 2% 감소",
+    "ru": "Модуль расширения нейроинтерфейса, улучшающий навыки пилота в области глушения двигательных установок.\n\n\n\n2% сокращение потребления энергии накопителя модулями, для использования которых требуется навык Propulsion Jamming.",
+    "zh": "一款神经接口升级芯片，可以增强飞行员在推进阻扰方面的技能。对于那些要求推进干扰这一技能的装备，电容需求降低2%。"
+  },
+  "groupID": 740,
+  "iconID": 2224,
+  "marketGroupID": 1512,
   "name": {
     "de": "Zainou 'Gypsy' Propulsion Jamming PJ-802",
     "en": "Zainou 'Gypsy' Propulsion Jamming PJ-802",
@@ -10,5 +23,7 @@
     "ru": "Zainou 'Gypsy' Propulsion Jamming PJ-802",
     "zh": "载诺 吉普赛 推进干扰 PJ-802"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

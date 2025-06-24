@@ -1,5 +1,18 @@
 {
-  "typeID": 33699,
+  "basePrice": 125000.0,
+  "description": {
+    "de": "Fertigkeit zur Steuerung von mittelschweren Kampfdrohnen. 5% Bonus auf den Schaden mittelschwerer Drohnen je Skillstufe.",
+    "en": "Skill at controlling medium combat drones. 5% bonus to damage of medium drones per level.",
+    "es": "Habilidad para controlar los drones de combate medianos. 5 % de bonificación al daño de los drones medianos por nivel.",
+    "fr": "Compétence liée au contrôle des drones de combat intermédiaires. Augmente de 5 % les dégâts des drones intermédiaires par niveau.",
+    "ja": "戦闘用ミディアムドローンを操作するためのスキル。レベル上昇ごとにミディアムドローンの与えるダメージが5%増加。",
+    "ko": "미디움 공격 드론 운용을 위한 스킬입니다. 매 레벨마다 미디움 드론 피해량 5% 증가",
+    "ru": "Навык эксплуатации средних боевых дронов. За каждую степень освоения навыка: на 5% повышается урон бортового оружия средних дронов.",
+    "zh": "操纵中型战斗无人机的技能。每升一级，中型无人机伤害提高5%。"
+  },
+  "groupID": 273,
+  "iconID": 33,
+  "marketGroupID": 366,
   "name": {
     "de": "Medium Drone Operation",
     "en": "Medium Drone Operation",
@@ -10,5 +23,7 @@
     "ru": "Средние боевые дроны",
     "zh": "中型无人机操控理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

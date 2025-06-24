@@ -1,5 +1,16 @@
 {
-  "typeID": 34388,
+  "description": {
+    "de": "Dieses Gerät ist offenbar ein hektisch umgebauter Satellit zur Strahlungsüberwachung und scheint kurze Zeit als Notfall-Kommunikationsrelais funktioniert zu haben. Es zeigt relativ wenig Anzeichen von Schaden, scheint aber von einigen präzisen Energiewaffenschüssen auf seine Prozessorkerne außer Betrieb gesetzt worden zu sein.",
+    "en": "Apparently a hastily converted radiation monitoring satellite, this device seems to have briefly functioned as an emergency communications relay. It shows relatively few signs of damage but seems to have been knocked out of commission by several precise energy weapon strikes to its processing cores.",
+    "es": "Satélite de control de radiación transformado apresuradamente que parece haber servido de repetidor de comunicaciones en una emergencia. Aunque no está demasiado maltrecho, varios impactos de algún arma de energía precisa en los núcleos de procesamiento lo han dejado fuera de servicio.",
+    "fr": "Cela semble être un satellite converti à la va-vite pour surveiller les radiations. Cet objet semble avoir fonctionné pendant un temps en tant que relai de communication d'urgence. Il semble avoir reçu très peu de dégâts, mais avoir été rendu hors service à cause de plusieurs frappes énergétiques au cœur de ses processus",
+    "ja": "見るからに放射線監視サテライトは急いで改造されている。短期間、緊急用通信中継所として機能していたようだ。比較的ほとんど損傷を受けていないが、エネルギー兵器が数発命中して処理中枢が命令を受け入れなくなっている。",
+    "ko": "급하게 방사선 감시기 위성으로 개조한 비상 통신 중계소입니다. 얼핏 보기에는 괜찮아 보이지만 코어 처리 시스템이 에너지 무기에 손상되어 폐기처분 되었습니다.",
+    "ru": "Похоже, что этот спутник слежения за уровнем радиации был переоборудован в аварийный коммуникационный ретранслятор, но срок его функционирования в этом качестве весьма мал. Он относительно цел, но выведен из строя несколькими прицельными энергетическими разрядами, пришедшимися в процессорные блоки.",
+    "zh": "这个设备很明显是由放射物监测卫星匆忙改装而来的，当做应急通信中继站使用。它表面看上去没什么损坏，但似乎被能量武器精准地击中了处理核心，所以已经不能用了。"
+  },
+  "graphicID": 2412,
+  "groupID": 226,
   "name": {
     "de": "Communication Relay",
     "en": "Communication Relay",
@@ -10,5 +21,9 @@
     "ru": "Communication Relay",
     "zh": "通信中继站"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 4300.0,
+  "sofFactionName": "genericindustrial"
 }

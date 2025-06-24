@@ -1,5 +1,18 @@
 {
-  "typeID": 3339,
+  "basePrice": 7500000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Amarr-Schlachtschiffen.",
+    "en": "Skill at operating Amarr battleships.",
+    "es": "Habilidad en el manejo de acorazados amarrianos.",
+    "fr": "Compétence liée au pilotage des cuirassés amarr.",
+    "ja": "アマー戦艦を操作するスキル。",
+    "ko": "아마르 배틀쉽을 운용하기 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на линкорах производства Амаррской Империи.",
+    "zh": "操作艾玛战列舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Amarr Battleship",
     "en": "Amarr Battleship",
@@ -10,5 +23,8 @@
     "ru": "Амаррские линкоры",
     "zh": "艾玛战列舰操作"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

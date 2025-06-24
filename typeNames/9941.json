@@ -1,5 +1,19 @@
 {
-  "typeID": 9941,
+  "basePrice": 200000.0,
+  "description": {
+    "de": "Wenn dieser Bildprozessor in den Schläfenlappen eingepflanzt wird bewirkt er einen Bonus auf das Gedächtnis des Charakters.\n\n\n\n+3 Bonus auf Gedächtnis",
+    "en": "This image processor implanted in the temporal lobe grants a bonus to a character's memory.\r\n\r\n+3 Bonus to Memory",
+    "es": "Este procesador de imágenes implantado en el lóbulo temporal otorga una bonificación a la memoria del personaje.\n\n+3 de bonificación a la memoria.",
+    "fr": "Ce processeur d'images implanté dans le lobe temporal améliore la mémoire d'un personnage.\n\nBonus de mémoire : + 3",
+    "ja": "側頭葉に埋め込むイメージプロセッサー。キャラクターの記憶力を増強する効果がある。記憶力+3のボーナス",
+    "ko": "이미지 처리기를 측두엽에 삽입함으로써 추가 기억력을 획득합니다.<br><br>기억력 +3",
+    "ru": "Модуль распознавания и анализа изображений, вживляемый в височную долю головного мозга пилота.\n\nВживление имплантата приводит к росту характеристики «Память» на 3 единицы.",
+    "zh": "植入在颞叶的图像处理器，能增加人物的记忆属性值。记忆+3"
+  },
+  "groupID": 745,
+  "iconID": 2061,
+  "marketGroupID": 619,
+  "metaGroupID": 1,
   "name": {
     "de": "Memory Augmentation - Basic",
     "en": "Memory Augmentation - Basic",
@@ -10,5 +24,7 @@
     "ru": "Memory Augmentation - Basic",
     "zh": "记忆增强体—基础级"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 3548,
+  "capacity": 1200.0,
+  "description": {
+    "de": "Diese Drohne lehrt angehende Piloten wie sie mit ihrem Schiff umgehen sollen. Das reduziert Unfälle und senkt zur allgemeinen Zufriedenheit die Versicherungsprämien.",
+    "en": "Teaching new captains how to manage their ships in order to reduce accidents and decrease premiums for happiness all around.",
+    "es": "Enseña a los nuevos capitanes cómo administrar sus naves para reducir los accidentes y disminuir las primas por la felicidad en general.",
+    "fr": "Ce drone permet d'apprendre aux jeunes capitaines à gérer leurs vaisseaux pour diminuer les accidents et réduire les primes à payer.",
+    "ja": "幸福が損なわれないよう、そして事故と保険料を減らすために、新米船長に船の扱いを教えるドローン。",
+    "ko": "초보 파일럿들을 위한 교육용 드론으로 사고 방지 및 보험료를 줄여주는데 도움을 줍니다.",
+    "ru": "Обучает новых капитанов управлению кораблями для уменьшения количества несчастных случаев и снижения страховых премий. Полное счастье.",
+    "zh": "教授新船长如何操纵飞船以降低事故发生频率以减少保险费用。"
+  },
+  "graphicID": 1054,
+  "groupID": 286,
+  "mass": 80000.0,
   "name": {
     "de": "Insurance Teaching Drone",
     "en": "Insurance Teaching Drone",
@@ -10,5 +23,9 @@
     "ru": "Insurance Teaching Drone",
     "zh": "保险公司教练无人机"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 45.0,
+  "sofFactionName": "swat",
   "volume": 20400.0
 }

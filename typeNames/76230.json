@@ -1,5 +1,16 @@
 {
-  "typeID": 76230,
+  "description": {
+    "de": "Dieses Bergungsgebiet ist auf T1-/Fraktions-/T2-Fregatten und T1-/Fraktionszerstörer beschränkt. Im Inneren scheinen feindliche Schiffe aktiv zu sein. Warnung: Kapselpiloten, die das Beschleunigungstor aktivieren, um das Gebiet zu betreten, erhalten einen Verdächtigen-Timer und werden zu legalen Angriffszielen für alle anderen Kapselpiloten.",
+    "en": "This restricted salvage site can be entered by T1/Faction/T2 frigates and T1/Faction destroyers. Hostile ships appear to be active inside. Warning: Capsuleers who activate the acceleration gate to enter this site will incur a suspect timer and become legal targets for all other capsuleers.",
+    "es": "A esta zona de recuperación restringida pueden entrar las fragatas T1/faccionarias/T2 y destructores T1/faccionarios. Parece haber naves hostiles activas en el interior. Advertencia: Los capsulistas que activen el portal de aceleración para entrar en esta zona iniciarán un temporizador de sospechosos y se convertirán en objetivos legales para todos los demás capsulistas.",
+    "fr": "Seules les frégates Tech I, Tech II ou de faction et les destroyers Tech I ou de faction sont autorisés à pénétrer sur ce site de récupération à accès restreint. Il semble que des vaisseaux hostiles sont actifs à l'intérieur. Avertissement : Les capsuliers qui activent le portail d'accélération pour pénétrer sur ce site déclencheront un compteur d'activité suspecte et pourront être légalement pris pour cibles par tous les autres capsuliers.",
+    "ja": "この制限付きサルベージサイトには、T1/国家勢力/T2のフリゲートおよびT1/国家勢力に属する駆逐艦で進入可能。内部では敵艦が活動中の模様。警告：本サイトへの進入にあたってアクセラレーションゲートを起動させたカプセラは、容疑者タイマーが付与され、他の全カプセラが撃破可能な標的と化す。",
+    "ko": "테크 I/팩션/테크 II 프리깃과 테크 I/팩션 디스트로이어 함급만 입장할 수 있는 사이트입니다. 사이트 내에서 적대적인 함선이 활동 중입니다. 경고: 엑셀레이션 게이트로 입장하는 캡슐리어는 용의자 타이머가 작동하며 다른 캡슐리어의 교전 허용 타겟으로 변경됩니다.",
+    "ru": "В этот закрытый район демонтажных работ могут попасть только фрегаты (армейские, а также 1-го или 2-го техноуровня) и эсминцы (армейские, а также 1-го техноуровня). Похоже, там находятся вражеские корабли. Внимание: капсулёры, которые активируют разгонные ворота, чтобы попасть в этот район, будут отмечены как нарушители правопорядка и станут законной целью для всех остальных пилотов.",
+    "zh": "T1/势力/T2护卫舰和T1/势力驱逐舰可以进入该受限的打捞地点。里面似乎有敌对舰船活动。警告：激活加速轨道进入该地点的克隆飞行员将触发嫌犯计时器，并成为所有其他克隆飞行员的合法攻击目标。"
+  },
+  "graphicID": 1211,
+  "groupID": 310,
   "name": {
     "de": "Waylaid Republic Couriers",
     "en": "Waylaid Republic Couriers",
@@ -10,5 +21,8 @@
     "ru": "Waylaid Republic Couriers",
     "zh": "拦截共和国快递舰艇"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "sofFactionName": "genericbase"
 }

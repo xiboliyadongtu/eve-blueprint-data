@@ -1,5 +1,18 @@
 {
-  "typeID": 58806,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Dies ist ein Stasisnetz-Wachturm, der vom Equilibrium of Mankind als Teil seiner Verteidigungsanlagen errichtet wurde.",
+    "en": "This is a stasis webification sentry tower set up by the Equilibrium of Mankind as part of their facility defenses.",
+    "es": "Torre centinela de red ralentizadora instalada por Equilibrium of Mankind como parte de las defensas de sus instalaciones.",
+    "fr": "Il s’agit d’une tour de surveillance à générateur de stase installée par l’Equilibrium of Mankind en défense de ses installations.",
+    "ja": "これは、イクイブリアムオブマンカインドが施設の防衛装置の一部として設置したステイシスウェビフィケーションセントリータワーだ。",
+    "ko": "균형의 수호자가 시설을 방어하기 위해 건설한 스테이시스 웹 타워입니다.",
+    "ru": "Эту сторожевую башню стазис-индукции техники «Равновесия человечества» установили в качестве защитного средства для обороны объектов.",
+    "zh": "这座停滞缠绕岗哨塔由EoM组织设立，旨在加强自己设施的防御能力。"
+  },
+  "graphicID": 2425,
+  "groupID": 383,
+  "mass": 1000.0,
   "name": {
     "de": "EoM Stasis Webber Tower",
     "en": "EoM Stasis Webber Tower",
@@ -10,5 +23,9 @@
     "ru": "EoM Stasis Webber Tower",
     "zh": "EoM停滞缠绕光束塔"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 637.0,
+  "sofFactionName": "amarrbase",
   "volume": 1000.0
 }

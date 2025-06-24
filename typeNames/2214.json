@@ -1,5 +1,18 @@
 {
-  "typeID": 2214,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieser unscheinbare Wachposten wartet auf das Ergebnis der Sicherheitsüberprüfung, bevor er irgendetwas unternimmt.",
+    "en": "This inconspicuous guard post is awaiting security clearance before taking any action.",
+    "es": "Este discreto puesto de guardia está a la espera de la autorización de seguridad antes de tomar cualquier medida.",
+    "fr": "Ce poste de garde très discret attend l'autorisation de la sécurité pour passer à l'action.",
+    "ja": "この目立たない警備ポストでは、行動を起こす前に暗証番号の入力が必要となる。",
+    "ko": "경비초소에서는 다음 행동을 취하기 전에 신원 확인을 기다리고 있습니다.",
+    "ru": "Этот непримечательный сторожевой пост ожидает указаний, прежде чем начать какие-либо действия.",
+    "zh": "这座不起眼的防护哨站正在等待安检，然后才能投入使用。"
+  },
+  "graphicID": 1991,
+  "groupID": 952,
+  "mass": 100000.0,
   "name": {
     "de": "Guard Post",
     "en": "Guard Post",
@@ -10,5 +23,9 @@
     "ru": "Guard Post",
     "zh": "守卫哨站"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 4007.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

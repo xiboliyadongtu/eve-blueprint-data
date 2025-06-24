@@ -1,5 +1,17 @@
 {
-  "typeID": 12099,
+  "basePrice": 1000000.0,
+  "description": {
+    "de": "Fertigkeit, Schlachtkreuzer zu bedienen.\r\n\r\nKann nicht mit Probeaccounts erlernt werden.",
+    "en": "Skill at operating Battlecruisers. Can not be trained on Trial Accounts.",
+    "es": "Habilidad en el manejo de cruceros de combate. No es posible desarrollarla con una cuenta de prueba.",
+    "fr": "Compétence liée à l'utilisation des croiseurs de bataille. Formation impossible sur les comptes d'évaluation.",
+    "ja": "巡洋戦艦を操作するためのスキル。トライアルアカウントでは習得不可。",
+    "ko": "배틀크루저 운용을 위한 스킬입니다. 체험용 계정으로는 배울 수 없습니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на линейных крейсерах.",
+    "zh": "操作战列巡洋舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
   "name": {
     "de": "Battlecruisers",
     "en": "Battlecruisers",
@@ -10,5 +22,7 @@
     "ru": "Линейные крейсеры",
     "zh": "战列巡洋舰操作"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

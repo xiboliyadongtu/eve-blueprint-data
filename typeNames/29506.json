@@ -1,5 +1,16 @@
 {
-  "typeID": 29506,
+  "description": {
+    "de": "Ein Bunker - draußen bleiben.",
+    "en": "A bunker. Beware.",
+    "es": "Un búnker. Cuidado.",
+    "fr": "Bunker. Faites attention.",
+    "ja": "バンカー。要注意。",
+    "ko": "벙커입니다. 주의하십시오.",
+    "ru": "Бункер. Будьте осторожны.",
+    "zh": "一个碉堡，要小心。"
+  },
+  "graphicID": 2470,
+  "groupID": 226,
   "name": {
     "de": "Fortified Caldari Bunker",
     "en": "Fortified Caldari Bunker",
@@ -10,5 +21,9 @@
     "ru": "Fortified Caldari Bunker",
     "zh": "强化的加达里堡垒"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 870.0,
+  "sofFactionName": "guristas"
 }

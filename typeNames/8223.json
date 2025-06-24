@@ -1,5 +1,17 @@
 {
-  "typeID": 8223,
+  "description": {
+    "de": "Überwacht und optimiert das Stromnetz. Erhöht die Energieabgabe des Reaktors geringfügig, sowie die Schild- und Energiespeicherladerate.",
+    "en": "Monitors and optimizes the power grid. Gives a slight boost to power core output and a minor increase in shield and capacitor recharge rate.",
+    "es": "Vigila y optimiza el sistema de potencia. Otorga una ligera mejora al rendimiento del núcleo de potencia y un aumento menor al índice de carga del condensador y del escudo.",
+    "fr": "Surveille et optimise le réseau d'alimentation. Améliore légèrement la puissance d'alimentation du réacteur principal et augmente de façon minime la vitesse de recharge du capaciteur et des boucliers.",
+    "ja": "パワーグリッドを監視し、最適化する。パワーコアの出力、およびシールドとキャパシタ充電速度が多少向上する。",
+    "ko": "파워그리드 최적화를 위한 모니터링 시스템입니다. 파워 코어 출력, 실드 회복률, 캐패시터 충전속도가 소폭 상승합니다.",
+    "ru": "Контролирует и оптимизирует энергосистемы корабля. Несколько увеличивает мощность ядра, а также незначительно сокращает время перезарядки щита и конденсатора.",
+    "zh": "监控并优化能量栅格。小幅提高能量核心输出量以及护盾与电容器的回充速率。"
+  },
+  "groupID": 766,
+  "iconID": 26546,
+  "mass": 20.0,
   "name": {
     "de": "Type-D Power Core Modification: Diagnostic System",
     "en": "Type-D Power Core Modification: Diagnostic System",
@@ -10,5 +22,9 @@
     "ru": "Type-D Power Core Modification: Diagnostic System",
     "zh": "D型能源核心增强改进型：诊断系统"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 500.0,
   "volume": 5.0
 }

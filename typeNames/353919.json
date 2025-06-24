@@ -1,5 +1,17 @@
 {
-  "typeID": 353919,
+  "basePrice": 24000.0,
+  "description": {
+    "de": "Verstärkt die Schilde der Zieleinheit. (Nur Fahrzeuge)\n\nModulart: Aktiv\nBoostrate: 50HP/s\nDauer: 10s\nCooldown: 10s\nPG-Kosten: 50\nCPU-Kosten: 30",
+    "en": "Boosts shields of targeted entity. (Vehicles only)\r\n\r\nModule Type: Active\r\nBoost Rate: 50SP/s\r\nDuration: 10s\r\nCooldown Time: 10s\r\nPG Cost: 50\r\nCPU Cost: 30",
+    "es": "Potencia el escudo de la entidad a la que se aplica. (Solo vehículos)\n\nTipo de módulo: Activo\nÍndice de mejora: 50 SP/s\nDuración: 10 s\nTiempo de recarga: 10 s\nCoste de RA: 50\nCoste de CPU: 30",
+    "fr": "Recharge les boucliers de la cible. (Véhicules uniquement)\n\nType de module : Actif\nVitesse de boost : 50SP/s\nDurée : 10s\nTemps de refroidissement : 10s\nCoût PG : 50\nCoût CPU : 30",
+    "it": "Potenzia gli scudi delle entità verso cui viene puntato. (Solo veicoli)\n\nTipo modulo: Attivo\nVelocità potenziamento: 50 SP/s\nDurata: 10 s\nTempo raffreddamento: 10 s\nCosto PG: 50\nCosto CPU: 30",
+    "ja": "ターゲットした対象のシールドを回復させる。(車両専用)\n\nモジュール種別: アクティブ\n回復率: 50SP/s\n起動時間: 10s\nクールダウン時間: 10s\nPG占有量: 50\nCPU消費量: 30",
+    "ko": "대상의 실드를 충전합니다. (차량 전용)<br><br>모듈 종류: 실드 <br><br>충전 속도: 초당 50SP <br><br>지속시간: 10초 <br><br>재사용 대기시간: 10초 <br><br>파워그리드 사용량: 50 <br><br>CPU 사용량: 30",
+    "ru": "Производит накачку щитов целевого объекта. (Только для транспорта)\n\nТип модуля: активный\nСкорость ремонта: 50 AP/с\nПродолжительность: 10 с\nВремя остывания: 10 с\nПотребление энергии: 50\nПотребление ЦПУ: 30",
+    "zh": "增强目标实体的护盾。（仅限载具）装备类型：主动增强速率：50技能点/秒 持续时间：10秒 冷却时间：10秒 PG消耗：50 CPU消耗：30"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Fernschildbooster (S)",
     "en": "Remote Shield Booster (S)",
@@ -11,5 +23,7 @@
     "ru": "Система дистанционной накачки щита (S)",
     "zh": "远程护盾回充增量器(S)"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

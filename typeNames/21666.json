@@ -1,5 +1,18 @@
 {
-  "typeID": 21666,
+  "basePrice": 15000000.0,
+  "description": {
+    "de": "Bedienung von Hybridwaffentürmen auf Capital-Schiffen. 5% Bonus auf die Schadenswirkung von Capital Hybridwaffentürmen je Skillstufe.",
+    "en": "Operation of capital hybrid turrets. 5% Bonus to capital hybrid turret damage per level.",
+    "es": "Funcionamiento de torretas híbridas capitales. 5 % de bonificación al daño de las torretas híbridas capitales por nivel.",
+    "fr": "Aptitude à utiliser les tourelles hybrides capitales. Augmente de 5 % par niveau les dégâts des tourelles hybrides capitales.",
+    "ja": "キャピタルハイブリッドタレットを操作するスキル。レベル上昇ごとにキャピタルハイブリッドタレットのダメージが5%増加。",
+    "ko": "캐피탈 하이브리트 터렛 운용을 위한 스킬입니다. 매 레벨마다 캐피탈 하이브리드 터렛 피해량 5% 증가",
+    "ru": "Навык эксплуатации сверхбольших гибридных орудий. За каждую степень освоения навыка: на 5% повышается урон сверхбольших гибридных орудий.",
+    "zh": "操作旗舰级混合炮台的技能。每升一级，旗舰级混合炮台的伤害提高5%。"
+  },
+  "groupID": 255,
+  "iconID": 33,
+  "marketGroupID": 364,
   "name": {
     "de": "Capital Hybrid Turret",
     "en": "Capital Hybrid Turret",
@@ -10,5 +23,8 @@
     "ru": "Сверхбольшие гибридные орудия",
     "zh": "旗舰级混合炮台研究"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

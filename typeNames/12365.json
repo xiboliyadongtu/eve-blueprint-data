@@ -1,5 +1,18 @@
 {
-  "typeID": 12365,
+  "basePrice": 150000.0,
+  "description": {
+    "de": "5% Bonus auf EM-Resistenzen von Schildverstärkern je Skillstufe",
+    "en": "5% bonus to EM resistance per level for Shield Amplifiers.",
+    "es": "5 % de bonificación a la resistencia electromagnética por nivel a los amplificadores de escudo.",
+    "fr": "Augmente de 5 % par niveau la résistance EM des amplificateurs de boucliers.",
+    "ja": "レベル上昇ごとにシールド増幅器のEMレジスタンスが5%上昇",
+    "ko": "매 레벨마다 실드 증폭장치의 EM 저항력 5% 증가",
+    "ru": "За каждую степень освоения навыка: на 5% повышается влияние пассивных модуляторов щитов на сопротивляемость щитов ЭМ-воздействию.",
+    "zh": "每升一级，护盾增效器的电磁抗性提高5%"
+  },
+  "groupID": 1209,
+  "iconID": 33,
+  "marketGroupID": 1747,
   "name": {
     "de": "EM Shield Compensation",
     "en": "EM Shield Compensation",
@@ -10,5 +23,7 @@
     "ru": "Анти-ЭМ укрепление щитов",
     "zh": "电磁护盾补偿研究"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,20 @@
 {
-  "typeID": 80031,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieses verwüstete Wrack ist der einzige Überrest einer Struktur, die den Gefahren der Raumverwerfung des Abgrunds erlag. Das Ausmaß der Zerstörung ist so gewaltig, dass seine Triglavia-Herkunft kaum zu erkennen ist, doch mit der Unterstützung eines Reliktanalysegeräts besteht die Möglichkeit, wertvolle Technologie und Daten aus dem Wrack zu bergen.",
+    "en": "This decimated wreckage stands as the sole remnant of a structure that succumbed to the perils of Abyssal Deadspace. The extent of devastation is so profound that its Triglavian origin is barely discernible, yet with the aid of a relic analyzer, there is a chance to recover valuable technology and data from the wreckage.",
+    "es": "Estos restos destrozados son el único vestigio que queda de una estructura que sucumbió a los peligros del espacio muerto abisal. La devastación es tan profunda que su origen triglaviano resulta apenas discernible, pero, con la ayuda de un analizador de reliquias, existe la posibilidad de recuperar tecnología y datos valiosos de los restos.",
+    "fr": "Ces débris dévastés sont tout ce qui reste d'une structure qui a succombé aux dangers de l'abîme Deadspace. L'ampleur des dégâts est telle que son origine triglavian est à peine discernable, néanmoins, à l'aide d'un analyseur de reliques, il y a une possibilité de récupérer des technologies précieuses et des données des décombres.",
+    "ja": "この損傷した残骸は、アビサルデッドスペースに潜む危険に飲み込まれたストラクチャの唯一残った部位である。破壊の規模があまりにも大きく、トリグラビアン由来の部分を識別することは困難だが、遺物アナライザーの助けを借りれば貴重なハイテク装置やデータを残骸から回収できるかもしれない。",
+    "ko": "구조물에서 나온 잔해로 어비설 데드스페이스에 도사리는 위험을 단적으로 보여주고 있습니다. 파괴의 흔적이 너무나도 뚜렷하여 트리글라비안 구조물의 특징을 거의 찾아볼 수가 없습니다. 유물 분석기를 활용하여 데이터를 회수할 수 있습니다.",
+    "ru": "Эти искорёженные обломки — всё, что осталось от сооружения, которое не выдержало натиска Мёртвой бездны. Масштаб повреждений настолько велик, что почерк Триглава едва угадывается, однако существует вероятность, что с помощью анализатора артефактов из этой груды металла удастся извлечь ценные данные и технологии.",
+    "zh": "这是被毁建筑在深渊空间的险境中遗留下来的唯一残骸。由于建筑损毁严重，几乎无法辨别其三神裔来源，只有通过遗迹分析仪才有可能从残骸中回收前沿科技和数据。"
+  },
+  "graphicID": 27389,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Medium Cache Wreck",
     "en": "Medium Cache Wreck",
@@ -10,5 +25,9 @@
     "ru": "Medium Cache Wreck",
     "zh": "中型储藏箱残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 1227.0,
+  "sofFactionName": "triglavianbase",
   "volume": 27500.0
 }

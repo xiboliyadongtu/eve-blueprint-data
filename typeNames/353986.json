@@ -1,5 +1,17 @@
 {
-  "typeID": 353986,
+  "basePrice": 32000.0,
+  "description": {
+    "de": "Dieses Modul repariert im aktivierten Zustand den Schaden an der Panzerung des Zielfahrzeugs.",
+    "en": "Once activated this module repairs the damage done to the targeted vehicle’s armor.",
+    "es": "Una vez activado, este módulo repara el daño infligido al blindaje del vehículo seleccionado.",
+    "fr": "Une fois activé, ce module répare les dommages occasionnés au blindage du véhicule ciblé.",
+    "it": "Una volta attivato, questo modulo ripara i danni inflitti alla corazza del veicolo verso cui viene puntato.",
+    "ja": "一度起動すると、このモジュールはターゲットした車両のアーマーが受けたダメージをリペアする。",
+    "ko": "모듈 활성화 시 지정된 차량에 가해진 피해를 복구합니다.",
+    "ru": "В активном состоянии данный модуль ремонтирует броню целевого транспортного средства.",
+    "zh": "启用后，该装备会修复目标载具装甲的受损部位。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Schwere Fernreparatureinheit für Panzerungen I",
     "en": "Heavy Remote Armor Repair Unit I",
@@ -11,5 +23,7 @@
     "ru": "Тяжелый модуль дистанционного ремонта брони I",
     "zh": "重型远程装甲修复装置I"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

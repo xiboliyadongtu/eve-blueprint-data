@@ -1,5 +1,20 @@
 {
-  "typeID": 24658,
+  "basePrice": 10000000.0,
+  "capacity": 1000000.0,
+  "description": {
+    "de": "Eine mobile Fertigungsanlage, in der die meisten Munitionssorten, wie Lenkwaffen, Hybridladungen, Projektilmunition und Frequenzkristalle hergestellt werden können. Hier können auch Treibstoffblöcke hergestellt werden.",
+    "en": "A mobile assembly facility where most ammunition such as Missiles, Hybrid Charges, Projectile Ammo and Frequency Crystals can be manufactured. Fuel Blocks can also be manufactured here.",
+    "es": "Instalación de ensamblaje móvil donde se fabrica todo tipo de munición, como misiles, cargas híbridas, munición de proyectiles y cristales de frecuencia, además de bloques de combustible.",
+    "fr": "Module d'assemblage mobile permettant la fabrication de la plupart des munitions, telles que les missiles, les charges hybrides, les munitions de projectiles et les cristaux de fréquence. Les blocs de carburant peuvent aussi être produits ici.",
+    "ja": "ミサイル、ハイブリッド弾、プロジェクタイル弾、フリーケンシークリスタル等、殆どの弾薬を製造できる移動式組み立て工場。燃料ブロックもここで製造可能。",
+    "ko": "미사일, 하이브리드탄, 발사체 탄약, 그리고 프리퀸시 크리스탈과 같은 탄약을 생산할 수 있는 이동식 생산 시설입니다. 연료 블록의 제조 또한 가능합니다.",
+    "ru": "Блок-завод для производства боеприпасов — ракет, гибридных боеприпасов, боеприпасов баллистических орудий и кристаллов для лазеров. Здесь же производятся топливные блоки.",
+    "zh": "一座移动式装配设施，在这里可以生产大多数种类的弹药，如导弹、混合弹药、射弹弹药和频率晶体。这里还可以制造燃料块。"
+  },
+  "graphicID": 2377,
+  "groupID": 397,
+  "marketGroupID": 932,
+  "mass": 100000000.0,
   "name": {
     "de": "Ammunition Assembly Array",
     "en": "Ammunition Assembly Array",
@@ -10,5 +25,9 @@
     "ru": "Ammunition Assembly Array",
     "zh": "弹药组装阵列"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 937.0,
+  "sofFactionName": "genericmetal",
   "volume": 1250.0
 }

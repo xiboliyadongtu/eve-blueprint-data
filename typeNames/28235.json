@@ -1,5 +1,18 @@
 {
-  "typeID": 28235,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Versorgungsdepot",
+    "en": "Supply Depot",
+    "es": "Depósito de suministros",
+    "fr": "Dépôt d'approvisionnement.",
+    "ja": "貯蔵庫",
+    "ko": "보급고",
+    "ru": "Склад cнабжения",
+    "zh": "补给站"
+  },
+  "graphicID": 2706,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Supply Depot_event",
     "en": "Supply Depot_event",
@@ -10,5 +23,9 @@
     "ru": "Supply Depot_event",
     "zh": "补给站_事件"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 600.0,
+  "sofFactionName": "genericmetal",
   "volume": 100000000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 24587,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieses Sprungtor wurde nach Designvorgaben der Amarr gebaut. Man kann es ohne entsprechenden Autorisierungscode nicht benutzen.",
+    "en": "This stargate has been manufactured according to Amarr design. It is not usable without the proper authorization code.",
+    "es": "Este portal estelar se ha fabricado según el diseño amarriano. No se puede usar sin el código de autorización pertinente.",
+    "fr": "Ce portail stellaire a été construit dans le style de l'Empire amarr. Vous ne pouvez pas l'emprunter sans les codes d'autorisation appropriés.",
+    "ja": "アマーの設計に基づいて製造されたスターゲート。しかるべき承認コードがなければ利用できない。",
+    "ko": "해당 스타게이트는 아마르 제국 양식에 맞춰 건설되었습니다. 인증 코드가 없을 경우 활성화되지 않습니다.",
+    "ru": "Эти звездные врата были изготовлены по проекту Amarr. Они не работают без подходящего кода авторизации.",
+    "zh": "这座星门是根据艾玛的设计建造而成。必须拥有正确的授权代码才能使用。"
+  },
+  "graphicID": 236,
+  "groupID": 319,
+  "mass": 1e+35,
   "name": {
     "de": "Amarr-Sprungtor",
     "en": "Amarr Stargate",
@@ -10,5 +23,10 @@
     "ru": "Amarr Stargate",
     "zh": "艾玛星门"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 1500.0,
+  "sofFactionName": "amarrbase",
   "volume": 100000000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 3634,
+  "description": {
+    "de": "Eine mehrläufige Schnellfeuer-Energiewaffe, die nicht viel Energie benötigt und einen nicht abreißenden Schaden verursacht. Hat einen nicht auswechselbaren Standard-Frequenzkristall.",
+    "en": "Low powered, rapid fire multi-barreled energy weapon that delivers a steady stream of damage. Comes with a pre-fitted irreplaceable standard frequency crystal.",
+    "es": "Arma de energía de varios cañones de disparo rápido y baja potencia que inflige un flujo de daño constante. Está equipada con un cristal de frecuencia estándar preajustado irremplazable.",
+    "fr": "Arme à énergie à tir rapide et à faible consommation d'énergie composée de plusieurs tubes assurant un feu nourri et régulier. Elle est pré-équipée d'un cristal de fréquence standard qui ne peut être remplacé.",
+    "ja": "マルチバレル式エネルギー兵器。威力は弱いが速射能力が高く、間断なく砲撃を浴びせることができる。標準のフリーケンシークリスタルがあらかじめ装備されており、交換はできない。",
+    "ko": "전력소모가 낮은 속사형 다중배럴 에너지 무기로 적에게 지속적인 피해를 입힙니다. 내장된 프리퀀시 크리스탈은 교체할 수 없습니다.",
+    "ru": "Многоствольная скорострельная энергетическая установка низкой мощности, способная вести непрерывный огонь. \n\nПоставляется со стандартным предустановленным частотным кристаллом, не предусматривающим демонтаж и замену.",
+    "zh": "低能量，快速发射的多管能量武器，可以产生较为稳定的持续破坏力。预装不可更换的标准频率晶体。"
+  },
+  "graphicID": 11118,
+  "groupID": 53,
+  "iconID": 350,
+  "mass": 500.0,
   "name": {
     "de": "Civilian Gatling Pulse Laser",
     "en": "Civilian Gatling Pulse Laser",
@@ -10,5 +23,8 @@
     "ru": "Civilian Gatling Pulse Laser",
     "zh": "民用加特林脉冲激光炮"
   },
+  "portionSize": 1,
+  "published": false,
+  "sofFactionName": "amarrbase",
   "volume": 5.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 41509,
+  "description": {
+    "de": "Gibt Energie zur schnellen Erhöhung der Schildstärke ab.\n\n\n\nHinweis: Kann nur in Schiffe der Capital-Klasse eingebaut werden.",
+    "en": "Expends energy to provide a quick boost in shield strength.\r\n\r\nNote: May only be fitted to capital class ships.",
+    "es": "Gasta energía para potenciar rápidamente la fuerza del escudo.\n\n\n\nAviso: Solo se puede equipar en naves capitales.",
+    "fr": "Augmente l'énergie de manière à renforcer brièvement la résistance du bouclier.\n\n\n\nRemarque : réservé aux vaisseaux de classe capital.",
+    "ja": "シールドを素早く強化するのにエネルギーが必要となる。注： 母艦級の艦船にのみ装着可能。",
+    "ko": "에너지를 소모하여 일정 시간 동안 실드를 강화합니다. <br><br>참고: 캐피탈급 함선에만 장착이 가능합니다.",
+    "ru": "Расходует энергию накопителя, восстанавливая запас прочности силового поля.\n\n\n\nВнимание! Этим модулем могут оснащаться исключительно корабли большого тоннажа.",
+    "zh": "消耗能量以快速提高护盾强度。\n\n\n\n注：只能装配在旗舰级舰船上。"
+  },
+  "groupID": 40,
+  "iconID": 84,
+  "marketGroupID": 778,
+  "metaGroupID": 4,
   "name": {
     "de": "Dread Guristas Capital Shield Booster",
     "en": "Dread Guristas Capital Shield Booster",
@@ -10,5 +23,10 @@
     "ru": "Dread Guristas Capital Shield Booster",
     "zh": "恐惧古斯塔斯旗舰级护盾回充增量器"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 500.0,
+  "variationParentTypeID": 20703,
   "volume": 4000.0
 }

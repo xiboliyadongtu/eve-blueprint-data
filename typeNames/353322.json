@@ -1,5 +1,17 @@
 {
-  "typeID": 353322,
+  "basePrice": 149000.0,
+  "description": {
+    "de": "Skill zur Bedienung von großen Raketenwerfergeschützen.\n\nSchaltet den Zugriff auf große Standardraketenwerfer ab Skillstufe 1, erweiterte große Raketenwerfer ab Skillstufe 3 und große Raketenwerferprototypen ab Skillstufe 5 frei.",
+    "en": "Skill at operating large missile launcher turrets.\r\n\r\nUnlocks access to standard large missile launchers at lvl.1; advanced at lvl.3; prototype at lvl.5.",
+    "es": "Habilidad de manejo de torretas de lanzamisiles grandes.\n\nDesbloquea el acceso a torretas de lanzamisiles grandes estándar en el nivel 1, avanzadas en el nivel 3 y prototipos en el nivel 5.",
+    "fr": "Compétence permettant d'utiliser les grandes tourelles de lance-missiles.\n\nDéverrouille l'utilisation de grand lance-missiles. Standard au niv.1 ; avancé au niv.3 ; prototype au niv.5.",
+    "it": "Abilità nell'utilizzo delle torrette missilistiche grandi.\n\nSblocca l'accesso ai lanciamissili standard grandi al liv. 1; a quelli avanzati al liv. 3; a quelli prototipo al liv. 5.",
+    "ja": "大型ミサイルランチャータレットを操作するためのスキル。レベル1で標準型、レベル3で高性能、レベル5でプロトタイプの大型ミサイルランチャーが利用可能になる。",
+    "ko": "대형 미사일 터렛 운용을 위한 스킬입니다. <br><br>대형 미사일 런처가 잠금 해제됩니다. (레벨 1 - 일반, 레벨 3 - 상급, 레벨 5 - 프로토타입)",
+    "ru": "Навык работы с пусковыми установками для тяжелых ракетометов.\n\nПозволяет пользоваться стандартными большими ракетными турелями на уровне 1; усовершенствованными на уровне 3; прототипами на уровне 5.",
+    "zh": "操作大型导弹发射炮台的技能。1级解锁标准大型导弹发射器；3级解锁高级大型导弹发射器；5级解锁原型大型导弹发射器。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Bedienung: Großer Raketenwerfer",
     "en": "Large Missile Launcher Operation",
@@ -11,5 +23,7 @@
     "ru": "Обращение с большими ракетными установками",
     "zh": "大型导弹发射器操作"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

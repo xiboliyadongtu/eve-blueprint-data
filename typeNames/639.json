@@ -1,5 +1,75 @@
 {
-  "typeID": 639,
+  "basePrice": 153900000.0,
+  "capacity": 780.0,
+  "description": {
+    "de": "Die Tempest ist eines der Schlüssel-Schiffe der Republic Fleet. Sie ist ein vielseitiges Kampfschiff, gut geeignet für weitreichendes Bombardement und in der Lage, spezialisierte Arten von Schaden mit großer Effektivität zu verursachen. Eine ausgewogene Tempest-Staffel hat sich immer wieder als unschätzbarer Joker in Flottengefechten bewährt, den Gegner nur auf eigene Gefahr ignorieren sollten.",
+    "en": "The Tempest is one of the Republic Fleet's key vessels; a versatile gunship proficient at long-range bombardment and capable of dishing out specialized types of damage with great effectiveness. A well-rounded squadron of Tempests has been proven time and time again to be an invaluable wild card in a fleet battle, one which opponents should ignore at their own peril.",
+    "es": "La Tempest es una de las naves principales de la Flota de la República, una cañonera versátil y competente en el bombardeo a gran distancia, capaz de producir tipos especializados de daño con gran efectividad. Se ha demostrado en repetidas ocasiones que un escuadrón de naves Tempest es un comodín valioso en una batalla de flotas, uno que sus enemigos no deberían ignorar.",
+    "fr": "Le vaisseau Tempest est un des vaisseaux les plus importants de la Republic Fleet. Cet engin de combat polyvalent, expert dans les bombardements à longue portée, est capable d'infliger différents types de dégâts spécifiques d'une rare violence. Une formation de Tempests bien organisée s'est révélée à maintes reprises être un atout précieux dans les batailles de flottes, une donnée que l'on n'ignore pas sans risque.",
+    "ja": "テンペストは共和国フリートの主要艦艇の一つで、長距離砲撃を得意とし、特定のタイプのダメージを極めて効率よく与える能力を持つ多目的武装船である。テンペストの多目的小隊は、フリート戦において無視すれば命取りとなる貴重なワイルドカードとして、利用価値を何度となく証明してきた。",
+    "ko": "템페스트는 다양한 무기 체계를 탑재할 수 있는 민마타의 핵심 함선으로 뛰어난 범용성과 강력한 장거리 포격 능력을 보유하고 있습니다. 중무장된 템페스트 중대는 함대전 시 와일드카드의 역할을 담당하며 변칙적인 상황을 만들어 적 함대의 방심을 유도합니다.",
+    "ru": "«Темпест» — основа флота Республики Минматар. Это универсальный тяжеловооружённый корабль, предназначенный для работы на больших дистанциях; пилот «темпеста» в силах эффективно донести поражающее действие необходимых по ситуации боеприпасов. Хорошо укомплектованная эскадра «темпестов» неоднократно становилась решающим козырем, определяющим исход флотового сражения.",
+    "zh": "狂暴级战列舰是共和舰队的重要舰船之一。作为多用途的武装炮舰，它擅长远程炮击，并且能有效造成特种伤害。实践一次次证明，一支实力全面的狂暴级飞船中队是个在舰队战中可以翻盘的不确定因素，如果对手忽视它们，将使自己陷入极其危险的境地。"
+  },
+  "factionID": 500002,
+  "graphicID": 48,
+  "groupID": 27,
+  "marketGroupID": 78,
+  "mass": 99500000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      165,
+      73,
+      138,
+      141,
+      150,
+      89
+    ],
+    "1": [
+      96,
+      99,
+      165,
+      73,
+      138,
+      141,
+      150,
+      89
+    ],
+    "2": [
+      96,
+      99,
+      165,
+      73,
+      138,
+      141,
+      150,
+      89
+    ],
+    "3": [
+      96,
+      99,
+      165,
+      73,
+      138,
+      141,
+      150,
+      89
+    ],
+    "4": [
+      96,
+      99,
+      165,
+      73,
+      138,
+      141,
+      117,
+      150,
+      89
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Tempest",
     "en": "Tempest",
@@ -9,6 +79,96 @@
     "ko": "템페스트",
     "ru": "Tempest",
     "zh": "狂暴级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 250.0,
+  "sofFactionName": "minmatarbase",
+  "soundID": 20076,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 5.0,
+        "bonusText": {
+          "de": "zusätzlicher Bonus auf HP der <a href=showinfo:3394>Verstärkten Schottwand</a>",
+          "en": "additional bonus to <a href=showinfo:3394>Reinforced Bulkhead</a> hitpoints",
+          "es": "de bonificación adicional a los puntos de vida del <a href=showinfo:3394>mamparo reforzado</a>.",
+          "fr": "de bonus supplémentaire aux points de vie de la <a href=showinfo:3394>cloison renforcée</a>",
+          "ja": "<a href=showinfo:3394>強化隔壁</a>HPがさらに増加",
+          "ko": "<a href=showinfo:3394>강화 격벽</a> 내구도 증가",
+          "ru": "дополнительный бонус к прочности <a href=showinfo:3394>укреплённой переборки</a>",
+          "zh": "<a href=showinfo:3394>强化舱隔壁</a>结构值加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der <a href=showinfo:3394>Panzerplatte</a>",
+          "en": "bonus to <a href=showinfo:3394>Armor Plate</a> hitpoints",
+          "es": "de bonificación a los puntos de vida de las <a href=showinfo:3394>placas de blindaje</a>.",
+          "fr": "de bonus aux points de vie du <a href=showinfo:3394>revêtement de blindage</a>",
+          "ja": "<a href=showinfo:3394>アーマープレート</a>HPが増加",
+          "ko": "<a href=showinfo:3394>장갑 플레이트</a> 내구도 증가",
+          "ru": "бонус к прочности <a href=showinfo:3394>бронеплиты</a>",
+          "zh": "<a href=showinfo:3394>装甲附甲板</a>装甲值加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 100.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der <a href=showinfo:3425>Schilderweiterung</a>",
+          "en": "bonus to <a href=showinfo:3425>Shield Extender</a> hitpoints",
+          "es": "de bonificación a los puntos de vida del <a href=showinfo:3425>extensor de escudo</a>.",
+          "fr": "de bonus aux points de vie de l'<a href=showinfo:3425>extenseur de bouclier</a>",
+          "ja": "<a href=showinfo:3425>シールドエクステンダー</a>HPが増加",
+          "ko": "<a href=showinfo:3425>실드 확장장치</a> 실드량 증가",
+          "ru": "бонус к прочности <a href=showinfo:3425>расширителя щитов</a>",
+          "zh": "<a href=showinfo:3425>护盾扩展装置</a>护盾值加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3337": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3308>großen Projektilgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3308>Large Projectile Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3308>torreta de proyectiles grande</a>.",
+            "fr": "de bonus de dégâts des <a href=showinfo:3308>grandes tourelles à projectiles</a>",
+            "ja": "<a href=showinfo:3308>大型プロジェクタイルタレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3308>대형 발사체 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон боеприпасов <a href=showinfo:3308>больших баллистических орудий</a>",
+            "zh": "<a href=\"showinfo:3308\">大型射弹炮台</a>伤害加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Feuerrate von <a href=showinfo:3308>großen Projektilgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3308>Large Projectile Turret</a> rate of fire",
+            "es": "de bonificación a la cadencia de tiro de la <a href=showinfo:3308>torreta de proyectiles grande</a>.",
+            "fr": "de bonus à la cadence de tir des <a href=showinfo:3308>grandes tourelles à projectiles</a>",
+            "ja": "<a href=showinfo:3308>大型プロジェクタイルタレット</a>の発射間隔が短縮",
+            "ko": "<a href=showinfo:3308>대형 발사체 터렛</a> 연사속도 증가",
+            "ru": "повышается скорострельность <a href=showinfo:3308>больших баллистических орудий</a>",
+            "zh": "<a href=\"showinfo:3308\">大型射弹炮台</a>射速加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 450000.0
 }

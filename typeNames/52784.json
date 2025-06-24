@@ -1,5 +1,18 @@
 {
-  "typeID": 52784,
+  "capacity": 27500.0,
+  "description": {
+    "de": "Dieses Wrack ist der Überrest einer Triglavia-Installation, die die lokale Raum-Zeit-Struktur des zentralen Sterns des Systems manipulierte. Die Abschaltung des Beschleunigers führte zum Stopp der von ihm erzeugten Raum-Zeit-Verzerrung und den damit verbundenen Effekten.",
+    "en": "This wreck is the remains of a Triglavian installation that was manipulating the local spatio-temporal topology of the system's central star. Termination of the accelerator's operations has stopped the spatio-temporal distortion it generated and the consequent effects have eased.",
+    "es": "Estos son los restos de una instalación triglaviana que estaba manipulando la topología espaciotemporal local de la estrella central del sistema. La terminación de las operaciones del acelerador ha detenido la distorsión espaciotemporal que generaba y los efectos consecuentes se han atenuado.",
+    "fr": "Cette épave représente les restes d'une installation triglavian qui manipulait autrefois la topologie spatio-temporelle locale de l'étoile centrale du système. L'interruption des opérations de l'accélérateur a arrêté la distorsion spatio-temporelle qu'il générait, et les effets en résultant se sont atténués.",
+    "ja": "この残骸は、星系中心の星で局部的な時空トポロジーを操作していたトリグラビアン施設の跡である。加速器の運転を停止したことで、時空間の歪みは収まり、その影響は緩和された。",
+    "ko": "항성계 주 항성의 국소 시공간 위상 배치를 조작하던 트리글라비안 시설의 잔해입니다. 가속기의 가동이 중단되자 시공간 왜곡 현상이 멈추었으며, 이에 따른 파급효과 역시 진정되었습니다.",
+    "ru": "Эти обломки — всё, что осталось от сооружения Триглава, которое управляло локальной пространственно-временной топологией центральной звезды системы. После уничтожения ускорителя пространственно-временные искажения прекратились и производимые ими эффекты исчезли.",
+    "zh": "这个残骸曾是一座三神裔设施，它操控着该星系主恒星的时空拓扑图。这座加速器被摧毁后，它产生的时空扰乱便停止了，其带来的一系列影响也烟消云散。"
+  },
+  "graphicID": 24498,
+  "groupID": 186,
+  "mass": 10000.0,
   "name": {
     "de": "Triglavian Stellar Observatory Wreck",
     "en": "Triglavian Stellar Observatory Wreck",
@@ -10,5 +23,9 @@
     "ru": "Triglavian Stellar Observatory Wreck",
     "zh": "三神裔星际观测站残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "triglavianbase",
   "volume": 27500.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 23243,
+  "capacity": 140.0,
+  "description": {
+    "de": "Dies ist der Beschützer eines Corporationsagenten. Dieses Schiff anzugreifen wäre sehr töricht und wird höchstwahrscheinlich nicht von Ihnen verlangt.",
+    "en": "This is a guardian of a corporation's agents.  Attacking this ship would be very foolhardy, and is most likely not required of you.",
+    "es": "Este es un guardián de los agentes de una corporación. Sería una insensatez intentar un ataque contra esta, y probablemente no sea necesario.",
+    "fr": "C'est le Guardian des agents d'une corporation.  Il faut être téméraire pour attaquer ce vaisseau, et ce n'est sûrement pas ce que l'on attend de vous.",
+    "ja": "コーポレーションのエージェントの警護を行う。この船を攻撃するのはかなり無謀な行為。そもそも通常は攻撃の必要がない。",
+    "ko": "코퍼레이션 에이전트의 가디언입니다. 이 함선을 공격하는 것은 무모하고 의미 없는 짓입니다.",
+    "ru": "Это охранник агентов корпорации. Атака этого корабля была бы полным безрассудством с вашей стороны и, скорее всего, просто бессмысленным поступком.",
+    "zh": "这是某集团代理人的守卫。攻击这艘舰船是非常鲁莽的，而且你也不必这么做。"
+  },
+  "graphicID": 1773,
+  "groupID": 520,
+  "mass": 2650000.0,
   "name": {
     "de": "Temko Interceptor",
     "en": "Temko Interceptor",
@@ -10,5 +23,10 @@
     "ru": "Temko Interceptor",
     "zh": "天科 拦截机"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 31.0,
+  "sofFactionName": "roden",
   "volume": 26500.0
 }

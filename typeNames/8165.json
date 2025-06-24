@@ -1,5 +1,17 @@
 {
-  "typeID": 8165,
+  "description": {
+    "de": "Verbessert die Energiespeicherladerate, verringert aber dessen maximale Ladekapazität.",
+    "en": "Increases capacitor recharge rate, but causes a reduction in maximum capacitor storage.",
+    "es": "Aumenta la velocidad de carga del condensador, pero provoca una reducción de su almacenamiento máximo.",
+    "fr": "Améliore la vitesse de recharge du capaciteur, mais entraîne une réduction de son stockage d'énergie.",
+    "ja": "キャパシタ充電速度が向上するが、最大キャパシタ容量は減少する。",
+    "ko": "캐패시터 충전속도가 증가하는 대신 최대 캐패시터 용량이 감소합니다.",
+    "ru": "Увеличивает скорость подзарядки конденсатора, но уменьшает его максимальную ёмкость.",
+    "zh": "提高电容器的回充速率，但会减少电容器的最大储量。"
+  },
+  "groupID": 768,
+  "iconID": 26456,
+  "mass": 20.0,
   "name": {
     "de": "Alpha Reactor Control: Capacitor Flux",
     "en": "Alpha Reactor Control: Capacitor Flux",
@@ -10,5 +22,9 @@
     "ru": "Alpha Reactor Control: Capacitor Flux",
     "zh": "阿尔法反应堆控制：电容波动器"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 500.0,
   "volume": 5.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 20523,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieses Wohnmodul enthält das wissenschaftliche Labor von Tsuna Qayse. Da sich darin hochgradig giftige Chemikalien befinden, ist der Zutritt ohne entsprechende Erlaubnis strengstens untersagt.",
+    "en": "This mobile habitation module contains Tsuna Qayse's science laboratory.  Highly toxic chemicals on board, entry is strictly prohibited without proper authorization.",
+    "es": "Este módulo habitacional móvil incluye el laboratorio científico de Tsuna Qayse. Hay productos químicos muy tóxicos a bordo; se prohíbe terminantemente la entrada sin la autorización adecuada.",
+    "fr": "Ce module d'habitation mobile contient le laboratoire scientifique de Tsuna Qayse.  Produits chimiques hautement toxiques à bord. L'accès est strictement interdit sans une autorisation spéciale.",
+    "ja": "ツナカイセのサイエンスラボが入居しているモバイル居住施設。猛毒の化学薬品を取り扱うため、しかるべき承認がないと立ち入りは許されない。",
+    "ko": "츠나 퀘이세의 이동식 과학 연구실입니다. 유독성 화학물질이 적재되어있으며 비허가 대상의 접근이 금지되어있습니다.",
+    "ru": "В этом передвижном жилом модуле находится научная лаборатория Tsuna Qayse. На борту высокотоксичные препараты. Посторонним вход строго воспрещён.",
+    "zh": "这个移动居住舱包含兹纳·凯撒的科学实验室。建筑内有高毒性化学物质。除非经特别授权，否则严禁进入。"
+  },
+  "graphicID": 2515,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Habitation Module - Tsuna's Science Labs",
     "en": "Habitation Module - Tsuna's Science Labs",
@@ -10,5 +23,10 @@
     "ru": "Habitation Module - Tsuna's Science Labs",
     "zh": "居住舱 - 兹纳的科学实验室"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 379.0,
+  "sofFactionName": "genericliving",
+  "soundID": 31,
   "volume": 100000000.0
 }

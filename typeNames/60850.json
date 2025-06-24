@@ -1,5 +1,20 @@
 {
-  "typeID": 60850,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Aufgrund der Effekte des Raum-Zeit-Warp-Paradoxes in diesem System werden Trümmerfragmente den Launen der Schwerkraft entsprechend durcheinandergewirbelt. Diese Trümmerteile sind offenbar zufällig in eine Zone paradoxen Raums ausgestoßen worden, der von Scansonden erfasst und per Warpantrieb erreicht werden kann. Es sieht aus, als wäre allerlei Treibgut von einer Raum-Zeit-Anomalie angezogen und in diese Region versetzt worden. Dieses Trümmerstück ist recht klein. Mit einem speziellen Relikt-Analysemodul kann man sicher mehr entdecken.",
+    "en": "Peculiar debris fragments are found tumbling around this volume of space according to the whims of gravity as altered by the spacetime warp paradox effects local to this system. These bits of debris seem to have been ejected at random into a zone of paradoxical space detectable by scanner probes and accessible by warp drives. All manner of flotsam and jetsam seems to have been drawn together by some spacetime anomaly only to arrive in the local vicinity.\r\n\r\nThis particular bit of peculiar debris is rather small but a specialized relic analyzer module may be able to discover more.",
+    "es": "Se han encontrado fragmentos de escombros peculiares dando tumbos en este volumen de espacio, sujetos a los caprichos de la gravedad alterada por los efectos paradójicos de warp del espacio-tiempo locales de este sistema. Parece que estos fragmentos se han eyectado aleatoriamente a una zona de espacio paradójico detectable por sondas escáner y accesible a los motores de warp. Todo tipo de restos de accidentes espaciales se han visto atraídos por una anomalía espaciotemporal y han terminado en las inmediaciones.\n\nAunque estos escombros peculiares son bastante pequeños, un módulo analizador de reliquias podría proporcionar más información.",
+    "fr": "On peut trouver des fragments de débris étranges tournoyant dans ce volume spatial, au gré de la gravité altérée par les effets du paradoxe de warp spatiotemporel propre à ce système. Ces morceaux de débris semblent avoir été éjectés au hasard dans une zone d'espace paradoxal détectable à l'aide de sondes de scanner et accessible à l'aide de propulseurs de warp. Des débris en tout genre paraissent avoir été rassemblés par une anomalie spatiotemporelle, pour finalement se retrouver dans le périmètre local. Le morceau de débris en question est relativement petit, mais un module analyseur de relique spécialisé parviendra peut-être à en révéler davantage.",
+    "ja": "このシステムでは、時空ワープパラドックスの影響で変化した重力の気まぐれにより、奇妙な残骸の破片が宙域の周囲に散乱している。これらの破片はパラドックス宙域内にランダムに排出されたようだが、当該宙域はスキャナープローブで検知可能なほか、ワープドライブでアクセスすることができる。また、あらゆる種類の漂流物が時空の特異点によって引き寄せられ、現地付近に漂着しているらしい。\n\n\n\nこのタイプの奇妙な残骸は若干小さいが、専用遺物アナライザーモジュールを使えば、もっとたくさん見つけられるかもしれない。",
+    "ko": "시공간 워프 패러독스로 인해 중력이 변경되었으며, 그 속에서 기묘한 형태의 잔해가 떠다니고 있습니다. 잔해에서 떨어져 나온 파편이 무작위 좌표로 사출되었습니다. 스캔 프로브로 시공간 좌표의 위치를 확인할 수 있으며, 워프 드라이브를 이용하여 접근할 수 있습니다.<br><br>시공간 특이점으로 인해 온갖 잡동사니가 한곳으로 모여들었습니다. 해당 파편은 비교적 크기가 작으며, 특수한 유물 분석기를 사용할 경우 추가적인 정보를 얻을 수도 있습니다.",
+    "ru": "Обнаружены любопытные фрагменты обломков, перемещающиеся в этом замкнутом пространстве под воздействием сил гравитации, измененных эффектами парадоксального искривления пространства-времени в этой системе. Эти обломки, похоже, были случайно выброшены в участок парадоксального пространства. Его можно обнаружить разведзондами и попасть туда с помощью варп-двигателя. Кажется, будто обломки были специально притянуты друг к другу какой-то пространственно-временной аномалией и заброшены сюда. Этот фрагмент любопытных обломков довольно мал, но с помощью специализированного анализатора артефактов возможно найти и другие.",
+    "zh": "怪异的碎片受到被时空跃迁异相效果改变的引力的影响在太空中翻腾。这些碎片似乎是随机被射到一个异想空间中，利用探针可以扫描到这个空间并跃迁前往。各种形式的漂浮物被某种只在附近出现的时空异常吸到了一起。\n\n\n\n这种怪异的碎片很小，但是用专业的遗迹分析仪也许可以发现点什么。"
+  },
+  "graphicID": 3704,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Small Peculiar Debris Fragment",
     "en": "Small Peculiar Debris Fragment",
@@ -10,5 +25,9 @@
     "ru": "Small Peculiar Debris Fragment",
     "zh": "小型奇特的残骸碎片"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 300.0,
+  "sofFactionName": "debris",
   "volume": 27500.0
 }

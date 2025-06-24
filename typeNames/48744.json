@@ -1,5 +1,20 @@
 {
-  "typeID": 48744,
+  "basePrice": 500000.0,
+  "description": {
+    "de": "Ein außergewöhnliches Kampfdrohnendesign, das dank Raubdrohnentechnologie ein optimiertes Verhältnis zwischen Feuerkraft und Kontrollbandbreite erreicht. Die Basistechnologie wurde abgeschwächt und auf das herkömmliche Intelligenzniveau von spezialisierten Systemen für den Kampf reduziert, die auch in anderen von Schiffen genutzten Drohnen verwendet werden. Obwohl sie für die Verwendung gemäß der CONCORD-Direktive Omega-One-Five und den Code Aria-Protokollen freigegeben wurde, wird die Technologie strikt „auf eigene Gefahr“ eingesetzt und von keinem der großen Drohnenhersteller vertrieben. Unabhängige Kapselpiloten sind die einzigen bekannten Nutzer dieser Technologie.",
+    "en": "An unusual combat drone design that achieves an enhanced firepower-to-control-bandwidth ratio from rogue drone technology. The base technology has been subverted and reduced to a standard combat expert system level of intelligence, as used in other ship-deployed drones.\r\n\r\nDespite being cleared for use under CONCORD's Directive Omega-One-Five and the Code Aria protocols, the technology is used strictly under terms of \"operator's own risk\" and is not being marketed by any of the major drone manufacturers. Independent capsuleers are the only known adopters of such technology.",
+    "es": "Diseño inusual de dron de combate con una mejor relación entre la potencia de fuego y el ancho de banda de control de los drones rebeldes. La tecnología base ha quedado reducida a un nivel de inteligencia de sistema experto de combate estándar, como los que usan otros drones desplegados en naves.\n\nA pesar de que la Directiva Omega-Uno-Cinco de CONCORD y los protocolos del Código Aria dan luz verde para su uso, la tecnología se emplea estrictamente «bajo el riesgo del propio operador» y ninguno de los principales fabricantes la comercializa. Los capsulistas independientes son los únicos usuarios conocidos de dicha tecnología.",
+    "fr": "Une conception inhabituelle pour un drone de combat. L'usage de la technologie des drones renégats offre un rapport accru de la vitesse de transfert entre les tirs et l'unité de contrôle. La technologie de base a été sabotée pour être restreinte au niveau d'intelligence standard du système de combat, comme il se présente dans les autres drones déployés à bord des vaisseaux. Même si son utilisation a été jugée conforme par la directive Oméga-Un-Cinq de CONCORD et par le protocole du Code Aria, la technologie est strictement réservée à un usage « aux risques de l'utilisateur ». Aucun des fabricants de drones majeurs ne semble en faire la promotion. Les capsuliers indépendants sont les seuls utilisateurs connus de cette technologie.",
+    "ja": "ローグドローン技術によって強化された火力対制御帯域幅比を実現した異例のコンバットドローン設計。ベースとなる技術は、他の艦載ドローンで使用されているような、標準的な戦闘エキスパートシステムレベルの知性にまで落とされている。\r\n\nCONCORDの指令Omega-One-5とCode Ariaプロトコルの下での使用が許可されているにもかかわらず、この技術は「オペレーターの自己責任」という条件で厳密に使用されており、主要なドローンメーカーによって販売されていない。そのような技術を採用していることで知られているのは、独立したカプセラだけである。",
+    "ko": "로그 드론의 기술을 차용하여 대역폭 대비 뛰어난 화력을 보이는 공격 드론입니다. 기존의 기반 기술의 틀에서 벗어났으며 보편적인 공격 시스템 급의 축소된 인공지능을 갖추었습니다. <br><br>해당 드론의 기술은 CONCORD의 오메가-1-5 및 코드 아리아 프로토콜에 의해 허가되었으나 기술의 사용은 \"운용자의 전적인 책임\"에 따르기 때문에 그 어떤 대형 드론 제조사에서도 선뜻 활용하지 못하고 있습니다. 따라서 독립적으로 활동하는 캡슐리어만이 사용하는 기술입니다.",
+    "ru": "Необычная конструкция боевого дрона создана на основе технологий восставших дронов и имеет оптимальное соотношение огневой мощи и ширины канала связи. Лежащую в основе технологию удалось низвести до уровня интеллекта стандартной боевой единицы — такой же, как обычные корабельные дроны. Директива КОНКОРДа «Омега-один-пять» и протоколы под кодовым названием «Ария» разрешают применение подобной технологии, однако её использование сопряжено с риском, и ни один крупный производитель дронов до сих пор не начал интеграцию и продажу подобных систем. Независимые капсулёры остаются единственными потребителями этой технологии.",
+    "zh": "一种普通的战斗无人机，不过应用了自由无人机技术，增强了火力与带宽比值。这种技术被降低到与其他舰基无人机的战斗系统同等水平。\n\n\n\n尽管在统合部的O51条令和代号埃利亚协议中有所规定，这种技术在使用时仍严格遵循“后果自负”的原则，也没有被任何无人机主要制造商投向市场。独立克隆飞行员是已知仅有的使用这种技术的人。"
+  },
+  "graphicID": 2774,
+  "groupID": 100,
+  "marketGroupID": 838,
+  "mass": 10000.0,
+  "metaGroupID": 19,
   "name": {
     "de": "'Subverted' JVN-UC49",
     "en": "'Subverted' JVN-UC49",
@@ -10,5 +25,10 @@
     "ru": "'Subverted' JVN-UC49",
     "zh": "\"颠覆\"JVN-UC49"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 134,
+  "radius": 35.0,
+  "sofFactionName": "gallentebase",
   "volume": 20.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 19765,
+  "capacity": 8850.0,
+  "description": {
+    "de": "Dies ist eine gewöhnliche Lagereinrichtung.",
+    "en": "This is a standard storage facility.",
+    "es": "Centro de almacenamiento estándar.",
+    "fr": "Site de stockage standard.",
+    "ja": "標準的な保管施設。",
+    "ko": "일반적인 저장시설입니다.",
+    "ru": "Это обычный склад.",
+    "zh": "这是一个标准的储藏仓库。"
+  },
+  "graphicID": 2301,
+  "groupID": 306,
+  "mass": 1000000.0,
   "name": {
     "de": "Warehouse_MISSION",
     "en": "Warehouse_MISSION",
@@ -10,5 +23,9 @@
     "ru": "Warehouse_MISSION",
     "zh": "库房_任务"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 911.0,
+  "sofFactionName": "genericmetal",
   "volume": 1150.0
 }

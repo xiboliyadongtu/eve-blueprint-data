@@ -1,5 +1,19 @@
 {
-  "typeID": 22032,
+  "capacity": 1400.0,
+  "description": {
+    "de": "Die Trümmer einer Rettungskapsel mit den sterblichen Überresten des Piloten.",
+    "en": "The remains of a pod. The remains of the dead pilot are still inside.",
+    "es": "Los restos de una cápsula. Lo que queda del piloto muerto sigue dentro.",
+    "fr": "Restes d'une capsule. Les restes du pilote sont encore à l'intérieur.",
+    "ja": "パイロットの亡骸が中に残されたままの、ポッドの残骸。",
+    "ko": "포드의 잔해입니다. 죽은 파일럿의 시체가 내부에 남아있습니다.",
+    "ru": "Обломки капсулы. Тело мёртвого пилота всё ещё внутри.",
+    "zh": "逃生舱的残骸。死亡飞行员的遗体仍在里面。"
+  },
+  "graphicID": 73,
+  "groupID": 306,
+  "iconID": 73,
+  "mass": 10000.0,
   "name": {
     "de": "Podded Pilot",
     "en": "Podded Pilot",
@@ -10,5 +24,9 @@
     "ru": "Podded Pilot",
     "zh": "逃生舱被击毁的飞行员"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 2.0,
+  "sofFactionName": "jovebase",
   "volume": 1200.0
 }

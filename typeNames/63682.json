@@ -1,5 +1,18 @@
 {
-  "typeID": 63682,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Diese Wachplattform feuert Lenkwaffen auf jedes Ziel ab, das von ihr als Bedrohung eingestuft wird.",
+    "en": "This sentry structure will launch missiles at any target it considers to be a threat.",
+    "es": "Esta estructura centinela atacará con sus misiles a cualquier objetivo que considere una amenaza.",
+    "fr": "Cette structure sentinelle tire des missiles sur toute cible considérée comme une menace.",
+    "ja": "敵と見なしたターゲットには容赦なくミサイルを撃ち込むセントリーストラクチャ。",
+    "ko": "해당 센트리는 위협으로 간주되는 대상을 향해 미사일을 발사합니다.",
+    "ru": "Это стационарное орудие сооружения открывает торпедный огонь по любой подозрительной цели.",
+    "zh": "这座岗哨建筑将向对其视为威胁的目标发射导弹。"
+  },
+  "graphicID": 2468,
+  "groupID": 383,
+  "mass": 1000.0,
   "name": {
     "de": "Hunt Explosive Missile Battery",
     "en": "Hunt Explosive Missile Battery",
@@ -10,5 +23,9 @@
     "ru": "Hunt Explosive Missile Battery",
     "zh": "猎捕爆炸导弹塔"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 371.0,
+  "sofFactionName": "guristas",
   "volume": 1000.0
 }

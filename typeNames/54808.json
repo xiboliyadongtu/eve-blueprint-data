@@ -1,5 +1,18 @@
 {
-  "typeID": 54808,
+  "description": {
+    "de": "Dieses sonderbare Gerät trägt Daten-Kennzeichen mit Identifikations-Codes von CONCORD, Upwell Consortium und EDENCOM, die auf den Komponentennamen und die Seriennummer schließen lassen. Dieser Apparat scheint als Teil eines fortschrittlichen Zielsystems auf die Vorhersage zukünftiger Geschehnisse ausgelegt zu sein. Es ist allerdings unklar, auf welche Weise dies in ein Feuerleitsystem integriert werden könnte. Dieses Modul ist eindeutig als Teil einer größeren Vorrichtung vorgesehen.",
+    "en": "The component name and serial number of this strange piece of technology is indicated clearly by data-tags bearing CONCORD, Upwell Consortium and EDENCOM identifier codes. This particular item appears to be designed to predict future events as part of a sophisticated targeting system but the means by which it could achieve firing solutions is highly obscure. This device is obviously intended to form part of a larger design.",
+    "es": "El nombre de componente y el número de serie de este extraño artilugio están indicados en unas etiquetas de datos con códigos identificadores de CONCORD, Consorcio Upwell y EDENCOM. Este objeto en particular parece estar diseñado para predecir eventos futuros como parte de un sofisticado sistema de adquisición de objetivos, pero los medios que utiliza para determinar las respuestas de disparo son un misterio. Está claro que este dispositivo está pensado para formar parte de algo más grande.",
+    "fr": "Le nom de composant et le numéro de série de cet étrange échantillon de technologie sont indiqués par des labels de données mentionnant les codes d'identification de CONCORD, de l'Upwell Consortium et d'EDENCOM. Cet objet singulier semble avoir été fabriqué pour prédire les événements futurs au sein d'un système de ciblage sophistiqué, mais les méthodes par lesquelles il génère des solutions de tir sont encore très obscures. À l'évidence, ce dispositif fait partie d'un ensemble plus grand.",
+    "ja": "この奇妙な技術の部品名とシリアルナンバーの記載されたデータタグを確認すると、CONCORD、アップウェル・コンソーシアム、EDENCOMの識別コードが使用されている。この装置は非常に高度な目標捕捉システムの一部として未来を予測できるようであるが、どのように発射解析を実行しているのかは謎だ。元々はより大きな装置の一部であったようだ。",
+    "ko": "이 기묘한 장치의 부품명과 일렬번호는 CONCORD, 업웰 컨소시엄, 그리고 EDENCOM의 식별 코드가 새겨진 데이터 태그에 기록되어 있습니다. 정교한 타겟팅 시스템을 바탕으로 미래 예측을 수행할 수 있을 것으로 추측되나, 정확히 어떠한 방식으로 작동하는지는 알 수 없습니다. 대규모 설계의 일부인 것은 명확해 보입니다.",
+    "ru": "Название и серийный номер этой странной технологии определяются тегами данных, содержащими идентификационные коды КОНКОРДа, консорциума «Апвелл» и ЭДЕНКОМа. Этот удивительный предмет, похоже, разработан для сложной системы наведения с компонентой предсказания ближайшего будущего, но как он рассчитывает огневую тактику, совершенно непонятно. Этот модуль спроектирован для включения в более сложные конструкции.",
+    "zh": "这种古怪技术的组件名称和序列号清楚地带有统合部、昇威财团和伊甸联合防御阵线的识别码。这个特别的装置是一部精密的锁定系统的一部分，似乎可以预测未来事件，但还不能确定它是否能够开火射击。它显然是某个大型装置的一部分。"
+  },
+  "groupID": 526,
+  "iconID": 2185,
+  "marketGroupID": 1661,
+  "mass": 20.0,
   "name": {
     "de": "Predictive Light Cone Plotter",
     "en": "Predictive Light Cone Plotter",
@@ -10,5 +23,7 @@
     "ru": "Predictive Light Cone Plotter",
     "zh": "预测光锥绘图装置"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

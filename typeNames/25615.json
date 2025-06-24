@@ -1,5 +1,17 @@
 {
-  "typeID": 25615,
+  "description": {
+    "de": "Ein Multifunktionschip mit digitalem Modulator und einem Oszillator.",
+    "en": "Multifunction chip with digital modulator and oscillator.",
+    "es": "Chip multifunción con modulador y oscilador digital.",
+    "fr": "Puce multifonction équipée d'un oscillateur et d'un modulateur numériques.",
+    "ja": "デジタル変調、発信器内蔵多機能チップ。",
+    "ko": "디지털 변조기와 발진기가 달려있는 다용도칩입니다.",
+    "ru": "Мультифункциональный чип с цифровым модулятором и осциллятором",
+    "zh": "配有电子调制装置和振荡器的多功能芯片，这是无人机的通讯硬件。"
+  },
+  "groupID": 754,
+  "iconID": 3257,
+  "marketGroupID": 1863,
   "name": {
     "de": "Drone Transceiver",
     "en": "Drone Transceiver",
@@ -10,5 +22,7 @@
     "ru": "Drone Transceiver",
     "zh": "无人机调制器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

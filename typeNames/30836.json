@@ -1,5 +1,20 @@
 {
-  "typeID": 30836,
+  "basePrice": 33264.0,
+  "description": {
+    "de": "Ein spezialisiertes Scan-Modul, das Schiffswracks nach nützlichen Überresten durchsucht.",
+    "en": "A specialized scanner used to detect salvageable items in ship wrecks.",
+    "es": "Este escáner especializado detecta objetos recuperables entre los restos de naves.",
+    "fr": "Scanner spécialisé permettant de détecter les objets récupérables dans les épaves de vaisseau.",
+    "ja": "船の残骸から回収可能なアイテムを探知するための専用スキャナー。",
+    "ko": "함선 잔해를 조사하기 위해 사용되는 샐비징 특화 스캐너입니다.",
+    "ru": "Специализированный сканер для обнаружения подлежащих демонтажу предметов в остовах кораблей.",
+    "zh": "这是一个特殊的扫描器，通过它可以检视舰船残骸中是否留有可供打捞的物件。"
+  },
+  "graphicID": 11166,
+  "groupID": 1122,
+  "iconID": 3240,
+  "marketGroupID": 1715,
+  "metaGroupID": 2,
   "name": {
     "de": "Salvager II",
     "en": "Salvager II",
@@ -10,5 +25,10 @@
     "ru": "Salvager II",
     "zh": "打捞器 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 500.0,
+  "sofFactionName": "prospecting",
+  "variationParentTypeID": 25861,
   "volume": 5.0
 }

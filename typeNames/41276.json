@@ -1,5 +1,21 @@
 {
-  "typeID": 41276,
+  "basePrice": 325000.0,
+  "description": {
+    "de": "XL-Torpedos sind Ungetüme, die für maximale Feuerkraft gegen Capital-Schiffe und Einrichtungen entworfen wurden. Sie können nur von Capital-Schiffen oder den Abwehrbatterien einer Sternenbasis verwendet werden.\n\nIn einem elektromagnetischen Feld eingeschlossenes Plasma ermöglichte es diesem Torpedo, ein flammendes Inferno der Zerstörung zu verursachen und ein nahezu unvorstellbares Ausmaß an Verwüstung anzurichten.\n\n\n\nEine modifizierte Version des Inferno Torpedo, Kann höhere Geschwindigkeiten als der Mjolnir Torpedo auf Kosten der Größe des Gefechtskopfs erreichen.",
+    "en": "XL Torpedoes are behemoths designed for maximum firepower against capital ships and installations. They are usable only by capital ships and starbase defense batteries.\r\nPlasma suspended in an electromagnetic field gives this torpedo the ability to deliver a flaming inferno of destruction, wreaking almost unimaginable havoc.\r\n\r\nA modified version of the Inferno Torpedo. It can reach higher velocity than the Mjolnir Torpedo at the expense of warhead size.",
+    "es": "Los torpedos XL son mastodontes diseñados para alcanzar una potencia de fuego máxima contra naves capitales e instalaciones. Solo pueden usarse en naves capitales y en baterías de defensa de bases estelares.\n\nEl plasma suspendido en un campo electromagnético proporciona a este torpedo la capacidad de desatar un apocalipsis infernal, provocando un caos casi inimaginable.\n\nVersión modificada del torpedo Inferno. Puede alcanzar más velocidad que el torpedo Mjolnir a costa del tamaño de su ojiva.",
+    "fr": "Les torpilles XL sont des ogives de destruction massive, spécialement conçues pour infliger un maximum de dégâts aux vaisseaux capitaux et aux structures. Réservées aux vaisseaux capitaux et aux batteries de défense de base stellaire.\n\nCes torpilles de plasma suspendu au cœur d'un champ électromagnétique sèment un chaos incommensurable sur le champ de bataille dans un déluge de flammes.\n\n\n\nVersion modifiée de la torpille inferno. Cette torpille a sacrifié la taille de son ogive au profit d'une vitesse encore plus élevée que la torpille mjolnir.",
+    "ja": "XLトルピードは母艦や軍事施設を最大火力で攻撃できる超強力な兵器である。母艦あるいはスターベースの守備砲列でしか使用できない。このトルピードは電磁界を浮遊するプラズマを利用して圧倒的な火力を生み出し、驚くほど大きなダメージを与える。改良型インフェルノトルピード。弾頭サイズと引き換えに、ミョルニールトルピードよりも高い速度を実現している。",
+    "ko": "캐피탈 함선과 시설을 상대로 최대의 화력을 발휘하고자 설계된 XL 토피도입니다. 캐피탈 함선과 스타베이스 방어 포탑에만 장착 가능합니다. <br><br>EM 필드로 억눌린 플라즈마가 폭발하며 가공할만한 위력으로 모든 것을 파괴하고 불바다로 만듭니다. <br><br>개량된 인페르노 토피도입니다. 기존의 묠니르 토피도에 비해 탄두 크기가 작아진 대신 최대 비행속도가 증가했습니다.",
+    "ru": "Торпеды сверхбольшой мощности — самые разрушительные из существующих; они используются для обстрела вражеских кораблей большого тоннажа и сооружений в космосе. Эти торпеды запускаются только кораблями большого тоннажа и оборонительными батареями сооружений.\n\nБоеголовка этой торпеды, в которой электромагнитным полем удерживается раскаленная плазма, позволяет ей буквально погружать цели в адское пламя, нанося им поистине невообразимые повреждения.\n\n\n\nМодификация торпеды типа «Инферно». Способна развивать более высокую скорость, чем торпеда «Мьольнир», но отличается уменьшенным размером заряда.",
+    "zh": "超大型鱼雷的设计目的是要对旗舰和建筑目标造成最大限度的伤害。它只能被旗舰级舰船和母星防御炮塔发射。\n\n在电磁场中悬浮的等离子能够产生巨大的能量，对目标所造成的伤害也是难以想象的。\n\n\n\n这是炼狱鱼雷的一种改良版本，它相比普通雷神鱼雷而言飞行速度更快，但代价是弹头尺寸变小。"
+  },
+  "graphicID": 20029,
+  "groupID": 1677,
+  "iconID": 1347,
+  "marketGroupID": 2259,
+  "mass": 1500.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Inferno Javelin XL Torpedo",
     "en": "Inferno Javelin XL Torpedo",
@@ -10,5 +26,9 @@
     "ru": "Inferno Javelin XL Torpedo",
     "zh": "炼狱标枪超大型鱼雷"
   },
+  "portionSize": 100,
+  "published": true,
+  "radius": 300.0,
+  "variationParentTypeID": 17861,
   "volume": 0.3
 }

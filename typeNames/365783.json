@@ -1,5 +1,17 @@
 {
-  "typeID": 365783,
+  "basePrice": 3000.0,
+  "description": {
+    "de": "Erhöht die maximale Munitionskapazität aller Raketenwerfergeschütze, die an ein Fahrzeug angebracht sind.",
+    "en": "Increases maximum ammunition capacity of all missile launcher turrets fitted on a vehicle.",
+    "es": "Aumenta la capacidad máxima de munición de todas las torretas lanzamisiles equipadas en un vehículo.",
+    "fr": "Augmente la capacité maximale de munitions de toutes les tourelles de lance-missiles installées sur un véhicule.",
+    "it": "Aumenta la capacità munizioni massima di tutte le torrette missilistiche equipaggiate su un veicolo.",
+    "ja": "車両に装備されたすべてのミサイルランチャータレットの装弾数を増加する。",
+    "ko": "차량에 장착된 모든 미사일 터렛의 최대 장탄수 증가",
+    "ru": "Увеличивает максимальное количество боеприпасов для всех ракетометов, установленных на транспортном средстве.",
+    "zh": "增加载具上所有导弹发射炮台的最大弹药容量。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Einfache Raketen-Munitionserweiterungseinheit",
     "en": "Basic Missile Ammo Expansion Unit",
@@ -11,5 +23,7 @@
     "ru": "Базовые модули увеличения количества боеприпасов ракет",
     "zh": "基础型导弹弹药扩容装置"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

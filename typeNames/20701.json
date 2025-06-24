@@ -1,5 +1,19 @@
 {
-  "typeID": 20701,
+  "description": {
+    "de": "Dieses Modul verwendet Nano-Reparaturbots, um Schäden an der Panzerung des Schiffes zu beheben.\n\nHinweis: Kann nur in Schiffe der Capital-Klasse eingebaut werden.",
+    "en": "This module uses nano-assemblers to repair damage done to the armor of the ship.\r\n\r\nNote: May only be fitted to capital class ships.",
+    "es": "Este módulo utiliza nanoensambladores para reparar el daño infligido al blindaje de la nave.\n\n\n\nAviso: Solo se puede equipar en naves capitales.",
+    "fr": "Module utilisant des nano-assembleurs pour réparer les dégâts infligés au blindage du vaisseau.\n\nRemarque : il ne peut être installé que sur des vaisseaux de classe capitale.",
+    "ja": "このモジュールはナノ修復器を用いて、艦船のアーマーが受けたダメージを回復する。注： 母艦級の艦船にのみ装着可能。",
+    "ko": "나노 어셈블러를 사용하여 함선의 손상된 장갑을 수리하는 모듈입니다. <br><br>참고: 캐피탈급 함선에만 장착이 가능합니다.",
+    "ru": "Установка ремонта брони с помощью наноразмерных ремонтных устройств.\n\nВнимание! Этим модулем могут оснащаться исключительно корабли большого тоннажа.",
+    "zh": "该装备使用纳米级装配器来修复对舰船装甲造成的损伤。\n\n注：只能装配在旗舰级舰船上。"
+  },
+  "groupID": 62,
+  "iconID": 80,
+  "marketGroupID": 1052,
+  "mass": 500.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Capital Armor Repairer I",
     "en": "Capital Armor Repairer I",
@@ -10,5 +24,8 @@
     "ru": "Capital Armor Repairer I",
     "zh": "旗舰级装甲维修器 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 4000.0
 }

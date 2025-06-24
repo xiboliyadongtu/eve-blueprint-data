@@ -1,5 +1,18 @@
 {
-  "typeID": 25863,
+  "basePrice": 1000000.0,
+  "description": {
+    "de": "Fähigkeit zum Bergen von Schiffswracks. Benötigter Skill für die Verwendung von Bergungsmodulen. 100 % Steigerung der Chance auf Bergungsgut pro zusätzlichem Level.",
+    "en": "Proficiency at salvaging ship wrecks. Required skill for the use of salvager modules. 100% increase in chance of salvage retrieval per additional level.",
+    "es": "Competencias para recuperar materiales de entre restos de naves. Habilidad necesaria para usar módulos de recuperación. Aumenta un 100 % la probabilidad de recuperación de restos por nivel adicional.",
+    "fr": "Compétence permettant de récupérer des objets se trouvant dans des épaves de vaisseaux. Elle est nécessaire pour utiliser les modules de récupération. Augmente de 100 % les chances de récupération par niveau supplémentaire.",
+    "ja": "船の残骸から利用価値のある部品を回収するスキル。サルベージャーモジュールの使用に必要なスキル。レベル上昇ごとにサルベージの回収成功率が100%上昇。",
+    "ko": "함선 잔해 샐비지 스킬입니다. 샐비저 모듈을 사용하려면 해당 스킬이 필요합니다. 매 레벨마다 샐비지의 기본 성공률 100% 증가",
+    "ru": "Навык демонтажа обломков кораблей. Требуется для использования демонтажных модулей. За каждую степень освоения навыка после первой вероятность демонтажа увеличивается на 100% от базовой вероятности.",
+    "zh": "有效打捞舰船残骸的技能。使用打捞设备的必需技能。每升一级，打捞回收几率增加一倍。"
+  },
+  "groupID": 1218,
+  "iconID": 33,
+  "marketGroupID": 1323,
   "name": {
     "de": "Salvaging",
     "en": "Salvaging",
@@ -10,5 +23,7 @@
     "ru": "Демонтаж",
     "zh": "打捞回收技术"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

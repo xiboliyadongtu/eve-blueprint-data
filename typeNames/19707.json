@@ -1,5 +1,18 @@
 {
-  "typeID": 19707,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Diese riesige Drohnenkönigin enthält die zentrale CPU, die die Raubdrohnen im gesamten Sektor kontrolliert.",
+    "en": "This gargantuan mother drone holds the central CPU, controlling the rogue drones throughout the sector.",
+    "es": "Este colosal dron nodriza alberga la CPU central y controla los drones rebeldes de todo el sector.",
+    "fr": "Ce gigantesque drone mère est équipé du CPU central, contrôlant ainsi tous les drones renégats du secteur.",
+    "ja": "中央CPUをかかえた巨大なマザードローン。地域一帯のローグドローンを統率する。",
+    "ko": "중앙제어장치가 탑재된 거대한 드론 모선으로 로그 드론을 통제하는 역할을 합니다.",
+    "ru": "Гигантская матка улья содержит центральный процессор, контролируя восставших дронов по всему сектору.",
+    "zh": "这个巨大的无人机母体内存放着中央CPU，控制着整个地区的自由无人机。"
+  },
+  "graphicID": 2565,
+  "groupID": 495,
+  "mass": 1000.0,
   "name": {
     "de": "Outgrowth Strain Mother",
     "en": "Outgrowth Strain Mother",
@@ -10,5 +23,10 @@
     "ru": "Outgrowth Strain Mother",
     "zh": "扩张无人机遥控母体"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 3500.0,
+  "sofFactionName": "roguebase",
+  "soundID": 20195,
   "volume": 1000.0
 }

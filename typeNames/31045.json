@@ -1,5 +1,19 @@
 {
-  "typeID": 31045,
+  "description": {
+    "de": "Diese Schiffsmodifikation wurde dazu entwickelt, die Leistung der Panzerungsreparaturmodule eines Schiffes zu erhöhen, auf Kosten eines erhöhten Stromnetzbedarfs.\n\n\n\nNachteil: Bei der Verwendung mehrerer Module des selben oder ähnlichen Typs, welche das selbe Attribut des Schiffes beeinflussen, wird deren Wirksamkeit eingeschränkt.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26253>Panzerungsmodifikation</a> reduziert werden.",
+    "en": "This ship modification is designed to increase a ship's armor repairer repair amount at the expense of increased power grid need for them.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26253>Armor Rigging</a> skill.",
+    "es": "Esta modificación de nave está diseñada para aumentar la cantidad de reparación del reparador de blindaje, aunque aumenta la necesidad del sistema de potencia.\n\nPenalización: Por usar más de un tipo de módulo o módulos similares que afecten al mismo atributo de la nave.\n\nSe pueden reducir las desventajas de equipar este complemento desarrollando la habilidad <a href=showinfo:26253>Complementos de blindaje</a>.",
+    "fr": "Cette modification de vaisseau est conçue pour accroître la capacité de réparation du réparateur de blindage du vaisseau, au détriment de sa consommation en réseau d'alimentation.\n\n\n\nPénalité : utiliser plus d'un module de ce type ou plusieurs modules modifiant un même attribut du vaisseau fera l'objet d'une pénalité.\n\n\n\nLes inconvénients du montage de cette plateforme pourraient être réduits en entraînant la compétence <a href=showinfo:26253>Optimisation de blindage</a>.",
+    "ja": "この改良により、艦船のパワーグリッド消費量が増すのと引き換えにアーマーリペアラの修復量が増加する。ペナルティ： 同じタイプのモジュール、または同じ属性に関係するモジュールを複数取り付けると、ペナルティが発生する。このリグを装備することで発生するペナルティは、<a href=showinfo:26253>アーマーリギング</a>スキルをトレーニングすることで低減できる。",
+    "ko": "리그 장착 시 장갑수리 장치 효과가 향상되는 반면 장갑수리 장치 파워그리드 요구치도 증가합니다. <br><br>페널티: 동일한 속성의 모듈 여러 개를 장착할 경우 페널티가 부여됩니다. <br><br>리그 부작용은 <a href=showinfo:26253>장갑 리그</a> 스킬 습득 시 감소합니다.",
+    "ru": "Эта модификация позволяет увеличить эффективность процесса ремонта брони корабля за счёт повышения расхода энергии реактора, необходимой для установки и работы этих модулей.\n\n\n\nВнимание! Установка на борт корабля двух и более модулей, влияющих на одну и ту же характеристику корабля, приведёт к снижению эффективности их действия в отношении данной характеристики.\n\n\n\nНегативный эффект от установки этого тюнинг-модуля можно снизить, освоив навык <a href=showinfo:26253>Armor Rigging</a>, дающий пилоту глубокое понимание принципов работы систем броневой защиты.",
+    "zh": "这个飞船改装件可以增加装甲维修器的维修量，但代价是维修器的能量栅格需求增加。\n\n\n\n惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26253>装甲改装技术</a>技能降低影响。"
+  },
+  "groupID": 773,
+  "iconID": 3194,
+  "marketGroupID": 1206,
+  "mass": 200.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Small Auxiliary Nano Pump I",
     "en": "Small Auxiliary Nano Pump I",
@@ -10,5 +24,8 @@
     "ru": "Small Auxiliary Nano Pump I",
     "zh": "小型辅助纳米聚合器 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 100.0,
   "volume": 5.0
 }

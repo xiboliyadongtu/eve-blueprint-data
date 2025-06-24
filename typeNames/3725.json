@@ -1,5 +1,19 @@
 {
-  "typeID": 3725,
+  "basePrice": 850.0,
+  "description": {
+    "de": "Nutzvieh, das für den Eigenverbrauch oder den Verkauf gezüchtet wird, sei es wegen ihres Fleisches oder für Milchprodukte.",
+    "en": "Livestock are domestic animals raised for home use or for profit, whether it be for their meat or dairy products.",
+    "es": "El ganado lo conforman animales domésticos, criados para el uso en casa o con fines comerciales, tanto por su carne como por sus lácteos.",
+    "fr": "Le bétail est composé d'animaux domestiques élevés pour une consommation personnelle ou à des fins commerciales (viande ou produits laitiers).",
+    "ja": "生命体を飼育すると、肉や乳製品を自給自足したり、販売して利益を得られるようになる。",
+    "ko": "가축은 육류 및 유제품을 제공합니다.",
+    "ru": "Скот - домашние животные, выращиваемые для получения мяса или молочных продуктов.",
+    "zh": "家畜是人工驯养的动物，由于它们是肉类及奶制品来源，因此既可供家用，也可换取利润。"
+  },
+  "groupID": 1034,
+  "iconID": 1205,
+  "marketGroupID": 1335,
+  "mass": 900.0,
   "name": {
     "de": "Livestock",
     "en": "Livestock",
@@ -10,5 +24,7 @@
     "ru": "Livestock",
     "zh": "家畜"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.75
 }

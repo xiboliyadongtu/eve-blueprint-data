@@ -1,5 +1,16 @@
 {
-  "typeID": 29363,
+  "description": {
+    "de": "Die Überreste einer zerstörten Naglfar",
+    "en": "The remains of a destroyed Naglfar",
+    "es": "Los restos de una Naglfar destruida.",
+    "fr": "Épave de Naglfar",
+    "ja": "破壊されたナグルファーの残骸",
+    "ko": "파괴된 나글파의 잔해입니다.",
+    "ru": "Обломки разрушенного корабля",
+    "zh": "一艘纳迦法级被摧毁后的残骸"
+  },
+  "graphicID": 3112,
+  "groupID": 226,
   "name": {
     "de": "Wrack einer Naglfar",
     "en": "Naglfar Wreck",
@@ -10,5 +21,9 @@
     "ru": "Naglfar Wreck",
     "zh": "纳迦法级残骸"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 800.0,
+  "sofFactionName": "minmatarbase"
 }

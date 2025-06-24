@@ -1,5 +1,18 @@
 {
-  "typeID": 17140,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Von diesem Außenposten gehen alle Sicherheitsoperationen im Innenbereich des Komplexes in dieser Raumverwerfung aus.",
+    "en": "This outpost is the base of security operations in this deadspace complex's inner perimeter.",
+    "es": "Este puesto avanzado es la base de operaciones de seguridad en este perímetro interior del complejo del espacio muerto",
+    "fr": "Cet avant-poste est le camp de base des opérations de sécurité dans le périmètre intérieur de ce complexe Deadspace.",
+    "ja": "当デッドスペースコンプレックスの内周防衛線における警備活動の拠点となるアウトポスト。",
+    "ko": "현 구역 데드스페이스 컴플렉스 내부 방어선의 보안 작전 기지입니다.",
+    "ru": "Эта станция является основой секретных операций в пределах периметра этого комплекса дэдспейса.",
+    "zh": "这个哨站是死亡空间复合体的内部环形防线安全控制的基地。"
+  },
+  "graphicID": 1683,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Security Outpost",
     "en": "Security Outpost",
@@ -10,5 +23,11 @@
     "ru": "Security Outpost",
     "zh": "安全哨站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 60.0,
+  "sofFactionName": "genericbase",
+  "soundID": 20173,
   "volume": 100000000.0
 }

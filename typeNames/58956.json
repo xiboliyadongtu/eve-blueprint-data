@@ -1,5 +1,18 @@
 {
-  "typeID": 58956,
+  "basePrice": 20000000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Subcapital-Industriekernmodulen. Pro Skillstufe wird der Verbrauch von schwerem Wasser bei der Aktivierung eines solchen Moduls um 20 Einheiten reduziert.",
+    "en": "Skill at the operation of subcapital industrial core modules.\r\n20-unit reduction in heavy water consumption amount for module activation per skill level.",
+    "es": "Habilidad para manejar módulos de núcleo industrial subcapitales.\n\nReducción de 20 unidades a la cantidad de consumo de agua pesada para la activación del módulo por nivel de habilidad.",
+    "fr": "Compétence liée à l'utilisation des modules de cellules industrielles sous-capitales. Réduit de 20 unités la consommation d'eau lourde pour l'activation des modules par niveau de compétence.",
+    "ja": "キャピタル未満の工業コアモジュールを操作するためのスキル。\n\nスキルレベル上昇ごとにモジュール起動時の重水消費量が20ユニット減少する。",
+    "ko": "서브캐피탈 인더스트리얼 코어 모듈을 사용하기 위해 필요한 스킬입니다.<br><br>매 레벨마다 소모되는 중수의 양이 20 유닛 감소합니다.",
+    "ru": "Навык управления модулями промышленных ядер стандартного тоннажа. Сокращение расхода тяжёлой воды для активации модуля на 20 ед. за каждую степень освоения навыка.",
+    "zh": "操作非旗舰工业核心装备的技能。\n\n每升一级，启用该装备时的重水消耗量减少20个单位。"
+  },
+  "groupID": 1218,
+  "iconID": 33,
+  "marketGroupID": 1323,
   "name": {
     "de": "Industrial Reconfiguration",
     "en": "Industrial Reconfiguration",
@@ -10,5 +23,7 @@
     "ru": "Industrial Reconfiguration",
     "zh": "工业配置操控技术"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

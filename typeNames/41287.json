@@ -1,5 +1,21 @@
 {
-  "typeID": 41287,
+  "basePrice": 325000.0,
+  "description": {
+    "de": "XL-Marschflugkörper sind für die Langstreckenbombardierung von Capital-Schiffen und Einrichtungen geeignet. Aufgrund ihrer speziellen Konstruktion können sie nur von Capital-Schiffen eingesetzt werden.\n\nIn einem elektromagnetischen Feld eingeschlossenes Plasma ermöglichte es dieser Lenkwaffe, ein flammendes Inferno der Zerstörung zu verursachen und ein nahezu unvorstellbares Ausmaß an Verwüstung anzurichten.\n\n\n\nEine modifizierte Version der Inferno Cruise. Verursacht größeren Schaden als die Vorgängermunition. Die Unberechenbarkeit des Gefechtskopfs und das leistungsstarke Abschirmsystem verringern jedoch sowohl Flugzeit als auch Genauigkeit.",
+    "en": "XL Cruise Missiles are designed for long range bombardment of capital ships and installations. They are a specialized design usable only by capital ships.\r\nPlasma suspended in an electromagnetic field gives this missile the ability to deliver a flaming inferno of destruction, wreaking almost unimaginable havoc.\r\n\r\nA modified version of the Inferno cruise. Does more damage than its predecessor, but the volatile nature of the warhead, and its powerful containment system, reduce both flight time and precision.",
+    "es": "Los misiles de crucero XL están diseñados para el bombardeo a larga distancia de las naves capitales e instalaciones. Su diseño especializado solo permite usarlos en naves capitales.\n\nEl plasma suspendido en un campo electromagnético proporciona a este misil la capacidad de desatar un apocalipsis infernal, provocando un caos casi inimaginable.\n\n\n\nVersión modificada del misil de crucero Inferno. Inflige más daño que su predecesor, pero la naturaleza volátil de la ojiva y su potente sistema de contención reducen tanto el tiempo de vuelo como la precisión.",
+    "fr": "Les missiles de croisière XL sont destinés au bombardement à longue portée des vaisseaux capitaux et des structures. Réservés aux vaisseaux capitaux.\n\nCes missiles de plasma suspendu au cœur d'un champ électromagnétique sèment un chaos incommensurable sur le champ de bataille dans un déluge de flammes.\n\n\n\nVersion modifiée du missile de croisière inferno. Ce missile inflige davantage de dégâts que son prédécesseur, au détriment d'un temps de vol accru et d'une précision dégradée par la masse du puissant système de confinement destiné à endiguer l'extrême instabilité de l'ogive explosive.",
+    "ja": "XLクルーズミサイルは、母艦や軍事施設を長距離から爆撃するのに用いる。特殊な設計のため、母艦でしか使用できない。このミサイルは電磁界を浮遊するプラズマを利用して圧倒的な火力を生み出し、驚くほど大きなダメージを与える。改良型インフェルノクルーズ。前身モデルよりも大きなダメージを与えることが可能だが、不安定な弾頭を頑丈な格納容器に込めているため、航行時間と精度が低下している。",
+    "ko": "장거리 크루즈 미사일로 캐피탈 함선 및 구조물 파괴에 특화되어 있습니다. 캐피탈급 함선에만 장착이 가능합니다. <br><br>EM 필드로 억눌린 플라즈마가 폭발하며 가공할만한 위력으로 모든 것을 파괴하고 불바다로 만듭니다. <br><br>개량된 인페르노 크루즈 미사일입니다. 기존 버전보다 파괴력은 뛰어나지만 탄두 자체의 불안성과 고성능 격납시스템으로 인해 사거리 및 정확도는 상대적으로 떨어집니다.",
+    "ru": "Ракеты дальнего боя сверхбольшой мощности предназначены для обстрела кораблей большого тоннажа и сооружений в космосе на больших расстояниях. Они могут запускаться только с кораблей большого тоннажа.\n\nБоеголовка этой ракеты, в которой электромагнитным полем удерживается раскаленная плазма, позволяет ей буквально погружать цели в адское пламя, нанося им поистине невообразимые повреждения.\n\n\n\nМодификация ракеты дальнего боя типа «Инферно». Обладает более значительным поражающим действием, чем базовая модель, но при этом имеет меньшую дальность полета и пониженную эффективность ввиду низкой стабильности боеголовки.",
+    "zh": "超大型巡航导弹是专门用于在远距离上对目标旗舰级舰船或建筑实施轰炸的武器。它们只能被旗舰级舰船所安装和使用。\n\n在电磁场中悬浮的等离子能够产生巨大的能量，对目标所造成的伤害也是难以想象的。\n\n\n\n这是炼狱巡航导弹的一种改良版本，相比其前身具备更强的伤害力，但由于其强大的密封系统及高度不稳定性，飞行时间和精度都有所降低。"
+  },
+  "graphicID": 20044,
+  "groupID": 1678,
+  "iconID": 184,
+  "marketGroupID": 2261,
+  "mass": 1500.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Inferno Fury XL Cruise Missile",
     "en": "Inferno Fury XL Cruise Missile",
@@ -10,5 +26,9 @@
     "ru": "Inferno Fury XL Cruise Missile",
     "zh": "炼狱愤怒超大型巡航导弹"
   },
+  "portionSize": 100,
+  "published": true,
+  "radius": 300.0,
+  "variationParentTypeID": 32440,
   "volume": 0.3
 }

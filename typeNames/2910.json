@@ -1,5 +1,16 @@
 {
-  "typeID": 2910,
+  "description": {
+    "de": "Dieses Schiff hat schon bessere Tage gesehen. Einige Teile fehlen, und es sieht aus, als wäre das Schiff auseinandergerissen worden. In seinem Inneren gibt es keine Lebenszeichen.",
+    "en": "This ship has seen better days. Parts of it are missing, looking as though the ship was torn apart. There are no signs of life inside, though.",
+    "es": "Esta nave ha visto días mejores. Faltan partes y parece que la nave fue destrozada. No hay señales de vida dentro.",
+    "fr": "Ce vaisseau a connu des jours meilleurs. Il manque de grandes parties de sa carcasse, comme s'il avait été déchiré en plusieurs morceaux. Aucune trace de vie à l'intérieur, cela dit.",
+    "ja": "この船は見る影もない有り様だ。まるで引き裂かれたかのようで、あちこちの部分は跡形もない。船内に生命体がいる徴候はない。",
+    "ko": "과거 전장을 누비던 함선입니다. 완전히 격파당한 형체로 군데군데 부품이 빠져있습니다. 내부에 생명의 흔적이 보이지 않습니다.",
+    "ru": "Этот корабль видал и лучшие времена. Части корпуса отсутствуют; такое ощущение, что корабль был разорван на части. Следов жизни внутри нет.",
+    "zh": "该船曾经风光过。现在已经残缺不全，好像是被撕裂了一般。船内没有任何生命迹象。"
+  },
+  "graphicID": 3087,
+  "groupID": 226,
   "name": {
     "de": "Gallente Passenger Liner Wreckage",
     "en": "Gallente Passenger Liner Wreckage",
@@ -10,5 +21,8 @@
     "ru": "Gallente Passenger Liner Wreckage",
     "zh": "盖伦特客轮残骸"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 550.0,
+  "sofFactionName": "gallentebase"
 }

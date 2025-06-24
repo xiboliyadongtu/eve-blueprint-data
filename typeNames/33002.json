@@ -1,5 +1,18 @@
 {
-  "typeID": 33002,
+  "basePrice": 250000.0,
+  "description": {
+    "de": "Skill zur Verstärkung von Radarsensoren gegen feindliche elektronische Gegenmaßnahmen-Module. 4% erhöhte Sensorstärke des Radars je Skillstufe.\n\n\n\nRadarsensoren finden sich in erster Linie auf den Schiffen von Amarr, Blood Raidern und Sanshas.",
+    "en": "Skill at hardening Radar Sensors against hostile Electronic Counter Measure modules. 4% improved Radar Sensor Strength per skill level.\r\n\r\nRadar Sensors are primarily found on Amarr, Blood Raider and Sanshas ships.",
+    "es": "Habilidad para fortalecer los sensores de radar contra los módulos hostiles de contramedidas electrónicas. Mejora del 4 % a la intensidad de los sensores de radar por nivel de habilidad.\n\nLos sensores de radar se encuentran principalmente en naves de Amarr, de los Saqueadores Sanguinarios y de los Sansha.",
+    "fr": "Compétence liée au renforcement des détecteurs radar face aux modules de contremesures électroniques ennemis. Augmente de 4 % par niveau de compétence la puissance de détection radar.\n\nLes détecteurs radar sont monnaie courante sur les vaisseaux amarr, blood raider et sansha.",
+    "ja": "電波センサーを強化して各種ECM兵器の攻撃に対抗するスキル。スキルレベル上昇ごとに電波センサー強度が4％上昇。\n\n電波センサーは主としてアマー、ブラッドレイダー、サンシャが艦船に採用している。",
+    "ko": "ECM 모듈에 대한 레이더 센서의 저항력을 향상하기 위한 스킬입니다. 매 레벨마다 레이더 센서 강도 4% 증가 <br><br>레이더 센서는 주로 아마르 제국, 블러드 레이더, 그리고 산샤 네이션 함선에 주로 탑재됩니다.",
+    "ru": "Навык повышения эффективности радарных сенсоров в условиях воздействия РЭБ-модулей противника. За каждую степень освоения навыка: на 4% повышается эффективность радарных систем.\n\n\n\nРадарные сенсоры обычно применяются на кораблях Амаррской Империи, «саншистов» и «охотников за кровью».",
+    "zh": "提高雷达感应器应对ECM攻击的能力的技能。每升一级，雷达感应器强度提高4%。雷达感应器多见于艾玛、血袭者和萨沙舰船。"
+  },
+  "groupID": 1213,
+  "iconID": 33,
+  "marketGroupID": 1748,
   "name": {
     "de": "Radar Sensor Compensation",
     "en": "Radar Sensor Compensation",
@@ -10,5 +23,7 @@
     "ru": "Повышение эффективности радарных систем",
     "zh": "雷达感应器补偿"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

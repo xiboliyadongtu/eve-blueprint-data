@@ -1,5 +1,18 @@
 {
-  "typeID": 16587,
+  "capacity": 90.0,
+  "description": {
+    "de": "Ein Geheimagent, der für die Gallente Föderation arbeitet. Er fliegt, aufgrund seines verdeckten Auftrages in der Caldari Navy, ein Caldari-Schiff.\r\n\r\nBedrohungsstufe: Sehr hoch",
+    "en": "A secret agent working for the Gallente Federation - flies a Caldari ship due to his undercover job as a pilot within the Caldari Navy. Threat level: Very high",
+    "es": "Agente de los servicios secretos que trabaja para la Federación Gallente. Dirige una nave caldari en su misión encubierta como piloto de la Armada Caldari. Nivel de amenaza: muy alto.",
+    "fr": "Agent secret travaillant pour la Fédération gallente. Il pilote un vaisseau caldari du fait de sa couverture de pilote au sein de la Caldari Navy. Niveau de menace : très élevé",
+    "ja": "ガレンテ連邦のエージェントで、カルダリ海軍で潜入調査を行っているため、カルダリの船を操舵している。危険度:非常に高い",
+    "ko": "갈란테 연합의 비밀 스파이입니다. 칼다리 함대의 파일럿으로 위장하여 첩보 활동을 하고 있습니다. 위험도: 매우 높음",
+    "ru": "Секретный агент, работающий на Федерацию Gallente. Летает на корабле Caldari в связи со своей работой под прикрытием в качестве пилота Флота Caldari. Уровень опасности: очень высокий",
+    "zh": "盖伦特特工，伪装为加达里海军飞行员，驾驶一艘加达里飞船。威胁等级：非常高"
+  },
+  "graphicID": 1793,
+  "groupID": 818,
+  "mass": 1680000.0,
   "name": {
     "de": "Torstan Kreoman",
     "en": "Torstan Kreoman",
@@ -10,5 +23,10 @@
     "ru": "Torstan Kreoman",
     "zh": "图尔斯坦·克勒曼"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 47.0,
+  "sofFactionName": "caldarinavy",
   "volume": 17400.0
 }

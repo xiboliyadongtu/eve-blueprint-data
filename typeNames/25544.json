@@ -1,5 +1,18 @@
 {
-  "typeID": 25544,
+  "basePrice": 30000000.0,
+  "description": {
+    "de": "Fertigkeit, Gaswolken abbauen zu können. Ermöglicht den Einsatz eines Gaswolken-Extraktors je Skillstufe.",
+    "en": "Skill at harvesting gas clouds. \r\nAllows use of one Gas Cloud Scoop per level.",
+    "es": "Habilidad en la recolección de nubes de gas.\n\nPermite usar un succionador de nubes de gas por nivel.",
+    "fr": "Compétence permettant la collecte de nuages de gaz. Permet d'utiliser un récupérateur de nuages de gaz par niveau.",
+    "ja": "ガス雲の採集スキル。 \n\nレベル上昇ごとに一つのガス雲スクープを使うことができる。",
+    "ko": "가스 추출에 사용되는 스킬입니다.<br><br>매 스킬 레벨마다 사용 가능한 가스 수집기 +1",
+    "ru": "Навык добычи газа из газовых облаков. Позволяет использовать один газочерпатель за каждую степень освоения навыка.",
+    "zh": "采集气云的技能。 \n\n每升一级，可同时多使用一个气云回收装置。"
+  },
+  "groupID": 1218,
+  "iconID": 33,
+  "marketGroupID": 1323,
   "name": {
     "de": "Gas Cloud Harvesting",
     "en": "Gas Cloud Harvesting",
@@ -10,5 +23,7 @@
     "ru": "Добыча газа",
     "zh": "气云采集理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

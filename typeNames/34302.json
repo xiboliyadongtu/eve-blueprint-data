@@ -1,5 +1,16 @@
 {
-  "typeID": 34302,
+  "description": {
+    "de": "Die Überbleibsel einer Plasmakammer, die benutzt wurde um große Mengen flüchtigen Materials zu lagern. Die Zerstörung der Kammer hat gefährliches Material in den umliegenden Weltraum ausgestoßen.",
+    "en": "These are the remains of a plasma chamber, used to store large quantities of volatile materials. The destruction of the chamber has released the hazardous materials into the surrounding space.",
+    "es": "Son los restos de una cámara de plasma que se usaba para almacenar grandes cantidades de materiales volátiles. La destrucción de la cámara ha liberado los materiales peligrosos en el espacio circundante.",
+    "fr": "Ce sont les restes d'une chambre plasma. Cette chambre était utilisée pour stocker de grandes quantités de matériaux instables. La destruction de la chambre a libéré les matériaux dangereux dans l'espace environnant.",
+    "ja": "揮発性物質を大量に格納するプラズマチャンバーの遺物。チャンバーが破壊されたことで、周囲の空間に有害物質がまき散らされている。",
+    "ko": "방대한 양의 폭발성 물질이 저장되어 있던 플라즈마 시설의 잔해물입니다. 시설이 파괴되며 유해한 물질이 대거 방출되었습니다.",
+    "ru": "Остатки плазменной ловушки, использовавшейся для хранения большого количества взрывоопасных материалов. Разрушение ловушки привело к утечке опасного содержимого в окружающий космос.",
+    "zh": "这是等离子室的遗址，过去用来储藏大量爆炸性物体。等离子室被毁坏，导致有毒物质流出到周围环境中。"
+  },
+  "graphicID": 2368,
+  "groupID": 226,
   "name": {
     "de": "Plasma Chamber Debris",
     "en": "Plasma Chamber Debris",
@@ -10,5 +21,9 @@
     "ru": "Обломки плазменной ловушки",
     "zh": "等离子室碎片"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 800.0,
+  "sofFactionName": "debris"
 }

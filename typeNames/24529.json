@@ -1,5 +1,21 @@
 {
-  "typeID": 24529,
+  "basePrice": 1500245.0,
+  "description": {
+    "de": "Eine ultraschwere Lenkwaffe mit Durchschlagkopf. Sie ist zwar ein langsames Projektil, aber ihr bloßes Schadenspotential ist einfach überwältigend.\n\nEine modifizierte Version des Scourge Torpedo. Kann höhere Geschwindigkeiten als der Scourge Torpedo auf Kosten der Größe des Sprengkopfs erreichen.",
+    "en": "An ultra-heavy piercing missile. While it is a slow projectile, its sheer damage potential is simply staggering.\r\n\r\nA modified version of the Scourge Torpedo. It can reach higher velocity than the Scourge Torpedo at the expense of warhead size.",
+    "es": "Misil perforante ultrapesado. Aunque lento, su potencial de daño real resulta impresionante.\n\nVersión modificada del torpedo Scourge. Puede alcanzar más velocidad que el torpedo Scourge a costa del tamaño de su ojiva.",
+    "fr": "Missile perforant ultra-lourd. Il s'agit certes d'un projectile assez lent, mais au potentiel destructeur tout simplement impressionnant.\n\nVersion modifiée de la torpille Scourge. Elle peut atteindre une vitesse plus élevée que la torpille Scourge, aux dépens toutefois de la taille de l'ogive.",
+    "ja": "ウルトラヘビーピアシングミサイル。速度は遅いが、その破壊力は実に驚異的。スコージトルピードの改良版。従来型より速度が向上したが、そのぶん弾頭が小さめになっている。",
+    "ko": "대형 관통 미사일입니다. 느린 비행 속도를 지니고 있으나 타격 시 적에게 치명적인 피해를 입힙니다. <br><br>개량된 스커지 토피도입니다. 기존의 스커지 토피도에 비해 탄두 크기가 작아진 대신 최대 비행속도가 증가했습니다.",
+    "ru": "Сверхтяжелая бронебойная ракета. Отличается низкой скоростью, но ее ударная мощь поражает воображение. Модификация торпеды Scourge. Способна развивать более высокую скорость, чем торпеда Scourge, но отличается уменьшенным размером заряда.",
+    "zh": "一种终极重型穿刺导弹。虽然慢而笨重，但是破坏力着实惊人。这是鞭挞鱼雷的一种改良版本，它相比普通鞭挞鱼雷而言飞行速度更快，但代价是弹头尺寸变小。"
+  },
+  "graphicID": 20014,
+  "groupID": 657,
+  "iconID": 1346,
+  "marketGroupID": 929,
+  "mass": 1500.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Scourge Javelin Torpedo",
     "en": "Scourge Javelin Torpedo",
@@ -10,5 +26,9 @@
     "ru": "Scourge Javelin Torpedo",
     "zh": "鞭挞标枪鱼雷"
   },
+  "portionSize": 5000,
+  "published": true,
+  "radius": 300.0,
+  "variationParentTypeID": 267,
   "volume": 0.05
 }

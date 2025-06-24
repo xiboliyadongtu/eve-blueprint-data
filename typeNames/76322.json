@@ -1,5 +1,18 @@
 {
-  "typeID": 76322,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese militärische Forschungseinrichtung wurde von der Föderation der Gallente angelegt, um <a href=showinfo:76204>Transportrelais-Datenkerne</a> zu sammeln und zu analysieren, die von loyalen Kapselpiloten mithilfe von Daten aus Anlagen rivalisierender Imperien rekonstruiert wurden. Kapselpiloten, die <a href=showinfo:76204>Transportrelais-Datenkerne</a> in dieser Anlage deponieren, erhalten spezielle Belohnungskisten für den inoffiziellen Krieg mit einer Vielzahl von Belohnungen, darunter Loyalitätsmarken, die auf dem Markt teilnehmender Gallente-Stationen für ISK verkauft werden können.",
+    "en": "This military research facility has been established by the Gallente Federation to collect and analyze <a href=showinfo:76204>Transport Relay Datacores</a> reconstructed by loyalist capsuleers using data obtained from rival empire facilities.\r\n\r\nCapsuleers who deposit stacks of <a href=showinfo:76204>Transport Relay Datacores</a> into this structure will receive special Shadow War Reward Crates containing a variety of rewards including loyalty tokens which can be sold for ISK on the market at participating Gallente Stations.",
+    "es": "La Federación Gallente ha establecido este centro de investigación militar para recopilar y analizar <a href=showinfo:76204>núcleos de datos de relés de transporte</a> reconstruidos por capsulistas leales mediante los datos obtenidos de centros de imperios rivales.\n\nLos capsulistas que depositen pilas de <a href=showinfo:76204>núcleos de datos de relés de transporte</a> en esta estructura recibirán cajas de retribución de la guerra sombría especiales que contienen, entre otros, fichas de lealtad que se pueden vender por ISK en el mercado de las estaciones gallentes participantes.",
+    "fr": "Cette unité de recherche militaire a été créée par la Fédération gallente pour collecter et analyser les <a href=showinfo:76204>banques de données du relais de transport</a> reconstruites par des capsuliers loyalistes à partir de données obtenues dans des installations impériales rivales. Des caisses de récompenses de la guerre secrète seront remises aux capsuliers qui pourvoiront cette structure en <a href=showinfo:76204>banques de données du relais de transport</a>. Elles contiennent un éventail de récompenses, dont des jetons de loyauté qui pourront être échangés contre des ISK sur le marché aux stations gallente participantes.",
+    "ja": "忠誠心あるカプセラがライバル大国の施設から入手したデータを使って再現した<a href=showinfo:76204>輸送中継データコア</a>を収集、分析するためにガレンテ連邦によって設置された軍事研究施設。\n\nこのストラクチャに大量の<a href=showinfo:76204>輸送中継データコア</a>を預けたカプセラは、対象のガレンテステーションのマーケットで売却してISKを手に入れることができるロイヤルティトークンを含む、様々な報酬が入った特別な影の戦争報酬箱を与えられる。",
+    "ko": "갈란테 연방이 <a href=showinfo:76204>전송 연계 시설 데이터코어</a>를 수집해 연구하기 위해 건설한 군사 연구 시설입니다.<br><br>캡슐리어는 다른 국가의 <a href=showinfo:76204>전송 연계 시설 데이터코어</a>를 입수해서 이 연구실험실에 제출하면 정보전 보상 상자를 받을 수 있습니다. 상자에는 갈란테 정거장 거래소에서 ISK로 거래할 수 있는 로열티 토큰을 비롯한 다양한 아이템이 포함되어 있습니다.",
+    "ru": "Эта военная научная база Галлентской Федерации предназначена для сбора и анализа <a href=showinfo:76204>инфоблоков транспортных ретрансляторов</a>. Капсулёры-союзники восстанавливают эти инфоблоки из данных, добытых на научных базах конкурента. Пилоты, поставляющие этому сооружению <a href=showinfo:76204>инфоблоки транспортных ретрансляторов</a>, получат особые контейнеры с наградами «Теневая война». Контейнеры содержат ценные предметы, в том числе наградные жетоны, которые можно продать за ISK в торговой системе на галлентских станциях, входящих в зону боевых действий.",
+    "zh": "该军事研究设施由盖伦特联邦建立，用于收集和分析<a href=showinfo:76204>传输中继数据核心</a>，这些数据核心由忠诚的克隆飞行员使用从敌对帝国设施中获得的数据重建而成。在这座建筑中上交<a href=showinfo:76204>传输中继数据核心</a>的克隆飞行员将获得特殊的暗影战争奖励箱，包含各种奖励，其中的忠诚凭据可以在参与活动的盖伦特空间站市场上出售换取星币。"
+  },
+  "graphicID": 25718,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Federation Transport Relay Research Laboratory",
     "en": "Federation Transport Relay Research Laboratory",
@@ -10,5 +23,10 @@
     "ru": "Federation Transport Relay Research Laboratory",
     "zh": "联邦运输中继研究实验室"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 20000.0,
+  "sofFactionName": "gallentenavy",
   "volume": 100000000.0
 }

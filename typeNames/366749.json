@@ -1,5 +1,17 @@
 {
-  "typeID": 366749,
+  "basePrice": 3420.0,
+  "description": {
+    "de": "Das Tarnungsfeld absorbiert elektromagnetische Strahlung und beeinflusst das Licht, um den Dropsuit praktisch unsichtbar zu machen. Im aktiven Zustand ändert das Feld die magnetische Durchlässigkeit der Dropsuitoberfläche, um eine negative, lichtbrechende Erscheinung zu erzeugen. Im getarnten Zustand wird die Fähigkeit des Dropsuits, magnetometrische Wellen aufzunehmen, leicht verringert, wodurch er alle mit Ausnahme der empfindlichsten Scansysteme umgehen kann. Jedoch wird die stufenweise auftretende Verzerrung, bedingt durch den Einsatz von Waffen oder Equipment, die Sensoren des Dropsuits desynchronisieren und die Tarnung erschweren.",
+    "en": "The cloak field absorbs electromagnetic emissions and manipulates light to render the dropsuit practically invisible. When active, the field alters the magnetic permeability of the suit’s surface area to generate a negative refractive index. \r\n\r\nWhile cloaked, the suit’s susceptibility to magnetometric waves is moderately reduced, allowing it to evade all but the most sensitive scanning systems. However, cascading distortion introduced by weapon or equipment activation will desychronize the suit’s sensors and short-circuit the cloak.",
+    "es": "El campo de camuflaje absorbe las emisiones electromagnéticas y manipula la luz para que el traje resulte prácticamente invisible. Cuando está activo, alterna la permeabilidad magnética de la superficie del traje para generar un índice refractivo negativo. \n\nMientras está camuflado, la susceptibilidad a las ondas magnetométricas se reduce de forma moderada, lo que le permite evadir hasta los sistemas de escaneo más sensibles. Sin embargo, la distorsión que se propaga a raíz de la activación del arma o el equipamiento desincroniza los sensores del traje y cortocircuita el camuflaje.",
+    "fr": "Le champ de camouflage absorbe les émissions électromagnétiques et manipule la lumière jusqu'à rendre la combinaison pratiquement invisible. Lorsqu'il est activé, le champ de camouflage altère la perméabilité magnétique de la surface de la combinaison afin de générer un indice de réfraction négatif. La vulnérabilité aux ondes magnétométriques de la combinaison camouflée est relativement réduite, ainsi elle ne peut être détectée que par les systèmes de balayage les plus sensibles. Toutefois, le flux de distorsion créé par une arme ou l'activation d'un équipement provoque la désynchronisation des capteurs de la combinaison et le court-circuitage du camouflage.",
+    "it": "Il campo di copertura assorbe le emissioni elettromagnetiche e manipola la luce affinché l'armatura risulti praticamente invisibile. Quando è attivo, il campo altera la permeabilità magnetica della superficie dell'armatura, generando un indice di rifrazione negativo. Quando l'armatura è in copertura, la sua sensibilità alle onde magnetometriche è moderatamente ridotta ed essa riesce a evitare tutti i sistemi di scansione, tranne quelli più sensibili. Tuttavia, la distorsione a cascata introdotta da un'arma o dall'attivazione dell'equipaggiamento, desincronizza i sensori dell'armatura e manda in corto circuito la copertura.",
+    "ja": "クロークフィールドは電磁気放出を吸収し、光を操作して降下スーツを実質的に見えなくする。有効になると、マイナス屈折インデックスを生成するために、フィールドはスーツの表面の電磁気導磁性を変える。クロークしている間は、磁気波に対するスーツの影響度は適度に減少し、最も反応が良いスキャニングシステムを除き、他のすべてから逃れることができる。しかし、兵器や装備起動によって引き起こされた連鎖歪曲は、スーツのセンサーを非同期させて、クロークをショートさせる。",
+    "ko": "클로킹 필드는 빛을 흡수하는 동시에 전자파를 방사하여 드롭슈트 착용자를 투명에 가깝도록 위장합니다. 일단 슈트가 활성화되면 클로킹 필드가 자기장 투과율을 수정하여 음성 굴절률 인덱스를 생성합니다. <br><br>이로 인해 슈트에서 발산하는 자기장 및 전자파 민감도를 상당 부분 감소시켜 고도로 민감한 스캔 장치를 제외하면 착용자를 감지할 수 없도록 합니다. 그러나 착용자의 다른 장비나 교전과 같은 외부적 영향은 슈트 센서의 비동기화를 초래하여 슈트의 회로를 합선시킬 것입니다.",
+    "ru": "Чтобы сделать скафандр практически невидимым, маскирующее поле поглощает электромагнитные излучения и манипулирует светом. В активном состоянии поле изменяет магнитную проницаемость поверхности скафандра для выработки отрицательного индекса преломления. Реакция скафандра на магнитометрические волны при включенном маскировочном поле несколько ослаблена, что позволяет избежать обнаружения почти всеми сканирующими системами, за исключением наиболее чувствительных. Тем не менее, последовательные искажения, вызванные активацией оружия или снаряжения, могут нарушить синхронизацию датчиков скафандра и привести к короткому замыканию маскирующего поля.",
+    "zh": "隐形力场会吸收电磁发射并操纵光线，使作战服几乎隐形。启用力场后，套装表面的磁导率会发生改变，可以产生负折射率。在隐形状态下，作战服对磁测波的敏感性会适当下降，除了最敏感的扫描系统外，它几乎可以躲避所有扫描系统。不过，启用武器或设备后，产生的级联畸变会导致套装传感器无法同步，并造成隐形短路。"
+  },
+  "groupID": 351844,
   "name": {
     "de": "Tarnungsfeld 'Apparition'",
     "en": "'Apparition' Cloak Field",
@@ -11,5 +23,7 @@
     "ru": "Маскирующее поле 'Apparition'",
     "zh": "“幽灵”级隐形力场"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

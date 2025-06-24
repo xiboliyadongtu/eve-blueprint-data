@@ -1,5 +1,18 @@
 {
-  "typeID": 21718,
+  "basePrice": 250000.0,
+  "description": {
+    "de": "Die Fähigkeit, in geschützte Computersysteme eindringen zu können. Erforderlicher Skill für die Verwendung von Datenanalysatoren.\n\nZusätzlich +10 Virenkohärenz pro Level",
+    "en": "Proficiency at breaking into guarded computer systems. Required skill for the use of Data Analyzer modules.\r\n\r\nGives +10 Virus Coherence per level.",
+    "es": "Aptitudes para infiltrarse en sistemas informáticos protegidos. Habilidad necesaria para el uso de módulos analizadores de datos.\n\nOtorga +10 de coherencia del virus por nivel.",
+    "fr": "Compétence permettant de pirater des systèmes informatiques sécurisés. Elle est nécessaire pour l'utilisation des modules d'analyseur de données.\n\nAugmente de 10 la Résistance virale par niveau.",
+    "ja": "コンピュータシステムにセキュリティを破って侵入するスキル。データアナライザーモジュールの使用に必要。ウイルスコヒーレンスがレベル上昇ごとに10ポイント上昇。",
+    "ko": "보안 시스템 침입 시 활용되는 스킬입니다. 데이터 분석기 모듈을 사용하려면 해당 스킬이 필요합니다. <br><br>매 레벨마다 바이러스 결합도+10",
+    "ru": "Умение взламывать защищённые компьютерные системы. Навык, необходимый для использования комплексов для сбора данных.\n\n\n\nЗа каждую степень освоения навыка: на 10 единиц повышается степень целостности вирусов, запускаемых посредством комплексов для сбора данных.",
+    "zh": "入侵受保护的计算机系统的技能。这是使用数据分析装备的必需技能。\n\n每升一级，病毒的同步率+10。"
+  },
+  "groupID": 1217,
+  "iconID": 33,
+  "marketGroupID": 1110,
   "name": {
     "de": "Hacking",
     "en": "Hacking",
@@ -10,5 +23,7 @@
     "ru": "Взлом электронных систем",
     "zh": "电脑破译原理"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

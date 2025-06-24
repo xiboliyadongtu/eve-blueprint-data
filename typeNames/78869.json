@@ -1,5 +1,19 @@
 {
-  "typeID": 78869,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese Anlage des Angel Cartels wurde von den aufständischen Kräften der Malakim Zealots eingerichtet, um als Depot für gestohlene Waren zu fungieren und diese auf den grauen und schwarzen Märkten umzuschlagen. Zweifellos unterstützt das Schmugglernetzwerk des Deathless Circle diese Bemühungen und erhält einen angemessenen Anteil. Mitglieder der Kapselpiloten der Malakim Zealots können bestimmte, aus Corporations-Anlagen und von Sicherheitskräften erlangte Gegenstände gegen angemessene Vergütung abliefern.",
+    "en": "This Angel Cartel facility has been set up by the insurgent forces of the Malakim Zealots to function as a depot to receive stolen goods and launder them on into the grey and black markets. The smuggling network of the Deathless Circle is no doubt assisting in this effort and taking a suitable cut.\r\n\r\nCapsuleer members of the Malakim Zealots will be able to hand in certain items acquired from corporate facilities and security forces in exchange for suitable recompense.",
+    "es": "Las fuerzas insurgentes de los Fanáticos de Malakim han establecido este centro del Cártel de los Ángeles para que funcione como un depósito encargado de recibir bienes robados y blanquearlos en los mercados gris y negro. Sin duda, la red de contrabando del Círculo Inmortal está ayudando en este esfuerzo y obteniendo una parte adecuada.\r\n\r\nLos capsulistas de los Fanáticos de Malakim podrán entregar ciertos objetos adquiridos en centros corporativos y fuerzas de seguridad a cambio de una compensación adecuada.",
+    "fr": "Cette installation du cartel Angel a été mise en place par les forces insurgées des Zélotes Malakim pour faire office de dépôt afin de recevoir des biens volés et de les blanchir sur les marchés gris et noirs. Il ne fait aucun doute que le réseau de contrebande du Cercle Immortel assiste dans cet effort et prélève une part appropriée en contrepartie. Les capsuliers membres des zélotes Malakim pourront y déposer certains objets acquis sur les installations de corporations et pris aux forces de sécurité en échange d'une récompense adéquate.",
+    "ja": "このエンジェルカルテルの施設は、強奪物資を集め、足が付かないようにした上でブラックマーケットやグレーマーケットに流すため、反乱軍であるマラキム献身隊が建設した貯蔵所である。デスレス・サークルの密輸ネットワークがこの活動に加担し、それに応じた分け前を受け取っているのは間違いない。\r\n\r\nマラキム献身隊の一員であるカプセラは、コーポレーションの施設や警備部隊から奪った特定の品物をここで引き渡すことで、相応の報酬を受け取ることができる。",
+    "ko": "말라킴 질럿이 설치한 엔젤 카르텔 시설입니다. 각종 장물을 암시장에 팔아 자금을 세탁합니다. 데스리스 서클이 밀수 루트를 제공하고 수수료를 받는 식으로 운영되는 것이 분명합니다.<br><br>말라킴 질럿 소속의 캡슐리어는 코퍼레이션 시설이나 여러 국가의 보안군을 공격해 입수한 장물을 이곳에서 보상으로 교환할 수 있습니다.",
+    "ru": "Этот пункт картеля «ангелов» создан интервентами из «Ревнителей Малаким» и представляет собой склад для хранения добытых нечестным путём товаров с целью их последующей продажи на серый и чёрный рынки. Нет никаких сомнений, что сеть контрабандистов из «Бессмертного круга» помогает пиратам сбывать добычу за соответствующий процент. Капсулёры из «Ревнителей Малаким» могут сдавать сюда определённые предметы, украденные у корпораций и сил безопасности, и получать за них достойное вознаграждение.",
+    "zh": "这座天使设施由摩拉基穆狂热分子掌管的义军部队建造，主要用来存放盗窃所得物品，然后投放到灰市和黑市上进行洗钱。不死循环无疑利用其走私网络助长了这一勾当，并从中分得一杯羹。属于摩拉基穆狂热分子成员的克隆飞行员可以上交从军团设施和安保部队获取的特定物品，以换取相应报酬。"
+  },
+  "factionID": 500011,
+  "graphicID": 25311,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Angel Laundering Facility",
     "en": "Angel Laundering Facility",
@@ -10,5 +24,10 @@
     "ru": "Angel Laundering Facility",
     "zh": "天使洗钱设施"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 20000.0,
+  "sofFactionName": "angelbase",
   "volume": 100000000.0
 }

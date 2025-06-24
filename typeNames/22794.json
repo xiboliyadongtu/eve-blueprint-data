@@ -1,5 +1,18 @@
 {
-  "typeID": 22794,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Ein örtliches Gefängnis.",
+    "en": "A local prison facility.",
+    "es": "Un centro penitenciario local.",
+    "fr": "Prison locale.",
+    "ja": "地域の刑務所。",
+    "ko": "지역 수감시설입니다.",
+    "ru": "NULL",
+    "zh": "一个当地监狱设施 。"
+  },
+  "graphicID": 2520,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Habitation Module",
     "en": "Habitation Module",
@@ -10,5 +23,10 @@
     "ru": "Habitation Module",
     "zh": "居住舱"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 416.0,
+  "sofFactionName": "genericprison",
+  "soundID": 31,
   "volume": 100000000.0
 }

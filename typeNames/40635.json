@@ -1,5 +1,19 @@
 {
-  "typeID": 40635,
+  "basePrice": 400000000.0,
+  "description": {
+    "de": "Sendet ein elektronisches Schockfeld, das um das angesetzte Ziel zentriert ist. Der Schock reduziert die maximale Geschwindigkeit des betroffenen Schiffes.\n\n\n\nHinweis: Nur Supercarrier können mit Modulen dieses Typs ausgestattet werden. Es kann nur ein Modul dieses Typs je Supercarrier gleichzeitig eingebaut sein.",
+    "en": "Emits an area-of-effect burst, centered on the designated location. The burst reduces the maximum speed of the affected ships.\r\n\r\nNote: Only Supercarriers can fit modules of this type. Only one module of this type can be fit per Supercarrier.",
+    "es": "Emite un estallido de radio de acción centrado en la ubicación designada que reduce la velocidad máxima de las naves afectadas.\n\n\n\nAviso: La única nave que puede equiparse con este tipo de módulo es el superportanaves, que solo puede tener uno de estos módulos instalados cada vez.",
+    "fr": "Émet une salve électronique à effet de zone centrée sur la cible désignée, qui réduit la vitesse maximum de tous les vaisseaux affectés.\n\n\n\nRemarque : réservé aux super porte-vaisseaux. Un seul module de ce type peut être équipé à la fois par super porte-vaisseaux.",
+    "ja": "指定位置を中心とした範囲攻撃バーストを放射する。バーストを受けた艦船は最大速度が低下する。注： このタイプのモジュールは大型艦載機母艦にのみ装備可能。このタイプのモジュールは大型艦載機母艦につき一つだけ装備可能。",
+    "ko": "지정된 위치를 중심으로 광범위 버스트를 방출합니다. 버스트 영향을 받은 함선들의 최대 비행속도가 감소합니다. <br><br>참고: 슈퍼캐리어급 함선에만 장착이 가능합니다. 동일한 종류의 모델은 한 개만 장착할 수 있습니다.",
+    "ru": "Испускает вспышку с центром на захваченной цели. Вспышка снижает скорость полного хода кораблей, попавших в зону поражения.\n\n\n\nПримечание: этот модуль можно устанавливать только на суперКАРы (Supercarrier). На корабль может быть установлен только один модуль этого типа.",
+    "zh": "发射以指定位置为中心的区域爆炸效果。这种脉冲波降低受影响舰船的最大速度。\n\n\n\n注：只有超级航母可以装配这类装备。且一艘超级航母只能装配一件这类装备。"
+  },
+  "groupID": 842,
+  "iconID": 21608,
+  "marketGroupID": 2249,
+  "mass": 1000.0,
   "name": {
     "de": "Stasis Webification Burst Projector",
     "en": "Stasis Webification Burst Projector",
@@ -10,5 +24,7 @@
     "ru": "Stasis Webification Burst Projector",
     "zh": "停滞缠绕脉冲波投射器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 8000.0
 }

@@ -1,5 +1,80 @@
 {
-  "typeID": 3516,
+  "basePrice": 16100000.0,
+  "capacity": 210.0,
+  "description": {
+    "de": "Die Malice ist eine Angriffsfregatte, die exklusiv als Belohnung für das 9. Allianzturnier in Auftrag gegeben wurde. An ihrem metallüberzogenen Rumpf trägt sie angepasste Metalllegierungen zur Schau und ist eines der teuersten Schiffe ihrer Klasse. Die Malice ist jedoch weit mehr als nur ein Schmuckstück: Sie ist mit qualitativen Waffensystemen, starker defensiver Panzerung und einem massiven Energiespeicher ausgestattet und ihre stark angepassten Energie-Destabilisierungssysteme machen sie in jeder Begegnung zu einem ernstzunehmenden Gegner.",
+    "en": "The Malice is an assault frigate design exclusively commissioned as a reward in the ninth Alliance Tournament. Sporting custom metal alloys in its plated carapace, it is one of the most expensive ships ever produced in its class. Far from being a mere ornament, though, the Malice features quality armament systems, strong defensive plating and a massive capacitor, and its vastly augmented facility for energy destabilization makes it a formidable adversary in any engagement.",
+    "es": "La Malice es un diseño de fragata de asalto encargado exclusivamente como retribución para el IX Torneo de Alianzas. Con una carcasa de placas de aleaciones de metal personalizadas, se trata de una de las naves de su clase más caras jamás construidas. Pero, lejos de ser un simple adorno, la Malice presenta sistemas de armamento de calidad, un revestimiento defensivo fuerte y un enorme condensador, y sus instalaciones de desestabilización de energía ampliamente aumentadas la convierten en un adversario formidable en cualquier enfrentamiento.",
+    "fr": "Le Malice est une frégate d'assaut conçue spécialement en vue d'être offerte en guise de récompense lors du neuvième Tournoi des alliances. L'alliage personnalisé en métal qui forme son blindage en fait l'un des vaisseaux de sa classe les plus chers. Bien plus qu'une simple décoration toutefois, le Malice présente des systèmes d'armement de qualité, un blindage défensif solide et un capaciteur imposant. Par ailleurs, son équipement de déstabilisation d'énergie en fait un redoutable adversaire au combat.",
+    "ja": "マライスは第9回アライアンストーナメントの賞品として贈呈された、限定生産モデルの強襲型フリゲートである。特注合金を装甲に使用しており、建造費用はこのクラスの艦船としては史上最高の部類に入る。しかしながら、マライスは単なるお飾りとはほど遠く、優秀な兵器システム、強固な防衛装甲、しっかりしたキャパシタを兼ね備え、大幅に強化されたエネルギーディスタビリゼーション用機関とあいまって、どのような戦闘でも手強い敵となる。",
+    "ko": "제9회 얼라이언스 토너먼트의 보상으로 지급된 어썰트 프리깃입니다. 자체 제작한 합금으로 선체 플레이팅을 장식한 이 프리깃은 같은급 함선 중 가장 비싼 기종 중 하나입니다. 그러나 멋지기만 한 함선은 아니며 상당한 무기 시스템, 견고한 플레이팅, 거대한 캐패시터, 그리고 에너지 뉴트럴라이저 장비를 갖추어 그 어떤 교전에서도 막강한 모습을 보입니다.",
+    "ru": "Ударные корабли типа «Малис» были созданы специально для победителей девятого Турнира альянсов. Им почти нет равных по дороговизне — бронеплиты, из которых собраны их корпуса, изготовлены из особых сплавов. В то же время корабли этого проекта никак не назовешь безделушками — они оснащены современными оружейными системами, хорошей броневой защитой и энергетическим накопителем большой емкости. Кроме того, не следует забывать об установленных на борту этих кораблей мощных нейтрализаторах накопленного заряда; их стоит опасаться всем без исключения пилотам.",
+    "zh": "恶意级是一艘突击护卫舰，经过特别设计，专门作为第九届联盟锦标赛的奖品。由于在外壳装甲中加入了特别定制的金属合金，它是同级别舰船中有史以来最昂贵的之一。不过，它可绝不仅仅只是一个华而不实的装饰品。恶意级不仅拥有高质量的武器系统、强大的防御装甲以及巨大的电容量，而且它那大大增强过的能量扰乱设备也使得它在任何战斗中都是一个难以对付的敌手。"
+  },
+  "factionID": 500003,
+  "graphicID": 10950,
+  "groupID": 324,
+  "marketGroupID": 1623,
+  "mass": 1271000.0,
+  "masteries": {
+    "0": [
+      96,
+      97,
+      99,
+      164,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "1": [
+      96,
+      97,
+      99,
+      164,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "2": [
+      96,
+      97,
+      99,
+      164,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "3": [
+      96,
+      97,
+      99,
+      164,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "4": [
+      96,
+      97,
+      99,
+      164,
+      50,
+      117,
+      150,
+      89,
+      93,
+      94
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Malice",
     "en": "Malice",
@@ -9,6 +84,125 @@
     "ko": "맬리스",
     "ru": "Malice",
     "zh": "恶意级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 35.0,
+  "sofFactionName": "tournament-ix",
+  "sofMaterialSetID": 36,
+  "soundID": 20063,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Kann <a href=showinfo:47254>Angriffsschadensregulierer</a> ausrüsten",
+          "en": "Can fit <a href=showinfo:47254>Assault Damage Controls</a>",
+          "es": "Es posible equipar <a href=showinfo:47254>controles de daños por asalto</a>.",
+          "fr": "Peut être équipé des <a href=showinfo:47254>contrôles des dégâts d'assaut</a>",
+          "ja": "<a href=showinfo:47254>アサルトダメージ制御</a>を装備可能",
+          "ko": "<a href=showinfo:47254>어썰트 데미지 컨트롤</a> 장착가능",
+          "ru": "Позволяет установить <a href=showinfo:47254>ударные модули боевой живучести</a>",
+          "zh": "可以装配<a href=showinfo:47254>突击损伤控制</a>装备"
+        },
+        "importance": 3
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Bonus auf die optimale Reichweite von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:3303>Small Energy Turret</a> optimal range",
+          "es": "de bonificación al alcance óptimo de la <a href=showinfo:3303>torreta de energía pequeña</a>.",
+          "fr": "de bonus à la portée optimale des <a href=showinfo:3303>petites tourelles à énergie</a>",
+          "ja": "<a href=showinfo:3303>小型エネルギータレット</a>の最適射程距離が拡大",
+          "ko": "<a href=showinfo:3303>소형 에너지 터렛</a> 최적사거리 증가",
+          "ru": "увеличивается оптимальная дальность ведения огня из <a href=showinfo:3303>малых лазерных орудий</a>",
+          "zh": "<a href=\"showinfo:3303\">小型能量炮台</a>最佳射程加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 100.0,
+        "bonusText": {
+          "de": "Bonus auf den Schaden von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:3303>Small Energy Turret</a> damage",
+          "es": "de bonificación al daño de la <a href=showinfo:3303>torreta de energía pequeña</a>.",
+          "fr": "de bonus aux dégâts des <a href=showinfo:3303>petites tourelles à énergie</a>",
+          "ja": "<a href=showinfo:3303>小型エネルギータレット</a>のダメージが増加",
+          "ko": "<a href=showinfo:3303>소형 에너지 터렛</a> 피해량 증가",
+          "ru": "увеличивается урон <a href=showinfo:3303>малых лазерных орудий</a>",
+          "zh": "<a href=\"showinfo:3303\">小型能量炮台</a>伤害加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3331": [
+        {
+          "bonus": 4.0,
+          "bonusText": {
+            "de": "Bonus auf alle Panzerungsresistenzen",
+            "en": "bonus to all armor resistances",
+            "es": "de bonificación a todas las resistencias de blindaje.",
+            "fr": "de bonus à toutes les résistances du blindage",
+            "ja": "全てのアーマーレジスタンスが増加",
+            "ko": "모든 장갑 저항력 증가",
+            "ru": "повышается сопротивляемость брони корабля всем видам воздействия",
+            "zh": "装甲抗性加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die Präzisionsabfallreichweite von <a href=showinfo:3423>Nosferatu-</a> und <a href=showinfo:3423>Energieneutralisierer</a>-Modulen",
+            "en": "bonus to <a href=showinfo:3423>Energy Nosferatu</a> and <a href=showinfo:3423>Energy Neutralizer</a> falloff range",
+            "es": "de bonificación al alcance efectivo del <a href=showinfo:3423>nosferatu de energía</a> y el <a href=showinfo:3423>neutralizador energético</a>.",
+            "fr": "de bonus à la perte du <a href=showinfo:3423>nosferatu à énergie</a> et du <a href=showinfo:3423>neutraliseur d'énergie</a>",
+            "ja": "<a href=showinfo:3423>エネルギーノスフェラトゥ</a>および<a href=showinfo:3423>エネルギーニュートライザー</a>の精度低下範囲が改善",
+            "ko": "<a href=showinfo:3423>에너지 노스페라투</a> 및 <a href=showinfo:3423>에너지 뉴트럴라이저</a> 유효사거리 증가",
+            "ru": "увеличивается добавочная дальность действия <a href=showinfo:3423>дистанционных нейтрализаторов заряда</a> и <a href=showinfo:3423>устройств паразитной подзарядки накопителя</a>",
+            "zh": "<a href=showinfo:3423>掠能器</a>和<a href=showinfo:3423>能量中和器</a>失准范围加成"
+          },
+          "importance": 4,
+          "unitID": 105
+        },
+        {
+          "bonus": 20.0,
+          "bonusText": {
+            "de": "Bonus auf die Transfermenge von <a href=showinfo:3423>Nosferatu-</a> und <a href=showinfo:3423>Energieneutralisierer</a>-Modulen",
+            "en": "bonus to <a href=showinfo:3423>Energy Nosferatu</a> and <a href=showinfo:3423>Energy Neutralizer</a> drain amount",
+            "es": "de bonificación a la cantidad drenada por el <a href=showinfo:3423>nosferatu de energía</a> y el <a href=showinfo:3423>neutralizador energético</a>.",
+            "fr": "de bonus à la quantité d'énergie récupérée par le <a href=showinfo:3423>Nosferatu à énergie</a> et le <a href=showinfo:3423>neutraliseur d'énergie</a>",
+            "ja": "<a href=showinfo:3423>エネルギーノスフェラトゥ</a>および<a href=showinfo:3423>エネルギーニュートライザー</a>の消費量が改善",
+            "ko": "<a href=showinfo:3423>에너지 노스페라투</a> 및 <a href=showinfo:3423>에너지 뉴트럴라이저</a> 흡수량 증가",
+            "ru": "увеличивается пропускная способность <a href=showinfo:3423>устройств паразитной подзарядки накопителя</a> и <a href=showinfo:3423>дистанционных нейтрализаторов заряда</a>",
+            "zh": "<a href=showinfo:3423>掠能器</a>和<a href=showinfo:3423>能量中和器</a>吸取量加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 20.0,
+          "bonusText": {
+            "de": "Bonus auf die optimale Reichweite von <a href=showinfo:3423>Nosferatu-</a> und <a href=showinfo:3423>Energieneutralisierer</a>-Modulen",
+            "en": "bonus to <a href=showinfo:3423>Energy Nosferatu</a> and <a href=showinfo:3423>Energy Neutralizer</a> optimal range",
+            "es": "de bonificación al alcance óptimo del <a href=showinfo:3423>nosferatu de energía</a> y el <a href=showinfo:3423>neutralizador energético</a>.",
+            "fr": "de bonus à la portée optimale du <a href=showinfo:3423>nosferatu à énergie</a> et du <a href=showinfo:3423>neutraliseur d'énergie</a>",
+            "ja": "<a href=showinfo:3423>エネルギーノスフェラトゥ</a>および<a href=showinfo:3423>エネルギーニュートライザー</a>の最適射程距離が拡大",
+            "ko": "<a href=showinfo:3423>에너지 노스페라투</a> 및 <a href=showinfo:3423>에너지 뉴트럴라이저</a> 최적사거리 증가",
+            "ru": "увеличивается оптимальная дальность действия <a href=showinfo:3423>дистанционных нейтрализаторов заряда</a> и <a href=showinfo:3423>устройств паразитной подзарядки накопителя</a>",
+            "zh": "<a href=showinfo:3423>掠能器</a>和<a href=showinfo:3423>能量中和器</a>最佳射程加成"
+          },
+          "importance": 3,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 28600.0
 }

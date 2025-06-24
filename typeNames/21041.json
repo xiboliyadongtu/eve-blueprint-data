@@ -1,5 +1,18 @@
 {
-  "typeID": 21041,
+  "description": {
+    "de": "Ein Montagepunkt für Lenkwaffenwerfer, entwickelt, um auf Capital-Schifen Lenkwaffenwerfer der XL-Klasse zu installieren.",
+    "en": "A launcher hardpoint fitting, engineered to allow XL-class missile launchers to fit on capital ships.",
+    "es": "Equipamiento de punto de montaje de lanzador, diseñado para permitir el equipamiento de lanzamisiles de clase XL en naves capitales.",
+    "fr": "Point de fixation pour lanceur, conçu pour permettre le montage de lance-missiles de classe XL sur les vaisseaux capitaux.",
+    "ja": "ランチャーのハードポイントに取り付けるアイテムであり、XL級のミサイルランチャーを母艦級艦船に搭載できるようになる。",
+    "ko": "캐피탈 함선 전용 런처 하드포인트로 XL 런처를 장착할 수 있습니다.",
+    "ru": "Точка монтажа, позволяющая устанавливать пусковые установки ракет сверхбольшой мощности на корабли большого тоннажа.",
+    "zh": "发射器挂点装置，使超大型导弹发射器能够被安装到旗舰级飞船之上。"
+  },
+  "groupID": 873,
+  "iconID": 2872,
+  "marketGroupID": 781,
+  "mass": 10000.0,
   "name": {
     "de": "Capital Launcher Hardpoint",
     "en": "Capital Launcher Hardpoint",
@@ -10,5 +23,7 @@
     "ru": "Capital Launcher Hardpoint",
     "zh": "旗舰发射器安装座"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 2000.0
 }

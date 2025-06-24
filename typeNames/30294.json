@@ -1,5 +1,18 @@
 {
-  "typeID": 30294,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Große Fenster und Teleskoptürme strecken sich in die alles umgebende Dunkelheit. Die Talocan-Beobachtungskuppel scheint fortwährend hinauszuspähen, obwohl sie längst verlassen ist.",
+    "en": "Large windows and telescoping turrets peer out into the surrounding darkness. The Talocan observation dome always appears to be staring, despite the absence of its original occupants.",
+    "es": "Las grandes ventanas y las torretas telescópicas miran hacia la oscuridad que las rodea. La cúpula de observación de Talocan siempre parece estar mirando, pese a la ausencia de sus ocupantes originales.",
+    "fr": "De grandes fenêtres et des tourelles télescopiques donnent sur l'obscurité environnante. Le dôme d'observation talocan semble toujours à l'affût, et ce malgré l'absence de ses occupants.",
+    "ja": "巨大な窓とテレスコープタレットが周囲の暗闇を覗いた。タロカン観測ドームは常に観察し続けている。当初の持ち主が消えた今でも。",
+    "ko": "거대한 창문과 망원경 전망대가 주변의 어둠을 바라보고 있습니다. 탈로칸 관측 돔은 주인의 부재와 상관없이 언제나 우주를 응시하는 듯 합니다.",
+    "ru": "Большие окна и телескопические турели обращены в окружающую тьму. Несмотря на отсутствие его обитателей, остается ощущение, что купол наблюдения Talocan следит за вами.",
+    "zh": "望远镜从它巨大的透明圆顶望向宇宙黑暗的深处。塔洛迦观测圆顶看上去非常的显眼，只是现在已经是人去楼空。"
+  },
+  "graphicID": 3523,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Talocan Observation Dome",
     "en": "Talocan Observation Dome",
@@ -10,5 +23,9 @@
     "ru": "Talocan Observation Dome",
     "zh": "塔洛迦观测圆顶"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 560.0,
+  "sofFactionName": "talocanbase",
   "volume": 100000000.0
 }

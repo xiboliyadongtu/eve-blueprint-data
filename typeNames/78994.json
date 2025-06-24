@@ -1,5 +1,17 @@
 {
-  "typeID": 78994,
+  "description": {
+    "de": "Dieses Notfall-Signalfeuer kennzeichnet eine Bergbauoperation, der von Piraten angegriffen wird.",
+    "en": "This emergency beacon marks a mining operation under attack by pirates.",
+    "es": "Esta baliza de emergencia señala una operación minera atacada por piratas.",
+    "fr": "Cette balise d'urgence signale une opération d'extraction minière attaquée par des pirates.",
+    "ja": "海賊に襲撃されている採掘オペレーションの位置を示す緊急ビーコン。",
+    "ko": "해적이 채굴 함대를 습격하면 활성화되는 비상용 비컨입니다.",
+    "ru": "Этот аварийный маяк отмечает место добычи сырья, подвергшееся нападению со стороны пиратов.",
+    "zh": "此紧急信标表示采矿行动遭遇海盗攻击。"
+  },
+  "graphicID": 1211,
+  "groupID": 310,
+  "mass": 1.0,
   "name": {
     "de": "Mining Op Ambush Beacon",
     "en": "Mining Op Ambush Beacon",
@@ -10,5 +22,9 @@
     "ru": "Mining Op Ambush Beacon",
     "zh": "采矿行动伏击信标"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 30000.0,
+  "sofFactionName": "genericbase",
   "volume": 1.0
 }

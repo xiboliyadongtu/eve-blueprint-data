@@ -1,5 +1,17 @@
 {
-  "typeID": 8333,
+  "description": {
+    "de": "Lenkt Energie vom Energiespeicher in die Schilde und verbessert dadurch die Schild-Wiederaufladerate.",
+    "en": "Diverts power from the capacitors to the shields, thereby increasing the shield recharge rate.",
+    "es": "Redirige la energía de los condensadores hacia los escudos, lo cual aumenta la velocidad de carga del escudo.",
+    "fr": "Dérive l'énergie des capaciteurs vers les boucliers afin d'augmenter la vitesse de recharge des boucliers.",
+    "ja": "キャパシタのエネルギーをシールドシステムへ供給し、シールド自動回復効率を向上させる。",
+    "ko": "캐패시터의 전력을 실드로 전환하여 실드 회복률을 증가시킵니다.",
+    "ru": "Увеличивает приток энергии конденсатора к щитам, увеличивая скорость их подзарядки.",
+    "zh": "把能量从电容器转向护盾，从而提高护盾的回充速率。"
+  },
+  "groupID": 57,
+  "iconID": 26450,
+  "mass": 20.0,
   "name": {
     "de": "Beta Reactor Control: Shield Power Relay I",
     "en": "Beta Reactor Control: Shield Power Relay I",
@@ -10,5 +22,9 @@
     "ru": "Beta Reactor Control: Shield Power Relay I",
     "zh": "贝它型反应堆控制：护盾能源继电器 I"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 500.0,
   "volume": 5.0
 }

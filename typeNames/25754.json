@@ -1,5 +1,16 @@
 {
-  "typeID": 25754,
+  "description": {
+    "de": "Eine Nidhoggur, die von einem Agenten geflogen wird.",
+    "en": "A Nidhoggur piloted by an agent.",
+    "es": "Nidhoggur pilotada por un agente.",
+    "fr": "Un Nidhoggur piloté par un agent.",
+    "ja": "エージェントを乗せたニドフッグラー。",
+    "ko": "에이전트가 조종하는 니드호거입니다.",
+    "ru": "Корабль класса Nidhoggur, управляемый агентом.",
+    "zh": "由代理人驾驶的尼铎格尔级母舰。"
+  },
+  "graphicID": 2929,
+  "groupID": 517,
   "name": {
     "de": "Ilkur Eiren's Nidhoggur",
     "en": "Ilkur Eiren's Nidhoggur",
@@ -10,5 +21,9 @@
     "ru": "Ilkur Eiren's Nidhoggur",
     "zh": "伊库尔·艾任的尼铎格尔级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 1000.0,
+  "sofFactionName": "minmatarbase"
 }

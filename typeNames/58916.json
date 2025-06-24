@@ -1,5 +1,18 @@
 {
-  "typeID": 58916,
+  "capacity": 27500.0,
+  "description": {
+    "de": "Die Überreste eines zerstörten Overmind-Aufzuchtnests. Mit der richtigen Ausrüstung könnte man vielleicht noch etwas daraus bergen.",
+    "en": "The remains of a destroyed Overmind Nursery Nest. Perhaps with the proper equipment something of value could be salvaged from it.",
+    "es": "Restos de un criadero Overmind destruido. Quizá se pueda recuperar algo de valor con el equipo adecuado.",
+    "fr": "Les restes d'un nid de pépinière de Suresprit détruit. Avec le matériel approprié, il sera peut-être possible d'en tirer quelque chose.",
+    "ja": "破壊されたオーバーマインド・ナーサリー・ネストの残骸。適切な装備を使えば、価値のあるパーツをサルベージできるかもしれない。",
+    "ko": "오버마인드 둥지의 잔해입니다. 적합한 장비를 사용할 경우 각종 부품 및 자원을 획득할 수 있습니다.",
+    "ru": "Обломки уничтоженного инкубаторного гнезда сверхразума. Возможно, при наличии подходящего оборудования из них получится извлечь что-нибудь ценное.",
+    "zh": "一座被摧毁的主宰培养巢穴的残骸。使用适当的设备或许还能够从这些残渣中打捞一些有价值的物品。"
+  },
+  "graphicID": 3116,
+  "groupID": 186,
+  "mass": 10000.0,
   "name": {
     "de": "Salvageable Nursery Nest",
     "en": "Salvageable Nursery Nest",
@@ -10,5 +23,9 @@
     "ru": "Инкубаторное гнездо с ценными предметами",
     "zh": "可打捞的培养巢穴"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

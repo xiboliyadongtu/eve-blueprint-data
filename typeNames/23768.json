@@ -1,5 +1,16 @@
 {
-  "typeID": 23768,
+  "description": {
+    "de": "Eine Condor, die von einem Agenten geflogen wird.",
+    "en": "A Condor piloted by an agent.",
+    "es": "Condor pilotada por un agente.",
+    "fr": "Un Condor piloté par un agent.",
+    "ja": "エージェントを乗せたコンドール。",
+    "ko": "에이전트가 조종하는 콘도르입니다.",
+    "ru": "Корабль класса Condor, управляемый агентом.",
+    "zh": "由代理人驾驶的秃鹫级飞船。"
+  },
+  "graphicID": 39,
+  "groupID": 517,
   "name": {
     "de": "Pomari Maara's Condor",
     "en": "Pomari Maara's Condor",
@@ -10,5 +21,9 @@
     "ru": "Pomari Maara's Condor",
     "zh": "波玛希·玛哈的秃鹫级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 33.0,
+  "sofFactionName": "caldaribase"
 }

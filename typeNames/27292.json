@@ -1,5 +1,18 @@
 {
-  "typeID": 27292,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieser Partikelbeschleuniger steht am Rande der Zerstörung. Elektronische Partikel strömen aus seinem Rumpf und füllen den umgebenden leeren Raum, wobei sie die Struktur zu einem gespenstischen Leuchten veranlassen.",
+    "en": "This particle accelerator is on the brink of destruction.  Electronic particles ooze from its hull, filling the surrounding void and causing the structure to illuminate with an eerie glow.",
+    "es": "Este acelerador de partículas está al borde de la destrucción. Las partículas electrónicas rezuman de su casco, llenando el vacío circundante y haciendo que la estructura se ilumine con un brillo sobrecogedor.",
+    "fr": "L'état de cet accélérateur de particules est critique.  Les particules électroniques jaillissent de sa coque, remplissant le vide alentour et illuminant la structure d'une lueur sinistre.",
+    "ja": "この粒子加速器は崩壊寸前だ。電子の粒子が本体から漏れ出して周囲の虚空に充満しているために不気味な光を発している。",
+    "ko": "입자 가속기는 파괴되기 일보 직전입니다. 전기 입자가 누출되면서 기이한 불빛이 주변 공간을 비추고 있습니다.",
+    "ru": "Этот ускоритель частиц находится весьма в плачевном состоянии. Создаваемое им излучение просачивается сквозь его корпус, заполняя окружающий вакуум и заставляя его загадочно светиться.",
+    "zh": "这个粒子加速器正处于毁灭边缘。电子粒子从它的外壳中泄露出来，填满了周围的虚空，使整个机器放出一种奇异的光芒。"
+  },
+  "graphicID": 2069,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Unstable Particle Acceleration Superstructure",
     "en": "Unstable Particle Acceleration Superstructure",
@@ -10,5 +23,9 @@
     "ru": "Unstable Particle Acceleration Superstructure",
     "zh": "不稳定的粒子加速器超级建筑"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 4553.0,
+  "sofFactionName": "genericmetal",
   "volume": 100000000.0
 }

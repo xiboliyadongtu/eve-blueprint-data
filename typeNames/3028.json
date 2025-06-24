@@ -1,5 +1,17 @@
 {
-  "typeID": 3028,
+  "description": {
+    "de": "Ein grob aussehendes, dunkelrotes Mineral mit einer geodischen Struktur, die lichtdurchlässige Kristalle derselben Farbe beinhaltet. Seine radioaktiven Eigenschaften erfordern eine Aufbewahrung in speziellen Containern. Von der Handhabung durch jemand anderen, als dafür ausgebildete Techniker, wird dringend abgeraten.<br><br>\r\nMesarchonite wird hauptsächlich in stationsseitigen Sicherheitsnetzwerken genutzt. Dort vor allem in den Systemen, die Interferenzen oder Manipulationen an den audio-visuellen Leitungen erkennen sollen.",
+    "en": "A coarse-looking, dark red mineral with a geodic structure containing translucent crystals of the same color. Its radioactive properties require the material to be stored in special containment units; handling by anyone other than a trained engineer is strongly discouraged.<br><br>\r\nMesarchonite is used primarily in stationside security networks, mostly in the systems which detect interference or tampering along the audio-visual lines.",
+    "es": "Mineral de aspecto grueso y color rojo oscuro con una estructura geodésica que contiene cristales translúcidos del mismo color. Sus propiedades radiactivas obligan a almacenar el material en unidades de contención especiales. Se desaconseja encarecidamente que lo manipule cualquier persona que no sea un ingeniero capacitado.<br><br>\n\nLa mesarconita se utiliza principalmente en las redes de seguridad de las estaciones, sobre todo en los sistemas que detectan interferencias o manipulaciones en las líneas audiovisuales.",
+    "fr": "Un minéral irrégulier rouge foncé avec une structure de géode contenant des cristaux translucides de la même couleur. Ses propriétés radioactives nécessitent de stocker ce matériau dans des unités spéciales. Il est fortement déconseiller aux personnes non expérimentées de manipuler ce minéral.<br><br> La mesarchonite est principalement utilisée dans les réseaux de sécurité des stations, et notamment dans les systèmes qui détectent les interférences ou les falsifications des lignes audio-visuelles.",
+    "ja": "晶洞石の構造を持つザラザラした暗赤色の無機物。同じ色の半透明の水晶が含まれている。放射性があるため、特殊な格納ユニットに保管する必要がある。訓練されたエンジニア以外の者が扱うことは絶対にお勧めしない。<br><br>\r\nメサーコナイトは、主にステーションのセキュリティネットワークで使用され、多くは音声映像回線の妨害や干渉を検知するシステムで使われる。",
+    "ko": "표면이 거칠어 보이는 광물로 암적색의 투명한 크리스탈 측지구조를 가지고 있습니다. 방사성을 띠고 있어 반드시 특수한 용기에 담아야 하며 숙련된 엔지니어가 아니라면 절대 다뤄서는 안되는 물질입니다.<br><br><br>메사르커나이트는 통상적으로 전파간섭 또는 시각음성 데이터 조작을 탐지해야하는 정거장 보안 분야에 널리 사용되고 있습니다.",
+    "ru": "Шершавый материал темно-красного цвета обладает вкраплениями полупрозрачных кристаллов того же оттенка. Из-за высокого уровня радиоактивности его хранят в специальных контейнерах, а к обращению с ним стараются допускать лишь квалифицированных инженеров.<br><br>Мезахронит преимущественно используется в системах безопасности станций, особенно при обеспечении защищенности аудио- и видеоканалов.",
+    "zh": "这是一种看上去粗糙、颜色深红、晶洞结构的矿物，其中还有同样深红色的半透明晶体。这种放射性物质需要存放在一个特殊的密封箱里，只有受过培训的专业人员才能安全地对其进行处理。<br><br>\n潮湿岩主要用在空间站安全网络设备里，最常见的是用在探测信号干扰或视频音频线路改动的系统中。"
+  },
+  "groupID": 314,
+  "iconID": 94,
+  "mass": 100.0,
   "name": {
     "de": "Large Crate of Contained Mesarchonite",
     "en": "Large Crate of Contained Mesarchonite",
@@ -10,5 +22,7 @@
     "ru": "Large Crate of Contained Mesarchonite",
     "zh": "一大箱密封的潮湿岩"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 100.0
 }

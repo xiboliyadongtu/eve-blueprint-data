@@ -1,5 +1,60 @@
 {
-  "typeID": 11194,
+  "basePrice": 18000000.0,
+  "capacity": 160.0,
+  "description": {
+    "de": "Elektronische Angriffsschiffe sind mobile, widerstandsfähige Schiffe für die elektronische Kriegsführung. Sie eignen sich zwar für eine Vielzahl von Situationen, entfalten aber ihr volles Potenzial in Gefechten und Flottenbegegnungen, besonders gegen größere Schiffe. Wer die elektronischen Gegenmaßnahmen seiner Flotte dezentralisieren und es nahezu unmöglich machen möchte, sie abzuwehren, wird kaum etwas Besseres finden als ein oder zwei Staffeln dieser kleinen Schiffe.\r\n",
+    "en": "Electronic attack ships are mobile, resilient electronic warfare platforms. Although well suited to a variety of situations, they really come into their own in skirmish and fleet encounters, particularly against larger ships. For anyone wanting to decentralize their fleet's electronic countermeasure capabilities and make them immeasurably harder to counter, few things will serve better than a squadron or two of these little vessels.\r\n",
+    "es": "Las naves de ataque electrónico son plataformas móviles y resistentes de la guerra electrónica. Aunque se adaptan a una gran variedad de situaciones, su especialidad son las escaramuzas y los encuentros de flotas, especialmente contra naves más grandes. Para quienes quieran descentralizar las capacidades de contramedidas electrónicas de su flota y hacer que sean increíblemente difíciles de combatir, pocas cosas funcionan mejor que un escuadrón o dos de estas pequeñas naves.",
+    "fr": "Les vaisseaux d'attaque électronique sont des plateformes de guerre électronique mobiles et résistantes. Bien qu'ils soient bien adaptés à différentes situations, ils expriment vraiment tout leur talent lors des escarmouches et des combats de flottes, en particulier contre les vaisseaux de plus grande taille. Pour ceux qui souhaitent décentraliser les capacités en contre-mesures électroniques de leurs flottes et les rendre considérablement plus difficiles à contrer, peu de choses fonctionneront mieux qu'un escadron ou deux de ces petits vaisseaux.\r\n",
+    "ja": "電子攻撃艦は、機敏で丈夫な電子戦用プラットフォームである。様々な状況に対応可能だが、その真価が最も発揮されるのは小規模艦隊での交戦で、特により大型な艦の相手を得意とする。敵艦隊の電子妨害能力を分散させてなるべく対抗困難にしたいなら、この種の小型艦の分隊を1つ2つ配備するのが上策だろう。",
+    "ko": "전자전 프리깃은 다양한 전자전 장비를 장착할 수 있을 뿐만 아니라 빠른 기동력을 보유하고 있는 기체입니다. 운용할 수 있는 전술폭이 넓어 스커미시 교전 및 함대전에서 대형 함선을 효과적으로 상대할 수 있습니다. ECM 능력이 뛰어나 단 몇 척으로도 함대를 적의 전자전 공격으로부터 효과적으로 보호할 수 있습니다.\r\n",
+    "ru": "Корабли для электронных атак — это подвижные и прочные конструкции, оснащённые средствами радиоэлектронной борьбы. Они подходят для самых разных боевых ситуаций, но лучше всего проявляют себя в быстрых перестрелках и столкновениях флотов — особенно в том случае, когда противники сражаются на крупных судах. Если вам нужно рассредоточить возможности РЭБ по всей площади, занимаемой вашим отрядом, практически не оставив врагу шанса отбить ваши электронные атаки, одна или две эскадрильи таких малюток как нельзя лучше справятся с этой задачей.\r\n",
+    "zh": "电子攻击舰是一种机动的、恢复力强的电子战作战平台。虽然它们适用于各种场合，但在小型冲突和大规模舰队对抗中，特别是在对抗大型船只的时候，它们更能够体现出自己的特性。如果谁想要让他的舰队在电子对抗方面四处开花并且让对手难以反制，那就没有几样东西能比一两个这样的小舰队更有效了。\r\n"
+  },
+  "factionID": 500001,
+  "graphicID": 3364,
+  "groupID": 893,
+  "marketGroupID": 1067,
+  "mass": 1228700.0,
+  "masteries": {
+    "0": [
+      96,
+      100,
+      139,
+      85,
+      94
+    ],
+    "1": [
+      96,
+      100,
+      139,
+      85,
+      94
+    ],
+    "2": [
+      96,
+      100,
+      139,
+      85,
+      94
+    ],
+    "3": [
+      96,
+      100,
+      139,
+      85,
+      94
+    ],
+    "4": [
+      96,
+      100,
+      139,
+      85,
+      118,
+      94
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Kitsune",
     "en": "Kitsune",
@@ -10,5 +65,80 @@
     "ru": "Kitsune",
     "zh": "狐妖级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 41.0,
+  "sofFactionName": "laidai",
+  "soundID": 20071,
+  "traits": {
+    "types": {
+      "3330": [
+        {
+          "bonus": 20,
+          "bonusText": {
+            "de": "Bonus auf die Stärke von <a href=showinfo:3427>ECM Zielstörsender</a>-Modulen",
+            "en": "bonus to <a href=showinfo:3427>ECM Target Jammer</a> strength",
+            "es": "de bonificación a la intensidad del <a href=showinfo:3427>perturbador ECM de objetivo</a>.",
+            "fr": "de bonus à la force des <a href=showinfo:3427>brouilleurs de cible CME</a>",
+            "ja": "<a href=showinfo:3427>ECMターゲットジャマー</a>の強度が増加",
+            "ko": "<a href=showinfo:3427>ECM 타겟 재머</a> 효과 증가",
+            "ru": "увеличивается выходная мощность <a href=showinfo:3427>модулей глушения захвата целей</a>",
+            "zh": "<a href=\"showinfo:3427\">ECM目标干扰器</a>强度加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Reduktion der Aktivierungskosten von <a href=showinfo:3427>ECM Zielstörsender</a>-Modulen",
+            "en": "reduction in <a href=showinfo:3427>ECM Target Jammer</a> activation cost",
+            "es": "de reducción del coste de activación del <a href=showinfo:3427>perturbador ECM de objetivo</a>.",
+            "fr": "de réduction du coût d'activation des <a href=showinfo:3427>brouilleurs de cible CME</a>",
+            "ja": "<a href=showinfo:3427>ECMターゲットジャマー</a>の起動コストが軽減",
+            "ko": "<a href=showinfo:3427>ECM 타겟 재머</a> 활성화 비용 감소",
+            "ru": "сокращается потребление энергии <a href=showinfo:3427>модулями глушения захвата целей</a>",
+            "zh": "<a href=\"showinfo:3427\">ECM目标干扰器</a>启动消耗减少"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ],
+      "28615": [
+        {
+          "bonus": 15,
+          "bonusText": {
+            "de": "Bonus auf die optimale Reichweite von <a href=showinfo:3427>ECM-Zielstörsender-Modulen</a>",
+            "en": "bonus to <a href=showinfo:3427>ECM Target Jammer</a> optimal range",
+            "es": "de bonificación al alcance óptimo del <a href=showinfo:3427>perturbador ECM de objetivo</a>.",
+            "fr": "de bonus à la portée optimale des <a href=showinfo:3427>brouilleurs de cible CME</a>",
+            "ja": "<a href=showinfo:3427>ECMターゲットジャマー</a>の最適射程距離が拡大",
+            "ko": "<a href=showinfo:3427>ECM 타겟 재머</a> 최적사거리 증가",
+            "ru": "увеличивается оптимальная дальность действия <a href=showinfo:3427>модулей глушения захвата целей</a>",
+            "zh": "<a href=\"showinfo:3427\">ECM目标干扰器</a>最佳射程加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die Energiespeicherkapazität des Schiffs",
+            "en": "bonus to ship capacitor capacity",
+            "es": "de bonificación a la capacidad del condensador de la nave.",
+            "fr": "de bonus à la charge de capaciteur du vaisseau",
+            "ja": "艦船のキャパシタ容量が増加",
+            "ko": "캐패시터 용량 증가",
+            "ru": "увеличивается ёмкость накопителя энергии корабля",
+            "zh": "电容器电容量加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 584,
   "volume": 19400.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 28854,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Communications Tower",
+    "en": "Communications Tower.",
+    "es": "Torre de comunicaciones.",
+    "fr": "Tour de communication.",
+    "ja": "コミュニケーションタワー。",
+    "ko": "통신타워입니다.",
+    "ru": "Радиовышка.",
+    "zh": "这是一座通讯塔。"
+  },
+  "graphicID": 2505,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Communications Tower",
     "en": "Communications Tower",
@@ -10,5 +23,9 @@
     "ru": "Communications Tower",
     "zh": "通讯塔"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 2636.0,
+  "sofFactionName": "genericbase",
   "volume": 100000000.0
 }

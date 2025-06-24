@@ -1,5 +1,19 @@
 {
-  "typeID": 32368,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Zugang zu diesem Container erhält man nur mithilfe eines <b>zivilen Bergungsmoduls</b>. Sobald ein erfolgreicher Bergungsversuch registriert wird, öffnet sich der Container. Im Innern befindet sich das Dokument <b>“Beweis für die Entdeckung: Magnetometrisch”</b>.\r\nFalls Sie den Container leer vorfinden sollten, warten Sie bitte ein paar Minuten, bis ein neues Dokument erstellt wurde.",
+    "en": "This container must be accessed using a <b>Civilian Salvager</b>. As soon as a successful salvage attempt is detected, it will unlock. Inside, the <b>“Proof of Discovery: Magnetometric”</b> document can be retrieved.\r\n\r\nIf at first the container appears empty, please wait a few minutes for a new document to be provided.",
+    "es": "Hay que acceder a este contenedor usando un <b>recuperador civil</b>. En cuanto se detecte un intento de recuperación correcto, se desbloqueará. Dentro se puede recuperar el documento <b>«Prueba de descubrimiento: Magnetométrico»</b>.\n\nSi, inicialmente, el contenedor parece vacío, espera unos minutos hasta que se genere un nuevo documento.",
+    "fr": "Vous pouvez accéder à ce conteneur à l'aide d'un <b>récupérateur civil</b>. En cas de tentative de récupération réussie, il se déverrouillera. À l'intérieur se trouve le document <b>« Certificat de découverte : Magnétométrique »</b>.\n\nSi, à première vue, le conteneur vous semble vide, attendez quelques minutes pour recevoir le nouveau document.",
+    "ja": "このコンテナには<b>民間人仕様サルベージャー</b>を使用してアクセスする必要がある。サルベージ活動の成功が検知されると、ロックが解除される。内部では、<b>『発見の証拠:磁気測定』</b>文書を回収できる。\n\n\n最初にコンテナが空になっている場合は、新しい文書が提示されるまで数分待つ必要がある。",
+    "ko": "<b>민수용 샐비저</b>를 통해 개방할 수 있는 컨테이너로 샐비지 성공 시 잠금이 해제됩니다. 해당 컨테이너에는 <b>\"탐사 증명서: 자기\"</b>가 포함되어 있습니다. <br><br>아이템이 없을 경우 재생성이 이루어지니 잠시 대기하시기 바랍니다.",
+    "ru": "Этот контейнер необходимо открыть с помощью <b>гражданского демонтажного модуля</b>. Как только будет отмечена успешная попытка демонтажа, контейнер будет отперт. Внутри вы найдете документ <b>Proof of Discovery: Magnetometric</b>.\n\nЕсли в первый раз контейнер окажется пустым, подождите несколько минут, пока не появится новая копия документа.",
+    "zh": "这个货柜必须要使用<b>民用打捞设备</b>才能够被打开。一旦对它所进行的打捞作业成功，那么这个货柜就会自动解锁。在这个货柜里面储藏有一份<b>“目标证据：磁力”</b>文件。\r\n\r\n如果你再找到这个货柜的时候发现它是空的，那么请等待片刻，一份新的文件会被重新生成在里面。"
+  },
+  "graphicID": 1176,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Training Container - Salvaging",
     "en": "Training Container - Salvaging",
@@ -10,5 +24,9 @@
     "ru": "Training Container - Salvaging",
     "zh": "训练用货柜 - 打捞"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericmetal",
   "volume": 27500.0
 }

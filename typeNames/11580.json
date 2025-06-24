@@ -1,5 +1,18 @@
 {
-  "typeID": 11580,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Das ist die BH Sentry-Gun, sie wird Sie umbringen.",
+    "en": "This is the BH Sentry Gun, it will kill you.",
+    "es": "Esta es la torreta centinela BH. Te matará.",
+    "fr": "Il s'agit d'une sentinelle BH. Elle vous tuera.",
+    "ja": "BHセントリーガン。威力抜群。",
+    "ko": "BH 센트리 포탑은 당신을 죽일 것입니다.",
+    "ru": "Сторожевое орудие BH. Может убить вас.",
+    "zh": "这是BH岗哨炮，它会杀了你的。"
+  },
+  "graphicID": 1006,
+  "groupID": 336,
+  "mass": 1000.0,
   "name": {
     "de": "BH Sentry Gun",
     "en": "BH Sentry Gun",
@@ -10,5 +23,10 @@
     "ru": "BH Sentry Gun",
     "zh": "BH岗哨炮塔"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 45.0,
+  "sofFactionName": "amarrbase",
   "volume": 1000.0
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 63105,
+  "description": {
+    "de": "Ein Kontrollzentrum",
+    "en": "A control center",
+    "es": "Centro de control.",
+    "fr": "Un centre de contrôle",
+    "ja": "コントロールセンター",
+    "ko": "관제센터",
+    "ru": "Центр управления",
+    "zh": "一座控制中心"
+  },
+  "graphicID": 2470,
+  "groupID": 1975,
+  "mass": 1000.0,
   "name": {
     "de": "Guristas Control Center",
     "en": "Guristas Control Center",
@@ -10,5 +22,9 @@
     "ru": "Guristas Control Center",
     "zh": "古斯塔斯控制中心"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 949.0,
+  "sofFactionName": "guristas",
+  "soundID": 20192
 }

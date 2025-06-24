@@ -1,5 +1,18 @@
 {
-  "typeID": 11588,
+  "description": {
+    "de": "Diese Sensoren sind ein altes Subsystem, das früher in Drohnen-Prototypen verwendet wurde.",
+    "en": "These sensors are an old subsystem once used in drone prototypes.",
+    "es": "Estos sensores son un antiguo subsistema usado en los prototipos de drones.",
+    "fr": "Ces détecteurs sont un ancien sous-système utilisé dans des prototypes de drones.",
+    "ja": "プロトタイプのドローンに使用されていた、旧式のサブシステム。",
+    "ko": "한때 드론 프로토타입에 사용되던 오래된 서브시스템입니다.",
+    "ru": "Эти сенсоры - старая подсистема, использовавшаяся в прототипах дронов.",
+    "zh": "这些感应器是曾用于无人机原型的旧子系统。"
+  },
+  "groupID": 314,
+  "iconID": 2042,
+  "marketGroupID": 20,
+  "mass": 1.0,
   "name": {
     "de": "Defunct Drone Sensor Module",
     "en": "Defunct Drone Sensor Module",
@@ -10,5 +23,7 @@
     "ru": "Defunct Drone Sensor Module",
     "zh": "损毁的无人机感应器模块"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

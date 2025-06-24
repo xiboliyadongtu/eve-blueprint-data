@@ -1,5 +1,17 @@
 {
-  "typeID": 18586,
+  "description": {
+    "de": "Testmodul, um die Online-Zeit einer POS zu beschleunigen.",
+    "en": "Testing Module Used to speed up POS online time.",
+    "es": "Módulo de prueba usado para acelerar el tiempo de conexión de la estructura de jugadores.",
+    "fr": "Module de test utilisé pour accélérer le temps de connexion des structures appartenant aux joueurs.",
+    "ja": "試作モジュール。POS のオンライン時間の高速化に使用される。",
+    "ko": "POS 온라인 시간을 향상하기 위한 테스트 모듈입니다.",
+    "ru": "Тестовый модуль, ускоряющий включение звездных баз.",
+    "zh": "测试设备，曾用来加快POS联机时间。"
+  },
+  "graphicID": 2613,
+  "groupID": 480,
+  "mass": 100000000.0,
   "name": {
     "de": "BH Structure Anchoring Array",
     "en": "BH Structure Anchoring Array",
@@ -10,5 +22,9 @@
     "ru": "BH Structure Anchoring Array",
     "zh": "BH 结构固定装置阵列"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 629.0,
+  "sofFactionName": "genericbase",
   "volume": 4000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 22161,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese Reparatureinheit untersteht den Angels und hat den Auftrag, die alte Zitadelle zu reinigen und in Stand zu setzen.",
+    "en": "This is an Angel operated repair unit charged with cleaning and fixing the old citadel.",
+    "es": "Unidad de reparación operada por los Ángeles a cargo de la limpieza y restauración de la antigua ciudadela.",
+    "fr": "Unité de réparation angel chargée du nettoyage et de la réparation de l'ancienne citadelle.",
+    "ja": "エンジェルが指揮する修理部隊で、老朽化した砦の撤去や修繕を担当する。",
+    "ko": "엔젤 카르텔이 운용하는 시설로 시타델의 전반적인 정비 작업을 담당합니다.",
+    "ru": "Это ремонтная станция Angel, занимающаяся уборкой и ремонтом старой цитадели.",
+    "zh": "这是一座由天使经营的维修部门，负责清理修理古老堡垒。"
+  },
+  "graphicID": 2372,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Gisti Repair Station",
     "en": "Gisti Repair Station",
@@ -10,5 +23,11 @@
     "ru": "Gisti Repair Station",
     "zh": "吉斯蒂 维修空间站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 1045.0,
+  "sofFactionName": "genericmetal",
+  "soundID": 20202,
   "volume": 100000000.0
 }

@@ -1,5 +1,21 @@
 {
-  "typeID": 12801,
+  "basePrice": 600000.0,
+  "description": {
+    "de": "Eine Javelin-Ladung besteht aus einer Gruppe Iridium-Schrapnells mit einem Graviton Pulse Detonator. Dies verursacht deutlich mehr Schaden, als er mit einem Standard-Railsystem möglich wäre. Allerdings sorgt die inhärente Entropie von Gravitonladungen dafür, dass es sehr schwierig ist, auf große Distanz die Zielgenauigkeit zu wahren. 75 % geringere optimale Reichweite. 25 % höhere Nachführungsgeschwindigkeit. Hinweis: Diese Munition kann nur von mittelgroßen Technologiestufe II- und Fraktions-Railguns verwendet werden.",
+    "en": "The Javelin charge consists of a cluster of Iridium Fletchets with a Graviton Pulse Detonator. This allows for much higher damage than can be achieved by a standard rail system. However, the inherent entropy of graviton pulses means that it is very hard to maintain accuracy at long range.\r\n\r\n75% reduced optimal range.\r\n25% increased tracking speed.\r\n\r\nNote: This ammunition can only be used by medium tech level II and faction Railguns.",
+    "es": "La carga Javelin consiste en un racimo de flechettes de iridio con un detonador de pulsos de gravitones, lo que permite infligir mucho más daño que un sistema electromagnético estándar. Sin embargo, la entropía inherente de los pulsos de gravitones significa que es muy difícil mantener la precisión a larga distancia.\n\nAlcance óptimo reducido un 75 %.\n\nVelocidad de rastreo aumentada un 25 %.\n\nAviso: Esta munición solo es compatible con cañones electromagnéticos T2 y faccionarios para naves medianas.",
+    "fr": "La charge Javelin est composée d'une série de fléchettes en iridium lancée par un détonateur à impulsion de graviton. Les dégâts occasionnés par ce système sont bien plus graves que ceux causés par un système à rail standard. Cependant, la précision à longue portée est réduite du fait de l'entropie inhérente aux impulsions de graviton. Portée optimale réduite de 75 %. Vitesse de poursuite augmentée de 25 %. Remarque : ces munitions ne peuvent s'utiliser qu'avec les canons à rail intermédiaires de faction et de niveau technologique II.",
+    "ja": "ジャベリン弾は、イリジウムフレチェットのクラスタに重力子パルス信管を組み合わせたものである。これにより、通常のレールシステムよりはるかに大きなダメージを与えることができる。一方で、重力子パルス固有のエントロピーのため、長射程で正確な照準を維持することが困難である。\n\n\n\n最適射程距離が75%短縮。\n\n追跡速度が25%上昇。\n\n\n\n注：この弾薬は中型T2および各勢力のレールガン専用である。",
+    "ko": "자벨린 차지는 이리듐 파편과 중력 펄스 기폭장치를 통해 일반적인 탄약에 비해 막대한 화력을 자랑합니다. 그러나 막대한 엔트로피를 뿜어내는 탓에 장거리 사격의 정확도가 떨어집니다. <br><br>최적사거리 75% 감소 <br>트래킹 속도 25% 증가 <br><br>참고: 중형 테크 II 또는 팩션 레일건에만 장착할 수 있습니다.",
+    "ru": "Заряд «Дротик» состоит из пучка иридиевых стрел и гравитонного импульсного детонатора. Это позволяет ему наносить гораздо больший урон, чем стандартная система рельсотронов. Однако присущая гравитонным импульсам энтропия сильно затрудняет точность прицеливания на большом расстоянии. Оптимальная дальность уменьшена на 75%. Скорость наведения повышена на 25%. Примечание: эти боеприпасы могут использовать только корабли среднего тоннажа второго техноуровня и государственные рельсотроны.",
+    "zh": "“标枪”型弹药由聚集铱元素和引力脉冲起爆器组成。这使它的破坏力远远超过标准磁轨炮系统。然而引力脉冲固有的衰退性决定了它很难在远距离保持精度。\n\n\n\n最佳射程减少75%。\n\n跟踪速度提高25%。\n\n\n\n注：只能用于二级科技和势力中型磁轨炮。"
+  },
+  "graphicID": 1318,
+  "groupID": 373,
+  "iconID": 1318,
+  "marketGroupID": 864,
+  "mass": 0.01,
+  "metaGroupID": 2,
   "name": {
     "de": "Javelin M",
     "en": "Javelin M",
@@ -10,5 +26,8 @@
     "ru": "Javelin M",
     "zh": "标枪 M"
   },
+  "portionSize": 5000,
+  "published": true,
+  "variationParentTypeID": 225,
   "volume": 0.0125
 }

@@ -1,5 +1,16 @@
 {
-  "typeID": 44128,
+  "description": {
+    "de": "Sie wurden als Kapselpilot verpflichtet.\n\nAlle Kapselpiloten erhalten eine Standardausrüstung; Ihr Kampfschiff und Ihre Kampfausrüstung sind in diesem Container enthalten.\n\nDieser Container zerstört sich nach der Öffnung selbst.\n\nDie Ausrüstung wird in Ihren Gegenstandshangar, die Fregatten in Ihren Schiffshangar geliefert, wo sie sofort zur Nutzung bereitstehen.",
+    "en": "You have been enlisted as a Naval Capsuleer.\r\nStandard equipment is issued to all naval capsuleers and your combat ship and gear is included in this container.\r\nOnce opened, this container will self-destruct.\r\nGear is delivered to your Item Hangar while your frigates will be safely delivered to your Ship Hangar for your immediate use.",
+    "es": "Te has alistado como capsulista naval.\n\nEl material estándar se entrega a todos los capsulistas navales e incluye la nave de guerra y los pertrechos.\n\nUna vez abierto, el contenedor se autodestruirá.\n\nLos pertrechos se envían al hangar de objetos, mientras que las fragatas se depositan de forma segura en el hangar de naves para uso inmediato.",
+    "fr": "Vous avez été enrôlé comme capsulier de la Navy. Ce conteneur contient le vaisseau de combat et l'équipement standards remis à tous les capsuliers navals. Une fois ouvert, ce conteneur s'auto-détruira. L'équipement est entreposé dans votre hangar, mais vos frégates sont directement acheminées dans votre hangar à vaisseaux pour un décollage immédiat.",
+    "ja": "あなたは海軍所属のカプセラとして入隊した。\r\r\nすべての海軍カプセラには標準装備が支給されることになっており、このコンテナには戦闘艦と装備が収まっている。\r\n一度でも開くと、コンテナ自体は自壊してしまう。\r\n装備はすぐにでも使えるようアイテムハンガーまで運ばれ、フリゲートも丁重にシップハンガーへ届けられる。",
+    "ko": "해군 캡슐리어로 입대하신 것을 축하합니다. <br><br>모든 해군 캡슐리어들에게 지급되는 기본 장비입니다. 컨테이너 안에는 함선을 포함한 각종 아이템들이 담겨있습니다. <br><br>개봉 시 컨테이너는 파괴됩니다. <br><br>프리깃은 함선 격납고로 이동되고 나머지 내용물은 아이템 창고로 이동됩니다.",
+    "ru": "Ты — в рядах флотских капсулёров.\n\nВсем пилотам флота выдаётся стандартное снаряжение: боевой корабль и его оснастка — в этом контейнере.\n\nПосле открытия контейнер самоуничтожится.\n\nОснастка будет доставлена на твой склад, а фрегаты, готовые к немедленному использованию — в ангар.",
+    "zh": "你已经应召成为了一名海军飞行员。\n\n所有海军飞行员都会获得标准装备，你的战斗舰船和装备都在这个箱子里。\n\n打开后，箱子就会自动销毁。\n\n装备将被递送到你的物品机库内，你的护卫舰则会被安全递送到你的舰船机库内，可以立即使用。"
+  },
+  "groupID": 1194,
+  "iconID": 21741,
   "name": {
     "de": "Naval Capsuleer Starter Pack",
     "en": "Naval Capsuleer Starter Pack",
@@ -10,5 +21,8 @@
     "ru": "Naval Capsuleer Starter Pack",
     "zh": "海军克隆飞行员新手包"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 128,
   "volume": 6000.0
 }

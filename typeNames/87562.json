@@ -1,5 +1,19 @@
 {
-  "typeID": 87562,
+  "description": {
+    "de": "Ein Erz-Extraktor zum fachspezifischen Großabbau von Erzen wie Mercoxit. Kann nur von Bergbaubarkassen und Ausgrabungsschiffen genutzt werden.",
+    "en": "A bulk ore extractor designed for deep core mining ore such as mercoxit.\r\n\r\nCan only be fit to Mining Barges and Exhumers.",
+    "es": "Extractor masivo de menas diseñado para menas de minería de núcleo profundo, como la mercoxita.\r\n\r\nSolo se puede equipar en gabarras mineras y exhumadores.",
+    "fr": "Un extracteur de minerai conçu pour l'extraction de minerais en profondeur, tels que le mercoxit. Ne convient qu'aux barges d'extraction minière et aux Exhumers.",
+    "ja": "メロコキサイトなどの鉱石を得るためのディープコア採掘用に設計された大型の鉱石エクストラクター。\r\n\r\n採掘艦および特化型採掘艦にのみ搭載可能。",
+    "ko": "메르코시트 등을 채굴하는 대규모 딥코어 채굴기입니다.\r\n\r\n채광선 및 익스허머에 장착할 수 있습니다.",
+    "ru": "Этот экстрактор руды предназначен для массовой добычи глубоко залегающих пород, например меркоцита. Можно установить только на буровые баржи и вскрышно-буровые корабли.",
+    "zh": "一种大型矿石采集器，用于开采基腹断岩之类的深层地核矿石。只能装备在采矿驳船和采掘者舰船上。"
+  },
+  "graphicID": 11147,
+  "groupID": 464,
+  "iconID": 2527,
+  "marketGroupID": 1040,
+  "metaGroupID": 4,
   "name": {
     "de": "ORE Deep Core Strip Miner",
     "en": "ORE Deep Core Strip Miner",
@@ -10,5 +24,10 @@
     "ru": "ORE Deep Core Strip Miner",
     "zh": "外太空联合矿业集团深层地核露天采矿器"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 25.0,
+  "sofFactionName": "orebase",
+  "variationParentTypeID": 17482,
   "volume": 5.0
 }

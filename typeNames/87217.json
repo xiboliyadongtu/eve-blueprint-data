@@ -1,5 +1,20 @@
 {
-  "typeID": 87217,
+  "basePrice": 150000.0,
+  "description": {
+    "de": "Im Falle eines Notfalls können Crewmitglieder in dieser Kapsel Zuflucht suchen und möglicherweise sogar die totale Zerstörung ihres Schiffes überleben.",
+    "en": "In the case of an emergency crew members can seek refuge inside this pod, potentially even surviving the total destruction of their ship.",
+    "es": "En caso de emergencia, los miembros de la tripulación pueden buscar refugio dentro de esta cápsula, y pueden incluso sobrevivir a la destrucción total de su nave.",
+    "fr": "En cas d'urgence, l'équipage peut se réfugier à l'intérieur de cette capsule, avec une chance de survivre à la destruction totale de son vaisseau.",
+    "ja": "搭乗員は緊急時にこのポッドの中に避難することで、宇宙船が完全に破壊されても生き延びることができる可能性がある。",
+    "ko": "함선에 비상 상황이 발생했을 때 함대원들이 대피하는 포드입니다. 함선이 완전히 파괴되는 상황에도 함대원이 생존할 수 있습니다.",
+    "ru": "В чрезвычайной ситуации члены экипажа могут укрыться в такой капсуле и пережить даже полное уничтожение корабля.",
+    "zh": "紧急情况下，机组成员可前往该舱室避难，甚至有可能在舰船完全毁坏的情况下幸存。"
+  },
+  "groupID": 314,
+  "iconID": 10877,
+  "marketGroupID": 1863,
+  "mass": 1.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Military Stasis Pods",
     "en": "Military Stasis Pods",
@@ -10,5 +25,7 @@
     "ru": "Military Stasis Pods",
     "zh": "军用停滞舱"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,20 @@
 {
-  "typeID": 31870,
+  "basePrice": 60000.0,
+  "description": {
+    "de": "Schwere Angriffsdrohne",
+    "en": "Heavy Attack Drone",
+    "es": "Dron de asalto pesado",
+    "fr": "Drone d'attaque lourd.",
+    "ja": "ヘビーアタックドローン",
+    "ko": "헤비 어택 드론",
+    "ru": "Тяжелый боевой дрон",
+    "zh": "重型攻击无人机"
+  },
+  "graphicID": 2824,
+  "groupID": 100,
+  "marketGroupID": 839,
+  "mass": 10000.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Imperial Navy Praetor",
     "en": "Imperial Navy Praetor",
@@ -10,5 +25,11 @@
     "ru": "Imperial Navy Praetor",
     "zh": "帝国海军执政官"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 35.0,
+  "sofFactionName": "amarrnavy",
+  "variationParentTypeID": 2193,
   "volume": 25.0
 }

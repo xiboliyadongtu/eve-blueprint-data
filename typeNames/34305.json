@@ -1,5 +1,18 @@
 {
-  "typeID": 34305,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Diese Einheit kann aus der Ferne die aktiven Verteidigungsmechanismen in diesem Gebiet abschalten. Gekonnten Hacken sollte Erfolg haben.",
+    "en": "This unit can remotely shut down the defense mechanisms still active in the area. Skillful hacking should do the trick.",
+    "es": "Esta unidad puede desactivar los mecanismos de defensa de la zona a distancia. Debería bastar con hackearla.",
+    "fr": "Cette unité peut fermer à distance les mécanismes de défense encore actifs dans l'espace environnant. Un piratage bien mené devrait faire l'affaire.",
+    "ja": "エリア内で有効になったままの防衛機構を遠隔からシャットダウンすることができる。それには高いハッキング技術が必要となる。",
+    "ko": "원격으로 방어 시스템을 비활성화시킬 수 있습니다. 해커라면 이 정도쯤은 간단합니다.",
+    "ru": "При помощи объекта можно удалённо отключить защитные механизмы, функционирующие в районе Опытный хакер справится с этой задачей.",
+    "zh": "这个元件能远程关闭当前区域激活的防御机制，需要高超的破解技巧才能成功。"
+  },
+  "graphicID": 1680,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Remote Defense Grid Unit",
     "en": "Remote Defense Grid Unit",
@@ -10,5 +23,11 @@
     "ru": "Remote Defense Grid Unit",
     "zh": "远程防御网格元件"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 205.0,
+  "sofFactionName": "genericbase",
+  "soundID": 20177,
   "volume": 27500.0
 }

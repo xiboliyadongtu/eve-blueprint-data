@@ -1,5 +1,18 @@
 {
-  "typeID": 87532,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Die vielen Anfrageketten, die dieses Labyrinth durchlaufen, werden an diesem Punkt zur Verarbeitung bewahrt. Hacken ist nötig, bevor weiterer Fortschritt möglich wird.",
+    "en": "The many threads of inquiry that pass through this labyrinth are held inside this point for processing. It must be hacked before any further progress will become possible.",
+    "es": "Los numerosos hilos de investigación que atraviesan este laberinto se almacenan en este punto para su procesamiento. Es necesario descifrarlos antes de poder seguir avanzando.",
+    "fr": "Les nombreux fils de requête qui traversent ce labyrinthe sont conservés à l'intérieur de ce point pour traitement. Il doit être piraté avant que toute autre progression ne devienne possible.",
+    "ja": "このラビリンスを通過する問いかけの流れは数多く、いずれも処理のためにこの地点内に保持される。これ以上進行するには、ハッキングを敢行しなければならない。",
+    "ko": "미로를 통과하는 수없이 많은 정보 요청 신호가 처리를 위해 모이는 장소입니다. 해당 구조물을 해킹해야 작전을 진행할 수 있습니다.",
+    "ru": "В этом пункте сходится множество исследовательских процессов, проходящих через лабиринт. Чтобы проследовать дальше, вам придётся его взломать.",
+    "zh": "通过这座迷宫传输的大量调查线索都会保存下来，以供处理。必须对这些线索进行破译，否则就无法进行下一步。"
+  },
+  "graphicID": 28011,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Thread Capacitor",
     "en": "Thread Capacitor",
@@ -10,5 +23,8 @@
     "ru": "Thread Capacitor",
     "zh": "线程式电容器"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 300.0,
+  "sofFactionName": "drifter"
 }

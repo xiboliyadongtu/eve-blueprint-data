@@ -1,5 +1,18 @@
 {
-  "typeID": 30794,
+  "description": {
+    "de": "Dieser riesige Frachtcontainer ist mit jeder Menge landwirtschaflicher Ausrüstung beladen. Im Inneren befindet sich nahezu alles, was man auf einer Farm gebrauchen kann, von Samen und Pflanzenproben bis hin zu Traktoren und Pflügen.",
+    "en": "This huge freight container is loaded with all sorts of agricultural equipment. Almost anything a farm could need has been packed away inside, from seeds and plant samples to tractors and ploughs.",
+    "es": "Este enorme contenedor está cargado con todo tipo de maquinaria y aperos agrícolas. Contiene casi todo lo que una granja necesita, desde semillas y muestras de plantas hasta tractores y arados.",
+    "fr": "Cet immense conteneur de fret est rempli de toutes sortes d'équipements agricoles. Il contient quasiment tout ce dont une ferme a besoin, des graines aux échantillons de plantes en passant par des tracteurs et des charrues.",
+    "ja": "この巨大な貨物コンテナは、あらゆる種類の農作業用工具を積んでいる。種や植物のサンプル、トラクターと鋤など、農場で必要なほとんど全ての物が中に詰め込まれている。",
+    "ko": "거대한 화물 컨테이너에 온갖 종류의 농기구가 실려있습니다. 씨앗, 묘목, 트랙터, 쟁기 등 농장에서 사용되는 대부분의 물건이 보관되어있습니다.",
+    "ru": "Этот огромный грузовой контейнер загружен различным сельскохозяйственным оборудованием. Всё, что может понадобиться ферме, упаковано внутри: от семян и образцов саженцов до тракторов и плугов.",
+    "zh": "这个巨大的货柜舱装满了各种农业生产所需要的装备。几乎一个农场能用到的所有东西都被打包塞在了里面，有种子，有植物样本，有拖拉机，还有犁车。"
+  },
+  "graphicID": 1174,
+  "groupID": 314,
+  "iconID": 1174,
+  "mass": 50000.0,
   "name": {
     "de": "Farming Supplies",
     "en": "Farming Supplies",
@@ -10,5 +23,8 @@
     "ru": "Farming Supplies",
     "zh": "农耕物资"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "genericmetal",
   "volume": 150.0
 }

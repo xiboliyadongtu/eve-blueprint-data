@@ -1,5 +1,17 @@
 {
-  "typeID": 365865,
+  "basePrice": 203000.0,
+  "description": {
+    "de": "Skill zur Kontrolle von Geschütznachladesystemen.\n\n+5% auf die Nachladegeschwindigkeit von großen Railguns pro Skillstufe.",
+    "en": "Skill at monitoring turret reload systems.\r\n\r\n+5% to large railgun reload speed per level.",
+    "es": "Habilidad de control de sistemas de recarga de torretas.\n\n+5% a la velocidad de recarga de las torretas de cañones gauss grandes por nivel.",
+    "fr": "Compétence permettant d'utiliser les systèmes de surveillance de recharge des tourelles.\n\n+5 % à la vitesse de recharge de grand canon à rails par niveau.",
+    "it": "Abilità di monitoraggio sistemi di ricaricamento torretta.\n\n+5% alla velocità di ricarica del cannone a rotaia grande per livello.",
+    "ja": "タレットリロードシステムをモニターするスキル。\n\nレベル上昇ごとに、大型レールガンリロード速度を5%増加させる。",
+    "ko": "터렛 재장전 시스템 스킬입니다.<br><br>매 레벨마다 대형 레일건 재장전 속도 5% 증가",
+    "ru": "Навык мониторинга систем перезарядки турелей\n\n+5% к скорости перезарядки больших рейлгановых установок на каждый уровень.",
+    "zh": "监测炮台装填系统的技能。每升一级，大型磁轨炮的装填速度提高5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Aufladesysteme: Große Railgun",
     "en": "Large Railgun Reload Systems",
@@ -11,5 +23,7 @@
     "ru": "Системы перезарядки большой рейлганной установки",
     "zh": "大型磁轨炮装填系统"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

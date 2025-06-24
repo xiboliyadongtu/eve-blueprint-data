@@ -1,5 +1,16 @@
 {
-  "typeID": 34448,
+  "description": {
+    "de": "Dies sind die Überreste einer majestätischen Archivstruktur, die unbeschreibliche Reichtümer und Wissen enthält. Es liegt nun in Ruinen und stößt gefährliches Material in seine Umgebung aus. Es ist nicht möglich, von außerhalb zu beurteilen, ob etwas von Wert erhalten blieb, aber die ruhenden Archivarbeitermaschinen im Innern könnten unter Umständen ausgeben, was übrig geblieben ist. Zuerst müssen sie jedoch aktiviert werden.",
+    "en": "These are the remains of a majestic Archive structure, containing untold riches and knowledge. It now lies in ruins, emitting dangerous materials into space around it. It is impossible to determine from the outside if anything of value remains, though the dormant Archive worker machines inside might be able to eject whatever is left. They will have to be activated first, though.",
+    "es": "Estos son los restos de una majestuosa estructura del archivo que contenía incontables riquezas y conocimientos. Ahora está en ruinas y libera materiales peligrosos al espacio circundante. Es imposible determinar desde fuera si sigue albergando algo de valor, aunque los archivadores robóticos durmientes que hay dentro podrían eyectar lo que quedase. Pero para ello primero habría que activarlos.",
+    "fr": "Ce sont les restes d'une structure d'archives majestueuses, qui contenait des montagnes de richesses et de connaissance. Elles sont désormais en ruines, et émettent des matériaux dangereux dans l'espace alentour. Il est impossible de déterminer de l'extérieur s'il reste quoi que ce soit de valeur. Les machines d'archives inactives à l'intérieur pourraient peut-être éjecter ce qui reste. Elles doivent d'abord être activées, par contre.",
+    "ja": "莫大な量の知識が集約されている、豪華なアーカイブストラクチャの遺物。今では遺物と化し、危険物質を周囲に放出している。価値のあるものが残されているかどうか外見から判断することはできないが、内部に存在する休止中のアーカイブワーカーマシンなら残されているものを取り出せるかもしれない。ともあれ、まずはマシンを始動させることだ。",
+    "ko": "막대한 보물과 지식이 저장된 아카이브 구조물의 잔해입니다. 현재 폐허가 되어 위험물을 우주로 방출하고 있습니다. 겉보기로는 무엇을 담고 있는지 알 수 없으나 내부의 아카이브 작업로봇을 통해 저장물을 얻을 수 있습니다. 일단 로봇을 활성화 시켜봅시다.",
+    "ru": "Остатки величественного сооружения — Архива, в котором хранились неведомые богатства и знания. Сейчас оно лежит в руинах, и опасные вещества просачиваются из него в космос. Извне непонятно, осталось ли в нём что-то ценное; тем не менее спящие внутри машины — работники Архива — возможно, смогут эвакуировать остатки. Для начала их потребуется включить.",
+    "zh": "这是一座雄伟的档案建筑的残骸，里面存有数不尽的宝藏和信息。它倒在一片废墟中，向周围释放着有害物质。深藏于内部的档案管理机器应该能够弹出有用的东西，但是通过外部观察无法断定，所以你必须先激活它们。"
+  },
+  "graphicID": 2565,
+  "groupID": 226,
   "name": {
     "de": "Smoldering Archive Ruins",
     "en": "Smoldering Archive Ruins",
@@ -10,5 +21,9 @@
     "ru": "Smoldering Archive Ruins",
     "zh": "隐隐燃烧的档案废墟"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 5858.0,
+  "sofFactionName": "roguebase"
 }

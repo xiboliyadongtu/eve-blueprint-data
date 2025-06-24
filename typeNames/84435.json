@@ -1,5 +1,19 @@
 {
-  "typeID": 84435,
+  "description": {
+    "de": "Ein ungerichteter Rundum-Impuls, der vom Schiff ausgestrahlt wird und bei umliegenden Schiffen Thermalschaden verursacht.",
+    "en": "Radiates an omnidirectional pulse from the ship that causes Thermal damage to surrounding vessels.",
+    "es": "Irradia un pulso omnidireccional desde la nave que inflige daño térmico a las naves circundantes.",
+    "fr": "Émet une impulsion omnidirectionelle qui part du vaisseau et provoque des dégâts thermiques à tous les vaisseaux situés à proximité.",
+    "ja": "パルス波を全方向に放射し、周囲の艦船にサーマルダメージを与える。",
+    "ko": "전방위 펄스를 방사하여 주변 함선에 광역 열 피해를 입힙니다.",
+    "ru": "С корабля посылается всенаправленный импульс, наносящий окружающим судам термальный урон.",
+    "zh": "从舰船上发射一个全向脉冲，对周围船只造成热能伤害。"
+  },
+  "graphicID": 2035,
+  "groupID": 72,
+  "iconID": 112,
+  "mass": 100.0,
+  "metaGroupID": 15,
   "name": {
     "de": "Large Abyssal Plasma Smartbomb",
     "en": "Large Abyssal Plasma Smartbomb",
@@ -10,5 +24,8 @@
     "ru": "Large Abyssal Plasma Smartbomb",
     "zh": "深渊大型等离子立体炸弹"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 1000.0,
   "volume": 50.0
 }

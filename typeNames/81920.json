@@ -1,5 +1,20 @@
 {
-  "typeID": 81920,
+  "basePrice": 300000000.0,
+  "description": {
+    "de": "Eine wesentliche Komponente des <a href=showinfo:81826>Metenox-Mondbohrers</a>. Anders als andere Quantumkerne ist diese Komponente ein erforderlicher Teil des industriellen Materials bei der Konstruktion eines <a href=showinfo:81826>Metenox-Mondbohrers</a> und wird automatisch in den Quantumkern-Slot der Struktur platziert, wenn sie eingesetzt wird.",
+    "en": "An integral component of the <a href=showinfo:81826>Metenox Moon Drill</a>.\r\n\r\nUnlike other Quantum Cores, this component is a required part of the industrial inputs when constructing a <a href=showinfo:81826>Metenox Moon Drill</a> and will be automatically placed into the quantum core slot on the structure when it is deployed.",
+    "es": "Componente integral del sistema de <a href=showinfo:81826>perforación lunar Metenox</a>.\r\n\r\nA diferencia de otros núcleos cuánticos, este componente forma parte de los materiales industriales de entrada requeridos para construir un sistema de <a href=showinfo:81826>perforación lunar Metenox</a> y se colocará automáticamente en la ranura del núcleo cuántico de la estructura cuando se despliegue.",
+    "fr": "Un composant essentiel de la <a href=showinfo:81826>foreuse lunaire Metenox</a>. Contrairement aux autres réacteurs quantiques, ce composant est une pièce indispensable des éléments industriels requis lors de la construction d'une <a href=showinfo:81826>foreuse lunaire Metenox</a> et sera automatiquement inséré dans l'emplacement de réacteur quantique de la structure lors de son déploiement.",
+    "ja": "<a href=showinfo:81826>衛星ドリル「メテノックス」</a>に不可欠な部品。\r\n\r\n他のクアンタムコアと異なり、この部品は<a href=showinfo:81826>衛星ドリル「メテノックス」</a>を製造する際に必要な工業資材に含まれており、メテノックスの配置時にクアンタムコア用スロットに自動的に設置される。",
+    "ko": "<a href=showinfo:81826>메테녹스 위성 드릴</a>의 핵심 부품입니다.<BR><BR>다른 양자코어와 다르게 <a href=showinfo:81826>메테녹스 위성 드릴</a> 건설 과정에서 산업용 부품으로 사용됩니다. 위성 드릴을 전개하면 자동으로 양자코어 슬롯에 장착됩니다.",
+    "ru": "Составная часть <a href=showinfo:81826>спутникового бура «Метенокс»</a>. В отличие от других квантовых ядер, этот компонент необходим для производства <a href=showinfo:81826>спутникового бура «Метенокс»</a>. При установке сооружения он автоматически помещается в разъём для квантовых ядер.",
+    "zh": "<a href=showinfo:81826>梅特诺克斯卫星钻探</a>的必备组件。和其他量子芯不同，这是建造<a href=showinfo:81826>梅特诺克斯卫星钻探</a>时必备的工业组件，在部署时会自动放入建筑的量子芯槽位。"
+  },
+  "groupID": 4086,
+  "iconID": 21787,
+  "marketGroupID": 1865,
+  "mass": 4000.0,
+  "metaGroupID": 54,
   "name": {
     "de": "Integrated Moon Drill Armature",
     "en": "Integrated Moon Drill Armature",
@@ -10,5 +25,7 @@
     "ru": "Integrated Moon Drill Armature",
     "zh": "集成式卫星钻探电枢"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 3000.0
 }

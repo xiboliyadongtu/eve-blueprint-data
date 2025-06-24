@@ -1,5 +1,17 @@
 {
-  "typeID": 366590,
+  "basePrice": 567000.0,
+  "description": {
+    "de": "Skill in der Benutzung von Bolzenpistolen. +3% auf den Panzerungsschaden von Bolzenpistolen pro Skillstufe.",
+    "en": "Skill at handling bolt pistols.\r\n\r\n+3% bolt pistol damage against armor per level.",
+    "es": "Habilidad de manejo de pistolas de cerrojo. +3% al daño de las pistolas de cerrojo en el blindaje por nivel.",
+    "fr": "Compétence permettant de manipuler les pistolets à décharge. +3 % de dommages du pistolet à décharge contre le blindage par niveau",
+    "it": "Abilità nel maneggiare le pistole bolt. +3% ai danni inflitti alla corazza per livello.",
+    "ja": "ボルトスキルを扱うスキル。\n\nレベル上昇ごとに、ボルトピストルがアーマーに与えるダメージが3%増加する。",
+    "ko": "볼트 피스톨 운용을 위한 스킬입니다.<br><br>매 레벨마다 장갑에 가해지는 피해량 3% 증가",
+    "ru": "Навык обращения с плазменными пистолетами. +3% к урону, наносимому плазменными пистолетами броне, на каждый уровень.",
+    "zh": "使用爆矢手枪的技能。每升一级，爆矢手枪对装甲造成的伤害提高3%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Fertigkeit: Bolzenpistolen",
     "en": "Bolt Pistol Proficiency",
@@ -11,5 +23,7 @@
     "ru": "Эксперт по плазменному пистолету",
     "zh": "爆矢手枪熟练度"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

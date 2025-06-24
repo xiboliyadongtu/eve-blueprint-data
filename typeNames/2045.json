@@ -1,5 +1,18 @@
 {
-  "typeID": 2045,
+  "capacity": 235.0,
+  "description": {
+    "de": "Die Spezialabteilung für Regulierungen & Ordnung (SARO) stellt einen Elite-Zweig von CONCORDs DED dar. Sie werden für hochriskante Missionen gerufen, einschließlich Geiselnahmen, Anti-Terror Operationen und bei Angriffen auf schwer bewaffnete Piratenhäfen.",
+    "en": "Special Affairs for Regulations & Order (SARO) is an elite branch of CONCORD's DED. They're called upon for high risk missions, including hostage situations, anti-terrorist ops, and the assault of heavily armed pirate havens.",
+    "es": "La Subdivisión de Asuntos para la Regulación y el Orden (SARO) es una rama de élite del DED de CONCORD. Se recurre a ellos para misiones de alto riesgo, como situaciones con rehenes, operaciones antiterroristas y asalto a refugios de piratas muy bien armados.",
+    "fr": "Le Service d'Application des Réglementations et de l'Ordre (SARO) est une branche d'élite du DED de CONCORD. Ils interviennent pour les missions à haut risque, telles que les prises d'otage, les opérations anti-terroristes, et les attaques de refuges pirates lourdement armés.",
+    "ja": "規制および指令担当特別部隊(SARO)はCONCORDのDEDのエリート部隊である。人質事件、対テロリスト作戦、重武装された海賊の根城に対する襲撃などリスクの高いミッションを担当する。",
+    "ko": "질서유지특임대(SARO)는 DED의 정예 부대 중 하나로 인질 구출, 대테러 진압 작전, 해적 소탕 등의 위험 임무에 투입됩니다.",
+    "ru": "Отдел SARO – элитное подразделение DED CONCORD. Его сотрудников используют в операциях, сопряженных с сильным риском: освобождение заложников, обезвреживание террористов, налеты на укрепленные и хорошо вооруженные убежища пиратов.",
+    "zh": "法规秩序特别事务局（SARO）是统合部DED所辖的一个精英团队。他们通常会受命执行一些高危险的任务，包括人质危机，反恐行动以及围剿恐怖分子等行动。"
+  },
+  "graphicID": 1053,
+  "groupID": 693,
+  "mass": 1650000.0,
   "name": {
     "de": "SARO Frigate",
     "en": "SARO Frigate",
@@ -10,5 +23,9 @@
     "ru": "SARO Frigate",
     "zh": "SARO 护卫舰"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 30.0,
+  "sofFactionName": "specops",
   "volume": 16500.0
 }

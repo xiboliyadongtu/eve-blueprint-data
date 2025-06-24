@@ -1,5 +1,18 @@
 {
-  "typeID": 11636,
+  "capacity": 480.0,
+  "description": {
+    "de": "Dies ist das Kriegsschiff eines Söldners, es ist von minmatarischer Herkunft. Seine Fraktionszugehörigkeit ist unbekannt.\r\n\r\nBedrohungsstufe: Tödlich",
+    "en": "This is a mercenary warship of Minmatar origin.  The faction it belongs to is unknown.  Threat level: Deadly",
+    "es": "Nave de guerra mercenaria de origen minmatariano. Se desconoce la facción a la que pertenece. Nivel de amenaza: letal.",
+    "fr": "Vaisseau de guerre mercenaire d'origine minmatar.  La faction à laquelle il appartient est inconnue.  Niveau de menace : mortel",
+    "ja": "ミンマター系の傭兵戦艦。所属している勢力は不明。危険度:致命的",
+    "ko": "민마타 출신의 용병이 조종하는 배틀쉽입니다. 소속된 팩션은 확인되지 않습니다. 위험도: 치명적",
+    "ru": "Это корабль наемников Minmatar. Неизвестно какой фракции он принадлежит. Уровень опасности: смертельный",
+    "zh": "这是一艘源自米玛塔尔的雇佣兵战舰。其所属势力不明。威胁等级：致命的"
+  },
+  "graphicID": 302,
+  "groupID": 705,
+  "mass": 11200000.0,
   "name": {
     "de": "Minmatar Mercenary Warship",
     "en": "Minmatar Mercenary Warship",
@@ -10,5 +23,10 @@
     "ru": "Minmatar Mercenary Warship",
     "zh": "米玛塔尔雇佣兵战舰"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 109.0,
+  "sofFactionName": "minmatarbase",
   "volume": 112000.0
 }

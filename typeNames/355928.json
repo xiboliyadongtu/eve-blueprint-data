@@ -1,5 +1,17 @@
 {
-  "typeID": 355928,
+  "basePrice": 7000.0,
+  "description": {
+    "de": "Verringert die Hitzebelastung pro Schuss, wodurch Waffen länger gefeuert werden können, ohne dass es zum Überhitzen kommt.",
+    "en": "Reduces heat cost per shot, enabling weapons to fire for a longer duration before overheating.",
+    "es": "Reduce el coste de calor por disparo, lo que permite utilizar las armas más tiempo antes de que se sobrecalienten.",
+    "fr": "Réduit la chaleur causée par les tirs, permettant aux armes de tirer pendant plus longtemps avant de surchauffer.",
+    "it": "Riduce il consumo di calore per colpo consentendo all'arma di sparare più a lungo ritardando il surriscaldamento.",
+    "ja": "コスト当たりの熱を減少させ、オーバーヒートまでの時間を増やし射撃持続時間を増加する。",
+    "ko": "무기 발열을 감소시킴으로써 더 오랜시간 발사가 가능하도록 합니다.",
+    "ru": "Снижает меру нагрева за выстрел, что позволяет вести более длительный непрерывный огонь до перегрева.",
+    "zh": "降低每次射弹生成的热量，延长武器在过热前的射击时间。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Einfacher Kühler",
     "en": "Basic Heat Sink",
@@ -11,5 +23,8 @@
     "ru": "Базовый теплопоглотитель",
     "zh": "基础型散热槽"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
   "volume": 0.01
 }

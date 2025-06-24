@@ -1,5 +1,19 @@
 {
-  "typeID": 41520,
+  "basePrice": 4000.0,
+  "description": {
+    "de": "Diese Skripte wurden ursprünglich von einer jugendlichen Hackergruppe namens \"The Fendahlian Collective\" verwendet, um an High-Tech-Sicherheitsfirmware vorbeizukommen. Sie enthalten einen komplexen Code, der die inneren Abläufe bestimmter Modulen verändert, indem er direkte Befehle in die Firmware eingibt. Die Einsatzmöglichkeiten dieser Technologie blieben den großen Corporations nicht verborgen, und die Jugendlichen, die sie entwickelt hatten, leiten nun ihre eigenen Forschungsabteilungen.\n\n\n\nDieses Skript kann in ein Flex-Panzerungshärter-Modul geladen werden, um den Explosions-Resistenzbonus auf Kosten der anderen Resistenzboni zu erhöhen.",
+    "en": "Originally used by the adolescent hacker group The 'Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a Flex Armor Hardener module to increase the module's Explosive resistance bonus at the expense of its other damage resistances bonus.",
+    "es": "Estos paquetes de scripts, utilizados originalmente por el grupo de hackers adolescentes The Fendahlian Collective para sortear firmware de seguridad de alta tecnología, contienen un código intrincado que modifica el comportamiento propio de ciertos módulos mediante la inserción directa de comandos en el firmware. Las aplicaciones de esta tecnología no les pasaron desapercibidas a los agentes principales, así que los chavales que la inventaron ahora dirigen sus propias divisiones de investigación.\n\n\n\nEste script puede cargarse en un módulo endurecedor de blindaje flexible para aumentar la bonificación de resistencia explosiva del módulo a costa del resto de sus bonificaciones de resistencia al daño.",
+    "fr": "Initialement développés par le groupe de pirates informatiques adolescents du « Collectif fendahlien » pour pénétrer illicitement dans des micrologiciels de sécurité de pointe, ces packs de scripts complexes permettent d'implanter des commandes directement dans le code de micrologiciels pour détourner le fonctionnement de certains modules. Les applications de cette technologie continuent de faire des émules, et ses créateurs dirigent désormais leurs propres divisions de recherche.\n\n\n\nCe script se charge dans un module de renforcement de blindage adaptatif afin d'augmenter la résistance explosive du module, au détriment de ses bonus de résistance aux autres types de dégâts.",
+    "ja": "元々は若いハッカー集団「フェンダーリアン・コレクティブ」が当時存在した高度なセキュリティファームウェアを破壊するために使用した一連のスクリプトであり、ファームウェアに直接コマンドを挿入することで特定のモジュールの挙動を変更させる複雑なコードが含まれている。主要な組織はこの技術を今でも応用しており、開発に寄与した少年たちは今では自分たちの研究施設を持つ身となった。このスクリプトをフレックスアーマーハードナーモジュールにロードすると、その他の耐性と引き換えに爆発耐性ボーナスを増加させることができる。",
+    "ko": "'펜달리안 컬렉티브'라고 불리우는 청소년 해커 집단이 첨단 보안 시스템을 뚫기 위해 사용했던 스크립트에서 유래하였습니다. 스크립트 팩은 회로를 우회하기 위한 복잡한 코드로 이루어져 있어 모듈의 성능을 사용자의 설정에 따라 조정할 수 있습니다. 대형 군수산업체에서 스크립트 팩의 잠재성을 눈여겨 보아 펜달리안 컬렉티브 멤버들을 고용하였고 현재 이들은 관련 연구분야의 수석 개발자로 활동하고 있습니다. <br><br>다목적 장갑 강화장치 모듈에 장착이 가능하며, 장착 시 폭발 저항력이 증가하는 반면 다른 피해 저항이 감소합니다.",
+    "ru": "Эти программы, изначально использовавшиеся для взлома систем безопасности группой хакеров, называвших себя «Фендалианский Коллектив», способны изменять принципы работы некоторых модулей путем их программной перепрошивки. Области применения этой технологии оказались весьма широкими; подростки, которые ее изобрели, теперь возглавляют собственные исследовательские лаборатории.\n\n\n\nЭту прошивку можно загрузить в программируемую систему укрепления брони для повышения сопротивляемости действию взрывов за счёт уменьшения сопротивляемости прочим типам поражающего действия.",
+    "zh": "这玩意儿一开始是为一群自称为“范达连帮”的青少年骇客所用，以期破解高科技安全固件。这些脚本通过在固件中插入指令可以改变那些固件的运作方式。现在随着那帮小子的成长，他们已将儿时的发明运用到了他们现在各自牵头的科研部门里。\n\n\n\n这种脚本装载至弯曲装甲增强器装备，能通过牺牲其它伤害类型的抗性加成来提升装备的爆炸抗性加成。"
+  },
+  "groupID": 1701,
+  "iconID": 20943,
+  "marketGroupID": 1094,
+  "mass": 1.0,
   "name": {
     "de": "Armor Explosive Resistance Script",
     "en": "Armor Explosive Resistance Script",
@@ -10,5 +24,7 @@
     "ru": "Armor Explosive Resistance Script",
     "zh": "装甲爆炸抗性脚本"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

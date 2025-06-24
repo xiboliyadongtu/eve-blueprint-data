@@ -1,5 +1,17 @@
 {
-  "typeID": 353378,
+  "basePrice": 99000.0,
+  "description": {
+    "de": "Grundlegende Kenntnisse über aktive Panzerungsmodulhandhabung.\n\n+5% auf die aktive Laufzeit von Fahrzeugpanzerungsmodulen pro Skillstufe.",
+    "en": "Basic understanding of active armor module management.\r\n\r\n+5% to active duration of vehicle armor modules per level.",
+    "es": "Conocimiento básico de gestión de módulos de escudo activo.\n\n+5% a la duración activa de los módulos de escudo de vehículos por nivel.",
+    "fr": "Notions de base en utilisation de module de blindage actif.\n\n+5 % à la durée active des modules de blindage de véhicule par niveau.",
+    "it": "Comprensione base della gestione del modulo corazza attivo.\n\n+5% alla durata attiva dei moduli per corazza del veicolo per livello.",
+    "ja": "アクティブアーマーモジュール管理に関する基本的な知識。\n\nレベル上昇ごとに車両アーマーモジュールの有効期間が5%増加",
+    "ko": "액티브 장갑 모듈 관리에 대한 기본적인 이해를 습득합니다.<br><br>매 레벨마다 모든 차량 장갑 모듈의 활성화 지속시간 5% 증가",
+    "ru": "Базовое знание управления модулем адаптационной системы брони.\n\n+5% к длительности активного состояния модулей брони за каждый уровень.",
+    "zh": "管理主动装甲装备的基本知识。每升一级，载具装甲装备的持续时长增加5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Aktive Panzerungsverbesserung",
     "en": "Active Armor Enhancement",
@@ -11,5 +23,7 @@
     "ru": "Активный усилитель брони",
     "zh": "主动装甲增强"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

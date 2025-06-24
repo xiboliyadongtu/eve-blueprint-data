@@ -1,5 +1,17 @@
 {
-  "typeID": 29415,
+  "description": {
+    "de": "Dieses Objekt registriert die Präsenz von Schiffen innerhalb von 10km.",
+    "en": "This object registers the presence of ships within 10km",
+    "es": "Este objeto registra la presencia de naves a menos de 10 km.",
+    "fr": "Cet objet enregistre la présence de vaisseaux dans un rayon de 10 km.",
+    "ja": "10Km以内に存在する艦船が登録されるオブジェクト。",
+    "ko": "이 구조물은 10km 내에 함선을 감지합니다.",
+    "ru": "Этот объект определяет присутствие кораблей в радиусе 10 км",
+    "zh": "这个装置记录距离其10千米范围内出现的船只。"
+  },
+  "graphicID": 2373,
+  "groupID": 922,
+  "mass": 1000000.0,
   "name": {
     "de": "10km Gallente Capture Point",
     "en": "10km Gallente Capture Point",
@@ -10,5 +22,9 @@
     "ru": "10km Gallente Capture Point",
     "zh": "10km盖伦特争夺点"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 782.0,
+  "sofFactionName": "genericmetal",
   "volume": 1.0
 }

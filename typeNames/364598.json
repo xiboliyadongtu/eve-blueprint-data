@@ -1,5 +1,16 @@
 {
-  "typeID": 364598,
+  "description": {
+    "de": "Skill zur Bedienung von Gallente-Pilotendropsuits\n\nSchaltet den Zugriff auf Gallente-Pilotendropsuits frei. Standard ab Stufe 1, erweitert ab Stufe 3 und Prototypen ab Stufe 5.\n\nPilotendropsuitbonus: +10% auf die Cooldown-Zeit aktiver Fahrzeugmodule pro Skillstufe.\nGallente-Pilotendropsuitbonus: +2% auf die Wirksamkeit von Fahrzeugschilden und Panzerungsmodulen pro Skillstufe.",
+    "en": "Skill at operating Gallente Pilot dropsuits.\r\n\r\nUnlocks access to Gallente Pilot dropsuits. Standard at lvl.1; advanced at lvl.3; prototype at lvl.5.\r\n\r\nPilot Suit Bonus: +10% to active vehicle module cooldown time per level.\r\nGallente Pilot Bonus: +2% to efficacy of vehicle shield and armor modules per level.",
+    "es": "Habilidad de manejo de trajes de salto de piloto Gallente.\n\nDesbloquea el acceso a los trajes de salto de piloto Gallente. Estándar en el nivel 1, avanzados en el nivel 3 y prototipos en el nivel 5.\n\nBonificación del traje de piloto: -10% al tiempo de enfriamiento de módulos de vehículo activos por nivel.\nBonificación del traje de piloto Gallente: +2% a la eficacia de los módulos de escudo y blindaje del vehículo por nivel.",
+    "fr": "Compétence permettant d'utiliser les combinaisons Pilote Gallente.\n\nDéverrouille l'accès aux combinaisons Pilote Gallente. Standard au niv.1 ; avancé au niv.3 ; prototype au niv.5.\n\nBonus de combinaison Pilote : +10 % au temps de refroidissement du module actif de véhicule par niveau.\nBonus Pilote Gallente : +2 % à l'efficacité des modules de bouclier et de blindage du véhicule par niveau.",
+    "it": "Abilità nell'utilizzo delle armature da pilota Gallente.\n\nSblocca l'accesso alle armature da pilota Gallente. Standard al liv. 1; avanzato al liv. 3; prototipo al liv. 5.\n\nBonus armatura da pilota: + 10% al tempo di raffreddamento del modulo attivo del veicolo per livello.\nBonus armatura da pilota Gallente: +2% all'efficacia ai moduli per scudo e armatura per livello.",
+    "ja": "ガレンテパイロット降下スーツコマンドを扱うためのスキル。\n\nガレンテパイロット降下スーツが使用できるようになる。レベル1で標準型、レベル3で高性能、レベル5でプロトタイプが利用可能になる。\n\nパイロットスーツのボーナス：レベル上昇ごとに、アクティブ車両モジュールのクールダウン時間が10%短縮する。\nガレンテパイロットのボーナス：レベル上昇ごとに、車両のシールドモジュールとアーマーモジュールの効率が2%上昇する。",
+    "ko": "갈란테 파일럿 강하슈트를 장착하기 위한 스킬입니다. <br><br>갈란테 파일럿 강하슈트를 잠금 해제합니다. 레벨 1 - 일반, 레벨 3 - 상급, 레벨 5 - 프로토타입 <br><br>파일럿 슈트 보너스:<br><br>매 레벨마다 차량용 모듈 재사용 대기시간 10% 감소 <br><br>갈란테 파일럿 보너스:<br><br>매 레벨마다 차량용 실드 및 장갑 모듈 효과 2% 증가",
+    "ru": "Навык обращения с летными скафандрами Галленте.\n\nПозволяет использовать летные скафандры Галленте. Стандартные - на уровне 1; усовершенствованные - на уровне 3; прототипные - на уровне 5.\n\nБонус летного скафандра: +10% ко времени остывания активных транспортных модулей на каждый уровень.\nБонус летного скафандра Галленте: +2% к эффективности модулей щитов и брони транспорта на каждый уровень.",
+    "zh": "操作盖伦特飞行员作战服的技能。解锁盖伦特飞行员作战服。1级解锁标准版；3级解锁高级版；5级解锁原型版。飞行员套装加成：每升一级，主动载具装备的冷却时间增加10%。盖伦特飞行员加成：每升一级，载具护盾和装甲装备效果提高2%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Gallente-Pilotendropsuits",
     "en": "Gallente Pilot Dropsuits",
@@ -11,5 +22,6 @@
     "ru": "Летные скафандры Галленте",
     "zh": "盖伦特飞行员作战服"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

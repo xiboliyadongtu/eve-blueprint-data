@@ -1,5 +1,18 @@
 {
-  "typeID": 21802,
+  "basePrice": 25000000.0,
+  "description": {
+    "de": "Bedienung von Capital-Schildboostern und anderen Schildmodulen. 2% Reduktion des Energiespeicherbedarfs von Capital-Schildboostern je Skillstufe.",
+    "en": "Operation of capital shield boosters and other shield modules. 2% reduction in capacitor need for capital shield boosters per skill level.",
+    "es": "Funcionamiento de potenciadores de escudo capitales y otros módulos de escudo. 2 % de reducción de la necesidad del condensador para potenciadores de escudo capitales por nivel de habilidad.",
+    "fr": "Aptitude à utiliser des boosters de bouclier capitaux et d'autres modules de bouclier. Réduit de 2 % par niveau de compétence les besoins énergétiques du capaciteur pour les boosters de bouclier capitaux.",
+    "ja": "キャピタルシールドブースターなどのシールドモジュールを操作するスキル。スキルレベル上昇ごとにキャピタルシールドブースターのキャパシタ消費が2%削減される。",
+    "ko": "캐피탈 실드 부스터를 포함한 각종 실드 모듈을 운용하기 위한 스킬입니다. 매 레벨마다 캐피탈 실드 부스터의 캐패시터 사용량 2% 감소",
+    "ru": "Навык управления сверхбольшими бортовыми системами накачки щитов, а также иной аппаратурой щитов сверхбольшого размера. За каждую степень освоения навыка: на 2% сокращается потребление энергии накопителя сверхбольшими бортовыми системами накачки щитов.",
+    "zh": "操作旗舰级护盾回充增量器和其他护盾装备的技能。每升一级，旗舰级护盾回充增量器的电容消耗减少2%。"
+  },
+  "groupID": 1209,
+  "iconID": 33,
+  "marketGroupID": 1747,
   "name": {
     "de": "Capital Shield Operation",
     "en": "Capital Shield Operation",
@@ -10,5 +23,8 @@
     "ru": "Пилотам КБТ: установки накачки щитов",
     "zh": "旗舰级护盾操作"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

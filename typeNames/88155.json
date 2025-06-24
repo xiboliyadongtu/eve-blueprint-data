@@ -1,5 +1,17 @@
 {
-  "typeID": 88155,
+  "description": {
+    "de": "Eine Drifter-Wächterkanone, bereit, jeden anzugreifen, den sie als feindselig erachtet.",
+    "en": "A Drifter sentry gun, primed to attack anyone it considers hostile.",
+    "es": "Una torreta centinela drifter preparada para atacar a cualquiera que considere hostil.",
+    "fr": "Un canon sentinelle drifter, prêt à attaquer quiconque il perçoit comme hostile.",
+    "ja": "ドリフターのセントリーガン。敵性と見なしたあらゆる相手を最優先で攻撃する。",
+    "ko": "드리프터 센트리 포탑입니다. 적대적인 대상은 모두 공격합니다.",
+    "ru": "Это стационарное орудие Скитальцев открывает огонь по всем целям, которые посчитает враждебными.",
+    "zh": "一门流浪者岗哨炮，随时准备攻击它认为有敌意的人。"
+  },
+  "graphicID": 28013,
+  "groupID": 319,
+  "mass": 1000.0,
   "name": {
     "de": "Vigilant Eradicator",
     "en": "Vigilant Eradicator",
@@ -10,5 +22,9 @@
     "ru": "Vigilant Eradicator",
     "zh": "警惕级清剿舰"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 241.0,
+  "sofFactionName": "drifter",
   "volume": 1000.0
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 81189,
+  "description": {
+    "de": "Dieser fortschrittliche Cryschip ist so konfiguriert, dass er holografische Daten speichert, wurde jedoch durch ein Sicherheitsprotokoll stark beschädigt und teilweise gelöscht. In diesem Fall wurde das Protokoll gewaltsam unterbrochen und inmitten der enormen Menge an unlesbaren Informationen auf diesem Cryschip könnten einige Datenfragmente noch zugänglich sein. Mit der <b>richtigen</b> Methode könnte man möglicherweise die verbliebenen Daten aufspüren und entschlüsseln, um so einen kohärenten Datenstrom zu erhalten. Neugierige Kapselpiloten könnten profitieren, indem sie versuchen, die Daten wiederherzustellen und zu sehen, ob irgendetwas <b>klick</b> macht.",
+    "en": "This advanced cryschip is configured to store holographic data but has been heavily corrupted and partially wiped by a security protocol. In this instance the protocol was violently interrupted and some fragmentary data may remain accessible amongst the vast quantity of randomized information on this cryschip.\r\n\r\nWith just the <b>right</b> approach it may be possible to track down and decode what remains, thereby accessing a coherent data stream. Curious capsuleers may profit by trying data retrieval and seeing if something <b>clicks</b>.",
+    "es": "Este crischip avanzado está configurado para almacenar datos holográficos, pero está muy dañado y parte de la información que contenía ha sido borrada por un protocolo de seguridad. En este caso, el protocolo se interrumpió violentamente y aún puede accederse a algunos datos fragmentarios de entre la gran cantidad de información aleatoria que había en este crischip.\r\n\r\nCon el enfoque <b>adecuado</b>, tal vez se pueda localizar y descifrar lo que queda, para acceder así a un flujo de datos coherente. Aquellos capsulistas a los que les pique la curiosidad podrían sacar beneficios al intentar recuperar datos y comprobar si <b>funciona</b>.",
+    "fr": "Cette cristapuce avancée est conçue pour stocker des données holographiques, mais a été fortement corrompue et partiellement effacée par un protocole de sécurité. Le protocole a été brutalement interrompu et certaines données fragmentaires pourraient demeurer accessibles parmi l'immense quantité d'informations randomisées sur cette cristapuce. Avec la <b>bonne</b> approche, il pourrait être possible de localiser et de décoder ce qui reste, et ainsi d'accéder à un flux de données cohérent. Les capsuliers curieux pourraient en tirer profit en tentant de récupérer des données et voir si quelque chose <b>fait sens</b>.",
+    "ja": "この高度なクリスチップはホログラフィックデータを保存できるよう設定されているが、データの損傷が激しく、一部はセキュリティプロトコルに従って消去されている。セキュリティプロトコルは強制的に中断されており、クリスチップ上にある膨大なランダムな情報に含まれる断片的なデータは、現在も一部アクセスできる可能性がある。\r\n\r\n<b>正しい</b>方法で対処すれば、残存データを見つけて解読し、そこから読み取り可能なデータストリームにアクセできるかもしれない。儲け話に繋がる可能性もあるので、好奇心あるカプセラはデータの修復に挑み、<b>役に立つ</b>情報が手に入らないか確認してみるといいだろう。",
+    "ko": "막대한 양의 홀로그램 데이터가 수록된 첨단 크라이스칩입니다. 심각하게 손상되었으며 보안 프로그램에 의해 일부 내용이 삭제되었습니다. 칩의 보안 프로그램이 실행 중 강제로 중단되어 전체 데이터 중 일부에 접근할 방법이 있을 것 같습니다.<br><br><b>적절한</b> 방법을 동원하면 무작위로 남은 데이터를 추적하고 해석해 데이터 스트림에 접근할 수 있을지도 모릅니다. <b>엄청난</b> 물건을 건질 가능성도 있으니 충분히 시도해볼만 합니다.",
+    "ru": "Этот продвинутый чип-кристалл предназначен для хранения голографической информации. Содержимое сильно повреждено и частично удалено системой безопасности. Но процесс удаления принудительно прерван, поэтому в массиве разрозненных данных вполне реально отыскать цельные фрагменты. При <b>прав</b>ильном подходе можно выявить и расшифровать их, сформировав связный поток информации. Любознательным капсулёрам следует присмотреться к этим данным: вдруг что-то, словно по нажатию <b>кнопки</b>, с <b>щелчком</b> встанет на свои места? К тому же это вполне может принести определённую прибыль.",
+    "zh": "该高级晶体芯片用于存储全息影像数据，但已严重损坏，且部分数据已被安全协议抹除。鉴于安全协议进程被强行中断，晶体芯片的海量随机信息中可能还残存着部分可以访问的碎片数据。使用<b>恰当的</b>方式或能追踪并解码残余数据，从而获得连贯的数据流。好奇的克隆飞行员可以尝试获取数据资料，看看是否<b>走运</b>，从而从中获利。"
+  },
+  "groupID": 314,
+  "iconID": 25998,
+  "mass": 1.0,
   "name": {
     "de": "Partially Corrupted Cryschip",
     "en": "Partially Corrupted Cryschip",
@@ -10,5 +22,7 @@
     "ru": "Partially Corrupted Cryschip",
     "zh": "部分损坏的晶体芯片"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.1
 }

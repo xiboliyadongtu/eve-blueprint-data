@@ -1,5 +1,18 @@
 {
-  "typeID": 3335,
+  "basePrice": 1000000.0,
+  "description": {
+    "de": "Fertigkeit, Kreuzer der Amarr zu fliegen.",
+    "en": "Skill at operating Amarr cruisers.",
+    "es": "Habilidad en el manejo de cruceros amarrianos.",
+    "fr": "Compétence liée au pilotage des croiseurs amarr.",
+    "ja": "アマー巡洋艦を操作するためのスキル。",
+    "ko": "아마르 크루저 운용을 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на крейсерах производства Амаррской Империи.",
+    "zh": "操作艾玛巡洋舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Amarr Cruiser",
     "en": "Amarr Cruiser",
@@ -10,5 +23,8 @@
     "ru": "Амаррские крейсеры",
     "zh": "艾玛巡洋舰操作"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

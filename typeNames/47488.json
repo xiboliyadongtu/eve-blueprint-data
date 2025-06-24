@@ -1,5 +1,18 @@
 {
-  "typeID": 47488,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Diese Türme werden von Seeker-Spähergruppen aufgestellt oder entfernt, um wichtige Gebiete für sie zu sichern, und greifen bei Sichtkontakt an.",
+    "en": "Deployed or subverted by Seeker scouting parties to secure areas of interest to them, these towers will attack on sight.",
+    "es": "Estas torres, desplegadas o modificadas por grupos de exploración seeker para asegurar zonas de interés, atacarán al avistar un objetivo.",
+    "fr": "Déployées ou piratées par des unités d'éclaireurs seeker pour sécuriser leurs zones d'intérêt, ces tours attaqueront à vue.",
+    "ja": "シーカーの偵察部隊が、興味を持ったエリアを確保するために配置・転向したタワー。視界に入るものを攻撃してくる。",
+    "ko": "시커 정찰대가 지역 확보 및 제압을 목적으로 설치한 타워입니다. 접근하는 대상을 무차별적으로 공격합니다.",
+    "ru": "Разведывательные отряды Искателей развёртывают или захватывают эти башни и используют для защиты интересующих их участков. При обнаружении нарушителей башни открывают огонь на поражение.",
+    "zh": "由探寻者侦查队部署的这些塔型建筑会攻击范围内的目标。"
+  },
+  "graphicID": 3533,
+  "groupID": 383,
+  "mass": 1000.0,
   "name": {
     "de": "Sentry Tower",
     "en": "Sentry Tower",
@@ -10,5 +23,9 @@
     "ru": "Sentry Tower",
     "zh": "岗哨塔"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 241.0,
+  "sofFactionName": "sleeperbase",
   "volume": 1000.0
 }

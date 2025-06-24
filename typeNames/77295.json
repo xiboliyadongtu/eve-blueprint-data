@@ -1,5 +1,18 @@
 {
-  "typeID": 77295,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Verborgen vor dem Staat der Caldari nutzen die Guristas-Piraten diese Struktur als Umschlagplatz für den Handel mit ihren erbeuteten Waren. Von hier aus verkaufen sie alles, was sie bei ihren Raubzügen erbeutet haben: gestohlene Militärausrüstung, verbotene Luxusgüter der Gallente, rationierte Vorräte und vieles mehr – natürlich zu stark überhöhten Preisen.",
+    "en": "Hidden from the Caldari State, the Guristas Pirates use this structure as a distribution hub to trade their ill-gotten goods. From here they sell everything they loot during raids; stolen military assets, restricted Gallente luxury goods, ration-controlled supplies, and more - all at grossly inflated prices.",
+    "es": "Ocultos del Estado Caldari, los Piratas Guristas utilizan esta estructura como centro de distribución para comerciar con sus bienes adquiridos ilegalmente. Desde aquí venden todo lo que saquean durante los allanamientos: bienes militares robados, artículos de lujo restringidos de los gallentes, suministros controlados por raciones y más, todo a precios desorbitados.",
+    "fr": "Cachée de l'État caldari, cette structure sert de centre de distribution de marchandises volées pour les pirates guristas. Ils y vendent tout ce qu'ils pillent lors de leurs raids : matériel militaire volé, articles de luxe gallente interdits, ressources rationnées et bien plus encore, le tout à des prix manifestement excessifs.",
+    "ja": "ガリスタス海賊は、カルダリ連合から隠匿しながら不法入手した物品を分配する拠点として、このストラクチャを使用している。強奪した軍用品、規制のかかったガレンテの嗜好品、配給対象の物資など、略奪行為によって獲得した戦利品は、ここで大きく引き上げられた価格で販売される。",
+    "ko": "구리스타스 해적단이 칼다리 연합의 눈을 피해 장물의 물류 중심지로 사용하는 구조물입니다. 구리스타스 해적단이 훔친 각종 군사 보금물자, 금지된 갈란테 사치품, 공급이 제한된 물자 등의 물품을 말도 안 되게 비싼 가격으로 판매하고 있습니다.",
+    "ru": "Пираты «Гуристас» используют это сооружение в качестве торгового узла и распродают здесь награбленное, не привлекая внимания Государства Калдари. Здесь можно купить втридорога всё, что им удалось заполучить нечестным путём: военную технику, галлентские предметы роскоши, продовольственные пайки, которым не место в свободной продаже, и многое другое.",
+    "zh": "古斯塔斯游寇藏匿于加达里合众国之外，并将这座建筑用作他们不义之财的交易中心。他们在此处出售在突袭中拾取的所有物品、盗取的军事资产、奢侈的盖伦特禁品，以及限量配给的补给品等，要价极高。"
+  },
+  "graphicID": 25321,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Black Market",
     "en": "Black Market",
@@ -10,5 +23,10 @@
     "ru": "Black Market",
     "zh": "黑市"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 2787.0,
+  "sofFactionName": "guristas",
+  "soundID": 20203,
   "volume": 100000000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 3343,
+  "basePrice": 500000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Amarr-Transportern.",
+    "en": "Skill at operating Amarr hauler ships.",
+    "es": "Habilidad en el manejo de naves de mercancías amarrianas.",
+    "fr": "Compétence liée à l'utilisation des cargos amarr.",
+    "ja": "アマーハウラーを操作するためのスキル。",
+    "ko": "아마르 운반선을 운용하기 위한 스킬입니다.",
+    "ru": "Навык управления перевозчиками Амаррской Империи.",
+    "zh": "操作艾玛运载舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Amarr Hauler",
     "en": "Amarr Hauler",
@@ -10,5 +23,8 @@
     "ru": "Amarr Hauler",
     "zh": "艾玛运载舰"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

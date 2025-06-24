@@ -1,5 +1,18 @@
 {
-  "typeID": 3403,
+  "basePrice": 500000.0,
+  "description": {
+    "de": "Fertigkeit, effizientere Produktionsmethoden zu finden.\r\n\r\n5% Bonus auf die Blueprint-Fertigungszeitforschung je Skillevel.",
+    "en": "Skill at researching more efficient production methods. 5% bonus to blueprint manufacturing time research per skill level.",
+    "es": "Habilidad para investigar métodos de producción más eficientes. 5 % de bonificación a la investigación del tiempo de fabricación de planos por nivel de habilidad.",
+    "fr": "Compétence liée à la recherche de méthodes de production plus efficaces. Réduit de 5 % par niveau le temps de recherche de production du plan de construction.",
+    "ja": "より効率的な生産方法を研究するスキル。スキルレベル上昇ごとにブループリント製造時間の研究に 5% のボーナス。",
+    "ko": "효율적인 생산방식을 연구하기 위한 스킬입니다. 매 레벨마다 블루프린트 제조 시간 연구 속도 5% 증가",
+    "ru": "Умение разрабатывать более эффективные методы производства. За каждую степень освоения навыка: на 5% ускоряется выполнение проектов по увеличению скорости производства по чертежам.",
+    "zh": "研究更高效生产方法的技能。每升一级，蓝图时间效率研究的速度提升5%。"
+  },
+  "groupID": 270,
+  "iconID": 33,
+  "marketGroupID": 375,
   "name": {
     "de": "Research",
     "en": "Research",
@@ -10,5 +23,7 @@
     "ru": "Инженерно-конструкторские исследования",
     "zh": "研究概论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

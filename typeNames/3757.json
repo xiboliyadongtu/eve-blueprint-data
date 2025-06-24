@@ -1,5 +1,16 @@
 {
-  "typeID": 3757,
+  "description": {
+    "de": "Im Jahr YC114 hatte jede der führenden Empire-Fraktionen aufgrund des entsetzlichen und nicht enden wollenden Kriegs auf allen Ebenen erkannt, dass ihre Schiffe Unterstützung und Logistikfunktionalität benötigten. Anderenfalls würde der langfristige interstellare Krieg die Teilnehmer aufreiben. In der Republik Minmatar führte dies zur Umgestaltung und dem Neueinsatz der Burst.\n\n\n\nDie Burst war bis zu diesem Zeitpunkt ein kleines und sehr schnelles Schiff. Dies änderte sich mit der Neugestaltung: Anstelle der geringfügigen Bergbaufähigkeiten traten Logistiksysteme, in deren Mittelpunkt die Schildunterstützung verbündeter Schiffe stand.",
+    "en": "In YC114 each major empire faction, having been embroiled in a harrowing, extensive, long-term war, recognized the growing need for support and logistics functionality in their vessels during the kind of protracted interstellar warfare that might otherwise prove exhausting for its participants. In the Minmatar Republic, this led to the redesign and redeployment of the Burst. The Burst had been a small and fast cargo vessel. This all changed after the redesign, when the Burst found its small-time mining capabilities curtailed in lieu of logistics systems that moved its focus to shield support for friendly vessels.",
+    "es": "En el año 114 CY, cada una de las principales facciones del imperio, tras haberse visto envueltas en una dura y extensa guerra, reconoció la creciente necesidad de incorporar funciones logísticas y de apoyo a las naves durante una guerra interestelar prolongada que, de otro modo, podría resultar agotadora. En la República Minmatar, esto implicó volver a diseñar la Burst y su nuevo despliegue. La Burst antes era una nave de carga pequeña y veloz, pero todo cambió tras rediseñarla, pues restringieron sus ya de por sí limitadas capacidades mineras en favor de unos sistemas logísticos que le permitieron desempeñar el papel de apoyo de escudo de las naves amigas.",
+    "fr": "En 114 après CY, toutes les factions majeures de l'Empire entraînées dans une guerre longue, épuisante et coûteuse, ont reconnu d'un commun accord le besoin grandissant d'un soutien renforcé et d'une meilleure logistique pour leurs vaisseaux au cours d'une guerre interstellaire qui semblerait ne jamais finir. Dans la République minmatar, ce besoin se traduisit par un retour du Burst, dont la conception fut également retravaillée. Le Burst avait été un vaisseau de transport petit et rapide. Mais tout cela changea avec la nouvelle conception, quand les médiocres capacités d'extraction du Burst furent réduites pour privilégier les systèmes logistiques et axer le vaisseau sur les missions de soutien de bouclier aux vaisseaux alliés.",
+    "ja": "YC114年、4大国を巻きこむ大規模戦争が勃発した。長く、凄惨で、広範にわたる戦いの中、各国では支援艦や補給艦の役割がしだいに重視されるようになった。そういった役割を果たす船がなければ戦力が疲弊してしまうのだ。これを受けて、ミンマター共和国ではバーストの設計を根本から見直し、再配備を行った。バーストは元々、小型の快速貨物艦だった。しかし全面的な設計見直しにより、申し訳程度に付いていた採掘能力を取り払い、僚艦のシールドを修復する支援艦に生まれ変わった。",
+    "ko": "YC 114년 끝이 보이지 않는 치열하고 소모적인 전쟁으로 인해 각 국가는 지원 및 보급 기능이 함선에 절실하다는 것을 실감하였습니다. 범은하 전쟁과 같이 수백광년을 넘나드는 전장은 장기전으로 이어지기 쉬웠고 자원 소모가 극심해 이에 대해 각국이 경각심을 가지게 되었습니다. 해당 취지에 따라 민마타 공화국은 버스트에 대한 재설계를 실시했습니다. <br><br>버스트는 작고 빠른 화물용 프리깃이었으나 재설계가 이루어지면서 기존의 채광 기능이 실드 지원 장비로 대체되었습니다.",
+    "ru": "В 114 г. YC, после тяжелой, изнурительной войны, все главенствующие державы признали необходимость в разработке специализированных кораблей, выполняющих функции поддержки и ремонта, поскольку без них затяжная космическая война стала бы слишком обременительной для всех сторон. В республике Минматар такой корабль был создан на основе фрегата Burst после существенной переработки конструкции. Burst был маленьким и быстрым грузовым кораблем. После переработки Burst утерял способность нести экстракторы для мелкомасштабной добычи руды, зато приобрел разъемы для модулей, предназначенных усиливать щиты дружественных кораблей.",
+    "zh": "YC114年，各大帝国势力都已经深陷战争泥潭。他们深刻意识到在这种星际持久战中对现有舰船增加后勤功能的重要​性，否则军力将消耗殆尽。米玛塔尔共和国决定对爆发级护卫舰进行重新设计，赋予它新的使命。爆发级是一种小巧、迅捷的货船。不过在重新设计后，它的小规模采矿能力被后勤系统所取代，转而专精于为友军舰船提供护盾传输。"
+  },
+  "graphicID": 306,
+  "groupID": 226,
   "name": {
     "de": "Minmatar Burst Frigate",
     "en": "Minmatar Burst Frigate",
@@ -10,5 +21,9 @@
     "ru": "Minmatar Burst Frigate",
     "zh": "米玛塔尔爆发级护卫舰"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 31.0,
+  "sofFactionName": "minmatarbase"
 }

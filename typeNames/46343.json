@@ -1,5 +1,19 @@
 {
-  "typeID": 46343,
+  "capacity": 120.0,
+  "description": {
+    "de": "Diese Sleeper-Drohne hat dasselbe Design wie schnelle Angriffseinheiten, die bereits in Anoikis beobachtet wurden. Die ausgezeichnete Verkleidung und kleine Modifikationen deuten jedoch darauf hin, dass es sich um eine neue Konstruktion handelt, die erst vor Kurzem in Dienst gestellt wurde.\n\n\n\nDiese Sleeper-Drohne scheint Teil einer Flotte zu sein, die die Wracks der Drifter verteidigen. Vermutlich sollen sie verhindern, dass jemand die Technologie entwendet.",
+    "en": "This type of Sleeper drone shares a common design with fast attack units seen already seen in Anoikis but is in excellent trim and slight modifications convey the impression it is an updated design recently constructed and put into service.\r\n\r\nThis Sleeper drone seems to be part of a force defending Drifter wrecks, presumably to guard against any technology they harbor being pilfered.",
+    "es": "Este tipo de dron sleeper comparte un diseño común con las unidades de ataque rápido que ya se han visto por Anoikis, pero su excelente corte y ligeras modificaciones llevan a pensar que se trata de una versión recientemente actualizada y puesta en servicio.\n\n\n\nEste dron sleeper parece formar parte de una fuerza que defiende restos drifters, seguramente para evitar que roben su tecnología.",
+    "fr": "Ce type de drone sleeper a une apparence similaire à celle des unités d'attaque rapide rencontrées à Anoikis, mais son excellente condition et les légères modifications qui lui ont été apportées laissent supposer qu'il s'agit d'un tout nouveau modèle récemment construit et mis en service. Ce drone sleeper semble faire partie d'un groupe protégeant les épaves de Drifters, vraisemblablement là pour préserver les technologies qu'elles recèlent des éventuels pillards.",
+    "ja": "このタイプのスリーパードローンは、アノイキスで目撃された高速攻撃型ユニットと共通した設計を有しているが、状態が極めて良く、また本体に若干の改良が加えられていることから最近建造・投入された新型であると思われる。\r\n\nこのスリーパードローンはドリフターの残骸を護衛している部隊の一部のようだ。部隊の目的はおそらく、残骸の内部に存在するテクノロジーが盗まれるのを防ぐことだろう。",
+    "ko": "아노이키스에서 발견되는 고속 공격 드론과 유사한 설계 구조를 지닌 슬리퍼 드론입니다. 깔끔한 외장과 추가된 기능들로 미루어 보아 비교적 최근에 생산 및 배치가 이루어졌을 것으로 추측됩니다. <br><br>외부 침입자들로부터 드리프터 잔해 속 물건을 도난당하는 것을 막기 위해 배치된 병력 중 하나로 보입니다.",
+    "ru": "Эти дроны Спящих очень похожи на те быстрые корабли, которые встречались в Аноикисе. Однако отличный внешний вид и небольшие модификации заставляют предположить, что это более новая модель, которая была создана и введена в строй совсем недавно.\n\n\n\nНаверное, этот дрон Спящих из той группы, которая обороняет обломки кораблей Скитальцев — скорее всего, чтобы никто не похитил хранящуюся там ценную технику.",
+    "zh": "这种类型的冬眠者无人机与在阿诺基斯中见过的迅捷而凶猛的机型拥有相同的设计，但它整洁的外观和细微的改装都表明它是最近才被建造并服役的。\n\n\n\n这个无人机看起来隶属于一支守卫着流浪者残骸的部队，可能是在保卫它们所拥有的技术不被人偷走。"
+  },
+  "factionID": 500021,
+  "graphicID": 3528,
+  "groupID": 1665,
+  "mass": 1910000.0,
   "name": {
     "de": "Eosian Preserver",
     "en": "Eosian Preserver",
@@ -10,5 +24,11 @@
     "ru": "Eosian Preserver",
     "zh": "黎明保护者"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 64,
+  "radius": 50.0,
+  "sofFactionName": "sleeperbase",
+  "soundID": 12,
   "volume": 19100.0
 }

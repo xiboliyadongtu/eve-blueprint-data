@@ -1,5 +1,70 @@
 {
-  "typeID": 11393,
+  "basePrice": 21000000.0,
+  "capacity": 135.0,
+  "description": {
+    "de": "Die Retribution ist eine Hommage an die glorreichen Tage des Amarr Imperiums und wurde nach der klassischen Konstruktionsphilosophie der Amarr entwickelt: Wenn es stark und robust ist und einen schweren Treffer wegstecken kann, dann ist es für den Kampfeinsatz geeignet. Was diesem Kraftpaket an Geschwindigkeit und Beweglichkeit fehlt, macht es mit seinen vielseitigen Möglichkeiten an Feuerkraft und einer überragenden Verteidigungsfähigkeit mehr als wett.",
+    "en": "The Retribution is an homage to the glory days of the Empire, informed by classical Amarrian design philosophy: if it's strong, sturdy and packs a punch, it's ready for action. What this powerhouse lacks in speed and maneuverability it more than makes up for with its wide range of firepower possibilities and superb defensive ability.",
+    "es": "La Retribution es un homenaje a los tiempos de gloria del Imperio y está diseñada según la clásica filosofía amarriana: si es fuerte, resistente y pega con fuerza, está lista para la acción. Esta potente nave compensa su falta de velocidad y maniobrabilidad con una amplia gama de opciones en lo que a potencia de fuego se refiere y una excelente capacidad defensiva.",
+    "fr": "Le Retribution est un hommage aux jours glorieux de l'Empire, et retranscrit parfaitement la philosophie amarr : si un vaisseau est redoutable et redouté, il est prêt à frapper. Ce monstre compense sa faible vitesse et sa manœuvrabilité réduite par une palette d'armement impressionnante et ses aptitudes défensives hors du commun.",
+    "ja": "レトリビューションは帝国の華やかなりし時代へのオマージュであり、アマーの「硬くて、丈夫で、それなりの火力があれば、実戦投入」という古典的な設計思想に基づいている。この火力艦は速度と機動性に欠けるが、それを補って余りある搭載可能火器の豊富さと優れた防御力を持つ。",
+    "ko": "레트리뷰션은 아마르 전성기를 상징하는 함선으로 전통적인 아마르 설계 철학에 따라 제작되었습니다. \"강력한 파괴력과 견고한 방어력만으로도 충분하다.\" 속도와 기동성은 떨어지지만 다양한 무기 체계와 우수한 방어 능력으로 단점을 상쇄합니다.",
+    "ru": "Retribution служит напоминанием о великих свершениях Империи. Он являет собой воплощение философии амаррских инженеров: это мощный, прочный и грозный корабль, всегда готовый отправиться в бой. Недостаток скорости и манёвренности с лихвой компенсируется целым арсеналом орудий и превосходными показателями защиты.",
+    "zh": "审判者级是对帝国光辉岁月的致敬，体现了经典的艾玛设计哲学：舰船只要坚固、耐用、杀伤力大，就能投入战斗。这艘强力战舰在速度和机动性上有所欠缺，但它用多样的火力搭配和优秀的防御能力弥补了缺点。"
+  },
+  "factionID": 500003,
+  "graphicID": 1920,
+  "groupID": 324,
+  "marketGroupID": 433,
+  "mass": 1053900.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      50,
+      117,
+      150,
+      89,
+      93,
+      94
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Retribution",
     "en": "Retribution",
@@ -10,5 +75,111 @@
     "ru": "Retribution",
     "zh": "审判者级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 35.0,
+  "sofFactionName": "carthum",
+  "soundID": 20063,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Kann <a href=showinfo:47254>Angriffsschadensregulierer</a> ausrüsten",
+          "en": "Can fit <a href=showinfo:47254>Assault Damage Controls</a>",
+          "es": "Es posible equipar <a href=showinfo:47254>controles de daños por asalto</a>.",
+          "fr": "Peut être équipé des <a href=showinfo:47254>contrôles des dégâts d'assaut</a>",
+          "ja": "<a href=showinfo:47254>アサルトダメージ制御</a>を装備可能",
+          "ko": "<a href=showinfo:47254>어썰트 데미지 컨트롤</a> 장착가능",
+          "ru": "Позволяет установить <a href=showinfo:47254>ударные модули боевой живучести</a>",
+          "zh": "可以装配<a href=showinfo:47254>突击损伤控制</a>装备"
+        },
+        "importance": 2
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Reduktion des <a href=showinfo:3454>Mikrowarpantrieb</a>-Signaturradius",
+          "en": "reduction in <a href=showinfo:3454>Microwarpdrive</a> signature radius penalty",
+          "es": "de reducción de la penalización de radio de la señal del <a href=showinfo:3454>motor de microwarp</a>.",
+          "fr": "de réduction à la pénalité de rayon de signature des <a href=showinfo:3454>propulseurs de microwarp</a>",
+          "ja": "<a href=showinfo:3454>マイクロワープドライブ</a>のシグネチャ半径ペナルティが軽減",
+          "ko": "<a href=showinfo:3454>마이크로 워프 드라이브</a> 시그니처 반경 페널티 감소",
+          "ru": "уменьшается влияние <a href=showinfo:3454>микроварп-ускорителей</a> на размер сигнатуры корабля",
+          "zh": "<a href=\"showinfo:3454\">微型跃迁推进器</a>的信号半径惩罚加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3331": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf die Feuerrate von <a href=showinfo:3303>kleinen Energiewaffentürmen</a>",
+            "en": "bonus to <a href=showinfo:3303>Small Energy Turret</a> rate of fire",
+            "es": "de bonificación a la cadencia de tiro de la <a href=showinfo:3303>torreta de energía pequeña</a>.",
+            "fr": "de bonus à la cadence de tir des <a href=showinfo:3303>petites tourelles à énergie</a>",
+            "ja": "<a href=showinfo:3303>小型エネルギータレット</a>の発射速度が上昇",
+            "ko": "<a href=showinfo:3303>소형 에너지 터렛</a> 연사속도 증가",
+            "ru": "бонус к скорострельности <a href=showinfo:3303>малых энергетических орудий</a>",
+            "zh": "<a href=showinfo:3303>小型能量炮台</a>射速加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Reduktion der Aktivierungskosten von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a>",
+            "en": "reduction in <a href=showinfo:3303>Small Energy Turret</a> activation cost",
+            "es": "de reducción del coste de activación de la <a href=showinfo:3303>torreta de energía pequeña</a>.",
+            "fr": "de réduction du coût d'activation des <a href=showinfo:3303>petites tourelles à énergie</a>",
+            "ja": "<a href=showinfo:3303>小型エネルギータレット</a>の起動コストが軽減",
+            "ko": "<a href=showinfo:3303>소형 에너지 터렛</a> 활성화 비용 감소",
+            "ru": "сокращается расход энергии при ведении огня из <a href=showinfo:3303>малых лазерных орудий</a>",
+            "zh": "<a href=\"showinfo:3303\">小型能量炮台</a>启动消耗减少"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ],
+      "12095": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3303>Small Energy Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3303>torreta de energía pequeña</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:3303>petites tourelles à énergie</a>",
+            "ja": "<a href=showinfo:3303>小型エネルギータレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3303>소형 에너지 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон <a href=showinfo:3303>малых лазерных орудий</a>",
+            "zh": "<a href=\"showinfo:3303\">小型能量炮台</a>伤害加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die optimale Reichweite von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3303>Small Energy Turret</a> optimal range",
+            "es": "de bonificación al alcance óptimo de la <a href=showinfo:3303>torreta de energía pequeña</a>.",
+            "fr": "de bonus à la portée optimale des <a href=showinfo:3303>petites tourelles à énergie</a>",
+            "ja": "<a href=showinfo:3303>小型エネルギータレット</a>の最適射程距離が拡大",
+            "ko": "<a href=showinfo:3303>소형 에너지 터렛</a> 최적사거리 증가",
+            "ru": "увеличивается оптимальная дальность ведения огня из <a href=showinfo:3303>малых лазерных орудий</a>",
+            "zh": "<a href=\"showinfo:3303\">小型能量炮台</a>最佳射程加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 597,
   "volume": 28600.0
 }

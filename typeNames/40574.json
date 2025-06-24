@@ -1,5 +1,18 @@
 {
-  "typeID": 40574,
+  "capacity": 10.0,
+  "description": {
+    "de": "Dieses geheimnisvolle Shuttle bewegt sich langsam durch das System und folgt dabei einem vorbestimmten Kurs von einem unbekannten Startpunkt aus. Obwohl Ähnlichkeiten zwischen dessen Design und manchen aktuellen Raumschiffen erkennbar sind, scheint dieses Schiff diesen viele Jahrhunderte hinterher zu sein.\n\n\n\nScans deuten darauf hin, dass das Shuttle einst Platz für einen Insassen bot, nun jedoch leer ist und in stiller Erinnerung des visionären Piloten weiter segelt, den es einst beförderte.",
+    "en": "This mysterious shuttle is slowly passing through the system, following a predetermined course from some unknown origin. Although similarities between its design and some current starships can be discerned, this vessel appears to predate those ships by many centuries.\r\n\r\nScans indicate that the shuttle once had room for a single occupant but now lies empty, sailing onward in silent memory of the visionary pilot it once ferried.",
+    "es": "Esta misteriosa lanzadera atraviesa lentamente el sistema, siguiendo un rumbo predefinido cuyo origen se desconoce. Aunque es posible percibir ciertas similitudes entre su diseño y el de algunas naves actuales, parece precederlas por muchos siglos.\n\n\n\nLos escáneres indican que solo había hueco para un ocupante, aunque ahora está vacío y avanza en la memoria silenciosa del piloto visionario al que una vez transportó.",
+    "fr": "Cette mystérieuse navette se déplace lentement dans le système, suivant un parcours prédéterminé d'origine inconnue. Même si l'on discerne certaines similitudes entre son modèle et celui de certains vaisseaux actuels, elle semble précéder ces vaisseaux de plusieurs siècles.\n\n\n\nDes scans indiquent que la navette a déjà abrité un seul occupant, mais elle est désormais vide, continuant à naviguer silencieusement en mémoire du pilote visionnaire qu'elle a jadis transporté.",
+    "ja": "どこからともなく現れたこの謎のシャトルは、予め指定されたコースに沿ってゆっくりとシステムを通過しようとしている。現行の艦船よりも何世紀か前に製造されたシャトルのようだが、両者の設計は類似している部分もある。スキャンによると以前はこのシャトルで1名の乗員が生活していたようだが今は無人であり、かつて存在したパイロットの記憶だけを頼りに航海を続けているらしい。",
+    "ko": "기이한 모습의 셔틀 한 대가 의문의 항로를 따라 비행 중입니다. 일반적인 우주선과 비슷한 외양을 지녔으나 실제로는 수천년 전의 건조되었습니다. <br><br>스캔 결과 탑승 공간이 존재합니다만, 현재는 비어있습니다. 조종사를 잃은 셔틀은 항로를 따라 끝없이 움직입니다.",
+    "ru": "Этот таинственный личный катер неспешно плывёт сквозь планетную систему, следуя курсу, некогда заложенному в его бортовой компьютер. Прослеживается явное сходство между конструкциями этого загадочного корабля и некоторых современных космических судов, но очевидно, что он сошел с верфей много сотен лет тому назад.\n\n\n\nРезультаты сканирования показывают, что в кабине катера было место для одного человека, но теперь корабль абсолютно пуст и бороздит просторы космоса в качестве безмолвного памятника неизвестному пилоту.",
+    "zh": "这艘神秘的穿梭机缓慢地穿越星系，按照事先设定好的路线而前往某个未知地点。尽管能看出它与某些当代舰船在设计上有相似之处，但它看起来比那些船的出现都要早上许多个世纪。\n\n\n\n扫描结果显示，这艘船留有可容纳一名乘客的空间，但是现在已空空如也，它仿佛只是在曾经的主人静默的回忆中独自前行。"
+  },
+  "graphicID": 4517,
+  "groupID": 818,
+  "mass": 1600000.0,
   "name": {
     "de": "Tom's Shuttle",
     "en": "Tom's Shuttle",
@@ -10,5 +23,10 @@
     "ru": "Tom's Shuttle",
     "zh": "Tom的穿梭机"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 16,
+  "radius": 64.0,
+  "sofFactionName": "science",
   "volume": 5000.0
 }

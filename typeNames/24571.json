@@ -1,5 +1,18 @@
 {
-  "typeID": 24571,
+  "basePrice": 15000000.0,
+  "description": {
+    "de": "Bedienung von Capital-Schildtransferanlagen und anderen Schildemissionssystemen. 5% Reduktion des Energiespeicherbedarfs für Capital-Schildemissionssystemen je Skillstufe.",
+    "en": "Operation of capital sized shield transfer array and other shield emission systems. 5% reduced capacitor need for capital shield emission system modules per skill level.",
+    "es": "Funcionamiento de matriz de transferencia de escudo de tamaño capital y otros sistemas de emisión de escudo. Necesidad del condensador reducida un 5 % en módulos de sistemas de emisión de escudo capitales por nivel de habilidad.",
+    "fr": "Exploitation du module de transfert de bouclier de taille capitale et d'autres systèmes d'émission de bouclier. Réduit de 5 % par niveau de compétence les besoins énergétiques du capaciteur pour les modules de systèmes d'émission de bouclier capitaux.",
+    "ja": "母艦級シールドトランスファー施設などのシールドエミッションシステムを操作するスキル。スキルレベル上昇ごとにキャピタルシールドエミッションシステムモジュールのキャパシタ消費量が5%減少する。",
+    "ko": "캐피탈급 실드 전송 시스템의 운용을 위한 스킬입니다. 매 레벨마다 캐피탈급 실드 전달 시스템 모듈의 캐패시터 사용량 5% 감소",
+    "ru": "Навык эксплуатации сверхбольших установок дистанционной накачки щитов. За каждую степень освоения навыка: на 5% сокращается расход энергии при работе сверхбольших установок дистанционной накачки щитов.",
+    "zh": "操作旗舰级护盾传输阵列及其他护盾频散系统的技能。每升一级，旗舰级护盾频散系统装备的电容消耗减少5%。"
+  },
+  "groupID": 1209,
+  "iconID": 33,
+  "marketGroupID": 1747,
   "name": {
     "de": "Capital Shield Emission Systems",
     "en": "Capital Shield Emission Systems",
@@ -10,5 +23,8 @@
     "ru": "Пилотам КБТ: дистанционная накачка щитов",
     "zh": "旗舰级护盾频散系统"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

@@ -1,5 +1,16 @@
 {
-  "typeID": 22683,
+  "description": {
+    "de": "Eine Thorax, die von einem Agenten geflogen wird.",
+    "en": "A Thorax piloted by an agent.",
+    "es": "Thorax pilotada por un agente.",
+    "fr": "Un Thorax piloté par un agent.",
+    "ja": "エージェントを乗せたソーラックス。",
+    "ko": "에이전트가 조종하는 쏘락스입니다.",
+    "ru": "Корабль класса Thorax, управляемый агентом.",
+    "zh": "由代理人驾驶的托勒克斯级飞船。"
+  },
+  "graphicID": 63,
+  "groupID": 517,
   "name": {
     "de": "Cosmos Thorax",
     "en": "Cosmos Thorax",
@@ -10,5 +21,9 @@
     "ru": "Cosmos Thorax",
     "zh": "深空 托勒克斯级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 167.24,
+  "sofFactionName": "gallentebase"
 }

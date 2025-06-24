@@ -1,5 +1,17 @@
 {
-  "typeID": 3027,
+  "description": {
+    "de": "Ein glitschig aussehendes, lichtdurchlässiges, bernsteinfarbenes Mineral mit einer sechseckigen, kristallinen Struktur. Seine radioaktiven Eigenschaften erfordern eine Aufbewahrung in speziellen Containern. Von der Handhabung durch jemand anderen, als dafür ausgebildete Techniker, wird dringend abgeraten.<br><br>\r\nCerrocentite wird hauptsächlich in stationsseitigen Sicherheitsnetzwerken genutzt. Dort vor allem in den Systemen, die Missverhältnisse im Atmosphärengemisch erkennen sollen.",
+    "en": "A slick-looking, translucent amber mineral with a hexagonal crystalline structure. Its radioactive properties require the material to be stored in special containment units; handling by anyone other than a trained engineer is strongly discouraged.<br><br>\r\nCerrocentite is used primarily in stationside security networks, mostly in the systems which detect unbalance in the atmosphere mix.",
+    "es": "Mineral ámbar translúcido de aspecto resbaladizo y estructura cristalina hexagonal. Sus propiedades radiactivas exigen que el material se almacene en unidades de contención especiales. Se desaconseja encarecidamente que lo manipule cualquier persona que no sea un ingeniero capacitado.<br><br>\n\nLa cerrocentita se utiliza principalmente en las redes de seguridad de las estaciones, sobre todo en los sistemas que detectan desequilibrios en la atmósfera.",
+    "fr": "Un minéral ambre gras et translucide avec une structure cristalline hexagonale. Ses propriétés radioactives nécessitent de stocker ce matériau dans des unités spéciales. Il est fortement déconseiller aux personnes non expérimentées de manipuler ce minéral.<br><br> La cerrocentite est principalement utilisée dans les réseaux de sécurité des stations, et notamment dans les systèmes qui détectent les déséquilibres dans l'atmosphère.",
+    "ja": "ツルツルした、透き通った琥珀色の無機物で、六角形の結晶構造を持つ。放射能特性があるため、特殊な格納ユニットに保管する必要がある。訓練されたエンジニア以外の者が扱うことは絶対にお勧めしない。<br><br>\r\nセロセンタイトは大抵、大気が混合し不安定であると検出されたシステムのステーション側のセキュリティ網に主に使用される。",
+    "ko": "호박색을 띠는 반투명한 광석으로 육각형 크리스탈 구조를 지녔습니다. 방사성을 띠고 있어 반드시 특수한 용기에 담아야 하며 숙련된 엔지니어가 아니라면 절대 다뤄서는 안되는 물질입니다.<br><br><br>세로센타이트는 통상적으로 불안정한 환경이 감지되는 항성계 및 각종 보안 네트워크에서 사용되고 있습니다.",
+    "ru": "Этот гладкий и полупрозрачный материал с шестиугольной кристаллической структурой похож на янтарь. Из-за высокого уровня радиоактивности его хранят в специальных контейнерах, а к обращению с ним стараются допускать лишь квалифицированных инженеров.<br><br>Церроцентин преимущественно используется в системах безопасности станций, особенно в датчиках состава атмосферы.",
+    "zh": "这是一种漂亮、会发光，具有六角晶体结构的琥珀色矿物。这种放射性物质需要存放在一个特殊的密封箱里，只有受过培训的专业人员才能安全地对其进行处理。<br><br>\n峰币岩主要用在空间站安全网络设备里，最常见的是用在探测大气组成失衡的系统中。"
+  },
+  "groupID": 314,
+  "iconID": 94,
+  "mass": 10.0,
   "name": {
     "de": "Crate of Contained Cerrocentite",
     "en": "Crate of Contained Cerrocentite",
@@ -10,5 +22,7 @@
     "ru": "Crate of Contained Cerrocentite",
     "zh": "一箱密封的峰币岩"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 10.0
 }

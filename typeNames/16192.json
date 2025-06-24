@@ -1,5 +1,18 @@
 {
-  "typeID": 16192,
+  "capacity": 220.0,
+  "description": {
+    "de": "Dies ist ein Söldner, der offensichtlich neu im Geschäft ist. Die meisten Söldner sind nicht feindlich, solange sie nicht den Auftrag haben Sie umzubringen, oder Sie als Bedrohung empfinden. Dennoch sollten Sie bei der Annäherung an solche Schiffe vorsichtig sein, da sie in der Regel bewaffnet und gefährlich sind.\r\n\r\nBedrohungsstufe: Mäßig",
+    "en": "This is a mercenary, who is obviously starting out in his profession.  Most mercenaries are not hostile unless they are on a specific mission to eliminate you, or view you as a threat.  Caution is advised when approaching such vessels however, as they are normally armed and dangerous.  Threat level: Moderate",
+    "es": "Mercenario que está empezando en su profesión. La mayoría de los mercenarios no son hostiles, a menos que estén en una misión específica en la que tengan que matarte o que te vean como una amenaza. Sin embargo, se recomienda precaución al acercarse a estas naves, ya que normalmente están armadas y son peligrosas. Nivel de amenaza: moderado.",
+    "fr": "Il s'agit d'un mercenaire qui débute dans la profession.  La plupart des mercenaires ne sont pas agressifs, à moins qu'ils ne soient en mission pour vous éliminer ou bien qu'ils vous considèrent comme une menace.  Cependant, la prudence est de rigueur à l'approche de ces vaisseaux, car ils sont généralement armés et dangereux.  Niveau de menace : moyen",
+    "ja": "傭兵だが、見るからに駆け出しだ。相手が暗殺のターゲットや危険な存在でない限り、傭兵が敵となることは少ない。だが、大抵は武装した危険な船に乗っているため、うかつには近づけない。危険度:普通",
+    "ko": "신출내기 용병입니다. 청부 대상으로 지정되거나 위협을 가하지 않는 이상 먼저 적대하지 않습니다. 무장하고 있는 경우가 많아 접근 시 주의가 요구됩니다. 위험도: 보통",
+    "ru": "Это наёмник, который, по всей видимости, только начал заниматься этим делом. Большинство наёмников не настроены враждебно, если только они не выполняют конкретное задание по вашему уничтожению или не видят в вас угрозу. В то же время, лучше соблюдать осторожность при приближении к таким кораблям, так как они обычно хорошо вооружены и опасны. Уровень опасности: умеренный",
+    "zh": "这是一个雇佣兵，显然他的职业生涯才刚开始。大多数雇佣兵并无敌意，除非他们接受了任务要消灭你，或者你对他们构成了威胁。不过在接近这类飞船时要保持警惕，因为他们通常都有所武装，具有危险性。威胁等级：中等"
+  },
+  "graphicID": 54,
+  "groupID": 818,
+  "mass": 1000000.0,
   "name": {
     "de": "Claudius",
     "en": "Claudius",
@@ -10,5 +23,10 @@
     "ru": "Claudius",
     "zh": "克劳迪亚斯"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 13.0,
+  "sofFactionName": "amarrbase",
   "volume": 28100.0
 }

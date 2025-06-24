@@ -1,5 +1,18 @@
 {
-  "typeID": 20176,
+  "capacity": 1.0,
+  "description": {
+    "de": "Ein Ort zum Mischen und Verbinden verschiedener Substanzen. Das Reactor Array ist eine Anlage, in der die chemischen Prozesse ablaufen, die ein einzelnes Element in ein komplexes Kompositum umwandeln. Deswegen spielt es eine wichtige Rolle bei der Nutzbarmachung von Mondmineralien. Das Simple Reactor Array wird an einem mittleren Kontrollturm (Medium Control Tower) nur mit halber Geschwindigkeit laufen und kann nur einfache Reaktionen (Simple Reactions) bearbeiten.",
+    "en": "An arena for various different substances to mix and match.  The Reactor Array is where chemical processes take place that can turn a simple element into a complex composite, and thus plays an important part in the harnessing of moon minerals.\r\n\r\nThe Simple Reactor Array will only run at half speed on a Medium Control Tower, and may only contain Simple Reactions.",
+    "es": "Escenario para mezclar y combinar sustancias varias. Los procesos químicos que pueden convertir un elemento simple en un compuesto complejo tienen lugar en la matriz de reactor, por lo que desempeña un papel importante en el aprovechamiento de las menas lunares.\n\nLa matriz de reactor simple funcionará a media capacidad en una torre de control mediana y solo podrá contener reacciones simples.",
+    "fr": "Arène permettant de mélanger les différentes substances.  C'est dans un module de réacteur qu'ont lieu les processus chimiques qui permettent de produire des composés complexes à partir de simples éléments. Les réacteurs sont un maillon essentiel dans l'exploitation des minerais lunaires.\n\nLe module de réacteur simple fonctionne à 50 % de ses capacités sur une tour de contrôle intermédiaire et permet d'envisager uniquement des réactions simples.",
+    "ja": "様々な物質を混合、調合する場所。化合施設は単純な元素を複雑な素材へと変える化学反応を実行する施設。衛星無機物の取り出しにおいて重要な役割を担う。\n\n単純化合施設は中型コントロールタワーの半分の速度で動作し、単純な化学反応だけが実行される。",
+    "ko": "종류별로 다른 물질들을 실험해보고 배합하는 시설입니다. 화학 처리를 통해 일반 원소를 복합 합성물으로 변환할 수 있기 때문에 위성 미네랄을 활용하는데 있어 중요한 역할을 합니다. <br><br>단순 합성 시설이 중형 관제타워에 탑재되면 원래의 속도의 절반으로 운용되며, 단순 합성만 가능합니다.",
+    "ru": "Установка, предназначенная для комбинирования различных веществ. В этом реакторе проходят химические процессы, которые могут превратить простой элемент в сложное соединение, таким образом, играя важную роль в использовании лунных минералов.\n\nПри использовании со средней башней управления простой реактор будет работать только на половину мощности и может использоваться только для простых реакций.",
+    "zh": "一个用于混合搭配各种不同物质的场地。反应堆阵列中发生的化学反应，可将一种简单元素转变成一种复杂合成物，这在卫星矿物的开发中起到了重要的作用。简单反应堆阵列在中型控制塔操纵下只能以半速运转，并且只能进行简单反应。"
+  },
+  "graphicID": 2377,
+  "groupID": 438,
+  "mass": 100000000.0,
   "name": {
     "de": "Academy",
     "en": "Academy",
@@ -10,5 +23,9 @@
     "ru": "Academy",
     "zh": "研究院"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 937.0,
+  "sofFactionName": "genericmetal",
   "volume": 4000.0
 }

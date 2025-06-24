@@ -1,5 +1,18 @@
 {
-  "typeID": 3315,
+  "basePrice": 1500000.0,
+  "description": {
+    "de": "Kenntnis der strukturellen Schwächen von Raumschiffen. \n\n\n\n3 % Bonus auf die Schadenswirkung aller Geschütztürme je Skillstufe.",
+    "en": "Knowledge of spaceships' structural weaknesses. 3% bonus per skill level to the damage of all weapon turrets.",
+    "es": "Conocimiento de las debilidades estructurales de las naves espaciales. 3 % de bonificación por nivel de habilidad al daño de todas las torretas de armas.",
+    "fr": "Connaissance des faiblesses structurelles des vaisseaux. Augmente de 3 % par niveau de compétence les dégâts causés par toutes les tourelles.",
+    "ja": "宇宙船のストラクチャの弱点に関する知識。スキルレベル上昇ごとに全てのタレット兵器のダメージが3%増加。",
+    "ko": "함선의 구조적 취약성을 파악하기 위한 스킬입니다. 매 레벨마다 터렛 피해량 3% 증가",
+    "ru": "Знание слабых мест в конструкции кораблей.. За каждую степень освоения навыка: на 3% повышается урон всех типов орудий.",
+    "zh": "飞船结构弱点的知识。每升一级，所有武器炮台伤害提高3%。"
+  },
+  "groupID": 255,
+  "iconID": 33,
+  "marketGroupID": 364,
   "name": {
     "de": "Surgical Strike",
     "en": "Surgical Strike",
@@ -10,5 +23,7 @@
     "ru": "Поиск уязвимых зон",
     "zh": "外科手术打击理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

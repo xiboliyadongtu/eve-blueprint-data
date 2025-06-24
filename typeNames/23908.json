@@ -1,5 +1,18 @@
 {
-  "typeID": 23908,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dies ist eine sehr gut verteidigte Wachstation.",
+    "en": "This is a well defended guard station.",
+    "es": "Estación de vigilancia bien defendida.",
+    "fr": "Il s'agit d'une station de surveillance bien défendue.",
+    "ja": "守りの堅い警備ステーション。",
+    "ko": "견고한 방어시설을 갖춘 경비기지입니다.",
+    "ru": "Это хорошо защищённый охранный пост.",
+    "zh": "一座防守严密的哨站。"
+  },
+  "graphicID": 1712,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Core Serpentis Sentry",
     "en": "Core Serpentis Sentry",
@@ -10,5 +23,10 @@
     "ru": "Core Serpentis Sentry",
     "zh": "核心天蛇集团哨站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 918.0,
+  "sofFactionName": "gallentebase",
   "volume": 100000000.0
 }

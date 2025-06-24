@@ -1,5 +1,66 @@
 {
-  "typeID": 607,
+  "basePrice": 400000.0,
+  "capacity": 400.0,
+  "description": {
+    "de": "Die Imicus ist eine langsame, aber stark gepanzerte Fregatte, ideal für jede Art von Erkundungseinsätzen. Händler, Bergleute und Kampftruppen greifen in der Regel gerne auf die Imicus als Beobachtungsschiff zurück, wenn sie Sektoren mit niedriger Sicherheitsstufe durchkreuzen.",
+    "en": "The Imicus is a slow but hard-shelled frigate, ideal for any type of scouting activity. Used by merchant, miner and combat groups, the Imicus is usually relied upon as the operation's eyes and ears when traversing low security sectors.",
+    "es": "La Imicus es una fragata lenta pero resistente e ideal para cualquier tipo de actividad de exploración. La Imicus es utilizada por grupos de mercaderes, mineros y de combate y suele ser los ojos y los oídos de las operaciones al atravesar sectores de seguridad baja.",
+    "fr": "L’Imicus est une frégate lente mais dotée d’une coque résistante. Elle est idéale pour toute mission de reconnaissance. Utilisé par les marchands, les mineurs et les groupes de combat, l'Imicus sert généralement à reconnaître le terrain lors d'opérations dans les secteurs de basse sécurité.",
+    "ja": "イミュカスは船足は遅いが頑丈なフリゲートで、各種偵察活動に最適だ。商人や採掘業者、それに武装集団が、治安の悪いローセキュリティ宙域を渡る際に、艦隊の目や耳として頼りにする船である。",
+    "ko": "이미커스는 느리지만 견고한 프리깃으로 각종 정찰 임무에 적합한 설계를 지니고 있습니다. 전투, 무역, 채굴 등 다양한 영역에서 활용되며 로우 시큐리티 지역에서 함대의 눈과 귀로써 역할합니다.",
+    "ru": "«Имикус» — медленный, но хорошо бронированный фрегат. Это идеальный корабль для осуществления любых разведывательных операций. Используемый торговцами, бойцами и пилотами-боевиками, «Имикус» — это глаза и уши малых групп, пересекающих сектора с низким уровнем безопасности.",
+    "zh": "伊米卡斯级护卫舰尽管航速较慢，但却具有相当的防护能力，是侦查行动中的理想选择，通常为商人，矿业人员和战斗人员所喜爱。伊米卡斯级在低安全等级地区航行时，更大程度上是依赖于飞行员敏锐的视力和听力来发挥它最大的效能。"
+  },
+  "factionID": 500004,
+  "graphicID": 322,
+  "groupID": 25,
+  "marketGroupID": 77,
+  "mass": 997000.0,
+  "masteries": {
+    "0": [
+      96,
+      104,
+      105,
+      140,
+      89,
+      94
+    ],
+    "1": [
+      96,
+      104,
+      105,
+      140,
+      89,
+      94
+    ],
+    "2": [
+      96,
+      104,
+      105,
+      140,
+      89,
+      94
+    ],
+    "3": [
+      96,
+      104,
+      105,
+      140,
+      89,
+      94
+    ],
+    "4": [
+      96,
+      104,
+      105,
+      107,
+      140,
+      117,
+      89,
+      94
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Imicus",
     "en": "Imicus",
@@ -9,6 +70,65 @@
     "ko": "이미커스",
     "ru": "Imicus",
     "zh": "伊米卡斯级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 33.0,
+  "sofFactionName": "gallentebase",
+  "soundID": 20074,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonus": 5,
+        "bonusText": {
+          "de": "Bonus auf die Virusstärke von <a href=showinfo:22177>Relikt-</a> und <a href=showinfo:22175>Datenanalysatoren</a>",
+          "en": "bonus to <a href=showinfo:22177>Relic</a> and <a href=showinfo:22175>Data Analyzer</a> virus strength",
+          "es": "de bonificación a la intensidad del virus de los <a href=showinfo:22175>analizadores de datos</a> y de <a href=showinfo:22177>reliquias</a>.",
+          "fr": "de bonus à la puissance du virus des <a href=showinfo:22177>analyseurs de reliques</a> et des <a href=showinfo:22175>analyseurs de données</a>",
+          "ja": "<a href=showinfo:22177>遺物アナライザー</a>と<a href=showinfo:22175>データアナライザー</a>のウイルス強度が増加",
+          "ko": "<a href=showinfo:22177>유물</a> 및 <a href=showinfo:22175>데이터 분석기</a> 바이러스 침투력 증가",
+          "ru": "повышается степень опасности вирусов, применяемых в <a href=showinfo:22175>комплексах анализа данных</a> и <a href=showinfo:22177>комплексах анализа артефактов</a>",
+          "zh": "<a href=\"showinfo:22177\">遗迹分析仪</a>和<a href=\"showinfo:22175\">数据分析仪</a>病毒强度加成"
+        },
+        "importance": 1,
+        "unitID": 139
+      }
+    ],
+    "types": {
+      "3328": [
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Stärke von <a href=showinfo:30013>Basis-</a> und <a href=showinfo:30028>Gefechtsscansonden</a>",
+            "en": "bonus to <a href=showinfo:30013>Core</a> and <a href=showinfo:30028>Combat Scanner Probe</a> strength",
+            "es": "de bonificación a la intensidad de la <a href=showinfo:30028>sonda escáner de combate</a> y la <a href=showinfo:30013>de núcleo</a>.",
+            "fr": "de bonus à la puissance des <a href=showinfo:30013>sondes d'exploration principales</a> et des <a href=showinfo:30028>sondes d'exploration de combat</a>",
+            "ja": "<a href=showinfo:30013>コアスキャナープローブ</a>と<a href=showinfo:30028>戦闘スキャナープローブ</a>の強度が増加",
+            "ko": "<a href=showinfo:30013>코어 프로브</a> 및 <a href=showinfo:30028>정찰 프로브</a> 스캔 강도 증가",
+            "ru": "повышается чувствительность бортовой аппаратуры <a href=showinfo:30013>зондов навигационной разведки</a> и <a href=showinfo:30028>боевых разведзондов</a>",
+            "zh": "<a href=\"showinfo:30013\">核心</a>和<a href=\"showinfo:30028\">作战扫描探针</a>强度加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Reduktion der Dauer von <a href=showinfo:25861>Bergungsmodulen</a>",
+            "en": "reduction in <a href=showinfo:25861>Salvager</a> duration",
+            "es": "de reducción de la duración de los <a href=showinfo:25861>recuperadores</a>.",
+            "fr": "de réduction à la durée des <a href=showinfo:25861>récupérateurs</a>",
+            "ja": "<a href=showinfo:25861>サルベージャー</a>の起動時間が短縮",
+            "ko": "<a href=showinfo:25861>샐비저</a> 지속시간 감소",
+            "ru": "сокращается продолжительность рабочего цикла <a href=showinfo:25861>демонтажных модулей</a>",
+            "zh": "<a href=\"showinfo:25861\">打捞装置</a>运转周期降低"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 21500.0
 }

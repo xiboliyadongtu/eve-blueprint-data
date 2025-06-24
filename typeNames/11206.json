@@ -1,5 +1,17 @@
 {
-  "typeID": 11206,
+  "basePrice": 84000.0,
+  "description": {
+    "de": "Fertigkeit zur Installation von Schildupgrades, wie zum Beispiel Shield Extenders oder Shield Rechargers.\r\n\r\nBonus: 2% weniger Energieverbrauch bei Schildupgrades.",
+    "en": "Skill at installing shield upgrades e.g. shield extenders and shield rechargers. 2% reduction in shield upgrade power needs.",
+    "es": "Habilidad en la instalación de mejoras de escudo, como extensores y cargadores de escudo. 2 % de reducción de la necesidad de potencia al mejorar escudos.",
+    "fr": "Compétence liée à l'installation des améliorations de bouclier telles que les extenseurs ou les rechargeurs de bouclier. Réduit de 2 % les besoins en énergie des améliorations de bouclier.",
+    "ja": "シールドエクステンダーやシールドリチャージャーなどのシールド強化をインストールするためのスキル。シールド強化のパワー消費が 2% 減少する。",
+    "ko": "실드 업그레이드(실드 확장장치 및 회복장치)를 위한 스킬입니다. 실드 업그레이드에 파워그리드 요구치 2% 감소",
+    "ru": "Навык эксплуатации модулей для щитов, например, дополнительных источников щитов и регенераторов щитов. За каждую степень освоения навыка: на 2% сокращается потребность модулей для щитов в мощности реактора.",
+    "zh": "安装护盾升级装备的技能，例如护盾扩展装置和护盾回充器等。每升一级，护盾升级装备的能量需求减少2%。"
+  },
+  "groupID": 1209,
+  "iconID": 33,
   "name": {
     "de": "Advanced Shield Upgrades",
     "en": "Advanced Shield Upgrades",
@@ -10,5 +22,7 @@
     "ru": "Спецкурс оптимизации щитов",
     "zh": "高级护盾提升"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

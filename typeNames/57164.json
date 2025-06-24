@@ -1,5 +1,18 @@
 {
-  "typeID": 57164,
+  "basePrice": 10000000.0,
+  "description": {
+    "de": "Fortgeschrittene Fertigkeit zur Steuerung von Bergungsdrohnen. Bonus von 2 % je Skillstufe auf die Maximalgeschwindigkeit und Bergungschance von Drohnen, welche die Bergungsdrohnenspezialisierung benötigen.",
+    "en": "Advanced proficiency at controlling salvage drones. 2% bonus to the max velocity and salvage chance of drones requiring Salvage Drone Specialization per level.",
+    "es": "Habilidad avanzada para controlar drones recuperadores. 2 % de bonificación por nivel a la velocidad máxima y la probabilidad de recuperación de los drones que requieren la especialización en drones recuperadores.",
+    "fr": "Compétence avancée liée au contrôle des drones de récupération. 2 % de bonus à la vitesse maximale et aux chances de récupération des drones nécessitant la spécialisation en drones de récupération (par niveau).",
+    "ja": "サルベージドローン操縦の上級スキル。レベルが上がるごとにサルベージドローン特性を必要とするドローンの最大速度とサルベージチャンスに2%のボーナスが付与される。",
+    "ko": "샐비지 드론의 운용 효율성을 향상하기 위한 스킬입니다. 매 레벨마다 샐비지 성공률 및 비행 속도 2% 증가",
+    "ru": "Продвинутый уровень управления дронами-демонтажниками. Бонус 2% за уровень к максимальной скорости и шансу получения добычи для дронов, обращение с которыми требует специализации на дронах-демонтажниках.",
+    "zh": "精通打捞无人机控制的高级技能。每升一级，需要打捞无人机专业研究技能的无人机的打捞成功几率提高2%，最大速度提高2%。"
+  },
+  "groupID": 273,
+  "iconID": 33,
+  "marketGroupID": 366,
   "name": {
     "de": "Salvage Drone Specialization",
     "en": "Salvage Drone Specialization",
@@ -10,5 +23,7 @@
     "ru": "Salvage Drone Specialization",
     "zh": "打捞无人机专业研究"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,79 @@
 {
-  "typeID": 16231,
+  "basePrice": 40400000.0,
+  "capacity": 450.0,
+  "description": {
+    "de": "Die Cyclone wurde entwickelt, um die steigende Nachfrage nach einem Schiff zu befriedigen, das Fregatten bekämpfen kann und dennoch mobiler als ein Schlachtschiff ist. Dabei haben sich die sieben Hochleistungs-Slots und der starke Antrieb der Cyclone als ideal erwiesen.",
+    "en": "The Cyclone was created in order to meet the increasing demand for a vessel capable of providing muscle for frigate detachments while remaining more mobile than a battleship. To this end, the Cyclone's seven high-power slots and powerful thrusters have proved ideal.",
+    "es": "La Cyclone se creó para satisfacer la creciente demanda de naves capaces de brindar fuerza a los destacamentos de fragatas, pero con mayor movilidad que un acorazado. La Cyclone, sus siete ranuras de potencia superior y sus contundentes propulsores han demostrado que cumplen su propósito.",
+    "fr": "Le Cyclone a été créé afin de répondre à la demande croissante d'un vaisseau capable de renforcer solidement les détachements de frégates tout en restant plus mobile qu'un cuirassé. À cet effet, les sept emplacements haute puissance du Cyclone et ses puissants propulseurs ont parfaitement rempli leur rôle.",
+    "ja": "Cyclonは、フリゲートでは制圧力が足りず、戦艦では機動力が足りないという状況に対応できる船を求める声の高まりに応えて開発された。7つのハイパワースロットと強力なスラスターは、まさに理想的な回答となった。",
+    "ko": "프리깃 파견대의 부족한 화력을 보강하기 위해 배틀쉽보다 기동성이 뛰어나고 동시에 충분한 화력 우위를 점할 수 있는 사이클론 함선이 제작되었습니다. 특히 사이클론은 7개의 하이슬롯 및 추진기가 장착이 가능하여 상기된 임무 달성에 매우 효율적인 함선입니다.",
+    "ru": "Крейсер типа «Сайклон» был разработан в ответ на необходимость создать корабль, достаточно мощный для усиления эскадрилий фрегатов, но при этом обладающий большей маневренностью, чем линейные корабли. Уверенно справляться с поставленной перед ними задачей «сайклонам» помогают мощный двигатель и семь разъёмов для установки модулей большой мощности.",
+    "zh": "共和舰队一直希望能配备一种新型战舰，既能成为护卫舰舰队的中坚力量，又比其它战列舰更具机动能力。它拥有7个高能量槽和强劲的推进器，被认为是战场上最理想的选择。"
+  },
+  "factionID": 500002,
+  "graphicID": 2384,
+  "groupID": 419,
+  "marketGroupID": 473,
+  "mass": 12400000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      150,
+      76,
+      141,
+      85,
+      94,
+      165
+    ],
+    "1": [
+      96,
+      99,
+      150,
+      76,
+      141,
+      85,
+      94,
+      165
+    ],
+    "2": [
+      96,
+      99,
+      150,
+      76,
+      141,
+      85,
+      94,
+      165
+    ],
+    "3": [
+      96,
+      99,
+      150,
+      76,
+      141,
+      85,
+      94,
+      165
+    ],
+    "4": [
+      96,
+      99,
+      150,
+      76,
+      109,
+      141,
+      85,
+      118,
+      152,
+      153,
+      154,
+      94,
+      165
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Cyclone",
     "en": "Cyclone",
@@ -9,6 +83,94 @@
     "ko": "사이클론",
     "ru": "Cyclone",
     "zh": "飓风级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 258.0,
+  "sofFactionName": "minmatarbase",
+  "soundID": 20076,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Kann ein <a href=showinfo:3348>Kommandostrahl</a>-Modul verwenden",
+          "en": "Can use one <a href=showinfo:3348>Command Burst</a> module",
+          "es": "Es posible equipar un módulo de <a href=showinfo:3348>estallido de mando</a>.",
+          "fr": "Peut utiliser une <a href=showinfo:3348>salve de commandement</a>.",
+          "ja": "<a href=showinfo:3348>コマンドバースト</a>モジュールは1個使用可能です",
+          "ko": "한 개의 <a href=showinfo:3348>커맨드 버스트</a> 모듈만 사용 가능",
+          "ru": "Корабли этого типа могут включать один <a href=showinfo:3348>импульсный оптимизатор</a>",
+          "zh": "可以装配一个<a href=showinfo:3348>指挥脉冲波</a>装备"
+        },
+        "importance": 1
+      },
+      {
+        "bonus": 25.0,
+        "bonusText": {
+          "de": "Bonus auf die Geschwindigkeit von Lenkwaffen",
+          "en": "bonus to Missile velocity",
+          "es": "de bonificación a la velocidad de los misiles.",
+          "fr": "bonus à la vitesse des missiles",
+          "ja": "ミサイル速度が上昇",
+          "ko": "미사일 속도 증가",
+          "ru": "повышается скорость полёта ракет",
+          "zh": "导弹飞行速度加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Bonus auf die Reichweite des Wirkungsbereichs von <a href=showinfo:3348>Kommandostrahlen</a>",
+          "en": "bonus to <a href=showinfo:3348>Command Burst</a> area of effect range",
+          "es": "de bonificación al alcance del radio de acción del <a href=showinfo:3348>estallido de mando</a>.",
+          "fr": "de bonus à la portée de l'effet de zone des <a href=showinfo:3348>salves de commandement</a>.",
+          "ja": "<a href=showinfo:3348>コマンドバースト</a>効果範囲にボーナス",
+          "ko": "<a href=showinfo:3348>커맨드 버스트</a> 효과 반경 증가",
+          "ru": "увеличивается радиус импульсов, генерируемых <a href=showinfo:3348>импульсными оптимизаторами</a>",
+          "zh": "<a href=showinfo:3348>指挥脉冲波</a>效果范围加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "33098": [
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Feuerrate von <a href=showinfo:3324>schweren Lenkwaffenwerfern</a> und <a href=showinfo:25719>schweren Angriffslenkwaffenwerfern</a>",
+            "en": "bonus to <a href=showinfo:3324>Heavy Missile</a> and <a href=showinfo:25719>Heavy Assault Missile</a> Launcher rate of fire",
+            "es": "de bonificación a la cadencia de tiro de los <a href=showinfo:3324>lanzamisiles pesados</a> y los <a href=showinfo:25719>lanzamisiles de asalto pesados</a>.",
+            "fr": "de bonus à la cadence de tir du <a href=showinfo:3324>lance-missiles lourd</a> et du <a href=showinfo:25719>lance-missiles d'assaut lourd</a>",
+            "ja": "<a href=showinfo:3324>ヘビーミサイル</a>・<a href=showinfo:25719>ヘビーアサルトミサイル</a>ランチャーの発射間隔が短縮",
+            "ko": "<a href=showinfo:3324>헤비 미사일</a>, <a href=showinfo:25719>헤비 어썰트 미사일</a> 런처 연사속도 증가",
+            "ru": "увеличивается скорострельность ПУ <a href=showinfo:3324>тяжёлых ракет</a> и <a href=showinfo:25719>тяжёлых штурмовых ракет</a>",
+            "zh": "<a href=\"showinfo:3324\">重型导弹发射器</a>和<a href=\"showinfo:25719\">重型攻击导弹发射器</a>射速加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Leistung von <a href=showinfo:3416>Schildboostern</a>",
+            "en": "bonus to <a href=showinfo:3416>Shield Booster</a> amount",
+            "es": "de bonificación a la eficiencia de los <a href=showinfo:3416>potenciadores de escudo</a>.",
+            "fr": "de bonus au montant des <a href=showinfo:3416>boosters de bouclier</a>",
+            "ja": "<a href=showinfo:3416>シールドブースター</a>のブースト量が増加",
+            "ko": "<a href=showinfo:3416>실드 부스터</a> 회복량 증가",
+            "ru": "повышается производительность <a href=showinfo:3416>установок накачки щитов</a>",
+            "zh": "<a href=\"showinfo:3416\">护盾回充增量器</a>回充量加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 216000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 16852,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese Strukturen wurden im Gallente-Caldari Krieg häufig eingesetzt. Dort konnten caldarische Piloten einen sicheren Zwischenstop in ansonsten kaum besiedelten Gebieten machen. Außerdem waren sie eine große Hilfe beim Zurückdrängen der Kampflinie.",
+    "en": "These structures saw heavy use during the days of the Gallente-Caldari war.  Built to allow the State's Navy vessels the opportunity to make fortified pit stops in otherwise sparsely populated areas, they were also a tremendous help in pushing back the battle lines.",
+    "es": "Estas estructuras resultaron muy útiles durante los días de la guerra Gallente-Caldari. Construidas para dar a las naves de la Armada del Estado la oportunidad de hacer paradas técnicas fortificadas en zonas escasamente pobladas, también supusieron una gran ayuda para repeler las líneas de combate.",
+    "fr": "Ces structures furent énormément utilisées au cours de la guerre Gallente-Caldari.  Conçues pour permettre aux vaisseaux de la Navy de l'État de faire des arrêts au stand en zone fortifiée dans des zones très peu peuplées, ils furent aussi d'un grand secours pour faire reculer les lignes de front.",
+    "ja": "ガレンテ-カルダリ戦争当時に頻繁に利用された建造物。連合海軍の艦船が人のまばらな地域でも要塞化されたピットストップを建造できるようになっただけでなく、戦線を押し戻すのにも大いに役立った。",
+    "ko": "갈란테-칼다리 전쟁 중에 보편적으로 활용되던 구조물입니다. 급유소가 드문 지역에서 칼다리 함선에 급유를 하기 위해 지어졌으나 전선을 밀고 진격함에 있어서도 큰 전력으로 작용하였습니다.",
+    "ru": "Эти сооружения часто использовались во время войны Gallente и Caldari. Они предназначались для обслуживания боевых кораблей в малонаселенных районах и внесли значительный вклад в ход войны.",
+    "zh": "在盖伦特—加达里战争时期，这种建筑被大量使用。合众国海军船只可以借助它们在人烟稀少的地区建造强化中途站。在把战线向前推进的过程中，它们也起了很大的作用。"
+  },
+  "graphicID": 1708,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Caldari Deadspace Tactical Outpost",
     "en": "Caldari Deadspace Tactical Outpost",
@@ -10,5 +23,10 @@
     "ru": "Caldari Deadspace Tactical Outpost",
     "zh": "加达里死亡空间战术哨站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 250.0,
+  "sofFactionName": "caldaribase",
   "volume": 100000000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 55033,
+  "basePrice": 20300000.0,
+  "description": {
+    "de": "Skill zur Bedienung von schiffsbasierten Arcing-Vorton-Projektoren. 2 % Bonus auf die Feuerrate aller Vorton-Projektoren je Skillstufe.",
+    "en": "Basic skill for operation of ship-based Arcing Vorton Projectors.\r\n\r\n2% Bonus to all Vorton Projectors' rate of fire per skill level.",
+    "es": "Habilidad básica para el manejo de proyectores vortónicos de arco montados en naves.\n\n\n\n2 % de bonificación a la cadencia de tiro de todos los proyectores vortónicos por nivel de habilidad.",
+    "fr": "Compétence basique liée aux projecteurs d'arcs de vortons sur vaisseaux. Augmente de 2 % par niveau de compétence la cadence de tir de tous projecteurs de vortons.",
+    "ja": "艦船アーク式ヴォートンプロジェクターの操作のための基本スキル。\r\n\nスキルレベル上昇ごとに全てのヴォートンプロジェクターの発射間隔に 2% のボーナス。",
+    "ko": "함선기반 보르톤 프로젝터 운용을 위한 기본 스킬입니다. 매 레벨마다 보르톤 프로젝터 연사속도 2% 증가",
+    "ru": "Базовый навык использования корабельных дуговых вортонных проекторов. +2% к скорострельности всех вортонных проекторов за каждый уровень навыка.",
+    "zh": "操作舰载电弧弦投射器的基础技能。\n\n\n\n每升一级，电弧弦投射器的射速提高2%。"
+  },
+  "groupID": 255,
+  "iconID": 33,
+  "marketGroupID": 364,
   "name": {
     "de": "Vorton Projector Operation",
     "en": "Vorton Projector Operation",
@@ -10,5 +23,7 @@
     "ru": "Vorton Projector Operation",
     "zh": "电弧弦投射器操作"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

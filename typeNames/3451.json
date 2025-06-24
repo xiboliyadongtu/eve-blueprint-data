@@ -1,5 +1,18 @@
 {
-  "typeID": 3451,
+  "basePrice": 37500.0,
+  "description": {
+    "de": "Skill zur verbesserten Kontrolle über den Energieverbrauch von Nachbrennern. 10% Reduktion des Energiespeicherbedarfs von Nachbrennern je Skillstufe.",
+    "en": "Skill at improved control over afterburner energy consumption. 10% reduction in afterburner capacitor needs per skill level.",
+    "es": "Habilidad para controlar mejor el consumo de energía del posquemador. Reducción del 10 % de la necesidad del condensador de los posquemadores por nivel de habilidad.",
+    "fr": "Compétence pour un meilleur contrôle de la consommation d'énergie du système de post-combustion. Réduit de 10 % par niveau de compétence les besoins énergétiques du capaciteur par le système de post-combustion.",
+    "ja": "アフターバーナーのエネルギー消費制御を効率化するスキル。スキルレベル上昇ごとにアフターバーナーのキャパシタ消費量が 10% 減少する。",
+    "ko": "애프터버너의 에너지 소모를 개선하는 스킬입니다. <br><br>매 레벨마다 애프터버너 캐패시터 사용량 10% 감소",
+    "ru": "Углублённые познания в области контроля энергоснабжения форсажных ускорителей. За каждую степень освоения навыка: на 10% сокращается потребление энергии накопителя форсажными ускорителями.",
+    "zh": "控制加力燃烧器能量消耗的进阶技能。每升一级，加力燃烧器的电容需求降低10%。"
+  },
+  "groupID": 275,
+  "iconID": 33,
+  "marketGroupID": 374,
   "name": {
     "de": "Fuel Conservation",
     "en": "Fuel Conservation",
@@ -10,5 +23,7 @@
     "ru": "Энергоснабжение форсажных ускорителей",
     "zh": "燃料节约技术"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

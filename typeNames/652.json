@@ -1,5 +1,54 @@
 {
-  "typeID": 652,
+  "basePrice": 1400000.0,
+  "capacity": 5500.0,
+  "description": {
+    "de": "Die Mammoth ist der größte Transporter der leichten Transportschiffflotte der Republik Minmatar. Sie wurde mit Hilfe der Föderation der Gallente entworfen, was die Mammoth groß und kraftvoll, aber dennoch leicht handhabbar und technologisch fortschrittlich macht. Eine sehr gute Investition.",
+    "en": "The Mammoth is the largest hauler in the Minmatar Republic's light cargo ship fleets. It was designed with aid from the Gallente Federation, making the Mammoth both large and powerful yet also nimble and technologically advanced. A very good buy.",
+    "es": "La Mammoth es la nave de mercancías más grande de las flotas de naves de carga ligeras de la República Minmatar. La Federación Gallente ayudó a diseñarla, por lo que la Mammoth es grande y poderosa, pero también ágil y con tecnología avanzada. Una muy buena compra.",
+    "fr": "Le Mammoth est le plus grand cargo des flottes de transports légers de la République minmatar. Il a été conçu avec l'aide de la Fédération gallente. C'est pour cette raison qu'en dépit de sa taille et de sa puissance, ce vaisseau est maniable et avancé sur le plan technologique. C'est un achat à recommander.",
+    "ja": "マンモスは、ミンマター共和国の軽貨物船フリート最大のハウラーだ。設計の際にガレンテ連邦の協力を得たおかげで、大型で馬力を備えながらも機動力に優れ、先端技術を多用している。非常におすすめの逸品だ。",
+    "ko": "맘모스는 민마타 공화국이 운용하는 경운반선입니다. 갈란테 연방의 지원을 통해 건조된 이 최첨단 운반선은 거대한 선체를 지녔음에도 불구하고 비교적 빠른 기동력을 자랑합니다. 가격 대비 성능이 매우 뛰어납니다.",
+    "ru": "«Мамонт» — самый большой перевозчик во флоте лёгких грузовых кораблей Республики Минматар. Этот корабль был разработан совместно с Галлентской Федерацией. «Мамонт» сочетает большие размеры и мощь с манёвренностью и передовым техническим оснащением. Это очень хорошее приобретение.",
+    "zh": "猛犸级是米玛塔尔共和国轻型货运舰队中最大的运载舰。盖伦特联邦参与了猛犸级的设计过程，这使它体积巨大、威力强劲，同时又机动灵活、技术先进。非常值得选购。"
+  },
+  "factionID": 500002,
+  "graphicID": 309,
+  "groupID": 28,
+  "marketGroupID": 82,
+  "mass": 11500000.0,
+  "masteries": {
+    "0": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "1": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "2": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "3": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "4": [
+      96,
+      118,
+      117,
+      94
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Mammoth",
     "en": "Mammoth",
@@ -9,6 +58,65 @@
     "ko": "맘모스",
     "ru": "Mammoth",
     "zh": "猛犸级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 617.0,
+  "sofFactionName": "minmatarbase",
+  "soundID": 20078,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonus": 90,
+        "bonusText": {
+          "de": "Reduktion der effektiv zurückgelegten Distanz für die Sprungerschöpfung",
+          "en": "reduction to effective distance traveled for jump fatigue",
+          "es": "de reducción de la distancia efectiva hasta sufrir fatiga de salto.",
+          "fr": "de réduction de la distance effectuée pour l'épuisement de saut",
+          "ja": "ジャンプによる疲弊が飛行距離に及ぼす影響を低減",
+          "ko": "이동 거리에 따른 점프 피로도 감소",
+          "ru": "медленнее накапливается усталость от гиперпереходов",
+          "zh": "减少跳跃距离对产生跳跃疲劳的影响"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3341": [
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die Frachtraumkapazität des Schiffs",
+            "en": "bonus to ship cargo capacity",
+            "es": "de bonificación a la capacidad de carga de la nave.",
+            "fr": "de bonus à la capacité de la soute du vaisseau",
+            "ja": "艦船のカーゴ容量が増加",
+            "ko": "화물 적재량 증가",
+            "ru": "увеличивается вместимость грузового отсека корабля",
+            "zh": "舰船货柜舱容量加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die Maximalgeschwindigkeit des Schiffs",
+            "en": "bonus to ship max velocity",
+            "es": "de bonificación a la velocidad máxima de la nave.",
+            "fr": "de bonus à la vitesse maximale du vaisseau",
+            "ja": "艦船の最高速度が上昇",
+            "ko": "최대 속도 증가",
+            "ru": "увеличивается скорость полного хода корабля",
+            "zh": "舰船最大速度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 255000.0
 }

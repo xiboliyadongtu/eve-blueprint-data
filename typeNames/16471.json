@@ -1,5 +1,17 @@
 {
-  "typeID": 16471,
+  "description": {
+    "de": "Neutralisiert einen bestimmten Anteil der Energie im Energiespeicher des Zielschiffes.",
+    "en": "Neutralizes a portion of the energy in the target ship's capacitor.",
+    "es": "Neutraliza parte de la energía del condensador de la nave objetivo.",
+    "fr": "Neutralise une partie de l'énergie dans le capaciteur du vaisseau cible.",
+    "ja": "ターゲットした艦船のキャパシタに蓄えられているエネルギーを一部中和することができる。",
+    "ko": "대상 함선의 캐패시터를 일정량 무력화시킵니다.",
+    "ru": "Нейтрализует часть энергии конденсатора выбранного корабля.",
+    "zh": "削减目标舰船电容器的部分能量。"
+  },
+  "groupID": 71,
+  "iconID": 1283,
+  "mass": 2000.0,
   "name": {
     "de": "Medium Unstable Power Fluctuator I",
     "en": "Medium Unstable Power Fluctuator I",
@@ -10,5 +22,7 @@
     "ru": "Medium Unstable Power Fluctuator I",
     "zh": "中型不稳定能源扰动器 I"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 5.0
 }

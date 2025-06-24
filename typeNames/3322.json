@@ -1,5 +1,18 @@
 {
-  "typeID": 3322,
+  "basePrice": 37500.0,
+  "description": {
+    "de": "Skill für Lenkwaffen mit Auto-Zielerfassung. Angebot: 5 % Bonus auf die Schadenswirkung von Lenkwaffen mit Auto-Zielerfassung (leicht, schwer und Marschflugkörper) je Skillstufe.",
+    "en": "Skill with auto-targeting missiles. Special: 5% bonus to Auto-Targeting Missiles (light, heavy and cruise) damage per skill level.",
+    "es": "Habilidad con misiles con adquisición automática de objetivos. Especial: 5 % de bonificación al daño de los misiles con adquisición automática de objetivos (ligeros, pesados y cruceros) por nivel de habilidad.",
+    "fr": "Compétence liée à l'utilisation des missiles de ciblage automatique. Caractéristique : augmente de 5 % par niveau les dégâts causés par les missiles de ciblage automatique (légers, lourds et de croisière).",
+    "ja": "自動捕捉型ミサイルに関するスキル。特記: スキルレベル上昇ごとに自動捕捉型ミサイル（ライト、ヘビー、クルーズ）の与えるダメージが5%増加。",
+    "ko": "오토 타겟팅 미사일을 위한 스킬입니다. 특수 효과: 매 레벨마다 오토 타겟팅 미사일(라이트, 헤비, 크루즈) 피해량 5% 증가",
+    "ru": "Навык эксплуатации ракет с автономным наведением. За каждую степень освоения навыка: на 5% повышается урон, наносимый ракетами с автономным наведением (лёгких, тяжёлых и дальнобойных).",
+    "zh": "使用自动锁定导弹的技能。特有加成：每升一级，自动锁定导弹（轻型、重型及巡航）的伤害提高5%。"
+  },
+  "groupID": 256,
+  "iconID": 33,
+  "marketGroupID": 373,
   "name": {
     "de": "Auto-Targeting Missiles",
     "en": "Auto-Targeting Missiles",
@@ -10,5 +23,7 @@
     "ru": "Ракеты с автономным наведением",
     "zh": "自动锁定导弹"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

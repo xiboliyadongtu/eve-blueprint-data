@@ -1,5 +1,18 @@
 {
-  "typeID": 52694,
+  "basePrice": 15626524.0,
+  "description": {
+    "de": "Erstellt ein Anziehungsfeld, auf das sich die Sprungantriebe als Zielposition aufschalten können. Industrielle Anziehungsfelder sind speziell darauf abgestimmt, die Sprungantriebe von <b>Sprungfrachtern</b> und der <b>Rorqual</b> zu unterstützen.",
+    "en": "Generates a cynosural field for jump drives to lock on to as their target destination. Industrial Cynosural Fields are specifically attuned to support the jump drives of <b>Jump Freighters</b> and the <b>Rorqual</b>.",
+    "es": "Genera un campo cinosural para que los motores de salto se fijen en él como destino. Los campos cinosurales industriales están especialmente adaptados para los motores de salto de los <b>cargueros de salto</b> y la <b>Rorqual</b>.",
+    "fr": "Génère un champ cynosural que les propulseurs interstellaires prennent comme destination. Les champs cynosuraux industriels sont spécifiquement construits pour supporter les propulseurs interstellaires des <b>cargos interstellaires</b> et du <b>Rorqual</b>.",
+    "ja": "ジャンプドライブが目的地としてロックオンするためのサイノシュラルフィールドを生成する。工業サイノシュラルフィールドは、<b>ジャンプドライブ搭載型輸送艦</b>と <b>ロークアル</b>のジャンプドライブをサポートするために特別に調整されている。",
+    "ko": "점프 드라이브의 목적지로 설정할 수 있는 사이노슈럴 필드를 생성합니다. 인더스트리얼 사이노슈럴 필드는 <b>점프 프레이터</b> 및 <b>로퀄</b>의 점프 드라이브를 지원하기 위해 특별히 고안되었습니다.",
+    "ru": "Создаёт приводной маяк, на который гипердвигатели могут настроиться как на пункт назначения. Промышленные приводные маяки (Industrial Cynosural Fields) созданы специально для поддержки гипердвигателей <b>джамп-фрейтеров</b> и кораблей <b>«Рорквал»</b>.",
+    "zh": "产生一片力场，供跳跃引擎锁定作为其目的地。工业诱导力场专门针对<b>战略货舰</b>和<b>长须鲸级</b>的跳跃引擎做了优化调整。"
+  },
+  "groupID": 658,
+  "iconID": 1444,
+  "marketGroupID": 1641,
   "name": {
     "de": "Industrial Cynosural Field Generator",
     "en": "Industrial Cynosural Field Generator",
@@ -10,5 +23,8 @@
     "ru": "Industrial Cynosural Field Generator",
     "zh": "工业诱导力场发生器"
   },
+  "portionSize": 1,
+  "published": true,
+  "soundID": 20245,
   "volume": 25.0
 }

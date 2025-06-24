@@ -1,5 +1,16 @@
 {
-  "typeID": 60142,
+  "description": {
+    "de": "Diese große Raubdrohnenstruktur ist ein Sammeldrohnennest und wird verwendet, um Materialien aufzubewahren, die die Raubdrohnenschwärme in ihrem Dienst für das örtliche Kolonienest sammeln. Wie auch das Hauptnest wird diese Struktur von Raubdrohnen-Kampfeinheiten verteidigt.",
+    "en": "This large Rogue Drone structure is a hive of harvester drone activity and is used to store materials gathered by the swarms of rogue drones serving the local Colony Nest. Like the core nest, this structure will be defended by rogue drone combat units.",
+    "es": "Esta gran estructura de drones rebeldes es un hervidero de actividad de drones cosechadores y se utiliza para almacenar materiales que recogen los enjambres de drones rebeldes que prestan servicios en el nido de la colonia local. Al igual que el nido central, esta estructura será defendida por unidades de combate de drones rebeldes.",
+    "fr": "Cette grande structure de drones renégats regroupe les activités des drones collecteurs et sert au stockage de matériaux récupérés par des essaims de drones renégats au service du nid de colonie local. Tout comme le nid principal, cette structure sera défendue par des unités de combat composées de drones renégats.",
+    "ja": "この巨大なローグドローンストラクチャは採掘ドローンの活動拠点で、現地のコロニーネストに仕えるローグドローンの群れが集めた資源を保管するために使用されている。コアネストと同様、このストラクチャはローグドローンの戦闘ユニットによって守られている。",
+    "ko": "일꾼들이 수집한 자원을 보관하기 위해 사용되는 대규모 로그 드론 구조물입니다. 콜로니 둥지와 마찬가지로 로그 드론 병력에 의해 보호를 받고 있습니다.",
+    "ru": "Это крупное сооружение восставших дронов представляет собой улей дронов-сборщиков и используется для хранения материалов, которые рой восставших дронов собирает для гнезда местной колонии. Эту сооружение, как и основное гнездо, защищают боевые отряды восставших дронов.",
+    "zh": "这座大型自由无人机建筑是一处收割者无人机巢穴，用来储存自由无人机群收获的材料。与其他巢穴一样，这里由自由无人机重重守卫着。"
+  },
+  "graphicID": 2406,
+  "groupID": 1975,
   "name": {
     "de": "Rogue Drone Harvest Hive",
     "en": "Rogue Drone Harvest Hive",
@@ -10,5 +21,8 @@
     "ru": "Rogue Drone Harvest Hive",
     "zh": "自由无人机收割巢穴"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 134,
+  "sofFactionName": "roguebase"
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 3503,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieses Schiff wurde so rekonfiguriert, dass es als behelfsmäßiger Sammelpunkt für alle Zivilisten eingesetzt werden kann, die bisher noch nicht evakuiert werden konnten. Alle Zivilisten, die sich noch in der Feuerlinie befinden, sollten dorthin gebracht werden.",
+    "en": "This vessel has been reconfigured to act as temporary rallying point for any civilians who haven't yet been evacuated from the facility. Any civilians still caught in the line of crossfire should be returned here.",
+    "es": "Esta nave se ha reconfigurado para actuar como punto de reunión temporal para cualquier civil que aún no haya sido evacuado de la instalación. Los civiles que aún queden atrapados en la línea de fuego cruzado deberían volver aquí.",
+    "fr": "Ce vaisseau a été reconfiguré pour servir de point de ralliement temporaire pour tous les civils n'ayant pas encore été évacués de la structure. Tous les civils dont la vie est encore en danger doivent s'y rendre au plus vite.",
+    "ja": "この艦船は施設から避難していない民間人のために、一時的な集合場所として使用するために改造された。激しい集中砲火から逃れられない民間人は全員この船へ戻ったほうがいいだろう。",
+    "ko": "아직 대피를 마치지 못한 시민들을 위해 임시 집결지로 사용되고 있습니다. 발견한 시민들을 전부 화물선으로 운반하십시오.",
+    "ru": "Этот корабль был переделан во временный сборный пункт для гражданских лиц, которые еще не были эвакуированы со станции. Гражданские, которые до сих пор находятся на поле боя, должны быть возвращены сюда.",
+    "zh": "这艘舰船经过一番改造，让那些尚被困在设施里的平民暂时到它里面集合。你应该将从战火中救出的平民转移到这里。"
+  },
+  "graphicID": 2739,
+  "groupID": 952,
+  "mass": 10000.0,
   "name": {
     "de": "Emergency Evacuation Freighter",
     "en": "Emergency Evacuation Freighter",
@@ -10,5 +23,9 @@
     "ru": "Emergency Evacuation Freighter",
     "zh": "紧急救援舰"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 727.0,
+  "sofFactionName": "gallentebase",
   "volume": 27500.0
 }

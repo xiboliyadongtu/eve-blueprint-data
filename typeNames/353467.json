@@ -1,5 +1,17 @@
 {
-  "typeID": 353467,
+  "basePrice": 149000.0,
+  "description": {
+    "de": "Skill zur Benutzung von schweren Maschinengewehren.\n\n5% Bonus auf den Rückstoß von schweren Maschinengewehren pro Skillstufe.",
+    "en": "Skill at handling heavy machine guns.\r\n\r\n5% bonus to heavy machine gun kick per level.",
+    "es": "Habilidad de manejo de ametralladoras pesadas.\n\n-5% al retroceso de las ametralladoras pesadas por nivel.",
+    "fr": "Compétence permettant d'utiliser les mitrailleuses lourdes.\n\n5 % de bonus du recul de la mitrailleuse lourde par niveau.",
+    "it": "Abilità nel maneggiare mitragliatrici pesanti.\n\n5% di bonus al rinculo delle mitragliatrici pesanti per livello.",
+    "ja": "ヘビーマシンガンを扱うスキル。\n\nレベル上昇ごとに、ヘビーマシンガンの反動が5%減少する。",
+    "ko": "중기관총 운용을 위한 스킬입니다. <br><br>매 레벨마다 중기관총 반동 5% 감소",
+    "ru": "Навык обращения с тяжелыми пулеметами.\n\n5% снижение силы отдачи тяжелых пулеметов на каждый уровень.",
+    "zh": "使用重机枪的技能。每升一级，重机枪的后坐力增加5%"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Bedienung: Schweres Maschinengewehr",
     "en": "Heavy Machine Gun Operation",
@@ -11,5 +23,7 @@
     "ru": "Обращение с тяжелыми пулеметами",
     "zh": "重机枪操作"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

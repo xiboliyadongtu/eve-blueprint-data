@@ -1,5 +1,21 @@
 {
-  "typeID": 63195,
+  "basePrice": 5000.0,
+  "description": {
+    "de": "Spezielle „Flak“-Munition, die für den Einsatz in Punktverteidigungsbatteriesystemen von Upwell-Strukturen entwickelt wurde. Diese einzigartigen, hülsenlosen Geschosse bestehen aus einem explosiven Strontiumclathrat-Kern mit einem Megacyte-Zünder. Sie sind so konzipiert, dass Strukturverteidigungsanlagen sie in Massen abfeuern können.",
+    "en": "Specialized \"flak\" ammunition designed for use in Upwell structure Point Defense Battery systems. These unique, caseless rounds are constructed with an explosive Strontium Clathrates core with a Megacyte primer and are designed to be fired en mass from structure defensive installations.",
+    "es": "Munición «antibalas» diseñada para sistemas de batería de defensa de puntos en estructuras de Upwell. Estas ráfagas únicas, desprovistas de carcasa, poseen un núcleo explosivo de clatrato de estroncio con imprimación de megacita y están concebidas para ser disparadas en masa desde las instalaciones defensivas de las estructuras.",
+    "fr": "Munitions DCA spécialisées conçues pour les systèmes de batteries de défense ciblée des structures Upwell. Ces munitions uniques sans cartouche sont construites autour d'un noyau explosif de clathrates de strontium, avec une amorce de mégacyte, pour être tirées en masse depuis les installations défensives des structures.",
+    "ja": "アップウェルストラクチャのポイント防衛兵器システムでの使用を念頭に設計された特化型「対宙」弾薬。爆発性のストロンチウム化合物の弾芯とメガサイトの雷管で構成されたこの独特なケースレス弾薬は、ストラクチャの防衛設備からの一斉発射を意図されている。",
+    "ko": "업웰 구조물의 거점 방어 포탑에서 사용할 수 있는 특제 '대공' 탄약입니다. 이 독특한 무탄피 탄약은 폭발성 스트론튬 클라스레이트 탄두와 메가사이트 뇌관으로 구성되었으며, 구조물 방어 시설을 통해 일제 사격을 시행할 수 있습니다.",
+    "ru": "Зенитные боеприпасы, специально разработанные для систем точечной обороны сооружений «Апвелл». Уникальные безгильзовые патроны с сердечником из клатрата стронция и мегацитовым капсюлем предназначены для ведения огня из оборонительных систем сооружений.",
+    "zh": "这是专为昇威建筑定点防卫炮塔系统设计的防空弹药。这种弹药没有弹壳，由爆炸性锶包合物核芯和超噬矿引信组成，专门适配建筑防御系统。"
+  },
+  "graphicID": 1303,
+  "groupID": 4186,
+  "iconID": 25283,
+  "marketGroupID": 2820,
+  "mass": 5.0,
+  "metaGroupID": 54,
   "name": {
     "de": "Standup Flak Round I",
     "en": "Standup Flak Round I",
@@ -10,5 +26,8 @@
     "ru": "Standup Flak Round I",
     "zh": "屹立防空弹药 I"
   },
+  "portionSize": 200,
+  "published": true,
+  "radius": 10.0,
   "volume": 1.0
 }

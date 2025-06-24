@@ -1,5 +1,16 @@
 {
-  "typeID": 29577,
+  "description": {
+    "de": "Eine Absperrung.",
+    "en": "A barrier.",
+    "es": "Una barrera.",
+    "fr": "Une barrière.",
+    "ja": "バリアー。",
+    "ko": "배리어입니다.",
+    "ru": "Барьер.",
+    "zh": "屏障"
+  },
+  "graphicID": 2477,
+  "groupID": 226,
   "name": {
     "de": "Fortified Guristas Barrier",
     "en": "Fortified Guristas Barrier",
@@ -10,5 +21,9 @@
     "ru": "Fortified Guristas Barrier",
     "zh": "强化的古斯塔斯屏障"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 622.0,
+  "sofFactionName": "guristas"
 }

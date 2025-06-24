@@ -1,5 +1,17 @@
 {
-  "typeID": 2163,
+  "capacity": 100.0,
+  "description": {
+    "de": "Ein CONCORD-Schiff.",
+    "en": "A CONCORD ship.",
+    "es": "Una nave de CONCORD.",
+    "fr": "Un vaisseau CONCORD.",
+    "ja": "CONCORDの船。",
+    "ko": "CONCORD 함선입니다.",
+    "ru": "Корабль организации CONCORD.",
+    "zh": "一艘统合部的舰船。"
+  },
+  "graphicID": 1053,
+  "groupID": 952,
   "name": {
     "de": "CONCORD Collection Vessel",
     "en": "CONCORD Collection Vessel",
@@ -10,5 +22,8 @@
     "ru": "CONCORD Collection Vessel",
     "zh": "统合部收集舰"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 39.0,
+  "sofFactionName": "specops"
 }

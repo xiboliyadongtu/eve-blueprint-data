@@ -1,5 +1,17 @@
 {
-  "typeID": 353471,
+  "basePrice": 149000.0,
+  "description": {
+    "de": "Skill zur Benutzung von Schwarmwerfern.\n\n5% Abzug auf die Zielerfassungsdauer von Schwarmwerfern pro Skillstufe.",
+    "en": "Skill at handling swarm launchers.\r\n\r\n5% reduction to swarm launcher lock-on time per level.",
+    "es": "Habilidad de manejo de lanzacohetes múltiples.\n\n-5% al tiempo de fijación de objetivos de los lanzacohetes múltiples por nivel.",
+    "fr": "Compétence permettant de manipuler les lance-projectiles multiples.\n\n5 % de réduction du temps de verrouillage du lance-projectiles multiples par niveau.",
+    "it": "Abilità nel maneggiare lancia-sciame.\n\n5% riduzione del tempo di aggancio del lancia-sciame per livello.",
+    "ja": "スウォームランチャーを扱うスキル。\n\nレベル上昇ごとに、スウォームランチャーのロックオン速度が5%減少する。",
+    "ko": "스웜 런처 조작을 위한 스킬입니다. <br><br>매 레벨마다 스웜 런처 타겟팅 소요시간 5% 감소",
+    "ru": "Навык обращения со сварм-ракетометами.\n\n5% снижение времени захвата цели сварм-ракетометами на каждый уровень.",
+    "zh": "使用集束发射器的技能。每升一级，集束发射器的锁定时间缩短5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Bedienung: Schwarmwerfer",
     "en": "Swarm Launcher Operation",
@@ -11,5 +23,7 @@
     "ru": "Обращение со сварм-ракетометами",
     "zh": "集束发射器操作"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

@@ -1,5 +1,16 @@
 {
-  "typeID": 24723,
+  "description": {
+    "de": "Eine Megathron, die von einem Agenten geflogen wird.",
+    "en": "A Megathron piloted by an agent.",
+    "es": "Megathron pilotada por un agente.",
+    "fr": "Un Megathron piloté par un agent.",
+    "ja": "エージェントを乗せたメガソロン。",
+    "ko": "에이전트가 조종하는 메가쓰론입니다.",
+    "ru": "Корабль класса Megathron, управляемый агентом.",
+    "zh": "一艘由代理人驾驶的万王宝座级战舰"
+  },
+  "graphicID": 64,
+  "groupID": 517,
   "name": {
     "de": "Mamo Guerre's Megathron",
     "en": "Mamo Guerre's Megathron",
@@ -10,5 +21,9 @@
     "ru": "Mamo Guerre's Megathron",
     "zh": "马默·格尔的万王宝座级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 250.0,
+  "sofFactionName": "gallentebase"
 }

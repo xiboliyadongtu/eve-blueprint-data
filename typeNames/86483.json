@@ -1,5 +1,18 @@
 {
-  "typeID": 86483,
+  "capacity": 120.0,
+  "description": {
+    "de": "Eine Sleeper-Drohne, die einem Schiff der Kreuzerklasse entspricht. Sie steht unter Drifter-Kontrolle und wurde auf Zerstörung ausgerichtet.",
+    "en": "A Sleeper drone, equivalent to a cruiser-class ship. It is under Drifter control and has been directed to focus on destruction.",
+    "es": "Un dron sleeper equivalente a una nave de clase crucero. Está bajo control drifter y se le ha ordenado centrarse en la destrucción.",
+    "fr": "Un drone sleeper équivalent à un croiseur. Il est sous contrôle drifter et a reçu pour instruction de se concentrer sur la destruction.",
+    "ja": "巡洋艦級に相当するスリーパードローン。ドリフターの支配下にあり、破壊行為に集中するよう指示されている。",
+    "ko": "크루저급 함선과 동급인 슬리퍼 드론입니다. 드리프터가 적을 파괴하도록 조종하고 있습니다.",
+    "ru": "Этот дрон Спящих по характеристикам соответствует крейсеру. Он находится под контролем Скитальцев и запрограммирован на уничтожение вражеских судов.",
+    "zh": "一架巡洋舰级别的冬眠者无人机。它由流浪者控制，主要负责击毁敌舰。"
+  },
+  "graphicID": 3536,
+  "groupID": 1665,
+  "mass": 10900000.0,
   "name": {
     "de": "Hypnic Toxotai",
     "en": "Hypnic Toxotai",
@@ -10,5 +23,11 @@
     "ru": "Hypnic Toxotai",
     "zh": "弓兵级催眠者"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 64,
+  "radius": 150.0,
+  "sofFactionName": "sleeperbase",
+  "soundID": 12,
   "volume": 115000.0
 }

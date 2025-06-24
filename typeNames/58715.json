@@ -1,5 +1,17 @@
 {
-  "typeID": 58715,
+  "description": {
+    "de": "AEGIS Security hat Scan-Technologien entwickelt, die die Tarnfelder von Eindringlingen, die versuchen, heimlich in ihre Anlagen einzudringen, erkennen und stören können. Dieser Scanner ist noch leistungsstärker als das Standardmodell und sollte weiträumig umgangen werden.",
+    "en": "AEGIS Security have developed scanning technologies that are capable of detecting and disrupting the cloaking fields of intruders attempting to use stealth to penetrate their facilities. This scanner is even more powerful than the standard model and should be given a very wide berth.",
+    "es": "Las fuerzas de seguridad de AEGIS han desarrollado tecnologías de escaneo capaces de detectar y perturbar los campos de camuflaje de los intrusos que intenten usar el sigilo para penetrar en sus instalaciones. Este escáner es aún más potente que el modelo estándar y no debe tomarse a la ligera.",
+    "fr": "La sécurité d’AEGIS a développé des technologies de balayage capables de détecter et perturber les champs de camouflage des intrus tentant de s’introduire furtivement dans ses installations. Ce scanner est encore plus puissant que le modèle standard et devrait être tenu à grande distance.",
+    "ja": "イージスセキュリティは、ステルスを使って自分たちの施設に潜り込もうとする侵入者の遮蔽フィールドを検知、妨害することができるスキャン技術を開発した。このスキャナーは通常モデルよりさらに強力なため、距離を大きく取り、近寄るべきではない。",
+    "ko": "AEGIS는 적 은폐장을 감지 및 무력화할 수 있는 첨단 탐지 기술을 보유하고 있습니다. 기존 스캐너에 비해 성능이 대폭 향상되어 접근 시 각별한 주의가 요구됩니다.",
+    "ru": "Силы безопасности «ЭГИДА» создали технологию сканирования, способную обнаруживать и выводить из строя маскирующие поля злоумышленников, пытающихся проникнуть на их объекты. Этот сканер мощнее стандартной модели, и от него нужно держаться ещё дальше.",
+    "zh": "统合部紧急干预和安全局的安保部研发出了能够侦测并干扰入侵者的隐形力场的扫描技术，以防止自己的设施被暗中渗透。这个扫描仪比标准型号性能更强，应该放置在空旷的位置。"
+  },
+  "graphicID": 24970,
+  "groupID": 226,
+  "mass": 100.0,
   "name": {
     "de": "AEGIS Security Deep Scanner",
     "en": "AEGIS Security Deep Scanner",
@@ -10,5 +22,8 @@
     "ru": "AEGIS Security Deep Scanner",
     "zh": "统合部紧急干预和安全局安保部深空扫描仪"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 450.0,
+  "sofFactionName": "genericbase"
 }

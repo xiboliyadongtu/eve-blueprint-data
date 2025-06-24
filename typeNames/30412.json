@@ -1,5 +1,16 @@
 {
-  "typeID": 30412,
+  "description": {
+    "de": "Eine Hauptstruktur für den CA-Kampfsimulator",
+    "en": "A main structure for CA combat simulator",
+    "es": "Estructura principal para el simulador de combate caldari.",
+    "fr": "Une structure principale pour simulateur de combat CA.",
+    "ja": "CAコンバットシミュレータのメインストラクチャ",
+    "ko": "CA 전투 시뮬레이터가 위치한 구조물입니다.",
+    "ru": "Главное сооружение симулятора боя СА",
+    "zh": "加达里战斗模拟场中的一个主要设施"
+  },
+  "graphicID": 3537,
+  "groupID": 226,
   "name": {
     "de": "Caldari Arena MainStructure",
     "en": "Caldari Arena MainStructure",
@@ -10,5 +21,8 @@
     "ru": "Caldari Arena MainStructure",
     "zh": "加达里竞技场主要建筑"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 1000.0
 }

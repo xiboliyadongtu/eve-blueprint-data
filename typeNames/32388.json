@@ -1,5 +1,18 @@
 {
-  "typeID": 32388,
+  "capacity": 5625.0,
+  "description": {
+    "de": "Manchmal verlaufen Gefechte nicht so, wie vom Cartel geplant, und Truppen und Güter müssen zurückgelassen werden. Anstatt sie Plünderern zu überlassen, beschäftigt das Cartel ein eigenes Rettungsteam, das auf die Bergung und Rückgewinnung von Truppen und Materialien auf Schlachtfeldern spezialisiert ist.",
+    "en": "Sometimes a combat encounter doesn't go the Cartel's way, and men and resources are left behind. Rather than leave their fates to scavengers, the Cartel employs its own recovery teams specializing in battlefield salvage and extraction.",
+    "es": "A veces, un encuentro bélico no sale como el Cártel quiere, y hombres y recursos se quedan atrás. En lugar de dejar sus destinos a los chatarreros, el Cártel emplea sus propios equipos de recuperación especializados en recuperación y extracción del campo de batalla.",
+    "fr": "Il arrive qu'un combat ne rencontre pas l'issue escomptée par le cartel, et que des hommes et des ressources soient abandonnés. Plutôt que de les laisser aux charognards, le cartel préfère employer des équipes de récupération spécialisées dans l'extraction sur les champs de bataille.",
+    "ja": "カルテルの戦略通りに戦闘が運ばないことがあり、その場合、人員や資源がそのまま戦地にとり残されることがある。それらが廃品として回収されるよりはと、カルテルは戦地からの引き上げや救済を専門にするリカバリーチームを独自に雇うことにした。",
+    "ko": "모든 교전이 엔젤 카르텔이 원하는 방향으로 풀려나갈 수는 없습니다. 때로는 동료와 자원을 모두 뒤에 두고 후퇴할 때도 있습니다. 그럼에도 불구하고 스캐빈저들이 들끓는 우주공간에 이 모든 것을 방치하기보다는 샐비지 및 추출에 특화된 회수 팀을 꾸려 카르텔은 전장으로 다시 돌아갑니다.",
+    "ru": "Порой сражение оказывается не в пользу Картеля, и тогда людей и ресурсы бросают при отступлении. Однако вместо того, чтобы оставлять их на разграбление мародерам, Картель держит специальные спасательные бригады, которые специализируются на демонтаже и извлечении ресурсов с поля боя.",
+    "zh": "有时候战斗并不一定朝着联合企业想要的方向发展，从而导致人员和物资的受困。为了不让这些物资白白流失给那些收破烂的人，天使拥有一支自己的搜救打捞队，专门处理这些事物。"
+  },
+  "graphicID": 2713,
+  "groupID": 927,
+  "mass": 12500000.0,
   "name": {
     "de": "Angel Recovery Team",
     "en": "Angel Recovery Team",
@@ -10,5 +23,9 @@
     "ru": "Angel Recovery Team",
     "zh": "天使搜救队"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 660.0,
+  "sofFactionName": "thukkermix",
   "volume": 255000.0
 }

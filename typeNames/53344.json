@@ -1,5 +1,16 @@
 {
-  "typeID": 53344,
+  "description": {
+    "de": "Diese Einrichtung ist Teil der Yoiul-Festival-Kampagne, das einerseits dazu dient, wertvolle Vorräte an Schmelzwasser zu sammeln, und andererseits das Feiertagsfestival unterstützt, indem Schneebälle für festliche Raketenwerfer bereitgestellt werden. Für eine bestimmte Menge an geschmolzenen Schneebällen kristallisiert die Einrichtung einen Teil, um einen Yoiul-Festival-Schneeball herzustellen, und behält einen großen Anteil des wertvollen, reinen Wassers.",
+    "en": "This facility is operating a part of a Yoiul Festival campaign that is part aimed at gathering valuable stocks of pure snow meltwater and part aimed at promoting the holiday festival by providing Festival Launcher compatible snowballs.\r\n\r\nFor a given quantity of melted snowballs, the facility will crystallize a portion and supply a Yoiul Festival Snowball while retaining a large cut of the valuable pure water.",
+    "es": "Esta instalación forma parte de la campaña del Festival de Yoiul, cuyo objetivo es, por un lado, reunir valiosas reservas de agua pura de deshielo y, por otro, promocionar el festival proporcionando bolas de nieve compatibles con el lanzador festivalero.\n\n\n\nPor una cantidad determinada de bolas de nieve derretidas, la instalación cristalizará una parte y suministrará una bola de nieve del Festival de Yoiul, conservando una gran parte de la valiosa y pura agua.",
+    "fr": "Cette installation est utilisée dans le cadre de la campagne du festival de Yoiul qui a notamment pour but de récolter des stocks précieux d'eau fondue des neiges pures mais aussi de promouvoir le festival en fournissant des boules de neige compatibles avec le lanceur de festival. Pour une quantité donnée de boules de neige fondue, l'unité va en cristalliser une portion et fournir une boule de neige du festival de Yoiul tout en conservant une bonne partie de l'eau pure si précieuse.",
+    "ja": "この設備は、ヨイウル祭キャンペーンの一環として運用されている。その目的は汚れのない貴重な雪解け水を集めることと、フェスティバルランチャーで使用可能なスノーボールを配布することで、ホリデイイベントの宣伝も兼ねている。\n\n\n\nこの設備は一定量の融解したスノーボールを入れると一部を結晶化してヨイウル祭のスノーボールを1つ供給してくれる。残りの貴重な真水は保管される。",
+    "ko": "요이얼 축제 기간동안 운영되는 시설로, 눈이 녹아 형성된 물을 모아 축제용 런처에 사용할 수 있는 눈덩이를 제공합니다. <br><br>해당 시설에 녹아버린 눈덩이를 가져오면 이를 요이얼 축제용 눈덩이와 정제수로 만들어줍니다.",
+    "ru": "Этот объект работает в рамках кампании Йольского фестиваля, направленной одновременно на сбор запасов чистой талой воды и продвижение торжественных мероприятий путём снабжения капсулёров снежками, совместимыми с праздничными пусковыми установками. Получив от капсулёра определённое количество талой воды, оставшейся от снежков, объект кристаллизует её часть и возвращает пилоту снежок, основную часть ценной жидкости при этом оставляя себе.",
+    "zh": "这座设施是尤尔节庆典活动的一部分，一方面用来收集珍贵的纯雪融水，另一方面并提供适用于节日发射器的雪球来增加节日气氛。\n\n\n\n质量上乘的融化雪球中的一部分在这座设施中晶化成节日雪球，不过大部分珍贵的纯水都被保存了起来。"
+  },
+  "graphicID": 24521,
+  "groupID": 226,
   "name": {
     "de": "Meltwater-Snowball Exchanger",
     "en": "Meltwater-Snowball Exchanger",
@@ -10,5 +21,9 @@
     "ru": "Meltwater-Snowball Exchanger",
     "zh": "融水-雪球转换器"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 16000.0,
+  "sofFactionName": "holiday_19_upwell",
+  "soundID": 20231
 }

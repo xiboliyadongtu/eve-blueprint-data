@@ -1,5 +1,17 @@
 {
-  "typeID": 77474,
+  "description": {
+    "de": "Ein Container voller vom Staat der Caldari verbotener Gegenstände, die auf dem Schwarzmarkt verkauft werden sollen. Die Waren reichen von komplett illegalen Gütern bis hin zu rationierten Vorräten.",
+    "en": "A container filled with items restricted by the Caldari State intended for sale on the Black Market. The items inside range from entirely illegal goods to ration-controlled supplies.",
+    "es": "Un contenedor lleno de artículos restringidos por el Estado Caldari destinados a la venta en el mercado negro. Los artículos que contiene van desde productos totalmente ilegales hasta suministros de racionamiento controlado.",
+    "fr": "Un conteneur rempli d'objets réglementés par l'État caldari, destinés à être vendus sur le marché noir. Les objets à l'intérieur vont de biens totalement illégaux à des ressources rationnés.",
+    "ja": "ブラックマーケットで売りさばくつもりの、カルダリ連合によって禁じられたアイテムが詰まったコンテナ。中に入っているアイテムは完全な違法物資から供給量が管理された支給品まで様々だ。",
+    "ko": "칼다리 연합에서 금지하는 암시장 밀수품이 가득 찬 컨테이너입니다. 내용물은 제작 자체가 불법인 상품과 판매 과정이 불법인 상품까지 다양합니다.",
+    "ru": "Контейнер с товарами, запрещёнными к продаже в Государстве Калдари. Очевидно, их собираются сбыть на чёрном рынке. Здесь можно найти многое: от полностью нелегальных товаров до продовольственных пайков, которые не должны были оказаться в свободной продаже.",
+    "zh": "装满了加达里合众国禁品的货柜，打算在黑市出售。从完全非法的物品，到配给有限的补给品，里面应有尽有。"
+  },
+  "groupID": 4575,
+  "iconID": 1174,
+  "mass": 20000.0,
   "name": {
     "de": "Contraband Freight",
     "en": "Contraband Freight",
@@ -10,5 +22,7 @@
     "ru": "Contraband Freight",
     "zh": "违禁品货运"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 3500.0
 }

@@ -1,5 +1,16 @@
 {
-  "typeID": 73262,
+  "description": {
+    "de": "Dieser kleine Erz-Cluster wurde von Scannern des Staats der Caldari geortet und offengelegt. Er enthält seltenes dichtes Polykras-Erz, das dem Sprungtor-Bauprojekt des Staats in <url=showinfo:5//30003856>Athounon</url> von Nutzen sein kann.",
+    "en": "This small ore cluster has been detected and revealed by Caldari State scanners and contains rare Dense Polycrase ore that can assist the State stargate construction project in <url=showinfo:5//30003856>Athounon</url>.",
+    "es": "Los escáneres del Estado Caldari han detectado y revelado este pequeño cúmulo de menas que contiene policrasa densa poco común, que puede ayudar al proyecto de construcción del portal estelar del Estado en <url=showinfo:5//30003856>Athounon</url>.",
+    "fr": "Ce gisement de taille modeste, découvert par les scanners de l'État caldari, recèle le rare minerai de polycrase dense. C'est un atout précieux pour le projet de construction de portail stellaire de l'État dans le système <url=showinfo:5//30003856>Athounon</url>.",
+    "ja": "この小規模な鉱石群はカルダリ連合のスキャナーにより発見、特定されたもので、<url=showinfo:5//30003856>アソウノン</url>で進められている連合のスターゲート建設プロジェクトの役に立つ希少な高密度ポリクレース鉱石を含んでいる。",
+    "ko": "칼다리 연합이 찾아낸 광물 클러스터입니다. 희귀한 응축 폴리크레이스가 함유된 광물로 칼다리 연합 <url=showinfo:5//30003856>아토논</url> 스타게이트 건설에 필요한 자원입니다.",
+    "ru": "Это скромное месторождение было обнаружено сканерами Государства Калдари. Оно является источником плотного поликраза — редкой руды, которая поможет калдарцам успешно завершить проект по строительству звёздных врат в системе <url=showinfo:5//30003856>Athounon</url>.",
+    "zh": "这个小型矿带是被加达里合众国的扫描器探测出来的，其所含的厚质复稀金矿可以用于加达里在<url=showinfo:5//30003856>埃托伦</url>星系的星门建造工程。"
+  },
+  "graphicID": 1211,
+  "groupID": 310,
   "name": {
     "de": "Strategischer Polykras-Cluster des Staats",
     "en": "State Strategic Polycrase Cluster",
@@ -10,5 +21,8 @@
     "ru": "Калдарский стратегический запас поликраза",
     "zh": "合众国战略复稀金矿带"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "sofFactionName": "genericbase"
 }

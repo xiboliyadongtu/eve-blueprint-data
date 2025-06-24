@@ -1,5 +1,18 @@
 {
-  "typeID": 23923,
+  "capacity": 1200.0,
+  "description": {
+    "de": "Raubdrohnen sind High-Tech-Drohnen, die die Fähigkeit haben, sich selbst zu produzieren. Raubdrohnennester findet man im gesamten Universum und sie sind eine ständige Bedrohung für Raumfahrer.\r\n\r\nBedrohungsstufe: Extrem",
+    "en": "Rogue drones are hi-tech drones that have the ability to manufacture themselves. Rogue drone hives can be found throughout the universe of EVE and are a constant menace to space travelers. Threat level: Extreme",
+    "es": "Los drones rebeldes poseen una alta tecnología que les permite fabricarse a sí mismos. Tienen colmenas en todo el universo de EVE y suponen una amenaza constante para los viajeros espaciales. Nivel de amenaza: extremo.",
+    "fr": "Les drones renégats sont des drones ultra-perfectionnés capables de se produire eux-mêmes. Ils se regroupent en ruches un peu partout dans l'univers d'EVE, et représentent une menace permanente pour les voyageurs spatiaux. Niveau de menace : extrême",
+    "ja": "ローグドローンは、最先端技術によって開発され、自己製造能力を有する。ローグドローンの巣はEVEユニバースのいたるところに存在しており、宇宙の旅人にとって常に脅威となっている。危険度:極めて危険",
+    "ko": "로그 드론은 자가생산이 가능한 최첨단 드론입니다. 우주 전역에서 발견되는 로그 드론 하이브는 여행자들을 지속적으로 위협하는 존재입니다. 위험도: 극도로 위험",
+    "ru": "Восставшие дроны являются высокотехнологичными беспилотными дронами, которые обладают способностью самовоспроизводства. Группы восставших дронов могут быть найдены всюду по вселенной EVE и представляют собой постоянную угрозу для космических путешественников. Уровень опасности: крайне высокий",
+    "zh": "自由无人机是拥有自我生产能力的高科技无人机。自由无人机母巢遍布整个EVE宇宙，始终威胁着太空旅行者。威胁等级：极度危险"
+  },
+  "graphicID": 1226,
+  "groupID": 803,
+  "mass": 100000.0,
   "name": {
     "de": "Strain Viral Infector Alvum",
     "en": "Strain Viral Infector Alvum",
@@ -10,5 +23,10 @@
     "ru": "Strain Viral Infector Alvum",
     "zh": "超级病毒感染者阿瓦姆"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 150.0,
+  "sofFactionName": "roguebase",
+  "soundID": 11,
   "volume": 60.0
 }

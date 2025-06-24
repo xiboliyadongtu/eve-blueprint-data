@@ -1,5 +1,18 @@
 {
-  "typeID": 20312,
+  "basePrice": 1000000.0,
+  "description": {
+    "de": "Skill zur Zielführung von Präzisionslenkwaffen. Die Fertigkeit in diesem Skill erhöht die Genauigkeit der exakten Aufschlagpunkts einer abgefeuerten Lenkwaffe und erhöht somit den Schaden auf kleine Ziele. Der Signaturradius aller Lenkwaffenexplosionen sinkt um 5 % pro Stufe.",
+    "en": "Skill at precision missile homing. Proficiency at this skill increases the accuracy of a fired missile's exact point of impact, resulting in greater damage to small targets. 5% decrease per level in factor of signature radius for all missile explosions.",
+    "es": "Habilidad en la búsqueda de misiles de precisión. El dominio de esta habilidad aumenta la precisión del punto de impacto exacto de un misil disparado, lo que da lugar a un mayor daño a los objetivos pequeños. 5 % de reducción por nivel al factor de radio de señal para todas las explosiones de misiles.",
+    "fr": "Compétence liée au système de téléguidage des missiles. Plus votre niveau de compétence est élevé, plus votre tir de missile sera précis et infligera de dégâts aux petites cibles. Réduit de 5 % par niveau le facteur aggravant du rayon de signature pour toutes les explosions de missiles.",
+    "ja": "ミサイルを正確に誘導するスキル。このスキルを獲得すると発射されたミサイルが正確な着弾点をとらえる精度が向上し、小さなターゲットに対してより大きなダメージを与えることができる。レベル上昇ごとに、ミサイルの種類を問わず、爆発時のシグネチャ半径の係数を5％減少する。",
+    "ko": "유도 미사일의 정밀도 향상을 위한 스킬입니다. 스킬 습득 시 미사일 탄착점의 정밀도가 올라가기 때문에 소형 타겟에 더 큰 피해를 가할 수 있습니다. 매 레벨마다 미사일 폭파에 대한 시그니처 반경 5% 감소",
+    "ru": "Навык точного наведения ракет. Освоение этого навыка повышает точность попадания ракеты, что позволяет наносить больший урон по сравнительно малым целям. За каждую степень освоения навыка: на 5% снижается влияние радиуса сигнатуры цели на урон всех типов ракет.",
+    "zh": "使用制导导弹精确打击目标的技能。掌握这个技能可以提高导弹弹着点的精度，从而对小型目标造成更大的伤害。每升一级，所有导弹的爆炸信号半径系数减小5%。"
+  },
+  "groupID": 256,
+  "iconID": 33,
+  "marketGroupID": 373,
   "name": {
     "de": "Guided Missile Precision",
     "en": "Guided Missile Precision",
@@ -10,5 +23,7 @@
     "ru": "Точное наведение ракет",
     "zh": "制导导弹精确打击理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

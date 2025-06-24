@@ -1,5 +1,19 @@
 {
-  "typeID": 30068,
+  "description": {
+    "de": "Dieses Subsystem ist veraltet und wurde durch neuere Technologie ersetzt.\n\n\n\nDie meisten Versuche, die Genauigkeit der Waffensysteme von Sleeper-Drohnen zu kopieren, waren bisher vergebens. Dieses aufwändige Netzwerk zur Zielaufschaltung kommt dem zumindest ziemlich nahe und kombiniert eine Steuerimpuls-Automatik mit variabler Microscan-Auflösung über neurovisuelle Schnittstellen. Das Zusammenspiel dieser Prozesse führt zu einer höheren Scanauflösung, die das Aufschalten von Gegnern im All erleichtert.\n\n\n\nSubsystem-Skillbonus:\n\n15 % Bonus auf die Scanauflösung je Skillstufe",
+    "en": "This subsystem is obsolete and has been replaced by newer technology\r\n\r\nMany engineers have attempted to reproduce the precision of the Sleeper drones' weapon systems, but with very few results. The closest reproduction achieved thus far is this targeting network, a complex system of neurovisual interlays, automated trigger response units, and microscanning resolution ordinances. The combination of these processes produces a bonus to scan resolution, easing the targeting of enemies in space.\r\n\r\nSubsystem Skill Bonus:\r\n15% bonus to scan resolution per level",
+    "es": "Este subsistema está obsoleto y ha sido sustituido por tecnología nueva.\n\nMuchos ingenieros han intentado reproducir la precisión de los sistemas de armas de los drones sleepers, pero con muy pocos resultados. La reproducción más fiel conseguida hasta la fecha es esta red de adquisición de objetivos, un sistema complejo de interconexiones neurovisuales, unidades de respuesta de disparo automatizadas y comandos de resolución de escaneo. La combinación de estos procesos se traduce en una bonificación a la resolución de escaneo que facilita la adquisición de objetivos enemigos en el espacio.\n\nBonificación de habilidad del subsistema:\n15 % de bonificación a la resolución de escaneo por nivel.",
+    "fr": "Ce sous-système est obsolète et a été remplacé par une technologie plus récente. Beaucoup d'ingénieurs ont tenté d'égaler la précision des systèmes d'armement des drones sleeper, mais les résultats n'ont jamais été très concluants. Jusque-là, c'est ce réseau de ciblage qui s'en rapproche le plus. Il s'agit d'un système complexe d'interfaces neurovisuelles, d'unités réactives automatisées, et d'ordonnances de résolution de microscanner. L'association de ces processus produit un bonus de résolution du scanner, facilitant ainsi le ciblage des ennemis dans l'espace. Bonus de compétence du sous-système : augmente de 15 % par niveau la résolution du balayage",
+    "ja": "このサブシステムは旧式化したため、新型技術に差し替えられた\n\n\n\n多くの技術者がスリーパードローンの兵器システムの精密さを再現しようと試みたが、成功した例はほとんどない。復元にもっとも近づいたのがこのターゲットネットワークであり、ニューロビジュアルインターレイ、自動トリガーレスポンスユニット、マイクロスキャン解像度オーディナンスを組み合わせた複合システムである。これらのプロセスを組み合わせたことでスキャン分解能ボーナスが得られ、宇宙にいる敵をターゲットしやすくなる。\n\n\n\nサブシステムのスキルボーナス：\n\nレベル上昇ごとにスキャン分解能に15%のボーナス",
+    "ko": "이 서브시스템은 노후되어 최신식 기술로 교체되었습니다.<br><br>많은 엔지니어들이 슬리퍼 드론 무기 시스템의 정교한 기술을 모방하려 하였지만, 눈에 띄는 성과는 손에 꼽힐 정도입니다. 그나마 성공으로 알려진 기술설계 사례는 다층 신경복합 시각장치, 트리거 자동화 반응장치, 정밀 마이크로 스캔 규격으로 이루어진 타겟팅 시스템입니다. 이러한 기술 발전으로 인해 스캔 정밀도가 향상되어 적 타겟팅이 훨씬 용이해졌습니다. <br><br>서브시스템 스킬 보너스: <br><br>매 레벨마다 스캔 정밀도 15% 증가",
+    "ru": "Эта подсистема устарела и заменена на продукт новых технологий\n\n\n\nМногие инженеры пытались приблизиться к точности, достигаемой оружейными системами дронов Спящих; результаты оставляли желать лучшего. Наиболее близкой копией на сегодняшний день является эта сеть обнаружения целей: сложная система многослойных нейросетей, автоматических блоков реагирования по условию и высокоточных цепей принятия решений. Благодаря их сочетанию удаётся повысить разрешающую способность системы захвата целей и тем ускорить процесс пополнения списка целей.\n\n\n\nЗа каждую степень освоения навыка соответствующей подсистемы:<br>\n\nна 15% повышается разрешающая способность системы захвата целей",
+    "zh": "这个子系统太过老旧，已经被新科技取代。\n\n\n\n很多工程技术专家都尝试着想找到冬眠者无人机武器系统超高精准度的秘密并加以利用，但是只有很少的人在这个课题上获得了成功。目前为止最接近冬眠者技术的复制产品就是这个寻的网络装置了，它是一个由神经视觉夹层组成的复杂系统，一个自动击发反应单元和微扫描分辨协调器。这些功能程序的组合增强了扫描分辨率，使得在太空中锁定目标舰船更加容易。\n\n\n\n每等级子系统技能加成：\n\n扫描分辨率增加15%"
+  },
+  "graphicID": 3677,
+  "groupID": 955,
+  "iconID": 3626,
+  "mass": 1200000.0,
+  "metaGroupID": 14,
   "name": {
     "de": "OLD Loki Electronics - Tactical Targeting Network",
     "en": "OLD Loki Electronics - Tactical Targeting Network",
@@ -10,5 +24,10 @@
     "ru": "OLD Loki Electronics - Tactical Targeting Network",
     "zh": "旧洛基电子 - 战术寻敌网络"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "sofFactionName": "minmatarbase",
+  "variationParentTypeID": 30066,
   "volume": 40.0
 }

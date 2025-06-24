@@ -1,5 +1,19 @@
 {
-  "typeID": 87951,
+  "basePrice": 100000000.0,
+  "description": {
+    "de": "Dieser Generator erzeugt systemweite Effekte, die denen in exotischen Umgebungen der Raumverwerfung des Abgrunds ähneln. Alle Schiffe im System: +25 % Scanauflösung, +2 AE/s Warpgeschwindigkeit.",
+    "en": "This generator produces system-wide effects similar to those encountered in Exotic environments within Abyssal Deadspace.\r\n\r\nAll ships in system: +25% scan resolution, +2 AU/s warp speed.",
+    "es": "Este generador produce efectos a nivel del sistema similares a los que se encuentran en entornos exóticos dentro del espacio muerto abisal.\r\n\r\nTodas las naves en el sistema: +25 % a la resolución de escaneo, +2 UA/s a la velocidad de warp.",
+    "fr": "Ce générateur produit des effets à l'échelle du système similaires à ceux rencontrés dans les environnements exotiques de l'abîme Deadspace. Tous les vaisseaux du système : +25 % de résolution du balayage, +2 UA/s à la vitesse de warp.",
+    "ja": "このジェネレーターは、アビサルデッドスペースのエキゾチックタイプ環境と似た効果をシステム全域に発生させる。\r\n\r\nシステム内の全艦船：スキャン分解能+25%、ワープ速度+2AU/秒",
+    "ko": "어비설 데드스페이스 엑조틱 환경에서 볼 수 있는 성계 전체에 영향을 미치는 효과를 생성합니다.\r\n\r\n성계 내 함선에 적용되는 효과: 스캔 정밀도 25% 증가, 워프 속도 2AU/s 증가",
+    "ru": "Этот генератор создаёт эффекты, похожие на те, что встречаются в зонах экзотических бурь на просторах Мёртвой бездны. Эффекты охватывают всю систему. Все корабли в системе: +25% к разрешающей способности сенсоров, +2 а. е./сек. к скорости хода в варп-режиме.",
+    "zh": "该生成器可作用于整个星系，类似于你在深渊空间异种环境中遇到的效果。星系内所有舰船：扫描分辨率+25%，跃迁速度+2 AU/s。"
+  },
+  "groupID": 4839,
+  "iconID": 26780,
+  "marketGroupID": 3741,
+  "mass": 1000.0,
   "name": {
     "de": "Exotic Stability Generator",
     "en": "Exotic Stability Generator",
@@ -10,5 +24,7 @@
     "ru": "Exotic Stability Generator",
     "zh": "异种稳定发生器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 10000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 2403,
+  "basePrice": 10000000.0,
+  "description": {
+    "de": "Fortgeschrittenes Verständnis der Planetenevolution, sodass höher aufgelöste planetarische Scandaten für Ressourcen von Ihnen interpretiert werden können. Bonus: Dieser Skill erhöht die Auflösung der Ressourcendaten beim Scannen von Planeten, was eine sehr genaue Vermessung zulässt.",
+    "en": "The advanced understanding of planet evolution allowing you to interpret data from scans of planets for resources at much higher resolutions.\r\n\r\nBonus: The skill further increases the resolution of resource data when scanning a planet to allow for very precise surveying.",
+    "es": "La comprensión avanzada de la evolución de los planetas te permite interpretar datos de escaneos de planetas para buscar recursos a resoluciones mucho más altas.\n\nBonificación: la habilidad aumenta la resolución de los datos de recursos al escanear un planeta para permitir una topografía muy precisa.",
+    "fr": "Compréhension avancée de l'évolution des planètes vous permettant de mieux interpréter les données issues des scanners à la recherche de ressources sur les planètes, grâce à une résolution nettement supérieure. Bonus : cette compétence améliore encore la résolution des données lorsqu'un scanner est effectué pour rechercher des ressources sur une planète.",
+    "ja": "惑星の進化を深く理解することで、惑星資源のスキャンデータをより高い分解能で解釈できるようになる。\r\n\nボーナス：惑星スキャン時の資源データの分解能が向上し、調査の精度が高まる。",
+    "ko": "행성 발달 과정의 심층적인 이해를 통해 스캔 데이터를 분석하고, 이를 바탕으로 행성의 자원 보유량을 조사합니다. <br><br>보너스: 행성 스캔 정밀도 증가",
+    "ru": "Более глубокое понимание развития планет позволяет вам интерпретировать данные сканирования планет на наличие ресурсов с гораздо более высокой разрешающей способностью. Бонус: этот навык позволяет еще больше увеличить разрешающую способность данных о ресурсах при сканировании планет и получать чрезвычайно точные сведения.",
+    "zh": "掌握行星演化科学的高级理论，能让你更加准确地分析行星资源扫描数据。\n\n\n\n额外加成： 这项技能能够进一步提高行星资源数据的扫描精确程度，使得勘探的精准度变得非常高。"
+  },
+  "groupID": 1241,
+  "iconID": 33,
+  "marketGroupID": 1823,
   "name": {
     "de": "Advanced Planetology",
     "en": "Advanced Planetology",
@@ -10,5 +23,7 @@
     "ru": "Спецкурс планетологии",
     "zh": "高级行星学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

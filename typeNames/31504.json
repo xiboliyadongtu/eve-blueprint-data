@@ -1,5 +1,19 @@
 {
-  "typeID": 31504,
+  "description": {
+    "de": "Diese Schiffsmodifikation wurde dazu entwickelt, den CPU-Bedarf der Hybridgeschütztürme eines Schiffes zu reduzieren, auf Kosten eines erhöhten Stromnetzbedarfs für Hybridwaffen.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26259>Hybridwaffenmodifikation</a> reduziert werden.",
+    "en": "This ship modification is designed to decrease the CPU need of a ship's hybrid turrets at the expense of increased power grid need for hybrid weapons.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26259>Hybrid Weapon Rigging</a> skill.",
+    "es": "Esta modificación de nave está diseñada para reducir la necesidad de la CPU de las torretas híbridas a costa de incrementar la necesidad del sistema de potencia de las armas híbridas.\n\nSe pueden reducir las desventajas de equipar este complemento desarrollando la habilidad <a href=showinfo:26259>Complementos de armas híbridas</a>.",
+    "fr": "Cette modification de vaisseau est conçue pour réduire les contraintes de CPU des tourelles hybrides d'un vaisseau, au détriment des ressources de réseau d'alimentation amélioré requises par les armes hybrides.\n\n\n\nLes inconvénients du montage de cette plateforme pourraient être réduits en entraînant la compétence <a href=showinfo:26259>Optimisation des armes hybrides</a>.",
+    "ja": "この改造を行うと、ハイブリッド兵器に必要なパワーグリッド量が増加するのと引き換えに、艦船のハイブリッドタレットのCPU要件が低下する。このリグを装備することで発生するペナルティは、<a href=showinfo:26259>ハイブリッド兵器リギング</a>スキルをトレーニングすることで低減できる。",
+    "ko": "리그 장착 시 하이브리드 터렛 CPU 사용량이 감소하는 반면 하이브리드 터렛 파워그리드 요구치가 증가합니다. <br><br>리그 부작용은 <a href=showinfo:26259>하이브리드 무기 리그</a> 스킬 습득 시 감소합니다.",
+    "ru": "Эта модификация предназначена для уменьшения потребления ресурсов процессора гибридными орудиями корабля за счёт повышения расхода энергии реактора, необходимой для их установки и работы.\n\n\n\nНегативный эффект от установки этого тюнинг-модуля можно снизить, освоив навык <a href=showinfo:26259>Hybrid Weapon Rigging</a>, дающий пилоту углублённое понимание принципов взаимодействия между гибридными орудиями и различными системами корабля.",
+    "zh": "这个飞船改装件可以降低混合炮台的CPU需求，但代价是混合武器的能量栅格需求增加。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26259>混合武器改装技术</a>技能降低影响。"
+  },
+  "groupID": 776,
+  "iconID": 3202,
+  "marketGroupID": 1229,
+  "mass": 200.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Medium Algid Hybrid Administrations Unit I",
     "en": "Medium Algid Hybrid Administrations Unit I",
@@ -10,5 +24,8 @@
     "ru": "Medium Algid Hybrid Administrations Unit I",
     "zh": "中型冷凝混合管理单元 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 100.0,
   "volume": 10.0
 }

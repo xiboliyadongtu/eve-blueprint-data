@@ -1,5 +1,18 @@
 {
-  "typeID": 30302,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese Struktur könnte nicht typischer für die Sleeper entworfen worden sein und dient als Informations-Knotenpunkt, der diverse Datenquellen miteinander verbindet. Eine außerordentlich robuste Außenhülle sorgt dafür, dass nichts den Informationsfluss im Inneren unterbricht.",
+    "en": "Distinctively Sleeper in design, this structure operates as an information hub, linking up various data sources with one another. An extraordinarily resilient superstructure guards the flow of information inside from any disruption.",
+    "es": "Con un diseño distintivamente sleeper, esta estructura funciona como centro de información, vinculando varias fuentes de datos entre sí. Una superestructura extraordinariamente resistente protege el flujo de información ante cualquier interrupción.",
+    "fr": "Basée sur un modèle typiquement sleeper, cette structure sert de plaque tournante de l'information, reliant entre elles les différentes sources de données. Une superstructure extraordinairement résistante qui maintient le flux d'informations à l'écart de toute perturbation.",
+    "ja": "スリーパー独自のデザインを持つこの建造物は情報ハブとして機能しており、いくつものデータソースと繋がっている。極めて高い耐久性を持つ上位建造物が内部の情報の流れをあらゆる妨害から守っている。",
+    "ko": "정보 허브로 사용되던 슬리퍼 구조물입니다. 이 허브가 가진 뛰어난 저항력은 내부의 정보 흐름이 교란되는 것을 방지합니다.",
+    "ru": "Это сооружение, похожее на многие другие сооружения Sleeper, служило в качестве информационного коммутатора, связывая между собой различные источники данных. Его чрезвычайно прочный корпус защищает работу хрупкого оборудования от любого вмешательства извне.",
+    "zh": "典型的冬眠者式建筑，这座设施是一座信息交互枢纽，连接了无数的数据源。坚固的外壳保护着内部的数据传输系统，使其不受到任何外部的干扰。"
+  },
+  "graphicID": 3519,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Sleeper Interlink Hub",
     "en": "Sleeper Interlink Hub",
@@ -10,5 +23,9 @@
     "ru": "Sleeper Interlink Hub",
     "zh": "冬眠者交互枢纽"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 2917.0,
+  "sofFactionName": "sleeperbase",
   "volume": 100000000.0
 }

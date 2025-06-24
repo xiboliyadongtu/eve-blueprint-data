@@ -1,5 +1,19 @@
 {
-  "typeID": 47911,
+  "description": {
+    "de": "Entropische Desintegratoren generieren im Einsatz eine beachtliche Strahlung, die eingedämmt werden muss, bevor sie ein gefährliches Maß erreicht. Zusätzliche online geschaltetete entropische Strahlungskühler ermöglichen es, Waffen schneller und mit größerer Energie abfeuern, was ihre potenzielle Schadenswirkung deutlich vergrößert. Abzug: Beim Einsatz mehrerer Module des gleichen oder ähnlichen Typs, welche dieselbe Widerstandsart beeinflussen, wird deren Wirksamkeit für diese Widerstandsart eingeschränkt.",
+    "en": "Entropic Disintegrators generate a considerable amount of radiation when firing and this must be contained in order to avoid a dangerous build up. Bringing online additional Entropic Radiation Sinks allows the weapons to be fired at higher levels of energy and more rapidly, considerably increasing their damage potential.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",
+    "es": "Los desintegradores entrópicos generan una cantidad considerable de radiación al disparar y es necesario contenerla para evitar una acumulación peligrosa. Si se conectan disipadores de radiación entrópica adicionales, las armas se podrán disparar con un nivel energético más alto y con mayor rapidez, lo que aumenta considerablemente su potencial de daño.\n\nPenalización: Por usar más de un tipo de módulo o módulos similares que afecten al mismo atributo de la nave.",
+    "fr": "Les désintégrateurs entropiques génèrent une quantité considérable de radiations lors des tirs. Elles doivent être contenues pour éviter qu'elles n'augmentent dangereusement. Grâce à l'activation de dissipateurs de radiations entropiques supplémentaires, les armes plus rapides qui requièrent des niveaux énergétiques élevés augmentent considérablement les dégâts potentiels infligés. Pénalité : utiliser plus d'un module de ce type ou plusieurs modules modifiant un même attribut du vaisseau fera l'objet d'une pénalité.",
+    "ja": "エントロピックディスインテグレーターは発砲時に多量の放射能を生み出すため、危険レベルの蓄積を防ぐために隔離する必要がある。追加のエントロピック放射線シンクを稼働させることで、発射時のエネルギー量と連射速度を増加させ、ダメージ性能をさらに高めることができる。\r\n\nペナルティ： 船の同じ属性に関係する同タイプ、もしくは類似のモジュールを複数取り付けると、モジュールの効果が低下する。",
+    "ko": "엔트로픽 분열기를 발사하게 되면 상당한 양의 방사능이 발생하기 때문에 누출을 억제하기 위한 장치가 필수적으로 요구됩니다. 엔트로픽 방사선 싱크를 온라인 상태로 전환하면 방사능 누출이 차단되며 무기 발사 속도와 에너지 밀도가 증가합니다. <br><br>페널티: 동일한 속성의 모듈 여러 개를 장착할 경우 페널티가 부여됩니다.",
+    "ru": "Во время стрельбы энтропические дезинтеграторы вырабатывают большое количество радиации, которую во избежание несчастных случаев необходимо сдерживать. Использование дополнительных поглотителей энтропического излучения позволяет вести огонь на повышенных мощностях и с увеличенной скорострельностью, что существенно повышает боевой потенциал оружия. Внимание! Установка на борт корабля двух и более модулей, влияющих на одну и ту же характеристику корабля, приведёт к снижению эффективности их действия в отношении данной характеристики.",
+    "zh": "熵能分解者在使用时会发出大量放射性物质，必须小心防止危险情况发生。使用熵辐射槽能让武器以更快的速度保持高能量发射，从而有效提高伤害能力。\n\n\n\n惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。"
+  },
+  "groupID": 1988,
+  "iconID": 26521,
+  "marketGroupID": 2471,
+  "mass": 1.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Entropic Radiation Sink II",
     "en": "Entropic Radiation Sink II",
@@ -10,5 +24,8 @@
     "ru": "Entropic Radiation Sink II",
     "zh": "熵辐射槽 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 47908,
   "volume": 5.0
 }

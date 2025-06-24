@@ -1,5 +1,18 @@
 {
-  "typeID": 17878,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Diese Drohnenstation hat verschiedene, sehr wirksame Verteidigungssysteme.",
+    "en": "This Drone station has several formidable defensive systems.",
+    "es": "Esta estación de drones cuenta con unos sistemas defensivos formidables.",
+    "fr": "Cette station drone est équipée de plusieurs systèmes de défense extrêmement redoutables.",
+    "ja": "圧倒的な防衛システムを複数搭載した、ドローンステーション。",
+    "ko": "상당한 수준의 방어 체계가 갖추어진 드론 정거장입니다.",
+    "ru": "Эта станция дронов обладает несколькими прочными защитными системами.",
+    "zh": "这座无人机空间站拥有多个强大的防御系统。"
+  },
+  "graphicID": 2565,
+  "groupID": 383,
+  "mass": 1000.0,
   "name": {
     "de": "Sentinel Chimera Strain Mother",
     "en": "Sentinel Chimera Strain Mother",
@@ -10,5 +23,9 @@
     "ru": "Sentinel Chimera Strain Mother",
     "zh": "狮妖防御母体前哨站"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 3500.0,
+  "sofFactionName": "roguebase",
   "volume": 1000.0
 }

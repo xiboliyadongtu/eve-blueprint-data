@@ -1,5 +1,75 @@
 {
-  "typeID": 17740,
+  "basePrice": 289500000.0,
+  "capacity": 850.0,
+  "description": {
+    "de": "Die Ingenieure der Guardian Angels ebneten den Weg für die Entwicklung eines Schlachtschiffes auf Basis der viel gerühmten Megathron der Federation Navy, um Furcht unter den Törichten zu verbreiten, die sich gegen das Kartell oder dessen Serpentis-Schützlinge auflehnten. Der Ruf des Schiffs spricht für den Erfolg dieses Vorhabens.",
+    "en": "Basing their design on the Federation Navy's much-vaunted Megathron, the Guardian Angels' engineers set out to create a battleship that would instill fear in anyone fool enough to square off against the Cartel or its Serpentis protectorate. Based on the reputation this ship has engendered, they seem to have succeeded admirably.",
+    "es": "Los ingenieros que crearon los Ángeles de la Guarda, basándose en el famoso Megathron de la Armada de la Federación, se propusieron crear un acorazado que infundiera miedo en cualquiera lo bastante ingenuo como para enfrentarse al Cártel o su protectorado de Serpentis. A juzgar por la reputación que precede a esta nave, parece que han tenido un éxito rotundo.",
+    "fr": "En basant leur modèle sur le tant vanté Megathron de la Navy de la Fédération, les ingénieurs des Guardian Angel ont voulu créer un cuirassé qui inspirerait la peur à quiconque serait assez fou pour s'opposer au cartel ou à son protectorat serpentis. À en juger par la réputation que ce vaisseau a acquis, on peut dire qu'ils ont admirablement réussi.",
+    "ja": "ガーディアン・エンジェルズのエンジニア達は連邦海軍が誇るメガソロンをベースに、カルテルやサーペンティスの保護領に対し愚かにも攻撃の構えをとろうとする人々に恐怖を植え付けることができる戦艦の設計に着手した。この戦艦に対する評判を聞く限りではこの目標は見事に達成されたようである。",
+    "ko": "연방 해군의 주력 함선인 메가쓰론을 기반으로 설계된 함선으로, 카르텔과 서펜티스를 적대하는 자들에게 씻을 수 없는 공포를 심어주기 위해 제작되었습니다. 빈디케이터의 최근 위명으로 보아 초기 개발 목적은 성공적으로 달성한 듯합니다.",
+    "ru": "Опираясь на конструкцию «Мегатронов» — прославленных линкоров флота Галлентской Федерации — инженеры корпорации «Гардиан Ангел» намеревались создать боевую машину, способную вселить ужас в сердце любого глупца, решившего бросить вызов «картелю ангелов» или его протекторату «Серпентис». Судя по репутации этого корабля, они вполне в этом преуспели.",
+    "zh": "在联邦海军万王宝座设计的基础上，守护天使的工程师们建造了一艘让任何胆敢与天使或天蛇作对的人不寒而栗的战舰。从这艘船已经享有的声誉来看，他们似乎已经大功告成了。"
+  },
+  "factionID": 500020,
+  "graphicID": 2157,
+  "groupID": 27,
+  "marketGroupID": 1380,
+  "mass": 105200000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      69,
+      138,
+      140,
+      150,
+      89,
+      133
+    ],
+    "1": [
+      96,
+      99,
+      69,
+      138,
+      140,
+      150,
+      89,
+      133
+    ],
+    "2": [
+      96,
+      99,
+      69,
+      138,
+      140,
+      150,
+      89,
+      133
+    ],
+    "3": [
+      96,
+      99,
+      69,
+      138,
+      140,
+      150,
+      89,
+      133
+    ],
+    "4": [
+      96,
+      99,
+      69,
+      138,
+      140,
+      117,
+      150,
+      89,
+      133
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Vindicator",
     "en": "Vindicator",
@@ -10,5 +80,113 @@
     "ru": "Vindicator",
     "zh": "复仇者级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 250.0,
+  "sofFactionName": "serpentis",
+  "soundID": 20120,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 5.0,
+        "bonusText": {
+          "de": "zusätzlicher Bonus auf HP der <a href=showinfo:3394>Verstärkten Schottwand</a>",
+          "en": "additional bonus to <a href=showinfo:3394>Reinforced Bulkhead</a> hitpoints",
+          "es": "de bonificación adicional a los puntos de vida del <a href=showinfo:3394>mamparo reforzado</a>.",
+          "fr": "de bonus supplémentaire aux points de vie de la <a href=showinfo:3394>cloison renforcée</a>",
+          "ja": "<a href=showinfo:3394>強化隔壁</a>HPがさらに増加",
+          "ko": "<a href=showinfo:3394>강화 격벽</a> 내구도 증가",
+          "ru": "дополнительный бонус к прочности <a href=showinfo:3394>укреплённой переборки</a>",
+          "zh": "<a href=showinfo:3394>强化舱隔壁</a>结构值加成"
+        },
+        "importance": 4,
+        "unitID": 105
+      },
+      {
+        "bonus": 37.5,
+        "bonusText": {
+          "de": "Bonus auf den Schaden von <a href=showinfo:3307>großen Hybridgeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:3307>Large Hybrid Turret</a> damage",
+          "es": "de bonificación al daño de la <a href=showinfo:3307>torreta híbrida grande</a>.",
+          "fr": "de bonus aux dégâts des <a href=showinfo:3307>grandes tourelles hybrides</a>",
+          "ja": "<a href=showinfo:3307>大型ハイブリッドタレット</a>のダメージが増加",
+          "ko": "<a href=showinfo:3307>대형 하이브리드 터렛</a> 피해량 증가",
+          "ru": "увеличивается урон боеприпасов <a href=showinfo:3307>больших гибридных орудий</a>",
+          "zh": "<a href=\"showinfo:3307\">大型混合炮台</a>伤害加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der <a href=showinfo:3394>Panzerplatte</a>",
+          "en": "bonus to <a href=showinfo:3394>Armor Plate</a> hitpoints",
+          "es": "de bonificación a los puntos de vida de las <a href=showinfo:3394>placas de blindaje</a>.",
+          "fr": "de bonus aux points de vie du <a href=showinfo:3394>revêtement de blindage</a>",
+          "ja": "<a href=showinfo:3394>アーマープレート</a>HPが増加",
+          "ko": "<a href=showinfo:3394>장갑 플레이트</a> 내구도 증가",
+          "ru": "бонус к прочности <a href=showinfo:3394>бронеплиты</a>",
+          "zh": "<a href=showinfo:3394>装甲附甲板</a>装甲值加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonus": 100.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der <a href=showinfo:3425>Schilderweiterung</a>",
+          "en": "bonus to <a href=showinfo:3425>Shield Extender</a> hitpoints",
+          "es": "de bonificación a los puntos de vida del <a href=showinfo:3425>extensor de escudo</a>.",
+          "fr": "de bonus aux points de vie de l'<a href=showinfo:3425>extenseur de bouclier</a>",
+          "ja": "<a href=showinfo:3425>シールドエクステンダー</a>HPが増加",
+          "ko": "<a href=showinfo:3425>실드 확장장치</a> 실드량 증가",
+          "ru": "бонус к прочности <a href=showinfo:3425>расширителя щитов</a>",
+          "zh": "<a href=showinfo:3425>护盾扩展装置</a>护盾值加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3336": [
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Nachführungsgeschwindigkeit von <a href=showinfo:3307>großen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3307>Large Hybrid Turret</a> tracking speed",
+            "es": "de bonificación a la velocidad de rastreo de la <a href=showinfo:3307>torreta híbrida grande</a>.",
+            "fr": "de bonus à la vitesse de poursuite des <a href=showinfo:3307>grandes tourelles hybrides</a>",
+            "ja": "<a href=showinfo:3307>大型ハイブリッドタレット</a>の追跡速度が上昇",
+            "ko": "<a href=showinfo:3307>대형 하이브리드 터렛</a> 트래킹 속도 증가",
+            "ru": "повышается скорость наводки на цель <a href=showinfo:3307>больших гибридных орудий</a>",
+            "zh": "<a href=\"showinfo:3307\">大型混合炮台</a>跟踪速度加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ],
+      "3337": [
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die Effektivität von <a href=showinfo:526>Stasisnetzen</a>",
+            "en": "bonus to <a href=showinfo:526>Stasis Webifier</a> effectiveness",
+            "es": "de bonificación a la efectividad de la <a href=showinfo:526>red ralentizadora</a>.",
+            "fr": "de bonus à l'efficacité des <a href=showinfo:526>générateurs de stase</a>",
+            "ja": "<a href=showinfo:526>ステイシスウェビファイア</a>の効果が増加",
+            "ko": "<a href=showinfo:526>스테이시스 웹 생성기</a> 효과 증가",
+            "ru": "повышается эффективность действия <a href=showinfo:526>стазис-индукторов</a>",
+            "zh": "<a href=\"showinfo:526\">停滞缠绕光束</a>效果加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 641,
   "volume": 470000.0
 }

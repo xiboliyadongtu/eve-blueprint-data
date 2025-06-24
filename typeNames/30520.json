@@ -1,5 +1,18 @@
 {
-  "typeID": 30520,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieses Objekt ist offensichtlich von einer größeren Struktur abgetrennt worden - wohl in Folge eines Asteroideneinschlags. Glücklicherweise hat eine in früheren Zeiten überflüssige Stromquelle gerade noch genug Strom zur Verfügung gestellt, um die Datenbank funktionstüchtig zu erhalten. Mit Ihrem Datenanalysator könnten Sie ihr noch Informationen abluchsen.",
+    "en": "This object was severed from some larger structure in the distant past, perhaps as the result of an asteroid strike. Fortunately, a once-redundant power source has provided just enough energy to keep its databank operable. You may be able to extract something with your Data Analyzer.",
+    "es": "Este objeto se separó de una estructura mayor hace eones, quizá a causa del impacto de un asteroide. Por suerte, obtiene energía suficiente de una fuente de alimentación redundante para que su banco de datos siga funcionando. Es posible que puedas extraer algo con el analizador de datos.",
+    "fr": "Cet objet a été arraché à une structure plus grande dans un passé lointain, peut-être suite à une collision avec un astéroïde. Heureusement, une source d'alimentation rechargeable a fourni assez d'énergie pour maintenir cette banque de données utilisable. Votre analyseur de données vous permettra peut-être d'en extraire quelque chose.",
+    "ja": "この物体は、はるか昔に存在した何らかの大きな建造物から切り離されたものだ。おそらく、アステロイドの衝突が原因だろう。幸いなことに、かつての余剰電力により、このデータバンクが動作し続けるだけのエネルギーは何とか供給されていた。データアナライザーを使えば、何か引き出せるかもしれない。",
+    "ko": "소행성 충돌로 인해 떨어져 나온 구조물로 본래 대규모 시설의 일부분이었을 것으로 추측됩니다. 공교롭게도 예비 전원이 가동되어 데이터뱅크는 활성화된 상태입니다. 데이터 분석기를 통해 정보를 수집할 수 있습니다.",
+    "ru": "В далеком прошлом этот объект был оторван от какой-то большого сооружения — возможно, в результате удара астероида. К счастью, резервный источник энергии обеспечил его питанием, достаточным для поддержания работоспособности установленного в нем хранилища данных. Возможно, с помощью анализатора данных вам удастся что-нибудь из него вытянуть.",
+    "zh": "这个物件应该是很久很久以前从某种大型的设施之上脱落出来的，可能是遭受了小行星的撞击。一个先进的能源供给系统提供了足够的能量让这个设备依然处于运转状态。你可以尝试使用你的数据分析仪找出其中有用的信息。"
+  },
+  "graphicID": 3705,
+  "groupID": 1207,
+  "mass": 10000.0,
   "name": {
     "de": "Broken Sleeper Databank",
     "en": "Broken Sleeper Databank",
@@ -10,5 +23,9 @@
     "ru": "Broken Sleeper Databank",
     "zh": "毁坏的冬眠者数据库"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 858.0,
+  "sofFactionName": "debris",
   "volume": 27500.0
 }

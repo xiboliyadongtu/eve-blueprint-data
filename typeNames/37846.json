@@ -1,5 +1,21 @@
 {
-  "typeID": 37846,
+  "basePrice": 325000.0,
+  "description": {
+    "de": "Der Standup-Marschflugkörper ist eine Anti-Schiff-Lenkwaffe mit hoher Reichweite und dafür vorgesehen, um große Schiffe wie Schlachtschiffe zu erfassen und zu zerstören. Diese Lenkwaffe kann mit Standup-Multifunktions-Lenkwaffenwerfern verwendet werden. Standup ist ein gesetzlich geschütztes System, welches eine Strukturautonome Nanofertigungseinheit (Upwell) nutzt, das eine integrierte Vorlagensoftware, eine Nanofertigungsanlage und ausreichend Nanomasse enthält, um die Fertigung einer Vielzahl an Dienstmodulen, Strukturmodulen und Strukturmodifikationen zu ermöglichen, wenn es in entsprechende Slots in einer Struktur mit Upwell-Technologie eingebaut wird.",
+    "en": "The Standup Cruise Missile is a long-range anti-ship missile designed to target and destroy large hull classes such as battleships. This missile can be used with Standup Multirole Missile Launcher systems.\r\n\r\nStandup is a proprietary system that uses a Structure Autonomous Nanoassembly Device (Upwell) containing integrated template software, a nanoassembler array and sufficient nanomass to enable the construction of a variety of service modules, structure modules and structure rigs when inserted into the appropriate slots on a structure built with Upwell technology.",
+    "es": "El misil de crucero Standup es un devastador misil antinaves de largo alcance diseñado para apuntar y destruir cascos grandes, como los de los acorazados. Este misil puede usarse con sistemas de lanzamisiles multifunción Standup.\n\n\n\nStandup es un sistema patentado que utiliza un dispositivo de nanoensamblaje autónomo estructural (de Upwell) que contiene una plantilla integrada de software, una matriz de nanoensambladores y suficiente nanomasa como para construir una serie de módulos de servicio, de estructura y complementos de estructura cuando se insertan en las ranuras apropiadas en una estructura construida con la tecnología de Upwell.",
+    "fr": "Le missile de croisière 'Standup' est un missile anti-vaisseau de longue portée conçu pour détruire les vaisseaux avec de grandes coques, comme les cuirassés. Il peut être utilisé avec un lance-missiles polyvalent 'Standup'. La technologie brevetée 'Standup' exploite un dispositif autonome de nano-assemblage pour structure Upwell, alliant un logiciel de modélisation intégré, une baie de nano-assemblage et une réserve de nano-masse. Une fois insérés dans les emplacements dédiés sur les structures Upwell, les dispositifs 'Standup' permettent l'assemblage moléculaire de divers modules de services, modules de structure et optimisations de structure.",
+    "ja": "スタンドアップ巡航ミサイルは、戦艦のような大型艦を捕捉し破壊するために設計された長距離対艦ミサイルである。このミサイルは、スタンドアップ多目的ミサイルランチャーシステムで使用することができる。\n\n\n\nスタンドアップは、アップウェルテクノロジーにより建造されたストラクチャの適切なスロットに挿入した場合に統合テンプレートソフトウェア、ナノアセンブラー施設、ナノ物質を持つ自立式ナノ集合体ストラクチャデバイス（アップウェル）を使用して、様々なサービスモジュール、ストラクチャモデル、そしてストラクチャリグを作り出すことができる独自システムである。",
+    "ko": "스탠드업 크루즈 미사일은 장거리 대함선 미사일로 배틀쉽과 같은 대형 함선 파괴에 적합합니다. 스탠드업 다목적 미사일 런처 시스템을 통해 사용할 수 있습니다. <br><br>스탠드업은 자율구조형 나노어셈블러 장치(업웰)를 사용하는 시스템으로 템플릿 소프트웨어가 내장되어 있으며 나노어셈블리 배열, 충분한 양의 나노물질이 탑재돼있습니다. 업웰 기반 구조물에 장착 시 다양한 종류의 서비스 모듈, 구조물 모듈, 구조물 장착형 리그를 제조할 수 있습니다.",
+    "ru": "Дальнобойная ракета на базе «Стационар» разработана для обнаружения и уничтожения крупных кораблей, таких как линкоры. Эту ракету можно использовать в многофункциональных ракетных установках на базе «Стационар». СТАЦИОНАР — это проприетарная система, использующая стационарный автономный наносборщик производства «Апвелл», который и лёг в основу её названия. Он содержит встроенное ПО для создания шаблонов, линию наносборщиков и достаточное количество наномассы для сборки различных модулей технического обслуживания, а также модулей и надстроек для сооружений, сконструированных по проектам консорциума «Апвелл», которые устанавливаются в соответствующие разъёмы.",
+    "zh": "这种屹立巡航导弹是远程反舰导弹，被设计用来锁定和击毁诸如战列舰等大型舰船。这种导弹可用在屹立多功能导弹发射器上。\n\n\n\n屹立专用系统采用了昇威建筑分控纳米装配装置，由集成模版软件、纳米装配阵列和许多纳米块体构成。安装在采用昇威科技建造的建筑上的专门槽位中可以制造各种服务装备、建筑装备和建筑改装件。"
+  },
+  "graphicID": 21308,
+  "groupID": 1547,
+  "iconID": 21568,
+  "marketGroupID": 2196,
+  "mass": 1000.0,
+  "metaGroupID": 54,
   "name": {
     "de": "Standup Cruise Missile",
     "en": "Standup Cruise Missile",
@@ -10,5 +26,9 @@
     "ru": "Standup Cruise Missile",
     "zh": "屹立巡航导弹"
   },
+  "portionSize": 100,
+  "published": true,
+  "radius": 300.0,
+  "sofFactionName": "upwell",
   "volume": 0.5
 }

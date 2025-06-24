@@ -1,5 +1,65 @@
 {
-  "typeID": 11192,
+  "basePrice": 17300000.0,
+  "capacity": 190.0,
+  "description": {
+    "de": "Diese Fregatte wurde speziell für Kommando- und Spionageoperationen konzipiert. Ihre besondere Stärke liegt darin, ungesehen durch feindliches Gebiet zu fliegen und unvorteilhafte Begegnungen zu vermeiden. Die Buzzard wurde nach den genauen Vorgaben von Admiral Okaseilen Fukashi, dem Chef der Aufklärungsabteilung der Caldari Navy Recon Division, entwickelt. Sie war das erste Serienschiff, dessen alleinige Aufgabe darin bestand, alle Vorteile aus den technischen Durchbrüchen in der Tarntechnologie wahrzunehmen, die aus dem Projekt Mirage in Crielere hervorgegangen waren.",
+    "en": "Designed for commando and espionage operation, its main strength is the ability to travel unseen through enemy territory and to avoid unfavorable encounters.\r\n\r\nThe Buzzard was developed according to the exacting specifications of Admiral Okaseilen Fukashi, head of the Caldari Navy Recon Division, and was the first production level ship specifically built to take full advantage of the cloaking breakthroughs achieved by Project Mirage at Crielere.",
+    "es": "Su diseño ha sido pensado para operaciones de comando y espionaje, siendo su principal fortaleza la capacidad de viajar de forma encubierta por el territorio enemigo para evitar así encuentros poco favorables.\r\n\r\nLa Buzzard se desarrolló de acuerdo con las exigentes especificaciones del almirante Okaseilen Fukashi, jefe de la División de Reconocimiento de la Armada Caldari, y fue la primera nave de producción construida específicamente para aprovechar al máximo los avances en camuflaje logrados por el proyecto Mirage en Crielere.",
+    "fr": "Conçue pour les opérations commando et d'espionnage, son principal avantage est sa capacité à voyager dans les territoires ennemis sans se faire repérer et à éviter les mauvaises rencontres. Le Buzzard a été mis au point selon les exigences de l'amiral Okaseilen Fukashi, responsable de la Division de reconnaissance de la Caldari Navy.Il s'agissait du premier vaisseau produit en série à tirer parti des nouvelles technologies de camouflage découvertes par le projet Mirage à Crielere.",
+    "ja": "奇襲および偵察作戦用に設計されており、発見されずに敵領内を進んで不意の交戦を避ける能力に主眼が置かれている。\r\n\r\nバザードは、カルダリ海軍の偵察部門を率いるオカセイレン・フカシ提督からの厳密な要求仕様に沿って開発された。クリエレーレシステムのプロジェクトミラージュで開発された革新的遮蔽技術を実用化するべく建造された艦船の中では、最初に量産段階に達した船でもある。",
+    "ko": "후방 침투 및 정찰을 위해 설계된 함선으로 적진에서 임무를 수행 할 때 모습을 감출 수 있어 원치 않는 전투를 피할 수 있습니다.\r\n\r\n버자드는 칼다리 해군 정찰국장 오카세일렌 후쿠마사의 까다로운 요구 사양에 따라 개발되었으며 크리엘레의 미라지 프로젝트를 통한 클로킹 기술 혁신을 온전히 이용하기 위해 개발된 첫 양산형 함선입니다.",
+    "ru": "Buzzard, предназначенный для диверсий и шпионажа, позволяет незаметно передвигаться по вражеской территории и избегать нежелательных столкновений. Buzzard создавался по заказу адмирала Окасейлена Фукаши, главы отдела разведки калдарского флота, и стал первым серийным кораблём, оснащённым самой передовой системой маскировки, изобретённой учёными из проекта «Мираж» в Crielere.",
+    "zh": "为突击队和间谍活动而设计，主要特点在于能穿越敌人领空而不暴露行踪，避免了遭遇危险。秃鹰级是根据加达里海军侦察部长官奥卡瑟棱·弗卡斯上将的严格要求开发而成的，是充分利用来自克莱勒瑞幻象工程的隐形突破科技而制造的第一艘成品舰船。"
+  },
+  "factionID": 500001,
+  "graphicID": 1902,
+  "groupID": 830,
+  "marketGroupID": 422,
+  "mass": 1270000.0,
+  "masteries": {
+    "0": [
+      96,
+      104,
+      139,
+      108,
+      85,
+      94
+    ],
+    "1": [
+      96,
+      104,
+      139,
+      108,
+      85,
+      94
+    ],
+    "2": [
+      96,
+      104,
+      139,
+      108,
+      85,
+      94
+    ],
+    "3": [
+      96,
+      104,
+      139,
+      108,
+      85,
+      94
+    ],
+    "4": [
+      96,
+      104,
+      139,
+      108,
+      85,
+      118,
+      94
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Buzzard",
     "en": "Buzzard",
@@ -10,5 +70,154 @@
     "ru": "Buzzard",
     "zh": "秃鹰级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 35.0,
+  "sofFactionName": "ishukone",
+  "soundID": 20070,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 10.0,
+        "bonusText": {
+          "de": "Bonus auf die Virusstärke von <a href=showinfo:22177>Relikt-</a> und <a href=showinfo:22175>Datenanalysatoren</a>",
+          "en": "bonus to <a href=showinfo:22177>Relic</a> and <a href=showinfo:22175>Data Analyzer</a> virus strength",
+          "es": "de bonificación a la intensidad del virus de los <a href=showinfo:22175>analizadores de datos</a> y de <a href=showinfo:22177>reliquias</a>.",
+          "fr": "de bonus à la puissance du virus des <a href=showinfo:22177>analyseurs de reliques</a> et des <a href=showinfo:22175>analyseurs de données</a>",
+          "ja": "<a href=showinfo:22177>遺物アナライザー</a>と<a href=showinfo:22175>データアナライザー</a>のウイルス強度が増加",
+          "ko": "<a href=showinfo:22177>유물</a> 및 <a href=showinfo:22175>데이터 분석기</a> 바이러스 침투력 증가",
+          "ru": "повышается степень опасности вирусов, применяемых в <a href=showinfo:22175>комплексах анализа данных</a> и <a href=showinfo:22177>комплексах анализа артефактов</a>",
+          "zh": "<a href=\"showinfo:22177\">遗迹分析仪</a>和<a href=\"showinfo:22175\">数据分析仪</a>病毒强度加成"
+        },
+        "importance": 1,
+        "unitID": 139
+      },
+      {
+        "bonusText": {
+          "de": "Es können <a href=showinfo:11578>Covert Ops-Tarnmodule</a> und <a href=showinfo:28646>getarnte Anziehungsfeldgeneratoren</a> eingebaut werden",
+          "en": "Can fit <a href=showinfo:11578>Covert Ops Cloaking Device</a> and <a href=showinfo:28646>Covert Cynosural Field Generator</a>",
+          "es": "Es posible equipar un <a href=showinfo:11578>dispositivo de camuflaje de operaciones encubiertas</a> y un <a href=showinfo:28646>generador de campo cinosural encubierto</a>.",
+          "fr": "Peut équiper des <a href=showinfo:11578>dispositifs de camouflage opérations secrètes</a> et des <a href=showinfo:28646>générateurs de champ cynosural furtif</a>",
+          "ja": "<a href=showinfo:11578>隠密行動用遮蔽装置</a>と<a href=showinfo:28646>潜伏用サイノシュラルフィールドジェネレータ</a>を装備できる",
+          "ko": "<a href=showinfo:11578>코버트 옵스 클로킹 장치</a> 및 <a href=showinfo:11578>코버트 사이노슈럴 필드 생성기</a>장착 가능",
+          "ru": "Корабли этого типа могут оснащаться <a href=showinfo:11578>всережимными системами маскировки</a> и <a href=showinfo:28646>приводными маяками скрытого действия</a>",
+          "zh": "可以装备<a href=\"showinfo:11578\">隐秘行动隐形装置</a>和<a href=\"showinfo:28646\">隐秘诱导力场发生器</a>"
+        },
+        "importance": 2
+      },
+      {
+        "bonusText": {
+          "de": "Die Verzögerung bei Reaktivierung von <a href=showinfo:11579>Tarnmodulen</a> wird auf 5 Sekunden reduziert.",
+          "en": "<a href=showinfo:11579>Cloak</a> reactivation delay reduced to 5 seconds",
+          "es": "Reducción de la demora de reactivación del <a href=showinfo:11579>camuflaje</a> a 5 segundos.",
+          "fr": "Délai de réactivation du <a href=showinfo:11579>camouflage</a> réduit à 5 secondes",
+          "ja": "<a href=showinfo:11579>遮蔽装置</a>の再起動遅延が5秒に短縮",
+          "ko": "<a href=showinfo:11579>클로킹</a> 재가동 지연 시간 5초로 감소",
+          "ru": "Задержка повторного включения <a href=showinfo:11579>систем маскировки</a> сокращена до 5 секунд",
+          "zh": "<a href=\"showinfo:11579\">隐形装置</a>重启延时降到5秒"
+        },
+        "importance": 3
+      },
+      {
+        "bonus": 60.0,
+        "bonusText": {
+          "de": "Bonus auf die Warpgeschwindigkeit und Warpbeschleunigung",
+          "en": "bonus to warp speed and warp acceleration",
+          "es": "de bonificación a la velocidad y la aceleración de warp.",
+          "fr": "de bonus à la vitesse de warp et à l'accélération de warp",
+          "ja": "ワープ速度とワープ加速度が上昇",
+          "ko": "워프 속도 및 워프 가속도 증가",
+          "ru": "бонус к разгону и скорости хода (в варп-режиме)",
+          "zh": "跃迁速度和跃迁加速加成"
+        },
+        "importance": 4,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3330": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Reduktion der Abweichung von <a href=showinfo:30013>Kern-</a> und <a href=showinfo:30028>Gefechtsscansonden</a>",
+            "en": "reduction to <a href=showinfo:30013>Core</a> and <a href=showinfo:30028>Combat Scanner Probe</a> deviation",
+            "es": "de reducción a la desviación de la <a href=showinfo:30013>sonda escáner de combate</a> y la <a href=showinfo:30028>de núcleo</a>.",
+            "fr": "réduction de la déviation des sondes <a href=showinfo:30013>principales</a> et des <a href=showinfo:30028>sondes de scanner de combat</a>",
+            "ja": "<a href=showinfo:30013>コア</a>及び<a href=showinfo:30028>戦闘スキャナープローブ</a>の誤差が減少",
+            "ko": "<a href=showinfo:30013>코어 프로브</a> 및 <a href=showinfo:30028>정찰 프로브</a> 스캔 오차 감소",
+            "ru": "уменьшение отклонения зондов <a href=showinfo:30013>навигационной</a> и <a href=showinfo:30028>боевой разведки</a>",
+            "zh": "<a href=showinfo:30013>核心</a>和<a href=showinfo:30028>作战扫描探针</a>扫描偏差减少"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 15.0,
+          "bonusText": {
+            "de": "Reduktion des Energiespeicherverbrauchs des <a href=showinfo:3455>Warpantriebs</a>",
+            "en": "reduction in <a href=showinfo:3455>warp drive</a> capacitor need",
+            "es": "de reducción de la necesidad del condensador del <a href=showinfo:3455>motor de warp</a>.",
+            "fr": "de réduction des besoins énergétiques du capaciteur pour le <a href=showinfo:3455>propulseur de warp</a>",
+            "ja": "<a href=showinfo:3455>ワープドライブ</a>の必要キャパシタ量が減少",
+            "ko": "<a href=showinfo:3455>워프 드라이브</a> 캐패시터 요구량 감소",
+            "ru": "снижение потребления энергии <a href=showinfo:3455>варп-двигателем</a>",
+            "zh": "<a href=showinfo:3455>跃迁引擎</a>电容需求降低"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ],
+      "12093": [
+        {
+          "bonus": 20.0,
+          "bonusText": {
+            "de": "Reduktion des CPU-Bedarfs für <a href=showinfo:11579>Tarnmodule</a>",
+            "en": "reduction in <a href=showinfo:11579>Cloaking Devices</a> CPU requirement",
+            "es": "de reducción del requisito de CPU de los <a href=showinfo:11579>dispositivos de camuflaje</a>.",
+            "fr": "de réduction du CPU requis par les <a href=showinfo:11579>dispositifs de camouflage</a>",
+            "ja": "<a href=showinfo:11579>遮蔽装置</a>のCPU使用量が減少",
+            "ko": "<a href=showinfo:11579>클로킹 장치</a> CPU 사용량 감소",
+            "ru": "сокращается потребность <a href=showinfo:11579>систем маскировки</a> в мощностях ЦПУ",
+            "zh": "<a href=\"showinfo:11579\">隐形装置</a>的CPU需求降低"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die Stärke von <a href=showinfo:30013>Kern-</a> und <a href=showinfo:30028>Kampf-Scansonden</a>",
+            "en": "bonus to <a href=showinfo:30013>Core</a> and <a href=showinfo:30028>Combat Scanner Probe</a> strength",
+            "es": "de bonificación a la intensidad de la <a href=showinfo:30028>sonda escáner de combate</a> y la <a href=showinfo:30013>de núcleo</a>.",
+            "fr": "de bonus à la puissance des <a href=showinfo:30013>sondes d'exploration principales</a> et des <a href=showinfo:30028>sondes d'exploration de combat</a>",
+            "ja": "<a href=showinfo:30013>コアスキャナープローブ</a>と<a href=showinfo:30028>戦闘スキャナープローブ</a>の強度が増加",
+            "ko": "<a href=showinfo:30013>코어 프로브</a> 및 <a href=showinfo:30028>정찰 프로브</a> 스캔 강도 증가",
+            "ru": "повышается чувствительность бортовой аппаратуры <a href=showinfo:30013>зондов навигационной разведки</a> и <a href=showinfo:30028>боевых разведзондов</a>",
+            "zh": "<a href=\"showinfo:30013\">核心</a>和<a href=\"showinfo:30028\">作战扫描探针</a>强度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Reduktion der Scan-Dauer von <a href=showinfo:18635>Vermessungssonden</a>",
+            "en": "reduction in time required for <a href=showinfo:18635>Survey Probe</a> scans",
+            "es": "de reducción al tiempo necesario para los escaneos de las <a href=showinfo:18635>sondas de prospección</a>.",
+            "fr": "de réduction de temps nécessaire pour le balayage des <a href=showinfo:18635>sondes d'exploration</a>",
+            "ja": "<a href=showinfo:18635>衛星調査プローブ</a>スキャンにかかる時間が減少",
+            "ko": "<a href=showinfo:18635>조사 프로브</a> 스캔 시간 감소",
+            "ru": "сокращается расход времени на сбор данных <a href=showinfo:18635>зондами луноразведки</a>",
+            "zh": "<a href=showinfo:18635>测量探针</a>扫描时间减少"
+          },
+          "importance": 3,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 605,
   "volume": 19400.0
 }

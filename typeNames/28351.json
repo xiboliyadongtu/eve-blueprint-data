@@ -1,5 +1,20 @@
 {
-  "typeID": 28351,
+  "basePrice": 150000000.0,
+  "capacity": 25000.0,
+  "description": {
+    "de": "Mobile Laboranlage. Kann innerhalb des Einflussbereiches eines Kontrollturms verankert werden. Diese Struktur bietet Kopier- und Erfindungsaktivitäten.",
+    "en": "Portable laboratory facilities, anchorable within control tower fields. This structure has copying and invention activities.",
+    "es": "Instalaciones de laboratorio portátiles de anclaje dentro de los campos de las torres de control. Esta estructura lleva a cabo actividades de copia e invención.",
+    "fr": "Laboratoire mobile pouvant être ancré dans les champs des tours de contrôle. Cette structure dispose d'activités de copie et d'invention.",
+    "ja": "コントロールタワーのフィールド内に固定可能な移動式研究施設。この施設ではコピー及び発明アクティビティーが可能だ。",
+    "ko": "이동식 연구시설로 관제타워의 필드 내에 위치 고정할 수 있습니다. 해당 구조물에서 블루프린트 복제 및 인벤션 작업을 진행할 수 있습니다.",
+    "ru": "Блок-лаборатория, который можно поставить на якорь в пределах силового поля башни управления базой. В этом сооружении решаются задачи модернизации и копирования чертежей.",
+    "zh": "移动实验室设施，可在控制塔力场内锚定。在这里可以进行拷贝和发明项目。"
+  },
+  "graphicID": 2373,
+  "groupID": 413,
+  "marketGroupID": 933,
+  "mass": 100000000.0,
   "name": {
     "de": "Design Laboratory",
     "en": "Design Laboratory",
@@ -10,5 +25,9 @@
     "ru": "Design Laboratory",
     "zh": "设计实验室"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 782.0,
+  "sofFactionName": "genericmetal",
   "volume": 3000.0
 }

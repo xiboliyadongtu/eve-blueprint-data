@@ -1,5 +1,18 @@
 {
-  "typeID": 28091,
+  "basePrice": 1683617576.0,
+  "description": {
+    "de": "Ein fortschrittliches Upgrade für das Fertigungspotential von Caldari-Außenposten. Erhöht die Materialeffizienz um 1% für alle Fertigungsaufträge (summiert sich mit allen anderen Verbesserungen des selben Typs) und verringert die Fertigungszeit bei allen Tech II-Komponenten um 60%.",
+    "en": "An advanced upgrade to Caldari Outpost manufacturing capabilities. Gives 1% Material Efficiency reduction to all manufacturing jobs (stacks with all other improvements of the same type) and increases the manufacturing time reduction on all Tech II components to 60%.",
+    "es": "Mejora avanzada de las capacidades de fabricación en puestos avanzados caldaris. Genera una reducción del 1 % de la eficiencia de materiales en todos los trabajos de fabricación (acumulable con todas las demás mejoras del mismo tipo) y aumenta hasta el 60 % la reducción del tiempo de fabricación de todos los componentes T2.",
+    "fr": "Amélioration avancée permettant d'augmenter les capacités de production d'un avant-poste caldari. Réduit de 1 % la productivité matérielle de tous les travaux de production (s'accumule avec toutes les autres améliorations de même type) et réduit de 60 % le temps de production de tous les composants Tech II.",
+    "ja": "カルダリアウトポストの製造力をさらに高める高度なアップグレード。すべての製造ジョブの生産効率が1%上昇（すでに上昇している場合は上乗せ）し、すべてのTech 2艦船部品の製造時間を60%短縮する。",
+    "ko": "칼다리 전초기지의 제조능력을 개선하기 위한 상급 업그레이드입니다. 모든 제조 작업에 대한 자원효율성이 1% 감소(동일한 효과와 중첩 가능)하며 모든 테크 II 부품에 대한 제조 시간이 60% 감소합니다.",
+    "ru": "Усовершенствованный модуль расширения производственных мощностей калдарского форпоста. На 1% улучшает материалоэффективность всех производственных проектов (эффект кумулятивен с прочими того же типа); кроме того, экономия времени производства всех компонентов второй техкатегории — 60%.",
+    "zh": "针对加达里哨站生产能力的高级升级方案。所有生产项目的材料效率降低1%（可与同类效果叠加），所有二级科技组件生产时间减少60%。"
+  },
+  "graphicID": 3303,
+  "groupID": 872,
+  "iconID": 3304,
   "name": {
     "de": "Caldari Advanced Outpost Factory",
     "en": "Caldari Advanced Outpost Factory",
@@ -10,5 +23,10 @@
     "ru": "Caldari Advanced Outpost Factory",
     "zh": "加达里高级哨站车间"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 19079.0,
+  "sofFactionName": "caldaribase",
   "volume": 1.0
 }

@@ -1,5 +1,21 @@
 {
-  "typeID": 20446,
+  "capacity": 1.0,
+  "description": {
+    "de": "Dieser gewaltige Laser, eine der größten zurzeit existierenden Waffen, ist für ausgedehnte Belagerungen stationärer Einrichtungen und anderer großer Ziele konzipiert.\n\nHinweis: Kann nur in Schiffe der Capital-Klasse eingebaut werden.\n\n\n\nBenötigt Frequency Crystal-Munitionsarten: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",
+    "en": "One of the largest weapons currently in existence, this massive laser is designed for extended sieges of stationary installations and other large targets.\r\nNote: May only be fitted to capital class ships.\r\n\r\nRequires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",
+    "es": "Este enorme láser, una de las armas más grandes que existen actualmente, ha sido diseñado para asedios prolongados a instalaciones estacionarias y otros objetivos de gran tamaño.\n\nAviso: Solo se puede equipar en naves capitales.\n\n\n\nRequiere tipos de munición de cristales de frecuencia: gamma, infrarrojos, microondas, multifrecuencia, radio, estándar, ultravioleta, rayos X.",
+    "fr": "Ce laser est l'une des armes les plus lourdes conçues à ce jour. Il permet d'assiéger des installations stationnaires ou d'autres cibles de grande taille. Remarque : ne convient qu'aux vaisseaux de classe capitale.\n\nRequiert les cristaux de fréquence suivants en guise de munitions : gamma, infrarouge, micro-onde, multifréquence, radio, standard, ultraviolet, rayon X.",
+    "ja": "現行兵器としては最大級のレーザーで、固定施設などの大型目標へ長時間にわたり砲撃を加えることを想定した設計になっている。\n注：主力艦級艦船にのみ搭載可能。装填できるフリーケンシークリスタル弾のタイプ：ガンマ線、赤外線、マイクロ波、多周波、放射線、標準、紫外線、エックス線。",
+    "ko": "현존하는 가장 거대한 레이저 무기 중 하나로 장기간 공성전 및 대형 목표물 타격에 적합합니다. <br><br>참고: 캐피탈급 함선에만 장착이 가능합니다. <br><br>사용 가능한 프리퀀시 크리스탈: 감마선, 적외선, 마이크로파, 멀티프리퀀시, 라디오파, 스탠다드, 자외선, 엑스선.",
+    "ru": "Этот гигантский лазер является одним из самых больших орудий в мире; он предназначен для осады космических станций и обстрела других крупных целей.\n\nПримечание: может устанавливаться только на корабли большого тоннажа.\n\n\n\nДля настройки лазера используются частотные кристаллы следующих типов: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",
+    "zh": "现今最大型的武器之一，这种大型激光炮专为针对固定装置和其它大型目标的长期围攻而特别设计。注：只能装配在旗舰级舰船上。使用的频率晶体弹药类型：伽玛、红外线、微波、多频、射频、标准、紫外线和X射线。"
+  },
+  "graphicID": 11204,
+  "groupID": 53,
+  "iconID": 2837,
+  "marketGroupID": 773,
+  "mass": 40000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Dual Giga Beam Laser I",
     "en": "Dual Giga Beam Laser I",
@@ -10,5 +26,8 @@
     "ru": "Dual Giga Beam Laser I",
     "zh": "双联千兆级集束激光器 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "amarrbase",
   "volume": 4000.0
 }

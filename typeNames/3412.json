@@ -1,5 +1,18 @@
 {
-  "typeID": 3412,
+  "basePrice": 500000.0,
+  "description": {
+    "de": "Skill zum Einsatz von Langstreckenscannern.\n\n5% Bonus auf die Scan-Stärke je Skillstufe\n\n5% Reduktion der max. Scanabweichung je Skillstufe\n\n5% Reduktion der Scandauer von Scansonden je Skillstufe.",
+    "en": "Skill at operating long range scanners.\r\n\r\n+5% scan strength per level.\r\n\r\n-5% max scan deviation per level.\r\n\r\n-5% scan probe scan time per level.",
+    "es": "Habilidad en el manejo de escáneres de largo alcance.\n\n+5 % de intensidad del escaneo por nivel.\n\n-5 % de desviación máxima de escaneo por nivel.\n\n-5 % de tiempo de escaneo de sonda por nivel.",
+    "fr": "Compétence liée à l'utilisation des scanners longue portée.\n\nAugmente de 5 % par niveau la puissance du scanner.\n\nRéduit de 5 % par niveau la déviation du scanner.\n\nRéduit de 5 % par niveau le temps de scan de la sonde de balayage.",
+    "ja": "長距離スキャナーを操作するためのスキル。スキャン強度がレベル上昇ごとに5%増加。最大スキャン誤差がレベル上昇ごとに5%縮小。スキャンプローブのスキャン時間がレベル上昇ごとに5%短縮。",
+    "ko": "장거리 스캐너를 위한 스킬입니다.<br><br>매 레벨마다 스캔 강도 5% 증가<br>매 레벨마다 최대 스캔 오차 5% 감소<br>매 레벨마다 프로브 스캔 시간 5% 감소",
+    "ru": "Навык эксплуатации разведсистем.\n\n\n\nЗа каждую степень освоения навыка: на 5% повышается чувствительность бортовой аппаратуры разведзондов;\n\n\n\nна 5% уменьшается предел возможного отклонения от точных координат при поиске объектов в космосе;\n\n\n\nна 5% ускоряются вычисления разведзондов при поиске объектов.",
+    "zh": "操作远程扫描仪的技能。每升一级，扫描强度提高5%。每升一级，扫描误差降低5%。每升一级，扫描探针扫描时间缩短5%。"
+  },
+  "groupID": 1217,
+  "iconID": 33,
+  "marketGroupID": 1110,
   "name": {
     "de": "Astrometrics",
     "en": "Astrometrics",
@@ -10,5 +23,7 @@
     "ru": "Астрометрический поиск",
     "zh": "太空测量学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

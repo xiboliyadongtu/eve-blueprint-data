@@ -1,5 +1,17 @@
 {
-  "typeID": 3365,
+  "basePrice": 200000.0,
+  "description": {
+    "de": "Fertigkeit zur Errichtung einer Starbase.",
+    "en": "Skill at setting up Starbases",
+    "es": "Habilidad en el establecimiento de bases estelares.",
+    "fr": "Compétence liée à la mise en place des bases stellaires.",
+    "ja": "スターベースを建設するスキル。",
+    "ko": "스타베이스 건설을 위한 스킬입니다.",
+    "ru": "Навык развёртки ПОСов.",
+    "zh": "建立母星建筑的技能。"
+  },
+  "groupID": 266,
+  "iconID": 33,
   "name": {
     "de": "Starbase Management",
     "en": "Starbase Management",
@@ -10,5 +22,7 @@
     "ru": "Управление ПОСами",
     "zh": "母星管理"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

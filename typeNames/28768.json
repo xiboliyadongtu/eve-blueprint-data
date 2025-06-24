@@ -1,5 +1,19 @@
 {
-  "typeID": 28768,
+  "basePrice": 23442.0,
+  "description": {
+    "de": "Diese Sonden messen die Ablenkung der Strahlung von Quasaren durch große stationäre Objekte im Weltraum und nutzen die entstehende Interferenz, um die Entfernung zu schätzen, in der sich das Objekt befindet. Die Quest-Sonde ist das A und O, was die verfügbaren Sonden für weite Distanzen betrifft.",
+    "en": "Lith probes pick up the diffraction of quasar emissions around large stationary objects in space, and utilize the resultant interference to estimate the distance at which the objects lie. The Quest probe is the longest-distance lith probe available.",
+    "es": "Las sondas de lito detectan la difracción de las emisiones de cuásar alrededor de grandes objetos estacionarios en el espacio y utilizan la interferencia resultante para estimar la distancia a la que se encuentran dichos objetos. La sonda de misión es la sonda de lito con mayor alcance disponible.",
+    "fr": "Les sondes Lith calculent la diffraction des émissions de quasar autour de grands objets stationnaires dans l'espace et utilisent les interférences résultantes pour évaluer la distance à laquelle se trouvent ces objets. La sonde de recherche est la sonde Lith présentant la plus longue portée.",
+    "ja": "リースプローブは、宇宙空間に静止している巨大な物体の周辺からクエーサー放射の回折を見つけ出し、物質への距離を推定する。クエストプローブは、リースタイププローブの中で最長距離をスキャンする。",
+    "ko": "리스 프로브는 퀘이사의 빛 회절을 수신함으로써 특정 물체의 좌표 및 거리를 측정합니다. 퀘스트 프로브는 리스 프로브 가운데 측정 거리가 가장 깁니다.",
+    "ru": "Эти зонды улавливают преломление излучений квазара вокруг больших стационарных объектов в пространстве и используют интерференцию для определения расстояния, на котором находится объект. Зонды типа Quest обладают наибольшей дальностью.",
+    "zh": "分段探针接收大型空间固定物体周围发射的星体粒子衍射，并利用其产生的干扰来估计这些物体的距离。探索探针是现有探测范围最广的分段探针。"
+  },
+  "groupID": 972,
+  "iconID": 2222,
+  "mass": 1.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Sisters Radar Quest Probe",
     "en": "Sisters Radar Quest Probe",
@@ -10,5 +24,8 @@
     "ru": "Sisters Radar Quest Probe",
     "zh": "姐妹会雷达搜寻探针"
   },
+  "portionSize": 1,
+  "published": false,
+  "variationParentTypeID": 25797,
   "volume": 1.25
 }

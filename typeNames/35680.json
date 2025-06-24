@@ -1,5 +1,18 @@
 {
-  "typeID": 35680,
+  "basePrice": 1000000.0,
+  "description": {
+    "de": "Skill zur Bedienung von taktischen Caldari-Zerstörern.",
+    "en": "Skill at operating Caldari Tactical Destroyers.",
+    "es": "Habilidad en el manejo de destructores tácticos caldaris.",
+    "fr": "Compétence de pilotage des destroyers tactiques caldari.",
+    "ja": "カルダリ戦術駆逐艦を操作するためのスキル。",
+    "ko": "칼다리 전술 디스트로이어를 운용하기 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на многорежимных эсминцах производства Государства Калдари.",
+    "zh": "操作加达里战术驱逐舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Caldari Tactical Destroyer",
     "en": "Caldari Tactical Destroyer",
@@ -10,5 +23,8 @@
     "ru": "Калдарские многорежимные эсминцы",
     "zh": "加达里战术驱逐舰操作"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
   "volume": 0.01
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 86516,
+  "capacity": 400.0,
+  "description": {
+    "de": "Eine Tormentor-Fregatte, die von Söldnerschlägern geflogen wird. Die Crew scheint sich darauf zu konzentrieren, die Energie im Energiespeicher feindlicher Schiffe abzuzapfen.",
+    "en": "A Tormentor frigate flown by Mercenary Thugs. Its crew seems to be focused on stealing enemy ships' capacitor energy.",
+    "es": "Una fragata Tormentor pilotada por matones mercenarios. Parece que su tripulación está centrada en robar la energía del condensador de las naves enemigas.",
+    "fr": "Une frégate Tormentor pilotée par des malfrats mercenaires. Son équipage semble se concentrer sur le drainage d'énergie des capaciteurs des vaisseaux ennemis.",
+    "ja": "ごろつき傭兵が操縦しているトーメンター級フリゲート。敵艦のキャパシタエネルギーを奪うことに特化しているようだ。",
+    "ko": "용병 폭력배가 조종하는 토멘터 프리깃입니다. 적 함선의 캐패시터 에너지를 흡수하는 것이 주요 목적입니다.",
+    "ru": "Этот фрегат Tormentor захвачен бандитами-наёмниками. Похоже, основная задача его экипажа — перекачивание энергии накопителей вражеских судов.",
+    "zh": "一艘由雇佣兵暴徒驾驶的巨神兵级护卫舰。船员们会尽可能窃取敌舰的电容器能量。"
+  },
+  "graphicID": 56,
+  "groupID": 1568,
+  "mass": 1003000.0,
   "name": {
     "de": "Mugging Tormentor",
     "en": "Mugging Tormentor",
@@ -10,5 +23,11 @@
     "ru": "Mugging Tormentor",
     "zh": "巨神兵级劫掠者"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 32,
+  "radius": 20.5,
+  "sofFactionName": "amarrbase",
+  "soundID": 31,
   "volume": 28600.0
 }

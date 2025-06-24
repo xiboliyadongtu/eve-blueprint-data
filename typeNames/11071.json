@@ -1,5 +1,17 @@
 {
-  "typeID": 11071,
+  "description": {
+    "de": "Diese Batteriezelle enthält eine starke elektrische Ladung. Sie dient in Notfällen zur Überbrückung von Energie-Engpässen.",
+    "en": "This battery cartridge carries a heavy charge of electric power, intended as a spare pool of energy in distress.",
+    "es": "Este cartucho de batería lleva una fuerte carga de energía eléctrica, pensada como reserva de energía en caso de emergencia.",
+    "fr": "Cette cartouche de batteries stocke une très importante charge électrique, pouvant servir de réserve d'énergie en cas de besoin.",
+    "ja": "大量の電力を貯え、非常の際に予備の電池として使用できるバッテリーカートリッジ。",
+    "ko": "상당량의 전력이 충전된 비상용 배터리입니다.",
+    "ru": "Картридж батареи содержит большой заряд электрической энергии для использования в чрезвычайных ситуациях.",
+    "zh": "这种电池盒载有大量电力能源，其用途是作为紧急情况下的备用能源。"
+  },
+  "groupID": 314,
+  "iconID": 2042,
+  "mass": 1.0,
   "name": {
     "de": "Battery Cartridge",
     "en": "Battery Cartridge",
@@ -10,5 +22,7 @@
     "ru": "Battery Cartridge",
     "zh": "电池盒"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

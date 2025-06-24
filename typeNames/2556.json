@@ -1,5 +1,18 @@
 {
-  "typeID": 2556,
+  "basePrice": 900000.0,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Nach jahrelangen Kundenbeschwerden über katastrophale Defekte, die aufgrund von durchstochenen Treibstoffbehältern und verrosteten Starttürmen aufgetreten waren, wurde eine neue Serie von Abschussanlagen für gefährliche Umgebungen eingeführt. Zusätzlich zur verbesserten allgemeinen strukturellen Intaktheit der gesamten Anlage wurde jede Sektion stark abgeschottet. Sollte einer der einzelnen Bereiche ausfallen oder kollabieren, kann die fehlerhafte Sektion unverzüglich abgeriegelt werden. Zusätzliche Systeme ermöglichen es der gesamten Anlage, eine ganze Weile lang weiter zu funktionieren. Die Raketen, die von dieser Art Abschussrampe (launch pad) verwendet werden, sind stark verändert und opfern einen Teil ihrer Frachtkapazität zugunsten zusätzlichen Schutzes.",
+    "en": "After years of customer complaints about catastrophic failures resulting from punctured fuel pods and corroded launch towers, a new line of hazardous environment launch facility was introduced. In addition to improving the overall structural integrity of the entire facility, each section is heavily compartmentalized. Should any one section fail or collapse, the faulty section is immediately locked down. Redundant systems allow the entire facility to continue functioning for some time. The rockets used by this type of launch pad are also heavily modified, sacrificing some cargo capacity for additional protection.",
+    "es": "Tras años de quejas de los clientes sobre fallos catastróficos a raíz de roturas en las cápsulas de combustible y en torres de lanzamiento corroídas, se introdujo una nueva línea de instalaciones de lanzamiento en entorno peligroso. Además de mejorar la integridad estructural general de toda la instalación, cada sección está altamente compartimentada. Si alguna de estas secciones falla o colapsa, se bloquea inmediatamente. Los sistemas redundantes permiten que todo el complejo siga funcionando durante un tiempo. Los cohetes usados por este tipo de plataforma de lanzamiento también están muy modificados y sacrifican parte de su capacidad de carga por protección adicional.",
+    "fr": "Après des années de plaintes des clients au sujet des échecs catastrophiques résultant des capsules de carburant perforées et des tours de lancement rouillées, une nouvelle gamme d'installations de lancement fut lancée en environnement dangereux. En plus d'améliorer l'intégrité structurelle globale du complexe, chaque section est fortement cloisonnée. Si une de ces sections venait à tomber en panne ou à s'effondrer, elle serait immédiatement verrouillée. Par ailleurs, des systèmes redondants permettraient à l'installation de continuer à fonctionner pendant un certain temps. Les roquettes utilisées par ce type de rampe de lancement sont également largement modifiées, sacrifiant ainsi une partie de la capacité de la soute au profit d'une meilleure protection.",
+    "ja": "燃料ポッドの破裂や発射タワーの腐食による壊滅的な被害に関する長年の苦情に対応して、危険な環境向けの発射施設に新しいシリーズが導入された。施設全体の構造的な整合性が改善されただけでなく、各セクションも厳重に区分化されている。万が一、いずれかのセクションで障害や破損が生じると、そのセクションは直ちにロックされる。冗長システムを備えており、ある程度の時間は施設全体を継続して機能させることができる。この種の発射パッドで使用するロケットも大幅に改造されており、カーゴ容量の一部を犠牲にする代わりに防御を強化している。",
+    "ko": "연료 패드 손상 및 발사탑 부식으로 인한 고장이 연달아 발생하는 등 수 년간의 고객 불만이 터져 나오면서 극한 환경에서의 운용이 가능한 새로운 종류의 발사대가 설계되었습니다. 그 결과 전반적인 구조 건전성이 개선되었으며 시설에 대한 구역별 분류가 이루어졌습니다. 이러한 설계를 통해 구역이 파괴되거나 고장이 발생하는 경우 구역에 가동이 즉각 정지됩니다. 이후 비상 시스템이 활성화되고 시설 가동이 재개됩니다. 해당 발사 패드에 탑재되는 로켓은 개조가 이루어져 화물 적재량이 감소하는 대신 추가 방어력을 획득합니다.",
+    "ru": "После многолетних жалоб на катастрофические результаты, вызываемые проколотыми канистрами с топливом и корродировавшими пусковыми вышками, наконец-то были разработаны новые системы запуска для экстремальных внешних условий. Помимо общего повышения структурной прочности всего комплекса, каждая секция отделена от другой непроницаемыми переборками. Если какая-либо секция получит повреждения или перестанет нормально функционировать, она немедленно будет изолирована от других и отключена. При этом дублирующие системы обеспечивают продолжение работы всего комплекса. Ракеты, применямые на таких стартовых площадках, также претерпели изменения: теперь они несут меньше груза, зато обладают дополнительным запасом прочности.",
+    "zh": "在用户对燃料舱破损和发射塔锈蚀而导致的发射失败抱怨多年之后，一种新型的极端环境发射设施终于面世了。除了增强了整座设施结构的完整性之外，其每个分部都被分化成多个舱段。如果任何一个舱段出了问题的话，这个舱段就会被立即隔离锁闭。维持系统会让整个设施继续运转一段时间。这种发射平台所采用的运载火箭也经过了大幅度的改造，牺牲了一定的运载能力以换取更多的防护力。"
+  },
+  "graphicID": 4564,
+  "groupID": 1030,
   "name": {
     "de": "Plasma Launchpad",
     "en": "Plasma Launchpad",
@@ -10,5 +23,6 @@
     "ru": "Plasma Launchpad",
     "zh": "等离子行星发射平台"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": true
 }

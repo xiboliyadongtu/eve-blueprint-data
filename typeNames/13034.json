@@ -1,5 +1,18 @@
 {
-  "typeID": 13034,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieser Generator versorgt Strukturen in der Nähe mit Energie. Er ist mit einem kleinen Schildmodul ausgerüstet und scheint durch einer dünnen Schicht Panzerplatten geschützt zu sein.",
+    "en": "This generator provides power to nearby structures. It is fitted with a small shield module and appears to be coated with a thin layer of armored plates.",
+    "es": "Este generador proporciona energía a las estructuras cercanas. Dispone de un pequeño módulo de escudo y parece estar cubierto por una fina capa de placas de blindaje.",
+    "fr": "Ce générateur fournit de l'énergie aux structures alentours. Il est équipé d'un petit module de bouclier et semble posséder une fine couche de revêtement de blindage.",
+    "ja": "近隣施設に動力を供給するジェネレータ。小型シールドモジュールが装備してあり、また薄手のアーマープレートで補強してあるように見える。",
+    "ko": "근처 시설들의 필요한 전력을 생산하는 발전기입니다. 소형 실드 모듈이 장착돼있고 겉면 전체가 장갑 플레이트로 덮여 있습니다.",
+    "ru": "Этот генератор обеспечивает энергией близлежащие сооружения. Он оснащен слабым силовым щитом и, судя по всему, покрыт тонким слоем брони.",
+    "zh": "这个发电器向附近的设施提供能源。它配备有小型护盾装备，似乎还装备了轻薄型装甲附甲。"
+  },
+  "graphicID": 1684,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Power Generator",
     "en": "Power Generator",
@@ -10,5 +23,10 @@
     "ru": "Power Generator",
     "zh": "发电器"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 79.0,
+  "sofFactionName": "genericbase",
+  "soundID": 20178,
   "volume": 100000000.0
 }

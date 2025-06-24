@@ -1,5 +1,18 @@
 {
-  "typeID": 1900,
+  "capacity": 300.0,
+  "description": {
+    "de": "Ein Militärschiff des CONCORD.",
+    "en": "A Concord millitary vessel.",
+    "es": "Nave militar de CONCORD.",
+    "fr": "Un vaisseau militaire Concord.",
+    "ja": "CONCORDの軍用艦。",
+    "ko": "CONCORD 함선입니다.",
+    "ru": "NULL",
+    "zh": "一艘统合部军舰。"
+  },
+  "graphicID": 1055,
+  "groupID": 25,
+  "mass": 1200000.0,
   "name": {
     "de": "Concord Army Frigate",
     "en": "Concord Army Frigate",
@@ -10,5 +23,10 @@
     "ru": "Concord Army Frigate",
     "zh": "统合部军用护卫舰"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 38.0,
+  "sofFactionName": "army",
+  "soundID": 20083,
   "volume": 20400.0
 }

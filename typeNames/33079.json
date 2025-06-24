@@ -1,5 +1,74 @@
 {
-  "typeID": 33079,
+  "capacity": 115.0,
+  "description": {
+    "de": "Die Hematos ist eines der kleinsten existierenden Schiffe der Blood Raider. Den Unglückseligen, die ihr begegnen, erscheint sie deswegen jedoch nicht weniger furchteinflößend. Wie eine Spinne lockt sie jedes Opfer, das sich ihr arglos nähert, in ihr tödliches Netz und saugt ihm jegliches Leben aus. The Hematos wird häufig von neuen Piloten mit einer unerfahrenen Besatzung verwendet, die die Kunst des Blutvergießens noch nicht vollständig beherrschen. Dies erklärt, warum die Reinigungssysteme an Bord oft heillos überlastet sind.",
+    "en": "The Hematos is one of the smallest Blood Raider vessels in existence, though that doesn't make its appearance any less terrifying to the hapless innocents it may encounter. Like a spider, it is built to trap and drain any victim careless enough to wander into its clutches.\r\n\r\nThe Hematos is often employed by novice ship captains and staffed with crew that may not quite have mastered the art of bloodletting, which goes some way to explain its saturation of onboard cleaning systems.",
+    "es": "La Hematos es una de las naves más pequeñas de los Saqueadores Sanguinarios, aunque su aspecto no es por ello menos aterrador a los ojos de los desafortunados inocentes que se la encuentran. Como una araña, está diseñada para atrapar y drenar a cualquier víctima lo bastante descuidada como para caer en sus garras.\n\n\n\nLa Hematos es una nave popular entre capitanes noveles y suele estar tripulada por personal que todavía no domina del todo el arte de las sangrías, lo que explica en parte la cantidad de sistemas de limpieza que lleva a bordo.",
+    "fr": "L'Hematos est l'un des plus petits vaisseaux blood raiders, mais cela ne le rend pas moins terrifiant pour les malheureux innocents qui croisent sa route. Tel une araignée, il est conçu pour prendre au piège et drainer de leur énergie les victimes assez imprudentes pour s'aventurer entre ses griffes.\n\nL'Hematos est souvent utilisé par des capitaines débutants et des équipages n'ayant pas encore complétement maîtrisé l'art de faire couler le sang, ce qui explique en partie pourquoi il est truffé de systèmes de nettoyage embarqués.",
+    "ja": "ヘマトスは現存するブラッドレイダー艦としては最小級だが、その姿が出遭った獲物に与える恐怖は決して小さくない。うかつにも射程内に踏みこんだ獲物を、蜘蛛さながらに絡めとり、吸い尽くすようにできている。\n\t\t\nヘマトスは入門機として人気があり、乗組員も流血の流儀に不慣れな場合が多い。艦内清掃システムを満載しているのは、そのせいでもあるのだろう。",
+    "ko": "헤마토스는 블러드 레이더 함선 역사상 가장 작은 함선에 속하지만 공포의 대상으로 비치는 모습은 조금도 작아지지 않았습니다. 마치 거미처럼, 설계한 함정에 빠진 적을 가두어 둔 채 사냥감의 액체를 빨아들입니다. <br><br>대부분 견습 함장과 유혈 의식이 미숙한 선원들이 조종하며 그걸 증명하듯 선체 내에는 대량의 세정 시스템이 탑재되어있습니다.",
+    "ru": "«Гематос» — едва ли не самый маленький из всех кораблей «Союза охотников за кровью», но это не облегчает ужас, вселяемый им в души злосчастных, встретивших «Гематос» на путях космоса. Как паук, он опутывает своих беспомощных жертв и высасывает из них жизнь. Зачастую опыт капитана и команды «Гематоса» — и навык последней в искусстве извлечения крови — оставляет желать много лучшего; возможно, именно поэтому конструкция «Гематоса» предусматривает мощные очистные системы.",
+    "zh": "未来人类级是血袭者现役体型最小的舰船之一，不过这并不妨碍它的猎物在看到它可怖的外形时感到无助与绝望。它就像蜘蛛一样，先捕获那些不小心落到它陷阱中的倒霉蛋，然后把它们一点点吸干。\n\n驾驶未来人类级的舰长往往是刚出道的菜鸟，船员们也没有完全掌握放血的艺术，这大概也解释了船上的清洁系统总是趋于饱和的原因。"
+  },
+  "factionID": 500012,
+  "graphicID": 1762,
+  "groupID": 237,
+  "marketGroupID": 2702,
+  "mass": 1148000.0,
+  "masteries": {
+    "0": [
+      96,
+      97,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "1": [
+      96,
+      97,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "2": [
+      96,
+      97,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "3": [
+      96,
+      97,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "4": [
+      96,
+      97,
+      99,
+      50,
+      117,
+      150,
+      89,
+      93,
+      94
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Hematos",
     "en": "Hematos",
@@ -9,6 +78,76 @@
     "ko": "헤마토스",
     "ru": "Hematos",
     "zh": "未来人类级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 32,
+  "radius": 39.0,
+  "sofFactionName": "bloodraider",
+  "soundID": 20063,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonus": 100,
+        "bonusText": {
+          "de": "Bonus auf den Schaden von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:3303>Small Energy Turret</a> damage",
+          "es": "de bonificación al daño de la <a href=showinfo:3303>torreta de energía pequeña</a>.",
+          "fr": "de bonus aux dégâts des <a href=showinfo:3303>petites tourelles à énergie</a>",
+          "ja": "<a href=showinfo:3303>小型エネルギータレット</a>のダメージが増加",
+          "ko": "<a href=showinfo:3303>소형 에너지 터렛</a> 피해량 증가",
+          "ru": "увеличивается урон <a href=showinfo:3303>малых лазерных орудий</a>",
+          "zh": "<a href=\"showinfo:3303\">小型能量炮台</a>伤害加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 30,
+        "bonusText": {
+          "de": "Reduktion der Aktivierungskosten von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a>",
+          "en": "reduction in <a href=showinfo:3303>Small Energy Turret</a> activation cost",
+          "es": "de reducción del coste de activación de la <a href=showinfo:3303>torreta de energía pequeña</a>.",
+          "fr": "de réduction du coût d'activation des <a href=showinfo:3303>petites tourelles à énergie</a>",
+          "ja": "<a href=showinfo:3303>小型エネルギータレット</a>の起動コストが軽減",
+          "ko": "<a href=showinfo:3303>소형 에너지 터렛</a> 활성화 비용 감소",
+          "ru": "сокращается расход энергии при ведении огня из <a href=showinfo:3303>малых лазерных орудий</a>",
+          "zh": "<a href=\"showinfo:3303\">小型能量炮台</a>启动消耗减少"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 45,
+        "bonusText": {
+          "de": "Bonus auf die Transfermenge von <a href=showinfo:3423>Nosferatu-</a> und <a href=showinfo:3423>Energieneutralisierer</a>-Modulen",
+          "en": "bonus to <a href=showinfo:3423>Energy Nosferatu</a> and <a href=showinfo:3423>Energy Neutralizer</a> drain amount",
+          "es": "de bonificación a la cantidad drenada por el <a href=showinfo:3423>nosferatu de energía</a> y el <a href=showinfo:3423>neutralizador energético</a>.",
+          "fr": "de bonus à la quantité d'énergie récupérée par le <a href=showinfo:3423>Nosferatu à énergie</a> et le <a href=showinfo:3423>neutraliseur d'énergie</a>",
+          "ja": "<a href=showinfo:3423>エネルギーノスフェラトゥ</a>および<a href=showinfo:3423>エネルギーニュートライザー</a>の消費量が改善",
+          "ko": "<a href=showinfo:3423>에너지 노스페라투</a> 및 <a href=showinfo:3423>에너지 뉴트럴라이저</a> 흡수량 증가",
+          "ru": "увеличивается пропускная способность <a href=showinfo:3423>устройств паразитной подзарядки накопителя</a> и <a href=showinfo:3423>дистанционных нейтрализаторов заряда</a>",
+          "zh": "<a href=showinfo:3423>掠能器</a>和<a href=showinfo:3423>能量中和器</a>吸取量加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonus": 30,
+        "bonusText": {
+          "de": "Bonus auf den maximalen Geschwindigkeitsfaktor von <a href=showinfo:526>Stasisnetzen</a>",
+          "en": "bonus to <a href=showinfo:526>Stasis Webifier</a> max velocity factor",
+          "es": "de bonificación al factor de velocidad máxima de la <a href=showinfo:526>red ralentizadora</a>.",
+          "fr": "de bonus au facteur de vitesse maximale des <a href=showinfo:526>générateurs de stase</a>",
+          "ja": "<a href=showinfo:526>ステイシスウェビファイア</a>の最高速度が上昇",
+          "ko": "<a href=showinfo:526>스테이시스 웹 생성기</a> 최대 속도 계수 증가",
+          "ru": "повышается эффективность действия <a href=showinfo:526>стазис-индукторов</a>",
+          "zh": "<a href=\"showinfo:526\">停滞缠绕光束</a>最大速度影响系数加成"
+        },
+        "importance": 4,
+        "unitID": 105
+      }
+    ]
   },
   "volume": 28100.0
 }

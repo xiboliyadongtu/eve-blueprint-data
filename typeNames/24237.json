@@ -1,5 +1,18 @@
 {
-  "typeID": 24237,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Im Inneren dieser Struktur sind Zuchtanlagen für Menschen, Körperteile und menschliches Blut zur Verwendung bei den finsteren Riten der Blood Raider.",
+    "en": "Inside these structures are breeding grounds for humans, body parts and human blood used in sinister Blood Raider rituals.",
+    "es": "En estas estructuras hay criaderos de humanos, partes del cuerpo y sangre humana que se usan en los siniestros rituales de los Saqueadores Sanguinarios.",
+    "fr": "À l'intérieur de ces structures sont produits des humains ou des parties de corps humains et du sang destinés aux sinistres rituels des Blood Raiders.",
+    "ja": "建造物の内部は人間や人体部位、人血の養殖場になっていて、それらはブラッドレイダーの邪悪な儀式に用いられる。",
+    "ko": "구조물 내부에 인간을 사육하는 공간이 있어 사악한 블러드 레이더의 의식에 사용할 신체와 혈액을 공급합니다.",
+    "ru": "Внутри этих зданий находятся хранилища для людей, частей их тела и крови для зловещих ритуалов Blood Raider.",
+    "zh": "这些建筑内是血袭者的培育场，专门培育供恐怖的血袭者仪式使用的活人、身体器官和人血。"
+  },
+  "graphicID": 2707,
+  "groupID": 306,
+  "mass": 100000.0,
   "name": {
     "de": "Blood Factory",
     "en": "Blood Factory",
@@ -10,5 +23,9 @@
     "ru": "Blood Factory",
     "zh": "血袭者工厂"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 711.0,
+  "sofFactionName": "bloodraider",
   "volume": 100000000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 17627,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieser Industrial der Mammoth-Klasse wird zur Zeit gewartet.",
+    "en": "This Mammoth-class industrial is currently undergoing maintenance.",
+    "es": "Esta nave industrial de clase Mammoth está en mantenimiento.",
+    "fr": "Ce vaisseau industriel de classe Mammoth est en cours de maintenance.",
+    "ja": "このマンモス級輸送艦は、現在メンテナンス中である。",
+    "ko": "정비 중인 맘모스급 인더스트리얼입니다.",
+    "ru": "Промышленный корабль класса Mammoth, стоящий на ремонте.",
+    "zh": "这艘猛犸级工业舰正在进行维护。"
+  },
+  "graphicID": 309,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Stationary Mammoth",
     "en": "Stationary Mammoth",
@@ -10,5 +23,10 @@
     "ru": "Stationary Mammoth",
     "zh": "停靠着的猛犸级"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 660.0,
+  "sofFactionName": "minmatarbase",
   "volume": 100000000.0
 }

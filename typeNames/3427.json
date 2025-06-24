@@ -1,5 +1,18 @@
 {
-  "typeID": 3427,
+  "basePrice": 125000.0,
+  "description": {
+    "de": "Betrieb von ECM Störsystemen.\r\n\r\n5% Bonus auf den Energiespeicherverbrauch von ECM-Systemen und ECM-Explosionssystemen je Skillstufe.\r\n\r\nHinweis: Wirkt sich nicht auf Module der Klasse Capital aus.",
+    "en": "Operation of ECM jamming systems. 5% less capacitor need for ECM and ECM Burst systems per skill level.\r\n\r\nNote: Does not affect capital class modules.",
+    "es": "Funcionamiento de sistemas de inhibición ECM. 5 % menos de necesidad del condensador para sistemas de ECM y de ráfaga ECM por nivel de habilidad.\n\nAviso: No afecta a los módulos de clase capital.",
+    "fr": "Utilisation des systèmes de brouillage CME. Réduit de 5 % par niveau de compétence les besoins énergétiques du capaciteur pour les systèmes CME et les salves CME.\n\nRemarque : n'a aucun effet sur les modules de classe capitale.",
+    "ja": "ECM ジャミングシステムを操作するためのスキル。スキルレベル上昇ごとに ECM システムと ECM バーストシステムのキャパシタ消費が 5% 減少する。\n\n注 : 母艦級のモジュールには適用されない。",
+    "ko": "ECM 재밍 시스템 스킬입니다. 매 레벨마다 ECM과 ECM 버스트 시스템의 캐패시터 사용량 5% 감소 <br><br>참고: 캐피탈급 모듈에는 적용되지 않습니다.",
+    "ru": "Навык эксплуатации глушителей захвата целей. За каждую степень освоения навыка: на 5% сокращается расход энергии накопителя при работе глушителей захвата целей и импульсных глушителей захвата целей.\n\n\n\nПримечание: не влияет на сверхбольшие модули.",
+    "zh": "操作电子干扰系统的技能。每升一级，ECM和ECM脉冲波装备的电容消耗减少5%。\r\n\r\n注意：此技能不对旗舰级装备产生作用。"
+  },
+  "groupID": 272,
+  "iconID": 33,
+  "marketGroupID": 367,
   "name": {
     "de": "Electronic Warfare",
     "en": "Electronic Warfare",
@@ -10,5 +23,7 @@
     "ru": "Системы РЭБ",
     "zh": "电子战理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

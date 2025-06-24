@@ -1,5 +1,18 @@
 {
-  "typeID": 32799,
+  "description": {
+    "de": "Diese hochspezialisierte Raum-zu-Boden-Munition kann in die Atomsphäre von Planeten eindringen. Sie ist nur für Ziele auf der Oberfläche nützlich und benötigt spezielle Zieldaten, die von Bodentruppen bereitgestellt werden.\n\nDer Laserschlag richtet auf einen kleinen Radius mit hoher Geschwindigkeit hohen Schaden aus. Der taktische Laser ist vernichtend aber da er so präzise ist, deckt er keine großen Bereiche ab.",
+    "en": "This highly specialized space to ground ammunition can penetrate the atmosphere of planets. It is only useful against ground targets and relies on special targeting data provided by ground troops.\r\n\r\nThe laser strike deals high damage in a tight radius at high speed. The tactical laser is devastating but its precise nature means it does not cover wide areas.",
+    "es": "Esta munición de espacio a tierra altamente especializada puede atravesar la atmósfera de los planetas. Solo sirve contra objetivos terrestres y depende de los datos especiales de adquisición de objetivos proporcionados por tropas terrestres.\n\n\n\nEl impacto del láser inflige mucho daño en un radio reducido a gran velocidad. El láser táctico es devastador, pero su naturaleza precisa implica que no cubre zonas amplias.",
+    "fr": "Ces munitions espace-sol spécialisées peuvent pénétrer l'atmosphère des planètes. Elles ne sont efficaces que contre les cibles au sol, et s'appuient sur les données de ciblage spéciales fournies par les troupes au sol.\n\nLa frappe laser inflige des dégâts élevés à grande vitesse dans un rayon restreint. Le laser tactique inflige des dégâts dévastateurs, mais sa spécificité l'empêche de couvrir de larges zones.",
+    "ja": "この高度に特化した、宇宙から大地へ発せられる弾薬は、惑星の大気圏を貫通できる。地上のターゲットのみに有効で、地上部隊により提供された特別なターゲットデータを拠り所にする。\n\nレーザー攻撃は、狭い半径の中、ハイスピードで高いダメージを与える。タクティカルレーザーはすさまじい破壊を引き起こすが、厳密な意味で、広範囲をカバーすることはない。",
+    "ko": "대기권을 관통할 수 있는 행성 타격 전용 탄입니다. 공대지 타격 전용으로 발사 시 표적 정보는 지상으로부터 수신합니다. <br><br>좁은 범위에 막대한 피해를 주는 고속 레이저입니다. 전술 레이저는 강력한 무기이지만 정확성을 극도로 높인 까닭에 타격 범위는 상대적으로 좁습니다.",
+    "ru": "Данный оперативно-тактический боеприпас предназначен исключительно для ведения огня по наземным целям с борта космических кораблей, находящихся на орбите планеты. Конструкция боеприпаса позволяет эффективно поражать цели на дне атмосферы, однако его применение требует наличия связи с десантными отрядами, передающими на борт корабля данные целеуказания.\n\nОперативно-тактическое лазерное оружие обладает огромной разрушительной силой и чрезвычайно малой продолжительностью цикла поражения; при этом не следует забывать о том, что оно годится лишь для нанесения точечных ударов.",
+    "zh": "这种非常特殊的空对地弹药可以穿透行星大气层。它只能打击地面目标，并且需要地面部队提供瞄准数据才能使用。激光轰炸速度快，伤害高，但打击范围较小。战术激光的破坏力惊人，但由于激光本身的特性，它的打击范围有限。"
+  },
+  "graphicID": 1144,
+  "groupID": 86,
+  "iconID": 10940,
+  "mass": 1.0,
   "name": {
     "de": "Orbital Laser S",
     "en": "Orbital Laser S",
@@ -10,5 +23,7 @@
     "ru": "Orbital Laser S",
     "zh": "战术激光器S"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 1.0
 }

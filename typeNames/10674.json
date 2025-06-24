@@ -1,5 +1,18 @@
 {
-  "typeID": 10674,
+  "capacity": 450.0,
+  "description": {
+    "de": "Dies ist ein Sicherheitsschiff der Royal Khanid Navy. Es patrouilliert in diesem Sektor und wird auf jeden Kampf reagieren, den es entdeckt. Falls es notwendig wird, kann es Verstärkung von nahegelegenen Sektoren herbeirufen.\r\n\r\nBedrohungsstufe: Tödlich",
+    "en": "This is a security vessel of the Royal Khanid Navy. It is patrolling this sector and will respond to any combat it detects. It can call in reinforcements from nearby sectors if the need arises. Threat level: Deadly",
+    "es": "Esta es una nave de seguridad de la Armada Real Khanid que patrulla por este sector y responderá a cualquier combate que detecte. Puede pedir refuerzos de los sectores cercanos si es necesario. Nivel de amenaza: letal.",
+    "fr": "Ceci est un vaisseau de sécurité de la Royal Khanid Navy. Il est en patrouille dans ce secteur et interviendra dans tout combat qu'il pourra détecter. Au besoin, il peut appeler des renforts des secteurs voisins. Niveau de menace : mortel",
+    "ja": "クーニッド王立海軍のセキュリティ艦。管轄区域をパトロールし、戦闘行為を探知すると現場へ急行する。緊急時には近隣区域からの援軍を要請することも可能。危険度:致命的",
+    "ko": "왕립 카니드 해군의 경비함입니다. 지역을 순찰 중이며 교전 발견 시 즉각 개입합니다. 유사시 근처 지역에서 증원군을 요청합니다. 위험도: 치명적",
+    "ru": "Это корабль сил безопасности Королевского флота Khanid. Он патрулирует этот сектор и открывает ответный огонь по недружественным объектам. В случае необходимости может вызвать подкрепление из ближайших секторов. Уровень опасности: смертельный",
+    "zh": "这是一艘皇家卡尼迪海军的安全船只。它在这个地区中巡逻，会对侦测到的任何战斗做出响应。如果形势需要，它会呼叫邻近区域的增援部队。威胁等级：致命的"
+  },
+  "graphicID": 1857,
+  "groupID": 182,
+  "mass": 11800000.0,
   "name": {
     "de": "Khanid Surveillance Sergeant Major",
     "en": "Khanid Surveillance Sergeant Major",
@@ -10,5 +23,11 @@
     "ru": "Khanid Surveillance Sergeant Major",
     "zh": "卡尼迪监察 军校"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 134.43,
+  "sofFactionName": "khanid",
+  "soundID": 30,
   "volume": 118000.0
 }

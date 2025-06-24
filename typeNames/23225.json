@@ -1,5 +1,16 @@
 {
-  "typeID": 23225,
+  "description": {
+    "de": "Eine Batterie. Interessant.",
+    "en": "A battery. Juicy.",
+    "es": "Una batería. Jugosa.",
+    "fr": "Batterie. Elle n'est peut-être pas complètement épuisée.",
+    "ja": "バッテリー。そこそこの価値がある。",
+    "ko": "포탑입니다. 흥미로워 보입니다.",
+    "ru": "Батарея. Сочная.",
+    "zh": "一个炮台，有趣。"
+  },
+  "graphicID": 2500,
+  "groupID": 226,
   "name": {
     "de": "Fortified Serpentis Battery",
     "en": "Fortified Serpentis Battery",
@@ -10,5 +21,9 @@
     "ru": "Fortified Serpentis Battery",
     "zh": "强化的天蛇集团炮塔"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 244.0,
+  "sofFactionName": "serpentis"
 }

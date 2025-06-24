@@ -1,5 +1,18 @@
 {
-  "typeID": 19367,
+  "capacity": 14000.0,
+  "description": {
+    "de": "Dies ist ein Sicherheitsschiff der Zollbehörden der Caldari. Es patrouilliert in diesem Sektor und wird präventiv vorbeifliegende Raumschiffe nach illegalen Waren scannen.\r\n\r\nBedrohungsstufe: Sehr hoch",
+    "en": "This is a security vessel of the Caldari Customs force. It is patrolling this sector and will proactively scan bypassing vessels for illegal goods.\r\n\r\nThreat level: Very high",
+    "es": "Nave de seguridad de las fuerzas aduaneras caldaris que patrulla por este sector y escaneará de forma proactiva las naves que pasen en busca de mercancías ilegales.\n\n\n\nNivel de amenaza: muy alto.",
+    "fr": "Ceci est un vaisseau de sécurité des douanes caldari. Il patrouille dans le secteur et scanne de façon anticipée les vaisseaux à la recherche de marchandises interdites.\n\nNiveau de menace : très élevé",
+    "ja": "カルダリ税関艦隊のセキュリティ艦。地域一帯をパトロールし、迂回しようとする船を率先的にスキャンして違法物資を検知する。危険度:非常に高い",
+    "ko": "칼다리 관세청의 경비함입니다. 지역 순찰을 통해 불법 밀수선을 적발합니다. <br><br>위험도: 매우 높음",
+    "ru": "Это корабль сил безопасности таможенной службы Caldari. Он патрулирует этот сектор и активно сканирует проходящие корабли на наличие запрещённых товаров.\n\nУровень опасности: очень высокий",
+    "zh": "这是一艘加达里海关军队的安全船只。它在这个区域巡逻并且能主动扫描过往船只是否载有非法物品。威胁等级：非常高"
+  },
+  "graphicID": 50,
+  "groupID": 446,
+  "mass": 20000000.0,
   "name": {
     "de": "Caldari Customs Commissioner",
     "en": "Caldari Customs Commissioner",
@@ -10,5 +23,11 @@
     "ru": "Caldari Customs Commissioner",
     "zh": "加达里海关 专员"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 350.0,
+  "sofFactionName": "caldaribase",
+  "soundID": 30,
   "volume": 1080000.0
 }

@@ -1,5 +1,16 @@
 {
-  "typeID": 34379,
+  "description": {
+    "de": "Eine Wächterkanone im Sleeper-Design. Zur Zeit inaktiv.",
+    "en": "A sentry gun of Sleeper design. Currently dormant.",
+    "es": "Torreta centinela de diseño sleeper. Actualmente en estado latente.",
+    "fr": "Un canon sentinelle de conception Sleeper, apparemment inactif.",
+    "ja": "スリーパーが設計したセントリーガン休止中",
+    "ko": "슬리퍼 설계 기반의 센트리 포탑입니다. 절전상태입니다.",
+    "ru": "Орудийная установка проекта Спящих. В данный момент в спящем режиме.",
+    "zh": "冬眠者设计的岗哨炮塔，当前没有启动。"
+  },
+  "graphicID": 3533,
+  "groupID": 226,
   "name": {
     "de": "Inactive Sentry Gun",
     "en": "Inactive Sentry Gun",
@@ -10,5 +21,9 @@
     "ru": "Inactive Sentry Gun",
     "zh": "未启动的岗哨炮"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 45.0,
+  "sofFactionName": "sleeperbase"
 }

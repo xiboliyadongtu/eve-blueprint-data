@@ -1,5 +1,20 @@
 {
-  "typeID": 13780,
+  "basePrice": 60000000.0,
+  "capacity": 10000000.0,
+  "description": {
+    "de": "Eine mobile Fertigungsanlage, in der Module, Implantate, stationierbare Strukturen, Strukturmodule, Sternenbasen und Container hergestellt werden können.",
+    "en": "A mobile assembly facility where modules, implants, deployables, structures, structure modules, starbases and containers can be manufactured.",
+    "es": "Una instalación de ensamblaje móvil para fabricar módulos, implantes, desplegables, estructuras, módulos de estructura, bases estelares y contenedores.",
+    "fr": "Un module d'assemblage mobile où les modules, implants, déployables, structures de modules, bases stellaires et conteneurs peuvent être produits.",
+    "ja": "モジュール、インプラント、展開装置、ストラクチャ、ストラクチャ用モジュール、スターベース、コンテナを製造できる移動型組み立て施設。",
+    "ko": "모듈, 임플란트, 전개물, 구조물, 구조물 모듈, 스타베이스 및 컨테이너를 제조할 수 있는 이동식 생산 시설입니다.",
+    "ru": "Блок-завод для производства модулей, имплантов, полевых блоков, сооружений, ПОСов, контейнеров и модулей для сооружений",
+    "zh": "一座移动式装配设施，可以在这里生产装备、植入体、可部署装置、建筑、建筑装备、母星和货柜。"
+  },
+  "graphicID": 2366,
+  "groupID": 397,
+  "marketGroupID": 932,
+  "mass": 200000000.0,
   "name": {
     "de": "Equipment Assembly Array",
     "en": "Equipment Assembly Array",
@@ -10,5 +25,9 @@
     "ru": "Equipment Assembly Array",
     "zh": "装备组装阵列"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 1672.0,
+  "sofFactionName": "genericindustrial",
   "volume": 6250.0
 }

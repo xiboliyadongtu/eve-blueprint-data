@@ -1,5 +1,18 @@
 {
-  "typeID": 59740,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Ein stillgelegter Amarr-Verteidigungsposten, der einst Teil der gewaltigen Verteidigungsanlagen von Fort Kavad war. Er wurde als Monument des Sieges der Minmatar über die Amarr erhalten.",
+    "en": "A disabled Amarr defense post that once served as part of the formidable defenses of Fort Kavad. It has been preserved as a monument to the Minmatar victory over the Amarr.",
+    "es": "Puesto de defensa amarriano deshabilitado que en su día formó parte de las formidables defensas de Fuerte Kavad. Ha sido preservado como monumento a la victoria minmatariana sobre los amarrianos.",
+    "fr": "Un poste de défense amarr désactivé qui faisait autrefois partie des formidables défenses de Fort Kavad. Il a été préservé comme monument commémorant la victoire des Minmatar sur les Amarr.",
+    "ja": "かつてフォートカヴァドの強固な防衛部隊の一部だったが、今は無力化されたアマーの防衛ポスト。ミンマターがアマーに対して収めた勝利を記念するモニュメントとして保存されてきた。",
+    "ko": "카바드 요새에 설치되어 있던 아마르 방어초소로 민마타 공화국이 승리를 기념하고자 보존하였습니다.",
+    "ru": "Разрушенный амаррский пост, который прежде был частью внушительных оборонительных укреплений Форта Кавад. Теперь он является памятником победы минматаров над Амаррской Империей.",
+    "zh": "这是一座已失效的艾玛防御哨站，它曾是卡瓦要塞坚不可摧的防御体系的一部分。它被保存下来，作为米玛塔尔战胜艾玛的纪念碑。"
+  },
+  "graphicID": 2425,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Preserved Amarr Defense Post",
     "en": "Preserved Amarr Defense Post",
@@ -10,5 +23,10 @@
     "ru": "Preserved Amarr Defense Post",
     "zh": "保存的艾玛防御哨站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 637.0,
+  "sofFactionName": "amarrbase",
   "volume": 100000000.0
 }

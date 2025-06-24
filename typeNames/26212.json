@@ -1,5 +1,18 @@
 {
-  "typeID": 26212,
+  "capacity": 235.0,
+  "description": {
+    "de": "Der Leiter dieses Außenpostens ist extrem paranoid und überprüft sorgfältig, wer das Verpackungszentrum betritt; er hat Angst vor Diebstahl oder Sabotage.",
+    "en": "The supervisor of this outpost is extremely paranoid and carefully controls who enters the packaging center, from fear of theft or sabotage.",
+    "es": "El supervisor de este puesto avanzado es extremadamente paranoico y controla con celo quién entra en el centro de empaquetamiento por temor al robo o al sabotaje.",
+    "fr": "Le superviseur de cet avant-poste est extrêmement paranoïaque et contrôle très attentivement les personnes ayant accès au centre d'emballage, tant il craint des vols ou des sabotages.",
+    "ja": "アウトポストの管理者。盗難や破壊工作に対する不安から、パッケージセンターへの立ち入りを徹底的に管理する、極めて偏執的な人物。",
+    "ko": "이 전초기지의 관리자는 극심한 편집증 환자입니다. 약탈 또는 습격의 두려움에 휩싸여 패키징 센터에 들어오는 그 모두를 통제하려 듭니다.",
+    "ru": "Глава этой станции очень параноидален и пристально следит за всеми, кто входит в упаковочный центр из-за боязни саботажа.",
+    "zh": "这座空间站的监督者是一个十足的偏执狂，小心翼翼地控制着包装中心的人员进出，以防发生偷窃或破坏活动。"
+  },
+  "graphicID": 2158,
+  "groupID": 534,
+  "mass": 19000000.0,
   "name": {
     "de": "Complex Supervisor",
     "en": "Complex Supervisor",
@@ -10,5 +23,10 @@
     "ru": "Complex Supervisor",
     "zh": "复合体总监"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 350.0,
+  "sofFactionName": "guristas",
   "volume": 22000000.0
 }

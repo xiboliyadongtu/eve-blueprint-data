@@ -1,5 +1,22 @@
 {
-  "typeID": 34288,
+  "basePrice": 1484776.0,
+  "capacity": 9.0,
+  "description": {
+    "de": "Eine doppelläufige, mächtige Kanone für Mittelstrecken, die unglaublichen Schaden anrichten kann. Polarisierte Waffen bieten extrem gute Primärwerte, machen dafür aber alle Widerstände auf einem Schiff zunichte, in das sie eingebaut wurden. Sie muss mit einer der folgenden Projektilmunitionssorten (regulär oder fortschrittlich) geladen werden: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, Titanium Sabot, Barrage oder Hail.",
+    "en": "A two-barreled, intermediate-range, powerful cannon capable of causing tremendous damage. \r\n\r\nPolarized weapons offer extremely good primary stats, but come with the cost of completely negating all resistances on a ship if fitted.\r\n\r\nMust be loaded with any of the following regular and advanced projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, Titanium Sabot, Barrage, Hail.",
+    "es": "Un poderoso cañón doble, de alcance medio, capaz de causar un daño tremendo. \n\n\n\nLas armas polarizadas ofrecen estadísticas principales extremadamente buenas, pero tienen el coste de anular por completo todas las resistencias de la nave en que están equipadas.\n\n\n\nDebe cargarse con cualquiera de los siguientes tipos de munición de proyectiles normales o avanzados: plomo carbonado, uranio empobrecido, EMP, fusión, nuclear, plasma fásico, protón, perforante de titanio, Barrage y Hail.",
+    "fr": "Arme puissante à double canon et à portée intermédiaire, capable d'infliger des dégâts extrêmement importants. \n\nLes armes polarisées offrent de très bons statistiques principaux, mais leur installation a pour effet d'annuler toutes les résistances d'un vaisseau.\n\nVous devez y charger les types de munition de projectile suivants : plomb trempé, uranium appauvri, IEM, fusion, nucléaire, plasma à phase, proton, sabot de titane, barrage ou grêle.",
+    "ja": "2連式、中距離型の強力なオートキャノンで、大ダメージを与えることができる。\n\n偏光兵器は、主要なステータスに非常に良い影響を及ぼす。ただし、装備した艦船のレジスタンスが完全に無効化されるというデメリットもある。\n\n装填可能な標準型または高性能プロジェクタイル弾のタイプ：炭化鉛弾、劣化ウラン弾、電磁パルス弾、フュージョン弾、核弾頭弾、フェーズプラズマ弾、光子弾、チタン製サボット弾、バラージ弾、ヘイル弾。",
+    "ko": "중거리 교전에 특화된 이중 배럴 기관포로 적 적중 시 막대한 피해를 입힙니다. <br><br>극성 무기는 기본 능력치가 매우 높지만 장착 시 함선의 피해 저항력을 무효화합니다. <br><br>사용 및 장착 가능한 발사체: 탄화납, 열화 우라늄, EMP, 융합, 원자력, 위상 플라즈마, 양성자, 티타늄 사봇, 버라지, 헤일.",
+    "ru": "Мощная двуствольная пушка средней дальности, обеспечивающая огромное поражающее действие \n\n«Поляризованное» вооружение имеет высочайшие ключевые характеристики, но оснащённый им корабль полностью лишается сопротивлений всем поражающим факторам.\n\nОрудие может вести огонь баллистическими снарядами следующих типов: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton или Titanium Sabot.",
+    "zh": "一种双联装，中射程的强大加农炮，能够给目标造成巨大的伤害。 \n\n偏振式武器的主要参数极佳，但同时会使舰船装配的任何抗性装备完全失效。\n\n必须装填以下类型的常规和高级射弹弹药：碳铅弹、硬钼弹、电磁脉冲弹、聚变弹、核芯弹、定相离子弹、质子弹、钛合金萨博弹、“雷暴”、“冰雹”。"
+  },
+  "graphicID": 21740,
+  "groupID": 55,
+  "iconID": 381,
+  "marketGroupID": 576,
+  "mass": 75.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Polarized 800mm Repeating Cannon",
     "en": "Polarized 800mm Repeating Cannon",
@@ -10,5 +27,11 @@
     "ru": "Polarized 800mm Repeating Cannon",
     "zh": "偏振式800mm频射加农炮"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 200.0,
+  "sofFactionName": "sleeperbase",
+  "variationParentTypeID": 496,
   "volume": 20.0
 }

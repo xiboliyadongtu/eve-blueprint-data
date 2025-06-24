@@ -1,5 +1,18 @@
 {
-  "typeID": 21071,
+  "basePrice": 60000.0,
+  "description": {
+    "de": "Fertigkeit beim Einsatz von Lenkwaffenwerfern. 3% auf die Feuerrate von Lenkwaffenwerfern je Skillstufe",
+    "en": "Proficiency in operation of missile launchers. 3% bonus to missile launcher rate of fire per level.",
+    "es": "Habilidad en el manejo de lanzamisiles. 3 % de bonificación a la cadencia de tiro de los lanzamisiles por nivel.",
+    "fr": "Capacité à utiliser les lanceurs de missiles. Augmente de 3 % par niveau la cadence de tir du lance-missiles.",
+    "ja": "ミサイルランチャーの操作能力。レベル上昇ごとにミサイルランチャーの発射間隔が3％短縮。",
+    "ko": "미사일 런처를 효율적으로 운용하기 위한 스킬입니다. 매 레벨마다 미사일 런처 연사속도 증가 3%",
+    "ru": "Углублённое понимание принципов работы пусковых установок ракет. За каждую степень освоения навыка: на 3% повышается скорострельность всех пусковых установок ракет.",
+    "zh": "精通操作导弹发射器的技能。每升一级，导弹发射器的发射速率提高3%。"
+  },
+  "groupID": 256,
+  "iconID": 33,
+  "marketGroupID": 373,
   "name": {
     "de": "Rapid Launch",
     "en": "Rapid Launch",
@@ -10,5 +23,7 @@
     "ru": "Повышение скорострельности пусковых установок",
     "zh": "导弹发射效率"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

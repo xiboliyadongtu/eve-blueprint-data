@@ -1,5 +1,16 @@
 {
-  "typeID": 13069,
+  "description": {
+    "de": "Fertigkeit für den Transport von Schmuggelware ohne dabei erwischt zu werden.\r\n\r\n-10% Chance beim Transport von Schmuggelware erwischt zu werden (Basischance: 60%).",
+    "en": "The skill at transporting contraband without getting caught. -10% chance of being caught transporting contraband. Base chance 60%.",
+    "es": "La habilidad de transportar contrabando sin que te atrapen. -10 % de probabilidad de que te pillen transportando contrabando. Probabilidad base del 60 %.",
+    "fr": "Compétence liée au transport de marchandises de contrebande sans se faire attraper. Réduit de 10 % la probabilité de se faire prendre en train de faire de la contrebande. Probabilité basique de 60 %.",
+    "ja": "見つからないように密輸品を運ぶスキル。密輸品の輸送中に発見される確率が 10% 減少する。基本値は 60%。",
+    "ko": "밀수품 은닉을 위한 스킬입니다. 밀수품 운반 시 발각될 확률 10% 감소 기본 발각 확률 60%",
+    "ru": "Навык избегания поимки при перевозке контрабанды. За каждую степень освоения навыка: на 10% уменьшается вероятность поимки во время перевозки контрабанды. Без учёта навыков вероятность составляет 60%.",
+    "zh": "运输违禁品而不被查获的技能。运输违禁品被查获几率降低10%。初始几率为60%。"
+  },
+  "groupID": 274,
+  "iconID": 33,
   "name": {
     "de": "Starship Freight",
     "en": "Starship Freight",
@@ -10,5 +21,7 @@
     "ru": "Контрабандная перевозка кораблей",
     "zh": "星舰运输学"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

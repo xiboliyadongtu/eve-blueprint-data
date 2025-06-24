@@ -1,5 +1,21 @@
 {
-  "typeID": 85747,
+  "basePrice": 453442.0,
+  "description": {
+    "de": "Eine Scansonde zum Scannen von Kosmischen Signaturen, Raumschiffen, Strukturen und Drohnen. Kann von <a href=showinfo:18639>Erweiterten Scansondenwerfern</a> aus gestartet werden.",
+    "en": "A scanner probe used for scanning down cosmic signatures, starships, structures and drones.\r\n\r\nCan be launched from <a href=showinfo:18639>Expanded Probe Launchers</a>.",
+    "es": "Sonda escáner usada para escanear señales cósmicas, naves espaciales, estructuras y drones.\r\n\r\nSe puede lanzar desde <a href=showinfo:18639>lanzasondas ampliados</a>.",
+    "fr": "Une sonde de balayage utilisée pour analyser les signatures cosmiques, les vaisseaux, les structures et les drones. Peut être lancée depuis les <a href=showinfo:18639>lanceurs de sondes étendus</a>.",
+    "ja": "宇宙のシグネチャ、宇宙船、ストラクチャ、ドローンをスキャンするためのスキャナープローブ。\r\n\r\n射出には<a href=showinfo:18639>拡張型プローブランチャー</a>を使う。",
+    "ko": "코즈믹 시그니처, 함선, 구조물 및 드론을 스캔하여 탐색할 수 있는 스캔 프로브입니다.\r\n\r\n<a href=showinfo:18639>확장형 프로브 런처</a>로 사출할 수 있습니다.",
+    "ru": "Разведзонд для поиска космических сигнатур, кораблей, сооружений и дронов. Можно запускать с <a href=showinfo:18639>новых пусковых установок</a>.",
+    "zh": "一个扫描探针，用于扫描空间信号、舰船、建筑与无人机。能从<a href=showinfo:18639>延伸探针发射器</a>上发射。"
+  },
+  "graphicID": 3767,
+  "groupID": 479,
+  "iconID": 1722,
+  "marketGroupID": 1199,
+  "mass": 1.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Satori-Horigu Combat Scanner Probe",
     "en": "Satori-Horigu Combat Scanner Probe",
@@ -10,5 +26,9 @@
     "ru": "Satori-Horigu Combat Scanner Probe",
     "zh": "悟道作战扫描探针"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "genericnarcotics",
+  "variationParentTypeID": 30028,
   "volume": 1.0
 }

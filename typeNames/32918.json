@@ -1,5 +1,18 @@
 {
-  "typeID": 32918,
+  "basePrice": 50000.0,
+  "description": {
+    "de": "Fertigkeit zur Handhabung von ORE-Fregatten für den Bergbau",
+    "en": "Skill at operating ORE Mining Frigates.",
+    "es": "Habilidad en el manejo de fragatas mineras de ORE.",
+    "fr": "Compétence liée à l'utilisation des frégate d'extraction minière ORE.",
+    "ja": "ORE採掘フリゲートの操縦スキル。",
+    "ko": "ORE 채굴 프리깃 운용을 위한 스킬입니다.",
+    "ru": "Навык управления буровыми фрегатами Окраинной Рудной Экспедиции.",
+    "zh": "操纵外空联合矿业采矿护卫舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Mining Frigate",
     "en": "Mining Frigate",
@@ -10,5 +23,7 @@
     "ru": "Буровые фрегаты",
     "zh": "采矿护卫舰操作"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

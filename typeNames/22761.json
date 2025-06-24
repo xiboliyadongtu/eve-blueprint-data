@@ -1,5 +1,18 @@
 {
-  "typeID": 22761,
+  "basePrice": 35000000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Aufklärungsschiffen.",
+    "en": "Skill for the operation of Recon Ships.",
+    "es": "Habilidad en el manejo de naves de reconocimiento.",
+    "fr": "Compétence permettant de piloter des vaisseaux de reconnaissance.",
+    "ja": "偵察艦を操縦するスキル。",
+    "ko": "리콘 크루저를 운용하기 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на дозорных крейсерах.",
+    "zh": "操作侦察舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Recon Ships",
     "en": "Recon Ships",
@@ -10,5 +23,7 @@
     "ru": "Дозорные крейсеры",
     "zh": "侦察舰操作"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

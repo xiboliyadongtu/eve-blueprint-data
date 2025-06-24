@@ -1,5 +1,17 @@
 {
-  "typeID": 353377,
+  "basePrice": 99000.0,
+  "description": {
+    "de": "Grundlegende Kenntnisse über Fernreparatursysteme für Panzerungen.\n\n+5% auf die maximale Reparaturdistanz von Fernreparaturmodulen für Fahrzeuge pro Skillstufe.",
+    "en": "Basic understanding of remote armor repair systems.\r\n\r\n+5% to maximum repair distance of vehicle remote armor modules per level.",
+    "es": "Conocimiento básico de sistemas de reparación de blindaje remotos.\n\n+5% al alcance máximo de los módulos de reparación de blindaje remoto de vehículos por nivel.",
+    "fr": "Notions de base en systèmes de réparation de blindage à distance.\n\n+5 % à la portée maximale des modules de réparation de blindage à distance par niveau.",
+    "it": "Comprensione base dei sistemi di riparazione corazza a distanza. \n\n+5% alla massima distanza di riparazione dei moduli per corazza a distanza del veicolo per livello.",
+    "ja": "遠隔リペアシステムに関する基本的な知識。\n\nレベル上昇ごとに、車両遠隔アーマーモジュールの最大リペア有効距離が5%増加する。",
+    "ko": "원격 장갑수리 시스템에 대한 기본적인 이해를 습득합니다.<br><br>매 레벨마다 원격 차량 장갑 모듈의 최대 수리 범위 5% 증가",
+    "ru": "Базовое знание систем удаленного ремонта брони.\n\n+5% к максимальной дальности ремонта для модулей удаленного ремонта брони для транспортных средств за каждый уровень.",
+    "zh": "远程装甲维修系统基本知识。每升一级，载具远程装甲装备的最大维修距离增加5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Fernreparatur für Panzerungen",
     "en": "Remote Armor Repair",
@@ -11,5 +23,7 @@
     "ru": "Модуль дистанционного ремонта брони",
     "zh": "远程装甲修复"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

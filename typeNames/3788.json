@@ -1,5 +1,16 @@
 {
-  "typeID": 3788,
+  "description": {
+    "de": "Die Hoarder ist der zweitwichtigste Transporter der Minmatar. Sie ist nicht so stark wie eine Mammoth, hat aber für ihren Preis einen enorm großen Laderaum. Die Hoarder ist das perfekte Schiff für Operationen in friedlichen Gebieten oder im Verbund mit einer starken Eskorte.",
+    "en": "The Hoarder is the second in line of the Minmatar haulers, it's not as strong as the Mammoth but its cargo space is very large for its price. It's perfect for operation in peaceful areas or when it has strong escort.",
+    "es": "La Hoarder es la segunda en la línea de las naves de mercancías minmatarianas. No es tan fuerte como la Mammoth, pero, para el precio que tiene, dispone de mucho espacio de carga. Resulta perfecta para operar en zonas pacíficas o cuando cuenta con una escolta potente.",
+    "fr": "Le Hoarder est le deuxième cargo minmatar par la taille. Il n'est pas aussi robuste que le Mammoth, mais sa soute est très grande pour un vaisseau de ce prix. Il est tout à fait adapté aux missions dans des secteurs calmes ou s'il dispose d'une bonne escorte.",
+    "ja": "ホーダーは系列2番目のミンマターハウラーで、マンモスほど頑丈ではないが、カーゴスペースは価格の割に大変広い。治安のいい宙域や護衛付きでの輸送に最適だ。",
+    "ko": "호더는 민마타 운반선 중 두 번째로 높은 성능을 자랑합니다. 맘모스에 비해 무장은 다소 부족하지만, 가격 대비 상당한 규모의 화물실을 지니고 있습니다. 안전 지역에서 단독으로 운용하거나, 호위함을 대동할 때 가장 효율적입니다.",
+    "ru": "«Хордер» — второй по размеру перевозчик минматарского флота. По мощности он немного отстаёт от «Мамонта», но позволяет получить очень большой грузовой отсек по относительно низкой цене. Он отлично подходит для работы в спокойных районах или под защитой.",
+    "zh": "囤积者级在米玛塔尔运载舰中排名第二，它虽没有猛犸级那么坚固，但就其价位而言，它提供了非常充裕的货舱空间。它非常适合在安全区域或在拥有强大护卫的条件下作业。"
+  },
+  "graphicID": 308,
+  "groupID": 226,
   "name": {
     "de": "Minmatar Hoarder Hauler",
     "en": "Minmatar Hoarder Hauler",
@@ -10,5 +21,9 @@
     "ru": "Minmatar Hoarder Hauler",
     "zh": "米玛塔尔囤积者级运载舰"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 211.0,
+  "sofFactionName": "minmatarbase"
 }

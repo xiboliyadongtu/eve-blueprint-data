@@ -1,5 +1,18 @@
 {
-  "typeID": 77725,
+  "basePrice": 500000000.0,
+  "description": {
+    "de": "Skill zur Herstellung bestimmter fortschrittlicher Capital-Schiffe. 1 % Reduktion der Fertigungszeit je Skillstufe für alle Gegenstände, die den Skill Fortschrittliche Capital-Schiff-Konstruktion benötigen.",
+    "en": "Skill required for the manufacturing of certain advanced capital ships. 1% reduction in manufacturing time for all items requiring Advanced Capital Ship Construction per level.",
+    "es": "Habilidad necesaria para fabricar ciertas naves capitales avanzadas. 1 % de reducción del tiempo de fabricación de todos los objetos que requieran construcción de naves capitales avanzadas por nivel.",
+    "fr": "Compétence requise pour la production de certains vaisseaux capitaux avancés. Réduction de 1 % du temps de production par niveau pour tous les objets nécessitant Construction avancée de vaisseaux capitaux.",
+    "ja": "特定の新鋭型主力艦の製造に必要なスキル。レベルが上がるごとに高性能主力艦建造所を必要とするすべてのアイテムの製造時間を1%短縮する。",
+    "ko": "상급 캐피탈 함선 제조 시 요구되는 스킬입니다. 스킬 레벨당 상급 캐피탈 함선 제작 스킬을 요구하는 모든 아이템의 제조 시간이 1% 감소",
+    "ru": "Навык, необходимый для производства определённых улучшенных кораблей большого тоннажа. Сокращает время производства для всех проектов, которые требуют навыка строительства улучшенных КБТ, на 1% за каждую степень освоения.",
+    "zh": "制造特定高级旗舰级舰船所需的技能。每升一级，所有需要高级旗舰建造的物品的生产时间缩短1%。"
+  },
+  "groupID": 268,
+  "iconID": 33,
+  "marketGroupID": 369,
   "name": {
     "de": "Advanced Capital Ship Construction",
     "en": "Advanced Capital Ship Construction",
@@ -10,5 +23,7 @@
     "ru": "Advanced Capital Ship Construction",
     "zh": "高级旗舰建造"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

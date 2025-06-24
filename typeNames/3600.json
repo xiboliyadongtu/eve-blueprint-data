@@ -1,5 +1,16 @@
 {
-  "typeID": 3600,
+  "description": {
+    "de": "Die Tayra ist eine Variante der berühmten Badger und wird hauptsächlich vom Militär und Großkonzernen für den Transport wertvoller Güter eingesetzt. Dank ihrer größeren Ladekapazität eignet sich die Tayra perfekt für den Transport großer Gütermengen.",
+    "en": "The Tayra is an alternative version of the famous Badger, it's mostly used by the military or the mega corps for transports of goods of great value. The Tayra has a much larger cargo capacity, making it ideal for high volume hauling.",
+    "es": "La Tayra es una versión alternativa de la famosa Badger, utilizada principalmente por el ejército y las megacorporaciones para transportar bienes de gran valor. La Tayra tiene una capacidad de carga mucho mayor, lo que la hace ideal para transportar grandes volúmenes.",
+    "fr": "Le Tayra est la version la plus récente du célèbre Badger. Il sert principalement aux militaires ou aux méga-corporations pour le transport de marchandises très précieuses. Le Tayra présente une capacité de soute largement supérieure, ce qui en fait le vaisseau idéal pour les collectes à grande échelle.",
+    "ja": "タイラは広く普及していたバッジャーの後継バージョンで、主に軍やメガコーポレーションが高価な物資を輸送する際に使用する。バッジャーよりカーゴ容量が大幅に増え、大量輸送には理想的だ。",
+    "ko": "뱃져급을 바탕으로 설계된 인더스트리얼로 코퍼레이션 및 각 국가의 군대에서 주요 물품을 운송하는 작업에 주로 사용됩니다. 화물 적재 공간이 넓어 대규모 운반 임무에 적합합니다.",
+    "ru": "«Тайра» представляет собой вариацию широкоизвестного «Бэджера». В основном «Тайра» применяется мегакорпорациями и военными для транспортировки особо ценных товаров. «Тайра» отличается особо вместительным грузовым отсеком, что делает ее идеальным кораблем для перевозки крупнотоннажных грузов.",
+    "zh": "狐鼬级是著名的獾级工业舰的最新版本，主要被军方或超级集团用来运输贵重商品。狐鼬级具有超大的货舱容量，是运载大量货物的理想选择。"
+  },
+  "graphicID": 52,
+  "groupID": 226,
   "name": {
     "de": "Caldari Tayra Hauler",
     "en": "Caldari Tayra Hauler",
@@ -10,5 +21,9 @@
     "ru": "Caldari Tayra Hauler",
     "zh": "加达里狐鼬级运载舰"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 279.0,
+  "sofFactionName": "caldaribase"
 }

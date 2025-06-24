@@ -1,5 +1,19 @@
 {
-  "typeID": 79590,
+  "capacity": 100.0,
+  "description": {
+    "de": "Die Bergbaubarkasse wurde von <a href=showinfo:30//500014>ORE</a> konzipiert, um die Profession des Bergbaus auf eine neue Stufe zu heben. Jede Barkasse wurde entwickelt, um in einer spezifischen Funktion zu glänzen, im Falle des Retrievers ist es die Lagerung. Ihr großer Erzfrachtraum erlaubt der Retriever längere Einsätze ohne die Unterstützung, die andere Barkassen benötigen. Bergbaubarkassen sind mit elektronischen Subsystemen ausgestattet, die speziell zur Unterbringung von Streifenbergbau- und Eisabbau-Modulen entwickelt wurden.",
+    "en": "The mining barge was designed by <a href=showinfo:30//500014>ORE</a> to facilitate advancing the mining profession to a new level. Each barge was created to excel at a specific function, the Retriever's being storage. A massive ore hold allows the Retriever to operate for extended periods without requiring as much support as other barges.\r\n\r\nMining barges are equipped with electronic subsystems specifically designed to accommodate Strip Mining and Ice Harvesting modules.",
+    "es": "La gabarra minera ha sido creada por <a href=showinfo:30//500014>ORE</a> para facilitar el avance de la minería a un nuevo nivel. Cada gabarra fue ideada para tareas específicas y especializadas. En el caso de la Retriever, es su capacidad de almacenamiento: el enorme almacén de menas de la Retriever le permite trabajar durante largos periodos sin necesitar tanto apoyo como otras gabarras.\r\n\r\nLas gabarras mineras están equipadas con subsistemas electrónicos diseñados específicamente para albergar módulos de extracción minera y recolección de hielo.",
+    "fr": "La barge d'extraction minière a été conçue par <a href=showinfo:30//500014>ORE</a> afin de faciliter l'avancement de la profession d'extraction minière vers un nouveau niveau. Chaque barge a été créée pour exceller dans une fonction spécifique, celle du Retriever étant le stockage. Une vaste soute à minerai permet au Retriever de fonctionner pendant des périodes prolongées sans nécessiter autant de soutien que d'autres barges. Les barges d'extraction minière sont équipées de sous-systèmes électroniques spécifiquement conçus pour accueillir les modules d'extraction minière intensive et de collecte de glace.",
+    "ja": "採掘職を次の段階へと進めるために<a href=showinfo:30//500014>ORE</a>が設計した採掘艦。各艦が特定の機能に秀でるように建造されており、レトリーバーの場合は保管量に優れている。鉱石を膨大に保管できるレトリーバーは、他の採掘艦からの支援を受けることなく長時間稼働することができる。\r\n\r\n採掘艦はストリップマイナーおよびアイス採掘機モジュール専用に設計された電子補助システムを搭載している。",
+    "ko": "채광선은 <a href=showinfo:30//500014>ORE</a>가 설계한 선박으로, 채굴 작업의 획기적인 개선을 불러온 함종입니다. 각 채광선은 저마다의 특성을 보유하고 있으며, 리트리버의 경우 대규모 적재 공간이 강점입니다. 거대한 크기의 광물 저장고 덕에 장시간 운용하더라도 다른 채광선처럼 중간 하적을 자주 할 필요가 없습니다.<br><br>전자 서브시스템이 탑재되어 아이스 채굴 및 가속 채굴 모듈을 운용할 수 있습니다.",
+    "ru": "Инженеры из <a href=showinfo:30//500014>ОРЭ</a> разработали буровые баржи, чтобы значительно облегчить продвижение бурильщиков по карьерной лестнице. Каждая баржа обладает своими сильными сторонами. У «Ретривера» это хранение. Огромный отсек для руды позволяет ему работать продолжительное время в автономном режиме, задействуя меньше поддержки от других кораблей. Буровые баржи оснащены электронными подсистемами, позволяющими оснастить их буровыми лазерами и модулями для добычи льда.",
+    "zh": "为了将采矿业推进到一个全新高度，<a href=showinfo:30//500014>联合矿业</a>设计了该采矿驳船。每种驳船都在某一方面有长处。回旋者级的特长便是容量大。超大的矿石舱使得回旋者级能够长时间进行采矿作业而不像其他采矿驳船一样需要后勤支持。采矿驳船装备有专为配合露天开采及冰矿采集装备而设计的电子子系统。"
+  },
+  "factionID": 500014,
+  "graphicID": 2523,
+  "groupID": 4673,
+  "mass": 20000000.0,
   "name": {
     "de": "ORE Retriever",
     "en": "ORE Retriever",
@@ -10,5 +24,9 @@
     "ru": "ORE Retriever",
     "zh": "联合矿业回旋者级"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 202.0,
+  "sofFactionName": "orebase",
   "volume": 150000.0
 }

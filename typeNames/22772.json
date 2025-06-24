@@ -1,5 +1,16 @@
 {
-  "typeID": 22772,
+  "description": {
+    "de": "Eine Heron, die von einem Agenten geflogen wird.",
+    "en": "A Heron piloted by an agent.",
+    "es": "Heron pilotada por un agente.",
+    "fr": "Un Heron piloté par un agent.",
+    "ja": "エージェントを乗せたヘロン。",
+    "ko": "에이전트가 조종하는 헤론입니다.",
+    "ru": "Корабль класса Heron, управляемый агентом.",
+    "zh": "由代理人驾驶的苍鹭级飞船。"
+  },
+  "graphicID": 316,
+  "groupID": 517,
   "name": {
     "de": "Rikkolen's Heron",
     "en": "Rikkolen's Heron",
@@ -10,5 +21,9 @@
     "ru": "Rikkolen's Heron",
     "zh": "希考棱的苍鹭级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 47.0,
+  "sofFactionName": "caldaribase"
 }

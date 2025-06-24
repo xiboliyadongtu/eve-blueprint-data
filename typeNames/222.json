@@ -1,5 +1,21 @@
 {
-  "typeID": 222,
+  "basePrice": 1000.0,
+  "description": {
+    "de": "Besteht aus zwei Komponenten: Einer Granate aus Titan und einem Kern aus Antimaterie-Atomen im Plasmazustand. Railguns verschießen die Granate direkt, während Partikelblaster das Plasma in ein Zyklotron pumpen und dann zu einem Geschoss formen, das abgefeuert wird.\n\n50% geringere optimale Reichweite.",
+    "en": "Consists of two components: a shell of titanium and a core of antimatter atoms suspended in plasma state. Railguns launch the shell directly, while particle blasters pump the plasma into a cyclotron and process the plasma into a bolt that is then fired.\r\n\r\n50% reduced optimal range.",
+    "es": "Consta de dos componentes: un proyectil de titanio y un núcleo de átomos de antimateria suspendidos en estado plasmático. Los cañones electromagnéticos lanzan el proyectil directamente al tiempo que los blásteres de partículas bombean el plasma a un ciclotrón y lo transforman en un rayo que luego se dispara.\n\nAlcance óptimo reducido un 50 %.",
+    "fr": "Il contient deux composants : une coque en titane et un noyau d'atomes d'antimatière conservés sous un état plasma. Des canons à rail éjectent directement l'obus tandis que des blasters à particules injectent le plasma dans un cyclotron pour former un éclair qui est ensuite tiré sur la cible.\n\nRéduit de 50 % la portée optimale.",
+    "ja": "チタン製のシェル、プラズマ状態に保たれた反物質の原子のコアという2つのコンポーネントから成る。シェルごと発射して攻撃するレールガンに対し、粒子ブラスターは一度プラズマをサイクロトロン加速器に送り込み、発生した稲妻により攻撃する。最適射程距離が50%縮小。",
+    "ko": "티타늄으로 코팅된 탄두 속에 반물질 분자가 플라즈마 상태로 저장되어 있습니다. 레일건을 격발하는 순간 입자 블라스터는 플라즈마를 사이클로트론에 주입하고 투사체로 변환시켜 발사합니다. <br><br>최적사거리 50% 감소",
+    "ru": "Состоит из двух компонентов: титанового корпуса плазменной ловушки и сердечника из атомарной антиматерии в состоянии плазмы. При стрельбе боеприпасом из рельсотронов по цели выстреливается весь снаряд целиком, при стрельбе из бластеров — лишь сгусток плазмы, закачиваемой из ловушки в циклотрон бластера.\n\n\n\nНа 50%.снижается оптимальная дальность ведения огня.",
+    "zh": "由两部分组成：钛金制的弹壳和离子态的反物质原子芯核。磁轨炮直接射出弹壳，而粒子疾速炮将等离子注入回旋加速器中，然后将等离子如闪电般发射出去。\n\n\n\n最佳射程减少50%。"
+  },
+  "graphicID": 1047,
+  "groupID": 85,
+  "iconID": 1047,
+  "marketGroupID": 107,
+  "mass": 0.01,
+  "metaGroupID": 1,
   "name": {
     "de": "Antimatter Charge S",
     "en": "Antimatter Charge S",
@@ -10,5 +26,7 @@
     "ru": "Antimatter Charge S",
     "zh": "反物质轨道弹 S"
   },
+  "portionSize": 100,
+  "published": true,
   "volume": 0.0025
 }

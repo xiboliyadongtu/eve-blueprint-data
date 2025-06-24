@@ -1,5 +1,19 @@
 {
-  "typeID": 23220,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Ein aufgegebener Contaier voller Müll und Abfall.",
+    "en": "A discarded container filled with junk and other waste.",
+    "es": "Un contenedor desechado lleno de chatarra y otros residuos.",
+    "fr": "Un conteneur éliminé contenant rebuts et déchets.",
+    "ja": "ゴミやがらくたの詰まった廃棄コンテナ。",
+    "ko": "폐기물로 가득 찬 컨테이너입니다.",
+    "ru": "Выброшенный контейнер, полный всякого мусора.",
+    "zh": "一个被抛弃的箱子，装满了垃圾和其他废物。"
+  },
+  "graphicID": 1176,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Disposal Unit",
     "en": "Disposal Unit",
@@ -10,5 +24,9 @@
     "ru": "Disposal Unit",
     "zh": "抛弃舱段"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericmetal",
   "volume": 1200.0
 }

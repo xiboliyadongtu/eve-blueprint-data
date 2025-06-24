@@ -1,5 +1,17 @@
 {
-  "typeID": 353335,
+  "basePrice": 48000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Fahrzeuggeschützen.\n\nSchaltet trainierbare Skills zur Bedienung von Fahrzeuggeschützen frei.",
+    "en": "Skill at operating vehicle turrets.\r\n\r\nUnlocks skills that can be trained to operate vehicle turrets.",
+    "es": "Habilidad de manejo de torretas de vehículos.\n\nDesbloquea habilidades que se pueden entrenar para manejar vehículos.",
+    "fr": "Compétence permettant d'utiliser les tourelles de véhicule.\n\nDéverrouille les compétences vous permettant d'utiliser les tourelles de véhicule.",
+    "it": "Abilità nell'utilizzo delle torrette dei veicoli.\n\nSblocca le abilità che è possibile allenare per utilizzare le torrette dei veicoli.",
+    "ja": "車両タレットを操作するためのスキル。車両タレットを操作するためのスキルを鍛錬する。",
+    "ko": "차량용 터렛 운용을 위한 스킬입니다. <br><br>차량용 터렛 관련 스킬을 개방합니다.",
+    "ru": "Навык работы с турелями транспортного средства.\n\nОткрывает группу навыков, изучение которых позволяет управлять турелями, транспортного средства.",
+    "zh": "操作载具炮台的技能。解锁训练后可操作载具炮台的技能。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Bedienung: Geschütz",
     "en": "Turret Operation",
@@ -11,5 +23,7 @@
     "ru": "Управление турелями",
     "zh": "炮台操作"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

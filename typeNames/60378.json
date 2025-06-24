@@ -1,5 +1,18 @@
 {
-  "typeID": 60378,
+  "basePrice": 1000000.0,
+  "description": {
+    "de": "Spezialisierung auf die Aufbereitung zusamenhängender Erze. Ermöglicht es einer sachkundigen Person, Aufbereitungsanlagen mit wesentlich höherer Effizienz zu bedienen. 2 % Bonus auf den Aufbereitungsertrag für die folgenden zusammenhängenden Erztypen je Skillstufe: Hedbergite, Hemorphite, Jaspet, Kernite, Omber, Ytirium, Griemeer und Nocxite",
+    "en": "Specialization in Coherent Ore reprocessing. Allows a skilled individual to utilize reprocessing facilities at considerably greater efficiency.\r\n\r\n2% bonus to reprocessing yield per skill level for the following Coherent Ore types:\r\nHedbergite\r\nHemorphite\r\nJaspet\r\nKernite\r\nOmber\r\nYtirium\r\nGriemeer\r\nNocxite",
+    "es": "Especialización en el reprocesamiento de mena coherente. Permite a un individuo capacitado utilizar instalaciones de reprocesamiento de forma considerablemente más eficiente.\r\n\r\n2 % de bonificación al rendimiento del reprocesamiento por nivel de habilidad de los siguientes tipos de menas coherentes:\r\nHedbergita\r\nHemorfita\r\nJaspetita\r\nKernita\r\nÓmber\r\nYtirium\r\nGriemeer\r\nNocxita",
+    "fr": "Spécialisation dans le retraitement du minerai cohérent. Cette compétence permet d'améliorer considérablement l'efficacité des installations de retraitement. Bonus de 2 % sur le rendement du retraitement par niveau de compétence pour les types de minerai cohérent suivants : hedbergite, hemorphite, jaspet, kernite, omber, ytirium, griemeer, nocxite",
+    "ja": "コヒーレント鉱石の再処理に特化している。このスキルがあれば、再処理施設を利用する際の生産性をいちじるしく上げることができる。\r\n\r\n以下の種類のコヒーレント鉱石について、スキルレベル上昇ごとに、再処理収率が2%増加。\r\nヘッドバーガイト\r\nヘモファイト\r\nジャスペット\r\nケルナイト\r\nオンバー\r\nイティリウム\r\nグリーミーア\r\nノキサイト",
+    "ko": "응집성 광물 정제에 특화되었습니다. 정제시설의 효율성이 크게 증가합니다.\r\n\r\n스킬 레벨 당 응집성 광물 정제 산출량 2% 증가:\r\n헤버자이트\r\n헤모르파이트\r\n자스페트\r\n커나이트\r\n옴버\r\n이티륨\r\n그리미어\r\n녹사이트",
+    "ru": "Специализация в переработке цельной руды. Позволяет тому, кто владеет необходимым навыком, использовать цеха переработки с гораздо большей эффективностью. +2% к эффективности переработки за каждую степень освоения навыка при работе со следующими цельными рудами: хедбергит, хеморфит, джаспет, кернит, омбер, ютирий, гримир, нокцит.",
+    "zh": "提炼聚合矿石的专业技能。可以大大提高技能熟练者使用提炼设备时的效率。每升一级，下列聚合矿石的提炼产出提高2%：同位原矿、希莫非特、杰斯贝矿、水硼砂、奥贝尔石、钇岩、格里米尔、诺克希特"
+  },
+  "groupID": 1218,
+  "iconID": 33,
+  "marketGroupID": 1323,
   "name": {
     "de": "Coherent Ore Processing",
     "en": "Coherent Ore Processing",
@@ -10,5 +23,7 @@
     "ru": "Coherent Ore Processing",
     "zh": "聚合矿石处理技术"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

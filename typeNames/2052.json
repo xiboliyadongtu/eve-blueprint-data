@@ -1,5 +1,18 @@
 {
-  "typeID": 2052,
+  "capacity": 125.0,
+  "description": {
+    "de": "Dies ist ein Söldner-Kampfschiff. Seine Fraktionszugehörigkeit ist unbekannt. Es könnte sich, abhängig von seinem Auftrag, angriffslustig zeigen. Bedrohungsstufe: Mäßig",
+    "en": "This is a mercenary fighter.  Its faction alignment is unknown.  It may be aggressive, depending on its assignment.  Threat level: Moderate",
+    "es": "Caza mercenario. Se desconoce de qué facción es. Puede que sea agresivo, depende de su misión. Nivel de amenaza: moderado.",
+    "fr": "Il s'agit d'un combattant mercenaire.  Son alignement envers une quelconque faction n'est pas connu.  En fonction de la mission qui lui a été confiée, il peut être agressif.  Niveau de menace : moyen",
+    "ja": "傭兵艦載戦闘機。勢力とのつながりは不明。任務によっては好戦的になる。危険度:普通",
+    "ko": "용병 전투함입니다. 어느 팩션에 고용된 자인지 알 수 없습니다. 수행하고 있는 임무에 따라 공격성을 띨 수 있습니다. 위험도: 보통",
+    "ru": "Это наемный боец. Неизвестно, к какой фракции он принадлежит. Оно может быть агрессивным, всё зависит от поручения, выполняемого им.  Уровень опасности: умеренный",
+    "zh": "这是一个雇佣兵作战舰只，他所属的势力尚不明确。但是它可能具有攻击性，这取决于它所担负的任务。威胁等级：中等"
+  },
+  "graphicID": 1830,
+  "groupID": 286,
+  "mass": 1970000.0,
   "name": {
     "de": "Mercenary Trainee",
     "en": "Mercenary Trainee",
@@ -10,5 +23,10 @@
     "ru": "Mercenary Trainee",
     "zh": "雇佣兵训练员"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 45.98,
+  "sofFactionName": "guristas",
   "volume": 19700.0
 }

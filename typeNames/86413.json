@@ -1,5 +1,20 @@
 {
-  "typeID": 86413,
+  "basePrice": 40000000.0,
+  "description": {
+    "de": "Ein Zugangsschlüssel für das planetare Verteidigungsnetzwerk. Diese Zugangsschlüssel können verwendet werden, um das Verteidigungssystem auf dem Planeten abzuschalten, der sie erzeugt hat. Sie sind für alle Parteien wertvoll, die an Aktionen in Konfliktzonen beteiligt sind – um Informationen darüber zu erhalten, wie zukünftige Codes zu knacken sind, zur Verteidigung ihrer eigenen Planeten gegen Angriffe zu sichern oder als Druckmittel gegen andere Kräfte.",
+    "en": "A Planetary defense network passkey. These passkeys can be used to shut down the defense system on the planet that generated them. \r\n\r\nThey are valuable to all parties involved in actions within conflict zones whether that is to try and gain information on how to crack future codes, secure the defense of their own planets against attacks, or you as bargaining chips with other forces.",
+    "es": "Una contraseña de red de defensa planetaria. Estas contraseñas se pueden utilizar para desactivar el sistema de defensa del planeta que las generó. \r\n\r\nSon valiosas para todas las partes involucradas en acciones dentro de zonas de conflicto, ya sea para tratar de obtener información sobre cómo descifrar códigos futuros, asegurar la defensa de sus propios planetas contra ataques o como moneda de cambio con otras fuerzas.",
+    "fr": "Une clé d'accès du réseau de défense planétaire. Ces clés d'accès peuvent être utilisées pour désactiver le système de défense sur la planète qui les a générées. Elles ont de la valeur pour toutes les parties impliquées dans les zones de conflit, que ce soit pour tenter de recueillir des informations sur le décryptage des codes futurs, sécuriser la défense de leurs propres planètes contre les attaques, ou vous servir de monnaie d'échange avec d'autres forces.",
+    "ja": "惑星防衛ネットワークのパスキー。こういったパスキーを使えば、生成された惑星の防衛システムをシャットダウンできる。 \r\n\r\n紛争エリアでは、将来的に生成されるコードの解読方法に関する情報の入手、または支配下にある惑星への襲撃に対する防衛力や、他勢力との取引材料となるカプセラの確保などを目的として様々な当事者が活動しているが、このパスキーはそれら全てにとって重要な価値を持っている。",
+    "ko": "행성 방어 네트워크 출입키입니다. 출입키를 사용하면 해당 출입키가 생성된 행성의 방어 시스템을 비활성화할 수 있습니다.\r\n\r\n여러 세력이 각자의 목표에 따라 출입키를 노리고 있습니다. 앞으로 행성 방어 네트워크에 생성될 코드를 해제할 목적으로 출입키를 노리기도 하며, 행성의 방어를 강화하려 출입키를 쫓기도 합니다. 또는 출입키를 팔아 한 몫 챙기려는 세력도 있죠.",
+    "ru": "Код доступа к планетарной системе обороны. Такие коды доступа используются для отключения систем обороны тех планет, для которых они предназначены. Коды доступа представляют ценность для всех участников конфликтов в зонах военных действий. С их помощью можно научиться взламывать другие коды или обеспечить защиту своих планет от нападения. Кроме того, их можно использовать как разменную монету в отношениях с заинтересованными лицами.",
+    "zh": "行星防御网络密钥。这些密钥可用于关闭生成密钥的行星上的防御系统。无论是想要获取如何破解未来代码的信息，还是确保自身星球不受攻击，或是作为与其他势力交易的筹码，这些密钥对参与冲突地区行动的各方都很有价值。"
+  },
+  "groupID": 314,
+  "iconID": 2038,
+  "marketGroupID": 1863,
+  "mass": 1.0,
+  "metaGroupID": 1,
   "name": {
     "de": "PDN Passkey",
     "en": "PDN Passkey",
@@ -10,5 +25,7 @@
     "ru": "PDN Passkey",
     "zh": "PDN密钥"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

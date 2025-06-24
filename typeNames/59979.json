@@ -1,5 +1,16 @@
 {
-  "typeID": 59979,
+  "description": {
+    "de": "Diese Plattform bietet ein Interface für Sicherheitsschlüsselgeneratoren, die vom Prüfpersonal der Secure Commerce Commission genutzt werden. SCC-Schlüsselhalter können ihre zugeteilten Schlüssel von dieser Plattform abholen, sofern sie von dem Zentrum für sichere Verwaltung und Revisionskontrolle tiefer in der SCC-Schlüsselspeicheranlage dazu autorisiert wurden. Normalerweise werden Schlüssel nur mit Erlaubnis des Revisionskontrollpersonals tief in der Anlage generiert. <b>Wird die Anlage jedoch von einem wagemutigen Team unerlaubt betreten und gehackt und ihre Sicherheitskräfte neutralisiert, könnte an diesem Ort ein Sicherheitsschlüsselgenerator verfügbar werden.</b>",
+    "en": "This platform provides an interface with Secure Key Generators that are used by audit and inspection staff of the Secure Commerce Commission. SCC Keyholders can pick up their assigned keys from this platform under authorization from the secure administration and audit control center located deeper within the SCC Key Storage site.\r\n\r\nNormally, no keys would be generated without the permission of the audit control staff deep within the site. <b>However, should the site be breached, hacked, and security response forces neutralized by a sufficiently daring team, a Secure Key Generator may become accessible at this location.</b>",
+    "es": "Esta plataforma proporciona una interfaz con generadores de claves seguras utilizadas por el personal de auditoría e inspección de la Comisión de Comercio Seguro. Los responsables de las claves de la CCS pueden recoger las claves que se les han asignado en esta plataforma con autorización del centro de control de auditoría y administración segura, situado en más adentro en la zona de almacenamiento de claves de la CCS.\n\nNormalmente, no se generarán claves sin el permiso del personal de control de auditoría en el interior de la zona. <b>Sin embargo, en caso de que un equipo con suficiente valor se atreviera a entrar en la zona, hackearla y neutralizar a las fuerzas de seguridad, podría acceder al generador de claves seguras de esta ubicación.</b>",
+    "fr": "Cette plate-forme fournit une interface avec les générateurs de clé sécurisée utilisés par le personnel de l'autorité de contrôle et d'inspection de la Commission du commerce sécurisé. Les titulaires de clés de la CCS peuvent récupérer celles qui leur sont assignées via cette plate-forme, avec l'autorisation des centres sécurisés des services d'administration et d'inspection, situés plus en profondeur sur le site de stockage de clés de la CCS. Normalement, aucune clé ne doit être générée sans permission du personnel d'inspection, retranché dans les profondeurs du site. <b>Néanmoins, en cas d'intrusion sur le site ou de piratage, et si les forces d'intervention de sécurité étaient neutralisées par une équipe assez audacieuse, un générateur de clé sécurisée pourrait y devenir accessible.</b>",
+    "ja": "このプラットフォームは、セキュア通商委員会の監査および査察スタッフが使用するセキュアキージェネレーターとのインターフェイスである。SCCのキーホルダーは、SCCキー保管サイトの奥深くに存在するセキュリティ管理および監査コントロールセンターの承認のもと、このプラットフォームを通じて自らに割りてられたキーを受け取ることができる。\n\n\n\n通常、このサイトの中枢にいる監査コントロールスタッフの許可なしに生成することはできない。<b>しかし、サイトへの侵入やハッキング、あるいはセキュリティ対応部隊が大胆不敵なチームによって無力化された場合、ここにあるセキュアキージェネレーターにアクセスすることが可能になるかもしれない。</b>",
+    "ko": "해당 플랫폼은 보안키 생성을 위한 인터페이스를 제공합니다. SCC 키홀더들은 안전무역위원회의 인가를 받아 보안키를 수령할 수 있습니다.<br><br>SCC 감사팀의 허가 없이 보안키를 생성할 수 없습니다. <b>단, 방어 부대 무력화 또는 사이트 해킹 등의 강압적인 수단을 통해 보안키 생성기를 획득할 수 있습니다.</b>",
+    "ru": "Эта платформа предоставляет доступ к интерфейсу генераторов ключей безопасности, которые используются аудиторами и инспекторами Комиссии по безопасной торговле. Хранители ключей могут получить предназначенные для них ключи на этой платформе по разрешению службы безопасности и Центра управления и аудита, расположенного в защищённом районе, где хранится ключ. Обычно ключи невозможно сгенерировать без санкции работников центра управления, <b>но если какая-нибудь дерзкая команда рискнёт проникнуть в район, взломать хранилище и нейтрализовать сотрудников службы безопасности, доступ к генератору ключей можно получить прямо здесь.</b>",
+    "zh": "这座平台可以提供安全密钥生成器的接口，方便商业安全委员会的职员进行审计和检验。商业安全委员会密钥持有者可以从这座平台获取他们专属的密钥，由位于商业安全委员会密钥储存地点深处的安全管理处和审计控制中心授权。\n\n\n\n通常来讲，未经审计控制专员许可的密钥是不能生成的。<b>但是如果地点被破译而且防御部队被干掉，安全密钥生成器就可以在这个地点使用。</b>"
+  },
+  "graphicID": 2403,
+  "groupID": 226,
   "name": {
     "de": "ESS Key Generator Interface",
     "en": "ESS Key Generator Interface",
@@ -10,5 +21,8 @@
     "ru": "ESS Key Generator Interface",
     "zh": "事件监测装置密钥生成器接口"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 1255.0,
+  "sofFactionName": "genericbase"
 }

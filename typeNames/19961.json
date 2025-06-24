@@ -1,5 +1,18 @@
 {
-  "typeID": 19961,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Die berühmte Station Ultima beherbergt geheime Entwicklungsprojekte und Produktionsstätten. Man sagt, dass sich die ranghöchsten Anführer von Sansha's Nation von Zeit zu Zeit hier treffen.",
+    "en": "The famed Station Ultima houses secret development projects and production. The most high ranking leaders of Sansha's Nation are rumoured to meet here from time to time.",
+    "es": "La famosa Estación Última alberga proyectos de desarrollo y producciones secretos. Se rumorea que los líderes de alto rango de la Nación Sansha se reúnen aquí de vez en cuando.",
+    "fr": "La célèbre station Ultima abrite une production et des projets de développement secrets. La rumeur dit que les chefs de haut rang de la Sansha's Nation se retrouveraient là de temps à autre.",
+    "ja": "世に知られたステーションウルティマでは、極秘の開発計画や生産活動が行われている。この施設では時折、サンシャ国の最高指導者がほぼ勢ぞろいして会合しているという噂がある。",
+    "ko": "악명 높은 울티마 정거장으로 현재 이곳에서는 다양한 개발 및 생산 프로젝트가 진행되고 있습니다. 때때로 산샤 네이션의 고위 간부들이 모여 회담을 갖습니다..",
+    "ru": "На прославленной базе Station Ultima разрабатываются секретные проекты. По слухам, на этой станции иногда собираются руководители Sansha высокого ранга.",
+    "zh": "著名的奥提马太空站贮藏着机密研发项目和成果。据传，萨沙共和国的最高级别领导不时在这里举行会议。"
+  },
+  "graphicID": 2364,
+  "groupID": 495,
+  "mass": 1000.0,
   "name": {
     "de": "Station Ultima",
     "en": "Station Ultima",
@@ -10,5 +23,11 @@
     "ru": "Station Ultima",
     "zh": "奥提马太空站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 8960.0,
+  "sofFactionName": "sanshabase",
+  "soundID": 20199,
   "volume": 1000.0
 }

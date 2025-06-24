@@ -1,5 +1,19 @@
 {
-  "typeID": 4957,
+  "basePrice": 2234.0,
+  "capacity": 8.0,
+  "description": {
+    "de": "Bewirkt eine Soforteinspeisung von Energie in den Energiespeicher.",
+    "en": "Provides a quick injection of power into the capacitor.",
+    "es": "Inyectan rápidamente potencia en el condensador.",
+    "fr": "Permet de faire bénéficier le capaciteur d'un surcroît de puissance temporaire.",
+    "ja": "キャパシタを急速充電することができる。",
+    "ko": "캐패시터에 추가 전력을 주입합니다.",
+    "ru": "Обеспечивает быстрое повышение мощности конденсатора.",
+    "zh": "向电容提供快速能量注入。"
+  },
+  "groupID": 76,
+  "iconID": 1031,
+  "metaGroupID": 1,
   "name": {
     "de": "Micro Brief Capacitor Overcharge I",
     "en": "Micro Brief Capacitor Overcharge I",
@@ -10,5 +24,8 @@
     "ru": "Micro Brief Capacitor Overcharge I",
     "zh": "微型终端电容超载装置 I"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
   "volume": 2.5
 }

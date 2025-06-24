@@ -1,5 +1,16 @@
 {
-  "typeID": 20698,
+  "description": {
+    "de": "Eine Blackbird, die von einem Agenten geflogen wird.",
+    "en": "A Blackbird piloted by an agent.",
+    "es": "Blackbird pilotada por un agente.",
+    "fr": "Un Blackbird piloté par un agent.",
+    "ja": "エージェントを乗せたブラックバード。",
+    "ko": "에이전트가 조종하는 블랙버드입니다.",
+    "ru": "Корабль класса Blackbird, управляемый агентом.",
+    "zh": "由代理人驾驶的黑鸟级飞船。"
+  },
+  "graphicID": 311,
+  "groupID": 517,
   "name": {
     "de": "Sagimoro's Blackbird",
     "en": "Sagimoro's Blackbird",
@@ -10,5 +21,9 @@
     "ru": "Sagimoro's Blackbird",
     "zh": "萨格莫洛的黑鸟级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 175.0,
+  "sofFactionName": "caldaribase"
 }

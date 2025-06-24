@@ -1,5 +1,18 @@
 {
-  "typeID": 32471,
+  "capacity": 3200.0,
+  "description": {
+    "de": "Dieser Luxus-All-Liner scheint in einem früheren Gefecht schweren Schaden gelitten zu haben. Obwohl er noch intakt ist, wird Reparatur nötig sein, bevor der Warpantrieb wieder funktionstüchtig ist.",
+    "en": "This luxury space liner appears to have suffered heavy damage in an earlier firefight. Although still intact, it will need some repairs before the Warp Drive becomes functional again.",
+    "es": "Este crucero de lujo parece haber sufrido daños graves en una refriega anterior. Aunque sigue intacto, necesita reparaciones para que el motor de warp vuelva a funcionar.",
+    "fr": "Ce vaisseau spatial de luxe semble avoir subi de lourds dégâts au cours d'un précédent combat. S'il est encore intact, des réparations sont nécessaires au niveau de son propulseur de warp.",
+    "ja": "この高級なスペースリニアは、先の銃撃戦で深刻な被害を受けたようだ。原型は留めているが、ワープドライブが再び動くようになるには修復が必要である。",
+    "ko": "포격전에 의해 손상된듯 보이는 호화 우주 여객선입니다. 여전히 가동 가능한 상태이나 워프 드라이브를 재작동 시키기 위해 수리가 필요합니다.",
+    "ru": "Похоже, что этому прогулочному лайнеру нанесли тяжелые повреждения в перестрелке. Корпус пока цел, но квантовому двигателю потребуется ремонт.",
+    "zh": "这艘豪华星际航班看上去受到了严重的损坏，应该是在最近发生的交火中造成的。"
+  },
+  "graphicID": 330,
+  "groupID": 286,
+  "mass": 13075000.0,
   "name": {
     "de": "Damaged Vessel",
     "en": "Damaged Vessel",
@@ -10,5 +23,10 @@
     "ru": "Damaged Vessel",
     "zh": "受损的舰船"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 287.0,
+  "sofFactionName": "gallentebase",
   "volume": 115000.0
 }

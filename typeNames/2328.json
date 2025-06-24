@@ -1,5 +1,18 @@
 {
-  "typeID": 2328,
+  "basePrice": 1.0,
+  "description": {
+    "de": "Ungeachtet der Tatsache, wie alt diese Technologie ist, gibt es dennoch keine kosteneffektivere Methode, um die Prozessoren von Computern zu kühlen, als ganz gewöhnliches Wasser, das mithilfe von bewährten Methoden nach Bedarf schnell erhitzt oder abgekühlt werden kann. Meistens kommen thermal leitende Schlauchsysteme zum Einsatz, die entlang der wichtigsten Komponenten geführt werden und über Kühlkörper verlaufen, um die Betriebstemperatur zu regeln.",
+    "en": "Despite how ancient the technology is, there is still no method more cost-effective for cooling computer processing units than ordinary water, which can be heated and cooled rapidly via any number of proven methods. Most often, thermally conductive tubing makes its way through all of the vital components and over heat sinks, helping to regulate operating temperatures.",
+    "es": "Pese a la antigüedad de la tecnología, todavía no existe un método más rentable para enfriar las unidades de procesamiento de los ordenadores que el agua, que se puede calentar y enfriar rápidamente a través de varios métodos probados. La mayoría de las veces, los tubos termoconductores se abren paso a través de todos los componentes vitales y sobre los disipadores de calor, lo que ayuda a regular las temperaturas de funcionamiento.",
+    "fr": "Malgré l'ancienneté de la technologie, il n'existe aucune méthode plus rentable pour refroidir les unités de traitement d'un ordinateur que de l'eau ordinaire, qui peut être réchauffée et refroidie rapidement par l'intermédiaire de plusieurs méthodes. La plupart du temps, le tube à conductivité thermique parvient à atteindre tous les composants vitaux et les dissipateurs de chaleur, permettant ainsi de réguler la température de fonctionnement.",
+    "ja": "コンピュータの処理ユニットを急速に加熱または冷却する方法は数多く実証されているものの、最も費用対効果の高い冷却方法は、テクノロジーがいくら古くても、普通の水を使う方法である。多くの場合、あらゆる重要部品の間や放熱機の上に熱伝導性の高いチューブを通し、稼働温度を制御する。",
+    "ko": "오래전에 개발되었지만 아직까지도 수랭방식만큼 저렴하면서 효율적인 시스템 냉각 방식은 존재하지 않습니다. 수랭방식은 장치에서 발생한 열을 액체 매질에 전달한 뒤 냉각수를 순환시켜 외부로 방출합니다. 고온을 버티도록 설계된 수랭 튜브는 핵심 부품부터 외진 구석에 있는 장치까지 그물망처럼 퍼져있어 각종 설비로부터 발생하는 열을 효율적으로 통제할 수 있습니다.",
+    "ru": "Несмотря на то, что метод водного охлаждения компьютерных процессоров довольно древний, он тем не менее остается наиболее экономичным, поскольку в нем используется самая обычная вода, которую можно нагревать и быстро охлаждать любым из множества испытанных методов. Для регулирования рабочих температур обычно применяются теплопроводные трубки, проходящие вдоль основных компонентов и над теплоприемниками.",
+    "zh": "尽管水冷是一种非常原始的技术，但到迄今为止还没有一项更具性价比的技术来给计算机处理器降温。毕竟，人们已经有很多方法来实现对水的快速升降温。通常的工作方式是，导热管遍布各个零部件以及散热槽，帮助控制工作环境的温度。"
+  },
+  "groupID": 1034,
+  "iconID": 10052,
+  "marketGroupID": 1335,
   "name": {
     "de": "Water-Cooled CPU",
     "en": "Water-Cooled CPU",
@@ -10,5 +23,7 @@
     "ru": "Water-Cooled CPU",
     "zh": "水冷CPU"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.75
 }

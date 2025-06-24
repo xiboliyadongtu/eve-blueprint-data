@@ -1,5 +1,17 @@
 {
-  "typeID": 30868,
+  "description": {
+    "de": "Einzelne besondere räumliche Erscheinungen können Ihr Schiff auf seltsame Weise beeinträchtigen.",
+    "en": "Local spatial phenomena may cause strange effects on your ship systems.",
+    "es": "Los fenómenos espaciales locales pueden provocar efectos extraños en los sistemas de la nave.",
+    "fr": "Phénomène local de l'espace pouvant avoir d'étranges effets sur les systèmes de votre vaisseau.",
+    "ja": "周囲の空間で発生している現象が、船のシステムに不可解な効果を与えるかもしれない。",
+    "ko": "함선 시스템에 영향을 줄 수 있는 공간현상이 감지되었습니다.",
+    "ru": "Излучение местной звезды влияет на работу бортовых систем вашего корабля.",
+    "zh": "本地空间现象可能会对你的舰船系统造成影响。"
+  },
+  "graphicID": 1217,
+  "groupID": 920,
+  "mass": 1.0,
   "name": {
     "de": "Class 5 Pulsar Effects",
     "en": "Class 5 Pulsar Effects",
@@ -9,6 +21,96 @@
     "ko": "5급 펄서 효과",
     "ru": "Class 5 Pulsar Effects",
     "zh": "五类脉冲星效果光束"
+  },
+  "portionSize": 250,
+  "published": true,
+  "sofFactionName": "genericbase",
+  "traits": {
+    "iconID": 24306,
+    "miscBonuses": [
+      {
+        "bonus": 43.0,
+        "bonusText": {
+          "de": "Reduktion der Wiederaufladezeit des Energiespeichers",
+          "en": "reduction in capacitor recharge time",
+          "es": "de reducción del tiempo de carga del condensador.",
+          "fr": "de réduction au temps de recharge du capaciteur",
+          "ja": "キャパシタのリチャージ時間が短縮",
+          "ko": "캐패시터 충전시간 감소",
+          "ru": "уменьшение времени перезарядки накопителя",
+          "zh": "电容回充速度加成"
+        },
+        "importance": 2,
+        "isPositive": true,
+        "unitID": 105
+      },
+      {
+        "bonus": 43.0,
+        "bonusText": {
+          "de": "Abzug auf alle Panzerungsresistenzen",
+          "en": "penalty to armor resistances",
+          "es": "de penalización a las resistencias de blindaje.",
+          "fr": "de pénalité aux résistances de blindage",
+          "ja": "アーマーレジスタンスにペナルティ",
+          "ko": "장갑 저항력 페널티",
+          "ru": "штраф к сопротивляемости брони",
+          "zh": "装甲抗性惩罚"
+        },
+        "importance": 4,
+        "isPositive": false,
+        "unitID": 105
+      },
+      {
+        "bonus": 86.0,
+        "bonusText": {
+          "de": "Bonus auf die HP von Schilden",
+          "en": "bonus to shield hitpoints",
+          "es": "de bonificación a los puntos de vida de los escudos.",
+          "fr": "de bonus aux points de vie du bouclier",
+          "ja": "シールドHPが増加",
+          "ko": "실드량 증가",
+          "ru": "бонус к запасу прочности щитов",
+          "zh": "护盾值加成"
+        },
+        "importance": 1,
+        "isPositive": true,
+        "unitID": 105
+      },
+      {
+        "bonus": 86.0,
+        "bonusText": {
+          "de": "Bonus auf die Transfermenge von Nosferatu- und Energieneutralisierer-Modulen",
+          "en": "bonus to Energy Nosferatu and Neutralizer drain amount",
+          "es": "de bonificación a la cantidad drenada por el neutralizador y el nosferatu de energía.",
+          "fr": "de bonus au volume d'énergie drainée par les Nosferatu à énergie et les neutraliseurs d'énergie",
+          "ja": "エネルギーノスフェラトゥとニュートラライザーの吸収量が増加",
+          "ko": "에너지 노스페라투 및 뉴트럴라이저 흡수량 보너스",
+          "ru": "бонус к эффективности энергопоглощения и энергонейтрализатора",
+          "zh": "掠能器和能量中和器吸取量加成"
+        },
+        "importance": 3,
+        "isPositive": true,
+        "unitID": 105
+      },
+      {
+        "bonus": 86.0,
+        "bonusText": {
+          "de": "Erhöhung des Signaturradius von Schiffen",
+          "en": "increase in ship signature radius",
+          "es": "de aumento del radio de la señal de la nave.",
+          "fr": "d'augmentation du rayon de signature du vaisseau",
+          "ja": "艦船のシグネチャ半径が拡大",
+          "ko": "함선 시그니처 반경 증가",
+          "ru": "увеличение размера сигнатуры корабля",
+          "zh": "舰船信号半径提高"
+        },
+        "importance": 5,
+        "isPositive": false,
+        "unitID": 105
+      }
+    ],
+    "roleBonuses": [],
+    "types": {}
   },
   "volume": 20.0
 }

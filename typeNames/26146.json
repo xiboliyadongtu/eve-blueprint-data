@@ -1,5 +1,18 @@
 {
-  "typeID": 26146,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Das Com Relay wird in Umgebungen mit starken Interferenzen verwendet. Örtliche Piraten verwenden es, um sich über die Booster-Industrie zu unterhalten. Es ist kennwortgeschützt, aber vermutlich nicht besonders gut.",
+    "en": "The com relay is used in environments with high interference. It is used by the local pirates to chat about the booster industry. It is password protected, but probably not all that well.",
+    "es": "El relé de comunicaciones se usa en entornos con altas interferencias. Los piratas locales lo usan para hablar sobre la industria de los potenciadores. Está protegido por una contraseña, pero probablemente no sea muy eficaz.",
+    "fr": "Relais utilisé dans des environnements à fortes interférences. Il permet aux pirates de la région de discuter au sujet de l'industrie du booster. Il est protégé par mot de passe, mais rien de bien méchant.",
+    "ja": "混信が起こりやすい環境で使用される通信中継所。地元の海賊はこれを使ってブースターインダストリーの動向について情報を交換している。パスワードで保護されているが、それほど確実なものではないはずだ。",
+    "ko": "해적들이 운용하는 통신중계기로 강력한 방해 전파가 발생하는 환경에서 사용됩니다. 지역 부스터 산업에 대한 논의를 진행할 때 주로 사용됩니다. 암호가 걸려있으나 쉽게 해킹할 수 있을 것 같습니다.",
+    "ru": "Коммуникационный ретранслятор используется в регионах с большим количеством помех. Местные пираты пользуются им, чтобы поболтать о производстве бустеров. Она защищен паролем, но видимо, не очень хорошо.",
+    "zh": "通信中继站用于干扰严重的环境下，当地海盗用它来聊关于增效剂工业的信息。它由密码保护，不过保护力度可能并不强。"
+  },
+  "graphicID": 1683,
+  "groupID": 1207,
+  "mass": 10000.0,
   "name": {
     "de": "Com Relay",
     "en": "Com Relay",
@@ -10,5 +23,10 @@
     "ru": "Com Relay",
     "zh": "通信中继站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 60.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

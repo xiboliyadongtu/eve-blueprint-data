@@ -1,5 +1,18 @@
 {
-  "typeID": 81044,
+  "basePrice": 80000000.0,
+  "description": {
+    "de": "Skill zum Betrieb von Upwell-Frachtern.",
+    "en": "Skill at operating Upwell freighters.",
+    "es": "Habilidad en el manejo de cargueros de Upwell.",
+    "fr": "Compétence d'utilisation des cargos Upwell.",
+    "ja": "アップウェルの超大型輸送艦を操作するためのスキル。",
+    "ko": "업웰 컨소시엄 프레이터 운용을 위한 스킬입니다.",
+    "ru": "Навык управления фрейтерами «Апвелл».",
+    "zh": "操作昇威货舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Upwell Freighter",
     "en": "Upwell Freighter",
@@ -10,5 +23,7 @@
     "ru": "Upwell Freighter",
     "zh": "昇威货舰"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

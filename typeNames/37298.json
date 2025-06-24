@@ -1,5 +1,21 @@
 {
-  "typeID": 37298,
+  "capacity": 1.0,
+  "description": {
+    "de": "Dieser gewaltige Laser, eine der größten zurzeit existierenden Waffen, ist für ausgedehnte Belagerungen stationärer Einrichtungen und anderer großer Ziele konzipiert.\n\nHinweis: Kann nur in Schiffe der Capital-Klasse eingebaut werden.\n\n\n\nBenötigt entweder reguläre oder fortschrittliche Frequenzkristall-Typen als Munition: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray, Conflagration, Scorch.",
+    "en": "One of the largest weapons currently in existence, this massive laser is designed for extended sieges of stationary installations and other large targets.\r\nNote: May only be fitted to capital class ships.\r\n\r\nRequires either regular or advanced frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray, Conflagration, Scorch.",
+    "es": "Este enorme láser, una de las armas más grandes que existen actualmente, ha sido diseñado para asedios prolongados a instalaciones estacionarias y otros objetivos de gran tamaño.\n\nAviso: Solo se puede equipar en naves capitales.\n\n\n\nRequiere un tipo de munición de cristal de frecuencia normal o avanzado: gamma, infrarrojos, microondas, multifrecuencia, radiofrecuencia, estándar, ultravioleta, rayos X, Conflagration, Scorch.",
+    "fr": "Parmi les armes les plus colossales jamais conçues, ce laser est destiné au siège de longue durée des structures stationnaires et autres cibles massives.\n\nRemarque : réservé aux vaisseaux de classe capital.\n\n\n\nMunitions standards et avancées : cristaux de fréquence gamma, infrarouge, micro-onde, multifréquence, radio, standard, ultraviolet, rayon X, conflagration, calcination.",
+    "ja": "現存する中でも最大級の武器であるこの巨大なレーザー砲は、固定式基地などの大きな標的に対する大規模な包囲攻撃用に設計されている。注： 母艦級の艦船にのみ装着可能。装填可能な標準型／高性能フリーケンシークリスタルのタイプ : ガンマ、赤外線、マイクロ波、多周波、放射線、標準、紫外線、エックス線、コンフラグレーション弾、スコーチ弾。",
+    "ko": "현존하는 가장 거대한 레이저 무기 중 하나로 장기간 공성전 및 대형 목표물 타격에 적합합니다. <br><br>참고: 캐피탈급 함선에만 장착이 가능합니다. <br><br>사용 가능한 프리퀀시 크리스탈: 감마선, 적외선, 마이크로파, 멀티프리퀀시, 라디오파, 스탠다드, 자외선, 엑스선, 고열, 스코치.",
+    "ru": "Этот гигантский лазер является одним из самых больших орудий в мире; он предназначен для осады стационарных объектов и обстрела других крупных целей.\n\nВнимание! Этим модулем могут оснащаться исключительно корабли большого тоннажа.\n\n\n\nСледует заряжать стандартными или усовершенствованными частотными кристаллами: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray, Conflagration, Scorch.",
+    "zh": "现今最大型的武器之一，这种大型激光炮专为针对固定装置和其它大型目标的长期围攻而特别设计。\n\n注：只能装配在旗舰级舰船上。\n\n\n\n使用的常规或高级频率晶体弹药类型：伽玛、红外线、微波、多频、射频、标准、紫外线、X射线、爆燃和灼烧。"
+  },
+  "graphicID": 11221,
+  "groupID": 53,
+  "iconID": 2841,
+  "marketGroupID": 774,
+  "mass": 40000.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Dual Giga Pulse Laser II",
     "en": "Dual Giga Pulse Laser II",
@@ -10,5 +26,9 @@
     "ru": "Dual Giga Pulse Laser II",
     "zh": "双联千兆级脉冲激光器 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "sarum",
+  "variationParentTypeID": 20444,
   "volume": 4000.0
 }

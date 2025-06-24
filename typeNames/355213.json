@@ -1,5 +1,17 @@
 {
-  "typeID": 355213,
+  "basePrice": 567000.0,
+  "description": {
+    "de": "Skill zur Benutzung von Schrotflinten.\n\n-3% auf die Feuerrate von Schrotflinten pro Skillstufe.",
+    "en": "Skill at handling shotguns.\r\n\r\n+3% shotgun damage against shields per level.",
+    "es": "Habilidad de manejo de escopetas. \n\n+3% a la cadencia de disparo de las escopetas por nivel.",
+    "fr": "Compétence permettant de manipuler les fusils à pompe.\n\n3 % de réduction de la cadence de tir du fusil à pompe par niveau.",
+    "it": "Abilità nel maneggiare fucili a pompa.\n\n3% di riduzione della cadenza di fuoco del fucile a pompa per livello.",
+    "ja": "ショットガンを操作するためのスキル。\n\nレベル上昇ごとに、ショットガンがシールドに与えるダメージが3%増加する。",
+    "ko": "샷건 운용을 위한 스킬입니다.<br><br>매 레벨마다 실드에 가해지는 샷건 피해량 3% 증가",
+    "ru": "Навык обращения с дробовиками.\n\n3% повышение скорострельности дробовиков на каждый уровень.",
+    "zh": "使用散弹枪的技能。每升一级，散弹枪对护盾造成的伤害提高3%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Fertigkeit: Schrotflinte",
     "en": "Shotgun Proficiency",
@@ -11,5 +23,7 @@
     "ru": "Эксперт по дробовикам",
     "zh": "散弹枪熟练度"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

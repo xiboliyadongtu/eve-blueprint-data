@@ -1,5 +1,19 @@
 {
-  "typeID": 26370,
+  "description": {
+    "de": "Diese Schiffsmodifikation wurde dazu entwickelt, die Stromnetzkapazität eines Schiffes zu vergrößern.",
+    "en": "This ship modification is designed to increase a ship's powergrid capacity.",
+    "es": "Esta modificación de nave está diseñada para aumentar la capacidad del sistema de potencia.",
+    "fr": "Cette modification de vaisseau est conçue pour améliorer la capacité du réseau d'alimentation d'un vaisseau.",
+    "ja": "パワーグリッドを拡張することができる。",
+    "ko": "리그 장착 시 함선의 파워그리드 용량이 증가합니다.",
+    "ru": "Эта модификация корабля увеличивает общую мощность энергосети.",
+    "zh": "这个飞船改装件用于增加船只的能量栅格容量。"
+  },
+  "groupID": 781,
+  "iconID": 3195,
+  "marketGroupID": 1224,
+  "mass": 200.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Large Ancillary Current Router II",
     "en": "Large Ancillary Current Router II",
@@ -10,5 +24,9 @@
     "ru": "Large Ancillary Current Router II",
     "zh": "大型辅助电源路由器 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 100.0,
+  "variationParentTypeID": 25956,
   "volume": 20.0
 }

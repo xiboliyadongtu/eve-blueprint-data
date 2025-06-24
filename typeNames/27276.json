@@ -1,5 +1,17 @@
 {
-  "typeID": 27276,
+  "description": {
+    "de": "Die Black Box enthält Aufzeichnungen der letzten Gespräche aus einem Raumschiff, sowie verschiedene Daten die Aufschluss über dessen Zerstörung geben.",
+    "en": "The black box contains the last communication from a space ship as well as various data regarding its destruction.",
+    "es": "La caja negra contiene la última comunicación de una nave espacial, además de varios datos sobre su destrucción.",
+    "fr": "La boîte noire contient les dernières communications d'un vaisseau ainsi que diverses données concernant sa destruction.",
+    "ja": "艦船が破壊される直前の通信内容や、原因に関連する様々なデータが保存されている。",
+    "ko": "함선 파괴 경위에 대한 기록와 마지막으로 주고받은 통신 내용이 포함된 블랙박스입니다.",
+    "ru": "Черный ящик содержит последние коммуникационные данные с космического корабля, а также различную информацию о его разрушении.",
+    "zh": "此黑匣子含有舰船在被毁前最后的通讯记录以及关于这次灾难的各种数据。"
+  },
+  "groupID": 521,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Black Box",
     "en": "Black Box",
@@ -10,5 +22,7 @@
     "ru": "Black Box",
     "zh": "黑匣子"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

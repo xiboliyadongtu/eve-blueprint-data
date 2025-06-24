@@ -1,5 +1,18 @@
 {
-  "typeID": 26784,
+  "basePrice": 20.0,
+  "description": {
+    "de": "Produktionsabfall kann für einige Leute Müll sein, allerdings für andere wertvolles Rohstoffmaterial bedeuten.",
+    "en": "Production waste can mean garbage to some but valuable resource material to others.",
+    "es": "Los residuos de producción pueden ser basura para algunos, pero un material valioso para otros.",
+    "fr": "Si les déchets de production sont considérés comme des ordures par les uns, ce sont de précieuses ressources pour d'autres.",
+    "ja": "産業廃棄物は、ある者にとってはただのゴミだが、別の者にとっては貴重なリサイクル原料となる。",
+    "ko": "생산 폐기물은 대부분 쓰레기로 취급되지만 다른 이에게는 가치 있는 자원이 될 수도 있습니다.",
+    "ru": "Для кого-то отходы производства - мусор, а для кого-то - ценный материальный ресурс.",
+    "zh": "对于一些人来说，报废的各种物资和产品都是一文不值的垃圾。但对于另一部分人来说，这些都是非常有价值的资源。"
+  },
+  "groupID": 314,
+  "iconID": 1179,
+  "mass": 25000000.0,
   "name": {
     "de": "Heap-Load of Garbage",
     "en": "Heap-Load of Garbage",
@@ -10,5 +23,7 @@
     "ru": "Heap-Load of Garbage",
     "zh": "装满的垃圾袋"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 2500.0
 }

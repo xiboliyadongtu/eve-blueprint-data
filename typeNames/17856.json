@@ -1,5 +1,17 @@
 {
-  "typeID": 17856,
+  "description": {
+    "de": "Diese Sicherheitszutrittskarte ermöglicht den Zugang zur Sklavendisposition. Das Beschleunigungstor bleibt eine kurze Zeit aktiviert und die Karte wird entwertet, nachdem die Kartendaten in den Aktivierungsmechanismus des Tores eingelesen worden sind.",
+    "en": "This security passkey grants access to slave processing. The gate will remain open for a short period of time and the passkey will be rendered useless after uploading the key's data to the gate's activation device.",
+    "es": "Este pase de seguridad otorga acceso al procesamiento de esclavos. El portal permanecerá abierto durante un breve periodo de tiempo, y el pase queda inutilizado tras cargar los datos en el dispositivo de activación del portal.",
+    "fr": "Cette carte d'accès de sécurité permet d'accéder à la zone de traitement des esclaves. Ce portail restera ouvert quelques instants et la carte d'accès deviendra inutilisable une fois les informations de la carte envoyées vers le dispositif d'activation du portail.",
+    "ja": "奴隷処理施設にアクセスできるセキュリティマスターキー。ゲートが開くのは短時間で、起動デバイスにデータをアップロードした後、そのマスターキーを再度使用することはできない。",
+    "ko": "해당 출입키는 노예 생산 시설로 이동하는데 사용됩니다. 데이터 입력 시 짧은 시간 동안 게이트가 개방되며 이후 출입키는 자동 파기됩니다.",
+    "ru": "Этот защитный ключ предоставляет доступ к центру обработки рабов. После загрузки данных в устройство активации ключ приходит в негодность, а врата на короткое время остаются открытыми.",
+    "zh": "这个安全通行钥匙能启动通往劳工处理点的轨道。轨道会打开一小段时间，通行钥匙在将钥匙数据上传到轨道激活设备后，就会失去效用。"
+  },
+  "groupID": 474,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Crimson Hand Level 4 Passcard",
     "en": "Crimson Hand Level 4 Passcard",
@@ -10,5 +22,7 @@
     "ru": "Crimson Hand Level 4 Passcard",
     "zh": "血腥傀儡4级通行卡"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

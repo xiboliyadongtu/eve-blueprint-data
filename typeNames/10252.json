@@ -1,5 +1,16 @@
 {
-  "typeID": 10252,
+  "description": {
+    "de": "Bergbaudrohne",
+    "en": "Mining Drone",
+    "es": "Dron minero",
+    "fr": "Drone d'extraction.",
+    "ja": "採掘専門ドローン",
+    "ko": "채굴 드론",
+    "ru": "Дрон-экстрактор",
+    "zh": "采矿无人机"
+  },
+  "graphicID": 1009,
+  "groupID": 101,
   "name": {
     "de": "Mining Drone - Elite",
     "en": "Mining Drone - Elite",
@@ -10,5 +21,9 @@
     "ru": "Mining Drone - Elite",
     "zh": "采矿无人机 - 精英级"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 5.0,
+  "sofFactionName": "orebase",
   "volume": 5.0
 }

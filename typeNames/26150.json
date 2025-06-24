@@ -1,5 +1,19 @@
 {
-  "typeID": 26150,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Die Überreste eines Piraten, der von seinen Fähigkeiten allzu überzeugt war. Ein klein wenig Hacking könnte Ihnen Zugriff verschaffen.",
+    "en": "Leftovers from some unfortunate pirate overconfidant in his abilities. A bit of hacking might unlock it.",
+    "es": "Sobras de algún pirata desafortunadamente confiado en sus capacidades. Puede que un poco de hackeo lo desbloquee.",
+    "fr": "Restes d'un pirate manifestement un peu trop présomptueux. Essayez de le pirater pour le déverrouiller.",
+    "ja": "うぬぼれの強い不幸な海賊が残したもの。ハッキングで開錠できるかもしれない。",
+    "ko": "자신감이 너무 과했던 해적이 남기고 간 유품입니다. 해킹을 통해 잠금을 해제할 수 있습니다.",
+    "ru": "Останки какого-то пирата-неудачника, который был слишком уверен в своих силах. Немного смекалки, и вы сможете его взломать.",
+    "zh": "某个对自己能力过于自信的倒霉海盗的遗物。一些破解技术应该就够打开它。"
+  },
+  "graphicID": 1176,
+  "groupID": 1207,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Victim's Stash",
     "en": "Victim's Stash",
@@ -10,5 +24,9 @@
     "ru": "Victim's Stash",
     "zh": "死难者的藏匿箱"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericmetal",
   "volume": 27500.0
 }

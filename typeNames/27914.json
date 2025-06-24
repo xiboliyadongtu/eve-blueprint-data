@@ -1,5 +1,21 @@
 {
-  "typeID": 27914,
+  "basePrice": 80118.0,
+  "capacity": 150.0,
+  "description": {
+    "de": "Ein Lenkwaffenwerfermodul für die Bereitmachung und den Einsatz von Bomben. \n\n\n\nHinweis: Bombenwerfer können nur von Tarnkappenbombern eingesetzt werden und jeder Bomber kann nur einen Bombenwerfer ausrüsten. Vor der Aktivierung des Moduls muss sich das Schiff auf Minimalgeschwindigkeit befinden.",
+    "en": "A missile launcher bay module facilitating bomb preparation, and deployment. \r\n\r\nNote: Bomb Launchers can only be equipped by Stealth Bombers and each bomber can only equip one bomb launcher. Your ship must be at the minimum velocity before you can activate this module.",
+    "es": "Módulo de plataforma lanzamisiles que facilita la preparación y el despliegue de bombas.\n\nAviso: Los lanzabombas solo pueden equiparse en bombarderos sigilosos y cada bombardero solo puede llevar un lanzabombas. La nave debe viajar a la velocidad mínima para activar este módulo.",
+    "fr": "Cette baie lance-missiles simplifie la programmation et le déploiement des bombes. Remarque : Les lanceurs de bombes sont réservés aux bombardiers furtifs, dans la limite d'un seul module par bombardier. Avant de pouvoir activer son lanceur de bombes, le vaisseau équipé doit décélérer jusqu'à atteindre sa vitesse minimale.",
+    "ja": "ボムの装填と発射を容易にするミサイルランチャーベイモジュール。 \n\n\n\n注意: ボムランチャーはステルス爆撃艦のみ装備可能。各爆撃艦が装備できるボムランチャーは1つまで。このモジュールを起動するには必要最低速度まで加速しておく必要がある。",
+    "ko": "폭탄 운용을 위한 미사일 런처 격납고 모듈입니다. <br><br>참고: 폭탄 런처는 스텔스 폭격기에만 장착이 가능하며 한 폭격기당 한 개의 폭탄 런처만이 장착 가능합니다. 해당 모듈을 활성화 시키기 위해서는 최대 속도에 도달해야합니다.",
+    "ru": "Установка, обеспечивающая подготовку бомб к запуску и сам запуск бомб. \n\n\n\nБомбомётами оснащаются только ударно-диверсионные бомбардировщики, причем каждый бомбардировщик может быть оснащен только одной такой установкой. Для включения этого модуля и запуска бомб скорость полёта бомбардировщика должна быть не меньше определённого минимального значения.",
+    "zh": "一种占用导弹发射器槽位的装备，能够预备和部署炸弹。 \n\n\n\n注：炸弹发射器只能被安装在隐形轰炸舰上，且每艘隐形轰炸舰只能安装一具炸弹发射器。在启用此装备前，你的舰船速度必须降至最低。"
+  },
+  "graphicID": 20065,
+  "groupID": 862,
+  "iconID": 2677,
+  "marketGroupID": 1014,
+  "metaGroupID": 1,
   "name": {
     "de": "Bomb Launcher I",
     "en": "Bomb Launcher I",
@@ -10,5 +26,8 @@
     "ru": "Bomb Launcher I",
     "zh": "炸弹发射器 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "caldaribase",
   "volume": 50.0
 }

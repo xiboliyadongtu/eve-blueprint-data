@@ -1,5 +1,18 @@
 {
-  "typeID": 60772,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieses Fregattenwrack wurde bei einem AIR-Bergbaugebiet entdeckt. Es wird angenommen, dass es sich um ein Aufklärungsschiff handelt, aber seine Herkunft und sein Zweck sind noch unbekannt.",
+    "en": "This wrecked frigate was discovered at one of AIR's mining sites. It is theorized to have been a scout ship but its point of origin and purpose remain unknown.",
+    "es": "Esta fragata destrozada fue descubierta en uno de los yacimientos mineros de AIR. Se cree que fue una nave exploradora, pero se desconoce su origen o cuál era su misión.",
+    "fr": "Cette épave de frégate a été découverte sur l'un des sites d'extraction de l'AIR. On suppose qu'il s'agissait d'un vaisseau éclaireur, mais son origine et son rôle demeurent inconnus.",
+    "ja": "この難破したフリゲートはAIRの採掘サイトで発見されたものだ。偵察船だと思われるが、その出自や目的はいまだに分かっていない。",
+    "ko": "AIR 채굴 사이트에서 발견된 파괴된 프리깃입니다. 정찰선으로 추정되며 소속과 수행 중이던 임무는 확인할 수 없습니다.",
+    "ru": "Эти обломки фрегата были найдены в одном из районов добычи АМИ. Предположительно это был разведывательный корабль, однако откуда он вылетел и с какой целью — неизвестно.",
+    "zh": "这个护卫舰残骸是从星空会的一处采矿地点发现的。它理论上是一艘侦查舰，但它的所属势力和目的还不为人所知。"
+  },
+  "graphicID": 25218,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Dramielwrack",
     "en": "Wrecked Dramiel",
@@ -10,5 +23,9 @@
     "ru": "Wrecked Dramiel",
     "zh": "德拉米尔级残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "npe",
   "volume": 27500.0
 }

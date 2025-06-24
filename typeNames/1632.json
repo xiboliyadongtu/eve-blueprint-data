@@ -1,5 +1,15 @@
 {
-  "typeID": 1632,
+  "description": {
+    "de": "Stirbt, wenn er nicht spätestens alle 60 Minuten an einer Station andockt.",
+    "en": "Dies if he doesn't dock at a station every 60 mins.",
+    "es": "Muere si no se acopla en una estación cada 60 minutos.",
+    "fr": "Il meurt s'il ne s'amarre pas à une station toutes les 60 minutes.",
+    "ja": "60分ごとにステーションへ入港しなければ死亡する。",
+    "ko": "60분마다 정거장에 도킹하지 않으면 사망합니다.",
+    "ru": "Погибает, если не стыкуется со станциями каждые 60 минут.",
+    "zh": "如果每60分钟不进入一次空间站，则飞行员死亡。"
+  },
+  "groupID": 193,
   "name": {
     "de": "Monophobia Bonus",
     "en": "Monophobia Bonus",
@@ -10,5 +20,6 @@
     "ru": "Monophobia Bonus",
     "zh": "孤独恐惧症加成"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

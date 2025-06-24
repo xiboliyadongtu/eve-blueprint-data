@@ -1,5 +1,18 @@
 {
-  "typeID": 3341,
+  "basePrice": 500000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Minmatar-Transportern.",
+    "en": "Skill at operating Minmatar hauler ships.",
+    "es": "Habilidad en el manejo de naves de mercancías minmatarianas.",
+    "fr": "Compétence liée à l'utilisation de cargos minmatar.",
+    "ja": "ミンマターハウラーを操作するためのスキル。",
+    "ko": "민마타 운반선 운용을 위한 스킬입니다.",
+    "ru": "Навык управления перевозчиками Республики Минматар.",
+    "zh": "操作米玛塔尔运载舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Minmatar Hauler",
     "en": "Minmatar Hauler",
@@ -10,5 +23,8 @@
     "ru": "Minmatar Hauler",
     "zh": "米玛塔尔运载舰"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
   "volume": 0.01
 }

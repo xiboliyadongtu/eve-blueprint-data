@@ -1,5 +1,18 @@
 {
-  "typeID": 32465,
+  "basePrice": 2500.0,
+  "description": {
+    "de": "Leichte Aufklärungsdrohne",
+    "en": "Light Scout Drone",
+    "es": "Dron de reconocimiento ligero",
+    "fr": "Drone de reconnaissance léger.",
+    "ja": "ライトスカウトドローン",
+    "ko": "라이트 스카우트 드론",
+    "ru": "Легкий разведывательный дрон",
+    "zh": "轻型侦查无人机"
+  },
+  "graphicID": 1099,
+  "groupID": 100,
+  "mass": 3000.0,
   "name": {
     "de": "Civilian Hobgoblin",
     "en": "Civilian Hobgoblin",
@@ -10,5 +23,10 @@
     "ru": "Civilian Hobgoblin",
     "zh": "民用地精灵无人机"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 15.0,
+  "sofFactionName": "gallentebase",
   "volume": 5.0
 }

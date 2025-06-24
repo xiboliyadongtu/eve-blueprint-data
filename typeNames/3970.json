@@ -1,5 +1,16 @@
 {
-  "typeID": 3970,
+  "description": {
+    "de": "Ein standardmäßiger Außenposten gallentischen Designs.",
+    "en": "A standard outpost of Gallentean design.",
+    "es": "Un puesto avanzado estándar de diseño gallente.",
+    "fr": "Un avant-poste standard de conception gallente.",
+    "ja": "ガレンテ様式の標準的なアウトポスト。",
+    "ko": "갈란테에서 설계한 표준 전초기지입니다.",
+    "ru": "Стандартная модель станции разработки Федерации Gallentе.",
+    "zh": "一座标准盖伦特设计的哨站。"
+  },
+  "graphicID": 2783,
+  "groupID": 226,
   "name": {
     "de": "Federation Administrative Outpost",
     "en": "Federation Administrative Outpost",
@@ -10,5 +21,9 @@
     "ru": "Federation Administrative Outpost",
     "zh": "盖伦特行政哨站LCO"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 918.0,
+  "sofFactionName": "gallentebase"
 }

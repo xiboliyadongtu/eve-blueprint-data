@@ -1,5 +1,21 @@
 {
-  "typeID": 45596,
+  "capacity": 300.0,
+  "description": {
+    "de": "Mit diesem Subsystem, welches die außerordentliche Widerstandsfähigkeit von Komponenten auf Fullerenbasis nutzt, können Loki-Piloten ihre Panzerung und Schild verbessern und damit ihre Überlebensfähigkeit im Kampf deutlich erhöhen. Winzige Leitungen auf molekularer Ebene sind von entscheidender Bedeutung für den Fluss der Nano-Reparaturbots im Inneren und an der Oberfläche der Loki, denn durch sie werden kritische Reparaturen vor störenden Einflüssen geschützt.",
+    "en": "Capitalizing on the exceptional defensive capabilities of fullerene-based components, this subsystem allows a Loki pilot to augment their armor and shield defenses, dramatically enhancing its survivability in combat. Tiny molecular-level conduits play a crucial role in orchestrating the flow of nano-assemblers through and around the Loki, guarding the flow of vital repairs against disruptive impact.",
+    "es": "Aprovechando las capacidades defensivas excepcionales de los componentes basados en fullereno, este subsistema permite que un piloto de la Loki aumente sus defensas de blindaje y escudo, lo que mejorará drásticamente su capacidad de supervivencia en combate. Unos diminutos conductos a nivel molecular desempeñan un papel crucial en la orquestación del flujo de nanoensambladores a través y alrededor de la Loki, protegiendo el flujo de reparaciones vitales contra impactos perjudiciales.",
+    "fr": "Tirant profit des capacités défensives exceptionnelles des composants à base de fullerène, ce sous-système permet au pilote d'améliorer la résistance du bouclier et du blindage de son Loki, augmentant ainsi considérablement ses chances de survie au combat. Les minuscules conduits à l'échelle moléculaire jouent un rôle déterminant dans la gestion du flux de nano-assembleurs à l'intérieur et à l'extérieur du Loki, protégeant ainsi les réparations vitales des chocs.",
+    "ja": "フラーレンを基礎とした部品が非常に高い防御力を持つ点を利用したサブシステム。ロキのアーマーレジスタンスを増加させ、戦闘での生存率を劇的に向上させる。極小の分子レベルの導管が、ロキ表面のナノアセンブラーの流れを統制する重要な役割を果たしており、大きな衝撃に対しても修復能力を持つ。",
+    "ko": "퓰러렌 기반 장치의 뛰어난 방어 능력으로 로키의 장갑 및 실드 저항력을 증대하여 전투에서의 생존 가능성을 급격히 높여줍니다. 함선을 둘러싼 나노 어셈블러가 분자적 수준의 초소형 도관을 타고 이동하기에 큰 타격을 입었을 때 빠른 수리가 가능합니다.",
+    "ru": "Используя исключительные оборонные возможности фуллеренных компонентов, эта подсистема позволяет пилоту повысить сопротивляемость брони и щитов своего крейсера типа «Локи» и тем значительно повысить его боевую живучесть. Молекулярные проводники играют ключевую роль в организации потоков наносборщиков под поверхностью брони, а также непосредственно вокруг «Локи», защищая ход ремонтных работ от разрушительных воздействий.",
+    "zh": "自适应增变器子系统是利用富勒烯材料组件的超高强度特性研发的防御系统，它允许飞行员调整他们自己的洛基级战舰装甲和护盾的防护能力，大大地提高其在战场上的生存能力。小小的分子级别导管是这个设备中的重要部件，他们能将纳米装配设备高效灵活地分导到洛基级船体的内外，保证关键修复设备在受到冲击的时候能继续正常运转。"
+  },
+  "graphicID": 21786,
+  "groupID": 954,
+  "iconID": 3631,
+  "marketGroupID": 1128,
+  "mass": 1400000.0,
+  "metaGroupID": 14,
   "name": {
     "de": "Loki Defensive - Augmented Durability",
     "en": "Loki Defensive - Augmented Durability",
@@ -10,5 +26,101 @@
     "ru": "Loki Defensive - Augmented Durability",
     "zh": "洛基防御 - 增强耐用装置"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "sofFactionName": "minmatarbase",
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "<b><u>Zusätzliche Basiswerte</b></u>",
+          "en": "<b><u>Additional Base Stats</b></u>",
+          "es": "<b><u>Estadísticas básicas adicionales</b></u>",
+          "fr": "<b><u>Stats de base supplémentaires</b></u>",
+          "ja": "<b><u>追加ベース統計</b></u>",
+          "ko": "<b><u>추가 기본 능력치</b></u>",
+          "ru": "<b><u>Кроме того:</b></u>",
+          "zh": "<b><u>附加基础数值</b></u>"
+        },
+        "importance": 1
+      },
+      {
+        "bonusText": {
+          "de": "+2 Mid Slots, +2 Low Slots",
+          "en": "+2 Mid Slots, +2 Low Slots",
+          "es": "+2 ranuras intermedias, +2 ranuras inferiores",
+          "fr": "+2 Emplacements intermédiaires, +2 Emplacements inférieurs",
+          "ja": "ミッドスロット+2、ロースロット+2",
+          "ko": "미드 슬롯 +2, 로우 슬롯 +2",
+          "ru": "+2 разъёма средней мощности, +2 разъёма малой мощности",
+          "zh": "中槽+2，低槽+2"
+        },
+        "importance": 2
+      },
+      {
+        "bonusText": {
+          "de": "+600 Schild-HP, +600 Panzerungs-HP",
+          "en": "+600 Shield HP, +600 Armor HP",
+          "es": "+600 PV de escudo, +600 PV de blindaje",
+          "fr": "+600 PV au bouclier, +600 PV au blindage",
+          "ja": "シールドHP+600、アーマーHP+600",
+          "ko": "실드량 +600, 장갑 내구도 +600",
+          "ru": "+600 единиц прочности щитов, +600 единиц прочности брони",
+          "zh": "护盾值+600，装甲值+600"
+        },
+        "importance": 3
+      },
+      {
+        "bonusText": {
+          "de": "+10 m Signaturradius",
+          "en": "+10m Signature Radius",
+          "es": "+10 m al radio de la señal",
+          "fr": "Rayon de signature +10 m",
+          "ja": "シグネチャ半径+10m",
+          "ko": "시그니처 반경 +10m",
+          "ru": "+10 метров размера сигнатуры",
+          "zh": "信号半径+10m"
+        },
+        "importance": 4
+      }
+    ],
+    "types": {
+      "30545": [
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf alle HP von Panzerung und Schild",
+            "en": "bonus to all armor and shield hitpoints",
+            "es": "de bonificación a todos los puntos de vida de los escudos y del blindaje.",
+            "fr": "de bonus aux PV des boucliers et du blindage",
+            "ja": "全てのアーマーとシールドHPが増加",
+            "ko": "장갑 내구도 및 실드량 증가",
+            "ru": "увеличивается запас прочности брони и корпуса корабля",
+            "zh": "装甲值和护盾值加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf den Nutzen der Überhitzung von Panzerungs- und Schildhärtern",
+            "en": "bonus to the benefits of overheating armor and shield hardeners",
+            "es": "de bonificación a los beneficios de sobrecalentar los endurecedores de escudo y de blindaje.",
+            "fr": "de bonus aux avantages de la surchauffe des renforcements de bouclier et de blindage",
+            "ja": "オーバーヒートしたアーマーとシールドハードナーの恩恵にボーナス",
+            "ko": "장갑 및 실드 강화장치 과부하 시 보너스 효과 증가",
+            "ru": "усиливается влияние перегрузки на параметры укрепителей брони и активных модуляторов щитов",
+            "zh": "装甲和护盾增强器过载效果加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 45595,
   "volume": 40.0
 }

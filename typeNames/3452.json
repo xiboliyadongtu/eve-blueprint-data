@@ -1,5 +1,18 @@
 {
-  "typeID": 3452,
+  "basePrice": 50000.0,
+  "description": {
+    "de": "Fertigkeit zum effektiven Einsatz von Nachbrennern und Mikrowarpantrieben.\r\n\r\n5% Bonus auf Geschwindigkeitsverbesserung von Nachbrennern und Mikrowarpantrieben je Skillstufe.",
+    "en": "Skill at efficiently using Afterburners and MicroWarpdrives. 5% Bonus to Afterburner and MicroWarpdrive speed boost per skill level.",
+    "es": "Habilidad para usar posquemadores y motores de microwarp de forma eficaz. 5 % de bonificación al potenciador de velocidad de posquemador y motor de microwarp por nivel de habilidad.",
+    "fr": "Compétence liée à l'utilisation de la post-combustion et des propulseurs de microwarp. Augmente de 5 % par niveau de compétence le boost de vitesse du système de post-combustion et du propulseur de microwarp.",
+    "ja": "アフターバーナーとマイクロワープドライブの使用効率スキル。スキルレベル上昇ごとにアフターバーナーとマイクロワープドライブの速度増加に 5% のボーナス。",
+    "ko": "애프터버너 및 마이크로 워프 드라이브의 효율적인 운용을 위한 스킬입니다. 매 레벨마다 애프터버너 및 마이크로 워프 드라이브 최대 속도 5% 증가",
+    "ru": "Навык эффективного использования форсажных ускорителей и микроварп-ускорителей. За каждую степень освоения навыка: на 5% повышается влияние форсажных ускорителей и микроварп-ускорителей на скорость корабля.",
+    "zh": "有效使用加力燃烧器和微型跃迁推进器的技能。每升一级，加力燃烧器和微型跃迁推进器的速度增加值提升5%。"
+  },
+  "groupID": 275,
+  "iconID": 33,
+  "marketGroupID": 374,
   "name": {
     "de": "Acceleration Control",
     "en": "Acceleration Control",
@@ -10,5 +23,7 @@
     "ru": "Управление ускорителями",
     "zh": "加速控制理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

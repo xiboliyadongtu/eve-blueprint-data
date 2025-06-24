@@ -1,5 +1,18 @@
 {
-  "typeID": 23691,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Zerstörter Behälter, der früher ein Schwarmgehirn enthielt.",
+    "en": "Mangled remains of a cage that once housed a rogue drone hive mind.",
+    "es": "Restos maltrechos de una jaula que antaño albergaba una mente colmena de drones rebeldes.",
+    "fr": "Restes épars d'une cage qui hébergea une intelligence de ruche de drones renégats.",
+    "ja": "ローグドローン集団頭脳が入っていた檻の残骸。",
+    "ko": "한때 로그 드론 하이브 마인드를 수용하던 시설로 심하게 훼손되어 있습니다.",
+    "ru": "Искореженные остатки клетки, в которой когда-то размещался мозговой центр улья восставших дронов.",
+    "zh": "箱子的碎裂残骸，里面曾装有一块无人机母体芯片。"
+  },
+  "graphicID": 2583,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Shattered Hive Mind Cage",
     "en": "Shattered Hive Mind Cage",
@@ -10,5 +23,10 @@
     "ru": "Shattered Hive Mind Cage",
     "zh": "破碎的无人机母体芯片"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 717.0,
+  "sofFactionName": "roguebase",
+  "soundID": 31,
   "volume": 100000000.0
 }

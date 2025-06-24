@@ -1,5 +1,18 @@
 {
-  "typeID": 27901,
+  "capacity": 1200.0,
+  "description": {
+    "de": "Diese Schiffe sind von sich in der Nähe befindlichen Trägerschiffen losgelöst. Ihre kleine Größe und Manövrierfähigkeit, kombiniert mit topmodernen Waffen, machen sie sogar für die größten Schiffe zu einer Bedrohung.",
+    "en": "These ships are detached from nearby Carrier-class ships. Their small size and maneuverability, combined with state-of-the-art weaponry make them a threat to even the biggest of ships.",
+    "es": "Estas naves son lanzadas desde sus portanaves cercanos. Su pequeño tamaño y su maniobrabilidad, sumados a su armamento de última generación, la convierten en una amenaza hasta para las naves más grandes.",
+    "fr": "Ces vaisseaux proviennent de porte-vaisseaux situés à proximité. Leur manœuvrabilité et leur petite taille, alliées à un armement de pointe, en font de dangereux adversaires, même pour les vaisseaux lourds.",
+    "ja": "これらの艦船は近くの空母から発進する。小型の船体と機動性に、武装として搭載している最先端兵器が組み合わさり、最大級の艦さえも脅かす存在。",
+    "ko": "캐리어급 함선에 탑재되는 파이터입니다. 작은 크기와 빠른 기동력을 지닌 이 파이터는 최첨단 무기 시스템을 탑재하여 대형 함선에도 매우 위협적인 존재입니다.",
+    "ru": "Эти корабли вылетают с ближайших кораблей класса КАР. Небольшой размер и высокая манёвренность вкупе с первоклассным вооружением превращают их в настоящий ночной кошмар для больших кораблей.",
+    "zh": "这些飞船是从附近的母舰级飞船上分离出来的。它们体积小、灵活性高，拥有最先进的武器，即使对最大的飞船也具有威胁性。"
+  },
+  "graphicID": 2973,
+  "groupID": 861,
+  "mass": 12000.0,
   "name": {
     "de": "Republic Fighter",
     "en": "Republic Fighter",
@@ -10,5 +23,10 @@
     "ru": "Republic Fighter",
     "zh": "共和国战士"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 35.0,
+  "sofFactionName": "minmatarbase",
   "volume": 5000.0
 }

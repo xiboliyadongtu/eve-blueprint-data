@@ -1,5 +1,18 @@
 {
-  "typeID": 16851,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese \"Hufschmiede\", wie sie in der Caldari Navy liebevoll genannt werden, wurden erstmals im Caldari-Gallente Krieg eingesetzt und haben seither zahllosen Piloten die Demütigung eines auseinanderfallenden Schiffes erspart.",
+    "en": "First used during the Gallente-Caldari War, \"the black smithy,\" as it is fondly called by the Caldari Navy, has since saved countless numbers of pilots the indignity of a disintegrating ship.",
+    "es": "Utilizada por primera vez durante la guerra Gallente-Caldari, la «Herrería Negra», como se la conoce en la Armada Caldari, ha salvado a incontables pilotos de la vergüenza de una nave que se cae a trozos.",
+    "fr": "Utilisé pour la première fois au cours de la guerre Gallente-Caldari, « la forge noire », comme l'appelle affectueusement la Caldari Navy, a sauvé depuis un nombre incalculable de pilotes du déshonneur de voir leur vaisseau désintégré.",
+    "ja": "カルダリ海軍が親しみを込めて「鍛冶おやじ」と呼ぶ、ガレンテ-カルダリ戦争で最初に利用されたアウトポスト。崩壊寸前の船に乗るという屈辱から多くのパイロットを救ってきた。",
+    "ko": "갈란테-칼다리 전쟁에서 처음 도입된 이 전초기지는 칼다리 해군에게 \"블랙 스미티\"라는 애칭으로 불리며 함선이 파괴되어 난항을 겪는 수많은 파일럿들의 목숨을 구했습니다.",
+    "ru": "«Черные кузнецы», как называют эти станции пилоты Флота Caldari, впервые были использованы в войне Gallente и Caldari и с тех пор спасли бессчетное количество пилотов от потери корабля.",
+    "zh": "这种维修站被加达里海军亲切地称为“黑铁匠”，在盖伦特-加达里战争中首次使用。此后，它保住了无数飞行员的面子，使他们不必承受飞船被摧毁的耻辱。"
+  },
+  "graphicID": 1707,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Caldari Deadspace Repair Outpost",
     "en": "Caldari Deadspace Repair Outpost",
@@ -10,5 +23,10 @@
     "ru": "Caldari Deadspace Repair Outpost",
     "zh": "加达里死亡空间维修站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 220.0,
+  "sofFactionName": "caldaribase",
   "volume": 100000000.0
 }

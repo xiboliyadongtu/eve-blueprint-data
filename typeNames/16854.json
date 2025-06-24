@@ -1,5 +1,18 @@
 {
-  "typeID": 16854,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese Plattformen dienen der schnellen und exakten Analyse von taktischen und umweltpolitischen Daten. Man findet sie im Umkreis vieler Komplexe in Raumverwerfungen.",
+    "en": "Built for up-to-the-minute analysis of tactical and environmental data, these outposts can be found dotted around many a deadspace complex.",
+    "es": "Estos puestos avanzados, construidos para analizar datos tácticos y ambientales en tiempo real, se encuentran desperdigados por muchos complejos del espacio muerto.",
+    "fr": "Conçu pour fournir des analyses très précises sur l'environnement tactique, ces avant-postes se trouvent un peu partout autour des complexes Deadspace.",
+    "ja": "戦術および環境データを分刻みで分析する目的で建てられたアウトポストで、各地のデッドスペースコンプレックス付近に点在する。",
+    "ko": "최신 전술 및 환경 데이터에 기반하여 건설된 전초기지로 데드스페이스 컴플렉스 곳곳에 흩어져 있습니다.",
+    "ru": "Построенные для скоростного анализа данных о тактике и окружающей среде, эти станции могут быть найдены во многих комплексах дэдспейса.",
+    "zh": "这些哨站的建造目的是为了实时分析战术及环境数据，它们经常散布在死亡空间复合体周围。"
+  },
+  "graphicID": 1683,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Pulsating Sensor",
     "en": "Pulsating Sensor",
@@ -10,5 +23,11 @@
     "ru": "Pulsating Sensor",
     "zh": "脉动感应器"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 60.0,
+  "sofFactionName": "genericbase",
+  "soundID": 20173,
   "volume": 100000000.0
 }

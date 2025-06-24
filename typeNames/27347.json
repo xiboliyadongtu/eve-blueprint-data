@@ -1,5 +1,21 @@
 {
-  "typeID": 27347,
+  "basePrice": 30000.0,
+  "description": {
+    "de": "Eine ultraschwere Lenkwaffe mit Durchschlagkopf. Sie ist zwar ein langsames Projektil, aber ihr bloßes Schadenspotential ist einfach überwältigend.",
+    "en": "An ultra-heavy piercing missile. While it is a slow projectile, its sheer damage potential is simply staggering.",
+    "es": "Misil perforante ultrapesado. Aunque lento, su potencial de daño real resulta impresionante.",
+    "fr": "Missile perforant ultra-lourd. Il s'agit certes d'un projectile assez lent, mais au potentiel destructeur tout simplement impressionnant.",
+    "ja": "ウルトラヘビーピアシングミサイル。速度は遅いが、その破壊力は実に驚異的。",
+    "ko": "대형 관통 미사일입니다. 느린 비행 속도를 지니고 있으나 타격 시 적에게 치명적인 피해를 입힙니다.",
+    "ru": "Сверхтяжелая бронебойная ракета. Отличается низкой скоростью, но ее ударная мощь поражает воображение.",
+    "zh": "一种终极重型穿刺导弹。虽然慢而笨重，但是破坏力着实惊人。"
+  },
+  "graphicID": 20014,
+  "groupID": 89,
+  "iconID": 1346,
+  "marketGroupID": 1000,
+  "mass": 1500.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Dread Guristas Scourge Torpedo",
     "en": "Dread Guristas Scourge Torpedo",
@@ -10,5 +26,9 @@
     "ru": "Dread Guristas Scourge Torpedo",
     "zh": "恐惧古斯塔斯鞭挞鱼雷"
   },
+  "portionSize": 100,
+  "published": true,
+  "radius": 300.0,
+  "variationParentTypeID": 267,
   "volume": 0.05
 }

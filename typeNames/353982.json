@@ -1,5 +1,17 @@
 {
-  "typeID": 353982,
+  "basePrice": 97160.0,
+  "description": {
+    "de": "Dieses Modul repariert im aktivierten Zustand den Schaden an der Panzerung des Fahrzeugs.",
+    "en": "Once activated this module repairs the damage done to the vehicle’s armor.",
+    "es": "Una vez activado, este módulo repara el daño infligido al blindaje del vehículo.",
+    "fr": "Une fois activé, ce module répare les dommages occasionnés au blindage du véhicule.",
+    "it": "Una volta attivato, questo modulo ripara i danni inflitti alla corazza del veicolo.",
+    "ja": "一度起動すると、このモジュールは車両のアーマーが受けたダメージをリペアする。",
+    "ko": "모듈 활성화 시 차량에 가해진 피해를 복구합니다.",
+    "ru": "При активации данный модуль ремонтирует броню транспортного средства.",
+    "zh": "启用后，该装备会修复载具装甲的受损部位。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Schwere automatische Panzerungsreparatureinheit",
     "en": "Heavy Automated Armor Repair Unit",
@@ -11,5 +23,7 @@
     "ru": "Тяжелый модуль автоматического ремонта брони",
     "zh": "重型自动装甲修复装置"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

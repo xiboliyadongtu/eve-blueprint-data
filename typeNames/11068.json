@@ -1,5 +1,18 @@
 {
-  "typeID": 11068,
+  "basePrice": 100.0,
+  "description": {
+    "de": "Diese Box kann persönliche Gegenstände oder Waren enthalten, die ausdrücklich nur dem Empfänger zu übergeben sind.",
+    "en": "This box may contain personal items or commodities intended only for the delivery's recipient.",
+    "es": "Este contenedor puede incluir objetos personales o productos dirigidos únicamente al destinatario.",
+    "fr": "Cette boîte contient des objets personnels ou des marchandises destinées uniquement au destinataire de cette livraison.",
+    "ja": "私物を入れ、受取人を指定して届けるための箱。",
+    "ko": "개인적인 소지품이 담긴 소포입니다.",
+    "ru": "Этот ящик может содержать личные предметы и обмундирование, предназначенное для получателя.",
+    "zh": "这个盒子里可能放置了本应仅供收件人使用的货物。"
+  },
+  "groupID": 314,
+  "iconID": 2039,
+  "mass": 1.0,
   "name": {
     "de": "Special Delivery",
     "en": "Special Delivery",
@@ -10,5 +23,7 @@
     "ru": "Special Delivery",
     "zh": "特别快递"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

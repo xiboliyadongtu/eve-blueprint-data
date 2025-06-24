@@ -1,5 +1,75 @@
 {
-  "typeID": 19724,
+  "basePrice": 4219100000.0,
+  "capacity": 2550.0,
+  "description": {
+    "de": "Im Vergleich zu anderen Dreadnoughts ist die beeindruckende Moros unheimlich stark darin, übermächtige Angreifer abzuwehren, und stellt gleichzeitig immer noch eine ziemliche Bedrohung für alle größeren Schiffe auf dem Schlachtfeld dar. Mit ihren vielseitigen Möglichkeiten zur Nahbereichsabwehr und der einschüchternden Fähigkeit, schnelle und überaus vernichtende Angriffe einzuleiten, kann die Moros leicht im Alleingang den Ausgang einer Flottenschlacht entscheiden.",
+    "en": "Of all the dreadnoughts currently in existence, the imposing Moros possesses a tremendous capacity to fend off gargantuan hostiles while still posing a valid threat to any and all larger-scale threats on the battlefield. By virtue of its protean array of point defense capabilities, and its terrifying ability to unleash rapid and thoroughly devastating amounts of destruction on the battlefield, the Moros is single-handedly capable of turning the tide in a fleet battle.",
+    "es": "De todos los superacorazados que existen actualmente, la imponente Moros posee una increíble capacidad para repeler a enemigos gigantescos a la vez que supone una verdadera amenaza para cualquier enemigo de mayor escala en el campo de batalla. Gracias a un sistema proteico de defensa de puntos, además de una temible capacidad para desplegar armas rápidas y devastadoras, la Moros puede desequilibrar la balanza por sí sola en una batalla de flotas.",
+    "fr": "De tous les supercuirassés actuellement en service, l'imposant Moros possède l'incroyable capacité de se mesurer à de gigantesques ennemis, tout en représentant une réelle menace envers tous les ennemis sur le champ de bataille. Grâce aux capacités variées de sa défense rapprochée et à sa capacité à tout détruire sur le champ de bataille, le Moros peut à lui seul repousser l'assaut d'une flotte.",
+    "ja": "現在する全ての攻城艦の中でも、威風堂々たるモロスは驚異的な能力によって巨大な敵を防ぎながら、戦場におけるより大きなありとあらゆる脅威を効果的に威嚇できる。適応性に富んだ対空防衛力に加え、戦場において高速かつ壊滅的な破壊力をもたらす恐るべき能力を備えるおかげで、モロスはフリート戦において単艦で形勢逆転してのけることもできる。",
+    "ko": "모로스는 현존하는 드레드노트 중 대형 함선을 견제하며 동시에 대규모 적에게 상당한 수준의 화력을 투사하는데 가장 우수한 능력을 보유했습니다. 뛰어난 국지 방어 능력과 막강한 파괴력으로 다수의 적함을 격침할 수 있어 단독으로 전황을 바꿀 수 있는 강력한 함선입니다.",
+    "ru": "Дредноут Moros — уникальный корабль в своём классе. Его способность отражать атаки огромных судов впечатляет. Кроме того, он сам представляет серьёзную угрозу для любых крупных кораблей на поле боя. Благодаря многочисленным средствам точечной обороны и пугающей способности быстро наносить внушительный урон Moros может в одиночку переломить ход масштабного сражения.",
+    "zh": "在目前现存的无畏级战舰中，莫洛级是一艘能在唬住其他大型船只的同时还能腾出手来应付大型对手的舰船。依靠其变化多端的点防阵列，以及一个能储藏大量无人机的无人机挂舱，莫洛级能够扭转整场战斗的走向。"
+  },
+  "factionID": 500004,
+  "graphicID": 2744,
+  "groupID": 485,
+  "marketGroupID": 764,
+  "mass": 1250000000.0,
+  "masteries": {
+    "0": [
+      96,
+      70,
+      140,
+      145,
+      147,
+      150,
+      90,
+      95
+    ],
+    "1": [
+      96,
+      70,
+      140,
+      145,
+      147,
+      150,
+      90,
+      95
+    ],
+    "2": [
+      96,
+      70,
+      140,
+      145,
+      147,
+      150,
+      90,
+      95
+    ],
+    "3": [
+      96,
+      70,
+      140,
+      145,
+      147,
+      150,
+      90,
+      95
+    ],
+    "4": [
+      96,
+      70,
+      140,
+      145,
+      147,
+      117,
+      150,
+      90,
+      95
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Moros",
     "en": "Moros",
@@ -9,6 +79,94 @@
     "ko": "모로스",
     "ru": "Moros",
     "zh": "莫洛级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 1613.0,
+  "sofFactionName": "gallentebase",
+  "soundID": 20072,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Es kann ein <a href=showinfo:20280>Belagerungsmodul</a> eingebaut werden",
+          "en": "Can fit a <a href=showinfo:20280>Siege module</a>",
+          "es": "Es posible equipar un <a href=showinfo:20280>módulo de asedio</a>.",
+          "fr": "Peut être équipé d'un <a href=showinfo:20280>module de siège</a>",
+          "ja": "<a href=showinfo:20280>シージモジュール</a>を搭載可能",
+          "ko": "<a href=showinfo:20280>시즈모듈</a> 장착 가능",
+          "ru": "Корабли этого типа могут оснащаться <a href=showinfo:20280>реконфигураторами осадного профиля</a>",
+          "zh": "可以装配一个<a href=showinfo:20280>会战装备</a>"
+        },
+        "importance": 1
+      },
+      {
+        "bonus": 5,
+        "bonusText": {
+          "de": "Abzug auf die Durchlaufzeit von <a href=showinfo:34593>Entosis-Netzwerken</a>",
+          "en": "penalty to <a href=showinfo:34593>Entosis Link</a> cycle time",
+          "es": "de penalización al tiempo de ciclo del <a href=showinfo:34593>enlace de entosis</a>.",
+          "fr": "pénalité applicable au temps de cycle de l'<a href=showinfo:34593>interface Entosis</a>",
+          "ja": "<a href=showinfo:34593>エントーシスリンク</a>サイクル時間にペナルティ",
+          "ko": "<a href=showinfo:34593>엔토시스 링크</a> 사이클 시간 증가",
+          "ru": "увеличивается длительность рабочего цикла <a href=showinfo:34593>энтоз-передатчиков</a>",
+          "zh": "<a href=showinfo:34593>侵噬链接</a>运转周期惩罚"
+        },
+        "importance": 2,
+        "unitID": 104
+      }
+    ],
+    "types": {
+      "20531": [
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:21666>Capital-Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:21666>Capital Hybrid Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:21666>torreta híbrida capital</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:21666>tourelles hybrides capitales</a>",
+            "ja": "<a href=showinfo:21666>キャピタルハイブリッドタレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:21666>캐피탈 하이브리드 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон боеприпасов <a href=showinfo:21666>сверхбольших гибридных орудий</a>",
+            "zh": "<a href=\"showinfo:21666\">旗舰级混合炮台</a>伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die Feuerrate von <a href=showinfo:21666>Capital-Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:21666>Capital Hybrid Turret</a> rate of fire",
+            "es": "de bonificación a la cadencia de tiro de la <a href=showinfo:21666>torreta híbrida capital</a>.",
+            "fr": "de bonus à la cadence de tir des <a href=showinfo:21666>tourelles hybrides capitales</a>",
+            "ja": "<a href=showinfo:21666>キャピタルハイブリッドタレット</a>の発射間隔が短縮",
+            "ko": "<a href=showinfo:21666>캐피탈 하이브리드 터렛</a> 연사속도 증가",
+            "ru": "повышается скорострельность <a href=showinfo:21666>сверхбольших гибридных орудий</a>",
+            "zh": "<a href=\"showinfo:21666\">旗舰级混合炮台</a>射速加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die Zykluszeit von <a href=showinfo:3393>Panzerungsreparatursystemen</a>",
+            "en": "bonus to <a href=showinfo:3393>Armor Repairer</a> cycle time",
+            "es": "de bonificación al tiempo de ciclo del <a href=showinfo:3393>reparador de blindaje</a>.",
+            "fr": "de réduction du temps de cycle des <a href=showinfo:3393>réparateurs de blindage</a>",
+            "ja": "<a href=showinfo:3393>アーマーリペアラ</a>のサイクル時間が減少",
+            "ko": "<a href=showinfo:3393>장갑수리 장치</a> 사이클 시간 감소",
+            "ru": "сокращается продолжительность рабочего цикла <a href=showinfo:3393>установок ремонта брони</a>",
+            "zh": "<a href=showinfo:3393>装甲维修器</a>循环周期加成"
+          },
+          "importance": 3,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 17550000.0
 }

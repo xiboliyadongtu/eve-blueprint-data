@@ -1,5 +1,20 @@
 {
-  "typeID": 16216,
+  "basePrice": 100000000.0,
+  "capacity": 25000.0,
+  "description": {
+    "de": "Mobile Laboranlage. Kann innerhalb des Einflussbereiches eines Kontrollturms verankert werden. Diese Struktur bietet Aktivitäten zur Erforschung von Materialeffizienz und Zeiteffizienz.",
+    "en": "Portable laboratory facilities, anchorable within control tower fields. This structure has Material Efficiency research and Time Efficiency research activities.",
+    "es": "Instalaciones de laboratorio portátiles, anclables dentro de los campos de las torres de control. Esta estructura realiza actividades de investigación de eficiencia de materiales y eficiencia temporal.",
+    "fr": "Laboratoire mobile pouvant être ancré dans les champs des tours de contrôle. Cette structure dispose d'activités de recherche d'efficacité matérielle et de recherche de gain de temps.",
+    "ja": "コントロールタワーのフィールド内に固定可能な移動式研究施設。この施設では資源効率研究と時間効率研究を行うことができる。",
+    "ko": "이동식 연구시설로 관제타워의 필드 내에 위치 고정할 수 있습니다. 자원 및 시간효율성 연구를 진행할 수 있습니다.",
+    "ru": "Блок-лаборатория, который можно поставить на якорь в пределах силового поля башни управления базой. В этом сооружении решаются задачи по повышению скорости и материалоэффективности производства.",
+    "zh": "移动实验室设施，可在控制塔力场内锚定。在这里可以进行材料效率和时间效率研究项目。"
+  },
+  "graphicID": 2373,
+  "groupID": 413,
+  "marketGroupID": 933,
+  "mass": 100000000.0,
   "name": {
     "de": "Research Laboratory",
     "en": "Research Laboratory",
@@ -10,5 +25,9 @@
     "ru": "Research Laboratory",
     "zh": "研究实验室"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 782.0,
+  "sofFactionName": "genericmetal",
   "volume": 3000.0
 }

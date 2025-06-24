@@ -1,5 +1,16 @@
 {
-  "typeID": 21105,
+  "description": {
+    "de": "Eine Bellicose, die von einem Agenten geflogen wird.",
+    "en": "A Bellicose piloted by an agent.",
+    "es": "Bellicose pilotada por un agente.",
+    "fr": "Un Bellicose piloté par un agent.",
+    "ja": "エージェントを乗せたベリコース。",
+    "ko": "에이전트가 조종하는 벨리코즈입니다.",
+    "ru": "Корабль класса Bellicose, управляемый агентом.",
+    "zh": "由代理人驾驶的挑战级飞船。"
+  },
+  "graphicID": 303,
+  "groupID": 517,
   "name": {
     "de": "Cosmos Bellicose",
     "en": "Cosmos Bellicose",
@@ -10,5 +21,9 @@
     "ru": "Cosmos Bellicose",
     "zh": "深空 挑战级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 131.0,
+  "sofFactionName": "minmatarbase"
 }

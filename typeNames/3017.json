@@ -1,5 +1,21 @@
 {
-  "typeID": 3017,
+  "capacity": 1.0,
+  "description": {
+    "de": "Eine mehrläufige Schnellfeuer-Energiewaffe, die einen beständigen Schadensstrahl verursacht. \n\nMuss mit einem der folgenden Frequenzkristalle (regulär oder fortschrittlich) geladen werden: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",
+    "en": "Rapid fire multi-barreled energy weapon that delivers a steady stream of damage. \r\n\r\nRequires either regular or advanced frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray, Conflagration, Scorch.",
+    "es": "Arma de energía de varios cañones de disparo rápido que inflige un flujo de daño constante.\n\nRequiere un tipo de munición de cristal de frecuencia normal o avanzado: gamma, infrarrojos, microondas, multifrecuencia, radiofrecuencia, estándar, ultravioleta, rayos X, Conflagration, Scorch.",
+    "fr": "Arme à énergie multi-canons à tir rapide assurant un feu nourri et régulier. \n\nRequiert les cristaux de fréquence normaux et perfectionnés suivants en guise de munitions : gamma, infrarouge, micro-onde, multifréquence, radio, standard, ultraviolet, rayon X, conflagration, calcination.",
+    "ja": "間断なくダメージを浴びせかける、速射連装型エネルギー兵器。\r\n\n装填可能な標準型／高性能フリーケンシークリスタルのタイプ : ガンマ、赤外線、マイクロ波、多周波、放射線、標準、紫外線、エックス線、コンフラグレーション弾、スコーチ弾。",
+    "ko": "속사형 멀티배럴 에너지 무기로 발사 시 적에게 지속적인 피해를 입힙니다. <br><br>사용 가능한 프리퀀시 크리스탈: 감마선, 적외선, 마이크로파, 멀티프리퀀시, 라디오파, 스탠다드, 자외선, 엑스선, 고열, 스코치.",
+    "ru": "Многоствольная скорострельная энергетическая установка, способная вести непрерывный огонь. \n\nСледует заряжать стандартными или усовершенствованными частотными кристаллами: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray, Conflagration, Scorch.",
+    "zh": "速射多管能源型武器，破坏力持续稳定。 使用的常规或高级频率晶体弹药类型：伽玛、红外线、微波、多频、射频、标准、紫外线、X射线、“爆燃”、“灼烧”。"
+  },
+  "graphicID": 11217,
+  "groupID": 53,
+  "iconID": 350,
+  "marketGroupID": 570,
+  "mass": 500.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Gatling Pulse Laser II",
     "en": "Gatling Pulse Laser II",
@@ -10,5 +26,9 @@
     "ru": "Gatling Pulse Laser II",
     "zh": "加特林脉冲激光器 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "sarum",
+  "variationParentTypeID": 450,
   "volume": 5.0
 }

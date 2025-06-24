@@ -1,5 +1,19 @@
 {
-  "typeID": 16042,
+  "basePrice": 100.0,
+  "description": {
+    "de": "Diese Container sind mit einem kennwortgeschützten Sicherheitsschloss ausgestattet.",
+    "en": "These containers are fitted with a password-protected security lock.",
+    "es": "Estos contenedores están equipados con un cierre de seguridad protegido por contraseña.",
+    "fr": "Ces conteneurs sont équipés d'un verrou de sécurité protégé par mot de passe.",
+    "ja": "パスワード式ロック機能付きのコンテナ。",
+    "ko": "암호화된 보안 장치가 장착되어 있는 컨테이너입니다.",
+    "ru": "Эти контейнеры оснащены замком безопасности с паролем-защитой.",
+    "zh": "这些箱子配备了密码保护安全锁。"
+  },
+  "graphicID": 2092,
+  "groupID": 314,
+  "iconID": 1171,
+  "mass": 500.0,
   "name": {
     "de": "Medium Sized Sealed Cargo Containers",
     "en": "Medium Sized Sealed Cargo Containers",
@@ -10,5 +24,8 @@
     "ru": "Medium Sized Sealed Cargo Containers",
     "zh": "中型密封的货柜"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "genericmetal",
   "volume": 50.0
 }

@@ -1,5 +1,16 @@
 {
-  "typeID": 59725,
+  "description": {
+    "de": "Diese Plattform wurde als kombinierte Wartungs-, Test- und Ausstellungsanlage für alte Bergbau-Varianten des Scythe-Kreuzers konfiguriert. Die Minmatar Mining Corporation hat eine beträchtliche Anzahl von Bergbau-Varianten der Scythe behalten, obwohl sie auch weitaus effizientere Bergbaubarkassen und Ausgrabungsschiffe einsetzt.",
+    "en": "This pad has been configured as a combination maintenance, testing and display facility for old mining variants of the Scythe cruiser design. The Minmatar Mining Corporation has retained a significant number of mining variant Scythes in inventory despite its extensive use of vastly more efficient mining barges and exhumers.",
+    "es": "Esta plataforma ha sido configurada como una combinación de instalaciones de mantenimiento, pruebas y exposiciones de las antiguas versiones mineras del diseño del crucero Scythe. Minmatar Mining Corporation ha conservado un considerable número de versiones mineras de la Scythe, pese al extendido uso de gabarras mineras y exhumadores, mucho más eficientes.",
+    "fr": "Cette plateforme a été configurée pour servir d'installation de maintenance, d'essai et d'exposition pour les anciennes variantes d'extraction minière du croiseur Scythe. La Minmatar Mining Corporation a conservé un nombre important de variantes d'extraction minière Scythe en réserve malgré une utilisation intensive de barge d'extraction minière et d'Exhumers.",
+    "ja": "このパッドは古い採掘仕様サイス級巡洋艦のメンテナンス、テスト、そして展示をまとめて行うことができる設備である。ミンマター採掘コーポレーションは、はるかに効率の良い採掘艦や特化型採掘艦を幅広い範囲で使用しているにもかかわらず、採掘仕様サイスを大量に保持し続けている。",
+    "ko": "채굴용 사이드를 위한 정비 및 보관시설입니다. 민마타 채굴사는 현재 기존에 사용하던 채굴용 사이드 대신 보다 효율적인 채광선 또는 익스허머를 운용하고 있습니다.",
+    "ru": "Эта площадка представляет собой многофункциональный объект, предназначенный для ремонта, тестирования и демонстрации старых буровых крейсеров «Скайт». В ангарах «Минматарской добывающей корпорации» хранится множество буровых «Скайтов», хотя в её распоряжении находятся и куда более современные и эффективные буровые баржи и вскрышно-буровые корабли.",
+    "zh": "这个平台是镰刀级巡洋舰的采矿衍生型号的维护、测试和展示设施。尽管多数时候还是使用更具效率的采矿驳船和采掘者，米玛塔尔矿业联合体的仓库中还是保留了大量的采矿型镰刀级。"
+  },
+  "graphicID": 2409,
+  "groupID": 226,
   "name": {
     "de": "MMC Scythe Maintenance Pad",
     "en": "MMC Scythe Maintenance Pad",
@@ -10,5 +21,8 @@
     "ru": "MMC Scythe Maintenance Pad",
     "zh": "米玛塔尔矿业联合体镰刀级维护平台"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 785.0,
+  "sofFactionName": "genericbase"
 }

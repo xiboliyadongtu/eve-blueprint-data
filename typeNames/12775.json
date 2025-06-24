@@ -1,5 +1,21 @@
 {
-  "typeID": 12775,
+  "basePrice": 1000000.0,
+  "description": {
+    "de": "Eine erweiterte Version der Standard-Nuklearmunition mit einem mit Morphite angereicherten Gefechtskopf und einem intelligenten Nachführungssystem. 25 % geringere Nachführung. 50 % höherer Präzisionsabfall. Hinweis: Diese Munition kann nur von großen Technologiestufe II-, Fraktions- und Offiziers-Maschinenkanonen verwendet werden.",
+    "en": "An advanced version of the standard Nuclear ammo with a Morphite-enriched warhead and a smart tracking system. \r\n\r\n25% reduced tracking.\r\n50% increased falloff.\r\n\r\nNote: This ammunition can only be used by large tech level II, faction and officer Autocannons.",
+    "es": "Versión avanzada de la munición nuclear estándar con una ojiva enriquecida con morfita y un sistema de rastreo inteligente.\n\nRastreo reducido un 25 %.\n\n50 % de aumento al alcance efectivo.\n\nAviso: Esta munición solo es compatible con cañones automáticos T2, faccionarios y oficiales para naves grandes.",
+    "fr": "Version avancée des munitions nucléaires standard dotées d'une ogive enrichie en morphite et d'un système de poursuite intelligent. Poursuite réduite de 25 %. Déperdition augmentée de 50 %. Remarque : ces munitions ne peuvent s'utiliser qu'avec les grands canons automatiques d'officier, de faction et de niveau technologique II.",
+    "ja": "アップグレードされた核融合弾。モルファイトの含有率を高めた弾頭、高性能な追跡システムを備えている。\n\n\n\n追跡速度が25%低下。\n\n精度低下範囲が50%拡大。\n\n\n\n注：この弾は大型T2、ファクション、およびオフィサーオートキャノン専用である。",
+    "ko": "살상력 향상을 위해 농축 포르파이트 탄두와 스마트 추적 시스템을 적용하였습니다. <br><br>트래킹 속도 25% 감소 <br>유효사거리 50% 증가 <br><br>참고: 대형 테크 II, 팩션, 장교급 기관포에만 장착할 수 있습니다.",
+    "ru": "Улучшенная версия стандартного ядерного заряда с обогащённой морфитом боеголовкой и «умной» системой наведения. Наведение ухудшено на 25%. Остаточная дальность увеличена на 50%. Примечание: эти боеприпасы могут использовать только корабли большого тоннажа второго техноуровня, государственные и офицерские автопушки.",
+    "zh": "标准核芯弹的改进版本，搭载了富含莫尔石的弹头和智能跟踪系统。 \n\n\n\n跟踪速度降低25%。\n\n失准范围增加50%。\n\n\n\n注：只能用于二级科技、势力和官员大型自动加农炮。"
+  },
+  "graphicID": 1304,
+  "groupID": 372,
+  "iconID": 1304,
+  "marketGroupID": 857,
+  "mass": 0.01,
+  "metaGroupID": 2,
   "name": {
     "de": "Barrage L",
     "en": "Barrage L",
@@ -10,5 +26,9 @@
     "ru": "Barrage L",
     "zh": "雷暴 L"
   },
+  "portionSize": 5000,
+  "published": true,
+  "raceID": 2,
+  "variationParentTypeID": 195,
   "volume": 0.025
 }

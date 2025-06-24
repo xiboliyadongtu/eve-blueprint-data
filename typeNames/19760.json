@@ -1,5 +1,18 @@
 {
-  "typeID": 19760,
+  "basePrice": 200000.0,
+  "description": {
+    "de": "Besseres Verständnis für Signalwellen. 10% Bonus auf den Präzisionsabfall von ECM, Sensorferndämpfern, Waffenstörern, Fern-Nachführungscomputern, Fern-Sensorboostern und Zielmarkierern je Skillstufe.",
+    "en": "Advanced understanding of signal waves. 10% bonus to falloff for ECM, Remote Sensor Dampeners, Weapon Disruptors, Remote Tracking Computers, Remote Sensor Boosters and Target Painters per skill level.",
+    "es": "Comprensión avanzada de las ondas de señales. 10 % de bonificación al alcance efectivo de las ECM, atenuadores de sensor remotos, disruptores de armas, ordenadores de rastreo remotos, potenciadores de sensor remotos y reveladores de objetivo por nivel de habilidad.",
+    "fr": "Compréhension avancée des ondes de signal. Augmente de 10 % par niveau de compétence la déperdition des CME, atténuateurs de détection à distance, perturbateurs d'armement, ordinateurs de poursuite à distance, boosters de détection à distance et marqueurs de cible.",
+    "ja": "信号波についての深い理解。スキルレベルが上昇するごとに、ECM、リモートセンサーダンプナー、兵器妨害器、リモートトラッキングコンピュータ、リモートセンサーブースター、ターゲットペインターの精度低下範囲が10%改善。",
+    "ko": "신호파에 대한 심층적인 이해를 습득합니다. 매 레벨마다 ECM, 원격 센서 댐프너, 무기 디스럽터, 원격 트래킹 컴퓨터, 원격 센서 부스터 및 타겟 페인터 유효사거리 10% 증가",
+    "ru": "Углублённые познания в области работы с передатчиками и системами электронной борьбы. За каждую степень освоения навыка: на 10% увеличивается добавочная дальность действия модулей глушения захвата целей (ECM), модулей подавления захвата целей (Remote Sensor Dampener), постановщиков помех системам наводки (Weapon Disruptor), передатчиков данных наводки (Remote Tracking Computer), передатчиков для систем захвата целей (Remote Sensor Boosters) и систем подсветки цели (Target Painter).",
+    "zh": "关于信号波的高级知识。每升一级，ECM目标干扰器、远程感应抑阻器、武器扰断器、远距索敌计算机、远程感应增强器和目标标记装置的失准范围增加10%。"
+  },
+  "groupID": 272,
+  "iconID": 33,
+  "marketGroupID": 367,
   "name": {
     "de": "Frequency Modulation",
     "en": "Frequency Modulation",
@@ -10,5 +23,8 @@
     "ru": "Частотная модуляция",
     "zh": "频率调制理论"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 30515,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Wozu dieses Ding gut gewesen sein soll, lässt sich nicht mehr erahnen, mittlerweile ist es aber definitiv nur noch Schrott.",
+    "en": "There's no telling what this used to be; now though it's definitely scrap",
+    "es": "No hay forma de saber qué era antes, pero ahora es chatarra.",
+    "fr": "Impossible de dire ce dont il s'agissait. Rien de plus que des débris sans valeur.",
+    "ja": "以前何だったのかは分からないが、今は間違いなくクズ鉄だ。",
+    "ko": "이게 무엇이었는지를 알려주는 부분은 없지만, 지금은 그저 고철 더미입니다.",
+    "ru": "Ничто не указывает на то, чем это было. Хотя сейчас можно сказать с уверенностью, что это — мусор.",
+    "zh": "没有任何线索告诉大家这是个什么东西，现在姑且就把它当作是一堆垃圾。"
+  },
+  "graphicID": 3582,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Unidentified Wreckage",
     "en": "Unidentified Wreckage",
@@ -10,5 +23,9 @@
     "ru": "Unidentified Wreckage",
     "zh": "不明残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 1000.0,
+  "sofFactionName": "debris",
   "volume": 100000000.0
 }

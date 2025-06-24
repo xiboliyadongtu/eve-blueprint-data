@@ -1,5 +1,16 @@
 {
-  "typeID": 30898,
+  "description": {
+    "de": "Ein Transporter der Wreathe-Klasse.",
+    "en": "A Wreathe-class hauler.",
+    "es": "Nave de mercancías de clase Wreathe.",
+    "fr": "Un cargo de classe Wreathe.",
+    "ja": "ウレス級のハウラー。",
+    "ko": "레이쓰급 운반선입니다.",
+    "ru": "Перевозчик класса «Риф».",
+    "zh": "一艘环绕级运载舰。"
+  },
+  "graphicID": 310,
+  "groupID": 226,
   "name": {
     "de": "Minmatar Wreathe Hauler",
     "en": "Minmatar Wreathe Hauler",
@@ -10,5 +21,9 @@
     "ru": "Minmatar Wreathe Hauler",
     "zh": "米玛塔尔环绕级运载舰"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 207.0,
+  "sofFactionName": "minmatarbase"
 }

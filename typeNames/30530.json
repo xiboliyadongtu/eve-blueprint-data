@@ -1,5 +1,18 @@
 {
-  "typeID": 30530,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieses Schiff wurde offenbar ausgeschlachtet und dann seinem Schicksal überlassen.",
+    "en": "It looks like this ship was gutted, then left to drift.",
+    "es": "Parece que se desvalijó esta nave y luego se dejó a la deriva.",
+    "fr": "On dirait que ce vaisseau a été pillé, puis laissé à l'abandon.",
+    "ja": "この船は全焼し、放置されて漂っているようだ。",
+    "ko": "내부가 훼손된 채 하염없이 우주를 부유하고 있습니다.",
+    "ru": "Похоже на то, что этот корабль сперва выпотрошили, а потом оставили дрейфовать.",
+    "zh": "看上去这艘船遭受了劫掠，然后被抛弃在茫茫太空。"
+  },
+  "graphicID": 3532,
+  "groupID": 1207,
+  "mass": 10000.0,
   "name": {
     "de": "Derelict Talocan Frigate",
     "en": "Derelict Talocan Frigate",
@@ -10,5 +23,9 @@
     "ru": "Derelict Talocan Frigate",
     "zh": "荒弃的塔洛迦护卫舰"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 60.0,
+  "sofFactionName": "talocanbase",
   "volume": 27500.0
 }

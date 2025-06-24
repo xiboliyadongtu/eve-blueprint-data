@@ -1,5 +1,18 @@
 {
-  "typeID": 3506,
+  "capacity": 7500.0,
+  "description": {
+    "de": "Dieser Nexus beheimatet diverse Mitarbeiter und Komponenten zur Koordination der Flotte von Sansha's Nation. Trotz der äußerst ausgeprägten Führungsqualitäten der Kommandeure von Sansha's Nation vor Ort, werden diese oftmals durch nahegelegene Kontrolleinrichtungen umfassend unterstützt.",
+    "en": "This nexus houses various personnel and components used to coordinate Sansha fleets. Although Nation‘s on-field commanders are highly capable leaders, they are often supported in various ways by a nearby control facility.",
+    "es": "Este nexo alberga a personal de diferentes tipos, además de componentes para coordinar las flotas sanshas. Por muy capaces que sean los comandantes de operaciones de la Nación, suelen contar con el apoyo de una instalación de control cercana.",
+    "fr": "Ce centre de commandement accueille du personnel et des composants utilisés pour coordonner les flottes sansha. Si les commandants des opérations de la Nation sont parfaitement compétents, ils peuvent néanmoins souvent s'appuyer sur les centres de commandement à proximité.",
+    "ja": "サンシャフリートを指揮する人員や部品を収容するタワー。実際に参戦する司令官は能力の高いリーダーであるが、近隣のコントロール施設からさまざまなサポートを受けている。",
+    "ko": "이 넥서스에는 산샤 네이션의 함대를 편성하기 위한 병력이 대기하고 있으며 다양한 부품들이 저장되어있습니다. 전장에서 활약하고 있는 산샤 네이션의 사령관들은 능력이 출중하기도 하지만, 그들이 이룬 성과는 관제 시설의 다양한 지원이 있었기에 가능한 것입니다.",
+    "ru": "Персонал и оборудование этого центра используются для координации действий флотов Sansha. Несмотря на то, что полевые командиры Нации являются, как правило, чрезвычайно одаренными лидерами, они часто прибегают к помощи таких координационных центров.",
+    "zh": "该中枢里有各种负责萨沙舰队协调工作的工作人员与设备。虽然萨沙的战地指挥官都是很有本事的领导人物，他们还是需要其周围的一座控制设施来辅助他们。"
+  },
+  "graphicID": 3295,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Central Control Nexus",
     "en": "Central Control Nexus",
@@ -10,5 +23,9 @@
     "ru": "Central Control Nexus",
     "zh": "控制中枢"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 3394.0,
+  "sofFactionName": "sanshabase",
   "volume": 27500.0
 }

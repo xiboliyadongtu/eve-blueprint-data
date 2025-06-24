@@ -1,5 +1,18 @@
 {
-  "typeID": 3301,
+  "basePrice": 30000.0,
+  "description": {
+    "de": "Bedienung kleiner Hybridgeschütztürme.\r\n\r\n5% Bonus auf die Schadenswirkung kleiner Hybridgeschütztürme je Skillstufe.",
+    "en": "Operation of small hybrid turrets. 5% Bonus to small hybrid turret damage per level.",
+    "es": "Funcionamiento de torretas híbridas pequeñas. 5 % de bonificación por nivel al daño de las torretas híbridas pequeñas.",
+    "fr": "Aptitude à utiliser les petites tourelles hybrides. Augmente de 5 % par niveau les dégâts des petites tourelles hybrides.",
+    "ja": "小型ハイブリッドタレットを操作するためのスキル。レベル上昇ごとに小型ハイブリッドタレットダメージに 5% のボーナス。",
+    "ko": "소형 하이브리트 터렛 운용을 위한 스킬입니다. 매 레벨마다 소형 하이브리드 터렛 피해량 5% 증가",
+    "ru": "Навык эксплуатации малых гибридных орудий. За каждую степень освоения навыка: на 5% повышается урон малых гибридных орудий.",
+    "zh": "操作小型混合炮台的技能。每升一级，小型混合炮台的伤害提升5%。"
+  },
+  "groupID": 255,
+  "iconID": 33,
+  "marketGroupID": 364,
   "name": {
     "de": "Small Hybrid Turret",
     "en": "Small Hybrid Turret",
@@ -10,5 +23,7 @@
     "ru": "Малые гибридные орудия",
     "zh": "小型混合炮台研究"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

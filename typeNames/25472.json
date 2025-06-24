@@ -1,5 +1,18 @@
 {
-  "typeID": 25472,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Diese Produktionseinrichtung für Drohnen wird von einer hochentwickelten künstlichen Intelligenz gesteuert. Sie wird jeden angreifen, den sie als Bedrohung auffasst.",
+    "en": "This drone manufacturing facility is controlled by a highly advanced AI.  It will attack anyone it perceives as a threat.",
+    "es": "Esta instalación de fabricación de drones está controlada por una IA muy avanzada. Atacará a todo el que perciba como una amenaza.",
+    "fr": "Cette installation de fabrication de drones est contrôlée par une intelligence artificielle extrêmement évoluée.  Elle attaque toute personne considérée comme une menace.",
+    "ja": "最新鋭の人工知能で管理されているドローン製造所。敵と見なせば誰でも攻撃する。",
+    "ko": "최첨단 인공지능이 관리하고 있는 드론 제조시설입니다. 위협으로 간주되는 대상을 공격합니다.",
+    "ru": "Эта фабрика по производству дронов управляется модулем искусственного интеллекта. Он атакует всех, кого посчитает опасностью.",
+    "zh": "这是一个由高级人工智能控制的无人机制造设施。它会攻击任何其视为威胁的目标。"
+  },
+  "graphicID": 2366,
+  "groupID": 495,
+  "mass": 100000.0,
   "name": {
     "de": "Drone Creation Compound",
     "en": "Drone Creation Compound",
@@ -10,5 +23,11 @@
     "ru": "Drone Creation Compound",
     "zh": "无人机生产设施"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 1672.0,
+  "sofFactionName": "genericindustrial",
+  "soundID": 31,
   "volume": 100000000.0
 }

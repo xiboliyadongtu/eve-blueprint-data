@@ -1,5 +1,18 @@
 {
-  "typeID": 24670,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Fertigungshallen sind oft erforderlich, um high-tech oder illegale Module zu produzieren, von denen die großen Imperien nicht wollen, dass sie in ihrem Hoheitsgebiet hergestellt werden. Das hier ist eine der größten ihrer Art. Sie kann große Mengen Ausrüstung in relativ kurzer Zeit produzieren. Diese Anlage wird von Baron Haztari Arkhi verwaltet.",
+    "en": "Assembly Arrays are oftentimes required to manufacture many high-tech and illegal modules that the empires don't want manufactured in their stations.  This is one of the biggest of its kind, able to churn out a great deal of equipment in relatively short order.\r\n\r\nThis structure is being guarded by Baron Haztari Arkhi.",
+    "es": "Las baterías de montaje a menudo son necesarias para fabricar muchos módulos ilegales y de alta tecnología que los imperios no quieren que se fabriquen en sus estaciones. Esta es una de las más grandes de su clase, capaz de producir una gran cantidad de aparatos en un tiempo relativamente corto.\n\nEsta estructura está siendo protegida por el Barón Haztari Arkhi.",
+    "fr": "Les modules d'assemblage sont souvent nécessaires pour produire des modules de haute technologie et illégaux que les empires refusent de produire dans leurs stations.  C'est l'un des modules plus importants de ce type. Il peut produire de nombreux équipements dans des délais relativement courts.\n\nCette structure est placée sous la surveillance du baron Haztari Arkhi.",
+    "ja": "直営ステーション内で製造されることを帝国が避けたい、高度で違法なモジュールの多くは、組み立て施設がないと製造できない。このアセンブリ施設は最大級のもので、短時間で大量生産が可能。バロンアーキハズタリの手で安全が守られている。",
+    "ko": "각 국가에서 생산을 금지한 최첨단 모듈들을 자유롭게 제작할 수 있는 생산 시설입니다. 불법 시설 가운데서도 규모가 큰 편으로 다량의 장비를 신속하게 생산할 수 있습니다. <br><br>해당 시설은 하즈타리 아르키 남작에 의해 보호되고 있습니다.",
+    "ru": "Для изготовления некоторых модулей, которые империи по тем или иным причинам не разрешают производить на принадлежащих им станциях, часто используются передвижные сборочные цеха. Это сооружение — один из крупнейших цехов такого рода. Он способен выпускать большие партии оборудования в довольно сжатые сроки. \n\nЦех охраняется бароном Haztari Arkhi.",
+    "zh": "装配阵列经常被用于制造那些许多帝国不想在自己的空间站内制造的非法高科技模块。这是同类建筑中最大的一种，能在相对较短的时间内生产出大量设备。 该建筑由哈扎利·阿克希男爵守卫。"
+  },
+  "graphicID": 2366,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Starbase Major Assembly Array",
     "en": "Starbase Major Assembly Array",
@@ -10,5 +23,11 @@
     "ru": "Starbase Major Assembly Array",
     "zh": "母星主装配阵列"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 1672.0,
+  "sofFactionName": "genericindustrial",
+  "soundID": 31,
   "volume": 100000000.0
 }

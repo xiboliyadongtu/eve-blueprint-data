@@ -1,5 +1,17 @@
 {
-  "typeID": 21634,
+  "description": {
+    "de": "Ein Datenchip, der die Koordinaten für einen geheimen Hangar enthält, der von örtlichen Banditen genutzt wird.",
+    "en": "A data chip containing the location of a secret garage operated by the local bandits.",
+    "es": "Este chip de datos contiene la ubicación de un garaje secreto en manos de los bandidos locales.",
+    "fr": "Puce de données contenant l'emplacement d'un atelier secret utilisé par les bandits de la région.",
+    "ja": "地元の盗賊が管理する秘密のガレージの位置情報が入ったデータチップ。",
+    "ko": "약탈자들의 비밀 격납고 위치가 담긴 데이터 칩입니다.",
+    "ru": "Чип данных, содержащий информацию о местоположении секретного ангара, используемого местными бандитами.",
+    "zh": "一块数据芯片，含有本地区强盗经营的某秘密机修库所在位置。"
+  },
+  "groupID": 526,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Secret Garage Coordinates",
     "en": "Secret Garage Coordinates",
@@ -10,5 +22,7 @@
     "ru": "Secret Garage Coordinates",
     "zh": "秘密机修库钥匙"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

@@ -1,5 +1,19 @@
 {
-  "typeID": 11590,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieser High-Tech Container ist ein Lager für alte Drohnensensoren.",
+    "en": "This high-tech container is a storage for old drone sensors.",
+    "es": "Este contenedor de alta tecnología es un almacén de sensores de drones viejos.",
+    "fr": "Ce conteneur de haute technologie sert à stocker les anciens détecteurs de drones.",
+    "ja": "旧式ドローンセンサーを保管するハイテクコンテナ。",
+    "ko": "노후된 드론 센서를 저장하는 최첨단 컨테이너입니다.",
+    "ru": "Этот высокотехнологичный контейнер - хранилище старых сенсоров дронов.",
+    "zh": "这个高技术的集装箱是老式无人机感应器的储藏库。"
+  },
+  "graphicID": 1176,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Drone Sensor Storage",
     "en": "Drone Sensor Storage",
@@ -10,5 +24,9 @@
     "ru": "Drone Sensor Storage",
     "zh": "无人机感应器仓库"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericmetal",
   "volume": 2750.0
 }

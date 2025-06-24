@@ -1,5 +1,16 @@
 {
-  "typeID": 29586,
+  "description": {
+    "de": "Eine Absperrung.",
+    "en": "A barrier.",
+    "es": "Una barrera.",
+    "fr": "Une barrière.",
+    "ja": "バリアー。",
+    "ko": "배리어입니다.",
+    "ru": "Барьер.",
+    "zh": "屏障"
+  },
+  "graphicID": 2591,
+  "groupID": 226,
   "name": {
     "de": "Fortified Drone Barrier",
     "en": "Fortified Drone Barrier",
@@ -10,5 +21,9 @@
     "ru": "Fortified Drone Barrier",
     "zh": "强化的无人机屏障"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 815.0,
+  "sofFactionName": "roguebase"
 }

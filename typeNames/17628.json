@@ -1,5 +1,18 @@
 {
-  "typeID": 17628,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieser Industrial der Iteron-V-Klasse wird zur Zeit gewartet.",
+    "en": "This Iteron V-class industrial is currently undergoing maintenance.",
+    "es": "Esta nave industrial de clase Iteron V está en mantenimiento.",
+    "fr": "Ce vaisseau industriel de classe Iteron V est en cours de maintenance.",
+    "ja": "このイタロンV級輸送艦は、現在メンテナンス中である。",
+    "ko": "정비 중인 이테론 V급 인더스트리얼입니다.",
+    "ru": "Промышленный корабль класса Iteron V, стоящий на ремонте.",
+    "zh": "这艘伊特龙V工业舰正在进行维护。"
+  },
+  "graphicID": 328,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Stationary Iteron V",
     "en": "Stationary Iteron V",
@@ -10,5 +23,10 @@
     "ru": "Stationary Iteron V",
     "zh": "停靠着的伊特龙"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 553.0,
+  "sofFactionName": "gallentebase",
   "volume": 100000000.0
 }

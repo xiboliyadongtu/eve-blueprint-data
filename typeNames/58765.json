@@ -1,5 +1,18 @@
 {
-  "typeID": 58765,
+  "capacity": 8000.0,
+  "description": {
+    "de": "Dies ist ein schweres Elite-Schlachtschiff der fanatischen Organisation Equilibrium of Mankind, einer radikalen und ketzerischen Amarr-Sekte, die sich einer apokalyptischen religiösen Ideologie verschrieben haben. Die Mitglieder des EoM sind in ganz New Eden anzutreffen. Ihr Ziel ist es, ihre „göttliche Mission“ zu erfüllen: die menschliche Rasse innerhalb des Clusters auszulöschen und es Gott allein zu überlassen.",
+    "en": "This is an elite heavy assault battleship of the fanatical Equilibrium of Mankind organization, a radical and heretical Amarr sect dedicated to an apocalyptic religious ideology. Members of the EoM can be found across New Eden, attempting to accomplish their supposedly \"divine mission\" of annihilating the human race within the cluster and leaving it for God alone.",
+    "es": "Acorazado de asalto pesado de élite de los fanáticos de Equilibrium of Mankind, una secta radical y herética amarriana que profesa una ideología religiosa apocalíptica. Los miembros de EoM están por todo Nuevo Edén intentando cumplir su «misión divina» de aniquilar a la raza humana dentro del cúmulo para dejarlo a la entera disposición de Dios.",
+    "fr": "Ce cuirassé d’assaut lourd d'élite appartient à l'organisation fanatique Equilibrium of Mankind, une secte amarr d'hérétiques radicaux consacrée à une idéologie religieuse apocalyptique. On peut trouver les membres d’EoM à travers tout New Eden, tentant d’accomplir leur prétendue « mission divine » d’extermination de l’espèce humaine dans la galaxie, afin de la laisser à Dieu seul.",
+    "ja": "この重装備の強襲型エリート戦艦は、狂信的集団であるイクイブリアムオブマンカインド（EoM）のものである。EoMは、終末論的宗教イデオロギーにのめり込んでいる、過激かつ異端なアマーの派閥の一つである。そのメンバーはニューエデン中に存在しており、星団から人類を一掃して神に託すという、彼らが言うところの『聖なる任務』の達成に向けて邁進している。",
+    "ko": "균형의 수호자(EoM) 소속 헤비 어썰트 배틀쉽입니다. 균형의 수호자는 아마르 제국 출신의 광신도 집단으로 종말론을 추종합니다. 뉴에덴 전역에서 활동하며 신의 뜻에 따라 인류를 말살하는 \"신성한 사명\"을 추구합니다.",
+    "ru": "Это элитный тяжёлый штурмовой линкор религиозного культа «Равновесие человечества» — амаррской радикальной еретической секты, исповедующей идеологию апокалипсиса. Члены «Равновесия человечества» встречаются по всему Новому Эдему. Они стремятся выполнить своё «высшее предназначение» — уничтожить всех людей в секторе, чтобы он достался одному только Богу.",
+    "zh": "这是一艘“人类平衡”（EoM）组织的精英重型突击战列舰。EoM是一个狂热艾玛宗教派别，意识形态非常极端。EoM的成员遍布宇宙，企图实现灭绝全人类，只余神的统治的“神圣计划”。"
+  },
+  "graphicID": 2508,
+  "groupID": 1667,
+  "mass": 97100000.0,
   "name": {
     "de": "EoM Sacred Assassin",
     "en": "EoM Sacred Assassin",
@@ -10,5 +23,9 @@
     "ru": "EoM Sacred Assassin",
     "zh": "EoM神圣刺客"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 400.0,
+  "sofFactionName": "eom",
+  "soundID": 31
 }

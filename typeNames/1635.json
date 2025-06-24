@@ -1,5 +1,15 @@
 {
-  "typeID": 1635,
+  "description": {
+    "de": "Modifikator für Fraktionsansehen sinkt um 25% gegenüber Fraktionen anderer Völker.",
+    "en": "Faction standing modifier -25% vs. factions of other race.",
+    "es": "25 % de reducción al prestigio con facciones de otras razas.",
+    "fr": "Réduit de 25 % la réputation de la faction envers les factions d'autres races.",
+    "ja": "他の種族の勢力に対するファクションスタンディング修正値-25%。",
+    "ko": "타 팩션 평판 25% 감소",
+    "ru": "-25% репутации среди фракций других рас.",
+    "zh": "相对其他种族势力的势力声望修正系数减少25%。"
+  },
+  "groupID": 193,
   "name": {
     "de": "Xenophobia Bonus",
     "en": "Xenophobia Bonus",
@@ -10,5 +20,6 @@
     "ru": "Xenophobia Bonus",
     "zh": "仇外综合症加成"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

@@ -1,5 +1,16 @@
 {
-  "typeID": 83686,
+  "description": {
+    "de": "Wasserfall-Sortiervorrichtung, die automatisierte mechanische Verfahren nutzt, um föderale Pakete zu sortieren.",
+    "en": "Waterfall flow sorting facility that uses automated mechanical processes to sort federal packages.",
+    "es": "Instalación de clasificación de flujo en cascada que utiliza procesos mecánicos automatizados para clasificar paquetes federales.",
+    "fr": "Installation de tri à flux en cascade utilisant des procédés mécaniques automatisés pour trier les colis fédéraux.",
+    "ja": "自動化された機械式の流れ作業で連邦関連の荷物を分類している施設。",
+    "ko": "연방이 운영하는 물류처리시설로 단계별 자동화 분류 방식을 도입하였습니다.",
+    "ru": "Каскадный сортировочный пункт, использующий автоматизированные механические процессы для сортировки федеральных посылок.",
+    "zh": "该水流式分拣设施采用自动化机械技术，可对联邦包裹进行分类整理。"
+  },
+  "graphicID": 27543,
+  "groupID": 226,
   "name": {
     "de": "Mechanized Sorting Office",
     "en": "Mechanized Sorting Office",
@@ -10,5 +21,8 @@
     "ru": "Mechanized Sorting Office",
     "zh": "机械化分拣办公室"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 231.0,
+  "sofFactionName": "gallentebase"
 }

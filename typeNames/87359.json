@@ -1,5 +1,16 @@
 {
-  "typeID": 87359,
+  "description": {
+    "de": "An Bord dieser Cenotaph versuchen Agenten des Deathless Circle, Einblicke in die Pläne der Drifter zu erhalten, indem sie die Geheimnisse von Spectral Vision Captures freischalten. Mit genügend Captures sollten sie die darin verborgenen Visionen rekonstruieren können. Sie belohnen alle Kapselpiloten, die ihnen ein vollständiges Set aller 12 Captures zur Verfügung stellen.",
+    "en": "Aboard this cenotaph, Deathless Circle operatives are trying to gain insights into the Drifter’s plans by unlocking the secrets of Spectral Vision Captures. With enough Captures, they should be able to reconstruct the Visions hidden within.\r\n\r\nThey will reward any capsuleers who bring them a complete set of all 12 Captures.",
+    "es": "A bordo de esta Cenotaph, los agentes del Círculo Inmortal intentan comprender los planes de los drifters desvelando los secretos de las capturas de visión espectral. Con suficientes capturas, deberían poder reconstruir las visiones que oculta.\r\n\r\nRetribuirán a cualquier capsulista que traiga un conjunto completo de las 12 capturas.",
+    "fr": "À bord de ce Cenotaph, les opérateurs du Cercle Immortel tentent de percer les plans des Drifters en révélant les secrets des captures de vision spectrale. Avec suffisamment de captures, ils devraient pouvoir reconstituer les visions cachées à l'intérieur. Ils récompenseront tous les capsuliers qui leur apporteront un ensemble complet des 12 captures.",
+    "ja": "このセノターフを操縦するデスレス・サークルの工作員は、スペクトルビジョンのキャプチャデータのロックを解除することでドリフターの計画を暴こうとしている。十分なキャプチャデータがあれば、その中に隠されているビジョンを再構築できるはずだ。\r\n\r\n12種類のキャプチャデータを全て提供したカプセラは報酬を受け取れる。",
+    "ko": "데스리스 서클의 공작원들이 세노타프에서 스펙트럴 방출 이미지를 분석해 드리프터의 계획을 밝히려고 합니다. 방출 이미지를 충분히 모으면 원본을 복원할 수 있을 것입니다.\r\n\r\n12가지 방출 이미지를 모두 회수한 캡슐리어에게 보상을 제공합니다.",
+    "ru": "На борту этого крейсера Cenotaph агенты «Бессмертного круга» анализируют снимки спектральных сцен, пытаясь проникнуть в планы Скитальцев. Получив достаточно снимков, они смогут воссоздать полную картину. Вознаграждение ждёт каждого капсулёра, который доставит сюда полный набор из 12 снимков.",
+    "zh": "不死循环的特工正在努力破解这座纪念碑上光谱视觉捕捉器的秘密，试图窥探流浪者的计划。有了足够的捕捉器，他们应该就能重建隐藏其中的视觉图像了。提交一整套（12个）捕捉器的克隆飞行员可以获得相应奖励。"
+  },
+  "graphicID": 27876,
+  "groupID": 226,
   "name": {
     "de": "Capture Trader Cenotaph",
     "en": "Capture Trader Cenotaph",
@@ -10,5 +21,8 @@
     "ru": "Capture Trader Cenotaph",
     "zh": "捕捉器贸易商纪念碑"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 500.0,
+  "sofFactionName": "deathless"
 }

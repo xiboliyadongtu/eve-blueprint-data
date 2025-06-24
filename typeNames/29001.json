@@ -1,5 +1,19 @@
 {
-  "typeID": 29001,
+  "basePrice": 4000.0,
+  "description": {
+    "de": "Diese Scripts wurden ursprünglich von einer jugendlichen Hackergruppe namens \"Fendahlian Collective\" verwendet, um an High-Tech-Sicherheitsfirmware vorbeizukommen. Sie enthalten einen komplexen Code, der die inneren Abläufe bestimmter Modulen verändert, indem er direkte Befehle in die Firmware eingibt. Die Einsatzmöglichkeiten dieser Technologie blieben den großen Corporations nicht verborgen, und die Jugendlichen, die sie entwickelt hatten, leiten nun ihre eigenen Forschungsabteilungen.\n\n\n\nDieses Script kann in einen Nachführcomputer oder ein Tracking Link-Modul geladen werden, um die Nachführgeschwindigkeit auf Kosten der optimalen Reichweite dieser Module zu erhöhen.",
+    "en": "Originally used by the adolescent hacker group The 'Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a tracking computer or tracking link module to increase the module's tracking speed bonus at the expense of its optimal range bonus.",
+    "es": "Estos paquetes de scripts, utilizados originalmente por el grupo de hackers adolescentes The Fendahlian Collective para sortear firmware de seguridad de alta tecnología, contienen un código intrincado que modifica el comportamiento propio de ciertos módulos mediante la inserción directa de comandos en el firmware. Las aplicaciones de esta tecnología no les pasaron desapercibidas a los agentes principales, así que los chavales que la inventaron ahora dirigen sus propias divisiones de investigación.\n\nEste script puede cargarse en un módulo de enlace de rastreo o en un ordenador de rastreo para aumentar la bonificación de velocidad de rastreo del módulo en perjuicio de su bonificación de alcance óptimo.",
+    "fr": "Initialement utilisés par le groupe de hackers adolescents appelé le « Collectif fendahlien » pour pirater les logiciels de sécurité high-tech, ces packs d'écritures contiennent des codes complexes permettant d'altérer le comportement de certains modules en insérant directement des commandes dans le logiciel. Ces technologies sont encore utilisées aujourd'hui, et les gamins qui en sont à l'origine se trouvent maintenant à la tête de leur propre division de recherche.\n\nCette écriture peut être chargée sur un ordinateur de suivi ou un module de liaison de suivi afin d'augmenter la vitesse de suivi du module, aux dépens de sa portée optimale.",
+    "ja": "元々は少年ハッカーグループ「フェンダリアンコレクティブ」が高度なセキュリティファームウェアの内部を覗くために使用したスクリプトのセット。ファームウェアに直接コマンドを書き込むことで一部のモジュールの動作を変更する、複雑なコードである。これほどの技術を駆使してのけた腕は一流の専門家にもひけをとるものではなく、考案者の少年たちは今や自ら研究部門を率いる身だ。\r\n\nこのスクリプトを追跡妨害モジュールにロードすると、最適射程距離効果が低下する代わりに、追跡速度効果が増える。",
+    "ko": "펜달리안 컬렉티브`라고 불리우는 청소년 해커 집단이 첨단 보안 시스템을 뚫기 위해 사용했던 스크립트에서 유래하였습니다. 스크립트 팩은 회로를 우회하기 위한 복잡한 코드로 이루어져 있어 모듈의 성능을 사용자의 설정에 따라 조정할 수 있습니다. 대형 군수산업체에서 스크립트 팩의 잠재성을 눈여겨 보아 펜달리안 컬렉티브 멤버들을 고용하였고 현재 이들은 관련 연구분야의 수석 개발자로 활동하고 있습니다. <br><br>트래킹 컴퓨터 및 트래킹 링크 모듈에 장착이 가능하며, 장착 시 트래킹 속도가 증가하는 반면 최적사거리가 감소합니다.",
+    "ru": "Эти программы, изначально использовавшиеся для взлома систем безопасности группой хакеров, называвших себя Fendahlian Collective, способны изменять принципы работы некоторых модулей путем их программной перепрошивки. Области применения этой технологии оказались весьма широкими; подростки, которые ее изобрели, теперь возглавляют собственные исследовательские лаборатории.\n\nЭту программу можно загрузить в компьютер слежения (Tracking Computer) или ретранслятор системы целеуказания (Tracking Link), чтобы увеличить скорость слежения боевых орудий за счет уменьшения бонуса к оптимальной дальности ведения огня.",
+    "zh": "这玩意儿一开始是为一群自称为“范达连帮”的青少年骇客所用，以期破解高科技安全固件。这些脚本通过在固件中插入指令可以改变那些固件的运作方式。现在随着那帮小子的成长，他们已将儿时的发明运用到了他们现在各自牵头的科研部门里。该脚本可用在索敌计算机或者索敌连接上，以增加装备跟踪速度的加成数值，不过这样做会降低其最佳射程加成。"
+  },
+  "groupID": 907,
+  "iconID": 3347,
+  "marketGroupID": 1094,
+  "mass": 1.0,
   "name": {
     "de": "Tracking Speed Script",
     "en": "Tracking Speed Script",
@@ -10,5 +24,7 @@
     "ru": "Tracking Speed Script",
     "zh": "跟踪速度修正脚本"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

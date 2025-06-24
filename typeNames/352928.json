@@ -1,5 +1,17 @@
 {
-  "typeID": 352928,
+  "basePrice": 4680.0,
+  "description": {
+    "de": "Standardpanzerung für den Offline-Modus.",
+    "en": "Default armor used for offline mode.",
+    "es": "Blindaje predeterminado usado para el modo sin conexión.",
+    "fr": "Armure par défaut utilisée pour le mode hors connexion.",
+    "it": "Armatura predefinita utilizzata in modalità offline.",
+    "ja": "オフラインモードで使用するデフォルトアーマー。",
+    "ko": "오프라인 모드에서 사용되는 기본 방어구입니다.",
+    "ru": "Броня, используемая по умолчанию в режиме оффлайн.",
+    "zh": "适用于离线模式的默认装甲。"
+  },
+  "groupID": 351064,
   "name": {
     "de": "[DEV] Offline Dropsuit",
     "en": "[DEV] Offline Dropsuit",
@@ -11,5 +23,7 @@
     "ru": "[DEV] Скафандр не подключен",
     "zh": "[DEV]离线作战服"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

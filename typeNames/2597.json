@@ -1,5 +1,17 @@
 {
-  "typeID": 2597,
+  "description": {
+    "de": "Trotz der Tatsache, dass diese Datenchips nur logistische Informationen, Beförderungsbenachrichtigungen und andere banale Militärdaten enthalten, sind sie dennoch geheim.",
+    "en": "Despite the fact that these datachips really only contain logistical information, promotion notifications, and other mundane military records, they are nonetheless classified.",
+    "es": "Aunque estos chips no contienen más que información logística, notificaciones de ascensos y registros militares rutinarios, los datos son confidenciales.",
+    "fr": "Bien que ces puces de données ne contiennent que des informations logistiques, des notifications de promotions et autres rapports militaires sans intérêt, elles sont néanmoins classées confidentielles.",
+    "ja": "これらのデータチップに格納されているのは、実際には物流情報、昇格通知、その他のありふれた軍事記録のみという事実にも関わらず、それでも機密とされている。",
+    "ko": "데이터 칩에 물자 정보, 승진 통지, 그리고 병무 기록과 같은 사소한 정보가 저장되어 있지만 기밀자료로 취급되고 있습니다.",
+    "ru": "Несмотря на то, что чипы данных в действительности содержат только логистическую информацию, уведомления о повышениях и другие скучные армейские записи, они все равно помечены грифом «Секретно».",
+    "zh": "尽管这些数据芯片里面只包含了一些后勤信息，升职通知以及其他的例行军事记录，它们还是被打上了机密的标签。"
+  },
+  "groupID": 314,
+  "iconID": 1192,
+  "mass": 40000.0,
   "name": {
     "de": "Crates of Command Reports",
     "en": "Crates of Command Reports",
@@ -10,5 +22,7 @@
     "ru": "Crates of Command Reports",
     "zh": "装箱的指挥报告"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 40.0
 }

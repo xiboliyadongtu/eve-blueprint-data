@@ -1,5 +1,18 @@
 {
-  "typeID": 78871,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieser Imperial Counter-Insurgency Outpost wurde von der Imperial Navy und des 24th Imperial Crusade aufgestellt, um als zentraler Kommando- und Kontrollknoten für Anti-Piraten- und Aufstandsbekämpfungsoperationen zu dienen. Die Amarr-Streitkräfte halten eine starke Präsenz aufrecht und ermutigen aktiv ihre loyalen Milizpiloten, im Kampf gegen die auftretenden Piratenaufstände in der Kriegszone zu helfen. Kapselpiloten des 24th Imperial Crusade können bestimmte Informationen und Beweise, die den Piraten abgenommen wurden, gegen angemessene Vergütung abliefern.",
+    "en": "This Imperial Counter-Insurgency Outpost has been set up by the Imperial Navy and 24th Imperial Crusade to function as a central command and control hub for anti-pirate and counter-insurgency operations. Amarr forces are maintaining a strong presence while actively encouraging their loyal militia pilots to assist in the fight against the pirate insurgencies emerging in the warzone.\r\n\r\nCapsuleer members of the 24th Imperial Crusade will be able to hand in certain items of intelligence and evidence acquired from pirate forces in exchange for suitable recompense.",
+    "es": "La Armada Imperial y la 24.ª Cruzada Imperial han establecido este puesto avanzado de contrainsurgencia imperial para funcionar como centro de mando y control de operaciones antipiratas y antiinsurgencia. Las fuerzas amarrianas mantienen una fuerte presencia al tiempo que alientan activamente a sus leales milicianos a ayudar en la lucha contra las insurgencias piratas que emergen en la zona de guerra.\r\n\r\nLos capsulistas de la 24.ª Cruzada Imperial podrán entregar ciertos objetos de inteligencia y pruebas adquiridos en centros corporativos y fuerzas de seguridad a cambio de una compensación adecuada.",
+    "fr": "Cet avant-poste de contre-insurrection impérial a été établi par l'Imperial Navy et la 24th Imperial Crusade pour servir de poste de commandement central et de contrôle pour les opérations anti-pirate et de contre-insurrection. Les forces amarr maintiennent une présence forte tout en encourageant activement leurs pilotes de milice loyaux à les aider dans la lutte contre les insurrections pirates émergeant dans la zone de guerre. Les capsuliers membres de la 24th Imperial Crusade seront en mesure de remettre certains renseignements et preuves découverts chez les forces pirates en échange d'une récompense appropriée.",
+    "ja": "この帝国の反乱鎮圧アウトポストは、海賊と反乱に対する鎮圧任務における中央司令部兼管理ハブとして、帝国海軍と第24隊帝国十字軍によって建設された。アマー軍は忠実なる義勇軍パイロットたちに対し、戦争宙域で海賊たちが始めた反乱との戦いを支援するよう積極的に呼びかけている一方、紛争宙域に引き続き強大な軍事力を駐留させている。\r\n\r\n第24隊帝国十字軍の一員であるカプセラは、海賊軍勢から奪った特定の情報や証拠をここで引き渡すことで、相応の報酬を受け取ることができる。",
+    "ko": "제국 해군과 제24 크루세이드 제국 함대가 설치한 제국 반란 진압 전초기지입니다. 해적의 반란을 진압하는 중앙 지휘소 역할을 합니다. 아마르는 전쟁 영역에서 벌어지는 반란 진압에 참여하여 본대를 지원하도록 밀리샤 파일럿들을 독려하는 활동도 함께 진행하고 있습니다.<br><br>제24 크루세이드 제국 함대 소속의 캡슐리어는 해적을 격파하고 입수한 각종 정보나 범죄 활동 증거를 이곳에서 보상으로 교환할 수 있습니다.",
+    "ru": "Этот амаррский форпост противодействия интервенции учреждён имперским флотом и 24-м императорским миссионерским флотом. Он действует как главный центр управления операциями, направленными против интервентов. Амаррские войска сами активно участвуют в борьбе против интервенции пиратов в зонах боевых действий и привлекают на помощь пилотов из ополчения. Капсулёры из 24-го императорского миссионерского флота могут сдавать сюда улики и разведданные, добытые у пиратских объединений, и получать за них достойное вознаграждение.",
+    "zh": "这座帝国平叛哨站由帝国海军和帝国圣战十字第二十四军团共同建造，主要作为中央指挥与控制中心，打击海盗并镇压叛乱。艾玛部队在保持强大军力的同时，还积极鼓励忠心耿耿的国民卫队飞行员协助战斗，共同打击战区内爆发的海盗叛乱。属于帝国圣战十字第二十四军团成员的克隆飞行员可以上交从海盗部队获取的特定情报和证明材料，以换取相应报酬。"
+  },
+  "graphicID": 25693,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Imperial Counter-Insurgency Outpost Hub",
     "en": "Imperial Counter-Insurgency Outpost Hub",
@@ -10,5 +23,10 @@
     "ru": "Imperial Counter-Insurgency Outpost Hub",
     "zh": "帝国平叛哨站中心"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 20000.0,
+  "sofFactionName": "amarrnavy",
   "volume": 100000000.0
 }

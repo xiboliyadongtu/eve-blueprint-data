@@ -1,5 +1,16 @@
 {
-  "typeID": 59727,
+  "description": {
+    "de": "Alle nützlichen Mineralien und Ressourcen in diesem Asteroidenfeld wurden längst abgebaut, doch es dient weiterhin als Flug- und Bohrtestgelände für das Testzentrum der Minmatar Mining Corporation.",
+    "en": "This asteroid field has long been mined out of all useful minerals and resources but it is still used as a flight and drill testing range by the Minmatar Mining Corporation's Testing Center.",
+    "es": "En este campo de asteroides se han extraído durante mucho tiempo todos los minerales y recursos útiles, pero el centro de pruebas de Minmatar Mining Corporation todavía lo utiliza como campo de pruebas de vuelo y perforación.",
+    "fr": "Tous les minéraux et ressources utiles de ce champ d'astéroïdes ont été exploités depuis bien longtemps, mais il est toujours utilisé comme zone d'entraînement de vol et de forage par le centre d'essai de la Minmatar Mining Corporation.",
+    "ja": "このアステロイドフィールドは全ての有用な無機物が掘り尽くされて久しいが、現在もミンマター採掘コーポレーションのテストセンターによって航行やドリルのテストエリアとして使用されている。",
+    "ko": "고갈된 소행성 지대로 민마타 채굴사가 장비를 실험하기 위한 장소로 활용되고 있습니다.",
+    "ru": "В этом поле астероидов давно уже нет никаких полезных минералов и ресурсов, но испытательный центр «Минматарской добывающей корпорации» по-прежнему использует его как учебный полигон.",
+    "zh": "这个小行星带中有用的矿物和资源已被开采一空，不过仍被米玛塔尔矿业联合体测试中心用作飞行和钻探测试场所。"
+  },
+  "graphicID": 21919,
+  "groupID": 226,
   "name": {
     "de": "Mined Out Asteroid Field",
     "en": "Mined Out Asteroid Field",
@@ -10,5 +21,7 @@
     "ru": "Mined Out Asteroid Field",
     "zh": "采空的小行星带"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "sofFactionName": "asteroiddepleted"
 }

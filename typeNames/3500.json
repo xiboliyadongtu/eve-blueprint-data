@@ -1,5 +1,18 @@
 {
-  "typeID": 3500,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese gewaltige mobile Station ist ein typisches Beispiel des ingenieurtechnischen Könnens der endlosen Ränge von Sansha's Nation, in deren Führungsetage mechanische Genies sowie Meisterdesigner vertreten sind. Nahezu unzerstörbar in seiner verstärkten Struktur, verfügt die Station nur über sehr wenige Schwachpunkte und erfüllt ihre Aufgabe als ein mobiler sicherer Hafen für die Militärforscher und -techniker erschreckend souverän.",
+    "en": "This enormous mobile station stands as an example of the engineering excellence found within Nation's endless ranks, the upper part of which is filled with mechanical geniuses and masters of design. Virtually indestructible in its hardened state, the station has very few weaknesses and serves frighteningly well in its role as a mobile safe haven for Nation's military researchers and technicians.",
+    "es": "Esta colosal estación móvil se erige como ejemplo de la excelencia en ingeniería que se observa en las interminables filas de la Nación, cuyo nivel superior está repleto de genios mecánicos y maestros del diseño. Virtualmente indestructible en su estado endurecido, la estación tiene muy pocas debilidades y cumple terriblemente bien su función como refugio seguro móvil para los investigadores y técnicos militares de la Nación.",
+    "fr": "Cette énorme station mobile est le parfait exemple de l'excellente ingénierie que l'on trouve au sein des rangs de la Nation, dont les hautes sphères sont garnies de génies dans le domaine de la mécanique et du design. Virtuellement indestructible dans son état renforcé, cette station ne présente que très peu de points faibles, et remplit à merveille son rôle d'abri mobile pour les chercheurs et les techniciens militaires de la Nation.",
+    "ja": "この巨大な移動式ステーションは、サンシャ国の無限にある階級のうちのエンジニアリングの優秀さを象徴する一例である。上流階級は機械分野の天才や設計のマイスターで占められているのである。事実上、この強化済みの状態を破壊することは不可能だ。このステーションには弱点がほとんどなく、恐ろしいほどうまくサンシャ国の軍事研究員や技術者の可動式の安息地としての役割を果たしている。",
+    "ko": "이 거대한 이동식 정거장은 산샤 네이션의 엔지니어링 기술의 집약체입니다. 산샤 네이션은 뛰어난 엔지니어로 가득한 고위 간부층을 갖춘 집단으로 그간 기술적인 우수함을 보여왔습니다. 이 정거장은 매우 장갑이 견고하여 사실상 파괴 불가능하다고 볼 수 있습니다. 취약점을 찾아볼 수 없으며 산샤 네이션의 연구원 및 기술자들을 위한 이동식 피난처로서 충실히 기능하고 있습니다.",
+    "ru": "Эта исполинская мобильная станция — прекрасный памятник инженерной смекалке, которой всегда найдется место в строю Нации; помимо солдат и пилотов, под ее флагом служат гении-механики и виртуозы конструкторского дела. Станцию, практически лишенную уязвимых мест, крайне сложно уничтожить — вряд ли можно придумать лучшее средство для перевозки и защиты ученых и инженеров Нации, работающих над военными проектами.",
+    "zh": "这座巨大的移动空间站彰显了萨沙卓越的工程技术，其上层住满了天才型的机械师与设计巨匠。该空间站在加强状态下几乎坚不可摧。它对萨沙的军事研究人员与技术人员来说是座理想的避风港。"
+  },
+  "graphicID": 2364,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Reinforced Nation Outpost",
     "en": "Reinforced Nation Outpost",
@@ -10,5 +23,10 @@
     "ru": "Reinforced Nation Outpost",
     "zh": "加强型萨沙哨站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 6000.0,
+  "sofFactionName": "sanshabase",
   "volume": 100000000.0
 }

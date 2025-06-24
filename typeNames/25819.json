@@ -1,5 +1,18 @@
 {
-  "typeID": 25819,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Ohne spezielle Erlaubnis kann man an dieser Station nicht andocken.",
+    "en": "Docking in this station has been prohibited without private authorization.",
+    "es": "Está prohibido acoplarse en esta estación sin autorización privada.",
+    "fr": "Une autorisation est requise pour s'amarrer dans cette station.",
+    "ja": "このステーションへの入港は、適切な承認がなければ認められない。",
+    "ko": "허가 없이는 해당 정거장에 도킹할 수 없습니다.",
+    "ru": "Стыковка с этой станцией без надлежащих полномочий запрещена.",
+    "zh": "如果没有获得正式授权，任何飞船都不准在这个空间站停泊。"
+  },
+  "graphicID": 1074,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Amarr Trade Post",
     "en": "Amarr Trade Post",
@@ -10,5 +23,10 @@
     "ru": "Amarr Trade Post",
     "zh": "艾玛贸易站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 4629.0,
+  "sofFactionName": "amarrbase",
   "volume": 100000000.0
 }

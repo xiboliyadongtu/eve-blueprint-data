@@ -1,5 +1,70 @@
 {
-  "typeID": 34317,
+  "basePrice": 30000000.0,
+  "capacity": 400.0,
+  "description": {
+    "de": "Ihre erste Pflicht besteht darin, sich in den Flammen Ihrer Beichte vor Gott reinzuwaschen. Sie müssen Asche in Gottes Händen werden, denn erst dann können Sie wiederauferstehen um Ihre Feinde zu vernichten.\n\n-<i>Kriegsapostel Zhar Pashay's Dämmerungsrede an die Paladine der Schlacht von Rahdo, Amarr Prime AD 20538</i>",
+    "en": "Your first duty is to purge yourself in the flames of your confession before God. You must become ash in God's hands, for only then may you rise anew to strike the adversary down.\r\n\r\n-<i>Apostle-Martial Zhar Pashay's dawn address to the Paladins at the Battle of Rahdo, Amarr Prime AD 20538</i>",
+    "es": "Tu primer deber es purgarte en las llamas de tu confesión ante Dios. Debes convertirte en ceniza en sus manos, pues solo entonces podrás alzarte de nuevo para acabar con tu adversario.\n\n<i>— Discurso al alba de Zhar Pashay, apóstol militar, a los paladines en la Batalla de Rahdo, Amarr Prime. 20538 EC</i>",
+    "fr": "Votre premier devoir est de vous purger de vos péchés, et de vous immerger dans les flammes de votre confession à Dieu. Vous devez devenir cendres dans les mains de Dieu. Alors seulement, vous pourrez revenir à la vie et écraser vos adversaires.\n\n-<i>Apôtre martial Zhar Pashay s'adresse aux paladins lors de la bataille de Rahdo, Amarr Prime AD 20538</i>",
+    "ja": "汝はまず、神前で懺悔し、己を清めねばならぬ。神の御手の中で灰となれ。さすれば汝再び立ち上がり、敵を凌駕することができるだろう\n\n―<i>AD20538年、アマープライムにて使徒マーシャル・ザール・パシェイがラードの戦いの開戦に向けてパラディンに贈った言葉</i>",
+    "ko": "첫 번째 의무는 화염과 하나가 됨으로써 자신의 신앙을 고백하는 것이오. 신의 손에서 재가 되어야만 다시 태어날 수 있으며, 그리하여만 적을 격퇴할 수가 있소. -<i><br><br>팔라딘을 대상으로 한 사도-마셜 자르 파쉐이의 설교 내용 중, 아마르 프라임 라흐도 전투 AD 20538</i>",
+    "ru": "Твоя первейшая обязанность — очиститься в пламени исповеди перед Господом. Ты должен стать пеплом в руках Господних — лишь пройдя это испытание, ты сможешь поразить врага.\n\n-<i>Утренняя проповедь боевого апостола Жара Пашая паладинам битвы за Рахдо, 20538 год от Рождества Христова</i>",
+    "zh": "你的首要义务便是在神前忏悔的火焰中净化自我。你要成为神手中的灰烬，只有这样你才能重获新生，扫清异教徒。\n\n-<i>信徒扎·帕西在拉多之战前的黎明对圣骑士的演说，艾玛首星纪元20538年</i>"
+  },
+  "factionID": 500003,
+  "graphicID": 20980,
+  "groupID": 1305,
+  "marketGroupID": 1952,
+  "mass": 1800000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      50,
+      117,
+      150,
+      89,
+      93,
+      94
+    ]
+  },
+  "metaGroupID": 14,
   "name": {
     "de": "Confessor",
     "en": "Confessor",
@@ -9,6 +74,268 @@
     "ko": "컨페서",
     "ru": "Confessor",
     "zh": "忏悔者级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 144.0,
+  "sofFactionName": "amarrbase",
+  "soundID": 20063,
+  "traits": {
+    "miscBonuses": [
+      {
+        "bonusText": {
+          "de": "<b>Weitere Boni sind verfügbar, solange einer der drei Modi des taktischen Zerstörers aktiv ist. Zwischen den Modi kann nur alle 10 Sekunden umgeschaltet werden.</b>",
+          "en": "<b>Additional bonuses are available while one of three Tactical Destroyer Modes are active. Modes may be switched no more than once every 10 seconds.</b>",
+          "es": "<b>Hay bonificaciones adicionales disponibles mientras uno de los tres modos de destructor táctico está habilitado. No se puede cambiar de modo más de una vez cada 10 segundos.</b>",
+          "fr": "<b>Des bonus supplémentaires sont disponibles tandis que l'un des trois modes de Destroyer tactiques est activé. Il n'est pas possible d'alterner les modes plus d'une fois toutes les 10 secondes.</b>",
+          "ja": "<b>戦術駆逐艦モードが1つでも作動中であれば、さらにボーナスが増す。モードは10秒間に1回だけ切り替えることができます。</b>",
+          "ko": "<b>세 가지 모드 중 한 가지가 활성화 중일 때 추가 보너스가 부여됩니다. 10초에 한 번씩 모드를 전환할 수 있습니다.</b>",
+          "ru": "<b>Дополнительные преимущества достигаются при входе в один из трёх доступных режимов многорежимного эсминца. Режимы можно переключать не чаще, чем раз в 10 секунд.</b>",
+          "zh": "<b>当战术驱逐舰启用三种模式中的任意一种会获得额外加成。每10秒钟只能切换一次模式。</b>"
+        },
+        "importance": 3
+      },
+      {
+        "bonusText": {
+          "de": "<b><u>Verteidigungsmodus</b></u>",
+          "en": "<b><u>Defense Mode</b></u>",
+          "es": "<b><u>Modo de defensa</b></u>",
+          "fr": "<b><u>Mode de défense</b></u>",
+          "ja": "<b><u>防衛モード</b></u>",
+          "ko": "<b><u>방어모드</b></u>",
+          "ru": "<b><u>Защитный режим</b></u>",
+          "zh": "<b><u>防御模式</b></u>"
+        },
+        "importance": 4
+      },
+      {
+        "bonusText": {
+          "de": "<b><u>Antriebsmodus</b></u>",
+          "en": "<b><u>Propulsion Mode</b></u>",
+          "es": "<b><u>Modo de propulsión</b></u>",
+          "fr": "<b><u>Mode de propulsion</b></u>",
+          "ja": "<b><u>推進モード</b></u>",
+          "ko": "<b><u>추진 모드</b></u>",
+          "ru": "<b><u>Скоростной режим</b></u>",
+          "zh": "<b><u>高速模式</b></u>"
+        },
+        "importance": 7
+      },
+      {
+        "bonusText": {
+          "de": "<b><u>Scharfschützenmodus</b></u>",
+          "en": "<b><u>Sharpshooter Mode</b></u>",
+          "es": "<b><u>Modo de francotirador</b></u>",
+          "fr": "<b><u>Mode Sharpshooter</b></u>",
+          "ja": "<b><u>射撃モード</b></u>",
+          "ko": "<b><u>저격 모드</b></u>",
+          "ru": "<b><u>Снайперский режим</b></u>",
+          "zh": "<b><u>狙击模式</b></u>"
+        },
+        "importance": 10
+      },
+      {
+        "bonus": 33,
+        "bonusText": {
+          "de": "Bonus auf den Schaden von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:3303>Small Energy Turret</a> damage",
+          "es": "de bonificación al daño de la <a href=showinfo:3303>torreta de energía pequeña</a>.",
+          "fr": "de bonus aux dégâts de la <a href=showinfo:3303>petite tourelle à énergie</a>",
+          "ja": "<a href=showinfo:3303>小型エネルギータレット</a>のダメージが増加",
+          "ko": "<a href=showinfo:3303>소형 에너지 터렛</a> 피해량 증가",
+          "ru": "увеличивается урон <a href=showinfo:3303>малых лазерных орудий</a>",
+          "zh": "<a href=showinfo:3303>小型能量炮台</a>伤害加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 33.3,
+        "bonusText": {
+          "de": "Bonus auf alle Panzerungsresistenzen bei aktiviertem <i>Verteidigungsmodus</i>",
+          "en": "bonus to all armor resistances while <i>Defense Mode</i> is enabled",
+          "es": "de bonificación a todas las resistencias de blindaje mientras el <i>modo de defensa</i> está habilitado.",
+          "fr": "de bonus à toutes les résistances de blindage lorsque le <i>mode de défense</i> est activé",
+          "ja": "<i>防衛モード</i>が有効であれば、全てのアーマーレジスタンスが増加",
+          "ko": "<i>방어 모드</i> 활성화 중 모든 장갑 저항력 증가",
+          "ru": "повышается сопротивляемость брони корабля всем видам воздействия (при работе в <i>защитном режиме</i>)",
+          "zh": "启用<i>防御模式</i>后装甲抗性加成"
+        },
+        "importance": 5,
+        "unitID": 105
+      },
+      {
+        "bonus": 33.3,
+        "bonusText": {
+          "de": "Reduktion des Signaturradius des Schiffs bei aktiviertem <i>Verteidigungsmodus</i>",
+          "en": "reduction in ship signature radius while <i>Defense Mode</i> is enabled",
+          "es": "de reducción del radio de la señal de la nave mientras el <i>modo de defensa</i> está habilitado.",
+          "fr": "de réduction du rayon de signature du vaisseau lorsque le <i>mode de défense</i> est activé",
+          "ja": "<i>防御モード</i>が有効であれば、艦船のシグネチャ半径が縮小",
+          "ko": "<i>방어 모드</i> 활성화 중 함선 시그니처 반경 감소",
+          "ru": "уменьшается размер сигнатуры корабля (при работе в <i>защитном режиме</i>)",
+          "zh": "启用<i>防御模式</i>后信号半径降低"
+        },
+        "importance": 6,
+        "unitID": 105
+      },
+      {
+        "bonus": 33.3,
+        "bonusText": {
+          "de": "Bonus auf den Trägheitsmodifikator von Schiffen bei aktiviertem <i>Antriebsmodus</i>",
+          "en": "bonus to ship inertia modifier while <i>Propulsion Mode</i> is enabled",
+          "es": "de bonificación al modificador de inercia de la nave mientras el <i>modo de propulsión</i> está habilitado.",
+          "fr": "de bonus au modificateur d'inertie du vaisseau lorsque le <i>mode de propulsion</i> est activé",
+          "ja": "<i>推進モード</i>が有効な間、艦船の慣性修正乗数が増加",
+          "ko": "<i>추진 모드</i> 활성화 중 관성 계수 감소",
+          "ru": "повышается маневренность корабля (при работе в <i>скоростном режиме</i>)",
+          "zh": "启用<i>高速模式</i>后惯性系数加成"
+        },
+        "importance": 9,
+        "unitID": 105
+      },
+      {
+        "bonus": 33.3,
+        "bonusText": {
+          "de": "Bonus auf den Schaden von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a> bei aktiviertem <i>Scharfschützenmodus</i>",
+          "en": "bonus to <a href=showinfo:3303>Small Energy Turret</a> damage while <i>Sharpshooter Mode</i> is enabled",
+          "es": "de bonificación al daño de la <a href=showinfo:3303>torreta de energía pequeña</a> mientras el <i>modo de francotirador</i> está habilitado.",
+          "fr": "de bonus aux dégâts des <a href=showinfo:3303>petites tourelles à énergie</a> lorsque le <i>Mode Sharpshooter</i> est activé.",
+          "ja": "<i>射撃モード</i>を有効化している間、<a href=showinfo:3303>小型エネルギータレット</a>のダメージが上昇",
+          "ko": "<i>저격모드</i> 활성화 중 <a href=showinfo:3303>소형 에너지 터렛</a> 피해량 증가",
+          "ru": "увеличивается урон <a href=showinfo:3303>малых лазерных орудий</a> (при работе в <i>снайперском режиме</i>)",
+          "zh": "启用<i>狙击模式</i>后<a href=showinfo:3303>小型能量炮台</a>伤害加成"
+        },
+        "importance": 12,
+        "unitID": 105
+      },
+      {
+        "bonus": 66.6,
+        "bonusText": {
+          "de": "Bonus auf den Geschwindigkeitsschub von <a href=showinfo:3450>Nachbrennern</a> und <a href=showinfo:3454>Mikrowarpantrieben</a> bei aktiviertem <i>Antriebsmodus</i>.",
+          "en": "bonus to <a href=showinfo:3450>Afterburner</a> and <a href=showinfo:3454>Microwarpdrive</a> speed boost while <i>Propulsion Mode</i> is enabled",
+          "es": "de bonificación al impulso de velocidad del <a href=showinfo:3450>posquemador</a> y el <a href=showinfo:3454>motor de microwarp</a> mientras el <i>modo de propulsión</i> está habilitado.",
+          "fr": "de bonus à la vitesse de propulsion des <a href=showinfo:3450>systèmes de post-combustion</a> et des <a href=showinfo:3454>propulseurs de microwarp</a> lorsque le <i>Mode Propulsion</i> est activé.",
+          "ja": "<i>推進モード</i>を有効化している間、<a href=showinfo:3450>アフターバーナー</a>と<a href=showinfo:3454>マイクロワープドライブ</a>のスピードブーストが上昇",
+          "ko": "<i>추진 모드</i> 활성화 중 <a href=showinfo:3450>애프터버너</a> 및 <a href=showinfo:3454>마이크로 워프 드라이브</a> 속도 증가",
+          "ru": "повышается эффективность по приросту скорости <a href=showinfo:3450>форсажных ускорителей</a> и <a href=showinfo:3454>микроварп-ускорителей</a> (при работе в <i>скоростном режиме</i>)",
+          "zh": "启用<i>高速模式</i>后<a href=showinfo:3450>加力燃烧器</a>和<a href=showinfo:3454>微型跃迁推进器</a>的速度增量加成"
+        },
+        "importance": 8,
+        "unitID": 105
+      },
+      {
+        "bonus": 66.6,
+        "bonusText": {
+          "de": "Bonus auf die optimale Reichweite von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a> bei aktiviertem <i>Scharfschützenmodus</i>",
+          "en": "bonus to <a href=showinfo:3303>Small Energy Turret</a> optimal range while <i>Sharpshooter Mode</i> is enabled",
+          "es": "de bonificación al alcance óptimo de la <a href=showinfo:3303>torreta de energía pequeña</a> mientras el <i>modo de francotirador</i> está habilitado.",
+          "fr": "de bonus à la portée optimale des <a href=showinfo:3303>petites tourelles à énergie</a> lorsque le <i>Mode Sharpshooter</i> est activé",
+          "ja": "<i>射撃モード</i>が有効であれば、<a href=showinfo:3303>小型エネルギータレット</a>の最適射程距離が拡大",
+          "ko": "<i>저격모드</i> 활성화 중 <a href=showinfo:3303>소형 에너지 터렛</a> 최적사거리 증가",
+          "ru": "увеличивается оптимальная дальность ведения огня из <a href=showinfo:3303>малых лазерных орудий</a> (при работе в <i>снайперском режиме</i>)",
+          "zh": "启用<i>狙击模式</i>后<a href=showinfo:3303>小型能量炮台</a>最佳射程加成"
+        },
+        "importance": 11,
+        "unitID": 105
+      },
+      {
+        "bonus": 66.6,
+        "bonusText": {
+          "de": "erhöhte Widerstandsfähigkeit gegen gegnerische <a href=showinfo:3433>Sensordämpfer</a> und <a href=showinfo:3434>Waffenstörer</a> bei aktiviertem <i>Scharfschützenmodus</i>",
+          "en": "increased resistances against hostile <a href=showinfo:3433>Sensor Dampeners</a> and <a href=showinfo:3434>Weapon Disruptors</a> while <i>Sharpshooter Mode</i> is enabled",
+          "es": "más resistencia frente a <a href=showinfo:3433>atenuadores de sensor</a> y <a href=showinfo:3434>disruptores de armas</a> hostiles mientras el <i>modo de francotirador</i> está habilitado.",
+          "fr": "de bonus aux résistances contre les <a href=showinfo:3433>atténuateurs de détection</a> et les <a href=showinfo:3434>perturbateurs d'armement</a> ennemis lorsque le <i>Mode Sharpshooter</i> est activé.",
+          "ja": "<i>射撃モード</i>を有効化している間、敵対勢力の<a href=showinfo:3433>センサーダンプナー</a>と<a href=showinfo:3434>兵器妨害器</a>に対する耐性が増加",
+          "ko": "<i>저격모드</i> 활성화 중 <a href=showinfo:3433>센서 댐프너</a> 및 <a href=showinfo:3434>무기 디스럽터</a> 저항력 증가",
+          "ru": "повышается сопротивляемость действию вражеских <a href=showinfo:3433>модулей подавления захвата целей</a> и <a href=showinfo:3434>постановщиков помех системам наводки</a> (при работе в <i>снайперском режиме</i>)",
+          "zh": "启用<i>狙击模式</i>后对敌方的<a href=showinfo:3433>感应抑阻器</a>和<a href=showinfo:3434>武器扰断器</a>的抗性提高"
+        },
+        "importance": 14,
+        "unitID": 105
+      },
+      {
+        "bonus": 95,
+        "bonusText": {
+          "de": "Reduktion des CPU-Bedarfs von Scansondenwerfern und Vermessungssondenwerfern",
+          "en": "reduction in Scan Probe Launcher and Survey Probe Launcher CPU requirements",
+          "es": "de reducción de los requisitos de CPU del lanzasondas de escaneo y el lanzasondas de prospección.",
+          "fr": "réduction des prérequis de CPU pour les lanceurs de sondes de balayage et de sondes d'inspection",
+          "ja": "スキャンプローブランチャーおよび調査プローブランチャーのCPU前提要件が減少",
+          "ko": "스캔 프로브 런처 및 조사 프로브 런처 CPU 사용량 감소",
+          "ru": "сокращается потребность пусковых установок разведзондов и пусковых установок лунных зондов в мощностях ЦПУ",
+          "zh": "扫描探针发射器和测量探针发射器CPU需求降低"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 100,
+        "bonusText": {
+          "de": "Bonus auf die Sensorstärke und Zielerfassungsreichweite bei aktiviertem <i>Scharfschützenmodus</i>",
+          "en": "bonus to sensor strength and targeting range while <i>Sharpshooter Mode</i> is enabled",
+          "es": "de bonificación a la intensidad del sensor y la distancia-objetivo mientras el <i>modo de francotirador</i> está habilitado.",
+          "fr": "de bonus à la puissance de détection et à la portée de ciblage lorsque le <i>mode Sharpshooter</i> est activé.",
+          "ja": "<i>射撃モード</i>を有効化している間、センサー強度とターゲット範囲が増加",
+          "ko": "<i>저격모드</i> 활성화 중 센서 강도 및 타겟팅 거리 증가",
+          "ru": "увеличивается дальность захвата целей, а также эффективность штатных сенсорных систем (при работе в <i>снайперском режиме</i>)",
+          "zh": "启用<i>狙击模式</i>后感应强度和锁定距离加成"
+        },
+        "importance": 13,
+        "unitID": 105
+      }
+    ],
+    "roleBonuses": [],
+    "types": {
+      "34390": [
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3303>Small Energy Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3303>torreta de energía pequeña</a>.",
+            "fr": "de bonus aux dégâts de la <a href=showinfo:3303>petite tourelle à énergie</a>",
+            "ja": "<a href=showinfo:3303>小型エネルギータレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3303>소형 에너지 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон <a href=showinfo:3303>малых лазерных орудий</a>",
+            "zh": "<a href=showinfo:3303>小型能量炮台</a>伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Reduzierung des Hitzeschadens von Modulen",
+            "en": "reduction in module heat damage amount taken",
+            "es": "de reducción de la cantidad de daño por calor del módulo.",
+            "fr": "de réduction aux dégâts de chaleur subis par un module",
+            "ja": "モジュールが受けるヒートダメージ量が軽減",
+            "ko": "모듈이 받는 열 피해 감소",
+            "ru": "уменьшается объём температурных повреждений модулей, получаемых ими при перегрузке",
+            "zh": "减少装备遭受的超载损伤"
+          },
+          "importance": 3,
+          "unitID": 105
+        },
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Reduktion der Aktivierungskosten von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a>",
+            "en": "reduction in <a href=showinfo:3303>Small Energy Turret</a> activation cost",
+            "es": "de reducción del coste de activación de la <a href=showinfo:3303>torreta de energía pequeña</a>.",
+            "fr": "de réduction du coût d'activation de la <a href=showinfo:3303>petite tourelle à énergie</a>",
+            "ja": "<a href=showinfo:3303>小型エネルギータレット</a>の起動コストが軽減",
+            "ko": "<a href=showinfo:3303>소형 에너지 터렛</a> 활성화 비용 감소",
+            "ru": "сокращается расход энергии при ведении огня из <a href=showinfo:3303>малых лазерных орудий</a>",
+            "zh": "<a href=showinfo:3303>小型能量炮台</a>启动消耗加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 47000.0
 }

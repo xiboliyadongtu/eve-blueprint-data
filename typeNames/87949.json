@@ -1,5 +1,19 @@
 {
-  "typeID": 87949,
+  "basePrice": 100000000.0,
+  "description": {
+    "de": "Dieser Generator erzeugt systemweite Effekte, die denen in Plasma-Umgebungen der Raumverwerfung des Abgrunds ähneln. Alle Schiffe im System: +5 % Panzerungs-HP, +5 % Effektivität lokaler Panzerungsreparatursysteme, +10 % Bonus auf die Überlastungsboni von Modulen.",
+    "en": "This generator produces system-wide effects similar to those encountered in Plasma environments within Abyssal Deadspace.\r\n\r\nAll ships in system: +5% Armor HP, +5% Local Armor Repairer Effectiveness, +10% bonus to the benefits of overloading modules.",
+    "es": "Este generador produce efectos a nivel del sistema similares a los que se encuentran en entornos de plasma dentro del espacio muerto abisal.\r\n\r\nTodas las naves en el sistema: +5 % a los PV de blindaje, +5 % a la eficacia del reparador de blindaje local, +10 % de bonificación a los beneficios de sobrecargar los módulos.",
+    "fr": "Ce générateur produit des effets à l'échelle du système similaires à ceux rencontrés dans les environnements plasma de l'abîme Deadspace. Tous les vaisseaux du système : +5 % de PV de blindage, +5 % à l'efficacité des réparateurs de blindage locaux, +10 % de bonus aux avantages de la surcharge des modules.",
+    "ja": "このジェネレーターは、アビサルデッドスペースのプラズマタイプ環境と似た効果をシステム全域に発生させる。\r\n\r\nシステム内の全艦船：アーマーHP+5%、ローカルアーマーリペアラの効果+5%、オーバーロードしたモジュールの恩恵+10%",
+    "ko": "어비설 데드스페이스 플라즈마 환경에서 볼 수 있는 성계 전체에 영향을 미치는 효과를 생성합니다.\r\n\r\n성계 내 함선에 적용되는 효과: 장갑 내구도 5% 증가, 장갑수리 장치 효과 5% 증가, 과부하 모듈 효과 10% 증가",
+    "ru": "Этот генератор создаёт эффекты, похожие на те, что встречаются в зонах плазменных пожаров на просторах Мёртвой бездны. Эффекты охватывают всю систему. Все корабли в системе: +5% к прочности брони, +5% к эффективности бортового модуля ремонта брони, +10% к преимуществам перегрева модулей.",
+    "zh": "该生成器可作用于整个星系，类似于你在深渊空间等离子环境中遇到的效果。星系内所有舰船：装甲值+5%，自身装甲维修器效果+5%，过载装备收益+10%。"
+  },
+  "groupID": 4839,
+  "iconID": 26778,
+  "marketGroupID": 3741,
+  "mass": 1000.0,
   "name": {
     "de": "Plasma Stability Generator",
     "en": "Plasma Stability Generator",
@@ -10,5 +24,7 @@
     "ru": "Plasma Stability Generator",
     "zh": "等离子稳定发生器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 10000.0
 }

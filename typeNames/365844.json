@@ -1,5 +1,17 @@
 {
-  "typeID": 365844,
+  "basePrice": 149000.0,
+  "description": {
+    "de": "Skill zur Bedienung von großen Railgun-Geschützen.\n\nSchaltet den Zugriff auf große Standard-Railguns ab Skillstufe 1, erweiterte große Railguns ab Skillstufe 3 und große Railgun-Prototypen ab Skillstufe 5 frei.",
+    "en": "Skill at operating large railgun turrets.\r\n\r\nUnlocks access to standard large railguns at lvl.1; advanced at lvl.3; prototype at lvl.5.",
+    "es": "Habilidad de manejo de torretas de cañones gauss grandes.\n\nDesbloquea el acceso a torretas de cañones gauss grandes estándar en el nivel 1, avanzados en el nivel 3 y prototipos en el nivel 5.",
+    "fr": "Compétence permettant d'utiliser les grandes tourelles de canon à rails.\n\nDéverrouille l'utilisation des grands canons à rails. Standard au niv.1 ; avancé au niv.3 ; prototype au niv.5.",
+    "it": "Abilità nell'utilizzo delle torrette cannone a rotaia grandi.\n\nSblocca l'accesso ai cannoni a rotaia grandi al liv. 1; a quelli avanzati al liv. 3; a quelli prototipo al liv. 5.",
+    "ja": "大型レールガンタレットを操作するためのスキル。レベル1で標準型、レベル3で高性能、レベル5でプロトタイプの大型レールガンが利用可能になる。",
+    "ko": "대형 레일건 터렛 운용을 위한 스킬입니다. <br><br>대형 레일건이 잠금 해제됩니다. (레벨 1 - 일반, 레벨 3 - 상급, 레벨 5 - 프로토타입)",
+    "ru": "Навык работы с большими рейлганными установками.\n\nПозволяет пользоваться стандартными большими рейлганными установками на уровне 1; усовершенствованными на уровне 3; прототипами на уровне 5.",
+    "zh": "操作大型磁轨炮炮台的技能。1级解锁标准大型磁轨炮；3级解锁高级大型磁轨炮；5级解锁原型大型磁轨炮。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Bedienung: Große Railgun",
     "en": "Large Railgun Operation",
@@ -11,5 +23,7 @@
     "ru": "Обращение с большими рейлганными установками",
     "zh": "大型磁轨炮操作"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

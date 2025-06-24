@@ -1,5 +1,18 @@
 {
-  "typeID": 52310,
+  "description": {
+    "de": "Eine Komponente eines Schiffsantriebssystems, die beim Design von Triglavia-Schiffen und anderen darauf aufbauenden Schiffen Anwendung findet. Möglicherweise nützlich als Komponente zahlreicher anderer Technologien. Diese Schiffsantriebstechnologie wurde eindeutig zum Gebrauch mit Triglavia-Energiesystemen entwickelt und nutzt die Strahlung, die durch die Quanteneffekte der Singularität im Herzen des Schiffes entweicht, als Bewegungsenergie.",
+    "en": "A propulsion system component used in Triglavian ship designs and others adapted from such designs. Potentially useful as a component in various other technologies.\r\n\r\nThis propulsion technology is clearly designed to be used in conjunction with Triglavian power systems, harnessing for motive power some of the radiation released by quantum effects of the singularity at the heart of the ship.",
+    "es": "Componente del sistema de propulsión utilizado por las naves triglavianas y otras adaptaciones de esos diseños. Potencialmente útil como componente en distintas tecnologías.\n\nEsta tecnología de propulsión está claramente diseñada para usarla con sistemas de potencia triglavianos, que producen fuerza motriz aprovechando la radiación liberada por los efectos cuánticos de la singularidad que se encuentra en el centro de la nave.",
+    "fr": "Un composant de système de propulsion utilisé dans la conception des vaisseaux triglavian et d'autres composants adaptés à partir de cette conception. Potentiellement utile comme composant pour diverses autres technologies. Cette technologie de propulsion a été conçue pour être utilisée conjointement avec les systèmes d'alimentation triglavian, exploitant la force motrice d'une partie du rayonnement libéré par les effets quantiques de la singularité au cœur du vaisseau.",
+    "ja": "トリグラビアンの船舶設計や、その派生形で使われていた推進システムの1部品。ひょっとすると、その以外の広い分野でも部品として役に立つかもしれない。\r\n\nこの推進技術はトリグラビアンの動力システムと併用されることが主眼に置かれており、推進力自体は艦船中心部にある特異点の量子効果によって放たれる放射能の一部を使っている。",
+    "ko": "트리글라비안 기술 및 함선에서 주로 사용되는 추진 부품입니다. 다른 분야 또는 목적에 맞게 재설계할 수 있어 유용하게 사용할 수 있습니다. <br><br>트리글라비안 고유의 전력 시스템에 맞춰 최적화된 추진 기술로 함선 내부에서 발생하는 특이점 양자역학 효과에서 발산하는 방사능을 변환하여 함선의 동력으로 삼을 수 있습니다.",
+    "ru": "Компонент двигателя, используемый в кораблях Триглава и других кораблях, созданных по их мотивам. Потенциальный компонент для различных других технологий. Эта двигательная установка явно предназначена для использования в сочетании с энергосистемами Триглава, использующими в качестве движущей силы часть излучения квантовых эффектов сингулярности в сердце корабля.",
+    "zh": "三神裔舰船以及其他采用采用相似设计的舰船所使用的推进系统的组件。可能也可用于其他科技种类中。\n\n\n\n这种推进技术显然是与三神裔能量系统搭配使用的，利用作为舰船核心的奇点的量子效应放出的辐射来作为动力。"
+  },
+  "groupID": 334,
+  "iconID": 24138,
+  "marketGroupID": 2658,
+  "mass": 1.0,
   "name": {
     "de": "Radiation Absorption Thruster",
     "en": "Radiation Absorption Thruster",
@@ -10,5 +23,8 @@
     "ru": "Radiation Absorption Thruster",
     "zh": "辐射吸收推进器"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 135,
   "volume": 1.0
 }

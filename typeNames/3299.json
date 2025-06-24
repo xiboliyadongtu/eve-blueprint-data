@@ -1,5 +1,17 @@
 {
-  "typeID": 3299,
+  "description": {
+    "de": "Ein Neuralinterface-Upgrade, das die Fertigkeiten des Piloten beim Betrieb von Modulen zur Panzerungs-/Hüllenreparatur verbessert.\n\n6 % Reduktion der Laufzeit von Reparatursystemen\n\nHinweis: Dieses Implantat hat keine Auswirkungen auf Panzerungsfernreparatur- und Capital-Module.",
+    "en": "A neural Interface upgrade that boosts the pilot's skill in operating armor/hull repair modules.\r\n\r\n6% reduction in repair systems duration.\r\n\r\nNote: This implant has no effect on remote armor repair modules or capital sized modules.",
+    "es": "Mejora de interfaz neuronal que potencia la habilidad del piloto con los módulos de reparación de blindaje/casco.\n\n6 % de reducción de la duración de los sistemas de reparación.\n\nAviso: Este implante no es compatible con módulos de reparación de blindaje remota ni módulos para naves capitales.",
+    "fr": "Amélioration de l'interface neurale portant sur la compétence du pilote liée à l'utilisation des modules de réparation de blindage et de la coque.\n\nRéduit de 6 % la durée des systèmes de réparation.\n\nRemarque : cet implant n'a aucun effet sur les modules de réparation de blindage ou les modules de taille capitale à distance.",
+    "ja": "神経系インターフェイスのアップグレード。パイロットのアーマーリペア/船体リペアモジュール操作スキルを高める。リペアシステムのサイクル時間が6%短縮。注: このインプラントはリモートアーマーリペアモジュールおよびキャピタルサイズのモジュールには無効である。",
+    "ko": "수리 시스템 스킬을 향상하는 신경 인터페이스 업그레이드입니다. <br><br>수리 시스템 사이클 시간 6% 감소 <br><br>참고: 원격 장갑수리 모듈 및 캐피탈급 모듈에는 효과가 적용되지 않습니다.",
+    "ru": "Модуль расширения нейроинтерфейса, улучшающий навыки пилота в работе с системами ремонта брони и корпуса. Уменьшает длительность рабочего цикла систем ремонта на 6%.\n\n\n\nПримечание: этот имплантат не действует на модули дистанционного ремонта брони и на модули КБТ-класса (Capital-sized).",
+    "zh": "一款神经接口升级芯片，可以增强飞行员操作装甲/船体维修设备的技能。维修系统运转周期缩短6%。注：该植入体对远程装甲维修装备和旗舰级装备不起作用。"
+  },
+  "groupID": 738,
+  "iconID": 2224,
+  "marketGroupID": 1514,
   "name": {
     "de": "Inherent Implants 'Noble' Repair Systems RS-606",
     "en": "Inherent Implants 'Noble' Repair Systems RS-606",
@@ -10,5 +22,7 @@
     "ru": "Inherent Implants 'Noble' Repair Systems RS-606",
     "zh": "天赋植体 诺贝尔 维修系统 RS-606"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

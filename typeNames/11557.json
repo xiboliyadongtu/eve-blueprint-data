@@ -1,5 +1,18 @@
 {
-  "typeID": 11557,
+  "description": {
+    "de": "Eine Schildkomponente, die primär in Amarr-Schiffen eingesetzt wird, aber auch Teil unzähliger anderer Technologien ist.",
+    "en": "Shield Component used primarily in Amarr ships. A component in various other technology as well.",
+    "es": "Componente de escudo usado principalmente en naves amarrianas. También es un componente de otras tecnologías.",
+    "fr": "Composant de bouclier utilisé principalement pour les vaisseaux amarr. Ce composant est également utilisé dans diverses autres technologies.",
+    "ja": "主にアマー艦船に用いられるシールド部品。他にも幅広い機械装置に使われている。",
+    "ko": "아마르 함선에 주로 사용되는 실드 부품입니다. 다양한 기술 분야에서 활용되는 부품입니다.",
+    "ru": "Компонент щита, используемый в основном на кораблях Amarr. Применяется и в других различных технологиях.",
+    "zh": "主要由艾玛舰船使用的护盾构件。这个部件也存在于别的各种科技类型中。"
+  },
+  "groupID": 334,
+  "iconID": 2204,
+  "marketGroupID": 802,
+  "mass": 1.0,
   "name": {
     "de": "Linear Shield Emitter",
     "en": "Linear Shield Emitter",
@@ -10,5 +23,8 @@
     "ru": "Linear Shield Emitter",
     "zh": "线性护盾能量发射器"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 1.0
 }

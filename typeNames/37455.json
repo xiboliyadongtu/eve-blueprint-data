@@ -1,5 +1,75 @@
 {
-  "typeID": 37455,
+  "basePrice": 2100000.0,
+  "capacity": 260.0,
+  "description": {
+    "de": "Die Griffin Navy Issue ist ein neues Experiment der Caldari Navy in der Nahkampftaktik. Die Kombination tödlicher Hybridwaffensysteme mit elektronischen Abwehrdrohnen ermöglicht es der Griffin Navy Issue, feindliche Streitkräfte mit ungewohnt aggressiven Taktiken zu überraschen.",
+    "en": "The Griffin Navy Issue represents a new experiment in close-range tactics from the Caldari Navy. Combining deadly hybrid weapon systems with electronic countermeasure drones has allowed the Griffin Navy Issue to surprise hostile forces with uncharacteristically aggressive tactics.",
+    "es": "La Griffin modelo de la Armada representa un nuevo experimento en tácticas de corto alcance de la Armada Caldari. La combinación de sistemas de armas híbridas mortales con drones de contramedidas electrónicas ha permitido a la Griffin modelo de la Armada sorprender a las fuerzas hostiles con tácticas inusualmente agresivas.",
+    "fr": "Le Griffin modèle Navy représente une nouvelle expérience dans les tactiques de combat rapproché de la Caldari Navy. La combinaison de systèmes d'armement hybrides et de drones contre-mesures électroniques a permis au Griffin modèle Navy de surprendre les forces hostiles par des tactiques agressives inhabituelles.",
+    "ja": "カルダリ海軍が接近戦における新戦略を試行錯誤する中で代表的な存在となったのがグリフィン海軍仕様である。反撃用ドローンと、絶大な破壊力を誇るハイブリッド兵器を併せ持つグリフィン海軍仕様は、型破りな程に攻撃重視な戦略によって奇襲をかけることができる。",
+    "ko": "칼다리 해군의 근거리 전술을 실현하기 위한 특수 함선입니다. 막강한 하이브리드 무기 체계와 ECM 드론을 통해 공격적인 전술을 구사하여 적의 허를 찌릅니다.",
+    "ru": "Армейский «Грифон» — новый фрегат, разработанный инженерами калдарского флота для ведения боя на близких дистанциях. Этот корабль оснащён смертоносными гибридными орудиями и дронами электронного противодействия, что позволяет удивлять врагов необычно агрессивными тактиками.",
+    "zh": "狮鹫级海军型代表了加达里海军在近距离战术体系中的新尝试。它综合了强大的混合武器系统以及专为无人机优化的ECM系统，往往以其出人意料的攻击战术让敌人措手不及。"
+  },
+  "factionID": 500001,
+  "graphicID": 1789,
+  "groupID": 25,
+  "marketGroupID": 1366,
+  "mass": 1056000.0,
+  "masteries": {
+    "0": [
+      96,
+      67,
+      100,
+      150,
+      139,
+      99,
+      85,
+      94
+    ],
+    "1": [
+      96,
+      67,
+      100,
+      150,
+      139,
+      99,
+      85,
+      94
+    ],
+    "2": [
+      96,
+      67,
+      100,
+      150,
+      139,
+      99,
+      85,
+      94
+    ],
+    "3": [
+      96,
+      67,
+      100,
+      150,
+      139,
+      99,
+      85,
+      94
+    ],
+    "4": [
+      96,
+      67,
+      100,
+      150,
+      139,
+      99,
+      85,
+      118,
+      94
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Griffin Navy Issue",
     "en": "Griffin Navy Issue",
@@ -10,5 +80,81 @@
     "ru": "Griffin Navy Issue",
     "zh": "狮鹫级海军型"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 41.0,
+  "sofFactionName": "caldarinavy",
+  "soundID": 20070,
+  "traits": {
+    "miscBonuses": [
+      {
+        "bonus": -85.0,
+        "bonusText": {
+          "de": "Schadensabzug bei <a href=showinfo:3436>Drohnen</a>",
+          "en": "penalty to <a href=showinfo:3436>Drone</a> damage",
+          "es": "de penalización al daño de los <a href=showinfo:3436>drones</a>.",
+          "fr": "pénalité de dégâts de <a href=showinfo:3436>drone</a>",
+          "ja": "<a href=showinfo:3436>ドローン</a>ダメージにペナルティ",
+          "ko": "<a href=showinfo:3436>드론</a> 피해량 감소",
+          "ru": "штраф к урону от <a href=showinfo:3436>дронов</a>",
+          "zh": "<a href=showinfo:3436>无人机</a>伤害惩罚"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": -50.0,
+        "bonusText": {
+          "de": "Reduktion der HP und Kontrollreichweite von <a href=showinfo:3436>Drohnen</a>",
+          "en": "reduction in <a href=showinfo:3436>Drone</a> hitpoints and control range",
+          "es": "de reducción de los puntos de vida y el alcance de control de los <a href=showinfo:3436>drones</a>.",
+          "fr": "réduction des points de vie et de la portée de contrôle de <a href=showinfo:3436>drone</a>",
+          "ja": "<a href=showinfo:3436>ドローン</a>のHPと制御範囲が減少",
+          "ko": "<a href=showinfo:3436>드론</a> 내구도 및 통제 거리 감소",
+          "ru": "снижение дальности управления <a href=showinfo:3436>дронами</a>, а также их прочности",
+          "zh": "<a href=showinfo:3436>无人机</a>HP和控制距离减少"
+        },
+        "importance": 2,
+        "unitID": 105
+      }
+    ],
+    "roleBonuses": [],
+    "types": {
+      "3330": [
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf Störungsdauer von <a href=showinfo:3436>ECM-Drohnen</a>",
+            "en": "bonus to <a href=showinfo:3436>ECM Drone</a> jam duration",
+            "es": "de bonificación a la duración de la perturbación de los <a href=showinfo:3436>drones ECM</a>.",
+            "fr": "bonus à la durée de brouillage des <a href=showinfo:3436>drones CME</a>",
+            "ja": "<a href=showinfo:3436>ECMドローン</a>のジャミング持続時間が延長",
+            "ko": "<a href=showinfo:3436>ECM 드론</a> 재밍 지속시간 증가",
+            "ru": "бонус к длительности глушения для <a href=showinfo:3436>дронов МЭП</a>",
+            "zh": "<a href=showinfo:3436>ECM无人机</a>干扰持续时间加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 20.0,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3301>kleinen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3301>Small Hybrid Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3301>torreta híbrida pequeña</a>.",
+            "fr": "bonus aux dégâts de la <a href=showinfo:3301>petite tourelle hybride</a>",
+            "ja": "<a href=showinfo:3301>小型ハイブリッドタレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3301>소형 하이브리드 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон боеприпасов <a href=showinfo:3301>малых гибридных орудий</a>",
+            "zh": "<a href=showinfo:3301>小型混合炮台</a>伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 584,
   "volume": 19400.0
 }

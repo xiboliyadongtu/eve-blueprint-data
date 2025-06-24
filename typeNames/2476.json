@@ -1,5 +1,20 @@
 {
-  "typeID": 2476,
+  "basePrice": 40000.0,
+  "description": {
+    "de": "Schwere Angriffsdrohne",
+    "en": "Heavy Attack Drone",
+    "es": "Dron de asalto pesado",
+    "fr": "Drone d'attaque lourd.",
+    "ja": "ヘビーアタックドローン",
+    "ko": "헤비 어택 드론",
+    "ru": "Тяжелый боевой дрон",
+    "zh": "重型攻击无人机"
+  },
+  "graphicID": 1089,
+  "groupID": 100,
+  "marketGroupID": 839,
+  "mass": 10000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Berserker I",
     "en": "Berserker I",
@@ -10,5 +25,10 @@
     "ru": "Berserker I",
     "zh": "狂战士 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 35.0,
+  "sofFactionName": "minmatarbase",
   "volume": 25.0
 }

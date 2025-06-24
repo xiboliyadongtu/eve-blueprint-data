@@ -1,5 +1,19 @@
 {
-  "typeID": 88763,
+  "basePrice": 100000000.0,
+  "description": {
+    "de": "Dies existiert nicht.",
+    "en": "This does not exist.",
+    "es": "Esto no existe.",
+    "fr": "Ceci n'existe pas.",
+    "ja": "存在しません。",
+    "ko": "존재하지 않습니다.",
+    "ru": "Не существует.",
+    "zh": "数据不存在。"
+  },
+  "groupID": 4768,
+  "iconID": 26759,
+  "marketGroupID": 3739,
+  "mass": 1000.0,
   "name": {
     "de": "QA Exploration Detector",
     "en": "QA Exploration Detector",
@@ -10,5 +24,7 @@
     "ru": "QA Exploration Detector",
     "zh": "QA探索探测器"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 20000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 27660,
+  "basePrice": 8000000000.0,
+  "capacity": 7500000.0,
+  "description": {
+    "de": "Die Monument-Uprade-Plattform ist das dritte und höchste Level von verfügbaren Upgrade-Plattformen für Außenposten tief im All. Sie erlaubt die Installation von einer Rang 1, einer Rang 2 und einer Rang 3 Außenposten-Verbesserung.\r\n\r\nHinweis: Die Fundament- und Träger-Außenposten-Upgrades sind Voraussetzungen für die Installation des Monument-Upgrades.",
+    "en": "The Monument upgrade platform is the third and highest level of available upgrade platforms for deep-space outposts. It allows for the installation of 1 Tier 1 improvement, 1 Tier 2 improvement and 1 Tier 3 improvement.\r\n\r\nNote: The Foundation and Pedestal outpost upgrades are prerequisites for the installation of the Monument upgrade.",
+    "es": "La plataforma de mejora Monumento es el tercer y más alto nivel de las plataformas de mejora disponibles para los puestos avanzados del espacio profundo. Permite la instalación de una mejora de nivel 1, una de nivel 2 y una de nivel 3.\n\n\n\nAviso: Las mejoras de puesto avanzado Fundación y Pedestal son prerrequisitos para la instalación de la mejora Monumento.",
+    "fr": "Le troisième et dernier niveau de plateformes d'amélioration disponibles pour les avant-postes de l'espace profond est la plateforme d'amélioration Monument. Permet l'installation de trois améliorations pour avant-poste (une de 1er rang, une de 2e rang et une de 3e rang).\n\nRemarque : pour installer une plateforme d'amélioration Monument, vous devez déjà avoir installé une amélioration pour avant-poste Fondation et une amélioration pour avant-poste Piédestal.",
+    "ja": "記念碑強化プラットフォームは、ディープスペースアウトポスト用の最も高度なレベル3強化プラットフォーム。ティアー1の改良を1回、ティアー2の改良を1回インストールすることができる。注:記念碑アップグレードをインストールするには、ファンデーションおよびペデステルのアウトポスト強化が必要。",
+    "ko": "심우주 전초기지 플랫폼의 3단계 업그레이드입니다. 1,2,3 티어 추가 구성물을 각각 1개씩 설치할 수 있습니다. <br><br>참고: 외벽 업그레이드를 위해서 기반 및 지지대 업그레이드가 선행되어야 합니다.",
+    "ru": "Платформы для модуля расширения станции Foundation представляют собой третий, наивысший уровень модернизации аванпостов в глубоком космосе. Эта платформа позволяет осуществить установку 1 модуля расширения станции класса Tier 1, 1 модуля расширения станции класса Tier 2 и модуля расширения станции класса Tier 3.\n\nПримечание: для установки платформы Foundation необходимо сначала установить платформы Foundation и Pedestal.",
+    "zh": "上层升级平台是深空空间站所使用的第三层、也是最高层的可用升级平台。它允许安装1个1级加强平台、1个2级加强平台和1个3级加强平台。 注：在安装上层升级平台前必须先安装基础升级平台和下层升级平台。"
+  },
+  "graphicID": 3304,
+  "groupID": 835,
   "name": {
     "de": "Monument Upgrade Platform",
     "en": "Monument Upgrade Platform",
@@ -10,5 +23,9 @@
     "ru": "Monument Upgrade Platform",
     "zh": "上层升级平台"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 579.0,
+  "sofFactionName": "amarrbase",
   "volume": 750000.0
 }

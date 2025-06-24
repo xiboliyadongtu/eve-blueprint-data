@@ -1,5 +1,18 @@
 {
-  "typeID": 15974,
+  "capacity": 110.0,
+  "description": {
+    "de": "Dies ist ein Unterstützungsschiff der Minmatar Navy. Schiffe wie dieses haben die Aufgabe, ihre Ziele bewegungsunfähig zu machen. Sie setzen deren Warpantriebe außer Kraft und verhindern, unter Einsatz von Mikroenergieströmen, das Beschleunigen eines Schiffes.\r\n\r\nBedrohungsstufe: Hoch",
+    "en": "This is a Minmatar Fleet support ship. Support ships such as these are used to paralyze their targets, disabling their warping device and hindering ship velocity by employing micro energy streams. Threat level: High",
+    "es": "Nave de apoyo de la Flota Minmatariana. Las naves de apoyo como esta se usan para paralizar a las naves enemigas, inhabilitar sus dispositivos de warp y ralentizarlas mediante microflujos de energía. Nivel de amenaza: alto.",
+    "fr": "Il s'agit d'un vaisseau de soutien de la flotte minmatar. Les vaisseaux de soutien tels que ceux-ci sont utilisés pour paralyser leurs cibles, désactiver les dispositifs de warp et réduire la vitesse des vaisseaux en utilisant des flux de micro-énergie. Niveau de menace : élevé",
+    "ja": "ミンマター艦隊の支援船。超小型エネルギー光線で敵のワープ装置を無効化したり航行速度を低下させることにより、ターゲット艦船の機能を麻痺させる支援船。危険度:高い",
+    "ko": "민마타 함대의 지원함입니다. 마이크로 에너지 스트림을 발산하여 적의 움직임을 제한하고 워프 드라이브를 봉쇄합니다. 위험도: 높음",
+    "ru": "Это корабль поддержки Флота Minmatar. Корабли поддержки, такие как этот, применяются для обездвиживания цели, выводя из строя их квантовые двигатели и уменьшая скорость корабля посредством направленных микропотоков энергии. Уровень опасности: высокий",
+    "zh": "这是一艘米玛塔尔舰队的支援舰。这类支援舰可使用微能量流破坏目标行动能力、干扰目标跃迁设备并减慢飞船速度。威胁等级：高"
+  },
+  "graphicID": 1888,
+  "groupID": 683,
+  "mass": 1740000.0,
   "name": {
     "de": "Republic Fleet D-2 Support Frigate",
     "en": "Republic Fleet D-2 Support Frigate",
@@ -10,5 +23,10 @@
     "ru": "Republic Fleet D-2 Support Frigate",
     "zh": "共和舰队 支援护卫舰D2"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 32.89,
+  "sofFactionName": "minmatarnavy",
   "volume": 17400.0
 }

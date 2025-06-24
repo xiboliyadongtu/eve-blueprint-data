@@ -1,5 +1,18 @@
 {
-  "typeID": 23618,
+  "basePrice": 100000.0,
+  "description": {
+    "de": "Erhöht die HPs von Drohnen und Jägern.\n\n\n\n5% Bonus auf die HP von Schild, Hülle und Panzerung von Drohnen je Skillstufe.\n\n5% Bonus auf die HP von Jägern je Skillstufe.",
+    "en": "Increases drone and fighter hit points.\r\n\r\n5% bonus to drone shield, armor and hull hit points per level.\r\n5% bonus to fighter hit points per level.",
+    "es": "Aumenta los puntos de vida de los drones y los cazas.\n\n5 % de bonificación por nivel a los puntos de vida del escudo, el blindaje y el casco de los drones.\n\n5 % de bonificación por nivel a los puntos de vida de los cazas.",
+    "fr": "Augmente le nombre de points de vie des drones et des chasseurs.\n\n\n\nAugmente de 5 % par niveau les points de vie du bouclier, du blindage et de la structure des drones.\n\nAugmente de 5 % par niveau les points de vie des chasseurs.",
+    "ja": "ドローンと戦闘機のHPを増加させる。レベル上昇ごとにドローンのシールド、アーマー、HPが5%増加。レベル上昇ごとに戦闘機のHPが5%増加。",
+    "ko": "드론 및 파이터의 내구도가 증가합니다. <br><br>매 레벨마다 드론 실드량, 장갑 내구도, 선체 내구도 5% 증가 <br>매 레벨마다 파이터 내구도 5% 증가",
+    "ru": "Увеличивает прочность корпусов дронов и истребителей.\n\n\n\nЗа каждую степень освоения навыка: на 5% повышается прочность корпуса, брони и силовых полей дронов.\n\nЗа каждую степень освоения навыка: на 5% повышается запас прочности истребителей.",
+    "zh": "提高无人机和铁骑舰载机的HP。\n\n\n\n每升一级，无人机护盾、装甲和结构值提高5%。\n\n每升一级，铁骑舰载机HP提高5%。"
+  },
+  "groupID": 273,
+  "iconID": 33,
+  "marketGroupID": 366,
   "name": {
     "de": "Drone Durability",
     "en": "Drone Durability",
@@ -10,5 +23,7 @@
     "ru": "Повышение прочности дронов",
     "zh": "无人机效能研究"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

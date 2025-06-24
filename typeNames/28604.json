@@ -1,5 +1,17 @@
 {
-  "typeID": 28604,
+  "basePrice": 500000.0,
+  "description": {
+    "de": "Fertigkeit, den Überblick bei Turnieren zu behalten. 2 zusätzliche Ziele pro Skillstufe. Maximal so viele Ziele, wie das Schiff aufschalten kann.",
+    "en": "Skill at observating tournaments. +2 extra targets per skill level, up to the ship's maximum allowed number of targets locked.",
+    "es": "Habilidad para la observación de torneos. +2 objetivos adicionales por nivel de habilidad hasta el número máximo permitido y fijado por la nave.",
+    "fr": "Compétence liée à l'observation des tournois. 2 cibles supplémentaires par niveau de compétence (limité par le nombre de cibles verrouillées maximum permis par le vaisseau).",
+    "ja": "トーナメントを監視するスキル。船がロックオンできるターゲットの最大数に達するまで、スキルレベル上昇ごとにターゲットの数が 2 増える。",
+    "ko": "토너먼트 관람을 위한 스킬입니다. 매 레벨마다 최대 타겟 숫자 +2",
+    "ru": "Навык наблюдения за турнирами. За каждую степень освоения навыка: на 2 цели увеличивается количество захватываемых целей (не более максимально допустимого типом корабля количества захватываемых целей).",
+    "zh": "巡视联赛的技能。每升一级，增加2个锁定目标，直到飞船最大可锁定的目标数量。"
+  },
+  "groupID": 272,
+  "iconID": 33,
   "name": {
     "de": "Tournament Observation",
     "en": "Tournament Observation",
@@ -10,5 +22,7 @@
     "ru": "Наблюдение за турнирами",
     "zh": "联赛巡视训练"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

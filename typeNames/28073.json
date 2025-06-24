@@ -1,5 +1,18 @@
 {
-  "typeID": 28073,
+  "basePrice": 10000000.0,
+  "description": {
+    "de": "Grundlegende Bedienung von Bombenabwurfsystemen. 10% Reduktion der Reaktivierungsverzögerung für Bombenabwürfe je Skillstufe.",
+    "en": "Basic operation of bomb delivery systems. 10% reduction of Bomb Launcher reactivation delay per skill level.",
+    "es": "Operación básica de sistemas de lanzamiento de bombas. 10 % de reducción a la demora de reactivación del lanzabombas por nivel de habilidad.",
+    "fr": "Opération de base des systèmes de largage de bombes. Réduit de 10% par niveau de compétence le délai de réactivation des dispositifs de largage de bombes.",
+    "ja": "爆弾投下システムの基本操作スキル。スキルレベル上昇ごとにボムランチャーの反応遅延を 10% 減少させる。",
+    "ko": "기본적인 폭탄 런처 운영 스킬입니다. 매 레벨마다 폭탄 런처 재활성화 대기시간 10% 감소",
+    "ru": "Освоив этот навык, пилот сможет пополнить свой арсенал бомбомётами. За каждую степень освоения навыка: на сокращается задержку повторного включения бомбомёта (на 10% за каждую степень освоения навыка)",
+    "zh": "操作炸弹发射系统的基本技能。每升一级，炸弹发射器的激活延迟减少10%。"
+  },
+  "groupID": 256,
+  "iconID": 33,
+  "marketGroupID": 373,
   "name": {
     "de": "Bomb Deployment",
     "en": "Bomb Deployment",
@@ -10,5 +23,7 @@
     "ru": "Бомбомёты",
     "zh": "炸弹部署理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,7 @@
 {
-  "typeID": 54215,
+  "graphicID": 1217,
+  "groupID": 920,
+  "mass": 1.0,
   "name": {
     "de": "System-Wide Warp Speed Bonus",
     "en": "System-Wide Warp Speed Bonus",
@@ -9,6 +11,32 @@
     "ko": "전반적 시스템 워프 속도 보너스",
     "ru": "System-Wide Warp Speed Bonus",
     "zh": "星系范围跃迁速度加成"
+  },
+  "portionSize": 250,
+  "published": true,
+  "sofFactionName": "genericbase",
+  "traits": {
+    "iconID": 98,
+    "miscBonuses": [
+      {
+        "bonus": 2.0,
+        "bonusText": {
+          "de": "Erhöhung der Warpgeschwindigkeit des Schiffs",
+          "en": "increase in ship warp speed",
+          "es": "de aumento de la velocidad de warp de la nave.",
+          "fr": "augmentation de la vitesse de warp du vaisseau",
+          "ja": "艦船ワープ速度が上昇",
+          "ko": "워프 속도 증가",
+          "ru": "увеличение скорости хода в варп-режиме",
+          "zh": "提高舰船跃迁速度"
+        },
+        "importance": 1,
+        "isPositive": true,
+        "unitID": 144
+      }
+    ],
+    "roleBonuses": [],
+    "types": {}
   },
   "volume": 20.0
 }

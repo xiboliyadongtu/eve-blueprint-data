@@ -1,5 +1,17 @@
 {
-  "typeID": 353435,
+  "basePrice": 48000.0,
+  "description": {
+    "de": "Skill zur Benutzung von Handfeuerwaffen\n\n\n\nSchaltet Sekundärwaffen ab Stufe 1, Leichtwaffen ab Stufe 3 und schwere Waffen ab Stufe 5 frei.",
+    "en": "Skill at using handheld weapons.\r\n\r\nUnlocks sidearm weapons at lvl.1, light weapons at lvl.3, and heavy weapons at lvl.5.",
+    "es": "Habilidad de manejo de armas de mano.\n\nDesbloquea las armas secundarias en el nivel 1, las armas ligeras en el nivel 3 y las armas pesadas en el nivel 5.",
+    "fr": "Compétence permettant d'utiliser des armes de poing.\n\nDéverrouille les armes secondaires au niv.1, les armes légères au niv.3 et les armes lourdes au niv.5.",
+    "it": "Abilità nell'utilizzo delle armi portatili.\n\nSblocca le armi secondarie al liv. 1, le armi leggere al liv. 3 e le armi pesanti al liv. 5.",
+    "ja": "携行火器を扱うスキル。\n\nレベル1でサイドアーム兵器、レベル3で小火器、レベル5で重火器が使用できるようになる。",
+    "ko": "보병용 무기를 운용하기 위한 스킬입니다. <br><br>레벨 1 - 보조무기 개방, 레벨 3 - 경량 무기 개방, 레벨 5 - 중량 무기 개방",
+    "ru": "Навык использования ручного оружия.\n\nПозволяет использовать личное оружие на уровне 1, легкое оружие - на уровне 3 и тяжелое оружие - на уровне 5.",
+    "zh": "使用手持武器的技能。1级解锁副武器；3级解锁轻型武器；5级解锁重型武器。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Waffentechnik",
     "en": "Weaponry",
@@ -11,5 +23,7 @@
     "ru": "Вооружение",
     "zh": "武器装备"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

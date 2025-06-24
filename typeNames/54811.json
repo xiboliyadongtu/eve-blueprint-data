@@ -1,5 +1,18 @@
 {
-  "typeID": 54811,
+  "description": {
+    "de": "Dieser Datenträger trägt Daten-Kennzeichen mit Identifikations-Codes von CONCORD, Upwell Consortium und EDENCOM, die auf den Komponentennamen und die Seriennummer schließen lassen. Es handelt sich um einen Verschlüsselungs-Datenträger, doch die Kodierung der Kennzeichen deutet auf ein ausgeklügeltes, experimentelles System hin, das einen leistungsstarken OODA-Loop („Observe, Orient, Decide, Act“) für ein Waffensystem ausführt. Diese Anwendung ausgeklügelter Systemtechnologie kommt der ungesetzlichen Entwicklung unbeschränkter KI-Systeme gefährlich nahe. Angesichts der aktuellen Krise scheinen solche Gesichtspunkte außer Acht gelassen zu werden. Es ist anzunehmen, dass diese Software für die Nutzung in einem bestimmten System vorgesehen ist.",
+    "en": "The component name and serial number of this data storage device is indicated clearly by data-tags bearing CONCORD, Upwell Consortium and EDENCOM identifier codes. This is an encrypted data device but the coding of the tags suggests an experimental expert system designed to run a powerful \"Observe, Orient, Decide, Act\" loop for a weapons system. This application of expert systems technology treads dangerously into the territory of outlawed unrestricted AI development. The needs of the present crisis would appear to overrule such considerations. Presumably this software package is intended for use in a specific design.",
+    "es": "El nombre del componente y el número de serie de este dispositivo de almacenamiento de datos se indican claramente en las etiquetas de datos que llevan los códigos de identificación de CONCORD, Consorcio Upwell y EDENCOM. Se trata de un dispositivo de datos encriptados, pero la codificación de las etiquetas sugiere que podría ser un sistema experto experimental diseñado para ejecutar un poderoso ciclo de observación, orientación, decisión y actuación para un sistema de armas. Esta aplicación de la tecnología de sistemas expertos se adentra peligrosamente en el territorio del desarrollo de IA ilegales y sin restricciones. Las necesidades de la crisis actual parecen invalidar tales consideraciones. Probablemente este paquete de software esté diseñado para usarse en un diseño específico.",
+    "fr": "Le nom de composant et le numéro de série de ce dispositif de stockage de données sont indiqués par des labels de données mentionnant les codes d'identification de CONCORD, de l'Upwell Consortium et d'EDENCOM. Il s'agit d'un dispositif de données crypté mais le code des labels laisse supposer qu'il s'agit d'un système expert expérimental fabriqué pour faire fonctionner une puissante boucle « Observer, s'Orienter, Décider, Agir » pour système d'armements. Cette application de technologie de systèmes experts s'étend dangereusement du côté du développement d'IA illégal et non contrôlé. Les besoins liés à la crise actuelle sont suffisants pour contrevenir à de telles considérations. Il est probable que ce pack logiciel ait été pensé pour un usage spécifique.",
+    "ja": "このデータ記憶装置のコンポーネント名とシリアル番号は、CONCORD、アップウェル・コンソーシアム、EDENCOMの識別子コードを持つデータタグによって明確に示されている。これは暗号化されたデータ装置だが、タグのコーディングは実験的なエキスパートシステムを示唆しており、兵器システムのための強力な 「観察、志向、決定、行動 」ループを実行するように設計されている。このエキスパートシステム技術の応用は、無制限の無法なAI開発の領域に危険なほど踏み込んでいる。現在の危機の必要性は、そのような考慮事項に勝るように見えるだろう。おそらく、このソフトウェアパッケージは、特定の設計での使用を意図している。",
+    "ko": "이 데이터 저장 장치의 부품명과 일렬번호는 CONCORD, 업웰 컨소시엄, 그리고 EDENCOM의 식별 코드가 적힌 데이터 표에 명확히 명시되어있습니다. 암호화된 데이터 저장 장치이지만 데이터 표의 코딩 방식을 통해 이 장치가 무기 시스템에 사용되는 강력한 \"관측, 지향, 결정, 행동\" 루프를 가동하도록 설계된 실험적인 전문가 시스템임을 알 수 있습니다. 전문가 시스템 기술을 적용하는 것은 AI 개발의 제한 없는 무법 지역으로 진입하는 위험한 행위입니다. 현재의 위기의 필요성은 이러한 고려 사항을 덮어버릴 것입니다. 짐작하건데 해당 소프트웨어의 패키지는 특정 설계에 사용되도록 개발되었습니다.",
+    "ru": "Название и серийный номер этого устройства хранения данных определяются тегами данных, содержащими идентификационные коды КОНКОРДа, консорциума «Апвелл» и ЭДЕНКОМа. Это зашифрованное устройство хранения данных, но кодировка в тегах предполагает, что этот экспериментальный оценочный модуль должен запускать в орудийной системе цикл «Наблюдение, наведение, решение, действие». Применение подобных экспертных технологий нарушает закон, ограничивающий разработку опасных видов ИИ. В условиях текущего кризиса, похоже, нужда заставляет пренебрегать законом. Предположительно, этот комплект ПО предназначен для использования в определённом устройстве.",
+    "zh": "这种数据存储装置的组件名称和序列号清楚地带有统合部、昇威财团和伊甸联合防御阵线的识别码。这是个加密数据装置，但其标识代码显示这是一种实验性专家系统，用来为某种武器系统运行强大的“观察、定位、决策、实施”回路。这种专家系统若是落入非法AI研发领域将会是极大的威胁。解决当下的危机才是重中之重。这种软件包可能是用于特殊领域的。"
+  },
+  "groupID": 526,
+  "iconID": 2038,
+  "marketGroupID": 1661,
+  "mass": 20.0,
   "name": {
     "de": "OODA Loop Expert System Package",
     "en": "OODA Loop Expert System Package",
@@ -10,5 +23,7 @@
     "ru": "OODA Loop Expert System Package",
     "zh": "OODA回路专家系统包"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

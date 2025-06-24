@@ -1,5 +1,20 @@
 {
-  "typeID": 12223,
+  "basePrice": 30000.0,
+  "description": {
+    "de": "Transferiert Energie aus dem Energiespeicher zu einem anderen Schiff.\n\n\n\nHinweis: Kann nur in Schiffe der Capital-Klasse eingebaut werden.",
+    "en": "Transfers capacitor energy to another ship.\r\n\r\nNote: May only be fitted to capital class ships.",
+    "es": "Transfiere energía del condensador a otra nave.\n\n\n\nAviso: Solo se puede equipar en naves capitales.",
+    "fr": "Ce module transfère de l'énergie de capaciteur vers un vaisseau allié.\n\n\n\nRemarque : réservé aux vaisseaux de classe capital.",
+    "ja": "キャパシタのエネルギーを別の艦に転送する。注： 母艦級の艦船にのみ装着可能。",
+    "ko": "캐패시터 에너지를 다른 함선에 전송합니다. <br><br>참고: 캐피탈급 함선에만 장착이 가능합니다.",
+    "ru": "Передаёт энергию накопителя другому кораблю.\n\n\n\nВнимание! Этим модулем могут оснащаться исключительно корабли большого тоннажа.",
+    "zh": "将电容器能量转移到另一艘舰船上。\n\n\n\n注：只能用于旗舰级舰船。"
+  },
+  "groupID": 67,
+  "iconID": 1035,
+  "marketGroupID": 910,
+  "mass": 1000.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Capital Remote Capacitor Transmitter II",
     "en": "Capital Remote Capacitor Transmitter II",
@@ -10,5 +25,9 @@
     "ru": "Capital Remote Capacitor Transmitter II",
     "zh": "旗舰级远程电容传输装置 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 1000.0,
+  "variationParentTypeID": 12219,
   "volume": 4000.0
 }

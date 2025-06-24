@@ -1,5 +1,18 @@
 {
-  "typeID": 26422,
+  "description": {
+    "de": "Diese Schiffsmodifikation wurde entworfen, um die Munitionszuladung der Projektilgeschütztürme eines Schiffes zu vergrößern, auf Kosten eines erhöhten Stromnetzbedarfs für Projektilwaffen.",
+    "en": "This ship modification is designed to increase a ship's projectile turret ammo capacity at the expense of increased power grid need for projectile weapons.",
+    "es": "Esta modificación de nave está diseñada para aumentar la capacidad de munición de las torretas de proyectiles a costa de incrementar la necesidad del sistema de potencia de las armas de proyectiles.",
+    "fr": "Cette modification de vaisseau est conçue pour augmenter la capacité de munitions des tourelles à projectiles d'un vaisseau, au détriment des ressources du réseau d'alimentation amélioré requises par les armes à projectiles.",
+    "ja": "プロジェクタイルタレットの装填可能な実弾の数が増加するが、プロジェクタイル兵器のパワーグリッド使用量が増加する。",
+    "ko": "리그 장착 시 발사체 터렛의 장탄수가 증가하는 반면 발사체 계열 무기의 파워그리드 요구치도 증가합니다.",
+    "ru": "Тюнинг-модуль, установка которого на борт корабля приводит к увеличению боекомплекта баллистических орудий (за счёт увеличения потребности баллистических орудий в мощности бортового реактора).",
+    "zh": "这个飞船改装件可增加舰船射弹炮台的弹药容量，但同时会提升射弹炮台的能量栅格需求。"
+  },
+  "groupID": 777,
+  "iconID": 3201,
+  "mass": 200.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Projectile Cache Distributor II",
     "en": "Projectile Cache Distributor II",
@@ -10,5 +23,9 @@
     "ru": "Projectile Cache Distributor II",
     "zh": "射弹武器弹轨缓冲装置 II"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 100.0,
+  "variationParentTypeID": 26036,
   "volume": 5.0
 }

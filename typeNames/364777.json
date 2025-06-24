@@ -1,5 +1,17 @@
 {
-  "typeID": 364777,
+  "basePrice": 99000.0,
+  "description": {
+    "de": "Grundlegende Kenntnisse über Fahrzeugschildregenerierung.\n\n5% Abzug auf die Ladeverzögerung verbrauchter Schilde pro Skillstufe.",
+    "en": "Basic understanding of vehicle shield regeneration.\r\n\r\n5% reduction to depleted shield recharge delay per level.",
+    "es": "Conocimiento básico de regeneración de escudos de vehículo.\n\n-5% al retraso de la recarga de escudo agotado por nivel.",
+    "fr": "Notions de base en régénération de bouclier de véhicule.\n\n5 % de réduction au délai de recharge du bouclier épuisé par niveau.",
+    "it": "Comprensione base della rigenerazione dello scudo del veicolo.\n\n5% di riduzione al ritardo di ricarica dello scudo esaurito per livello.",
+    "ja": "車両シールドシールドリジェネレイターに関する基本的な知識。\n\nレベル上昇ごとに、シールド枯渇時リチャージ遅延速度を5%減少させる。",
+    "ko": "차량 실드 재충전에 대한 기본적인 이해를 습득합니다. <br><br>매 레벨마다 실드 재충전 대기시간 5% 감소",
+    "ru": "Базовое понимание перезарядки щита транспортного средства.\n\n5% уменьшение задержки перезарядки истощенного щита за каждый уровень.",
+    "zh": "载具护盾回充基本知识。每升一级，能量耗尽后的护盾回充延迟降低5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Fahrzeug: Schildregenerierung",
     "en": "Vehicle Shield Regeneration",
@@ -11,5 +23,7 @@
     "ru": "Регенерация щита транспортного средства",
     "zh": "车辆护盾回充"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

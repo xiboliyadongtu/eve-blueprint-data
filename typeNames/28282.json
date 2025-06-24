@@ -1,5 +1,20 @@
 {
-  "typeID": 28282,
+  "basePrice": 6936.0,
+  "description": {
+    "de": "Mittlere Aufklärungsdrohne. Diesem speziellen Modell wurden mehrere Raubdrohnenkomponenten eingebaut, was die Leistung der Drohne erhöht.",
+    "en": "Medium Scout Drone\r\n\r\nThis particular model has had multiple components from rogue drones incorporated into its design, enhancing its performance.",
+    "es": "Dron de reconocimiento mediano\n\n\n\nEste modelo en particular incorpora varios componentes de drones rebeldes en el diseño, lo que mejora el rendimiento.",
+    "fr": "Drone de reconnaissance intermédiaire.\n\nCe modèle est composé de nombreuses pièces de drones renégats qui améliorent ses performances.",
+    "ja": "ミディアムスカウトドローン\n\nこのモデルは、設計にローグドローンの部品をいくつも組み込むことで性能を向上させている。",
+    "ko": "미디움 스카우트 드론<br><br>각종 로그 드론 부품을 적용하여 성능을 향상시킨 드론 기종입니다.",
+    "ru": "Средний разведывательный дрон\n\nВ конструкцию этого дрона было добавлено значительное количество частей восставших дронов для повышения его характеристик.",
+    "zh": "中型侦察无人机 \n\n该特殊型号的设计中集成了多个来自自由无人机的部件，从而增强了其性能。"
+  },
+  "graphicID": 2778,
+  "groupID": 100,
+  "marketGroupID": 838,
+  "mass": 6000.0,
+  "metaGroupID": 4,
   "name": {
     "de": "'Integrated' Infiltrator",
     "en": "'Integrated' Infiltrator",
@@ -10,5 +25,11 @@
     "ru": "'Integrated' Infiltrator",
     "zh": "集成型渗透者"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 20.0,
+  "sofFactionName": "amarrbase",
+  "variationParentTypeID": 2173,
   "volume": 10.0
 }

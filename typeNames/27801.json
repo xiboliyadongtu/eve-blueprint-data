@@ -1,5 +1,18 @@
 {
-  "typeID": 27801,
+  "capacity": 100.0,
+  "description": {
+    "de": "Dies ist das Schiff eines Gesetzlosen, der sich daran erfreut, die Schwachen und Unachtsamen zu berauben.\r\n\r\nBedrohungsstufe: Sehr niedrig",
+    "en": "This is an outlaw vessel that thrives by preying on the weak and unwary. Threat level: Very low",
+    "es": "Esta es una nave de forajido que prospera atacando a los débiles e incautos. Nivel de amenaza: muy bajo.",
+    "fr": "Vaisseau hors-la-loi dont la spécialité consiste à s'en prendre aux faibles et aux imprudents. Niveau de menace : très faible",
+    "ja": "アウトロー船。弱い者や油断した者を食い物にしている。危険度:非常に低い",
+    "ko": "무법자들은 방심하고 나약한 자들을 공격합니다. 위험도: 매우 낮음",
+    "ru": "Это бандитский корабль, который охотится на слабых и неосторожных. Уровень опасности: очень низкий",
+    "zh": "这是一艘违法船只，靠偷袭那些弱小的、无防备的船只维生。威胁等级：非常低"
+  },
+  "graphicID": 345,
+  "groupID": 185,
+  "mass": 2112000.0,
   "name": {
     "de": "Petty Thief",
     "en": "Petty Thief",
@@ -10,5 +23,11 @@
     "ru": "Petty Thief",
     "zh": "不起眼的贼船"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 39.0,
+  "sofFactionName": "angelbase",
+  "soundID": 31,
   "volume": 21120.0
 }

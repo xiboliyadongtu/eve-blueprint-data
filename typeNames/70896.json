@@ -1,5 +1,16 @@
 {
-  "typeID": 70896,
+  "description": {
+    "de": "Dieses EDENCOM-Sicherheitsrelais wurde offenbar entwickelt, um Telemetriedaten von einer lokalen Quelle zu empfangen und sie über einen bordeigenen Flüssigrouter an eine externe Station weiterzuleiten. Möglicherweise enthält der sichere Datenspeicherpuffer dieser Einrichtung noch einige Daten, aber die Wiederherstellung erfordert mit Sicherheit einen tiefgreifenden und aggressiven Scan.",
+    "en": "This is an EDENCOM Secure Relay apparently designed to receive telemetry from a local source and send it on to a remote station via an onboard fluid router.\r\n\r\nIt is possible the secure data storage buffer of this facility retains some data but recovery would no doubt require a deep and highly-intrusive retrieval scan.",
+    "es": "Un relé seguro EDENCOM aparentemente diseñado para recibir telemetría de una fuente local y enviarla a una estación remota a través de un router fluido de a bordo.\n\nEs posible que el búfer de almacenamiento de datos seguro de esta instalación conserve algunos datos, pero su recuperación requeriría sin duda un escaneo de recuperación profundo y muy intrusivo.",
+    "fr": "Il s'agit d'un relais sécurisé d'EDENCOM apparemment conçu pour recevoir des données de télémétrie d'une source locale et les transférer à une station éloignée par l'intermédiaire d'un routeur de fluide embarqué. Il est possible que le tampon de stockage de données sécurisé de ce site contienne encore des données, mais leur récupération nécessiterait assurément un scan en profondeur hautement intrusif.",
+    "ja": "付近のデータソースから測定データを受信し、搭載されたフルイドルーター経由で遠方のステーションへ送信するためと思われるEDENCOM機密通信リレー。\n\nこの施設の機密データ保存バッファ内に何らかのデータが保管されている可能性はあるが、深部まで走査しなければならない時間のかかる回収スキャンが必要になってくるだろう。",
+    "ko": "EDENCOM 보안 릴레이입니다. 주변 지역에서 발신한 원격 측정 데이터를 수신한 후 함내 유체 라우터를 통해 멀리 떨어진 정거장에 전송하는 시설로 보입니다.<br><br>이 시설의 보안 버퍼에 데이터가 담겨있을 가능성이 있지만, 복구하려면 대단히 어렵고 심오한 작업이 필요할 것입니다.",
+    "ru": "Это защищённый передатчик ЭДЕНКОМа, предназначенный для сбора телеметрической информации и отправки данных на удалённую станцию с помощью бортового квантового маршрутизатора. Возможно, этот защищённый буфер обмена ещё содержит какие-то данные, но для их извлечения потребуется провести сканирование высокоинвазивным методом.",
+    "zh": "这是一座伊甸联合防御阵线安全中继站，用来接收本地的遥测数据并通过高效路由器发送给远方的空间站。\n\n\n\n这座设施的数据存储缓存中可能还留有某些数据，但必定需要进行深入的扫描和破译才能获得。"
+  },
+  "graphicID": 2412,
+  "groupID": 226,
   "name": {
     "de": "EDENCOM Secure Relay Beta",
     "en": "EDENCOM Secure Relay Beta",
@@ -10,5 +21,9 @@
     "ru": "EDENCOM Secure Relay Beta",
     "zh": "伊甸联合防御阵线安全中继站贝它"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 10000.0,
+  "sofFactionName": "genericindustrial"
 }

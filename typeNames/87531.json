@@ -1,5 +1,16 @@
 {
-  "typeID": 87531,
+  "description": {
+    "de": "Diese Struktur markiert einen Haltepunkt im Berechnungsfluss des Labyrinths. Sie hält falsche Prämissen und anomale Materie, wie z. B. unerwünschte Schiffe, davon ab, weiter in der Analysekette voranzukommen. Solange sie intakt bleibt, ist kein weiterer Fortschritt möglich.",
+    "en": "This structure marks a stopping point in the labyrinth’s computational flow. It keeps false premises and abarrent matter, such as unwanted ships, from proceeding further down the analysis chain. As long as it remains intact, no further progress is possible.",
+    "es": "Esta estructura marca un punto de parada en el flujo computacional del laberinto. Impide que premisas falsas y materia aberrante, como naves no deseadas, avancen en la cadena de análisis. Mientras permanezca intacta, no es posible seguir avanzando.",
+    "fr": "Cette structure marque un point d'arrêt dans le flux de calcul du Labyrinthe. Elle empêche la progression de prémisses erronées et de matières aberrantes, telles que des vaisseaux indésirables, plus loin dans la chaîne d'analyse. Tant qu'elle reste intacte, aucune progression supplémentaire n'est possible.",
+    "ja": "このストラクチャは、ラビリンスの計算フローの滞留地点と言える。招かれざる艦船などの偽の前提と通常とは異なる事柄が、その先の分析チェーンへと進まないようにせき止めるのである。これが稼働している限り、先へ進むことは叶わない。",
+    "ko": "미로의 데이터 흐름의 중단점에 해당하는 구조물입니다. 잘못된 전제를 포함한 데이터나 불필요한 함선 같은 관련 없는 물체도 분석 연쇄에 따라 처리합니다. 해당 구조물이 작동하는 한 작전을 진행할 수 없습니다.",
+    "ru": "В эту конструкцию стекаются все вычислительные потоки лабиринта. Она не допускает, чтобы ложные идеи и бесполезная материя, например вражеские корабли, попали в последующую цепочку анализа. Пока её системы работают, путь дальше для вас закрыт.",
+    "zh": "这座建筑的出现标志着迷宫的计算流停止。它可以阻止分析链继续处理虚假前提与异常物质（比如无用舰船）。只要建筑完整无缺，就能彻底阻止处理进程。"
+  },
+  "graphicID": 28016,
+  "groupID": 319,
   "name": {
     "de": "Obstruction Node",
     "en": "Obstruction Node",
@@ -10,5 +21,8 @@
     "ru": "Obstruction Node",
     "zh": "阻塞节点"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 5500.0,
+  "sofFactionName": "drifter"
 }

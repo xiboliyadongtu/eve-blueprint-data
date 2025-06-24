@@ -1,5 +1,18 @@
 {
-  "typeID": 80934,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Eine schwere Triglavia-Verteidigungsstation, die von einer Singularität angetrieben wird und mit einer Vielzahl von entropischen Desintegratoren ausgestattet ist. Die Zerstörung dieser gefährlichen Triglavia-Strukturen hat im Rahmen von EDENCOMs Bemühungen zur Verteidigung der Sonnensysteme von New Eden gegen die Invasion des Kollektivs höchste Priorität. Scans zeigen, dass die Plattform kürzlich erlittenen Kampfschaden aufweist, sie stellt jedoch immer noch eine erhebliche Bedrohung für unvorbereitete Kapselpiloten dar.",
+    "en": "A heavy Triglavian defense platform powered by a harnessed singularity and equipped with a formidable array of entropic disintegrators. Destruction of these dangerous Triglavian structures is vital to EDENCOM's efforts in defense of New Eden star systems invaded by the Collective.\r\n\r\nScans reveal that the platform has suffered impairments from recent battle damage, yet it still represents a significant threat to the unsuspecting.",
+    "es": "Una pesada plataforma de defensa triglaviana que se aprovecha de una singularidad y está equipada con una formidable variedad de desintegradores entrópicos. La destrucción de estas peligrosas estructuras triglavianas es vital para los esfuerzos de EDENCOM en la defensa de los sistemas estelares de Nuevo Edén invadidos por el Colectivo.\r\n\r\nLos escáneres revelan que la plataforma no funciona correctamente debido a los daños sufridos durante una batalla reciente. Sin embargo, sigue suponiendo una amenaza significativa para los desprevenidos.",
+    "fr": "Une puissante plateforme de défense triglavian, alimentée en exploitant la singularité et dotée d'un impressionnant arsenal de désintégrateurs entropiques. La destruction de ces structures triglavian dangereuses est cruciale pour les efforts de défense des systèmes stellaires de New Eden menés par EDENCOM contre l'invasion du Collectif. Les scans révèlent que la plateforme a subi des dommages lors de récents combats, mais elle représente toujours une menace significative pour les imprudents.",
+    "ja": "制御された特異点エネルギーを動力とするトリグラビアンの重武装防衛プラットフォームで、数多くの強力なエントロピックディスインテグレイターを搭載している。EDENCOMはコレクティブの侵略を受けているニューエデンのスターシステムの防衛作戦を展開しているが、それにはこういった危険なストラクチャの破壊が必要不可欠である。\r\n\r\nスキャンの結果、このプラットフォームは最近の戦闘によって機能不全に陥っていることが分かっているが、それでも無防備な者にとって重大な脅威である。",
+    "ko": "특이점 기술로 운용되는 트리글라비안 방어 플랫폼으로 다수의 엔트로픽 분열기가 탑재되어 있습니다. EDENCOM은 트리글라비안 침공으로부터 뉴에덴을 방어하기 위해 이와 같은 구조물을 적극적으로 공략하고 있습니다.<br><br>최근 전투로 인해 손상되었으나 무방비하게 접근할 경우 피해를 입을 수 있습니다.",
+    "ru": "Тяжёлая оборонительная платформа Триглава, питаемая энергией управляемой сингулярности и оснащённая мощной батареей энтропических дезинтеграторов. ЭДЕНКОМ считает уничтожение этих опасных сооружений Триглава необходимым условием освобождения систем, в которые вторглись силы Сообщества. Сканирование показало, что платформа сильно пострадала в ходе недавней битвы, однако всё ещё представляет серьёзную угрозу для неподготовленных пилотов.",
+    "zh": "这是一座利用奇点供能的重型三神裔防御平台，装配了强大的熵能分解者武器阵列。摧毁这些极具威胁的三神裔建筑对伊甸联合防御阵线保卫宇宙免遭三神裔入侵具有重要的意义。扫描发现此平台虽然在近期的战斗中受损，但仍能对贸然接近的对象造成巨大威胁。"
+  },
+  "graphicID": 24549,
+  "groupID": 383,
+  "mass": 1000.0,
   "name": {
     "de": "Damaged Werpost",
     "en": "Damaged Werpost",
@@ -10,5 +23,10 @@
     "ru": "Damaged Werpost",
     "zh": "受损的哨塔"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 1359.0,
+  "sofFactionName": "triglavianbase",
   "volume": 1000.0
 }

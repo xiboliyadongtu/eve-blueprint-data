@@ -1,5 +1,18 @@
 {
-  "typeID": 40536,
+  "basePrice": 500000000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Truppenunterstützern der Caldari.",
+    "en": "Skill at operating Caldari force auxiliaries.",
+    "es": "Habilidad en el manejo de naves auxiliares caldaris.",
+    "fr": "Compétence liée au pilotage forces auxiliaires caldari.",
+    "ja": "カルダリ軍の増援部隊を操作するスキル。",
+    "ko": "칼다리 포스 악실리아 운용을 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на вспомогательных КБТ производства Государства Калдари.",
+    "zh": "操作加达里战力辅助舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Caldari Force Auxiliary",
     "en": "Caldari Force Auxiliary",
@@ -10,5 +23,8 @@
     "ru": "Калдарские вспомогательные КБТ",
     "zh": "加达里战力辅助舰操作"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
   "volume": 0.01
 }

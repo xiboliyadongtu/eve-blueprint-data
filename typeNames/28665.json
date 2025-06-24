@@ -1,5 +1,77 @@
 {
-  "typeID": 28665,
+  "basePrice": 793300000.0,
+  "capacity": 1150.0,
+  "description": {
+    "de": "Marauder sind auf Vielseitigkeit und längere Einsätze in feindlichen Umgebungen ausgelegt und repräsentieren die Spitze der heutigen Kriegsschifftechnologie. Obwohl sie bereits von sich aus schwer gepanzert und stark bewaffnet sind, können sie auch Bastion-Technologie verwenden. Ähnlich wie bei der Capital-Rekonfigurationstechnologie bietet das Bastionsmodul Widerstand gegen elektronische Kriegsführung und die Fähigkeit, enormen Mengen an Schaden zu widerstehen, auf Kosten der Beweglichkeit.",
+    "en": "Geared toward versatility and prolonged deployment in hostile environments, Marauders represent the cutting edge in today’s warship technology. While being thick-skinned, hard-hitting monsters on their own, they are also able to use Bastion technology. Similar in effect to capital reconfiguration technology, when activated the Bastion module provides resistance to electronic warfare and the ability to withstand enormous amounts of punishment, at the cost of being stationary.",
+    "es": "Equipados para brindar versatilidad y prolongar el despliegue en entornos hostiles, los depredadores representan la vanguardia de la tecnología actual para naves de guerra. Aunque estos monstruos tienen la piel gruesa y son duros de roer, también pueden usar tecnología de baluarte. Al activarse, con unos efectos similares a los de la tecnología de reconfiguración capital, el módulo de baluarte proporciona resistencia a la guerra electrónica y la capacidad de soportar los castigos más severos, a costa de ser una estructura fija.",
+    "fr": "Destinés à un déploiement prolongé au cœur d'environnements hostiles, les maraudeurs sont aujourd'hui à la pointe de la technologie des vaisseaux de guerre. Bien qu'étant de véritables monstres spatiaux aussi résistants que dévastateurs, ils sont également capables d'utiliser la technologie Bastion. Fonctionnant à la manière de la technologie de reconfiguration capitale, le module de bastion confère une résistance à toute forme de guerre électronique ainsi que la possibilité de résister à une énorme quantité de dégâts. L'activation de ce module force toutefois le vaisseau à une immobilité totale durant son utilisation.",
+    "ja": "襲撃型戦艦は汎用性と敵勢力圏での長期行動に重点が置かれた、現代戦闘艦技術の最先端を体現した存在である。分厚い装甲と高火力で固めた怪物であり、バスチオン技術を活用することも可能。このバスチオンモジュールはキャピタル型リコンフィギュレーション技術と同じく、起動すると電子戦の影響への抵抗力を獲得し、また一切動かない代わりにとてつもない量の敵砲火に耐えることができる。",
+    "ko": "머라우더는 첨단 기술의 집합체로 적대적인 지역에서 장기간 임무 수행이 가능합니다. 공수 양면으로 위력적인 함선이며 이례적으로 바스티온 모듈을 탑재할 수 있습니다. 바스티온 모듈은 재구성 기술과 유사한 효과를 지녔으며 활성화 시 전자전 공격에 대한 저항력과 막대한 방어력을 획득합니다.",
+    "ru": "Универсальность и возможность долгого пребывания во враждебной среде — вот что ставилось во главу угла при разработке конструкции рейдера, одного из наиболее продвинутых и современных боевых кораблей. Помимо того, что эти суда обладают немалой прочностью и способны наносить высокий урон, они также могут использовать технологию оборонных модулей. По своему действию оборонные модули схожи с технологией реконфигурации КБТ: они обеспечивают сопротивляемость средствам РЭБ, а также позволяют выдерживать огромное количество урона. Но цена этого преимущества довольно высока: корабль, активировавший такой модуль, не способен двигаться.",
+    "zh": "旨在成为多用途且能够长时间部署于敌方区域的掠夺舰，代表了当代战舰科技的最前沿。它不仅皮糙肉厚、火力凶猛，还能够使用堡垒科技克敌制胜。这种科技与旗舰的配置技术类似，开启堡垒装备后，舰船具有电子战抗性，防御力大幅提高，但代价是无法移动。"
+  },
+  "factionID": 500002,
+  "graphicID": 3354,
+  "groupID": 900,
+  "marketGroupID": 1084,
+  "mass": 150000000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      150,
+      73,
+      138,
+      141,
+      85,
+      165
+    ],
+    "1": [
+      96,
+      99,
+      150,
+      73,
+      138,
+      141,
+      85,
+      165
+    ],
+    "2": [
+      96,
+      99,
+      150,
+      73,
+      138,
+      141,
+      85,
+      165
+    ],
+    "3": [
+      96,
+      99,
+      150,
+      73,
+      138,
+      141,
+      142,
+      85,
+      165
+    ],
+    "4": [
+      96,
+      99,
+      150,
+      73,
+      138,
+      141,
+      142,
+      85,
+      118,
+      165
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Vargur",
     "en": "Vargur",
@@ -10,5 +82,141 @@
     "ru": "Vargur",
     "zh": "恶狼级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 250.0,
+  "sofFactionName": "boundlesscreation",
+  "soundID": 20076,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Es können <a href=showinfo:33400>Bastionsmodule</a> eingebaut werden",
+          "en": "Can fit <a href=showinfo:33400>Bastion modules</a>",
+          "es": "Es posible equipar <a href=showinfo:33400>módulos de baluarte</a>.",
+          "fr": "Peut équiper des <a href=showinfo:33400>modules de bastion</a>",
+          "ja": "<a href=showinfo:33400>バッションモジュール</a>を装備できる",
+          "ko": "<a href=showinfo:33400>바스티온 모듈</a> 장착 가능",
+          "ru": "Корабли этого типа могут оснащаться <a href=showinfo:33400>реконфигураторами огневого профиля</a>",
+          "zh": "可以装配<a href=\"showinfo:33400\">堡垒装备</a>"
+        },
+        "importance": 4
+      },
+      {
+        "bonus": 70.0,
+        "bonusText": {
+          "de": "Reduzierte Verzögerung bei Reaktivierung von <a href=showinfo:4385>Microsprungantrieben</a>",
+          "en": "reduction in <a href=showinfo:4385>Micro Jump Drive</a> reactivation delay",
+          "es": "de reducción de la demora de reactivación del <a href=showinfo:4385>motor de microsalto</a>.",
+          "fr": "de réduction du délai de réactivation du <a href=showinfo:4385>propulseur de microsauts</a>",
+          "ja": "<a href=showinfo:4385>マイクロジャンプドライブ</a>の再起動遅延が短縮",
+          "ko": "<a href=showinfo:4385>마이크로 점프 드라이브</a> 재가동 지연 시간 감소",
+          "ru": "сокращается задержка повторного включения <a href=showinfo:4385>маневровых гипердвигателей</a>",
+          "zh": "<a href=\"showinfo:4385\">微型跳跃引擎</a>启动间隔加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonus": 100.0,
+        "bonusText": {
+          "de": "Bonus auf den Schaden von <a href=showinfo:3308>großen Projektilgeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:3308>Large Projectile Turret</a> damage",
+          "es": "de bonificación al daño de la <a href=showinfo:3308>torreta de proyectiles grande</a>.",
+          "fr": "de bonus aux dégâts des <a href=showinfo:3308>grandes tourelles à projectiles</a>",
+          "ja": "<a href=showinfo:3308>大型プロジェクタイルタレット</a>のダメージが増加",
+          "ko": "<a href=showinfo:3308>대형 발사체 터렛</a> 피해량 증가",
+          "ru": "увеличивается урон боеприпасов <a href=showinfo:3308>больших баллистических орудий</a>",
+          "zh": "<a href=\"showinfo:3308\">大型射弹炮台</a>伤害加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 100.0,
+        "bonusText": {
+          "de": "Bonus auf die Reichweite und Geschwindigkeit von <a href=showinfo:24348>Traktorstrahlen</a>",
+          "en": "bonus to <a href=showinfo:24348>Tractor Beam</a> range and velocity",
+          "es": "de bonificación al alcance y la velocidad de los <a href=showinfo:24348>rayos tractores</a>.",
+          "fr": "de bonus à la portée et à la vitesse du <a href=showinfo:24348>rayon de tractage</a>",
+          "ja": "<a href=showinfo:24348>トラクタービーム</a>の範囲と速度が増加",
+          "ko": "<a href=showinfo:24348>트랙터 빔</a> 사거리 및 속도 증가",
+          "ru": "увеличивается дальность действия <a href=showinfo:24348>гравизахватов</a>, повышается скорость перемещения ими грузов",
+          "zh": "<a href=\"showinfo:24348\">牵引光束</a>有效范围和牵引速度加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3337": [
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3308>großen Projektilwaffentürmen</a>",
+            "en": "bonus to <a href=showinfo:3308>Large Projectile Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3308>torreta de proyectiles grande</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:3308>grandes tourelles à projectiles</a>",
+            "ja": "<a href=showinfo:3308>大型プロジェクタイルタレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3308>대형 발사체 터렛</a> 피해량 증가",
+            "ru": "к поражающему действию <a href=showinfo:3308>баллистических орудий большого калибра</a>",
+            "zh": "<a href=showinfo:3308>大型射弹炮台</a>伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf den Präzisionsabfall von <a href=showinfo:3308>großen Projektilgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3308>Large Projectile Turret</a> falloff",
+            "es": "de bonificación al alcance efectivo de la <a href=showinfo:3308>torreta de proyectiles grande</a>.",
+            "fr": "de bonus de distance de perte des <a href=showinfo:3308>grandes tourelles à projectiles</a>",
+            "ja": "<a href=showinfo:3308>大型プロジェクタイルタレット</a>の精度低下範囲が拡大",
+            "ko": "<a href=showinfo:3308>대형 발사체 터렛</a> 유효사거리 증가",
+            "ru": "увеличивается добавочная дальность ведения огня из <a href=showinfo:3308>больших баллистических орудий</a>",
+            "zh": "<a href=\"showinfo:3308\">大型射弹炮台</a>失准范围加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ],
+      "28667": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf die Leistung von <a href=showinfo:3416>Schildboostern</a> und die Reparaturmenge von <a href=showinfo:3393>Panzerungsreparatursystemen</a>",
+            "en": "bonus to <a href=showinfo:3416>Shield Booster</a> and <a href=showinfo:3393>Armor Repairer</a> amount",
+            "es": "de bonificación a la eficiencia de los <a href=showinfo:3416>potenciadores de escudo</a> y los <a href=showinfo:3393>reparadores de blindaje</a>.",
+            "fr": "de bonus aux capacités du <a href=showinfo:3416>booster de bouclier</a> et du <a href=showinfo:3393>réparateur de blindage</a>",
+            "ja": "<a href=showinfo:3416>シールドブースター</a>および<a href=showinfo:3393>アーマーリペアラ</a>の回復量増加",
+            "ko": "<a href=showinfo:3416>실드 부스터</a> 및 <a href=showinfo:3393>장갑수리 장치</a> 회복량 증가",
+            "ru": "бонус к эффективности <a href=showinfo:3416>модуля накачки щитов</a> и <a href=showinfo:3393>установки ремонта брони</a>",
+            "zh": "<a href=showinfo:3416>护盾回充增量器</a>回充量和<a href=showinfo:3393>装甲维修器</a>维修量加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Nachführungsgeschwindigkeit von <a href=showinfo:3308>großen Projektilgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3308>Large Projectile Turret</a> tracking speed",
+            "es": "de bonificación a la velocidad de rastreo de la <a href=showinfo:3308>torreta de proyectiles grande</a>.",
+            "fr": "de bonus à la vitesse de poursuite des <a href=showinfo:3308>grandes tourelles à projectiles</a>",
+            "ja": "<a href=showinfo:3308>大型プロジェクタイルタレット</a>の追跡速度が上昇",
+            "ko": "<a href=showinfo:3308>대형 발사체 터렛</a> 트래킹 속도 증가",
+            "ru": "повышается скорость наводки на цель <a href=showinfo:3308>больших баллистических орудий</a>",
+            "zh": "<a href=\"showinfo:3308\">大型射弹炮台</a>跟踪速度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 639,
   "volume": 450000.0
 }

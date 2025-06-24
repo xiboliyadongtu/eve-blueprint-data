@@ -1,5 +1,16 @@
 {
-  "typeID": 59730,
+  "description": {
+    "de": "Diese Struktur ist eine Beobachtungsplattform für Ingenieure, Wissenschaftler und andere Mitarbeiter des Testzentrums der Minmatar Mining Corporation. Bei Vorführungen neuer Technologien oder verbesserter Schiffsdesigns ist die Plattform häufig von Besuchern überlaufen.",
+    "en": "This structure is an observation platform used by engineers, scientists, and other staff of the Minmatar Mining Corporation Testing Center. On occasions where demonstrations of new technology or enhanced ship designs are underway the platform is often thronged with visitors.",
+    "es": "Esta estructura es una plataforma de observación usada por ingenieros, científicos y demás personal del centro de pruebas de Minmatar Mining Corporation. En las demostraciones de nuevas tecnologías o diseños de naves reforzadas la plataforma se llena de visitantes.",
+    "fr": "Cette structure est une plateforme d'observation pour les ingénieurs, les scientifiques et les équipes du centre d'essai de la Minmatar Mining Corporation. Lorsque des démonstrations de nouvelles technologies ou de nouveaux modèles de vaisseaux ont lieu, la plateforme fourmille de visiteurs.",
+    "ja": "このストラクチャは、ミンマター採掘コーポレーションのテストセンターのエンジニアや科学者などが使用している観測プラットフォームである。時折、新技術や改良型艦船のデモンストレーションが行われることがあり、その際はビジターでごった返すことが多い。",
+    "ko": "민마타 채굴사 소속 엔지니어, 과학자, 그리고 실험시설 직원들이 사용하는 실험용 플랫폼입니다. 새로운 함선 설계 또는 신기술을 발표할 때면 발 디딜 틈이 없을 정도로 붐빕니다.",
+    "ru": "Это сооружение — наблюдательная платформа, которую используют инженеры, учёные и прочие сотрудники испытательного центра «Минматарской добывающей корпорации» Когда центр устраивает демонстрацию новой технологии или модернизированного корабля, на этой платформе нередко собирается большое число посетителей.",
+    "zh": "这座建筑被米玛塔尔矿业联合体测试中心的工程师、科学家和雇员用作观测平台。在进行新技术或舰船改造的展示时，这里通常挤满了参观者。"
+  },
+  "graphicID": 2521,
+  "groupID": 226,
   "name": {
     "de": "MMC Testing Center Observation Platform",
     "en": "MMC Testing Center Observation Platform",
@@ -10,5 +21,9 @@
     "ru": "MMC Testing Center Observation Platform",
     "zh": "米玛塔尔矿业联合体测试中心观测平台"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 300.0,
+  "sofFactionName": "genericroadhouse"
 }

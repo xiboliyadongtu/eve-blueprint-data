@@ -1,5 +1,60 @@
 {
-  "typeID": 37457,
+  "basePrice": 16500000.0,
+  "capacity": 250.0,
+  "description": {
+    "de": "Die Deacon ist der neueste Erfolg der Ingenieure von Carthum Conglomerate. Diese Fernreparatureinheit wurde speziell entwickelt, um mit schnellen Flotten Schritt zu halten, einschließlich der äußerst beliebten taktischen Zerstörer der Confessor-Klasse. Es war keine einfache Aufgabe, leistungsstarken Panzerungsreparatursysteme ihres Bestseller-Guardian-Versorgungskreuzers auf ein Schiff von der Größe einer Fregatte zu verkleinern. Doch dank der engen Zusammenarbeit mit Forschern der Lai Dai-Megacorporation konnte Carthum die Deacon in nahezu Rekordzeit und sogar unter dem geplanten Budget freigeben.",
+    "en": "The Deacon is the latest success from the engineers at Carthum Conglomerate, designed as a remote repairing ship that can keep up with fast moving fleets including those containing the extremely popular Confessor-class Tactical Destroyer. Managing to miniaturize the powerful remote armor repairing systems from their best-selling Guardian Logistics Cruiser onto a frigate-sized hull was no simple task, but Carthum was able to release the Deacon in nearly record time and under-budget thanks in part to extensive cooperation with researchers from the Lai Dai megacorp.",
+    "es": "La Deacon es el último éxito de los ingenieros de Carthum Conglomerate. Diseñada para la reparación remota, esta nave puede mantener el ritmo de flotas veloces, incluidas aquellas que contienen el extremadamente popular destructor táctico de clase Confessor. Pese a que reducir a un mínimo los potentes sistemas de reparación remota del blindaje de la Guardian, su número uno en ventas de cruceros logísticos, para encajarlos en el casco de una fragata no fue sencillo, Carthum logró lanzar la Deacon casi en tiempo récord y por debajo del presupuesto gracias, en parte, a la extensa colaboración con los investigadores de la megacorporación Lai Dai.",
+    "fr": "Le Deacon est la dernière réussite des ingénieurs du Carthum Conglomerate, conçu comme un vaisseau de réparation à distance capable de suivre des flottes rapides, y compris celles qui incluent le très populaire destroyer tactique de classe Confessor. Miniaturiser les puissants systèmes de réparation de blindage à distance du croiseur logistique Guardian, le plus vendu, pour les adapter à une coque de frégate n'était pas une mince affaire, mais Carthum a réussi à lancer le Deacon en un temps presque record et sous le budget prévu, grâce notamment à une collaboration étroite avec les chercheurs de la mégacorporation Lai Dai.",
+    "ja": "カーサム複合企業の技術者の手による最新のヒット製品であるディーコンは、人気の高いコンフェッサー級戦術駆逐艦を用いた機動力のあるフリートなどにも遅れをとることがないリモートリペア用艦船として設計されている。自社の人気モデルである支援型巡洋艦ガーディアンで採用した強力なリモートアーマーリペアシステムをフリゲートサイズの船体に搭載するために小型化する作業は容易ではなかったが、メガコーポレーション「ライダイ」の研究員の多大な協力もあったおかげで、予算を超過することなく記録的なスピードでディーコンを世に送り出すことに成功した。",
+    "ko": "최근 카슘 복합산업 엔지니어에서 개발한 원격 함선 수리 기능을 갖춘 함선으로 컨페서급 전술 디스트로이어와 같은 고속 함선도 따라잡을 수 있는 속도를 갖추었습니다. 가디언 지원함의 강력한 원격 장갑수리를 축소하여 프리깃 사이즈의 선체에 탑재하는 것은 쉬운 일이 아니었으나, 라이다이 메가코퍼레이션의 엔지니어들과 공동연구를 진행한 끝에 적은 예산으로도 빠른 시일내에 함선을 내놓을 수 있었습니다.",
+    "ru": "Корабль модели Deacon — новый предмет гордости инженеров Картумского конгломерата — специализируется на удалённой починке союзных судов. Ему хватает скорости для поддержки быстрых флотов, в том числе и тех, в состав которых входит знаменитый многорежимный эсминец Confessor. Вместить мощные системы дистанционного ремонта, установленные на Guardian — самом ходовом крейсере компании, выполняющем снабженческие задачи, — оказалось совсем непросто, однако местные инженеры, заручившись помощью коллег из мегакорпорации «Лай Дай», умудрились не только выпустить Deacon в самые короткие сроки, но и уложиться в бюджет.",
+    "zh": "执事级是天主凝聚会工程师们的最新力作，被设计为一艘能跟得上快速移动的舰队（哪怕舰队里有广为流行的忏悔者级战术驱逐舰也不例外）的远程维修舰船。将大受欢迎的守卫级后勤巡洋舰上强力的远程装甲维修系统缩小到护卫舰可用并不是一件容易的事，但是天主凝聚会以几乎创纪录的高效和低成本完成了这一任务，这也得益于来自莱戴集团的科研人员的大力协助。"
+  },
+  "factionID": 500003,
+  "graphicID": 21220,
+  "groupID": 1527,
+  "marketGroupID": 2147,
+  "mass": 1630000.0,
+  "masteries": {
+    "0": [
+      96,
+      89,
+      91,
+      93,
+      94
+    ],
+    "1": [
+      96,
+      89,
+      91,
+      93,
+      94
+    ],
+    "2": [
+      96,
+      89,
+      91,
+      93,
+      94
+    ],
+    "3": [
+      96,
+      89,
+      91,
+      93,
+      94
+    ],
+    "4": [
+      96,
+      117,
+      89,
+      91,
+      93,
+      94
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Deacon",
     "en": "Deacon",
@@ -10,5 +65,112 @@
     "ru": "Deacon",
     "zh": "执事级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 20.5,
+  "sofFactionName": "carthum",
+  "soundID": 20063,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonus": 50,
+        "bonusText": {
+          "de": "Bonus auf die optimale Reichweite von <a href=showinfo:16069>Panzerungsfernreparatursystemen</a>",
+          "en": "bonus to <a href=showinfo:16069>Remote Armor Repairer</a> optimal range",
+          "es": "de bonificación al alcance óptimo del <a href=showinfo:16069>reparador de blindaje remoto</a>.",
+          "fr": "de bonus à la portée optimale du <a href=showinfo:16069>réparateur de blindage à distance</a>",
+          "ja": "<a href=showinfo:16069>リモートアーマーリペアラ</a>の最適射程距離が拡大",
+          "ko": "<a href=showinfo:16069>원격 장갑수리 장치</a> 최적사거리 증가",
+          "ru": "увеличивается оптимальная дальность действия <a href=showinfo:16069>установок дистанционного ремонта брони</a>",
+          "zh": "<a href=showinfo:16069>远程装甲维修器</a>最佳射程加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 600,
+        "bonusText": {
+          "de": "Bonus auf den Präzisionsabfall von <a href=showinfo:16069>Panzerungsfernreparatursystemen</a>",
+          "en": "bonus to <a href=showinfo:16069>Remote Armor Repairer</a> falloff",
+          "es": "de bonificación al alcance efectivo del <a href=showinfo:16069>reparador de blindaje remoto</a>.",
+          "fr": "de bonus à la perte du <a href=showinfo:16069>réparateur de blindage à distance</a>",
+          "ja": "<a href=showinfo:16069>リモートアーマーリペアラ</a>の精度低下範囲が改善",
+          "ko": "<a href=showinfo:16069>원격 장갑수리 장치</a> 유효사거리 증가",
+          "ru": "увеличивается добавочная дальность действия <a href=showinfo:16069>установок дистанционного ремонта брони</a>",
+          "zh": "<a href=showinfo:16069>远程装甲维修器</a>失准范围加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3331": [
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf die Reparaturmenge von <a href=showinfo:16069>Panzerungsfernreparatursystemen</a>",
+            "en": "bonus to <a href=showinfo:16069>Remote Armor Repairer</a> amount",
+            "es": "de bonificación a la eficiencia de los <a href=showinfo:16069>reparadores de blindaje remotos</a>.",
+            "fr": "de bonus au montant du <a href=showinfo:16069>réparateur de blindage à distance</a>",
+            "ja": "<a href=showinfo:16069>リモートアーマーリペアラ</a>のリペア量が増加",
+            "ko": "<a href=showinfo:16069>원격 장갑수리 장치</a> 수리량 증가",
+            "ru": "повышается производительность <a href=showinfo:16069>установок дистанционного ремонта брони</a>",
+            "zh": "<a href=showinfo:16069>远程装甲维修器</a>维修量加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Reduktion der Aktivierungskosten von <a href=showinfo:16069>Panzerungs-Fernreparatursystemen</a>",
+            "en": "reduction in <a href=showinfo:16069>Remote Armor Repairer</a> activation cost",
+            "es": "de reducción del coste de activación del <a href=showinfo:16069>reparador de blindaje remoto</a>.",
+            "fr": "de réduction du coût d'activation du <a href=showinfo:16069>réparateur de blindage à distance</a>",
+            "ja": "<a href=showinfo:16069>リモートアーマーリペアラ</a>の起動コストを削減",
+            "ko": "<a href=showinfo:16069>원격 장갑수리 장치</a> 활성화 비용 감소",
+            "ru": "сокращается потребление энергии <a href=showinfo:16069>установками дистанционного ремонта брони</a>",
+            "zh": "<a href=showinfo:16069>远程装甲维修器</a>启动消耗减少"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ],
+      "40328": [
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Reduktion der Dauer und Aktivierungskosten von <a href=showinfo:16069>Panzerungsfernreparatursystemen</a>",
+            "en": "reduction in <a href=showinfo:16069>Remote Armor Repairer</a> duration and activation cost",
+            "es": "de reducción de la duración y el coste de activación del <a href=showinfo:16069>reparador de blindaje remoto</a>.",
+            "fr": "de réduction du coût d'activation et de la durée du <a href=showinfo:16069>réparateur de blindage à distance</a>",
+            "ja": "<a href=showinfo:16069>リモートアーマーリペアラ</a>の持続時間および起動コストが改善",
+            "ko": "<a href=showinfo:16069>원격 장갑수리 장치</a> 지속시간 및 활성화 비용 감소",
+            "ru": "сокращается потребление энергии <a href=showinfo:16069>установками дистанционного ремонта брони</a> и продолжительность их рабочего цикла",
+            "zh": "<a href=showinfo:16069>远程装甲维修器</a>运转周期和启动消耗减少"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die HP der Panzerung",
+            "en": "bonus to armor hitpoints",
+            "es": "de bonificación a los puntos de vida del blindaje.",
+            "fr": "de bonus aux points de dommages du blindage",
+            "ja": "装甲ヒットポイントが増加",
+            "ko": "장갑 내구도 증가",
+            "ru": "повышается запас прочности брони корабля",
+            "zh": "装甲值加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 590,
   "volume": 28700.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 54840,
+  "basePrice": 45000000.0,
+  "description": {
+    "de": "Skill zur Verstärkung schiffsbasierter Arcing-Vorton-Projektoren zur Maximierung der Schadenswirkung. 3 % Bonus auf den Schaden von Vorton-Projektoren je Skillstufe.",
+    "en": "Skill in amplifying the power of ship-based Arcing Vorton Projectors to maximize damage output.\r\n\r\n3% bonus to Vorton Projector damage per skill level.",
+    "es": "Habilidad para amplificar la potencia de los proyectores vortónicos de arco para maximizar el daño.\n\n3 % de bonificación al daño del proyector vortónico por nivel de habilidad.",
+    "fr": "Compétence liée à l'amplification de la puissance des projecteurs d'arcs de vortons sur les vaisseaux pour optimiser les dégâts. Augmente de 3 % par niveau de compétence les dégâts des projecteurs de vortons.",
+    "ja": "艦船型アーク式ヴォートン・プロジェクターの出力を増加し、ダメージを最大化させるスキル。\r\n\nスキルレベルが上がるごとにヴォートンプロジェクターの威力が3%上昇。",
+    "ko": "함선 전용 아크 보르톤 프로젝터의 피해량을 증폭시키기 위한 스킬입니다. 매 레벨마다 보르톤 프로젝터 피해량 3% 증가",
+    "ru": "Навык в увеличении мощности корабельных дуговых вортонных проекторов ради предельного повышения наносимого урона. +3% к урону от вортонных проекторов за каждый уровень навыка.",
+    "zh": "通过放大舰载电弧弦投射器的能量输出来提高伤害的技能。\n\n\n\n每升一级，电弧弦投射器的伤害提高3%。"
+  },
+  "groupID": 255,
+  "iconID": 33,
+  "marketGroupID": 364,
   "name": {
     "de": "Vorton Power Amplification",
     "en": "Vorton Power Amplification",
@@ -10,5 +23,7 @@
     "ru": "Vorton Power Amplification",
     "zh": "电弧弦能量放大训练"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

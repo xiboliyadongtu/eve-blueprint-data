@@ -1,5 +1,18 @@
 {
-  "typeID": 59191,
+  "basePrice": 32768.0,
+  "description": {
+    "de": "<b>+30 % optimale Reichweite für Bergbaulaser, Dauer: 4 Stunden</b> Nach Einlösung wird dieser Booster sofort zu Ihrem Charakter hinzugefügt und landet nicht erst in Ihrem Inventar.",
+    "en": "<b>+30% Mining Laser Optimal Range, 4 hour duration</b>\r\nThis booster will be applied directly to your character when redeemed instead of being placed in your inventory.",
+    "es": "<b>+30 % de alcance óptimo del láser minero. Duración: 4 horas.</b>\n\nEste potenciador se añadirá directamente a la colección de tu personaje, en vez de al inventario.",
+    "fr": "<b>+30 % à la portée optimale des lasers d'extraction, durée de 4 heures</b> Une fois récupéré, au lieu d'être placé dans votre inventaire, ce booster sera directement appliqué à votre personnage.",
+    "ja": "<b>採掘レーザー最適射程距離+30%。持続時間は4時間</b>\n\n本ブースターを引き換えるとインベントリには置かれず、操作キャラクターに直接反映されます。",
+    "ko": "<b>채굴 레이저 최적사거리 30% 증가. 4시간 지속</b><br><br>수령 시 자동으로 주입됩니다. 인벤토리에 아이템 형태로 보관되는 것이 아니므로 주의하시기 바랍니다.",
+    "ru": "<b>+30% к оптимальной дальности буровых лазеров, длительность — 4 часа</b>После активации этот стимулятор не будет помещён в систему управления имуществом: ваш персонаж сразу его использует.",
+    "zh": "<b>采矿激光器最佳射程提高30%，持续时间4小时</b>\n\n这款增效剂在兑换后会直接对人物使用，而非放置在仓库中。"
+  },
+  "groupID": 303,
+  "iconID": 3213,
+  "mass": 1.0,
   "name": {
     "de": "Mining Blitz Range Booster Dose III",
     "en": "Mining Blitz Range Booster Dose III",
@@ -10,5 +23,7 @@
     "ru": "Mining Blitz Range Booster Dose III",
     "zh": "采矿闪击距离提升药剂 III"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

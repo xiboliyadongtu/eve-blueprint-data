@@ -1,5 +1,17 @@
 {
-  "typeID": 364763,
+  "basePrice": 203000.0,
+  "description": {
+    "de": "Grundlegende Kenntnisse über aktive Härter.\nSchaltet aktive Härter frei.\n3% Abzug auf die CPU-Auslastung von aktiven Härtern pro Skillstufe.",
+    "en": "Basic understanding of active hardeners.\r\nUnlocks active hardeners.\r\n3% reduction in active hardener CPU usage per level.",
+    "es": "Conocimiento básico de los fortalecedores activos.\nDesbloquea los fortalecedores activos.\n-3% al consumo de CPU de los fortalecedores activos por nivel.",
+    "fr": "Notions de base en renforcements actifs.\nDéverrouille l'utilisation des renforcements actifs.\n3 % de réduction d'utilisation de CPU des renforcements actifs par niveau.",
+    "it": "Comprensione base delle temperature attive.\nSblocca le temprature attive.\n3% di riduzione all'utilizzo della CPU della tempratura attiva per livello.",
+    "ja": "アクティブハードナーに関する基本的な知識。\nアクティブハード―ナーが使用可能になる。\nレベル上昇ごとに、アクティブハードナーCPU使用量が3%減少する。",
+    "ko": "강화장치 운용에 대한 기본적인 이해를 습득합니다. <br><br>강화장치를 운용할 수 있습니다. <br><br>매 레벨마다 강화장치 CPU 요구치 3% 감소",
+    "ru": "Понимание основных принципов функционирования активных укрепителей.\nПозволяет использовать активные укрепители.\n3% снижение потребления активным укрепителем ресурсов ЦПУ на каждый уровень.",
+    "zh": "主动增强器基本知识。解锁主动增强器。每升一级，主动增强器的CPU使用率降低3%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Aktive Fahrzeughärtung",
     "en": "Vehicle Active Hardening",
@@ -11,5 +23,6 @@
     "ru": "Активное укрепление брони транспортного средства",
     "zh": "载具主动增强"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

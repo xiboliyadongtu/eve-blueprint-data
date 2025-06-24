@@ -1,5 +1,18 @@
 {
-  "typeID": 3321,
+  "basePrice": 30000.0,
+  "description": {
+    "de": "Skill für manuell gezielte Lenkwaffen. 5% Bonus auf den Schaden von leichten Lenkwaffen je Skillstufe.",
+    "en": "Skill with manually targeted missiles. 5% Bonus to light missile damage per skill level.",
+    "es": "Habilidad con misiles dirigidos manualmente. 5 % de bonificación al daño de los misiles ligeros por nivel de habilidad.",
+    "fr": "Compétence de gestion des missiles à ciblage manuel. Augmente de 5 % par niveau les dégâts des missiles légers.",
+    "ja": "手動照準型ミサイルに関するスキル。スキルレベルごとにライトミサイルのダメージが5%増加。",
+    "ko": "비유도 미사일 운용을 위한 스킬입니다. 매 레벨마다 라이트 미사일 피해량 5% 증가",
+    "ru": "Навык обращения с ракетами c ручным наведением. За каждую степень освоения навыка: на 5% повышается урон БЧ лёгких ракет.",
+    "zh": "操作手动锁定导弹的技能。每升一级，轻型导弹的伤害提升5%。"
+  },
+  "groupID": 256,
+  "iconID": 33,
+  "marketGroupID": 373,
   "name": {
     "de": "Light Missiles",
     "en": "Light Missiles",
@@ -10,5 +23,7 @@
     "ru": "Лёгкие ракеты",
     "zh": "轻型导弹概论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

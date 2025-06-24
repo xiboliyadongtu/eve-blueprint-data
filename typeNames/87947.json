@@ -1,5 +1,20 @@
 {
-  "typeID": 87947,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Eine seltene Sammlung wertvoller Artefakte und Wertgegenstände, die von Driftern eingelagert wurden. Aufgrund der uralten Protokolle, die zur Verschlüsselung dieser Sammlung verwendet wurden, kann sie mithilfe eines Reliktanalysegeräts geöffnet werden.",
+    "en": "A rare collection of precious artifacts and valuables stored by Drifters. Due to the ancient protocols used to encrypt this collection, it can be opened with the help of a Relic Analyzer.",
+    "es": "Una colección poco común de preciados artefactos y objetos valiosos almacenados por los drifters. Gracias a los antiguos protocolos utilizados para codificar esta colección, se puede acceder con un analizador de reliquias.",
+    "fr": "Une collection rare d'artéfacts précieux et de valeurs stockée par les Drifters. Étant donné les protocoles anciens utilisés pour chiffrer cette collection, elle peut être ouverte à l'aide d'un analyseur de reliques.",
+    "ja": "ドリフターが貯蔵した高価なアーティファクトや貴重品が入った珍しいコレクション。古代のプロトコルを使って暗号化されており、遺物アナライザーの補助を受ければ開けることができる。",
+    "ko": "드리프터가 희귀한 유물과 자원을 모아 저장했습니다. 고대 암호 기술로 암호화되어 저장고를 열려면 유물 분석기가 필요합니다.",
+    "ru": "Редкая коллекция удивительных артефактов и ценностей, собранных Скитальцами. Для блокировки доступа к этой коллекции использовались древние протоколы шифрования, которые можно взломать с помощью анализатора артефактов.",
+    "zh": "流浪者收藏的珍贵文物和贵重物品。储藏库采用古老的加密协议，可借助遗迹分析仪开启。"
+  },
+  "factionID": 500021,
+  "graphicID": 28011,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Prime Drifter Collection",
     "en": "Prime Drifter Collection",
@@ -10,5 +25,10 @@
     "ru": "Prime Drifter Collection",
     "zh": "首星级流浪者收藏"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 64,
+  "radius": 300.0,
+  "sofFactionName": "drifter",
   "volume": 27500.0
 }

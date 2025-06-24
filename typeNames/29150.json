@@ -1,5 +1,18 @@
 {
-  "typeID": 29150,
+  "basePrice": 380.0,
+  "description": {
+    "de": "Das ansonsten eher gewöhnliche Schiffslog wurde ziemlich gut verschlüsselt. Es gelingt Ihrem Schiffcomputer nicht, Zugang zu den Daten zu erlangen.",
+    "en": "This otherwise rather generic ship log has been well encrypted. Your ship's computers are unable to access its data.",
+    "es": "Este cuaderno de bitácora, que por lo demás es bastante genérico, está cifrado. Los ordenadores de tu nave no pueden acceder a sus datos.",
+    "fr": "Ce journal de bord plutôt générique a bien été crypté. Les ordinateurs de votre vaisseau ne peuvent pas accéder à ses données.",
+    "ja": "高度な暗号化が施されている以外は、ごく普通のシップログ。自船のコンピュータでは内部のデータにアクセスすることはできない。",
+    "ko": "평범한듯 보이는 항해 일지이지만 철저하게 암호화되어있습니다. 함선의 컴퓨터로는 데이터 해독이 불가능합니다.",
+    "ru": "Этот вполне обычный на вид корабельный журнал зашифрован. Компьютеры вашего корабля не могут получить доступ к его данным.",
+    "zh": "这份看似普通的舰船日志被精密地加密保护了。你的舰船计算机无法读取这些数据。"
+  },
+  "groupID": 369,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Encrypted Ship Log",
     "en": "Encrypted Ship Log",
@@ -10,5 +23,7 @@
     "ru": "Encrypted Ship Log",
     "zh": "加密的舰船日志"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

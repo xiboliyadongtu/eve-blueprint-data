@@ -1,5 +1,17 @@
 {
-  "typeID": 63107,
+  "description": {
+    "de": "Guristas-Kommandeure sind Meister der Taktik. Häufig waren sie Veteranen imperialer Flotten, bevor sie vom rechten Weg abkamen und zu Gesetzlosen wurden.",
+    "en": "Guristas Commanders are master tacticians, frequently veterans of empire navies before swerving of the straight path to become outlaws.",
+    "es": "Los comandantes guristas son maestros estrategas, con frecuencia veteranos de las armadas imperiales antes de desviarse del buen camino para hacerse forajidos.",
+    "fr": "Les commandants guristas sont des tacticiens experts. Il s'agit souvent d'anciens vétérans de forces navales qui se sont écartés du droit chemin et sont devenus des hors-la-loi.",
+    "ja": "ガリスタスの司令官は優れた戦術家で、帝国海軍を退役してから道を踏み外してアウトローとなった者が多い。",
+    "ko": "구리스타스 지휘관들은 노련한 전술가로 범죄 조직에 입단하기 전에 제국 해군의 베테랑이었던 사람이 많습니다",
+    "ru": "Предводители «Гуристас» — блестящие тактики. Прежде чем вступить на путь криминала, многие из них служили во флотах держав.",
+    "zh": "古斯塔斯指挥官们都是战术大师，在走上歧途成为不法分子前，他们往往是帝国海军经验丰富的老兵。"
+  },
+  "graphicID": 1824,
+  "groupID": 1975,
+  "mass": 1000.0,
   "name": {
     "de": "Gila Hull",
     "en": "Gila Hull",
@@ -10,5 +22,8 @@
     "ru": "Gila Hull",
     "zh": "毒蜥级"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 150.0,
+  "sofFactionName": "guristas"
 }

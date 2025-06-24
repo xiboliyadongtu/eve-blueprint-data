@@ -1,5 +1,19 @@
 {
-  "typeID": 60753,
+  "basePrice": 10000000.0,
+  "description": {
+    "de": "Diese ultra-hochverschlüsselte Datenbank beinhaltet Informationen zu laufenden verdeckten Operationen von AEGIS-Spezialeinheiten und -Infiltrationsagenten. Das Aufgabengebiet von AEGIS ist weit und gibt ihr großen Freiraum zur Untersuchung von Bedrohungen gegen interstellaren Versand, die Weltrauminfrastruktur und planetarische Verteidigungen. Die Organisation würde ihre zahlreichen verdeckten Kommandoeinheiten und Spionageagenten gerne gänzlich unter Verschluss halten. Die Verschlüsselung dieser Datenbank kann nicht geknackt werden, was auf den hohen Wert der darauf gespeicherten Informationen hindeutet. Viele kriminelle Organisationen würden allein für die Gelegenheit, sie zu knacken, riesige Summen zahlen.",
+    "en": "This ultra-heavily encrypted database contains information pertaining to ongoing covert operations being run by AEGIS special forces and infiltration agents. The remit of AEGIS is broad and still gives it wide latitude to investigate threats to interstellar shipping, space infrastructure and planetary defenses. The organization would certainly wish to keep completely secret its various covert commando units and espionage agents. The encryption on this database may never be broken but such is the value of the information contained within it many criminal organizations would pay a hefty price simply to have the opportunity of cracking it.",
+    "es": "Esta base de datos con encriptación ultrahermética contiene información relativa a las operaciones encubiertas que llevan a cabo las fuerzas especiales y los agentes infiltrados de AEGIS. La jurisdicción de esta organización es amplia y permite un gran margen de maniobra a la hora de investigar amenazas para los envíos interestelares, infraestructuras espaciales y defensas planetarias. Sin duda, la organización desearía mantener en secreto sus diversas unidades de mando y agentes de espionaje encubiertos. Puede que nunca se llegue a descifrar el encriptado de esta base de datos, pero el valor de la información que contiene es tal que muchas organizaciones criminales pagarían grandes cantidades solo por tener la oportunidad de intentarlo.",
+    "fr": "Cette base de données hautement cryptée contient des informations relatives aux opérations secrètes en cours menées par les forces spéciales et les agents d'infiltration d'AEGIS. Les prérogatives d'AEGIS sont vastes et lui offrent encore une grande marge de manœuvre pour enquêter sur les menaces pesant sur la navigation interstellaire, l'infrastructure spatiale et les défenses planétaires. L'organisation souhaiterait certainement préserver le secret absolu sur ses diverses unités de commandos secrets et ses agents d'espionnage. Le cryptage de cette base de données ne sera peut-être jamais forcé, mais la valeur des informations qu'elle contient est telle que de nombreuses organisations criminelles paieraient cher pour simplement essayer de les pirater.",
+    "ja": "この超高度な暗号化が施されたデータベースには、イージスの特殊部隊と潜入捜査官が現在行っている隠密作戦に関連する情報が格納されている。イージスの権限は多岐にわたっている他、星間輸送や宇宙インフラ、惑星防衛への脅威を調査する幅広い裁量権も持っている。イージスが、自分たちの様々な隠密特殊部隊と諜報員の情報を一切漏らしたくないと考えているのは間違いないだろう。このデータベースに使われている暗号は突破不可能かもしれないが、格納されている情報の価値は非常に高く、多くの犯罪組織が突破の可能性を得るためだけに大金を払うと思われる。",
+    "ko": "강력한 보안 시스템이 걸려있는 데이터베이스로 AEGIS 특수부대 및 첩보 요원들이 수행 중인 작전에 관한 정보가 담겨 있습니다. AEGIS는 성간 운송, 우주 기반시설, 그리고 행성 안보를 대상으로 한 위협을 조사할 권한을 지니고 있습니다. 이들은 소속 요원과 특수부대에 관한 정보를 최대한 노출시키지 않기 위해 노력하고 있습니다. 해당 데이터베이스는 해킹이 불가능에 가깝지만, 범죄 조직이라면 안에 담긴 정보를 확보하기 위해 천문학적인 금액을 지불할 것입니다.",
+    "ru": "Эта база данных с высочайшим уровнем шифрования содержит информацию о текущих секретных операциях, проводимых спецназом ЭГИДА и внедрёнными агентами. Сфера компетенций ЭГИДА обширна и по-прежнему даёт организации широкие полномочия для расследования угроз межзвёздному судоходству, космической инфраструктуре и планетарной защите. Организация хранит в строжайшей тайне информацию о своих диверсионных отрядах и шпионах. Эту базу данных, возможно, никогда не удастся взломать, но содержащаяся в ней информация настолько ценна, что многие преступные организации готовы щедро заплатить даже за попытку взлома.",
+    "zh": "这个究极加密的数据库中含有统合部紧急干预和安全局特种部队和秘密特工执行的隐秘任务的资料。统合部紧急干预和安全局的职权范围很广，运用它无处不在的触角来调查对星际航运、太空建筑和行星防御的潜在威胁。这样的组织会毫无疑问地将自己的各种秘密行动和特工隐藏得极好，不为人所知晓。可能没人能破解得了这个数据库的加密手段，但它本身的价值还是让众多犯罪组织愿意花大价钱来获得哪怕只是尝试一下的机会。"
+  },
+  "groupID": 314,
+  "iconID": 10065,
+  "marketGroupID": 2801,
+  "mass": 1.0,
   "name": {
     "de": "AEGIS Covert Operations Reports",
     "en": "AEGIS Covert Operations Reports",
@@ -10,5 +24,8 @@
     "ru": "AEGIS Covert Operations Reports",
     "zh": "统合部紧急干预和安全局隐秘行动报告"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.1
 }

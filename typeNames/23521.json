@@ -1,5 +1,17 @@
 {
-  "typeID": 23521,
+  "description": {
+    "de": "Diese Logs enthalten Informationen über Handel zwischen Serpentis Agenten und Außenstehenden, zum Beispiel über Drogenhandel, Waffenverkäufe etc.",
+    "en": "These logs contain information on transactions between Serpentis agents and outsiders, such as drug and arms sales etc.",
+    "es": "Estos registros contienen información sobre transacciones entre los agentes serpentis y los forasteros, como ventas de armas y estupefacientes entre otras.",
+    "fr": "Ces registres contiennent des informations sur les transactions effectuées entre les agents serpentis et les étrangers (trafic de drogues, trafic d'armes, etc.).",
+    "ja": "サーペンティスのエージェントと部外者との間で行われた薬物や武器の売買に関する取引の情報。",
+    "ko": "서펜티스 요원이 외부인과 마약 및 무기를 거래한 기록입니다.",
+    "ru": "В этих журналах содержится информация о транзакциях между агентами Serpentis и третьими лицами, касающиеся торговли наркотиками и оружием и т.п.",
+    "zh": "这些备忘录包含了天蛇代理人与外界的交易信息，如药品和武器等销售情况。"
+  },
+  "groupID": 526,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Serpentis Transaction Log",
     "en": "Serpentis Transaction Log",
@@ -10,5 +22,7 @@
     "ru": "Serpentis Transaction Log",
     "zh": "天蛇事务备忘录"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

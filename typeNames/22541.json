@@ -1,5 +1,18 @@
 {
-  "typeID": 22541,
+  "basePrice": 10000000.0,
+  "description": {
+    "de": "Fortgeschrittene Fertigkeit zur Steuerung von Bergbaudrohnen. Bonus von 2 % pro Stufe auf den Bergbauertrag und die Maximalgeschwindigkeit von Drohnen, welche die Bergbaudrohnenspezialisierung benötigen.",
+    "en": "Advanced proficiency at controlling mining drones. 2% bonus to the mining yield and max velocity of drones requiring Mining Drone Specialization per level.",
+    "es": "Habilidad avanzada para controlar drones mineros. 2 % de bonificación por nivel al rendimiento minero y la velocidad máxima de los drones que requieren la especialización en drones mineros.",
+    "fr": "Compétence avancée liée au contrôle des drones d'extraction. Augmente de 2 % par niveau le rendement minier et la vitesse maximale des drones requérant la compétence « Spécialisation en drones d'extraction ».",
+    "ja": "採掘ドローンをコントロールする高度な能力。レベル上昇ごとに採掘ドローン特化を必要とするドローンの採掘収穫量と最大速度が2%増加。",
+    "ko": "채굴 드론을 보다 효율적으로 운용하기 위한 스킬입니다. 매 레벨마다 채굴량 2% 증가 및 채굴 드론 특화가 요구되는 모든 개체의 최대 속도 증가",
+    "ru": "Углублённые познания в области эксплуатации буровых дронов. За каждую степень освоения навыка: на 2% повышается производительность и скорость буровых дронов, для управления которыми требуется этот навык.",
+    "zh": "精通采矿无人机控制的高级技能。每升一级，需要采矿无人机专业研究技能的无人机的采矿量增加2%，最大速度提高2%。"
+  },
+  "groupID": 273,
+  "iconID": 33,
+  "marketGroupID": 366,
   "name": {
     "de": "Mining Drone Specialization",
     "en": "Mining Drone Specialization",
@@ -10,5 +23,7 @@
     "ru": "Спецкурс: буровые дроны",
     "zh": "采矿无人机专业研究"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

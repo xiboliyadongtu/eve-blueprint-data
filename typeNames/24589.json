@@ -1,5 +1,16 @@
 {
-  "typeID": 24589,
+  "description": {
+    "de": "Warum?",
+    "en": "Why?",
+    "es": "¿Por qué?",
+    "fr": "Pourquoi ?",
+    "ja": "なぜなんだ?",
+    "ko": "도대체 무슨 일일까요?",
+    "ru": "Почему?",
+    "zh": "为什么？"
+  },
+  "graphicID": 2941,
+  "groupID": 226,
   "name": {
     "de": "Warning Sign",
     "en": "Warning Sign",
@@ -10,5 +21,8 @@
     "ru": "Warning Sign",
     "zh": "警告标示"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 40.0,
+  "sofFactionName": "genericmetal"
 }

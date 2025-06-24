@@ -1,5 +1,16 @@
 {
-  "typeID": 13835,
+  "description": {
+    "de": "Dieser riesige Bohrer hatte einst einen Zweck für irgendeine in Vergessenheit geratene Ausrüstung bei Bergbauoperationen. Seine Technologie ist seither überholt, der Antrieb nicht mehr reparierbar.",
+    "en": "This colossal drill once served a purpose in some forgotten outfit's mining operation. Its technology is long since outdated and its actuators are beyond repair.",
+    "es": "Esta enorme perforadora se utilizó hace muchos años en una operación minera. Su tecnología ha quedado obsoleta, y los actuadores están fuera de servicio.",
+    "fr": "Cette énorme foreuse a dû servir à une installation minière aujourd'hui oubliée. Techniquement obsolète, elle est dans un état tel qu'elle ne peut être réparée.",
+    "ja": "かつて、忘れられた一団の採掘作業に使用されていた大型のドリル。かなり旧型で、アクチュエーターはリペアできない。",
+    "ko": "잊혀진 채광 기지에서 사용되던 거대한 드릴입니다. 구형 모델로 작동 장치가 크게 훼손되어 수리가 불가능합니다.",
+    "ru": "Когда-то этот бур использовался на объектах всеми забытой добывающей компании. Конструкция бура давно устарела, а его механизмы повреждены и изношены настолько, что ремонту не подлежат.",
+    "zh": "这个巨大的钻孔机曾经在某次早已遗忘的采矿作业中发挥作用。它的技术过时已久，并且其传动装置已经无法修复。"
+  },
+  "graphicID": 2367,
+  "groupID": 226,
   "name": {
     "de": "Abandoned Drill - Ruined",
     "en": "Abandoned Drill - Ruined",
@@ -10,5 +21,8 @@
     "ru": "Abandoned Drill - Ruined",
     "zh": "被抛弃的钻矿机废墟"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 1979.0,
+  "sofFactionName": "debris"
 }

@@ -1,5 +1,73 @@
 {
-  "typeID": 596,
+  "capacity": 115.0,
+  "description": {
+    "de": "Corvettes der Impairor-Klasse werden seit Jahrzehnten in Massenproduktion für das Imperium der Amarr hergestellt. Es ist das am häufigsten gesichtete Raumschiff innerhalb des Hoheitsgebietes der Amarr und wird sowohl als einfacher Warentransporter, als auch für den Transport geringer Anzahlen von Sklaven eingesetzt.",
+    "en": "The Impairor-class corvette has been mass-produced by the Amarr Empire for decades. It is the most common space vessel sighted within the Amarrian boundaries, and is used both as a basic trade vessel and as a small-scale slave transport.",
+    "es": "Durante décadas, el Imperio Amarr ha producido corbetas de clase Impairor en masa. Es la nave espacial más común avistada dentro de las fronteras amarrianas y se usa como nave comercial básica y como transporte de esclavos a pequeña escala.",
+    "fr": "La corvette de classe Impairor est produite en masse par l'Empire amarr depuis des décennies. Idéal pour le transport commercial ou esclavagiste de petite échelle, c'est le vaisseau le plus communément rencontré sur le territoire amarr.",
+    "ja": "インパロール級コルベットは、アマー帝国が数十年にわたって大量生産している船である。アマー領では最もよく見かける宇宙船で、安価な交易船や小型奴隷輸送船として使われている。",
+    "ko": "임페이러급 코르벳은 아마르 제국에서 수십 년 간 양산해온 함선입니다. 아마르 영토에서 가장 흔하게 볼 수 있는 기종이며 무역 또는 노예 수송에 주로 사용됩니다.",
+    "ru": "Массовый выпуск корветов типа «Импэйрор» был налажен Амаррской Империей много десятков лет назад. Они являются самыми распространенными кораблями в пределах амаррских границ, и равным образом используются в качестве обычных торговых судов и малотоннажных транспортов для перевозки рабов.",
+    "zh": "帝国号轻型护卫舰已经被艾玛帝国大规模生产了数十年。它是艾玛境内最常见的飞船，既可用作基本的贸易船，也可以作为小规模的劳工运输船。"
+  },
+  "factionID": 500003,
+  "graphicID": 299,
+  "groupID": 237,
+  "marketGroupID": 1816,
+  "mass": 1148000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      102,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      102,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      102,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      102,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      102,
+      50,
+      117,
+      150,
+      89,
+      93,
+      94
+    ]
+  },
   "name": {
     "de": "Impairor",
     "en": "Impairor",
@@ -9,6 +77,76 @@
     "ko": "임페이러",
     "ru": "Impairor",
     "zh": "帝国号"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 39.0,
+  "sofFactionName": "amarrbase",
+  "soundID": 20063,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonus": 20,
+        "bonusText": {
+          "de": "Reduktion der Aktivierungskosten von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a>",
+          "en": "reduction in <a href=showinfo:3303>Small Energy Turret</a> activation cost",
+          "es": "de reducción del coste de activación de la <a href=showinfo:3303>torreta de energía pequeña</a>.",
+          "fr": "de réduction du coût d'activation des <a href=showinfo:3303>petites tourelles à énergie</a>",
+          "ja": "<a href=showinfo:3303>小型エネルギータレット</a>の起動コストが軽減",
+          "ko": "<a href=showinfo:3303>소형 에너지 터렛</a> 활성화 비용 감소",
+          "ru": "сокращается расход энергии при ведении огня из <a href=showinfo:3303>малых лазерных орудий</a>",
+          "zh": "<a href=\"showinfo:3303\">小型能量炮台</a>启动消耗减少"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 10,
+        "bonusText": {
+          "de": "Bonus auf den Schaden von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:3303>Small Energy Turret</a> damage",
+          "es": "de bonificación al daño de la <a href=showinfo:3303>torreta de energía pequeña</a>.",
+          "fr": "de bonus aux dégâts des <a href=showinfo:3303>petites tourelles à énergie</a>",
+          "ja": "<a href=showinfo:3303>小型エネルギータレット</a>のダメージが増加",
+          "ko": "<a href=showinfo:3303>소형 에너지 터렛</a> 피해량 증가",
+          "ru": "увеличивается урон <a href=showinfo:3303>малых лазерных орудий</a>",
+          "zh": "<a href=\"showinfo:3303\">小型能量炮台</a>伤害加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 15,
+        "bonusText": {
+          "de": "Bonus auf die Effektivität von <a href=showinfo:3434>Waffenstörern</a>",
+          "en": "bonus to <a href=showinfo:3434>Weapon Disruptor</a> effectiveness",
+          "es": "de bonificación a la efectividad del <a href=showinfo:3434>disruptor de armas</a>.",
+          "fr": "de bonus à l'efficacité du <a href=showinfo:3434>perturbateur d'armement</a>",
+          "ja": "<a href=showinfo:3434>兵器妨害器</a>の有効性が向上",
+          "ko": "<a href=showinfo:3434>무기 디스럽터</a> 효과 증가",
+          "ru": "повышается эффективность действия <a href=showinfo:3434>постановщиков помех системам наводки</a>",
+          "zh": "<a href=showinfo:3434>武器扰断器</a>效果加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonus": 8,
+        "bonusText": {
+          "de": "Bonus auf alle Panzerungsresistenzen",
+          "en": "bonus to all armor resistances",
+          "es": "de bonificación a todas las resistencias de blindaje.",
+          "fr": "de bonus à toutes les résistances du blindage",
+          "ja": "全てのアーマーレジスタンスが増加",
+          "ko": "모든 장갑 저항력 증가",
+          "ru": "повышается сопротивляемость брони корабля всем видам воздействия",
+          "zh": "装甲抗性加成"
+        },
+        "importance": 4,
+        "unitID": 105
+      }
+    ]
   },
   "volume": 28100.0
 }

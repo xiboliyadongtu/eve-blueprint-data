@@ -1,5 +1,17 @@
 {
-  "typeID": 2595,
+  "description": {
+    "de": "Diese kleine, tragbare Festplatte ist nur etwa zwei Zentimeter im Durchmesser groß, doch sie ist dennoch in der Lage, eine große Menge an Informationen zu speichern. Ein dauerhafter Außenmantel aus Plasteel dreht sich weg, um die Rohdaten-Oberfläche zu offenbaren, wenn das Gerät in ein Lesegerät eingelegt wird.",
+    "en": "This small, portable disk is only about two centimeters in diameter, yet it is capable of holding a vast amount of information. A durable outer casing made from plasteel rotates away to reveal the raw data surface when the device is inserted into a reader.",
+    "es": "Este pequeño disco portátil solo tiene dos centímetros de diámetro, pero es capaz de almacenar enormes cantidades de información. Una resistente carcasa de plastiacero se abre para revelar la superficie de datos pura cuando se inserta el dispositivo en un lector.",
+    "fr": "Ce petit disque portable ne mesure que deux centimètres de diamètre, mais peut contenir une énorme quantité d'informations. Un étui résistant en plastacier se dévisse pour révéler la surface brute des données lorsque le dispositif est inséré dans un lecteur.",
+    "ja": "携帯可能な小型ディスク。直径はほんの2cmほどだが、膨大な量の情報を格納できる。読み取り器に挿入している時に、プラスチールでできた丈夫なケースを回転させて外すとデータ面が現れる。",
+    "ko": "지름이 약 2cm에 달해 휴대성이 매우 탁월한 소형 디스크로 겉보기와 달리 막대한 정보를 담을 수 있습니다. 내용물을 보호하는 외부 케이스는 플라스틸로 제작되어 견고하지만, 리더기에 삽입될 경우 외피가 개방되고 디스크 표면이 노출되기 때문에 데이터를 빠르게 읽을 수 있습니다.",
+    "ru": "Этот небольшой портативный диск – только пару сантиметров в диаметре – способен нести огромные количества информации. Он заключен в прочный футляр из пластали, который поворачивается и открывает поверхность диска, когда его вставляют в считывающее устройство.",
+    "zh": "这个小小的便携数据盘的直径只有两厘米长，但它能够储存海量的信息。当数据盘被放入读盘器中后，一块用塑钢制作的坚固保护壳就会旋转打开，暴露出其中的数据面。"
+  },
+  "groupID": 314,
+  "iconID": 2038,
+  "mass": 10.0,
   "name": {
     "de": "Encoded Data Chip",
     "en": "Encoded Data Chip",
@@ -10,5 +22,7 @@
     "ru": "Encoded Data Chip",
     "zh": "加密的数据芯片"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

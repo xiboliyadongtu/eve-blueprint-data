@@ -1,5 +1,16 @@
 {
-  "typeID": 12715,
+  "description": {
+    "de": "Verzerrt die Signatur eines Schiffes und verhindert so, dass Zielsysteme die Form des Schiffes identifizieren können, was deren Effektivität verringert.",
+    "en": "Scrambles the signature of a ship preventing tracking systems from identifing the ships shape and thus reducing their effectiveness.",
+    "es": "Inhibe la señal de una nave para impedir que los sistemas de rastreo identifiquen su forma, reduciendo así su efectividad.",
+    "fr": "Brouille la signature d'un vaisseau et empêche les systèmes de poursuite d'identifier la forme d'un vaisseau, réduisant ainsi leur efficacité.",
+    "ja": "敵の探知信号を船体に受けて反射する際、反射した探知信号を混乱させ、敵のトラッキングシステムの効果を低減させる。",
+    "ko": "함선 시그니처를 교란함으로써 적 트래킹 시스템의 효과를 크게 저하시킵니다.",
+    "ru": "Шифрует сигнатуру корабля, мешая системам слежения определить его форму и таким образом понижая их эффективность.",
+    "zh": "可扰乱对方舰船信号，防止其索敌系统识别其他舰船的形状，从而降低这些索敌系统的有效性。"
+  },
+  "groupID": 341,
+  "iconID": 2971,
   "name": {
     "de": "Large Active Stealth System I",
     "en": "Large Active Stealth System I",
@@ -10,5 +21,8 @@
     "ru": "Large Active Stealth System I",
     "zh": "大型反侦测系统 I"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 500.0,
   "volume": 40.0
 }

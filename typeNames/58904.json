@@ -1,5 +1,18 @@
 {
-  "typeID": 58904,
+  "description": {
+    "de": "Wenn diese Struktur einmal in Stellung gebracht wurde und ihren automatischen Aktivierungsprozess beendet hat, wird sie das Sonnensystem regelmäßig nach getarnten Objekten scannen und diese aufdecken.",
+    "en": "This structure, once deployed and having completed its automatic activation process, will periodically scan the solar system for cloaked objects and reveal them.",
+    "es": "Esta estructura, una vez desplegada y tras completar el proceso de activación automático, escanea periódicamente el sistema solar para detectar y revelar objetos camuflados.",
+    "fr": "Cette structure, une fois déployée et son processus d'activation automatique terminé, balayera par intermittence le système solaire à la recherche d’objets camouflés et révèlera leur présence.",
+    "ja": "この施設を設置すると、自動起動プロセスの完了後、定期的にソーラーシステム内のクローク状態のオブジェクトをスキャンし、その存在を明らかにする。",
+    "ko": "해당 구조물은 일정 시간에 한번씩 항성계에 위치한 모든 대상의 클로킹을 해제합니다.",
+    "ru": "После развёртывания и автоматической активации это сооружение будет периодически сканировать звёздную систему на предмет замаскированных объектов и обнаруживать их.",
+    "zh": "这个建筑被锚定并自动完成启动程序后，将周期性扫描星系中的隐形物体并使其显形。"
+  },
+  "graphicID": 25008,
+  "groupID": 4107,
+  "marketGroupID": 2771,
+  "mass": 10000.0,
   "name": {
     "de": "Mobile Observatory",
     "en": "Mobile Observatory",
@@ -10,5 +23,9 @@
     "ru": "Mobile Observatory",
     "zh": "移动观测站"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 100.0,
+  "sofFactionName": "upwell",
   "volume": 100.0
 }

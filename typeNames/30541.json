@@ -1,5 +1,17 @@
 {
-  "typeID": 30541,
+  "basePrice": 5000000.0,
+  "description": {
+    "de": "Skill in Verbindung mit gallentischen Elektronik-Subsystemen für Tech-III-Schiffe.",
+    "en": "Skill in the operation of Gallente Electronic Subsystems used on Tech III ships.",
+    "es": "Habilidad en la operación de subsistemas electrónicos gallentes usados en naves T3.",
+    "fr": "Compétence liée à l'utilisation des sous-systèmes électroniques gallente sur les vaisseaux Tech III.",
+    "ja": "Tech 3艦船で使用するガレンテの電子サブシステムを操作するスキル。",
+    "ko": "테크 III 함선에 사용되는 갈란테 전자 서브시스템 운용을 위한 스킬입니다.",
+    "ru": "Освоив первую степень этого навыка, пилот сможет пользоваться галлентскими электронными подсистемами для кораблей третьей техкатегории.",
+    "zh": "这是用来操纵三级科技舰船上盖伦特电子子系统的技能。"
+  },
+  "groupID": 1240,
+  "iconID": 33,
   "name": {
     "de": "Gallente Electronic Systems",
     "en": "Gallente Electronic Systems",
@@ -10,5 +22,8 @@
     "ru": "Галлентские электронные подсистемы",
     "zh": "盖伦特电子子系统"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
   "volume": 0.01
 }

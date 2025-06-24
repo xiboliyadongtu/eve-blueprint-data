@@ -1,5 +1,18 @@
 {
-  "typeID": 35663,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Auf Annäherung basierende Wächterkanone.\n\nWenn Sie sich diesem Geschützturm auf weniger als 10km annähern wird dieser das Feuer auf Ihr Schiff eröffnen.",
+    "en": "Proximity based sentry gun.\r\n\r\nEntering within 10km of this turret will cause it to engage with your ship.",
+    "es": "Torreta centinela de proximidad.\n\n\n\nAcercarse a menos de 10 km de esta torreta hará que ataque a tu nave.",
+    "fr": "Canon de sentinelle de proximité.\n\n\n\nLe mécanisme de défense de cette tourelle se déclenchera à la moindre transgression d'un rayon de proximité de 10 km.",
+    "ja": "近接センサー式セントリーガン。半径10 km以内に接近した艦船に対し攻撃を行う。",
+    "ko": "센서에 함선이 포착되면 발동하는 센트리 포탑입니다. <br><br>포탑 반경 10km 안에 진입하면 공격합니다.",
+    "ru": "Охранное орудие с дальномером.\n\nПриближение к нему на расстояние, меньшее 10 километров, приведёт к тому, что оно откроет по вам огонь.",
+    "zh": "基于接近触发式原理工作的岗哨炮。\n\n船只进入炮台10km范围内会受到攻击。"
+  },
+  "graphicID": 2421,
+  "groupID": 383,
+  "mass": 1000.0,
   "name": {
     "de": "Inert Proximity-activated Autoturret",
     "en": "Inert Proximity-activated Autoturret",
@@ -10,5 +23,10 @@
     "ru": "Inert Proximity-activated Autoturret",
     "zh": "惰性接近触发式自动炮台"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 371.0,
+  "sofFactionName": "serpentis",
   "volume": 1000.0
 }

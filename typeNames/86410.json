@@ -1,5 +1,17 @@
 {
-  "typeID": 86410,
+  "capacity": 500000.0,
+  "description": {
+    "de": "Dieses Array ist dafür konzipiert, planetare Verteidigungssysteme zu hacken, indem es eine falsche Vertrauensbeziehung mit Unterstützungsnetzwerken außerhalb der Welt schafft. Anschließend übermittelt es Daten über eine Remote-Verbindung zum Wächter in Zarzakh und nutzt seine unfassbare Verarbeitungsleistung, um Datenpakete für ansonsten unmöglich zu ermittelnde Spuren von Verteidigungsnetzwerk-Zugangsschlüsseln zu extrahieren und diese zu rekonstruieren. Diese Zugangsschlüssel können dann verwendet werden, um planetare Verteidigungsnetzwerke zu deaktivieren, wodurch Vanguard-Kriegsklone ihre Geschütztürme hacken und sich Positionen am Planeten sichern können. ",
+    "en": "This array is designed to hack planetary defense systems by creating a false trust relationship with off-world support networks. It then transmits data via a remote connection to The Warden in Zarzakh, using its unfathomable processing power to mine data packets for otherwise impossible-to-detect traces of Defense Networks passkey in order to reconstruct them. \r\n\r\nThese passkeys can then be used to shut tower planetary defense networks, allowing Vanguard warclones to hack their turrets and secure planetside positions. ",
+    "es": "Este sistema está diseñado para hackear los sistemas de defensa planetarios creando una relación de confianza falsa con las redes de apoyo de otros planetas. Luego transmite datos a través de una conexión remota a la Warden en Zarzakh, y utiliza su insondable capacidad de procesamiento para extraer paquetes de datos en busca de rastros de contraseñas de las redes de defensa, que de otro modo serían imposibles de detectar, para su reconstrucción. \r\n\r\nEstas contraseñas se pueden usar luego para deshabilitar las redes de defensa planetaria de las torres, lo que permite a los clones de guerra de Vanguard hackear sus torretas y asegurar posiciones en los planetas. ",
+    "fr": "Ce module est conçu pour pirater les systèmes de défense planétaire en établissant une fausse relation de confiance avec les réseaux d'assistance à distance. Il transmet ensuite des données via une connexion à distance à la structure du Gardien à Zarzakh, utilisant sa puissance de traitement insondable pour extraire des paquets de données à la recherche de traces indétectables de clé de réseau de défense afin de les reconstruire. Ces clés d'accès peuvent ensuite être utilisées pour désactiver les réseaux de défense planétaire des tours, permettant aux clones de combat d'avant-garde de pirater les tourelles et de sécuriser des positions à la surface des planètes. ",
+    "ja": "惑星外支援ネットワークを欺瞞し、惑星防衛システムをハッキングするために作成されたアレイ。ハッキングで得たデータパケットは遠隔接続を通じてザルザクにあるウォーデンに送られ、その計り知れない処理能力を使ったデータマイニングにかけられるが、これはさもないと、防衛ネットワークのパスキーを再現するのに必要な痕跡を検出できないからである。 \r\n\r\n再現されたパスキーは、戦闘用クローン「ヴァンガード」がタレットをハッキングして惑星の一角を占拠できるよう、惑星防衛ネットワークのタワーをシャットダウンするために使うことができる。 ",
+    "ko": "해당 시설은 가상의 지원 네트워크로 가짜 인증 정보를 구축해 행성 방어 시스템을 해킹합니다. 해킹된 데이터는 원격 연결을 통해 자르자크의 워든으로 전송됩니다. 이후 워든의 초월적인 연산 처리 능력으로 일반적으로 해독이 불가능하다고 여겨지는 방어 네트워크 출입키의 잔여 데이터를 찾아내 복원합니다.\r\n\r\n출입키를 사용하면 행성 방어 네트워크가 무력화되어 Vanguard 전투 클론이 행성 방어 네트워크에 연결된 포탑을 해킹해 행성에 침투할 수 있습니다. ",
+    "ru": "Этот комплекс предназначен для взлома оборонных систем. Он устанавливает фальшивые доверительные отношения с космическими сетями поддержки. Затем он удалённо передаёт данные сооружению «Страж», расположенному в системе Zarzakh. Обладая невероятными вычислительными мощностями, такой объект может извлекать из пакетов данных следы кодов доступа, обнаружить которые иными способами невозможно, для дальнейшей реконструкции. Полученные коды доступа можно использовать для отключения местных систем обороны, что позволит боевым клонам «Авангарда» взламывать стационарные турели и захватывать позиции на планете. ",
+    "zh": "该阵列可通过与外星支援网络建立虚假的信任关系来入侵行星防御系统，然后通过远程连接将数据传输至扎尔扎克的典狱长，利用其深不可测的数据处理能力来挖掘数据包，找寻防御网络密钥的蛛丝马迹，以便对它们进行重构。之后便可利用这些密钥来关闭塔式行星防御网络，让先锋战争克隆体能够入侵炮塔并占领行星边缘。 "
+  },
+  "graphicID": 27983,
+  "groupID": 319,
   "name": {
     "de": "Planetary Trustbreaker Array",
     "en": "Planetary Trustbreaker Array",
@@ -10,5 +22,8 @@
     "ru": "Planetary Trustbreaker Array",
     "zh": "行星弃信者阵列"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 5000.0,
+  "sofFactionName": "deathless"
 }

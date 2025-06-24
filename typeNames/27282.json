@@ -1,5 +1,18 @@
 {
-  "typeID": 27282,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Angel Sentry-Gun",
+    "en": "Angel sentry gun",
+    "es": "Torreta centinela de los Ángeles",
+    "fr": "Canon de sentinelle angel.",
+    "ja": "エンジェルのセントリーガン",
+    "ko": "엔젤 카르텔 센트리 포탑",
+    "ru": "Сторожевое орудие Angel",
+    "zh": "天使岗哨炮"
+  },
+  "graphicID": 1684,
+  "groupID": 383,
+  "mass": 1000.0,
   "name": {
     "de": "Tower Basic Sentry Angel",
     "en": "Tower Basic Sentry Angel",
@@ -10,5 +23,10 @@
     "ru": "Tower Basic Sentry Angel",
     "zh": "天使基础型岗哨塔"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 79.0,
+  "sofFactionName": "genericbase",
   "volume": 1000.0
 }

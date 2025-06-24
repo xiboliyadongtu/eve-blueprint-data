@@ -1,5 +1,82 @@
 {
-  "typeID": 11961,
+  "basePrice": 138200000.0,
+  "capacity": 315.0,
+  "description": {
+    "de": "Die Kampfaufklärer wurden mit dem Ziel gebaut, das Neueste auf dem Gebiet der elektronischen Kriegsführung zu repräsentieren und haben Einrichtungen an Bord, die die Effektivität elektronischer Gegenmaßnahmen jeglicher Art optimieren. Sie vollführen eine Aufgabe, die ihren Schwesterschiffen, den schweren Angriffskreuzern, ziemlich nahe kommt, und sind erste Wahl, wenn es darum geht, elektronische Gegenmaßnahmen unwirksam zu machen. In kleineren Gefechten sind sie verheerende Gegner, denn sie verfügen neben der elektronischen Überlegenheit auch über eine hervorragende Verteidigung.",
+    "en": "Built to represent the last word in electronic warfare, combat recon ships have onboard facilities designed to maximize the effectiveness of electronic countermeasure modules of all kinds. Filling a role next to their class counterpart, the heavy assault cruiser, combat recon ships are the state of the art when it comes to anti-support support. They are also devastating adversaries in smaller skirmishes, possessing strong defensive capabilities in addition to their electronic superiority.",
+    "es": "Las naves de reconocimiento de guerra, construidas con la tecnología más puntera de la guerra electrónica, poseen instalaciones de a bordo diseñadas para maximizar la efectividad de todos los tipos de módulos de contramedidas electrónicas. Su función se complementa con la de su homólogo de clase, el crucero de asalto pesado, y cuentan con lo más avanzado en medidas contra naves de apoyo. Por otro lado, gracias a sus potentes capacidades defensivas y su superioridad electrónica, son magníficos adversarios en escaramuzas pequeñas.",
+    "fr": "Conçus pour être le nec plus ultra en termes de guerre électronique, les vaisseaux de reconnaissance et combat disposent de systèmes embarqués afin de maximiser l'efficacité de tous les modules de contre-mesures électroniques. Venant en renfort du croiseur d'assaut lourd, leur homologue de même classe, les vaisseaux de reconnaissance et combat représentent le fin du fin en termes de vaisseaux de soutien anti-soutien. Ce sont également des adversaires redoutables lors des guérillas car, outre leur supériorité sur le plan électronique, ils disposent d'importantes capacités défensives.",
+    "ja": "戦闘偵察艦は、究極の電子戦兵器として造られており、あらゆる種類の対電子攻撃モジュールが最大の効果を発揮できるように船内設備が設計されている。強襲型巡洋艦と同クラスだが担う役割は別で、現代最高水準の技術を駆使して妨害支援を行う。電子戦に長けているだけでなく防御力も高いため、小規模の戦闘では手強い敵である。",
+    "ko": "컴뱃 리콘 크루저는 압도적인 전자전 성능을 보유한 함선으로 ECM 전용모듈이 탑재되어 전자전 능력을 한계치로 이끌어낼 수 있습니다. 어썰트 크루저와 유사한 면이 많은 컴뱃 리콘 크루저는 전장에 진입하는 적의 지원함을 방해하기 위해 최적화되었습니다. 소규모 스커미시 교전에서 특히 강력한 모습을 보이며 뛰어난 방어시스템과 전자전 성능을 지녔습니다.",
+    "ru": "Боевые дозорные крейсеры создавались как передовые корабли для электронной борьбы. Они оснащены бортовыми системами, обеспечивающими максимальную эффективность всех модулей электронного противодействия. Такие суда предназначены для совместной работы со своими «братьями» — тяжёлыми ударными крейсерами — и безупречно справляются со своей ролью, эффективно нейтрализуя вражеские средства поддержки.",
+    "zh": "战斗侦察舰是电子战的最新产物，其舰载系统能让各类电子对抗设备发挥最大效力。战斗侦察舰代表了反支援的最尖端，是对同级别的重型突击巡洋舰的最佳补充。鉴于其强大的防御能力和电子优势，它们还是较小规模冲突中的毁灭性力量。"
+  },
+  "factionID": 500002,
+  "graphicID": 1945,
+  "groupID": 906,
+  "marketGroupID": 836,
+  "mass": 11550000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      150,
+      103,
+      72,
+      141,
+      85,
+      94,
+      165
+    ],
+    "1": [
+      96,
+      99,
+      150,
+      103,
+      72,
+      141,
+      85,
+      94,
+      165
+    ],
+    "2": [
+      96,
+      99,
+      150,
+      103,
+      72,
+      141,
+      85,
+      94,
+      165
+    ],
+    "3": [
+      96,
+      99,
+      150,
+      103,
+      72,
+      141,
+      142,
+      85,
+      94,
+      165
+    ],
+    "4": [
+      96,
+      99,
+      150,
+      103,
+      72,
+      141,
+      142,
+      85,
+      118,
+      94,
+      165
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Huginn",
     "en": "Huginn",
@@ -10,5 +87,95 @@
     "ru": "Huginn",
     "zh": "休津级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 133.0,
+  "sofFactionName": "boundlesscreation",
+  "soundID": 20078,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Kann nicht von Richtungsscannern erfasst werden",
+          "en": "Cannot be detected by directional scanners",
+          "es": "No detectable con escáneres direccionales.",
+          "fr": "Indétectable par les scanners directionnels",
+          "ja": "指向性スキャナーでは検知できません",
+          "ko": "전방위 스캐너 탐지 불가",
+          "ru": "Корабли этого типа не обнаруживаются пеленгаторами",
+          "zh": "不能被定向扫描器探测到"
+        },
+        "importance": 1
+      }
+    ],
+    "types": {
+      "3333": [
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die Feuerrate von <a href=showinfo:3305>mittelgroßen Projektilgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3305>Medium Projectile Turret</a> rate of fire",
+            "es": "de bonificación a la cadencia de tiro de la <a href=showinfo:3305>torreta de proyectiles mediana</a>.",
+            "fr": "de bonus à la cadence de tir de la <a href=showinfo:3305>tourelle à projectiles intermédiaires</a>",
+            "ja": "<a href=showinfo:3305>中型プロジェクタイルタレット</a>の発射間隔が短縮",
+            "ko": "<a href=showinfo:3305>중형 발사체 터렛</a> 연사속도 증가",
+            "ru": "повышается скорострельность <a href=showinfo:3305>средних баллистических орудий</a>",
+            "zh": "<a href=\"showinfo:3305\">中型射弹炮台</a>射速加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf die Effektivität von <a href=showinfo:19921>Zielmarkierungsmodulen</a>",
+            "en": "bonus to <a href=showinfo:19921>Target Painter</a> effectiveness",
+            "es": "de bonificación a la efectividad del <a href=showinfo:19921>revelador de objetivo</a>.",
+            "fr": "de bonus à l'efficacité du <a href=showinfo:19921>marqueur de cible</a>",
+            "ja": "<a href=showinfo:19921>ターゲットペインター</a>の効果が増加",
+            "ko": "<a href=showinfo:19921>타겟 페인터</a> 효과 증가",
+            "ru": "повышается эффективность действия <a href=showinfo:19921>систем подсветки целей</a>",
+            "zh": "<a href=\"showinfo:19921\">目标标记装置</a>效果加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ],
+      "22761": [
+        {
+          "bonus": 60,
+          "bonusText": {
+            "de": "Bonus auf die optimale Reichweite von <a href=showinfo:526>Stasisnetzen</a>",
+            "en": "bonus to <a href=showinfo:526>Stasis Webifier</a> optimal range",
+            "es": "de bonificación al alcance óptimo de la <a href=showinfo:526>red ralentizadora</a>.",
+            "fr": "de bonus à la portée optimale du <a href=showinfo:526>générateur de stase</a>",
+            "ja": "<a href=showinfo:526>ステイシスウェビファイア</a>の最適射程距離が拡大",
+            "ko": "<a href=showinfo:526>스테이시스 웹 생성기</a> 최적사거리 증가",
+            "ru": "увеличивается оптимальная дальность действия <a href=showinfo:526>стазис-индукторов</a>",
+            "zh": "<a href=\"showinfo:526\">停滞缠绕光束</a>最佳射程加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3305>mittelgroßen Projektilgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3305>Medium Projectile Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3305>torreta de proyectiles mediana</a>.",
+            "fr": "de bonus aux dégâts de la <a href=showinfo:3305>tourelle à projectiles intermédiaires</a>",
+            "ja": "<a href=showinfo:3305>中型プロジェクタイルタレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3305>중형 발사체 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон боеприпасов <a href=showinfo:3305>средних баллистических орудий</a>",
+            "zh": "<a href=showinfo:3305>中型射弹炮台</a>伤害加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 630,
   "volume": 85000.0
 }

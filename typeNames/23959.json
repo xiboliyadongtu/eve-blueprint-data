@@ -1,5 +1,18 @@
 {
-  "typeID": 23959,
+  "capacity": 200.0,
+  "description": {
+    "de": "Dies ist ein Söldner vom Thukker-Stamm. Bekannt für ihre Brutalität, sollte man Thukker-Söldner nicht auf die leichte Schulter nehmen.\r\n\r\nBedrohungsstufe: Hoch",
+    "en": "This is a mercenary of Thukker Tribe origin.  Renowned for their brutality, Thukker mercenaries are not to be taken lightly.  Threat level: High",
+    "es": "Mercenario autóctono de la tribu Thukker. Conocidos por su brutalidad, los mercenarios thukkers no deben tomarse a la ligera. Nivel de amenaza: alto.",
+    "fr": "Il s'agit d'un mercenaire originaire de la tribu thukker.  Ces mercenaires sont connus pour leur cruauté et ne doivent donc pas être pris à la légère.  Niveau de menace : élevé",
+    "ja": "サッカー部族出身の傭兵。サッカーの傭兵はその残虐性で知られる油断のならない相手。危険度:高い",
+    "ko": "터커 부족 출신의 용병입니다. 터커 부족 출신 용병들은 잔인한 성정으로 잘 알려져 있습니다. 위험도: 높음",
+    "ru": "Этот наемник родом из племени Thukker. Наёмники Thukker славятся своей жестокостью, и к ним следует относиться всерьез. Уровень опасности: высокий",
+    "zh": "这是一艘源自图克尔部落的雇佣兵战舰。图克尔雇佣兵以残暴闻名，千万不可小看。威胁等级：高"
+  },
+  "graphicID": 20337,
+  "groupID": 826,
+  "mass": 1200000.0,
   "name": {
     "de": "Thukker Mercenary Elite Fighter",
     "en": "Thukker Mercenary Elite Fighter",
@@ -10,5 +23,10 @@
     "ru": "Thukker Mercenary Elite Fighter",
     "zh": "图克尔雇佣兵 精英战士"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 64.0,
+  "sofFactionName": "thukker",
   "volume": 22500.0
 }

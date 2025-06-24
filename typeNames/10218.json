@@ -1,5 +1,18 @@
 {
-  "typeID": 10218,
+  "basePrice": 800000.0,
+  "description": {
+    "de": "Wenn man diesen Bildprozessor in den Hinterhauptlappen einpflanzt bewirkt er einen Bonus auf die Auffassungsgabe des Charakters.\n\n\n\n+6 Bonus auf Auffassungsgabe",
+    "en": "This image processor implanted in the occipital lobe grants a bonus to a character's Perception.\r\n\r\n+6 Bonus to Perception",
+    "es": "Este procesador de imágenes que se implanta en el lóbulo occipital concede una bonificación a la percepción del personaje.\n\n+6 de bonificación a la percepción.",
+    "fr": "Ce processeur d'images implanté dans le lobe occipital améliore la perception d'un personnage.\n\nBonus de perception : + 6",
+    "ja": "後頭葉に埋め込むイメージプロセッサー。キャラクターの知覚を増強する効果がある。知覚+6のボーナス",
+    "ko": "이미지 처리기를 후두엽에 삽입함으로써 추가 지각력을 획득합니다.<br><br>지각력 +6",
+    "ru": "Модуль распознавания и анализа изображений, вживляемый в затылочную долю головного мозга пилота.\n\nВживление имплантата приводит к росту характеристики «Восприятие» на 6 единиц.",
+    "zh": "植入在枕骨脑叶的图像处理器，能增加人物的感知属性值。感知+6"
+  },
+  "groupID": 745,
+  "iconID": 2053,
+  "metaGroupID": 1,
   "name": {
     "de": "Ocular Filter - Advanced",
     "en": "Ocular Filter - Advanced",
@@ -10,5 +23,8 @@
     "ru": "Ocular Filter - Advanced",
     "zh": "视觉滤镜—高级"
   },
+  "portionSize": 1,
+  "published": false,
+  "variationParentTypeID": 9899,
   "volume": 1.0
 }

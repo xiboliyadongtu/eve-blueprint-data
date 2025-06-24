@@ -1,5 +1,17 @@
 {
-  "typeID": 32366,
+  "description": {
+    "de": "Dieses Dokument wurde in einem durch Empire-Agenten gesicherten Datengebiet platziert. Es dient als Beweis dafür, dass ein Kapselpilot im Training in der Lage war, die Signatur zu lokalisieren und in dem Gebiet einen erfolgreichen Hackversuch zu unternehmen.",
+    "en": "This document has been placed inside a Data site secured by Empire agents. It serves as physical proof that a capsuleer-in-training has been able to locate the signature and successfully perform a hacking attempt inside the area.",
+    "es": "Este documento se ha colocado en el interior de una zona de datos asegurada por agentes del Imperio. Sirve como prueba física de que un capsulista en formación ha sido capaz de localizar la señal y realizar un intento de hackeo en la zona.",
+    "fr": "Ce document a été placé dans un site de données sécurisé par des agents de l'Empire. Il constitue la preuve physique qu'un capsulier en formation a bien été en mesure de localiser la signature et d'effectuer correctement une tentative de piratage à l'intérieur de la zone.",
+    "ja": "この書類はアマー帝国のエージェントが確保しているデータサイトの中に保管されていた。カプセラが訓練において、シグネチャの位置を特定し、その内部でハッキングを行うという課題を達成した証拠の品となる。",
+    "ko": "제국 에이전트들이 지키고 있던 데이터 사이트 내부에 놓여있던 문서입니다. 캡슐리어 훈련생이 코즈믹 시그니처 탐지 및 해킹에 성공했다는 물질적인 증거입니다.",
+    "ru": "Этот документ находился внутри участка данных, зачищенного агентами Империи. Он служит вещественным доказательством того, что капсулер-курсант успешно нашел сигнатуру, используя сканирующие зонды, и успешно выполнил взлом в пределах участка.",
+    "zh": "这份文档被存放在一个由帝国特工保护的数据地点中。它的作用是，作为在训练任务中使用核心扫描探针成功定位这个信号并成功完成破解作业的实物证据。"
+  },
+  "groupID": 314,
+  "iconID": 2908,
+  "mass": 1.0,
   "name": {
     "de": "Proof of Discovery: Data",
     "en": "Proof of Discovery: Data",
@@ -10,5 +22,7 @@
     "ru": "Proof of Discovery: Data",
     "zh": "目标证据：数据"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

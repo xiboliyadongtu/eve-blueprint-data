@@ -1,5 +1,18 @@
 {
-  "typeID": 16040,
+  "capacity": 235.0,
+  "description": {
+    "de": "Dies ist ein Kampfschiff von Mordus Legion. Es beschützt das Eigentum von Mordus Legion und kann jeden angreifen, den es als Bedrohung oder leichte Beute einschätzt.\r\n\r\nBedrohungsstufe: Sehr hoch",
+    "en": "This is a fighter for the Mordus Legion. It is protecting the assets of the Mordus Legion and may attack anyone it perceives as a threat or easy pickings. Threat level: Very high",
+    "es": "Caza de la Legión de Mordu que protege sus bienes y puede atacar a todo aquello que perciba como una amenaza o una presa fácil. Nivel de amenaza: muy alto.",
+    "fr": "Chasseur de la légion Mordu. Il protège les biens de la légion Mordu et peut attaquer quiconque est perçu comme une menace ou une proie facile. Niveau de menace : très élevé",
+    "ja": "モードゥ部隊の艦載戦闘機。モードゥ部隊の船や施設の護衛を任務とし、危険もしくは格下と判断した標的を全て攻撃する。危険度:非常に高い",
+    "ko": "모르두 군단의 전투함입니다. 위협으로 간주되는 적이나 손쉬운 먹잇감으로 보이는 대상을 공격합니다. 위험도: 매우 높음",
+    "ru": "Это боец Легиона Mordu. Он защищает владения Легиона Mordu и нападает на всех, кого посчитает опасностью или легкой добычей. Уровень опасности: очень высокий",
+    "zh": "这是一艘莫德团的战舰。它保护着莫德团的产业，会主动攻击任何可能造成威胁或者极易对付的飞船。威胁等级：非常高"
+  },
+  "graphicID": 20616,
+  "groupID": 699,
+  "mass": 1650000.0,
   "name": {
     "de": "Mordus Bounty Hunter",
     "en": "Mordus Bounty Hunter",
@@ -10,5 +23,10 @@
     "ru": "Mordus Bounty Hunter",
     "zh": "莫德团 赏金猎人"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 39.0,
+  "sofFactionName": "mordubase",
   "volume": 16500.0
 }

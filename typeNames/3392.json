@@ -1,5 +1,18 @@
 {
-  "typeID": 3392,
+  "basePrice": 30000.0,
+  "description": {
+    "de": "Fertigkeit, die mechanischen Komponenten und die strukturelle Integrität von Raumschiffen zu warten und zu pflegen. 5 % Bonus auf die HP der Außenhülle je Skillstufe.",
+    "en": "Skill at maintaining the mechanical components and structural integrity of a spaceship. 5% bonus to structure hit points per skill level.",
+    "es": "Habilidad para mantener los componentes mecánicos y la integridad estructural de una nave espacial. 5 % de bonificación a los puntos de vida de la estructura por nivel de habilidad.",
+    "fr": "Compétence liée au maintien de l'intégrité structurelle et des composants mécaniques d'un vaisseau. Augmente de 5 % par niveau de compétence les PV de la structure.",
+    "ja": "宇宙船の機械部品や全体構造を整備するスキル。スキルレベル上昇ごとにストラクチャのHPが5%増加。",
+    "ko": "함선 정비 스킬을 향상하는 신경 인터페이스 업그레이드입니다. 매 레벨마다 구조물 내구도 5% 증가",
+    "ru": "Навык обслуживания механических компонентов и поддержания целостности корабля. За каждую степень освоения навыка: на 5% повышается запас прочности корпуса.",
+    "zh": "维护飞船机械组件和结构安全性的技能。每升一级，结构强度提高5%。"
+  },
+  "groupID": 1210,
+  "iconID": 33,
+  "marketGroupID": 1745,
   "name": {
     "de": "Mechanics",
     "en": "Mechanics",
@@ -10,5 +23,7 @@
     "ru": "Механическая прочность корпуса",
     "zh": "机械学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

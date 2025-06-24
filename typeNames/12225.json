@@ -1,5 +1,20 @@
 {
-  "typeID": 12225,
+  "basePrice": 78840.0,
+  "description": {
+    "de": "Transferiert Energie aus dem Energiespeicher zu einem anderen Schiff.",
+    "en": "Transfers capacitor energy to another ship.",
+    "es": "Transfiere energía del condensador a otra nave.",
+    "fr": "Transfère l'énergie du capaciteur vers un autre vaisseau.",
+    "ja": "キャパシタのエネルギーを他の船に送電する。",
+    "ko": "캐패시터 에너지를 다른 함선에 전송합니다.",
+    "ru": "Передает накопленную в конденсаторе энергию другому кораблю.",
+    "zh": "将电容能量转移到另一艘舰船上。"
+  },
+  "groupID": 67,
+  "iconID": 1035,
+  "marketGroupID": 697,
+  "mass": 1000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Large Remote Capacitor Transmitter I",
     "en": "Large Remote Capacitor Transmitter I",
@@ -10,5 +25,8 @@
     "ru": "Large Remote Capacitor Transmitter I",
     "zh": "大型远程电容传输装置 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 1000.0,
   "volume": 25.0
 }

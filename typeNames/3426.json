@@ -1,5 +1,18 @@
 {
-  "typeID": 3426,
+  "basePrice": 30000.0,
+  "description": {
+    "de": "Grundsätzliches Verständnis der Sensor- und Computersysteme eines Raumschiffes.\r\n\r\n5% Bonus auf die CPU-Leistung je Skillstufe.",
+    "en": "Basic understanding of spaceship sensory and computer systems. 5% Bonus to ship CPU output per skill level.",
+    "es": "Comprensión básica de los sistemas sensoriales e informáticos de las naves espaciales. Bonificación del 5 % al rendimiento de la CPU de la nave por nivel de habilidad.",
+    "fr": "Compréhension de base des systèmes informatiques et de détecteurs du vaisseau. Augmente de 5 % par niveau de compétence la puissance du CPU du vaisseau.",
+    "ja": "宇宙船の知覚システムとコンピュータシステムに関する基本的な知識。スキルレベル上昇ごとに船の CPU 出力に 5% のボーナス。",
+    "ko": "함선 시스템 및 센서 운용에 대한 기본적인 이해를 습득합니다. 매 레벨마다 CPU 용량 5% 증가",
+    "ru": "Понимание основных принципов работы сенсорных и компьютерных систем корабля. За каждую степень освоения навыка: на 5% повышается мощность ЦПУ корабля.",
+    "zh": "关于舰船感应器和计算机系统的基础技能。每升一级，飞船CPU输出增加5%。"
+  },
+  "groupID": 1216,
+  "iconID": 33,
+  "marketGroupID": 368,
   "name": {
     "de": "CPU Management",
     "en": "CPU Management",
@@ -10,5 +23,7 @@
     "ru": "Управление ЦПУ",
     "zh": "CPU管理学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

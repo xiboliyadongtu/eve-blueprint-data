@@ -1,5 +1,21 @@
 {
-  "typeID": 2647,
+  "basePrice": 101160.0,
+  "description": {
+    "de": "Die Explosion, die eine Inferno Light Missile beim Einschlag erzeugt, ist spektakulär genug für jedes Feuerwerk – nur zehnmal tödlicher.\n\n\n\nEine modifizierte Version der Inferno Light Missile. Eignet sich besonders für den Beschuss von kleineren Schiffen. Der Treibstoffverbrauch durch Stabilisierungs-Thruster verringert jedoch die maximale Flugzeit.",
+    "en": "The explosion the Inferno light missile creates upon impact is stunning enough for any display of fireworks - just ten times more deadly.\r\n\r\nA modified version of the Inferno light missile. Great for taking down smaller ships, but fuel use by stabilization thrusters reduces maximum flight time.",
+    "es": "La explosión que el misil ligero Inferno crea al impactar es tan impresionante como cualquier espectáculo de fuegos artificiales, solo que diez veces más letal.\n\nUna versión modificada del misil ligero Inferno. Ideal para abatir naves más pequeñas, aunque el consumo de combustible de los propulsores de estabilización reduce el tiempo de vuelo máximo.",
+    "fr": "L'explosion provoquée à l'impact par un missile léger Inferno est digne d'un feu d'artifices, juste dix fois plus mortelle.\n\nVersion modifiée du missile léger Inferno. Ce missile est idéal face aux vaisseaux plus petits, mais l'utilisation du carburant par les propulseurs de stabilisation réduit le temps de vol maximal.",
+    "ja": "インフェルノライトミサイルが命中したときの爆発は、美しさで花火に匹敵する――危険さは花火の10倍に匹敵するが。\n\nインフェルノライトミサイルの改良版。小型艦を撃ち落とすには便利だが、姿勢制御スラスターが推進剤を食うので最大飛行時間は短くなる。",
+    "ko": "인페르노 라이트 미사일이 폭발하는 모습은 불꽃놀이만큼 아름답습니다. 그저 10배는 더 강한 파괴력을 지녔을 뿐입니다. <br><br>개량된 인페르노 라이트 미사일입니다. 소형 함선을 상대로 매우 효과적이지만 추진기 연료 사용으로 인해 최대 비행시간이 감소합니다.",
+    "ru": "Взрыв, который возникает при столкновении легкой ракеты Inferno с целью, ослепителен, как фейерверк — только в десять раз смертоноснее.\n\n\n\nМодифицированная версия легкой ракеты Inferno. Отлично подходит для поражения целей малых размеров, но максимальное время полета снижено ввиду значительного потребления топлива стабилизационными двигателями.",
+    "zh": "炼狱轻型导弹爆炸时产生的惊艳效果足以媲美任何烟火展览，外加十倍于其的致命性。这是炼狱轻型导弹的一种改良版本，针对小船效果好，但为了优化发射，导弹飞行时间上必须作出牺牲。"
+  },
+  "graphicID": 20061,
+  "groupID": 653,
+  "iconID": 191,
+  "marketGroupID": 917,
+  "mass": 700.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Inferno Precision Light Missile",
     "en": "Inferno Precision Light Missile",
@@ -10,5 +26,9 @@
     "ru": "Inferno Precision Light Missile",
     "zh": "炼狱精准轻型导弹"
   },
+  "portionSize": 5000,
+  "published": true,
+  "radius": 300.0,
+  "variationParentTypeID": 211,
   "volume": 0.015
 }

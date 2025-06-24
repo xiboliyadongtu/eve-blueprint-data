@@ -1,5 +1,18 @@
 {
-  "typeID": 11584,
+  "basePrice": 75000.0,
+  "description": {
+    "de": "Skill zur Verankerung von Strukturen.",
+    "en": "Skill at Anchoring Deployables.",
+    "es": "Habilidad para anclar estructuras desplegables.",
+    "fr": "Compétence liée à l'ancrage de structures mobiles.",
+    "ja": "配置可能なものを係留するスキル。",
+    "ko": "전개물의 위치 고정을 위한 스킬입니다.",
+    "ru": "Навык анкеровки полевых блоков.",
+    "zh": "锚定可部署装置的技能。"
+  },
+  "groupID": 1545,
+  "iconID": 33,
+  "marketGroupID": 2152,
   "name": {
     "de": "Anchoring",
     "en": "Anchoring",
@@ -10,5 +23,7 @@
     "ru": "Анкеровка",
     "zh": "空间定锚"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 364520,
+  "basePrice": 66000.0,
+  "description": {
+    "de": "Grundlegende Kenntnisse über Dropsuitkernsysteme.\n\n+1% auf das maximale PG und CPU des Dropsuits pro Skillstufe.",
+    "en": "Basic understanding of dropsuit core systems.\r\n\r\n+1% to dropsuit maximum PG and CPU per level.",
+    "es": "Conocimiento básico de los sistemas básicos de los trajes de salto.\n\n\n\n+1% de CPU y RA máximos del traje de salto por nivel.",
+    "fr": "Notions de base des systèmes fondamentaux de la combinaison.\n\n\n\n+1 % aux CPU et PG maximum de la combinaison par niveau.",
+    "it": "Comprensione fondamenti dei sistemi fondamentali dell'armatura.\n\n+1% alla CPU e alla rete energetica massime dell'armatura per livello.",
+    "ja": "降下スーツコアシステムに関する基本的な知識。\n\nレベル上昇ごとに、降下スーツ最大PGとCPUが1%増加する。",
+    "ko": "강하슈트 코어 시스템에 대한 기본적인 이해를 습득합니다.<br><br>매 레벨마다 강하슈트 파워그리드 및 CPU 용량 1% 증가",
+    "ru": "Понимание основ функционирования основных компонентов систем скафандра.\n\n+1% к максимуму ресурса ЦПУ и ЭС на каждый уровень",
+    "zh": "作战服核心系统基本知识。每升一级，作战服的PG和CPU最大值增加1%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Dropsuit-Kernupgrades",
     "en": "Dropsuit Core Upgrades",
@@ -11,5 +23,6 @@
     "ru": "Пакеты модернизации основных элементов скафандра",
     "zh": "作战服核心升级件"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

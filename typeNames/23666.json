@@ -1,5 +1,16 @@
 {
-  "typeID": 23666,
+  "description": {
+    "de": "Ein Raubdrohnen-Gehirn, das früher einmal Teil eines Nests war. Es ist schwer beschädigt, aber zum Teil noch funktionsfähig. Es verwendet für Kommunikationszwecke eine holografische Bildoberfläche.",
+    "en": "A rogue drone mind that was once part of a hive. It is severely damaged, but semi-functional. It uses a hologram image interface for communication purposes.",
+    "es": "Una mente dron rebelde que una vez formara parte de una colmena. Está gravemente dañada, pero es semifuncional. Utiliza una interfaz de imagen de holograma para comunicarse.",
+    "fr": "Intelligence de drone renégat qui faisait auparavant partie d'une ruche. Elle est sévèrement endommagée, mais est encore à moitié opérationnelle. Elle utilise un hologramme à des fins de communication.",
+    "ja": "かつては集団で行動していたローグドローンの頭脳。かなりのダメージがあるが、一部の機能は作動可能。通信機能としては、ホログラム映像インターフェイスが装備されている。",
+    "ko": "로그 드론 마인드로 한때 하이브의 일부였습니다. 심각하게 훼손되었지만 여전히 작동 중입니다. 통신 목적으로 홀로그램 이미지 인터페이스를 사용합니다.",
+    "ru": "Сознание восставшего дрона, когда-то бывшего частью роя. Оно сильно повреждено, но частично еще функционирует. Для связи оно использует интерфейс, основанный на голографических изображениях.",
+    "zh": "曾经属于某个母巢的自由无人机智能体。它现在已被严重损坏，但依然能执行部分功能。它使用全息图像界面进行交流。"
+  },
+  "graphicID": 2592,
+  "groupID": 517,
   "name": {
     "de": "Damaged Drone Mind",
     "en": "Damaged Drone Mind",
@@ -10,5 +21,8 @@
     "ru": "Damaged Drone Mind",
     "zh": "受损的无人机智能体"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 222.0,
+  "sofFactionName": "roguebase"
 }

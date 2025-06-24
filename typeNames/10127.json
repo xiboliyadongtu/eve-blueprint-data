@@ -1,5 +1,16 @@
 {
-  "typeID": 10127,
+  "description": {
+    "de": "Diese Anlage lädt innerhalb ihrer Reichweite die Schilde von Raumschiffen wieder auf.",
+    "en": "This construction recharges the shields on ships within range.",
+    "es": "Esta construcción recarga los escudos de las naves a su alcance.",
+    "fr": "Cette structure recharge les boucliers des vaisseaux à portée.",
+    "ja": "有効範囲内にいる艦船のシールドをリチャージすることができる。",
+    "ko": "사거리 내 근접한 함선의 실드를 회복합니다.",
+    "ru": "Эта конструкция подкачивает щиты на кораблях в пределах ее радиуса действия.",
+    "zh": "此建筑能在有效范围内对船只的护盾进行回充。"
+  },
+  "graphicID": 1685,
+  "groupID": 226,
   "name": {
     "de": "Magnetic Double-Capped Bubble",
     "en": "Magnetic Double-Capped Bubble",
@@ -10,5 +21,9 @@
     "ru": "Magnetic Double-Capped Bubble",
     "zh": "磁性双盖球体"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 300.0,
+  "sofFactionName": "genericbase",
+  "soundID": 20176
 }

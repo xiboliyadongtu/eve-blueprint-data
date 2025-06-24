@@ -1,5 +1,70 @@
 {
-  "typeID": 11995,
+  "basePrice": 264500000.0,
+  "capacity": 450.0,
+  "description": {
+    "de": "Schwere Unterbrechungskreuzer vereinen die hohe Kraft von Unterbrechern und die defensiven Eigenschaften von schweren Angriffskreuzern besonders effektiv und sind dadurch im Nahkampf, sowohl in der Offensive als auch in der Defensive, unersetzlich. Schwere Unterbrechungskreuzer sind die einzigen Schiffe, die in der Lage sind, Warpstörfeldgeneratoren zu benutzen, Module, die ein Warpstörfeld generieren, welches sich zusammen mit dem Schiff überallhin bewegt.  \r\n",
+    "en": "Effectively combining the trapping power of interdictors with the defensive capabilities of heavy assault cruisers, the heavy interdiction cruiser is an invaluable addition to any skirmish force, offensive or defensive. Heavy interdiction cruisers are the only ships able to use the warp disruption field generator, a module that creates a warp disruption field that moves with the origin ship wherever it goes.  \r\n",
+    "es": "El crucero interdictor pesado, que combina el poder de captura de los interdictores con las capacidades defensivas de los cruceros de asalto pesados, es una valiosa incorporación a cualquier fuerza de combate, ofensiva o defensiva. Son las únicas naves capaces de usar el generador de campo disruptor de warp, un módulo que produce un campo disruptor de warp que sigue a la nave de origen allá adonde vaya.  ",
+    "fr": "Combinant efficacement la puissance des interdicteurs aux capacités défensives des croiseurs d'assaut lourds, le croiseur d'interdiction lourd est un atout indéniable pour toutes les forces de guérilla, d'attaque ou de défense. Les croiseurs d'interdiction lourds sont les seuls vaisseaux en mesure d'utiliser le générateur de champ perturbateur de warp, un module capable de créer un champ de perturbation de warp qui se déplace partout avec le vaisseau qui le produit.  \r\n",
+    "ja": "ワープ妨害型駆逐艦のタックル能力と強襲型巡洋艦のしぶとさを巧みに組み合わせたのがワープ妨害型巡洋艦で、高機動艦隊に加われば攻防両面でかけがえのない戦力となる。ワープ妨害型巡洋艦は、あらゆる船の中で唯一、ワープ妨害フィールド発生装置を使用できる。このモジュールが生成したワープ妨害フィールドは、発生源の船の移動に伴って移動する。  ",
+    "ko": "인터딕터의 워프 방해 능력과 어썰트 크루저의 견고한 방어력이 결합된 인터딕터 크루저로 스커미시 교전 시 공수양방으로 활약이 가능합니다. 워프 디스럽션 필드 생성 모듈을 사용할 수 있는 유일한 함급으로, 활성화 시 일정 범위 내로 적 워프 기능을 차단합니다.  \r\n",
+    "ru": "Тяжёлые заградительные крейсеры сочетают в себе уникальные тактические возможности заградительных кораблей и высокую обороноспособность тяжёлых ударных крейсеров, по праву становясь незаменимой частью любой боевой группы — как ударной, так и оборонительной. Тяжёлые заградительные крейсеры — это единственные корабли, способные использовать варп-заградитель — модуль, создающий поле варп-помех, которое перемещается вместе с проецирующим его кораблём.  \r\n",
+    "zh": "重型拦截巡洋舰结合了截击舰的拦截能力和重型突击巡洋舰的防御能力，使其在局部冲突中无论是进攻还是防守都具有不可估量的价值。重型拦截巡洋舰是所有舰种中唯一能够使用跃迁扰断力场发生器的舰船 - 该发生器是一种能够产生随船体移动的跃迁扰断力场的设备。  \r\n"
+  },
+  "factionID": 500001,
+  "graphicID": 3362,
+  "groupID": 894,
+  "marketGroupID": 1072,
+  "mass": 15400000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      150,
+      139,
+      76,
+      85,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      150,
+      139,
+      76,
+      85,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      150,
+      139,
+      76,
+      85,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      150,
+      139,
+      76,
+      85,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      150,
+      139,
+      76,
+      85,
+      118,
+      94
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Onyx",
     "en": "Onyx",
@@ -10,5 +75,111 @@
     "ru": "Onyx",
     "zh": "奥尼克斯级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 131.0,
+  "sofFactionName": "kaalakiota",
+  "soundID": 20070,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Kann Module für <a href=showinfo:28654>Warpstörfeldgenerator</a> und <a href=showinfo:21096>Anziehungsfeldgenerator</a> ausrüsten",
+          "en": "Can fit <a href=showinfo:28654>Warp Disruption Field Generator</a> and <a href=showinfo:21096>Cynosural Field Generator</a> modules",
+          "es": "Es posible equipar módulos de <a href=showinfo:28654>generador de campo disruptor de warp</a> y <a href=showinfo:21096>generador de campo cinosural</a>.",
+          "fr": "Peut équiper des modules <a href=showinfo:28654>générateur de champ perturbateur de warp</a> et <a href=showinfo:21096>générateur de champ cynosural</a>",
+          "ja": "<a href=showinfo:28654>ワープ妨害フィールドジェネレーター</a>と<a href=showinfo:21096>サイノシュラルフィールドジェネレーター</a>を装備可能",
+          "ko": "<a href=showinfo:28654>워프 디스럽션 필드 생성기</a> 및 <a href=showinfo:21096>사이노슈럴 필드 생성기</a> 장착 가능",
+          "ru": "Возможно оснащение <a href=showinfo:28654>бортовым варп-заградителем</a> и <a href=showinfo:21096>приводным маяком</a>",
+          "zh": "可以装配<a href=showinfo:28654>跃迁扰断力场发生器</a>和<a href=showinfo:21096>诱导力场发生器</a>装备"
+        },
+        "importance": 1
+      },
+      {
+        "bonus": 20.0,
+        "bonusText": {
+          "de": "Bonus auf alle Schildresistenzen",
+          "en": "bonus to all shield resistances",
+          "es": "de bonificación a todas las resistencias de escudo.",
+          "fr": "de bonus à toutes les résistances de bouclier",
+          "ja": "全てのシールドレジスタンスが増加",
+          "ko": "모든 실드 저항력 증가",
+          "ru": "повышается сопротивляемость щитов корабля всем видам воздействия",
+          "zh": "护盾抗性加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3334": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf den Kinetikschaden von <a href=showinfo:3321>leichten Lenkwaffen</a>, <a href=showinfo:3324>schweren Lenkwaffen</a> und <a href=showinfo:25719>schweren Angriffslenkwaffen</a>",
+            "en": "bonus to kinetic <a href=showinfo:3321>Light Missile</a>, <a href=showinfo:3324>Heavy Missile</a> and <a href=showinfo:25719>Heavy Assault Missile</a> damage",
+            "es": "de bonificación al daño cinético de los <a href=showinfo:3321>misiles ligeros</a>, los <a href=showinfo:3324>misiles pesados</a> y los <a href=showinfo:25719>misiles de asalto pesados</a>.",
+            "fr": "de bonus aux dégâts cinétiques des <a href=showinfo:3321>missiles légers</a>, <a href=showinfo:3324>missiles lourds</a> et <a href=showinfo:25719>missiles d'assaut lourds</a>",
+            "ja": "<a href=showinfo:3321>ライトミサイル</a>・<a href=showinfo:3324>ヘビーミサイル</a>・<a href=showinfo:25719>ヘビーアサルトミサイル</a>のキネティックダメージが増加",
+            "ko": "<a href=showinfo:3321>라이트 미사일</a>, <a href=showinfo:3324>헤비 미사일</a> 및 <a href=showinfo:25719>헤비 어썰트 미사일</a>의 키네틱 피해량 증가",
+            "ru": "увеличивается урон кинетических БЧ <a href=showinfo:3321>лёгких ракет</a>, <a href=showinfo:3324>тяжёлых ракет</a> и <a href=showinfo:25719>тяжёлых штурмовых ракет</a>",
+            "zh": "<a href=\"showinfo:3321\">轻型导弹</a>、<a href=\"showinfo:3324\">重型导弹</a>和<a href=\"showinfo:25719\">重型攻击导弹</a>动能伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf die Feuerrate von schnellen <a href=showinfo:3321>leichten Lenkwaffenwerfern</a>, <a href=showinfo:3324>schweren Lenkwaffenwerfern</a> und <a href=showinfo:25719>schweren Angriffslenkwaffenwerfern</a>",
+            "en": "bonus to Rapid <a href=showinfo:3321>Light Missile</a>, <a href=showinfo:3324>Heavy Missile</a> and <a href=showinfo:25719>Heavy Assault Missile</a> Launcher rate of fire",
+            "es": "de bonificación a la cadencia de tiro rápida de los <a href=showinfo:3321>lanzamisiles ligeros</a>, los <a href=showinfo:3324>lanzamisiles pesados</a> y los <a href=showinfo:25719>lanzamisiles de asalto pesados</a>.",
+            "fr": "de bonus à la cadence de tir des <a href=showinfo:3321>missiles légers</a>, <a href=showinfo:3324>missiles lourds</a> et des <a href=showinfo:25719>missiles d'assaut</a>",
+            "ja": "高速<a href=showinfo:3321>ライトミサイル</a>ランチャー、<a href=showinfo:3324>ヘビーミサイル</a>ランチャー、<a href=showinfo:25719>ヘビーアサルトミサイル</a>ランチャーの発射間隔が短縮",
+            "ko": "급속 <a href=showinfo:3321>라이트 미사일</a>, <a href=showinfo:3324>헤비 미사일</a>, <a href=showinfo:25719>헤비 어썰트 미사일</a> 런처 연사속도 증가",
+            "ru": "повышается скорострельность скорострельных ПУ <a href=showinfo:3321>лёгких ракет</a>, ПУ <a href=showinfo:25719>тяжёлых штурмовых ракет</a>, ПУ <a href=showinfo:3324>тяжёлых ракет</a>",
+            "zh": "<a href=showinfo:3324>重型导弹发射器</a> 、<a href=showinfo:25719>重型攻击导弹发射器</a>和<a href=showinfo:3321>轻型快速导弹发射器</a>射速加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ],
+      "28609": [
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die Maximalgeschwindigkeit von <a href=showinfo:3324>schweren Angriffslenkwaffen</a> und <a href=showinfo:25719>schweren Lenkwaffen</a>",
+            "en": "bonus to <a href=showinfo:3324>Heavy Missile</a> and <a href=showinfo:25719>Heavy Assault Missile</a> max velocity",
+            "es": "de bonificación a la velocidad máxima de los <a href=showinfo:3324>misiles pesados</a> y los <a href=showinfo:25719>misiles de asalto pesados</a>.",
+            "fr": "de bonus à la vitesse maximale des <a href=showinfo:3324>missiles lourds</a> et des <a href=showinfo:25719>missiles d'assaut lourds</a>",
+            "ja": "<a href=showinfo:3324>ヘビーミサイル</a>と<a href=showinfo:25719>ヘビーアサルトミサイル</a>の最高速度上昇",
+            "ko": "<a href=showinfo:3324>헤비 미사일</a> 및 <a href=showinfo:25719>헤비 어썰트 미사일</a> 최대 속도 증가",
+            "ru": "бонус к макс. скорости <a href=showinfo:3324>тяжёлых ракет</a> и <a href=showinfo:25719>тяжёлых штурмовых ракет</a>",
+            "zh": "<a href=showinfo:3324>重型导弹</a>和<a href=showinfo:25719>重型攻击导弹</a>最大速度加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf die Reichweite von <a href=showinfo:28654>Warpstörfeldgeneratoren</a>",
+            "en": "bonus to <a href=showinfo:28654>Warp Disruption Field Generator</a> range",
+            "es": "de bonificación al alcance del <a href=showinfo:28654>generador de campo disruptor de warp</a>.",
+            "fr": "de bonus à la portée du <a href=showinfo:28654>générateur de champ perturbateur de warp</a>",
+            "ja": "<a href=showinfo:28654>ワープ妨害フィールドジェネレーター</a>の範囲にボーナス",
+            "ko": "<a href=showinfo:28654>워프 디스럽션 필드 생성기</a> 사거리 증가",
+            "ru": "бонус к дальности действия <a href=showinfo:28654>бортового варп-заградителя</a>",
+            "zh": "<a href=showinfo:28654>跃迁扰断力场发生器</a>的范围扩大"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 623,
   "volume": 92000.0
 }

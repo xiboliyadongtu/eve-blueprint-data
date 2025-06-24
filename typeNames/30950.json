@@ -1,5 +1,18 @@
 {
-  "typeID": 30950,
+  "capacity": 450.0,
+  "description": {
+    "de": "Diese Corporation-Agenten fungieren als Vermittler zwischen im Weltall reisenden Piloten und ihren stationsgebundenen Ansprechpartnern. Alles von der Zuweisung von Aufträgen bis hin zur Beschaffung geheimer Dokumente kann von autorisierten Kontaktpersonen erledigt werden.",
+    "en": "These corporate agents act as intermediaries between spacefaring pilots and their station-bound counterparts. Anything from the assignment of work to intelligence provision can be handled by authorized liaisons.",
+    "es": "Estos agentes corporativos actúan como intermediarios entre pilotos espaciales y sus homólogos vinculados a la estación. Cualquier cosa, desde la asignación de trabajo hasta la provisión de inteligencia, se puede gestionar a través de enlaces autorizados.",
+    "fr": "Ces agents de corporation font office d'intermédiaires entre les pilotes spatiaux et leurs homologues rattachés aux stations. Ces liaisons peuvent à la fois attribuer les différentes tâches et fournir de précieux renseignements.",
+    "ja": "宇宙を飛び回るパイロットとステーションに留まっている同僚との間の仲介役を果たすコーポレーションエージェント。権限ある連絡部門として仕事の割り当てから情報提供まであらゆる業務を処理できる。",
+    "ko": "우주를 여행하는 파일럿들과 정거장에 상주하고 있는 에이전트들 사이를 중재합니다. 임무수행부터 정보제공까지 다양한 활동을 합니다.",
+    "ru": "Агенты корпораций выступают в качестве посредников между пилотами, живущими в космосе и их партнерами внутри станций. Уполномоченные контактные лица могут организовать всё, что угодно, от назначения на работу, до предоставления разведданных.",
+    "zh": "这些协作联络员是进行星际远航的飞行员和他们的空间站附体之间的通讯中介。授权的联络员可以执行从普通任务到情报供给的各种任务。"
+  },
+  "graphicID": 49,
+  "groupID": 673,
+  "mass": 9600000.0,
   "name": {
     "de": "Corporate Liaison",
     "en": "Corporate Liaison",
@@ -10,5 +23,10 @@
     "ru": "Corporate Liaison",
     "zh": "协作联络员"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 150.0,
+  "sofFactionName": "caldaribase",
   "volume": 96000.0
 }

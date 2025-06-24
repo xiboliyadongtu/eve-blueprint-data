@@ -1,5 +1,18 @@
 {
-  "typeID": 34385,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieses Lagerdepot scheint in tadellosem Zustand zu sein. Was auch immer sich im Innern befindet, sollte völlig unversehrt sein, und ist nur eine Reliktanalyse weit entfernt.",
+    "en": "This storage depot seems to be in pristine condition. Whatever is stored inside should be completely unscathed and is only a relic analyzing away from being available.",
+    "es": "Este depósito de almacenamiento parece estar en perfectas condiciones. Todo lo que se almacena en su interior debería estar completamente intacto y solo falta analizar la reliquia para que esté disponible.",
+    "fr": "Ce dépôt de stockage semble être en parfaite condition. Quoiqu'il contienne, cela doit être en parfait état. À portée d'analyseur de relique.",
+    "ja": "この保管庫は手つかずの状態であるようだ。内部に保管されているものが何であれ、完全に無傷だが、唯一、残骸分析を実施することができない。",
+    "ko": "해당 저장고는 매우 깨끗한 상태입니다. 물건은 저장고 안에 고이 보관되어 있으며 유물 분석 모듈 사용 시 손쉽게 획득할 수 있습니다.",
+    "ru": "Склад выглядит совершенно нетронутым. Что бы там ни было, оно должно быть абсолютно цело; доступ к нему проложит комплекс анализа артефактов.",
+    "zh": "这个储藏库似乎并未受损，仓库内应该存有完好的物品，只需要遗迹分析就可以获得。"
+  },
+  "graphicID": 2301,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Pristine Storage Depot",
     "en": "Pristine Storage Depot",
@@ -10,5 +23,10 @@
     "ru": "Pristine Storage Depot",
     "zh": "完好的储藏库"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 600.0,
+  "sofFactionName": "genericmetal",
   "volume": 27500.0
 }

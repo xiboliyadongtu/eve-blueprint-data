@@ -1,5 +1,17 @@
 {
-  "typeID": 354869,
+  "basePrice": 500.0,
+  "description": {
+    "de": "Test-Infanteriemodul, das die Ladegeschwindigkeit von Fahrzeugschilden erhöht.",
+    "en": "Test infantry module that boosts vehicle shield recharge rate",
+    "es": "Un módulo de prueba de infantería que potencia el índice de recarga del escudo del vehículo",
+    "fr": "Testez le module d'infanterie qui augmente la vitesse de recharge de bouclier du véhicule",
+    "it": "Verifica il modulo di fanteria che aumenta la velocità di ricarica degli scudi di veicoli.",
+    "ja": "車両シールドのリチャージ率を向上させる歩兵モジュールのテスト",
+    "ko": "프로토타입 보병 전용 모듈로 차량의 실드 재생속도를 향상합니다.",
+    "ru": "Test infantry module that boosts vehicle shield recharge rate",
+    "zh": "可提高载具护盾回充速率的测试步兵装备"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Fahrzeugschildlader",
     "en": "Vehicle Shield Recharger",
@@ -11,5 +23,7 @@
     "ru": "Система подзарядки щита транспортного средства",
     "zh": "载具护盾回充器"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

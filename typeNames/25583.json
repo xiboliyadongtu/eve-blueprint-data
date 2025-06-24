@@ -1,5 +1,16 @@
 {
-  "typeID": 25583,
+  "description": {
+    "de": "Eine Phoenix, die von einem Agenten geflogen wird.",
+    "en": "A Phoenix piloted by an agent.",
+    "es": "Phoenix pilotada por un agente.",
+    "fr": "Un Phoenix piloté par un agent.",
+    "ja": "エージェントを乗せたフェニックス。",
+    "ko": "에이전트가 조종하는 피닉스입니다.",
+    "ru": "Корабль класса Revelation, управляемый агентом.",
+    "zh": "代理人驾驶的凤凰级飞船。"
+  },
+  "graphicID": 2786,
+  "groupID": 517,
   "name": {
     "de": "Lauka Ikunol's Phoenix",
     "en": "Lauka Ikunol's Phoenix",
@@ -10,5 +21,9 @@
     "ru": "Lauka Ikunol's Phoenix",
     "zh": "劳卡·伊昆诺的凤凰级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 1700.0,
+  "sofFactionName": "caldaribase"
 }

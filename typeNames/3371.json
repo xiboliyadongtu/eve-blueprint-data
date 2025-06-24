@@ -1,5 +1,17 @@
 {
-  "typeID": 3371,
+  "basePrice": 50000.0,
+  "description": {
+    "de": "Fertigkeit zur Führung von Corporation-Büros.",
+    "en": "Skill at managing corporate offices.",
+    "es": "Habilidad para gestionar oficinas corporativas.",
+    "fr": "Compétence liée à la gestion des bureaux d'une corporation.",
+    "ja": "コーポレーションのオフィスを管理するスキル。",
+    "ko": "코퍼레이션 사무소 관리를 위한 스킬입니다.",
+    "ru": "Навык управления офисами корпорации.",
+    "zh": "管理军团办公室的技能"
+  },
+  "groupID": 266,
+  "iconID": 33,
   "name": {
     "de": "Public Relations",
     "en": "Public Relations",
@@ -10,5 +22,7 @@
     "ru": "Связи с общественностью",
     "zh": "公共关系学"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

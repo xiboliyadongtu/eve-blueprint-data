@@ -1,5 +1,19 @@
 {
-  "typeID": 2117,
+  "description": {
+    "de": "Strahlt zufallsgesteuerte, elektronische Impulse aus, die die Zielaufschaltungen von jedem Schiff in Reichweite stören können. Aufgrund der Instabilität der Impulse und der starken inneren Abschirmung, die nötig ist, damit die Impulse nicht den eigenen Ausgangspunkt stören, benötigt dieses Modul für den Betrieb große Mengen an Energie aus dem Energiespeicher. Hinweis: Es kann immer nur ein Modul dieses Typs aktiviert werden. Zusätzlich wird die Unterbrechungsaufhebung durch Ausrüsten eines Burst-Störsender-Moduls deaktiviert.",
+    "en": "Emits random electronic bursts which have a chance of momentarily disrupting target locks on ships within range.\r\n\r\nThis module can be equipped to Battleship, Marauder, Black Ops, Command Ship, Hauler, Blockade Runner, and Deep Space Transport ships.\r\n\r\nNote: Only one module of this type can be activated at the same time. Additionally, fitting a Burst Jammer module will disable interdiction nullification.",
+    "es": "Emite ráfagas electrónicas aleatorias que tienen la posibilidad de interrumpir momentáneamente la fijación de objetivos de las naves que estén en el radio de alcance.\n\nDebido a la naturaleza inestable de las ráfagas y la cantidad de blindaje interno necesario para garantizar que no afectan a su propio punto de origen, este módulo requiere grandes cantidades de energía del condensador para funcionar.\n\nAviso: Solo se puede activar un módulo de este tipo a la vez. Además, si hay un módulo perturbador de ráfagas equipado, la anulación de interdicción queda inutilizada.",
+    "fr": "Des salves électroniques aléatoires sont émises afin de perturber momentanément le verrouillage de cible des vaisseaux à portée. Étant donné la nature instable des salves et la quantité de blindage interne nécessaire pour éviter qu'elles n'affectent leur propre point d'origine, le fonctionnement de ce module requiert de grandes quantités d'énergie des capaciteurs. Remarque : Un seul module de ce type peut être activé à la fois. Par ailleurs, l'installation d'un module brouilleur à salves désactivera la nullification d’interdictions.",
+    "ja": "無指向性電子バーストを発し、一定の確率で、範囲内の艦船のターゲットロックを一時的に妨害する。\n\n\n\nバーストの性質が不安定で、自身に影響を与えないように内部シールドを十分に施さなければならないため、本モジュールの操作には大量のキャパシタエネルギーを要する。\n\n\n\n注：このタイプのモジュールを複数同時に起動することはできない。またバーストジャマーモジュールを装備していると、インターディクション無効化が使えなくなる。",
+    "ko": "광역 전자 버스트를 무작위로 방출하여 범위 내 함선의 타겟팅 시스템을 일시적으로 교란합니다. <br><br>버스트의 불안정성으로 인해 내부 실드가 항시 가동되어야 하며 그로 인해 상당한 양의 에너지가 요구됩니다. <br><br>참고: 같은 종류의 모듈을 동시에 사용할 수 없습니다. 버스트 재머 장착 시 인터딕션 차단 효과가 사라집니다.",
+    "ru": "Генерирует случайные электронные импульсы, способные сбить систему захвата цели на кораблях, находящихся в радиусе действия. Принимая во внимание нестабильную природу импульсов и количество внутренних щитов, требующихся для изоляции от них своего же корабля, этот модуль потребляет очень много энергии накопителя во время работы. Примечание: за раз можно активировать только один модуль этого типа. Также установка модуля глушителя импульса отключит систему обхода варп-заграждений.",
+    "zh": "这个设备可以释放不规则的电子脉冲，有一定几率能够在短时间内干扰有效范围内目标的锁定技能。\n\n\n\n考虑到脉冲波的不稳定性和需要强大的内部屏蔽装置来防止其干扰到自身发射载体的工作，这种装备需要大量电容能量才能运行。\n\n\n\n注：只能同时启动一个这样的装备。此外，装配脉冲干扰器会使拦截无效。"
+  },
+  "groupID": 80,
+  "iconID": 109,
+  "marketGroupID": 678,
+  "mass": 5000.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Burst Jammer II",
     "en": "Burst Jammer II",
@@ -10,5 +24,8 @@
     "ru": "Burst Jammer II",
     "zh": "脉冲干扰器 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 580,
   "volume": 5.0
 }

@@ -1,5 +1,19 @@
 {
-  "typeID": 33076,
+  "capacity": 0.08,
+  "description": {
+    "de": "Dieses Modul verwendet Nano-Reparaturbots, um Schäden an der Panzerung des Schiffes zu beheben. Optional kann dieses Modul Nanobot-Reparaturpaste verwenden, um die Effektivität von Reparaturen zu erhöhen. Wenn Sie das Modul deaktivieren, während keine Nanobot-Reparaturpaste geladen ist, wird Nanobot-Reparaturpaste aus dem Frachtraum nachgeladen, sofern welche vorhanden ist. \n\nHinweis: Kann Nanobot-Reparaturpaste als Treibstoff verwenden. Die Nachladezeit beträgt 60 Sekunden. Prototyp Inferno Modul.",
+    "en": "This module uses nano-assemblers to repair damage done to the armor of the ship. The module can optionally use Nanite Repair Paste to increase repair effectiveness. Deactivating the module while it has no Nanite Repair Paste loaded starts reloading, if there is Nanite Repair Paste available in cargo hold. \r\n\r\nNote: Can use Nanite Repair Paste as fuel. Reloading time is 60 seconds. Prototype Inferno Module.",
+    "es": "Este módulo utiliza nanoensambladores para reparar el daño infligido al blindaje de la nave. El módulo puede usar el fluido reparador de nanobots para aumentar la efectividad de reparación. Al desactivar el módulo cuando no tiene fluido reparador de nanobots cargado, este se recarga si hay fluido disponible en la bodega. \n\n\n\nAviso: Puede usar fluido reparador de nanobots como combustible. El tiempo de recarga es de 60 segundos. Prototipo de módulo Inferno.",
+    "fr": "Module utilisant des nano-assembleurs pour réparer les dégâts infligés au blindage du vaisseau. Le module peut également utiliser des nanites de réparation pour améliorer l'efficacité des réparations. Si les  nanites de réparation ne sont pas chargées, la désactivation du module enclenchera un rechargement, si les nanites de réparation sont bien disponibles dans la soute de chargement. \n\nRemarque : peut utiliser les nanites de réparation en guise de carburant. Le temps de recharge est de 60 secondes. Module de prototype Inferno.",
+    "ja": "このモジュールはナノアセンブラーを使って艦船の装甲の損傷を修復する。オプションとして、ナノマシンリペアペイストを使うとリペア効率を高めることができる。このモジュールをナノマシンリペアペイストが装填されていない状態で非アクティブにすると、カーゴホールドに使えるナノマシンリペアペイストがあれば、自動的に再装填を開始する。注: 燃料としてナノマシンリペアペイストを使用する。リロード時間は60秒。プロトタイプインフェルノモジュール。",
+    "ko": "나노 어셈블러를 사용하여 함선의 손상된 장갑을 수리하는 모듈입니다. 나나이트 용액을 주입하여 수리 효율성을 향상할 수 있습니다. 나나이트 용액이 주입되지 않은 상태에서 모듈을 비활성화하게 될 경우 화물실에 적재되어 있는 용액이 자동으로 주입됩니다. <br><br>참고: 나나이트 용액을 주입할 수 있습니다. 재장전 시간은 60초입니다. 프로토타입 인페르노 모듈입니다.",
+    "ru": "Модуль, предназначенный для ремонта броневой защиты корабля с помощью наноразмерных ремонтных устройств. Эффективность действия модуля может быть повышена за счёт применения <a href=showinfo:28668>ремонтной нанопасты</a>. При наличии в грузовом отсеке корабля нанопасты отключение модуля, в который не была загружена нанопаста, автоматически приведёт к началу процедуры загрузки в модуль расходного материала.\n\nПримечание: в качестве расходного материала может применяться ремонтная нанопаста. Продолжительность процедуры загрузки нанопасты — 60 секунд. Модуль-прототип категории «Инферно».",
+    "zh": "该装备使用纳米级装配器来修复对舰船装甲造成的损伤。该装备可以选用纳米体修复粘合剂来增强其效果。如果货柜舱里有纳米体修复粘合剂，那停用该装备之后，它将自动装载那些粘合剂。注：可将纳米体修复粘合剂用作燃料。它的重新装载持续时间为60秒。原型装备。"
+  },
+  "groupID": 1199,
+  "iconID": 80,
+  "marketGroupID": 1049,
+  "mass": 500.0,
   "name": {
     "de": "Small Ancillary Armor Repairer",
     "en": "Small Ancillary Armor Repairer",
@@ -10,5 +24,7 @@
     "ru": "Small Ancillary Armor Repairer",
     "zh": "小型辅助装甲维修器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 5.0
 }

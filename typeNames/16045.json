@@ -1,5 +1,19 @@
 {
-  "typeID": 16045,
+  "basePrice": 100.0,
+  "description": {
+    "de": "Diese großen Container sind mit einem kennwortgeschützten Sicherheitsschloss ausgestattet.",
+    "en": "These large containers are fitted with a password-protected security lock.",
+    "es": "Estos contenedores grandes están equipados con un cierre de seguridad protegido por contraseña.",
+    "fr": "Ces grands conteneurs sont équipés d'un verrou de sécurité protégé par mot de passe.",
+    "ja": "パスワード式ロック機能付きの大型コンテナ。",
+    "ko": "암호화된 보안 장치가 장착되어 있는 대형 컨테이너입니다.",
+    "ru": "Эти огромные контейнеры защищены замком с паролем.",
+    "zh": "这些大型集装箱配备了密码保护安全锁。"
+  },
+  "graphicID": 1171,
+  "groupID": 314,
+  "iconID": 1171,
+  "mass": 1000.0,
   "name": {
     "de": "Large Sealed Cargo Containers",
     "en": "Large Sealed Cargo Containers",
@@ -10,5 +24,8 @@
     "ru": "Large Sealed Cargo Containers",
     "zh": "大型密封货柜"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "genericmetal",
   "volume": 100.0
 }

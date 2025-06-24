@@ -1,5 +1,18 @@
 {
-  "typeID": 77303,
+  "capacity": 500000.0,
+  "description": {
+    "de": "Als mobile Verteilungsplattform für militärischen Nachschub bildet diese Fenrir einen Teil der logistischen Versorgungsinfrastruktur der republikanischen Navy.",
+    "en": "Part of the Republic Navy’s logistical support infrastructure, this Fenrir is a mobile distribution platform for military supplies.",
+    "es": "Esta Fenrir, perteneciente a la infraestructura de apoyo logístico de la Armada de la República, es una plataforma de distribución móvil para suministros militares.",
+    "fr": "Ce Fenrir est une plateforme de distribution mobile de matériel militaire appartenant à l'infrastructure de soutien logistique de la Navy de la République.",
+    "ja": "このフェンリルは軍需物資の移動分配プラットフォームとして機能しており、共和国海軍のロジスティクス補助インフラの一部となっている。",
+    "ko": "군용 물자를 배급하는 이동식 플랫폼으로 사용되는 펜리르 함선입니다. 공화국 해군 군수 지원 인프라의 일부를 담당합니다.",
+    "ru": "Фрейтеры типа Fenrir являются частью логистической системы республиканского флота. Такие корабли используются для доставки военных грузов.",
+    "zh": "作为共和国海军后勤保障基础设施的一部分，这艘芬利厄级舰船被用作一个移动式军事物资配送平台。"
+  },
+  "graphicID": 2737,
+  "groupID": 952,
+  "mass": 100000.0,
   "name": {
     "de": "Fenrir Quartermaster",
     "en": "Fenrir Quartermaster",
@@ -10,5 +23,8 @@
     "ru": "Fenrir Quartermaster",
     "zh": "芬利厄级军需官"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 550.0,
+  "sofFactionName": "minmatarbase"
 }

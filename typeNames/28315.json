@@ -1,5 +1,19 @@
 {
-  "typeID": 28315,
+  "basePrice": 20000000.0,
+  "capacity": 20000.0,
+  "description": {
+    "de": "Eine Einrichtung, die sich um Nutzvieh kümmert, welches kürzlich eingefangen wurde.",
+    "en": "A facility for reception of recently captured livestock for blessing.",
+    "es": "Una instalación para la recepción de ganado recién capturado para su bendición.",
+    "fr": "Installations permettant de parquer le bétail capturé.",
+    "ja": "捕獲されたばかりの生命体が承認を受けるための施設。",
+    "ko": "제물용으로 최근 사로잡은 가축들을 가두어두는 시설입니다.",
+    "ru": "Помещение для благословления недавно захваченных рабов.",
+    "zh": "一座容纳新抓获的劳工的场所，对他们进行“祝福”。"
+  },
+  "graphicID": 2598,
+  "groupID": 404,
+  "mass": 100000000.0,
   "name": {
     "de": "Holding Pen",
     "en": "Holding Pen",
@@ -10,5 +24,9 @@
     "ru": "Holding Pen",
     "zh": "集中营"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 907.0,
+  "sofFactionName": "genericmetal",
   "volume": 4000.0
 }

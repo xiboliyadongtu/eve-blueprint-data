@@ -1,5 +1,17 @@
 {
-  "typeID": 364616,
+  "basePrice": 787000.0,
+  "description": {
+    "de": "Skill in der Bedienung von Minmatar-Logistikdropsuits. Schaltet den Zugriff auf Minmatar-Logistikdropsuits frei. Standard ab Stufe 1, erweitert ab Stufe 3 und Prototypen ab Stufe 5. Logistikdropsuitbonus: 5% Abzug auf die PG/CPU-Kosten von Equipment pro Skillstufe.. Minmatar-Logistikdropsuitbonus: +10% auf die Reichweite von Reparaturwerkzeugen und +5% auf die Reparaturrate pro Skillstufe.",
+    "en": "Skill at operating Minmatar Logistics dropsuits.\r\n\r\nUnlocks access to Minmatar Logistics dropsuits. Standard at lvl.1; advanced at lvl.3; prototype at lvl.5.\r\n\r\nLogistics Suit Bonus: 5% reduction to PG/CPU cost of equipment  per level.\r\nMinmatar Logistics Bonus: +10% to repair tool range and +5% to repair amount per level.",
+    "es": "Habilidad de manejo de trajes de salto logísticos Minmatar. Desbloquea el acceso a los trajes de salto logísticos Minmatar: Estándar en el nivel 1, avanzados en el nivel 3 y prototipos en el nivel 5. Bonificación de traje logístico: -5% al coste de RA/CPU del equipo por nivel. Bonificación de traje logístico Minmatar: +10% al alcance de la herramienta de reparación y +5% a la cantidad de reparaciones por nivel.",
+    "fr": "Compétence permettant d'utiliser les combinaisons Logistique Minmatar. Déverrouille l'accès aux combinaisons Logistique Minmatar. Standard au niv.1 ; avancé au niv.3 ; prototype au niv.5. Bonus de combinaison Logistique : 5 % de réduction d'utilisation de PG/CPU de l'équipement par niveau. Bonus Logistique Minmatar : +10 % de portée de l'outil de réparation et +5 % de quantité de réparation par niveau.",
+    "it": "Abilità nell'utilizzo delle armature logistiche Minmatar. Sblocca l'accesso alle armature logistiche Minmatar. Standard al liv. 1; avanzate al liv. 3; prototipo al liv. 5. Bonus armatura logistica: 5% di riduzione all'utilizzo della rete energetica/CPU dell'equipaggiamento per livello. Bonus logistica Minmatar: +10% alla portata dello strumento di riparazione e +5% alla quantità di riparazioni per livello.",
+    "ja": "ミンマターロジスティクス降下スーツを扱うためのスキル。ミンマターロジスティクス戦闘スーツが使用できるようになる。レベル1で標準型、レベル3で高性能、レベル5でプロトタイプ。ロジスティクススーツボーナス：レベル上昇ごとに、装備のPG/CPU消費量が5%減少する。ミンマターロジスティクスボーナス: レベル上昇ごとに、リペアツール範囲が10%上昇し、リペア量が5%上昇する。",
+    "ko": "민마타 지원형 강하슈트를 운용하기 위한 스킬입니다. <br><br>민마타 지원형 강하슈트를 잠금 해제합니다. 레벨 1 - 일반, 레벨 3 - 상급, 레벨 5 - 프로토타입 <br><br>지원형 슈트 보너스: <br><br>매 레벨마다 장비 PG/CPU 요구치 5% 감소 <br><br>민마타 지원형 장비 보너스:<br><br>매 레벨마다 원격 수리 범위 10% 및 수리량 5% 증가",
+    "ru": "Навык обращения с ремонтными скафандрами Минматар. Позволяет использовать ремонтные скафандры Минматар. Стандартные - на уровне 1; усовершенствованные - на уровне 3; прототипы - на уровне 5. Бонус ремонтного скафандра: 5% сокращение потребления ресурсов ЭС/ЦПУ для снаряжения на каждый уровень. Бонус ремонтного скафандра Минматар: +10% к дальности действия ремонтного инструмента и +5% к объему ремонта на каждый уровень.",
+    "zh": "操作米玛塔尔后勤作战服的技能。解锁米玛塔尔后勤作战服。1级解锁标准版；3级解锁高级版；5级解锁原型版。后勤套装加成：每升一级，设备的PG/CPU成本降低5%。米玛塔尔后勤加成：每升一级，修复工具的应用范围增加10%，修复量增加5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Minmatar-Logistikdropsuit",
     "en": "Minmatar Logistics Dropsuit",
@@ -11,5 +23,6 @@
     "ru": "Ремонтные скафандры Минматар",
     "zh": "米玛塔尔后勤作战服"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

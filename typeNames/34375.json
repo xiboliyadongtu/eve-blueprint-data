@@ -1,5 +1,18 @@
 {
-  "typeID": 34375,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Zugriff auf dieses Gerät gibt Ihnen eine grafische Darstellung für eine Koordinate. Sie muss in ein Fernkalibrierungsgerät eingegeben werden, um den unbenutzbaren Spalt in der Nähe zu kalibrieren. Sie benötigen drei Diagramme, um die Koordinate zu vervollständigen.",
+    "en": "Accessing this device will give you a plot for a coordinate. It needs to be entered into a Remote Calibration Device to calibrate the unusable rift in the vicinity. You need three plots to complete the coordinate.",
+    "es": "Acceder a este dispositivo te proporcionará un plano para una coordenada. Hay que introducirlo en un dispositivo de calibración remota para calibrar la grieta inservible de las inmediaciones. Necesitas tres planos para completar la coordenada.",
+    "fr": "Ce dispositif vous donnera un point pour le placement d'une coordonnée. Celle-ci doit être entrée dans un dispositif de calibrage à distance pour pouvoir calibrer la faille inutilisable se trouvant dans les environs. Il vous faut 3 points pour achever les coordonnées.",
+    "ja": "本装置にアクセスすると座標が表示される。近隣の使用不可能な裂け目を調整するには、遠隔キャリブレーション装置へ座標を入力すること。座標を完成させるには3点の表示が必要だ。",
+    "ko": "활성화 시 좌표 하나가 제공됩니다. 해당 좌표를 원격 정렬 장치에 입력하게 되면 균열이 정렬됩니다. 정렬을 완료하기 위해서는 총 세 개의 좌표가 필요합니다.",
+    "ru": "Доступ к этому устройству позволит вам получить данные по оси координат Данные следует ввести в устройство дистанционной калибровки, чтобы откалибровать находящийся поблизости неиспользуемый разлом пространства. Чтобы получить координаты, потребуются данные по трём осям.",
+    "zh": "你可以从该装置中获得一张坐标图。把它放入远程校准装置中就可以校准附近不可用的裂隙了。你需要3张坐标图来获得坐标。"
+  },
+  "graphicID": 3534,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Coordinate Plotting Device",
     "en": "Coordinate Plotting Device",
@@ -10,5 +23,10 @@
     "ru": "Coordinate Plotting Device",
     "zh": "坐标测绘装置"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 508.0,
+  "sofFactionName": "talocanbase",
   "volume": 27500.0
 }

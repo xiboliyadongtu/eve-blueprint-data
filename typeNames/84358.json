@@ -1,5 +1,17 @@
 {
-  "typeID": 84358,
+  "capacity": 0.1,
+  "description": {
+    "de": "Ein Drifter-Wurmlochgenerator mit Funktionen zur Hyperraumkommunikation.",
+    "en": "A Drifter wormhole generator with hyperspace communication capabilities.",
+    "es": "Un generador de agujeros de gusano drifters con capacidades de comunicación hiperespacial.",
+    "fr": "Générateur de trous de ver drifter doté de capacités de communication hyperespatiale.",
+    "ja": "ハイパースペース通信機能を備えたドリフターのワームホール発生装置。",
+    "ko": "하이퍼스페이스 통신 기능을 갖춘 드리프터 웜홀 생성기입니다.",
+    "ru": "Этот генератор червоточин Скитальцев способен устанавливать гиперпространственные связи.",
+    "zh": "一个流浪者虫洞发生器，具有超空间通信功能。"
+  },
+  "graphicID": 3533,
+  "groupID": 952,
   "name": {
     "de": "Phryctorian Generator",
     "en": "Phryctorian Generator",
@@ -10,5 +22,8 @@
     "ru": "Phryctorian Generator",
     "zh": "弗里多里安发生器"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 241.0,
+  "sofFactionName": "sleeperbase"
 }

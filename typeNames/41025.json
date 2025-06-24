@@ -1,5 +1,19 @@
 {
-  "typeID": 41025,
+  "basePrice": 30.0,
+  "description": {
+    "de": ">> AUFZEICHNUNG BEGINNT\n\n>> 22:41 – IR 6-6\n\n>> TERMINAL 00401 – ECHO PROGRAMM\n\n>> TEXTÜBERTRAGUNG FOLGT\n\n\n\n>>ECHO BESCHÄDIGT\n\n22:41 – K/001/44 – “Nummer 654.”\n\n22:41 – L/001/01 – “Ja, was haben Sie gefunden?”\n\n22:41 – K/001/44 – “Wir… wir haben sie gefunden. Vitrauze, vorbereiten auf… auf Einsatz mit Anfängern.”\n\n22:41 – L/001/01 – “Exzellent. Bereiten Sie die Einsatzgruppe vor.”\n\n22:42 >>>>\n\n>> ECHO BESCHÄDIGT",
+    "en": ">>CAPTURE INIT.\r\n>> 22:41 – IR 6-6\r\n>> TERMINAL 00401 – ECHO PROGRAM\r\n>> TEXT TRANSCRIPT FOLLOWS\r\n\r\n>>ECHO CORRUPT\r\n22:41 – K/001/44 – “Number 654.”\r\n22:41 – L/001/01 – “Yeah, what did you find?”\r\n22:41 – K/001/44 – “We… we found her. Vitrauze, preparing for… for deployment with rookies.”\r\n22:41 – L/001/01 – “Excellent. Prepare the taskforce.”\r\n22:42 >>>>\r\n>> ECHO TABLE CORRUPT",
+    "es": ">>CAPTURA INIC.\n\n>> 22:41 — IR 6-6\n\n>> TERMINAL 00401: PROGRAMA ECO\n\n>> TRANSCRIPCIÓN DE TEXTO A CONTINUACIÓN\n\n>>ECO DAÑADO\n\n22:41 – K/001/44: «Número 654».\n\n22:41 – L/001/01: «Sí, ¿qué has encontrado?».\n\n22:41 – K/001/44: «La... la hemos encontrado. A Vitrauze, nos preparamos para... el despliegue con los novatos».\n\n22:41 – L/001/01: «Excelente. Prepara la unidad especial».\n\n22:42 >>>>\n\n>> TABLA DE ECO DAÑADA",
+    "fr": ">> DÉBUT ENREGISTREMENT\n\n>> 22 : 41 – IR 6-6\n\n>> TERMINAL 00401 – PROGRAMME ÉCHO\n\n>> TRANSCRIPTION TEXTUELLE\n\n\n\n>> ÉCHO CORROMPU\n\n22 : 41 – K/001/44 – “Numéro 654.”\n\n22 : 41 – L/001/01 – “Ouais ? Du nouveau ?”\n\n22 : 41 – K/001/44 – “Nous… nous l'avons trouvée. À Vitrauze. Elle prépare un… un déploiement avec des recrues.”\n\n22 : 41 – L/001/01 – “Excellent. Prépare l'unité d'intervention.”\n\n22 : 42 >>>>\n\n>> TABLE ÉCHO CORROMPUE",
+    "ja": ">>CAPTURE INIT. >> 22:41 – IR 6-6 >> TERMINAL 00401 – ECHO PROGRAM >> TEXT TRANSCRIPT FOLLOWS >>ECHO CORRUPT 22:41 – K/001/44 – 「ナンバー654。」 22:41 – L/001/01 – 「それで、何が見つかった？」 22:41 – K/001/44 – 「やっと…あいつを見つけたよ。ヴィトローゼだ。今は…今はルーキーたちを配備中だ。」 22:41 – L/001/01 – 「よくやった。機動部隊の準備に入れ。」 22:42 >>>> >> ECHO TABLE CORRUPT",
+    "ko": ">>캡쳐 개시<br><br>>> 22:41 – IR 6-6 <br><br>>> 터미널 00401 – 에코 프로그램 실행 <br><br>>> 텍스트 기록 나열 <br><br>>> 에코 손상 <br><br>22:41 – K/001/44 - \"번호 654.\" <br><br>22:41 – L/001/01 – “그래 , 뭘 찾은거요?” <br><br>22:41 – K/001/44 – “우리가… 우리가 그녀를 찾았어. 비트라우즈, 신입…들과 병력 전개중.” <br><br>22:41 – L/001/01 – “훌륭하다. 대응팀을 준비시켜라.\" <br><br>22:42 >>>> <br><br>>> 에코 테이블 손상 심각",
+    "ru": ">> НАЧАЛО ЗАПИСИ\n\n>> 22:41 – IR 6-6\n\n>> ТЕРМИНАЛ 00401 — ВЫВОД ПРОГРАММЫ\n\n>> ДАЛЕЕ ПРИВОДИТСЯ РАСШИФРОВКА ЗАПИСИ\n\n\n\n>> ЗАПИСЬ ПОВРЕЖДЕНА\n\n22:41 – K/001/44 – «Номер 654».\n\n22:41 – L/001/01 – «Да, что тебе удалось обнаружить?»\n\n22:41 – K/001/44 – «Мы... мы нашли её. Она в системе Витроз, готовится к... к высадке с новичками».\n\n22:41 – L/001/01 – «Чудненько. Готовьте оперативную группу».\n\n22:42 >>>>\n\n>> ТАБЛИЦА ВЫВОДА ПОВРЕЖДЕНА",
+    "zh": ">> 捕捉初始化\n\n>> 22:41 – IR 6-6\n\n>> 00401号终端 – 埃克程序\n\n>> 文字记录如下\n\n\n\n>> 埃克程序损坏\n\n22:41 – K/001/44 – “654号”\n\n22:41 – L/001/01 – “是呀，你们发现了什么？”\n\n22:41 – K/001/44 – “我们……我们找到她了。维特拉兹，正和新手准备部署。”\n\n22:41 – L/001/01 – “太棒了，特遣队准备。”\n\n22:42 >>>>\n\n>> 回送表损坏"
+  },
+  "groupID": 280,
+  "iconID": 1192,
+  "marketGroupID": 20,
+  "mass": 1.0,
   "name": {
     "de": "Audio Log Backup – 117/07/01 G-6640",
     "en": "Audio Log Backup – 117/07/01 G-6640",
@@ -10,5 +24,7 @@
     "ru": "Audio Log Backup – 117/07/01 G-6640",
     "zh": "语音日志备份– 117/07/01 G-6640"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.1
 }

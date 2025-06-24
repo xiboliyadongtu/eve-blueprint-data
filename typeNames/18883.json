@@ -1,5 +1,19 @@
 {
-  "typeID": 18883,
+  "description": {
+    "de": "Eine verbesserte Version der Multispektrum-Panzerungsbeschichtung. Verwendet fortschrittliche Magnetfeldgeneratoren, um den Effekt zu verstärken. Gewährt einen Bonus auf die Panzerungsresistenz gegen alle Schadensarten. Sie ist nicht so effektiv wie Membranen, die vor bestimmten Schadensarten schützen. Abzug: Beim Einsatz mehrerer Module des gleichen oder eines ähnlichen Typs, welche dasselbe Attribut beeinflussen, wird deren Wirksamkeit für dieses Attribut eingeschränkt.",
+    "en": "An enhanced version of the multispectrum armor coating. Uses advanced magnetic field generators to strengthen the effect. Grants a bonus to armor resistance against all types of damage. It is less effective than membranes tuned against a specific damage profile.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",
+    "es": "Una versión mejorada del blindaje multiespectro. Utiliza generadores de campo magnético avanzados para reforzar el efecto. Otorga una bonificación a la resistencia del blindaje a todos los tipos de daño. Es menos efectiva que las membranas contra un tipo de daño específico.\n\nPenalización: Por usar más de un tipo de módulo o módulos similares que afecten al mismo atributo de la nave.",
+    "fr": "Version améliorée de la surcouche de blindage multispectre. Elle utilise des générateurs de champ magnétique avancés pour renforcer la résistance du blindage. Offre un bonus à la résistance du blindage à tous les types de dégâts. Elle est toutefois moins efficace que les membranes conçues pour mitiger un type de dégât spécifique. Pénalité : utiliser plus d'un module de ce type ou plusieurs modules modifiant un même attribut du vaisseau fera l'objet d'une pénalité.",
+    "ja": "マルチスペクトルアーマーコーティングの強化型。高性能磁場ジェネレーターを使用して効果を強化する。あらゆるタイプのダメージに対するアーマー耐性にボーナスを付与する。特定のダメージプロファイルに対して調整された装甲よりは効果が低い。\r\n\nペナルティ： 船の同じ属性に関係する同タイプ、もしくは類似のモジュールを複数取り付けると、モジュールの効果が低下する。",
+    "ko": "강화된 다중스팩트럼 장갑 코팅입니다. 첨단 자기장 생성기를 활용하여 내구도를 강화합니다. 모든 속성 저항력이 증가합니다. 단일 피해 속성에 특화된 장비보다 효과가 떨어집니다.<br><br>페널티: 동일한 속성의 모듈 여러 개를 장착할 경우 페널티가 부여됩니다.",
+    "ru": "Усиленная версия универсального покрытия брони. Для усиления эффекта используются продвинутые генераторы магнитных полей. Даёт бонус к сопротивляемости брони всем типам урона. Данная защита менее эффективна, чем покрытия, рассчитанные на урон определённого типа. Внимание! Установка на борт корабля двух и более модулей, влияющих на одну и ту же характеристику, приведёт к снижению эффективности их действия в отношении данной характеристики.",
+    "zh": "多谱式装甲涂层的加强版本。使用了先进的磁场发生器来提高效果。提高装甲的所有抗性。效果比对单一伤害类型的抗性要差一些。\n\n\n\n惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。"
+  },
+  "groupID": 326,
+  "iconID": 2066,
+  "marketGroupID": 1686,
+  "mass": 1.0,
+  "metaGroupID": 6,
   "name": {
     "de": "Centum A-Type Multispectrum Energized Membrane",
     "en": "Centum A-Type Multispectrum Energized Membrane",
@@ -10,5 +24,9 @@
     "ru": "Centum A-Type Multispectrum Energized Membrane",
     "zh": "森塔姆多谱式电压薄膜 A型"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 10.0,
+  "variationParentTypeID": 11267,
   "volume": 5.0
 }

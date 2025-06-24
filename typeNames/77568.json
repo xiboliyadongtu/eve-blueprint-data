@@ -1,5 +1,18 @@
 {
-  "typeID": 77568,
+  "capacity": 135.0,
+  "description": {
+    "de": "Eine Punisher-Fregatte, die aggressive Angriffsmuster einsetzt. Sämtliche Erkennungsmarken wurden aus den Computern dieses Schiffes entfernt und sein Warpantrieb modifiziert, um eine forensische Klärung der Frage, wie es in republikanischen Raum gelangt ist, unmöglich zu machen.",
+    "en": "A Punisher frigate engaging in aggressive attack patterns.\r\n\r\nAll identification tags have been wiped from this ship's computers and its warp drives modified to make forensics tracing of how it arrived in Repubic space impossible.",
+    "es": "Una fragata Punisher que realiza patrones de ataque agresivos.    Se han eliminado todas las chapas identificativas de los ordenadores de esta nave y se han modificado sus motores de warp para hacer imposible el rastreo forense de cómo llegó al espacio de la República.",
+    "fr": "Une frégate Punisher menant des manœuvres d'attaque agressives. Toutes les plaques d'identification ont été effacées des ordinateurs du vaisseau et ses propulseurs de warp ont été modifiés pour que son trajet jusqu'à la République soit impossible à tracer.",
+    "ja": "積極的攻勢パターンを取るパニッシャー級フリゲート。    この艦のコンピューターにはIDタグが一切残っておらず、ワープドライブも改造されている。そのため、デジタルフォレンジック調査により共和国の宙域への侵入方法を突き止めることは不可能となっている。",
+    "ko": "거세게 적을 몰아치는 퍼니셔 프리깃입니다.<br><br>모든 식별 정보가 선내 컴퓨터에서 완전히 삭제되고 워프 드라이브가 개조된 탓에 공화국 영역에 진입한 경로를 추적할 수 없습니다.",
+    "ru": "Этот фрегат типа Punisher применяет агрессивную тактику ведения боя. С компьютеров этого корабля удалены все идентификаторы, а его варп-двигатели модифицированы, поэтому определить, как он оказался в пространстве Республики, теперь невозможно.",
+    "zh": "一艘惩罚者级护卫舰，具有多种富有攻击性的进攻模式。这艘舰船上有一台计算机，上面所有的身份铭牌皆已抹除，其跃迁引擎也经过了改造，无法通过鉴定手段追踪其抵达共和国的途径。"
+  },
+  "graphicID": 300,
+  "groupID": 4569,
+  "mass": 1190000.0,
   "name": {
     "de": "Infiltrating Punisher",
     "en": "Infiltrating Punisher",
@@ -10,5 +23,11 @@
     "ru": "Infiltrating Punisher",
     "zh": "渗透者惩罚者级"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 34.0,
+  "sofFactionName": "amarrbase",
+  "soundID": 20063,
   "volume": 28600.0
 }

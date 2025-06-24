@@ -1,5 +1,18 @@
 {
-  "typeID": 81636,
+  "capacity": 10.0,
+  "description": {
+    "de": "Ein kleines Shuttle, das persönliche Post befördert, um an Zivilisten der Föderation zugestellt zu werden.",
+    "en": "A small shuttle carrying personal mail to be delivered to Federation civilians.",
+    "es": "Pequeña lanzadera que transporta correo personal destinado a los civiles de la Federación.",
+    "fr": "Une petite navette transportant du courrier personnel à livrer aux civils de la Fédération.",
+    "ja": "連邦の民間人宛ての個人的な手紙を運んでいる小型シャトル。",
+    "ko": "갈란테 연방으로 우편물을 전달하는 소형 셔틀입니다.",
+    "ru": "Небольшой шаттл, перевозящий личные почтовые отправления для граждан Федерации.",
+    "zh": "这是一艘小型穿梭机，负责向联邦市民派送私人邮件。"
+  },
+  "graphicID": 2043,
+  "groupID": 4737,
+  "mass": 1600000.0,
   "name": {
     "de": "Mail Shuttle",
     "en": "Mail Shuttle",
@@ -10,5 +23,11 @@
     "ru": "Mail Shuttle",
     "zh": "邮件穿梭机"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 50.0,
+  "sofFactionName": "gallentebase",
+  "soundID": 20080,
   "volume": 28600.0
 }

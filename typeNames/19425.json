@@ -1,5 +1,18 @@
 {
-  "typeID": 19425,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieser von Drohnen gebaute Container treibt lautlos inmitten der Sterne und gibt keinen Hinweis darauf, welche Schätze er verbergen könnte.",
+    "en": "The drone-built container drifts silently amongst the stars, giving no hint to what treasures it may hide.",
+    "es": "El contenedor construido con drones se desplaza silencioso a la deriva entre las estrellas sin desvelar qué tesoros oculta.",
+    "fr": "Le conteneur fabriqué par un drone dérive en silence dans le vide spatial, ne donnant aucun indice sur les trésors qu'il pourrait renfermer.",
+    "ja": "ドローンが組み立てたコンテナ。星屑を縫うようにひっそりと漂い、どんな宝が積まれているのか、外側からうかがい知ることはできない。",
+    "ko": "컨테이너는 알 수 없는 보물을 품은 채 별들 사이를 소리 없이 부유하고 있습니다.",
+    "ru": "Контейнер, построенный дронами, который потихоньку дрейфует между звезд и не дает ни намека на то, что в нем хранится.",
+    "zh": "这个由无人机建造的货柜无声地漂浮在星辰之间，丝毫不向人透露它里面可能藏了什么宝藏。"
+  },
+  "graphicID": 2398,
+  "groupID": 496,
+  "mass": 10000.0,
   "name": {
     "de": "Black Drone Container",
     "en": "Black Drone Container",
@@ -10,5 +23,10 @@
     "ru": "Black Drone Container",
     "zh": "黑色无人机货柜"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 63.0,
+  "sofFactionName": "roguebase",
+  "soundID": 31,
   "volume": 27500.0
 }

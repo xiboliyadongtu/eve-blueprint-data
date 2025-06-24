@@ -1,5 +1,19 @@
 {
-  "typeID": 11239,
+  "description": {
+    "de": "Eine verbesserte Version der mehrschichtigen Panzerungsbeschichtung. Verwendet fortschrittliche Magnetfeldgeneratoren, um den Zusammenhalt der Schichten zu stärken, was die HP der Panzerung noch weiter erhöht.",
+    "en": "An enhanced version of the layered armor coating. Uses advanced magnetic field generators to strengthen the integrity of the coating layers, effectively increasing the armor hit points even further.",
+    "es": "Una versión mejorada del blindaje por capas. Utiliza generadores de campo magnético avanzados para reforzar la integridad del recubrimiento por capas, aumentando aún más los puntos de vida del blindaje.",
+    "fr": "Version améliorée de la surcouche de blindage superposée. Elle utilise des générateurs de champ magnétique avancés pour renforcer l'intégrité des couches de blindage et accroître efficacement les points de vie du blindage.",
+    "ja": "多層アーマーコーティングの強化型。高性能磁場ジェネレーターを使用して多層コーティングの完全性を高め、アーマーヒットポイントを効率的に上昇させる。",
+    "ko": "강화된 중첩 장갑 코팅입니다. 첨단 자기장 생성기를 이용하여 코팅의 내구도를 향상합니다.",
+    "ru": "Усиленная версия многослойного покрытия брони. Благодаря использованию продвинутых генераторов магнитных полей усиливается целостность защитных слоёв, благодаря чему удаётся дополнительно увеличить запас прочности брони.",
+    "zh": "覆层装甲涂层的加强版本。使用了先进的磁场发生器来提高涂层的完整性，有效提高装甲值。"
+  },
+  "groupID": 326,
+  "iconID": 2066,
+  "marketGroupID": 1687,
+  "mass": 1.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Layered Energized Membrane II",
     "en": "Layered Energized Membrane II",
@@ -10,5 +24,9 @@
     "ru": "Layered Energized Membrane II",
     "zh": "覆层电压薄膜 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 10.0,
+  "variationParentTypeID": 11237,
   "volume": 5.0
 }

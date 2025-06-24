@@ -1,5 +1,17 @@
 {
-  "typeID": 78814,
+  "description": {
+    "de": "Dieses Signalfeuer markiert einen großen Standort des Corporate-Außenpostens. Das Eingangstor ist so konfiguriert, dass es Tech I, Tech II und alle Fraktionsschiffe der Schlachtschiffgröße oder kleiner einlässt. Die in diesem Beschleunigungstor installierten Sicherheitsfunktionen verhindern die Aktivierung durch alle mit Warpkern-Stabilisatormodulen ausgestatteten Schiffe.",
+    "en": "This beacon marks a large Corporate Outpost location. The entry gate is configured to admit Tech I, Tech II and all faction ships of Battleship size or smaller.\r\n\r\nThe security features installed in this acceleration gate will prevent activation by any ship that is fitted with warp core stabilizer modules.",
+    "es": "Esta baliza marca una ubicación grande de puesto avanzado corporativo. El portal de entrada está configurado para admitir naves T1, T2 y todas las naves faccionarias de tamaño acorazado o más pequeño.\r\n\r\nLas funciones de seguridad instaladas en este portal de aceleración impiden que lo active ninguna nave con módulos estabilizadores del núcleo de warp.",
+    "fr": "Cette balise marque l'emplacement d'un grand avant-poste de corporation. Le portail d'entrée est configuré pour admettre les vaisseaux Tech I, Tech II et tous les vaisseaux de faction de taille cuirassé ou plus petits. Les fonctions de sécurité installées sur ce portail d'accélération empêchent tout vaisseau équipé de modules de stabilisateur du réacteur de warp de l'activer.",
+    "ja": "大規模なコーポレーションアウトポストを示すビーコン。このエントリーゲートは、戦艦以下のサイズのT1とT2艦船、そして全ての勢力専用艦が通過できる設定になっている。\r\n\r\nこの加速ゲートに設置されたセキュリティ機能は、ワープコア制御モジュールを装備した艦船が起動するのを防ぐ。",
+    "ko": "대형 코퍼레이션 전초기지의 위치를 표시하는 비컨입니다. 테크 I, II 및 모든 팩션 배틀쉽 이하 함급의 함선만 입장할 수 있습니다.\r\n\r\n보안 규정에 따라 워프 코어 스태빌라이저 모듈을 탑재한 함선은 입장이 불가능합니다.",
+    "ru": "Этот маяк обозначает расположение большого форпоста корпорации. Конфигурация ворот рассчитана на суда не крупнее линкора, включая корабли 1-го и 2-го техноуровней, а также корабли всех держав и организаций. Система безопасности не позволяет активировать эти разгонные ворота, если корабль оснащён модулями стабилизации варп-ядра.",
+    "zh": "这个信标标记了一个大型军团哨站的位置。入口通道设定为可通行一级科技、二级科技和船型小于或等于战列舰的所有势力舰船。安装在这个加速轨道中的安全设备会阻止任何舰船使用装配的跃迁核心稳定器。"
+  },
+  "graphicID": 1211,
+  "groupID": 310,
+  "mass": 1.0,
   "name": {
     "de": "Large Corporate Outpost Beacon",
     "en": "Large Corporate Outpost Beacon",
@@ -10,5 +22,9 @@
     "ru": "Large Corporate Outpost Beacon",
     "zh": "大型军团哨站信标"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 30000.0,
+  "sofFactionName": "genericbase",
   "volume": 1.0
 }

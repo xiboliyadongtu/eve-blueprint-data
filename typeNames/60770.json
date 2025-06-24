@@ -1,5 +1,17 @@
 {
-  "typeID": 60770,
+  "description": {
+    "de": "Die energetische Leitungsspur, die bei der Aktivierung einer Warp-Matrix-Variante eines Filament-Geräts für den Überlichttransport hinterlassen wurde.",
+    "en": "This is the energetic conduit trace left behind by activation of a Warp Matrix variant of a filament device used for FTL transport.",
+    "es": "Este es el rastro de conducto energético que queda al activar una variante de la matriz de warp de un dispositivo de filamento utilizado para el transporte supralumínico.",
+    "fr": "Il s'agit de la trace du conduit énergétique laissée par la variante matrice de warp d'un filament utilisé pour le transport PRL.",
+    "ja": "FTL移動に使われるワープマトリクス版フィラメントを起動すると残る、エネルギー導管の痕跡。",
+    "ko": "워프 매트릭스 필라멘트를 활성화했을 때 나타나는 에너지의 흔적입니다.",
+    "ru": "След энергетического канала, оставленный в результате активации варп-матричной нити для сверхсветовых перемещений.",
+    "zh": "这是使用跃迁矩阵纤维或其他使用了超光速传输技术的纤维之后留下的能量通道痕迹。"
+  },
+  "graphicID": 25139,
+  "groupID": 1991,
+  "mass": 1.0,
   "name": {
     "de": "Warp Matrix Conduit Trace",
     "en": "Warp Matrix Conduit Trace",
@@ -10,5 +22,8 @@
     "ru": "Warp Matrix Conduit Trace",
     "zh": "跃迁矩阵导管痕迹"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 500.0,
   "volume": 1.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 28574,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Diese Kampfstation wurde beschädigt oder ist durch ständige Benutzung und fehlende Wartungsarbeiten heruntergekommen. Sie funktioniert noch, aber nicht mit voller Leistung.",
+    "en": "This battle-station has been damaged or been worn out from overuse and lack of maintenance.  It is still functional, but not at its full capacity.",
+    "es": "Estación de combate dañada o consumida por un uso excesivo y la falta de mantenimiento. Aún está operativa, aunque no a pleno rendimiento.",
+    "fr": "Cette station de combat a été endommagée lors d'une bataille ou en raison d'un usage excessif et d'un manque d'entretien.  Elle fonctionne toujours, mais pas au maximum de ses capacités.",
+    "ja": "ダメージを受けたか、またはメンテナンス不足のまま乱用されて使い古されたバトルステーション。今でも機能するが、その能力は完全ではない。",
+    "ko": "이 전투 정거장은 공격을 받았거나 정비가 소홀하여 기능이 제한된 상태입니다. 불안정하게나마 작동하고 있습니다.",
+    "ru": "Эта боевая станция была повреждена или изношена из-за чрезмерного использования и отсутствия технического обслуживания. Она еще находится в рабочем состоянии, но работает не на полную мощность.",
+    "zh": "这个战役空间站因遭受攻击受损，或是由于过度使用和缺乏维护而损坏。它仍能运作，但无法发挥全部性能。"
+  },
+  "graphicID": 20651,
+  "groupID": 383,
+  "mass": 1000.0,
   "name": {
     "de": "Damaged Sentinel Serpentis",
     "en": "Damaged Sentinel Serpentis",
@@ -10,5 +23,10 @@
     "ru": "Damaged Sentinel Serpentis",
     "zh": "损坏的天蛇集团前哨站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 8380.0,
+  "sofFactionName": "serpentis",
   "volume": 1000.0
 }

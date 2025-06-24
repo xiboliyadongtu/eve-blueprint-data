@@ -1,5 +1,17 @@
 {
-  "typeID": 365873,
+  "basePrice": 203000.0,
+  "description": {
+    "de": "Skill in der Munitionsverwaltung von Geschützen.\n\n+5% auf die maximale Munitionskapazität von großen Blastern pro Skillstufe.",
+    "en": "Skill at turret ammunition management.\r\n\r\n+5% to large blaster maximum ammunition capacity per level.",
+    "es": "Habilidad de gestión de munición de torretas.\n\n+5% a la capacidad máxima de munición de los cañones bláster grandes por nivel.",
+    "fr": "Compétence de gestion des munitions des tourelles.\n\n+5 % de capacité maximale de munitions de grand blaster par niveau.",
+    "it": "Abilità nella gestione delle munizioni delle torrette.\n\n+5% alla massima capacità di munizioni del cannone blaster grande per livello.",
+    "ja": "タレット弾薬を管理するスキル。\n\nレベル上昇ごとに、大型ブラスター装弾数が5%増加する。",
+    "ko": "터렛 탄약 관리 스킬입니다.<br><br>매 레벨마다 대형 블라스터 장탄수 5% 증가",
+    "ru": "Навык обращения с боеприпасами турелей.\n\n+5% к максимальному количеству боеприпасов на каждый уровень, для больших бластеров.",
+    "zh": "管理炮台弹药的技能。每升一级，大型疾速炮的最大弹药容量增加5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Munitionskapazität: Großer Blaster",
     "en": "Large Blaster Ammo Capacity",
@@ -11,5 +23,7 @@
     "ru": "Количество боеприпасов большого бластера",
     "zh": "大型疾速炮弹药容量"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

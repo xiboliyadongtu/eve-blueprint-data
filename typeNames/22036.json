@@ -1,5 +1,18 @@
 {
-  "typeID": 22036,
+  "description": {
+    "de": "Die Überbleibsel eines Deserteurs der Flotte der Republik.",
+    "en": "The remains of a Republic Fleet pilot that deserted.",
+    "es": "Los restos de un piloto de la Flota de la República que desertó.",
+    "fr": "Restes d'un pilote ayant pris le risque de déserter la Republic Fleet.",
+    "ja": "共和国海軍から脱走したパイロットの死体。",
+    "ko": "배신한 공화국 파일럿의 사체입니다.",
+    "ru": "Останки дезертировавшего пилота Флота Республики.",
+    "zh": "逃亡的共和舰队飞行员遗体。"
+  },
+  "graphicID": 20373,
+  "groupID": 526,
+  "iconID": 398,
+  "mass": 80.0,
   "name": {
     "de": "Republic Fleet Deserter",
     "en": "Republic Fleet Deserter",
@@ -10,5 +23,8 @@
     "ru": "Republic Fleet Deserter",
     "zh": "共和舰队的逃兵"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "medium",
   "volume": 1.0
 }

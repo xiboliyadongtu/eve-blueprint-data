@@ -1,5 +1,18 @@
 {
-  "typeID": 59793,
+  "capacity": 2100.0,
+  "description": {
+    "de": "Diese fortschrittliche Trainingsdrohne wurde so modifiziert, dass sie das Flugprofil eines gekaperten imperialen Transportschiffs aus dem Zeitalter der Minmatar-Rebellion nachahmt. Sie wird von in nahegelegene Strukturen integrierten Holo-Projektoren unterstützt, die für Kameradrohnen in der Nähe eine optische Annäherung eines Gefangenentransports projizieren.",
+    "en": "This advanced training drone has been modified to mimic the flight profile of a hijacked Imperial transport from the era of the Minmatar Rebellion. It is supported by holoprojectors embedded in nearby structures that project a visual approximation of a prison transport for the benefit of nearby camera drones.",
+    "es": "Este dron de entrenamiento avanzado se ha modificado para imitar el perfil de vuelo de un transporte imperial secuestrado de la era de la Rebelión de Minmatar. Cuenta con el apoyo de holoproyectores incrustados en estructuras cercanas que proyectan una aproximación visual de un transporte de prisioneros para los drones cámara cercanos.",
+    "fr": "Ce drone d'entraînement avancé a été modifié pour imiter le profil de vol d'un vaisseau de transport impérial détourné à l'époque de la rébellion minmatar. Il est assisté par des holoprojecteurs intégrés aux structures voisines qui projettent une approximation visuelle d'un drone de transport de prisonniers aux drones caméras à proximité.",
+    "ja": "この高性能トレーニングドローンは、ミンマター蜂起が起きた時代にハイジャックされた帝国輸送船の航行プロファイルを模倣するよう改造されている。さらにサポートとして、付近のストラクチャにはホロプロジェクターが内蔵されており、付近のカメラドローンのために捕虜輸送船の似姿が投影される。",
+    "ko": "독립절 대회를 위해 개발된 훈련용 드론으로 민마타 반란 당시 사용되었던 제국 운송선을 모방하였습니다. 주변 구조물에 설치된 홀로그램 프로젝터를 통해 실제 운송선과 유사한 외관을 자랑합니다.",
+    "ru": "Этот продвинутый учебный дрон был специально модифицирован, чтобы копировать поведение похищенного транспортного судна времён минматарского восстания. Совместно с дроном действует ряд голографических проекторов, установленных на ближайших сооружениях и передающих на него внешний образ тюремного корабля.",
+    "zh": "这个先进的训练无人机可以模仿大起义时期一艘被劫持的帝国运输舰的飞行。它嵌入了附近建筑的全息影像投射器，可以投射出一艘监狱运输舰的模拟形象。"
+  },
+  "graphicID": 2715,
+  "groupID": 1895,
+  "mass": 11000000.0,
   "name": {
     "de": "Hijacked Transport Reenactment Drone",
     "en": "Hijacked Transport Reenactment Drone",
@@ -10,5 +23,8 @@
     "ru": "Hijacked Transport Reenactment Drone",
     "zh": "被劫持的运输舰闪回无人机"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 220.0,
+  "sofFactionName": "amarrbase"
 }

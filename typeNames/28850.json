@@ -1,5 +1,54 @@
 {
-  "typeID": 28850,
+  "basePrice": 10990400000.0,
+  "capacity": 135000.0,
+  "description": {
+    "de": "Am Ende aller Tage, wenn sie herabsteigen Richtet eure Augen auf die Ankunft der Arche Denn in ihr Liegt die Erlösung. <i>-Die Heiligen Schriften, Apocalypse, Verse 32:6</i>",
+    "en": "At the end of days when they descend\r\nWatch for the coming of the Ark\r\nFor within it\r\nSalvation is carried.\r\n\r\n<i>-The Scriptures, Apocalypse Verses 32:6</i>",
+    "es": "En el fin del mundo, cuando desciendan,\r\naguarda la llegada del arca,\r\npues en su interior\r\nporta la salvación.\r\n\r\n<i>— Las Escrituras, Apocalipsis, versículos 32:6.</i>",
+    "fr": "Lorsque les temps seront révolus, guettez la venue de l'Arche, car elle porte en elle le Salut de tous. <i>- Écritures, Versets 32:6 de la Révélation</i>",
+    "ja": "時代の終わり、彼らが降下する\r\nアークの到来を待て\r\nなぜならそれが\r\n救済を運び来たるから。\r\n\r\n<i>-聖典、黙示録32:6</i>",
+    "ko": "종말의 끝에 이들이 데리러 올 것이니\r\n방주를 찾으라\r\n그 안에\r\n구원이 있으니.\r\n\r\n<i>-성서, 묵시록 32장 6절</i>",
+    "ru": "«В конце времён, когда явятся они, ждите прибытия ковчега, ибо в нём — ваше спасение». <i>— Священное Писание, Апокалипсис, глава 32, стих 6</i>",
+    "zh": "世界到了末日，他们便会降临。关注靠近的方舟，因为在那船里，载着救赎。<i>——圣典，灾难诗篇32:6</i>"
+  },
+  "factionID": 500003,
+  "graphicID": 3357,
+  "groupID": 902,
+  "marketGroupID": 1090,
+  "mass": 900000000.0,
+  "masteries": {
+    "0": [
+      145,
+      117,
+      118,
+      151
+    ],
+    "1": [
+      145,
+      117,
+      118,
+      151
+    ],
+    "2": [
+      145,
+      117,
+      118,
+      151
+    ],
+    "3": [
+      145,
+      117,
+      118,
+      151
+    ],
+    "4": [
+      145,
+      117,
+      118,
+      151
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Ark",
     "en": "Ark",
@@ -10,5 +59,112 @@
     "ru": "Ark",
     "zh": "方舟级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 900.0,
+  "sofFactionName": "carthum",
+  "soundID": 20062,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonus": 100,
+        "bonusText": {
+          "de": "Reduktion des CPU-Bedarfs für <a href=showinfo:1333>Verstärkte Schotten</a>",
+          "en": "reduction in <a href=showinfo:1333>Reinforced Bulkhead</a> CPU requirements",
+          "es": "de reducción de los requisitos de CPU del <a href=showinfo:1333>mamparo reforzado</a>.",
+          "fr": "réduction de la charge CPU requise pour les <a href=showinfo:1333>cloisons renforcées</a>",
+          "ja": "<a href=showinfo:1333>強化隔壁</a>のCPU要件が減少",
+          "ko": "<a href=showinfo:1333>강화 격벽</a> CPU 사용량 감소",
+          "ru": "сокращается потребность <a href=showinfo:1333>усиленных переборок</a> в мощностях ЦПУ",
+          "zh": "<a href=\"showinfo:1333\">加强型舱隔壁</a>的CPU需求降低"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 90,
+        "bonusText": {
+          "de": "Reduktion der effektiv zurückgelegten Distanz für die Sprungerschöpfung",
+          "en": "reduction to effective distance traveled for jump fatigue",
+          "es": "de reducción de la distancia efectiva hasta sufrir fatiga de salto.",
+          "fr": "de réduction de la distance effectuée pour l'épuisement de saut",
+          "ja": "ジャンプによる疲弊が飛行距離に及ぼす影響を低減",
+          "ko": "이동 거리에 따른 점프 피로도 감소",
+          "ru": "медленнее накапливается усталость от гиперпереходов",
+          "zh": "减少跳跃距离对产生跳跃疲劳的影响"
+        },
+        "importance": 2,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "20524": [
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die Frachtraumkapazität des Schiffs",
+            "en": "bonus to ship cargo capacity",
+            "es": "de bonificación a la capacidad de carga de la nave.",
+            "fr": "de bonus à la capacité de la soute du vaisseau",
+            "ja": "艦船のカーゴ容量が増加",
+            "ko": "화물 적재량 증가",
+            "ru": "увеличивается вместимость грузового отсека корабля",
+            "zh": "舰船货柜舱容量加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf den Trägheitsmodifikator des Schiffs",
+            "en": "bonus to ship inertia modifier",
+            "es": "de bonificación al modificador de inercia de la nave.",
+            "fr": "de bonus au modificateur d'inertie du vaisseau",
+            "ja": "艦船の慣性修正乗数が増加",
+            "ko": "관성 계수 증가",
+            "ru": "уменьшается инертность конструкции корабля",
+            "zh": "舰船惯性调整系数加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ],
+      "29029": [
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf die HP der Panzerung und des Rumpf des Schiffs",
+            "en": "bonus to ship armor and hull hitpoints",
+            "es": "de bonificación a los puntos de vida del blindaje y el casco de la nave.",
+            "fr": "bonus au blindage et aux PV de la coque du vaisseau",
+            "ja": "艦船のアーマー・船体のヒットポイントが増加",
+            "ko": "함선 장갑 및 선체 내구도 증가",
+            "ru": "увеличивается запас прочности брони и корпуса корабля",
+            "zh": "舰船装甲值和结构值加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Reduktion des Sprungtreibstoffbedarfs",
+            "en": "reduction in jump fuel requirement",
+            "es": "de reducción del requisito de combustible para saltos.",
+            "fr": "de réduction au carburant de saut hyperspatial requis",
+            "ja": "ジャンプ燃料使用量が減少",
+            "ko": "요구되는 점프 연료량 감소",
+            "ru": "сокращается потребление топлива гипердвигателем корабля",
+            "zh": "跳跃燃料需求减少"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 20183,
   "volume": 18500000.0
 }

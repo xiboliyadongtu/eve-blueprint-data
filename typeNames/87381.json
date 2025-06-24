@@ -1,5 +1,75 @@
 {
-  "typeID": 87381,
+  "basePrice": 4199400000.0,
+  "capacity": 2900.0,
+  "description": {
+    "de": "Die Fähigkeit der Sarathiel, blitzschnell zu warpen, macht sie zu einer einzigartig schnellen Dreadnought. Ihre Entwicklung begann im Schatten der Drifter-Krise, und obwohl sie äußerlich nicht wie ein Drifter-Schiff aussieht, soll sie angeblich Elemente ihrer Technologie enthalten, die in jenen dunklen Tagen beschafft wurde. Zusätzlich zu ihren herausragenden Warpfähigkeiten ist diese Dreadnought in der Lage, Sprungfeldgeneratoren zu beherbergen. Wegen dieser Eigenschaft jagt der Anblick einer Sarathiel den Bürgern von New Eden Angst ein, denn sie ist oft das erste Zeichen eines verheerenden Überfalls.",
+    "en": "The rapid warp capabilities of the Sarathiel make it uniquely fast amongst dreadnoughts. Its development began under the shadow of the Drifter Crisis, and though its exterior does not look anything like a Drifter vessel, it is rumored to incorporate elements of their technology procured during those dark days. \r\n\r\nIn addition to its outstanding warp capabilities, this Dreadnought is able to house jump field generators. It is this capability that means the sight of a Sarathiel strikes fear into the citizens of New Eden, for it is often the first sign of a devastating ambush.",
+    "es": "Gracias a su capacidad de salto rápido, la nave Sarathiel destaca como uno de los superacorazados más veloces. Su desarrollo se inició en plena Crisis de los Drifters y, aunque su diseño exterior no guarda semejanza con las naves drifters, se dice que alberga tecnología obtenida de ellas durante aquellos tiempos sombríos. \r\n\r\nAdemás de sus excepcionales capacidades de salto, este superacorazado es capaz de albergar generadores de campos de salto. Es esta capacidad la que hace que la sola visión de una Sarathiel infunda temor entre los ciudadanos de Nuevo Edén, pues suele ser el primer indicio de una emboscada devastadora.",
+    "fr": "Les capacités de warp rapides du Sarathiel en font un vaisseau unique parmi les supercuirassés. Son développement a commencé dans l'ombre de la crise drifter, et bien que son extérieur ne ressemble à aucun vaisseau drifter, on raconte qu'il intègre des éléments de leur technologie acquis pendant ces jours sombres. En plus de ses capacités de warp exceptionnelles, ce supercuirassé peut accueillir des générateurs de champ de saut. C'est cette capacité qui terrorise les habitants de New Eden à la vue d'un Sarathiel, car elle annonce souvent le début d'une embuscade dévastatrice.",
+    "ja": "素早くワープできるサラティエルは、攻城艦の中でも群を抜いた高速移動能力を持っている。その開発はドリフター・クライシスの脅威が迫る中で始まり、外見こそドリフター艦にまったく似ていないが、かの厄災の最中に手に入れたドリフターの技術を取り入れているとの噂がある。 \r\n\r\nこの攻城艦は驚異的なワープ能力を備えているだけでなく、ジャンプフィールドジェネレーターを内蔵することもできる。そのためサラティエルはしばしば壊滅的な奇襲の前触れとなり、同艦を目撃した市民は恐怖で震え上がることになる。",
+    "ko": "살라티엘은 급속 워프 기능을 갖춘 가장 빠른 드레드노트입니다. 드리프터 침공으로 위기에 빠진 세계에서 개발이 시작되었습니다. 외형에서 드리프터 함선의 모습을 찾을 수 없지만 드리프터 침공 시기에 밝혀낸 드리프터 기술이 적용되었다는 소문이 있습니다.\r\n\r\n뛰어난 워프 성능과 더불어 점프 필드 생성기를 장착할 수 있습니다. 이러한 특성 때문에 살라티엘이 전장에서 목격되면 시민들 사이에 공포가 급격히 퍼집니다. 파멸에 가까운 급습의 전조로 여겨지는 것이죠.",
+    "ru": "Ни один дредноут не может похвастаться такой скоростью хода в варп-режиме, как Sarathiel. Разработка корабля началась во времена вторжения Скитальцев, и, хотя внешне на суда Скитальцев он совсем не похож, поговаривают, будто создатели внедрили в него ряд технологий, позаимствованных у врага в тот тяжёлый период. Этот дредноут не только отличается мощным варп-двигателем, но и способен перевозить генераторы разгонного поля. Последние используют для организации крайне опасных засад, поэтому один только вид Sarathiel внушает ужас обитателям Нового Эдема.",
+    "zh": "萨拉希尔舰船具有快速跃迁的能力，其速度在同类无畏舰中一骑绝尘。彼时，流浪者危机的阴影笼罩着整个宇宙，而这艘舰船的研发也正是始于那个时候。虽然它看上去一点都不像流浪者舰船，但据说研发人员将在这段至暗岁月里获得的流浪者技术都倾注在了它的身上。除了出色的跃迁能力，这艘无畏舰还配备了跳跃力场发生器。萨拉希尔正是凭借这一强大功能让新伊甸的人们闻风丧胆，它的出现往往代表着灭顶之灾。"
+  },
+  "factionID": 500011,
+  "graphicID": 28026,
+  "groupID": 485,
+  "marketGroupID": 3483,
+  "mass": 1130000000.0,
+  "masteries": {
+    "0": [
+      96,
+      86,
+      74,
+      141,
+      145,
+      147,
+      150,
+      95
+    ],
+    "1": [
+      96,
+      86,
+      74,
+      141,
+      145,
+      147,
+      150,
+      95
+    ],
+    "2": [
+      96,
+      86,
+      74,
+      141,
+      145,
+      147,
+      150,
+      95
+    ],
+    "3": [
+      96,
+      86,
+      74,
+      141,
+      145,
+      147,
+      150,
+      95
+    ],
+    "4": [
+      96,
+      86,
+      74,
+      141,
+      145,
+      147,
+      118,
+      150,
+      95
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Sarathiel",
     "en": "Sarathiel",
@@ -9,6 +79,150 @@
     "ko": "살라티엘",
     "ru": "Sarathiel",
     "zh": "萨拉希尔"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 1700.0,
+  "sofFactionName": "angelbase",
+  "soundID": 20076,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Kann ein <a href=showinfo:20280>Belagerungsmodul</a> ausrüsten",
+          "en": "Can fit a <a href=showinfo:20280>Siege module</a>",
+          "es": "Es posible equipar un <a href=showinfo:20280>módulo de asedio</a>.",
+          "fr": "Peut être équipé d'un <a href=showinfo:20280>module de siège</a>",
+          "ja": "<a href=showinfo:20280>シージモジュール</a>を搭載可能",
+          "ko": "<a href=showinfo:20280>시즈 모듈</a> 장착 가능",
+          "ru": "Позволяет установить <a href=showinfo:20280>осадный модуль</a>",
+          "zh": "可以装配一个<a href=showinfo:20280>会战装备</a>"
+        },
+        "importance": 1
+      },
+      {
+        "bonusText": {
+          "de": "Kann sich im Belagerungsmodus mit <b>10 %</b> der normalen Schiffsgeschwindigkeit bewegen",
+          "en": "Can move at <b>10%</b> normal ship velocity while in siege mode",
+          "es": "Es posible moverse a un <b>10 %</b> de la velocidad de la nave normal en modo asedio.",
+          "fr": "Peut se déplacer à <b>10 %</b> de la vitesse normale du vaisseau en mode siège",
+          "ja": "シージモード中でも通常の<b>10%</b>の航行速度で移動可能",
+          "ko": "시즈 모드 상태에서 함선 속도의 <b>10%</b>로 이동 가능",
+          "ru": "Сохраняет <b>10%</b> от стандартной скорости в осадном режиме",
+          "zh": "在会战模式下，可以<b>10%</b>的常规舰船速度行动"
+        },
+        "importance": 2
+      },
+      {
+        "bonusText": {
+          "de": "Kann einen <a href=showinfo:83465>Capital-Mikrosprungantrieb</a> ausrüsten",
+          "en": "Can fit a <a href=showinfo:83465>Capital Micro Jump Drive</a>",
+          "es": "Es posible equipar un <a href=showinfo:83465>motor de microsalto capital</a>.",
+          "fr": "Peut être équipé d'un <a href=showinfo:83465>propulseur de microsaut capital</a>",
+          "ja": "<a href=showinfo:83465>キャピタルマイクロジャンプドライブ</a>を装備可能",
+          "ko": "<a href=showinfo:83465>캐피탈 마이크로 점프 드라이브</a> 장착 가능",
+          "ru": "Позволяет установить <a href=showinfo:83465>маневровый гипердвигатель КБТ</a>",
+          "zh": "可以装配<a href=showinfo:83465>旗舰级微型跳跃引擎</a>"
+        },
+        "importance": 3
+      },
+      {
+        "bonusText": {
+          "de": "Kann im Belagerungsmodus <a href=showinfo:83465>Capital-Mikrosprungantrieb</a> aktivieren",
+          "en": "Can activate <a href=showinfo:83465>Capital Micro Jump Drive</a> while in siege mode",
+          "es": "Es posible activar un <a href=showinfo:83465>motor de microsalto capital</a> en modo asedio.",
+          "fr": "Peut activer <a href=showinfo:83465>le propulseur de microsaut capital</a> en mode siège",
+          "ja": "シージモード中に<a href=showinfo:83465>キャピタルマイクロジャンプドライブ</a>を起動可能",
+          "ko": "시즈 모드 상태에서 <a href=showinfo:83465>캐피탈 마이크로 점프 드라이브</a> 사용 가능",
+          "ru": "Позволяет использовать <a href=showinfo:83465>маневровый гипердвигатель КБТ</a> в осадном режиме",
+          "zh": "在会战模式下，可以激活<a href=showinfo:83465>旗舰级微型跳跃引擎</a>"
+        },
+        "importance": 4
+      },
+      {
+        "bonus": 25.0,
+        "bonusText": {
+          "de": "Bonus auf die Warpgeschwindigkeit und Warpbeschleunigung",
+          "en": "bonus to warp speed and warp acceleration",
+          "es": "de bonificación a la velocidad y la aceleración de warp.",
+          "fr": "de bonus à la vitesse de warp et à l'accélération de warp",
+          "ja": "ワープ速度とワープ加速度が上昇",
+          "ko": "워프 속도 및 워프 가속도 증가",
+          "ru": "бонус к разгону и скорости хода (в варп-режиме)",
+          "zh": "跃迁速度和跃迁加速加成"
+        },
+        "importance": 5,
+        "unitID": 105
+      },
+      {
+        "bonus": 25.0,
+        "bonusText": {
+          "de": "Bonus auf den Schaden von <a href=showinfo:21667>Capital-Projektilwaffentürmen</a>",
+          "en": "bonus to <a href=showinfo:21667>Capital Projectile Turret</a> damage",
+          "es": "de bonificación al daño de la <a href=showinfo:21667>torreta de proyectiles capital</a>.",
+          "fr": "de bonus aux dégâts des <a href=showinfo:21667>tourelles à projectiles capitales</a>",
+          "ja": "<a href=showinfo:21667>キャピタルプロジェクタイルタレット</a>のダメージにボーナス",
+          "ko": "<a href=showinfo:21667>캐피탈 발사체 터렛</a> 피해량 증가",
+          "ru": "бонус к урону <a href=showinfo:21667>баллистических орудий КБТ</a>",
+          "zh": "<a href=showinfo:21667>旗舰级射弹炮台</a>伤害加成"
+        },
+        "importance": 6,
+        "unitID": 105
+      },
+      {
+        "bonus": 5.0,
+        "bonusText": {
+          "de": "Abzug auf Durchlaufzeit von <a href=showinfo:34593>Entosis-Netzwerk</a>",
+          "en": "penalty to <a href=showinfo:34593>Entosis Link</a> cycle time",
+          "es": "de penalización al tiempo de ciclo del <a href=showinfo:34593>enlace de entosis</a>.",
+          "fr": "de pénalité au temps de cycle de la <a href=showinfo:34593>liaison Entosis</a>",
+          "ja": "<a href=showinfo:34593>エントーシスリンク</a>のサイクル時間にペナルティ",
+          "ko": "<a href=showinfo:34593>엔토시스 링크</a> 사이클 시간 증가",
+          "ru": "штраф ко времени цикла <a href=showinfo:34593>энтоз-передатчиков</a>",
+          "zh": "<a href=showinfo:34593>侵噬链接</a>循环周期惩罚"
+        },
+        "importance": 7,
+        "unitID": 104
+      }
+    ],
+    "types": {
+      "20531": [
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf den Präzisionsabfall von <a href=showinfo:21667>Capital-Projektilwaffentürmen</a>",
+            "en": "bonus to <a href=showinfo:21667>Capital Projectile Turret</a> falloff",
+            "es": "de bonificación al alcance efectivo de la <a href=showinfo:21667>torreta de proyectiles capital</a>.",
+            "fr": "de bonus à la déperdition des <a href=showinfo:21667>tourelles à projectiles capitales</a>",
+            "ja": "<a href=showinfo:21667>キャピタルプロジェクタイルタレット</a>の精度低下範囲にボーナス",
+            "ko": "<a href=showinfo:21667>캐피탈 발사체 터렛</a> 유효사거리 증가",
+            "ru": "бонус к остаточной дальности <a href=showinfo:21667>баллистических орудий КБТ</a>",
+            "zh": "<a href=showinfo:21667>旗舰级射弹炮台</a>失准范围加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ],
+      "20532": [
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:21667>Capital-Projektilwaffentürmen</a>",
+            "en": "bonus to <a href=showinfo:21667>Capital Projectile Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:21667>torreta de proyectiles capital</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:21667>tourelles à projectiles capitales</a>",
+            "ja": "<a href=showinfo:21667>キャピタルプロジェクタイルタレット</a>のダメージにボーナス",
+            "ko": "<a href=showinfo:21667>캐피탈 발사체 터렛</a> 피해량 증가",
+            "ru": "бонус к урону <a href=showinfo:21667>баллистических орудий КБТ</a>",
+            "zh": "<a href=showinfo:21667>旗舰级射弹炮台</a>伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 15500000.0
 }

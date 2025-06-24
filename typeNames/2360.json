@@ -1,5 +1,18 @@
 {
-  "typeID": 2360,
+  "basePrice": 1.0,
+  "description": {
+    "de": "Der primäre Unterschied zwischen militärischen und industriellen Sprengstoffen liegt darin, dass die letzteren nur in Großmengen wirksam sind, und niemals mit \"betriebsfertigen\" Zündern verkauft oder transportiert werden. Dementsprechend müssen sie sorgfältig installiert, scharfgemacht und aus der Ferne ausgelöst werden, bevor ihre volle destruktive Kraft Anwendung finden kann.",
+    "en": "The primary difference between military and industrial explosives is that the latter are effective only when used in bulk, and they are never sold or transported with “ready to use” detonators. As such, they must be carefully installed, primed, and triggered from remote locations before their full destructive force can be applied.",
+    "es": "La diferencia principal entre los explosivos militares e industriales es que estos últimos solo son efectivos al ser usados a granel y nunca se venden ni se transportan con detonadores listos para su uso. Por lo tanto, antes de poder desplegar su potencial destructivo, deben instalarse, prepararse y activarse cuidadosamente desde ubicaciones remotas.",
+    "fr": "À la différence des explosifs militaires, les explosifs industriels ne sont efficaces que lorsqu'ils sont utilisés en masse, et ne sont jamais vendus ni transportés avec des détonateurs « prêts à l'emploi ». Par conséquent, ils doivent être installés avec précaution, préparés et activés à longue distance, avant de libérer toute leur puissance dévastatrice.",
+    "ja": "工業用爆発物が軍用爆発物と異なる大きな点は、大量に使用される場合にのみ意味を持つということだ。どちらも、すぐに使える起爆装置が付属した状態で販売または輸送されることはない。そのため、破壊力を最大限に発揮させるためには、慎重に設置、準備、離れた場所から起爆する必要がある。",
+    "ko": "군사용 폭발물과 비교하여 산업용 폭발물이 가진 가장 큰 차이점이라면 대량으로 사용했을 때만 효과적이고 \"즉시 사용 가능\"한 기폭 장치와 함께 판매되거나 수송되지 않는다는 것입니다. 조심스레 설치되어 원격으로 폭파를 진행해야한다는 점 또한 차이점 중 하나입니다.",
+    "ru": "Основной различием между военной и промышленной взрывчаткой состоит в том, что промышленные виды более эффективны, если используются в больших количествах, и их никогда не продают и не перевозят с детонаторами, готовыми для использования. Поэтому перед применением в нее необходимо аккуратно установить детонаторы и взвести их.",
+    "zh": "工业炸药和军用炸药之间最大的区别就是，前者只有在大量使用的时候才能够造成理想的效果，此外它们也从来不会被装上引信进行运输和倒卖。他们需要被认真仔细地安装、填注，而且需要在距离较远的安全距离上进行引爆，只有这样他们的破坏力才能被很好地利用。"
+  },
+  "groupID": 1040,
+  "iconID": 10047,
+  "marketGroupID": 1336,
   "name": {
     "de": "Industrial Explosives",
     "en": "Industrial Explosives",
@@ -10,5 +23,7 @@
     "ru": "Industrial Explosives",
     "zh": "工业炸药"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 3.0
 }

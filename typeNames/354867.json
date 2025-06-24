@@ -1,5 +1,17 @@
 {
-  "typeID": 354867,
+  "basePrice": 500.0,
+  "description": {
+    "de": "Test-Modul, Bonus für Trupp-Panzerungs-HP.",
+    "en": "Test Module, Give bonus to squads armor HP.",
+    "es": "Módulo de prueba, dar bonificación a la HP de la armadura de los escuadrones.",
+    "fr": "Module d'essai, donne un bonus aux HP de blindage d'escouade.",
+    "it": "Modulo di verifica, assegna bonus ai punti danno della corazza della squadriglia.",
+    "ja": "分隊のアーマーHPにボーナスを与えるテストモジュール。",
+    "ko": "테스트 모듈, 스쿼드 장갑 HP에 보너스를 제공합니다.",
+    "ru": "Test Module, Give bonus to squads armor HP.",
+    "zh": "测试用装备，可提高中队装甲值。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Trupp - Panzerungsbonustest",
     "en": "Squad - Armor Bonus Test",
@@ -11,5 +23,7 @@
     "ru": "Squad - Armor Bonus Test",
     "zh": "中队-装甲加成测试"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

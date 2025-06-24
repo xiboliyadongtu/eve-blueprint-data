@@ -1,5 +1,18 @@
 {
-  "typeID": 16826,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Eine kleine Raketenbatteriezur Bekämpfung von Eindringlingen und anderen Gefahrenquellen.",
+    "en": "A small missile battery, designed to repel invaders and other hazards.",
+    "es": "Batería de misiles pequeños diseñada para repeler a invasores y otros peligros.",
+    "fr": "Une petite batterie de missiles conçue pour repousser assaillants et autres dangers potentiels.",
+    "ja": "小型のミサイルバッテリー。侵略者の撃退などに使用する。",
+    "ko": "침입자 및 각종 위협 요소를 제거하는 소형 미사일 포탑입니다.",
+    "ru": "Малая ракетная батарея, предназначенная для противостояния вторжениям и другим угрозам.",
+    "zh": "小型导弹炮塔，可以抵御入侵者和其他威胁。"
+  },
+  "graphicID": 2500,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Serpentis Battery",
     "en": "Serpentis Battery",
@@ -10,5 +23,10 @@
     "ru": "Serpentis Battery",
     "zh": "天蛇集团炮塔"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 244.0,
+  "sofFactionName": "serpentis",
+  "soundID": 20178,
   "volume": 100000000.0
 }

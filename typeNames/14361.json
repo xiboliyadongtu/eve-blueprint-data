@@ -1,5 +1,18 @@
 {
-  "typeID": 14361,
+  "capacity": 125.0,
+  "description": {
+    "de": "Die Atron-Klasse ist eine harte Nuss mit weiterentwickeltem Energiesystem und entsprechend weniger Frachtraum. Obwohl die Atron ein gutes Abbauschiff ist, wenn man Bergbau betreibt, ist ihre Hauptfähigkeit der Einsatz als Kampfschiff. Sie wird manchmal von der Federation Navy eingesetzt und wird generell als ein entbehrliches, preiswertes Schiff angesehen.\r\n\r\nBedrohungsstufe: Mäßig",
+    "en": "The Atron is a hard nugget with an advanced power conduit system, but little space for cargo. Although the Atron is a good harvester when it comes to mining, its main ability is as a combat vessel.  It is sometimes used by the Federation Navy and is generally considered an expendable low-cost craft.  Threat level: Moderate",
+    "es": "La Atron es una nave pequeña pero resistente con un conducto de alimentación avanzado, aunque con poco espacio de carga. Pese a que es una buena cosechadora para la minería, se suele usar como nave de combate. A veces la emplea la Armada de la Federación y, en general, se considera una nave prescindible y económica. Nivel de amenaza: moderado.",
+    "fr": "L'Atron est un vaisseau très résistant doté d'un système de conduit d'alimentation avancé, mais d'une soute très réduite. Bien que l'Atron soit un bon collecteur, il n'en demeure pas moins taillé pour le combat.  Parfois utilisé par la Federation Navy, ce vaisseau est souvent considéré comme une unité peu chère pouvant être sacrifiée.  Niveau de menace : moyen",
+    "ja": "アトロンは、高性能パワー伝導システムを装備する強力な船だが、カーゴスペースは小さい。採掘の際は良い採掘機となるが、本来の用途は戦闘艦である。連邦海軍でも使われており、一般的には安価な使い捨て船と認識されている。危険度:普通",
+    "ko": "아트론은 첨단 전력설비 시스템이 장착된 견고한 함선으로 화물 적재량은 비교적 적은 편에 속합니다. 준수한 채굴 능력을 지녔으나 주 기능은 어디까지나 전투에 집중되어 있습니다. 종종 연방 해군에서도 활용되며 생산 비용이 매우 저렴하여 소모성 함선으로 여겨집니다. 위험도: 보통",
+    "ru": "Atron — крепкий орешек, обладающий передовой силовой установкой, но маленьким грузовым отсеком. Хотя Atron является хорошим кораблем для добычи руды, все же его основное назначение — боевые операции.  Его иногда используют в Federation Navy и обычно считают дешевым кораблем, которое не страшно потерять.  Уровень опасности: умеренный",
+    "zh": "“阿特龙”级小而强悍，它的能量传输系统很先进，但货舱空间非常有限。尽管阿特龙可以很好地胜任采矿的工作，不过它主要还是被作为战舰使用。盖伦特海军有时会使用它，它的定位则是一种廉价的炮灰。威胁等级：中等"
+  },
+  "graphicID": 1810,
+  "groupID": 677,
+  "mass": 1200000.0,
   "name": {
     "de": "Federation Navy Atron",
     "en": "Federation Navy Atron",
@@ -10,5 +23,10 @@
     "ru": "Federation Navy Atron",
     "zh": "联邦海军 阿特龙护卫舰"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 31.0,
+  "sofFactionName": "gallentenavy",
   "volume": 22500.0
 }

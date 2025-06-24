@@ -1,5 +1,16 @@
 {
-  "typeID": 13836,
+  "description": {
+    "de": "Hier handelt es sich um ein Trümmerstück einer größeren Konstruktion. Die selbstleuchtenden Hallen dieser Flaniermeile haben bald keine Energie mehr. Was mit dem Rest der Struktur geschehen ist, weiß man nicht. Sicher ist nur, dass die Anlage einer fürchterlichen Gewalteinwirkung ausgesetzt gewesen sein muss, die stark genug war, um selbst nanoverstärkten Stationsstahl zu zerreissen.",
+    "en": "A fragment of a larger structure, this walkway's self-luminescent halls are silently running out of energy. What remains of the rest of the structure is unknown, only that it must have been subject to a cataclysmic force, powerful enough to rip apart nanoreinforced station steel.",
+    "es": "Las salas autoluminiscentes de esta pasarela, parte de una estructura más grande, se sumen en el silencio al ir quedándose sin energía. No se sabe en qué estado está el resto de la estructura, pero sin duda debe de haberse producido un cataclismo lo bastante fuerte como para destrozar el acero nanorreforzado de la estación.",
+    "fr": "Autrefois partie intégrante d'une structure plus grande, les couloirs luminescents de cette passerelle sont désormais à court d'énergie. Nul ne sait ce qu'est devenu le reste de cette structure, mais elle a dû faire face à des forces suffisamment puissantes pour briser la structure en acier nanorenforcé de la station.",
+    "ja": "巨大な建造物の一部。自ら光を発しているが、やがてエネルギーを使い果たしてしまうだろう。かつて、この通路がどんな建造物に敷設されていたのかは分からないが、いずれにせよ、ナノ分子補強スチール製の通路が引きちぎられたということは、よほど大きな衝撃を受けたに違いない。",
+    "ko": "대형 구조물의 파편입니다. 혼자 쓸쓸히 빛을 내는 통로도 점점 힘을 잃어가고 있습니다. 남겨진 파편이 어떤 구조물에서 파생되었는지는 알 수 없습니다. 다만 나노강화한 정거장의 강철까지도 부숴버린 강력한 힘이 이런 결과를 만들어 냈다는 것만 알 수 있습니다.",
+    "ru": "Когда-то являясь частью большего строения, освещенные залы этой галереи мерцают все тусклее и тусклее по мере истощения энергии в аккумуляторах. Судьба остальной части строения остаётся неизвестной; можно лишь предположить, что причиной его разрушения мог стать мощный катаклизм, разорвавший укрепленную стальную конструкцию станции на части.",
+    "zh": "一个大型建筑的碎片，这个走廊自照明的大厅正在慢慢耗尽自身的能量。这个建筑剩余的部分还不得而知，只能确定它肯定遭受了毁灭性的力量，这股力量强大到能将空间站的纳米钢材撕裂。"
+  },
+  "graphicID": 2368,
+  "groupID": 226,
   "name": {
     "de": "Walkway Debris",
     "en": "Walkway Debris",
@@ -10,5 +21,8 @@
     "ru": "Walkway Debris",
     "zh": "走廊废墟"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 800.0,
+  "sofFactionName": "debris"
 }

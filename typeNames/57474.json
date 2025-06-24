@@ -1,5 +1,19 @@
 {
-  "typeID": 57474,
+  "basePrice": 10000000.0,
+  "description": {
+    "de": "Die Schiffsdesigns der Amarr verwenden seit langer Zeit radarbasierte Sensoren zur Abbildung der lokalen Raumumgebung. Der Radar-FTL-Interlink-Kommunikator wird dazu verwendet, hochfrequente, hochauflösende Amarr-Sensordaten direkt in die Überlichtgeschwindigkeitskommunikationskanäle der Imperial Navy-Flotten einzubinden.",
+    "en": "Amarr ship designs have long used radar-based sensors as their primary means of building a picture of the local space environment. The Radar-FTL Interlink Communicator is used to tie high-frequency, high-resolution Amarr sensor data directly into the FTL communications channels used by Imperial Navy fleets.",
+    "es": "Las naves de diseño amarriano han utilizado los sensores por radar desde hace mucho tiempo como método principal para reconocer el entorno espacial local. El comunicador de interconexión radar-supralumínico sirve para vincular los datos de alta frecuencia y gran resolución del sensor amarriano a los canales de comunicaciones supralumínicos que utilizan las flotas de la Armada Imperial.",
+    "fr": "Les modèles de vaisseaux amarr utilisent depuis longtemps des détecteurs radar comme principal moyen d’établir une représentation de l’environnement spatial local. Le communicateur hyperliaison radar-PRL sert à relier les données à haute fréquence et haute résolution des détecteurs amarr directement aux canaux de communications PRL utilisés par les flottes de l’Imperial Navy.",
+    "ja": "アマー船は、現在の宙域の環境を把握する主な手段として古式ゆかしい電波式センサーを使用している。アマー製センサーの高周波かつ高解像度なデータを帝国海軍フリートの分隊が使用しているFTL通信チャンネルに直接接続するため、電波-FTLインターリンクコミュニケーターが使用されている。",
+    "ko": "아마르 함선은 레이더 기반 센서를 통해 주변 환경을 탐지합니다. 레이더-FTL 접속 통신기는 제국 해군이 운용하는 FTL 통신 채널에 고주파수- 고해상도 센서 데이터를 연동합니다.",
+    "ru": "В конструкциях амаррских кораблей уже давно используются радарные сенсоры. Их основное назначение — снабдить пилота необходимой информацией о космической среде. Радарный сверхсветовой коммуникатор передаёт данные высокочастотных амаррских датчиков непосредственно по сверхсветовым каналам имперских флотов.",
+    "zh": "艾玛舰船一直以来都主要使用雷达式感应器来探测太空环境。雷达超光速链接通信器能将高频高分辨率的艾玛感应器数据直接链接到帝国海军舰队使用的超光速通信频道中。"
+  },
+  "groupID": 913,
+  "iconID": 24630,
+  "marketGroupID": 1884,
+  "mass": 0.1,
   "name": {
     "de": "Radar-FTL Interlink Communicator",
     "en": "Radar-FTL Interlink Communicator",
@@ -10,5 +24,7 @@
     "ru": "Radar-FTL Interlink Communicator",
     "zh": "雷达超光速链接通信器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 100.0
 }

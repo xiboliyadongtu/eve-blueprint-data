@@ -1,5 +1,18 @@
 {
-  "typeID": 3164,
+  "basePrice": 200000.0,
+  "description": {
+    "de": "Ein Neuralinterface-Upgrade, das die Fertigkeiten des Piloten im Umgang mit Raketen mit automatischer Zielerfassung erhöht.\n\n\n\n6% Bonus auf den Explosionsradios von Raketen mit automatischer Zielerfassung",
+    "en": "A neural interface upgrade that boosts the pilot's skill with auto-target missiles.\r\n\r\n6% bonus to explosion radius of auto-target missiles.",
+    "es": "Mejora de interfaz neuronal que potencia la habilidad del piloto con los misiles autodirigidos.\n\n6 % de bonificación al radio de explosión de los misiles autodirigidos.",
+    "fr": "Amélioration de l'interface neurale portant sur la compétence du pilote liée à l'utilisation des missiles à ciblage automatique.\n\nAugmente de 6 % le rayon de l'explosion des missiles à ciblage automatique.",
+    "ja": "神経系インターフェイスのアップグレード。自動捕捉型ミサイルに関するパイロットのスキルを高める。\n\n自動捕捉型ミサイルの爆発半径が6%縮小。",
+    "ko": "오토 타겟팅 미사일 스킬을 향상하는 신경 인터페이스 업그레이드입니다. <br><br>자동타겟팅 미사일 폭발반경 6% 감소",
+    "ru": "Модуль расширения нейроинтерфейса, установка которого позволяет пилоту повысить эффективность боевого применения самонаводящихся ракет.\n\nЭффект от вживления имплантата: уменьшение радиуса взрыва (при подрыве самонаводящейся ракеты) на 6%.",
+    "zh": "一款神经接口升级芯片，可以增强飞行员在自动锁定导弹方面的技能。自动锁定导弹爆炸半径减少6%。"
+  },
+  "groupID": 746,
+  "iconID": 2224,
+  "marketGroupID": 1497,
   "name": {
     "de": "Zainou 'Snapshot' Auto-Targeting Explosion Radius FR-1006",
     "en": "Zainou 'Snapshot' Auto-Targeting Explosion Radius FR-1006",
@@ -10,5 +23,7 @@
     "ru": "Zainou 'Snapshot' Auto-Targeting Explosion Radius FR-1006",
     "zh": "载诺 快照 自动锁定爆炸半径 FR-1006"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

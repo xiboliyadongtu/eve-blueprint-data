@@ -1,5 +1,18 @@
 {
-  "typeID": 60438,
+  "capacity": 6000.0,
+  "description": {
+    "de": "Dieser Schildgenerator ist so platziert, dass er jegliche sichere Transferbarkassen von AEGIS beschützt, die wertvolle Gegenstände ein- oder abladen. Mit der passenden Ausrüstung sind Sie vielleicht in der Lage, sich in das Sicherheitssystem dieses Projektors zu hacken und ihn zu deaktivieren.",
+    "en": "This shield generator is positioned to protect any AEGIS Secure Transfer Barges taking on or offloading valuable items.\r\n\r\nIf you have the right equipment you might be able to hack into the security of this projector and deactivate it.",
+    "es": "Este generador de escudo está posicionado para proteger las gabarras de transporte seguro de AEGIS mientras cargan y descargan objetos valiosos.\n\n\n\nSi tienes el equipo adecuado, podrías hackear el sistema de seguridad de este proyector y desactivarlo.",
+    "fr": "Ce générateur de bouclier est positionné pour assurer la protection des barges de transfert sécurisé d'AEGIS qui embarquent ou débarquent des objets de valeur. Si vous disposez du matériel adéquat, vous pourrez peut-être pirater le système de sécurité de ce projecteur et le désactiver.",
+    "ja": "このシールドジェネレーターは、貴重な物資の積み降ろしを行っている最中のイージス重警備輸送船を守るために設置されている。\n\n\n\n適切な機器があれば、このプロジェクターのセキュリティをハッキングして停止させられるかもしれない。",
+    "ko": "AEGIS 운반선을 보호하기 위해 설치된 실드 생성기입니다. 적절한 장비를 사용하여 생성기를 해킹할 경우 실드를 비활성화할 수 있습니다.",
+    "ru": "Этот генератор щитов охраняет защищённые баржи ЭГИДА, которые перевозят ценные грузы. При наличии необходимого оборудования вы сможете взломать систему безопасности этого проектора и отключить его.",
+    "zh": "这个护盾发生器在这里保护统合部紧急干预和安全局装卸贵重物品的运输驳船。\n\n\n\n使用合适的设备可以破译护盾发生器的安全防护并使其停止运转。"
+  },
+  "graphicID": 25079,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "AEGIS Logistics Center Shield Projector",
     "en": "AEGIS Logistics Center Shield Projector",
@@ -10,5 +23,8 @@
     "ru": "AEGIS Logistics Center Shield Projector",
     "zh": "统合部紧急干预和安全局物流中心护盾投射装置"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 9400.0,
+  "sofFactionName": "upwell-edencom"
 }

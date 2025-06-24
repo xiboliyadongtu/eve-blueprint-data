@@ -1,5 +1,16 @@
 {
-  "typeID": 20683,
+  "description": {
+    "de": "Eine Heron, die von einem Agenten geflogen wird.\r\n\r\nMissionen:\r\n<b>Schwierigkeitsgrad: Stufe 8</b>",
+    "en": "A Heron piloted by an agent.\r\n\r\nMissions:\r\n\r\n<b>Difficulty Rating: Grade 8</b>",
+    "es": "Heron pilotada por un agente.\n\nMisiones:\n\n<b>Índice de dificultad: grado 8.</b>",
+    "fr": "Un Heron piloté par un agent.\n\nMissions :\n\n<b>Niveau de difficulté : niveau 8</b>",
+    "ja": "エージェントを乗せたヘロン。ミッション:\n\n<b>難易度:8</b>",
+    "ko": "에이전트가 조종하는 헤론입니다. <br><br>미션:<br><br><b>난이도: 8</b>",
+    "ru": "Корабль класса Heron, управляемый агентом.\n\nЗадания: \n\n<b>Рейтинг сложности: уровень 8</b>",
+    "zh": "由代理人驾驶的苍鹭级飞船。 任务： <b>难度等级：8级</b>"
+  },
+  "graphicID": 316,
+  "groupID": 517,
   "name": {
     "de": "Michi's Heron",
     "en": "Michi's Heron",
@@ -10,5 +21,9 @@
     "ru": "Michi's Heron",
     "zh": "米茨的苍鹭级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 47.0,
+  "sofFactionName": "caldaribase"
 }

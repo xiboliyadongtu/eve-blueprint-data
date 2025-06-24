@@ -1,5 +1,18 @@
 {
-  "typeID": 77180,
+  "capacity": 500000.0,
+  "description": {
+    "de": "Die Machthaber dieses Systems haben diese Providence entsandt, um die Operation zu überwachen und ihre gestohlenen Kriegsklone zurückzuholen.",
+    "en": "The holders in control of this system have sent this Providence to oversee the operation and reclaim their stolen warclones.",
+    "es": "Los terratenientes de este sistema han enviado a esta Providence para supervisar la operación y reclamar sus clones de guerra robados.",
+    "fr": "Les propriétaires contrôlant ce système ont envoyé ce Providence pour superviser l'opération et récupérer leurs clones de combat volés.",
+    "ja": "作戦を監督し、盗まれた戦闘用クローンを取り戻すべくシステムのホールダーによって派遣されたプロビデンス。",
+    "ko": "성계를 지배하는 홀더들이 도난당한 전투용 클론을 되찾는 작전을 지휘할 목적으로 파견한 프로비던스입니다.",
+    "ru": "Силы, контролирующие эту систему, прислали корабль Providence, отдав экипажу приказ следить за ходом операции и вернуть украденных боевых клонов.",
+    "zh": "控制着这个星系的持有者派出了普罗维登斯来监督行动，并要求夺回他们被盗的战争克隆体。"
+  },
+  "graphicID": 2738,
+  "groupID": 952,
+  "mass": 100000.0,
   "name": {
     "de": "Holder Providence",
     "en": "Holder Providence",
@@ -10,5 +23,8 @@
     "ru": "Holder Providence",
     "zh": "持有者普罗维登斯级"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 550.0,
+  "sofFactionName": "amarrbase"
 }

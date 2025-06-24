@@ -1,5 +1,21 @@
 {
-  "typeID": 24531,
+  "basePrice": 837360.0,
+  "description": {
+    "de": "Eine sehr einfache Lenkwaffe für große Werfer mit mäßiger Ladekapazität. Verwendet das heute als veraltet geltende Bulls-Eye-Zielsystem.\n\n\n\nEine modifizierte Version der Nova Cruise Missile. Verursacht größeren Schaden als die Nova Cruise. Die Unberechenbarkeit des Sprengkopfs und das leistungsstarke Abschirmsystem verringern jedoch sowohl Flugzeit als auch Genauigkeit.",
+    "en": "A very basic missile for large launchers with reasonable payload. Utilizes the now substandard technology of bulls-eye guidance systems.\r\n\r\nA modified version of the Nova cruise missile. Does more damage than the Nova cruise, but the volatile nature of the warhead, and its powerful containment system, reduce both flight time and precision.",
+    "es": "Un misil muy básico para lanzamisiles de gran tamaño con una carga útil razonable. Utiliza una tecnología de sistemas de guiado al blanco de calidad inferior actual.\n\n\n\nVersión modificada del misil de crucero Nova. Inflige más daño que el Nova original, pero la naturaleza volátil de la ojiva y su potente sistema de contención reducen tanto el tiempo de vuelo como la precisión.",
+    "fr": "Missile basique doté d'une charge utile correcte et destiné aux gros lanceurs. Il fait appel à la technologie désormais déclassée de systèmes de guidage de haute précision.\n\nVersion modifiée du missile de croisière Nova. Il inflige davantage de dégâts que le missile de croisière Nova, mais la nature explosive de l'ogive, combinée à son puissant système de confinement, réduit à la fois le temps de vol et la précision.",
+    "ja": "大型ランチャー用のごく標準的なミサイルで、威力も手頃。誘導システムはいささか旧式で、現代の基準からいうと精度に劣る。\n\nノヴァクルーズミサイルの改良版。従来型より与えるダメージは高いが、不安定な物質を使った弾頭と強化封じ込めシステムのせいで、飛行時間や精度は劣る。",
+    "ko": "대형 미사일 런처에 탑재되는 기본형 미사일로 평균적인 파괴력을 자랑합니다. 구형 불스아이 유도시스템을 탑재하고 있습니다. <br><br>개량된 노바 크루즈 미사일입니다. 노바 크루즈보다 파괴력은 뛰어나지만 낮은 탄두 안정성과 고성능 격납시스템의 탑재로 인해 사거리 및 정확도는 상대적으로 떨어집니다.",
+    "ru": "Довольно примитивная ракета с мощной боеголовкой для больших пусковых установок. Использует уже устаревшую технологию наведения.\n\n\n\nМодифицированная версия крылатой ракеты Nova. Обладает более значительным разрушительным действием, чем модель Nova, но при этом имеет меньшую дальность полета и пониженную эффективность ввиду низкой стабильности боеголовки.",
+    "zh": "一种配合大型发射架使用，载荷量适中的基础型导弹。使用了如今已经不合标准的牛眼制导系统。这是星爆巡航导弹的一种改良版本，相比星爆巡航导弹具备更强的伤害力，但由于其强大的密封系统及高度不稳定性，飞行时间和准确性都有所降低。"
+  },
+  "graphicID": 20042,
+  "groupID": 656,
+  "iconID": 185,
+  "marketGroupID": 925,
+  "mass": 1250.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Nova Fury Cruise Missile",
     "en": "Nova Fury Cruise Missile",
@@ -10,5 +26,9 @@
     "ru": "Nova Fury Cruise Missile",
     "zh": "星爆愤怒巡航导弹"
   },
+  "portionSize": 5000,
+  "published": true,
+  "radius": 300.0,
+  "variationParentTypeID": 205,
   "volume": 0.05
 }

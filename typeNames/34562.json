@@ -1,5 +1,70 @@
 {
-  "typeID": 34562,
+  "basePrice": 30000000.0,
+  "capacity": 430.0,
+  "description": {
+    "de": "Die Svipul wurde im Jahr YC 117 als Ergebnis des ersten gemeinsamen Forschungsprojekts der Republic Fleet herausgegeben, das Ingenieure aller sieben Minmatar-Stämme vereint, und stellt für viele Bürger der Republik ein mächtiges Symbol der Einheit zwischen den Stämmen dar.\n\nObwohl die Beträge der Ingenieure der Nefantar- und Starkmanir-Stämme relativ gering ausfielen, bewiesen sich eine große Gesandtschaft der Vo-Lakat Thukker-Karawane und Spenden von loyalen Kapselpiloten aus dem gesamten Cluster von unschätzbarem Wert für die Entwicklung dieses unglaublich anpassungsfähigen Kriegsschiffs.",
+    "en": "Released in YC 117 as the result of the first Republic Fleet joint research project to include engineers from all seven Minmatar tribes, the Svipul is a powerful symbol of inter-tribal unity for many Republic citizens.\r\n\r\nAlthough the contributions of engineers from the Nefantar and Starkmanir tribes were fairly minor, a large delegation from the Vo-Lakat Thukker caravan and donations from Republic loyalist capsuleers across the cluster were invaluable to the development of this incredibly adaptable warship.",
+    "es": "La Svipul es un poderoso símbolo de unidad intertribal para muchos ciudadanos de la República. Se lanzó en 117 CY como resultado del primer proyecto de investigación conjunta de la Flota de la República que incluía ingenieros de las siete tribus minmatarianas.\n\n\n\nAunque las contribuciones de los ingenieros de las tribus Nefantar y Starkmanir fueron pequeñas, una gran delegación de la caravana Thukker Vo-Lakat y las donaciones de los capsulistas leales a la República de todo el cúmulo fueron valiosísimas para el desarrollo de esta nave de guerra increíblemente adaptable.",
+    "fr": "Le Svipul a été déployé en CY 117. Il représente le résultat du premier projet de recherche commun entre les ingénieurs des sept tribus minmatar, et un symbole puissant de l'unité inter-tribale pour beaucoup de citoyens de la République.\n\nMalgré une contribution légère des ingénieurs des tribus Nefantar et Sarkmanir, la grande commission de la caravane Vo-Lakat thukker ainsi que les dons des capsuliers loyalistes de la République de la galaxie ont largement contribué au développement de ce vaisseau de guerre très polyvalent.",
+    "ja": "スヴィプルは、ミンマター七部族全部から集まったエンジニアが参加した共和国初のフリート共同研究計画の成果として、YC117年に発表された。多くの共和国民にとって、部族が団結した象徴として心のよりどころになっている。ネファンターとスタークマニアから集まったエンジニアによる功績は実際大したことはなかったのだが、ボーラカト・サッカーキャラバンから選ばれた多数のエンジニア、および民族の垣根を超えて王国を支持するカプセラたちから集まった寄付金はこの素晴らしく順応力の高い戦艦の開発に多大な貢献を果たした。",
+    "ko": "YC 117년, 7대 부족이 합심하여 제작한 최초의 함선으로 공화국 시민들에게는 부족간 통합의 상징이나 다름없는 존재입니다. <br><br>네판타르를 포함한 스타크마니르 부족의 기여는 상당히 낮았지만, 터커 부족과 공화국 소속 캡슐리어들의 후원을 통해 스비풀은 무사히 제작될 수 있었습니다.",
+    "ru": "В результате глобального проекта, в котором были задействованы специалисты всех семи матарских племён, в 117 году по юлайскому летоисчислению была завершена разработка многорежимного эсминца типа «Свипуль», ставшего для граждан Республики Минматар символом межплеменного братства.\n\nВклад нефантаров и старкманиров был сравнительно мал; тем не менее труд большой группы специалистов, прибывших из таккерского каравана Во-Лакат, а также повсеместно собираемые пожертвования сочувствующих Республике капсулёров, позволили довести до завершения этот невероятно многофункциональный проект.",
+    "zh": "作为共和舰队所有七个部族的工程师共同研发项目的产物，于YC117年问世的斯威普级对于许多共和国居民来说，是部族间精诚团结的有力象征。\n\n虽然内凡达和斯塔科马部族的工程师对此贡献不大，但沃·拉卡图克尔旅行船队派出的庞大的代表团以及共和国忠实拥护者的倾情资助对这艘功能强大的战舰的研发所做的贡献是无价的。"
+  },
+  "factionID": 500002,
+  "graphicID": 21052,
+  "groupID": 1305,
+  "marketGroupID": 1953,
+  "mass": 1400000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      150,
+      71,
+      141,
+      85,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      150,
+      71,
+      141,
+      85,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      150,
+      71,
+      141,
+      85,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      150,
+      71,
+      141,
+      85,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      150,
+      71,
+      141,
+      85,
+      118,
+      94
+    ]
+  },
+  "metaGroupID": 14,
   "name": {
     "de": "Svipul",
     "en": "Svipul",
@@ -9,6 +74,268 @@
     "ko": "스비풀",
     "ru": "Svipul",
     "zh": "斯威普级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 144.0,
+  "sofFactionName": "minmatarbase",
+  "soundID": 20074,
+  "traits": {
+    "miscBonuses": [
+      {
+        "bonusText": {
+          "de": "<b>Weitere Boni sind verfügbar, solange einer der drei Modi des taktischen Zerstörers aktiv ist. Zwischen den Modi kann nur alle 10 Sekunden umgeschaltet werden.</b>",
+          "en": "<b>Additional bonuses are available while one of three Tactical Destroyer Modes are active. Modes may be switched no more than once every 10 seconds.</b>",
+          "es": "<b>Hay bonificaciones adicionales disponibles mientras uno de los tres modos de destructor táctico está habilitado. No se puede cambiar de modo más de una vez cada 10 segundos.</b>",
+          "fr": "<b>Des bonus supplémentaires sont disponibles tandis que l'un des trois modes de Destroyer tactiques est actif. Il n'est pas possible d'alterner les modes plus d'une fois toutes les 10 secondes.</b>",
+          "ja": "<b>戦術駆逐艦モードが1つでも作動中であれば、さらにボーナスが増す。モードは10秒間に1回だけ切り替えることができます。</b>",
+          "ko": "<b>세 가지 모드 중 한 가지가 활성화 중일 때 추가 보너스가 부여됩니다. 10초에 한 번씩 모드를 전환할 수 있습니다.</b>",
+          "ru": "<b>Дополнительные преимущества достигаются при входе в один из трёх доступных режимов многорежимного эсминца. Режимы можно переключать не чаще, чем раз в 10 секунд.</b>",
+          "zh": "<b>当战术驱逐舰启用三种模式中的任意一种会获得额外加成。每10秒钟只能切换一次模式。</b>"
+        },
+        "importance": 3
+      },
+      {
+        "bonusText": {
+          "de": "<b><u>Verteidigungsmodus</b></u>",
+          "en": "<b><u>Defense Mode</b></u>",
+          "es": "<b><u>Modo de defensa</b></u>",
+          "fr": "<b><u>Mode de défense</b></u>",
+          "ja": "<b><u>防衛モード</b></u>",
+          "ko": "<b><u>방어모드</b></u>",
+          "ru": "<b><u>Защитный режим</b></u>",
+          "zh": "<b><u>防御模式</b></u>"
+        },
+        "importance": 4
+      },
+      {
+        "bonusText": {
+          "de": "<b><u>Antriebsmodus</b></u>",
+          "en": "<b><u>Propulsion Mode</b></u>",
+          "es": "<b><u>Modo de propulsión</b></u>",
+          "fr": "<b><u>Mode de propulsion</b></u>",
+          "ja": "<b><u>推進モード</b></u>",
+          "ko": "<b><u>추진 모드</b></u>",
+          "ru": "<b><u>Скоростной режим</b></u>",
+          "zh": "<b><u>高速模式</b></u>"
+        },
+        "importance": 7
+      },
+      {
+        "bonusText": {
+          "de": "<b><u>Scharfschützenmodus</b></u>",
+          "en": "<b><u>Sharpshooter Mode</b></u>",
+          "es": "<b><u>Modo de francotirador</b></u>",
+          "fr": "<b><u>Mode Sharpshooter</b></u>",
+          "ja": "<b><u>射撃モード</b></u>",
+          "ko": "<b><u>저격 모드</b></u>",
+          "ru": "<b><u>Снайперский режим</b></u>",
+          "zh": "<b><u>狙击模式</b></u>"
+        },
+        "importance": 10
+      },
+      {
+        "bonus": 33,
+        "bonusText": {
+          "de": "Bonus auf den Schaden von <a href=showinfo:3302>kleinen Projektilgeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:3302>Small Projectile Turret</a> damage",
+          "es": "de bonificación al daño de la <a href=showinfo:3302>torreta de proyectiles pequeña</a>.",
+          "fr": "bonus aux dégâts de la <a href=showinfo:3302>petite tourelle à projectiles</a>",
+          "ja": "<a href=showinfo:3302>小型プロジェクタイルタレット</a>のダメージが増加",
+          "ko": "<a href=showinfo:3302>소형 발사체 터렛</a> 피해량 증가",
+          "ru": "увеличивается урон боеприпасов <a href=showinfo:3302>малых баллистических орудий</a>",
+          "zh": "<a href=showinfo:3302>小型射弹炮台</a>伤害加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 33.3,
+        "bonusText": {
+          "de": "Bonus auf alle Schild- und Panzerungsresistenzen bei aktiviertem <i>Verteidigungsmodus</i>",
+          "en": "bonus to all shield and armor resistances while <i>Defense Mode</i> is enabled",
+          "es": "de bonificación a todas las resistencias de blindaje y escudo mientras el <i>modo de defensa</i> está habilitado.",
+          "fr": "bonus à toutes les résistances de bouclier et de blindage lorsque le <i>mode de défense</i> est activé",
+          "ja": "<i>防衛モード</i>が有効な間、全てのシールドレジスタンス、アーマーレジスタンスが増加",
+          "ko": "<i>방어 모드</i> 활성화 중 실드 및 장갑 저항력 증가",
+          "ru": "повышается сопротивляемость брони и щитов корабля всем видам воздействия (при работе в <i>защитном режиме</i>)",
+          "zh": "启用<i>防御模式</i>后护盾和装甲抗性加成"
+        },
+        "importance": 5,
+        "unitID": 105
+      },
+      {
+        "bonus": 33.3,
+        "bonusText": {
+          "de": "Bonus auf den Trägheitsmodifikator von Schiffen bei aktiviertem <i>Antriebsmodus</i>",
+          "en": "bonus to ship inertia modifier while <i>Propulsion Mode</i> is enabled",
+          "es": "de bonificación al modificador de inercia de la nave mientras el <i>modo de propulsión</i> está habilitado.",
+          "fr": "de bonus au modificateur d'inertie du vaisseau lorsque le <i>mode de propulsion</i> est activé",
+          "ja": "<i>推進モード</i>が有効な間、艦船の慣性修正乗数が増加",
+          "ko": "<i>추진 모드</i> 활성화 중 관성 계수 감소",
+          "ru": "повышается маневренность корабля (при работе в <i>скоростном режиме</i>)",
+          "zh": "启用<i>高速模式</i>后惯性系数加成"
+        },
+        "importance": 9,
+        "unitID": 105
+      },
+      {
+        "bonus": 33.3,
+        "bonusText": {
+          "de": "Bonus auf die Nachführungsgeschwindigkeit von <a href=showinfo:3302>kleinen Projektilgeschütztürmen</a> bei aktiviertem <i>Scharfschützenmodus</i>",
+          "en": "bonus to <a href=showinfo:3302>Small Projectile Turret</a> tracking speed while <i>Sharpshooter Mode</i> is enabled",
+          "es": "de bonificación a la velocidad de rastreo de la <a href=showinfo:3302>torreta de proyectiles pequeña</a> mientras el <i>modo de francotirador</i> está habilitado.",
+          "fr": "de bonus à la portée optimale des <a href=showinfo:3302>petites tourelles à projectiles</a> lorsque le <i>Mode Sharpshooter</i> est activé",
+          "ja": "<i>射撃モード</i>が有効な間、<a href=showinfo:3302>小型プロジェクタイルタレット</a>の追跡速度が上昇",
+          "ko": "<i>저격 모드</i> 활성화 중 <a href=showinfo:3302>소형 발사체 터렛</a> 트래킹 속도 증가",
+          "ru": "повышается скорость наводки на цель <a href=showinfo:3302>малых баллистических орудий</a> (при работе в <i>снайперском режиме</i>)",
+          "zh": "启用<i>狙击模式</i>后<a href=showinfo:3302>小型射弹炮台</a>跟踪速度加成"
+        },
+        "importance": 11,
+        "unitID": 105
+      },
+      {
+        "bonus": 33.3,
+        "bonusText": {
+          "de": "Bonus auf den Schaden von <a href=showinfo:3302>kleinen Projektilgeschütztürmen</a> bei aktiviertem <i>Scharfschützenmodus</i>",
+          "en": "bonus to <a href=showinfo:3302>Small Projectile Turret</a> damage while <i>Sharpshooter Mode</i> is enabled",
+          "es": "de bonificación al daño de la <a href=showinfo:3302>torreta de proyectiles pequeña</a> mientras el <i>modo de francotirador</i> está habilitado.",
+          "fr": "de bonus aux dégâts des <a href=showinfo:3302>petites tourelles à projectiles</a> lorsque le <i>Mode Sharpshooter</i> est activé.",
+          "ja": "<i>射撃モード</i>を有効化している間、<a href=showinfo:3302>小型プロジェクタイルタレット</a>のダメージが上昇",
+          "ko": "<i>저격모드</i> 활성화 중 <a href=showinfo:3302>소형 발사체 터렛</a> 피해량 증가",
+          "ru": "увеличивается урон <a href=showinfo:3302>малых баллистических орудий</a> (при работе в <i>снайперском режиме</i>)",
+          "zh": "启用<i>狙击模式</i>后<a href=showinfo:3302>小型射弹炮台</a>伤害加成"
+        },
+        "importance": 12,
+        "unitID": 105
+      },
+      {
+        "bonus": 66.6,
+        "bonusText": {
+          "de": "Reduktion des <a href=showinfo:3454>Mikrowarpantrieb</a>-Signaturradius bei aktiviertem <i>Verteidigungsmodus</i>",
+          "en": "reduction in <a href=showinfo:3454>Microwarpdrive</a> signature radius penalty while <i>Defense Mode</i> is active",
+          "es": "de reducción de la penalización de radio de la señal del <a href=showinfo:3454>motor de microwarp</a> mientras el <i>modo de defensa</i> está activado.",
+          "fr": "de réduction à la pénalité de rayon de signature du <a href=showinfo:3454>propulseur de microwarp</a> lorsque le <i>mode de défense</i> est activé",
+          "ja": "<i>防衛モード</i>が有効な間、<a href=showinfo:3454>マイクロワープドライブ</a>のシグネチャ半径ペナルティが軽減",
+          "ko": "<i>방어 모드</i> 활성화 중 <a href=showinfo:3454>마이크로 워프 드라이브</a> 시그니처 반경 페널티 감소",
+          "ru": "уменьшается влияние <a href=showinfo:3454>микроварп-ускорителей</a> на размер сигнатуры корабля (при работе в <i>защитном режиме</i>)",
+          "zh": "启用<i>防御模式</i>后<a href=showinfo:3454>微型跃迁推进器</a>的信号半径惩罚降低"
+        },
+        "importance": 6,
+        "unitID": 105
+      },
+      {
+        "bonus": 66.6,
+        "bonusText": {
+          "de": "Bonus auf den Geschwindigkeitsschub von <a href=showinfo:3450>Nachbrennern</a> und <a href=showinfo:3454>Mikrowarpantrieben</a> bei aktiviertem <i>Antriebsmodus</i>.",
+          "en": "bonus to <a href=showinfo:3450>Afterburner</a> and <a href=showinfo:3454>Microwarpdrive</a> speed boost while <i>Propulsion Mode</i> is enabled",
+          "es": "de bonificación al impulso de velocidad del <a href=showinfo:3450>posquemador</a> y el <a href=showinfo:3454>motor de microwarp</a> mientras el <i>modo de propulsión</i> está habilitado.",
+          "fr": "de bonus à la vitesse de propulsion des <a href=showinfo:3450>systèmes de post-combustion</a> et des <a href=showinfo:3454>propulseurs de microwarp</a> lorsque le <i>Mode Propulsion</i> est activé.",
+          "ja": "<i>推進モード</i>を有効化している間、<a href=showinfo:3450>アフターバーナー</a>と<a href=showinfo:3454>マイクロワープドライブ</a>のスピードブーストが上昇",
+          "ko": "<i>추진 모드</i> 활성화 중 <a href=showinfo:3450>애프터버너</a> 및 <a href=showinfo:3454>마이크로 워프 드라이브</a> 속도 증가",
+          "ru": "повышается эффективность по приросту скорости <a href=showinfo:3450>форсажных ускорителей</a> и <a href=showinfo:3454>микроварп-ускорителей</a> (при работе в <i>скоростном режиме</i>)",
+          "zh": "启用<i>高速模式</i>后<a href=showinfo:3450>加力燃烧器</a>和<a href=showinfo:3454>微型跃迁推进器</a>的速度增量加成"
+        },
+        "importance": 8,
+        "unitID": 105
+      },
+      {
+        "bonus": 66.6,
+        "bonusText": {
+          "de": "erhöhte Widerstandsfähigkeit gegen gegnerische <a href=showinfo:3433>Sensordämpfer</a> und <a href=showinfo:3434>Waffenstörer</a> bei aktiviertem <i>Scharfschützenmodus</i>",
+          "en": "increased resistances against hostile <a href=showinfo:3433>Sensor Dampeners</a> and <a href=showinfo:3434>Weapon Disruptors</a> while <i>Sharpshooter Mode</i> is enabled",
+          "es": "más resistencia frente a <a href=showinfo:3433>atenuadores de sensor</a> y <a href=showinfo:3434>disruptores de armas</a> hostiles mientras el <i>modo de francotirador</i> está habilitado.",
+          "fr": "de bonus aux résistances contre les <a href=showinfo:3433>atténuateurs de détection</a> et les <a href=showinfo:3434>perturbateurs d'armement</a> ennemis lorsque le <i>Mode Sharpshooter</i> est activé.",
+          "ja": "<i>射撃モード</i>を有効化している間、敵対勢力の<a href=showinfo:3433>センサーダンプナー</a>と<a href=showinfo:3434>兵器妨害器</a>に対する耐性が増加",
+          "ko": "<i>저격모드</i> 활성화 중 <a href=showinfo:3433>센서 댐프너</a> 및 <a href=showinfo:3434>무기 디스럽터</a> 저항력 증가",
+          "ru": "повышается сопротивляемость действию вражеских <a href=showinfo:3433>модулей подавления захвата целей</a> и <a href=showinfo:3434>постановщиков помех системам наводки</a> (при работе в <i>снайперском режиме</i>)",
+          "zh": "启用<i>狙击模式</i>后对敌方的<a href=showinfo:3433>感应抑阻器</a>和<a href=showinfo:3434>武器扰断器</a>的抗性提高"
+        },
+        "importance": 14,
+        "unitID": 105
+      },
+      {
+        "bonus": 95,
+        "bonusText": {
+          "de": "Reduktion des CPU-Bedarfs von Scansondenwerfern und Vermessungssondenwerfern",
+          "en": "reduction in Scan Probe Launcher and Survey Probe Launcher CPU requirements",
+          "es": "de reducción de los requisitos de CPU del lanzasondas de escaneo y el lanzasondas de prospección.",
+          "fr": "réduction des prérequis de CPU pour les lanceurs de sondes de balayage et de sondes d'inspection",
+          "ja": "スキャンプローブランチャーおよび調査プローブランチャーのCPU前提要件が減少",
+          "ko": "스캔 프로브 런처 및 조사 프로브 런처 CPU 사용량 감소",
+          "ru": "сокращается потребность пусковых установок разведзондов и пусковых установок лунных зондов в мощностях ЦПУ",
+          "zh": "扫描探针发射器和测量探针发射器CPU需求降低"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 100,
+        "bonusText": {
+          "de": "Bonus auf die Sensorstärke und Zielerfassungsreichweite bei aktiviertem <i>Scharfschützenmodus</i>",
+          "en": "bonus to sensor strength and targeting range while <i>Sharpshooter Mode</i> is enabled",
+          "es": "de bonificación a la intensidad del sensor y la distancia-objetivo mientras el <i>modo de francotirador</i> está habilitado.",
+          "fr": "de bonus à la puissance de détection et à la portée de ciblage lorsque le <i>mode Sharpshooter</i> est activé.",
+          "ja": "<i>射撃モード</i>を有効化している間、センサー強度とターゲット範囲が増加",
+          "ko": "<i>저격모드</i> 활성화 중 센서 강도 및 타겟팅 거리 증가",
+          "ru": "увеличивается дальность захвата целей, а также эффективность штатных сенсорных систем (при работе в <i>снайперском режиме</i>)",
+          "zh": "启用<i>狙击模式</i>后感应强度和锁定距离加成"
+        },
+        "importance": 13,
+        "unitID": 105
+      }
+    ],
+    "roleBonuses": [],
+    "types": {
+      "34533": [
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3302>kleinen Projektilgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3302>Small Projectile Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3302>torreta de proyectiles pequeña</a>.",
+            "fr": "bonus aux dégâts de la <a href=showinfo:3302>petite tourelle à projectiles</a>",
+            "ja": "<a href=showinfo:3302>小型プロジェクタイルタレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3302>소형 발사체 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон боеприпасов <a href=showinfo:3302>малых баллистических орудий</a>",
+            "zh": "<a href=showinfo:3302>小型射弹炮台</a>伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Reduzierung des Hitzeschadens von Modulen",
+            "en": "reduction in module heat damage amount taken",
+            "es": "de reducción de la cantidad de daño por calor del módulo.",
+            "fr": "de réduction aux dégâts de chaleur subis par un module",
+            "ja": "モジュールが受けるヒートダメージ量が軽減",
+            "ko": "모듈이 받는 열 피해 감소",
+            "ru": "уменьшается объём температурных повреждений модулей, получаемых ими при перегрузке",
+            "zh": "减少装备遭受的超载损伤"
+          },
+          "importance": 3,
+          "unitID": 105
+        },
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf die optimale Reichweite von <a href=showinfo:3302>kleinen Projektilgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3302>Small Projectile Turret</a> optimal range",
+            "es": "de bonificación al alcance óptimo de la <a href=showinfo:3302>torreta de proyectiles pequeña</a>.",
+            "fr": "bonus à la portée optimale de la <a href=showinfo:3302>petite tourelle à projectiles</a>",
+            "ja": "<a href=showinfo:3302>小型プロジェクタイルタレット</a>の最適射程距離が拡大",
+            "ko": "<a href=showinfo:3302>소형 발사체 터렛</a> 최적사거리 증가",
+            "ru": "увеличивается оптимальная дальность ведения огня из <a href=showinfo:3302>малых баллистических орудий</a>",
+            "zh": "<a href=showinfo:3302>小型射弹炮台</a>最佳射程加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 47000.0
 }

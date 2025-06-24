@@ -1,5 +1,19 @@
 {
-  "typeID": 88009,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Sie vermuten, dass man mit dem richtigen Werkzeug zur Reliktanalyse noch etwas von Wert in diesem Wrack finden könnte.",
+    "en": "You surmise that with some relic analyzing equipment, there is still something of value to be had from this wreck.",
+    "es": "Con algo de equipo de análisis de reliquias, quizá aún pueda sacarse algo de valor de estos restos.",
+    "fr": "Vous estimez qu'avec du bon matériel d'analyse de reliques, il devrait être possible de tirer quelque chose de cette épave.",
+    "ja": "遺物を分析するなんらかの装置があれば、まだこの残骸に価値を見いだせるかもしれない。",
+    "ko": "유물 분석 장비로 잔해에서 부품이나 자원을 획득할 수 있습니다.",
+    "ru": "Вы считаете, что с помощью оборудования по анализу данных из этих обломков всё ещё можно извлечь что-то полезное.",
+    "zh": "你想着如果使用遗迹分析设备的话，或许还能从这片残骸中获得些有价值的东西。"
+  },
+  "graphicID": 28142,
+  "groupID": 306,
+  "iconID": 24254,
+  "mass": 10000.0,
   "name": {
     "de": "Unfit Remnant",
     "en": "Unfit Remnant",
@@ -10,5 +24,9 @@
     "ru": "Unfit Remnant",
     "zh": "不适宜的废墟"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 300.0,
+  "sofFactionName": "triglavianbase",
   "volume": 27500.0
 }

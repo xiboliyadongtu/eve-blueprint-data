@@ -1,5 +1,19 @@
 {
-  "typeID": 83468,
+  "basePrice": 500000.0,
+  "description": {
+    "de": "Neuro-Elektron-Tunnel-Resonatoren machen sich Elektronentunnel zu Nutze, um elektrische Impulse von Neuronen, die mit Schlüsselreaktionen des autonomen Systems verbunden sind, schnell an die Empfänger im installierten Schiff zu leiten. Durch die Nutzung der Quantenresonanz zur Aktivierung des Tunnels für wichtige Impulse, stellt dieses Gerät eine effiziente Neurolink-Verbindung mit der größeren Bandbreite, die von fortgeschritteneren Schiffen benötigt wird, bereit. Der NET-Resonator, der beim Bau von Schiffen durch die Blood Raiders verwendet wird, leitet Signale weiter, die von Neuronen ausgesendet werden, die mit den niederfrequenten Ultradian-Rhythmen der Schlafzyklen und zielorientierten autonomen Heuristiken verbunden ist.",
+    "en": "Neuro-Electron Tunnel Resonators makes use of electron tunneling to fast-track electric impulses from neurons associated with key autonomic responses to receivers in the ship in which they are installed. Using quantum resonance to activate tunneling for key impulses, this device provides an efficient neurolink with greater bandwidth required by more advanced vessels. \r\n\r\nThe NET Resonator used in the construction of ships by the Blood Raiders tunnels signals sent by neurons associated with the low-frequency ultradian rhythms of sleep-cycles and goal-orienting autonomic heuristics.",
+    "es": "Los resonadores de túnel de neuroelectrones utilizan túneles de electrones para acelerar los impulsos eléctricos de las neuronas asociadas con respuestas autónomas clave a los receptores de la nave en la que están instalados. Mediante el uso de resonancia cuántica para activar la tunelización de impulsos clave, este dispositivo proporciona un neuroenlace eficiente con mayor ancho de banda, necesario para las naves más avanzadas. \r\n\r\nEl resonador NET utilizado en la construcción de naves por los Saqueadores Sanguinarios envía señales emitidas por neuronas asociadas a los ritmos ultradianos de baja frecuencia de los ciclos del sueño y la heurística autónoma orientada a objetivos.",
+    "fr": "Les résonateurs neuro-électroniques de tunnel utilisent la tunnelisation électronique pour accélérer les impulsions électriques depuis des neurones liés aux réponses autonomes clés vers les récepteurs dans le vaisseau où ils sont installés. Utilisant la résonance quantique pour activer la tunnelisation des impulsions essentielles, ce dispositif offre une neuroliaison efficace avec une bande passante plus large nécessaire aux vaisseaux plus avancés. Le résonateur NET utilisé dans la construction de vaisseaux par les Blood Raiders permet la tunnelisation des signaux envoyés par les neurones associés aux rythmes ultradiens à basse fréquence des cycles de sommeil et des heuristiques autonomes d'orientation d'objectif.",
+    "ja": "神経電子トンネル共鳴装置（Neuro-Electron Tunnel Resonators、NET共鳴装置）を艦船に取り付けることで、電子トンネル効果を使い、搭乗者の神経から送られる主要な自律反応に関する電気パルスの伝達を加速させることができる。このデバイスは量子共鳴を使って重要なインパルスが通過する“トンネル”を生み出すことで、より高度な艦船で必要となる、広い帯域幅を持つ効率的な神経リンクを形成する。 \r\n\r\nブラッドレイダーズが艦船の建造に使っているNET共鳴装置は、低頻度超日リズムの睡眠サイクルと自律神経系の目的志向ヒューリスティック処理に関連する神経信号を“トンネル”経由で伝達している。",
+    "ko": "신경-전자 터널(NET) 공명기는 전자 터널을 활용해 뇌의 자율신경계에서 발생한 전자 신호를 함선에 설치된 수신기로 빠르게 전송하는 장치입니다. 양자 공명 기술을 활용해 핵심 전자 신호를 포착해 전자 터널을 활성화합니다. 이 장치로 최신형 함선에 필수적인 광대역 뉴로링크를 갖출 수 있습니다.<br><br>블러드 레이더 함선에 장착된 NET 공명기는 신경-전자 터널을 활용해 뇌의 목표 지향적 자율신경계 활동 및 수면 주기에 따른 24시간 이하 단위 생체 리듬 저주파 신호를 전송합니다.",
+    "ru": "Резонаторы нейроэлектронного туннелирования используют эффект туннелирования электронов для ускорения передачи электрических импульсов от нейронов, отвечающих за ключевые автономные реакции, к приёмникам корабля, на котором они установлены. Применяя квантовый резонанс для активации туннелирования ключевых импульсов, это устройство обеспечивает эффективную нейронную связь увеличенной пропускной способности, которая требуется для продвинутых моделей кораблей. Резонатор НЭТ, установленный на судах «Охотников за кровью», передаёт сигналы от нейронов, ответственных за низкочастотные ритмы глубокого сна и автономное целеполагающее мышление.",
+    "zh": "神经电子通道共振器运用电子隧穿技术，将神经元中关键自主反应的电脉冲迅速传输至舰船内的接收器。该设备利用量子共振技术激活关键脉冲的隧穿效应，为高级舰船提供了高效、大带宽的神经连接。血袭者在造船时采用了NET共振器，该设备能够隧穿由睡眠周期中的低频超日节律和目标导向自主启发相关神经元传送的信号。"
+  },
+  "groupID": 334,
+  "iconID": 26039,
+  "marketGroupID": 1899,
+  "mass": 1.0,
   "name": {
     "de": "Blood Raider NET Resonator",
     "en": "Blood Raider NET Resonator",
@@ -10,5 +24,7 @@
     "ru": "Blood Raider NET Resonator",
     "zh": "血袭者NET共振器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

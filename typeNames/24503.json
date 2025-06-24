@@ -1,5 +1,21 @@
 {
-  "typeID": 24503,
+  "basePrice": 101160.0,
+  "description": {
+    "de": "Die Nova Light Missile ist eine winzige Projektilwaffe mit Nuklear-Sprengkopf, die auf einem klassischen Minmatar-Design beruht, das seit den frühen Tagen des Widerstandes der Minmatar in Gebrauch ist.\n\n\n\nEine modifizierte Version der Nova Light Missile. Eignet sich besonders für den Beschuss von kleineren Schiffen. Der Treibstoffverbrauch durch Stabilisierungs-Thruster verringert jedoch die maximale Flugzeit.",
+    "en": "The Nova light missile is a tiny nuclear projectile based on a classic Minmatar design that has been in use since the early days of the Minmatar Resistance.\r\n\r\nA modified version of the Nova light missile. Great for taking down smaller ships, but fuel use by stabilization thrusters reduces maximum flight time.",
+    "es": "El misil ligero Nova es un pequeño proyectil nuclear basado en un diseño clásico minmatariano que se utiliza desde los inicios de la resistencia minmatariana.\n\nEsta versión modificada del misil ligero Nova resulta ideal para derribar naves más pequeñas, aunque el consumo de combustible de los propulsores de estabilización reduce el tiempo de vuelo máximo.",
+    "fr": "Le missile léger Nova est un petit projectile nucléaire basé sur des plans minmatar. Sa mise en service remonte aux débuts de la résistance minmatar.\n\nVersion modifiée du missile léger Nova. Ce missile est idéal face aux vaisseaux plus petits, mais l'utilisation du carburant par les propulseurs de stabilisation réduit le temps de vol maximal.",
+    "ja": "ノヴァライトミサイルは、ミンマター蜂起の昔から使われている古いミンマター系設計を基に作られた超小型核ミサイルである。\n\nノヴァライトミサイルの改良版。小型艦を撃ち落とすには便利だが、姿勢制御スラスターが推進剤を食うので最大飛行時間は短くなる。",
+    "ko": "노바 라이트 마사일은 핵탄두가 탑재된 소형 미사일로 민마타 레지스탕스 초기에 설계된 역사 깊은 무기입니다. <br><br>개량된 노바 라이트 미사일입니다. 소형 함선을 상대로 매우 효과적이지만 추진기 연료 사용으로 인해 최대 비행시간이 감소합니다.",
+    "ru": "Nova — это легкая ядерная ракета, разработанная на основе классической модели Минматар, которая использовалась с самого начала Сопротивления Минматар.\n\nМодифицированная версия легкой ракеты Nova. Отлично подходит для поражения целей малых размеров, но максимальное время полета снижено ввиду значительного потребления топлива стабилизационными двигателями.",
+    "zh": "星爆轻型导弹是种超小型的核子武器，源于自米玛塔尔抵抗运动早期开始就有应用的某个经典共和国设计。这是星爆轻型导弹的一种改良版本，针对小船效果好，但为了优化发射，导弹飞行速度上必须作出限制。"
+  },
+  "graphicID": 20063,
+  "groupID": 653,
+  "iconID": 193,
+  "marketGroupID": 917,
+  "mass": 700.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Nova Precision Light Missile",
     "en": "Nova Precision Light Missile",
@@ -10,5 +26,9 @@
     "ru": "Nova Precision Light Missile",
     "zh": "星爆精准轻型导弹"
   },
+  "portionSize": 5000,
+  "published": true,
+  "radius": 300.0,
+  "variationParentTypeID": 213,
   "volume": 0.015
 }

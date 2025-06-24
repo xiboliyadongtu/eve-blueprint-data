@@ -1,5 +1,17 @@
 {
-  "typeID": 26869,
+  "description": {
+    "de": "Strahlt zufallsgesteuerte, elektronische Impulse aus, die vorgesehen sind, um Zielaufschaltungen von jedem Schiff zu stören, das eine geringere Sensorstärke hat als die ECM Burst Störstärke. Aufgrund der instabilen Natur der Impulse und der Stärke an innerer Abschirmung, welche nötig ist, um sicherzustellen, dass die Impulse nicht den eigenen Ursprung stören, können nur Schiffe der Schlachtschiff-Klasse die Möglichkeiten dieses Moduls völlig ausschöpfen. \r\n\r\nHinweis: Es kann nicht mehr als ein Modul dieses Typs zur selben Zeit aktiviert werden",
+    "en": "Emits random electronic bursts intended to disrupt target locks on any ship with lower sensor strengths than the ECM burst jamming strength. Given the unstable nature of the bursts and the amount of internal shielding needed to ensure they do not affect their own point of origin, only battleship-class vessels can use this module to its fullest extent. \r\n\r\nNote: Only one module of this type can be activated at the same time",
+    "es": "Emite estallidos electrónicos aleatorios diseñados para interrumpir los bloqueos del objetivo en cualquier nave con intensidad del sensor inferior a la intensidad de la perturbación de la ráfaga de contramedidas electrónicas. Debido a la naturaleza inestable de las ráfagas y a la cantidad de blindaje interno necesario para garantizar que no afectan a su propio punto de origen, solo las naves de clase acorazado pueden utilizar este módulo en toda su extensión.\n\nAviso: Solo se puede activar un módulo de este tipo a la vez.",
+    "fr": "Des salves électroniques aléatoires sont émises afin de perturber le verrouillage de cible de tout vaisseau dont les détecteurs sont moins puissants que le brouillage émis par les salves CME. Étant donné la nature instable des salves et la quantité de bouclier interne nécessaire pour éviter qu'elles n'affectent leur propre point d'origine, seuls les vaisseaux de classe cuirassé peuvent utiliser ce module à pleine puissance. \n\nRemarque : un seul module de ce type peut être activé à la fois.",
+    "ja": "電子バーストをランダムに放出して敵船のターゲットロック機能を妨害する。ECMバーストジャミングよりも敏感な精度の高いセンサーを搭載した船に対して有効。バーストの性質が不安定であることと、自身に影響を与えないように内部シールドを十分に施す必要があることから、戦艦級でなければこのモジュールを完全に活用することはできない。\n\n注:このタイプのモジュールを複数同時に起動することはできない",
+    "ko": "무작위 전자기 버스트를 방출하여 ECM 버스트 재밍 강도보다 낮은 센서 강도를 가진 대상 함선의 타겟팅을 방해합니다. 버스트는 불안정한 파동을 방출하기 때문에 버스트를 발동한 함선이 영향 받지 않도록 내부 실드를 항시 가동해야 합니다. 이로 인해 배틀쉽급 함선들만 해당 모듈을 최대 효율로 사용할 수 있습니다. <br><br>참고: 동일한 종류의 모듈을 동시에 사용할 수 없습니다.",
+    "ru": "Испускает через случайные интервалы времени электронные импульсы, нарушающие работу систем целеуказания любого корабля с более низкой мощностью сенсоров, чем мощность сигнала РЭБ. Учитывая нестабильную природу импульсов и необходимость экранирования модуля во избежание повреждений собственного корабля, его максимально эффективное использование возможно лишь на борту линейных кораблей. Примечание: одновременно можно активировать только один модуль данного типа",
+    "zh": "向目标发射杂乱的电子脉冲波，干扰任何低于此ECM干扰信号强度的感应器，扰断目标舰船的锁定行为。考虑到脉冲波的不稳定性和需要强大的内部屏蔽装置来防止其干扰到自身发射载体的工作，只有战列舰级别的舰船才能够完全的将此装备的性能发挥到极限。注：只能同时启动一个这样的装备。"
+  },
+  "groupID": 353,
+  "iconID": 109,
+  "mass": 5000.0,
   "name": {
     "de": "QA ECM Burst",
     "en": "QA ECM Burst",
@@ -10,5 +22,7 @@
     "ru": "QA ECM Burst",
     "zh": "QA测试ECM脉冲波"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 1.0
 }

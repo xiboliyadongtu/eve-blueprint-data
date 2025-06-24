@@ -1,5 +1,18 @@
 {
-  "typeID": 3337,
+  "basePrice": 7500000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Minmatar-Schlachtschiffen.",
+    "en": "Skill at operating Minmatar battleships.",
+    "es": "Habilidad en el manejo de acorazados minmatarianos.",
+    "fr": "Compétence liée au pilotage des cuirassés minmatar.",
+    "ja": "ミンマター戦艦を操作するスキル。",
+    "ko": "민마타 배틀쉽을 운용하기 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на линкорах производства Республики Минматар.",
+    "zh": "操作米玛塔尔战列舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Minmatar Battleship",
     "en": "Minmatar Battleship",
@@ -10,5 +23,8 @@
     "ru": "Минматарские линкоры",
     "zh": "米玛塔尔战列舰操作"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
   "volume": 0.01
 }

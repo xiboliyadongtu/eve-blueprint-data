@@ -1,5 +1,19 @@
 {
-  "typeID": 83661,
+  "basePrice": 29696.0,
+  "description": {
+    "de": "Dieses Gerät verwendet eine Vielzahl von Emissionsunterdrückungs- und Maskierungsmethoden, um den allgemeinen Signaturradius eines Schiffes zu reduzieren, der von gegnerischen Sensoren beobachtet und in Zielcomputer-Algorithmen dargestellt wird. Die Unterdrückung des Signaturradius hat den Vorteil, die Zeit zum Erfassen gegnerischer Zielsensoren zu erhöhen und gleichzeitig den erlittenen Schaden von fast allen Waffensystemen zu verringern, indem sie feindliche Feuerlösungen und Detonatoren in der Nähe verwirren. Dieses Gerät funktioniert sowohl im passiven als auch im aktiven Modus und bietet einen kleinen Vorteil durch eine passive Emissionsreduktion sowie einen deutlich verbesserten Vorteil im aktiven Maskierungsmodus.",
+    "en": "This device uses a variety of emissions suppression and masking methods to reduce the overall signature radius of a ship observable by enemy sensors and represented in targeting computer algorithms. Signature radius suppression has the advantage of increasing the time to lock of enemy targeting sensors, while also reducing incoming damage from almost all weapon systems by confounding enemy firing solutions and proximity detonators.\r\n\r\nThis device operates in both passive and active modes, providing a small benefit through passive emissions reduction and a dramatically enhanced benefit in active masking mode.",
+    "es": "Este dispositivo utiliza una serie de métodos de ocultación y supresión de emisiones para reducir el radio de la señal general de una nave que puede ser observada por los sensores enemigos y representada en algoritmos informáticos de adquisición de objetivos. La supresión del radio de la señal tiene la ventaja de aumentar el tiempo para fijar los sensores de objetivos enemigos y reducir el daño recibido por casi todos los sistemas de armas al confundir el disparo del enemigo y los detonadores de proximidad.\r\n\r\nEste dispositivo funciona tanto en modo pasivo como activo, lo que proporciona un pequeño beneficio mediante la reducción de las emisiones pasivas y un beneficio mucho mayor en el modo de ocultación activo.",
+    "fr": "Cet appareil utilise diverses méthodes de suppression et de masquage des émissions pour réduire globalement le rayon de signature d'un vaisseau pouvant être observé par les détecteurs ennemis et représenté par les algorithmes des ordinateurs de visée. La suppression du rayon de signature présente l'avantage d'accroître le temps nécessaire pour qu'un ennemi verrouille ses détecteurs de visée, tout en réduisant les dégâts infligés par presque tous les systèmes d'armement, en perturbant les solutions de tir ennemies et leurs détonateurs de proximité. Ce dispositif peut fonctionner en mode actif ou passif, apportant un gain mineur via la réduction passive des émissions, et un gain considérablement supérieur en mode de masquage actif.",
+    "ja": "この装置は、様々な放出抑制とマスキング手段を用いて、敵のセンサーやコンピューターアルゴリズムで観測可能な艦船全体のシグネチャ半径を縮小する。シグネチャ半径の抑制には敵のターゲットセンサーのロックにかかる時間を延長させるという利点があり、また、敵の発射装置や近接起爆装置を混乱させることで、ほぼすべての兵器システムからのダメージを軽減させる。\r\n\r\nこのデバイスは、パッシブモードとアクティブモードの両方で動作するが、パッシブ放出軽減ではわずかな効果しか得られず、アクティブマスキングモードでは効果が劇的に向上する。",
+    "ko": "차폐막 전개 및 신호 억제 방식을 통해 함선의 전반적인 시그니처 반경을 축소하고 적 센서를 비롯한 각종 추적 장비에 감지되지 않도록 합니다. 시그니처 반경을 축소할 경우 적의 타겟팅 시간이 크게 지연되며 무기 시스템을 비롯한 근거리 기폭 장치로부터 입는 피해가 감소합니다.\r\n\r\n해당 모듈을 액티브 또는 패시브 모드로 운용할 수 있습니다. 패시브 모드의 경우 지속 효과를 발휘하며 모듈 활성화 시 강력한 차폐막을 전개합니다.",
+    "ru": "Это устройство подавляет различные сигналы и позволяет кораблю применять технологии маскировки для уменьшения радиуса сигнатуры, обнаруживаемой сенсорами и алгоритмами наведения противника. При уменьшении радиуса сигнатуры вражеским сенсорам требуется больше времени для захвата цели, а также снижается точность систем наведения и радиовзрывателей, что уменьшает урон от практически любых систем орудий. Устройство работает в активном и пассивном режимах. При пассивном подавлении сигналов эффект будет небольшим, но значительно усилится в активном режиме маскировки.",
+    "zh": "这个装置使用了一系列散射抑制手段来降低舰船在敌方感应器上的信号半径强度。信号半径抑制会使敌方锁定你的舰船的时间变长，并通过干扰敌方的火力系统来降低几乎所有武器和爆炸物所造成的伤害。这个装置可以切换主动模式和被动模式，其中被动模式提供的效果低一些，而主动开启后的效果会极大增强。"
+  },
+  "groupID": 1154,
+  "iconID": 10932,
+  "marketGroupID": 1426,
+  "metaGroupID": 5,
   "name": {
     "de": "Hakuzosu's Modified Signature Radius Suppressor",
     "en": "Hakuzosu's Modified Signature Radius Suppressor",
@@ -10,5 +24,8 @@
     "ru": "Hakuzosu's Modified Signature Radius Suppressor",
     "zh": "哈库藏改良型信号半径抑制装置"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 4409,
   "volume": 5.0
 }

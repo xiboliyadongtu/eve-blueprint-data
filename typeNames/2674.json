@@ -1,5 +1,17 @@
 {
-  "typeID": 2674,
+  "description": {
+    "de": "Wenn Kriege oder Epidemien ausbrechen, fliehen die Menschen aus ihrer Heimat. Kurzfristig bilden sich starke Flüchtlingsbewegungen.",
+    "en": "When wars and epidemics break out, people flee from their homes, forming massive temporary migrations.",
+    "es": "Cuando estalla una guerra o se extiende una epidemia, la gente deja atrás su hogar y se producen migraciones temporales en masa.",
+    "fr": "Lorsque des guerres éclatent ou que des épidémies se déclarent, les gens fuient leur foyer, formant ainsi d'énormes flux temporaires de migrants.",
+    "ja": "戦争や疫病の発生で故郷を追われ、大集団となって一時的に別の場所へ移住した者たち。",
+    "ko": "전쟁 또는 전염병이 발발하면 사람들은 대규모 무리를 이루어 고향을 등지고 떠납니다.",
+    "ru": "Когда разгорелась война и эпидемии, люди массово начали улетать из своих домов, формируя большие временные миграции.",
+    "zh": "当战争和瘟疫爆发时，人们从家园逃离，形成了大量的临时移民。"
+  },
+  "groupID": 283,
+  "iconID": 2542,
+  "mass": 40000.0,
   "name": {
     "de": "Group of Refugees",
     "en": "Group of Refugees",
@@ -10,5 +22,7 @@
     "ru": "Group of Refugees",
     "zh": "一群难民"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 40.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 16836,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Eine Anlage zur schnellen Aufbereitung von Erzen ohne das zeitraubende Zwischenspiel eines Stationsbesuches. Alles zum Ruhme des Kaisers und für die Vormachtstellung des Imperiums der Amarr.",
+    "en": "Built to reprocess ores into minerals without the tedious interlude of a station visit. All for the glory of the Emperor and the prominence of the Amarr Empire.",
+    "es": "Se construyó para convertir menas en minerales sin necesidad de tediosas visitas a la estación. Todo por la gloria de los emperadores y la supremacía del Imperio Amarr.",
+    "fr": "Construite pour retraiter le minerai brut et obtenir du minerai raffiné sans passer par une station. Tout cela à la gloire de l'Empereur et pour la suprématie de l'Empire amarr.",
+    "ja": "毎回ステーションを訪れなくても鉱石を再処理して鉱石を取り出せる施設。全ては皇帝の栄光のため、アマー帝国の名声のために。",
+    "ko": "정거장으로 되돌아가는 번거로운 절차 없이 광석을 미네랄로 정제할 수 있습니다. 아마르 제국의 영광을 위하여.",
+    "ru": "Позволяет переработку руды в минералы без нудных перерывов на рейсы к станциям и обратно. Во славу Императора и ради величия Амаррской Империи.",
+    "zh": "在这里可以直接从矿石中提炼矿物，省去了把矿石运回空间站的时间。一切都是为了皇帝的荣耀和艾玛帝国的昌盛！"
+  },
+  "graphicID": 1703,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Amarr Deadspace Refiner",
     "en": "Amarr Deadspace Refiner",
@@ -10,5 +23,10 @@
     "ru": "Amarr Deadspace Refiner",
     "zh": "艾玛死亡空间精炼厂"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 150.0,
+  "sofFactionName": "amarrbase",
   "volume": 100000000.0
 }

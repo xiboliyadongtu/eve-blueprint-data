@@ -1,5 +1,70 @@
 {
-  "typeID": 32207,
+  "basePrice": 4500000.0,
+  "capacity": 165.0,
+  "description": {
+    "de": "Die Freki wurde während der ersten Welle von Angriffsfregatten der Minmatar entwickelt, aber später aus Kostengründen wieder verworfen. Sie ist für ihren besonders raffiniert entwickelten Warpkern bekannt. Dieser erlaubt es ihr, als Erste am Kampfschauplatz zu sein und ihre Feinde in die Falle zu locken, um sie dann zu vernichten.\n\nDa nur eine begrenzte Zahl dieses Modells gebaut wurde, sieht man die Freki nicht häufig auf Schlachtfeldern. Normalerweise wird sie nur an ausgewählte Piloten als Belohnung für ihre überragenden Kampfleistungen ausgegeben.",
+    "en": "Developed along with the first wave of Minmatar assault frigates but later abandoned due to cost, the Freki is known for its extremely well designed warp core that enables it to arrive first on the scene to snare and eliminate its target.\r\n\r\nIt is rarely seen on the battlefield, as only a limited number have ever gone into production. It is usually given to pilots as a reward for their excellence in combat.",
+    "es": "La Freki, desarrollada con la primera oleada de fragatas de asalto minmatarianas, pero más tarde abandonada por el coste, es conocida por su núcleo de warp extremadamente bien diseñado, que le permite llegar la primera para capturar al enemigo y aniquilarlo.\n\n\n\nEs poco común en el campo de batalla, ya que solo se ha fabricado un número limitado. Se suele dar a los pilotos como recompensa por su excelencia en combate.",
+    "fr": "Développé en même temps que la première vague de frégates d'assaut minmatar avant d'être abandonné pour des raisons financières, le Freki est réputé pour la conception de son réacteur de warp, qui lui permet d'arriver en premier sur les lieux et d'éliminer sa cible.\n\nIl est cependant été produit en faible quantité, ce qui explique sa rareté sur le champ de bataille. Il est généralement remis aux pilotes en guise de récompense pour leur bravoure au combat.",
+    "ja": "フレキはミンマター強襲型フリゲートの第1世代として開発された中の一つだが、後にコストの問題で開発中止になった。ワープコアの設計がきわめて優秀なことで有名で、現場にいち早く駆けつけて敵の捕捉や排除ができる。\n\n実際に製造されたのはわずかなため、戦場で見かけることはまれだ。優れた戦いをしたパイロットに報償として与えられることが多い。",
+    "ko": "프레키는 민마타 어썰트 프리깃 1차 개발 당시에 설계된 함선이지만 예산문제로 보급화되지 못했습니다. 훌륭한 성능의 워프 코어를 탑재한 프레키는 적진에 누구보다 빨리 도달하여 상대를 섬멸할 수 있는 능력을 갖추었습니다. <br><br>한정된 숫자로 제작되어 있었기에 전장에서 흔히 볼 수 없는 함선입니다. 주로 전투에 훌륭하게 임한 파일럿들에게 보상으로 주어지고 있습니다.",
+    "ru": "Ударные фрегаты типа «Фреки» были разработаны практически одновременно с первыми матарскими кораблями того же класса, но не поступили на вооружение из-за высокой стоимости производства. Известно, что «фреки» оснащаются варп-двигателем крайне эффективной конструкции. Благодаря этому они первыми появляются на поле боя, а затем — ловят и уничтожают врагов.\n\nНа космических трассах корабли этого типа встретить практически невозможно — они были выпущены очень маленькой серией. Как правило, ими награждают пилотов, доказавших в ходе крупных соревнований свое боевое мастерство.",
+    "zh": "在米玛塔尔建造突击护卫舰的第一波浪潮中同期研发出来的战舰，后因造价高昂而被放弃。暴狼级具有设计精良的跃迁核心，使其总能在第一时间赶到战斗现场俘获和歼灭敌舰。\n\n很少能够在战场上见到暴狼级突击舰，因为它们的产量非常有限。通常它只是作为奖品奖励给那些在战斗中表现优异的飞行员。"
+  },
+  "factionID": 500002,
+  "graphicID": 3799,
+  "groupID": 324,
+  "marketGroupID": 1623,
+  "mass": 1309000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      71,
+      141,
+      150,
+      89,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      71,
+      141,
+      150,
+      89,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      71,
+      141,
+      150,
+      89,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      71,
+      141,
+      150,
+      89,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      71,
+      141,
+      117,
+      150,
+      89,
+      94
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Freki",
     "en": "Freki",
@@ -9,6 +74,110 @@
     "ko": "프레키",
     "ru": "Freki",
     "zh": "暴狼级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 31.0,
+  "sofFactionName": "tournament-vii",
+  "sofMaterialSetID": 39,
+  "soundID": 20078,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Kann <a href=showinfo:47254>Angriffsschadensregulierer</a> ausrüsten",
+          "en": "Can fit <a href=showinfo:47254>Assault Damage Controls</a>",
+          "es": "Es posible equipar <a href=showinfo:47254>controles de daños por asalto</a>.",
+          "fr": "Peut être équipé des <a href=showinfo:47254>contrôles des dégâts d'assaut</a>",
+          "ja": "<a href=showinfo:47254>アサルトダメージ制御</a>を装備可能",
+          "ko": "<a href=showinfo:47254>어썰트 데미지 컨트롤</a> 장착가능",
+          "ru": "Позволяет установить <a href=showinfo:47254>ударные модули боевой живучести</a>",
+          "zh": "可以装配<a href=showinfo:47254>突击损伤控制</a>装备"
+        },
+        "importance": 4
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Bonus auf die optimale Reichweite von <a href=showinfo:3302>kleinen Projektilgeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:3302>Small Projectile Turret</a> optimal range",
+          "es": "de bonificación al alcance óptimo de la <a href=showinfo:3302>torreta de proyectiles pequeña</a>.",
+          "fr": "de bonus à la portée optimale des <a href=showinfo:3302>petites tourelles à projectiles</a>",
+          "ja": "<a href=showinfo:3302>小型プロジェクタイルタレット</a>の最適射程距離が拡大",
+          "ko": "<a href=showinfo:3302>소형 발사체 터렛</a> 최적사거리 증가",
+          "ru": "увеличивается оптимальная дальность ведения огня из <a href=showinfo:3302>малых баллистических орудий</a>",
+          "zh": "<a href=\"showinfo:3302\">小型射弹炮台</a>最佳射程加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Bonus auf den Präzisionsabfall von <a href=showinfo:3302>kleinen Projektilgeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:3302>Small Projectile Turret</a> falloff",
+          "es": "de bonificación al alcance efectivo de la <a href=showinfo:3302>torreta de proyectiles pequeña</a>.",
+          "fr": "de bonus de distance de perte des <a href=showinfo:3302>petites tourelles à projectiles</a>",
+          "ja": "<a href=showinfo:3302>小型プロジェクタイルタレット</a>の精度低下範囲が拡大",
+          "ko": "<a href=showinfo:3302>소형 발사체 터렛</a> 유효사거리 증가",
+          "ru": "увеличивается добавочная дальность ведения огня из <a href=showinfo:3302>малых баллистических орудий</a>",
+          "zh": "<a href=\"showinfo:3302\">小型射弹炮台</a>失准范围加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 75.0,
+        "bonusText": {
+          "de": "Reduktion der Aktivierungskosten von <a href=showinfo:3450>Nachbrennern</a> und <a href=showinfo:3454>Mikrowarpantrieben</a>",
+          "en": "reduction in <a href=showinfo:3450>Afterburner</a> and <a href=showinfo:3454>Microwarpdrive</a> activation cost",
+          "es": "de reducción del coste de activación del <a href=showinfo:3450>posquemador</a> y el <a href=showinfo:3454>motor de microwarp</a>.",
+          "fr": "de réduction au coût d'activation de la <a href=showinfo:3450>post-combustion</a> et des <a href=showinfo:3454>propulseurs de microwarp</a>",
+          "ja": "<a href=showinfo:3450>アフターバーナー</a>と<a href=showinfo:3454>マイクロワープドライブ</a>の起動コストが軽減",
+          "ko": "<a href=showinfo:3450>애프터버너</a> 및 <a href=showinfo:3454>마이크로 워프 드라이브</a> 활성화 비용 감소",
+          "ru": "сокращается потребление энергии <a href=showinfo:3450>форсажными ускорителями</a> и <a href=showinfo:3454>микроварп-ускорителям</a>",
+          "zh": "<a href=\"showinfo:3450\">加力燃烧器</a>和<a href=\"showinfo:3454\">微型跃迁推进器</a>启动消耗减少"
+        },
+        "importance": 3,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3329": [
+        {
+          "bonus": 12.5,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3302>kleinen Projektilgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3302>Small Projectile Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3302>torreta de proyectiles pequeña</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:3302>petites tourelles à projectiles</a>",
+            "ja": "<a href=showinfo:3302>小型プロジェクタイルタレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3302>소형 발사체 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон боеприпасов <a href=showinfo:3302>малых баллистических орудий</a>",
+            "zh": "<a href=\"showinfo:3302\">小型射弹炮台</a>伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 30.0,
+          "bonusText": {
+            "de": "Bonus auf die optimale Reichweite von <a href=showinfo:526>Stasisnetzen</a>",
+            "en": "bonus to <a href=showinfo:526>Stasis Webifier</a> optimal range",
+            "es": "de bonificación al alcance óptimo de la <a href=showinfo:526>red ralentizadora</a>.",
+            "fr": "de bonus à la portée optimale des <a href=showinfo:526>générateurs de stase</a>",
+            "ja": "<a href=showinfo:526>ステイシスウェビファイア</a>の最適射程距離が拡大",
+            "ko": "<a href=showinfo:526>스테이시스 웹 생성기</a> 최적사거리 증가",
+            "ru": "увеличивается оптимальная дальность действия <a href=showinfo:526>стазис-индукторов</a>",
+            "zh": "<a href=\"showinfo:526\">停滞缠绕光束</a>最佳射程加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 27289.0
 }

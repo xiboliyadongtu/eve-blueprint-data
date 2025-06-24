@@ -1,5 +1,17 @@
 {
-  "typeID": 22555,
+  "description": {
+    "de": "Erhöht die Reichweite von Bergbaulasern, Gas-Extraktoren, Eisschürfern und Vermessungsscannern der Flotte. Industriemeisternetzwerke sind geeignete Systeme für die Bedienung von Bergbauanlagen und wurden entwickelt, um Vorarbeiter bei der Koordination ihrer Einsätze zu unterstützen. Obwohl man normalerweise nur eines dieser Module gleichzeitig verwenden kann, gibt es bestimmte weiterentwickelte Einheiten, die den Gebrauch mehrerer Netzwerke parallel erlauben. Hinweis: Der Flottenbonus wirkt nur, wenn Sie als Flotten-Booster ausgewählt wurden.",
+    "en": "Increases the range of the fleet's mining lasers, gas harvesters, ice harvesters and survey scanners.\r\n\r\nForeman Links are dedicated mining operation systems designed to assist foremen in coordinating their operations.\r\n\r\nWhile only one of these units can normally be operated at any given time, certain advanced units allow the use of multiple systems. \r\n\r\nNote: The Fleet bonus only works if you are the assigned fleet booster.",
+    "es": "Aumenta el alcance de los láseres mineros de la flota, de las cosechadoras de gas y de hielo y de los escáneres de prospección.\n\nLos enlaces de capataz son sistemas de operaciones mineras dedicados a ayudar a los capataces a coordinar sus operaciones.\n\nAunque solo una de estas unidades se puede manejar en cualquier momento, ciertas unidades avanzadas permiten el uso de sistemas múltiples.\n\nAviso: La bonificación de la flota solo se aplica cuando te nombran potenciador de flota.",
+    "fr": "Augmente la portée des lasers d'extraction, des collecteurs de gaz, des collecteurs de glace et des scanners d'inspection de la flotte.\n\nLes interfaces de contremaître sont des systèmes de gestion de l'extraction minière conçus pour permettre aux contremaîtres de coordonner les opérations.\n\nMême si, en temps normal, on ne peut utiliser qu'une de ces unités, certaines unités avancées permettent d'utiliser plusieurs systèmes. \n\nRemarque : ce bonus de flotte fonctionne uniquement si vous êtes {[character]player.gender -> \"assigné\", \"assignée\"} comme booster de flotte.",
+    "ja": "フリートの採掘レーザー、ガス採掘機、アイス採掘機、およびサーベイスキャナーの範囲が拡大する。採掘支援リンクは艦隊を組んでの採掘作業における監督の調整作業を補佐する、採掘専用の支援システムだ。通常は1基を常時稼働させておくのが限界だが、特定の高性能ユニットと組み合わせれば、複数タイプを同時稼働させることも可能である。注：フリートボーナスは、フリートブースターに任命されている場合にのみ有効。",
+    "ko": "채굴 레이저, 가스 추출기, 아이스 채굴기, 그리고 조사 스캐너의 사거리가 증가합니다. <br><br>포어맨 링크는 채광 작업 관리 과정에서 채굴 감독을 지원하기 위해 만들어진 전용 모듈입니다. <br><br>해당 모듈은 일반적으로 하나만 가동시킬 수 있지만 특정 고급 모듈들은 다수를 운영할 수 있습니다. <br><br>참고: 함대 보너스는 함대 부스터로 지정되어야만 사용할 수 있습니다.",
+    "ru": "Увеличивает дальность действия буровых лазеров, установок для бурения льда, установок для сбора газа и комплексов для оценки размеров залежей, которыми оснащены корабли флота.\n\nСистемы управления добычей сырья — это специализированные горнодобывающие системы, спроектированные для координирования работы буровых групп.\n\nОбычно на борту корабля допускается установка лишь одного такого модуля, однако корабли некоторых проектов способны одновременно держать включенными несколько подобных систем. \n\nПримечание: действие этого модификатора распространяется на флот только в том случае, если вы назначены начштаба флота (Fleet Booster).",
+    "zh": "增加舰队中采矿激光器、气云采集器、冰矿采集器和测量扫描器的范围。\n\n先锋网络是专门为协助工头协调开采活动而设计的采矿操作系统。\n\n通常在同一时间只允许一个此类设备运作，不过某些高级单位允许多系统并行。 \n\n注意：只有当你被指定为舰队加成官时，舰队加成才有效。"
+  },
+  "groupID": 316,
+  "iconID": 2858,
+  "metaGroupID": 1,
   "name": {
     "de": "Mining Foreman Link - Mining Laser Field Enhancement I",
     "en": "Mining Foreman Link - Mining Laser Field Enhancement I",
@@ -10,5 +22,7 @@
     "ru": "Mining Foreman Link - Mining Laser Field Enhancement I",
     "zh": "开采先锋网络—采矿激光器力场增强"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 60.0
 }

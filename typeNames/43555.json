@@ -1,5 +1,19 @@
 {
-  "typeID": 43555,
+  "capacity": 3.0,
+  "description": {
+    "de": "Dieses Modul kann mit verschiedenen Kommandostrahlenmunitionsarten des Typs Schilde geladen werden. Es verteilt ein Feld aus förderlichen Naniten an Flottenmitglieder und verbessert so die Fähigkeiten ihrer Schilde.\n\n\n\nBonus von +25 % auf die effektive Stärke von Kommandostrahlenmunition: Schilde für dieses Modul.",
+    "en": "This module can be loaded with a variety of Shield Command Burst Charges to project a field of beneficial nanites over fleet members, improving their shield defenses.\r\n\r\n+25% bonus to the effect strength of Shield Command Burst charges launched from this module.",
+    "es": "Este módulo se puede equipar con una variedad de cargas de estallido de mando de escudo para proyectar un campo de nanobots beneficiosos sobre los miembros de la flota y mejorar así sus defensas de escudo.\n\n+25 % de bonificación a la intensidad del efecto de las cargas de estallido de mando de escudo que se lancen desde este módulo.",
+    "fr": "Muni de charges de salves de commandement de boucliers, ce module projette un champ de nanites qui accroît les défenses des boucliers de la flotte alliée.\n\n\n\nAugmente de 25 % la puissance des effets produits par les charges de salves de commandement de boucliers.",
+    "ja": "このモジュールは各種シールドコマンドバーストチャージを装填することで、フリートメンバーに有利に作用するナノマシンを一帯に射出し、フリートのシールド防御力を向上させることができます。このモジュールから射出するシールドコマンドバーストチャージの効果強度が25%増加。",
+    "ko": "각종 실드 버스트용 차지를 탑재할 수 있는 모듈입니다. 버스트 사용 시 나나이트 필드를 전개하여 함대의 전반적인 실드 성능을 강화합니다.<br><br>실드 버스트 차지 효과 25% 증가",
+    "ru": "Этот модуль используется в сочетании с ассортиментом зарядов для импульсных оптимизаторов щитов; положительное воздействие активных нанитов на союзников по флоту обеспечивает повышенную эффективность их щитов.\n\n\n\nНа 25% повышается эффективность импульсов, генерируемых зарядами импульсных оптимизаторов щитов в этом модуле.",
+    "zh": "这个装备可以装载一系列护盾指挥脉冲波弹药，对舰队成员投射一个纳米增益力场，提高他们的护盾防御能力。\n\n\n\n由此装备发射的护盾指挥脉冲波弹药的效果强度提高25%"
+  },
+  "groupID": 1770,
+  "iconID": 21700,
+  "marketGroupID": 1633,
+  "metaGroupID": 2,
   "name": {
     "de": "Shield Command Burst II",
     "en": "Shield Command Burst II",
@@ -10,5 +24,8 @@
     "ru": "Shield Command Burst II",
     "zh": "护盾指挥脉冲波 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 42529,
   "volume": 60.0
 }

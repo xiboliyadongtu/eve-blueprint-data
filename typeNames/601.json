@@ -1,5 +1,78 @@
 {
-  "typeID": 601,
+  "capacity": 125.0,
+  "description": {
+    "de": "Die Ibis, eine Corvette der Caldari, ist ein kleines, robustes Schiff, das sich gut als Kleintransporter oder als kleines Bergbauschiff eignet. Ihre Zuverlässigkeit macht sie zu einem guten Schiff für neue Piloten.",
+    "en": "The Caldari Ibis corvette is a small but stout vessel that fits admirably well as a cargo hauler or small-scale miner. Its reliability makes it a good choice for novice ship captains.",
+    "es": "La corbeta caldari Ibis es una nave pequeña pero resistente que funciona bien como nave de mercancías o minero a pequeña escala. Su fiabilidad hace que sea una buena elección para los capitanes noveles.",
+    "fr": "La corvette caldari de classe Ibis est un petit vaisseau robuste, parfaitement adapté au transport et à l'extraction minière de petite échelle. Sa fiabilité le prédestine aux capitaines néophytes.",
+    "ja": "カルダリイビスコルベット艦は小型だが堅牢で、カーゴ輸送や小規模採掘に非常に適している。信頼性が高く、新人船長にとって良い選択肢となる。",
+    "ko": "칼다리의 이비스 코르벳은 작지만 튼튼한 함선으로 화물 운반 또는 소규모 채광 작업에 적합합니다. 초보 파일럿들이 운용하기 좋은 기종입니다.",
+    "ru": "Корветы типа «Ибис», выпускаемые корпорациями Государства Калдари — это малотоннажные, но очень крепкие корабли, отлично справляющиеся с перевозкой грузов и добычей сырья; «Ибисы» надёжны, корабль этого типа — отличный выбор для начинающего пилота.",
+    "zh": "加达里伊毕斯号轻型护卫舰体型虽小，但坚固结实，非常适合货物运输或小规模采矿。它的可靠性使它成为新手船长的理想选择。"
+  },
+  "factionID": 500001,
+  "graphicID": 312,
+  "groupID": 237,
+  "marketGroupID": 1817,
+  "mass": 1163000.0,
+  "masteries": {
+    "0": [
+      96,
+      67,
+      100,
+      150,
+      75,
+      99,
+      139,
+      85,
+      94
+    ],
+    "1": [
+      96,
+      67,
+      100,
+      150,
+      75,
+      99,
+      139,
+      85,
+      94
+    ],
+    "2": [
+      96,
+      67,
+      100,
+      150,
+      75,
+      99,
+      139,
+      85,
+      94
+    ],
+    "3": [
+      96,
+      67,
+      100,
+      150,
+      75,
+      99,
+      139,
+      85,
+      94
+    ],
+    "4": [
+      96,
+      67,
+      100,
+      150,
+      75,
+      99,
+      139,
+      85,
+      118,
+      94
+    ]
+  },
   "name": {
     "de": "Ibis",
     "en": "Ibis",
@@ -9,6 +82,76 @@
     "ko": "이비스",
     "ru": "Ibis",
     "zh": "伊毕斯号"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 47.0,
+  "sofFactionName": "caldaribase",
+  "soundID": 20070,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonus": 20,
+        "bonusText": {
+          "de": "Bonus auf die optimale Reichweite von <a href=showinfo:3301>kleinen Hybridgeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:3301>Small Hybrid Turret</a> optimal range",
+          "es": "de bonificación al alcance óptimo de la <a href=showinfo:3301>torreta híbrida pequeña</a>.",
+          "fr": "de bonus à la portée optimale des <a href=showinfo:3301>petites tourelles hybrides</a>",
+          "ja": "<a href=showinfo:3301>小型ハイブリッドタレット</a>の最適射程距離が拡大",
+          "ko": "<a href=showinfo:3301>소형 하이브리드 터렛</a> 최적사거리 증가",
+          "ru": "увеличивается оптимальная дальность ведения огня из <a href=showinfo:3301>малых гибридных орудий</a>",
+          "zh": "<a href=\"showinfo:3301\">小型混合炮台</a>最佳射程加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 10,
+        "bonusText": {
+          "de": "Bonus auf den Kinetikschaden von <a href=showinfo:3321>leichten Lenkwaffen</a> und <a href=showinfo:3320>Raketen</a>",
+          "en": "bonus to kinetic <a href=showinfo:3321>Light Missile</a> and <a href=showinfo:3320>Rocket</a> damage",
+          "es": "de bonificación al daño cinético de los <a href=showinfo:3321>misiles ligeros</a> y los <a href=showinfo:3320>cohetes</a>.",
+          "fr": "de bonus aux dégâts cinétiques des <a href=showinfo:3321>missiles légers</a> et des <a href=showinfo:3320>roquettes</a>",
+          "ja": "<a href=showinfo:3321>ライトミサイル</a>と<a href=showinfo:3320>ロケット</a>のキネティックダメージが増加",
+          "ko": "키네틱 <a href=showinfo:3321>라이트 미사일</a>과 <a href=showinfo:3320>로켓</a> 피해량 증가",
+          "ru": "увеличивается урон кинетических БЧ <a href=showinfo:3321>лёгких ракет</a> и <a href=showinfo:3320>лёгких штурмовых ракет</a>",
+          "zh": "<a href=\"showinfo:3321\">轻型导弹</a>和<a href=\"showinfo:3320\">火箭</a>动能伤害加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 30,
+        "bonusText": {
+          "de": "Bonus auf die Stärke von <a href=showinfo:3427>ECM-Zielstörsender-Modulen</a>",
+          "en": "bonus to <a href=showinfo:3427>ECM Target Jammer</a> strength",
+          "es": "de bonificación a la intensidad del <a href=showinfo:3427>perturbador ECM de objetivo</a>.",
+          "fr": "de bonus à la force des <a href=showinfo:3427>brouilleurs de cible CME</a>",
+          "ja": "<a href=showinfo:3427>ECMターゲットジャマー</a>の強度が増加",
+          "ko": "<a href=showinfo:3427>ECM 타겟 재머</a> 효과 증가",
+          "ru": "увеличивается выходная мощность <a href=showinfo:3427>модулей глушения захвата целей</a>",
+          "zh": "<a href=\"showinfo:3427\">ECM目标干扰器</a>强度加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonus": 8,
+        "bonusText": {
+          "de": "Bonus auf alle Schildresistenzen",
+          "en": "bonus to all shield resistances",
+          "es": "de bonificación a todas las resistencias de escudo.",
+          "fr": "de bonus à toutes les résistances de bouclier",
+          "ja": "全てのシールドレジスタンスが増加",
+          "ko": "모든 실드 저항력 증가",
+          "ru": "повышается сопротивляемость щитов корабля всем видам воздействия",
+          "zh": "护盾抗性加成"
+        },
+        "importance": 4,
+        "unitID": 105
+      }
+    ]
   },
   "volume": 15000.0
 }

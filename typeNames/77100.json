@@ -1,5 +1,20 @@
 {
-  "typeID": 77100,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieser Datentresor wird von der Society of Conscious Thought verwendet, um Forschungsdaten und andere Materialien zu speichern und weiterzugeben, die sie bei ihren Analysearbeiten zur Entdeckung bislang verborgener alter Jove-Gebiete und Aufdeckung von Piratenaktivitäten gewonnen haben.",
+    "en": "This data vault is being used by the Society of Conscious Thought to store and relay research data and other materials derived from their analysis work aimed at pinpointing hidden Jove sites and detecting pirate technology raiding operations.",
+    "es": "Este depósito de datos está siendo utilizado por el Círculo del Pensamiento Consciente para almacenar y transmitir datos de investigación y otros materiales derivados de su trabajo de análisis destinado a identificar zonas jovianas ocultas y detectar operaciones de asalto de tecnología pirata.",
+    "fr": "Ce coffre de données est utilisé par la Society of Conscious Thought pour stocker et relayer des données de recherche, ainsi que d'autres ressources dérivées de travaux d'analyse visant à repérer les sites joves cachés et à détecter les raids technologiques pirates.",
+    "ja": "隠されたジョビ人のサイトの位置の特定と、その技術を奪うために海賊たちが行っている襲撃作戦を発見するためにコンシャスソウト学会は分析を行っており、その中で手に入れた調査データと資源の保管や中継を行うためにこのデータ金庫を使用している。",
+    "ko": "깨어있는 자들의 사회(SoCT)가 연구 데이터와 각종 자료를 보관하고 전송하는 데이터 저장장치입니다. 깨어있는 자들의 사회는 해적들의 기술 약탈을 방지하고 미지의 조브 사이트를 찾아내기 위해 연구 활동을 진행하고 있습니다.",
+    "ru": "Это хранилище данных «Общества осознанно мыслящих», предназначенное для хранения и передачи результатов исследований и других материалов, полученных в ходе аналитической работы по выявлению скрытых джовианских районов и обнаружению пиратов, которые пытаются завладеть древними технологиями.",
+    "zh": "这个数据仓库被理性思维社团用于存储和传递研究数据和他们其他分析工作的材料，这些分析工作旨在搜寻朱庇特人的隐藏地点，并侦查海盗的科技突袭行动。"
+  },
+  "graphicID": 20297,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "SoCT Research Data Relay Tower",
     "en": "SoCT Research Data Relay Tower",
@@ -10,5 +25,9 @@
     "ru": "SoCT Research Data Relay Tower",
     "zh": "理性思维社团研究数据中继塔"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 300.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

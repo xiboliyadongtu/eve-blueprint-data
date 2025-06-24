@@ -1,5 +1,18 @@
 {
-  "typeID": 29932,
+  "description": {
+    "de": "Dem Selbstzerstörungsmechanismus dieser Kapsel fehlte der Sicherheitstimer. Durch diese für Crimson Hand einzigartige Modifikation geschieht es selten, dass Militäroffiziere lebendig gefasst werden, Irgendwie scheint sich auch auch die Leiche während des Vorgangs verflüssigt zu haben und färbt nun die Flüssigkeit in der Kapsel dunkelrot.",
+    "en": "The self-destruct unit on this capsule has had the safety timer removed, a unique Crimson Hand modification that ensures military officers are rarely captured alive. The corpse also appears to have been liquefied in some way during the process, adding a dark ruby hue to the capsule fluid within.",
+    "es": "Se ha retirado el temporizador de seguridad de la unidad de autodestrucción de esta cápsula, una modificación cortesía de la Mano Carmesí para evitar que a sus oficiales militares los capturen con vida. También parece que durante el proceso el cadáver se ha licuado de algún modo y le ha dado un tono rubí oscuro al fluido de cápsula que hay dentro.",
+    "fr": "La minuterie de sécurité de l'unité d'auto-destruction de cette capsule a été retirée, une modification signée Crimson Hand permettant aux officiers militaires d'être rarement capturés en vie. Le cadavre semble avoir été liquéfié au cours du processus, laissant une teinte sombre couleur rubis sur le fluide à l'intérieur de la capsule.",
+    "ja": "このカプセルの自爆装置は、軍司令官が生きたまま捕らえられることがないようセーフティータイマーが取り除かれて、クリムゾンハンド型に改造されている。死体もその際になんらかの方法で液化されるらしく、内部のカプセル液を赤黒いルビー色に染めている。",
+    "ko": "캡슐 포드의 자폭 장치 카운트 다운 타이머가 제거된 상태입니다. 고급 장교가 인질로 잡히는 상황을 방지하기 위해 제작되었습니다. 시체는 액화된 상태로 캡슐 내부의 유액은 다홍색으로 물들었습니다.",
+    "ru": "Таймер безопасности в устройстве самоликвидации для этой капсулы был удален. Это уникальная модификация, выполняемая Crimson Hand, благодаря которой военные офицеры практически никогда не попадают в плен живыми. Тело, похоже, было каким-то образом переведено в жидкое состояние в ходе процесса, в результате чего жидкость в капсуле приобрела пурпурный оттенок.",
+    "zh": "这个密封舱上自毁设备的安全定时器已经被拆除了，这个装置本身是血腥傀儡用来防止其军事官员被敌方势力活捉而设置的。在这个过程中，乘员的遗骸通常都被用某种方式液化，使得舱内的生态液体颜色变为灰暗的红宝石色。"
+  },
+  "graphicID": 73,
+  "groupID": 314,
+  "iconID": 73,
+  "mass": 32000.0,
   "name": {
     "de": "Sareko's Capsule",
     "en": "Sareko's Capsule",
@@ -10,5 +23,8 @@
     "ru": "Sareko's Capsule",
     "zh": "撒勒克的密封舱"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "jovebase",
   "volume": 1000.0
 }

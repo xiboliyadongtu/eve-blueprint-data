@@ -1,5 +1,18 @@
 {
-  "typeID": 88224,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Der Steuerknoten für alle Drifter-Wächterkanonen in diesem Gebiet. Die uralten Protokolle, die er verwendet, können von einem Reliktanalysegerät gehackt werden, um seine Definition von Feind zu verändern.",
+    "en": "The control node for all Drifter sentry guns within this site.\r\n\r\nThe ancient protocols it utilizes can be hacked by a relic analyzer, altering its definition of hostile.",
+    "es": "El nodo de control de todas las torretas centinelas drifters en esta zona.\r\n\r\nLos antiguos protocolos que utiliza pueden ser hackeados por un analizador de reliquias, alterando su definición de hostil.",
+    "fr": "Le nœud de contrôle pour tous les canons sentinelles drifter de ce site. Les protocoles anciens qu'il utilise peuvent être piratés à l'aide d'un analyseur de reliques, modifiant ainsi sa définition des éléments hostiles.",
+    "ja": "このサイトにおけるすべてのドリフターセントリーガンの制御ノード。\r\n\r\n旧式のプロトコルを使用しており、遺物アナライザーでハッキングすれば「敵性」の定義を変更できるだろう。",
+    "ko": "사이트 내부의 모든 드리프터 센트리 포탑을 제어하는 노드입니다.\r\n\r\n유물 분석기로 노드를 제어하는 고대 프로토콜을 해킹하면 적대적 대상의 정의를 수정할 수 있습니다.",
+    "ru": "Этот центр управляет всеми стационарными орудиями Скитальцев в текущем районе. В своей работе он использует древние протоколы. Их можно взломать с помощью анализатора артефактов и изменить принцип распознавания вражеских целей.",
+    "zh": "该节点可以控制这里所有的流浪者岗哨炮。其采用的旧协议可通过遗迹分析仪破译，从而改变对敌对的定义。"
+  },
+  "graphicID": 28020,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Eradication Authority",
     "en": "Eradication Authority",
@@ -10,5 +23,8 @@
     "ru": "Eradication Authority",
     "zh": "清剿机构"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 241.0,
+  "sofFactionName": "drifter"
 }

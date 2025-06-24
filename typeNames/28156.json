@@ -1,5 +1,18 @@
 {
-  "typeID": 28156,
+  "description": {
+    "de": "Sofern betriebsbereit, erlaubt es der Aufbereitungsdienst in dieser Station angedockten Kapselpiloten Erze, Gegenstände und Schrott in möglicherweise wertvolle Rohmaterialien umzuwandeln.",
+    "en": "When operational, the Reprocessing Service allows capsuleers to break down ore, items and scrap into potentially valuable raw materials while docked in this station.",
+    "es": "Cuando está operativo, el servicio de reprocesamiento permite que los capsulistas descompongan menas, artículos y chatarra para conseguir materias primas valiosas mientras la nave está acoplada en esta estación.",
+    "fr": "Une fois opérationnel, le service de retraitement permet aux capsuliers amarrés à la station de revaloriser minerais, objets et ferraille en matières premières.",
+    "ja": "再処理サービスが稼働中のステーションにドッキングしている間、カプセラは鉱石、アイテム、廃棄前の金属片を分解し、有用な原料を得ることができる。",
+    "ko": "정제 서비스를 통해 광물, 아이템 및 고철을 재처리하여 원자재를 얻을 수 있습니다.",
+    "ru": "Действующая служба переработки позволяет капсулёрам в доке станции перерабатывать руду, объекты и отходы, получая из них потенциально ценные исходные составляющие.",
+    "zh": "启用后，玩家停靠在空间站中时可以使用提炼服务来将矿石、物品或废弃物转化为有价值的原材料。"
+  },
+  "graphicID": 10026,
+  "groupID": 874,
+  "iconID": 21432,
+  "mass": 1.0,
   "name": {
     "de": "Reprocessing Service",
     "en": "Reprocessing Service",
@@ -10,5 +23,9 @@
     "ru": "Reprocessing Service",
     "zh": "再生产服务"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 5000.0,
   "volume": 1.0
 }

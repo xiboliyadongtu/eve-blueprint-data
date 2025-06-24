@@ -1,5 +1,20 @@
 {
-  "typeID": 16278,
+  "basePrice": 1500368.0,
+  "description": {
+    "de": "Ein Gerät, mit dem man wertvolle Materialien aus Eis-Asteroiden herauslöst. Wird auf Bergbaubarkassen (Mining barges) und Ausgrabungsschiffen (Exhumers) verwendet.",
+    "en": "A unit used to extract valuable materials from ice asteroids. Used on Mining barges and Exhumers.",
+    "es": "Unidad empleada para extraer materiales valiosos de asteroides de hielo. Se utiliza en gabarras mineras y exhumadores.",
+    "fr": "Unité utilisée pour extraire les matériaux précieux des astéroïdes de glace. Utilisée sur les barges d'extraction minière et les Exhumers.",
+    "ja": "アイスアステロイドから価値ある資源を採掘するのに使うユニット。採掘艦および特化型採掘艦で使用する。",
+    "ko": "얼음 소행성에서 자원을 채취하기 위해 사용되는 장비입니다. 채광선 및 익스허머에 장착할 수 있습니다.",
+    "ru": "Установка для бурения льда, применяемая для промышленной разработки ледяных астероидов. Предназначена для оснащения буровых кораблей первого поколения и тяжёлых буровых кораблей.",
+    "zh": "用来从冰矿中采集珍贵材料的装置。只能安装在采矿驳船和采掘者上。"
+  },
+  "graphicID": 11144,
+  "groupID": 464,
+  "iconID": 2526,
+  "marketGroupID": 1038,
+  "metaGroupID": 1,
   "name": {
     "de": "Ice Harvester I",
     "en": "Ice Harvester I",
@@ -10,5 +25,9 @@
     "ru": "Ice Harvester I",
     "zh": "冰矿采集器 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 25.0,
+  "sofFactionName": "orebase",
   "volume": 25.0
 }

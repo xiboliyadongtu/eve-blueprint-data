@@ -1,5 +1,18 @@
 {
-  "typeID": 12486,
+  "basePrice": 10000000.0,
+  "description": {
+    "de": "Spezialisierung auf die Bedienung fortschrittlicher Gallente-Drohnen. 2% Bonus je Skillstufe auf die Schadenswirkung von leichten, mittelgroßen und schweren Drohnen sowie Wächterdrohnen, die den Skill \"Gallente Drone Specialization\" voraussetzen.",
+    "en": "Specialization in the operation of advanced Gallente drones. 2% bonus per skill level to the damage of light, medium, heavy and sentry drones requiring Gallente Drone Specialization.",
+    "es": "Especialización en el manejo de drones gallentes. 2 % de bonificación al daño de los drones centinela ligeros, medianos y pesados que requieren especialización en drones gallentes por nivel de habilidad.",
+    "fr": "Spécialisation en matière d'utilisation des drones avancés gallente. Augmente de 2 % par niveau de compétence les dégâts des drones légers, intermédiaires et lourds nécessitant la spécialisation en drones gallente.",
+    "ja": "高性能ガレンテドローンを操作する専門スキル。ガレンテドローンスペシャリゼーションを必要とするライト、ミディアム、ヘビー、セントリードローンのダメージが、スキルレベル上昇ごとに2%増加する。",
+    "ko": "상급 갈란테 드론 운용을 위한 스킬입니다. 매 레벨마다 갈란테 드론 특화가 요구되는 라이트, 미디움, 헤비, 그리고 센트리 드론의 피해량 2% 증가",
+    "ru": "Спецкурс по эксплуатации усовершенствованных галлентских дронов. За каждую степень освоения навыка: на 2% повышается урон бортового оружия усовершенствованных галлентских дронов (лёгких, средних, тяжёлых и стационарных), для эксплуатации которых требуется этот навык.",
+    "zh": "操纵高级盖伦特无人机的技能。每升一级，需要盖伦特无人机专业研究技能的轻型、中型、重型和岗哨无人机伤害提高2%。"
+  },
+  "groupID": 273,
+  "iconID": 33,
+  "marketGroupID": 366,
   "name": {
     "de": "Gallente Drone Specialization",
     "en": "Gallente Drone Specialization",
@@ -10,5 +23,7 @@
     "ru": "Спецкурс: галлентские дроны",
     "zh": "盖伦特无人机专业研究"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

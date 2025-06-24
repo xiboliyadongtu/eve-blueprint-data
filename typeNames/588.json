@@ -1,5 +1,73 @@
 {
-  "typeID": 588,
+  "capacity": 120.0,
+  "description": {
+    "de": "Die Reaper-Corvette ist das kleinste Schiff der Minmatar und erreicht gerade noch den Status \"Anfängerschiff\" statt \"bemannter Kampfgleiter\". Die Reaper ist sehr preiswert und wird in großer Anzahl bei waghalsigen Hit-And-Run Einsätzen von Minmatar auf beiden Seiten des Gesetzes verwendet.",
+    "en": "The Reaper-class corvette is one of the smallest of the Minmatar vessels, just barely reaching rookie ship status instead of a manned fighter. The Reaper is very cheap and is used en masse in daring hit-and-run operations by Minmatars either side of the law.",
+    "es": "La corbeta de clase Reaper es una de las naves minmatarianas más pequeñas, apenas alcanza el estatus de nave para novatos en lugar de caza tripulado. Es muy barata y se usa en masa en atrevidas operaciones relámpago por parte de los minmatarianos a ambos lados de la ley.",
+    "fr": "La corvette de classe Reaper est l'un des plus petits vaisseaux minmatar, conçue aux dimensions d'un vaisseau de recrue sans même atteindre la taille d'un chasseur piloté. Compte tenu de son prix très abordable, les pilotes minmatar n'hésitent pas à le sacrifier dans d'audacieuses attaques éclair, légales comme illicites.",
+    "ja": "リーパー級コルベットはミンマター艦としては最小クラスで、ルーキー艦としての分類をようやく超える程度の大きさしかない。非常に安価で、これを使った集団での一撃離脱戦法は、法のどちらの側にいるミンマター人にも好まれている。",
+    "ko": "리퍼급 코르벳은 민마타 함선 중 가장 작은 편에 속하며 초급 함선의 성능을 갖추었습니다. 가격이 매우 저렴하기 때문에 민마타 정규군, 비정규군 가릴 것 없이 모두 즐겨 사용합니다. 위험성이 높은 유격전에서 많이 활용되는 편입니다.",
+    "ru": "Корветы типа «Рипер» — самые маленькие фрегаты Республики, по своим характеристикам не сильно отличающиеся от палубных истребителей. Они очень дешевы и массово используются для быстрых рейдерских акций как матарскими правоохранительными органами, так и нарушителями закона.",
+    "zh": "死神号轻型护卫舰是最小的米玛塔尔护卫舰之一，刚好超过有人舰载机级别，达到新手船标准。死神号很便宜，被米玛塔尔黑白两道在危险的游击行动中大量使用。"
+  },
+  "factionID": 500002,
+  "graphicID": 53,
+  "groupID": 237,
+  "marketGroupID": 1819,
+  "mass": 1157000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      150,
+      71,
+      103,
+      141,
+      85,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      150,
+      71,
+      103,
+      141,
+      85,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      150,
+      71,
+      103,
+      141,
+      85,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      150,
+      71,
+      103,
+      141,
+      85,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      150,
+      71,
+      103,
+      141,
+      85,
+      118,
+      94
+    ]
+  },
   "name": {
     "de": "Reaper",
     "en": "Reaper",
@@ -9,6 +77,76 @@
     "ko": "리퍼",
     "ru": "Reaper",
     "zh": "死神号"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 38.4,
+  "sofFactionName": "minmatarbase",
+  "soundID": 20078,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonus": 10,
+        "bonusText": {
+          "de": "Bonus auf die Maximalgeschwindigkeit des Schiffs",
+          "en": "bonus to ship max velocity",
+          "es": "de bonificación a la velocidad máxima de la nave.",
+          "fr": "de bonus à la vitesse maximale du vaisseau",
+          "ja": "艦船の最高速度が上昇",
+          "ko": "최대 속도 증가",
+          "ru": "увеличивается скорость полного хода корабля",
+          "zh": "舰船最大速度加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 10,
+        "bonusText": {
+          "de": "Bonus auf den Schaden von <a href=showinfo:3302>kleinen Projektilgeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:3302>Small Projectile Turret</a> damage",
+          "es": "de bonificación al daño de la <a href=showinfo:3302>torreta de proyectiles pequeña</a>.",
+          "fr": "de bonus aux dégâts des <a href=showinfo:3302>petites tourelles à projectiles</a>",
+          "ja": "<a href=showinfo:3302>小型プロジェクタイルタレット</a>のダメージが増加",
+          "ko": "<a href=showinfo:3302>소형 발사체 터렛</a> 피해량 증가",
+          "ru": "увеличивается урон боеприпасов <a href=showinfo:3302>малых баллистических орудий</a>",
+          "zh": "<a href=\"showinfo:3302\">小型射弹炮台</a>伤害加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 15,
+        "bonusText": {
+          "de": "Bonus auf die Effektivität von <a href=showinfo:19921>Zielmarkierungsmodulen</a>",
+          "en": "bonus to <a href=showinfo:19921>Target Painter</a> effectiveness",
+          "es": "de bonificación a la efectividad del <a href=showinfo:19921>revelador de objetivo</a>.",
+          "fr": "de bonus à l'efficacité des <a href=showinfo:19921>marqueurs de cible</a>",
+          "ja": "<a href=showinfo:19921>ターゲットペインター</a>の効果が増加",
+          "ko": "<a href=showinfo:19921>타겟 페인터</a> 효과 증가",
+          "ru": "повышается эффективность действия <a href=showinfo:19921>систем подсветки целей</a>",
+          "zh": "<a href=\"showinfo:19921\">目标标记装置</a>效果加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonus": 15,
+        "bonusText": {
+          "de": "Bonus auf die Leistung von <a href=showinfo:3416>Schildboostern</a>",
+          "en": "bonus to <a href=showinfo:3416>Shield Booster</a> amount",
+          "es": "de bonificación a la eficiencia de los <a href=showinfo:3416>potenciadores de escudo</a>.",
+          "fr": "de bonus au montant des <a href=showinfo:3416>boosters de bouclier</a>",
+          "ja": "<a href=showinfo:3416>シールドブースター</a>のブースト量が増加",
+          "ko": "<a href=showinfo:3416>실드 부스터</a> 회복량 증가",
+          "ru": "повышается производительность <a href=showinfo:3416>установок накачки щитов</a>",
+          "zh": "<a href=\"showinfo:3416\">护盾回充增量器</a>回充量加成"
+        },
+        "importance": 4,
+        "unitID": 105
+      }
+    ]
   },
   "volume": 15800.0
 }

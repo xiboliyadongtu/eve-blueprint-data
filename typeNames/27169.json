@@ -1,5 +1,18 @@
 {
-  "typeID": 27169,
+  "basePrice": 200000.0,
+  "description": {
+    "de": "Ein Neuralinterface-Upgrade, das die Fertigkeiten des Piloten in Bezug auf Aufbereitung erhöht.\n\n\n\n2% Bonus auf den Aufbereitungsertrag von Erz und Eis.",
+    "en": "A neural Interface upgrade that boosts the pilot's reprocessing skills.\r\n\r\n2% bonus to ore and ice reprocessing yield.",
+    "es": "Mejora de interfaz neuronal que potencia las habilidades de reprocesamiento del piloto.\n\n2 % de bonificación al rendimiento de reprocesamiento del hielo y las menas.",
+    "fr": "Amélioration de l'interface neurale portant sur les compétences du pilote liées au retraitement.\n\n\n\nBonus de 2% pour le rendement du retraitement du minerai et de la glace.",
+    "ja": "ニューラルインターフェイスのアップグレード。パイロットの再処理スキルを高める。鉱石とアイスを再処理する際の生産性が2%上昇する。",
+    "ko": "정제 스킬을 향상하는 신경 인터페이스 업그레이드입니다. <br><br>광물 및 아이스 정제 산출량 2% 증가",
+    "ru": "Модуль расширения нейроинтерфейса, при установке повышающий эффективность пилота в деле переработки.\n\n\n\nУвеличивает эффективность переработки льда и руды на 2%.",
+    "zh": "一款神经接口升级芯片，可以增强飞行员的提炼技能。\n\n\n\n矿石和冰矿提炼产出提高2%。"
+  },
+  "groupID": 1229,
+  "iconID": 2224,
+  "marketGroupID": 1768,
   "name": {
     "de": "Zainou 'Beancounter' Reprocessing RX-802",
     "en": "Zainou 'Beancounter' Reprocessing RX-802",
@@ -10,5 +23,7 @@
     "ru": "Zainou 'Beancounter' Reprocessing RX-802",
     "zh": "载诺 守财奴 提炼 RX-802"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

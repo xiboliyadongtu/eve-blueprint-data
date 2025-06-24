@@ -1,5 +1,19 @@
 {
-  "typeID": 73248,
+  "basePrice": 100000.0,
+  "description": {
+    "de": "Diese Token werden an Kapselpiloten vergeben, die ihren Beitrag zur Sicherheit und zum Wohlstand des Staats der Caldari leisten. Sie können auf dem Markt der meisten Caldari-Stationen gegen ISK eingetauscht werden.",
+    "en": "These tokens are given to capsuleers who have contributed to the security and prosperity of the Caldari State. They can be traded on the market for ISK in most Caldari stations.",
+    "es": "Estas fichas se entregan a los capsulistas que han contribuido a la seguridad y la prosperidad del Estado Caldari. Se pueden intercambiar en el mercado por ISK en la mayoría de las estaciones caldaris.",
+    "fr": "Ces jetons sont donnés aux capsuliers qui ont contribué à la sécurité et à la prospérité de l'État caldari. Ils peuvent être échangés contre des ISK sur le marché de la plupart des stations caldari.",
+    "ja": "これらのトークンは、カルダリ連合の安全保障と繁栄に貢献したカプセラに対して送られている。トークンはほとんどのカルダリステーションのマーケットでISKと引き換えることができる。",
+    "ko": "칼다리 연합의 안보와 번영에 기여한 캡슐리어에게 수여되는 토큰입니다. 칼다리 정거장의 거래소에서 ISK로 교환할 수 있습니다.",
+    "ru": "Такие жетоны вручаются капсулёрам, которые внесли свой вклад в обеспечение безопасности и благополучия Государства Калдари. Их можно продать за ISK в торговой системе большинства калдарских станций.",
+    "zh": "这些凭据奖励给保障加达里合众国安全、促进繁荣发展的克隆飞行员。它们可以在大多数加达里空间站中出售换成星币。"
+  },
+  "groupID": 314,
+  "iconID": 24679,
+  "marketGroupID": 754,
+  "mass": 1.0,
   "name": {
     "de": "Caldari-Loyalitätsmarke",
     "en": "Caldari Loyalty Token",
@@ -10,5 +24,7 @@
     "ru": "Калдарский наградной жетон",
     "zh": "加达里忠诚点凭证"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.001
 }

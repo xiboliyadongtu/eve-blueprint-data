@@ -1,5 +1,18 @@
 {
-  "typeID": 19711,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Eine Astrofarm.",
+    "en": "An astrofarm.",
+    "es": "Una astrogranja.",
+    "fr": "Astroferme.",
+    "ja": "アストロファーム。",
+    "ko": "우주농장입니다.",
+    "ru": "Астроферма.",
+    "zh": "一座宇宙农场。"
+  },
+  "graphicID": 2706,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "AstroFarm",
     "en": "AstroFarm",
@@ -10,5 +23,10 @@
     "ru": "AstroFarm",
     "zh": "宇宙农场"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 500.0,
+  "sofFactionName": "genericmetal",
+  "soundID": 20195,
   "volume": 100000000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 21519,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Warenlager, das von der Dry River Gang zu einem nicht bekannten Zweck verwendet wird. Es wird von mehreren Gangmitgliedern bewacht.",
+    "en": "Warehouse used by the Dry River gang for unknown purposes. It is guarded by several gang members.",
+    "es": "Almacén usado por la banda Dry River para fines desconocidos. Está protegido por varios miembros de la banda.",
+    "fr": "Entrepôt utilisé par le gang Dry River dans un but mystérieux. Il est gardé par plusieurs membres du gang.",
+    "ja": "用途は不明だが、ドライリバーギャングが使っている倉庫。ギャングのメンバー数人で守られている。",
+    "ko": "드라이리버 갱이 알 수 없는 용도로 사용하는 창고입니다. 여러 갱 단원들이 창고를 지키고 있습니다.",
+    "ru": "Склад неизвестного назначения, используемый банды Dry River. Охраняется несколькими членами банды.",
+    "zh": "枯河小队占用这个仓库进行可疑的活动。它被一些小队成员守卫着。"
+  },
+  "graphicID": 2520,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Dry River Warehouse",
     "en": "Dry River Warehouse",
@@ -10,5 +23,10 @@
     "ru": "Dry River Warehouse",
     "zh": "枯河小队贮藏库"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 416.0,
+  "sofFactionName": "genericprison",
+  "soundID": 31,
   "volume": 100000000.0
 }

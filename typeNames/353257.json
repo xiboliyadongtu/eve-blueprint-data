@@ -1,5 +1,17 @@
 {
-  "typeID": 353257,
+  "basePrice": 4680.0,
+  "description": {
+    "de": "Dieser Dropsuit wird nur für Testzwecke verwendet! Er verfügt über extrem hohe PG/CPU, um Entwicklern und Testern die Ausrüstung zu erleichtern.",
+    "en": "This suit is to be used for testing purposes only! It has ridiculously high pg/cpu designed to help devs and QA do fitting-related tasks more easily.",
+    "es": "¡Este traje solo se usa para realizar pruebas! Tiene un RA/CPU increíblemente elevado para que los desarrolladores y el equipo de control de calidad realicen tareas de ajuste con mayor facilidad.",
+    "fr": "Cette combinaison ne doit être utilisée que pour le test ! Elle présente un rendement PG/CPU ridiculement élevé afin d'aider les QA tester et devs dans le test des montages.",
+    "it": "Questa armatura deve essere usata solo per i collaudi. Ha un valore PG/CPU incredibilmente elevato per aiutare gli sviluppatori e i responsabili dei test QA a eseguire più facilmente le attività correlate all'equipaggiamento.",
+    "ja": "このスーツはテスト専用! PG/CPUがとんでもなく高い値になっているが、これは開発者やQAがフィッティング関連のテストをしやすくするためだ。",
+    "ko": "실험 및 연구 목적으로만 사용되는 슈트입니다. 개발자와 QA팀의 피팅 관련 테스트를 더 쉽게 진행하기 위해 파워그리드와 CPU 수치를 비약적으로 높였습니다.",
+    "ru": "Этот скафандр предназначен исключительно для тестирования! До смешного высокие значения ЭС и ЦПУ предназначены только в помощь разработчикам и тестировщикам качества для задач оснащения.",
+    "zh": "该套装仅供测试使用！它的PG/CPU数值极高，可协助开发者和QA人员更轻松地完成相关装配任务。"
+  },
+  "groupID": 351064,
   "name": {
     "de": "[TEST] QA Dropsuit",
     "en": "[TEST] QA Dropsuit",
@@ -11,5 +23,7 @@
     "ru": "[TEST] Скафандр для QA",
     "zh": "[测试]QA作战服"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

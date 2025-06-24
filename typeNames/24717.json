@@ -1,5 +1,17 @@
 {
-  "typeID": 24717,
+  "description": {
+    "de": "Dieser kleine, durchsichtige Chip enthält Informationen aus der Datenbank eines Schiffes, das sich früher im Besitz Havatiahs Kiins befand. Auf diesem Chip könnte alles mögliche aus dem Logbuch des Schiffs gespeichert sein.",
+    "en": "This tiny, glassy data chip holds information from the database of a ship formerly in the possession of Havatiah Kiin.  Information stored within here could be anything from the ship's logs.",
+    "es": "Este pequeño chip de datos de vidrio contiene información de la base de datos de una nave que antes pertenecía a Havatiah Kiin. La información almacenada en él puede ser un dato cualquiera del cuaderno de bitácora.",
+    "fr": "Cette minuscule puce de données transparente contient des informations qui proviennent de la base de données d'un vaisseau ayant appartenu à Havatiah Kiin.  Les informations stockées peuvent provenir des registres du vaisseau.",
+    "ja": "ガラス状の超小型データチップ。ハバティーキーンが所有していた艦船のデータベース内の情報を格納している。この中に格納されている情報は、船の航海記録かもしれない。",
+    "ko": "조그마한 데이터칩에는 하바티아 킨이 소유했던 함선의 데이터베이스가 담겨 있습니다. 항해 일지에 관한 내용이 기록되어 있을 확률이 높습니다.",
+    "ru": "Этот маленький стеклянный чип данных содержит информацию из базы данных корабля, которым раньше владел Havatiah Kiin. Информация, хранящаяся внутри, может являться чем угодно, начиная с корабельных записей.",
+    "zh": "这块微小、玻璃状的数据芯片包含曾属于哈瓦塔·金恩的飞船的数据库信息。这里面存储的信息可能是飞船日志上的任何内容。"
+  },
+  "groupID": 314,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Havatiah's Ship Database",
     "en": "Havatiah's Ship Database",
@@ -10,5 +22,7 @@
     "ru": "Havatiah's Ship Database",
     "zh": "哈瓦塔的飞船数据库"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

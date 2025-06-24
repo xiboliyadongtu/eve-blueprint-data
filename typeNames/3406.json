@@ -1,5 +1,18 @@
 {
-  "typeID": 3406,
+  "basePrice": 500000.0,
+  "description": {
+    "de": "Gestattet den grundlegenden Betrieb von Forschungsanlagen. Durchführung eines weiteren Forschungsauftrags je Skillstufe",
+    "en": "Allows basic operation of research facilities. Ability to run 1 additional research job per skill level.",
+    "es": "Permite el funcionamiento básico de los centros de investigación. Capacidad para realizar un trabajo de investigación adicional por nivel de habilidad.",
+    "fr": "Permet l'utilisation basique des unités de recherche. Aptitude à lancer 1 mission de recherche supplémentaire par niveau de compétence.",
+    "ja": "研究施設の基本業務を実行できるようになる。スキルレベル上昇ごとに実行可能な研究ジョブ数が1つ増加。",
+    "ko": "연구 시설의 기본적인 기능을 개방합니다. 매 레벨마다 연구 슬롯 +1",
+    "ru": "Начальный навык управления научно-исследовательскими мощностями. Позволяет вести 1 дополнительную исследовательскую работу за каждый освоенный уровень навыка.",
+    "zh": "操作研究设施的基本技能。每升一级，可同时多运行一个研究项目。"
+  },
+  "groupID": 270,
+  "iconID": 33,
+  "marketGroupID": 375,
   "name": {
     "de": "Laboratory Operation",
     "en": "Laboratory Operation",
@@ -10,5 +23,7 @@
     "ru": "Лабораторные исследования",
     "zh": "实验室运作理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

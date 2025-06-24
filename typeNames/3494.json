@@ -1,5 +1,7 @@
 {
-  "typeID": 3494,
+  "graphicID": 1217,
+  "groupID": 920,
+  "mass": 1.0,
   "name": {
     "de": "Sansha Incursion HQ System Effects",
     "en": "Sansha Incursion HQ System Effects",
@@ -9,6 +11,74 @@
     "ko": "산샤 인커젼 효과 - 사령부",
     "ru": "Sansha Incursion HQ System Effects",
     "zh": "萨沙入侵总部星系效果"
+  },
+  "portionSize": 250,
+  "published": true,
+  "sofFactionName": "genericbase",
+  "traits": {
+    "iconID": 24310,
+    "miscBonuses": [
+      {
+        "bonusText": {
+          "de": "Bis zu 50 % Reduktion der Schild- und Panzerungsresistenzen",
+          "en": "Up to 50% reduction in shield and armor resistances",
+          "es": "Hasta un 50 % de reducción de las resistencias de blindaje y escudo.",
+          "fr": "Jusqu'à 50 % de réduction des résistances de bouclier et de blindage",
+          "ja": "シールドとアーマーレジスタンスが最大50%減少",
+          "ko": "실드 및 장갑 저항력 최대 50% 감소",
+          "ru": "Уменьшение сопротивляемости щитов и брони до 50%",
+          "zh": "护盾和装甲抗性降低，最多50%"
+        },
+        "importance": 2,
+        "isPositive": false
+      },
+      {
+        "bonusText": {
+          "de": "Bis zu 50 % Reduktion des Schadens durch Geschütztürme, Werfer, Drohnen und Smartbombs",
+          "en": "Up to 50% reduction in turret, launcher, drone and smartbomb damage",
+          "es": "Hasta un 50 % de reducción del daño de torretas, lanzadores, drones y bombas inteligentes.",
+          "fr": "Jusqu'à 50 % de réduction des dégâts de tourelles, de lanceurs, de drones et de bombes de proximité",
+          "ja": "タレット、ランチャー、ドローン、スマートボムへのダメージが最大50%減少",
+          "ko": "터렛, 런처, 드론, 스마트폭탄 피해량 최대 50% 감소",
+          "ru": "Уменьшение урона от турелей, пусковых установок, дронов и импульсных излучателей до 50%",
+          "zh": "炮台、发射器、无人机和立体炸弹的威力被削弱，最多50%"
+        },
+        "importance": 3,
+        "isPositive": false
+      },
+      {
+        "bonusText": {
+          "de": "Anziehungsfeld-Störsender sind für das ganze System aktiviert.",
+          "en": "System-wide cynosural field jammers are in effect",
+          "es": "Se activan los aparatos perturbadores de campo cinosural en todo el sistema.",
+          "fr": "Brouilleurs de champ cynosural effectifs dans tout le système en action",
+          "ja": "全システム用サイノシュラルフィールドジャマー装置が起動中",
+          "ko": "항성계 전체에 사이노슈럴 필드 재머 작동 중",
+          "ru": "Действуют глушители поля приводного маяка с охватом всей системы",
+          "zh": "全星系遭受反诱导力场干扰"
+        },
+        "importance": 4,
+        "isPositive": false
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Verringerung von CONCORD-Kopfgeldern",
+          "en": "reduction in CONCORD bounties",
+          "es": "de reducción a las recompensas de CONCORD.",
+          "fr": "réduction des primes CONCORD",
+          "ja": "CONCORDの懸賞金削減",
+          "ko": "CONCORD 현상금 감소",
+          "ru": "уменьшение наград, назначенных КОНКОРДом",
+          "zh": "统合部赏金减少"
+        },
+        "importance": 1,
+        "isPositive": false,
+        "unitID": 105
+      }
+    ],
+    "roleBonuses": [],
+    "types": {}
   },
   "volume": 20.0
 }

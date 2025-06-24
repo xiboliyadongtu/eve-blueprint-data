@@ -1,5 +1,18 @@
 {
-  "typeID": 45638,
+  "capacity": 950.0,
+  "description": {
+    "de": "Eine tödliche Raubdrohne, die von einer Raubschwarm-KI der Klasse 'Overmind Primus' gesteuert wird. Diese Einheit ist die leitende Intelligenz hinter der Raubdrohnenplage. Ihre Zerstörung hat absolute Priorität.\n\n\n\nDiese Kommandanten stehen im Netzwerk der fortschrittlichen KIs der Raubplage an erster Stelle. Der Overmind Primus des Schwarms ist eine schwerbewaffnete und mächtige Kriegsdrohne. Dennoch setzt er zunächst auf den Einsatz seiner ihm fügigen Raubdrohnen, bis diese Verteidiger eliminiert wurden.\n\n\n\nNur wenn der Schutz des Nests es notwendig macht, wird diese überlegene Intelligenz ihr Versteck verlassen und sich enthüllen.",
+    "en": "A deadly rogue drone controlled by a Rogue Swarm AI classified as an 'Overmind Primus'. This entity is the guiding intelligence of the local rogue drone infestation and its destruction is a priority.\r\n\r\nThese commanders are paramount among the Swarm Infestation's network of advanced AIs. The Swarm Overmind Primus is a heavily-armed, powerful war drone but will still deploy its slaved rogue drones until such defenders are eliminated.\r\n\r\nOnly when forced to expose itself in order to preserve the nest will this supreme intelligence emerge from its lair.",
+    "es": "Un dron rebelde letal controlado por una IA de enjambre de rebeldes clasificado como «Overmind Primus». Esta entidad es la inteligencia que guía la infestación local con drones rebeldes y destruirla es una prioridad.\n\n\n\nEstos comandantes son una parte esencial de la red de infestación con enjambres de las IA avanzadas. El Overmind enjambrado Primus es un poderoso dron de guerra fuertemente armado que, no obstante, primero desplegará a sus drones rebeldes esclavizados hasta que esta línea de defensa quede eliminada.\n\n\n\nEsta inteligencia suprema solo emergerá de su guarida si se ve obligada a exponerse para salvar su nido.",
+    "fr": "Ce drone renégat létal, contrôlé par une IA d'essaim renégat, est classifié « Suresprit Primus ». L'entité est l'intelligence mère qui synchronise l'infestation locale de drones renégats : sa destruction est une priorité absolue. Ces commandants d'essaim sont les clefs de voûte de la hiérarchie du réseau d'IA avancées. Lourdement armé, ce drone de guerre puissant déploie systématiquement ses serviles drones renégats en première ligne jusqu'à annihilation totale de son front défensif. L'intelligence suprême du Suresprit Primus n'émerge de son repaire qu'en ultime recours pour préserver le nid de la destruction.",
+    "ja": "「オーバーマインド・プライマス」に分類されるローグスウォームAI制御の危険なドローン。現地にはびこるローグドローンの集団に指示を与えている人工知能で、優先的に破壊すべきである。\r\n\nこういった指揮官クラスは、高性能なAIが形作るローグスウォームのネットワークの中でも傑出した存在だ。スウォームオーバーマインド・プライマスは重武装の強力な戦闘用ドローンだが、全部排除されてしまうまでスレイブドローンを先に展開する。\r\n\nこの究極の知性体が姿を現すのは、巣を守るために直接介入しなければならない時だけである。",
+    "ko": "‘오버마인드 프라이머스’로 분류되는 치명적인 로그 드론으로, 로그 스웜 인공지능이 통제합니다. 지역의 로그 드론 감염 사태의 주범이자 로그 스웜의 첨단 인공지능 네트워크의 최고 지휘드론입니다. <br><br>따라서 해당 드론을 파괴하는 것을 최우선시 해야 합니다. 스웜 오버마인드 프라이머스는 중무장된 강력한 전투 드론이지만 직접적으로 전투에 참여하기 꺼려 하여 휘하의 로그 드론을 먼저 보내는 편입니다. <br><br>둥지 및 주요 시설이 공격당하거나 위협적인 상황을 정찰하는 경우가 아니면 본체를 노출하지 않는 편입니다.",
+    "ru": "Смертоносный восставший дрон, управляемый ИИ восставшего роя под кодовым именем «Первичный сверхразум». Эта сущность направляет заражение восставшими дронами в окрестностях; её уничтожение — основная цель.\n\n\n\nЭти командные корабли имеют ключевое значение в сети усовершенствованных ИИ, распространяющей заражение Роем. Первичный сверхразум — мощный, тяжеловооруженный боевой дрон, но он не вступит в бой, пока не уничтожены подчиненные ему прочие восставшие дроны.\n\n\n\nПервичный сверхразум, доминирующий над роем, покинет логово не раньше, чем будет вынужден к этому под угрозой уничтожения улья.",
+    "zh": "一个危险的自由无人机，由一个被标称为“第一主宰”的自由蜂巢AI控制。这个东西是本地区自由无人机的指挥中枢，摧毁它是最高优先级任务。\n\n\n\n这些指挥官是蜂巢侵染网络高级AI的最高统治者。第一主宰蜂巢装备精良，拥有强大的战斗无人机，但首先使用依附的自由无人机来战斗，直到其全军覆没。\n\n\n\n只有当被迫现身来保护巢穴时它才会现出真面目。"
+  },
+  "graphicID": 1718,
+  "groupID": 802,
+  "mass": 21000000.0,
   "name": {
     "de": "Swarm Overmind Primus",
     "en": "Swarm Overmind Primus",
@@ -10,5 +23,10 @@
     "ru": "Swarm Overmind Primus",
     "zh": "第一主宰蜂巢"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 250.0,
+  "sofFactionName": "gallenteinfested",
+  "soundID": 11,
   "volume": 1010000.0
 }

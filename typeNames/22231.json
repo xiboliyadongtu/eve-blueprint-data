@@ -1,5 +1,17 @@
 {
-  "typeID": 22231,
+  "description": {
+    "de": "Diese Datenlogs enthalten Informationen über das Kommen und Gehen aller neuen Rekruten, die in Fuekele stationiert sind. Außerdem alle Meldungen, die vom und zum Kontrollturm des Rekrutierungszentrums gesendet worden sind.",
+    "en": "These data logs contain information on the comings and goings of all new recruits stationed in Fluekele, as well as messages sent to and from the control tower in the recruitment center.",
+    "es": "Estos registros de datos contienen información sobre las idas y venidas de todos los nuevos reclutas destinados en Fluekele, así como los mensajes enviados desde y hacia la torre de control del centro de reclutamiento.",
+    "fr": "Ces registres de données contiennent des informations sur les allées et venues de toutes les nouvelles recrues qui stationnent dans Fluekele, ainsi que les messages envoyés ou reçus par la tour de contrôle dans le centre de recrutement.",
+    "ja": "フルーケルに駐在する新兵の出入りに関する情報と、リクルートセンターのコントロールタワーが送受信した通信情報を含んだデータログ。",
+    "ko": "데이터 로그에는 플루켈레에서의 신병 모집 그리고 그와 관련된 각종 통신 내용에 관한 정보가 기록되어 있습니다.",
+    "ru": "Эти журналы данных содержат информацию о прибытии и отбытии всех новобранцев на станцию Fluekele, а так же принятые и отправленные сообщения башни управления центра вербовки.",
+    "zh": "这些数据日志记录了所有驻扎在弗琉克勒的新兵来往信息和征募新兵中心控制塔接收及发送的消息。"
+  },
+  "groupID": 526,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Recruitment Center Data Log",
     "en": "Recruitment Center Data Log",
@@ -10,5 +22,7 @@
     "ru": "Recruitment Center Data Log",
     "zh": "征兵中心数据日志"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

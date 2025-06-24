@@ -1,5 +1,18 @@
 {
-  "typeID": 28158,
+  "description": {
+    "de": "Sofern betriebsbereit, erlaubt es der Klondienst Kapselpiloten diese Station als Heimat für ihre medizinischen Klone zu benutzen.",
+    "en": "When operational, the Cloning Service allows capsuleers to use this station as their medical clone home location.",
+    "es": "Cuando está operativo, el servicio de clonación permite que los capsulistas usen esta estación como base de clonación médica.",
+    "fr": "Une fois opérationnel, le service de clonage permet aux capsuliers d'installer leurs clones médicaux dans cette station.",
+    "ja": "クローン作成サービスが稼働中のステーションは、カプセラがメディカルクローンのホームステーションとして利用できる。",
+    "ko": "클론 서비스를 통해 해당 정거장에 메디컬 클론을 생성할 수 있습니다.",
+    "ru": "Действующая служба клонирования позволяет капсулёрам в доке станции прописываться на станции, обозначая её в качестве «дома» и точки возрождения клона.",
+    "zh": "启用后，玩家停靠在空间站中时可以使用克隆服务来将该空间站设为其医疗克隆体所在的基地空间站。"
+  },
+  "graphicID": 10026,
+  "groupID": 874,
+  "iconID": 21434,
+  "mass": 1.0,
   "name": {
     "de": "Cloning Service",
     "en": "Cloning Service",
@@ -10,5 +23,9 @@
     "ru": "Cloning Service",
     "zh": "克隆服务"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 16,
+  "radius": 5000.0,
   "volume": 1.0
 }

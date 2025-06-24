@@ -1,5 +1,19 @@
 {
-  "typeID": 18742,
+  "description": {
+    "de": "Diese Beschichtung verwendet ein Magnetfeld, um kinetische Angriffe abzuwehren. Gewährt einen Bonus auf die Panzerungsresistenz gegen Kinetikschaden. Abzug: Beim Einsatz mehrerer Module des gleichen oder eines ähnlichen Typs, welche dasselbe Attribut beeinflussen, wird deren Wirksamkeit für dieses Attribut eingeschränkt.",
+    "en": "This coating utilizes a magnetic field to deflect kinetic attacks. Grants a bonus to armor kinetic damage resistance.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",
+    "es": "Este recubrimiento utiliza un campo magnético para desviar ataques cinéticos. Otorga una bonificación a la resistencia del blindaje a daños cinéticos.\n\nPenalización: Por usar más de un tipo de módulo o módulos similares que afecten al mismo atributo de la nave.",
+    "fr": "Cette surcouche est dotée d'un champ magnétique qui dévie les attaques cinétiques. Offre un bonus à la résistance du blindage aux dégâts cinétiques. Pénalité : utiliser plus d'un module de ce type ou plusieurs modules modifiant un même attribut du vaisseau fera l'objet d'une pénalité.",
+    "ja": "磁場を利用してキネティック攻撃を別の方向にそらすコーティング。アーマーのキネティックダメージ耐性を増加させる。\r\n\nペナルティ：艦船に同じタイプのモジュール、または同じ属性の類似モジュールを複数取り付けると、ペナルティが発生する。",
+    "ko": "자기장을 활성화하여 키네틱 피해를 감소시킵니다. 장갑의 키네틱 저항력이 증가합니다. <br><br>페널티: 동일한 속성의 모듈 여러 개를 장착할 경우 페널티가 부여됩니다.",
+    "ru": "Это покрытие использует магнитное поле для отражения кинетических атак. Даёт бонус к сопротивляемости брони кинетическому урону. Внимание! Установка на борт корабля двух и более модулей, влияющих на одну и ту же характеристику, приведёт к снижению эффективности их действия в отношении данной характеристики.",
+    "zh": "该涂层利用磁场使动能攻击发生偏离。提高装甲的动能抗性。\n\n\n\n惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。"
+  },
+  "groupID": 98,
+  "iconID": 20957,
+  "marketGroupID": 1666,
+  "mass": 1.0,
+  "metaGroupID": 6,
   "name": {
     "de": "Centii B-Type Kinetic Coating",
     "en": "Centii B-Type Kinetic Coating",
@@ -10,5 +24,9 @@
     "ru": "Centii B-Type Kinetic Coating",
     "zh": "森提伊动能涂层 B型"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 10.0,
+  "variationParentTypeID": 1284,
   "volume": 5.0
 }

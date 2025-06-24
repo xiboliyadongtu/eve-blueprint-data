@@ -1,5 +1,19 @@
 {
-  "typeID": 31610,
+  "description": {
+    "de": "Diese Schiffsmodifikation wurde entwickelt, um die maximale Flugdauer für Lenkwaffen zu erhöhen. Dies geschieht auf Kosten der CPU-Anforderungen für Lenkwaffenwerfer.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26260>Werfermodifikation</a> reduziert werden.",
+    "en": "This ship modification is designed to increase maximum missile flight time at the expense of increased CPU requirements for launchers.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26260>Launcher Rigging</a> skill.",
+    "es": "Esta modificación de nave está diseñada para aumentar el tiempo de vuelo máximo de los misiles a costa de aumentar los requisitos de CPU de los lanzadores.\n\nSe pueden reducir las desventajas de equipar este complemento desarrollando la habilidad <a href=showinfo:26260>Complementos de lanzadores</a>.",
+    "fr": "Cette modification de vaisseau est conçue pour augmenter le temps de vol maximum des missiles, au détriment des ressources CPU requises par les lanceurs.\n\n\n\nLes inconvénients du montage de cette plateforme pourraient être réduits en entraînant la compétence <a href=showinfo:26260>Optimisation des lanceurs</a>.",
+    "ja": "この改造を行うと、ランチャーのCPU要件が厳しくなるのと引き換えにミサイルの最長飛行時間が増加する。このリグを装備することで発生するペナルティは、<a href=showinfo:26260>ランチャーリギング</a>スキルをトレーニングすることで低減できる。",
+    "ko": "리그 장착 시 미사일의 최대 비행시간이 증가하는 반면 미사일 런처의 CPU 요구치도 증가합니다. <br><br>리그 부작용은 <a href=showinfo:26260>런처 리그</a> 스킬 습득 시 감소합니다.",
+    "ru": "Эта модификация предназначена для повышения максимального времени полёта ракет за счёт увеличения потребляемого пусковыми установками объема вычислительных ресурсов процессора.\n\n\n\nНегативный эффект от установки этого тюнинг-модуля можно снизить, освоив навык <a href=showinfo:26260>Launcher Rigging</a>, дающий пилоту углублённое понимание принципов взаимодействия между ракетными установками и различными системами корабля.",
+    "zh": "这个飞船改装件通过增加发射器的CPU需求来增加导弹最大飞行时间。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26260>发射器改装技术</a>技能降低影响。"
+  },
+  "groupID": 779,
+  "iconID": 3197,
+  "marketGroupID": 1232,
+  "mass": 200.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Medium Rocket Fuel Cache Partition I",
     "en": "Medium Rocket Fuel Cache Partition I",
@@ -10,5 +24,8 @@
     "ru": "Medium Rocket Fuel Cache Partition I",
     "zh": "中型火箭燃料缓冲隔离装置 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 100.0,
   "volume": 10.0
 }

@@ -1,5 +1,19 @@
 {
-  "typeID": 85757,
+  "basePrice": 500000.0,
+  "description": {
+    "de": "Der zentrale Datenkern eines Patient Eradicator. Der von ihm ausgeführte Code basiert auf uralten Jovian-Prinzipien, aber seine makellose Oberfläche verrät seine kürzliche Konstruktion.",
+    "en": "The central datacore of a Patient Eradicator. The code it runs is based on ancient Jovian principles, but its unblemished surface betrays its recent construction.",
+    "es": "El núcleo de datos central de un erradicador paciente. El código que ejecuta se basa en antiguos principios jovianos, pero su superficie inmaculada delata su reciente construcción.",
+    "fr": "La banque de données centrale d'un Éradicateur patient. Le code qu'elle exécute est basé sur des principes jove anciens, mais sa surface immaculée trahit sa construction récente.",
+    "ja": "ペイシェント・イラディケーターの中枢データコア。古代ジョビ人が定めた原理に基づいたコードで稼働しているが、傷一つない表面が製造されてから間もないことを示している。",
+    "ko": "인내형 박멸자의 중앙 데이터코어입니다. 인내형 박멸자가 사용하는 데이터 코드는 고대 조브인이 생성한 알고리즘을 따르지만 흠집 하나 없는 매끈한 외관을 보면 최근에 제작된 것 같습니다.",
+    "ru": "Это центральный инфоблок Patient Eradicator. Он использует принцип кодировки данных древних джовиан, но его безупречная поверхность выдаёт в нём новодел.",
+    "zh": "耐心清洗者的中央数据核心。它的运行代码基于远古的朱庇特规范，但光洁无瑕的表面暴露出它是近期建造的事实。"
+  },
+  "groupID": 314,
+  "iconID": 2885,
+  "marketGroupID": 1863,
+  "mass": 1.0,
   "name": {
     "de": "Eradicator Datacore",
     "en": "Eradicator Datacore",
@@ -10,5 +24,7 @@
     "ru": "Eradicator Datacore",
     "zh": "清洗者数据核心"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

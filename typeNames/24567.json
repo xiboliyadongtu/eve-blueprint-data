@@ -1,5 +1,20 @@
 {
-  "typeID": 24567,
+  "basePrice": 100000000.0,
+  "capacity": 25000.0,
+  "description": {
+    "de": "Versuchslabore werden genutzt, um uralte Technologien nachzukonstruieren. Diese Struktur bietet Nachkonstruktions-Aktivitäten.",
+    "en": "Experimental Laboratories are used for reverse engineering of ancient technology. This structure has Reverse Engineering activities.",
+    "es": "Los laboratorios experimentales se utilizan para invertir la ingeniería de la tecnología antigua. En esta estructura, se llevan a cabo actividades de ingeniería inversa.",
+    "fr": "Les laboratoires d'expérimentation sont utilisés par la rétro-ingénierie des anciennes technologies. Cette structure dispose d'activités de rétro-ingénierie.",
+    "ja": "実験用研究所は、古代技術のリバースエンジニアを行うために使用される。この施設ではリバースエンジニアリングが行える。",
+    "ko": "고대 기술에 대한 역설계 방법론을 연구하기 위해 설치된 실험용 연구소입니다. 현재 역설계 관련 실험이 시설에서 활발히 이뤄지고 있습니다.",
+    "ru": "Экспериментальные лаборатории используются для изучения древних технологий. В этом сооружении решаются задачи инженерного ретроанализа.",
+    "zh": "这些实验室是用于对古代科技遗物进行逆向工程研究的。在这里可以进行逆向工程项目。"
+  },
+  "graphicID": 2373,
+  "groupID": 413,
+  "marketGroupID": 933,
+  "mass": 100000000.0,
   "name": {
     "de": "Experimental Laboratory",
     "en": "Experimental Laboratory",
@@ -10,5 +25,10 @@
     "ru": "Experimental Laboratory",
     "zh": "逆向工程实验室"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 782.0,
+  "sofFactionName": "genericmetal",
   "volume": 3000.0
 }

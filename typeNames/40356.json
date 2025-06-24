@@ -1,5 +1,18 @@
 {
-  "typeID": 40356,
+  "description": {
+    "de": "Steigert die maximale Stärke des Schildes.\n\nHinweis: Kann nur in Schiffe der Capital-Klasse eingebaut werden.",
+    "en": "Increases the maximum strength of the shield.\n\nNote: May only be fitted to capital class ships.",
+    "es": "Aumenta la resistencia máxima del escudo.\n\nAviso: Solo se puede equipar en naves capitales.",
+    "fr": "Renforce la solidité maximale des boucliers.\n\nRemarque : réservé aux vaisseaux de classe capital.",
+    "ja": "シールドの最高強度を上昇させる。注： 母艦級の艦船にのみ装着可能。",
+    "ko": "최대 실드량이 증가합니다. <br><br>참고: 캐피탈급 함선에만 장착이 가능합니다.",
+    "ru": "Увеличивает максимальный запас прочности силового поля корабля.\n\nВнимание! Этим модулем могут оснащаться исключительно корабли большого тоннажа.",
+    "zh": "增加护盾的最大强度。\n\n注：只能用于旗舰级舰船。"
+  },
+  "groupID": 38,
+  "iconID": 1044,
+  "marketGroupID": 2241,
+  "metaGroupID": 1,
   "name": {
     "de": "Capital F-S9 Regolith Compact Shield Extender",
     "en": "Capital F-S9 Regolith Compact Shield Extender",
@@ -10,5 +23,8 @@
     "ru": "Capital F-S9 Regolith Compact Shield Extender",
     "zh": "旗舰级F-S9覆盖式紧凑型护盾扩展装置"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 40354,
   "volume": 4000.0
 }

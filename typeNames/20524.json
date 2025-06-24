@@ -1,5 +1,18 @@
 {
-  "typeID": 20524,
+  "basePrice": 80000000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Amarr-Frachtern.",
+    "en": "Skill at operating Amarr freighters.",
+    "es": "Habilidad en el manejo de cargueros amarrianos.",
+    "fr": "Compétence permettant de manœuvrer des transports de fret amarr.",
+    "ja": "アマー超大型輸送艦を操作するスキル。",
+    "ko": "아마르 프레이터 운용을 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на фрейтерах производства Амаррской Империи.",
+    "zh": "操作艾玛货舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Amarr Freighter",
     "en": "Amarr Freighter",
@@ -10,5 +23,7 @@
     "ru": "Амаррские фрейтеры",
     "zh": "艾玛货舰操作"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

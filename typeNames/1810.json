@@ -1,5 +1,21 @@
 {
-  "typeID": 1810,
+  "basePrice": 500.0,
+  "description": {
+    "de": "Eine leichte Rakete der Caldari mit Graviton-Sprengkopf und automatisiertem Lenksystem.",
+    "en": "A Caldarian light missile with a graviton warhead and automatic guidance system.",
+    "es": "Un misil ligero caldari con una ojiva de gravitones y un sistema de guiado automático.",
+    "fr": "Missile léger caldari équipé d'une ogive à graviton et d'un système de guidage automatique.",
+    "ja": "重力子弾頭と自動誘導システムを装備したカルダリ製ライトミサイル。",
+    "ko": "유도시스템과 중력자 탄두가 탑재된 칼다리 라이트 미사일입니다.",
+    "ru": "Легкая ракета Caldarian с гравитонной боеголовкой и системой автоматического наведения.",
+    "zh": "加达里合众国的一种轻型导弹，装备有引力子战斗部和自动导航系统。"
+  },
+  "graphicID": 20064,
+  "groupID": 394,
+  "iconID": 1333,
+  "marketGroupID": 914,
+  "mass": 700.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Scourge Auto-Targeting Light Missile I",
     "en": "Scourge Auto-Targeting Light Missile I",
@@ -10,5 +26,8 @@
     "ru": "Scourge Auto-Targeting Light Missile I",
     "zh": "鞭挞自动锁定轻型导弹 I"
   },
+  "portionSize": 100,
+  "published": true,
+  "radius": 300.0,
   "volume": 0.015
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 30826,
+  "description": {
+    "de": "Diese Daten werden den Originaleintrag im System überschreiben.",
+    "en": "These identity records will overwrite the original data in the system.",
+    "es": "Estos registros de identidad sobrescribirán los datos originales del sistema.",
+    "fr": "Ces sauvegardes d'identité écraseront les données originales du système.",
+    "ja": "これらのIDレコードによってシステム内の元のデータは上書きされる。",
+    "ko": "해당 신원 정보가 시스템에 기록된 기존 데이터를 덮어 씌울 예정입니다.",
+    "ru": "Эти персональные записи заменят исходные данные в системе.",
+    "zh": "这些身份记录将会覆盖系统中的原始数据。"
+  },
+  "groupID": 526,
+  "iconID": 2038,
+  "mass": 50.0,
   "name": {
     "de": "Altered Identity Records",
     "en": "Altered Identity Records",
@@ -10,5 +22,7 @@
     "ru": "Altered Identity Records",
     "zh": "改过的身份记录"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 3431,
+  "basePrice": 100000.0,
+  "description": {
+    "de": "Fertigkeit zur Bedienung von Zielsystemen.\r\n\r\n5% Bonus auf die Aufschaltgeschwindigkeit je Skillstufe.",
+    "en": "Skill at operating Targeting systems. 5% improved targeting speed per skill level.",
+    "es": "Habilidad en el manejo de sistemas de adquisición de objetivos. Mejora un 5 % la velocidad de adquisición de objetivos por nivel de habilidad.",
+    "fr": "Compétence liée à l'utilisation de systèmes de ciblage. Augmente de 5 % par niveau de compétence la vitesse de ciblage.",
+    "ja": "ターゲットシステムを操作するためのスキル。スキルレベル上昇ごとに照準速度が 5% 上昇する。",
+    "ko": "타겟팅 시스템을 위한 스킬입니다. 매 레벨마다 타겟팅 속도 5% 증가",
+    "ru": "Навык эксплуатации систем захвата целей. За каждую степень освоения навыка: на 5% увеличивается скорость захвата целей.",
+    "zh": "操作锁定系统的技能。每升一级，锁定速度提升5%。"
+  },
+  "groupID": 1213,
+  "iconID": 33,
+  "marketGroupID": 1748,
   "name": {
     "de": "Signature Analysis",
     "en": "Signature Analysis",
@@ -10,5 +23,7 @@
     "ru": "Анализ сигнатур",
     "zh": "信号分析学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

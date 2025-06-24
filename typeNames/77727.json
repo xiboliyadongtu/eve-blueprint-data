@@ -1,5 +1,18 @@
 {
-  "typeID": 77727,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieses Gerät war einst ein funktionaler bioadaptiver Speicher, der scheinbar seit langer Zeit beschädigt umhertreibt. Der Speicher hat längst alle enthaltenen Informationen verloren und sendet nur noch inkohärente Datenimpulse. Darüber hinaus hat sich seine Oberfläche elektromagnetisch aufgeladen. Im Laufe der Reise des Speichers durch die Raumverwerfung des Abgrunds wurden auf diese Weise gegensätzlich geladene Mutanite-Partikel angezogen, was erklärt, wieso er in einer so dicken Gesteinskruste steckt.",
+    "en": "Once a functional bioadaptive cache, this device appears to have been damaged and set adrift long ago. \r\n\r\nAny information once stored in the cache is long since lost and now it transmits only incoherent data pulses. Additionally, its surface has built up an electromagnetic charge. This would have attracted opposingly charged mutanite particles to the cache as it drifted through Abyssal Deadspace, explaining how it became buried inside such a thick layer of rock.",
+    "es": "Este dispositivo, que anteriormente fue una reserva bioadaptativa funcional, parece haber sufrido daños y está a la deriva desde hace mucho tiempo.     Cualquier información que una vez se almacenó en la reserva se perdió hace mucho tiempo y ahora transmite solo pulsos de datos incoherentes. Además, su superficie ha acumulado una carga electromagnética. Esto habría atraído partículas de mutanita con carga opuesta a la reserva mientras se desplazaba a través del espacio muerto abisal, lo que explica cómo quedó enterrada dentro de una capa de roca tan gruesa.",
+    "fr": "Cet appareil était autrefois une cache bioadaptative, mais il semblerait qu'elle ait été endommagée et abandonnée il y a bien longtemps. Toutes les informations qui y étaient stockées sont perdues depuis longtemps et elle ne transmet plus que des impulsions de données incohérentes. En plus de cela, une charge électromagnétique s'est accumulée à sa surface. Elle a pu attirer des particules de mutanite à charge opposée à la cache lorsque celle-ci dérivait dans l'abîme Deadspace, ce qui expliquerait pourquoi elle a fini enterrée sous une couche si épaisse de roche.",
+    "ja": "かつては機能していただろうバイオアダプティブ保管装置。はるか昔に損傷し、それ以来漂流していたようだ。     装置内に保管されていた情報の一切はすでに失われ、今では理解不能なデータパルスを発信し続けるのみ。また、表層部には電磁チャージが蓄積しており、アビサルデッドスペース内を漂う装置に向かって対極のチャージを持つミュータナイト粒子が誘引され、結果的に分厚い岩の中に埋没したのだろうと推測される。",
+    "ko": "한때는 작동했던 생체 적응형 캐시입니다. 오래전에 손상을 입고 우주에 버려졌던 것으로 보입니다. 내부에 저장되어 있던 정보는 소실된 지 오래이며 지금은 일관성 없는 데이터 펄스만을 방출하고 있습니다. 표면에는 전하가 쌓여 있는데 이로 인해 어비설 데드스페이스를 표류하는 동안 반대 전하를 띤 뮤타나이트 입자들을 끌어당긴 것으로 추정됩니다. 덕분에 어떻게 이 캐시가 이토록 두꺼운 암석층에 파묻히게 됐는지 알 수 있습니다.",
+    "ru": "Это неисправный биоадаптивный тайник. Когда-то это устройство получило повреждения и теперь просто дрейфует в космическом пространстве. Все данные, которые хранились в этом тайнике, давно утеряны, и он передаёт лишь импульсы с бессвязными обрывками информации. Вдобавок ко всему, поверхность устройства накопила электромагнитный заряд. Видимо, когда тайник пролетал через Мёртвую бездну, на него налипли частицы мутанита с противоположным зарядом. Это объясняет тот факт, что устройство скрывает плотный слой каменной породы.",
+    "zh": "这个装置曾是一个运作正常的生化适应贮藏，但它似乎早就被损坏和弃用了。所有曾存储在贮藏中的信息都早已丢失，现在只能从中读出零散的数据脉冲。此外，这个装置的表面还积聚了一层电磁电荷。因此它在飘过深渊空间时，会吸附带相反电荷的突变岩颗粒，这也解释了它为何会被埋在如此厚重的岩层中。"
+  },
+  "graphicID": 22217,
+  "groupID": 4576,
+  "mass": 10000.0,
   "name": {
     "de": "Faulty Triglavian Cache",
     "en": "Faulty Triglavian Cache",
@@ -10,5 +23,10 @@
     "ru": "Faulty Triglavian Cache",
     "zh": "有缺陷的三神裔贮藏"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 1226.0,
+  "sofFactionName": "triglavianbase",
+  "soundID": 20217,
   "volume": 100000000.0
 }

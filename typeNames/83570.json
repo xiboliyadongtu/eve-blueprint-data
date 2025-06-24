@@ -1,5 +1,16 @@
 {
-  "typeID": 83570,
+  "description": {
+    "de": "Ein komplexes automatisiertes Zentrum für die Verteilung von Paketen in diesem Gebiet. Sobald ein Gegenstand dort abgeliefert wird, ist der Sortiervorgang so komplex, dass selbst die Verarbeitungsdrohnen Schwierigkeiten hätten, ihn nachzuverfolgen.",
+    "en": "A complex automated center for the distribution of packages throughout this area. Once an item is delivered there the sorting process is so complex that even the processing drones would struggle to track it.",
+    "es": "Centro automatizado complejo para la distribución de paquetes en toda esta zona. Una vez que un artículo se entrega allí, el proceso de clasificación es tan complejo que incluso los drones procesadores tendrían dificultades para rastrearlo.",
+    "fr": "Un centre automatisé complexe pour la distribution de paquets dans toute cette zone. Une fois qu'un objet y est livré, le processus de tri est si complexe que même les drones de traitement peinent à le suivre.",
+    "ja": "このエリア全域に荷物に対応した複雑な自動化配送センター。荷物が入ってきた際の仕分けプロセスは非常に複雑で、作業用ドローンでさえも状態の把握に苦労している。",
+    "ko": "주변 지역의 물류를 자동으로 분류하는 시설입니다. 물품을 분류하는 체계가 매우 복잡하기 때문에 분류를 담당하는 드론도 정확한 분류를 위해 갖은 노력을 하고 있습니다.",
+    "ru": "Сложный автоматизированный центр доставки посылок по всей этой территории. Процесс сортировки отправлений настолько сложен, что даже дроны-обработчики не в состоянии с ним справиться.",
+    "zh": "一个复杂的自动化配送中心，负责将包裹分发到整个区域。物品送达之后，分拣过程会变得极为复杂，就连专业的处理无人机也难以精准追踪其流向。"
+  },
+  "graphicID": 1255,
+  "groupID": 226,
   "name": {
     "de": "Automated Depot",
     "en": "Automated Depot",
@@ -10,5 +21,8 @@
     "ru": "Automated Depot",
     "zh": "自动化仓库"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 13575.0,
+  "sofFactionName": "gallentebase"
 }

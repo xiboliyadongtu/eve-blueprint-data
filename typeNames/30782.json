@@ -1,5 +1,17 @@
 {
-  "typeID": 30782,
+  "description": {
+    "de": "Diese Komponenten wurden aus Drohnen gewonnen, die offensichtlich Fehlfunktionen aufwiesen.",
+    "en": "These components were gathered from obviously malfunctioning drones.",
+    "es": "Estos componentes se han obtenido de drones estropeados.",
+    "fr": "Ces composants ont été récupérés sur des drones manifestement défaillants.",
+    "ja": "これらの部品は、明らかに故障したドローンから回収されたものだった。",
+    "ko": "손상된 드론으로부터 수집한 부품입니다.",
+    "ru": "Эти компоненты явно были собраны с неработающих дронов.",
+    "zh": "这些部件应该是从损坏的无人机上收集起来的。"
+  },
+  "groupID": 314,
+  "iconID": 1436,
+  "mass": 2.0,
   "name": {
     "de": "Corrupted Drone Components",
     "en": "Corrupted Drone Components",
@@ -10,5 +22,7 @@
     "ru": "Corrupted Drone Components",
     "zh": "损坏的无人机部件"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

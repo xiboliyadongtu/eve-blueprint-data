@@ -1,5 +1,21 @@
 {
-  "typeID": 1820,
+  "basePrice": 3500.0,
+  "description": {
+    "de": "Eine schwere Rakete der Amarr mit EMP-Sprengkopf und automatisiertem Lenksystem.",
+    "en": "An Amarr heavy missile with an EMP warhead and automatic guidance system.",
+    "es": "Misil pesado amarriano con ojiva EMP y sistema de guiado automático.",
+    "fr": "Missile lourd amarr équipé d'une ogive IEM et d'un système de guidage automatique.",
+    "ja": "EMP弾頭と自動誘導システムを装備したアマー製ヘビーミサイル。",
+    "ko": "유도시스템과 EMP 탄두가 탑재된 아마르 헤비 미사일입니다.",
+    "ru": "Тяжелая ракета Amarr с боеголовкой ЭМП и системой автоматического наведения.",
+    "zh": "艾玛帝国的一种重型导弹，装备有电磁脉冲战斗部和自动导航系统。"
+  },
+  "graphicID": 20049,
+  "groupID": 395,
+  "iconID": 1339,
+  "marketGroupID": 914,
+  "mass": 1000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Mjolnir Auto-Targeting Heavy Missile I",
     "en": "Mjolnir Auto-Targeting Heavy Missile I",
@@ -10,5 +26,8 @@
     "ru": "Mjolnir Auto-Targeting Heavy Missile I",
     "zh": "雷神自动锁定重型导弹 I"
   },
+  "portionSize": 100,
+  "published": true,
+  "radius": 300.0,
   "volume": 0.03
 }

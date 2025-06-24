@@ -1,5 +1,18 @@
 {
-  "typeID": 1896,
+  "capacity": 300.0,
+  "description": {
+    "de": "Eine Patrouillenfregatte des CONCORD.",
+    "en": "A Concord Patrol Frigate.",
+    "es": "Fragata de patrulla de CONCORD.",
+    "fr": "Une frégate de patrouille Concord.",
+    "ja": "CONCORDのパトロールフリゲート。",
+    "ko": "CONCORD 순찰 프리깃입니다.",
+    "ru": "Патрульный фрегат Concord.",
+    "zh": "一艘统合部巡逻护卫舰。"
+  },
+  "graphicID": 1049,
+  "groupID": 25,
+  "mass": 1200000.0,
   "name": {
     "de": "Concord Police Frigate",
     "en": "Concord Police Frigate",
@@ -10,5 +23,10 @@
     "ru": "Concord Police Frigate",
     "zh": "统合部警用护卫舰"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 38.0,
+  "sofFactionName": "concordbase",
+  "soundID": 20083,
   "volume": 20400.0
 }

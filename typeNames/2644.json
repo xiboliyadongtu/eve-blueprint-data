@@ -1,5 +1,17 @@
 {
-  "typeID": 2644,
+  "description": {
+    "de": "Persönliche Waffen und Ausrüstungen, die sowohl zur Kriegsführung als auch für den persönlichen Schutz Verwendung finden.",
+    "en": "Personal weapons and armaments, used both for warfare and personal security.",
+    "es": "Armamentos y armas personales usados tanto para la guerra como la seguridad personal.",
+    "fr": "Armes personnelles utilisées pour la guerre et pour la sécurité personnelle.",
+    "ja": "個人用の武器。戦闘にも、護身用にも利用される。",
+    "ko": "개인용 무기와 장비입니다. 전투 및 개인 방어 용도로 모두 쓰입니다.",
+    "ru": "Личное оружие, которое используется как для войны, так и для самообороны.",
+    "zh": "用于战争和自卫的个人武器和装备。"
+  },
+  "groupID": 314,
+  "iconID": 1366,
+  "mass": 60000.0,
   "name": {
     "de": "Crates of Small Arms",
     "en": "Crates of Small Arms",
@@ -10,5 +22,7 @@
     "ru": "Crates of Small Arms",
     "zh": "装箱的小型军械"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 60.0
 }

@@ -1,5 +1,16 @@
 {
-  "typeID": 3974,
+  "description": {
+    "de": "Ein Service-Außenposten für minmatarische Händler und Reisende.",
+    "en": "A service outpost for Minmatar traders and travelers.",
+    "es": "Puesto avanzado de servicio para comerciantes y viajeros minmatarianos.",
+    "fr": "Un avant-poste de service pour les voyageurs et les commerçants minmatar.",
+    "ja": "ミンマターの交易商人や旅行客が立ち寄る公共アウトポスト。",
+    "ko": "민마타 무역상과 여행자들을 위한 지원기지입니다.",
+    "ru": "Обслуживающий аванпост для торговцев и путешественников Minmatar.",
+    "zh": "为米玛塔尔商人和旅行者提供方便的服务哨站。"
+  },
+  "graphicID": 2758,
+  "groupID": 226,
   "name": {
     "de": "Minmatar Service Outpost Structure",
     "en": "Minmatar Service Outpost Structure",
@@ -10,5 +21,9 @@
     "ru": "Minmatar Service Outpost Structure",
     "zh": "米玛塔尔服务哨站建筑"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 918.0,
+  "sofFactionName": "minmatarbase"
 }

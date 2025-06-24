@@ -1,5 +1,19 @@
 {
-  "typeID": 23512,
+  "basePrice": 40000.0,
+  "description": {
+    "de": "Schwere Drohne zur Zielmarkierung",
+    "en": "Heavy Target Painter Drone",
+    "es": "Dron revelador de objetivo pesado.",
+    "fr": "Drone marqueur de cible lourd.",
+    "ja": "大型ターゲットペインタードローン",
+    "ko": "헤비 타겟 지시 드론",
+    "ru": "Тяжёлый дрон подсветки цели",
+    "zh": "重型目标标记无人机"
+  },
+  "graphicID": 2949,
+  "groupID": 639,
+  "marketGroupID": 841,
+  "mass": 3000.0,
   "name": {
     "de": "Berserker TP-900",
     "en": "Berserker TP-900",
@@ -10,5 +24,10 @@
     "ru": "Berserker TP-900",
     "zh": "狂战士TP-900"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 15.0,
+  "sofFactionName": "minmatarbase",
   "volume": 25.0
 }

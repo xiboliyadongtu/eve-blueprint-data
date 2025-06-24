@@ -1,5 +1,17 @@
 {
-  "typeID": 351674,
+  "basePrice": 3420.0,
+  "description": {
+    "de": "Passive Reparatur von Schäden an der Dropsuitpanzerung.",
+    "en": "Passively repairs damage done to dropsuit's armor.",
+    "es": "Repara de forma pasiva el daño del blindaje del traje.",
+    "fr": "Répare passivement les dommages causés à l'armure de la combinaison.",
+    "it": "Ripara passivamente i danni inflitti alla corazza dell'armatura.",
+    "ja": "降下スーツのアーマーが受けたダメージを受動リペアする。",
+    "ko": "강하슈트의 장갑을 지속적으로 수리합니다.",
+    "ru": "Осуществляет пассивный ремонт повреждений, наносимых броне десантного скафандра.",
+    "zh": "被动修复对作战服的装甲造成的伤害。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Verbessertes Panzerungsreparaturaggregat",
     "en": "Enhanced Armor Repairer",
@@ -11,5 +23,7 @@
     "ru": "Модуль ремонта брони, улучшенный",
     "zh": "增强型装甲维修器"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

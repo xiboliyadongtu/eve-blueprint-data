@@ -1,5 +1,17 @@
 {
-  "typeID": 21971,
+  "description": {
+    "de": "Ein High-Tech-Überwachungsgerät, das es ermöglicht, in verschlüsselte Übertragungsverbindungen einzudringen und die Gespräche abzuhören. Dieses hier ist völlig kaputt und nicht mehr reparierbar.",
+    "en": "A hi-tech surveillance equipment capable of breaking into secure communication lines and listen in on the chatter. It's broken beyond repair.",
+    "es": "Equipo de vigilancia de alta tecnología capaz de ingresar en líneas de comunicación seguras y escuchar las conversaciones. Está roto y no se puede arreglar.",
+    "fr": "Matériel de surveillance de haute technologie capable d'infiltrer des lignes de communications sécurisées et d'écouter les conversations. Son état ne permet pas de le réparer.",
+    "ja": "セキュリティ保護された通信の盗聴も可能な、諜報用ハイテク装置。損傷が激しく、修理は不可能。",
+    "ko": "첨단 감시 장비로 보안 통신 회선을 해킹하여 대화채널을 도청할 수 있습니다. 손상되어 수리가 불가능합니다.",
+    "ru": "Высокотехнологическое оборудование для наблюдения, способное проникать в охраняемые линии передачи данных и перехватывать сообщения. Ремонту не подлежит.",
+    "zh": "一种高科技的监控装备，可以切入安全通信线路，并进行监听。它的损坏程度已无法修理。"
+  },
+  "groupID": 526,
+  "iconID": 1364,
+  "mass": 2500.0,
   "name": {
     "de": "Broken ComLink Scanner",
     "en": "Broken ComLink Scanner",
@@ -10,5 +22,7 @@
     "ru": "Broken ComLink Scanner",
     "zh": "损坏的信道扫描器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 2.0
 }

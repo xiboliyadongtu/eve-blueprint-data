@@ -1,5 +1,21 @@
 {
-  "typeID": 3057,
+  "capacity": 1.0,
+  "description": {
+    "de": "Ein überschwerer Impulslaser, der für Kämpfe auf mittlere Entfernung ausgelegt ist. \n\nMuss mit einem der folgenden Frequenzkristalle (regulär oder fortschrittlich) geladen werden: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",
+    "en": "A super-heavy pulse laser designed for medium range engagements. \r\n\r\nRequires either regular or advanced frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray, Conflagration, Scorch.",
+    "es": "Láser de pulsos superpesado diseñado para combates de alcance medio.\n\nRequiere un tipo de munición de cristal de frecuencia normal o avanzado: gamma, infrarrojos, microondas, multifrecuencia, radiofrecuencia, estándar, ultravioleta, rayos X, Conflagration, Scorch.",
+    "fr": "Laser à impulsions super-lourd conçu pour les combats à moyenne portée. \n\nRequiert les cristaux de fréquence normaux et perfectionnés suivants en guise de munitions : gamma, infrarouge, micro-onde, multifréquence, radio, standard, ultraviolet, rayon X, conflagration, calcination.",
+    "ja": "中距離での交戦に適したスーパーヘビーパルスレーザー。\r\n\n装填可能な標準型／高性能フリーケンシークリスタルのタイプ : ガンマ、赤外線、マイクロ波、多周波、放射線、標準、紫外線、エックス線、コンフラグレーション弾、スコーチ弾。",
+    "ko": "중거리 교전에 최적화된 초중량 펄스 레이저입니다. <br><br>사용 가능한 프리퀀시 크리스탈: 감마선, 적외선, 마이크로파, 멀티프리퀀시, 라디오파, 스탠다드, 자외선, 엑스선, 고열, 스코치.",
+    "ru": "Сверхмощный импульсный лазер, разработанный для ведения огня на ближних дистанциях. \n\nСледует заряжать стандартными или усовершенствованными частотными кристаллами: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray, Conflagration, Scorch.",
+    "zh": "一种超重型激光器，专为中程交战而设计。使用的常规或高级频率晶体弹药类型：伽玛、红外线、微波、多频、射频、标准、紫外线、X射线、“爆燃”、“灼烧”。"
+  },
+  "graphicID": 11209,
+  "groupID": 53,
+  "iconID": 360,
+  "marketGroupID": 573,
+  "mass": 2000.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Mega Pulse Laser II",
     "en": "Mega Pulse Laser II",
@@ -10,5 +26,9 @@
     "ru": "Mega Pulse Laser II",
     "zh": "超级脉冲激光器 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "sarum",
+  "variationParentTypeID": 462,
   "volume": 20.0
 }

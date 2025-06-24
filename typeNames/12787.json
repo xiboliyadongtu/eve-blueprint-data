@@ -1,5 +1,21 @@
 {
-  "typeID": 12787,
+  "basePrice": 1000000.0,
+  "description": {
+    "de": "Die Null ist eine verbesserte Version der Standard-Thorium-Ladung, die eine wesentlich bessere molekulare Bindungskraft besitzt, was zu einer überragenden Reichweite und geringerem Partikelverlust führt. 40 % höhere optimale Reichweite. 25 % geringere Nachführungsgeschwindigkeit. 40 % höhere Präzisionsabfall-Quote. Hinweis: Diese Munition kann nur von großen Technologiestufe II-, Fraktions- und Offiziers-Blastern verwendet werden.",
+    "en": "The Null is an improved version of the standard Thorium charge that possesses greatly improved molecular cohesion, resulting in superior range and reduced particle dissipation.\r\n\r\n40% increased optimal range.\r\n25% reduced tracking speed.\r\n40% increased falloff range.\r\n\r\nNote: This ammunition can only be used by large tech level II, faction and officer Blasters.",
+    "es": "El modelo Null es una versión perfeccionada de la carga de torio estándar que posee una cohesión molecular muy mejorada, lo que da como resultado un alcance superior y una disipación de partículas reducida.\n\nAlcance óptimo aumentado un 40 %.\n\n25 % de reducción a la velocidad de rastreo.\n\n40 % de aumento al alcance efectivo.\n\nAviso: Esta munición solo es compatible con blásteres grandes de nivel T2, de facciones y de oficiales.",
+    "fr": "Le Zéro est une version améliorée de la charge de thorium standard dont la cohésion moléculaire est bien meilleure. Cela se traduit par une portée optimisée et une dissipation des particules réduite. Portée optimale augmentée de 40 %. Vitesse de poursuite réduite de 25 %. Portée de déperdition augmentée de 40 %. Remarque : ces munitions ne peuvent s'utiliser qu'avec les grands blasters d'officier, de faction et de niveau technologique II.",
+    "ja": "ヌル弾は標準トリウム弾の改良型で、分子凝集力を大きく高めたことで射程を向上させつつエネルギー損耗を抑えている。\n\n\n\n最適射程距離を40％延長。\n\nトラッキング速度が25%低下。\n\n精度低下範囲が40%拡大。\n\n\n\n注：この弾は大型T2、ファクション、およびオフィサーブラスター専用である。",
+    "ko": "토륨탄을 개조한 탄약으로 강력한 분자 응집력을 바탕으로 긴 사거리와 낮은 입자 소실률을 자랑합니다. <br><br>최적사거리 40% 증가 <br>트래킹 속도 25% 감소 <br>유효사거리 40% 증가 <br><br>참고: 대형 테크 II, 팩션, 장교급 블라스터에만 장착할 수 있습니다.",
+    "ru": "«Нуль» — это улучшенная версия обычного ториевого заряда, обладающая гораздо лучшим молекулярным сцеплением, что приводит к увеличению дальности и уменьшению рассеивания частиц. Оптимальная дальность увеличена на 40%. Скорость наведения снижена на 25%. Остаточная дальность увеличена на 40%. Примечание: эти боеприпасы могут использовать только корабли большого тоннажа второго техноуровня, государственные и офицерские бластеры.",
+    "zh": "“虚空”型是标准钍炮弹的一个改进版本，分子聚合力得到大幅增强，从而实现了出众的射程和更小的粒子消散。\n\n\n\n最佳射程增加40%。\n\n跟踪速度降低25%。\n\n失准范围增加40%。\n\n\n\n注：只能用于二级科技、势力和官员大型疾速炮。"
+  },
+  "graphicID": 1330,
+  "groupID": 377,
+  "iconID": 1330,
+  "marketGroupID": 860,
+  "mass": 0.01,
+  "metaGroupID": 2,
   "name": {
     "de": "Null L",
     "en": "Null L",
@@ -10,5 +26,8 @@
     "ru": "Null L",
     "zh": "虚空 L"
   },
+  "portionSize": 5000,
+  "published": true,
+  "variationParentTypeID": 235,
   "volume": 0.025
 }

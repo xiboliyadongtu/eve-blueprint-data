@@ -1,5 +1,18 @@
 {
-  "typeID": 32772,
+  "capacity": 14.0,
+  "description": {
+    "de": "Bietet eine schnelle Steigerung der Schildstärke. Das Modul nutzt Cap Booster Ladungen und wird den schiffseigenen Energiespeicher verbrauchen, nachdem die Ladungen zur Neige gegangen sind. Wenn Sie das Modul deaktivieren, während keine Cap Booster geladen sind, werden Cap Booster aus dem Frachtraum nachgeladen, sofern welche vorhanden sind.\n\n\n\nHinweis: Kann Cap Booster 50, 75 und 100 als Fuel verwenden. Die Nachladezeit beträgt 60 Sekunden. Prototyp Inferno Modul.",
+    "en": "Provides a quick boost in shield strength. The module takes Cap Booster charges and will start consuming the ship's capacitor upon the charges running out. Deactivating the module while it has no cap boosters loaded starts reloading, if there are cap boosters available in cargo hold.\r\n\r\nNote: Can use Cap Booster 50, 75 and 100 as fuel. Reloading time is 60 seconds. Prototype Inferno Module.",
+    "es": "Proporciona un rápido aumento a la fuerza del escudo. Cuando el módulo reciba cargas del potenciador de condensador, empezará a consumir el condensador de la nave antes de agotar las cargas. Si se desactiva el módulo cuando no hay potenciadores de condensador inicia la recarga, si hay potenciadores de condensador en la bodega.\n\nAviso: Puede usar los potenciadores de condensador 50, 75 y 100 como combustible. El tiempo de recarga es de 60 segundos. Prototipo de módulo Inferno.",
+    "fr": "Renforce brièvement la résistance du bouclier. Ce module utilise des charges de capaciteur et commencera à utiliser le capaciteur du vaisseau lorsque ces charges seront épuisées. Si la charge de capaciteur n'est pas chargée, la désactivation du module nécessitera un rechargement, si la charge de capaciteur est bien disponible dans la soute de chargement.\n\nRemarque : peut utiliser la charge de capaciteur 50, 75 et 100 en guise de carburant. Le temps de recharge est de 60 secondes. Module de prototype Inferno.",
+    "ja": "シールドの強度をすぐに上昇させる。キャップブースターチャージが必要となり、チャージが足りなくなると船のキャパシタを消耗する。ロードされたキャップブースターがないときにモジュールのアクティブ化を解除すると、カーゴホールドのキャップブースターが利用できる場合は、リロードを開始。\n\n注:燃料としてキャップブースター50、75、100を使用。リロード時間は60秒。プロトタイプインフェルノモジュール。",
+    "ko": "일정 시간 동안 실드를 강화합니다. 해당 모듈은 캐패시터 부스터를 소진한 후 함선의 캐패시터를 사용합니다. 캐패시터 부스터가 장전되지 않은 상태에서 모듈을 비활성화할 시 자동으로 화물실에 적재되어있는 부스터가 장착됩니다. <br><br>참고: 캐패시터 부스터 50, 75, 100을 장착할 수 있습니다. 재장전에 걸리는 시간은 60초입니다. 프로토타입 인페르노 모듈입니다.",
+    "ru": "Обеспечивает быструю накачку щита. Для накачки щита этот модуль использует заряды для подкачки накопителя корабля, а после истощения зарядов будет черпать энергию непосредственно из накопителя. Если в грузовом отсеке имеются заряды для подкачки, а в данный модуль заряды не установлены, то при деактивации модуля начнется процесс его перезарядки. Примечание: в качестве топлива используются модули Cap Booster 50, Cap Booster 75 и Cap Booster 100. Время перезарядки — 60 секунд. Prototype Inferno Module.",
+    "zh": "快速恢复护盾强度。这个装备使用电容注电器装料，在装料用光后将开始消耗舰船的电容量。当电容注电器装料用光后，如果将这个装备停用，它将会重新装载，前提是你的货柜舱中有电容注电器装料。注：可以使用电容注电器装料50、75和100。它的重新装载持续时间为60秒。原型装备。"
+  },
+  "groupID": 1156,
+  "iconID": 10935,
+  "marketGroupID": 610,
   "name": {
     "de": "Medium Ancillary Shield Booster",
     "en": "Medium Ancillary Shield Booster",
@@ -10,5 +23,8 @@
     "ru": "Medium Ancillary Shield Booster",
     "zh": "中型辅助护盾回充增量器"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 500.0,
   "volume": 10.0
 }

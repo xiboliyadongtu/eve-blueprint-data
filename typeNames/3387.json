@@ -1,5 +1,18 @@
 {
-  "typeID": 3387,
+  "basePrice": 200000.0,
+  "description": {
+    "de": "Ermöglicht den Betrieb mehrerer Fabrikationsanlagen.\r\n\r\nFertigkeit, einen zusätzlichen Produktionsauftrag je Skillstufe auszuführen.",
+    "en": "Allows the operation of multiple factories. Ability to run 1 additional manufacturing job per level.",
+    "es": "Permite realizar operaciones en varias fábricas. Capacidad para realizar un trabajo de fabricación adicional por nivel.",
+    "fr": "Permet l'utilisation de plusieurs usines. Aptitude à lancer 1 travail de production supplémentaire par niveau.",
+    "ja": "複数の工場を操業するためのスキル。レベル上昇ごとに製造ジョブを 1 つ多く行う能力が与えられる。",
+    "ko": "다수의 공장을 가동할 수 있습니다. 매 레벨마다 제조 작업 슬롯 +1",
+    "ru": "Навык эксплуатации нескольких заводов. Позволяет вести 1 дополнительный производственный проект за каждую степень освоения навыка.",
+    "zh": "操作多个工厂的技能。每升一级，可同时多运行一个制造项目。"
+  },
+  "groupID": 268,
+  "iconID": 33,
+  "marketGroupID": 369,
   "name": {
     "de": "Mass Production",
     "en": "Mass Production",
@@ -10,5 +23,7 @@
     "ru": "Массовое производство",
     "zh": "批量生产学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

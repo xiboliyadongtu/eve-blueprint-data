@@ -1,5 +1,16 @@
 {
-  "typeID": 3602,
+  "description": {
+    "de": "Die Atron ist ein robustes Schiff mit weiterentwickeltem Energiesystem und entsprechend kleinerem Frachtraum. Obwohl sie sich beim Bergbau als guter Harvester erweist, kommt sie hauptsächlich als Kampfschiff in Frage.",
+    "en": "The Atron is a hard nugget with an advanced power conduit system, but little space for cargo. Although it is a good harvester when it comes to mining, its main ability is as a combat vessel.",
+    "es": "La Atron es una nave pequeña, pero resistente, con un conducto de alimentación avanzado, aunque con poco espacio de carga. Pese a que es una buena cosechadora para la minería, se suele usar como nave de combate.",
+    "fr": "L'Atron est un vaisseau très résistant doté d'un système de conduit d'alimentation avancé, mais d'une soute très réduite. Bien que ce soit un bon collecteur, il n'en demeure pas moins taillé pour le combat.",
+    "ja": "アトロンは、高性能パワー伝導システムを装備する強力な船だが、カーゴスペースは小さい。採掘の際は良い採掘機となるが、本来の用途は戦闘艦である。",
+    "ko": "아트론은 첨단 전력설비 시스템이 장착된 견고한 함선으로 화물 적재량은 비교적 적은 편에 속합니다. 준수한 채굴 능력을 지녔으나 주 기능은 어디까지나 전투에 집중되어 있습니다.",
+    "ru": "Atron — крепкий орешек с передовой силовой установкой, но маленьким грузовым отсеком. Хотя Atron пригоден для добычи полезных ископаемых, он преимущественно используется как боевой корабль.",
+    "zh": "阿特龙级小而强悍，它的能量传输系统很先进，但货舱空间非常有限。尽管阿特龙级可以很好地胜任采矿的工作，但它主要还是被作为战舰使用。"
+  },
+  "graphicID": 323,
+  "groupID": 226,
   "name": {
     "de": "Gallente Atron Frigate",
     "en": "Gallente Atron Frigate",
@@ -10,5 +21,9 @@
     "ru": "Gallente Atron Frigate",
     "zh": "盖伦特阿特龙级护卫舰"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 24.0,
+  "sofFactionName": "gallentebase"
 }

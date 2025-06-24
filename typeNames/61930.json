@@ -1,5 +1,18 @@
 {
-  "typeID": 61930,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Scans deuten darauf hin, dass dieser schwer beschädigte, automatisierte Kampfgeschützturm eine gänzlich andere Materialzusammensetzung aufweist als alle anderen sichtbaren Strukturen in diesem Weltraumgebiet. Woher stammt dieser Geschützturm und wie ist er hierhergekommen?",
+    "en": "Scans indicate that this heavily damaged automated combat turret has a completely different material composition from all the other structures visible in this area of space. Where did this turret originate and how did it end up so far from home?",
+    "es": "Los escaneos indican que esta torreta de combate automatizada tan dañada tiene una composición de materiales completamente distinta a todas las demás estructuras visibles en esta zona del espacio. ¿Dónde se originó y cómo terminó tan lejos de casa?",
+    "fr": "Les détecteurs indiquent que cette tourelle de combat automatique lourdement endommagée présente une composition matérielle radicalement différente de toutes les autres structures visibles dans ce secteur spatial. D'où vient cette tourelle et comment s'est-elle retrouvée si loin de chez elle ?",
+    "ja": "スキャンによると、このひどく損傷した自動戦闘タレットは、宙域で観測できる他のストラクチャとはまったく異なる組成の物質でできている。このタレットはどこから、どういった経緯で流れついたのだろうか？",
+    "ko": "반파된 터렛을 조사한 결과 주변에 위치한 구조물과 구성 물질이 완전히 다르다는 사실을 발견했습니다. 이 터렛의 정체는 무엇이고, 어디에서 흘러온 것일까요?",
+    "ru": "Сканирование показывает, что материалы, из которых изготовлено это сильно повреждённое автоматическое боевое орудие, не встречаются ни в одном из других сооружений, наблюдаемых в этом участке космоса. Откуда появилось это орудие и как оно оказалось здесь?",
+    "zh": "扫描结果显示这个损毁严重的自动作战炮台的材料成分与此地的任何其他建筑都完全不同。这个炮台来自哪里？它又是怎么来到这里的？"
+  },
+  "graphicID": 1006,
+  "groupID": 383,
+  "mass": 1000.0,
   "name": {
     "de": "Displaced Erratic Sentry Turret",
     "en": "Displaced Erratic Sentry Turret",
@@ -10,5 +23,9 @@
     "ru": "Displaced Erratic Sentry Turret",
     "zh": "来源不明的不稳定岗哨炮"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 444.0,
+  "sofFactionName": "amarrbase",
   "volume": 1000.0
 }

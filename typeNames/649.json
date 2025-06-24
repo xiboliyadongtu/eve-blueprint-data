@@ -1,5 +1,54 @@
 {
-  "typeID": 649,
+  "basePrice": 1400000.0,
+  "capacity": 7300.0,
+  "description": {
+    "de": "Die Tayra, eine Weiterentwicklung des alten Badger Mark II-Transporters, ist ganz darauf ausgerichtet, die größtmögliche Frachtkapazität zu erreichen, die die Konstrukteure der Caldari in einem Standard-Trägerschiff bewerkstelligen können.",
+    "en": "The Tayra, an evolution of the old Badger Mark II hauler, focuses entirely on reaching the highest potential capacity that Caldari engineers can manage in a standard cargo carrier.",
+    "es": "La Tayra, una evolución de la antigua nave de mercancías Badger Mark II, se centra por completo en alcanzar el máximo potencial de los ingenieros caldaris en un portanaves de carga estándar.",
+    "fr": "Le Tayra, successeur de l'ancien cargo Badger Mark II, est presque entièrement destiné à atteindre la plus haute capacité potentielle réalisable par les ingénieurs caldari au format d'un vaisseau de transport standard.",
+    "ja": "タイラは旧式バッジャーマークIIハウラーの後継機であり、カルダリの技術で実現できる、標準的な貨物船として最高の性能を達成するために作られた。",
+    "ko": "타이라는 뱃져 마크 II의 후속기로 칼다리 엔지니어들의 한계를 시험한 기체입니다.",
+    "ru": "«Тайра» — модификация старого перевозчика «Бэджер II». При создании этого стандартного грузового корабля калдарские инженеры стремились достичь максимальной вместительности.",
+    "zh": "狐鼬级是獾级MKII运载舰的升级版本，能够达到加达里工程师所能实现的标准货物运输舰船最大运载能力。"
+  },
+  "factionID": 500001,
+  "graphicID": 52,
+  "groupID": 28,
+  "marketGroupID": 84,
+  "mass": 13000000.0,
+  "masteries": {
+    "0": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "1": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "2": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "3": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "4": [
+      96,
+      118,
+      117,
+      94
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Tayra",
     "en": "Tayra",
@@ -9,6 +58,65 @@
     "ko": "타이라",
     "ru": "Tayra",
     "zh": "狐鼬级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 279.0,
+  "sofFactionName": "caldaribase",
+  "soundID": 20070,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonus": 90,
+        "bonusText": {
+          "de": "Reduktion der effektiv zurückgelegten Distanz für die Sprungerschöpfung",
+          "en": "reduction to effective distance traveled for jump fatigue",
+          "es": "de reducción de la distancia efectiva hasta sufrir fatiga de salto.",
+          "fr": "de réduction de la distance effectuée pour l'épuisement de saut",
+          "ja": "ジャンプによる疲弊が飛行距離に及ぼす影響を低減",
+          "ko": "이동 거리에 따른 점프 피로도 감소",
+          "ru": "медленнее накапливается усталость от гиперпереходов",
+          "zh": "减少跳跃距离对产生跳跃疲劳的影响"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3342": [
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die Frachtraumkapazität des Schiffs",
+            "en": "bonus to ship cargo capacity",
+            "es": "de bonificación a la capacidad de carga de la nave.",
+            "fr": "de bonus à la capacité de la soute du vaisseau",
+            "ja": "艦船のカーゴ容量が増加",
+            "ko": "화물 적재량 증가",
+            "ru": "увеличивается вместимость грузового отсека корабля",
+            "zh": "舰船货柜舱容量加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die Maximalgeschwindigkeit des Schiffs",
+            "en": "bonus to ship max velocity",
+            "es": "de bonificación a la velocidad máxima de la nave.",
+            "fr": "de bonus à la vitesse maximale du vaisseau",
+            "ja": "艦船の最高速度が上昇",
+            "ko": "최대 속도 증가",
+            "ru": "увеличивается скорость полного хода корабля",
+            "zh": "舰船最大速度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 270000.0
 }

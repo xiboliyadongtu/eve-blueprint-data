@@ -1,5 +1,17 @@
 {
-  "typeID": 366472,
+  "basePrice": 1815.0,
+  "description": {
+    "de": "Verringert die Schildladeverzögerung.\n\nHINWEIS: Für dieses Modul gelten Stapelabzüge; nach dem ersten Modul nimmt die Wirksamkeit jedes weiteren ab, sofern es dieselben Attribute beeinflusst.",
+    "en": "Reduces the length of the delay before shield recharge begins.\r\n\r\nNOTE: Stacking penalties apply to this module; the effectiveness of each additional module (after the first) that alters the same attributes will be reduced.",
+    "es": "Reduce la duración de la demora antes de que comience la recarga del escudo.\n\nAVISO: Se aplican penalizaciones por acumulación a este módulo. Se reduce la efectividad de cada módulo adicional (después del primero) que altere los mismos atributos.",
+    "fr": "Réduit la période d'attente avant que la recharge du bouclier ne commence.\n\nREMARQUE : Des pénalités d'accumulation s'appliquent à ce module ; au-delà du premier module, l'efficacité de chaque module supplémentaire qui modifie les mêmes attributs sera réduite.",
+    "it": "Riduce il ritardo prima che inizi la ricarica dello scudo.\n\nNOTA: a questo modulo si applicano le penalità da accumulo; l'efficacia di ogni modulo aggiuntivo (dopo il primo) che modifica gli stessi attributi viene ridotta.",
+    "ja": "シールドリチャージ開始までのタイムラグを短縮する。注：このモジュールはスタッキングペナルティの対象となり、同一のモジュールを複数取り付けると、一つ追加するごとにモジュールの効果が低下する。",
+    "ko": "실드 재충전 활성화 시 딜레이가 감소합니다. <br><br>참고: 중첩 페널티가 적용되는 모듈입니다. 동일한 효과를 지닌 모듈을 한 개 이상 장착할 경우 추가 모듈의 효율성이 감소합니다.",
+    "ru": "Снижает продолжительность задержки перед началом подзарядки щита.\n\nПРИМЕЧАНИЕ: Для этого модуля действует система нарастающих штрафов; эффективность воздействия каждого последующего модуля (после первого), которая изменяет одинаковые характеристики, снижается.",
+    "zh": "缩短护盾回充开始前的延迟时间。注：此装备有堆叠惩罚，额外加装相同属性的装备的效果会降低。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Verbesserter Republic-Schildregulator",
     "en": "Republic Enhanced Shield Regulator",
@@ -11,5 +23,7 @@
     "ru": "Улучшенный регулятор щита",
     "zh": "共和国增强型护盾调节器"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

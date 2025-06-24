@@ -1,5 +1,18 @@
 {
-  "typeID": 62452,
+  "basePrice": 75000000.0,
+  "description": {
+    "de": "Dieser Skill verbessert die Effizienz des Dekompressionsprozesses zur Umwandlung komprimierter, abbaubarer Gase in eine Form, die in Industrieprozessen verwendet werden kann. Jede Stufe verbessert die Effizienz und reduziert die Dekompressionsverluste um 1 %.",
+    "en": "This skill improves the efficiency of the decompression process for converting compressed harvestable gases into a form usable in industrial processes. Each level improves efficiency and reduces decompression losses by 1%.",
+    "es": "Esta habilidad mejora la eficiencia del proceso de descompresión para convertir gases cosechables comprimidos en una forma que se pueda usar en los procesos industriales. Cada nivel mejora la eficiencia y reduce las pérdidas por descompresión en un 1 %.",
+    "fr": "Cette compétence augmente l'efficience du processus de décompression pour la conversion des gaz récoltables compressés, sous une forme utilisable dans les procédés industriels. Chaque niveau augmente l'efficience et réduit les pertes de décompression de 1 %.",
+    "ja": "このスキルには、採集可能な圧縮ガスを工業的プロセスで利用可能な状態へと減圧処理する際の効率を向上させる効果がある。レベルが1上がる毎に効率が向上し、減圧時のロスが1%ずつ減少する。",
+    "ko": "압축 가스의 감압 효율을 개선합니다. 감압 과정을 거치면 가스를 다양한 제조 과정에 사용할 수 있습니다. 매 스킬 레벨마다 감압 효율성이 증가하고 재료 손실률이 1% 감소합니다.",
+    "ru": "Этот навык повышает эффективность декомпрессии, позволяющей преобразовать сжатые газы и использовать их в промышленности. Каждая степень освоения навыка повышает эффективность декомпрессии и снижает потери на 1%.",
+    "zh": "这个技能可以提高将高密度可开采气云转化为可以用于工业生产的产物的效率。每升一级，效率提高1%，损耗减少1%。"
+  },
+  "groupID": 1218,
+  "iconID": 33,
+  "marketGroupID": 1323,
   "name": {
     "de": "Gas Decompression Efficiency",
     "en": "Gas Decompression Efficiency",
@@ -10,5 +23,7 @@
     "ru": "Gas Decompression Efficiency",
     "zh": "气云解压效率"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

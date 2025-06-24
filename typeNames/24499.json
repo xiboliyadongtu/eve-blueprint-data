@@ -1,5 +1,21 @@
 {
-  "typeID": 24499,
+  "basePrice": 101160.0,
+  "description": {
+    "de": "Die Explosion, die eine Inferno Light Missile beim Einschlag erzeugt, ist spektakulär genug für jedes Feuerwerk – nur zehnmal tödlicher.\n\n\n\nEine modifizierte Version der Inferno Light Missile. Verursacht größeren Schaden als die Vorgängermunition. Die Unberechenbarkeit des Sprengkopfs und das leistungsstarke Abschirmsystem verringern jedoch sowohl Flugzeit als auch Genauigkeit.",
+    "en": "The explosion the Inferno light missile creates upon impact is stunning enough for any display of fireworks - just ten times more deadly.\r\n\r\nA modified version of the Inferno light missile. Does more damage than its predecessor but the volatile nature of the warhead, and its powerful containment system, reduce both flight time and precision.",
+    "es": "La explosión que el misil ligero Inferno crea al impactar es tan impresionante como cualquier espectáculo de fuegos artificiales, solo que diez veces más letal.\n\nVersión modificada del misil ligero Inferno. Inflige más daño que su predecesor, pero la naturaleza volátil de la ojiva y su potente sistema de contención reducen tanto el tiempo de vuelo como la precisión.",
+    "fr": "L'explosion provoquée à l'impact par un missile léger Inferno est digne d'un feu d'artifices, juste dix fois plus mortelle.\n\nVersion modifiée du missile léger Inferno. Il inflige davantage de dégâts que son prédécesseur, mais la nature explosive de l'ogive, combinée à son puissant système de confinement, réduit à la fois le temps de vol et la précision.",
+    "ja": "インフェルノライトミサイルが命中したときの爆発は、美しさで花火に匹敵する――危険さは花火の10倍に匹敵するが。\n\nインフェルノライトミサイルの改良版。従来型より与えるダメージは高いが、不安定な物質を使った弾頭と強化封じ込めシステムのせいで、飛行時間や精度は劣る。",
+    "ko": "인페르노 라이트 미사일이 폭발하는 모습은 불꽃놀이만큼 아름답습니다. 그저 10배는 더 강한 파괴력을 지녔을 뿐입니다. <br><br>개량된 인페르노 라이트 미사일입니다. 기존 버전보다 파괴력은 뛰어나지만 낮은 탄두 안정성과 고성능 격납시스템의 탑재로 인해 사거리 및 정확도는 상대적으로 떨어집니다.",
+    "ru": "Взрыв, который возникает при столкновении легкой ракеты Inferno с целью, ослепителен, как фейерверк — только в десять раз смертоноснее.\n\n\n\nМодифицированная версия легкой ракеты Inferno. Обладает более значительным разрушительным действием, чем базовая модель, но при этом имеет меньшую дальность полета и пониженную эффективность ввиду низкой стабильности боеголовки.",
+    "zh": "炼狱轻型导弹爆炸时产生的惊艳效果足以媲美任何烟火展览，外加十倍于其的致命性。这是炼狱轻型导弹的一种改良版本，相比其前身具备更强的伤害力，但由于其强大的密封系统及高度不稳定性，飞行时间和准确性都有所降低。"
+  },
+  "graphicID": 20061,
+  "groupID": 653,
+  "iconID": 191,
+  "marketGroupID": 927,
+  "mass": 700.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Inferno Fury Light Missile",
     "en": "Inferno Fury Light Missile",
@@ -10,5 +26,9 @@
     "ru": "Inferno Fury Light Missile",
     "zh": "炼狱愤怒轻型导弹"
   },
+  "portionSize": 5000,
+  "published": true,
+  "radius": 300.0,
+  "variationParentTypeID": 211,
   "volume": 0.015
 }

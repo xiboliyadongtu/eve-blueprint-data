@@ -1,5 +1,18 @@
 {
-  "typeID": 32347,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Diese Lagereinrichtung enthält einen Grundvorrat an Scan- und Erkundungsequipment, das von Kapselpiloten im Training verwendet werden kann.",
+    "en": "This storage facility contains a basic supply of exploration scanning equipment for use by capsuleers-in-training.",
+    "es": "Almacén que contiene suministros básicos de equipo de escaneo de exploración para capsulistas en formación.",
+    "fr": "Ce site de stockage contient une réserve basique en appareils de détection et d'exploration, utilisés par les capsuliers en formation.",
+    "ja": "この保管施設には、訓練中のカプセラが使用するための探検スキャンに関する基本的な物資が保管されている。",
+    "ko": "훈련 중인 캡슐리어용 기본 탐사 장비가 보관되어 있는 저장시설입니다.",
+    "ru": "На этом складе хранится самое примитивное оборудование для изысканий и сканирования для использования капсулерами в учебных целях.",
+    "zh": "这个仓库里储藏了勘探所需要的基本设备，包括克隆飞行员训练中所需要用到的扫描设备。"
+  },
+  "graphicID": 2403,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Exploration Supplies",
     "en": "Exploration Supplies",
@@ -10,5 +23,9 @@
     "ru": "Exploration Supplies",
     "zh": "勘探用品"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 1255.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

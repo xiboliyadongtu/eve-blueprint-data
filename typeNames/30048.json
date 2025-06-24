@@ -1,5 +1,19 @@
 {
-  "typeID": 30048,
+  "description": {
+    "de": "Dieses Subsystem ist veraltet und wurde durch neuere Technologie ersetzt.\n\n\n\nNeue Technologien haben zu einer deutlichen Verbesserung der Effizienz der CPU geführt. Bessere Nanotechnologie ermöglicht noch kleinere Schaltkreise und verringert deutlich das System-Bottlenecking. Dieser CPU-Auslastungs-Regler (CPU efficiency gate) nutzt diese Technologie und bietet so Piloten eine bessere CPU-Leistung.\n\n\n\nSubsystem-Skillbonus: \n\n5% Bonus auf den CPU je Skillstufe",
+    "en": "This subsystem is obsolete and has been replaced by newer technology\r\n\r\nNew technologies have resulted in a noticeable increase in CPU efficiency, as better nanotech enables further miniaturization of circuits, the result of which is a marked decrease in system bottlenecking. This CPU efficiency gate capitalizes on that technology, offering a pilot greater CPU output.\r\n\r\nSubsystem Skill Bonus: \r\n5% bonus to CPU per level.",
+    "es": "Este subsistema está obsoleto y ha sido sustituido por tecnología nueva.\n\nLas nuevas tecnologías han propiciado un considerable aumento de la eficacia de la CPU, pues la nanotecnología mejorada permite una mayor miniaturización de los circuitos. El resultado es un menor estrangulamiento del sistema. Esta eficiencia de la CPU permite aprovechar al máximo esa tecnología, lo que ofrece a un piloto un mayor rendimiento de la CPU.\n\nBonificación de habilidad del subsistema:\n\n5 % de bonificación a la CPU por nivel.",
+    "fr": "Ce sous-système est obsolète et a été remplacé par une technologie plus récente. Les nouvelles technologies ont engendré une augmentation notable de l'efficacité du CPU. Par exemple, la nanotechnologie permet la miniaturisation des circuits, résultant en une diminution de l'engorgement du système. Ce portail d'efficacité du CPU met l'accent sur cette technologie, augmentant ainsi la capacité de CPU. Bonus de compétence du sous-système : augmente de 5 % par niveau la capacité de CPU.",
+    "ja": "このサブシステムは旧式化したため、新型技術に差し替えられた\n\n\n\nナノテクノロジーの進歩により回路が小型化され、システムのボトルネックが大きく改善されたことで、CPU性能は飛躍的に向上している。この技術をCPU効率化ゲートは最大限に活用しており、より高性能化したCPU出力をパイロットにもたらしている。\n\n\n\nサブシステムのスキルボーナス：\n\nレベル上昇ごとにCPUに5％のボーナス。",
+    "ko": "이 서브시스템은 노후되어 최신식 기술로 교체되었습니다.<br><br>첨단 기술의 발전으로 CPU 효율이 눈에 띄게 개선되었으며, 최신 나노 기술을 통해 회로가 소형화되면서 시스템 병목 현상 또한 큰 폭으로 감소했습니다. 이 서브시스템은 이러한 기술을 토대로 함선의 전반적인 CPU 용량이 증가합니다. <br><br>서브시스템 스킬 보너스: <br><br>매 레벨마다 CPU 용량 5% 증가",
+    "ru": "Эта подсистема устарела и заменена на продукт новых технологий\n\n\n\nНовые технологии позволили существенно повысить эффективность ЦПУ за счёт нанотехнологичеcкой миниатюризации электронных схем, что позволило сократить число «узких мест» в системе. Венец этой технологии — параллельный вычислительный блок-подсистема, предоставляющий пилоту возможность увеличить совокупную мощность ЦПУ.\n\n\n\nЗа каждую степень освоения навыка соответствующей подсистемы:<br> \n\nна 5% повышается мощность ЦПУ корабля",
+    "zh": "这个子系统太过老旧，已经被新科技取代。\n\n\n\n新近的科技成果大大地增加了CPU的效能，这是因为更加先进的纳米技术提升了电路微型化的空间，这实际上有效地打通了系统上的发展瓶颈。CPU效能组合逻辑元件是这些科技的集合体，为飞行员提供了更多的CPU输出。\n\n\n\n每等级子系统技能加成： \n\nCPU增加5%"
+  },
+  "graphicID": 3603,
+  "groupID": 955,
+  "iconID": 3626,
+  "mass": 1200000.0,
+  "metaGroupID": 14,
   "name": {
     "de": "OLD Tengu Electronics - CPU Efficiency Gate",
     "en": "OLD Tengu Electronics - CPU Efficiency Gate",
@@ -10,5 +24,10 @@
     "ru": "OLD Tengu Electronics - CPU Efficiency Gate",
     "zh": "旧金鹏电子 - CPU效能组合逻辑元件"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "sofFactionName": "caldaribase",
+  "variationParentTypeID": 30046,
   "volume": 40.0
 }

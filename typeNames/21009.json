@@ -1,5 +1,18 @@
 {
-  "typeID": 21009,
+  "description": {
+    "de": "Eine zentrale Antriebsmaschinerie, die dazu entwickelt wurde, Leistung zu den Triebwerken eines Capital Ships zu schicken, um das Monstrum anzutreiben.",
+    "en": "A centralized propulsion engine designed to send power to a capital ship's thrusters, propelling the behemoth forward.",
+    "es": "Motor de propulsión centralizada diseñado para enviar potencia a los propulsores de una nave capital y dar impulso a la gran mole.",
+    "fr": "Moteur à propulsion centralisé conçu pour alimenter les propulseurs d'un vaisseau capital et faire avancer l'engin.",
+    "ja": "主力艦のスラスタに電力を供給し、巨大な船体を前進させる集中型推進エンジン。",
+    "ko": "추진용 엔진은 캐피탈 함선의 추진 장지에 전력을 공급합니다.",
+    "ru": "Центральная двигательная установка, питающая энергией маневровые двигатели корабля большого тоннажа.",
+    "zh": "用来向旗舰级飞船推进器发送动力的中心推进引擎，能够将这个庞然大物向前推进。"
+  },
+  "groupID": 873,
+  "iconID": 2859,
+  "marketGroupID": 781,
+  "mass": 10000.0,
   "name": {
     "de": "Capital Propulsion Engine",
     "en": "Capital Propulsion Engine",
@@ -10,5 +23,7 @@
     "ru": "Capital Propulsion Engine",
     "zh": "旗舰推进引擎"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 2000.0
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 53083,
+  "description": {
+    "de": "Das ist eine Blackbox, die aus einem Vermessungsschiff stammt. Jemand hat sie sich offensichtlich mit Gewalt genommen, aber die Daten und Informationen sind noch intakt.",
+    "en": "This is a black box, originally found in a Survey Ship. It is obvious that it has been accessed forcibly but the data and information are still intact.",
+    "es": "Esto es una caja negra que originalmente se encontraba en una nave exploradora. Es evidente que alguien la ha intentado abrir a la fuerza, pero los datos y la información siguen intactos.",
+    "fr": "Ceci est une boîte noire, découverte à l'origine sur un vaisseau d'exploration. Il est clair que son accès a été forcé, mais les données et informations qu'elle contient sont toujours intactes.",
+    "ja": "元々調査船で発見されたブラックボックス。強引にアクセスされたことは明らかだが、データや情報はそのまま残っている。",
+    "ko": "탐사선에서 발견된 검은 상자입니다. 누군가 강제로 열어보려 한 듯하지만 데이터는 다행히 손상되지 않았습니다.",
+    "ru": "Это чёрный ящик, найденный на борту наблюдательного корабля. Его явно пытались вскрыть, однако данные по-прежнему в сохранности.",
+    "zh": "这是在一艘探测船里找到的黑匣子。显然它曾被暴力打开过，不过里面的数据和信息仍然完好。"
+  },
+  "groupID": 526,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Survey Data",
     "en": "Survey Data",
@@ -10,5 +22,7 @@
     "ru": "Survey Data",
     "zh": "探测数据"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

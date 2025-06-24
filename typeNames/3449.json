@@ -1,5 +1,18 @@
 {
-  "typeID": 3449,
+  "basePrice": 30000.0,
+  "description": {
+    "de": "Fertigkeit zur Regulierung der Schubkraft von Schiffstriebwerken.\r\n\r\n5% Bonus auf die Subwarp-Geschwindigkeit von Raumschiffen je Skillstufe.",
+    "en": "Skill at regulating the power output of ship thrusters. 5% bonus to sub-warp ship velocity per skill level.",
+    "es": "Habilidad para regular la potencia de salida de los propulsores de la nave. 5 % de bonificación a la velocidad de subwarp de la nave por nivel de habilidad.",
+    "fr": "Compétence liée à la régulation de la production d'énergie des propulseurs du vaisseau. Augmente de 5 % par niveau de compétence la vitesse d'un vaisseau en sous-warp.",
+    "ja": "船のエンジンのパワーグリッドを調整するスキル。スキルレベル上昇ごとにサブワープ航行速度に 5% のボーナス。",
+    "ko": "추진기 출력 제어를 위한 스킬입니다. 매 레벨마다 함선의 이동 속도 5% 증가",
+    "ru": "Умение эффективно перераспределять мощность реактора корабля к штатным бортовым двигателям. За каждую степень освоения навыка: на 5% повышается скорость полного хода корабля вне варп-режима.",
+    "zh": "调节飞船推进器功率输出的技能。每升一级，飞船在非跃迁状态下的速度提升5%。"
+  },
+  "groupID": 275,
+  "iconID": 33,
+  "marketGroupID": 374,
   "name": {
     "de": "Navigation",
     "en": "Navigation",
@@ -10,5 +23,7 @@
     "ru": "Основы пилотажа",
     "zh": "导航学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

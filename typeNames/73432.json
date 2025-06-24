@@ -1,5 +1,17 @@
 {
-  "typeID": 73432,
+  "description": {
+    "de": "Dieser Pass ermöglicht einmaligen Zugang zu einem privaten Abkürzungs-Beschleunigungstor in Basen und Frontbasen der Tetrimon.",
+    "en": "This keypass grants single-use access to private shortcut acceleration gate within Tetrimon Base and Tetrimon Frontline Base complexes.",
+    "es": "Este pase de seguridad concede acceso de un solo uso al portal de aceleración privado del atajo dentro de los complejos de la base de Tetrimon y la base del frente de Tetrimon.",
+    "fr": "Ce passe à usage unique ouvre l'accès à un portail d'accélération de traverse privé dans les bases et bases de première ligne Tetrimon.",
+    "ja": "この使い捨てキーパスを使うと、テトリモン基地とテトリモン前線基地の複合施設内にある、非公開のショートカットアクセラレーションゲートを使用することができる。",
+    "ko": "테트리몬 기지 및 테트리몬 전방 기지로 향하는 전용 액셀레이션 게이트를 활성화하는 일회용 출입키입니다.",
+    "ru": "Этот ключ даёт однократный доступ к частным разгонным воротам на базе Тетримона и в комплексах передовой базы Тетримона.",
+    "zh": "这张钥匙卡可以激活通往特里蒙基地和特里蒙前线基地复合体的加速轨道，仅限单次使用。"
+  },
+  "groupID": 474,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Abgelaufener Abkürzungspass der Tetrimon-Basis",
     "en": "Expired Tetrimon Base Shortcut Keypass",
@@ -10,5 +22,7 @@
     "ru": "Expired Tetrimon Base Shortcut Keypass",
     "zh": "过期的特里蒙基地捷径钥匙卡"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.1
 }

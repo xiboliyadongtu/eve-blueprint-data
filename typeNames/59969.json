@@ -1,5 +1,18 @@
 {
-  "typeID": 59969,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieser codierte Container ist ein Sicherheitsschlüsselgenerator mit einem Reservesicherheitsschlüssel für Reservebanken des Gefechtsüberwachungssystems (ESS) im südwestlichen Gefechtsüberwachungsquadranten der Secure Commerce Commission. Nach Definition der SCC umfasst der südwestliche Gefechtsüberwachungsquadrant die Sonnensysteme der folgenden Regionen: <b>Feythabolis, Impass, Delve, Period Basis, Querious, Catch, Esoteria, Paragon Soul, Providence und Stain</b>",
+    "en": "This coded container is a Secure Key Generator that holds a Reserve Security Key for Encounter Surveillance System (ESS) reserve banks in the Secure Commerce Commission's South-West Encounter Surveillance Quadrant.\r\n\r\nThe SCC defines its South-West Encounter Surveillance Quadrant as encompassing star systems in the following regions:\r\n\r\n<b>Feythabolis, Impass, Delve, Period Basis, Querious, Catch, Esoteria, Paragon Soul, Providence, and Stain</b>",
+    "es": "Este contenedor codificado contiene un generador de claves seguras que almacena una clave de seguridad de reserva para los bancos de reserva del sistema de vigilancia de encuentros (SVE) en el cuadrante de vigilancia de encuentros del suroeste de la Comisión de Comercio Seguro.\n\n\n\nLa CCS define su cuadrante de vigilancia de encuentros del suroeste como los sistemas estelares que abarcan las siguientes regiones:\n\n\n\n<b>Feythabolis, Impass, Delve, Period Basis, Querious, Catch, Esoteria, Paragon Soul, Providence y Stain.</b>",
+    "fr": "Ce conteneur codé est un générateur de clé sécurisée renfermant une clé de sécurité de la réserve pour les banques de réserve du Système de surveillance des affrontements (SSA) dans le quadrant sud-ouest de surveillance des affrontements de la Commission du commerce sécurisé. La CCS définit son quadrant sud-ouest de surveillance des affrontements comme englobant les systèmes stellaires des régions suivantes : <b>Feythabolis, Impass, Delve, Period Basis, Querious, Catch, Esoteria, Paragon Soul, Providence, et Stain</b>.",
+    "ja": "この暗号化コンテナは、セキュア通商委員会の南西対戦監視クアドラントに存在する対戦監視システム（ESS）の予備バンクで使用される予備セキュリティキーを内蔵した、セキュリティキージェネレーターである。\n\n\n\nSCCは、南西対戦監視クアドラントには次のリージョン内のスターシステムが含まれると定めている。\n\n\n\n<b>フェイサボリス、インパス、デルヴ、ピリオドベイシス、クエリアス、キャッチ、エソテリア、パラゴンソウル、プロビデンス、そしてステイン</b>",
+    "ko": "암호화된 컨테이너로 ESS 예비 저장고를 개방하기 위한 보안키가 보관되어 있습니다. 보안키를 사용하여 남서 교전 감시 구역에 설치된 예비 저장고를 열 수 있습니다.<br><br>SCC 남서 교전 감시 구역:<br><br><b>페이다볼리스, 임패스, 델브, 피리어드 베이시스, 퀘리어스, 캐치, 에소테리아, 파라곤 소울, 프로비던스, 스테인</b>",
+    "ru": "Этот зашифрованный контейнер — генератор ключа безопасности, в котором хранится ключ безопасности от резервного банка системы наблюдения за столкновениями (СНС) в юго-западном квадранте наблюдения за столкновениями КпБТ. Юго-западный квадрант наблюдения за столкновениями КпБТ включает в себя звёздные системы в следующих секторах: <b>Feythabolis, Impass, Delve, Period Basis, Querious, Catch, Esoteria, Paragon Soul, Providence и Stain</b>.",
+    "zh": "这个加密货柜是一个安全密钥生成器，内有一个可以打开商业安全委员会西南事件监测区块中的事件监测装置储备赏金池的储备安全密钥。\n\n\n\n商业安全委员会西南事件监测区块包括下列星域：\n\n\n\n<b>非塔波利斯、绝径、绝地之域、贝斯、逑瑞斯、卡彻、埃索特亚、摄魂之域、普罗维登斯以及混浊之域</b>"
+  },
+  "graphicID": 1171,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "SW ESS Key Generator",
     "en": "SW ESS Key Generator",
@@ -10,5 +23,9 @@
     "ru": "SW ESS Key Generator",
     "zh": "SW事件监测装置密钥生成器"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 1255.0,
+  "sofFactionName": "genericmetal",
   "volume": 27500.0
 }

@@ -1,5 +1,21 @@
 {
-  "typeID": 41270,
+  "basePrice": 300000.0,
+  "description": {
+    "de": "XL-Torpedos sind Ungetüme, die für maximale Feuerkraft gegen Capital-Schiffe und Einrichtungen entworfen wurden. Sie können nur von Capital-Schiffen oder den Abwehrbatterien einer Sternenbasis verwendet werden.\n\nAusgerüstet mit einem Gravitonimpulsgenerator verursacht diese Waffe schwerste Schäden, da sie die inneren Strukturen eines Schiffes überlastet und Schotten sowie Panzerplatten mit beängstigender Leichtigkeit auseinander reißt.\n\n\n\nEine modifizierte Version der Scourge Torpedo. Kann höhere Geschwindigkeiten als der Mjolnir Torpedo auf Kosten der Größe des Gefechtskopfs erreichen.",
+    "en": "XL Torpedoes are behemoths designed for maximum firepower against capital ships and installations. They are usable only by capital ships and starbase defense batteries.\r\nFitted with a graviton pulse generator, this weapon causes massive damage as it overwhelms ships' internal structures, tearing bulkheads and armor plating apart with frightening ease.\r\n\r\nA modified version of the Scourge Torpedo. It can reach higher velocity than the Mjolnir Torpedo at the expense of warhead size.",
+    "es": "Los torpedos XL son mastodontes diseñados para alcanzar una potencia de fuego máxima contra naves capitales e instalaciones. Solo pueden usarse en naves capitales y en baterías de defensa de bases estelares.\n\nEsta arma, equipada con un generador de pulsos de gravitones, causa una gran cantidad de daño al sobrepasar las estructuras internas de las naves, destrozando mamparos y blindajes con una facilidad pasmosa.\n\nVersión modificada del torpedo Scourge. Puede alcanzar más velocidad que el torpedo Mjolnir a costa del tamaño de su ojiva.",
+    "fr": "Les torpilles XL sont des ogives de destruction massive, spécialement conçues pour infliger un maximum de dégâts aux vaisseaux capitaux et aux structures. Réservées aux vaisseaux capitaux et aux batteries de défense de base stellaire.\n\nCette arme destructrice dotée d'un puissant générateur d'impulsions gravitationnelles pulvérise les cloisons et le blindage internes des vaisseaux avec une effrayante facilité.\n\n\n\nVersion modifiée de la torpille Scourge. Cette torpille a sacrifié la taille de son ogive au profit d'une vitesse encore plus élevée que la torpille mjolnir.",
+    "ja": "XLトルピードは主力艦や軍事施設を最大級の火力で攻撃できる超強力な兵器である。主力艦あるいはスターベース防衛用バッテリーでしか使用できない。\n\nこの兵器には重力量子を生み出す重力波生成装置が搭載されており、艦船の内部隔壁およびアーマープレートをいとも簡単に破壊して、艦船の内部から致命的なダメージを与えることができる。\n\n\n\nいわばスコージトルピードの発展型だ。弾頭サイズと引き換えに、ミョルニールトルピードよりも高い飛行速度を実現している。",
+    "ko": "캐피탈 함선과 시설을 상대로 최대의 화력을 발휘하고자 설계된 XL 토피도입니다. 캐피탈 함선과 스타베이스 방어 포탑에만 장착 가능합니다. <br><br>중력자 펄스 생성기는 함선의 내부, 격벽과 플레이팅을 손쉽게 파괴하여 큰 피해를 입힐 수 있습니다. <br><br>개량된 스커지 토피도입니다. 기존의 묠니르 토피도에 비해 탄두 크기가 작아진 대신 최대 비행속도가 증가했습니다.",
+    "ru": "Торпеды сверхбольшой мощности — самые разрушительные из существующих; они используются для обстрела вражеских кораблей большого тоннажа и сооружений в космосе. Эти торпеды запускаются только кораблями большого тоннажа и оборонительными батареями сооружений.\n\nОни оснащены генераторами гравитонных пучков, которые наносят кораблям страшные повреждения, поражая их изнутри. Эти пучки с устрашающей легкостью разрывают на части как переборки, так и бронеплиты.\n\n\n\nМодификация торпеды типа «Скорж». Способна развивать более высокую скорость, чем торпеда «Мьольнир», но отличается уменьшенным размером заряда.",
+    "zh": "超大型鱼雷的设计目的是要对旗舰和建筑目标造成最大限度的伤害。它只能被旗舰级舰船和母星防御炮塔发射。\n\n这种武器装载有引力子脉冲发生器，可以对舰船内部结构造成巨大的伤害，还能将外部防护层和装甲板轻易撕裂。\n\n\n\n这是鞭挞鱼雷的一种变型，它相比普通雷神鱼雷而言飞行速度更快，但代价是弹头尺寸变小。"
+  },
+  "graphicID": 20032,
+  "groupID": 1677,
+  "iconID": 1346,
+  "marketGroupID": 2259,
+  "mass": 1500.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Scourge Javelin XL Torpedo",
     "en": "Scourge Javelin XL Torpedo",
@@ -10,5 +26,9 @@
     "ru": "Scourge Javelin XL Torpedo",
     "zh": "鞭挞标枪超大型鱼雷"
   },
+  "portionSize": 100,
+  "published": true,
+  "radius": 300.0,
+  "variationParentTypeID": 17859,
   "volume": 0.3
 }

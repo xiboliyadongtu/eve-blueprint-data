@@ -1,5 +1,16 @@
 {
-  "typeID": 21173,
+  "description": {
+    "de": "Eine Omen, die von einem Agenten geflogen wird.",
+    "en": "An Omen piloted by an agent.",
+    "es": "Omen pilotada por un agente.",
+    "fr": "Un Omen piloté par un agent.",
+    "ja": "エージェントを乗せたオーメン。",
+    "ko": "에이전트가 조종하는 오멘입니다.",
+    "ru": "Корабль класса Omen, управляемый агентом.",
+    "zh": "由代理人驾驶的启示级飞船。"
+  },
+  "graphicID": 1065,
+  "groupID": 517,
   "name": {
     "de": "Quereg's Omen",
     "en": "Quereg's Omen",
@@ -10,5 +21,9 @@
     "ru": "Quereg's Omen",
     "zh": "奇雷格的启示级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 134.43,
+  "sofFactionName": "amarrbase"
 }

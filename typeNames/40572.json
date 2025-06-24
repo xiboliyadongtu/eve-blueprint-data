@@ -1,5 +1,18 @@
 {
-  "typeID": 40572,
+  "basePrice": 110000000.0,
+  "description": {
+    "de": "Ermöglicht den Einsatz von leichten Jägern. 5% Bonus auf die Geschwindigkeit von Leichten Jägern je Skillstufe.",
+    "en": "Allows operation of light fighter craft. 5% increase in light fighter velocity per level.",
+    "es": "Permite el manejo de cazas ligeros. Aumenta un 5 % la velocidad de los cazas ligeros por nivel.",
+    "fr": "Permet de piloter des chasseurs légers. Augmente de 5 % par niveau les dégâts infligés par les chasseurs légers.",
+    "ja": "軽量級戦闘機による作戦が可能。レベル上昇ごとに軽量級戦闘機の速度が5％上昇。",
+    "ko": "라이트 파이터 운용을 위한 스킬입니다. 매 레벨마다 라이트 파이터 속도 5% 증가",
+    "ru": "Навык эксплуатации лёгких истребителей. За каждую степень освоения навыка: на 5% повышается скорость лёгких истребителей.",
+    "zh": "操作轻型铁骑舰载机的技能。每升一级，轻型铁骑舰载机的速度提高5%。"
+  },
+  "groupID": 273,
+  "iconID": 33,
+  "marketGroupID": 366,
   "name": {
     "de": "Light Fighters",
     "en": "Light Fighters",
@@ -10,5 +23,7 @@
     "ru": "Лёгкие истребители",
     "zh": "轻型铁骑舰载机操控理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,16 @@
 {
-  "typeID": 50,
+  "description": {
+    "de": "Aktien einer Corporation.",
+    "en": "Shares of a corporation.",
+    "es": "Acciones de una corporación.",
+    "fr": "Actions d'une corporation.",
+    "ja": "コーポレーションのシェア",
+    "ko": "코퍼레이션의 지분",
+    "ru": "Акции корпорации.",
+    "zh": "军团的股份。"
+  },
+  "groupID": 24,
+  "iconID": 2243,
   "name": {
     "de": "Company Shares",
     "en": "Company Shares",
@@ -10,5 +21,6 @@
     "ru": "Company Shares",
     "zh": "军团股份"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

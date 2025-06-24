@@ -1,5 +1,21 @@
 {
-  "typeID": 27766,
+  "basePrice": 12500000.0,
+  "capacity": 1.0,
+  "description": {
+    "de": "Feuert einen tief modulierten Energiestrahl mit besonders großen Frequenzkristallen auf diejenigen, die der Kontrollturm als feindlich erachtet. Wirkungsvoll auf sehr große Entfernung. Besitzt jedoch eine niedrige Nachführ- und Feuergeschwindigkeit. Hinweis: Ein Wechsel des Frequenzkristalls führt zur Zerstörung des bisher verwendeten.",
+    "en": "Fires a deep modulated energy beam using extra large sized frequency crystals at those the Control Tower deems its enemies. Effective at very long ranges, but tracks slowly and has a low rate of fire. Note: Placing a new type of crystal into the crystal compartment will result in the destruction of the crystal being replaced.",
+    "es": "Dispara un rayo de energía profunda modulado con cristales de frecuencia extragrandes a cualquier objetivo que la torre de control considere una amenaza. Funciona a distancias muy largas, pero la velocidad de rastreo es baja, igual que la cadencia de tiro. Aviso: Si colocas otro tipo de cristal en el compartimento para cristales, se destruirá el anterior.",
+    "fr": "Tire un rayon modulé en utilisant des cristaux de fréquence de très grande taille sur tous ceux que la tour de contrôle juge hostiles. Arme efficace à très longue portée mais suivi lent et faible cadence de tir. Remarque : placer un nouveau type de cristal dans le compartiment de cristal entraîne la destruction du cristal remplacé.",
+    "ja": "コントロールタワーが敵と認識した物体に対して、超大型フリーケンシークリスタルを使った深変調エネルギービームを発射する。有効射程は非常に長いが、標的追従が遅く、連射速度も劣る。注：装填中のクリスタルと種類が異なるクリスタルを装填すると、現在装填中のクリスタルは破壊される。",
+    "ko": "이 포탑은 관제타워가 지정한 적에게 초대형 프리퀀시 크리스탈로 변조한 에너지 빔을 발사합니다. 초장거리 교전에 효과적이지만, 트래킹 속도와 연사속도가 느립니다. 참고: 새로운 프리퀸시 크리스탈 장착 시 기존에 장착되어 있던 크리스탈은 파괴됩니다.",
+    "ru": "Испускает сильномодулированный энергетический луч, частота которого стабилизируется сверхбольшими частотными кристаллами, по объектам, распознаваемым как неприятель. Эффективна на очень больших дистанциях, но характеризуется низкой скоростью слежения и низкой скорострельностью. Примечание: если поместить в отделение для кристаллов кристалл другого типа, заменяемый кристалл уничтожается.",
+    "zh": "向控制塔指定的敌人发射经由超大型频率晶体调节的深层能量光束。有效距离非常远，但跟踪速度慢，发射速率低。注意：在晶体弹仓中填入不同种类的晶体会导致被替换的晶体损毁。"
+  },
+  "graphicID": 2751,
+  "groupID": 430,
+  "marketGroupID": 596,
+  "mass": 100000000.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Sansha Large Beam Laser Battery",
     "en": "Sansha Large Beam Laser Battery",
@@ -10,5 +26,10 @@
     "ru": "Sansha Large Beam Laser Battery",
     "zh": "萨沙大型集束激光炮台"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 400.0,
+  "sofFactionName": "genericbase",
+  "variationParentTypeID": 16694,
   "volume": 5000.0
 }

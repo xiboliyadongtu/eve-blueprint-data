@@ -1,5 +1,19 @@
 {
-  "typeID": 3502,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Diese transportable Erzraffinerie funktioniert in ähnlicher Weise wie normale Technologie für Kapselpiloten-Belange. Es sollte möglich sein diese zu sabotieren, indem explosive Materialien in ihr deponiert werden.",
+    "en": "This mobile ore refinery works in much the same way as standard capsuleer-issue technology. It should be possible to sabotage by placing volatile materials inside.",
+    "es": "Esta refinería de menas móvil funciona igual que la tecnología estándar de los capsulistas. Debería ser posible sabotearla colocando materiales volátiles dentro.",
+    "fr": "Cette raffinerie de minerai mobile fonctionne de la même manière que les technologies standard de capsuliers. La saboter en y plaçant des matériaux explosifs à l'intérieur ne devrait pas poser de problème.",
+    "ja": "この可動式の鉱石精錬は標準的なカプセラの持つ技術とほぼ同じ機能を果たす。内部に揮発性の物質を置くと破壊する可能性がある。",
+    "ko": "기초적인 캡슐리어 기술을 토대로 제작된 이동식 정제소입니다. 폭발성 물질을 투입하여 파괴할 수 있습니다.",
+    "ru": "Эта передвижная установка для переработки руды по своему устройству ничем не отличается от оборудования, находящегося в распоряжении капсулеров. Если в ее приемный бункер поместить взрывоопасный материал, то при попытке переработать его эта установка выйдет из строя.",
+    "zh": "这座移动矿石精炼厂运用的技术与标准的精炼厂很相似。在其中放置爆炸性的物体可以摧毁它。"
+  },
+  "graphicID": 1176,
+  "groupID": 952,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Nation Ore Refinery",
     "en": "Nation Ore Refinery",
@@ -10,5 +24,9 @@
     "ru": "Nation Ore Refinery",
     "zh": "萨沙矿石精炼厂"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericmetal",
   "volume": 27500.0
 }

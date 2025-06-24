@@ -1,5 +1,18 @@
 {
-  "typeID": 21011,
+  "description": {
+    "de": "Ein Waffenmontageplatz für eine Geschütztürme, entwickelt, um einen übergroßen Geschützturm an einem Capital-Ship anzubringen.",
+    "en": "A turret hardpoint fitting, engineered to allow extra-large weapon turrets to fit on capital.",
+    "es": "Un equipamiento de punto de montaje de torreta diseñado para permitir la instalación de torretas de armas extragrandes en naves capitales.",
+    "fr": "Point de fixation de tourelle conçu pour permettre l'installation de tourelles de très grandes dimensions sur le vaisseau capital.",
+    "ja": "母艦に超大型タレット兵器を装備可能にするタレットハードポイント。",
+    "ko": "캐피탈 함선 전용 터렛 하드포인트로 개조를 통해 XL 터렛을 장착할 수 있습니다.",
+    "ru": "Точка монтажа турелей сверхбольшого калибра для кораблей большого тоннажа.",
+    "zh": "炮台挂点装置，用来在旗舰级飞船上安装超大型武器炮台。"
+  },
+  "groupID": 873,
+  "iconID": 2860,
+  "marketGroupID": 781,
+  "mass": 10000.0,
   "name": {
     "de": "Capital Turret Hardpoint",
     "en": "Capital Turret Hardpoint",
@@ -10,5 +23,7 @@
     "ru": "Capital Turret Hardpoint",
     "zh": "旗舰炮台挂点"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 2000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 9989,
+  "capacity": 80.0,
+  "description": {
+    "de": "Dies ist ein Sicherheitsschiff des Minmatar Security Service. Es patrouilliert in diesem Sektor und wird auf jeden Kampf reagieren, den es entdeckt. Es kann Verstärkungen herbei rufen, wenn die Notwendigkeit dafür besteht.\r\n\r\nBedrohungsstufe: Deutlich",
+    "en": "This is a security vessel of the Minmatar Security Service. It is patrolling this sector and will respond to any combat it detects. It can call in reinforcements from nearby sectors if the need arises. Threat level: Significant",
+    "es": "Nave de seguridad del Servicio de Seguridad de Minmatar que patrulla por este sector y responderá a cualquier combate que detecte. Puede pedir refuerzos de los sectores cercanos si es necesario. Nivel de amenaza: significativo.",
+    "fr": "Ceci est un vaisseau de sécurité du service de sécurité minmatar. Il est en patrouille dans ce secteur et interviendra dans tout combat qu'il pourra détecter. Au besoin, il peut appeler des renforts des secteurs voisins. Niveau de menace : significatif",
+    "ja": "ミンマターセキュリティサービスのセキュリティ艦。管轄区域をパトロールし、戦闘行為を探知すると現場へ急行する。緊急時には近隣区域からの援軍を要請することも可能。危険度:危険",
+    "ko": "공화국 안보부의 경비 함선입니다. 지역을 순찰 중이며 교전 발견 시 즉각 개입합니다. 유사시 근처 지역에서 증원군을 요청합니다. 위험도: 상당함",
+    "ru": "Это корабль службы безопасности Minmatar. Он патрулирует этот сектор и открывает ответный огонь по недружественным объектам. В случае необходимости может вызвать подкрепление из ближайших секторов. Уровень опасности: существенный",
+    "zh": "这是一艘米玛塔尔安全机构的安全船只。它在这个地区中巡逻，会对侦测到的任何战斗做出响应。如果形势需要，它会呼叫邻近区域的增援部队。威胁等级：恐怖的"
+  },
+  "graphicID": 307,
+  "groupID": 182,
+  "mass": 1200000.0,
   "name": {
     "de": "Minmatar Security Officer 3rd Rank",
     "en": "Minmatar Security Officer 3rd Rank",
@@ -10,5 +23,11 @@
     "ru": "Minmatar Security Officer 3rd Rank",
     "zh": "米玛塔尔 第三安全军官"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 62.0,
+  "sofFactionName": "minmatarbase",
+  "soundID": 30,
   "volume": 12000.0
 }

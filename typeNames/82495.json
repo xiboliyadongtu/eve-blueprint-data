@@ -1,5 +1,18 @@
 {
-  "typeID": 82495,
+  "basePrice": 50000000.0,
+  "description": {
+    "de": "Diese Anlage erkennt Piratenanomalien für Kampfpiloten verschiedener Erfahrungsniveaus. Diese Variante entdeckt neue Anomalien schneller als die Grund- und verbesserten Versionen.",
+    "en": "This array identifies pirate anomalies for combat pilots with various levels of experience.\r\nThis variant detects new anomalies faster than the base and upgraded versions.",
+    "es": "Este sistema identifica anomalías piratas para pilotos de combate con varios niveles de experiencia.\r\nEsta variante detecta nuevas anomalías más rápido que las versiones base y mejorada.",
+    "fr": "Ce module identifie les anomalies pirates pour les pilotes de combat de différents niveaux d'expérience. Cette variante détecte de nouvelles anomalies plus rapidement que la version de base et les versions améliorées.",
+    "ja": "様々な経験レベルの戦闘志向のパイロットが利用できる、海賊の特異点を探知する施設。\r\nこのタイプは、ベースとなっている施設やその強化版よりも早く新たな特異点を探知することができる。",
+    "ko": "다양한 등급의 해적 어노말리를 탐지하는 시설입니다.<BR>기본 및 상급 시설보다 빠른 탐색 속도를 자랑합니다.",
+    "ru": "Этот комплекс позволяет находить пиратские аномалии, которые подходят пилотам самого разного уровня. Данная версия выявляет новые аномалии быстрее, чем базовая и улучшенная.",
+    "zh": "这个阵列有助于不同经验水平的战斗飞行员识别出海盗异常空间。此衍生版阵列会比基础版和升级版阵列更快地检测出新生的异常空间。"
+  },
+  "groupID": 4768,
+  "iconID": 3951,
+  "mass": 1000.0,
   "name": {
     "de": "Placeholder Sov Hub Upgrade 3",
     "en": "Placeholder Sov Hub Upgrade 3",
@@ -10,5 +23,7 @@
     "ru": "Placeholder Sov Hub Upgrade 3",
     "zh": "主权中心升级件3"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 60000.0
 }

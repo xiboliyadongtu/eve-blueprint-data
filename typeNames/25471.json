@@ -1,5 +1,19 @@
 {
-  "typeID": 25471,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Dieser verschlossene Lagerbehälter treibt lautlos durch das Weltall.",
+    "en": "The enclosed storage bin drifts quietly in space.",
+    "es": "Silo encapsulado que flota sin rumbo y en silencio por el espacio.",
+    "fr": "Lieu d'entreposage fermé dérivant doucement dans l'espace.",
+    "ja": "銀河を静かに漂流する密閉保管容器。",
+    "ko": "정적 속에서 우주를 떠다니는 밀폐된 저장고입니다.",
+    "ru": "Закрытое хранилище тихо дрейфует в пространстве.",
+    "zh": "这个封闭的储藏舱静静地飘浮在太空中。"
+  },
+  "graphicID": 1176,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Erakki's Storage Bin",
     "en": "Erakki's Storage Bin",
@@ -10,5 +24,9 @@
     "ru": "Erakki's Storage Bin",
     "zh": "埃吉的储藏舱"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericmetal",
   "volume": 1200.0
 }

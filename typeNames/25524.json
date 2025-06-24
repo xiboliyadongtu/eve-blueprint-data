@@ -1,5 +1,16 @@
 {
-  "typeID": 25524,
+  "description": {
+    "de": "Das Hauptquartier der Streitkräfte der Angel innerhalb von Freebooters Haven.",
+    "en": "The headquarters of the Angel forces within Freebooters Haven.",
+    "es": "El cuartel general de las fuerzas de los Ángeles en la Madriguera de los Filibusteros.",
+    "fr": "Quartier général des forces angel dans le repaire des Freebooter.",
+    "ja": "フリーブースターズヘブン内のエンジェル軍司令部。",
+    "ko": "약탈자 은둔지 내의 엔젤 카르텔 본부입니다.",
+    "ru": "Штаб управления войск Angel внутри Freebooters Haven.",
+    "zh": "自由海盗港口里的天使部队总部。"
+  },
+  "graphicID": 2357,
+  "groupID": 495,
   "name": {
     "de": "Angel Central Command",
     "en": "Angel Central Command",
@@ -10,5 +21,10 @@
     "ru": "Angel Central Command",
     "zh": "天使集团中心指挥部"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 6185.0,
+  "sofFactionName": "angelbase",
+  "soundID": 20191
 }

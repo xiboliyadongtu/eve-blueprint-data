@@ -1,5 +1,18 @@
 {
-  "typeID": 23950,
+  "basePrice": 65000000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Kommandoschiffen.",
+    "en": "Skill for the operation of Command Ships.",
+    "es": "Habilidad en el manejo de naves de mando.",
+    "fr": "Compétence permettant de piloter des vaisseaux de commandement.",
+    "ja": "指揮型巡洋戦艦を操作するスキル。",
+    "ko": "커맨드쉽을 운용하기 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на кораблях управления.",
+    "zh": "操作指挥舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Command Ships",
     "en": "Command Ships",
@@ -10,5 +23,7 @@
     "ru": "Корабли управления",
     "zh": "指挥舰操作"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

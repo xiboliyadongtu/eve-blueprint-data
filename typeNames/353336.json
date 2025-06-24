@@ -1,5 +1,17 @@
 {
-  "typeID": 353336,
+  "basePrice": 66000.0,
+  "description": {
+    "de": "Grundlegende Kenntnisse über Geschützupgrades.\n\nSchaltet die Fähigkeit zur Bedienung von Modulen frei, die eine veränderte Funktionsweise von Geschützen ermöglichen. Einfache Varianten ab Skillstufe 1; verbesserte ab Skillstufe 3; komplexe ab Skillstufe 5.",
+    "en": "Basic understanding of turret upgrades.\r\n\r\nUnlocks the ability to use modules that alter turret functionality. Basic variants at lvl.1; enhanced at lvl.3; complex at lvl.5.",
+    "es": "Conocimiento básico de mejoras de torreta.\n\nDesbloquea la habilidad de usar módulos que mejoran la funcionalidad de las torretas. Variantes básicas en el nivel 1, mejoradas en el nivel 3 y complejas en el nivel 5.",
+    "fr": "Notions de base en améliorations de tourelles.\n\nDéverrouille l'utilisation de modules modifiant la fonctionnalité des tourelles. Variante basique au niv.1 ; améliorée au niv.3 ; complexe au niv.5.",
+    "it": "Comprensione base degli aggiornamenti delle torrette.\n\nSblocca l'abilità nell'utilizzo dei moduli che modificano la funzionalità delle torrette. Varianti di base al liv. 1; potenziate al liv. 3; complesse al liv. 5.",
+    "ja": "タレット強化に関する基本的な知識。タレットの機能を変化させるモジュールが使用可能になる。レベル1で基本改良型、レベル3で強化型、レベル5で複合型。",
+    "ko": "터렛 업그레이드에 대한 기본적인 이해를 습득합니다. <br><br>터렛의 기능을 바꾸는 모듈을 사용할 수 있습니다. 레벨 1 - 기본 모듈; 레벨 3 - 강화 모듈; 레벨 5 - 첨단 모듈",
+    "ru": "Понимание основных принципов работы с усовершенствованиями турелей.\n\nПозволяет оперировать модулями, модифицирующими пусковые установки. Базовый вариант - на ур.1; улучшенный - на ур.3; усложненный - на ур.5.",
+    "zh": "炮台升级件基本知识。解锁使用可改变炮台功能的装备的能力。1级解锁基础型；3级解锁增强型；5级解锁复杂型。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Fahrzeuggeschützupgrades",
     "en": "Vehicle Turret Upgrades",
@@ -11,5 +23,7 @@
     "ru": "Пакеты модернизации транспортной турели",
     "zh": "载具炮台升级件"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

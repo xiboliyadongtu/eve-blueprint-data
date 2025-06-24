@@ -1,5 +1,18 @@
 {
-  "typeID": 24313,
+  "basePrice": 550000000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Gallente-Trägerschiffen.",
+    "en": "Skill at operating Gallente carriers.",
+    "es": "Habilidad en el manejo de portanaves gallentes.",
+    "fr": "Compétence liée à l'utilisation des porte-vaisseaux gallente.",
+    "ja": "ガレンテの艦載機母艦を操作するスキル。",
+    "ko": "갈란테 캐리어 운용을 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на кораблях автономного развёртывания производства Галлентской Федерации.",
+    "zh": "操作盖伦特航空母舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Gallente Carrier",
     "en": "Gallente Carrier",
@@ -10,5 +23,8 @@
     "ru": "Галлентские КАРы",
     "zh": "盖伦特航空母舰操作"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
   "volume": 0.01
 }

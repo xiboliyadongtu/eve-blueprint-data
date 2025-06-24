@@ -1,5 +1,18 @@
 {
-  "typeID": 11002,
+  "capacity": 130.0,
+  "description": {
+    "de": "Schiffstyp: Die MERLIN ist die kampfstärkste Fregatte der Caldari. Sie sie wird wegen ihrer Vielseitigkeit im Einsatz von Raketen wie auch von Geschütztürmen sehr geschätzt. Ihre Verteidigungsmodule sind für ein caldarisches Schiff ungewöhnlich stark.\r\n\r\nBesondere Fähigkeit:\r\n5% Bonus auf die Reichweite von Hybridwaffen je Skillstufe\r\n5% Bonus auf die Schadenswirkung von Hybridwaffen je Skillstufe",
+    "en": "Entity: The Merlin is the most powerful all-out combat frigate of the Caldari. It is highly valued for its versatility in using both missiles and turrets, while its defenses are exceptionally strong for a Caldari vessel. Special Ability: 5% bonus to hybrid turret damage and hybrid turret range per skill level.",
+    "es": "Entidad: La Merlin es la fragata de combate más poderosa de los Caldari. Es muy valorada por su versatilidad con misiles y torretas. Además, posee unas excepcionales defensas para tratarse de una nave caldari. Capacidad especial: 5 % de bonificación al daño y el alcance de la torreta híbrida por nivel de habilidad.",
+    "fr": "Entité : Le Merlin est la plus puissante frégate de combat caldari. Elle peut aussi bien combattre avec des missiles qu'avec des tourelles, et ses défenses sont exceptionnellement bonnes pour un vaisseau caldari. Aptitude particulière : augmente de 5 % par niveau de compétence les dégâts et la portée des tourelles hybrides.",
+    "ja": "エンティティ:マーリンは、総攻撃に適したカルダリ最強の戦闘用フリゲート。ミサイルとタレットのどちらでも攻撃できるなど、多機能な船として評価が高い上、カルダリの船らしからぬ優れた守備力を誇る。特殊能力:スキルレベル上昇ごとにハイブリッドタレットの与えるダメージと射程が5%増加。",
+    "ko": "함선: 멀린은 칼다리 프리깃 중에서 가장 강력한 전투 능력을 보유하고 있는 함선입니다. 칼다리 함선 대비 우수한 방어 능력, 그리고 미사일과 터렛을 모두 장착할 수 있는 범용성으로 높은 평가를 받았습니다. 특수 능력: 하이브리드 터렛 피해량 및 사거리 매 레벨마다 5% 증가",
+    "ru": "Описание: Merlin — самый мощный боевой фрегат Caldari.  высоко ценимый за возможность применения ракетных и турельных установок одновременно. Он высоко ценится за универсальность — на его борту могуть быть установлены как пусковые установки, так и турели, — а также за исключительно мощную для кораблей Caldari броню. Классовый бонус: 5%-ное увеличение дальности турелей гибридного действия и наносимого ими ущерба на уровень навыка.",
+    "zh": "“小鹰”是加达里威力最大的全方位战斗护卫舰。它的最高价值体现在其多功能性上，导弹和炮台均可使用，而且就加达里飞船而言，它的防御实在是非常出众。\r\n\r\n特殊能力：每提升一级相应技能，混合炮台伤害和射程增加5%。"
+  },
+  "graphicID": 314,
+  "groupID": 298,
+  "mass": 1650000.0,
   "name": {
     "de": "Convoy Sentry",
     "en": "Convoy Sentry",
@@ -10,5 +23,10 @@
     "ru": "Convoy Sentry",
     "zh": "卫队前哨舰"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 39.0,
+  "sofFactionName": "caldaribase",
   "volume": 16500.0
 }

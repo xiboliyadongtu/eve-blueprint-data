@@ -1,5 +1,18 @@
 {
-  "typeID": 85231,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Eine Sammlung von Artefakten, die aus dem Inneren des Observatoriums geborgen wurden. Dieser Container kann mit Hilfe eines Reliktanalysegeräts geöffnet werden.",
+    "en": "A collection of artifacts recovered from inside the Observatory. This container can be opened with the help of a Relic Analyzer.",
+    "es": "Una colección de artefactos recuperados del interior del observatorio. Este contenedor se puede abrir con la ayuda de un analizador de reliquias.",
+    "fr": "Une collection d'artéfacts récupérée à l'intérieur de l'observatoire. Ce conteneur peut être ouvert à l'aide d'un analyseur de reliques.",
+    "ja": "観測所内から回収された複数のアーティファクトが入っている。遺物アナライザーの補助を受ければ、このコンテナを開けることができる。",
+    "ko": "관측소에서 회수한 유물입니다. 유물 분석기로 컨테이너를 열 수 있습니다.",
+    "ru": "В обсерватории обнаружена коллекция артефактов. Этот контейнер можно открыть с помощью анализатора артефактов.",
+    "zh": "一批从观测站中回收的遗物。可以使用遗迹分析仪打开此货柜。"
+  },
+  "graphicID": 28011,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Drifter Collection",
     "en": "Drifter Collection",
@@ -10,5 +23,8 @@
     "ru": "Drifter Collection",
     "zh": "流浪者收藏"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 300.0,
+  "sofFactionName": "drifter"
 }

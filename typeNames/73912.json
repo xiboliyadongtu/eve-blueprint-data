@@ -1,5 +1,18 @@
 {
-  "typeID": 73912,
+  "basePrice": 250000000.0,
+  "description": {
+    "de": "Dieser Skill ermöglicht es Ihnen, formale Verträge mit anderen Charakteren zu schließen. Mit jeder Skillstufe erhöht sich die Anzahl der ausstehenden Verträge um vier (bis zu einem Maximum von 41 auf Stufe 5).",
+    "en": "This skill allows you to create formal agreements with other characters. \r\n\r\nFor each level of this skill the number of outstanding contracts is increased by four (up to a maximum of 41 at level 5)",
+    "es": "Esta habilidad te permite formalizar acuerdos con otros personajes. \n\nPor cada nivel de esta habilidad, se aumenta en 4 el número de contratos pendientes (hasta un máximo de 41 en el nivel 5).",
+    "fr": "Cette compétence vous permet de créer des accords officiels avec d'autres personnes. Pour chaque niveau de cette compétence, le nombre de contrats est augmenté de quatre (jusqu'à un maximum de 41 au niveau 5).",
+    "ja": "他のキャラクターと公式な契約を結ぶスキル。 \n\nスキルレベルごとに未処理のコントラクトの数が 4 つずつ（レベル 5 の最大数 41 まで）増加する。",
+    "ko": "계약서 작성을 위한 스킬입니다.<br><br>레벨 당 작성 가능한 계약서의 숫자 4 증가(스킬 레벨 5 - 총 41개의 계약서 작성 가능)",
+    "ru": "Этот навык позволяет вам заключать официальные договоры с другими персонажами. На каждой степени освоения навыка количество доступных контрактов увеличивается на четыре (максимальное количество — 41 на 5-й степени навыка).",
+    "zh": "与游戏中的其他玩家订立正式协议的技能。 \n\n\n\n每升一级，未决合同的数量增加4份（到5级最多可达到41份）。"
+  },
+  "groupID": 274,
+  "iconID": 33,
+  "marketGroupID": 378,
   "name": {
     "de": "Advanced Contracting",
     "en": "Advanced Contracting",
@@ -10,5 +23,7 @@
     "ru": "Advanced Contracting",
     "zh": "高级合同规则"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

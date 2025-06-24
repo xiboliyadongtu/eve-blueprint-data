@@ -1,5 +1,17 @@
 {
-  "typeID": 26216,
+  "description": {
+    "de": "Das ist ein Zugangsschlüssel, der verwendet wird, um das Verpackungszentrum zu betreten.",
+    "en": "This is a passkey used to enter the packaging center.",
+    "es": "Clave que sirve para entrar en la zona de embalaje.",
+    "fr": "Carte donnant accès au centre d'emballage.",
+    "ja": "パッケージセンターに入るためのマスターキー。",
+    "ko": "패키징 센터로 진입하기 위한 출입키입니다.",
+    "ru": "Ключ доступа к паковальному центру.",
+    "zh": "这是用于进入包装中心的通行钥匙。"
+  },
+  "groupID": 474,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Packaging Center Passkey",
     "en": "Packaging Center Passkey",
@@ -10,5 +22,7 @@
     "ru": "Packaging Center Passkey",
     "zh": "装配中心密匙卡片"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

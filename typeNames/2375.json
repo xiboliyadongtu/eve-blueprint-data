@@ -1,5 +1,18 @@
 {
-  "typeID": 2375,
+  "basePrice": 25000.0,
+  "description": {
+    "de": "Durch die Integration der transkraniellen Mikrocontroller in einen Stromkreis aus synthetischen Synapsen ist der Sende-Knoten in der Lage, eine direkte Verbindung mit verschiedenen Stationsfunktionen bei vernachlässigbarem Signalverlust und minimaler Latenz aufzubauen. Der Zusatz von EDV-Leitsystemen, die jeweils mit unabhängigen Navigationssystem-Softwareroutinen arbeiten, ermöglicht es einem einzelnen Knoten, Raumschiff-Andockverfahren, Drohnen-Operationen und sogar Stationsabwehrsysteme zu koordinieren.",
+    "en": "By integrating transcranial microcontrollers into a circuit made from synthetic synapses, the broadcast node is able to communicate directly with various station functions and with negligible signal loss and latency. The addition of computerized guidance systems, each running independent navigation system software routines, allows a single node to coordinate starship docking procedures, drone operations, and even station defenses.",
+    "es": "Al integrar microcontroladores transcraneales en un circuito hecho de sinapsis sintéticas, el nodo de transmisión es capaz de comunicarse directamente con varias funciones de la estación con una pérdida de señal y latencia insignificantes. La adición de sistemas de guiado computarizados, cada uno de los cuales ejecuta rutinas de software de sistemas de navegación independientes, permite que un solo nodo coordine los procedimientos de acoplamiento, las operaciones de drones e incluso las defensas de la estación.",
+    "fr": "En intégrant des microcontrôleurs transcraniaux dans un circuit fait de synapses synthétiques, ce nœud de transmission est maintenant en mesure de communiquer directement avec diverses stations, le tout avec une perte de signal et un temps de latence négligeables. L'ajout de systèmes de guidage informatisés, chacun d'entre eux contrôlant des routines de navigation indépendantes, permet à un seul de ces nœuds de coordonner les procédures d'amarrage du vaisseau, les opérations des drones, ainsi que les défenses de la station.",
+    "ja": "合成シナプシスでできた回路に脳内マイクロコントローラを統合すると、ブロードキャストノードは様々なステーション機能と直接通信が可能になる。信号のロスや遅延は無視できるほど少ない。コンピュータ化された誘導システムを複数追加し、各システムで別個のナビゲーションシステムソフトウェアのルーチンを実行させると、艦船のドッキング手順、ドローン操作、さらにはステーションの防御まで、一つのノードで対応可能となる。",
+    "ko": "인공 시냅스 회로에 마이크로 컨트롤러를 장착하여 큰 신호 소실 또는 딜레이 없이 정거장들과 직접적인 교신을 할 수 있습니다. 개별로 작동하는 독자적인 항법 시스템 소프트웨어 루틴을 갖춘 유도 시스템이 추가로 탑재되며 각각의 노드가 함선의 도킹, 드론 운용, 그리고 정거장 방어까지도 조정할 수 있게 되었습니다.",
+    "ru": "Благодаря интеграции транскраниальных микроконтроллеров в цепи, изготовленные из синтетических синапсов, узел вещания способен устанавливать и поддерживать связь с различными функциями станции при незначительной потере сигнала и минимальных задержках. Добавление компьютеризированных систем управления, каждая из которых применяет независимые программные навигационные системы, позволяет единому узлу координировать процедуры стыковки космических кораблей, оперировать дронами и даже управлять защитными системами станции.",
+    "zh": "通过将经颅微型控制器同人造神经键相链接，广播节点能够直接同空间站的多种功能模块进行通信，而其信号损失和延迟也被降到了可忽略不计的程度。附加的计算机制导系统——每一个都单独运行一套独立的导航软件——使得一个单独的节点也能够执行星舰进站辅助、无人机操作甚至空间站防御等任务。"
+  },
+  "groupID": 314,
+  "iconID": 3250,
+  "marketGroupID": 20,
   "name": {
     "de": "Broken Broadcast Node",
     "en": "Broken Broadcast Node",
@@ -10,5 +23,7 @@
     "ru": "Broken Broadcast Node",
     "zh": "损坏的广播节点"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 100.0
 }

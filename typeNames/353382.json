@@ -1,5 +1,17 @@
 {
-  "typeID": 353382,
+  "basePrice": 90000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Luftfahrzeugsystemen.\nSchaltet trainierbare Skills zur Bedienung von Luftfahrzeugen frei.",
+    "en": "Skill at operating aerial vehicle systems.\r\nUnlocks skills that can be trained to operate aerial vehicles.",
+    "es": "Habilidad de manejo de sistemas de vehículos aéreos.\nDesbloquea habilidades que se pueden entrenar para manejar vehículos aéreos.",
+    "fr": "Compétence permettant d'utiliser les systèmes du véhicule aérien.\nDéverrouille les compétences vous permettant d'utiliser des véhicules aériens.",
+    "it": "Abilità nell'utilizzo dei sistemi dei veicoli aerei.\nSblocca le abilità che è possibile allenare per utilizzare i veicoli aerei.",
+    "ja": "航空車両を扱うためのスキル。\n航空車両を操作するためのスキルをトレーニングできるようにする。",
+    "ko": "항공기 조종을 위한 스킬입니다. <br><br>항공기 조종 관련 스킬을 개방합니다.",
+    "ru": "Навык управления системами воздушного транспорта.\nОткрывает группу навыков, изучение которых позволяет управлять воздушным транспортом.",
+    "zh": "操作飞行器系统的技能。解锁训练后可操作飞行载具的技能。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Schiffsteuerung",
     "en": "Piloting",
@@ -11,5 +23,7 @@
     "ru": "Пилотирование",
     "zh": "正在驾驶"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

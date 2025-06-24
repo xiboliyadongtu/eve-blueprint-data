@@ -1,5 +1,20 @@
 {
-  "typeID": 2446,
+  "basePrice": 271072.0,
+  "description": {
+    "de": "Schwere Angriffsdrohne",
+    "en": "Heavy Attack Drone",
+    "es": "Dron de asalto pesado",
+    "fr": "Drone d'attaque lourd.",
+    "ja": "ヘビーアタックドローン",
+    "ko": "헤비 어택 드론",
+    "ru": "Тяжелый боевой дрон",
+    "zh": "重型攻击无人机"
+  },
+  "graphicID": 1115,
+  "groupID": 100,
+  "marketGroupID": 839,
+  "mass": 12000.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Ogre II",
     "en": "Ogre II",
@@ -10,5 +25,11 @@
     "ru": "Ogre II",
     "zh": "蛮妖 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 35.0,
+  "sofFactionName": "creodron",
+  "variationParentTypeID": 2444,
   "volume": 25.0
 }

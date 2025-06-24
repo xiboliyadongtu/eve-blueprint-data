@@ -1,5 +1,75 @@
 {
-  "typeID": 32305,
+  "basePrice": 219800000.0,
+  "capacity": 875.0,
+  "description": {
+    "de": "Als verbesserte Version eines Schlachtschiffs der gefürchteten Armageddon-Klasse ist dieses Schiff eine der tödlichsten Kriegsmaschinen, die je von Menschenhand erbaut wurden. Ein Schiff dieser Klasse zu kommandieren, ist eine der ehrenvollsten Aufgaben, die Piloten im Imperium der Amarr zuteil werden können. Wer dem erbarmungslosen Feuer seiner Geschütztürme ausgeliefert ist, findet auf schnellstem Weg den Tod.",
+    "en": "An improved version of the feared Armageddon-class battleship, this vessel is probably one of the deadliest war machines ever built by the hand of man. Commanding one is among the greatest honors one can attain in the Amarr Empire, and suffering the fury of its turret batteries is surely the fastest way to reunite with the void.",
+    "es": "Esta nave, una versión mejorada del temido acorazado de clase Armageddon, seguramente sea una de las máquinas de guerra más letales jamás fabricada por el ser humano. Pilotar una es uno de los mayores honores que se pueden obtener en el Imperio Amarr, y sufrir la furia de sus baterías de torretas es una de las formas más rápidas de reunirse con el vacío.",
+    "fr": "Version améliorée du redouté cuirassé de classe Armageddon, ce vaisseau est probablement l'une des machines de guerre les plus mortelles jamais construites par l'homme. Son commandement est l'un des plus grands honneurs qu'il est possible d'atteindre au sein de l'Empire amarr, et subir la furie de ses batteries de tourelles est certainement le moyen le plus rapide de rejoindre le vide sidéral.",
+    "ja": "アルマゲドン級戦艦の改良版。この船は人の手で造られた史上最恐の兵器と言えるだろう。この船を操縦することはアマー帝国で最高の栄誉であり、この船のタレットバッテリーの猛攻撃を受けると、無に帰らずに済むのは難しい。",
+    "ko": "아마겟돈 해군 에디션은 인간이 만든 최고의 전쟁 기계 중 하나로 해당 함선을 지휘한다는 것만으로도 커다란 명예로 취급됩니다. 함선에 탑재된 강력한 터렛 체계는 적을 순식간에 산산조각 낼 수 있습니다.",
+    "ru": "Это усовершенствованная модель ужасающего линкора типа «Армагеддон» — и, вероятно, одна из наиболее смертоносных военных машин, когда-либо построенных руками человека. Командование таким кораблем – высочайшая честь, которая может выпасть на долю подданного Амаррской Империи. Яростный огонь его орудий дарит быстрое и надёжное единение с пустотой.",
+    "zh": "这是令人生畏的末日沙场级的加强型，这艘舰船可能是人类所制造的最具杀伤力的战争机器。成为这样一艘舰船的指挥官是艾玛帝国中众多令人向往的最高荣誉之一，而遭受它的舰炮摧残则是回归虚空的最恐怖方式之一。"
+  },
+  "factionID": 500003,
+  "graphicID": 3814,
+  "groupID": 27,
+  "marketGroupID": 1379,
+  "mass": 105200000.0,
+  "masteries": {
+    "0": [
+      96,
+      65,
+      99,
+      133,
+      138,
+      150,
+      89,
+      93
+    ],
+    "1": [
+      96,
+      65,
+      99,
+      133,
+      138,
+      150,
+      89,
+      93
+    ],
+    "2": [
+      96,
+      65,
+      99,
+      133,
+      138,
+      150,
+      89,
+      93
+    ],
+    "3": [
+      96,
+      65,
+      99,
+      133,
+      138,
+      150,
+      89,
+      93
+    ],
+    "4": [
+      96,
+      65,
+      99,
+      133,
+      138,
+      117,
+      150,
+      89,
+      93
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Armageddon Navy Issue",
     "en": "Armageddon Navy Issue",
@@ -10,5 +80,111 @@
     "ru": "Armageddon Navy Issue",
     "zh": "末日沙场级海军型"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 250.0,
+  "sofFactionName": "amarrnavy",
+  "soundID": 20061,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 5.0,
+        "bonusText": {
+          "de": "zusätzlicher Bonus auf HP der <a href=showinfo:3394>Verstärkten Schottwand</a>",
+          "en": "additional bonus to <a href=showinfo:3394>Reinforced Bulkhead</a> hitpoints",
+          "es": "de bonificación adicional a los puntos de vida del <a href=showinfo:3394>mamparo reforzado</a>.",
+          "fr": "de bonus supplémentaire aux points de vie de la <a href=showinfo:3394>cloison renforcée</a>",
+          "ja": "<a href=showinfo:3394>強化隔壁</a>HPがさらに増加",
+          "ko": "<a href=showinfo:3394>강화 격벽</a> 내구도 증가",
+          "ru": "дополнительный бонус к прочности <a href=showinfo:3394>укреплённой переборки</a>",
+          "zh": "<a href=showinfo:3394>强化舱隔壁</a>结构值加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der <a href=showinfo:3394>Panzerplatte</a>",
+          "en": "bonus to <a href=showinfo:3394>Armor Plate</a> hitpoints",
+          "es": "de bonificación a los puntos de vida de las <a href=showinfo:3394>placas de blindaje</a>.",
+          "fr": "de bonus aux points de vie du <a href=showinfo:3394>revêtement de blindage</a>",
+          "ja": "<a href=showinfo:3394>アーマープレート</a>HPが増加",
+          "ko": "<a href=showinfo:3394>장갑 플레이트</a> 내구도 증가",
+          "ru": "бонус к прочности <a href=showinfo:3394>бронеплиты</a>",
+          "zh": "<a href=showinfo:3394>装甲附甲板</a>装甲值加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 100.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der <a href=showinfo:3425>Schilderweiterung</a>",
+          "en": "bonus to <a href=showinfo:3425>Shield Extender</a> hitpoints",
+          "es": "de bonificación a los puntos de vida del <a href=showinfo:3425>extensor de escudo</a>.",
+          "fr": "de bonus aux points de vie de l'<a href=showinfo:3425>extenseur de bouclier</a>",
+          "ja": "<a href=showinfo:3425>シールドエクステンダー</a>HPが増加",
+          "ko": "<a href=showinfo:3425>실드 확장장치</a> 실드량 증가",
+          "ru": "бонус к прочности <a href=showinfo:3425>расширителя щитов</a>",
+          "zh": "<a href=showinfo:3425>护盾扩展装置</a>护盾值加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3339": [
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3309>großen Energiegeschütztürmen</a>, schnellen <a href=showinfo:3324>schweren Lenkwaffen</a>, <a href=showinfo:3326>Marschflugkörpern</a> und <a href=showinfo:3325>Torpedos</a>",
+            "en": "bonus to <a href=showinfo:3309>Large Energy Turret</a>, Rapid <a href=showinfo:3324>Heavy Missile</a>, <a href=showinfo:3326>Cruise Missile</a> and <a href=showinfo:3325>Torpedo</a> damage",
+            "es": "de bonificación al daño de las <a href=showinfo:3309>torretas de energía grande</a>, los <a href=showinfo:3324>misiles pesados</a> rápidos, los <a href=showinfo:3326>misiles de crucero</a> y los <a href=showinfo:3325>torpedos</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:3309>grandes tourelles à énergie</a>, <a href=showinfo:3324>missiles lourds</a>, <a href=showinfo:3326>missiles de croisière</a> et <a href=showinfo:3325>torpilles</a> rapides",
+            "ja": "<a href=showinfo:3309>大型エネルギータレット</a>、高速<a href=showinfo:3324>ヘビーミサイル</a>、<a href=showinfo:3326>クルーズミサイル</a>及び<a href=showinfo:3325>トルピード</a>のダメージが増加",
+            "ko": "<a href=showinfo:3309>대형 에너지 터렛</a>, 급속 <a href=showinfo:3324>헤비 미사일</a>, <a href=showinfo:3326>크루즈 미사일</a>, <a href=showinfo:3325>토피도</a> 피해량 증가",
+            "ru": "бонус к урону от <a href=showinfo:3309>больших лазерных орудий</a>, скорострельных <a href=showinfo:3324>тяжёлых ракет</a>, <a href=showinfo:3326>дальнобойных ракет</a> и <a href=showinfo:3325>торпед</a>",
+            "zh": "<a href=showinfo:3309>大型能量炮台</a>、<a href=showinfo:3324>重型快速导弹</a>、<a href=showinfo:3326>巡航导弹</a>和<a href=showinfo:3325>鱼雷</a>伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die HP von und den Schaden durch <a href=showinfo:3436>Drohnen</a>",
+            "en": "bonus to <a href=showinfo:3436>Drone</a> hitpoints and damage",
+            "es": "de bonificación a los puntos de vida y el daño de los <a href=showinfo:3436>drones</a>.",
+            "fr": "de bonus aux dégâts et aux points de vie des <a href=showinfo:3436>drones</a>",
+            "ja": "<a href=showinfo:3436>ドローン</a>のHPとダメージが増加",
+            "ko": "<a href=showinfo:3436>드론</a> 내구도 및 피해량 증가",
+            "ru": "бонус к урону и запасу прочности <a href=showinfo:3436>дронов</a>",
+            "zh": "<a href=showinfo:3436>无人机</a>HP和伤害加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die optimale Reichweite von <a href=showinfo:3423>Energie-Nosferatus</a> und <a href=showinfo:3423>Energieneutralisierern</a>",
+            "en": "bonus to <a href=showinfo:3423>Energy Nosferatu</a> and <a href=showinfo:3423>Energy Neutralizer</a> optimal range",
+            "es": "de bonificación al alcance óptimo del <a href=showinfo:3423>nosferatu de energía</a> y el <a href=showinfo:3423>neutralizador energético</a>.",
+            "fr": "de bonus à la portée optimale des <a href=showinfo:3423>Nosferatu à énergie</a> et des <a href=showinfo:3423>neutraliseurs d'énergie</a>",
+            "ja": "<a href=showinfo:3423>エネルギーノスフェラトゥ</a>と<a href=showinfo:3423>エネルギーニュートラライザー</a>の最適射程距離にボーナス",
+            "ko": "<a href=showinfo:3423>에너지 노스페라투</a>, <a href=showinfo:3423>에너지 뉴트럴라이저</a> 최적사거리 증가",
+            "ru": "бонус к оптимальной дальности <a href=showinfo:3423>энергопоглощения</a> и <a href=showinfo:3423>дистанционных нейтрализаторов заряда</a>",
+            "zh": "<a href=showinfo:3423>掠能器</a>和<a href=showinfo:3423>能量中和器</a>最佳射程加成"
+          },
+          "importance": 3,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 643,
   "volume": 470000.0
 }

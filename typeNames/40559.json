@@ -1,5 +1,19 @@
 {
-  "typeID": 40559,
+  "description": {
+    "de": "<b>Typ:</b> Leichter Jäger <b>Funktion:</b> Angriff <b>Beschreibung:</b> Die Einherji ist ein Mehrzweck-Angriffsflugzeug. <b>Maschinenkanone</b>: Dieses Waffensystem verursacht beträchtlichen Schaden. Die kurze Laufzeit beeinträchtigt jedoch seine Genauigkeit gegenüber kleinen, sich schnell bewegenden Zielen. <b>Mikrowarpantrieb</b>: Er bietet eine erhebliche Geschwindigkeitssteigerung auf Kosten eines höheren Signaturradius. Der Mikrowarpantrieb hat eine lange Abkühlphase zwischen den Einsätzen. <b>Schwere Raketensalve</b>: Eine vereinfachte Version der schweren Lenkwaffen, die von Raumschiffen gestartet werden, mit deutlich kürzerer Reichweite.",
+    "en": "<b>Type:</b> Light Fighter\r\n<b>Role:</b> Attack\r\n<b>Description:</b> The Einherji is a general purpose attack craft.\r\n\r\n<b>Autocannon</b>: This weapon-system does significant damage. However the short barrel length hurts its accuracy against small, fast moving targets.\r\n<b>Microwarpdrive</b>: Giving a significant speed boost at the cost of higher signature radius. The Microwarpdrive has a long cool-down cycle between uses.\r\n<b>Heavy Rocket Salvo</b>: A simplified, significantly shorter ranged version of starship launched Heavy Missiles.",
+    "es": "<b>Tipo:</b> caza ligero.\r\n<b>Función:</b> ataque.\r\n<b>Descripción:</b> la Einherji es una nave de ataque de utilidad genérica.\r\n\r\n<b>Cañón automático</b>: este sistema armamentístico inflige un daño considerable. Sin embargo, la corta longitud del cañón reduce su precisión contra objetivos pequeños y rápidos.\r\n<b>Motor de microwarp</b>: otorga un aumento considerable de velocidad a costa de un radio de señal superior. Tiene un ciclo de recarga largo entre un uso y otro.\r\n<b>Andanada de cohetes pesados</b>: una versión simplificada y con un alcance significativamente menor de los misiles pesados para naves.",
+    "fr": "<b>Type :</b> Chasseur léger <b>Rôle :</b> Attaque <b>Description :</b> L'Einherji est un appareil d'attaque polyvalent. <b>Canon automatique</b> : Ce système d'armement inflige des dégâts considérables. Cependant, le canon court affecte sa précision contre les cibles mobiles rapides. <b>Propulseur de microwarp</b> : Augmente la vitesse de manière considérable, au prix d'un rayon de signature plus élevé. Le propulseur de microwarp a un cycle de refroidissement prolongé entre deux utilisations. <b>Salve de roquettes lourdes</b> : Une version simplifiée et à portée réduite des missiles lourds lancés depuis les vaisseaux spatiaux.",
+    "ja": "<b>タイプ：</b>軽戦闘機\n<b>用途：</b> 攻撃\n<b>説明：</b>エインハージは汎用攻撃機である。\n\n<b>オートキャノン：</b> 大ダメージを与える兵器システム。しかし銃身が短いため、小回りの利く高速移動のターゲットに対しては精度が落ちてしまう。\n<b>マイクロワープドライブ：</b> シグネチャ半径が大きくなる代わりに、速度が大幅に上昇する。マイクロワープドライブのクールダウンサイクルは長い。\n<b>ヘビーロケット一斉射撃</b>： 射程が大幅に短くなった簡易版の艦船発射型ヘビーミサイル。",
+    "ko": "<b>분류:</b> 라이트 파이터<br><b>임무:</b> 전투<br><b>설명:</b> 에인헤리는 범용 파이터입니다. <br><br><b>기관포</b>: 상당한 화력을 자랑하는 무기 체계입니다. 그러나 짧은 포신 탓에 작고 빠른 대상을 상대로는 정확도가 감소합니다.<br><b>마이크로 워프 드라이브</b>: 속도가 크게 향상되지만 시그니처 반경이 증가합니다. 긴 재사용 대기시간을 갖고 있습니다.<br><b>헤비 로켓 살보</b>: 함선 전용 헤비 미사일을 간소화시킨 단거리 미사일입니다.",
+    "ru": "<b>Тип:</b> лёгкий истребитель <b>Роль:</b> атака <b>Описание:</b> Einherji — штурмовой корабль общего назначения. <b>Автопушка</b>: эта орудийная система наносит значительный урон. Однако малая длина стволов отрицательно сказывается на точности и заметно снижает эффективность системы против небольших подвижных целей. <b>Микроварп-ускоритель</b>: ощутимо ускоряет корабль за счёт увеличения радиуса сигнатуры. После использования микроварп-ускорителю каждый раз требуется длительное охлаждение. <b>Залп тяжёлых ракет</b>: упрощённая и куда менее дальнобойная версия бортовых тяжёлых ракет.",
+    "zh": "<b>类型：</b>轻型铁骑舰载机\n\n<b>作用：</b>攻击\n\n<b>描述：</b>因赫吉是适用于一般用途的攻击型机种。\n\n\n\n<b>自动加农炮</b>：这种武器系统能造成巨大伤害。但是由于炮管短小，在攻击小而快的目标时精度不佳。\n\n<b>微型跃迁推进器</b>：通过牺牲信号半径来大幅度提升速度。装备运转后的冷却时间较长。\n\n<b>重型火箭齐射</b>：星舰用重型导弹的一种射程大幅缩短的简化版本。"
+  },
+  "graphicID": 2973,
+  "groupID": 1652,
+  "marketGroupID": 840,
+  "mass": 1000.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Einherji II",
     "en": "Einherji II",
@@ -10,5 +24,11 @@
     "ru": "Einherji II",
     "zh": "因赫吉 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 35.0,
+  "sofFactionName": "minmatarbase",
+  "variationParentTypeID": 23061,
   "volume": 1000.0
 }

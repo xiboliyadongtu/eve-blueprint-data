@@ -1,5 +1,18 @@
 {
-  "typeID": 22059,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Ein kleiner Bunker, verwendet für die Unterbringung und schnelle Verlegung von Truppen oder Personal. Dieser hier dient einigen Minmatar-Rebellen als Unterschlupf.",
+    "en": "A small bunker, there for accommodation and increased mobility of troops and other personnel. This one holds several Minmatar freedom fighters.",
+    "es": "Un pequeño búnker para alojar y aumentar la movilidad de las tropas y demás personal. En este hay varios Luchadores por la Libertad minmatarianos.",
+    "fr": "Petit bunker utilisé en guise d'hébergement et favorisant la mobilité des soldats et du personnel. Il héberge plusieurs combattants de la liberté minmatar.",
+    "ja": "兵士などの要員を収容し、彼らの機動性を向上させる小型バンカー。ここにはミンマターのフリーダムファイターが何人か待機している。",
+    "ko": "막사 겸 병력의 기동력 향상을 위해 설치된 소형 벙커입니다. 민마타 자유 투사들이 상주하고 있습니다.",
+    "ru": "Небольшой бункер, предназначенный для размещения войск и персонала с целью повышения их мобильности. В этом располагается несколько борцов за свободу Minmatar.",
+    "zh": "一座小碉堡，能提供住处，增加部队和其他人员的机动性。这座碉堡内驻扎着几个米玛塔尔自由战士。"
+  },
+  "graphicID": 2479,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Small Rebel Base",
     "en": "Small Rebel Base",
@@ -10,5 +23,10 @@
     "ru": "Small Rebel Base",
     "zh": "小型叛军基地"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 713.0,
+  "sofFactionName": "minmatarbase",
+  "soundID": 31,
   "volume": 100000000.0
 }

@@ -1,5 +1,54 @@
 {
-  "typeID": 28844,
+  "basePrice": 9020200000.0,
+  "capacity": 144000.0,
+  "description": {
+    "de": "Nachdem die Thukker anfingen, ihre Warp-Sprung-fähigen Frachter einzusetzen, dauerte es nicht lange, bis andere Corporations den taktischen Wert dieser Schiffe erkannten. Nach ausgiebigen Verhandlungen schloss Ishukone letztendlich einen Vertrag ab, durch den der Austausch von unbekannten, technischen Daten maßgeblicher Innovationen mit den Thukker erfolgte. Ishukone baute auf den originalen Entwürfen der Thukker auf, was es ihnen möglich machte, den größten, derzeit existierenden Warp-Sprung-fähigen Frachter auf den Markt zu bringen – die Rhea, ein wahres Ungetüm der Sterne.",
+    "en": "It wasn't long after the Thukkers began deploying their jump capable freighters that other corporations saw the inherent tactical value of such ships. After extended negotiations, Ishukone finally closed a deal exchanging undisclosed technical data for the core innovations underpinning the original Thukker Tribes design allowing them to rapidly bring to the market the largest jump capable freighter of them all, the Rhea, a true behemoth of the stars.",
+    "es": "Poco tiempo después de que los thukkers empezaran a desplegar cargueros capaces de warpear, otras corporaciones supieron ver el valor táctico inherente de esas naves. Tras extensas negociaciones, Ishukone por fin cerró un acuerdo de datos técnicos clasificados con el que obtenía derecho al diseño original de las innovaciones principales de la tribu Thukker. Esto les permitió sacar al mercado rápidamente el carguero con la mayor capacidad de warpeo, el Rhea, un auténtico mastodonte de las estrellas.",
+    "fr": "Lorsque les Thukker commencèrent à déployer des cargos capables d'effectuer des sauts, les autres corporations se rendirent rapidement compte de la valeur stratégique de tels vaisseaux. Après d'âpres négociations, Ishukone remporta l'affaire en échangeant des données techniques secrètes contre les données principales de l'invention thukker. Le Rhea, véritable mastodonte stellaire, fut alors rapidement mis sur le marché.",
+    "ja": "サッカーがジャンプ可能な超大型輸送艦を配置するようになってから、他のコーポレーションがそのような船に固有の戦術的価値を認めるまでさほど時間はかからなかった。長い交渉の末、最終的にイシュコネは秘密の技術データを提供し、代わりにオリジナルのサッカー部族の設計の基盤となる中核的かつ革新的な技術を受け取るという取引を結んだ。この技術により、イシュコネはジャンプ可能な最大の超大型輸送艦であり星の海を泳ぐ真の巨獣であるレハを迅速にマーケットに投入できたのである。",
+    "ko": "터커 부족이 점프 프레이터를 도입한 지 얼마 지나지 않아 다른 코퍼레이션들도 금세 이 함선이 지닌 전략적인 가치를 알게 되었습니다. 이슈콘은 역대 가장 큰 점프 프레이터인 리아 설계의 기반이 된 핵심 기술 데이터를 얻고자 오랜 기간 터커 부족과 협상해 온 끝에 계약 체결에 성공했습니다.",
+    "ru": "Когда племя таккеров начало использовать фрейтеры, оснащённые гипердвигателями, другие корпорации быстро разглядели огромный тактический потенциал таких судов. После долгих переговоров компания «Ишукон» наконец заключила сделку по обмену секретных инженерных наработок на передовые технологии, лежащие в основе оригинальной конструкции таккеров, и вскоре на рынке появился самый большой фрейтер с гипердвигателем — Rhea, настоящий космический исполин.",
+    "zh": "在图克尔人使用这种能够跳跃的货舰后不久，其他集团便发现了这种舰船的内在战术价值。经过旷日持久的谈判后，异株湖终于达成了购买一项未公开专利的协议。这些数据让他们在核心技术基础上创新强化了图克尔部族的设计，并快速生产出了最大的战略货舰——奥鸟级——星际中真正的庞然大物。"
+  },
+  "factionID": 500001,
+  "graphicID": 20277,
+  "groupID": 902,
+  "marketGroupID": 1091,
+  "mass": 960000000.0,
+  "masteries": {
+    "0": [
+      145,
+      117,
+      118,
+      151
+    ],
+    "1": [
+      145,
+      117,
+      118,
+      151
+    ],
+    "2": [
+      145,
+      117,
+      118,
+      151
+    ],
+    "3": [
+      145,
+      117,
+      118,
+      151
+    ],
+    "4": [
+      145,
+      117,
+      118,
+      151
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Rhea",
     "en": "Rhea",
@@ -10,5 +59,112 @@
     "ru": "Rhea",
     "zh": "奥鸟级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 800.0,
+  "sofFactionName": "ishukone",
+  "soundID": 20069,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonus": 100,
+        "bonusText": {
+          "de": "Reduktion des CPU-Bedarfs für <a href=showinfo:1333>Verstärkte Schotten</a>",
+          "en": "reduction in <a href=showinfo:1333>Reinforced Bulkhead</a> CPU requirements",
+          "es": "de reducción de los requisitos de CPU del <a href=showinfo:1333>mamparo reforzado</a>.",
+          "fr": "réduction de la charge CPU requise pour les <a href=showinfo:1333>cloisons renforcées</a>",
+          "ja": "<a href=showinfo:1333>強化隔壁</a>のCPU要件が減少",
+          "ko": "<a href=showinfo:1333>강화 격벽</a> CPU 사용량 감소",
+          "ru": "сокращается потребность <a href=showinfo:1333>усиленных переборок</a> в мощностях ЦПУ",
+          "zh": "<a href=\"showinfo:1333\">加强型舱隔壁</a>的CPU需求降低"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 90,
+        "bonusText": {
+          "de": "Reduktion der effektiv zurückgelegten Distanz für die Sprungerschöpfung",
+          "en": "reduction to effective distance traveled for jump fatigue",
+          "es": "de reducción de la distancia efectiva hasta sufrir fatiga de salto.",
+          "fr": "de réduction de la distance effectuée pour l'épuisement de saut",
+          "ja": "ジャンプによる疲弊が飛行距離に及ぼす影響を低減",
+          "ko": "이동 거리에 따른 점프 피로도 감소",
+          "ru": "медленнее накапливается усталость от гиперпереходов",
+          "zh": "减少跳跃距离对产生跳跃疲劳的影响"
+        },
+        "importance": 2,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "20526": [
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die Frachtraumkapazität des Schiffs",
+            "en": "bonus to ship cargo capacity",
+            "es": "de bonificación a la capacidad de carga de la nave.",
+            "fr": "de bonus à la capacité de la soute du vaisseau",
+            "ja": "艦船のカーゴ容量が増加",
+            "ko": "화물 적재량 증가",
+            "ru": "увеличивается вместимость грузового отсека корабля",
+            "zh": "舰船货柜舱容量加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf den Trägheitsmodifikator des Schiffs",
+            "en": "bonus to ship inertia modifier",
+            "es": "de bonificación al modificador de inercia de la nave.",
+            "fr": "de bonus au modificateur d'inertie du vaisseau",
+            "ja": "艦船の慣性修正乗数が増加",
+            "ko": "관성 계수 증가",
+            "ru": "уменьшается инертность конструкции корабля",
+            "zh": "舰船惯性调整系数加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ],
+      "29029": [
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf die HP der Panzerung und des Rumpf des Schiffs",
+            "en": "bonus to ship shield and hull hitpoints",
+            "es": "de bonificación a los puntos de vida del escudo y el casco de la nave.",
+            "fr": "bonus aux boucliers et aux PV de la coque du vaisseau",
+            "ja": "艦船のシールド・船体のヒットポイントが増加",
+            "ko": "함선의 실드 및 선체 내구도 증가",
+            "ru": "увеличивается запас прочности щитов и корпуса корабля",
+            "zh": "舰船护盾值和结构值加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Reduktion des Sprungtreibstoff-Bedarfs",
+            "en": "reduction in jump fuel requirement",
+            "es": "de reducción del requisito de combustible para saltos.",
+            "fr": "de réduction au carburant de saut hyperspatial requis",
+            "ja": "ジャンプ燃料使用量が減少",
+            "ko": "요구되는 점프 연료량 감소",
+            "ru": "сокращается потребление топлива гипердвигателем корабля",
+            "zh": "跳跃燃料需求减少"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 20185,
   "volume": 16250000.0
 }

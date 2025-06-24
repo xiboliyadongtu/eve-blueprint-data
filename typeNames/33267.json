@@ -1,5 +1,19 @@
 {
-  "typeID": 33267,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Mit der richtigen Ausrüstung könnten Sie sich in den Kommunikationsturm einhacken und ein paar wertvolle Informationen auslesen.",
+    "en": "If you have the right equipment you might be able to hack into the com tower and get some valuable information.",
+    "es": "Si tienes el equipo adecuado, podrías hackear la torre de comunicaciones y obtener información valiosa.",
+    "fr": "Si vous disposez du matériel adéquat, vous pourrez peut-être pirater cette tour de communication et récupérer des informations précieuses.",
+    "ja": "適切な機器があれば、ハッキングして有益な情報を得ることができる。",
+    "ko": "적합한 장비로 통신타워를 해킹하여 중요한 정보를 추출할 수 있습니다.",
+    "ru": "При наличии необходимого оборудования вы бы смогли взломать башню связи и получить ценную информацию.",
+    "zh": "如果你有正确的设备，你也许可以破解这座通信塔并获得宝贵的信息。"
+  },
+  "graphicID": 24943,
+  "groupID": 1207,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Sansha Com Tower",
     "en": "Sansha Com Tower",
@@ -10,5 +24,9 @@
     "ru": "Sansha Com Tower",
     "zh": "萨沙通信塔"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 300.0,
+  "sofFactionName": "sanshabase",
   "volume": 27500.0
 }

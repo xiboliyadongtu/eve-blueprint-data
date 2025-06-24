@@ -1,5 +1,17 @@
 {
-  "typeID": 25596,
+  "description": {
+    "de": "Ein Multifunktionschip mit digitalem Modulator und einem Oszillator für die Kommunikationshardware von Drohnen. Dieser hier scheint hinüber zu sein.",
+    "en": "A multifunction chip with digital modulator and oscillator utilized in drone communication hardware. This one looks broken.",
+    "es": "Chip multifunción con modulador y oscilador digitales instalado en el hardware de comunicaciones de los drones. Este parece estar roto.",
+    "fr": "Puce multifonction composée d'un oscillateur et d'un modulateur numérique utilisés dans les appareils de communication de drone. Celle-ci a l'air hors d'usage.",
+    "ja": "デジタル変調器と発信器を組み込んだ、ドローン用通信回路で使用される多機能チップ。この部品は破損している。",
+    "ko": "드론 통신 하드웨어에 장착되는 다용도칩으로 디지털 변조기와 발진기가 달려있습니다. 하지만 이 칩은 손상되어있습니다.",
+    "ru": "Многофункциональный чип с цифровым модулятором и вибратором, используемый связном оборудовании дронов. Судя по всему, сломан.",
+    "zh": "配有数字调制装置和振荡器的多功能芯片，用于无人机通讯硬件。这块看上去已经损坏了。"
+  },
+  "groupID": 754,
+  "iconID": 3256,
+  "marketGroupID": 1863,
   "name": {
     "de": "Broken Drone Transceiver",
     "en": "Broken Drone Transceiver",
@@ -10,5 +22,7 @@
     "ru": "Broken Drone Transceiver",
     "zh": "损坏的无人机调制器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

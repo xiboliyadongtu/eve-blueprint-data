@@ -1,5 +1,20 @@
 {
-  "typeID": 4347,
+  "basePrice": 63062.0,
+  "description": {
+    "de": "Steigert die Widerstandsfähigkeit des Schildes gegen alle Schadensarten.<br><br>Nachteil: Beim Einsatz mehrerer Module des gleichen oder ähnlichen Typs, welche die selbe Widerstandsart beeinflussen, wird deren Wirksamkeit für diese Widerstandsart eingeschränkt.",
+    "en": "Boosts shield resistance against all damage types.<br><br>Penalty: Using more than one type of this module, or similar modules that affect the same resistance type, will result in a penalty to the boost you get on that type of resistance.",
+    "es": "Aumenta la resistencia de escudo contra todo tipo de daño.<br><br>Penalización: El uso de más de un tipo de este módulo o módulos similares que afectan al mismo tipo de resistencia afectará al aumento de resistencia obtenido.",
+    "fr": "Augmente la résistance du bouclier à tous les types de dégâts.<br><br>Pénalité : utiliser plus d'un module de ce type ou plusieurs modules similaires liés à un même type de résistance fera l'objet d'une pénalité sur le boost que vous pouvez obtenir pour ce type de résistance.",
+    "ja": "全てのダメージタイプに対するシールドレジスタンスを強化する。<br><br>ペナルティ：同じレジスタンスタイプに関係する同一のモジュール、または類似モジュールを複数取り付けると、そのレジスタンスタイプについて得られる強化量がペナルティを受ける。",
+    "ko": "모든 피해 종류에 대한 실드 저항력을 강화합니다.<br><br>페널티: 동일한 모듈 또는 같은 속성 저항력을 올려주는 모듈 여러 개를 장착할 경우 속성 저항력 증가에 대한 페널티가 부여됩니다.",
+    "ru": "Повышает сопротивляемость силового поля корабля всем видам воздействия.<br><br>Внимание! Установка на борт корабля двух и более модулей, влияющих на сопротивляемость одному и тому же виду воздействия, приведёт к снижению эффективности их действия в отношении данной характеристики.",
+    "zh": "增加护盾抵抗所有类型伤害的能力。<br><br>惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。"
+  },
+  "groupID": 77,
+  "iconID": 81,
+  "marketGroupID": 1696,
+  "mass": 10000.0,
+  "metaGroupID": 6,
   "name": {
     "de": "Pithum A-Type Multispectrum Shield Hardener",
     "en": "Pithum A-Type Multispectrum Shield Hardener",
@@ -10,5 +25,9 @@
     "ru": "Pithum A-Type Multispectrum Shield Hardener",
     "zh": "皮特姆多谱式护盾增强器 A型"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "variationParentTypeID": 578,
   "volume": 5.0
 }

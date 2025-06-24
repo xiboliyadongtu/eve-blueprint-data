@@ -1,5 +1,18 @@
 {
-  "typeID": 23826,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Eine kleine Raketenbatterie zur Bekämpfung von Eindringlingen und anderen Gefahrenquellen.",
+    "en": "A small missile battery designed to repel invaders and other hazards.",
+    "es": "Una pequeña batería de misiles pensada para repeler a invasores y otros peligros.",
+    "fr": "Petite batterie de missiles conçue pour repousser les envahisseurs et les autres dangers.",
+    "ja": "小型のミサイル兵器。侵略者の撃退などに使用する。",
+    "ko": "소형 미사일 포탑으로 침입자 및 각종 위협 요소를 제거합니다.",
+    "ru": "Легкая ракетная батарея, предназначенная для защиты от захватчиков и других угроз.",
+    "zh": "小型导弹炮塔，用于抵御入侵者和其他威胁。"
+  },
+  "graphicID": 2430,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Fortified Amarr Battery",
     "en": "Fortified Amarr Battery",
@@ -10,5 +23,10 @@
     "ru": "Fortified Amarr Battery",
     "zh": "强化的艾玛炮塔"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 200.0,
+  "sofFactionName": "amarrbase",
   "volume": 100000000.0
 }

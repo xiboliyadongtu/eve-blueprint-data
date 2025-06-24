@@ -1,5 +1,17 @@
 {
-  "typeID": 28137,
+  "description": {
+    "de": "Dies ist eine Gruppe Zivilisten.",
+    "en": "This is a group of civilian citizens.",
+    "es": "Grupo de civiles.",
+    "fr": "Groupe de civils.",
+    "ja": "一般市民のグループ。",
+    "ko": "민간인 그룹입니다.",
+    "ru": "Это группа состоит из гражданских лиц.",
+    "zh": "这是一群普通公民。"
+  },
+  "groupID": 283,
+  "iconID": 1204,
+  "mass": 400.0,
   "name": {
     "de": "Citizens",
     "en": "Citizens",
@@ -10,5 +22,8 @@
     "ru": "Citizens",
     "zh": "公民"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
   "volume": 1000.0
 }

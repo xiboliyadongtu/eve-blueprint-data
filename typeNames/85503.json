@@ -1,5 +1,17 @@
 {
-  "typeID": 85503,
+  "description": {
+    "de": "Eine Drifter-Struktur, die für die Bereitstellung von Unterbrechungsblasen im Falle einer Gebietsabriegelung vorbereitet ist. Die uralten Protokolle, die dieses System kontrollieren, können mit einem Reliktanalysegerät deaktiviert werden.",
+    "en": "A Drifter structure primed to deploy interdiction bubbles in the event of a site Lockdown. The ancient protocols controlling this system can be disabled with a Relic Analyzer.",
+    "es": "Una estructura drifter preparada para desplegar burbujas de interdicción en caso de que se produzca un bloqueo de la zona. Los antiguos protocolos que controlan este sistema se pueden desactivar con un analizador de reliquias.",
+    "fr": "Une structure drifter prête à déployer des bulles d'interdiction en cas de confinement du site. Les protocoles anciens qui régissent ce système peuvent être désactivés à l'aide d'un analyseur de reliques.",
+    "ja": "サイトがロックダウンされた際にインターディクションバブルを放出する、ドリフターのストラクチャ。システムは古代のプロトコルに制御されており、遺物アナライザーで無効化できる。",
+    "ko": "폐쇄 절차가 발동되면 인터딕션 버블을 발사하는 드리프터 구조물입니다. 유물 분석기로 해킹하면 고대 조브 통제 시스템이 구조물을 활성화할 수 없게 막을 수 있습니다.",
+    "ru": "Сооружение Скитальцев, которое создаёт заградительные сферы в ходе процедуры изоляции. Используйте анализатор артефактов, чтобы отключить древние протоколы этой системы.",
+    "zh": "一种流浪者设施，一旦发生封锁便会部署拦截泡。使用遗迹分析仪可以关闭控制该系统的远古协议。"
+  },
+  "graphicID": 28013,
+  "groupID": 319,
+  "mass": 1000.0,
   "name": {
     "de": "Patient Jailer",
     "en": "Patient Jailer",
@@ -10,5 +22,8 @@
     "ru": "Patient Jailer",
     "zh": "耐心监禁者"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 241.0,
+  "sofFactionName": "drifter"
 }

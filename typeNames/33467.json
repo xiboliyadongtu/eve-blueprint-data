@@ -1,5 +1,18 @@
 {
-  "typeID": 33467,
+  "basePrice": 3000000.0,
+  "description": {
+    "de": "Erfahrung im Kampf mit der Zollbürokratie. Verringert die Import- und Exportsteuern bei imperialen Zollämtern um 10 % je Skillstufe. Hat keinen Einfluss auf Zollämter von InterBus.",
+    "en": "Expertise in cutting through the red tape of customs regulations. Reduces Import and Export empire tax in Customs Offices by 10% per level.\r\n\r\nThis does not affect InterBus Customs Offices.",
+    "es": "Habilidad para ahorrarse la burocracia de las aduanas. Reduce los impuestos aduaneros de importación y exportación del Imperio un 10 % por nivel.\n\n\n\nEsto no afecta a las aduanas de InterBus.",
+    "fr": "Expertise permettant de simplifier les formalités administratives dans le domaine des douanes. Réduit de 10 % par niveau les taxes impériales à l'import et à l'export aux bureaux de douane. Cela n'a aucun effet sur les bureaux de douane de l'InterBus.",
+    "ja": "複雑怪奇な税関の規制をすり抜けるための専門知識。税関の輸出入税をレベル上昇ごとに10%減らす。\r\n\nインターバスの税関には無効。",
+    "ko": "복잡한 관료주의로 절차에 얽힌 세관 업무를 빠르게 해소할 수 있는 지식 스킬입니다. <br><br>매 레벨마다 수출입에 대한 제국의 관세가 10% 감소합니다. <br><br>인터부스 세관 사무소는 적용되지 않습니다.",
+    "ru": "Опыт в преодолении бюрократической волокиты таможенных правил. Снижает госпошлину на импорт и экспорт, взимаемую на таможне, на 10% за каждый уровень. Не влияет на таможенные офисы консорциума «ИнтерБас».",
+    "zh": "精于同各种海关官僚打交道的技能。每升一级，海关办公室的进出口税率降低10%。\n\n\n\n对星系捷运海关办公室不起作用。"
+  },
+  "groupID": 274,
+  "iconID": 33,
+  "marketGroupID": 378,
   "name": {
     "de": "Customs Code Expertise",
     "en": "Customs Code Expertise",
@@ -10,5 +23,7 @@
     "ru": "Сокращение таможенных издержек",
     "zh": "海关操作专业理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

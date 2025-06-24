@@ -1,5 +1,21 @@
 {
-  "typeID": 208,
+  "basePrice": 3000.0,
+  "description": {
+    "de": "Ursprünglich als Rakete für den Fangschuss entworfen, um einem beschädigten Schiff den Todesstoß zu geben, hat die Inferno Heavy Missile seither eine Reihe technischer Upgrades durchlaufen. Die neueste Version hat eine leichtere Sprengladung als das Original, aber stark verbesserte Lenksysteme.",
+    "en": "Originally designed as a 'finisher' - the killing blow to a crippled ship - the Inferno heavy missile has since gone through various technological upgrades. The latest version has a lighter payload than the original, but much improved guidance systems.",
+    "es": "Diseñado originalmente como «rematador», encargado de dar el golpe de gracia a las naves atacadas, el misil pesado Inferno ha sido sometido desde entonces a varias mejoras tecnológicas. La última versión tiene una carga útil más ligera que la original, pero unos sistemas de guiado mucho más optimizados.",
+    "fr": "Conçu à l'origine pour donner le coup de grâce, le missile lourd Inferno a depuis subi de nombreuses améliorations techniques. La dernière version emporte une charge utile réduite par rapport à l'originale, mais est dotée de systèmes de guidage améliorés.",
+    "ja": "元々「フィニッシャー」―大破した船にとどめを刺す兵器として設計されたインフェルノヘビーミサイルは、以来各種の技術改良を経てきた。現行型は初期型より軽い弾頭を採用しているが、それを補って余りある優れた誘導システムを持つ。",
+    "ko": "마무리 일격을 가하는 미사일입니다. 인페르노 헤비 미사일은 기술적인 면에서 끊임없는 개량을 거쳐왔습니다. 최신식 인페르노 미사일의 경우 기존의 형태에 비해 파괴력은 약화되었으나 반대로 유도 시스템의 성능은 눈에 띄게 상승했습니다.",
+    "ru": "Тяжелая ракета Inferno изначально была спроектирована как «оружие последнего удара» для уничтожения подбитых кораблей. С тех пор было выпущено несколько ее модификаций. В последней модификации используется заряд меньшей мощности, но более совершенная система наведения.",
+    "zh": "炼狱重型导弹历经多种技术改良，原本被设计为给予落魄敌舰最后一击的“终结者”角色。相比原型，最新版导弹载荷较轻，但装配了大幅改进的制导系统。"
+  },
+  "graphicID": 20048,
+  "groupID": 385,
+  "iconID": 188,
+  "marketGroupID": 924,
+  "mass": 1000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Inferno Heavy Missile",
     "en": "Inferno Heavy Missile",
@@ -10,5 +26,8 @@
     "ru": "Inferno Heavy Missile",
     "zh": "炼狱重型导弹"
   },
+  "portionSize": 100,
+  "published": true,
+  "radius": 300.0,
   "volume": 0.03
 }

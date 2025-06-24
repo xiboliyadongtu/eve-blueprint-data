@@ -1,5 +1,17 @@
 {
-  "typeID": 353381,
+  "basePrice": 48000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Fahrzeugsystemen.\n\nSchaltet trainierbare Skills zur Bedienung von Fahrzeugen frei.",
+    "en": "Skill at operating vehicle systems.\r\n\r\nUnlocks skills that can be trained to operate vehicles.",
+    "es": "Habilidad de manejo de sistemas de vehículos. \n\nDesbloquea habilidades que se pueden entrenar para manejar vehículos.",
+    "fr": "Compétence permettant d'utiliser les systèmes de véhicule.\n\nDéverrouille les compétences vous permettant d'utiliser des véhicules.",
+    "it": "Abilità nell'utilizzo dei sistemi dei veicoli.\n\nSblocca le abilità che è possibile allenare per utilizzare i veicoli.",
+    "ja": "車両を扱うためのスキル。\n\n車両を操作するためのスキルを鍛錬する。",
+    "ko": "차량 조종을 위한 스킬입니다. <br><br>차량 조종 관련 스킬을 개방합니다.",
+    "ru": "Навык управления системами транспорта.\n\nОткрывает группу навыков, изучение которых позволяет управлять транспортом.",
+    "zh": "操作载具系统的技能。解锁训练后可操作载具的技能。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Beherrschung: Fahrzeuge",
     "en": "Vehicle Command",
@@ -11,5 +23,7 @@
     "ru": "Вождение транспорта",
     "zh": "车辆指挥"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 30901,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese rätselhafte Struktur ist augenscheinlich vollgepackt mit ingenieurwissenschaftlichen Subsystemen. Ein Außensystem zur Verteidigung ist nach wie vor online und schützt die Anlage vor feindlichen Übergriffen. Im Inneren der Station befinden sich undurchdringbare Datennetzwerke, welche von verschlungenen Kabeln und Leitungen gespeist werden.",
+    "en": "This enigmatic structure appears to house numerous engineering subsystems. An outer defense system is still online, shielding the installation from any hostile actions. Inside the facility there is a maze of data networks tangled amongst the cables and conduits that sustain them.",
+    "es": "Esta enigmática estructura parece albergar numerosos subsistemas de ingeniería. Un sistema de defensa exterior sigue conectado y protege la instalación de cualquier acción hostil. Dentro del complejo hay un laberinto de redes de datos enredadas entre los cables y conductos que las sustentan.",
+    "fr": "Cette structure énigmatique semble abriter de nombreux sous-systèmes d'ingénierie. Un système de défense extérieur est encore en ligne, protégeant l'installation de toute action hostile. À l'intérieur de la structure se trouve un labyrinthe de réseaux de données enchevêtrés au milieu des câbles et des conduits qui les alimentent.",
+    "ja": "この得体の知れない建造物の中には、エンジニアリングサブシステムがたくさん保管されているようである。外部の防衛システムは今も稼働しており、攻撃から装置を保護している。施設内部には、ケーブルや導管に絡まるように入り組んだデータネットワークがあり、このデータネットワークはケーブルや導管によって維持されている。",
+    "ko": "다수의 엔지니어링 서브시스템이 설치된 구조물입니다. 외곽 방어 시스템이 온라인 상태로, 외부 공격으로부터 구조물을 방어합니다. 시설 내부에는 수많은 데이터 네트워크와 전선들이 얼기설기 엉켜 있습니다.",
+    "ru": "Судя по всему, это загадочное сооружение содержит множество инженерных подсистем. Система его защиты все еще функционирует, так что постройке и ее содержимому ничего не грозит. Внутри находится настоящий лабиринт из перевиты кабелями и шлангами, поддерживающими их.",
+    "zh": "这个神秘的建筑物看上去容纳了无数的工程之系统构件。它的外围防御系统依然处于活跃状态，可在建筑物遭受攻击的时候提供保护。在设施的内部，无数的数据网络模块被各种电缆线路相互连接交织在一起。"
+  },
+  "graphicID": 3567,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Sleeper Engineering Station",
     "en": "Sleeper Engineering Station",
@@ -10,5 +23,10 @@
     "ru": "Sleeper Engineering Station",
     "zh": "冬眠者工程站"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 7684.0,
+  "sofFactionName": "sleeperbase",
+  "soundID": 20187,
   "volume": 100000000.0
 }

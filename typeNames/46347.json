@@ -1,5 +1,18 @@
 {
-  "typeID": 46347,
+  "description": {
+    "de": "Die Eosian Inquisitor hat dasselbe grundlegende Design wie Drohnen der Sleeper, die mit den Driftern verbündet waren. Sie sehen wie Circadian Seeker aus, sind anscheinend jedoch viel gefährlicher. \n\n\n\nDiese Sleeper-Drohne will anscheinend Technologie aus den Wracks der Drifter bergen oder andere daran hindern, dies zu tun. Sie hat womöglich Gegenstände geladen, die sie im Kriegsgebiet gesammelt hat, das sie sondiert.",
+    "en": "The Eosian Inquisitor shares the same basic design of Drifter-allied Sleeper drones such as the Circadian Seekers but appears to be much more dangerous. \r\n\r\nThis Sleeper drone seems to be very keen to retrieve technology from Drifter wrecks, or stop others from doing the same. It may well be loaded with items it has already collected from the warzone it is investigating.",
+    "es": "La Inquisitor eosiana comparte el mismo diseño básico de los drones sleepers aliados con los drifters, como los seekers circadianos, pero tiene pinta de ser mucho más peligrosa.\n\nEste dron sleeper parece muy interesando en recuperar tecnología drifter, o en impedir que otros hagan lo mismo. Tal vez esté cargado de objetos que ha recogido en la zona de guerra que explora.",
+    "fr": "L'Inquisitor eosien a une apparence de base similaire à celle des drones sleeper alliés des Drifters, tels que les seekers circadiens, mais il semble bien plus dangereux. Ce drone sleeper ne s'intéresse qu'à deux choses : récupérer des technologies des épaves de Drifters, et empêcher les autres de faire de même. Il peut tout aussi bien être bourré d'objets qu'il a déjà récupérés dans la zone de guerre qu'il fouille.",
+    "ja": "エオシアン・インクイジターは、サーカディアン・シーカーズのようなドリフターであるスリーパー・ドローンと基本的なデザインは同じだが、より危険なものになっているようだ。\r\n\nこのスリーパー・ドローンは、ドリフターの難破船から技術を回収したり、他の人が同じことをするのを止めたりすることに熱心なようだ。調査している戦場から集めた物を積んでいるかもしれない。",
+    "ko": "에오시안 인퀴지터의 디자인은 드리프터와 연합한 슬리퍼 드론이 활용하는 기본 디자인과 같으며 이는 서카디안 시커에서도 볼 수 있습니다. <br><br>해당 슬리퍼 드론은 드리프터 잔해물로부터 기술을 획득하고자 열렬히 활동하는 동시에 다른 존재들이 얻지 못하도록 방해하고 있습니다. 조사가 진행되던 교전지에서 얻은 물품이 적재되어있을 수 있습니다.",
+    "ru": "«Эосский Инквизитор» очень похож на дроны Спящих, которые в союзе со Скитальцами — например, «Искатели Узоров» — однако, выглядит он в разы опаснее. \n\n\n\nЭтот дрон Спящих намеревается либо забрать технику из обломков кораблей Скитальцев, либо помешать остальным сделать то же самое. Может быть, он уже изрядно нагружен добычей из зоны боевых действий, которую сейчас исследует.",
+    "zh": "黎明检察官与作为流浪者同盟的冬眠者无人机（例如节律探寻者）的基础设计相同，但似乎要危险得多。 \n\n\n\n这个冬眠者无人机似乎非常急于从流浪者残骸中回收技术，或者说阻止其他人做这样的事。它可能已经装载着从搜查过的战斗区域中收集来的物品。"
+  },
+  "factionID": 500021,
+  "graphicID": 20978,
+  "groupID": 1665,
+  "mass": 2000000.0,
   "name": {
     "de": "Eosian Inquisitor",
     "en": "Eosian Inquisitor",
@@ -10,5 +23,10 @@
     "ru": "Eosian Inquisitor",
     "zh": "黎明检察官"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 64,
+  "radius": 50.0,
+  "sofFactionName": "sleeperbase",
+  "soundID": 12
 }

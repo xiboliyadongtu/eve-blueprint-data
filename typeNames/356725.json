@@ -1,5 +1,17 @@
 {
-  "typeID": 356725,
+  "basePrice": 66000.0,
+  "description": {
+    "de": "Grundlegendes Wissen über Scannen und Sensoren. \n\n5% geringere CPU-Auslastung durch Scan- und Sensormodule pro Skillstufe.",
+    "en": "Basic understanding of scanning and sensors. \r\n\r\n5% reduction to CPU usage of scanning and sensor modules per level.",
+    "es": "Conocimiento básico de escáneres y sensores. \n\n-5% al coste de CPU de los módulos de escáner y sensores por nivel.",
+    "fr": "Notions de base du balayage et des détecteurs. \n\n5 % de réduction de l'utilisation de CPU des modules de balayage et de détection par niveau.",
+    "it": "Comprensione base del processo di scansione e di sensori. \n\n5% di riduzione all'utilizzo della CPU di moduli di scansione e di sensori per livello.",
+    "ja": "スキャンとセンサーの基本的な理解。\n\nレベル上昇ごとに、スキャンとセンサーモードのCPU使用量が5%減少する。",
+    "ko": "스캔 및 센서에 대한 기본적인 이해를 습득합니다. <br><br>매 레벨마다 스캔 및 센서 모듈의 CPU 사용량 5% 감소",
+    "ru": "Понимание основных принципов работы датчиков и систем сканирования. \n\n5% снижение потребления ресурсов ЦПУ датчиками и модулями сканирования на каждый уровень.",
+    "zh": "扫描和传感器基本知识。每升一级，扫描和传感装备的CPU使用率降低5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Sensorenupgrades",
     "en": "Sensor Upgrades",
@@ -11,5 +23,7 @@
     "ru": "Модернизация сенсорных систем",
     "zh": "传感器升级件"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

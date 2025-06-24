@@ -1,5 +1,19 @@
 {
-  "typeID": 86216,
+  "basePrice": 3000000.0,
+  "description": {
+    "de": "Dieser Datenkern enthält die komplex verschlüsselten Daten, die von einer Sternwarte gesammelt wurden. Obwohl unklar ist, welche Informationen er enthält, handelt es sich garantiert um wertvolle Forschung.",
+    "en": "This data core contains the complex encrypted data gathered by a stellar observatory. Though what information it contains is unclear, it is certainly valuable research.",
+    "es": "Este núcleo de datos contiene datos cifrados complejos recopilados por un observatorio estelar. Aunque no está claro qué información contiene, sin duda es una investigación valiosa.",
+    "fr": "Ce noyau de données renferme des données cryptées complexes recueillies par un observatoire stellaire. Bien que le contenu exact de ces informations reste flou, elles ont sans aucun doute une valeur de recherche considérable.",
+    "ja": "このデータコアには恒星観測所が収集した複雑な暗号化データが含まれている。情報の内容は定かではないが、貴重な研究であることは間違いない。",
+    "ko": "해당 데이터 코어에는 천체 관측소에서 수집한 복잡한 암호화 데이터가 담겨있습니다. 수록된 정보를 자세히 알 수 없지만 귀중한 연구 자료가 될 것입니다.",
+    "ru": "Это ядро данных содержит развёрнутую зашифрованную сводку из звёздной обсерватории. Чему она посвящена — неизвестно, но одно можно сказать наверняка: это важная информация.",
+    "zh": "该数据核心包含由星际观测站收集的复杂加密数据。虽然其中包含的内容尚未可知，但肯定值得研究。"
+  },
+  "groupID": 4827,
+  "iconID": 21982,
+  "marketGroupID": 2480,
+  "mass": 1.0,
   "name": {
     "de": "Stellar Surveillance Data",
     "en": "Stellar Surveillance Data",
@@ -10,5 +24,7 @@
     "ru": "Stellar Surveillance Data",
     "zh": "星际侦察数据"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,70 @@
 {
-  "typeID": 11381,
+  "basePrice": 22600000.0,
+  "capacity": 165.0,
+  "description": {
+    "de": "Trotz ihrer anfänglich geringen Verbreitung hat die Harpy bereits einen guten Ruf. Sie ist eine kampfstarke Railgun-Plattform mit Langstreckenkapazität und starken Verteidigungssystemen. Hervorragend geeignet sowohl für Duelle wie auch für Unterstützungseinsätze wurde sie von den Piloten, die an ihren Sicherheits- und Leistungstests teilgenommen haben, als \"kleine Moa\" bezeichnet.",
+    "en": "Already possessing a reputation despite its limited initial circulation, the Harpy is a powerful railgun platform with long range capability and strong defensive systems. Formidable both one-on-one and as a support ship, it was referred to as the \"little Moa\" by the pilots who participated in its safety and performance testing.",
+    "es": "La Harpy, que ya era reputada a pesar de su limitada circulación inicial, es una poderosa plataforma de cañón electromagnético con capacidad de largo alcance y fuertes sistemas defensivos. Es formidable tanto como nave de uno contra uno como de apoyo, y los pilotos que participaron en sus pruebas de seguridad y rendimiento la denominaba «pequeña Moa».",
+    "fr": "Doté d'une solide réputation malgré le peu d'exemplaires produits, le Harpy est une puissante plateforme de canon à rail à longue portée et disposant de puissants systèmes de défense. Formidable en combat rapproché comme en vaisseau d'appui, elle a été surnommée « petit Moa » par les pilotes qui ont participé aux essais de performance et de défense.",
+    "ja": "ハーピーは、限定発売でありながら人気のあるタイプで、長距離射撃に優れ、防御力も高いレールガン艦である。一対一の戦闘でも支援艦としても際だった性能を発揮し、安全性とパフォーマンス面をテストしたパイロットたちからは『小さなモア』とあだ名されたほどだ。",
+    "ko": "강력한 레일건 플랫폼이라는 명성을 지닌 함선으로 장거리 포격 능력과 견고한 방어 체계를 갖추고 있습니다. 1대1일 교전 능력이 우수하며 지원함으로도 활용이 가능합니다. 시험 비행에 참여했던 테스트 파일럿들은 하피를 두고 '작은 모아'라 평가했습니다.",
+    "ru": "Хотя изначально Harpy выпускались очень ограниченными партиями, они быстро заслужили высокую репутацию благодаря отличным защитными системам и мощностям, позволяющим использовать рельсотроны дальнего действия. Пилоты, принимавшие участие в тестировании производительности и безопасности этих судов, окрестили их «маленькими Moa» за способность достойно выступать как в одиночных схватках, так и в снабженческой роли.",
+    "zh": "尽管女妖级的首批发行量很有限，但它作为拥有远程能力和坚固防御力的磁轨炮平台，早已名声在外。无论是单兵作战还是作为支援舰，它都非常强大，被参与安全和性能测试的飞行员称为“小巨鸟”级。"
+  },
+  "factionID": 500001,
+  "graphicID": 1901,
+  "groupID": 324,
+  "marketGroupID": 434,
+  "mass": 1039500.0,
+  "masteries": {
+    "0": [
+      96,
+      67,
+      150,
+      139,
+      99,
+      85,
+      94
+    ],
+    "1": [
+      96,
+      67,
+      150,
+      139,
+      99,
+      85,
+      94
+    ],
+    "2": [
+      96,
+      67,
+      150,
+      139,
+      99,
+      85,
+      94
+    ],
+    "3": [
+      96,
+      67,
+      150,
+      139,
+      99,
+      85,
+      94
+    ],
+    "4": [
+      96,
+      67,
+      150,
+      139,
+      99,
+      85,
+      118,
+      94
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Harpy",
     "en": "Harpy",
@@ -10,5 +75,111 @@
     "ru": "Harpy",
     "zh": "女妖级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 39.0,
+  "sofFactionName": "ishukone",
+  "soundID": 20070,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Kann <a href=showinfo:47254>Angriffsschadensregulierer</a> ausrüsten",
+          "en": "Can fit <a href=showinfo:47254>Assault Damage Controls</a>",
+          "es": "Es posible equipar <a href=showinfo:47254>controles de daños por asalto</a>.",
+          "fr": "Peut être équipé des <a href=showinfo:47254>contrôles des dégâts d'assaut</a>",
+          "ja": "<a href=showinfo:47254>アサルトダメージ制御</a>を装備可能",
+          "ko": "<a href=showinfo:47254>어썰트 데미지 컨트롤</a> 장착가능",
+          "ru": "Позволяет установить <a href=showinfo:47254>ударные модули боевой живучести</a>",
+          "zh": "可以装配<a href=showinfo:47254>突击损伤控制</a>装备"
+        },
+        "importance": 2
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Reduktion des <a href=showinfo:3454>Mikrowarpantrieb</a>-Signaturradius",
+          "en": "reduction in <a href=showinfo:3454>Microwarpdrive</a> signature radius penalty",
+          "es": "de reducción de la penalización de radio de la señal del <a href=showinfo:3454>motor de microwarp</a>.",
+          "fr": "de réduction à la pénalité de rayon de signature des <a href=showinfo:3454>propulseurs de microwarp</a>",
+          "ja": "<a href=showinfo:3454>マイクロワープドライブ</a>のシグネチャ半径ペナルティが軽減",
+          "ko": "<a href=showinfo:3454>마이크로 워프 드라이브</a> 시그니처 반경 페널티 감소",
+          "ru": "уменьшается влияние <a href=showinfo:3454>микроварп-ускорителей</a> на размер сигнатуры корабля",
+          "zh": "<a href=\"showinfo:3454\">微型跃迁推进器</a>的信号半径惩罚加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3330": [
+        {
+          "bonus": 4.0,
+          "bonusText": {
+            "de": "Bonus auf alle Schildresistenzen",
+            "en": "bonus to all shield resistances",
+            "es": "de bonificación a todas las resistencias de escudo.",
+            "fr": "de bonus à toutes les résistances de bouclier",
+            "ja": "全てのシールドレジスタンスが増加",
+            "ko": "모든 실드 저항력 증가",
+            "ru": "повышается сопротивляемость щитов корабля всем видам воздействия",
+            "zh": "护盾抗性加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die optimale Reichweite von <a href=showinfo:3301>kleinen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3301>Small Hybrid Turret</a> optimal range",
+            "es": "de bonificación al alcance óptimo de la <a href=showinfo:3301>torreta híbrida pequeña</a>.",
+            "fr": "de bonus à la portée optimale des <a href=showinfo:3301>petites tourelles hybrides</a>",
+            "ja": "<a href=showinfo:3301>小型ハイブリッドタレット</a>の最適射程距離が拡大",
+            "ko": "<a href=showinfo:3301>소형 하이브리드 터렛</a> 최적사거리 증가",
+            "ru": "увеличивается оптимальная дальность ведения огня из <a href=showinfo:3301>малых гибридных орудий</a>",
+            "zh": "<a href=\"showinfo:3301\">小型混合炮台</a>最佳射程加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ],
+      "12095": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3301>kleinen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3301>Small Hybrid Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3301>torreta híbrida pequeña</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:3301>petites tourelles hybrides</a>",
+            "ja": "<a href=showinfo:3301>小型ハイブリッドタレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3301>소형 하이브리드 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон боеприпасов <a href=showinfo:3301>малых гибридных орудий</a>",
+            "zh": "<a href=\"showinfo:3301\">小型混合炮台</a>伤害加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die optimale Reichweite von <a href=showinfo:3301>kleinen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3301>Small Hybrid Turret</a> optimal range",
+            "es": "de bonificación al alcance óptimo de la <a href=showinfo:3301>torreta híbrida pequeña</a>.",
+            "fr": "de bonus à la portée optimale des <a href=showinfo:3301>petites tourelles hybrides</a>",
+            "ja": "<a href=showinfo:3301>小型ハイブリッドタレット</a>の最適射程距離が拡大",
+            "ko": "<a href=showinfo:3301>소형 하이브리드 터렛</a> 최적사거리 증가",
+            "ru": "увеличивается оптимальная дальность ведения огня из <a href=showinfo:3301>малых гибридных орудий</a>",
+            "zh": "<a href=\"showinfo:3301\">小型混合炮台</a>最佳射程加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 603,
   "volume": 16500.0
 }

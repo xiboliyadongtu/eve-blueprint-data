@@ -1,5 +1,17 @@
 {
-  "typeID": 87227,
+  "description": {
+    "de": "Energiesignaturen deuten darauf hin, dass diese Struktur über eine Art Hyperraum-Kommunikationsnetzwerk Daten aus dem gesamten System bezieht. All diese Daten werden in Virtualitäten eingespeist, von denen eine im Dreamer und andere anderswo gehostet werden und die alle über den Hyperraum aus der Ferne verbunden sind.",
+    "en": "Energy signatures indicate that this structure is pulling in data from all across the system via some kind of hyperspace communications network. All that data is being fed into virtualities, one hosted inside the Dreamer and others hosted elsewhere that are remotely connected via hyperspace.",
+    "es": "Las señales de energía indican que esta estructura está captando datos de todo el sistema a través de algún tipo de red de comunicaciones hiperespacial. Todos esos datos se están introduciendo en virtualidades, unos alojados dentro del Dreamer y otros alojados en otros lugares que están conectados de forma remota a través del hiperespacio.",
+    "fr": "Les signatures énergétiques indiquent que cette structure extrait des données de l'ensemble du système via un réseau de communications hyperspatiales. Toutes ces données alimentent des virtualités, dont une est hébergée à l'intérieur du Rêveur et d'autres ailleurs, via une connexion à distance par l'hyperespace.",
+    "ja": "エネルギーシグネチャによると、このストラクチャはある種のハイパースペース通信ネットワークを経由してシステム中からデータを集めている。データは全て複数の仮想空間に取り込まれており、仮想空間のひとつはドリーマー内部でホストされている一方、他の仮想空間はハイパースペース経由で接続されている離れた場所にホスト施設が存在する。",
+    "ko": "구조물의 에너지 시그니처를 분석했습니다. 일종의 하이퍼스페이스 통신 연결을 통해 성계 전체에서 각종 데이터를 수집하는 장비로 보입니다. 수집된 데이터는 본 구조물을 통제하는 드리머를 포함해 성계 내부에서 하이퍼스페이스로 연결된 모든 드리머에게 가상 현실로 제공됩니다.",
+    "ru": "Энергетические сигнатуры указывают на то, что это сооружение собирает данные по всей системе с помощью некой гиперпространственной коммуникационной сети. Все собранные данные передаются в виртуальные хранилища, одно из которых располагается внутри Dreamer, а остальные — в иных местах, объединённых гиперпространственной сетью.",
+    "zh": "能量特征表明，该设施正在通过某种超空间通信网络从整个星系中提取数据。所有这些数据都被输入到虚拟世界中，其中一个虚拟世界存储在逐梦者内部，而其他虚拟世界则存储在别的地方，虚拟世界之间通过超空间远程连接。"
+  },
+  "graphicID": 28016,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Vigilant Dreamer",
     "en": "Vigilant Dreamer",
@@ -10,5 +22,9 @@
     "ru": "Vigilant Dreamer",
     "zh": "警惕级逐梦者"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 5500.0,
+  "sofFactionName": "drifter",
   "volume": 100000000.0
 }

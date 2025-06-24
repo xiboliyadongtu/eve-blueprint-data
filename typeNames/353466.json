@@ -1,5 +1,17 @@
 {
-  "typeID": 353466,
+  "basePrice": 567000.0,
+  "description": {
+    "de": "Skill zur Benutzung von Lasergewehren.\n\n+3% auf die Schadenswirkung von Lasergewehren pro Skillstufe.",
+    "en": "Skill at handling laser rifles.\r\n\r\n+3% laser rifle damage against shields per level.",
+    "es": "Habilidad de manejo de fusiles láser.\n\n\n\n+3% al daño de los fusiles láser por nivel.",
+    "fr": "Compétence permettant de manipuler les fusils laser.\n\n+3 % de dommages du fusil laser par niveau.",
+    "it": "Abilità nel maneggiare fucili laser.\n\n+3% ai danni inflitti dal fucile laser per livello.",
+    "ja": "レーザーライフルを扱うスキル。\n\nレベル上昇ごとに、レーザーライフルがシールドに与えるダメージが3%増加する。",
+    "ko": "레이저 라이플 운용을 위한 스킬입니다.<br><br>매 레벨마다 실드에 가해지는 레이저 라이플 피해량 3% 증가",
+    "ru": "Навык обращения с лазерными винтовками.\n\n+3% к наносимому лазерными винтовками урону на каждый уровень.",
+    "zh": "使用激光步枪的技能。每升一级，激光步枪对护盾造成的伤害提高3%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Fertigkeit: Lasergewehr",
     "en": "Laser Rifle Proficiency",
@@ -11,5 +23,7 @@
     "ru": "Эксперт по лазерным винтовкам",
     "zh": "激光步枪熟练度"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

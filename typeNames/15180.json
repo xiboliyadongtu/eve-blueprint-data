@@ -1,5 +1,19 @@
 {
-  "typeID": 15180,
+  "description": {
+    "de": "Ein Feld aus mikroskopisch kleinen, reaktiven Prismen, die elektromagnetische Strahlung zerstreuen. Gewährt einen Bonus auf die Panzerungsresistenz gegen EM-Schaden. Abzug: Beim Einsatz mehrerer Module des gleichen oder eines ähnlichen Typs, welche dasselbe Attribut beeinflussen, wird deren Wirksamkeit für dieses Attribut eingeschränkt.",
+    "en": "An array of microscopic reactive prisms that disperse electromagnetic radiation. Grants a bonus to armor EM damage resistance.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",
+    "es": "Sistema de prismas reactivos microscópicos que dispersan la radiación electromagnética. Otorga una bonificación a la resistencia del blindaje a daños electromagnéticos.\n\n\n\nPenalización: Por usar más de un tipo de módulo o módulos similares que afecten al mismo atributo de la nave.",
+    "fr": "Bloc de prismes réactifs microscopiques permettant de disperser les radiations électromagnétiques. Offre un bonus à la résistance du blindage aux dégâts EM. Pénalité : utiliser plus d'un module de ce type ou plusieurs modules modifiant un même attribut du vaisseau fera l'objet d'une pénalité.",
+    "ja": "EM放射を散乱する超小型反応プリズムが配列されている。アーマーのEMダメージ耐性にボーナスを付与する。\r\n\nペナルティ： 船の同じ属性に関係する同タイプ、もしくは類似のモジュールを複数取り付けると、モジュールの効果が低下する。",
+    "ko": "다수의 초소형 프리즘을 통해 전자기 방사선을 분산시켜 장갑의 EM 저항력을 증가시킵니다. <br><br>페널티: 동일한 속성의 모듈 여러 개를 장착할 경우 페널티가 부여됩니다.",
+    "ru": "Совокупность микроскопических возвратных призм, рассеивающих электромагнитное излучение. Даёт бонус к сопротивляемости брони ЭМ-урону. Внимание! Установка на борт корабля двух и более модулей, влияющих на одну и ту же характеристику, приведёт к снижению эффективности их действия в отношении данной характеристики.",
+    "zh": "分散电磁辐射的精微反应式棱镜阵列。提高装甲的电磁抗性。\n\n\n\n惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。"
+  },
+  "groupID": 98,
+  "iconID": 20956,
+  "marketGroupID": 1668,
+  "mass": 1.0,
+  "metaGroupID": 5,
   "name": {
     "de": "Brynn's Modified EM Coating",
     "en": "Brynn's Modified EM Coating",
@@ -10,5 +24,9 @@
     "ru": "Brynn's Modified EM Coating",
     "zh": "布瑞恩氏改良型电磁涂层"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 10.0,
+  "variationParentTypeID": 1197,
   "volume": 5.0
 }

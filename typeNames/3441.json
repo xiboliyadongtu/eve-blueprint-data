@@ -1,5 +1,18 @@
 {
-  "typeID": 3441,
+  "basePrice": 500000.0,
+  "description": {
+    "de": "Fertigkeit zur Steuerung von schweren Kampfdrohnen. 5% Bonus auf den Schaden von schweren Drohnen je Skillstufe",
+    "en": "Skill at controlling heavy combat drones. 5% bonus to heavy drone damage per level.",
+    "es": "Habilidad para controlar drones de combate pesados. 5 % de bonificación al daño de los drones pesados por nivel de habilidad.",
+    "fr": "Compétence liée au contrôle des drones de combat lourds. Augmente de 5 % les dégâts des drones lourds par niveau de compétence.",
+    "ja": "大型の戦闘用ドローンを操作するスキル。レベル上昇ごとに大型ドローンダメージが5%増加。",
+    "ko": "헤비 어택 드론 운용을 위한 스킬입니다. 매 레벨마다 헤비 드론 피해량 5% 증가",
+    "ru": "Навык эксплуатации тяжёлых боевых дронов. За каждую степень освоения навыка: на 5% повышается урон бортового оружия тяжёлых дронов.",
+    "zh": "操纵重型战斗无人机的技能。每升一级，重型无人机伤害提高5%。"
+  },
+  "groupID": 273,
+  "iconID": 33,
+  "marketGroupID": 366,
   "name": {
     "de": "Heavy Drone Operation",
     "en": "Heavy Drone Operation",
@@ -10,5 +23,7 @@
     "ru": "Тяжёлые боевые дроны",
     "zh": "重型无人机操控理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

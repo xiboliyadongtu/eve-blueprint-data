@@ -1,5 +1,19 @@
 {
-  "typeID": 28862,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieser nachlässig konstruierte Frachtcontainer wird der Unerbittlichkeit des Alls nicht lange standhalten.",
+    "en": "This cargo container is flimsily constructed and will not survive the rigors of space for long.",
+    "es": "Este contenedor de carga es bastante endeble y no sobrevivirá a los rigores del espacio durante mucho tiempo.",
+    "fr": "Ce conteneur de fret est fragile et ne résistera pas longtemps aux rigueurs de l'espace.",
+    "ja": "貧弱な構造のコンテナ。宇宙空間の厳しい環境に長くは耐えられないだろう。",
+    "ko": "조잡하게 건설되어 우주의 혹독한 환경에서 온전한 형태로 오래 유지되지 못할 것 같습니다.",
+    "ru": "Этот грузовой контейнер сделан кое-как и вряд ли долго выдержит условия открытого космоса.",
+    "zh": "这个货柜集装箱并不是很结实，无法在环境恶劣的太空中长时间保存。"
+  },
+  "graphicID": 1176,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Cargo Container - Brutor Tribe Roster",
     "en": "Cargo Container - Brutor Tribe Roster",
@@ -10,5 +24,9 @@
     "ru": "Cargo Container - Brutor Tribe Roster",
     "zh": "货柜舱—布鲁特部族名册"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericmetal",
   "volume": 27500.0
 }

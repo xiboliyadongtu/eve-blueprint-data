@@ -1,5 +1,18 @@
 {
-  "typeID": 49792,
+  "description": {
+    "de": "Dieses von den fleißigen Ingenieuren der Frostline-Abteilung von ORE entwickelte Abbau-Upgrade kann die Effizienz von Modulen für den Abbau von Erz- und Eismaterialien steigern. Dies geht auf Kosten der Effizienz, die durch andere materialspezifische Abbau-Upgrades erreicht werden kann.",
+    "en": "Developed by the industrious engineers of ORE's Frostline division, this harvester upgrade is able to increase the efficiency of modules designed to harvest ore and ice materials but at the expense of the higher efficiency that can be achieved by material specific harvester upgrades.",
+    "es": "Esta mejora de cosechadora, desarrollada por los industriosos trabajadores de Frostline de ORE, es capaz de aumentar la eficiencia de los módulos diseñados para recolectar menas y materiales de hielo, pero a costa de la eficiencia más alta que se puede conseguir por las mejoras específicas de cosechadora.",
+    "fr": "Développée par les ingénieurs industriels de la division Frostline ORE, cette amélioration pour collecteur permet d'augmenter l'efficacité des modules de récolte de minerai et de glace, mais au détriment du surcroît d'efficacité possible avec des améliorations dédiées à un matériau spécifique.",
+    "ja": "OREのフロストライン部門の勤勉なエンジニアによって開発されたこの採掘機のアップグレードは、鉱石やアイス資源を収穫するように設計されたモジュールの効率を向上させることができるが、材料に特化した採掘機のアップグレードで達成できるより高い効率を犠牲にすることができる。",
+    "ko": "ORE 프로스트라인 디비전에서 개발한 하베스터 전용 업그레이드로 광석 및 아이스 채굴 모듈의 효율성을 향상하는데 사용됩니다. 하지만 단일 광석 또는 아이스 채굴에 사용되는 특화 업그레이드보다 성능은 떨어집니다.",
+    "ru": "Это улучшение для сборщика, разработанное инженерами ОРЭ из лаборатории «Иней», повышает эффективность модулей добычи руды, льда, хотя, конечно, не так сильно, как специализированные улучшения.",
+    "zh": "这种采集能力提升器由联合矿业霜线部门的工程师研发，可以提高采集矿石和冰矿材料的装备的效率，但效果不如针对某种专门材料的采集能力提升器。"
+  },
+  "groupID": 546,
+  "iconID": 1046,
+  "marketGroupID": 935,
+  "mass": 1.0,
   "name": {
     "de": "Frostline 'Omnivore' Harvester Upgrade",
     "en": "Frostline 'Omnivore' Harvester Upgrade",
@@ -10,5 +23,7 @@
     "ru": "Frostline 'Omnivore' Harvester Upgrade",
     "zh": "霜线 '杂食' 采集能力提升器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 5.0
 }

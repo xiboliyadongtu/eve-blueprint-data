@@ -1,5 +1,17 @@
 {
-  "typeID": 77120,
+  "description": {
+    "de": "Ein Minmatar-Gerät, das Daten empfangen und an einen Lichtjahre entfernten Empfänger senden kann, der sich wahrscheinlich im republikanischen Raum befindet.",
+    "en": "A Minmatar device designed to receive and then transmit data to a receiver light-years away, most likely all the way back in Republic space.",
+    "es": "Un dispositivo minmatariano diseñado para recibir y transmitir datos a un receptor a años luz de distancia, muy probablemente en el espacio de la República.",
+    "fr": "Un appareil Minmatar conçu pour recevoir puis transmettre des données vers un récepteur situé à des années-lumière, probablement dans l'espace de la République.",
+    "ja": "数光年離れた送受信機とデータをやりとりするためのミンマター製装置。おそらくは遠い共和国宙域内まで届くと思われる。",
+    "ko": "수신 데이터를 수 광년 떨어진 수신기로 전송하는 민마타 장치입니다. 공화국 본토까지도 전송 가능할 것으로 추정됩니다.",
+    "ru": "Минматарский приёмопередатчик, который может поддерживать связь с устройствами, находящимися за многие световые годы от него — в данном случае, вероятно, в пространстве Республики.",
+    "zh": "一种米玛塔尔设备，用于接收数据并将其传输至数光年外的接收器，很可能远在共和境内。"
+  },
+  "graphicID": 2600,
+  "groupID": 4576,
+  "mass": 100000.0,
   "name": {
     "de": "Longshot Relay",
     "en": "Longshot Relay",
@@ -10,5 +22,9 @@
     "ru": "Longshot Relay",
     "zh": "远射中继站"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 3346.0,
+  "sofFactionName": "minmatarbase",
   "volume": 100000000.0
 }

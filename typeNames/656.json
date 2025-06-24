@@ -1,5 +1,54 @@
 {
-  "typeID": 656,
+  "basePrice": 1400000.0,
+  "capacity": 550.0,
+  "description": {
+    "de": "Die Miasmos verfügt zusätzlich zu den üblichen Trägerkapazitäten eines Transporters noch über einen weiteren Frachtraum. Dieser ist mit versiegelten, klimatisierten Behältern ausgestattet und dient ausschließlich dem Transport aller Arten von interstellarem Erz: Eis, Gase und Asteroiden. Ursprünglich als Ableger der Iteron konzipiert, konnte sich die Miasmos im Laufe der Zeit als eigenständige Klasse etablieren.",
+    "en": "Aside from being endowed with the usual carrying capabilities of haulers, the Miasmos possesses an extra cargo bay. That bay is equipped with sealed, temperature-controlled vats, and is meant solely for ferrying all types of interstellar ore: ice, gasses and asteroids. The Miasmos was originally designed as a variant of the Iteron, but eventually evolved to perform an entirely separate role.",
+    "es": "Además de poseer la capacidad de carga habitual de las naves de mercancías, la Miasmos posee una bodega adicional equipada con contenedores sellados de temperatura controlada y se dedica exclusivamente al transporte de todo tipo de menas interestelares: hielo, gases y asteroides. La Miasmos se diseñó originalmente como variante de la Iteron, pero al final evolucionó y acabó desempeñando una función completamente distinta.",
+    "fr": "Outre les capacités de transport propres aux cargos, le Miasmos est doté d'une baie de chargement supplémentaire. Cette baie est équipée de plateformes scellées à température contrôlée, et se consacre uniquement au transport de tous types de minerais interstellaires : glace, gaz et astéroïdes. Le Miasmos fut construit à l'origine comme une variante de l'Iteron, mais a finalement évolué pour remplir un rôle entièrement différent.",
+    "ja": "ミアスモスは従来の積載容量の多さに加え、特殊なカーゴベイを搭載した輸送艦だ。このベイには気密式で温度調整が可能な多数のタンクが搭載されており、星間で採掘されるあらゆるタイプの鉱石（アイス、ガス、アステロイド）の運搬に特化している。ミアスモスは元々イタロンのバリエーションとして設計されたが、やがて進化して全く別の役割を持つに至った。",
+    "ko": "미아스모스에는 기본적인 운반선의 기능 외에도 추가적인 화물실이 설치되어 있습니다. 화물실에는 모든 종류의 자원(아이스, 가스, 소행성)을 적재할 수 있으며, 밀폐 및 온도 조절 기능 또한 내장되어 있습니다. 본래 이테론급을 바탕으로 설계되었으나 완성 단계에 이르러서는 별개의 역할을 부여 받게 되었습니다.",
+    "ru": "Помимо стандартных возможностей перевозчиков, «Миасмос» также обладает дополнительным грузовым отсеком. Он оборудован герметичными резервуарами с регулировкой температуры и предназначен исключительно для перевозки всех типов льда, газа и руды с астероидов. Изначально «Миасмос» разрабатывался на основе «Итерона», но в конечном итоге стал выполнять другую функцию.",
+    "zh": "除了具有运载舰的常规运载能力之外，米亚莫斯级还有一个额外的货柜舱。这个货舱由一个个封闭的可控温舱室构成，专门用来运输各种矿石，包括冰矿、气云和小行星矿。米亚莫斯级本来是伊特龙级的一个衍生品，但后来不断进化成为了一个完全独立的个体。"
+  },
+  "factionID": 500004,
+  "graphicID": 327,
+  "groupID": 28,
+  "marketGroupID": 83,
+  "mass": 12975000.0,
+  "masteries": {
+    "0": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "1": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "2": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "3": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "4": [
+      96,
+      118,
+      117,
+      94
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Miasmos",
     "en": "Miasmos",
@@ -9,6 +58,66 @@
     "ko": "미아스모스",
     "ru": "Miasmos",
     "zh": "米亚莫斯级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 149.0,
+  "sofFactionName": "gallentebase",
+  "soundID": 20074,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 90.0,
+        "bonusText": {
+          "de": "Reduktion der effektiv zurückgelegten Distanz für die Sprungerschöpfung",
+          "en": "reduction to effective distance traveled for jump fatigue",
+          "es": "de reducción de la distancia efectiva hasta sufrir fatiga de salto.",
+          "fr": "de réduction de la distance effectuée pour l'épuisement de saut",
+          "ja": "ジャンプによる疲弊が飛行距離に及ぼす影響を低減",
+          "ko": "이동 거리에 따른 점프 피로도 감소",
+          "ru": "медленнее накапливается усталость от гиперпереходов",
+          "zh": "减少跳跃距离对产生跳跃疲劳的影响"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3340": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf die Maximalgeschwindigkeit des Schiffs",
+            "en": "bonus to ship max velocity",
+            "es": "de bonificación a la velocidad máxima de la nave.",
+            "fr": "de bonus à la vitesse maximale du vaisseau",
+            "ja": "艦船の最高速度が上昇",
+            "ko": "최대 속도 증가",
+            "ru": "увеличивается скорость полного хода корабля",
+            "zh": "舰船最大速度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf Bergbaufassungsvermögen von Schiffen",
+            "en": "bonus to ship mining hold capacity",
+            "es": "de bonificación a la capacidad de la bodega de minería de la nave.",
+            "fr": "de bonus à la capacité de la soute d'extraction du vaisseau",
+            "ja": "艦船の採掘ホールド容量ボーナス",
+            "ko": "채굴 저장고 적재량 증가",
+            "ru": "бонус к вместимости отсека для руды",
+            "zh": "舰船矿舱容量加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 265000.0
 }

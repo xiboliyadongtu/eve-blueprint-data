@@ -1,5 +1,20 @@
 {
-  "typeID": 30108,
+  "basePrice": 6450.0,
+  "description": {
+    "de": "Dieses Subsystem ist veraltet und wurde durch neuere Technologie ersetzt.\n\n\n\nDiese Fasern aus leichten wie verwindungsstarken Fullerenpolymeren interkalieren in die Struktur eines Schiffes, um es ohne Stabilitätseinbußen wendiger zu machen. Herkömmliche Nanofasern gibt es schon seit Jahrhunderten, doch erst jetzt in Verbindung mit verschiedenen anderen sowie den aus der Sleeper-Zeit wiederentdeckten Polymeren werden sie immer wichtiger für den Gebrauch in modularen Systemen. So findet althergebrachte Technologie ihren Platz in der modernen Welt der Tech III Paradigmen. \n\n\n\nSubsystem-Skillbonus: \n\n5% erhöhte Wendigkeit je Skillstufe.",
+    "en": "This subsystem is obsolete and has been replaced by newer technology\r\n\r\nConstructed from hard yet lightweight fullerene polymers, these intercalated fibers boost the agility of a starship without compromising its structural resilience. Even though basic nanofibers have existed for hundreds of years, the integration of various Sleeper-based salvage and other polymers takes the technology to a completely new level of modularity. This has allowed the same centuries-old technology to be ported over to the new Tech III paradigm. \r\n\r\nSubsystem Skill Bonus: \r\n5% increased agility per level.",
+    "es": "Este subsistema está obsoleto y ha sido sustituido por tecnología nueva.\n\nEstas fibras intercaladas, hechas con polímeros fullerenos rígidos pero ligeros, potencian la agilidad de una nave sin comprometer su resistencia estructural. Aunque las nanofibras básicas han existido durante cientos de años, la integración de varios restos basados en sleepers y otros polímeros lleva a esta tecnología a un nivel de modulación totalmente nuevo. Esto ha permitido que la misma tecnología centenaria pueda transferirse al nuevo paradigma T3.\n\nBonificación de habilidad del subsistema:\n\nAgilidad aumentada un 5 % por nivel.",
+    "fr": "Ce sous-système est obsolète et a été remplacé par une technologie plus récente. Fabriquées à partir de polymères de fullerène à la fois résistants et légers, ces fibres intercalées augmentent la maniabilité d'un vaisseau spatial sans compromettre sa résistance structurelle. Si les nanofibres de base existent depuis des siècles, l'intégration des différentes technologies sleeper et autres polymères a donné une toute nouvelle dimension de modularité à cette technologie. C'est ainsi qu'une technologie vieille de plusieurs siècles a pu être adaptée aux nouveaux vaisseaux Tech III. Bonus de compétence du sous-système : augmente de 5 % par niveau la maniabilité.",
+    "ja": "このサブシステムは旧式化したため、新型技術に差し替えられた\n\n\n\n軽量かつ硬質なフラーレン重合体で形成された繊維が交互に編み込まれており、艦船の形状保持能力を損なうことなく俊敏性を一気に高めることができる。ベーシックなナノファイバーは何百年間も存在していたが、スリーパーから回収したサルベージ品と重合体の融合により、モジュール方式の技術は革新的な発展を遂げる。また、その数世紀も前の技術を現代のT3技術体系に応用することも可能である。\n\n\n\nサブシステムのスキルボーナス：\n\nレベル上昇ごとに機動性が5％上昇。",
+    "ko": "이 서브시스템은 노후되어 최신식 기술로 교체되었습니다.<br><br>견고하지만 경량 소재인 퓰러렌 중합체로 만들어진 섬유질이 적용되어 저항력 감소 없이 함선 기동성을 향상합니다. 나노섬유는 수백년 간 존재해왔지만 기존의 여러 중합체를 슬리퍼 기반 기술과 융합함으로써 모듈방식을 새로운 수준으로 끌어올릴 수 있었습니다. 이를 통해 수백년동안 존재해왔던 기술들을 테크 III 패러다임에 안전하게 이식할 수 있게 되었습니다. <br><br>서브시스템 스킬 보너스: <br><br>매 레벨마다 함선 기동성 5% 증가",
+    "ru": "Эта подсистема устарела и заменена на продукт новых технологий\n\n\n\nЛёгкие, но прочные волоконные прослойки, состоящие из фуллеренных полимеров, повышают маневренность корабля, сохраняя прочность его корпуса. Нановолокна существуют уже сотни лет, но интеграция демонтированных материалов Спящих и разработанных ими полимеров выводит технику на принципиально новый уровень модульности и позволяет внедрить старые технологии в новую парадигму третьей техкатегории. \n\n\n\nЗа каждую степень освоения навыка соответствующей подсистемы:<br> \n\nна 5% повышается маневренность корабля",
+    "zh": "这个子系统太过老旧，已经被新科技取代。\n\n\n\n采用高强度轻质材料富勒烯纤维生产，这种间层纤维能够增强舰船的机动性和灵活性，同时又不会在舰船结构强度上打折扣。尽管基本的纳米纤维技术已经存在了数百年之久，但是冬眠者技术和其他富勒烯复合物技术使得这种设备的革新进入了一个全新的模块化时代。它同时还打开了将这种设备用于新型三级科技舰船的通途。 \n\n\n\n每等级子系统技能加成： \n\n灵活性提高5%"
+  },
+  "graphicID": 3697,
+  "groupID": 955,
+  "iconID": 3646,
+  "mass": 1400000.0,
+  "metaGroupID": 14,
   "name": {
     "de": "OLD Loki Propulsion - Intercalated Nanofibers",
     "en": "OLD Loki Propulsion - Intercalated Nanofibers",
@@ -10,5 +25,10 @@
     "ru": "OLD Loki Propulsion - Intercalated Nanofibers",
     "zh": "旧洛基推进 - 间层纳米纤维"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "sofFactionName": "minmatarbase",
+  "variationParentTypeID": 30106,
   "volume": 40.0
 }

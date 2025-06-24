@@ -1,5 +1,22 @@
 {
-  "typeID": 81949,
+  "basePrice": 1555840.0,
+  "capacity": 0.8,
+  "description": {
+    "de": "Durch Manipulation von Gravitationsfeldern kann dieses Modul Frachtcontainer in Richtung des Schiffes ziehen. Hinweis: Dieser Traktorstrahl kann nur in das Rorqual ORE Capital-Schiff eingebaut werden.",
+    "en": "By manipulating gravity fields, this module can pull cargo containers towards the ship. \r\n\r\nNote: This tractor beam can only be fitted on the Rorqual ORE Capital Ship.",
+    "es": "Este módulo puede atraer contenedores de carga hacia la nave manipulando campos de gravedad. \r\n\r\nAviso: Este rayo tractor solo se puede equipar en la nave capital Rorqual de ORE.",
+    "fr": "En manipulant les champs de gravité, ce module peut attirer des conteneurs de fret vers le vaisseau. Remarque : ce rayon de tractage ne peut être installé que sur le vaisseau capital Rorqual d'ORE.",
+    "ja": "このモジュールは、重力場を制御することで、カーゴコンテナを自艦に引き寄せる。 \r\n\r\n注：このトラクタービームを搭載できるのはOREの主力艦であるロークアルのみである。",
+    "ko": "모듈 장착 시 중력장을 이용하여 화물 컨테이너를 함선으로 끌어올 수 있습니다.<BR><BR>참고: 해당 트랙터 빔은 로퀄 ORE 캐피탈 함선에만 장착할 수 있습니다.",
+    "ru": "Искажая гравитационные поля, этот модуль притягивает грузовые контейнеры к кораблю. Внимание: такие гравитаторы предназначены только для КБТ ОРЭ класса Rorqual.",
+    "zh": "通过操纵重力场，这个装备能将货柜集装箱拖近飞船。注意：该装备只能装配在长须鲸级联合矿业工业旗舰上。"
+  },
+  "graphicID": 11868,
+  "groupID": 650,
+  "iconID": 2986,
+  "marketGroupID": 872,
+  "mass": 50.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Consortium Capital Tractor Beam",
     "en": "Consortium Capital Tractor Beam",
@@ -10,5 +27,10 @@
     "ru": "Consortium Capital Tractor Beam",
     "zh": "财团旗舰级牵引光束"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 10.0,
+  "sofFactionName": "orebase",
+  "variationParentTypeID": 24644,
   "volume": 4000.0
 }

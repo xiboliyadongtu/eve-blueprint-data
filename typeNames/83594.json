@@ -1,5 +1,19 @@
 {
-  "typeID": 83594,
+  "description": {
+    "de": "<b>Typ:</b> Unterstützungs-Jäger <b>Funktion:</b> Stasisnetz <b>Beschreibung:</b> Die Dromi bringt Unterstützung für Netzifikation auf das Schlachtfeld. <b>Stasisnetz</b>: Stört die Antriebssysteme des Ziel und verlangsamt es. <b>Mikrowarpantrieb</b>: Verleiht eine beträchtliche Geschwindigkeitserhöhung auf Kosten eines höheren Signaturradius. Der Mikrowarpantrieb hat eine lange Abkühlzeit zwischen den Einsätzen.",
+    "en": "<b>Type:</b> Support Fighter\r\n<b>Role:</b> Stasis Webification\r\n<b>Description:</b> The Dromi brings webification support to the battlefield.\r\n\r\n<b>Stasis Webifier</b>: Disrupts targets drive systems, slowing them down.\r\n<b>Microwarpdrive</b>: Gives a significant speed boost at the cost of higher signature radius. The Microwarpdrive has a long cool-down cycle between uses.",
+    "es": "<b>Tipo:</b> caza de apoyo.\r\n<b>Función:</b> red ralentizadora.\r\n<b>Descripción:</b> la Dromi proporciona redes ralentizadoras en el campo de batalla.\r\n\r\n<b>Red ralentizadora</b>: interfiere con los sistemas motores del objetivo y los ralentiza.\r\n<b>Motor de microwarp</b>: otorga un aumento considerable de velocidad a costa de un radio de señal superior. Tiene un ciclo de recarga largo entre un uso y otro.",
+    "fr": "<b>Type :</b> Chasseur de soutien <b>Rôle :</b> Génération de stase <b>Description :</b> Le Dromi apporte un soutien à la génération de stase sur le champ de bataille. <b>Générateur de stase</b> : Perturbe les systèmes de propulsion de la cible et cause son ralentissement. <b>Propulseur de microwarp</b> : Augmente la vitesse de manière considérable, au prix d'un rayon de signature plus élevé. Le propulseur de microwarp a un cycle de refroidissement prolongé entre deux utilisations.",
+    "ja": "<b>タイプ：</b>支援戦闘機\r\n<b>用途：</b>ステイシスウェビフィケーション\r\n<b>説明：</b>ドローミは戦場でウェビフィケーションによるサポートを行うことができる。\r\n\r\n<b>ステイシスウェビファイヤー：</b>ターゲットのドライブシステムを阻害し、移動速度を低下させる。\r\n<b>マイクロワープドライブ：</b>シグネチャ半径が大きくなる代わりに、速度が大幅に向上する。マイクロワープドライブのクールダウンサイクルは長い。",
+    "ko": "<b>분류:</b> 지원형 전투기 <BR><b>임무:</b> 스테이시스 웹 생성 <BR><b>설명:</b> 드로미는 스테이시스 웹 사용을 위해 설계되었습니다. <BR><BR><b>스테이시스 웹 생성기</b>: 대상 함선의 추진 시스템을 교란하여 느리게 만듭니다. <BR><b>마이크로 워프 드라이브</b>: 속도가 크게 향상되지만 시그니처 반경이 증가합니다. 긴 재사용 대기시간을 갖고 있습니다.",
+    "ru": "<b>Тип:</b> истребитель поддержки <b>Роль:</b> стазис-индукция <b>Описание:</b> Dromi помогает обездвижить врага на поле боя. <b>Cтазис-индуктор</b>: нарушает работу двигательных систем, замедляя корабли противника. <b>Микроварп-ускоритель</b>: ощутимо повышает скорость, при этом увеличивая радиус сигнатуры. Каждый раз после использования микроварп-ускорителю требуется длительное охлаждение.",
+    "zh": "<b>类型：</b>后勤铁骑舰载机<b>职责：</b>停滞缠绕<b>描述：</b>德洛米可为战场带来停滞缠绕支援。<b>停滞缠绕光束</b>：扰断目标舰船的驱动系统，使其速度减慢。<b>微型跃迁推进器</b>：通过牺牲信号半径来大幅度提升速度。微型跃迁推进器运转后的冷却时间较长。"
+  },
+  "graphicID": 27487,
+  "groupID": 1537,
+  "marketGroupID": 2239,
+  "mass": 1500.0,
+  "metaGroupID": 4.0,
   "name": {
     "de": "Republic Fleet Dromi",
     "en": "Republic Fleet Dromi",
@@ -10,5 +24,11 @@
     "ru": "Republic Fleet Dromi",
     "zh": "共和舰队德洛米"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 35.0,
+  "sofFactionName": "minmatarnavy",
+  "variationParentTypeID": 40347,
   "volume": 3000.0
 }

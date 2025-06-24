@@ -1,5 +1,18 @@
 {
-  "typeID": 34401,
+  "basePrice": 2000000.0,
+  "description": {
+    "de": "Diese Kristallscheibe ist speziell dazu konstruiert, um die Infrarotstrahlen einer Infrarotstrahlen-Anpassungseinheit einzustellen.",
+    "en": "This disc of crystals is specially constructed to modulate infrared rays in a Solray Infrared Alignment Unit.",
+    "es": "Este disco de cristales está especialmente construido para modular los rayos infrarrojos en una unidad de alineación de IR de Solray.",
+    "fr": "Ce disque de cristal est construit spécialement pour moduler les rayons gamma au sein d'une unité d'alignement des rayons de soleil infrarouges.",
+    "ja": "クリスタル製のこのディスクは、ソルレー赤外線調整ユニットで赤外線を変調させるためにある。",
+    "ko": "솔레이 적외선 정렬 시설 내의 적외선을 조절하기 위해 제작된 디스크입니다.",
+    "ru": "Этот кристаллический диск создан специально для модуляции инфракрасного излучения в блоке направления инфракрасного излучения звезды.",
+    "zh": "这个水晶盘专为在恒星红外线校准单元中调节红外线而设计。"
+  },
+  "groupID": 314,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Infrared Ray Modulate Disc",
     "en": "Infrared Ray Modulate Disc",
@@ -10,5 +23,8 @@
     "ru": "Infrared Ray Modulate Disc",
     "zh": "红外线调节盘"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.1
 }

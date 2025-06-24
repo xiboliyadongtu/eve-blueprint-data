@@ -1,5 +1,19 @@
 {
-  "typeID": 81352,
+  "basePrice": 100000.0,
+  "description": {
+    "de": "Diese Forschungsdaten sind hinter einer dreifachen Verschlüsselungsebene gesperrt, die einen dreidimensionalen Code zum Freischalten benötigt.",
+    "en": "This research data has been locked behind a triple-encryption layer which would require a three-dimensional cipher to unlock.",
+    "es": "Estos datos de investigación están protegidos por una capa de cifrado triple que requeriría un cifrado tridimensional para desbloquearse.",
+    "fr": "Ces données de recherche ont été verrouillées derrière une triple couche de cryptage qui nécessiterait un déchiffrage tridimensionnel pour être déverrouillée.",
+    "ja": "この研究データは三重の暗号レイヤーでロックされており、解除するには三次元暗号を突破する必要がある。",
+    "ko": "암호화된 연구 데이터입니다. 3중 암호화 절차로 봉인되어 암호화를 해제하려면 3차원 해독기가 필요합니다.",
+    "ru": "Эти данные защищены тремя слоями шифрования. Для доступа к ним требуется трёхмерный шифр.",
+    "zh": "这份研究数据被三层加密保护，解锁它需要用到三维密码。"
+  },
+  "groupID": 4575,
+  "iconID": 21784,
+  "marketGroupID": 1863,
+  "mass": 1.0,
   "name": {
     "de": "Encrypted ‘Istina’ Data",
     "en": "Encrypted ‘Istina’ Data",
@@ -10,5 +24,7 @@
     "ru": "Encrypted ‘Istina’ Data",
     "zh": "加密“伊斯蒂纳”数据"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

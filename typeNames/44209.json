@@ -1,5 +1,18 @@
 {
-  "typeID": 44209,
+  "description": {
+    "de": ">>> EINBRUCH – CPD AUTH 66401 >>> FTL/FR – 30045340  >>> TS/REF – NOTFALL – UNAUTORISIERTER ZUGRIFF AUF DIE LUFTSCHLEUSE  >>> STATUS: PARTIELLES VERSAGEN DER ATMOSPHÄRISCHEN KONTROLLEN  VERSAGEN DER REAKTORSICHERHEIT  ANTRIEB OFFLINE  STROMSCHIENENSYSTEM DES ENERGIESPEICHERS OFFLINE  FTL-HARMONISIERUNGSSPULEN OFFLINE",
+    "en": ">>> BREAK – CPD AUTH 66401\r\n>>> FTL/FR – 30045340\r\n>>> TS/REF – DISTRESS – UNAUTHORIZED AIRLOCK ACCESS\r\n>>> STATUS:\r\nPARTIAL ATMOSPHERE CONTAINMENT FAILURE\r\nREACTOR CONTAINMENT FAILURE\r\nPROPULSION OFFLINE\r\nCAPACITOR BUSBAR SYSTEM OFFLINE\r\nFTL HARMONIZATION COILS OFFLINE",
+    "es": ">>> RUPTURA – CPD AUT 66401\n\n>>> FTL/FR – 30045340\n\n>>> TS/REF – PELIGRO – ACCESO NO AUTORIZADO A LA ESCLUSA\n\n>>> ESTADO:\n\nFALLO PARCIAL DE CONTENCIÓN DE ATMÓSFERA\n\nFALLO DE CONTENCIÓN DEL REACTOR\n\nPROPULSIÓN DESCONECTADA\n\nSISTEMA DE BARRA COLECTORA DEL CONDENSADOR DESCONECTADO\n\nBOBINAS DE ARMONIZACIÓN SUPRALUMÍNICA DESCONECTADAS",
+    "fr": ">>> VIOLATION – CPD AUTH 66401 >>> FTL/FR – 30045340 >>> TS/REF – DÉTRESSE – ACCÈS NON AUTORISÉ AU SAS >>> STATUT : DÉFAILLANCE PARTIELLE DU CONFINEMENT DE L'ATMOSPHÈRE DÉFAILLANCE DU CONFINEMENT DU RÉACTEUR PROPULSION DÉSACTIVÉE BARRE OMNIBUS DU CAPACITEUR HORS SERVICE BOBINES D'HARMONISATION DÉSACTIVÉES",
+    "ja": ">>> BREAK – CPD AUTH 66401\n\n>>> FTL/FR – 30045340\n\n>>> TS/REF – 危急 – 不正エアロックアクセス\n\n>>> ステータス:\n\n分化大気遮蔽失敗\n\nリアクター遮断失敗\n\n推進力装備オフライン\n\nキャパシタバスバーシステム オフライン\n\nFTLハーモナイズコイル オフライン",
+    "ko": ">>> BREAK – CPD AUTH 66401 <br><br>>>> FTL/FR – 30045340 <br><br>>>> TS/REF – 구조신호 – 비인가 밀폐실 접근 <br><br>>>> 상태: <br><br>대기 누출 방지 실패 <br><br>반응로 봉쇄 실패 <br><br>추진기 오프라인 <br><br>캐패시터 부스바 시스템 오프라인 <br><br>초광속 융합코일 오프라인",
+    "ru": ">>> ОСТАНОВКА — CPD AUTH 66401 >>> FTL/FR — 30045340 >>> TS/REF — ТРЕВОГА — НЕСАНКЦИОНИРОВАННЫЙ ДОСТУП К ШЛЮЗОВОМУ ОТСЕКУ >>> СТАТУС: ЧАСТИЧНОЕ ПОВРЕЖДЕНИЕ АТМОСФЕРНОЙ ОБОЛОЧКИ ПОВРЕЖДЕНИЕ ЗАЩИТНОЙ ОБОЛОЧКИ РЕАКТОРА ДВИГАТЕЛЬ ОТКЛЮЧЁН СИСТЕМА СБОРНЫХ ШИН КОНДЕНСАТОРА ОТКЛЮЧЕНА КАТУШКИ КООРДИНИРОВАНИЯ СВЕРХСВЕТОВОЙ СКОРОСТИ ОТКЛЮЧЕНЫ",
+    "zh": ">>> BREAK – CPD AUTH 66401\n\n>>> FTL/FR – 30045340\n\n>>> TS/REF – 不佳 – 未授权气舱准入\n\n>>> 状态：\n\n部分气压控制失效\n\n反应堆控制失效\n\n推进系统离线\n\n电容母线系统离线\n\nFTL协调线圈离线"
+  },
+  "groupID": 1194,
+  "iconID": 2038,
+  "marketGroupID": 1661,
+  "mass": 10.0,
   "name": {
     "de": "[CNS] Kiirasha Final Broadcast Fragment",
     "en": "[CNS] Kiirasha Final Broadcast Fragment",
@@ -10,5 +23,8 @@
     "ru": "[CNS] Kiirasha Final Broadcast Fragment",
     "zh": "[CNS]基拉莎最终广播片段"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 3.0
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 356870,
+  "basePrice": 4160.0,
+  "description": {
+    "de": "Erhöht die maximale Stromnetzleistung eines Fahrzeugs, um mehr PG-intensive Module zu unterstützen.\n\nHINWEIS: Für dieses Modul gelten Stapelabzüge; nach dem ersten Modul nimmt die Wirksamkeit jedes weiteren ab, sofern es dieselben Attribute beeinflusst.",
+    "en": "Increases a vehicles's maximum powergrid output in order to support more PG intensive modules.\r\n\r\nNOTE: Stacking penalties apply to this module; the effectiveness of each additional module (after the first) that alters the same attributes will be reduced.",
+    "es": "Aumenta la capacidad de RA del vehículo para permitir el montaje de módulos de alto consumo de RA.\n\nAVISO: a este módulo se le aplican penalizaciones por agrupamiento. Su eficacia se ve reducida por cada módulo del mismo tipo que se monte después del primero.",
+    "fr": "Augmente la capacité maximale du réseau d'alimentation d'un véhicule, lui permettant ainsi d'accueillir des modules plus gourmands en PG.\n\nREMARQUE : Des pénalités d'accumulation s'appliquent à ce module ; au-delà du premier module, l'efficacité de chaque module supplémentaire qui modifie les mêmes attributs sera réduite.",
+    "it": "Aumenta il rendimento massimo della rete energetica dei veicoli per supportare moduli che richiedono maggiore PG.\n\nNOTA: a questo modulo si applicano le penalità da accumulo; l'efficacia di ogni modulo aggiuntivo (dopo il primo) che modifica gli stessi attributi viene ridotta.",
+    "ja": "よりPGを必要とするモジュールをサポートするために車両の最大PG出力を増やす。注：このモジュールはスタッキングペナルティの対象となり、同一のモジュールを複数取り付けると、一つ追加するごとにモジュールの効果が低下する。",
+    "ko": "차량의 최대 파워그리드 수치가 증가하고 고전력 모듈을 탑재할 수 있게 됩니다. <br><br>참고: 중첩 페널티가 적용되는 모듈입니다. 동일한 효과를 지닌 모듈을 한 개 이상 장착할 경우 추가 모듈의 효율성이 감소합니다.",
+    "ru": "Увеличивает максимальную мощность энергосети транспортных средств, обеспечивая поддержку большего количества использующих ЭС модулей.\n\nПРИМЕЧАНИЕ: Для этого модуля действует система нарастающих штрафов; эффективность воздействия каждого последующего модуля (после первого), которая изменяет одинаковые характеристики, снижается.",
+    "zh": "增加载具能量栅格的最大输出，以支持更多的PG密集型装备。注：此装备有堆叠惩罚，额外加装相同属性的装备的效果会降低。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Miliz: Blueprint für Stromnetz-Upgrade",
     "en": "Militia Powergrid Upgrade Blueprint",
@@ -11,5 +23,7 @@
     "ru": "Чертеж модернизации энергосети, для ополчения",
     "zh": "国民卫队能量栅格升级件蓝图"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

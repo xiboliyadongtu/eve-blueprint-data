@@ -1,5 +1,20 @@
 {
-  "typeID": 27493,
+  "basePrice": 3000.0,
+  "description": {
+    "de": "Eine schwere Rakete der Gallente mit Plasma-Sprengkopf und automatisiertem Lenksystem.",
+    "en": "A Gallente heavy missile with a plasma warhead and automatic guidance system.",
+    "es": "Misil pesado gallente con ojiva de plasma y sistema de guiado automático.",
+    "fr": "Missile gallente lourd équipé d'une ogive plasma et d'un système de guidage automatique.",
+    "ja": "プラズマ弾頭と自動誘導システムを装備したガレンテ製ヘビーミサイル。",
+    "ko": "유도시스템과 플라즈마 탄두가 탑재된 갈란테 헤비 미사일입니다.",
+    "ru": "Тяжелая ракета Gallente с плазменной боеголовкой и системой автоматического наведения.",
+    "zh": "盖伦特联邦的一种重型导弹，装备有等离子体战斗部和自动导航系统。"
+  },
+  "graphicID": 20051,
+  "groupID": 395,
+  "iconID": 1337,
+  "mass": 1000.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Shadow Inferno F.O.F. Heavy Missile I",
     "en": "Shadow Inferno F.O.F. Heavy Missile I",
@@ -10,5 +25,8 @@
     "ru": "Shadow Inferno F.O.F. Heavy Missile I",
     "zh": "暗影炼狱F.O.F.重型导弹I"
   },
+  "portionSize": 100,
+  "published": false,
+  "radius": 300.0,
   "volume": 0.03
 }

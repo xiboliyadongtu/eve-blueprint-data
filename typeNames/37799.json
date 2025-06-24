@@ -1,5 +1,18 @@
 {
-  "typeID": 37799,
+  "basePrice": 5000000.0,
+  "description": {
+    "de": "Grundwissen zur Bedienung von Ingenieur-Modulen von Strukturen.\n\n\n\n2% geringerer Energiespeicherverbrauch für alle strukturellen Energieneutralisierer und Punktverteidigungsbatterien je Skillstufe.",
+    "en": "Basic operation of structure engineering modules.\r\n\r\n2% reduction in capacitor consumption of all structure energy neutralizers and point defense batteries per level.",
+    "es": "Manejo básico de módulos de ingeniería de estructuras.\n\n2 % de reducción del consumo del condensador de todos los neutralizadores energéticos y baterías de defensa de puntos de estructuras por nivel.",
+    "fr": "Manœuvre rudimentaire des modules d'ingénierie pour structure. Réduit de 2 % par niveau la consommation énergétique de tous les neutraliseurs d'énergie et les batteries de défense ciblée pour structure.",
+    "ja": "ストラクチャ用エンジニアリングモジュールの基本的な操作。\r\n\nレベル上昇ごとに、ストラクチャのすべてのエネルギーニュートラライザーおよび地点防衛バッテリーのキャパシタ消費量が2％減少。",
+    "ko": "구조물 엔지니어링 모듈 운용을 위한 스킬입니다. <br><br>매 레벨마다 모든 구조물의 에너지 뉴트럴라이저 및 거점 방어 포대의 캐패시터 사용량 2% 감소",
+    "ru": "Общее понимание принципов работы инженерных систем сооружений.\n\n\n\nОсвоение навыка позволит пилоту снизить расход энергии накопителя на работу всех дистанционных нейтрализаторов энергии и систем точечной обороны, размещённых на сооружениях (на 2% за каждую степень освоения навыка).",
+    "zh": "操作建筑工程装备的基本技能。\n\n\n\n每升一级，所有建筑能量中和器和定点防御炮塔的电容消耗减少2%。"
+  },
+  "groupID": 1545,
+  "iconID": 33,
+  "marketGroupID": 2152,
   "name": {
     "de": "Structure Engineering Systems",
     "en": "Structure Engineering Systems",
@@ -10,5 +23,7 @@
     "ru": "Инженерные системы сооружений",
     "zh": "建筑工程系统研究"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

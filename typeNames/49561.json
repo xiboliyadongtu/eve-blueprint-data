@@ -1,5 +1,17 @@
 {
-  "typeID": 49561,
+  "description": {
+    "de": "Wird verwendet, um Triglavia-Testgeländegrenzen festzulegen.",
+    "en": "Used to establish Triglavian proving ground boundaries.",
+    "es": "Sirve para delimitar el campo de pruebas triglaviano.",
+    "fr": "Utilisé pour délimiter un terrain d'essai triglavian.",
+    "ja": "トリグラビアンのプルービンググラウンドの境界線を設定するために使われたもの。",
+    "ko": "트리글라비안 격전지의 경계선을 표시하기 위한 장치입니다.",
+    "ru": "Используется для установки границ испытательного полигона Триглава.",
+    "zh": "曾用于建立三神裔认可的边界。"
+  },
+  "graphicID": 22295,
+  "groupID": 1975,
+  "mass": 400000000.0,
   "name": {
     "de": "Triglavian Boundary Nexus",
     "en": "Triglavian Boundary Nexus",
@@ -10,5 +22,9 @@
     "ru": "Triglavian Boundary Nexus",
     "zh": "三神裔边界枢纽"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 9500.0,
+  "sofFactionName": "triglavianbase",
   "volume": 26000000.0
 }

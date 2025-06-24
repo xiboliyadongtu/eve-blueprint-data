@@ -1,5 +1,18 @@
 {
-  "typeID": 3356,
+  "basePrice": 60000.0,
+  "description": {
+    "de": "Fertigkeit mit Agenten zu verhandeln. \r\n\r\n5% mehr Bezahlung für Agentenmissionen je Skillstufe.",
+    "en": "Skill at agent negotiation. 5% additional pay per skill level for agent missions.",
+    "es": "Habilidad en la negociación con los agentes. 5 % de paga adicional por nivel de habilidad en las misiones de agente.",
+    "fr": "Compétence liée à la négociation avec les agents. Augmente de 5 % par niveau de compétence la rétribution des missions d'agent.",
+    "ja": "エージェントとの交渉技術。スキルレベル上昇ごとにエージェントミッションの報酬が 5% 高くなる。",
+    "ko": "에이전트와의 협상을 위한 스킬입니다. 매 레벨마다 에이전트 미션 보수 5% 증가",
+    "ru": "Навык ведения переговоров с агентами. Его изучение позволяет увеличить размер выплат за успешное выполнение заданий агентов — на 5% за каждую степень освоения навыка.",
+    "zh": "与代理人协商的技能。每升一级，代理人任务的报酬增加5%。"
+  },
+  "groupID": 278,
+  "iconID": 33,
+  "marketGroupID": 376,
   "name": {
     "de": "Negotiation",
     "en": "Negotiation",
@@ -10,5 +23,7 @@
     "ru": "Переговоры с агентами",
     "zh": "谈判技巧"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

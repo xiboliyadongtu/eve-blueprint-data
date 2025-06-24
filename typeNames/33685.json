@@ -1,5 +1,59 @@
 {
-  "typeID": 33685,
+  "basePrice": 1630025214.0,
+  "capacity": 30000.0,
+  "description": {
+    "de": "Die Orca wurde als gemeinsame Unternehmung zwischen Outer Ring Excavations und Deep Core Mining Inc. entwickelt, um der Nachfrage der Industrie New Edens nachkommen zu können und eine Plattform zu bieten, von der aus Bergbauoperationen einfach gehandhabt werden können.\n\nDie Orca nutzt größtenteils Technologie, die bereits von ORE bei der Rorqual eingesetzt wurde, und es wurden auch die neusten Verbesserungen von Deep Core Mining integriert. Die Forschungsabteilung hat somit ein Schiff entwickelt, das vielfältige Einsatzmöglichkeiten für verschiedene Operationen und deren Bedürfnisse abdecken kann.",
+    "en": "The Orca was developed as a joint venture between Outer Ring Excavations and Deep Core Mining Inc as a vessel to help meet the demands of New Eden's industry and provide a flexible platform from which mining operations can be more easily managed.\r\n\r\nThe Orca uses much of the technology developed by ORE for the Rorqual and integrated with the latest advancements from Deep Core Mining research division has developed a vessel which offers a diverse role to all sizes of operations and needs.",
+    "es": "La Orca se desarrolló en un proyecto conjunto entre Outer Ring Excavations y Deep Core Mining Inc. como una nave que ayudara a satisfacer las necesidades de la industria de Nuevo Edén y proporcionara una plataforma flexible desde la que gestionar operaciones mineras con mayor facilidad.\n\n\n\nLa Orca usa gran parte de la tecnología desarrollada por ORE para la Rorqual, pero incorpora los últimos avances de la división de investigación de Deep Core Mining, que ha desarrollado una nave versátil para cualquier operación o contexto.",
+    "fr": "L'Orca a été développé conjointement par Outer Ring Excavations et la Deep Core Mining Inc. pour répondre aux exigences de l'industrie de New Eden et ainsi fournir une plateforme flexible pour une meilleure gestion des opérations d'extraction minière.\n\nUtilisant principalement la technologie mise au point par l'ORE pour le Rorqual et les dernières inventions de la division de recherche de la Deep Core Mining Inc., ce vaisseau peut ainsi remplir diverses fonctions pour toutes sortes d'opérations.",
+    "ja": "オルカは、アウターリング発掘調査とディープコア採掘がニューエデンの業界の要求に応じて、採掘作業を管理しやすくするための柔軟なプラットフォームを提供するために協力して開発した。\n\nOREがロークアル向けに開発した技術を大幅に採用すると共に、あらゆる規模の作業とニーズに備えた多様な役目を持つ艦船をディープコア採掘の研究部門が開発した際の最新成果も取り入れている。",
+    "ko": "ORE와 딥코어마이닝이 공동 제작한 인더스트리얼로, 뉴에덴 산업계의 요구를 수용하여 효율적인 채굴 작전의 수행이 가능한 범용 플랫폼이 설계되었습니다. <br><br>오르카는 딥코어마이닝 연구 부서의 독자적인 기술력과 캐피탈 인더스트리얼인 로퀄의 제작에 사용된 각종 첨단 기술이 적용되어 작전 규모와 상관없이 다양한 역할을 수행할 수 있습니다.",
+    "ru": "Флагман буровых флотилий типа «Орка» был разработан совместными усилиями Окраинной рудной экспедиции и «Корпорации глубокого бурения»; получившийся в итоге корабль полностью удовлетворил потребность галактической промышленности в многофункциональных средствах повышения производительности буровых групп.\n\nМногое в этом проекте было позаимствовано у кораблей типа «Рорквал», выпускаемых Окраинной рудной экспедицией; совместив эти технологии с достижениями исследователей «Корпорации глубокого бурения», удалось разработать корабль, которому по плечу задачи любого масштаба и степени сложности.",
+    "zh": "作为外空联合矿业(ORE)与深核矿业(DCM)的合作产品，逆戟鲸级不仅可满足新伊甸的工业需求，也是一款灵活的采矿作业管理平台。\n\n逆戟鲸级传承了ORE应用在长须鲸级上的很多技术，并融合了DCM研发部门的最新成果，它多样化的能力可以支持各种规模的作业与需求。"
+  },
+  "factionID": 500014,
+  "graphicID": 20602,
+  "groupID": 941,
+  "mass": 250000000.0,
+  "masteries": {
+    "0": [
+      96,
+      165,
+      140,
+      85,
+      94
+    ],
+    "1": [
+      96,
+      165,
+      140,
+      85,
+      94
+    ],
+    "2": [
+      96,
+      165,
+      140,
+      85,
+      94
+    ],
+    "3": [
+      96,
+      165,
+      140,
+      85,
+      94
+    ],
+    "4": [
+      96,
+      165,
+      140,
+      110,
+      85,
+      118,
+      94
+    ]
+  },
   "name": {
     "de": "Orca ORE Development Edition",
     "en": "Orca ORE Development Edition",
@@ -9,6 +63,123 @@
     "ko": "오르카 ORE 개발 에디션",
     "ru": "Orca ORE Development Edition",
     "zh": "逆戟鲸级ORE开发版"
+  },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 550.0,
+  "sofFactionName": "buddy",
+  "soundID": 20066,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonus": 250,
+        "bonusText": {
+          "de": "Bonus auf die Reichweite von <a href=showinfo:24348>Traktorstrahlen</a>",
+          "en": "bonus to <a href=showinfo:24348>Tractor Beam</a> range",
+          "es": "de bonificación al alcance del <a href=showinfo:24348>rayo tractor</a>.",
+          "fr": "bonus à la portée du <a href=showinfo:24348>rayon de tractage</a>",
+          "ja": "<a href=showinfo:24348>トラクタービーム</a>の範囲が拡大",
+          "ko": "<a href=showinfo:24348>트랙터 빔</a> 사거리 증가",
+          "ru": "увеличивается оптимальная дальность действия <a href=showinfo:24348>гравизахватов</a>",
+          "zh": "<a href=\"showinfo:24348\">牵引光束</a>距离加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 100,
+        "bonusText": {
+          "de": "Bonus auf die Geschwindigkeit von <a href=showinfo:24348>Traktorstrahlen</a>",
+          "en": "bonus to <a href=showinfo:24348>Tractor Beam</a> velocity",
+          "es": "de bonificación a la velocidad del <a href=showinfo:24348>rayo tractor</a>.",
+          "fr": "bonus à la vitesse du <a href=showinfo:24348>rayon de tractage</a>",
+          "ja": "<a href=showinfo:24348>トラクタービーム</a>の速度が上昇",
+          "ko": "<a href=showinfo:24348>트랙터 빔</a> 속도 증가",
+          "ru": "увеличивается скорость перемещения груза <a href=showinfo:24348>гравизахватами</a>",
+          "zh": "<a href=\"showinfo:24348\">牵引光束</a>牵引速度加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 500,
+        "bonusText": {
+          "de": "Bonus auf die Reichweite von <a href=showinfo:444>Überwachungsscannern</a>",
+          "en": "bonus to  <a href=showinfo:444>Survey Scanner</a> range",
+          "es": "de bonificación al alcance del <a href=showinfo:444>escáner de prospección</a>.",
+          "fr": "bonus à la portée des <a href=showinfo:444>scanners d'inspection</a>",
+          "ja": "<a href=showinfo:444>調査スキャナー</a>の範囲が拡大",
+          "ko": "<a href=showinfo:444>조사 스캐너</a> 사거리 증가",
+          "ru": "увеличивается оптимальная дальность действия <a href=showinfo:444>комплексов оценки залежей</a>",
+          "zh": "<a href=\"showinfo:444\">测量扫描器</a>距离加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonusText": {
+          "de": "Es können 3 <a href=showinfo:3348>Taktische Netzwerkmodule</a> gleichzeitig benutzt werden",
+          "en": "Can use 3 <a href=showinfo:3348>Warfare Link</a> modules simultaneously",
+          "es": "Es posible equipar tres módulos de <a href=showinfo:3348>enlace de guerra</a> simultáneamente.",
+          "fr": "Peut utiliser simultanément 3 modules de <a href=showinfo:3348>interface tactique</a>",
+          "ja": "<a href=showinfo:3348>艦隊支援システムモジュールを</a>同時に3基まで使用できる",
+          "ko": "<a href=showinfo:3348>전장 링크</a> 3개까지 동시 사용 가능",
+          "ru": "На борт кораблей этого типа разрешается устанавливать до трёх <a href=showinfo:3348>систем управления боем</a>",
+          "zh": "可以同时使用三个<a href=\"showinfo:3348\">作战网络</a>装备"
+        },
+        "importance": 4
+      },
+      {
+        "bonus": 90,
+        "bonusText": {
+          "de": "Reduktion der effektiv zurückgelegten Distanz für die Sprungerschöpfung",
+          "en": "reduction to effective distance traveled for jump fatigue",
+          "es": "de reducción de la distancia efectiva hasta sufrir fatiga de salto.",
+          "fr": "de réduction de la distance effectuée pour l'épuisement de saut",
+          "ja": "ジャンプによる疲弊が飛行距離に及ぼす影響を低減",
+          "ko": "이동 거리에 따른 점프 피로도 감소",
+          "ru": "медленнее накапливается усталость от гиперпереходов",
+          "zh": "减少跳跃距离对产生跳跃疲劳的影响"
+        },
+        "importance": 5,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "29637": [
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die Frachtraumkapazität des Schiffs",
+            "en": "bonus to ship cargo capacity",
+            "es": "de bonificación a la capacidad de carga de la nave.",
+            "fr": "bonus à la capacité de la soute du vaisseau",
+            "ja": "艦船のカーゴ容量が増加",
+            "ko": "화물 적재량 증가",
+            "ru": "увеличивается вместимость грузового отсека корабля",
+            "zh": "舰船货柜舱容量加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 3,
+          "bonusText": {
+            "de": "Bonus auf die Effektivität von <a href=showinfo:22552>Industriemeisternetzwerken</a>",
+            "en": "bonus to <a href=showinfo:22552>Mining Foreman Links</a> effectiveness",
+            "es": "de bonificación a la eficacia de los <a href=showinfo:22552>enlaces de capataz minero</a>.",
+            "fr": "bonus à l'efficacité des <a href=showinfo:22552>interfaces de contremaître d'extraction</a>",
+            "ja": "<a href=showinfo:22552>採掘支援リンク</a>の効果が増加",
+            "ko": "<a href=showinfo:22552>채광 포어맨 링크</a> 효과 증가",
+            "ru": "повышается эффективность действия <a href=showinfo:22552>систем управления добычей сырья</a>",
+            "zh": "<a href=\"showinfo:22552\">开采先锋网络</a>效果加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 10250000.0
 }

@@ -1,5 +1,19 @@
 {
-  "typeID": 49790,
+  "description": {
+    "de": "Ein Computersystem, das Lenkwaffen während des Fluges überwacht und steuert. Es wurde von der Mordus Legion modifiziert, um die Abschusswahrscheinlichkeit von Raketen gegen schnellere Ziele zu steigern.",
+    "en": "A computer system designed for monitoring and guiding missiles in flight, modified by Mordu's Legion to enhance kill probability of missiles against faster targets.",
+    "es": "Sistema informático desarrollado para controlar y guiar misiles durante el vuelo, modificado por la Legión de Mordu para incrementar la letalidad de los misiles contra objetivos más rápidos.",
+    "fr": "Système informatique conçu pour suivre et guider les missiles en vol, adapté par la légion Mordu pour améliorer leurs chances de destruction contre les cibles rapides.",
+    "ja": "飛行中のミサイルを監視誘導するコンピュータシステム。ミサイルの効果と攻撃力が飛躍的に向上する。より高速で移動するターゲットのキル効率が向上するようにモーダスリージョンが改造を加えている。",
+    "ko": "고속 타겟의 살상률을 높이기 위해 모르두 군단이 개조한 시스템으로 미사일 유도 및 통제를 담당합니다.",
+    "ru": "Компьютерная система для управления и наведения ракет во время полёта, модифицированная легионом Морду для повышения эффективности ракет против быстро движущихся целей.",
+    "zh": "一种用于对飞行中导弹进行监控和制导的电脑系统，莫德团对它进行了改造，提高了面对快速目标的命中效果。"
+  },
+  "groupID": 367,
+  "iconID": 21440,
+  "marketGroupID": 645,
+  "mass": 1.0,
+  "metaGroupID": 19,
   "name": {
     "de": "ML-EKP 'Polybolos' Ballistic Control System",
     "en": "ML-EKP 'Polybolos' Ballistic Control System",
@@ -10,5 +24,8 @@
     "ru": "ML-EKP 'Polybolos' Ballistic Control System",
     "zh": "ML-EKP '多重' 弹道控制系统"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 12274,
   "volume": 5.0
 }

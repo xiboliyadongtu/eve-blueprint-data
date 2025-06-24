@@ -1,5 +1,18 @@
 {
-  "typeID": 62453,
+  "basePrice": 300000000.0,
+  "description": {
+    "de": "Dieser Skill zur Flottenunterstützung erhöht die Reichweite, in der Flottenmitglieder die Fernkompressionsdienste, die von einem Schiff mit Industriekern und Kompressortechnologie angeboten werden, nutzen können. Mit jeder Stufe erhöht sich die vom Industriekern-Schiff ausgehende Reichweite, in der andere Flottenmitglieder die Fernkompressionsdienste nutzen können, um 10 %. Dieser Skill ist für den Einsatz durch Piloten gedacht, die Industriekern- und Kompressormodule betreiben.",
+    "en": "This fleet support skill increases the range at which fleet members can use fleet compression services offered by a ship operating an industrial core and compressor technology. Each level increases by 10% the range from the industrial core ship within which fleet compression services can be used by other fleet members.\r\n\r\nThis skill is intended for use by pilots operating industrial core and compressor modules.",
+    "es": "Esta habilidad de apoyo aumenta el alcance al que los miembros de la flota pueden usar los servicios de compresión ofrecidos por naves con núcleo industrial y compresor. Cada nivel aumenta un 10 % el alcance de la nave con núcleo industrial en el que otros miembros de la flota pueden usar los servicios de compresión.\n\n\n\nEsta habilidad está concebida para que la usen pilotos que operan módulos de compresor y núcleo industrial.",
+    "fr": "Cette compétence de soutien de flotte permet d'augmenter la distance à laquelle les membres de la flotte peuvent utiliser les services de compression de flotte offerts par un vaisseau utilisant une cellule industrielle et la technologie de compression. Chaque niveau augmente de 10 % la distance du vaisseau doté d'une cellule industrielle à laquelle les services de compression de la flotte peuvent être utilisés par ses autres membres. Cette compétence est destinée aux pilotes qui utilisent une cellule industrielle et des modules de compresseurs industriels.",
+    "ja": "このフリートサポートスキルには、インダストリアルコアと圧縮技術を運用している艦船によって提供されるフリート圧縮サービスをフリートメンバーが利用できる範囲を拡大する効果がある。レベルが1上がる毎に、他のフリートメンバーがインダストリアル搭載艦から離れてフリート圧縮サービスを利用することができる範囲が10%増加する。\r\n\r\nこのスキルは、インダストリアルコアと圧縮モジュールを運用するパイロットによる使用が想定されている。",
+    "ko": "함대원들이 인더스트리얼 코어 및 압축 기술을 사용하는 함선에 접속할 수 있는 최대 거리에 영향을 줍니다. 스킬 레벨당 함대 압축을 지원하는 함선에 접속할 수 있는 최대 거리가 10% 증가합니다.\r\n\r\n해당 스킬은 인더스트리얼 코어 및 압축 모듈을 사용하는 파일럿에게만 영향을 줍니다.",
+    "ru": "Этот навык поддержки флота позволяет его членам проводить сжатие сырья на большем расстоянии от корабля с промышленным ядром, использующего компрессорную технологию. Каждая степень освоения навыка на 10% увеличивает расстояние от корабля с промышленным ядром, в пределах которого другие члены флота могут производить сжатие сырья. Этот навык предназначен для пилотов, использующих промышленные ядра и компрессоры.",
+    "zh": "这项舰队辅助技能可以提高舰队成员使用装配了工业核心的舰船上的舰队压缩服务的范围。每升一级，其他舰队成程使用工业核心舰船上的舰队压缩服务的范围提高10%。\n\n\n\n这个技能应该由操作工业核心和压缩装备的飞行员来训练。"
+  },
+  "groupID": 258,
+  "iconID": 33,
+  "marketGroupID": 1323,
   "name": {
     "de": "Fleet Compression Logistics",
     "en": "Fleet Compression Logistics",
@@ -10,5 +23,7 @@
     "ru": "Fleet Compression Logistics",
     "zh": "舰队压缩支持理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

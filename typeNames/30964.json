@@ -1,5 +1,17 @@
 {
-  "typeID": 30964,
+  "description": {
+    "de": "Inmitten der Trümmer des Hyasyoda Logistics Centers gibt dieser schwer verschlüsselte Datenspeicher nur sehr wenig preis. Allerdings gibt es eine beschädigte Speicherpartition, die nicht mehr richtig funktioniert und deshalb leicht ausgelesen werden kann. Obwohl ein Großteil der Informationen banaler und uninteressanter Verwaltungsjargon ist, ist auch ein kurzer Report enthalten, der sich mit der Serpentis-Einrichtung beschäftigt. Merkwürdigerweise wurde die Gegend diesen offiziellen Dokumenten nach das letzte Mal vor beinahe einem Jahr durch Hyasyoda-Personal besucht.",
+    "en": "Found amongst the rubble of the Hyasyoda Logistics Center, this heavily encrypted data cache reveals very little. There is however, one dysfunctional and damaged data partition that can be easily read. Although much of the information is banal and uninteresting administrative jargon, there is one small report included that touches upon the Serpentis facility. Strangely enough, according to the official documentation here, the last time any Hyasyoda personnel visited the area was almost a year ago.",
+    "es": "Este contenedor de datos altamente encriptados, encontrado entre los escombros del centro logístico de Hyasyoda, revela muy poco. Sin embargo, hay una partición de datos dañada y disfuncional que se puede leer fácilmente. Aunque gran parte de la información es jerga administrativa banal y de poco interés, hay un breve informe que trata sobre las instalaciones de Serpentis. Curiosamente, según la documentación oficial que contiene, la última vez que el personal de Hyasyoda visitó la zona fue hace casi un año.",
+    "fr": "Retrouvé au milieu des débris du centre logistique hyasyoda, ce cache de données fortement crypté ne révèle que très peu d'informations. Toutefois, il contient une partition de données dysfonctionnelle et endommagée, mais facile à lire. Si ces informations sont assez banales et se réfèrent à un jargon administratif ennuyeux, un petit rapport concerne cependant les installations serpentis. Assez curieusement, et d'après les documents officiels découverts ici, la dernière visite d'un membre du personnel hyasyoda dans la zone remonte à un an.",
+    "ja": "ヒャショーダ物流センターの瓦礫から見つかったデータキャッシュ。厳重に暗号化されており、その内容はほとんど明らかになっていないものの、損傷し機能不全となっているデータパーティションが一つあり、その部分は簡単に読み取ることができる。大部分はありふれた、興味を引かない管理上の専門用語だが、その中に、サーペンティスの施設についてのレポートが一つある。奇妙なことに、この公式文書によると、ヒャショーダの担当者が最後にこの場所を訪れたのは1年近くも前のことになっている。",
+    "ko": "하야스요다 지원 센터의 잔해에서 발견된 데이터 캐시로 대부분의 정보가 암호화된 상태입니다. 다행히도 손상된 데이터 파티션이 존재하여 비교적 쉽게 해독이 가능할 것으로 보입니다. 해독된 정보는 대부분 쓸데 없는 행정 용어로 가득 차 있으나 딱 한 군데에서 서펜티스 시설에 관한 내용이 기록되어 있습니다. 공식 문건에 따르면 서펜티스 시설을 마지막으로 방문한 것은 약 1년 전의 일입니다.",
+    "ru": "Найденное в развалинах Центра логистики Hyasyoda, это зашифрованное хранилище данных не открывает многого. Однако, один из поврежденных разделов можно легко прочитать. Несмотря на то, что большая часть информации состоит из банальной и бесполезной административной переписки, один небольшой отчет упоминает Комплекс Serpentis. Как ни странно, по официальным данным, с тех пор, как сотрудники Hyasyoda посещали этот район, прошел почти год.",
+    "zh": "三岛集团后勤中心的瓦砾中找到的物品，这个进行了严格加密的数据存储器看不出来到底有什么秘密。不过，其中有一部分的数据分区已经受到了损坏可以轻易地被读取。尽管中间大部分的信息都是平凡无奇的各种术语，只是在其中一篇简短的报告中包含了有关天蛇设施的信息。奇怪的是，从这里的官方文档上看，上一次三岛集团的人来这个区域已经是大约一年前的事情了。"
+  },
+  "groupID": 314,
+  "iconID": 2886,
+  "mass": 10.0,
   "name": {
     "de": "CPF.HYA LogInt Facility POI-26: Data Cache",
     "en": "CPF.HYA LogInt Facility POI-26: Data Cache",
@@ -10,5 +22,7 @@
     "ru": "CPF.HYA LogInt Facility POI-26: Data Cache",
     "zh": "CPF.HYA LogInt 设施 POI-26：数据存储器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 3.0
 }

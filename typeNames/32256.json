@@ -1,5 +1,18 @@
 {
-  "typeID": 32256,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Kommunikationszentrale",
+    "en": "Communications Array",
+    "es": "Sistema de comunicaciones",
+    "fr": "Module de communication.",
+    "ja": "通信施設",
+    "ko": "통신 중계시설",
+    "ru": "Communications Array",
+    "zh": "通讯阵列"
+  },
+  "graphicID": 2505,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "RSS Radio Telescope",
     "en": "RSS Radio Telescope",
@@ -10,5 +23,9 @@
     "ru": "RSS Radio Telescope",
     "zh": "RSS射电望远镜"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 30503,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Die langen Behälter im Verbindungsmodul geben keinen Hinweis auf ihre Verwendung. Archäologen mutmaßen, dass die Behälter Rettungskapseln, Nahrungsvorräte, Treibstoff oder Folterwerkzeuge enthielten. Einige Theorien behaupten sogar, dass all das Genannte stimmt.",
+    "en": "The long capsules in the coupling array offer no hints as to their purpose. Archaeologists conjecture that the Array contained escape vessels, food bins, fuel resources or equipment for punishment. Some theories purport that all of the above are true.",
+    "es": "Las cápsulas largas del sistema de acople no dan pistas sobre su propósito. Los arqueólogos conjeturan que el sistema contenía naves de huida, arcones de comida, recursos de combustible o instrumentos de castigo. Algunas teorías afirman que todo lo anterior es cierto.",
+    "fr": "Les longues capsules du module de couplage ne donnent aucune indication quant à leur utilisation. D'après les archéologues, ce module contenait des vaisseaux de secours, des paniers de nourriture, des ressources en carburant ou du matériel de sentence. Certaines théories prétendent que tout cela est bien vrai.",
+    "ja": "結合施設内の長いカプセルは、何の目的で作られたのか不明である。考古学者の推測では、この施設の中には脱出用の船、食料の貯蔵容器、燃料、刑罰用の道具のいずれかが収められていたということだ。そのどれもが正しいという意見もある。",
+    "ko": "연결 구조물 사이에 위치한 캡슐은 어떤 용도였을지 알 수 없습니다. 고고학자들은 과거 선박, 식품, 연료, 또는 처벌 장비가 보관되었을 것으로 추측하고 있습니다. 이러한 추측은 몇몇 이론들로 인해 타당성이 뒷받침되어지고 있습니다.",
+    "ru": "По длинным капсулам в шлюзовом отсеке ничего невозможно сказать об их назначении. Археологи полагают, что в них могли помещаться спасательные шлюпки, контейнеры с пищей, топливные баки или оборудование для наказаний. Некоторые теории говорят в пользу всех вышеперечисленных догадок.",
+    "zh": "该连接设施上有一些长长地连在一起的太空舱，没人知道它们的作用。考古学者猜测其中可能是逃生舱、食物仓库、燃料库或者惩戒设备。还有人说可能这些东西都有。"
+  },
+  "graphicID": 3570,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Talocan Coupling Array",
     "en": "Talocan Coupling Array",
@@ -10,5 +23,9 @@
     "ru": "Talocan Coupling Array",
     "zh": "塔洛迦坚固的连接装置"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 4859.0,
+  "sofFactionName": "talocanbase",
   "volume": 100000000.0
 }

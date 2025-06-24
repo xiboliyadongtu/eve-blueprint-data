@@ -1,5 +1,19 @@
 {
-  "typeID": 28317,
+  "basePrice": 20000000.0,
+  "capacity": 20000.0,
+  "description": {
+    "de": "Eine Einrichtung, die sich um kürzlich von ihrer Vitoc-Abhängigkeit befreite Sklaven kümmert.",
+    "en": "A facility for treatment of recent slaves freed of their vitoc dependency.",
+    "es": "Un centro para el tratamiento de esclavos recién liberados de su dependencia al Vitoc.",
+    "fr": "Centre de désintoxication permettant de sevrer les esclaves récemment libérés de leur dépendance au Vitoc.",
+    "ja": "最近まで奴隷であった者がビトック中毒を治療する施設。",
+    "ko": "최근 해방된 노예들을 바이톡 중독에서 치료하는 시설입니다.",
+    "ru": "Помещение для лечения бывших рабов от Vitoc-зависимости.",
+    "zh": "一座为最近摆脱崴砣柯束缚的劳工提供治疗的设施。"
+  },
+  "graphicID": 2598,
+  "groupID": 404,
+  "mass": 100000000.0,
   "name": {
     "de": "Freedom Hospital",
     "en": "Freedom Hospital",
@@ -10,5 +24,9 @@
     "ru": "Freedom Hospital",
     "zh": "自由医院"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 907.0,
+  "sofFactionName": "genericmetal",
   "volume": 4000.0
 }

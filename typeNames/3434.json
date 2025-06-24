@@ -1,5 +1,18 @@
 {
-  "typeID": 3434,
+  "basePrice": 100000.0,
+  "description": {
+    "de": "Fertigkeit zur Verwendung von Remote Weapon Disruptoren.\r\n\r\n5% Reduktion des Energiespeicherverbrauchs von Weapon Disruptoren je Skillstufe.",
+    "en": "Skill at using remote weapon disruptors. 5% less capacitor need for weapon disruptors per skill level.",
+    "es": "Habilidad en el uso de disruptores de armas remotos. 5 % menos de necesidad del condensador del disruptor de armas por nivel de habilidad.",
+    "fr": "Compétence liée à l'utilisation de perturbation de l'armement à distance. Réduit de 5 % par niveau de compétence les besoins énergétiques du capaciteur pour la perturbation de l'armement.",
+    "ja": "遠隔妨害兵器を使うスキル。スキルレベル上昇ごとに妨害兵器のキャパシタ消費が 5% 減少する。",
+    "ko": "원격 무기 디스럽터를 위한 스킬입니다. 매 레벨마다 무기 디스럽터의 캐패시터 사용량 5% 감소",
+    "ru": "Навык эксплуатации постановщиков помех системам наводки. За каждую степень освоения навыка: на 5% сокращается расход энергии накопителя при работе постановщиков помех системам наводки.",
+    "zh": "使用远程武器干扰装备的技能。每升一级，武器干扰装备的电容消耗减少5%。"
+  },
+  "groupID": 272,
+  "iconID": 33,
+  "marketGroupID": 367,
   "name": {
     "de": "Weapon Disruption",
     "en": "Weapon Disruption",
@@ -10,5 +23,7 @@
     "ru": "Создание помех наводке орудий и ракет",
     "zh": "武器干扰研究"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

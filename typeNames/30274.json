@@ -1,5 +1,18 @@
 {
-  "typeID": 30274,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Nach unzähligen Jahren im All kann man dieser Struktur ihr Alter ansehen. Eine kurze Analyse der noch halb funktionstüchtigen Technologie im Inneren ergibt, dass sie als eine Art Notstromaggregat für andere Strukturen fungiert. Ein Element der Panzerung, das der Erosion zum Opfer gefallen ist, ermöglicht den Blick auf eine kleine, interne Hangarbucht, die möglicherweise als Anschluss für die automatischen Drohnen der Sleeper diente.",
+    "en": "After countless years in space, this structure is showing some signs of age. A brief analysis of the semi-functional technology inside reveals that it operates as some kind of auxiliary power source for other structures. Erosion in one of the armor panels exposes a small internal hangar bay, perhaps used as a docking port to power the Sleeper's automated drones.",
+    "es": "Tras haber pasado incontables años en el espacio, esta estructura presenta algunos signos de envejecimiento. Un breve análisis de la tecnología semifuncional que contiene revela que funciona como especie de fuente auxiliar de energía para otras estructuras. La erosión de uno de los paneles de blindaje deja ver una pequeña plataforma de hangar interior que tal vez se usaba como puerto de acoplamiento para cargar los drones automatizados de los sleepers.",
+    "fr": "Après un nombre incalculable d'années passées dans l'espace, cette structure montre quelques traces d'usure. Une rapide analyse de sa technologie interne semi-fonctionnelle suffit à révéler qu'elle sert de source auxiliaire d'énergie pour les autres structures. L'érosion visible sur une partie du blindage expose une petite baie du hangar, peut-être utilisée comme port d'amarrage servant à alimenter les drones automatisés de Sleeper.",
+    "ja": "非常に長い期間宇宙空間に置かれたこの建造物は、年月による劣化が多少見てとれる。内部技術の簡単な分析によると、これは他のスリーパー施設の補助エネルギー源のようだ。アーマーのパネルが1か所腐食しているため、内部の小さなハンガーベイの様子が見える。スリーパーのドローンにエネルギー供給するためのドッキングポートとして使われていたようだ。",
+    "ko": "무수한 세월 동안 우주에 부유해왔기에 세월의 흔적이 곳곳에 남아있습니다. 부분적으로 작동하는 구조물의 장비를 간단하게 분석한 결과 다른 구조물들에 전력을 공급해주는 보조 전력시설이었다는 것을 알 수 있었습니다. 장갑 플레이트 중 하나에 부식이 일어나 내부의 작은 격납고가 드러나 있습니다. 자동화 슬리퍼 드론에 전력을 공급하는 도킹 포트로 추정됩니다.",
+    "ru": "За бесчисленные годы пребывания в космосе это сооружение начинает проявлять признаки старения. Беглый анализ полуработающего оборудования, расположенного внутри нее, показал, что она является чем-то вроде дополнительного источника энергии, которой обеспечиваются другие сооружения. Пробоина в одном из бронелистов ведет в небольшой внутренний ангар, который, возможно, использовался для подзарядки дронов Sleeper.",
+    "zh": "在太空中漂浮了无数的年月之后，这座建筑物已经有了岁月的痕迹。对其中已经不完整的可用科技的初步分析显示，这是一座备用能源设施。一块破损的装甲板暴露了其中的一个机库，这可能是供冬眠者智能无人机使用的。"
+  },
+  "graphicID": 3518,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Eroded Sleeper Thermoelectric Converter",
     "en": "Eroded Sleeper Thermoelectric Converter",
@@ -10,5 +23,9 @@
     "ru": "Eroded Sleeper Thermoelectric Converter",
     "zh": "坏朽的冬眠者热电转换器"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 4738.0,
+  "sofFactionName": "sleeperbase",
   "volume": 100000000.0
 }

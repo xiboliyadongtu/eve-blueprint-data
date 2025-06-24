@@ -1,5 +1,16 @@
 {
-  "typeID": 88567,
+  "description": {
+    "de": "Da das Labyrinth wertvolle Lösungen kompiliert, werden sie in dieser Struktur angesammelt. Nur seine Zerstörung wird die darin enthaltenen Daten zugänglich machen.",
+    "en": "As the maze compiles valuable solutions, they are hoarded inside this structure. Only its destruction will make the data inside accessible.",
+    "es": "A medida que el laberinto recopila soluciones valiosas, estas se almacenan dentro de esta estructura. Solo su destrucción permitirá el acceso a los datos que contiene.",
+    "fr": "À mesure que le labyrinthe compile des solutions précieuses, elles sont stockées à l'intérieur de cette structure. Seule sa destruction rendra les données à l'intérieur accessibles.",
+    "ja": "迷路が構築した価値ある解は、すべてこのストラクチャ内部に貯蔵される。これを破壊して初めて内部のデータにアクセスできるだろう。",
+    "ko": "미로는 귀중한 솔루션을 구조물 안에 비축합니다. 내부 데이터를 확인하려면 파괴해야 합니다.",
+    "ru": "В этом сооружении хранятся все качественные решения, собранные лабиринтом. Чтобы получить доступ к этим данным, объект придётся уничтожить.",
+    "zh": "迷宫会将囤积的宝贵解决方案都储存起来。唯有摧毁才能获取内部数据。"
+  },
+  "graphicID": 28016,
+  "groupID": 319,
   "name": {
     "de": "Reckoning Hoard",
     "en": "Reckoning Hoard",
@@ -10,5 +21,8 @@
     "ru": "Reckoning Hoard",
     "zh": "估算储备库"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 5500.0,
+  "sofFactionName": "drifter"
 }

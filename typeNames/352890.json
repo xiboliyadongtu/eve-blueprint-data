@@ -1,5 +1,17 @@
 {
-  "typeID": 352890,
+  "basePrice": 8000000.0,
+  "description": {
+    "de": "Erweiterte Fertigkeit zur Führung einer Corporation. \n\n+200 Corporation-Mitglieder pro Skillstufe erlaubt.",
+    "en": "Advanced corporation operation. \r\n\r\n+200 corporation members allowed per level.",
+    "es": "Control avanzado de corporaciones. \n\nAumenta en 200 el número de miembros corporativos permitidos por nivel.",
+    "fr": "Gestion de corporation avancée. \n\n+200 membres de corporation autorisés par niveau.",
+    "it": "Operazione corporazione avanzata. \n\n+200 membri consentiti per livello.",
+    "ja": "高度なコーポレーション運営。 \n\nレベル上昇ごとに、コーポレーションのメンバー数上限が200人増加。",
+    "ko": "상급 코퍼레이션 경영관리 스킬입니다.<br><br>매 레벨마다 코퍼레이션 멤버 +200",
+    "ru": "Углубленный навык управления корпорацией. \n\n+200 к количеству членов корпорации на каждый уровень.",
+    "zh": "军团运作的高级技能。每升一级，军团成员上限提升200人。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Interstellare Imperiumskontrolle",
     "en": "Transstellar Empire Control",
@@ -11,5 +23,7 @@
     "ru": "Межзвездный контроль империи",
     "zh": "泛星帝国控制"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

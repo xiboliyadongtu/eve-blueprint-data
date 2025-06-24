@@ -1,5 +1,18 @@
 {
-  "typeID": 2505,
+  "basePrice": 500000.0,
+  "description": {
+    "de": "Jede Stufe in diesem Skill verbessert die Qualität der Befehlsanlage, die Ihnen zur Verfügung steht, was wiederum eine größere Anzahl an vernetzten Anlagen auf diesem Planeten erlaubt.",
+    "en": "Each level in this skill improves the quality of command facility available to you, in turn allowing for a greater number of connected facilities on that planet.",
+    "es": "Cada nivel de esta habilidad mejora la calidad del centro de mando disponible, lo cual permite conectar más instalaciones en el planeta.",
+    "fr": "Chaque niveau de cette compétence améliore la qualité de l'installation de commandement, augmentant par la même occasion le nombre d'installations connectées sur cette planète.",
+    "ja": "レベル上昇ごとに、使用できる指令施設の品質が改善され、結果として、惑星上で接続できる施設数が増加する。",
+    "ko": "스킬 습득 시 통제센터의 전반적인 성능이 향상되며, 더욱 많은 숫자의 행성 시설을 건설할 수 있습니다.",
+    "ru": "Каждая степень освоения этого навыка повышает качество доступных сооружений командного комплекса и позволяет поддерживать большее количество связанных между собой сооружений на планете.",
+    "zh": "此项技能的每一等级都能提高你的指挥中心的质量，这样你就可以增加连接到指挥中心上的设施的数量。"
+  },
+  "groupID": 1241,
+  "iconID": 33,
+  "marketGroupID": 1823,
   "name": {
     "de": "Command Center Upgrades",
     "en": "Command Center Upgrades",
@@ -10,5 +23,7 @@
     "ru": "Модификации наземной базы",
     "zh": "指挥中心升级理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

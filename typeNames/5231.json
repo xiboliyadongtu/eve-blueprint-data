@@ -1,5 +1,17 @@
 {
-  "typeID": 5231,
+  "description": {
+    "de": "Weitverbreiteter Low-Tech-Bergbaulaser. Der Laser eignet sich gut zur Gewinnung einfacher Erze, ist aber sonst kaum brauchbar.",
+    "en": "Common, low technology mining laser. Works well for extracting common ore, but not useful for much else.",
+    "es": "Láser minero de tecnología común de bajo nivel. Funciona bien para extraer menas comunes, pero no sirve para mucho más.",
+    "fr": "Laser d'extraction courant et de technologie rudimentaire. Il est recommandé pour l'extraction des minerais communs, mais son efficacité est limitée pour les autres.",
+    "ja": "広く普及し、さほど高度な技術も使われていない採掘レーザー。一般的な鉱石の採掘には便利だが、それ以外の採掘には役に立たない。",
+    "ko": "하급 기술로 제작된 채굴 레이저입니다. 일반적인 광석은 문제가 없지만 희귀 광석의 경우 채굴이 어렵습니다.",
+    "ru": "Стандартный экстрактор низкого технологического уровня. Неплохо справляется с добычей простой руды, но в остальном — не очень полезен.",
+    "zh": "科技含量低的普通采矿激光器。适合开采普通矿石，但派不上别的什么用场。"
+  },
+  "graphicID": 11146,
+  "groupID": 54,
+  "iconID": 1061,
   "name": {
     "de": "EP-R Argon Ion Basic Excavation Pulse",
     "en": "EP-R Argon Ion Basic Excavation Pulse",
@@ -10,5 +22,10 @@
     "ru": "EP-R Argon Ion Basic Excavation Pulse",
     "zh": "EP-R氩离子基础型挖掘脉冲"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 25.0,
+  "sofFactionName": "orebase",
   "volume": 5.0
 }

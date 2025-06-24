@@ -1,5 +1,15 @@
 {
-  "typeID": 1643,
+  "description": {
+    "de": "Verhindert Veränderung der Charakterattribute, die die Zeitdauer eines Skilltrainings steuern. Booster oder gelernte Fähigkeiten, die die Primär- oder Sekundärattribute ändern, hätten daher auf einen epileptischen Charakter keine Auswirkung.",
+    "en": "Prevents attribute change instigated skill training time adjustments.  Boosters and trained skills which change the primary or secondary attributes would therefore have no effect on an epileptic character.",
+    "es": "Evita los cambios de atributo instigados por los ajustes de tiempo del desarrollo de habilidades. Por lo tanto, los potenciadores y las habilidades desarrolladas que cambian los atributos primarios o secundarios no tendrían efecto en un personaje epiléptico.",
+    "fr": "Empêche la modification d'attribut provoquée par la durée de formation pour la compétence.  Les boosters et les compétences apprises qui modifient les attributs principaux ou secondaires n'ont aucun effet sur un personnage épileptique.",
+    "ja": "特性の変化によるスキルトレーニング時間の調整が行われないようにする。したがって、エピレプティックキャラクターにとって、第一または第二特性を変化させるブースターやスキルは効果がない。",
+    "ko": "스킬 훈련 시간 조절 때문에 일어날 수 있는 능력치 변화를 예방합니다. 부스터 및 훈련이 끝난 스킬들은 캐릭터의 주 능력치 및 보조 능력치에 영향을 미치지 못하게 됩니다.",
+    "ru": "Препятствует изменениям характеристик вследствие изменения времени изучения навыков.  Таким образом, бустеры и освоенные навыки, которые изменяют первичные или вторичные характеристики, теряют эффективность у персонажа с эпилепсией.",
+    "zh": "阻止影响属性变化的技能的训练时间修正。增效剂和已练成的用来改变首要和次要属性的技能，对癫痫病发作的角色没有效果。"
+  },
+  "groupID": 192,
   "name": {
     "de": "Epileptic Bonus",
     "en": "Epileptic Bonus",
@@ -10,5 +20,6 @@
     "ru": "Epileptic Bonus",
     "zh": "抑郁狂躁加成"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

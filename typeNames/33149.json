@@ -1,5 +1,20 @@
 {
-  "typeID": 33149,
+  "basePrice": 10000000.0,
+  "capacity": 50000.0,
+  "description": {
+    "de": "Eine große Hangarstruktur zur einfachen Lagerung von Materialien und Modulen.\n\n\n\nDieser Hangar wurde für die Lagerung von kleineren Gegenständen entwickelt. Jede Person hat nur Zugang zu ihrem eigenen Bereich des Lagerraums.",
+    "en": "A large hangar structure, for easy storage of materials and modules.\r\n\r\nThis hangar is designed for personal storage of moderate volume items, and each individual only has access to their own section of the storage space.",
+    "es": "Una gran estructura de hangar para almacenar fácilmente materiales y módulos.\n\n\n\nEste hangar está diseñado para el almacenamiento personal de artículos de volumen moderado. Cada individuo solo tiene acceso a su propia sección del espacio de almacenamiento.",
+    "fr": "Hangar de grande taille simplifiant le stockage du matériel et des modules.\n\nCe hangar est conçu pour le stockage personnel d'objets de taille moyenne. Chaque individu n'a accès qu'à sa propre section de l'espace de stockage.",
+    "ja": "設置式の大型ハンガー。資源やモジュールの簡易倉庫として使われる。\n\nこのハンガーは、十分なボリュームのアイテムを保管できる個人用ハンガーで、保管スペースにアクセスできるのは所有者のみである。",
+    "ko": "재료 및 모듈을 보관할 수 있는 대규모 격납고입니다. <br><br>각 개인에게 개별적인 저장 공간이 주어지며 평균적인 부피를 지닌 아이템을 보관할 수 있습니다.",
+    "ru": "Вместительный ангар для удобного хранения материалов и модулей.\n\n\n\nЭтот ангар предназначен для хранение личного имущества средних габаритов; каждый пилот имеет доступ только к персональному отсеку складского пространства.",
+    "zh": "一座巨型的机库建筑，可方便地对材料和装备进行分类储藏。这个机库专为私人存储中等数量的物品而设计，每个人都只能使用自己那部分存储空间。"
+  },
+  "graphicID": 2301,
+  "groupID": 1212,
+  "marketGroupID": 1702,
+  "mass": 100000000.0,
   "name": {
     "de": "Personal Hangar Array",
     "en": "Personal Hangar Array",
@@ -10,5 +25,9 @@
     "ru": "Personal Hangar Array",
     "zh": "个人机库阵列"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 911.0,
+  "sofFactionName": "genericmetal",
   "volume": 4000.0
 }

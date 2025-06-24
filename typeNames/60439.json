@@ -1,5 +1,17 @@
 {
-  "typeID": 60439,
+  "description": {
+    "de": "Diese große Raubdrohnenkolonie stellt eine Gefahr für die naheliegenden Systeme dar. AIR bittet die Kapselpiloten, die Kolonie zu infiltrieren und deren Aufseherdrohne zu zerstören. Das Beschleunigungstor zum Betreten dieser Kolonie erlaubt Tech 1 und Fraktionsfregatten sowie Teach-1-Zerstörern die Durchreise.",
+    "en": "This large colony of rogue drones represents a clear threat to the nearby systems. AIR has requested that capsuleers enter the colony and destroy its overseer drone.\r\n\r\nThe acceleration gate used to enter this drone colony allows passage for Tech 1 and Faction Frigates, as well as Tech 1 Destroyers.",
+    "es": "Esta gran colonia de drones rebeldes representa una amenaza clara para los sistemas cercanos. AIR ha solicitado que los capsulistas entren en la colonia y destruyan al dron overseer.\n\n\n\nEl portal de aceleración que se usa para entrar en esta colonia de drones permite el paso a fragatas T1 y faccionarias, además de a destructores T1.",
+    "fr": "Cette vaste colonie de drones renégats représente une véritable menace pour les systèmes voisins. L'AIR a fait appel à des capsuliers pour entrer dans la colonie et détruire son drone surveillant. Le portail d'accélération utilisé pour entrer dans cette colonie de drones permet à des frégates de faction Tech I ainsi qu'à des destroyers Tech I de passer.",
+    "ja": "このローグドローンの巨大コロニーは、近くのシステムに明らかな脅威となる。AIRは、コロニーに侵入してオーバーシーヤードローンを破壊するよう、カプセラに要請した。\n\n\n\nドローンコロニーに侵入するために使用するアクセラレーションゲートは、T1勢力別フリゲートとT1駆逐艦のみ使用可能。",
+    "ko": "대규모 로그 드론 콜로니로 주변 항성계를 위협하고 있습니다. AIR는 콜로니를 소탕하고 오버시어를 파괴할 것을 요청했습니다.<br><br>콜로니로 향하는 액셀레이션 게이트는 테크 I/팩션 프리깃 및 테크 I 디스트로이어를 통과시킬 수 있습니다.",
+    "ru": "Крупная колония восставших дронов представляет серьёзную угрозу для соседних систем. АМИ просит капсулёров проникнуть в колонию и уничтожить дрона-надзирателя. Разгонные ворота, ведущие в колонию, пропускают фрегаты и эсминцы первого техноуровня, а также армейские фрегаты.",
+    "zh": "这片大型自由无人机领地对附近的星系造成了直接威胁。星空会要求克隆飞行员深入领地并摧毁那里的无人机监工。\n\n\n\n通向这个无人机领地的加速轨道允许一级科技护卫舰、驱逐舰和势力护卫舰进入。"
+  },
+  "graphicID": 1211,
+  "groupID": 310,
+  "mass": 1.0,
   "name": {
     "de": "Rogue Drone Outgrowth Colony",
     "en": "Rogue Drone Outgrowth Colony",
@@ -10,5 +22,8 @@
     "ru": "Rogue Drone Outgrowth Colony",
     "zh": "无人机扩张殖民地"
   },
+  "portionSize": 1,
+  "published": false,
+  "sofFactionName": "genericbase",
   "volume": 1.0
 }

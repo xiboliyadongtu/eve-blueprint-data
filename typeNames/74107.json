@@ -1,5 +1,16 @@
 {
-  "typeID": 74107,
+  "description": {
+    "de": "Diese Struktur dient als zentraler Kommandoposten dieses Systems. Wer dieses Infrastrukturzentrum kontrolliert, kann das ganze System militärisch kontrollieren. Seit einem großen Militäreinsatz in Placid am 8. November YC124, ist dieses Infrastrukturzentrum fest in der Hand der Federation Navy.",
+    "en": "This structure serves as the central command post for this system. Whoever controls this Infrastructure Hub can exert system-wide military control.\r\nThis infrastructure hub is firmly under the control of the Federation Navy in the aftermath of a massive Federal military deployment into Placid on November 8th YC124.",
+    "es": "Esta estructura actúa como puesto de mando central para este sistema. Quien controle el centro de infraestructuras puede ejercer un amplio control militar.\nEste centro de infraestructuras está firmemente controlado por la Armada de la Federación, como resultado de un enorme despliegue militar federal en Placid el 8 de noviembre del año 124 CY.",
+    "fr": "Cette structure sert de poste de commandement central pour ce système. Quiconque commande ce centre d'infrastructure peut exercer un contrôle militaire à l'échelle du système. Ce centre d'infrastructure est sous le contrôle absolu de la Federation Navy à la suite d'une opération militaire fédérale de grande envergure à Placid le 8 novembre CY 124.",
+    "ja": "このソーラーシステムの中央司令所となっている建造物。この領域管理用拠点を制圧すれば、システム全体を軍事的に制圧できる。\nこのインフラストラクチャハブは、YC124年11月8日に起きたプラシッドに対する連合の大規模派兵の影響により、完全に連邦海軍の管理下に置かれている。",
+    "ko": "성계의 중앙 지휘소로 사용되는 구조물입니다. 인프라 허브 점령 시 성계 전역의 군사 통제권을 장악할 수 있습니다. 현재 이 인프라 허브는 YC 124년 11월 8일에 일어난 갈란테 연방군의 대규모 플라시드 침공 당시 갈란테 연방 해군이 점령해 통제하고 있습니다.",
+    "ru": "Это сооружение служит центральным командным пунктом в этой системе. Любой, кто займёт этот центр инфраструктуры, получит военный контроль над всей системой. В этом центре инфраструктуры прочно обосновался флот Федерации. Это произошло после масштабного ввода галлентских войск в сектор Placid 8 ноября 124 года от ю. с.",
+    "zh": "这座建筑是这个星系的中央指挥站。无论谁控制了这座设施中心就可以控制整个星系的军事力量。\n\n在YC124年11月8日联邦舰队在宁静之域的大规模行动之后，这座建筑现在处于联邦海军的控制之下。"
+  },
+  "graphicID": 3827,
+  "groupID": 226,
   "name": {
     "de": "Federation Navy-Infrastrukturzentrum",
     "en": "Federation Navy Infrastructure Hub",
@@ -10,5 +21,10 @@
     "ru": "Центр инфраструктуры под Federation Navy.",
     "zh": "联邦海军基础设施中心"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 10290.0,
+  "sofFactionName": "genericbase",
+  "soundID": 20187
 }

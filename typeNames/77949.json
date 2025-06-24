@@ -1,5 +1,19 @@
 {
-  "typeID": 77949,
+  "basePrice": 350000.0,
+  "description": {
+    "de": "Eine Reihe von Fehlern, die protokolliert werden, wenn ein Amarr-Virus einen brachialen Angriff unternehmen würde, um nach kritischen Schwachstellen im Code zu suchen. Im Protokoll gibt es Hinweise auf die Methodik des Virus. Mit ausreichend Protokollen könnten die Sicherheitskräfte der Minmatar möglicherweise zukünftige Angriffe abwehren.",
+    "en": "A series of errors logged as an Amarrian virus attempts a brute force attack, searching for critical exploits in its target’s code.\r\n\r\nWithin the log, there are clues as to the virus' methodology. With enough logs Minmatar security forces might be able to protect against future attacks.",
+    "es": "Una serie de errores registrados como un virus amarriano que intentan lanzar un ataque a fuerza bruta, buscando fallos críticos en el código del objetivo.\r\n\r\nEn el registro, hay pistas sobre la metodología del virus. Con registros suficientes, las fuerzas de seguridad minmatarianas podrían protegerse frente a futuros ataques.",
+    "fr": "Une série d'erreurs enregistrée alors qu'un virus amarr tente une attaque par force brute, cherchant des failles critiques dans le code de sa cible. Au sein du journal d'erreurs se trouvent des indices sur la méthodologie du virus. En réunissant suffisamment de journaux, les forces de sécurité minmatar pourraient trouver comment se protéger contre les attaques futures.",
+    "ja": "アマー製ウイルスが、ターゲットのコードの致命的脆弱性を発見しようと総当たり攻撃を仕掛けた際のエラーログ。\r\n\r\nログにはウイルスが使用しているロジックの手掛かりが含まれている。十分な量のログがあれば、ミンマターの警備部隊が、今後の攻撃から身を守れるかもしれない。",
+    "ko": "아마르의 바이러스가 목표 프로그램의 취약점을 찾기 위해 무차별 공격을 시도하면서 발생한 오류 기록입니다.<br><br>취약점 기록은 바이러스의 작동 방식을 알아낼 단서입니다. 취약점 기록을 충분히 모으면, 민마타 보안국이 다음 공격에 대응할 수 있을 것입니다.",
+    "ru": "Ряд ошибок, которые возникают, когда амаррский вирус пытается атаковать цель методом полного перебора, предназначенным для поиска критических уязвимостей в программном коде. Этот отчёт содержит важную информацию о принципах действия вируса. Если в распоряжении минматарской службы безопасности окажется больше таких отчётов, дальнейшие атаки, возможно, удастся предотвратить.",
+    "zh": "在艾玛人病毒试图进行暴力破解攻击时记录的一系列错误，旨在从目标的代码中找到关键漏洞。日志中记录了一些关于病毒传播方式的线索。如果有充分的日志记录，或许能够帮助米玛塔尔安全部队防范未来的袭击。"
+  },
+  "groupID": 4575,
+  "iconID": 2038,
+  "marketGroupID": 1863,
+  "mass": 1.0,
   "name": {
     "de": "Imperial Exploit Log",
     "en": "Imperial Exploit Log",
@@ -10,5 +24,7 @@
     "ru": "Imperial Exploit Log",
     "zh": "帝国开发日志"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

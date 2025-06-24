@@ -1,5 +1,19 @@
 {
-  "typeID": 23725,
+  "basePrice": 17000.0,
+  "description": {
+    "de": "Mittlere Drohne zur Nachführstörung",
+    "en": "Medium Tracking Disruptor Drone",
+    "es": "Dron disruptor de rastreo mediano",
+    "fr": "Drone perturbateur de suivi intermédiaire.",
+    "ja": "中型追跡妨害器ドローン",
+    "ko": "미디움 트래킹 디스럽터 드론",
+    "ru": "Средний дрон глушения системы слежения",
+    "zh": "中型索敌扰断无人机"
+  },
+  "graphicID": 2778,
+  "groupID": 639,
+  "marketGroupID": 841,
+  "mass": 3000.0,
   "name": {
     "de": "Infiltrator TD-600",
     "en": "Infiltrator TD-600",
@@ -10,5 +24,10 @@
     "ru": "Infiltrator TD-600",
     "zh": "渗透者TD-600"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 15.0,
+  "sofFactionName": "amarrbase",
   "volume": 10.0
 }

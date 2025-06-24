@@ -1,5 +1,21 @@
 {
-  "typeID": 24513,
+  "basePrice": 600080.0,
+  "description": {
+    "de": "Die Scourge Heavy Missile ist ein altes Relikt aus dem Caldari Gallente Krieg und aufgrund ihres geringen Preises und ihrer Vielseitigkeit immer noch weit verbreitet.\n\n\n\nEine modifizierte Version der Scourge Heavy Missile. Eignet sich besonders für den Beschuss von kleineren Schiffen. Der Treibstoffverbrauch durch Stabilisierungs-Thruster verringert jedoch die maximale Flugzeit.",
+    "en": "The Scourge heavy missile is an old relic from the Caldari-Gallente War that is still in widespread use because of its low price and versatility.\r\n\r\nA modified version of the Scourge heavy missile. Great for taking down smaller ships, but fuel use by stabilization thrusters reduces maximum flight time.",
+    "es": "El misil pesado Scourge es una antigua reliquia de la guerra Caldari-Gallente que sigue en uso por su bajo precio y versatilidad.\n\nEsta versión modificada del misil pesado Scourge resulta ideal para derribar naves más pequeñas, aunque el consumo de combustible de los propulsores de estabilización reduce el tiempo de vuelo máximo.",
+    "fr": "Le missile lourd Scourge est une relique de la guerre Caldari-Gallente encore très appréciée en raison de son faible coût et de sa polyvalence.\n\nVersion modifiée du missile lourd Scourge. Ce missile est idéal face aux vaisseaux plus petits, mais l'utilisation du carburant par les propulseurs de stabilisation réduit le temps de vol maximal.",
+    "ja": "スコージヘビーミサイルはカルダリ-ガレンテ戦争の古い名残だが、その価格と万能性から、いまだに広く使用されている。\n\nスコージヘビーミサイルの改良版。小型艦を撃ち落とすには便利だが、姿勢制御スラスターが推進剤を食うので最大飛行時間は短くなる。",
+    "ko": "스커지 헤비 미사일은 칼다리-갈란테 전쟁의 유산으로 낮은 가격과 높은 범용성 덕분에 오늘날까지도 광범위하게 사용되고 있습니다. <br><br>개량된 스커지 헤비 미사일입니다. 소형 함선을 상대로 매우 효과적이지만 추진기 연료 사용으로 인해 최대 비행시간이 감소합니다.",
+    "ru": "Тяжелая ракета Scourge — реликт времен войны между Калдари и Галленте, которая все еще широко используется благодаря своей низкой цене и универсальности. Модификация тяжелой ракеты Scourge. Отлично подходит для поражения целей малых размеров, но максимальное время полета снижено ввиду значительного потребления топлива стабилизационными двигателями.",
+    "zh": "鞭挞重型导弹是遗留自加达里-盖伦特大战时期的老式导弹，不过由于其价格便宜且泛用性强，目前仍被广泛使用。这是鞭挞重型导弹的一种改良版本，针对小船效果好，但为了优化发射，导弹飞行时间上必须作出牺牲。"
+  },
+  "graphicID": 20051,
+  "groupID": 655,
+  "iconID": 189,
+  "marketGroupID": 919,
+  "mass": 1000.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Scourge Precision Heavy Missile",
     "en": "Scourge Precision Heavy Missile",
@@ -10,5 +26,9 @@
     "ru": "Scourge Precision Heavy Missile",
     "zh": "鞭挞精准重型导弹"
   },
+  "portionSize": 5000,
+  "published": true,
+  "radius": 300.0,
+  "variationParentTypeID": 209,
   "volume": 0.03
 }

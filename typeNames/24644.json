@@ -1,5 +1,22 @@
 {
-  "typeID": 24644,
+  "basePrice": 1555840.0,
+  "capacity": 0.8,
+  "description": {
+    "de": "Durch die Manipulation von Schwerkraftfeldern kann dieses Modul Frachtcontainer in Richtung des Schiffes ziehen.\n\n\n\nHinweis: Dieser Traktorstrahl kann nur in das Rorqual ORE Capital-Schiff eingebaut werden.",
+    "en": "By manipulating gravity fields, this module can pull cargo containers towards the ship. \r\n\r\nNote: This tractor beam can only be fitted on the Rorqual ORE Capital Ship.",
+    "es": "Este módulo puede atraer contenedores de carga hacia la nave manipulando campos de gravedad.\n\nAviso: Este rayo tractor solo se puede equipar en la nave capital Rorqual de ORE.",
+    "fr": "Ce module est capable de remorquer des conteneurs de fret jusqu'au vaisseau grâce aux techniques de manipulation des champs de gravité. Remarque : ce rayon de tractage est réservé au vaisseau capital de classe Rorqual conçu par ORE.",
+    "ja": "重力場を操ることで、カーゴコンテナを艦船に引き寄せることができる。 \r\n\n注意: このトラクタービームはロークアルのみ装備可能。",
+    "ko": "모듈 장착 시 중력장을 이용하여 화물 컨테이너를 함선으로 끌어올 수 있습니다. <br><br>참고: 해당 트랙터 빔은 로퀄 ORE 캐피탈 함선에만 장착할 수 있습니다.",
+    "ru": "Этот модуль манипулирует гравитационным полем, притягивая грузовые контейнеры к кораблю. \n\n\n\nПримечание: гравизахваты этого типа могут устанавливаться только на промышленных кораблях корпорации ОРЭ типа «Рорквал».",
+    "zh": "通过操纵重力场，这个装备能将货柜集装箱拖近飞船。 \n\n\n\n注意：该装备只能装配在工业旗舰长须鲸级上。"
+  },
+  "graphicID": 11868,
+  "groupID": 650,
+  "iconID": 2986,
+  "marketGroupID": 872,
+  "mass": 50.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Capital Tractor Beam I",
     "en": "Capital Tractor Beam I",
@@ -10,5 +27,9 @@
     "ru": "Capital Tractor Beam I",
     "zh": "旗舰级牵引光束 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 10.0,
+  "sofFactionName": "orebase",
   "volume": 4000.0
 }

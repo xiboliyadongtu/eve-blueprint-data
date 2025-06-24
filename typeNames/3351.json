@@ -1,5 +1,18 @@
 {
-  "typeID": 3351,
+  "basePrice": 500000.0,
+  "description": {
+    "de": "Fortgeschrittene Fertigkeit zur Verstärkung der Schilde verbündeter Schiffe. Erhört die Stärke der Effekte von Schildkommandostrahlen um 10 % pro Skillstufe.",
+    "en": "Advanced proficiency at boosting the shield defenses of allied ships. Increases the strength of Shield Command Burst effects by 10% per skill level.",
+    "es": "Habilidad avanzada para potenciar las defensas de escudo de las naves aliadas. Aumenta la intensidad de los efectos de estallido de mando de escudo un 10 % por nivel de habilidad.",
+    "fr": "Maîtrise avancée de la projection de boucliers dédiée au renforcement des boucliers défensifs des vaisseaux alliés. Augmente de 10 % par niveau la puissance des effets des salves de commandement de boucliers.",
+    "ja": "味方艦船のシールド防御力を向上させる高度な能力。スキルレベル上昇ごとにシールドコマンドバーストの効果が10%増加。",
+    "ko": "아군 함선의 실드 성능을 향상하기 위한 상급 스킬입니다. 매 레벨마다 실드 버스트 효과 10% 증가",
+    "ru": "Глубинные познания в области повышения эффективности щитов союзных кораблей. За каждую степень освоения навыка: на 10% повышается эффективность действия импульсов, генерируемых импульсными оптимизаторами щитов.",
+    "zh": "精通于增强所有友方舰船的护盾防御能力的高级技能。每升一级，护盾指挥脉冲波的效果强度提高10%。"
+  },
+  "groupID": 258,
+  "iconID": 33,
+  "marketGroupID": 370,
   "name": {
     "de": "Shield Command Specialist",
     "en": "Shield Command Specialist",
@@ -10,5 +23,7 @@
     "ru": "Спецкурс оптимизации силовой защиты флотов",
     "zh": "护盾指挥专业研究"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

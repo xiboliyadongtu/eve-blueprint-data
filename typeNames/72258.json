@@ -1,5 +1,19 @@
 {
-  "typeID": 72258,
+  "basePrice": 100000.0,
+  "description": {
+    "de": "Dieser Token kann an einigen Schauplätzen gefunden werden, die mit dem Caldari-Arbeitertag in Verbindung stehen. Er kann an zahlreichen Caldari-Stationen für eine ISK-Belohnung verkauft werden.",
+    "en": "This token can be found within some sites related to the Caldari Union Day event and may be sold in many Caldari stations for an ISK reward.",
+    "es": "Esta ficha se encuentra en algunas zonas relacionadas con el evento del Día de la Unión Caldari y puede venderse en muchas estaciones caldaris a cambio de una retribución en ISK.",
+    "fr": "Ce jeton peut être trouvé sur certains sites liés à l'événement Jour des Syndicats caldari et peut être échangé dans plusieurs stations caldari contre une récompense ISK.",
+    "ja": "このトークンは、「カルダリ・ユニオンデイ」イベントに関連する一部のサイトで手に入り、多数のカルダリステーションにてISK報酬として売却可能だ。",
+    "ko": "칼다리 연맹 기념일 사이트에서 획득할 수 있는 토큰으로 칼다리 소속 정거장에서 ISK로 교환할 수 있습니다.",
+    "ru": "Этот жетон можно найти на некоторых участках, где проходят мероприятия в честь Дня единства Калдари, а затем продать его за ISK на любой калдарской станции.",
+    "zh": "这个凭证可以在某些加达里工会日地点中找到，在许多加达里空间站可以兑换成星币。"
+  },
+  "groupID": 314,
+  "iconID": 24679,
+  "marketGroupID": 754,
+  "mass": 1.0,
   "name": {
     "de": "Operation Center Reward Token",
     "en": "Operation Center Reward Token",
@@ -10,5 +24,7 @@
     "ru": "Operation Center Reward Token",
     "zh": "运营中心奖励凭证"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

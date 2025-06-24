@@ -1,5 +1,18 @@
 {
-  "typeID": 77680,
+  "capacity": 235.0,
+  "description": {
+    "de": "Ein Blackbird-Kreuzer, der über ECM-Fähigkeiten verfügt, um eingehende Angriffe zu stören und alle elektronischen Aufzeichnungen über seine Anwesenheit zu verfälschen. Aufgrund seiner generischen Markierungen lässt sich unmöglich bestimmen, für welche der acht Megacorporations die Operatoren an Bord arbeiten.",
+    "en": "A Blackbird cruiserfitted with ECM capabilities to disrupt incoming attacks and confuse any electronic records of their presence.\r\n\r\nConstructed with generic markings there is no way to determine which of the eight megacorporations the operatives aboard are working for.",
+    "es": "Un crucero Blackbird equipado con capacidades ECM para interrumpir los ataques entrantes y confundir cualquier registro electrónico de su presencia.    Construida con marcas genéricas, no hay forma de determinar para cuál de las ocho megacorporaciones trabajan los operativos a bordo.",
+    "fr": "Un croiseur Blackbird équipé de capacités CME afin de perturber les attaques le prenant pour cible et de brouiller tout signal électronique trahissant sa présence. Ses marqueurs sont génériques, il est donc impossible de déterminer pour laquelle des huit mégacorporations les opérateurs à bord travaillent.",
+    "ja": "攻撃を妨害し、あらゆる電子的機器が自身を認識できないようにするECM能力を持つブラックバード級巡洋艦。    あたりさわりのないパーツ構成で、搭乗している工作員がどの8大メガコーポレーションに所属しているか判別できないようにになっている。",
+    "ko": "ECM을 운용해 적의 공격을 교란하고 추적을 뿌리칠 수 있는 블랙버드 크루저입니다.<br><br>범용적인 방식으로 건조된 탓에 8대 기업 중 어느 기업에 소속된 요원이 탑승하고 있는지 파악할 수 없습니다.",
+    "ru": "Этот крейсер типа Blackbird оснащён модулями для применения МЭП, которые не только мешают врагам эффективно вести огонь, но и сбивают с толку электронику, не давая определить точное местоположение корабля. По его маркировке невозможно определить, на какую из восьми мегакорпораций работает экипаж этого судна.",
+    "zh": "一艘黑鸟级巡洋舰，具备ECM能力，能够干扰外来的攻击，并扰乱任何有关其位置的电子记录。舰船印有通用标记，因此无法确定船上的特工具体在为八大集团中的哪一家效力。"
+  },
+  "graphicID": 311,
+  "groupID": 4571,
+  "mass": 11200000.0,
   "name": {
     "de": "Falsifier Blackbird",
     "en": "Falsifier Blackbird",
@@ -10,5 +23,11 @@
     "ru": "Falsifier Blackbird",
     "zh": "伪造者黑鸟级"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 172.0,
+  "sofFactionName": "caldaribase",
+  "soundID": 20070,
   "volume": 118000.0
 }

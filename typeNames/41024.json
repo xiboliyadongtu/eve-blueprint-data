@@ -1,5 +1,19 @@
 {
-  "typeID": 41024,
+  "basePrice": 30.0,
+  "description": {
+    "de": ">> AUFZEICHNUNG BEGINNT\n\n>> 03:01 - HQ 8-2\n\n>> TERMINAL 66104 – ECHO PROGRAMM\n\n>> TEXTÜBERTRAGUNG FOLGT\n\n\n\n03:01 – K/001/44: “Sie werden das ... das ... das nicht glauben.”\n\n03:01 – T/007/64: “Es ist drei Uhr Morgens. I grav out at six.  Schlafen Sie auch irgendwann?”\n\n03:02 – K/001/44: “Sie… sagten mir, dass ich Sie über alle Entw... alle... Änderungen informieren sollte…”\n\n03:02 – K/001/44: “Thar… Sind Sie immer noch hier?”\n\n03:02 – T/007/64: “Ich bin hier.” >>UNKLARES STATISCHES RAUSCHEN<< “Was quält Sie?”\n\n03:03 – K/001/44: “Ich… ich habe ihn gefunden.”\n\n>> ZEILENWECHEL – 01:33\n\n03:05 – K/001/44: “Sind Sie…”\n\nXX:XX – T/007/64: “Wachen Sie auf Kai, er wird es wissen wollen. Ich bin auf dem Weg.”\n\n>> ECHO DEINITIALISIERT",
+    "en": ">> CAPTURE INIT.\r\n>> 03:01 - HQ 8-2\r\n>> TERMINAL 66104 – ECHO PROGRAM\r\n>> TEXT TRANSCRIPT FOLLOWS\r\n\r\n03:01 – K/001/44: “You’re not going to… to… to believe this.”\r\n03:01 – T/007/64: “It’s three AM. I grav out at six.  Do you ever sleep?”\r\n03:02 – K/001/44: “You… told me to let you know of any devel… any… changes…”\r\n03:02 – K/001/44: “Thar… Are you still there?”\r\n03:02 – T/007/64: “I’m here.” >>INDISTINCT STATIC<< “What’s troubling you?”\r\n03:03 – K/001/44: “I… I found him.”\r\n>> LINE BREAK – 01:33\r\n03:05 – K/001/44: “Are you…”\r\nXX:XX – T/007/64: “Wake Kai, he’s going to want to know. I’m on my way.”\r\n>> ECHO DEINITIALIZED",
+    "es": ">> CAPTURA INIC.\n\n>> 03:01 - CG 8-2\n\n>> TERMINAL 66104: PROGRAMA ECO\n\n>> TRANSCRIPCIÓN DE TEXTO A CONTINUACIÓN\n\n03:01 – K/001/44: «No te lo vas a creer...»\n\n03:01 – T/007/64: «Son las 3 de la mañana. Salgo a las 6. ¿Es que tienes insomnio?»\n\n03:02 – K/001/44: «Me pediste que te comunicara cualquier entre... cambio...»\n\n03:02 – K/001/44: «Ahhg, ¿sigues ahí?»\n\n03:02 – T/007/64: «Sigo aquí.» >>RUIDO INDISTINGUIBLE<< «¿Qué te preocupa?»\n\n03:03 – K/001/44: «Le he encontrado.»\n\n>> SALTO DE LÍNEA – 01:33\n\n03:05 – K/001/44: «¿Seguro...?»\n\nXX:XX – T/007/64: «Despierta a Kai, querrá saberlo. Voy ahora mismo.»\n\n>> ECO INTERRUMPIDO",
+    "fr": ">> DÉBUT ENREGISTREMENT\n\n>> 03 : 01 - QG 8-2\n\n>> TERMINAL 66104 – PROGRAMME ÉCHO\n\n>> TRANSCRIPTION TEXTUELLE\n\n\n\n03 : 01 – K/001/44: “Vous... vous... vous n'allez jamais croire ça.”\n\n03 : 01 – T/007/64: “Il est trois heures du mat'. Je décolle à six heures...  Ça t'arrive jamais de dormir, bon sang ?”\n\n03 : 02 – K/001/44: “Vous… vous m'avez dit de vous prévenir en cas de dévelop… de… changements…”\n\n03 : 02 – K/001/44: “Thar… T'es encore là ?”\n\n03 : 02 – T/007/64: “Je suis là.” >>PARASITES<< “Qu'est-ce qui te tracasse ?”\n\n03 : 03 – K/001/44: “Je… je l'ai trouvé.”\n\n>> SAUT DE LIGNE – 01 : 33\n\n03 : 05 – K/001/44: “Vous…”\n\nXX:XX – T/007/64: “Réveille Kai, il voudra être au courant.” “Tout de suite.”\n\n>> ÉCHO DÉSACTIVÉ",
+    "ja": ">> CAPTURE INIT. >> 03:01 - HQ 8-2 >> TERMINAL 66104 – ECHO PROGRAM >> TEXT TRANSCRIPT FOLLOWS 03:01 – K/001/44: 「まさか君は信じ…信じ…信じないと思うが」 03:01 – T/007/64: 「今は午前3時だ。6時になればおれは重力圏外だ。ちょっとだけでも眠ればどうだ？」 03:02 – K/001/44: 「何らかの進展…いや変化…があれば報告せよと…言ってたじゃないか…」 03:02 – K/001/44: 「通信…まだつながってるか？」 03:02 – T/007/64: 「聞こえてる。」 >>INDISTINCT STATIC<< 「一体どうした？」 03:03 – K/001/44: 「あいつ…あいつを見つけた。」 >> LINE BREAK – 01:33 03:05 – K/001/44: 「君は…」 XX:XX – T/007/64: 「ワケ・カイ、やつは知る必要がある。すぐに出る。」 >> ECHO DEINITIALIZED",
+    "ko": ">>캡쳐 개시 <br><br>>> 03:01 - HQ 8-2 <br><br>>> 터미널 66104 – 에코 프로그램 실행 <br><br>>> 텍스트 기록 나열 <br><br>03:01 - K/001/44: \"저..저기..절대 못 믿겠지만...\" <br><br>03:01 – T/007/64: \"이봐. 새벽 3시야. 나 6시에 나가야 되는데 정말 이러고 싶어? 제발 잠 좀 자자.\" <br><br>03:02 – K/001/44: \"네가... 그랬잖아. 뭔가 발전...아니 변하면 알려달라고...\" <br><br>03:02 – K/001/44: \"타르... 듣고 있는 거지?\" <br><br>03:02 – T/007/64: \"어. 왜\" >>희미한 잡음<< \"그래서 뭐가 문젠데.\" <br><br>03:03 – K/001/44: \"그... 그... 내가 찾은 것 같아.\" >> 통신 두절 - 01:33 <br><br>03:05 – K/001/44: \"이런 젠...\" <br><br>XX:XX – T/007/64: \"카이 깨워서 상황 전달해. 난 당장 출발해야겠어.\" <br><br>>> 에코 프로그램 종료",
+    "ru": ">> НАЧАЛО ЗАПИСИ\n\n>> 03:01 - ШТАБ 8-2\n\n>> ТЕРМИНАЛ 66104 — ВЫВОД ПРОГРАММЫ\n\n>> ДАЛЕЕ ПРИВОДИТСЯ РАСШИФРОВКА ЗАПИСИ\n\n\n\n03:01 — K/001/44: «Ты... ты просто не поверишь».\n\n03:01 — T/007/64: «Сейчас три часа утра. Я встаю в шесть.  Ты вообще спишь когда-нибудь?»\n\n03:02 – K/001/44: «Но... ты же просил сообщать о разв... о любых изменениях...»\n\n03:02 – K/001/44: «Тар... Ты ещё здесь?»\n\n03:02 – T/007/64: «Да, здесь». >> ПОМЕХИ << «Что стряслось?»\n\n03:03 – K/001/44: «Я... я нашел его».\n\n>> ОБРЫВ ЛИНИИ — 01:33\n\n03:05 – K/001/44: «Ты...»\n\nXX:XX – T/007/64: «Разбуди Кая, он наверняка захочет это услышать. Я в пути».\n\n>> ОТКЛЮЧЕНИЕ",
+    "zh": ">> 捕捉初始化\n\n>> 03:01 - 总部8-2\n\n>> 66104号终端 – 埃克程序\n\n>> 文字记录如下\n\n\n\n03:01 – K/001/44：“你一定不会……相信这个。”\n\n03:01 – T/007/64：“现在是凌晨3点。我6点出发。  你睡过觉吗？\n\n03:02 – K/001/44：“是你说……如果发生任何事要我告诉你的……”\n\n03:02 – K/001/44：“你还在吗？”\n\n03:02 – T/007/64：“我还在。” >>模糊静态<< “你怎么了？”\n\n03:03 – K/001/44：“我……找到他了。”\n\n>> 换行 – 01:33\n\n03:05 – K/001/44：“你……”\n\nXX:XX – T/007/64: “快去把凯伊叫醒，他一定想知道这个消息。我这就去。”\n\n>> 埃可程序重新启动"
+  },
+  "groupID": 280,
+  "iconID": 1192,
+  "marketGroupID": 20,
+  "mass": 1.0,
   "name": {
     "de": "Audio Log Backup – 115/11/11 A-0477",
     "en": "Audio Log Backup – 115/11/11 A-0477",
@@ -10,5 +24,7 @@
     "ru": "Audio Log Backup – 115/11/11 A-0477",
     "zh": "语音日志备份 – 115/11/11 A-0477"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.1
 }

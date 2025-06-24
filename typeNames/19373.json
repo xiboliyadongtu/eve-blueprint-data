@@ -1,5 +1,19 @@
 {
-  "typeID": 19373,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Container wie dieser hier enthalten oft wertvolle Fracht.",
+    "en": "A container like this one often holds some valuables.",
+    "es": "Un contenedor como este suele guardar objetos de valor.",
+    "fr": "Un conteneur comme celui-ci renferme parfois des objets de valeur.",
+    "ja": "コンテナの一種。貴重品を積んでいることが多い。",
+    "ko": "이런 종류의 컨테이너에는 주로 값진 물품들이 들어있습니다.",
+    "ru": "В таких контейнерах часто содержится что-то ценное.",
+    "zh": "这种集装箱里通常装着值钱的东西。"
+  },
+  "graphicID": 1176,
+  "groupID": 496,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "The Prize Container",
     "en": "The Prize Container",
@@ -10,5 +24,10 @@
     "ru": "The Prize Container",
     "zh": "值钱的货柜"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericmetal",
+  "soundID": 31,
   "volume": 1200.0
 }

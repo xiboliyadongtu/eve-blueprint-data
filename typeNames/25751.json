@@ -1,5 +1,16 @@
 {
-  "typeID": 25751,
+  "description": {
+    "de": "Eine Tempest, die von einem Agenten geflogen wird.",
+    "en": "A Tempest piloted by an agent.",
+    "es": "Tempest pilotada por un agente.",
+    "fr": "Un Tempest piloté par un agent.",
+    "ja": "エージェントを乗せたテンペスト。",
+    "ko": "에이전트가 조종하는 템페스트입니다.",
+    "ru": "Корабль класса Tempest, управляемый агентом.",
+    "zh": "由代理人驾驶的狂暴级战舰。"
+  },
+  "graphicID": 48,
+  "groupID": 517,
   "name": {
     "de": "Akelf Ortar's Tempest",
     "en": "Akelf Ortar's Tempest",
@@ -10,5 +21,9 @@
     "ru": "Akelf Ortar's Tempest",
     "zh": "阿克尔夫·奥塔的狂暴级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 250.0,
+  "sofFactionName": "minmatarbase"
 }

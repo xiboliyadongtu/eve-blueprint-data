@@ -1,5 +1,16 @@
 {
-  "typeID": 21608,
+  "description": {
+    "de": "Die leere Hülle einer Astrofarm. Sie liegt zwar schon lange verlassen dort, ist aber noch gut in Schuss. Vielleicht wird sich eines Tages wieder ein abenteuerlustiger Farmer hier niederlassen.",
+    "en": "The empty hull of an astro farm. Though it was abandoned long ago it's still in good shape. Maybe one day an adventurous farmer will take up residence here.",
+    "es": "El casco vacío de una granja astral. Aunque fue abandonada hace mucho, sigue en buen estado. Quizá algún día un granjero aventurero se instale aquí.",
+    "fr": "Coque vide d'une astroferme. Bien qu'elle soit abandonnée depuis de longues années, elle est encore en bon état. Peut-être qu'un jour un fermier aventurier y élira domicile.",
+    "ja": "宇宙農園の外殻構造部。内部は空洞になっている。長い間、放置されているようだが、状態は悪くない。いずれ、物怖じしない農夫が住み着くようになるかもしれない。",
+    "ko": "텅 빈 우주 농장입니다. 오래전에 버려졌지만 아직 좋은 상태로 쓸만해 보입니다. 관심 있는 농부 아무나 자리 잡아 사용하기에도 문제없어 보입니다.",
+    "ru": "Пустой корпус космической фермы. Хоть он и давно покинут: но всё ещё находится в хорошем состоянии. Возможно, в один прекрасный день здесь поселится какой-нибудь смелый фермер.",
+    "zh": "空间农场的空壳。尽管被废弃了很久，但它依然保存完好。可能某天一个勇于冒险的农民会在此居住。"
+  },
+  "graphicID": 2706,
+  "groupID": 226,
   "name": {
     "de": "Astro Farm",
     "en": "Astro Farm",
@@ -10,5 +21,8 @@
     "ru": "Astro Farm",
     "zh": "空间农场"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 500.0,
+  "sofFactionName": "genericmetal"
 }

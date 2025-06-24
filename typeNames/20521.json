@@ -1,5 +1,16 @@
 {
-  "typeID": 20521,
+  "description": {
+    "de": "Eine Blackbird, die von einem Agenten geflogen wird.\r\n\r\nMissionen:\r\n<b>Schwierigkeitsgrad: Stufe 7</b>\r\n<i>Warnung: Es empfiehlt sich sowohl ein Kampf- als auch ein Industrieschiff</i>",
+    "en": "A Blackbird piloted by an agent.\r\n\r\nMissions:\r\n\r\n<b>Difficulty Rating: Grade 7</b>\r\n\r\n<i>Warning:  An industrial, as well as a combat ship, is recommended</i>",
+    "es": "Blackbird pilotada por un agente.\n\nMisiones:\n\n<b>Índice de dificultad: grado 7</b>\n\n<i>Aviso: Se recomienda una nave industrial, además de una nave de guerra.</i>",
+    "fr": "Un Blackbird piloté par un agent.\n\nMissions :\n\n<b>Niveau de difficulté : niveau 7</b>\n\n<i>Attention :  il est recommandé d'avoir un vaisseau industriel et un vaisseau de combat.</i>",
+    "ja": "エージェントを乗せたブラックバード。ミッション:\n\n<b>難易度:7</b>\n\n<i>警告:輸送艦または戦闘船を推奨</i>",
+    "ko": "에이전트가 조종하는 블랙버드입니다. <br><br>미션:<br><br><b>난이도: 7</b><br><br><i>경고: 배틀쉽 또는 인더스트리얼을 권장합니다.</i>",
+    "ru": "Корабль класса Blackbird, управляемый агентом. \n\nЗадания: \n\n<b>Рейтинг сложности: уровень 7</b> \n\n<i>Внимание: рекомендуется иметь промышленный и боевой корабль</i>",
+    "zh": "由代理人驾驶的黑鸟级飞船。 任务： <b>难度等级：7级</b> <i>警告：建议工业舰与战舰一起上</i>"
+  },
+  "graphicID": 311,
+  "groupID": 517,
   "name": {
     "de": "Helkelen's Blackbird",
     "en": "Helkelen's Blackbird",
@@ -10,5 +21,9 @@
     "ru": "Helkelen's Blackbird",
     "zh": "艾尔可棱的黑鸟级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 175.0,
+  "sofFactionName": "caldaribase"
 }

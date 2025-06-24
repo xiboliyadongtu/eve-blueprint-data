@@ -1,5 +1,18 @@
 {
-  "typeID": 32128,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieses Schlachtschiff der Megathron-Klasse ist beinahe komplett. Einige Decks und Innensysteme sind allerdings noch der Kälte des sie umgebenden Weltraums ausgesetzt.",
+    "en": "This Megathron battleship is partially complete, with decks and inner-hull systems exposed to the cold of surrounding space.",
+    "es": "Este acorazado Megathron solo está parcialmente completo, por lo que sus cubiertas y sistemas internos del casco están expuestos al frío del espacio.",
+    "fr": "Ce cuirassé Megathron est partiellement terminé. Son pont et ses systèmes de coque internes sont exposés à la froideur de l'espace environnant.",
+    "ja": "未完成のメガソロン級戦艦。デッキや船体内部機関が宇宙の外気にさらされている。",
+    "ko": "메가쓰론의 내부 구조가 차가운 우주 공간에 고스란히 노출되어 있습니다.",
+    "ru": "Этот линейный корабль класса Megathron завершен наполовину; его палубы и внутрикорпусные системы пока открыты для космического холода.",
+    "zh": "这艘万王宝座级只有一部分建造完成，很多甲板层和内部结构系统都暴露在冰冷的太空中。"
+  },
+  "graphicID": 2408,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Fortified Partially Constructed Megathron",
     "en": "Fortified Partially Constructed Megathron",
@@ -10,5 +23,10 @@
     "ru": "Fortified Partially Constructed Megathron",
     "zh": "强化的未完成的万王宝座级"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 539.0,
+  "sofFactionName": "gallentebase",
   "volume": 100000000.0
 }

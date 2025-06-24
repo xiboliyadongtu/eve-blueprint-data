@@ -1,5 +1,18 @@
 {
-  "typeID": 29031,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese Navy-Version eines Kommandopostens - eigentlich ein stark modifizierter Sternenbasis-Kontrollturm - wurde weiterentwickelt und den Ansprüchen der 7. Flotte angepasst. Jeder Kommandoposten ist in der Lage, Flottenoperationen in einem ganzen System zu leiten und verfügt über Überlichtfunk-Ausrüstung, einen Feldspezifikations-Hauptrechner sowie komplette Führungseinrichtungen.",
+    "en": "Essentially an extensively modified Starbase Control Tower, this Navy-issue Command Post has been further modified to meet the 7th Fleet's specific needs. Each Command Post is capable of running Fleet operations for an entire system, and contains FTL comms equipment, a field-spec mainframe and full command-and-control facilities.",
+    "es": "Este puesto de mando de la Armada, en esencia la torre de control de una base estelar fuertemente modificada, ha sido alterada aún más para satisfacer las necesidades específicas de la 7.ª flota. Cada puesto de mando es capaz de dirigir las operaciones de la flota de todo un sistema y contiene equipos de comunicación supralumínica y un ordenador central de campo, además de instalaciones completas de mando y control.",
+    "fr": "Tour de contrôle de base stellaire largement modifiée, ce poste de commandement de modèle Navy a été retravaillé de manière à répondre aux besoins spécifiques de la 7e flotte. Chaque poste de commandement est capable de gérer des opérations de la flotte pour l'ensemble d'un système, et contient un équipement de communication PRL, un ordinateur central spécifique et des installations de commande exhaustives.",
+    "ja": "大幅な改造を施されたスターベースコントロールタワー。この海軍仕様のコマンドポストは、第7艦隊に固有のニーズに合わせてさらに改造されている。各コマンドポストはシステム全体のフリート操作を実行でき、FTL通信装置、戦場対応型メインフレームコンピュータ、指揮管理用装備を備えている。",
+    "ko": "스타베이스 관제타워를 개량한 해군 지휘본부는 제7함대의 필요에 따라 또 한번의 개량을 거쳤습니다. 각각의 지휘소는 한 항성계에서 일어나는 함대의 오퍼레이션을 모두 통제할 수 있을만큼의 기량을 갖추었으며 FTL 통신 장비, 필드 스펙 메인프레임, 그리고 충분한 지휘통제 시설을 탑재하고 있습니다.",
+    "ru": "Этот командный пункт изначально представлял собой модифицированную башню управления базой, которая была доработана в соответствии с требованиями 7-го флота. Каждый командный пункт может управлять операциями флота в целой системе. Он оснащен оборудованием для сверхсветовой связи, боевым суперкомпьютером и прочей штабной техникой.",
+    "zh": "它基本上是一个大幅修改过的母星控制塔。作为一个海军型指挥塔，它也进行了进一步改造，以满足第七舰队的具体需求。每个指挥塔都有能力控制整个星系内的舰队行动，并装备了超光速通讯设备、一个战地主计算机及全套指挥控制设施。"
+  },
+  "graphicID": 2593,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "7th Fleet Mobile Command Post",
     "en": "7th Fleet Mobile Command Post",
@@ -10,5 +23,10 @@
     "ru": "7th Fleet Mobile Command Post",
     "zh": "第七舰队移动指挥站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 3394.0,
+  "sofFactionName": "amarrbase",
   "volume": 100000000.0
 }

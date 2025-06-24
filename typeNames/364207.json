@@ -1,5 +1,18 @@
 {
-  "typeID": 364207,
+  "basePrice": 25000000.0,
+  "description": {
+    "de": "Der Produktionsstättendistrikt ist immer begierig nach Materialien, insbesondere Biomasse. Das ihn umgebende Land bietet normalerweise keine Fauna und Flora; ob dies am leichten Gestank in der Luft oder an etwas Bedrohlicherem liegt, wurde niemals ergründet. Diejenigen Besucher, die eine komplette Führung erhielten (inklusive normalerweise gesperrter Abschnitte) und die später in der Lage waren, die Erfahrung zu beschreiben, sagten, es sei, als ob man in umgekehrter Abfolge eine Reihe von Schlachthäusern durchläuft.\n\nErhöht die Klonerzeugungsrate des Bezirks um 20 Klone pro Zyklus.",
+    "en": "The Production Facility district is always hungry for materials, particularly biomass. The land around it tends to be empty of flora and fauna, though whether this is due to the faint smell in the air or something more sinister has never been established. Those visitors who've been given the full tour (including the usually-restricted sections), and who've later been capable of describing the experience, have said it's like going through a series of slaughterhouses in reverse.\r\n\r\nIncreases the district's clone generation rate by 20 clones per cycle.",
+    "es": "Los distritos que albergan plantas de fabricación requieren un flujo constante de materias primas, especialmente biomasa. Las zonas circundantes tienden a estar desprovistas de toda flora o fauna, aunque nadie sabe a ciencia cierta si esto se debe al tenue olor que se respira en el aire o a causas más siniestras. Los visitantes que alguna vez recibieron el tour completo de las instalaciones (incluyendo las áreas generalmente restringidas al público) y que fueron capaces de describir su experiencia afirmaron que fue como visitar una serie de mataderos donde el proceso tradicional ha sido invertido.\n\nAumenta el índice de producción de clones del distrito en 20 clones por ciclo.",
+    "fr": "Le district des Installations de production est toujours en demande de matériaux, la biomasse en particulier. Le terrain alentour est dénué de faune et de flore, mais que cela soit dû à l'odeur qui plane dans les airs en permanence ou à quelque chose de plus sinistre n'a jamais été établi. Ceux qui ont suivi la visite complète de l'endroit (incluant les zones généralement restreintes), et furent en mesure de décrire l'expérience la décrivirent comme le passage au travers d'une série d'abattoirs dans le sens inverse.\n\nAugmente le taux de production de clone du district de 20 clones par cycle.",
+    "it": "Il distretto Centro di produzione è sempre alla ricerca di materiali, in particolare di biomasse. I terreni circostanti tendono a essere privi di flora e fauna, ma non è chiaro se ciò sia dovuto al leggero odore presente nell'aria o a qualcosa di più sinistro. I visitatori che hanno avuto la possibilità di un tour completo (comprese le sezioni normalmente ad accesso limitato) e che poi sono stati in grado di descrivere l'esperienza hanno riferito che è come attraversare una serie di mattatoi al contrario.\n\nAumenta la generazione dei cloni del distretto di 20 cloni per ciclo.",
+    "ja": "生産施設地帯は常に材料、特にバイオマスを必要としている。その周辺の土地は、動物も植物もなく荒涼としている。しかし、これが空気中のかすかな香りによるのか、もっと不吉なものによるのかは分かっていない。完全ツアー（通常は制限されている箇所を含む）に参加したビジターで、後でその経験を説明することができた者は、屠殺場を逆回りしているようだったと語った。管区のクローンの最大数を1サイクルにつき20台増やす。",
+    "ko": "생산 구역에는 언제나 바이오매스가 부족합니다. 해당 지역에는 특이하게도 동식물이 전혀 살지 않는데 이는 악취 또는 정체불명의 유해물질 때문일 확률이 높습니다. 그나마 상태가 양호했던 방문자들의 증언에 따르면 마치 도축장을 역순으로 진행하는 듯한 느낌이었다고 합니다. <br><br>매 사이클마다 클론 생산량 20개 증가",
+    "ru": "Району с производственными мощностями всегда требуются материалы, особенно - биомасса. Окружающие его земли, как правило, свободны от флоры и фауны. Связано ли это с витающим в воздухе еле заметным запахом или с чем-нибудь более зловещим, так и не было установлено. Те посетители, которым удалось ознакомиться с полным циклом (в том числе и с обычно недоступными участками), и которые позже смогли описать увиденное, сравнивали его с проходом через серию скотобоен, причем в обратном направлении.\n\nУвеличивает скорость генерации клонов в районе на 20 клонов за цикл.",
+    "zh": "生产设施地区一直以来都需要大量材料，尤其是生物质。四周几乎看不到任何动植物，没人知道这到底是空气中的淡淡气味，还是其他更恐怖的东西造成的。凡是完整参观（包括通常不开放的区域）且能够叙述这段经历的访客都表示，感觉就像在反向穿越大量屠宰场一样。每循环一次，该区域就会额外生成20个克隆体。"
+  },
+  "groupID": 364204,
+  "mass": 110000000.0,
   "name": {
     "de": "Produktionsstätte",
     "en": "Production Facility",
@@ -11,5 +24,8 @@
     "ru": "Производственная площадка",
     "zh": "生产设施"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
   "volume": 4000.0
 }

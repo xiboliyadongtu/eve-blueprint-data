@@ -1,5 +1,19 @@
 {
-  "typeID": 32955,
+  "description": {
+    "de": "Als eine Kombination aus zusätzlichen Jägerhangarunterstützungsdrohnen, Jägerenergietransmittern und fortschrittlicher Sensorunterstützung unterstützt die Jägerunterstützungseinheit alle Bereiche der Jägeroperationen.\n\n\n\nHinweis: Kann nur in Trägerschiffe und Supercarrier eingebaut werden.\n\nNachteil: Bei der Verwendung mehrerer Module des selben oder ähnlichen Typs, welche das selbe Attribut des Schiffes oder der Jägerstaffel beeinflussen, wird deren Wirksamkeit eingeschränkt.",
+    "en": "A combination of additional fighter hangar support drones, fighter power transmitters and advanced sensor support, the Fighter Support Unit assist all areas of fighter operation.\r\n\r\nNote: Can only be fit to Carriers and Supercarriers.\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship or fighter squadron will be penalized.",
+    "es": "La Unidad de Apoyo de Cazas, una combinación de drones de apoyo adicionales del hangar de cazas, transmisores de potencia de los cazas y apoyo de sensores avanzado, proporciona asistencia en todas las áreas de las operaciones de los cazas.\n\n\n\nAviso: Solo se puede equipar en portanaves y superportanaves.\n\nPenalización: Por usar más de un tipo de módulo o módulos similares que afecten al mismo atributo de la nave o del escuadrón de cazas.",
+    "fr": "L'unité de soutien aux chasseurs rassemble une volée de drones de soutien pourvus de soutes, de transfuseurs de capaciteur et d'amplificateurs de détection dédiés aux chasseurs en opération.\n\n\n\nRemarque : réservé aux porte-vaisseaux et aux super porte-vaisseaux.\n\nPénalité : utiliser plus d'un module de ce type ou plusieurs modules modifiant un même attribut du vaisseau ou de l'escadron de chasseurs fera l'objet d'une pénalité.",
+    "ja": "戦闘機ハンガー内で活動するサポートドローンを増やし、パワートランスミッターや高性能センサーなどと組み合わせて使用する。戦闘機サポートユニットは戦闘機の性能をあらゆる面で強化するモジュールである。\n\n\n\n注意: 艦載機母艦と大型艦載機母艦のみ装備可能。\n\nペナルティ: 艦船や飛行隊に対して同様の効果をもたらす同一モジュール、類似モジュールを複数取り付けると、モジュールの効果が低下する。",
+    "ko": "파이터 격납고 지원드론, 파이터 전력 트랜스미터, 향상된 보조 센서로 구성되어 있으며 파이터와 관련된 모든 분야에 효과가 적용됩니다. <br><br>참고: 캐리어 및 슈퍼캐리어에만 장착할 수 있습니다. <br><br>페널티: 함선 또는 파이터 중대에 동일한 모듈 또는 같은 속성의 모듈을 한 개 이상 장착할 경우 페널티가 부여됩니다.",
+    "ru": "Модуль поддержки истребителей увеличивает их эффективность по всем направлениям: в частности увеличивается подача энергии на щиты, двигатели и вооружение истребителей.\n\n\n\nВнимание! Этим модулем могут оснащаться исключительно КАРы и суперКАРы.\n\nВнимание! Установка на борт корабля двух и более модулей, влияющих на одну и ту же характеристику корабля, приведёт к снижению эффективности их действия в отношении данной характеристики.",
+    "zh": "铁骑舰载机辅助单元支援所有铁骑舰载机操作，包括附加铁骑舰载机后勤无人机、铁骑舰载机功率传输器和高级感应器支援。\n\n\n\n注：只能装配在航母或超级航母上。\n\n惩罚：在一艘舰船上或一支铁骑舰载机中队中使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。"
+  },
+  "groupID": 407,
+  "iconID": 2987,
+  "marketGroupID": 938,
+  "mass": 200.0,
+  "metaGroupID": 5,
   "name": {
     "de": "Unit P-343554's Modified Fighter Support Unit",
     "en": "Unit P-343554's Modified Fighter Support Unit",
@@ -10,5 +24,9 @@
     "ru": "Unit P-343554's Modified Fighter Support Unit",
     "zh": "P-343554单元改良型铁骑舰载机辅助单元"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 100.0,
+  "variationParentTypeID": 24283,
   "volume": 400.0
 }

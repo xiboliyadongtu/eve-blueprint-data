@@ -1,5 +1,18 @@
 {
-  "typeID": 3368,
+  "basePrice": 50000.0,
+  "description": {
+    "de": "Skill für das Aushandeln von Alliertengebühren mit Concord. Verringert die Kosten für die Anwerbung von Alliierten im Krieg um 5% pro Stufe.",
+    "en": "Skill at negotiating ally fees with Concord. Reduces cost to hire allies in wars by 5% per level.",
+    "es": "Habilidad en la negociación de tasas con CONCORD. Reduce un 5 % por nivel el coste de contratar aliados en guerras.",
+    "fr": "Compétence liée aux négociations des frais pour des alliés avec Concord. Réduit de 5 % par niveau le coût de recrutement des alliés au combat.",
+    "ja": "CONCORDと交渉して援軍要請料を値切るスキル。レベル上昇ごとに戦争で援軍を雇うのに要する費用が5%安くなる。",
+    "ko": "CONCORD와의 동맹 수수료 협상을 위한 스킬입니다. 매 레벨마다 전쟁 시 동맹 고용 비용 5% 감소",
+    "ru": "Навык ведения переговоров с КОНКОРДом о размерах оплаты услуг союзников. За каждую степень освоения навыка: на 5% снижается стоимость найма союзников в войне.",
+    "zh": "与统合部商谈盟友费的技能。每升一级，降低盟友招集费用5%。"
+  },
+  "groupID": 266,
+  "iconID": 33,
+  "marketGroupID": 365,
   "name": {
     "de": "Diplomatic Relations",
     "en": "Diplomatic Relations",
@@ -10,5 +23,7 @@
     "ru": "Ведение переговоров",
     "zh": "外交关系学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

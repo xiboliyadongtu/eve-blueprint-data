@@ -1,5 +1,21 @@
 {
-  "typeID": 24488,
+  "basePrice": 126160.0,
+  "description": {
+    "de": "Ein ungelenkter Nuklear-Sprengkopf für den Einsatz aus schweren Angriffslenkwaffen-Werfern. Schwere Angriffslenkwaffen können auf Kosten der effektiven Reichweite in schnellerer Abfolge als Schwere Lenkwaffen abgefeuert werden.\n\n\n\nDiese modifizierte Version der Nova Heavy Assault Missile ist durchschlagskräftiger, allerdings auch schwerer und langsamer. Daher ist sie sehr effektiv gegen größere Ziele, jedoch deutlich weniger wirkungsvoll bei kleineren und agileren Zielen.",
+    "en": "A nuclear warhead designed for use with heavy assault launchers. Heavy assault missiles can be fired at a greater rate than heavy missiles, at the expense of effective range.\r\n\r\nThis modified version of the Nova Heavy Assault Missile packs a considerably stronger punch, but as a result is heavier and slower. This makes it very effective against larger targets, but markedly less effective against smaller and more agile targets.",
+    "es": "Ojiva nuclear diseñada para usarse con lanzamisiles de asalto pesados. La frecuencia de disparo de los misiles de asalto pesados es mayor que con los pesados normales en perjuicio del alcance efectivo.\n\nEsta versión modificada del misil de asalto pesado Nova asesta un golpe considerablemente más fuerte, pero, a cambio, es más pesado y lento. Por eso es muy eficaz contra objetivos grandes, pero no tanto contra otros más pequeños y ágiles.",
+    "fr": "Missile à ogive nucléaire conçu pour être installé sur des lanceurs d'assaut lourds. Les missiles d'assaut lourds peuvent être tirés à une cadence supérieure à celle des missiles lourds, mais leur portée est réduite.\n\nCette version modifiée du missile d'assaut lourd Nova est beaucoup plus puissante, mais en contrepartie plus lourde et plus lente. Cela lui permet d'être plus efficace contre des cibles plus imposantes, mais beaucoup moins contre des cibles plus petites et plus maniables.",
+    "ja": "核弾頭を搭載したミサイル。ヘビーアサルトランチャー用。ヘビーアサルトミサイルはヘビーミサイルより連射性に優れるが、その代わり有効射程が短い。\n\n\nノヴァヘビーアサルトミサイルの改良版。威力が大幅に増したが、その代償として鈍重になった。そのため、大型の標的には非常に強いが、小型で敏捷な標的に対する威力は明らかに劣る。",
+    "ko": "헤비 어썰트 미사일 런처에 탑재되는 핵탄두입니다. 헤비 어썰트 미사일은 헤비 미사일에 비해 발사 속도가 빠르지만 최적사거리가 상대적으로 짧습니다. <br><br>기존 노바 헤비 어썰트 미사일에 비해 화력은 강력하지만 무게 증가로 인해 비행속도가 감소했습니다. 이러한 이유로 대형 목표물을 상대로 매우 효과적이지만 작고 빠른 함선을 대상으로는 눈에 띄게 효과가 감소합니다.",
+    "ru": "Неуправляемая ядерная боеголовка, разработанная для использования с тяжелыми штурмовыми пусковыми установками. Пусковой цикл у тяжелых штурмовых ракет короче, чем у обычных тяжелых ракет, но при этом они имеют меньшую дальность полета. Эта модификация тяжелой штурмовой ракеты Nova отличается низкой скоростью и большим весом, но ее поражающая способность значительно выше. В высшей степени эффективна против крупных целей, и менее эффективна — против небольших.",
+    "zh": "重型攻击导弹发射器使用的核芯弹头。重型攻击导弹比重型导弹射速更快，但这是以牺牲有效射程作为代价的。这是星爆重型攻击导弹的一种改良版本，这个型号在设计上显得很慢而且笨重，但是却相较拥有更强大的威力。它对于大型的目标非常有效，对小型灵敏目标的效果则不是很理想。"
+  },
+  "graphicID": 20054,
+  "groupID": 654,
+  "iconID": 3236,
+  "marketGroupID": 973,
+  "mass": 700.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Nova Rage Heavy Assault Missile",
     "en": "Nova Rage Heavy Assault Missile",
@@ -10,5 +26,9 @@
     "ru": "Nova Rage Heavy Assault Missile",
     "zh": "星爆狂乱重型攻击导弹"
   },
+  "portionSize": 5000,
+  "published": true,
+  "radius": 300.0,
+  "variationParentTypeID": 21867,
   "volume": 0.015
 }

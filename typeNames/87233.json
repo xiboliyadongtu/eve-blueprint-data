@@ -1,5 +1,16 @@
 {
-  "typeID": 87233,
+  "description": {
+    "de": "Eine Drifter-Struktur, die in der Lage ist, Alpha-, Beta- und EM-Strahlung präzise zu projizieren. Dadurch kann sie eine Vielzahl von extremen Temperaturen, Toxizität und atmosphärischen Bedingungen innerhalb einer einzelnen Zielstruktur schaffen. Letztendlich wird das diese Struktur zerstören, aber während die Struktur „unter Beobachtung“ steht, wird jede Person im Inneren extreme Qualen erleiden. Der Scrutinizer überwacht außerdem die Aktivitäten innerhalb der Struktur, die er bestrahlt, und sammelt detaillierte Daten über die Reaktionen der dort gefangenen Individuen.",
+    "en": "A Drifter Structure capable of projecting alpha, beta, and EM radiation with precise control. This allows it to create a variety of extreme temperatures, toxicity, and atmospheric conditions within a single target structure. Eventually, this will destroy that structure, but while that structure is “under scrutiny” anyone inside will be experiencing extreme torment.\r\n\r\nThe Scrutinizer is also monitoring activity within the structure it is irradiating, collecting detailed data about the responses of those trapped inside.",
+    "es": "Una estructura drifter capaz de proyectar radiación alfa, beta y electromagnética con un control preciso. Esto le permite crear una variedad de temperaturas extremas, toxicidad y condiciones atmosféricas dentro de una única estructura objetivo. Con el tiempo, esto destruirá esa estructura, pero mientras esa estructura esté «bajo escrutinio» cualquiera que esté dentro experimentará un tormento excesivo.\r\n\r\nEl escrutador también controla la actividad dentro de la estructura que está irradiando y recoge datos detallados sobre las respuestas de quienes están atrapados en su interior.",
+    "fr": "Structure drifter capable de projeter des radiations alpha, bêta et EM avec un contrôle précis. Cela lui permet de générer un large éventail de températures extrêmes, de toxicité et de conditions atmosphériques au sein d'une structure cible. À terme, la structure en question sera détruite, mais tant qu'elle est « examinée », tous les malheureux à l'intérieur subiront un tourment extrême. L'Examinateur surveille également l'activité au sein de la structure qu'il irradie, recueillant des données détaillées sur les réactions des individus piégés à l'intérieur.",
+    "ja": "精密に制御されたアルファ線、ベータ線、そして電磁放射線を発射できるドリフターのストラクチャ。性能を活かし、ターゲットとした単一のストラクチャ内の温度、危険性、大気の状態を様々に変化させ、極端な環境を作り出すことができる。狙われたストラクチャは最終的には崩壊するが、『精密検査』の最中、中にいる人物は例外なく筆舌に尽くしがたい苦しみを味わうことになる。\r\n\r\nこのスクルーティナイザーは照射対象のストラクチャ内の活動をモニタリングし、中にいる存在の反応の詳細なデータを収集する機能も備えている。",
+    "ko": "알파파, 베타파 및 전자기파 등의 파동을 정밀하게 방출할 수 있는 드리프터 구조물입니다. 드리프터는 이 구조물로 다른 소규모 천체의 대기 온도, 독성 등의 기상 상태를 조정합니다. 또한 기상 상태 조정의 결과로 소규모 천체가 파괴될 수도 있습니다. 소규모 천체의 '정밀 탐사'가 시작되면 해당 천체에 거주하는 모든 사람은 극심한 고통을 받게 됩니다.\r\n\r\n정밀탐사기는 파동을 조사하며 동시에 천체에서 생명 활동을 기록해 천체 거주민의 반응을 상세하게 데이터로 저장합니다.",
+    "ru": "Это сооружение Скитальцев проецирует высокоточное альфа-, бета- и ЭМ-излучение. Это позволяет создавать внутри объекта, на который направлена радиация, области интоксикации, экстремальных температур и атмосферных аномалий. В итоге такое воздействие разрушает объект, но, пока он находится под «прицелом», все его обитатели испытывают страшные мучения. Помимо этого, Scrutinizer фиксирует активность внутри заражённого объекта и собирает подробные сведения о реакциях тех, кто заключён внутри него.",
+    "zh": "一种流浪者设施，能够精确控制 α、β 和电磁辐射。这使其能够在单个目标设施内创造出各种极端温度、毒性和大气条件。最终，目标设施将被摧毁，但在“审查期间”，任何处于设施内部的人员都会遭受极端折磨。同时，审查者还监控着受到辐射的设施内部的活动，收集有关被困者反应的详细数据。"
+  },
+  "graphicID": 28016,
+  "groupID": 1927,
   "name": {
     "de": "Destructive Scrutinizer",
     "en": "Destructive Scrutinizer",
@@ -10,5 +21,8 @@
     "ru": "Destructive Scrutinizer",
     "zh": "破坏型审查者"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 5500.0,
+  "sofFactionName": "drifter"
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 30514,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Das sind wohl die verstümmelten Überreste eines Talocan-Schiffs. Es ist viel zu stark beschädigt, als dass man daraus noch irgendetwas Nützliches bergen könnte.",
+    "en": "This appears to be the much-mangled remains of a Talocan vessel. It's too damaged to recover anything useful from",
+    "es": "Parecen los restos muy destrozados de una nave talocana. Está demasiado dañada para recuperar algo útil.",
+    "fr": "Cela ressemble aux restes délabrés d'un vaisseau talocan. Celui-ci est trop endommagé pour contenir quoi que ce soit d'intéressant.",
+    "ja": "これはタロカン船の破壊された残骸らしい。損傷がひどいため、使えるものを回収するのは難しい。",
+    "ko": "심하게 훼손된 탈로칸 함선의 잔해로 보입니다. 훼손이 심해 쓸만한 물품은 없어 보입니다.",
+    "ru": "Похоже, что это сильно изуродованные останки корабля Talocan. Повреждения слишком сильны, чтобы можно было восстановить что-то стоящее.",
+    "zh": "这看上去像是一只被蹂躏到极限的塔洛迦舰船。就这种破坏程度已经没有任何打捞的意义了。"
+  },
+  "graphicID": 3581,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Talocan Wreckage",
     "en": "Talocan Wreckage",
@@ -10,5 +23,9 @@
     "ru": "Talocan Wreckage",
     "zh": "塔洛迦残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 500.0,
+  "sofFactionName": "talocanbase",
   "volume": 100000000.0
 }

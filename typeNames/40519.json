@@ -1,5 +1,17 @@
 {
-  "typeID": 40519,
+  "description": {
+    "de": "Dieser Gegenstand kann in einer Station aktiviert werden, während Sie sich in Ihrer Kapsel befinden, um durch die Auswahl von 500.000 Skillpunkten, die von Ihrem Charakter entfernt werden, einen <a href=showinfo:40520>Skill-Injektor</a> zu erzeugen. Sobald die Skill-Extraktion abgeschlossen wurde, wird der Skill-Extraktor verbraucht.\n\nSkill-Extraktoren können nur von Charakteren mit mindestens 5.500.000 Skillpunkten verwendet werden.",
+    "en": "This item can be activated in a station, while in your pod, to create a <a href=showinfo:40520>Skill Injector</a> by selecting 500,000 skill points to be removed from your character. When skill extraction is complete, the Skill Extractor will be consumed.\r\n\r\nSkill Extractors may only be used by characters with at least 5,500,000 skill points.",
+    "es": "Este objeto se puede activar en una estación mientras estás en tu cápsula para crear un <a href=showinfo:40520>inyector de habilidad</a>, para lo que debes gastar 500 000 puntos de habilidad de tu personaje. El extractor de habilidad se consumirá en cuanto se complete la extracción.\n\nLos extractores de habilidad solo pueden usarse con personajes con al menos 5 500 000 puntos de habilidad.",
+    "fr": "Vous pouvez activer cet objet en station, depuis votre capsule, afin de créer un <a href=showinfo:40520>injecteur de compétences</a> en sélectionnant 500 000 points de compétences à retirer de votre personnage. Une fois l'extraction de compétence terminée, l'extracteur de compétences sera épuisé.\n\n\n\nLes extracteurs de compétence ne peuvent être utilisés que par des personnages possédant au moins 5 500 000 points de compétence.",
+    "ja": "ステーション内でポッドに入っている際に、自分のキャラクターが所持している500,000スキルポイントを使用して<a href=showinfo:40520>スキルインジェクター</a>を作成すればこのアイテムを有効化できます。スキル抽出が完了するとスキルエクストラクターを消費します。スキルエクストラクターは5,500,000以上のスキルポイントを所持しているキャラクターのみ使用できます。",
+    "ko": "해당 아이템은 정거장에서 캡슐을 탑승한 상태로 사용할 수 있습니다. 활성화 시 500,000 스킬 포인트가 소모되며 <a href=showinfo:40520>스킬 주입기</a>가 생성됩니다. 추출이 종료되면 스킬 추출기는 사라집니다. <br><br>최소 5,500,000 스킬 포인트 이상을 보유한 캐릭터에서만 사용이 가능합니다.",
+    "ru": "Будучи в капсуле и на станции, вы можете использовать этот предмет для создания <a href=showinfo:40520>СП-инъектора</a>, при этом из памяти вашего персонажа будет изъято 500 000 СП по вашему выбору. После завершения изъятия синхропакетов СП-экстрактор расходуется.\n\n\n\nСП-экстракторами могут пользоваться только пилоты, в память которых загружено не менее 5,5 млн СП.",
+    "zh": "这个物品可以在空间站中使用，使用时你必须在太空舱中，你可以将指定的500,000技能点从你的人物身上抽取出来，生成一个<a href=showinfo:40520>技能注入器</a>。技能提取完成后，技能提取器将会消失。\n\n\n\n只有技能点数在5,500,000以上的人物才能使用技能提取器。"
+  },
+  "groupID": 1301,
+  "iconID": 21530,
+  "marketGroupID": 2358,
   "name": {
     "de": "Skill Extractor",
     "en": "Skill Extractor",
@@ -10,5 +22,7 @@
     "ru": "Skill Extractor",
     "zh": "技能提取器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

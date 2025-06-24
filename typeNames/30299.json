@@ -1,5 +1,18 @@
 {
-  "typeID": 30299,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese gigantische Kuppel sieht schon imposant aus und bezeugt die technische Überlegenheit der einst so mächtigen Sleeper-Rasse. Auch nach Jahrtausenden halten ihre zahllosen Elektroniksysteme dem Vergleich mit zeitgemäßen Technologien Stand und sind diesen in manchen Fällen sogar überlegen. Das markante Design im Sinne eines Knotenpunktes legt nahe, dass unter dieser besonderen Kuppel einst eine Art Zentrum für den Datenverkehr exisitierte - das pulsierende Herz einer digitalen Metropole. Obwohl alles unversehrt und voll funktionstüchtig geblieben ist, sind elektrische Strömung sowie die geisterhaft weiter transferierten Daten die einzigen Lebenszeichen.",
+    "en": "Imposing in its majesty, this giant dome stands as a testament to the technological might of the ancient Sleeper race. Even millennia old, the innumerable electronics systems within are still comparable to contemporary technology, in some cases even exceeding it. The distinctive hub-like design of this particular structure suggests that it operated as some kind of central data nexus, a shining capital amongst a digital metropolis.\r\n\r\nAlthough entirely functional and intact, the only signs of life within are electrical currents and the eerily constant transfers of data.",
+    "es": "Imponente en su majestuosidad, esta cúpula gigante se alza como testimonio del poderío tecnológico de la antigua raza de los sleepers. Incluso con milenios de antigüedad, los innumerables sistemas electrónicos que contiene son comparables a la tecnología contemporánea y, en algunos casos, incluso la superan. El característico diseño de esta estructura, similar a un núcleo, sugiere que funcionaba como una especie de nexo de datos central, una nave capital brillante en una metrópoli digital.\n\nAunque completamente funcional e intacta, los únicos signos de vida en el interior son las corrientes eléctricas y las transferencias de datos inquietantemente constantes.",
+    "fr": "Imposant dans toute sa majesté, ce gigantesque dôme témoigne de toute la puissance technologique des anciens Sleeper. Même après des millénaires, ses innombrables systèmes électroniques sont encore semblables à ceux de la technologie moderne, voire plus performants encore. Le design particulier de cette structure, en forme de plaque tournante, laisse supposer qu'elle servait de connexion centrale des données, telle une capitale rayonnante au centre d'une métropole numérique.\n\nBien qu'encore totalement fonctionnelle et intacte, ses seuls signes de vie se résument aux courants électriques et aux transferts constants de données.",
+    "ja": "その壮大さから、この巨大なドームは古代スリーパー族の技術力の象徴となっている。一千年が経過した今でも、内部の多くの電子システムは現代の技術に引けを取らないものであり、一部はそれを凌駕してさえいる。この建造物は、ハブのような独特の設計から、情報の結合体として利用され、デジタル都市の輝ける中心的な存在だったと考えられる。\n\n\n完全に無傷で機能も損なわれていなかったが、内部で観測された活動は電流と不思議なほど規則的なデータ転送だけだった。",
+    "ko": "장엄한 풍채로 우주에 부유하는 이 거대한 돔은 고대 슬리퍼 종족이 가진 기술적 강대함의 증거물입니다. 천년도 전에 지은 건물이지만 내부에 설치된 무수한 전자 장치는 현대의 기술과 비교해도 손색이 없으며, 일부 시스템은 오히려 더 뛰어난 면모를 보입니다. 건축물의 허브 형태를 통해 중앙 데이터 넥서스로 사용되었을 것으로 추측됩니다. 과거 많은 디지털 도시들을 이어주는 수도와 같은 존재였을 것입니다. <br><br>온전한 형태와 기능을 갖추고 있으나 내부에서 탐지되는 신호는 오직 전류의 흐름과 끊임없는 데이터 전송 신호뿐입니다.",
+    "ru": "Этот величественный, гигантский купол является свидетельством технологической мощи древней расы Sleeper. Несмотря на свой тысячелетний возраст, находящиеся внутри бесчисленные электронные системы все еще могут соперничать с современными технологиями, а кое в чем даже превосходят их. Скорее всего, характерная конструкция этого сооружения объясняется тем, что оно функционировало в качестве главного центра передачи и обработки данных — своего рода сияющего сердца некоего цифрового мегаполиса. Установленное в сооружении оборудование не пострадало и находится в полностью рабочем состоянии, однако единственными признаками жизни в этих стенах являются бег тока по проводам да пугающе регулярные передачи данных.",
+    "zh": "这座建筑外观庄严宏伟，巨大的圆顶代表了古老冬眠者科技的强大力量。尽管已经历千年的岁月，内部数以万计的复杂电子系统依然可以同当代科技相媲美，甚至有一些还远远超越当代科技的技术。这座建筑独特的轮毂式设计表明它曾经可能是被用作为一座中心数据节点，是数字大都会的心脏所在。尽管它完整且处于运转状态，但内部唯一活着的只是电流和永不停息的数据交换。"
+  },
+  "graphicID": 3517,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Sleeper Enclave",
     "en": "Sleeper Enclave",
@@ -10,5 +23,10 @@
     "ru": "Sleeper Enclave",
     "zh": "冬眠者包体"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 7850.0,
+  "sofFactionName": "sleeperbase",
+  "soundID": 20219,
   "volume": 100000000.0
 }

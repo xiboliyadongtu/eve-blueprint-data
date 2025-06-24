@@ -1,5 +1,16 @@
 {
-  "typeID": 40576,
+  "description": {
+    "de": "Dieser Außenposten reagiert nicht auf irgendwelche Kommunikationsversuche, auch wenn er aktiv gewartet und bemannt zu sein scheint.",
+    "en": "This outpost does not respond to any communication attempts, however it appears to be actively maintained and staffed.",
+    "es": "Este puesto avanzado no responde a ningún intento de comunicación, a pesar de que parece que se mantiene activo y dotado de personal.",
+    "fr": "Bien qu'il semble entretenu par une main-d'œuvre active, cet avant-poste ne répond plus aux tentatives de communication.",
+    "ja": "このアウトポストは外部からの通信に全く応じないものの、どうやらメンテナンスはしっかりと施されており、十分な人員が配備されているようだ。",
+    "ko": "겉보기에는 운영되고 있으며 상주하는 직원도 있는 듯하나, 통신 시도에 그 어떤 회신도 돌아오지 않습니다.",
+    "ru": "С этим форпостом никак не удаётся связаться, несмотря на то, что он, по всей видимости, укомплектован персоналом, занимающимся его обслуживанием.",
+    "zh": "这种哨站对通讯尝试没有任何反应，但是似乎定期维护，人员齐备。"
+  },
+  "graphicID": 2404,
+  "groupID": 226,
   "name": {
     "de": "Theology Council Listening Post",
     "en": "Theology Council Listening Post",
@@ -10,5 +21,9 @@
     "ru": "Theology Council Listening Post",
     "zh": "神学理事会情报站"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 800.0,
+  "sofFactionName": "amarrbase"
 }

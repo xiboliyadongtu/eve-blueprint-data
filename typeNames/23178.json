@@ -1,5 +1,17 @@
 {
-  "typeID": 23178,
+  "description": {
+    "de": "Ermöglicht es, Entwicklungsaufträge der Amarr beinahe 1:1 abzukupfern - auf Kosten der Qualität der Blaupause. <br><br>Wahrscheinlichkeitsmultiplikator: +10%<br>Max.-Durchlauf-Modifikator: NV<br>Materialeffizienz-Modifikator: +3<br>Zeiteffizienz-Modifikator: +6",
+    "en": "Allows for almost paint-by-numbers Amarr invention tasks, at the cost of blueprint quality. <br><br>Probability Multiplier: +10% <br>Max. Run Modifier: N/A <br>Material Efficiency Modifier: +3 <br>Time Efficiency Modifier: +6",
+    "es": "Permite realizar tareas de invención amarrianas casi al pie de la letra, a costa de la calidad de los planos.<br><br>Multiplicador de probabilidad: +10 %.<br>Modificador de ejecución máximas: N/A.<br>Modificador de eficiencia de materiales: +3.<br>Modificador de eficiencia temporal: +6.",
+    "fr": "Permet la réalisation de projets d'invention amarr au prix de la qualité du plan de construction. <br><br>Multiplicateur de probabilité : + 10 % <br>Modificateur de cycles max. : N/A <br>Modificateur de productivité matérielle : + 3 <br>Modificateur de gain de temps : + 6",
+    "ja": "これを使えば、ほぼ指示に従って操作するだけでアマーの発明ジョブをこなすことができるが、ブループリントの質はやや落ちる。<br><br>成功率係数：+10%<br>生産可能回数修正：なし<br>資源効率修正：+3<br>時間効率修正：+6",
+    "ko": "아마르 인벤션 작업에 대한 성공률이 증가하지만 블루프린트의 품질은 떨어집니다. <br><br>확률 증감: +10% <br>최대 실행 횟수 증감: 해당 없음 <br> 자원효율성 증감: +3 <br> 시간효율성 증감: +6",
+    "ru": "Позволяет осуществлять модернизацию по амаррским лекалам практически «по букве книги», но при этом страдает качество чертежей. <br><br>Вероятность успеха проекта: +10% <br>Число прогонов проекта: не меняется <br>Экономия материалов при производстве: +3 <br>Экономия времени производства: +6",
+    "zh": "允许几乎按部就班式的艾玛发明任务，但会降低蓝图质量。<br><br>机率调节值：+10%<br> 最大流程调节值：无<br>材料效率调节值：+3<br>时间效率调节值：+6"
+  },
+  "groupID": 728,
+  "iconID": 2885,
+  "mass": 1.0,
   "name": {
     "de": "Occult Process",
     "en": "Occult Process",
@@ -10,5 +22,7 @@
     "ru": "Occult Process",
     "zh": "隐秘处理装置"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

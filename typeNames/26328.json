@@ -1,5 +1,19 @@
 {
-  "typeID": 26328,
+  "description": {
+    "de": "Diese Schiffsmodifikation wurde entwickelt, um den Ertrag von Bergbaudrohnen für das jeweilige Schiff zu erhöhen. Dies geschieht auf Kosten seiner CPU-Kapazität.\n\n\n\nErhöht den Bergbauertrag von Bergbaudrohnen pro Zyklus und beschleunigt die Zykluszeit von Eisschürfdrohnen.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26255>Drohnenmodifikation</a> reduziert werden.",
+    "en": "This ship modification is designed to increase a ship's mining drone yield at the expense of the ship's CPU capacity.\r\n\r\nIncreases the mining yield per cycle of ore mining drones, and speeds up the cycle time of ice harvesting drones.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26255>Drones Rigging</a> skill.",
+    "es": "Esta modificación de nave está diseñada para aumentar el rendimiento del dron minero de una nave en perjuicio de la capacidad de la CPU.\n\nAumenta el rendimiento minero por ciclo de los drones mineros de menas y acelera el tiempo de ciclo de los drones recolectores de hielo.\n\nSe pueden reducir las desventajas de equipar este complemento desarrollando la habilidad <a href=showinfo:26255>Complementos de drones</a>.",
+    "fr": "Cette modification de vaisseau est conçue pour augmenter le rendement des drones d'extraction d'un vaisseau, au détriment de sa capacité en CPU.\n\n\n\nAugmente le rendement minier par cycle des drones d'extraction, et raccourcit le temps de cycle des drones collecteurs de glace.\n\n\n\nVous pouvez minimiser les inconvénients liés au montage de cette optimisation en entraînant la compétence <a href=showinfo:26255>Optimisation de drones</a>.",
+    "ja": "この改造を行うと、艦船のCPU能力と引き換えに艦船の採掘ドローンの収穫量が増加する。鉱石採掘ドローンのサイクルあたりの採掘量を増加させ、氷採掘ドローンのサイクル時間を短縮する。このリグを装備することで発生するペナルティは、<a href=showinfo:26255>ドローン・リギング</a>スキルをトレーニングすることで低減できる。",
+    "ko": "리그 장착 시 채굴 드론 산출량이 증가하는 반면 CPU 용량이 감소합니다. <br><br>채굴 드론 산출량이 증가하고 아이스 채굴 드론 채굴 사이클 시간이 가속됩니다. <br><br>리그 부작용은 <a href=showinfo:26255>드론 리그</a> 스킬 습득 시 감소합니다.",
+    "ru": "Этот модификатор увеличивает объём добычи руды дронами за счёт доступной мощности ЦПУ корабля.\n\n\n\nОдновременно увеличивается добыча руды за цикл работы буровых дронов, и ускоряется цикл работы дронов для добычи льда.\n\n\n\nНегативный эффект от установки этого тюнинг-модуля можно снизить, освоив навык <a href=showinfo:26255>Drones Rigging</a>, дающий пилоту глубокое понимание принципов работы систем управления дронами.",
+    "zh": "这个飞船改装件通过牺牲舰船的CPU值来增加无人机的采矿量。\n\n\n\n提高矿石开采无人机的单次开采量，并缩短冰矿采集无人机的循环时间。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26255>无人机改装技术</a>技能降低影响。"
+  },
+  "groupID": 778,
+  "iconID": 3200,
+  "marketGroupID": 1215,
+  "mass": 200.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Large Drone Mining Augmentor II",
     "en": "Large Drone Mining Augmentor II",
@@ -10,5 +24,9 @@
     "ru": "Large Drone Mining Augmentor II",
     "zh": "大型无人机采矿增量器 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 100.0,
+  "variationParentTypeID": 25918,
   "volume": 20.0
 }

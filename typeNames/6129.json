@@ -1,5 +1,16 @@
 {
-  "typeID": 6129,
+  "description": {
+    "de": "Scannt den Frachtraum eines anderen Schiffes.",
+    "en": "Scans the cargo hold of another ship.",
+    "es": "Escanea la bodega de otra nave.",
+    "fr": "Scanne la soute de chargement d'un autre vaisseau.",
+    "ja": "他の船のカーゴホールドを探査できる。",
+    "ko": "대상 함선의 화물실을 스캔합니다.",
+    "ru": "Сканирует содержимое грузового отсека других кораблей.",
+    "zh": "扫描另一艘舰船的货柜舱。"
+  },
+  "groupID": 47,
+  "iconID": 106,
   "name": {
     "de": "Surface Cargo Scanner I",
     "en": "Surface Cargo Scanner I",
@@ -10,5 +21,8 @@
     "ru": "Surface Cargo Scanner I",
     "zh": "表面货柜扫描器 I"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
   "volume": 5.0
 }

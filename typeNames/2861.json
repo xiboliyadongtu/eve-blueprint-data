@@ -1,5 +1,17 @@
 {
-  "typeID": 2861,
+  "description": {
+    "de": "Diese EM-Strahlenwaffen wurden speziell angepasst um spezifische Nanotechnologien aufzuspüren und zu beseitigen. Normalerweise werden diese EMP Geräte von Spezialeinheiten bei verdeckten Operationen benutzt. Sie werden in der Nähe des feindlichen Verteidigungssystems plaziert und schließen jede nahegelegene Elektronik kurz. Dadurch entsteht ein Loch im Verteidigungssystem, das durch konventionelle Einheiten, unbemerkt von feindlichen Wachsystemen, Sicherheitsrobotern und anderen tödlichen Verteidigungssystemen, durchquert werden kann. Die Geräte selbst haben ungefähr die Größe eines großen Rucksacks und können von einem einzelnen, ausgebildeten Individuum platziert und auch bedient werden.",
+    "en": "These EM beam weapons have been custom fitted to detect and eradicate specific nanotechnologies. Normally, these EMP devices are used by special operations personnel during covert operations. They are placed in proximity to the enemy's defense grid and used to “short out” any nearby electronics, thus creating a hole in the defense grid such that conventional forces can then move through unimpeded by sentry grids, security bots, and other lethal defensive systems. The devices themselves are approximately the size of a large rucksack and can be both emplaced and operated by a single trained individual.",
+    "es": "Estas armas de pulsos electromagnéticos han sido diseñadas para detectar y erradicar nanotecnologías concretas. Normalmente, los dispositivos de EMP son utilizados por equipos de operaciones especiales en misiones encubiertas. Se colocan en la zona de defensa enemiga y se utilizan para «fundir» cualquier sistema electrónico cercano, así como para abrir brechas en la red de defensa para que las fuerzas convencionales avancen sin ser detenidas por centinelas, robots de seguridad u otros sistemas defensivos letales. Los dispositivos tienen aproximadamente el tamaño de una mochila grande, y pueden ser colocados y manipulados por una sola persona, si cuenta con la formación necesaria.",
+    "fr": "Ces armes à rayons électromagnétiques ont été personnalisées pour détecter et éradiquer des nanotechnologies spécifiques. Normalement, ces dispositifs IEM sont utilisés par le personnel des opérations spéciales lors des opérations secrètes. Ils sont disposés à proximité de la défense ennemie et servent à « court-circuiter » tous les accessoires électroniques se trouvant à portée. Ils créent ainsi un trou dans la défense, de telle manière que les forces conventionnelles puissent agir sans se faire repérer par les sentinelles, les robots de sécurité, et autres systèmes défensifs mortels. Les dispositifs ne sont pas plus grands qu'un sac à dos et peuvent être placés et utilisés par un seul et même individu compétent.",
+    "ja": "これらのEMビーム兵器は、特定のナノテクノロジーを検知して駆逐できるようにカスタマイズされている。こうしたEMP装置は通常、特殊作戦の担当者が秘密工作を行う際に使用する。敵の防御グリッドのすぐ近くに配置し、周辺の電子機器を「ショート」させる。こうして防御グリッドに穴を開けることで、常備軍がセントリーグリッド、セキュリティボット、その他の威力の高い防衛システムをスムーズに通過できる。装置自体は大きなリュックサックほどの大きさで、据え付けることも、訓練した人間が単独で操作することもできる。",
+    "ko": "특정 나노기술을 감지하고 파괴하기 위해 커스텀 된 EM 빔 무기입니다. 이런 EMP 장비는 대체로 비밀 작전을 수행 중인 특수작전부대가 사용합니다. 적의 외곽 방어선 주변에 설치해 근방의 모든 전자 장치들을 먼저 “방전”시킵니다. 그렇게 무력화된 센트리 방어선, 로봇 경비병, 그리고 그 외의 강력한 방어 시스템을 아무런 견제 없이 통과해 기습을 감행합니다. 크기는 대략 대형 배낭 정도이며 훈련을 받으면 개인 한 명이 운반, 설치 및 작동을 할 수 있습니다.",
+    "ru": "Это электромагнитное лучевое оружие специально модифицировано для обнаружения и уничтожения определенных наночастиц. Как правило, эти устройства используются спецназом при проведении тайных операций. Они размещаются неподалеку от защитного периметра противника и «выжигают мозги» электронным устройствам, создавая брешь в системе защиты, через которую могут пройти отряды без помех со стороны сторожевых сенсоров, защитных роботов и других смертельных систем. Сами устройства размером примерно с большой рюкзак и могут использоваться одним человеком.",
+    "zh": "这些电磁武器被配置成能检测清除特定的纳米体。这些物品一般由特种兵在秘密行动时使用。它们被放在敌方防御设施附近，让其周围电子元件短路，造成防御上的漏洞，这样常规部队便能趁虚而入，不必担心被岗哨炮、安保机器人及其他致命防卫系统拦住去路。这种设备与一个大背包差不多尺寸，可以由一个受过培训的人来使用。"
+  },
+  "groupID": 314,
+  "iconID": 1362,
+  "mass": 250.0,
   "name": {
     "de": "Crate of Manportable Electromagnetic Pulse Weapons",
     "en": "Crate of Manportable Electromagnetic Pulse Weapons",
@@ -10,5 +22,7 @@
     "ru": "Crate of Manportable Electromagnetic Pulse Weapons",
     "zh": "一箱便携式电磁脉冲武器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 250.0
 }

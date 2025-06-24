@@ -1,5 +1,20 @@
 {
-  "typeID": 24655,
+  "basePrice": 100000000.0,
+  "capacity": 2000000.0,
+  "description": {
+    "de": "Eine mobile Fertigungsanlage in der hochentwickelte mittelgroße Schiffe wie Versorgungskreuzer, Schwere Angriffskreuzer, Aufklärungskreuzer, Schwere Unterbrechungskreuzer und Kommando-Schlachtkreuzer gebaut werden können.\n\n\n\nHinweis: Um ein Schiff aus einer Schiff-Fertigungsanlage heraus verwenden zu können, muss eine Schiffwartungsanlage mit ausreichend freiem Platz in der Nähe sein, um das Schiff dort hinein bewegen zu können.",
+    "en": "A mobile assembly facility where advanced medium sized ships such as Logistics Cruisers, Heavy Assault Cruisers, Recon Cruisers, Heavy Interdiction Cruisers and Command Battlecruisers can be manufactured.\r\n\r\nNote: To use a ship from a Ship Assembly Array a Ship Maintenance Array with enough free storage space needs to be in range that the ship can be moved there.",
+    "es": "Instalación de ensamblaje móvil en la que se pueden fabricar naves medianas, como cruceros logísticos, cruceros de asalto pesados, cruceros de reconocimiento, cruceros interdictores pesados y cruceros de combate de comando.\n\nAviso: Para usar una nave desde una batería de montaje, es necesario que haya una dársena de mantenimiento de naves cerca con suficiente espacio libre para trasladarla ahí.",
+    "fr": "Module d'assemblage mobile permettant la fabrication de vaisseaux avancés de taille moyenne, tels que les croiseurs logistiques, les croiseurs d'assaut lourds, les croiseurs de reconnaissance, les croiseurs d'interdiction lourds et les croiseurs cuirassés de commandement. Remarque : pour utiliser un vaisseau à partir d'un module d'assemblage de vaisseaux, vous devez disposer d'un module de maintenance de vaisseaux à portée avec suffisamment d'espace de stockage pour y placer le vaisseau.)",
+    "ja": "高性能中型艦用の移動式組み立て施設。支援巡洋艦、強襲重巡洋艦、偵察巡洋艦、ワープ妨害巡洋艦、指揮巡洋戦艦などを建造できる。\r\n\n注：艦艇調整施設から船を取り出して使用するにはその船を移せる範囲内に、十分な空き容量のある艦船整備施設がなければならない。",
+    "ko": "로지스틱스 크루저, 어썰트 크루저, 리콘 크루저, 인터딕터 크루저, 커맨드쉽 같은 중형 함선을 건조하는 이동식 생산 시설입니다. <br><br>참고: 함선 건조 시설에서 제작된 함선을 이용하기 위해서는 여유 적재공간이 있는 함선 정비 시설이 범위 내에 존재해야 합니다.",
+    "ru": "Блок-завод для производства кораблей крейсерского тоннажа специализированных проектов — таких как крейсеры обеспечения, ударные крейсеры, дозорные крейсеры, заградительные крейсеры и корабли управления.\n\n\n\nЧтобы воспользоваться построенным кораблем, вам придется переместить его в находящийся достаточно близко ангарный блок, в котором при этом должно быть достаточно свободного места.",
+    "zh": "一座移动式装配设施，在这里可以生产高级中型舰船，如支援巡洋舰、重型突击巡洋舰、侦查巡洋舰、重型拦截巡洋舰和指挥战列巡洋舰。\n\n\n\n注：若要使用来自舰船组装阵列的舰船，在舰船可被转移的范围内应该存在舰船维护阵列，并带有足够的可用存储空间以接收该船。"
+  },
+  "graphicID": 2625,
+  "groupID": 397,
+  "marketGroupID": 932,
+  "mass": 200000000.0,
   "name": {
     "de": "Advanced Medium Ship Assembly Array",
     "en": "Advanced Medium Ship Assembly Array",
@@ -10,5 +25,9 @@
     "ru": "Advanced Medium Ship Assembly Array",
     "zh": "高级中型舰船组装阵列"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 1857.0,
+  "sofFactionName": "genericbase",
   "volume": 17000.0
 }

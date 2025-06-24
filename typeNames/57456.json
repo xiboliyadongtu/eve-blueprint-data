@@ -1,5 +1,18 @@
 {
-  "typeID": 57456,
+  "basePrice": 250000.0,
+  "description": {
+    "de": "Druckoxidationsmittel werden in der Raumfahrttechnik für verschiedene Zwecke eingesetzt, unter anderem als Bestandteil von Treibstoffsystemen und kryogenen Kühlsystemen.",
+    "en": "Pressurized oxidizers are used for various purposes in space technology, including as component resources for fuel systems and cryogenic cooling systems.",
+    "es": "Los oxidantes presurizados se usan para diversos fines en la tecnología espacial, como recursos de componentes para sistemas de combustible y sistemas de refrigeración criogénica.",
+    "fr": "Les oxydants pressurisés sont utilisés à différentes fins dans les technologies spatiales, notamment comme composant de ressource pour les systèmes de carburant et les systèmes de refroidissement cryogéniques.",
+    "ja": "圧縮酸素供給増加剤は、例えば燃料システムや極低温冷却システムに使われる物質の成分など、宇宙関連技術における様々な用途に使われている。",
+    "ko": "가압 산화제는 연료 시스템 및 극저온 냉각기와 같은 우주 산업 분야에 주로 사용됩니다.",
+    "ru": "Кислородные окислители широко используются в космической промышленности — в частности, при производстве топливных систем и систем криогенного охлаждения.",
+    "zh": "增压氧化剂在太空工业中应用广泛，包括可以作为燃料系统和冷却系统的资源。"
+  },
+  "groupID": 429,
+  "iconID": 25355,
+  "marketGroupID": 499,
   "name": {
     "de": "Pressurized Oxidizers",
     "en": "Pressurized Oxidizers",
@@ -10,5 +23,7 @@
     "ru": "Pressurized Oxidizers",
     "zh": "增压氧化剂"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

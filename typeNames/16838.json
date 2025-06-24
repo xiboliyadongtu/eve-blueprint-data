@@ -1,5 +1,18 @@
 {
-  "typeID": 16838,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Feudalverpflichtungen innerhalb des Amarr Imperiums zwingen jeden Lord, der loyal zum Kaiser steht, sich an der Verteidigung des Reiches zu beteiligen. Taktische Außenposten sind das Rückgrat der ersten Verteidigungslinie des Imperiums.",
+    "en": "Feudal obligations in the Amarr Empire force every lord loyal to the Emperor to participate in the defense of the realm. Tactical outposts serve as the backbone to the first line of defense the empire enjoys.",
+    "es": "Las obligaciones feudales en el Imperio Amarr obligan a todos los señores leales al emperador a participar en la defensa del reino. Los puestos avanzados tácticos sirven como columna vertebral de la primera línea de defensa de la que disfruta el imperio.",
+    "fr": "Dans l'Empire amarr, les obligations féodales veulent que tous les seigneurs loyaux envers l'Empereur participent à la défense du royaume. Les avant-postes tactiques servent de structure de base pour la première ligne de défense de l'Empire.",
+    "ja": "封建主義が根づいているアマー帝国では、皇帝に忠誠を誓う全ての領主が地方防衛に参加する。タクティカルアウトポストは、国防の最前線を支える背骨として機能する。",
+    "ko": "아마르 제국의 봉건 의무는 제국에 충성을 맹세한 모든 군주가 국가 방위에 참여하도록 만듭니다. 전술기지는 제 1 방어선의 중심으로 자리 잡고 있습니다.",
+    "ru": "Согласно вассальным законам, царящим в Империи Amarr, все дворяне, верные Императору, обязаны участвовать в защите государства. Тактические аванпосты служат основой первой линии обороны Империи.",
+    "zh": "艾玛帝国的封建义务驱使每一个效忠皇帝的领主参与自己领域的防御工作。战术哨站是帝国第一防线的脊梁。"
+  },
+  "graphicID": 1703,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Amarr Deadspace Tactical Unit",
     "en": "Amarr Deadspace Tactical Unit",
@@ -10,5 +23,10 @@
     "ru": "Amarr Deadspace Tactical Unit",
     "zh": "艾玛死亡空间战术哨站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 150.0,
+  "sofFactionName": "amarrbase",
   "volume": 100000000.0
 }

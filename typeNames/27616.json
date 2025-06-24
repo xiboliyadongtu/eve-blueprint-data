@@ -1,5 +1,21 @@
 {
-  "typeID": 27616,
+  "basePrice": 2500000.0,
+  "capacity": 160.0,
+  "description": {
+    "de": "Gibt ein Trommelfeuer großer Hybridgeschosse auf diejenigen ab, die der Kontrollturm als feindlich erachtet. Hat eine hohe Schadenswirkung und ist auf große Distanz effektiv.",
+    "en": "Fires a barrage of large hybrid slugs at those the Control Tower deems its enemies. Provides high damage output and is effective at long ranges.",
+    "es": "Dispara una tromba de proyectiles híbridos grandes a cualquier objetivo que la torre de control considere una amenaza. Inflige un gran daño y funciona a larga distancia.",
+    "fr": "Tire un barrage de grandes munitions hybrides sur les vaisseaux que la tour de contrôle juge hostiles. Provoque de gros dégâts et est efficace à longue portée.",
+    "ja": "コントロールタワーが敵と認識した物体に対して、大型ハイブリッド弾の集中砲火を浴びせる。ダメージ出力が高く、長距離射撃に強い。",
+    "ko": "대형 하이브리드 탄으로 이루어진 화망을 구성하여 관제타워가 지정한 적을 향해 발사합니다. 높은 화력을 갖추었으며 장거리 교전에 효과적입니다.",
+    "ru": "Ведет огонь гибридными зарядами большого калибра по всем целям, которые башня управления базой сочтет вражескими. Имеет высокую поражающую способность даже на больших дистанциях.",
+    "zh": "向控制塔指定的敌人连续发射大型混合炮弹。破坏力很大，适合远程攻击。"
+  },
+  "graphicID": 22215,
+  "groupID": 449,
+  "marketGroupID": 595,
+  "mass": 100000000.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Serpentis Medium Railgun Battery",
     "en": "Serpentis Medium Railgun Battery",
@@ -10,5 +26,11 @@
     "ru": "Serpentis Medium Railgun Battery",
     "zh": "天蛇中型磁轨炮台"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 400.0,
+  "sofFactionName": "serpentis",
+  "variationParentTypeID": 16691,
   "volume": 1000.0
 }

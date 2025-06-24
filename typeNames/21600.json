@@ -1,5 +1,18 @@
 {
-  "typeID": 21600,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Offiziersquartier der Guristas. Ausgerüstet mit einem high-tech EM-Kraftfeld.",
+    "en": "Guristas Officer's Quarters.  Equipped with a high tech EM forcefield.",
+    "es": "Dependencias del oficial de los Guristas. Están equipadas con un campo de fuerza electromagnético de alta tecnología.",
+    "fr": "Quartiers des officiers guristas.  Équipé d'un champ de force électromagnétique de haute technologie.",
+    "ja": "ガリスタス士官クォーター。",
+    "ko": "구리스타스 장교 숙사 첨단 EM 포스필드로 둘러싸여 있습니다.",
+    "ru": "Казармы офицеров Gurista. Снабжены высокотехнологическим электромагнитным силовым полем.",
+    "zh": "古斯塔斯官员的居所，配备有高科技的电磁力场。"
+  },
+  "graphicID": 2515,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Officers Quarters",
     "en": "Officers Quarters",
@@ -10,5 +23,10 @@
     "ru": "Officers Quarters",
     "zh": "官员小屋"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 379.0,
+  "sofFactionName": "genericliving",
+  "soundID": 20904,
   "volume": 100000000.0
 }

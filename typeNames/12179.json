@@ -1,5 +1,18 @@
 {
-  "typeID": 12179,
+  "basePrice": 40000000.0,
+  "description": {
+    "de": "Skill zur Überwachung von Forschungs- und Entwicklungsprojekte von Agenten. Ermöglicht die zeitgleiche Verwendung eines (1) zusätzlichen Forschungs- und Entwicklungsagenten je Skillstufe.",
+    "en": "Skill at overseeing agent research and development projects. Allows the simultaneous use of 1 additional Research and Development agent per skill level.",
+    "es": "Habilidad en la supervisión de proyectos de investigación y desarrollo de los agentes. Permite usar el uso simultáneo de un agente de investigación y desarrollo adicional por nivel de habilidad.",
+    "fr": "Compétence liée à la supervision des projets de développement et des recherches des agents. Elle permet d'utiliser un agent de développement et de recherche supplémentaire par niveau de compétence.",
+    "ja": "研究と開発の作業を監視するスキル。スキルレベル上昇ごとに、研究と開発を行うエージェントを同時に1人多く使うことができる。",
+    "ko": "에이전트 연구개발 프로젝트를 관리하는 스킬입니다. 스킬 레벨당 에이전트 한명이 추가로 연구개발에 투입될 수 있습니다.",
+    "ru": "Навык курирования научно-исследовательских проектов агентов. За каждую степень освоения навыка: на 1 повышается количество параллельно доступных к сотрудничеству агентов научно-исследовательского отдела.",
+    "zh": "监督代理人研发项目的技能。每升一级，可同时多使用一位科研代理人。"
+  },
+  "groupID": 270,
+  "iconID": 33,
+  "marketGroupID": 375,
   "name": {
     "de": "Research Project Management",
     "en": "Research Project Management",
@@ -10,5 +23,7 @@
     "ru": "Управление исследовательскими проектами",
     "zh": "研究工程管理学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

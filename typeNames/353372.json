@@ -1,5 +1,17 @@
 {
-  "typeID": 353372,
+  "basePrice": 99000.0,
+  "description": {
+    "de": "Grundlegende Kenntnisse über Fernschildboostersysteme.\n\n+5% auf die maximale Reparaturdistanz von Fernschildmodulen für Fahrzeuge pro Skillstufe.",
+    "en": "Basic understanding of remote shield boosting systems.\r\n\r\n+5% to maximum repair distance of vehicle remote shield modules per level.",
+    "es": "Conocimiento básico de sistemas remotos de potenciación de escudos.\n\n+5% al alcance máximo de reparación de los módulos de escudos remotos por nivel.",
+    "fr": "Notions de base en systèmes de boost de bouclier à distance.\n\n+5 % à la portée maximale des modules de boost de bouclier à distance de véhicule par niveau.",
+    "it": "Comprensione base dei sistemi di potenziamento scudo a distanza. \n\n+5% alla massima distanza di riparazione dei moduli per scudo a distanza del veicolo per livello.",
+    "ja": "遠隔シールドブースターシステムに関する基本的な知識。\n\nレベル上昇ごとに、車両遠隔シールドモジュールの最大リペア有効距離が5%増加する。",
+    "ko": "원격 실드 부스트 시스템에 대한 기본적인 이해를 습득합니다.<br><br>매 레벨마다 원격 차량 실드 모듈의 최대 수리 범위 5% 증가",
+    "ru": "Понимание основных принципов работы с пакетами перемещения щитов.\n\n+5% к максимальной дальности ремонта для модулей удаленного ремонта щита для транспортных средств за каждый уровень.",
+    "zh": "远程护盾回充系统基本知识。每升一级，载具远程护盾装备的最大维修距离增加5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Fernschildmodulation",
     "en": "Remote Shield Modulation",
@@ -11,5 +23,7 @@
     "ru": "Дистанционная накачка щита",
     "zh": "远程护盾变频"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

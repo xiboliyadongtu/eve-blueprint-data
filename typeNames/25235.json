@@ -1,5 +1,18 @@
 {
-  "typeID": 25235,
+  "basePrice": 175000.0,
+  "description": {
+    "de": "Diese Fertigkeit ermöglicht es Ihnen, formale Verträge mit anderen Charakteren zu schließen. \n\nMit jeder Skillstufe erhöht sich die Anzahl der ausstehenden Verträge um vier (bis zu einem Maximum von 21 auf Stufe 5).",
+    "en": "This skill allows you to create formal agreements with other characters. \r\n\r\nFor each level of this skill the number of outstanding contracts is increased by four (up to a maximum of 21 at level 5)",
+    "es": "Esta habilidad te permite formalizar acuerdos con otros personajes. \n\n\n\nPor cada nivel de esta habilidad, se aumenta en 4 el número de contratos pendientes (hasta un máximo de 21 en el nivel 5).",
+    "fr": "Cette compétence vous permet de créer des accords officiels avec d'autres personnes. \n\nPour chaque niveau de cette compétence, le nombre de contrats est augmenté de quatre (jusqu'à un maximum de 21 au niveau 5).",
+    "ja": "他のキャラクターと公式な契約を結ぶスキル。\n\nスキルレベル上昇ごとに、未処理のままにできる契約の数が4つずつ（レベル5の最大数21まで）増加する。",
+    "ko": "계약서 작성을 위한 스킬입니다. <br><br>매 레벨마다 작성 가능한 계약서의 숫자 +4 (스킬 레벨 5 - 총 21개의 계약서 작성 가능)",
+    "ru": "Освоив первую степень этого навыка, пилот сможет заключать формальные соглашения с другими пилотами. \n\n\n\nДальнейшее освоение навыка позволяет пилоту увеличить максимальное число формальных договоров, ожидающих исполнения (на 4 за каждую степень освоения навыка, вплоть до 21 на пятой степени).",
+    "zh": "与游戏中的其他玩家订立正式协议的技能。 \n\n每升一级，未决合同的数量增加4份（到5级最多可达到21份）。"
+  },
+  "groupID": 274,
+  "iconID": 33,
+  "marketGroupID": 378,
   "name": {
     "de": "Contracting",
     "en": "Contracting",
@@ -10,5 +23,7 @@
     "ru": "Ведение контрактов",
     "zh": "合同规则"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

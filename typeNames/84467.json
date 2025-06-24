@@ -1,5 +1,18 @@
 {
-  "typeID": 84467,
+  "capacity": 25000.0,
+  "description": {
+    "de": "Das Wrack eines defekten Triglavia-Speichers. ",
+    "en": "The wreck of a Faulty Triglavian Cache. ",
+    "es": "Restos de unos depósitos triglavianos defectuosos. ",
+    "fr": "L'épave d'une cache triglavian défectueuse. ",
+    "ja": "不完全なトリグラビアンの保管庫の残骸だ。 ",
+    "ko": "손상된 트리글라비안 데이터 캐시의 잔해입니다. ",
+    "ru": "Обломки повреждённого тайника Триглава. ",
+    "zh": "一处有缺陷的三神裔贮藏残骸。 "
+  },
+  "graphicID": 22218,
+  "groupID": 186,
+  "mass": 10000.0,
   "name": {
     "de": "Faulty Triglavian Cache Wreck",
     "en": "Faulty Triglavian Cache Wreck",
@@ -10,5 +23,9 @@
     "ru": "Faulty Triglavian Cache Wreck",
     "zh": "有缺陷的三神裔贮藏残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 250.0,
+  "sofFactionName": "triglavianbase",
   "volume": 25000.0
 }

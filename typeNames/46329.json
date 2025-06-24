@@ -1,5 +1,17 @@
 {
-  "typeID": 46329,
+  "description": {
+    "de": "Dieses Signalfeuer wurde von einer automatischen Monduntersuchungssonde von Upwell mit entsprechenden Upwell-Aufbereitungsanlagen am optimalen Ort für die Erzförderung platziert.\n\n\n\nEine Aufbereitungsanlage kann innerhalb eines 250 km Radius stationiert werden und kann in dieser Zone mit einem Standup-Mondbohrer-Modul Erz aus dem Mond abbauen.",
+    "en": "This beacon has been placed by Upwell automated moon survey drones at the optimal location for ore extractions using Upwell's line of propriety Refinery structures.\r\n\r\nOne Refinery may be deployed within a 250km radius of this location, and Refineries deployed within this zone will be able to extract ore from the moon using a Standup Moon Drill module.",
+    "es": "Los drones automatizados de prospección lunar de Upwell han colocado esta baliza en la ubicación óptima para extraer menas utilizando la línea de refinerías propiedad de Upwell.\n\nEs posible desplegar una refinería dentro de un radio de 250 km de esta ubicación, que podrá extraer menas de la luna empleando un módulo de perforación lunar Standup.",
+    "fr": "Cette balise a été placée par les drones automatisés de surveillance des lunes d'Upwell à l'endroit optimal pour l'extraction de minerai grâce aux structures de raffinerie d'Upwell. Une raffinerie peut être déployée dans un rayon de 250 km autour de cet endroit, et les raffineries déployées dans cette zone pourront extraire du minerai de la lune à l'aide de module de foreuse lunaire Standup.",
+    "ja": "このビーコンはアップウェルの自動衛星調査ドローンによって、アップウェル精錬ストラクチャを使用して鉱石採掘を行うのに最適な場所に設置された。\r\n\n精錬所はこの場所から半径250km以内に1基設置できる。このゾーンに設置された精錬所は、スタンドアップ衛星ドリルモジュールを使って衛星から鉱石を採掘することができる。",
+    "ko": "업웰의 자동화 위성측량 드론이 설치한 비컨으로 업웰 정제소를 설치하면 채굴할 수 있는 최적의 위치에 있습니다. <br><br>비컨이 위치한 장소로부터 250km 반경 내에는 하나의 정제소만 배치할 수 있으며, 반경 내에 배치된 정제소는 스탠드업 위성 채굴 모듈을 사용하여 위성에서 광물을 채굴할 수 있습니다.",
+    "ru": "Этот маяк был установлен автоматизированными лунными дронами-зондами от консорциума «Апвелл». Он отмечает оптимальное место для добычи руды с помощью одного из перерабатывающих комплексов компании.\n\n\n\nОдин перерабатывающий комплекс можно разместить в радиусе 250 км от этой точки. Перерабатывающие комплексы в этой зоне смогут добывать руду на спутнике с помощью модуля лунной буровой СТАЦИОНАР-установки (Standup Moon Drill).",
+    "zh": "这个信标被昇威自动卫星探测无人机放置在选定位置，以便使用昇威的精炼厂建筑进行矿石开采。\n\n\n\n精炼厂可以部署在离此地点半径250km以内，之后就可以使用昇威卫星钻探装备从卫星上开采矿石。"
+  },
+  "graphicID": 1211,
+  "groupID": 1915,
+  "mass": 1.0,
   "name": {
     "de": "Upwell Moon Mining Beacon",
     "en": "Upwell Moon Mining Beacon",
@@ -10,5 +22,8 @@
     "ru": "Upwell Moon Mining Beacon",
     "zh": "昇威卫星开采信标"
   },
+  "portionSize": 1,
+  "published": false,
+  "sofFactionName": "genericbase",
   "volume": 1.0
 }

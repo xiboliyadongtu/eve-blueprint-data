@@ -1,5 +1,18 @@
 {
-  "typeID": 21021,
+  "description": {
+    "de": "Eine riesige Ansammlung von Maschinen, die dazu entwickelt wurden, der Stromversorgung eines Capital Ships Leben einzuhauchen.",
+    "en": "A gigantic hulk of machinery, designed to give life to a capital ship's power core.",
+    "es": "Un conjunto gigante de maquinaria diseñado para dar vida al núcleo de potencia de una nave capital.",
+    "fr": "Immense dispositif matériel destiné à activer le réacteur principal du vaisseau capital.",
+    "ja": "主力艦のパワーコアに命を吹き込む巨大な機関。",
+    "ko": "캐피탈 함선의 파워코어에 숨을 불어넣기 위해 개발된 거대한 장치입니다.",
+    "ru": "Огромный машинный отсек, питающий энергосеть корабля большого тоннажа.",
+    "zh": "用来给旗舰级飞船的能源中心提供动力的巨型机械装置。"
+  },
+  "groupID": 873,
+  "iconID": 2864,
+  "marketGroupID": 781,
+  "mass": 10000.0,
   "name": {
     "de": "Capital Power Generator",
     "en": "Capital Power Generator",
@@ -10,5 +23,8 @@
     "ru": "Capital Power Generator",
     "zh": "旗舰发电机组"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
   "volume": 2000.0
 }

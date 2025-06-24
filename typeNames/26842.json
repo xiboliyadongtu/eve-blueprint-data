@@ -1,5 +1,75 @@
 {
-  "typeID": 26842,
+  "basePrice": 160000000.0,
+  "capacity": 600.0,
+  "description": {
+    "de": "Die Stammesversion eines der wichtigsten Schiffe der Republik wurde von den vier herrschenden Stämmen innerhalb dieser in Auftrag gegeben. Diese besondere Variante wird nur denjenigen überreicht, die sich als unschätzbar wertvoll für die Interessen der Republik erwiesen haben und sich der Erhaltung der kostbaren Freiheit der Stämme widmen. Da diese Schiffe als Zeichen der Ehre gelten, lassen sich Piloten oder die Schiffscrew nicht selten spezielle Tätowierungen stechen, um ihren Stolz zu zeigen, eines dieser Schiffe besitzen und führen zu dürfen.<br>",
+    "en": "Commissioned by the four ruling tribes of the Republic, the Tribal Issue of their Fleet's key vessel is presented only to those who have displayed unyielding valor in the Republic's interest, and a tireless commitment to maintenance of the Tribes' precious freedom. Given the ship's status as a badge of honour, it is not uncommon for pilots or ship crew to add special tattoos to their anatomy, celebrating both the gift of the ship and the honour of piloting it.",
+    "es": "Encargada por las cuatro tribus gobernantes de la República, el modelo de la tribu de la principal nave de su flota se entrega solo a aquellos que han demostrado un valor inquebrantable en favor de la República y un compromiso incansable con el mantenimiento de la preciada libertad de las tribus. Dado el prestigio de la nave como insignia de honor, no es raro que sus pilotos o su tripulación se hagan tatuajes especiales para celebrar tanto el obsequio de la nave como el honor de poder pilotarla.",
+    "fr": "Commanditée par les quatre Tribus dirigeantes de la République, l'édition Tribal du vaisseau phare de la Flotte est uniquement décernée aux pilotes qui sacrifient leur bravoure inébranlable à l'honneur de la République et se battent sans répit pour assurer la précieuse liberté des Tribus. Le statut honorifique des vaisseaux tribaux pousse fréquemment les pilotes ou équipages à se tatouer pour rendre hommage au don du vaisseau et symboliser l'insigne honneur de le commander.",
+    "ja": "ミンマターの4つの支配部族より発注されるフリート主力艦の部族仕様は、共和国の利益に奉げる不屈の勇気と部族の自由のために不断の献身を示した者だけに贈られる。この船を与えられることは大きな名誉であり、記念としてパイロットや搭乗員が生体組織に特別な刺青を入れることも珍しくない。",
+    "ko": "민마타 4대 부족이 공동으로 제작한 함선입니다. 공화국 함대의 핵심 함선이며 흔들리지 않는 용맹함과 최고의 가치인 자유를 위해 헌신한 자들에게만 지급됩니다. 일종의 명예 훈장으로 취급되며 본래 형태를 유지하기 위해 도색이나 특수한 도장은 새기지 않습니다.",
+    "ru": "Базовая версия этого корабля является основой флота Республики Минматар; данная его модификация построена по заказу четырёх правящих племён Республики, о чём свидетельствуют слова «Трайбел ишью» в названии модели. Вручают её лишь тем, кто неустанно и отважно вносил свой вклад в дело поддержания свободы племен Республики и защиты её интересов. Неудивительно, что пилоты и экипаж, удостоенные этого знака доблести, отмечают полученный статус специальными татуировками. Почётна даже сама возможность управлять им, не говоря о принятии этого дара из первых рук.",
+    "zh": "狂暴级部族型被委托交由共和国中四大主要部族共同设计制造，仅授予那些为了共和国利益英勇不屈并且为了维护部族的宝贵和平而执着追求的战士。该战舰代表的是至高的荣誉，所以其飞行员或船员通常会在身体上添加纹身，表达对这架飞船大礼的赞美和驾驭飞船的荣誉感。"
+  },
+  "factionID": 500002,
+  "graphicID": 3205,
+  "groupID": 27,
+  "marketGroupID": 1620,
+  "mass": 103300000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      133,
+      73,
+      138,
+      141,
+      85,
+      150
+    ],
+    "1": [
+      96,
+      99,
+      133,
+      73,
+      138,
+      141,
+      85,
+      150
+    ],
+    "2": [
+      96,
+      99,
+      133,
+      73,
+      138,
+      141,
+      85,
+      150
+    ],
+    "3": [
+      96,
+      99,
+      133,
+      73,
+      138,
+      141,
+      85,
+      150
+    ],
+    "4": [
+      96,
+      99,
+      133,
+      73,
+      138,
+      141,
+      85,
+      118,
+      150
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Tempest Tribal Issue",
     "en": "Tempest Tribal Issue",
@@ -10,5 +80,96 @@
     "ru": "Tempest Tribal Issue",
     "zh": "狂暴级部族型"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 250.0,
+  "sofFactionName": "justice",
+  "soundID": 20076,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 5.0,
+        "bonusText": {
+          "de": "zusätzlicher Bonus auf HP der <a href=showinfo:3394>Verstärkten Schottwand</a>",
+          "en": "additional bonus to <a href=showinfo:3394>Reinforced Bulkhead</a> hitpoints",
+          "es": "de bonificación adicional a los puntos de vida del <a href=showinfo:3394>mamparo reforzado</a>.",
+          "fr": "de bonus supplémentaire aux points de vie de la <a href=showinfo:3394>cloison renforcée</a>",
+          "ja": "<a href=showinfo:3394>強化隔壁</a>HPがさらに増加",
+          "ko": "<a href=showinfo:3394>강화 격벽</a> 내구도 증가",
+          "ru": "дополнительный бонус к прочности <a href=showinfo:3394>укреплённой переборки</a>",
+          "zh": "<a href=showinfo:3394>强化舱隔壁</a>结构值加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der <a href=showinfo:3394>Panzerplatte</a>",
+          "en": "bonus to <a href=showinfo:3394>Armor Plate</a> hitpoints",
+          "es": "de bonificación a los puntos de vida de las <a href=showinfo:3394>placas de blindaje</a>.",
+          "fr": "de bonus aux points de vie du <a href=showinfo:3394>revêtement de blindage</a>",
+          "ja": "<a href=showinfo:3394>アーマープレート</a>HPが増加",
+          "ko": "<a href=showinfo:3394>장갑 플레이트</a> 내구도 증가",
+          "ru": "бонус к прочности <a href=showinfo:3394>бронеплиты</a>",
+          "zh": "<a href=showinfo:3394>装甲附甲板</a>装甲值加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 100.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der <a href=showinfo:3425>Schilderweiterung</a>",
+          "en": "bonus to <a href=showinfo:3425>Shield Extender</a> hitpoints",
+          "es": "de bonificación a los puntos de vida del <a href=showinfo:3425>extensor de escudo</a>.",
+          "fr": "de bonus aux points de vie de l'<a href=showinfo:3425>extenseur de bouclier</a>",
+          "ja": "<a href=showinfo:3425>シールドエクステンダー</a>HPが増加",
+          "ko": "<a href=showinfo:3425>실드 확장장치</a> 실드량 증가",
+          "ru": "бонус к прочности <a href=showinfo:3425>расширителя щитов</a>",
+          "zh": "<a href=showinfo:3425>护盾扩展装置</a>护盾值加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3337": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf die Feuerrate von <a href=showinfo:3308>großen Projektilgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3308>Large Projectile Turret</a> rate of fire",
+            "es": "de bonificación a la cadencia de tiro de la <a href=showinfo:3308>torreta de proyectiles grande</a>.",
+            "fr": "de bonus à la cadence de tir des <a href=showinfo:3308>grandes tourelles à projectiles</a>",
+            "ja": "<a href=showinfo:3308>大型プロジェクタイルタレット</a>の発射間隔が短縮",
+            "ko": "<a href=showinfo:3308>대형 발사체 터렛</a> 연사속도 증가",
+            "ru": "повышается скорострельность <a href=showinfo:3308>больших баллистических орудий</a>",
+            "zh": "<a href=\"showinfo:3308\">大型射弹炮台</a>射速加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3308>großen Projektilgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3308>Large Projectile Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3308>torreta de proyectiles grande</a>.",
+            "fr": "de bonus de dégâts des <a href=showinfo:3308>grandes tourelles à projectiles</a>",
+            "ja": "<a href=showinfo:3308>大型プロジェクタイルタレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3308>대형 발사체 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон боеприпасов <a href=showinfo:3308>больших баллистических орудий</a>",
+            "zh": "<a href=\"showinfo:3308\">大型射弹炮台</a>伤害加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 639,
   "volume": 470000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 17994,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Von hier aus synchronisieren und konzentrieren die Produktionsmanager ihre Aufträge. Viele Abläufe werden von hier aus ferngesteuert.",
+    "en": "From here, the assembly managers synchronize and concentrate their efforts. Much of what goes on is actually remote controlled from here.",
+    "es": "Desde aquí, los gerentes de ensamblaje sincronizan y concentran sus esfuerzos. Muchas de las cosas que ocurren se controlan remotamente desde aquí.",
+    "fr": "C'est à partir d'ici que les responsables de l'assemblage synchronisent et concentrent leurs efforts. Une grande partie des processus est en fait contrôlée d'ici, à distance.",
+    "ja": "アセンブリ管理者が自分の仕事を行うための場所。ほとんどはここから遠隔操作で行われる。",
+    "ko": "관리자들은 해당 시설에서 구조물의 동기화를 포함한 다양한 업무를 진행합니다. 대부분의 작업은 이곳에서 원격으로 이루어집니다.",
+    "ru": "Здесь руководители сборкой концентрируют и направляют свои усилия. Большая часть происходящего на самом деле управляется отсюда на расстоянии.",
+    "zh": "装配经理在这里对他们的工作进行协调和同步。大部分事情实际上都是从这里远程控制的。"
+  },
+  "graphicID": 2593,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Assembly Management HQ",
     "en": "Assembly Management HQ",
@@ -10,5 +23,11 @@
     "ru": "Assembly Management HQ",
     "zh": "装配管理总部"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 3394.0,
+  "sofFactionName": "amarrbase",
+  "soundID": 20195,
   "volume": 100000000.0
 }

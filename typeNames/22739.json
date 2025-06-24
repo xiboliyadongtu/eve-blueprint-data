@@ -1,5 +1,18 @@
 {
-  "typeID": 22739,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese Rundfunkstation wird vom caldarischen Militär eingesetzt, um Propagandasendungen nach Minmatar zu verbreiten, die darauf abzielen, die Moral zu senken und Unruhe in der Armee zu verbreiten. Eine ziemlich verbreitete Taktik bei den Caldari.",
+    "en": "This broadcasting unit is being used by the Caldari military to send messages of propoganda to the Minmatar alliance, aimed at lowering morale and causing dissent amongst the army.  Quite a common tactic amongst the Caldari.",
+    "es": "Esta unidad de transmisión está siendo utilizada por el ejército caldari para enviar mensajes de propaganda a la alianza minmatariana con la intención de minar la moral y provocar deserciones en su ejército. Una táctica común entre los caldaris.",
+    "fr": "Cette unité de transmission permet à l'armée caldari d'inonder l'alliance minmatar de messages de propagande, afin de saper le moral de leurs troupes et d'y semer la discorde.  C'est une tactique tout à fait courante de l'État caldari.",
+    "ja": "カルダリ軍が、ミンマター同盟の士気をくじき、不和を生じさせるためのプロパガンダを流布するために使用する放送ユニット。カルダリがよく用いる戦術。",
+    "ko": "민마타의 사기를 꺾고 내부분열을 일으키기 위한 선전·선동용 통신장비입니다. 선전·선동은 칼다리에서 흔하게 쓰는 수법입니다.",
+    "ru": "Данное устройство вещания используется военными Caldari для отправки пропагандистских сообщений в стан альянса Minmatar с целью понижения боевого духа их солдат. Это привычная для Caldari тактика.",
+    "zh": "加达里军队使用这个广播单元向米玛塔尔联盟发动宣传攻势，旨在降低士气，使军队内部不合。这是加达里的常用战术。"
+  },
+  "graphicID": 1217,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Caldari Broadcasting Unit",
     "en": "Caldari Broadcasting Unit",
@@ -10,5 +23,10 @@
     "ru": "Caldari Broadcasting Unit",
     "zh": "加达里广播设备"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 70.0,
+  "sofFactionName": "genericbase",
+  "soundID": 31,
   "volume": 100000000.0
 }

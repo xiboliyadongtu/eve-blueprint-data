@@ -1,5 +1,17 @@
 {
-  "typeID": 2626,
+  "description": {
+    "de": "Leitsysteme erlauben sowohl atmosphärisch als auch vakuumgestarteten Raketen, Ziele mithilfe von ausgeklügelter Elektronik und speziell kalibrierten Sensoren aufzuspüren.",
+    "en": "Guidance systems allow both atmospheric and vacuum launched missiles to find targets using sophisticated electronics and specially calibrated sensors.",
+    "es": "Los sistemas de guiado permiten a los misiles de lanzamiento tanto atmosférico como de vacío encontrar objetivos con una sofisticada electrónica y sensores especialmente calibrados.",
+    "fr": "Les systèmes de guidage permettent aux missiles lancés dans l'atmosphère et dans le vide d'atteindre leur cible, en utilisant des composants électroniques sophistiqués et des détecteurs au calibrage spécialement adapté.",
+    "ja": "大気圏内および宇宙空間で発射された誘導ミサイルが標的を追尾するために用いる、精密電子機器および専用調整済みセンサー。",
+    "ko": "유도 시스템은 정교한 전자장치와 특수하게 보정된 센서를 사용하여 대기압에 영향을 받거나 진공에서 발사된 미사일이 타겟에 적중할 수 있도록 합니다.",
+    "ru": "Системы наведения позволяют ракетам, запускаемым как в атмосфере, так и в космосе, находить цели с помощью сложных электронных систем и тщательно откалиброванных датчиков.",
+    "zh": "通过先进的电子元件和感应器，制导系统能够让大气圈内和真空中飞行的导弹准确的找到目标。"
+  },
+  "groupID": 314,
+  "iconID": 1361,
+  "mass": 90000.0,
   "name": {
     "de": "Crates of Missile Guidance Systems",
     "en": "Crates of Missile Guidance Systems",
@@ -10,5 +22,7 @@
     "ru": "Crates of Missile Guidance Systems",
     "zh": "装箱的导弹制导系统"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 90.0
 }

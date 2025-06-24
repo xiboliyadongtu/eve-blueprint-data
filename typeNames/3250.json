@@ -1,5 +1,18 @@
 {
-  "typeID": 3250,
+  "basePrice": 200000.0,
+  "description": {
+    "de": "Ein Neuralinterface-Upgrade, das die Fertigkeiten des Piloten im Umgang mit Energie-Impulswaffen erhöht.\n\n\n\n2% Reduktion der Zykluszeit von Modulen, die die Fertigkeit im Umgang mit Energie-Impulswaffen erfordern",
+    "en": "A neural interface upgrade that boosts the pilot's skill with energy pulse weapons.\r\n\r\n2% reduction in the cycle time of modules requiring the Energy Pulse Weapons skill.",
+    "es": "Mejora de interfaz neuronal que potencia la habilidad del piloto con las armas de energía de pulsos.\n\n2 % de reducción al tiempo de ciclo de los módulos que requieren la habilidad de armas de energía de pulsos.",
+    "fr": "Amélioration de l'interface neurale portant sur la compétence du pilote liée à l'utilisation des armes à impulsions.\n\nRéduit de 2 % le temps de cycle des modules nécessitant la compétence liée aux armes à impulsions.",
+    "ja": "神経系インターフェイスのアップグレード。パイロットのエネルギーパルス兵器を扱うスキルを高める。\n\nエネルギーパルス兵器スキルを必要とするモジュールのサイクル時間が2%短縮。",
+    "ko": "에너지 펄스 무기 스킬을 향상하는 신경 인터페이스 업그레이드입니다. <br><br>에너지 펄스 무기 스킬을 요구하는 모듈의 사이클 시간 2% 감소",
+    "ru": "Модуль расширения нейроинтерфейса, улучшающий навыки пилота в области работы с энергетическим импульсным оружием.\n\n\n\n2% сокращение времени рабочего цикла модулей, для использования которых требуется навык Energy Pulse Weapons.",
+    "zh": "一款神经接口升级芯片，可以增强飞行员在能量脉冲武器方面的技能。对于那些要求能量脉冲武器这一技能的装备，运转周期降低2%。"
+  },
+  "groupID": 741,
+  "iconID": 2224,
+  "marketGroupID": 1508,
   "name": {
     "de": "Inherent Implants 'Squire' Energy Pulse Weapons EP-702",
     "en": "Inherent Implants 'Squire' Energy Pulse Weapons EP-702",
@@ -10,5 +23,7 @@
     "ru": "Inherent Implants 'Squire' Energy Pulse Weapons EP-702",
     "zh": "天赋植体 随从 能量脉冲武器 EP-702"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

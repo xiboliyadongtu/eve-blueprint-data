@@ -1,5 +1,18 @@
 {
-  "typeID": 50180,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Der Triglavia-Transportfeldeffekt-Untermast bildet um sich herum ein Feld, das in der Funktion einem Mikrosprungfeld entspricht, und ist Teil des Defensivnetzwerks einer eindringenden World Ark.",
+    "en": "The Triglavian Transport Field Effect Subpylon emits a field functionally equivalent to a micro jump field around it and functions as part of an invading World Ark's defensive network.",
+    "es": "El subpilón de campo de transporte triglaviano emite a su alrededor un campo funcionalmente equivalente a un campo de microsalto y funciona como parte de la red defensiva de una Arca Planetaria invasora.",
+    "fr": "L'effet de champ Subpylon de transport triglavian émet un champ fonctionnel autour de lui équivalent à un champ de micro saut et fonctionne comme partie intégrante du réseau défensif de l'Arche du monde.",
+    "ja": "トランスポートフィールド効果サブパイロンは、機能的には周囲にマイクロジャンプ・フィールドと同等のフィールドを放出し、侵略するワールドアークの防御ネットワークの一部として機能する。",
+    "ko": "트리글라비안 워프 필드 서브파일론은 마이크로 점프 필드를 생성합니다. 이를 이용하여 월드 아크의 방어 체계를 무너뜨릴 수 있습니다.",
+    "ru": "Малый пилон эффекта переносного поля Триглава излучает поле, функционально эквивалентное разгонному полю, и действует как часть оборонительной сети «Всемирного ковчега».",
+    "zh": "三神裔传输力场效果发射子塔会在其周围放射出微型跳跃效果力场，是入侵的世界方舟的防御体系中的一环。"
+  },
+  "graphicID": 24416,
+  "groupID": 4073,
+  "mass": 1000.0,
   "name": {
     "de": "Transport Field Effect Subpylon",
     "en": "Transport Field Effect Subpylon",
@@ -10,5 +23,9 @@
     "ru": "Transport Field Effect Subpylon",
     "zh": "传输力场效果发射子塔"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 371.0,
+  "sofFactionName": "triglavianbase",
   "volume": 1000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 3385,
+  "basePrice": 75000.0,
+  "description": {
+    "de": "Fertigkeit zur Nutzung von Aufbereitungsanlagen in Stationen, Außenposten und Sternenbasen, um Erze und Eis in ihre raffinierten Produkte aufzubereiten.\n\n3% Bonus auf den Aufbereitungsertrag von Eis und Erz je Skillstufe.",
+    "en": "Skill at using reprocessing facilities in station, outposts and starbases to break ores and ice down into refined products.\r\n\r\n3% bonus to ore and ice reprocessing yield per skill level.",
+    "es": "Habilidad en el uso de instalaciones de reprocesamiento en estaciones, puestos avanzados y bases estelares para transformar menas y hielo en productos refinados.\n\n3 % de bonificación al rendimiento de reprocesamiento del hielo y las menas por nivel de habilidad.",
+    "fr": "Compétence liée à l'utilisation d'installations de retraitement dans les stations, les avant-postes et les bases stellaires pour transformer les minerais et la glace en produits raffinés.\n\nBonus de 3% pour le rendement du retraitement du minerai et de la glace par niveau de compétence.",
+    "ja": "ステーション・アウトポスト・スターベースにある再処理施設を使用して鉱石やアイスを精錬製品にするスキル。\n\t\t\n鉱石とアイスの再処理による生産性が、スキルレベル上昇ごとに3%増加。",
+    "ko": "스타베이스, 전초기지, 그리고 정거장에 설치된 정제시설의 효율성을 향상시키는 스킬입니다. <br><br>매 레벨마다 광물 및 아이스 정제 산출량 3% 증가",
+    "ru": "Навык переработки и обогащения руды и льда с получением очищенных производных материалов при помощи цехов переработки сырья на станциях, ПОСах и форпостах.\n\n\n\nЗа каждую степень освоения навыка: на 3% увеличивается полезный выход ресурсов при переработке руды и льда.",
+    "zh": "使用空间站、哨站和母星中的提炼设施对矿石和冰矿进行提炼的技能。\n\n每升一级，矿石和冰矿提炼产出提高3%。"
+  },
+  "groupID": 1218,
+  "iconID": 33,
+  "marketGroupID": 1323,
   "name": {
     "de": "Reprocessing",
     "en": "Reprocessing",
@@ -10,5 +23,7 @@
     "ru": "Переработка сырья",
     "zh": "提炼学概论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

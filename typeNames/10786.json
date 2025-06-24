@@ -1,5 +1,16 @@
 {
-  "typeID": 10786,
+  "description": {
+    "de": "Spuren einer Asteroidenkollision oder einer Supernova. Diese Felsformation schmückt das Weltraumpanorama wie eine planetare Gebirgskette.",
+    "en": "Fragments from an asteroid collision or a supernova, this rock formation decorates the starscape as a planetary mountain range.",
+    "es": "Esta formación rocosa, compuesta por fragmentos de una colisión de asteroides o de una supernova, decora el paisaje estelar como una cordillera planetaria.",
+    "fr": "Constituée de fragments d'une collision d'astéroïdes ou d'une supernova, cette formation rocheuse décore l'espace sidéral tel un panorama montagneux.",
+    "ja": "アステロイドの衝突または超新星爆発によって生じた岩石の破片群。山脈のように連なる岩石群が壮大な眺めを作り出している。",
+    "ko": "초신성 폭발이나 소행성 충돌로 생겨난 이 암석 파편은, 별무리를 장식하는 거대한 산악 지형을 연상시킵니다.",
+    "ru": "Это скальное образование, состоящее из оставшихся после столкновения астероидов или взрыва сверхновой фрагментов, украшает космический пейзаж, напоминая планетарную горную гряду.",
+    "zh": "这块岩石是某次超新星爆炸或者小行星碰撞的碎片，就像一座行星山脉点缀着星空。"
+  },
+  "graphicID": 2005,
+  "groupID": 226,
   "name": {
     "de": "Tiny Rock",
     "en": "Tiny Rock",
@@ -10,5 +21,8 @@
     "ru": "Tiny Rock",
     "zh": "微小的岩石"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 2033.0,
+  "sofFactionName": "genericbase"
 }

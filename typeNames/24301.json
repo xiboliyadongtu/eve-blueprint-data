@@ -1,5 +1,18 @@
 {
-  "typeID": 24301,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Der Flüchtling Yamia Mida wohnt hier.",
+    "en": "The fugitive Yamia Mida resides here.",
+    "es": "El fugitivo Yamia Mida vive aquí.",
+    "fr": "Yamia Mida, la fugitive, réside ici.",
+    "ja": "逃亡者、ヤミアミダが住んでいる。",
+    "ko": "야미아 미다의 거주지입니다.",
+    "ru": "Здесь обитает беглец Yamia Mida.",
+    "zh": "逃亡者亚米埃·迈达住在这里。"
+  },
+  "graphicID": 2515,
+  "groupID": 306,
+  "mass": 100000.0,
   "name": {
     "de": "Yamia Mida's Residence",
     "en": "Yamia Mida's Residence",
@@ -10,5 +23,9 @@
     "ru": "Yamia Mida's Residence",
     "zh": "亚米埃·迈达的居所"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 379.0,
+  "sofFactionName": "genericliving",
   "volume": 100000000.0
 }

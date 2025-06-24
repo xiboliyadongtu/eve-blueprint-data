@@ -1,5 +1,18 @@
 {
-  "typeID": 20569,
+  "description": {
+    "de": "Erhöht die Prozessorleistung.",
+    "en": "Increases CPU output.",
+    "es": "Aumenta el rendimiento de la CPU.",
+    "fr": "Augmente la capacité du CPU.",
+    "ja": "CPU 出力が向上する。",
+    "ko": "CPU 용량이 증가합니다.",
+    "ru": "Увеличивает вычислительную мощность процессора корабля.",
+    "zh": "增加CPU输出"
+  },
+  "groupID": 285,
+  "iconID": 1405,
+  "marketGroupID": 676,
+  "metaGroupID": 3,
   "name": {
     "de": "'Deuce' Co-Processor I",
     "en": "'Deuce' Co-Processor I",
@@ -10,5 +23,8 @@
     "ru": "'Deuce' Co-Processor I",
     "zh": "平局协处理器 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 3887,
   "volume": 5.0
 }

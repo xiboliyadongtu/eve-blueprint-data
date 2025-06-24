@@ -1,5 +1,17 @@
 {
-  "typeID": 353440,
+  "basePrice": 1115000.0,
+  "description": {
+    "de": "Fortgeschrittener Skill in der Ressourcenhandhabung von Leichtwaffen.\n3% Abzug auf die CPU-Auslastung von Leichtwaffen pro Skillstufe.",
+    "en": "Advanced skill at light weapon resource management.\r\n3% reduction to light weapon CPU usage per level.",
+    "es": "Habilidad de gestión de recursos de armas ligeras. \n-3% al coste de CPU de las armas ligeras por nivel.",
+    "fr": "Compétence avancée de gestion des ressources d'arme légère.\n3 % de réduction d'utilisation de CPU des armes légères par niveau.",
+    "it": "Abilità avanzata nella gestione delle risorse con armi leggere.\n3% di riduzione dell'utilizzo della CPU da parte delle armi leggere per livello.",
+    "ja": "小火器のリソース消費を管理する上級スキル。\nレベル上昇ごとに、小火器の必要CPUが3%節減する。",
+    "ko": "경량 무기를 위한 자원 관리 스킬입니다. <br><br>매 레벨마다 경량무기의 CPU 사용량 3% 감소",
+    "ru": "Углубленный навык обращения с боеприпасом для легкого оружия.\n3% сокращение потребления ресурсов ЦПУ всеми видами легкого оружия на каждый уровень.",
+    "zh": "管理轻型武器资源的高级技能。每升一级，轻型武器的CPU使用率降低3%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Fertigkeit: Leichtwaffenupgrade",
     "en": "Light Weapon Upgrade Proficiency",
@@ -11,5 +23,7 @@
     "ru": "Эксперт по системам модернизации легкого оружия",
     "zh": "轻型武器升级件熟练度"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

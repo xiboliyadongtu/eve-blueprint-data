@@ -1,5 +1,20 @@
 {
-  "typeID": 56362,
+  "basePrice": 5000.0,
+  "capacity": 120.0,
+  "description": {
+    "de": "Dieser kleine Container ist mit einem passwortgeschützten Sicherheitsschloss ausgestattet. Dies ist Teil der Feierlichkeiten zur GM-Woche und enthält kleine Aufmerksamkeiten für Kapselpiloten, die das Rätsel dieses Passwortes lösen können.",
+    "en": "This small container is fitted with a password-protected security lock. \r\nIt has been placed as part of GM Week celebrations and contains goodies for capsuleers who can solve the riddle of its password.",
+    "es": "Este contenedor pequeño está equipado con un cierre de seguridad protegido por contraseña. \n\nSe ha instalado en el marco de las celebraciones de la Semana de los GM y ofrece artículos para capsulistas capaces de resolver el enigma de su contraseña.",
+    "fr": "Ce petit conteneur est équipé d'un verrou de sécurité protégé par mot de passe. Il a été placé à l'occasion des festivités de la semaine des MJ et contient des cadeaux pour les capsuliers qui réussissent à résoudre l'énigme de son mot de passe.",
+    "ja": "パスワード式ロック機能を備えた小型コンテナ。\r\nGMウィークの一環として置かれたものであり、パスワードの謎を解いたカプセラには褒賞としてその内容物が与えられる。",
+    "ko": "암호화 장치가 설치된 소형 컨테이너입니다.<br><br>GM 주간 행사를 위해 준비된 컨테이너로 암호를 풀 경우 상품이 지급됩니다.",
+    "ru": "Этот небольшой контейнер оснащён замком-блокиратором, для открытия которого требуется ввести пароль. Он размещён в честь празднования недели гейм-мастера. Капсулёры, которым удастся подобрать пароль, получат награды.",
+    "zh": "这个小型集装箱安装了密码保护安全锁装置。 \n\n谁能猜中密码，就能打开箱子。"
+  },
+  "graphicID": 1173,
+  "groupID": 340,
+  "iconID": 1173,
+  "mass": 10000.0,
   "name": {
     "de": "GM's Secret Stash Container",
     "en": "GM's Secret Stash Container",
@@ -10,5 +25,9 @@
     "ru": "GM's Secret Stash Container",
     "zh": "GM的秘密宝藏箱"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 10.0,
+  "sofFactionName": "genericmetal",
   "volume": 100.0
 }

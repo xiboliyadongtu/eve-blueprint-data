@@ -1,5 +1,17 @@
 {
-  "typeID": 88170,
+  "capacity": 0.1,
+  "description": {
+    "de": "Ein Gerät, das Energien aus dem umliegenden Vortex an die Dreadnought überträgt. ",
+    "en": "A device transmitting energies from the surrounding vortex to the Dreadnought. ",
+    "es": "Un dispositivo que transmite energía desde el vórtice circundante al superacorazado. ",
+    "fr": "Un dispositif transmettant des énergies du vortex proche au supercuirassé. ",
+    "ja": "周辺のヴォーテックスから攻城艦へエネルギーを伝送している装置。 ",
+    "ko": "에너지를 주변의 볼텍스에서 드레드노트로 전송하는 장치입니다. ",
+    "ru": "Это устройство передаёт дредноуту энергию вихря, в эпицентре которого находится. ",
+    "zh": "一个能将周围涡流的能量传输至无畏舰的装置。 "
+  },
+  "graphicID": 28020,
+  "groupID": 952,
   "name": {
     "de": "Vortex Transmitter",
     "en": "Vortex Transmitter",
@@ -10,5 +22,8 @@
     "ru": "Vortex Transmitter",
     "zh": "涡流发射器"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 241.0,
+  "sofFactionName": "drifter"
 }

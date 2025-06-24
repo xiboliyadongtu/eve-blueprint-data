@@ -1,5 +1,19 @@
 {
-  "typeID": 30834,
+  "basePrice": 33264.0,
+  "description": {
+    "de": "Ein Hacking-System zur Überbrückung elektronischer Sicherheitssysteme, das möglicherweise Zugriff zu wertvollen Daten oder Gegenständen ermöglicht. Hinweis: Aufgrund der kürzlich in Zweigstellenprognosen entdeckten Schwachstellen bestimmter Recursive-Computing-Module des Upwell Consortiums kann dieses Analysegerät auch dazu verwendet werden, um sensible Informationen über die Verstärkungsphasen von Upwell-Strukturen zu sammeln.",
+    "en": "A Hacking system used to override electronic security systems, potentially providing access to valuable data or items.\r\n\r\nNote: Due to recently discovered branch prediction vulnerabilities in certain Upwell Consortium Recursive Computing Modules this analyzer may also be used to collect sensitive information concerning reinforcement periods of Upwell Structures.",
+    "es": "Un sistema de hackeo empleado para anular sistemas de seguridad electrónica que puede proporcionar acceso a datos u objetos valiosos.\n\n\n\nNota: Debido a las recién descubiertas vulnerabilidades en la predicción de bifurcaciones descubiertas recientemente en ciertos módulos de computación recursiva del Consorcio Upwell, este analizador también sirve para recopilar información confidencial sobre los periodos de refuerzo de las estructuras de Upwell.",
+    "fr": "Un système de piratage utilisé pour outrepasser les systèmes de sécurité électroniques et capable de fournir un accès à des données ou objets précieux. Remarque : depuis la récente découverte de failles dans la prédiction de branchement de certains modules informatiques récursifs de l'Upwell Consortium, cet analyseur peut également être utilisé pour recueillir des informations sensibles sur les périodes de renforcement des structures Upwell.",
+    "ja": "ハッキングシステム。電子セキュリティシステムを解除することができる。ひょっとすると価値あるデータやアイテムを手にれられるかもしれない。\r\n\n注: 特定のアップウェルコンソーシアム再帰コンピューティングモジュールで最近発見された分岐予測の脆弱性により、このアナライザーはアップウェルストラクチャの補強期間に関する機密情報の収集にも使用される可能性がある。",
+    "ko": "보안 시스템 무력화에 사용되는 해킹 시스템으로 무력화 성공 시 데이터 및 아이템을 획득할 수 있습니다. <br><br>참고: 업웰 재귀 모듈이 분기 예측에 취약하다는 사실이 밝혀지면서 분석기를 통해 업웰 구조물의 보강 시기와도 같은 비밀 정보를 수집할 수 있음을 알게 되었습니다.",
+    "ru": "Система взлома для перегрузки электронных оборонных систем, способная обеспечивать доступ к ценным предметам и данным. Примечание: в связи с обнаруженными недавно уязвимостями в системах прогнозирования некоторых модулей обратного вычисления консорциума «Апвелл» этот анализатор также можно использовать для сбора важной информации о периодах укрепления сооружений консорциума «Апвелл».",
+    "zh": "用于绕过电子安保系统的黑客系统，也许能够访问珍贵的数据或物品。\n\n\n\n注意：由于最近发现的特定昇威递推计算模块的漏洞，这个分析仪也可能用于收集关于昇威建筑增强时间的机密信息。"
+  },
+  "groupID": 538,
+  "iconID": 2856,
+  "marketGroupID": 1718,
+  "metaGroupID": 2,
   "name": {
     "de": "Data Analyzer II",
     "en": "Data Analyzer II",
@@ -10,5 +24,9 @@
     "ru": "Data Analyzer II",
     "zh": "数据分析仪 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 500.0,
+  "variationParentTypeID": 22175,
   "volume": 5.0
 }

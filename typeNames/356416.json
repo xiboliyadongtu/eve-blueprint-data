@@ -1,5 +1,17 @@
 {
-  "typeID": 356416,
+  "basePrice": 500.0,
+  "description": {
+    "de": "Eine generische Beschreibung aller Infanteriemodule.",
+    "en": "A generic description for all infantry modules",
+    "es": "Una descripción genérica de todos los módulos de infantería.",
+    "fr": "Description générique pour tous les modules d'infanterie",
+    "it": "A generic description for all infantry modules",
+    "ja": "歩兵モジュール全般に関する説明",
+    "ko": "보병용 모듈에 관한 일반적인 설명입니다.",
+    "ru": "Общее описание для любого пехотного модуля",
+    "zh": "所有步兵装备的总称"
+  },
+  "groupID": 351121,
   "name": {
     "de": "[DEV] Fernreparaturaggregat für Panzerungen",
     "en": "[DEV] Remote Armor Repairer",
@@ -11,5 +23,7 @@
     "ru": "[DEV] Система дистанционного ремонта брони",
     "zh": "[DEV]远程装甲维修器"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

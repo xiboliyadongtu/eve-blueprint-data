@@ -1,5 +1,20 @@
 {
-  "typeID": 44102,
+  "basePrice": 200000.0,
+  "capacity": 0.15,
+  "description": {
+    "de": "Eine von Kaalakiota entworfene integrierte Werfer- und Sensorplattform. Kann eingehende Bedrohungen feststellen und auf Befehl ein Defender™ Tötungsmittel abfeuern, um die Bedrohung abzufangen.\n\n\n\nHinweis: Kann nur in Rümpfe der Zerstörer-Klasse eingebaut werden.",
+    "en": "A Kaalakiota designed integrated launcher and sensor platform. Capable of detecting incoming threats, and on command, launching a Defender™ kill vehicle to intercept it.\r\n\r\nNote: Can only be fit to destroyer class hulls.",
+    "es": "Plataforma con sensores y lanzadores integrados de diseño kaalakiota. Es capaz de detectar amenazas cercanas y lanzar a demanda un vehículo asesino Defender™ para interceptarlas.\n\nAviso: Solo se puede equipar en naves de clase destructor.",
+    "fr": "Cette plateforme de détecteurs équipée d'un lanceur intégré  a été conçue par Kaalakiota. Capable de repérer les menaces en approche, elle est programmée pour larguer sur commande des ogives antibalistiques™ dédiées à l'interception des projectiles. Remarque : réservé aux coques de classe destroyer.",
+    "ja": "カーラキオタ社が設計した、統合型ランチャーとセンサープラットフォーム。接近する脅威を感知してコマンドを実行し、迎撃™弾頭を発射する。\r\n\n注意: 駆逐艦のみ装備可能。",
+    "ko": "칼라키오타에서 디자인한 통합된 런처와 센서 플랫폼입니다. 다가오는 공격을 감지해 디펜더™를 발사하여 도중에 격추 시킬 수 있습니다. <br><br>참고: 디스트로이어급 선체에만 장착할 수 있습니다.",
+    "ru": "Интегрированный сенсорно-ракетный комплекс противобомбовой обороны, разработанный корпорацией «Каалакиота». Обнаруживает угрожающие объекты и по команде запускает патентованную противоракету для их перехвата.\n\n\n\nВнимание! Этим модулем могут оснащаться исключительно эсминцы различных техкатегорий.",
+    "zh": "卡拉吉塔设计的一种发射器和感应器整合平台。能够侦测到威胁来临，并发射一种防御性弹药来对其进行拦截。\n\n\n\n注：只能装配在驱逐舰级别的舰船上。"
+  },
+  "graphicID": 20089,
+  "groupID": 512,
+  "iconID": 168,
+  "marketGroupID": 2351,
   "name": {
     "de": "Defender Launcher I",
     "en": "Defender Launcher I",
@@ -10,5 +25,8 @@
     "ru": "Defender Launcher I",
     "zh": "反弹道导弹发射器 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "caldaribase",
   "volume": 5.0
 }

@@ -1,5 +1,75 @@
 {
-  "typeID": 19720,
+  "basePrice": 4333400000.0,
+  "capacity": 2175.0,
+  "description": {
+    "de": "Die Revelation ist der Inbegriff der Kriegstechnologie der Amarr. Indem sie die Tradition aufrecht erhalten, die stärksten Panzerplatten des Universums zu produzieren, haben sich die Ingenieure des Imperiums bei der Entwicklung dieser wohl widerstandsfähigsten Dreadnought selbst übertroffen.\n\n\n\nZusätzlich kann die Revelation Capital Strahlenlaser abfeuern, was sie auf dem Schlachtfeld einzigartig macht. Für längere Belagerungen sollten Sie dieses Schiff anfordern.",
+    "en": "The Revelation represents the pinnacle of Amarrian military technology. Maintaining their proud tradition of producing the strongest armor plating to be found anywhere, the Empire's engineers outdid themselves in creating what is arguably the most resilient dreadnought in existence.\r\n\r\nAdded to that, the Revelation's ability to fire capital beams makes its position on the battlefield a unique one. When extended sieges are the order of the day, this is the ship you call in.",
+    "es": "La Revelation representa la cima de la tecnología militar amarriana. Fieles a su orgullosa tradición de producir las placas de blindaje más resistentes, los ingenieros del Imperio se han superado a sí mismos con el desarrollo del que seguramente sea el superacorazado más resistente que existe.\n\nAdemás, la Revelation puede disparar rayos capitales, lo cual hace que su posición en el campo de batalla sea única. En resumidas cuentas, es la nave idónea para asedios largos.",
+    "fr": "Le Revelation est le nec plus ultra de la technologie militaire amarr. Fidèles à la tradition qu'a l'Empire de produire les blindages les plus épais, ses ingénieurs se sont surpassés en mettant au point ce qui est sans aucun doute le supercuirassé le plus résistant en service.\n\n\n\nLe Revelation est redoutable sur le champ de bataille en raison de ses rayons d'une puissance remarquable. C'est le genre de vaisseau qu'il faut posséder lorsque vous assiégez une position.",
+    "ja": "レベレーションはアマー軍事技術の最高傑作といえよう。どこよりも強靭なアーマープレートを作るという誇りある伝統を守ってきた帝国技術者たちは、現存する中ではほぼ間違いなく最も耐久力に優れた攻城艦を開発することで、自己記録さえ更新してのけたのだった。更に、キャピタルビームの発射能力が戦場におけるレベレーションの地位を特別なものにしている。長時間の包囲戦となると、まずこの船を駆り出したくなるはずだ。",
+    "ko": "레벨레이션은 아마르 군사 기술의 절정을 보여주는 함선입니다. 그 어느 제국보다 견고한 장갑 플레이팅을 생산해오던 아마르 제국은 자신들의 역대 함선을 모두 능가하는 작품을 만들어내어 현존하는 함선 중 가장 저항력이 높은 드레드노트를 건조하였습니다. <br><br>여기에 캐피탈 빔 발사 기능까지 더해져 레벨레이션은 전장에서 대체 불가능한 존재로 자리잡았습니다. 공성이 그날의 임무라면, 레벨레이션은 당신이 원하는 바로 그 함선입니다.",
+    "ru": "«Ревелейшн» представляет собой вершину военной технологии Амаррской Империи. По праву гордясь своими возможностями по изготовлению самой прочной брони в галактике, инженеры Империи превзошли себя и создали, возможно, самый жизнеспособный дредноут из существующих.\n\n\n\nКроме того, благодаря своей способности вести огонь из лазерных орудий сверхбольшой мощности, дредноуты типа «Ревелейшн» могут играть уникальную роль на поле боя. Когда необходимо осуществлять долговременную осаду, этот корабль — идеальный вариант.",
+    "zh": "神示级象征着艾玛军事技术的顶峰。帝国工程师们发扬了生产世上最坚固装甲附甲的光荣传统，超越自我，制造出了无可争议的史上回复能力最强的无畏舰。\n\n\n\n不仅如此，神示级具有发射旗舰级激光束的能力，这使得它在战场上拥有独特地位。在发动大规模围歼战时，这艘舰船将是你的不二选择。"
+  },
+  "factionID": 500003,
+  "graphicID": 2743,
+  "groupID": 485,
+  "marketGroupID": 762,
+  "mass": 1290000000.0,
+  "masteries": {
+    "0": [
+      96,
+      66,
+      145,
+      147,
+      150,
+      90,
+      93,
+      95
+    ],
+    "1": [
+      96,
+      66,
+      145,
+      147,
+      150,
+      90,
+      93,
+      95
+    ],
+    "2": [
+      96,
+      66,
+      145,
+      147,
+      150,
+      90,
+      93,
+      95
+    ],
+    "3": [
+      96,
+      66,
+      145,
+      147,
+      150,
+      90,
+      93,
+      95
+    ],
+    "4": [
+      96,
+      66,
+      145,
+      147,
+      117,
+      150,
+      90,
+      93,
+      95
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Revelation",
     "en": "Revelation",
@@ -9,6 +79,94 @@
     "ko": "레벨레이션",
     "ru": "Revelation",
     "zh": "神示级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 1700.0,
+  "sofFactionName": "amarrbase",
+  "soundID": 20061,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Es kann ein <a href=showinfo:20280>Belagerungsmodul</a> eingebaut werden",
+          "en": "Can fit a <a href=showinfo:20280>Siege module</a>",
+          "es": "Es posible equipar un <a href=showinfo:20280>módulo de asedio</a>.",
+          "fr": "Peut être équipé d'un <a href=showinfo:20280>module de siège</a>",
+          "ja": "<a href=showinfo:20280>シージモジュール</a>を搭載可能",
+          "ko": "<a href=showinfo:20280>시즈모듈</a> 장착 가능",
+          "ru": "Корабли этого типа могут оснащаться <a href=showinfo:20280>реконфигураторами осадного профиля</a>",
+          "zh": "可以装配一个<a href=showinfo:20280>会战装备</a>"
+        },
+        "importance": 1
+      },
+      {
+        "bonus": 5,
+        "bonusText": {
+          "de": "Abzug auf die Durchlaufzeit von <a href=showinfo:34593>Entosis-Netzwerken</a>",
+          "en": "penalty to <a href=showinfo:34593>Entosis Link</a> cycle time",
+          "es": "de penalización al tiempo de ciclo del <a href=showinfo:34593>enlace de entosis</a>.",
+          "fr": "pénalité applicable au temps de cycle de l'<a href=showinfo:34593>interface Entosis</a>",
+          "ja": "<a href=showinfo:34593>エントーシスリンク</a>サイクル時間にペナルティ",
+          "ko": "<a href=showinfo:34593>엔토시스 링크</a> 사이클 시간 증가",
+          "ru": "увеличивается длительность рабочего цикла <a href=showinfo:34593>энтоз-передатчиков</a>",
+          "zh": "<a href=showinfo:34593>侵噬链接</a>运转周期惩罚"
+        },
+        "importance": 2,
+        "unitID": 104
+      }
+    ],
+    "types": {
+      "20525": [
+        {
+          "bonus": 4,
+          "bonusText": {
+            "de": "Bonus auf alle Panzerungsresistenzen",
+            "en": "bonus to all armor resistances",
+            "es": "de bonificación a todas las resistencias de blindaje.",
+            "fr": "de bonus à toutes les résistances de blindage",
+            "ja": "全てのアーマーレジスタンスが増加",
+            "ko": "모든 장갑 저항력 증가",
+            "ru": "повышается сопротивляемость брони корабля всем видам воздействия",
+            "zh": "装甲抗性加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:20327>Capital-Energiegeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:20327>Capital Energy Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:20327>torreta de energía capital</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:20327>tourelles à énergie capitales</a>",
+            "ja": "<a href=showinfo:20327>キャピタルエネルギータレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:20327>캐피탈 에너지 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон <a href=showinfo:20327>сверхбольших лазерных орудий</a>",
+            "zh": "<a href=showinfo:20327>旗舰级能量炮台</a>伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Reduktion der Aktivierungskosten von <a href=showinfo:20327>Capital-Energiegeschütztürmen</a>",
+            "en": "reduction in <a href=showinfo:20327>Capital Energy Turret</a> activation cost",
+            "es": "de reducción del coste de activación de la <a href=showinfo:20327>torreta de energía capital</a>.",
+            "fr": "de réduction du coût d'activation des <a href=showinfo:20327>tourelles à énergie capitales</a>",
+            "ja": "<a href=showinfo:20327>キャピタルエネルギータレット</a>の起動コストが軽減",
+            "ko": "<a href=showinfo:20327>캐피탈 에너지 터렛</a> 활성화 비용 감소",
+            "ru": "сокращается расход энергии при ведении огня из <a href=showinfo:20327>сверхбольших лазерных орудий</a>",
+            "zh": "<a href=showinfo:20327>旗舰级能量炮台</a>启动消耗减少"
+          },
+          "importance": 3,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 18500000.0
 }

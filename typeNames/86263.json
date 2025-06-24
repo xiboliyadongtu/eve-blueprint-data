@@ -1,5 +1,18 @@
 {
-  "typeID": 86263,
+  "basePrice": 250000.0,
+  "description": {
+    "de": "Spezialistentraining zur Bedienung von Kapselbrechern. +10 % auf maximale Geschwindigkeit von Kapselbrechern pro Skillstufe.",
+    "en": "Specialist training in the operation of Breacher Pod Launchers. +10% to Breacher Pod maximum velocity per skill level.",
+    "es": "Entrenamiento especializado en el funcionamiento de los lanzacápsulas de ataque. +10 % a la velocidad máxima de las cápsulas de ataque por nivel de habilidad.",
+    "fr": "Formation spécialisée dans l'utilisation des lanceurs de capsules de brèche. +10 % à la vitesse maximale des capsules de brèche par niveau de compétence.",
+    "ja": "突入ポッドランチャーの操作に関する特殊訓練を受けるスキル。スキルレベルが1つ上がるたびに、突入ポッドの最大速度が10%増加する。",
+    "ko": "침투 포드 런처 운용을 위한 특수 훈련 스킬입니다. 스킬 레벨당 침투 포드의 최대 속력이 10% 증가합니다.",
+    "ru": "Этот особый навык позволяет эффективнее работать с пусковыми установками внедряющихся капсул. Каждая степень освоения на 10% повышает максимальную скорость капсул.",
+    "zh": "操作分裂者级逃生舱发射器的专业技能。每升一级，分裂者级逃生舱最大速度提高10%。"
+  },
+  "groupID": 256,
+  "iconID": 33,
+  "marketGroupID": 373,
   "name": {
     "de": "Breacher Pod Projection",
     "en": "Breacher Pod Projection",
@@ -10,5 +23,7 @@
     "ru": "Breacher Pod Projection",
     "zh": "分裂者级逃生舱投射"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,54 @@
 {
-  "typeID": 655,
+  "basePrice": 1400000.0,
+  "capacity": 550.0,
+  "description": {
+    "de": "Die Epithal verfügt zusätzlich zu den üblichen Trägerkapazitäten eines Transporters noch über einen weiteren Frachtraum. Dieser besteht aus versiegelten Kammern, die praktisch jedem Organismus oder Lebewesen - von Biozellen bis hin zu Viren - die passende Umgebung bieten können, und dient einzig dem Transport planetarischer Güter. Ursprünglich als Ableger der Iteron konzipiert, konnte sich die Epithal im Laufe der Zeit als eigenständige Klasse etablieren.",
+    "en": "Aside from being endowed with the usual carrying capabilities of haulers, the Epithal possesses an extra cargo bay. That bay is equipped with sealed sub-chambers capable of maintaining hospitable environments for practically any kind of organism or entity, from biocells to viral agents, and is meant solely for ferrying planetary commodities. The Epithal was originally designed as a variant of the Iteron, but eventually evolved to perform an entirely separate role.",
+    "es": "Además de poseer la capacidad de carga habitual de las naves de mercancías, la Epithal posee una bodega adicional equipada con subcámaras selladas capaces de conservar entornos óptimos para prácticamente cualquier organismo o ente, desde biocélulas hasta agentes virales, y se dedica exclusivamente al transporte de mercancías planetarias. La Epithal se diseñó originalmente como variante de la Iteron, pero al final evolucionó y acabó desempeñando una función completamente distinta.",
+    "fr": "Outre les capacités de transport propres aux cargos, l'Epithal est doté d'une baie de chargement supplémentaire. Cette baie est équipée de sous-chambres scellées capables de maintenir des environnements hospitaliers pour pratiquement n'importe quel type d'organisme ou d'entité, depuis les biocellules jusqu'aux agents viraux et est conçue uniquement pour le transport de marchandises planétaires. L'Epithal fut construit à l'origine comme une variante de l'Iteron, mais a finalement évolué pour remplir un rôle entièrement différent.",
+    "ja": "エピタルは従来の積載容量の多さに加え、特殊なカーゴベイを搭載した輸送艦だ。このベイは複数の気密室に区切られており、バイオセルからウイルス媒体まで、ほぼあらゆる種類の有機物や生物に快適な環境を作り出すことができるため、惑星商品の運搬に特化している。エピタルは元々イタロンのバリエーションとして設計されたが、やがて進化して全く別の役割を持つに至った。",
+    "ko": "에피탈에는 기본적인 운반선의 기능 외에도 추가적인 화물실이 설치되어 있습니다. 화물실의 경우 다수의 밀폐된 공간으로 구성되어 각 공간마다 개별적인 설정이 가능합니다. 이러한 기능을 바탕으로 행성 생산품부터 시작해서 바이오셀이나 생체 바이러스와 같은 유기체 등을 운반할 수 있습니다. 본래 이테론급을 바탕으로 설계되었으나 완성 단계에 이르러서는 별개의 역할을 부여 받게 되었습니다.",
+    "ru": "Помимо стандартных возможностей перевозчиков, «Эпитал» также обладает дополнительным грузовым отсеком. Он оснащён герметичными камерами, в которых можно поддерживать благоприятную среду практически для любых организмов, от биоклеток до вирусов. Отсек предназначен исключительно для перевозки планетарных товаров. Изначально «Эпитал» разрабатывался на основе «Итерона», но в конечном итоге стал выполнять другую функцию.",
+    "zh": "除了具有运载舰的常规运载能力之外，埃比斯级还有一个额外的货柜舱。这个货舱由一个个封闭的小货舱组成，能够保持环境恒定，所以适合运输各种生物体，如生物细胞和病毒等，用来运载各种行星货物也是上上之选。埃比斯级本来是伊特龙级的一个衍生品，但后来不断进化成为了一个完全独立的个体。"
+  },
+  "factionID": 500004,
+  "graphicID": 326,
+  "groupID": 28,
+  "marketGroupID": 83,
+  "mass": 12800000.0,
+  "masteries": {
+    "0": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "1": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "2": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "3": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "4": [
+      96,
+      118,
+      117,
+      94
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Epithal",
     "en": "Epithal",
@@ -9,6 +58,65 @@
     "ko": "에피탈",
     "ru": "Epithal",
     "zh": "埃比斯级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 277.0,
+  "sofFactionName": "gallentebase",
+  "soundID": 20074,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonus": 90,
+        "bonusText": {
+          "de": "Reduktion der effektiv zurückgelegten Distanz für die Sprungerschöpfung",
+          "en": "reduction to effective distance traveled for jump fatigue",
+          "es": "de reducción de la distancia efectiva hasta sufrir fatiga de salto.",
+          "fr": "de réduction de la distance effectuée pour l'épuisement de saut",
+          "ja": "ジャンプによる疲弊が飛行距離に及ぼす影響を低減",
+          "ko": "이동 거리에 따른 점프 피로도 감소",
+          "ru": "медленнее накапливается усталость от гиперпереходов",
+          "zh": "减少跳跃距离对产生跳跃疲劳的影响"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3340": [
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf die Kapazität des Frachtraums für planetare Waren des Schiffs",
+            "en": "bonus to ship planetary commodity hold capacity",
+            "es": "de bonificación a la capacidad de la bodega de mercancía planetaria de la nave.",
+            "fr": "de bonus à la capacité de transport de marchandises planétaires du vaisseau",
+            "ja": "艦船の無機物容量が増加",
+            "ko": "행성 생산품 창고 적재량 증가",
+            "ru": "увеличивается вместимость отсека для продукции наземных баз",
+            "zh": "舰船行星货物舱容量加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die Maximalgeschwindigkeit des Schiffs",
+            "en": "bonus to ship max velocity",
+            "es": "de bonificación a la velocidad máxima de la nave.",
+            "fr": "de bonus à la vitesse maximale du vaisseau",
+            "ja": "艦船の最高速度が上昇",
+            "ko": "최대 속도 증가",
+            "ru": "увеличивается скорость полного хода корабля",
+            "zh": "舰船最大速度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 250000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 22235,
+  "capacity": 120.0,
+  "description": {
+    "de": "Dieser Drogensüchtige ist registriert unter dem Namen \"Red Hammer\". Er wird von verschiedenen Fraktionen gesucht.",
+    "en": "This drug-addict goes by the name of Red Hammer, he is wanted by various factions.",
+    "es": "Este adicto a los estupefacientes se conoce como «Martillo Rojo» y lo buscan varias facciones.",
+    "fr": "Ce toxicomane sévit sous le nom de Red Hammer, il est recherché par plusieurs factions.",
+    "ja": "レッドハンマーの名で知られる薬物中毒者で、様々な勢力に追われている。",
+    "ko": "이 마약 중독자의 별명은 레드 해머로 현재 여러 세력에 의해 쫓기고 있습니다.",
+    "ru": "Имя этого наркомана - Red Hammer, его много кто разыскивает.",
+    "zh": "这个名叫红色战锤的瘾君子现在被多个势力通缉。"
+  },
+  "graphicID": 335,
+  "groupID": 534,
+  "mass": 19000000.0,
   "name": {
     "de": "Red Hammer",
     "en": "Red Hammer",
@@ -10,5 +23,10 @@
     "ru": "Red Hammer",
     "zh": "红色战锤"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 500.0,
+  "sofFactionName": "angelbase",
   "volume": 19000000.0
 }

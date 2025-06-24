@@ -1,5 +1,18 @@
 {
-  "typeID": 30522,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Ihr Analysator nimmt etwas Interessantes zwischen den deformierten Wrackteilen wahr; allerdings haben Sie nicht die geringste Ahnung, um was es sich handelt.",
+    "en": "Your analyzer is picking up something of interest in this piece of twisted wreckage, though you can't for the life of you see what it is.",
+    "es": "Tu analizador detecta algo interesante entre estos retorcidos restos, aunque es imposible ver qué es.",
+    "fr": "Votre analyseur détecte quelque chose d'intéressant au milieu de cette carcasse, bien que vous n'ayez pas la moindre idée de ce dont il s'agit.",
+    "ja": "アナライザーはこのねじ曲がった残骸の破片から何かを探り出そうとしているが、この正体を知ることは決してできないだろう。",
+    "ko": "뒤틀린 잔해 속에서 묘한 반응이 감지되지만... 들여다볼 엄두는 나지 않습니다.",
+    "ru": "Ваш анализатор нашел что-то интересное в этих искореженных обломках, хотя вы даже представить не можете, что это может быть.",
+    "zh": "你的分析仪在这块麻花状的残骸中找到了一些有趣的东西，你迫不及待地想看看到底是什么。"
+  },
+  "graphicID": 3707,
+  "groupID": 1207,
+  "mass": 10000.0,
   "name": {
     "de": "Forgotten Sleeper Artifact",
     "en": "Forgotten Sleeper Artifact",
@@ -10,5 +23,9 @@
     "ru": "Forgotten Sleeper Artifact",
     "zh": "遗忘的冬眠者人工物件"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 314.0,
+  "sofFactionName": "debris",
   "volume": 27500.0
 }

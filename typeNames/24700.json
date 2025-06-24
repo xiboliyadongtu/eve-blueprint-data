@@ -1,5 +1,69 @@
 {
-  "typeID": 24700,
+  "basePrice": 40400000.0,
+  "capacity": 400.0,
+  "description": {
+    "de": "In der Befürchtung, dass die Teufelskerle unter ihren Piloten Schaden nehmen könnten, wenn sie sich ins Getümmel stürzen, entwickelte die Federation Navy ein Schiff, das eher Vorsicht als Draufgängertum unterstützt. Die Myrmidon, eine zähere Version ihres Kontrahenten, beweist im Kampf Durchhaltevermögen. Ihre zahlreichen Medium-Slots und High-Slots ermöglichen es, sich langsam einen Weg durch die Gegner zu bahnen, wobei der große Drohnenhangar dafür sorgt, dass keiner von ihnen ungeschoren davonkommt.",
+    "en": "Worried that their hot-shot pilots would burn brightly in their eagerness to engage the enemy, the Federation Navy created a ship that encourages caution over foolhardiness. A hardier version of its counterpart, the Myrmidon is a ship designed to persist in battle. Its numerous medium and high slots allow it to slowly bulldoze its way through the opposition, while its massive drone space ensures that no enemy is left unscathed.",
+    "es": "La Armada de la Federación, en su afán por evitar perder a los más osados de entre sus pilotos al enfrentarse al enemigo, creó una nave para instruir en la cautela y desaconsejar la temeridad. La Myrmidon, una versión más resistente que su contrapartida, está diseñada para aguantar el fragor de la batalla. Sus numerosas ranuras de potencias media y superior le permiten abrirse paso, lenta y segura, entre sus adversarios, asegurándose de que ninguno quede ileso, gracias a su gran espacio para drones.",
+    "fr": "Pour éviter que ses pilotes ne se montrent trop impétueux au combat, la Federation Navy a créé un vaisseau dont le pilotage invite à faire davantage preuve de prudence que de témérité. Plus robuste que son homologue, le Myrmidon est un vaisseau conçu pour être très résistant au combat. Il dispose d'un grand nombre d'emplacements hauts et intermédiaires qui lui permettent de percer les rangs adverses en semant la mort de tous côtés grâce à son gigantesque espace de drones.",
+    "ja": "優秀なパイロットが敵との交戦に逸る心を抑えきれずあたら炎と散ってしまうことを懸念した連邦海軍は、無謀よりも慎重さを推奨するような船を作り出した。同系艦にくらべ防御の硬さを重視したミュルミドンは、戦場で持ちこたえるために設計された艦船である。豊富なミディアムおよびハイスロットを活かして敵の抵抗をゆっくりと着実に押し返す一方、大容量のドローンベイがいかなる敵も無傷で逃亡することを許さない。",
+    "ko": "갈란테 연방 해군은 자국의 정예 파일럿들이 교전 중에 허무하게 격추당할 것을 우려하여 무모한 돌진 대신 '신중한 전진'이 가능한 신규 함선을 설계했습니다. 지속적인 전투 유지력을 보유한 미르미돈급은 동일 함급과 비교하여 상대적으로 방어력이 뛰어납니다. 다수의 미드 및 하이 슬롯을 바탕으로 불도저처럼 적 전선을 밀고 나가며, 대규모 드론 부대를 운용함으로써 적에게 지속적인 피해를 입힙니다.",
+    "ru": "Чтобы предотвратить бессмысленные жертвы среди пилотов-сорвиголов, жаждущих сразиться с противником, командование флота Федерации поручило конструкторским бюро разработать проект корабля, исподволь поощряющего осторожность в бою. По сравнению с «Брутиксом» новый линейный крейсер получился гораздо более крепким — главный акцент его создатели сделали на обеспечении высокой боевой живучести. Благодаря огромному количеству разъёмов высокой и средней мощности, равно как и вместительным отсекам для дронов, в бою «мирмидоны» неспешно и уверенно пробиваются сквозь вражеский строй, оставляя за собой лишь медленно остывающие остовы.",
+    "zh": "联邦海军的飞行员们总是过于富有激情，这让他们中的很多人都在蛮勇的冲锋中化为炙热的火球，研制这个系列舰船的目的正是希望有勇无谋的飞行员多一份谨慎。弥洱米顿级是其同门兄弟的强化版本，是能够在战场上持久杀敌的飞船。它的无数中高能量槽位使它能有条不紊地从敌人中开辟一条血路，而在它强大的无人机携带能力面前，任何敌人都无法毫发不伤。"
+  },
+  "factionID": 500004,
+  "graphicID": 3168,
+  "groupID": 419,
+  "marketGroupID": 472,
+  "mass": 12700000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      133,
+      140,
+      89,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      133,
+      140,
+      89,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      133,
+      140,
+      89,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      133,
+      140,
+      89,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      133,
+      140,
+      109,
+      117,
+      153,
+      152,
+      89,
+      154,
+      94
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Myrmidon",
     "en": "Myrmidon",
@@ -9,6 +73,94 @@
     "ko": "미르미돈",
     "ru": "Myrmidon",
     "zh": "弥洱米顿级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 266.0,
+  "sofFactionName": "gallentebase",
+  "soundID": 20072,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Kann ein <a href=showinfo:3348>Kommandostrahl</a>-Modul verwenden",
+          "en": "Can use one <a href=showinfo:3348>Command Burst</a> module",
+          "es": "Es posible equipar un módulo de <a href=showinfo:3348>estallido de mando</a>.",
+          "fr": "Peut utiliser une <a href=showinfo:3348>salve de commandement</a>.",
+          "ja": "<a href=showinfo:3348>コマンドバースト</a>モジュールは1個使用可能です",
+          "ko": "한 개의 <a href=showinfo:3348>커맨드 버스트</a> 모듈만 사용 가능",
+          "ru": "Корабли этого типа могут включать один <a href=showinfo:3348>импульсный оптимизатор</a>",
+          "zh": "可以装配一个<a href=showinfo:3348>指挥脉冲波</a>装备"
+        },
+        "importance": 1
+      },
+      {
+        "bonus": 12.5,
+        "bonusText": {
+          "de": "Bonus auf die Mikrowarpantriebgeschwindigkeit von <a href=showinfo:3436>Drohnen</a>",
+          "en": "bonus to <a href=showinfo:3436>Drone</a> microwarp velocity",
+          "es": "de bonificación a la velocidad de microwarp de los <a href=showinfo:3436>drones</a>.",
+          "fr": "de bonus à la vitesse de microwarp des <a href=showinfo:3436>drones</a>",
+          "ja": "<a href=showinfo:3436>ドローン</a>のマイクロワープ速度が上昇",
+          "ko": "<a href=showinfo:3436>드론</a> 마이크로 워프 속도 증가",
+          "ru": "повышается скорость полного хода <a href=showinfo:3436>дронов</a>",
+          "zh": "<a href=showinfo:3436>无人机</a>最大速度加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonus": 50,
+        "bonusText": {
+          "de": "Bonus auf die Reichweite des Wirkungsbereichs von <a href=showinfo:3348>Kommandostrahlen</a>",
+          "en": "bonus to <a href=showinfo:3348>Command Burst</a> area of effect range",
+          "es": "de bonificación al alcance del radio de acción del <a href=showinfo:3348>estallido de mando</a>.",
+          "fr": "de bonus à la portée de l'effet de zone des <a href=showinfo:3348>salves de commandement</a>.",
+          "ja": "<a href=showinfo:3348>コマンドバースト</a>効果範囲にボーナス",
+          "ko": "<a href=showinfo:3348>커맨드 버스트</a> 효과 반경 증가",
+          "ru": "увеличивается радиус импульсов, генерируемых <a href=showinfo:3348>импульсными оптимизаторами</a>",
+          "zh": "<a href=showinfo:3348>指挥脉冲波</a>效果范围加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "33097": [
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Leistung von <a href=showinfo:3393>Panzerungsreparatursystemen</a>",
+            "en": "bonus to <a href=showinfo:3393>Armor Repairer</a> amount",
+            "es": "de bonificación a la eficiencia de los <a href=showinfo:3393>reparadores de blindaje</a>.",
+            "fr": "de bonus au montant des <a href=showinfo:3393>réparateurs de blindage</a>",
+            "ja": "<a href=showinfo:3393>アーマーリペアラ</a>のリペア量が増加",
+            "ko": "<a href=showinfo:3393>장갑수리 장치</a> 수리량 증가",
+            "ru": "повышается производительность <a href=showinfo:3393>установок ремонта брони</a>",
+            "zh": "<a href=\"showinfo:3393\">装甲维修器</a>维修量加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf die HP und den Schaden von <a href=showinfo:3436>Drohnen</a>",
+            "en": "bonus to <a href=showinfo:3436>Drone</a> hitpoints and damage",
+            "es": "de bonificación a los puntos de vida y el daño de los <a href=showinfo:3436>drones</a>.",
+            "fr": "de bonus aux dégâts et aux PV des <a href=showinfo:3436>drones</a>",
+            "ja": "<a href=showinfo:3436>ドローン</a>のヒットポイントとダメージが増加",
+            "ko": "<a href=showinfo:3436>드론</a> 내구도 및 피해량 증가",
+            "ru": "увеличивается урон бортового оружия <a href=showinfo:3436>дронов</a>; увеличивается запас их прочности",
+            "zh": "<a href=\"showinfo:3436\">无人机</a>伤害和HP加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 270000.0
 }

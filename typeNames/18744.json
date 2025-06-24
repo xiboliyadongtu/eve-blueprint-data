@@ -1,5 +1,19 @@
 {
-  "typeID": 18744,
+  "description": {
+    "de": "Diese Beschichtung setzt sich aus einer Reihe mikroskopisch kleiner, reaktiver Bomben zusammen, die explodieren, um Explosionsschaden abzuwehren. Gewährt einen Bonus auf die Panzerungsresistenz gegen Explosionsschaden. Abzug: Beim Einsatz mehrerer Module des gleichen oder eines ähnlichen Typs, welche dasselbe Attribut beeinflussen, wird deren Wirksamkeit für dieses Attribut eingeschränkt.",
+    "en": "This coating is composed of an array of microscopic reactive bombs that are exploded to counter explosive damage. Grants a bonus to armor explosive damage resistance.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",
+    "es": "Este recubrimiento está compuesto por una matriz de bombas reactivas microscópicas que explotan para contrarrestar el daño explosivo. Otorga una bonificación a la resistencia del blindaje a daños explosivos.\n\nPenalización: Por usar más de un tipo de módulo o módulos similares que afecten al mismo atributo de la nave.",
+    "fr": "Cette surcouche est composée d'une matrice de bombes microscopiques réactives, détonées pour contrer les dégâts de type explosif. Offre un bonus à la résistance du blindage aux dégâts explosifs. Pénalité : utiliser plus d'un module de ce type ou plusieurs modules modifiant un même attribut du vaisseau fera l'objet d'une pénalité.",
+    "ja": "エクスプローシブダメージを軽減する超小型反応爆薬が配列されたコーティング。アーマーのエクスプローシブダメージのレジスタンス値にボーナスを付与する。\r\n\nペナルティ： 艦の同じ属性に関係する同タイプ、もしくは類似のモジュールを複数取り付けると、モジュールの効果が低下する。",
+    "ko": "다수의 초소형 고반응도 폭탄으로 폭발 피해를 상쇄합니다. 장갑 폭발 저항력이 증가합니다. <br><br>페널티: 동일한 속성의 모듈 여러 개를 장착할 경우 페널티가 부여됩니다.",
+    "ru": "По сути это покрытие представляет собой множество микроскопических реактивных бомб, которые разрываются, противодействуя взрывному урону. Даёт бонус к сопротивляемости брони взрывному урону. Внимание! Установка на борт корабля двух и более модулей, влияющих на одну и ту же характеристику, приведёт к снижению эффективности их действия в отношении данной характеристики.",
+    "zh": "这种涂层使用了精微反应式炸弹阵列，以爆破来抵抗爆炸损伤。提高装甲的爆炸抗性。\n\n\n\n惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。"
+  },
+  "groupID": 98,
+  "iconID": 20955,
+  "marketGroupID": 1667,
+  "mass": 1.0,
+  "metaGroupID": 6,
   "name": {
     "de": "Corpii B-Type Explosive Coating",
     "en": "Corpii B-Type Explosive Coating",
@@ -10,5 +24,9 @@
     "ru": "Corpii B-Type Explosive Coating",
     "zh": "科必伊爆炸涂层 B型"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 10.0,
+  "variationParentTypeID": 1264,
   "volume": 5.0
 }

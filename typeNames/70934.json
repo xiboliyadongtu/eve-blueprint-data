@@ -1,5 +1,17 @@
 {
-  "typeID": 70934,
+  "description": {
+    "de": "Dieser standardisierte Datenspeicher ist stark beschädigt, aber einige Datenfragmente sind noch zugänglich. Die Daten sind unvollständig und teilweise beschädigt, aber mit dem <b>rechten</b> Ansatz sollte es möglich sein, den Datenstrom zu dekodieren und ein kohärentes Bild aus den intakten Daten zusammenzusetzen. Es kann nicht schaden, es zu versuchen und zu schauen, ob es <b>Klick</b> macht.",
+    "en": "This standardized data storage device is heavily corrupted but some fragmentary data remains accessible.\r\n\r\nAlthough partial and somewhat corrupted, with the <b>right</b> approach it should be possible to decode the data stream and assemble something coherent from the intact data. It wouldn't hurt to give it a try and see if something <b>clicks</b>.",
+    "es": "Este dispositivo de almacenamiento de datos estándar está muy dañado, pero algunos datos parciales siguen siendo accesibles.\r\n\r\nAunque está fragmentada y parcialmente corrupta, con el enfoque <b>adecuado</b> debería de ser posible descifrar la transmisión y sacar algo en claro de los datos intactos. No estaría de más intentarlo y ver si <b>funciona</b>.",
+    "fr": "Ce dispositif de stockage de données standardisé est fortement corrompu, mais certaines données fragmentaires restent accessibles. Même s'il n'est que partiel et en partie corrompu, avec la <b>bonne</b> approche, il devrait être possible de décoder le flux de données pour produire un assemblage cohérent à partir des données intactes. Ça ne coûte rien d'essayer et de voir si cela donne <b>quelque chose d'intéressant</b>.",
+    "ja": "この標準的なデータストレージデバイスは激しく破損しているが、それでもデータの断片にはアクセス可能だ。\r\n\r\nデータの一部はやや破損しているが、<b>正しい</b>方法で対処すれば、残存データを解読してデータストリームを復号化して読み取り可能なデータとして再構築できるかもしれない。何か<b>役に立つ</b>ものが見つかるか試してみて損はないだろう。",
+    "ko": "표준화된 데이터 저장장치입니다. 심각하게 손상됐지만 일부 데이터는 남아 있습니다.<br><br>불완전하고 일부 손상되어 있지만 <b>적절한</b> 방법만 동원한다면 남은 정보를 해석하여 데이터 스트림에 접근할 수 있을지도 모릅니다. 손해 볼 건 없으니 해석을 시도해보는 것이 좋겠습니다.",
+    "ru": "Это стандартизированное хранилище данных серьёзно повреждено, но из него всё ещё можно извлечь информацию. Несмотря на утраты и повреждения, после расшифровки вам удастся получить из них некоторую полезную информацию. Попробуйте использовать для этого <b>правую кнопку мыши</b>.",
+    "zh": "这个标准化数据存储设备已严重损坏，但仍残留了一些可用的数据片段。尽管数据不完整而且已部分损坏，但使用<b>合适</b>的方式可以解码数据流并拼凑出一些完整的数据。值得一试，也许会有什么<b>发现</b>呢。"
+  },
+  "groupID": 314,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Corrupted Data Fragment",
     "en": "Corrupted Data Fragment",
@@ -10,5 +22,7 @@
     "ru": "Corrupted Data Fragment",
     "zh": "损坏的数据片段"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.1
 }

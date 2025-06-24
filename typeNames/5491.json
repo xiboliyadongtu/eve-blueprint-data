@@ -1,5 +1,17 @@
 {
-  "typeID": 5491,
+  "description": {
+    "de": "Vergrößert die Kapazität des Frachtraums.",
+    "en": "Increases cargo hold capacity.",
+    "es": "Aumenta la capacidad de la bodega.",
+    "fr": "Augmente la capacité de la soute de chargement.",
+    "ja": "カーゴホールド容量が増加する。",
+    "ko": "화물 적재량이 증가합니다.",
+    "ru": "Увеличивает вместимость грузового трюма.",
+    "zh": "增加货柜舱容量。"
+  },
+  "groupID": 765,
+  "iconID": 92,
+  "mass": 50.0,
   "name": {
     "de": "Beta Hull Mod Expanded Cargo",
     "en": "Beta Hull Mod Expanded Cargo",
@@ -10,5 +22,9 @@
     "ru": "Beta Hull Mod Expanded Cargo",
     "zh": "贝它型结构增强模块扩充货柜"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 10.0,
   "volume": 5.0
 }

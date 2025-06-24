@@ -1,5 +1,17 @@
 {
-  "typeID": 35677,
+  "description": {
+    "de": "33,3% Bonus auf die Maximalgeschwindigkeit\n66,6% Bonus auf den Trägheitsmodifikator des Schiffs",
+    "en": "33.3% bonus to maximum velocity\r\n66.6% bonus to ship inertia modifier",
+    "es": "33,3 % de bonificación a la velocidad máxima.\n\n66,6 % de bonificación al modificador de inercia de la nave.",
+    "fr": "Bonus de vitesse maximale : +33,3 %\nBonus de modificateur d'inertie : -66,6  %",
+    "ja": "最高速度が33.3%増加。\r\n艦船の慣性修正乗数が66.6%増加",
+    "ko": "최대 속도 33.3% 증가<br>관성 계수에 66.6% 보너스 부여",
+    "ru": "на 33,3% повышается скорость полного хода корабля\nна 66,6% уменьшается инертность конструкции корабля",
+    "zh": "舰船最大速度提高33.3%\n舰船惯性调整系数提高66.6%"
+  },
+  "groupID": 1306,
+  "iconID": 1042,
+  "mass": 100.0,
   "name": {
     "de": "Jackdaw-Antriebsmodus",
     "en": "Jackdaw Propulsion Mode",
@@ -10,5 +22,9 @@
     "ru": "Jackdaw Propulsion Mode",
     "zh": "寒鸦级高速模式"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 50.0,
   "volume": 5.0
 }

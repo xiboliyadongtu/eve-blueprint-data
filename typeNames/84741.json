@@ -1,5 +1,19 @@
 {
-  "typeID": 84741,
+  "description": {
+    "de": "Zieht Energie aus dem Zielschiff und fügt sie Ihrem eigenen Energiespeicher hinzu. Dieses enorme Modul wurde für Kreuzer konzipiert. Hinweis: Ein Nosferatu-Modul leert den Energiespeicher des Zielschiffs nicht über den eigenen Energiespeicher hinaus.",
+    "en": "Drains energy from the target ship and adds it to your own. This is a more powerful version designed for cruiser class ships.\r\n\r\nNote: A Nosferatu module will not drain your target's capacitor below your own capacitor level.",
+    "es": "Drena la energía de la nave objetivo y la añade a la tuya. Esta es una versión más poderosa, diseñada para naves de clase crucero.\r\n\r\nNota: El módulo Nosferatu no drenará el condensador del objetivo por debajo del nivel del tuyo propio.",
+    "fr": "Draine l'énergie du vaisseau cible et l'ajoute à la vôtre. Il s'agit d'une version plus puissante conçue pour les vaisseaux de classe croiseur. Note : un module Nosferatu ne drainera pas le capaciteur de votre cible en dessous de votre propre niveau de capaciteur.",
+    "ja": "ターゲットした船からキャパシタを吸収して自船のものとする。これは巡洋艦クラス用に設計された強化型モジュールである。\r\n\r\n注：ノスフェラトゥモジュールは、ターゲットのキャパシタ残量が自艦のキャパシタ残量を下回る場合、キャパシタ吸収を行わない。",
+    "ko": "대상 함선의 캐패시터 에너지를 흡수해 자신의 캐패시터를 충전합니다. 기존 모듈을 크루저 함선에 맞춰 강력하게 개조했습니다.<br><br>주의: 노스페라투 모듈은 대상 함선의 캐패시터가 자신의 함선보다 적으면 캐패시터를 흡수하지 않습니다.",
+    "ru": "Такое устройство откачивает энергию из выбранного корабля и передаёт её на ваш. Эта модель мощнее стандартной и предназначена для судов класса крейсер. Примечание: модуль паразитной подзарядки не может опустошить запас накопителя цели ниже уровня вашего собственного накопителя.",
+    "zh": "吸取对方舰船的能量为自己所用。这种威力加强版本是为巡洋舰级舰船打造。注：所有能量吸噬装备都不会将目标的电容器电量值抽取到比你当前电量值更低的水平。"
+  },
+  "groupID": 68,
+  "iconID": 1029,
+  "marketGroupID": 693,
+  "mass": 1000.0,
+  "metaGroupID": 5,
   "name": {
     "de": "Megaera's Modified Medium Energy Nosferatu",
     "en": "Megaera's Modified Medium Energy Nosferatu",
@@ -10,5 +24,8 @@
     "ru": "Megaera's Modified Medium Energy Nosferatu",
     "zh": "墨盖拉改良中型掠能器"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 12257,
   "volume": 5.0
 }

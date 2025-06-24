@@ -1,5 +1,19 @@
 {
-  "typeID": 42,
+  "basePrice": 1500.0,
+  "description": {
+    "de": "Luxusgüter waren immer schon ein beständiger Artikel des interstellaren Handels. Gewürzwein ist nicht das seltenste Luxusgut und kann immer noch auf kleinen Außenposten und Basen verkauft werden, die ihn nicht selbst produzieren.",
+    "en": "Luxury goods are always solid commodities for inter-stellar trading. Spiced wine is not the rarest of luxury goods, but it can still be sold at small outposts and bases that don't manufacture any themselves.",
+    "es": "Los artículos de lujo siempre son buenos productos para el comercio interestelar. El vino especiado no es el artículo de lujo más raro, pero se puede vender en pequeños puestos avanzados y bases donde no se fabrique.",
+    "fr": "Les articles de luxe sont toujours des biens précieux pour le commerce interstellaire. Le vin épicé n'est pas le produit de luxe le plus rare, mais il est recherché et facilement vendable sur les petits avant-postes et les bases qui ne le fabriquent pas.",
+    "ja": "贅沢品は、惑星間トレードで安定した利益が見込める商品である。香辛料で風味付けしたワインは、贅沢品としてはさほど希少価値が高くないが、生産施設をもたない小規模なアウトポストや基地では今でも販売されている。",
+    "ko": "사치품은 성간 무역에서 큰 비중을 차지하는 품목으로 스파이스 와인의 경우 양조장이 없는 소규모 전초기지에서 인기가 높습니다.",
+    "ru": "Предметы роскоши всегда являются выгодным капиталовложением на межзвёздном рынке. Пряное вино — не самый редкий из предметов роскоши, но его выгодно продавать на небольших заставах и базах, которые не имеют собственных мощностей для его производства.",
+    "zh": "奢侈品总是星际贸易的抢手商品。香料酒不是最稀有的奢侈品，但是它却仍然可以在本身并不生产它的小型哨站和基地里出售。"
+  },
+  "groupID": 280,
+  "iconID": 27,
+  "marketGroupID": 492,
+  "mass": 500.0,
   "name": {
     "de": "Spiced Wine",
     "en": "Spiced Wine",
@@ -10,5 +24,7 @@
     "ru": "Spiced Wine",
     "zh": "五香酒"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.5
 }

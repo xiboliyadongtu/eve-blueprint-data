@@ -1,5 +1,7 @@
 {
-  "typeID": 74002,
+  "graphicID": 1217,
+  "groupID": 920,
+  "mass": 1.0,
   "name": {
     "de": "Turnur Aftermath",
     "en": "Turnur Aftermath",
@@ -9,6 +11,93 @@
     "ko": "투르누르 폐허",
     "ru": "Turnur Aftermath",
     "zh": "图尔鲁尔余波"
+  },
+  "portionSize": 250,
+  "published": true,
+  "sofFactionName": "genericbase",
+  "traits": {
+    "iconID": 24304,
+    "miscBonuses": [
+      {
+        "bonusText": {
+          "de": "Zusätzliche Wurmlochverbindungen erscheinen in diesem System",
+          "en": "Additional wormhole connections appear within this system",
+          "es": "Aparecen conexiones adicionales de agujeros de gusano en este sistema",
+          "fr": "Additional wormhole connections appear within this system",
+          "ja": "本システム内に追加のワームホールが出現します",
+          "ko": "성계에서 새로운 웜홀 연결이 발견되었습니다",
+          "ru": "В этой системе образуются новые червоточины",
+          "zh": "这个星系中出现了额外的虫洞连接"
+        },
+        "importance": 5
+      },
+      {
+        "bonus": 20.0,
+        "bonusText": {
+          "de": "Abzug auf die Scanauflösung",
+          "en": "penalty to scan resolution",
+          "es": "de penalización a la resolución de escaneo.",
+          "fr": "penalty to scan resolution",
+          "ja": "スキャン分解能にペナルティ",
+          "ko": "스캔 정밀도 감소",
+          "ru": "штраф к разрешающей способности сенсоров",
+          "zh": "扫描分辨率惩罚"
+        },
+        "importance": 1,
+        "isPositive": false,
+        "unitID": 105
+      },
+      {
+        "bonus": 20.0,
+        "bonusText": {
+          "de": "Abzug auf die Zielerfassungsreichweite",
+          "en": "penalty to targeting range",
+          "es": "de penalización a la distancia-objetivo.",
+          "fr": "penalty to targeting range",
+          "ja": "ターゲット範囲にペナルティ",
+          "ko": "타겟팅 거리 감소",
+          "ru": "штраф к дальности наведения",
+          "zh": "锁定范围惩罚"
+        },
+        "importance": 2,
+        "isPositive": false,
+        "unitID": 105
+      },
+      {
+        "bonus": 20.0,
+        "bonusText": {
+          "de": "Abzug auf die Sensorstärke",
+          "en": "penalty to sensor strength",
+          "es": "de penalización a la intensidad de los sensores",
+          "fr": "penalty to sensor strength",
+          "ja": "センサー強度にペナルティ",
+          "ko": "센서 강도 감소",
+          "ru": "штраф к мощности сенсоров",
+          "zh": "感应强度惩罚"
+        },
+        "importance": 3,
+        "isPositive": false,
+        "unitID": 105
+      },
+      {
+        "bonus": 20.0,
+        "bonusText": {
+          "de": "Bonus auf die Warpgeschwindigkeit",
+          "en": "bonus to warp speed",
+          "es": "de bonificación a la velocidad de warp.",
+          "fr": "bonus to warp speed",
+          "ja": "ワープ速度が上昇",
+          "ko": "워프 속도 증가",
+          "ru": "бонус к скорости хода в варп-режиме",
+          "zh": "跃迁速度加成"
+        },
+        "importance": 4,
+        "isPositive": true,
+        "unitID": 105
+      }
+    ],
+    "roleBonuses": [],
+    "types": {}
   },
   "volume": 20.0
 }

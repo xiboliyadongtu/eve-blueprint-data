@@ -1,5 +1,17 @@
 {
-  "typeID": 57568,
+  "description": {
+    "de": "Dieser codierte Sicherheitsschlüssel aktiviert das Beschleunigungstor, das zum AEGIS-Sicherheitstresor innerhalb der Capital-Schiff-Sicherheitsanlage führt. Der Transponder dieses Sicherheitsschlüssels ist mit einem eindeutigen Code versehen, der den Zugang zum betreffenden Beschleunigungstor ermöglicht.",
+    "en": "This coded security key will activate the acceleration gate leading to the AEGIS Security Vault within the Capital Ship Security Facility.\r\n\r\nThis security key's transponder is set with the unique code that acts as a key to the specified acceleration gate.",
+    "es": "Esta llave de seguridad codificada activará el portal de aceleración que lleva a la cámara de seguridad de AEGIS, dentro del centro de seguridad de la nave capital.\n\n\n\nEl transpondedor de esta llave de seguridad tiene un código único que abre y cierra el portal de aceleración indicado.",
+    "fr": "Cette clé de sécurité codée activera le portail d’accélération menant au coffre-fort de sécurité d’AEGIS au sein de l’installation de sécurité des vaisseaux capitaux. Le transpondeur de cette clé de sécurité est réglé sur un code unique autorisant l’accès au portail d’accélération correspondant.",
+    "ja": "コード化されたセキュリティキーで、主力艦警備施設内にあるイージスの金庫室に通じるアクセラレーションゲートを起動することができる。\n\n\n\nセキュリティキーのトランスポンダーは固有のコードとセットになっている。このコードは、特定のアクセラレーションゲートで使用するキーとして機能する。",
+    "ko": "해당 출입키를 통해 캐피탈 함선 보안시설로 향하는 액셀레이션 게이트를 활성화할 수 있습니다.<br><br>응답기에 내장된 전용 코드를 사용할 경우 액셀레이션 게이트를 가동시킬 수 있습니다.",
+    "ru": "Этот зашифрованный ключ безопасности активирует разгонные ворота, ведущие в хранилище сил безопасности «ЭГИДА» внутри центра безопасности КБТ. Ретранслятор этого ключа передаёт уникальный код, открывающий доступ к определённым разгонным воротам.",
+    "zh": "这个加密安全密钥能激活通向旗舰安全设施中的统合部紧急干预和安全局安保部保险库的加速轨道。\n\n\n\n这个密钥的收发器使用了独特的编码，只能对特定的加速轨道使用。"
+  },
+  "groupID": 474,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "AEGIS Coded Security Key CSSF-ENS",
     "en": "AEGIS Coded Security Key CSSF-ENS",
@@ -10,5 +22,7 @@
     "ru": "AEGIS Coded Security Key CSSF-ENS",
     "zh": "统合部紧急干预和安全局加密安全密钥CSSF-ENS"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

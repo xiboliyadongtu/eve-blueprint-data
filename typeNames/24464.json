@@ -1,5 +1,18 @@
 {
-  "typeID": 24464,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Das ist ein uralter Datenkristall. Nur diejenigen, die sich auf das Dechiffrieren alter Informationsspeicher verstehen, können vielleicht seine Geheimnisse enträtseln.",
+    "en": "This is an old data crystal. Only those proficient in decyphering ancient information centrals stand a chance of unraveling its mysteries.",
+    "es": "Este es un antiguo cristal de datos. Solo los expertos en descifrar centros de información antiguos tienen la posibilidad de desentrañar sus misterios.",
+    "fr": "Ancien cristal de données. Seuls les experts en décryptage des anciennes centrales d'informations ont une chance de percer ses mystères.",
+    "ja": "旧型データクリスタル。古代情報の解読に精通していなければ、神秘のベールをはがせる可能性はゼロに等しい。",
+    "ko": "오래된 데이터의 결정체입니다. 고대 정보 해독에 능한 자만이 감추어진 비밀을 풀 수 있습니다.",
+    "ru": "Это древний кристалл данных. Разгадать его тайну могут только опытные специалисты по расшифровке древних знаний.",
+    "zh": "这是一个古老的数据晶体。只有那些精通解译古代信息中枢系统的人才有机会揭开它的秘密。"
+  },
+  "graphicID": 1684,
+  "groupID": 1207,
+  "mass": 10000.0,
   "name": {
     "de": "Trial of Skill",
     "en": "Trial of Skill",
@@ -10,5 +23,9 @@
     "ru": "Trial of Skill",
     "zh": "技能测试"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 320.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

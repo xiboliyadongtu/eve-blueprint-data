@@ -1,5 +1,17 @@
 {
-  "typeID": 63104,
+  "description": {
+    "de": "Eine Kreuzung",
+    "en": "A Junction",
+    "es": "Un cruce.",
+    "fr": "Une jonction",
+    "ja": "ジャンクション",
+    "ko": "교차지",
+    "ru": "Перекрёсток",
+    "zh": "节点"
+  },
+  "graphicID": 2472,
+  "groupID": 1975,
+  "mass": 1000.0,
   "name": {
     "de": "Fortified Guristas Junction",
     "en": "Fortified Guristas Junction",
@@ -10,5 +22,8 @@
     "ru": "Fortified Guristas Junction",
     "zh": "强化的古斯塔斯节点"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 330.0,
+  "sofFactionName": "guristas"
 }

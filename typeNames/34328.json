@@ -1,5 +1,48 @@
 {
-  "typeID": 34328,
+  "basePrice": 1746000000.0,
+  "capacity": 4000.0,
+  "description": {
+    "de": "Als Teil ihres fortlaufenden Programms zur Entwicklung neuer Produkte für den Kapselpilotenmarkt hat ORE den Bowhead-Frachter als spezialisierten Schiffstransporter entwickelt. Die Erfahrung in der Schiffshandhabung, die in der Orca und Rorqual stecken, hat es Outer Ring Development ermöglicht, ein Schiff zu bauen, das für den Transport von mehreren zusammengebauten Schiffsrümpfen vorgesehen ist.\n\nOuter Ring Excavations verkauft die Bowhead mit offensiven Marketingstrategien in autorisierten ORE-Verkaufsstellen als flexible Transportplattform zur Organisation der Flottenlogistik in ganz New Eden.",
+    "en": "As part of its ongoing program of developing new products for the capsuleer market, ORE has created the Bowhead freighter as a specialized ship transporter. Experience with the ship-handling technology used in the Orca and Rorqual vessels enabled the Outer Ring Development division to build a ship dedicated to moving multiple assembled hulls at once.\r\n\r\nOuter Ring Excavations are aggressively marketing the Bowhead as a flexible transport platform for organizing fleet logistics across New Eden, available from authorized ORE outlets.",
+    "es": "Como parte de su programa actual de desarrollar productos nuevos para el mercado de capsulistas, ORE ha creado el carguero Bowhead como un transportador de naves especializado. La experiencia con la tecnología de gestión de naves usada en las naves Orca y Rorqual ha habilitado la división de Outer Ring Development para construir una nave dedicada a mover varios cascos ensamblados a la vez.\n\n\n\nOuter Ring Excavations publicita agresivamente la Bowhead como una plataforma de transporte flexible para organizar la logística de la flota por todo Nuevo Edén, disponible en outlets ORE autorizados.",
+    "fr": "En tant que partie du programme en cours de développement de nouveaux produits pour le marché des capsuliers, ORE a créé le transport de fret Bowhead, un transporteur de vaisseau spécialisé. L'expérience de la technologie de maintenance du vaisseau utilisée pour les vaisseaux Orca et Rorqual a permis à la division Outer Ring Development de construire un vaisseau dédié au déplacement de plusieurs coques assemblées à la fois.\n\nOuter Ring Excavations fait une promotion agressive du Bowhead : il s'agit d'une plateforme de transport flexible qui permet d'organiser la logistique des flottes dans New Eden. Il est disponible depuis des détaillants ORE autorisés.",
+    "ja": "進行中であるカプセラ市場を標的とした新製品の開発プログラムの一環として、OREは艦船搬送に特化したバウヘッド超大型輸送艦を製造した。オルカとロークアルの艦船で使用されている操船技術の経験を利用し、アウターリング開発部門は一度に多数の組立式船体を搬送する艦船を製造することができた。\n\nアウターリング発掘は、ニューエデン中にあるフリート支援型巡洋艦を編成するためのフレキシブルな輸送基盤として、バウヘッドを積極的に売り込んでいる。ORE正規直販店で入手することができる。",
+    "ko": "보우헤드는 ORE가 캡슐리어 시장에 내기 위해 개발한 신제품 중 하나로 함선수송에 특화된 프레이터입니다. 보우헤드 개발 성공에 가장 큰 요인은 아우터링 개발대가 한 번에 다수의 선체를 옮길 수 있는 기술을 과거 오르카 및 로퀄 개발 과정으로부터 터득한 노하우 덕분입니다. <br><br>현재 아우터링 채굴조합은 보우헤드의 마케팅을 적극적으로 진행 중이며 모든 공식 ORE 아울렛에서 판매되고 있습니다.",
+    "ru": "Окраинная Рудная Экспедиция разработала специализированный перевозчик кораблей, фрейтер типа «Боухэд», в рамках действующей программы по созданию новых кораблей для обращения среди капсулёров. Опыт, полученный при создании док-камер «Орки» и «Рорквала», позволил подразделению «Окраинные Рудные Исследования» успешно разработать корабль, предназначенный для одновременной перевозки нескольких распакованных кораблей.\n\nОкраинная Рудная Экспедиция активно позиционирует «Боухэд» как корабль, занимающий нишу многофункциональной транспортной платформы для осуществления логистических операций в пределах Нового Эдема, доступный посредством авторизованных поставщиков корпорации.",
+    "zh": "作为外空联合矿业面向克隆飞行员群体的新产品，弓头鲸级货舰是一艘专精于运送舰船的运输舰。得益于运用在逆戟鲸级和长须鲸级上的舰船处理技术，外空联合开发打造了这样一艘船，致力于实现大批已组装舰船的快速运输。\n\n外空联合矿业针对弓头鲸级的市场策略是把它打造成一个灵活性强的运输平台，为宇宙各地的舰队后勤运输提供方便。"
+  },
+  "factionID": 500014,
+  "graphicID": 20977,
+  "groupID": 513,
+  "marketGroupID": 1950,
+  "mass": 400000000.0,
+  "masteries": {
+    "0": [
+      117,
+      118,
+      151
+    ],
+    "1": [
+      117,
+      118,
+      151
+    ],
+    "2": [
+      117,
+      118,
+      151
+    ],
+    "3": [
+      117,
+      118,
+      151
+    ],
+    "4": [
+      117,
+      118,
+      151
+    ]
+  },
   "name": {
     "de": "Bowhead",
     "en": "Bowhead",
@@ -9,6 +52,66 @@
     "ko": "보우헤드",
     "ru": "Bowhead",
     "zh": "弓头鲸级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 128,
+  "radius": 600.0,
+  "sofFactionName": "orebase",
+  "soundID": 20073,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 90,
+        "bonusText": {
+          "de": "Reduktion der effektiv zurückgelegten Distanz für die Sprungerschöpfung",
+          "en": "reduction to effective distance traveled for jump fatigue",
+          "es": "de reducción de la distancia efectiva hasta sufrir fatiga de salto.",
+          "fr": "de réduction de la distance effectuée pour l'épuisement de saut",
+          "ja": "ジャンプによる疲弊が飛行距離に及ぼす影響を低減",
+          "ko": "이동 거리에 따른 점프 피로도 감소",
+          "ru": "медленнее накапливается усталость от гиперпереходов",
+          "zh": "减少跳跃距离对产生跳跃疲劳的影响"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "34327": [
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf den Trägheitsmodifikator des Schiffs",
+            "en": "bonus to ship inertia modifier",
+            "es": "de bonificación al modificador de inercia de la nave.",
+            "fr": "de bonus au modificateur d'inertie du vaisseau",
+            "ja": "艦船の慣性修正乗数が増加",
+            "ko": "관성 계수 증가",
+            "ru": "уменьшается инертность конструкции корабля",
+            "zh": "舰船惯性调整系数加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die Kapazität des Schiffwartungshangars",
+            "en": "bonus to ship maintenance bay capacity",
+            "es": "de bonificación a la capacidad de la plataforma de mantenimiento de naves.",
+            "fr": "de bonus à la capacité de la plateforme de maintenance des vaisseaux",
+            "ja": "船舶調整施設の容量が増加",
+            "ko": "함선 정비 격납고 적재량 증가",
+            "ru": "увеличивается объём док-камеры",
+            "zh": "舰船维护舱容量加成"
+          },
+          "importance": 3,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 17550000.0
 }

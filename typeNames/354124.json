@@ -1,5 +1,17 @@
 {
-  "typeID": 354124,
+  "basePrice": 97160.0,
+  "description": {
+    "de": "Dieses Modul lädt im aktivierten Zustand die Schilde des Zielfahrzeugs wieder auf.",
+    "en": "Once activated this module recharges the targeted vehicle’s shields.",
+    "es": "Una vez activado, este módulo recarga los escudos de la embarcación seleccionada.",
+    "fr": "Une fois activé, ce module recharge les boucliers du véhicule ciblé.",
+    "it": "Una volta attivato, questo modulo ricarica gli scudi del veicolo verso cui viene puntato.",
+    "ja": "一度起動すると、このモジュールはターゲットした車両のシールドをリチャージする。",
+    "ko": "모듈 활성화 시 대상 차량의 실드가 회복됩니다.",
+    "ru": "В активном состоянии данный модуль осуществляет подзарядку щитов целевого транспортного средства.",
+    "zh": "启用后，该装备会为目标载具回充护盾能量。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Schwerer C5-R Schildtransporter",
     "en": "Heavy C5-R Shield Transporter",
@@ -11,5 +23,7 @@
     "ru": "Тяжелый модуль дистанционной накачки щита C5-R",
     "zh": "C5-R重型护盾转移装置"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 44067,
+  "basePrice": 250000000.0,
+  "description": {
+    "de": "Skill zur Bedienung des Pulsaktivierten Nexus-Unverwundbarkeitskernmoduls der Rorqual. Erhöht die Effektdauer und Zykluszeit des Pulsaktivierten Nexus-Unverwundbarkeitskerns um 10 % pro Stufe.",
+    "en": "Skill at operating the Rorqual's Pulse Activated Nexus Invulnerability Core module. 10% increase per level to the effect duration and cycle time of the Pulse Activated Nexus Invulnerability Core.",
+    "es": "Habilidad en el manejo de módulos de núcleo de invulnerabilidad Nexus activados por pulsos de la Rorqual. +10 % de aumento por nivel a la duración del efecto y al tiempo de ciclo del núcleo de invulnerabilidad Nexus activado por pulsos.",
+    "fr": "Compétence liée à l'opération du nexus d'invulnérabilité à impulsions du Rorqual. Augmente de 10 % par niveau la durée de cycle et la durée de l'effet du nexus d'invulnérabilité à impulsions.",
+    "ja": "パルス発動型ネクサス非脆弱化コアを操作するスキル。レベル上昇ごとにパルス発動型ネクサス非脆弱化コアの効果持続時間とサイクルタイムが10%向上。",
+    "ko": "로퀄의 패닉 넥서스 코어 모듈을 가동하는 스킬입니다. 매 레벨마다 패닉 넥서스 코어의 효과 지속시간 및 사이클 시간 10% 증가",
+    "ru": "Умение использовать модули ПАНИКА (пульс-активируемой неуязвимости, индуцирующей компаньонов по аккумуляции). За каждую степень освоения навыка: на 10% увеличивается рабочий цикл и длительность эффекта модуля ПАНИКА.",
+    "zh": "操作长须鲸级的脉冲激活式关联全能核心装备的技能。每升一级，脉冲激活式关联全能核心的效果持续时间和循环时间增加10%"
+  },
+  "groupID": 1209,
+  "iconID": 33,
+  "marketGroupID": 1747,
   "name": {
     "de": "Invulnerability Core Operation",
     "en": "Invulnerability Core Operation",
@@ -10,5 +23,7 @@
     "ru": "Модули пульс-активируемой неуязвимости",
     "zh": "全能核心操作理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

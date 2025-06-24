@@ -1,5 +1,19 @@
 {
-  "typeID": 23904,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Dieser Lagercontainer ist Eigentum von The Scope. Verfahren Sie mit ihm auf eigenes Risiko.",
+    "en": "This storage container is property of The Scope.  Tamper with it at your own risk.",
+    "es": "Este contenedor de almacenamiento es propiedad de The Scope. Manipúlalo bajo tu propia cuenta y riesgo.",
+    "fr": "Ce conteneur de stockage est la propriété de The Scope.  Si vous le touchez, c'est à vos risques et périls.",
+    "ja": "スコープ所有の保管コンテナ。不正行為には危険が付きもの。",
+    "ko": "스코프 소유의 저장고입니다. 손대려면 이에 따르는 위험을 감수해야 할 것입니다.",
+    "ru": "Этот контейнер является собственностью Scope. Связываться с ним рискованно.",
+    "zh": "这个储藏集装箱是视角传媒的财产，如果你想动它的话，可得自己承担后果。"
+  },
+  "graphicID": 1176,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "The Scope Storage Container",
     "en": "The Scope Storage Container",
@@ -10,5 +24,9 @@
     "ru": "The Scope Storage Container",
     "zh": "视角集团仓库货柜"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericmetal",
   "volume": 1200.0
 }

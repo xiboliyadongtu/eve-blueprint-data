@@ -1,5 +1,19 @@
 {
-  "typeID": 57561,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieser AEGIS-Sicherheitstresor ist durch eine defensive Verschlüsselung geschützt, die umgangen werden muss, um auf den Inhalt zuzugreifen. Der Versuch, den Tresor zu zerstören, macht den Inhalt mit hoher Wahrscheinlichkeit unbrauchbar. Mit der passenden Ausrüstung sind Sie vielleicht in der Lage, sich in den Tresor zu hacken und an wertvolle Ressourcen zu gelangen.",
+    "en": "This AEGIS Security Vault is protected by a defensive layer of encryption that must be bypassed to successfully access the contents. Attempts to destructively penetrate this vault are highly likely to render the contents totally useless.\r\n\r\nIf you have the correct equipment you may be able to hack into the vault and extract some valuable resources.",
+    "es": "Cámara de seguridad de AEGIS con una capa defensiva cifrada que protege el contenido. Cualquier intento de penetrar por la fuerza seguramente acabe destruyendo lo que hay dentro.\n\nCon el equipo adecuado, podrías hackear la cámara y extraer algunos recursos de valor.",
+    "fr": "Ce coffre-fort de sécurité d’AEGIS est protégé par une couche de cryptage défensif qui doit être contournée pour accéder à son contenu. Les tentatives de forcer le coffre-fort par des moyens destructeurs risquent de rendre son contenu inutilisable. Si vous disposez du matériel adéquat, vous pourrez peut-être pirater le coffre-fort pour l’ouvrir et en extraire des ressources de grande valeur.",
+    "ja": "イージス金庫室は、暗号化された防衛構造によって守られており、中身にアクセスするにはそれをかいくぐる必要がある。破壊的な手段で金庫に侵入しようとした場合、中身が使い物にならなくなってしまう可能性が非常に高い。\n\n\n\n適切な機器があれば、金庫をハッキングして有益なリソースを取り出せるかもしれない。",
+    "ko": "AEGIS 금고를 개방하기 위해서는 보안 시스템을 해제해야 합니다. 단, 보안 시스템을 강제로 비활성화하면 내용물이 훼손될 확률이 높습니다.<br><br>적합한 장비를 사용할 경우 값비싼 재료를 획득할 수 있습니다.",
+    "ru": "Это хранилище сил безопасности «ЭГИДА» находится под защитой шифрования, защищающего его содержимое. Любая попытка силой проникнуть в хранилище может привести к уничтожению всего, что в нём находится. При наличии подходящего оборудования вы сможете взломать систему безопасности хранилища и получить ценные ресурсы.",
+    "zh": "统合部紧急干预和安全局安保部保险库由加密层保护，必须绕过加密层才能获取里面的物品。如果你想强行打开它，那里面的东西便会化为一堆废金属。\n\n\n\n如果你携带了合适的设备，就能破译这个保险库，获取珍贵的资源。"
+  },
+  "graphicID": 20297,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "AEGIS Security Vault",
     "en": "AEGIS Security Vault",
@@ -10,5 +24,9 @@
     "ru": "AEGIS Security Vault",
     "zh": "统合部紧急干预和安全局安保部保险库"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

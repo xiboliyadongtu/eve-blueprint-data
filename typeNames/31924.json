@@ -1,5 +1,18 @@
 {
-  "typeID": 31924,
+  "description": {
+    "de": "Steigert die maximale Stärke des Schildes.",
+    "en": "Increases the maximum strength of the shield.",
+    "es": "Aumenta la resistencia máxima del escudo.",
+    "fr": "Augmente la puissance maximale du bouclier.",
+    "ja": "シールドの最大強度を向上させる。",
+    "ko": "최대 실드량이 증가합니다.",
+    "ru": "Увеличивает максимальную силу щита.",
+    "zh": "增加护盾的最大强度。"
+  },
+  "groupID": 38,
+  "iconID": 1044,
+  "marketGroupID": 605,
+  "metaGroupID": 4,
   "name": {
     "de": "Republic Fleet Small Shield Extender",
     "en": "Republic Fleet Small Shield Extender",
@@ -10,5 +23,8 @@
     "ru": "Republic Fleet Small Shield Extender",
     "zh": "共和舰队小型护盾扩展装置"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 377,
   "volume": 5.0
 }

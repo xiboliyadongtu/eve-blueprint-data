@@ -1,5 +1,19 @@
 {
-  "typeID": 46684,
+  "basePrice": 100.0,
+  "description": {
+    "de": "Diese äußerst seltene und wertvolle Variante des Omber-Erzes wurde erst vor Kurzem von ORE-Ingenieuren während eines Feldversuchs mit neuer Mond-Bergbautechnologie entdeckt. Bei weiteren Tests wurde bestätigt, dass sich aus diesem Erz 15% mehr Mineralien gewinnen lassen als bei der Aufbereitung von normalem Omber. Omber ist ein weitverbreitetes und für Anfänger immer noch hervorragendes Erz, da es neben einer großen Menge an <a href=showinfo:37>Isogen</a> auch <a href=showinfo:35>Pyerite</a> enthält. Schon nach wenigen Bergbau-Einsätzen kann ein Neuling so relativ schnell seinen Status erhöhen.",
+    "en": "This extremely rare and valuable variant of omber ore was recently discovered by ORE engineers during early field tests of new moon mining technology. Subsequent testing has confirmed that this ore produces 15% more minerals than standard omber when reprocessed.\r\n\r\nOmber is a common ore that is still an excellent ore for novice miners as it has a sizeable portion of <a href=showinfo:37>Isogen</a>, as well as some <a href=showinfo:35>Pyerite</a>. A few trips of mining this and a novice is quick to rise in status.",
+    "es": "Los ingenieros de ORE han descubierto hace poco esta variante extremadamente poco común y valiosa de la mena de ómber durante las primeras pruebas de campo de la nueva tecnología de minería lunar. Las pruebas posteriores han confirmado que esta mena produce un 15 % más de minerales que el ómber estándar cuando se reprocesa.\n\n\n\nEl ómber es una mena común excelente para mineros noveles, ya que contiene una parte considerable de <a href=showinfo:37>isogen</a> y algo de <a href=showinfo:35>pierita</a>. Unas cuantas extracciones y el principiante no tardará en ascender.",
+    "fr": "Cette variante extrêmement rare et précieuse du minerai d'omber a récemment été découverte par des ingénieurs de l'ORE lors de tests préliminaires d'une nouvelle technologie d'extraction lunaire. Des tests effectués sur ce minerai ont permis de confirmer que son rendement en minéraux est supérieur de 15 % à celui de l'omber classique lors de son retraitement. L'omber est un minerai brut recommandé pour les mineurs néophytes, car il contient une proportion non négligeable d'<a href=showinfo:37>isogène</a>, ainsi que de la <a href=showinfo:35>pyérite</a>. Quelques voyages suffisent à faire rapidement monter un mineur débutant en grade.",
+    "ja": "新型衛星採掘技術の初期フィールドテストの最中、OREの技術者たちが極めて貴重で価値のあるオンバーの変種を発見した。その後行われたテストにより、この鉱石は再処理を行った時の無機物生成量が、通常のオンバーより15%も多いことが確認された。\r\n\nオンバーはありふれた鉱石だが、かなりの量の<a href=showinfo:37>アイソゲン</a>を含み、トリタニウムと<a href=showinfo:35>パイライト</a>も多少採れるため、採掘初心者にはうってつけだ。この鉱石を何回か採掘しに行けば、すぐに鉱山労働者としてのステップを上がれることだろう。",
+    "ko": "ORE 엔지니어들이 위성 채굴 현장에서 발견한 희귀 옴버입니다. 광석을 조사한 결과 일반적인 옴버에 비해 미네랄 산출량이 약 15% 가량 더 높은 것으로 밝혀졌습니다. <br><br>옴버는 비교적 흔하게 발견되는 광석 가운데 하나로 다량의 <a href=showinfo:37>이소젠</a>과 평균적인 수준의 <a href=showinfo:35>파이어라이트</a>가 함유되어 있습니다.",
+    "ru": "Эта невероятно редкая и ценная разновидность омбера была обнаружена инженерами ОРЭ совсем недавно, на раннем этапе полевых испытаний новой технологии добычи руды со спутников. Дальнейшие тесты подтвердили, что в результате переработки из такой руды можно получить минералов на 15% больше, чем из обычного омбера. Омбер — широко распространённая руда, но он отлично подходит начинающим буровикам, поскольку содержит достаточно <a href=showinfo:37>изогена</a> и некоторое количество <a href=showinfo:35>пирита</a>. Добыча нескольких партий этой руды поможет начинающему буровику быстро заработать репутацию.",
+    "zh": "这种及其稀有和珍贵的奥贝尔石变种是最近由ORE工程师在对新型卫星开采技术进行初期实地实验时发现的。经过进一步检测后确认这种矿石提炼后的矿物产出比普通的奥贝尔石高15%。\n\n\n\n奥贝尔石虽然是一种普通的矿石，但对采矿新手来说，它仍然是一个不错的矿种，因为它含有大量的<a href=showinfo:37>同位聚合体</a>，以及一些<a href=showinfo:35>类晶体胶矿</a>。新手只要进行几趟开采奥贝尔石的旅程，他的资历就会显著提升。"
+  },
+  "groupID": 469,
+  "iconID": 1271,
+  "marketGroupID": 526,
+  "mass": 1e+35,
   "name": {
     "de": "Platinoid Omber",
     "en": "Platinoid Omber",
@@ -10,5 +24,7 @@
     "ru": "Platinoid Omber",
     "zh": "铂族奥贝尔石"
   },
+  "portionSize": 100,
+  "published": true,
   "volume": 0.6
 }

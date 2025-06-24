@@ -1,5 +1,20 @@
 {
-  "typeID": 63911,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Mit der richtigen Ausrüstung könnten Sie sich möglicherweise in dieses CONCORD-Lager einhacken und ein paar wertvolle Informationen erbeuten.",
+    "en": "If you have the right equipment you might be able to hack into this CONCORD storage structure and get some valuable loot.",
+    "es": "Si tienes el equipo adecuado, podrías hackear esta estructura de almacenamiento de CONCORD y obtener un botín valioso.",
+    "fr": "Si vous disposez du matériel adéquat, vous pourrez peut-être pirater cette structure de stockage de CONCORD et récupérer du précieux butin.",
+    "ja": "適切な機器があれば、このCONCORDの保管用ストラクチャをハッキングして貴重な戦利品を得ることができる。",
+    "ko": "적절한 장비만 있다면 CONCORD 압류소를 해킹하여 중요한 물건을 빼돌릴 수 있습니다.",
+    "ru": "При наличии необходимого оборудования вы сможете взломать это хранилище КОНКОРДа и получить ценные трофеи.",
+    "zh": "如果你有正确的设备，也许可以破解这座统合部储存设施并获得珍贵的战利品。"
+  },
+  "factionID": 500021,
+  "graphicID": 20298,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "CONCORD Contraband Storage",
     "en": "CONCORD Contraband Storage",
@@ -10,5 +25,9 @@
     "ru": "CONCORD Contraband Storage",
     "zh": "统合部走私品储藏设施"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 300.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

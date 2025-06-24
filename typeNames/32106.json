@@ -1,5 +1,18 @@
 {
-  "typeID": 32106,
+  "basePrice": 750.0,
+  "description": {
+    "de": "Dieses Gerät kann die eingehenden und ausgehenden Signale eines Sansha-Gerätes verbessern.",
+    "en": "This device can boost the incoming or outgoing signals to a Sansha device.",
+    "es": "Este dispositivo puede potenciar las señales entrantes o salientes de un dispositivo sansha.",
+    "fr": "Ce dispositif peut booster les signaux entrants ou sortants d'un dispositif sansha.",
+    "ja": "サンシャデバイスとの受信信号や発信信号をブーストするデバイス。",
+    "ko": "각종 산샤 장비에 대한 신호 강도를 향상합니다.",
+    "ru": "Данный модуль способен усиливать входящие и исходящие сигналы устройствам Sansha.",
+    "zh": "这个设备能够把传送到和接受自萨沙设备的信号放大。"
+  },
+  "groupID": 314,
+  "iconID": 1185,
+  "mass": 40.0,
   "name": {
     "de": "Sansha Command Signal Receiver",
     "en": "Sansha Command Signal Receiver",
@@ -10,5 +23,7 @@
     "ru": "Sansha Command Signal Receiver",
     "zh": "萨沙指挥信号接收器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

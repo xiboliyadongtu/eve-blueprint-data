@@ -1,5 +1,16 @@
 {
-  "typeID": 21144,
+  "description": {
+    "de": "Eine Executioner, die von einem Agenten geflogen wird.",
+    "en": "An Executioner piloted by an agent.",
+    "es": "Executioner pilotada por un agente.",
+    "fr": "Un Executioner piloté par un agent.",
+    "ja": "エージェントを乗せたエクスキューショナー。",
+    "ko": "에이전트가 조종하는 엑스큐셔너입니다.",
+    "ru": "Корабль класса Executioner, управляемый агентом.",
+    "zh": "由代理人驾驶的刽子手级飞船。"
+  },
+  "graphicID": 54,
+  "groupID": 517,
   "name": {
     "de": "Hatram's Executioner",
     "en": "Hatram's Executioner",
@@ -10,5 +21,9 @@
     "ru": "Hatram's Executioner",
     "zh": "哈特兰的刽子手级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 13.0,
+  "sofFactionName": "amarrbase"
 }

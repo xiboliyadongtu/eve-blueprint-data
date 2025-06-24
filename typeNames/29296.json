@@ -1,5 +1,17 @@
 {
-  "typeID": 29296,
+  "description": {
+    "de": "Dieses Signalfeuer markiert eine militärische Späherposition. Das Eingangstor ist wahrscheinlich so konfiguriert, dass nur Fregatten vom Typ Tech I passieren können. Die in diesem Beschleunigungstor installierten Sicherheitsfunktionen verhindern die Aktivierung durch alle mit Warpkern-Stabilisatormodulen ausgestatteten Schiffe.",
+    "en": "This beacon marks a scout military location. The entry gate is likely configured to admit only Tech I frigates.\r\nThe security features installed in this acceleration gate will prevent activation by any ship that is fitted with warp core stabilizer modules.",
+    "es": "Esta baliza marca una sede militar de exploración. Es probable que el portal de entrada esté configurado para admitir únicamente fragatas T1.\nLas funciones de seguridad instaladas en este portal de aceleración impiden que lo active ninguna nave con módulos estabilizadores del núcleo de warp.",
+    "fr": "This beacon marks a scout military location. The entry gate is likely configured to admit only Tech I frigates.\nThe security features installed in this acceleration gate will prevent activation by any ship that is fitted with warp core stabilizer modules.",
+    "ja": "偵察用軍事ポイントを示すビーコン。このエントリーゲートは、T1フリゲートだけが通過できる設定になっているようだ。\nこの加速ゲートに設置されたセキュリティ機能は、ワープコア制御モジュールを装備した艦船が起動するのを防ぐ。",
+    "ko": "정찰 군사 훈련장의 위치를 표시하고 있습니다. 테크 I 프리깃만 통과시키도록 설정되었을 가능성이 높습니다.<br>워프 코어 스태빌라이저 모듈을 장착한 함선은 가동시킬 수 없도록 보안 장치가 설치되어 있습니다.",
+    "ru": "Этот маяк обозначает зону военной разведки. Конфигурация врат, вероятнее всего, рассчитана только на фрегаты первого техноуровня. Система безопасности не позволяет активировать эти разгонные врата кораблям, оснащённым модулями стабилизации варп-ядра.",
+    "zh": "这个信标标记着一个军事侦察设施。入口通道似乎被设定为允许一级科技的护卫舰进入。\n\n安装在这个加速轨道中的安全设备会阻止任何舰船使用装配的跃迁核心稳定器。"
+  },
+  "graphicID": 1211,
+  "groupID": 310,
+  "mass": 1.0,
   "name": {
     "de": "Scout Military Beacon",
     "en": "Scout Military Beacon",
@@ -10,5 +22,9 @@
     "ru": "Scout Military Beacon",
     "zh": "军事侦察信标"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 30000.0,
+  "sofFactionName": "genericbase",
   "volume": 1.0
 }

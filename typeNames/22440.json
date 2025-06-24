@@ -1,5 +1,85 @@
 {
-  "typeID": 22440,
+  "basePrice": 567100000.0,
+  "capacity": 825.0,
+  "description": {
+    "de": "Black Ops-Schlachtschiffe wurden für die Unterwanderung und Spionage hinter den feindlichen Linien entworfen. Mit ihrem Sprungantrieb und einem Portalgenerator können sie eine besondere Art von Sprungportal erschaffen, das nur von Covert Ops-Schiffen benutzt werden kann. Auf diese Art können sie heimlich Spionage- und Aufklärungstruppen in feindliches Gebiet einschleusen. Für derartige Geheimaktionen gibt es keine besseren Schiffe.",
+    "en": "Black Ops battleships are designed for infiltration and espionage behind enemy lines. With the use of a jump drive and portal generator, they are capable of making a special type of jump portal usable only by covert ops vessels. This enables them to stealthily plant reconnaissance and espionage forces in enemy territory. For the final word in clandestine maneuvers, look no further.",
+    "es": "Los acorazados de operaciones secretas están diseñados para la infiltración y el espionaje tras las líneas enemigas. Con un motor de salto y un generador de portales, son capaces de hacer un tipo especial de portal de salto que solo pueden usar las naves de operaciones encubiertas. Esto les permite plantar sigilosamente fuerzas de reconocimiento y espionaje en territorio enemigo. Si buscas lo último en maniobras clandestinas, lo has encontrado.",
+    "fr": "Les cuirassés des forces spéciales sont conçus pour les missions d'infiltration et d'espionnage derrière les lignes ennemies. Grâce à l'utilisation d'un propulseur interstellaire et d'un générateur de portail, ils peuvent créer un portail interstellaire particulier, utilisable uniquement par les vaisseaux des opérations secrètes. Cela leur permet par exemple d'envoyer furtivement des unités de reconnaissance et d'espionnage en territoire ennemi. Autrement dit, le plan idéal pour les manœuvres clandestines.",
+    "ja": "光学迷彩型戦艦は敵地への潜入と諜報活動のために設計されている。ジャンプドライブとポータルジェネレーターを使って、光学迷彩艦だけが通過できる特殊なジャンプポータルを生成する機能を持つ。これにより、偵察隊や諜報部隊を密かに敵の領内に潜り込ませることが可能になる。潜入作戦ならば、この船一択であろう。",
+    "ko": "블랙옵스 배틀쉽은 잠입 및 유격에 특화된 함선입니다. 함선에 장착된 점프 드라이브와 포탈 생성기를 통해 코버트 옵스 전용 점프 포탈을 생성할 수 있습니다. 이를 이용하여 정찰부대 또는 간첩부대를 은밀하게 적지에 보낼 수 있습니다. 비밀 임무에 한해 이보다 더 좋은 함선은 없을 것입니다.",
+    "ru": "Тяжёлые диверсионные линкоры предназначены для шпионажа и проникновения в тыл врага. Они снабжены гипердвигателем и генератором гиперпорталов и способны создавать особые каналы, проходить через которые могут только диверсионные суда. Это позволяет незаметно внедрять разведывательные и шпионские корабли в пространство противника. Идеальное решение в сфере секретных операций.",
+    "zh": "黑隐特勤战列舰的作用是渗透进敌人后方实施侦查活动。通过使用跳跃引擎以及跳跃通道发生器，它们能够生成一条只允许隐形特勤舰只通过的跳跃通道。这使得它们能够隐秘地在敌后进行侦查和间谍任务。你要是想找执行秘密任务的行家，那就非它莫属了。"
+  },
+  "factionID": 500002,
+  "graphicID": 3355,
+  "groupID": 898,
+  "marketGroupID": 1079,
+  "mass": 148800000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      133,
+      73,
+      138,
+      108,
+      141,
+      145,
+      150,
+      89
+    ],
+    "1": [
+      96,
+      99,
+      133,
+      73,
+      138,
+      108,
+      141,
+      145,
+      150,
+      89
+    ],
+    "2": [
+      96,
+      99,
+      133,
+      73,
+      138,
+      108,
+      141,
+      145,
+      150,
+      89
+    ],
+    "3": [
+      96,
+      99,
+      133,
+      73,
+      138,
+      108,
+      141,
+      145,
+      150,
+      89
+    ],
+    "4": [
+      96,
+      99,
+      133,
+      73,
+      138,
+      108,
+      141,
+      145,
+      117,
+      150,
+      89
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Panther",
     "en": "Panther",
@@ -10,5 +90,212 @@
     "ru": "Panther",
     "zh": "黑豹级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 250.0,
+  "sofFactionName": "thukkermix",
+  "soundID": 20076,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Kann Module für <a href=showinfo:21096>Anziehungsfeldgenerator</a>, <a href=showinfo:28646>getarnten Anziehungsfeldgenerator</a> und <a href=showinfo:28652>getarnten Sprungtorgenerator</a> ausrüsten",
+          "en": "Can fit <a href=showinfo:21096>Cynosural Field Generator</a>, <a href=showinfo:28646>Covert Cynosural Field Generator</a>, and <a href=showinfo:28652>Covert Jump Portal Generator</a> modules",
+          "es": "Es posible equipar módulos de <a href=showinfo:21096>generador de campo cinosural</a>,  <a href=showinfo:28646>generador de campo cinosural encubierto</a> y <a href=showinfo:28652>generador de portales de salto encubierto</a>.",
+          "fr": "Peut équiper des modules <a href=showinfo:21096>générateur de champ cynosural</a>, <a href=showinfo:28646>générateur de champ cynosural furtif</a> et <a href=showinfo:28652>générateur de portail interstellaire furtif</a>",
+          "ja": "<a href=showinfo:21096>サイノシュラルフィールドジェネレーター</a>、<a href=showinfo:28646>潜伏用サイノシュラルフィールドジェネレーター</a>、そして<a href=showinfo:28652>潜伏用ジャンプポータルジェネレーター</a>を装備可能",
+          "ko": "<a href=showinfo:21096>사이노슈럴 필드 생성기</a>, <a href=showinfo:28646>코버트 사이노슈럴 필드 생성기</a>, <a href=showinfo:28652>코버트 점프 포탈 생성기</a> 장착 가능",
+          "ru": "Возможно оснащение <a href=showinfo:21096>приводным маяком</a>, <a href=showinfo:28646>приводным маяком скрытого действия</a> и <a href=showinfo:28652>диверсионным генератором гиперпорталов</a>",
+          "zh": "可以装配<a href=showinfo:21096>诱导力场发生器</a>、<a href=showinfo:28646>隐秘诱导力场发生器</a>和<a href=showinfo:28652>隐秘跳跃通道发生器</a>装备"
+        },
+        "importance": 1
+      },
+      {
+        "bonusText": {
+          "de": "Keine Verzögerung bei der Zielaufschaltung nach der Deaktivierung von <a href=showinfo:11579>Tarnmodulen</a>",
+          "en": "No targeting delay after <a href=showinfo:11579>Cloaking Device</a> deactivation",
+          "es": "No hay demora en la adquisición de objetivos tras la desactivación del <a href=showinfo:11579>dispositivo de camuflaje</a>.",
+          "fr": "Aucun délai de ciblage après la désactivation des <a href=showinfo:11579>dispositifs de camouflage</a>",
+          "ja": "<a href=showinfo:11579>遮蔽装置</a>を停止した後のターゲット遅延なし",
+          "ko": "<a href=showinfo:11579>클로킹 장치</a> 비활성화 후 타겟팅 딜레이 없음",
+          "ru": "На кораблях этого типа устранена задержка включения систем захвата целей, вызываемая отключением <a href=showinfo:11579>систем маскировки</a>",
+          "zh": "重新启动<a href=\"showinfo:11579\">隐形装置</a>后不遭受锁定延时副作用"
+        },
+        "importance": 2
+      },
+      {
+        "bonusText": {
+          "de": "Die Verzögerung bei Reaktivierung von <a href=showinfo:11579>Tarnmodulen</a> wird auf 5 Sekunden reduziert.",
+          "en": "<a href=showinfo:11579>Cloak</a> reactivation delay reduced to 5 seconds",
+          "es": "Reducción de la demora de reactivación del <a href=showinfo:11579>camuflaje</a> a 5 segundos.",
+          "fr": "Délai de réactivation du <a href=showinfo:11579>camouflage</a> réduit à 5 secondes",
+          "ja": "<a href=showinfo:11579>遮蔽装置</a>の再起動遅延が5秒に短縮",
+          "ko": "<a href=showinfo:11579>클로킹</a> 재가동 지연 시간 5초로 감소",
+          "ru": "Задержка повторного включения <a href=showinfo:11579>систем маскировки</a> сокращена до 5 секунд",
+          "zh": "<a href=\"showinfo:11579\">隐形装置</a>重启延时降到5秒"
+        },
+        "importance": 3
+      },
+      {
+        "bonus": 75.0,
+        "bonusText": {
+          "de": "Reduktion der effektiv zurückgelegten Distanz für die Sprungerschöpfung",
+          "en": "reduction to effective distance traveled for jump fatigue",
+          "es": "de reducción de la distancia efectiva hasta sufrir fatiga de salto.",
+          "fr": "de réduction de la distance effectuée pour l'épuisement de saut",
+          "ja": "ジャンプによる疲弊が飛行距離に及ぼす影響を低減",
+          "ko": "이동 거리에 따른 점프 피로도 감소",
+          "ru": "медленнее накапливается усталость от гиперпереходов",
+          "zh": "减少跳跃距离对产生跳跃疲劳的影响"
+        },
+        "importance": 4,
+        "unitID": 105
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Reduktion der Dauer von <a href=showinfo:21096>Anziehungsfeldgeneratoren</a> und <a href=showinfo:28646>getarnten Anziehungsfeldgeneratoren</a>",
+          "en": "reduction in <a href=showinfo:21096>Cynosural Field Generator</a> and <a href=showinfo:28646>Covert Cynosural Field Generator</a> duration",
+          "es": "de reducción de la duración del <a href=showinfo:21096>generador de campo cinosural</a> y el <a href=showinfo:28646>generador de campo cinosural encubierto</a>.",
+          "fr": "de réduction de la durée du <a href=showinfo:21096>générateur de champ cynosural</a> et du <a href=showinfo:28646>générateur de champ cynosural furtif</a>",
+          "ja": "<a href=showinfo:21096>サイノシュラルフィールドジェネレーター</a>と<a href=showinfo:28646>潜伏用サイノシュラルフィールドジェネレーター</a>の持続時間が減少",
+          "ko": "<a href=showinfo:21096>사이노슈럴 필드 생성기</a> 및 <a href=showinfo:28646>코버트 사이노슈럴 필드 생성기</a> 지속시간 감소",
+          "ru": "сокращение времени работы <a href=showinfo:21096>приводного маяка</a> и <a href=showinfo:28646>приводного маяка скрытого действия</a>",
+          "zh": "<a href=showinfo:21096>诱导力场发生器</a>和<a href=showinfo:28646>隐秘诱导力场发生器</a>的持续时间缩短"
+        },
+        "importance": 5,
+        "unitID": 105
+      },
+      {
+        "bonus": 650.0,
+        "bonusText": {
+          "de": "Bonus auf die maximale Geschwindigkeit des Schiffs beim Einsatz von <a href=showinfo:11579>Tarnvorrichtungen</a>",
+          "en": "bonus to ship max velocity when using <a href=showinfo:11579>Cloaking Devices</a>",
+          "es": "de bonificación a la velocidad máxima de la nave al utilizar <a href=showinfo:11579>dispositivos de camuflaje</a>.",
+          "fr": "de bonus à la vitesse maximale d'un vaisseau lorsqu'équipé d'un <a href=showinfo:11579>dispositif de camouflage</a> actif",
+          "ja": "<a href=showinfo:11579>遮蔽装置</a>使用時の艦船の最高速度が上昇",
+          "ko": "<a href=showinfo:11579>클로킹 장치</a> 사용 시 함선 최대 속도 증가",
+          "ru": "бонус к максимальной скорости хода при использовании <a href=showinfo:11579>устройств маскировки</a>",
+          "zh": "使用<a href=showinfo:11579>隐形装置</a>时舰船的最大速度加成"
+        },
+        "importance": 6,
+        "unitID": 105
+      },
+      {
+        "bonus": 100.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der <a href=showinfo:3425>Schilderweiterung</a>",
+          "en": "bonus to <a href=showinfo:3425>Shield Extender</a> hitpoints",
+          "es": "de bonificación a los puntos de vida del <a href=showinfo:3425>extensor de escudo</a>.",
+          "fr": "de bonus aux points de vie de l'<a href=showinfo:3425>extenseur de bouclier</a>",
+          "ja": "<a href=showinfo:3425>シールドエクステンダー</a>HPが増加",
+          "ko": "<a href=showinfo:3425>실드 확장장치</a> 실드량 증가",
+          "ru": "бонус к прочности <a href=showinfo:3425>расширителя щитов</a>",
+          "zh": "<a href=showinfo:3425>护盾扩展装置</a>护盾值加成"
+        },
+        "importance": 7,
+        "unitID": 105
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der <a href=showinfo:3394>Panzerplatte</a>",
+          "en": "bonus to <a href=showinfo:3394>Armor Plate</a> hitpoints",
+          "es": "de bonificación a los puntos de vida de las <a href=showinfo:3394>placas de blindaje</a>.",
+          "fr": "de bonus aux points de vie du <a href=showinfo:3394>revêtement de blindage</a>",
+          "ja": "<a href=showinfo:3394>アーマープレート</a>HPが増加",
+          "ko": "<a href=showinfo:3394>장갑 플레이트</a> 내구도 증가",
+          "ru": "бонус к прочности <a href=showinfo:3394>бронеплиты</a>",
+          "zh": "<a href=showinfo:3394>装甲附甲板</a>装甲值加成"
+        },
+        "importance": 8,
+        "unitID": 105
+      },
+      {
+        "bonus": 5.0,
+        "bonusText": {
+          "de": "zusätzlicher Bonus auf HP der <a href=showinfo:3394>Verstärkten Schottwand</a>",
+          "en": "additional bonus to <a href=showinfo:3394>Reinforced Bulkhead</a> hitpoints",
+          "es": "de bonificación adicional a los puntos de vida del <a href=showinfo:3394>mamparo reforzado</a>.",
+          "fr": "de bonus supplémentaire aux points de vie de la <a href=showinfo:3394>cloison renforcée</a>",
+          "ja": "<a href=showinfo:3394>強化隔壁</a>HPがさらに増加",
+          "ko": "<a href=showinfo:3394>강화 격벽</a> 내구도 증가",
+          "ru": "дополнительный бонус к прочности <a href=showinfo:3394>укреплённой переборки</a>",
+          "zh": "<a href=showinfo:3394>强化舱隔壁</a>结构值加成"
+        },
+        "importance": 9,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3337": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf die Feuerrate von <a href=showinfo:3308>großen Projektilgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3308>Large Projectile Turret</a> rate of fire",
+            "es": "de bonificación a la cadencia de tiro de la <a href=showinfo:3308>torreta de proyectiles grande</a>.",
+            "fr": "de bonus à la cadence de tir des <a href=showinfo:3308>grandes tourelles à projectiles</a>",
+            "ja": "<a href=showinfo:3308>大型プロジェクタイルタレット</a>の発射間隔が短縮",
+            "ko": "<a href=showinfo:3308>대형 발사체 터렛</a> 연사속도 증가",
+            "ru": "повышается скорострельность <a href=showinfo:3308>больших баллистических орудий</a>",
+            "zh": "<a href=\"showinfo:3308\">大型射弹炮台</a>射速加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3308>großen Projektilgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3308>Large Projectile Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3308>torreta de proyectiles grande</a>.",
+            "fr": "de bonus de dégâts des <a href=showinfo:3308>grandes tourelles à projectiles</a>",
+            "ja": "<a href=showinfo:3308>大型プロジェクタイルタレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3308>대형 발사체 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон боеприпасов <a href=showinfo:3308>больших баллистических орудий</a>",
+            "zh": "<a href=\"showinfo:3308\">大型射弹炮台</a>伤害加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ],
+      "28656": [
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Nachführung von <a href=showinfo:3308>großen Projektilwaffentürmen</a>",
+            "en": "bonus to <a href=showinfo:3308>Large Projectile Turret</a> tracking",
+            "es": "de bonificación al rastreo de la <a href=showinfo:3308>torreta de proyectiles grande</a>.",
+            "fr": "de bonus à la poursuite des <a href=showinfo:3308>grandes tourelles à projectiles</a>",
+            "ja": "<a href=showinfo:3308>大型プロジェクタイルタレット</a>のトラッキング能力が上昇",
+            "ko": "<a href=showinfo:3308>대형 발사체 터렛</a> 트래킹 속도 증가",
+            "ru": "бонус к скорости наведения <a href=showinfo:3308>баллистических орудий большого калибра</a>",
+            "zh": "<a href=showinfo:3308>大型射弹炮台</a>跟踪速度加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf den Präzisionsabfall von <a href=showinfo:3308>großen Projektilwaffentürmen</a>",
+            "en": "bonus to <a href=showinfo:3308>Large Projectile Turret</a> falloff",
+            "es": "de bonificación al alcance efectivo de la <a href=showinfo:3308>torreta de proyectiles grande</a>.",
+            "fr": "de bonus à la déperdition des <a href=showinfo:3308>grandes tourelles à projectiles</a>",
+            "ja": "<a href=showinfo:3308>大型プロジェクタイルタレット</a>の精度低下範囲が拡大",
+            "ko": "<a href=showinfo:3308>대형 발사체 터렛</a> 유효사거리 증가",
+            "ru": "бонус к остаточной дальности <a href=showinfo:3308>баллистических орудий большого калибра</a>",
+            "zh": "<a href=showinfo:3308>大型射弹炮台</a>失准范围加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 644,
   "volume": 414000.0
 }

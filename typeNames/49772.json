@@ -1,5 +1,21 @@
 {
-  "typeID": 49772,
+  "basePrice": 12470.0,
+  "description": {
+    "de": "Panzerungs-Fernreparatursysteme von Triglavia verwenden eine mutadaptive Technologie, um im Laufe der Zeit verlorenes Material mit zunehmender Wirkung wiederherzustellen. Dies wird durch die Verwendung spezieller Panzerungsreparatur-Mutaplasmide als Nanobot-Rohmaterial für Fernreparaturprojektoren erreicht. Da der Panzerungsreparatur-Mutaplasmidstrom sich in Echtzeit viel effizienter an die spezifischen Zielschiffbedingungen anpassen kann als herkömmliche Panzerungsreparatur-Nanobots, steigt die Effizienz der Panzerungsreparatur, die der Nanobotstrom an einem bestimmten Ziel durchführt, mit der Zeit zur maximalen Reparaturleistung an.",
+    "en": "Triglavian remote armor repair equipment use mutadaptive technology to restore lost material with escalating effect over time. This is achieved using specialized armor repair mutaplasmids as nanite feedstock for the remote repair projectors.\r\n\r\nAs the armor repair mutaplasmid stream is able to adapt itself in real-time to specific target ship conditions far more efficiently than standard armor repair nanites, the efficiency of armor repairing performed by the nanite stream on a given target increases over time towards a maximal repair output.",
+    "es": "El equipo triglaviano de reparación remota de blindajes usa tecnología mutadaptativa para restablecer el material perdido con un efecto intensificador gradual. Se consigue usando mutaplásmidos especializados en la reparación de blindajes, como alimentadores de nanobots para los proyectores de reparación a distancia.\n\n\n\nComo el flujo de mutaplásmidos de reparación del blindaje se adapta en tiempo real a las condiciones específicas de la nave objetivo de forma mucho más eficiente que los nanobots estándar, la eficiencia en la reconstrucción del blindaje aumenta con el tiempo hasta alcanzar el máximo rendimiento de reparación.",
+    "fr": "L'équipement de réparation de blindage à distance trivaglian exploite une technologie muta-adaptative pour restaurer les matériaux perdus avec un effet croissant dans le temps. Cela est possible grâce à l'utilisation de mutaplasmides spécialisés en réparation de blindage, comme source de nanites pour les projecteurs de réparation à distance. Comme le flux de mutaplasmides de réparation de blindage est capable de s'adapter en temps réel aux conditions spécifiques du vaisseau cible, de façon bien plus efficace que des nanites de réparation de blindage standard, l'efficacité des réparations qu'il réalise sur une cible donnée augmente au cours du temps pour tendre vers un résultat de réparation maximum.",
+    "ja": "トリグラビアン製のリモートーアーマーリペア装備は、損傷した素材を修復するため、時間経過で効果が強化される変異順応性技術を使っている。これは、リモートリペアプロジェクターに特化したアーマーリペア変異プラスミドをナノマシンの原材料として使うことで実現している。\r\n\nアーマーリペア変異プラスミドの流体は、通常のアーマーリペアナノマシンより遥かに効率良く、リアルタイムで目標艦の状態に適応することができる。目標に対するナノマシン流体のアーマーリペア効率は、リペア出力が最大に到達するまで徐々に上昇する。",
+    "ko": "트리글라비안 원격 장갑 수리 장치는 뮤타적응형 기술로 손상된 부위를 빠른 속도로 수리할 수 있습니다. 추가로 원격 수리 장치에 적응형 뮤타플라즈미드를 주입함으로써 장갑 수리 장치의 성능을 향상하였습니다. <br><br>뮤타플라즈미드 스트림은 손상된 함선의 상태에 따른 실시간 분석 및 수리가 가능하여 일반 나나이트보다 월등한 효율성을 보유하고 있습니다. 작동 시 수리 속도가 점차 증가합니다.",
+    "ru": "Оборудование для дистанционного ремонта брони Триглава использует мутадаптивную технологию — она способна восстанавливать утраченную материю, постепенно повышая свою эффективность. Это достигается за счёт использования адаптивных мутаплазмидов в качестве запаса нанитов для систем дистанционного ремонта брони. Так как поток ремонтных мутаплазмидов способен в реальном времени приспосабливаться к особенностям конкретного корабля, эффективность ремонтных работ постепенно повышается, со временем достигая максимальных значений.",
+    "zh": "三神裔远程装甲维修设备使用了突变适应技术来复原失去的材料，其效果随着时间增加而提升。它用特殊的装甲维修突变质体作为远程维修投射器使用的纳米体原料。\n\n\n\n装甲维修突变质体可以根据具体的目标舰船情况而实时进行自身适应，效率远高于标准装甲维修纳米体，对单一目标的维修效率随着时间增加而提升，直到达到最大维修输出能力。"
+  },
+  "graphicID": 22326,
+  "groupID": 2018,
+  "iconID": 22091,
+  "marketGroupID": 2529,
+  "mass": 20.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Heavy Mutadaptive Compact Remote Armor Repairer",
     "en": "Heavy Mutadaptive Compact Remote Armor Repairer",
@@ -10,5 +26,9 @@
     "ru": "Heavy Mutadaptive Compact Remote Armor Repairer",
     "zh": "重型突变适应紧凑型远程装甲维修器"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "triglavianbase",
+  "variationParentTypeID": 49770,
   "volume": 10.0
 }

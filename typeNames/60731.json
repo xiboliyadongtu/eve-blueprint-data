@@ -1,5 +1,18 @@
 {
-  "typeID": 60731,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Die Capital-Schiff-Konstruktions- und Nachrüstungsoperationen, die AEGIS durchführt, benötigen eine beträchtliche Anzahl an Schmiedewerkzeugen und Ressourcen. Dieser Lagertresor enthält die notwendigen Gegenstände, aber er ist manuell gesichert. Jeder, der nicht für AEGIS arbeitet und die richtigen Freigaben hat, wird sich seinen Weg hineinsprengen müssen, um Zugriff zu erlangen.",
+    "en": "The capital ship construction and refitting operations being carried out by AEGIS require significant numbers of forging tools and resources. This storage vault contains the necessary items but is manually secured. Anyone wishing to access the contents will have to blast their way in if they don't work for AEGIS and have the proper clearances.",
+    "es": "La construcción de naves capitales y las operaciones de reajuste llevadas a cabo por AEGIS requieren un número considerable de herramientas y recursos de forja. Esta cámara de almacenamiento contiene los artículos necesarios, pero está asegurada manualmente. Cualquiera que desee acceder al contenido tendrá que abrirla a golpes si no trabaja para AEGIS ni tiene los permisos adecuados.",
+    "fr": "Les opérations de construction et de refonte des vaisseaux capitaux menées par AEGIS nécessitent un nombre important d'outils et de ressources de forgeage. Ce coffre-fort de stockage contient les objets nécessaires, mais il est sécurisé manuellement. Ceux qui souhaitent profiter de son contenu devront employer les grands moyens, s'ils n'ont pas obtenu leur sésame directement des instances d'AEGIS.",
+    "ja": "イージスによる主力艦の建造と再装備の作業には、多数の鋳造工具と資源が必要だ。この保管金庫には必要アイテムが収納されているが、手動でしかアクセスできない。これらの収納物を利用したい場合は、イージスの勤務者で適切な許可を持たない限り、強行突破する必要がある。",
+    "ko": "AEGIS는 캐피탈 함선을 제작 및 재정비하기 위해 상당한 양의 장비와 자원을 투자하고 있습니다. 해당 시설에는 작업에 필요한 각종 물품이 보관되어 있으며, 강력한 보안 시스템이 걸려 있습니다. AEGIS 소속이 아닐 경우, 보안 시스템을 강제로 파괴하지 않는 한 내용물을 반출할 수 없습니다.",
+    "ru": "При изготовлении и переоснащении КБТ ЭГИДА использует большое количество материалов и оборудования. Все предметы находятся в этом хранилище, но за ним хорошо следят. Если вы не являетесь сотрудником ЭГИДА и не имеете надлежащих прав доступа, вам придётся взять его штурмом.",
+    "zh": "统合部紧急干预和安全局的旗舰建造和装配作业需要海量的工具和资源。这个存储设施中有所需的物品，但守卫严密。如果你不是统合部紧急干预和安全局的人，也没有准入许可的话，就只能杀出一条路进去了。"
+  },
+  "graphicID": 25097,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "AEGIS Capital Forging Tools Storage",
     "en": "AEGIS Capital Forging Tools Storage",
@@ -10,5 +23,9 @@
     "ru": "AEGIS Capital Forging Tools Storage",
     "zh": "统合部紧急干预和安全局旗舰车间工具储藏设施"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 1226.0,
+  "sofFactionName": "upwell-edencom",
   "volume": 100000000.0
 }

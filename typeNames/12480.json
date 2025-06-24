@@ -1,5 +1,17 @@
 {
-  "typeID": 12480,
+  "description": {
+    "de": "Diese geretteten Daten aus einem zerstörten Sansha Raumschiff lauten wie folgt: \r\n\"Fehler im Implantat: Initiierung der Subroutinen Navigation zum kalibrierten Systemknoten ZDYA-G fehlgeschlagen.\r\nMögliche Fehlerquelle: Schaden am Neuralgewebe.\"",
+    "en": "This salvaged data from a destroyed Sansha vessel reveals the following:\r\n\"Implant error: Failed to initiate navigation subroutines for calibrated system node ZDYA-G. Possible cause: Neural tissue damage.\"",
+    "es": "Estos datos recuperados de una nave sansha destruida revelan lo siguiente:\n\n«Error de implante: Error al iniciar subrutinas de navegación del nodo del sistema calibrado ZDYA-G. Posible causa: Daño en el tejido neuronal».",
+    "fr": "Parmi les données récupérées sur l'épave d'un vaisseau sansha, vous trouvez ce message : « Erreur de l'implant : échec de la mise en route des sous-routines de navigation du nœud calibré des systèmes ZDYA-G. Diagnostic possible : tissus neuraux endommagés. »",
+    "ja": "破壊されたサンシャ船からデータを復元し、以下が発見された。\r\n「インプラントエラー:較正システムノードZDYA-G用ナビゲーションサブルーチンの起動に失敗しました。考えられる原因:神経系組織ダメージ。」",
+    "ko": "파괴된 산샤 함선에서 데이터를 추출한 결과 해당 암호 메시지를 입수했습니다. <br><br>\"입력 오류: 시스템 노드 ZDYA-G의 운항 서브루틴을 실행할 수 없습니다. 오류 원인: 신경조직 손상.\"",
+    "ru": "Эти данные, полученные с уничтоженного корабля Sansha, содержат следующее:\n\"Нарушение имплантата. Не удалось ввести навигационные подпрограммы для калибровочной системы узла ZDYA-G. Возможная причина: повреждение нейронной ткани\".",
+    "zh": "这段从毁坏的萨沙舰船上打捞出来的数据显示了以下信息：“植入错误：ZDYA-G航标系统节点的航行子程序植入失败。可能原因：神经组织受损。”"
+  },
+  "groupID": 369,
+  "iconID": 2339,
+  "mass": 1.0,
   "name": {
     "de": "Sansha Ship Log 549327937",
     "en": "Sansha Ship Log 549327937",
@@ -10,5 +22,7 @@
     "ru": "Sansha Ship Log 549327937",
     "zh": "萨沙航行日志549327937"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.1
 }

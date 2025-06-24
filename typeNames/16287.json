@@ -1,5 +1,17 @@
 {
-  "typeID": 16287,
+  "description": {
+    "de": "Dies ist eine Rettungskapsel, die bei der Zerstörung eines Schiffes freigesetzt wird.",
+    "en": "This is an escape capsule which is released upon the destruction of ones ship.",
+    "es": "Cápsula de escape que se libera cuando la nave queda destruida.",
+    "fr": "Capsule de survie éjectée suite à la destruction d'un vaisseau.",
+    "ja": "船が破壊された際に放出された脱出カプセル。",
+    "ko": "함선 파괴 시 사출되는 탈출 캡슐입니다.",
+    "ru": "Это спасательная капсула, которая вылетает из корабля при его уничтожении.",
+    "zh": "这是在舰船被毁的一刹那弹出的逃生舱。"
+  },
+  "graphicID": 73,
+  "groupID": 818,
+  "mass": 32000.0,
   "name": {
     "de": "Tazmyr's Capsule",
     "en": "Tazmyr's Capsule",
@@ -10,5 +22,9 @@
     "ru": "Tazmyr's Capsule",
     "zh": "塔兹密尔的逃生舱"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 10.0,
+  "sofFactionName": "jovebase",
   "volume": 1000.0
 }

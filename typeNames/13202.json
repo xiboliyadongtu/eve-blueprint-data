@@ -1,5 +1,75 @@
 {
-  "typeID": 13202,
+  "basePrice": 219800000.0,
+  "capacity": 675.0,
+  "description": {
+    "de": "Die Megathron hat sich als eines der meistgefürchteten und angesehensten Schlachtschiffe etabliert. Seit ihrem ersten Auftauchen vor etwa zwanzig Jahren hat sie bemerkenswerte Einsätze in den Außenregionen der Föderation geflogen und dabei geholfen, die Vorherrschaft der Gallente dort auszudehnen und zu festigen. Die Version der Föderation nimmt eine Sonderstellung ein und wird von Präsident Foiritan zur Anerkennung an diejenigen vergeben, deren herausragende Verdienste der gesamten Föderation zugutegekommen sind.",
+    "en": "The Megathron has established itself as one of the most feared and respected battleships around. Since its first appearance almost two decades ago it has seen considerable service in the troublesome regions on the outskirts of the Federation, helping to expand and defend Gallentean influence there.\r\n\r\nThe Federate Issue is a unique ship, commissioned by Gallentean president Foiritan as an honorary award given to those individuals whose outstanding achievements benefit the entire Federation.",
+    "es": "La Megathron se ha convertido en uno de los acorazados más temidos y respetados de la zona. Desde su primera aparición, hace casi dos décadas, ha prestado un gran servicio en las regiones problemáticas de las afueras de la Federación, ayudando a ampliar y defender la influencia gallente.\r\n\r\nLa Megathron modelo de la Federación es una nave única encargada por el presidente gallente Foiritan como premio honorario para los individuos cuyos impresionantes logros benefician a toda la Federación.",
+    "fr": "Le Megathron s'est imposé comme l'un des cuirassés les plus redoutés et les plus respectés. Depuis sa mise en service, il y a bientôt une vingtaine d'années, il a été largement employé dans les régions difficiles à la lisière de la Fédération afin d'étendre et de défendre l'influence gallente. La version de la Fédération est un vaisseau unique commandé par le président gallente Foiritan pour être remis comme récompense honorifique aux individus qui ont accompli des choses extraordinaires au service de toute la Fédération.",
+    "ja": "メガソロンは、ニューエデンで最も畏怖される戦艦のひとつとして知られる。約20年前に初陣を飾って以来、連邦辺境の紛争区域において、ガレンテの影響力拡大と防衛に多大な貢献をしてきた。\n\n連合軍仕様は、連邦全体に対して顕著な貢献をした者への名誉賞としてガレンテ大統領フォラリタンにより与えられる特別な船である。",
+    "ko": "최고의 배틀쉽 중 하나로 적에게는 공포의 대상으로 여겨지고 있습니다. 20년 전 처음 등장한 이래로 국경을 방어하는 데 핵심적인 역할을 했으며 이러한 활약에 힘입어 국경 지대에서 갈란테 연방의 영향력은 한층 더 굳건해졌습니다.<br><br>연방 에디션은 독특한 면모를 지닌 함선으로 포이르탄 대통령의 지시에 따라 제작이 이루어졌습니다. 해당 함선은 갈란테 연방을 위해 탁월한 공로를 세운 자에게 수여됩니다.",
+    "ru": "«Мегатрон» — один из самых смертоносных и уважаемых линкоров в Новом Эдеме. Этот корабль появился почти двадцать лет назад и по сей день эффективно используется в проблемных секторах на границах Федерации для защиты и расширения галлентских территорий. Этот уникальный корабль создан по заказу президента Галлентской Федерации Фойритана для награждения пилотов, чьи выдающиеся достижения способствуют процветанию державы.",
+    "zh": "万王宝座级是最令人望而生畏的战列舰之一。自从大约20年前首次露面以来，万王宝座级在联邦边境星系的多事地区做出了巨大的贡献，为盖伦特的巩固扩张立下了汗马功劳。“万王宝座”联邦型是独一无二的型号，由联邦总统佛里坦特许嘉奖给那些为联邦作出卓越贡献的人。"
+  },
+  "factionID": 500004,
+  "graphicID": 11869,
+  "groupID": 27,
+  "marketGroupID": 1620,
+  "mass": 105200000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      69,
+      138,
+      140,
+      150,
+      89,
+      133
+    ],
+    "1": [
+      96,
+      99,
+      69,
+      138,
+      140,
+      150,
+      89,
+      133
+    ],
+    "2": [
+      96,
+      99,
+      69,
+      138,
+      140,
+      150,
+      89,
+      133
+    ],
+    "3": [
+      96,
+      99,
+      69,
+      138,
+      140,
+      150,
+      89,
+      133
+    ],
+    "4": [
+      96,
+      99,
+      69,
+      138,
+      140,
+      117,
+      150,
+      89,
+      133
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Megathron Federate Issue",
     "en": "Megathron Federate Issue",
@@ -10,5 +80,96 @@
     "ru": "Megathron Federate Issue",
     "zh": "万王宝座级联邦型"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 250.0,
+  "sofFactionName": "fedunique",
+  "soundID": 20072,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 5.0,
+        "bonusText": {
+          "de": "zusätzlicher Bonus auf HP der <a href=showinfo:3394>Verstärkten Schottwand</a>",
+          "en": "additional bonus to <a href=showinfo:3394>Reinforced Bulkhead</a> hitpoints",
+          "es": "de bonificación adicional a los puntos de vida del <a href=showinfo:3394>mamparo reforzado</a>.",
+          "fr": "de bonus supplémentaire aux points de vie de la <a href=showinfo:3394>cloison renforcée</a>",
+          "ja": "<a href=showinfo:3394>強化隔壁</a>HPがさらに増加",
+          "ko": "<a href=showinfo:3394>강화 격벽</a> 내구도 증가",
+          "ru": "дополнительный бонус к прочности <a href=showinfo:3394>укреплённой переборки</a>",
+          "zh": "<a href=showinfo:3394>强化舱隔壁</a>结构值加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der <a href=showinfo:3394>Panzerplatte</a>",
+          "en": "bonus to <a href=showinfo:3394>Armor Plate</a> hitpoints",
+          "es": "de bonificación a los puntos de vida de las <a href=showinfo:3394>placas de blindaje</a>.",
+          "fr": "de bonus aux points de vie du <a href=showinfo:3394>revêtement de blindage</a>",
+          "ja": "<a href=showinfo:3394>アーマープレート</a>HPが増加",
+          "ko": "<a href=showinfo:3394>장갑 플레이트</a> 내구도 증가",
+          "ru": "бонус к прочности <a href=showinfo:3394>бронеплиты</a>",
+          "zh": "<a href=showinfo:3394>装甲附甲板</a>装甲值加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 100.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der <a href=showinfo:3425>Schilderweiterung</a>",
+          "en": "bonus to <a href=showinfo:3425>Shield Extender</a> hitpoints",
+          "es": "de bonificación a los puntos de vida del <a href=showinfo:3425>extensor de escudo</a>.",
+          "fr": "de bonus aux points de vie de l'<a href=showinfo:3425>extenseur de bouclier</a>",
+          "ja": "<a href=showinfo:3425>シールドエクステンダー</a>HPが増加",
+          "ko": "<a href=showinfo:3425>실드 확장장치</a> 실드량 증가",
+          "ru": "бонус к прочности <a href=showinfo:3425>расширителя щитов</a>",
+          "zh": "<a href=showinfo:3425>护盾扩展装置</a>护盾值加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3336": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3307>großen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3307>Large Hybrid Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3307>torreta híbrida grande</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:3307>grandes tourelles hybrides</a>",
+            "ja": "<a href=showinfo:3307>大型ハイブリッドタレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3307>대형 하이브리드 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон боеприпасов <a href=showinfo:3307>больших гибридных орудий</a>",
+            "zh": "<a href=\"showinfo:3307\">大型混合炮台</a>伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Nachführungsgeschwindigkeit von <a href=showinfo:3307>großen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3307>Large Hybrid Turret</a> tracking speed",
+            "es": "de bonificación a la velocidad de rastreo de la <a href=showinfo:3307>torreta híbrida grande</a>.",
+            "fr": "de bonus à la vitesse de poursuite des <a href=showinfo:3307>grandes tourelles hybrides</a>",
+            "ja": "<a href=showinfo:3307>大型ハイブリッドタレット</a>の追跡速度が上昇",
+            "ko": "<a href=showinfo:3307>대형 하이브리드 터렛</a> 트래킹 속도 증가",
+            "ru": "повышается скорость наводки на цель <a href=showinfo:3307>больших гибридных орудий</a>",
+            "zh": "<a href=\"showinfo:3307\">大型混合炮台</a>跟踪速度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 641,
   "volume": 470000.0
 }

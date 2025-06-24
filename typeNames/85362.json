@@ -1,5 +1,18 @@
 {
-  "typeID": 85362,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Das Hauptgerät, das die Sicherheitssysteme dieses Gebiets steuert. Wenn sich Schiffe zu nah heranwagen, die nicht von Driftern gesteuert werden, ist die Authority darauf programmiert, das Gebiet abzuriegeln. Die uralten Protokolle, die die Authority verwendet, können mit einem Reliktanalysegerät gehackt werden, um eine aktive Abriegelung abzubrechen.",
+    "en": "The master device that controls this site's security systems. If any non-Drifter-controlled ships venture too close, the Authority is programmed to trigger a site Lockdown.\r\n\r\nThe ancient protocols the Authority uses can be hacked with a Relic Analyzer, aborting an active Lockdown.",
+    "es": "El dispositivo maestro que controla los sistemas de seguridad de esta zona. Si alguna nave no controlada por los drifters se acerca demasiado, la autoridad está programada para activar un bloqueo de la zona.\r\n\r\nLos protocolos antiguos se pueden hackear con un analizador de reliquias, lo que aborta un bloqueo activo.",
+    "fr": "Le dispositif principal qui contrôle les systèmes de sécurité de ce site. Si des vaisseaux non contrôlés par les Drifters s'aventurent trop près, l'Autorité est programmée pour déclencher un confinement du site. Les protocoles anciens utilisés par l'Autorité peuvent être piratés avec un analyseur de reliques, interrompant un confinement actif.",
+    "ja": "このサイトのセキュリティシステムを管理しているマスターデバイス。ドリフター以外が制御している艦船が一定距離より近づくと、サイトをロックダウンするようプログラムされている。\r\n\r\nデバイスが使用しているプロトコルは旧式で、遺物アナライザーでハッキングすれば実施中のロックダウンを解除できる。",
+    "ko": "사이트의 보안 시스템 전반을 조정하는 장비입니다. 드리프터 소속이 아닌 함선이 접근하면 관리자 권한이 발동해 사이트 폐쇄 조치가 시작됩니다.\r\n\r\n관리자가 발동하는 고대 보안 절차를 유물 분석기로 해킹하면 폐쇄 조치를 해제할 수 있습니다.",
+    "ru": "Главное устройство управления местными системами безопасности. Если любой корабль, не управляемый Скитальцами, подлетит слишком близко, Authority автоматически запускает процедуру изоляции района. С помощью анализатора артефактов можно взломать древние протоколы Authority, прервав действующую изоляцию.",
+    "zh": "控制该遗迹安保系统的主控装置。若有任何非流浪者控制的舰船靠近，主控将自动触发遗迹封锁程序。主控使用的远古协议可通过遗迹分析仪进行破解，从而中止正在进行的封锁程序。"
+  },
+  "graphicID": 28014,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Watchful Authority",
     "en": "Watchful Authority",
@@ -10,5 +23,8 @@
     "ru": "Watchful Authority",
     "zh": "警戒主控"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 241.0,
+  "sofFactionName": "drifter"
 }

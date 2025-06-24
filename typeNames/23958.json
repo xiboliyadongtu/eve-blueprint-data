@@ -1,5 +1,18 @@
 {
-  "typeID": 23958,
+  "capacity": 120.0,
+  "description": {
+    "de": "Dies ist ein Söldner vom Thukker-Stamm. Bekannt für ihre Brutalität, sollte man Thukker-Söldner nicht auf die leichte Schulter nehmen.\r\n\r\nBedrohungsstufe: Mäßig",
+    "en": "This is a mercenary of Thukker origin, who is obviously starting out in his profession.   Threat level: Moderate",
+    "es": "Mercenario de origen thukker que claramente está empezando en esta profesión. Nivel de amenaza: moderado.",
+    "fr": "Il s'agit d'un mercenaire originaire de la tribu thukker qui débute dans la profession.   Niveau de menace : moyen",
+    "ja": "サッカー出身の傭兵で、この道に入ってまだ間もない。危険度:普通",
+    "ko": "터커 부족 출신의 신입 용병입니다. 위험도: 보통",
+    "ru": "Это наемник из племени Thukker, который, по всей видимости, только начал заниматься этим делом. Уровень опасности: умеренный",
+    "zh": "这是一个图克尔血统的雇佣兵，显然他的职业生涯才刚开始。威胁等级：中等"
+  },
+  "graphicID": 1947,
+  "groupID": 826,
+  "mass": 1000000.0,
   "name": {
     "de": "Thukker Mercenary Rookie",
     "en": "Thukker Mercenary Rookie",
@@ -10,5 +23,10 @@
     "ru": "Thukker Mercenary Rookie",
     "zh": "图克尔雇佣兵 新手"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 32.89,
+  "sofFactionName": "thukker",
   "volume": 17400.0
 }

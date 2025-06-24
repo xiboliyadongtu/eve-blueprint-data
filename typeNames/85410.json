@@ -1,5 +1,16 @@
 {
-  "typeID": 85410,
+  "description": {
+    "de": "Eine Drifter-Wächterkanone, bereit, jeden anzugreifen, der eine Sicherheitsabriegelung auslöst. Die uralten Protokolle, auf denen sie läuft, können von einem Reliktanalysegerät gehackt werden, um den Eradicator zu deaktivieren.",
+    "es": "Una torreta centinela drifter preparada para atacar a cualquiera que active un bloqueo de seguridad.\r\n\r\nLos protocolos antiguos que ejecuta los puede hackear un analizador de reliquias, lo que desactiva el erradicador.",
+    "fr": "Un canon sentinelle drifter, prêt à attaquer quiconque déclenche un confinement de sécurité. Les protocoles anciens qu'il utilise peuvent être piratés à l'aide d'un analyseur de reliques, désactivant ainsi l'Éradicateur.",
+    "ja": "ドリフターのセントリーガン。セキュリティ上のロックダウンを引き起こしたものを最優先で攻撃する。\r\n\r\n旧式のプロトコルで稼働しており、遺物アナライザーでハッキングすればイラディケーターを無効化できる。",
+    "ko": "보안 폐쇄 조치가 발동하면 작동하는 드리프터 센트리 포탑입니다.\r\n\r\n센트리 포탑을 활성화하는 고대 보안 절차를 유물 분석기로 해킹하면 박멸자 작동을 중단시킬 수 있습니다.",
+    "ru": "Это стационарное орудие Скитальцев открывает огонь по тем, кто запускает блокировку системы безопасности. С помощью анализатора артефактов можно взломать древние протоколы Eradicator и отключить его системы.",
+    "zh": "一台流浪者岗哨炮塔，它会攻击任何触发安保封锁的目标。该设备运行的远古协议可以通过遗迹分析仪进行破解，将其关闭。"
+  },
+  "graphicID": 28013,
+  "groupID": 319,
+  "mass": 1000.0,
   "name": {
     "de": "Patient Eradicator",
     "en": "Patient Eradicator",
@@ -10,5 +21,9 @@
     "ru": "Patient Eradicator",
     "zh": "耐心清洗者"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 241.0,
+  "sofFactionName": "drifter",
   "volume": 1000.0
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 75923,
+  "description": {
+    "de": "Dieses Signalfeuer markiert eine große militärische Position. Das Eingangstor ist so konfiguriert, dass es alle Schiffe der Schlachtschiffgröße oder kleiner einlässt. Die in diesem Beschleunigungstor installierten Sicherheitsfunktionen verhindern die Aktivierung durch alle mit Warpkern-Stabilisatormodulen ausgestatteten Schiffe.",
+    "en": "This beacon marks a large military location. The entry gate is configured to admit all ships of Battleship size or smaller\r\n\r\nThe security features installed in this acceleration gate will prevent activation by any ship that is fitted with warp core stabilizer modules.",
+    "es": "Esta baliza marca una sede militar grande. El portal de entrada está configurado para admitir a todas las naves de tamaño acorazado o más pequeño.\n\nLas funciones de seguridad instaladas en este portal de aceleración impiden que lo active ninguna nave con módulos estabilizadores del núcleo de warp.",
+    "fr": "Cette balise indique un grand emplacement militaire. Le portail d'entrée est configuré pour accepter tous les vaisseaux dont la taille est inférieure ou égale à celle d'un cuirassé. Les fonctions de sécurité installées sur ce portail d'accélération empêchent tout vaisseau équipé de modules stabilisateurs de réacteur de warp de l'activer.",
+    "ja": "大型の軍事ポイントを示すビーコン。このエントリーゲートは、戦艦サイズ以下の全ての艦船が通過できる設定になっている。\n\nこの加速ゲートに設置されたセキュリティ機能は、ワープコア制御モジュールを装備した艦船が起動するのを防ぐ。",
+    "ko": "대규모 군사 훈련장의 위치를 표시하는 비컨입니다. 배틀쉽 이하 함급의 함선만 입장할 수 있습니다.<br><br>보안 규정에 따라 워프 코어 스태빌라이저 모듈을 탑재한 함선은 입장이 불가능합니다.",
+    "ru": "Этот маяк обозначает большую зону боевых действий. Конфигурация ворот рассчитана на любые суда не крупнее линкора. Система безопасности не позволяет активировать эти разгонные ворота, если корабль оснащён модулями стабилизации варп-ядра.",
+    "zh": "这个信标标记大型的军事设施。入口通道设定为可通行所有船型小于等于战列舰的势力舰船。安装在这个加速轨道中的安全设备会阻止由任何装配跃迁稳定器装备的舰船激活。"
+  },
+  "graphicID": 1211,
+  "groupID": 310,
+  "mass": 1.0,
   "name": {
     "de": "Large Advanced Military Beacon",
     "en": "Large Advanced Military Beacon",
@@ -10,5 +22,9 @@
     "ru": "Large Advanced Military Beacon",
     "zh": "大型高级军事信标"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 30000.0,
+  "sofFactionName": "genericbase",
   "volume": 1.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 16837,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Das Amarr Imperium erstreckt sich über weite Gebiete. Ein Reparaturaußenposten an strategischer Position stellt sicher, dass der Wille des Kaisers auch in der entferntesten Ecke durchgesetzt wird.",
+    "en": "The Amarr Empire spreads far and wide and the presence of repair outposts at strategic locations ensures the will of the Emperor prevails in its every far flung corner.",
+    "es": "El Imperio Amarr se extiende por todas partes y la presencia de puestos avanzados de reparación en ubicaciones estratégicas garantiza que la voluntad del emperador prevalezca en todos sus rincones.",
+    "fr": "L'Empire amarr s'étend sur une zone immense et la présence d'avant-postes de réparation comme points stratégiques lui assure que la volonté de l'Empereur prévaut dans le moindre recoin de son domaine.",
+    "ja": "広大無辺なアマー帝国では、皇帝の意志をはるか辺境にも浸透させるために、戦略的重要地点にリペアアウトポストを配備している。",
+    "ko": "아마르 제국의 드넓은 영토에 전략적으로 위치한 정비기지들은 영토 내 외진 지역까지도 제국의 영향이 닿는다는 것을 드러내고 있습니다.",
+    "ru": "Империя Amarr обширна, и присутствие ремонтных станций в стратегических пунктах гарантирует, что власть Императора будет достигать даже дальних уголков.",
+    "zh": "艾玛帝国幅员辽阔，这座位于战略位置的维修哨站表明，艾玛皇帝的意志即便在最偏僻遥远的角落也必将得到执行。"
+  },
+  "graphicID": 1703,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Amarr Deadspace Repair Unit",
     "en": "Amarr Deadspace Repair Unit",
@@ -10,5 +23,10 @@
     "ru": "Amarr Deadspace Repair Unit",
     "zh": "艾玛死亡空间维修站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 150.0,
+  "sofFactionName": "amarrbase",
   "volume": 100000000.0
 }

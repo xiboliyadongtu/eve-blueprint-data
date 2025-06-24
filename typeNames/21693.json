@@ -1,5 +1,18 @@
 {
-  "typeID": 21693,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Ein Stasis-Sicherheitstresor der Angel. Nahezu unzerstörbar, aber vielleicht kann man den Sicherheitsmechanismus umgehen.",
+    "en": "An Angel  stasis security Vault . Nearly impossible to destroy but perhaps it is possible to bypass its security",
+    "es": "Aunque esta cámara de seguridad en estasis de los Ángeles resulta casi indestructible, quizá sea posible burlar las medidas de seguridad.",
+    "fr": "Coffre de sécurité de stase angel. Il est presque impossible à détruire, mais il est peut-être possible d'en court-circuiter la sécurité.",
+    "ja": "エンジェルステイシスの金庫室。破壊することはほぼ不可能だが、セキュリティを迂回することはできるかもしれない。",
+    "ko": "감속장으로 보호된 엔젤 카르텔 보관소입니다. 파괴는 불가능하지만 보안 시스템을 우회하여 진입할 수는 있습니다.",
+    "ru": "Защищенное стазис-хранилище Angel. Его почти невозможно разрушить, но, вероятно, реально миновать его защиту.",
+    "zh": "一座天使集团的滞力安全保险库。几乎无法破坏，但也许可以绕过它的安全系统。"
+  },
+  "graphicID": 2431,
+  "groupID": 1207,
+  "mass": 10000.0,
   "name": {
     "de": "Basic Angel Vault",
     "en": "Basic Angel Vault",
@@ -10,5 +23,9 @@
     "ru": "Basic Angel Vault",
     "zh": "天使基础保险库"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 75.0,
+  "sofFactionName": "angelbase",
   "volume": 27500.0
 }

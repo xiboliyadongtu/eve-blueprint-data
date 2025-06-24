@@ -1,5 +1,17 @@
 {
-  "typeID": 26968,
+  "description": {
+    "de": "Ein Drohnenbunker.",
+    "en": "A Drone Bunker",
+    "es": "Búnker de drones.",
+    "fr": "Bunker pour drones.",
+    "ja": "ドローンバンカー",
+    "ko": "드론 벙커입니다.",
+    "ru": "A Drone Bunker",
+    "zh": "一座无人机碉堡"
+  },
+  "graphicID": 2583,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Fortified Drone Bunker",
     "en": "Fortified Drone Bunker",
@@ -10,5 +22,10 @@
     "ru": "Fortified Drone Bunker",
     "zh": "强化的无人机堡垒"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 550.0,
+  "sofFactionName": "roguebase",
   "volume": 100000000.0
 }

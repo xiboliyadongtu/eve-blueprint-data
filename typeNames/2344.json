@@ -1,5 +1,18 @@
 {
-  "typeID": 2344,
+  "basePrice": 1.0,
+  "description": {
+    "de": "Oxidiertes Kühlmittel wird benötigt, um die erforderlichen Temperaturen zu erreichen, die dazu notwendig sind, seltene Teilchen durch die Verdichtung gewöhnlicher Materie zu gewinnen, was den wirtschaftlichsten Weg darstellt, wertvolle Basis-Elemente in Massen zu produzieren.",
+    "en": "Oxidized coolant is required to produce the temperatures needed to force rare particles to condense out of ordinary matter, which is the most economic way to produce valuable base elements in bulk.",
+    "es": "El refrigerante oxidado es imprescindible para generar las temperaturas necesarias para forzar a las partículas poco comunes a condensarse a partir de materia ordinaria, que es el modo más económico de producir elementos básicos valiosos en grandes cantidades.",
+    "fr": "Un réfrigérant oxydé est requis pour produire les températures nécessaires pour forcer les particules rares à se condenser en une matière ordinaire, ce qui représente le moyen le plus économique de produire en masse de précieux éléments de base.",
+    "ja": "通常の物質から希少な粒子を強制的に凝縮できる温度を実現するためには、酸化冷却液を必要とする。酸化冷却液は、貴重な基本元素を大量に生成できる最も安価な方法である。",
+    "ko": "산화 냉각수는 물질의 온도를 낮춤으로써 희귀 입자를 추출할 수 있게끔 만들어줍니다. 이러한 추출 방식을 통해 다량의 재료를 효율적으로 생산할 수 있게 됩니다.",
+    "ru": "Окисленные охлаждающие агенты используются для производства температур, необходимых для того, чтобы вызвать осаждение редких частиц из обычного вещества. Это наиболее экономичный способ массового производства основных ценных химических элементов.",
+    "zh": "为了能将稀有粒子强行从普通物质中凝结出来，需要使用氧化冷凝液来实现这个过程，这也是大量生产珍贵的基础元素最为经济的方法。"
+  },
+  "groupID": 1040,
+  "iconID": 10039,
+  "marketGroupID": 1336,
   "name": {
     "de": "Condensates",
     "en": "Condensates",
@@ -10,5 +23,7 @@
     "ru": "Condensates",
     "zh": "凝缩液"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 3.0
 }

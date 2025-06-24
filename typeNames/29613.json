@@ -1,5 +1,20 @@
 {
-  "typeID": 29613,
+  "basePrice": 90000000.0,
+  "capacity": 18500500.0,
+  "description": {
+    "de": "Eine mobile Fertigungsanlage in der große Schiffe wie Schlachtschiffe, Frachter und Industriekommandoschiffe gebaut werden können.\n\n\n\nHinweis: Um ein Schiff aus einer Schiff-Fertigungsanlage heraus verwenden zu können, muss eine Schiffwartungsanlage mit ausreichend freiem Platz in der Nähe sein, um das Schiff dort hinein bewegen zu können.",
+    "en": "A mobile assembly facility where large ships such as Battleships, Freighters and Industrial Command Ships can be manufactured.\r\n\r\nNote: To use a ship from a Ship Assembly Array a Ship Maintenance Array with enough free storage space needs to be in range that the ship can be moved there.",
+    "es": "Instalación de ensamblaje móvil en la que se pueden fabricar naves grandes, como acorazados, cargueros y naves de mando industriales.\n\nAviso: Para usar una nave desde una batería de montaje, es necesario que haya una dársena de mantenimiento de naves cerca con suficiente espacio libre para trasladarla ahí.",
+    "fr": "Module d'assemblage mobile permettant la fabrication de vaisseaux lourds, tels que les cuirassés, les cargos et les vaisseaux de commandement industriel. Remarque : pour utiliser un vaisseau à partir d'un module d'assemblage de vaisseaux, vous devez disposer d'un module de maintenance de vaisseaux à portée avec suffisamment d'espace de stockage pour y placer le vaisseau.)",
+    "ja": "戦艦、超大型輸送艦、指揮型輸送艦などの大型艦船を建造できる移動型組み立て施設。\r\n\n注：艦船組み立て施設から船を取り出して使用するにはその船を移せる範囲内に、十分な空き容量のある艦船整備施設がなければならない。",
+    "ko": "배틀쉽, 프레이터, 그리고 인더스트리얼 커맨드쉽과 같은 대형 함선을 생산할 수 있는 이동식 생산 시설입니다. <br><br>참고: 함선 건조 시설에서 제작된 함선을 이용하기 위해서는 여유 적재공간이 있는 함선 정비 시설이 범위 내에 존재해야 합니다.",
+    "ru": "Блок-завод для производства кораблей большого и сверхбольшого тоннажа, таких как линкоры, фрейтеры и флагманы буровых групп.\n\n\n\nЧтобы воспользоваться построенным кораблем, вам придется переместить его в находящийся достаточно близко ангарный блок, в котором при этом должно быть достаточно свободного места.",
+    "zh": "一座移动式装配设施，在这里可以生产大型舰船，如战列舰、货舰和工业指挥舰。\n\n\n\n注：若要使用来自舰船组装阵列的舰船，在舰船可被转移的范围内应该存在舰船维护阵列，并带有足够的可用存储空间以接收该船。"
+  },
+  "graphicID": 2625,
+  "groupID": 397,
+  "marketGroupID": 932,
+  "mass": 200000000.0,
   "name": {
     "de": "Large Ship Assembly Array",
     "en": "Large Ship Assembly Array",
@@ -10,5 +25,9 @@
     "ru": "Large Ship Assembly Array",
     "zh": "大型舰船组装阵列"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 1857.0,
+  "sofFactionName": "genericbase",
   "volume": 25000.0
 }

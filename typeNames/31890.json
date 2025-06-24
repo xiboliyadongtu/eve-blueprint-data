@@ -1,5 +1,20 @@
 {
-  "typeID": 31890,
+  "basePrice": 15000.0,
+  "description": {
+    "de": "Mittlere Aufklärungsdrohne",
+    "en": "Medium Scout Drone",
+    "es": "Dron de reconocimiento mediano",
+    "fr": "Drone de reconnaissance intermédiaire.",
+    "ja": "ミディアムスカウトドローン",
+    "ko": "미디움 스카우트 드론",
+    "ru": "Средний разведывательный дрон",
+    "zh": "中型侦察无人机"
+  },
+  "graphicID": 20266,
+  "groupID": 100,
+  "marketGroupID": 838,
+  "mass": 5000.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Republic Fleet Valkyrie",
     "en": "Republic Fleet Valkyrie",
@@ -10,5 +25,11 @@
     "ru": "Republic Fleet Valkyrie",
     "zh": "共和舰队瓦尔基里"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 20.0,
+  "sofFactionName": "minmatarnavy",
+  "variationParentTypeID": 15510,
   "volume": 10.0
 }

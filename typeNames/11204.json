@@ -1,5 +1,17 @@
 {
-  "typeID": 11204,
+  "basePrice": 79000.0,
+  "description": {
+    "de": "Verbesserte Fertigkeit zur Installation von Upgrades wie zum Beispiel Capacitor Batteries und Power Diagnostics.\r\n\r\nWeitere 2% Bonus auf den CPU-Verbrauch von Energy Grid Upgrades.",
+    "en": "Advanced Skill at installing power upgrades e.g. capacitor battery and power diagnostic units. a further a further 2% reduction in energy grid upgrade CPU needs.",
+    "es": "Habilidad avanzada para instalar mejoras de potencia como, por ejemplo, baterías del condensador y unidades de diagnóstico de potencia. 2 % de reducción de las necesidades de CPU de las mejoras del sistema de energía.",
+    "fr": "Compétence avancée liée à l'installation d'améliorations de réseau d'alimentation telles que les batteries de capaciteur et les unités de diagnostic de puissance. Réduit également de 2 % les contraintes de CPU des améliorations du réseau d'alimentation.",
+    "ja": "パワー強化をインストールするための上級スキル。キャパシタバッテリーやパワー計測ユニットが該当する。エネルギー回路強化のCPU使用量が更に2%減少する。",
+    "ko": "캐패시터 배터리나 전력 진단 장치같은 동력 업그레이드 설치를 위한 상급 스킬입니다. 매 레벨마다 에너지그리드 업그레이드 스킬을 요구하는 모듈의 CPU 요구치 2% 감소",
+    "ru": "Углублённый навык монтажа модулей для энергосистемы корабля, например, дополнительных батарей накопителя и систем диагностики энергоснабжения.  За каждую степень освоения навыка дополнительно сокращается потребность модулей этого типа в мощностях ЦПУ.",
+    "zh": "安装能量升级装备的高级技能，例如电容器电池和能源诊断单元等。进一步减少能量栅格升级类装备的CPU需求2%。"
+  },
+  "groupID": 1216,
+  "iconID": 33,
   "name": {
     "de": "Advanced Energy Grid Upgrades",
     "en": "Advanced Energy Grid Upgrades",
@@ -10,5 +22,7 @@
     "ru": "Спецкурс управления реактором",
     "zh": "高级能量栅格提升"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

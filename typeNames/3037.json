@@ -1,5 +1,17 @@
 {
-  "typeID": 3037,
+  "description": {
+    "de": "Diese modifizierte Wolfram-Hybrid-Munition sendet einen ECM-Impuls durch die Hülle jedes getroffenen Schiffes, was die Zielerfassungssysteme augenblicklich täuscht und dem bisher aufgeschalteten Schiff ein paar wertvolle Sekunden zur Flucht oder zur Erlangung eines Vorteils schenkt. Es werden Anstrengungen unternommen, dies in eine reine Freund- oder-Feind-Munition weiterzuentwickeln, welche den Auswirkungen feindlicher ECM-Impulse effektiv entgegenwirken soll. Die Umwandlung von raketenbasierter Nachführung zu hybriden Granatsystemen erweist sich jedoch als schwierig.",
+    "en": "These modified tungsten hybrid rounds send out an ECM pulse through the hull of any ship they strike, momentarily baffling the ship's target-locking mechanisms and affording the formerly-targeted ship a few precious moments to gain an advantage or escape. Efforts are being made to develop this into purely friend-or-foe munitions, effectively counteracting the effects of enemy ECM, but adaptation of the missile-based tracking technology to hybrid shell systems has proven difficult.",
+    "es": "Estos proyectiles híbridos de tungsteno modificados envían un pulso de ECM que atraviesa el casco de cualquier nave a la que alcanzan y desestabiliza momentáneamente los mecanismos de fijación de objetivos, lo que ofrece un par de valiosos segundos a la nave fijada para sacar ventaja o escapar. Se trabaja para convertirlos en munición con identificación de amigo o enemigo que contrarreste de manera eficaz los efectos de las contramedidas electrónicas rivales, pero está resultando difícil adaptar la tecnología de rastreo basada en misiles para transformarla en sistemas de proyectiles híbridos.",
+    "fr": "Ces munitions hybrides modifiées à base de tungstène envoient une impulsion CME à travers la coque du vaisseau ciblé, déroutant temporairement les mécanismes de verrouillage de cible du vaisseau, et permettant ainsi au vaisseau ciblé de profiter de quelques secondes pour échapper à son bourreau. Les ingénieurs essaient actuellement de développer cette munition en FoF, afin de contrer les effets des CME ennemies, mais l'adaptation de la technologie de poursuite basée sur les missiles aux systèmes d'obus hybrides s'est avérée plus compliquée que prévu.",
+    "ja": "改造されたタングステン製のハイブリッド弾は、命中した船の船体を通過してECMパルスを送出する。少しの間船のターゲットロック機構を妨害するため、アドバンテージをとる、あるいは逃げるためのいくばくかの貴重な時間をかせぐことができる。これを純粋な敵/味方識別軍需品に発展させて敵のECMの効果を効率的に無効にするために労力がさかれたが、ミサイルベースの追跡テクノロジーをハイブリッドシェルシステムへ適用することは難しいことが分かった。",
+    "ko": "개조된 텅스텐 하이브리드탄은 피격시 ECM 펄스를 대상 함선에 일으켜 타겟팅 시스템을 일시적으로 마비시킬 수 있습니다. 해당 탄에 피아식별 기능을 추가하여 적의 ECM 펄스에 대항하는 기술이 현재 연구 중에 있지만 미사일 무기에 적용된 트래킹 기술을 포탄화기에 적용하는 것에는 상당한 기술장벽이 있어 큰 진전이 없는 상태입니다.",
+    "ru": "Эти модифицированные вольфрамовые боеприпасы гибридного действия посылают электромагнитный импульс сквозь корпус цели, на мгновение выводя из строя его системы целеуказания и позволяя ведущему огонь кораблю выиграть несколько драгоценных секунд для побега. Техники пытаются превратить их в настоящие снаряды «свой-чужой», которые бы позволили эффективно противодействовать системам РЭБ противника, но пока что попытки интегрировать системы наведения ракет в снаряды гибридного действия успехом не увенчались.",
+    "zh": "这些进过改进的钨混合弹药能发出一股穿透整个目标舰船的脉冲，致使被击舰船的锁定系统暂时失效，这样运用该弹药的舰船便能获得一丝宝贵的喘息时间去撤离或者转守为攻。虽然该弹药目前正在进行新一轮改造以具备FoF功能（这样便能有效抵御敌方的ECM），但实际进展并不顺利，这也表明将一项原本运用在导弹上的技术移植给混合弹药并非易事。"
+  },
+  "groupID": 314,
+  "iconID": 1323,
+  "mass": 10.0,
   "name": {
     "de": "Crate of Experimental ECM Hybrid Rounds",
     "en": "Crate of Experimental ECM Hybrid Rounds",
@@ -10,5 +22,7 @@
     "ru": "Crate of Experimental ECM Hybrid Rounds",
     "zh": "一箱试验型ECM混合弹药"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 10.0
 }

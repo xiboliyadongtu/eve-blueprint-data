@@ -1,5 +1,18 @@
 {
-  "typeID": 10041,
+  "description": {
+    "de": "Eine menschliche Leiche.",
+    "en": "A human corpse.",
+    "es": "Cuerpo humano.",
+    "fr": "Cadavre humain.",
+    "ja": "人間の死体。",
+    "ko": "인간의 시체입니다.",
+    "ru": "Человеческий труп.",
+    "zh": "一具人类的尸体。"
+  },
+  "graphicID": 20373,
+  "groupID": 226,
+  "iconID": 398,
+  "mass": 200.0,
   "name": {
     "de": "Frozen Corpse",
     "en": "Frozen Corpse",
@@ -10,5 +23,8 @@
     "ru": "Frozen Corpse",
     "zh": "冰冻的尸体"
   },
+  "portionSize": 1,
+  "published": false,
+  "sofFactionName": "medium",
   "volume": 2.0
 }

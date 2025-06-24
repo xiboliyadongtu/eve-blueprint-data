@@ -1,5 +1,70 @@
 {
-  "typeID": 11184,
+  "basePrice": 15200000.0,
+  "capacity": 90.0,
+  "description": {
+    "de": "Abfangjäger verwenden eine Kombination spezieller Legierungen und Elektronik, um ihren Signaturradius zu verringern. Zusammen mit überlegener Wendigkeit und Geschwindigkeit macht sie das vor allem für großkalibrige Waffentürme zu einem kaum aufschalt- und nachverfolgbaren Ziel. ",
+    "en": "Interceptors utilize a combination of advanced alloys and electronics to reduce their effective signature radius. This, along with superior maneuverability and speed, makes them very hard to target and track, particularly for high caliber turrets. ",
+    "es": "Los interceptores utilizan una combinación de aleaciones y componentes electrónicos avanzados para reducir su radio de señal efectivo. Esto, junto con una maniobrabilidad y velocidad superiores, los hace muy difíciles de apuntar y rastrear, sobre todo para torretas de alto calibre. ",
+    "fr": "Les intercepteurs réduisent leur rayon de signature à l'aide d'une combinaison d'alliages et de systèmes électroniques avancés. Ils sont rapides et très maniables, ce qui les rend difficiles à verrouiller et à suivre, en particulier pour les tourelles de gros calibre. ",
+    "ja": "ワープ妨害型フリゲートは高性能合金とエレクトロニクスを組み合わせ、シグネチャ半径を小さく抑えている。更に、機動性および速度に優れているため、照準追跡がたいへん難しく、特に大口径タレットにとっては苦手な標的である。 ",
+    "ko": "인터셉터는 각종 첨단 장치와 전자 시스템을 통해 기체의 시그니처 반경을 감소시킵니다. 그 외에도 기동성 및 비행 속도가 우수하여 추적 및 타겟팅 난이도가 상당히 높습니다. ",
+    "ru": "Перехватчики обладают повышенной скоростью и манёвренностью, а в их электронных системах используются современные проводники и сплавы, позволяющие уменьшить радиус сигнатуры, поэтому орудия — особенно турели крупного калибра — с большим трудом обнаруживают и отслеживают такие корабли. ",
+    "zh": "截击舰利用高级合金和电子设备来减小其有效信号半径。同时，它还拥有出众的机动性和速度，因此很难被武器锁定和追踪，尤其是大口径炮台。 "
+  },
+  "factionID": 500003,
+  "graphicID": 1921,
+  "groupID": 831,
+  "marketGroupID": 400,
+  "mass": 1050000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      50,
+      117,
+      150,
+      89,
+      93,
+      94
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Crusader",
     "en": "Crusader",
@@ -10,5 +75,128 @@
     "ru": "Crusader",
     "zh": "十字军级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 27.0,
+  "sofFactionName": "carthum",
+  "soundID": 20063,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 60.0,
+        "bonusText": {
+          "de": "Bonus auf die Warpgeschwindigkeit und Warpbeschleunigung",
+          "en": "bonus to warp speed and warp acceleration",
+          "es": "de bonificación a la velocidad y la aceleración de warp.",
+          "fr": "de bonus à la vitesse de warp et à l'accélération de warp",
+          "ja": "ワープ速度とワープ加速度が上昇",
+          "ko": "워프 속도 및 워프 가속도 증가",
+          "ru": "бонус к разгону и скорости хода (в варп-режиме)",
+          "zh": "跃迁速度和跃迁加速加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonus": 80.0,
+        "bonusText": {
+          "de": "Reduktion der Aktivierungskosten von<a href=showinfo:3435>Antriebsblockern</a>",
+          "en": "reduction in <a href=showinfo:3435>Propulsion Jamming</a> systems activation cost",
+          "es": "de reducción en el coste de activación de los sistemas <a href=showinfo:3435>perturbadores de propulsión</a>.",
+          "fr": "de réduction du coût d'activation des systèmes de <a href=showinfo:3435>brouillage de propulsion</a>",
+          "ja": "<a href=showinfo:3435>推進力ジャミング</a>システムの起動コストが軽減",
+          "ko": "<a href=showinfo:3435>추진기 재밍</a>시스템 활성화 비용 감소",
+          "ru": "сокращается потребление энергии <a href=showinfo:3435>средствами ограничения подвижности кораблей</a>",
+          "zh": "<a href=\"showinfo:3435\">推进抑制</a>系统启动消耗减少"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 100.0,
+        "bonusText": {
+          "de": "Bonus auf den Nutzen der Überhitzung von Nachbrennern und Mikrowarpantrieben",
+          "en": "bonus to the benefits of overheating Afterburners and Microwarpdrives",
+          "es": "de bonificación a los beneficios de posquemadores y motores de microwarp sobrecalentados.",
+          "fr": "de bonus aux avantages de la surchauffe sur les systèmes de post-combustion et les propulseurs de microwarp",
+          "ja": "オーバーヒートしたアフターバーナーとマイクロワープドライブの恩恵にボーナス",
+          "ko": "애프터버너 및 마이크로 워프 드라이브 과부하 효과 증가",
+          "ru": "бонус к преимуществам перегрева форсажных ускорителей и микроварп-ускорителей",
+          "zh": "加力燃烧器和微型跃迁推进器过载效果加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3331": [
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Reduktion der Aktivierungskosten von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a>",
+            "en": "reduction in <a href=showinfo:3303>Small Energy Turret</a> activation cost",
+            "es": "de reducción del coste de activación de la <a href=showinfo:3303>torreta de energía pequeña</a>.",
+            "fr": "de réduction du coût d'activation des <a href=showinfo:3303>petites tourelles à énergie</a>",
+            "ja": "<a href=showinfo:3303>小型エネルギータレット</a>の起動コストが軽減",
+            "ko": "<a href=showinfo:3303>소형 에너지 터렛</a> 활성화 비용 감소",
+            "ru": "сокращается расход энергии при ведении огня из <a href=showinfo:3303>малых лазерных орудий</a>",
+            "zh": "<a href=\"showinfo:3303\">小型能量炮台</a>启动消耗减少"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3303>Small Energy Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3303>torreta de energía pequeña</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:3303>petites tourelles à énergie</a>",
+            "ja": "<a href=showinfo:3303>小型エネルギータレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3303>소형 에너지 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон <a href=showinfo:3303>малых лазерных орудий</a>",
+            "zh": "<a href=\"showinfo:3303\">小型能量炮台</a>伤害加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ],
+      "12092": [
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Nachführungsgeschwindigkeit von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3303>Small Energy Turret</a> tracking speed",
+            "es": "de bonificación a la velocidad de rastreo de la <a href=showinfo:3303>torreta de energía pequeña</a>.",
+            "fr": "de bonus à la vitesse de poursuite des <a href=showinfo:3303>petites tourelles à énergie</a>",
+            "ja": "<a href=showinfo:3303>小型エネルギータレット</a>の追跡速度が上昇",
+            "ko": "<a href=showinfo:3303>소형 에너지 터렛</a> 트래킹 속도 증가",
+            "ru": "повышается скорость наводки на цель <a href=showinfo:3303>малых лазерных орудий</a>",
+            "zh": "<a href=\"showinfo:3303\">小型能量炮台</a>跟踪速度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 15.0,
+          "bonusText": {
+            "de": "Reduktion des <a href=showinfo:3454>Mikrowarpantrieb</a>-Signaturradius",
+            "en": "reduction in <a href=showinfo:3454>Microwarpdrive</a> signature radius penalty",
+            "es": "de reducción de la penalización de radio de la señal del <a href=showinfo:3454>motor de microwarp</a>.",
+            "fr": "de réduction à la pénalité de rayon de signature des <a href=showinfo:3454>propulseurs de microwarp</a>",
+            "ja": "<a href=showinfo:3454>マイクロワープドライブ</a>のシグネチャ半径ペナルティが軽減",
+            "ko": "<a href=showinfo:3454>마이크로 워프 드라이브</a> 시그니처 반경 페널티 감소",
+            "ru": "уменьшается влияние <a href=showinfo:3454>микроварп-ускорителей</a> на размер сигнатуры корабля",
+            "zh": "<a href=\"showinfo:3454\">微型跃迁推进器</a>的信号半径惩罚加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 589,
   "volume": 28100.0
 }

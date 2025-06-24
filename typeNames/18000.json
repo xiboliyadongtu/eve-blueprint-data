@@ -1,5 +1,18 @@
 {
-  "typeID": 18000,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Königin eines Drohnennests",
+    "en": "Drone hive mother",
+    "es": "Madre de la colmena de drones.",
+    "fr": "Reine de la ruche de drones.",
+    "ja": "ドローンのハイブマザー",
+    "ko": "드론 하이브 모선입니다.",
+    "ru": "Королева улья дронов",
+    "zh": "无人机机巢母体"
+  },
+  "graphicID": 2565,
+  "groupID": 383,
+  "mass": 1000.0,
   "name": {
     "de": "Hive mother",
     "en": "Hive mother",
@@ -10,5 +23,9 @@
     "ru": "Hive mother",
     "zh": "机巢母体"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 4500.0,
+  "sofFactionName": "roguebase",
   "volume": 1000.0
 }

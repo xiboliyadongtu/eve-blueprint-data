@@ -1,5 +1,18 @@
 {
-  "typeID": 3636,
+  "description": {
+    "de": "Eine mehrläufige Schnellfeuer-Projektilwaffe, die nicht viel Energie benötigt und einen nicht abreißenden Schaden verursacht. Erzeugt ihre eigene Munition aus Partikeln im Weltraum. Kann keine Standardprojektilmunition verwenden.",
+    "en": "Low powered, rapid fire multi-barreled projectile weapon that delivers a steady stream of damage. Generates Its own ammo from space particles. Cannot use standard projectile ammo.",
+    "es": "Arma de proyectiles con varios cañones de disparo rápido y baja potencia que inflige un flujo de daño constante. Genera su propia munición a partir de partículas espaciales. No admite munición de proyectiles estándar.",
+    "fr": "Arme à projectiles à tir rapide et à faible consommation d'énergie composée de plusieurs tubes assurant un feu nourri et régulier. Génère ses propres munitions à partir de particules spatiales. Elle ne peut pas utiliser de munitions de projectile standard.",
+    "ja": "マルチバレル式プロジェクタイル兵器。威力は弱いが速射能力が高く、間断なく砲撃を浴びせることができる。空間に浮遊する粒子から実弾を生成する。標準のプロジェクタイル弾は使用できない。",
+    "ko": "전력소모가 낮은 속사형 다중배럴 발사체 무기로 적에게 지속적인 피해를 입힙니다. 우주의 입자를 활용하여 장전되는 탄약을 직접 생성해냅니다. 표준 발사체 탄약은 사용할 수 없습니다.",
+    "ru": "Многоствольная артиллерийская установка низкой мощности, способная вести быстрый и непрерывный огонь. \n\nАвтоматически пополняет свой боезапас; для изготовления снарядов использует мелкие частицы, собираемые из забортного пространства. Не может вести огонь стандартными снарядами.",
+    "zh": "低能量，快速发射的多管射弹武器，可以产生较为稳定的持续破坏力。它能够从空间物质中自行产生弹药，不能使用标准的射弹弹药。"
+  },
+  "graphicID": 11161,
+  "groupID": 53,
+  "iconID": 387,
+  "mass": 500.0,
   "name": {
     "de": "Civilian Gatling Autocannon",
     "en": "Civilian Gatling Autocannon",
@@ -10,5 +23,8 @@
     "ru": "Civilian Gatling Autocannon",
     "zh": "民用加特林自动加农炮"
   },
+  "portionSize": 1,
+  "published": false,
+  "sofFactionName": "minmatarbase",
   "volume": 5.0
 }

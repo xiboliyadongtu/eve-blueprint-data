@@ -1,5 +1,16 @@
 {
-  "typeID": 20127,
+  "description": {
+    "de": "Täuschungsfertigkeit (Fake Skill), um Boni, die nur für Tarnkappenbomber (Stealth Bomber) verfügbar sind, auf Cruise-Missile-Abschussgeräte anwenden zu können.",
+    "en": "Fake Skill to give the Stealth Bombers bonuses only to Cruise Missile Launchers.",
+    "es": "Habilidad falsa para dar las bonificaciones de bombarderos sigilosos solo a los lanzamisiles de crucero.",
+    "fr": "Fausse compétence pour accorder les bonus de bombardiers furtifs uniquement aux lance-missiles de croisière.",
+    "ja": "ステルス爆撃艦にボーナスを与えるフェイクスキル。クルーズミサイルランチャーのみが対象。",
+    "ko": "스텔스 폭격기에 크루즈 미사일 런처 보너스를 부여하는 가짜 스킬입니다.",
+    "ru": "Фальшивый навык, дающий бонус за навык управления ударно-диверсионными бомбардировщиками только ПУ дальнобойных ракет.",
+    "zh": "一个虚构技能，让隐形轰炸舰仅对巡航导弹发射器具有加成。"
+  },
+  "groupID": 505,
+  "iconID": 33,
   "name": {
     "de": "Stealth Bombers Fake Skill",
     "en": "Stealth Bombers Fake Skill",
@@ -10,5 +21,7 @@
     "ru": "Подложный навык ударно-диверсионных бомбардировщиков",
     "zh": "隐形轰炸舰虚构技能"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

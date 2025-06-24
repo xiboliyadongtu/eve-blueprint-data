@@ -1,5 +1,18 @@
 {
-  "typeID": 20527,
+  "basePrice": 80000000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Gallente-Frachtern.",
+    "en": "Skill at operating Gallente freighters.",
+    "es": "Habilidad en el manejo de cargueros gallentes.",
+    "fr": "Compétence permettant de manœuvrer des transports de fret gallente.",
+    "ja": "ガレンテ超大型輸送艦を操作するスキル。",
+    "ko": "갈란테 프레이터를 운용하기 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на фрейтерах производства Галлентской Федерации.",
+    "zh": "操作盖伦特货舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Gallente Freighter",
     "en": "Gallente Freighter",
@@ -10,5 +23,7 @@
     "ru": "Галлентские фрейтеры",
     "zh": "盖伦特货舰操作"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

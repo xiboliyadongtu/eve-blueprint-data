@@ -1,5 +1,75 @@
 {
-  "typeID": 32309,
+  "basePrice": 219800000.0,
+  "capacity": 815.0,
+  "description": {
+    "de": "Die Bauweise dieses Schiffes widerspricht der Philosophie der Caldari radikal, besonders wenn man es mit seinem Gegenstück aus der normalen Scorpion-Klasse vergleicht. Das Konzept der elektronischen Kriegsführung wurde hier außer Acht gelassen, stattdessen dachte man bei der Konstruktion an direkte Kampfsituationen und machte das Schiff zu einem überlegenen, angriffsstarken Monster mit erstklassigen Schutzschilden.",
+    "en": "This ship's design represents a radical turnaround in Caldari philosophy, particularly when compared to that of its regular Scorpion-class counterpart. Abandoning the concept of an electronic warfare platform, this vessel's creators instead set their sights on direct combat, with superior shielding and offensive capabilities giving this monster the undeniable upper hand in a vast range of tactical situations.",
+    "es": "El diseño de esta nave representa un giro radical en la filosofía caldari, sobre todo en comparación con la de su homóloga habitual de clase Scorpion. Sus creadores abandonaron el concepto de una plataforma de guerra electrónica y se centraron en el combate directo, con escudos y capacidades ofensivas superiores que hacen que este monstruo tenga las de ganar en una amplia gama de situaciones tácticas.",
+    "fr": "Ce type de conception représente un tournant majeur de la philosophie caldari, particulièrement si on le compare à son homologue de l'habituelle classe Scorpion. Abandonnant le concept de plateforme de guerre électronique, les créateurs de ce vaisseau ont mis l'accent sur le combat direct, dotant l'engin de systèmes de boucliers et de capacités offensives bien supérieurs qui lui assurent d'avoir le dessus dans un large éventail de situations tactiques.",
+    "ja": "この船の設計は、カルダリの哲学の急進的な転換を物語っている。これは、通常のスコーピオン級の同等物と比較すれば明らかだ。この船の製作者が電子戦プラットフォームのコンセプトを捨て、直接の戦闘を目的とした優れた防衛と攻撃的な機能を備えたことで、この怪物は幅広い戦略的状況で優位に立つことになった。",
+    "ko": "칼다리 설계 철학과 정반대의 특징을 지닌 함선으로써 기존 스콜피온급과 비교하게 되면 이러한 차이점은 더욱 뚜렷하게 드러납니다. 전자전이 아닌 직접적인 교전을 위해 설계되었으며 강력한 실드 및 공격 능력을 바탕으로 각종 전술적 상황에서 우세를 점하는 것이 가능합니다.",
+    "ru": "Конструкция этого корабля отражает радикальную смену боевой философии калдарцев, особенно при сравнении с типовым проектом «Скорпион». Разработчики отказались от привычной концепции платформы для электронного подавления и вместо этого поставили целью эффективность в лобовом боестолкновении. Мощные силовые поля и превосходные наступательные способности дают этому чудовищу неоспоримое преимущество во множестве тактических ситуаций.",
+    "zh": "这艘舰船的设计概念体现了加达里哲学理念的重大转变，特别在同其他普通毒蝎级作比较时尤为明显。它的设计放弃了作为电子战平台的设想，而是被设计成为一艘直接战斗舰船。它所具备的超强防护和攻击能力使得这个巨兽成为多种战术状况中不可否认的能手。"
+  },
+  "factionID": 500001,
+  "graphicID": 3815,
+  "groupID": 27,
+  "marketGroupID": 1379,
+  "mass": 103600000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      150,
+      138,
+      139,
+      77,
+      85,
+      165
+    ],
+    "1": [
+      96,
+      99,
+      150,
+      138,
+      139,
+      77,
+      85,
+      165
+    ],
+    "2": [
+      96,
+      99,
+      150,
+      138,
+      139,
+      77,
+      85,
+      165
+    ],
+    "3": [
+      96,
+      99,
+      150,
+      138,
+      139,
+      77,
+      85,
+      165
+    ],
+    "4": [
+      96,
+      99,
+      150,
+      138,
+      139,
+      77,
+      85,
+      118,
+      165
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Scorpion Navy Issue",
     "en": "Scorpion Navy Issue",
@@ -10,5 +80,96 @@
     "ru": "Scorpion Navy Issue",
     "zh": "毒蝎级海军型"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 250.0,
+  "sofFactionName": "caldarinavy",
+  "soundID": 20068,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 5.0,
+        "bonusText": {
+          "de": "zusätzlicher Bonus auf HP der <a href=showinfo:3394>Verstärkten Schottwand</a>",
+          "en": "additional bonus to <a href=showinfo:3394>Reinforced Bulkhead</a> hitpoints",
+          "es": "de bonificación adicional a los puntos de vida del <a href=showinfo:3394>mamparo reforzado</a>.",
+          "fr": "de bonus supplémentaire aux points de vie de la <a href=showinfo:3394>cloison renforcée</a>",
+          "ja": "<a href=showinfo:3394>強化隔壁</a>HPがさらに増加",
+          "ko": "<a href=showinfo:3394>강화 격벽</a> 내구도 증가",
+          "ru": "дополнительный бонус к прочности <a href=showinfo:3394>укреплённой переборки</a>",
+          "zh": "<a href=showinfo:3394>强化舱隔壁</a>结构值加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der <a href=showinfo:3394>Panzerplatte</a>",
+          "en": "bonus to <a href=showinfo:3394>Armor Plate</a> hitpoints",
+          "es": "de bonificación a los puntos de vida de las <a href=showinfo:3394>placas de blindaje</a>.",
+          "fr": "de bonus aux points de vie du <a href=showinfo:3394>revêtement de blindage</a>",
+          "ja": "<a href=showinfo:3394>アーマープレート</a>HPが増加",
+          "ko": "<a href=showinfo:3394>장갑 플레이트</a> 내구도 증가",
+          "ru": "бонус к прочности <a href=showinfo:3394>бронеплиты</a>",
+          "zh": "<a href=showinfo:3394>装甲附甲板</a>装甲值加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 100.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der <a href=showinfo:3425>Schilderweiterung</a>",
+          "en": "bonus to <a href=showinfo:3425>Shield Extender</a> hitpoints",
+          "es": "de bonificación a los puntos de vida del <a href=showinfo:3425>extensor de escudo</a>.",
+          "fr": "de bonus aux points de vie de l'<a href=showinfo:3425>extenseur de bouclier</a>",
+          "ja": "<a href=showinfo:3425>シールドエクステンダー</a>HPが増加",
+          "ko": "<a href=showinfo:3425>실드 확장장치</a> 실드량 증가",
+          "ru": "бонус к прочности <a href=showinfo:3425>расширителя щитов</a>",
+          "zh": "<a href=showinfo:3425>护盾扩展装置</a>护盾值加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3338": [
+        {
+          "bonus": 4.0,
+          "bonusText": {
+            "de": "Bonus auf alle Schildresistenzen",
+            "en": "bonus to all shield resistances",
+            "es": "de bonificación a todas las resistencias de escudo.",
+            "fr": "de bonus à toutes les résistances de bouclier",
+            "ja": "全てのシールドレジスタンスが増加",
+            "ko": "모든 실드 저항력 증가",
+            "ru": "повышается сопротивляемость щитов корабля всем видам воздействия",
+            "zh": "护盾抗性加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf die Feuerrate von schnellen <a href=showinfo:3324>schweren Lenkwaffen-</a>, <a href=showinfo:3326>Marschflugkörper-</a> und <a href=showinfo:3325>Torpedo</a>-Werfern",
+            "en": "bonus to Rapid <a href=showinfo:3324>Heavy Missile</a>, <a href=showinfo:3326>Cruise Missile</a> and <a href=showinfo:3325>Torpedo</a> Launcher rate of fire",
+            "es": "de bonificación a la cadencia de tiro rápida de los <a href=showinfo:3324>lanzamisiles pesados</a>, los <a href=showinfo:3326>lanzamisiles de crucero</a> y los <a href=showinfo:3325>lanzatorpedos</a>.",
+            "fr": "de bonus à la cadence de tir des <a href=showinfo:3324>lance-missiles lourds</a>, <a href=showinfo:3326>lance-missiles de croisière</a> et <a href=showinfo:3325>lance-torpilles</a> rapides",
+            "ja": "高速<a href=showinfo:3324>ヘビーミサイル</a>・<a href=showinfo:3326>クルーズミサイル</a>・<a href=showinfo:3325>トルピード</a>ランチャーの発射間隔が短縮",
+            "ko": "급속 <a href=showinfo:3324>헤비 미사일</a>, <a href=showinfo:3326>크루즈 미사일</a>, <a href=showinfo:3325>토피도</a> 런처 연사속도 증가",
+            "ru": "повышается скорострельность <a href=showinfo:3325>торпедных аппаратов</a>, ПУ <a href=showinfo:3326>дальнобойных ракет</a>, скорострельных ПУ <a href=showinfo:3324>тяжёлых ракет</a>",
+            "zh": "<a href=\"showinfo:3324\">重型快速导弹</a>、<a href=\"showinfo:3326\">巡航导弹</a>和<a href=\"showinfo:3325\">鱼雷</a>发射器射速加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 640,
   "volume": 468000.0
 }

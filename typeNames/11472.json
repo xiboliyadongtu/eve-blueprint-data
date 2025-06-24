@@ -1,5 +1,17 @@
 {
-  "typeID": 11472,
+  "basePrice": 92928.0,
+  "description": {
+    "de": "Ein nicht registrierter Uplink zum Netzwerk der Corporation.",
+    "en": "An unregistered uplink to the corporate network.",
+    "es": "Un enlace no registrado en la red corporativa.",
+    "fr": "Liaison montante non enregistrée vers le réseau corporatif.",
+    "ja": "コーポレートネットワークへの未登録アップリンク。",
+    "ko": "기업 네트워크에 등록되지 않은 위성 연결입니다.",
+    "ru": "Незарегистрированное подключение к корпоративной сети.",
+    "zh": "连接至军团网络的未注册上行链路。"
+  },
+  "groupID": 332,
+  "iconID": 2222,
   "name": {
     "de": "Hyper Net Uplink",
     "en": "Hyper Net Uplink",
@@ -10,5 +22,7 @@
     "ru": "Hyper Net Uplink",
     "zh": "超链接上行线"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 15.0
 }

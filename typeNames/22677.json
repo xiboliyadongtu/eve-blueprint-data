@@ -1,5 +1,16 @@
 {
-  "typeID": 22677,
+  "description": {
+    "de": "Eine Atron, die von einem Agenten geflogen wird.",
+    "en": "An Atron piloted by an agent.",
+    "es": "Atron pilotada por un agente.",
+    "fr": "Un Atron piloté par un agent.",
+    "ja": "エージェントを乗せたアトロン。",
+    "ko": "에이전트가 조종하는 아트론입니다.",
+    "ru": "Корабль класса Atron, управляемый агентом.",
+    "zh": "由代理人驾驶的阿特龙级飞船。"
+  },
+  "graphicID": 323,
+  "groupID": 517,
   "name": {
     "de": "Cosmos Atron",
     "en": "Cosmos Atron",
@@ -10,5 +21,9 @@
     "ru": "Cosmos Atron",
     "zh": "深空 阿特龙级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 31.0,
+  "sofFactionName": "gallentebase"
 }

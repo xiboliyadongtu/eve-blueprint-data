@@ -1,5 +1,18 @@
 {
-  "typeID": 55511,
+  "basePrice": 30900000.0,
+  "description": {
+    "de": "Skill zur Erweiterung der Bogenbündelung schiffsbasierter Arcing-Vorton-Projektoren zur Erhöhung der effektiven Reichweite. 5 % Bonus auf die optimale Reichweite von Vorton-Projektoren je Skillstufe.",
+    "en": "Skill in extending arc-channelling of ship-based Arcing Vorton Projectors to boost effective range.\r\n\r\n5% bonus to Vorton Projector optimal range per skill level.",
+    "es": "Habilidad para amplificar la canalización en arco de los proyectores vortónicos de arco para maximizar el alcance efectivo.\n\n5 % de bonificación al alcance óptimo del proyector vortónico por nivel de habilidad.",
+    "fr": "Compétence liée à l'extension de la canalisation des arcs des projecteurs d'arcs de vortons sur les vaisseaux pour améliorer la portée effective. Améliore de 5 % par niveau de compétence la portée optimale des projecteurs de vortons.",
+    "ja": "艦船型アーク式ヴォートン・プロジェクターのアークチャネリングを延長して有効射程を上昇させるスキル。\r\n\nスキルレベル上昇ごとにヴォートンプロジェクターの最適射程距離が5%延長。",
+    "ko": "함선 전용 아크 보르톤 프로젝터의 아크 채널 증폭을 통해 최적사거리를 증가시키는 스킬입니다. 매 레벨마다 보르톤 프로젝터 최적사거리 5% 증가",
+    "ru": "Навык в увеличении размера дуги у дуговых вортонных проекторов для повышения дальности поражения. +5% к оптимальной дальности вортонных проекторов за каждый уровень навыка.",
+    "zh": "通过延长舰船使用的电弧弦投射器的电弧通道来扩大它的有效攻击范围的技能。\n\n\n\n每升一级，电弧弦投射器的最佳射程增加5%。"
+  },
+  "groupID": 255,
+  "iconID": 33,
+  "marketGroupID": 364,
   "name": {
     "de": "Vorton Arc Extension",
     "en": "Vorton Arc Extension",
@@ -10,5 +23,7 @@
     "ru": "Vorton Arc Extension",
     "zh": "电弧弦范围放大研究"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

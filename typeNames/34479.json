@@ -1,5 +1,20 @@
 {
-  "typeID": 34479,
+  "basePrice": 17949992.0,
+  "capacity": 560.0,
+  "description": {
+    "de": "Dies ist eine besondere Ishtar-Variante, die von einer mysteriösen Fraktion New Edens entwickelt wurde.",
+    "en": "This is a special Ishtar variant developed by a mysterious faction of New Eden.",
+    "es": "Esta es una variante especial de la Ishtar desarrollada por una facción misteriosa de Nuevo Edén.",
+    "fr": "Cette variante inédite de l'Ishtar a été développée par une mystérieuse faction de New Eden.",
+    "ja": "ニューエデンの謎の組織が、イシュタルの亜種として特別に開発したもの。",
+    "ko": "정체불명의 단체가 설계한 개조형 이슈타르입니다.",
+    "ru": "Организация, создавшая эту модель «Иштара», остаётся неизвестной.",
+    "zh": "这是由新伊甸一个神秘势力研发的伊什塔级特别版。"
+  },
+  "graphicID": 20998,
+  "groupID": 358,
+  "mass": 11100000.0,
+  "metaGroupID": 2,
   "name": {
     "de": "伊什塔级YC117年特别版",
     "en": "伊什塔级YC117年特别版",
@@ -9,6 +24,112 @@
     "ko": "伊什塔级YC117年特别版",
     "ru": "伊什塔级YC117年特别版",
     "zh": "伊什塔级YC117年特别版"
+  },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 110.0,
+  "sofFactionName": "serenity",
+  "sofMaterialSetID": 53,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonus": 50,
+        "bonusText": {
+          "de": "Reduktion des <a href=showinfo:3454>Mikrowarpantrieb</a>-Signaturradius",
+          "en": "reduction in <a href=showinfo:3454>Microwarpdrive</a> signature radius penalty",
+          "es": "de reducción de la penalización de radio de la señal del <a href=showinfo:3454>motor de microwarp</a>.",
+          "fr": "réduction de la pénalité du rayon de signature du <a href=showinfo:3454>propulseur de microwarp</a>",
+          "ja": "<a href=showinfo:3454>マイクロワープドライブ</a>のシグネチャ半径ペナルティが軽減",
+          "ko": "<a href=showinfo:3454>마이크로 워프 드라이브</a> 시그니처 반경 페널티 감소",
+          "ru": "уменьшается влияние <a href=showinfo:3454>микроварп-ускорителей</a> на размер сигнатуры корабля",
+          "zh": "<a href=showinfo:3454>微型跃迁推进器</a>的信号半径惩罚加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3332": [
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die maximale und Nachführungsgeschwindigkeit von <a href=showinfo:3441>schweren Drohnen</a>",
+            "en": "bonus to <a href=showinfo:3441>Heavy Drone</a> max velocity and tracking speed",
+            "es": "de bonificación a la velocidad máxima y la velocidad de rastreo de los <a href=showinfo:3441>drones pesados</a>.",
+            "fr": "de bonus à la vitesse maximale et à la vitesse de poursuite du <a href=showinfo:3441>drone lourd</a>",
+            "ja": "<a href=showinfo:3441>ヘビードローン</a>の最高速度、追跡速度が上昇",
+            "ko": "<a href=showinfo:3441>헤비 드론</a> 최대 속도 및 트래킹 속도 증가",
+            "ru": "повышаются скорость полного хода <a href=showinfo:3441>тяжёлых боевых дронов</a>, скорость наводки на цель их бортового оружия",
+            "zh": "<a href=showinfo:3441>重型无人机</a>最大速度和跟踪速度加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf die HP und den Schaden von <a href=showinfo:24241>leichten Drohnen</a>, <a href=showinfo:33699>mittelschweren Drohnen</a> und <a href=showinfo:3441>schweren Drohnen</a>",
+            "en": "bonus to <a href=showinfo:24241>Light Drone</a>, <a href=showinfo:33699>Medium Drone</a>, and <a href=showinfo:3441>Heavy Drone</a> hitpoints and damage",
+            "es": "de bonificación a los puntos de vida y el daño de los <a href=showinfo:24241>drones ligeros</a>, los <a href=showinfo:33699>drones medianos</a> y los <a href=showinfo:3441>drones pesados</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:24241>drones légers</a>, <a href=showinfo:33699>drones intermédiaires</a> et <a href=showinfo:3441>drones lourds</a>",
+            "ja": "<a href=showinfo:24241>ライトドローン</a>、<a href=showinfo:33699>ミディアムドローン</a>、<a href=showinfo:3441>ヘビードローン</a>のヒットポイントとダメージが増加",
+            "ko": "<a href=showinfo:24241>라이트 드론</a>, <a href=showinfo:33699>미디움 드론</a> 및 <a href=showinfo:3441>헤비 드론</a>내구도 및 피해량 증가",
+            "ru": "увеличивается урон бортового оружия <a href=showinfo:24241>лёгких</a>, <a href=showinfo:33699>средних</a> и <a href=showinfo:3441>тяжёлых</a> боевых дронов; увеличивается запас их прочности",
+            "zh": "<a href=showinfo:24241>轻型无人机</a>、<a href=showinfo:33699>中型无人机</a>和<a href=showinfo:3441>重型无人机</a>HP和伤害加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die HP und den Schaden von <a href=showinfo:23594>Wächterdrohnen</a>",
+            "en": "bonus to <a href=showinfo:23594>Sentry Drone</a> hitpoints and damage",
+            "es": "de bonificación a los puntos de vida y el daño de los <a href=showinfo:23594>drones centinela</a>.",
+            "fr": "de bonus aux dégâts et aux points de vie du <a href=showinfo:23594>drone sentinelle</a>",
+            "ja": "<a href=showinfo:23594>セントリードローン</a>のヒットポイント、ダメージが増加",
+            "ko": "<a href=showinfo:23594>센트리 드론</a> 내구도 및 피해량 증가",
+            "ru": "увеличивается урон бортового оружия <a href=showinfo:23594>стационарных дронов</a>; увеличивается запас их прочности",
+            "zh": "<a href=showinfo:23594>岗哨无人机</a>HP和伤害加成"
+          },
+          "importance": 3,
+          "unitID": 105
+        }
+      ],
+      "16591": [
+        {
+          "bonus": 5000,
+          "bonusText": {
+            "de": "Bonus auf die Einsatzreichweite von <a href=showinfo:3436>Drohnen</a>",
+            "en": "bonus to <a href=showinfo:3436>Drone</a> operation range",
+            "es": "de bonificación a la autonomía operativa de los <a href=showinfo:3436>drones</a>.",
+            "fr": "de bonus à la portée des opérations du <a href=showinfo:3436>drone</a>",
+            "ja": "<a href=showinfo:3436>ドローン</a>の操作範囲が拡大",
+            "ko": "<a href=showinfo:3436>드론</a> 작전 반경 증가",
+            "ru": "увеличивается максимальная дальность телеуправления <a href=showinfo:3436>дронами</a>",
+            "zh": "<a href=showinfo:3436>无人机</a>操纵距离加成"
+          },
+          "importance": 1,
+          "unitID": 1
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die optimale Reichweite und Nachführungsgeschwindigkeit von <a href=showinfo:23594>Wächterdrohnen</a>",
+            "en": "bonus to <a href=showinfo:23594>Sentry Drone</a> optimal range and tracking speed",
+            "es": "de bonificación al alcance óptimo y la velocidad de rastreo de los <a href=showinfo:23594>drones centinela</a>.",
+            "fr": "de bonus à la portée optimale et à la vitesse de poursuite du <a href=showinfo:23594>drone sentinelle</a>",
+            "ja": "<a href=showinfo:23594>セントリードローン</a>の最適射程距離、追跡速度が増大",
+            "ko": "<a href=showinfo:23594>센트리 드론</a> 최적사거리 및 트래킹 속도 증가",
+            "ru": "повышается скорость наводки на цель бортового оружия <a href=showinfo:23594>стационарных дронов</a>, увеличивается оптимальная дальность его действия",
+            "zh": "<a href=showinfo:23594>岗哨无人机</a>最佳射程和跟踪速度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 115000.0
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 364611,
+  "basePrice": 787000.0,
+  "description": {
+    "de": "Skill in der Bedienung von Caldari-Angriffsdropsuits. Schaltet den Zugriff auf Caldari-Angriffsdropsuits frei. Standard ab Stufe 1, erweitert ab Stufe 3 und Prototypen ab Stufe 5. Angriffsdropsuitbonus: 5% Abzug auf die PG/CPU-Kosten von Leichtwaffen/Sekundärwaffen und Granaten pro Skillstufe. Caldari-Angriffsdropsuitbonus: +5% auf die Nachladegeschwindigkeit von leichten Railgun-/Sekundärwaffenhybriden pro Skillstufe.",
+    "en": "Skill at operating Caldari Assault dropsuits.\n\nUnlocks access to Caldari Assault dropsuits. Standard at lvl.1; advanced at lvl.3; prototype at lvl.5.\n\nAssault Suit Bonus: 5% reduction to PG/CPU cost of light/sidearm weapons and grenades per level.\nCaldari Assault Bonus: +5% to reload speed of hybrid - railgun light/sidearm weapons per level.",
+    "es": "Habilidad de manejo de trajes de salto de combate Caldari. Desbloquea el acceso a los trajes de salto de combate Caldari: Estándar en el nivel 1, avanzados en el nivel 3 y prototipos en el nivel 5. Bonificación de traje de salto de combate: 5% de reducción al coste de RA/CPU de las granadas y armas ligeras y secundarias por nivel. Bonificación de traje de combate Caldari: +5% a la velocidad de recarga de las armas gauss híbridas ligeras y secundarias por nivel.",
+    "fr": "Compétence permettant d'utiliser les combinaisons Assaut Caldari. Déverrouille l'accès aux combinaisons Assaut Caldari. Standard au niv.1 ; avancé au niv.3 ; prototype au niv.5. Bonus de combinaison Assaut : 5 % de réduction d'utilisation de PG/CPU des armes légères/secondaires et des grenades par niveau. Bonus Assaut Caldari : +5 % de vitesse de recharge des armes légères/secondaires hybrides à rails par niveau.",
+    "it": "Abilità nell'utilizzo delle armature d'assalto Caldari. Sblocca l'accesso alle armature d'assalto Caldari. Standard al liv. 1; avanzate al liv. 3; prototipo al liv. 5. Bonus armatura d'assalto: 5% di riduzione all'utilizzo della rete energetica/CPU delle armi leggere/secondarie e delle granate per livello. Bonus assalto Caldari: +5% alla velocità di ricarica delle armi ibride/a rotaia leggere/secondarie per livello.",
+    "ja": "カルダリアサルト降下スーツを扱うためのスキル。カルダリアサルト降下スーツが使用できるようになる。レベル1で標準型、レベル3で高性能、レベル5でプロトタイプ。アサルトスーツボーナス：レベル上昇ごとに、小火器、サイドアームおよびグレネードのPG/CPU消費量が5%減少する。カルダリアサルトボーナス： レベル上昇ごとに、ハイブリット - レールガン小火器/サイドアーム兵器のリロード速度が5%上昇する。",
+    "ko": "칼다리 어썰트 강하슈트를 운용하기 위한 스킬입니다. <br><br>칼다리 어썰트 강하슈트를 잠금 해제합니다. 레벨 1 - 일반, 레벨 3 - 상급, 레벨 5 - 프로토타입 <br><br>어썰트 슈트 보너스: <br><br>매 레벨마다 라이트/보조무기 및 수류탄 PG/CPU 요구치 5% 감소 <br><br>칼다리 어썰트 보너스:<br><br>매 레벨마다 하이브리드 - 레일건 라이트/보조무기 재장전 시간 5% 감소",
+    "ru": "Навык обращения со штурмовыми скафандрами Калдари. Позволяет использовать штурмовые скафандры Калдари. Стандартные - на уровне 1; усовершенствованные - на уровне 3; прототипы - на уровне 5. Бонус штурмового скафандра: 5% сокращение потребления ресурсов ЭС/ЦПУ для легкого/личного оружия и гранат на каждый уровень. Бонус штурмовых скафандров Калдари: +5% к скорости перезарядки гибридного рейлганового легкого/личного оружия на каждый уровень.",
+    "zh": "操作加达里突击作战服的技能。解锁加达里突击作战服。1级解锁标准版；3级解锁高级版；5级解锁原型版。突击套装加成：每升一级，轻型武器/副武器和手榴弹的PG/CPU成本降低5%。加达里突击加成：每升一级，轻型混合磁轨炮/副武器的装填速度增加5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Caldari-Angriffsdropsuits",
     "en": "Caldari Assault Dropsuits",
@@ -11,5 +23,6 @@
     "ru": "Штурмовые скафандры Калдари",
     "zh": "加达里突击作战服"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

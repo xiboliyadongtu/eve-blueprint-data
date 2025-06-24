@@ -1,5 +1,18 @@
 {
-  "typeID": 21459,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Ein Lagersilo der Lai Dai Corporation, übernommen durch die Streitkräfte der Guristas. Die Guristas verwenden diese Struktur jetzt, um wertvolle Waffen und Ausrüstungsgegenstände zu lagern.",
+    "en": "A Lai Dai storage silo. Overtaken by Guristas forces, the Guristas are now using this structure to store valuables weapons and equipment.",
+    "es": "Depósito de almacenamiento de Lai Dai. Las fuerzas de los Guristas se han apoderado de esta estructura y ahora la utilizan para almacenar equipo y armas de valor.",
+    "fr": "Silo de stockage Lai Dai. Les forces guristas se sont emparées de cette structure et y entreposent des armes et des équipements de valeur.",
+    "ja": "ライダイの保管庫。ガリスタス軍に乗っ取られてからは、貴重品や武器や装備の保管場所となった。",
+    "ko": "라이다이 저장고입니다. 현재는 구리스타스에게 점령당해 그들의 귀중품과 무기, 그리고 장비를 저장하는데 사용되고 있습니다.",
+    "ru": "Стационарное хранилище корпорации Lai Dai. Было захвачено силами Guristas и используется ими для хранения ценного оружия и снаряжения.",
+    "zh": "一座莱戴储藏库，被古斯塔斯军队强占，现被古斯塔斯用来储存值钱的武器和装备。"
+  },
+  "graphicID": 2007,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "COSMOS Storage Silo",
     "en": "COSMOS Storage Silo",
@@ -10,5 +23,10 @@
     "ru": "COSMOS Storage Silo",
     "zh": "深空 贮藏库"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 1226.0,
+  "sofFactionName": "genericbase",
+  "soundID": 20904,
   "volume": 100000000.0
 }

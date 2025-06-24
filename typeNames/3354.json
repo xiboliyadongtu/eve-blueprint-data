@@ -1,5 +1,18 @@
 {
-  "typeID": 3354,
+  "basePrice": 2500000.0,
+  "description": {
+    "de": "Verbesserte Flexibilität in der Flottenunterstützung. Reduziert die Dauer der Nachladezeit für alle Kommandostrahl- und Bergbauvorarbeiterstrahlmodule um 10 % pro Stufe.",
+    "en": "Improved fleet support flexibility. Reduces reload duration of all Command Burst and Mining Foreman Burst modules by 10% per level.",
+    "es": "Mejora de la flexibilidad de apoyo de la flota. Reduce un 10 % la duración de la recarga de todos los módulos de estallido de mando y de estallido de capataz minero por nivel.",
+    "fr": "Flexibilité des soutiens de flotte améliorés. Réduit de 10 % par niveau la durée de recharge des salves de commandement et des salves de contremaîtrise minière.",
+    "ja": "フリート支援の汎用性が向上。レベル上昇ごとにコマンドバーストモジュールと採掘支援バーストモジュールのリロード時間がすべて10%減少",
+    "ko": "함대 지원 유동성이 향상합니다. 매 레벨마다 커맨드 버스트 및 채광 버스트 재장전 시간 10% 감소",
+    "ru": "Навык обеспечения адаптивной поддержки флота За каждую степень освоения навыка: на 10% снижается время перезарядки импульсных оптимизаторов, как боевых, так и добывающих.",
+    "zh": "提高了舰队后勤支援的灵活性。每升一级，所有指挥脉冲波和开采先锋脉冲波装备的装载时间降低10%。"
+  },
+  "groupID": 258,
+  "iconID": 33,
+  "marketGroupID": 370,
   "name": {
     "de": "Command Burst Specialist",
     "en": "Command Burst Specialist",
@@ -10,5 +23,7 @@
     "ru": "Спецкурс: импульсные оптимизаторы",
     "zh": "指挥脉冲波专业研究"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

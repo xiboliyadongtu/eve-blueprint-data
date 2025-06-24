@@ -1,5 +1,21 @@
 {
-  "typeID": 34274,
+  "capacity": 1.0,
+  "description": {
+    "de": "Ein schwerer Laser, der für Kämpfe auf kurze und mittlere Entfernung ausgelegt ist. Verursacht starken Schaden. \n\nPolarisierte Waffen bieten extrem gute Primärwerte, machen dafür aber alle Widerstände auf einem Schiff zunichte, in das sie eingebaut wurden. \n\nBenötigt entweder reguläre oder fortschrittliche Frequenzkristall-Munitionstypen: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray, Conflagration, Scorch.",
+    "en": "A heavy laser designed for short to medium range engagements. Delivers powerful damage. \r\n\r\nPolarized weapons offer extremely good primary stats, but come with the cost of completely negating all resistances on a ship if fitted.\r\n\r\nRequires either regular or advanced frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray, Conflagration, Scorch.",
+    "es": "Un láser pesado capaz de infligir daños graves en enfrentamientos a corta y media distancia. \n\n\n\nLas armas polarizadas ofrecen estadísticas principales extremadamente buenas, pero tienen el coste de anular por completo todas las resistencias de la nave en que están equipadas.\n\n\n\nRequiere un tipo de munición de cristal de frecuencia normal o avanzado: gamma, infrarrojos, microondas, multifrecuencia, radiofrecuencia, estándar, ultravioleta, rayos X, Conflagration, Scorch.",
+    "fr": "Laser lourd conçu pour les combats de courte à moyenne portée. Inflige d'importants dégâts. \n\nLes armes polarisées offrent de très bons statistiques principaux, mais leur installation a pour effet d'annuler toutes les résistances d'un vaisseau.\n\nRequiert les cristaux de fréquence normaux et perfectionnés suivants en guise de munitions : gamma, infrarouge, micro-onde, multifréquence, radio, standard, ultraviolet, rayon X, conflagration, calcination.",
+    "ja": "近距離から中距離が得意な大型レーザー。強力な破壊力を持つ。\n\nポーラライズド系兵器は、主要なステータスに非常に良い影響を及ぼす。ただし、装備した艦船のレジスタンスが完全に無効化されるというデメリットもある。\n\n装填可能な標準型／高性能フリーケンシークリスタルのタイプ：ガンマ、赤外線、マイクロ波、多周波、放射線、標準、紫外線、エックス線、コンフラグレーション弾、スコーチ弾。",
+    "ko": "중단거리 교전에 최적화된 헤비 레이저입니다. 강력한 파괴력을 보유하고 있습니다. <br><br>극성 무기는 출중한 기본 능력치를 지녔으나 함선에 장착하게 될 경우 피해 저항력이 무효화됩니다. <br><br>사용 가능한 프리퀀시 크리스탈: 감마선, 적외선, 마이크로파, 멀티프리퀀시, 라디오파, 스탠다드, 자외선, 엑스선, 고열, 스코치.",
+    "ru": "Тяжелый лазер, разработанный для ведения огня на ближних и средних дистанциях. Наносит большой ущерб. \n\n«Поляризованное» вооружение имеет высочайшие ключевые характеристики, но оснащённый им корабль полностью лишается сопротивлений всем поражающим факторам.\n\nСледует заряжать стандартными или усовершенствованными частотными кристаллами: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray, Conflagration, Scorch.",
+    "zh": "一种重型激光器，专为中近程交战而设计。能够给目标造成巨大的伤害。 \n\n偏振式武器的主要参数极佳，但同时会使舰船装配的任何抗性装备完全失效。\n\n使用的常规或高级频率晶体弹药类型：伽玛、红外线、微波、多频、射频、标准、紫外线、X射线、爆燃和灼烧。"
+  },
+  "graphicID": 21575,
+  "groupID": 53,
+  "iconID": 356,
+  "marketGroupID": 572,
+  "mass": 1000.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Polarized Heavy Pulse Laser",
     "en": "Polarized Heavy Pulse Laser",
@@ -10,5 +26,10 @@
     "ru": "Polarized Heavy Pulse Laser",
     "zh": "偏振式重型脉冲激光器"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "sofFactionName": "sleeperbase",
+  "variationParentTypeID": 458,
   "volume": 10.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 22578,
+  "basePrice": 100000.0,
+  "description": {
+    "de": "Fertigkeit, Bergbau-Upgrades zu verwenden.\r\n\r\nBonus: 5% weniger CPU-Abzug bei der Verwendung von Mining Upgrade Modulen je Skillstufe.",
+    "en": "Skill at using mining upgrades. 5% reduction per skill level in CPU penalty of mining upgrade modules.",
+    "es": "Habilidad en el uso de mejoras de minería. 5 % de reducción de la penalización de la CPU de módulos de mejora de minería por nivel de habilidad.",
+    "fr": "Compétence liée à l'utilisation des améliorations de l'extraction minière. Réduit de 5 % par niveau de compétence la pénalité de CPU des modules d'amélioration de l'extraction minière.",
+    "ja": "採掘強化の使用スキル。スキルレベル上昇ごとに採掘強化モジュールの CPU ペナルティが 5% 軽減される。",
+    "ko": "채굴 업그레이드를 위한 스킬입니다. 매 레벨마다 채굴 업그레이드 모듈의 CPU 페널티 5% 감소",
+    "ru": "Навык использования модулей для буровых лазеров. За каждую степень освоения навыка штраф к производительности ЦПУ, применяемый при установке на корабль модулей для буровых лазеров, уменьшается на 5%.",
+    "zh": "使用采矿升级装备所需的技能。每升一级，采矿升级装备的CPU惩罚降低5%。"
+  },
+  "groupID": 1218,
+  "iconID": 33,
+  "marketGroupID": 1323,
   "name": {
     "de": "Mining Upgrades",
     "en": "Mining Upgrades",
@@ -10,5 +23,7 @@
     "ru": "Улучшения бурового оборудования",
     "zh": "矿冶提升理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

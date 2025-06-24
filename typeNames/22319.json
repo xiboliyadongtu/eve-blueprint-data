@@ -1,5 +1,16 @@
 {
-  "typeID": 22319,
+  "description": {
+    "de": "Eine Heron, die von einem Agenten geflogen wird.\r\n\r\nMissionen:\r\n<i>Die Missionen enthalten nebenberufliche Aufgaben (mini-professions)</i>",
+    "en": "A Heron piloted by an agent.\r\n\r\nMissions:\r\n\r\n<i>Mini-Profession related</i>",
+    "es": "Heron pilotada por un agente.\n\nMisiones:\n\n<i>Relacionadas con miniprofesiones</i>",
+    "fr": "Un Heron piloté par un agent.\n\nMissions :\n\n<i>Liées aux mini-professions</i>",
+    "ja": "エージェントを乗せたヘロン。ミッション:\n\n<i>ミニ職業関係</i>",
+    "ko": "에이전트가 조종하는 헤론입니다. <br><br>임무:<br><br><i>보조 스킬 관련</i>",
+    "ru": "Корабль класса Heron, управляемый агентом. \n\nЗадания: \n\n<i>Связаны с мини-профессией</i>",
+    "zh": "由代理人驾驶的苍鹭级飞船。 任务： <i>迷你职业相关</i>"
+  },
+  "graphicID": 316,
+  "groupID": 517,
   "name": {
     "de": "Viljanen's Heron",
     "en": "Viljanen's Heron",
@@ -10,5 +21,9 @@
     "ru": "Viljanen's Heron",
     "zh": "维尔瑕能的苍鹭级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 47.0,
+  "sofFactionName": "caldaribase"
 }

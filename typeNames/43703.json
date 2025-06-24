@@ -1,5 +1,18 @@
 {
-  "typeID": 43703,
+  "basePrice": 18000000.0,
+  "description": {
+    "de": "Fortgeschrittene Fertigkeit zur Steuerung von Eisschürfdrohnen. Pro Stufe 2 % Reduktion der Zykluszeit und Bonus auf die Maximalgeschwindigkeit von Drohnen, welche die Eisschürfen-Drohnenspezialisierung benötigen.",
+    "en": "Advanced proficiency at controlling ice harvesting drones. 2% reduction in cycle time and bonus to max velocity of drones requiring Ice Harvesting Drone Specialization per level.",
+    "es": "Habilidad avanzada para controlar los drones recolectores de hielo. 2 % de reducción por nivel del tiempo de ciclo y de bonificación a la velocidad máxima de los drones que requieren la especialización en drones recolectores de hielo.",
+    "fr": "Compétence avancée liée au contrôle des drones collecteurs de glace. Réduit de 2 % par niveau la durée du cycle de collecte des drones requérant la spécialisation « Drones collecteurs de glace ».\nAugmente de 2 % par niveau la vitesse maximale des drones requérant la spécialisation « Drones collecteurs de glace ».",
+    "ja": "氷採掘ドローンをコントロールする高度な能力。レベル上昇ごとに採掘ドローン特化を必要とする氷採掘ドローンのサイクル時間と最大速度が2%減少。",
+    "ko": "아이스 채굴 드론을 효율적으로 운용하기 위한 스킬입니다. 매 레벨마다 채굴 사이클 시간 2% 감소 및 아이스 채굴 드론 특화가 요구되는 모든 개체의 최대 속도 증가",
+    "ru": "Углублённые познания в области эксплуатации дронов для добычи льда. За каждую степень освоения навыка: на 2% уменьшается длительность рабочего цикла и увеличивается скорость дронов, для управления которыми требуется этот навык.",
+    "zh": "精通冰矿采集无人机控制的高级技能。每升一级，需要冰矿采集无人机专业研究技能的无人机的循环周期缩短2%，最大速度提升2%。"
+  },
+  "groupID": 273,
+  "iconID": 33,
+  "marketGroupID": 366,
   "name": {
     "de": "Ice Harvesting Drone Specialization",
     "en": "Ice Harvesting Drone Specialization",
@@ -10,5 +23,7 @@
     "ru": "Спецкурс: дроны для добычи льда",
     "zh": "冰矿采集无人机专业研究"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

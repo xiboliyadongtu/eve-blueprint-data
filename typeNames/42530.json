@@ -1,5 +1,19 @@
 {
-  "typeID": 42530,
+  "capacity": 3.0,
+  "description": {
+    "de": "Dieses Modul kann mit verschiedenen Kommandostrahlenmunitionsarten des Typs Gefecht geladen werden. Es verteilt ein Feld aus förderlichen Naniten an Flottenmitglieder und verbessert so ihre Fähigkeiten in der Ausführung von Guerilla-Manövern.",
+    "en": "This module can be loaded with a variety of Skirmish Command Burst Charges to project a field of beneficial nanites over fleet members, improving their hit-and-run capabilities.",
+    "es": "Este módulo se puede equipar con una variedad de cargas de estallido de mando de escaramuza para proyectar un campo de nanobots beneficiosos sobre los miembros de la flota para mejorar sus capacidades de efectuar ataques relámpago.",
+    "fr": "Muni de charges de salves de commandement tactique, ce module projette un champ de nanites qui favorise les manœuvres de guérilla et les stratégies éclair de la flotte alliée.",
+    "ja": "このモジュールは各種機動戦コマンドバーストチャージを装填することで、フリートメンバーに有利に作用するナノマシンを一帯に射出し、フリートの奇襲能力を向上させることができます。",
+    "ko": "각종 스커미시 버스트용 차지를 탑재할 수 있는 모듈입니다. 버스트 사용 시 나나이트 필드를 전개하여 함대의 전반적인 유격전 능력을 향상합니다.",
+    "ru": "Этот модуль используется в сочетании с ассортиментом зарядов для импульсных оптимизаторов маневрирования; положительное воздействие активных нанитов на союзников по флоту обеспечивает повышенную эффективность тактических решений, использующих методы «набега и отхода».",
+    "zh": "这个装备可以装载一系列游击战指挥脉冲波弹药，对舰队成员投射一个纳米增益力场，提高他们的游击战能力。"
+  },
+  "groupID": 1770,
+  "iconID": 21704,
+  "marketGroupID": 1633,
+  "metaGroupID": 1,
   "name": {
     "de": "Skirmish Command Burst I",
     "en": "Skirmish Command Burst I",
@@ -10,5 +24,7 @@
     "ru": "Skirmish Command Burst I",
     "zh": "游击战指挥脉冲波 I"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 60.0
 }

@@ -1,5 +1,19 @@
 {
-  "typeID": 40715,
+  "description": {
+    "de": "Ein spezialisiertes Schadensregulierer-Modul, das eine Kombination aus Dämpfungsfeldemittern und elektromagnetischen molekularen Rumpfverstärkern verwendet, um den der Kernstruktur zugefügten Schaden abzuwehren. Brennt nach einmaliger Verwendung aus.\n\n\n\nHinweis: Es kann immer nur ein Schadenskontroll-System zu einem festgelegten Zeitpunkt eingebaut werden. Kann nur in Schiffe der Capital-Klasse eingebaut werden.",
+    "en": "Specialized damage control module that utilizes a combination of containment field emitters and electromagnetic molecular hull reinforcers to resist damage to the core structure of your ship. Burns out after a single use.\r\n\r\nNote: Only one Damage Control can be fit at a given time. May only be fitted to capital ships.",
+    "es": "Módulo de control de daños especializado que utiliza una combinación de emisores de campo de contención y refuerzos moleculares electromagnéticos del casco para resistir daños en la estructura principal de tu nave. Se consume tras un único uso.\n\n\n\nNOTA: Solo puede equiparse una unidad de control de daños y solamente en naves capitales.",
+    "fr": "Module régulateur de dégâts spécialisé. Il utilise une combinaison d'émetteurs de champs d'isolement et de renforts de coque moléculaire électromagnétiques pour résister aux dégâts infligés au cœur de la structure de votre vaisseau. S'épuise au bout d'une seule utilisation.\n\n\n\nRemarque : Un seul régulateur de dégâts peut être équipé à la fois. Réservé aux vaisseaux de classe capitale.",
+    "ja": "格納型電界エミッタ―およびEM分子型船体補強を組み合わせて使用することで艦船のコア構造のダメージ耐性を高める、特化型のダメージ制御モジュール。使用できるのは1回のみ。注： ダメージコントロールは一度に一つしか装備できない。主力艦にのみ装着可能。",
+    "ko": "전문화된 데미지 컨트롤 모듈로써 집속 필드 생성기와 EM 강화 시스템을 활용하여 적 공격으로 인한 선체 손상을 최소화합니다. 기능 사용 시 모듈이 크게 손상됩니다. <br><br>참고: 데미지 컨트롤 모듈은 한 개만 장착할 수 있습니다. 캐피탈급 함선에만 장착이 가능합니다.",
+    "ru": "Специализированный модуль боевой живучести, параллельно использующий излучатели защитных полей и электромагнитные наноразмерные системы укрепления корпуса для повышения сопротивляемости корпуса корабля поражающему действию всех типов. Сгорает после однократного применения.\n\n\n\nДопускается одновременное использование лишь одного модуля боевой живучести (Damage Control). Внимание! Этим модулем могут оснащаться исключительно корабли большого тоннажа.",
+    "zh": "特制的损伤控制装备，将围场发射器与电磁分子船体增强器结合使用，减少你舰船的核心结构受到的伤害。使用一次后即损毁。\n\n\n\n只能同时装配一个损伤控制。注：只能装配在旗舰级舰船上。"
+  },
+  "groupID": 60,
+  "iconID": 21603,
+  "marketGroupID": 615,
+  "mass": 5000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Capital Implacable Compact Emergency Hull Energizer",
     "en": "Capital Implacable Compact Emergency Hull Energizer",
@@ -10,5 +24,8 @@
     "ru": "Capital Implacable Compact Emergency Hull Energizer",
     "zh": "旗舰级非调和紧凑型紧急船体增能器"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 40714,
   "volume": 8000.0
 }

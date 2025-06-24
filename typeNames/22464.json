@@ -1,5 +1,70 @@
 {
-  "typeID": 22464,
+  "basePrice": 44500000.0,
+  "capacity": 450.0,
+  "description": {
+    "de": "Unterbrecher sind Schiffe von Zerstörergröße und wurden gebaut, um eine taktische Nische zu füllen: Das Unterbrechen feindlicher Warptunnel. Sie sind in der Lage, Unterbrechungssphären für Warpfelder zu generieren und daher von hohem Wert an strategisch wichtigen Stellen, wenn es darum geht, feindliche Bewegungen zu unterbinden. Außerdem sind sie wie ihre Vorgänger der Zerstörer-Klasse hervorragend ausgestattet, um offensive Schläge gegen Fregatten auszuführen.",
+    "en": "Interdictors are destroyer-sized vessels built to fill a single important tactical niche: the breaching of enemy warp tunnels. Capable of launching warp-disrupting interdiction spheres, interdictors are of great value in locations of strategic importance where enemy movement must be restricted. Additionally, much like their destroyer-class progenitors, they are well-suited to offensive strikes against frigate-sized craft.",
+    "es": "Los interdictores son naves del tamaño de un destructor construidas para llenar un nicho táctico importante: la ruptura de los túneles de warp enemigos. Capaces de lanzar esferas de interdicción que alteran el warpeo, los interdictores son de gran valor en lugares de importancia estratégica donde se debe restringir el movimiento del enemigo. Además, al igual que sus precedentes de clase destructor, son muy adecuados para ataques contra naves del tamaño de una fragata.",
+    "fr": "Les interdicteurs sont des vaisseaux de la taille d'un destroyer conçus pour une unique mission tactique : la destruction des tunnels de warp ennemis. Ils sont très utiles sur les points stratégiques où tout mouvement ennemi doit être empêché, car ils peuvent lancer des sphères d'interdiction de perturbation de warp. En outre, à l'instar de leurs prédécesseurs de la classe des destroyers, ils sont tout à fait capables de lancer des frappes sur des vaisseaux de la taille de frégates.",
+    "ja": "ワープ妨害型駆逐艦は駆逐艦と同サイズの船で、敵ワープトンネルの破壊という唯一の、しかし重要な戦術に使用される。敵の移動を阻止しなければならない場合、ワープを妨害するインターディクションスフィアを起動できるワープ妨害型駆逐艦の戦略的重要性は極めて高い。また、原型となった駆逐艦と同様、フリゲートサイズの敵への攻撃能力も十分に備えている。",
+    "ko": "인터딕터는 디스트로이어급 함선으로 적 워프 터널을 파괴할 수 있습니다. 워프 차단 필드를 통해 적의 움직임을 크게 제한할 수 있기에 전술적 요충지에서의 활용이 극대화됩니다. 디스트로이어급과 동일하게 프리깃을 대상으로 막대한 파괴력을 발휘합니다.",
+    "ru": "Заградительные эсминцы выполняют единственную, но очень важную тактическую задачу — создание помех во вражеских варп-туннелях. Эти корабли оснащены системами запуска заградительных сфер и потому просто незаменимы в стратегически значимых областях, где необходимо ограничить передвижение противника. Кроме того, как и их предшественники-эсминцы, они отлично подходят для нападения на фрегаты и другие суда со схожими габаритами.",
+    "zh": "拦截舰是驱逐舰大小的舰船，其建造目的是为了填补一项重要战略用途：破坏敌人的跃迁通道。由于能够发射扰断跃迁的拦截弹，拦截舰具有重要价值，常被部署在必须限制敌人移动的战略要点。另外，就像它们的驱逐舰级前身一样，它们也非常适合攻击护卫舰大小的飞船。"
+  },
+  "factionID": 500001,
+  "graphicID": 2802,
+  "groupID": 541,
+  "marketGroupID": 829,
+  "mass": 1350000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      150,
+      75,
+      139,
+      85,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      150,
+      75,
+      139,
+      85,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      150,
+      75,
+      139,
+      85,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      150,
+      75,
+      139,
+      85,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      150,
+      75,
+      139,
+      85,
+      118,
+      94
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Flycatcher",
     "en": "Flycatcher",
@@ -10,5 +75,111 @@
     "ru": "Flycatcher",
     "zh": "飞燕级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 112.0,
+  "sofFactionName": "kaalakiota",
+  "soundID": 20068,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Es können <a href=showinfo:22782>Unterbechungsfeldwerfer</a> eingebaut werden",
+          "en": "Can fit <a href=showinfo:22782>Interdiction Sphere Launcher</a>",
+          "es": "Es posible equipar un <a href=showinfo:22782>lanzaesferas de interdicción</a>.",
+          "fr": "Peut équiper des <a href=showinfo:22782>lanceurs de sphère d'interdiction</a>",
+          "ja": "<a href=showinfo:22782>インターディクションスフィアランチャー</a>を装備できる",
+          "ko": "<a href=showinfo:22782>인터딕션 런처</a> 장착 가능",
+          "ru": "Корабли этого типа могут оснащаться <a href=showinfo:22782>пусковыми установками зондов варп-заграждения</a>",
+          "zh": "可以安装<a href=\"showinfo:22782\">拦截泡发射器</a>"
+        },
+        "importance": 1
+      },
+      {
+        "bonus": 25,
+        "bonusText": {
+          "de": "Bonus auf die Warpgeschwindigkeit und Warpbeschleunigung",
+          "en": "bonus to warp speed and warp acceleration",
+          "es": "de bonificación a la velocidad y la aceleración de warp.",
+          "fr": "de bonus à la vitesse de warp et à l'accélération de warp",
+          "ja": "ワープ速度とワープ加速度が上昇",
+          "ko": "워프 속도 및 워프 가속도 증가",
+          "ru": "бонус к разгону и скорости хода (в варп-режиме)",
+          "zh": "跃迁速度和跃迁加速加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "12098": [
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Reduktion des <a href=showinfo:3454>Mikrowarpantrieb</a>-Signaturradius",
+            "en": "reduction in <a href=showinfo:3454>Microwarpdrive</a> signature radius penalty",
+            "es": "de reducción de la penalización de radio de la señal del <a href=showinfo:3454>motor de microwarp</a>.",
+            "fr": "de réduction à la pénalité de rayon de signature des <a href=showinfo:3454>propulseurs de microwarp</a>",
+            "ja": "<a href=showinfo:3454>マイクロワープドライブ</a>のシグネチャ半径ペナルティが軽減",
+            "ko": "<a href=showinfo:3454>마이크로 워프 드라이브</a> 시그니처 반경 페널티 감소",
+            "ru": "уменьшается влияние <a href=showinfo:3454>микроварп-ускорителей</a> на размер сигнатуры корабля",
+            "zh": "<a href=\"showinfo:3454\">微型跃迁推进器</a>的信号半径惩罚加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 15.0,
+          "bonusText": {
+            "de": "Bonus auf die HP von Schilden",
+            "en": "bonus to shield hitpoints",
+            "es": "de bonificación a los puntos de vida de los escudos.",
+            "fr": "de bonus aux points de vie du bouclier",
+            "ja": "シールドHPが増加",
+            "ko": "실드량 증가",
+            "ru": "бонус к запасу прочности щитов",
+            "zh": "护盾值加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ],
+      "33092": [
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf den Kinetikschaden von <a href=showinfo:3321>leichten Lenkwaffen</a> und <a href=showinfo:3320>Raketen</a>",
+            "en": "bonus to <a href=showinfo:3321>Light Missile</a> and <a href=showinfo:3320>Rocket</a> kinetic damage",
+            "es": "de bonificación al daño cinético de los <a href=showinfo:3321>misiles ligeros</a> y los <a href=showinfo:3320>cohetes</a>.",
+            "fr": "de bonus aux dégâts cinétiques des <a href=showinfo:3321>missiles légers</a> et des <a href=showinfo:3320>roquettes</a>",
+            "ja": "<a href=showinfo:3321>ライトミサイル</a>および<a href=showinfo:3320>ロケット</a>のキネティックダメージが上昇",
+            "ko": "<a href=showinfo:3321>라이트 미사일</a> 및 <a href=showinfo:3320>로켓</a> 키네틱 피해량 증가",
+            "ru": "бонус к кинетическому урону от <a href=showinfo:3321>лёгких ракет</a> и <a href=showinfo:3320>ракет</a>",
+            "zh": "<a href=showinfo:3321>轻型导弹</a>和<a href=showinfo:3320>火箭</a>动能伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die Maximalgeschwindigkeit von <a href=showinfo:3321>leichten Lenkwaffen</a> und <a href=showinfo:3320>Raketen</a>",
+            "en": "bonus to <a href=showinfo:3321>Light Missile</a> and <a href=showinfo:3320>Rocket</a> max velocity",
+            "es": "de bonificación a la velocidad máxima de los <a href=showinfo:3321>misiles ligeros</a> y los <a href=showinfo:3320>cohetes</a>.",
+            "fr": "de bonus à la vitesse maximale des <a href=showinfo:3321>missiles légers</a> et des <a href=showinfo:3320>roquettes</a>",
+            "ja": "<a href=showinfo:3321>ライトミサイル</a>と<a href=showinfo:3320>ロケット</a>の最高速度が上昇",
+            "ko": "<a href=showinfo:3321>라이트 미사일</a> 및 <a href=showinfo:3320>로켓</a> 최대 속도 증가",
+            "ru": "увеличивается скорость полёта <a href=showinfo:3321>лёгких ракет</a> и <a href=showinfo:3320>лёгких штурмовых ракет</a>",
+            "zh": "<a href=\"showinfo:3321\">轻型导弹</a>和<a href=\"showinfo:3320\">火箭</a>飞行速度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 16238,
   "volume": 52000.0
 }

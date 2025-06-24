@@ -1,5 +1,18 @@
 {
-  "typeID": 32449,
+  "capacity": 30000.0,
+  "description": {
+    "de": "Die Orca wurde als gemeinsame Unternehmung zwischen Outer Ring Excavations und Deep Core Mining Inc. entwickelt, um der Nachfrage der Industrie New Edens nachkommen zu können und eine Plattform zu bieten, von der aus Bergbauoperationen einfach gehandhabt werden können. Die Orca nutzt größtenteils Technologie, die bereits von ORE beim Rorqual eingesetzt wurde, und es wurden auch die neusten Verbesserungen des Deep-Core-Bergbaus integriert. Die Forschungsabteilung hat somit ein Schiff entwickelt, das vielfältige Einsatzmöglichkeiten für verschiedene Operationen und deren Bedürfnisse abdecken kann.",
+    "en": "The Orca was developed as a joint venture between Outer Ring Excavations and Deep Core Mining Inc as a vessel to help meet the demands of New Eden's industry and provide a flexible platform from which mining operations can be more easily managed. The Orca uses much of the technology developed by ORE for the Rorqual and integrated with the latest advancements from Deep Core Mining research division has developed a vessel which offers a diverse role to all sizes of operations and needs.",
+    "es": "La Orca se desarrolló en un proyecto conjunto entre Outer Ring Excavations y Deep Core Mining Inc. como una nave que ayudara a satisfacer las necesidades de la industria de Nuevo Edén y proporcionara una plataforma flexible desde la que gestionar operaciones mineras con mayor facilidad. La Orca usa gran parte de la tecnología desarrollada por ORE para la Rorqual, pero incorpora los últimos avances de la división de investigación de Deep Core Mining, que ha desarrollado una nave versátil para cualquier operación o contexto.",
+    "fr": "L'Orca a été développé conjointement par Outer Ring Excavations et la Deep Core Mining Inc. pour répondre aux exigences de l'industrie de New Eden et ainsi fournir une plateforme flexible pour une meilleure gestion des opérations d'extraction minière. Utilisant principalement la technologie mise au point par l'ORE pour le Rorqual et les dernières inventions de la division de recherche de la Deep Core Mining Inc., ce vaisseau peut ainsi remplir diverses fonctions pour toutes sortes d'opérations.",
+    "ja": "オルカは、アウターリング発掘調査とディープコア採掘（株）がニューエデンの業界の要求に応じて、採掘作業を管理しやすくするための柔軟なプラットフォームを提供するために協力して開発した。OREがロークアル向けに開発した技術を大幅に採用すると共に、あらゆる規模の作業とニーズに備えた多様な役目を持つ艦船をディープコア採掘の研究部門が開発した際の最新成果も取り入れている。",
+    "ko": "ORE와 딥코어마이닝이 공동 제작한 인더스트리얼로, 뉴에덴 산업계의 요구를 수용하여 효율적인 채굴 작전의 수행이 가능한 범용 플랫폼이 설계되었습니다. <br><br>오르카는 딥코어마이닝 연구 부서의 독자적인 기술력과 캐피탈 인더스트리얼인 로퀄의 제작에 사용된 각종 첨단 기술이 적용되어 작전 규모와 상관없이 다양한 역할을 수행할 수 있습니다.",
+    "ru": "Проект Orca был разработан совместными усилиями Outer Ring Excavations и Deep Core Mining Inc; получившийся в итоге корабль полностью удовлетворил потребность промышленности Нового Эдема в средствах поддержки добычи полезных ископаемых. Многое в этом проекте было позамствовано у кораблей класса Rorqual, выпускаемых ORE; совместив эти технологии с достижениями исследователей Deep Core Mining, корпорации получили в свое распоряжение судно, которому по плечу задачи любого масштаба и степени сложности.",
+    "zh": "作为外空联合矿业与深核矿业的合作产品，逆戟鲸级不仅可满足新伊甸的工业需求，也是一个灵活的采矿作业管理平台。逆戟鲸级传承了外空联合矿业应用在长须鲸级上的很多技术，并融合了深核矿业研发部门的最新成果，它多样化的能力可以支持各种规模的作业与需求。"
+  },
+  "graphicID": 3466,
+  "groupID": 875,
+  "mass": 250000000.0,
   "name": {
     "de": "Civilian Orca",
     "en": "Civilian Orca",
@@ -10,5 +23,10 @@
     "ru": "Civilian Orca",
     "zh": "民用逆戟鲸级"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 550.0,
+  "sofFactionName": "orebase",
   "volume": 10250000.0
 }

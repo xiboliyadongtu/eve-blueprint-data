@@ -1,5 +1,16 @@
 {
-  "typeID": 36523,
+  "description": {
+    "de": "Diese Einheit erschafft eine Raumtasche, die nicht von Scannern erfasst werden kann, und schützt somit sich selbst und alles auf dem aktuellen Raster vor neugierigen Scannern und umherirrenden Sonden. Dieser Gegenstand kann nur auf Testservern benutzt werden und unterliegt den Turnierbedingungen. Jegliche Verstöße ziehen Sperrungen nach sich.",
+    "en": "This unit creates a pocket of unscannable space, protecting itself and everything on the current grid from prying scanners and errant probes.\r\n\r\nThis item is only to be used on test servers, subject to the conditions of tournament practice. Violations will attract bans.",
+    "es": "Esta unidad crea una burbuja de espacio que no se puede escanear y se protege a sí misma y a todo lo que hay en la red actual de escáneres entrometidos y sondas errantes.\n\n\n\nEste objeto solo se puede usar en servidores de prueba sujetos a las condiciones del torneo. Las infracciones darán lugar a sanciones.",
+    "fr": "Cette unité crée une poche dans l’espace indétectable au balayage, la protégeant elle et son espace des scanners indiscrets et sondes errantes. Cet objet ne peut être utilisé que sur les serveurs de test, et suit les mêmes règlementations que celles du tournoi. La violation de cette unité est passible de bannissement.",
+    "ja": "特定のエリアをスキャン不可能にし、自身を含め、現在のグリッドにあるすべてのものをスキャナーやプローブの魔の手から守るユニット。テストサーバーでのみ使用可能なアイテムであり、さらにトーナメントプラクティスで定められた条件によって使用が制限される場合がある。違反した場合、禁止措置がとられる。",
+    "ko": "스캔 불가능한 지역을 생성하는 장치입니다. <br><br>테스트 서버에서만 사용이 가능하며 토너먼트 훈련 용도로 한정되어 있습니다. 위반 시 계정이 차단됩니다.",
+    "ru": "Этот блок создаёт область пространства, не подверженного дистанционной разведке. Блок и всё, что находится в одной с ним зоне видимости, необнаружимы ни надоедливыми пеленгаторами, ни случайными разведзондами. Блок предназначен для использования исключительно на испытательных серверах для подготовки к турнирам. Нецелевое использование может повлечь за собой «баны».",
+    "zh": "This unit creates a pocket of unscannable space, protecting itself and everything on the current grid from prying scanners and errant probes.\n\n\n\nThis item is only to be used on test servers, subject to the conditions of tournament practice. Violations will attract bans."
+  },
+  "graphicID": 20439,
+  "groupID": 1275,
   "name": {
     "de": "Tournament Practice Unit",
     "en": "Tournament Practice Unit",
@@ -10,5 +21,8 @@
     "ru": "Tournament Practice Unit",
     "zh": "Tournament Practice Unit"
   },
+  "portionSize": 1,
+  "published": false,
+  "sofFactionName": "genericmetal",
   "volume": 1.0
 }

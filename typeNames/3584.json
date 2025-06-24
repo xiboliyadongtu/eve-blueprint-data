@@ -1,5 +1,17 @@
 {
-  "typeID": 3584,
+  "description": {
+    "de": "Funktionsmäßig ist dieses Stück Hardware, welches offensichtlich von den Sansha stammt, eine sehr hochentwickelte Parallelverabeitungs-Einheit. Die Verbindung zu einer standardmäßigen Datenleitung und die folgenden Diagnosen haben ergeben, dass die Einheit als Hauptknoten eines quasi-vertriebenen Entschlüsslungssystems konfiguriert wurde, und die Rückmelde-Rate lässt vermuten, dass sie bei dieser Aufgabe ausgesprochen effizient ist.<br><br>Es ist allerdings schwer davon abzusehen, dass es sich hierbei außerdem um einen Kopf im Einmachglas handelt - besonders, wenn sich dessen Augen öffnen, sich umsehen und sich seine Stirn runzelt.",
+    "en": "Functionally, this piece of hardware - obviously of Sansha origin - is an extremely sophisticated parallel processing unit. Connecting it to a standard interface bus and running a few diagnostics reveals that it has been configured to act as the master node for a quasi-distributed decryption system, and its response rate suggests that it's exceptionally efficient at this task.<br><br>It is, however, difficult to ignore the fact that it's also a head in a jar - particularly when it opens its eyes briefly, looks around, and frowns.",
+    "es": "En cuanto a su función, este hardware, obviamente de origen sansha, es una unidad de procesamiento en paralelo extremadamente sofisticada. Al conectarla con un bus de interfaz estándar y ejecutar varios diagnósticos, vemos que ha sido configurada para actuar como nodo maestro de un sistema de decodificación cuasidistribuido cuya rapidez de respuesta sugiere que resulta excepcionalmente eficaz.<br><br>Pese a todo, es difícil obviar el hecho de que también es una cabeza metida en un tarro, sobre todo cuando abre los ojos, mira alrededor y frunce el ceño.",
+    "fr": "Ce matériel fonctionnel d'origine sansha est une unité de traitement parallèle extrêmement sophistiquée. Lorsqu'il est connecté à un bus d'interface standard et que les diagnostics ont été effectués, on s'aperçoit qu'il a été configuré pour agir en tant que nœud maître pour un système de décryptage quasi distribué. Par ailleurs, son taux de réponse suggère une efficacité exceptionnelle pour ce type de tâches.<br><br>Cependant, il est difficile d'ignorer qu'il s'agit également d'une tête dans un bocal, surtout quand elle ouvre les yeux en fronçant légèrement les sourcils.",
+    "ja": "機能的には、このハードウェアは明らかにサンシャの物だが、極めて洗練された並列処理ユニットである。標準のインターフェイスバスに接続していくつかの計測を実行すると、準分散暗号化システムのマスターノードとして動作するよう設定されていることが分かる。また、その反応率から、この作業に対して非常に効率良くできていることが推測される。<br><br>しかし、瓶に入った頭部であるということは無視できない事実である。特に、素早く目を開け、周りを見回し、眉をしかめたときはなおさらだ。",
+    "ko": "산샤 네이션에서 제작한 것으로 보이는 이 하드웨어는 정교한 병렬처리 시스템을 갖추고 있습니다. 일반적인 인터페이스 버스와 연결을 한 뒤 몇 가지 진단을 실행한 결과 유사 분산 해독 시스템의 마스터 노드로 구성되었다는 점이 확인되었습니다. 하드웨어의 반응 속도를 보아 해독에 매우 특화되어있음을 알 수 있습니다.<br><br>그러나 이것이 병에 들어있는 머리라는 점을 무시하기 쉽지않습니다. 특히 반쯤 눈을 뜨고 주변을 살피는듯 찌푸린 이 표정이 굉장히 신경 쓰입니다.",
+    "ru": "Несомненно, это устройство было создано Sansha. Оно представляет собой чрезвычайно сложный модуль для параллельной обработки данных, который можно подсоединить к стандартной шине. Результаты диагностики показывают, что, судя по всему, оно выполняло функции центрального узла для квазираспределенной системы дешифровки, а скорость отклика указывает на невероятную эффективность работы.<br><br>Вместе с тем трудно игнорировать тот факт, что это, по сути, не что иное как голова в банке... особенно когда она на мгновение открывает глаза, осматривается и морщит лоб.",
+    "zh": "从功能上讲，这个明显来自于萨沙的设备是一个十分精致的同步处理器。将它与一个标准的接口总线连接并对其进行诊断性测试之后，人们发现它是配置过后用作类分布解密系统中的主节点，其应答率表明该设备运行效率非常高。<br><br>不过有一点不得不引起人注意的是，这玩意竟然是一个装在瓶罐里的头颅，尤其是当它稍微睁开一下眼睛、环顾四周最后皱眉头时。"
+  },
+  "groupID": 314,
+  "iconID": 2553,
+  "mass": 700.0,
   "name": {
     "de": "True Slave Decryption Node",
     "en": "True Slave Decryption Node",
@@ -10,5 +22,7 @@
     "ru": "True Slave Decryption Node",
     "zh": "忠实劳工解密节点"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 4.0
 }

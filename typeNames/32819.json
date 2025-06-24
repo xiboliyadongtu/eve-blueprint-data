@@ -1,5 +1,18 @@
 {
-  "typeID": 32819,
+  "description": {
+    "de": "Diese Schiffsmodifikation wurde dazu entwickelt, die Zyklusdauer für Eisschürfer zu verringern.",
+    "en": "This ship modification is designed to reduce the duration of ice harvester cycles.",
+    "es": "Esta modificación de nave está diseñada para reducir la duración de los ciclos de la cosechadora de hielo.",
+    "fr": "Cette modification de vaisseau est conçue pour réduire la durée des cycles de collecte de glace.",
+    "ja": "アイス採掘機のサイクル時間を短縮する。\n\n<br>採掘艦および特化型採掘艦にのみ有効。\n\n<br>採掘リグとアイス採掘リグを同時に装備することはできない。",
+    "ko": "리그 장착 시 아이스 채굴기의 채굴 사이클 시간이 감소합니다.",
+    "ru": "Этот тюнинг-модуль разработан для сокращения продолжительности рабочего цикла установок для бурения льда.",
+    "zh": "该改装件用来降低冰矿采集器的运转周期。"
+  },
+  "groupID": 1232,
+  "iconID": 3199,
+  "marketGroupID": 1783,
+  "mass": 200.0,
   "name": {
     "de": "Medium Ice Harvester Accelerator I",
     "en": "Medium Ice Harvester Accelerator I",
@@ -10,5 +23,8 @@
     "ru": "Medium Ice Harvester Accelerator I",
     "zh": "中型冰矿采集器加速器 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 100.0,
   "volume": 10.0
 }

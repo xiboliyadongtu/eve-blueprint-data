@@ -1,5 +1,19 @@
 {
-  "typeID": 25771,
+  "basePrice": 6000.0,
+  "capacity": 1.0,
+  "description": {
+    "de": "Ein Raketenwerfer, der so modifiziert wurde, dass er mit Aufklärungssonden geladen werden kann. Auf jedem Schiff kann nur ein Sondenstarter montiert werden.",
+    "en": "A missile launcher shell modified to fit recon probes. Only one probe launcher can be fitted per ship.",
+    "es": "Un proyectil para lanzamisiles modificado para poder utilizarlo con sondas de reconocimiento. Solo se puede equipar un lanzasondas por nave.",
+    "fr": "Lance-missiles modifié pour larguer des sondes de reconnaissance. Un seul lanceur de sonde peut être installé par vaisseau.",
+    "ja": "リーコンプローブの発射が可能となる。搭載可能なプローブランチャーは、1 艦につき 1 基のみ。",
+    "ko": "리콘 프로브 장착을 위해 개조된 미사일 런처 외장입니다. 프로브 런처는 한 함선에 한 개만 장착할 수 있습니다.",
+    "ru": "Пусковая установка, модифицированная для использования разведывательных зондов. На корабле может помещаться только одна пусковая установка для зондов.",
+    "zh": "这是为装配侦测探针而改进的导弹发射支架。每艘飞船只能安装一部探针发射器。"
+  },
+  "groupID": 481,
+  "iconID": 2677,
+  "metaGroupID": 2,
   "name": {
     "de": "Recon Probe Launcher II",
     "en": "Recon Probe Launcher II",
@@ -10,5 +24,7 @@
     "ru": "Recon Probe Launcher II",
     "zh": "侦测探针发射器 II"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 5.0
 }

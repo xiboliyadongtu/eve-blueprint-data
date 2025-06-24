@@ -1,5 +1,16 @@
 {
-  "typeID": 46583,
+  "description": {
+    "de": "Ein längst vergessenes, verbrauchtes Asteroidenfeld.",
+    "en": "A long forgotten depleted asteroid field.",
+    "es": "Campo de asteroides agotado y olvidado tiempo ha.",
+    "fr": "Un champ d'astéroïdes appauvri oublié depuis longtemps.",
+    "ja": "長らく忘れられ枯渇したアステロイドフィールド",
+    "ko": "아무도 찾지 않는 고갈된 소행성 지대입니다.",
+    "ru": "Заброшенное скопление истощённых астероидов.",
+    "zh": "一片废弃已久的已经枯竭的小行星带。"
+  },
+  "graphicID": 21919,
+  "groupID": 226,
   "name": {
     "de": "Depleted Asteroid Field",
     "en": "Depleted Asteroid Field",
@@ -10,5 +21,7 @@
     "ru": "Скопление астероидов истощено",
     "zh": "枯竭的小行星带"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "sofFactionName": "asteroiddepleted"
 }

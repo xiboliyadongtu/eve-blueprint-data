@@ -1,5 +1,18 @@
 {
-  "typeID": 53300,
+  "capacity": 27500.0,
+  "description": {
+    "de": "Die Überreste einer zerstörten Struktur. Mit der richtigen Ausrüstung könnte man vielleicht noch etwas daraus bergen.",
+    "en": "The remains of a destroyed structure. Perhaps with the proper equipment something of value could be salvaged from it.",
+    "es": "Restos de una estructura destruida. Quizá se pueda recuperar algo de valor con el equipo adecuado.",
+    "fr": "Vestiges d'une structure détruite. Avec le matériel approprié, il sera peut-être possible d'en tirer quelque chose.",
+    "ja": "破壊されたストラクチャの残骸。適切な装備を使えば、価値のあるパーツをサルベージできるかもしれない。",
+    "ko": "파괴된 구조물의 잔해입니다. 적합한 장비로 부품 및 자원을 획득할 수 있습니다.",
+    "ru": "Обломки уничтоженного сооружения. Возможно, при наличии подходящего оборудования из него получится извлечь что-нибудь ценное.",
+    "zh": "被摧毁的建筑残骸。使用适当的设备或许还能够从这些残渣中打捞一些有价值的物品。"
+  },
+  "graphicID": 24542,
+  "groupID": 186,
+  "mass": 10000.0,
   "name": {
     "de": "Dazh Liminality Locus Wreckage",
     "en": "Dazh Liminality Locus Wreckage",
@@ -10,5 +23,9 @@
     "ru": "Dazh Liminality Locus Wreckage",
     "zh": "达兹阈限轨迹残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "triglavianbase",
   "volume": 27500.0
 }

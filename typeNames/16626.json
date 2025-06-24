@@ -1,5 +1,18 @@
 {
-  "typeID": 16626,
+  "capacity": 120.0,
+  "description": {
+    "de": "Ein Kreuzer der örtlichen Miliz. Bedrohungsstufe: Tödlich",
+    "en": "A local militia cruiser.  Threat level: Deadly",
+    "es": "Crucero de la milicia local. Nivel de amenaza: letal.",
+    "fr": "Un croiseur de la milice locale.  Niveau de menace : mortel",
+    "ja": "地元義勇軍の巡洋艦。危険度:致命的",
+    "ko": "지역 밀리샤 크루저입니다. 위험도: 치명적",
+    "ru": "Крейсер местного ополчения. Уровень опасности: смертельный",
+    "zh": "一艘当地民兵巡洋舰。威胁等级：致命的"
+  },
+  "graphicID": 337,
+  "groupID": 817,
+  "mass": 1200000.0,
   "name": {
     "de": "Militia Guardian",
     "en": "Militia Guardian",
@@ -10,5 +23,11 @@
     "ru": "Militia Guardian",
     "zh": "民兵守卫"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 100.0,
+  "sofFactionName": "angelbase",
+  "soundID": 31,
   "volume": 109000.0
 }

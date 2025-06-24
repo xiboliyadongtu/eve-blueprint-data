@@ -1,5 +1,18 @@
 {
-  "typeID": 60140,
+  "capacity": 27500.0,
+  "description": {
+    "de": "Eine Aufzuchtkapsel, in der eine Raubdrohne in einem Prozess zusammengebaut wird, der auf unheimliche Weise an eine Art Wachstum erinnert.",
+    "en": "A nursery pod where a rogue drone will be assembled in a process that bears an eerie resemblance to growth.",
+    "es": "Una cápsula de cría en la que se ensambla un dron rebelde en un proceso que tiene un inquietante parecido con el crecimiento.",
+    "fr": "Une capsule de pépinière dans laquelle un drone renégat sera assemblé, dans un processus qui comporte une ressemblance troublante avec la croissance d'un fœtus.",
+    "ja": "製造ポッドはローグドローンが組み立てられる場所である。そのプロセスは不気味と「成長」に似ている。",
+    "ko": "로그 드론을 생산하는 번식 포드로 마치 유기체와 같은 방식으로 드론이 생산됩니다.",
+    "ru": "Капсула-инкубатор, где производится новый дрон, имеет жутковатое сходство с яйцом насекомого.",
+    "zh": "自由无人机在这个培养基中以某种怪异的方式组装并成长。"
+  },
+  "graphicID": 25002,
+  "groupID": 1975,
+  "mass": 10000.0,
   "name": {
     "de": "Rogue Drone Nursery Pod",
     "en": "Rogue Drone Nursery Pod",
@@ -10,5 +23,9 @@
     "ru": "Rogue Drone Nursery Pod",
     "zh": "自由无人机培养室"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "roguebase",
   "volume": 27500.0
 }

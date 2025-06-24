@@ -1,5 +1,17 @@
 {
-  "typeID": 365393,
+  "basePrice": 149000.0,
+  "description": {
+    "de": "Skill zur Benutzung von Kampfgewehren.\n\n5% Abzug auf den Rückstoß von Kampfgewehren pro Skillstufe.",
+    "en": "Skill at handling combat rifles.\r\n\r\n5% reduction to combat rifle kick per level.",
+    "es": "Habilidad de manejo de fusiles de combate.\n\n-5% al retroceso de los fusiles de combate por nivel.",
+    "fr": "Compétence permettant de manipuler les fusils de combat.\n\n5 % de réduction du recul du fusil de combat par niveau.",
+    "it": "Abilità nel maneggiare fucili da combattimento.\n\n5% di riduzione al rinculo del fucile da combattimento per livello.",
+    "ja": "コンバットライフルを扱うスキル。\n\nレベル上昇ごとに、コンバットライフルの反動が5%軽減する。",
+    "ko": "컴뱃 라이플 운용을 위한 스킬입니다. <br><br>매 레벨마다 컴뱃 라이플 반동 5% 감소",
+    "ru": "Навык обращения с боевыми винтовками.\n\n5% снижение силы отдачи боевых винтовок на каждый уровень.",
+    "zh": "使用战斗步枪的技能。每升一级，战斗步枪的后坐力降低5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Bedienung: Kampfgewehr",
     "en": "Combat Rifle Operation",
@@ -11,5 +23,7 @@
     "ru": "Обращение с боевой винтовкой",
     "zh": "战斗步枪操作"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

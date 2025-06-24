@@ -1,5 +1,17 @@
 {
-  "typeID": 28261,
+  "basePrice": 6000000.0,
+  "description": {
+    "de": "Kenntnis über das SCC-Steuerregime und die Fähigkeit dies zum eigenen Vorteil zu nutzen. 2% weniger SCC-Steuern pro Skillstufe. \r\n\r\nHinweis: Dieser Skill gilt nicht für Steuern die von Spieler-Corporations erhoben werden.",
+    "en": "Knowledge of the SCC tax regime and the ability to utilize that to one's own advantage.\r\n\r\n2% reduction in SCC tax per level. \r\n\r\nNote: This skill does not apply to taxes imposed by player corporations.",
+    "es": "Conocimiento sobre el régimen de impuestos de la CCS y la capacidad de utilizarlo en beneficio propio.\n\n2 % de reducción de los impuestos de la CCS por nivel.\n\nAviso: Esta habilidad no se aplica a impuestos recaudados por corporaciones de jugadores.",
+    "fr": "Connaissance du système de taxation CCS et capacité à l'utiliser à votre avantage.\n\nRéduit de 2 % par niveau la taxe CCS. \n\nRemarque : cette compétence ne s'applique pas aux taxes imposées par les corporations de joueurs.",
+    "ja": "SCC の税制に関する知識と、その知識を自分の利益のために利用する能力。レベル上昇ごとに SCC 税が 2% 削減される。注 : このスキルは、プレイヤーのコーポレーションが課す税には適用されない。",
+    "ko": "안전무역위원회의 세금 체제에 대한 지식을 습득해 탈세에 악용합니다. <br><br>매 레벨마다 안전무역위원회 세금 2% 감소 <br><br>참고: 다른 코퍼레이션 캡슐리어들이 부과한 세금에는 적용되지 않습니다.",
+    "ru": "Знание налоговой системы SCC и способность использовать это знание в корыстных целях.\n\n\n\nЗа каждую степень освоения навыка: на 2% снижаются налоги SCC. \n\n\n\nВнимание: Этот навык не применяется к налогам, устанавливаемым корпорациями игроков.",
+    "zh": "理解商业安全委员会(SCC)税收制度以及利用该制度为自己谋取利益的技能。\r\n\r\n每升一级，SCC税收减少2%。\r\n\r\n注意：此技能不适用于玩家军团所征的税收。"
+  },
+  "groupID": 274,
+  "iconID": 33,
   "name": {
     "de": "Tax Evasion",
     "en": "Tax Evasion",
@@ -10,5 +22,7 @@
     "ru": "Уклонение от уплаты налогов",
     "zh": "避税技巧"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

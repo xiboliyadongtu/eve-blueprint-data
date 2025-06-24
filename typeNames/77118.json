@@ -1,5 +1,19 @@
 {
-  "typeID": 77118,
+  "basePrice": 5000.0,
+  "description": {
+    "de": "Mutanite ist eine instabile Erzform, die durch jeglichen Versuch der Verfeinerung mit den in New Eden verfügbaren Technologien unbrauchbar wird. Trotzdem steht es bei den Hauptfraktionen des Clusters hoch im Kurs, denn seine einzigartige und sich stetig wandelnde Molekularstruktur verheißt neue Einblicke in die Umgebungsverhältnisse des Abgrunds, in dem es entstanden ist. Die Amperum-Variante des Mutanites entsteht in einer elektrischen Abgrundumgebung und soll eine starke elektrische Strömung erzeugen können – allerdings nur in einer versiegelten Leere außerhalb der Reichweite jeglicher Leitungs- oder Sensorgeräte.",
+    "en": "An unstable form of ore, mutanite is rendered useless by any attempt to refine it with the technologies currently available in New Eden. Despite this, it is highly prized by the cluster's major factions as its unique and evershifting molecular structures hold the promise of new insights into the Abyssal environments inside which they formed.\r\n\r\nThe Amperum variant of mutanite forms in an Electrical abyssal environment and is theorized to generate a powerful electrical current, but only when inside a sealed void outside the range of any conductive or sensory apparatus.",
+    "es": "La mutanita, una forma inestable de mena, se vuelve inútil en cualquier intento de refinarla con las tecnologías disponibles actualmente en Nuevo Edén. A pesar de ello, es muy apreciada por las principales facciones del cúmulo, ya que sus estructuras moleculares únicas y cambiantes prometen nuevos conocimientos sobre los entornos abisales en los que se formó.    La variante Amperum de la mutanita se forma en un entorno abisal eléctrico y se teoriza que genera una poderosa corriente eléctrica, pero solo cuando se encuentra dentro de un vacío sellado fuera del alcance de cualquier aparato conductivo o sensorial.",
+    "fr": "La mutanite est une forme instable de minerai, qui devient inutile lorsque l'on tente de le raffiner à l'aide des technologies actuellement disponibles à New Eden. Il est malgré tout très prisé par les factions principales de la galaxie pour ses structures moléculaires uniques et changeantes promettant de nouvelles découvertes sur les environnements abyssaux dans lesquels il est formé. La variante Amperum de la mutanite se forme dans un environnement abyssal électrique. En théorie, elle génère un courant électrique puissant, mais seulement lorsqu'elle est dans un vide scellé, hors de portée de tout appareil conducteur ou de détection.",
+    "ja": "不安定な鉱物ミュータナイトは、ニューエデンにおいて利用できる技術では精錬できず、実際に試みても無用の長物と化してしまう。しかし星団の主要な勢力の間では需要が高く、常時変化しつづけるという独特の分子構造は、産出地であるアビスの環境をさらに詳しく知る鍵になるのではないかと期待されている。    ミュータナイトのアンペルム型は電気タイプのアビサル環境で形成されたものである。強力な電流を発生させることができると考えられているが、この現象は導電性もしくはセンサー系機材の範囲から距離を置いた、密閉された空間内でのみ観測できる。",
+    "ko": "뮤타나이트는 어비설 데드스페이스에서 생성되는 대단히 불안정한 광물로, 현존하는 뉴에덴의 기술로 정제를 시도하면 곧바로 무용지물이 됩니다. 그러나 끊임없이 변화하는 그 독특한 분자 구조를 연구하면 어비설 데드스페이스 환경을 한층 더 깊이 이해할 수 있을 것으로 예상됩니다. 때문에 뉴에덴의 주요 세력이 서로 차지하려 다투고 있습니다.<br><br>뮤타나이트의 변종인 암페룸은 전기장이 강력한 어비설 환경에서 형성되며 이론적으로 강력한 전류를 발생시킬 수 있습니다. 다만 전도성 물질 또는 음파 센서의 영향을 받지 않는 밀폐된 진공 상태에서만 전류가 발생합니다.",
+    "ru": "Мутанит — руда с неустойчивой структурой, которая не поддаётся переработке на текущем уровне развития технологий, и разрушается при любой попытке это сделать. Несмотря на это, мутанит высоко ценится основными державами и ведущими организациями Нового Эдема: его уникальные и постоянно меняющиеся молекулярные соединения могут пролить свет на особенности сред Мёртвой бездны, где и образуется эта руда. Разновидность мутанита, названная амперумом, формируется в наэлектризованной среде Мёртвой бездны. В теории амперум может создавать мощный электрический ток, но для этого он должен находиться в герметичном вакууме вне зоны действия любых проводящих и сенсорных устройств.",
+    "zh": "突变石是一种不稳定的矿石，如果试图用新伊甸现有的技术对其进行提炼，它将变得毫无用处。尽管如此，突变石还是受到集群主要势力的高度赏识。因为人们有望通过突变石不断变化的独特分子结构，对由其构成的深渊环境形成新的认识。突变石的安培变种形成于电子深渊环境，理论上可以产生强大的电流，但仅适用于任何导电或感应装置作用范围之外的封闭空间。"
+  },
+  "groupID": 4568,
+  "iconID": 25629,
+  "marketGroupID": 2479,
+  "mass": 4000.0,
   "name": {
     "de": "Amperum Mutanite",
     "en": "Amperum Mutanite",
@@ -10,5 +24,7 @@
     "ru": "Amperum Mutanite",
     "zh": "安培突变石"
   },
+  "portionSize": 100,
+  "published": true,
   "volume": 4.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 2233,
+  "capacity": 35000.0,
+  "description": {
+    "de": "Orbitale Zollstellen sind die wichtigsten Verbindungspunkte zwischen planetarer und interplanetarer Wirtschaft. Diese Einrichtungen, die an massive Hangars im All erinnern, ermöglichen Massentransporte in schneller Folge zwischen der Oberfläche eines Planeten und seinem Orbit.\r\n\r\n<i>Auszug aus den Zollamtbestimmungen von Amarr Prime, Abschnitt 17, Unterabschnitt 4, Paragraph 8:\r\n\r\nDie folgenden Gegenstände können nur mit der ausdrücklichen vorherigen Genehmigung des Imperialen Schreibers für Handelsbelange importiert oder exportiert werden:\r\n\r\nBetäubungsmittel, Handfeuerwaffen, Geiferhunde (ausgenommen als persönlicher Besitz), Mindflood, lebende Insekten, Huftiere, Kühlflüssigkeit und Aerosol der Klasse 1, Zwangsarbeiter/persönliche Sklaven (oder anderes menschliches Material), tierisches Bakterien-Plasma, Biomasse menschlichen Ursprungs, Xenobiotika, Walnüsse.</i>",
+    "en": "Orbital Customs Offices are the primary points of contact between planetary and interplanetary economies. These facilities, resembling massive hangars in space, provide high-volume, high-frequency cargo transport services between a planet's surface and orbit.\r\n\r\n<i>Excerpt from the Amarr Prime Customs Agency regulations, section 17, subsection 4, paragraph 8:\r\n\r\nThe following items may only be imported or exported with the express prior approval of the Imperial Underscrivener for Commercial Affairs:\r\n\r\nNarcotic substances; handheld firearms; slaver hounds (except as personal property); Mindflood; live insects; ungulates; Class 1 refrigerants and aerosols; forced laborers/personal slaves (or other sapient livestock); animal germ-plasm; biomass of human origin; xenobiotics; walnuts.</i>",
+    "es": "Las Aduanas orbitales son los principales puntos de contacto entre la economía planetaria e interplanetaria. Estos centros, similares a hangares enormes en el espacio, proporcionan un gran volumen de transporte de mercancías de alta frecuencia entre la superficie de un planeta y su órbita.\n\n\n\n<i>Extracto del reglamento de la Agencia de Aduanas de Amarr Prime, sección 17, subsección 4, párrafo 8:\n\n\n\nLos siguientes artículos solo pueden importarse o exportarse con la aprobación previa del subescribano imperial de Asuntos Comerciales:\n\n\n\nSustancias narcóticas, armas de fuego portátiles, perros de presa esclavistas (excepto si son propiedad personal), Mindflood, insectos vivos, ungulados, refrigerantes y aerosoles de clase 1, esclavos obreros y personales (u otros tipos de ganado sapiente), plasma germinal animal, biomasa de origen humano, xenobióticos, nueces.</i>",
+    "fr": "Les bureaux de douane orbitaux sont les principaux points de contact entre les économies planétaires et interplanétaires. Ces structures, qui ressemblent à de gigantesques hangars dans l'espace, fournissent des services de transport de gros volumes à haute fréquence entre la surface d'une planète et son orbite.\n\n<i>Extrait du règlement de l'agence de douane d'Amarr Prime, section 17, sous-section 4, paragraphe 8 :\n\nLes objets suivants ne peuvent être importés ou exportés qu'avec l'autorisation expresse du sous-scribe impérial pour les affaires commerciales :\n\nStupéfiants, armes à feu, molosses esclavagistes (sauf bien personnel), Mindflood, insectes vivants, ongulés, réfrigérants et aérosols de classe 1, travailleurs forcés / esclaves personnels (ou autre bétail du même type), animaux au plasma germinatif, biomasse d'origine humaine, xénobiotiques, noix.</i>",
+    "ja": "惑星経済および惑星間経済の主要窓口。宇宙の大規模な格納庫のようなもので、惑星の地表と軌道を結ぶ、大量で高頻度のカーゴ輸送サービスが運航されている。\n\n<i>アマープライム税関機関規定の 17 条 4 項第 8 段落の抜粋 :\n以下のアイテムを輸入または輸出するには、事前に帝国の商務公証人の特別承認が必要である。\n麻薬物質、携帯型火器、スレイバーハウンド（個人所有の場合は除く）、マインドフラッド、生きた昆虫、有蹄動物、クラス 1 冷却液およびエアロゾル、強制労働者／個人の奴隷（またはその他の思考能力のある生命体）、動物の生殖細胞質、人由来のバイオマス、生体異物、クルミ。</i>",
+    "ko": "행성간의 교두보 역할을 하는 시설입니다. 거대한 격납고를 연상시키는 구조물로 궤도 시설과 행성 사이에서 이루어지는 모든 종류의 운송 업무를 통제합니다.<br><br><i>아마르 프라임 관세청 규정집, 제17장 4조 8번째 문단에서 발췌: <br><br>다음 물품에 대한 수출입을 진행하기 위해서는 제국 검사관의 사전 허가가 이루어져야만 한다: <br><br>마약류,휴대용 화기, 슬레이버 하운드(개인 소유 제외), 마인드플러드, 살아있는 곤충, 유제 동물, 1급 냉각제 및 에어로졸, 노예(인간형 가축 포함), 동물 생식질, 인간에게서 비롯된 바이오매스, 외인성화합물, 호두.</i>",
+    "ru": "Орбитальные офисы таможни – основные точки соприкосновения между планетарной и внепланетарной экономикой. Эти комплексы, напоминающие огромные ангары, висящие в космосе, обеспечивают крупномасштабные высокочастотные перевозки грузов между поверхностью планеты и орбитой.\n<i>Выдержка из таможенных правил Amarr Prime, раздел 17, подраздел 4, параграф 8:\n\nНижеследующие товары подлежат ввозу и вывозу только при безусловном одобрении и разрешении, выданном Имперской канцелярией по коммерческим делам:\n\nНаркотические вещества; личное огнестрельное оружие; гончие на рабов (за исключением находящихся в личной собственности); бустер Mindflood; живые насекомые; копытные; хладагенты и аэрозоли класса 1; принудительно нанятые рабочие и личные рабы (а также иные разумные виды живности); животная микробиальная плазма; биомасса человеческого происхождения; ксенобиотики; грецкие орехи.</i>",
+    "zh": "轨道海关办公室是行星之间经贸的关键出入口。这些设施就是太空中巨大的机库，在行星表面与轨道之间提供大体积高强度的运输服务。<i>\n摘录自艾玛首星海关局管理条例，第17条，第4款，第8段：\n以下物品只能在皇家商务局总管签发运输许可后才能予以进口和出口：\n\n迷幻药类制剂；手持轻武器；猎奴犬（个人财产除外）；思维冲击；活体昆虫；有蹄动物；一类制冷剂和气雾剂；强制劳力/私人劳工（或其他智慧生物）；动物种质；人类源生物质；外源性生物物质；胡桃。\n</i>"
+  },
+  "graphicID": 4579,
+  "groupID": 1025,
+  "mass": 5000000000.0,
   "name": {
     "de": "Customs Office",
     "en": "Customs Office",
@@ -10,5 +23,10 @@
     "ru": "Customs Office",
     "zh": "海关办公室"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 8000.0,
+  "sofFactionName": "genericmetal",
+  "soundID": 10029,
   "volume": 100000000.0
 }

@@ -1,5 +1,21 @@
 {
-  "typeID": 15873,
+  "capacity": 1.0,
+  "description": {
+    "de": "Dieser schwere Impulslaser verwendet zwei separate Laser-Fokussierungssysteme, um die Abkühlungsphase zwischen den Schüssen zu verkürzen; eine großartige Waffe für Gefechte auf mittlere und weite Entfernung. \n\nMuss mit einem der folgenden Frequenzkristalle bestückt werden: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",
+    "en": "This heavy pulse laser uses two separate laser focusing systems to reduce the cool down period between shots. A great weapon for medium to long range encounters. \r\n\r\nRequires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",
+    "es": "Este láser de pulsos pesado usa dos sistemas de enfoque láser independientes para reducir el periodo de enfriamiento entre los disparos. Bueno para encuentros a media y larga distancia.\n\nRequiere tipos de munición de cristales de frecuencia: gamma, infrarrojos, microondas, multifrecuencia, radio, estándar, ultravioleta, rayos X.",
+    "fr": "Ce laser à impulsions lourd utilise deux systèmes laser séparés pour réduire le temps de refroidissement entre les tirs. C'est une arme très efficace pour les combats à moyenne et longue portée. \n\nRequiert les cristaux de fréquence suivants en guise de munitions : gamma, infrarouge, micro-onde, multifréquence, radio, standard, ultraviolet, rayon X.",
+    "ja": "ヘビーパルスレーザー。独立した 2 基のレーザー集束システムを交互に使用して、連射の間の冷却時間を短縮している。中長距離での交戦に適した兵器である。\r\n\n装填可能なフリーケンシークリスタルのタイプ : ガンマ、赤外線、マイクロ波、多周波、放射線、標準、紫外線、エックス線。",
+    "ko": "분리된 두 개의 레이저 집속시스템을 사용하여 발사 간 냉각 시간이 줄어들었습니다. 중장거리 교전에 특화된 무기입니다. <br><br>사용 가능한 프리퀀시 크리스탈: 감마선, 적외선, 마이크로파, 멀티프리퀀시, 라디오파, 스탠다드, 자외선, 엑스선.",
+    "ru": "Этот мощный импульсный лазер оснащен двумя раздельными системами фокусировки лазерного излучения, позволяющими сократить перерывы на охлаждение и повышающими скорострельность. Рекомендуется для ведения огня на средних и дальних дистанциях.\n\nСледует заряжать частотными кристаллами: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",
+    "zh": "这种重型脉冲激光器配有两个独立的激光聚焦装置，以缩短两次开火之间的冷却周期。适用于中远程交战的上佳武器。\r\n\r\n使用的频率晶体弹药类型：伽玛、红外线、微波、多频、射频、标准、紫外线和X射线。"
+  },
+  "graphicID": 21692,
+  "groupID": 53,
+  "iconID": 360,
+  "marketGroupID": 573,
+  "mass": 2000.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Imperial Navy Dual Heavy Pulse Laser",
     "en": "Imperial Navy Dual Heavy Pulse Laser",
@@ -10,5 +26,10 @@
     "ru": "Imperial Navy Dual Heavy Pulse Laser",
     "zh": "帝国海军双联重型脉冲激光器"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "sofFactionName": "amarrnavy",
+  "variationParentTypeID": 460,
   "volume": 20.0
 }

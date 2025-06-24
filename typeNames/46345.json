@@ -1,5 +1,19 @@
 {
-  "typeID": 46345,
+  "capacity": 120.0,
+  "description": {
+    "de": "Dieses Modell einer Sleeper-Drohne hat dasselbe Design wie fortschrittliche Wachpostendrohnen, doch ihr tadelloser Zustand und kleine Unterschiede legen nahe, dass es sich um eine neue Konstruktion handelt, die erst vor Kurzem in Dienst gestellt wurde.\n\n\n\nDiese Sleeper-Drohne scheint Teil einer Flotte zu sein, die die Wracks der Drifter verteidigen. Vermutlich sollen sie verhindern, dass jemand die Technologie entwendet.",
+    "en": "This model of Sleeper drone shares a common design with advanced picket duty drones but is in pristine condition and differences of detail suggest it is an updated design recently constructed and put into service.\r\n\r\nThis Sleeper drone seems to be part of a force defending Drifter wrecks, presumably to guard against any technology they harbor being pilfered.",
+    "es": "Este modelo de dron sleeper comparte diseño con los drones de retén con tecnología avanzada, aunque está en perfectas condiciones, y las diferencias en los detalles sugieren que se trata de una versión actualizada y puesta en marcha recientemente.\n\n\n\nEste dron sleeper parece formar parte de una fuerza que defiende restos drifters, seguramente para evitar que roben su tecnología.",
+    "fr": "Ce modèle de drone sleeper a une apparence similaire à celle des drones de garde avancés, mais son parfait état et des différences dans les détails laissent supposer qu'il s'agit d'un tout nouveau modèle récemment construit et mis en service. Ce drone sleeper semble faire partie d'un groupe protégeant les épaves de Drifters, vraisemblablement là pour préserver les technologies qu'elles recèlent des éventuels pillards.",
+    "ja": "このタイプのスリーパードローンは、高性能哨戒ドローンと共通した設計を有しているが、状態が極めて良く、細部に違いがあることから最近建造・投入された新型であると思われる。\r\n\nこのスリーパードローンはドリフターの残骸を護衛している部隊の一部のようだ。部隊の目的はおそらく、残骸の内部に存在するテクノロジーが盗まれるのを防ぐことだろう。",
+    "ko": "첨단 경계 드론과 유사한 설계 구조를 지닌 슬리퍼 드론입니다. 깔끔한 외장과 추가된 기능들로 미루어 보아 비교적 최근에 생산 및 배치가 이루어졌을 것으로 추측됩니다. <br><br>외부 침입자들로부터 드리프터 잔해 속 물건을 도난당하는 것을 막기 위해 배치된 병력 중 하나로 보입니다.",
+    "ru": "Эти дроны Спящих очень похожи на современные заградительные дроны. Однако их безупречное состояние и небольшие отличия в деталях заставляют предположить, что это более новая модель, которая была создана и введена в строй совсем недавно.\n\n\n\nНаверное, этот дрон Спящих из той группы, которая обороняет обломки кораблей Скитальцев — скорее всего, чтобы никто не похитил хранящуюся там ценную технику.",
+    "zh": "这个冬眠者无人机的外形与高级警戒无人机相同，但其崭新的状态与某些细节都显示它是最近被建造并服役的全新设计。\n\n\n\n这个冬眠者无人机看起来隶属于一支守卫着流浪者残骸的部队，可能是在保卫它们所拥有的技术不被人偷走。"
+  },
+  "factionID": 500021,
+  "graphicID": 3527,
+  "groupID": 1664,
+  "mass": 10900000.0,
   "name": {
     "de": "Eosian Warden",
     "en": "Eosian Warden",
@@ -10,5 +24,11 @@
     "ru": "Eosian Warden",
     "zh": "黎明典狱官"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 64,
+  "radius": 150.0,
+  "sofFactionName": "sleeperbase",
+  "soundID": 12,
   "volume": 109000.0
 }

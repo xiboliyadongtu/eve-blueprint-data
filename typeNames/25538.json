@@ -1,5 +1,18 @@
 {
-  "typeID": 25538,
+  "basePrice": 1000000.0,
+  "description": {
+    "de": "Die Fertigkeit, die Intensität von Nebenwirkungen herabzusetzen, die bei der Injektion von Combat-Boostern auftreten.",
+    "en": "Proficiency at reducing the severity of the side effects experienced upon injection of combat boosters.",
+    "es": "Habilidad para reducir la gravedad de los efectos secundarios experimentados tras la inyección de potenciadores de combate.",
+    "fr": "Compétence visant à diminuer la gravité des effets secondaires résultant généralement de l'injection de boosters de combat.",
+    "ja": "コンバットブースターの注射による副作用の激しさを軽減するスキル。",
+    "ko": "컴뱃 부스터 주입으로 인한 부작용을 감소시키는 스킬을 습득합니다.",
+    "ru": "Изучение этого навыка позволяет уменьшить побочные эффекты, связанные с приёмом боевых стимуляторов.",
+    "zh": "减轻战斗增效剂的副作用对飞行员带来的痛苦的技能。"
+  },
+  "groupID": 1220,
+  "iconID": 33,
+  "marketGroupID": 1746,
   "name": {
     "de": "Neurotoxin Control",
     "en": "Neurotoxin Control",
@@ -10,5 +23,7 @@
     "ru": "Контроль нейротоксинов",
     "zh": "神经毒化控制理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

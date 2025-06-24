@@ -1,5 +1,19 @@
 {
-  "typeID": 10262,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieser verstärkte Container schlingert lautlos durchs Weltall und gibt keine Hinweise darauf, was für einen Schatz er verbirgt.",
+    "en": "The reinforced container revolves silently in space, giving little hint to what hoard it may hide.",
+    "es": "El contenedor reforzado gira silenciosamente en el espacio, dando pocas pistas sobre el tesoro que puede esconder.",
+    "fr": "Ce conteneur renforcé dérive dans l'espace. Nul ne sait à première vue ce qu'il peut renfermer.",
+    "ja": "強化コンテナ。銀河で静かに弧を描いて漂い、どんな宝が積まれているのか、外側からうかがい知ることはできない。",
+    "ko": "우주를 떠다니고 있는 강화 컨테이너로 안에 무엇이 담겨 있는지는 알 수 없습니다.",
+    "ru": "Бронированный контейнер спокойно дрейфует в космосе, не давая намеков на то, что в нем скрывается.",
+    "zh": "这个经加固的箱子静静地在太空中转动，不向人透露其中可能藏了什么宝物。"
+  },
+  "graphicID": 1176,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Forsaken Stockpile",
     "en": "Forsaken Stockpile",
@@ -10,5 +24,9 @@
     "ru": "Forsaken Stockpile",
     "zh": "抛弃的贮藏柜"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericmetal",
   "volume": 10500.0
 }

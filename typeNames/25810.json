@@ -1,5 +1,18 @@
 {
-  "typeID": 25810,
+  "basePrice": 1000000.0,
+  "description": {
+    "de": "Größere Genauigkeit bei der Ortsbestimmung von Zielen, die durch Scannen gefunden wurden. Reduziert die maximale Scanabweichung um 5% je Skillstufe.",
+    "en": "Greater accuracy in hunting down targets found through scanning. Reduces maximum scan deviation by 5% per level.",
+    "es": "Mayor precisión al cazar objetivos detectados mediante escaneo. Reduce un 5 % la desviación máxima de escaneo por nivel.",
+    "fr": "Améliore la précision lors de la recherche de cibles repérées par balayage. Réduit de 5 % par niveau les déviations maximales de balayage.",
+    "ja": "スキャンで目標物を発見する際に、高い精度で見つけ出すスキル。最大スキャン誤差がレベル上昇ごとに5%減少する。",
+    "ko": "타겟을 추적하기 위한 스캔 정확도가 증가합니다. 매 레벨마다 최대 스캔 오차 5% 감소",
+    "ru": "Повышение точности позиционирования при поиске объектов. За каждую степень освоения навыка: на 5% уменьшается предел возможного отклонения от точных координат при поиске объектов в космосе.",
+    "zh": "增加扫描所发现目标的定位精度的技能。每升一级，扫描误差降低5%。"
+  },
+  "groupID": 1217,
+  "iconID": 33,
+  "marketGroupID": 1110,
   "name": {
     "de": "Astrometric Pinpointing",
     "en": "Astrometric Pinpointing",
@@ -10,5 +23,7 @@
     "ru": "Повышение точности разведзондов",
     "zh": "定点测量学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

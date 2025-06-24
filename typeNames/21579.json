@@ -1,5 +1,17 @@
 {
-  "typeID": 21579,
+  "description": {
+    "de": "Dieser Dekodierer gibt interne Informationen über die Natur von Erfindungsaufgaben der Minmatar preis, hat aber keine inspirierenden Extras.<br><br>Wahrscheinlichkeitsmultiplikator: +10%<br>Max.-Durchlauf-Modifikator: NV<br>Materialeffizienz-Modifikator: +3<br>Zeiteffizienz-Modifikator: +6",
+    "en": "This decryptor gives insightful information into the nature of Minmatar invention jobs, but lacks inspirational touches.<br><br>Probability Multiplier: +10% <br>Max. Run Modifier: N/A <br>Material Efficiency Modifier: +3 <br>Time Efficiency Modifier: +6",
+    "es": "El desencriptador ofrece información relevante sobre la naturaleza de los trabajos de invención minmatarianos.<br><br>Multiplicador de probabilidad: +10 % <br>Modificador de ejecución máxima: N/A <br>Modificador de eficiencia de materiales: +3 <br>Modificador de eficiencia temporal: +6",
+    "fr": "Ce décrypteur donne des informations intuitives de la nature des travaux d'invention minmatar, mais parfois hors sujet.<br><br>Multiplicateur de probabilité : + 10 % <br>Modificateur de cycles max. : N/A <br>Modificateur de productivité matérielle : + 3 <br>Modificateur de gain de temps : + 6",
+    "ja": "ミンマター発明ジョブの本質に迫る洞察を得ることができるが、新しい発想に繋がるような内容には欠ける。<br><br>成功率係数：+10%<br>生産可能回数修正：なし<br>資源効率修正：+3<br>時間効率修正：+6",
+    "ko": "민마타 인벤션에 관한 유용한 정보를 제공하는 해독기지만 혁신적인 기능은 없습니다.<br><br>확률 증감: +10% <br>최대 실행 횟수 증감: 해당 없음 <br> 자원효율성 증감: +3 <br> 시간효율성 증감: +6",
+    "ru": "В этом файле данных содержится исчерпывающая информация о том, как модернизировать матарские проекты: к сожалению, при всей полноте в ней нет искры.<br><br>Вероятность успеха проекта: +10% <br>Число прогонов проекта: не меняется <br>Экономия материалов при производстве: +3 <br>Экономия времени производства: +6",
+    "zh": "这个解码器可以提供深入米玛塔尔发明项目本质的数据，但却不能给人以灵感。<br><br>机率调节值：+10%<br> 最大流程调节值：无<br>材料效率调节值：+3<br>时间效率调节值：+6"
+  },
+  "groupID": 729,
+  "iconID": 2885,
+  "mass": 1.0,
   "name": {
     "de": "Cryptic Process",
     "en": "Cryptic Process",
@@ -10,5 +22,7 @@
     "ru": "Cryptic Process",
     "zh": "加密处理装置"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

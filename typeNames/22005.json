@@ -1,5 +1,18 @@
 {
-  "typeID": 22005,
+  "capacity": 100.0,
+  "description": {
+    "de": "Dies ist ein Kampfschiff der Arch Angels. Es beschützt das Eigentum der Arch Angels und kann jeden angreifen, den es als Bedrohung oder leichte Beute einschätzt.\r\n\r\nBedrohungsstufe: Sehr niedrig",
+    "en": "This is a fighter for the Arch Angels. It is protecting the assets of Arch Angels and may attack anyone it perceives as a threat or easy pickings. Threat level: Very low",
+    "es": "Caza de los Arcángeles que protege sus bienes y puede atacar a todo aquello que perciba como una amenaza o una presa fácil. Nivel de amenaza: muy bajo.",
+    "fr": "Chasseur des Arch Angel. Il protège les biens des Arch Angel et peut attaquer quiconque est perçu comme une menace ou une proie facile. Niveau de menace : très faible",
+    "ja": "これはアークエンジェルズの戦闘機である。アークエンジェルズの資産警備にあたっており、脅威あるいはくみしやすい相手とみれば誰にでも襲いかかるだろう。危険度:非常に低い",
+    "ko": "아크 엔젤의 전투함입니다. 위협으로 간주되는 적이나 손쉬운 먹잇감으로 보이는 대상을 공격합니다. 위험도: 매우 낮음",
+    "ru": "Это боец Arch Angel. Он защищает владения Arch Angel и нападает на всех, кого посчитает опасностью или легкой добычей. Уровень опасности: очень низкий",
+    "zh": "这是一架大天使集团的战舰。它保护着大天使集团的产业，会主动攻击任何它认为可能造成威胁或者极易对付的飞船。威胁等级：非常低"
+  },
+  "graphicID": 345,
+  "groupID": 550,
+  "mass": 2112000.0,
   "name": {
     "de": "Cyber Hijacker",
     "en": "Cyber Hijacker",
@@ -10,5 +23,11 @@
     "ru": "Cyber Hijacker",
     "zh": "网络 劫持者"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 50.0,
+  "sofFactionName": "angelbase",
+  "soundID": 20900,
   "volume": 21120.0
 }

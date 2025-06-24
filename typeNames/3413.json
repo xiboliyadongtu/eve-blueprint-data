@@ -1,5 +1,18 @@
 {
-  "typeID": 3413,
+  "basePrice": 30000.0,
+  "description": {
+    "de": "Grundsätzliches Verständnis des Stromnetzes eines Raumschiffs. Bonus: 5% auf die Energiebereitstellung des Stromnetzes je Skillstufe.",
+    "en": "Basic understanding of spaceship energy grid systems. 5% Bonus to ship's powergrid output per skill level.",
+    "es": "Conocimiento básico de los sistemas de energía de las naves espaciales. Bonificación del 5 % al rendimiento del sistema de potencia por nivel de habilidad.",
+    "fr": "Compréhension de base des systèmes du réseau d'alimentation du vaisseau. Augmente de 5 % par niveau de compétence la puissance du réseau d'alimentation du vaisseau.",
+    "ja": "宇宙船のエネルギー回路システムに関する基本的な知識。スキルレベル上昇ごとに船のパワーグリッド出力に 5% のボーナス。",
+    "ko": "함선의 파워그리드에 대한 기본적인 이해를 습득합니다. 매 레벨마다 함선의 파워그리드 용량 5% 증가",
+    "ru": "Базовое понимание принципов работы энергосистемы корабля. За каждую степень освоения навыка: на 5% повышается мощность реактора корабля.",
+    "zh": "舰船能量栅格系统的基础知识。每升一级，能量栅格的输出量增加5%。"
+  },
+  "groupID": 1216,
+  "iconID": 33,
+  "marketGroupID": 368,
   "name": {
     "de": "Power Grid Management",
     "en": "Power Grid Management",
@@ -10,5 +23,7 @@
     "ru": "Управление реактором",
     "zh": "能量栅格管理学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

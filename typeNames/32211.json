@@ -1,5 +1,19 @@
 {
-  "typeID": 32211,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Archive können manchmal entlang der Spacelanes in New Eden gefunden werden. Zwar kommt es nicht gerade häufig vor, dass sie dort draußen eingerichtet werden, es ist aber bekannt, dass einige Personen und Unternehmen dort ihre wertvollen Dokumente aufbewahren. Einige werden durch logistische Faktoren dazu bewegt, denn es ist stets einfacher, Dinge von einem System ins andere zu transportieren, wenn sie sich bereits im All befinden. Andere schätzen ganz einfach die Ungestörtheit und die Sicherheit, die unendliche Kilometer von Dunkelheit und Vakuum zu bieten haben.",
+    "en": "Archival facilities can sometimes be found dotted around the spacelanes of New Eden. Although it is rare for them to be established out here, it is not unknown for various companies and individuals to store valuable documents in such places. Some are motivated by logistical factors; it's always easier to move things from system to system when they're already in space. Others simply favor the privacy and security that endless kilometers of darkness and vacuum offers.",
+    "es": "A veces, se pueden encontrar instalaciones de archivos en las rutas espaciales de Nuevo Edén. Aunque no es una ubicación muy común, se conoce que varias empresas e individuos guardan documentos valiosos en ellos. Algunos se ven motivados por factores logísticos: siempre es más fácil migrar archivos de un sistema a otro cuando ya están en el espacio; otros simplemente prefieren la privacidad y la seguridad que ofrecen infinitos kilómetros de oscuridad y vacío.",
+    "fr": "Des centres des archives se trouvent ça et là dans l'espace de New Eden. Bien qu'ils soient assez rares, il peut arriver que certaines sociétés ou même certains individus choisissez d'y stocker des documents de valeur. Certains sont motivés par des facteurs logistiques : il est en effet plus facile de transporter ses biens d'un système à l'autre quand ils sont déjà dans l'espace. D'autres, en revanche, apprécient davantage la confidentialité et la sécurité offertes par des kilomètres et des kilomètres de vide à la ronde.",
+    "ja": "古文書を保管する施設は、ニューエデンのスペースレーンの周囲のあちこちで見ることができる。非常に珍しい場所にあるが、このような場所に貴重な文書が保管されていることは意外と知られている。ある者はロジスティックの側面で関心を持っている。物が宇宙空間にあればシステム間での移動が簡単になるからだ。別の者は単にプライバシーやセキュリティの面で気に入っている。そこには闇と虚無しかないからだ。",
+    "ko": "뉴에덴 각지의 항로에서 종종 아카이브형 시설이 목격됩니다. 외딴 지역에 설치되는 경우는 흔치 않으나, 간혹 개인 및 기업 입장에서 중요 문서를 보관하기 위해 사용됩니다. 이는 수송 과정을 단순화하기 위한 일환으로, 성계간 정보 이동 시 보다 편리하기 때문입니다. 그 외에도 보안 및 정보 보호 측면에서 외곽 아카이브를 선호하기도 합니다.",
+    "ru": "Архивные комплексы иногда встречаются на просторах New Eden. Они довольно странно смотрятся здесь, однако различные компании и индивидуумы порой хранят ценные документы именно в таких местах. В некоторых случаях это вызвано соображениями логистики; ведь гораздо легче перевозить вещи из одного места в другое, если они уже в открытом космосе. Другие же ценят уединение и безопасность в окружении бесконечных километров космической пустоты.",
+    "zh": "像这样的档案馆设施四处分布在新伊甸的宇宙中。尽管在这样的地方它并不是很常见，但在一些公司和个人在这里存放重要的文档的需求还是存在的。有一些情况则是因为后勤需要的原因；把整顿好的物资一个星系一个星系的移动是较为方便的一种方式。此外，在这些档案馆中数公里长的黑暗和真空环境也为对私人和隐秘空间的需求提供了便利。"
+  },
+  "graphicID": 1176,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Archives",
     "en": "Archives",
@@ -10,5 +24,9 @@
     "ru": "Archives",
     "zh": "档案馆"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericmetal",
   "volume": 27500.0
 }

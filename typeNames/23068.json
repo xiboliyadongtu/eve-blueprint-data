@@ -1,5 +1,16 @@
 {
-  "typeID": 23068,
+  "description": {
+    "de": "Eine Maulus, die von einem Agenten geflogen wird.",
+    "en": "A Maulus piloted by an agent.",
+    "es": "Maulus pilotada por un agente.",
+    "fr": "Un Maulus piloté par un agent.",
+    "ja": "エージェントを乗せたマウルス。",
+    "ko": "에이전트가 조종하는 마울러스입니다.",
+    "ru": "Корабль класса Maulus, управляемый агентом.",
+    "zh": "由代理人驾驶的毛鲁斯级飞船。"
+  },
+  "graphicID": 324,
+  "groupID": 517,
   "name": {
     "de": "Ardillan's Maulus",
     "en": "Ardillan's Maulus",
@@ -10,5 +21,9 @@
     "ru": "Ardillan's Maulus",
     "zh": "阿迪兰的毛鲁斯级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 39.0,
+  "sofFactionName": "gallentebase"
 }

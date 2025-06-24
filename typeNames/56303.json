@@ -1,5 +1,18 @@
 {
-  "typeID": 56303,
+  "description": {
+    "de": "Stört den Navigationscomputer des Zielschiffes und schaltet die Warp-, Sprung-, Mikrowarp- und Mikrosprungantriebe ab.",
+    "en": "Disrupts the target ship's navigation computer, disabling warping, jumping, microwarpdrives and micro jump drives.",
+    "es": "Perturba el ordenador de navegación de la nave objetivo e inhabilita warpear, los saltos, los motores de microwarp y los de microsalto.",
+    "fr": "Perturbe l'ordinateur de navigation du vaisseau cible en empêchant toute utilisation du warp, du saut, des propulseurs de microwarp et des micropropulseurs interstellaires.",
+    "ja": "ターゲットとした艦船のナビゲーションコンピューターを阻害し、ワープ能力、ジャンプ能力、マイクロワープドライブならびにマイクロジャンプドライブを無力化する。",
+    "ko": "대상의 항법 시스템을 교란하여 워프, 점프, 마이크로 워프, 마이크로 점프 능력을 차단합니다.",
+    "ru": "Создаёт помехи в работе навигационного компьютера, не позволяя использовать варп- и гиперпрыжки, а также микроварп-ускорители и микрогипердвигатели.",
+    "zh": "干扰对方舰船的导航计算机，防止其跃迁、跳跃、使用微型跃迁推进器或微型跳跃引擎。"
+  },
+  "groupID": 52,
+  "iconID": 3433,
+  "mass": 1.0,
+  "metaGroupID": 15,
   "name": {
     "de": "Heavy Abyssal Warp Scrambler",
     "en": "Heavy Abyssal Warp Scrambler",
@@ -10,5 +23,7 @@
     "ru": "Heavy Abyssal Warp Scrambler",
     "zh": "重型深渊跃迁扰频器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 100.0
 }

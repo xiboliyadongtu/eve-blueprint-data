@@ -1,5 +1,18 @@
 {
-  "typeID": 12305,
+  "basePrice": 100000.0,
+  "description": {
+    "de": "Skill zur Kontrolle von Drohnen bei hohen Geschwindigkeiten.\n\n\n\n5% mehr max. Geschwindigkeit der Drohnen je Skillstufe.\n\n5% mehr max. Geschwindigkeit von Jägern je Skillstufe.",
+    "en": "Skill at controlling drones at high speeds.\r\n\r\n5% increase in drone max velocity per level.\r\n5% increase in fighter max velocity per level.",
+    "es": "Habilidad para controlar drones a gran velocidad.\n\n\n\n5 % de aumento a la velocidad máxima de los drones por nivel.\n\n5 % de aumento a la velocidad máxima de los cazas por nivel.",
+    "fr": "Manœuvre des micronefs à grande vitesse.\n\n\n\nAugmente de 5 % par niveau la vitesse maximale des drones.\n\nAugmente de 5 % par niveau la vitesse maximale des chasseurs.",
+    "ja": "高速域でドローンを操作するスキル。レベル上昇ごとにドローンの最高速度が5％上昇。レベル上昇ごとに戦闘機の最高速度が5％上昇。",
+    "ko": "고속 기동 드론 운용을 위한 스킬입니다. <br><br>매 레벨마다 드론 최대 속도 5% 증가 <br>매 레벨마다 파이터 최대 속도 5% 증가",
+    "ru": "Навык управления дронами, движущимися на больших скоростях.\n\n\n\nОсвоение этого навыка поможет пилоту повысить эффективность применения дронов за счёт повышения скорости их полёта с включенными микроварп-двигателями (на 5% за каждую степень освоения навыка).\n\nОсвоение этого навыка поможет пилоту повысить эффективность применения истребителей за счёт повышения скорости их полёта с включенными микроварп-двигателями (на 5% за каждую степень освоения навыка).",
+    "zh": "控制高速无人机的技能。\n\n\n\n每升一级，无人机最大速度提高5%。\n\n每升一级，铁骑舰载机最大速度提高5%。"
+  },
+  "groupID": 273,
+  "iconID": 33,
+  "marketGroupID": 366,
   "name": {
     "de": "Drone Navigation",
     "en": "Drone Navigation",
@@ -10,5 +23,7 @@
     "ru": "Улучшения двигателей дронов",
     "zh": "无人机导航学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

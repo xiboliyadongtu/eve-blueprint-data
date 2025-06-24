@@ -1,5 +1,18 @@
 {
-  "typeID": 29284,
+  "basePrice": 100.0,
+  "description": {
+    "de": "Diese unförmige Komponente ist die grundlegende Datenbank für alle Informationen, die über Computer innerhalb des Netzes der Station verschickt werden.",
+    "en": "This bulky component is the substratal databank for all information transferred via computers linked to a station's dataweb.",
+    "es": "Este voluminoso componente es el banco de datos subyacente para toda la información transferida a través de los ordenadores conectados a la red de datos de una estación.",
+    "fr": "Ce composant volumineux représente la base de données substratale de toutes les informations transférées par l'intermédiaire d'ordinateurs connectés au réseau de données d'une station.",
+    "ja": "ステーションのデータウェブに接続されているコンピュータから転送された、全ての情報の基本的なデータバンクとなる巨大な部品。",
+    "ko": "이 거대한 부품은 정거장의 데이터웹에 연결된 컴퓨터를 통해 전송되는 모든 정보의 데이터뱅크입니다.",
+    "ru": "Это банк данных, содержащий всю информацию, переданную компьютерами, связанными с сетью станции.",
+    "zh": "这个看起来粗旷的部件是空间站数据网络的数据库底层核心设备。"
+  },
+  "groupID": 314,
+  "iconID": 3183,
+  "mass": 3500.0,
   "name": {
     "de": "Central Data Core",
     "en": "Central Data Core",
@@ -10,5 +23,7 @@
     "ru": "Central Data Core",
     "zh": "中央数据核心"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 5.0
 }

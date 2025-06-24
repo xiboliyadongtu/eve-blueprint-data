@@ -1,5 +1,18 @@
 {
-  "typeID": 26747,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Diese mit Raketen bewaffnete Wachplattform wird Raketen auf jedes Ziel abfeuern, das von ihr als Bedrohung eingestuft wird.",
+    "en": "This missile Sentry will Launch missiles at any target it considers to be a threat.",
+    "es": "Esta estructura centinela de misiles dispara a cualquier objetivo que considere una amenaza.",
+    "fr": "Sentinelle tirant des missiles sur toute cible considérée comme une menace.",
+    "ja": "敵と見なしたターゲットには容赦なくミサイルを撃ち込むミサイルセントリー。",
+    "ko": "헤비 미사일 센트리는 위협으로 간주되는 모든 대상을 공격합니다.",
+    "ru": "Эта ракетная батарея предназначена для атаки любых целей, опознанных ею как вражеские.",
+    "zh": "这座导弹岗哨将向对其视为威胁的目标发射导弹。"
+  },
+  "graphicID": 2468,
+  "groupID": 383,
+  "mass": 1000.0,
   "name": {
     "de": "Guristas Annihilation Missile Battery_Uber",
     "en": "Guristas Annihilation Missile Battery_Uber",
@@ -10,5 +23,9 @@
     "ru": "Guristas Annihilation Missile Battery_Uber",
     "zh": "古斯塔斯歼击导弹发射塔_超级"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 371.0,
+  "sofFactionName": "guristas",
   "volume": 1000.0
 }

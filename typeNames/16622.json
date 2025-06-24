@@ -1,5 +1,18 @@
 {
-  "typeID": 16622,
+  "basePrice": 5000000.0,
+  "description": {
+    "de": "Fertigkeit zur Umgehung der Ecken und Kanten der Buchführung, was das Scheckbuch positiv beeinflusst. Jede Skillstufe reduziert die Transaktionssteuern um 11 %. Die Transaktionssteuern liegen zu Beginn bei 7.5 %.",
+    "en": "Proficiency at squaring away the odds and ends of business transactions, keeping the checkbooks tight. Each level of skill reduces sales tax by 11%. Sales tax starts at 7.5%.",
+    "es": "Aptitud para cuadrar números ajustándose al presupuesto. Cada nivel de habilidad reduce el impuesto de venta un 11 %. El impuesto de venta comienza en el 7,5 %.",
+    "fr": "Capacité à boucler proprement les transactions commerciales et à tenir les livres de compte à jour. Chaque niveau de compétence réduit les taxes de vente de 11 %. Les taxes de vente commencent à 7,5 %.",
+    "ja": "ビジネス取引に関する様々な細かい事柄を処理し、帳簿に漏れがないように管理するスキル。スキルレベルごとに物品税が11%軽減される。物品税の初期値は7.5%。",
+    "ko": "잡다한 거래 기록을 정리하여 돈이 새는 일을 막는 스킬입니다. 레벨당 거래 수수료가 11% 감소합니다. 초기 거래 수수료는 7.5%입니다.",
+    "ru": "Мастерство держать под контролем все — даже самые незначительные — детали деловых операций и не тратить лишнего. С каждой степенью освоения этого навыка налог на продажу снижается на 11%. Налог на продажу начинается с 7.5%.",
+    "zh": "精通处理商业贸易中的各种琐碎费用的技能，使你的收支处于最佳状态。每升一级，销售税减少11%。起始税率为7.5%。"
+  },
+  "groupID": 274,
+  "iconID": 33,
+  "marketGroupID": 378,
   "name": {
     "de": "Accounting",
     "en": "Accounting",
@@ -10,5 +23,7 @@
     "ru": "Бухгалтерский учёт",
     "zh": "会计学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

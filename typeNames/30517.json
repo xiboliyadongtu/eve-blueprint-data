@@ -1,5 +1,18 @@
 {
-  "typeID": 30517,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Ausgeworfene Sleeper-Datenbank: Diese modulare Struktur erlitt vor langer Zeit Schaden bei einem Notfallauswurf. Sie machen aber eine intakte Datenbank unter der schweren Panzerung aus. Mit Ihrem Datenanalysator könnten Sie ihr noch Informationen abluchsen.",
+    "en": "Ejected Sleeper Databank: This modular structure was long ago subjected to some sort of emergency ejection procedure, but you can detect an intact databank concealed under its heavy plating. You may be able to extract something with your Data Analyzer.",
+    "es": "Banco de datos sleeper eyectado. Esta estructura modular hace mucho que sufrió algún tipo de eyección de emergencia, pero puedes detectar un banco de datos intacto bajo su blindaje pesado. Es posible que puedas extraer algo con el analizador de datos.",
+    "fr": "Banque de données sleeper éjectée : cette structure modulaire a fait l'objet d'une sorte de procédure d'éjection d'urgence, mais vous remarquez une banque de données intacte en dessous de son blindage. Votre analyseur de données vous permettra peut-être d'en extraire quelque chose.",
+    "ja": "射出されたスリーパーデータバンク。このモジュール構造物は、はるか昔に何らかの緊急退避措置として射出されたようだが、厚い外殻に覆われて中のデータバンクは無傷で残っているのが分かる。データアナライザーを使えば、何か引き出せるかもしれない。",
+    "ko": "방출된 슬리퍼 데이터뱅크: 오래전 긴급 방출 된 듯한 모듈러 구조물로 두꺼운 장갑 아래에서 데이터뱅크가 감지됩니다. 데이터 분석기를 통해 정보를 수집할 수 있습니다.",
+    "ru": "Хранилище данных Sleeper. Много лет назад этот модуль был катапультирован из какого-то сооружения, однако под его тяжелой обшивкой вы можете обнаружить неповрежденные модули памяти. Возможно, с помощью анализатора данных вам удастся что-нибудь из него вытянуть.",
+    "zh": "弹出的冬眠者数据库：这个模块化构件在某种紧急的情况下被紧急弹射系统抛离了搭载体。你可以检测到在它坚实厚重的外壳下还封存有一个完整的数据库。你可以尝试使用你的数据分析仪找出其中有用的信息。"
+  },
+  "graphicID": 3704,
+  "groupID": 1207,
+  "mass": 10000.0,
   "name": {
     "de": "Ejected Sleeper Databank",
     "en": "Ejected Sleeper Databank",
@@ -10,5 +23,9 @@
     "ru": "Ejected Sleeper Databank",
     "zh": "弹出的冬眠者数据库"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 858.0,
+  "sofFactionName": "debris",
   "volume": 27500.0
 }

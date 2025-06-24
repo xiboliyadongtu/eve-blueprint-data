@@ -1,5 +1,21 @@
 {
-  "typeID": 41274,
+  "basePrice": 350000.0,
+  "description": {
+    "de": "XL-Torpedos sind Ungetüme, die für maximale Feuerkraft gegen Capital-Schiffe und Einrichtungen entworfen wurden. Sie können nur von Capital-Schiffen oder den Abwehrbatterien einer Sternenbasis verwendet werden.\n\nDiese Lenkwaffe besteht aus nichts Geringerem als einem kleinen Nukleargefechtskopf, der in den empfindlichen Elektroniksystemen an Bord eines Raumschiffes verheerenden Schaden anrichtet. Speziell dazu entworfen, um Schildsysteme zu zerstören, kann er im Handumdrehen Ziele vernichten, die selbst mit schweren Schilden geschützt sind.\n\n\n\nEine modifizierte Version des Mjolnir Torpedo, Kann höhere Geschwindigkeiten als der Mjolnir Torpedo auf Kosten der Größe des Gefechtskopfs erreichen.",
+    "en": "XL Torpedoes are behemoths designed for maximum firepower against capital ships and installations. They are usable only by capital ships and starbase defense batteries.\r\nNothing more than a baby nuclear warhead, this guided missile wreaks havoc with the delicate electronic systems aboard a starship. Specifically designed to damage shield systems, it is able to ravage heavily shielded targets in no time.\r\n\r\nA modified version of the Mjolnir Torpedo. It can reach higher velocity than the Mjolnir Torpedo at the expense of warhead size.",
+    "es": "Los torpedos XL son mastodontes diseñados para alcanzar una potencia de fuego máxima contra naves capitales e instalaciones. Solo pueden usarse en naves capitales y en baterías de defensa de bases estelares.\n\nEste misil guiado, que no es más que una pequeña ojiva nuclear, causa estragos en los delicados sistemas electrónicos de a bordo de una nave. Diseñado específicamente para dañar sistemas de escudos, es capaz de arrasar objetivos blindados en un abrir y cerrar de ojos.\n\nVersión modificada del torpedo Mjolnir. Puede alcanzar más velocidad que el torpedo Mjolnir a costa del tamaño de su ojiva.",
+    "fr": "Les torpilles XL sont des ogives de destruction massive, spécialement conçues pour infliger un maximum de dégâts aux vaisseaux capitaux et aux structures. Réservées aux vaisseaux capitaux et aux batteries de défense de base stellaire.\n\nVéritables ogives nucléaires miniatures, ces missiles guidés sont capables de griller les délicats systèmes électroniques embarqués des vaisseaux ennemis. Spécialement conçus pour endommager les systèmes de bouclier, ces missiles sont dotés d'une force de pénétration destructrice.\n\n\n\nVersion modifiée de la torpille mjolnir. Cette torpille a sacrifié la taille de son ogive au profit d'une vitesse encore plus élevée que la torpille mjolnir.",
+    "ja": "XLトルピードは母艦や軍事施設を最大火力で攻撃できる超強力な兵器である。母艦あるいはスターベースの守備砲列でしか使用できない。この誘導型ミサイルの核弾頭は小型でありながら、艦船に積まれたデリケートな電子システムに大損害を与えることができる。ターゲットのシールドシステムにダメージを与える目的に特化しており、防御の固い艦船が相手でも瞬く間に破壊することができる。改良型ミョルニールトルピード。弾頭サイズと引き換えに、ミョルニールトルピードよりも高い速度を実現している。",
+    "ko": "캐피탈 함선과 시설을 상대로 최대의 화력을 발휘하고자 설계된 XL 토피도입니다. 캐피탈 함선과 스타베이스 방어 포탑에만 장착 가능합니다. <br><br>소형 핵탄두가 탑재된 유도 미사일로 적 함선의 전자 시스템을 철저하게 파괴합니다. 제 아무리 강력한 실드라도 순식간에 뚫어낼 수 있는 파괴력을 지녔습니다. <br><br>개량된 묠니르 토피도입니다. 기존의 묠니르 토피도에 비해 탄두 크기가 작아진 대신 최대 비행속도가 증가했습니다.",
+    "ru": "Торпеды сверхбольшой мощности — самые разрушительные из существующих; они используются для обстрела вражеских кораблей большого тоннажа и сооружений в космосе. Эти торпеды запускаются только кораблями большого тоннажа и оборонительными батареями сооружений.\n\nТорпеда несет на борту крохотный ядерный заряд, подрыв которого выводит из строя хрупкие электронные системы космического корабля. Специально разработанная для поражения генераторов силовых полей, она способна мгновенно уничтожать хорошо защищенные щитами цели.\n\n\n\nМодификация торпеды типа «Мьольнир». Способна развивать более высокую скорость, чем торпеда типа «Мьольнир», но отличается уменьшенным размером заряда.",
+    "zh": "超大型鱼雷的设计目的是要对旗舰和建筑目标造成最大限度的伤害。它只能被旗舰级舰船和母星防御炮塔发射。\n\n小型的核弹头装载到这种导弹上，能够对目标舰船脆弱的舰载电子设备造成巨大伤害。专门用于对付护盾系统，能够在短时间内把对手强大的能量护盾破坏殆尽。\n\n\n\n这是雷神鱼雷的一种改良版本，它相比普通雷神鱼雷而言飞行速度更快，但代价是弹头尺寸变小。"
+  },
+  "graphicID": 20030,
+  "groupID": 1677,
+  "iconID": 1349,
+  "marketGroupID": 2259,
+  "mass": 1500.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Mjolnir Javelin XL Torpedo",
     "en": "Mjolnir Javelin XL Torpedo",
@@ -10,5 +26,9 @@
     "ru": "Mjolnir Javelin XL Torpedo",
     "zh": "雷神标枪超大型鱼雷"
   },
+  "portionSize": 100,
+  "published": true,
+  "radius": 300.0,
+  "variationParentTypeID": 17857,
   "volume": 0.3
 }

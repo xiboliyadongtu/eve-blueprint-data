@@ -1,5 +1,18 @@
 {
-  "typeID": 29888,
+  "capacity": 120.0,
+  "description": {
+    "de": "Im Vergleich zu den meisten Minmatar-Fregatten ist die Probe sehr groß und wird als gutes Erkundungs- und Transportschiff angesehen. Ungewöhnlich für ein Schiff der Minmatar ist die gepanzerte Außenhülle zwar sehr schwer zu zerstören, allerdings ist das Schiff aufgrund seiner eingeschränkten Waffenmontageplätze bei Kampfhandlungen auf die Unterstützung anderer Schiffe angewiesen.\n\nDie Markierungen auf diesem Schiff weisen auf keine offensichtliche Verbindung mit der Republik hin.",
+    "en": "The Probe is large compared to most Minmatar frigates and is considered a good scout and cargo-runner. Uncharacteristically for a Minmatar ship, its hard outer coating makes it difficult to destroy, while the limited weapon hardpoints force it to rely on fighter assistance if engaged in combat.\n\nThe markings on this ship reveal no obvious connection to the Republic.",
+    "es": "Comparada con la mayoría de fragatas minmatarianas, la Probe es bastante grande y está considerada como una nave de carga y exploración más que decente. Su sólido recubrimiento exterior, poco característico de las naves minmatarianas, hace que sea increíblemente resistente, aunque los limitados puntos de montaje de armas la obligan a depender de los cazas durante el combate.\n\nLas marcas de esta nave no revelan una conexión evidente con la República.",
+    "fr": "Le Probe surclasse la plupart des frégates minmatar par sa taille imposante. Ce vaisseau de reconnaissance est également plébiscité pour les missions de transport. Si son revêtement extérieur extrêmement résistant est une singularité de l'ingénierie minmatar, le nombre restreint de points de fixation le subordonne au renfort de vaisseaux de combat en cas de conflit armé.\n\nLes symboles gravés sur ce vaisseau n'indiquent aucune connection avec la République.",
+    "ja": "プローブは、一般のミンマターフリゲートと比較すると大型で、偵察や輸送任務に適するとされている。ミンマター艦らしからぬ頑丈な装甲でなかなかのしぶとさを見せるが、兵装を搭載する余地が限られており、戦いでは他の戦闘艦に頼らざるをえない。\n\nその外観から共和国との明らかなつながりを見出すことはできない。",
+    "ko": "프로브는 대다수의 민마타 프리깃보다 큰 편으로 정찰기 및 밀수선으로 사용하기 적합합니다. 일반 민마타 함선과는 다르게 단단한 외막을 갖추어 파괴하기 쉽지 않으며 장착 가능한 무기의 수가 한정되어 있어 교전 시 지원 병력에 의존하는 특성을 보입니다. <br><br>함선에는 민마타 공화국 소속임을 나타내는 어떠한 표식도 새겨져 있지 않습니다.",
+    "ru": "Среди прочих фрегатов Республики Минматар «Проуб» примечателен большими размерами; его считают пригодным для задач разведки и транспортировки. Кроме того, для корабля матарского производства он на удивление хорошо бронирован; к сожалению, нехватка точек монтажа вооружений приводит к тому, что пилоты этих фрегатов вынуждены рассчитывать на поддержку собственных дронов.\n\nCудя по опознавательным знакам этого корабля, он не имеет непосредственного отношения к Республике.",
+    "zh": "探索级护卫舰是米玛塔尔护卫舰中的大家伙，是一艘不错的侦察舰和货运舰。与一般的米玛塔尔飞船不同，它坚硬的船体外壳使它很难被摧毁，但它有限的武器槽位使它在战斗中不得不依赖其他战舰的火力支援。\n\n船上的标识表明其同共和国并没有直接联系。"
+  },
+  "graphicID": 45,
+  "groupID": 683,
+  "mass": 1645000.0,
   "name": {
     "de": "Independent Veteran Probe",
     "en": "Independent Veteran Probe",
@@ -10,5 +23,10 @@
     "ru": "Independent Veteran Probe",
     "zh": "独立老兵的探索级"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 50.0,
+  "sofFactionName": "minmatarbase",
   "volume": 16450.0
 }

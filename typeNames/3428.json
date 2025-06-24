@@ -1,5 +1,18 @@
 {
-  "typeID": 3428,
+  "basePrice": 100000.0,
+  "description": {
+    "de": "Fertigkeit zur Langstreckenaufschaltung.\r\n\r\n5% Bonus auf die Aufschaltreichweite je Skillstufe.",
+    "en": "Skill at long range targeting. 5% Bonus to targeting range per skill level.",
+    "es": "Habilidad en adquisición de objetivos lejanos. 5 % de bonificación a la distancia-objetivo por nivel de habilidad.",
+    "fr": "Compétence liée à l'utilisation du ciblage longue portée. Augmente de 5 % par niveau de compétence la portée du système de ciblage.",
+    "ja": "長距離捕捉スキル。スキルレベル上昇ごとにターゲット範囲に 5% のボーナス。",
+    "ko": "장거리 타겟팅을 위한 스킬입니다. 매 레벨마다 타겟팅 거리 5% 증가",
+    "ru": "Навык захвата цели на дальних дистанциях. За каждую степень освоения навыка: на 5% увеличивается дальность захвата целей.",
+    "zh": "远程目标锁定的技能。每升一级，锁定距离提升5%。"
+  },
+  "groupID": 1213,
+  "iconID": 33,
+  "marketGroupID": 1748,
   "name": {
     "de": "Long Range Targeting",
     "en": "Long Range Targeting",
@@ -10,5 +23,7 @@
     "ru": "Захват целей на больших дистанциях",
     "zh": "远距锁定研究"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,19 @@
 {
-  "typeID": 47136,
+  "description": {
+    "de": "<b>Typ:</b> Strukturbasierte Unterstützungsjäger <b>Aufgabe:</b> Warpstörung <b>Beschreibung:</b> Die Siren bringt Warpstörungsunterstützung aufs Schlachtfeld. Diese Standup-Variante der Siren ist leistungsstärker als die trägerschiffbasierten Varianten, profitiert jedoch nicht von Kapselpiloten-Skills und kann nur von Upwell-Strukturen gestartet werden. <b>Warpstörer</b>: Stört die Warpsysteme des Ziels. <b>Nachbrenner</b>: Gewährt einen moderaten Geschwindigkeitsschub. Der Nachbrenner benötigt eine lange Abkühlzeit zwischen den Einsätzen.",
+    "en": "<b>Type:</b> Structure-based Support Fighter\r\n<b>Role:</b> Warp Disruption\r\n<b>Description:</b> The Siren brings warp disruption support to the battlefield. This Standup variant of the Siren is more powerful than the carrier-based variants but does not benefit from capsuleer skills and may only be launched from Upwell structures.\r\n\r\n<b>Warp Disruptor</b>: Disrupts targets warp systems.\r\n<b>Afterburner</b>: Gives a moderate speed boost. The Afterburner has a long cool-down cycle between uses.",
+    "es": "<b>Tipo:</b> caza de apoyo con base en estructuras.\n\n<b>Función:</b> disrupción de warp.\n\n<b>Descripción:</b> la Siren proporciona disrupción de warp de apoyo en el campo de batalla. Esta variante Standup de la Siren es más potente que las variantes basadas en portanaves, pero no se beneficia de las habilidades de los capsulistas y solo se puede lanzar desde estructuras de Upwell.\n\n\n\n<b>Disruptor de warp</b>: inhibe los sistemas de warp del objetivo.\n\n<b>Posquemador</b>: otorga un aumento de velocidad moderado. Tiene un ciclo de recarga largo entre un uso y otro.",
+    "fr": "<b>Type :</b> Chasseur de soutien de structure <b>Rôle :</b> Perturbation de warp <b>Description :</b> Le Siren apporte un soutien à la perturbation de warp sur le champ de bataille. La variante Standup du Siren est plus puissante que les variantes porte-vaisseaux. Cependant, elle ne bénéficie pas des compétences des capsuliers et ne peut être lancée qu'à partir des structures Upwell. <b>Perturbateur de warp</b> : Perturbe les systèmes de warp des cibles. <b>Système de post-combustion</b> : Augmente la vitesse de façon modérée. Le système de post-combustion a un cycle de refroidissement prolongé entre deux utilisations.",
+    "ja": "<b>タイプ：</b>ストラクチャベース支援戦闘機\n\n<b>用途:</b> ワープ妨害\n\n<b>説明：</b>  サイレンはワープ妨害を行う機体である。このスタンドアップ型のサイレンは、艦載機型よりも強力だがカプセラスキルの恩恵を受けられず、アップウェルストラクチャからしか発艦できない。\n\n\n\n<b>ワープ妨害器</b>: ターゲットワープシステムを妨害する。\n\n<b>アフターバーナー</b>: 適度なスピードアップを実現する。アフターバーナーのクールダウンサイクルは長い。",
+    "ko": "<b>분류:</b> 스탠드업 서포트 파이터 <br><br><b>임무:</b> 워프 디스럽션 <br><br><b>설명:</b> 사이렌은 워프 디스럽션을 수행하기 위해 설계되었습니다. 스탠드업 사이렌은 캐리어 함재기보다 성능은 뛰어나지만 스킬 혜택을 받을 수 없으며 업웰 구조물에서만 사출이 가능합니다.<br><br><b>워프 디스럽터</b>: 대상 함선의 워프 시스템을 교란합니다. <br><br><b>애프터버너</b>: 비행 속도가 증가합니다. 긴 재사용 대기시간을 갖고 있습니다.",
+    "ru": "<b>Тип:</b> Истребитель поддержки на базе сооружений <b>Роль:</b> Искажение варп-двигателей <b>Описание:</b> «Сайрен» порой просто незаменим в бою — этот корабль оказывает достойную поддержку своим союзникам, выводя из строя варп-двигатели кораблей неприятеля. Разновидность «Сайрена» на базе «Стационар» мощнее стандартных вариантов на базе КАРов, однако этот корабль не получает преимуществ от навыков капсулёров, а запускать его можно только с сооружений консорциума «Апвелл». <b>Варп-подавитель</b>: нарушает работу варп-двигателей у целей. <b>Форсажный ускоритель</b>: умеренно увеличивает скорость. Каждый раз после использования форсажному ускорителю требуется длительное охлаждение.",
+    "zh": "<b>类型：</b>建筑用后勤铁骑舰载机\n\n<b>作用：</b>跃迁干扰\n\n<b>描述：</b>塞壬在战场上进行跃迁干扰支援。这种屹立专用的塞壬舰载机比其用于航母的孪生兄弟更加强大，但是不能受到飞行员的技能加成，而且只能从昇威建筑中发射。\n\n\n\n<b>跃迁扰断器</b>：干扰目标的跃迁系统。\n\n<b>加力燃烧器</b>：提供一定程度的速度加成。加力燃烧器运转后的冷却时间较长。"
+  },
+  "graphicID": 2972,
+  "groupID": 4778,
+  "marketGroupID": 2413,
+  "mass": 1500.0,
+  "metaGroupID": 53,
   "name": {
     "de": "Standup Siren II",
     "en": "Standup Siren II",
@@ -10,5 +24,11 @@
     "ru": "Standup Siren II",
     "zh": "屹立塞壬 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 35.0,
+  "sofFactionName": "gallentebase",
+  "variationParentTypeID": 47037,
   "volume": 6000.0
 }

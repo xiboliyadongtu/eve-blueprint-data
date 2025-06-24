@@ -1,5 +1,17 @@
 {
-  "typeID": 88330,
+  "description": {
+    "de": "Dieser Ort bietet wertvolle Gegenstände für den Handel an.",
+    "en": "This location offers valuable items for trade.",
+    "es": "Esta ubicación ofrece objetos valiosos para comerciar.",
+    "fr": "Cet emplacement propose de précieux objets à échanger.",
+    "ja": "この場所ではトレード可能な高価なアイテムを入手できる。",
+    "ko": "이곳에서 거래할 수 있는 귀중한 아이템을 획득할 수 있습니다.",
+    "ru": "В этом районе можно приобрести ценные товары.",
+    "zh": "这里可以进行贵重物品交易。"
+  },
+  "factionID": 500027,
+  "graphicID": 26421,
+  "groupID": 1975,
   "name": {
     "de": "Requisition Officer",
     "en": "Requisition Officer",
@@ -10,5 +22,8 @@
     "ru": "Requisition Officer",
     "zh": "物资征用官"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 45000.0,
+  "sofFactionName": "upwell"
 }

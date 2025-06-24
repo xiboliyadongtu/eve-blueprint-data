@@ -1,5 +1,16 @@
 {
-  "typeID": 23906,
+  "description": {
+    "de": "Ein stationärer Dreadnought der Revelation-Klasse.",
+    "en": "A stationary Revelation Dreadnought.",
+    "es": "Superacorazado Revelation estacionario.",
+    "fr": "Dreadnought Revelation stationnaire.",
+    "ja": "駐留レベレーション攻城艦。",
+    "ko": "정박 중인 레벨레이션 드레드노트입니다.",
+    "ru": "Стационарный дредноут класса Revelation.",
+    "zh": "一艘静止的神示级无畏舰。"
+  },
+  "graphicID": 2743,
+  "groupID": 319,
   "name": {
     "de": "Stationary Revelation",
     "en": "Stationary Revelation",
@@ -10,5 +21,9 @@
     "ru": "Stationary Revelation",
     "zh": "停靠着的神示级无畏舰"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 1000.0,
+  "sofFactionName": "amarrbase"
 }

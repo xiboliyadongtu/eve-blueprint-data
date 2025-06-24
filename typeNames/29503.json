@@ -1,5 +1,18 @@
 {
-  "typeID": 29503,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Die Matari stehen nicht gerade für High Tech und bauen mehr auf Geschwindigkeit als Feuerkraft oder ausgefeilte Technologie. Leider lässt sich das nicht sonderlich gut auf feste Bauten anwenden, was dem Amarr Imperium nur Recht sein kann. Dort hält man die Gebäude der Matari für Bruchbuden epischen Ausmaßes. Trotzdem sollte man diese Strukturen nicht unterschätzen, denn minmatarische Kommandeure gehen aus der Gefechtssituation nicht selten als Sieger hervor.",
+    "en": "The Matari aren't really that high-tech, preferring speed rather then firepower or involved technology. Unfortunately that doesn't apply very well to stationary objects, much to the liking of the Amarr Empire. Amarrians call it a scrapheap of epic proportions. But don't underestimate these structures. Minmatar commanders usually have the last laugh when it comes to combat.",
+    "es": "Los mataris no son demasiado aficionados a la tecnología y prefieren la velocidad a la potencia de fuego. Por desgracia, eso no aplica a los objetos estacionarios, para satisfacción del Imperio Amarr. Aunque los amarrianos las consideran un montón de chatarra de proporciones épicas, estas estructuras no deben subestimarse. Los comandantes minmatarianos suelen reír los últimos en combate.",
+    "fr": "Les Matari ne sont pas portés sur la technologie. Ils privilégient la vitesse à la puissance de feu ou à ce genre de technologie. Malheureusement, cela pose problème lorsqu'il s'agit de structures fixes, ce dont l'Empire amarr se félicite. Les Amarr y voient une espèce d'énorme épave à l'abandon. Ne sous-estimez pas ces structures. Les commandants minmatar ont généralement le dernier mot lors des combats.",
+    "ja": "マタールはハイテクへのこだわりが少なく、火力や難解な技術よりもスピードを重視する。残念ながら、この傾向は動きのないものとの相性が悪く、アマー帝国はそこに付け入ろうとする。アマー人はこれを「壮大なスケールの廃棄場」と揶揄する。だが、こうした建造物を甘く見ない方がいい。多くの場合、戦いの最後に笑うのはミンマターの司令官である。",
+    "ko": "마타르의 기술 수준은 그리 높지 않으며 화력이나 기술보다는 빠른 속도를 선호합니다. 그러나 속도가 개입될 여지가 없는 구조물에서는 비교적 약한 면모를 보입니다. 민마타와는 반대로 아마르 제국은 속도보다는 화력과 기술에 집중합니다. 아마르인들은 민마타 관제타워를 거대한 쓰레기더미라고 부릅니다. 하지만 민마타 타워를 과소평가해서는 안됩니다. 막상 전투가 발생하면 민마타 지휘관이 최후에 웃는 경우가 많습니다.",
+    "ru": "Minmatar не слишком полагаются на высокие технологии, предпочитая огневой мощи или научным достижениям высокую скорость. К несчастью, этот принцип не применим к стационарным объектам, что лишь на руку Империи Amarr. Ее пилоты называют эти сооружения «свалками эпического масштаба». Но не нужно недооценивать их. Когда дело доходит до боя, командиры Minmatar обычно смеются последними.",
+    "zh": "玛塔利运用的科技并不先进，更偏重于射速，而不是火力或科技含量。不过这对固定目标物并不十分奏效，因此正中艾玛人的下怀。艾玛人称其为一堆壮观的垃圾。不过千万不要低估了这些建筑。当战斗打响的时候，米玛塔尔指挥官总是能笑到最后。"
+  },
+  "graphicID": 2600,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Indestructible Minmatar Starbase",
     "en": "Indestructible Minmatar Starbase",
@@ -10,5 +23,10 @@
     "ru": "Indestructible Minmatar Starbase",
     "zh": "米玛塔尔母星控制塔_LCO"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 3394.0,
+  "sofFactionName": "minmatarbase",
   "volume": 100000000.0
 }

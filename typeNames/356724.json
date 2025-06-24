@@ -1,5 +1,17 @@
 {
-  "typeID": 356724,
+  "basePrice": 149000.0,
+  "description": {
+    "de": "Grundlegende Kenntnisse über Scanprofile.\n \nSchaltet die Fähigkeit zur Verwendung von Profildämpfungsmodulen frei.\n\n2% Abzug auf das Dropsuitscanprofil pro Skillstufe.",
+    "en": "Basic understanding of scan profiles.\r\n \r\nUnlocks the ability to use profile dampener modules.\r\n\r\n2% reduction to dropsuit scan profile per level.",
+    "es": "Conocimiento básico de perfiles de emisión de señales.\n \nDesbloquea la habilidad de usar módulos de supresores de emisiones.\n\n-2% a las emisiones del traje de salto por nivel.",
+    "fr": "Notions de base en profil de balayage.\n \nDéverrouille l'utilisation des modules de réduction du profil.\n\n2 % de réduction du profil de balayage de la combinaison par niveau.",
+    "it": "Comprensione base dei profili di scansione.\n \nSblocca l'abilità nell'utilizzo dei moduli per ammortizzatori profilo.\n\n2% di riduzione al profilo di scansione delle armature per livello.",
+    "ja": "スキャンプロファイルに関する基本的な知識。\n \nプロファイルダンプナーモジュールが使用可能になる。\n\nレベル上昇ごとに、スキャンプロファイルが2％減少する。",
+    "ko": "시그니처 반경에 대한 기본적인 이해를 습득합니다. <br><br>탐지 교란 모듈을 사용할 수 있습니다. <br><br>매 레벨마다 강하슈트 시그니처 반경 2% 감소",
+    "ru": "Понимание основных принципов сигнатур.\n \nПозволяет использовать модули подавления сигнатур. \n\n2% уменьшение радиуса сигнатуры скафандра на каждый уровень.",
+    "zh": "扫描范围基本知识。解锁使用范围抑阻装备的能力。每升一级，作战服的扫描轮廓缩小2%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Profildämpfung",
     "en": "Profile Dampening",
@@ -11,5 +23,7 @@
     "ru": "Подавление сигнатуры",
     "zh": "范围抑阻器"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

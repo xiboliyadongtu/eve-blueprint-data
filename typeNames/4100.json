@@ -1,5 +1,18 @@
 {
-  "typeID": 4100,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Ein Forschungs-Außenposten der Caldari",
+    "en": "A Caldari research outpost.",
+    "es": "Puesto avanzado de investigación caldari.",
+    "fr": "Un avant-poste de recherche caldari.",
+    "ja": "カルダリの研究アウトポストだ。",
+    "ko": "칼다리 연구기지입니다.",
+    "ru": "Исследовательский аванпост Калдари.",
+    "zh": "一座加达里研究哨站。"
+  },
+  "graphicID": 2784,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Caldari Research Outpost",
     "en": "Caldari Research Outpost",
@@ -10,5 +23,10 @@
     "ru": "Caldari Research Outpost",
     "zh": "加达里研究哨站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 1045.0,
+  "sofFactionName": "caldaribase",
   "volume": 100000000.0
 }

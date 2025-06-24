@@ -1,5 +1,17 @@
 {
-  "typeID": 354175,
+  "basePrice": 10575.0,
+  "description": {
+    "de": "Der Aktivscanner zeigt feindliche Einheiten in seinem Scanradius an, wenn er präzise genug ist, um ihre Scanprofile zu erkennen.",
+    "en": "The active scanner reveals enemy units within its scan radius provided it's precise enough to pick up the enemies scan profile.",
+    "es": "El escáner activo revela la posición de los enemigos dentro de su radio de alcance siempre que sea lo bastante preciso como para detectar sus perfiles de emisiones.",
+    "fr": "Le scanner actif révèle les unités ennemies dans son rayon de balayage s'il est assez précis pour détecter le profil de balayage des ennemis.",
+    "it": "Lo scanner attivo rivela le unità nemiche nel raggio di scansione, a condizione che sia abbastanza preciso da individuare il profilo di scansione dei nemici.",
+    "ja": "アクティブスキャナーは、スキャン半径内であれば敵のスキャンプロファイルを感知する精密さを備え、敵ユニットを探知できる。",
+    "ko": "시그니처 반경이 검색될 시 탐지 반경 안에 있는 모든 적군의 위치를 보여줍니다.",
+    "ru": "Активный Сканер обнаруживает боевые единицы противника в пределах радиуса сканирования при условии, что сканер достаточно чувствителен для распознавания сигнатур противников.",
+    "zh": "主动式扫描仪只要足够精确，能够确定敌军扫描范围，就能在自己的有效扫描半径内显示敌军阵地。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Aktivscanner Typ G",
     "en": "Type-G Active Scanner",
@@ -11,5 +23,8 @@
     "ru": "Активный сканер, тип G",
     "zh": "G型主动式扫描仪"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
   "volume": 0.01
 }

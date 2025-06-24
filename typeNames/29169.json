@@ -1,5 +1,18 @@
 {
-  "typeID": 29169,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese Struktur bildet einen Teil des ersten Kommandonetzwerkes in diesem System, über welches die gesamten militärischen Operationen des Staates Caldari koordiniert werden.",
+    "en": "This structure forms part of the primary command net for this system, co-ordinating all Caldari State military operations.",
+    "es": "Esta estructura forma parte de la red de mando principal de este sistema, que coordina todas las operaciones militares del Estado Caldari.",
+    "fr": "Cette structure fait partie du principal réseau de commandement de ce système, et coordonne toutes les opérations militaires de l'État caldari.",
+    "ja": "このシステムの主要なコマンドネットワークの一部を担う建造物。全カルダリ連合の軍事作戦を調整する。",
+    "ko": "근처 항성계의 모든 칼다리 연합 군사 작전을 지휘하는 지휘소입니다.",
+    "ru": "Это сооружение является частью основной сети управления в этой системе и предназначено для координации всех военных операций Государства Caldari.",
+    "zh": "这个设施组成了这个星系的主要指挥系统的一部分，指挥和协同所有的加达里军事行动。"
+  },
+  "graphicID": 2599,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Caldari Tactical Command Post",
     "en": "Caldari Tactical Command Post",
@@ -10,5 +23,10 @@
     "ru": "Caldari Tactical Command Post",
     "zh": "加达里战术指挥站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 3275.0,
+  "sofFactionName": "caldaribase",
   "volume": 100000000.0
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 2632,
+  "description": {
+    "de": "Sauerstoff ist ein ständig nachgefragtes Handelsgut. Während die meisten Stationen ihre eigenen Versorgungseinrichtungen haben, sind kleine Depots und Raumschiffe auf Importe angewiesen.",
+    "en": "Oxygen is a commodity in constant demand. While most stations have their own supply units, smaller depots and space crafts rely on imports.",
+    "es": "El oxígeno es un bien en constante demanda. Aunque la mayoría de las estaciones tienen sus propias unidades de suministros, muchas naves y almacenes más pequeños dependen de las importaciones.",
+    "fr": "L'oxygène est un bien dont la demande ne baisse jamais. Alors que la plupart des stations disposent de leur propre unité de production, les dépôts plus petits ou les vaisseaux dépendent de fournisseurs extérieurs.",
+    "ja": "酸素は安定した需要のある商品だ。大抵のステーションは自給用のユニットを備えているが、小規模な施設や艦船では買い入れに頼っている。",
+    "ko": "산소는 꾸준한 수요가 있는 상품입니다. 정거장에는 자체적인 산소 공급장치가 설치되어 있으나 소규모 저장고 및 함선은 외부 공급에 의존합니다.",
+    "ru": "Кислород - продукт, спрос на который никогда не падает. В то время как большинство станций имеют собственные запасы, небольшие депо и космические корабли зависят от его импорта.",
+    "zh": "氧气是需求量稳定的日用品。尽管大多数空间站都有自己的供给装置，但是小型太空站和飞行器上所需氧气仍依赖进口。"
+  },
+  "groupID": 314,
+  "iconID": 1183,
+  "mass": 70000.0,
   "name": {
     "de": "Crates of Oxygen",
     "en": "Crates of Oxygen",
@@ -10,5 +22,7 @@
     "ru": "Crates of Oxygen",
     "zh": "装箱的氧气"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 70.0
 }

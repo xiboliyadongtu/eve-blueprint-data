@@ -1,5 +1,17 @@
 {
-  "typeID": 30853,
+  "description": {
+    "de": "Einzelne besondere räumliche Erscheinungen können Ihr Schiff auf seltsame Weise beeinträchtigen.",
+    "en": "Local spatial phenomena may cause strange effects on your ship systems.",
+    "es": "Los fenómenos espaciales locales pueden provocar efectos extraños en los sistemas de la nave.",
+    "fr": "Phénomène local de l'espace pouvant avoir d'étranges effets sur les systèmes de votre vaisseau.",
+    "ja": "周囲の空間で発生している現象が、船のシステムに不可解な効果を与えるかもしれない。",
+    "ko": "함선 시스템에 영향을 줄 수 있는 공간현상이 감지되었습니다.",
+    "ru": "Излучение местной звезды влияет на работу бортовых систем вашего корабля.",
+    "zh": "本地空间现象可能会对你的舰船系统造成影响。"
+  },
+  "graphicID": 1217,
+  "groupID": 920,
+  "mass": 1.0,
   "name": {
     "de": "Class 5 Black Hole Effects",
     "en": "Class 5 Black Hole Effects",
@@ -9,6 +21,112 @@
     "ko": "5급 블랙홀 효과",
     "ru": "Class 5 Black Hole Effects",
     "zh": "五类黑洞效果光束"
+  },
+  "portionSize": 250,
+  "published": true,
+  "sofFactionName": "genericbase",
+  "traits": {
+    "iconID": 24303,
+    "miscBonuses": [
+      {
+        "bonus": 43.0,
+        "bonusText": {
+          "de": "Bonus auf die Geschwindigkeit von Lenkwaffen",
+          "en": "bonus to missile velocity",
+          "es": "de bonificación a la velocidad de los misiles.",
+          "fr": "de bonus à la vitesse des missiles",
+          "ja": "ミサイルの速度が上昇",
+          "ko": "미사일 속도 보너스",
+          "ru": "бонус к скорости полёта ракет",
+          "zh": "导弹飞行速度加成"
+        },
+        "importance": 3,
+        "isPositive": true,
+        "unitID": 105
+      },
+      {
+        "bonus": 43.0,
+        "bonusText": {
+          "de": "Abzug auf die Wendigkeit von Schiffen",
+          "en": "penalty to ship agility",
+          "es": "de penalización a la agilidad de la nave.",
+          "fr": "de pénalité à la maniabilité du vaisseau",
+          "ja": "艦船の機動性にペナルティ",
+          "ko": "기동성 페널티",
+          "ru": "штраф к манёвренности корабля",
+          "zh": "舰船灵活性惩罚"
+        },
+        "importance": 5,
+        "isPositive": false,
+        "unitID": 105
+      },
+      {
+        "bonus": 43.0,
+        "bonusText": {
+          "de": "Abzug auf die Stärke von Stasisnetzen",
+          "en": "penalty to stasis webifier strength",
+          "es": "de penalización a la intensidad de la red ralentizadora.",
+          "fr": "de pénalité à la puissance des générateurs de stase",
+          "ja": "ステイシスウェビファイヤーの強度にペナルティ",
+          "ko": "스테이시스 웹 생성기 강도 페널티",
+          "ru": "штраф к эффективности стазис-индуктора",
+          "zh": "停滞缠绕光束强度惩罚"
+        },
+        "importance": 6,
+        "isPositive": false,
+        "unitID": 105
+      },
+      {
+        "bonus": 86.0,
+        "bonusText": {
+          "de": "Bonus auf die Geschwindigkeit von Schiffen",
+          "en": "bonus to ship velocity",
+          "es": "de bonificación a la velocidad de la nave.",
+          "fr": "de bonus à la vitesse du vaisseau",
+          "ja": "艦船の速度が上昇",
+          "ko": "함선 속도 보너스",
+          "ru": "бонус к скорости корабля",
+          "zh": "舰船速度加成"
+        },
+        "importance": 1,
+        "isPositive": true,
+        "unitID": 105
+      },
+      {
+        "bonus": 86.0,
+        "bonusText": {
+          "de": "Bonus auf die maximale Zielerfassungsreichweite",
+          "en": "bonus to maximum targeting range",
+          "es": "de bonificación a la distancia-objetivo máxima.",
+          "fr": "de bonus à la portée de ciblage maximum",
+          "ja": "最大ターゲット範囲が拡大",
+          "ko": "최대 타겟팅 거리 보너스",
+          "ru": "бонус к максимальной дальности наведения",
+          "zh": "最大锁定距离加成"
+        },
+        "importance": 2,
+        "isPositive": true,
+        "unitID": 105
+      },
+      {
+        "bonus": 86.0,
+        "bonusText": {
+          "de": "Bonus auf die Explosionsgeschwindigkeit von Lenkwaffen und Vorton-Projektoren",
+          "en": "bonus to missile and vorton projector explosion velocity",
+          "es": "de bonificación a la velocidad de explosión de los misiles y los proyectores vortónicos.",
+          "fr": "de bonus à la vitesse d'explosion des missiles et des projecteurs de vortons",
+          "ja": "ミサイルとヴォートンプロジェクターの爆発速度が上昇",
+          "ko": "미사일 및 보르톤 프로젝터 폭발속도 증가",
+          "ru": "бонус к скорости распространения взрыва для ракет и вортонных проекторов",
+          "zh": "导弹和电弧弦投射器爆炸速度加成"
+        },
+        "importance": 4,
+        "isPositive": true,
+        "unitID": 105
+      }
+    ],
+    "roleBonuses": [],
+    "types": {}
   },
   "volume": 20.0
 }

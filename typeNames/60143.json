@@ -1,5 +1,18 @@
 {
-  "typeID": 60143,
+  "capacity": 300.0,
+  "description": {
+    "de": "Dieser Kreuzer der <i>Enforcer</i>-Klasse wurde dazu konfiguriert, die Energiesysteme aller Schiffe zu neutralisieren, die in den SCC-Sicherheitsschlüsselspeicher eindringen. Es wäre unklug, die Aufmerksamkeit dieses starken Kampfunterstützungskreuzers auf sich zu ziehen.",
+    "en": "This <i>Enforcer</i>-class cruiser is configured to neutralize the energy systems of any ships intruding into the SCC Secure Key Storage. It would be unwise to draw the attention of this powerful combat support cruiser.",
+    "es": "Este crucero de clase <i>Enforcer</i> está configurado para neutralizar los sistemas energéticos de cualquier nave que se entrometa en el almacenamiento seguro de claves de la CCS. Sería imprudente llamar la atención de este poderoso crucero de apoyo de combate.",
+    "fr": "Ce croiseur de classe <i>Enforcer</i> est configuré pour neutraliser les systèmes d'énergie de tout vaisseau tentant de s'introduire sur les sites de stockage de clés sécurisées de la CCS. Il ne serait pas sage d'attirer l'attention de ce puissant croiseur de soutien.",
+    "ja": "この<i>エンフォーサー</i>級巡洋艦は、SCCセキュアキー保管庫に侵入するあらゆる艦船のエネルギー源を無力化するように設定されている。この強力な戦闘支援用巡洋艦の注意を引くのは賢明とは言えないだろう。",
+    "ko": "적 함선의 에너지 시스템을 무력화할 수 있는 <i>인포서</i>급 크루저로 SCC 보안키를 지키기 위해 배치되었습니다. 접근 시 각별한 주의가 요구됩니다.",
+    "ru": "Этот крейсер класса <i>«Энфорсер»</i> предназначен для нейтрализации энергосистем кораблей, вторгающихся в защищённое хранилище ключа КпБТ. От этого смертоносного крейсера боевой поддержки лучше держаться подальше.",
+    "zh": "这艘<i>执法者级</i>巡洋舰会对进入商业安全委员会安全密钥储存设施的任何舰船进行能量吸取。引起这艘强大的战斗支援巡洋舰的注意可是件危险的事。"
+  },
+  "graphicID": 21489,
+  "groupID": 1813,
+  "mass": 12500000.0,
   "name": {
     "de": "SCC Security Neutralizer",
     "en": "SCC Security Neutralizer",
@@ -10,5 +23,11 @@
     "ru": "SCC Security Neutralizer",
     "zh": "商业安全委员会 能量吸取者"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 200.0,
+  "sofFactionName": "concordcivilian",
+  "soundID": 20078,
   "volume": 116000.0
 }

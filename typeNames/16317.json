@@ -1,5 +1,18 @@
 {
-  "typeID": 16317,
+  "description": {
+    "de": "Diese Panzerung verwendet ein Magnetfeld, um kinetische Angriffe abzulenken. Gewährt einen Bonus auf Kinetikresistenz. \n\nNachteil: Beim Einsatz mehrerer Module des gleichen öder ähnlichen Typs, welche die gleichen Attribute des Schiffs beeinflussen, wird deren Wirksamkeit eingeschränkt.",
+    "en": "This plating utilizes a magnetic field to deflect kinetic attacks. Grants a bonus to kinetic resistance. \r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",
+    "es": "Este revestimiento utiliza un campo magnético para desviar ataques cinéticos. Otorga una bonificación a la resistencia cinética. \n\nPenalización: Por usar más de un tipo de módulo o módulos similares que afecten al mismo atributo de la nave.",
+    "fr": "Ce revêtement est doté d'un champ magnétique qui dévie les attaques cinétiques. Accroît la résistance cinétique. \n\nPénalité : utiliser plus d'un module de ce type ou plusieurs modules liés à un même attribut du vaisseau fera l'objet d'une pénalité.",
+    "ja": "磁場を利用してキネティック攻撃を別の方向にそらすプレート。キネティックレジスタンスが向上する。\n\t\t\nペナルティ： 同じタイプのモジュール、または同じ属性に関係するモジュールを複数取り付けると、ペナルティが発生する。",
+    "ko": "자기장을 활성화하여 키네틱 피해를 감소시킵니다. 키네틱 저항력이 상승합니다. <br><br>페널티: 동일한 속성의 모듈 여러 개를 장착할 경우 페널티가 부여됩니다.",
+    "ru": "Это защитное покрытие создает магнитное поле, изменяющее траекторию кинетических боеприпасов. Повышает сопротивляемость брони кинетическому воздействию. \n\nВнимание! Установка на борт корабля двух и более модулей, влияющих на одну и ту же характеристику корабля, приведёт к снижению эффективности их действия в отношении данной характеристики.",
+    "zh": "该附甲利用磁场使动能攻击发生偏离。增加动能抗性。 \n\n惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。"
+  },
+  "groupID": 98,
+  "iconID": 20957,
+  "mass": 1.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Experimental Kinetic Plating I",
     "en": "Experimental Kinetic Plating I",
@@ -10,5 +23,9 @@
     "ru": "Experimental Kinetic Plating I",
     "zh": "实验型动能附甲 I"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 10.0,
   "volume": 5.0
 }

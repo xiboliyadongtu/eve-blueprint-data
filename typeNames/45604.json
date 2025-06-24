@@ -1,5 +1,20 @@
 {
-  "typeID": 45604,
+  "description": {
+    "de": "Dieses komplexe Gerüst besteht aus Fullerenverbundstoffen und ahmt die Waffenmechanik der wiederentdeckten Sleeper-Drohnen nach. Gallentische Wissenschaftler kombinierten diese Technologie mit neuen Theorien zur Magnetresonanz-Kodierung, um Hybridtürme mit kinetischer Energie zu versorgen. Dank dieser Funktionsweise ist die hybride Kodierungsplattform ein nützliches Verteilermodul für Hybridmunition und erhöht deren Schadenswirkung und Präzisionsabfall-Reichweite.",
+    "en": "This complex armature is composed of fullerene composites and based upon the understood weapons mechanics of salvaged Sleeper drones. Gallente researchers have fused this technology with the emerging theories on magnetic resonance encoding and microwarp capabilities to power the kinetic energy systems of hybrid turrets. With these mechanics in place, the hybrid encoding platform creates an effective distribution module for hybrid charges, bolstering their damage output and their falloff range.",
+    "es": "Este complejo armazón está formado por compuestos de fullereno y se basa en la mecánica armamentística comprendida de los drones sleepers recuperados. Los investigadores gallentes han fusionado esta tecnología con las teorías emergentes sobre la codificación de la resonancia magnética y las capacidades de microwarp para alimentar los sistemas de energía cinética de las torretas híbridas. Con esta mecánica, la plataforma de codificación híbrida crea un módulo de distribución eficaz para las cargas híbridas, reforzando su capacidad de daño y su alcance efectivo.",
+    "fr": "Cette armature complexe présente des composites de fullerène et se base sur les mécanismes d'armement connus des drones sleeper récupérés. Les chercheurs gallente ont fusionné cette technologie avec les théories émergentes sur l'encodage de la résonance magnétique et les capacités de micropropulseur de warp pour alimenter les systèmes d'énergie cinétique des tourelles hybrides. Avec ces mécanismes en place, la plate-forme d'encodage hybride crée un module de distribution efficace pour les charges hybrides, augmentant ainsi leurs dégâts et leur portée de déperdition.",
+    "ja": "この複合電機子はフラーレン化合物製で、スリーパードローンの残骸から回収された火器機構の分析結果を元に作られた。ガレンテの研究者らは、研究が進みつつあった電磁共鳴符号化の理論とマイクロワープの力をこの技術と組み合わせ、ハイブリッドタレットのキネティックエネルギーシステムに電力を供給することを可能にした。これらの技術を応用すれば、ハイブリッド符号化プラットフォームによってハイブリッド弾用のエネルギー分配モジュールの効率を上げることが可能であり、破壊力を上げつつ精度低下範囲を縮小することができる。",
+    "ko": "퓰러렌 합성물로 구성된 정교한 골조로 슬리퍼 무기 체계에 대한 이해를 바탕으로 설계되었습니다. 갈란테 연구진은 자기 공명 인코딩과 마이크로 워프 능력에 대한 이론을 융합하여 하이브리드 터렛의 키네틱 에너지 시스템을 활성화하였습니다. 하이브리드 인코딩 플랫폼은 분배 모듈의 생성을 통해 하이브라드탄의 전반적인 피해량과 유효사거리를 증가시킵니다.",
+    "ru": "Материал этой сложной арматуры гибридного вооружения состоит из фуллеренных композитов; ее удалось создать благодаря пониманию принципов работы орудийных систем подбитых дронов Спящих. Галлентские разработчики взяли за основу технологии, полученные инженерным ретроанализом, дополнили их результатами новейших изысканий в области кодировки магнитного резонанса и микроварп-ускорителей, и получили систему, эффективно питающую энергией разгонные модули гибридных орудий. Благодаря всем этим усовершенствованиям платформа гибридной кодировки оптимизирует процесс ведения огня гибридными боеприпасами, увеличивая их урон и добавочную дальность ведения огня.",
+    "zh": "这个复杂的电枢是由富勒烯复合材料在冬眠者无人机武器技术上研发制造的。盖伦特的研究人员将这项科技与新兴的磁共振编码和微曲技术结合，用于增强动能武器系统和混合炮台的威力。在这些技术的帮助下，这种混合编码平台能够有效的提升混合弹药的伤害力以及失准范围。"
+  },
+  "graphicID": 21777,
+  "groupID": 956,
+  "iconID": 3641,
+  "marketGroupID": 1132,
+  "mass": 800000.0,
+  "metaGroupID": 14,
   "name": {
     "de": "Proteus Offensive - Hybrid Encoding Platform",
     "en": "Proteus Offensive - Hybrid Encoding Platform",
@@ -10,5 +25,145 @@
     "ru": "Proteus Offensive - Hybrid Encoding Platform",
     "zh": "海神攻击 - 混合解码平台"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 500.0,
+  "sofFactionName": "gallentebase",
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "<b><u>Zusätzliche Basiswerte</b></u>",
+          "en": "<b><u>Additional Base Stats</b></u>",
+          "es": "<b><u>Estadísticas básicas adicionales</b></u>",
+          "fr": "<b><u>Stats de base supplémentaires</b></u>",
+          "ja": "<b><u>追加ベース統計</b></u>",
+          "ko": "<b><u>추가 기본 능력치</b></u>",
+          "ru": "<b><u>Кроме того:</b></u>",
+          "zh": "<b><u>附加基础数值</b></u>"
+        },
+        "importance": 2
+      },
+      {
+        "bonusText": {
+          "de": "+7 High Slots, +6 Montageplätze für Geschütztürme",
+          "en": "+7 High Slots, +6 Turret Hardpoints",
+          "es": "+7 ranuras superiores, +6 puntos de montaje de torreta",
+          "fr": "+7 Emplacements supérieurs, +6 Points de fixation de tourelle",
+          "ja": "ハイスロット+7、タレットハードポイント+6",
+          "ko": "하이 슬롯 +7, 터렛 하드포인트 +6",
+          "ru": "+7 разъёмов большой мощности, +6 точки монтажа орудий",
+          "zh": "高槽+7，炮台+6"
+        },
+        "importance": 3
+      },
+      {
+        "bonusText": {
+          "de": "+430 Strom, +110 CPU",
+          "en": "+430 PWG, +110 CPU",
+          "es": "+430 SP, +110 CPU",
+          "fr": "+430 PWG, +110 CPU",
+          "ja": "PWG+430、CPU+110",
+          "ko": "파워그리드 +430, CPU +110",
+          "ru": "+430 реактор, +110 ЦПУ",
+          "zh": "能量栅格+330，CPU+110"
+        },
+        "importance": 4
+      },
+      {
+        "bonusText": {
+          "de": "+100 GJ Energiespeicherkapazität",
+          "en": "+100GJ Capacitor Capacity",
+          "es": "+100 GJ de capacidad del condensador",
+          "fr": "Charge de capaciteur +100 GJ",
+          "ja": "キャパシタ容量+100GJ",
+          "ko": "캐패시터 용량 +100 GJ",
+          "ru": "+100 ГДж ёмкости накопителя",
+          "zh": "电容器电容量+100GJ"
+        },
+        "importance": 5
+      },
+      {
+        "bonusText": {
+          "de": "+25 Mbit Drohnen-Bandbreite, +50 m3 Drohnenhangar",
+          "en": "+25mbit Drone Bandwidth, +50m3 Drone Bay",
+          "es": "+25 Mbit/s al ancho de banda de drones, +50 m³ al muelle de drones",
+          "fr": "Bande passante de drone +25 mbit, Hangar à drone +50 m3",
+          "ja": "ドローン帯域+25mbit、ドローンベイ+50m3",
+          "ko": "드론 대역폭 +25 mbit, 드론 격납고 +50 m³",
+          "ru": "+25 мбит/с канала управления дронами, +50 м³ отсека для дронов",
+          "zh": "无人机带宽+25mbit，无人机挂舱+50m³"
+        },
+        "importance": 6
+      },
+      {
+        "bonus": 25.0,
+        "bonusText": {
+          "de": "Reduktion der CPU- und Strom-Ausrüstungskosten von <a href=showinfo:3304>mittleren Hybridtürmen</a>",
+          "en": "reduction in the PWG and CPU fitting costs of <a href=showinfo:3304>Medium Hybrid Turrets</a>",
+          "es": "de reducción de los costes de equipamiento de SP y CPU en las <a href=showinfo:3304>torretas híbridas medianas</a>.",
+          "fr": "de réduction des coûts d'équipement du PWG et du CPU des <a href=showinfo:3304>Tourelles hybrides intermédiaires</a>",
+          "ja": "<a href=showinfo:3304>中型ハイブリッドタレット</a>のPWGとCPU装備コストが減少",
+          "ko": "<a href=showinfo:3304>중형 하이브리드 터렛</a> 파워그리드 및 CPU 요구치 감소",
+          "ru": "снижается потребность <a href=showinfo:3304>средних гибридных орудий</a> в мощностях ЦПУ и реактора",
+          "zh": "装配<a href=showinfo:3304>中型混合炮台</a>能量栅格和CPU消耗减少"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "30550": [
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Zielverfolgungsgeschwindigkeit von <a href=showinfo:3304>mittelgroßen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3304>Medium Hybrid Turret</a> tracking speed",
+            "es": "de bonificación a la velocidad de rastreo de la <a href=showinfo:3304>torreta híbrida mediana</a>.",
+            "fr": "de bonus à la vitesse de poursuite des <a href=showinfo:3304>tourelles hybrides intermédiaires</a>",
+            "ja": "<a href=showinfo:3304>中型ハイブリッドタレット</a>の追跡速度にボーナス",
+            "ko": "<a href=showinfo:3304>중형 하이브리드 터렛</a> 트래킹 속도 증가",
+            "ru": "повышается скорость наводки на цель <a href=showinfo:3304>средних гибридных орудий</a>",
+            "zh": "<a href=showinfo:3304>中型混合炮台</a>跟踪速度加成"
+          },
+          "importance": 3,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3304>mittelgroßen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3304>Medium Hybrid Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3304>torreta híbrida mediana</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:3304>tourelles hybrides intermédiaires</a>",
+            "ja": "<a href=showinfo:3304>中型ハイブリッドタレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3304>중형 하이브리드 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон боеприпасов <a href=showinfo:3304>средних гибридных орудий</a>",
+            "zh": "<a href=showinfo:3304>中型混合炮台</a>伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf den Präzisionsabfall von <a href=showinfo:3304>mittelgroßen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3304>Medium Hybrid Turret</a> falloff",
+            "es": "de bonificación al alcance efectivo de la <a href=showinfo:3304>torreta híbrida mediana</a>.",
+            "fr": "de bonus de distance de perte des <a href=showinfo:3304>tourelles hybrides intermédiaires</a>",
+            "ja": "<a href=showinfo:3304>中型ハイブリッドタレット</a>の精度低下範囲にボーナス",
+            "ko": "<a href=showinfo:3304>중형 하이브리드 터렛</a> 유효사거리 증가",
+            "ru": "увеличивается добавочная дальность ведения огня из <a href=showinfo:3304>средних гибридных орудий</a>",
+            "zh": "<a href=showinfo:3304>中型混合炮台</a>失准范围加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 45605,
   "volume": 40.0
 }

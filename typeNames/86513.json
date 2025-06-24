@@ -1,5 +1,18 @@
 {
-  "typeID": 86513,
+  "capacity": 1200.0,
+  "description": {
+    "de": "Eine Raubdrohne, die einem Schiff der Zerstörerklasse entspricht. Ihre Hauptaufgabe scheint die Zielmarkierung und Zerstörung zu sein.",
+    "en": "A Rogue Drone equivalent to a destroyer-class ship. Its primary objectives seem to be target painting and destruction.",
+    "es": "Un dron rebelde equivalente a una nave de clase destructor. Su objetivo principal parece ser la revelación y destrucción de objetivos.",
+    "fr": "Un drone renégat équivalent à un destroyer. Ses objectifs principaux semblent être le marquage de cible et la destruction.",
+    "ja": "ターゲットのペインティングと破壊を主な役割としているらしい、駆逐艦級艦船相当のローグドローン。",
+    "ko": "디스트로이어급 함선과 동급인 로그 드론입니다. 타겟 페인터로 주 목표를 지정해 파괴합니다.",
+    "ru": "Этот восставший дрон по характеристикам соответствует эсминцу. Похоже, его основная функция — подсветка и уничтожение целей.",
+    "zh": "一架驱逐舰级别的自由无人机。其主要目标似乎在于标记并摧毁目标。"
+  },
+  "graphicID": 1223,
+  "groupID": 1664,
+  "mass": 1500000.0,
   "name": {
     "de": "Scrutinizer Sentinel",
     "en": "Scrutinizer Sentinel",
@@ -10,5 +23,10 @@
     "ru": "Scrutinizer Sentinel",
     "zh": "哨兵审查者"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 45.0,
+  "sofFactionName": "roguebase",
+  "soundID": 11,
   "volume": 60.0
 }

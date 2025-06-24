@@ -1,5 +1,18 @@
 {
-  "typeID": 30525,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Sie haben das Gefühl, hier vielleicht etwas mit einem Analysator zu entdecken.",
+    "en": "You think there might be something concealed here that an analyzer could discover.",
+    "es": "Crees que aquí podría haber algo oculto que un analizador podría descubrir.",
+    "fr": "Quelque chose est peut-être coincé ici, qu'un analyseur pourrait vous aider à dénicher.",
+    "ja": "アナライザーがあれば何か発見できそうだ。",
+    "ko": "분석기를 활용하면 무언가 발견할 수 있습니다.",
+    "ru": "Вы считаете, что здесь может быть запрятано что-то, что можно обнаружить с помощью анализатора.",
+    "zh": "你认为这东西里面藏着的东西可以用分析仪找到。"
+  },
+  "graphicID": 3704,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Sleeper Artifact",
     "en": "Sleeper Artifact",
@@ -10,5 +23,9 @@
     "ru": "Sleeper Artifact",
     "zh": "冬眠者人工物件"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 314.0,
+  "sofFactionName": "debris",
   "volume": 27500.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 59637,
+  "capacity": 90.0,
+  "description": {
+    "de": "Diese fortschrittliche Trainingsdrohne wurde so modifiziert, dass sie das Flugprofil einer Fregatte der Imperial Navy der Inquisitor-Klasse aus dem Zeitalter der Minmatar-Rebellion nachahmt. Sie wird von in nahegelegene Strukturen integrierten Holo-Projektoren unterstützt, die für Kameradrohnen in der Nähe eine optische Annäherung einer Inquisitor projizieren. Warnung: Obwohl es sich bei dieser Inszenierungsdrohne um keine echte imperiale Fregatte handelt, kann sie Kapselpilotenschiffen echten Schaden zufügen, um eine authentische Inszenierung zu ermöglichen. Sie greifen diese Drohne auf eigene Gefahr an.",
+    "en": "This advanced training drone has been modified to mimic the flight profile of an Imperial Navy Inquisitor-class frigate from the era of the Minmatar Rebellion. It is supported by holoprojectors embedded in nearby structures that project a visual approximation of an Inquisitor for the benefit of nearby camera drones.\r\n\r\nWarning: Although this reenactment drone is not an authentic Imperial frigate, it is capable of applying real damage to capsuleer ships to create an authentic reenactment experience. Engage with this drone at your own risk.",
+    "es": "Este dron de entrenamiento avanzado se ha modificado para imitar el perfil de vuelo de una fragata de clase Inquisitor de la Armada Imperial de la era de la Rebelión de Minmatar. Cuenta con el apoyo de holoproyectores incrustados en estructuras cercanas que proyectan una aproximación visual de una Inquisitor para los drones cámara cercanos.\n\n\n\nAviso: Aunque este dron de recreación no es una fragata imperial auténtica, es capaz de infligir daño de verdad a las naves de capsulistas para proporcionar una experiencia real. Enfréntate a este dron bajo tu propia responsabilidad.",
+    "fr": "Ce drone d'entraînement avancé a été modifié pour imiter le profil de vol d'une frégate de classe Inquisitor de l'Imperial Navy à l'époque de la rébellion minmatar. Il est assisté par des holoprojecteurs intégrés aux structures voisines qui projettent une approximation visuelle d'un Inquisitor aux drones caméras à proximité. Avertissement : bien que ce drone de reconstitution ne soit pas une véritable frégate impériale, il est capable d'infliger de réels dégâts aux vaisseaux des capsuliers, ceci afin de créer une authentique expérience de reconstitution. Attaquez ce drone à vos risques et périls.",
+    "ja": "この高性能トレーニングドローンは、ミンマター蜂起が起きた時代の帝国海軍のインクイジター級フリゲートの航行プロファイルを模倣するよう改造されている。さらにサポートとして、付近のストラクチャにはホロプロジェクターが内蔵されており、付近のカメラドローンのためにインクイジターの似姿が投影される。\n\n\n\n警告：この再現ドローンは本物の帝国フリゲートではないものの、本物の追体験ができるよう、カプセラ船に対して実際にダメージを与えることができるようになっている。このドローンとの戦闘は自己責任で行うこと。",
+    "ko": "독립절 대회를 위해 개발된 훈련용 드론으로 민마타 반란 당시 사용되었던 인퀴지터급 프리깃을 모방하였습니다. 주변 구조물에 설치된 홀로그램 프로젝터를 통해 실제 인퀴지터와 유사한 외관을 자랑합니다.<br><br>경고: 해당 드론은 제국 프리깃을 모방하였습니다. 캡슐리어에게 실제로 피해를 입할 수 있어 전투 시 각별한 주의가 요구됩니다.",
+    "ru": "Этот продвинутый учебный дрон был специально модифицирован, чтобы копировать поведение флотского фрегата класса «Инквизитор» времён минматарского восстания. Совместно с дроном действует ряд голографических проекторов, установленных на ближайших сооружениях и передающих на него внешний образ корабля. Внимание: несмотря на то, что данный дрон реконструкции фактически не является реальным имперским фрегатом, в целях повышенной реалистичности боевых действий он всё же способен наносить существенный урон кораблям капсулёров. Вступайте с ним в бой на свой страх и риск.",
+    "zh": "这个先进的训练无人机可以模仿大起义时期帝国海军检察官级护卫舰的飞行。它嵌入了附近建筑的全息影像投射器，可以投射出一艘检察官级的模拟形象。\n\n\n\n警告：尽管闪回无人机不是真正的帝国护卫舰，它仍然可以对克隆飞行员舰船造成实际伤害，以提供真实的闪回体验。与该无人机交战后果自负。"
+  },
+  "graphicID": 1736,
+  "groupID": 1568,
+  "mass": 2235000.0,
   "name": {
     "de": "Inquisitor Reenactment Drone",
     "en": "Inquisitor Reenactment Drone",
@@ -10,5 +23,11 @@
     "ru": "Дрон реконструкции «Инквизитора»",
     "zh": "检察官级闪回无人机"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 21.0,
+  "sofFactionName": "amarrnavy",
+  "soundID": 20063,
   "volume": 26500.0
 }

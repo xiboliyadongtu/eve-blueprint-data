@@ -1,5 +1,19 @@
 {
-  "typeID": 76373,
+  "basePrice": 12000.0,
+  "description": {
+    "de": "Langwierige Neutronenablagerungen von den chaotischen Strahlungen, die in der Nähe von Leitungen des Abgrunds zu beobachten sind, haben die mineralogische Zusammensetzung dieses Asteroidentyps, der zuvor vermutlich der Scordite-Familie angehörte, drastisch in eine neue Konfiguration der Rakovene-Gruppe verändert. Dieser Asteroid befindet sich in einem Feld, das lange den Leitungen des Abgrunds und der subtil veränderten Zeitraum-Umgebung von Pochven ausgesetzt war. Konzentrationen der Mineralien vom Typ Nesosilikat wie Neo-Jadarit können per Aufbereitung gefördert werden, neben typischen Mengen von Tritanium, Isogen und Zydrine.",
+    "en": "Protracted neutron deposition from the chaotic radiations observed near Abyssal Conduits have radically morphed the mineralogical composition of this asteroid type, suspected to be formerly of the Scordite family, into a new configuration in the Rakovene group.\r\n\r\nThis asteroid is in a field that has undergone longterm exposure to Abyssal Conduits and the subtly altered spacetime environment of Pochven. Concentrations of nesosilicate-type minerals such as Neo-Jadarite can be extracted with reprocessing, alongside typical amounts of Tritanium, Isogen, and Zydrine",
+    "es": "La prolongada deposición de neutrones de las radiaciones caóticas observadas cerca de los conductos abisales ha transformado radicalmente la composición mineral de este tipo de asteroide, del cual se sospecha que pertenecía a la familia de la escordita, hasta convertirlo en una nueva configuración en el grupo de la rakovena.\n\nEste asteroide se encuentra en un campo que ha estado expuesto durante mucho tiempo a los conductos abisales y al entorno espaciotemporal sutilmente alterado de Pochven. Las concentraciones de minerales de tipo nesosilicato como la neojadarita se pueden extraer mediante reprocesamiento, junto con cantidades típicas de tritanio, isogen y zidrina.",
+    "fr": "Le dépôt prolongé de neutrons provenant de radiations chaotiques observé près des conduits abyssaux a radicalement transformé la composition minéralogique de ce type d'astéroïde, soupçonné d'avoir autrefois appartenu à la famille de la scordite, en une nouvelle variante de rakovene. Cet astéroïde se trouve dans un champ ayant été exposé à long terme aux conduits abyssaux et à l'environnement spatio-temporel subtilement altéré de Pochven. Le retraitement permet d'extraire des minéraux concentrés de type nésosilicate tels que la néo-jadarite, ainsi que des quantités ordinaires de tritanium, d'isogène et de zydrine.",
+    "ja": "この種類のアステロイドの鉱物構成は、アビサル導管周辺で観測された混沌とした放射能の集中した中性子堆積によって大きく変化している。元はスコダイト属のアステロイドだったようだが、ラコベネの新しい配列に変化しているものと思われる。\n\nこのアステロイドの存在するフィールドは、長期にわたってアビサル導管の影響を受けており、ポクヴェンの時空環境をわずかながらに変容させている。これらアステロイドを再処理することで、ネオジェイダライトをはじめとする高濃度のネソ珪酸塩系の無機物が抽出でき、さらに通常量のトリタニウム、アイソゲン、ザイドリンも入手できる。",
+    "ko": "어비설 전송기 근방에서 오랜 시간 방사선의 영향을 받아 중성자 구조가 변질되어 미네랄 성분비가 변한 소행성입니다. 본래는 스코다이트 계열이었을 것으로 추정되나 현재는 라코벤 계열로 새롭게 분류되었습니다.<br><br>어비설 전송기의 방사선과 포치벤의 시공간 왜곡의 영향을 크게 받은 지역에서 해당 소행성의 구조가 매우 오랜 시간에 걸쳐 천천히 변질되었습니다. 네소규산염 계열의 미네랄이 농축되어 있어 정제를 통해 네오-제이다라이트를 추출할 수 있으며, 그 외에도 트리타늄, 이소젠, 자이드라인도 검출됩니다.",
+    "ru": "Длительное оседание нейтронов из хаотичных излучений, наблюдаемых вблизи каналов Бездны, значительно изменило минералогический состав этого типа астероидов, ранее предположительно относившегося к разновидностям скордита, и превратило его в новый подвид раковита. Этот астероид расположен в области, которая длительное время подвергалась воздействию каналов Бездны и слегка измененных пространственно-временных сред Почвени. Он богат ортосиликатными минералами, такими как неоядарит. Кроме того, во время переработки из него можно извлечь тританий, изоген и зидрин.",
+    "zh": "深渊通道附近的放射性环境混乱，中子沉积现象长期存在，这彻底改变了这类小行星的矿物成分（以前可能是一种灼烧岩），进而演变成一种新型拉克岩构造。这颗小行星所在的星域长期暴露于深渊通道下，也受到波赫文发生微妙改变的时空环境的影响。提炼可以获得高浓度的岛状硅酸盐类矿物（如岛状贾达尔石）以及特定数量的三钛合金、同位聚合体和晶状石英核岩。"
+  },
+  "graphicID": 24446,
+  "groupID": 4030,
+  "iconID": 24144,
+  "marketGroupID": 2539,
   "name": {
     "de": "Nesosilicate Rakovene",
     "en": "Nesosilicate Rakovene",
@@ -10,5 +24,8 @@
     "ru": "Nesosilicate Rakovene",
     "zh": "岛状硅酸盐拉克岩"
   },
+  "portionSize": 100,
+  "published": true,
+  "sofFactionName": "crystal_abyssal",
   "volume": 0.5
 }

@@ -1,5 +1,16 @@
 {
-  "typeID": 83571,
+  "description": {
+    "de": "Da die Caldari, die außerhalb des Staates leben, dem Befehl zur Rückkehr Folge leisten, bringen sie viel Corporation-Besitz mit. Dieser Besitz muss weiterverarbeitet werden, und dieses Zentrum wurde genau zu diesem Zweck erbaut.",
+    "en": "As Caldari living outside the State heed the order to return, they bring with them many corporate assets. Those assets must be processed, and this center was built for just that purpose.",
+    "es": "A medida que los caldaris que viven fuera del Estado acatan la orden de regresar, traen consigo muchos bienes corporativos, que deben ser procesados. Este centro fue construido precisamente para ese fin.",
+    "fr": "Alors que les Caldari résidant hors de l'État obéissent à l'ordre de retour, ils ramènent avec eux de nombreux biens corporatifs. Ces biens doivent être traités, et ce centre a été construit spécifiquement à cet effet.",
+    "ja": "連合の領域外で生きるカルダリ人は、帰還命令を受けると大量のコーポレーション資産を持ち帰ることになる。そういった資産は必ずチェックを受ける必要があり、このセンターはその用途のためだけに建設された。",
+    "ko": "연합 외부에 거주하는 칼다리인들은 연합으로 복귀할 때 다양한 코퍼레이션 자산을 반입합니다. 해당 시설은 반입 자산에 대한 검역을 진행하기 위해 건설되었습니다.",
+    "ru": "Калдарцы, живущие за пределами Государства, возвращаются на родину, следуя приказу, и привозят с собой большое количество корпоративных активов. Этот центр был создан для их учёта.",
+    "zh": "生活在合众国境外的加达里人奉命归来，并带回了许多军团资产。为了确保这些资产得到妥善处理，这座中心也就应运而生。"
+  },
+  "graphicID": 1267,
+  "groupID": 226,
   "name": {
     "de": "Repatriation Center",
     "en": "Repatriation Center",
@@ -10,5 +21,8 @@
     "ru": "Repatriation Center",
     "zh": "遣返中心"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 18000.0,
+  "sofFactionName": "caldaribase"
 }

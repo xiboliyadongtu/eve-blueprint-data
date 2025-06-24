@@ -1,5 +1,17 @@
 {
-  "typeID": 23882,
+  "description": {
+    "de": "Ein Standard-Dekodiergerät zur Entschlüsselung wichtiger Funksprüche, die nicht mit Überlichtfunk gesendet werden.",
+    "en": "A standard decoding device, used to decode valuable transmissions often sent via non-FTL transport.",
+    "es": "Dispositivo descodificador con tecnología estándar que permite descifrar las valiosas transmisiones que se envían a través de transportes infralumínicos.",
+    "fr": "Appareil de décodage standard utilisé pour décoder des transmissions importantes souvent transportées par vaisseau non-PRL.",
+    "ja": "標準型暗号解読装置。非FTLトランスポート経由でしばしば送られる価値ある情報を解読するのに使われる。",
+    "ko": "기초적인 디코딩 장치로 대상이 빛보다 느린 속도로 비행 중일 경우 통신을 가로챌 수 있습니다.",
+    "ru": "Стандартный дешифратор для декодирования важных данных, которые нельзя передавать по FTL.",
+    "zh": "标准解码装置，用来解密通过非超光速发送的重要通讯信息。"
+  },
+  "groupID": 314,
+  "iconID": 1362,
+  "mass": 80.0,
   "name": {
     "de": "Standard Decoding Device",
     "en": "Standard Decoding Device",
@@ -10,5 +22,7 @@
     "ru": "Standard Decoding Device",
     "zh": "标准解码器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 50.0
 }

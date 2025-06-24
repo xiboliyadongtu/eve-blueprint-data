@@ -1,5 +1,19 @@
 {
-  "typeID": 60752,
+  "basePrice": 1000000.0,
+  "description": {
+    "de": "Hierbei handelt es sich um hochverschlüsselte Datenbanken, die alle nötigen Daten für virtuelle Simulationen verschiedener AEGIS-Befestigungsdesigns enthalten. Dank des EDENCOM-Befestigungsprogramms, das mit AEGIS an der Spitze geplant und während der Triglavia-Invasionen implementiert wurde, werden diese Designs auf vielen Planeten und orbitalen Installationen in verschiedensten Konfigurationen verwendet. Obwohl sie so verschlüsselt sind, dass Piraten und Kriminelle erhebliche Ressourcen aufwenden müssten, um die Daten zu extrahieren, ist der Wert dieser Pläne recht hoch.",
+    "en": "These are heavily encrypted databases that contain all the necessary data for virtual simulation of various AEGIS fortification designs. These designs are in use on many planets and orbital installations in various configurations as a result of EDENCOM fortification program that AEGIS took a lead in planning and implementing during the Triglavian Invasions. Although encrypted in such a way that pirates and criminals would need to devote significant resources to extracting the data, the value of these schematics is rather high.",
+    "es": "Estas bases de datos están herméticamente encriptadas y contienen todos los datos necesarios para la simulación virtual de varios diseños de fortificación de AEGIS. Estos diseños se utilizan en muchos planetas e instalaciones orbitales en diversas configuraciones como resultado de un programa de fortificación de EDENCOM, cuya planificación e implementación fueron lideradas por AEGIS durante las invasiones triglavianas. Aunque están encriptadas de tal forma que los piratas y los criminales tendrían que dedicar recursos considerables para extraer los datos, el valor de estos diagramas es bastante alto.",
+    "fr": "Il s'agit de bases de données solidement cryptées contenant toutes les données nécessaires à la simulation de divers modèles de fortifications AEGIS. Depuis le lancement du programme de fortification d'EDENCOM, programme qu'AEGIS a contribué à planifier et à mettre en œuvre lors des invasions triglavian, ces modèles sont utilisés sur de nombreuses planètes et installations orbitales aux configurations variées. La valeur de ces schémas est non négligeable. Aussi, leur cryptage est tel que les pirates et les criminels désirant extraire les données devront consacrer d'importantes ressources pour parvenir à leurs fins.",
+    "ja": "高度に暗号化されたデータベースが存在し、そこには様々なイージスの要塞見取り図の仮想シミュレーションを行うのに必要な全データが格納されている。この見取り図は、トリグラビアンの侵略の最中にイージスが計画と実施を主導したEDENCOMの要塞化プログラムの成果として、多くの惑星や軌道における様々な形態の施設において使われている。海賊や犯罪者がデータを抽出するには大量のリソースが必要となるほどの暗号化が施されているが、見取り図はそれでもなお高い価値を持つ。",
+    "ko": "강력한 보안 시스템이 적용된 데이터베이스로 AEGIS 강화 프로그램에 관한 설계가 담겨 있습니다. 해당 설계는 트리글라비안 침공 당시 개발되었던 EDENCOM 강화 프로그램의 일부로 현재는 다수의 행성 및 궤도 시설에 적용되고 있습니다. 데이터베이스는 상당한 가치를 자랑하지만, 해적 및 범죄 집단이 뚫기에는 보안 시스템이 만만치 않습니다.",
+    "ru": "Это хорошо зашифрованные базы данных, содержащие виртуальную симуляцию различных оборонительных сооружений ЭГИДА. Они используются на многих планетах и орбитальных объектах в различных конфигурациях и являются частью оборонительной системы ЭДЕНКОМа, разработанной ЭГИДА во время вторжений Триглава. Высокий уровень шифрования означает, что пиратам и другим злоумышленникам, пытающимся получить эти данные, придётся потратить значительные ресурсы, однако ценность этих схем всё равно довольно велика.",
+    "zh": "这些层层加密的数据库中含有视觉模拟统合部紧急干预和安全局多种要塞建筑设计图所需的关键数据。这些设计图是统合部紧急干预和安全局在三神裔入侵期间牵头计划并实施的防御项目的成果，现已用于许多行星和轨道设施中。尽管这种程度的加密需要海盗和不法分子投入相当大的资源才能破解，这些设计图的价值仍然搞得惊人。"
+  },
+  "groupID": 314,
+  "iconID": 10065,
+  "marketGroupID": 2801,
+  "mass": 1.0,
   "name": {
     "de": "AEGIS Fortification Schematics",
     "en": "AEGIS Fortification Schematics",
@@ -10,5 +24,8 @@
     "ru": "AEGIS Fortification Schematics",
     "zh": "统合部紧急干预和安全局防御工事图纸"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.1
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 75677,
+  "description": {
+    "de": "Diese stationierbare Struktur existiert nicht.",
+    "en": "This deployable does not exist.",
+    "es": "Este desplegable no existe.",
+    "fr": "Cette structure déployable n'existe pas.",
+    "ja": "存在しない配置可能物。",
+    "ko": "해당 전개형 구조물이 없습니다.",
+    "ru": "Такого полевого блока не существует.",
+    "zh": "可部署物品不存在。"
+  },
+  "graphicID": 25008,
+  "groupID": 4107,
+  "mass": 10000.0,
   "name": {
     "de": "QA 'Shady' Mobile Observatory",
     "en": "QA 'Shady' Mobile Observatory",
@@ -10,5 +22,9 @@
     "ru": "QA 'Shady' Mobile Observatory",
     "zh": "QA“阴暗”级移动观测站"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 100.0,
+  "sofFactionName": "upwell",
   "volume": 100.0
 }

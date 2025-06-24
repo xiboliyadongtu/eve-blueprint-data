@@ -1,5 +1,16 @@
 {
-  "typeID": 24452,
+  "description": {
+    "de": "Dies ist eine Standard-Produktionsstation der Gallente-Föderation. Sie ist mit starken Energieschirmen ausgestattet, obgleich man ihre Außenhülle und Panzerung im Vergleich mit amarrianischen Standards als eher schwach bezeichnen könnte.\r\n\r\nOhne spezielle Erlaubnis kann man an dieser Station nicht andocken.",
+    "en": "This is a standard Federation-built Manufacturing Station.  It has been equipped with powerful energy shield systems, although it's armor and hull would be considered fairly weak compared to Amarrian standards.\r\n\r\nDocking has been prohibited into this station without proper authorization.",
+    "es": "Estación de fabricación estándar construida por la Federación. Está equipada con potentes sistemas de escudo de energía, aunque su blindaje y casco son bastante débiles comparados con los estándares amarrianos.\n\nEstá prohibido acoplarse a esta estación sin la correspondiente autorización.",
+    "fr": "Il s'agit d'une station de production standard de la Fédération.  Elle est équipée de systèmes de boucliers puissants, même si son blindage et sa coque sont relativement faibles par rapport aux standards amarr.\n\nUne autorisation est requise pour s'amarrer dans cette station.",
+    "ja": "連邦製の標準的な製造ステーション。強力なエネルギーシールドシステムを装備しているが、アーマーと船体はアマーの標準からするとかなり脆弱と言える。このステーションへの入港は、適切な承認がなければ認められない。",
+    "ko": "갈란테 연방이 운영하는 생산 시설입니다. 강력한 에너지 실드 시스템이 설치되었지만 아마르 구조물에 비해 장갑 및 선체 내구도는 상대적으로 낮은 편에 속합니다. <br><br>허가되지 않은 함선은 정거장에 도킹할 수 없습니다.",
+    "ru": "Это стандартная промышленная станция Федерации. Она оборудована мощным энергетическим щитом, хотя по стандартам Amarr ее броню и корпус нельзя назвать прочными.\n\nСтыковка с этой станцией без надлежащих полномочий запрещена.",
+    "zh": "这是一座标准的联邦制造空间站。尽管其装甲和结构相比艾玛空间站较弱，但它装备有强大的护盾系统。如果没有获得正式授权，不准在此空间站停靠。"
+  },
+  "graphicID": 1255,
+  "groupID": 319,
   "name": {
     "de": "Gallente Factory",
     "en": "Gallente Factory",
@@ -10,5 +21,9 @@
     "ru": "Gallente Factory",
     "zh": "盖伦特工厂"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 13575.0,
+  "sofFactionName": "gallentebase"
 }

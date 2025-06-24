@@ -1,5 +1,20 @@
 {
-  "typeID": 87222,
+  "basePrice": 10000000.0,
+  "description": {
+    "de": "Telemetriedaten, die durch Beobachtung von Wurmlöchern im Zusammenhang mit Drifter-Aktivität gesammelt wurden. Die Daten scheinen nicht das Wurmloch selbst zu betreffen, sondern vielmehr weitere Hyperraumverbindungen, die dadurch beobachtet werden können. Diese Daten wurden begrenzt, um die Entdeckung durch Sicherheitsüberprüfungen im Hochsicherheitsraum zu vermeiden.",
+    "en": "Telemetry data gathered by observing wormholes related to Drifter activity. The data does not seem to concern the wormhole itself, but rather further hyperspace connections that can be observed through it.\r\n\r\nThis data has been limited to avoid detection by high-sec security sweeps.",
+    "es": "Datos telemétricos recopilados mediante la observación de agujeros de gusano relacionados con la actividad de los drifters. Los datos no parecen referirse al agujero de gusano en sí, sino a otras conexiones hiperespaciales que pueden observarse a través de él.\r\n\r\nEstos datos se han limitado para evitar su detección mediante controles de seguridad en sistemas de seguridad alta.",
+    "fr": "Les données de télémétrie sont recueillies grâce à l'observation des trous de ver liés à l'activité des Drifters. Les données ne semblent pas concerner le trou de ver lui-même, mais d'autres connexions hyperspatiales observables à travers celui-ci. Ces données ont été limitées pour éviter la détection par les balayages de sécurité de haut niveau.",
+    "ja": "ドリフターの活動に関連するワームホールを観測して得られたテレメトリデータ。ワームホールそのものではなく、それを通して観測できる超ハイパースペース接続に主眼を置いたデータのようだ。\r\n\r\nハイセキュリティシステムの防衛部隊による捜査に引っかからないよう、このデータには制限がかけられている。",
+    "ko": "드리프터가 활발하게 활동하는 웜홀을 관측해 수집한 텔레미터 데이터입니다. 데이터를 분석해보니 웜홀에 대한 연구보다 웜홀을 통해 관측할 수 있는 하이퍼스페이스의 연결 상태를 연구한 것으로 보입니다.\r\n\r\n하이 시큐리티 지역의 보안 검색을 회피할 수 있는 데이터만 수록되었습니다.",
+    "ru": "Эти данные телеметрии собраны при изучении червоточин, имеющих отношение к активности Скитальцев. Судя по всему, данные касаются не столько отдельной червоточины, сколько гиперпространственных связей, которые можно через неё наблюдать. Во избежание обнаружения службами безопасности данные представлены в урезанном виде.",
+    "zh": "通过观测与流浪者活动相关的虫洞而收集到的遥测数据。这些数据似乎并不涉及虫洞本身，而是通过虫洞观察到的更深层的超空间连接。这些数据一直受到限制，以避免被高安地区的安全扫描检测到。"
+  },
+  "groupID": 314,
+  "iconID": 3755,
+  "marketGroupID": 1863,
+  "mass": 1.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Restricted Hyperspace Telemetry",
     "en": "Restricted Hyperspace Telemetry",
@@ -10,5 +25,7 @@
     "ru": "Restricted Hyperspace Telemetry",
     "zh": "受限超空间遥测"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

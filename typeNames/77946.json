@@ -1,5 +1,19 @@
 {
-  "typeID": 77946,
+  "basePrice": 350000.0,
+  "description": {
+    "de": "Fragmente eines von Eindringlingen der Matari programmierten Trojaners. Das Virus tauschte die Parameter für freundliche und feindliche Ziele aus und sendete sie an das Zielsystem der infizierten Geräte. Es sind viele Fragmente nötig, um die Struktur und das Design des Virus zu verstehen, aber dieses Verständnis hilft den Amarr bei der Suche nach einer Neutralisierungsmöglichkeit.",
+    "en": "Fragments of a trojan virus programmed by Matari insurgents. The virus switched friend or foe parameters passed to the infected devices targeting system. \r\n\r\nUnderstanding the exact structure and design of the virus will require many fragments, but helps the Amarr to better understand how it might be countered.",
+    "es": "Fragmentos de un virus troyano programado por insurgentes mataris. El virus cambiaba los parámetros de amigo o enemigo del sistema de adquisición de objetivos de los dispositivos infectados. \r\n\r\nEntender la estructura y el diseño exactos del virus requerirá muchos fragmentos, pero ayudará a los amarrianos a comprender mejor cómo contrarrestarlo.",
+    "fr": "Fragments d'un virus de type cheval de Troie programmé par les insurgés matari. Le virus affecte le système de ciblage des appareils infectés et inverse leurs paramètres identifiant les vaisseaux alliés ou ennemis. Comprendre la structure et la conception exactes du virus nécessitera de collecter de nombreux fragments, mais permettra à terme aux Amarr de trouver comment le contrer.",
+    "ja": "マターの反乱勢力によってプログラムされたトロイの木馬ウイルスの断片。ウイルスは、感染したデバイスのターゲティングシステムに伝わるパラメーターの敵味方を入れ替える能力を持つ。 \r\n\r\nウイルスの正確な構造とデザインを理解するには大量の断片が必要になるが、アマーがウイルスへの反撃方法を理解する役に立つだろう。",
+    "ko": "민마타 반역자들이 제작한 트로이 목마 바이러스의 프로그램 코드 일부분입니다. 바이러스에 감염된 장치의 타겟팅 시스템은 아군과 적을 반대로 인식합니다.<br><br>바이러스의 정확한 구조를 알아내려면 많은 조각이 필요합니다. 조각을 충분히 모으면 아마르 제국이 대처 방안을 쉽게 마련할 수 있을 것입니다.",
+    "ru": "Фрагменты троянского вируса, над кодом которого поработали матарские повстанцы. Этот вирус меняет параметры «свой-чужой» в системах наведения заражённого оборудования. Чтобы разобраться в устройстве и работе этого вируса, потребуется больше фрагментов. Они помогут амаррцам лучше понять, как противостоять этой напасти.",
+    "zh": "玛塔利起义军编写的木马病毒片段。病毒切换了传递给受感染设备锁定系统的敌我参数。要弄懂病毒的确切结构和设计，就不得不用到大量片段，但这样才能够帮助艾玛更好地找出对付病毒的方法。"
+  },
+  "groupID": 4575,
+  "iconID": 2038,
+  "marketGroupID": 1863,
+  "mass": 1.0,
   "name": {
     "de": "Insurgent Trojan Fragments",
     "en": "Insurgent Trojan Fragments",
@@ -10,5 +24,7 @@
     "ru": "Insurgent Trojan Fragments",
     "zh": "义军木马病毒片段"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,16 @@
 {
-  "typeID": 25431,
+  "description": {
+    "de": "Eine Viator, die von einem Agenten geflogen wird.",
+    "en": "A Viator piloted by an agent.",
+    "es": "Viator pilotada por un agente.",
+    "fr": "Viator piloté par un agent.",
+    "ja": "エージェントを乗せたビアトール。",
+    "ko": "에이전트가 조종하는 바이에이터입니다.",
+    "ru": "Пилотируемый агентом корабль типа «Виатор».",
+    "zh": "由代理人驾驶的旅行者级飞船。"
+  },
+  "graphicID": 2712,
+  "groupID": 517,
   "name": {
     "de": "Gomosabin Zerdanne's Viator",
     "en": "Gomosabin Zerdanne's Viator",
@@ -10,5 +21,9 @@
     "ru": "Gomosabin Zerdanne's Viator",
     "zh": "戈莫萨宾·扎达南的旅行者级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 153.0,
+  "sofFactionName": "duvolle"
 }

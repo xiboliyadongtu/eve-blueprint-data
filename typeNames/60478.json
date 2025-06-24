@@ -1,5 +1,19 @@
 {
-  "typeID": 60478,
+  "basePrice": 36184.0,
+  "description": {
+    "de": "Diese leichte Kampfdrohne wurde mithilfe eines Mutaplasmidwerkzeugs, das sowohl Triglavia- als auch Raubdrohnentechnologie verwendet, bizarr verändert. Die resultierende Drohne mag zwar in verschiedener Hinsicht verbessert – oder auch verschlechtert – worden sein, aber ihr neues Erscheinungsbild ist mit Sicherheit viel grotesker. Die Techniken, die für die erfolgreiche Kontrolle der Excavator-Bergbaudrohnen von ORE entwickelt wurden, basieren auf entschärfter Raubdrohnentechnologie und erweisen sich als zufriedenstellend in der Unterdrückung der gefährlichen Bestandteile der mutierten Drohne. Wobei man wiederum bedenken muss, dass es sich hierbei um eine <i>Kampfdrohne mit anpassungsfähigen taktischen Intelligenzsystemen</i> handelt.",
+    "en": "This light combat drone has been bizarrely altered by a mutaplasmid tool that uses both Triglavian and rogue drone technologies. While the resultant drone unit may be enhanced in various ways, and changed for the worse in others, it is certainly much more grotesque than its original form.\r\n\r\nTechniques developed for controlling ORE's successful 'Excavator' line of mining drones, based on pacified rogue drone technology, appear to work satisfactorily to restrict the rogue elements of the mutated drone. Then again, this <i>is</i> a combat drone equipped with adaptive tactical intelligence systems.",
+    "es": "Este dron de combate ligero ha sido extrañamente alterado por una herramienta mutaplásmida que utiliza tecnologías de drones rebeldes y triglavianas. Si bien la unidad de dron resultante se puede mejorar de varias maneras y cambiarse para peor en otras, sin duda es mucho más grotesca que su forma original.\n\n\n\nLas técnicas desarrolladas para controlar la exitosa línea de drones mineros «Excavator» de ORE, basadas en la tecnología de drones rebeldes pacificados, parecen funcionar satisfactoriamente para restringir los elementos rebeldes del dron mutado. Por otra parte, <i>es</i> un dron de combate equipado con sistemas de inteligencia táctica adaptativa.",
+    "fr": "Ce drone de combat léger a été modifié de façon étrange par un outil mutaplasmide employant à la fois les technologies triglavian et celles des drones renégats. Le drone qui en résulte est amélioré de différentes façons, avec aussi divers changements produisant un effet inverse, mais il est incontestablement bien plus grotesque que dans sa forme d'origine. Les techniques développées pour contrôler la ligne populaire de drones d'extraction « Excavateur » d'ORE (basée sur la technologie des drones renégats pacifiés) semblent fonctionner de façon satisfaisante pour limiter les éléments rebelles des drones mutants. Néanmoins, cela <i></i>reste un drone de combat équipé de systèmes d'intelligence tactique adaptatifs.",
+    "ja": "このライト戦闘用ドローンは、トリグラビアンとローグドローン両方の技術を使った変異プラスミドツールによって異様な変貌を遂げている。結果として、このドローンは良くも悪くも様々な性能が変化しているが、オリジナルよりもはるかに奇怪な姿となっているのは間違いない。\n\n\n\nOREの傑作採掘ドローンである「エクスカベーター」を制御するために開発された技術は、制圧したローグドローンの技術をベースにしており、変異ドローンのローグ化した部分の機能に制限をかける上で有効活用できるようだ。もっとも、<i>こちらは</i>適応能力のある戦術情報システムを備えた戦闘用ドローンだが。",
+    "ko": "해당 라이트 드론은 특수한 뮤타플라즈미드로 인해 변이되었습니다. 트리글라비안 기술과 로그 드론 기술이 융합되어 그로테스크한 외관을 지니고 있으며 몇몇 성능이 개선 또는 하락했습니다.<br><br>로그 드론 기술을 기반으로 ORE '익스카베이터' 채굴 드론을 통제할 수 있으며, 로그 드론의 성질 또한 일정 부분 제어할 수 있습니다. 단, 적응형 인공지능 시스템이 탑재되어 있기 때문에 운용 시 각별한 <i>주의</i>가 요구됩니다.",
+    "ru": "В результате контакта с мутаплазмидным инструментом, использующим технологии Триглава и восставших дронов, этот малогабаритный боевой дрон был изменён самым причудливым образом. В то время как одни функциональные изменения пошли ему на пользу, а другие во вред, его внешние преобразования иначе как чудовищными не назовёшь. Технология, разработанная в ОРЭ для управления буровыми дронами серии «Экскаватор» на основе исследования подчинённых восставших дронов, похоже, успешно справляется с удержанием мутировавшего дрона под контролем. Но всё же не стоит забывать, что вы имеете дело с <i>самым настоящим</i> боевым дроном, оснащённым адаптивной тактической системой разведки.",
+    "zh": "这款轻型战斗无人机被一款融合了三神裔和自由无人机科技的突变质体大幅改造过。它在某些方面得到了加强，而在其他方面变弱了，与原始型号相比可谓非常怪异。\n\n\n\n用以控制联合矿业“采掘者”系列采矿无人机的技术似乎可以减少无人机突变时的不稳定因素。归根结底，这<i>是</i>一艘装配了适应性战术智能系统的战斗无人机。"
+  },
+  "graphicID": 25116,
+  "groupID": 100,
+  "mass": 3000.0,
+  "metaGroupID": 15,
   "name": {
     "de": "Light Mutated Drone",
     "en": "Light Mutated Drone",
@@ -10,5 +24,10 @@
     "ru": "Light Mutated Drone",
     "zh": "轻型突变无人机"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 15.0,
+  "sofFactionName": "roguebase",
   "volume": 5.0
 }

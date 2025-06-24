@@ -1,5 +1,19 @@
 {
-  "typeID": 28530,
+  "description": {
+    "de": "Erhöht die Energiespeicherladerate.",
+    "en": "Increases the capacitor recharge rate.",
+    "es": "Aumenta el índice de carga del condensador.",
+    "fr": "Améliore la vitesse de recharge du capaciteur.",
+    "ja": "キャパシタ充電速度を向上させる。",
+    "ko": "캐패시터 충전속도가 증가합니다.",
+    "ru": "Увеличивает скорость перезарядки конденсатора.",
+    "zh": "提高电容器再充电的速率。"
+  },
+  "groupID": 43,
+  "iconID": 26457,
+  "marketGroupID": 665,
+  "mass": 1.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Khanid Navy Cap Recharger",
     "en": "Khanid Navy Cap Recharger",
@@ -10,5 +24,8 @@
     "ru": "Khanid Navy Cap Recharger",
     "zh": "卡尼迪海军电容回充器"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 1195,
   "volume": 5.0
 }

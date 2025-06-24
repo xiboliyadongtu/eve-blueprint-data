@@ -1,5 +1,18 @@
 {
-  "typeID": 26751,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Das sieht aus wie die Baustelle einer großen Anlage von besonderer Bedeutung.",
+    "en": "This looks like a construction site of a grand structure of great importance.",
+    "es": "Parece la zona de obras de una imponente estructura de gran importancia.",
+    "fr": "Site de construction de ce qui semble être une structure de grande importance.",
+    "ja": "重要性の高い壮大な建造物の建設用地。",
+    "ko": "상당한 중요성을 지닌듯 보이는 구조물이 수리 중입니다.",
+    "ru": "Похоже, что это строительная площадка большого сооружения огромной важности.",
+    "zh": "看起来这是一座重要的大型建筑的施工地点。"
+  },
+  "graphicID": 2047,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Fragmented Cathedral I_Under Construction",
     "en": "Fragmented Cathedral I_Under Construction",
@@ -10,5 +23,9 @@
     "ru": "Fragmented Cathedral I_Under Construction",
     "zh": "大教堂残骸 I_建设中"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 1454.0,
+  "sofFactionName": "amarrbase",
   "volume": 100000000.0
 }

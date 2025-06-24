@@ -1,5 +1,18 @@
 {
-  "typeID": 32817,
+  "description": {
+    "de": "Diese Schiffsmodifikation wurde entwickelt, um den Ertragsmodifikator von Bergbaumodulen für Deep Core Mining zu erhöhen.",
+    "en": "This ship modification is designed to increase the yield modifier of Deep Core Strip mining modules.",
+    "es": "Esta modificación de nave está diseñada para aumentar el modificador de producción de los módulos de minería de núcleo profundo.",
+    "fr": "Cette modification de vaisseau est conçue pour augmenter le modificateur de rendement des modules d'extraction minière intensive en profondeur.",
+    "ja": "採掘モジュール「ディープコア・ストリップ」の採掘量修正乗数を増加させる艦船調整用パーツ。",
+    "ko": "리그 장착 시 딥코어 가속 채굴 모듈의 산출량을 향상합니다.",
+    "ru": "Эта модификация корабля повышает модификатор выработки лазеров валовой выемки для глубокого бурения.",
+    "zh": "此舰船改装件旨在提高深层地核露天采矿装备的产出系数。"
+  },
+  "groupID": 1232,
+  "iconID": 3199,
+  "marketGroupID": 1783,
+  "mass": 200.0,
   "name": {
     "de": "Medium Deep Core Mining Optimization I",
     "en": "Medium Deep Core Mining Optimization I",
@@ -10,5 +23,8 @@
     "ru": "Medium Deep Core Mining Optimization I",
     "zh": "中型深层地核采矿优化I"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 100.0,
   "volume": 10.0
 }

@@ -1,5 +1,19 @@
 {
-  "typeID": 33249,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Mit der richtigen Ausrüstung könnten Sie sich in das Bruchstück einhacken und ein paar wertvolle Informationen auslesen.",
+    "en": "If you have the right equipment you might be able to hack into the info shard and get some valuable information.",
+    "es": "Si tienes el equipo adecuado, podrías hackear el fragmento de información y obtener información valiosa.",
+    "fr": "Si vous disposez du matériel adéquat, vous pourrez peut-être pirater cette partition de données et récupérer des informations précieuses.",
+    "ja": "適切な機器があれば、ハッキングして有益な情報を得ることができる。",
+    "ko": "적합한 장비로 데이터 파편을 해킹하여 중요한 정보를 추출할 수 있습니다.",
+    "ru": "При наличии необходимого оборудования вы бы смогли взломать кристалл и получить ценную информацию.",
+    "zh": "如果你有正确的设备，你也许可以破解这块信息碎片并获得宝贵的信息。"
+  },
+  "graphicID": 24941,
+  "groupID": 1207,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Guristas Info Shard",
     "en": "Guristas Info Shard",
@@ -10,5 +24,9 @@
     "ru": "Guristas Info Shard",
     "zh": "古斯塔斯信息碎片"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 300.0,
+  "sofFactionName": "guristas",
   "volume": 27500.0
 }

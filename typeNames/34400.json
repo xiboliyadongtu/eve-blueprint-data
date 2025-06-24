@@ -1,5 +1,18 @@
 {
-  "typeID": 34400,
+  "basePrice": 2000000.0,
+  "description": {
+    "de": "Diese Kristallscheibe ist speziell dazu konstruiert, um die Gammastrahlen einer Gammastrahlen-Anpassungseinheit einzustellen.",
+    "en": "This disc of crystals is specially constructed to modulate gamma rays in a Solray Gamma Alignment Unit.",
+    "es": "Este disco de cristales está especialmente construido para modular los rayos gamma en una unidad de alineación gamma de Solray.",
+    "fr": "Ce disque de cristal est construit spécialement pour moduler les rayons gamma dans une unité d'alignement des rayons de soleil gamma.",
+    "ja": "クリスタル製のこのディスクは、ソルレーガンマ線調整ユニットでガンマ線を変調させるためにある。",
+    "ko": "솔레이 감마선 정렬 시설 내의 감마선을 조절하기 위해 제작된 디스크입니다.",
+    "ru": "Этот кристаллический диск создан специально для модуляции гамма-лучей в блоке направления гамма-излучения звезды.",
+    "zh": "这个水晶盘专为在恒星伽玛射线校准单元中调节伽玛射线而设计。"
+  },
+  "groupID": 314,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Gamma Ray Modulate Disc",
     "en": "Gamma Ray Modulate Disc",
@@ -10,5 +23,8 @@
     "ru": "Gamma Ray Modulate Disc",
     "zh": "伽玛射线调节盘"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.1
 }

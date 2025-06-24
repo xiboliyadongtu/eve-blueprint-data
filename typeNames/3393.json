@@ -1,5 +1,18 @@
 {
-  "typeID": 3393,
+  "basePrice": 45000.0,
+  "description": {
+    "de": "Bedienung von Rumpf- und Panzerungsreparaturmodulen. 5 % Reduktion der Reparaturdauer je Skillstufe\n\nHinweis: Hat keine Auswirkungen auf Capital-Module",
+    "en": "Operation of armor/hull repair modules. 5% reduction in repair systems duration per skill level.\r\n\r\nNote: Has no effect on capital sized modules.",
+    "es": "Funcionamiento de módulos de reparación de blindaje/casco. 5 % de reducción de la duración de los sistemas de reparación por nivel de habilidad.\n\nAviso: No tiene efecto en los módulos de naves capitales.",
+    "fr": "Aptitude à utiliser les modules de réparation du blindage et de la coque. Réduit de 5 % par niveau de compétence le laps de temps nécessaire aux systèmes de réparation.\n\nRemarque : n'a aucun effet sur les modules de taille capitale.",
+    "ja": "アーマー/船体リペアモジュールを操作するスキル。スキルレベル上昇ごとにリペアシステムのサイクル時間が5%短縮する。注: キャピタルサイズのモジュールには無効。",
+    "ko": "장갑 및 선체 수리 모듈 운용을 위한 스킬입니다. 매 레벨마다 수리 시스템 사이클 시간 5% 감소 <br><br>참고: 캐피탈급 모듈에는 효과가 적용되지 않습니다.",
+    "ru": "Навык эксплуатации модулей ремонта брони и корпуса. За каждую степень освоения навыка: на 5% сокращается продолжительность рабочего цикла ремонтных систем.\n\n\n\nПримечание: не действует на сверхбольшие модули.",
+    "zh": "操控装甲/船体维修装备的技能。每升一级，维修系统运转周期缩短5%。注：对旗舰级装备不起作用。"
+  },
+  "groupID": 1210,
+  "iconID": 33,
+  "marketGroupID": 1745,
   "name": {
     "de": "Repair Systems",
     "en": "Repair Systems",
@@ -10,5 +23,7 @@
     "ru": "Установки ремонта брони",
     "zh": "维修系统理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 364761,
+  "basePrice": 99000.0,
+  "description": {
+    "de": "Grundlegende Kenntnisse über Fahrzeugpanzerungsreparatur.\n\n+5% auf die Reparaturrate der Fahrzeugpanzerungsreparaturmodule pro Skillstufe.",
+    "en": "Basic understanding of vehicle armor repairing.\r\n\r\n+5% to repair rate of vehicle armor repair modules per level.",
+    "es": "Conocimiento básico de sistemas de reparación de blindaje de vehículos.\n\n+5% al índice de reparación de los módulos de reparación de vehículos por nivel.",
+    "fr": "Notions de base en réparation de blindage de véhicule.\n\n+5 % à la vitesse de réparation des modules de réparation de blindage de véhicule par niveau.",
+    "it": "Comprensione base dei metodi di riparazione della corazza del veicolo.\n\n+5% alla velocità di riparazione dei moduli riparazione corazza del veicolo per livello.",
+    "ja": "車両アーマーリペアリングに関する基本的な知識。\n\nレベル上昇ごとに、車両アーマーリペアモジュールのリペア速度が5%増加する。",
+    "ko": "차량 장갑 수리에 대한 기본적인 이해를 습득합니다.<br><br>매 레벨마다 차량 아머 수리 모듈의 수리 속도 5% 증가",
+    "ru": "Понимание основных принципов ремонта брони транспортных средств.\n\n+5% к эффективности ремонта брони ремонтным модулем на каждый уровень.",
+    "zh": "载具装甲维修基本知识。每升一级，载具装甲维修装备的维修速度提高5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Fahrzeug: Panzerungsreparatursysteme",
     "en": "Vehicle Armor Repair Systems",
@@ -11,5 +23,6 @@
     "ru": "Системы восстановления транспортного средства",
     "zh": "车载装甲维修系统"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

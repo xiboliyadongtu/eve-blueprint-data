@@ -1,5 +1,21 @@
 {
-  "typeID": 269,
+  "basePrice": 750.0,
+  "description": {
+    "de": "Eine leichte Rakete der Amarr mit EMP-Sprengkopf und automatisiertem Lenksystem.",
+    "en": "An Amarr light missile with an EMP warhead and automatic guidance system.",
+    "es": "Misil ligero amarriano con ojiva EMP y un sistema de guiado automático.",
+    "fr": "Missile amarr léger équipé d'une ogive IEM et d'un système de guidage automatique.",
+    "ja": "EMP弾頭と自動誘導システムを装備したアマー製ライトミサイル。",
+    "ko": "유도시스템과 EMP 탄두가 탑재된 아마르 라이트 미사일입니다.",
+    "ru": "Легкая ракета Amarr с боеголовкой ЭМП и системой автоматического наведения.",
+    "zh": "艾玛帝国的一种轻型导弹，装备了电磁脉冲战斗部和自动导航系统。"
+  },
+  "graphicID": 20062,
+  "groupID": 394,
+  "iconID": 1336,
+  "marketGroupID": 914,
+  "mass": 700.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Mjolnir Auto-Targeting Light Missile I",
     "en": "Mjolnir Auto-Targeting Light Missile I",
@@ -10,5 +26,9 @@
     "ru": "Mjolnir Auto-Targeting Light Missile I",
     "zh": "雷神自动锁定轻型导弹 I"
   },
+  "portionSize": 100,
+  "published": true,
+  "raceID": 4,
+  "radius": 300.0,
   "volume": 0.015
 }

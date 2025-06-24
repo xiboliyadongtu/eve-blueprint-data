@@ -1,5 +1,64 @@
 {
-  "typeID": 16233,
+  "basePrice": 40400000.0,
+  "capacity": 400.0,
+  "description": {
+    "de": "Die Prophecy wurde gemäß den Traditionen des Kriegsschiffdesigns der Amarr entwickelt, das auf die Anfänge von Gefechten zwischen Raumschiffen zurückgeht. Sie wurde zunächst als vollwertiges Schlachtschiff konzipiert. Nach ersten Flottenkämpfen mit Prototypen in gemischten Schlachten entschied man jedoch, dass sie als kleine, mobile Form der Artillerie-Unterstützung effizienter sein würde.",
+    "en": "The Prophecy is built on an ancient Amarrian warship design dating back to the earliest days of starship combat. Originally intended as a full-fledged battleship, it was determined after mixed fleet engagements with early prototypes that the Prophecy would be more effective as a slightly smaller, more mobile form of artillery support.",
+    "es": "La Prophecy se basa en un antiguo diseño de nave de guerra amarriano que data de los comienzos del combate espacial. Se creó con la idea de que fuera un acorazado de pleno derecho, pero, tras varios enfrentamientos entre flotas mixtas con los prototipos iniciales, se determinó que la Prophecy sería más efectiva como un apoyo de artillería más pequeño y móvil.",
+    "fr": "Le Prophecy est construit à partir du plan d'un ancien vaisseau de guerre amarr remontant aux débuts des combats stellaires. Le Prophecy avait été conçu à l'origine pour être un cuirassé complet, mais après quelques engagements de flotte mixte, les premiers prototypes se sont avérés plus efficaces dans le rôle d'un vaisseau de soutien d'artillerie mobile en raison de sa taille plus réduite.",
+    "ja": "プロフェシーは、宇宙船戦闘の黎明期の、きわめて古いアマー軍艦の設計を元に建造された。当初は本格的な戦艦となる予定だったが、初期プロトタイプをフリートに投入しての実戦を繰り返した結果、プロフェシーはもう少し小型で機動性が高い砲撃支援艦にした方が効果的だという結論に至った。",
+    "ko": "프로퍼시는 우주전 초창기 시절에 사용되었던 고대 아마르 함선을 토대로 제작되었습니다. 본래 배틀쉽급으로 설계되었으나 이후 기동성 보완을 통해 배틀크루저로 함급이 축소되었습니다. 이러한 변화를 통해 함대 화력 지원면에서 보다 효율적인 성능을 갖추게 되었습니다.",
+    "ru": "Проект «Професи» был создан на основе древнего амаррского военного корабля, разработанного на самой заре космических сражений. Изначально предполагалось, что «професи» войдут в состав флота в качестве полноценных линкоров, однако результаты боевых испытаний кораблей-прототипов убедительно доказали: наибольшую пользу они способны принести в роли подвижного средства огневой поддержки главных сил флота.",
+    "zh": "先知级的设计基于一种古代艾玛战船，可以追溯到星际飞船大战的最早期。最初的设想是把它塑造成一艘完备的战列舰，但在其早期原型与各类飞船交火后，设计者发现，先知级作为一艘移动迅速的小型炮火支援船更有效。"
+  },
+  "factionID": 500003,
+  "graphicID": 2385,
+  "groupID": 419,
+  "marketGroupID": 470,
+  "mass": 15300000.0,
+  "masteries": {
+    "0": [
+      96,
+      165,
+      89,
+      93,
+      94
+    ],
+    "1": [
+      96,
+      165,
+      89,
+      93,
+      94
+    ],
+    "2": [
+      96,
+      165,
+      89,
+      93,
+      94
+    ],
+    "3": [
+      96,
+      165,
+      89,
+      93,
+      94
+    ],
+    "4": [
+      96,
+      165,
+      109,
+      117,
+      153,
+      152,
+      89,
+      154,
+      93,
+      94
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Prophecy",
     "en": "Prophecy",
@@ -9,6 +68,94 @@
     "ko": "프로퍼시",
     "ru": "Prophecy",
     "zh": "先知级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 173.0,
+  "sofFactionName": "amarrbase",
+  "soundID": 20061,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Kann ein <a href=showinfo:3348>Kommandostrahl</a>-Modul verwenden",
+          "en": "Can use one <a href=showinfo:3348>Command Burst</a> module",
+          "es": "Es posible equipar un módulo de <a href=showinfo:3348>estallido de mando</a>.",
+          "fr": "Peut utiliser une <a href=showinfo:3348>salve de commandement</a>.",
+          "ja": "<a href=showinfo:3348>コマンドバースト</a>モジュールは1個使用可能です",
+          "ko": "한 개의 <a href=showinfo:3348>커맨드 버스트</a> 모듈만 사용 가능",
+          "ru": "Корабли этого типа могут включать один <a href=showinfo:3348>импульсный оптимизатор</a>",
+          "zh": "可以装配一个<a href=showinfo:3348>指挥脉冲波</a>装备"
+        },
+        "importance": 1
+      },
+      {
+        "bonus": 12.5,
+        "bonusText": {
+          "de": "Bonus auf die Mikrowarpantriebgeschwindigkeit von <a href=showinfo:3436>Drohnen</a>",
+          "en": "bonus to <a href=showinfo:3436>Drone</a> microwarp velocity",
+          "es": "de bonificación a la velocidad de microwarp de los <a href=showinfo:3436>drones</a>.",
+          "fr": "de bonus à la vitesse de microwarp des <a href=showinfo:3436>drones</a>",
+          "ja": "<a href=showinfo:3436>ドローン</a>のマイクロワープ速度が上昇",
+          "ko": "<a href=showinfo:3436>드론</a> 마이크로 워프 속도 증가",
+          "ru": "повышается скорость полного хода <a href=showinfo:3436>дронов</a>",
+          "zh": "<a href=showinfo:3436>无人机</a>最大速度加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonus": 50,
+        "bonusText": {
+          "de": "Bonus auf die Reichweite des Wirkungsbereichs von <a href=showinfo:3348>Kommandostrahlen</a>",
+          "en": "bonus to <a href=showinfo:3348>Command Burst</a> area of effect range",
+          "es": "de bonificación al alcance del radio de acción del <a href=showinfo:3348>estallido de mando</a>.",
+          "fr": "de bonus à la portée de l'effet de zone des <a href=showinfo:3348>salves de commandement</a>.",
+          "ja": "<a href=showinfo:3348>コマンドバースト</a>効果範囲にボーナス",
+          "ko": "<a href=showinfo:3348>커맨드 버스트</a> 효과 반경 증가",
+          "ru": "увеличивается радиус импульсов, генерируемых <a href=showinfo:3348>импульсными оптимизаторами</a>",
+          "zh": "<a href=showinfo:3348>指挥脉冲波</a>效果范围加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "33095": [
+        {
+          "bonus": 4,
+          "bonusText": {
+            "de": "Bonus auf alle Panzerungsresistenzen",
+            "en": "bonus to all armor resistances",
+            "es": "de bonificación a todas las resistencias de blindaje.",
+            "fr": "de bonus à toutes les résistances du blindage",
+            "ja": "全てのアーマーレジスタンスが増加",
+            "ko": "모든 장갑 저항력 증가",
+            "ru": "повышается сопротивляемость брони корабля всем видам воздействия",
+            "zh": "装甲抗性加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf die HP und den Schaden von <a href=showinfo:3436>Drohnen</a>",
+            "en": "bonus to <a href=showinfo:3436>Drone</a> hitpoints and damage",
+            "es": "de bonificación a los puntos de vida y el daño de los <a href=showinfo:3436>drones</a>.",
+            "fr": "de bonus aux dégâts et aux PV du <a href=showinfo:3436>drone</a>",
+            "ja": "<a href=showinfo:3436>ドローン</a>のヒットポイントとダメージが増加",
+            "ko": "<a href=showinfo:3436>드론</a> 내구도 및 피해량 증가",
+            "ru": "увеличивается урон бортового оружия <a href=showinfo:3436>дронов</a>; увеличивается запас их прочности",
+            "zh": "<a href=\"showinfo:3436\">无人机</a>伤害和HP加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 234000.0
 }

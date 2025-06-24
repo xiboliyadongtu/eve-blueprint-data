@@ -1,5 +1,20 @@
 {
-  "typeID": 45611,
+  "description": {
+    "de": "Diese Fasern aus leichten wie verwindungsstarken Fullerenpolymeren interkalieren in die Struktur eines Schiffes, um es ohne Stabilitätseinbußen schneller und wendiger zu machen. Herkömmliche Nanofasern gibt es schon seit Jahrhunderten, doch erst jetzt in Verbindung mit verschiedenen anderen sowie den aus der Sleeper-Zeit wiederentdeckten Polymeren werden sie immer wichtiger für den Gebrauch in modularen Systemen. So findet althergebrachte Technologie ihren Platz in der modernen Welt der Tech III Paradigmen.",
+    "en": "Constructed from hard yet lightweight fullerene polymers, these intercalated fibers boost the speed and agility of a starship without compromising its structural resilience. Even though basic nanofibers have existed for hundreds of years, the integration of various Sleeper-based salvage and other polymers takes the technology to a completely new level of modularity. This has allowed the same centuries-old technology to be ported over to the new Tech III paradigm.",
+    "es": "Estas fibras intercaladas, hechas con polímeros fullerenos rígidos pero ligeros, potencian la agilidad de una nave sin comprometer su resistencia estructural. Aunque las nanofibras básicas han existido durante cientos de años, la integración de varios restos basados en sleepers y otros polímeros lleva a esta tecnología a un nivel de modulación totalmente nuevo. Esto ha permitido que la misma tecnología centenaria pueda transferirse al nuevo paradigma T3.",
+    "fr": "Fabriquées à partir de polymères de fullerène à la fois résistants et légers, ces fibres intercalées augmentent la vitesse et la maniabilité d'un vaisseau spatial sans compromettre sa résistance structurelle. Si les nanofibres de base existent depuis des siècles, l'intégration des différentes technologies sleeper et autres polymères a donné une toute nouvelle dimension de modularité à cette technologie. C'est ainsi qu'une technologie vieille de plusieurs siècles a pu être adaptée aux nouveaux vaisseaux Tech III.",
+    "ja": "軽量かつ硬質なフラーレン重合体で形成された繊維が交互に編み込まれており、宇宙船の形状保持能力を損なうことなく速度や機動性を一気に高めることができる。ベーシックなナノファイバーは何百年間も存在していたが、スリーパーから回収したサルベージ品と重合体の融合により、モジュール方式の技術は革新的な発展を遂げた。これにより、数世紀も前の技術を現代のT3技術体系に応用することが可能になった。",
+    "ko": "견고하지만 경량 소재인 퓰러렌 중합체로 만들어진 섬유질이 적용되어 저항력 감소 없이 함선 기동성을 향상합니다. 나노섬유는 수백년 간 존재해왔지만 기존의 여러 중합체를 슬리퍼 기반 기술과 융합함으로써 모듈방식을 새로운 수준으로 끌어올릴 수 있었습니다. 이를 통해 수백년동안 존재해왔던 기술들을 테크 III 패러다임에 안전하게 이식할 수 있게 되었습니다.",
+    "ru": "Лёгкие, но прочные волоконные прослойки, состоящие из фуллеренных полимеров, повышают скорость и маневренность корабля, сохраняя прочность его корпуса. Нановолокна существуют уже сотни лет, но интеграция демонтированных материалов Спящих и разработанных ими полимеров выводит технику на принципиально новый уровень модульности и позволяет внедрить старые технологии в новую парадигму третьей техкатегории.",
+    "zh": "采用高强度轻质材料富勒烯纤维生产，这种间层纤维能够增强舰船的速度和灵活性，同时又不会在舰船结构强度上打折扣。尽管基本的纳米纤维技术已经存在了数百年之久，但是冬眠者技术和其他富勒烯复合物技术使得这种设备的革新进入了一个全新的模块化时代。它同时还打开了将这种设备用于新型三级科技舰船的通途。"
+  },
+  "graphicID": 21519,
+  "groupID": 957,
+  "iconID": 3646,
+  "marketGroupID": 1134,
+  "mass": 1400000.0,
+  "metaGroupID": 14,
   "name": {
     "de": "Legion Propulsion - Intercalated Nanofibers",
     "en": "Legion Propulsion - Intercalated Nanofibers",
@@ -9,6 +24,75 @@
     "ko": "레기온 추진기 시스템 - 나노섬유 중합",
     "ru": "Legion Propulsion - Intercalated Nanofibers",
     "zh": "圣卒推进 - 间层纳米纤维"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "sofFactionName": "amarrbase",
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "<b><u>Zusätzliche Basiswerte</b></u>",
+          "en": "<b><u>Additional Base Stats</b></u>",
+          "es": "<b><u>Estadísticas básicas adicionales</b></u>",
+          "fr": "<b><u>Stats de base supplémentaires</b></u>",
+          "ja": "<b><u>追加ベース統計</b></u>",
+          "ko": "<b><u>추가 기본 능력치</b></u>",
+          "ru": "<b><u>Кроме того:</b></u>",
+          "zh": "<b><u>附加基础数值</b></u>"
+        },
+        "importance": 1
+      },
+      {
+        "bonusText": {
+          "de": "+2 Low Slots",
+          "en": "+2 Low Slots",
+          "es": "+2 ranuras inferiores",
+          "fr": "+2 Emplacements inférieurs",
+          "ja": "ロースロット+2",
+          "ko": "로우 슬롯 +2",
+          "ru": "+2 разъёма малой мощности",
+          "zh": "低槽+2"
+        },
+        "importance": 2
+      }
+    ],
+    "types": {
+      "30538": [
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die Wendigkeit des Schiffs",
+            "en": "bonus to ship agility",
+            "es": "de bonificación a la agilidad de la nave.",
+            "fr": "de bonus à la maniabilité du vaisseau",
+            "ja": "艦船の機動性を強化",
+            "ko": "기동성 증가",
+            "ru": "повышается маневренность корабля",
+            "zh": "舰船灵活性加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die Maximalgeschwindigkeit",
+            "en": "bonus to max velocity",
+            "es": "de bonificación a la velocidad máxima.",
+            "fr": "de bonus à la vitesse maximale",
+            "ja": "最高速度が上昇",
+            "ko": "최대속도 증가",
+            "ru": "повышается максимальная скорость корабля",
+            "zh": "最大速度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 40.0
 }

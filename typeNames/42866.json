@@ -1,5 +1,16 @@
 {
-  "typeID": 42866,
+  "description": {
+    "de": "Die Überreste einer Amarr-Struktur.",
+    "en": "The remains of an Amarr structure.",
+    "es": "Los restos de una estructura amarriana.",
+    "fr": "Ruines d'une structure amarr.",
+    "ja": "アマー系構造物の残骸。",
+    "ko": "아마르 구조물의 잔해입니다",
+    "ru": "Обломки разрушенного амаррского сооружения.",
+    "zh": "一座艾玛建筑的残骸。"
+  },
+  "graphicID": 3775,
+  "groupID": 226,
   "name": {
     "de": "Wrecked Amarr Structure",
     "en": "Wrecked Amarr Structure",
@@ -10,5 +21,9 @@
     "ru": "Wrecked Amarr Structure",
     "zh": "损毁的艾玛建筑"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 7944.0,
+  "sofFactionName": "amarrbase",
+  "soundID": 20174
 }

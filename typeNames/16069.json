@@ -1,5 +1,18 @@
 {
-  "typeID": 16069,
+  "basePrice": 100000.0,
+  "description": {
+    "de": "Bedienung von Panzerungs-Fernreparatursystemen.\r\n\r\n5% Bonus auf den Energiespeicherverbrauch von Panzerungs-Fernreparatursystem-Modulen je Skillstufe.",
+    "en": "Operation of remote armor repair systems. 5% reduced capacitor need for remote armor repair system modules per skill level.",
+    "es": "Funcionamiento de sistemas de reparación remota de blindaje. Necesidad del condensador reducida un 5 % en los módulos de sistemas de reparación remota de blindaje por nivel de habilidad.",
+    "fr": "Utilisation des systèmes de réparation de blindage à distance. Réduit de 5 % par niveau de compétence les besoins énergétiques du capaciteur pour les modules de système de réparation de blindage à distance.",
+    "ja": "リモートアーマーリペアシステムを操作するスキル。スキルレベル上昇ごとに、リモートアーマーリペアシステムモジュールのキャパシタ消費が 5% 減少。",
+    "ko": "원격 장갑수리 시스템 운용을 위한 스킬입니다. 매 레벨마다 원격 장갑수리 시스템 모듈의 캐패시터 사용량 5% 감소",
+    "ru": "Навык эксплуатации установок дистанционного ремонта брони. За каждую степень освоения навыка: на 5% сокращается расход энергии при работе установок дистанционного ремонта брони.",
+    "zh": "操控远程装甲维修系统的技能。每升一级，远程装甲维修装备的电容消耗减少5%。"
+  },
+  "groupID": 1210,
+  "iconID": 33,
+  "marketGroupID": 1745,
   "name": {
     "de": "Remote Armor Repair Systems",
     "en": "Remote Armor Repair Systems",
@@ -10,5 +23,7 @@
     "ru": "Дистанционный ремонт брони",
     "zh": "远程装甲维修系统研究"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

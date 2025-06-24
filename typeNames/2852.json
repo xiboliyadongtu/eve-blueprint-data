@@ -1,5 +1,17 @@
 {
-  "typeID": 2852,
+  "description": {
+    "de": "Ein Anziehungsfeld, das umgangssprachlich auch \"Cyno\" genannt wird, ist eine kosmische Anomalie, die sich wie eine Art Pseudo-Schwerkraft-Quelle verhält. Mit der korrekten Kalibrierungsinformation können interstellare Sprungantriebe das Feld ansteuern und so ein Portal im Zielsystem erzeugen.",
+    "en": "A cynosural field, also known colloquially as a \"cyno\", is a cosmic anomaly that acts as a pseudo-gravity well. With the correct calibration information, interstellar jump drives can lock onto the field and create a portal into the destination system.",
+    "es": "Un campo cinosural, también conocido coloquialmente como «cino», es una anomalía cósmica que actúa como un pozo pseudogravitatorio. Con la información de calibración correcta, los motores de salto interestelar pueden fijar el campo y crear un portal hacia el sistema de destino.",
+    "fr": "Un champ cynosural, familièrement appelé « cyno », est une anomalie cosmique qui fonctionne comme un puits de pseudo-gravité. Avec les bonnes données d'étalonnage, les propulseurs hyperspatiaux peuvent verrouiller un champ et créer un portail vers le système de destination.",
+    "ja": "サイノシュラルフィールドは会話の中では「サイノ」とも呼ばれ、宇宙特異点として疑似重力の役割を果たす。正確なキャリブレーション情報があれば、惑星間ジャンプドライブがフィールドにロックオンして、目的のシステムへのポータルを作成できる。",
+    "ko": "\"사이노\", 즉 사이노슈럴 필드는 가중력 우물의 역할을 하는 일종의 코즈믹 어노말리입니다. 성간 점프 드라이브를 사이노슈럴 필드에 고정하게 될 경우 목표 지점에 포탈을 임의로 생성할 수 있습니다.",
+    "ru": "Путеводное поле, известное также как «цино-поле» - космическая аномалия, действующая как псевдогравитационный колодец. Обладая необходимой для калибровки информацией, межзвездные гипердвигатели могут захватывать сигнал поля и создавать портал к точке назначения.",
+    "zh": "诱导力场是一种用作伪引力场的空间异常。只要有正确的校准信息，星际跳跃引擎就能锁定力场并在宇宙中生成一个通往目的地星系的通道。"
+  },
+  "graphicID": 2742,
+  "groupID": 226,
+  "mass": 1.0,
   "name": {
     "de": "Sansha Cynosural Field",
     "en": "Sansha Cynosural Field",
@@ -10,5 +22,7 @@
     "ru": "Sansha Cynosural Field",
     "zh": "萨沙诱导力场"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 1274.0
 }

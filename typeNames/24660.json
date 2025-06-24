@@ -1,5 +1,20 @@
 {
-  "typeID": 24660,
+  "basePrice": 10000000.0,
+  "capacity": 10500000.0,
+  "description": {
+    "de": "Eine mobile Produktionseinrichtung, in der Konstruktionselemente wie etwa Komponenten für Capital-Schiffe, Tech-2, Hybrid (Tech 3) und auch Strukturkomponenten gebaut werden können. Hier können auch Treibstoffblöcke hergestellt werden.",
+    "en": "A mobile assembly facility where Construction Components such as Capital Ship, Tech II, Hybrid (Tech III) Components and Structure Components of all sorts can be manufactured. Fuel Blocks can also be manufactured here.",
+    "es": "Instalación de ensamblaje móvil donde se fabrican materiales de construcción, como componentes para naves capitales, T2, Hybrid (T3) y componentes para estructuras de todo tipo, además de bloques de combustible.",
+    "fr": "Ce module d'assemblage mobile permet la fabrication de composants de construction pour structures, vaisseaux capitaux, coques de tech II et hybrides (tech III). Il autorise également la production de blocs de carburant.",
+    "ja": "主力艦、T2、ハイブリッド（T3）、各種建設用の部品を製造できる移動式組み立て施設。燃料ブロックもここで製造可能。",
+    "ko": "캐피탈 함선 부품, 테크 II 부품, 하이브리드(테크III) 부품과 같은 함선 부품 및 구조물 부품을 제조하는 이동식 생산 시설입니다. 연료 블록의 제조 또한 가능합니다.",
+    "ru": "Блок-завод, служащий для производства различных строительных компонентов — таких как компоненты кораблей большого тоннажа, компоненты второй техкатегории, а также гибридные компоненты (третьей техкатегории). Здесь же производятся топливные блоки.",
+    "zh": "一座移动式装配设施，在这里可以生产所有种类的建造组件，例如旗舰、二级科技、混合（三级科技）组件和建筑组件。这里还可以制造燃料块。"
+  },
+  "graphicID": 2377,
+  "groupID": 397,
+  "marketGroupID": 932,
+  "mass": 100000000.0,
   "name": {
     "de": "Component Assembly Array",
     "en": "Component Assembly Array",
@@ -10,5 +25,9 @@
     "ru": "Component Assembly Array",
     "zh": "组件装配阵列"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 937.0,
+  "sofFactionName": "genericmetal",
   "volume": 12500.0
 }

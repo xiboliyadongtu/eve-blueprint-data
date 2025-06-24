@@ -1,5 +1,19 @@
 {
-  "typeID": 15302,
+  "description": {
+    "de": "Erhöht die Stromnetzleistung.",
+    "en": "Boosts power core output.",
+    "es": "Aumenta el rendimiento del núcleo de potencia.",
+    "fr": "Améliore la puissance d'alimentation du réacteur principal.",
+    "ja": "パワーコアの出力を向上させる。",
+    "ko": "파워그리드 용량이 증가합니다.",
+    "ru": "Увеличивает производительность энергосистемы корабля.",
+    "zh": "提升能源核心输出功率。"
+  },
+  "groupID": 769,
+  "iconID": 26547,
+  "marketGroupID": 659,
+  "mass": 20.0,
+  "metaGroupID": 5,
   "name": {
     "de": "Tuvan's Modified Reactor Control Unit",
     "en": "Tuvan's Modified Reactor Control Unit",
@@ -10,5 +24,9 @@
     "ru": "Tuvan's Modified Reactor Control Unit",
     "zh": "图万氏改良型反应堆控制元件"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 500.0,
+  "variationParentTypeID": 1353,
   "volume": 5.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 22241,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Ein kleiner Bunker, verwendet für die Unterbringung und schnelle Verlegung von Truppen oder Personal. Dieser hier wurde schon vor Jahren von den Nefantar aufgegeben und dient heute dem Angel Cartel als Lagerraum.",
+    "en": "A small bunker, there for accommodation and increased mobility of troops and other personnel. Deserted years ago by the Nefantar tribe, this bunker is now used as storage by the Angel Cartel.",
+    "es": "Un pequeño búnker para alojar y aumentar la movilidad de las tropas y demás personal. Desde que los nefantars lo abandonaron hace años, el Cártel de los Ángeles lo usa como almacén.",
+    "fr": "Petit bunker utilisé en guise d'hébergement et favorisant la mobilité des soldats et du personnel. Déserté depuis des années par la tribu des Nefantar, ce bunker sert désormais d'entrepôt pour le cartel angel.",
+    "ja": "兵士などの要員を収容し、彼らの機動性を向上させる小型バンカー。数年前にネファンター族によって打ち捨てられてからは、エンジェルカルテルの倉庫として利用されている。",
+    "ko": "막사 겸 병력의 기동력 향상을 위해 설치된 소형 벙커입니다. 몇 년 전 네판타르 부족이 나간 뒤 엔젤 카르텔이 창고로 활용하고 있습니다.",
+    "ru": "Небольшой бункер, предназначенный для размещения войск и персонала с целью повышения их мобильности. Этот бункер был покинут племенем Nefantar много лет назад, и сейчас служит складом Angel Cartel.",
+    "zh": "一座小碉堡，能提供住处，增加部队和其他人员的机动性。这座碉堡多年前被内凡达部落遗弃，现在被天使企业联合体当作储藏设施。"
+  },
+  "graphicID": 2479,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Deserted Nefantar Bunker",
     "en": "Deserted Nefantar Bunker",
@@ -10,5 +23,10 @@
     "ru": "Deserted Nefantar Bunker",
     "zh": "废弃的内凡达碉堡"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 713.0,
+  "sofFactionName": "minmatarbase",
+  "soundID": 20900,
   "volume": 100000000.0
 }

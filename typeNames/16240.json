@@ -1,5 +1,70 @@
 {
-  "typeID": 16240,
+  "basePrice": 800000.0,
+  "capacity": 450.0,
+  "description": {
+    "de": "Da sie sowohl für den Einsatz in kleineren Gefechten, als auch zur Unterstützung eines Flottenverbandes hervorragend geeignet ist, wird die Catalyst als eine der besten Anti-Fregatten Plattformen betrachtet, die es gibt. Ihrer ultramodernen Nachführungstechnik können nicht viele etwas entgegenhalten.",
+    "en": "Ideally suited for both skirmish warfare and fleet support, the Catalyst is touted as one of the best anti-frigate platforms out there. Faced with its top-of-the-line tracking equipment, not many can argue.",
+    "es": "La Catalyst es una de las mejores plataformas antifragatas del mercado; es ideal para escaramuzas y para brindar apoyo a las flotas, lo que, añadido al equipo de rastreo que lleva incorporado, la hace imbatible en dichas situaciones.",
+    "fr": "Totalement adapté aux actions de guérilla et au soutien de flotte, le Catalyst est l'une des meilleures plateformes anti-frégates qui soit. Rares sont ceux qui peuvent faire face à ses équipements de poursuite ultra-perfectionnés.",
+    "ja": "スカーミッシュ戦にもフリート支援にもまさにあつらえむきなカタリストは、対フリゲートの名機と評判が高い。この船のタレット追跡性能をまのあたりにすれば、たいていは同意せざるをえないだろう。",
+    "ko": "카탈리스트는 스커미시 교전 및 함대 지원에 특화된 함선으로 우월한 대프리깃전 능력을 보유하고 있습니다. 최첨단 추적 장비를 탑재하여 대다수의 소형 함급을 압도합니다.",
+    "ru": "Корабли этого типа идеально подходят для участия в маломасштабных боях и огневой поддержки сил флота; в рекламных проспектах эсминцы типа «Каталист» называют «одним из лучших средств для борьбы с фрегатами». Лично ознакомившись с высококлассными системами наводки его орудий, спорить с этим сложно.",
+    "zh": "促进级最适于小型冲突战和舰队支援，被誉为最佳的反护卫舰平台之一。没什么人能质疑其顶尖的跟踪装置。"
+  },
+  "factionID": 500004,
+  "graphicID": 2389,
+  "groupID": 420,
+  "marketGroupID": 467,
+  "mass": 1550000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      140,
+      67,
+      150,
+      89,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      140,
+      67,
+      150,
+      89,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      140,
+      67,
+      150,
+      89,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      140,
+      67,
+      150,
+      89,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      140,
+      67,
+      117,
+      150,
+      89,
+      94
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Catalyst",
     "en": "Catalyst",
@@ -9,6 +74,66 @@
     "ko": "카탈리스트",
     "ru": "Catalyst",
     "zh": "促进级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 143.0,
+  "sofFactionName": "gallentebase",
+  "soundID": 20074,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Bonus auf die optimale Reichweite von <a href=showinfo:3301>kleinen Hybridgeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:3301>Small Hybrid Turret</a> optimal range",
+          "es": "de bonificación al alcance óptimo de la <a href=showinfo:3301>torreta híbrida pequeña</a>.",
+          "fr": "de bonus à la portée optimale des <a href=showinfo:3301>petites tourelles hybrides</a>",
+          "ja": "<a href=showinfo:3301>小型ハイブリッドタレット</a>の最適射程距離にボーナス",
+          "ko": "<a href=showinfo:3301>소형 하이브리드 터렛</a> 최적사거리 증가",
+          "ru": "бонус к оптимальной дальности <a href=showinfo:3301>малых гибридных орудий</a>",
+          "zh": "<a href=showinfo:3301>小型混合炮台</a>最佳射程加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "33093": [
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die Nachführungsgeschwindigkeit von <a href=showinfo:3301>kleinen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3301>Small Hybrid Turret</a> tracking speed",
+            "es": "de bonificación a la velocidad de rastreo de la <a href=showinfo:3301>torreta híbrida pequeña</a>.",
+            "fr": "de bonus à la vitesse de poursuite des <a href=showinfo:3301>petites tourelles hybrides</a>",
+            "ja": "<a href=showinfo:3301>小型ハイブリッドタレット</a>の追跡速度にボーナス",
+            "ko": "<a href=showinfo:3301>소형 하이브리드 터렛</a> 트래킹 속도 증가",
+            "ru": "бонус к скорости наведения <a href=showinfo:3301>малых гибридных орудий</a>",
+            "zh": "<a href=showinfo:3301>小型混合炮台</a>跟踪速度加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf den Präzisionsabfall von <a href=showinfo:3301>kleinen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3301>Small Hybrid Turret</a> falloff",
+            "es": "de bonificación al alcance efectivo de la <a href=showinfo:3301>torreta híbrida pequeña</a>.",
+            "fr": "de bonus à la déperdition des <a href=showinfo:3301>petites tourelles hybrides</a>",
+            "ja": "<a href=showinfo:3301>小型ハイブリッドタレット</a>の精度低下範囲にボーナス",
+            "ko": "<a href=showinfo:3301>소형 하이브리드 터렛</a> 유효사거리 증가",
+            "ru": "бонус к остаточной дальности <a href=showinfo:3301>малых гибридных орудий</a>",
+            "zh": "<a href=showinfo:3301>小型混合炮台</a>失准范围加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 55000.0
 }

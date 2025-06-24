@@ -1,5 +1,18 @@
 {
-  "typeID": 30507,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese stehende Struktur ähnelt modernen Beschleunigungstoren in vielerlei Hinsicht. Überlieferungen nach verfügten die Talocan über solide Kenntnisse der astronautischen Ingenieurskunst. Auch dieses stationäre Tor brächte Erhellendes über das antike Volk zu Tage, könnte man es vollständig restaurieren. Nach Aeonen im All ist es völlig hinüber.",
+    "en": "This standing structure shares many similar aspects with modern acceleration gates. Whispers among Talocan lore-keepers tell of the Talocan's firm grasp of astronautical engineering. This gate may offer some insight into this ancient race's knowledge, if only it could be fully repaired. Eons in space have worn the static gate completely down.",
+    "es": "Esta estructura vertical comparte muchas similitudes con los portales de aceleración modernos. Los rumores entre los custodios de la sabiduría talocana sugieren un sólido conocimiento de ingeniería astronáutica por parte de los talocanos. Si pudiera ser completamente reparado, este portal podría arrojar cierta información sobre los conocimientos de esta antigua raza. La exposición al espacio durante eones ha desgastado completamente el portal estático.",
+    "fr": "Cette imposante structure partage de nombreux aspects avec les portails d'accélération modernes. Les gardiens du savoir talocan louent les connaissances des Talocan en matière d'ingénierie astronautique. Ils racontent même que ce portail serait un excellent aperçu des connaissances ancestrales de la race, si seulement il pouvait être entièrement réparé. Les siècles passés dans l'espace ont complètement détérioré le portail statique.",
+    "ja": "静かに浮かんでいるこの建造物は、現代のアクセラレーションゲートと多くの共通点を持っている。タロカンの言い伝えは、彼らが宇宙を航行する技術を極めていたことを示している。このゲートからはその頃の古代種族の知識が明らかになるかもしれない。宇宙空間に途方もなく長い間放置されたこのゲートは、微動だにせず、完全にその機能を失っている。",
+    "ko": "현대의 액셀레이션 게이트와 많은 유사점을 지닌 고대 게이트입니다. 탈로칸의 지식을 연구하는 자들은 탈로칸이 우주공학에 대한 완벽한 이해를 갖추고 있었다고 말합니다. 이 게이트를 완전하게 수리한다면 고대인의 기술에 대한 통찰이 가능할 것입니다. 오랜 시간 우주에 방치되어있었던 탓에 상당히 마모된 상태입니다.",
+    "ru": "Это сооружение во многом схоже с современными вратами ускорения. Экспертам по постройкам расы Talocan считают, что она обладала обширными знаниями в области разработки астронавигационных систем. Если бы врата удалось отремонтировать, то они могли бы рассказать нам много интересного. К сожалению, проведенная в космосе вечность не пошла им на пользу.",
+    "zh": "这座塔洛迦建筑物看上去和现在的加速轨道有几分神似。根据塔洛迦智者的传说，塔洛迦人对飞船科技了如指掌。这座门或许能提供给我们一些信息，来窥视这个古老种族的魅力，当然前提是它必须要被修好。岁月残酷地摧残着这做建筑，现在它已经完全失效了。"
+  },
+  "graphicID": 3572,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Worn Talocan Static Gate",
     "en": "Worn Talocan Static Gate",
@@ -10,5 +23,9 @@
     "ru": "Worn Talocan Static Gate",
     "zh": "损坏的塔洛迦静态通门"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 1500.0,
+  "sofFactionName": "talocanbase",
   "volume": 100000000.0
 }

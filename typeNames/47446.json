@@ -1,5 +1,17 @@
 {
-  "typeID": 47446,
+  "description": {
+    "de": "Dieses Drifter-Waffensystem scheint eine kompaktere Version der gebündelten Energiewaffen zu sein, die von Drifter-Schlachtschiffen genutzt werden. Es ist semi-autonom und freischwebend von dem Schiff, das es stationiert hat. Die Feuersignatur der Waffe deutet darauf hin, dass ein breites Spektrum an Störenergien gegen das Ziel eingesetzt wird.",
+    "en": "This Drifter weapon system appears to be a more compact version of directed energy weapons used by Drifter battleships. It is semi-autonomous and is floating freely from the vessel deploying it. The weapon's firing signature indicates a broad spectrum of disruptive energies are used against its targets.",
+    "es": "Este sistema armamentístico drifter parece una versión más compacta de las armas de energía dirigidas de los acorazados drifters. Es semiautónomo y flota libremente desde la nave que lo despliega. El análisis de la señal de disparo del arma indica un amplio espectro de energías perturbadoras contra sus objetivos.",
+    "fr": "Ce système d’armement Drifter semble être une version plus compacte des armes à énergie utilisées par les Cuirassés Drifter. Il est semi-autonome et dérive librement depuis le navire qui le déploie. La signature de tir de l'arme indique qu'un large spectre d'énergies perturbatrices est utilisé contre ses cibles.",
+    "ja": "このドリフターウェポンシステムは、ドリフター戦艦が使用した指向性エネルギー兵装を小型化したものらしい。艦船から射出されると、自由に浮遊してセミオートで機能する。射撃特性の分析の結果、ターゲットに対して高スペクトラムの妨害エネルギーを放出することが判明した。",
+    "ko": "드리프터 무기 체계로 드리프터 배틀쉽에 사용되는 에너지 무기를 간소화하였습니다. 반자율형 시스템이 탑재되어 공중에 무기를 전개할 수 있습니다. 적 대상을 향해 광범위한 에너지 공격을 가합니다.",
+    "ru": "Эта оружейная система Скитальцев представляет собой более компактную версию направленного энергетического оружия, используемого на их же линкорах. Полуавтономная система парит рядом с выпустившим её судном. Огневая сигнатура орудия указывает на широкий спектр разрушительной энергии, которая обрушивается на его цель.",
+    "zh": "这个流浪者武器系统似乎是流浪者战列舰使用的能量武器的精简版本。它是半自动发射，可以自由漂浮于发射它的舰船四周。该武器开火时能对目标产生频率宽广的扰断能量波。"
+  },
+  "graphicID": 22052,
+  "groupID": 53,
+  "iconID": 21409,
   "name": {
     "de": "Lux Xiphos",
     "en": "Lux Xiphos",
@@ -10,5 +22,8 @@
     "ru": "Lux Xiphos",
     "zh": "短剑之辉"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": true,
+  "raceID": 16,
+  "sofFactionName": "jovebase"
 }

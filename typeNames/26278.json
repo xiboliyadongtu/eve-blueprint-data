@@ -1,5 +1,17 @@
 {
-  "typeID": 26278,
+  "description": {
+    "de": "Dieser Zugangsschlüssel ermöglicht dem Inhaber das Betreten der inneren Räume dieses Komplexes.",
+    "en": "This passkey allows the bearer to enter the Inner Court of this complex.",
+    "es": "Esta clave de paso permite que el portador entre en el Tribunal Interno de este complejo.",
+    "fr": "Ce passe permet l'accès à la cour intérieure de ce complexe.",
+    "ja": "この複合施設の奥庭に入るためのマスターキー。",
+    "ko": "해당 출입키를 사용하면 구역 중앙으로 진입할 수 있습니다.",
+    "ru": "Этот пропуск позволяет владельцу пройти внутрь этого комплекса.",
+    "zh": "这张通行证允许持有者进入这个复合体的内庭。"
+  },
+  "groupID": 474,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Privileged Guest Pass",
     "en": "Privileged Guest Pass",
@@ -10,5 +22,7 @@
     "ru": "Privileged Guest Pass",
     "zh": "特殊访客通行证"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

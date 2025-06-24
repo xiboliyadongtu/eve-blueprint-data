@@ -1,5 +1,17 @@
 {
-  "typeID": 77195,
+  "description": {
+    "de": "Ein von Gallente entwickelter Übertragungsturm mit Systemreichweite, der Quantenfelder einsetzt. Der Broadcaster lädt sich sehr langsam auf, doch dann überstrahlt sein Signal beinahe jedes Empfangsgerät in Reichweite.",
+    "en": "A Gallente-designed system-range broadcast tower that uses quantum fields to transmit. The Broadcaster is slow to charge, but once ready its signal overpowers almost any receiving device within its range.",
+    "es": "Una torre de transmisión de alcance de sistema gallente que utiliza campos cuánticos para transmitir. El transmisor tarda en cargarse, pero una vez que está listo, su señal domina casi cualquier dispositivo receptor dentro de su alcance.",
+    "fr": "Une tour de transmission conçue par les Gallente, émettant à travers le système grâce à des champs quantiques. Le chargement du diffuseur prend un certain temps, mais une fois qu'il est prêt, son signal surpasse presque tous les dispositifs de réception à sa portée.",
+    "ja": "量子フィールドを利用したガレンテ製の星系規模向け情報発信タワー。この「ブロードキャスター」と呼ばれる装置はチャージに時間を要するが、使用可能になると有効範囲内のほぼすべての受信デバイスを圧倒する信号強度を発揮する。",
+    "ko": "갈란테에서 설계한 항성계 범위 신호기입니다. 양자 변환 활용해 신호를 전송합니다. 신호기는 느리게 충전되지만 일단 충전이 완료되면 유효 범위 내의 거의 모든 수신 장치의 다른 신호를 차단할 정도로 강력한 신호를 송출합니다.",
+    "ru": "Эта галлентская трансляционная башня передаёт сигналы с помощью квантовых полей. Транслятор заряжается медленно, однако при активации его сигнал перекрывает практически все прочие сигналы на принимающих устройствах в области действия.",
+    "zh": "一座盖伦特设计的星系范围广播塔，使用量子场进行传输。广播塔的充电速度很慢，但一旦准备就绪，其信号几乎可以覆盖范围内的所有接收设备。"
+  },
+  "graphicID": 2594,
+  "groupID": 4576,
+  "mass": 100000.0,
   "name": {
     "de": "Quantum-Override Broadcaster",
     "en": "Quantum-Override Broadcaster",
@@ -10,5 +22,9 @@
     "ru": "Quantum-Override Broadcaster",
     "zh": "量子超控广播器"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 3346.0,
+  "sofFactionName": "gallentebase",
   "volume": 100000000.0
 }

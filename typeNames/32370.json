@@ -1,5 +1,18 @@
 {
-  "typeID": 32370,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese Schiffswerft wurde vermutlich erst kürzlich hierher verlegt. Zur Zeit werden hier Bauteile für große Schiffe in leicht zugänglichen Bunkern gelagert, die aus der Station hervorragen.",
+    "en": "This shipyard was probably moved here recently. For now, parts for large vessels are stored in easily accessible silos jutting from the station's surface.",
+    "es": "Este astillero probablemente se trasladó aquí hace poco. Por ahora, las piezas de naves grandes se almacenan en depósitos fácilmente accesibles que sobresalen de la superficie de la estación.",
+    "fr": "Ce chantier naval a probablement été installé ici récemment. Pour l'instant, des parties de grands vaisseaux sont stockés dans des silos facilement accessibles, situés à la surface de la station.",
+    "ja": "この造船所は最近ここに移転してきたようだ。今のところ、大型艦のパーツがステーションの表面から突き出している貯蔵庫に収容されている。ここならアクセスが簡単だ。",
+    "ko": "비교적 최근에 설치된 것으로 추측됩니다. 사일로에는 함선 제작에 사용되는 각종 부품이 가지런히 보관되어 있습니다.",
+    "ru": "Похоже, эту верфь сюда переместили недавно. Пока что части крупных кораблей хранятся в бункерах, рассеянных по поверхности станции, и к которым легко проникнуть.",
+    "zh": "这座船坞可能是最近才被移到这里的。在这里，大型舰船的零部件被分门别类储藏在不同的仓库里，这些仓库突出到空间站外面，能够在需要使用的时候更容易取得。"
+  },
+  "graphicID": 2625,
+  "groupID": 306,
+  "mass": 100000.0,
   "name": {
     "de": "Assembly Station DC105-A",
     "en": "Assembly Station DC105-A",
@@ -10,5 +23,10 @@
     "ru": "Assembly Station DC105-A",
     "zh": "装配站DC105-A"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 1913.0,
+  "sofFactionName": "genericbase",
   "volume": 100000000.0
 }

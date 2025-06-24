@@ -1,5 +1,18 @@
 {
-  "typeID": 76257,
+  "capacity": 265.0,
+  "description": {
+    "de": "Dieses feindliche Schiff sendet kein IFF-Signal. Wurde es von einem der vier Imperien angeheuert, damit dieses sein Mitwirken glaubhaft dementieren kann? Gehört es Dritten, die Interesse an der Schiffswerfer-Technologie haben? Seine Zugehörigkeit zu einer Organisation und seine Gründe für die Beteiligung an dem Konflikt sind unklar.",
+    "en": "This hostile vessel is not broadcasting an IFF signal.\r\n\r\nHas it been hired by one of the four empires to operate with plausible deniability? Does it represent a third party with interest in the Shipcaster technology?\r\n\r\nIts organizational affiliation and reasons for involving itself in the conflict are unclear.",
+    "es": "Esta nave hostil no está transmitiendo ninguna señal de identificación amigo/enemigo.\n\n¿La ha contratado alguno de los cuatro imperios para no mancharse las manos? ¿Representa a un tercer bando con interés en la tecnología de los lanzadores interestelares?\n\nSu afiliación y las razones para involucrarse en el conflicto no están claras.",
+    "fr": "Ce vaisseau hostile n'émet aucun signal IFF. A-t-il été engagé par l'un des quatre empires pour agir sans les compromettre ? Représente-t-il un intervenant externe qui s'intéresse à la technologie des lance-vaisseaux ? Son affiliation organisationnelle et les raisons de son implication dans le conflit ne sont pas claires.",
+    "ja": "この敵艦は識別信号を出していない。\n\nもっともらしい反証を備えて行動しているが、実際には4つの国家の1つに雇われているのか？ 艦艇キャスターに関心を抱いている第三者のために動いているのか？\n\nどちらにせよ、所属組織もこの紛争に関わってきている理由も定かではない。",
+    "ko": "적대적인 함선으로 IFF 신호를 발송하지 않습니다.<br><br>혹시 4대 국가 중 한 곳에 고용된 후 버려진 것일까요? 아니면 함선전송기 기술을 노리는 제3의 세력이 파견한 걸까요?<br><br>이 함선이 어떤 세력과 얽혀 있는지, 무슨 목적으로 분쟁에 뛰어든 것인지는 알 수 없습니다.",
+    "ru": "Это вражеское судно не передаёт сигнал опознавания «свой-чужой». Может быть, его команда была нанята одной из держав и действует по принципу правдоподобного отрицания? Или же оно представляет третью сторону, которая тоже заинтересована в технологии кораблепускателей? Как бы то ни было, его принадлежность и причины участия в конфликте остаются неясными.",
+    "zh": "这艘敌舰没有广播敌我识别信号。它是否暗中受雇于四大帝国之一，以便在发生意外时合理推卸责任？它是否代表着对舰船弹射台科技感兴趣的第三方？尚不清楚它的组织隶属关系，以及它卷入冲突的原因。"
+  },
+  "graphicID": 1848,
+  "groupID": 1568,
+  "mass": 1065000.0,
   "name": {
     "de": "Mercenary Crow",
     "en": "Mercenary Crow",
@@ -10,5 +23,11 @@
     "ru": "Mercenary Crow",
     "zh": "雇佣军黑鸦级"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 33.0,
+  "sofFactionName": "kaalakiota",
+  "soundID": 20070,
   "volume": 26500.0
 }

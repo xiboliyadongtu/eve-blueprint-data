@@ -1,5 +1,16 @@
 {
-  "typeID": 73439,
+  "description": {
+    "de": "Mit seinem roten Blinklicht scheint dieses Signalfeuer einen besonders wichtigen Ort oder den Wegpunkt für einen anderen, größeren Pfad zu markieren.",
+    "en": "With it's blinking red light, this beacon appears to be marking a point of interest, or perhaps a waypoint in a greater trail. ( copy )",
+    "es": "La luz roja intermitente de esta baliza parece marcar un punto de interés, o tal vez un punto de ruta de un camino importante.",
+    "fr": "Grâce à sa lumière rouge clignotante, cette balise semble signaler un point d'intérêt particulier ou, peut-être, une étape d'une piste plus importante.",
+    "ja": "赤いライトが点滅しているため、何か特別な地点であることを示しているのだろう。または、重要な航路を示すウェイポイントかもしれない。（コピー）",
+    "ko": "붉게 점멸하는 비컨은 중요 지점을 표시하거나 다음 장소를 가리키는 일종의 이정표 역할을 하고 있습니다. (복제)",
+    "ru": "Этот мигающий красный маяк может обозначать интересное место или точку на пути.",
+    "zh": "这个信标闪烁着红色的光，似乎标示着一个有趣的地点，也可能是某条大航线的一个航标。"
+  },
+  "graphicID": 1211,
+  "groupID": 226,
   "name": {
     "de": "TEST Beacon (Capture Point)",
     "en": "TEST Beacon (Capture Point)",
@@ -10,5 +21,8 @@
     "ru": "TEST Beacon (Capture Point)",
     "zh": "测试信标"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 6.0,
+  "sofFactionName": "genericbase"
 }

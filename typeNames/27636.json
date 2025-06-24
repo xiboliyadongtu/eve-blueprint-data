@@ -1,5 +1,21 @@
 {
-  "typeID": 27636,
+  "basePrice": 400000.0,
+  "capacity": 6.0,
+  "description": {
+    "de": "Feuert einen Puls-Energiestrahl mit mittelgroßen Frequenzkristallen auf diejenigen, die der Kontrollturm als feindlich erachtet. Nur wirkungsvoll auf relativ kurze Entfernung. Besitzt jedoch eine sehr hohe Nachführgeschwindigkeit und hat eine bessere Feuergeschwindigkeit als jede andere Laserbatterie. Hinweis: Ein Wechsel des Frequenzkristalls führt zur Zerstörung des bisher verwendeten.",
+    "en": "Fires a pulsed energy beam using medium sized frequency crystals at those the Control Tower deems its enemies. Effective only at relatively short range, but tracks very fast and has a higher rate of fire than any other laser battery. Note: Placing a new type of crystal into the crystal compartment will result in the destruction of the crystal being replaced.",
+    "es": "Dispara un rayo de energía pulsada con cristales de frecuencia medianos a cualquier objetivo que la torre de control considere una amenaza. Solo funciona a relativamente poca distancia, pero tiene una buena velocidad de rastreo y la cadencia de tiro supera a la de cualquier otra batería láser. Aviso: Si colocas otro tipo de cristal en el compartimento para cristales, se destruirá el anterior.",
+    "fr": "Tire un rayon d'énergie à impulsions en utilisant des cristaux de fréquence de taille moyenne sur tous ceux que la tour de contrôle juge hostiles. Arme efficace uniquement à courte portée, suivi très rapide et cadence de tir supérieure à celle de toute autre batterie de lasers. Remarque : placer un nouveau type de cristal dans le compartiment de cristal entraîne la destruction du cristal remplacé.",
+    "ja": "コントロールタワーが敵と認識した物体に対して、中型フリーケンシークリスタルを使ったパルスエネルギービームを発射する。有効射程は比較的短いが、標的追従が非常に速く、他のレーザーバッテリーに比べて連射速度に優れている。注：装填中のクリスタルと種類が異なるクリスタルを装填すると、現在装填中のクリスタルは破壊される。",
+    "ko": "관제타워가 지정한 적을 향해 중형 프리퀀시 크리스탈로 변조된 펄스 빔을 발사하는 포탑입니다. 비교적 짧은 유효사거리를 지니고 있지만 빠른 타겟팅 속도와 레이저 포대 중 최고의 연사속도를 보유하고 있습니다. 참고: 새로운 프리퀸시 크리스탈 장착 시 기존에 장착되어 있던 크리스탈은 파괴됩니다.",
+    "ru": "Испускает импульсый энергетический луч, частота которого стабилизируется средней мощности кварцевыми кристаллами, по объектам, распознаваемым как неприятель. Эффективна на относительно малых дистанциях, но характеризуется очень высокой скоростью слежения и более высокой скорострельностью, чем любые другие лазерные батареи. Примечание: если поместить в отделение для кристаллов кристалл другого типа, заменяемый кристалл уничтожается.",
+    "zh": "向控制塔指定的敌人发射由中型频率晶体产生的脉冲能量光束。只在相对较近的范围内有效，但跟踪速度非常快，发射速度比其他任何激光炮台都要快。注意：在晶体弹仓中填入不同种类的晶体会导致被替换的晶体损毁。"
+  },
+  "graphicID": 1006,
+  "groupID": 430,
+  "marketGroupID": 596,
+  "mass": 100000000.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Dark Blood Small Pulse Laser Battery",
     "en": "Dark Blood Small Pulse Laser Battery",
@@ -10,5 +26,11 @@
     "ru": "Dark Blood Small Pulse Laser Battery",
     "zh": "黑暗血袭者小型脉冲激光炮台"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 400.0,
+  "sofFactionName": "amarrbase",
+  "variationParentTypeID": 17408,
   "volume": 500.0
 }

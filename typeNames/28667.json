@@ -1,5 +1,18 @@
 {
-  "typeID": 28667,
+  "basePrice": 65000000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Maraudern.",
+    "en": "Skill for the operation of Marauders.",
+    "es": "Habilidad en el manejo de depredadores.",
+    "fr": "Compétence permettant de piloter des Maraudeurs.",
+    "ja": "襲撃型戦艦を操作するスキル。",
+    "ko": "머라우더를 운용하기 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на рейдерах.",
+    "zh": "操作掠夺舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Marauders",
     "en": "Marauders",
@@ -10,5 +23,7 @@
     "ru": "Рейдеры",
     "zh": "掠夺舰操作"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

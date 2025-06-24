@@ -1,5 +1,18 @@
 {
-  "typeID": 21683,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Ein Stasis-Sicherheitstresor der Guristas. Nahezu unzerstörbar, aber vielleicht kann man den Sicherheitsmechanismus umgehen.",
+    "en": "A Guristas security vault. Nearly impossible to destroy but perhaps it is possible to bypass its security",
+    "es": "Aunque esta cámara de seguridad en estasis de los Guristas resulta casi indestructible, quizá sea posible burlar las medidas de seguridad.",
+    "fr": "Coffre de sécurité guristas. Il est presque impossible à détruire, mais il est peut-être possible d'en court-circuiter la sécurité.",
+    "ja": "ガリスタスの金庫室。破壊することはほぼ不可能だが、セキュリティを迂回することはできるかもしれない。",
+    "ko": "구리스타스 보안 금고 파괴는 불가능하지만 보안 시스템을 우회하여 진입할 수는 있습니다.",
+    "ru": "Защищенное хранилище Guristas. Его почти невозможно разрушить, но, вероятно, реально миновать его защиту.",
+    "zh": "一座古斯塔斯的安全保险库。几乎无法破坏，但也许可以绕过它的安全系统。"
+  },
+  "graphicID": 2470,
+  "groupID": 1207,
+  "mass": 10000.0,
   "name": {
     "de": "Basic Guristas Vault",
     "en": "Basic Guristas Vault",
@@ -10,5 +23,9 @@
     "ru": "Basic Guristas Vault",
     "zh": "古斯塔斯基础保险库"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 320.0,
+  "sofFactionName": "guristas",
   "volume": 27500.0
 }

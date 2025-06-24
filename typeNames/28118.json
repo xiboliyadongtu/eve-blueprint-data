@@ -1,5 +1,18 @@
 {
-  "typeID": 28118,
+  "basePrice": 701515024.0,
+  "description": {
+    "de": "Ein mittleres Upgrade für das Forschungspotential von Gallente-Außenposten. Reduziert die Kosten von Materialeffizienz-, Zeiteffizienz-, Kopier- und Erfindungsaufträgen (summiert sich mit allen anderen Verbesserungen des selben Typs) und reduziert die Forschungszeit bei allen Kopieraufträgen um 40%.",
+    "en": "An intermediate upgrade to Gallente Outpost research capabilities. Gives an additional 10% cost reduction to Material Efficiency, Time Efficiency, Copy, Invention jobs (stacks with all other improvements of the same type) and increases the research time reduction on all Copying research to 40%.",
+    "es": "Mejora intermedia de las capacidades de investigación en puestos avanzados gallentes. Genera una reducción adicional del 10 % del coste de los trabajos de copia e invención, eficiencia de materiales y eficiencia temporal (acumulable con todas las demás mejoras del mismo tipo) y una reducción del 40 % del tiempo de investigación en todas las investigaciones de copia.",
+    "fr": "Amélioration intermédiaire permettant d'augmenter les capacités de recherche d'un avant-poste gallente. Réduit de 10 % supplémentaires l'efficacité matérielle, l'efficacité de temps, la copie de tous les travaux d'invention (s'accumule avec toutes les autres améliorations de même type) et réduit de 40 % le temps de recherche de toutes les copies.",
+    "ja": "ガレンテアウトポストの研究能力を高めるやや高度なアップグレード。生産効率、時間効率、コピー、発明ジョブのコストをさらに10%削減（すでに削減されている場合も追加で利用可能）し、すべてのコピーに要する研究時間を40%短縮する。",
+    "ko": "갈란테 전초기지 연구능력을 개선하기 위한 중급 업그레이드입니다. 자원효율성 연구, 시간효율성 연구, 복제, 인벤션 작업에 소요되는 비용이 10% 감소(동일한 효과와 중첩 가능)하며 모든 복제 연구에 소요되는 시간이 40% 감소합니다.",
+    "ru": "Промежуточный модуль расширения научно-исследовательских возможностей галлентского форпоста. Ещё на 10% снижает стоимость проектов по копированию чертежей, модернизации, повышению скорости производства и материалоэффективности производства (эффект кумулятивен с прочими того же типа); кроме того, экономия времени, расходуемого на проекты по копированию чертежей — 40%.",
+    "zh": "针对盖伦特哨站研究能力的中级升级方案。材料效率研究、时间效率研究、拷贝和发明项目费用额外降低10%（可与同类效果叠加），所有拷贝研究时间减少40%。"
+  },
+  "graphicID": 3306,
+  "groupID": 872,
+  "iconID": 3303,
   "name": {
     "de": "Gallente Outpost Laboratory",
     "en": "Gallente Outpost Laboratory",
@@ -10,5 +23,10 @@
     "ru": "Gallente Outpost Laboratory",
     "zh": "盖伦特哨站实验室"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 19079.0,
+  "sofFactionName": "gallentebase",
   "volume": 1.0
 }

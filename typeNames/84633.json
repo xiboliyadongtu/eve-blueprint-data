@@ -1,5 +1,18 @@
 {
-  "typeID": 84633,
+  "capacity": 235.0,
+  "description": {
+    "de": "Ein Xiphos-Sleeper, vergleichbar mit einem Zerstörer. Er demonstriert Neutralisierungsfähigkeiten. Die Verteidigungsprotokolle des uralten Roboter-Beschützers eines untergegangenen Volkes wurden mit Parametern für einen Belagerungskrieg überschrieben.",
+    "en": "A Xiphos sleeper, equivalent to a destroyer class ship. It demonstrates neutralizer capabilities.\r\n\r\nOnce the ancient robotic protector of a lost people, its guardian protocols have been overwritten with siege warfare parameters.",
+    "es": "Una Xiphos sleeper, equivalente a una nave de clase destructor. Demuestra capacidades de neutralizador.\r\n\r\nAntiguamente era un protector robótico de un pueblo perdido; sus protocolos de protección se han sobrescrito con parámetros de guerra de asedio.",
+    "fr": "Un Xiphos sleeper, équivalent à un vaisseau de classe destroyer. Il présente des capacités de neutralisation. Autrefois protecteur robotique d'un peuple disparu, ses protocoles de gardien ont été remplacés par des paramètres de guerre de siège.",
+    "ja": "駆逐艦級の同等艦にあたるジーフォス型スリーパー。ニュートラライザーを使用できることが確認されている。\r\n\r\nもともとは滅びた古代人が使用していた防衛用ロボットだったが、当時の護衛プロトコロルは包囲戦闘用パラメーターで上書きされてしまっている。",
+    "ko": "디스트로이어급 함선과 동급인 사이포스 슬리퍼입니다. 뉴트럴라이저 운용 능력을 보유했습니다.<br><br>지금은 사라진 민족을 수호했던 고대 로봇으로, 탑재된 방어 프로토콜이 공성 프로토콜로 전환되었습니다.",
+    "ru": "Этот корабль Спящих модели Xiphos является аналогом эсминца и оснащён оборудованием по нейтрализации заряда. Давным-давно этот робот защищал забытый народ, однако позднее его перепрограммировали для ведения осадной войны.",
+    "zh": "一架西佛斯级冬眠者，相当于一艘驱逐舰级舰船。具备中和器的能力。它曾是某个古老失落民族的守护机器人，不过现在它的守护协议已经被会战参数所覆盖。"
+  },
+  "graphicID": 3527,
+  "groupID": 1664,
+  "mass": 1700000.0,
   "name": {
     "de": "Enervating Xiphos",
     "en": "Enervating Xiphos",
@@ -10,5 +23,11 @@
     "ru": "Enervating Xiphos",
     "zh": "西佛斯级萎靡者"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 150.0,
+  "sofFactionName": "sleeperbase",
+  "soundID": 12,
   "volume": 28600.0
 }

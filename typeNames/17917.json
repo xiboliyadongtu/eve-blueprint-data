@@ -1,5 +1,18 @@
 {
-  "typeID": 17917,
+  "capacity": 220.0,
+  "description": {
+    "de": "Bedrohungsstufe: Mäßig",
+    "en": "Threat level: Moderate",
+    "es": "Nivel de amenaza: moderado.",
+    "fr": "Niveau de menace : moyen",
+    "ja": "危険度:普通",
+    "ko": "위험도: 보통",
+    "ru": "Уровень опасности: умеренный",
+    "zh": "威胁等级：中等"
+  },
+  "graphicID": 345,
+  "groupID": 818,
+  "mass": 1740000.0,
   "name": {
     "de": "Rogue Pirate Grunt",
     "en": "Rogue Pirate Grunt",
@@ -10,5 +23,10 @@
     "ru": "Rogue Pirate Grunt",
     "zh": "自由海盗 步兵"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 36.0,
+  "sofFactionName": "angelbase",
   "volume": 17400.0
 }

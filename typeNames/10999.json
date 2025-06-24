@@ -1,5 +1,18 @@
 {
-  "typeID": 10999,
+  "capacity": 150.0,
+  "description": {
+    "de": "Schiffstyp: Die CONDOR ist schnell und wendig. Sie hat einen sehr begrenzten Frachtraum und ist nicht besonders gut für Handel oder Bergbau geeignet. Sie wird am besten als Angriffsfregatte in Hit-And-Run Einsätzen verwendet.\r\n\r\nBesondere Fähigkeit:\r\n5% Bonus auf die Schildkapazität je Skillstufe\r\n5% Bonus auf die Reichweite von Hybridwaffen je Skillstufe",
+    "en": "Entity: The Condor is fast and agile. It has limited cargo space so it's not very suitable for trading or mining. It is best used as an assault vessel in a hit-and-run type of operations. Special Ability: 5% bonus to shield capacity and hybrid turret range per skill level.",
+    "es": "Entidad: La Condor es rápida y ágil. Tiene un espacio de carga limitado, así que no es muy apta para el comercio o la minería. Resulta más útil como nave de asalto en operaciones relámpago. Capacidad especial: 5 % de bonificación a la capacidad de los escudos y el alcance de las torretas híbridas por nivel de habilidad.",
+    "fr": "Entité : Le Condor est rapide et maniable. Sa soute étant réduite, il ne convient pas à qui voudrait faire du commerce ou de l'extraction minière. Il est préférable de l'utiliser comme vaisseau d'attaque ou lors de raids éclair. Aptitude particulière : augmente de 5 % par niveau de compétence la capacité du bouclier et la portée des tourelles hybrides.",
+    "ja": "エンティティ:コンドールは高速で敏捷だ。カーゴスペースが小さいため、交易や採掘には向かない。奇襲作戦の強襲型艦船として理想的である。特殊能力:スキルレベルごとにシールドキャパシティとハイブリッドタレットの射程が5%延長。",
+    "ko": "함선: 콘도르는 뛰어난 기동력을 보유한 함선입니다. 제한된 적재 공간으로 인해 무역 및 채굴에는 적합하지 않지만, 어썰트 함선의 특성을 지니고 있으며 유격전에서 탁월한 성능을 자랑합니다. 특수 능력: 실드량 및 하이브리드 터렛 사거리 매 레벨마다 5% 증가",
+    "ru": "Описание: Condor быстр и маневренен. Из-за ограниченного объема грузового отсека он не слишком подходит для торговли или добычи. Этот фрегат наиболее эффективен в роли ударного корабля для молниеносных налётов. Классовый бонус: 5%-ное увеличение емкости щита и дальности турелей гибридного действия на уровень навыка.",
+    "zh": "“秃鹫”轻巧敏捷，速度很快。它的货舱空间有限，所以不适合贸易或者开采矿石。它的最佳用途是执行闪电式任务的突击舰。\r\n\r\n特殊能力：每提升一级相应技能，护盾容量和混合炮台射程增加5%。"
+  },
+  "graphicID": 39,
+  "groupID": 298,
+  "mass": 1800000.0,
   "name": {
     "de": "Convoy Escort",
     "en": "Convoy Escort",
@@ -10,5 +23,10 @@
     "ru": "Convoy Escort",
     "zh": "卫队护卫舰"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 33.0,
+  "sofFactionName": "caldaribase",
   "volume": 18000.0
 }

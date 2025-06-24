@@ -1,5 +1,17 @@
 {
-  "typeID": 364531,
+  "basePrice": 66000.0,
+  "description": {
+    "de": "Grundlegende Kenntnisse von Sprengsätzen.\n\n3% Abzug auf die CPU-Auslastung pro Skillstufe.",
+    "en": "Basic knowledge of explosives.\n\n3% reduction to CPU usage per level.",
+    "es": "Conocimiento básico de explosivos.\n\n-3% al coste de CPU por nivel.",
+    "fr": "Notions de base en explosifs.\n\n3 % de réduction d'utilisation de CPU par niveau.",
+    "it": "Conoscenza fondamenti degli esplosivi.\n\n3% di riduzione dell'utilizzo della CPU per livello.",
+    "ja": "爆弾の基本知識。\n\nレベル上昇ごとに、CPU使用量が3%減少する。",
+    "ko": "폭발물에 대한 기본 지식입니다. <br><br>매 레벨마다 CPU 요구치 3% 감소",
+    "ru": "Базовые знания в области взрывчатки.\n\n3% снижение потребления ресурсов ЦПУ на каждый уровень.",
+    "zh": "爆炸物基本知识。每升一级，CPU使用率降低3%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Sprengsätze",
     "en": "Explosives",
@@ -11,5 +23,6 @@
     "ru": "Взрывчатка",
     "zh": "爆炸物"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

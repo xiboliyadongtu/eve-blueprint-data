@@ -1,5 +1,19 @@
 {
-  "typeID": 42838,
+  "basePrice": 1000.0,
+  "description": {
+    "de": "Dieses kompakte Bündel aktiver Naniten kann in ein <a href=showinfo:42530>Gefechtkommandostrahlen</a>-Modul geladen und an verbündete Schiffe verteilt werden, um ihren Signaturradius zu verringern und ihre Beweglichkeit zu erhöhen, um sie für gegnerische Waffen schwerer erfassbar zu machen.",
+    "en": "This compact bundle of active nanites can be loaded into a <a href=showinfo:42530>Skirmish Command Burst</a> module and dispersed across allied ships to reduce their effective signature radius and improve their agility, making them harder for enemy weapons to hit.",
+    "es": "Este lote compacto de nanobots activos puede cargarse en un módulo de <a href=showinfo:42530>estallido de mando de escaramuza</a> y dispersarse por naves aliadas para reducir su radio de señal efectivo y mejorar su agilidad, lo que las convierte en blancos más difíciles para las armas enemigas.",
+    "fr": "Cette masse dense de nanites actives, chargée dans les <a href=showinfo:42530>salves de commandement tactique</a>, est propulsée vers les vaisseaux alliés pour réduire leur rayon de signature et améliorer leur agilité.",
+    "ja": "この活性ナノマシンの小さな塊を<a href=showinfo:42530>機動戦コマンドバースト</a>に装填して味方艦へ拡散すれば、有効シグネチャ半径が縮小し、起動性が上昇し、敵の攻撃が命中しにくくなる。",
+    "ko": "<a href=showinfo:42530>스커미시 버스트</a> 모듈에 장착 가능한 나나이트 차지입니다. 동맹 함선의 최적 시그니처 반경을 감소시키고 기동성을 향상시켜 적이 명중률을 낮춥니다.",
+    "ru": "Этот компактный пакет активных нанитов может быть заряжен в <a href=showinfo:42530>импульсный оптимизатор маневрирования (Skirmish Command Burst)</a> и с её помощью распределён по союзным кораблям, обеспечивая снижение размера их сигнатуры, что затрудняет попадание по ним.",
+    "zh": "这种紧凑的纳米机器人集群可以装载到<a href=showinfo:42530>游击战指挥脉冲波</a>装备中，并散布到友方舰船全身，降低其有效信号半径，提高其灵活性，使敌人更难以击中它。"
+  },
+  "groupID": 1772,
+  "iconID": 21705,
+  "marketGroupID": 2302,
+  "mass": 0.01,
   "name": {
     "de": "Evasive Maneuvers Charge",
     "en": "Evasive Maneuvers Charge",
@@ -10,5 +24,7 @@
     "ru": "Evasive Maneuvers Charge",
     "zh": "机动规避弹药"
   },
+  "portionSize": 500,
+  "published": true,
   "volume": 0.01
 }

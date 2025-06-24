@@ -1,5 +1,21 @@
 {
-  "typeID": 37290,
+  "capacity": 1.0,
+  "description": {
+    "de": "Drei spezielle, extrem schwenkbare Geschütztürme, die mit Vierfachgeschützrohren bestückt sind, sind gegen Bedrohungen durch Sub-Capital-Schiffe vorgesehen.\n\nHinweis: Kann nur in Schiffe der Capital-Klasse eingebaut werden.\n\n\n\nBenötigt folgende Frequenzkristall-Typen als Munition: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",
+    "en": "Three specialized high angle turrets fitted with quad-barreled weapons are designed for engaging sub-capital threats.\r\nNote: May only be fitted to capital class ships.\r\n\r\nRequires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",
+    "es": "Tres torretas especializadas de gran ángulo de tiro equipadas con armas de cuatro cañones diseñadas para enfrentarse a amenazas subcapitales.\n\nAviso: Solo se puede equipar en naves capitales.\n\n\n\nRequiere tipos de munición de cristales de frecuencia: gamma, infrarrojos, microondas, multifrecuencia, radio, estándar, ultravioleta, rayos X.",
+    "fr": "Les trois tourelles de tir incliné sont équipées de quadruple canons chargés de traquer et d'éliminer les menaces sous-capitales.\n\nRemarque : réservé aux vaisseaux de classe capital.\n\n\n\nMunitions : cristaux de fréquence gamma, infrarouge, micro-onde, multifréquence, radio, standard, ultraviolet, rayon X.",
+    "ja": "クワッドバレル兵器が装備された3基の特化型高角タレットは、母艦級よりも小さい艦船との交戦が想定されている。注： 母艦級の艦船にのみ装着可能。装填可能なフリーケンシークリスタルのタイプ： ガンマ、赤外線、マイクロ波、多周波、放射線、標準、紫外線、エックス線。",
+    "ko": "세 대의 고각 터렛에 각각 사중 포신이 장착되어 캐피탈 함선급 이하의 적을 상대하는데 최적화된 무기입니다. <br><br>참고: 캐피탈급 함선에만 장착이 가능합니다. <br><br>사용 가능한 프리퀀시 크리스탈: 감마선, 적외선, 마이크로파, 멀티프리퀀시, 라디오파, 스탠다드, 자외선, 엑스선.",
+    "ru": "Три специализированных орудия с большим углом подъёма, оснащённые четырёхзарядными орудийными установками, разработаны для отражения атак кораблей стандартного тоннажа.\n\nВнимание! Этим модулем могут оснащаться исключительно корабли большого тоннажа.\n\n\n\nПри работе лазера используются частотные кристаллы следующих типов: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",
+    "zh": "专业化高角度炮台装配三门四管武器，被设计用来应对非旗舰级别舰船的威胁。\n\n注：只能用于旗舰级舰船。\n\n\n\n使用的频率晶体弹药类型：伽玛、红外线、微波、多频、射频、标准、紫外线和X射线。"
+  },
+  "graphicID": 21199,
+  "groupID": 53,
+  "iconID": 2841,
+  "marketGroupID": 774,
+  "mass": 40000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Quad Mega Pulse Laser I",
     "en": "Quad Mega Pulse Laser I",
@@ -10,5 +26,8 @@
     "ru": "Quad Mega Pulse Laser I",
     "zh": "四联超级脉冲激光器 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "amarrbase",
   "volume": 4000.0
 }

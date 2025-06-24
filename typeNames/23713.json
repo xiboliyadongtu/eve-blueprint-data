@@ -1,5 +1,19 @@
 {
-  "typeID": 23713,
+  "basePrice": 18000.0,
+  "description": {
+    "de": "Mittlere Drohne zur Sensordämpfung",
+    "en": "Medium Sensor Dampener Drone",
+    "es": "Dron atenuador de sensor mediano",
+    "fr": "Drone atténuateur de détection intermédiaire.",
+    "ja": "中型センサー無力化ドローン",
+    "ko": "미디움 센서 교란 드론",
+    "ru": "Средний дрон подавления сенсорных систем",
+    "zh": "中型感应抑阻无人机"
+  },
+  "graphicID": 2774,
+  "groupID": 639,
+  "marketGroupID": 841,
+  "mass": 3000.0,
   "name": {
     "de": "Hammerhead SD-600",
     "en": "Hammerhead SD-600",
@@ -10,5 +24,10 @@
     "ru": "Hammerhead SD-600",
     "zh": "战锤SD-600"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 15.0,
+  "sofFactionName": "gallentebase",
   "volume": 10.0
 }

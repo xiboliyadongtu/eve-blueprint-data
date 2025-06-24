@@ -1,5 +1,18 @@
 {
-  "typeID": 41567,
+  "description": {
+    "de": "Dieser Frachtcontainer enthält die ausgeworfenen Inhalte eines Hangars. Obwohl er haltbarer ist als andere Container wird er innerhalb von ein paar Tagen verglühen falls er nicht aufgesammelt wird.",
+    "en": "This cargo container holds the ejected contents of a hangar. While it is more durable than other containers it will burn up within a few days if not collected.",
+    "es": "Dentro de este contenedor de carga está el contenido eyectado de un hangar. Aunque es más resistente que otros contenedores, se quemará en unos días si no se recoge.",
+    "fr": "Ce conteneur de fret renferme des biens éjectés d'une soute de vaisseau. Bien qu'il soit plus durable que d'autres conteneurs, il se désintègrera au bout de quelques jours s'il n'est pas récupéré dans l'espace.",
+    "ja": "このカーゴコンテナにはハンガーから射出された物資が積載されている。他のコンテナよりは耐久性があるものの、回収しなければ数日のうちに燃え尽きてしまう。",
+    "ko": "격납고 물품을 담고있는 화물 컨테이너입니다. 비교적 우수한 내구성을 지녔으나 몇일 내로 수거하지 않는다면 타버리고 말 것입니다.",
+    "ru": "Внутри этого грузового контейнера находится содержимое ангара.  Он и прочнее других контейнеров, но уничтожится путём самовозгорания через несколько дней, если его никто не подберёт.",
+    "zh": "这个货柜集装箱里装着机库弹射出来的物品。比其它集装箱更持久，如果没人拾取物品，它会在几天后才消失。"
+  },
+  "graphicID": 1176,
+  "groupID": 12,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Hangar Container",
     "en": "Hangar Container",
@@ -10,5 +23,9 @@
     "ru": "Hangar Container",
     "zh": "机库货柜"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericmetal",
   "volume": 27500.0
 }

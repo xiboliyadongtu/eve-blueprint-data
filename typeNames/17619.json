@@ -1,5 +1,70 @@
 {
-  "typeID": 17619,
+  "basePrice": 2100000.0,
+  "capacity": 140.0,
+  "description": {
+    "de": "Die Hookbill hatte lange damit zu kämpfen, dass sie das hässliche Entlein der Schiffe der Caldari war, aber nach der Aufrüstung von einem Routinepatrouillenschiff zur Standardfregatte der Flotte, begann für das Schiff eine neue Ära. Mit den Verbesserungen, die durch die Aufrüstung erfolgten, ist es jetzt an der Zeit für diesen kleinen Schläger, sich auf den Schlachtfeldern im Hoheitsgebiet der Caldari und darüber hinaus zu bewähren.",
+    "en": "Long struggling with a reputation for being the ugly duckling of the Caldari ship repertoire, the Hookbill recently got a new lease on life, being upgraded from a routine patrol vessel into a fleet-standard frigate. With the advancements brought on by the upgrade, the time is nigh for this little slugger to prove itself on battlefields throughout Caldari space and beyond.",
+    "es": "Tras luchar durante mucho tiempo con la reputación de ser el patito feo de la flota caldari, la Hookbill recibió hace poco una nueva oportunidad y pasó de ser una nave patrullera rutinaria a una fragata estándar de la flota. Gracias a esta mejora, se acerca el momento en que el que esta pequeña nave pueda demostrar su valía en los campos de batalla de todo el espacio de Caldari y más allá.",
+    "fr": "Luttant depuis longtemps contre sa réputation de vilain petit canard de la gamme des vaisseaux caldari, le Hookbill s'est récemment vu donner un nouveau souffle, en étant élevé du statut de simple vaisseau de patrouille à celui de frégate standard de la flotte. Avec les améliorations apportées par cette évolution, le temps est venu pour ce petit cogneur de faire ses preuves sur les champs de bataille de l'espace caldari et au-delà.",
+    "ja": "カルダリ艦船の醜いアヒルの子として長く低迷してきたフックビルだが、最近、ありきたりなパトロール船からフリート標準のフリゲートへとアップグレードされ、一気に脚光を浴びるようになった。改良による機能強化を武器に、戦場の小さな強打者としてその名をカルダリ宙域の内外にとどろかせる日も近いだろう。",
+    "ko": "칼다리 함선 라인업의 미운 오리 새끼였던 존재로 최근 재설계를 통해 새로운 존재로 탈바꿈 되었습니다. 과거 순찰선으로 사용되었던 후크빌은 재설계를 통해 함대 전용 프리깃으로 재탄생했으며, 이제는 전장에서의 그 가치를 증명할 때입니다.",
+    "ru": "«Хукбил» долго страдал от репутации «гадкого утенка» в калдарском флоте, но недавно был модернизирован и переделан из патрульного корабля в стандартный военный фрегат. Теперь «Хукбил» на гребне волны, и в сражениях, бушующих в калдарском пространстве, равно как и за его пределами, этот маленький боец на деле показывает свои таланты.",
+    "zh": "长久以来，霍克比尔级飞船一直被冠以“丑小鸭”的名号，直到最近海军将其从日常巡逻舰升级为标准舰队级护卫舰，它才获得了新生。这次升级大幅更新了舰载设备，在浩瀚星海中，考验这个小天鹅的时刻到了。"
+  },
+  "factionID": 500001,
+  "graphicID": 2633,
+  "groupID": 25,
+  "marketGroupID": 1366,
+  "mass": 1081000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      150,
+      75,
+      139,
+      85,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      150,
+      75,
+      139,
+      85,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      150,
+      75,
+      139,
+      85,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      150,
+      75,
+      139,
+      85,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      150,
+      75,
+      139,
+      85,
+      118,
+      94
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Caldari Navy Hookbill",
     "en": "Caldari Navy Hookbill",
@@ -9,6 +74,63 @@
     "ko": "칼다리 해군 후크빌",
     "ru": "Caldari Navy Hookbill",
     "zh": "加达里海军霍克比尔级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 35.0,
+  "sofFactionName": "caldarinavy",
+  "soundID": 20070,
+  "traits": {
+    "types": {
+      "3330": [
+        {
+          "bonus": 25,
+          "bonusText": {
+            "de": "Bonus auf den Kinetikschaden von <a href=showinfo:3321>leichten Lenkwaffen</a> und <a href=showinfo:3320>Raketen</a>",
+            "en": "bonus to kinetic <a href=showinfo:3321>Light Missile</a> and <a href=showinfo:3320>Rocket</a> damage",
+            "es": "de bonificación al daño cinético de los <a href=showinfo:3321>misiles ligeros</a> y los <a href=showinfo:3320>cohetes</a>.",
+            "fr": "de bonus aux dégâts cinétiques des <a href=showinfo:3321>missiles légers</a> et des <a href=showinfo:3320>roquettes</a>",
+            "ja": "<a href=showinfo:3321>ライトミサイル</a>と<a href=showinfo:3320>ロケット</a>のキネティックダメージが増加",
+            "ko": "키네틱 <a href=showinfo:3321>라이트 미사일</a>과 <a href=showinfo:3320>로켓</a> 피해량 증가",
+            "ru": "увеличивается урон кинетических БЧ <a href=showinfo:3321>лёгких ракет</a> и <a href=showinfo:3320>лёгких штурмовых ракет</a>",
+            "zh": "<a href=\"showinfo:3321\">轻型导弹</a>和<a href=\"showinfo:3320\">火箭</a>动能伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 20,
+          "bonusText": {
+            "de": "Bonus auf den EM, Explosions- und Thermalschaden von <a href=showinfo:3321>leichten Lenkwaffen</a> und <a href=showinfo:3320>Raketen</a>",
+            "en": "bonus to EM, explosive, thermal <a href=showinfo:3321>Light Missile</a> and <a href=showinfo:3320>Rocket</a> damage",
+            "es": "de bonificación al daño electromagnético, explosivo y térmico de los <a href=showinfo:3321>misiles ligeros</a> y los <a href=showinfo:3320>cohetes</a>.",
+            "fr": "de bonus aux dégâts EM, explosifs et thermiques des <a href=showinfo:3321>missiles légers</a> et des <a href=showinfo:3320>roquettes</a>",
+            "ja": "<a href=showinfo:3321>ライトミサイル</a>と<a href=showinfo:3320>ロケット</a>のEM・エクスプローシブ・サーマルダメージが増加",
+            "ko": "<a href=showinfo:3321>라이트 미사일</a> 및 <a href=showinfo:3320>로켓</a>의 EM, 폭발, 열 피해량 증가",
+            "ru": "увеличивается урон электромагнитных, фугасных и тепловых БЧ <a href=showinfo:3321>лёгких ракет</a> и <a href=showinfo:3320>лёгких штурмовых ракет</a>",
+            "zh": "<a href=\"showinfo:3321\">轻型导弹</a>和<a href=\"showinfo:3320\">火箭</a>电磁、爆炸和热能伤害加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf die Maximalgeschwindigkeit von <a href=showinfo:3321>leichten Lenkwaffen</a> und <a href=showinfo:3320>Raketen</a>",
+            "en": "bonus to <a href=showinfo:3321>Light Missile</a> and <a href=showinfo:3320>Rocket</a> max velocity",
+            "es": "de bonificación a la velocidad máxima de los <a href=showinfo:3321>misiles ligeros</a> y los <a href=showinfo:3320>cohetes</a>.",
+            "fr": "de bonus à la vitesse maximale des <a href=showinfo:3321>missiles légers</a> et des <a href=showinfo:3320>roquettes</a>",
+            "ja": "<a href=showinfo:3321>ライトミサイル</a>と<a href=showinfo:3320>ロケット</a>の最高速度が上昇",
+            "ko": "<a href=showinfo:3321>라이트 미사일</a> 및 <a href=showinfo:3320>로켓</a> 최대 속도 증가",
+            "ru": "увеличивается скорость полёта <a href=showinfo:3321>лёгких ракет</a> и <a href=showinfo:3320>лёгких штурмовых ракет</a>",
+            "zh": "<a href=\"showinfo:3321\">轻型导弹</a>和<a href=\"showinfo:3320\">火箭</a>飞行速度加成"
+          },
+          "importance": 3,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 16500.0
 }

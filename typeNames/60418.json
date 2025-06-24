@@ -1,5 +1,18 @@
 {
-  "typeID": 60418,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Stasis Web-Plattform der Raubdrohnen",
+    "en": "Rogue Drone stasis web sentry",
+    "es": "Centinela de red ralentizadora de dron rebelde",
+    "fr": "Sentinelle de stase de drone renégat",
+    "ja": "ローグドローンのステイシスウェブセントリー",
+    "ko": "로그 드론 스테이시스 센트리",
+    "ru": "Стационарный стазис-индуктор восставших дронов",
+    "zh": "自由无人机停滞网岗哨"
+  },
+  "graphicID": 2586,
+  "groupID": 383,
+  "mass": 1000.0,
   "name": {
     "de": "Drone Light Stasis Tower",
     "en": "Drone Light Stasis Tower",
@@ -10,5 +23,9 @@
     "ru": "Drone Light Stasis Tower",
     "zh": "无人机轻型停滞塔楼"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 371.0,
+  "sofFactionName": "roguebase",
   "volume": 1000.0
 }

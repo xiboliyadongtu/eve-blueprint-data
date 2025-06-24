@@ -1,5 +1,72 @@
 {
-  "typeID": 11978,
+  "basePrice": 131500000.0,
+  "capacity": 440.0,
+  "description": {
+    "de": "Als Unterstützungskreuzer mit speziellen Geräten zur Unterstützung der Nachführung wurde die Scimitar weitgehend nur dazu entworfen, schweren Kampfeinheiten bei der Zielerfassung von schnellen Zielen zu assistieren. Da sie für einen Unterstützungskreuzer ziemlich schwach ist, findet man sie häufig versteckt zwischen Schlachtschiffen, die ihr den Rücken decken, während sie selbst den Giganten die Unterstützung gibt, die diese benötigen, um sich schnell bewegende Ziele außer Gefecht zu setzen.",
+    "en": "Built with special tracking support arrays, the Scimitar was designed in large part to assist heavy combat vessels in tracking fast-moving targets. Relatively nimble for a support cruiser, it can often be found ducking between battleships, protecting its own back while lending the behemoths the support they need to take out their enemies.",
+    "es": "La Scimitar, construida con sistemas especiales de apoyo al rastreo, fue diseñada para ayudar a las naves de combate pesadas a rastrear objetivos rápidos. Es relativamente ágil para ser un crucero de apoyo y a menudo se la puede ver entre acorazados, protegiéndose a sí misma mientras les presta el apoyo que necesitan los mastodontes para acabar con sus enemigos.",
+    "fr": "Doté dès la conception de modules de soutien de poursuite spéciaux, le Scimitar a été pensé pour appuyer les vaisseaux de combat lourds dans le domaine de la poursuite des cibles rapides. Relativement manœuvrable pour un croiseur de soutien, il prend souvent place entre les cuirassés, se protégeant tout en offrant à ses monstres le soutien nécessaire pour détruire leurs ennemis.",
+    "ja": "専用のトラッキングサポートアレイを搭載するシミターは、大型戦闘艦による高速移動ターゲット捕捉を支援する設計になっている。支援巡洋艦としては比較的敏捷で、味方の戦列に飛びこんで敵の攻撃をかわしつつ、大型戦闘艦を支援して敵を排除させるという光景はよく目にする。",
+    "ko": "시미터는 특수 추적 장비가 도입된 함선으로 고속 목표물에 대한 중량급 함선의 사격을 지원합니다. 로지스틱스 크루저 중 높은 기동성을 지닌 덕분에 배틀쉽을 상대로도 어느 정도의 회피가 가능하며 이러한 장점을 바탕으로 아군 대형 함선에 대한 지원 임무 또한 수행합니다.",
+    "ru": "Корабль модели Scimitar оснащён особыми устройствами, позволяющими дистанционно улучшать работу систем наведения. Его основная функция — упрощать тяжёлым боевым кораблям процесс отслеживания быстро движущихся целей. Нередко можно наблюдать, как Scimitar, довольно юркий для крейсера боевого обеспечения, лавирует между линкорами, помогая этим гигантам истреблять врагов в обмен на надёжную защиту.",
+    "zh": "曲剑级拥有特殊的索敌支援阵列，其设计的主要意图是协助重型战舰跟踪高速移动的目标。作为支援巡洋舰，它的行动相对较灵活，经常在战列舰之间穿行，并在保护自己的同时，协助这些大家伙消灭敌人。"
+  },
+  "factionID": 500002,
+  "graphicID": 1778,
+  "groupID": 832,
+  "marketGroupID": 441,
+  "mass": 12090000.0,
+  "masteries": {
+    "0": [
+      96,
+      141,
+      84,
+      85,
+      87,
+      120,
+      94
+    ],
+    "1": [
+      96,
+      141,
+      84,
+      85,
+      87,
+      120,
+      94
+    ],
+    "2": [
+      96,
+      141,
+      84,
+      85,
+      87,
+      120,
+      94
+    ],
+    "3": [
+      96,
+      141,
+      142,
+      84,
+      85,
+      87,
+      120,
+      94
+    ],
+    "4": [
+      96,
+      141,
+      142,
+      84,
+      85,
+      118,
+      87,
+      120,
+      94
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Scimitar",
     "en": "Scimitar",
@@ -10,5 +77,128 @@
     "ru": "Scimitar",
     "zh": "曲剑级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 134.0,
+  "sofFactionName": "corecomplexion",
+  "soundID": 20078,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Reduktion des CPU-Bedarfs von <a href=showinfo:3422>Schildfernboostern</a>",
+          "en": "reduction in <a href=showinfo:3422>Remote Shield Booster</a> CPU requirement",
+          "es": "de reducción de los requisitos de CPU del <a href=showinfo:3422>potenciador de escudo remoto</a>.",
+          "fr": "de réduction au CPU requis par les <a href=showinfo:3422>boosters de bouclier à distance</a>",
+          "ja": "<a href=showinfo:3422>リモートシールドブースター</a>のCPU使用量が軽減",
+          "ko": "<a href=showinfo:3422>원격 실드 부스터</a> CPU 사용량 감소",
+          "ru": "сокращается потребность <a href=showinfo:3422>установок дистанционной накачки щитов</a> в мощностях ЦПУ",
+          "zh": "<a href=\"showinfo:3422\">远程护盾回充增量器</a>CPU需求降低"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3333": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf den Präzisionsabfall von <a href=showinfo:3433>Leitcomputern</a>",
+            "en": "bonus to <a href=showinfo:3433>Remote Tracking Computer</a> falloff",
+            "es": "de bonificación al alcance efectivo del <a href=showinfo:3433>ordenador de rastreo remoto</a>.",
+            "fr": "de bonus à la déperdition de l'<a href=showinfo:3433>ordinateur de poursuite à distance</a>",
+            "ja": "<a href=showinfo:3433>リモート追跡コンピューター</a>の精度低下範囲が改善",
+            "ko": "<a href=showinfo:3433>원격 트래킹 컴퓨터</a> 유효사거리 증가",
+            "ru": "увеличивается добавочная дальность <a href=showinfo:3433>передатчиков данных наводки</a>",
+            "zh": "<a href=showinfo:3433>远距索敌计算机</a>失准范围加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 20.0,
+          "bonusText": {
+            "de": "Bonus auf die Transfermenge von <a href=showinfo:3439>Versorgungsdrohnen</a>",
+            "en": "bonus to <a href=showinfo:3439>Logistic Drone</a> transfer amount",
+            "es": "de bonificación a la cantidad de transferencia de los <a href=showinfo:3439>drones logísticos</a>.",
+            "fr": "de bonus à la quantité de transfert du <a href=showinfo:3439>drone logistique</a>",
+            "ja": "<a href=showinfo:3439>支援型ドローン</a>の転送量が向上",
+            "ko": "<a href=showinfo:3439>로지스틱스 드론</a> 수리량 증가",
+            "ru": "повышается производительность <a href=showinfo:3439>ремонтных дронов</a>",
+            "zh": "<a href=showinfo:3439>后勤无人机</a>传输量加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 60.0,
+          "bonusText": {
+            "de": "Bonus auf die optimale Reichweite und den Präzisionsabfall von <a href=showinfo:3422>Schildfernboostern</a>",
+            "en": "bonus to <a href=showinfo:3422>Remote Shield Booster</a> optimal range and falloff",
+            "es": "de bonificación a los alcances óptimo y efectivo del <a href=showinfo:3422>potenciador de escudo remoto</a>.",
+            "fr": "de bonus à la portée optimale et à la perte du<a href=showinfo:3422>booster de bouclier à distance</a>",
+            "ja": "<a href=showinfo:3422>リモートシールドブースター</a>の最適射程距離および精度低下範囲が改善",
+            "ko": "<a href=showinfo:3422>원격 실드 부스터</a> 최적사거리 및 유효사거리 증가",
+            "ru": "увеличивается оптимальная и добавочная дальность действия <a href=showinfo:3422>установок дистанционной накачки щитов</a>",
+            "zh": "<a href=showinfo:3422>远程护盾回充增量器</a>最佳射程和失准范围加成"
+          },
+          "importance": 3,
+          "unitID": 105
+        }
+      ],
+      "12096": [
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die Effektivität von <a href=showinfo:3433>Nachführungs-Ferncomputern</a>",
+            "en": "bonus to <a href=showinfo:3433>Remote Tracking Computer</a> effectiveness",
+            "es": "de bonificación a la efectividad de los <a href=showinfo:3433>ordenadores de rastreo remotos</a>.",
+            "fr": "de bonus à l'efficacité des <a href=showinfo:3433>ordinateurs de suivi à distance</a>",
+            "ja": "<a href=showinfo:3433>リモートトラッキングコンピュータ</a>の効果が増加",
+            "ko": "<a href=showinfo:3433>원격 트래킹 컴퓨터</a> 효과 증가",
+            "ru": "повышается эффективность <a href=showinfo:3433>передатчиков данных наводки</a>",
+            "zh": "<a href=\"showinfo:3433\">远距索敌计算机</a>效果加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 15.0,
+          "bonusText": {
+            "de": "Reduktion der Aktivierungskosten von <a href=showinfo:3422>Schildfernboostern</a>",
+            "en": "reduction in <a href=showinfo:3422>Remote Shield Booster</a> activation cost",
+            "es": "de reducción del coste de activación del <a href=showinfo:3422>potenciador de escudo remoto</a>.",
+            "fr": "de réduction du coût d'activation des <a href=showinfo:3422>boosters de bouclier à distance</a>",
+            "ja": "<a href=showinfo:3422>リモートシールドブースター</a>の起動コストが軽減",
+            "ko": "<a href=showinfo:3422>원격 실드 부스터</a> 활성화 비용 감소",
+            "ru": "сокращается потребление энергии <a href=showinfo:3422>установками дистанционной накачки щитов</a>",
+            "zh": "<a href=\"showinfo:3422\">远程护盾回充增量器</a>启动消耗减少"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 15.0,
+          "bonusText": {
+            "de": "Reduktion des Signaturradiusabzugs von <a href=showinfo:3425>Schilderweiterungen</a>",
+            "en": "reduction in <a href=showinfo:3425>Shield Extender</a> signature radius penalty",
+            "es": "de reducción de la penalización de radio de la señal del <a href=showinfo:3425>extensor de escudo</a>.",
+            "fr": "de réduction à la pénalité du rayon de signature de l'<a href=showinfo:3425>extenseur de bouclier</a>",
+            "ja": "<a href=showinfo:3425>シールドエクステンダー</a>のシグネチャ半径ペナルティが減少",
+            "ko": "<a href=showinfo:3425>실드 확장장치</a> 시그니처 반경 페널티 감소",
+            "ru": "снижение штрафа к радиусу сигнатуры для <a href=showinfo:3425>расширителя щитов</a>",
+            "zh": "<a href=showinfo:3425>护盾扩展装置</a>的信号半径惩罚减少"
+          },
+          "importance": 3,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 631,
   "volume": 89000.0
 }

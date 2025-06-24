@@ -1,5 +1,18 @@
 {
-  "typeID": 21881,
+  "capacity": 120.0,
+  "description": {
+    "de": "Das ist ein feindliches Piratenschiff. Bedrohungsstufe: Tödlich",
+    "en": "This is a hostile pirate vessel. Threat level: Deadly",
+    "es": "Nave pirata hostil. Nivel de amenaza: letal.",
+    "fr": "Il s'agit d'un vaisseau pirate ennemi. Niveau de menace : mortel",
+    "ja": "敵の海賊船。危険度:致命的",
+    "ko": "적대적인 해적선입니다. 위험도: 치명적",
+    "ru": "Это враждебный пиратский корабль. Уровень опасности: смертельный",
+    "zh": "这是一艘敌对的海盗船。威胁等级：致命的"
+  },
+  "graphicID": 337,
+  "groupID": 533,
+  "mass": 10900000.0,
   "name": {
     "de": "Jihar Okham",
     "en": "Jihar Okham",
@@ -10,5 +23,10 @@
     "ru": "Jihar Okham",
     "zh": "吉哈尔·奥卡汉姆"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 187.0,
+  "sofFactionName": "angelbase",
   "volume": 109000.0
 }

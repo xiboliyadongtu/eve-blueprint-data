@@ -1,5 +1,17 @@
 {
-  "typeID": 364769,
+  "basePrice": 99000.0,
+  "description": {
+    "de": "Grundlegende Kenntnisse über Fahrzeugpanzerungszusammensetzungen.\n\n10% Abzug auf die Geschwindigkeitsreduktion durch Panzerplatten pro Skillstufe.",
+    "en": "Basic understanding of vehicle armor composition.\r\n\r\n10% reduction to speed penalty of armor plates per level.",
+    "es": "Conocimiento básico de composición de blindaje de vehículos.\n\n-10% a la penalización de velocidad de las placas de blindaje por nivel.",
+    "fr": "Notions de base en composition de blindage de véhicule.\n\n10 % de réduction à la pénalité de vitesse du revêtement de blindage par niveau.",
+    "it": "Comprensione base della composizione del veicolo corazzato.\n\n10% di riduzione alla penalizzazione di velocità delle lamiere corazzate per livello.",
+    "ja": "車両アーマー構成に関する基本的な知識。\n\nレベル上昇ごとにアーマープレートの速度ペナルティを10%減少させる。",
+    "ko": "차량용 장갑에 대한 기본적인 이해를 습득합니다. <br><br>매 레벨마다 장갑 플레이트의 속도 페널티 10% 감소",
+    "ru": "Базовое понимание состава брони транспортного средства.\n\n10% снижение потерь в скорости для пластин брони за каждый уровень.",
+    "zh": "载具装甲构成基本知识。每升一级，对装甲板的速度惩罚减少10%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Fahrzeug: Panzerungszusammensetzungen",
     "en": "Vehicle Armor Composition",
@@ -11,5 +23,7 @@
     "ru": "Состав брони транспортного средства",
     "zh": "载具装甲构成"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

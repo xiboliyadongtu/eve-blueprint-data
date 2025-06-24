@@ -1,5 +1,17 @@
 {
-  "typeID": 352279,
+  "basePrice": 3400.0,
+  "description": {
+    "de": "Bei Eintritt des Todes zündet diese Einheit einen kleinen Sprengsatz mit genug Kraft, um eine ganze Infanterieeinheit in der Nähe zu töten.",
+    "en": "At the moment of death this unit triggers a small explosive powerful enough to kill any infantry unit nearby.",
+    "es": "Al morir, esta unidad detona un pequeño explosivo con potencia suficiente para matar a cualquier unidad de infantería cercana.",
+    "fr": "Juste avant de mourir, cette unité active un petit explosif suffisamment puissant pour tuer toute unité d'infanterie à proximité.",
+    "it": "Quando sopraggiunge la morte, questa unità attiva un piccolo esplosivo in grado di uccidere qualunque unità di fanteria nelle vicinanze.",
+    "ja": "このユニットは死の瞬間に小型爆弾を炸裂させ、周囲の歩兵ユニットを全滅させる。",
+    "ko": "장치가 파괴되면 근방의 보병들을 처치할 수 있을만큼의 화력을 가진 소형 폭발물이 가동됩니다.",
+    "ru": "В момент смерти наемника этот модуль детонирует заряд взрывчатки, достаточно мощный для уничтожения любой пехотной единицы в радиусе взрыва.",
+    "zh": "该装置会在穿戴者身亡时触发小型爆炸装置，其威力足以炸死附近的任何步兵部队。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Einfacher Selbstzünder",
     "en": "Basic Auto-Detonator",
@@ -11,5 +23,7 @@
     "ru": "Базовый автоматический детонатор",
     "zh": "基础型自动起爆器"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 48760,
+  "description": {
+    "de": "Außer Betrieb, nicht funktionstüchtig. <b>Sollte nicht funktionieren ...</b>",
+    "en": "Out of order, does not work. <b>Not supposed to work...</b>",
+    "es": "Tiene una avería y no funciona. <b>Se supone que no funciona...</b>",
+    "fr": "Hors service, ne fonctionne pas. <b>N'est pas censé fonctionner...</b>",
+    "ja": "故障中のため、動作しない。<b>動作するはずはないが…</b>",
+    "ko": "사용할 수 없습니다. <b>현재는 사용이 불가능합니다...</b>",
+    "ru": "Обнаружена неисправность. Не работает. <b>По крайней мере, не должно...</b>",
+    "zh": "发生故障，无法工作。<b>不起效果...</b>"
+  },
+  "groupID": 1194,
+  "iconID": 10831,
+  "marketGroupID": 1661,
+  "mass": 1.0,
   "name": {
     "de": "Defunct Name Change Token",
     "en": "Defunct Name Change Token",
@@ -10,5 +23,7 @@
     "ru": "Defunct Name Change Token",
     "zh": "失效的改名令牌"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

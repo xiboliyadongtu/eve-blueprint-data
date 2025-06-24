@@ -1,5 +1,18 @@
 {
-  "typeID": 30546,
+  "basePrice": 5000000.0,
+  "description": {
+    "de": "Skill in Verbindung mit gallentischen Kernsubsystemen für Tech-III-Schiffe.",
+    "en": "Skill in the operation of Gallente Core Subsystems used on Tech III ships.",
+    "es": "Habilidad en la operación de subsistemas nuclearios gallentes usados en naves T3.",
+    "fr": "Compétence liée à l'utilisation des sous-systèmes principaux gallente sur les vaisseaux Tech III.",
+    "ja": "T3艦で使用するガレンテのコアサブシステムを操作するスキル。",
+    "ko": "테크 III 함선에 사용되는 갈란테 코어 서브시스템 운용을 위한 스킬입니다.",
+    "ru": "Освоив первую степень этого навыка, пилот сможет пользоваться галлентскими центральными подсистемами для кораблей третьей техкатегории.",
+    "zh": "这是用来操纵三级科技舰船上盖伦特核心子系统的技能。"
+  },
+  "groupID": 1240,
+  "iconID": 33,
+  "marketGroupID": 1824,
   "name": {
     "de": "Gallente Core Systems",
     "en": "Gallente Core Systems",
@@ -10,5 +23,8 @@
     "ru": "Галлентские центральные подсистемы",
     "zh": "盖伦特核心系统"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

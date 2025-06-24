@@ -1,5 +1,17 @@
 {
-  "typeID": 21514,
+  "description": {
+    "de": "Diese Ankunfts-/Abfluglogs wurden sorgfältig gefälscht und sind für die Einspeisung in die Datenbanken einer ganz bestimmten Raumstation bereit.",
+    "en": "These Arrivals & Departures logs have been carefully falsified and are ready for insertion into a particular station's data banks.",
+    "es": "Los registros de llegadas y salidas han sido cuidadosamente falsificados y están listos para su inserción en las bases de datos de una estación en particular.",
+    "fr": "Ces registres de départs et arrivées, dignes des plus grands faussaires, peuvent être introduits dans les banques de données d'une station.",
+    "ja": "精巧に偽造された艦船の発着記録。特定のステーションのデータバンクに挿入可能な状態になっている。",
+    "ko": "위조된 도착 및 출발 기록입니다. 특정 정거장의 데이터 뱅크에 삽입할 수 있습니다.",
+    "ru": "Эти журналы прибытия и отбытия очень тщательно сфальцифицированы и готовы к вводу в банк данных определенной станции.",
+    "zh": "这些进出港日志经过精心修改，可以插入某特定空间站数据库。"
+  },
+  "groupID": 526,
+  "iconID": 1192,
+  "mass": 1.0,
   "name": {
     "de": "Doctored Arrivals & Departures Logs",
     "en": "Doctored Arrivals & Departures Logs",
@@ -10,5 +22,7 @@
     "ru": "Doctored Arrivals & Departures Logs",
     "zh": "修改过的进出港日志"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

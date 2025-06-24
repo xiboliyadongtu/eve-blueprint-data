@@ -1,5 +1,18 @@
 {
-  "typeID": 22729,
+  "capacity": 1200.0,
+  "description": {
+    "de": "Raubdrohnen sind high-tech Drohnen, die die Fähigkeit haben, sich selbst zu produzieren. Diese Drohnen dagegen sind eine einfache Nachbildung bekannter Raubdrohnentypen, hergestellt vom Militär der Amarr. Diese Drohnenrepliken sind ganz einfach darauf programmiert diesen kleinen Asteroidengürtel zu patrouillieren und sich selbst erforderlichenfalls zu verteidigen. Im Grunde genommen sind es starke Trainingsdrohnen.",
+    "en": "Rogue drones are hi-tech drones that have the ability to manufacture themselves. These drones are however simply a replica of known rogue drone types, created by the Amarr military .  These drone replicas are simply configured to patrol this small asteroid field and defend themselves if neccessary.  They are in essence powerful training drones.",
+    "es": "Los drones rebeldes cuentan con una avanzada tecnología que les permite autofabricarse. Sin embargo, son meras réplicas de tipos conocidos de drones rebeldes creados por el ejército amarriano. Estas réplicas están configuradas simplemente para patrullar este pequeño campo de asteroides y defenderse si fuese necesario. Básicamente son drones de entrenamiento potentes.",
+    "fr": "Les drones renégats sont des drones ultra-perfectionnés capables de se produire eux-mêmes. Ces drones ne sont cependant qu'une simple réplique de types de drones renégats bien connus, créés par les militaires amarr.  Ces répliques sont configurées pour patrouiller dans ce petit champ d'astéroïdes et pour se défendre, si nécessaire.  Ce sont, par essence, de puissants drones d'entraînement.",
+    "ja": "ローグドローンは、最先端技術によって開発され、自己製造能力を有する。しかしこれらのドローンは、アマー軍が開発した既存のローグドローンのレプリカにすぎない。アステロイドフィールドを巡回し、いざとなれば身を守るように設計されているだけで、トレーニングドローン程度の力しか持たない。",
+    "ko": "로그 드론은 자가생산이 가능한 최첨단 드론입니다. 아마르군에 의해 제작된 로그 드론 복제품입니다. 기본적인 방어 기능을 갖춘 개체로 소행성 지대 정찰을 담당합니다. 훈련용으로 사용하기에 매우 적합합니다.",
+    "ru": "Восставшие дроны являются высокотехнологичными беспилотными дронами, которые обладают способностью самовоспроизводства. Эти дроны – всего лишь точная копия известных типов дронов, созданных военными Amarr.  Эти копии созданы для патрулирования этого малого астероидного поля и самозащиты, если это необходимо.  В сущности, это мощные учебные дроны.",
+    "zh": "自由无人机是拥有自我生产能力的高科技无人机。然而这些无人机却是艾玛军队生产的已知自由无人机的复制品。这些复制品被简单设定成在这片小行星带巡逻，若有需要会进行自卫。它们实际上就是强大的训练无人机。"
+  },
+  "graphicID": 1223,
+  "groupID": 803,
+  "mass": 100000.0,
   "name": {
     "de": "Strain Domination Drone Replica",
     "en": "Strain Domination Drone Replica",
@@ -10,5 +23,10 @@
     "ru": "Strain Domination Drone Replica",
     "zh": "加强型毁灭者无人机复制品"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 150.0,
+  "sofFactionName": "roguebase",
+  "soundID": 11,
   "volume": 60.0
 }

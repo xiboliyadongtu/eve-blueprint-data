@@ -1,5 +1,18 @@
 {
-  "typeID": 17789,
+  "capacity": 8850.0,
+  "description": {
+    "de": "Die Raffinerie ist das Herz eines industriellen Außenpostens, denn sie erhöht die Effizienz jeder Bergbauoperation durch verkürzte Transportzeiten. Sie ist weniger effektiv als voll ausgerüstete Stationen, aber der Vorteil, dass man unbearbeitetes Erz nicht mehr transportieren muss, wiegt das bei Weitem auf.",
+    "en": "The refinery is the heart of any industrial outpost, increasing the efficiency of any mining operation through reduced travel time. They are less efficient than full fledged stations, but the benefits of not having to move unrefined ore outweighs this drawback considerably.",
+    "es": "La refinería es el corazón de cualquier puesto avanzado industrial, ya que optimiza las operaciones mineras al reducir los tiempos de viaje. Aunque es menos eficiente que las estaciones al uso, vale la pena por no tener que andar moviendo menas refinadas.",
+    "fr": "La raffinerie est au cœur de tout avant-poste industriel, améliorant l'efficacité des opérations minières grâce à des temps de transport réduits. Elle est moins efficace qu'une station entièrement équipée, mais a l'avantage d'éviter les gros mouvements de minerai brut.",
+    "ja": "産業用アウトポストの心臓部である精錬所は、移動時間を短縮することで採掘作業の効率を高める。本格的なステーションよりもやや効率は落ちるものの、未精錬の鉱石を輸送する手間を考えたら、この欠点は十分すぎるほど補える。",
+    "ko": "산업용 전초기지의 핵심 시설인 정제소는 채굴 시 이동시간을 단축시킴으로써 채굴 효율성을 크게 증가시킵니다. 정제 시설이 갖춰진 정거장에 비해 다소 효율은 떨어지지만 미가공 광석을 운반하지 않아도 된다는 점 때문에 매우 유용하게 사용됩니다.",
+    "ru": "Обогатительные фабрики — это основа любой промышленной станции; благодаря снижению временных затрат на перемещение руды корпорациям удается повысить эффективность добычи минералов. Их эффективность меньше, чем эффективность фабрик на больших станциях, однако польза от их близости с лихвой компенсирует этот недостаток.",
+    "zh": "这个精炼厂是所有工业哨站的中心，通过减少运输时间来提高采矿作业的效率。虽然它们的精炼效率不及成熟的空间站，但无需运送矿石的优越性足以弥补其这一缺陷。"
+  },
+  "graphicID": 2299,
+  "groupID": 319,
+  "mass": 1000000.0,
   "name": {
     "de": "Starbase Medium Refinery",
     "en": "Starbase Medium Refinery",
@@ -10,5 +23,10 @@
     "ru": "Starbase Medium Refinery",
     "zh": "母星中型精炼厂"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 500.0,
+  "sofFactionName": "genericmetal",
+  "soundID": 20197,
   "volume": 1150.0
 }

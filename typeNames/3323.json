@@ -1,5 +1,18 @@
 {
-  "typeID": 3323,
+  "basePrice": 45000.0,
+  "description": {
+    "de": "Skill für Bombenabwehrlenkwaffen. Angebot: 10% Bonus auf die maximale Geschwindigkeit von Abfangraketen je Skillstufe",
+    "en": "Skill with anti-bomb missiles. Special: 10% bonus to defender missile max velocity per skill level.",
+    "es": "Habilidad con misiles antibombas. Especial: 10 % de bonificación a la velocidad máxima de los misiles de defensa por nivel de habilidad.",
+    "fr": "Compétence liée à l'utilisation des missiles antibalistiques. Spécial : augmente de 10% par niveau la vitesse maximale des missiles antibalistiques.",
+    "ja": "ボム迎撃用ミサイルのスキル。特記: スキルレベル上昇ごとに迎撃ミサイルの最高速度が10%向上。",
+    "ko": "요격 미사일 운용을 위한 스킬입니다. 특수 효과: 매 레벨마다 디펜더 미사일 최대 속도 10% 증가",
+    "ru": "Навык эксплуатации противоракет. За каждую степень освоения навыка: на 10% повышается крейсерская скорость полёта противоракет.",
+    "zh": "使用反弹道导弹的技能。特殊加成：每升一级，反弹道导弹的最大速度提高10%。"
+  },
+  "groupID": 256,
+  "iconID": 33,
+  "marketGroupID": 373,
   "name": {
     "de": "Defender Missiles",
     "en": "Defender Missiles",
@@ -10,5 +23,7 @@
     "ru": "Противоракеты",
     "zh": "反弹道导弹理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

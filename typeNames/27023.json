@@ -1,5 +1,17 @@
 {
-  "typeID": 27023,
+  "description": {
+    "de": "Allein die Existenz dieser Einheit ist ein riesen Ärgernis für Physiker weit und breit. Nichtsdestoweniger tut es überhaupt nicht viel für den Piloten. Es arbeitet als geschlossenes System und jeder Versuch es aufzubrechen oder eine interne Inspektion zerstört den Mechanismus. Es hat keine Auswirkungen auf die Bedienelemente eines Schiffes.",
+    "en": "The mere existence of this unit is a major vexation to physicists everywhere. That said, it doesn't do much at all for the pilot: It operates as a closed system, and any attempt at a breach or internal inspection will ruin the mechanism. It has no effect on any part of a ship's operation.",
+    "es": "La mera existencia de esta unidad resulta una gran molestia para los físicos de todas partes. Pese a todo, no hace mucho por el piloto, sino que funciona como un sistema cerrado y cualquier intento de ruptura o inspección interna estropea el mecanismo. No tiene efecto en ninguna parte del funcionamiento de la nave.",
+    "fr": "L'existence même de cette unité est une insulte à tous les physiciens de l'univers. Pour les pilotes en revanche, aucun intérêt : elle opère en circuit fermé et toute tentative visant à l'ouvrir pour inspecter son mécanisme lui est fatal. En outre, elle n'a aucun effet sur le fonctionnement d'un vaisseau.",
+    "ja": "このユニットの存在は、宇宙全域の物理学者の悩みの種である。とは言うものの、パイロットの役には全く立たない。クローズドシステムとして機能し、いかなる破損または内部検査もメカニズムを駄目にしてしまうだろう。船の運用上は、全く支障はない。",
+    "ko": "이 장치는 존재만으로도 많은 물리학자들을 짜증나게 만듭니다. 그런 반면 파일럿들은 이 장치에 대해 크게 개의치 않아합니다. 폐쇄 시스템으로 작동하며 강제로 열거나 내부를 확인하려 하는 행위는 장치의 메커니즘을 망가뜨립니다. 함선 가동에는 어떠한 영향도 미치지 않습니다.",
+    "ru": "Существование этого устройства - главная головная боль физиков всего мира. Впрочем, он не много делает для пилота: он работает как закрытая система и любая попытка добраться до него ведет к поломке механизма. Он никак не влияет ни на одно из действий корабля.",
+    "zh": "这个装置的存在本身令各地物理学家非常苦恼。尽管如此，它对飞行员来说几乎毫无价值：它是以封闭系统的形式运作的，如果试图突破它或进行内部检查，它的机械系统就会被毁。它根本不影响飞船的任何操作。"
+  },
+  "groupID": 332,
+  "iconID": 2852,
+  "metaGroupID": 2,
   "name": {
     "de": "Perpetual Motion Unit II",
     "en": "Perpetual Motion Unit II",
@@ -10,5 +22,8 @@
     "ru": "Perpetual Motion Unit II",
     "zh": "永动机设备 II"
   },
+  "portionSize": 1,
+  "published": false,
+  "variationParentTypeID": 27021,
   "volume": 100.0
 }

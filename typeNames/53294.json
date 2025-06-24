@@ -1,5 +1,18 @@
 {
-  "typeID": 53294,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese Struktur ist eine größere Variante der Speicher, die häufig in der Raumverwerfung des Abgrunds vorkommen. Obwohl sie äußerlich mit diesen Speichern identisch ist, konnte CONCORD keine Analysen des Objekts durchführen und kann deshalb nicht darüber spekulieren, was nötig ist, um darauf zuzugreifen. Kapselpiloten sind angehalten, diese Speicher zu bewahren und CONCORDs DED-Agenten zu melden, wenn sie eine Zugriffsmöglichkeit auf sie erlangt haben.",
+    "en": "This structure is a larger variant of the caches commonly found throughout Abyssal Deadspace. Despite outwardly identical to those caches, CONCORD has been unable to perform analyses of the object and as such cannot speculate on what it may require to gain access to it. Capsuleers are urged to try and preserve these and furthermore, to report to CONCORD's DED Agents if they find a means to access these caches.",
+    "es": "Esta estructura es una variante más grande de los escondrijos que se suelen encontrar en el espacio muerto abisal. A pesar de que por fuera parece un escondrijo más, CONCORD no ha logrado analizar el objeto y, por tanto, no puede deducir qué se necesita para acceder a él. Se urge a los capsulistas no solo a preservar estos escondrijos, sino también a informar a los agentes del DED de CONCORD si encuentran un modo de acceder a ellos.",
+    "fr": "Cette structure est une variante plus grande des caches que l'on trouve souvent dans tout l'abîme Deadspace. Bien que cet objet soit visuellement identique à ces caches, CONCORD n'a pas pu l'analyser et ne peut donc pas déterminer les prérequis pour y accéder. Les capsuliers sont instamment priés de tenter de les préserver et, en outre, de signaler aux agents DED de CONCORD s'ils trouvent un moyen d'accéder à ces caches.",
+    "ja": "このストラクチャはアビサルデッドスペースでよく見られるキャッシュのより大きなバリエーション。外見的にはそれらのキャッシュと同一であるにもかかわらず、CONCORDはこのオブジェクトの分析を行うことができず、アクセスするために何が必要なのかを推測することもできない。カプセラは、これらのキャッシュを保存し、さらに、キャッシュにアクセスする手段を見つけたらCONCORDのDEDエージェントに報告することを促されている。",
+    "ko": "어비설 데드스페이스에서 발견되는 저장고 가운데 유독 규모가 큰 구조물입니다. 외관상 큰 특이점은 없으나 CONCORD의 분석이 이루어지지 않아 내부에 무엇이 담겨 있는지는 알 수 없습니다. 캡슐리어는 이를 잘 보호하도록 권고되고 있으며, 개방 수단이 발견되는 즉시 CONCORD의 DED 에이전트에게 보고해야 합니다.",
+    "ru": "Это сооружение — увеличенный вариант тайников, которые встречаются по всей Мёртвой бездне. Несмотря на то что внешне эти тайники совершенно неотличимы, КОНКОРДу не удалось провести надлежащий анализ объекта и установить, что находится внутри него и как его открыть. Капсулёров просят сохранять эти объекты и, если удастся получить доступ к содержимому, немедленно сообщать агентам СМЕР КОНКОРДа.",
+    "zh": "这种建筑比常见于深渊空间中的储藏设施更大。它的外观非常具有辨识度，但统合部无法对其进行分析，所以也不能臆测需要如何打开它。统合部敦促克隆飞行员对其进行保护，如果找到打开这些箱子的方法，请报告给统合部的DED代理人。"
+  },
+  "graphicID": 22217,
+  "groupID": 2009,
+  "mass": 100000.0,
   "name": {
     "de": "Triglavian Biocombinative Schematic Cache",
     "en": "Triglavian Biocombinative Schematic Cache",
@@ -10,5 +23,10 @@
     "ru": "Triglavian Biocombinative Schematic Cache",
     "zh": "三神裔生化结合示意图箱子"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 1226.0,
+  "sofFactionName": "triglavianbase",
+  "soundID": 20217,
   "volume": 100000000.0
 }

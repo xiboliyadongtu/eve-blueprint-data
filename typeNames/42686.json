@@ -1,5 +1,18 @@
 {
-  "typeID": 42686,
+  "capacity": 27500.0,
+  "description": {
+    "de": "Diese einst funktionale Datenbank wurde irreparabel geschädigt. Die Ursache der Zerstörung ist unbekannt.",
+    "en": "This once functional databank has been destroyed beyond repair. The cause of destruction is unknown.",
+    "es": "Este banco de datos, que en su día fue útil, ha sido destruido sin posibilidad de reparación. Se desconoce la causa de su destrucción.",
+    "fr": "Cette banque de donnés autrefois fonctionnelle a subi des dégâts irréversibles. La cause de la destruction est inconnue.",
+    "ja": "かつては動作していたと思われる、このデータバンクは修復不可能なまでに破壊されています。破壊の原因は不明です。",
+    "ko": "과거에는 정상으로 작동했던 데이터 뱅크였지만 이제는 수리가 불가능할 정도로 완전히 파괴되었습니다. 파괴의 원인은 알 수 없습니다.",
+    "ru": "Этот банк данных когда-то работал, но теперь безнадёжно уничтожен. Причина уничтожения неизвестна.",
+    "zh": "这个曾经启用过的数据库被摧毁了，已经无法修理。毁坏原因不明。"
+  },
+  "graphicID": 21403,
+  "groupID": 226,
+  "mass": 10000.0,
   "name": {
     "de": "Secure Databank Wreck",
     "en": "Secure Databank Wreck",
@@ -10,5 +23,9 @@
     "ru": "Secure Databank Wreck",
     "zh": "安全的数据库残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

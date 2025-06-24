@@ -1,5 +1,18 @@
 {
-  "typeID": 85233,
+  "basePrice": 25000000.0,
+  "description": {
+    "de": "Skill zur Verwendung von Söldnerverstecken. Ermöglicht die Kontrolle von einer Struktur je Skillstufe, bis maximal fünf. Söldnerverstecke müssen im Radius von 10 km um den Skyhook eines gemäßigten Planeten platziert werden.",
+    "en": "Skill at using Mercenary Dens. Allows control of one structure per level, up to a maximum of five. Mercenary Dens must be placed within 10km of a temperate planet's Skyhook.",
+    "es": "Habilidad en el uso de guaridas de mercenarios. Permite controlar una estructura por nivel, hasta un máximo de cinco. Las guaridas de mercenarios deben estar ubicadas a menos de 10 km del gancho de un planeta templado.",
+    "fr": "Compétence dans l'utilisation de repaires mercenaires. Permet le contrôle d'une structure par niveau, jusqu'à un maximum de cinq. Les repaires de mercenaires doivent être placés à moins de 10 km du grappin orbital d'une planète tempérée.",
+    "ja": "傭兵の隠れ家を使用するスキル。レベルが1上がるたびに、管理できる隠れ家が1つ増加する（最大5つまで）。傭兵の隠れ家は、温暖な惑星のスカイフックの周囲10km以内に設置する必要がある。",
+    "ko": "용병 소굴 운용에 필요한 스킬입니다. 스킬 레벨 1당 용병 소굴을 한 개 전개할 수 있으며 최대 다섯 개까지 증가합니다. 용병 소굴은 온대 행성 궤도 스카이훅 반경 10km 이내에 전개할 수 있습니다.",
+    "ru": "Навык использования логов наёмников. С каждой степенью освоения число управляемых объектов возрастает на один, пока не достигнет пяти. Логова наёмников устанавливаются в радиусе 10 км от подъёмника, вращающегося вокруг планеты с умеренным климатом.",
+    "zh": "在使用雇佣兵巢穴方面的技能。每升一级，可以多控制一座建筑，最多可控制五座。雇佣兵巢穴必须部署在距温和行星天钩10km的范围内。"
+  },
+  "groupID": 1545,
+  "iconID": 33,
+  "marketGroupID": 2152,
   "name": {
     "de": "Mercenary Den Management",
     "en": "Mercenary Den Management",
@@ -10,5 +23,7 @@
     "ru": "Mercenary Den Management",
     "zh": "雇佣兵巢穴管理"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

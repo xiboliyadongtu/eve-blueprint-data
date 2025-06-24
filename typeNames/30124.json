@@ -1,5 +1,19 @@
 {
-  "typeID": 30124,
+  "description": {
+    "de": "Dieses Subsystem ist veraltet und wurde durch neuere Technologie ersetzt.\n\n\n\nDieses Subsystem dient als spezielles Lager für die Hybridmunition von Schiffen. Die Wanne allerdings dient zugleich als Zyklotron zur magnetischen Aufladung der Geschosse, ehe diese in den Turm geladen werden. Die verbesserte Munition fliegt weiter und richtet größeren Schaden an. \n\n\n\nSubsystem-Skillbonus: \n\n5 % Bonus auf die Schadenswirkung mittlerer Hybridtürme je Skillstufe\n\n20 % Bonus auf die optimale Reichweite mittlerer Hybridtürme je Skillstufe",
+    "en": "This subsystem is obsolete and has been replaced by newer technology\r\n\r\nThis subsystem serves as a specialized storage bin for a ship's hybrid ammo. The basin, however, also serves as a cyclotron, infusing the ammo with magnetic energy immediately before it is injected into the turret. The amplified ammo has an increased range and damage potential. \r\n\r\nSubsystem Skill Bonus: \r\n5% bonus to medium hybrid turret damage per level\r\n20% bonus to medium hybrid turret optimal range per level",
+    "es": "Este subsistema está obsoleto y ha sido sustituido por tecnología nueva.\n\nEste subsistema sirve como silo especializado para la munición híbrida de la nave. Además, el silo también sirve como ciclotrón, infundiendo energía magnética a la munición inmediatamente antes de inyectarla en la torreta. La munición amplificada tiene un mayor alcance y potencial de daño.\n\nBonificación de habilidad del subsistema:\n\n5 % de bonificación al daño de la torreta híbrida mediana por nivel.\n\n20 % de bonificación al alcance óptimo de la torreta híbrida mediana por nivel.",
+    "fr": "Ce sous-système est obsolète et a été remplacé par une technologie plus récente. Ce sous-système sert de lieu d'entreposage spécialisé pour les munitions hybrides d'un vaisseau. Cette cuve, cependant, sert également de cyclotron, imprégnant les munitions d'une énergie magnétique juste avant qu'elles ne soient intégrées dans la tourelle. Les munitions amplifiées présentent alors une plus grande portée et infligent davantage de dégâts. Bonus de compétence du sous-système : augmente de 5 % par niveau les dégâts des tourelles hybrides intermédiaires, augmente de 20 % par niveau la portée optimale des tourelles hybrides intermédiaires",
+    "ja": "このサブシステムは旧式化したため、新型技術に差し替えられた\n\n\n\nこのサブシステムは、艦船のハイブリッド弾専用の格納庫として機能する。さらに円形の構造は、タレットに装填される直前の弾薬に磁力を注入するサイクロトロンとしての機能を果たす。この強化された弾薬は、射程距離が伸び、より大きなダメージを与える可能性が増す。\n\n\n\nサブシステムのスキルボーナス：\n\nレベル上昇ごとに中型ハイブリッドタレットダメージに5%のボーナス\n\nレベル上昇ごとに中型ハイブリッドタレットの最適射程距離が20%延長",
+    "ko": "이 서브시스템은 노후되어 최신식 기술로 교체되었습니다.<br><br>하이브리드 탄약을 위한 특수 보관 시설입니다. 사이클로트론을 통해 탄에 자기 에너지를 주입합니다. 강화된 탄약은 사거리 및 피해량이 증가합니다. <br><br>서브시스템 스킬 보너스: <br><br>매 레벨마다 중형 하이브리드 터렛 피해량 5% 증가<br>매 레벨마다 중형 하이브리드 터렛 최적사거리 20% 증가",
+    "ru": "Эта подсистема устарела и заменена на продукт новых технологий\n\n\n\nПодсистема представляет собой спецотсек-циклотрон для хранения гибридных боеприпасов. В этом отсеке патроны намагничиваются непосредственно перед подачей в орудийную установку, что повышает урон боеприпасов гибридных орудий и дальность ведения ими огня \n\n\n\nЗа каждую степень освоения навыка соответствующей подсистемы:<br> \n\nна 5% повышается урон средних гибридных орудий.<br>\n\nна 20% увеличивается оптимальная дальность ведения огня из средних гибридных орудий",
+    "zh": "这个子系统太过老旧，已经被新科技取代。\n\n\n\n这个系统是舰船混合弹药的特殊储藏设备。这个注入闸实际上原理类似一个回旋加速器，在弹药被填装到炮台之前为其冲入磁能。经过这种磁能放大处理的弹药具有更大的射程和伤害力。 \n\n\n\n每等级子系统技能加成： \n\n中型混合炮台伤害提高5%\n\n中型混合炮台最佳射程增加20%"
+  },
+  "graphicID": 3618,
+  "groupID": 955,
+  "iconID": 3641,
+  "mass": 800000.0,
+  "metaGroupID": 14,
   "name": {
     "de": "OLD Tengu Offensive - Magnetic Infusion Basin",
     "en": "OLD Tengu Offensive - Magnetic Infusion Basin",
@@ -10,5 +24,11 @@
     "ru": "OLD Tengu Offensive - Magnetic Infusion Basin",
     "zh": "旧金鹏攻击 - 磁性注入闸"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 500.0,
+  "sofFactionName": "caldaribase",
+  "variationParentTypeID": 30122,
   "volume": 40.0
 }

@@ -1,5 +1,21 @@
 {
-  "typeID": 5175,
+  "capacity": 1.0,
+  "description": {
+    "de": "Eine mehrläufige Schnellfeuer-Energiewaffe, die einen beständigen Schadensstrahl verursacht. \n\nMuss mit einem der folgenden Frequenzkristalle geladen werden: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",
+    "en": "Rapid fire multi-barreled energy weapon that delivers a steady stream of damage. \r\n\r\nRequires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",
+    "es": "Arma de energía de varios cañones de disparo rápido que inflige un flujo de daño constante.\n\nRequiere tipos de munición de cristales de frecuencia: gamma, infrarrojos, microondas, multifrecuencia, radio, estándar, ultravioleta, rayos X.",
+    "fr": "Arme à énergie multi-canons à tir rapide assurant un feu nourri et régulier. \n\nRequiert les cristaux de fréquence suivants en guise de munitions : gamma, infrarouge, micro-onde, multifréquence, radio, standard, ultraviolet, rayon X.",
+    "ja": "間断なくダメージを浴びせかける、速射連装型エネルギー兵器。\r\n\n装填可能なフリーケンシークリスタルのタイプ : ガンマ、赤外線、マイクロ波、多周波、放射線、標準、紫外線、エックス線。",
+    "ko": "속사형 멀티배럴 에너지 무기로 발사 시 적에게 지속적인 피해를 입힙니다. <br><br>사용 가능한 프리퀀시 크리스탈: 감마선, 적외선, 마이크로파, 멀티프리퀀시, 라디오파, 스탠다드, 자외선, 엑스선.",
+    "ru": "Многоствольная скорострельная энергетическая установка, способная вести непрерывный огонь. \n\nСледует заряжать частотными кристаллами: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",
+    "zh": "速射多管能源型武器，破坏力持续稳定。\r\n\r\n使用的频率晶体弹药类型：伽玛、红外线、微波、多频、射频、标准、紫外线和X射线。"
+  },
+  "graphicID": 11118,
+  "groupID": 53,
+  "iconID": 350,
+  "marketGroupID": 570,
+  "mass": 500.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Gatling Modal Laser I",
     "en": "Gatling Modal Laser I",
@@ -10,5 +26,10 @@
     "ru": "Gatling Modal Laser I",
     "zh": "加特林增强模式激光器 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "sofFactionName": "amarrbase",
+  "variationParentTypeID": 450,
   "volume": 5.0
 }

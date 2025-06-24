@@ -1,5 +1,18 @@
 {
-  "typeID": 34406,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Diese Einheit kann dazu benutzt werden, um die Einstellungen von nahen Strukturen zu ändern, beispielsweise den Zielort einer Raumspalte. Der geschickte Einsatz von Hacking-Fähigkeiten ist notwendig, aber beachten Sie, dass es eventuell nicht möglich ist, die Einstellungen ein zweites Mal zu ändern.",
+    "en": "This unit can be used to change settings of nearby structures, such as changing destination beacon for a spatial rift. Skillful use of hacking is required, but note that it might not be possible to adjust the settings a second time.",
+    "es": "Esta unidad se puede usar para cambiar los ajustes de estructuras cercanas, como por ejemplo para modificar la baliza de destino de una grieta espacial. Hay que ser buen hacker, pero aun así es posible que no se puedan modificar los ajustes por segunda vez.",
+    "fr": "Cette unité peut être utilisée pour modifier les paramètres de structures avoisinantes, comme une balise de destination pour une faille spatiale Une bonne utilisation du piratage est requise, mais veuillez noter qu'il pourrait ne pas être possible d'ajuster les paramètres une deuxième fois.",
+    "ja": "このユニットは近くにある建造物の設定を変更するときに使います。例えば、目的地ビーコンを空間の裂け目に変更する場合などです。うまくハッキングする必要がありますが、2回目の設定変更へできない場合もあることに注意してください。",
+    "ko": "공간균열의 좌표를 조정하는 등, 주변 구조물의 설정을 변경하는데 사용되는 장치입니다. 일정 수준 이상의 해킹 능력이 요구되며 한번 설정을 수정하면 재변경은 불가능합니다.",
+    "ru": "С помощью этого блока можно изменить настройки близлежащих сооружений (например, сменить точку выхода из пролома пространства). Требуется профессиональное применение навыков взлома компьютерных систем; учтите, что повторное изменение настроек может оказаться невозможным.",
+    "zh": "这个单元可以用来更改附近建筑的设置，比如更改终点信标到一个空间裂隙处。需要相当强的破译技术才能攻破它，不过要注意，设置只能更改一次。"
+  },
+  "graphicID": 1680,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Remote Reroute Unit",
     "en": "Remote Reroute Unit",
@@ -10,5 +23,11 @@
     "ru": "Remote Reroute Unit",
     "zh": "远程修正单元"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 205.0,
+  "sofFactionName": "genericbase",
+  "soundID": 20177,
   "volume": 27500.0
 }

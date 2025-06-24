@@ -1,5 +1,18 @@
 {
-  "typeID": 25719,
+  "basePrice": 125000.0,
+  "description": {
+    "de": "Fertigkeit im Steuern von schweren Angriffslenkwaffen. 5% Bonus auf die Schadenwirkung von schweren Angriffslenkwaffen je Skillstufe.",
+    "en": "Skill with heavy assault missiles. Special: 5% bonus to heavy assault missile damage per skill level.",
+    "es": "Habilidad con misiles de asalto pesados. Especial: 5 % de bonificación al daño de los misiles de asalto pesados por nivel de habilidad.",
+    "fr": "Compétence liée à l'utilisation des missiles d'assaut lourds. Spécificité : augmente de 5 % par niveau de compétence les dégâts des missiles d'assaut lourds.",
+    "ja": "ヘビーアサルトミサイルに関するスキル。特記 : スキルレベル上昇ごとにヘビーアサルトミサイルダメージに 5% のボーナス。",
+    "ko": "헤비 어썰트 미사일 운용을 위한 스킬입니다. 특수 효과: 매 레벨마다 헤비 어썰트 미사일 피해량 5% 증가",
+    "ru": "Навык эксплуатации тяжёлых штурмовых ракет. За каждую степень освоения навыка: на 5% повышается урон тяжёлых штурмовых ракет.",
+    "zh": "操作重型攻击导弹的技能。特殊能力：每升一级，重型攻击导弹的伤害提高5%。"
+  },
+  "groupID": 256,
+  "iconID": 33,
+  "marketGroupID": 373,
   "name": {
     "de": "Heavy Assault Missiles",
     "en": "Heavy Assault Missiles",
@@ -10,5 +23,7 @@
     "ru": "Тяжёлые штурмовые ракеты",
     "zh": "重型攻击导弹概论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

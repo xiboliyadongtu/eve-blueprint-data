@@ -1,5 +1,19 @@
 {
-  "typeID": 26298,
+  "description": {
+    "de": "Diese Schiffsmodifikation wurde dazu entwickelt, den Energiespeicherbedarf der Panzerungs-Fernreparaturmodule eines Schiffes zu verringern. Dies geschieht auf Kosten der Maximalgeschwindigkeit.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26253>Panzerungsmodifikation</a> reduziert werden.",
+    "en": "This ship modification is designed to reduce the capacitor need for a ship's remote armor repair modules at the expense of max velocity.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26253>Armor Rigging</a> skill.",
+    "es": "Esta modificación de nave está diseñada para reducir la necesidad del condensador de los módulos de reparación de blindaje remota a costa de la velocidad máxima.\n\n\n\nSe pueden reducir las desventajas de equipar este complemento desarrollando la habilidad <a href=showinfo:26253>Complementos de blindaje</a>.",
+    "fr": "Cette modification de vaisseau est conçue pour réduire les besoins énergétiques du capaciteur pour les modules de réparation de blindage à distance d'un vaisseau au détriment de sa vitesse maximum.\n\n\n\nLes inconvénients du montage de cette plateforme pourraient être réduits en entraînant la compétence <a href=showinfo:26253>Optimisation de blindage</a>.",
+    "ja": "この改造を行うと、最大速度を犠牲にして艦船のリモート装甲修復モジュールのキャパシタ消費量が減少する。このリグを装備することで発生するペナルティは、<a href=showinfo:26253>アーマーリギング</a>スキルをトレーニングすることで低減できる。",
+    "ko": "리그 장착 시 함선의 최대 속도가 감소하는 반면 원격 장갑수리 모듈 캐패시터 사용량도 감소합니다. <br><br>리그 부작용은 <a href=showinfo:26253>장갑 리그</a> 스킬 습득 시 감소합니다.",
+    "ru": "Эта модификация уменьшает потребление энергии дистанционными модулями ремонта брони за счёт уменьшения скорости полного хода корабля.\n\n\n\nНегативный эффект от установки этого тюнинг-модуля можно снизить, освоив навык <a href=showinfo:26253>Armor Rigging</a>, дающий пилоту глубокое понимание принципов работы систем броневой защиты.",
+    "zh": "这个飞船改装件通过牺牲舰船的最大速度来减少远程装甲维修装备的电容需求。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26253>装甲改装技术</a>技能降低影响。"
+  },
+  "groupID": 773,
+  "iconID": 3194,
+  "marketGroupID": 1208,
+  "mass": 200.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Large Remote Repair Augmentor II",
     "en": "Large Remote Repair Augmentor II",
@@ -10,5 +24,9 @@
     "ru": "Large Remote Repair Augmentor II",
     "zh": "大型远程维修增效器 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 100.0,
+  "variationParentTypeID": 25900,
   "volume": 20.0
 }

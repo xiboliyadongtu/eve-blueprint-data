@@ -1,5 +1,18 @@
 {
-  "typeID": 29167,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese Struktur bildet einen Teil des ersten Kommandonetzwerkes in diesem System, über welches die gesamten militärischen Operationen des Imperiums Amarr koordiniert werden.",
+    "en": "This structure forms part of the primary command net for this system, co-ordinating all Amarr Empire military operations.",
+    "es": "Esta estructura forma parte de la red de mando principal de este sistema, que coordina todas las operaciones militares del Imperio Amarr.",
+    "fr": "Cette structure fait partie du principal réseau de commandement de ce système, et coordonne toutes les opérations militaires de l'Empire amarr.",
+    "ja": "このシステムの主要なコマンドネットワークの一部を担う建造物。全アマー帝国の軍事作戦を調整する。",
+    "ko": "근처 항성계의 모든 아마르 제국 군사 작전을 지휘하는 지휘소입니다.",
+    "ru": "Это сооружение является частью основной сети управления в этой системе и предназначено для координации всех военных операций Империи Amarr.",
+    "zh": "这个建筑组成了这个系统中主要的控制网络，协调整个艾玛帝国的军事行动。"
+  },
+  "graphicID": 2593,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Amarr Tactical Command Post",
     "en": "Amarr Tactical Command Post",
@@ -10,5 +23,10 @@
     "ru": "Amarr Tactical Command Post",
     "zh": "艾玛战术指挥站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 3394.0,
+  "sofFactionName": "amarrbase",
   "volume": 100000000.0
 }

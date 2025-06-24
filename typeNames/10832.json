@@ -1,5 +1,18 @@
 {
-  "typeID": 10832,
+  "capacity": 3800.0,
+  "description": {
+    "de": "Konvois sind ein alltäglicher Anblick im Universum. Sie transportieren Güter von einem Ort zum anderen. Konvois haben in der Regel bewaffnete Eskorten, sie anzugreifen ist daher gefährlich.",
+    "en": "Convoys are a common sight in the universe of EVE, ferrying goods from one place to another. Convoys usually have armed escorts, so attacking them is risky.",
+    "es": "Ver convoyes transportando mercancías de un lugar a otro es de lo más habitual en el universo de EVE. Suelen tener escoltas armadas, por lo que atacarlos es arriesgado.",
+    "fr": "Les convois transportant des marchandises d'un endroit à un autre sont monnaie courante dans l'univers d'EVE. Les convois sont généralement fortement escortés et s'en prendre à eux est une entreprise risquée.",
+    "ja": "輸送船団はEVEユニバースでは一般的に見られ、各地へと物資を輸送している。輸送船団は武装した護衛艦を従えていることが多いため、襲撃にはリスクが伴う。",
+    "ko": "물품을 운반중인 수송대의 모습은 우주에서 흔히 볼 수 있는 광경입니다. 통상적으로 무장한 호위함을 거느리고 있기 때문에 섣부른 공격은 위험합니다.",
+    "ru": "Конвои часто встречаются во вселенной EVE, перевозя товары с одного места на другое. Конвои обычно ходят с хорошо вооруженным эскортом, поэтому нападать на них довольно рискованно.",
+    "zh": "护航队在EVE宇宙中很常见，它们把货物从一个地方运送到另一个地方。运载舰队通常都带有武装护卫队，攻击它们风险很大。"
+  },
+  "graphicID": 309,
+  "groupID": 297,
+  "mass": 112000000.0,
   "name": {
     "de": "Huckster",
     "en": "Huckster",
@@ -10,5 +23,10 @@
     "ru": "Huckster",
     "zh": "商运舰"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 660.0,
+  "sofFactionName": "minmatarbase",
   "volume": 1120000.0
 }

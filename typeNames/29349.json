@@ -1,5 +1,15 @@
 {
-  "typeID": 29349,
+  "description": {
+    "de": "Dieses Schlachtschiff der Apocalypse-Klasse wurde in zwei Teile gerissen. Obwohl das Heck stabil zu sein scheint, lassen die deutlich sichtbaren Risse am Reaktor darauf schließen, dass es eher keine Überlebenden gibt.",
+    "en": "This Apocalypse-class battleship has been torn in half; while the stern appears to be maintaining structural integrity, the obvious signs of reactor breaches make it very unlikely that anyone is left alive inside.",
+    "es": "Este acorazado de clase Apocalypse ha quedado partido por la mitad. Si bien la popa parece mantener la integridad estructural, los signos evidentes de roturas en el reactor hacen que sea muy poco probable que quede alguien con vida en el interior.",
+    "fr": "Ce cuirassé de classe Apocalypse est déchiré en deux. Alors que la structure arrière du vaisseau semble encore intacte, les fissures apparentes sur son réacteur ne laissent peu de doutes quant au sort des éventuels survivants.",
+    "ja": "半分に引き裂かれたアポカリプス級の戦艦。船尾部分は崩壊を免れているが、リアクターが放射能漏れを起こしていることは明らかであり、内部に生存者がいることは考えられない。",
+    "ko": "반으로 갈린 아포칼립스급 배틀쉽입니다. 선미는 비교적 온전한 형태를 유지하고 있으나 반응로가 파괴된 것을 보아 생존자가 있을 확률은 거의 없어보입니다.",
+    "ru": "Этот линкор класса Apocalypse расколот надвое. Остов кормовой части не был разрушен, но судя по серьезным повреждениям реактора, на корабле вряд ли уцелел хоть один человек.",
+    "zh": "这艘灾难级战列舰断成了两截；船尾部分的结构还保持着完整性，严重的反应堆泄漏使得里面有幸存者的可能性几乎为零。"
+  },
+  "groupID": 226,
   "name": {
     "de": "Apocalypse Stern",
     "en": "Apocalypse Stern",
@@ -10,5 +20,8 @@
     "ru": "Apocalypse Stern",
     "zh": "灾难级船尾"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 233.0
 }

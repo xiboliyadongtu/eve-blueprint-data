@@ -1,5 +1,17 @@
 {
-  "typeID": 11078,
+  "basePrice": 4000000.0,
+  "description": {
+    "de": "Fertigkeit, Schlachtschiffe der Jove zu bedienen.",
+    "en": "Skill at operating jove battleships.",
+    "es": "Habilidad en el manejo de acorazados jovianos.",
+    "fr": "Compétence liée au pilotage des cuirassés jove.",
+    "ja": "ジョビ戦艦を操作するためのスキル。",
+    "ko": "조브 배틀쉽 운용을 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на линкорах производства Джовианской Империи.",
+    "zh": "操作朱庇特战列舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
   "name": {
     "de": "Jove Battleship",
     "en": "Jove Battleship",
@@ -10,5 +22,8 @@
     "ru": "Джовианские линкоры",
     "zh": "朱庇特战列舰操作"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 16,
   "volume": 0.01
 }

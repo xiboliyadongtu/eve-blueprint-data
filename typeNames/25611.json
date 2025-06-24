@@ -1,5 +1,17 @@
 {
-  "typeID": 25611,
+  "description": {
+    "de": "Diese Pumpen übertragen Energie vom Energiespeicher eines Schiffs zu Laserverstärkern.",
+    "en": "Used to transfer energy from a ships capacitor to a laser gain medium.",
+    "es": "Se usa para transferir energía desde el condensador de la nave a un medio de ganancia láser.",
+    "fr": "Utilisée pour transférer l'énergie d'un capaciteur de vaisseau vers un dispositif d'amplification de laser.",
+    "ja": "船のキャパシタからエネルギーをレーザー利得媒質に移動させるために使用される。",
+    "ko": "함선의 캐패시터에서 레이저 매질로 에너지를 전송할 때 사용되는 펌프입니다.",
+    "ru": "Используется для передачи энергии от конденсатора корабля к его лазеру.",
+    "zh": "用于将能量从飞船电容器传送到激光增益介质。"
+  },
+  "groupID": 754,
+  "iconID": 3255,
+  "marketGroupID": 1863,
   "name": {
     "de": "Current Pump",
     "en": "Current Pump",
@@ -10,5 +22,7 @@
     "ru": "Current Pump",
     "zh": "电力泵"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,16 @@
 {
-  "typeID": 23782,
+  "description": {
+    "de": "Eine Prophecy, die von einem Agenten geflogen wird.",
+    "en": "A Prophecy piloted by an agent.",
+    "es": "Prophecy pilotada por un agente.",
+    "fr": "Un Prophecy piloté par un agent.",
+    "ja": "エージェントを乗せたプロフェシー。",
+    "ko": "에이전트가 조종하는 프로퍼시입니다.",
+    "ru": "Корабль класса Prophecy, управляемый агентом.",
+    "zh": "代理人驾驶的先知级飞船。"
+  },
+  "graphicID": 2385,
+  "groupID": 517,
   "name": {
     "de": "Cosmos Prophecy",
     "en": "Cosmos Prophecy",
@@ -10,5 +21,9 @@
     "ru": "Cosmos Prophecy",
     "zh": "深空 先知级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 198.0,
+  "sofFactionName": "amarrbase"
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 28159,
+  "description": {
+    "de": "Sofern betriebsbereit, erlaubt es der Reparaturdienst in dieser Station angedockten Kapselpiloten ihre Schiffe und Module zu reparieren.",
+    "en": "When operational, the Repair Service allows capsuleers to repair their ships and modules while docked in this station.",
+    "es": "Cuando está operativo, el servicio de reparación permite que los capsulistas reparen la nave y los módulos mientras están acoplados en esta estación.",
+    "fr": "Une fois opérationnel, le service de réparation permet aux capsuliers amarrés à la station de réparer leurs vaisseaux et leurs modules.",
+    "ja": "リペアサービスが稼働中のステーションにドッキングしている間、カプセラは艦船とモジュールの修理を行うことができる。",
+    "ko": "수리 서비스를 통해 함선 및 모듈을 수리할 수 있습니다.",
+    "ru": "Действующая служба ремонта позволяет капсулёрам доке станции ремонтировать модули и корабли.",
+    "zh": "启用后，玩家停靠在空间站中时可以使用维修服务来修理舰船和装备。"
+  },
+  "graphicID": 10026,
+  "groupID": 874,
+  "iconID": 21435,
+  "mass": 1.0,
   "name": {
     "de": "Repair Service",
     "en": "Repair Service",
@@ -10,5 +23,9 @@
     "ru": "Repair Service",
     "zh": "维修服务"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 5000.0,
   "volume": 1.0
 }

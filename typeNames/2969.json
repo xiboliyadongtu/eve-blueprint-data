@@ -1,5 +1,22 @@
 {
-  "typeID": 2969,
+  "basePrice": 517456.0,
+  "capacity": 0.25,
+  "description": {
+    "de": "Diese 720mm Haubitze mit Raketenunterstützung wurde für Langstreckenbombardierungen konstruiert. Sie muss mit einer der folgenden Projektil-Munitionssorten (regulär oder fortschrittlich) geladen werden: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, Titanium Sabot, Quake oder Tremor.",
+    "en": "This 720mm rocket-assisted howitzer is designed for long-range bombardment. \r\n\r\nMust be loaded with any of the following regular and advanced projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, Titanium Sabot, Quake, Tremor.",
+    "es": "Este obús de 720 mm propulsado por cohete está diseñado para bombardeos a gran distancia. \n\n\n\nDebe cargarse con cualquiera de los siguientes tipos de munición de proyectiles normales o avanzados: plomo carbonado, uranio empobrecido, EMP, fusión, nuclear, plasma fásico, protón, perforante de titanio, Quake y Tremor.",
+    "fr": "Cet howitzer 720 mm assisté par roquette est conçu pour des bombardements longue portée. \n\nRequiert les types de munitions de projectile normales et perfectionnées suivants : plomb trempé, uranium appauvri, IEM, fusion, nucléaire, plasma à phase, proton, sabot de titane, quake, tremor.",
+    "ja": "ロケット推進力によって実弾を発射する720mmハウイッツァー。長距離射程の攻撃に適している。\n\n装填可能な標準型または高性能プロジェクタイル弾のタイプ : 炭化鉛弾、劣化ウラン弾、EMP弾、フュージョン弾、ニュークリア弾、フェーズプラズマ弾、プロトン弾、チタン製サボット弾、クェーク弾、トレマー弾。",
+    "ko": "장거리 폭격에 특화된 720mm 로켓보조 곡사포입니다. <br><br>사용 및 장착 가능한 발사체: 탄화납, 열화 우라늄, EMP, 융합, 원자력, 위상 플라즈마, 양성자, 티타늄 사봇, 퀘이크, 트래머.",
+    "ru": "Эта гаубица калибра 720 мм предназначена для ведения массированного огня активно-реактивными снарядами на большие расстояния. \n\nДля стрельбы из гаубицы используются стандартные и усовершенствованные снаряды следующих типов: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, Titanium Sabot, Quake, Tremor.",
+    "zh": "这种720mm榴弹炮有火箭助推，专为远程轰炸而设计。\r\n\r\n必须装填以下类型的常规和高级射弹弹药：碳铅弹、硬钼弹、电磁脉冲弹、聚变弹、核芯弹、定相离子弹、质子弹、钛合金萨博弹、“地震”、“战栗”。"
+  },
+  "graphicID": 11283,
+  "groupID": 55,
+  "iconID": 384,
+  "marketGroupID": 578,
+  "mass": 50.0,
+  "metaGroupID": 2,
   "name": {
     "de": "720mm Howitzer Artillery II",
     "en": "720mm Howitzer Artillery II",
@@ -10,5 +27,10 @@
     "ru": "720mm Howitzer Artillery II",
     "zh": "720mm榴弹炮 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 200.0,
+  "sofFactionName": "brutor",
+  "variationParentTypeID": 493,
   "volume": 10.0
 }

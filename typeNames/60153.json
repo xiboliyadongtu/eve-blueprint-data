@@ -1,5 +1,18 @@
 {
-  "typeID": 60153,
+  "capacity": 300.0,
+  "description": {
+    "de": "Dieser Kreuzer der <i>Enforcer</i>-Klasse wurde als Plattform für die elektronische Kriegsführung eingerichtet und stört die Zielerfassungssensoren aller Schiffe, die in den SCC-Sicherheitsschlüsselspeicher eindringen. Es wäre unklug, die Aufmerksamkeit dieses starken Kampfunterstützungskreuzers auf sich zu ziehen.",
+    "en": "This <i>Enforcer</i>-class cruiser is set up as an electronic warfare platform that will jam the targeting sensors of of any ships intruding into the SCC Secure Key Storage. It would be unwise to draw the attention of this potent combat support cruiser.",
+    "es": "Este crucero de clase <i>Enforcer</i> está configurado como una plataforma de guerra electrónica que perturbará los sensores de adquisición de objetivos de cualquier nave que se entrometa en el almacenamiento seguro de claves de la CCS. Sería imprudente llamar la atención de este poderoso crucero de apoyo de combate.",
+    "fr": "Ce croiseur de classe <i>Enforcer</i> sert de plateforme de guerre électronique, et brouille les détecteurs de ciblage de tout vaisseau tentant de s'introduire sur les sites de stockage de clés sécurisées de la CCS. Il ne serait pas sage d'attirer l'attention de ce redoutable croiseur de soutien.",
+    "ja": "この<i>エンフォーサー</i>級巡洋艦は、SCCセキュアキー保管庫に侵入するあらゆる艦船のターゲットセンサーを妨害する電子戦プラットフォームとして準備されている。この強力な戦闘支援用巡洋艦の注意を引くのは賢明とは言えないだろう。",
+    "ko": "전자전 장비를 보유한 <i>인포서</i>급 크루저로 적 함선의 추적 센서를 무력화합니다. 접근 시 각별한 주의가 요구됩니다.",
+    "ru": "Этот крейсер класса <i>«Энфорсер»</i>, разработанный специально для ведения электронной борьбы, глушит системы наведения вражеских кораблей, вторгающихся в защищённое хранилище ключа КпБТ. От этого опасного крейсера боевой поддержки лучше держаться подальше.",
+    "zh": "这艘<i>执法者级</i>巡洋舰是一座电子战平台，会对任何侵入商业安全委员会密钥储存设施的舰船的锁定感应器进行干扰。引起这艘强大的战斗支援巡洋舰的注意可是件危险的事。"
+  },
+  "graphicID": 21489,
+  "groupID": 1813,
+  "mass": 12500000.0,
   "name": {
     "de": "SCC Security Jammer",
     "en": "SCC Security Jammer",
@@ -10,5 +23,11 @@
     "ru": "SCC Security Jammer",
     "zh": "商业安全委员会安保部 阻扰者"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 200.0,
+  "sofFactionName": "concordcivilian",
+  "soundID": 20078,
   "volume": 116000.0
 }

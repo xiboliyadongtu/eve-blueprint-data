@@ -1,5 +1,65 @@
 {
-  "typeID": 81046,
+  "basePrice": 111500000.0,
+  "capacity": 4000.0,
+  "description": {
+    "de": "Als Upwell den Bedarf an einem Blockadebrecher erkannte, modifizierte es sein Squall-Design mit neuen fortgeschrittenen leichten Materialien und Tarnvorrichtungen. Obwohl der Infrastruktur-Hangar kleiner ist und ein Teil der Lenkwaffenfeuerkraft verloren ging, hat die Deluge sowohl innerhalb als auch außerhalb des Warps ihre Mobilität erheblich verbessert, was sie zur idealen Wahl für alle Infrastruktur-Anforderungen am Rande des zivilisierten Weltraums macht.",
+    "en": "Seeing the need to develop a Blockade Runner, Upwell modified their Squall design with new advanced lightweight materials and cloaking capabilities. While the infrastructure hold is smaller, and some of the missile firepower was lost, the Deluge has vastly improved mobility both in and out of warp, making it the ideal choice for all infrastructure needs on the fringes of civilized space.",
+    "es": "Upwell, ante la necesidad de desarrollar una nave de bloqueo, modificó su diseño de la Squall con capacidades de camuflaje y materiales ligeros y avanzados. Aunque la bodega de infraestructuras es más pequeña y se perdió parte de la potencia de fuego de misiles, la Deluge tiene una movilidad considerablemente mejor tanto en la salida como en la entrada del warp, lo que la convierte en la opción ideal para todas las necesidades infraestructurales en los confines del espacio civilizado.",
+    "fr": "Constatant la nécessité de développer un forceur de blocus, Upwell a modifié son modèle Squall avec de nouveaux matériaux légers avancés et en lui ajoutant des capacités de camouflage. Malgré sa baie d'infrastructure plus petite et la perte d'une partie de la puissance de feu de ses missiles, le Deluge dispose d'une mobilité considérablement améliorée, en warp ou non, ce qui en fait le choix idéal pour les infrastructures aux confins de l'espace civilisé.",
+    "ja": "封鎖突破型輸送艦の必要性を認識したアップウェルは、スコールの設計に軽量な先進的な新素材を採用し、遮蔽能力を持たせた。こうして誕生したデリュージはインフラホールドが減少しミサイルの火力も落ちているものの、ワープ中とワープ外の両方における機動性が大幅に向上しており、文明圏の辺境宙域におけるインフラ関連のあらゆるニーズに応える理想的な選択肢となっている。",
+    "ko": "업웰은 블록케이드 러너 개발의 필요성을 절실하게 느껴 스퀄의 기본 설계에 최신 경량 재질을 도입하고 클로킹 기능을 추가하였습니다. 그렇게 탄생한 델유즈는 구조물 격납고의 규모가 축소되고 미사일 화력도 일부 상실했지만, 워프 진입 및 탈출 속도가 크게 향상되어 법의 질서가 통용되지 않은 외곽 지대에서 구조물을 운송하기 위한 최적의 함선이 되었습니다.",
+    "ru": "В ответ на возросшую потребность в кораблях прорыва блокады инженеры консорциума «Апвелл» модифицировали конструкцию Squall, добавив в неё систему маскировки и заменив устаревшие материалы на более лёгкие и современные. Новый корабль класса Deluge обладает меньшей вместимостью и огневой мощью, однако может похвастаться отличной подвижностью как в обычном, так и в варп-режиме. Он идеально подходит для выполнения логистических задач на окраинах освоенного космоса.",
+    "zh": "由于出现开发偷运舰的需求，昇威改良了狂风级设计，采用了新型高级轻质材料并增添了隐形功能。尽管基础设施舱变小，且失去部分导弹火力，但洪水级在跃迁进出时机动性得到极大提升，使其成为文明空间边界满足所有基础设施需求的理想选择。"
+  },
+  "factionID": 500027,
+  "graphicID": 27538,
+  "groupID": 1202,
+  "marketGroupID": 3578,
+  "mass": 10800000.0,
+  "masteries": {
+    "0": [
+      96,
+      108,
+      139,
+      76,
+      117,
+      94
+    ],
+    "1": [
+      96,
+      108,
+      139,
+      76,
+      117,
+      94
+    ],
+    "2": [
+      96,
+      108,
+      139,
+      76,
+      117,
+      94
+    ],
+    "3": [
+      96,
+      108,
+      139,
+      76,
+      117,
+      94
+    ],
+    "4": [
+      96,
+      108,
+      139,
+      76,
+      117,
+      118,
+      94
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Deluge",
     "en": "Deluge",
@@ -10,5 +70,180 @@
     "ru": "Deluge",
     "zh": "洪水级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 168,
+  "radius": 216.4,
+  "sofFactionName": "upwell-ship",
+  "soundID": 20069,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Kann <a href=showinfo:11578>Covert-Ops-Tarnvorrichtung</a> und <a href=showinfo:28646>getarnten Anziehungsfeldgenerator</a> ausrüsten",
+          "en": "Can fit <a href=showinfo:11578>Covert Ops Cloaking Device</a> and <a href=showinfo:28646>Covert Cynosural Field Generator</a>",
+          "es": "Es posible equipar un <a href=showinfo:11578>dispositivo de camuflaje de operaciones encubiertas</a> y un <a href=showinfo:28646>generador de campo cinosural encubierto</a>.",
+          "fr": "Peut utiliser un <a href=showinfo:11578>dispositif de camouflage opérations secrètes</a> et un <a href=showinfo:28646>générateur de champ cynosural furtif</a>",
+          "ja": "<a href=showinfo:11578>光学迷彩型遮蔽装置</a>と<a href=showinfo:28646>潜伏用サイノシュラルフィールドジェネレーター</a>を装備可能",
+          "ko": "<a href=showinfo:11578>코버트 옵스 클로킹 장치</a> 및 <a href=showinfo:28646>코버트 사이노슈럴 필드 생성기</a> 장착 가능",
+          "ru": "Возможно оснащение <a href=showinfo:11578>всережимной системой маскировки</a> и <a href=showinfo:28646>приводным маяком скрытого действия</a>",
+          "zh": "Can fit <a href=showinfo:11578>Covert Ops Cloaking Device</a> and <a href=showinfo:28646>Covert Cynosural Field Generator</a>"
+        },
+        "importance": 2
+      },
+      {
+        "bonusText": {
+          "de": "Verzögerung bei Reaktivierung des <a href=showinfo:11579>Tarnmoduls</a> auf 5 Sekunden reduziert",
+          "en": "<a href=showinfo:11579>Cloak</a> reactivation delay reduced to 5 seconds",
+          "es": "Reducción de la demora de reactivación del <a href=showinfo:11579>camuflaje</a> a 5 segundos.",
+          "fr": "Délai de réactivation du <a href=showinfo:11579>camouflage</a> réduit à 5 secondes",
+          "ja": "<a href=showinfo:11579>クローク</a>の再起動遅延を5秒に短縮",
+          "ko": "<a href=showinfo:11579>클로킹</a> 재가동 지연 시간 5초로 감소",
+          "ru": "Задержка повторного включения <a href=showinfo:11579>систем маскировки</a> снижена до 5 секунд",
+          "zh": "<a href=showinfo:11579>Cloak</a> reactivation delay reduced to 5 seconds"
+        },
+        "importance": 3
+      },
+      {
+        "bonusText": {
+          "de": "Immun gegen alle <a href=showinfo:442>Frachtscanner</a>",
+          "en": "Immune to all <a href=showinfo:442>Cargo Scanners</a>",
+          "es": "Inmune a todos los <a href=showinfo:442>escáneres de carga</a>.",
+          "fr": "Immunisé contre tous les <a href=showinfo:442>scanners de soute</a>",
+          "ja": "全ての<a href=showinfo:442>カーゴスキャナー</a>への耐性",
+          "ko": "<a href=showinfo:442>화물 스캐너</a> 면역",
+          "ru": "Невосприимчивость к воздействию любых <a href=showinfo:442>сканеров груза</a>",
+          "zh": "Immune to all <a href=showinfo:442>Cargo Scanners</a>"
+        },
+        "importance": 4
+      },
+      {
+        "bonusText": {
+          "de": "kann eine Verbindung zu <a href=showinfo:81933>Reagenz-Silos des orbitalen Skyhooks</a> herstellen, die die üblichen Klassenbeschränkungen umgeht",
+          "en": "can link to <a href=showinfo:81933>Orbital Skyhook Reagent Silos</a> bypassing the normal ship class restrictions",
+          "es": "puede enlazar a los <a href=showinfo:81933>depósitos de reactivos de ganchos orbitales</a> burlando las restricciones normales de clase de la nave",
+          "fr": "peut établir un lien avec les <a href=showinfo:81933>silos de réactifs du grappin orbital</a> en contournant les restrictions habituelles du vaisseau",
+          "ja": "通常の艦船クラス制限を受けることなく、<a href=showinfo:81933>軌道スカイフックの反応試剤サイロ</a>に接続可能",
+          "ko": "함선 제한에 영향을 받지 않으며 <a href=showinfo:81933>궤도 스카이훅의 촉매 사일로</a>와 연결할 수 있습니다.",
+          "ru": "даёт доступ к <a href=showinfo:81933>хранилищу реагентов орбитального подъёмника</a> в обход стандартных ограничений по классам кораблей",
+          "zh": "可以绕过一般舰船限制，直接连接到<a href=showinfo:81933>轨道天钩试剂储藏库</a>"
+        },
+        "importance": 6
+      },
+      {
+        "bonus": 90.0,
+        "bonusText": {
+          "de": "Reduktion der Ausrüstungsanforderungen für <a href=showinfo:3324>schwere Lenkwaffen</a>, <a href=showinfo:25719>schwere Angriffslenkwaffen</a> und <a href=showinfo:3321>schnelle leichte Lenkwaffenwerfer</a> für CPU und Stromnetz",
+          "en": "reduction to <a href=showinfo:3324>Heavy Missile</a>, <a href=showinfo:25719>Heavy Assault Missile</a> and <a href=showinfo:3321>Rapid Light Missile Launcher</a> cpu and powergrid fitting requirements",
+          "es": "de reducción a los requisitos de equipamiento de sistema de potencia y CPU de los <a href=showinfo:3324>lanzamisiles pesados</a>, los <a href=showinfo:25719>lanzamisiles de asalto pesados</a> y los <a href=showinfo:3321>lanzamisiles ligeros rápidos</a>.",
+          "fr": "de réduction des prérequis de montage de CPU et de réseau d'alimentation pour les <a href=showinfo:3324>missiles lourds</a>, <a href=showinfo:25719>missiles d'assaut lourds</a> et <a href=showinfo:3321>lance-missiles légers rapides</a>",
+          "ja": "<a href=showinfo:3324>ヘビーミサイル</a>、<a href=showinfo:25719>ヘビーアサルトミサイル</a>、そして<a href=showinfo:3321>高速ライトミサイルランチャー</a>を装備した際のCPUとパワーグリッドの使用量が減少",
+          "ko": "<a href=showinfo:3324>헤비 미사일</a>, <a href=showinfo:25719>헤비 어썰트 미사일</a>, <a href=showinfo:3321>급속 라이트 미사일 런처</a> CPU 및 파워그리드 요구치 감소",
+          "ru": "снижение требований к мощности ЦПУ и реактора для пусковых установок <a href=showinfo:3324>тяжёлых ракет</a>, <a href=showinfo:25719>тяжёлых штурмовых ракет</a> и <a href=showinfo:3321>лёгких скорострельных ракет</a>",
+          "zh": "减少对<a href=showinfo:3324>重型导弹</a>、<a href=showinfo:25719>重型攻击导弹</a>和<a href=showinfo:3321>快速轻型导弹发射器</a>的CPU和能量栅格的装配要求"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 90.0,
+        "bonusText": {
+          "de": "Reduktion der effektiv zurückgelegten Distanz für die Sprungerschöpfung",
+          "en": "reduction to effective distance traveled for jump fatigue",
+          "es": "de reducción de la distancia efectiva hasta sufrir fatiga de salto.",
+          "fr": "de réduction de la distance effective comptabilisée pour l'épuisement de saut",
+          "ja": "ジャンプ疲労までの移動有効距離が減少",
+          "ko": "이동 거리에 따른 점프 피로도 감소",
+          "ru": "замедление накопления усталости от гиперпрыжков",
+          "zh": "reduction to effective distance traveled for jump fatigue"
+        },
+        "importance": 5,
+        "unitID": 105
+      },
+      {
+        "bonus": 75.0,
+        "bonusText": {
+          "de": "Bonus auf die Warpgeschwindigkeit und Warpbeschleunigung",
+          "en": "bonus to warp speed and warp acceleration",
+          "es": "de bonificación a la velocidad y la aceleración de warp.",
+          "fr": "de bonus à la vitesse de warp et à l'accélération de warp",
+          "ja": "ワープ速度とワープ加速度が上昇",
+          "ko": "워프 속도 및 워프 가속도 증가",
+          "ru": "бонус к разгону и скорости хода (в варп-режиме)",
+          "zh": "跃迁速度和跃迁加速加成"
+        },
+        "importance": 6,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "19719": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf die Warpgeschwindigkeit und Warpbeschleunigung",
+            "en": "bonus to warp speed and warp acceleration",
+            "es": "de bonificación a la velocidad y la aceleración de warp.",
+            "fr": "de bonus à la vitesse de warp et à l'accélération de warp",
+            "ja": "ワープ速度とワープ加速度が上昇",
+            "ko": "워프 속도 및 워프 가속도 증가",
+            "ru": "бонус к разгону и скорости хода (в варп-режиме)",
+            "zh": "bonus to warp speed and warp acceleration"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 20.0,
+          "bonusText": {
+            "de": "Reduktion der CPU-Anforderung von <a href=showinfo:11579>Tarnmodulen</a>",
+            "en": "reduction in <a href=showinfo:11579>Cloaking Devices</a> CPU requirement",
+            "es": "de reducción del requisito de CPU de los <a href=showinfo:11579>dispositivos de camuflaje</a>.",
+            "fr": "de réduction du CPU requis par les <a href=showinfo:11579>dispositifs de camouflage</a>",
+            "ja": "<a href=showinfo:11579>遮蔽装置</a>の必要CPUが減少",
+            "ko": "<a href=showinfo:11579>클로킹 장치</a> CPU 사용량 감소",
+            "ru": "снижение требований к ЦПУ для <a href=showinfo:11579>систем маскировки</a>",
+            "zh": "reduction in <a href=showinfo:11579>Cloaking Devices</a> CPU requirement"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ],
+      "81032": [
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die Kapazität des Infrastruktur-Hangars des Schiffs",
+            "en": "bonus to ship infrastructure hold capacity",
+            "es": "de bonificación a la capacidad de la bodega de infraestructura de la nave.",
+            "fr": "de bonus à la capacité de la baie d'infrastructure du vaisseau",
+            "ja": "艦船のインフラホールド容量が増加",
+            "ko": "구조물 격납고 적재량 증가",
+            "ru": "бонус к вместимости логистического отсека",
+            "zh": "舰船基础设施舱容量加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 15.0,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von Lenkwaffen",
+            "en": "bonus to missile damage",
+            "es": "de bonificación al daño de los misiles.",
+            "fr": "bonus aux dégâts des missiles",
+            "ja": "ミサイルの与えるダメージが増加",
+            "ko": "미사일 피해량 증가",
+            "ru": "бонус к урону от ракет",
+            "zh": "bonus to missile damage"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 81008,
   "volume": 200000.0
 }

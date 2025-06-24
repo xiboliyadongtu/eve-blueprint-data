@@ -1,5 +1,17 @@
 {
-  "typeID": 28843,
+  "description": {
+    "de": "Dieser Datenspeicher wurde verändert und damit für die weitere Produktion untauglich gemacht. Jetzt ist er lediglich noch als Referenz zu gebrauchen.",
+    "en": "This datacore has been altered and thus rendered useless for manufacturing purposes. It has value only as a reference tool.",
+    "es": "Este núcleo de datos ha sido modificado y, por tanto, resulta inútil para fines de fabricación. Solo tiene valor como herramienta de referencia.",
+    "fr": "Cette banque de données a été altérée, la rendant ainsi inutilisable pour la production. Elle ne peut plus servir que d'outil de référence.",
+    "ja": "このデータコアは改造されているため、製造目的には使用できないようになっている。参照ツールとしての価値しかない。",
+    "ko": "해당 데이터코어는 변질되어 제조 작업에서의 사용이 불가능합니다. 참고 용도 외에는 쓸모가 없습니다.",
+    "ru": "Этот инфоблок был изменен и теперь непригоден для производства. Его можно использовать только в качестве образца.",
+    "zh": "这个数据核心已经被人改动过，所以对制造来说毫无用处。它唯一的价值是可以用作参考工具。"
+  },
+  "groupID": 314,
+  "iconID": 3231,
+  "mass": 0.75,
   "name": {
     "de": "Altered Datacore - Mechanical Engineering",
     "en": "Altered Datacore - Mechanical Engineering",
@@ -10,5 +22,7 @@
     "ru": "Altered Datacore - Mechanical Engineering",
     "zh": "修改过的数据核心 - 机械工程"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 25602,
+  "description": {
+    "de": "Die Kontrolleinheit für die Thruster eines Schiffs.",
+    "en": "The control unit for a starships thrusters.",
+    "es": "Unidad de control de los sistemas de propulsor de las naves.",
+    "fr": "Unité de contrôle des propulseurs équipant les vaisseaux.",
+    "ja": "宇宙船のスラスター制御ユニット。",
+    "ko": "함선 추진기에 사용되는 제어 장치입니다.",
+    "ru": "Контрольный модуль для двигателей звездных кораблей.",
+    "zh": "星舰推进系统的控制组件。"
+  },
+  "groupID": 754,
+  "iconID": 3256,
+  "marketGroupID": 1863,
   "name": {
     "de": "Thruster Console",
     "en": "Thruster Console",
@@ -10,5 +22,7 @@
     "ru": "Thruster Console",
     "zh": "推进装置控制台"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

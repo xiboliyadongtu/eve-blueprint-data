@@ -1,5 +1,18 @@
 {
-  "typeID": 3858,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieses Lager enthält Treibstoff für die umliegenden Strukturen.",
+    "en": "This depot contains fuel for the surrounding structures.",
+    "es": "Este almacén contiene combustible para las estructuras circundantes.",
+    "fr": "Ce dépôt contient du carburant pour les structures alentours.",
+    "ja": "この補給所には、周辺の建造物で使用される燃料が保管されている。",
+    "ko": "이 저장고는 근방의 구조물을 위한 연료를 보관하고 있습니다.",
+    "ru": "На этом складе хранится топливо для окружающих его сооружений.",
+    "zh": "这个仓库为周围的设施提供燃料。"
+  },
+  "graphicID": 2007,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Tutorial Fuel Depot",
     "en": "Tutorial Fuel Depot",
@@ -10,5 +23,9 @@
     "ru": "Tutorial Fuel Depot",
     "zh": "训练用燃料库"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 1226.0,
+  "sofFactionName": "genericbase",
   "volume": 100000000.0
 }

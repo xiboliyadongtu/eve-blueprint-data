@@ -1,5 +1,19 @@
 {
-  "typeID": 18582,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieser gepanzerte Container fliegt, sich lautlos überschlagend, frei im Weltraum und wird von stärkeren Schiffen bewacht, als die, die Sie auf Patrouille in den umliegenden Lagereinrichtungen gesehen haben.",
+    "en": "This reinforced container revolves silently in space, and is guarded by somewhat stronger ships than what you've seen patrolling the enormous cargo rigs around it.",
+    "es": "Este contenedor reforzado vaga en silencio por el espacio y está protegido por naves algo más fuertes que las que se ven patrullando por los enormes complementos de carga de los alrededores.",
+    "fr": "Ce conteneur renforcé tourne en silence dans le vide spatial. Il est gardé par des vaisseaux apparemment plus puissants que tout ce que vous avez vu patrouiller autour des autres plateformes cargos.",
+    "ja": "静かに宇宙を漂流する強化コンテナ。巨大なカーゴリグをパトロールしている船よりも、さらに強力な船で守られている。",
+    "ko": "우주를 조용히 맴돌고 있는 강화된 컨테이너입니다. 주변의 거대한 화물 하역장을 순찰하는 함선들보다 더 강력한 함선들이 지키고 있습니다.",
+    "ru": "Армированный контейнер мирно вращается в космосе и охраняется более мощными кораблями, чем те, которые патрулировали вокруг гигантских грузовых платформ.",
+    "zh": "这个加固的集装箱在宇宙中悄然无息地旋转着，由一些比巨大货柜平台周围的巡逻舰还要强大的战舰看护着。"
+  },
+  "graphicID": 1176,
+  "groupID": 496,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Storage Taxes",
     "en": "Storage Taxes",
@@ -10,5 +24,10 @@
     "ru": "Storage Taxes",
     "zh": "被保卫的货舱"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericmetal",
+  "soundID": 31,
   "volume": 10500.0
 }

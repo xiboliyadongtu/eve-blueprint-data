@@ -1,5 +1,21 @@
 {
-  "typeID": 41314,
+  "basePrice": 50000.0,
+  "description": {
+    "de": "Bei Hail handelt es sich um den Versuch, die Durchschlagskraft eines Titan-Kopfs mit der Flexibilität einer Hülle aus erschöpften Uran zu verbinden. Das Schadenspotential dieser Munition ist äußerst hoch, sie eignet sich aber nicht bei großen Reichweiten. Ein Pilot, der diese Munition verwendet, sollte sich darüber im Klaren sein, dass ein Schaden von verheerendem Ausmaß zu Lasten von optimaler Reichweite, Präzisionsabfall-Reichweite und Nachführgeschwindigkeit geht.\n\n\n\n25 % weniger Präzisionsabfall.\n\n50% geringere optimale Reichweite.\n\n30% niedrigere Nachführgeschwindigkeit.\n\n\n\nHinweis: Diese Munition kann nur von Capital-Maschinenkanonen der Technologiestufe II und Fraktionsvarianten benutzt werden.",
+    "en": "Hail is an attempt to combine the penetration of titanium sabot with the versatility of a depleted uranium shell. It has tremendous damage potential, but should not be used at long ranges. Any pilot using this ammunition should be prepared to trade optimal range, falloff range, and tracking speed for a devastating amount of damage.\r\n\r\n25% reduced falloff.\r\n50% reduced optimal range.\r\n30% reduced tracking speed.\r\n\r\nNote: This ammunition can only be used by capital tech level II and faction Autocannons.",
+    "es": "Hail es un intento de combinar la potencia del perforante de titanio con la versatilidad de un proyectil de uranio empobrecido. Tiene un tremendo potencial destructor, pero no debe usarse a larga distancia. Cualquier piloto que recurra a esta munición debe estar preparado para cambiar el alcance óptimo, el alcance efectivo y la velocidad de rastreo por una cantidad devastadora de daño.\n\n\n\nAlcance efectivo reducido un 25 %.\n\nAlcance óptimo reducido un 50 %.\n\nVelocidad de rastreo reducida un 30 %.\n\n\n\nAviso: Esta munición solo es compatible con cañones automáticos T2 y faccionarios para naves capitales.",
+    "fr": "Les munitions grêle combinent la pénétration du sabot de titane et la polyvalence d'un obus d'uranium appauvri. Elles font des ravages à courte portée, mais se révèlent médiocres à longue portée : la grêle sacrifie la portée optimale, la portée de déperdition et la vitesse de poursuite au profit de dégâts dévastateurs.\n\n\n\nRéduit de 25 % la déperdition.\n\nRéduit de 50 % la portée optimale.\n\nRéduit de 30 % la vitesse de poursuite.\n\n\n\nRemarque : ces munitions sont réservées aux canons automatiques capitaux de tech II et faction.",
+    "ja": "ヘイルとはチタン製サボット弾の貫通力と劣化ウラン弾の汎用性を組み合わせようとして作られたものである。これは驚異的なダメージを与える力を秘めているが、長距離の使用には向いていない。この弾薬を使用する場合は圧倒的な攻撃力を得る代わりに、最適射程距離、精度低下範囲、トラッキング速度を犠牲にする覚悟が必要である。精度低下範囲が25%縮小。最適射程距離が50%縮小。トラッキング速度が30%減少。注： 大型T2とファクションオートキャノン専用。",
+    "ko": "헤일은 티타늄 철갑탄의 관통력과 열화 우라늄탄의 범용성을 동시에 취하기 위한 고민 끝에 탄생하였습니다. 대단히 강력한 화력을 보유하고 있지만, 장거리 사격에는 적합하지 않습니다. 막강한 화력을 가진 반면 비교적 최적사거리 및 유효사거리가 짧으며 트래킹 속도가 낮은 편입니다. <br><br>유효사거리 25% 감소 <br>최적사거리 50% 감소 <br>트래킹 속도 30% 감소 <br><br>참고: 캐피탈 테크 II 및 팩션 기관포에만 사용할 수 있습니다.",
+    "ru": "Боеприпасы типа «Хейл» являются попыткой объединить проникающую способность подкалиберного титанового снаряда с поддоном с универсальностью снаряда из обедненного урана. Они производят страшные разрушения, но не годятся для стрельбы на большие дистанции. Любой пилот, использующий эти боеприпасы, должен быть готов пожертвовать оптимальной дальностью стрельбы, эффективной дальностью стрельбы и скоростью слежения в обмен на значительное увеличение наносимого ими ущерба.\n\n\n\nСнижает добавочную дальность на 25%.\n\nНа 50%.снижается оптимальная дальность ведения огня.\n\nНа 30% снижается скорость наводки орудий.\n\n\n\nВнимание! Данные боеприпасы используются только в автоматических пушках КБТ-класса второй техкатегории, а также пиратских или армейских модификаций.",
+    "zh": "“冰雹”型弹药的设计意图是将钛合金萨博弹的穿透性与硬钼弹的多功能性相结合。这种弹药具有极强的破坏力，但是却不能在远距离上体现其价值。任何使用这种弹药的飞行员都必须意识到，在拥有强大破坏力的同时，炮的最佳射程、失准范围与跟踪速度都会降低。\n\n\n\n失准范围减少25%。\n\n最佳射程减少50%。\n\n跟踪速度降低30%。\n\n\n\n注：只能用于旗舰级二级科技或势力自动加农炮。"
+  },
+  "graphicID": 1301,
+  "groupID": 372,
+  "iconID": 2828,
+  "marketGroupID": 2253,
+  "mass": 1.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Hail XL",
     "en": "Hail XL",
@@ -10,5 +26,9 @@
     "ru": "Hail XL",
     "zh": "冰雹 XL"
   },
+  "portionSize": 100,
+  "published": true,
+  "radius": 10.0,
+  "variationParentTypeID": 17666,
   "volume": 0.125
 }

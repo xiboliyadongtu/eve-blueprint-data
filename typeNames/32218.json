@@ -1,5 +1,17 @@
 {
-  "typeID": 32218,
+  "description": {
+    "de": "Diese Datenknoten schützen ihre Geheimnisse mit einem mächtigen Verschlüsslungscode. Das einzigartige Design dieser Verschlüsslung ist eindeutig geschützt und wird nirgendwo sonst benutzt. Die Sicherheitssoftware, welche für den Schutz zuständig ist, stellt einen seltsamen Zusammenschluss gallentischer und caldarischer Entwürfe dar.",
+    "en": "This data node guards its secrets with a powerful encryption cipher. The unique design of the encryption is clearly proprietary and not something used elsewhere. The security software driving the protection represents a strange mixture of Gallente and Caldari designs.",
+    "es": "Este nodo de datos guarda sus secretos con un potente código de encriptación, cuyo único diseño es de propiedad privada y no puede usarse por ahí. El software de seguridad que controla la protección muestra una extraña mezcla de diseños gallentes y caldaris.",
+    "fr": "Les secrets contenus dans ce nœud de données sont protégés par un système de cryptage très efficace. De plus, son modèle unique n'est utilisé nulle part ailleurs. Le logiciel de sécurité assurant sa protection est un curieux mélange de technologies gallente et caldari.",
+    "ja": "強力な暗号でデータが保護されているデータノード。独特な暗号化方式は、明らかに独自の方式で、他のところでは使用されていない。使用するセキュリティソフトウェアは、ガレンテとカルダリの方式を合わせた奇妙な方法であることが分かっている。",
+    "ko": "데이터 노드에 등록된 정보는 강력한 암호 장치로 보호되고 있습니다. 설계 구조로 보아 독자적인 기술이 사용되었을 것으로 추측됩니다. 설치되어 있는 보안 소프트웨어에서는 갈란테와 칼다리 기술이 섞인 듯한 묘한 느낌이 감지됩니다.",
+    "ru": "Этот узел данных защищает свои секреты сложным кодом шифрования. Система шифрования явно была создана специально для данного узла и не используется нигде больше. Защитная программа, контролирующая безопасность, представляет собой странное сочетание программных архитектур Gallente и Caldari.",
+    "zh": "这块数据节点用强大的加密技术保护着中间的秘密。独特的加密技术设计一看就知道是私人所有，不会在别处重复使用的技术。其中的安全防护软件更是采用了一种盖伦特和加达里技术混合的奇特设计。"
+  },
+  "groupID": 314,
+  "iconID": 2037,
+  "mass": 1.0,
   "name": {
     "de": "Encrypted Data Fragment",
     "en": "Encrypted Data Fragment",
@@ -10,5 +22,7 @@
     "ru": "Encrypted Data Fragment",
     "zh": "加密的数据片段"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 364688,
+  "basePrice": 774000.0,
+  "description": {
+    "de": "Fortgeschrittener Skill in der Ressourcenhandhabung von Waffen.\n\n5% Abzug auf die PG-Auslastung pro Skillstufe.",
+    "en": "Advanced skill at weapon resource management.\r\n\r\n5% reduction to PG usage per level.",
+    "es": "Habilidad avanzada de gestión de recursos armamentísticos.\n\n5 % de reducción del uso de los sistemas de potencia por nivel.",
+    "fr": "Compétence avancée de gestion des ressources des armes.\n\n5 % de réduction d'utilisation de PG par niveau.",
+    "it": "Abilità avanzata nella gestione delle risorse delle armi.\n\n5% di riduzione dell'utilizzo della rete energetica per livello.",
+    "ja": "兵器リソース管理の上級スキル。\n\nレベル上昇ごとに、PG使用量が5%減少する。",
+    "ko": "무기 자원 관리를 위한 상급 스킬입니다. <br><br>매 레벨마다 파워그리드 요구치 5% 감소",
+    "ru": "Углубленный навык управления ресурсами оружия.\n\n5% сокращение потребления ресурсов ЭС на каждый уровень.",
+    "zh": "管理武器资源的高级技能。每升一级，PG使用率降低5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Ausrüstungsoptimierung: Schwarmwerfer",
     "en": "Swarm Launcher Fitting Optimization",
@@ -11,5 +23,6 @@
     "ru": "Оптимизация оснащения сварм-ракетомета",
     "zh": "集束发射器装配优化"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

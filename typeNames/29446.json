@@ -1,5 +1,18 @@
 {
-  "typeID": 29446,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieser große Container ist gefüllt mit Sprengstoff.",
+    "en": "This large container is full of explosives.",
+    "es": "Este contenedor grande está lleno de explosivos.",
+    "fr": "Cet énorme conteneur est rempli d'explosifs.",
+    "ja": "爆発物を満載した大型コンテナ。",
+    "ko": "폭약으로 가득 찬 대형 컨테이너입니다.",
+    "ru": "Этот большой контейнер содержит взрывчатые вещества.",
+    "zh": "这个大型容器中装满了爆炸物。"
+  },
+  "graphicID": 2007,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Large Container of Explosives",
     "en": "Large Container of Explosives",
@@ -10,5 +23,9 @@
     "ru": "Large Container of Explosives",
     "zh": "大型爆炸物容器"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 1226.0,
+  "sofFactionName": "genericbase",
   "volume": 100000000.0
 }

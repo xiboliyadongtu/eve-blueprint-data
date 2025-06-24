@@ -1,5 +1,18 @@
 {
-  "typeID": 59968,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieser Tresor enthält einen Sicherheitsschlüsselgenerator, der einen Reservesicherheitsschlüssel für Reservebanken des Gefechtsüberwachungssystems (ESS) im nordöstlichen Gefechtsüberwachungsquadranten der Secure Commerce Commission enthalten könnte. Nach Definition der SCC umfasst der nordöstliche Gefechtsüberwachungsquadrant die Sonnensysteme der folgenden Regionen: <b>Cobalt Edge, Etherium Reach, The Kalevala Expanse, Malpais, Oasa, Outer Passage, Perrigen Falls, The Spire, Vale of the Silent und Cache</b>",
+    "en": "This vault contains a Secure Key Generator that may hold a Reserve Security Key for Encounter Surveillance System (ESS) reserve banks in the Secure Commerce Commission's North-East Encounter Surveillance Quadrant.\r\n\r\nThe SCC defines its North-East Encounter Surveillance Quadrant as encompassing star systems in the following regions:\r\n\r\n<b>Cobalt Edge, Etherium Reach, The Kalevala Expanse, Malpais, Oasa, Outer Passage, Perrigen Falls, The Spire, Vale of the Silent, and Cache</b>",
+    "es": "Esta cámara contiene un generador de claves seguras que puede almacenar una llave de seguridad para los Bancos de Reserva del sistema de vigilancia de encuentros (SVE) en el cuadrante noreste de vigilancia de la Comisión de Comercio Seguro.\n\n\n\nLa CCS define su cuadrante de vigilancia encuentros del noreste como los sistemas estelares que abarcan las siguientes regiones:\n\n\n\n<b>Cobalt Edge, Etherium Reach, The Kalevala Expanse, Malpais, Oasa, Outer Passage, Perrigen Falls, The Spire, Vale of the Silent y Cache</b>.",
+    "fr": "Ce coffre-fort contient un générateur de clé sécurisée pouvant renfermer une clé de sécurité de la réserve pour les banques de réserve du Système de surveillance des affrontements (SSA) dans le quadrant nord-est de surveillance des affrontements de la Commission du commerce sécurisé. La CCS définit son quadrant nord-est de surveillance des affrontements comme englobant les systèmes stellaires des régions suivantes : <b>Cobalt Edge, Etherium Reach, The Kalevala Expanse, Malpais, Oasa, Outer Passage, Perrigen Falls, The Spire, Vale of the Silent et Cache</b>",
+    "ja": "この金庫には、セキュア通商委員会の北東対戦監視クアドラントに存在する対戦監視システム（ESS）の予備バンクで使用される予備セキュリティキーを内蔵している可能性がある、セキュアキージェネレーターが入っている。\n\n\n\nSCCは、北東対戦監視クアドラントには次のリージョン内のスターシステムが含まれると定めている。\n\n\n\n<b>コバルトエッジ、エスリウムリーチ、ザ・カレヴァラエクスパンス、マルペイ、オアサ、アウターパッセージ、ペリゲンフォールズ、ザ・スパイア、ベールオブザサイレント、そしてキャッシュ</b>",
+    "ko": "암호화된 금고로 일정한 확률로 ESS 예비 저장고를 개방하기 위한 보안키를 획득할 수 있습니다. 보안키를 사용하여 북동 교전 감시 구역에 설치된 예비 저장고를 열 수 있습니다.<br><br>SCC 북동 교전 감시 구역:<br><br><b>코발트 엣지, 이더리움 리치, 말파이스, 오아사, 아우터 패시지, 페리젠 폴즈, 스파이어, 캐시</b>",
+    "ru": "Это хранилище содержит генератор ключа безопасности, в котором может находиться ключ безопасности от резервного банка системы наблюдения за столкновениями (СНС) в северо-восточном квадранте наблюдения за столкновениями КпБТ. Северо-восточный квадрант наблюдения за столкновениями КпБТ включает в себя звёздные системы в следующих секторах: <b>Cobalt Edge, Etherium Reach, The Kalevala Expanse, Malpais, Oasa, Outer Passage, Perrigen Falls, The Spire, Vale of the Silent и Cache</b>.",
+    "zh": "这个加密货柜是一个安全密钥生成器，内有一个可以打开商业安全委员会东北事件监测区块中的事件监测装置储备赏金池的储备安全密钥。\n\n\n\n商业安全委员会东北事件监测区块包括下列星域：\n\n\n\n<b>钴蓝边域、琉蓝之穹、卡勒瓦拉阔地、糟粕之域、欧莎、域外走廊、佩利根弗、螺旋之域、静寂谷以及地窖</b>"
+  },
+  "graphicID": 1171,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "NE ESS Key Generator",
     "en": "NE ESS Key Generator",
@@ -10,5 +23,9 @@
     "ru": "NE ESS Key Generator",
     "zh": "NE事件监测装置密钥生成器"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 1255.0,
+  "sofFactionName": "genericmetal",
   "volume": 27500.0
 }

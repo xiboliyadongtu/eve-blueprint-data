@@ -1,5 +1,17 @@
 {
-  "typeID": 17786,
+  "description": {
+    "de": "Kleine ausgelegte Schildgeneratoren mit eigenen Zugangsrestriktionen können außerhalb der Verteidigungsreichweite eines Kontrollturms stationiert werden. So kann man Waren in Gebieten mit geringerer Sicherheitsstufe im Umkreis der Starbase lagern oder umschlagen.",
+    "en": "Smaller confined shield generators with their own access restrictions can be deployed outside the Control Tower's defense perimeter. This allows for lesser security areas around the Starbase, for purposes of storage or pickup.",
+    "es": "Se pueden desplegar generadores de escudo confinados más pequeños con sus propias restricciones de acceso fuera del perímetro defensivo de la torre de control, lo que crea zonas de seguridad más baja alrededor de la base estelar, con fines de almacenamiento o recogida.",
+    "fr": "Il est possible de déployer hors du périmètre de défense de la tour de contrôle des petits générateurs de boucliers présentant des restrictions d'accès qui leur sont propres. Vous pouvez ainsi créer de petites zones au niveau de sécurité moins élevé autour de la base stellaire, afin de permettre des opérations de stockage ou de récupération.",
+    "ja": "コントロールタワーの防衛半径外に設置可能な、小型の遮蔽シールド発生装置で、タワーとは別にアクセス制限を設定できる。スターベース周辺に資材置き場や受け渡し場所を設置して、そこの安全を確保できる。",
+    "ko": "접근 제한이 걸려있는 소규모 실드 생성기로 관제타워 방어선 외곽 밖에서 전개가 가능합니다. 이로 인해 스타베이스의 보안이 강화되어 주변공간을 더 효율적으로 활용할 수 있습니다.",
+    "ru": "Вне защитного периметра башни управления базой можно использовать малые генераторы щитов с автономными системами ограничения доступа. С их помощью вокруг базы могут быть созданы зоны хранения и переработки грузов, работа в которых не будет требовать высокого уровня допуска.",
+    "zh": "自带访问限制的小型限制护盾发生器可以被布置在控制塔外的防御带。这使得母星周围安全性较差的区域也可以进行仓储或货物提取。"
+  },
+  "graphicID": 2380,
+  "groupID": 319,
+  "mass": 1.0,
   "name": {
     "de": "Starbase Shield Generator",
     "en": "Starbase Shield Generator",
@@ -10,5 +22,10 @@
     "ru": "Starbase Shield Generator",
     "zh": "母星护盾发生器"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 550.0,
+  "sofFactionName": "genericmetal",
+  "soundID": 20195,
   "volume": 1.0
 }

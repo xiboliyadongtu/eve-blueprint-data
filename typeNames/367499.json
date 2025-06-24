@@ -1,5 +1,17 @@
 {
-  "typeID": 367499,
+  "capacity": 0.1,
+  "description": {
+    "de": "Alle Söldner-Skills im Skillbaum werden komplett zurückgesetzt und die Skillpunkte erstattet. Corporation-Skills sind nicht betroffen. Skillbücher werden zu 80% des Marktpreises erstattet.",
+    "en": "All of the mercenary’s skills in the Skill Tree are completely reset and Skill Points refunded. Corporation Skills are not affected. Skillbooks are refunded at 80% of the Market Price.",
+    "es": "Todas las habilidades del árbol de habilidades del mercenario se han restablecido y has recuperado los puntos. Seguirás manteniendo las habilidades de la corporación. Podrás vender los libros de habilidades a un 80% de su precio en el mercado.",
+    "fr": "Toutes les compétences de l'arbre de compétences du mercenaire sont entièrement réinitialisées, et les points de compétence remboursés. Les compétences de corporation ne sont pas affectées. Les livres de compétence sont remboursés à 80 % de leur prix sur le marché.",
+    "it": "Tutte le abilità dei mercenari nell'Albero delle abilità sono state annullate completamente e i punti abilità rimborsati. Le abilità della corporazione non vengono influenzate. Rimborso dell'80% del prezzo di mercato dei libri abilità.",
+    "ja": "スキルツリーのすべての傭兵のスキルは完全にリセットされ、スキルポイントは返却されます。コーポレーションスキルは影響を受けません。スキルブックはマーケット価格の80%で返金されます。",
+    "ko": "모든 용병 스킬를 초기화하고 스킬 포인트를 되돌려 받습니다. 기업 스킬은 영향을 받지 않습니다. 스킬북 환불 시 시장 가격의 80%를 돌려받습니다.",
+    "ru": "Сброс всех навыков наемника в древе навыков полностью завершен. СП были возвращены. Навыки управления корпорацией остались без изменений. За учебники возвращается 80% от их рыночной цены.",
+    "zh": "雇佣兵在技能树中点亮的技能被全部重置，技能点也将悉数退还。军团技能不受影响。技能书将按市场价格的80%退款。"
+  },
+  "groupID": 367487,
   "name": {
     "de": "Skillbaum-Zurücksetzung und Erstattung",
     "en": "Skill Tree Reset and Refund",
@@ -11,5 +23,6 @@
     "ru": "Сброс и возврат очков древа навыков",
     "zh": "技能树重置与返还"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

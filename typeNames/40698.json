@@ -1,5 +1,19 @@
 {
-  "typeID": 40698,
+  "basePrice": 400000000.0,
+  "description": {
+    "de": "Sendet ein elektronisches Schockfeld, das um das angesetzte Ziel zentriert ist. Dieses Feld projiziert eine elektronische \"Markierung\" auf das betroffenen Schiff, so dass man es leichter erfassen und treffen kann. \n\n\n\nHinweis: Nur Supercarrier können mit Modulen dieses Typs ausgestattet werden. Es kann nur ein Modul dieses Typs je Supercarrier gleichzeitig eingebaut sein.",
+    "en": "Emits an area-of-effect burst, centered on the designated location. The burst projects an electronic \"tag\" on affected ships thus making them easier to target and hit. \r\n\r\nNote: Only Supercarriers can fit modules of this type. Only one module of this type can be fit per Supercarrier.",
+    "es": "Emite un estallido de radio de acción centrado en la ubicación designada que proyecta una «etiqueta» electrónica en la nave afectada, haciendo que sea un blanco más fácil. \n\n\n\nAviso: La única nave que puede equiparse con este tipo de módulo es el superportanaves, que solo puede tener uno de estos módulos instalados cada vez.",
+    "fr": "Émet une salve électronique à effet de zone, centrée sur la cible désignée. Cette salve projette une « marque » électronique sur les vaisseaux affectés. Ce faisant, il est plus facile de les viser et de toucher la cible. \n\n\n\nRemarque : réservé aux super porte-vaisseaux. Un seul module de ce type peut être équipé à la fois par super porte-vaisseaux.",
+    "ja": "指定位置を中心とした範囲攻撃バーストを放射する。バーストは効果範囲内の艦船に電子的な「目印」を付け、捕捉と攻撃を容易にする。注： このタイプのモジュールは大型艦載機母艦にのみ装備可能。このタイプのモジュールは大型艦載機母艦につき一つだけ装備可能。",
+    "ko": "지정된 위치를 중심으로 광범위 버스트를 방출합니다. 버스트의 영향을 받은 함선은 전자 \"인식표\"가 붙어 타겟과 적중이 쉬워집니다. <br><br>참고: 슈퍼캐리어급 함선에만 장착이 가능합니다. 동일한 종류의 모델은 한 개만 장착할 수 있습니다.",
+    "ru": "Создаёт область объёмного поражения с центром в указанной точке. В этой области на все вражеские корабли устанавливается электронная метка, облегчающая прицеливание и увеличивающая вероятность попадания. \n\n\n\nПримечание: этот модуль можно устанавливать только на КАРы сверхбольшого тоннажа. На корабль может быть установлен только один модуль этого типа.",
+    "zh": "发射以指定位置为中心的区域爆炸效果。这种脉冲波向受影响舰船投射电子标记从而使它们更容易被锁定和击中。 \n\n\n\n注：只有超级航母可以装配这类装备。且一艘超级航母只能装配一件这类装备。"
+  },
+  "groupID": 842,
+  "iconID": 21609,
+  "marketGroupID": 2249,
+  "mass": 1000.0,
   "name": {
     "de": "Target Illumination Burst Projector",
     "en": "Target Illumination Burst Projector",
@@ -10,5 +24,7 @@
     "ru": "Target Illumination Burst Projector",
     "zh": "目标照明脉冲波投射器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 8000.0
 }

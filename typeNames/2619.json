@@ -1,5 +1,17 @@
 {
-  "typeID": 2619,
+  "description": {
+    "de": "Diese Waffen sind von besserer Qualität als die, die man normalerweise auf dem freien Markt findet, doch dafür auch deutlich teurer. \r\n\r\nSie sind mit einem Sicherheitsmechanismus zur Verhinderung eines unrechtmäßigen Einsatzes in Stationen ausgestattet, denn dort sind die meisten Handfeuerwaffen verboten. Deshalb fallen diese Kleinkaliber in den meisten Gegenden nicht unter das Verbot für kleine Waffen.",
+    "en": "These weapons are of superior quality to those normally found on the public market, although more expensive as well.\r\n\r\nThey are implemented with a safety net which prevents them from being used illegally in stations where most types of small arms are prohibited.  Therefore many regions do not apply the small arms ban on these weapons.",
+    "es": "Estas armas son de calidad superior a las que se suelen encontrar en el mercado público, aunque también más caras.\n\nLlevan implementada una red de seguridad que impide que se usen ilegalmente en estaciones donde se prohíben la mayoría de los tipos de armas cortas. Por eso, muchas regiones no aplican la prohibición de armas cortas a estas armas.",
+    "fr": "Ces armes sont de qualité supérieure à celles que l'on trouve sur le marché public, mais elles sont aussi plus chères.\n\nElles sont connectées à un réseau de sécurité qui interdit leur utilisation illégale dans les stations où la plupart des armes portatives sont interdites.  De nombreuses régions n'appliquent donc pas l'interdiction des armes portatives à ces armes.",
+    "ja": "一般市場に出回っているものよりも高品質の武器。ただし、値段も高めである。ほとんどの携帯用武器の使用が禁止されているステーションで違法な使用ができないように、安全装備が施されている。そのため、多くのリージョンでは、携帯用武器禁止令が適用されない。",
+    "ko": "가격은 비싸지만 일반적인 무기에 비해 월등한 성능과 품질을 지녔습니다. <br><br>안전망이 부착되어 휴대용 무기의 소지가 금지된 정거장에서는 사용이 불가능합니다. 소형 무기의 반입이 허가된 지역 또한 상당수 존재합니다.",
+    "ru": "Это оружие обладает лучшим качеством, чем продаваемое на общедоступном рынке, хотя оно и стоит дороже.\n\nОни оснащены сетью безопасности, которая предотвращает их незаконное применение на станциях, где запрещено использование большинства типов ручного оружия.  Благодаря этой системе, во многих регионах запрет на стрелковое оружие к этим моделям не применяется.",
+    "zh": "相对于那些在公开市场上常见的武器来说，这些枪械的质量高出很多，当然也更加的昂贵。\r\n\r\n它们被安全网保护着，以免有人在空间站里非法使用这些枪械，大多数小型武器在空间站里都是被禁止的。\r\n因此很多星域对这种有保护的武器并不进行禁止。"
+  },
+  "groupID": 314,
+  "iconID": 1366,
+  "mass": 80000.0,
   "name": {
     "de": "Crates of High-Tech Small Arms",
     "en": "Crates of High-Tech Small Arms",
@@ -10,5 +22,7 @@
     "ru": "Crates of High-Tech Small Arms",
     "zh": "装箱的高科技小型枪械"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 80.0
 }

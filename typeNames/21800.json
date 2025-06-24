@@ -1,5 +1,17 @@
 {
-  "typeID": 21800,
+  "description": {
+    "de": "Eine Schiffsladung die nach gewöhnlicher Unterhaltungselektronik aussieht, aber in ihrem Inneren verborgene Bauteile für eine hochenergetische, elektromagnetische Ladung enthält.",
+    "en": "A standard-looking shipment of electronic entertainment equipment, inside which are hidden components of a high-powered electromagnetic charge.",
+    "es": "Envío de aspecto ordinario de sistemas de entretenimiento electrónicos en cuyo interior se esconden componentes con una carga electromagnética de alta potencia.",
+    "fr": "Cargaison standard de matériel électronique destiné à l'industrie du divertissement, à l'intérieur de laquelle sont dissimulés des composants électromagnétiques de charge puissante.",
+    "ja": "娯楽用電子機器を装った貨物だが、内部にハイパワーの電磁性チャージが隠されている。",
+    "ko": "평범한 엔터테인먼트 장비가 담긴 컨테이너로 장비 내부에는 고출력 EM 차지가 숨겨져 있습니다.",
+    "ru": "С виду стандартная партия для электронного развлекательного оборудования, внутри которой спрятаны компоненты высокомощного электромагнетического заряда.",
+    "zh": "外表是标准的电子娱乐设备，里面隐藏着高能量电磁电池。"
+  },
+  "groupID": 526,
+  "iconID": 1185,
+  "mass": 1000.0,
   "name": {
     "de": "EMP Charge Components",
     "en": "EMP Charge Components",
@@ -10,5 +22,7 @@
     "ru": "EMP Charge Components",
     "zh": "EMP电池元件"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

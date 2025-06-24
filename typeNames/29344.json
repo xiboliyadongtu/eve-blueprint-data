@@ -1,5 +1,75 @@
 {
-  "typeID": 29344,
+  "basePrice": 25600000.0,
+  "capacity": 465.0,
+  "description": {
+    "de": "Die Exequror Navy Issue wurde vom Oberkommando der Federation Navy in Auftrag gegeben, um den Nahkampfschiffen auf dem modernen stellaren Schlachtfeld entgegenzutreten. Sie erreicht zwar nicht die Geschwindigkeit ihrer Schwesternmodelle, besitzt als adäquate Nahkampfwaffe aber einige der besseren neuen Subsysteme mit Hybrid-Plasmaspulen zur Kompression. Dies macht sie zum Todesengel im Direktkampf.",
+    "en": "The Exequror Navy Issue was commissioned by Federation Navy High Command in response to the proliferation of close-range blaster vessels on the modern stellar battlefield. While it doesn't boast the speed of some of its class counterparts, this up-close-and-personal gunboat nonetheless possesses some of the more advanced hybrid plasma-coil compression subsystems available, making it a lethal adversary in any upfront engagement.",
+    "es": "La Exequror modelo de la Armada fue un encargo del alto mando de la Armada de la Federación en respuesta a la proliferación de naves con blásteres de corto alcance en los campos de batalla estelares contemporáneos. Aunque carece de la velocidad de algunas de sus compañeras de clase, esta cañonera para distancias cortas tiene algunos de los subsistemas de compresión de bobina de plasma híbridos más avanzados que existen, lo que la convierte en un adversario letal en cualquier enfrentamiento cara a cara.",
+    "fr": "L'Exequror Navy a été construit sur demande du haut commandement de la Federation Navy pour répondre à la prolifération sur le champ de bataille stellaire moderne de vaisseaux blasters de combat rapproché. Bien qu'elle ne possède pas la vitesse de certains des vaisseaux de même classe, cette canonnière spécialiste du combat rapproché possède néanmoins des sous-systèmes de compression à transformation de plasma hybrides parmi les plus avancés qui soient, ce qui en fait un adversaire mortel dans n'importe quel face-à-face.",
+    "ja": "海軍仕様のイクセキュラーは、最近の惑星間戦闘において近距離用ブラスター艦が増えてきたことに対応する動きとして、連邦海軍最高司令部が就航させた。このクラスの艦としてはさほど速度が出る方ではないが、超接近戦を得意とする砲艦で、新型のハイブリッドプラズマコイル圧縮サブシステムを採用しており、正面から撃ち合えば恐ろしい敵になる。",
+    "ko": "연방 해군 고위 사령부는 현대전에서 블라스터로 무장한 근접 함선들에 대응하기 위해 엑제큐러 해군 에디션을 도입하였습니다. 속도는 다른 동급 함선들에 비해 특출나지 않지만 첨단 하이브리드 플라즈마 코일 압축 서브시스템을 장착하여 그 어떤 적에게도 치명적인 일격을 가할 수 있습니다.",
+    "ru": "Разработка «Экзекьюрора-флотского» была заказана штабом флота Галлентской Федерации в ответ на всё более широкое применение кораблей ближнего боя, вооруженных бластерами. Этот корабль сравнительно уступает в скорости конкурирующим проектам, но оборудован сверхсовременной гибридной системой сжатия плазмы и смертоносен в ближнем бою.",
+    "zh": "送葬者级海军型是应联邦海军要求建造，以满足现代星际战争对近距离疾速炮攻击舰艇日益增长的需求。尽管在速度上它不及同级别的一些对手，但作为近距攻击炮舰，它采用了先进的混合等离子线圈压缩子系统，在贴身肉搏时显得尤为致命。"
+  },
+  "factionID": 500004,
+  "graphicID": 1802,
+  "groupID": 26,
+  "marketGroupID": 1370,
+  "mass": 11280000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      68,
+      165,
+      140,
+      150,
+      89,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      68,
+      165,
+      140,
+      150,
+      89,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      68,
+      165,
+      140,
+      150,
+      89,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      68,
+      165,
+      140,
+      150,
+      89,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      68,
+      165,
+      140,
+      117,
+      150,
+      89,
+      94
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Exequror Navy Issue",
     "en": "Exequror Navy Issue",
@@ -10,5 +80,65 @@
     "ru": "Exequror Navy Issue",
     "zh": "送葬者级海军型"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 224.0,
+  "sofFactionName": "gallentenavy",
+  "soundID": 20074,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [],
+    "types": {
+      "3332": [
+        {
+          "bonus": 17.5,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3304>mittelgroßen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3304>Medium Hybrid Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3304>torreta híbrida mediana</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:3304>tourelles hybrides intermédiaires</a>",
+            "ja": "<a href=showinfo:3304>中型ハイブリッドタレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3304>중형 하이브리드 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон боеприпасов <a href=showinfo:3304>средних гибридных орудий</a>",
+            "zh": "<a href=\"showinfo:3304\">中型混合炮台</a>伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf den Präzisionsabfall von <a href=showinfo:3304>mittleren Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3304>Medium Hybrid Turret</a> falloff",
+            "es": "de bonificación al alcance efectivo de la <a href=showinfo:3304>torreta híbrida mediana</a>.",
+            "fr": "de bonus à la déperdition des <a href=showinfo:3304>tourelles hybrides intermédiaires</a>",
+            "ja": "<a href=showinfo:3304>中型ハイブリッドタレット</a>の精度低下範囲にボーナス",
+            "ko": "<a href=showinfo:3304>중형 하이브리드 터렛</a> 유효사거리 증가",
+            "ru": "бонус к остаточной дальности <a href=showinfo:3304>средних гибридных орудий</a>",
+            "zh": "<a href=showinfo:3304>中型混合炮台</a>失准范围加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 15.0,
+          "bonusText": {
+            "de": "Reduktion des Masseabzugs von <a href=showinfo:3394>Panzerplatten</a>",
+            "en": "reduction in <a href=showinfo:3394>Armor Plate</a> mass penalty",
+            "es": "de reducción de la penalización de masa de la <a href=showinfo:3394>placa de blindaje</a>.",
+            "fr": "de réduction à la pénalité de masse du <a href=showinfo:3394>revêtement de blindage</a>",
+            "ja": "<a href=showinfo:3394>アーマープレート</a>の質量ペナルティが減少",
+            "ko": "<a href=showinfo:3394>장갑 플레이트</a> 질량 페널티 감소",
+            "ru": "снижение штрафа за массу для <a href=showinfo:3394>бронеплит</a>",
+            "zh": "<a href=showinfo:3394>附甲板</a>质量惩罚降低"
+          },
+          "importance": 3,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 634,
   "volume": 112000.0
 }

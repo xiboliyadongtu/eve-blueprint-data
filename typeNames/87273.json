@@ -1,5 +1,19 @@
 {
-  "typeID": 87273,
+  "basePrice": 8000000.0,
+  "description": {
+    "de": "Datenmodellierung der Antworten von Personen, die von einem Destructive Scrutinizer beobachtet wurden. Die Daten wurden strukturiert, um Parameter für eine detaillierte Simulation bereitzustellen. Solche Informationen wären sowohl für Wissenschaftler als auch für Geheimdienste gleichermaßen wertvoll.",
+    "en": "Data modelling the responses of individuals observed by a Destructive Scrutinizer. The data has been structured so as to provide parameters for a detailed simulation. Such information would be valuable to scientists and intelligence groups alike.",
+    "es": "Modelado de datos de las respuestas de los individuos observados por un escrutador destructivo. Los datos se han estructurado de manera que proporcionen parámetros para una simulación detallada. Esta información sería valiosa tanto para los científicos como para los grupos de inteligencia.",
+    "fr": "Données modélisant les réponses des individus observés par un Examinateur destructeur. Les données ont été structurées afin de fournir des paramètres pour une simulation détaillée. Ces informations seraient précieuses à la fois pour les scientifiques et pour les groupes de renseignement.",
+    "ja": "デストラクティブ・スクルーティナイザーが観測した人間の反応をモデル化したデータ。詳細なシミュレーション用のパラメーターを提供できるよう、データは構造化されている。科学者や諜報機関にとって価値がある情報だと思われる。",
+    "ko": "파괴형 정밀탐사기가 탐색한 개인의 반응을 모델링한 데이터입니다. 정밀한 시뮬레이션을 제작할 수 있게 각종 변수를 종합해 생성되었습니다. 과학자들과 정보를 다루는 국가 기관에서 유용하게 활용할 수 있는 데이터이기도 합니다.",
+    "ru": "Эти данные, собранные Destructive Scrutinizer, касаются моделирования человеческих реакций. Они структурированы таким образом, чтобы предоставить параметры для детальной симуляции. Такая информация имеет ценность как для учёных, так и для разведки.",
+    "zh": "对被破坏型审查者观测到的个体反应进行建模的数据。该数据已被构建，以便为详细的模拟提供参数。此类信息对于科学家和情报组织都很有价值。"
+  },
+  "groupID": 314,
+  "iconID": 3755,
+  "marketGroupID": 1863,
+  "mass": 1.0,
   "name": {
     "de": "Breaking Point Parameters",
     "en": "Breaking Point Parameters",
@@ -10,5 +24,7 @@
     "ru": "Breaking Point Parameters",
     "zh": "临界点参数"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

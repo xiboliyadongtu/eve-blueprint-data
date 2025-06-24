@@ -1,5 +1,18 @@
 {
-  "typeID": 47042,
+  "description": {
+    "de": "Während Konstruktionsänderungsprotokolle normalerweise automatisch verfügbar gemacht werden, scheint dieses spezielle Exemplar auf dem Transportweg verloren gegangen zu sein. Das sollte kein Problem sein, wenn der adressierte Kapselpilot diese Änderungen anderweitig umgesetzt hat.",
+    "en": "While normally the design change log for ship hulls are automatically made available, it seems that this specific copy has been lost in transit. This shouldn't be a problem if the capsuleer for which this was meant has picked up on these changes elsewhere.",
+    "es": "Aunque normalmente se puede acceder automáticamente al registro de cambios de diseño de los cascos, parece que esta copia en concreto se ha traspapelado. No debería suponer un problema, siempre que se haya informado de dichos cambios al capsulista para el que iba dirigida a través de cualquier otro medio.",
+    "fr": "Normalement, le journal des modifications de conception des coques de vaisseaux est automatiquement mis à disposition, mais il semble que cette copie spécifique ait été perdue en cours de route. Cela ne devrait pas poser de problème, pour peu que le capsulier destinataire ait relevé ces changements ailleurs.",
+    "ja": "通常、艦船の設計の変更ログは自動的に通知されるが、この変更に限って転送中に失われてしまったらしい。カプセラがどこかでこの変更に気付いていれば問題にならなかったろうに、こんなことになるとは。",
+    "ko": "설계 변경에 관한 내용으로 운송 도중 어딘가에서 빠져나온 듯합니다. 캡슐리어가 다른 경로로 정보를 접하기만 한다면 큰 문제는 안될 것입니다.",
+    "ru": "Несмотря на то, что журналы о модификации корпусов кораблей должны предоставляться автоматически, именно эта копия где-то затерялась во время передачи. Однако проблем не возникнет, если капсулёр, которому он был отправлен, получит сведения об изменениях из другого источника.",
+    "zh": "一般来讲舰船船体的设计变更会自动记录，不过这份特殊的拷贝看来并没有被传输。不过这对于已经从别的地方得知这些变更的克隆飞行员来讲不是什么问题。"
+  },
+  "groupID": 1194,
+  "iconID": 3010,
+  "marketGroupID": 1661,
+  "mass": 10.0,
   "name": {
     "de": "Rorqual Design Change Log",
     "en": "Rorqual Design Change Log",
@@ -10,5 +23,8 @@
     "ru": "Rorqual Design Change Log",
     "zh": "长须鲸级设计变更记录"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 128,
   "volume": 3.0
 }

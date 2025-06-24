@@ -1,5 +1,18 @@
 {
-  "typeID": 32339,
+  "basePrice": 110000000.0,
+  "description": {
+    "de": "Ermöglicht den Einsatz von Schweren Jägern. 5% Bonus auf den Schaden von Schweren Jägern je Skillstufe.",
+    "en": "Allows operation of heavy fighter craft. 5% increase in heavy fighter damage per level.",
+    "es": "Permite el manejo de cazas pesados. Aumenta un 5 % el daño de los cazas pesados por nivel.",
+    "fr": "Permet de piloter des chasseurs lourds. Augmente de 5% par niveau les dégâts infligés par les chasseurs lourds.",
+    "ja": "重量級艦載戦闘機を操縦できるようになる。レベル上昇ごとに重量級艦載戦闘機のダメージが 5% 増加する。",
+    "ko": "헤비 파이터 운용을 위한 스킬입니다. 매 레벨마다 헤비 파이터 피해량 5% 증가",
+    "ru": "Навык эксплуатации тяжёлых истребителей. За каждую степень освоения навыка: на 5% повышается урон бортового оружия тяжёлых истребителей.",
+    "zh": "操作重型铁骑舰载机的技能。每升一级，重型铁骑舰载机的伤害提高5%。"
+  },
+  "groupID": 273,
+  "iconID": 33,
+  "marketGroupID": 366,
   "name": {
     "de": "Heavy Fighters",
     "en": "Heavy Fighters",
@@ -10,5 +23,7 @@
     "ru": "Тяжёлые истребители",
     "zh": "重型铁骑舰载机操控理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,75 @@
 {
-  "typeID": 638,
+  "basePrice": 153900000.0,
+  "capacity": 830.0,
+  "description": {
+    "de": "Die Raven ist das Zugpferd der Caldari Navy. Mit ihren zahllosen Werfervorrichtungen und widerstandsfähigen Schilden gibt es nur wenige Schiffe, die sich mit ihr in Stärke und Erhabenheit messen können.",
+    "en": "The Raven is the powerhouse of the Caldari Navy. With its myriad launcher slots and powerful shields, few ships can rival it in strength or majesty.",
+    "es": "La Raven es el elemento central de la Armada Caldari. Con sus innumerables ranuras para lanzaproyectiles y sus potentes escudos, pocas naves pueden competir con ella en fuerza o majestuosidad.",
+    "fr": "Le Raven est le fer de lance de la Caldari Navy. Avec ses nombreux emplacements pour lanceurs et ses puissants boucliers, rares sont les vaisseaux qui rivalisent en force ou en majesté.",
+    "ja": "レイブンはカルダリ海軍の主力艦である。多数のランチャースロットと強力なシールドを搭載し、強さにおいても威容においてもほとんどの船を凌駕する。",
+    "ko": "레이븐은 칼다리 해군의 주력 배틀쉽입니다. 강력한 실드와 다수의 무장 슬롯을 지니고 있어 일반 함선으로는 정면으로 상대할 수 없습니다.",
+    "ru": "«Рейвен» — основа военной мощи флота Государства Калдари. Благодаря множеству пусковых установок и прочнейшим силовым полям, мало кто может сравниться с ним в мощи и величии.",
+    "zh": "乌鸦级战列舰是加达里海军的力量源泉。它有着数不清的发射器槽位和强大的护盾，很少有舰船能在实力或气势上与之匹敌。"
+  },
+  "factionID": 500001,
+  "graphicID": 43,
+  "groupID": 27,
+  "marketGroupID": 80,
+  "mass": 99300000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      150,
+      138,
+      139,
+      77,
+      85,
+      165
+    ],
+    "1": [
+      96,
+      99,
+      150,
+      138,
+      139,
+      77,
+      85,
+      165
+    ],
+    "2": [
+      96,
+      99,
+      150,
+      138,
+      139,
+      77,
+      85,
+      165
+    ],
+    "3": [
+      96,
+      99,
+      150,
+      138,
+      139,
+      77,
+      85,
+      165
+    ],
+    "4": [
+      96,
+      99,
+      150,
+      138,
+      139,
+      77,
+      85,
+      118,
+      165
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Raven",
     "en": "Raven",
@@ -9,6 +79,96 @@
     "ko": "레이븐",
     "ru": "Raven",
     "zh": "乌鸦级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 250.0,
+  "sofFactionName": "caldaribase",
+  "soundID": 20068,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 5.0,
+        "bonusText": {
+          "de": "zusätzlicher Bonus auf HP der <a href=showinfo:3394>Verstärkten Schottwand</a>",
+          "en": "additional bonus to <a href=showinfo:3394>Reinforced Bulkhead</a> hitpoints",
+          "es": "de bonificación adicional a los puntos de vida del <a href=showinfo:3394>mamparo reforzado</a>.",
+          "fr": "de bonus supplémentaire aux points de vie de la <a href=showinfo:3394>cloison renforcée</a>",
+          "ja": "<a href=showinfo:3394>強化隔壁</a>HPがさらに増加",
+          "ko": "<a href=showinfo:3394>강화 격벽</a> 내구도 증가",
+          "ru": "дополнительный бонус к прочности <a href=showinfo:3394>укреплённой переборки</a>",
+          "zh": "<a href=showinfo:3394>强化舱隔壁</a>结构值加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der <a href=showinfo:3394>Panzerplatte</a>",
+          "en": "bonus to <a href=showinfo:3394>Armor Plate</a> hitpoints",
+          "es": "de bonificación a los puntos de vida de las <a href=showinfo:3394>placas de blindaje</a>.",
+          "fr": "de bonus aux points de vie du <a href=showinfo:3394>revêtement de blindage</a>",
+          "ja": "<a href=showinfo:3394>アーマープレート</a>HPが増加",
+          "ko": "<a href=showinfo:3394>장갑 플레이트</a> 내구도 증가",
+          "ru": "бонус к прочности <a href=showinfo:3394>бронеплиты</a>",
+          "zh": "<a href=showinfo:3394>装甲附甲板</a>装甲值加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 100.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der <a href=showinfo:3425>Schilderweiterung</a>",
+          "en": "bonus to <a href=showinfo:3425>Shield Extender</a> hitpoints",
+          "es": "de bonificación a los puntos de vida del <a href=showinfo:3425>extensor de escudo</a>.",
+          "fr": "de bonus aux points de vie de l'<a href=showinfo:3425>extenseur de bouclier</a>",
+          "ja": "<a href=showinfo:3425>シールドエクステンダー</a>HPが増加",
+          "ko": "<a href=showinfo:3425>실드 확장장치</a> 실드량 증가",
+          "ru": "бонус к прочности <a href=showinfo:3425>расширителя щитов</a>",
+          "zh": "<a href=showinfo:3425>护盾扩展装置</a>护盾值加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3338": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf die Feuerrate von schnellen <a href=showinfo:3324>schweren Lenkwaffen-</a>, <a href=showinfo:3326>Marschflugkörper-</a> und <a href=showinfo:3325>Torpedo</a>-Werfern",
+            "en": "bonus to Rapid <a href=showinfo:3324>Heavy Missile</a>, <a href=showinfo:3326>Cruise Missile</a> and <a href=showinfo:3325>Torpedo</a> Launcher rate of fire",
+            "es": "de bonificación a la cadencia de tiro rápida de los <a href=showinfo:3324>lanzamisiles pesados</a>, los <a href=showinfo:3326>lanzamisiles de crucero</a> y los <a href=showinfo:3325>lanzatorpedos</a>.",
+            "fr": "de bonus à la cadence de tir des <a href=showinfo:3324>lance-missiles lourds</a>, <a href=showinfo:3326>lance-missiles de croisière</a> et <a href=showinfo:3325>lance-torpilles</a> rapides",
+            "ja": "高速<a href=showinfo:3324>ヘビーミサイル</a>・<a href=showinfo:3326>クルーズミサイル</a>・<a href=showinfo:3325>トルピード</a>ランチャーの発射間隔が短縮",
+            "ko": "급속 <a href=showinfo:3324>헤비 미사일</a>, <a href=showinfo:3326>크루즈 미사일</a>, <a href=showinfo:3325>토피도</a> 런처 연사속도 증가",
+            "ru": "повышается скорострельность <a href=showinfo:3325>торпедных аппаратов</a>, ПУ <a href=showinfo:3326>дальнобойных ракет</a>, скорострельных ПУ <a href=showinfo:3324>тяжёлых ракет</a>",
+            "zh": "<a href=\"showinfo:3324\">重型快速导弹</a>、<a href=\"showinfo:3326\">巡航导弹</a>和<a href=\"showinfo:3325\">鱼雷</a>发射器射速加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die Maximalgeschwindigkeit von <a href=showinfo:3326>Marschflugkörpern</a> und <a href=showinfo:3325>Torpedos</a>",
+            "en": "bonus to <a href=showinfo:3326>Cruise Missile</a> and <a href=showinfo:3325>Torpedo</a> max velocity",
+            "es": "de bonificación a la velocidad máxima de los <a href=showinfo:3326>misiles de crucero</a> y los <a href=showinfo:3325>torpedos</a>.",
+            "fr": "de bonus à la vitesse maximale des <a href=showinfo:3326>missiles de croisière</a> et des <a href=showinfo:3325>torpilles</a>",
+            "ja": "<a href=showinfo:3326>クルーズミサイル</a>と<a href=showinfo:3325>トルピード</a>の最高速度が上昇",
+            "ko": "<a href=showinfo:3326>크루즈 미사일</a> 및 <a href=showinfo:3325>토피도</a> 최대 속도 증가",
+            "ru": "повышается скорость полёта <a href=showinfo:3326>дальнобойных ракет</a> и <a href=showinfo:3325>торпед</a>",
+            "zh": "<a href=\"showinfo:3326\">巡航导弹</a>和<a href=\"showinfo:3325\">鱼雷</a>最大飞行速度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 470000.0
 }

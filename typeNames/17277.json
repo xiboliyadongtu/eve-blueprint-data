@@ -1,5 +1,18 @@
 {
-  "typeID": 17277,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieser defekte Container treibt lautlos inmitten der Sterne. Ihre Sensoren empfangen Hinweise, dass im Inneren etwas hin und her rollt.",
+    "en": "The wrecked container drifts silently amongst the stars, your sensors pick up signs of something rolling within it.",
+    "es": "El contenedor destrozado vaga en silencio entre las estrellas; tus sensores detectan señales de algo que se mueve en el interior.",
+    "fr": "Ce conteneur abîmé dérive silencieusement parmi les étoiles. Vos détecteurs captent quelque chose qui bouge à l'intérieur.",
+    "ja": "星屑を縫うようにひっそりと漂う難破コンテナ。中に転がる積荷の存在をセンサーが知らせてくれる。",
+    "ko": "난파된 컨테이너가 별들 사이를 소리없이 유영하고 있습니다. 컨테이너 안쪽에서는 알 수 없는 신호가 포착되었습니다.",
+    "ru": "Разрушенный контейнер потихоньку дрейфует между звезд; датчики показывают, что внутри него перекатывается какой-то предмет.",
+    "zh": "这具遇难舰船的货柜无声地漂浮在星辰之间，你的感应器侦测到里面有东西在滚动。"
+  },
+  "graphicID": 2396,
+  "groupID": 496,
+  "mass": 10000.0,
   "name": {
     "de": "Electronically Sealed Container",
     "en": "Electronically Sealed Container",
@@ -10,5 +23,10 @@
     "ru": "Electronically Sealed Container",
     "zh": "电子密封的货柜"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 75.0,
+  "sofFactionName": "genericmetal",
+  "soundID": 31,
   "volume": 27500.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 16846,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese Einrichtung besteht hauptsächlich aus Büros und Stabsquartieren. Weite Hallen und einige besondere Installationen ermöglichen machen sie aber vielseitig verwendbar.",
+    "en": "This is a building dedicated to offices and staff quarters mostly, though spacious halls and special installments allow for some flexibility in function.",
+    "es": "Edificio principalmente destinado a oficinas y alojamiento de personal, aunque los espaciosos pasillos y las instalaciones especiales permiten cierta flexibilidad en su función.",
+    "fr": "Ce bâtiment est principalement réservé aux bureaux et aux quartiers du personnel. De grands halls et des installations spéciales lui permettent toutefois de remplir, éventuellement, d'autres fonctions.",
+    "ja": "オフィスや社員宿舎の入ったビルだが、開放感のあるホールや独創的なアート作品が建造物の機能に柔軟性をもたらしている。",
+    "ko": "사무실 및 스태프 거주구역으로 사용되는 구조물로 내부 공간이 넉넉하여 다른 용도로도 활용이 가능합니다.",
+    "ru": "Это здание в основном служит штабом для офицеров и пресонала, но просторные залы и специальные установки позволяют несколько изменять его функции.",
+    "zh": "这栋建筑物通常只用作办公室和员工住处，但是宽敞的大厅与特别设备使其功能具有一定的灵活性。"
+  },
+  "graphicID": 1998,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Asteroid Colony Tower",
     "en": "Asteroid Colony Tower",
@@ -10,5 +23,10 @@
     "ru": "Asteroid Colony Tower",
     "zh": "小行星殖民站塔楼"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 1100.0,
+  "sofFactionName": "genericbase",
+  "soundID": 20197,
   "volume": 100000000.0
 }

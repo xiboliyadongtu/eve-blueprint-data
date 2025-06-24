@@ -1,5 +1,21 @@
 {
-  "typeID": 24477,
+  "basePrice": 62340.0,
+  "description": {
+    "de": "Eine kleine Rakete mit Durchschlagskopf.\n\n\n\nEine modifizierte Version der Scourge Rocket. Kann höhere Geschwindigkeiten als die Scourge Rocket auf Kosten der Größe des Sprengkopfs erreichen.",
+    "en": "A small rocket with a piercing warhead.\r\n\r\nA modified version of the Scourge rocket. It can reach higher velocity than the Scourge rocket at the expense of warhead size.",
+    "es": "Cohete pequeño con ojiva perforante.\n\nVersión modificada del cohete Scourge. Puede alcanzar más velocidad que el cohete Scourge a costa del tamaño de su ojiva.",
+    "fr": "Petite roquette dotée d'une ogive perforante.\n\nVersion modifiée de la roquette Scourge. Elle peut atteindre une vitesse plus élevée que la roquette Scourge, aux dépens toutefois de la taille de l'ogive.",
+    "ja": "徹甲弾頭を装備した小型ロケット。\n\nスコージロケットの改良版。従来型より速度が向上したが、そのぶん弾頭が小さめになっている。",
+    "ko": "철갑 탄두가 탑재된 소형 로켓입니다. <br><br>개량된 스커지 로켓입니다. 기존의 스커지 로켓에 비해 탄두 크기가 작아진 대신 최대 비행속도가 증가했습니다.",
+    "ru": "Маленькая неуправляемая ракета с бронебойной боеголовкой.\n\n\n\nМодификация неуправляемой ракеты Scourge. Способна развивать более высокую скорость, чем ракета Scourge, но отличается уменьшенным размером заряда.",
+    "zh": "一种装备了穿甲弹头的小型火箭。这是鞭挞火箭的一种改良版本，它相比普通鞭挞火箭而言飞行速度更快，但代价是弹头尺寸变小。"
+  },
+  "graphicID": 20060,
+  "groupID": 648,
+  "iconID": 1350,
+  "marketGroupID": 928,
+  "mass": 100.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Scourge Javelin Rocket",
     "en": "Scourge Javelin Rocket",
@@ -10,5 +26,9 @@
     "ru": "Scourge Javelin Rocket",
     "zh": "鞭挞标枪火箭"
   },
+  "portionSize": 5000,
+  "published": true,
+  "radius": 300.0,
+  "variationParentTypeID": 266,
   "volume": 0.005
 }

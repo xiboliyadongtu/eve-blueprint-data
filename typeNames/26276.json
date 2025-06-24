@@ -1,5 +1,18 @@
 {
-  "typeID": 26276,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Auf den ersten Blick sieht das wie irgendein beliebiges Stück Schrott aus, aber bei genauerer Untersuchung scheint es sehr alt zu sein. Welche Geheimnisse könnte es für einen professionellen Archäologen bereithalten?",
+    "en": "At first glance this looks like just another piece of space debris, but on closer inspection it looks to be very old. What secrets might it unveil to proficient archaeologists?",
+    "es": "A primera vista, parecen escombros espaciales normales y corrientes, pero al inspeccionarlos más detenidamente, parecen muy antiguos. ¿Qué secretos podrían revelar a arqueólogos expertos?",
+    "fr": "Au premier abord, on dirait des débris ordinaires mais en y regardant de plus près, ceux-ci semblent très anciens. Quels secrets pourraient-ils révéler à des archéologues experts ?",
+    "ja": "一見すると宇宙に浮かぶ瓦礫にしか見えないが、精査してみると年代物であることが分かる。熟練の考古学者なら、どんな謎を暴いてみせるだろうか?",
+    "ko": "얼핏 평범한 잔해물로 보였으나 자세히 살펴본 결과 오래된 구조물로 확인되었습니다. 숙련된 고고학자가 살펴보면 비밀을 알아낼 수 있을 것 같습니다.",
+    "ru": "На первый взгляд это просто космический мусор, но если посмотреть повнимательнее, то видно, что этот предмет очень старый. Какие секреты в нем могли бы найти опытные археологи?",
+    "zh": "乍看上去这就是一块平常的太空碎片，但仔细观察后却发现这块碎片非常古老。专业的考古学家能从中间发现什么秘密呢？"
+  },
+  "graphicID": 1696,
+  "groupID": 1207,
+  "mass": 10000.0,
   "name": {
     "de": "Floating Debris",
     "en": "Floating Debris",
@@ -10,5 +23,9 @@
     "ru": "Floating Debris",
     "zh": "飘浮的碎片"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 320.0,
+  "sofFactionName": "debris",
   "volume": 27500.0
 }

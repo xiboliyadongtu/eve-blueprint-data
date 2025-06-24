@@ -1,5 +1,17 @@
 {
-  "typeID": 354915,
+  "basePrice": 2600.0,
+  "description": {
+    "de": "Erhöht die maximale Ausdauer des Benutzers.\nChord nutzt einen vereinfachten Befehlssatz, der die erforderliche Skillstufe verringert, aber trotzdem verbesserte Leistung ermöglicht.\nHINWEIS: Für dieses Modul gelten Stapelabzüge; nach dem ersten Modul nimmt die Wirksamkeit jedes weiteren ab.",
+    "en": "Increases maximum stamina of the user.\r\nThe Chord utilizes a simplified instruction set to reduce the skill level required to operate while still providing Enhanced-level performance.\r\nNOTE: Stacking penalties apply to this module; the effectiveness of each additional module after the first will be reduced.",
+    "es": "Aumenta el aguante máximo del usuario.\nEl \"Chord\" utiliza un conjunto de instrucciones simplificado para reducir el nivel de habilidad requerido para operarlo, aún ofreciendo un rendimiento mejorado.\nAVISO: a este módulo se le aplican penalizaciones por agrupamiento; por cada módulo adicional que se coloque a partir del primero, se reduce su eficacia.",
+    "fr": "Augmente l'endurance maximale de l'utilisateur\nLe Chord fournit une performance de niveau optimisé, tout en utilisant un jeu d'instructions simplifié qui réduit le niveau de compétences requis.\nREMARQUE : Des pénalités d'accumulation s'appliquent à ce module ; au-delà du premier module, l'efficacité de chaque module supplémentaire sera réduite.",
+    "it": "Aumenta la forza vitale massima dell'utente.\nIl modello \"Chord\" fornisce prestazioni avanzate usando una serie di istruzioni semplificate che riducono il livello di abilità richiesto.\nNOTA: a questo modulo si applicano le penalità da accumulo; l'efficacia di ogni modulo aggiuntivo dopo il primo viene ridotta.",
+    "ja": "使用者のスタミナ最大値を上げる。\n必要スキルレベルが低くても使用できるよう簡略化されたインストラクションにより、コードは強化レベル並み性能を実現する。\n注:このモジュールはスタッキングペナルティの対象となり、同一のモジュールを複数取り付けると、一つ追加するごとにモジュールの効果が低下する。",
+    "ko": "사용 시 최대 스태미나가 증가합니다. <br><br>성능을 유지함과 동시에 간소화된 명령 집합을 활용하여 사용자의 전반적인 스킬 요구치를 감소시킵니다. <br><br>참고: 중첩 페널티가 적용되는 모듈입니다. 동일한 효과를 지닌 모듈을 한 개 이상 장착할 경우 추가 모듈의 효율성이 감소합니다.",
+    "ru": "Повышает максимальную выносливость владельца.\nВ модификации Chord применяется упрощенный набор протоколов, позволяющий управлять системой даже при невысоком уровне навыка, но при этом обеспечивается эффективность работы, сопоставимая с усовершенствованными системами.\nПРИМЕЧАНИЕ: Для этого модуля действует система нарастающих штрафов. Эффективность воздействия каждого последующего модуля снижается.",
+    "zh": "增加使用者的最大耐力。Chord利用简化版指令集，提供增强级性能的同时降低操作需掌握的技能等级。注：此装备有堆叠惩罚，额外加装同样装备的效果会降低。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "'Chord' Basic Cardiac Stimulant",
     "en": "'Chord' Basic Cardiac Stimulant",
@@ -11,5 +23,7 @@
     "ru": "'Chord' Basic Cardiac Stimulant",
     "zh": "“和弦”级基础型强心剂"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 29549,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Die Überreste eines zerstörten Aufklärungsschiffes.",
+    "en": "The remains of a destroyed reconnaissance ship.",
+    "es": "Los restos de una nave de reconocimiento destruida.",
+    "fr": "Restes d'un vaisseau de reconnaissance détruit.",
+    "ja": "破壊された偵察船の残骸。",
+    "ko": "파괴된 정찰선의 잔해입니다.",
+    "ru": "Останки разрушенного разведывательного корабля.",
+    "zh": "一艘侦察舰被摧毁后的残骸。"
+  },
+  "graphicID": 3117,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Reconnaissance Ship Wreck",
     "en": "Reconnaissance Ship Wreck",
@@ -10,5 +23,9 @@
     "ru": "Reconnaissance Ship Wreck",
     "zh": "侦察舰残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

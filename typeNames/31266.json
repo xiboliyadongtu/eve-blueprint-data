@@ -1,5 +1,19 @@
 {
-  "typeID": 31266,
+  "description": {
+    "de": "Diese Schiffsmodifikation wurde entwickelt, um die Effektivität der montierten Sensorferndämpfer auf Kosten der Schilde zu erhöhen.\n\n\n\nNachteil: Bei der Verwendung mehrerer Module des selben oder ähnlichen Typs, welche das selbe Attribut des Schiffes beeinflussen, wird deren Wirksamkeit eingeschränkt.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26256>Elektronische Überlegenheitsmodifikation</a> reduziert werden.",
+    "en": "This ship modification is designed to increase the effectiveness of fitted remote sensor dampeners at the expense of shields.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26256>Electronic Superiority Rigging</a> skill.",
+    "es": "Esta modificación de nave está diseñada para aumentar la efectividad de los atenuadores de sensor remoto equipados a costa de los escudos.\n\nPenalización: Por usar más de un tipo de módulo o módulos similares que afecten al mismo atributo de la nave.\n\nSe pueden reducir las desventajas de equipar este complemento desarrollando la habilidad <a href=showinfo:26256>Complementos de superioridad electrónica</a>.",
+    "fr": "Cette modification de vaisseau est conçue pour augmenter l'efficacité des atténuateurs de détection à distance installés sur un vaisseau, au détriment de ses boucliers.\n\n\n\nPénalité : utiliser plus d'un module de ce type ou plusieurs modules modifiant un même attribut du vaisseau fera l'objet d'une pénalité.\n\n\n\nLes inconvénients du montage de cette plateforme pourraient être réduits en entraînant la compétence <a href=showinfo:26256>Optimisation de supériorité électronique</a>.",
+    "ja": "この改造によりシールドが犠牲となり、装備したリモートセンサーダンプナーの効率が向上する。ペナルティ： 同じタイプのモジュール、または同じ属性に関係するモジュールを複数取り付けると、ペナルティが発生する。このリグを装備することで発生するペナルティは、<a href=showinfo:26256>電子優位性リギング</a>スキルをトレーニングすることで低減できる。",
+    "ko": "리그 장착 시 센서 댐프너 효과가 증가하는 반면 함선의 실드량이 감소합니다. <br><br>페널티: 동일한 속성의 모듈 여러 개를 장착할 경우 페널티가 부여됩니다. <br><br>리그 부작용은 <a href=showinfo:26256>전자전 리그</a> 스킬 습득 시 감소합니다.",
+    "ru": "Эта модификация повышает эффективность работы передатчиков помех системам обнаружения целей за счёт уменьшения запаса прочности силовых полей.\n\n\n\nВнимание! Установка на борт корабля двух и более модулей, влияющих на одну и ту же характеристику корабля, приведёт к снижению эффективности их действия в отношении данной характеристики.\n\n\n\nНегативный эффект от установки этого тюнинг-модуля можно снизить, освоив навык <a href=showinfo:26256>Electronic Superiority Rigging</a>, дающий пилоту глубокое понимание принципов работы электронных систем корабля",
+    "zh": "这个飞船改装件通过牺牲护盾来提高飞船装配的远程感应抑阻器效率。\n\n\n\n惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26256>电子优势改装技术</a>技能降低影响。"
+  },
+  "groupID": 786,
+  "iconID": 3198,
+  "marketGroupID": 1737,
+  "mass": 200.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Capital Inverted Signal Field Projector I",
     "en": "Capital Inverted Signal Field Projector I",
@@ -10,5 +24,8 @@
     "ru": "Capital Inverted Signal Field Projector I",
     "zh": "旗舰级反信号区域投射器 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 100.0,
   "volume": 40.0
 }

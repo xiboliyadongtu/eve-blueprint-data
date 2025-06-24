@@ -1,5 +1,18 @@
 {
-  "typeID": 12190,
+  "basePrice": 150000.0,
+  "description": {
+    "de": "Spezialisierung auf die Aufbereitung von Omber. Ermöglicht es einer sachkundigen Person, Aufbereitungsanlagen mit wesentlich höherer Effizienz zu bedienen.\n\n\n\n2% Bonus auf den Aufbereitungsertrag von Omber je Skillstufe.",
+    "en": "Specialization in Omber reprocessing. Allows a skilled individual to utilize reprocessing facilities at considerably greater efficiency.\r\n\r\n2% bonus to Omber reprocessing yield per skill level.",
+    "es": "Especialización en reprocesamiento de ómber. Permite a un individuo capacitado utilizar instalaciones de reprocesamiento de forma considerablemente más eficiente.\n\n2 % de bonificación al rendimiento del reprocesamiento de ómber por nivel de habilidad.",
+    "fr": "Spécialisation dans le retraitement de l'omber. Permet à un individu compétent de tirer le meilleur parti d'installations de retraitement. Augmente de 2% le rendement du retraitement de l'omber par niveau de compétence.",
+    "ja": "オンバーの再処理に特化している。このスキルがあれば、再処理施設を利用する際に生産性を著しく向上させることができる。\r\n\nスキルレベル上昇ごとに、オンバーの再処理収率が2%増加。",
+    "ko": "옴버 정제에 특화되었습니다. 정제시설의 효율성이 크게 증가합니다. <br><br>매 레벨마다 옴버 정제 산출량 2% 증가",
+    "ru": "Специализация в переработке омбера. Позволяют опытным пилотам получать существенно более качественный результат в цехах переработки сырья.\n\n\n\nЗа каждую степень освоения навыка: на 2% увеличивается полезный выход ресурсов при переработке омбера.",
+    "zh": "提炼奥贝尔石的专业技能。可以大大提高技能熟练者使用提炼设备时的效率。\n\n\n\n每升一级，奥贝尔石提炼产出提高2%。"
+  },
+  "groupID": 1218,
+  "iconID": 33,
+  "marketGroupID": 1323,
   "name": {
     "de": "Omber Processing",
     "en": "Omber Processing",
@@ -10,5 +23,7 @@
     "ru": "Переработка омбера",
     "zh": "奥贝尔石处理技术"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

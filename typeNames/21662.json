@@ -1,5 +1,18 @@
 {
-  "typeID": 21662,
+  "capacity": 8850.0,
+  "description": {
+    "de": "Das ist ein Radioteleskop zur Überwachung der näheren Umgebung.",
+    "en": "This is a radio telescope used for scouting nearby territory",
+    "es": "Radiotelescopio usado para explorar territorio cercano.",
+    "fr": "Radiotélescope utilisé pour explorer des territoires voisins.",
+    "ja": "付近を偵察するための電波望遠鏡。",
+    "ko": "주변 지역을 탐색하는데 사용되는 전파 텔레스코프입니다.",
+    "ru": "Этот радиотелескоп используется для сканирования близлежащих участков пространства.",
+    "zh": "这是一架用来监测临近区域的射电望远镜。"
+  },
+  "graphicID": 2505,
+  "groupID": 306,
+  "mass": 1000000.0,
   "name": {
     "de": "Radio_Telescope_MISSION",
     "en": "Radio_Telescope_MISSION",
@@ -10,5 +23,9 @@
     "ru": "Radio_Telescope_MISSION",
     "zh": "射电望远镜_任务"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 2636.0,
+  "sofFactionName": "genericbase",
   "volume": 100000000.0
 }

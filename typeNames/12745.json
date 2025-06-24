@@ -1,5 +1,54 @@
 {
-  "typeID": 12745,
+  "basePrice": 151600000.0,
+  "capacity": 3900.0,
+  "description": {
+    "de": "Die Deep Space Transporter sind speziell auf die Wirren des gesetzlosen Weltraums ausgerichtet. Sie haben Verteidigungseinrichtungen, die weit über die von Standardtransportern hinausgehen und bieten so einen hervorragenden Schutz für jegliche in ihren gewaltigen Laderäumen transportierte Fracht. Allerdings gehören sie zu den langsamsten Schiffen, die den Weltraum durchstreifen.",
+    "en": "Deep space transports are designed with the depths of lawless space in mind. Possessing defensive capabilities far in excess of standard industrial ships, they provide great protection for whatever cargo is being transported in their massive holds. They are, however, some of the slowest ships to be found floating through space.",
+    "es": "Los transportes del espacio profundo han sido diseñados para las profundidades del espacio sin ley. Poseen capacidades defensivas muy superiores a los estándares de las naves industriales, lo que les permite proteger de forma segura cualquier cargamento transportado en sus enormes bodegas. Sin embargo, figuran entre las naves más lentas del espacio.",
+    "fr": "Les transports d'espace profond sont conçus pour survivre dans les territoires éloignés où rôdent pirates et autres hors-la-loi. Les capacités défensives de ces vaisseaux sont bien supérieures à celles des vaisseaux industriels standards. La cargaison transportée dans leurs énormes soutes est extrêmement bien protégée. En revanche, ils figurent parmi les vaisseaux les plus lents qui soient.",
+    "ja": "深宇宙用特化型輸送艦は、深宇宙の無法地帯で利用することを考えて設計されている。標準型輸送船をはるかに超える防御力を持ち、その巨大なカーゴホールドで運ぶどのような荷物も強固に守ることができる。しかしながら、宇宙空間を航行する船としては最も鈍足の類に属する。",
+    "ko": "딥스페이스 트랜스포터는 무법지대에서의 운용을 위해 설계된 함선입니다. 일반적인 인더스트리얼과는 차원이 다른 방어 시스템을 탑재하여 대규모 화물을 목적지까지 안전하게 운반할 수 있습니다. 모든 함급 가운데 가장 느린 비행속도를 보유하고 있습니다.",
+    "ru": "Транспорты фронтирного типа снабжены всем необходимым для выживания в глубинах космоса, где царит полное беззаконие. Они обладают куда более мощными оборонными системами, чем стандартные промышленные корабли, а их огромные грузовые отсеки способны защитить любое содержимое от посягательств извне. Неудивительно, что такие суда — одни из самых медлительных в Новом Эдеме.",
+    "zh": "深层空间运输舰在设计时就充分考虑到了在不受法律管制的深层空间的作业。它们的防御力远超标准工业舰，因此能够有力保护其巨大船舱内装运的任何货物。不过，它们也是太空中速度最慢的舰船之一。"
+  },
+  "factionID": 500004,
+  "graphicID": 2711,
+  "groupID": 380,
+  "marketGroupID": 632,
+  "mass": 19000000.0,
+  "masteries": {
+    "0": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "1": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "2": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "3": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "4": [
+      96,
+      118,
+      117,
+      94
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Occator",
     "en": "Occator",
@@ -10,5 +59,127 @@
     "ru": "Occator",
     "zh": "奥卡托级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 256.0,
+  "sofFactionName": "roden",
+  "soundID": 20073,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonus": 2,
+        "bonusText": {
+          "de": "Bonus auf die Warpkernstärke des Schiffs",
+          "en": "bonus to ship warp core strength",
+          "es": "de bonificación a la intensidad del núcleo de warp de la nave.",
+          "fr": "de bonus à la force du réacteur de warp",
+          "ja": "艦船のワープコア強度が増加",
+          "ko": "워프 코어 출력 증가",
+          "ru": "повышается степень помехозащищённости варп-двигателя корабля",
+          "zh": "舰船跃迁核心强度加成"
+        },
+        "importance": 1,
+        "unitID": 139
+      },
+      {
+        "bonus": 100,
+        "bonusText": {
+          "de": "Bonus auf die Leistung beim Überladen von Nachbrennern, Microwarpantrieben, eigenen Reparaturmodulen und Resistenzmodulen",
+          "en": "bonus to the benefits of overheating Afterburners, Microwarpdrives, Local Repair Modules, and Resistance Modules",
+          "es": "de bonificación a los beneficios de posquemadores, motores de microwarp, módulos de reparación locales y módulos de resistencia sobrecalentados.",
+          "fr": "bonus aux avantages des modules de post-combustion, de propulseur de microwarp, de réparation locale et de résistance en surchauffe",
+          "ja": "オーバーヒートしたアフターバーナー・マイクロワープドライブ・ローカルリペアモジュール・レジスタンスモジュールの利益が増加",
+          "ko": "애프터버너, 마이크로 워프 드라이브, 근접 수리장치 모듈 및 저항력 관련 모듈 과부하 시 보너스 효과 증가",
+          "ru": "усиливается влияние перегрузки на производительность ускорителей и ряда защитных и ремонтных систем, а именно: форсажных ускорителей, микроварп-ускорителей, бортовых установок ремонта брони и накачки щитов, а также активных модуляторов щитов и систем укрепления брони против воздействий всех видов",
+          "zh": "加力燃烧器、微型跃迁推进器、自身维修装备和抗性提升装备超载后获得的效果提升增加"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 90,
+        "bonusText": {
+          "de": "Reduktion der effektiv zurückgelegten Distanz für die Sprungerschöpfung",
+          "en": "reduction to effective distance traveled for jump fatigue",
+          "es": "de reducción de la distancia efectiva hasta sufrir fatiga de salto.",
+          "fr": "de réduction de la distance effectuée pour l'épuisement de saut",
+          "ja": "ジャンプによる疲弊が飛行距離に及ぼす影響を低減",
+          "ko": "이동 거리에 따른 점프 피로도 감소",
+          "ru": "медленнее накапливается усталость от гиперпереходов",
+          "zh": "减少跳跃距离对产生跳跃疲劳的影响"
+        },
+        "importance": 3,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3340": [
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Leistung von <a href=showinfo:3393>Panzerungsreparatursystemen</a>",
+            "en": "bonus to <a href=showinfo:3393>Armor Repairer</a> amount",
+            "es": "de bonificación a la eficiencia de los <a href=showinfo:3393>reparadores de blindaje</a>.",
+            "fr": "de bonus au montant des <a href=showinfo:3393>réparateurs de blindage</a>",
+            "ja": "<a href=showinfo:3393>アーマーリペアラ</a>のリペア量が増加",
+            "ko": "<a href=showinfo:3393>장갑수리 장치</a> 수리량 증가",
+            "ru": "повышается производительность <a href=showinfo:3393>установок ремонта брони</a>",
+            "zh": "<a href=\"showinfo:3393\">装甲维修器</a>维修量加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die Maximalgeschwindigkeit des Schiffs",
+            "en": "bonus to ship max velocity",
+            "es": "de bonificación a la velocidad máxima de la nave.",
+            "fr": "de bonus à la vitesse maximale du vaisseau",
+            "ja": "艦船の最高速度が上昇",
+            "ko": "최대 속도 증가",
+            "ru": "увеличивается скорость полного хода корабля",
+            "zh": "舰船最大速度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ],
+      "19719": [
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die Größe des Flottenhangars",
+            "en": "bonus to fleet hangar capacity",
+            "es": "de bonificación de la capacidad del hangar para la flota.",
+            "fr": "de bonus à la capacité du hangar de flotte",
+            "ja": "フリートハンガー容量が増加",
+            "ko": "함대 공용 창고 용적 증가",
+            "ru": "увеличивается вместимость отсека с внешним доступом",
+            "zh": "舰队机库容量加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 4,
+          "bonusText": {
+            "de": "Bonus auf alle Panzerungsresistenzen",
+            "en": "bonus to all armor resistances",
+            "es": "de bonificación a todas las resistencias de blindaje.",
+            "fr": "de bonus à toutes les résistances du blindage",
+            "ja": "全てのアーマーレジスタンスが増加",
+            "ko": "모든 장갑 저항력 증가",
+            "ru": "повышается сопротивляемость брони корабля всем видам воздействия",
+            "zh": "装甲抗性加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 655,
   "volume": 390000.0
 }

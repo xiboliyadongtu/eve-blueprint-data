@@ -1,5 +1,18 @@
 {
-  "typeID": 57582,
+  "capacity": 150.0,
+  "description": {
+    "de": "Diese Fregatte der Pacifier-Klasse bietet schwache Screening-Fähigkeiten der AEGIS-Sicherheitskräfte, die die Capital-Schiffs-Sicherheitsanlage bewachen. Es wäre unklug, die Aufmerksamkeit dieser schnellen Angriffsfregatte auf sich zu ziehen.",
+    "en": "This Pacifier-class frigate provides a light screening capability to the AEGIS Security forces guarding the Capital Ship Security Facility. It would be unwise to draw the attention of this rapid attack frigate.",
+    "es": "Esta fragata de clase Pacifier proporciona una capacidad de escaneo ligera a las fuerzas de seguridad de AEGIS que protegen las instalaciones de seguridad de la nave capital. Más vale no llamar la atención de esta fragata de ataque rápido.",
+    "fr": "Cette frégate de classe Pacifier offre une capacité de protection légère aux forces de sécurité d’AEGIS gardant l’installation de sécurité des vaisseaux capitaux. Il ne serait pas sage d’attirer l’attention de cette frégate d'attaque rapide.",
+    "ja": "このパシファイヤー級フリゲートは、シンプルな早期警戒機能で主力艦警備施設を守っているイージス警備部隊に通報する。この俊敏な攻撃フリゲートの注意を引くのは賢明とは言えないだろう。",
+    "ko": "AEGIS가 운용하는 퍼시파이어급 프리깃으로 캐피탈 함선 시설을 방어하기 위해 배치되었습니다. 접근 시 각별한 주의가 요구됩니다.",
+    "ru": "Этот фрегат класса «Пасифаер» создаёт световой заслон для сил безопасности «ЭГИДА», охраняющих центр безопасности КБТ. От этого стремительного атакующего фрегата лучше держаться подальше.",
+    "zh": "这艘安抚者级护卫舰为守卫着旗舰安全设施的统合部紧急干预和安全局安保部舰队提供外围侦察支持。引起这艘快速而迅猛的护卫舰的注意可是件危险的事。"
+  },
+  "graphicID": 21490,
+  "groupID": 1803,
+  "mass": 1400000.0,
   "name": {
     "de": "AEGIS Security Pacifier",
     "en": "AEGIS Security Pacifier",
@@ -10,5 +23,10 @@
     "ru": "AEGIS Security Pacifier",
     "zh": "统合部紧急干预和安全局安保部安抚者级"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 38.0,
+  "sofFactionName": "concordcivilian",
+  "soundID": 20070,
   "volume": 20000.0
 }

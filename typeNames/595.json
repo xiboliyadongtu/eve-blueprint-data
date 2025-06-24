@@ -1,5 +1,19 @@
 {
-  "typeID": 595,
+  "capacity": 200.0,
+  "description": {
+    "de": "Die Standardfregatte der Polizeikräfte der Gallente Föderation - bekannt für hochwertige Ausrüstung und Auslegung.",
+    "en": "The standard police vessel of the Gallente Federation. Renowned for its high quality equipment and loadout.",
+    "es": "La nave de policía estándar de la Federación Gallente. Famosa por la alta calidad de su equipo.",
+    "fr": "Vaisseau de police standard de la Fédération gallente. Il est renommé pour son équipement de grande qualité et pour son chargement.",
+    "ja": "ガレンテ連邦の標準型警備艦。質の高い装備と積み出し設備で名高い。",
+    "ko": "갈란테 연방의 순찰함입니다. 고품질의 장비와 무장을 갖춘 것으로 유명합니다.",
+    "ru": "Это стандартный полицейский корабль Федерации Gallente. Он славится качеством установленного на нём оборудования и вооружения.",
+    "zh": "盖伦特联邦标准警用舰船。以它的高质量装备和火力输出而著称。"
+  },
+  "factionID": 500004,
+  "graphicID": 66,
+  "groupID": 25,
+  "mass": 2040000.0,
   "name": {
     "de": "Gallente Police Ship",
     "en": "Gallente Police Ship",
@@ -10,5 +24,11 @@
     "ru": "Gallente Police Ship",
     "zh": "盖伦特警用船"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 38.0,
+  "sofFactionName": "police",
+  "soundID": 20074,
   "volume": 20400.0
 }

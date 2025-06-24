@@ -1,5 +1,18 @@
 {
-  "typeID": 2542,
+  "basePrice": 900000.0,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Obwohl sie am Grund des Ozeans verankert ist, ist diese Unterwasser-Raketenabschussrampe (underwater launch pad) in der Lage, Ladungen aus dem Orbit über zwei verschiedene Mechanismen zu erhalten. Der erste ist ein unter Druck stehendes, gyrostabilisiertes Abschirmsystem, welches den benötigten Druck erzeugt, um eine Feststoffrakete an die Oberfläche des Wassers zu befördern, wo sie mit eigener Kraft Fluchtgeschwindigkeit erreicht. Zweitens verfügt die Struktur über einen automatischen Drohnenhangar, der in der Lage ist, Kanister nach der Wasserung an der Oberfläche einzuholen und Boosterteile von Exportraketen für die Wiederverwertung zu bergen.",
+    "en": "Despite being anchored to the ocean floor, the underwater launch pad is able to deliver and receive payloads from orbit via two separate mechanisms. First, a compressed gyrostabilized gas containment system provides the required pressure to propel a solid fuel rocket to the surface of the water, where it can achieve escape velocity under its own power. Secondly, the structure houses an automated drone bay capable of retrieving splash-down canisters deposited on the surface as well as recovering booster stages of export rockets for reuse.",
+    "es": "A pesar de estar anclada al fondo oceánico, la plataforma de lanzamiento submarina puede enviar y recibir cargas útiles desde la órbita por medio de dos mecanismos distintos. Primero, un sistema de contención de gas giroestabilizado comprimido proporciona la presión necesaria para lanzar un cohete de combustible sólido hasta la superficie acuática, donde puede alcanzar la velocidad de escape por su propia potencia. En segundo lugar, la estructura alberga un muelle de drones automatizado capaz de recuperar tanto botes acuáticos depositados en la superficie como las etapas de potenciadores de los cohetes lanzados para su posterior reutilización.",
+    "fr": "Malgré sa position ancrée dans les fonds océaniques, la rampe de lancement sous-marine est capable de lancer et de recevoir des charges utiles depuis leur orbite via deux mécanismes séparés. Premièrement, un système de confinement du gaz gyrostabilisé et condensé fournit la pression nécessaire pour une propulsion à propergol solide jusqu'à la surface de l'eau, où la roquette pourra atteindre sa vitesse d'échappement à toute puissance. Deuxièmement, la structure abrite un hangar à drones automatisés capables de récupérer les boîtes retombées à la surface, ainsi que les boosters des roquettes pour les réutiliser.",
+    "ja": "海底に係留して使うものだが、2 つの別個のメカニズムを利用して貨物のやり取りが可能。1 つ目のメカニズムは、ガス格納システムである。ジャイロスタビライザーによって安定状態が保たれている圧縮ガスを使って必要な圧力をかけ、固形燃料ロケットを水面まで推進させる。ロケットは水面からは自力で脱出速度に到達する。2 つ目は自動ドローンベイが備わっていることである。ドローンは、水面に落とされた容器を回収し、輸出用ロケットを再利用するためにブースター部分を修復する機能を持つ。",
+    "ko": "해저 발사패드는 두 가지 메커니즘을 통해 행성 궤도로부터 화물을 받거나 반대로 쏘아 올릴 수 있습니다. 우선 자이로안정형 가스격납시스템을 통해 고체연료 로켓을 해수면까지 쏘아 올려 화물을 대기권 밖으로 운송하는 방식이 존재합니다. 둘째, 자동화 드론 격납고를 활용하여 해수면에 착수된 화물과 재활용 추진제를 수거합니다.",
+    "ru": "Несмотря на то, что подводные стартовые площадки заякорены на океаническое дно, они способны запускать и принимать грузы с орбиты благодаря двум различным механизмам. Во-первых, это герметичная система со сжатым гиростабилизированным газом, которая создает давление, достаточное для запуска ракеты на твердом топливе к поверхности воды, где она способна достичь второй космической скорости с применением собственного движителя. Во-вторых, в комплексе имеется отсек с автоматизированными дронами, способными находить и приносить приводнившиеся цистерны, сброшенные на поверхность воды, а также собирать упавшие на поверхность стартовые ступени экспортирующих ракет для повторного использования.",
+    "zh": "尽管这座水下发射设施被固定在了海洋底部，它依然能够通过两套独立的系统来发射和接收来往于轨道和行星之间的货物。首先通过一个陀螺稳定压缩气体控制系统提供所需的压力来驱动固态燃料火箭到达海面，再启动自身的推进器以达到逃逸速度。其次，设施内还有配备有自动无人机器人舱，能够回收降落在海面的货柜，还能回收掉落的火箭推进段以便复用。"
+  },
+  "graphicID": 4561,
+  "groupID": 1030,
   "name": {
     "de": "Oceanic Launchpad",
     "en": "Oceanic Launchpad",
@@ -10,5 +23,6 @@
     "ru": "Oceanic Launchpad",
     "zh": "海洋行星发射平台"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": true
 }

@@ -1,5 +1,20 @@
 {
-  "typeID": 33477,
+  "capacity": 900.0,
+  "description": {
+    "de": "Eine kleine, stationierbare Einheit, die von Spielern verwalteten Strukturen (POS) Materialien stiehlt. Die kleine mobile Absaugeinheit kann Mond-Harvestern Rohmaterialien und Simple Reactors verarbeitete Materialien entziehen. Die gestohlenen Materialien werden in der Einheit aufbewahrt und sind für jeden zugänglich.\n\nDie Absaugeinheit verwendet fortschrittliche Morphtechnologien, um sich als Teil der POS zu tarnen. Auf diese Weise kann sie das Fließband der POS anzapfen, ohne von den Verteidigungsanlagen bemerkt zu werden.",
+    "en": "A small personal deployable that steals material from player owned structures (POS). The Small Mobile Siphon Unit can steal Raw Material from Moon Harvesters and Processed Material from Simple Reactors. The stolen materials are stored in the unit and are accessible by anyone.\r\n\r\nThe Siphon Unit uses an advanced morphing technology to mask itself as being part of the POS. This allows it to infiltrate the production line of the POS and escape the attention of its defenses.",
+    "es": "Un pequeño desplegable personal que roba materiales de estructuras de jugadores. La pequeña unidad sifónica móvil puede robar materias primas de cosechadoras lunares y materias procesadas de reactores simples. Los materiales robados se almacenan en la unidad y cualquiera puede acceder a ellos.\n\nLa unidad sifónica utiliza una tecnología de mutación avanzada para camuflarse como parte de la estructura de jugadores. Así se infiltra en la cadena de producción sin captar la atención de las defensas.",
+    "fr": "Petite unité personnelle mobile capable de voler des matériaux aux structures appartenant aux joueurs. Le petit siphon mobile peut voler des matières brutes aux collecteurs lunaires et des matériaux transformés aux réacteurs simples. Les matériaux volés sont ensuite stockés dans l'unité et sont accessibles par tous.\n\nLe siphon utilise une technologie avancée de camouflage pour se fondre dans la structure appartenant au joueur. Cela lui permet ainsi d'infiltrer la ligne de production de la structure et d'échapper à ses défenses.",
+    "ja": "個人用の移動式小型施設で、プレイヤー所有建造物（POS）から資源を盗み出すのに使う。小型移動式サイフォンユニットは、衛星採掘機から未精製の資源を、単純化合施設から1次加工品を吸い出すことができる。吸い出した資源はユニット内に貯蔵され、誰でも取り出せる。\n\nサイフォンユニットは高度な偽装テクノロジーを使って自分を標的POSの一施設に見せかける。そうしてPOSのセキュリティシステムに気づかれることなく生産ラインに割り込むのである。",
+    "ko": "개인용 소형 전개 장치로 플레이어 소유의 구조물(POS)에서 자원을 탈취합니다. 이동식 사이펀 장치를 이용하여 위성 하베스터에서 원자재를, 기초 반응로에서 가공된 자재를 탈취할 수 있습니다. 탈취한 자원은 장치에 저장되며 누구나 내용물을 꺼낼 수 있습니다. <br><br>사이펀 장치는 첨단 모핑 기술이 적용되어 POS의 일부로 보이도록 위장이 가능하기 때문에 이목을 끌지 않고 POS의 생산라인에 침투한 뒤 빠져나갈 수 있습니다.",
+    "ru": "Отводной блок предназначен для личного использования в целях хищения сырья из передвижных орбитальных станций (ПОСов). Он применяется для извлечения сырья нулевой и первой ступеней из грузовых отсеков автоматических добывающих комплексов и химических реакторов первой ступени. Доступ к грузовым отсекам отводных блоков, хранящим извлечённое сырьё, может получить любой пилот.\n\nПосле сброса за борт корабля отводной блок применяет усовершенствованную имитационную технологию, мгновенно «встраиваясь» в систему блоков ПОСа. Благодаря этому системы автоматической защиты орбитальной станции игнорируют присутствие отводного блока и не препятствуют его врезке в производственную цепочку.",
+    "zh": "小型移动式虹吸装置是一种小型可部署装置，能够从玩家的建筑中偷取资源。它可以从卫星开采阵列中偷取原材料，也可以从简单反应堆阵列中偷取加工后的材料。窃取来的材料会储存在这个装置中，任何人都可以拿走它们。\n\n这个虹吸装置使用了一种先进的变形技术，将自己伪装成玩家建筑的一部分。这样它就可以渗透进入建筑的生产线而不被防御系统察觉了。"
+  },
+  "graphicID": 20389,
+  "groupID": 1247,
+  "marketGroupID": 1835,
+  "mass": 10000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Small Mobile Siphon Unit",
     "en": "Small Mobile Siphon Unit",
@@ -10,5 +25,9 @@
     "ru": "Small Mobile Siphon Unit",
     "zh": "小型移动式虹吸装置"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "genericcolony",
+  "soundID": 20131,
   "volume": 35.0
 }

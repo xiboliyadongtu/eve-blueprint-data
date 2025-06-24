@@ -1,5 +1,18 @@
 {
-  "typeID": 64404,
+  "capacity": 400.0,
+  "description": {
+    "de": "Dieses Schlachtschiff gehört DED, einer Abteilung von CONCORD, die dafür zuständig ist, Kriminelle zu jagen und zu vernichten.",
+    "en": "This is a battleship belonging to DED, a division in the CONCORD organization responsible for tracking down and eliminating criminals.",
+    "es": "Acorazado que pertenece al DED, una división en el seno de CONCORD que se encarga de seguirles la pista a los criminales para aniquilarlos.",
+    "fr": "Il s'agit d'un cuirassé appartenant au DED, un département de l'organisation CONCORD chargé de la poursuite et de l'élimination de criminels.",
+    "ja": "犯罪者の追跡と撲滅を担当するCONCORD組織の一部門、DEDに所属する戦艦。",
+    "ko": "CONCORD에서 범죄자 추적 및 소탕을 전담하는 DED의 배틀쉽입니다.",
+    "ru": "Этот линкор принадлежит СМЕРу — подразделению КОНКОРДа, занимающемуся поиском и уничтожением преступников.",
+    "zh": "这艘战列舰隶属统合部下属的DED部门，负责追杀罪犯。"
+  },
+  "graphicID": 21864,
+  "groupID": 697,
+  "mass": 20500000.0,
   "name": {
     "de": "CONCORD Fleet Commander",
     "en": "CONCORD Fleet Commander",
@@ -10,5 +23,9 @@
     "ru": "CONCORD Fleet Commander",
     "zh": "统合部舰队指挥官"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 600.0,
+  "sofFactionName": "concordcivilian",
   "volume": 1080000.0
 }

@@ -1,5 +1,16 @@
 {
-  "typeID": 34404,
+  "description": {
+    "de": "Die Sonnenstrahlen-Netzklemme ist dazu gedacht, Sonnenenergie in Energie umzuwandeln, indem sie Sonnenenergie von nahen Sonnenstrahlen-Anpassungseinheiten sammelt. Allerdings scheinen die Anpassungseinheiten nicht korrekt zu funktioniert, was dazu führt, dass die Sonnenstrahlen-Netzklemme ihre Energie unberechenbar in dem Raum um sie herum abwirft. Das macht es extrem gefährlich, sich ihr zu nähern.",
+    "en": "The Solray Power Terminal is intended to use solar power to generate energy, by gathering solar power from nearby Solray Alignment Units. However, it seems the alignment units are not working properly, causing the Solray Power Terminal to flare its energy erratically into space around it. This makes it extremely hazardous to move close to.",
+    "es": "El terminal de energía de Solray está ideado con el fin de utilizar la energía solar para generar energía, para lo que reúne la energía solar de las unidades de alineación Solray cercanas. Sin embargo, parece que las unidades alineadas no funcionan correctamente, lo que provoca que el terminal de potencia de Solray lance su energía de forma errática al espacio circundante. Así, acercarse es extremadamente peligroso.",
+    "fr": "La borne d'alimentation de rayons solaires est destinée à utiliser la puissance solaire pour générer de l'énergie en rassemblant de l'énergie solaire à partir d'unités d'alignement de rayons solaires avoisinantes. Cependant, il semblerait que les unités d'alignement ne fonctionnent pas correctement, et provoquent la dispersion de l'énergie de la borne d'alimentation autour d'elle. Il est donc très dangereux de s'en approcher.",
+    "ja": "ソルレーパワーターミナルは、隣接するソルレー調整装置を使用して太陽光からエネルギーを生み出すことを目的とする施設である。だが調整装置が適切に稼動しないと、ソルレーパワーターミナルは周辺空間へ不規則にエネルギーを放出する原因となる。そうなった場合は、近づくのが極めて危険である。",
+    "ko": "솔레이 전력 시설은 주변 정렬 장치를 통해 태양열을 흡수한 후 전력을 생산합니다. 그러나 현재 정렬 장치 고장으로 인해 전력이 주변으로 새어 나가고 있습니다. 지나치게 근접할 경우 위험에 처할 수 있습니다.",
+    "ru": "Блок распределения энергии звезды предназначен для использования излучения звезды в целях производства энергии, которая собирается из близлежащих блоков направления излучения звезды. Похоже, что блоки направления излучения работают некорректно, поэтому блок распределения энергии излучает энергию в форме хаотических вспышек в пространство. Как следствие, приближаться к ним крайне опасно.",
+    "zh": "恒星射线能量终端能收集附近的恒星射线校准单元的恒星能量，然后将其转化为能源。但是，这些校准单元看起来发生了故障，使得恒星射线能量终端将能源不断散射到周围的太空中。靠近它是件极其危险的事情。"
+  },
+  "graphicID": 2069,
+  "groupID": 226,
   "name": {
     "de": "Solray Unaligned Power Terminal",
     "en": "Solray Unaligned Power Terminal",
@@ -10,5 +21,9 @@
     "ru": "Solray Unaligned Power Terminal",
     "zh": "未校准的恒星射线能量终端"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 3500.0,
+  "sofFactionName": "genericmetal"
 }

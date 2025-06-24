@@ -1,5 +1,19 @@
 {
-  "typeID": 31211,
+  "description": {
+    "de": "Diese Schiffsmodifikation wurde entworfen, um die Effizienz der Reliktmodule eines Schiffes zu vergrößern.",
+    "en": "This ship modification is designed to increase the efficiency of a ship's relic modules.",
+    "es": "Esta modificación de nave está diseñada para aumentar la eficiencia de los módulos de reliquias de una nave.",
+    "fr": "Cette modification de vaisseau est conçue pour améliorer l'efficacité des modules de relique du vaisseau.",
+    "ja": "遺物アナライザーモジュールの効率が向上する。",
+    "ko": "리그 장착 시 유물 분석 모듈의 성능이 향상됩니다.",
+    "ru": "Эта модификация корабля усиливает эффективность действия модулей, предназначенных для извлечения артефактов.",
+    "zh": "这个飞船改装件用于增加舰船遗迹分析装备的效率。"
+  },
+  "groupID": 1233,
+  "iconID": 3199,
+  "marketGroupID": 1789,
+  "mass": 200.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Capital Emission Scope Sharpener II",
     "en": "Capital Emission Scope Sharpener II",
@@ -10,5 +24,9 @@
     "ru": "Capital Emission Scope Sharpener II",
     "zh": "旗舰级放射范围约束装置 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 100.0,
+  "variationParentTypeID": 31205,
   "volume": 40.0
 }

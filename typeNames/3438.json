@@ -1,5 +1,18 @@
 {
-  "typeID": 3438,
+  "basePrice": 50000.0,
+  "description": {
+    "de": "Fertigkeit zur Steuerung von Bergbaudrohnen. 5% Bonus auf den Ertrag von Bergbaudrohnen je Skillstufe.",
+    "en": "Skill at controlling mining drones. 5% bonus to mining drone yield per skill level.",
+    "es": "Habilidad para controlar de drones mineros. 5 % de bonificación al rendimiento de los drones mineros por nivel de habilidad.",
+    "fr": "Compétence liée au contrôle des drones d’extraction. Augmente de 5 % le rendement des drones d’extraction par niveau de compétence.",
+    "ja": "採掘専門ドローンを操作するスキル。スキルレベル上昇ごとに採掘専門ドローンの採掘量が5%増加。",
+    "ko": "채굴 드론 운용을 위한 스킬입니다. 매 레벨마다 채굴 드론 산출량 5% 증가",
+    "ru": "Навык эксплуатации буровых дронов. За каждую степень освоения навыка: на 5% повышается производительность буровых дронов.",
+    "zh": "操纵采矿无人机的技能。每升一级，采矿无人机的矿石开采量提高5%。"
+  },
+  "groupID": 273,
+  "iconID": 33,
+  "marketGroupID": 366,
   "name": {
     "de": "Mining Drone Operation",
     "en": "Mining Drone Operation",
@@ -10,5 +23,7 @@
     "ru": "Буровые дроны",
     "zh": "采矿无人机操控理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

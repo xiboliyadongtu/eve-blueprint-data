@@ -1,5 +1,20 @@
 {
-  "typeID": 87502,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Ein gut erhaltenes, uraltes Depot von selteneren Artefakten und Wertgegenständen, die von Sleeper-Drohnen unter Drifter-Kontrolle gesammelt wurden. Es kann mithilfe eines Reliktanalysegeräts geöffnet werden.",
+    "en": "A well-preserved ancient depository of rarer artifacts and valuables gathered by Sleeper Drones under Drifter control. It can be opened with the assistance of a Relic Analyzer.",
+    "es": "Un antiguo depósito bien conservado de artefactos y objetos de valor reunidos por los drones sleepers bajo el control de los drifters. Se puede abrir con la ayuda de un analizador de reliquias.",
+    "fr": "Un ancien dépôt d'artéfacts et d'objets de valeur bien préservés amassés par des drones sleeper sous le contrôle des Drifters. Il peut être ouvert à l'aide d'un analyseur de reliques.",
+    "ja": "ドリフターの支配下にあるスリーパードローンが集めた、珍しいアーティファクトや貴重品が収められた古代の貯蔵庫。保存状態は良好で、遺物アナライザーの補助を受ければ開けることができる。",
+    "ko": "드리프터가 이끄는 슬리퍼 드론이 각종 유물과 자원을 모으는 희귀 고대 저장고입니다. 보존 상태가 좋습니다. 유물 분석기로 열 수 있습니다.",
+    "ru": "Древнее, но почти целое хранилище редких артефактов и ценностей, собранных дронами Спящих под управлением Скитальцев. Его можно открыть с помощью анализатора артефактов.",
+    "zh": "一座保存完好的古老储藏库，负责存放由流浪者控制的冬眠者无人机所收集的稀有文物和贵重物品。可借助遗迹分析仪开启该储藏库。"
+  },
+  "factionID": 500021,
+  "graphicID": 2301,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Preserved Sleeper Depot",
     "en": "Preserved Sleeper Depot",
@@ -10,5 +25,10 @@
     "ru": "Preserved Sleeper Depot",
     "zh": "留存的冬眠者机舱"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 64,
+  "radius": 600.0,
+  "sofFactionName": "genericmetal",
   "volume": 27500.0
 }

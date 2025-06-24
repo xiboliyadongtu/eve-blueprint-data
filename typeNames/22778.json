@@ -1,5 +1,20 @@
 {
-  "typeID": 22778,
+  "description": {
+    "de": "Eingesetzt durch einen Unterbrechungsfeldwerfer, der auf einem Unterbrecher montiert ist, verhindert diese Sonde jeden Warpsprung innerhalb ihres Wirkungsbereichs.",
+    "en": "Deployed from an Interdiction Sphere Launcher fitted to an Interdictor this probe prevents warping from within its area of effect.",
+    "es": "Desplegada desde un lanzaesferas de interdicción equipado en un interdictor, esta sonda evita que warpee desde dentro de su radio de acción.",
+    "fr": "Cette sonde est lancée à l'aide d'un lanceur de sphère d'interdiction équipant un interdicteur. Elle empêche tout vaisseau se trouvant dans sa zone d'effet de warper.",
+    "ja": "インターディクターに搭載されるインターディクションスフィアランチャーで使用され、有効範囲内でのワープを妨害する。",
+    "ko": "인터딕터 전용 장비인 인터딕션 런쳐에 장전하는 프로브입니다. 범위 내의 워프를 차단합니다.",
+    "ru": "Зонд, запускаемый с пусковых установок заградительных зондов (interdiction sphere launcher), которыми оснащаются заградительные корабли (interdictors); бортовое оборудование зонда предназначено для вывода из строя варп-двигателей кораблей, находящихся рядом с ним.",
+    "zh": "这种探针由安装在拦截舰上的拦截泡发射器部署，可以阻止其有效区域内的跃迁。"
+  },
+  "graphicID": 3018,
+  "groupID": 548,
+  "iconID": 1721,
+  "marketGroupID": 1201,
+  "mass": 1.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Warp Disrupt Probe",
     "en": "Warp Disrupt Probe",
@@ -10,5 +25,7 @@
     "ru": "Warp Disrupt Probe",
     "zh": "跃迁干扰探针"
   },
+  "portionSize": 2,
+  "published": true,
   "volume": 5.0
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 23542,
+  "description": {
+    "de": "Ein Datenspeicher, der geheime Aufzeichnungen enthält, die mit high-tech Ausrüstung abgefangen wurden.",
+    "en": "A data storage of secret communications caught by hi-tech surveillance equipment.",
+    "es": "Datos almacenados de las comunicaciones secretas captadas por equipos de vigilancia de alta tecnología.",
+    "fr": "Lieu de stockage de communications secrètes interceptées par des équipements de surveillance de haute technologie.",
+    "ja": "ハイテク諜報装置がとらえた機密通信データのストレージ。",
+    "ko": "최첨단 관측 장비가 입수한 비밀 통신 기록입니다.",
+    "ru": "Устройство хранения данных секретных сообщений, пойманных при помощи высокотехнологичного устройства наблюдения.",
+    "zh": "由高科技监听装置捕获的秘密通信的储存记录。"
+  },
+  "groupID": 526,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Surveillance Recordings",
     "en": "Surveillance Recordings",
@@ -10,5 +22,7 @@
     "ru": "Surveillance Recordings",
     "zh": "监视记录"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

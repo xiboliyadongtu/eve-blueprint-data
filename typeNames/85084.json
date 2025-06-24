@@ -1,5 +1,21 @@
 {
-  "typeID": 85084,
+  "basePrice": 3000.0,
+  "capacity": 4.0,
+  "description": {
+    "de": "Kapselbrecher-Werfer verfügen über einen kompakten Klontank, der nach dem Tod die nanoheuristischen Kartierungen seiner Klone empfängt. Sie bieten zugelassenen Schiffen die Möglichkeit, Enterkommandos über Kapselbrecher schnell in feindliche Schiffe zu entsenden.",
+    "en": "Featuring a compact recloning vat that receives its clones' nanoheuristic mappings upon death, Breacher Pod Launchers provide eligible ships the ability to send boarding parties rapidly into enemy ships via Breacher Pods.",
+    "es": "Con un tanque de reclonación compacto que recibe los mapeos nanoheurísticos de sus clones al morir, los lanzacápsulas de ataque ofrecen a las naves aptas la capacidad de enviar grupos de abordaje rápidamente a las naves enemigas a través de cápsulas de ataque.",
+    "fr": "Dotés d'une cuve de reclonage compacte qui reçoit les cartographies nanoheuristiques de leurs clones à leur mort, les lanceurs de capsules de brèche offrent aux vaisseaux compatibles la capacité d'envoyer rapidement des groupes d'abordage dans les vaisseaux ennemis via les capsules de brèche.",
+    "ja": "クローンが死亡した際のナノヒューリスティック・マッピングデータを受信する、コンパクトな再クローニングタンクを備えた突入ポッドランチャー。対応している艦船が、突入ポッドを使って迅速に搭乗員を敵艦に送り込めるようになる。",
+    "ko": "침투 포드는 일종의 거대한 클론 복제 시험관으로 클론이 사망하면 해당 클론의 모든 나노휴리스틱 정보를 백업합니다. 침투 포드 런처는 침투 포드로 적 함선에 클론을 침투시킵니다.",
+    "ru": "Пусковые установки внедряющихся капсул оснащены компактным устройством повторного клонирования. В момент уничтожения клоны отправляют такому устройству свои наноэвристические данные. Эти координаты, в свою очередь, записываются в память новых клонов, что позволяет ускорить последующие атаки.",
+    "zh": "分裂者级逃生舱发射器配备了一个紧凑型克隆舱，能够在克隆体死亡的时候接收其纳米触发式映射，从而使符合条件的舰船可以用分裂者级逃生舱快速将登舰突击队送入敌方舰船。"
+  },
+  "graphicID": 27870,
+  "groupID": 4807,
+  "iconID": 26395,
+  "marketGroupID": 3726,
+  "metaGroupID": 1,
   "name": {
     "de": "Small Breacher Pod Launcher",
     "en": "Small Breacher Pod Launcher",
@@ -10,5 +26,8 @@
     "ru": "Small Breacher Pod Launcher",
     "zh": "小型分裂者级逃生舱发射器"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "deathless",
   "volume": 5.0
 }

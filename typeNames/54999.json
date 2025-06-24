@@ -1,5 +1,18 @@
 {
-  "typeID": 54999,
+  "capacity": 20000.0,
+  "description": {
+    "de": "Dieses Kommunikationsrelais wurde von Raubdrohnen befallen. Es enthält möglicherweise Hinweise zum Ursprung dieser ungewöhnlichen Drohnenaktivität.",
+    "en": "This communications relay has been infested by rogue drones. It may contain clues to the origin of this anomalous drone activity.",
+    "es": "Este repetidor de comunicaciones ha sido infestado por drones rebeldes. Puede que contenga pistas sobre el origen de esta actividad anómala.",
+    "fr": "Ce relais de communications a été infesté par des drones renégats. Il contient peut-être des indices sur l'origine de ces drones anormaux.",
+    "ja": "この通信中継施設にははぐれドローンが巣食っている。異常なドローン活動の原因を探る手がかりがあるかもしれない。",
+    "ko": "로그 드론에 의해 감염된 통신 중계소입니다. 변종 드론에 관한 단서가 숨겨져 있을 가능성이 있습니다.",
+    "ru": "Этот ретранслятор был поражён восставшими дронами. Возможно, он содержит информацию, которая поможет нам раскрыть секрет этой аномальной активности дронов.",
+    "zh": "这座通信中继站已遭到自由无人机的感染。其中也许可以找到有关这种反常的无人机的行动线索。"
+  },
+  "graphicID": 2586,
+  "groupID": 494,
+  "mass": 1000000.0,
   "name": {
     "de": "Decloaked Infested Fluid Router Relay",
     "en": "Decloaked Infested Fluid Router Relay",
@@ -10,5 +23,9 @@
     "ru": "Decloaked Infested Fluid Router Relay",
     "zh": "显形的被感染流体路由器中继站"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 937.0,
+  "sofFactionName": "roguebase",
   "volume": 4000.0
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 12273,
+  "description": {
+    "de": "Von diesem uralten Gerät behaupten Gerüchte, dass es diejenigen, die ihm zu nahe kommen, zu weit entfernten Orten schleudert. Vorsichtige Reisende halten sich von ihnen fern, da einige Leute, die sich zu nahe herangewagt haben, nie wieder gesehen wurden.",
+    "en": "This is an ancient device that rumor says will hurtle those that come too close to faraway places. Wary travelers stay away from them as some that have ventured too close have never been seen again.",
+    "es": "Dispositivo antiguo que, según dicen, enviará a un lugar remoto a quien se acerque demasiado. Los viajeros precavidos procuran mantener las distancias, pues los que se han atrevido a dar el paso no han vuelto jamás.",
+    "fr": "Cet ancien dispositif précipite, paraît-il, les curieux vers des destinations très éloignées. Les voyageurs vigilants restent à distance respectueuse, car les quelques imprudents qui s'y sont aventurés ne sont jamais revenus...",
+    "ja": "この古代の機械には、近づきすぎるとどこか遠くへ飛ばされてしまうという噂がある。無謀にも接近を試みて行方不明になった者もいるので、用心深い人間は近寄らない。",
+    "ko": "소문에 따르면 이 고대 장치는 감히 겁 없이 다가오는 자들을 붙잡아 머나먼 곳으로 던져 버린다고 합니다. 접근했던 자들의 말로에 대해 익히 들어왔던 여행자들은 이러한 장치에 접근하지 않도록 매우 조심합니다.",
+    "ru": "Древнее устройство, которое, по слухам, забрасывает в отдаленные места всех, кто слишком приблизится к нему. Осторожные путешественники держатся от таких устройств подальше, поскольку некоторые, рискнувшие подойти к ним слишком близко, не вернулись.",
+    "zh": "据传，这座古代加速轨道会将过于靠近的人抛到非常遥远的地方。谨慎的旅行者都会避开它们；曾经有些人大着胆靠近它们，结果从此失去了踪迹。"
+  },
+  "graphicID": 2341,
+  "groupID": 366,
+  "mass": 100000.0,
   "name": {
     "de": "Ancient Acceleration Gate",
     "en": "Ancient Acceleration Gate",
@@ -10,5 +22,9 @@
     "ru": "Ancient Acceleration Gate",
     "zh": "远古加速轨道"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 12706.0,
+  "sofFactionName": "genericmetal",
+  "soundID": 20171
 }

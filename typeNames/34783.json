@@ -1,5 +1,18 @@
 {
-  "typeID": 34783,
+  "capacity": 480.0,
+  "description": {
+    "de": "Dieser Schlachtkreuzer-Prototyp basiert auf der gewöhnlichen Talos-Rumpfstruktur, wurde jedoch durch die Serpentis-Corporation für sensible Schmuggeloperationen erheblich modifiziert.\n\nEr wird von einem schurkischen, ehemaligen Testpilot gesteuert, der sich von den Serpentis losgesagt hat und nun seinen eigenen Geschäften nachgeht.",
+    "en": "This prototype battlecruiser is based on the common Talos hull structure, but has been heavily modified by the Serpentis Corporation for sensitive smuggling operations.\r\n\r\nIt is piloted by a rogue former test pilot who broke from the Serpentis and went into business for himself.",
+    "es": "Este prototipo de crucero de combate está basado en la estructura común del casco Talos, pero ha sido modificado especialmente por la Corporación Serpentis para operaciones de contrabando delicadas.\n\n\n\nLo pilota un antiguo piloto de pruebas que se ha separado de los Serpentis y ahora se dedica a sus propios negocios.",
+    "fr": "Ce prototype de croiseur de bataille est basé sur la structure de coque commune Talos, mais a été modifié lourdement par la corporation serpentis afin d'effectuer des activités de contrebande sensibles.\n\nIl est piloté par un ancien pilote de test renégat qui s'est séparé des serpentis et a commencé sa propre affaire.",
+    "ja": "一般的なタロスの船体をベースに、デリケートな密輸作戦用にサーペンティスが大幅に改良を加えた巡洋戦艦のプロトタイプ。サーペンティスを脱退し、現在は独立して活動を続ける元テストパイロットであるローグが操縦している。",
+    "ko": "탈로스를 바탕으로 설계된 프로토타입 배틀크루저로 서펜티스가 밀수 작전에 적합하도록 각종 개조를 실시하였습니다. <br><br>해당 함선은 전직 서펜티스 테스트 파일럿에 의해 조종되고 있습니다.",
+    "ru": "Этот экспериментальный линейный крейсер создан на основе обычного «Талоса», но существенно модифицирован корпорацией «Серпентис» в целях участия в «деликатных» контрабандных перевозках.\n\nОн управляется бывшим пилотом-испытателем, решившим покинуть «Серпентис» и уйти на вольные хлеба.",
+    "zh": "这艘原型战列巡洋舰是天蛇集团以普通塔洛斯级为基础，专为特殊物品走私活动改造而来的舰船。\n\n它的驾驶员之前是一名试飞员，现在已经脱离了天蛇组织出来单干了。"
+  },
+  "graphicID": 11777,
+  "groupID": 817,
+  "mass": 11200000.0,
   "name": {
     "de": "Burner Talos",
     "en": "Burner Talos",
@@ -10,5 +23,11 @@
     "ru": "Burner Talos",
     "zh": "燃烧者 塔洛斯级"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 266.0,
+  "sofFactionName": "gallentebase",
+  "soundID": 20903,
   "volume": 112000.0
 }

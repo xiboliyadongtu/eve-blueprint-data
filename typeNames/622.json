@@ -1,5 +1,70 @@
 {
-  "typeID": 622,
+  "basePrice": 8000000.0,
+  "capacity": 420.0,
+  "description": {
+    "de": "Die Stabber ist die große Stütze der minmatarischen Flotte. Sie ist leicht und sehr schnell, aber dennoch mit ihrem großen Waffenarsenal erstaunlich wehrhaft.",
+    "en": "The Stabber is the mainstay of the Minmatar fleet. It is light and extremely fast, yet surprisingly powerful, with a wide variety of weapons.",
+    "es": "La Stabber es el pilar de la flota minmatariana. Es ligera y extremadamente rápida, pero tiene una potencia sorprendente, además de una amplia variedad de armas.",
+    "fr": "Le Stabber constitue la base de la flotte minmatar. Il s'agit d'un vaisseau léger et très rapide, tout en étant étonnamment puissant et équipé d'un large éventail d'armes.",
+    "ja": "スタッバーは、ミンマター艦隊の主力艦である。軽量かつ超高速だが、多彩な兵器を搭載していて驚くほど力強い。",
+    "ko": "스태버는 민마타 함대에서 중추적인 역할을 맡고 있습니다. 가볍고 빠른 동시에 강력한 화력을 갖추었으며 다양한 무기를 장착할 수 있습니다.",
+    "ru": "Stabber — основа минматарского флота. Это лёгкий, очень быстрый и невероятно мощный корабль с поддержкой широкого спектра самых разных орудий.",
+    "zh": "刺客级巡洋舰是米玛塔尔舰队的中流砥柱。它重量轻、速度极快，而且火力出人意料地强，可以使用许多不同种类的武器。"
+  },
+  "factionID": 500002,
+  "graphicID": 47,
+  "groupID": 26,
+  "marketGroupID": 73,
+  "mass": 11400000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      150,
+      72,
+      141,
+      85,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      150,
+      72,
+      141,
+      85,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      150,
+      72,
+      141,
+      85,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      150,
+      72,
+      141,
+      85,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      150,
+      72,
+      141,
+      85,
+      118,
+      94
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Stabber",
     "en": "Stabber",
@@ -9,6 +74,50 @@
     "ko": "스태버",
     "ru": "Stabber",
     "zh": "刺客级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 110.0,
+  "sofFactionName": "minmatarbase",
+  "soundID": 20078,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [],
+    "types": {
+      "3333": [
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Feuerrate von <a href=showinfo:3305>mittelgroßen Projektilgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3305>Medium Projectile Turret</a> rate of fire",
+            "es": "de bonificación a la cadencia de tiro de la <a href=showinfo:3305>torreta de proyectiles mediana</a>.",
+            "fr": "de bonus à la cadence de tir de la <a href=showinfo:3305>tourelle à projectiles intermédiaires</a>",
+            "ja": "<a href=showinfo:3305>中型プロジェクタイルタレット</a>の発射間隔が短縮",
+            "ko": "<a href=showinfo:3305>중형 발사체 터렛</a> 연사속도 증가",
+            "ru": "повышается скорострельность <a href=showinfo:3305>средних баллистических орудий</a>",
+            "zh": "<a href=\"showinfo:3305\">中型射弹炮台</a>射速加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf den Präzisionsabfall von <a href=showinfo:3305>mittelgroßen Projektilgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3305>Medium Projectile Turret</a> falloff",
+            "es": "de bonificación al alcance efectivo de la <a href=showinfo:3305>torreta de proyectiles mediana</a>.",
+            "fr": "de bonus de distance de perte à la <a href=showinfo:3305>tourelle à projectiles intermédiaires</a>",
+            "ja": "<a href=showinfo:3305>中型プロジェクタイルタレット</a>の精度低下範囲が拡大",
+            "ko": "<a href=showinfo:3305>중형 발사체 터렛</a> 유효사거리 증가",
+            "ru": "увеличивается добавочная дальность ведения огня из <a href=showinfo:3305>средних баллистических орудий</a>",
+            "zh": "<a href=\"showinfo:3305\">中型射弹炮台</a>失准范围加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 80000.0
 }

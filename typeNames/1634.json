@@ -1,5 +1,15 @@
 {
-  "typeID": 1634,
+  "description": {
+    "de": "Löst die Rettungskapsel aus, wenn die Struktur des Raumschiffes mehr als 25% beschädigt ist.",
+    "en": "If Structure damage is >25% then he ejects capsule.",
+    "es": "Si el daño a las estructuras es menos del 25 %, se eyecta de la cápsula.",
+    "fr": "Si les dégâts à la structure sont supérieurs à 25 %, il s'éjecte à bord d'une capsule.",
+    "ja": "ストラクチャのダメージが25%に達するとカプセルで脱出する。",
+    "ko": "구조물 피해가 25% 이하가 되면 캡슐에서 탈출합니다.",
+    "ru": "Если корпус корабля поврежден больше, чем на 25%, происходит катапультирование капсулы.",
+    "zh": "如果结构所受伤害大于25%，那么他就将弹射逃生舱。"
+  },
+  "groupID": 193,
   "name": {
     "de": "Taphephobia Bonus",
     "en": "Taphephobia Bonus",
@@ -10,5 +20,6 @@
     "ru": "Taphephobia Bonus",
     "zh": "活理恐怖症加成"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

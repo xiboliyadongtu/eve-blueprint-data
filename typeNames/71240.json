@@ -1,5 +1,18 @@
 {
-  "typeID": 71240,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese Lagereinheit enthält Baumaterialien.",
+    "en": "This storage unit contains construction materials.",
+    "es": "Esta unidad de almacenamiento contiene materiales de construcción.",
+    "fr": "Cette unité de stockage contient des matériaux de construction.",
+    "ja": "この保管ユニットには建設資材が収納されている。",
+    "ko": "건설 자재가 들어 있는 저장 장치입니다.",
+    "ru": "В этом хранилище находятся строительные материалы.",
+    "zh": "这个存储单元中放有建造材料。"
+  },
+  "graphicID": 2090,
+  "groupID": 226,
+  "mass": 5000.0,
   "name": {
     "de": "Construction Storage Unit",
     "en": "Construction Storage Unit",
@@ -10,5 +23,10 @@
     "ru": "Construction Storage Unit",
     "zh": "建设存储单元"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 50.0,
+  "sofFactionName": "genericmetal",
   "volume": 500.0
 }

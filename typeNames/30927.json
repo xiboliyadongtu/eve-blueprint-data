@@ -1,5 +1,18 @@
 {
-  "typeID": 30927,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dies ist offenbar eine modifizierte Konstruktions-Station, obwohl es hier mehr Geräte zur Informationsbeschaffung gibt, als es für solche Einrichtungen üblich ist. Das Terminal ist momentan nicht aktiviert, verweist aber auf zahlreiche Vestibüle und digitale sowie physikalische Bibliotheken. Außerdem gibt es viele unterschiedlich beschaffene Laboratorien jedweder Größe.",
+    "en": "This structure appears to be a modified engineering station, although it contains more instruments for information-gathering than commonly seen in stations of its ilk. Currently inactive, the terminal sports a great number of antechambers and libraries both digital and physical, as well as innumerable laboratories of all shapes and sizes.",
+    "es": "Esta estructura parece una estación de ingeniería modificada, aunque contiene más instrumentos para recabar información de lo que se suele ver en estaciones de este tipo. Ahora el terminal está inactivo y cuenta con una gran cantidad de antecámaras y bibliotecas tanto digitales como físicas, así como innumerables laboratorios de todas las formas y tamaños.",
+    "fr": "Cette structure semble être une station d'ingénierie modifiée, bien qu'elle contienne plus d'instruments de récupération d'informations que la plupart des stations du même acabit. Actuellement inactif, le terminal arbore une grande quantité d'antichambres et de bibliothèques numériques et physiques, ainsi qu'un nombre incalculable de laboratoires de toutes formes et de toutes tailles.",
+    "ja": "この建造物は改修されたエンジニアリングステーションのように見えるが、同種の一般的なステーションよりも情報収集のための装置が多い。現在は稼働していないものの、ターミナルは数多くのアンティチェンバや、電子版と実際の書籍の両方を備えた図書館の他、多種多様な形状と大きさの研究所を備えている。",
+    "ko": "이 구조물은 개조된 엔지니어링 정거장으로 보입니다. 일반적인 엔지니어링 정거장에 비해 많은 정보수집용 장치가 탑재되어있습니다. 현재 비활성화된 상태지만 터미널에는 수많은 대기실, 전자책과 종이책을 모두 구비해놓은 도서관, 다양한 규모의 연구실이 있습니다.",
+    "ru": "По всей видимости, это сооружение является модифицированной инженерной станцией, хотя в нем размещено гораздо больше оборудования для сбора информации, чем на других станциях такого типа. Этот бездействующий терминал скрывает в своих недрах большое количество предкамер, библиотек цифровых и физических носителей информации, а также бесчисленных лабораторий всех видов и размеров.",
+    "zh": "这座建筑物看上去像是由工程空间站改装而成的，并且它比同类的其他空间站装备有更多的信息收集设备。这个空间站里有大量的厅堂以及数字或者实体的图书馆，另外还设置的各种大小用途的实验室。"
+  },
+  "graphicID": 3567,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Sleeper Archive Terminal",
     "en": "Sleeper Archive Terminal",
@@ -10,5 +23,9 @@
     "ru": "Sleeper Archive Terminal",
     "zh": "冬眠者档案终端"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 7684.0,
+  "sofFactionName": "sleeperbase",
   "volume": 100000000.0
 }

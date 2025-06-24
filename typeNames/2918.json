@@ -1,5 +1,18 @@
 {
-  "typeID": 2918,
+  "capacity": 8850.0,
+  "description": {
+    "de": "Ein Hochsicherheitsgefängnis-Block, der von der Gallente Föderation verwaltet wird.",
+    "en": "A maximum-security prison block and run by the Gallente Federation.",
+    "es": "Bloque de prisión de seguridad máxima dirigida por la Federación Gallente.",
+    "fr": "Une prison de très haute sécurité gérée par la Fédération gallente.",
+    "ja": "最高レベルのセキュリティが施された刑務所ブロック。ガレンテ連邦が運営している。",
+    "ko": "갈란테 연방에서 운영하는 중간 보안등급의 감옥입니다.",
+    "ru": "Тюрьма строгого режима, управляемая Федерацией Gallente.",
+    "zh": "最高戒备级的盖伦特联邦监狱"
+  },
+  "graphicID": 2458,
+  "groupID": 306,
+  "mass": 1000000.0,
   "name": {
     "de": "Cell Block D",
     "en": "Cell Block D",
@@ -10,5 +23,9 @@
     "ru": "Cell Block D",
     "zh": "牢房D"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 911.0,
+  "sofFactionName": "gallentebase",
   "volume": 1150.0
 }

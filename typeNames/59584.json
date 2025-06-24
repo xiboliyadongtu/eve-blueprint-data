@@ -1,5 +1,18 @@
 {
-  "typeID": 59584,
+  "capacity": 700.0,
+  "description": {
+    "de": "Dieses Schlachtschiff der <i>Marshal</i>-Klasse ist ein schweres Kommandoschiff der Sicherheitskräfte, welche den SCC-Sicherheitsschlüsselspeicher bewachen. Es wäre unklug, die Aufmerksamkeit dieses gewaltigen Feuerunterstützungsschiffes auf sich zu ziehen.",
+    "en": "This <i>Marshal</i>-class battleship is a heavy command vessel of the security forces guarding the SCC Secure Key Storage. It would be unwise to draw the attention of this formidable fire support battleship.",
+    "es": "Este acorazado de clase <i>Marshal</i> es una nave de mando pesada de las fuerzas de seguridad que protegen las instalaciones de almacenamiento seguro de claves de la CCS. Más vale no llamar la atención de este formidable acorazado de apoyo.",
+    "fr": "Ce cuirassé de classe <i>Marshal</i> sert de vaisseau de commandement lourd aux forces gardant les sites de stockage de clés sécurisées de la CCS. Il ne serait pas judicieux d'attirer l'attention de cet impressionnant cuirassé de tir de soutien.",
+    "ja": "この<i>マーシャル</i>級戦艦は、SCCセキュアキー保管庫を守っている警備部隊の重装備司令艦だ。この強力な火力支援用戦艦の注意を引くのは賢明とは言えないだろう。",
+    "ko": "<i>마샬</i>급 배틀쉽으로 SCC 보안키를 지키기 위해 배치되었습니다. 접근 시 각별한 주의가 요구됩니다.",
+    "ru": "Этот линкор класса <i>«Маршал»</i> — тяжёлое командное судно службы безопасности КпБТ, оберегающей защищённое хранилище ключа. От такого грозного линкора огневой поддержки лучше держаться подальше.",
+    "zh": "这艘<i>元帅级</i>战列舰是守卫着商业安全委员会安全密钥储藏设施的一艘重型指挥舰。建议你千万不要引起这艘无敌战舰的注意。"
+  },
+  "graphicID": 21864,
+  "groupID": 1814,
+  "mass": 150000000.0,
   "name": {
     "de": "SCC Security Commander",
     "en": "SCC Security Commander",
@@ -10,5 +23,11 @@
     "ru": "SCC Security Commander",
     "zh": "商业安全委员会安保部指挥官"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 600.0,
+  "sofFactionName": "concordcivilian",
+  "soundID": 20068,
   "volume": 468000.0
 }

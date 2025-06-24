@@ -1,5 +1,60 @@
 {
-  "typeID": 584,
+  "basePrice": 300000.0,
+  "capacity": 260.0,
+  "description": {
+    "de": "Die Griffin wird von der Caldari Navy häufig als Unterstützungsschiff in Kampfstaffeln verwendet. Dabei wird ihre eindrucksvolle elektronische Apparatur dazu verwendet, die Funktionsfähigkeit des Zielschiffes herabzusetzen und es so zu einer leichten Beute für herkömmliche Kampfschiffe zu machen.",
+    "en": "The Griffin is much used by the Caldari Navy as a support vessel in combat squadrons, using its impressive array of electronic gadgetry to disrupt the operation of target ships, making them easy prey for traditional combat vessels.",
+    "es": "La Griffin es muy utilizada por la Armada Caldari como nave de apoyo en los escuadrones de combate. Además, posee una impresionante variedad de dispositivos electrónicos para perturbar el funcionamiento de las naves objetivo y convertirlas en presa fácil para las naves de combate tradicionales.",
+    "fr": "Le Griffin est très apprécié de la Caldari Navy qui l'utilise comme vaisseau de soutien dans les escadrons de combat. Son large éventail de systèmes électroniques embarqués permet de perturber le fonctionnement des vaisseaux visés et d'en faire des proies faciles pour les vaisseaux d'attaque conventionnels.",
+    "ja": "グリフィンは戦闘分隊の支援艦としてカルダリ海軍で活躍している。その強力な電子戦装備でターゲット艦船の行動を妨害し、通常の戦闘機がたやすく餌食にできるようにする。",
+    "ko": "칼다리 해군의 지원선으로 주로 사용되는 그리핀은 뛰어난 전자전 장비를 바탕으로 적의 기동을 방해하는 역할을 합니다. 그리핀에 의해 움직임이 묶인 적 함선은 전투형 함선의 먹잇감으로 전락합니다.",
+    "ru": "«Гриффин» часто используется флотом Государства Калдари в качестве корабля сопровождения в боевых эскадрах. Благодаря впечатляющему электронному оснащению, эти суда способны создавать серьёзные помехи нормальному функционированию кораблей противника, превращая их в лёгкую добычу для обычных боевых кораблей.",
+    "zh": "狮鹫级常被加达里海军用作战斗中队的支援舰船，它出色的电子设备阵列能干扰目标舰船的运作，使得它们成为常规战斗舰船炮下待宰的羔羊。"
+  },
+  "factionID": 500001,
+  "graphicID": 40,
+  "groupID": 25,
+  "marketGroupID": 61,
+  "mass": 1056000.0,
+  "masteries": {
+    "0": [
+      96,
+      100,
+      139,
+      85,
+      94
+    ],
+    "1": [
+      96,
+      100,
+      139,
+      85,
+      94
+    ],
+    "2": [
+      96,
+      100,
+      139,
+      85,
+      94
+    ],
+    "3": [
+      96,
+      100,
+      139,
+      85,
+      94
+    ],
+    "4": [
+      96,
+      100,
+      139,
+      85,
+      118,
+      94
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Griffin",
     "en": "Griffin",
@@ -9,6 +64,48 @@
     "ko": "그리핀",
     "ru": "Griffin",
     "zh": "狮鹫级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 41.0,
+  "sofFactionName": "caldaribase",
+  "soundID": 20070,
+  "traits": {
+    "types": {
+      "3330": [
+        {
+          "bonus": 15,
+          "bonusText": {
+            "de": "Bonus auf die Stärke von <a href=showinfo:3427>ECM-Zielstörsender-Modulen</a>",
+            "en": "bonus to <a href=showinfo:3427>ECM Target Jammer</a> strength",
+            "es": "de bonificación a la intensidad del <a href=showinfo:3427>perturbador ECM de objetivo</a>.",
+            "fr": "de bonus à la force des <a href=showinfo:3427>brouilleurs de cible CME</a>",
+            "ja": "<a href=showinfo:3427>ECMターゲットジャマー</a>の強度が増加",
+            "ko": "<a href=showinfo:3427>ECM 타겟 재머</a> 효과 증가",
+            "ru": "увеличивается выходная мощность <a href=showinfo:3427>модулей глушения захвата целей</a>",
+            "zh": "<a href=\"showinfo:3427\">ECM目标干扰器</a>强度加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Reduktion der Aktivierungskosten von <a href=showinfo:3427>ECM-Zielstörsender-Modulen</a>",
+            "en": "reduction in <a href=showinfo:3427>ECM Target Jammer</a> activation cost",
+            "es": "de reducción del coste de activación del <a href=showinfo:3427>perturbador ECM de objetivo</a>.",
+            "fr": "de réduction du coût d'activation des <a href=showinfo:3427>brouilleurs de cible CME</a>",
+            "ja": "<a href=showinfo:3427>ECMターゲットジャマー</a>の起動コストが軽減",
+            "ko": "<a href=showinfo:3427>ECM 타겟 재머</a> 활성화 비용 감소",
+            "ru": "сокращается потребление энергии <a href=showinfo:3427>модулями глушения захвата целей</a>",
+            "zh": "<a href=\"showinfo:3427\">ECM目标干扰器</a>启动消耗减少"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 19400.0
 }

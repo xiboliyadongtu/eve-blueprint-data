@@ -1,5 +1,22 @@
 {
-  "typeID": 9451,
+  "basePrice": 74980.0,
+  "capacity": 0.25,
+  "description": {
+    "de": "Diese Haubitze mit Raketenunterstütung wurde für Langstrecken-Bombardierungen konstruiert. Sie muss mit einer der folgenden Projektil-Munitionssorten geladen werden: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton oder Titanium Sabot",
+    "en": "This rocket-assisted howitzer is designed for long-range bombardment. \r\n\r\nMust be loaded with any of the following projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, or Titanium Sabot.",
+    "es": "Este obús propulsado por cohete está diseñado para bombardeos a gran distancia.\n\nDebe cargarse con cualquiera de los siguientes tipos de munición de proyectiles: plomo carbonado, uranio empobrecido, EMP, fusión, nuclear, plasma fásico, protón o perforante de titanio.",
+    "fr": "Cet howitzer assisté par roquette est conçu pour les bombardements longue distance. \n\nVous devez y charger les types de munition de projectile suivants : plomb trempé, uranium appauvri, IEM, fusion, nucléaire, plasma à phase, proton ou sabot de titane.",
+    "ja": "ロケット推進力によって実弾を発射するハウイッツァー。長距離射程の攻撃に適している。\r\n\n装填可能なプロジェクタイル弾のタイプ : 炭化鉛弾、劣化ウラン弾、EMP弾、フュージョン弾、ニュークリア弾、フェーズプラズマ弾、プロトン弾、チタン製サボット弾。",
+    "ko": "장거리 폭격에 특화된 로켓보조 곡사포입니다. <br><br>사용 및 장착 가능한 발사체: 탄화납, 열화 우라늄, EMP, 융합, 원자력, 위상 플라즈마, 양성자, 티타늄 철갑탄.",
+    "ru": "Эта гаубица предназначена для ведения массированного огня активно-реактивными снарядами на большие расстояния. \n\nДля стрельбы из гаубицы используются снаряды следующих типов: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton или Titanium Sabot.",
+    "zh": "这种榴弹炮有火箭助推，专为远程轰炸而设计。\r\n\r\n必须装填以下类型的弹药：碳铅弹、硬钼弹、电磁脉冲弹、聚变弹、核芯弹、定相离子弹、质子弹和钛合金萨博弹。"
+  },
+  "graphicID": 11151,
+  "groupID": 55,
+  "iconID": 384,
+  "marketGroupID": 578,
+  "mass": 50.0,
+  "metaGroupID": 1,
   "name": {
     "de": "720mm 'Scout' Artillery I",
     "en": "720mm 'Scout' Artillery I",
@@ -10,5 +27,11 @@
     "ru": "720mm 'Scout' Artillery I",
     "zh": "720mm侦查员火炮 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 200.0,
+  "sofFactionName": "minmatarbase",
+  "variationParentTypeID": 493,
   "volume": 10.0
 }

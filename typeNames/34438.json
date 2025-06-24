@@ -1,5 +1,18 @@
 {
-  "typeID": 34438,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dies ist eine Wartungsanlage für die Sleeper-Wächtereinheiten in der Nähe. Sie kann gehackt werden, um anzupassen, welche Wächterkanone sie repariert.",
+    "en": "This is a maintenance facility for the Sleeper sentry guns in the vicinity. It can be hacked to change what sentry guns it is repairing.",
+    "es": "Centro de mantenimiento para las torretas centinelas sleepers de los alrededores. Se puede hackear para cambiar las torretas centinela que repara.",
+    "fr": "Il s'agit d'un établissement de maintenance pour les canons de sentinelle qui se trouve aux alentours Il peut être piraté pour modifier les canons de sentinelle qu'il répare.",
+    "ja": "付近にあるスリーパーセントリーガンのためのメンテナンス施設。ハッキングすればメンテナンス対象のセントリーガンを変更することが可能。",
+    "ko": "근방의 슬리퍼 센트리 포탑들을 위한 정비시설입니다. 해킹을 통해 수리하고 있는 슬리퍼 센트리 포탑을 변경할 수 있습니다.",
+    "ru": "Ремонтный завод, работающий с орудийными установками Спящих, расположенными поблизости. Его можно взломать и изменить приоритет выбора цели для ремонта.",
+    "zh": "这是用于维护附近的冬眠者岗哨炮台的设施，被破译后可以改变它正在维修的岗哨炮台目标。"
+  },
+  "graphicID": 3518,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Sentry Repair Station",
     "en": "Sentry Repair Station",
@@ -10,5 +23,10 @@
     "ru": "Sentry Repair Station",
     "zh": "岗哨炮维修空间站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 4738.0,
+  "sofFactionName": "sleeperbase",
   "volume": 27500.0
 }

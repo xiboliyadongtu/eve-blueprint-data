@@ -1,5 +1,17 @@
 {
-  "typeID": 22207,
+  "description": {
+    "de": "Diese Blutprobe ist mit dem tödlichen Alobe Virus infiziert.",
+    "en": "This blood sample is infected with the deadly Alobe virus.",
+    "es": "Esta muestra de sangre está infectada con el letal virus de alobe.",
+    "fr": "Cet échantillon de sang contient le virus mortel Alobe.",
+    "ja": "感染すると命に関わるアローベウィルスに冒された血液サンプル。",
+    "ko": "치명적인 알로비 바이러스에 감염된 혈액 샘플입니다.",
+    "ru": "Этот образец крови содержит смертельный вирус Алобэ.",
+    "zh": "这个血液样本感染了致命的艾拉博病毒。"
+  },
+  "groupID": 526,
+  "iconID": 398,
+  "mass": 1.0,
   "name": {
     "de": "Analyzed Blood Sample",
     "en": "Analyzed Blood Sample",
@@ -10,5 +22,7 @@
     "ru": "Analyzed Blood Sample",
     "zh": "分析过的血液样本"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

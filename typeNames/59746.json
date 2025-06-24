@@ -1,5 +1,18 @@
 {
-  "typeID": 59746,
+  "capacity": 10000.0,
+  "description": {
+    "de": "<i>Dieses Monument erinnert an die Schlacht von Fort Kavad, in der das Volk der Minmatar endlich die Invasoren aus seinen Systemen vertreiben und seine Heimatwelten sichern konnte. Zum ewigen Gedenken an alle, die hier für die Freiheit der Stämme von Matar starben.</i>",
+    "en": "<i>This monument marks the Battle of Fort Kavad, where the Minmatar people finally drove the invaders from their stars and secured their home worlds.\r\n\r\nTo the eternal memory of all those who died here for the freedom of the Tribes of Matar.</i>",
+    "es": "<i>Este monumento conmemora la batalla de Fuerte Kavad, donde el pueblo minmatariano por fin expulsó a los invasores de sus estrellas y aseguró sus mundos natales.\n\nPor el eterno recuerdo de todos aquellos que murieron aquí por la libertad de las tribus de Matar.</i>",
+    "fr": "<i>Ce monument rend hommage à la bataille de Fort Kavad, au cours de laquelle le peuple minmatar a fini par chasser les envahisseurs de ses étoiles et sécuriser ses mondes natals. Au souvenir éternel de tous ceux qui ont péri ici pour la liberté des tribus de Matar.</i>",
+    "ja": "<i>ミンマター人がついに自身の星々から侵略者を追い払い故郷を取り戻した、フォートカヴァドの戦いを記念したモニュメント。\n\n\n\nマターの部族解放のためにこの地に果てた、全ての者たちを決して忘れないという意思が込められている。</i>",
+    "ko": "<i>카바드 요새 전투 기념비. 민마타는 카바드 요새에서의 전투를 통해 침략자들을 격퇴하고 영토를 안정화했습니다.<br><br>마타르의 자유를 위해 목숨을 바친 자들을 기리며.</i>",
+    "ru": "<i>Этот монумент посвящён Битве за Форт Кавад, в ходе которой минматары наконец изгнали захватчиков из своих систем и защитили свои внутренние миры. Вечная память тем, кто погиб в битве за освобождение племён Матара.</i>",
+    "zh": "<i>这座纪念碑铭记了卡瓦要塞战役，在这场战役中米玛塔尔人民赶走了艾玛入侵者，保卫了自己的家园。\n\n\n\n人们永远不会忘记为了玛塔尔部族的自由而长眠于此的英雄们。</i>"
+  },
+  "graphicID": 24960,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Battle of Fort Kavad Monument",
     "en": "Battle of Fort Kavad Monument",
@@ -10,5 +23,10 @@
     "ru": "Battle of Fort Kavad Monument",
     "zh": "卡瓦要塞战役纪念碑"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 6000.0,
+  "sofFactionName": "minmatarbase",
+  "soundID": 20803,
   "volume": 100000000.0
 }

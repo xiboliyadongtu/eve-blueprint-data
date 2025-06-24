@@ -1,5 +1,20 @@
 {
-  "typeID": 33270,
+  "basePrice": 6000.0,
+  "capacity": 10.0,
+  "description": {
+    "de": "Ein Starter für <a href=showinfo:18635>Survey Probes</a>.\n\n<a href=showinfo:18635>Survey Probes</a> werden verwendet, um die Materialzusammensetzung von Monden zu analysieren.\n\nHinweis: Auf jedem Schiff kann nur ein Starter für Survey Probes montiert werden.",
+    "en": "Launcher for <a href=showinfo:18635>Survey Probes</a>.\r\n\r\n<a href=showinfo:18635>Survey Probes</a> are used to analyze the material composition of moons.\r\n\r\nNote: Only one survey probe launcher can be fitted per ship.",
+    "es": "<a href=showinfo:18635>Lanzasondas de prospección</a>.\n\nLas <a href=showinfo:18635>sondas de prospección</a> se utilizan para analizar la composición de materiales de las lunas.\n\nAviso: Solo se puede equipar un lanzasondas de prospección por nave.",
+    "fr": "Lanceur pour <a href=showinfo:18635>sondes d'inspection</a>.\n\nLes <a href=showinfo:18635>sondes d'inspection</a> sont utilisées pour analyser la composition matérielle des lunes.\n\nRemarque : un seul lanceur de sonde d'inspection peut être installé par vaisseau.",
+    "ja": "<a href=showinfo:18635>衛星調査プローブ</a>を射出するランチャー。<a href=showinfo:18635>衛星調査プローブ</a>は衛星の資源組成を分析するのに使う。\n\n\n\n注：衛星調査プローブランチャーは船1隻に1基しか搭載できない。",
+    "ko": "<br><br><a href=showinfo:18635>조사 프로브</a> 런처입니다. <a href=showinfo:18635>조사 프로브</a>는 위성의 자원 구성을 분석하는데 사용됩니다. <br><br>참고: 조사 프로브 런처는 한 개만 장착할 수 있습니다.",
+    "ru": "Пусковая установка для <a href=showinfo:18635>исследовательских зондов (Survey Probes)</a>.\n\n\n\n<a href=showinfo:18635>Исследовательские зонды (Survey Probes)</a> применяются для анализа минерального состава лун.\n\n\n\nПримечание: на корабле может помещаться только одна пусковая установка для исследовательских зондов.",
+    "zh": "这是发射<a href=showinfo:18635>测量探针</a>的发射器。<a href=showinfo:18635>测量探针</a>用来分析卫星的物质组成结构。注：每艘飞船只能安装一个测量探针发射器。"
+  },
+  "groupID": 1226,
+  "iconID": 2677,
+  "marketGroupID": 1717,
+  "metaGroupID": 1,
   "name": {
     "de": "Survey Probe Launcher I",
     "en": "Survey Probe Launcher I",
@@ -10,5 +25,7 @@
     "ru": "Survey Probe Launcher I",
     "zh": "测量探针发射器 I"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 5.0
 }

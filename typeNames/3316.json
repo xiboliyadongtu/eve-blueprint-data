@@ -1,5 +1,18 @@
 {
-  "typeID": 3316,
+  "basePrice": 100000.0,
+  "description": {
+    "de": "Ermöglicht eine bessere Kontrolle des Energiespeicherverbrauchs von Geschütztürmen.\r\n\r\n5% Reduktion im Energiespeicherbedarf von Geschütztürmen je Skillstufe.",
+    "en": "Allows better control over the capacitor use of weapon turrets. 5% reduction in capacitor need of weapon turrets per skill level.",
+    "es": "Permite controlar mejor el uso de condensadores de las torretas de armas. Reduce un 5 % la necesidad del condensador de las torretas de armas por nivel de habilidad.",
+    "fr": "Permet un meilleur contrôle de la consommation énergétique du capaciteur des tourelles. Réduit de 5 % par niveau de compétence les besoins énergétiques du capaciteur des tourelles.",
+    "ja": "タレット兵器のキャパシタ消費を効率良くコントロールすることが可能になる。スキルレベル上昇ごとにタレット兵器のキャパシタ消費が5%減少する。",
+    "ko": "무기 터렛에 사용되는 캐패시터 양을 조율할 수 있습니다. 매 레벨마다 무기 터렛의 캐패시터 사용량 5% 감소",
+    "ru": "Навык точного контроля над использованием энергии накопителя орудийными системами.. За каждую степень освоение навыка: на 5% сокращается расход энергии накопителя при ведении орудийного огня.",
+    "zh": "更好地控制武器炮台电容消耗的技能。每升一级，武器炮台的电容消耗减少5%。"
+  },
+  "groupID": 255,
+  "iconID": 33,
+  "marketGroupID": 364,
   "name": {
     "de": "Controlled Bursts",
     "en": "Controlled Bursts",
@@ -10,5 +23,7 @@
     "ru": "Экономия энергии при стрельбе",
     "zh": "受控点射理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

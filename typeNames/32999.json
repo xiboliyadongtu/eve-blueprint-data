@@ -1,5 +1,18 @@
 {
-  "typeID": 32999,
+  "basePrice": 250000.0,
+  "description": {
+    "de": "Skill zur Verstärkung von magnetometrischen Sensoren gegen feindliche Module für elektronische Gegenmaßnahmen. 4% erhöhte magnetometrische Sensorstärke je Skillstufe.\n\nMagnetometrische Sensoren finden sich in erster Linie auf Schiffen der Gallente, von Serpentis, ORE und den Sisters of EVE.",
+    "en": "Skill at hardening Magnetometric Sensors against hostile Electronic Counter Measure modules. 4% improved Magnetometric Sensor Strength per skill level.\r\n\r\nMagnetometric Sensors are primarily found on Gallente, Serpentis, ORE, and Sisters of EVE ships.",
+    "es": "Habilidad para fortalecer los sensores magnetométricos contra los módulos hostiles de contramedidas electrónicas. Mejora del 4 % de la intensidad de los sensores magnetométricos por nivel de habilidad.\n\nPrincipalmente, los sensores magnetométricos se encuentran en las naves gallentes, serpentis, de ORE y de Sisters of EVE.",
+    "fr": "Compétence liée au renforcement des détecteurs magnétométriques face aux modules de contremesures électroniques ennemis. Augmente de 4 % par niveau de compétence la puissance de détection magnétométrique.\n\nLes détecteurs magnétométriques sont monnaie courante sur les vaisseaux gallente, serpentis, de l'ORE et des Sisters of EVE.",
+    "ja": "磁力センサーを強化して各種エレクトロニクス妨害機器（ECM）モジュールの攻撃に対抗するスキル。スキルレベル上昇ごとに磁力センサー強度が4%上昇。\n\n磁力センサーは主としてガレンテ、サーペンティス、ORE、シスターズオブイブの艦船に採用されている。",
+    "ko": "ECM 모듈에 대한 자기장 센서의 저항력을 향상하기 위한 스킬입니다. 매 레벨마다 자기장 센서 강도 4% 증가 <br><br>자기장 센서는 갈란테, 서펜티스, ORE, 그리고 시스터 오브 이브의 함선에서 주로 탑재됩니다.",
+    "ru": "Навык повышения эффективности магнитометрических сенсоров в условиях воздействия РЭБ-модулей противника. За каждую степень освоения навыка: на 4% повышается эффективность магнитометрических систем..\n\n\n\nМагнитометрические сенсорные системы обычно применяются на кораблях Галлентской Федерации, пиратов корпорации «Серпентис», Окраинной рудной экспедиции и Сестёр-служительниц «Евы».",
+    "zh": "提高磁力感应器应对ECM攻击能力的技能。每升一级，磁力感应器强度提高4%。\n\n磁力感应器多见于盖伦特、天蛇、联合矿业和姐妹会的舰船。"
+  },
+  "groupID": 1213,
+  "iconID": 33,
+  "marketGroupID": 1748,
   "name": {
     "de": "Magnetometric Sensor Compensation",
     "en": "Magnetometric Sensor Compensation",
@@ -10,5 +23,7 @@
     "ru": "Повышение эффективности магнитометрических систем",
     "zh": "磁力感应器补偿"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

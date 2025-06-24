@@ -1,5 +1,18 @@
 {
-  "typeID": 42872,
+  "capacity": 27500.0,
+  "description": {
+    "de": "Die schwelenden Überreste einer Zitadelle der Fortizar-Klasse.",
+    "en": "The smoldering remains of a Fortizar class citadel.",
+    "es": "Los restos humeantes de una ciudadela de clase Fortizar.",
+    "fr": "Ruines fumantes d'une citadelle de classe Fortizar.",
+    "ja": "煙を上げてくすぶっているフォーティザー型シタデルの残骸。",
+    "ko": "포티자급 시타델의 타고 남은 잔해입니다.",
+    "ru": "Тлеющие обломки цитадели типа «Фортизар».",
+    "zh": "一座焚毁的铁壁堡垒的残骸。"
+  },
+  "graphicID": 21327,
+  "groupID": 226,
+  "mass": 10000.0,
   "name": {
     "de": "Fortizar Wreck",
     "en": "Fortizar Wreck",
@@ -10,5 +23,10 @@
     "ru": "Fortizar Wreck",
     "zh": "铁壁残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 10000.0,
+  "sofFactionName": "upwell",
+  "soundID": 20236,
   "volume": 27500.0
 }

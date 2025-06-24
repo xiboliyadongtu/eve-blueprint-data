@@ -1,5 +1,16 @@
 {
-  "typeID": 10135,
+  "description": {
+    "de": "Diese stabile Batteriereihe war vermutlich Teil eines Kraftwerkes. Sie ist immer noch aufgeladen.",
+    "en": "This massive battery column was probably a part of a destroyed power plant. It still surges with energy.",
+    "es": "Esta enorme columna de batería probablemente formase parte de una central energética destruida. Sigue produciendo energía.",
+    "fr": "Cette énorme colonne de batterie faisait probablement partie d'une ancienne centrale détruite. Elle contient toujours de l'énergie.",
+    "ja": "巨大な柱状バッテリー。おそらく、破壊されたパワープラントの一部だろう。いまだにエネルギーをほとばしらせているようだ。",
+    "ko": "파괴된 발전시설의 일부였을 것으로 추정되는 거대한 전력장치입니다. 미약하나마 전력이 남아있습니다.",
+    "ru": "Эта массивная аккумуляторная батарея видимо была частью ныне разрушенной электростанции. Она до сих пор искрит статическими разрядами.",
+    "zh": "这个巨大的电池柱可能曾是某座已被毁的发电厂的一部分。目前它仍然涌动着能量。"
+  },
+  "graphicID": 1691,
+  "groupID": 226,
   "name": {
     "de": "Depleted Station Battery",
     "en": "Depleted Station Battery",
@@ -10,5 +21,8 @@
     "ru": "Depleted Station Battery",
     "zh": "枯竭的空间站电池"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 2200.0,
+  "sofFactionName": "genericmetal"
 }

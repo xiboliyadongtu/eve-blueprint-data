@@ -1,5 +1,19 @@
 {
-  "typeID": 37450,
+  "description": {
+    "de": "Eine Einheit, die zur Förderung wertvoller Materialien aus Eisasteroiden benutzt wird. Wird auf Expeditionsfregatten benutzt.",
+    "en": "A unit used to extract valuable materials from ice asteroids. Used on Expedition Frigates.",
+    "es": "Unidad empleada para extraer materiales valiosos de asteroides de hielo. Se utiliza en fragatas expedicionarias.",
+    "fr": "Unité utilisée pour extraire les matériaux précieux à partir d'astéroïdes de glace. Utilisé sur les frégates d'expédition.",
+    "ja": "氷のアステロイドから貴重な資源を採取するのに使用するユニット。長距離フリゲートで使用される。",
+    "ko": "얼음 소행성에서 자원을 채취하기 위해 사용되는 장비입니다. 탐사 프리깃에 사용됩니다.",
+    "ru": "Установка для извлечения ценного сырья из ледяных астероидов. Применяется на разведочно-буровых фрегатах.",
+    "zh": "用来从冰矿中采集珍贵材料的装置。用于勘探护卫舰。"
+  },
+  "graphicID": 21211,
+  "groupID": 54,
+  "iconID": 1061,
+  "marketGroupID": 2151,
+  "metaGroupID": 1,
   "name": {
     "de": "Ice Mining Laser I",
     "en": "Ice Mining Laser I",
@@ -10,5 +24,9 @@
     "ru": "Ice Mining Laser I",
     "zh": "冰矿开采激光器 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 25.0,
+  "sofFactionName": "orebase",
   "volume": 5.0
 }

@@ -1,5 +1,16 @@
 {
-  "typeID": 42867,
+  "description": {
+    "de": "Die Ruinen einer Caldari-Struktur.",
+    "en": "The ruins of a Caldari structure.",
+    "es": "Las ruinas de una estructura caldari.",
+    "fr": "Ruines d'une structure caldari.",
+    "ja": "カルダリ系構造物の残骸。",
+    "ko": "칼다리 구조물 폐허입니다.",
+    "ru": "Обломки разрушенного калдарского сооружения.",
+    "zh": "一座加达里建筑的废墟。"
+  },
+  "graphicID": 3778,
+  "groupID": 226,
   "name": {
     "de": "Wrecked Caldari Structure",
     "en": "Wrecked Caldari Structure",
@@ -10,5 +21,9 @@
     "ru": "Wrecked Caldari Structure",
     "zh": "损坏的加达里建筑"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 6941.0,
+  "sofFactionName": "caldaribase",
+  "soundID": 20174
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 81438,
+  "capacity": 27500.0,
+  "description": {
+    "de": "Wrackteile von zerstörten Forschungsapparaten. Wenn Sie sie bergen können, könnten die Forschungsdaten möglicherweise wiederhergestellt werden.",
+    "en": "The wreckage of destroyed research apparatus. If you can salvage it, the research data may be recoverable.",
+    "es": "Los restos de un aparato de investigación destruido. Si puedes recuperar los restos, es posible que puedas recobrar los datos de la investigación.",
+    "fr": "L'épave d'un appareil de recherche détruit. Si vous parvenez à la récupérer, les données de recherche pourraient en être extraites.",
+    "ja": "破壊された研究機材の残骸。サルベージすれば研究データを回収できる可能性がある。",
+    "ko": "연구소의 잔해입니다. 샐비지를 통해 연구 데이터를 확보할 수 있습니다.",
+    "ru": "Обломки уничтоженного исследовательского аппарата. Если вы соберёте их, то сможете восстановить данные.",
+    "zh": "一堆被摧毁的研究设备残骸。如果你能成功打捞这些残骸，或许还能恢复研究数据。"
+  },
+  "graphicID": 3117,
+  "groupID": 186,
+  "mass": 10000.0,
   "name": {
     "de": "Wrackteile",
     "en": "Wreckage",
@@ -10,5 +23,9 @@
     "ru": "Wreckage",
     "zh": "残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

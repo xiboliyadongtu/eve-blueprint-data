@@ -1,5 +1,21 @@
 {
-  "typeID": 20753,
+  "basePrice": 1000.0,
+  "description": {
+    "de": "Diese Munition verwendet einen simplen Bleikern in einer harten Umhüllung aus kristallinem Carbon. Sie ist relativ kostengünstig und wirkt sehr gut gegen die meisten Arten von Panzerungen. Schilde hingegen stellen ein Problem dar.\n\n\n\n60% höhere optimale Reichweite.\n\n5% höhere Nachführungsgeschwindigkeit.",
+    "en": "This ammo uses a simple lead slug encased in a hard shell of crystalline carbon. It is fairly cheap and works very well against most armors. Shields, however, are a problem.\r\n\r\n60% increased optimal range.\r\n5% increased tracking speed.",
+    "es": "Esta munición emplea un proyectil de plomo recubierto de carbono cristalino. Cuesta poco y funciona muy bien contra la mayoría de los blindajes, aunque los escudos suponen un problema.\n\nAlcance óptimo aumentado un 60 %.\nVelocidad de rastreo aumentada un 5 %.",
+    "fr": "Cette munition se compose d'un noyau en plomb contenu dans une coquille de carbone cristallin. Elle est bon marché et donne de bons résultats sur la plupart des blindages. Elle est cependant beaucoup moins efficace contre les boucliers.\n\nAugmente de 60 % la portée optimale.\nAugmente de 5 % la vitesse de poursuite.",
+    "ja": "この弾薬は、鉛弾を固い炭素結晶で覆っている。極めて安価で、ほとんどのアーマーに対して高い効力を発揮する。ただし、シールドには弱い。最適射程距離が60％延長。追跡速度が5%増加。",
+    "ko": "결정성 탄소 외피에 납을 채워서 제작한 탄약입니다. 생산 비용이 저렴하고 대부분의 장갑 속성을 대상으로 효과를 발휘합니다. 그러나 실드를 대상으로는 피해량이 크게 감소합니다. <br><br>최적사거리 60% 증가 <br>트래킹 속도 5% 증가",
+    "ru": "Эти снаряды представляют собой обычную свинцовую болванку, заключенную в прочную оболочку из кристаллического углерода. Их стоимость сравнительно невелика, но при этом они пробивают практически любую броню. К сожалению, против щитов они по большей части бессильны.\n\n\n\nПовышает оптимальную дальность действия на 60%.\n\nПовышает скорость слежения на 5%.",
+    "zh": "这种弹药采用了一种简单的铅块，外面包着一层坚硬的晶化碳弹壳。它的价格相当便宜，而且对多数装甲非常有效。不过对能量护盾却没多大作用。最佳射程提升60%。跟踪速度提高5%。"
+  },
+  "graphicID": 1308,
+  "groupID": 83,
+  "iconID": 1004,
+  "marketGroupID": 989,
+  "mass": 0.01,
+  "metaGroupID": 4,
   "name": {
     "de": "Domination Carbonized Lead S",
     "en": "Domination Carbonized Lead S",
@@ -10,5 +26,8 @@
     "ru": "Domination Carbonized Lead S",
     "zh": "主天使碳铅弹 S"
   },
+  "portionSize": 100,
+  "published": true,
+  "variationParentTypeID": 178,
   "volume": 0.0025
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 29312,
+  "description": {
+    "de": "Dieses Objekt registriert die Präsenz von Schiffen innerhalb von 40km.",
+    "en": "This object registers the presence of ships within 40km",
+    "es": "Este objeto registra la presencia de naves a menos de 40 km.",
+    "fr": "Cet objet enregistre la présence de vaisseaux dans un rayon de 40 km.",
+    "ja": "40Km以内に存在する艦船が登録されるオブジェクト。",
+    "ko": "이 구조물은 40km 내에 함선을 감지합니다.",
+    "ru": "Этот объект определяет присутствие кораблей в радиусе 40 км",
+    "zh": "这个装置记录距离其40千米范围内出现的船只。"
+  },
+  "graphicID": 1211,
+  "groupID": 922,
+  "mass": 1000000.0,
   "name": {
     "de": "40km Capture Point",
     "en": "40km Capture Point",
@@ -10,5 +22,8 @@
     "ru": "40km Capture Point",
     "zh": "40千米争夺点"
   },
+  "portionSize": 1,
+  "published": false,
+  "sofFactionName": "genericbase",
   "volume": 1.0
 }

@@ -1,5 +1,19 @@
 {
-  "typeID": 31384,
+  "description": {
+    "de": "Diese Schiffsmodifikation wurde dazu entwickelt, den Energiespeicherverbrauch aller energieemittierenden Module eines Schiffes zu verringern.",
+    "en": "This ship modification is designed to reduce a ship's capacitor need for all energy emission modules.",
+    "es": "Esta modificación de nave está diseñada para reducir la necesidad del condensador de todos los módulos de emisión de energía.",
+    "fr": "Cette modification de vaisseau est conçue pour réduire les besoins du capaciteur du vaisseau requis pour tous les modules d'émission d'énergie.",
+    "ja": "エネルギーエミッションモジュールを起動する際に必要な船のキャパシタ消費が低減する。",
+    "ko": "리그 장착 시 에너지 전달 모듈의 캐패시터 사용량이 감소합니다.",
+    "ru": "Эта модификация корабля уменьшает потребление энергии модулями передачи энергии.",
+    "zh": "这个飞船改装件用于减少所有能量散发装备的电容器需求。"
+  },
+  "groupID": 781,
+  "iconID": 3195,
+  "marketGroupID": 1223,
+  "mass": 200.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Medium Egress Port Maximizer I",
     "en": "Medium Egress Port Maximizer I",
@@ -10,5 +24,8 @@
     "ru": "Medium Egress Port Maximizer I",
     "zh": "中型出口端口放大器 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 100.0,
   "volume": 10.0
 }

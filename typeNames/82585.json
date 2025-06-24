@@ -1,5 +1,18 @@
 {
-  "typeID": 82585,
+  "basePrice": 50000000.0,
+  "description": {
+    "de": "Diese Anlage ortet zusätzliche Erzressourcen in einem System und priorisiert dabei Asteroidengürtel, die reich an<a href=showinfo:38>Nocxium</a> sind. Diese Variante wird neue Asteroidengürtel schneller entdecken als ihre Grundversion.",
+    "en": "This array locates additional ore resources in a system, prioritizing <a href=showinfo:39>zydrine</a>-rich asteroids belts.\r\n\r\nThis variant will discover smaller asteroid belts at a significantly faster rate, suitable for smaller groups of miners.",
+    "es": "Este sistema localiza recursos de menas adicionales en un sistema y da prioridad a los cinturones de asteroides ricos en <a href=showinfo:38>nocxium</a>.\r\n\r\nEsta variante descubre nuevos cinturones de asteroides a un ritmo más rápido que su versión base.",
+    "fr": "Ce module localise des ressources de minerai supplémentaires dans un système, en accordant la priorité aux ceintures d'astéroïdes riches en <a href=showinfo:38>nocxium</a>. Cette variante découvrira de nouvelles ceintures d'astéroïdes plus rapidement que sa version de base.",
+    "ja": "システム内に存在する鉱石資源を追加で発見できる施設。<a href=showinfo:38>ノキシウム</a>が豊富なアステロイドベルトに特化している。\r\n\r\nこのタイプは新たなアステロイドベルトを通常よりも早いペースで発見できる。",
+    "ko": "성계에 매장된 자원을 탐지하기 위한 시설로, <a href=showinfo:38>녹시움</a>이 풍부한 소행성 지대를 우선적으로 찾습니다.<br><br>기본 모델에 비해 탐지 속도가 빠릅니다.",
+    "zh": "这个阵列可以找到星系上的其他矿石资源，并根据<a href=showinfo:38>超新星诺克石</a>储量对小行星带进行排列。和普通型号相比，这款衍生型号将能够以更快的速度发现新的小行星带。"
+  },
+  "groupID": 4768,
+  "iconID": 26750,
+  "marketGroupID": 1283,
+  "mass": 1000.0,
   "name": {
     "de": "Zydrine Prospecting Array 1",
     "en": "Zydrine Prospecting Array 1",
@@ -10,5 +23,7 @@
     "ru": "Zydrine Prospecting Array 1",
     "zh": "晶状石英核岩勘探阵列1"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 5000.0
 }

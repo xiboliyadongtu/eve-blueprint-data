@@ -1,5 +1,18 @@
 {
-  "typeID": 41038,
+  "description": {
+    "de": "Reduziert die Höchstgeschwindigkeit eines Schiffes mittels Mikro-Energieströmen, die auf wirksame Weise das Ziel zeitweilig umschließen und es dadurch verlangsamen.",
+    "en": "Reduces the maximum speed of a ship by employing micro energy streams which effectively entangle the target temporarily, thereby slowing it down.",
+    "es": "Reduce la velocidad máxima de una nave usando canales de microenergía que se entrelazan temporalmente con ella y la ralentizan.",
+    "fr": "Endiguent la vitesse maximale du vaisseau ciblé grâce aux flux microénergétiques qui enchaînent temporairement la cible pour la ralentir.",
+    "ja": "マイクロエナジーの流れを生成してターゲットとなる艦船の機動力を一時的に制限することで、最大速度を低下させる。",
+    "ko": "마이크로 에너지 파동을 발사함으로써 대상 함선의 움직임을 방해하고 최대 속도를 감소시킵니다.",
+    "ru": "Уменьшает максимальную скорость корабля, используя энергетические потоки, временно захватывающие корабль в стазис-поле и замедляющие его движение.",
+    "zh": "通过使用微能流来降低对方舰船的最大速度，该装备可以有效地暂时束缚目标，降低其速度。"
+  },
+  "groupID": 65,
+  "iconID": 1284,
+  "marketGroupID": 683,
+  "metaGroupID": 4,
   "name": {
     "de": "Republic Fleet Stasis Webifier",
     "en": "Republic Fleet Stasis Webifier",
@@ -10,5 +23,9 @@
     "ru": "Republic Fleet Stasis Webifier",
     "zh": "共和舰队停滞缠绕光束"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 500.0,
+  "variationParentTypeID": 526,
   "volume": 5.0
 }

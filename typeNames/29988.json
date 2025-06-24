@@ -1,5 +1,95 @@
 {
-  "typeID": 29988,
+  "basePrice": 300000000.0,
+  "capacity": 440.0,
+  "description": {
+    "de": "Freiheit ist flüssig, geschmeidig und lieblich. Sie umgibt uns, hüllt unsere Körper ein und erstickt unsere Ängste. Wir schöpfen die Tiefen der Freiheit aus und laben uns an ihrer Reichhaltigkeit. Wir werden aus diesen Gewässern geboren; wenn wir sterben, werden wir wieder in diese Gewässer zurückkehren. \n\n\n\nDort draußen, zwischen all den Sternen, befinden sich die Gewässer - leibhaftige Freiheit. Diese dunkle, unendliche Leere ist unser Schicksal, unser Weg und unser Ziel. Wir dürfen keine Furcht davor haben oder versuchen, es zu kontrollieren. Wir sollten es stattdessen annehmen, ihm vertrauen und es lieben. Sein sich unaufhörlich veränderndes Äußeres und seine vielgestaltige Existenz bilden den Kern unseres Daseins. Wir selbst sind diese Sterne, diese Leere, die großartigen Gewässer des Alls: uralt, ewig, frei.\n\n\n\n    - Jinsente Parmen, <i>Die Gallente in New Eden</i>",
+    "en": "Freedom is liquid, supple, mellifluous. It surrounds us, engulfs our bodies, drowns our fear. We plumb freedom's depths and consume the nourishment within. From these waters, we are born; when we die, we shall return to those waters. \r\n\r\nOut there, among the stars, are the waters, freedom incarnate. That dark, endless void is our destiny, our path, our goal. We must not fear it, nor should we control it. Rather, we should embrace it, trust it, love it. Its ever-changing face, its protean existence, is our very essence. We are those stars, the void, the awesome waters of space: ancient, forever, free.\r\n\r\n    - Jinsente Parmen, <i>The Gallente in New Eden</i>",
+    "es": "La libertad es líquida, flexible, meliflua. Nos rodea, engulle nuestros cuerpos, ahoga nuestro miedo. Sondeamos las profundidades de la libertad y consumimos el alimento interior. De estas aguas nacemos; cuando muramos, volveremos a ellas.\n\nAhí fuera, entre las estrellas, están las aguas, la libertad encarnada. Ese vacío oscuro e infinito es nuestro destino, nuestro camino, nuestra meta. No debemos temerlo, ni debemos controlarlo. Más bien, debemos abrazarlo, confiar en él, amarlo. Su rostro siempre cambiante, su existencia proteica, es nuestra esencia misma. Somos esas estrellas, el vacío, las impresionantes aguas del espacio: antiguas, eternas, libres.\n\n — Jinsente Parmen, <i>Los gallentes de Nuevo Edén</i>",
+    "fr": "La liberté est liquide, souple, mélodieuse. Elle nous entoure, engloutit nos corps, noie nos peurs. Nous puisons notre force nourricière dans les profondeurs de notre liberté. Nous naissons de ces eaux, et à notre mort, nous y retournons. Au-delà des cieux, parmi les étoiles, les eaux ruissellent de la liberté incarnée. Ce vide infini et ténébreux incarne notre destinée, notre voie, notre finalité. Nous ne devons pas le craindre, ni même le contrôler. Au contraire, nous devons l'embrasser, lui faire confiance, l'aimer. Son visage métamorphique, son existence dans toutes ses incarnations protéennes, est notre essence même. Nous sommes ces étoiles, nous sommes ce néant, nous sommes les eaux mirifiques de l'espace : nous sommes le passé, l'éternité, la liberté. - Jinsente Parmen, <i>Les Gallente de New Eden</i>",
+    "ja": "自由とは、流動的でしなやかで、甘美なものだ。我らを包み、吞み込み、恐怖を覆い隠す。我らは自由の深さを測り、中の養分を消費する。その水から、我らは生まれ、死ぬと再び水に還るだろう。\r\n\n自由の化身である水は、宇宙の中にある。その暗く、終わりなき虚空こそが、我らの運命であり、道であり、終着点なのだ。それを恐れ、ましてや支配しようとしてはならない。むしろ、それを抱き、信じ、愛することだ。変幻自在な表層、多様な存在性こそがまさに我らの本質である。我らは古代から、永遠に、自由に変幻する、宇宙の星であり、虚空であり、水そのものだ。\r\n\n- ジンセンテ・パルメン、<i>ニューエデンのガレンテ</i>",
+    "ko": "자유는 물처럼 유동적이고 아름다우며, 우리의 마음을 보듬어 두려움을 달랩니다. 우리는 자유를 탐구함으로써 마음의 양식을 얻습니다. 생명의 근원은 물이며, 우리는 죽음을 통해 물로 회귀합니다. <br><br>물은 별 너머에 존재하며 자유는 비로소 그 안에서 구현됩니다. 저 어둠 속 끝없는 공허는 우리의 운명이자 길이며 목표입니다. 공허를 두려워하거나 제어하려고 해서는 안됩니다. 그대로 받아들이고, 신뢰하고, 사랑해야 합니다. 끊임없이 변화하는 공허의 모습이야말로 우리의 본질입니다. 우리는 별, 공허, 우주의 물입니다. 오래 전부터 존재하였으며 앞으로도 영원할 것입니다.<br><br>-진스틴 파멘, <i>뉴에덴 속 갈란테</i>",
+    "ru": "Свобода текуча, эластична, сладкозвучна. Она окружает нас, обтекает наши тела, топит наши страхи. Мы ныряем в глубины свободы и питаемся ею. Из этих вод мы рождены; когда мы умрем, в них мы и вернемся. \n\n\n\nТам, среди звезд, среди вод, лежит воплощение свободы. Этот темный бесконечный вакуум - наша судьба, наш путь, наша цель. Мы не должны бояться его и не должны управлять им. Вместо этого нам следует принять его, поверить ему и полюбить. Его вечно меняющееся лицо, его многогранное существование есть наша сущность. Мы - эти звезды, этот вакуум, великолепные воды пространства: древние, вечные, свободные.\n\n\n\n    — Жинсенте Пармен, <i>Галленты в Новом Эдеме</i>",
+    "zh": "自由就像流水，轻柔，优美。我们被它环绕，身体被它容纳，恐惧被它淹没。我们感受这自由的奥妙，吮吸着它身体的养分。在这流水中，我们获得生命，如我们逝去，当又回到那水中。 \n\n\n\n在那里，在那众星之间的，就是这流水，是自由的化身。那黑暗，无尽的空虚是我们的命运，是我们的道路，是我们的目标。我们不要因它恐惧，也不要试着去驾驭它。而我们应当要拥抱它，信任它，喜爱它。它那千变万化的脸庞，不可名状的存在，正是我们的本质。我们就是那星辰，就是那虚空，就是宇宙中那伟大的流水：古老，永恒，自由。\n\n\n\n    - 简森特·帕门，<i>新伊甸中的盖伦特</i>"
+  },
+  "factionID": 500004,
+  "graphicID": 20217,
+  "groupID": 963,
+  "iconID": 3765,
+  "marketGroupID": 1141,
+  "mass": 13300000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      68,
+      133,
+      104,
+      108,
+      140,
+      150,
+      89,
+      91,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      68,
+      133,
+      104,
+      108,
+      140,
+      150,
+      89,
+      91,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      68,
+      133,
+      104,
+      108,
+      140,
+      150,
+      89,
+      91,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      68,
+      133,
+      104,
+      108,
+      140,
+      150,
+      89,
+      91,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      68,
+      133,
+      104,
+      108,
+      140,
+      109,
+      117,
+      150,
+      153,
+      152,
+      89,
+      154,
+      91,
+      94
+    ]
+  },
+  "metaGroupID": 14,
   "name": {
     "de": "Proteus",
     "en": "Proteus",
@@ -9,6 +99,139 @@
     "ko": "프로테우스",
     "ru": "Proteus",
     "zh": "海神级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 210.0,
+  "sofFactionName": "gallentebase",
+  "soundID": 20072,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Modifikationen können unbeschadet von diesem Schiff entfernt werden.",
+          "en": "Rigs may be removed from this ship without being destroyed",
+          "es": "Es posible quitar los complementos de esta nave sin destruirlos.",
+          "fr": "Les modifications de ce vaisseau peuvent être retirées sans être détruites",
+          "ja": "艦船を破壊せずにリグを取り外せることがある",
+          "ko": "리그를 파괴하지 않고 해제 가능",
+          "ru": "Из кораблей этого типа модификаторы извлекаются без разрушения",
+          "zh": "改装件从舰船上移除不会销毁"
+        },
+        "importance": 2
+      },
+      {
+        "bonus": 99.0,
+        "bonusText": {
+          "de": "Reduktion des CPU-Bedarfs von Scansondenwerfern",
+          "en": "reduction in Scan Probe Launcher CPU requirements",
+          "es": "de reducción de los requisitos de CPU del lanzasondas de escaneo.",
+          "fr": "de réduction de la charge CPU requise pour les lanceurs de sondes de balayage",
+          "ja": "スキャンプローブランチャーのCPU使用率を軽減",
+          "ko": "스캔 프로브 런처 CPU 사용량 감소",
+          "ru": "сокращается потребность пусковых установок разведзондов в мощностях ЦПУ",
+          "zh": "扫描探针发射器CPU需求降低"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "30540": [
+        {
+          "bonusText": {
+            "de": "Bonus auf die Effektivität aller <a href=showinfo:30540>Gallente-Defensivsysteme</a>",
+            "en": "bonus to all <a href=showinfo:30540>Gallente Defensive Systems</a> effectiveness",
+            "es": "de bonificación a la efectividad de todos los <a href=showinfo:30540>sistemas defensivos gallentes</a>.",
+            "fr": "bonus à l'efficacité de tous les <a href=showinfo:30540>systèmes défensifs gallente</a>",
+            "ja": "全ての<a href=showinfo:30540>ガレンテ防御システム</a>の効果が増加",
+            "ko": "<a href=showinfo:30540>갈란테 방어용 시스템</a> 효과 증가",
+            "ru": "повышается эффективность действия <a href=showinfo:30540>галлентских оборонительных подсистем</a>",
+            "zh": "<a href=\"showinfo:30540\">盖伦特防御子系统</a>效果加成"
+          },
+          "importance": 1
+        }
+      ],
+      "30546": [
+        {
+          "bonusText": {
+            "de": "Bonus auf die Effektivität aller <a href=showinfo:30546>Gallente-Kernsysteme</a>",
+            "en": "bonus to all <a href=showinfo:30546>Gallente Core Systems</a> effectiveness",
+            "es": "de bonificación a la efectividad de todos los <a href=showinfo:30546>sistemas centrales gallentes</a>.",
+            "fr": "de bonus à l'efficacité de tous les <a href=showinfo:30546>systèmes principaux gallente</a>",
+            "ja": "全ての<a href=showinfo:30546>ガレンテコアシステム</a>の効果が増大",
+            "ko": "<a href=showinfo:30546>갈란테 코어 시스템</a> 효과 증가",
+            "ru": "повышается эффективность действия <a href=showinfo:30546>галлентских центральных подсистем</a>",
+            "zh": "<a href=showinfo:30546>盖伦特核心子系统</a>效果加成"
+          },
+          "importance": 1
+        }
+      ],
+      "30550": [
+        {
+          "bonusText": {
+            "de": "Bonus auf die Effektivität aller <a href=showinfo:30550>Gallente-Offensivsysteme</a>",
+            "en": "bonus to all <a href=showinfo:30550>Gallente Offensive Systems</a> effectiveness",
+            "es": "de bonificación a la efectividad de todos los <a href=showinfo:30550>sistemas ofensivos gallentes</a>.",
+            "fr": "bonus à l'efficacité de tous les <a href=showinfo:30550>systèmes offensifs gallente</a>",
+            "ja": "全ての<a href=showinfo:30550>ガレンテ攻撃システム</a>の効果が増加",
+            "ko": "<a href=showinfo:30550>갈란테 공격용 시스템</a> 효과 증가",
+            "ru": "повышается эффективность действия <a href=showinfo:30550>галлентских наступательных подсистем</a>",
+            "zh": "<a href=\"showinfo:30550\">盖伦特攻击子系统</a>效果加成"
+          },
+          "importance": 1
+        }
+      ],
+      "30553": [
+        {
+          "bonusText": {
+            "de": "Bonus auf die Effektivität aller <a href=showinfo:30553>Gallente-Schiffsantriebe</a>",
+            "en": "bonus to all <a href=showinfo:30553>Gallente Propulsion Systems</a> effectiveness",
+            "es": "de bonificación a la efectividad de todos los <a href=showinfo:30553>sistemas de propulsión gallentes</a>.",
+            "fr": "bonus à l'efficacité de tous les <a href=showinfo:30553>systèmes de propulsion gallente</a>",
+            "ja": "全ての<a href=showinfo:30553>ガレンテ推進力システム</a>の効果が増加",
+            "ko": "<a href=showinfo:30553>갈란테 추진기 시스템</a> 효과 증가",
+            "ru": "повышается эффективность действия <a href=showinfo:30553>галлентских двигательных подсистем</a>",
+            "zh": "<a href=\"showinfo:30553\">盖伦特推进子系统</a>效果加成"
+          },
+          "importance": 1
+        }
+      ],
+      "30652": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Verringerung des Modulschadens durch Überhitzung",
+            "en": "reduction in module damage from overheating",
+            "es": "de reducción del daño del módulo por sobrecalentamiento.",
+            "fr": "de réduction de la détérioration du module suite à la surchauffe",
+            "ja": "オーバーヒート時のモジュールダメージを軽減",
+            "ko": "과부하로 인한 모듈 손상 감소",
+            "ru": "уменьшается объём повреждений модулей, получаемых ими при перегрузке",
+            "zh": "装备过载损伤降低"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf Reparaturgeschwindigkeit von Nanobot-Reparaturpaste",
+            "en": "bonus to nanite repair paste repair speed",
+            "es": "de bonificación a la velocidad de reconstrucción del fluido reparador de nanobots.",
+            "fr": "bonus à la vitesse de réparation des nanites de réparation",
+            "ja": "ナノマシンリペアペイストの速度が上昇",
+            "ko": "나나이트 용액 수리 속도 증가",
+            "ru": "повышается скорость ремонта модулей ремонтной нанопастой",
+            "zh": "纳米体修复粘合剂维修速度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 115000.0
 }

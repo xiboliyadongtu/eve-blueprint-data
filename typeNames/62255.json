@@ -1,5 +1,18 @@
 {
-  "typeID": 62255,
+  "capacity": 27500.0,
+  "description": {
+    "de": "Die Überreste einer zerstörten Biomechanoiden-Untertasse. Ihr Aufbau und ihr Design sind zu ungewöhnlich, als dass man sie mit den vorhandenen Modulen und Drohnen effizient bergen könnte.",
+    "en": "The remains of a destroyed biomechanoid saucer. Its composition and design are far too unusual for effective salvaging with existing modules and drones.",
+    "es": "Los restos de un platillo biomecanoide destruido. Su composición y diseño son demasiado inusuales como para llevar a cabo una recuperación eficaz con los módulos y drones existentes.",
+    "fr": "Les restes d'une soucoupe biomécanoïde détruite. Sa composition et son modèle sont trop atypiques pour la récupérer efficacement en utilisant les modules et les drones existants.",
+    "ja": "破壊されたバイオメカノイドの円盤の残骸。その材質と設計は通常のものとはかけ離れており、既存のモジュールやドローンでは効率的にサルベージすることができない。",
+    "ko": "파괴된 생체기계 비행접시의 잔해입니다. 현존하는 샐비징 모듈 및 드론으로는 해당 잔해를 수거할 수 없습니다.",
+    "ru": "Обломки уничтоженного биомеханического корабля. Их демонтаж с помощью существующих модулей и дронов не представляется целесообразным, так как материалы и конструкция этой «тарелки» слишком необычны.",
+    "zh": "一个被摧毁的生物机械生命体的残骸。它的结构与常规的打捞装备和无人机相比非常不寻常。"
+  },
+  "graphicID": 3115,
+  "groupID": 186,
+  "mass": 10000.0,
   "name": {
     "de": "Biomechanoid Saucer Wreck",
     "en": "Biomechanoid Saucer Wreck",
@@ -10,5 +23,9 @@
     "ru": "Biomechanoid Saucer Wreck",
     "zh": "碟形生物机械残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

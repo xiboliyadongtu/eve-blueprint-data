@@ -1,5 +1,20 @@
 {
-  "typeID": 24646,
+  "basePrice": 1000000000.0,
+  "capacity": 155000000.0,
+  "description": {
+    "de": "Gewaltige Hangar- und Ausrüstungsstruktur. Wird verwendet für die Unterbringung von großen Schiffen und die im Weltraum stattfindende Anbringung von Modulen, die sich im Frachtraum eines Schiffes befinden.",
+    "en": "Massive hangar and fitting structure. Used for large volume ship storage and in-space fitting of modules contained in a ship's cargo bay.",
+    "es": "Enorme estructura móvil de equipamiento y hangar. Se usa para guardar naves de gran volumen y equipar módulos de la bodega en pleno vuelo.",
+    "fr": "Hangar et atelier de très grande taille. Utilisé pour le stockage de vaisseaux de grande taille et le montage en vol de modules se trouvant dans la baie de chargement.",
+    "ja": "ハンガー兼装備用巨大建造物。船の大容量保管庫として、および船のカーゴベイにあるモジュールを宙域で装備する際に使用される。",
+    "ko": "거대한 격납고와 피팅 시설이 갖추어져있습니다. 대형 함선 격납이 가능하며 테더링을 통해 함선 화물실에 보관된 모듈을 장착할 수 있습니다.",
+    "ru": "Огромное сооружение, снабженное ангаром и отсеками службы оснащения. Используется для хранения крупнотоннажных кораблей и установки в космосе модулей, находящихся в грузовом отсеке корабля.",
+    "zh": "大型机库及装配建筑。用于大型舰船储存及货柜舱中装备的太空装配。"
+  },
+  "graphicID": 2977,
+  "groupID": 363,
+  "marketGroupID": 484,
+  "mass": 2000000000.0,
   "name": {
     "de": "X-Large Ship Maintenance Array",
     "en": "X-Large Ship Maintenance Array",
@@ -10,5 +25,10 @@
     "ru": "X-Large Ship Maintenance Array",
     "zh": "超大型舰船维护阵列"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 128,
+  "radius": 12954.0,
+  "sofFactionName": "genericmetal",
   "volume": 40000.0
 }

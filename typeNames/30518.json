@@ -1,5 +1,18 @@
 {
-  "typeID": 30518,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Deformierte Sleeper-Datenbank: Dieses Fragment einer gepanzerten Außenhülle schützte einst die Front einer Reserve-Datenbank. Die Datenbank ist bereits seit einiger Zeit dem All ausgesetzt, mit Ihrem Datenanalysator könnten Sie ihr aber noch Informationen abluchsen.",
+    "en": "Deformed Sleeper Databank: This section of hull plating once shielded an auxiliary databank on its obverse. The databank has been exposed to space for some time now, but you may still be able to extract something with your Data Analyzer.",
+    "es": "Banco de datos sleeper deformado. Esta sección de revestimiento antaño protegía un banco de datos auxiliar en su anverso. El dispositivo ha estado expuesto durante bastante tiempo, pero es posible que puedas extraer algo con el analizador de datos.",
+    "fr": "Banque de données sleeper abîmée : ce morceau de blindage servait autrefois à protéger une banque de données auxiliaire. Celle-ci a été exposée pendant un certain temps à la rigueur de l'espace, mais votre analyseur de données vous permettra peut-être d'en extraire quelque chose.",
+    "ja": "変形したスリーパーデータバンク。船体プレートの一部がはがれ、補助データバンクがむき出しになっている。データバンクはかなりの間宇宙空間にさらされていたようだが、データアナライザーを使えば何か引き出せるかもしれない。",
+    "ko": "찌그러진 슬리퍼 데이터뱅크: 보조 데이터뱅크를 보호하는 장갑판입니다. 우주 공간에 장시간 노출되었으나 데이터 분석기를 이용한다면 데이터 수집 가능성은 여전히 존재합니다.",
+    "ru": "Деформированный банк данных Sleeper. Эта часть обшивки корпуса когда-то прикрывала вспомогательный банк данных на его внешней стороне. На протяжении уже порядочного количества времени этот банк данных подвергался воздействию космоса, однако с помощью анализатора данных вам, быть может, еще удастся что-нибудь вытянуть.",
+    "zh": "变形的冬眠者数据库：这一段损坏的船壳当时保护着备用数据库。该数据库已在空间中暴露了很长时间，但你或许依然能通过数据分析仪从中找出一些有用的信息。"
+  },
+  "graphicID": 3707,
+  "groupID": 1207,
+  "mass": 10000.0,
   "name": {
     "de": "Deformed Sleeper Databank",
     "en": "Deformed Sleeper Databank",
@@ -10,5 +23,9 @@
     "ru": "Deformed Sleeper Databank",
     "zh": "变形的冬眠者数据库"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 858.0,
+  "sofFactionName": "debris",
   "volume": 27500.0
 }

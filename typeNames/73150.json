@@ -1,5 +1,18 @@
 {
-  "typeID": 73150,
+  "capacity": 160.0,
+  "description": {
+    "de": "Dieses Schiff der Caldari Navy bewacht ein erobertes Triglavia-Relais im umkämpften Raum. Es wird jeden Kapselpiloten angreifen, der nicht dem State Protectorate angehört.",
+    "en": "This Caldari Navy vessel is guarding a Captured Triglavian Relay within contested space. It will attack any capsuleer that is not a current member of the State Protectorate militia.",
+    "es": "Esta nave de la Armada Caldari protege un relé triglaviano capturado en un espacio en disputa. Atacará a cualquier capsulista que no sea miembro actual de la milicia del Protectorado del Estado.",
+    "fr": "Ce vaisseau de la Caldari Navy garde un relais triglavian capturé situé dans l'espace contesté. Il attaquera tout capsulier ne faisant pas actuellement partie de la milice State Protectorate.",
+    "ja": "このカルダリ海軍艦は紛争中の宙域に存在する占領されたトリグラビアンの中継施設を警備しており、義勇軍の1つである連合プロテクトレイトに所属していないあらゆるカプセラに攻撃をしかけてくる。",
+    "ko": "확보된 트리글라비안 전송 시설을 경비하는 칼다리 해군 함선입니다. 연합 방위대 밀리샤가 아닌 모든 함선을 적으로 간주합니다.",
+    "ru": "Это судно калдарского флота охраняет захваченный триглавский ретранслятор на спорной территории. Оно атакует любого капсулёра, не входящего в состав ополчения Охранного корпуса Государства Калдари.",
+    "zh": "这艘加达里海军舰船守护着争夺中的星系里的一座被夺取的三神裔中继站。它会对目前没有加入合众国护卫军国民卫队的克隆飞行员开火。"
+  },
+  "graphicID": 1791,
+  "groupID": 1568,
+  "mass": 1113000.0,
   "name": {
     "de": "Kestrel Relay Guard",
     "en": "Kestrel Relay Guard",
@@ -10,5 +23,11 @@
     "ru": "Kestrel Relay Guard",
     "zh": "茶隼级中继站守卫"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 46.0,
+  "sofFactionName": "caldarinavy",
+  "soundID": 20070,
   "volume": 19700.0
 }

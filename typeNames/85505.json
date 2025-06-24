@@ -1,5 +1,17 @@
 {
-  "typeID": 85505,
+  "description": {
+    "de": "Eine Drifter-Mine, die explodiert und eine Abriegelung auslöst, wenn sich ein nicht autorisiertes Schiff nähert.",
+    "en": "A Drifter mine, it will explode and trigger a Lockdown should any non-authorized ship come to close.",
+    "es": "Una mina drifter que explotará y activará un bloqueo si cualquier nave no autorizada se acerca.",
+    "fr": "Une mine drifter explosera et déclenchera un confinement si un vaisseau non autorisé s'en approche trop.",
+    "ja": "ドリフターの機雷。認証されていない宇宙船が接近すると爆発し、ロックダウンを引き起こす。",
+    "ko": "드리프터가 설치한 기뢰입니다. 접근 권한이 없는 함선이 다가오면 폭발하며 폐쇄 절차가 시작됩니다.",
+    "ru": "Если любой корабль без права доступа подлетит к ней слишком близко, она взорвётся, и запустится процедура изоляции.",
+    "zh": "流浪者布设的地雷，任何未经授权的舰船靠近都会使其爆炸并触发封锁。"
+  },
+  "graphicID": 28018,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Steadfast Martyr",
     "en": "Steadfast Martyr",
@@ -10,5 +22,9 @@
     "ru": "Steadfast Martyr",
     "zh": "坚定殉道者"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 10.0,
+  "sofFactionName": "drifter",
   "volume": 100000000.0
 }

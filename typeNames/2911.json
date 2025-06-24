@@ -1,5 +1,18 @@
 {
-  "typeID": 2911,
+  "capacity": 8850.0,
+  "description": {
+    "de": "Dieses Passagierschiff hat schon bessere Tage gesehen, aber es funktioniert noch. Das Schiff liegt an seinem Ankerplatz und magnetische Signalfeuer sind an der Unterseite seiner Hülle angebracht.",
+    "en": "This passenger liner has seen better days, but it's still operational. The ship is anchored to its spot with large, magnetic beacons around the bottom of its hull.",
+    "es": "Este crucero de pasajeros ha visto días mejores, pero sigue operativo. La nave está anclada a su ubicación con grandes balizas magnéticas que rodean el fondo del casco.",
+    "fr": "Ce paquebot a connu des jours meilleurs, mais il fonctionne toujours. Le vaisseau est ancré à son point d'amarrage avec de grandes balises magnétiques situées en bas de sa coque.",
+    "ja": "寂れてしまったとはいえ、まだ運行している。船体の下の大きな磁気ビーコンに固定されている。",
+    "ko": "상태가 썩 좋아 보이지는 않습니다만 여전히 작동은 하고 있습니다. 선체 하부에 설치된 자력 비컨을 통해 정거장이나 각종 구조물에 정박합니다.",
+    "ru": "Этот пассажирский лайнер видал лучшие дни, но все еще функционирует. Корабль держится на месте с помощью больших магнитных якорей, закрепленных на его корпусе.",
+    "zh": "虽然这艘客轮已风光不再，但它还能运转。该船利用底部的大型磁力信标进行停靠。"
+  },
+  "graphicID": 3087,
+  "groupID": 306,
+  "mass": 1000000.0,
   "name": {
     "de": "Gallente Passenger Liner Damaged",
     "en": "Gallente Passenger Liner Damaged",
@@ -10,5 +23,9 @@
     "ru": "Gallente Passenger Liner Damaged",
     "zh": "受损的盖伦特客轮"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 1000.0,
+  "sofFactionName": "gallentebase",
   "volume": 100000000.0
 }

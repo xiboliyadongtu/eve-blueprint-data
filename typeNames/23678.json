@@ -1,5 +1,17 @@
 {
-  "typeID": 23678,
+  "description": {
+    "de": "Gerät zur Kommunikation ohne Zeitverzögerung, basierend auf Null-G Tachyonenfeldern. Wird von fortschrittlichen Drohnennestern verwendet.",
+    "en": "Insta-feedback communication device based on zero-G tachyon fields. Utilized by advanced drone hives.",
+    "es": "Dispositivo de comunicación de respuesta instantánea basado en campos de taquiones de gravedad cero. Utilizado por las colmenas de drones avanzadas.",
+    "fr": "Dispositif de communication Insta-feedback basé sur les champs de tachyon à zéro gravité. Utilisé par les ruches de drones avancés.",
+    "ja": "無重力タキオンフィールドベースの、瞬間フィードバック式コミュニケーションデバイス。高性能ドローン基地に利用される。",
+    "ko": "무중력 타키온 필드를 기반으로 제작된 정보 전달 장치입니다. 드론 하이브가 주로 사용합니다.",
+    "ru": "Коммуникационное устройство мгновенного действия, в основе которого лежит технология тахионных полей в пространстве с нулевой гравитацией. Используется в усовершенствованных роях дронов.",
+    "zh": "基于零重力超光速粒子场的快速反馈通讯装置，高级机巢使用该装置。"
+  },
+  "groupID": 526,
+  "iconID": 2355,
+  "mass": 2500.0,
   "name": {
     "de": "Aether Hive Link",
     "en": "Aether Hive Link",
@@ -10,5 +22,7 @@
     "ru": "Aether Hive Link",
     "zh": "以太机巢链"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 2.0
 }

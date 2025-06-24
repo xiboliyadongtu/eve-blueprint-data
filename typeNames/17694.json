@@ -1,5 +1,20 @@
 {
-  "typeID": 17694,
+  "description": {
+    "de": "XL-Frequenzkristall: Kann nur von Sternenbasis-Abwehrbatterien und Capital Ships wie Dreadnoughts verwendet werden. Moduliert den Strahl einer Laserwaffe in den Röntgen-Frequenzbereich. Geringere Reichweite und verbesserter Schaden.\n\n\n\n25 % geringere optimale Reichweite.\n\n25 % niedrigerer Energiespeicherverbrauch.",
+    "en": "Extra Large Frequency Crystal. Can be used only by starbase defense batteries and capital ships like dreadnoughts. \r\n\r\nModulates the beam of a laser weapon into the xray frequencies. Reduced range. Increased damage.\r\n\r\n25% reduced optimal range.\r\n25% reduced capacitor need.",
+    "es": "Cristal de frecuencia extragrande. Solo pueden usarlo las baterías defensivas de bases estelares y las naves capitales, como los superacorazados.\n\nModula el rayo de un arma láser en las frecuencias de rayos X. Alcance reducido. Aumento del daño.\n\nAlcance óptimo reducido un 25 %.\n\nNecesidad del condensador reducida un 25 %.",
+    "fr": "Très grand cristal de fréquence. Ne peut être utilisé que par les batteries de défense de base stellaire et les vaisseaux capitaux tels que les dreadnoughts. \n\nModule le rayon d'une arme laser dans les fréquences des rayons X. Réduit la portée. Augmente les dégâts.\n\nRéduit de 25 % la portée optimale.\nRéduit de 25 % les besoins énergétiques du capaciteur.",
+    "ja": "超大型フリーケンシークリスタル。スターベース防衛用兵器や、攻城艦などの主力艦だけが使用できる。レーザー兵器のビームをX線波長に変調。有効射程は減少。ダメージが増加。\n\n\n\n最適射程距離が25％短縮。キャパシタ使用が25%低減。",
+    "ko": "초대형 프리퀀시 크리스탈입니다. 스타베이스 방어 포탑 또는 드레드노트와 같은 캐피탈 함선만 사용할 수 있습니다. <br><br>레이저 무기에서 방출되는 빔을 엑스선으로 변조합니다. 사거리가 감소하는 반면 피해량이 증가합니다. <br><br>최적사거리 25% 감소 <br>캐패시터 사용량 25% 감소",
+    "ru": "Сверхбольшой частотный кристалл. Может использоваться только в оборонительных батареях звездных баз и на кораблях большого тоннажа, например, на дредноутах.\n\n\n\nПеренастраивает лазер на работу в рентгеновском диапазоне. Сокращает дальность поражения. Увеличивает ущерб.\n\nСнижает оптимальную дальность действия на 25%.\n\nСнижает потребление энергии конденсатора на 25%.",
+    "zh": "超大型频率转换晶体。只有母星防御炮塔以及无畏舰这样的旗舰级战舰才能使用。 \n\n将激光武器的光束调节到X射线频率。减小攻击距离。增强伤害。\n\n最佳射程减少25%。\n电容需求降低25%。"
+  },
+  "graphicID": 1140,
+  "groupID": 86,
+  "iconID": 1140,
+  "marketGroupID": 503,
+  "mass": 1.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Xray XL",
     "en": "Xray XL",
@@ -10,5 +25,7 @@
     "ru": "Xray XL",
     "zh": "X射线晶体 XL"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

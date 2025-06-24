@@ -1,5 +1,17 @@
 {
-  "typeID": 23626,
+  "description": {
+    "de": "Das ist der Kommando-Chip einer zerstörten Angriffsdrohne aus dem man ersehen kann, welchen Befehlen sie zum Zeitpunkt ihrer Zerstörung gefolgt war. Das nächste Ziel wäre ein Drohnennest in der Nähe des Mondes 5 von Parchanier VI gewesen.",
+    "en": "This is the command chip of the destroyed raid drone, revealing what commands it was acting under at the time of it's demise. It shows that the next target in line was a hive close to Moon 5 orbiting Parchanier VI.",
+    "es": "Chip de comando de un dron de asalto destruido que revela las órdenes que seguía en el momento de su desaparición. Muestra que el siguiente objetivo previsto era una colmena cercana a la luna 5 de Parchanier VI.",
+    "fr": "La puce de commande du drone d'incursion détruit révèle les commandes en cours de traitement au moment de sa mise hors fonction. Elle montre que la cible suivante était une ruche située près de la lune 5 en orbite autour de Parchanier VI.",
+    "ja": "破壊された攻撃用ドローンのコマンドチップ。解析すると、破壊される直前に従っていた指令の内容が分かる。このドローンの攻撃ターゲットは、パーチェニアVIの軌道を周回する衛星5付近にあるドローン基地だったようだ。",
+    "ko": "레이드 드론의 중앙제어장치입니다. 드론이 파괴 당시 어떠한 명령에 의해 움직이고 있었는지가 담겨 있습니다. 파르샤니에르 VI의 위성 5 근방의 하이브가 다음 목표로 설정되어있었습니다.",
+    "ru": "Это чип управления разрушенного дрона из числа напавших, который раскрывает, чьим командам подчинялся дрон до его уничтожения. Он указывает на то, что следующей на очереди целью был рой недалеко от 5-го спутника планеты Parchanier VI.",
+    "zh": "这是已被毁的奇袭无人机的控制芯片，表明当无人机被毁时有人在幕后操控。芯片还表明无人机的下一个目标是帕查尼尔VI-卫星5附近的一个机巢。"
+  },
+  "groupID": 526,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Raid Drone Command Chip",
     "en": "Raid Drone Command Chip",
@@ -10,5 +22,7 @@
     "ru": "Raid Drone Command Chip",
     "zh": "奇袭无人机控制芯片"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

@@ -1,5 +1,21 @@
 {
-  "typeID": 30013,
+  "basePrice": 23442.0,
+  "description": {
+    "de": "Eine Scansonde zum Scannen von Kosmischen im Weltall.\n\n\n\nKann von <a href=showinfo:17938>Basis-Scansondenwerfern</a> und <a href=showinfo:18639>Erweiterten Sondenwerfern</a> aus gestartet werden.",
+    "en": "A scanner probe used for scanning down Cosmic Signatures in space.\r\n\r\nCan be launched from <a href=showinfo:17938>Core Probe Launchers</a> and <a href=showinfo:18639>Expanded Probe Launchers</a>.",
+    "es": "Sonda escáner usada para escanear señales cósmicas en el espacio.\n\nSe puede lanzar desde <a href=showinfo:17938>lanzasondas de núcleo</a> y <a href=showinfo:18639>lanzasondas ampliados</a>.",
+    "fr": "Cette sonde de scan est utilisée pour scanner les signatures cosmiques dans l'espace.\n\n\n\nElle se charge directement dans un <a href=showinfo:17938>lanceur de sondes cosmiques</a> ou un <a href=showinfo:18639>lanceur de sondes étendu</a>.",
+    "ja": "宇宙空間でコズミックシグネチャの位置特定に使うスキャナープローブ。\r\n\n射出には<a href=showinfo:17938>コアプローブランチャー</a>および<a href=showinfo:18639>拡張型プローブランチャー</a>を使う。",
+    "ko": "코즈믹 시그니처를 탐색하기 위한 스캔 프로브입니다. <br><br><a href=showinfo:17938>코어 프로브 런처</a>와 <a href=showinfo:18639>확장형 프로브 런처</a>로 사출할 수 있습니다.",
+    "ru": "Разведзонд, применяемый для поиска (и получения точных координат) скрытых сигналов.\n\n\n\nЗапуск зондов этого типа производится с помощью <a href=showinfo:17938>малоразмерных</a> и <a href=showinfo:18639>полноразмерных</a> пусковых установок разведзондов.",
+    "zh": "这是一个用来扫描空间信号的扫描探针。\n\n\n\n能从<a href=showinfo:17938>核心探针发射器</a>与<a href=showinfo:18639>延伸探针发射器</a>上发射。"
+  },
+  "graphicID": 3767,
+  "groupID": 479,
+  "iconID": 1723,
+  "marketGroupID": 1199,
+  "mass": 1.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Core Scanner Probe I",
     "en": "Core Scanner Probe I",
@@ -10,5 +26,8 @@
     "ru": "Core Scanner Probe I",
     "zh": "核心扫描探针 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "genericnarcotics",
   "volume": 0.1
 }

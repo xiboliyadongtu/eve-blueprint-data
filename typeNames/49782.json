@@ -1,5 +1,16 @@
 {
-  "typeID": 49782,
+  "description": {
+    "de": "Kameraneigungssperre für Winterplaneten-Dungeon",
+    "en": "Camera pitch locking for winter planet dungeon",
+    "es": "Bloqueo de la inclinación de la cámara para la mazmorra del planeta invernal.",
+    "fr": "Verrouillage d'angle de la caméra pour le donjon de la planète hivernale",
+    "ja": "冬季惑星ダンジョンでカメラピッチをロック",
+    "ko": "냉기 행성 던전을 자동 추적합니다.",
+    "ru": "Камера фиксируется на подземелье зимней планеты",
+    "zh": "视角距离锁定"
+  },
+  "graphicID": 10026,
+  "groupID": 0,
   "name": {
     "de": "Winter Event Camera Lock",
     "en": "Winter Event Camera Lock",
@@ -10,5 +21,6 @@
     "ru": "Winter Event Camera Lock",
     "zh": "冬季活动视角锁定"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

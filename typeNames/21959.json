@@ -1,5 +1,19 @@
 {
-  "typeID": 21959,
+  "basePrice": 95625000.0,
+  "description": {
+    "de": "Teile, die für den Bau einer Raffinerie auf einem Außenposten im All erforderlich sind.",
+    "en": "Parts required for the construction of a space outpost materials refinery.",
+    "es": "Piezas necesarias para la construcción de refinerías de materiales en puestos avanzados.",
+    "fr": "Matériel nécessaire à la construction d'une raffinerie sur un avant-poste spatial.",
+    "ja": "アウトポスト資源精錬所に設置するリサイクルプラントに必要な部品。",
+    "ko": "전초기지 자원 정제소를 건설하는데 사용되는 부품입니다.",
+    "ru": "Компоненты, необходимые для сооружения на космической станции перерабатывающего завода.",
+    "zh": "建造空间站材料精炼厂所需的部件。"
+  },
+  "groupID": 536,
+  "iconID": 2881,
+  "marketGroupID": 1865,
+  "mass": 10000.0,
   "name": {
     "de": "Structure Reprocessing Plant",
     "en": "Structure Reprocessing Plant",
@@ -10,5 +24,7 @@
     "ru": "Structure Reprocessing Plant",
     "zh": "建筑提炼工厂"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 3000.0
 }

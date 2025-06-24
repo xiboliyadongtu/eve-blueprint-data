@@ -1,5 +1,18 @@
 {
-  "typeID": 24351,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Eine fremdartige Konstruktion, die von einer menschlichen Zivilisation gebaut wurde, die schon seit Jahrtausenden ausgestorben ist. Sie zerstört alle Schiffe, die versuchen, sich ihr zu nähern und muss daher aus der Ferne vernichtet werden; bevorzugt mit Waffen, die elektromagnetischen Schaden verursachen.",
+    "en": "A strange device built by a human civilization dead for thousands of years that repels any ships that try to near it. It must be destroyed from afar, preferably with EM damage weapons.",
+    "es": "Un extraño dispositivo construido por una civilización humana extinta desde hace miles de años que repele a cualquier nave que intente acercarse. Debe ser destruido desde lejos, preferiblemente con armas de daño electromagnético.",
+    "fr": "Un étrange dispositif construit par une civilisation humaine disparue depuis des milliers d'années, et qui permet de repousser les vaisseaux qui s'en approchent. Pour le détruire, il faut rester à distance et utiliser de préférence des armes électromagnétiques.",
+    "ja": "数千年前の人類が創造した、近付く船を追い払う奇妙な機械。EMダメージ兵器などで遠くから破壊するのが理想的。",
+    "ko": "수천 년 전에 멸망한 문명이 세운 방어시설입니다. 그 어떠한 함선도 다가오는 걸 허락하지 않는다고 알려져 있습니다. 멀리 떨어진 곳에서 되도록이면 EM 무기로 공격하시길 바랍니다.",
+    "ru": "Это странное устройство, построенное давно погибшей человеческой цивилизацией, отбрасывает все корабли, которые пытаются к нему приблизиться. Его нужно уничтожить издалека, лучше всего с помощью электромагнитного оружия.",
+    "zh": "一个由数千年前消失的人类文明建造的奇怪设备，自动排斥任何试图接近它的飞船。只能从远处破坏，最好使用电磁武器。"
+  },
+  "graphicID": 1683,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Force Repeller Relic",
     "en": "Force Repeller Relic",
@@ -10,5 +23,11 @@
     "ru": "Force Repeller Relic",
     "zh": "古代力场排斥器"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 15000.0,
+  "sofFactionName": "genericbase",
+  "soundID": 31,
   "volume": 100000000.0
 }

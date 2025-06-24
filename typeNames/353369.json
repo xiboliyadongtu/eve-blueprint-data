@@ -1,5 +1,17 @@
 {
-  "typeID": 353369,
+  "basePrice": 99000.0,
+  "description": {
+    "de": "Grundlegende Kenntnisse über aktive Schildmodulhandhabung.\n\n+5% auf die aktive Laufzeit von Fahrzeugschildmodulen pro Skillstufe.",
+    "en": "Basic understanding of active shield module management.\r\n\r\n+5% to active duration of vehicle shield modules per level.",
+    "es": "Conocimiento básico de gestión de módulos de escudo activo.\n\n+5% a la duración activa de los módulos de escudo del vehículo por nivel.",
+    "fr": "Notions de base en utilisation de module de bouclier actif.\n\n+5 % à la durée active des modules de boucliers de véhicule par niveau.",
+    "it": "Comprensione base della gestione del modulo scudo attivo. \n\n+5% alla durata attiva dei moduli per scudo del veicolo per livello.",
+    "ja": "アクティブシールドモジュール管理に関する基本的な知識。\n\nレベル上昇ごとに車両シールドモジュールの有効期間が5%増加",
+    "ko": "액티브 실드 모듈 관리에 대한 기본적인 이해를 습득합니다.<br><br>매 레벨마다 모든 차량 실드 모듈의 활성화 지속시간 5% 증가",
+    "ru": "Базовое знание управления модулем активного щита.\n\n+5% к длительности активного состояния модулей щита за каждый уровень.",
+    "zh": "管理主动护盾装备的基本知识。每升一级，载具护盾装备的持续时长增加5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Aktive Schildverbesserung",
     "en": "Active Shield Enhancement",
@@ -11,5 +23,7 @@
     "ru": "Активный усилитель щита",
     "zh": "主动护盾增强"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

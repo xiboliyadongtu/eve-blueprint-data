@@ -1,5 +1,17 @@
 {
-  "typeID": 87134,
+  "description": {
+    "de": "Mit seinem orangefarbenem Blinklicht scheint dieses Signalfeuer einen besonders wichtigen Ort oder den Wegpunkt für einen anderen, größeren Pfad zu markieren.",
+    "en": "With its blinking orange light, this beacon appears to be marking a point of interest, or perhaps a waypoint in a greater trail.",
+    "es": "Con su luz naranja intermitente, esta baliza parece marcar un punto de interés, o tal vez un punto de ruta de un camino importante.",
+    "fr": "Grâce à sa lumière orange clignotante, cette balise semble signaler un point d'intérêt particulier ou, peut-être, une étape d'une piste plus importante.",
+    "ja": "ビーコンのオレンジ色のライトが点滅している。何か特別な地点を示しているのだろう。ひょっとすると、追跡に関する重要な航路を示しているのかもしれない。",
+    "ko": "주황빛으로 점멸하는 비컨은 중요 지점을 표시하거나 다음 장소를 가리키는 일종의 이정표 역할을 하고 있습니다.",
+    "ru": "Мигая оранжевым светом, этот маяк указывает на какую-то достопримечательность или сигналит о достижении промежуточной точки маршрута.",
+    "zh": "这个信标闪烁着橙色的光，似乎标示着一个有趣的地点，也可能是某条大航线的一个航标。"
+  },
+  "graphicID": 1211,
+  "groupID": 4825,
+  "mass": 1.0,
   "name": {
     "de": "Beacon",
     "en": "Beacon",
@@ -10,5 +22,8 @@
     "ru": "Beacon",
     "zh": "信标灯塔"
   },
+  "portionSize": 1,
+  "published": false,
+  "sofFactionName": "genericbase",
   "volume": 1.0
 }

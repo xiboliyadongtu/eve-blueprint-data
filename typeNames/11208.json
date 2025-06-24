@@ -1,5 +1,17 @@
 {
-  "typeID": 11208,
+  "basePrice": 100000.0,
+  "description": {
+    "de": "Fortgeschrittener Skill zur Installation von Sensor-Upgrades, z.B. Signal Amplifier oder Backup Sensor Array.\n\nWeitere 2% Reduktion des CPU-Verbrauchs der Sensor-Upgrades je Skillstufe.",
+    "en": "Advanced skill at installing sensor upgrades, e.g. signal amplifier and backup sensor array. further 2% reduction of sensor upgrade CPU needs per skill level.",
+    "es": "Habilidad avanzada para instalar mejoras de sensores, como amplificadores de señal y redes de sensores de apoyo. 2 % de reducción de las necesidades de CPU de las mejoras de sensores por nivel de habilidad.",
+    "fr": "Compétence avancée liée à l'installation d'améliorations de détecteurs telles que les amplificateurs de signaux et les modules de détection de secours. Réduit également de 2 % par niveau de compétence les contraintes de CPU des mises à jour des détecteurs.",
+    "ja": "センサー強度強化をインストールするための上級スキル。シグナル増幅器、補助センサーアレイなどが該当する。スキルレベル上昇ごとにセンサー強度強化のCPU使用量が更に2%減少する。",
+    "ko": "신호 증폭기나 예비 센서 시설 같은 센서 업그레이드 설치를 위한 상급 스킬입니다. 매 레벨마다 센서 업그레이드의 CPU 요구치 2% 감소",
+    "ru": "Углублённые познания в области монтажа модулей для сенсоров и электронных систем, например, усилителей сигнала и пассивных систем захвата целей. За каждую степень освоения навыка: на 2% сокращается потребность указанных модулей в мощностях ЦПУ.",
+    "zh": "安装诸如信号放大器和感应器备用阵列等感应器升级的高级技能。每升一级，感应器升级装备的CPU需求进一步减少2%。"
+  },
+  "groupID": 272,
+  "iconID": 33,
   "name": {
     "de": "Advanced Sensor Upgrades",
     "en": "Advanced Sensor Upgrades",
@@ -10,5 +22,7 @@
     "ru": "Спецкурс управления бортовой электроникой",
     "zh": "高级感应器升级"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

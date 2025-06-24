@@ -1,5 +1,18 @@
 {
-  "typeID": 24256,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Das Gebäude, in dem die Blood Raider ihren riesigen Energieerzeuger untergebracht haben.",
+    "en": "The building where the Blood Raiders are housing their immense power generator.",
+    "es": "Edificio donde los Saqueadores Sanguinarios guardan su inmenso generador de energía.",
+    "fr": "Bâtiment dans lequel les Blood Raiders hébergent leur énorme générateur de puissance.",
+    "ja": "ブラッドレイダーズ所有の巨大なパワージェネレーターが置かれている建造物。",
+    "ko": "블러드 레이더들의 거대한 발전기를 보관한 건물입니다.",
+    "ru": "Здание, где Blood Raider разместили свой громадный силовой генератор.",
+    "zh": "这座建筑是血袭者安置巨大发电机的地方。"
+  },
+  "graphicID": 2593,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Generator Building",
     "en": "Generator Building",
@@ -10,5 +23,11 @@
     "ru": "Generator Building",
     "zh": "发电机建筑"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 3394.0,
+  "sofFactionName": "amarrbase",
+  "soundID": 20901,
   "volume": 100000000.0
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 47438,
+  "description": {
+    "de": "Eine Triglavia-Gebietsverweigerungsstruktur, die mit einem Mittelstrecken-Punktverteidigungssystem ausgestattet ist. Dieses nimmt alle Drohnen, Lenkwaffen und Raubdrohnen-Fregatten innerhalb der Reichweite ins Visier. <i>Strategische Troika der Svarog-Klade trennt-grenzt von Noema ab, dass abweichende Automaten Sobornost mit Kladen betreten können. Svarog-Klade bestätigt Jetzt-Befehl zur Poshlost-Ausrottung.</i> – unvollständige Dekodierung der Daten, die im Zielerfassungsprozessor eines Triglavia-Suppressors abweichender Automaten eingebettet sind",
+    "en": "A Triglavian area-denial structure equipped with a medium-range point-defense system that will target all drones, missiles, and rogue drone frigates within its field of fire.\r\n\r\n<i>Strategic Troika of Svarog Clade sever-dissents from noema that deviant automata may enter sobornost with clades. Svarog Clade now-time affirms imperative of poshlost extirpation.</i> – incomplete deciphering of data embedded in targeting processor of a Triglavian Deviant Automata Suppressor",
+    "es": "Estructura de negación de zona triglaviana equipada con un sistema de defensa de puntos de medio alcance que apunta a todos los drones, misiles y fragatas de drones rebeldes dentro de su campo de fuego.\n\n\n\n<i>La troika estratégica del clado Svarog se desprende del noema de que los autómatas discordantes pueden entrar en sobornost con los clados. El clado Svarog afirma ahora el imperativo de la extirpación de poshlost.</i> — Descifrado incompleto de los datos incrustados en el procesador de adquisición de objetivos de un supresor de autómatas discordantes triglaviano.",
+    "fr": "Une structure triglavian interdisant l'accès à la zone et équipée d'un système de défense à moyenne portée qui prend pour cible tous les drones, les missiles et les frégates drones renégats se trouvant dans son champ de tir. <i>La troïka stratégique du clade Svarog a des points de vue divergents-tranchants au sujet d'automates au comportement déviant qui pourraient rejoindre le sobernost avec des clades. Le clade Svarog affirme aujourd'hui à quel point l'extraction des poshlosts est impérative.</i> – Déchiffrage incomplet des données issues du processeur de ciblage du suppresseur d'automates triglavian au comportement déviant.",
+    "ja": "トリグラビアンの領域拒否ストラクチャ。中距離拠点防衛システムが配備されており、射程圏内に入った全てのドローン、ミサイル、そしてローグドローンフリゲートを攻撃対象とする。\r\n\n<i>スヴァログ・クレードの戦略トロイカは、逸脱したオートマタがクレードを伴いソボルノストに入るというノエマを断ち切り、意義を唱え、ポシュロストの撲滅は必要不可欠だと主張する。</i> – トリグラビアンの逸脱オートマタサプレッサーの標的捕捉プセッサに埋め込まれていたデータの部分的な解読",
+    "ko": "사정거리 내 모든 드론, 미사일, 그리고 로그 드론 프리깃을 공격하는 중거리 거점 방어 시스템이 탑재된 트리글라비안 구조물입니다. <br><br><i>스바로그 클레이드의 전략 트로이카는 비정상적인 오토마타가 클레이드와 함께 진입할 것이라는 노에마의 의견에 대해 단호하게 반대함. 따라서 현시점 스바로그 클레이드는 포쉬로스트 근절 명령을 단언함.</i> – 트리글라비안 디바이언트 오토마타 억제기 해독 미완료",
+    "ru": "Сооружение Триглава, оснащённое системой точечной обороны среднего радиуса действия, которая автоматически наводится на все беспилотники, ракеты и фрегаты восставших дронов в радиусе поражения. <i>Стратегическая тройка Свароговой клады отделена на основании нэмы о том, что непокорные автоматы могут объединиться в соборность с кладами. Сварогова клада ныне подчёркивает необходимость искоренения подобной мерзости.</i> (неполная расшифровка данных, хранящихся в процессоре наведения Триглавского подавителя непокорных автоматов)",
+    "zh": "这是一个三神裔区域封锁建筑，配有中距定点防御系统，可以将打击火力范围内的所有无人机、导弹和自由无人机护卫舰。\n\n\n\n<i>熔火裔演化枝的战略三头切断了变异的自动实体与演化枝发生聚合的可能性。熔火裔演化枝现确认已销声匿迹。</i> – 某个三神裔异常实体抑阻器的锁定处理器中嵌入的数据的不完全破译"
+  },
+  "graphicID": 22035,
+  "groupID": 1981,
+  "mass": 2000000000.0,
   "name": {
     "de": "Mittelstrecken-Triglavia-Suppressor abweichender Automaten",
     "en": "Medium-Range Deviant Automata Suppressor",
@@ -10,5 +22,10 @@
     "ru": "Подавитель непокорных автоматов среднего радиуса действия",
     "zh": "中距异常自动装置抑制器"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 7500.0,
+  "sofFactionName": "triglavianbase",
+  "soundID": 20825,
   "volume": 130000000.0
 }

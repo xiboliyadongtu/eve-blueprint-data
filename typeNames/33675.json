@@ -1,5 +1,82 @@
 {
-  "typeID": 33675,
+  "basePrice": 125000000.0,
+  "capacity": 350.0,
+  "description": {
+    "de": "\"Einige Kapselpiloten behaupten, ECM sei 'unehrenhaft' und 'unfair'. Machen Sie diese zuerst bewegungsunfähig und schießen Sie sie als letztes ab.\" - <i>Jirai 'Fatal' Laitanen, Pithum Nullifier-Trainingshandbuch c. YC104</i>",
+    "en": "“Some capsuleers claim that ECM is 'dishonorable' and 'unfair'.\r\nJam those ones first, and kill them last.”\r\n- <i>Jirai 'Fatal' Laitanen, Pithum Nullifier Training Manual c. YC104</i>",
+    "es": "«Algunos capsulistas se quejan de que las ECM son deshonestas e injustas.\n\nUsa las contramedidas contra esos primero y mátalos los últimos».\n\n- <i>Jirai 'Fatal' Laitanen, manual de entrenamiento de anulador pithum. 104 YC</i>",
+    "fr": "« Certains capsuliers prétendent que les CME sont « injustes » et « déloyales ». Brouillez-les d'abord, et tuez-les ensuite. » - <i>Jirai « Fatal » Laitanen, manuel de formation de l'invalideur Pithum v. YC 104</i>",
+    "ja": "「あるカプセル乗りからは、ECMはは「恥ずべき」で、「不公平」といったクレームがある。そうしたやつらは最初にジャマーをかけて、最後に殺すのだ。」- <i>ジライ「致命的」ライタネン、ピソムナリファイヤートレーニングマニュアルc。YC104</i>",
+    "ko": "ECM이 '불공평'하다느니 '불명예'스럽다느니 나불대는 캡슐리어들이 있는데, <br><br>그런 놈들은 ECM을 먹이고 마지막에 처리해. <br><br>- <i>지라이 '페이탈' 라이타넨, 피섬 ECM 훈련용 교본 c. YC 104년</i>",
+    "ru": "«Некоторые капсулёры заявляют, что помехи на системы сопровождения целей — это „подло“ и „нечестно“. Глушите их первыми, а убивайте — последними».<br> — <i>Ирай Лайтанен по прозвищу «Смерть», руководство по подготовке «нулификаторов» гуристас, 104 год по юлайскому летоисчислению.</i>",
+    "zh": "“许多飞行员声称使用ECM是‘不光彩’和‘不公平’的行为。\n对待这种人，要让他们成为ECM的第一目标，然后让他们眼睁睁地看着自己在最后一个被干掉。”\n- <i>“致命的”吉拉伊·赖塔恩，皮特姆湮灭者培训手册。YC104年</i>"
+  },
+  "factionID": 500010,
+  "graphicID": 20604,
+  "groupID": 833,
+  "marketGroupID": 1837,
+  "mass": 12000000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      100,
+      150,
+      139,
+      76,
+      85,
+      94,
+      165
+    ],
+    "1": [
+      96,
+      99,
+      100,
+      150,
+      139,
+      76,
+      85,
+      94,
+      165
+    ],
+    "2": [
+      96,
+      99,
+      100,
+      150,
+      139,
+      76,
+      85,
+      94,
+      165
+    ],
+    "3": [
+      96,
+      99,
+      100,
+      150,
+      139,
+      76,
+      142,
+      85,
+      94,
+      165
+    ],
+    "4": [
+      96,
+      99,
+      100,
+      150,
+      139,
+      76,
+      142,
+      85,
+      118,
+      94,
+      165
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Chameleon",
     "en": "Chameleon",
@@ -9,6 +86,156 @@
     "ko": "카멜레온",
     "ru": "Chameleon",
     "zh": "变色龙级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 131.0,
+  "sofFactionName": "tournament-xii",
+  "soundID": 20070,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 600.0,
+        "bonusText": {
+          "de": "Bonus auf die HP und den Schaden von <a href=showinfo:33699>Mittelschweren Kampfdrohnen</a>",
+          "en": "bonus to <a href=showinfo:33699>Medium Combat Drone</a> damage and hitpoints",
+          "es": "de bonificación al daño y los puntos de vida de los <a href=showinfo:33699>drones de combate medianos</a>.",
+          "fr": "bonus aux dégâts et aux points de vie du <a href=showinfo:33699>drone de combat intermédiaire</a>",
+          "ja": "<a href=showinfo:33699>戦闘用ミディアムドローン</a>のダメージとヒットポイントが増加",
+          "ko": "<a href=showinfo:33699>중형 공격 드론</a> 피해량 및 내구도 보너스",
+          "ru": "увеличивается урон бортового оружия <a href=showinfo:33699>средних боевых дронов</a>; увеличивается запас их прочности",
+          "zh": "<a href=showinfo:33699>中型战斗无人机</a>伤害和HP加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 80.0,
+        "bonusText": {
+          "de": "Reduktion des Flüssigozon-Verbrauchs von <a href=showinfo:21096>Anziehungsfeldgeneratoren</a> und <a href=showinfo:28646>getarnten Anziehungsfeldgeneratoren</a>",
+          "en": "reduction in <a href=showinfo:21096>Cynosural Field Generator</a> and <a href=showinfo:28646>Covert Cynosural Field Generator</a> liquid ozone consumption",
+          "es": "de reducción del consumo de ozono líquido del <a href=showinfo:21096>generador de campo cinosural</a> y el <a href=showinfo:28646>generador de campo cinosural encubierto</a>.",
+          "fr": "de réduction de la consommation d'ozone liquide du <a href=showinfo:21096>générateur de champ cynosural</a> et du <a href=showinfo:28646>générateur de champ cynosural furtif</a>",
+          "ja": "<a href=showinfo:21096>サイノシュラルフィールドジェネレーター</a>と<a href=showinfo:28646>潜伏用サイノシュラルフィールドジェネレーター</a>の液体オゾン消費量が減少",
+          "ko": "<a href=showinfo:21096>사이노슈럴 필드 생성기</a> 및 <a href=showinfo:28646>코버트 사이노슈럴 필드 생성기</a> 액화 오존 소모량 감소",
+          "ru": "снижение потребления жидкого озона <a href=showinfo:21096>приводным маяком</a> и <a href=showinfo:28646>приводным маяком скрытого действия</a>",
+          "zh": "<a href=showinfo:21096>诱导力场发生器</a>和<a href=showinfo:28646>隐秘诱导力场发生器</a>消耗的液态臭氧数量降低"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Reduktion der Dauer von <a href=showinfo:21096>Anziehungsfeldgeneratoren</a> und <a href=showinfo:28646>getarnten Anziehungsfeldgeneratoren</a>",
+          "en": "reduction in <a href=showinfo:21096>Cynosural Field Generator</a> and <a href=showinfo:28646>Covert Cynosural Field Generator</a> duration",
+          "es": "de reducción de la duración del <a href=showinfo:21096>generador de campo cinosural</a> y el <a href=showinfo:28646>generador de campo cinosural encubierto</a>.",
+          "fr": "de réduction de la durée du <a href=showinfo:21096>générateur de champ cynosural</a> et du <a href=showinfo:28646>générateur de champ cynosural furtif</a>",
+          "ja": "<a href=showinfo:21096>サイノシュラルフィールドジェネレーター</a>と<a href=showinfo:28646>潜伏用サイノシュラルフィールドジェネレーター</a>の持続時間が減少",
+          "ko": "<a href=showinfo:21096>사이노슈럴 필드 생성기</a> 및 <a href=showinfo:28646>코버트 사이노슈럴 필드 생성기</a> 지속시간 감소",
+          "ru": "сокращение времени работы <a href=showinfo:21096>приводного маяка</a> и <a href=showinfo:28646>приводного маяка скрытого действия</a>",
+          "zh": "<a href=showinfo:21096>诱导力场发生器</a>和<a href=showinfo:28646>隐秘诱导力场发生器</a>的持续时间缩短"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonusText": {
+          "de": "Kann <a href=showinfo:11578>Covert-Ops-Tarnvorrichtung</a>, <a href=showinfo:21096>Anziehungsfeldgenerator</a> und <a href=showinfo:28646>getarnten Anziehungsfeldgenerator</a> ausrüsten",
+          "en": "Can fit <a href=showinfo:11578>Covert Ops Cloaking Device</a>, <a href=showinfo:21096>Cynosural Field Generator</a>, and <a href=showinfo:28646>Covert Cynosural Field Generator</a> modules",
+          "es": "Es posible equipar módulos de <a href=showinfo:11578>dispositivo de camuflaje de operaciones encubiertas</a>, un <a href=showinfo:21096>generador de campo cinosural</a> y un <a href=showinfo:28646>generador de campo cinosural encubierto</a>.",
+          "fr": "Peut équiper des modules <a href=showinfo:11578>dispositif de camouflage d'opérations secrètes</a>, <a href=showinfo:21096>générateur de champ cynosural</a> et <a href=showinfo:28646>générateur de champ cynosural furtif</a>",
+          "ja": "<a href=showinfo:11578>光学迷彩型遮蔽装置</a>と<a href=showinfo:21096>サイノシュラルフィールドジェネレーター</a>、そして<a href=showinfo:28646>潜伏用サイノシュラルフィールドジェネレーター</a>を装備可能",
+          "ko": "<a href=showinfo:11578>코버트 옵스 클로킹 장치</a>, <a href=showinfo:21096>사이노슈럴 필드 생성기</a>, <a href=showinfo:28646>코버트 사이노슈럴 필드 생성기</a> 장착 가능",
+          "ru": "Возможно оснащение <a href=showinfo:11578>всережимной системой маскировки</a>, <a href=showinfo:21096>приводным маяком</a> и <a href=showinfo:28646>приводным маяком скрытого действия</a>.",
+          "zh": "可以装配<a href=showinfo:11578>隐秘行动隐形装置</a>、<a href=showinfo:21096>诱导力场发生器</a>和<a href=showinfo:28646>隐秘诱导力场发生器</a>装备"
+        },
+        "importance": 4
+      },
+      {
+        "bonusText": {
+          "de": "Die Verzögerung bei Reaktivierung von <a href=showinfo:11579>Tarnmodulen</a> wird auf 5 Sekunden reduziert.",
+          "en": "<a href=showinfo:11579>Cloak</a> reactivation delay reduced to 5 seconds",
+          "es": "Reducción de la demora de reactivación del <a href=showinfo:11579>camuflaje</a> a 5 segundos.",
+          "fr": "Délai de réactivation du <a href=showinfo:11579>camouflage</a> réduit à 5 secondes",
+          "ja": "<a href=showinfo:11579>遮蔽装置</a>の再起動遅延が5秒に短縮",
+          "ko": "<a href=showinfo:11579>클로킹</a> 재가동 지연 시간 5초로 감소",
+          "ru": "Задержка повторного включения <a href=showinfo:11579>систем маскировки</a> сокращена до 5 секунд",
+          "zh": "<a href=showinfo:11579>隐形装置</a>重启延时降到5秒"
+        },
+        "importance": 5
+      }
+    ],
+    "types": {
+      "3332": [
+        {
+          "bonus": 20.0,
+          "bonusText": {
+            "de": "Bonus auf den Kinetik- und Thermalschaden von Lenkwaffen",
+            "en": "bonus to kinetic and thermal missile damage",
+            "es": "de bonificación al daño cinético y térmico de los misiles.",
+            "fr": "bonus aux dégâts des missiles de type cinétique et thermique",
+            "ja": "ミサイルのキネティックダメージおよびサーマルダメージが増加",
+            "ko": "미사일 키네틱 및 열 피해 증가",
+            "ru": "увеличивается урон кинетических и термических БЧ ракет",
+            "zh": "动能和热能导弹伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ],
+      "3334": [
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Reduktion der Aktivierungskosten von <a href=showinfo:3427>ECM-Zielstörsender-Modulen</a>",
+            "en": "reduction in <a href=showinfo:3427>ECM Target Jammer</a> activation cost",
+            "es": "de reducción del coste de activación del <a href=showinfo:3427>perturbador ECM de objetivo</a>.",
+            "fr": "réduction du coût d'activation du <a href=showinfo:3427>brouilleur de cible CME</a>",
+            "ja": "<a href=showinfo:3427>ECMターゲットジャマー</a>の起動コストが軽減",
+            "ko": "<a href=showinfo:3427>ECM 타겟 재머</a> 활성화 비용 감소",
+            "ru": "сокращается потребление энергии <a href=showinfo:3427>модулями глушения захвата целей</a>",
+            "zh": "<a href=showinfo:3427>ECM目标干扰器</a>启动消耗减少"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ],
+      "22761": [
+        {
+          "bonus": 30.0,
+          "bonusText": {
+            "de": "Bonus auf die Stärke von <a href=showinfo:3427>ECM-Zielstörsender-Modulen</a>",
+            "en": "bonus to <a href=showinfo:3427>ECM Target Jammer</a> strength",
+            "es": "de bonificación a la intensidad del <a href=showinfo:3427>perturbador ECM de objetivo</a>.",
+            "fr": "bonus à la puissance du <a href=showinfo:3427>brouilleur de cible CME</a>",
+            "ja": "<a href=showinfo:3427>ECMターゲットジャマー</a>の強度が増加",
+            "ko": "<a href=showinfo:3427>ECM 타겟 재머</a> 효과 증가",
+            "ru": "увеличивается выходная мощность <a href=showinfo:3427>модулей глушения захвата целей</a>",
+            "zh": "<a href=showinfo:3427>ECM目标干扰器</a>强度加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 20.0,
+          "bonusText": {
+            "de": "Reduktion des CPU-Bedarfs für <a href=showinfo:11579>Tarnmodule</a>",
+            "en": "reduction in <a href=showinfo:11579>Cloaking Devices</a> CPU requirement",
+            "es": "de reducción del requisito de CPU de los <a href=showinfo:11579>dispositivos de camuflaje</a>.",
+            "fr": "réduction de la charge CPU requise pour les <a href=showinfo:11579>dispositifs de camouflage</a>",
+            "ja": "<a href=showinfo:11579>遮蔽装置</a>のCPU使用量が減少",
+            "ko": "<a href=showinfo:11579>클로킹 장치</a> CPU 사용량 감소",
+            "ru": "сокращается потребность <a href=showinfo:11579>систем маскировки</a> в мощностях ЦПУ",
+            "zh": "<a href=showinfo:11579>隐形装置</a>的CPU需求降低"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 96000.0
 }

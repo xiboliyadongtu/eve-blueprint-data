@@ -1,5 +1,18 @@
 {
-  "typeID": 86262,
+  "basePrice": 250000.0,
+  "description": {
+    "de": "Spezialistenforschung zur Verlängerung der kurzen Lebensdauer von Kapselbrecher-Klonen. +10 % auf Schadenseffektdauer pro Skillstufe.",
+    "en": "Specialist research on extending the short lifespans of Breacher Pod clones. +10% to damage effect duration per skill level.",
+    "es": "Investigación especializada sobre cómo extender la corta vida útil de los clones de la cápsula de ataque. +10 % a la duración del efecto de daño por nivel de habilidad.",
+    "fr": "Recherche spécialisée sur l'extension des durées de vie courtes des clones de capsules de brèche. +10 % à la durée d'effet des dégâts par niveau de compétence.",
+    "ja": "通常は短い、突入ポッドランチャーのクローンの稼働時間の延長に関する専門的な研究を行うスキル。スキルレベルが1つ上がるたびに、ダメージ発生時間が10%延長される。",
+    "ko": "침투 포드 클론의 짧은 수명을 연장하는 특수 연구 스킬입니다. 스킬 레벨당 피해 효과 지속시간이 10% 증가합니다.",
+    "ru": "Этот особый навык позволяет разрабатывать технологии, продлевающие срок службы дронов из внедряющихся капсул. Каждая степень освоения на 10% продлевает период нанесения урона.",
+    "zh": "专门研究如何延长分裂者级逃生舱克隆体较短的持续时间。每升一级，伤害效果持续时间延长10%。"
+  },
+  "groupID": 256,
+  "iconID": 33,
+  "marketGroupID": 373,
   "name": {
     "de": "Breacher Pod Clone Longevity",
     "en": "Breacher Pod Clone Longevity",
@@ -10,5 +23,7 @@
     "ru": "Breacher Pod Clone Longevity",
     "zh": "分裂者级逃生舱克隆体持续时间"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

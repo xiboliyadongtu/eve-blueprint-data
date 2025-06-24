@@ -1,5 +1,16 @@
 {
-  "typeID": 21609,
+  "description": {
+    "de": "Ein riesiger Solar Harvester, der früher mit der Astrofarm in der Nähe verbunden war. Er ist seit vielen Jahren außer Betrieb.",
+    "en": "A huge solar harvester once linked to the nearby astro farm. It has been out of order for many years.",
+    "es": "Esta enorme cosechadora solar que alguna vez estuvo vinculada a la granja astral cercana lleva muchos años fuera de servicio.",
+    "fr": "Immense collecteur solaire autrefois relié à l'astroferme située à proximité. Il est hors service depuis de nombreuses années.",
+    "ja": "巨大な太陽光発電装置。近くの宇宙農場に電力を供給していたものだ。ずいぶん前に故障したきりになっている。",
+    "ko": "한때 근방의 우주 농장과 연결되어 있던 거대한 태양광 하베스터입니다. 수년간 고장 난 상태로 방치되어 있습니다.",
+    "ru": "Гигантский сборщик солнечной энергии, который когда-то был связан со звездной фермой. Он уже много лет не работает.",
+    "zh": "同附近的太空农场相连的巨型太阳能采集器，已经失灵好多年了。"
+  },
+  "graphicID": 2412,
+  "groupID": 226,
   "name": {
     "de": "Dysfunctional Solar Harvester",
     "en": "Dysfunctional Solar Harvester",
@@ -10,5 +21,8 @@
     "ru": "Dysfunctional Solar Harvester",
     "zh": "功能失效的太阳能采集站"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 4300.0,
+  "sofFactionName": "genericindustrial"
 }

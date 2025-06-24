@@ -1,5 +1,18 @@
 {
-  "typeID": 87218,
+  "capacity": 27500.0,
+  "description": {
+    "de": "Wenn Sie das Wrack dieses Schiffes bergen, könnten Sie Überlebende entdecken, die von Stasiskapseln im Inneren am Leben gehalten werden.",
+    "en": "If you salvage this ship’s wreckage you might discover survivors kept alive by stasis pods still inside.",
+    "es": "Si rescatas los restos de esta nave, podrías descubrir supervivientes con cápsulas ralentizadoras que aún estén dentro.",
+    "fr": "Si vous récupérez l'épave de ce vaisseau, vous pourrez peut-être découvrir des survivants maintenus en vie par des capsules de stase encore à l'intérieur.",
+    "ja": "この宇宙船の残骸をサルベージすれば、まだ中にあるステイシスポッドの中で生存している搭乗員を見つけられるかもしれない。",
+    "ko": "함선의 잔해를 샐비지하면 스테이시스 포드에 대피한 생존자를 발견할 수도 있습니다.",
+    "ru": "Во время демонтажа обломков этого судна вы можете обнаружить стазис-капсулы с выжившими.",
+    "zh": "如果对该舰船的残骸进行打捞，你可能会在尚存的停滞舱中找到幸存者。"
+  },
+  "graphicID": 3117,
+  "groupID": 186,
+  "mass": 10000.0,
   "name": {
     "de": "Battle Wreckage",
     "en": "Battle Wreckage",
@@ -10,5 +23,9 @@
     "ru": "Battle Wreckage",
     "zh": "战场残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

@@ -1,5 +1,16 @@
 {
-  "typeID": 29160,
+  "description": {
+    "de": "Ein stolzes, weltraumerprobtes Schiff, das auf einen Haufen gewöhnlichen Mülls reduziert wurde. Das ist nicht ganz das, was der Captain sich für sein Schiff erhofft hatte, aber nun ja, so ist nun einmal das Leben.",
+    "en": "A proud spacefaring vessel reduced to a pile of generic scrap. Not exactly what the captain was hoping would happen, but that's life for you.",
+    "es": "Una orgullosa nave espacial reducida a un montón de vulgar chatarra. Seguramente no era el destino con el que soñaba su capitán, pero para ti es más de lo mismo.",
+    "fr": "Un vaisseau spatial réduit en un vulgaire tas de débris. Ce n'est certainement pas ce qu'espérait le capitaine, mais c'est la vie.",
+    "ja": "元は自慢の艦船だったが今ではありふれた鉄くず。船長が望んだとおりにはならなかったが、それが人生というものだ。",
+    "ko": "한때 화려한 모습을 자랑했던 함선이 현재는 잔해만 남았습니다. 함장이 바라는 바는 아니었겠지만... 인생은 원래 가혹한 법입니다.",
+    "ru": "Некогда гордый корабль, превращенный в кучу обломков. Непонятно, на что надеялся его капитан, но такова жизнь.",
+    "zh": "曾经让人敬畏的空间航行舰船，现在已经变成一堆破铜烂铁。这肯定不是它曾经的舰长所希望的，但是……这就是命运。"
+  },
+  "graphicID": 3116,
+  "groupID": 226,
   "name": {
     "de": "Wrecked Cruiser",
     "en": "Wrecked Cruiser",
@@ -10,5 +21,9 @@
     "ru": "Wrecked Cruiser",
     "zh": "损毁的巡洋舰"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 40.0,
+  "sofFactionName": "genericbase"
 }

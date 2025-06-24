@@ -1,5 +1,17 @@
 {
-  "typeID": 363360,
+  "basePrice": 149000.0,
+  "description": {
+    "de": "Skill zur Benutzung von Plasmakanonen.\n\n5% Abzug auf die Ladezeit von Plasmakanonen pro Skillstufe.",
+    "en": "Skill at handling plasma cannons.\n\n5% reduction to plasma cannon charge time per level.",
+    "es": "Habilidad de manejo de cañones de plasma.\n\n-5% al tiempo de carga de los cañones de plasma por nivel.",
+    "fr": "Compétence permettant de manipuler les canons à plasma.\n\n5 % de réduction de la durée de charge du canon à plasma par niveau.",
+    "it": "Abilità nel maneggiare cannoni al plasma.\n\n5% di riduzione al tempo di ricarica del cannone al plasma per livello.",
+    "ja": "プラズマキャノンを扱うスキル。\n\nレベル上昇ごとに、プラズマキャノンのチャージ時間が5%短縮する。",
+    "ko": "플라즈마 캐논 운용을 위한 스킬입니다. <br><br>매 레벨마다 플라즈마 캐논 충전 시간 5% 감소",
+    "ru": "Навык обращения с плазменными пушками.\n\n5% уменьшение времени перезарядки плазменной пушки на каждый уровень.",
+    "zh": "使用等离子加农炮的技能。每升一级，等离子加农炮的装填时间缩短5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Bedienung: Plasmakanone",
     "en": "Plasma Cannon Operation",
@@ -11,5 +23,7 @@
     "ru": "Управление плазменной пушкой",
     "zh": "等离子加农炮操作"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

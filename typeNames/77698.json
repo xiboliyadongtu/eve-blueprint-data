@@ -1,5 +1,19 @@
 {
-  "typeID": 77698,
+  "basePrice": 112500000.0,
+  "capacity": 933.0,
+  "description": {
+    "de": "Ein Steward-Sleeper, vergleichbar mit einer Schlachtschiff. Sein Verhalten ist auf einen koordinierten Angriff auf alle als feindlich eingestuften Ziele ausgerichtet. Der uralte Robot-Beschützer der Geheimnisse eines untergegangenen Volkes, dessen interne Prozesse nicht vollständig bekannt sind.",
+    "en": "A Steward sleeper, equivalent to a battleship class ship. Its behavior is focused on a coordinated assault against any tagged as hostile.\r\n\r\nThe Ancient robotic protector of a lost people's secrets, the details of its internal operations are not fully understood.",
+    "es": "Una Steward sleeper, equivalente a una nave de clase acorazado. Su conducta se centra en un asalto coordinado contra cualquiera que sea considerado hostil.    Antiguo robot protector de los secretos de un pueblo perdido, no se conocen todos los detalles de su funcionamiento interno.",
+    "fr": "Un Steward sleeper, équivalent à un cuirassé. Il a pour objectif principal de coordonner l'assaut contre tout vaisseau marqué hostile. L'ancien protecteur robotique des secrets d'un peuple perdu, les détails de ses opérations internes ne sont pas complètement compris.",
+    "ja": "スチュワード型スリーパー。戦艦級艦船に相当するスリーパーで、その行動様式は、敵と認識したあらゆる存在に組織的に襲いかかることに特化している。    既に滅亡した人々の秘密を守る古代のロボットで、内部の詳細な仕組みについては今もなお完璧には解明されていない。",
+    "ko": "배틀쉽급 함선과 동급인 스튜어드 슬리퍼입니다. 적으로 인식된 대상을 정확하게 타격하는 데 주력합니다.<br><br>지금은 사라진 민족의 비밀을 수호하는 고대 로봇으로, 내부 작동 방식은 아직 완전히 파악되지 않았습니다.",
+    "ru": "Этот Спящий типа Steward по характеристикам соответствует линкору. Его задача — уничтожить любую цель, которую он посчитает враждебной. Древний роботизированный защитник, оберегающий тайны исчезнувшей цивилизации. Принципы его работы ещё полностью не изучены.",
+    "zh": "一架管家级冬眠者，相当于一艘战列舰级舰船。其行为主要是对任何被标记为敌对的目标发起突击。这个远古机器人守护着失落民族的秘密，其内部运作的具体细节尚未被探明。"
+  },
+  "graphicID": 3516,
+  "groupID": 4574,
+  "mass": 63000000.0,
   "name": {
     "de": "Watchful Steward",
     "en": "Watchful Steward",
@@ -10,5 +24,10 @@
     "ru": "Watchful Steward",
     "zh": "戒备者管家级"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 400.0,
+  "sofFactionName": "sleeperbase",
+  "soundID": 12,
   "volume": 495000.0
 }

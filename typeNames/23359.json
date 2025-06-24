@@ -1,5 +1,18 @@
 {
-  "typeID": 23359,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Ein rattenverseuchtes Gefängnis der Serpentis Corporation.",
+    "en": "This rat-infested prison owned by the Serpentis organization.",
+    "es": "Esta prisión infestada de ratas pertenece a la organización Serpentis.",
+    "fr": "Cette prison infestée de rats appartient à l'organisation serpentis.",
+    "ja": "サーペンティスが所有する、ネズミがはびこる刑務所。",
+    "ko": "서펜티스가 운영하고 있는 교도소 내부에는 쥐가 득실대고 있습니다.",
+    "ru": "Тюрьма, наводненная крысами, которой владеет организация Serpentis.",
+    "zh": "这个肮脏的监狱隶属于天蛇集团。"
+  },
+  "graphicID": 2520,
+  "groupID": 306,
+  "mass": 100000.0,
   "name": {
     "de": "Serpentis Prison_Mission",
     "en": "Serpentis Prison_Mission",
@@ -10,5 +23,9 @@
     "ru": "Serpentis Prison_Mission",
     "zh": "天蛇监狱_任务"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 416.0,
+  "sofFactionName": "genericprison",
   "volume": 100000000.0
 }

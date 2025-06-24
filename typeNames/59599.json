@@ -1,5 +1,17 @@
 {
-  "typeID": 59599,
+  "description": {
+    "de": "Die folgenden Schiffe sind zur Aktivierung des Beschleunigungstors berechtigt: Corvettes, Tech I-Fregatten, Expeditionsfregatten, Tech I-Zerstörer, Tech I-Kreuzer, Bergbaubarkassen, Tech I-Schlachtkreuzer, Ausgrabungsschiffe und Tech I-Schlachtschiffe. Maximal gleichzeitig erlaubte Kapselpiloten: 7",
+    "en": "Ships allowed to activate the acceleration gate are:\r\ncorvettes, Tech I frigates, expedition frigates, Tech I destroyers, Tech I cruisers, mining barges, Tech I battlecruisers, exhumers, and Tech I battleships.\r\n\r\nMaximum simultaneous capsuleers: 7",
+    "es": "Las naves que pueden activar el portal de aceleración son:\n\ncorbetas, fragatas T1, fragatas expedicionarias, destructores T1, cruceros T1, gabarras mineras, cruceros de combate T1, exhumadores y acorazados T1.\n\n\n\nMáximo de capsulistas simultáneos: 7",
+    "fr": "Les vaisseaux autorisés à activer le portail d’accélération sont les suivants : corvettes, frégates Tech I, frégates d'expédition, destroyers Tech I, croiseurs Tech I, barges d'extraction minière, croiseurs cuirassés de Tech I, Exhumer et cuirassés de Tech I. Maximum de capsuliers à la fois : 7",
+    "ja": "Ships allowed to activate the acceleration gate are:\n\ncorvettes, Tech I frigates, expedition frigates, Tech I destroyers, Tech I cruisers, mining barges, Tech I battlecruisers, exhumers, and Tech I battleships.\n\n\n\nMaximum simultaneous capsuleers: 7",
+    "ko": "액셀레이션 게이트를 활성화할 수 있는 함급은 다음과 같습니다:<br><br>코르벳, 테크 I 프리깃, 탐사 프리깃, 테크 I 디스트로이어, 테크 I 크루저, 채광선, 테크 I 배틀크루저, 익스허머, 테크 I 배틀쉽<br><br>동시에 사용 가능한 인원: 7명",
+    "ru": "Суда, которым разрешено активировать разгонные ворота: корветы, фрегаты 1-го техноуровня, разведочно-буровые фрегаты, эсминцы 1-го техноуровня, крейсеры 1-го техноуровня, буровые баржи, линейные крейсеры 1-го техноуровня, вскрышно-буровые корабли и линкоры 1-го техноуровня. Максимум капсулёров за проход: 7",
+    "zh": "允许通过加速轨道的舰船包括：\n\n轻型护卫舰，T1护卫舰，勘探护卫舰，T1驱逐舰，T1巡洋舰，采矿驳船，T1战列巡洋舰，采掘者，T1战列舰。\n\n\n\n同时容纳克隆飞行员最大数量：7"
+  },
+  "graphicID": 1211,
+  "groupID": 310,
+  "mass": 1.0,
   "name": {
     "de": "Critical Mining Expedition Beacon",
     "en": "Critical Mining Expedition Beacon",
@@ -10,5 +22,8 @@
     "ru": "Critical Mining Expedition Beacon",
     "zh": "危险采矿远征信标"
   },
+  "portionSize": 1,
+  "published": false,
+  "sofFactionName": "genericbase",
   "volume": 1.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 21610,
+  "basePrice": 20000000.0,
+  "description": {
+    "de": "Skill zur Regulierung des Energieflusses zum Sprungantrieb. 10% Reduktion des Isotopenverbrauchs pro Lichtjahr bei der Bedienung von Sprungantrieben je Skillstufe.",
+    "en": "Skill at regulating energy flow to the jump drive. 10% reduction in isotope consumption amount for jump drive operation per light year per skill level.",
+    "es": "Habilidad para regular el flujo de energía al motor de salto. 10 % de reducción de la cantidad de isótopos consumidos para el funcionamiento del motor de salto por año luz por nivel de habilidad.",
+    "fr": "Compétence de régulation du flux d'énergie vers le propulseur interstellaire. Réduction de 10 % par niveau de compétence et par année-lumière de la consommation en isotope pour la gestion du moteur interstellaire.",
+    "ja": "ジャンプドライブへの動力供給を調整するスキル。ジャンプドライブの同位体消費量が、スキルレベル上昇ごとに、1光年のジャンプあたり10%減少する。",
+    "ko": "점프 드라이브 시의 에너지 흐름을 제어하기 위한 스킬입니다. 매 레벨마다 점프 드라이브 활성화 시 동위원소 소모량 10% 감소",
+    "ru": "Навык управления потоком энергии к гипердвигателю корабля. За каждую степень освоения навыка: на 10% снижается расход изотопов при гиперпереходах с помощью гипердвигателя (на 10% за каждую степень освоения навыка); единицей измерения дальности гиперпереходов является световой год.",
+    "zh": "精通跳跃引擎能源管理的技能。每升一级，每光年的跳跃操作所消耗的同位素减少10%。"
+  },
+  "groupID": 275,
+  "iconID": 33,
+  "marketGroupID": 374,
   "name": {
     "de": "Jump Fuel Conservation",
     "en": "Jump Fuel Conservation",
@@ -10,5 +23,8 @@
     "ru": "Топливоснабжение гипердвигателей",
     "zh": "跳跃引擎燃料节约技术"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

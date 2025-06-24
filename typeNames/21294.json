@@ -1,5 +1,20 @@
 {
-  "typeID": 21294,
+  "description": {
+    "de": "Moduliert den Strahl einer Laserwaffe in den Bereich des sichtbaren Lichtspektrums.\n\nDie empfindlichen Kristallin-Strukturen, die zur Herstellung dieses fortschrittlichen Kristalls verwendet werden, zerfallen mit der Zeit durch den Gebrauch, was dazu führt, dass der Kristall schließlich zerbricht.\n\n45 % niedrigerer Energiespeicherverbrauch.",
+    "en": "Modulates the beam of a laser weapon into the visible light spectrum.\r\n\r\nThe delicate crystalline structures used in the manufacture of this advanced crystal degrade with use, eventually causing it to shatter.\r\n\r\n45% reduced capacitor need.",
+    "es": "Modula el rayo de un arma láser en el espectro de luz visible.\n\nLas delicadas estructuras cristalinas utilizadas en la fabricación de este avanzado cristal se degradan con el uso hasta acabar quebrándose.\n\nNecesidad del condensador reducida un 45 %.",
+    "fr": "Module le rayon d'une arme laser dans le spectre de lumière visible.\n\nLes délicates structures cristallines utilisées dans la production de ce cristal avancé se dégradent à cause de l'usure, avant de finir par voler en éclats.\n\nRéduit de 45 % les besoins énergétiques du capaciteur.",
+    "ja": "レーザー兵器のビームを可視光波長に変調。\n\n\nこの高性能クリスタルは、構成部品である結晶の構造がもろいため、使用するうちに徐々に劣化し、最後には砕けてしまう。\n\n\n\nキャパシタ使用量が45%低減。",
+    "ko": "레이저 무기에서 방출되는 빔을 가시광선으로 변조합니다. <br><br>최첨단 크리스탈 생산에 사용되는 분자구조는 정교하지만 부서지기 쉬워 반복 사용 시 붕괴합니다. <br><br>캐패시터 사용량 45% 감소",
+    "ru": "Перенастраивает лазер на работу в спектре видимого излучения. Хрупкие кристаллические структуры, используемые при производстве данного усовершенствованного кристалла, со временем приходят в негодность, что в конечном итоге приводит к его разрушению.\n\nСнижает потребление энергии конденсатора на 45%.",
+    "zh": "将激光武器的光束调节到可见光波段。这种高级晶体中所用到的结晶结构会在使用的过程中降解，最终会导致晶体碎裂。电容需求降低45%。"
+  },
+  "graphicID": 1142,
+  "groupID": 86,
+  "iconID": 1142,
+  "marketGroupID": 995,
+  "mass": 1.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Dark Blood Standard L",
     "en": "Dark Blood Standard L",
@@ -10,5 +25,8 @@
     "ru": "Dark Blood Standard L",
     "zh": "黑暗血袭者标准晶体 L"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 258,
   "volume": 1.0
 }

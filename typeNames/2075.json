@@ -1,5 +1,17 @@
 {
-  "typeID": 2075,
+  "description": {
+    "de": "Dieser Schlüssel eines Kommandeurs beinhaltet die erforderlichen Daten, die dazu benötigt werden, um das Beschleunigungstor an dem Kontrollpunkt zu entriegeln, an dem der Schlüssel gefunden wurde.",
+    "en": "This Commander key has the information needed to unlock the acceleration gate in the Checkpoint which it was found.",
+    "es": "Esta llave de comandante tiene la información necesaria para desbloquear el portal de aceleración del punto de control donde se encontró.",
+    "fr": "Cette clé contient les informations nécessaires pour débloquer le portail d'accélération du point de contrôle où elle a été trouvée.",
+    "ja": "見つけたチェックポイントのアクセラレーションゲートのロック解除に必要な情報が格納されているコマンダーキー。",
+    "ko": "해당 출입키가 발견되었던 체크포인트의 액셀레이션 게이트를 활성화할 수 있습니다.",
+    "ru": "На этом командирском ключе записана информация, необходимая для отпирания врат ускорения на соответствующем контрольно-пропускном пункте.",
+    "zh": "该指挥官钥匙在一个加速轨道附近被发现，其中含有开启该轨道所需要的信息。"
+  },
+  "groupID": 314,
+  "iconID": 2038,
+  "mass": 0.01,
   "name": {
     "de": "Consolidated Holdings Commander Access Key",
     "en": "Consolidated Holdings Commander Access Key",
@@ -10,5 +22,7 @@
     "ru": "Consolidated Holdings Commander Access Key",
     "zh": "统一控股集团指挥官准入钥匙"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

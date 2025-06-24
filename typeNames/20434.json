@@ -1,5 +1,17 @@
 {
-  "typeID": 20434,
+  "description": {
+    "de": "Diese alten Datenspeicher sind zwar schwer beschädigt, aber es könnte durchaus möglich sein, wertvolle Daten aus ihnen zu gewinnen.",
+    "en": "These ancient data storage devices are severly damaged but it might still possible to extract some valable data from them.",
+    "es": "Estos dispositivos de almacenamiento de datos antiguos están muy dañados, pero puede que aún sea posible extraer datos válidos.",
+    "fr": "Ces anciens dispositifs de stockage des données sont très sérieusement endommagés, mais il est peut-être possible d'en extraire quelques précieux renseignements.",
+    "ja": "古い時代のデータ保管装置。かなり損傷しているが、もしかしたら有益なデータを読み出せるかもしれない。",
+    "ko": "데이터 저장고는 크게 손상되었지만 데이터를 추출할 수 있는 가능성은 아직 존재합니다.",
+    "ru": "Эти древние устройства хранения данных серьезно повреждены, но все же можно попытаться извлечь какие-нибудь ценные данные из них.",
+    "zh": "这些古老的数据储存设备已被严重损坏，但仍然有可能从中提取一些有用的数据。"
+  },
+  "graphicID": 1696,
+  "groupID": 526,
+  "mass": 1e+35,
   "name": {
     "de": "Terran Broken Datachips - Weaponry",
     "en": "Terran Broken Datachips - Weaponry",
@@ -10,5 +22,8 @@
     "ru": "Terran Broken Datachips - Weaponry",
     "zh": "损坏的地球数据芯片—武器"
   },
+  "portionSize": 250,
+  "published": true,
+  "sofFactionName": "debris",
   "volume": 40.0
 }

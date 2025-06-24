@@ -1,5 +1,18 @@
 {
-  "typeID": 2560,
+  "basePrice": 250000.0,
+  "capacity": 12000.0,
+  "description": {
+    "de": "\"Letzten Endes dreht sich alles um Metall.\" Die Designer dieser Lagereinrichtung hielten sich streng an diesen Leitspruch. Die Außenwände  eines jeden Containers bestehen aus beinahe einem Meter Titaniumlegierung, die einen flexiblen, leichten Tritaniumrahmen umhüllt. Das Ganze ist mit einigen Lagen aktiver Nanobots versiegelt, um Mikrofrakturen und Thermalwölbung zu verhindern. Diese Kombination ermöglicht es dem Gebäude, fast jeglichen umgebungsbedingten Herausforderungen zu trotzen. Um die Tritaniumverstärkungen vor dem Verfall zu bewahren, herrscht im Inneren ein konstantes Vakuum und Arbeiter müssen vollständig versiegelte Weltraumanzüge tragen.",
+    "en": "\"At some point, it all comes down to more metal.\" The designers of this storage site believed this adage above all else. The outer walls of each container are comprised of almost a meter of titanium alloy around a flexible, lightweight tritanium frame, all sealed with a few layers of active nanite coating to prevent microfractures and thermal warping. This combination allows the building to withstand nearly any environmental challenge. To prevent the tritanium supports from decaying, the interior is kept in a constant vacuum, and workers must wear fully sealed atmosphere suits at all times.",
+    "es": "«En algún momento, todo se reduce a más metal». Los diseñadores de este almacén aplicaron este proverbio al pie de la letra. Los muros exteriores de cada contenedor están hechos de casi un metro de aleación de titanio alrededor de un armazón flexible y ligero de tritanio, todo ello sellado con unas cuantas capas de recubrimiento de nanobots activos para evitar las microfracturas y la deformación térmica. Gracias a esta combinación, el edificio puede resistir casi cualquier embate medioambiental. Para impedir que los soportes de tritanio se deterioren, el interior se mantiene en un vacío constante y los trabajadores siempre deben llevar trajes herméticos.",
+    "fr": "« De toute façon, ce n'est que du métal. » Les concepteurs de ce site de stockage croient dur comme fer à cet adage. Les murs extérieurs de chaque conteneur sont composés de près d'un mètre d'alliage de titane, lui-même encadré par une structure de tritanium léger et flexible, le tout scellé sous plusieurs couches de revêtement en nanite pour empêcher les microfractures et le warp thermique. Cette combinaison permet au bâtiment de résister à presque toutes les conditions extérieures. Afin d'empêcher les renforcements en tritanium de se décomposer, l'intérieur est maintenu dans un vide constant, et les ouvriers doivent porter des tenues hermétiques en toutes circonstances.",
+    "ja": "「金属の量で全てが決まる場合がある」このストレージサイトの設計者はこの格言を何よりも信じている。コンテナの外壁は、柔軟かつ軽量のトリタニウムフレームの周りを約 1 メートルのチタン合金が囲んでいる。また、全面が数層のアクティブなナノマシンコーティングで覆われているため、微少破壊や熱によるゆがみを回避できる。このため、ほぼ全ての環境上の課題に耐える施設になっている。トリタニウム製の支柱が腐食しないように、室内は恒常的に真空環境にあるため、労働者は常に完全密封の耐環境スーツを装着する必要がある。",
+    "ko": "결국은 더 많은 금속으로 귀결됩니다. 해당 저장고의 디자이너는 그 무엇보다 이 말을 맹신하였습니다. 각 컨테이너 외벽은 1미터에 가까운 티타늄 합금이 유연하고 가벼운 트리타늄 프레임 주변을 둘러싸고 있는 형태입니다. 그 위로 나나이트가 여러겹 코팅되어 미세균열과 발열로 인한 비틀림을 방지합니다. 이러한 조합은 거의 모든 환경적 문제로부터 건축물이 견딜 수 있도록 합니다. 트리타늄 버팀대가 부식되지 않도록 내부가 진공상태로 유지되기 때문에 저장고의 근무자는 항시 우주복을 착용해야 합니다.",
+    "ru": "«Рано или поздно все сводится ко все большему количеству металла.» Похоже, что конструкторы этого типа складов руководствовались именно этим принципом. Наружные стены каждого помещения изготовлены из титанового сплава почти в метр толщиной, а их основу составляет гибкая легкая тритановая сетка, причем все это герметизировано несколькими слоями активного нанитового покрытия для защиты от микротрещин и деформации поверхности под воздействием экстремальных температур. Такое сочетание позволяет выдерживать практически любые воздействия внешней среды. Для того, чтобы снизить скорость разрушения тритановых опор, во внутренних помещениях постоянно поддерживается вакуум, а рабочим склада приходится постоянно работать в скафандрах.",
+    "zh": "“归根到底，这些最终都会变成对金属的更多需求。”这种储藏设施的设计者认为这句箴言是至高无上的。每个储藏舱的外壁都采用了近乎一米厚的钛合金，包裹着内层柔韧轻质的三钛框架，然后再用几层主动式纳米机器人进行包覆，以防止微小裂损和热胀缩对结构的破坏。这种组合可以让建筑物承受几乎所有的环境挑战。为了防止三钛支撑结构的老化，内部被抽成真空，工人需要全时段穿着大气服来进行工作。"
+  },
+  "graphicID": 4572,
+  "groupID": 1029,
   "name": {
     "de": "Plasma Storage Facility",
     "en": "Plasma Storage Facility",
@@ -10,5 +23,6 @@
     "ru": "Plasma Storage Facility",
     "zh": "等离子行星储藏设施"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": true
 }

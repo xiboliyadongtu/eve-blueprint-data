@@ -1,5 +1,17 @@
 {
-  "typeID": 20394,
+  "description": {
+    "de": "Eine Rettungskapsel, in der sich ein Agent befindet.",
+    "en": "An agent in a pod.",
+    "es": "Un agente en una cápsula.",
+    "fr": "Agent placé dans une capsule.",
+    "ja": "エージェントを乗せたポッド。",
+    "ko": "에이전트가 탑승한 포드입니다.",
+    "ru": "Агент в капсуле.",
+    "zh": "一个在太空舱里的代理人。"
+  },
+  "graphicID": 73,
+  "groupID": 517,
+  "iconID": 73,
   "name": {
     "de": "Cosmos Capsule",
     "en": "Cosmos Capsule",
@@ -10,5 +22,8 @@
     "ru": "Cosmos Capsule",
     "zh": "深空 太空舱"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 2.0,
+  "sofFactionName": "jovebase"
 }

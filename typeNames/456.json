@@ -1,5 +1,21 @@
 {
-  "typeID": 456,
+  "capacity": 1.0,
+  "description": {
+    "de": "Ein gebündelter Hochenergielaser, der für Kämpfe auf kurze und mittlere Entfernung ausgelegt ist. \n\nMuss mit einem der folgenden Frequenzkristalle geladen werden: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",
+    "en": "A high-energy, concentrated laser designed for short to medium range engagements. \r\n\r\nRequires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",
+    "es": "Un láser concentrado de alta energía ideado para enfrentamientos a corta y media distancia.\n\nRequiere tipos de munición de cristales de frecuencia: gamma, infrarrojos, microondas, multifrecuencia, radio, estándar, ultravioleta, rayos X.",
+    "fr": "Un laser concentré à haute énergie conçu pour les combats à courte et moyenne portée. \n\nRequiert les cristaux de fréquence suivants en guise de munitions : gamma, infrarouge, micro-onde, multifréquence, radio, standard, ultraviolet, rayon X.",
+    "ja": "ハイエネルギーコンセントレーティッドレーザー。近距離から中距離が得意な兵器。\r\n\n装填可能なフリーケンシークリスタルのタイプ : ガンマ、赤外線、マイクロ波、多周波、放射線、標準、紫外線、エックス線。",
+    "ko": "중단거리 교전에 최적화된 고출력 에너지 집속 레이저입니다. <br><br>사용 가능한 프리퀀시 크리스탈: 감마선, 적외선, 마이크로파, 멀티프리퀀시, 라디오파, 스탠다드, 자외선, 엑스선.",
+    "ru": "Сверхмощный сфокусированный лазер, разработанный для ведения огня на ближних и средних дистанциях.\n\nСледует заряжать частотными кристаллами: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",
+    "zh": "一种高能聚焦激光器，专为中短程交战而设计。\r\n\r\n使用的频率晶体弹药类型：伽玛、红外线、微波、多频、射频、标准、紫外线和X射线。"
+  },
+  "graphicID": 11115,
+  "groupID": 53,
+  "iconID": 356,
+  "marketGroupID": 572,
+  "mass": 1000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Focused Medium Pulse Laser I",
     "en": "Focused Medium Pulse Laser I",
@@ -10,5 +26,8 @@
     "ru": "Focused Medium Pulse Laser I",
     "zh": "聚焦中型脉冲激光器 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "amarrbase",
   "volume": 10.0
 }

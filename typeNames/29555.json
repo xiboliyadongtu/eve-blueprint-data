@@ -1,5 +1,16 @@
 {
-  "typeID": 29555,
+  "description": {
+    "de": "Ein Aufzug.",
+    "en": "An elevator.",
+    "es": "Un ascensor.",
+    "fr": "Un ascenseur.",
+    "ja": "エレベーター。",
+    "ko": "엘리베이터입니다.",
+    "ru": "Лифт.",
+    "zh": "一部升降机。"
+  },
+  "graphicID": 2432,
+  "groupID": 226,
   "name": {
     "de": "Fortified Angel Elevator",
     "en": "Fortified Angel Elevator",
@@ -10,5 +21,9 @@
     "ru": "Fortified Angel Elevator",
     "zh": "强化的天使集团升降机"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 844.0,
+  "sofFactionName": "angelbase"
 }

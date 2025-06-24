@@ -1,5 +1,18 @@
 {
-  "typeID": 3551,
+  "basePrice": 55000.0,
+  "description": {
+    "de": "Fertigkeit zur Bedienung von Schiffs-, Fracht- und Überwachungs-Scannern.\r\n\r\n5% Bonus auf die Scannergeschwindigkeiten dieser Modultypen je Skillstufe.",
+    "en": "Skill at operating ship, cargo and survey scanners. 5% improvement per level in the scan speeds of those module types.",
+    "es": "Habilidad en el manejo de escáneres de prospección, naves y cargamento. 5 % de mejora por nivel en las velocidades de escaneo de esos tipos de módulos.",
+    "fr": "Compétence liée à l'utilisation des scanners de vaisseau, de soute et d'inspection. Augmente de 5 % par niveau la vitesse de balayage de ces types de modules.",
+    "ja": "シップスキャナー、カーゴスキャナー、サーベイスキャナーを操作するためのスキル。レベル上昇ごとにスキャン速度が5%向上する。",
+    "ko": "함선, 화물, 조사 스캐너 운용을 위한 스킬입니다. 매 레벨마다 상기 종류의 모듈 스캔 속도 5% 증가",
+    "ru": "Навык использования комплексов досмотра груза, комплексов досмотра оснастки и комплексов оценки залежей. За каждую степень освоения навыка: на 5% ускоряется получение данных модулями указанных категорий.",
+    "zh": "操作船体扫描器、货柜扫描器和测量扫描器的技能。每升一级，该类装备的扫描速度各提升5%。"
+  },
+  "groupID": 1217,
+  "iconID": 33,
+  "marketGroupID": 1110,
   "name": {
     "de": "Survey",
     "en": "Survey",
@@ -10,5 +23,7 @@
     "ru": "Анализ данных",
     "zh": "测量学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

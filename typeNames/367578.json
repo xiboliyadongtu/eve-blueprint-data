@@ -1,5 +1,17 @@
 {
-  "typeID": 367578,
+  "basePrice": 1.0,
+  "description": {
+    "de": "Dieser Agent stellt einen großen Nutzen für Söldner dar, da er direkt mit dem Marktplatz von New Eden in Verbindung steht und sofort die optimalen Handelspreise ermittelt.",
+    "en": "This agent provides a valuable service to Mercenaries by interfacing directly with the New Eden Market, instantly locating the best trading prices.",
+    "es": "Este agente ofrece un valioso servicio a los mercenarios al contactar directamente con el mercado de New Eden y localizar inmediatamente los mejores precios.",
+    "fr": "Cet agent propose un service de valeur aux mercenaires en se connectant directement au marché de New Eden afin de localiser les meilleurs prix de vente.",
+    "it": "Questo agente fornisce un prezioso servizio ai mercenari interfacciandosi direttamente con il mercato di New Eden, localizzando istantaneamente i prezzi migliori.",
+    "ja": "このエージェントは、直接ニューエデンマーケットに接続し、即座に最高の取引価格を調べる、貴重なサービスを傭兵に提供します。",
+    "ko": "뉴에덴 거래소와 연결된 에이전트로 용병들에게 최저가 아이템 정보를 제공합니다.",
+    "ru": "Данный агент предоставляет ценную услугу наемникам, непосредственно взаимодействуя с рынком Нового Эдема и мгновенно обнаруживая наилучшие цены на товары.",
+    "zh": "代理人会直接对接新伊甸市场，为雇佣兵提供高价值服务，即刻找到最佳交易价格。"
+  },
+  "groupID": 367580,
   "name": {
     "de": "Jara Kumora - Vertrag",
     "en": "Jara Kumora - Contract",
@@ -11,5 +23,7 @@
     "ru": "Jara Kumora - Контракт",
     "zh": "瑕哈·库莫哈 - 合同"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4
 }

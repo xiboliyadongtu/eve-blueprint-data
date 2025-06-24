@@ -1,5 +1,17 @@
 {
-  "typeID": 354131,
+  "basePrice": 48560.0,
+  "description": {
+    "de": "Dieses Modul bewirkt im aktivierten Zustand eine sofortige Verstärkung der Fahrzeugschilde.",
+    "en": "Once activated this module provides an instant boost to the vehicle’s shields.",
+    "es": "Una vez activado, este módulo potencia rápidamente los escudos del vehículo.",
+    "fr": "Une fois activé, ce module renforce les boucliers du véhicule.",
+    "it": "Una volta attivato, questo modulo fornisce un potenziamento istantaneo agli scudi del veicolo.",
+    "ja": "一度起動すると、このモジュールは車両のシールドを即座に一定量回復する。",
+    "ko": "모듈 활성화 시 차량의 실드를 일시적으로 증진합니다.",
+    "ru": "При активации данный модуль мгновенно увеличивает мощность щитов транспортного средства.",
+    "zh": "启用后，该装备会立即为载具回充护盾能量。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Leichter C3-L Schildbooster",
     "en": "Light C3-L Shield Booster",
@@ -11,5 +23,7 @@
     "ru": "Легкий модуль накачки щита C3-L",
     "zh": "C3-L轻型护盾回充增量器"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

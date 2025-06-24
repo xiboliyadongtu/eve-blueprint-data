@@ -1,5 +1,18 @@
 {
-  "typeID": 30512,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese geheimnisvolle Struktur ist ganz klar auf die Anwendung im Verbund mit den automatisierten Verteidigungsdrohnen der Sleeper geeicht und fungiert als eine der Haupt-Andockstationen. Die Verteidigungseinrichtung hat über die Jahrtausende gelitten und besteht inzwischen nur noch aus einer dünnen Außenhülle, die lediglich symbolischen Schutz gegen Angriffe bieten kann.",
+    "en": "Clearly built to serve the needs of the Sleeper's automated defense drones, this ominous structure functions as one of their central docking points. The hangar's defensive capabilities have degraded over the millennia, leaving a thin outer shell that offers only token resistance to attack.",
+    "es": "Construida claramente para responder a las necesidades de los drones de defensa automatizados de los Sleepers, esta ominosa estructura actúa como uno de sus puntos centrales de acoplamiento. Las capacidades defensivas del hangar se han desgastado con el paso de los milenios, dejando una delgada coraza exterior que solo ofrece una resistencia simbólica a los ataques.",
+    "fr": "Clairement conçue pour répondre aux besoins des drones de défense automatisés de Sleeper, cette sinistre structure leur sert de point d'amarrage central. Les capacités défensives du hangar se sont dégradées au fil des millénaires, si bien que sa fine coque extérieure n'offre plus qu'une résistance purement symbolique aux diverses attaques.",
+    "ja": "自動制御されたスリーパーディフェンスドローンの需要を満たすためにこの構造物が建設されたことは明白であり、主に彼らが使用する入港場所となっている。ハンガーの防衛能力は1000年の時を経て劣化し、攻撃に対して形ばかりの抵抗の役目しか果たさない薄い外殻を残すのみとなった。",
+    "ko": "슬리퍼 자동 방어 드론의 주요 도킹 지점입니다. 격납고의 방어 시스템은 지난 천년 동안 상당히 성능이 저하되었고 현재 얇은 외벽만이 제 기능을 하고 있는 상태입니다.",
+    "ru": "Это сооружение зловещего вида явно построено в целях обслуживания дронов Sleeper. За прошедшие тысячелетия некогда неуязвимый ангар сильно сдал; его броня истончилась, так что в случае атаки от нее будет не слишком много пользы.",
+    "zh": "这个诡异的建筑很明显是用做冬眠者自动化无人机防御系统的一个部分，它是其中的一个中心机库。机库的防御系统已经在过去的千年中慢慢老化，所剩下的外层防御也不堪一击。"
+  },
+  "graphicID": 3585,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Weakened Sleeper Drone Hangar",
     "en": "Weakened Sleeper Drone Hangar",
@@ -10,5 +23,9 @@
     "ru": "Weakened Sleeper Drone Hangar",
     "zh": "破损的冬眠者无人机挂舱"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 3394.0,
+  "sofFactionName": "sleeperbase",
   "volume": 100000000.0
 }

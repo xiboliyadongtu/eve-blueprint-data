@@ -1,5 +1,21 @@
 {
-  "typeID": 2203,
+  "basePrice": 2000.0,
+  "description": {
+    "de": "Leichte Aufklärungsdrohne",
+    "en": "Light Scout Drone",
+    "es": "Dron de reconocimiento ligero",
+    "fr": "Drone de reconnaissance léger.",
+    "ja": "ライトスカウトドローン",
+    "ko": "라이트 스카우트 드론",
+    "ru": "Легкий разведывательный дрон",
+    "zh": "轻型侦查无人机"
+  },
+  "graphicID": 1084,
+  "groupID": 100,
+  "iconID": 1084,
+  "marketGroupID": 837,
+  "mass": 3000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Acolyte I",
     "en": "Acolyte I",
@@ -10,5 +26,10 @@
     "ru": "Acolyte I",
     "zh": "侍僧 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 15.0,
+  "sofFactionName": "amarrbase",
   "volume": 5.0
 }

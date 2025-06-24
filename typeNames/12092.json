@@ -1,5 +1,18 @@
 {
-  "typeID": 12092,
+  "basePrice": 2500000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Abfangjägern.",
+    "en": "Skill for operation of Interceptors.",
+    "es": "Habilidad en el manejo de interceptores.",
+    "fr": "Compétence liée au pilotage des vaisseaux Intercepteurs.",
+    "ja": "要撃型フリゲートを操作するスキル。",
+    "ko": "인터셉터 운용을 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на перехватчиках.",
+    "zh": "操作截击舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Interceptors",
     "en": "Interceptors",
@@ -10,5 +23,7 @@
     "ru": "Перехватчики",
     "zh": "截击舰操作"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

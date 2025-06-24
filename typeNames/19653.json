@@ -1,5 +1,18 @@
 {
-  "typeID": 19653,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieser Industrial der Iteron V-Klasse ist vom Vorbesitzer der Station zurück gelassen worden, bevor die Raubdrohnen den Komplex übernommen haben.",
+    "en": "This Iteron V-class industrial has been left here by the former owner of the station, before the rogue drones took over the complex.",
+    "es": "El antiguo propietario de la estación abandonó esta nave industrial de clase Iteron V antes de que los drones rebeldes se apoderaran del complejo.",
+    "fr": "Ce vaisseau industriel de classe Iteron V a été laissé ici par l'ancien propriétaire de la station, avant que les drones renégats ne s'emparent du complexe.",
+    "ja": "この複合施設がローグドローンに乗っ取られる前に、ステーションの所有者はイタロンV級輸送艦を置いて逃げ去った。",
+    "ko": "로그 드론이 점령한 정거장에 버려진 이테론 V급 인더스트리얼입니다.",
+    "ru": "Промышленный корабль класса Iteron-V был оставлен там бывшим владельцем станции перед тем, как дроны захватили комплекс.",
+    "zh": "这艘伊特龙舰原属此处空间站的主人，但不知为何被遗弃在了这里。之后复合体就被大批自由无人机所占据。"
+  },
+  "graphicID": 328,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Industrial Derelict",
     "en": "Industrial Derelict",
@@ -10,5 +23,11 @@
     "ru": "Industrial Derelict",
     "zh": "工业废弃物"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 553.0,
+  "sofFactionName": "gallentebase",
+  "soundID": 31,
   "volume": 100000000.0
 }

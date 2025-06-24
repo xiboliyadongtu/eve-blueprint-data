@@ -1,5 +1,98 @@
 {
-  "typeID": 42685,
+  "basePrice": 7.0,
+  "capacity": 600.0,
+  "description": {
+    "de": "Der SoCT-Zerstörer der Sunesius-Klasse befähigt einen jeden Akolythen die Ermittlungen und Geheimnisse der Gesellschaft zu schützen. \n\n\n\nDa dieses Schiff nur sehr geringe Skillanforderungen besitzt, kann es von jedem Kapselpiloten verwendet werden. Es eignet sich gut genug für Forschungs- und Erkundungszwecke, blüht aber aufgrund seiner schnellen Ausrichtungszeit erst im Kampf richtig auf.\n\n\n\nEs ist ein Schiff, dass seinen Wert beweist, wann immer während des Strebens, das Universum zu verstehen, neben einem scharfen Geist auch eine starke Hand gefordert ist.",
+    "en": "The Sunesis-class SoCT Destroyer allows any acolyte to protect the investigations and secrets of the society. \r\n\r\nSince it has very low skill requirements, any capsuleer can pilot it. It serves well in research and exploration but truly comes into its own in combat, with an extremely fast align time.\r\n\r\nThis is a ship that shows its value when understanding the universe requires a strong hand as well as a sharp mind.",
+    "es": "El destructor del CPC de clase Sunesis permite que cualquier acólito proteja las investigaciones y los secretos del Círculo. \n\n\n\nDado que tiene requisitos de habilidad muy bajos, cualquier capsulista puede pilotarlo. Da la talla en misiones de investigación y exploración, pero realmente destaca en el combate gracias a su tiempo de alineación extremadamente rápido.\n\n\n\nSe trata de una nave que demuestra su valor cuando la comprensión del universo requiere una mano fuerte y una mente aguda.",
+    "fr": "Le destroyer de classe Sunesis conçu par la SoCT offre à tous les acolytes l'opportunité de se consacrer à la protection des secrets et des recherches de la Société. \n\n\n\nEn effet, ses modiques prérequis de compétences placent ce vaisseau polyvalent à la portée de tous les jeunes capsuliers néophytes. S'il se distingue en mission de recherche et d'exploration, le Sunesis ne peut néanmoins compter que sur la fulgurance de son temps d'alignement pour réchapper d'un combat.\n\n\n\nLes qualités intrinsèques de ce vaisseau se dévoileront sous le commandement éclairé de pilotes intrépides, en quête de réponses aux mystères de l'univers.",
+    "ja": "意識思考学会のスネシス級駆逐艦は、学会の調査活動と機密情報を守る万能の助手のような存在だ。この艦が要求する前提スキルは極めて少ないので、どんなカプセラでも操縦することができる。探査任務でも十分に活躍できるが、極めて短い軸合わせ時間を考えると、やはり戦いこそがスネシスの本質だと言えるだろう。宇宙を理解するために鋭い思考力だけでなく腕っぷしが必要になったとき、この艦は真価を発揮するのである。",
+    "ko": "깨어있는 자들의 사회의 연구와 비밀을 지키기 위한 디스트로이어입니다. <br><br>스킬 요구치가 낮아 누구나 조종이 가능합니다. 연구 및 탐사에 적합하지만 정렬 소요 시간이 짧아 전투 상황에서도 유용하게 사용됩니다. <br><br>세계를 이해하는데 지혜뿐만 아니라 강한 힘까지 요구되는 상황에서 특히나 진면목을 드러내는 함선입니다.",
+    "ru": "Эсминец типа «Санезис», разработанный «Обществом осознанно мыслящих», позволяет любому аколиту защищать расследования и секреты «Общества». \n\n\n\nОн практически не требует навыков, и пилотировать его может любой капсулёр. Он хорошо выполняет поисковые и исследовательские задачи, но его истинная суть раскрывается в бою — именно там пилот «санезиса» может добиться от корабля поразительной маневренности.\n\n\n\n«Санезисы» в полной мере соответствуют моментам, когда познание вселенной требует быстрых и точных решений.",
+    "zh": "理性思维社团的旭日级驱逐舰让侍僧得以守护内幕调查的结果。 \n\n\n\n驾驶这艘舰船的技能需求非常低，任何飞行员都可以驾驶它。它在研究和探索领域表现出色。由于转向时间极短，在战斗时常常形单影只。\n\n\n\n驰骋于这宇宙，智慧与力量并重。旭日级深谙此道。"
+  },
+  "factionID": 500017,
+  "graphicID": 1232,
+  "groupID": 420,
+  "marketGroupID": 2350,
+  "mass": 1500000.0,
+  "masteries": {
+    "0": [
+      96,
+      67,
+      164,
+      71,
+      104,
+      75,
+      50,
+      99,
+      139,
+      85,
+      150,
+      89,
+      94
+    ],
+    "1": [
+      96,
+      67,
+      164,
+      71,
+      104,
+      75,
+      50,
+      99,
+      139,
+      85,
+      150,
+      89,
+      94
+    ],
+    "2": [
+      96,
+      67,
+      164,
+      71,
+      104,
+      75,
+      50,
+      99,
+      139,
+      85,
+      150,
+      89,
+      94
+    ],
+    "3": [
+      96,
+      67,
+      164,
+      71,
+      104,
+      75,
+      50,
+      99,
+      139,
+      85,
+      150,
+      89,
+      94
+    ],
+    "4": [
+      96,
+      67,
+      164,
+      71,
+      104,
+      75,
+      50,
+      99,
+      139,
+      85,
+      150,
+      89,
+      94
+    ]
+  },
   "name": {
     "de": "Sunesis",
     "en": "Sunesis",
@@ -9,6 +102,78 @@
     "ko": "수네시스",
     "ru": "Sunesis",
     "zh": "旭日级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 16,
+  "radius": 100.0,
+  "sofFactionName": "soctbase",
+  "soundID": 20083,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 25.0,
+        "bonusText": {
+          "de": "Bonus auf dem Schaden von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a>, <a href=showinfo:3301>kleinen Hybridgeschütztürmen</a> und <a href=showinfo:3302>kleinen Projektilgeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:3303>Small Energy Turret</a>, <a href=showinfo:3301>Small Hybrid Turret</a> and <a href=showinfo:3302>Small Projectile Turret</a> damage",
+          "es": "de bonificación al daño de la <a href=showinfo:3303>torreta de energía pequeña</a>, la <a href=showinfo:3301>torreta híbrida pequeña</a> y la <a href=showinfo:3302>torreta de proyectiles pequeña</a>.",
+          "fr": "de bonus aux dégâts des <a href=showinfo:3303>petites tourelles à énergie</a>, des <a href=showinfo:3301>petites tourelles hybrides</a> et des <a href=showinfo:3302>petites tourelles à projectiles</a>",
+          "ja": "<a href=showinfo:3303>小型エネルギータレット</a>、<a href=showinfo:3301>小型ハイブリッドタレット</a>、<a href=showinfo:3302>小型プロジェクタイルタレット</a>のダメージが増加",
+          "ko": "<a href=showinfo:3303>소형 에너지 터렛</a>, <a href=showinfo:3301>소형 하이브리드 터렛</a>, <a href=showinfo:3302>소형 발사체 터렛</a> 피해량 증가",
+          "ru": "увеличивается урон <a href=showinfo:3303>малых лазерных орудий</a>, <a href=showinfo:3301>малых гибридных орудий</a> и <a href=showinfo:3302>малых баллистических орудий</a>",
+          "zh": "<a href=showinfo:3303>小型能量炮台</a>、<a href=showinfo:3301>小型混合炮台</a>和<a href=showinfo:3302>小型射弹炮台</a>伤害加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 25.0,
+        "bonusText": {
+          "de": "Bonus auf den Schaden von <a href=showinfo:3321>leichten Lenkwaffen</a> und <a href=showinfo:3320>Raketen</a>",
+          "en": "bonus to <a href=showinfo:3321>Light Missile</a> and <a href=showinfo:3320>Rockets</a> damage",
+          "es": "de bonificación al daño de los <a href=showinfo:3321>misiles ligeros</a> y los <a href=showinfo:3320>cohetes</a>.",
+          "fr": "de bonus aux dégâts des <a href=showinfo:3321>missiles légers</a> et des <a href=showinfo:3320>roquettes</a>",
+          "ja": "<a href=showinfo:3321>ライトミサイル</a>と<a href=showinfo:3320>ロケット</a>のダメージが増加",
+          "ko": "<a href=showinfo:3321>라이트 미사일</a> 및 <a href=showinfo:3320>로켓</a> 피해량 증가",
+          "ru": "увеличивается урон БЧ <a href=showinfo:3321>лёгких ракет</a> и <a href=showinfo:3320>лёгких штурмовых ракет</a>",
+          "zh": "<a href=showinfo:3321>轻型导弹</a>和<a href=showinfo:3320>火箭</a>伤害加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 37.5,
+        "bonusText": {
+          "de": "Bonus auf die Stärke von <a href=showinfo:30013>Basis-</a> und <a href=showinfo:30028>Gefechtsscansonden</a>",
+          "en": "bonus to <a href=showinfo:30013>Core</a> and <a href=showinfo:30028>Combat Scanner Probe</a> strength",
+          "es": "de bonificación a la intensidad de la <a href=showinfo:30028>sonda escáner de combate</a> y la <a href=showinfo:30013>de núcleo</a>.",
+          "fr": "de bonus à la puissance du <a href=showinfo:30013>réacteur</a> et des <a href=showinfo:30028>sondes de balayage de combat</a>",
+          "ja": "<a href=showinfo:30013>コアスキャナープローブ</a>と<a href=showinfo:30028>戦闘スキャナープローブ</a>の強度が増加",
+          "ko": "<a href=showinfo:30013>코어 프로브</a> 및 <a href=showinfo:30028>정찰 프로브</a> 스캔 강도 증가",
+          "ru": "повышается чувствительность бортовой аппаратуры <a href=showinfo:30013>зондов навигационной разведки</a> и <a href=showinfo:30028>боевых разведзондов</a>",
+          "zh": "<a href=showinfo:30013>核心</a>和<a href=showinfo:30028>作战扫描探针</a>强度加成"
+        },
+        "importance": 4,
+        "unitID": 105
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Bonus auf die HP und den Schaden von <a href=showinfo:3436>Drohnen</a>",
+          "en": "bonus to <a href=showinfo:3436>Drone</a> hitpoints and damage",
+          "es": "de bonificación a los puntos de vida y el daño de los <a href=showinfo:3436>drones</a>.",
+          "fr": "de bonus aux dégâts et aux points de vie des <a href=showinfo:3436>drones</a>",
+          "ja": "<a href=showinfo:3436>ドローン</a>のヒットポイントとダメージが増加",
+          "ko": "<a href=showinfo:3436>드론</a> 내구도 및 피해량 증가",
+          "ru": "увеличивается поражающее действие бортового оружия <a href=showinfo:3436>дронов</a>; увеличивается запас их прочности",
+          "zh": "<a href=showinfo:3436>无人机</a>HP和伤害加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      }
+    ],
+    "types": {}
   },
   "volume": 55000.0
 }

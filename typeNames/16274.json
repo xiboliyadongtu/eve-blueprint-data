@@ -1,5 +1,18 @@
 {
-  "typeID": 16274,
+  "basePrice": 1000.0,
+  "description": {
+    "de": "Das Helium-3-Isotop ist wegen seiner Verwendung in Fusionsprozessen sehr gefragt. Außerdem wird es zu Kühlungszwecken verwendet. Eines der Materialien, die man benötigt, um Kontrolltürme der Amarr online zu halten.\n\n\n\nKann durch die Aufbereitung von folgendem Eis-Arten erhalten werden:\n\n\n\nSonnensystem-Sicherheitsstatus <color='0xFF33FFFF'>1.0</color> oder darunter:\n\n<a href=showinfo:16262>Clear Icicle</a>\n\n\n\nSonnensystem-Sicherheitsstatus <color='0xFFFF0000'>0.0</color> oder darunter:\n\n<a href=showinfo:17978>Enriched Clear Icicle</a>",
+    "en": "The Helium-3 isotope is extremely sought-after for use in fusion processes, and also has various applications in the fields of cryogenics and machine cooling. One of the materials required to keep Amarr Control Towers online.\r\n\r\nMay be obtained by reprocessing the following ice ores:\r\n\r\n<color='0xFF33FFFF'>1.0</color> security status solar system or lower:\r\n<a href=showinfo:16262>Clear Icicle</a>\r\n\r\n<color='0xFFFF0000'>0.0</color> security status solar system or lower:\r\n<a href=showinfo:17978>Enriched Clear Icicle</a>",
+    "es": "El isótopo helio-3 es extremadamente codiciado por su uso en procesos de fusión, y también tiene diversas aplicaciones en los campos de criogenización y refrigeración de máquinas. Es uno de los materiales necesarios para mantener las torres de control de Amarr en funcionamiento.\n\nPuede obtenerse mediante el reprocesamiento de las siguientes menas de hielo:\n\nSistemas solares con estado de seguridad <color='0xFF33FFFF'>1,0</color> o inferior:\n\n<a href=showinfo:16262>Carámbano blanco</a>\n\nSistemas solares con estado de seguridad <color='0xFFFF0000'>0,0</color> o inferior:\n\n<a href=showinfo:17978>Carámbano blanco enriquecido</a>",
+    "fr": "Outre ses applications bio-industrielles dans les domaines de la cryogénie et du refroidissement des machines, l'isotope d'hélium 3 est très recherché pour ses propriétés de fusion. Matériau requis pour assurer l'activité des tours de contrôle amarr.\n\n\n\nIl peut s'obtenir par retraitement des minerais suivants :\n\n\n\nSystèmes solaires au statut de sécurité de <color='0xFF33FFFF'>1,0</color> ou inférieur :\n\n<a href=showinfo:16262>tesson glacé</a>\n\n\n\nSystèmes solaires au statut de sécurité de <color='0xFFFF0000'>0,0</color> ou inférieur :\n\n<a href=showinfo:17978>tesson glacé enrichi</a>",
+    "ja": "ヘリウム-3 アイソトープは、核融合用として高い需要がある。低温学や機械冷却の分野においても、様々な使い道を持っている。アマーコントロールタワーをオンラインにしておくために必要な物質の一つ。\n\n\n\n以下のアイス鉱石を再処理することによって得ることができる。\n\n\n\nセキュリティステータスが<color='0xFF33FFFF'>1.0</color>以下のソーラーシステム: \n\n<a href=showinfo:16262>クリアアイシクル</a>\n\n\n\nセキュリティステータスが<color='0xFFFF0000'>0.0</color>以下のソーラーシステム: \n\n<a href=showinfo:17978>濃縮クリアアイシクル</a>",
+    "ko": "헬리움-3 동위원소는 핵융합, 동면기술, 극저온 냉각기에 많이 사용되어 수요가 매우 높은 편입니다. 아마르 관제타워를 온라인 상태로 유지하기 위한 재료 중 하나입니다. <br><br>아래의 아이스를 정제하여 획득할 수 있습니다 :<br><br><color='0xFF33FFFF'>1.0</color> 시큐리티 상태 이하 항성계:<br><a href=showinfo:16262>아이시클</a><br><br><color='0xFFFF0000'>0.0</color> 시큐리티 상태 이하 항성계:<br><a href=showinfo:17978>농축 아이시클</a>",
+    "ru": "Гелий-3 — изотоп, использующийся в процессе ядерного синтеза, а также в криогенной физике и в качестве хладагента. Один из материалов, необходимых для работы амаррских башен управления.\n\n\n\nДобывается посредством переработки следующих типов руды:\n\n\n\nСС <color='0xFF33FFFF'>1.0</color> и ниже:\n\n<a href=showinfo:16262>Clear Icicle</a>\n\n\n\nСС <color='0xFFFF0000'>0.0</color> и ниже:\n\n<a href=showinfo:17978>Enriched Clear Icicle</a>",
+    "zh": "氦-3同位素是核聚变过程中非常重要的元素，在低温学和机械制冷领域也有着广泛应用。它是保持艾玛控制塔在线的必要物质之一。\n\n\n\n可以从下列冰矿石中提炼获得：\n\n\n\n安全等级<color='0xFF33FFFF'>1.0</color>及以下星系：\n\n<a href=showinfo:16262>清冰锥</a>\n\n\n\n安全等级<color='0xFFFF0000'>0.0</color>及以下星系：\n\n<a href=showinfo:17978>富清冰</a>"
+  },
+  "groupID": 423,
+  "iconID": 2699,
+  "marketGroupID": 1033,
   "name": {
     "de": "Helium Isotopes",
     "en": "Helium Isotopes",
@@ -10,5 +23,7 @@
     "ru": "Helium Isotopes",
     "zh": "氦同位素"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.03
 }

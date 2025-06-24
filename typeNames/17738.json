@@ -1,5 +1,75 @@
 {
-  "typeID": 17738,
+  "basePrice": 289500000.0,
+  "capacity": 860.0,
+  "description": {
+    "de": "Obwohl ihr zweckmäßiges Design eigentlich nicht darauf schließen lässt, sind dennoch viele davon überzeugt, dass die Machariel auf einem alten Entwurf der Jove beruht, den das Angel Cartel auf einem seiner Forschungsraubzüge in unergründeten Gebieten vor einigen Jahren gefunden hat. Was auch immer der Fall sein mag, dieses Monstrum tauchte plötzlich und ohne große Ankündigung auf und wurde sehr schnell eines der am häufigsten eingesetzten Kriegsschiffe der Arch Angels.",
+    "en": "While its utilitarian look may not give much of an indication, many are convinced that the Machariel is based on an ancient Jovian design uncovered by the Angel Cartel in one of their extensive exploratory raids into uncharted territory some years ago. Whatever the case may be, this behemoth appeared on the scene suddenly and with little fanfare, and has very quickly become one of the Arch Angels' staple war vessels.",
+    "es": "Aunque su aspecto práctico pueda despistar, muchos están convencidos de que la Machariel está inspirada en un antiguo diseño joviano que el Cártel de los Ángeles descubrió en una de sus extensas incursiones en territorio desconocido hace algunos años. Sea como fuere, este mastodonte apareció de forma repentina y discreta para convertirse rápidamente en una de las principales naves de guerra de los Arcángeles.",
+    "fr": "Bien que son apparence d'utilitaire ne donne pas beaucoup d'indications, beaucoup de personnes sont convaincues que le Machariel se base sur un ancien modèle jove découvert par le cartel angel au cours d'un de leurs raids d'exploration à grande échelle, il y a de cela quelques années. Quoi qu'il en soit, ce mastodonte est soudain apparu sur scène et sans faire de bruit, devenant vite un article de première nécessité dans les vaisseaux de guerre arch angel.",
+    "ja": "その実用主義的な外観からは分かりづらいかもしれないが、マッカリエルはエンジェルカルテルが数年前、未踏の領域に侵入し探索を行った際に発見した古代ジョビの設計技術をベースに建造されていると信じる者が多い。事実がどうであれ、この巨大戦艦は何の前触れもなく表舞台にひっそりと姿を現し、急速にアーチエンジェルの主力戦艦としての地位を固めていった。",
+    "ko": "실용주의적인 외면에서 유추하기 힘들지만 마케리엘은 엔젤 카르텔에서 수 년 전 인적 미답 지역의 탐사활동을 진행하던 중 발견한 고대 조브 함선 설계도를 기반으로 제작되었습니다. 처음 이 거대한 함선이 전장에 갑자기 등장했을 때 많은 이들이 경악했었고 그 이후로 마케리엘은 아크 엔젤의 주력 전쟁기계로 애용되고 있습니다.",
+    "ru": "Многие уверены, что, несмотря на сугубо практичный внешний вид, проект линкора типа «Махариэль» создан на основе древних джовианских чертежей, обнаруженных «картелем ангелов» несколько лет назад во время одной из длительных исследовательских экспедиций в глубоком космосе. В любом случае, эти чудища пришли в космос внезапно, без грома фанфар, и очень быстро стали одним из основных военных кораблей в арсенале «ангелов».",
+    "zh": "虽然从实际外观上看不出什么端倪，但人们还是相信“马克瑞”级的设计是基于一份古老的朱庇特设计图，这份设计图是几年前天使企业联合体入侵未知领域时发现的。不管事实究竟如何，这个庞然大物悄然出现在人们的视线中，并很快成为了天使集团最重要的一艘军舰。"
+  },
+  "factionID": 500011,
+  "graphicID": 335,
+  "groupID": 27,
+  "marketGroupID": 1380,
+  "mass": 94680000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      133,
+      73,
+      138,
+      141,
+      85,
+      150
+    ],
+    "1": [
+      96,
+      99,
+      133,
+      73,
+      138,
+      141,
+      85,
+      150
+    ],
+    "2": [
+      96,
+      99,
+      133,
+      73,
+      138,
+      141,
+      85,
+      150
+    ],
+    "3": [
+      96,
+      99,
+      133,
+      73,
+      138,
+      141,
+      85,
+      150
+    ],
+    "4": [
+      96,
+      99,
+      133,
+      73,
+      138,
+      141,
+      85,
+      118,
+      150
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Machariel",
     "en": "Machariel",
@@ -9,6 +79,128 @@
     "ko": "마케리엘",
     "ru": "Machariel",
     "zh": "马克瑞级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 500.0,
+  "sofFactionName": "angelbase",
+  "soundID": 20109,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 5.0,
+        "bonusText": {
+          "de": "zusätzlicher Bonus auf HP der <a href=showinfo:3394>Verstärkten Schottwand</a>",
+          "en": "additional bonus to <a href=showinfo:3394>Reinforced Bulkhead</a> hitpoints",
+          "es": "de bonificación adicional a los puntos de vida del <a href=showinfo:3394>mamparo reforzado</a>.",
+          "fr": "de bonus supplémentaire aux points de vie de la <a href=showinfo:3394>cloison renforcée</a>",
+          "ja": "<a href=showinfo:3394>強化隔壁</a>HPがさらに増加",
+          "ko": "<a href=showinfo:3394>강화 격벽</a> 내구도 증가",
+          "ru": "дополнительный бонус к прочности <a href=showinfo:3394>укреплённой переборки</a>",
+          "zh": "<a href=showinfo:3394>强化舱隔壁</a>结构值加成"
+        },
+        "importance": 5,
+        "unitID": 105
+      },
+      {
+        "bonus": 25.0,
+        "bonusText": {
+          "de": "Bonus auf die Feuerrate von <a href=showinfo:3308>großen Projektilgeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:3308>Large Projectile Turret</a> rate of fire",
+          "es": "de bonificación a la cadencia de tiro de la <a href=showinfo:3308>torreta de proyectiles grande</a>.",
+          "fr": "de bonus à la cadence de tir des <a href=showinfo:3308>grandes tourelles à projectiles</a>",
+          "ja": "<a href=showinfo:3308>大型プロジェクタイルタレット</a>の発射間隔が短縮",
+          "ko": "<a href=showinfo:3308>대형 발사체 터렛</a> 연사속도 증가",
+          "ru": "повышается скорострельность <a href=showinfo:3308>больших баллистических орудий</a>",
+          "zh": "<a href=\"showinfo:3308\">大型射弹炮台</a>射速加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 25.0,
+        "bonusText": {
+          "de": "Bonus auf die Warpgeschwindigkeit und Warpbeschleunigung",
+          "en": "bonus to warp speed and warp acceleration",
+          "es": "de bonificación a la velocidad y la aceleración de warp.",
+          "fr": "bonus à la vitesse et à l'accélération du warp",
+          "ja": "ワープ速度とワープ加速が上昇",
+          "ko": "워프 속도 및 워프 가속도 증가",
+          "ru": "повышается скорость полёта и ускорение корабля (только в варп-режиме)",
+          "zh": "跃迁速度和跃迁加速加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der <a href=showinfo:3394>Panzerplatte</a>",
+          "en": "bonus to <a href=showinfo:3394>Armor Plate</a> hitpoints",
+          "es": "de bonificación a los puntos de vida de las <a href=showinfo:3394>placas de blindaje</a>.",
+          "fr": "de bonus aux points de vie du <a href=showinfo:3394>revêtement de blindage</a>",
+          "ja": "<a href=showinfo:3394>アーマープレート</a>HPが増加",
+          "ko": "<a href=showinfo:3394>장갑 플레이트</a> 내구도 증가",
+          "ru": "бонус к прочности <a href=showinfo:3394>бронеплиты</a>",
+          "zh": "<a href=showinfo:3394>装甲附甲板</a>装甲值加成"
+        },
+        "importance": 4,
+        "unitID": 105
+      },
+      {
+        "bonus": 100.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der <a href=showinfo:3425>Schilderweiterung</a>",
+          "en": "bonus to <a href=showinfo:3425>Shield Extender</a> hitpoints",
+          "es": "de bonificación a los puntos de vida del <a href=showinfo:3425>extensor de escudo</a>.",
+          "fr": "de bonus aux points de vie de l'<a href=showinfo:3425>extenseur de bouclier</a>",
+          "ja": "<a href=showinfo:3425>シールドエクステンダー</a>HPが増加",
+          "ko": "<a href=showinfo:3425>실드 확장장치</a> 실드량 증가",
+          "ru": "бонус к прочности <a href=showinfo:3425>расширителя щитов</a>",
+          "zh": "<a href=showinfo:3425>护盾扩展装置</a>护盾值加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3336": [
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf den Präzisionsabfall von <a href=showinfo:3308>großen Projektilgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3308>Large Projectile Turret</a> falloff",
+            "es": "de bonificación al alcance efectivo de la <a href=showinfo:3308>torreta de proyectiles grande</a>.",
+            "fr": "de bonus de distance de perte des <a href=showinfo:3308>grandes tourelles à projectiles</a>",
+            "ja": "<a href=showinfo:3308>大型プロジェクタイルタレット</a>の精度低下範囲が拡大",
+            "ko": "<a href=showinfo:3308>대형 발사체 터렛</a> 유효사거리 증가",
+            "ru": "увеличивается добавочная дальность ведения огня из <a href=showinfo:3308>больших баллистических орудий</a>",
+            "zh": "<a href=\"showinfo:3308\">大型射弹炮台</a>失准范围加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ],
+      "3337": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3308>großen Projektilgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3308>Large Projectile Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3308>torreta de proyectiles grande</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:3308>grandes tourelles à projectiles</a>",
+            "ja": "<a href=showinfo:3308>大型プロジェクタイルタレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3308>대형 발사체 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон боеприпасов <a href=showinfo:3308>больших баллистических орудий</a>",
+            "zh": "<a href=\"showinfo:3308\">大型射弹炮台</a>伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 470000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 29021,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Diese Kampfstation wird von hochrangigen Offizieren der Guristas verteidigt.",
+    "en": "This battlestation is defended by high ranking Gurista officers.",
+    "es": "Esta estación de combate está defendida por oficiales de alto rango guristas.",
+    "fr": "Cette station de combat est défendue par des officiers guristas de haut rang.",
+    "ja": "ガリスタスの幹部将校によって警護されているバトルステーション。",
+    "ko": "구리스타스 고위 장교들이 전투정거장을 방어하고 있습니다.",
+    "ru": "Этот боевой пост охраняется офицерами высокого ранга Gurista.",
+    "zh": "古斯塔斯的高级军官守卫着这座战斗塔。"
+  },
+  "graphicID": 1019,
+  "groupID": 495,
+  "mass": 1000.0,
   "name": {
     "de": "Guristas Fleet Outpost",
     "en": "Guristas Fleet Outpost",
@@ -10,5 +23,10 @@
     "ru": "Guristas Fleet Outpost",
     "zh": "古斯塔斯舰队哨站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 8960.0,
+  "sofFactionName": "caldaribase",
   "volume": 1000.0
 }

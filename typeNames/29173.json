@@ -1,5 +1,18 @@
 {
-  "typeID": 29173,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese Struktur fungiert als Relaisstation für die Operationen der Gallente Föderation in dieser Struktur; alle Geheiminformationen der Schlachtfelder werden hier empfangen, gesammelt und übermittelt.",
+    "en": "This structure acts as a relay station for the Gallente Federation's operations in this structure, collecting, receiving and transmitting battlefield intelligence.",
+    "es": "Esta estructura actúa como estación de relés para las operaciones de la Federación Gallente, recopila, recibe y transmite datos del campo de batalla.",
+    "fr": "Cette structure fait office de station relais pour les opérations de la Fédération gallente au sein de cette structure, récupérant, recevant et transmettant les renseignements sur le champ de bataille.",
+    "ja": "この建造物内で立てられるガレンテ連邦の作戦におけるリレーステーションとして使われる建造物。戦場の情報を収集、受信、発信する。",
+    "ko": "군사작전에 관한 정보를 수신 및 송신하는 갈란테 연방의 통신중계소입니다.",
+    "ru": "Это сооружение используется федерацией Gallente в качестве ретранслятора: здесь происходит сбор, прием и передача данных с поля боя.",
+    "zh": "这个设施是盖伦特军事行动的信息中继中心，负责收集和传送战场的情报。"
+  },
+  "graphicID": 2373,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Gallente Tactical Relay",
     "en": "Gallente Tactical Relay",
@@ -10,5 +23,10 @@
     "ru": "Gallente Tactical Relay",
     "zh": "盖伦特战术中继站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 500.0,
+  "sofFactionName": "genericmetal",
   "volume": 100000000.0
 }

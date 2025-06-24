@@ -1,5 +1,18 @@
 {
-  "typeID": 20182,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieser große Metallbunker ist komplett mit Raubdrohnen verseucht.",
+    "en": "This large metal bunker is thoroughly infested with rogue drones.",
+    "es": "Este enorme búnker de metal está infestado de drones rebeldes.",
+    "fr": "Ce grand bunker de métal est totalement infesté de drones renégats.",
+    "ja": "巨大な金属製の貯蔵施設。完全にローグドローンの巣と化している。",
+    "ko": "로그 드론에 의해 감염된 거대한 금속 벙커입니다.",
+    "ru": "Большой металлический бункер, кишащий восставшими дронами.",
+    "zh": "这座大型金属碉堡已彻底被自由无人机占据。"
+  },
+  "graphicID": 2583,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Secured Drone Bunker",
     "en": "Secured Drone Bunker",
@@ -10,5 +23,10 @@
     "ru": "Secured Drone Bunker",
     "zh": "被占据的无人机掩体"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 717.0,
+  "sofFactionName": "roguebase",
+  "soundID": 31,
   "volume": 100000000.0
 }

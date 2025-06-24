@@ -1,5 +1,18 @@
 {
-  "typeID": 32446,
+  "capacity": 8000.0,
+  "description": {
+    "de": "Die Hulk ist das größte Bergbauschiff der zweiten Generation, das vom ORE Syndikat entworfen wurde. Exhumer sind, wie ihre kleineren Brüder der Bergbaubarkassen, mit einer Bordelektronik ausgestattet, die speziell auf den Gebrauch von Strip-Minern zugeschnitten ist. Sie sind auch widerstandsfähiger und können besser mit den Gefahren des tiefen Raumes umgehen. Die Hulk ist gewiss das effizienteste Bergbau-Schiff überhaupt.",
+    "en": "The Hulk is the largest craft in the second generation of mining vessels created by the ORE Syndicate. Exhumers, like their mining barge cousins, are equipped with electronic subsystems specifically designed to accommodate Strip Mining modules. They are also far more resilient, better able to handle the dangers of deep space. The Hulk is, bar none, the most efficient mining vessel available.",
+    "es": "La Hulk es la nave minera de segunda generación más grande que ha creado el Sindicato ORE. Los exhumadores, al igual que sus primas, las gabarras mineras, están equipados con subsistemas electrónicos diseñados específicamente para alojar módulos de extracción de mineral. También resultan mucho más resistentes, más capaces de sobrevivir a los peligros del espacio profundo. La Hulk es, sin duda, la nave minera más eficiente que hay.",
+    "fr": "L'Hulk est le plus gros appareil de la deuxième génération de vaisseaux d'extraction développés par le syndicat de l'ORE. Comme les barges d'extraction minière, les Exhumers sont équipés de sous-systèmes électroniques conçus pour gérer les modules d'extraction minière intensive. Ils sont également bien plus résistants et mieux équipés pour affronter les dangers de l'espace profond. L'Hulk est sans nul doute le plus efficace des vaisseaux d'extraction disponibles.",
+    "ja": "OREシンジケートが開発したハルクは、第二世代型採掘艦としては最大の機体を持つ。他の採掘艦と同じように、エクシューマにはストリップマイナーモジュール用の電子サブシステムが装備されている。また、非常に堅牢で、宇宙の深淵での危機対処能力が高い。ハルクは間違いなく最も効率的な採掘艦と言える。",
+    "ko": "헐크는 ORE 신디케이트에서 제작한 2세대 채광선 중에서 가장 큰 덩치를 자랑합니다. 다른 익스허머 계열 채광선들처럼 채굴용 전자 서브시스템이 장착되어 있어 가속 채굴 모듈을 운용할 수 있고 저항력이 뛰어나 심우주의 위협에 더욱 유연하게 대처할 수 있습니다. 헐크는 다른 채광선과 비교도 할 수 없을 정도로 뛰어난 효율성을 지닌 채광선입니다.",
+    "ru": "Корабли типа «Халк» — самые большие из тяжёлых буровых кораблей, разработанных Окраинной рудной экспедицией. Как и буровые корабли первого поколения, ТБК несут на борту электронное оборудование, позволяющее оснащать их буровыми лазерами валовой выемки; при этом благодаря повышенной живучести они в гораздо большей степени приспособлены к работе на окраинах галактики. По показателям эффективности добычи руды «халки» превосходят все прочие буровые корабли.",
+    "zh": "霍克级是外空联合矿业集团制造的第二代采矿舰船中最为巨大的一艘。采掘舰船，相对于它的兄弟采矿驳船来说，装备了专门配合露天采矿设备的电子子系统。同时它们也更加强健，能够在危险的深空区域相对安全地作业。霍克级，毫无疑问的是最优秀的一种采矿舰船。"
+  },
+  "graphicID": 2938,
+  "groupID": 927,
+  "mass": 40000000.0,
   "name": {
     "de": "Hostile Hulk",
     "en": "Hostile Hulk",
@@ -10,5 +23,10 @@
     "ru": "Hostile Hulk",
     "zh": "敌对霍克级"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 330.0,
+  "sofFactionName": "prospecting",
   "volume": 200000.0
 }

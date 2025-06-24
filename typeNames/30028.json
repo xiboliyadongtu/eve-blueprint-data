@@ -1,5 +1,21 @@
 {
-  "typeID": 30028,
+  "basePrice": 23442.0,
+  "description": {
+    "de": "Eine Scansonde zum Scannen von Kosmischen Signaturen, Raumschiffen, Strukturen und Drohnen.\n\n\n\nKann von <a href=showinfo:18639>Erweiterten Sondenwerfern</a> aus gestartet werden.",
+    "en": "A scanner probe used for scanning down Cosmic Signatures, starships, structures and drones.\r\n\r\nCan be launched from <a href=showinfo:18639>Expanded Probe Launchers</a>.",
+    "es": "Sonda escáner usada para escanear señales cósmicas, naves espaciales, estructuras y drones.\n\nSe puede lanzar desde <a href=showinfo:18639>lanzasondas ampliados</a>.",
+    "fr": "Cette sonde de scan permet de trianguler les signatures cosmiques, les vaisseaux spatiaux, les structures et les drones.\n\n\n\nSe lance dans l'espace à partir d'un <a href=showinfo:18639>lanceur de sonde étendu</a>.",
+    "ja": "宙域のシグネチャ、艦船、ストラクチャ、ドローンのスキャンを行う際に使用されるスキャナープローブ。<a href=showinfo:18639>拡張型プローブランチャー</a>から射出可能。",
+    "ko": "코즈믹 시그니처, 함선, 구조물 및 드론을 스캔하여 탐색할 수 있는 스캔 프로브입니다. <br><br><a href=showinfo:18639>확장형 프로브 런처</a>로 사출할 수 있습니다.",
+    "ru": "Разведзонд, применяемый для поиска (и получения точных координат) скрытых сигналов, космических кораблей, стационарных сооружений, дронов.\n\n\n\nЗапуск зондов этого типа производится с помощью <a href=showinfo:18639>полноразмерных пусковых установок разведзондов</a>.",
+    "zh": "这是一个用来扫描空间信号、舰船、建筑与无人机的扫描探针。\n\n\n\n能从<a href=showinfo:18639>延伸探针发射器</a>上发射。"
+  },
+  "graphicID": 3767,
+  "groupID": 479,
+  "iconID": 1722,
+  "marketGroupID": 1199,
+  "mass": 1.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Combat Scanner Probe I",
     "en": "Combat Scanner Probe I",
@@ -10,5 +26,8 @@
     "ru": "Combat Scanner Probe I",
     "zh": "作战扫描探针 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "genericnarcotics",
   "volume": 1.0
 }

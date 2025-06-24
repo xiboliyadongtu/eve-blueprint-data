@@ -1,5 +1,16 @@
 {
-  "typeID": 23776,
+  "description": {
+    "de": "Eine Maller, die von einem Agenten geflogen wird.",
+    "en": "A Maller piloted by an agent.",
+    "es": "Maller pilotada por un agente.",
+    "fr": "Un Maller piloté par un agent.",
+    "ja": "エージェントを乗せたモーラー。",
+    "ko": "에이전트가 조종하는 말러입니다.",
+    "ru": "Корабль класса Maller, управляемый агентом.",
+    "zh": "由代理人驾驶的暴君级飞船。"
+  },
+  "graphicID": 57,
+  "groupID": 517,
   "name": {
     "de": "Cosmos Maller",
     "en": "Cosmos Maller",
@@ -10,5 +21,9 @@
     "ru": "Cosmos Maller",
     "zh": "深空 暴君级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 134.43,
+  "sofFactionName": "amarrbase"
 }

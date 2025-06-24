@@ -1,5 +1,16 @@
 {
-  "typeID": 10305,
+  "description": {
+    "de": "Dieses völlig mitgenommen aussehende Wrack treibt bewegungslos durchs All, umgeben von einem Feld ausgebrannter Trümmer. Nichts gibt hier einen Hinweis darauf, wie es sein Ende fand.",
+    "en": "The mangled wreck floats motionless in space, surrounded by a field of scorched debris, leaving no hint to its form of demise.",
+    "es": "Los restos destrozados flotan en el espacio rodeados de un campo de escombros calcinados que no proporcionan indicio alguno sobre cómo acabaron así.",
+    "fr": "Les débris de l'épave, entourés d'une nuée de débris calcinés, flottent dans l'espace et ne laissent nul doute sur l'état de délabrement avancé du vaisseau.",
+    "ja": "宇宙空間に浮かぶぼろぼろの残骸。辺り一面に焼け焦げた破片が漂い、原形は全く残っていない。",
+    "ko": "어그러진 잔해가 그을린 파편에 둘러싸인 채 고요하게 떠다니고 있습니다. 파괴의 원인은 알 수 없습니다.",
+    "ru": "Изуродованный корпус бездвижно висит в космосе в окружении обугленных обломков, не давая ни намёка на причины своей гибели.",
+    "zh": "这个损毁的船只遗骸静静地漂浮在太空中，被一群烧焦的碎片围绕着，一点也看不出事故发生时它原来的样子。"
+  },
+  "graphicID": 1021,
+  "groupID": 226,
   "name": {
     "de": "Ghost Ship",
     "en": "Ghost Ship",
@@ -10,5 +21,9 @@
     "ru": "Ghost Ship",
     "zh": "幽灵船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 4023.0,
+  "sofFactionName": "debris",
+  "soundID": 20174
 }

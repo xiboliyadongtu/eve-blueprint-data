@@ -1,5 +1,70 @@
 {
-  "typeID": 17932,
+  "basePrice": 3100000.0,
+  "capacity": 130.0,
+  "description": {
+    "de": "Die Dramiel ist das am häufigsten verwendete Schiffsdesign im großen Repertoire an Schiffen des Angel Cartels. Als echtes Arbeitspferd unter den Fregatten, kann diese elegant geschnittene, gefährliche Schönheit auch unerwartet hart zuschlagen, wenn man auf ihre Angriffe nicht vorbereitet ist.",
+    "en": "The Dramiel is the most long-standing and often-used ship design in the Angel Cartel's vast repertoire of vessels. A frigate workhorse if ever there was one, this sharp-tusked, dangerous beauty can sting unimaginably hard if one is not prepared for its assault.",
+    "es": "La Dramiel es el modelo más antiguo y común de entre la amplia gama de naves del Cártel de los Ángeles. Esta fragata, que soporta más que ninguna otra, tiene una belleza basta y peligrosa, y puede arrasar con todo a su paso si te descuidas.",
+    "fr": "Le Dramiel est le vaisseau le plus ancien et le plus utilisé de la flotte du cartel angel. Une bête de somme parmi les frégates, ce vaisseau aux lignes acérées peut faire très mal si l'on n'est pas préparé à son attaque.",
+    "ja": "ドラミエルの設計はエンジェルカルテルのバラエティー豊かな艦船の中で最も長く使用され、また最も良く使われているものである。まさにフリゲート型の馬車馬とも言えるこの艦船はとても鋭い牙を備えており、用心しなければ非常に深い傷を負うことになるだろう。",
+    "ko": "드라미엘은 엔젤 카르텔의 기본형 함선으로 오랜 역사를 자랑하는 기종입니다. 날카로운 송곳니를 지닌 이 위험하고도 아름다운 프리깃은 무방비한 상대에게 치명적인 일격을 가할 수 있습니다.",
+    "ru": "Список кораблей, выпускаемых «картелем ангелов», огромен. Фрегаты типа «Драмиэль» по праву занимают в нём первую строку как по возрасту дизайна, так и по объёмам выпуска серии в свет. Если фрегаты-рабочие лошадки вообще существуют, то «драмиэли» относятся именно к ним. Тем не менее эти острозубые опасные красавцы способны очень больно ужалить тех, кто не готов к их атаке.",
+    "zh": "在天使企业联合体的所有船只中，德拉米尔级护卫舰服役时间最长，使用频率最高。该舰称得上是护卫舰中吃苦耐劳的役马；如果掉以轻心的话，很可能会被这个牙尖齿利的小美人狠狠咬上一口。"
+  },
+  "factionID": 500011,
+  "graphicID": 338,
+  "groupID": 25,
+  "marketGroupID": 1365,
+  "mass": 950000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      150,
+      71,
+      141,
+      85,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      150,
+      71,
+      141,
+      85,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      150,
+      71,
+      141,
+      85,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      150,
+      71,
+      141,
+      85,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      150,
+      71,
+      141,
+      85,
+      118,
+      94
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Dramiel",
     "en": "Dramiel",
@@ -9,6 +74,83 @@
     "ko": "드라미엘",
     "ru": "Dramiel",
     "zh": "德拉米尔级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 25.0,
+  "sofFactionName": "angelbase",
+  "soundID": 20108,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 25.0,
+        "bonusText": {
+          "de": "Bonus auf die Warpgeschwindigkeit und Warpbeschleunigung",
+          "en": "bonus to warp speed and warp acceleration",
+          "es": "de bonificación a la velocidad y la aceleración de warp.",
+          "fr": "bonus à la vitesse et à l'accélération du warp",
+          "ja": "ワープ速度とワープ加速が上昇",
+          "ko": "워프 속도 및 워프 가속도 증가",
+          "ru": "повышается скорость полёта и ускорение корабля (только в варп-режиме)",
+          "zh": "跃迁速度和跃迁加速加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 100.0,
+        "bonusText": {
+          "de": "Bonus auf den Schaden von <a href=showinfo:3302>kleinen Projektilgeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:3302>Small Projectile Turret</a> damage",
+          "es": "de bonificación al daño de la <a href=showinfo:3302>torreta de proyectiles pequeña</a>.",
+          "fr": "de bonus aux dégâts des <a href=showinfo:3302>petites tourelles à projectiles</a>",
+          "ja": "<a href=showinfo:3302>小型プロジェクタイルタレット</a>のダメージが増加",
+          "ko": "<a href=showinfo:3302>소형 발사체 터렛</a> 피해량 증가",
+          "ru": "увеличивается урон боеприпасов <a href=showinfo:3302>малых баллистических орудий</a>",
+          "zh": "<a href=\"showinfo:3302\">小型射弹炮台</a>伤害加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3328": [
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Nachführungsgeschwindigkeit von <a href=showinfo:3302>kleinen Projektilgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3302>Small Projectile Turret</a> tracking speed",
+            "es": "de bonificación a la velocidad de rastreo de la <a href=showinfo:3302>torreta de proyectiles pequeña</a>.",
+            "fr": "de bonus à la vitesse de poursuite des <a href=showinfo:3302>petites tourelles à projectiles</a>",
+            "ja": "<a href=showinfo:3302>小型プロジェクタイルタレット</a>の追跡速度が上昇",
+            "ko": "<a href=showinfo:3302>소형 발사체 터렛</a> 트래킹 속도 증가",
+            "ru": "повышается скорость наводки на цель <a href=showinfo:3302>малых баллистических орудий</a>",
+            "zh": "<a href=\"showinfo:3302\">小型射弹炮台</a>跟踪速度加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ],
+      "3329": [
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf den Präzisionsabfall von <a href=showinfo:3302>kleinen Projektilgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3302>Small Projectile Turret</a> falloff",
+            "es": "de bonificación al alcance efectivo de la <a href=showinfo:3302>torreta de proyectiles pequeña</a>.",
+            "fr": "de bonus de distance de perte des <a href=showinfo:3302>petites tourelles à projectiles</a>",
+            "ja": "<a href=showinfo:3302>小型プロジェクタイルタレット</a>の精度低下範囲が拡大",
+            "ko": "<a href=showinfo:3302>소형 발사체 터렛</a> 유효사거리 증가",
+            "ru": "увеличивается добавочная дальность ведения огня из <a href=showinfo:3302>малых баллистических орудий</a>",
+            "zh": "<a href=\"showinfo:3302\">小型射弹炮台</a>失准范围加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 27289.0
 }

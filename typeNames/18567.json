@@ -1,5 +1,18 @@
 {
-  "typeID": 18567,
+  "capacity": 10000.0,
+  "description": {
+    "de": "In dieser Schiffswerft lassen sich auch größere Konstruktionsarbeiten ausführen.",
+    "en": "Large construction tasks can be undertaken at this shipyard.",
+    "es": "En este astillero pueden llevarse a cabo grandes labores de construcción.",
+    "fr": "Des travaux de construction importants peuvent être entrepris dans ce chantier naval.",
+    "ja": "大型船の建造が可能な造船所。",
+    "ko": "대규모 건설이 이루어지는 쉽야드입니다.",
+    "ru": "Огромные строительные проекты могут реализовываться на этом заводе.",
+    "zh": "这个船坞可以承担大型的建造项目。"
+  },
+  "graphicID": 2625,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Shipyard",
     "en": "Shipyard",
@@ -10,5 +23,11 @@
     "ru": "Shipyard",
     "zh": "船坞"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 1913.0,
+  "sofFactionName": "genericbase",
+  "soundID": 20195,
   "volume": 100000000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 29214,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Ruinen",
+    "en": "Ruins",
+    "es": "Ruinas",
+    "fr": "Ruines.",
+    "ja": "遺跡",
+    "ko": "폐허",
+    "ru": "Ruins",
+    "zh": "废墟"
+  },
+  "graphicID": 3115,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Quarantine Station Ruins",
     "en": "Quarantine Station Ruins",
@@ -10,5 +23,9 @@
     "ru": "Quarantine Station Ruins",
     "zh": "隔离站废墟"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

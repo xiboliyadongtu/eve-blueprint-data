@@ -1,5 +1,18 @@
 {
-  "typeID": 3959,
+  "capacity": 60.0,
+  "description": {
+    "de": "Das ist ein Saboteur, der keine Erfahrung hat. Saboteure sind oft in verschiedenen Bereichen sehr fähig, wie beispielsweise Spionage, Fälschung und Infiltrierung. Derartige Tätigkeiten sind oft nötig, bevor es zu einer tatsächlichen Sabotage kommt.",
+    "en": "This is an inexperienced saboteur. Saboteurs usually has skills for different kinds of related work, such as espionage, counterfeiting or infiltration. Such actions are often required before an actual sabotage takes place.",
+    "es": "Saboteador inexperto. Los saboteadores suelen tener habilidades para diferentes tipos de trabajo relacionado, como el espionaje, la falsificación o la infiltración. Estas acciones suelen ser necesarias antes de que tenga lugar el sabotaje en sí.",
+    "fr": "Saboteur amateur. Les saboteurs disposent généralement de compétences leur permettant d'effectuer différents types de tâches (espionnage, contrefaçon ou infiltration, par exemple). Ces actions ont généralement lieu avant le sabotage proprement dit.",
+    "ja": "経験の浅い破壊工作員。破壊工作員は通常、諜報、偽造、潜入といった関連する各種任務もこなす技術も身に付けている。破壊工作を実行する前にそうした下準備が必要になる場合も多いからだ。",
+    "ko": "미숙한 공작원입니다. 공작원은 첩보, 위장, 잠입 등의 임무를 수행하는 특수 요원입니다. 위의 과정을 거친 후 비로소 파괴 공작이 진행됩니다.",
+    "ru": "Это — корабль, принадлежащий не очень опытному диверсанту. Как правило, диверсанты не только умеют взрывать станции и корабли, но и разбираются в «смежных областях» — шпионаже, финансовых махинациях, внедрении в ряды противника. Случается, что без применения этих навыков бывает практически невозможно совершить нужную диверсию.",
+    "zh": "这是个经验尚浅的阴谋者。阴谋破坏者通常具备各种相关工作需要的技能，比如侦察、造假及潜入。这类行动通常是进行破坏活动前的必要准备。"
+  },
+  "graphicID": 314,
+  "groupID": 818,
+  "mass": 2450000.0,
   "name": {
     "de": "Criminal Saboteur",
     "en": "Criminal Saboteur",
@@ -10,5 +23,10 @@
     "ru": "Criminal Saboteur",
     "zh": "罪犯 阴谋者"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 50.0,
+  "sofFactionName": "caldaribase",
   "volume": 24500.0
 }

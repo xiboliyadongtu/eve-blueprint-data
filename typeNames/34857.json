@@ -1,5 +1,17 @@
 {
-  "typeID": 34857,
+  "basePrice": 500000000.0,
+  "description": {
+    "de": "Diese Blaupause kann nicht mehr verwendet werden, da der Gegenstand, den sie produziert, nicht mehr aktuell ist.",
+    "en": "This blueprint can no longer be used as the item it produces has been deprecated.",
+    "es": "Este plano ya no se puede usar porque el objeto que produce ha quedado obsoleto.",
+    "fr": "Ce plan de construction ne peut plus être utilisé, car l'objet qu'il produit est devenu obsolète.",
+    "ja": "生産アイテムが廃止予定のため、この設計図は使用できません。",
+    "ko": "해당 블루프린트는 제작 아이템이 폐기되어 더 이상 사용이 불가능합니다.",
+    "ru": "Этот чертёж нельзя использовать: он содержит проект устаревшего предмета.",
+    "zh": "由于生成的物品已弃用，该蓝图无法使用。"
+  },
+  "groupID": 1317,
+  "iconID": 3948,
   "name": {
     "de": "Defunct Ore Prospecting Array 3 Blueprint",
     "en": "Defunct Ore Prospecting Array 3 Blueprint",
@@ -10,5 +22,8 @@
     "ru": "Defunct Ore Prospecting Array 3 Blueprint",
     "zh": "失效的矿石勘探阵列3蓝图"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
   "volume": 0.01
 }

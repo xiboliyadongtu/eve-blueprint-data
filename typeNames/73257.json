@@ -1,5 +1,18 @@
 {
-  "typeID": 73257,
+  "capacity": 250.0,
+  "description": {
+    "de": "Dieses Schiff der Republic Fleet bewacht einen Sternbeobachtungdaten-Hub der Republik in umkämpftem Raum. Es wird jeden Kapselpiloten angreifen, der nicht der Miliz der Tribal Liberation Force angehört.",
+    "en": "This Republic Fleet vessel is guarding a Republic Stellar Observation Data Hub within contested space. It will attack any capsuleer that is not a current member of the Tribal Liberation Force militia.",
+    "es": "Esta nave de la Flota de la República protege un centro de datos del observatorio estelar de la República en un espacio en disputa. Atacará a cualquier capsulista que no sea miembro actual de la milicia de la Fuerza Tribal de Liberación.",
+    "fr": "Ce vaisseau de la Flotte de la République garde un centre de données d'observation stellaire de la République situé dans l'espace contesté. Il attaquera tout capsulier ne faisant pas actuellement partie de la milice Tribal Liberation Force.",
+    "ja": "この共和国海軍艦は紛争中の宙域に存在する共和国恒星観測データハブを警備しており、義勇軍の1つである連盟自由軍に所属していないあらゆるカプセラに攻撃をしかけてくる。",
+    "ko": "공화국 천체 관측 데이터 허브를 경비하는 공화국 함대 함선입니다. 부족해방전선 밀리샤가 아닌 모든 함선을 적으로 간주합니다.",
+    "ru": "Это судно республиканского флота охраняет минматарский центр данных наблюдений за звёздами на спорных территориях. Оно атакует любого капсулёра, не входящего в состав ополчения Племенной освободительной армии.",
+    "zh": "这艘共和舰队舰船守卫着争夺中的空域中的一座共和国星际观测数据中心。它会对目前没有加入部族解放力量国民卫队的克隆飞行员开火。"
+  },
+  "graphicID": 1976,
+  "groupID": 1568,
+  "mass": 1080000.0,
   "name": {
     "de": "Vigil Fleet Issue-Wache",
     "en": "Vigil Fleet Issue Guard",
@@ -10,5 +23,11 @@
     "ru": "Vigil Fleet Issue Guard",
     "zh": "守夜者级海军型守卫"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 29.0,
+  "sofFactionName": "minmatarnavy",
+  "soundID": 20078,
   "volume": 17400.0
 }

@@ -1,5 +1,16 @@
 {
-  "typeID": 21659,
+  "description": {
+    "de": "Ein Dock oder Hangar, betrieben von denen auf der einträglichen Seite des Gesetzes (nein - nicht die Polizei).",
+    "en": "A shipyard, or garage, operated by those on the flashy side of the law (no, not the cops).",
+    "es": "Un astillero o garaje, operado por quienes están en el lado ostentoso de la ley (no, no la poli).",
+    "fr": "Chantier naval ou atelier contrôlé par des individus en marge de la loi (non, pas la police).",
+    "ja": "造船所か艦船の係留所らしいが、いかがわしい組織が運営しているもののようだ（軍隊の施設でないことは確か）。",
+    "ko": "무법자들의 쉽야드입니다.",
+    "ru": "Верфь или ангар, принадлежащие тем, кто стоит по другую сторону закона (подсказка: нет, не полицейским).",
+    "zh": "一座船坞或机修库，由那些善钻法律空子的人经管（不是警察）。"
+  },
+  "graphicID": 2625,
+  "groupID": 226,
   "name": {
     "de": "Dirty Bandit Shipyard",
     "en": "Dirty Bandit Shipyard",
@@ -10,5 +21,8 @@
     "ru": "Dirty Bandit Shipyard",
     "zh": "肮脏的强盗船坞"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 1913.0,
+  "sofFactionName": "genericbase"
 }

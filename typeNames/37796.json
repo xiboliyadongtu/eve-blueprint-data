@@ -1,5 +1,18 @@
 {
-  "typeID": 37796,
+  "basePrice": 5000000.0,
+  "description": {
+    "de": "Grundwissen zur Bedienung von Lenkwaffenwerfern von Strukturen.\n\n\n\n2% Bonus auf die Schadenswirkung von Strukturlenkwaffen und gelenkte Bomben je Skillstufe.",
+    "en": "Basic operation of structure missile launchers.\r\n\r\n2% bonus to all structure missile and guided bomb damage per level.",
+    "es": "Manejo básico de estructura de lanzamisiles.\n\n\n\n2 % de bonificación al daño de todas las estructuras de misil y bombas guiadas por nivel.",
+    "fr": "Manœuvre rudimentaire des lance-missiles pour structure. Augmente de 2 % par niveau les dégâts des missiles et des bombes ciblées pour structure.",
+    "ja": "ストラクチャ用ミサイルランチャーの基本的な操作。\r\n\nレベル上昇ごとに、すべてのストラクチャ用ミサイルおよび誘導ボムのダメージが2％増加。",
+    "ko": "구조물용 미사일 런처를 운용하기 위한 스킬입니다. <br><br>매 레벨마다 구조물 미사일 및 유도폭탄 피해량 2% 증가",
+    "ru": "Общее понимание принципов работы ракетных установок сооружений.\n\n\n\nОсвоение навыка позволит пилоту увеличить поражающее действие ракет, запущенных с сооружений (на 2% за каждую степень освоения навыка).",
+    "zh": "操作建筑导弹发射器的基本技能。\n\n\n\n每升一级，所有建筑导弹和制导炸弹伤害提升2%。"
+  },
+  "groupID": 1545,
+  "iconID": 33,
+  "marketGroupID": 2152,
   "name": {
     "de": "Structure Missile Systems",
     "en": "Structure Missile Systems",
@@ -10,5 +23,7 @@
     "ru": "Пусковые установки сооружений",
     "zh": "建筑导弹系统研究"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

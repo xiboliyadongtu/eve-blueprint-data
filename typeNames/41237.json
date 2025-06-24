@@ -1,5 +1,20 @@
 {
-  "typeID": 41237,
+  "basePrice": 30000000.0,
+  "description": {
+    "de": "Erhöht bei Aktivierung die Maximalgeschwindigkeit des Schiffs. Der Schub, der das Schiff vorantreibt und der daraus resultierende maximale Geschwindigkeitsgewinn wird durch die Masse des Schiffs begrenzt, das dieses Modul verwendet.\n\nHinweis: Kann nur in Schiffe der Capital-Klasse eingebaut werden.",
+    "en": "Gives a boost to the maximum velocity of the ship when activated. The thrust that boosts the ship, and the corresponding maximum velocity bonus, are limited by the mass of the ship that uses this module.\n\nNote: May only be fitted to capital class ships.",
+    "es": "Potencia la velocidad máxima al activarse. El impulso propulsor y la bonificación de velocidad máxima correspondiente, están limitadas por la masa de la nave que usa este módulo.\n\nAviso: Solo se puede equipar en naves capitales.",
+    "fr": "Accroît la vitesse maximale du vaisseau une fois activé. La poussée appliquée au vaisseau et le bonus de vitesse maximale correspondant sont limités par la masse du vaisseau.\n\nRemarque : réservé aux vaisseaux de classe capital.",
+    "ja": "有効化すると船の最高速度が向上。得られる推進力と、それによる最高速度ボーナスは、このモジュールを使用する艦の質量に制約を受ける。注： 母艦級の艦船にのみ装着可能。",
+    "ko": "활성화 시 함선의 최대 속도가 증가합니다. 함선 중량에 따라 추진력 및 최대 속도 보너스가 제한됩니다. <br><br>참고: 캐피탈급 함선에만 장착이 가능합니다.",
+    "ru": "При включении повышает скорость полного хода корабля. Величина прироста скорости зависит не только от мощности модуля, но и от массы корабля, на котором установлен этот модуль.\n\nВнимание! Этим модулем могут оснащаться исключительно корабли большого тоннажа.",
+    "zh": "激活后将增加舰船的最大速度。推进舰船的动力和相应的最大速度加成均受使用该装备的舰船重量所限。\n\n注：只能用于旗舰级舰船。"
+  },
+  "groupID": 46,
+  "iconID": 96,
+  "marketGroupID": 542,
+  "mass": 1000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "10000MN Y-S8 Compact Afterburner",
     "en": "10000MN Y-S8 Compact Afterburner",
@@ -10,5 +25,8 @@
     "ru": "10000MN Y-S8 Compact Afterburner",
     "zh": "Y-S8紧凑型10000MN加力燃烧器"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 41236,
   "volume": 4000.0
 }

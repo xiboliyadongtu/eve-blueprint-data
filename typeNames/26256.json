@@ -1,5 +1,18 @@
 {
-  "typeID": 26256,
+  "basePrice": 250000.0,
+  "description": {
+    "de": "Fortgeschrittenes Verständnis von Elektroniksystemen. Ermöglicht, mithilfe von Anbauten Änderungen an Aufschalt-, Scan- und ECM-Systemen vorzunehmen.\r\n\r\n10% Reduktion der Nachteile von Anbauten für die elektronische Überlegenheit je Skillstufe.",
+    "en": "Advanced understanding of electronics systems. Allows makeshift modifications to targeting, scanning and ECM systems through the use of rigs. \r\n\r\n10% reduction in Electronic Superiority Rig drawbacks per level.",
+    "es": "Conocimiento avanzado de los sistemas electrónicos. Permite realizar modificaciones improvisadas en los sistemas de adquisición de objetivos, escaneo y contramedidas electrónicas mediante el uso de complementos. \n\n\n\nReducción del 10 % de las desventajas del complemento de superioridad electrónica por nivel.",
+    "fr": "Compréhension avancée des systèmes électroniques. Permet de changer les systèmes de CME, de ciblage et de balayage grâce à l'utilisation de modules d'optimisation. \n\nRéduit de 10 % par niveau les inconvénients liés à l'optimisation de supériorité électronique.",
+    "ja": "電子システムに関する高度な理解力。リグを使ってターゲティング、スキャン、ECM システムに一時的な変更を加えられる。\r\n\nレベル上昇ごとに電子高性能リグの副作用を 10% 軽減する。",
+    "ko": "전자 시스템에 대한 심층적인 이해를 습득합니다. 리그 장착을 통해 타겟팅, 스캔, 그리고 ECM 시스템을 임시로 변경합니다. <br><br>매 레벨마다 전자전 리그 부작용 10% 감소",
+    "ru": "Глубокое понимание электронных систем. Позволяет самостоятельно устанавливать модификаторы систем РЭБ, поисковых систем и систем целеуказания. \n\n\n\nЗа каждую степень освоения навыка: на 10% уменьшается отрицательный эффект модификаторов РЭБ.",
+    "zh": "理解电子系统的高级技能。允许通过使用改装件对锁定、扫描和电子战系统进行临时改进。\r\n\r\n每升一级，电子优势改装件的副作用降低10%。"
+  },
+  "groupID": 269,
+  "iconID": 33,
+  "marketGroupID": 372,
   "name": {
     "de": "Electronic Superiority Rigging",
     "en": "Electronic Superiority Rigging",
@@ -10,5 +23,7 @@
     "ru": "Модификаторы бортовой электроники и РЭБ",
     "zh": "电子优势改装技术"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

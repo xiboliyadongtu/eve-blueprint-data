@@ -1,5 +1,21 @@
 {
-  "typeID": 33452,
+  "basePrice": 99996.0,
+  "capacity": 0.78,
+  "description": {
+    "de": "Ein Lenkwaffenwerfer für Schlachtschiffe, der für die Abwehr von kleineren Kampfschiffen wie Fregatten und Kreuzern vorgesehen ist. Kann nur mit schweren Lenkwaffen geladen werden.",
+    "en": "Launcher for battleships intended to counter smaller combat ships such as frigates and cruisers, can only be loaded with heavy missiles.",
+    "es": "Lanzador para acorazados destinado a contrarrestar naves de guerra más pequeñas, como fragatas y cruceros. Solo puede cargarse con misiles pesados.",
+    "fr": "Lanceur pour cuirassés conçu pour contrer les vaisseaux de combat plus petits tels que les frégates et les croiseurs. Ne peut être chargé que de missiles lourds.",
+    "ja": "戦艦用のランチャー。フリゲートや巡洋艦など、より小型の戦闘艦に対抗できる。装填できるのはヘビーミサイルのみ。",
+    "ko": "배틀쉽용 헤비 미사일 런처로 프리깃이나 크루저와 같이 비교적 체급이 작은 함선을 상대하기에 적합합니다.",
+    "ru": "Пусковая установка ракет, специально разработанная для повышения боеспособности линкоров при ведении боя с кораблями меньших размеров (например, фрегатами и крейсерами). Ведёт огонь исключительно ракетами большой мощности.",
+    "zh": "用来对抗护卫舰和巡洋舰等小型战斗舰船的战列舰级别发射器。只能装载重型导弹。"
+  },
+  "graphicID": 21709,
+  "groupID": 1245,
+  "iconID": 21074,
+  "marketGroupID": 1827,
+  "metaGroupID": 4,
   "name": {
     "de": "Domination Rapid Heavy Missile Launcher",
     "en": "Domination Rapid Heavy Missile Launcher",
@@ -10,5 +26,9 @@
     "ru": "Domination Rapid Heavy Missile Launcher",
     "zh": "主天使重型快速导弹发射器"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "angelbase",
+  "variationParentTypeID": 33448,
   "volume": 20.0
 }

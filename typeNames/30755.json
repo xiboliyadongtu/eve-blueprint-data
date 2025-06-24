@@ -1,5 +1,17 @@
 {
-  "typeID": 30755,
+  "description": {
+    "de": "Dieser Gegenstand, der ohne Zweifel aus einem der zerstörten Schiffe geborgen wurde, kann als Datenkern identifiziert werden, hat aber eine merkwürdige Oberfläche, die nicht so aussieht, als würde sie aus einem Imperium stammen, das Ihnen bekannt ist.",
+    "en": "This item, clearly salvaged from one of the wrecked ships, is recognizable as a datacore, but has a foreign interface that doesn't quite look like it came from any empire you're familiar with.",
+    "es": "Este objeto, claramente recuperado de una de las naves destruidas, es reconocible como un núcleo de datos, pero tiene una interfaz extraña que no parece proceder de ningún imperio que conozcas.",
+    "fr": "Cet objet, récupéré dans l'une des épaves de vaisseaux, ressemble à une banque de données mais présente une étrange interface qui ne provient d'aucun empire que vous connaissez.",
+    "ja": "船の残骸からサルベージされたこのアイテムは、データコアだと思われるが、既存のどの帝国のそれとも違う、見かけたことのないインターフェースだ。",
+    "ko": "함선 잔해로부터 샐비지한 이 물건은 데이터코어로 보이나 그 어떤 국가에서도 쓰지 않는 낯선 인터페이스를 갖추고 있습니다.",
+    "ru": "Данный объект, явно спасенный с одного из кораблей, потерпевших кораблекрушение, является инфоблоком с нездешним интерфейсом, непохожим ни на один из интерфейсов, известных в империях.",
+    "zh": "这个东西肯定是从什么舰船残骸中打捞出来的，一看就知道是一个数据核心，但是却同你所见过的各国的标准产品不大一样。"
+  },
+  "groupID": 314,
+  "iconID": 3233,
+  "mass": 0.75,
   "name": {
     "de": "Strange Datacore",
     "en": "Strange Datacore",
@@ -10,5 +22,7 @@
     "ru": "Strange Datacore",
     "zh": "奇怪的数据核心"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

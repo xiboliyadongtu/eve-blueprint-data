@@ -1,5 +1,17 @@
 {
-  "typeID": 353476,
+  "basePrice": 567000.0,
+  "description": {
+    "de": "Skill zur Benutzung von Scharfschützengewehren.\n\n+3% auf die Schadenswirkung von Scharfschützengewehren pro Skillstufe.",
+    "en": "Skill at handling sniper rifles.\r\n\r\n+3% sniper rifle damage against armor per level.",
+    "es": "Habilidad de manejo de fusiles de francotirador.\n\n+3% al daño de los fusiles de francotirador por nivel.",
+    "fr": "Compétence permettant de manipuler les fusils de précision.\n\n+3 % de dommages du fusil de précision par niveau.",
+    "it": "Abilità nel maneggiare fucili di precisione.\n\n+3% ai danni inflitti dal fucile di precisione per livello.",
+    "ja": "スナイパーライフルを扱うスキル。\n\nレベル上昇ごとに、スナイパーライフルがアーマーに与えるダメージが3%増加する。",
+    "ko": "저격 라이플 운용을 위한 스킬입니다.<br><br>매 레벨마다 장갑에 가해지는 피해량 3% 증가.",
+    "ru": "Навык обращения со снайперскими винтовками.\n\n+3% к урону, наносимому снайперскими винтовками, на каждый уровень.",
+    "zh": "使用狙击步枪的技能。每升一级，狙击步枪对装甲造成的伤害提高3%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Fertigkeit: Scharfschützengewehr",
     "en": "Sniper Rifle Proficiency",
@@ -11,5 +23,7 @@
     "ru": "Эксперт по снайперским винтовкам",
     "zh": "狙击步枪熟练度"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

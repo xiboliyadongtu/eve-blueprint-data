@@ -1,5 +1,16 @@
 {
-  "typeID": 86277,
+  "description": {
+    "de": "Dieser Ort bietet wertvolle Gegenstände im Austausch gegen Infomorph-Dekodierungsschlüssel. Mit einer speziellen Suite mit Zugang zum Wächter kann diese Einrichtung Dekodierungsschlüssel aus der Ferne übertragen, damit willige Arbeitsklone von Upwell ihre vertraglichen Verschlüsselungen knacken und frei in neue Körper übertragen werden können. Der Deathless Circle wird jedem eine Belohnung gewähren, der bereit ist, ihnen Infomorph-Dekodierungsschlüssel zu bringen und bei der freien Übertragung von Arbeitsklonen von Upwell zu helfen.",
+    "en": "This location offers valuable items in exchange for Infomorph Decryption Keys.\r\n\r\nWith a special suite set up with access to The Warden, this facility is capable of remotely transmitting decryption keys that allow willing Upwell workforce clones to break their contracted encryption locks and be freely re-embodied. The Deathless Circle will reward anyone willing to bring them Infomorph Decryption Keys and assist in the free transfer of Upwell workforce clones.",
+    "es": "Esta ubicación ofrece objetos valiosos a cambio de claves de descodificación de infomorfos.\r\n\r\nCon una suite especial configurada con acceso a la Warden, esta instalación es capaz de transmitir de forma remota claves de descodificación que permiten a los clones de mano de obra de Upwell decodificar sus cifrados contratados y volver a encarnarse libremente. El Círculo Inmortal recompensará a cualquiera que esté dispuesto a traerles claves de descodificación de infomorfos y ayudar en la transferencia libre de clones de mano de obra de Upwell.",
+    "fr": "Ce lieu propose des objets précieux en échange de clés de décryptage d'infomorphes. Grâce à une suite spéciale disposant d'un accès à la structure du Gardien, cette installation peut transmettre à distance des clés de décryptage permettant aux clones de travailleurs d'Upwell de rompre leurs verrous de cryptage contractuels et de se réincarner librement. Le Cercle Immortel récompensera toute personne prête à lui fournir des clés de décryptage d'infomorphes et à aider au transfert libre des clones de main-d'œuvre Upwell.",
+    "ja": "この場所では暗号化されたインフォモーフと引き換えに貴重なアイテムを入手できる。\r\n\r\nウォーデンへのアクセス可能な特別室を備えた施設。アップウェルの労働クローンが契約により施されている暗号化ロックを破り、自由に再び肉体を得られるようにする暗号解読キーを遠隔転送することができる。デスレス・サークルはインフォモーフの暗号解読キーを持ち込み、アップウェルの労働クローンを自由に移動させられるようにするのを支援したあらゆる者に対して報酬を提供している。",
+    "ko": "정신체 해독 키를 유용한 아이템으로 교환할 수 있습니다.\r\n\r\n워든으로 연결되는 특수 시설입니다. 업웰 노동 클론에 원격으로 해독 키를 전송해 노동 계약을 우회하고 정신체를 다른 신체에 이전할 수 있습니다. 데스리스 서클은 정신체 해독 키를 회수하고 업웰 노동 클론의 자유로운 이전을 지원하는 캡슐리어에게 마땅한 보상을 지급할 것입니다.",
+    "ru": "В этом месте можно обменять ключи дешифровки инфоморфов на ценные товары. Этот объект оснащён специальным оборудованием, с помощью которого можно удалённо передавать «Стражу» ключи дешифровки инфоморфов. Это, в свою очередь, позволяет рабочим клонам «Апвелл» взломать шифр сотрудника и перевоплотиться по собственному желанию. «Бессмертный круг» вознаградит всех, кто передаст им ключи дешифровки инфоморфов и поможет осуществить перенос сознаний в рабочие клоны «Апвелл».",
+    "zh": "此地会产出贵重资源，可换取电子意识解密密钥。此设施拥有可访问典狱官的特殊套件，能够远程传输解密密钥，让有此意愿的昇威劳动力克隆体能够突破合同加密锁，重获自由身。凡是愿意提交电子意识解密密钥，并协助自由转移昇威劳动力克隆体的飞行员，都将获得不死循环提供的奖励。"
+  },
+  "graphicID": 27981,
+  "groupID": 226,
   "name": {
     "de": "Infomorph Decryption Trader",
     "en": "Infomorph Decryption Trader",
@@ -10,5 +21,8 @@
     "ru": "Infomorph Decryption Trader",
     "zh": "电子意识解密贸易商"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 22000.0,
+  "sofFactionName": "deathless"
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 28161,
+  "capacity": 785000.0,
+  "description": {
+    "de": "Die vielen Truppen der imperialen Navy nutzen regelmäßig Frachter, um massenhaft vielfältige militärische Güter und Personen zu transportieren. Solch anfällige Schiffe werden in der Regel schwer bewacht, wenn sie die Weltraumrouten durchqueren.",
+    "en": "The large navy forces of the Empires regularly use freighters to transport a wide variety of military items and personnel en masse.  Such vulnerable ships are usually heavily guarded as they traverse the space lanes.",
+    "es": "Las grandes fuerzas de las armadas imperiales usan cargueros para transportar una amplia variedad de artículos militares y personal en masa. Estas naves tan vulnerables suelen ir bien protegidas mientras recorren las rutas espaciales.",
+    "fr": "Les forces navales des empires utilisent régulièrement des transports de fret pour transporter en masse du personnel ou du matériel militaire.  Ces vaisseaux, très vulnérables, sont généralement accompagnés d'une puissante escorte lorsqu'ils empruntent les voies spatiales.",
+    "ja": "各国の大規模な海軍艦隊は、貨物用超大型輸送艦を使って定期的に様々な軍需品と人員をまとめて輸送している。貨物船のような攻撃に弱い船が宇宙航路を航行する際には、通常、厳重な護衛が付いている。",
+    "ko": "각 국가의 대규모 함대는 병력 수송 및 보급품 운반을 위한 목적으로 화물선을 운용합니다. 방어가 취약한 화물선의 경우 호위대를 동반하는 것이 일반적입니다.",
+    "ru": "Большие имперские флоты регулярно используют грузовые корабли для перевозки больших объемов военного оборудования и переброски личного состава. В силу своей уязвимости такие суда чаще всего очень хорошо охраняются.",
+    "zh": "各个大国的海军常常使用货舰来运输各种军需物资和人员。这种容易受到攻击的船只在旅途上常常会配以强大的护航队"
+  },
+  "graphicID": 2740,
+  "groupID": 875,
+  "mass": 1200000000.0,
   "name": {
     "de": "State Freighter",
     "en": "State Freighter",
@@ -10,5 +23,10 @@
     "ru": "State Freighter",
     "zh": "合众国货舰"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 800.0,
+  "sofFactionName": "caldaribase",
   "volume": 16250000.0
 }

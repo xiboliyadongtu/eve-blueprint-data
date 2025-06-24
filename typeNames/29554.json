@@ -1,5 +1,17 @@
 {
-  "typeID": 29554,
+  "description": {
+    "de": "Ein Angel Bunker",
+    "en": "Angel Bunker",
+    "es": "Búnker de los Ángeles",
+    "fr": "Bunker angel.",
+    "ja": "エンジェルバンカー",
+    "ko": "엔젤 카르텔 벙커",
+    "ru": "Angel Bunker",
+    "zh": "天使碉堡"
+  },
+  "graphicID": 2431,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Fortified Angel Bunker",
     "en": "Fortified Angel Bunker",
@@ -10,5 +22,10 @@
     "ru": "Fortified Angel Bunker",
     "zh": "强化的天使堡垒"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 834.0,
+  "sofFactionName": "angelbase",
   "volume": 100000000.0
 }

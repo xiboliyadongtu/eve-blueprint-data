@@ -1,5 +1,18 @@
 {
-  "typeID": 16104,
+  "capacity": 1200.0,
+  "description": {
+    "de": "Dies ist eine Überwachungsdrohne, die von allen Unterabteilungen des CONCORD verwendet wird.",
+    "en": "This is a surveillance drone used by all of the CONCORD sub-factions.",
+    "es": "Dron de vigilancia usado por todas las subfacciones de CONCORD.",
+    "fr": "Il s'agit d'un drone de surveillance utilisé par toutes les sous-factions de CONCORD.",
+    "ja": "CONCORDの全てのサブ勢力が偵察に使用するドローン。",
+    "ko": "CONCORD 소속 팩션에서 운용하는 관측 드론입니다.",
+    "ru": "Наблюдательный дрон, используемый всеми подразделениями CONCORD",
+    "zh": "这是统合部下属势力所用的监察无人机。"
+  },
+  "graphicID": 1124,
+  "groupID": 337,
+  "mass": 100000.0,
   "name": {
     "de": "CONCORD Surveillance Drone",
     "en": "CONCORD Surveillance Drone",
@@ -10,5 +23,9 @@
     "ru": "CONCORD Surveillance Drone",
     "zh": "统合部监察无人机"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 45.0,
+  "sofFactionName": "minmatarbase",
   "volume": 60.0
 }

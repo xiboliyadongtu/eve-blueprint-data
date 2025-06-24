@@ -1,5 +1,17 @@
 {
-  "typeID": 19954,
+  "description": {
+    "de": "Kennzeichnungen deuten darauf hin, dass Soran's Zugangsschlüssel zwei Beschleunigungstore öffnet. Eines ist als Überprüfungstor gekennzeichnet, das den Schlüssel intakt lässt, wohingegen das andere ein stark verschlüsseltes Beschleunigungstor ist, das \"Station Ultima\" genannt wird. Dieses Tor scheint den Schlüssel zu zerstören und das Tor zu nur einem Schiff zu öffnen.",
+    "en": "Markings indicate that Soran's Passkey will activate two Acceleration Gates. One is marked as a check-gate which will leave the key intact, while the other one is some highly encrypted Accleration Gate called \"Station Ultima\". That gate will seemingly destroy the key and unlock the gate to a single ship.",
+    "es": "Las marcas indican que la llave de paso de Soran activa dos portales de aceleración. Uno está marcado como portal de comprobación que dejará la llave intacta, mientras que el otro es un portal de aceleración altamente cifrado llamado «Estación Última». Parece que destruirá la llave y dejará pasar a una sola nave.",
+    "fr": "Les marques indiquent que la carte d'accès de Soran activera deux portails d'accélération. L'un sert de portail d'enregistrement et laisse la clé intacte alors que l'autre est un portail d'accélération très crypté appelé « Station Ultima ». Ce portail détruira apparemment la clé et déverrouillera le portail pour le passage d'un seul vaisseau.",
+    "ja": "マスターキーに記されている情報から、2つのアクセラレーションゲートを起動できると思われる。一つはチェックゲートで、使用後にキーが損傷することはない。もう一つはステーションウルティマと呼ばれる高度な暗号技術を用いたゲートで、使用後にはキーが損傷するうえ、ゲート内に入れる船も1機に限られるようだ。",
+    "ko": "두 가지 액셀레이션 게이트를 활성화 할 수 있다는 표시가 되어있습니다. '체크 게이트'에 사용 시 출입키는 온전한 상태로 유지될 것이나 고도로 암호화 된 액셀레이션 게이트인 '스테이션 울티마'에 사용 시 출입키는 파괴되고 한척의 함선에 한해 액셀레이션 게이트가 개방될 것입니다.",
+    "ru": "Согласно маркировке, с помощью Soran's Passkey открываются двое врат ускорения. Одни ворота обозначены как контрольные, на них ключ останется целым, другие врата ускорения с мощной шифровальной системой называются Station Ultima. По всей видимости, эти врата уничтожат ключ и откроют проход для одного корабля.",
+    "zh": "根据标记，索兰的通行证钥匙可以激活两个加速轨道：一个是检测轨道，通过后钥匙依然可用；另一个是高度加密的、通往“奥提马太空站”的加速轨道，通过这个轨道后，钥匙会自行销毁。轨道一次只允许一艘船通过。"
+  },
+  "groupID": 474,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Soran's Passkey",
     "en": "Soran's Passkey",
@@ -10,5 +22,7 @@
     "ru": "Soran's Passkey",
     "zh": "索兰的通行证钥匙"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

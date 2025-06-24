@@ -1,5 +1,18 @@
 {
-  "typeID": 16738,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese riesige Konstruktion verwendet elektromagnetische Leiterbahnen, um Energie von der Sonne dieses Systems zu gewinnen.",
+    "en": "This gigantic construction uses electromagnetic conductors to harvest solar power from the system's sun.",
+    "es": "Esta gigantesca construcción utiliza conductores electromagnéticos para recolectar energía del sol del sistema.",
+    "fr": "Cette gigantesque construction utilise des conducteurs électromagnétiques pour collecter de l'énergie solaire.",
+    "ja": "電磁波伝導体を利用して恒星から太陽エネルギーを採掘する巨大建造物。",
+    "ko": "이 거대한 구조물은 EM 전도체를 활용하여 태양열을 흡수합니다.",
+    "ru": "Гигантское сооружение, которое собирает энергию солнца этой планетной системы при помощи нескольких приёмников электромагнитного излучения.",
+    "zh": "这座巨型建筑运用了电磁导体来采集恒星能源。"
+  },
+  "graphicID": 2412,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Solar Harvester",
     "en": "Solar Harvester",
@@ -10,5 +23,10 @@
     "ru": "Solar Harvester",
     "zh": "太阳能采集站"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 4300.0,
+  "sofFactionName": "genericindustrial",
+  "soundID": 20195,
   "volume": 100000000.0
 }

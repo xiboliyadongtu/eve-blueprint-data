@@ -1,5 +1,17 @@
 {
-  "typeID": 53082,
+  "description": {
+    "de": "Mit diesem Programm lassen sich mehrere astronomische Körper gleichzeitig aufspüren. Damit können ungefähre Flugbahnen berechnet werden, doch in der Regel dient es nur dazu, große Mengen an Daten aufzuzeichnen. Die Anomalien, die das Programm aufzeigt, werden dann von anderen Programmen und Menschen überprüft. Die gespeicherten Daten weisen auf eine anomale Situation bei den nahegelegenen Asteroiden hin. Außerdem ermittelt es einen Distanzvektor, der mit dem Beschleunigungstor in der Nähe des Fundorts dieses Programms verwendet werden kann.",
+    "en": "This program is used to track multiple astronomical bodies at the same time. It can be used to help predict approximate trajectories but is normally just used for recording vast amounts of data. Due to its prediction capabilities, it highlights anomalies for review by other programs or people. \r\n\r\nThe data contained herein shows an anomalous situation at the nearby asteroids. It additionally plots a long-distance vector, one that can be used with the Acceleration Gate found near where this was found.",
+    "es": "Este programa sirve para seguir varios cuerpos astronómicos al mismo tiempo. Puede utilizarse para ayudar a predecir trayectorias aproximadas, pero normalmente solo se usa para registrar grandes cantidades de datos. Debido a su capacidad de predicción, destaca las anomalías para que las revisen otros programas o personas. \n\n\n\nLos datos aquí contenidos muestran una situación anómala en los asteroides cercanos. Además, traza un vector de larga distancia que puede ser utilizado con el portal de aceleración próximo de donde esto fue encontrado.",
+    "fr": "Ce programme permet de suivre simultanément de multiples corps astronomiques. Il peut servir à prédire les trajectoires approximatives des appareils, mais il est davantage utilisé pour enregistrer d'importantes quantités de données. Grâce à ses capacités de prédiction, il repère les anomalies afin que d'autres programmes ou personnes les traitent. Les données qu'il contient indiquent une situation anormale à proximité des astéroïdes. De plus, il trace un vecteur longue distance qui peut être utilisé avec le portail d'accélération situé non loin du lieu où cette boîte a été trouvée.",
+    "ja": "複数の天体を同時に追跡するためのプログラム。近似的な軌道を予測するのに役立つが、通常は膨大な量のデータを記録するためだけに使用される。予測機能があるため、他のプログラムや人に見てもらうために異常をハイライトする。\r\n\nここに含まれるデータは、近くの小惑星の異常な状況を示している。さらに、このデータが発見された場所の近くで発見された加速ゲートで使用できる長距離ベクトルをプロットしている。",
+    "ko": "다수의 천체를 동시에 추적하기 위한 프로그램입니다. 대략적인 탄도를 계산할 수 있으나, 주로 대량의 데이터 기록에 사용됩니다. 내장된 예측 기능으로 인해 다른 프로그램 또는 사람들이 검토할 수 있도록 어노말리를 표시할 수 있습니다. 프로그램에 저장된 데이터를 통해 근방의 소행성에서 일어나는 변칙적인 상황을 확인이 가능합니다. 또한 처음 발견된 위치의 액셀레이션 게이트와 함께 사용할 수 있는 장거리 벡터를 구성할 수 있습니다.",
+    "ru": "Эта программа позволяет отслеживать сразу несколько космических объектов. С её помощью можно прогнозировать траектории движения различных тел, но обычно её используют для записи больших объёмов информации. Способность прогнозировать позволяет ей выделять аномалии, которые затем могут изучить другие программы или люди. Здесь содержатся данные об аномалии, обнаруженной рядом с астероидами, которые находятся поблизости. Кроме того, эта программа уже проложила вектор дальнего следования, который можно использовать у разгонных врат рядом с местом, где эта программа была обнаружена.",
+    "zh": "这个程序是用来同时追踪多个天体的。它可以帮助预测天体的大概运行轨道，不过通常只用来记录海量数据。由于它具有预测功能，它可以将异常空间凸显出来，供其他程序或人使用。 \n\n\n\n这里的数据显示附近的小行星有异常状况，它还标绘出了长距离矢量，可以用来通过在找到它的地点附近的加速轨道。"
+  },
+  "groupID": 526,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Astronavigational Tracking Program",
     "en": "Astronavigational Tracking Program",
@@ -10,5 +22,7 @@
     "ru": "Astronavigational Tracking Program",
     "zh": "星际导航追踪计划"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

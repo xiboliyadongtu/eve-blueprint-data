@@ -1,5 +1,18 @@
 {
-  "typeID": 24311,
+  "basePrice": 550000000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Amarr-Trägerschiffen.",
+    "en": "Skill at operating Amarr carriers.",
+    "es": "Habilidad en el manejo de portanaves amarrianos.",
+    "fr": "Compétence liée à l'utilisation des porte-vaisseaux amarr.",
+    "ja": "アマーの艦載機母艦を操作するスキル。",
+    "ko": "아마르 캐리어 운용을 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на кораблях автономного развёртывания производства Амаррской Империи.",
+    "zh": "操作艾玛航空母舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Amarr Carrier",
     "en": "Amarr Carrier",
@@ -10,5 +23,8 @@
     "ru": "Амаррские КАРы",
     "zh": "艾玛航空母舰操作"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

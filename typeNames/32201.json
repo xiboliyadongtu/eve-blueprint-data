@@ -1,5 +1,17 @@
 {
-  "typeID": 32201,
+  "description": {
+    "de": "Diese elektronischen Geräte werden normalerweise als digitale Zugangsschlüssel über eine weite Distanz verwendet, die den Zugang zu sicheren Einrichtungen direkt vom All aus ermöglichen.",
+    "en": "These electronic devices are commonly used as long-range digital passkeys, allowing access to secure facilities directly from space.",
+    "es": "Estos dispositivos electrónicos suelen utilizarse como claves de acceso digitales de largo alcance para entrar en instalaciones seguras directamente desde el espacio.",
+    "fr": "Ces dispositifs électroniques sont généralement utilisés comme cartes d'accès numériques longue distance, permettant ainsi l'accès aux installations sécurisées directement depuis l'espace.",
+    "ja": "通常長距離のデジタルマスターキーとして使用される電子機器。セキュリティで保護された施設に宙域から直接アクセスできる。",
+    "ko": "장거리 전용 디지털 출입키로 사용 시 직접적으로 안전 시설에 접속할 수 있습니다.",
+    "ru": "Эти электронные устройства обычно используются в качестве цифровых ключей, обеспечивающих доступ к защищенным сооружениями напрямую из космоса.",
+    "zh": "这个电子设备通常是作为远距离遥控的数字通行密匙，允许使用者直接从太空中进入保密的设施区域。"
+  },
+  "groupID": 314,
+  "iconID": 2885,
+  "mass": 1.0,
   "name": {
     "de": "Archives Passkey",
     "en": "Archives Passkey",
@@ -10,5 +22,7 @@
     "ru": "Archives Passkey",
     "zh": "档案馆的通行密匙"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

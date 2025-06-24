@@ -1,5 +1,18 @@
 {
-  "typeID": 3432,
+  "basePrice": 100000.0,
+  "description": {
+    "de": "Fertigkeit zur Installation von elektronischen Verbesserungen, wie zum Beispiel Signal Amplifiers, Co-Processors oder Backup Sensor Arrays.\r\n\r\n5% Reduktion des CPU-Bedarfs aller Module, welche auf dem Skill Electronics Upgrades basieren, je Skillstufe.",
+    "en": "Skill at installing electronic upgrades, such as signal amplifiers, co-processors and backup sensor arrays. 5% reduction of CPU needs for all modules requiring Electronics Upgrades per skill level.",
+    "es": "Habilidad para instalar mejoras electrónicas, como amplificadores de señal, coprocesadores y redes de sensores de apoyo. 5 % de reducción de las necesidades de CPU en todos los módulos que requieran mejoras electrónicas por nivel de habilidad.",
+    "fr": "Compétence liée à l'installation des améliorations électroniques, par exemple les amplificateurs de signal, les coprocesseurs et les modules de détection de secours. Réduit de 5 % par niveau de compétence les besoins CPU de tous les modules nécessitant les améliorations électroniques.",
+    "ja": "エレクトロニクス強化をインストールするためのスキル。シグナル増幅器、コプロセッサー、バックアップセンサーアレイなどが該当する。エレクトロニクス強化が必要な全てのモジュールのCPU使用量がスキルレベル上昇ごとに5%減少する。",
+    "ko": "신호 증폭기, 보조 CPU, 예비 센서 시설과 같은 전자장치를 설치하기 위한 스킬입니다. 매 레벨마다 전자기기 업그레이드를 요구하는 모든 모듈의 CPU 사용량 5% 감소",
+    "ru": "Навык установки модулей для электронных систем, таких как усилители сигнала, сопроцессоры и резервные сенсорные системы. За каждую степень освоения навыка: на 5% сокращается потребность модулей, для эксплуатации которых требуется этот навык, в мощностях ЦПУ.",
+    "zh": "安装诸如信号放大器、协处理器和感应器备用阵列等电子升级装备的技能。每升一级，感应器升级装备的CPU需求减少5%。"
+  },
+  "groupID": 1216,
+  "iconID": 33,
+  "marketGroupID": 368,
   "name": {
     "de": "Electronics Upgrades",
     "en": "Electronics Upgrades",
@@ -10,5 +23,7 @@
     "ru": "Улучшения бортовой электроники",
     "zh": "电子升级研究"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 364773,
+  "basePrice": 567000.0,
+  "description": {
+    "de": "Grundlegende Kenntnisse über aktive Modulhandhabung.\n\n+5% auf die aktive Laufzeit aller aktiver Module pro Skillstufe.",
+    "en": "Basic understanding of active module management.\r\n\r\n+5% to active duration of all active modules per level.",
+    "es": "Conocimiento básico de gestión de módulos activos.\n\n+5% a la duración activa de todos los módulos activos por nivel.",
+    "fr": "Notions de base en utilisation de module actif.\n\n+5 % à la durée active de tous les modules actifs par niveau.",
+    "it": "Comprensione base della gestione del modulo attivo.\n\n+5% alla durata attiva di tutti i moduli attivi per livello.",
+    "ja": "アクティブモジュール管理に関する基本的な知識。\n\nレベル上昇ごとに、すべてのアクティブモジュールの有効期間が5%増加 する。",
+    "ko": "액티브 모듈 관리에 대한 기본적인 이해를 습득합니다.<br><br>매 레벨마다 모든 액티브 모듈의 활성화 지속시간 5% 증가",
+    "ru": "Базовое знание управления активным модулем системы\n\n+5% к длительности активного состояния всех модулей на каждый уровень.",
+    "zh": "管理主动装备的基本知识。每升一级，所有主动装备的持续时长增加5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Motorkernkalibrierung",
     "en": "Engine Core Calibration",
@@ -11,5 +23,7 @@
     "ru": "Калибровка ядра двигателя",
     "zh": "引擎核心校准"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

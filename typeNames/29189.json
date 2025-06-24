@@ -1,5 +1,18 @@
 {
-  "typeID": 29189,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieses Subraum-Signalfeuer wird durch einen leistungsstarken Schildgenerator geschützt.",
+    "en": "This subspace beacon is protected by a powerful shield generator.",
+    "es": "Baliza subespacial protegida por un potente generador de escudo.",
+    "fr": "Cette balise subspatiale est protégée par un puissant générateur de bouclier.",
+    "ja": "このサブスペースビーコンは、強力なシールドジェネレータで守られている。",
+    "ko": "강력한 실드로 보호되고 있는 아공간 비컨입니다.",
+    "ru": "Это подпространственный маяк защищен мощным генератором поля.",
+    "zh": "这个亚空间信标有非常强大的护盾发生器保护着。"
+  },
+  "graphicID": 1685,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Subspace Beacon",
     "en": "Subspace Beacon",
@@ -10,5 +23,9 @@
     "ru": "Subspace Beacon",
     "zh": "亚空间信标"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 330.0,
+  "sofFactionName": "genericbase",
   "volume": 100000000.0
 }

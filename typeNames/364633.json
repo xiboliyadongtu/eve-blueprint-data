@@ -1,5 +1,17 @@
 {
-  "typeID": 364633,
+  "basePrice": 48000.0,
+  "description": {
+    "de": "Skill zur Veränderung von Fahrzeugsystemen.\n\nSchaltet die Fähigkeit zur Bedienung von Fahrzeugmodulen frei",
+    "en": "Skill at altering vehicle systems.\r\n\r\nUnlocks the ability to use vehicle modules.",
+    "es": "Habilidad de manejo de sistemas de vehículos.\n\nDesbloquea la capacidad de usar módulos de vehículo.",
+    "fr": "Compétence permettant d'utiliser les systèmes de véhicule.\n\nDéverrouille la capacité d'utiliser les modules de véhicule.",
+    "it": "Abilità nell'alterare i sistemi dei veicoli.\n\nSblocca l'abilità nell'utilizzo dei moduli per veicoli.",
+    "ja": "車両を変更するスキル。\n\n車両モジュールが使用可能になる。",
+    "ko": "차량용 시스템 개조를 위한 스킬입니다. <br><br>차량용 모듈을 사용할 수 있습니다.",
+    "ru": "Навык изменяющихся систем транспорта.\n\nПозволяет использовать модули транспорта.",
+    "zh": "更改载具系统的技能。解锁使用载具装备的能力。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Fahrzeugupgrades",
     "en": "Vehicle Upgrades",
@@ -11,5 +23,6 @@
     "ru": "Пакеты модернизации транспортного средства",
     "zh": "载具升级件"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

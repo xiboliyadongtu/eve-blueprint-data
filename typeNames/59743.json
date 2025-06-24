@@ -1,5 +1,16 @@
 {
-  "typeID": 59743,
+  "description": {
+    "de": "Dieses zerstörte Minmatar-Schlachtschiff wurde als Monument des Sieges der Minmatar über die Amarr bei Fort Kavad erhalten.",
+    "en": "This wrecked Minmatar battleship has been preserved as a monument to the Minmatar victory over the Amarr at Fort Kavad.",
+    "es": "Este acorazado minmatariano ha sido preservado como monumento a la victoria minmatariana sobre Amarr en Fuerte Kavad.",
+    "fr": "Cette épave de cuirassé minmatar a été conservée comme monument commémorant la victoire des Minmatar sur les Amarr à Fort Kavad.",
+    "ja": "このミンマター戦艦の残骸は、フォートカヴァドにおいてミンマターがアマーに対して収めた勝利を記念するモニュメントとして保存されてきた。",
+    "ko": "민마타 공화국이 카바드 요새에서의 승리를 기념하기 위해 보존한 민마타 배틀쉽입니다.",
+    "ru": "Эти обломки минматарского линкора сохранились как свидетельство победы минматаров над амаррцами в Битве за Форт Кавад.",
+    "zh": "这艘米玛塔尔战列舰的残骸被保存下来，作为米玛塔尔在卡瓦要塞面对艾玛人取得胜利的纪念碑。"
+  },
+  "graphicID": 21373,
+  "groupID": 226,
   "name": {
     "de": "Preserved Minmatar Battleship Wreck",
     "en": "Preserved Minmatar Battleship Wreck",
@@ -10,5 +21,8 @@
     "ru": "Preserved Minmatar Battleship Wreck",
     "zh": "保存的米玛塔尔战列舰残骸"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 200.0,
+  "sofFactionName": "minmatarbase"
 }

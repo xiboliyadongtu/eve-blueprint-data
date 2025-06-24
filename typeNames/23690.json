@@ -1,5 +1,17 @@
 {
-  "typeID": 23690,
+  "description": {
+    "de": "Das ist der Navigationschip einer beschädigten Drohne. Wenn man ihn anschließt kann man sehen, dass das nächste Ziel Parchanier VI - Mond 5 gewesen wäre.",
+    "en": "The Navigation Chip of the damaged drone. Hooking it up reveals the next destination the drone was supposed to go to: Parchanier VI - Moon 5.",
+    "es": "Chip de navegación del dron dañado. Al conectarlo, revela el siguiente destino al que el dron debía ir: Parchanier VI — Luna 5.",
+    "fr": "Puce de navigation du drone endommagé. Il suffit de la reconnecter pour connaître la destination vers laquelle le drone était censé se diriger : Parchanier VI - Lune 5.",
+    "ja": "破損したドローンのナビゲーションチップ。解析すると、目的地として設定されていた場所が分かる。パーチェニアVI―衛星5だ。",
+    "ko": "파괴된 드론으로부터 수거한 내비게이션 칩입니다. 작동시킨 결과 드론의 다음 목적지가 밝혀졌습니다: 파르샤니에르 VI - 위성 5",
+    "ru": "Навигационный чип поврежденного дрона. Данные о следующей предполагаемой точке прибытия: Parchanier VI - Луна 5.",
+    "zh": "被破坏的无人机的导航芯片。将其通电后显示，该无人机的下一个目的地是：帕查尼尔VI—卫星5。"
+  },
+  "groupID": 526,
+  "iconID": 2885,
+  "mass": 1.0,
   "name": {
     "de": "Raid Drone Navigation Chip",
     "en": "Raid Drone Navigation Chip",
@@ -10,5 +22,7 @@
     "ru": "Raid Drone Navigation Chip",
     "zh": "奇袭无人机导航芯片"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

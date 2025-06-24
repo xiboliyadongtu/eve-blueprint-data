@@ -1,5 +1,19 @@
 {
-  "typeID": 18676,
+  "basePrice": 161280.0,
+  "description": {
+    "de": "Erhöht bei Aktivierung die Maximalgeschwindigkeit des Schiffs. Der Schub, der das Schiff vorantreibt und der daraus resultierende maximale Geschwindigkeitsgewinn wird durch die Masse des Schiffs begrenzt, das dieses Modul verwendet.\n\n\n\nHinweis: Dieses Modul ist für Schlachtschiffe gedacht.",
+    "en": "Gives a boost to the maximum velocity of the ship when activated. The thrust that boosts the ship, and the corresponding maximum velocity bonus, are limited by the mass of the ship that uses this module.\r\n\r\nNote: Usually fit on Battleships.",
+    "es": "Potencia la velocidad máxima al activarse. El impulso propulsor y la bonificación de velocidad máxima correspondiente, están limitadas por la masa de la nave que usa este módulo.\n\nAviso: Suele equiparse en acorazados.",
+    "fr": "Accroît la vitesse maximale du vaisseau une fois activé. La force de la poussée et le bonus de vitesse maximale du module sont limités par la masse du vaisseau équipé.\n\n\n\nNote : communément équipé sur les cuirassés.",
+    "ja": "有効化すると船の最高速度が向上。推進力の向上により得られる最高速度のボーナスは、このモジュールを使用する艦の質量により制限されます。注： 通常は戦艦に装着される。",
+    "ko": "활성화 시 함선의 최대 속도가 증가합니다. 함선 중량에 따라 추진력 및 최대 속도 보너스가 제한됩니다. <br><br>참고: 주로 배틀쉽에 장착이 가능합니다.",
+    "ru": "При включении повышает максимальную скорость корабля. Величина прироста скорости зависит не только от мощности модуля, но и от массы корабля, на котором установлен этот модуль.\n\n\n\nПримечание: обычно устанавливается на линкоры",
+    "zh": "激活后将增加舰船的最大速度。推进舰船的动力和相应的最大速度加成均受使用该装备的舰船重量所限。\n\n\n\n注：通常装配在战列舰上。"
+  },
+  "groupID": 46,
+  "iconID": 96,
+  "marketGroupID": 542,
+  "metaGroupID": 6,
   "name": {
     "de": "Gist X-Type 100MN Afterburner",
     "en": "Gist X-Type 100MN Afterburner",
@@ -10,5 +24,9 @@
     "ru": "Gist X-Type 100MN Afterburner",
     "zh": "吉斯特100MN加力燃烧器 X型"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "variationParentTypeID": 12066,
   "volume": 5.0
 }

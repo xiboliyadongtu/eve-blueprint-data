@@ -1,5 +1,19 @@
 {
-  "typeID": 73250,
+  "basePrice": 100000.0,
+  "description": {
+    "de": "Diese Token werden an Kapselpiloten vergeben, die ihren Beitrag zur Sicherheit und zum Wohlstand des Imperiums der Amarr leisten. Sie können auf dem Markt der meisten Amarr-Stationen gegen ISK eingetauscht werden.",
+    "en": "These tokens are given to capsuleers who have contributed to the security and prosperity of the Amarr Empire. They can be traded on the market for ISK in most Amarr stations.",
+    "es": "Estas fichas se entregan a los capsulistas que han contribuido a la seguridad y la prosperidad del Imperio Amarr. Se pueden intercambiar en el mercado por ISK en la mayoría de las estaciones amarrianas.",
+    "fr": "Ces jetons sont donnés aux capsuliers qui ont contribué à la sécurité et à la prospérité de l'Empire amarr. Ils peuvent être échangés contre des ISK sur le marché de la plupart des stations amarr.",
+    "ja": "これらのトークンは、アマー帝国の安全保障と繁栄に貢献したカプセラに対して送られている。トークンはほとんどのアマーステーションのマーケットでISKと引き換えることができる。",
+    "ko": "아마르 제국의 안보와 번영에 기여한 캡슐리어에게 수여되는 토큰입니다. 아마르 정거장의 거래소에서 ISK로 교환할 수 있습니다.",
+    "ru": "Такие жетоны вручаются капсулёрам, которые внесли свой вклад в обеспечение безопасности и благополучия Амаррской Империи. Их можно продать за ISK в торговой системе большинства амаррских станций.",
+    "zh": "这些凭据奖励给保障艾玛帝国安全、促进繁荣发展的克隆飞行员。它们可以在大多数艾玛空间站中出售换成星币。"
+  },
+  "groupID": 314,
+  "iconID": 24678,
+  "marketGroupID": 754,
+  "mass": 1.0,
   "name": {
     "de": "Amarr-Loyalitätsmarke",
     "en": "Amarr Loyalty Token",
@@ -10,5 +24,7 @@
     "ru": "Амаррский наградной жетон",
     "zh": "艾玛忠诚点凭证"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.001
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 58906,
+  "description": {
+    "de": "Sobald diese Struktur stationiert wird und der automatische Aktivierungsprozess abgeschlossen ist, fungiert sie als Anziehungssignalfeuer, das von den Flottenmitgliedern des Besitzers während der Stationierung verwendet werden kann.",
+    "en": "This structure, once deployed and having completed its automatic activation process, will act as a cynosural beacon that can be used by fleet members of the owner at the time of deployment.",
+    "es": "Esta estructura, una vez desplegada y tras haber completado su proceso de activación automática, actuará como una baliza cinosural que podrá ser utilizada por los miembros de la flota del propietario en el momento del despliegue.",
+    "fr": "Cette structure, une fois déployée et son processus d'activation automatique terminé, fonctionnera comme une balise cynosurale pouvant être utilisée par les membres de la flotte de son propriétaire au moment de son déploiement.",
+    "ja": "本ストラクチャは、一度配置し自動アクティベーションの処理を完了すると、サイノシュラルビーコンとして働く。所有者のフリートメンバーを配備するときに使用できる。",
+    "ko": "이 구조물은 전개 후 활성화 과정을 마칠 경우 함대원이 사용할 수 있는 사이노슈럴 비컨으로 기능합니다.",
+    "ru": "После завершения установки и автоматической активации это сооружение будет служить приводным маяком, который члены флота владельца маяка смогут использовать во время занятия позиций.",
+    "zh": "这个建筑被锚定并自动完成启动程序后，将作为诱导信标使用，供部署者的舰队成员使用。"
+  },
+  "graphicID": 24934,
+  "groupID": 4093,
+  "mass": 10000.0,
   "name": {
     "de": "Highsec Authorized Mobile Cynosural Beacon",
     "en": "Highsec Authorized Mobile Cynosural Beacon",
@@ -10,5 +22,9 @@
     "ru": "Highsec Authorized Mobile Cynosural Beacon",
     "zh": "高安特许移动诱导信标"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 100.0,
+  "sofFactionName": "genericbase",
   "volume": 400.0
 }

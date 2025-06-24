@@ -1,5 +1,17 @@
 {
-  "typeID": 63163,
+  "description": {
+    "de": "Diese Kapsel sieht so aus wie diejenigen, die Kapselpiloten beherbergen und schützen, während sie ihre Raumschiffe steuern. Allerdings sendet sie Transponder-Codes der Guristas anstelle von Identifikationscodes für Kapselpiloten und eine nähere Überprüfung lässt darauf schließen, dass der äußere Rumpf golden angestrichen wurde.",
+    "en": "This capsule resembles the ones that house and protect capsuleers while they control their starships. However it is broadcasting Guristas transponder codes instead of capsuleer identification codes, and close inspection suggests that its exterior hull has been painted gold.",
+    "es": "Esta cápsula se asemeja a las que alojan y protegen a los capsulistas mientras gobiernan sus naves. Sin embargo, transmite códigos de transpondedor de los Guristas en lugar de códigos de identificación de capsulistas. Tras una inspección más detallada, parece que el casco exterior se ha pintado de color oro.",
+    "fr": "Cette capsule ressemble à celles qui abritent et protègent les capsuliers tandis qu'ils contrôlent leurs vaisseaux. Cependant, elle diffuse des codes de transpondeur guristas au lieu de codes d'identification de capsulier et un coup d'œil de plus près indique que sa coque extérieure a été peinte en doré.",
+    "ja": "このカプセルは、カプセラが宇宙船を操縦している間、収容・保護するためのカプセルに似ている。しかし、カプセルの識別コードの代わりにガリスタスのトランスポンダーコードを放送しており、よく見ると外殻が金色に塗られていることがわかる。",
+    "ko": "해당 캡슐은 캡슐리어들이 함선을 운항할 때 보금자리로 사용하는 캡슐과 유사한 형태를 띄고 있습니다. 캡슐리어 식별 신호 대신 구리스타스 송수신 코드를 송출하고 있으며, 희한하게도 외부 장갑이 황금색으로 칠해져 있습니다.",
+    "ru": "Эта капсула внешне напоминает те, что защищают капсулёров, пока они управляют своими кораблями. Однако вместо идентификационных кодов капсулёра она транслирует коды для передатчика «Гуристас», а при ближайшем рассмотрении легко заметить, что её внешний корпус выкрашен в золотистый цвет.",
+    "zh": "这个太空舱和克隆飞行员在驾驶舰船时容身的那种太空舱类似，不过它使用了古斯塔斯的收发器电码，而非克隆飞行员的识别码，近距观察显示它的外壳被涂成了金色。"
+  },
+  "graphicID": 20307,
+  "groupID": 4053,
+  "mass": 32000.0,
   "name": {
     "de": "Hijacked Golden Capsule",
     "en": "Hijacked Golden Capsule",
@@ -10,5 +22,10 @@
     "ru": "Hijacked Golden Capsule",
     "zh": "被劫持的金色太空舱"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 2.0,
+  "sofFactionName": "odyssey",
+  "soundID": 20080,
   "volume": 1000.0
 }

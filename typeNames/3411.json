@@ -1,5 +1,18 @@
 {
-  "typeID": 3411,
+  "basePrice": 100000.0,
+  "description": {
+    "de": "Die Wissenschaft der Schnittstellenverbindung von biologischen und maschinellen Komponenten. Ermöglicht die Verwendung von \"Cybernetic\"-Implantaten.",
+    "en": "The science of interfacing biological and machine components. Allows the use of cybernetic implants.",
+    "es": "La ciencia de la interconexión entre componentes biológicos y máquinas. Permite el uso de implantes cibernéticos.",
+    "fr": "Science étudiant le couplage entre les composants mécaniques et biologiques. Elle permet l'utilisation d'implants cybernétiques.",
+    "ja": "生物部品と機械部品をインターフェイスで連結するためのサイエンス。サイバネティックインプラントの使用が可能になる。",
+    "ko": "생물과 기계부품의 접속을 다루는 과학 서적입니다. 사이버네틱 임플란트를 위한 스킬입니다.",
+    "ru": "Наука о взаимодействии биологических и механических компонентов. Позволяет использовать кибернетические импланты.",
+    "zh": "协调生物和机械组件的技能。掌握后可以使用脑控植入体。"
+  },
+  "groupID": 1220,
+  "iconID": 33,
+  "marketGroupID": 1746,
   "name": {
     "de": "Cybernetics",
     "en": "Cybernetics",
@@ -10,5 +23,7 @@
     "ru": "Кибернетика",
     "zh": "控制论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

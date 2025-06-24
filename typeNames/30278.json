@@ -1,5 +1,18 @@
 {
-  "typeID": 30278,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Seit Jahrhunderten ist das Herz dieses Talocan-Außenpostens bereits verlassen und in einem bedauernswerten Zustand, doch die Kammern und Flure zeugen von einem einst umtriebigen Alltagsleben, wenn auch unter spartanischen Bedingungen. Fortgeschrittene Technologien treffen auf laienhafte Reparaturversuche und Flickschusterei. Teilweise ist die Technik veraltet und überaus simpel ausgelegt. Das weckt Erinnerungen an längst vergangene Kulturen und erscheint dennoch irgendwie vertraut. Drinnen herrscht größtenteils Chaos, und die äußere Hülle ist an vielen Stellen nicht mehr intakt; es fehlt demnach nicht viel, und das Herz dieses Außenpostens fällt der völligen Zerstörung anheim.",
+    "en": "Centuries of emptiness have left this Talocan outpost's central hub in disarray, but the chambers and corridors inside portray a busy (if very spartan) existence. Advanced technology mingles with rustic repairs and patchwork assemblages. Some of the technology is ancient and very rudimentary in design, harkening back to cultures long gone, yet with hints of familiarity. Much of the interior is in shambles, and the outer hull is breached in several areas, leaving the outpost core teetering on the edge of total destruction.",
+    "es": "Siglos de vacío han dejado hecho un desastre el nodo central de este puesto avanzado talocano, pero las dependencias y los pasillos del interior retratan una existencia ajetreada (aunque muy espartana). La tecnología avanzada se mezcla con reparaciones rústicas y ensamblajes a retazos. Parte de la tecnología es antigua y de diseño muy rudimentario, remontándose a culturas ya desaparecidas, aunque con toques de familiaridad. Gran parte del interior está en ruinas y el casco exterior tiene varias brechas, lo que deja el núcleo del puesto avanzado tambaleándose al borde de la destrucción total.",
+    "fr": "Des siècles d'abandon ont laissé le noyau de cet avant-poste talocan en désordre, même si les chambres et les couloirs laissent supposer une existence riche (quoique sommaire). La technologie avancée vient ici se mêler aux réparations rustiques et autres assemblages chaotiques. Une partie des technologies utilisées est ancienne et très rudimentaire, faisant écho aux cultures disparues depuis longtemps, bien que quelque peu familières. La majeure partie de l'intérieur est en désordre, et sa coque extérieure fissurée à plusieurs endroits, laissant ainsi l'avant-poste dans un état de délabrement avancé.",
+    "ja": "何世紀にもわたって無人だったためタロカンのアウトポストの中央部は雑然としているが、内部の小部屋と通路が活気がある（しかし質素な）雰囲気を作り出している。高度なテクノロジーが、日曜大工的な修理やつぎはぎをする質素さと融合している。その技術の一部は古く、非常に原始的な設計である。遠い昔に衰退した文明を思い出させるが、現在に通じるものも感じさせる。内部がほとんど崩れ、外殻船体にはいくつもの亀裂が走っているこのアウトポストの中心部分は、完全な崩壊に向かってゆっくりと進んでいる。",
+    "ko": "수천년 간 비어 있던 탓인지 탈로칸 전초기지의 중앙부는 폐허가 되었습니다. 그러나 복도 및 거주 공간에서는 분주한 기색이 느껴집니다. 최첨단 장비 사이로 어설프게 이어 붙인 수리 흔적이 돋보입니다. 낡은 외관으로 보아 몇몇 장비는 사라진 고대 문명에서 비롯되었을 것으로 예상되며, 알게 모르게 익숙함이 느껴집니다. 내부는 폐허나 다름없는 상태이며, 외부는 이곳저곳 금이 가고 파손되어 파괴되기 일보 직전의 상태입니다.",
+    "ru": "Находясь без присмотра на протяжении веков, центральный узел Talocan пришел в запустение, однако камеры и коридоры внутри него заполнены разнообразным оборудованием. Высокотехнологичное оборудование носит следы грубого ремонта и импровизированных усовершенствований. Некоторые технологии выглядят весьма древними и очень рудиментарными по дизайну, напоминая о давно ушедших культурах, однако местами они кажутся очень знакомыми. Большая часть интерьера разрушена, внешний корпус пробит в нескольких местах, а центральная часть аванпоста находится на грани полного разрушения.",
+    "zh": "数百年的空寂让这座塔洛迦哨站的中央枢纽变得面目全非，只剩下内部的隔舱和廊道还保持着当年的原貌。锈蚀的修复段掺杂着高级科技的痕迹，一些科技看上去十分原始。它们讲述着古文明的故事，但却又有莫名的亲近感。它的大部分内部设置都已经损坏，外壳也有错处破损，只剩下哨站的核心勉强维持着，等待最后的崩毁。"
+  },
+  "graphicID": 3522,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Decrepit Talocan Outpost Core",
     "en": "Decrepit Talocan Outpost Core",
@@ -10,5 +23,9 @@
     "ru": "Decrepit Talocan Outpost Core",
     "zh": "破旧的塔洛迦哨站核心"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 5794.0,
+  "sofFactionName": "talocanbase",
   "volume": 100000000.0
 }

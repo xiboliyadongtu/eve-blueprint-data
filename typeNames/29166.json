@@ -1,5 +1,18 @@
 {
-  "typeID": 29166,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese Struktur ist eine taktische Versorgungsstation des Imperiums Amarr. Sie fungiert als logistisches Depot für militärische Operationen im ganzen System.",
+    "en": "This structure is a tactical supply station for the Amarr Empire. It acts as a logistical depot for military operations throughout the system.",
+    "es": "Esta estructura es una estación de abastecimiento táctica del Imperio Amarr. Sirve de base logística para operaciones militares por todo el sistema.",
+    "fr": "Cette structure est une station d'approvisionnement tactique pour le compte de l'Empire amarr. Elle fait office de dépôt logistique pour les opérations militaires dans tout le système.",
+    "ja": "アマー帝国の戦術サプライステーションとして使われる建造物。システム全体にわたって軍事作戦における補給所として機能する。",
+    "ko": "아마르 제국의 전술 보급소입니다. 해당 항성계에서 벌어지는 군사작전의 보급을 담당하고 있습니다.",
+    "ru": "Это тактическая станция снабжения Империи Amarr. Она играет роль тылового склада для военных операций по всей системе.",
+    "zh": "这个设施负责为艾玛帝国进行战术供给。它的主要职能是在当地星系里为军事行动提供后勤服务。"
+  },
+  "graphicID": 2422,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Amarr Tactical Supply Station",
     "en": "Amarr Tactical Supply Station",
@@ -10,5 +23,10 @@
     "ru": "Amarr Tactical Supply Station",
     "zh": "艾玛战术供给空间站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 705.0,
+  "sofFactionName": "amarrbase",
   "volume": 100000000.0
 }

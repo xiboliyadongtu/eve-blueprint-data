@@ -1,5 +1,18 @@
 {
-  "typeID": 26777,
+  "basePrice": 850.0,
+  "description": {
+    "de": "Erreger einer ansteckenden Krankheit. Das Virus ist ein Parasit mit einer nicht zellgebundenen Struktur und besteht weitestgehend aus einer Protein-umhüllten Nukleinsäure.",
+    "en": "The causative agent of an infectious disease, the viral agent is a parasite with a noncellular structure composed mainly of nucleic acid within a protein coat.",
+    "es": "El agente viral, causante de una enfermedad infecciosa, es un parásito con una estructura no celular compuesta principalmente de ácido nucleico dentro de un revestimiento proteico.",
+    "fr": "Agent provoquant une maladie infectieuse, l'agent viral est un parasite à la structure non-cellulaire composée principalement d'une couche de protéines contenant de l'acide nucléique.",
+    "ja": "感染症の病原体であるウイルス性因子。主にタンパク質の膜に包まれた核酸でできている。",
+    "ko": "감염병 병원체입니다. 해당 병원체는 비세포성 기생 물질로 핵산 및 단백질 외피로 구성되어 있습니다.",
+    "ru": "Возбудитель инфекционной болезни, этот вирус является паразитом с неклеточной структурой, состоящий в основном из нуклеиновой кислоты в белковой оболочке.",
+    "zh": "传染病的致病药剂，这种病毒载体是一种无细胞核的寄生虫，结构基本就是由蛋白外皮包裹着的核酸组织。"
+  },
+  "groupID": 284,
+  "iconID": 1199,
+  "mass": 1000000.0,
   "name": {
     "de": "Barrels Of Viral Agent",
     "en": "Barrels Of Viral Agent",
@@ -10,5 +23,7 @@
     "ru": "Barrels Of Viral Agent",
     "zh": "传染病毒媒质储存罐"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 5000.0
 }

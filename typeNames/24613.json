@@ -1,5 +1,18 @@
 {
-  "typeID": 24613,
+  "basePrice": 20000000.0,
+  "description": {
+    "de": "5% Bonus auf die Größe des Jägerhangars je Skillstufe.",
+    "en": "5% bonus to Fighter Hangar size per level.",
+    "es": "5 % de bonificación al tamaño del hangar de cazas por nivel.",
+    "fr": "Augmente de 5 % par niveau la taille de la soute des chasseurs.",
+    "ja": "レベル上昇ごとに戦闘機のハンガーサイズが5%増加。",
+    "ko": "매 레벨마다 파이터 격납고 크기 5% 증가",
+    "ru": "За каждую степень освоения навыка: на 5% увеличивается объём ангара для истребителей.",
+    "zh": "每升一级，铁骑舰载机挂舱容量增加5%。"
+  },
+  "groupID": 273,
+  "iconID": 33,
+  "marketGroupID": 366,
   "name": {
     "de": "Fighter Hangar Management",
     "en": "Fighter Hangar Management",
@@ -10,5 +23,7 @@
     "ru": "Управление ангаром для истребителей",
     "zh": "铁骑舰载机机库管理"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 30813,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Die Überreste eines einst mächtigen Forschungsschiffes, von dem jetzt nur noch verschrammtes Metall und verkohlte Einzelteile übrig sind.",
+    "en": "The remains of a once mighty exploration vessel, now reduced to scarred metal and blackened fragments.",
+    "es": "Los restos de lo que fue una poderosa nave de exploración, ahora reducidos a metal dañado y fragmentos ennegrecidos.",
+    "fr": "Les restes d'un vaisseau d'exploration autrefois puissant, qui se résument aujourd'hui à des fragments de métal abîmés.",
+    "ja": "かつての巨大な探検船の残骸は、今や飛散した金属と黒ずんだ破片になっている。",
+    "ko": "한때는 강력한 탐사선이었으나 현재는 검게 그을린 잔해만이 남아있습니다.",
+    "ru": "Останки когда-то мощного исследовательского корабля. Теперь от него остался лишь искореженный металл и почерневшие фрагменты.",
+    "zh": "这艘原本威猛的探险船现在就剩下这堆废铁了。"
+  },
+  "graphicID": 1021,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Wrecked Ship",
     "en": "Wrecked Ship",
@@ -10,5 +23,9 @@
     "ru": "Wrecked Ship",
     "zh": "失事的舰船"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 4023.0,
+  "sofFactionName": "debris",
   "volume": 27500.0
 }

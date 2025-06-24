@@ -1,5 +1,16 @@
 {
-  "typeID": 29157,
+  "description": {
+    "de": "Diese Revelation hat schon bessere Zeiten gesehen - vor allem jene, zu denen es noch heil war.",
+    "en": "This Revelation has seen better days, generally the ones in which it was still in one piece.",
+    "es": "Esta Revelation ha visto días mejores, como los días en los que todavía estaba entera.",
+    "fr": "Ce Revelation a connu des jours meilleurs, quand il était en seul morceau par exemple.",
+    "ja": "このレベレーションが破壊される前は、今よりも良い時代だったのだろう。",
+    "ko": "난파된 레벨레이션으로 온전했을 당시의 모습은 연상되지 않습니다.",
+    "ru": "Этот корабль класса Revelation знавал лучшие времена, когда он еще не был просто грудой обломков.",
+    "zh": "这艘神示级战舰曾经几多风光，但是现在已经支离破碎了。"
+  },
+  "graphicID": 3098,
+  "groupID": 226,
   "name": {
     "de": "Schwer beschädigte Revelation",
     "en": "Wrecked Revelation",
@@ -10,5 +21,9 @@
     "ru": "Wrecked Revelation",
     "zh": "神示级残骸"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 1000.0,
+  "sofFactionName": "amarrbase"
 }

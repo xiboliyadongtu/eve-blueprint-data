@@ -1,5 +1,15 @@
 {
-  "typeID": 1675,
+  "description": {
+    "de": "+5% auf die Skilltrainingszeit für Skills mit dem Primärattribut Gedächtnis.",
+    "en": "+5% skill training time for skills with memory as the primary attribute.",
+    "es": "+5 % al tiempo de desarrollo de habilidades con la memoria como atributo principal.",
+    "fr": "Augmente de 5 % le temps de formation des compétences ayant la mémoire pour attribut principal.",
+    "ja": "第一特性として記憶力を必要とする全てのスキルのトレーニング時間+5%。",
+    "ko": "기억력이 주요 능력치로 요구되는 스킬 훈련 시간 5% 감소",
+    "ru": "+5% ко времени изучения умений, опирающихся на Память как на первичную характеристику.",
+    "zh": "以记忆力为主要属性的技能训练时间增加5%。"
+  },
+  "groupID": 199,
   "name": {
     "de": "Bounty Hunter Bonus",
     "en": "Bounty Hunter Bonus",
@@ -10,5 +20,6 @@
     "ru": "Bounty Hunter Bonus",
     "zh": "赏金猎人加成"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

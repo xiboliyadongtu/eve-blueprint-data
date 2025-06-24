@@ -1,5 +1,16 @@
 {
-  "typeID": 28227,
+  "description": {
+    "de": "Bergbau-Außenposten",
+    "en": "Mining Outpost",
+    "es": "Puesto avanzado de minería",
+    "fr": "Avant-poste d'extraction minière",
+    "ja": "採掘基地",
+    "ko": "채광기지",
+    "ru": "Станция добычи",
+    "zh": "采矿哨站"
+  },
+  "graphicID": 1717,
+  "groupID": 319,
   "name": {
     "de": "Mining Outpost_event",
     "en": "Mining Outpost_event",
@@ -10,5 +21,9 @@
     "ru": "Mining Outpost_event",
     "zh": "矿冶站_事件"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 9213.0,
+  "sofFactionName": "genericindustrial",
   "volume": 1.0
 }

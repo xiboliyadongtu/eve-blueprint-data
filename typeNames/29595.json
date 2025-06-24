@@ -1,5 +1,16 @@
 {
-  "typeID": 29595,
+  "description": {
+    "de": "Ein Aufzug.",
+    "en": "An elevator.",
+    "es": "Un ascensor.",
+    "fr": "Un ascenseur.",
+    "ja": "エレベーター。",
+    "ko": "엘리베이터입니다.",
+    "ru": "Лифт.",
+    "zh": "一部升降机。"
+  },
+  "graphicID": 2497,
+  "groupID": 226,
   "name": {
     "de": "Fortified Serpentis Elevator",
     "en": "Fortified Serpentis Elevator",
@@ -10,5 +21,9 @@
     "ru": "Fortified Serpentis Elevator",
     "zh": "强化的天蛇集团升降机"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 732.0,
+  "sofFactionName": "serpentis"
 }

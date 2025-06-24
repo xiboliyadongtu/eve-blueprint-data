@@ -1,5 +1,7 @@
 {
-  "typeID": 56061,
+  "graphicID": 1217,
+  "groupID": 920,
+  "mass": 1.0,
   "name": {
     "de": "Strong Metaliminal Gamma Ray Storm",
     "en": "Strong Metaliminal Gamma Ray Storm",
@@ -9,6 +11,96 @@
     "ko": "상급 메타경계성 감마선 폭풍",
     "ru": "Strong Metaliminal Gamma Ray Storm",
     "zh": "强金属极限伽玛射线风暴"
+  },
+  "portionSize": 250,
+  "published": true,
+  "sofFactionName": "genericbase",
+  "traits": {
+    "iconID": 21904,
+    "miscBonuses": [
+      {
+        "bonus": 25.0,
+        "bonusText": {
+          "de": "Reduktion der Explosionsresistenz von Schiffen",
+          "en": "reduction in ship explosive resistances",
+          "es": "de reducción de las resistencias explosivas de la nave.",
+          "fr": "de réduction des résistances aux explosions du vaisseau",
+          "ja": "艦船のエクスプローシブレジスタンスが減少",
+          "ko": "폭발 저항력 감소",
+          "ru": "уменьшение сопротивляемости корабля взрывному урону",
+          "zh": "舰船爆炸抗性降低"
+        },
+        "importance": 1,
+        "isPositive": false,
+        "unitID": 105
+      },
+      {
+        "bonus": 25.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der Schilde von Schiffen",
+          "en": "bonus to ship shield hitpoints",
+          "es": "de bonificación a los puntos de vida del escudo de la nave.",
+          "fr": "de bonus aux points de vie du bouclier du vaisseau",
+          "ja": "艦船のシールドHPが増加",
+          "ko": "실드량 증가",
+          "ru": "бонус к запасу прочности щитов корабля",
+          "zh": "舰船护盾值加成"
+        },
+        "importance": 2,
+        "isPositive": true,
+        "unitID": 105
+      },
+      {
+        "bonus": 25.0,
+        "bonusText": {
+          "de": "Bonus auf die Energiespeicherkapazität von Schiffen",
+          "en": "bonus to ship capacitor capacity",
+          "es": "de bonificación a la capacidad del condensador de la nave.",
+          "fr": "de bonus à la charge du capaciteur du vaisseau",
+          "ja": "艦船のキャパシタ容量が増加",
+          "ko": "캐패시터 용량 증가",
+          "ru": "бонус к ёмкости накопителя корабля",
+          "zh": "电容器电容量加成"
+        },
+        "importance": 3,
+        "isPositive": true,
+        "unitID": 105
+      },
+      {
+        "bonus": 25.0,
+        "bonusText": {
+          "de": "Reduktion des Signaturradius von Schiffen",
+          "en": "reduction in ship signature radius",
+          "es": "de reducción del radio de la señal de la nave.",
+          "fr": "de réduction du rayon de signature du vaisseau",
+          "ja": "艦船のシグネチャ半径が縮小",
+          "ko": "함선 시그니처 반경 감소",
+          "ru": "уменьшение размера сигнатуры корабля",
+          "zh": "舰船信号半径降低"
+        },
+        "importance": 4,
+        "isPositive": true,
+        "unitID": 105
+      },
+      {
+        "bonus": 90.0,
+        "bonusText": {
+          "de": "Reduktion der Effektivität von <a href=showinfo:16069>Panzerungs-Fernreparatursystemen</a> und <a href=showinfo:3422>Schildfernboostern</a>",
+          "en": "reduction in <a href=showinfo:16069>Remote Armor Repairer</a> and <a href=showinfo:3422>Remote Shield Booster</a> effectiveness",
+          "es": "de reducción de la efectividad del <a href=showinfo:16069>reparador de blindaje remoto</a> y el <a href=showinfo:3422>potenciador de escudo remoto</a>.",
+          "fr": "de réduction de l'efficacité du <a href=showinfo:16069>réparateur de blindage à distance</a> et du <a href=showinfo:3422>booster de bouclier à distance</a>",
+          "ja": "<a href=showinfo:16069>リモートアーマーリペアラ</a>と<a href=showinfo:3422>リモートシールドブースター</a>の効果が減少",
+          "ko": "<a href=showinfo:16069>원격 장갑수리 장치</a> 및 <a href=showinfo:3422>원격 실드 부스터</a> 효과 감소",
+          "ru": "уменьшение эффективности <a href=showinfo:16069>модуль дистанционного ремонта брони</a> и <a href=showinfo:3422>модуля дистанционного усиления щитов</a>",
+          "zh": "<a href=showinfo:16069>远程装甲维修器</a>和<a href=showinfo:3422>远程护盾回充增量器</a>效果降低"
+        },
+        "importance": 5,
+        "isPositive": false,
+        "unitID": 105
+      }
+    ],
+    "roleBonuses": [],
+    "types": {}
   },
   "volume": 20.0
 }

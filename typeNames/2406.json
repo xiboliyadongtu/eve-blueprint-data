@@ -1,5 +1,18 @@
 {
-  "typeID": 2406,
+  "basePrice": 1000000.0,
+  "description": {
+    "de": "Das Verständnis der Planetenevolution, so dass höher aufgelöste planetare Scandaten für Ressourcen von Ihnen interpretiert werden können.\n\nBonus: Dieser Skill erhöht die Auflösung der Ressourcendaten beim Scannen von Planeten, was eine sehr genaue Vermessung zulässt.",
+    "en": "The understanding of planet evolution allowing you to better interpret data from scans of planets for resources.\n\nBonus: The skill increases the resolution of resource data when scanning a planet to allow for more accurate surveying.",
+    "es": "La comprensión de la evolución planetaria te permite interpretar mejor los datos de los escaneos de planetas para recursos.\n\nBonificación: la habilidad aumenta la resolución de los datos de recursos al escanear un planeta para permitir una topografía más precisa.",
+    "fr": "Compréhension de l'évolution des planètes vous permettant de mieux interpréter les données issues des scanners à la recherche de ressources sur les planètes.\n\nBonus : cette compétence améliore la résolution des données lorsqu'un scanner est effectué pour rechercher des ressources sur une planète.",
+    "ja": "惑星の進化を理解することで、惑星資源のスキャンデータを詳しく解析できるようになる。\n\nボーナス: 惑星スキャン時の資源データ分析能力が向上し、調査の精度が高まる。",
+    "ko": "행성 발달 과정의 이해를 통해 스캔 데이터를 분석하고, 이를 바탕으로 행성의 자원 보유량을 조사합니다. <br><br>보너스: 행성 스캔 정밀도 증가",
+    "ru": "Понимание эволюционных процессов на планетах, позволяющее гораздо более точно интерпретировать информацию о ресурсах, полученную в ходе планетарного сканирования.\n\nОсвоив этот навык, пилот будет получать более точные данные о ресурсах при сканировании планеты.",
+    "zh": "掌握行星演化科学的理论，能让你准确地分析行星资源扫描数据。\n\n额外加成： 这项技能能够提高行星资源数据的扫描精确程度，使得勘探的精准度变得非常高。"
+  },
+  "groupID": 1241,
+  "iconID": 33,
+  "marketGroupID": 1823,
   "name": {
     "de": "Planetology",
     "en": "Planetology",
@@ -10,5 +23,7 @@
     "ru": "Планетология",
     "zh": "行星学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

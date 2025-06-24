@@ -1,5 +1,17 @@
 {
-  "typeID": 2653,
+  "description": {
+    "de": "Diese Einmalspritzen enthalten eine festgelegte Dosis adaptiver Impfstoffe, die nahezu jedes bekannte Virus bekämpfen.",
+    "en": "These single-use syringes contain a predetermined dose of adaptive vaccines designed to counteract almost any known virus.",
+    "es": "Estas jeringuillas desechables contienen una dosis fija de vacunas adaptativas diseñadas para contrarrestar casi cualquier virus conocido.",
+    "fr": "Ces seringues à usage unique contiennent une dose prédéfinie de vaccins adaptatifs visant à contrer les symptômes des virus connus.",
+    "ja": "これらの使い捨ての注射器には、既知のほぼあらゆるウィルスに対応する万能ワクチンが計量封入済みである。",
+    "ko": "이 일회용 주사기에는 대부분의 바이러스를 치료할 수 있는 적응형 백신이 한차례 투여 분량만큼 들어있습니다.",
+    "ru": "В этих одноразовых шприцах содержится заранее отмеренная доза адаптивных вакцин, предназначенных для нейтрализации почти всех известных вирусов.",
+    "zh": "这些一次性使用的注射器内置有预先计算好计量的自适应性疫苗，可以用于对抗几乎所有已知的病毒。"
+  },
+  "groupID": 314,
+  "iconID": 28,
+  "mass": 90000.0,
   "name": {
     "de": "Crates of Vaccine Injectors",
     "en": "Crates of Vaccine Injectors",
@@ -10,5 +22,7 @@
     "ru": "Crates of Vaccine Injectors",
     "zh": "装箱的疫苗注射器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 90.0
 }

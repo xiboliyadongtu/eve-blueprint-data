@@ -1,5 +1,18 @@
 {
-  "typeID": 3331,
+  "basePrice": 50000.0,
+  "description": {
+    "de": "Fertigkeit, Fregatten der Amarr zu bedienen.",
+    "en": "Skill at operating Amarr frigates.",
+    "es": "Habilidad en el manejo de fragatas amarrianas.",
+    "fr": "Compétence liée au pilotage des frégates amarr.",
+    "ja": "アマーフリゲートを操作するためのスキル。",
+    "ko": "아마르 프리깃 운용을 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на фрегатах производства Амаррской Империи.",
+    "zh": "操作艾玛护卫舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Amarr Frigate",
     "en": "Amarr Frigate",
@@ -10,5 +23,8 @@
     "ru": "Амаррские фрегаты",
     "zh": "艾玛护卫舰操作"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

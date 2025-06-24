@@ -1,5 +1,17 @@
 {
-  "typeID": 3472,
+  "description": {
+    "de": "Vergrößert die Kapazität des Energiespeichers. Ermöglicht eine Verteidigung gegen Energy Leech und Energy Neutralizer Effekte.",
+    "en": "Increases capacitor storage. Provides defense against Energy Leech and Energy Neutralizer effects.",
+    "es": "Aumenta la capacidad de almacenamiento del condensador. Protege contra los efectos de la absorción energética y los neutralizadores energéticos.",
+    "fr": "Augmente le stockage d'énergie du capaciteur. Protège des effets des sangsues énergétiques et des neutraliseurs d'énergie.",
+    "ja": "キャパシタ容量を増加させる。エネルギー吸引やエネルギーニュートラライザー効果から保護する。",
+    "ko": "캐패시터 용량이 증가합니다. 에너지 흡수 및 에너지 뉴트럴라이저에 대한 방어력이 증가합니다.",
+    "ru": "Увеличивает емкость накопителя. Обеспечивает более полную защиту против эффектов выкачивания и нейтрализации энергии.",
+    "zh": "增加电容器储量。有效抵抗能量吸取和能量中和效果。"
+  },
+  "groupID": 61,
+  "iconID": 89,
+  "metaGroupID": 2,
   "name": {
     "de": "X-Large Capacitor Battery II",
     "en": "X-Large Capacitor Battery II",
@@ -10,5 +22,9 @@
     "ru": "X-Large Capacitor Battery II",
     "zh": "巨型电容器电池 II"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 500.0,
+  "variationParentTypeID": 2022,
   "volume": 20.0
 }

@@ -1,5 +1,20 @@
 {
-  "typeID": 3552,
+  "basePrice": 5000.0,
+  "description": {
+    "de": "Sorgt für eine schnelle Energieeinspritzung in den Energiespeicher. Gut für brenzlige Situationen!",
+    "en": "Provides a quick injection of power into your capacitor. Good for tight situations!",
+    "es": "Proporciona una rápida inyección de energía en el condensador. ¡Genial para situaciones peliagudas!",
+    "fr": "Permet de faire bénéficier le capaciteur d'un surcroît de puissance temporaire. Cela peut s'avérer très utile dans des situations délicates !",
+    "ja": "キャパシタへ急速にパワーを注入。緊迫する状況下で威力を発揮する。",
+    "ko": "캐패시터에 추가 전력을 주입합니다. 위기상황에서 주입하십시오!",
+    "ru": "Обеспечивает быстрое повышение мощности конденсатора. Очень полезен в трудную минуту!",
+    "zh": "向电容提供快速能量注入。适用于紧急情况！"
+  },
+  "groupID": 87,
+  "iconID": 1033,
+  "marketGroupID": 139,
+  "mass": 7.5,
+  "metaGroupID": 1,
   "name": {
     "de": "Cap Booster 75",
     "en": "Cap Booster 75",
@@ -10,5 +25,7 @@
     "ru": "Cap Booster 75",
     "zh": "电容注电器装料 75"
   },
+  "portionSize": 10,
+  "published": true,
   "volume": 3.0
 }

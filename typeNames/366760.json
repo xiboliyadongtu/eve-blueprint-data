@@ -1,5 +1,17 @@
 {
-  "typeID": 366760,
+  "basePrice": 149000.0,
+  "description": {
+    "de": "Skill in der Benutzung von Tarnungsfeldern. Schaltet den Zugriff auf Standardtarnungsfelder ab Stufe 1, erweiterte Tarnungsfelder ab Stufe 3 und Tarnungsfeldprototypen ab Stufe 5 frei.",
+    "en": "Skill at using cloak fields.\r\n\r\nUnlocks access to standard cloak fields at lvl.1; advanced at lvl.3; prototype at lvl.5.",
+    "es": "Habilidad de manejo de campos de invisibilidad. Desbloquea el acceso a los campos de invisibilidad: estándar en el nivel 1, avanzados en el nivel 3 y prototipos en el nivel 5.",
+    "fr": "Compétence permettant d'utiliser les champs de camouflage. Déverrouille l'utilisation des champs de camouflage. Standard au niv.1 ; avancé au niv.3 ; prototype au niv.5.",
+    "it": "Abilità nell'utilizzo dei campi di copertura. Sblocca l'accesso ai campi di copertura standard al liv. 1; a quelli avanzati al liv. 3; a quelli prototipo al liv. 5.",
+    "ja": "クロークフィールドを扱うスキル。レベル1で標準型、レベル3で高性能、レベル5でプロトタイプのクロークフィールドが利用可能になる。",
+    "ko": "클로킹 필드를 위한 스킬입니다. <br><br>클로킹 필드가 잠금 해제됩니다. (레벨 1 - 일반, 레벨 3 - 상급, 레벨 5 - 프로토타입)",
+    "ru": "Навык использования маскирующих полей. Позволяет пользоваться стандартными маскирующими полями на уровне 1; усовершенствованными на уровне 3; прототипами на уровне 5.",
+    "zh": "使用隐形力场的技能。1级解锁标准隐形力场；3级解锁高级隐形力场；5级解锁尖端型隐形立场。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Cloak Field Operation",
     "en": "Cloak Field Operation",
@@ -11,5 +23,7 @@
     "ru": "Cloak Field Operation",
     "zh": "隐形力场操作"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

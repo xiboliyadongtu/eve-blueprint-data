@@ -1,5 +1,19 @@
 {
-  "typeID": 49788,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Ein Logistikknoten, der von Frostline-Labore genutzt wird, um den Betrieb in der Nähe des Eiszwergs zu koordinieren und die zugehörigen Anlagen zu versorgen.",
+    "en": "A logistics node used by Frostline Laboratories to co-ordinate and supply its operations in the vicinity of the ice dwarf.",
+    "es": "Nodo de logística usado por Frostline Laboratories para coordinar y abastecer sus operaciones en las inmediaciones del enano helado.",
+    "fr": "Un nœud logistique employé par les laboratoires Frostline pour superviser et assurer ses opérations à proximité de la naine blanche.",
+    "ja": "フロストライン・ラボラトリーズが氷矮惑星近郊における業務調整と物資供給に使用しているロジスティックノード。",
+    "ko": "프로스트라인 연구소가 운영하는 보급품 집결지로 얼음 왜행성에서의 작전에 대한 전반적인 지원을 담당합니다.",
+    "ru": "Центр снабжения, используемый лабораторией «Иней» для координации операций в районе ледяных карликов и обеспечения исследователей всем необходимым.",
+    "zh": "这是一个由霜线实验室使用的后勤节点，用来协调其在冰矮星附近的作业并提供补给。"
+  },
+  "graphicID": 20298,
+  "groupID": 1207,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Frostline Logistics Node",
     "en": "Frostline Logistics Node",
@@ -10,5 +24,10 @@
     "ru": "Frostline Logistics Node",
     "zh": "霜线后勤节点"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericbase",
+  "soundID": 20182,
   "volume": 27500.0
 }

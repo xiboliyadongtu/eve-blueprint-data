@@ -1,5 +1,19 @@
 {
-  "typeID": 81383,
+  "basePrice": 350000.0,
+  "description": {
+    "de": "Diese Daten sind hinter einer dreifachen Verschlüsselungsebene gesperrt, wurden jedoch als Schmuggelware markiert.",
+    "en": "This data is locked behind a triple encryption layer, but has been flagged as contraband.",
+    "es": "Estos datos están protegidos por una capa de cifrado triple, pero se han marcado como contrabando.",
+    "fr": "Ces données sont verrouillées derrière une triple couche de cryptage, mais ont été signalées comme contrebande.",
+    "ja": "このデータは三重の暗号レイヤーでロックされているが、禁制品の反応がある。",
+    "ko": "3중 암호화로 철저하게 봉인된 데이터입니다. 밀수품으로 분류되었습니다.",
+    "ru": "Эти данные защищены тремя слоями шифрования, но предполагается, что это контрабанда.",
+    "zh": "这份数据被三层加密保护，但已被列为违禁品。"
+  },
+  "groupID": 4575,
+  "iconID": 2885,
+  "marketGroupID": 1863,
+  "mass": 500.0,
   "name": {
     "de": "Contraband Data",
     "en": "Contraband Data",
@@ -10,5 +24,7 @@
     "ru": "Contraband Data",
     "zh": "违禁品数据"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 5.0
 }

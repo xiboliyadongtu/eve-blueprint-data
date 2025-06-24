@@ -1,5 +1,18 @@
 {
-  "typeID": 24568,
+  "basePrice": 10000000.0,
+  "description": {
+    "de": "Bedienung von Panzerungs-Fernreparatursystemen der Capital-Klasse. 5% Reduzierter Energiespeicherbedarf für Capital-Panzerungs-Fernreparatursysteme je Skillstufe.",
+    "en": "Operation of capital sized remote armor repair systems. 5% reduced capacitor need for capital remote armor repair system modules per skill level.",
+    "es": "Funcionamiento de sistemas de reparación de blindaje remoto de tamaño capital. Necesidad del condensador reducida un 5 % para módulos de sistemas de reparación de blindaje remoto de tamaño capital por nivel de habilidad.",
+    "fr": "Exploitation des systèmes de réparation de blindage de taille capitale à distance. Réduit de 5 % par niveau de compétence les besoins énergétiques du capaciteur pour les modules du système de réparation de blindage à distance capital.",
+    "ja": "母艦級リモートアーマーリペアシステムを操作するスキル。スキルレベル上昇ごとにキャピタルリモートアーマーリペアシステムモジュールのキャパシタ消費量が5%減少する。",
+    "ko": "캐피탈급 원격 장갑수리 시스템 운용을 위한 스킬입니다. 매 레벨마다 캐피탈급 원격 장갑수리 시스템 모듈의 캐패시터 사용량 5% 감소",
+    "ru": "Навык эксплуатации сверхбольших установок дистанционного ремонта брони. За каждую степень освоения навыка: на 5% сокращается расход энергии при работе сверхбольших установок дистанционного ремонта брони.",
+    "zh": "操作旗舰级远程装甲维修系统的技能。每升一级，旗舰级远程装甲维修装备的电容消耗减少5%。"
+  },
+  "groupID": 1210,
+  "iconID": 33,
+  "marketGroupID": 1745,
   "name": {
     "de": "Capital Remote Armor Repair Systems",
     "en": "Capital Remote Armor Repair Systems",
@@ -10,5 +23,8 @@
     "ru": "Пилотам КБТ: дистанционный ремонт брони",
     "zh": "旗舰级远程装甲修理技术"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

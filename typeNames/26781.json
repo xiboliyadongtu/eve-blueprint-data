@@ -1,5 +1,18 @@
 {
-  "typeID": 26781,
+  "basePrice": 313.0,
+  "description": {
+    "de": "Ein elektronisches Gerät, das eine Trägerwelle erzeugt und diese mit einem Nutzsignal verstärkt. Es moduliert Gesprächsdaten oder andere Informationen und sendet das Endsignal über eine Antenne aus.",
+    "en": "An electronic device that generates and amplifies a carrier wave, modulates it with a meaningful signal derived from speech or other sources, and radiates the resulting signal from an antenna.",
+    "es": "Dispositivo electrónico que genera y amplifica una onda electromagnética, la modula con una señal significativa derivada del habla u otras fuentes, e irradia la señal resultante desde una antena.",
+    "fr": "Dispositif électronique qui génère et amplifie une onde porteuse, la module avec un signal significatif venant de la parole ou d'autres sources et émet le signal obtenu via une antenne.",
+    "ja": "通信波を発生増幅する電子機器の一種で、音声その他の有意な信号を通信波にのせて、アンテナから送信する機能を持つ。",
+    "ko": "반송파를 생성 및 증폭시키는 전자 장치로 대상의 목소리를 특정 신호로 조정한 뒤 안테나를 통해 전송합니다.",
+    "ru": "Электронное устройство, которое производит и усиливает волну носителя, моделируя ее в сильный сигнал, полученный от речи или из другого источника и излучает полученный сигнал через антенну.",
+    "zh": "一种电子设备，可产生并放大载波，通过从语音或其他来源生成的有意义信号对这种载波进行调制，并通过天线对生成的信号进行发射。这种高科技原型几乎对任何类型的干扰解密设备免疫，从而使数据传输更安全。"
+  },
+  "groupID": 314,
+  "iconID": 1364,
+  "mass": 65000.0,
   "name": {
     "de": "Crates of Transmitters",
     "en": "Crates of Transmitters",
@@ -10,5 +23,7 @@
     "ru": "Crates of Transmitters",
     "zh": "装箱的传信器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 60.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 20342,
+  "basePrice": 50000000.0,
+  "description": {
+    "de": "Die fortschrittliche Bedienung von Raumschiffen. 5 % Bonus je Skillstufe auf die Wendigkeit von Schiffen, die den Skill Advanced Spaceship Command erfordern.",
+    "en": "The advanced operation of spaceships. Grants a 5% Bonus per skill level to the agility of ships requiring Advanced Spaceship Command.",
+    "es": "Manejo avanzado de naves espaciales. Otorga un 5 % de bonificación por nivel de habilidad a la agilidad de las naves que requieran el manejo de naves espaciales avanzado.",
+    "fr": "Perfectionnement au pilotage des vaisseaux. Augmente de 5 % par niveau de compétence l'agilité des vaisseaux nécessitant la compétence liée au pilotage de vaisseau avancé.",
+    "ja": "宇宙船の上級操作スキル。スキルレベル上昇ごとに高度な宇宙船操作能力を必要とする船の機動性が 5%向上する。",
+    "ko": "함선 운용을 위한 상급 스킬입니다. 매 레벨마다 상급 함선 운용 스킬이 요구되는 함선의 기동성 5% 증가",
+    "ru": "Углублённые познания в области пилотирования кораблей. Дальнейшее освоение навыка поможет пилоту повысить маневренность кораблей, для пилотирования которых требуется этот навык (на 5% за каждую степень освоения навыка).",
+    "zh": "操控舰船的高级技能。每升一级，需要此技能的舰船的灵活性提升5%。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Advanced Spaceship Command",
     "en": "Advanced Spaceship Command",
@@ -10,5 +23,7 @@
     "ru": "Спецдопуски к управлению кораблями",
     "zh": "高级飞船操控学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

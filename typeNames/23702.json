@@ -1,5 +1,19 @@
 {
-  "typeID": 23702,
+  "basePrice": 17000.0,
+  "description": {
+    "de": "Energie neutralisierende Drohne",
+    "en": "Energy Neutralizer Drone",
+    "es": "Dron neutralizador energético",
+    "fr": "Drone neutraliseur d'énergie.",
+    "ja": "エネルギーニュートライザードローン",
+    "ko": "에너지 뉴트럴라이저 드론",
+    "ru": "Дрон-нейтрализатор энергии.",
+    "zh": "能量中和无人机"
+  },
+  "graphicID": 2778,
+  "groupID": 544,
+  "marketGroupID": 843,
+  "mass": 3000.0,
   "name": {
     "de": "Infiltrator EV-600",
     "en": "Infiltrator EV-600",
@@ -10,5 +24,10 @@
     "ru": "Infiltrator EV-600",
     "zh": "渗透者EV-600"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 15.0,
+  "sofFactionName": "amarrbase",
   "volume": 10.0
 }

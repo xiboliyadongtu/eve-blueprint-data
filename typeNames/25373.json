@@ -1,5 +1,18 @@
 {
-  "typeID": 25373,
+  "basePrice": 1000.0,
+  "description": {
+    "de": "Ein streitlustiger Charakter: Aggressiv, besonders, wenn er sich für etwas engagiert.",
+    "en": "A combative character; aggressive, especially in the service of a cause.",
+    "es": "Personaje combativo y agresivo, especialmente al servicio de una causa.",
+    "fr": "Personnage combatif et agressif, particulièrement s'il est au service d'une cause.",
+    "ja": "好戦的なキャラクター。自らの活動理念を実現することになると、特に攻撃的になる。",
+    "ko": "공격적인 성향의 전투 집단입니다.",
+    "ru": "Настоящий боец; агрессивен, особенно на службе.",
+    "zh": "好斗的家伙；具有侵略性，在执行任务时尤其如此。"
+  },
+  "groupID": 283,
+  "iconID": 2540,
+  "mass": 1000.0,
   "name": {
     "de": "Militants",
     "en": "Militants",
@@ -10,5 +23,7 @@
     "ru": "Militants",
     "zh": "武装人员"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 2.0
 }

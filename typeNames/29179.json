@@ -1,5 +1,18 @@
 {
-  "typeID": 29179,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese Struktur ist eine taktische Versorgungsstation der Gallente Föderation. Sie fungiert als logistisches Depot für militärische Operationen im ganzen System.",
+    "en": "This structure is a tactical supply station for the Gallente Federation. It acts as a logistical depot for military operations throughout the system.",
+    "es": "Esta estructura es una estación de abastecimiento táctica de la Federación Gallente. Sirve de base logística para operaciones militares por todo el sistema.",
+    "fr": "Cette structure est une station d'approvisionnement tactique pour le compte de la Fédération gallente. Elle fait office de dépôt logistique pour les opérations militaires dans tout le système.",
+    "ja": "ガレンテ連邦の戦術サプライステーションとして使われる建造物。システム全体にわたって軍事作戦における補給所として機能する。",
+    "ko": "갈란테 연방의 전술 보급소입니다. 해당 항성계에서 벌어지는 군사작전의 보급을 담당하고 있습니다.",
+    "ru": "Это тактическая станция снабжения Федерации Gallente. Она играет роль тылового склада для военных операций по всей системе.",
+    "zh": "这个设施负责为盖伦特进行战术供给。它的主要职能是在当地星系为军事行动提供后勤支援。"
+  },
+  "graphicID": 2458,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Gallente Tactical Supply Station",
     "en": "Gallente Tactical Supply Station",
@@ -10,5 +23,10 @@
     "ru": "Gallente Tactical Supply Station",
     "zh": "盖伦特战术供给空间站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 750.0,
+  "sofFactionName": "gallentebase",
   "volume": 100000000.0
 }

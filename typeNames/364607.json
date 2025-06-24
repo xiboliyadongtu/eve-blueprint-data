@@ -1,5 +1,17 @@
 {
-  "typeID": 364607,
+  "basePrice": 787000.0,
+  "description": {
+    "de": "Skill in der Bedienung von Minmatar-Wächterdropsuits. Schaltet den Zugriff auf Minmatar-Wächterdropsuits frei. Standard ab Stufe 1, erweitert ab Stufe 3 und Prototypen ab Stufe 5. Wächterdropsuitbonus: 5% auf die Streuschadenresistenz pro Skillstufe. 5% Abzug auf die PG/CPU-Kosten von schweren Waffen pro Skillstufe. Minmatar-Wächterdropsuitbonus: 3% auf die Schildresistenz gegen Laserwaffen. 2% auf die Panzerungsresistenz gegen Blasterwaffenhybriden.",
+    "en": "Skill at operating Minmatar Sentinel dropsuits.\n\nUnlocks access to Minmatar Sentinel dropsuits. Standard at lvl.1; advanced at lvl.3; prototype at lvl.5.\n\nSentinel Suit Bonus: 5% resistance to splash damage per level. 5% reduction to PG/CPU cost of heavy weapons per level.\nMinmatar Sentinel Bonus: \n3% shield resistance to laser weapons.\n2% armor resistance to hybrid - blaster weapons.",
+    "es": "Habilidad de manejo de trajes de salto de centinela Minmatar. Desbloquea el acceso a los trajes de salto de centinela Minmatar: Estándar en el nivel 1, avanzados en el nivel 3 y prototipos en el nivel 5. Bonificación de traje de centinela: 5% a la resistencia a daños de explosiones por nivel. 5% de reducción al coste de RA/CPU de las armas pesadas por nivel. Bonificación de traje de centinela Minmatar: 3% a la resistencia de los escudos contra armas láser. 2% a la resistencia del blindaje contra armas bláster híbridas.",
+    "fr": "Compétence permettant d'utiliser les combinaisons Sentinelle Minmatar. Déverrouille l'accès aux combinaisons Sentinelle Minmatar. Standard au niv.1 ; avancé au niv.3 ; prototype au niv.5. Bonus de combinaison Sentinelle : 5 % de résistance aux dommages collatéraux par niveau. 5 % de réduction d'utilisation de PG/CPU des armes lourdes par niveau. Bonus Sentinelle Minmatar : 3 % de résistance du bouclier contre les armes à laser. 2 % de résistance du bouclier contre les armes hybrides à blaster.",
+    "it": "Abilità nell'utilizzo delle armature da sentinella Minmatar. Sblocca l'accesso alle armature da sentinella Minmatar. Standard al liv. 1; avanzate al liv. 3; prototipo al liv. 5. Bonus armatura da sentinella: 5% di resistenza al danno ad area per livello. 5% di riduzione all'utilizzo della rete energetica/CPU delle armi pesanti per livello. Bonus sentinella Minmatar: 3% di resistenza in più dello scudo alle armi laser. 2% di resistenza in più della corazza alle armi ibride/blaster.",
+    "ja": "ミンマターセンチネル降下スーツを扱うためのスキル。ミンマターセンチネル降下スーツが使用できるようになる。レベル1で標準型、レベル3で高性能、レベル5でプロトタイプ。センチネルスーツボーナス：レベル上昇ごとに、拡散ダメージに対する5％のレジスタンス。レベル上昇ごとに、重火器のPG/CPU消費量が5%減少する。ミンマターセンチネルボーナス：レーザー兵器に対する3%のシールドレジスタンス。ハイブリッド - ブラスター兵器に対する2%のアーマーレジスタンス。",
+    "ko": "민마타 센티넬 강하슈트를 운용하기 위한 스킬입니다. <br><br>민마타 센티넬 강하슈트를 잠금 해제합니다. 레벨 1 - 일반, 레벨 3 - 상급, 레벨 5 - 프로토타입 <br><br>센티넬 슈트 보너스: <br><br>매 레벨마다 받은 광역 피해 5% 감소 <br>매 레벨마다 중량 무기 PG/CPU 요구치 5% 감소 <br><br>민마타 센티넬 보너스: <br><br>레이저 무기에 대한 실드 저항력 3% 증가 <br>하이브리드 - 블라스터 무기에 대한 장갑 저항력 2% 증가",
+    "ru": "Навык управления патрульными скафандрами Минматар. Позволяет использовать патрульные скафандры Минматар. Стандартные - на уровне 1; усовершенствованные - на уровне 3; прототипы - на уровне 5. Бонус патрульного скафандра: 5% к сопротивлению к урону по площади на уровень. 5% сокращение потребления ресурсов ЭС/ЦПУ для тяжелого оружия на каждый уровень. Бонус патрульного скафандра Минматар: 3% к сопротивлению щитов к урону от лазерного оружия. 2% к сопротивлению брони к урону от гибридного бластерного оружия.",
+    "zh": "操作米玛塔尔哨兵作战服的技能。解锁米玛塔尔哨兵作战服。1级解锁标准版；3级解锁高级版；5级解锁原型版。哨兵套装加成：每升一级，溅射伤害抗性提升5%。每升一级，重型武器的PG/CPU成本降低5%。米玛塔尔哨兵加成：对激光武器的护盾抗性提高3%。对混合疾速炮的装甲抗性提升2%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Minmatar-Wächterdropsuits",
     "en": "Minmatar Sentinel Dropsuits",
@@ -11,5 +23,6 @@
     "ru": "Патрульные скафандры Минматар",
     "zh": "米玛塔尔哨兵作战服"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 24241,
+  "basePrice": 75000.0,
+  "description": {
+    "de": "Fertigkeit zur Steuerung von leichten Kampfdrohnen. 5% Bonus auf den Schaden leichter Drohnen je Skillstufe.",
+    "en": "Skill at controlling light combat drones. 5% bonus to damage of light drones per level.",
+    "es": "Habilidad para controlar drones de combate ligeros. 5 % de bonificación al daño de los drones ligeros por nivel.",
+    "fr": "Compétence liée au contrôle des drones de combat légers. Augmente de 5 % les dégâts des drones légers par niveau.",
+    "ja": "戦闘用ライトドローンを操作するためのスキル。レベル上昇ごとにライトドローンの与えるダメージが5%増加。",
+    "ko": "라이트 공격 드론 운용을 위한 스킬입니다. 매 레벨마다 라이트 드론 피해량 5% 증가",
+    "ru": "Навык эксплуатации лёгких боевых дронов. За каждую степень освоения навыка: на 5% повышается урон бортового оружия лёгких дронов.",
+    "zh": "操纵轻型战斗无人机的技能。每升一级，轻型无人机伤害提高5%。"
+  },
+  "groupID": 273,
+  "iconID": 33,
+  "marketGroupID": 366,
   "name": {
     "de": "Light Drone Operation",
     "en": "Light Drone Operation",
@@ -10,5 +23,7 @@
     "ru": "Лёгкие боевые дроны",
     "zh": "轻型无人机操控理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

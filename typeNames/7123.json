@@ -1,5 +1,21 @@
 {
-  "typeID": 7123,
+  "capacity": 1.0,
+  "description": {
+    "de": "Ein überschwerer Strahllaser, der für Kämpfe auf mittlere und weite Entfernung ausgelegt ist. \n\nMuss mit einem der folgenden Frequenzkristalle geladen werden: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",
+    "en": "A super-heavy beam laser designed for medium to long range engagements. \r\n\r\nRequires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",
+    "es": "Láser de rayos superpesado pensado para combates de media a larga distancia.\n\nRequiere tipos de munición de cristales de frecuencia: gamma, infrarrojos, microondas, multifrecuencia, radio, estándar, ultravioleta, rayos X.",
+    "fr": "Laser à rayons super-lourd conçu pour les combats à moyenne ou longue portée. \n\nRequiert les cristaux de fréquence suivants en guise de munitions : gamma, infrarouge, micro-onde, multifréquence, radio, standard, ultraviolet, rayon X.",
+    "ja": "中長距離での交戦に適したスーパーヘビービームレーザー。装填可能なフリーケンシークリスタルのタイプ:ガンマ線、赤外線、マイクロ波、多周波、放射線、標準型、紫外線、エックス線。",
+    "ko": "중장거리 교전에 최적화된 초중량 빔 레이저입니다. <br><br>사용 가능한 프리퀀시 크리스탈: 감마선, 적외선, 마이크로파, 멀티프리퀀시, 라디오파, 스탠다드, 자외선, 엑스선.",
+    "ru": "Сверхмощный непрерывный лазер, разработанный для ведения огня на средних и дальних дистанциях.\n\nСледует заряжать частотными кристаллами: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",
+    "zh": "一种超重型集束激光器，专为中远程交战而设计。\r\n\r\n使用的频率晶体弹药类型：伽玛、红外线、微波、多频、射频、标准、紫外线和X射线。"
+  },
+  "graphicID": 11105,
+  "groupID": 53,
+  "iconID": 361,
+  "marketGroupID": 569,
+  "mass": 2000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Mega Modal Laser I",
     "en": "Mega Modal Laser I",
@@ -10,5 +26,10 @@
     "ru": "Mega Modal Laser I",
     "zh": "超级增强模式激光器 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "sofFactionName": "amarrbase",
+  "variationParentTypeID": 463,
   "volume": 20.0
 }

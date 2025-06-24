@@ -1,5 +1,20 @@
 {
-  "typeID": 32444,
+  "capacity": 4.5,
+  "description": {
+    "de": "Mit der Größe eines kleinen Kreuzers ist dieser gewaltige Lenkwaffenwerfer für ausgedehnte Belagerungen stationärer Einrichtungen und anderer großer Ziele vorgesehen.\n\nHinweis: Kann nur in Schiffe der Capital-Klasse eingebaut werden.",
+    "en": "The size of a small cruiser, this massive launcher is designed for extended sieges of stationary installations and other large targets.\r\nNote: May only be fitted to capital class ships.",
+    "es": "Este enorme lanzador, del tamaño de un crucero pequeño, ha sido diseñado para asedios prolongados a instalaciones estacionarias y otros objetivos de gran tamaño.\n\nAviso: Solo se puede equipar en naves capitales.",
+    "fr": "Ce lanceur massif, de la taille d'un petit croiseur, permet d'assiéger des installations stationnaires ou d'autres cibles de taille importante. Remarque : ne convient qu'aux vaisseaux de classe capitale.",
+    "ja": "1基が小型巡洋艦ほどもある巨大なランチャーで、固定施設などの大型目標に長時間爆撃を続けるのに適している。\n注：主力艦級艦船にのみ搭載可能。",
+    "ko": "소형 크루저만한 크기의 초대형 무기로 장기간 공성전 및 대형 목표물 타격에 적합합니다. <br><br>참고: 캐피탈급 함선에만 장착이 가능합니다.",
+    "ru": "Эта гигантская пусковая установка, размерами не уступающая иному крейсеру, предназначена для осады космических станций и обстрела других крупных целей.\n\nПримечание: может устанавливаться только на корабли большого тоннажа.",
+    "zh": "它的体积如同一艘小型巡洋舰，这个巨大的发射器是专门为持久的围攻战以及对付固定建筑设施这样的大型目标所设计的。注：只能装配在旗舰级舰船上。"
+  },
+  "graphicID": 20070,
+  "groupID": 1674,
+  "iconID": 3955,
+  "marketGroupID": 777,
+  "metaGroupID": 1,
   "name": {
     "de": "XL Cruise Missile Launcher I",
     "en": "XL Cruise Missile Launcher I",
@@ -10,5 +25,8 @@
     "ru": "XL Cruise Missile Launcher I",
     "zh": "超大型巡航导弹发射器 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "caldaribase",
   "volume": 4000.0
 }

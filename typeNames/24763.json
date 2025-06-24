@@ -1,5 +1,17 @@
 {
-  "typeID": 24763,
+  "description": {
+    "de": "Ein Buch, das zum Dekodieren von Nachrichten verwendet wird.",
+    "en": "A book used to decrypt messages",
+    "es": "Libro usado para desencriptar mensajes.",
+    "fr": "Livret utilisé pour décrypter les messages.",
+    "ja": "暗号メッセージ解読に使われる書物",
+    "ko": "암호 해독에 사용되는 책입니다.",
+    "ru": "Книга для расшифровки посланий.",
+    "zh": "用来解码的小册子。"
+  },
+  "groupID": 526,
+  "iconID": 3442,
+  "mass": 1.0,
   "name": {
     "de": "Encryption Code Book",
     "en": "Encryption Code Book",
@@ -10,5 +22,7 @@
     "ru": "Encryption Code Book",
     "zh": "加密电码本"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

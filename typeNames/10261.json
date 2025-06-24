@@ -1,5 +1,19 @@
 {
-  "typeID": 10261,
+  "capacity": 1400.0,
+  "description": {
+    "de": "Der beschädigte Container treibt lautlos durchs Weltall und wartet geduldig darauf, von einem gierigen Plünderer geöffnet zu werden.",
+    "en": "The worn container drifts quietly in space, waiting patiently to be pried open by a hungry looter.",
+    "es": "Este contenedor oxidado flota sin rumbo y en silencio por el espacio, a la espera de ser abierto por algún ávido saqueador.",
+    "fr": "Conteneur dérivant doucement dans l'espace et attendant patiemment d'être ouvert.",
+    "ja": "銀河を静かに漂う古びたコンテナは、空腹の略奪者にこじ開けられるのを待っている。",
+    "ko": "우주를 조용히 떠다니는 낡은 컨테이너입니다. 누군가 와서 내용물을 꺼내 가주길 기다리고 있습니다.",
+    "ru": "Изношенный контейнер мирно дрейфует в пространстве, терпеливо ожидая вскрытия ненасытным мародером.",
+    "zh": "这个已磨旧的集装箱静静漂浮在太空中，耐心等待着饥渴的寻宝者将它开启。"
+  },
+  "graphicID": 1176,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Drifting Cask",
     "en": "Drifting Cask",
@@ -10,5 +24,9 @@
     "ru": "Drifting Cask",
     "zh": "漂流舱"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericmetal",
   "volume": 1200.0
 }

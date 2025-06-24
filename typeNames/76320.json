@@ -1,5 +1,18 @@
 {
-  "typeID": 76320,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dies ist das Wrack eines Hochsicherheits-Kurierschiffs, das geheime Daten über die Schiffswerfer der Republik transportiert hat. Sobald die Mehrheit der feindlichen Schiffe, die dieses Wrack bewachen, zerstört ist, sollte es möglich sein, mit Bergungsausrüstung etwas Wertvolles daraus zu bergen.",
+    "en": "This is the wreckage of a high-security courier vessel transporting classified Republic Shipcaster-related secrets.\r\n\r\nOnce the majority of the hostile vessels guarding this wreck are destroyed, it should be possible to recover something of value from it using salvaging equipment.",
+    "es": "Estos son los restos de una nave de reparto de seguridad alta que transportaba secretos confidenciales relacionados con los lanzadores interestelares de la República.\r\n\r\nUna vez que la mayoría de las naves hostiles que protegen estos restos sean destruidas, debería ser posible recuperar algo de valor utilizando equipo de salvamento.",
+    "fr": "Il s'agit de l'épave d'un vaisseau de courrier haute sécurité transportant des informations confidentielles de la République concernant les lance-vaisseaux. Une fois que la majorité des vaisseaux hostiles qui gardent cette épave auront été détruits, il devrait être possible d'en récupérer quelque chose de valeur à l'aide d'un équipement de récupération.",
+    "ja": "艦艇キャスターに関連する共和国の機密情報を輸送するハイセキュリティ艦船の残骸。\r\n\r\nこの残骸を警備している敵艦の大部分を撃破すれば、サルベージ機材を使って何か価値があるものを回収できるようになるだろう。",
+    "ko": "공화국 함선전송기 극비 연구 데이터를 적재한 운반선의 잔해입니다.\r\n\r\n잔해를 지키는 적 함선을 격추하고 샐비지 장비로 잔해에서 부품이나 자원을 획득할 수 있습니다.",
+    "ru": "Это обломки защищённого курьерского судна, которое перевозило секретные материалы Республики Минматар, касающиеся межзвёздных кораблепускателей. Как только большинство вражеских кораблей, охраняющих этот объект, будет уничтожено, из него можно будет попытаться извлечь что-нибудь ценное с помощью демонтажного оборудования.",
+    "zh": "这是一艘高安全的快递舰艇残骸，这种舰艇被用来运送与共和舰船弹射台有关的机密信息。击毁守卫这片残骸的大部分敌舰后，利用打捞设备也许能打捞出一些贵重物品。"
+  },
+  "graphicID": 21105,
+  "groupID": 226,
+  "mass": 10000.0,
   "name": {
     "de": "Guarded Minmatar Classified Courier Wreck",
     "en": "Guarded Minmatar Classified Courier Wreck",
@@ -10,5 +23,9 @@
     "ru": "Guarded Minmatar Classified Courier Wreck",
     "zh": "看守中的米玛塔尔机密快递残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "thukker",
   "volume": 27500.0
 }

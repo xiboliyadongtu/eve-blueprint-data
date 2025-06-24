@@ -1,5 +1,21 @@
 {
-  "typeID": 15849,
+  "capacity": 1.0,
+  "description": {
+    "de": "Ein energiestarker Impulslaser, der für Kämpfe auf kurze und mittlere Entfernung ausgelegt ist. \n\nMuss mit einem der folgenden Frequenzkristalle geladen werden: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",
+    "en": "A high-powered pulse laser. Good for short to medium range encounters. \r\n\r\nRequires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",
+    "es": "Un láser de pulsos de alta potencia. Útil para encuentros de corto a medio alcance. \n\n\n\nRequiere tipos de munición de cristales de frecuencia: gamma, infrarrojos, microondas, multifrecuencia, radio, estándar, ultravioleta, rayos X.",
+    "fr": "Laser à impulsions de grande puissance. Arme idéale pour les combats de courte à moyenne portée. \n\nRequiert les cristaux de fréquence suivants en guise de munitions : gamma, infrarouge, micro-onde, multifréquence, radio, standard, ultraviolet, rayon X.",
+    "ja": "ハイパワーパルスレーザー。近距離から中距離が得意な兵器。\n\n\n\n装填可能なフリーケンシークリスタルのタイプ : ガンマ、赤外線、マイクロ波、多周波、放射線、標準、紫外線、エックス線。",
+    "ko": "고출력 펄스 레이저입니다. 중단거리 교전에 특화된 무기입니다. <br><br>사용 가능한 프리퀀시 크리스탈: 감마선, 적외선, 마이크로파, 멀티프리퀀시, 라디오파, 스탠다드, 자외선, 엑스선.",
+    "ru": "Мощный импульсный лазер. Рекомендуется для ведения огня на ближних и средних дистанциях.\n\nСледует заряжать частотными кристаллами: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",
+    "zh": "一种高功率脉冲激光器。适合中短程交战。\r\n\r\n使用的频率晶体弹药类型：伽玛、红外线、微波、多频、射频、标准、紫外线和X射线。"
+  },
+  "graphicID": 21591,
+  "groupID": 53,
+  "iconID": 350,
+  "marketGroupID": 570,
+  "mass": 500.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Ammatar Navy Small Focused Pulse Laser",
     "en": "Ammatar Navy Small Focused Pulse Laser",
@@ -10,5 +26,10 @@
     "ru": "Ammatar Navy Small Focused Pulse Laser",
     "zh": "艾玛达海军小型聚焦脉冲激光器"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "sofFactionName": "ammatar",
+  "variationParentTypeID": 453,
   "volume": 5.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 32382,
+  "capacity": 145.0,
+  "description": {
+    "de": "Dieses kleine Schiff ist stark beschädigt. Alle Antriebseinheiten sind vollständig zerstört.",
+    "en": "This tiny craft is badly damaged. All propulsion units have been completely disabled.",
+    "es": "Esta pequeña nave está muy dañada. Todas las unidades de propulsión han quedado inutilizables.",
+    "fr": "Ce minuscule appareil est lourdement endommagé. Toutes les unités de propulsion sont complètement désactivées.",
+    "ja": "この小さな船は激しい損傷を受けている。推進力ユニットはどれも全く使用できない。",
+    "ko": "처참하게 망가진 소형 함선입니다. 모든 추진 장치가 가동 불가능한 상태입니다.",
+    "ru": "Этот маленький катер сильно поврежден. Все силовые установки полностью выведены из строя.",
+    "zh": "这个小型飞行器已经遭受到了严重损伤，所有的推进组件已经完全地被损毁了。"
+  },
+  "graphicID": 317,
+  "groupID": 306,
+  "mass": 1450000.0,
   "name": {
     "de": "Damaged Caldari Shuttle",
     "en": "Damaged Caldari Shuttle",
@@ -10,5 +23,10 @@
     "ru": "Damaged Caldari Shuttle",
     "zh": "受损的加达里穿梭机"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 47.0,
+  "sofFactionName": "caldaribase",
   "volume": 16120.0
 }

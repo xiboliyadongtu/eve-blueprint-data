@@ -1,5 +1,79 @@
 {
-  "typeID": 24698,
+  "basePrice": 40400000.0,
+  "capacity": 450.0,
+  "description": {
+    "de": "Aus der sorgfältigen Handwerkskunst, für welche die Caldari berühmt sind, wurde die Drake geboren. Es wäre für ein solches Schiff unangemessen gewesen, sich auf eine andere als die über lange Zeit bewährte Kampftradition des Lenkwaffenfeuers zu verlassen. Dass das Schiff eine ausreichende CPU-Kapazität für respektable elektronische Kriegsführung beinhaltet, versteht sich von selbst.",
+    "en": "Of the meticulous craftsmanship the Caldari are renowned for, the Drake was born. It was found beneath such a ship to rely on anything other than the time-honored combat tradition of missile fire, while the inclusion of sufficient CPU capabilities for decent electronic warfare goes without saying.",
+    "es": "De sobra conocida es la gran destreza de los caldaris y la Drake es un claro ejemplo de ello. Que una nave como esta usara otra cosa que no fueran unos buenos misiles era hacerla de menos. También es de sobra sabido que posee una CPU con una buena capacidad de respuesta en guerras electrónicas.",
+    "fr": "Le Drake est le résultat du savoir-faire méticuleux qui a fait la renommée des Caldari. L'armement de ce vaisseau se devait de perpétuer les traditions de combat utilisant les tirs de missiles, tout en incluant suffisamment de ressources CPU pour s'équiper d'un matériel de guerre électronique performant.",
+    "ja": "カルダリの隅々まで妥協しない職人気質はつとに名高いが、ドレイクはまさにその申し子である。このような艦に頼るべきなのは、やはり伝統と実績のミサイル戦闘をおいて他にない。電子戦にも十分なCPU処理能力を備えていることは言うまでもない。",
+    "ko": "드레이크는 칼다리 특유의 장인 정신으로 제작된 함선입니다. 전통적인 미사일 시스템을 채택했으며 최첨단 전자전 장비의 운용을 위해 고성능 CPU가 탑재되었습니다.",
+    "ru": "Линейный крейсер типа «Дрейк» ― творение искусных инженеров, которыми так славится калдарская нация. Создатели «дрейков» решили не изменять проверенной веками традиции ведения ракетного боя; необходимость установки достаточно мощного бортового компьютера для работы со средствами радиоэлектронной борьбы также не подвергалась сомнению.",
+    "zh": "幼龙级战列巡洋舰的诞生继承了加达里赖以成名的精益求精的舰船制造技术。加达里长久以来高超的导弹技术在它身上被表现得淋漓尽致，更不用说其强劲的CPU性能保证它优越的电子战能力了。"
+  },
+  "factionID": 500001,
+  "graphicID": 3169,
+  "groupID": 419,
+  "marketGroupID": 471,
+  "mass": 13500000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      164,
+      150,
+      139,
+      76,
+      85,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      164,
+      150,
+      139,
+      76,
+      85,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      164,
+      150,
+      139,
+      76,
+      85,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      164,
+      150,
+      139,
+      76,
+      85,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      164,
+      150,
+      139,
+      76,
+      109,
+      85,
+      118,
+      152,
+      153,
+      154,
+      94
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Drake",
     "en": "Drake",
@@ -9,6 +83,94 @@
     "ko": "드레이크",
     "ru": "Drake",
     "zh": "幼龙级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 263.0,
+  "sofFactionName": "caldaribase",
+  "soundID": 20068,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Kann ein <a href=showinfo:3348>Kommandostrahl</a>-Modul verwenden",
+          "en": "Can use one <a href=showinfo:3348>Command Burst</a> module",
+          "es": "Es posible equipar un módulo de <a href=showinfo:3348>estallido de mando</a>.",
+          "fr": "Peut utiliser une <a href=showinfo:3348>salve de commandement</a>.",
+          "ja": "<a href=showinfo:3348>コマンドバースト</a>モジュールは1個使用可能です",
+          "ko": "한 개의 <a href=showinfo:3348>커맨드 버스트</a> 모듈만 사용 가능",
+          "ru": "Корабли этого типа могут включать один <a href=showinfo:3348>импульсный оптимизатор</a>",
+          "zh": "可以装配一个<a href=showinfo:3348>指挥脉冲波</a>装备"
+        },
+        "importance": 1
+      },
+      {
+        "bonus": 25,
+        "bonusText": {
+          "de": "Bonus auf die Geschwindigkeit von Lenkwaffen",
+          "en": "bonus to Missile velocity",
+          "es": "de bonificación a la velocidad de los misiles.",
+          "fr": "bonus à la vitesse des missiles",
+          "ja": "ミサイル速度が上昇",
+          "ko": "미사일 속도 증가",
+          "ru": "повышается скорость полёта ракет",
+          "zh": "导弹飞行速度加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonus": 50,
+        "bonusText": {
+          "de": "Bonus auf die Reichweite des Wirkungsbereichs von <a href=showinfo:3348>Kommandostrahlen</a>",
+          "en": "bonus to <a href=showinfo:3348>Command Burst</a> area of effect range",
+          "es": "de bonificación al alcance del radio de acción del <a href=showinfo:3348>estallido de mando</a>.",
+          "fr": "de bonus à la portée de l'effet de zone des <a href=showinfo:3348>salves de commandement</a>.",
+          "ja": "<a href=showinfo:3348>コマンドバースト</a>効果範囲にボーナス",
+          "ko": "<a href=showinfo:3348>커맨드 버스트</a> 효과 반경 증가",
+          "ru": "увеличивается радиус импульсов, генерируемых <a href=showinfo:3348>импульсными оптимизаторами</a>",
+          "zh": "<a href=showinfo:3348>指挥脉冲波</a>效果范围加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "33096": [
+        {
+          "bonus": 4,
+          "bonusText": {
+            "de": "Bonus auf alle Schildresistenzen",
+            "en": "bonus to all shield resistances",
+            "es": "de bonificación a todas las resistencias de escudo.",
+            "fr": "de bonus à toutes les résistances de bouclier",
+            "ja": "全てのシールドレジスタンスが増加",
+            "ko": "모든 실드 저항력 증가",
+            "ru": "повышается сопротивляемость щитов корабля всем видам воздействия",
+            "zh": "护盾抗性加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf den Kinetikschaden von <a href=showinfo:3324>schweren Lenkwaffen</a> und <a href=showinfo:25719>schweren Angriffslenkwaffen</a>",
+            "en": "bonus to kinetic <a href=showinfo:3324>Heavy Missile</a> and <a href=showinfo:25719>Heavy Assault Missile</a> damage",
+            "es": "de bonificación al daño cinético de los <a href=showinfo:3324>misiles pesados</a> y <a href=showinfo:25719>misiles de asalto pesados</a>.",
+            "fr": "de bonus aux dégâts cinétiques des <a href=showinfo:3324>missiles lourds</a> et des <a href=showinfo:25719>missiles d'assaut lourds</a>",
+            "ja": "<a href=showinfo:3324>ヘビーミサイル</a>と<a href=showinfo:25719>ヘビーアサルトミサイル</a>のキネティックダメージが増加",
+            "ko": "<a href=showinfo:3324>헤비 미사일</a> 및 <a href=showinfo:25719>헤비 어썰트 미사일</a>의 키네틱 피해량 증가",
+            "ru": "увеличивается урон кинетических БЧ <a href=showinfo:3324>тяжёлых ракет</a> и <a href=showinfo:25719>тяжёлых штурмовых ракет</a>",
+            "zh": "<a href=\"showinfo:3324\">重型导弹</a>和<a href=\"showinfo:25719\">重型攻击导弹</a>动能伤害加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 252000.0
 }

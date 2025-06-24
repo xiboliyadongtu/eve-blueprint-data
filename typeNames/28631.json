@@ -1,5 +1,16 @@
 {
-  "typeID": 28631,
+  "description": {
+    "de": "Täuschungsfertigkeit, die dem Inhaber die Sicherheitsfreigabe für Einrichtungen der Imperial-Navy (z.B. Beschleunigungstore) verschafft.",
+    "en": "Fake skill that specifies the owners security clearance for Imperial Navy facilities (e.g. acceleration gates).",
+    "es": "Habilidad falsa que especifica la autorización de seguridad de los propietarios en instalaciones de la Armada Imperial (por ejemplo, portales de aceleración).",
+    "fr": "Fausse compétence indiquant les propriétaires d'habilitations spéciales qui permettent l'accès aux installations de la Navy impériale (les portails d'accélération, par exemple).",
+    "ja": "帝国海軍の施設（加速ゲートなど）の所有者の暗証番号を指定するフェイクスキル。",
+    "ko": "제국 해군시설과 엑셀레이션 게이트에 접근권한을 부여하는 위조된 스킬입니다.",
+    "ru": "Подложный навык, указывающий уровень допуска владельца к объектам флота Амаррской Империи (например, к вратам ускорения).",
+    "zh": "欺骗型技能。使学习者具有通过帝国海军设施（比如加速轨道）所需的安全许可。"
+  },
+  "groupID": 272,
+  "iconID": 33,
   "name": {
     "de": "Imperial Navy Security Clearance",
     "en": "Imperial Navy Security Clearance",
@@ -10,5 +21,7 @@
     "ru": "Степень допуска к объектам флота Амаррской Империи",
     "zh": "帝国海军安全许可证理论"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

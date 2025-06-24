@@ -1,5 +1,19 @@
 {
-  "typeID": 32302,
+  "basePrice": 250000000.0,
+  "capacity": 10.0,
+  "description": {
+    "de": "Diese Struktur existiert nicht.",
+    "en": "This structure does not exist.",
+    "es": "Esta estructura no existe.",
+    "fr": "Cette structure n'existe pas.",
+    "ja": "この建造物は存在しない。",
+    "ko": "구조물이 존재하지 않습니다.",
+    "ru": "Такого сооружения не существует.",
+    "zh": "此建筑不存在。"
+  },
+  "graphicID": 3826,
+  "groupID": 1005,
+  "mass": 32000.0,
   "name": {
     "de": "QA Sovereignty Blockade Unit",
     "en": "QA Sovereignty Blockade Unit",
@@ -10,5 +24,9 @@
     "ru": "QA Sovereignty Blockade Unit",
     "zh": "QA测试主权干扰设施"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 243.0,
+  "sofFactionName": "genericbase",
   "volume": 1.0
 }

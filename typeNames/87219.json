@@ -1,5 +1,17 @@
 {
-  "typeID": 87219,
+  "capacity": 500000.0,
+  "description": {
+    "de": "Ein Deathless-Außenposten, der hastig hier verankert wurde, um die Wurmlöcher zu studieren, die in Drifter-Krisensystemen auftauchen.",
+    "en": "A Deathless outpost that has been hastily anchored here to study the wormholes that emerge around Drifter Crisis systems.",
+    "es": "Un puesto avanzado del Inmortal que se ha anclado aquí apresuradamente para estudiar los agujeros de gusano que surgen alrededor de los sistemas de Crisis de los Drifters.",
+    "fr": "Un avant-poste immortel qui a été rapidement ancré ici pour étudier les trous de ver qui apparaissent autour des systèmes de la crise drifter.",
+    "ja": "ドリフター・クライシスが発生しているシステム周辺に発生したワームホールを調査するため、急遽係留されたデスレスのアウトポスト。",
+    "ko": "드리프터 침공 성계 주변에 생성되는 웜홀을 연구하려 데스리스가 급히 파견한 연구기지입니다.",
+    "ru": "Члены «Бессмертного круга» в спешке поставили этот форпост на якорь, чтобы собрать данные о червоточинах, которые появляются поблизости от систем, атакуемых Скитальцами.",
+    "zh": "一座匆忙之中锚定在此的永生者哨站，用于研究流浪者危机星系周围出现的虫洞。"
+  },
+  "graphicID": 27983,
+  "groupID": 319,
   "name": {
     "de": "Wormhole Research Outpost",
     "en": "Wormhole Research Outpost",
@@ -10,5 +22,8 @@
     "ru": "Wormhole Research Outpost",
     "zh": "虫洞研究哨站"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 5000.0,
+  "sofFactionName": "deathless"
 }

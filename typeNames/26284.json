@@ -1,5 +1,18 @@
 {
-  "typeID": 26284,
+  "capacity": 120.0,
+  "description": {
+    "de": "Der Kontrolleur ist hier, um die Arbeiten zu überwachen und sicherzustellen, dass die Arbeiter ihre Produkte nicht allzu sehr lieb gewinnen. Er hat die Autorität, jeden Teil des Komplexes zu betreten.",
+    "en": "The inspector is here to keep a tab on the operation and make sure the workers don't get too fond of the products. He has the authority to enter any part of the complex.",
+    "es": "El inspector es responsable de supervisar la operación y asegurarse de que los trabajadores no se enganchen a los productos. Tiene autoridad para acceder a cualquier zona del complejo.",
+    "fr": "Personne en charge de surveiller les opérations et d'éviter que les travailleurs ne s'intéressent de trop près aux marchandises. Il a accès à toutes les zones du complexe.",
+    "ja": "円滑な運営を維持し、作業員が製品に余計な愛着を抱かぬよう目を光らせる検査官。複合施設内のどこへでも立ち入れる権限を持つ。",
+    "ko": "작업장을 관리 감독하며, 노동자들이 이곳의 생산물에 매료되지 않도록 주시하고 있습니다. 시설 모든 구역에 대한 접근 권한을 가지고 있습니다.",
+    "ru": "Инспектор следит за работой и за тем, чтобы рабочие не присваивали продукцию. Он может входить в любую часть комплекса.",
+    "zh": "这个检查员来这留意业务的进行并确保工人不会过度沉迷于产品。他有权进入这个复合体任何一个区域。"
+  },
+  "graphicID": 335,
+  "groupID": 534,
+  "mass": 19000000.0,
   "name": {
     "de": "Angel Inspector",
     "en": "Angel Inspector",
@@ -10,5 +23,10 @@
     "ru": "Angel Inspector",
     "zh": "天使联合企业巡检员"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 350.0,
+  "sofFactionName": "angelbase",
   "volume": 19000000.0
 }

@@ -1,5 +1,70 @@
 {
-  "typeID": 17703,
+  "basePrice": 2100000.0,
+  "capacity": 130.0,
+  "description": {
+    "de": "Die Slicer ist Stolz und Freude der Imperial Navy und eine ihrer stärksten Waffen im andauernden Kampf gegen Eindringlinge der Matari. Da das Schiff sich mit einem enormen Sortiment und Vielseitigkeit bei der Ausrüstung rühmt, eine starke Panzerung und einen leistungsstarken Energiespeicher hat, ist der gut trainierte Slicer-Pilot in der Lage, die meisten anderen Fregatten mit Leichtigkeit auszuschalten.",
+    "en": "The Slicer is the Imperial Navy's pride and joy, and one of its biggest weapons in the continual fight against Matari insurgents. Boasting tremendous range and versatility in equipment fittings, a great deal of armor strength and a powerful capacitor, the skilled Slicer pilot is able to take out most frigates with ease.",
+    "es": "La Slicer es el tesoro de la Armada Imperial, y una de sus mejores armas en la lucha constante contra los insurgentes mataris. Con su gran alcance y su enorme versatilidad de equipamiento, su gran fuerza de blindaje y su potente condensador, un piloto de Slicer experto puede acabar fácilmente con la mayoría de fragatas.",
+    "fr": "Le Slicer fait la fierté de la Navy impériale et constitue l'une de ses plus grandes armes dans le combat sans relâche qu'elle mène contre les insurgés matari. Grâce à une portée exceptionnelle, une grande polyvalence dans les installations d'équipement, un blindage bien solide et un puissant capaciteur, un pilote de Slicer habile peut aisément se débarrasser de n'importe quelle frégate.",
+    "ja": "帝国海軍自慢のスライサーは、マタール反乱勢力との絶え間ない戦いに使われる最大級の兵器である。射程の長さと様々な装備に対応する汎用性、強固なアーマーと高出力のキャパシタを備え、熟練したパイロットが操れば他のフリゲートをやすやすと叩き落とす。",
+    "ko": "슬라이서는 제국 해군의 기쁨이자 자랑으로 마타리 반란군과의 전쟁에서 사용된 가장 큰 무기 중 하나입니다. 사거리가 매우 길고 다양하게 장비 장착이 가능한 데다 장갑 내구도와 캐패시터양 또한 뛰어나기 때문에, 숙련된 파일럿이라면 슬라이서를 이용하여 대부분의 프리깃을 손쉽게 격추할 수 있습니다.",
+    "ru": "«Слайсер» – это краса и гордость флота Амаррской Империи, а также одно из основных орудий непрекращающейся борьбы против матарских повстанцев. Хорошо обученный пилот «Слайсера» с лёгкостью расправится с фрегатами практически всех существующих проектов: в этом ему помогут мощные бортовые системы, способные обеспечить работу самых различных комплектов оснастки, а также  накопитель высокой ёмкости и крайне прочная броня.",
+    "zh": "切割机级是艾玛海军的骄傲和自豪，是与玛塔利起义军打持久战时最大的法宝之一。它的装备选择余地很大，装甲厚重，有大功率的电容。老练的“切割机”级战舰飞行员能够轻而易举地击败大多数护卫舰。"
+  },
+  "factionID": 500003,
+  "graphicID": 1067,
+  "groupID": 25,
+  "marketGroupID": 1366,
+  "mass": 1003000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      50,
+      117,
+      150,
+      89,
+      93,
+      94
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Imperial Navy Slicer",
     "en": "Imperial Navy Slicer",
@@ -9,6 +74,48 @@
     "ko": "제국 해군 슬라이서",
     "ru": "Imperial Navy Slicer",
     "zh": "帝国海军切割机级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 32.0,
+  "sofFactionName": "amarrnavy",
+  "soundID": 20063,
+  "traits": {
+    "types": {
+      "3331": [
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf die optimale Reichweite von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3303>Small Energy Turret</a> optimal range",
+            "es": "de bonificación al alcance óptimo de la <a href=showinfo:3303>torreta de energía pequeña</a>.",
+            "fr": "de bonus à la portée optimale des <a href=showinfo:3303>petites tourelles à énergie</a>",
+            "ja": "<a href=showinfo:3303>小型エネルギータレット</a>の最適射程距離が拡大",
+            "ko": "<a href=showinfo:3303>소형 에너지 터렛</a> 최적사거리 증가",
+            "ru": "увеличивается оптимальная дальность ведения огня из <a href=showinfo:3303>малых лазерных орудий</a>",
+            "zh": "<a href=\"showinfo:3303\">小型能量炮台</a>最佳射程加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 25,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3303>Small Energy Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3303>torreta de energía pequeña</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:3303>petites tourelles à énergie</a>",
+            "ja": "<a href=showinfo:3303>小型エネルギータレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3303>소형 에너지 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон <a href=showinfo:3303>малых лазерных орудий</a>",
+            "zh": "<a href=\"showinfo:3303\">小型能量炮台</a>伤害加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 16500.0
 }

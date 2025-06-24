@@ -1,5 +1,22 @@
 {
-  "typeID": 2961,
+  "basePrice": 2320888.0,
+  "capacity": 0.5,
+  "description": {
+    "de": "Die ultimative Artilleriekanone. Sie verbreitet Tod und Zerstörung über eine unglaubliche Entfernung. Sie muss mit einer der folgenden Projektil-Munitionssorten (regulär oder fortschrittlich) geladen werden: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, Titanium Sabot, Quake oder Tremor.",
+    "en": "The ultimate artillery cannon. It hurls death and destruction over incredible distances. \r\n\r\nMust be loaded with any of the following regular and advanced projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, Titanium Sabot, Quake, Tremor.",
+    "es": "El cañón de artillería por excelencia; capaz de portar muerte y destrucción a distancias increíbles.\n\nDebe cargarse con cualquiera de los siguientes tipos de munición de proyectiles normales o avanzados: plomo carbonado, uranio empobrecido, EMP, fusión, nuclear, plasma fásico, protón, perforante de titanio, Quake y Tremor.",
+    "fr": "Canon d'artillerie dernière génération. Il sème la mort et la destruction sur des distances incroyables. \n\nRequiert les types de munitions de projectile normales et perfectionnées suivants : plomb trempé, uranium appauvri, IEM, fusion, nucléaire, plasma à phase, proton, sabot de titane, quake, tremor.",
+    "ja": "究極のアーティレリキャノン。驚くべき遠距離から死と破壊を浴びせかける。 装填可能な標準または高性能プロジェクタイル弾のタイプ : 炭化鉛弾、劣化ウラン弾、EMP弾、フュージョン弾、ニュークリア弾、フェーズプラズマ弾、プロトン弾、チタン製サボット弾、クェーク弾、トレマー弾。",
+    "ko": "대형 함포로 초장거리 포격을 통해 적을 분쇄합니다. <br><br>사용 및 장착 가능한 발사체: 탄화납, 열화 우라늄, EMP, 융합, 원자력, 위상 플라즈마, 양성자, 티타늄 사봇, 퀘이크, 트래머.",
+    "ru": "Наиболее совершенное артиллерийское орудие. Сеет смерть и разрушение на сверхдальних расстояниях.\n\nДля стрельбы из орудия используются стандартные и усовершенствованные снаряды следующих типов: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, Titanium Sabot, Quake, Tremor.",
+    "zh": "终极加农炮。可以对极远之外的目标实施毁灭性和破坏性打击。\r\n\r\n必须装填以下类型的常规和高级射弹弹药：碳铅弹、硬钼弹、电磁脉冲弹、聚变弹、核芯弹、定相离子弹、质子弹、钛合金萨博弹、“地震”、“战栗”。"
+  },
+  "graphicID": 11279,
+  "groupID": 55,
+  "iconID": 379,
+  "marketGroupID": 579,
+  "mass": 2000.0,
+  "metaGroupID": 2,
   "name": {
     "de": "1400mm Howitzer Artillery II",
     "en": "1400mm Howitzer Artillery II",
@@ -10,5 +27,10 @@
     "ru": "1400mm Howitzer Artillery II",
     "zh": "1400mm榴弹炮 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 2000.0,
+  "sofFactionName": "brutor",
+  "variationParentTypeID": 498,
   "volume": 20.0
 }

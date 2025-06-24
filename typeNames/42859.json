@@ -1,5 +1,16 @@
 {
-  "typeID": 42859,
+  "description": {
+    "de": "Ein zerstörtes Lif-Truppenunterstützerschiff.",
+    "en": "A wrecked Lif Force Auxiliary vessel.",
+    "es": "Nave auxiliar de la fuerza Lif destrozada.",
+    "fr": "Épave de vaisseau des forces auxiliaires de classe Lif.",
+    "ja": "破壊されたリーヴ級支援型主力艦。",
+    "ko": "난파된 리프 포스 악실리아입니다.",
+    "ru": "Обломки вспомогательного КБТ типа «Лиф».",
+    "zh": "一艘利夫级战力辅助舰的残骸。"
+  },
+  "graphicID": 21304,
+  "groupID": 226,
   "name": {
     "de": "Minmatar Force Auxiliary Wreck",
     "en": "Minmatar Force Auxiliary Wreck",
@@ -10,5 +21,8 @@
     "ru": "Minmatar Force Auxiliary Wreck",
     "zh": "米玛塔尔战力辅助舰残骸"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 1000.0,
+  "sofFactionName": "minmatarbase"
 }

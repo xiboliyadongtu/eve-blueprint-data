@@ -1,5 +1,17 @@
 {
-  "typeID": 26228,
+  "description": {
+    "de": "Diese Sicherheitsplakette ermöglicht Zugang zum Raum mit der Denkfabrik.",
+    "en": "This security pad is used to access the Think Tank room.",
+    "es": "Esta plataforma de seguridad se usa para acceder a la sala de Think Tank.",
+    "fr": "Plateforme de sécurité permettant d'accéder à la salle du Think Tank.",
+    "ja": "シンクタンクルームにアクセスできるセキュリティパッド。",
+    "ko": "싱크 탱크로의 접근권한을 가진 보안키입니다.",
+    "ru": "Секретная клавиатура используется для проникновения в помещение Think Tank.",
+    "zh": "这个安全控制装置是用来访问智囊团空间层的。"
+  },
+  "groupID": 474,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Think Tank Security Pad",
     "en": "Think Tank Security Pad",
@@ -10,5 +22,7 @@
     "ru": "Think Tank Security Pad",
     "zh": "智囊团安全控制装置"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

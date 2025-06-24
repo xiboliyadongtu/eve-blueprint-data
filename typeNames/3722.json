@@ -1,5 +1,16 @@
 {
-  "typeID": 3722,
+  "description": {
+    "de": "Die Frachtschlepper der Iteron-Schiffsklasse sind schnell und zuverlässig. Es gibt sie in vielen Bauarten. Diese hier mögen zivile und militärische Auftraggeber gleichermaßen, da sie preiswert sind und in unzähligen Variationen gefertigt werden, so dass man nahezu jede Fracht mit ihnen befördern kann. Sie sind allerdings außerordentlich anfällig und müssen daher in unsicheren Raumsektoren mit Geleitschutz fliegen.",
+    "en": "The Iteron-class cargo tugger is fast and reliable and there are many versions of it. It is equally popular among civilians and militaries alike as it's cheap and can be fitted in myriad different ways, allowing it to be used to freight almost anything. It is, however, quite vulnerable and needs to be protected while in unfriendly territories.",
+    "es": "El remolcador de clase Iteron es rápido y fiable, y está disponible en muchas versiones. Es popular tanto entre los civiles como entre los militares, ya que es barato y puede equiparse de una infinidad de formas, lo cual permite usarlo para cargar casi cualquier cosa. Sin embargo, es bastante vulnerable y debe estar protegido en territorios hostiles.",
+    "fr": "Le remorqueur de classe Iteron est rapide et fiable. Il en existe plusieurs versions. Il est aussi apprécié par les militaires que par les civils car il est bon marché et il peut être modifié très simplement. Cette faculté lui permet de transporter à peu près toutes les marchandises existantes. Seul point faible : son système de protection est quasi-inexistant. Il doit donc bénéficier d'une escorte dans les territoires ennemis.",
+    "ja": "イタロン級貨物輸送船は高速で信頼性が高く、いくつものバリエーションが存在する。民間にも軍用にも等しく人気が高いのは、安価なうえに多種多様なフィッティングに対応するため、ほとんどどんな貨物の輸送にも使えるからである。ただし、防御はかなり脆弱なので、非友好的勢力の活動圏を通る際には護衛が必要だ。",
+    "ko": "이테론급 화물 수송선은 신속하고 신뢰성 있는 함선으로 다양한 형태로 제작되고 있습니다. 저렴한 비용과 다양한 모듈을 탑재할 수 있는 능력 덕분에 거의 모든 종류의 화물 운송에 활용되고 있으며 군대에서뿐만 아니라 민간용 함선으로도 인기가 높습니다. 그런 한편 취약한 방어력으로 인해 적지를 홀로 운항하는 것은 불가능합니다.",
+    "ru": "Грузовые корабли класса Iteron быстры и надёжны. Существует множество модификаций этого корабля. Он одинаково популярен как среди гражданских, так и среди военных, поскольку он дешёв и может быть переоборудован под различные цели, что позволяет ему перевозить практически любые грузы. Однако он достаточно уязвим и требует эскортирования на враждебных территориях.",
+    "zh": "伊特龙级货运船高速可靠，有好几个版本。因为它价格便宜，装配方式多样，可以用来运送任何货物，所以广受军民欢迎。不过它的防御能力极差，在危险地区作业时需要有人保护。"
+  },
+  "graphicID": 326,
+  "groupID": 226,
   "name": {
     "de": "Gallente Iteron Mark III Hauler",
     "en": "Gallente Iteron Mark III Hauler",
@@ -10,5 +21,9 @@
     "ru": "Gallente Iteron Mark III Hauler",
     "zh": "盖伦特埃比斯级运载舰"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 277.0,
+  "sofFactionName": "gallentebase"
 }

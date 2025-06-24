@@ -1,5 +1,17 @@
 {
-  "typeID": 353371,
+  "basePrice": 149000.0,
+  "description": {
+    "de": "Grundlegender Skill für die Bedienung von Schildboostern.\n\nSchaltet die Fähigkeit zur Verwendung von Schildboostermodulen frei.\n\n+3% auf die Fahrzeugschildladerate pro Skillstufe.",
+    "en": "Base skill for shield booster operation.\r\n\r\nUnlocks the ability to use shield booster modules.\r\n\r\n+3% vehicle shield recharge rate per level.",
+    "es": "Conocimiento básico de sistemas reforzadores de escudo.\n\nDesbloquea la habilidad de usar módulos reforzadores de escudo.\n\n+3% al índice de recarga de escudos de los vehículos por nivel.",
+    "fr": "Compétence de base permettant d'utiliser des boosters de bouclier.\n\nDéverrouille l'utilisation des modules de booster de bouclier.\n\n+3 % de vitesse de recharge du bouclier du véhicule par niveau.",
+    "it": "Abilità di base nell'utilizzo dei potenziamenti dello scudo.\n\nSblocca l'abilità nell'utilizzo di moduli per potenziamento scudo.\n\n+3% alla velocità di ricarica degli scudi del veicolo per livello.",
+    "ja": "シールドブースターオペレーションの基本スキル。シールドブースターモジュールが使用可能になる。\n\nレベル上昇ごとに、車両のシールドリチャージ速度が3%上昇する。",
+    "ko": "실드 부스터 운용을 위한 스킬입니다. <br><br>실드 부스터 모듈 조작 능력을 해제합니다.<br><br>매 레벨마다 차량용 실드 회복률 3% 증가",
+    "ru": "Основополагающий навык для обращения с системами усиления щита.\n\nПозволяет использовать модули усиления щита.\n\n+3% к скорости подзарядки щитов транспортного средства на каждый уровень.",
+    "zh": "操作护盾回充增量器的基础技能。解锁使用护盾回充增量器的能力。每升一级，车辆护盾回充速率增加3%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Schildemittermodule",
     "en": "Shield Boost Systems",
@@ -11,5 +23,7 @@
     "ru": "Системы усиления щитов",
     "zh": "护盾回充系统"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

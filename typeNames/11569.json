@@ -1,5 +1,18 @@
 {
-  "typeID": 11569,
+  "basePrice": 500000.0,
+  "description": {
+    "de": "Fortgeschrittene Fertigkeit zur Verstärkung der Panzerungen verbündeter Schiffe. Erhört die Stärke der Effekte von Panzerungkommandostrahlen um 10 % pro Skillstufe.",
+    "en": "Advanced proficiency at boosting the armor defenses of allied ships. Increases the strength of Armored Command Burst effects by 10% per skill level.",
+    "es": "Habilidad avanzada para potenciar las defensas de blindaje de las naves aliadas. Aumenta la intensidad de los efectos de estallido de mando de blindaje un 10 % por nivel de habilidad.",
+    "fr": "Maîtrise avancée de la projection blindée dédiée au renforcement des blindages défensifs des vaisseaux alliés. Augmente de 10 % par niveau la puissance des effets des salves de commandement blindé.",
+    "ja": "味方艦船のアーマー防御力を向上させる高度な能力。スキルレベル上昇ごとにアーマードコマンドバーストの効果強度が10%増加。",
+    "ko": "아군 함선의 장갑 성능을 향상하기 위한 상급 스킬입니다. 매 레벨마다 장갑 버스트 효과 10% 증가",
+    "ru": "Глубинные познания в области повышения эффективности брони союзных кораблей. За каждую степень освоения навыка: на 10% повышается эффективность действия импульсов, генерируемых импульсными оптимизаторами брони.",
+    "zh": "精通于增强所有友方舰船的装甲防御能力的高级技能。每升一级，装甲指挥脉冲波的效果强度提高10%。"
+  },
+  "groupID": 258,
+  "iconID": 33,
+  "marketGroupID": 370,
   "name": {
     "de": "Armored Command Specialist",
     "en": "Armored Command Specialist",
@@ -10,5 +23,7 @@
     "ru": "Спецкурс оптимизации броневой защиты флотов",
     "zh": "装甲指挥专业研究"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

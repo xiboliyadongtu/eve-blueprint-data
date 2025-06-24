@@ -1,5 +1,18 @@
 {
-  "typeID": 48569,
+  "description": {
+    "de": "Es wurden stark aufgewertete und gut ausgerüstete Sleeper-Drohnen verschiedener Konfigurationen entdeckt, die die Seeker-Spähergruppen in New Eden begleiten. Diese Sleeper-Drohne verfügt über geringe Tarnfähigkeiten und profitiert von aufgewerteten Motoren.",
+    "en": "Heavily upgraded and well-equipped Sleeper drones of many different configurations have been detected accompanying the Seeker scouting groups in New Eden.\r\n\r\nThis Sleeper drone has minor stealth capabilities and benefits from upgraded engines.",
+    "es": "Se han detectado drones sleepers bien equipados, con grandes mejoras y de muchas configuraciones distintas, acompañando a los grupos de exploración seekers en Nuevo Edén.\n\n\n\nEste dron sleeper cuenta con prestaciones básicas de sigilo y se beneficia de motores mejorados.",
+    "fr": "Des drones sleeper lourdement équipés et améliorés de configurations diverses ont été repérés aux côtés des groupes d'éclaireurs Seeker dans New Eden. Ce drone sleeper utilise des moteurs améliorés et il possède quelques capacités furtives.",
+    "ja": "大幅な強化と十分な装備を施されたさまざまな構成のスリーパードローンが、ニューエデン圏内のシーカー偵察群に同行している事が確認されている。\r\n\nこのスリーパードローンには若干のステルス能力が備わっており、エンジンも強化されている。",
+    "ko": "첨단 장비를 탑재한 개조 슬리퍼 드론으로 다양한 형태를 지니고 있습니다. 해당 드론은 시커 정찰대 소속으로 활동하고 있습니다. <br><br>슬리퍼 드론에는 가벼운 스텔스 기능과 업그레이드 된 엔진이 탑재되어 있습니다.",
+    "ru": "В составе разведывательных отрядов Искателей, исследующих Новый Эдем, замечены модернизированные и хорошо оснащённые беспилотные корабли Спящих самых разных конфигураций. Этот беспилотник Спящих обладает минимальными способностями к маскировке и улучшенными двигателями.",
+    "zh": "经侦查，多种不同类型的全面升级且装备精良的冬眠者无人机护卫着探寻者侦查小队在宇宙中出没。\n\n\n\n这种冬眠者无人机具有强化的引擎以及一点隐秘行动能力。"
+  },
+  "factionID": 500021,
+  "graphicID": 3560,
+  "groupID": 1768,
+  "mass": 2000000.0,
   "name": {
     "de": "Seeker Elite Interceptor",
     "en": "Seeker Elite Interceptor",
@@ -10,5 +23,10 @@
     "ru": "Seeker Elite Interceptor",
     "zh": "探寻者 精英拦截者"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 64,
+  "radius": 50.0,
+  "sofFactionName": "sleeperbase",
+  "soundID": 12
 }

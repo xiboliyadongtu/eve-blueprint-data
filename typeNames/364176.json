@@ -1,5 +1,17 @@
 {
-  "typeID": 364176,
+  "basePrice": 11040.0,
+  "description": {
+    "de": "Dieses Kühlsystem spült aktiv das Gehäuse einer Waffe. Dadurch kann länger gefeuert werden, ohne dass es zum Überhitzen kommt.  Verringert die Hitzebelastung pro Schuss um 12%.\n\nHINWEIS: Es kann immer nur ein aktiver Kühler ausgerüstet werden.\nFür dieses Modul gelten Stapelabzüge; nach dem ersten Modul nimmt die Wirksamkeit jedes weiteren ab, sofern es dieselben Attribute beeinflusst.",
+    "en": "This coolant system actively flushes a weapon's housing, enabling it to fire for a longer duration before overheating.  Reduces heat cost per shot by 12%.\r\n\r\nNOTE: Only one Active Heatsink can be fitted at a time.\r\nStacking penalties apply to this module; the effectiveness of each additional module (after the first) that alters the same attributes will be reduced.",
+    "es": "Este sistema refrigerante enfría de manera activa la estructura del arma, aumentando el tiempo de disparo antes del sobrecalentamiento.  Reduce el calentamiento por disparo en un 12%.\n\nAVISO: Solo se puede equipar un disipador térmico activo por montaje.\nAVISO: a este módulo se le aplican penalizaciones por agrupamiento. Su eficacia se ve reducida por cada módulo del mismo tipo que se monte después del primero.",
+    "fr": "Ce système de refroidissement nettoie activement la chambre d'une arme, pour lui permettre de tirer pendant plus longtemps avant de surchauffer.  Réduit de 12 % la chaleur causée par les tirs.\n\nREMARQUE : Un seul Dissipateur thermique actif peut être ajouté à la fois au montage.\nDes pénalités d'accumulation s'appliquent à ce module ; au-delà du premier module, l'efficacité de chaque module supplémentaire qui modifie les mêmes attributs sera réduite.",
+    "it": "Il sistema di raffreddamento posto nell'alloggiamento dell'arma consente di sparare più a lungo ritardando il surriscaldamento.  Riduce il consumo di calore per colpo del 12%.\n\nNOTA: È possibile assemblare un solo dissipatore di calore attivo alla volta.\nA questo modulo si applicano le penalità da accumulo; l'efficacia di ogni modulo aggiuntivo (dopo il primo) che modifica gli stessi attributi viene ridotta.",
+    "ja": "この冷却システムが兵器のカバーを頻繁に冷ますことで、オーバーヒートまでの時間を​増やし射撃持続時間を増加する。 1ショット当たりの発熱量を12%削減。\n\n注：複数のアクティブ放熱機を同時に装備することはできない。\n注：このモジュールはスタッキングペナルティの対象となり、同一のモジュールを複数取り付けると、一つ追加するごとにモジュールの効果が低下する。",
+    "ko": "냉각수 시스템을 활성화하여 무기고의 열기를 식힘으로써 더 오랜시간 발사가 가능하도록 합니다. 매 공격마다 발열 12% 감소 <br><br>참고: 방열기는 한 개만 장착할 수 있습니다. <br>중첩 페널티가 적용되는 모듈입니다. 동일한 효과를 지닌 모듈을 한 개 이상 장착할 경우 추가 모듈의 효율성이 감소합니다.",
+    "ru": "В системе охлаждения предусмотрен принудительный прогон охлаждающего агента, что позволяет вести более длительный непрерывный огонь.  Снижает меру нагрева, за выстрел, на 12%.\n\nПРИМЕЧАНИЕ: Только один активный теплопоглотитель может быть установлен за один раз.\nДля этого модуля действует система нарастающих штрафов; эффективность воздействия каждого последующего модуля (после первого), которая изменяет одинаковые характеристики, снижается.",
+    "zh": "这种冷却系统会主动为武器外壳降温，延长武器在过热前的射击时间。每次射弹生成的热量降低12%。注：只能同时装配一个主动散热装置。此装备有堆叠惩罚，额外加装相同属性的装备的效果会降低。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Miliz: Aktiver Kühler",
     "en": "Militia Active Heat Sink",
@@ -11,5 +23,6 @@
     "ru": "Активный теплопоглотитель, для ополчения",
     "zh": "国民卫队主动式散热槽"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

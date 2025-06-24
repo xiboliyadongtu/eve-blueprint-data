@@ -1,5 +1,18 @@
 {
-  "typeID": 62451,
+  "basePrice": 150000000.0,
+  "description": {
+    "de": "Dieser fortschrittliche Skill ermöglicht den Einsatz der neuen Materialkompressionstechnologie von ORE an Bord von Schiffen. Jede Stufe schaltet spezielle Kompressormodule frei, die auf Capital-Schiffen mit Industriekern eingesetzt werden können.",
+    "en": "This advanced skill enables shipboard operation of ORE's new materials compression technology. Each level unlocks specialized compressor modules for use on capital ships equipped with industrial cores.",
+    "es": "Esta habilidad avanzada permite utilizar la nueva tecnología de compresión de materiales de ORE desde una nave. Cada nivel desbloquea módulos compresores especializados que se pueden emplear en naves capitales equipadas con núcleos industriales.",
+    "fr": "Cette compétence avancée permet d'utiliser les nouvelles technologies embarquées de compression des matériaux de l'ORE. Chaque niveau déverrouille des modules de compression spécialisés conçus pour les vaisseaux capitaux équipés de cellules industrielles.",
+    "ja": "この上級スキルにより、OREの新たな資源圧縮技術を使った船上作業が行えるようになる。レベル毎に、インダストリアルコアを装備した主力艦で使用できる特化型の圧縮モジュールがアンロックされる。",
+    "ko": "함선에 ORE 압축기를 설치하기 위해 필요한 상급 스킬입니다. 매 스킬 레벨마다 인더스트리얼 코어가 설치된 캐피탈 함선에서 사용할 수 있는 특수 압축 모듈이 개방됩니다.",
+    "ru": "Этот улучшенный навык позволяет использовать на кораблях новую технологию сжатия материалов от ОРЭ. Каждая степень освоения открывает специализированные компрессоры для кораблей большого тоннажа, оснащённых промышленными ядрами.",
+    "zh": "这个高级技能允许飞行员在舰船上使用联合矿业的材料压缩新技术。每升一级，解锁更多可以在装配了工业核心的旗舰舰船上使用的特殊压缩装备。"
+  },
+  "groupID": 1218,
+  "iconID": 33,
+  "marketGroupID": 1323,
   "name": {
     "de": "Capital Shipboard Compression Technology",
     "en": "Capital Shipboard Compression Technology",
@@ -10,5 +23,7 @@
     "ru": "Capital Shipboard Compression Technology",
     "zh": "旗舰级船用压缩技术"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

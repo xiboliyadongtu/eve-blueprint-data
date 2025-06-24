@@ -1,5 +1,18 @@
 {
-  "typeID": 23695,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese große Anlage wurde von den Serpentis errichtet, um sich der Dokumentenfälschung und anderen Schmuggeltätigkeiten an der Grenze zwischen Föderation und Repuplik anzunehmen - wie zum Beispiel das Demontieren illegaler Güter, damit sie unauffälliger aussehen.",
+    "en": "This huge installation was constructed by the Serpentis to take care of forgery and other smuggler related things for the Federation/Republic border, such as repackaging illegal goods to look more innocent.",
+    "es": "Esta enorme instalación fue construida por Serpentis para encargarse de la falsificación y otros asuntos relacionados con el contrabando en la frontera entre la Federación y la República, como el reenvasado de mercancías ilegales para que parezcan más inocentes.",
+    "fr": "Cette installation immense a été construite par les Serpentis pour traiter les marchandises de contrefaçon et de contrebande aux frontières de la Fédération / de la République. Les marchandises interdites y sont ainsi reconditionnées afin de passer inaperçues.",
+    "ja": "サーペンティスが建造した、偽造もやってのける巨大工場。違法品を再包装して正規品に見せかけるなど、連邦と共和国の国境付近での密輸行為から派生する作業も請け負う。",
+    "ko": "서펜티스 대규모 시설로 밀수품을 일반 화물로 둔갑하는 등, 갈란테-민마타 국경에서의 위조 및 밀수 작업에 사용됩니다.",
+    "ru": "Это огромное сооружение было построено Serpentis для того, чтобы осуществлять деятельность, связанную с контрабандой, на границе Федерации и Республики, например, перефасовку нелегальных товаров с целью придания им более невинного вида.",
+    "zh": "这座巨型设施由天蛇建造，用于处理联邦/合众国边境的造假和其他走私相关事务，比如将非法货物再包装以降低其可疑性。"
+  },
+  "graphicID": 20651,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Serpentis Repackaging Factory",
     "en": "Serpentis Repackaging Factory",
@@ -10,5 +23,11 @@
     "ru": "Serpentis Repackaging Factory",
     "zh": "天蛇再包装站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 8380.0,
+  "sofFactionName": "serpentis",
+  "soundID": 20193,
   "volume": 100000000.0
 }

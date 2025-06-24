@@ -1,5 +1,18 @@
 {
-  "typeID": 25255,
+  "capacity": 145.0,
+  "description": {
+    "de": "Dieses Schiff ist beschädigt und hat seine Manövrierfähigkeit ebenso verloren wie seine Warpfähigkeit.",
+    "en": "This ship has been damaged and has lost its ability to maneuver, as well as its warp capability.",
+    "es": "Esta nave ha sufrido daños y ha perdido tanto su capacidad de maniobra como la capacidad de warpear.",
+    "fr": "Ce vaisseau est endommagé et il a perdu toute capacité de manœuvrer et de warper.",
+    "ja": "破損がひどいため、機動性を失い、ワープ航行も不可能となった艦船。",
+    "ko": "심각하게 훼손되어 비행 및 워프가 불가능합니다.",
+    "ru": "Этот корабль поврежден и не может маневрировать и осуществлять квантовый переход.",
+    "zh": "这艘飞船因受损而无法操纵，同时也丧失了跃迁能力。"
+  },
+  "graphicID": 1793,
+  "groupID": 306,
+  "mass": 1450000.0,
   "name": {
     "de": "Damaged Heron_2",
     "en": "Damaged Heron_2",
@@ -10,5 +23,10 @@
     "ru": "Damaged Heron_2",
     "zh": "损坏的苍鹭级2"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 47.0,
+  "sofFactionName": "caldarinavy",
   "volume": 16120.0
 }

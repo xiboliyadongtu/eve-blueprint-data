@@ -1,5 +1,17 @@
 {
-  "typeID": 27274,
+  "description": {
+    "de": "Dieser Gegenstand ist ein integriertes Bauteil eines Perpetuum Mobiles. Sollte das Rad jemals aufhören sich zu drehen, wird die ganze Einheit bis zum Stillstand abgebremst.",
+    "en": "This item is an integral component of perpetual motion units. If the wheel ever stops spinning, the entire unit will grind to a halt.",
+    "es": "Este objeto es un componente integral de las unidades de movimiento perpetuo. Si la rueda deja de girar, toda la unidad se detendrá.",
+    "fr": "Composant des unités de mouvement perpétuel. Si cette roue cesse de tourner, l'unité elle-même s'arrête.",
+    "ja": "永久運動ユニットに使用する重要部品。このホイールの回転が停止すると、ユニット全体も停止してしまう。",
+    "ko": "영구기관의 핵심 부품입니다. 톱니바퀴가 멈추면 기관 자체가 정지할 것입니다.",
+    "ru": "Этот элемент — составной компонент механизмов вечного движения. Если колесо остановится, то встанет весь механизм.",
+    "zh": "这是一个永动设备上的必备零件，如果这个轮子不再转动，整个设备将慢慢停止。"
+  },
+  "groupID": 526,
+  "iconID": 21085,
+  "mass": 500000.0,
   "name": {
     "de": "Villard Wheel",
     "en": "Villard Wheel",
@@ -10,5 +22,7 @@
     "ru": "Villard Wheel",
     "zh": "维拉德轮"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 25000.0
 }

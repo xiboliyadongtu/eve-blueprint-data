@@ -1,5 +1,19 @@
 {
-  "typeID": 17185,
+  "basePrice": 10000000.0,
+  "description": {
+    "de": "Verbessert die Widerstandsfähigkeit des Kontrollturm-Schildes gegen Explosionsschaden. Wenn man mehr als eine dieser Strukturen oder ähnliche Strukturen verwendet, die das gleiche Attribut beeinflussen, wird sich dies negativ auf den Kontrollturm auswirken.",
+    "en": "Boosts the control tower's shield resistance against explosive damage. Using more than one unit of this structure or similar structures that affect the same attribute on the control tower will yield diminishing returns.",
+    "es": "Potencia la resistencia de escudo de la torre de control contra el daño explosivo. Usar más de una unidad de esta estructura o estructuras similares que afecten al mismo atributo de la torre de control producirá una pérdida de rendimiento.",
+    "fr": "Augmente la résistance des boucliers de la tour de contrôle contre les dégâts explosifs. Utiliser plus d'une unité de cette structure ou d'une structure similaire liée à un même attribut de la tour de contrôle fera l'objet d'une pénalité.",
+    "ja": "コントロールタワーのシールドのエクスプローシブダメージレジスタンスを強化する。ただし、同種の建造物、またはコントロールタワーに同じ効果をもたらす類似の建造物を複数建造すると効果が低下する。",
+    "ko": "폭발 피해에 대한 관제타워의 실드 저항력이 증가합니다. 함선에 동일한 모듈 또는 같은 속성의 모듈을 한 개 이상 장착할 경우 페널티가 부여됩니다.",
+    "ru": "Повышает сопротивляемость силового щита башни управления базой действию взрыва. Минус: при использовании нескольких модулей этого типа или других модулей базы, изменяющих те же характеристики башни управления, их эффективность снижается.",
+    "zh": "增强控制塔护盾对爆炸伤害的抗性。在一座控制塔上使用超过一个此阵列或其他影响同种抗性的类似建筑将削弱实际使用效果。"
+  },
+  "graphicID": 2380,
+  "groupID": 444,
+  "marketGroupID": 485,
+  "mass": 100000000.0,
   "name": {
     "de": "Explosion Dampening Array",
     "en": "Explosion Dampening Array",
@@ -10,5 +24,9 @@
     "ru": "Explosion Dampening Array",
     "zh": "爆炸伤害弱化阵列"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 750.0,
+  "sofFactionName": "genericmetal",
   "volume": 4000.0
 }

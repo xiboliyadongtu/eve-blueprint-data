@@ -1,5 +1,16 @@
 {
-  "typeID": 42601,
+  "description": {
+    "de": "Ein unbekanntes Objekt.",
+    "en": "An unknown object.",
+    "es": "Un objeto no identificado.",
+    "fr": "Objet non identifié",
+    "ja": "未知の物体。",
+    "ko": "알 수 없는 물체입니다.",
+    "ru": "Неизвестный объект.",
+    "zh": "不明物体。"
+  },
+  "graphicID": 3533,
+  "groupID": 226,
   "name": {
     "de": "Unknown object",
     "en": "Unknown object",
@@ -10,5 +21,10 @@
     "ru": "Неизвестный объект",
     "zh": "不明物体"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 16,
+  "radius": 45.0,
+  "sofFactionName": "sleeperbase",
+  "soundID": 20253
 }

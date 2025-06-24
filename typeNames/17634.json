@@ -1,5 +1,70 @@
 {
-  "typeID": 17634,
+  "basePrice": 25600000.0,
+  "capacity": 450.0,
+  "description": {
+    "de": "Die Navy Issue der Caracal hat sich gerade beim Unterbinden der immer häufiger werdenden Übergriffe von Piraten auf Territorien der Caldari bestens bewährt. Weil sie bessere Verteidigungsfähigkeiten sowie durch Module erweiterbar ist, gewinnt sie für die Sicherheit der Caldari zunehmend an Bedeutung.",
+    "en": "Created specifically in order to counter the ever-increasing numbers of pirate invaders in Caldari territories, the Navy Issue Caracal has performed admirably in its task. Sporting added defensive capability as well as increased fitting potential, it is seeing ever greater use in defense of the homeland.",
+    "es": "Creado específicamente para contrarrestar el creciente número de invasores piratas en los territorios caldaris, la Caracal modelo de la Armada ha cumplido admirablemente con su cometido. Con una capacidad defensiva añadida y un mayor potencial de equipamiento, cada vez se utiliza más en la defensa de la patria.",
+    "fr": "Créé pour venir à bout du nombre toujours croissant d'envahisseurs pirates dans les territoires caldari, le Caracal Navy remplit parfaitement sa tâche. Grâce à l'amélioration de ses capacités défensives et de son potentiel de montage, il est de plus en plus utilisé dans la défense de la patrie.",
+    "ja": "海軍仕様のカラカルは、カルダリ領内で増え続ける海賊に対抗するために製造された船で、賞賛すべき成果を挙げてきた。防御能力だけでなく装備の柔軟性も強化された同船は、領土防衛に幅広く使用されている。",
+    "ko": "카라칼 해군 에디션은 갈수록 대담해지는 해적들의 칼다리 영토 침입에 대비하기 위해 제작되었고 그 임무를 충실히 수행해냈습니다. 추가된 방어력과 더 많은 모듈 슬롯을 확보하여 조국을 더욱 효율적으로 지킬 수 있습니다.",
+    "ru": "Специально созданный, чтобы противостоять постоянно растущему поголовью пиратов в пределах границ Государства Калдари, «Каракал-флотский» прекрасно справляется с этой задачей. Благодаря повышенной боевой живучести и расширенным возможностям для установки бортового оборудования, он всё чаще используется для защиты калдарских владений.",
+    "zh": "狞獾级海军型的诞生是为了应付加达里境内日益增加的海盗入侵者，而它们在这一任务中确实表现极为出色。它那经过强化的防御能力以及装备升级潜力，使其在防御国土的任务中发挥着越来越大的作用。"
+  },
+  "factionID": 500001,
+  "graphicID": 1786,
+  "groupID": 26,
+  "marketGroupID": 1370,
+  "mass": 9600000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      150,
+      139,
+      76,
+      85,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      150,
+      139,
+      76,
+      85,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      150,
+      139,
+      76,
+      85,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      150,
+      139,
+      76,
+      85,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      150,
+      139,
+      76,
+      85,
+      118,
+      94
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Caracal Navy Issue",
     "en": "Caracal Navy Issue",
@@ -10,5 +75,50 @@
     "ru": "Caracal Navy Issue",
     "zh": "狞獾级海军型"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 202.0,
+  "sofFactionName": "caldarinavy",
+  "soundID": 20070,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [],
+    "types": {
+      "3334": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf den Explosionsradius von <a href=showinfo:3324>schweren Lenkwaffen</a> und <a href=showinfo:25719>schweren Angriffslenkwaffen</a>",
+            "en": "bonus to <a href=showinfo:3324>Heavy Missile</a> and <a href=showinfo:25719>Heavy Assault Missile</a> explosion radius",
+            "es": "de bonificación al radio de explosión de los <a href=showinfo:3324>misiles pesados</a> y los <a href=showinfo:25719>misiles de asalto pesados</a>.",
+            "fr": "de bonus au rayon d'explosion des <a href=showinfo:3324>missiles lourds</a> et des <a href=showinfo:25719>missiles d'assaut lourds</a>",
+            "ja": "<a href=showinfo:3324>ヘビーミサイル</a>・<a href=showinfo:25719>ヘビーアサルトミサイル</a>の爆発半径が縮小",
+            "ko": "<a href=showinfo:3324>헤비 미사일</a> 및 <a href=showinfo:25719>헤비 어썰트 미사일</a> 폭발반경 감소",
+            "ru": "уменьшается сигнатура взрыва БЧ <a href=showinfo:3324>тяжёлых ракет</a> и <a href=showinfo:25719>тяжёлых штурмовых ракет</a>",
+            "zh": "<a href=\"showinfo:3324\">重型导弹</a>和<a href=\"showinfo:25719\">重型攻击导弹</a>的爆炸半径加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 6.0,
+          "bonusText": {
+            "de": "Bonus auf die Feuerrate von schnellen <a href=showinfo:3321>leichten Lenkwaffenwerfern</a>, <a href=showinfo:3324>schweren Lenkwaffenwerfern</a> und <a href=showinfo:25719>schweren Angriffslenkwaffenwerfern</a>",
+            "en": "bonus to Rapid <a href=showinfo:3321>Light Missile</a>, <a href=showinfo:3324>Heavy Missile</a> and <a href=showinfo:25719>Heavy Assault Missile</a> Launcher rate of fire",
+            "es": "de bonificación a la cadencia de tiro rápida de los <a href=showinfo:3321>lanzamisiles ligeros</a>, los <a href=showinfo:3324>lanzamisiles pesados</a> y los <a href=showinfo:25719>lanzamisiles de asalto pesados</a>.",
+            "fr": "de bonus à la cadence de tir des <a href=showinfo:3321>lance-missiles légers</a>, <a href=showinfo:3324>lance-missiles lourds</a> et <a href=showinfo:25719>lance-missiles d'assaut lourds</a> rapides",
+            "ja": "高速<a href=showinfo:3321>ライトミサイル</a>・<a href=showinfo:3324>ヘビーミサイル</a>・<a href=showinfo:25719>ヘビーアサルトミサイル</a>ランチャーの発射間隔が短縮",
+            "ko": "급속 <a href=showinfo:3321>라이트 미사일</a>, <a href=showinfo:3324>헤비 미사일</a>, <a href=showinfo:25719>헤비 어썰트 미사일</a> 런처 연사속도 증가",
+            "ru": "повышается скорострельность скорострельных ПУ <a href=showinfo:3321>лёгких ракет</a>, ПУ <a href=showinfo:25719>тяжёлых штурмовых ракет</a>, ПУ <a href=showinfo:3324>тяжёлых ракет</a>",
+            "zh": "<a href=\"showinfo:3324\">重型导弹发射器</a> 、<a href=\"showinfo:25719\">重型攻击导弹发射器</a>和<a href=\"showinfo:3321\">轻型快速导弹发射器</a>射速加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 621,
   "volume": 101000.0
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 29298,
+  "description": {
+    "de": "Dieses Signalfeuer markiert eine mittelgroße militärische Position. Das Eingangstor ist wahrscheinlich so konfiguriert, dass Fregatten und Kreuzer vom Typ Tech I und Tech II sowie Zerstörer vom Typ Tech I, Tech II und Tech III passieren können. Die in diesem Beschleunigungstor installierten Sicherheitsfunktionen verhindern die Aktivierung durch alle mit Warpkern-Stabilisatormodulen ausgestatteten Schiffe.",
+    "en": "This beacon marks a medium military location. The entry gate is likely configured to admit Tech I and Tech II frigates, Tech I, Tech II and Tech III destroyers and Tech I and Tech II cruisers.\r\nThe security features installed in this acceleration gate will prevent activation by any ship that is fitted with warp core stabilizer modules.",
+    "es": "Esta baliza marca una sede militar mediana. Es probable que el portal de entrada esté configurado para admitir fragatas T1 y T2, destructores T1, T2 y T3 y cruceros T1 y T2.\n\nLas funciones de seguridad instaladas en este portal de aceleración impiden que lo active ninguna nave con módulos estabilizadores del núcleo de warp.",
+    "fr": "Cette balise indique un emplacement militaire intermédiaire. Le portail d'entrée est probablement configuré pour accepter les frégates Tech I et Tech II, les destroyers Tech I, Tech II et Tech III ainsi que les croiseurs Tech I et Tech II. Les fonctions de sécurité installées sur cette porte d'accélération empêchent tout vaisseau équipé de modules de stabilisateur du réacteur de warp de l'activer.",
+    "ja": "このビーコンは中型の軍事ポイントを示す。エントリーゲートは、T1からT2までのフリゲート、T1からT3までの駆逐艦、T1からT2までの巡洋艦が通過できる設定になっているようだ。\r\nこの加速ゲートに設置されたセキュリティ機能は、ワープコアスタビライザーモジュールを装備した艦船が起動するのを防ぐ。",
+    "ko": "중규모 군사 훈련지의 위치를 표시하고 있습니다. 테크 I, II 프리깃, 테크 I, II, III 디스트로이어, 테크 I, II 크루저만 입장할 수 있습니다. <br><br>보안 규정에 따라 워프 코어 스태빌라이저 모듈을 탑재한 함선은 입장이 불가능합니다.",
+    "ru": "Этот маяк обозначает среднюю зону боевых действий. Конфигурация врат, вероятнее всего, рассчитана на фрегаты первого и второго техноуровня, эсминцы первого, второго и третьего техноуровня и крейсеры первого и второго техноуровня. Система безопасности не позволяет активировать эти разгонные врата кораблям, оснащённым модулями стабилизации варп-ядра.",
+    "zh": "这个信标标记着一个中级的军事设施。入口通道似乎被设定为允许一级科技和二级科技的护卫舰、巡洋舰以及一级科技、二级科技和三级科技的驱逐舰进入。\n\n安装在这个加速轨道中的安全设备会阻止任何舰船使用装配的跃迁核心稳定器。"
+  },
+  "graphicID": 1211,
+  "groupID": 310,
+  "mass": 1.0,
   "name": {
     "de": "Medium Military Beacon",
     "en": "Medium Military Beacon",
@@ -10,5 +22,9 @@
     "ru": "Medium Military Beacon",
     "zh": "中型军事信标"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 30000.0,
+  "sofFactionName": "genericbase",
   "volume": 1.0
 }

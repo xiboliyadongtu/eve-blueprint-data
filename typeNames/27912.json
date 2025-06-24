@@ -1,5 +1,20 @@
 {
-  "typeID": 27912,
+  "basePrice": 129920.0,
+  "description": {
+    "de": "Schießt nach der Detonation einen pulsierenden Strahl in alle Richtungen, der bei allen Schiffen in der Umgebung Kinetikschaden verursacht. Die Bombe verfügt über ein fortschrittliches Rüstungshärtung-System, das sie gegenüber Kinetikschaden höchst standhaft macht und somit ermöglicht, mehrere Bomben auf das selbe Ziel zu senden.",
+    "en": "Radiates an omnidirectional pulse upon detonation that causes kinetic damage to surrounding vessels. The bomb employs an advanced armor hardening system which makes it highly resistant to kinetic damage, thus enabling delivery of multiple bombs to a given target area.",
+    "es": "Al detonar, irradia un pulso omnidireccional que causa daño cinético a las naves circundantes. La bomba emplea un avanzado sistema de endurecimiento del blindaje que hace que sea muy resistente al daño cinético, lo que permite lanzar múltiples bombas a una zona determinada.",
+    "fr": "Lors de la détonation, cette bombe émet une vibration omnidirectionelle qui inflige des dégâts cinétiques à tous les vaisseaux situés à proximité. Elle est équipée d'un système avancé de renforcement du blindage qui la rend extrêmement résistante aux dégâts cinétiques et qui permet le largage de plusieurs bombes de ce type dans une même zone.",
+    "ja": "爆発と同時に全方向に波動を放出し、周囲の船にキネティックダメージを与える。高度なアーマー強化システムを装備し、キネティックダメージに優れた耐性を持つ。そのため、ターゲットとなるエリアに複数の爆弾を撃ち込むことが可能。",
+    "ko": "전방위 펄스를 방사하여 주변 함선에 광역 키네틱 피해를 입힙니다. 첨단 장갑 시스템이 탑재되어 상당한 수준의 키네틱 저항력을 지녔습니다. 집중된 지역에 다수의 폭탄을 투하하는 것이 가능합니다.",
+    "ru": "При взрыве излучает всенаправленный импульс, наносящий кинетический ущерб окружающим кораблям. Бомба использует передовую систему укрепления брони, что делает ее крайне устойчивой к кинетическим повреждениям; таким образом, в заданную точку может быть успешно сброшено несколько бомб.",
+    "zh": "爆炸时发射一个全向脉冲，对周围的飞船造成动能伤害。由于炸弹上使用了高级装甲增强系统，具有很强的动能抗性，因而能够对目标区域发射多个炸弹。"
+  },
+  "graphicID": 20035,
+  "groupID": 90,
+  "iconID": 3280,
+  "marketGroupID": 1015,
+  "mass": 1000.0,
   "name": {
     "de": "Concussion Bomb",
     "en": "Concussion Bomb",
@@ -10,5 +25,8 @@
     "ru": "Concussion Bomb",
     "zh": "震荡炸弹"
   },
+  "portionSize": 20,
+  "published": true,
+  "radius": 300.0,
   "volume": 75.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 12095,
+  "basePrice": 5000000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Angriffsfregatten.",
+    "en": "Skill for operation of the Assault Frigates.",
+    "es": "Habilidad en el manejo de fragatas de asalto.",
+    "fr": "Compétence pour l'utilisation des frégates d'assaut.",
+    "ja": "強襲型フリゲートを操作するスキル。",
+    "ko": "어썰트 프리깃 운용을 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на ударных фрегатах.",
+    "zh": "操作突击护卫舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Assault Frigates",
     "en": "Assault Frigates",
@@ -10,5 +23,8 @@
     "ru": "Ударные фрегаты",
     "zh": "突击护卫舰操作"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

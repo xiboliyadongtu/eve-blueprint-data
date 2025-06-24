@@ -1,5 +1,18 @@
 {
-  "typeID": 26676,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Mit der richtigen Bergungsausrüstung kann man wohl doch noch etwas Wertvolles aus diesen alten Trümmern holen.",
+    "en": "You surmise that with some salvaging equipment there is still something of value to be had from this old derelict.",
+    "es": "Con algo de equipo de recuperación, quizá aún pueda sacarse algo de valor de estos restos viejos.",
+    "fr": "Vous estimez qu'avec du bon matériel de récupération, on pourrait tirer quelque chose de cet objet.",
+    "ja": "なんらかのサルベージ装置があれば、まだ、この古びた遺棄物に価値を見いだせるかもしれない。",
+    "ko": "샐비지 장비로 버려진 구조물에서 부품이나 자원을 획득할 수 있습니다.",
+    "ru": "Вы думаете, что с помощью специального демонтажного оборудования из этого заброшенного обломка можно будет извлечь что-то полезное.",
+    "zh": "你估计如果使用某种打捞设备，或许还能从这些遗弃物中获得些有价值的东西。"
+  },
+  "graphicID": 3116,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Serpentis Derelict",
     "en": "Serpentis Derelict",
@@ -10,5 +23,9 @@
     "ru": "Serpentis Derelict",
     "zh": "天蛇集团遗弃物"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

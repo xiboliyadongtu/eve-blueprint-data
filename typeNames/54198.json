@@ -1,5 +1,18 @@
 {
-  "typeID": 54198,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Dieses stationierbare Triglavia-Waffensystem nutzt eine Version multispektraler ECMs, um die Zielerfassung gegnerischer Schiffe zu stören. Der Jariloz Semiotic Suppressor bedient sich ähnlicher Techniken, um durch die Erzeugung von ausreichend Störsignalen verschiedene Sensorensysteme dermaßen zu schwächen, dass eine Zielerfassung unmöglich wird. Eine Eigenheit der Triglavia-Variante ist die Einbeziehung von Propaganda und Informationskriegsführung in die Störsignale, obgleich dies größtenteils keine Wirkung zu zeigen scheint. Diese Systeme werden von Triglavia-Einheiten mit der Bezeichnung „Jariloznik“ eingesetzt.",
+    "en": "This Triglavian deployable weapon system uses a form of multispectral ECM to jam the targeting sensors of enemy ships. The Jariloz Semiotic Suppressor uses a similar suite of techniques to degrade different sensor systems with sufficient noise that target locks become impossible to achieve. A uniquely Triglavian twist is the inclusion of what appear to be propaganda and information warfare elements in the noise, though the effort appears largely moot. These systems are deployed by special Triglavian units using the designation \"Jariloznik\".",
+    "es": "Este sistema de armas desplegable triglaviano utiliza un tipo de contramedidas electrónicas multiespectrales para perturbar los sensores de adquisición de objetivos de las naves enemigas. El supresor semiótico Jariloz utiliza una serie de técnicas similares para degradar los distintos sistemas de sensores con interferencias que hacen imposible fijar objetivos. El toque triglaviano ha sido la inclusión de lo que parece ser propaganda y elementos informativos de guerra en el ruido, aunque no parece ser muy útil. Estos sistemas los despliegan unidades triglavianas especiales con la designación «Jariloznik».",
+    "fr": "Ce système d'armement déployable triglavian utilise une forme de CME multispectre pour brouiller les détecteurs de ciblage des vaisseaux ennemis. Le suppresseur sémiotique Jariloz utilise une gamme similaire de techniques pour dégrader différents systèmes de détecteurs avec un bruit suffisant, au point que le verrouillage des cibles devient impossible à atteindre. Sa particularité triglavian est l'intégration dans le bruit de ce qui semble être des éléments de propagande et de guerre de l'information, bien que cet effort semble généralement vain. Ces systèmes sont déployés par des unités triglavian spéciales utilisant la désignation « Jariloznik ».",
+    "ja": "この配置型トリグラビアンウェポンシステムは、マルチスペクトルECMの一形態を使用して敵艦の標的センサーを妨害する。ジャリロズ・セミオティックサプレッサーも同様の技術を用いて、ターゲットロックが不可能になるほどの十分なノイズで様々なセンサーシステムを劣化させている。トリグラビアンならではの工夫は、プロパガンダや情報戦の要素と思われるものがノイズに含まれていることであるが、その努力はほとんど意味をなさないように見える。これらのシステムは、「ヤリロズニク」という名称を使用したトリグラビアンの特殊部隊によって配置されている",
+    "ko": "다중스팩트럼 ECM을 활용하는 전개형 무기 시스템으로 적 함선의 타겟팅을 교란합니다. 자릴로즈 세미오틱 서프레서는 전파 방해를 통해 대상의 센서를 교란하여 정상적인 타겟팅이 불가능하도록 만듭니다. 특이하게도 노이즈와 함께 각종 선전용 문구를 전송하는데 그다지 효과는 없습니다. 해당 무기는 \"자릴로즈니크\"라는 특수 기종에 의해 전개됩니다.",
+    "ru": "Это развёртываемое орудие Триглава глушит системы наведения противника, используя некую разновидность многоспектральных МЭП. «Семиотический подавитель \"Ярило\"» посредством схожих техник выводит из строя различные сенсоры корабля, создавая такие мощные помехи, что захват цели становится абсолютно невозможным. Главной особенностью этого орудия является то, что среди помех и шумов оно вставляет пропагандистские материалы, используя их ещё и как средство информационной войны, хотя эффективность этого весьма сомнительна. Для развёртывания этих орудий применяются особые корабли из подразделения «Ярильник».",
+    "zh": "这种三神裔可部署武器系统使用了某种多谱式ECM来阻扰敌方舰船的锁定感应器。雅罗兹符号抑制器使用了使目标锁定难以实现的噪声来对不同的感应系统进行阻扰。三神裔在噪声中还加入了宣传和信息战内容，虽然看起来也没什么大用罢了。这种系统由名字中带有“雅罗兹尼克”字样的特殊三神裔单位来部署。"
+  },
+  "graphicID": 24557,
+  "groupID": 4073,
+  "mass": 1000.0,
   "name": {
     "de": "Jariloz Semiotic Suppressor",
     "en": "Jariloz Semiotic Suppressor",
@@ -10,5 +23,9 @@
     "ru": "Jariloz Semiotic Suppressor",
     "zh": "雅罗兹符号抑制器"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 371.0,
+  "sofFactionName": "triglavianbase",
   "volume": 1000.0
 }

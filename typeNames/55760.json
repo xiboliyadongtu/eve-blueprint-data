@@ -1,5 +1,18 @@
 {
-  "typeID": 55760,
+  "description": {
+    "de": "Sobald diese Drohne gestartet wurde und einen Bergungsbefehl erhalten hat, wird sie automatisch Ihre Wracks in der Umgebung aufsuchen, jegliche verwendbaren Materialien bergen und diese im Frachtraum Ihres Schiffs deponieren. Sie wird allerdings keine in diesen Wracks befindlichen Wertgegenstände erbeuten. Die Bergungsdrohne respektiert die Besitzansprüche in Bezug auf Wracks und wird nur die Wracks ihres Besitzers anfliegen, sofern sie keine anderen Anweisungen erhält. Ob ihr Besitzer denselben Respekt an den Tag legen möchte, ist eine andere Frage.",
+    "en": "Once launched and given the order to salvage, this drone will automatically seek out your wrecks in the vicinity, salvage from them any useable materials and deposit those materials in your ship's cargohold. It will not, however, loot any valuables contained within the wrecks.\r\n\r\nA salvage drone respects wreck ownership and will focus on its operator's wrecks unless explicitly ordered otherwise. Whether or not its operator chooses to display that same respect is another question entirely.",
+    "es": "Cuando se lanza y recibe la orden de rescate, este dron buscará automáticamente tus restos en las inmediaciones, rescatará cualquier material útil y lo depositará en la bodega de la nave. No obstante, no extraerá ningún objeto de valor que haya entre los restos.\n\nLos drones recuperadores respetan la propiedad de los restos y se centran en las pertenencias de su administrador, a menos que se le indique explícitamente lo contrario. Si su administrador decide mostrar el mismo respeto, ya es otro asunto.",
+    "fr": "Une fois lancé et l'ordre de récupération donné, ce drone cherchera automatiquement vos épaves dans les environs pour en récupérer les matériaux encore utilisables et les ramener dans la soute de chargement de votre vaisseau. Toutefois, il ne pillera pas les objets de valeur contenus dans les épaves. Un drone de récupération respecte la propriété des épaves et se concentrera sur les épaves de son opérateur, sauf en cas d'ordre contraire explicite. Savoir si son opérateur affichera autant de respect à cet égard est une tout autre question...",
+    "ja": "このドローンを射出してサルベージ指示を与えると、近辺の残骸を自動的に識別して再利用可能な部品を回収し、自艦のカーゴホールドに持ち帰る。ただし残骸の中に価値ある積荷やモジュールが残っていてもルートしてくることはできない。\n\n\n\nサルベージドローンには残骸の所有者を自動認識する機能があり、特に指示されないかぎり、射出したパイロットの所有する残骸のみをサルベージする。むろん、パイロットが他人の残骸所有権を尊重するかどうかは全く別の問題である。",
+    "ko": "사출 후 샐비지 명령을 내릴 수 있는 드론입니다. 사출된 드론은 자동으로 근처에 있는 잔해물에서 쓸모있는 자원을 수집한 후 함선의 화물실에 넣을 것입니다. 하지만 잔해 속에 포함된 가치 있는 아이템은 회수하지 않습니다. <br><br>샐비지 드론은 잔해물 소유권을 존중하며, 따로 명령을 내리지 않을 경우에는 플레이어가 소유한 잔해물만 수집할 것입니다. 타인의 잔해물 소유권을 존중할지 안 할지는 전적으로 플레이어가 결정할 문제입니다.",
+    "ru": "После запуска и получения соответствующей команды этот дрон будет автоматически искать принадлежащие вам обломки в ближайшем радиусе, собирать с них все полезные материалы и складывать добычу в грузовой отсек вашего корабля. При этом он не станет извлекать ценности, находящиеся внутри этих обломков. По умолчанию дрон-демонтажник не покушается на право собственности и обыскивает только обломки своего оператора. А вот захочет ли оператор проявить уважение к чужому имуществу — это уже совсем другой вопрос.",
+    "zh": "这种无人机在被发射和接到打捞指令后，会自动寻找附近的残骸并进行打捞，然后把仍可利用的打捞材料带回到舰船的货柜舱中。不过，它不会拾取残骸中掉落的任何物品。\n\n\n\n打捞无人机会识别残骸的所有者，除非接到明确的指令，否则他们只会打捞归操纵者所有的残骸。当然，操纵者是否也像它们一样遵守原则就是另一码事了。"
+  },
+  "graphicID": 20129,
+  "groupID": 1159,
+  "marketGroupID": 1646,
+  "metaGroupID": 2,
   "name": {
     "de": "Salvage Drone II",
     "en": "Salvage Drone II",
@@ -10,5 +23,10 @@
     "ru": "Salvage Drone II",
     "zh": "打捞无人机 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 5.0,
+  "sofFactionName": "orebase",
+  "variationParentTypeID": 32787,
   "volume": 5.0
 }

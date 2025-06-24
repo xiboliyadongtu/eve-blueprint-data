@@ -1,5 +1,18 @@
 {
-  "typeID": 57318,
+  "basePrice": 40000000.0,
+  "description": {
+    "de": "Fortgeschrittener Skill zur Flottenunterstützung, der es Kommandanten erlaubt, die Größe und Streuung ihrer Flottenformationen zu erhöhen. Schaltet auf jeder Trainingsstufe zusätzliche Optionen für die Formationsskalierung in folgender Reihenfolge frei: Stufe 0: 10 km Größe, 1 km Abstand (Standard) Stufe 1: 20 km Größe, 2 km Abstand Stufe 2: 30 km Größe, 3 km Abstand Stufe 3: 40 km Größe, 4 km Abstand Stufe 4: 50 km Größe, 5 km Abstand Stufe 5: 100 km Größe, 10 km Abstand",
+    "en": "Advanced fleet support skill allowing commanders to increase the size and spread of their fleet formations. Unlocks additional formation scaling options at each level of training in the following order:\r\n\r\nLevel 0: 10km size, 1km spacing (default)\r\nLevel 1: 20km size, 2km spacing\r\nLevel 2: 30km size, 3km spacing\r\nLevel 3: 40km size, 4km spacing\r\nLevel 4: 50km size, 5km spacing\r\nLevel 5: 100km size, 10km spacing",
+    "es": "Habilidad de apoyo de flota avanzada que permite a los comandantes aumentar el tamaño y la extensión de sus flotas en formación. Desbloquea opciones de escalado de formación adicionales en cada nivel de desarrollo en el siguiente orden:\n\n\n\nNivel 0: Tamaño de 10 km, espaciado de 1 km (por defecto).\n\nNivel 1: Tamaño de 20 km, espaciado de 2 km.\n\nNivel 2: Tamaño de 30 km, espaciado de 3 km.\n\nNivel 3: Tamaño de 40 km, espaciado de 4 km.\n\nNivel 4: Tamaño de 50 km, espaciado de 5 km.\n\nNivel 5: Tamaño de 100 km, espaciado de 10 km.",
+    "fr": "Compétence de soutien de flotte avancée permettant aux commandants d'augmenter la taille et l'étendue des formations de flotte. Déverrouille de nouvelles options de dimensions de formation à chaque niveau de l'apprentissage dans l'ordre suivant : Niveau 0 : taille de 10 km, espacement d'1 km (par défaut) Niveau 1 : taille de 20 km, espacement de 2 km Niveau 2 : taille de 30 km, espacement de 3 km Niveau 3 : taille de 40 km, espacement de 4 km Niveau 4 : taille de 50 km, espacement de 5 km Niveau 5 : taille de 100 km, espacement de 10 km",
+    "ja": "指揮官がフリート編隊の規模と展開を拡大できる高度な艦隊支援スキル。トレーニングの各レベルで、追加の編隊スケーリングオプションが以下の順でアンロックされる。\n\n\n\nレベル0：サイズ10km、間隔1km（デフォルト）\n\nレベル1：サイズ20km、間隔2km\n\nレベル2：サイズ30km、間隔3km\n\nレベル3：サイズ40km、間隔4km\n\nレベル4：サイズ50km、間隔5km\n\nレベル5：サイズ100km、間隔10km",
+    "ko": "상급 함대 지원을 습득하면 진형의 범위 및 간격을 확대할 수 있습니다. 매 스킬 레벨마다 추가적인 진형 설정을 이용할 수 있습니다:<br><br>레벨 0: 범위 10km, 간격 1km (기본 설정)<br><br>레벨 1: 범위 20km, 간격 2km<br><br>레벨 2: 범위 30km, 간격 3km<br><br>레벨 3: 범위 40km, 간격 4km<br><br>레벨 4: 범위 50km, 간격 5km<br><br>레벨 5: 범위 100km, 간격 10km",
+    "ru": "Улучшенный навык поддержки флота позволяет командирам увеличить размер и разброс построения. Открывает дополнительные варианты масштаба построения на каждом уровне обучения в следующем порядке: уровень 0 — размер: 10 км, расстояние между кораблями: 1 км (по умолчанию); уровень 1 — размер: 20 км, расстояние между кораблями: 2 км; уровень 2 — размер: 30 км, расстояние между кораблями: 3 км; уровень 3 — размер: 40 км, расстояние между кораблями: 4 км; уровень 4 — размер: 50 км, расстояние между кораблями: 5 км; уровень 5 — размер: 100 км, расстояние между кораблями: 10 км.",
+    "zh": "让舰队指挥官能够扩大舰队阵型范围的技能。每升一级都可以按如下顺序解锁额外的舰队阵型调整选项：\n\n\n\n等级0：10km范围，1km间隔（默认）\n\n等级1：20km范围，2km间隔\n\n等级2：30km范围，3km间隔\n\n等级3：40km范围，4km间隔\n\n等级4：50km范围，5km间隔\n\n等级5：100km范围，10km间隔"
+  },
+  "groupID": 258,
+  "iconID": 33,
+  "marketGroupID": 370,
   "name": {
     "de": "Fleet Coordination",
     "en": "Fleet Coordination",
@@ -10,5 +23,8 @@
     "ru": "Fleet Coordination",
     "zh": "舰队协调理论"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

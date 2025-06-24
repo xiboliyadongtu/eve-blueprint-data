@@ -1,5 +1,67 @@
 {
-  "typeID": 33655,
+  "capacity": 135.0,
+  "description": {
+    "de": "Die Punisher wird von vielen als eine der besten existierenden Fregatten der Amarr angesehen. Mit ihrer schweren Bewaffnung ist die Punisher überwiegend für groß angelegte militärische Operationen in Zusammenarbeit mit größeren Kriegsschiffen gedacht. Aufgrund ihrer Schadenswirkung ist sie aber auch durchaus in der Lage, sich ihren Weg durch unvorsichtige Gegner frei zu schießen.",
+    "en": "The Punisher is considered by many to be one of the best Amarr frigates in existence. As evidenced by its heavy armaments, the Punisher is mainly intended for large-scale military operations, acting in coordination with larger military vessels. With its damage output, however, it is also perfectly capable of punching its way right through unwary opponents.",
+    "es": "La Punisher se considera una de las mejores fragatas amarrianas que existen. Como atestigua su armamento pesado, está pensada para operaciones militares a gran escala, en las que actúa en coordinación con otras naves de mayor tamaño, aunque su capacidad de daño le permite abrirse paso entre adversarios incautos.",
+    "fr": "Beaucoup considèrent le Punisher comme l'une des meilleures frégates amarr de tous les temps. Comme l'indique clairement son armement lourd, le Punisher est avant tout conçu pour les opérations militaires de grande envergure dans lesquelles il peut agir en coordination avec d'autres vaisseaux militaires de grande taille. Mais grâce à sa puissance de feu, il est aussi tout à fait capable de fendre les défenses d'ennemis imprudents.",
+    "ja": "パニッシャーは既存するアマーフリゲートの中で、最高のフリゲートのひとつと考えられている。重火器を搭載していることから分かるように、主にパニッシャーは大規模な軍事作戦での使用を目的に建造され、より巨大な軍艦と提携するような役割を果たす。しかし単機でもなめてかかればその総火力に手痛い反撃を喰らうことになるだろう。",
+    "ko": "현존하는 최강의 아마르 프리깃 중 하나입니다. 대규모 군사 작전 수행 시 퍼니셔는 강력한 무장을 바탕으로 대형 함선과의 연계 전술을 펼칩니다. 적 대열을 단독으로 뚫고 지나갈 수 있을 만큼 뛰어난 화력을 보유하고 있습니다.",
+    "ru": "Многие признают, что «Панишер» — один из лучших амаррских фрегатов. Его основное назначение — поддержка более крупных кораблей флота в ходе крупномасштабных военных операций, на что недвусмысленно намекает мощность несомого им вооружения; впрочем, «панишеры» вполне способны постоять за себя сами, дав сдачи практически любому противнику.",
+    "zh": "许多人认为惩罚者级是目前艾玛最好的护卫舰。从它配备的重型武器就可以看出，惩罚者级主要用于与大型军舰配合作战的大规模军事行动，不过它也完全能够胜任独立行动。"
+  },
+  "factionID": 500003,
+  "graphicID": 20451,
+  "groupID": 25,
+  "mass": 1190000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      50,
+      117,
+      150,
+      89,
+      93,
+      94
+    ]
+  },
   "name": {
     "de": "Punisher Kador Edition",
     "en": "Punisher Kador Edition",
@@ -9,6 +71,48 @@
     "ko": "퍼니셔 카도르 에디션",
     "ru": "Punisher Kador Edition",
     "zh": "惩罚者级卡多尔版"
+  },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 34.0,
+  "sofFactionName": "kador",
+  "soundID": 20063,
+  "traits": {
+    "types": {
+      "3331": [
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3303>Small Energy Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3303>torreta de energía pequeña</a>.",
+            "fr": "bonus aux dégâts de la <a href=showinfo:3303>petite tourelle à énergie</a>",
+            "ja": "<a href=showinfo:3303>小型エネルギータレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3303>소형 에너지 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон <a href=showinfo:3303>малых лазерных орудий</a>",
+            "zh": "<a href=\"showinfo:3303\">小型能量炮台</a>伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 4,
+          "bonusText": {
+            "de": "Bonus auf alle Panzerungsresistenzen",
+            "en": "bonus to all armor resistances",
+            "es": "de bonificación a todas las resistencias de blindaje.",
+            "fr": "bonus à toutes les résistances de blindage",
+            "ja": "全てのアーマーレジスタンスが増加",
+            "ko": "모든 장갑 저항력 증가",
+            "ru": "повышается сопротивляемость брони корабля всем видам воздействия",
+            "zh": "装甲抗性加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 28600.0
 }

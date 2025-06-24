@@ -1,5 +1,17 @@
 {
-  "typeID": 353405,
+  "basePrice": 567000.0,
+  "description": {
+    "de": "Grundlegende Kenntnisse über die Fahrzeugstromhandhabung.\n\n+5% auf die Laderate aller aktiver Module pro Skillstufe.",
+    "en": "Basic understanding of vehicle power management.\r\n\r\n+5% to recharge rate of all active modules per level.",
+    "es": "Conocimiento básico de gestión de energía de vehículos.\n\n+5% a la velocidad de recarga de todos los módulos activos por nivel.",
+    "fr": "Notions de base en gestion d'alimentation de véhicule.\n\n\n\n+5 % à la vitesse de recharge de tous les modules actifs par niveau.",
+    "it": "Comprensione base della gestione della potenza del veicolo.\n\n+5% alla velocità di ricarica di tutti i moduli attivi per livello.",
+    "ja": "車両動力の管理に関する基本的な知識。\n\nレベル上昇ごとに、すべてのアクティブモジュールのリチャージ速度を5%上昇させる。",
+    "ko": "차량 전력 관리에 대한 기본적인 이해를 습득합니다.<br><br>매 레벨마다 모든 활성화된 모듈의 충전 속도 5% 증가",
+    "ru": "Понимание основных принципов энергосберегающих технологий транспортного средства.\n\n+5% к скорости подзарядки всех активных модулей за каждый уровень.",
+    "zh": "管理载具能量的基本知识。每升一级，所有主动装备的回充速率提高5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Kernstromnetzhandhabung",
     "en": "Core Grid Management",
@@ -11,5 +23,7 @@
     "ru": "Управление ядром сети",
     "zh": "核心栅格管理"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

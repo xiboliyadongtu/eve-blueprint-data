@@ -1,5 +1,15 @@
 {
-  "typeID": 1677,
+  "description": {
+    "de": "+5% auf die Skilltrainingszeit für Skills mit dem Primärattribut Auffassungsgabe.",
+    "en": "+5% skill training time for skills with perception as the primary attribute.",
+    "es": "+5 % al tiempo de desarrollo de habilidades con la percepción como atributo principal.",
+    "fr": "Augmente de 5 % le temps de formation des compétences ayant la perception pour attribut principal.",
+    "ja": "第一特性として知覚を必要とする全てのスキルのトレーニング時間+5%。",
+    "ko": "지각력이 주요 능력치로 요구되는 스킬 훈련 시간 5% 감소",
+    "ru": "+5% ко времени изучения умений, опирающихся на восприятие как на первичную характеристику.",
+    "zh": "以感知为主要属性的技能训练时间增加5%。"
+  },
+  "groupID": 199,
   "name": {
     "de": "Industrialist Bonus",
     "en": "Industrialist Bonus",
@@ -10,5 +20,6 @@
     "ru": "Industrialist Bonus",
     "zh": "企业家加成"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

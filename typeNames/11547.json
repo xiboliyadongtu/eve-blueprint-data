@@ -1,5 +1,18 @@
 {
-  "typeID": 11547,
+  "description": {
+    "de": "Energiekernkomponente, welche primär in Gallente-Schiffen eingesetzt wird. Zudem eine Komponente zahlreicher anderer Technologien.",
+    "en": "Power Core component used primarily in Gallente ships. A component in various other technologies as well.",
+    "es": "Componente de núcleo de potencia usado principalmente en naves gallentes. También se utiliza en otras tecnologías.",
+    "fr": "Composant du réacteur principal essentiellement utilisé sur les vaisseaux gallente. Diverses technologies mettent également ce composant à profit.",
+    "ja": "主にガレンテ艦船で使用されるパワーコア・コンポーネント。他の各種技術を用いたコンポーネントもある。",
+    "ko": "갈란테 함선에 주로 사용되는 파워코어입니다. 다양한 기술 분야에서 활용되는 부품입니다.",
+    "ru": "Компонент силовой установки, используемый преимущественно на галлентских кораблях. Кроме того, применяется в ряде других проектов.",
+    "zh": "主要由盖伦特舰船使用的能源核心构件。这个部件也存在于别的各种科技类型中。"
+  },
+  "groupID": 334,
+  "iconID": 2194,
+  "marketGroupID": 1888,
+  "mass": 1.0,
   "name": {
     "de": "Fusion Reactor Unit",
     "en": "Fusion Reactor Unit",
@@ -10,5 +23,8 @@
     "ru": "Fusion Reactor Unit",
     "zh": "聚变反应堆机组"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
   "volume": 1.0
 }

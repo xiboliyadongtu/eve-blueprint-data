@@ -1,5 +1,17 @@
 {
-  "typeID": 364920,
+  "basePrice": 149000.0,
+  "description": {
+    "de": "Skill zur Verwendung von Aktivscannern.\n\nSchaltet den Zugriff auf Standardaktivscanner ab Stufe 1, erweiterte Aktivscanner ab Stufe 3 und Aktivscannerprototypen ab Stufe 5 frei.",
+    "en": "Skill at using active scanners.\r\n\r\nUnlocks access to standard active scanners at lvl.1; advanced at lvl.3; prototype at lvl.5.",
+    "es": "Habilidad de manejo de escáneres activos.\n\nDesbloquea el acceso a escáneres activos estándar en el nivel 1, avanzados en el nivel 3 y prototipos en el nivel 5.",
+    "fr": "Compétence permettant d'utiliser les scanners actifs.\n\nDéverrouille l'utilisation des scanners actifs. Standard au niv.1 ; avancé au niv.3 ; prototype au niv.5.",
+    "it": "Abilità nell'utilizzo degli scanner attivi.\n\nSblocca l'accesso allo scanner attivo standard al liv. 1; a quello avanzato al liv. 3; a quello prototipo al liv. 5.",
+    "ja": "アクティブスキャナーを扱うスキル。\n\nレベル1で標準型、レベル3で高性能、レベル5でプロトタイプのアクティブスキャナーが利用可能になる。",
+    "ko": "스캐너를 위한 스킬입니다. <br><br>스캐너가 잠금 해제됩니다. (레벨 1 - 일반, 레벨 3 - 상급, 레벨 5 - 프로토타입)",
+    "ru": "Навык использования активных сканеров.\n\nПозволяет пользоваться стандартными активными сканерами на уровне 1; усовершенствованными - на уровне 3; прототипами - на уровне 5.",
+    "zh": "使用主动式扫描仪的技能。1级解锁标准主动式扫描仪；3级解锁高级主动式扫描仪；5级解锁原型主动式扫描仪。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Bedienung: Aktiver Scanner",
     "en": "Active Scanner Operation",
@@ -11,5 +23,6 @@
     "ru": "Применение активного сканера",
     "zh": "主动式扫描仪操作"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

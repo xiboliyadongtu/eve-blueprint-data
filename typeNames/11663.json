@@ -1,5 +1,18 @@
 {
-  "typeID": 11663,
+  "capacity": 120.0,
+  "description": {
+    "de": "Dies ist ein Scout der Ammatar Navy. Er wird jeden angreifen, der sich mit ihm anlegt. Normalerweise greift er selbst nicht zuerst an.\r\n\r\nBedrohungsstufe: Hoch",
+    "en": "This is a scout for the Ammatar Navy.  It will attack anyone who engages it, but will normally not attack first. Threat level: High",
+    "es": "Explorador de la Armada Ammatar. Atacará siempre en respuesta, pero no atacará primero. Nivel de amenaza: alto.",
+    "fr": "Il s'agit d'un éclaireur de l'Ammatar Navy.  Ce vaisseau se défend s'il est attaqué, mais il n'engage généralement pas les hostilités. Niveau de menace : élevé",
+    "ja": "アマター海軍の偵察船。攻撃された場合は反撃するが、基本的に自分から攻撃を仕掛けることはない。危険度:高い",
+    "ko": "아마타 해군의 정찰기입니다. 공격을 당하면 응수하지만 선공을 취하지는 않습니다. 위험도: 높음",
+    "ru": "Это разведчик Флота Ammatar. Они атакуют любого, кто начнет схватку, но, как правило, не нападают первыми. Уровень опасности: высокий",
+    "zh": "这是一艘艾玛达海军的侦察机。它通常不会首先发起攻击，但如果遭到进攻，它会向对方反击。威胁等级：高"
+  },
+  "graphicID": 1745,
+  "groupID": 665,
+  "mass": 1910000.0,
   "name": {
     "de": "Ammatar Navy Scout",
     "en": "Ammatar Navy Scout",
@@ -10,5 +23,10 @@
     "ru": "Ammatar Navy Scout",
     "zh": "艾玛达海军 侦察员"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 13.0,
+  "sofFactionName": "ammatar",
   "volume": 19100.0
 }

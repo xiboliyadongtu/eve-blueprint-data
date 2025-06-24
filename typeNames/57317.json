@@ -1,5 +1,18 @@
 {
-  "typeID": 57317,
+  "basePrice": 40000000.0,
+  "description": {
+    "de": "Skill zur Flottenunterstützung, der es Kommandanten erlaubt, Flotten in Formationen zu organisieren und zu warpen. Schaltet auf jeder Trainingsstufe zusätzliche Formationstypen in folgender Reihenfolge frei: Stufe 0: Punktformation (Standard) Stufe 1: Sphärenformation Stufe 2: Flächenformation Stufe 3: Mauerformation Stufe 4: Pfeilformation Stufe 5: Relative Formation",
+    "en": "Fleet support skill allowing commanders to organize and warp fleets in formation. Unlocks additional formation types at each level of training in the following order:\r\n\r\nLevel 0: Point Formation (default)\r\nLevel 1: Sphere Formation\r\nLevel 2: Plane Formation\r\nLevel 3: Wall Formation\r\nLevel 4: Arrow Formation\r\nLevel 5: Relative Formation",
+    "es": "Habilidad de apoyo que sirve para que los comandantes organicen flotas en formación para warpearlas. Desbloquea formaciones adicionales en cada nivel de desarrollo, en el siguiente orden:\n\n\n\nNivel 0: Formación en punta (predeterminada)\n\nNivel 1: Formación en esfera\n\nNivel 2: Formación de patrulla\n\nNivel 3: Formación en muro\n\nNivel 4: Formación de flecha\n\nNivel 5: Formación relativa",
+    "fr": "Compétence de soutien de flotte permettant aux commandants d'organiser les flottes et de les faire warper en formation. Déverrouille de nouveaux types de formation à chaque niveau de l'apprentissage dans l'ordre suivant : Niveau 0 : formation en pointe (par défaut) Niveau 1 : formation en sphère Niveau 2 : formation en plan Niveau 3 : formation en mur Niveau 4 : formation en flèche Niveau 5 : formation relative",
+    "ja": "指揮官がフリートの編隊を組んでワープさせることができる艦隊支援スキル。各レベルのトレーニングで追加の編隊タイプが以下の順でアンロックされる。\n\n\n\nレベル0：ポイント編隊（デフォルト）\n\nレベル1：スフィア編隊\n\nレベル2：プレーン編隊\n\nレベル3：ウォール編隊\n\nレベル4：アロー編隊\n\nレベル5：相対編隊",
+    "ko": "함대 지원 스킬을 습득하면 진형을 유지한 채로 함대를 워프시킬 수 있습니다. 매 스킬 레벨마다 새로운 진형이 추가됩니다:<br><br>레벨 0: 밀집 대형(기본)<br><br>레벨 1: 원형진<br><br>레벨 2: 사각 방진<br><br>레벨 3: 방벽 진형<br><br>레벨 4: 쐐기 진형<br><br>레벨 5: 자율 진형",
+    "ru": "Навык поддержки флота, позволяющий командирам собирать флоты и совершать прыжки с построением. Открывает дополнительные типы построения на каждом уровне обучения в следующем порядке: уровень 0 — точечное построение (по умолчанию); уровень 1 — построение сферой; уровень 2 — построение в плоскости; уровень 3 — построение стеной; уровень 4 — построение стрелой; уровень 5 — относительное построение.",
+    "zh": "让舰队指挥官能够编制舰队阵型并以固定阵型进行跃迁的技能。每升一级都可以按如下顺序解锁额外的舰队阵型：\n\n\n\n等级0：定点阵型（默认阵型）\n\n等级1：球状阵型\n\n等级2：水平阵型\n\n等级3：竖直阵型\n\n等级4：箭头阵型\n\n等级5：关联阵型"
+  },
+  "groupID": 258,
+  "iconID": 33,
+  "marketGroupID": 370,
   "name": {
     "de": "Fleet Formations",
     "en": "Fleet Formations",
@@ -10,5 +23,8 @@
     "ru": "Fleet Formations",
     "zh": "舰队布阵理论"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

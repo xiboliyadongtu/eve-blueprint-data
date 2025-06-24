@@ -1,5 +1,19 @@
 {
-  "typeID": 86459,
+  "capacity": 400.0,
+  "description": {
+    "de": "Dies entspricht einem Schiff der Fregattenklasse von Sansha’s Nation. Sie greift alles an, was sie als Bedrohung oder leichte Beute wahrnimmt. Sie setzt Stasisnetze gegen ihre Ziele ein, wann immer es möglich ist.",
+    "en": "This is a frigate-class ship equivalent for Sansha's Nation. It will attack anyone it perceives as a threat or easy pickings. It webifies its targets whenever possible.",
+    "es": "Este es el equivalente a una nave de clase fragata de la Nación Sansha. Atacará a todo aquello que perciba como una amenaza o una presa fácil, y lanzará una red ralentizadora a sus objetivos siempre que sea posible.",
+    "fr": "Il s'agit d'un vaisseau équivalent à une frégate pour la Sansha's Nation. Il attaquera quiconque perçu comme une menace ou une proie facile. Il génère une stase sur ses cibles chaque fois que cela est possible.",
+    "ja": "サンシャ国にとってのフリゲート級にあたる艦船。危険もしくは格下と判断した標的を全て攻撃する。隙あらば標的にウェビファイヤーをしかけてくる。",
+    "ko": "산샤 네이션의 프리깃급 함선입니다. 적이나 쉬운 사냥감을 공격합니다. 기회를 노려 웹 생성기를 시전합니다.",
+    "ru": "Этот корабль «Нации Санши» по характеристикам соответствует фрегату. Он атакует всех, кто представляет угрозу или воспринимается как лёгкая жертва. Он постарается нарушить работу двигательных систем врага, как только представится возможность.",
+    "zh": "这是一艘萨沙护卫舰级别的舰船。它会主动攻击任何它认为可能造成威胁或者极易对付的飞船。只要有可能，它就会对目标进行停滞缠绕。"
+  },
+  "factionID": 1000162,
+  "graphicID": 1238,
+  "groupID": 1568,
+  "mass": 965000.0,
   "name": {
     "de": "Chained Servant",
     "en": "Chained Servant",
@@ -10,5 +24,11 @@
     "ru": "Chained Servant",
     "zh": "被囚禁的仆从"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 32,
+  "radius": 20.5,
+  "sofFactionName": "sanshabase",
+  "soundID": 20902,
   "volume": 28600.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 2329,
+  "basePrice": 1.0,
+  "description": {
+    "de": "Vergleichbar mit einer altertümlichen Batterie greift eine Biozelle auf destillierte Biotreibstoffe aus organischen Materialien und Edelmetallen zurück, um in einer unabhängigen Modulareinheit elektrischen Strom zu erzeugen. Moderne Biozellen schlagen allerdings die Leistung vergangener Batterien um ein Vielfaches.",
+    "en": "Similar to an ancient battery, a biocell instead uses biofuels distilled from organic material and precious metals to produce an electrical current in a self-contained, modular unit. However, modern biocells dwarf the capabilities of ancient batteries by several orders of magnitude.",
+    "es": "Al igual que ocurre con una batería antigua, las biocélulas utilizan biocombustibles destilados de materia orgánica y metales preciosos para producir corriente eléctrica en unidades autónomas y modulares. Sin embargo, las biocélulas modernas empequeñecen las capacidades de las antiguas baterías en varios niveles de magnitud.",
+    "fr": "À l'image d'une ancienne batterie, une cellule biologique utilise des biocarburants distillés à partir de matériaux organiques et de métaux précieux pour produire un courant électrique dans une unité modulaire indépendante. Toutefois, les cellules biologiques modernes éclipsent largement les capacités des anciennes batteries.",
+    "ja": "古代のバッテリーと似ているが、有機物とプレシャスメタルから蒸留されるバイオ燃料を代わりに使用して、内蔵のモジュール式ユニットで電流を生成する。最新のバイオセルでは、古代のバッテリー機能が大幅に小型化されている。",
+    "ko": "천연자원과 귀금속에서 추출한 바이오 연료를 바탕으로 제작되는 장치이며 자체적으로 에너지를 생산할 수 있습니다. 일반적인 배터리와는 비교할 수 없을 정도의 성능을 자랑합니다.",
+    "ru": "Биоячейка является самодостаточной модульной структурой. Она устроена, как древний аккумулятор, только для выработки электричества в ней используется биотопливо, полученное из органических веществ с использованием драгоценных металлов. По мощности современные биоячейки превосходят древние аккумуляторы во много сотен раз.",
+    "zh": "同远古时期使用的电池比较类似，生物电池是使用从有机体中提取的生物燃料再加上稀有金属来产生电流的。但是现代生物电池的能力已经超越古代电池好几个数量级。"
+  },
+  "groupID": 1034,
+  "iconID": 10054,
+  "marketGroupID": 1335,
   "name": {
     "de": "Biocells",
     "en": "Biocells",
@@ -10,5 +23,7 @@
     "ru": "Biocells",
     "zh": "生物电池"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.75
 }

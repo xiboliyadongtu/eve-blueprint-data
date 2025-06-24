@@ -1,5 +1,18 @@
 {
-  "typeID": 19673,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Taktische Außenposten dienen als erste Verteidigungslinie der Ammatar gegen ihre minmatarischen Cousins. Das Design dieser taktischen Einrichtungen stammt aus dem Amarr Imperium und war ursprünglich ein persönliches Geschenk des Kaisers anlässlich der Staatsgründung der Ammatar.",
+    "en": "Tactical outposts serve as the first line of defense of the Ammatars against their Minmatar cousins.  The design of these Tactical Units come from the Amarr Empire, originally as a personal gift from the Emperor himself when the Ammatar nation was founded.",
+    "es": "Los puestos avanzados tácticos sirven como primera línea de defensa de los ammatarianos contra sus primos minmatarianos. El diseño de estas unidades tácticas proviene del Imperio Amarr, pues originalmente fue un regalo personal del propio emperador cuando se fundó la nación de Ammatar.",
+    "fr": "Les avant-postes tactiques font office de première ligne de défense des Ammatar contre leurs cousins minmatar.  La création de ces unités tactiques provient de l'Empire amarr puisqu'il s'agit initialement d'un cadeau offert par l'Empereur en personne au moment de la fondation de la nation ammatar.",
+    "ja": "タクティカルアウトポストは、ミンマター諸部族に対するアマターの防衛最前線として機能する。この戦略的ユニットのデザインはアマー帝国から伝来したもので、アマター政府が興ったときに、皇帝自信が個人的に寄贈したとされる。",
+    "ko": "아마타와 같은 뿌리를 가진 민마타에 대항하여 제 1 방어선으로 세운 전술기지입니다. 이와 같은 전술기지의 설계는 아마르 제국의 설계로, 아마타 제국이 설립되었을 때 아마르 황제가 수여한 것입니다.",
+    "ru": "Тактические заставы служат первым эшелоном обороны империи Ammatar от своих сородичей из Minmatar. Эти модели были разработаны в Империи Amarr; первая из них была лично подарена самим императором по случаю основания государства Ammatar.",
+    "zh": "战术哨站是艾玛达抵御其米玛塔尔同胞的第一道防线。这些战术单位的设计来自艾玛帝国，是艾玛皇帝在艾玛达共和国成立时赠送的礼物。"
+  },
+  "graphicID": 1703,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Ammatar Deadspace Tactical Unit",
     "en": "Ammatar Deadspace Tactical Unit",
@@ -10,5 +23,10 @@
     "ru": "Ammatar Deadspace Tactical Unit",
     "zh": "艾玛达死亡空间战术单位"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 150.0,
+  "sofFactionName": "amarrbase",
   "volume": 100000000.0
 }

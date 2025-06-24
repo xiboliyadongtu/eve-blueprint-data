@@ -1,5 +1,19 @@
 {
-  "typeID": 30720,
+  "capacity": 1400.0,
+  "description": {
+    "de": "In dieser Kapsel befindet sich der amarrianische Pirat Kristan Parthus. Der interne Warpantrieb der Kapsel scheint durch die Explosion seines Schiffes stark beschädigt worden zu sein. Es sieht nicht gut für ihn aus.",
+    "en": "This capsule contains the Amarrian pirate Kritsan Parthus. The internal warp drive of the pod appear to be heavily damaged from the explosion of his ship, leaving him stranded.",
+    "es": "Esta cápsula contiene al pirata amarriano Kritsan Parthus. Parece que el motor de warp interno de la cápsula está muy dañado por la explosión de su nave, que lo ha dejado a la deriva.",
+    "fr": "Cette capsule contient le pirate amarr Kritsan Parthus. Le propulseur de warp interne de la capsule semble avoir été sérieusement endommagé par l'explosion de son vaisseau, le laissant à la dérive.",
+    "ja": "このカプセルにはアマーの海賊、クリトサンパーサスが乗っている。内部のワープドライブは船の爆発によって重いダメージを受けているらしく、彼は動きが取れない。",
+    "ko": "캡슐 내부에는 크리산 파르투스가 있습니다. 함선이 폭발하면서 캡슐의 워프 드라이브가 심각하게 훼손되었습니다.",
+    "ru": "В этой капсуле находится Parthus, пират Amarr. Похоже, что внутренний квантовый двигатель капсулы получил сильные повреждения после взрыва на его корабле, из-за чего он не может двигаться.",
+    "zh": "这个太空舱里面装的是艾玛海盗克里斯坦·帕休斯。这个太空舱的内置曲速跃迁装置看起来在母舰爆炸的时候遭受了严重的损伤，它现在被困住了。"
+  },
+  "graphicID": 73,
+  "groupID": 306,
+  "iconID": 73,
+  "mass": 10000.0,
   "name": {
     "de": "Parthus' Malfunctioning Capsule",
     "en": "Parthus' Malfunctioning Capsule",
@@ -10,5 +24,9 @@
     "ru": "Parthus' Malfunctioning Capsule",
     "zh": "帕休斯失控的太空舱"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 2.0,
+  "sofFactionName": "jovebase",
   "volume": 1200.0
 }

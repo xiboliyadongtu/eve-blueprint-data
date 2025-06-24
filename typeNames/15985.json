@@ -1,5 +1,18 @@
 {
-  "typeID": 15985,
+  "capacity": 200.0,
+  "description": {
+    "de": "Dies ist ein Unterstützungsschiff der Imperial Navy. Von der Firma Carthum Conglomerate entwickelt, haben diese Schiffe die Aufgabe, ihre Ziele bewegungsunfähig zu machen. Sie setzen deren Warpantriebe außer Kraft und verhindern, unter Einsatz von Mikroenergieströmen, das Beschleunigen eines Schiffes.\r\n\r\nBedrohungsstufe: Hoch",
+    "en": "This is an Imperial Navy support ship. Developed by Carthum Conglomerate, support ships such as these are used to paralyze their targets, disabling their warping device and hindering ship velocity by employing micro energy streams. Threat level: High",
+    "es": "Nave de apoyo de la Armada Imperial desarrollada por Carthum Conglomerate. Las naves de apoyo como esta se usan para paralizar a las naves enemigas, inhabilitar sus dispositivos de warp y ralentizarlas mediante microflujos de energía. Nivel de amenaza: alto.",
+    "fr": "Il s'agit d'un vaisseau de soutien de la Navy impériale. Développés par le Carthum Conglomerate, les vaisseaux de soutien tels que ceux-ci sont utilisés pour paralyser leurs cibles, désactiver les dispositifs de warp et réduire la vitesse des vaisseaux en utilisant des flux de micro-énergie. Niveau de menace : élevé",
+    "ja": "帝国海軍の支援船。カータムコングロマリットによって開発され、超小型エネルギー光線で敵のワープ装置を無効化したり航行速度を低下させることにより、ターゲット艦船の機能を麻痺させる支援船。危険度:高い",
+    "ko": "아마르 제국 해군의 지원함입니다. 카슘 복합산업이 설계한 지원함으로 마이크로 에너지 스트림을 발사하여 적 움직임을 제한하고 워프 드라이브를 봉쇄합니다. 위험도: 높음",
+    "ru": "Это корабль поддержки Имперского флота. Спроектированные Carthum Conglomerate корабли поддержки, такие как этот, применяются для обездвиживания цели, выводя из строя их квантовые двигатели и уменьшая скорость корабля посредством направленных микропотоков энергии. Уровень опасности: высокий",
+    "zh": "这是一艘帝国海军的支援舰。这些支援舰由天主凝聚会开发，可使用微能量流破坏目标行动能力、干扰目标跃迁设备，减慢飞船速度。威胁等级：高"
+  },
+  "graphicID": 1736,
+  "groupID": 665,
+  "mass": 2870000.0,
   "name": {
     "de": "Imperial Navy Gamma I Support Frigate",
     "en": "Imperial Navy Gamma I Support Frigate",
@@ -10,5 +23,10 @@
     "ru": "Imperial Navy Gamma I Support Frigate",
     "zh": "帝国海军 补给舰伽玛 I"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 20.5,
+  "sofFactionName": "amarrnavy",
   "volume": 28700.0
 }

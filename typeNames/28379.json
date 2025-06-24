@@ -1,5 +1,21 @@
 {
-  "typeID": 28379,
+  "basePrice": 34096.0,
+  "capacity": 1.005,
+  "description": {
+    "de": "Ein Raketenwerfer zum Einbau in Raumschiffe der Kreuzerklasse. Obwohl Angriffsraketenwerfer nicht die gleiche Schadenswirkung wie normale schwere Raketenwerfer haben, gibt ihnen ihre Mischung aus Geschwindigkeit und Angriffskraft eine Anwendungsmöglichkeit in einer ganzen Reihe taktischer Situationen.",
+    "en": "A launcher intended for use on cruiser-class spacecraft. While assault launchers do not possess the sheer damage-dealing capability of regular heavy missile launchers, their blend of speed and attack power lends them application across a good range of tactical situations.",
+    "es": "Este lanzador está diseñado para naves de clase crucero. Aunque los lanzamisiles de asalto no tienen la misma capacidad destructora que los lanzamisiles pesados normales, su combinación de velocidad y potencia de ataque les confiere una versatilidad que permite emplearlos en situaciones tácticas de lo más variopintas.",
+    "fr": "Lanceur conçu pour équiper un vaisseau de type croiseur. S'il n'a pas la puissance dévastatrice des lance-missiles lourds standard, son rapport rapidité/puissance d'attaque le rend indispensable dans bon nombre de situations tactiques.",
+    "ja": "巡洋艦級の宇宙船での使用に適したランチャー。アサルトランチャーは純粋な破壊力では標準型ヘビーミサイルランチャーに及ばないが、速射性と攻撃力のバランスの良さから、幅広い場面で活躍する。",
+    "ko": "크루저급 함선을 위해 설계된 미사일 런처입니다. 헤비 미사일 런처에 비해 파괴력은 떨어지지만 빠른 발사 속도를 바탕으로 한 전술적 유연성을 지니고 있습니다.",
+    "ru": "Эта установка предназначена для использования на космических кораблях крейсерского класса. Штурмовые пусковые установки не наносят такого урона, как обычные тяжелые пусковые установки, но сочетание высокой скорострельности с наносимым ими уроном делает их очень полезными во многих боевых ситуациях.",
+    "zh": "一种用于巡洋舰级飞船的发射器。虽然攻击导弹发射器没有普通重型导弹发射器那样强大的纯破坏力，但是它在射速和攻击力之间找到了完美的结合点，使它可以被用于多种战术环境中。"
+  },
+  "graphicID": 21702,
+  "groupID": 771,
+  "iconID": 3241,
+  "marketGroupID": 974,
+  "metaGroupID": 4,
   "name": {
     "de": "Domination Heavy Assault Missile Launcher",
     "en": "Domination Heavy Assault Missile Launcher",
@@ -10,5 +26,9 @@
     "ru": "Domination Heavy Assault Missile Launcher",
     "zh": "主天使重型攻击导弹发射器"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "angelbase",
+  "variationParentTypeID": 20138,
   "volume": 10.0
 }

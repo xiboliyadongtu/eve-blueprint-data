@@ -1,5 +1,21 @@
 {
-  "typeID": 12822,
+  "basePrice": 537600.0,
+  "description": {
+    "de": "Ein mittelgroßer Dauerstrahl-Laserkristall vom Carthum Conglomerate, der auf einer verbesserten Version des Standard-Radio-Kristalls basiert. Große Reichweiten- und Schadensverbesserung, jedoch erheblich höherer Energiespeicherverbrauch als üblich und mit deutlich längerer Abkühlzeit. Die feinen kristallinen Strukturen, die zur Herstellung dieses fortschrittlichen Kristalls verwendet werden, werden bei der Verwendung verschlissen, was dazu führt, dass sie schließlich zerbrechen. 80 % höhere optimale Reichweite. 75 % geringere Nachführungsgeschwindigkeit. Hinweis: Diese Munition kann nur von mittelgroßen Technologiestufe II- und Fraktionsdauerstrahllasern verwendet werden.",
+    "en": "A Carthum Conglomerate medium Beam Laser Crystal based on an upgraded version of the standard radio Crystal. Huge range and damage boost but also uses way more capacitor power than normal and has a far longer cooldown time. The delicate crystalline structures used in the manufacture of this advanced crystal degrade with use, eventually causing it to shatter.\r\n\r\n80% increased optimal range.\r\n75% reduced tracking speed.\r\n\r\nNote: This ammunition can only be used by medium tech level II and faction Beam Lasers.",
+    "es": "Un cristal de láser de rayos mediano de Carthum Conglomerate basado en una versión mejorada del cristal de radio estándar. Tiene un alcance y aumento de daño enormes, pero adolece de un consumo de potencia del condensador y un tiempo de recarga considerablemente mayores de lo normal. Las delicadas estructuras cristalinas utilizadas en la fabricación de este avanzado cristal se degradan con el uso hasta acabar quebrándose.\n\nAlcance óptimo aumentado un 80 %.\n\nVelocidad de rastreo reducida un 75 %.\n\nAviso: Esta munición solo es compatible con láseres de rayos T2 y faccionarios para naves medianas.",
+    "fr": "Cristal de laser à rayons intermédiaire de Carthum Conglomerate basé sur une version améliorée du cristal de radio standard. Sa portée est grande et ses dégâts sont plus élevés, mais il nécessite une production d'énergie du capaciteur et une durée de refroidissement supérieures à la normale. Les délicates structures cristallines utilisées dans la production de ce cristal avancé se dégradent à cause de l'usure, avant de finir par voler en éclats. Portée optimale augmentée de 80 %. Vitesse de poursuite réduite de 75 %. Remarque : ces munitions ne peuvent s'utiliser qu'avec les lasers à rayons intermédiaires de faction et de niveau technologique II.",
+    "ja": "標準型無線周波数クリスタルの改良版を基にしたカータムコングロマリット製中型ビームレーザークリスタル。長い射程と高い破壊力を誇るが、その分通常以上のキャパシタパワーが必要となり、非常に長い冷却時間が必要となる。この高性能クリスタルは、構成部品である結晶の構造がもろいため、使用するうちに徐々に劣化し、最後には砕けてしまう。\n\n\n\n最適射程距離が80％延長。\n\nトラッキング速度が75%減少。\n\n\n\n注：この弾薬は中型T2および各勢力のビームレーザー専用である。",
+    "ko": "카슘 복합산업이 설계한 중형 빔 레이저 크리스탈로 라디오파 크리스탈을 토대로 제작되었습니다. 사거리 및 피해량이 큰 폭으로 증가하는 대신 캐패시터 소모량과 재사용 대기시간이 증가합니다. 최첨단 크리스탈 생산에 사용되는 분자구조는 정교하지만 부서지기 쉬워 반복 사용 시 붕괴합니다. <br><br>최적사거리 80% 증가 <br>트래킹 속도 75% 감소 <br><br>참고: 중형 테크 II 또는 팩션 빔 레이저에만 장착할 수 있습니다.",
+    "ru": "Разработанный Картумским конгломератом средний кристалл для лучевых лазеров, созданный на основе улучшенной версии обычного дистанционного кристалла. Значительно увеличивает дальность и урон, но при этом требует большей мощности накопителя, чем обычный, и гораздо больше времени на перезарядку. Чувствительные кристаллические структуры, использованные при изготовлении этого улучшенного кристалла, со временем изнашиваются, и в конце концов он разрушается. Оптимальная дальность увеличена на 80%. Скорость наведения снижена на 75%. Примечание: эти боеприпасы могут использовать только корабли среднего тоннажа второго техноуровня и лучевые лазеры держав.",
+    "zh": "天主凝聚会的中型集束激光晶体以标准型射频晶体的一种升级版本为基础制造。射程和破坏力大幅提升，但电容消耗和冷却时间远远高于普通型号。这种高级晶体中所用到的结晶结构会在使用的过程中降解，最终会导致晶体碎裂。\n\n\n\n最佳射程提升80%。\n\n跟踪速度降低75%。\n\n\n\n注：只能用于二级科技和势力中型集束激光器。"
+  },
+  "graphicID": 1145,
+  "groupID": 374,
+  "iconID": 1145,
+  "marketGroupID": 867,
+  "mass": 1.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Aurora M",
     "en": "Aurora M",
@@ -10,5 +26,8 @@
     "ru": "Aurora M",
     "zh": "极光 M"
   },
+  "portionSize": 4,
+  "published": true,
+  "variationParentTypeID": 247,
   "volume": 1.0
 }

@@ -1,5 +1,19 @@
 {
-  "typeID": 17895,
+  "basePrice": 10000.0,
+  "description": {
+    "de": "Werkzeuge für verschiedene Bauprojekte, zum Beispiel Schiffe, Module und Bodenfahrzeuge. High-Tech Werkzeuge sind von höherer Qualität als die gebräuchlicheren Prototypen und sehr viel teurer.",
+    "en": "Tools used in various construction projects, such as ship, module or ground vehicle manufacturing. High-Tech tools are of better quality than the more common prototypes, and are more expensive.",
+    "es": "Herramientas usadas en diversos proyectos de construcción, como la fabricación de naves, módulos o vehículos terrestres. Las herramientas de alta tecnología son de mejor calidad que los prototipos más comunes, pero también más caras.",
+    "fr": "Outils utilisés dans divers projets de construction tels que la construction de vaisseaux, de modules ou de véhicules terrestres. Les outils haute technologie sont de meilleure qualité que les prototypes plus courants, mais ils sont aussi plus chers.",
+    "ja": "宇宙船、モジュール、地上車両の製造など、様々な組み立て作業で使われる工具類。普及タイプより高品質で、値段も高い。",
+    "ko": "함선, 모듈, 차량 등 다양한 장비 제작에 사용되는 도구입니다. 첨단 도구는 일반적인 프로토타입에 비해 뛰어난 성능을 가진 만큼 가격대도 높습니다.",
+    "ru": "Эти инструменты используют в различных строительных проектах, таких как создание кораблей, модулей или производство наземного транспорта. Изготовленные с помощью передовых технологий инструменты обладают лучшим качеством, нежели их более распространённые прототипы, а также большей стоимостью.",
+    "zh": "用于各种建造项目的工具，例如舰船、装备或者地表交通工具。高科技工具比普通原型的质量更好，价格也更贵。"
+  },
+  "groupID": 314,
+  "iconID": 2225,
+  "marketGroupID": 20,
+  "mass": 10.0,
   "name": {
     "de": "High-Tech Manufacturing Tools",
     "en": "High-Tech Manufacturing Tools",
@@ -10,5 +24,8 @@
     "ru": "High-Tech Manufacturing Tools",
     "zh": "高科技生产工具"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

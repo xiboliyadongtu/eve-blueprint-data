@@ -1,5 +1,17 @@
 {
-  "typeID": 10642,
+  "capacity": 10.0,
+  "description": {
+    "de": "Ein Raketenwerfer für verschiedene Raketenabwehrmaßnahmen.",
+    "en": "A launcher for various missile countermeasures.",
+    "es": "Lanzador para distintas contramedidas antimisiles.",
+    "fr": "Il s'agit d'un lanceur pour les différentes contremesures destinées aux missiles.",
+    "ja": "各種の対ミサイル弾を発射するランチャー。",
+    "ko": "미사일 대응체계 발사를 위한 런처입니다.",
+    "ru": "Пусковая установка для постановки противоракетных помех.",
+    "zh": "一个能够应付各种导弹的反导弹发射器。"
+  },
+  "groupID": 308,
+  "iconID": 1345,
   "name": {
     "de": "Countermeasure Launcher I",
     "en": "Countermeasure Launcher I",
@@ -10,5 +22,7 @@
     "ru": "Countermeasure Launcher I",
     "zh": "导弹反制发射器 I"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 6.0
 }

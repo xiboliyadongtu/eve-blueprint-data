@@ -1,5 +1,19 @@
 {
-  "typeID": 27891,
+  "basePrice": 35000.0,
+  "description": {
+    "de": "Eine ultraschwere EMP-Lenkwaffe. Sie ist zwar langsam und dumm, aber ihr bloßes Schadenspotential ist einfach überwältigend.",
+    "en": "An ultra-heavy EMP missile. Slow and dumb but its sheer damage potential is simply staggering.",
+    "es": "Misil EMP ultrapesado. Es lento y carece de autoguiado, pero su potencial de daño real resulta impresionante.",
+    "fr": "Missile IEM ultra-lourd. Lent et rudimentaire, mais son potentiel destructeur est tout simplement impressionnant.",
+    "ja": "ウルトラヘビーEMPミサイル。速度は遅く精度も低いが、驚異的な破壊力を誇る。",
+    "ko": "대형 EMP 미사일입니다. 느린 비행 속도를 지니고 있으나 타격 시 적에게 치명적인 피해를 입힙니다.",
+    "ru": "Сверхтяжелая неуправляемая ракета с электромагнитной боеголовкой. Она медленная и неповоротливая, но ее ударная мощь поражает воображение.",
+    "zh": "一种终极重型电磁脉冲导弹。虽然慢而笨重，但是破坏力着实惊人。"
+  },
+  "graphicID": 20015,
+  "groupID": 89,
+  "iconID": 1349,
+  "mass": 1500.0,
   "name": {
     "de": "Sansha Mjolnir Torpedo",
     "en": "Sansha Mjolnir Torpedo",
@@ -10,5 +24,8 @@
     "ru": "Sansha Mjolnir Torpedo",
     "zh": "萨沙雷神鱼雷"
   },
+  "portionSize": 100,
+  "published": false,
+  "radius": 300.0,
   "volume": 0.05
 }

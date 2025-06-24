@@ -1,5 +1,20 @@
 {
-  "typeID": 81617,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Die Überreste eines EDENCOM-Erkundungsschiffs, das entsandt wurde, um neu entstandene Leitungen zwischen der Raumverwerfung des Abgrunds und New Eden zu erforschen. In den Wrackteilen kann es wertvolle Technologie geben, die noch mit einem Reliktanalysegerät geborgen werden kann.",
+    "en": "The remnants of an EDENCOM surveyor ship, dispatched to explore newly formed conduits linking Abyssal Deadspace and New Eden. \r\n\r\nAmidst the wreckage, lies the potential for valuable technology that can still be salvaged and retrieved using a relic analyzer.",
+    "es": "Los restos de una nave topógrafa de EDENCOM enviada para explorar conductos recién formados que vinculan Nuevo Edén con el espacio muerto abisal. \r\n\r\nLos restos tal vez contengan valiosa tecnología que aún podría recuperarse usando un analizador de reliquias.",
+    "fr": "Les débris d'un vaisseau d'arpentage EDENCOM, dépêché pour explorer les conduits récemment formés reliant l'abîme Deadspace et New Eden. Au cœur des débris, il y a une chance de trouver des technologies précieuses pouvant encore être récupérées et extraites à l'aide d'un analyseur de reliques.",
+    "ja": "新たに形成された、アビサルデッドスペースとニューエデンを繋ぐ導管を探索するために派遣されていたEDENCOMの調査船の残骸。 \r\n\r\n遺物アナライザーを使えば、この残骸に残されている貴重なハイテク装置をサルベージできる可能性がある。",
+    "ko": "EDENCOM 측량선 잔해입니다. 해당 함선은 어비설 데드스페이스와 뉴에덴을 연결하는 전송기를 조사하기 위해 투입되었습니다.<br><br>유물 분석기를 사용하여 잔해 속에서 첨단 기술을 확보할 수 있습니다.",
+    "ru": "Обломки исследовательского судна ЭДЕНКОМа, отправленного на поиски недавно появившихся каналов, которые связывают Новый Эдем с Мёртвой Бездной. Возможно, с помощью анализатора артефактов из этой груды металла получится извлечь ценные технологии.",
+    "zh": "伊甸联合防御阵线调查舰船的残骸，该舰船在执行“探索连接深渊空间和新伊甸的新生导管”任务中遭遇意外。或许还能使用遗迹分析仪从这些残骸中打捞并回收前沿科技。"
+  },
+  "graphicID": 27383,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "EDENCOM Surveyor Stash",
     "en": "EDENCOM Surveyor Stash",
@@ -10,5 +25,9 @@
     "ru": "EDENCOM Surveyor Stash",
     "zh": "伊甸联合防御阵线调查舰船藏匿处"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 100.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

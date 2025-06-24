@@ -1,5 +1,18 @@
 {
-  "typeID": 19921,
+  "basePrice": 100000.0,
+  "description": {
+    "de": "Fertigkeit zur Verwendung von Target Paintern.\r\n\r\n5% Bonus auf den Energiespeicherverbrauch von Target Paintern je Skillstufe.",
+    "en": "Skill at using target painters. 5% less capacitor need for target painters per skill level.",
+    "es": "Habilidad en el uso de reveladores de objetivo. 5 % menos de necesidad del condensador para reveladores de objetivo por nivel de habilidad.",
+    "fr": "Compétence liée à l'utilisation des marqueurs de cible. Réduit de 5 % par niveau de compétence les besoins énergétiques du capaciteur requis pour les marqueurs de cible.",
+    "ja": "ターゲットペインターの使用スキル。スキルレベル上昇ごとにターゲットペインターのキャパシタ消費が 5% 減少する。",
+    "ko": "타겟 페인터를 운용하기 위한 스킬입니다. 매 레벨마다 타겟 페인터의 캐패시터 사용량 5% 감소",
+    "ru": "Навык использования модулей подсветки цели. За каждую степень освоения навыка: на 5% сокращается расход энергии накопителя при работе модулей подсветки целей.",
+    "zh": "使用目标标记装置的技能。每升一级，目标标记装置的电容消耗减少5%。"
+  },
+  "groupID": 272,
+  "iconID": 33,
+  "marketGroupID": 367,
   "name": {
     "de": "Target Painting",
     "en": "Target Painting",
@@ -10,5 +23,7 @@
     "ru": "Подсветка целей",
     "zh": "目标标记研究"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

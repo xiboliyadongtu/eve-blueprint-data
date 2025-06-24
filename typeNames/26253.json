@@ -1,5 +1,18 @@
 {
-  "typeID": 26253,
+  "basePrice": 250000.0,
+  "description": {
+    "de": "Fortgeschrittenes Verständnis von Panzerungssystemen. Ermöglicht, mithilfe von Anbauten Änderungen an Panzerungssystemen vorzunehmen.\r\n\r\n10% Bonus auf die Nachteile von Panzerungsanbauten je Skillstufe.",
+    "en": "Advanced understanding of armor systems. Allows makeshift modifications to armor systems through the use of rigs. \r\n\r\n10% reduction in Armor Rig drawbacks per level.",
+    "es": "Comprensión avanzada de los sistemas de blindaje. Permite realizar modificaciones improvisadas en los sistemas de los blindaje mediante el uso de complementos.\n\n10 % de reducción a las desventajas del complemento de blindaje por nivel.",
+    "fr": "Compréhension avancée des systèmes de blindage. Permet de changer les systèmes de blindage grâce à l'utilisation de modules d'optimisation. \n\nRéduit de 10 % par niveau les inconvénients liés à l'optimisation du blindage.",
+    "ja": "アーマーシステムに関する高度な理解力。リグを使ってアーマーシステムに一時的な変更を加えられる。\r\n\nレベル上昇ごとにアーマーリグの副作用を 10% 軽減する。",
+    "ko": "장갑 시스템에 대한 심층적인 이해를 습득합니다. 리그 장착을 통해 장갑 시스템을 임시로 변경합니다. <br><br>매 레벨마다 장갑 리그 부작용 10% 감소",
+    "ru": "Глубокое понимание систем броневой защиты. Позволяет самостоятельно устанавливать модификаторы брони корабля \n\n\n\nЗа каждую степень освоения навыка: на 10% уменьшается отрицательный эффект модификаторов брони.",
+    "zh": "理解装甲系统的高级技能。允许通过使用改装件对装甲系统进行临时改进。\r\n\r\n每升一级，装甲改装件的副作用降低10％。"
+  },
+  "groupID": 269,
+  "iconID": 33,
+  "marketGroupID": 372,
   "name": {
     "de": "Armor Rigging",
     "en": "Armor Rigging",
@@ -10,5 +23,7 @@
     "ru": "Модификаторы брони и корпуса",
     "zh": "装甲改装技术"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

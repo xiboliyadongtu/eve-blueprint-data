@@ -1,5 +1,18 @@
 {
-  "typeID": 3894,
+  "basePrice": 20000000.0,
+  "description": {
+    "de": "Verständnis für die Art, wie Handel auf Unternehmensebene abläuft.\n\nVerbessert die Anzahl der erhaltenen Loyalitätspunkte um 10% je Skillstufe, wenn man für Agenten der Vertriebsabteilung in einer Corporation arbeitet.",
+    "en": "Understanding of the way trade is conducted at the corporate level.\n\nImproves loyalty point gain by 10% per level when working for agents in the Distribution corporation division.",
+    "es": "Comprensión de los procedimientos comerciales a nivel corporativo.\n\nMejora la obtención de puntos de lealtad un 10 % por nivel al trabajar para agentes en la división de distribución de la corporación.",
+    "fr": "Connaissance du déroulement des opérations commerciales au niveau de la corporation.\n\nAugmente de 10% le nombre de points de loyauté par niveau lorsque vous travaillez pour les agents de la division des corporations de distribution :",
+    "ja": "企業レベルでのトレードの仕組みに関する知識。\t\t\n\n流通コーポレーション部門所属のエージェントから引き受けた仕事では、レベル上昇ごとに報酬ロイヤルティポイントが10%増加する。",
+    "ko": "코퍼레이션의 눈높이에서 거래가 이루어지는 방법을 이해합니다. <br><br>보급 미션으로부터 얻는 로열티 포인트가 매 레벨마다 10%씩 증가합니다.",
+    "ru": "Пилоты, владеющие этим навыком, понимают, как именно осуществляется торговля между корпорациями.\n\nЗа каждую степень освоения навыка: на 10% увеличивается количество наградных баллов, получаемых за выполнение заданий агентов, приписанных к отделам сбыта NPC-корпораций.",
+    "zh": "关于军团层面贸易周转的知识。\n\n每升一级，为军团物流部门的代理人工作时，所获忠诚点数增加10%。"
+  },
+  "groupID": 278,
+  "iconID": 33,
+  "marketGroupID": 376,
   "name": {
     "de": "Distribution Connections",
     "en": "Distribution Connections",
@@ -10,5 +23,7 @@
     "ru": "Деловые связи с отделами сбыта",
     "zh": "物流关系学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

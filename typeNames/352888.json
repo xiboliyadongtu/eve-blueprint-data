@@ -1,5 +1,17 @@
 {
-  "typeID": 352888,
+  "basePrice": 400000.0,
+  "description": {
+    "de": "Fortgeschrittener Skill zur Führung einer Corporation. \n\n+50 Corporation-Mitglieder pro Skillstufe erlaubt.",
+    "en": "Advanced corporation operation. \r\n\r\n+50 members per level.",
+    "es": "Control avanzado de corporaciones. \n\nAumenta en +50 el número de miembros corporativos permitidos por nivel.",
+    "fr": "Gestion de corporation avancée. \n\n+50 membres par niveau.",
+    "it": "Operazione corporazione avanzata. \n\n+50 membri consentiti per livello.",
+    "ja": "高度なコーポレーション運営。\n\nレベル上昇ごとに、コーポレーションのメンバー数上限が50人増加。",
+    "ko": "상급 코퍼레이션 경영관리 스킬입니다. <br><br>매 레벨마다 코퍼레이션 멤버 +50",
+    "ru": "Углубленный навык управления корпорацией. \n\n+50 к количеству членов корпорации на каждый уровень.",
+    "zh": "高级军团运作的技能。每升一级，军团成员上限提升50人。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Megacorp-Führung",
     "en": "Megacorp Control",
@@ -11,5 +23,7 @@
     "ru": "Контроль мегакорпорации",
     "zh": "超级集团控制"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

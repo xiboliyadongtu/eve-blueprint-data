@@ -1,5 +1,16 @@
 {
-  "typeID": 366240,
+  "description": {
+    "de": "Fraktionsbooster sind biometrische Identifikationschips, die von den wichtigen Fraktionen New Edens herausgegeben werden. Sobald sie aktiviert werden, identifizieren Sie den Benutzer eindeutig als Anhänger der herausgebenden Fraktion. Corporations, die im Interesse der Fraktion agieren, werden anschließend dazu autorisiert, die Belohnungen für diesen Söldner zu erhöhen.",
+    "en": "Faction boosters are biometric identification chips issued by major factions throughout New Eden. Once activated they uniquely identify the user as a supporter of the issuing faction. Corporations operating on behalf of the faction will then be authorized to increase rewards to that individual.",
+    "es": "Los potenciadores de facción son chips de identificación biométrica fabricados por las principales facciones de Nuevo Edén. Una vez activados, identifican al usuario como partidario de la facción expedidora. Las corporaciones que operan en nombre de una facción están autorizadas para mejorar las recompensas de cada individuo.",
+    "fr": "Les boosters de faction sont des puces d'identification biométriques fournies par chaque faction majeure de New Eden. Après activation, ils permettent de personnellement identifier l'utilisateur comme un adepte de la faction qui a fourni le booster. Les corporations agissant au nom d'une faction seront en mesure d'augmenter les récompenses accordées à l'utilisateur.",
+    "it": "I potenziamenti delle fazioni sono chip di identificazione biometrica distribuiti dalle principali fazioni in tutta New Eden. Una volta attivati identificano l'utente come supporter della fazione distributrice. Le corporazioni che agiscono a nome della fazione saranno quindi autorizzate ad aumentare le ricompense per quell'individuo.",
+    "ja": "勢力ブースターはニューエデンの主要勢力によって発行されている生体認証チップです。Once activated they uniquely identify the user as a supporter of the issuing faction.　ひとたび有効化されると、生体認証チップはそのユーザーを発行勢力の味方として識別されるようにします。勢力の代わりに仕事をしているコーポレーションは、その個人への報酬を増やす権限を与えられます。",
+    "ko": "팩션 부스터는 뉴에덴의 대형 팩션들이 발행한 일종의 생체인식 식별칩입니다. 활성화 시 칩을 발행한 팩션의 서포터로 인식됩니다. 팩션에 소속된 코퍼레이션은 칩을 이식한 서포터에게 보다 많은 보상을 제공합니다.",
+    "ru": "Фракционные бустеры представляют собой микросхемы биометрической идентификации, выпускаемые основными фракциями Нового Эдема. Будучи активированными, они уникальным образом определяют пользователя как приверженца фракции-производителя. После этого действующим на стороне фракции корпорациям будет разрешено увеличить вознаграждение для этого наемника.",
+    "zh": "势力增效剂是由新伊甸中各大势力发行的生物识别芯片。激活即可表明使用者作为芯片发行势力拥趸的特殊身份。随后，代表该势力行动的军团将有权增加该个人获得的奖励。"
+  },
+  "groupID": 354641,
   "name": {
     "de": "Caldari-Fraktionsbooster (90 Tage)",
     "en": "Faction Booster Caldari (90-Day)",
@@ -11,5 +22,6 @@
     "ru": "Фракционный бустер Калдари (90-дневный)",
     "zh": "加达里势力增效剂（90天）"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

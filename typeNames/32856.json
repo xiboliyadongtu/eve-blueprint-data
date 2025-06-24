@@ -1,5 +1,17 @@
 {
-  "typeID": 32856,
+  "basePrice": 20000.0,
+  "description": {
+    "de": "Skill zur Präzision bei taktischen Angriffen\n\n\n\n5% höhere Präzision bei taktischen Angriffen je Skillstufe",
+    "en": "Skill at Tactical Strike Accuracy.\r\n\r\nAccuracy of Tactical Strike increased by 5% per level",
+    "es": "Habilidad en la precisión del ataque táctico.\n\n\n\nLa precisión del ataque táctico aumenta un 5 % por nivel.",
+    "fr": "Compétence liée à la précision de la frappe tactique.\n\nAugmente de 5 % par niveau la précision de la frappe tactique.",
+    "ja": "戦術攻撃の精度を高めるスキル。\n\nレベル上昇ごとに戦術攻撃の精度が5%上昇する",
+    "ko": "전술 타격 정확도를 높이는 스킬입니다. <br><br>매 레벨마다 전술 타격 명중률 5% 증가",
+    "ru": "Навык нанесения точных тактических ударов.\n\n\n\nИзучение этого навыка поможет пилоту повысить точность применения оперативно-тактического оружия при ведении огня по наземным целям (на 5% за каждый освоенный уровень навыка).",
+    "zh": "提高战术轰炸准确性的技能。每升一级，战术轰炸准确率提高5%。"
+  },
+  "groupID": 255,
+  "iconID": 33,
   "name": {
     "de": "Tactical Strike",
     "en": "Tactical Strike",
@@ -10,5 +22,7 @@
     "ru": "Применение тактических боеприпасов",
     "zh": "战术轰炸"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

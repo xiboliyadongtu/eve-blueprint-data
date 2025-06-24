@@ -1,5 +1,21 @@
 {
-  "typeID": 14443,
+  "capacity": 1.0,
+  "description": {
+    "de": "Ein überschwerer Impulslaser, der für Kämpfe auf mittlere Entfernung ausgelegt ist. \n\nEr muss mit einem der folgenden Frequenzkristalle bestückt werden: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",
+    "en": "A super-heavy pulse laser designed for medium range engagements. \r\n\r\nRequires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",
+    "es": "Láser de pulsos superpesado diseñado para combates de alcance medio. \n\n\n\nRequiere tipos de munición de cristales de frecuencia: gamma, infrarrojos, microondas, multifrecuencia, radio, estándar, ultravioleta, rayos X.",
+    "fr": "Laser à impulsions super-lourd conçu pour les combats à moyenne portée. \n\nRequiert les cristaux de fréquence suivants en guise de munitions : gamma, infrarouge, micro-onde, multifréquence, radio, standard, ultraviolet, rayon X.",
+    "ja": "中距離での撃ち合いに適したスーパーヘビーパルスレーザー。\n\n装填できるフリーケンシークリスタル弾のタイプ：ガンマ線、赤外線、マイクロ波、多周波、放射線、標準、紫外線、エックス線。",
+    "ko": "중거리 교전에 최적화된 초중량 펄스 레이저입니다. <br><br>사용 가능한 프리퀀시 크리스탈: 감마선, 적외선, 마이크로파, 멀티프리퀀시, 라디오파, 스탠다드, 자외선, 엑스선.",
+    "ru": "Сверхтяжёлый импульсный лазер, ведущий огонь на средних дистанциях. \n\nПри работе лазера используются частотные кристаллы следующих типов: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",
+    "zh": "一种超重型激光器，专为中程交战而设计。 \n\n使用的频率晶体弹药类型：伽玛、红外线、微波、多频、射频、标准、紫外线和X射线。"
+  },
+  "graphicID": 21655,
+  "groupID": 53,
+  "iconID": 360,
+  "marketGroupID": 573,
+  "mass": 2000.0,
+  "metaGroupID": 5,
   "name": {
     "de": "Ahremen's Modified Mega Pulse Laser",
     "en": "Ahremen's Modified Mega Pulse Laser",
@@ -10,5 +26,9 @@
     "ru": "Ahremen's Modified Mega Pulse Laser",
     "zh": "阿勒门氏改良型超级脉冲激光器"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "amarrofficer",
+  "variationParentTypeID": 462,
   "volume": 20.0
 }

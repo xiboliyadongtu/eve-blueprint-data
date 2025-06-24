@@ -1,5 +1,18 @@
 {
-  "typeID": 28138,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Diese provisorische Struktur wurde gebaut, um die Gefangenen der \"The Seven\" so lange zu beherbergen, bis sie an einen sichereren Ort gebracht werden können.",
+    "en": "This temporary structure is made to house The Seven's hostages until they are ready to be transported to a more secure location.",
+    "es": "Estructura temporal construida para alojar a los rehenes de Los Siete hasta poder llevarlos a una ubicación más segura.",
+    "fr": "Cette structure temporaire est conçue pour accueillir les otages des Seven avant qu'ils ne soient transportés vers un endroit plus sûr.",
+    "ja": "「セブン」の人質をより安全な場所に移送できるまで、この仮設建造物に収容されている。",
+    "ko": "가설구조물에는 세븐이 잡은 인질들이 갇혀 있습니다.",
+    "ru": "Это временное сооружение установлено здесь для того, чтобы содержать заложников «Семерки» до тех пор, пока их не переправят в более надежное место.",
+    "zh": "该临时设施用来关押遭七人组绑架的人，之后他们将被运送到一个更安全的地点。"
+  },
+  "graphicID": 2518,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Citizen Quarters",
     "en": "Citizen Quarters",
@@ -10,5 +23,9 @@
     "ru": "Citizen Quarters",
     "zh": "居民生活站"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 416.0,
+  "sofFactionName": "genericpleasure",
   "volume": 1200.0
 }

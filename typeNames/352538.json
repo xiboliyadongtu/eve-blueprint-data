@@ -1,5 +1,17 @@
 {
-  "typeID": 352538,
+  "basePrice": 2010.0,
+  "description": {
+    "de": "Bietet eine begrenzte Steigerung der Stromnetzleistung und reduziert die Schildladeverzögerung.",
+    "en": "Provides a marginal boost to power grid output and reduces the delay before shield recharge begins.",
+    "es": "Otorga una mejora mínima al rendimiento del sistema de potencia y reduce la demora antes de que comience la recarga del escudo.",
+    "fr": "Confère un léger boost au réseau d'alimentation et réduit la période d'attente avant que la recharge du bouclier commence.",
+    "it": "Migliora leggermente il rendimento della rete energetica e riduce il ritardo prima che inizi la ricarica dello scudo.",
+    "ja": "パワーグリッド出力に最低限のブーストを与え、シールドリチャージの開始遅延を減らす。",
+    "ko": "파워그리드 용량이 소폭 증가하며 실드 회복 대기시간이 감소합니다.",
+    "ru": "Обеспечивает незначительное усиление мощности энергосети и уменьшает задержку до начала подзарядки щита.",
+    "zh": "小幅提升能量栅格的输出功率，并缩短开始护盾回充前的延迟时间。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Enhanced Power Diagnostics Unit",
     "en": "Enhanced Power Diagnostics Unit",
@@ -11,5 +23,7 @@
     "ru": "Enhanced Power Diagnostics Unit",
     "zh": "增强型能源诊断装置"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

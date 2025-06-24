@@ -1,5 +1,75 @@
 {
-  "typeID": 17930,
+  "basePrice": 3100000.0,
+  "capacity": 130.0,
+  "description": {
+    "de": "Korako \"The Rabbit\" Kosakami, Anführer der Gurista, hat einen besonderen Spaß daran, Schiffsentwürfe der Caldari zu stehlen, zu verbessern und sie dann gegen ihre ursprünglichen Entwickler einzusetzen. Bei der Worm hat er zum Design der Merlin gegriffen, das vielen Caldari-Piloten sehr vertraut ist, und hat sie in ein starkes Verteidigungsschiff umgewandelt, das seine Salven in furchteinflößender Geschwindigkeit abfeuert.",
+    "en": "Korako 'The Rabbit' Kosakami, Gurista leader, has a particular love for stealing the Caldari's ship designs, souping them up, and turning them on their creators. With the Worm, he has taken the Merlin design so familiar to Caldari pilots and turned it into a defensive powerhouse capable of firing its volleys at terrifying speeds.",
+    "es": "Korako «el Conejo» Kosakami, líder de los Guristas, tiene especial afición por robar diseños de naves caldaris, tunearlas y volverlas en contra de sus creadores. Para la Worm, ha tomado prestado el diseño de la Merlin, tan familiar para los pilotos caldaris, y lo ha convertido en una fuerza motriz defensiva capaz de descargar a una velocidad aterradora.",
+    "fr": "Korako « Le Lapin » Kosakami, chef guristas, adore dérober les plans des vaisseaux caldari pour les remanier et les utiliser contre leurs créateurs. Avec le Worm, il est parti du design du Merlin, si connu des pilotes caldari, pour en faire une forteresse capable de tirer ses rafales à une vitesse terrifiante.",
+    "ja": "ガリスタのリーダーであるコラコ「ラビット」コサカミは、カルダリの艦船デザインを盗み、改良し、その開発者たちに向けて放つことにある種の愛情を注いでいた。ワームの設計において、彼はカルダリのパイロットが慣れ親しんだマーリンのデザインを流用し、恐るべきスピードで一斉射撃を行う防衛用主力艦に変えた。",
+    "ko": "구리스타스 리더인 '래빗' 코라코 코사카미는 칼다리에서 훔친 함선 설계를 개조하여 칼다리를 공격하는 것에 희열을 느낍니다. 코라코는 칼다리 파일럿들에게 친숙한 멀린을 개조하여 빠른 속도로 사격을 가할 수 있는 튼튼한 함선인 웜을 만들었습니다.",
+    "ru": "Корако Косаками по прозвищу «Кролик», предводитель гуристас, обожает выкрадывать чертежи калдарских кораблей, повышать их боевую мощь и направлять их против своих же создателей. Например, работая над проектом «Ворм», он взял дизайн фрегата типа «Мерлин», хорошо известный калдарским пилотам, и превратил его в маленькую крепость, с ужасающей скоростью изрыгающую залп за залпом.",
+    "zh": "古斯塔斯领袖“野兔”克拉克·卡萨加米有个特别的癖好，就是窃取加达里的飞船设计并加以改造，然后反过头来对付这些飞船的创造者：加达里。潜龙级战舰正是来自于加达里飞行员非常熟悉的小鹰级护卫舰，现在被改造成了一艘能以恐怖的速度将弹药倾泻在敌人头上的防御型强力舰船。"
+  },
+  "factionID": 500010,
+  "graphicID": 1831,
+  "groupID": 25,
+  "marketGroupID": 1365,
+  "mass": 981000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      164,
+      150,
+      75,
+      139,
+      85,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      164,
+      150,
+      75,
+      139,
+      85,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      164,
+      150,
+      75,
+      139,
+      85,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      164,
+      150,
+      75,
+      139,
+      85,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      164,
+      150,
+      75,
+      139,
+      85,
+      118,
+      94
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Worm",
     "en": "Worm",
@@ -10,5 +80,67 @@
     "ru": "Worm",
     "zh": "潜龙级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 39.0,
+  "sofFactionName": "guristas",
+  "soundID": 20103,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonus": 300,
+        "bonusText": {
+          "de": "Bonus auf die HP und den Schaden von <a href=showinfo:24241>Leichten Kampfdrohnen</a>",
+          "en": "bonus to <a href=showinfo:24241>Light Combat Drone</a> damage and hitpoints",
+          "es": "de bonificación al alcance efectivo y los puntos de vida de los <a href=showinfo:24241>drones de combate ligeros</a>.",
+          "fr": "bonus aux dégâts et aux PV des <a href=showinfo:24241>drones de combat légers</a>",
+          "ja": "<a href=showinfo:24241>ライト戦闘ドローン</a>のダメージとヒットポイントが増加",
+          "ko": "<a href=showinfo:24241>라이트 공격 드론</a> 피해량 및 내구도 증가",
+          "ru": "увеличивается урон бортового оружия <a href=showinfo:24241>лёгких боевых дронов</a>; увеличивается запас их прочности",
+          "zh": "<a href=\"showinfo:24241\">轻型战斗无人机</a>伤害和HP加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3328": [
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf den Kinetik- und Thermalschaden von Lenkwaffen",
+            "en": "bonus to kinetic and thermal missile damage",
+            "es": "de bonificación al daño cinético y térmico de los misiles.",
+            "fr": "bonus aux dégâts des missiles de type cinétique et thermique",
+            "ja": "ミサイルのキネティック・サーマルダメージが増加",
+            "ko": "미사일 키네틱 및 열 피해 증가",
+            "ru": "увеличивается урон кинетических и термических БЧ ракет",
+            "zh": "动能和热能导弹伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ],
+      "3330": [
+        {
+          "bonus": 4,
+          "bonusText": {
+            "de": "Bonus auf alle Schildresistenzen",
+            "en": "bonus to all shield resistances",
+            "es": "de bonificación a todas las resistencias de escudo.",
+            "fr": "de bonus à toutes les résistances de bouclier",
+            "ja": "全てのシールドレジスタンスが増加",
+            "ko": "모든 실드 저항력 증가",
+            "ru": "повышается сопротивляемость щитов корабля всем видам воздействия",
+            "zh": "护盾抗性加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 603,
   "volume": 16500.0
 }

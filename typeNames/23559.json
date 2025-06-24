@@ -1,5 +1,20 @@
 {
-  "typeID": 23559,
+  "basePrice": 140000.0,
+  "description": {
+    "de": "Wächterdrohne",
+    "en": "Sentry Drone",
+    "es": "Dron centinela",
+    "fr": "Drone sentinelle.",
+    "ja": "セントリードローン",
+    "ko": "센트리 드론",
+    "ru": "Стационарный боевой дрон",
+    "zh": "岗哨无人机"
+  },
+  "graphicID": 2981,
+  "groupID": 100,
+  "marketGroupID": 911,
+  "mass": 12000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Warden I",
     "en": "Warden I",
@@ -10,5 +25,10 @@
     "ru": "Warden I",
     "zh": "典狱官 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 35.0,
+  "sofFactionName": "caldaribase",
   "volume": 25.0
 }

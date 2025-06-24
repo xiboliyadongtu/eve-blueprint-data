@@ -1,5 +1,19 @@
 {
-  "typeID": 29334,
+  "basePrice": 7500.0,
+  "description": {
+    "de": "Modifiziertes Shuttle, das von den minmatarischen Medien benutzt wird, um von Events zu berichten",
+    "en": "Modified shuttle used by the Minmatar media to report on events.",
+    "es": "Lanzadera modificada que utilizan los medios minmatarianos para informar sobre eventos.",
+    "fr": "Navette modifiée utilisée par les médias minmatar pour assurer la couverture de divers événements.",
+    "ja": "ミンマターのメディアがイベントをレポートするために使用する改造シャトル。",
+    "ko": "민마타의 언론이 사건·사고를 중개하기 위해 사용하는 개량된 셔틀입니다.",
+    "ru": "Модифицированный челнок, применяемый средствами массовой информации Minmatar для репортажей с места событий.",
+    "zh": "被改造来专用于米玛塔尔媒体在各种事件中进行报道的穿梭机。"
+  },
+  "factionID": 500002,
+  "graphicID": 2045,
+  "groupID": 31,
+  "mass": 1600000.0,
   "name": {
     "de": "Minmatar Media Shuttle",
     "en": "Minmatar Media Shuttle",
@@ -10,5 +24,11 @@
     "ru": "Minmatar Media Shuttle",
     "zh": "米玛塔尔传媒穿梭机"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 14.0,
+  "sofFactionName": "minmatarbase",
+  "soundID": 20080,
   "volume": 5000.0
 }

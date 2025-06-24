@@ -1,5 +1,19 @@
 {
-  "typeID": 22574,
+  "capacity": 1200.0,
+  "description": {
+    "de": "Warpunterbrecher-Drohne",
+    "en": "Warp Scrambling Drone",
+    "es": "Dron distorsionador de warp",
+    "fr": "Drone inhibiteur de warp",
+    "ja": "ワープスクランブルドローン",
+    "ko": "워프 스크램블 드론",
+    "ru": "Дрон-постановщик квантовых помех.",
+    "zh": "跃迁干扰无人机"
+  },
+  "graphicID": 1084,
+  "groupID": 545,
+  "iconID": 1084,
+  "mass": 3000.0,
   "name": {
     "de": "Warp Scrambling Drone",
     "en": "Warp Scrambling Drone",
@@ -10,5 +24,9 @@
     "ru": "Warp Scrambling Drone",
     "zh": "跃迁干扰无人机"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 15.0,
+  "sofFactionName": "amarrbase",
   "volume": 5.0
 }

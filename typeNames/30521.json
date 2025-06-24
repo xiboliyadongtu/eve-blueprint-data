@@ -1,5 +1,18 @@
 {
-  "typeID": 30521,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Diese gepanzerte Außenhülle verfügt noch über einen freien Zugang zur Datenbank im Inneren. Mit Ihrem Datenanalysator könnten Sie ihr noch Informationen abluchsen.",
+    "en": "This hull plate still has an unobstructed access point for the databank it holds. You may be able to extract something with your Data Analyzer.",
+    "es": "Esta placa para el casco aún tiene un punto de acceso libre para el banco de datos que contiene. Tal vez puedas extraer algo con tu analizador de datos.",
+    "fr": "Ce morceau de coque présente un point d'accès ouvert pour la banque de données qu'il contient. Votre analyseur de données vous permettra peut-être d'en extraire quelque chose.",
+    "ja": "データバンクが取り付けられている船体プレートのアクセスポイントはまだ機能している。データアナライザーを使えば、何か引き出せるかもしれない。",
+    "ko": "데이터뱅크 중계 장치는 비교적 온전한 상태로 보존되어 있습니다. 데이터 분석기를 통해 정보를 수집할 수 있습니다.",
+    "ru": "На обшивке этого корпуса все еще есть подход к банку данных, заключенному в нем. Возможно, с помощью анализатора данных вам удастся что-нибудь из него вытянуть.",
+    "zh": "这块船壳上还有一个无障碍的数据库接入点。你可以尝试使用你的数据分析仪找出其中有用的信息。"
+  },
+  "graphicID": 3704,
+  "groupID": 1207,
+  "mass": 10000.0,
   "name": {
     "de": "Spavined Sleeper Databank",
     "en": "Spavined Sleeper Databank",
@@ -10,5 +23,9 @@
     "ru": "Spavined Sleeper Databank",
     "zh": "残损的冬眠者数据库"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 858.0,
+  "sofFactionName": "debris",
   "volume": 27500.0
 }

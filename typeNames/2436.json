@@ -1,5 +1,20 @@
 {
-  "typeID": 2436,
+  "basePrice": 231072.0,
+  "description": {
+    "de": "Schwere Angriffsdrohne",
+    "en": "Heavy Attack Drone",
+    "es": "Dron de asalto pesado",
+    "fr": "Drone d'attaque lourd.",
+    "ja": "ヘビーアタックドローン",
+    "ko": "헤비 어택 드론",
+    "ru": "Тяжелый боевой дрон",
+    "zh": "重型攻击无人机"
+  },
+  "graphicID": 1080,
+  "groupID": 100,
+  "marketGroupID": 839,
+  "mass": 10000.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Wasp II",
     "en": "Wasp II",
@@ -10,5 +25,11 @@
     "ru": "Wasp II",
     "zh": "胡蜂 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 35.0,
+  "sofFactionName": "laidai",
+  "variationParentTypeID": 1201,
   "volume": 25.0
 }

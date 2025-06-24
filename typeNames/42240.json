@@ -1,5 +1,17 @@
 {
-  "typeID": 42240,
+  "description": {
+    "de": "AOE-Debuff, der die Zielerfassung für alle Objekte in der Nähe blockiert",
+    "en": "AOE debuff that disables targeting for all nearby items",
+    "es": "Perjuicio con área de efecto que desactiva la adquisición de objetivos de todos los objetos cercanos.",
+    "fr": "Affliction à effet de zone qui désactive le ciblage pour tous les objets environnants.",
+    "ja": "付近のすべてのアイテムの捕捉を無効化するAOEデバフ",
+    "ko": "주위 아이템의 타겟팅 기능을 차단하는 광역 디버프입니다.",
+    "ru": "Создаёт поле объёмного действия, отключающее работу систем обнаружения и сопровождения целей всех находящихся поблизости объектов.",
+    "zh": "范围效果，使附近的所有物体的锁定功能失效"
+  },
+  "groupID": 353,
+  "iconID": 109,
+  "mass": 5000.0,
   "name": {
     "de": "QA Pacifier Burst",
     "en": "QA Pacifier Burst",
@@ -10,5 +22,7 @@
     "ru": "QA Pacifier Burst",
     "zh": "QA Pacifier Burst"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 1.0
 }

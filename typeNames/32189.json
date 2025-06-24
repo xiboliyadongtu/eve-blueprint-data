@@ -1,5 +1,17 @@
 {
-  "typeID": 32189,
+  "description": {
+    "de": "Diese Beschleunigungstorfreigabe erlaubt es dem Benutzer, ein bestimmtes Beschleunigungstor zu benutzen.",
+    "en": "This gate clearance allows the user to unlock a specific acceleration gate.",
+    "es": "Esta autorización de portal permite al usuario desbloquear un portal de aceleración específico.",
+    "fr": "Cette accréditation permet à son utilisateur de débloquer un portail d'accélération spécifique.",
+    "ja": "特定のアクセラレーションゲートのロックを解除できる。",
+    "ko": "특정한 액셀레이션 게이트를 활성화하기 위한 인증서입니다.",
+    "ru": "Этот пропуск позволяет воспользоваться заблокированными вратами ускорения.",
+    "zh": "这个通行证允许持有者启动特定的加速轨道。"
+  },
+  "groupID": 474,
+  "iconID": 2040,
+  "mass": 1.0,
   "name": {
     "de": "Shanty Town Gate Clearance",
     "en": "Shanty Town Gate Clearance",
@@ -10,5 +22,7 @@
     "ru": "Shanty Town Gate Clearance",
     "zh": "贫民区的大门通行证"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

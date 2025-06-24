@@ -1,5 +1,17 @@
 {
-  "typeID": 2430,
+  "basePrice": 45000.0,
+  "description": {
+    "de": "Der Tagebau ist eine weitverbreitete und effektive Praktik, die auf den Anfang der planetaren Besiedlung zurückgeht. Der Prozess beinhaltet das Zerstören einer Oberflächenschicht eines Planeten, bis das darunter vergrabene Erz zum Vorschein tritt. An diesem Punkt kann das Erz leichter extrahiert werden. Tagebaue sind in der Regel recht flach und werden in Bereichen gebaut, in denen das Oberflächenmaterial, das die wertvollen Ablagerungen bedeckt, relativ dünn ist. Aus diesem Grund werden Tagebaue manchmal auf dem Meeresboden errichtet.",
+    "en": "Surface mining is a common and effective practice that dates back to early planetary settlement. The process involves stripping a planet's surface layer until the ore buried beneath is exposed. At this point, the ore can be more easily extracted. Surface mines are typically quite shallow and are built in areas where the surface material covering the valuable deposits is relatively thin. For this reason, surface mines are sometimes built on the ocean floor.",
+    "es": "La minería en superficie es una práctica común y efectiva que se remonta a los primeros asentamientos planetarios. El proceso consiste en retirar una capa de la superficie del planeta hasta que el mineral soterrado quede expuesto, ya que entonces la mena se puede extraer más fácilmente. Este tipo de minas suelen ser poco profundas y se construyen en zonas en las que el material que cubre los depósitos valiosos es relativamente fino. Por ello, a veces se encuentran en el fondo oceánico.",
+    "fr": "L'extraction minière est une pratique fréquente et efficace dont l'origine remonte aux premières colonies planétaires. Le processus implique de décaper la couche à la surface d'une planète jusqu'à exposition du minerai. À ce stade, l'extraction du minerai est on ne peut plus facile. Les mines à la surface sont généralement peu profondes et construites dans des zones où le matériau situé à la surface et recouvrant les dépôts est relativement fin. C'est d'ailleurs pour cette raison que les mines sont parfois construites sur les fonds océaniques.",
+    "ja": "地表採掘は、初期の惑星入植にまでさかのぼることができる一般的で効率的な方法である。地表採掘は、土中の鉱石が出てくるまで惑星の表層を削る作業がある。この作業により、鉱石の採掘が容易になるのである。地表採掘は一般的にごく浅い深度で行われ、貴重な鉱床を覆っている表層の物質が比較的薄い地域に設備が構築される。そのため、地表採掘設備は海底に構築されることもある。",
+    "ko": "노천 채굴은 흔히 진행되는 효과적인 채광 방식으로 행성 정착이 시작되던 시대부터 시행되어왔습니다. 이 채굴 방식은 지표 아래에 위치한 광석들이 드러날 때까지 행성 표층의 암석이나 흙을 걷어내는 것입니다. 광석이 드러나면 이후 채굴 작업은 매우 쉽게 진행됩니다. 따라서 노천 채굴은 가치있는 자원들을 덮고있는 표층이 비교적 얕은 지역에서 진행되며 해저에서 시행되기도 합니다.",
+    "ru": "Открытые горнорудные разработки – простой и эффективный способ, берущий начало еще со времен ранних планетарных поселений. В ходе этого процесса часть поверхности земной коры обнажается, пока старатели не дойдут до рудоносных пластов. После этого добыча руды становится проще. Открытые разработки никогда сильно не углубляются в кору, и обычно их применяют на участках, где поверхностные породы, прикрывающие залежи, относительно тонкие. По этой причине комплексы для открытой разработки иногда строят на дне океанов.",
+    "zh": "露天采掘是一种常见且高效的开采方式，自从星球殖民早期就已经被使用。这种方法实际上就是去除星球地表土壤，直到埋藏在下面的矿床被暴露出来。这样，矿石就可以更容易地被开采出来。露天采掘通常都不会挖掘得很深，只是在矿层较接近地表的情况下使用。出于这个原因，露天挖掘设施通常设立在海底上。"
+  },
+  "graphicID": 4543,
+  "groupID": 1026,
   "name": {
     "de": "Barren Base Metals Extractor",
     "en": "Barren Base Metals Extractor",
@@ -10,5 +22,6 @@
     "ru": "Barren Base Metals Extractor",
     "zh": "贫瘠行星基础金属采集器"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": true
 }

@@ -1,5 +1,19 @@
 {
-  "typeID": 77701,
+  "basePrice": 112500000.0,
+  "capacity": 933.0,
+  "description": {
+    "de": "Ein Reclaimer-Sleeper, vergleichbar mit einem Schlachtschiff. Er weist Neutralisier-Fähigkeiten auf. Der uralte Robot-Beschützer der Geheimnisse eines untergegangenen Volkes, dessen interne Prozesse nicht vollständig bekannt sind.",
+    "en": "A Reclaimer sleeper, equivalent to a battleship class ship. It demonstrates neutralizer capabilities.\r\n\r\nThe Ancient robotic protector of a lost people's secrets, the details of its internal operations are not fully understood.",
+    "es": "Una Reclaimer sleeper, equivalente a una nave de clase acorazado. Demuestra capacidades de neutralizador.    Antiguo robot protector de los secretos de un pueblo perdido, no se conocen todos los detalles de su funcionamiento interno.",
+    "fr": "Un Reclaimer sleeper, équivalent à un cuirassé. Il est équipé de neutraliseurs. L'ancien protecteur robotique des secrets d'un peuple perdu, les détails de ses opérations internes ne sont pas complètement compris.",
+    "ja": "戦艦級の同等艦にあたるリクレイマー型スリーパー。ニュートラライザーを使用できることが確認されている。    既に滅亡した人々の秘密を守る古代のロボットで、内部の詳細な仕組みについては今もなお完璧には解明されていない。",
+    "ko": "배틀쉽급 함선과 동급인 리클레이머 슬리퍼입니다. 뉴트럴라이저 운용 능력을 보유했습니다.<br><br>지금은 사라진 민족의 비밀을 수호하는 고대 로봇으로, 내부 작동 방식은 아직 완전히 파악되지 않았습니다.",
+    "ru": "Этот Спящий типа Reclaimer по характеристикам соответствует линкору. Обладает способностью к нейтрализации энергии. Древний роботизированный защитник, оберегающий тайны исчезнувшей цивилизации. Принципы его работы ещё полностью не изучены.",
+    "zh": "一架捍卫者级冬眠者，相当于一艘战列舰级舰船。具备中和器的能力。这个远古机器人守护着失落民族的秘密，其内部运作的具体细节尚未被探明。"
+  },
+  "graphicID": 3559,
+  "groupID": 4574,
+  "mass": 63000000.0,
   "name": {
     "de": "Enervating Overseer",
     "en": "Enervating Overseer",
@@ -10,5 +24,10 @@
     "ru": "Enervating Overseer",
     "zh": "萎靡者监工"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 400.0,
+  "sofFactionName": "sleeperbase",
+  "soundID": 12,
   "volume": 495000.0
 }

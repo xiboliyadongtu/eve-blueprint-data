@@ -1,5 +1,16 @@
 {
-  "typeID": 25403,
+  "description": {
+    "de": "Eine Crane, die von einem Agenten geflogen wird.",
+    "en": "A Crane piloted by an agent.",
+    "es": "Crane pilotada por un agente.",
+    "fr": "Un Crane piloté par un agent.",
+    "ja": "エージェントを乗せたクレーン。",
+    "ko": "에이전트가 조종하는 크레인입니다.",
+    "ru": "Корабль класса Crane, управляемый агентом.",
+    "zh": "由代理人驾驶的天鹤级飞船。"
+  },
+  "graphicID": 2709,
+  "groupID": 517,
   "name": {
     "de": "Fetosa Kanim's Crane",
     "en": "Fetosa Kanim's Crane",
@@ -10,5 +21,10 @@
     "ru": "Fetosa Kanim's Crane",
     "zh": "费图萨·坎尼姆的天鹤级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 216.4,
+  "sofFactionName": "kaalakiota",
+  "sofMaterialSetID": 385
 }

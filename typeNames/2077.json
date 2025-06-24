@@ -1,5 +1,17 @@
 {
-  "typeID": 2077,
+  "capacity": 500.0,
+  "description": {
+    "de": "Luxusschiff der Fregattenklasse.",
+    "en": "Frigate luxury vessel.",
+    "es": "Fragata de lujo.",
+    "fr": "Frégate de luxe.",
+    "ja": "フリゲートの豪華な艦船。",
+    "ko": "프리깃급 호화 유람선입니다.",
+    "ru": "Роскошный круизный фрегат.",
+    "zh": "一艘豪华护卫舰。"
+  },
+  "graphicID": 1066,
+  "groupID": 952,
   "name": {
     "de": "Amarr Frigate Container",
     "en": "Amarr Frigate Container",
@@ -10,5 +22,9 @@
     "ru": "Amarr Frigate Container",
     "zh": "艾玛护卫舰货柜"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 39.0,
+  "sofFactionName": "amarrbase"
 }

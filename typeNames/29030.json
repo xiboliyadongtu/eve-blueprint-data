@@ -1,5 +1,17 @@
 {
-  "typeID": 29030,
+  "description": {
+    "de": "Dieser Chip enthält ein stark verschlüsseltes Datenfragment, das aus einem Feldspezifikations-Hauptrechner der 7. Flotte geborgen wurde. Ohne den originalen Dechiffrierungsschlüssel oder starke Codebreaker-Hardware wie beim Militär kann man unmöglich sagen, was für Daten er ursprünglich enthielt oder in welchem Maße die Daten noch intakt sind.",
+    "en": "This chip contains a highly-encrypted data fragment retrived from a 7th Fleet field-spec mainframe. It would be impossible to tell what it originally contained - or how much of the data is still intact - without access to the original encryption key or some serious military-grade codebreaking hardware.",
+    "es": "Este chip contiene un fragmento de datos altamente encriptados que se ha recuperado de una unidad central específica de campo de la 7.ª Flota. Es imposible saber qué contenía, ni cuántos datos siguen intactos, sin la clave de encriptación original o un potente hardware de descifrado de grado militar.",
+    "fr": "Ce puce contient des fragments de données cryptées récupérées sur un ordinateur central de la 7e flotte. Il est tout simplement impossible de savoir ce qu'il contenait, ou même la quantité de données encore intactes, sans avoir accès à la clé de cryptage originale ou à un logiciel de décryptage militaire très puissant.",
+    "ja": "このチップには、第7艦隊の戦場対応型メインフレームコンピュータから抜き出したデータが、高度な暗号を施された上で保存してある。元々どのようなデータが含まれていたのか、また、どれだけのデータが今でも無事に残っているかを知るには、作成時の暗号化キーを手に入れるか軍レベルの高度なコードブレーカーが必要。",
+    "ko": "7 함대 메인프레임으로부터 획득한 암호화된 데이터 파편이 저장된 칩입니다. 원본 해독키 또는 군용 암호해독 하드웨어를 사용하여 데이터의 손상여부 및 내용을 확인할 수 있습니다.",
+    "ru": "Этот чип содержит зашифрованный фрагмент данных, полученных из полевого сервера 7-го флота. Без исходного ключа шифрования или мощного оборудования для взлома шифров военного уровня невозможно определить, какие данные на нем содержались изначально или какие данные сохранились.",
+    "zh": "这个芯片包含了一组从第七舰队战场专用主机中提取的高度加密数据片段。要想知道它原本包含了什么几乎是不可能的，也不知道剩余了多少数据，除非能找出原始的加密密匙或者什么专业的军用破解设备。"
+  },
+  "groupID": 526,
+  "iconID": 2885,
+  "mass": 1.0,
   "name": {
     "de": "7th Fleet Data Fragment",
     "en": "7th Fleet Data Fragment",
@@ -10,5 +22,8 @@
     "ru": "7th Fleet Data Fragment",
     "zh": "第七舰队数据片段"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
   "volume": 1.0
 }

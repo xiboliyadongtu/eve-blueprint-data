@@ -1,5 +1,21 @@
 {
-  "typeID": 3033,
+  "capacity": 1.0,
+  "description": {
+    "de": "Ein energiestarker Strahllaser, der für Kämpfe auf mittlere Entfernung ausgelegt ist. \n\nMuss mit einem der folgenden Frequenzkristalle (regulär oder fortschrittlich) geladen werden: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray, Aurora, Gleam.",
+    "en": "A high-powered beam laser. Good for medium range encounters. \r\n\r\nRequires either regular or advanced frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray, Aurora, Gleam.",
+    "es": "Un láser de rayos de alta potencia. Eficaz en enfrentamientos a media distancia.\n\nRequiere un tipo de munición de cristal de frecuencia normal o avanzado: gamma, infrarrojos, microondas, multifrecuencia, radiofrecuencia, estándar, ultravioleta, rayos X, Aurora, Gleam.",
+    "fr": "Laser à rayons de grande puissance. Arme idéale pour les combats à moyenne portée. \n\nRequiert les cristaux de fréquence normaux et perfectionnés suivants en guise de munitions : gamma, infrarouge, micro-onde, multifréquence, radio, standard, ultraviolet, rayon X, aurore, lueur.",
+    "ja": "ハイパワービームレーザー。中距離での交戦に適している。\r\n\n装填可能な標準型／高性能フリーケンシークリスタルのタイプ : ガンマ、赤外線、マイクロ波、多周波、放射線、標準、紫外線、エックス線、オーロラ弾、グリーム弾。",
+    "ko": "고출력 빔 레이저입니다. 중거리 교전에 특화된 무기입니다. <br><br>사용 가능한 프리퀀시 크리스탈: 감마선, 적외선, 마이크로파, 멀티프리퀀시, 라디오파, 스탠다드, 자외선, 엑스선, 오로라, 글림.",
+    "ru": "Мощный непрерывный лазер. Рекомендуется для ведения огня на средних дистанциях.\n\nСледует заряжать стандартными или усовершенствованными частотными кристаллами: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray, Aurora, Gleam.",
+    "zh": "一种高功率集束激光器。适合中程交战。 使用的常规或高级频率晶体弹药类型：伽玛、红外线、微波、多频、射频、标准、紫外线、X射线、“极光”、“微光”。"
+  },
+  "graphicID": 11203,
+  "groupID": 53,
+  "iconID": 352,
+  "marketGroupID": 567,
+  "mass": 500.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Small Focused Beam Laser II",
     "en": "Small Focused Beam Laser II",
@@ -10,5 +26,9 @@
     "ru": "Small Focused Beam Laser II",
     "zh": "小型聚焦集束激光器 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "sarum",
+  "variationParentTypeID": 454,
   "volume": 5.0
 }

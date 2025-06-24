@@ -1,5 +1,18 @@
 {
-  "typeID": 24562,
+  "basePrice": 75000000.0,
+  "description": {
+    "de": "Skill zur Erschaffung von Sprungportalen zu weit entfernten Sonnensystemen. 10% Reduktion der Materialkosten zur Sprungportalaktivierung je Skillstufe.",
+    "en": "Skill for the generation of jump portals to distant solar systems. 10% reduced material cost for jump portal activation per level.",
+    "es": "Habilidad para la generación de portales de salto a sistemas solares lejanos. 10 % de reducción por nivel del coste de los materiales por la activación del portal de salto.",
+    "fr": "Compétence permettant de générer des portails interstellaires vers les systèmes solaires éloignés. Réduit de 10 % par niveau les coûts en matériel pour l'activation de portail interstellaire.",
+    "ja": "遠く離れたソーラーシステムへのジャンプポータルを作り出すスキル。レベル上昇ごとにジャンプポータル作成の資源コストが 10% 削減される。",
+    "ko": "장거리 점프 포탈 생성을 위한 스킬입니다. 점프 포탈 활성화 시 소모되는 재료 비용 10% 감소",
+    "ru": "Навык создания гиперпорталов в отдаленные планетные системы. За каждую степень освоения навыка: на 10% снижается расход материалов на запуск гиперпортала.",
+    "zh": "生成通往遥远星系的跳跃通道的技能。每升一级，激活跳跃通道的原料消耗减少10%。"
+  },
+  "groupID": 275,
+  "iconID": 33,
+  "marketGroupID": 374,
   "name": {
     "de": "Jump Portal Generation",
     "en": "Jump Portal Generation",
@@ -10,5 +23,8 @@
     "ru": "Создание гиперпорталов",
     "zh": "跳跃通道发生学"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

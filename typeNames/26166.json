@@ -1,5 +1,19 @@
 {
-  "typeID": 26166,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Die örtlichen Piraten möchten die Qualität ihrer Produkte verbessern. Sie sammeln ihre Entdeckungen in diesem Container. Ein Hacker könnte die Sicherheitsmaßnahmen umgehen und an den Inhalt des Containers gelangen.",
+    "en": "The local pirates are searching for ways to enhance their products. They collect their findings in these boxes. Those skilled in hacking might be able to bypass the security measures and access the contents of the box.",
+    "es": "Los piratas locales están buscando formas de mejorar sus productos y guardan sus descubrimientos en estas cajas. Puede que los hackers expertos puedan burlar las medidas de seguridad y acceder al contenido que hay dentro.",
+    "fr": "Les pirates de la région, toujours à la recherche de moyens pour améliorer leurs produits, stockent leurs découvertes dans ce genre de conteneur. Un hacker expert devrait pouvoir faire sauter les mesures de sécurité afin de s'emparer du contenu de la boîte.",
+    "ja": "地元の海賊は、各種製品の質を高める方法を探っている。海賊は研究結果をこの箱に集めている。ハッキング技術に秀でたものなら、セキュリティシステムを迂回して、箱の中身にアクセスできるかもしれない。",
+    "ko": "해적들은 자신들의 상품을 개선하기 위한 방법을 찾고있으며 이 과정에서 발견한 물품들을 이 컨테이너에 보관합니다. 해킹 숙련자는 보안장치를 우회하여 내용물을 습득할 수 있습니다.",
+    "ru": "Местные пираты пытаются улучшить свою продукцию. Все результаты исследований они хранят в таких контейнерах. Опытные хакеры могут взломать защитные механизмы и добраться до содержимого контейнеров.",
+    "zh": "当地海盗正在搜寻增强其产品的方法。这些盒子里储存着他们收集的成果。破解技术高超的人也许可以通过安全防线并获得盒子中的内容。"
+  },
+  "graphicID": 1176,
+  "groupID": 1207,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Novelty Box",
     "en": "Novelty Box",
@@ -10,5 +24,9 @@
     "ru": "Novelty Box",
     "zh": "奇异的盒子"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 60.0,
+  "sofFactionName": "genericmetal",
   "volume": 27500.0
 }

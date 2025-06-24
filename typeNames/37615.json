@@ -1,5 +1,18 @@
 {
-  "typeID": 37615,
+  "basePrice": 20000000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Kommandozerstörern.",
+    "en": "Skill for the operation of Command Destroyers.",
+    "es": "Habilidad en el manejo de operaciones con destructores de mando.",
+    "fr": "Compétence permettant de piloter des destroyers de commandement.",
+    "ja": "指揮型駆逐艦を操作するスキル。",
+    "ko": "커맨드 디스트로이어를 운용하기 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на лидерах.",
+    "zh": "操作指挥驱逐舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Command Destroyers",
     "en": "Command Destroyers",
@@ -10,5 +23,7 @@
     "ru": "Лидеры",
     "zh": "指挥驱逐舰操作"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

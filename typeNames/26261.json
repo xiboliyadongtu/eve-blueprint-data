@@ -1,5 +1,18 @@
 {
-  "typeID": 26261,
+  "basePrice": 250000.0,
+  "description": {
+    "de": "Fortgeschrittenes Verständnis von Schildsystemen. Ermöglicht, mithilfe von Anbauten Änderungen an den Subsystemen des Schildes vorzunehmen.\r\n\r\n10% Reduktion der Nachteile von Schildsystemanbauten je Skillstufe.",
+    "en": "Advanced understanding of shield systems. Allows makeshift modifications to shield systems through the use of rigs. \r\n\r\n10% reduction in Shield Rig drawbacks per level.",
+    "es": "Conocimiento avanzado de los sistemas de escudo. Permite realizar modificaciones improvisadas en los sistemas de los escudos mediante el uso de complementos.\n\nReducción del 10 % de las desventajas de los complementos de escudo por nivel.",
+    "fr": "Compréhension avancée des systèmes de bouclier. Permet de changer les systèmes de bouclier grâce à l'utilisation de modules d'optimisation. \n\nRéduit de 10 % par niveau les inconvénients liés à l'optimisation des boucliers.",
+    "ja": "シールドシステムに関する高度な理解力。リグを使ってシールドシステムに一時的な変更を加えられる。\r\n\nレベル上昇ごとにシールドリグの副作用を 10% 軽減する。",
+    "ko": "실드 시스템에 대한 심층적인 이해를 습득합니다. 리그 장착을 통해 실드 시스템을 임시로 변경합니다. <br><br>매 레벨마다 실드 리그 부작용 10% 감소",
+    "ru": "Глубокое понимание систем щитов корабля. Позволяет самостоятельно устанавливать модификаторы щитов корабля. \n\n\n\nЗа каждую степень освоения навыка: на 10% уменьшается отрицательный эффект модификаторов щитов.",
+    "zh": "理解护盾系统的高级技能。允许通过使用改装件对舰船护盾系统进行临时改进。\r\n\r\n每升一级，护盾改装件的副作用降低10%。"
+  },
+  "groupID": 269,
+  "iconID": 33,
+  "marketGroupID": 372,
   "name": {
     "de": "Shield Rigging",
     "en": "Shield Rigging",
@@ -10,5 +23,7 @@
     "ru": "Модификаторы силовых полей",
     "zh": "护盾改装技术"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

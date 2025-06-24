@@ -1,5 +1,18 @@
 {
-  "typeID": 28880,
+  "basePrice": 5000000.0,
+  "description": {
+    "de": "Verbesserte Kontrolle über allgemeine Reparatur-Nanobots, die üblicherweise in pastenartigem Zustand verwendet werden. 20% höherer Reparaturumfang beschädigter Module je Sekunde.",
+    "en": "Improved control of general-purpose repair nanites, usually deployed in a paste form. 20% increase in damaged module repair amount per second.",
+    "es": "Control mejorado de los nanobots de reparación de uso general, normalmente desplegados en forma de fluido. Aumenta un 20 % la cantidad de reparación de los módulos dañados por segundo.",
+    "fr": "Contrôle amélioré des nanites de réparation générale, sous forme de pâte. Augmentation de 20 % de la quantité de module réparée par seconde.",
+    "ja": "改良型汎用リペアナノマシンコントロール。通常はペイスト状態で配置される。1秒ごとに損傷したモジュールのリペア量が20%増加。",
+    "ko": "다목적 수리용 나나이트의 효율적 통제를 위한 스킬입니다. 파손된 모듈에 대한 수리량이 초당 20% 증가",
+    "ru": "Углублённый навык контроля универсальных ремонтных нанитов, обычно поставляемых в форме пасты. За каждую степень освоения навыка: на 20% повышается скорость ремонта повреждённых модулей.",
+    "zh": "改进通用维修纳米体控制的技能。每升一级，受损装备每秒维修量增加20%。"
+  },
+  "groupID": 1216,
+  "iconID": 33,
+  "marketGroupID": 368,
   "name": {
     "de": "Nanite Interfacing",
     "en": "Nanite Interfacing",
@@ -10,5 +23,7 @@
     "ru": "Повышение эффективности ремонтных нанитов",
     "zh": "纳米体控制技术"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

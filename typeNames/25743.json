@@ -1,5 +1,16 @@
 {
-  "typeID": 25743,
+  "description": {
+    "de": "Eine Dominix, die von einem Agenten geflogen wird.",
+    "en": "A Dominix piloted by an agent.",
+    "es": "Dominix pilotada por un agente.",
+    "fr": "Un Dominix piloté par un agent.",
+    "ja": "エージェントを乗せたドミニックス。",
+    "ko": "에이전트가 조종하는 도미닉스입니다.",
+    "ru": "Корабль класса Dominix, управляемый агентом.",
+    "zh": "代理人驾驶的多米尼克斯级飞船。"
+  },
+  "graphicID": 318,
+  "groupID": 517,
   "name": {
     "de": "Cliene Veine's Dominix",
     "en": "Cliene Veine's Dominix",
@@ -10,5 +21,9 @@
     "ru": "Cliene Veine's Dominix",
     "zh": "科利安·韦恩的多米尼克斯级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 250.0,
+  "sofFactionName": "gallentebase"
 }

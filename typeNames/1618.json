@@ -1,5 +1,15 @@
 {
-  "typeID": 1618,
+  "description": {
+    "de": "5% Preisnachlass im Direkthandel mit NPC.",
+    "en": "NPC dir.trade price -5%.",
+    "es": "-5 % al precio directo mayorista con PNJ.",
+    "fr": "Réduit de 5 % le coût de commerce PNJ.",
+    "ja": "NPC直接取引価格-5%。",
+    "ko": "NPC와 직접 거래 시 구매 비용 5% 감소",
+    "ru": "-5% от цен NPC персонажей.",
+    "zh": "与NPC直接交易时，价格降低5%。"
+  },
+  "groupID": 191,
   "name": {
     "de": "Glib Tongue Bonus",
     "en": "Glib Tongue Bonus",
@@ -10,5 +20,6 @@
     "ru": "Glib Tongue Bonus",
     "zh": "能说会道加成"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

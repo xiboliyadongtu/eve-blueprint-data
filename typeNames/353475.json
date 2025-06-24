@@ -1,5 +1,17 @@
 {
-  "typeID": 353475,
+  "basePrice": 149000.0,
+  "description": {
+    "de": "Skill zur Benutzung von Scharfschützengewehren.\n\n5% Abzug auf das Verziehen des Visiers von Scharfschützengewehren pro Skillstufe.",
+    "en": "Skill at handling sniper rifles.\r\n\r\n5% reduction to sniper rifle scope sway per level.",
+    "es": "Habilidad de manejo de fusiles de francotirador.\n\n-5% a la oscilación de la mira de fusiles de francotirador por nivel.",
+    "fr": "Compétence permettant de manipuler les fusils de précision.\n\n5 % de réduction de l'oscillation de la lunette du fusil de précision par niveau.",
+    "it": "Abilità nel maneggiare fucili di precisione.\n\n5% di riduzione all'oscillazione del mirino del fucile di precisione per livello.",
+    "ja": "スナイパーライフルを扱うスキル。\n\nレベル上昇ごとに、スナイパーライフルのスコープ揺れが5%軽減する。",
+    "ko": "저격 라이플 운용을 위한 스킬입니다. <br><br>매 레벨마다 조준경 흔들림 5% 감소",
+    "ru": "Навык обращения со снайперскими винтовками.\n\n5% снижение качания прицела снайперской винтовки на каждый уровень.",
+    "zh": "使用狙击步枪的技能。每升一级，狙击步枪瞄准镜的晃动幅度减少5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Bedienung: Scharfschützengewehr",
     "en": "Sniper Rifle Operation",
@@ -11,5 +23,7 @@
     "ru": "Обращение со снайперскими винтовками",
     "zh": "狙击步枪操作"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

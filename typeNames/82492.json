@@ -1,5 +1,19 @@
 {
-  "typeID": 82492,
+  "basePrice": 50000000.0,
+  "description": {
+    "de": "Diese Anlage erkennt Kampfanomalien mit Gegnern mäßiger Stärke und ist ideal, um aufstrebenden Kampfpiloten eine Möglichkeit zu bieten, sich zu bewähren. Diese Variante entdeckt neue Anomalien schneller als die Grund- und verbesserten Versionen.",
+    "en": "Detecting combat anomalies containing hostiles of modest strength, this array is ideal for giving up-and-coming combat pilots a way to prove their worth.\r\nThis variant detects new anomalies faster than the base and upgraded versions.",
+    "es": "Este sistema, que detecta anomalías de combate que contienen hostiles de fuerza modesta, es ideal para ofrecer a los pilotos de combate prometedores una forma de demostrar su valía.\r\nEsta variante detecta nuevas anomalías más rápido que las versiones base y mejorada.",
+    "fr": "Capable de détecter les anomalies de combat abritant des hostiles de force modeste, ce module est idéal pour permettre aux pilotes de combat encore peu expérimentés de prouver leur valeur. Cette variante détecte de nouvelles anomalies plus rapidement que la version de base et les versions améliorées.",
+    "ja": "若干の脅威となる敵がいる戦闘特異点を探知する、新進気鋭の戦闘志向のパイロットが自らの価値を証明するのに最適な施設。\r\nこのタイプは、ベースとなっている施設やその強化版よりも早く新たな特異点を探知することができる。",
+    "ko": "전투 어노말리를 탐지하는 시설입니다. 자신의 능력을 보이고 싶은 신참 파일럿이 상대하기 좋은 적당한 적이 등장하는 어노말리가 주로 탐색됩니다.<BR>기본 및 상급 시설보다 어노말리를 빠르게 탐색합니다.",
+    "ru": "Такой комплекс позволяет обнаруживать боевые аномалии со скромными вражескими силами. Эти районы отлично подходят начинающим пилотам, желающим показать себя в сражениях. Данная версия выявляет новые аномалии быстрее, чем базовая и улучшенная.",
+    "zh": "这个阵列能够检测出存在实力一般的敌军的战斗异常空间，非常适合新晋战斗飞行员证明自己的价值。此衍生版阵列会比基础版和升级版阵列更快地检测出新生的异常空间。"
+  },
+  "groupID": 4768,
+  "iconID": 26734,
+  "marketGroupID": 1284,
+  "mass": 1000.0,
   "name": {
     "de": "Minor Threat Detection Array 3",
     "en": "Minor Threat Detection Array 3",
@@ -10,5 +24,7 @@
     "ru": "Minor Threat Detection Array 3",
     "zh": "小型威胁探测阵列3"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 60000.0
 }

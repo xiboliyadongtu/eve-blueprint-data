@@ -1,5 +1,18 @@
 {
-  "typeID": 23567,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Ein Lagerbereich für Schmuggelware, die den Serpentis gehört.",
+    "en": "A storage facility for contraband goods owned by the Serpentis.",
+    "es": "Un almacén para bienes de contrabando propiedad de los Serpentis.",
+    "fr": "Site de stockage de marchandises de contrebande appartenant aux Serpentis.",
+    "ja": "サーペンティスの所有する密輸品置き場。",
+    "ko": "서펜티스가 밀수품 보관을 위해 사용하는 저장시설입니다.",
+    "ru": "Хранилище для контрафактных товаров, принадлежащее Serpentis.",
+    "zh": "装有天蛇集团违禁货物的存储设施。"
+  },
+  "graphicID": 2496,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Serpentis Narcotics Storage",
     "en": "Serpentis Narcotics Storage",
@@ -10,5 +23,10 @@
     "ru": "Serpentis Narcotics Storage",
     "zh": "天蛇迷幻药储藏库"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 738.0,
+  "sofFactionName": "serpentis",
+  "soundID": 20200,
   "volume": 100000000.0
 }

@@ -1,5 +1,20 @@
 {
-  "typeID": 22621,
+  "basePrice": 24960.0,
+  "description": {
+    "de": "Verringert die Zyklusdauer für Ice Harvester, führt aber zu höherem CPU-Verbrauch.",
+    "en": "Decreases the cycle time on Ice Harvester but causes them to use up more CPU.",
+    "es": "Reduce el tiempo de ciclo de la cosechadora de hielo, pero aumenta el uso de la CPU.",
+    "fr": "Réduit le temps de cycle des collecteurs de glace, au détriment de leurs besoins en CPU.",
+    "ja": "アイス採掘機の生産サイクルが早くなるが、CPU使用量が多い。",
+    "ko": "아이스 채굴기의 사이클 시간이 감소하지만 CPU 요구치도 증가합니다.",
+    "ru": "Уменьшает продолжительность рабочего цикла экстракторов льда (Ice Harvesters) за счет увеличения нагрузки на бортовой компьютер корабля (CPU).",
+    "zh": "减少冰矿采集器的采集周期，但需占用更多CPU。"
+  },
+  "groupID": 546,
+  "iconID": 1046,
+  "marketGroupID": 935,
+  "mass": 1.0,
+  "metaGroupID": 3,
   "name": {
     "de": "'Anguis' Ice Harvester Upgrade",
     "en": "'Anguis' Ice Harvester Upgrade",
@@ -10,5 +25,9 @@
     "ru": "'Anguis' Ice Harvester Upgrade",
     "zh": "安格斯冰矿采集能力提升器"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "variationParentTypeID": 22576,
   "volume": 5.0
 }

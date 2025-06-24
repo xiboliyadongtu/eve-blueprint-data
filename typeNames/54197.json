@@ -1,5 +1,18 @@
 {
-  "typeID": 54197,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Dieses stationierbare Triglavia-Waffensystem erfüllt den gleichen Zweck wie ein Energieneutralisierer, unterscheidet sich aber in der Funktionsweise etwas von standardmäßigen Neutralisierern. Der Energieverlust wird zwar auf andere Weise herbeigeführt, das Endresultat bleibt aber das gleiche und der Moroznik Enthalpic Inhibitor wird häufig von speziellen Triglavia-Einheiten mit der Bezeichnung „Moroznik“ eingesetzt, um gegnerische Fähigkeiten einzuschränken.",
+    "en": "This Triglavian deployable weapon system is functionally equivalent to an energy neutralizer but works on a somewhat different principle to standard neutralizers. While the means of causing energy loss is different, the end result is much the same and the Moroznik Enthalpic Inhibitor is often used to reduce enemy capabilities by special Triglavian units using the designation \"Moroznik\".",
+    "es": "Este sistema de armamento desplegable triglaviano funciona como un neutralizador energético, si bien obedece a un principio ligeramente diferente al de los neutralizadores estándares. Los medios con los que provoca la pérdida de energía son diferentes, pero el resultado final es muy similar. Las unidades triglavianas especiales suelen usar este inhibidor entálpico para reducir las capacidades enemigas bajo la designación «Moroznik».",
+    "fr": "Ce système d'armement déployable triglavian est fonctionnellement équivalent à un neutraliseur d'énergie, mais fonctionne sur un principe quelque peu différent par rapport aux neutraliseurs classiques. Alors que les méthodes pour provoquer la perte d'énergie sont différentes, le résultat final est sensiblement le même et l'inhibiteur enthalpique Moroznik est souvent employé pour réduire les capacités ennemies par des unités triglavian spéciales utilisant la désignation « Moroznik ».",
+    "ja": "この配置型トリグラビアンウェポンシステムは、機能面ではエネルギーニュートラライザーと同様であるが、通常のエネルギーニュートラライザーとはいささか異なる原理で機能する。エネルギーロスの発生手法は異なるが結果はほぼ同じであり、モロズニク・エンタルピック・インヒビターはトリグラビアンの特殊部隊「モロズニク」が敵の能力を低下させる目的で多用する。",
+    "ko": "모로즈니크 엔탈픽 인히비터는 에너지 뉴트럴라이저와 동일한 기능을 지닌 전개형 무기로 에너지 손실을 야기한다는 점은 동일하나 그 과정은 상이합니다. 해당 무기 체계는 \"모로즈니크\"라는 특수 기종에 의해 전개됩니다.",
+    "ru": "Это развёртываемое орудие Триглава функционально действует так же, как стандартный энергонейтрализатор, хоть и использует иные принципы. И пускай потеря энергии происходит непривычным образом, конечный результат будет таким же. «Энтальпийный ингибитор \"Мороз\"» используется для подавления вражеской бое- и обороноспособности и применяется особыми кораблями из подразделения «Морозник».",
+    "zh": "这个三神裔可部署武器系统的功能与能量中和器类似，但运行的机制有些不同。虽然抽取能量的方式可能不一样，但最后要达到的目的都是相同的。莫罗兹焓抑制器通常由名字中带有“莫罗兹尼克”字样的特殊三神裔单位来部署。"
+  },
+  "graphicID": 24557,
+  "groupID": 4073,
+  "mass": 1000.0,
   "name": {
     "de": "Moroz Enthalpic Inhibitor",
     "en": "Moroz Enthalpic Inhibitor",
@@ -10,5 +23,9 @@
     "ru": "Moroz Enthalpic Inhibitor",
     "zh": "莫罗兹焓抑制器"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 371.0,
+  "sofFactionName": "triglavianbase",
   "volume": 1000.0
 }

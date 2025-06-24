@@ -1,5 +1,18 @@
 {
-  "typeID": 86261,
+  "basePrice": 250000.0,
+  "description": {
+    "de": "Spezialisten-Kampftraining von Kapselbrecher-Klonen. +5 % auf Schadensmaximum pro Sekunde pro Skillstufe.",
+    "en": "Specialist combat training of Breacher Pod clones. +5% to the maximum damage per second cap per skill level.",
+    "es": "Entrenamiento de combate especializado de los clones de la cápsula de ataque. +5 % al límite de daño por segundo máximo por nivel de habilidad.",
+    "fr": "Entraînement de combat spécialisé pour les clones de capsules de brèche. +5 % aux dégâts maximum par seconde par niveau de compétence.",
+    "ja": "突入ポッドランチャーのクローンに専門の戦闘訓練を行うスキル。スキルレベルが1つ上がるたびに、最大秒間ダメージが5%増加する。",
+    "ko": "침투 포드 클론을 위한 특수 전투 훈련 스킬입니다. 스킬 레벨당 최대 초당 피해량이 5% 증가합니다.",
+    "ru": "Особый навык боевой подготовки клонов из внедряющихся капсул. Каждая степень освоения на 5% повышает максимальный урон в секунду.",
+    "zh": "分裂者级逃生舱克隆体的专业战斗技能。每升一级，每秒最大伤害上限提高5%。"
+  },
+  "groupID": 256,
+  "iconID": 33,
+  "marketGroupID": 373,
   "name": {
     "de": "Breacher Pod Clone Efficacity",
     "en": "Breacher Pod Clone Efficacity",
@@ -10,5 +23,7 @@
     "ru": "Breacher Pod Clone Efficacity",
     "zh": "分裂者级逃生舱克隆体效果"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

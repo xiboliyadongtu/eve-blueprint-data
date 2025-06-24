@@ -1,5 +1,17 @@
 {
-  "typeID": 60732,
+  "description": {
+    "de": "Diese modifizierte Bowhead wird von AEGIS als sichere Transferbarkasse verwendet. Sie könnte leer sein oder nur Personal an Bord haben, sie könnte aber auch voll wertvoller Gegenstände sein. Es gibt keinen legalen Weg, es herauszufinden.",
+    "en": "This modified Bowhead is being used as a secure transfer barge by AEGIS. It may be empty, or only carrying personnel, but it may be full of valuable items. There's no legal way to find out.",
+    "es": "AEGIS usa esta Bowhead modificada como gabarra de transporte seguro. Aunque podría estar vacía o trasladar personal únicamente, también podría estar repleta de objetos valiosos. No hay forma legal de averiguarlo.",
+    "fr": "Ce vaisseau Bowhead modifié est utilisé comme barge de transfert sécurisé par AEGIS. Il peut être vide, ou ne transporter que du personnel, mais il peut aussi être rempli d'objets de valeur. Il n'existe aucun moyen légal de le savoir.",
+    "ja": "この改造ボウヘッドはイージスによって重警備輸送船として使用されている。積荷は空かもしれないし、あるいは職員が乗っているだけかもしれないが、ひょっとすると貴重な物資を積んでいる可能性もある。それを合法的に確かめる方法は存在しない。",
+    "ko": "개조된 보우헤드로 AEGIS가 운반선으로 사용하고 있습니다. 화물실에 값비싼 아이템 또는 사람이 있을 수도 있지만, 아예 텅 비어 있을 가능성도 배제할 수는 없습니다. 뭐가 됐든 간에 합법적으로 내용물을 알아낼 방법은 없습니다.",
+    "ru": "Этот модифицированный «Боухед» используется ЭГИДА в качестве защищённой баржи. Корабль может оказаться пустым или перевозить персонал, а может быть наполнен ценными предметами. Легальным способом этого не выяснить.",
+    "zh": "这艘改装过的弓头鲸级是统合部紧急干预和安全局的安全运输驳船。它可能货舱空空，也可能只载人员，但还有可能装满了贵重物品。想要确认的话就只能用点非法手段了。"
+  },
+  "graphicID": 20977,
+  "groupID": 1896,
+  "mass": 1100000000.0,
   "name": {
     "de": "AEGIS Secure Transfer Barge",
     "en": "AEGIS Secure Transfer Barge",
@@ -10,5 +22,9 @@
     "ru": "AEGIS Secure Transfer Barge",
     "zh": "统合部紧急干预和安全局安全传输驳船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 600.0,
+  "sofFactionName": "orebase",
+  "soundID": 20073
 }

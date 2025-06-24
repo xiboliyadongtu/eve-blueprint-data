@@ -1,5 +1,19 @@
 {
-  "typeID": 15794,
+  "description": {
+    "de": "Neutralisiert einen bestimmten Anteil der Energie im Energiespeicher des Zielschiffes.",
+    "en": "Neutralizes a portion of the energy in the target ship's capacitor.",
+    "es": "Neutraliza parte de la energía del condensador de la nave objetivo.",
+    "fr": "Neutralise une partie de l'énergie dans le capaciteur du vaisseau cible.",
+    "ja": "ターゲットした艦船のキャパシタに蓄えられているエネルギーを一部中和することができる。",
+    "ko": "대상 함선의 캐패시터를 일정량 무력화시킵니다.",
+    "ru": "Нейтрализует часть энергии конденсатора выбранного корабля.",
+    "zh": "削减目标舰船电容器的部分能量。"
+  },
+  "groupID": 71,
+  "iconID": 1283,
+  "marketGroupID": 689,
+  "mass": 2000.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Ammatar Navy Small Energy Neutralizer",
     "en": "Ammatar Navy Small Energy Neutralizer",
@@ -10,5 +24,8 @@
     "ru": "Ammatar Navy Small Energy Neutralizer",
     "zh": "艾玛达海军小型能量中和器"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 533,
   "volume": 5.0
 }

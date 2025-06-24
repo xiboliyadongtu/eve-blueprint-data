@@ -1,5 +1,18 @@
 {
-  "typeID": 32200,
+  "basePrice": 58624.0,
+  "description": {
+    "de": "Dieses Gerät zeichnet jegliche Kommunikation auf, wenn man es in den Zentralrechner einer beliebigen Struktur integriert - unabhängig davon, wie verschlüsselt die Kommunikation auch sein mag.",
+    "en": "When planted in the mainframe of any structure, this device will record all communications, no matter how encrypted they may be.",
+    "es": "Cuando se acopla a la unidad central de cualquier estructura, este dispositivo registra todas las comunicaciones, independientemente del nivel de cifrado que presenten.",
+    "fr": "Quand il est implanté dans l'ordinateur central d'une structure, ce dispositif enregistre toutes les communications, qu'elles soient cryptées ou non.",
+    "ja": "構造物のメインフレームに設置すると、暗号化された通信であっても、全ての通信を記録する。",
+    "ko": "구조물에 설치 시 암호화 여부에 관계 없이 모든 종류의 통신을 기록합니다.",
+    "ru": "Помещенное внутрь любого мэйнфрейма, это устройство будет записывать всю передаваемую информацию, независимо от уровня её шифрования.",
+    "zh": "把它安装在任何设施的主机上，就可以记录所有来往的通讯，无论这些通讯是否加密。"
+  },
+  "groupID": 314,
+  "iconID": 2225,
+  "mass": 1.0,
   "name": {
     "de": "Covert Recording Device",
     "en": "Covert Recording Device",
@@ -10,5 +23,7 @@
     "ru": "Covert Recording Device",
     "zh": "隐秘记录装置"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

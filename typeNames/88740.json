@@ -1,5 +1,18 @@
 {
-  "typeID": 88740,
+  "capacity": 2500.0,
+  "description": {
+    "de": "Mit der passenden Ausrüstung sind Sie vielleicht in der Lage, sich in die Datenbank zu hacken und an wertvolle Informationen zu gelangen.",
+    "en": "If you have the right equipment you might be able to hack into the databank and get some valuable information.",
+    "es": "Si tienes el equipo adecuado, podrías hackear el banco de datos y recopilar información valiosa.",
+    "fr": "Si vous disposez du matériel adéquat, vous pourrez peut-être pirater la base de données et récupérer des informations précieuses.",
+    "ja": "適切な機器があれば、データバンクをハッキングして有益な情報を得ることができる。",
+    "ko": "전용 장비를 사용하면 데이터뱅크를 해킹하고 핵심 정보를 추출할 수 있습니다.",
+    "ru": "При наличии необходимого оборудования вы сможете взломать систему безопасности базы данных и получить ценную информацию.",
+    "zh": "如果你有正确的设备，你也许可以破解这个数据库并获得宝贵的信息。"
+  },
+  "graphicID": 20298,
+  "groupID": 1207,
+  "mass": 10000.0,
   "name": {
     "de": "Rogue Drone Logic Hub",
     "en": "Rogue Drone Logic Hub",
@@ -10,5 +23,9 @@
     "ru": "Rogue Drone Logic Hub",
     "zh": "自由无人机逻辑中心"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 300.0,
+  "sofFactionName": "genericbase",
   "volume": 25000.0
 }

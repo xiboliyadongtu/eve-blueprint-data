@@ -1,5 +1,21 @@
 {
-  "typeID": 18626,
+  "basePrice": 49688.0,
+  "description": {
+    "de": "Diese Monduntersuchungssonde wird in Richtung eines nahe stehenden Mondes gestartet, auf dem sie schließlich landet und Daten von Atmosphären- und Bodenanalysen zurücksendet.\n\nDie Quest ist ein preiswertes Kompaktsystem, welches zum Betrieb nur wenig Erfahrung benötigt. Sie ist allerdings ziemlich langsam und daher kann es bis zu 20 Minuten dauern, verlässliche Daten zu sammeln.",
+    "en": "The moon survey probe is launched in the direction of a nearby moon where it will eventually land and broadcast back atmospheric and soil analysis data.\r\n\r\nThe Quest is a cheap compact system that requires little in the way of skill to operate. However, it is extremely slow and can take up to 20 minutes to gather reliable survey data.",
+    "es": "La sonda de prospección lunar se lanza hacia una luna cercana para que aterrice sobre ella y transmita datos de análisis atmosféricos y terrestres.\n\nLa sonda Quest es un sistema compacto barato y manejable sin necesidad de grandes habilidades. Sin embargo, es extremadamente lenta y puede tardar hasta 20 minutos en obtener datos de reconocimiento fiables.",
+    "fr": "La sonde d'inspection lunaire est lancée vers une lune proche où elle atterrira et renverra les analyses du sol et de l'air.\n\nLe système Quest est compact et peu coûteux, il demande peu de compétences pour être utilisé. Il est toutefois très lent et peu mettre jusqu'à 20 minutes pour collecter des données de l'inspection.",
+    "ja": "衛星調査プローブを近くの衛星に向けて発射すると、やがて地表に到達して大気と土壌の分析データを送信してくる。\r\n\nクエストは安価かつコンパクトなシステムで、使用にもさしたる技術を必要としない。一方でその動作は大変遅く、正確なデータの収集には20分程度の時間がかかる。",
+    "ko": "위성 조사 프로브는 위성의 대기 및 토양 분석 데이터를 전송합니다. <br><br>퀘스트는 저렴한 가격의 컴팩트 시스템으로 스킬 사용에 요구되는 사항이 적습니다. 그러나 정보 수집 속도가 느려 정확한 자료를 얻기 위해 최대 20분의 시간이 소요됩니다.",
+    "ru": "Зонд исследования спутников запускается в направлении ближайшей луны. Приземлившись, он собирает данные об атмосфере и составе почвы, после чего отправляет полученные результаты обратно на корабль. \n\nQuest —  это дешёвая компактная система, для управления которой не требуется обладать серьёзными навыками. Однако она очень медленная: для сбора надёжных исследовательских данных ей может потребоваться около 20 минут.",
+    "zh": "卫星探针能被发射到邻近的卫星表面，传回大气和土壤的分析数据。\n\n追求者探针廉价，结实，对技能要求很低。但速度却极慢，需要大约20分钟来收集可靠的调查数据。"
+  },
+  "graphicID": 20064,
+  "groupID": 492,
+  "iconID": 2663,
+  "marketGroupID": 1200,
+  "mass": 1.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Quest Survey Probe I",
     "en": "Quest Survey Probe I",
@@ -10,5 +26,8 @@
     "ru": "Quest Survey Probe I",
     "zh": "追求者测量探针 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 30.0,
   "volume": 5.0
 }

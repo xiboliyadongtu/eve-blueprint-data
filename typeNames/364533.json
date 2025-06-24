@@ -1,5 +1,17 @@
 {
-  "typeID": 364533,
+  "basePrice": 66000.0,
+  "description": {
+    "de": "Grundlegende Kenntnisse in der Bedienung von Leichtwaffen.\n\n3% Abzug auf die CPU-Auslastung pro Skillstufe.",
+    "en": "Basic understanding of light weapon operation.\n\n3% reduction to CPU usage per level.",
+    "es": "Conocimiento básico del manejo de armas ligeras.\n\n-3% al coste de CPU por nivel.",
+    "fr": "Notions de base en utilisation des armes légères.\n\n3 % de réduction d'utilisation de CPU par niveau.",
+    "it": "Comprensione fondamenti del funzionamento delle armi leggere.\n\n3% di riduzione dell'utilizzo della CPU per livello.",
+    "ja": "小火器操作の基本的な知識。\n\nレベル上昇ごとに、CPU使用量が3%減少する。",
+    "ko": "경량 무기 운용에 대한 기본적인 이해를 습득합니다. <br><br>매 레벨마다 CPU 요구치 3% 감소",
+    "ru": "Понимание основ использования легкого оружия.\n\n3% снижение потребления ресурсов ЦПУ на каждый уровень.",
+    "zh": "操作轻型武器基本知识。每升一级，CPU使用率降低3%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Bedienung: Leichtwaffen",
     "en": "Light Weapon Operation",
@@ -11,5 +23,6 @@
     "ru": "Обращение с легким оружием",
     "zh": "轻型武器操作"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

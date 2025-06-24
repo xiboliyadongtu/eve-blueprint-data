@@ -1,5 +1,19 @@
 {
-  "typeID": 28319,
+  "basePrice": 12500000.0,
+  "capacity": 1.0,
+  "description": {
+    "de": "Eine Einrichtung, die kürzlich gefangenes \"Nutzvieh\" behandelt, bevor es an Sklavenhalter verkauft wird.",
+    "en": "A facility which processes recently captured livestock for preparation to be sold on to Holders.",
+    "es": "Instalación que procesa el ganado recién capturado y lo prepara para su venta a los terratenientes.",
+    "fr": "Centre vétérinaire permettant de préparer le bétail récemment capturé à la vente à destination des propriétaires.",
+    "ja": "捕獲したばかりの生命体に、飼い主に売り渡すための準備を行う施設。",
+    "ko": "홀더에게 판매될 노예에게 바이톡을 투여하는 시설입니다.",
+    "ru": "Помещение, где свежие рабы обрабатываются для подготовки к продаже.",
+    "zh": "对新抓获的劳工进行必要处理，之后再卖给劳工主。"
+  },
+  "graphicID": 2377,
+  "groupID": 438,
+  "mass": 100000000.0,
   "name": {
     "de": "Vitoc Injection Center",
     "en": "Vitoc Injection Center",
@@ -10,5 +24,9 @@
     "ru": "Vitoc Injection Center",
     "zh": "崴砣柯注射中心"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 937.0,
+  "sofFactionName": "genericmetal",
   "volume": 4000.0
 }

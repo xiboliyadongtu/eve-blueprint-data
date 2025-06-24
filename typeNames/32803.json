@@ -1,5 +1,19 @@
 {
-  "typeID": 32803,
+  "basePrice": 500.0,
+  "description": {
+    "de": "Diese hochspezialisierte Raum-zu-Boden-Munition kann in die Atomsphäre von Planeten eindringen. Sie ist nur für Ziele auf der Oberfläche nützlich und benötigt spezielle Zieldaten, die von Bodentruppen bereitgestellt werden.\n\nDer Radius des Hybridschlags ist doppelt so groß wie der des Laserschlags. Dadurch kann er einen größeren Bereich abdecken, aber in Kombination mit dem längeren Feuerintervall haben Ziele eine größere Chance, zu entkommen.",
+    "en": "This highly specialized space to ground ammunition can penetrate the atmosphere of planets. It is only useful against ground targets and relies on special targeting data provided by ground troops.\r\n\r\nThe Hybrid strike has a radius double that of the tactical laser. This enables it to bombard more ground but combined with a slower fire interval than the laser there is a greater chance for targets to escape.",
+    "es": "Esta munición de espacio a tierra altamente especializada puede atravesar la atmósfera de los planetas. Solo sirve contra objetivos terrestres y depende de los datos especiales de adquisición de objetivos proporcionados por tropas terrestres.\n\n\n\nHybrid cuenta con el doble de radio que el láser táctico. Esto le permite abarcar más terreno, pero debido a su cadencia inferior, hay más posibilidades de que los objetivos escapen.",
+    "fr": "Ces munitions espace-sol spécialisées peuvent pénétrer l'atmosphère des planètes. Elles ne sont efficaces que contre les cibles au sol, et s'appuient sur les données de ciblage spéciales fournies par les troupes au sol.\n\nLes munitions hybrides présentent un rayon deux fois plus important que celui des lasers tactiques. Cela leur permet de bombarder davantage d'unités au sol, mais avec une cadence de tir inférieure au laser.",
+    "ja": "この高度に特化した、宇宙から大地へ発せられる弾薬は、惑星の大気圏を貫通できる。陸上のターゲットのみに有効で、陸上部隊により提供された特別なターゲットデータを拠り所にする。\n\nハイブリッド攻撃はタクティカルレーザーの倍の半径におよぶ。より広範囲の地上を爆撃できるが、レーザーより発射間隔が長いため、ターゲットに逃げる隙を与えてしまうこともある。",
+    "ko": "대기권을 관통할 수 있는 행성 타격 전용 탄입니다. 공대지 타격 전용으로 발사 시 표적 정보는 지상으로부터 수신합니다. <br><br>타격 범위는 전술 레이저의 두 배에 달하지만, 상대적으로 느린 발사 속도 탓에 목표 대상이 비교적 쉽게 타격 지점으로부터 벗어날 수 있습니다.",
+    "ru": "Данный оперативно-тактический боеприпас предназначен исключительно для ведения огня по наземным целям с борта космических кораблей, находящихся на орбите планеты. Конструкция боеприпаса позволяет эффективно поражать цели на дне атмосферы, однако его применение требует наличия связи с десантными отрядами, передающими на борт корабля данные целеуказания.\n\nГибридные боеприпасы, применяемые для обстрела наземных целей, дают радиус поражения, в два раза превышающий радиус поражения целей оперативно-тактическим лазером. К сожалению, возможность ведения огня по площадям уравновешивается повышенной (по сравнению с лазером) продолжительностью перезарядки орудий — у переживших первый залп подразделений противника есть шанс выйти из-под второго удара.",
+    "zh": "这种非常特殊的空对地弹药可以穿透行星大气层。它只能打击地面目标，并且需要地面部队提供瞄准数据才能使用。混合炮的轰炸半径是战术激光器的两倍，这使得它的打击范围更广，但是与激光相比射击间隔更长，使目标有更多的时间逃离轰炸区域。"
+  },
+  "graphicID": 1312,
+  "groupID": 85,
+  "iconID": 10941,
+  "mass": 0.01,
   "name": {
     "de": "Orbital Hybrid S",
     "en": "Orbital Hybrid S",
@@ -10,5 +24,7 @@
     "ru": "Orbital Hybrid S",
     "zh": "战术混合炮S"
   },
+  "portionSize": 100,
+  "published": false,
   "volume": 0.0025
 }

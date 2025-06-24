@@ -1,5 +1,16 @@
 {
-  "typeID": 42860,
+  "description": {
+    "de": "Das Wrack eines Minmatar-Trägerschiffs der Hel-Klasse.",
+    "en": "The wreck of a Minmatar Hel carrier vessel.",
+    "es": "Restos de un portanaves Hel minmatariano.",
+    "fr": "Épave de porte-vaisseau minmatar de classe Hel.",
+    "ja": "ミンマターのヘル級艦載機母艦の残骸。",
+    "ko": "민마타 헬 캐리어 잔해입니다.",
+    "ru": "Обломки минматарского КАРа типа «Хель».",
+    "zh": "一艘米玛塔尔冥府级航母的残骸。"
+  },
+  "graphicID": 3110,
+  "groupID": 226,
   "name": {
     "de": "Minmatar Carrier Wreck",
     "en": "Minmatar Carrier Wreck",
@@ -10,5 +21,9 @@
     "ru": "Minmatar Carrier Wreck",
     "zh": "米玛塔尔航空母舰残骸"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 800.0,
+  "sofFactionName": "minmatarbase"
 }

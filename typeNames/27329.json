@@ -1,5 +1,21 @@
 {
-  "typeID": 27329,
+  "basePrice": 180.0,
+  "description": {
+    "de": "Eine kleine Rakete mit Nuklear-Sprengkopf.",
+    "en": "A small rocket with a nuclear warhead.",
+    "es": "Cohete pequeño con una ojiva nuclear.",
+    "fr": "Petite roquette dotée d'une ogive nucléaire.",
+    "ja": "核弾頭を装備した小型ロケット。",
+    "ko": "핵탄두를 탑재한 소형 로켓입니다.",
+    "ru": "Маленькая ракета ближнего боя с ядерной боеголовкой.",
+    "zh": "一种装备了核芯弹头的小型火箭。"
+  },
+  "graphicID": 20059,
+  "groupID": 387,
+  "iconID": 1353,
+  "marketGroupID": 999,
+  "mass": 100.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Dread Guristas Nova Rocket",
     "en": "Dread Guristas Nova Rocket",
@@ -10,5 +26,9 @@
     "ru": "Dread Guristas Nova Rocket",
     "zh": "恐惧古斯塔斯星爆火箭"
   },
+  "portionSize": 100,
+  "published": true,
+  "radius": 300.0,
+  "variationParentTypeID": 2516,
   "volume": 0.005
 }

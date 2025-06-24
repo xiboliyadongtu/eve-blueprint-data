@@ -1,5 +1,16 @@
 {
-  "typeID": 11369,
+  "description": {
+    "de": "Welchem Zweck diese Struktur einst auch gedient haben mag, sie ist nun völlig nutzlos. Nur einige wenige Teile der Außenhülle des Arrays sind nach der Explosion, die sie auseinander riss, noch übrig.",
+    "en": "Whatever purpose this structure once served, it is utterly useless now. Only a few bits of the array's hull survived the explosion that tore it apart.",
+    "es": "Sea cual sea el propósito de esta estructura, ahora es completamente inservible. Solo unos pocos fragmentos del casco general sobrevivieron a la explosión que lo destrozó.",
+    "fr": "Si le rôle qu'occupait autrefois cette structure reste inconnu, il est évident qu'elle n'est plus d'utilité aujourd'hui. En effet, seuls quelques fragments de sa coque ont survécu à l'explosion qui l'a littéralement réduite en morceaux.",
+    "ja": "当初の目的は何であったにせよ、今となっては何の意味もない。施設のごく一部の構造物が、分裂の原因となった爆発に耐え抜いた。",
+    "ko": "어떤 용도의 구조물이었는지는 모르겠으나 현재는 전혀 사용 불가능한 상태입니다. 시설의 일부만이 폭발로부터 살아남았습니다.",
+    "ru": "Для чего бы это сооружение изначально не предназначалось, в настоящий момент оно абсолютно бесполезно. Взрыв, разорвавший конструкцию на части, сумели пережить лишь несколько искореженных кусков металла.",
+    "zh": "无论这个建筑当初是以什么目的建立的，现在它都变成了毫无用处的东西。只剩下了几片从爆炸中残留的阵列外壳碎片。"
+  },
+  "graphicID": 2069,
+  "groupID": 226,
   "name": {
     "de": "Particle Acceleration Superstructure",
     "en": "Particle Acceleration Superstructure",
@@ -10,5 +21,9 @@
     "ru": "Particle Acceleration Superstructure",
     "zh": "粒子加速器超级建筑"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 3500.0,
+  "sofFactionName": "genericmetal",
+  "soundID": 20172
 }

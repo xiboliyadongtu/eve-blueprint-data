@@ -1,5 +1,19 @@
 {
-  "typeID": 21099,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Das verschlossene Beutegut treibt lautlos durchs All und wird sorgfältig bewacht von der berüchtigten Piraten Gang in Okkelen, den Kazka Banditen.",
+    "en": "The enclosed flotsam drifts quietly in space, closely monitored by the infamous pirate gang in Okkelen, the Kazka Bandits.",
+    "es": "Los restos encapsulados flotan sin rumbo y en silencio por el espacio, bajo la atenta mirada de los bandidos de Kazka, la infame banda de piratas de Okkelen.",
+    "fr": "Cette épave scellée dérive silencieusement dans l'espace, surveillée de près par l'infâme gang pirate d'Okkelen, les bandits kazka.",
+    "ja": "密閉されたフロットサム。銀河を静かに漂流しているが、オケレンの悪名高い海賊ギャング、カズカバンディットによって監視されている。",
+    "ko": "정적 속에서 표류 중인 컨테이너로 오켈른 성좌의 카즈카 약탈단이 감시하고 있습니다.",
+    "ru": "Закрытый контейнер мирно дрейфует в космосе под бдительным взором Kazka Bandits, печально известной бандой пиратов из Okkelen.",
+    "zh": "这个封闭的集装箱静静地漂浮在太空中，由欧克勒恩最臭名昭著的海盗团伙——卡兹卡强盗严密监视。"
+  },
+  "graphicID": 1176,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Kazka Loot Container",
     "en": "Kazka Loot Container",
@@ -10,5 +24,9 @@
     "ru": "Kazka Loot Container",
     "zh": "卡兹卡的藏宝箱"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericmetal",
   "volume": 1200.0
 }

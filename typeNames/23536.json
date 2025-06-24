@@ -1,5 +1,19 @@
 {
-  "typeID": 23536,
+  "basePrice": 40000.0,
+  "description": {
+    "de": "Heavy Webifier Drone\n\nAufgrund der Instabilität, die auftritt, wenn große, schiffsfähige Webifier-Ausrüstung in ein kleines, mobiles, unabhängig angetriebenes Objekt wie eine mobile Drohne eingebaut wird, musste der Hersteller gewisse Aspekte der Infrastruktur der Drohne opfern. Daher besitzt die Drohne einen größeren Signaturradius, wodurch sie relativ leicht anzuvisieren und zu treffen ist, außerdem kann sie nicht mehr als einige Einschüsse in ihre Außenhülle verkraften.",
+    "en": "Heavy Webifier Drone\r\n\r\nBecause of the instability inherent in affixing large, ship-capable webifier equipment to a small, mobile, independently powered carrier such as a mobile drone, the manufacturer had to sacrifice certain aspects of the drone's infrastructure. As a result, the drone has a high signature radius, making it relatively easy to target and hit, and isn't sturdy enough to suffer more than a few blows to its carapace.",
+    "es": "Dron de red ralentizadora pesado.\n\nDebido a la inestabilidad inherente a la instalación de equipos de redes ralentizadoras grandes aptos para naves en un portanaves pequeño, móvil y de propulsión independiente, como un dron móvil, el fabricante se ha visto obligado a sacrificar ciertos aspectos de la infraestructura del dron. Por ello, el dron tiene un radio de señal alto que lo convierte en un blanco fácil y no es lo bastante resistente como para sobrevivir a más que unos pocos ataques contra su caparazón.",
+    "fr": "Drone générateur de stase lourd.\n\nEn raison de l'instabilité inhérente à la fixation des équipements pour les vaisseaux sur les petits porte-vaisseaux mobiles et alimentés de manière indépendante à l'image d'un drone mobile, les concepteurs ont bien été contraints de sacrifier certains aspects de l'infrastructure du drone. Par conséquent, le drone présente un rayon de signature élevé, faisant de lui une cible relativement facile, sans compter que son blindage n'est pas assez résistant pour survivre à plusieurs tirs.",
+    "ja": "大型ウェビファイアードローン\r\n\n移動型ドローンのような小型で可動性があり独自動力源をもつキャリアに、不安定な艦船搭載式の大型ウェビファイアー装備を組み込むには、ドローンのインフラストラクチャの一部が犠牲にならざるを得なかった。その結果、このドローンでは高いシグネチャ半径により命中度が向上したが、外殻の堅牢性は低下して数発の攻撃にも耐えられない。",
+    "ko": "헤비 웹 드론<br><br>대형 함선 전용 스테이시스 웹 생성기를 소형 자가발전 캐리어와 같은 드론에 부착하기엔 불안정하기에 기본 성능의 희생이 불가피했습니다. 결국에 시그니처 반경이 높아져 목표로 포착되기 쉬워졌고 내구도도 높지 않아 공격에 매우 취약합니다.",
+    "ru": "Тяжелый опутывающий дрон\n\nОснащение небольшого, мобильного корабля-носителя с автономным питанием громоздким оборудованием для опутывания, неизбежно чревато нестабильностью. Поэтому производителю пришлось пойти на жертвы. В результате дрон имеет высокий радиус сигнатуры, что делает его сравнительно уязвимой целью, а его броня не способна выдержать больше пары попаданий.",
+    "zh": "重型缠绕无人机"
+  },
+  "graphicID": 2949,
+  "groupID": 641,
+  "marketGroupID": 841,
+  "mass": 3000.0,
   "name": {
     "de": "Berserker SW-900",
     "en": "Berserker SW-900",
@@ -10,5 +24,10 @@
     "ru": "Berserker SW-900",
     "zh": "狂战士SW-900"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 15.0,
+  "sofFactionName": "minmatarbase",
   "volume": 25.0
 }

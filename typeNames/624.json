@@ -1,5 +1,70 @@
 {
-  "typeID": 624,
+  "basePrice": 8000000.0,
+  "capacity": 480.0,
+  "description": {
+    "de": "Die Maller ist derzeit wahrscheinlich der robusteste Kreuzer in der Galaxie, und findet bei Einsätzen der Imperial Navy der Amarr häufig Verwendung. Sie wird hauptsächlich für militärische Zwecke verwendet, obwohl man auch einige wenige in Privatbesitz findet. Dort wird sie als Begleitschiff für äußerst wichtige Transportaufträge eingesetzt.",
+    "en": "Quite possibly the toughest cruiser in the galaxy, the Maller is a common sight in Amarrian Imperial Navy operations. It is mainly used for military duty, although a few can be found in the private sector acting as escort ships for very important dispatches.",
+    "es": "La Maller, posiblemente el crucero más resistente de la galaxia, suele verse en las operaciones de la Armada Imperial amarriana. Se usa principalmente para obligaciones militares, aunque se pueden encontrar algunas en el sector privado, donde funcionan como naves de escolta para envíos muy importantes.",
+    "fr": "Le Maller est probablement le croiseur le plus résistant de la galaxie. On le rencontre souvent lors des opérations de l'Amarr Navy impériale. Il sert principalement aux militaires, même si certains exemplaires ont été achetés par le secteur privé pour servir de vaisseaux d'escorte lors du transport de chargements très importants.",
+    "ja": "モーラーは、おそらく銀河でも最も耐久力が高い巡洋艦で、アマー帝国海軍の作戦では一般的な存在である。基本的に軍用艦だが、まれに民間でも護衛艦として採用され、厳重警備を要する艦船に随伴する場合がある。",
+    "ko": "말러는 아마르 제국 해군의 주력함으로 우주에서 가장 견고한 방어력을 자랑하는 함선 중 하나입니다. 주로 군사 목적으로 사용되지만 중요 파견 임무의 경우 호위함으로도 운용됩니다.",
+    "ru": "«Маллер», возможно, является самым прочным крейсером галактики и часто встречается в составе флотов Амаррской Империи. В основном он применяется в военных целях, но иногда используется и в частном секторе для сопровождения грузов высокой ценности.",
+    "zh": "暴君级是艾玛皇家海军行动的常用飞船，很可能也是星系中最强悍的巡洋舰。它主要用于军事任务，不过在私人用途领域，它有时也被用作重要货运任务的护航舰。"
+  },
+  "factionID": 500003,
+  "graphicID": 57,
+  "groupID": 26,
+  "marketGroupID": 74,
+  "mass": 13150000.0,
+  "masteries": {
+    "0": [
+      64,
+      96,
+      99,
+      150,
+      89,
+      93,
+      94
+    ],
+    "1": [
+      64,
+      96,
+      99,
+      150,
+      89,
+      93,
+      94
+    ],
+    "2": [
+      64,
+      96,
+      99,
+      150,
+      89,
+      93,
+      94
+    ],
+    "3": [
+      64,
+      96,
+      99,
+      150,
+      89,
+      93,
+      94
+    ],
+    "4": [
+      64,
+      96,
+      99,
+      117,
+      150,
+      89,
+      93,
+      94
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Maller",
     "en": "Maller",
@@ -9,6 +74,48 @@
     "ko": "말러",
     "ru": "Maller",
     "zh": "暴君级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 110.0,
+  "sofFactionName": "amarrbase",
+  "soundID": 20063,
+  "traits": {
+    "types": {
+      "3335": [
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3306>mittelgroßen Energiegeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3306>Medium Energy Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3306>torreta de energía mediana</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:3306>tourelles à énergie intermédiaires</a>",
+            "ja": "<a href=showinfo:3306>中型エネルギータレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3306>중형 에너지 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон <a href=showinfo:3306>средних лазерных орудий</a>",
+            "zh": "<a href=\"showinfo:3306\">中型能量炮台</a>伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 4,
+          "bonusText": {
+            "de": "Bonus auf alle Panzerungsresistenzen",
+            "en": "bonus to all armor resistances",
+            "es": "de bonificación a todas las resistencias de blindaje.",
+            "fr": "de bonus à toutes les résistances de blindage",
+            "ja": "全てのアーマーレジスタンスが増加",
+            "ko": "모든 장갑 저항력 증가",
+            "ru": "повышается сопротивляемость брони корабля всем видам воздействия",
+            "zh": "装甲抗性加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 118000.0
 }

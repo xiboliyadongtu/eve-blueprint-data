@@ -1,5 +1,18 @@
 {
-  "typeID": 60325,
+  "capacity": 300.0,
+  "description": {
+    "de": "Dieser Kreuzer der Enforcer-Klasse ist ein Schiffstyp, der das Rückgrat der AEGIS-Sicherheitskräfte darstellt, die von EDENCOMs AEGIS-Abteilung betriebene Anlagen bewachen. Es wäre unklug, die Aufmerksamkeit dieses tödlichen Angriffskreuzers auf sich zu ziehen. Diese Variante ist mit einem Warpstörer ausgestattet.",
+    "en": "This Enforcer-class cruiser is a type of vessel that forms the backbone of the AEGIS Security forces guarding facilities operated by the AEGIS division of EDENCOM. It would be unwise to draw the attention of this deadly attack cruiser. This variant is equipped with warp disruptors.",
+    "es": "Este crucero de clase Enforcer es un tipo de nave que constituye el pilar fundamental de las fuerzas de seguridad de AEGIS que protegen las instalaciones operadas por la división de AEGIS de EDENCOM. Más vale no llamar la atención de este crucero de combate letal. Esta variante está equipada con disruptores de warp.",
+    "fr": "Ce croiseur de classe Enforcer est un type de vaisseau considéré comme la clé de voûte des forces de sécurité d'AEGIS gardant les installations exploitées par la division AEGIS d'EDENCOM. Il serait imprudent d'attirer l'attention de ce croiseur d'attaque meurtrier. Cette variante est équipée de perturbateurs de warp.",
+    "ja": "このエンフォーサー級巡洋艦は、EDENCOMのイージス部門によって運営されている施設を守るイージス警備部隊の主戦力となっている艦船だ。この危険な巡洋艦の注意を引くのは賢明とは言えないだろう。なお、本タイプはワープ妨害器を装備している。",
+    "ko": "AEGIS가 운용하는 인포서급 크루저로 AEGIS 소유의 시설을 방어하기 위해 배치되었습니다. 접근 시 각별한 주의가 요구됩니다. 해당 기체는 워프 디스럽터를 장착하고 있습니다.",
+    "ru": "Крейсер класса «Энфорсер» — основа сил безопасности ЭГИДА, охраняющих объекты одноимённого подразделения ЭДЕНКОМа. От этого смертоносного атакующего судна лучше держаться подальше. Эта модификация оснащена варп-подавителями.",
+    "zh": "这艘执法者级战列舰是守卫着统合部紧急干预和安全局设施的统合部紧急干预和安全局安保部舰队的支柱力量。引起这艘战舰的注意可是件危险的事。这种衍生型装配了跃迁扰断器。"
+  },
+  "graphicID": 21489,
+  "groupID": 1813,
+  "mass": 12500000.0,
   "name": {
     "de": "AEGIS Security Gendarme",
     "en": "AEGIS Security Gendarme",
@@ -10,5 +23,11 @@
     "ru": "AEGIS Security Gendarme",
     "zh": "统合部紧急干预和安全局安保部 宪兵"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 200.0,
+  "sofFactionName": "concordcivilian",
+  "soundID": 20078,
   "volume": 116000.0
 }

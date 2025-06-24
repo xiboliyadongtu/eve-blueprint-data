@@ -1,5 +1,18 @@
 {
-  "typeID": 15354,
+  "capacity": 120.0,
+  "description": {
+    "de": "Aufklärungsdrohne des DED. Bedrohungsstufe: Mäßig",
+    "en": "DED Scout Drone. Threat level: Moderate",
+    "es": "Dron de reconocimiento del DED. Nivel de amenaza: moderado.",
+    "fr": "Drone de reconnaissance DED. Niveau de menace : moyen",
+    "ja": "DEDスカウトドローン。危険度:普通",
+    "ko": "DED의 스카우트 드론입니다. 위험도: 보통",
+    "ru": "Разведывательный дрон DED. Уровень опасности: умеренный",
+    "zh": "DED侦察无人机。威胁等级：中等"
+  },
+  "graphicID": 340,
+  "groupID": 818,
+  "mass": 2600500.0,
   "name": {
     "de": "DED Scout Drone",
     "en": "DED Scout Drone",
@@ -10,5 +23,10 @@
     "ru": "DED Scout Drone",
     "zh": "统合部 侦察无人机"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 29.96,
+  "sofFactionName": "angelbase",
   "volume": 26005.0
 }

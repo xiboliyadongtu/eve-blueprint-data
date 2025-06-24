@@ -1,5 +1,19 @@
 {
-  "typeID": 81162,
+  "capacity": 933.0,
+  "description": {
+    "de": "Die Analyse dieses Schlachtschiffs durch CONCORD wurde durch seinen hoch entwickelten Rumpf und ebensolche Schilde verhindert. Das Antriebssystem ist unbekannt, aber erste Theorien legen nahe, dass das Schiff während der Fortbewegung in irgendeiner Form direkt mit dem Raum-Zeit-Gewebe interagiert. Die Standardwaffensysteme dieses Schiffs scheinen halbautomatisch und effektiv gegen eine breite Palette von Zielen zu sein. Bei einer ersten Untersuchung zeigt das Schiff Anzeichen von kürzlich erlittenem Kampfschaden, und seine Superwaffe wurde deaktiviert. Es ist jedoch wahrscheinlich, dass automatisierte Verteidigungssysteme weiterhin betriebsbereit sind und eine potenzielle Gefahr für unvorbereitete Kapselpiloten darstellen.",
+    "en": "CONCORD's analysis of this battleship has been hampered by its advanced hull and shielding. The propulsion system is unfamiliar but tentative theories have suggested that the vessel somehow directly interacts with the fabric of space-time while moving. The standard weapon systems of this ship appear to be semi-autonomous and effective against a range of targets.\r\n\r\nUpon initial examination, the ship exhibits signs of recent battle damage and its super weapon has been disabled. However, it is probable that automated defense systems remain operational, presenting a potential hazard to the unsuspecting.",
+    "es": "El análisis de CONCORD de este acorazado se ha visto dificultado por el casco y el blindaje tan avanzados. El sistema propulsor es desconocido, pero las teorías provisionales sugieren que la nave interactúa directamente con el tejido espaciotemporal mientras avanza. Los sistemas de armamento estándar parecen semiautónomos y efectivos contra un amplio abanico de objetivos.\r\n\r\nEl examen inicial revela que la nave muestra signos de haber recibido daño en una batalla reciente y, además, que su superarma ha sido desactivada. Sin embargo, es probable que los sistemas de defensa automatizados sigan funcionando y puedan resultar peligrosos para los incautos.",
+    "fr": "L'analyse de ce cuirassé par CONCORD a été entravée par sa coque et son bouclier avancés. Le système de propulsion est inhabituel, mais des théories préliminaires suggèrent que le vaisseau interagit directement avec le maillage de l'espace-temps lors de ses déplacements. Les systèmes d'armement standards de ce vaisseau semblent semi-autonomes et efficaces contre diverses cibles. D'après l'examen initial, le vaisseau présente des signes de dégâts de combat récents et sa super arme a été désactivée. Cependant, il est probable que les systèmes de défense automatisés restent opérationnels, représentant un danger potentiel pour les plus téméraires.",
+    "ja": "CONCORDによるこの戦艦の分析は同艦の高性能船体とシールドによって阻まれた。推進力システムは未知のもので、移動中にこの船は時空構造と直接干渉するのではないかと仮説が立てられた。この艦船の標準型兵器システムは半自動操作されており広範囲の敵に対して効果があるようだ。\r\n\r\n初期調査により、この艦船は最近の戦闘で損傷し、超兵器を使用できなくなっていることが分かっている。ただし自動防衛システムは健在な可能性があり、無防備な者にとって潜在的な脅威となっている。",
+    "ko": "최첨단 실드 및 선체 시스템으로 인해 CONCORD가 대상 배틀쉽을 분석할 수 없습니다. 처음 보는 형태의 추진 시스템이 탑재되어 있으나 시공간 구조와 상호작용을 하며 이동하는 함선으로 추정됩니다. 기본 무기 시스템으로 탑재된 무기는 장거리 포격에 특화된 반자동 무기 시스템으로 보입니다.<br><br>최근 전투로 인해 선체가 손상되었으며 슈퍼 웨폰 또한 비활성화되었습니다. 다만, 자동 방어 체계는 아직 작동하고 있어 무방비하게 접근할 경우 피해를 입을 수 있습니다.",
+    "ru": "Изучая конструкцию этого линкора, инженеры КОНКОРДа зашли в тупик. Камнем преткновения оказался необычайно надёжный корпус и щиты корабля. Устройство двигателя также вызвало у экспертов удивление, и некоторые предположили, что во время полёта линкор напрямую взаимодействует с полотном пространства и времени. Стандартные орудия корабля представляет собой полуавтономную систему, эффективную против самых разных целей. Первичный осмотр показал, что линкор получил повреждения во время недавнего боя, а его сверхмощное орудие выведено из строя. Тем не менее высока вероятность, что его автоматизированные оборонительные системы ещё работают и могут представлять опасность.",
+    "zh": "这艘战列舰的船体和护盾系统非常先进，统合部对它的分析遇到了不小的麻烦。它的推进系统前所未见，有人猜想这艘船是直接与时空结构进行交互而实现星际穿梭的。它的标准武器系统似乎具有一定的自主性，面对各种目标都能发挥不俗的威力。初步检查发现这艘舰船近期有战损的痕迹，超级武器已经无法使用，但它的自动防御系统很可能仍在运行，贸然接近可能会受到攻击。"
+  },
+  "factionID": 500024,
+  "graphicID": 21049,
+  "groupID": 1982,
+  "mass": 10900000.0,
   "name": {
     "de": "Ruptured Drifter Battleship",
     "en": "Ruptured Drifter Battleship",
@@ -10,5 +24,9 @@
     "ru": "Ruptured Drifter Battleship",
     "zh": "破碎的流浪者战列舰"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 350.0,
+  "sofFactionName": "drifter",
+  "soundID": 20207
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 28191,
+  "basePrice": 1250000.0,
+  "description": {
+    "de": "Einsetzbare Struktur, die feindliche Ziele markiert.",
+    "en": "Deployable structure that target paints enemy targets.",
+    "es": "Estructura desplegable que revela los objetivos enemigos.",
+    "fr": "Structure mobile permettant de marquer des cibles ennemies.",
+    "ja": "敵に対してターゲットペイントを行う配置可能施設。",
+    "ko": "타겟 페인터의 역할을 하는 전개형 구조물입니다.",
+    "ru": "Передвижное сооружение, оборудованное системами подсветки целей.",
+    "zh": "对敌方目标进行目标标记的可部署结构。"
+  },
+  "graphicID": 2613,
+  "groupID": 877,
+  "mass": 100000000.0,
   "name": {
     "de": "Target Painting Battery",
     "en": "Target Painting Battery",
@@ -10,5 +23,9 @@
     "ru": "Target Painting Battery",
     "zh": "目标标记发射台"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 629.0,
+  "sofFactionName": "genericbase",
   "volume": 4000.0
 }

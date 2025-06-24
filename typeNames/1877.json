@@ -1,5 +1,21 @@
 {
-  "typeID": 1877,
+  "basePrice": 76908.0,
+  "capacity": 0.3,
+  "description": {
+    "de": "Ein Raketenwerfer für Kreuzer, der für die Abwehr von schnellen Fregatten vorgesehen ist. Kann nur mit normalen oder fortschrittlichen, leichten Raketen geladen werden.",
+    "en": "Launcher for cruisers intended to counter fast frigates, can only be fitted with regular and advanced light missiles.",
+    "es": "Lanzador para cruceros pensado para contrarrestar fragatas rápidas. Solo se puede equipar con misiles ligeros normales o avanzados.",
+    "fr": "Lanceur destiné aux croiseurs, conçu pour contrer les petites frégates rapides. Vous ne pouvez y charger que des missiles légers avancés et classiques.",
+    "ja": "高速フリゲートの迎撃を目的とした巡洋艦用ランチャー。標準型および高性能ライトミサイルのみを装填可能。",
+    "ko": "크루저 전용 미사일 런처로 기동력이 좋은 프리깃을 상대하기에 적합합니다. 일반 또는 상급 라이트 미사일만 탑재 가능합니다.",
+    "ru": "Пусковая установка для крейсеров, предназначенная для поражения быстролетящих целей типа фрегат, использует обычные и усовершенствованные ракеты.",
+    "zh": "用来对抗快速护卫舰的巡洋舰级别发射器。只能装备普通和高级轻型导弹。"
+  },
+  "graphicID": 20093,
+  "groupID": 511,
+  "iconID": 1345,
+  "marketGroupID": 641,
+  "metaGroupID": 2,
   "name": {
     "de": "Rapid Light Missile Launcher II",
     "en": "Rapid Light Missile Launcher II",
@@ -10,5 +26,9 @@
     "ru": "Rapid Light Missile Launcher II",
     "zh": "轻型快速导弹发射器 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "laidai",
+  "variationParentTypeID": 1875,
   "volume": 10.0
 }

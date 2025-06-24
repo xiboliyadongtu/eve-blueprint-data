@@ -1,5 +1,16 @@
 {
-  "typeID": 30801,
+  "description": {
+    "de": "Dieser Weltraumschrott war wohl einst die außen verlaufende Energieleitung eines riesigen Schiffs.",
+    "en": "This space debris appears to have served as an external power conduit system on a gigantic vessel.",
+    "es": "Escombros espaciales que parecen haber servido como conducto de alimentación externo en una nave gigante.",
+    "fr": "Ces débris spatiaux semblent avoir servi de système de conduit d'alimentation externe sur à un vaisseau gigantesque.",
+    "ja": "宇宙ゴミ。巨大船の船体表面に装備されるパワー伝導システムとして使用されていたものだろう。",
+    "ko": "거대한 함선의 외부 전력공급 시스템이었을 것으로 추정되는 잔해물입니다.",
+    "ru": "Этот космический мусор когда-то служил частью внешней системы энергоснабжения гигантского корабля.",
+    "zh": "这块太空垃圾看上去原本是一个超大型舰船外部输电系统的一部分。"
+  },
+  "graphicID": 3707,
+  "groupID": 226,
   "name": {
     "de": "Debris - Power Feed",
     "en": "Debris - Power Feed",
@@ -10,5 +21,8 @@
     "ru": "Debris - Power Feed",
     "zh": "碎片 - 输电装置"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 550.0,
+  "sofFactionName": "debris"
 }

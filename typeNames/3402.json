@@ -1,5 +1,18 @@
 {
-  "typeID": 3402,
+  "basePrice": 30000.0,
+  "description": {
+    "de": "Grundverständnis wissenschaftlicher Prinzipien.\r\n\r\n5% Bonus je Skillstufe auf die Geschwindigkeit, mit der Blueprints kopiert werden.",
+    "en": "Basic understanding of scientific principles. 5% Bonus to blueprint copying speed per level.",
+    "es": "Comprensión básica de principios científicos. 5 % de bonificación a la velocidad de copia de planos por nivel.",
+    "fr": "Compréhension de base des principes scientifiques. Augmente de 5 % par niveau la vitesse de copie du plan de construction.",
+    "ja": "サイエンス原理の基本知識。レベル上昇ごとにブループリントのコピー時間に 5% のボーナス。",
+    "ko": "과학 원리에 대한 기본적인 이해를 습득합니다. 매 레벨마다 블루프린트 복제 속도 5% 증가",
+    "ru": "Понимание основных принципов научного подхода. За каждую степень освоения навыка: на 5% повышается скорость копирования чертежей.",
+    "zh": "理解科学原理的基本技能。每升一级，蓝图复制的速度提升5%。"
+  },
+  "groupID": 270,
+  "iconID": 33,
+  "marketGroupID": 375,
   "name": {
     "de": "Science",
     "en": "Science",
@@ -10,5 +23,7 @@
     "ru": "Научные дисциплины",
     "zh": "科学原理"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

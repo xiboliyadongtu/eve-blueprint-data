@@ -1,5 +1,20 @@
 {
-  "typeID": 15138,
+  "basePrice": 70258.0,
+  "capacity": 128.0,
+  "description": {
+    "de": "Bewirkt eine Soforteinspeisung von Energie in den Energiespeicher.",
+    "en": "Provides a quick injection of power into the capacitor.",
+    "es": "Inyectan rápidamente potencia en el condensador.",
+    "fr": "Permet de faire bénéficier le capaciteur d'un surcroît de puissance temporaire.",
+    "ja": "キャパシタを急速充電することができる。",
+    "ko": "캐패시터에 추가 전력을 주입합니다.",
+    "ru": "Обеспечивает быстрое повышение мощности конденсатора.",
+    "zh": "向电容提供快速能量注入。"
+  },
+  "groupID": 76,
+  "iconID": 1031,
+  "marketGroupID": 701,
+  "metaGroupID": 5,
   "name": {
     "de": "Ahremen's Modified Heavy Capacitor Booster",
     "en": "Ahremen's Modified Heavy Capacitor Booster",
@@ -10,5 +25,8 @@
     "ru": "Ahremen's Modified Heavy Capacitor Booster",
     "zh": "阿勒门氏改良型重型电容注电器"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 3576,
   "volume": 20.0
 }

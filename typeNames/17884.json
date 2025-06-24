@@ -1,5 +1,16 @@
 {
-  "typeID": 17884,
+  "description": {
+    "de": "Eine verbesserte Version des Systemscanners. Scannt das System nach Mikrogravitationswellen in der Absicht etwas zu entdecken, worauf sich der Gravitationskondensator des Schiffes aufschalten kann, um dann dorthin zu warpen. Wird generell dazu verwendet, um Schiffe und Stationen zu finden, die in Raumverwerfungen verborgen sind.",
+    "en": "An advanced version of the system scanner. Scans the system for micro gravity wells in an attempt to locate something the ship's gravity capacitor can lock onto and thus warp to. Generally used for finding ships and bases hidden in dead space.",
+    "es": "Versión avanzada del escáner de sistemas. Escanea el sistema en busca de pozos microgravitatorios en un intento por localizar algo que el condensador de gravedad de la nave pueda fijar y, por tanto, a lo que pueda warpear. Se usa generalmente para encontrar naves y bases ocultas en el espacio muerto.",
+    "fr": "Une version avancée du scanner système. Scanne les systèmes à la recherche de puits de microgravité pour repérer un objet que le capaciteur de gravité du vaisseau peut verrouiller afin de warper vers lui. Généralement utilisé pour trouver des bases et des vaisseaux cachés dans l'espace.",
+    "ja": "システムスキャナーの高性能バージョン。ソーラーシステム内に存在する物体の質量によって生じる極めて微少な重力場を探知する。探知した重力場を艦船の重力キャパシタでロックオンし、その位置へワープすることができる。通常は、艦船や死角となっているエリアに隠された基地の探索に使用される。",
+    "ko": "기본 항성계 스캐너에서 성능을 향상한 모델입니다. 작동 시 항성계를 스캔하여 함선의 중력 캐패시터가 워프 가능 위치를 고정할 수 있는 극미 중력 구역을 찾습니다. 보통 다른 함선이나 데드스페이스에 숨겨져 있는 비밀 기지를 찾는 데 사용합니다.",
+    "ru": "Усовершенствованная версия системного сканера. Ведёт поиск микрогравитационных колодцев в пределах планетной системы в попытке найти точку привязки для гравитационного накопителя, чтобы получить координаты для варп-двигателя корабля.. Обычно применяется для обнаружения кораблей и баз, спрятанных в дедспейсе.",
+    "zh": "星系扫描仪的高级版本。扫描星系中的微型重力场，以便找到飞船重力电容可以锁定并跃迁的位置。通常用于寻找隐藏在死亡空间内的飞船和基地。"
+  },
+  "groupID": 472,
+  "iconID": 107,
   "name": {
     "de": "Recon System Scanner",
     "en": "Recon System Scanner",
@@ -10,5 +21,8 @@
     "ru": "Recon System Scanner",
     "zh": "侦查星系扫描仪"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 60.0,
   "volume": 5.0
 }

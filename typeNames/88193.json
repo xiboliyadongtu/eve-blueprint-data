@@ -1,5 +1,16 @@
 {
-  "typeID": 88193,
+  "description": {
+    "de": "Ein Aufzug. (Do not translate)",
+    "en": "An elevator. (Do not translate)",
+    "es": "An elevator. (Do not translate)",
+    "fr": "Un ascenseur. (Do not translate)",
+    "ja": "An elevator. (Do not translate) ",
+    "ko": "An elevator. (Do not translate)",
+    "ru": "Лифт. (Do not translate)",
+    "zh": "An elevator.(Do not translate)"
+  },
+  "graphicID": 2489,
+  "groupID": 1975,
   "name": {
     "de": "Non-Interactable Sansha Elevator (Do not translate)",
     "en": "Non-Interactable Sansha Elevator (Do not translate)",
@@ -10,5 +21,9 @@
     "ru": "Non-Interactable Sansha Elevator (Do not translate)",
     "zh": "Non-Interactable Sansha Elevator (Do not translate)"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 525.0,
+  "sofFactionName": "sanshabase"
 }

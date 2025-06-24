@@ -1,5 +1,82 @@
 {
-  "typeID": 11971,
+  "basePrice": 146200000.0,
+  "capacity": 320.0,
+  "description": {
+    "de": "Die Kampfaufklärer wurden mit dem Ziel gebaut, das Neueste auf dem Gebiet der elektronischen Kriegsführung zu repräsentieren und haben Einrichtungen an Bord, die die Effektivität elektronischer Gegenmaßnahmen jeglicher Art optimieren. Sie vollführen eine Aufgabe, die ihren Schwesterschiffen, den schweren Angriffskreuzern, ziemlich nahe kommt, und sind erste Wahl, wenn es darum geht, elektronische Gegenmaßnahmen unwirksam zu machen. In kleineren Gefechten sind sie verheerende Gegner, denn sie verfügen neben der elektronischen Überlegenheit auch über eine hervorragende Verteidigung.",
+    "en": "Built to represent the last word in electronic warfare, combat recon ships have onboard facilities designed to maximize the effectiveness of electronic countermeasure modules of all kinds. Filling a role next to their class counterpart, the heavy assault cruiser, combat recon ships are the state of the art when it comes to anti-support support. They are also devastating adversaries in smaller skirmishes, possessing strong defensive capabilities in addition to their electronic superiority.",
+    "es": "Las naves de reconocimiento de guerra, construidas con la tecnología más puntera de la guerra electrónica, poseen instalaciones de a bordo diseñadas para maximizar la efectividad de todos los tipos de módulos de contramedidas electrónicas. Su función se complementa con la de su homólogo de clase, el crucero de asalto pesado, y cuentan con lo más avanzado en medidas contra naves de apoyo. Por otro lado, gracias a sus potentes capacidades defensivas y su superioridad electrónica, son magníficos adversarios en escaramuzas pequeñas.",
+    "fr": "Conçus pour être le nec plus ultra en termes de guerre électronique, les vaisseaux de reconnaissance et combat disposent de systèmes embarqués afin de maximiser l'efficacité de tous les modules de contre-mesures électroniques. Venant en renfort du croiseur d'assaut lourd, leur homologue de même classe, les vaisseaux de reconnaissance et combat représentent le fin du fin en termes de vaisseaux de soutien anti-soutien. Ce sont également des adversaires redoutables lors des guérillas car, outre leur supériorité sur le plan électronique, ils disposent d'importantes capacités défensives.",
+    "ja": "戦闘偵察艦は、究極の電子戦兵器として造られており、あらゆる種類の対電子攻撃モジュールが最大の効果を発揮できるように船内設備が設計されている。強襲型巡洋艦と同クラスだが担う役割は別で、現代最高水準の技術を駆使して妨害支援を行う。電子戦に長けているだけでなく防御力も高いため、小規模の戦闘では手強い敵である。",
+    "ko": "컴뱃 리콘 크루저는 압도적인 전자전 성능을 보유한 함선으로 ECM 전용모듈이 탑재되어 전자전 능력을 한계치로 이끌어낼 수 있습니다. 어썰트 크루저와 유사한 면이 많은 컴뱃 리콘 크루저는 전장에 진입하는 적의 지원함을 방해하기 위해 최적화되었습니다. 소규모 스커미시 교전에서 특히 강력한 모습을 보이며 뛰어난 방어시스템과 전자전 성능을 지녔습니다.",
+    "ru": "Боевые дозорные крейсеры создавались как передовые корабли для электронной борьбы. Они оснащены бортовыми системами, обеспечивающими максимальную эффективность всех модулей электронного противодействия. Такие суда предназначены для совместной работы со своими «братьями» — тяжёлыми ударными крейсерами — и безупречно справляются со своей ролью, эффективно нейтрализуя вражеские средства поддержки.",
+    "zh": "战斗侦察舰是电子战的最新产物，其舰载系统能让各类电子对抗设备发挥最大效力。战斗侦察舰代表了反支援的最尖端，是对同级别的重型突击巡洋舰的最佳补充。鉴于其强大的防御能力和电子优势，它们还是较小规模冲突中的毁灭性力量。"
+  },
+  "factionID": 500004,
+  "graphicID": 2140,
+  "groupID": 906,
+  "marketGroupID": 833,
+  "mass": 12070000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      68,
+      101,
+      140,
+      150,
+      89,
+      94,
+      165
+    ],
+    "1": [
+      96,
+      99,
+      68,
+      101,
+      140,
+      150,
+      89,
+      94,
+      165
+    ],
+    "2": [
+      96,
+      99,
+      68,
+      101,
+      140,
+      150,
+      89,
+      94,
+      165
+    ],
+    "3": [
+      96,
+      99,
+      68,
+      101,
+      140,
+      142,
+      150,
+      89,
+      94,
+      165
+    ],
+    "4": [
+      96,
+      99,
+      68,
+      101,
+      140,
+      142,
+      117,
+      150,
+      89,
+      94,
+      165
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Lachesis",
     "en": "Lachesis",
@@ -10,5 +87,95 @@
     "ru": "Lachesis",
     "zh": "拉克希斯级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 79.0,
+  "sofFactionName": "roden",
+  "soundID": 20074,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Kann nicht von Richtungsscannern erfasst werden",
+          "en": "Cannot be detected by directional scanners",
+          "es": "No detectable con escáneres direccionales.",
+          "fr": "Indétectable par les scanners directionnels",
+          "ja": "指向性スキャナーでは検知できません",
+          "ko": "전방위 스캐너 탐지 불가",
+          "ru": "Корабли этого типа не обнаруживаются пеленгаторами",
+          "zh": "不能被定向扫描器探测到"
+        },
+        "importance": 1
+      }
+    ],
+    "types": {
+      "3332": [
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf die Nachführung von <a href=showinfo:3304>mittelgroßen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3304>Medium Hybrid Turret</a> tracking",
+            "es": "de bonificación al rastreo de la <a href=showinfo:3304>torreta híbrida mediana</a>.",
+            "fr": "bonus à la poursuite de la <a href=showinfo:3304>tourelle hybride intermédiaire</a>",
+            "ja": "<a href=showinfo:3304>中型ハイブリッドタレット</a>のトラッキングが向上",
+            "ko": "<a href=showinfo:3304>중형 하이브리드 터렛</a> 트래킹 성능 증가",
+            "ru": "повышается скорость наводки на цель <a href=showinfo:3304>средних гибридных орудий</a>",
+            "zh": "<a href=showinfo:3304>中型混合炮台</a>跟踪速度加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Effektivität von <a href=showinfo:3433>Sensorferndämpfern</a>",
+            "en": "bonus to <a href=showinfo:3433>Remote Sensor Dampener</a> effectiveness",
+            "es": "de bonificación a la efectividad del <a href=showinfo:3433>atenuador de sensor remoto</a>.",
+            "fr": "de bonus à l'efficacité des <a href=showinfo:3433>atténuateurs de détection à distance</a>",
+            "ja": "<a href=showinfo:3433>リモートセンサーダンプナー</a>の効果が増加",
+            "ko": "<a href=showinfo:3433>원격 센서 댐프너</a> 효과 증가",
+            "ru": "повышается эффективность действия <a href=showinfo:3433>модулей подавления захвата целей</a>",
+            "zh": "<a href=\"showinfo:3433\">远程感应抑阻器</a>效果加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ],
+      "22761": [
+        {
+          "bonus": 20,
+          "bonusText": {
+            "de": "Bonus auf die optimale Reichweite von <a href=showinfo:447>Warpunterbrechern</a> und <a href=showinfo:3242>Warpstörern</a>",
+            "en": "bonus to <a href=showinfo:447>Warp Scrambler</a> and <a href=showinfo:3242>Warp Disruptor</a> optimal range",
+            "es": "de bonificación al alcance óptimo del <a href=showinfo:447>distorsionador de warp</a> y el <a href=showinfo:3242>disruptor de warp</a>.",
+            "fr": "de bonus à la portée optimale des <a href=showinfo:447>inhibiteurs de warp</a> et des <a href=showinfo:3242>perturbateurs de warp</a>",
+            "ja": "<a href=showinfo:447>ワープスクランブラー</a>と<a href=showinfo:3242>ワープ妨害器</a>の最適射程距離が拡大",
+            "ko": "<a href=showinfo:447>워프 스크램블러</a> 및 <a href=showinfo:3242>워프 디스럽터</a> 최적사거리 증가",
+            "ru": "увеличивается оптимальная дальность действия <a href=showinfo:447>варп-глушителей</a> и <a href=showinfo:3242>варп-подавителей</a>",
+            "zh": "<a href=\"showinfo:447\">跃迁扰频器</a>和<a href=\"showinfo:3242\">跃迁扰断器</a>最佳射程加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf die optimale Reichweite von <a href=showinfo:3304>mittelgroßen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3304>Medium Hybrid Turret</a> optimal range",
+            "es": "de bonificación al alcance óptimo de la <a href=showinfo:3304>torreta híbrida mediana</a>.",
+            "fr": "bonus à la portée optimale de la <a href=showinfo:3304>tourelle hybride intermédiaire</a>",
+            "ja": "<a href=showinfo:3304>中型ハイブリッドタレット</a>の最適射程距離が拡大",
+            "ko": "<a href=showinfo:3304>중형 하이브리드 터렛</a> 최적사거리 증가",
+            "ru": "увеличивается оптимальная дальность ведения огня из <a href=showinfo:3304>средних гибридных орудий</a>",
+            "zh": "<a href=showinfo:3304>中型混合炮台</a>最佳射程加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 633,
   "volume": 116000.0
 }

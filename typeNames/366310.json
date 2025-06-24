@@ -1,5 +1,16 @@
 {
-  "typeID": 366310,
+  "description": {
+    "de": "Erhöht die maximale Stärke der Dropsuitschilde, aber verlängert die Ladeverzögerung, wenn die Schilde vollständig aufgebraucht sind.",
+    "en": "Increases the maximum strength of dropsuit shields, but lengthens the recharge delay once shields are fully depleted.",
+    "es": "Aumenta la fuerza máxima de los escudos del traje, pero dilata la demora de la recarga una vez que los escudos se agotan por completo.",
+    "fr": "Augmente la force maximale des boucliers de la combinaison, mais rallonge le délai de recharge une fois les boucliers épuisés.",
+    "it": "Aumenta la solidità massima degli scudi dell'armatura, ma aumenta il ritardo di ricarica quando gli scudi sono completamente esauriti.",
+    "ja": "降下スーツのシールド最大強度を増加するが、シールドが完全に空の状態になった時にシールド枯渇時リチャージ速度が長くなる。",
+    "ko": "강하슈트의 실드량이 증가하는 반면 실드 고갈 시 재충전 대기시간이 증가합니다.",
+    "ru": "Увеличивает максимальную силу щитов скафандра, но продлевает задержку перезарядки полностью истощенных щитов.",
+    "zh": "增加作战服护盾的最大强度，但在护盾能量耗尽后，充能时间会延长。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Einfacher State-Schildextender",
     "en": "State Basic Shield Extender",
@@ -11,5 +22,6 @@
     "ru": "Базовый расширитель щита производства Государства",
     "zh": "合众国基础型护盾扩充器"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

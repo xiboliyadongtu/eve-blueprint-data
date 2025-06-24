@@ -1,5 +1,17 @@
 {
-  "typeID": 363096,
+  "basePrice": 11600.0,
+  "description": {
+    "de": "Dieses Modul ermöglicht mobiles Spawnen durch eine Klonreanimationsseinheit für bemannte Fahrzeuge.",
+    "en": "This module provides a clone reanimation unit inside a manned vehicle for mobile spawning.",
+    "es": "Este módulo proporciona una unidad de reanimación de clones dentro de un vehículo tripulado para la reaparición móvil.",
+    "fr": "Ce module installe une unité de réanimation de clones dans un véhicule habité fournissant un point de résurrection mobile.",
+    "it": "Questo modulo fornisce un'unità di rianimazione cloni all'interno di un veicolo con equipaggio per rigenerazione a bordo.",
+    "ja": "移動式スポーンのために有人車両内に設置するクローン再起動ユニット。小型タレットスロットを一箇所使用する。",
+    "ko": "모듈 활성화 시 원거리 소환을 실행하기 위한 클론 부활 장치를 유인 비행체 안에 생성합니다.",
+    "ru": "Данный модуль позволяет развернуть блок реанимации клонов на борту управляемого транспортного средства и тем самым обеспечить мобильный пункт возрождения.",
+    "zh": "使用此装备，可在载人载具中安装克隆体复活装置，从而在移动的过程中生成克隆体。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Miliz: Mobiler CRU Blueprint",
     "en": "Militia Mobile CRU Blueprint",
@@ -11,5 +23,7 @@
     "ru": "Чертеж мобильного БРК, для ополчения",
     "zh": "国民卫队游击CRU蓝图"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

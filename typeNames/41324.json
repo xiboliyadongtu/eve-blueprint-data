@@ -1,5 +1,21 @@
 {
-  "typeID": 41324,
+  "basePrice": 60000.0,
+  "description": {
+    "de": "Null ist eine verbesserte Version der Standard-Thorium-Ladung, die eine wesentlich verbesserte molekulare Bindungskraft aufweist und dadurch höchste Reichweiten und geringeren Partikelverlust erzielt.\n\n\n\n40% höhere optimale Reichweite.\n\n25% niedrigere Nachführgeschwindigkeit.\n\n40% höhere Präzisionsabfall-Reichweite.\n\n\n\nHinweis: Diese Munition kann nur von Capital-Blastern der Technologiestufe II und Fraktionsvarianten benutzt werden.",
+    "en": "The Null is an improved version of the standard Thorium charge that possesses greatly improved molecular cohesion, resulting in superior range and reduced particle dissipation.\r\n\r\n40% increased optimal range.\r\n25% reduced tracking speed.\r\n40% increased falloff range.\r\n\r\nNote: This ammunition can only be used by capital tech level II and faction Blasters.",
+    "es": "El modelo Null es una versión perfeccionada de la carga de torio estándar que posee una cohesión molecular muy mejorada, lo que da como resultado un alcance superior y una disipación de partículas reducida.\n\n\n\nAlcance óptimo aumentado un 40 %.\n\nVelocidad de rastreo reducida un 25 %.\n\nAlcance efectivo aumentado un 40 %.\n\n\n\nAviso: Esta munición solo es compatible con blásteres T2 y faccionarios para naves capitales.",
+    "fr": "Le zéro, qui dérive de l'optimisation de la cohésion moléculaire d'une charge de thorium standard, bénéficie d'une portée améliorée et d'une dissipation des particules réduite.\n\n\n\nAugmente de 40 % la portée optimale.\n\nRéduit de 25 % la vitesse de poursuite.\n\nAugmente de 40 % la portée de déperdition.\n\n\n\nRemarque : ces munitions sont réservées aux blasters capitaux de tech II et faction.",
+    "ja": "トリウム弾を改良して分子凝縮力を大幅に高めてできたヌル弾は射程範囲が広く、粒子損失量も少ない。最適射程距離が40％延長。トラッキング速度が25%減少。精度低下範囲が40%拡大。注： 大型T2とファクションブラスター専用。",
+    "ko": "토륨탄을 개조한 탄약으로 강력한 분자 응집력을 바탕으로 긴 사거리와 낮은 입자 소실률을 자랑합니다. <br><br>최적사거리 40% 증가 <br><br>트래킹 속도 25% 감소 <br>유효사거리 40% 증가 <br><br>참고: 캐피탈 테크 II 및 팩션 블라스터에만 사용할 수 있습니다.",
+    "ru": "Является улучшенной версией стандартного ториевого заряда, обладающей значительно более высоким молекулярным сцеплением, что приводит к увеличению дальности поражения и уменьшению рассеяния частиц.\n\n\n\nНа 40% повышается оптимальная дальность ведения огня.\n\nНа 25% снижается скорость наводки орудий.\n\nПовышает добавочную дальность на 40%.\n\n\n\nПримечание: боеприпасы этого типа можно использовать только в бластерных орудиях КБТ-класса второй техкатегории, а также пиратских или армейских модификаций.",
+    "zh": "“虚空”型是标准钍炮弹的一个改进版本，分子聚合力得到大幅增强，从而实现了出众的射程和更小的粒子消散。\n\n\n\n最佳射程增加40%。\n\n跟踪速度降低25%。\n\n失准范围增加40%。\n\n\n\n注：只能用于旗舰级二级科技或势力疾速炮。"
+  },
+  "graphicID": 1314,
+  "groupID": 377,
+  "iconID": 2848,
+  "marketGroupID": 2254,
+  "mass": 0.5,
+  "metaGroupID": 2,
   "name": {
     "de": "Null XL",
     "en": "Null XL",
@@ -10,5 +26,8 @@
     "ru": "Null XL",
     "zh": "虚空 XL"
   },
+  "portionSize": 100,
+  "published": true,
+  "variationParentTypeID": 17658,
   "volume": 0.125
 }

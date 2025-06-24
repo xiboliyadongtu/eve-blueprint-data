@@ -1,5 +1,17 @@
 {
-  "typeID": 20124,
+  "description": {
+    "de": "Erhöht die Geschwindigkeit der Schildbooster der Flotte und verringert die Dauer von Schildtransportern. Hat keinen Effekt auf persönliche Capital-Schildbooster.\n\nTaktische Netzwerke sind spezielle Kommandosysteme für die Flottenführung, vorgesehen zum Einsatz auf Schlachtkreuzern und Schiffen der gehobenen Kommandoklasse.\n\nObwohl man normalerweise nur eines dieser Module gleichzeitig verwenden kann, gibt es bestimmte weiterentwickelte Einheiten, die den Gebrauch mehrerer Netzwerke parallel erlauben. \n\nHinweise: Der Flottenbonus wirkt nur, wenn Sie als Flotten-Booster ausgewählt wurden. Dieses Modul kann nicht innerhalb des Kraftfelds einer Sternenbasis aktiviert werden.",
+    "en": "Increases the speed of the fleet's shield boosters and decreases the duration of shield transporters. Will not affect Capital-sized personal shield boosters.\r\n\r\nWarfare links are dedicated fleet command systems designed for use on battlecruisers and advanced command class ships.\r\n\r\nWhile only one of these units can normally be operated at any given time, certain advanced units allow the use of multiple systems. \r\n\r\nNotes: The Fleet bonus only works if you are the assigned fleet booster. This module cannot activate inside a starbase forcefield.",
+    "es": "Aumenta la velocidad de los potenciadores de escudo de la flota y reduce la duración de los transportadores de escudos. No afecta a los potenciadores de escudo personales de tamaño capital.\n\nLos enlaces de guerra son sistemas de mando de la flota diseñados para usarse en cruceros de combate y naves de mando con tecnología avanzada.\n\nAunque solo una de estas unidades se puede manejar en cualquier momento, ciertas unidades avanzadas permiten el uso de sistemas múltiples.\n\nAviso: La bonificación de la flota solo se aplica cuando te nombran potenciador de flota. Este módulo no se puede activar dentro de un campo de fuerza de base estelar.",
+    "fr": "Réduit la durée de cycle des boosters de bouclier et des transporteurs de bouclier de la flotte. Ne s'applique pas aux boosters de bouclier capitaux personnels.\n\nLes interfaces tactiques sont des systèmes de commande de flotte dédiés, destinés aux croiseurs cuirassés et aux vaisseaux de classe de commandement avancé.\n\nSi ces unités sont ordinairement limitées à un usage exclusif, certaines unités avancées autorisent néanmoins l'activation simultanée de plusieurs systèmes. \n\nAttention : vous devez impérativement être {[character]player.gender -> \"promu\", \"promue\"} au rang de booster de flotte pour que le bonus de flotte soit opérant. Ce module ne peut pas être activé à l'intérieur du champ de force d'une base stellaire.",
+    "ja": "フリートが装備しているシールドブースターの速度を向上させ、シールドトランスポーターのサイクル時間を減少させる。超大型パーソナルシールドブースターには影響しない。艦隊支援システムは、フリート指揮を補佐するシステムであり、巡洋戦艦や高性能指揮型巡洋戦艦に搭載できる。通常は1基を常時稼働させておくのが限界だが、特定の高性能ユニットと組み合わせれば、複数タイプを同時に稼働させることも可能である。備考: フリートボーナスは、フリートブースターに任命されている場合にのみ有効。このモジュールはスターベースのフォースフィールド内では有効化できない。",
+    "ko": "함대의 실드 부스터 및 실드 트랜스포터의 사이클 시간이 감소합니다. <br><br>캐피탈급 함선의 자가 실드 부스터는 영향받지 않습니다. <br><br>전장 링크는 함대 지휘 시스템 전용 모듈로, 배틀크루저 및 상급 커맨드쉽에 장착하기 위해 제작된 장비입니다. <br><br>일반적으로 한 개의 모듈만이 가동 가능하지만 특정 고급 모듈들은 여러 개를 동시에 가동할 수 있습니다. <br><br>참고: 함대 보너스는 함대 부스터로 지정되어야만 사용할 수 있습니다. 이 모듈은 스타베이스 포스필드 내에서 활성화할 수 없습니다.",
+    "ru": "Сокращает рабочий цикл модулей бортовой и дистанционной накачки силовых полей для всех кораблей флота. Не влияет на работу модулей, предназначенных для установки на кораблях большого тоннажа. Модули расширения системы управления боем разработаны специально для систем управления флотом, используются на линейных крейсерах и кораблях управления специализированных проектов. Обычно на борту корабля допускается установка лишь одного такого модуля, однако корабли некоторых проектов способны одновременно держать включенными несколько подобных систем. Примечание: действие этого модификатора распространяется на флот только в том случае, если вы назначены начштаба флота (Fleet Booster). Модуль невозможно включить в пределах силового поля ПОСа.",
+    "zh": "提升舰队成员的护盾回充增量器速度，缩短护盾传输装备的运转周期。对旗舰级自身护盾回充增量器不起作用。\n\n作战网络是专业的舰队指令系统，专为战列巡洋舰和高级指挥舰船而设计。\n\n通常在同一时间只允许一个此类设备运作，不过某些高级单位允许多系统并行。 \n\n注意：只有当你被指定为舰队加成官时，舰队加成才有效。这个装备不能在母星力场内使用。"
+  },
+  "groupID": 316,
+  "iconID": 2858,
+  "metaGroupID": 1,
   "name": {
     "de": "Siege Warfare Link - Active Shielding I",
     "en": "Siege Warfare Link - Active Shielding I",
@@ -10,5 +22,7 @@
     "ru": "Siege Warfare Link - Active Shielding I",
     "zh": "会战作战网络—激活能量盾"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 60.0
 }

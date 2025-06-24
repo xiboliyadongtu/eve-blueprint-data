@@ -1,5 +1,18 @@
 {
-  "typeID": 2926,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Ein Frachtschiff der Serpentis, das mit Menschen beladen ist.",
+    "en": "A Serpentis cargo ship loaded with people.",
+    "es": "Nave de carga de Serpentis que transporta personas.",
+    "fr": "Un vaisseau de transport serpentis rempli de passagers.",
+    "ja": "人々を乗せた、サーペンティスの貨物船。",
+    "ko": "사람을 가득 실은 서펜티스 화물선입니다.",
+    "ru": "Грузовой корабль Serpentis, набитый людьми.",
+    "zh": "一艘装满人的天蛇货舰。"
+  },
+  "graphicID": 328,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Serpentis Slave Transport",
     "en": "Serpentis Slave Transport",
@@ -10,5 +23,10 @@
     "ru": "Serpentis Slave Transport",
     "zh": "天蛇劳工运输舰"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 553.0,
+  "sofFactionName": "gallentebase",
   "volume": 100000000.0
 }

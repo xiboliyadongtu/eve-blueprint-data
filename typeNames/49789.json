@@ -1,5 +1,20 @@
 {
-  "typeID": 49789,
+  "basePrice": 2000.0,
+  "description": {
+    "de": "Spektrographische Analysen von Eisasteroiden dieses Typs haben Kondensationsspuren von chromodynamischen Tricarboxylen nachgewiesen, die im gefrorenen Material eingeschlossen sind. Die Veredelung dieses Eismaterials in einer geeigneten Anlage sollte wirtschaftliche Mengen chromodynamischer Tricarboxyle erbringen.",
+    "en": "Spectrographic analyses of ice asteroids of this type have indicated the presence of trace condensates of chromodynamic tricarboxyls trapped in the frozen material. \r\n\r\nProcessing this ice material at an appropriate facility should yield usable quantities of chromodynamic tricarboxyls.",
+    "es": "Los análisis espectrográficos de los asteroides de hielo de este tipo indican la presencia de rastros de condensados de tricarboxílico cromodinámico atrapados en el material helado.\n\nProcesar este material de hielo en una instalación apropiada debería proporcionar cantidades útiles de tricarboxílico cromodinámico.",
+    "fr": "Des analyses spectrographiques d'astéroïdes de glace de ce type ont révélé la présence de trace de condensats de tricarboxyles chromodynamiques, piégés dans le matériau gelé. Le traitement de ce matériau gelé dans une installation adéquate devrait produire des quantités exploitables de tricarboxyles chromodynamiques.",
+    "ja": "このタイプのアイスアステロイドの分光分析では、凍結物質中にクロモダイナミック・トライカーボクシルの凝縮物が微量に存在することが示されている。\r\n\nアイス資源を適切な設備で処理することで、有効量のクロモダイナミック・トライカーボクシルを生産できるだろう。",
+    "ko": "해당 아이스 소행성의 스펙트럼 분석 결과에 따르면 얼어붙은 물질 내에 양자색역 트리카르복실 농축물이 존재하고 있습니다. <br><br>시설에서 정제할 경우, 쓸만한 양의 양자색역 트리카르복실을 얻을 수 있습니다.",
+    "ru": "Спектрографический анализ астероидов данного типа выявил незначительное содержание хромодинамических трикарбоксилов в составе этой застывшей материи. Переработка этого льда на соответствующем промышленном объекте позволит получить достаточное для использования количество хромодинамических трикарбоксилов.",
+    "zh": "对这种冰体小行星的光谱分析显示其中含有微量的色动力学三羧基冷凝物。 \n\n\n\n在合适的设施中对这些冰体材料进行提炼可以产出不定量的色动力学三羧基。"
+  },
+  "graphicID": 20525,
+  "groupID": 2022,
+  "iconID": 2554,
+  "mass": 1e+35,
+  "metaGroupID": 19,
   "name": {
     "de": "Hiemal Tricarboxyl Condensate",
     "en": "Hiemal Tricarboxyl Condensate",
@@ -10,5 +25,8 @@
     "ru": "Hiemal Tricarboxyl Condensate",
     "zh": "冰冷三羧基冷凝物"
   },
+  "portionSize": 100,
+  "published": true,
+  "sofFactionName": "blue",
   "volume": 6.0
 }

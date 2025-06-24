@@ -1,5 +1,18 @@
 {
-  "typeID": 9960,
+  "capacity": 1750.0,
+  "description": {
+    "de": "Dies ist ein Sicherheitsschiff der Imperial Navy. Es patrouilliert in diesem Sektor und wird auf jegliche Zeichen von Kampf reagieren. Es kann - falls nötig - Verstärkung aus nahe gelegenen Sektoren anfordern. Bedrohungsstufe: Tödlich",
+    "en": "This is a security vessel of the Imperial Navy. It is patrolling this sector and will respond to any combat it detects. It can call in reinforcements from nearby sectors if the need arises. Threat level: Deadly",
+    "es": "Nave de seguridad de la Armada Imperial que patrulla por este sector y responderá a cualquier combate que detecte. Puede pedir refuerzos de los sectores cercanos si es necesario. Nivel de amenaza: letal.",
+    "fr": "Il s'agit d'un vaisseau de sécurité de la Navy impériale. Il est en patrouille dans ce secteur et interviendra dans tout combat qu'il pourra détecter. Au besoin, il peut appeler des renforts des secteurs voisins. Niveau de menace : mortel",
+    "ja": "帝国海軍のセキュリティ艦。管轄区域をパトロールし、戦闘行為を探知すると現場へ急行する。緊急時には近隣区域からの援軍を要請することも可能。危険度：致命的",
+    "ko": "아마르 제국 해군의 경비함입니다. 지역을 순찰 중이며 교전 발견 시 즉각 개입합니다. 유사시 근처 지역에서 증원군을 요청합니다. 위험도: 치명적",
+    "ru": "Это корабль сил безопасности Имперского флота. Он патрулирует этот сектор и открывает ответный огонь по любой вражеской цели. В случае необходимости может вызвать подкрепление из ближайших секторов. Смертельно опасен.",
+    "zh": "这是一艘帝国海军的安全船只。它正在巡逻此区域，并且会对攻击作出反应。如有必要，它还会召唤邻近地区的友军来支援。威胁等级：致命的"
+  },
+  "graphicID": 1731,
+  "groupID": 182,
+  "mass": 11800000.0,
   "name": {
     "de": "Amarr Surveillance Sergeant Major",
     "en": "Amarr Surveillance Sergeant Major",
@@ -10,5 +23,11 @@
     "ru": "Amarr Surveillance Sergeant Major",
     "zh": "艾玛监察 军校"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 134.43,
+  "sofFactionName": "amarrnavy",
+  "soundID": 30,
   "volume": 118000.0
 }

@@ -1,5 +1,19 @@
 {
-  "typeID": 56507,
+  "capacity": 480.0,
+  "description": {
+    "de": "Unabhängige Raubdrohnenschwärme wurden im Triglavia-Weltraum entdeckt. Sie zeigen weder Angst noch Gunst gegenüber dem Triglavia-Kollektiv, EDENCOM oder anderen Parteien, denen sie begegnen. Diese Raubdrohnenschwärme enthalten eine große Anzahl fortschrittlicher Arten, einschließlich der sogenannten „Overmind“-Klasse der Raubdrohnen. Overmind Destructors sind mächtige und aggressive Kampfdrohnen mit hoher Intelligenz. Die Destructors an sich sind tödlich und werden normalerweise von vielen untergeordneten Raubdrohnen begleitet.",
+    "en": "Independent rogue drone swarms have been detected in Triglavian space, showing no fear or favor to the Triglavian Collective, EDENCOM or any other parties they encounter. These rogue drone swarms include a large number of advanced types and even include the so-called \"Overmind\" classes of rogue drones.\r\n\r\nOvermind Destructors are powerful and aggressive combat drones of very high intelligence. Deadly in their own right, the Destructor types will typically be accompanied by many subordinate rogue drones.",
+    "es": "Se han detectado enjambres de drones rebeldes independientes en espacio triglaviano. No muestran temor ni interés por el Colectivo Triglaviano, EDENCOM ni cualquier otro grupo que encuentren. Entre ellos, hay una gran variedad de modelos avanzados, incluidos los llamados «Overminds».\n\n\n\nLos Overminds destructores son potentes drones de combate, agresivos y muy inteligentes. Estos modelos, que ya de por sí son letales, suelen ir acompañados de un gran número de drones rebeldes subordinados.",
+    "fr": "Des essaims de drones renégats indépendants ont été repérés dans l'espace triglavian, se montrant sans crainte ni respect pour le Collectif Triglavian, EDENCOM ou n'importe quel parti qu'ils rencontrent. Un grand nombre de types avancés sont présents dans ces essaims de drones renégats, ainsi que les fameux drones renégats de classe « Suresprit ». Les Destructors Suresprit sont des drones de combat puissants, belliqueux et dotés d'une très grande intelligence. Déjà mortels seuls, les drones de type Destructor sont généralement accompagnés de plusieurs drones renégats subalternes.",
+    "ja": "トリグラビアン宙域で発見された独立型のローグドローンスウォームは、トリグラビアンコレクティブやEDENCOM、その他接触したいかなる勢力に対しても中立の姿勢を取っている。このローグドローンには大量の高性能タイプが存在しており、その中にはいわゆる『オーバーマインド』級のローグドローンも含まれている。\r\n\nオーバーマインド・デストラクターは、非常に高い知性を持つ強力かつ攻撃的な戦闘用ドローンだ。デストラクター自体危険だが、通常このタイプは多くの下位ローグドローンを従えている。",
+    "ko": "트리글라비안 우주에서 로그 드론 무리가 관측되고 있습니다. 해당 무리는 트리글라비안과 EDENCOM을 비롯한 기타 세력과 적대적인 관계를 유지하고 있으며, 상급 드론과 \"오버마인드\"로 구성되어 있습니다.<br><br>오버마인드 디스트럭터는 첨단 인공지능이 탑재된 컴뱃 드론으로 막강한 전투력을 자랑합니다. 단독 전투에도 강점을 지니고 있으나 호위 부대와 함께 행동하는 경우가 일반적입니다.",
+    "ru": "В пространстве Триглава обнаружены независимые рои восставших дронов. Признаков страха или благосклонности к Триглаву, ЭДЕНКОМу или какой-либо другой стороне они не проявляют. В составе этих роев замечено большое количество продвинутых единиц, в том числе так называемые «Сверхразумы». Сверхразумы-разрушители — это крайне мощные и агрессивные боевые дроны, обладающие очень высоким интеллектом. Невероятно опасные сами по себе, Разрушители как правило действуют в сопровождении большого числа подчинённых восставших дронов.",
+    "zh": "拥有自主意识的自由无人机集群出现在了三神裔领地中，它们对三神裔、伊甸联合防御阵线和任何遇到的其他势力都表现得既不接近，也不畏惧。这些自由无人机集群中有大量的高级型号，甚至包括了被称为“主宰”的一类。\n\n\n\n主宰 摧毁者是一种强大而富有攻击性的战斗无人机，具有极高智能。摧毁者常常由许多自由无人机护航出行，非常具有威胁。"
+  },
+  "factionID": 500025,
+  "graphicID": 1221,
+  "groupID": 4037,
+  "mass": 100000.0,
   "name": {
     "de": "Overmind Destructor Epsilon",
     "en": "Overmind Destructor Epsilon",
@@ -10,5 +24,11 @@
     "ru": "Overmind Destructor Epsilon",
     "zh": "主宰 摧毁者伊普西隆"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 134,
+  "radius": 150.0,
+  "sofFactionName": "roguebase",
+  "soundID": 11,
   "volume": 60.0
 }

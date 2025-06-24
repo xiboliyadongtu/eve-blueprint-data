@@ -1,5 +1,19 @@
 {
-  "typeID": 85730,
+  "basePrice": 15000000.0,
+  "description": {
+    "de": "Eine wiederhergestellte digitale Aufnahme. Sie war Teil des Gemeinschaftsarchivs eines Entdeckers, das vor Jahren mit lokalen Computersystemen verbunden war, bevor es durch einen automatisierten Reinigungsprozess gelöscht wurde. Spuren der gelöschten Dateien verbleiben weiterhin im Datenmüll dieses Systems, sodass der Computer Ihres Schiffes diese Aufnahme wieder zusammensetzen kann.",
+    "en": "A recovered dictated recording.\r\n\r\nIt was part of an explorer’s shared archive that connected to local computer systems years ago before being deleted by an automated clean-up process. Traces of the deleted files still remain in this system's garbage data, allowing your ship’s computer to reassemble this recording.",
+    "es": "Una grabación dictada recuperada.\r\n\r\nFormaba parte del archivo compartido de un explorador que se conectó a los sistemas informáticos locales hace años antes de ser eliminado por un proceso de limpieza automático. Aún quedan rastros de los archivos eliminados en los datos basura de este sistema, lo que permite que el ordenador de tu nave vuelva a ensamblar esta grabación.",
+    "fr": "Un enregistrement dicté récupéré. Il faisait partie de l'archive partagée d'un explorateur, connectée aux systèmes informatiques locaux il y a des années avant d'être effacée par un processus de nettoyage automatisé. Des traces des fichiers supprimés subsistent encore dans les données résiduelles de ce système, permettant à l'ordinateur de votre vaisseau de reconstituer cet enregistrement.",
+    "ja": "回収された口述記録。\r\n\r\n自動クリーンアップ処理で削除される数年前にローカルコンピューターシステムに接続された、ある探検家の共有アーカイブの断片。システムのジャンクデータではあるが、削除されたデータの手がかりが含まれており、艦船のコンピューターを使って録音を再構築できる。",
+    "ko": "회수한 음성 기록입니다.\r\n\r\n탐험가의 탐사 기록으로 지역 컴퓨터 시스템에 업데이트 되었습니다. 그러나 몇 년 전 자동 삭제 기능으로 일부분이 삭제되었습니다. 삭제된 음성은 아직 시스템에 데이터로 남아 있는 것 같습니다. 함선의 컴퓨터를 이용해 복원할 수 있을 것입니다.",
+    "ru": "Аудиозапись из архива одного исследователя, много лет назад сохранённая в локальных системах и впоследствии удалённая в процессе автоматической очистки. Полное форматирование не было проведено, поэтому бортовому компьютеру вашего корабля удалось восстановить этот файл.",
+    "zh": "一份恢复的口述录音。原本是某位探险家在几年前与本地计算机系统连接的部分共享档案内容，后来被自动清理程序删除了。本系统的垃圾数据中还有已删除文件的残留内容，你可以使用舰船上的计算机重组此录音。"
+  },
+  "groupID": 314,
+  "iconID": 2038,
+  "marketGroupID": 1661,
+  "mass": 1.0,
   "name": {
     "de": "YC117.11.06 - dictated record",
     "en": "YC117.11.06 - dictated record",
@@ -10,5 +24,7 @@
     "ru": "YC117.11.06 - dictated record",
     "zh": "YC117.11.06 - 口述录音"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

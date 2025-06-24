@@ -1,5 +1,19 @@
 {
-  "typeID": 15176,
+  "description": {
+    "de": "Diese Beschichtung ermöglicht eine schnellere Wärmeabfuhr im Wirkungsbereich. Gewährt einen Bonus auf die Panzerungsresistenz gegen Thermalschaden. Abzug: Beim Einsatz mehrerer Module des gleichen oder eines ähnlichen Typs, welche dasselbe Attribut beeinflussen, wird deren Wirksamkeit für dieses Attribut eingeschränkt.",
+    "en": "This coating allows for faster dispersion of heat from the area of impact. Grants a bonus to armor thermal damage resistance.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",
+    "es": "Este recubrimiento permite una propagación de calor más rápida desde el área de impacto. Otorga una bonificación a la resistencia del blindaje a daños térmicos.\n\n\n\nPenalización: Por usar más de un tipo de módulo o módulos similares que afecten al mismo atributo de la nave.",
+    "fr": "Cette surcouche permet de dissiper plus rapidement la chaleur de la zone d'impact. Offre un bonus à la résistance du blindage aux dégâts thermiques. Pénalité : utiliser plus d'un module de ce type ou plusieurs modules modifiant un même attribut du vaisseau fera l'objet d'une pénalité.",
+    "ja": "このコーティングは、被弾箇所からの熱の発散を早める効果がある。アーマーのサーマルダメージ耐性にボーナスを付与する。\r\n\nペナルティ： 船の同じ属性に関係する同タイプ、もしくは類似のモジュールを複数取り付けると、モジュールの効果が低下する。",
+    "ko": "타격 지점에 발생하는 열 에너지를 분산시킴으로써 장갑의 열 저항력을 증가시킵니다. <br><br>페널티: 동일한 속성의 모듈 여러 개를 장착할 경우 페널티가 부여됩니다.",
+    "ru": "Это покрытие улучшает распределение тепла и способствует его быстрому отведению из области попадания. Даёт бонус к сопротивляемости брони термальному урону. Внимание! Установка на борт корабля двух и более модулей, влияющих на одну и ту же характеристику, приведёт к снижению эффективности их действия в отношении данной характеристики.",
+    "zh": "这种涂层可以提高受影响部位的热能发散。提高装甲的热能抗性。\n\n\n\n惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。"
+  },
+  "groupID": 98,
+  "iconID": 20958,
+  "marketGroupID": 1665,
+  "mass": 1.0,
+  "metaGroupID": 5,
   "name": {
     "de": "Setele's Modified Thermal Coating",
     "en": "Setele's Modified Thermal Coating",
@@ -10,5 +24,9 @@
     "ru": "Setele's Modified Thermal Coating",
     "zh": "塞特勒氏改良型热能涂层"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 10.0,
+  "variationParentTypeID": 1294,
   "volume": 5.0
 }

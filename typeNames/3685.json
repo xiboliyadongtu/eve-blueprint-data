@@ -1,5 +1,19 @@
 {
-  "typeID": 3685,
+  "basePrice": 500.0,
+  "description": {
+    "de": "Die Verwendung von Wasserstoffbatterien hat sich als internationaler Standard zur industriellen wie auch allgemeinen Energiegewinnung etabliert. Sie sind besonders in weiter entfernten Lebensräumen wie Raumstationen eine sehr verbreitete Energiequelle.",
+    "en": "The use of hydrogen batteries has become an international standard both in industry and in the public domain; they are a particularly common power supply in off-world habitats such as space stations.",
+    "es": "El uso de baterías de hidrógeno se ha convertido en una norma internacional tanto en industria como en el sector público. Son una fuente de potencia especialmente común en los hábitats del mundo exterior, como las estaciones espaciales.",
+    "fr": "L'utilisation des batteries à hydrogène aussi bien dans le domaine industriel que public est devenue une norme internationale, puisqu'il s'agit d'une réserve d'alimentation particulièrement répandue dans les habitations de l'espace telles que les stations.",
+    "ja": "産業部門でも民生部門でも、水素電池を使用することが国際的な標準になっている。宇宙ステーションなどの遠く離れた場所では、特に広く利用されている。",
+    "ko": "수소 전력장치는 산업 및 공공 부문에 있어 국제 표준으로 사용되고 있습니다. 우주 정거장과 같이 거주 행성에서 벗어난 지역에서 보편적인 동력 공급 장치로 흔히 이용됩니다.",
+    "ru": "Водородные батареи стали стандартным источником энергии как в промышленности, так и в быту; особенно часто они используются в отдаленных поселениях, к примеру, на космических станциях.",
+    "zh": "氢电池已经变成了工业和民用领域中的国际标准，这在空间站这样的远离地面的人类生活区是非常常见的。"
+  },
+  "groupID": 280,
+  "iconID": 1184,
+  "marketGroupID": 20,
+  "mass": 1500.0,
   "name": {
     "de": "Hydrogen Batteries",
     "en": "Hydrogen Batteries",
@@ -10,5 +24,7 @@
     "ru": "Hydrogen Batteries",
     "zh": "氢电池"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

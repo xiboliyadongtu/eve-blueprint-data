@@ -1,5 +1,19 @@
 {
-  "typeID": 28868,
+  "basePrice": 100.0,
+  "description": {
+    "de": "Dieser kleine, versiegelte Container wurde mit neuster Sicherheitstechnik versehen, um einen Schiff-zu-Schiff-Scan des Inhalts zu verhindern.",
+    "en": "This small sealed container has been modified with state-of-the-art security measures to prevent ship-to-ship scanning of its contents.",
+    "es": "Este pequeño contenedor sellado se ha modificado con medidas de seguridad de última generación para evitar el escaneo de su contenido de nave a nave.",
+    "fr": "Petit conteneur scellé équipé de systèmes de sécurité dernier cri empêchant la détection de son contenu.",
+    "ja": "この小型の密封コンテナは、その中身が船から船にスキャンされるのを防ぐために、最先端のセキュリティ手段で改造されている。",
+    "ko": "최첨단 보안 장치가 설치된 컨테이너로 안에 든 내용물을 탐지할 수 없습니다.",
+    "ru": "Этот небольшой запертый контейнер оборудован исключительно современной системой безопасности, которая не позволяет просканировать его содержимое.",
+    "zh": "这个小型密封集装箱采取了尖端安全措施，可以防止其他船只扫描箱内物品。"
+  },
+  "graphicID": 2090,
+  "groupID": 314,
+  "iconID": 1171,
+  "mass": 75.0,
   "name": {
     "de": "Small Warded Container",
     "en": "Small Warded Container",
@@ -10,5 +24,8 @@
     "ru": "Small Warded Container",
     "zh": "小型安全货柜"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "genericmetal",
   "volume": 5.0
 }

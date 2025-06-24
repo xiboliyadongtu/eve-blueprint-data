@@ -1,5 +1,18 @@
 {
-  "typeID": 77889,
+  "capacity": 27500.0,
+  "description": {
+    "de": "Die Überreste eines Transporters, der beim Versuch zu entkommen zerstört wurde.",
+    "en": "The remains of a hauler destroyed as it tried to escape.",
+    "es": "Los restos de una nave de mercancías destruida al intentar escapar.",
+    "fr": "Les restes d'un cargo détruit alors qu'il essayait de s'échapper.",
+    "ja": "脱出を試みている最中に撃沈されたハウラーの残骸。",
+    "ko": "탈출 시도 중 파괴된 운반선의 잔해입니다.",
+    "ru": "Обломки перевозчика, уничтоженного при попытке побега.",
+    "zh": "一艘在逃亡时被摧毁的运载舰的残骸。"
+  },
+  "graphicID": 3116,
+  "groupID": 186,
+  "mass": 10000.0,
   "name": {
     "de": "Escaping Hauler Wreck",
     "en": "Escaping Hauler Wreck",
@@ -10,5 +23,9 @@
     "ru": "Escaping Hauler Wreck",
     "zh": "逃亡运载舰残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 4000.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

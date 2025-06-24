@@ -1,5 +1,18 @@
 {
-  "typeID": 50177,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Der Triglavia-ECM-Feldeffekt-Untermast bildet ein mächtiges Zielstörungsfeld um sich herum und ist Teil des Defensivnetzwerks einer eindringenden World Ark.",
+    "en": "The Triglavian ECM Field Effect Subpylon emits a powerful target-jamming field around it and functions as part of an invading World Ark's defensive network.",
+    "es": "El subpilón de campo de ECM triglaviano emite un potente campo perturbador de objetivos a su alrededor y funciona como parte del sistema defensivo de un Arca Planetaria invasora.",
+    "fr": "L'effet de champ Subpylon de CME triglavian émet un puissant champ de brouillage de cible autour de lui et fonctionne comme partie intégrante du réseau défensif de l'Arche du monde.",
+    "ja": "トリグラビアンECMフィールド効果サブパイロンは、周囲に強力なターゲット・ジャミングを放出し、侵略的なワールドアークの防御ネットワークの一部として機能します。",
+    "ko": "트리글라비안 ECM 필드 서브파일론은 강력한 타겟 재밍 영역을 생성합니다. 이를 이용하여 월드 아크의 방어 체계를 무너뜨릴 수 있습니다.",
+    "ru": "Малый пилон эффекта поля МЭП Триглава излучает мощное поле, создающее помехи целям, и действует как часть оборонительной сети «Всемирного ковчега».",
+    "zh": "三神裔ECM力场效果发射子塔会在其周围放射出强大的锁定干扰力场，是入侵的世界方舟的防御体系中的一环。"
+  },
+  "graphicID": 24413,
+  "groupID": 4073,
+  "mass": 1000.0,
   "name": {
     "de": "ECM Field Effect Subpylon",
     "en": "ECM Field Effect Subpylon",
@@ -10,5 +23,9 @@
     "ru": "ECM Field Effect Subpylon",
     "zh": "ECM力场效果发射子塔"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 371.0,
+  "sofFactionName": "triglavianbase",
   "volume": 1000.0
 }

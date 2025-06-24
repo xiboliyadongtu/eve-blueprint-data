@@ -1,5 +1,17 @@
 {
-  "typeID": 22030,
+  "description": {
+    "de": "Ein Bruchstück eines ComLink-Scanners. Es ist unbrauchbar und zu stark beschädigt, um repariert zu werden.",
+    "en": "A small fragment of a ComLink Scanner. It is unusable and too badly damaged to be really discernable.",
+    "es": "Un pequeño fragmento de un escáner de ComLink. Es inservible y está demasiado dañado como para poder sacar nada de él.",
+    "fr": "Petit fragment d'un scanner ComLink. Il est inutilisable et trop endommagé pour être reconnaissable.",
+    "ja": "通信リンクスキャナーの断片。実際に使用はできず、損傷が激しいため識別も不可能。",
+    "ko": "COM링크 스캐너의 일부입니다. 알아보기 힘들 정도로 파괴되어 사용 불가능합니다.",
+    "ru": "Небольшой обломок системного сканера ComLink слишком сильно поврежден и непригоден к использованию.",
+    "zh": "一块信道扫描器的碎片。它已无法使用，实际上，由于破损严重，根本辨认不出它是信道扫描器的一部分。"
+  },
+  "groupID": 526,
+  "iconID": 1364,
+  "mass": 2500.0,
   "name": {
     "de": "Destroyed ComLink Scanner",
     "en": "Destroyed ComLink Scanner",
@@ -10,5 +22,7 @@
     "ru": "Destroyed ComLink Scanner",
     "zh": "损毁的信道扫描器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 2.0
 }

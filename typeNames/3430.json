@@ -1,5 +1,18 @@
 {
-  "typeID": 3430,
+  "basePrice": 500000.0,
+  "description": {
+    "de": "Fertigkeit zur gleichzeitigen Aufschaltung mehrerer Ziele.\r\n\r\nEin zusätzliches Ziel je Skillstufe (bis zu der für dieses Schiff maximal erlaubten Anzahl gleichzeitig aufgeschalteter Ziele).",
+    "en": "Skill at targeting multiple targets. +1 extra target per skill level, up to the ship's maximum allowed number of targets locked.",
+    "es": "Habilidad para la adquisición de objetivos múltiples. 1 objetivo adicional más por cada nivel de habilidad, hasta el número máximo permitido y fijado por la nave.",
+    "fr": "Compétence liée au ciblage de plusieurs cibles. Ajoute une cible supplémentaire par niveau de compétence, jusqu'au nombre maximum de cibles verrouillées autorisé par le vaisseau.",
+    "ja": "同時に複数のターゲットを狙うスキル。スキルレベル上昇ごとにターゲット数が 1 増加。ただし船がロックオン可能な最大ターゲット数が上限。",
+    "ko": "다중 타겟팅을 위한 스킬입니다. 매 레벨마다 최대 타겟 숫자 +1",
+    "ru": "Навык захвата нескольких целей одновременно. За каждую степень освоения навыка: на 1 цель увеличивается количество захватываемых целей (не более максимально допустимого типом корабля количества захватываемых целей).",
+    "zh": "同时锁定多个目标的技能。每升一级，增加一个锁定目标，直到飞船最大可锁定的目标数量。"
+  },
+  "groupID": 1213,
+  "iconID": 33,
+  "marketGroupID": 1748,
   "name": {
     "de": "Advanced Target Management",
     "en": "Advanced Target Management",
@@ -10,5 +23,7 @@
     "ru": "Спецкурс одновременного ведения целей",
     "zh": "高级目标锁定训练"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

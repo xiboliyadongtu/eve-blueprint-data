@@ -1,5 +1,19 @@
 {
-  "typeID": 10222,
+  "basePrice": 800000.0,
+  "description": {
+    "de": "Wenn man diesen Subprozessor in den Frontallappen einpflanzt bewirkt er einen Bonus auf die Intelligenz des Charakters.\n\n\n\n+5 Bonus auf Intelligenz",
+    "en": "This grafted subprocessor implanted in the frontal lobe grants a bonus to a character's Intelligence.\r\n\r\n+5 Bonus to Intelligence",
+    "es": "Este subprocesador injertado que se implanta en el lóbulo frontal otorga una bonificación a la inteligencia del personaje.\n\n\n\n+5 de bonificación a la inteligencia.",
+    "fr": "Ce sous-processeur greffé implanté dans le lobe frontal améliore l'intelligence d'un personnage.\n\nBonus d'intelligence : + 5",
+    "ja": "前頭葉に埋め込むサブプロセッサー。キャラクターの知性を増強する効果がある。知性+5のボーナス",
+    "ko": "보조처리장치를 전두엽에 삽입함으로써 추가 지능을 획득합니다.<br><br>지능 +5",
+    "ru": "Модуль для когнитивных вычислений, вживляемый в лобную долю головного мозга пилота.\n\nВживление имплантата приводит к росту характеристики «Интеллект» на 5 единиц.",
+    "zh": "植入在额叶的子处理器，能增加人物的智力属性值。智力+5"
+  },
+  "groupID": 745,
+  "iconID": 2062,
+  "marketGroupID": 621,
+  "metaGroupID": 1,
   "name": {
     "de": "Cybernetic Subprocessor - Improved",
     "en": "Cybernetic Subprocessor - Improved",
@@ -10,5 +24,8 @@
     "ru": "Cybernetic Subprocessor - Improved",
     "zh": "脑控次处理器—强化级"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 9943,
   "volume": 1.0
 }

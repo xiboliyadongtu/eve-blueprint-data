@@ -1,5 +1,18 @@
 {
-  "typeID": 77624,
+  "capacity": 235.0,
+  "description": {
+    "de": "Ein Corax-Zerstörer, der über ECM-Fähigkeiten verfügt, eingehende Angriffe zu stören und alle elektronischen Aufzeichnungen über seine Anwesenheit zu verfälschen. Aufgrund seiner generischen Markierungen lässt sich unmöglich bestimmen, für welche der acht Megacorporations die Operatoren an Bord arbeiten.",
+    "en": "A Corax destroyer fitted with ECM capabilities to disrupt incoming attacks and confuse any electronic records of their presence.\r\n\r\nConstructed with generic markings there is no way to determine which of the eight megacorporations the operatives aboard are working for.",
+    "es": "Un destructor Corax equipado con capacidades ECM para interrumpir los ataques entrantes y confundir cualquier registro electrónico de su presencia.    Construida con marcas genéricas, no hay forma de determinar para cuál de las ocho megacorporaciones trabajan los operativos a bordo.",
+    "fr": "Un destroyer Corax doté de capacités CME afin de perturber les attaques le prenant pour cible et de brouiller tout signal électronique trahissant sa présence. Ses marqueurs sont génériques, il est donc impossible de déterminer pour laquelle des huit mégacorporations les opérateurs à bord travaillent.",
+    "ja": "攻撃を妨害し、あらゆる電子的機器が自身を認識できないようにするECM能力を持つコラックス級駆逐艦。    あたりさわりのないパーツ構成で、搭乗している工作員がどの8大メガコーポレーションに所属しているか判別できないようにになっている。",
+    "ko": "ECM을 운용해 적의 공격을 교란하고 추적을 뿌리칠 수 있는 코락스 디스트로이어입니다.<br><br>범용적인 방식으로 건조된 탓에 8대 기업 중 어느 기업에 소속된 요원이 탑승하고 있는지 파악할 수 없습니다.",
+    "ru": "Этот эсминец типа Corax оснащён модулями для применения МЭП, которые не только мешают врагам эффективно вести огонь, но и сбивают с толку электронику, не давая определить точное местоположение корабля. По его маркировке невозможно определить, на какую из восьми мегакорпораций работает экипаж этого судна.",
+    "zh": "一艘渡鸦级驱逐舰，具备ECM能力，能够干扰外来的攻击，并扰乱任何有关其位置的电子记录。舰船印有通用标记，因此无法确定船上的特工具体在为八大集团中的哪一家效力。"
+  },
+  "graphicID": 20200,
+  "groupID": 4570,
+  "mass": 1700000.0,
   "name": {
     "de": "Falsifier Corax",
     "en": "Falsifier Corax",
@@ -10,5 +23,11 @@
     "ru": "Falsifier Corax",
     "zh": "伪造者渡鸦级"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 150.0,
+  "sofFactionName": "caldaribase",
+  "soundID": 20070,
   "volume": 28600.0
 }

@@ -1,5 +1,16 @@
 {
-  "typeID": 29161,
+  "description": {
+    "de": "Ein kleines, zerknittertes Wirrwarr aus Metallstreben und Elektronikfragmenten ist alles, was von dieser Fregatte übrig geblieben ist.",
+    "en": "A small crumpled tangle of structural beams and fragments of electronics is all that remains of this frigate",
+    "es": "Lo único que queda de esta fragata es una pequeña maraña de vigas estructurales y fragmentos de componentes electrónicos.",
+    "fr": "De cette frégate, il ne reste guère plus que quelques rayons enchevêtrés et autres fragments de pièces électroniques.",
+    "ja": "このフリゲートの中で残っているのは、折れ曲がったストラクチャの梁と砕け散った電子装置だけだ。",
+    "ko": "프리깃의 형체는 더는 없으며 우그러진 작은 선체 파편들과 전자장비의 조각만이 남았습니다.",
+    "ru": "Сплетение согнутых балок и обломки электроники — вот все, что осталось от этого фрегата",
+    "zh": "这艘护卫舰就剩下一坨扭曲纠缠在一起的钢架、残片以及各种电子垃圾了。"
+  },
+  "graphicID": 3117,
+  "groupID": 226,
   "name": {
     "de": "Wrecked Frigate",
     "en": "Wrecked Frigate",
@@ -10,5 +21,9 @@
     "ru": "Wrecked Frigate",
     "zh": "损毁的护卫舰"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 14.0,
+  "sofFactionName": "genericbase"
 }

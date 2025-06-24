@@ -1,5 +1,21 @@
 {
-  "typeID": 12807,
+  "basePrice": 1500000.0,
+  "description": {
+    "de": "Die Spitzmunition wurde dafür entworfen, um auf große Distanz an Zielen enormen Schaden zu verursachen. Sie besteht aus einem hochverdichteten Plutonium-Treibkäfig, der auf einer kleinen Raketeneinheit montiert ist, die die Einschlagsgeschwindigkeit des Geschosses erheblich steigert. Auf kurze Distanz ist die Ladung hingegen so gut wie wirkungslos. 80 % höhere optimale Reichweite. 75 % geringere Nachführungsgeschwindigkeit. Hinweis: Diese Munition kann nur von großen Technologiestufe II-, Fraktions- und Offiziers-Railguns verwendet werden.",
+    "en": "The Spike munition package is designed to deliver huge damage to targets at extreme distances. It consists of a superdense plutonium sabot mounted on a small rocket unit that provides a substantial boost to the sabots impact velocity. However, the charge is next to useless at close range.\r\n\r\n80% increased optimal range.\r\n75% reduced tracking speed.\r\n\r\nNote: This ammunition can only be used by large tech level II, faction and officer Railguns.",
+    "es": "El paquete de munición Spike está diseñado para causar grandes daños a los objetivos a distancias extremas. Consiste en un perforante de plutonio superdenso montado en una pequeña unidad de cohete que proporciona un impulso sustancial a la velocidad de impacto. Sin embargo, la carga es prácticamente inútil a poca distancia.\n\nAlcance óptimo aumentado un 80 %.\n\n75 % de reducción a la velocidad de rastreo.\n\nAviso: Esta munición solo es compatible con cañones electromagnéticos T2, faccionarios y oficiales para naves grandes.",
+    "fr": "Le pack de munitions Pieux est conçu pour causer d'énormes dégâts sur des cibles extrêmement éloignées. Il s'agit d'un sabot de plutonium très dense monté sur une petite roquette qui accroît sensiblement la vitesse d'impact du sabot. La charge est cependant presque inutile à courte portée. Portée optimale augmentée de 80 %. Vitesse de poursuite réduite de 75 %. Remarque : ces munitions ne peuvent s'utiliser qu'avec les grands canons à rail d'officier, de faction et de niveau technologique II.",
+    "ja": "スパイク弾パッケージは、超遠距離のターゲットに対して高い攻撃力を発揮するように設計されている。小型のロケットユニットに超高密度プルトニウムサボット弾が搭載されており、このロケットによってサボット弾の命中時速度は極めて高いものとなっている。ただし、近距離においてはほとんど役に立たない。\n\n\n\n最適射程距離が80％延長。\n\nトラッキング速度が75%減少。\n\n\n\n注：この弾は大型T2、勢力、およびオフィサーレールガン専用である。",
+    "ko": "초장거리 교전 시 대형 함선을 대상으로 막대한 피해를 입히는 탄약입니다. 고농도 플루토늄 사봇을 소형 로켓추진기에 탑재함으로써 타격 시 사봇이 가속도를 획득합니다. 그러나 근거리 교전 시 위력이 대폭 감소합니다. <br><br>최적사거리 80% 증가 <br>트래킹 속도 75% 감소 <br><br>참고: 대형 테크 II, 팩션, 장교급 레일건에만 장착할 수 있습니다.",
+    "ru": "Боекомплект «Копьё» предназначен для нанесения огромного урона целям на предельных расстояниях. Он состоит из сверхплотного плутониевого снаряда с поддоном, прикреплённого к небольшому ракетному двигателю, обеспечивающему существенное ускорение при попадании. На близком расстоянии он, однако, почти бесполезен. Оптимальная дальность увеличена на 80%. Скорость наведения снижена на 75%. Примечание: эти боеприпасы могут использовать только корабли большого тоннажа второго техноуровня, государственные и офицерские рельсотроны.",
+    "zh": "“钉刺”型弹药套件可对超远距离目标造成巨大破坏。它是一种装载在小型火箭上的超浓缩锰萨博弹，小型火箭为其提供强大的撞击速度。然而这种弹药在近距离基本没用。\n\n\n\n最佳射程增加80%。\n\n跟踪速度降低75%。\n\n\n\n注：只能用于二级科技、势力和官员大型磁轨炮。"
+  },
+  "graphicID": 1329,
+  "groupID": 373,
+  "iconID": 1329,
+  "marketGroupID": 863,
+  "mass": 0.01,
+  "metaGroupID": 2,
   "name": {
     "de": "Spike L",
     "en": "Spike L",
@@ -10,5 +26,8 @@
     "ru": "Spike L",
     "zh": "钉刺 L"
   },
+  "portionSize": 5000,
+  "published": true,
+  "variationParentTypeID": 237,
   "volume": 0.025
 }

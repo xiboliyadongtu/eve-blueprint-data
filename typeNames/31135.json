@@ -1,5 +1,19 @@
 {
-  "typeID": 31135,
+  "description": {
+    "de": "Diese Schiffsmodifikation wurde entwickelt, um den Energiespeicherbedarf des Nachbrenners und Mikrowarpantriebs eines Schiffes zu reduzieren. Dies geschieht auf Kosten der Panzerungsleistung.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26254>Raumfahrtmodifikation</a> reduziert werden.",
+    "en": "This ship modification is designed to reduce the capacitor need of a ship's afterburner and microwarpdrive modules at the expense of armor amount.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26254>Astronautics Rigging</a> skill.",
+    "es": "Esta modificación de nave está diseñada para reducir la necesidad del condensador del posquemador y los módulos del motor de microwarp en detrimento de la efectividad del blindaje.\n\n\n\nSe pueden reducir las desventajas de equipar este complemento desarrollando la habilidad <a href=showinfo:26254>Complementos de astronáutica</a>.",
+    "fr": "Cette modification de vaisseau est conçue pour réduire les besoins énergétiques du capaciteur requis par les modules de post-combustion et de propulseur de microwarp, au détriment de son épaisseur de blindage.\n\n\n\nLes inconvénients du montage de cette plateforme pourraient être réduits en entraînant la compétence <a href=showinfo:26254>Optimisation astronautique</a>.",
+    "ja": "この改造を行うと、アーマー量と引き換えに艦船のアフターバーナーおよびマイクロワープドライブ・モジュールのキャパシタ消費量が減少する。このリグを装備することで発生するペナルティは、<a href=showinfo:26254>宇宙飛行リギング</a>スキルをトレーニングすることで低減できる。",
+    "ko": "리그 장착 시 애프터버너 또는 마이크로 워프 드라이브 모듈에 소모되는 캐패시터 사용량이 감소하는 반면 장갑 내구도도 감소합니다. <br><br>리그 부작용은 <a href=showinfo:26254>항법 리그</a> 스킬 습득 시 감소합니다.",
+    "ru": "Эта модификация предназначена для уменьшения потребления заряда накопителя генераторами дополнительной тяги и микроварп-ускорителями за счёт уменьшения запаса прочности брони.\n\n\n\nНегативный эффект от установки этого тюнинг-модуля можно снизить, освоив навык <a href=showinfo:26254>Astronautics Rigging</a>, дающий пилоту глубокое понимание принципов работы навигационных систем кораблей.",
+    "zh": "这个飞船改装件通过牺牲装甲值来减少飞船加力燃烧器和微型跃迁装备的电容需求。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26254>空间航行改装技术</a>技能降低影响。"
+  },
+  "groupID": 782,
+  "iconID": 3196,
+  "marketGroupID": 1210,
+  "mass": 200.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Small Dynamic Fuel Valve II",
     "en": "Small Dynamic Fuel Valve II",
@@ -10,5 +24,9 @@
     "ru": "Small Dynamic Fuel Valve II",
     "zh": "小型动态燃料控制阀 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 100.0,
+  "variationParentTypeID": 31129,
   "volume": 5.0
 }

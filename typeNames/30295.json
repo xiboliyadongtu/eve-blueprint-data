@@ -1,5 +1,18 @@
 {
-  "typeID": 30295,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Seit Jahrhunderten ist das Herz dieses Talocan-Außenpostens bereits verlassen und in einem bedauernswerten Zustand, doch die Kammern und Flure zeugen von einem einst umtriebigen Alltagsleben, wenn auch unter spartanischen Bedingungen. Fortgeschrittene Technologien treffen auf laienhafte Reparaturversuche und Flickschusterei. Teilweise ist die Technik veraltet und überaus simpel ausgelegt. Das weckt Erinnerungen an längst vergangene Kulturen und erscheint dennoch irgendwie vertraut.",
+    "en": "Centuries of emptiness have left this Talocan outpost's central hub in disarray, but the chambers and corridors inside portray a busy (if very spartan) existence. Advanced technology mingles with rustic repairs and patchwork assemblages. Some of the technology is ancient and very rudimentary in design, harkening back to cultures long gone, yet with hints of familiarity.",
+    "es": "Siglos de vacío han dejado hecho un desastre el nodo central de este puesto avanzado talocano, pero las dependencias y los pasillos del interior retratan una existencia ajetreada (aunque muy espartana). La tecnología avanzada se mezcla con reparaciones rústicas y ensamblajes a retazos. Parte de la tecnología es antigua y de diseño muy rudimentario, remontándose a culturas ya desaparecidas, aunque con toques de familiaridad.",
+    "fr": "Des siècles d'abandon ont laissé le noyau de cet avant-poste talocan en désordre, même si les chambres et les couloirs laissent supposer une existence riche (quoique sommaire). La technologie avancée vient ici se mêler aux réparations rustiques et autres assemblages chaotiques. Une partie des technologies utilisées est ancienne et très rudimentaire, faisant écho aux cultures disparues depuis longtemps, bien que quelque peu familières.",
+    "ja": "何世紀にもわたって無人だったためタロカンのアウトポストの中央部は雑然としているが、内部の小部屋と通路が活気がある（しかし質素な）雰囲気を作り出している。高度なテクノロジーが、日曜大工的な修理やつぎはぎをする質素さと融合している。その技術の一部は古く、非常に原始的な設計である。遠い昔に衰退した文明を思い出させるが、現在に通じるものも感じさせる。",
+    "ko": "수천년 간 비어 있던 탓인지 탈로칸 전초기지의 중앙부는 폐허가 되었습니다. 그러나 복도 및 거주 공간에서는 분주한 기색이 느껴집니다. 최첨단 장비 사이로 어설프게 이어 붙인 수리 흔적이 돋보입니다. 낡은 외관으로 보아 몇몇 장비는 사라진 고대 문명에서 비롯되었을 것으로 예상되며, 알게 모르게 익숙함이 느껴집니다.",
+    "ru": "Находясь без присмотра на протяжении веков, центральный узел Talocan пришел в запустение, однако камеры и коридоры внутри него заполнены разнообразным оборудованием. Высокотехнологичное оборудование носит следы грубого ремонта и импровизированных усовершенствований. Некоторые технологии выглядят весьма древними и очень рудиментарными по дизайну, напоминая о давно ушедших культурах, однако местами они кажутся очень знакомыми.",
+    "zh": "数百年的空寂让这座塔洛迦哨站的中央枢纽变得面目全非，只剩下内部的隔舱和廊道还保持着当年的原貌。锈蚀的修复段参杂着高级科技的痕迹，一些科技看上去十分的古老原始。它们讲述着故去文明的故事，但却又有莫名的亲近感。"
+  },
+  "graphicID": 3522,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Talocan Outpost Core",
     "en": "Talocan Outpost Core",
@@ -10,5 +23,9 @@
     "ru": "Talocan Outpost Core",
     "zh": "塔洛迦哨站核心"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 5794.0,
+  "sofFactionName": "talocanbase",
   "volume": 100000000.0
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 23880,
+  "description": {
+    "de": "Dieser Datenchip enthält eine Unmenge an Daten über eine Person, die dabei helfen sollen, deren Identität zu bestätigen. Dies ermöglicht, dass man ganz sicher weiß, dass die Person, von der man den Chip erhält, diejenige ist, für den sie sich ausgibt.",
+    "en": "This data chip contains massive ammounts of data about a person to help confirm their identity. Allowing safe knowlege that the person they recieve the Identity Chip from is who they say they are.",
+    "es": "Este chip de datos contiene una cantidad ingente de información sobre cierta persona que puede ayudar a confirmar su identidad. Suponiendo que quien lo entregó sea quien dice ser.",
+    "fr": "Cette puce de données contient une foule de données sur une personne confirmant son identité, en admettant que la personne qui transmet la puce en est bien le propriétaire.",
+    "ja": "所持者の身元を明らかにする、膨大なデータが格納されたチップ。自称と実際の身元が一致するかを確認できる。",
+    "ko": "해당 데이터 칩에는 막대한 양의 개인 정보가 담겨있으며 상대방의 신원을 확인할 때 주로 사용됩니다. ID 칩을 건네 준 사람의 신원을 손쉽게 확인할 수 있습니다.",
+    "ru": "Это микросхема, на которой содержится весь массив данных о личности с целью ее идентификации. Позволяет доподлинно определить личность человека независимо от того, что он о себе говорит.",
+    "zh": "这个数据芯片包含了大量的个人信息，用来确认身份。含有安全信息，使受到该芯片的人能够确认其提供者的身份是否属实。"
+  },
+  "groupID": 526,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Identity Data Chip",
     "en": "Identity Data Chip",
@@ -10,5 +22,7 @@
     "ru": "Identity Data Chip",
     "zh": "身份数据芯片"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 3352,
+  "basePrice": 500000.0,
+  "description": {
+    "de": "Fortgeschrittene Fertigkeit zur Verstärkung der Sensoren und elektronischen Kriegsführungssysteme verbündeter Schiffe. Erhört die Stärke der Effekte von Informationkommandostrahlen um 10 % pro Skillstufe.",
+    "en": "Advanced proficiency at boosting the sensors and electronic warfare systems of allied ships. Increases the strength of Information Command Burst effects by 10% per skill level.",
+    "es": "Habilidad avanzada para potenciar los sensores y los sistemas de guerra electrónica de las naves aliadas. Aumenta la intensidad de los efectos de estallido de mando de información un 10 % por nivel de habilidad.",
+    "fr": "Maîtrise avancée de la projection électronique dédiée à l'optimisation des détecteurs et des systèmes de guerre électronique des vaisseaux alliés. Augmente de 10 % par niveau la puissance des effets des salves de commandement électronique.",
+    "ja": "味方艦船のセンサーや電子戦システムの性能を向上させる高度な能力。スキルレベル上昇ごとに情報戦コマンドバーストの効果強度が10%増加。",
+    "ko": "아군 함선의 센서와 전자전 시스템 성능을 향상하기 위한 스킬입니다. 매 레벨마다 정보전 버스트 효과 10% 증가",
+    "ru": "Глубинные познания в области усиления систем РЭБ и сенсоров союзного флота За каждую степень освоения навыка: на 10% повышается эффективность действия импульсов, генерируемых импульсными оптимизаторами РЭБ.",
+    "zh": "精通于增强所有友方舰船的电子战系统感应器的高级技能。每升一级，信息战指挥脉冲波的效果强度提高10%。"
+  },
+  "groupID": 258,
+  "iconID": 33,
+  "marketGroupID": 370,
   "name": {
     "de": "Information Command Specialist",
     "en": "Information Command Specialist",
@@ -10,5 +23,7 @@
     "ru": "Спецкурс оптимизации мер РЭБ в флотах",
     "zh": "信息战指挥专业研究"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

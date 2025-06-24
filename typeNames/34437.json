@@ -1,5 +1,16 @@
 {
-  "typeID": 34437,
+  "description": {
+    "de": "Eine Wächterkanone im Sleeper-Design. Sie wurde derart umprogrammiert, dass sie feindliche Ziele als freundlich einstuft - und umgekehrt.",
+    "en": "A sentry gun of Sleeper design. Has been rewired to view hostile targets as friendly and vice versa.",
+    "es": "Torreta centinela de diseño sleeper, reprogramada para considerar los objetivos hostiles como amistosos y viceversa.",
+    "fr": "Un canon sentinelle de conception Sleeper, a été recâblé pour pouvoir afficher les cibles hostiles en tant qu'alliées, et vice versa.",
+    "ja": "スリーパーが設計したセントリーガン敵対勢力を味方に、味方を敵対勢力に認識するよう配線が入れ替えられている。",
+    "ko": "슬리퍼 설계 기반의 센트리 포탑입니다. 재설정을 통해 기존의 적을 아군으로 인식하고 반대로 아군을 적으로 인식합니다.",
+    "ru": "Орудийная установка проекта Спящих. Перепрограммирована, воспринимает враждебные цели как дружественные, и наоборот.",
+    "zh": "冬眠者设计的岗哨炮塔，重接了电路，现在视敌军为友军，视友军为敌军了。"
+  },
+  "graphicID": 3533,
+  "groupID": 383,
   "name": {
     "de": "Rewired Sentry Gun",
     "en": "Rewired Sentry Gun",
@@ -10,5 +21,9 @@
     "ru": "Rewired Sentry Gun",
     "zh": "重新接线的岗哨炮塔"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 45.0,
+  "sofFactionName": "sleeperbase"
 }

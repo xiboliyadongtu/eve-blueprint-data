@@ -1,5 +1,19 @@
 {
-  "typeID": 31372,
+  "description": {
+    "de": "Diese Schiffsmodifikation wurde dazu entwickelt, die Energiespeicherladerate eines Schiffes zu verbessern.",
+    "en": "This ship modification is designed to increase a ship's capacitor recharge rate.",
+    "es": "Esta modificación de nave está diseñada para aumentar la velocidad de carga del condensador de la nave.",
+    "fr": "Cette modification de vaisseau est conçue pour améliorer la vitesse de recharge du capaciteur d'un vaisseau.",
+    "ja": "船のキャパシタ充電速度を向上させる。",
+    "ko": "리그 장착 시 함선의 캐패시터 충전속도가 증가합니다.",
+    "ru": "Эта модификация увеличивает скорость подзарядки конденсатора корабля.",
+    "zh": "这个飞船改装件用于增加舰船电容器的回充速度。"
+  },
+  "groupID": 781,
+  "iconID": 3195,
+  "marketGroupID": 1223,
+  "mass": 200.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Medium Capacitor Control Circuit I",
     "en": "Medium Capacitor Control Circuit I",
@@ -10,5 +24,8 @@
     "ru": "Medium Capacitor Control Circuit I",
     "zh": "中型电容器控制电路 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 100.0,
   "volume": 10.0
 }

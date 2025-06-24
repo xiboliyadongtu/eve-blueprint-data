@@ -1,5 +1,18 @@
 {
-  "typeID": 81370,
+  "basePrice": 10000000.0,
+  "description": {
+    "de": "Grundlegender Skill im Speichern zusätzlicher Designs im SKINR-Studio. Erhöht die maximale Anzahl der gespeicherten Designs um 5 je Skillstufe.",
+    "en": "Basic skill in saving additional designs in the SKINR studio.\r\n\r\nIncreases the maximum number of saved designs by 5 per level.",
+    "es": "Habilidad básica para guardar diseños adicionales en el estudio de SKINR.\r\n\r\nAumenta el número máximo de diseños guardados en 5 adicionales por nivel.",
+    "fr": "Compétence de base pour sauvegarder des designs supplémentaires dans le studio SKINR. Augmente le nombre maximum de designs sauvegardés de 5 par niveau.",
+    "ja": "SKINRスタジオで保存可能なデザイン数を増やす基本スキル。\r\n\r\nレベルが上がるごとに、保存可能なデザインの最大数が5個増える。",
+    "ko": "SKINR 스튜디오의 스킨 저장 슬롯을 추가하는 기본 스킬입니다.<br><br>스킬 레벨에 따라 제작한 SKIN 저장 슬롯의 수가 증가합니다. 레벨 1당 +5",
+    "ru": "Базовый навык сохранения дополнительных шаблонов в редакторе «Окраски-С». Увеличивает максимальное количество сохранённых шаблонов на 5 за каждую степень освоения навыка.",
+    "zh": "初级技能，可将其他设计保存到SKINR工作室中。每提升一级，已保存设计的数量上限+5。"
+  },
+  "groupID": 4734,
+  "iconID": 33,
+  "marketGroupID": 3656,
   "name": {
     "de": "Studio Management",
     "en": "Studio Management",
@@ -10,5 +23,7 @@
     "ru": "Studio Management",
     "zh": "工作室管理"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

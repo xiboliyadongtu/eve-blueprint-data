@@ -1,5 +1,18 @@
 {
-  "typeID": 21035,
+  "description": {
+    "de": "Bordeigene elektronische Interfaces und Datenbanken, die für den Betrieb eines Capital Ships erforderlich sind.",
+    "en": "Onboard electronic interfaces and data banks, required for the operation of capital ships.",
+    "es": "Interfaces y bancos de datos electrónicos de a bordo necesarios para la operación de naves capitales.",
+    "fr": "Banques de données et interfaces électroniques embarquées nécessaires au bon fonctionnement des vaisseaux capitaux.",
+    "ja": "主力艦の運用に必要な電子インターフェイスやデータバンクなど。",
+    "ko": "캐피탈 함선 운용에 필요한 함내 전자 인터페이스 및 데이터뱅크입니다.",
+    "ru": "Бортовые электронные интерфейсы и базы данных, необходимые для управления кораблями большого тоннажа.",
+    "zh": "舰载电子接口和数据库，是操作旗舰级飞船所必需的。"
+  },
+  "groupID": 873,
+  "iconID": 2869,
+  "marketGroupID": 781,
+  "mass": 10000.0,
   "name": {
     "de": "Capital Computer System",
     "en": "Capital Computer System",
@@ -10,5 +23,7 @@
     "ru": "Capital Computer System",
     "zh": "旗舰计算机系统"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 2000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 30280,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Bei einer solchen mechanischen Beschaffenheit kann diese Turmstruktur nur ein Stromgenerator und Energiesammler gewesen sein. Trotzdem vereint sie verschiedene Baustile und erinnert nicht zuletzt an neuzeitliche Kraftwerke. Die Generatoren im Inneren verweigern allen Bemühungen zum Trotz ihren Dienst. Diese Anlage ist zweifellos an kein Netz mehr angeschlossen und nur ein weiterer Haufen Weltraumschrott.",
+    "en": "The Spire's mechanical infrastructure suggests that it was once used for generating power and harvesting electricity. However, the design resembles a combination of different styles, many of them reminiscent of modern power stations. Despite many attempts, the internal generators won't start working, and the spire is now utterly offline, just another mass of debris in space.",
+    "es": "La infraestructura mecánica de la Aguja sugiere que se usaba para generar energía y obtener electricidad. Sin embargo, el diseño parece una combinación de diferentes estilos, muchos de ellos con reminiscencias de centrales eléctricas modernas. A pesar de muchos intentos, los generadores internos no funcionan y la aguja está ahora fuera de servicio y no es más que otra masa de escombros espaciales.",
+    "fr": "L'infrastructure mécanique de la Flèche laisse penser qu'elle était autrefois utilisée pour générer de l'énergie et extraire de l'électricité. Toutefois, son apparence combine différents styles, dont plusieurs ne sont pas sans rappeler les stations d'alimentation modernes. Malgré plusieurs tentatives, les générateurs internes ne fonctionnent plus, et la Flèche n'est maintenant plus qu'un tas de débris déconnectés dans l'espace.",
+    "ja": "スピールの機械的な基盤部分を見ると、これが発電と電力収集に使われていたことが分かる。しかし、その設計はいくつかの異なるスタイルの組み合わせであり、その多くは現代の発電所に通じるものがある。これを動かそうとする試みは何度もあったが失敗に終わっており、この塔は完全に停止して、宇宙空間に浮かぶ単なる巨大な残骸と化している。",
+    "ko": "첨탑 내부에 설치된 기계설비를 통해 한때 이 시설이 전력 공급에 사용되었던 것을 알 수 있습니다. 구조물에는 다양한 설계 방식이 적용되어 있으며 그 중 대다수는 현대의 전력시설에 사용되는 방식과 상당한 유사성을 보입니다. 여러번 시도해보았지만 내부의 발전기는 작동되지 않으며, 첨탑은 완전히 오프라인 상태입니다. 이 첨탑은 우주에 부유하는 또 하나의 거대한 잔해물일 뿐입니다.",
+    "ru": "Механическое оборудование Spire наводит на мысль о том, что этот объект когда-то использовался для выработки и сбора электроэнергии. Однако фрагменты его конструкции явно позаимствованы из разных источников; некоторые из них явно напоминают современные электростанции. Несмотря на многочисленные попытки, внутренние генераторы так и не удалось запустить. В настоящее время Spire полностью отключен, представляя собой еще одну груду обломков, странствующую по просторам космоса.",
+    "zh": "这座螺旋状的基础设施可能曾用于产生能源和电能。它的建筑风格十分多样，其中一些和当今的发电站构造极为近似。虽然经过多次的尝试，但内部的发电机组已经不能再启动了，整座螺旋设施已经完全处于离线状态，成为宇宙中的又一个巨型太空垃圾。"
+  },
+  "graphicID": 3524,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Offline Talocan Reactor Spire",
     "en": "Offline Talocan Reactor Spire",
@@ -10,5 +23,9 @@
     "ru": "Offline Talocan Reactor Spire",
     "zh": "离线的塔洛迦螺旋"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 3300.0,
+  "sofFactionName": "talocanbase",
   "volume": 100000000.0
 }

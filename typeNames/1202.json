@@ -1,5 +1,18 @@
 {
-  "typeID": 1202,
+  "description": {
+    "de": "Zivile Bergbaudrohne",
+    "en": "Civilian Mining Drone",
+    "es": "Dron minero civil.",
+    "fr": "Drone d'extraction civil.",
+    "ja": "民間人仕様採掘専門ドローン",
+    "ko": "민수용 채굴 드론",
+    "ru": "Гражданский дрон-экстрактор",
+    "zh": "民用采矿无人机"
+  },
+  "graphicID": 1009,
+  "groupID": 101,
+  "marketGroupID": 158,
+  "metaGroupID": 1,
   "name": {
     "de": "Civilian Mining Drone",
     "en": "Civilian Mining Drone",
@@ -10,5 +23,9 @@
     "ru": "Civilian Mining Drone",
     "zh": "民用采矿无人机"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 5.0,
+  "sofFactionName": "orebase",
   "volume": 5.0
 }

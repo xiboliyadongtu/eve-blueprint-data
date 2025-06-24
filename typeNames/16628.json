@@ -1,5 +1,18 @@
 {
-  "typeID": 16628,
+  "capacity": 120.0,
+  "description": {
+    "de": "Ein Anführer der Miliz. Bedrohungsstufe: Sehr hoch",
+    "en": "Militia Leader.  Threat level: Very high",
+    "es": "Líder de la milicia. Nivel de amenaza: muy alto.",
+    "fr": "Chef de la milice.  Niveau de menace : très élevé",
+    "ja": "義勇軍リーダー。危険度:非常に高い",
+    "ko": "밀리샤 대장입니다. 위험도: 매우 높음",
+    "ru": "Лидер ополчения. Уровень опасности: очень высокий",
+    "zh": "民兵领袖。威胁等级：非常高"
+  },
+  "graphicID": 338,
+  "groupID": 818,
+  "mass": 1645000.0,
   "name": {
     "de": "Militia Leader",
     "en": "Militia Leader",
@@ -10,5 +23,10 @@
     "ru": "Militia Leader",
     "zh": "民兵领袖"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 50.0,
+  "sofFactionName": "angelbase",
   "volume": 16450.0
 }

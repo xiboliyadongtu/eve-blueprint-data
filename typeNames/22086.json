@@ -1,5 +1,18 @@
 {
-  "typeID": 22086,
+  "capacity": 600.0,
+  "description": {
+    "de": "Ein Schlachtschiff der Tempest-Klasse kann ein wahres Ungetüm sein, wenn es voll ausgerüstet ist.\r\n\r\nBedrohungsstufe: Tödlich",
+    "en": "The Tempest battleship can become a real behemoth when fully equipped.\r\nThreat level: Deadly",
+    "es": "El acorazado Tempest puede convertirse en un auténtico mastodonte cuando está totalmente equipado.\n\nNivel de amenaza: letal.",
+    "fr": "Le cuirassé Tempest peut devenir un véritable monstre de combat s'il est entièrement équipé. Niveau de menace : mortel",
+    "ja": "テンペスト戦艦は、完全武装することで真の巨獣と化す。\r\n危険度:致命的",
+    "ko": "완벽하게 무장된 템페스트 배틀쉽은 진정한 전장의 패자입니다. <br><br>위험도: 치명적",
+    "ru": "Линкор Tempest может превратиться в настоящее чудовище, если его полностью снарядить.\nУровень опасности: смертельный",
+    "zh": "狂暴级战列舰配备完全后，会变成战场上真正的巨兽。威胁等级：致命的"
+  },
+  "graphicID": 2642,
+  "groupID": 816,
+  "mass": 19000000.0,
   "name": {
     "de": "Freedom Command Ship",
     "en": "Freedom Command Ship",
@@ -10,5 +23,10 @@
     "ru": "Freedom Command Ship",
     "zh": "自由者指挥舰"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 250.0,
+  "sofFactionName": "minmatarnavy",
   "volume": 850000.0
 }

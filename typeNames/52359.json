@@ -1,5 +1,16 @@
 {
-  "typeID": 52359,
+  "description": {
+    "de": "Scans belegen, dass dieses Gerät für Triglavia-Technologie ungewöhnlich einfach ist. Offenbar sammelt es gravitronische Informationen des umliegenden Systems mittels Methoden, die denen in New Eden sehr ähnlich sind. Ein Unterschied besteht allerdings darin, dass sämtliche gesammelten Daten relativ zu scheinbar zufälligen Koordinaten in der Raumverwerfung des Abgrunds kontextualisiert werden. Erste Analysen haben keine nachvollziehbare Verbindung zwischen diesen beiden Datensätzen ergeben.",
+    "en": "Scans indicate this device is unusually simple for Trigalvian technology. It appears to be gathering gravitonic information from the surrounding system using methods very similar to those common throughout New Eden. Where it differs is that all the data gathered is being contextualized relative to apparently random coordinates in Abyssal space. Early analysis has not been able to provide any rational link between these two data sets.",
+    "es": "Los escaneos indican que este dispositivo es inusualmente sencillo para la tecnología triglaviana. Parece reunir información gravitónica del sistema circundante usando métodos muy similares a los más habituales por todo Nuevo Edén. Se diferencia de ellos en el hecho de que todos los datos recopilados se contextualizan en relación con coordenadas aparentemente aleatorias del espacio abisal. Los análisis iniciales no han logrado arrojar nada de luz sobre posibles enlaces racionales entre estos dos conjuntos de datos.",
+    "fr": "Les scanners indiquent que ce dispositif est inhabituellement simple pour une technologie triglavian. Elle semble rassembler des informations gravitoniques du système environnant en utilisant des méthodes très similaires à celles employées dans tout New Eden. Là où cela diffère est que toutes les données rassemblées sont contextualisées vers des coordonnées apparemment aléatoires dans l'espace abyssal. L'analyse préliminaire n'a pas été capable de fournir des liens rationnels entre ces deux ensembles de données.",
+    "ja": "スキャンによると、このデバイスはトリグラビアンの技術らしからぬ単純な仕組みらしい。周囲の星系から重力子情報を収集しているが、その方法はニューエデン全域に一般的に広まっているものと酷似している。ただ異なっているのは、収集したすべてのデータを、アビサルスペースの一見ランダムな座標に当てはめている点だ。初期分析では、対応する2つのデータ間に合理的な繋がりは見つかっていない。",
+    "ko": "스캔 결과를 자세히 분석한 결과 트리글라비안 기술이 적용된 장치임에도 불구하고 이례적으로 단순한 구조를 띠고 있습니다. 뉴에덴에서 흔히 볼 수 있는 장치와 그다지 다르지 않은 방법으로 작동하고 있으며 주변 항성계에서 중력자 데이터를 수집하고 있는 것으로 보입니다. 유일하게 다른 점이라면 데이터 수집 후 어비설 데드스페이스 내 무작위 좌표를 기반으로 정보를 암호화하고 있다는 점입니다. 좌표와 데이터의 상관 관계에 대해서 명확히 밝혀지지 않았습니다.",
+    "ru": "Сканирование показывает, что для триглавской технологии это устройство необычайно простое. Похоже, оно собирает гравитонную информацию из окружающей среды способами, очень похожими на общепринятые в Новом Эдеме. Отличие состоит в том, что все собранные данные согласовываются, по-видимому, со случайными координатами в пространстве бездны. Первичный анализ не позволил обнаружить рациональную связь между этими двумя массивами данных.",
+    "zh": "扫描显示这个设备对于三神裔科技来讲有点过于简单了。它的作用似乎是从周围星系中收集引力子信息，使用的方法与新伊甸常用的很相似。它特别的地方在于所有收集的数据都被化为与深渊空间中的随机坐标有关的文字。初步分析未能得出这两种数据之间有任何合理关联的结论。"
+  },
+  "graphicID": 24430,
+  "groupID": 319,
   "name": {
     "de": "Triglavian Graviton Monitor",
     "en": "Triglavian Graviton Monitor",
@@ -10,5 +21,7 @@
     "ru": "Triglavian Graviton Monitor",
     "zh": "三神裔引力子监控器"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "sofFactionName": "triglavianbase"
 }

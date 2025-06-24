@@ -1,5 +1,18 @@
 {
-  "typeID": 29172,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese Struktur fungiert als Relaisstation für die Operationen des Staates Caldari in dieser Struktur; alle Geheiminformationen der Schlachtfelder werden hier empfangen, gesammelt und übermittelt.",
+    "en": "This structure acts as a relay station for the Caldari State's operations in this structure, collecting, receiving and transmitting battlefield intelligence.",
+    "es": "Esta estructura actúa como una estación de relés para las operaciones del Estado Caldari: recopila, recibe y transmite datos del campo de batalla.",
+    "fr": "Cette structure fait office de station relais pour les opérations de l'État caldari au sein de cette structure, récupérant, recevant et transmettant les renseignements sur le champ de bataille.",
+    "ja": "この建造物内で立てられるカルダリ連合の作戦におけるリレーステーションとして使われる建造物。戦場の情報を収集、受信、発信する。",
+    "ko": "군사작전에 관한 정보를 수신 및 송신하는 칼다리 연합의 통신중계소입니다.",
+    "ru": "Это сооружение используется государством Caldari в качестве ретранслятора: здесь происходит сбор, прием и передача данных с поля боя.",
+    "zh": "这个设施是加达里军事行动的信息中继中心，负责收集和传送战场的情报。"
+  },
+  "graphicID": 1708,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Caldari Tactical Relay",
     "en": "Caldari Tactical Relay",
@@ -10,5 +23,10 @@
     "ru": "Caldari Tactical Relay",
     "zh": "加达里战术中继中心"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 300.0,
+  "sofFactionName": "caldaribase",
   "volume": 100000000.0
 }

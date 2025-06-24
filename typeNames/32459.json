@@ -1,5 +1,17 @@
 {
-  "typeID": 32459,
+  "description": {
+    "de": "Warp-Disruptoren bringen den Navigationscomputer des Zielschiffs zum Erliegen, wodurch dieses am Warpen gehindert wird.<br><br>Diese speziell entworfenen zivilen Varianten sind nicht stark genug, um im echten Kampf eingesetzt zu werden und sind nur ausreichend für didaktische Zwecke.",
+    "en": "Warp Disruptors are used to disrupt a target ship's navigation computer, which prevents it from warping.<br><br>These specially-designed Civilian variants are not strong enough to be used in live combat and are sufficient for instructional purposes only.",
+    "es": "Los disruptores de warp se utilizan para inhibir el ordenador de navegación de la nave objetivo, lo que impide que warpee.<br><br>Estas variantes civiles no son lo bastante fuertes para usarse en combates de verdad y solo sirven con fines instructivos.",
+    "fr": "Les perturbateurs de warp servent à perturber l'ordinateur de navigation d'un vaisseau cible, ce qui l'empêche alors de warper.<br><br>Ces variantes civiles spéciales ne sont pas assez puissantes pour être utilisées au combat, et ne servent donc qu'à la théorie.",
+    "ja": "ワープ妨害器は、ターゲットした船のナビゲーションコンピュータを混乱させ、ワープ航行を妨害するために使用される。<br><br>民間人用に特別に設計されたこれらのワープ妨害器は、実戦に使用できるほど強力ではなく、教育目的のみに適している。",
+    "ko": "워프 디스럽터는 대상 함선의 항법 시스템에 간섭하여 워프를 방해합니다. <br><br>특수 목적으로 제작된 민간 모델들은 실전에서 사용될 수 있을 만큼 강력하지 못하며 교육 훈련용으로만 적합하다고 볼 수 있습니다.",
+    "ru": "Варп-дизрапторы вносят помехи в работу навигационного компьютера корабля-цели, делая невозможным переход в варп-режим.<br><br>Эта модель разработана специально для гражданского рынка и не обладает достаточной мощностью для применения в боевых условиях; ее используют только в учебных целях.",
+    "zh": "跃迁干扰器专门用于干扰目标舰船的导航计算机，从而阻止对方进行跃迁。<br><br>这种特别设计的民用型号，只能用于教学使用而不足以在实战中造成任何威胁。"
+  },
+  "groupID": 52,
+  "iconID": 111,
+  "marketGroupID": 1935,
   "name": {
     "de": "Civilian Warp Disruptor",
     "en": "Civilian Warp Disruptor",
@@ -10,5 +22,7 @@
     "ru": "Civilian Warp Disruptor",
     "zh": "民用跃迁干扰器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 5.0
 }

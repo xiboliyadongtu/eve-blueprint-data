@@ -1,5 +1,21 @@
 {
-  "typeID": 12789,
+  "basePrice": 400000.0,
+  "description": {
+    "de": "Die Void Xenon-Ladung ist eine hochenergetische Blasterladung, die einen extrem starken Feuerstoß aus kinetischer Energie abgibt. Allerdings hat sie mehrere gravierende Nachteile, insbesondere die Tatsache, dass sie eine bedeutend höhere Energiemenge aus dem Energiespeicher benötigt als jede andere Blasterladung. Zudem braucht sie etwas länger als gewöhnlich, um ein klares Ziel zu erfassen. 25 % geringere optimale Reichweite. 25 % geringere Nachführungsgeschwindigkeit. 50 % geringere Präzisionsabfall-Quote. Hinweis: Diese Munition kann nur von mittelgroßen Technologiestufe II- und Fraktionsblastern verwendet werden.",
+    "en": "The Void Xenon charge is a high-powered blaster charge that delivers an extremely powerful blast of kinetic energy. However, it has several serious drawbacks, most notably the fact that it requires considerably more capacitor energy than any other blaster charge. It also needs to maintain a clean aim for a slightly longer time than normal.\r\n\r\n25% reduced optimal range.\r\n25% reduced tracking speed.\r\n50% reduced falloff range.\r\n\r\nNote: This ammunition can only be used by medium tech level II and faction Blasters.",
+    "es": "La carga de xenón Void es una carga de bláster de alta potencia que provoca una poderosísima explosión de energía cinética. Sin embargo, tiene varias desventajas muy graves; principalmente, que requiere mucha más energía del condensador que cualquier otra carga de bláster. Además, debe apuntarse directamente sobre el objetivo algo más de tiempo de lo normal.\n\nAlcance óptimo reducido un 25 %.\n\n25 % de reducción a la velocidad de rastreo.\n\n50 % de reducción al alcance efectivo.\n\nAviso: Esta munición solo es compatible con blásteres T2 y faccionarios para naves medianas.",
+    "fr": "La charge Xénon vide est une charge de blaster à grande puissance qui produit une explosion extrêmement puissante d'énergie cinétique. Parmi ses nombreux inconvénients, le plus important est qu'elle consomme beaucoup plus d'énergie du capaciteur que les charges normales. La cible doit aussi rester un peu plus longtemps dans le viseur avant d'être verrouillée. Portée optimale réduite de 25 %. Vitesse de poursuite réduite de 25 %. Portée de déperdition réduite de 50 %. Remarque : ces munitions ne peuvent s'utiliser qu'avec les blasters intermédiaires de faction et de niveau technologique II.",
+    "ja": "ボイドキセノン弾は、キネティックエネルギーの大爆発をもたらすハイパワーのブラスター弾である。一方で欠点もあり、最も顕著なものは、他のどのブラスター弾よりも大量のキャパシタエネルギーを必要とする点である。また、通常より若干長い時間、正確な照準を維持しなければならない。\n\n\n\n最適射程距離が25%短縮。\n\nトラッキング速度が25%減少。\n\n精度低下範囲が50％縮小。\n\n\n\n注：この弾薬は中型T2および各勢力のブラスター専用である。",
+    "ko": "보이드 제논 탄은 강력한 에너지 폭발을 일으키는 고 위력 블라스터 탄약입니다. 다른 블라스터 탄약보다 높은 캐패시터 사용량을 지니고 있습니다. 또한 일반 탄약보다 더 긴 시간 동안 정확한 조준 상태를 유지해야 합니다. <br><br>최적사거리 25% 감소 <br>트래킹 속도 25% 감소 <br>유효사거리 50% 감소 <br><br>참고: 중형 테크 II 또는 팩션 블라스터에만 장착할 수 있습니다.",
+    "ru": "«Вакуумный ксенон» — это высокомощный заряд для бластера, обеспечивающий сильнейший взрыв кинетической энергии. Однако он имеет несколько серьёзных недостатков. Например, ему требуется значительно больше энергии накопителя, чем любому другому бластерному заряду. Кроме того, для попадания ему необходимо удерживать цель немного дольше, чем обычному заряду. Оптимальная дальность уменьшена на 25%. Скорость наведения снижена на 25%. Остаточная дальность уменьшена на 50%. Примечание: эти боеприпасы могут использовать только корабли среднего тоннажа второго техноуровня и государственные бластеры.",
+    "zh": "“涅槃”氙弹是一种高能疾速炮弹药，能造成剧烈的动能冲击。然而它有一些严重缺陷，最主要的就是它比其他任何疾速炮弹药都更耗电容能量。它的精确瞄准时间也比一般弹药稍长。\n\n\n\n最佳射程减少25%。\n\n跟踪速度降低25%。\n\n失准范围减少50%。\n\n\n\n注：只能用于二级科技和势力中型疾速炮。"
+  },
+  "graphicID": 1317,
+  "groupID": 377,
+  "iconID": 1317,
+  "marketGroupID": 861,
+  "mass": 0.01,
+  "metaGroupID": 2,
   "name": {
     "de": "Void M",
     "en": "Void M",
@@ -10,5 +26,8 @@
     "ru": "Void M",
     "zh": "涅槃 M"
   },
+  "portionSize": 5000,
+  "published": true,
+  "variationParentTypeID": 230,
   "volume": 0.0125
 }

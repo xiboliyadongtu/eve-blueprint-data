@@ -1,5 +1,18 @@
 {
-  "typeID": 11722,
+  "capacity": 120.0,
+  "description": {
+    "de": "Dies ist ein Begleitschiff einer unbekannten Piratenfraktion.\r\n\r\nBedrohungsstufe: Tödlich",
+    "en": "This is an escort ship employed by an unknown pirate faction.  Threat level: Deadly",
+    "es": "Nave de escolta contratada por alguna facción pirata desconocida. Nivel de amenaza: letal.",
+    "fr": "Il s'agit d'un vaisseau d'escorte utilisé par une faction de pirates inconnue.  Niveau de menace : mortel",
+    "ja": "無名の海賊勢力が乗っている護衛艦。危険度:致命的",
+    "ko": "정체불명의 해적 세력이 운용하는 호위함입니다. 위험도: 치명적",
+    "ru": "Это корабль охраны, нанятый неизвестной пиратской группировкой. Уровень опасности: смертельный",
+    "zh": "某未知海盗团体的护卫船。威胁等级：致命的"
+  },
+  "graphicID": 58,
+  "groupID": 817,
+  "mass": 10900000.0,
   "name": {
     "de": "Rogue Pirate Escort",
     "en": "Rogue Pirate Escort",
@@ -10,5 +23,11 @@
     "ru": "Rogue Pirate Escort",
     "zh": "自由海盗 护卫队"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 91.59,
+  "sofFactionName": "amarrbase",
+  "soundID": 31,
   "volume": 109000.0
 }

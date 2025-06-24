@@ -1,5 +1,19 @@
 {
-  "typeID": 26062,
+  "description": {
+    "de": "Diese Schiffsmodifikation wurde entwickelt, um die Dauer des Nachbrenners oder Mikrowarpantriebs eines Schiffes zu erhöhen. Dies geschieht auf Kosten der Panzerungsleistung.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26254>Raumfahrtmodifikation</a> reduziert werden.",
+    "en": "This ship modification is designed to increase the duration of a ship's afterburner or microwarpdrive modules at the expense of armor amount.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26254>Astronautics Rigging</a> skill.",
+    "es": "Esta modificación de nave está diseñada para aumentar la duración de los módulos del posquemador o del motor de microwarp en detrimento de cierta cantidad de blindaje.\n\n\n\nSe pueden reducir las desventajas de equipar este complemento desarrollando la habilidad <a href=showinfo:26254>Complementos de astronáutica</a>.",
+    "fr": "Cette modification de vaisseau est conçue pour augmenter la durée des modules de post-combustion et de propulseur de microwarp, au détriment de l'épaisseur du blindage.\n\n\n\nLes inconvénients du montage de cette plateforme pourraient être réduits en entraînant la compétence <a href=showinfo:26254>Optimisation astronautique</a>.",
+    "ja": "この改造を行うと、アーマー量と引き換えに艦船のアフターバーナーあるいはマイクロワープドライブ・モジュールの持続時間が増加する。このリグを装備することで発生するペナルティは、<a href=showinfo:26254>宇宙飛行リギング</a>スキルをトレーニングすることで低減できる。",
+    "ko": "리그 장착 시 애프터버너 또는 마이크로 워프 드라이브 모듈에 소모되는 캐패시터 사용량이 감소하는 반면 장갑 내구도도 감소합니다. <br><br>리그 부작용은 <a href=showinfo:26254>항법 리그</a> 스킬 습득 시 감소합니다.",
+    "ru": "Эта модификация предназначена для увеличения продолжительности рабочего цикла генераторов дополнительной тяги и микроварп-ускорителей за счёт уменьшения запаса прочности брони.\n\n\n\nНегативный эффект от установки этого тюнинг-модуля можно снизить, освоив навык <a href=showinfo:26254>Astronautics Rigging</a>, дающий пилоту глубокое понимание принципов работы навигационных систем кораблей.",
+    "zh": "这个飞船改装件通过牺牲装甲值来增加飞船加力燃烧器和微型跃迁装备的持续时间。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26254>空间航行改装技术</a>技能降低影响。"
+  },
+  "groupID": 782,
+  "iconID": 3196,
+  "marketGroupID": 1212,
+  "mass": 200.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Large Engine Thermal Shielding I",
     "en": "Large Engine Thermal Shielding I",
@@ -10,5 +24,8 @@
     "ru": "Large Engine Thermal Shielding I",
     "zh": "大型引擎热能防护装置 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 100.0,
   "volume": 20.0
 }

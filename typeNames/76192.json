@@ -1,5 +1,18 @@
 {
-  "typeID": 76192,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dies sind die Wrackteile eines Hochsicherheits-Kurierschiffs, das geheime Schiffswerfer-Daten des Staates transportierte. Die Fracht wurde bereits von den Schiffen geborgen, die es zerstört haben, aber Sie vermuten, dass man mit dem richtigen Bergungswerkzeug noch etwas von Wert in diesem Wrack finden könnte.",
+    "en": "This is the wreckage of a high-security courier vessel transporting classified State Shipcaster-related secrets.\r\n\r\nIts cargo has already been taken by the ships that destroyed it, but you surmise that with some salvaging equipment there is still something of value to be had from this wreck.",
+    "es": "Estos son los restos de una nave de reparto de seguridad alta que transportaba secretos confidenciales relacionados con los lanzadores interestelares del Estado.\n\nLas naves que la destruyeron ya se han llevado su cargamento, pero con algo de equipo de recuperación, quizá aún pueda sacarse algo de valor de estos restos.",
+    "fr": "Il s'agit de l'épave d'un vaisseau de courrier haute sécurité transportant des informations confidentielles de l'État concernant les lance-vaisseaux. Sa soute a déjà été récupérée par les vaisseaux l'ayant détruit, mais vous estimez qu'avec du bon matériel de récupération, cette épave pourrait toujours avoir de la valeur.",
+    "ja": "艦艇キャスターに関連する連合の機密情報を輸送するハイセキュリティ艦船の残骸。\n\nカーゴは既に攻撃を行った艦船により奪われているが、なんらかのサルベージ装置があれば、この残骸から何か価値のあるものを得られるかもしれない。",
+    "ko": "연합 함선전송기 극비 연구 데이터를 적재한 운반선의 잔해입니다.<br><br>운반선을 격추한 함선이 주요 화물을 모두 강탈한 것 같습니다. 그러나 샐비지 장비로 잔해에서 부품이나 자원을 획득할 수 있을 듯합니다.",
+    "ru": "Это обломки защищённого курьерского судна, которое перевозило секретные материалы Государства Калдари, касающиеся межзвёздных кораблепускателей. Ценный груз уже забрали экипажи кораблей, которые уничтожили это судно, но вы считаете, что с помощью демонтажного оборудования отсюда всё ещё можно извлечь что-то полезное.",
+    "zh": "这是一艘高安全的快递舰艇残骸，用来运送与合众国舰船弹射台有关的机密信息。其船舱已经被摧毁它的舰船夺走，但你估计如果使用打捞工具的话，说不定能从这个残骸中搞出点什么值钱的东西。"
+  },
+  "graphicID": 21103,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Caldari Classified Courier Wreck",
     "en": "Caldari Classified Courier Wreck",
@@ -10,5 +23,9 @@
     "ru": "Caldari Classified Courier Wreck",
     "zh": "加达里机密快递舰艇残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "ishukone",
   "volume": 27500.0
 }

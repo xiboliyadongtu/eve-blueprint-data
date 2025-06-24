@@ -1,5 +1,20 @@
 {
-  "typeID": 41223,
+  "capacity": 1.5,
+  "description": {
+    "de": "Ein Lenkwaffenwerfer für Capital-Schiffe, der für die Abwehr von kleineren Kampfschiffen wie Schlachtschiffen vorgesehen ist. Kann nur mit Torpedos geladen werden.",
+    "en": "Launcher for capitals intended to counter smaller combat ships such as battleships, can only be loaded with torpedoes.",
+    "es": "Lanzador para naves capitales destinado a contrarrestar naves de guerra más pequeñas, como acorazados. Solo puede cargarse con torpedos.",
+    "fr": "Ce lance-torpilles pour capitaux est conçu pour contrer les vaisseaux de combat de classe cuirassé ou inférieur.",
+    "ja": "戦艦などの、自艦よりも小さな戦闘船の迎撃を想定して装備されている大型艦用ランチャーには、トルピードのみが装填可能となっている。",
+    "ko": "캐피탈용 토피도 런처로 배틀쉽과 같이 비교적 함급이 작은 함선을 상대하기에 적합합니다.",
+    "ru": "Пусковая установка ракет, специально разработанная для повышения боеспособности кораблей большого тоннажа при ведении боя с кораблями меньших размеров (например, линкорами). Ведёт огонь исключительно торпедами.",
+    "zh": "用来对抗战列舰等较小战斗舰船的旗舰级发射器。只能装载鱼雷。"
+  },
+  "graphicID": 21206,
+  "groupID": 1673,
+  "iconID": 2839,
+  "marketGroupID": 2247,
+  "metaGroupID": 1,
   "name": {
     "de": "Arbalest Compact Rapid Torpedo Launcher",
     "en": "Arbalest Compact Rapid Torpedo Launcher",
@@ -10,5 +25,9 @@
     "ru": "Arbalest Compact Rapid Torpedo Launcher",
     "zh": "劲弩紧凑型快速鱼雷发射器"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "caldaribase",
+  "variationParentTypeID": 37288,
   "volume": 4000.0
 }

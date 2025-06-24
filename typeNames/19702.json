@@ -1,5 +1,17 @@
 {
-  "typeID": 19702,
+  "description": {
+    "de": "Dieser fraktal generierte Entschlüsselungscode wird von den lokalen Raubdrohnen als eine Möglichkeit verwendet, den sicheren Durchgang durch das Beschleunigungstor zu gewährleisten. Wenn der Code angewendet wird, bleibt das Beschleunigungstor eine kurze Zeit aktiviert und der Code wird entwertet, da automatisch ein neuer Sicherheitscode generiert wird.",
+    "en": "This fractal generated descrambling code is used by local Rogue Drones as a way to secure access through the acceleration gate. Once the code is used, the gate will remain open for a short period of time and the code will be rendered useless as a new security codeline will be automatically generated.",
+    "es": "Este código de descifrado fractal lo emplean los drones rebeldes locales para asegurar el acceso a través del portal de aceleración. El portal permanece abierto durante un breve periodo de tiempo tras usar el código, que queda inutilizable y es sustituido por una nueva línea de código de seguridad que se genera automáticamente.",
+    "fr": "Ce code de déchiffrement à génération fractale permet aux drones renégats locaux de sécuriser l'accès au portail d'accélération. À chaque utilisation, le code d'accès éphémère déverrouille un bref instant le portail avant de se renouveler automatiquement.",
+    "ja": "フラクタル符号に基づいた暗号解読コードで、現地のローグドローンがアクセラレーションゲートにアクセスする際に利用する。コードを使用するとゲートが短時間開くが、すぐに新たなセキュリティコードが作成されるため、一度しか使用できない。",
+    "ko": "로그 드론이 액셀레이션 게이트를 통과할 때 사용하는 차원분열도형 코드입니다. 코드 입력 시 짧은 시간 동안 게이트가 개방됩니다. 이후 게이트 보안 시스템이 새 보안 코드를 자동생성해 중복 적용이 불가능합니다.",
+    "ru": "Этот фрактальный код дешифровки используется местными восставшими дронами как метод обеспечения доступа через врата ускорения. После применения кода на короткое время врата останутся открытыми, и код станет бесполезным, поскольку в процессе автоматически генерируется новый.",
+    "zh": "当地自由无人机利用这种随机产生的解密码来激活加速轨道。密码使用后，轨道会打开一小段时间，然后密码就会失效，同时会产生一个新的随机密码。"
+  },
+  "groupID": 474,
+  "iconID": 2225,
+  "mass": 1.0,
   "name": {
     "de": "Repository Descramble Code",
     "en": "Repository Descramble Code",
@@ -10,5 +22,7 @@
     "ru": "Repository Descramble Code",
     "zh": "贮藏室解密卡"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

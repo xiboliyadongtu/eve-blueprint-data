@@ -1,5 +1,17 @@
 {
-  "typeID": 25598,
+  "description": {
+    "de": "Ein Elektronetzwerk mit geschlossenem Regelkreislauf und selbständigem Schaltwerk, wie man sie an jeder Ecke kaufen kann. Bei dem hier ist jemand nicht gerade zimperlich mit den Schaltern umgegangen, aber es ist nicht so arg, als dass man es nicht reparieren könnte.",
+    "en": "A closed loop electrical network with redundant autonomous switchgear. This unit has all of its breakers tripped but isn't beyond repair.",
+    "es": "Red eléctrica de circuito cerrado con conmutadores autónomos redundantes. Todos los interruptores de esta unidad han sido arrancados, pero es posible repararla.",
+    "fr": "Réseau électrique en circuit fermé équipé d'un dispositif de commutation autonome redondant. Tous les disjoncteurs de cette unité ont sauté, mais le problème n'est pas irréparable.",
+    "ja": "冗長自律型電流開閉装置付き閉ループ電気ネットワーク。この装置はブレーカーが全て飛んでしまっているが、修理不能なわけではない。",
+    "ko": "자율 개폐장치가 과다하게 부착된 전자 네트워크 폐회로입니다. 모든 차단기가 마모되어 있지만 수리가 불가능할 정도는 아닙니다.",
+    "ru": "Замкнутая электрическая цепь с дублированным автономным распределительным щитом. Все прерыватели сработали, но устройство можно починить.",
+    "zh": "闭合电气网络，配备有众多自控接电装置。这个部件的所有断路器都已经损坏了，但并不是无法修复。"
+  },
+  "groupID": 754,
+  "iconID": 3264,
+  "marketGroupID": 1863,
   "name": {
     "de": "Tripped Power Circuit",
     "en": "Tripped Power Circuit",
@@ -10,5 +22,7 @@
     "ru": "Tripped Power Circuit",
     "zh": "堆砌的能源电路"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,80 @@
 {
-  "typeID": 17922,
+  "basePrice": 36000000.0,
+  "capacity": 430.0,
+  "description": {
+    "de": "In den Regionen des Imperiums, in denen ungezogene Kinder mit Geschichten über die Blood Raider und deren Untaten zur Vernunft gebracht werden, ist die fürchterliche Geschichte über den Speer der Ashimmu, dem Bringer von weitaus schlimmeren Dingen als dem Tod, allen bekannt. Das ist eine der seltenen Tatsachen, in denen sind sich Kinder und Kapselpiloten einig sind.",
+    "en": "In those of the Empire's regions where naughty children are frightened into submission with tales of the Blood Raiders and their gallery of horrors, the terrible spear of the Ashimmu is known by all as a bringer of things worse than death. This is one of the few things that small children and capsule pilots generally agree upon.",
+    "es": "En esas regiones del Imperio donde se asusta a los niños traviesos con historias de los Saqueadores Sanguinarios y su galería de horrores, la terrible lanza de la Ashimmu es conocida por todos como una portadora de cosas peores que la muerte. Esta es una de las pocas cosas en las que los niños y los capsulistas están de acuerdo.",
+    "fr": "Dans ces régions de l'Empire où les vilains enfants sont punis à coups de légendes des Blood Raiders et de leur galerie des horreurs, la terrible silhouette du Ashimmu est reconnue par tous comme annonciatrice de choses pires que la mort. C'est l'une des rares choses sur lesquelles les petits enfants et les capsuliers tombent généralement d'accord.",
+    "ja": "帝国のなかでも言うことを聞かない子どもにブラッドレイダーの話と数々の恐ろしい所業を聞かせ、怖がらせてしつをしていた地域では、死よりも恐ろしいものをもたらすとしてアシンムーの惨槍を知らない者はいなかった。これは小さな子供たちもカプセラパイロットも同じ意見を持つ、数少ない物事のうちの一つであった。",
+    "ko": "제국에서는 어린아이들이 말을 듣지 않을 때 블러드 레이더와 그들의 잔인함에 대한 이야기로 겁을 주기도 합니다. 특히 아시무의 참혹한 창은 죽음보다도 끔찍한 존재로 여겨지고 있습니다. 이는 어린아이뿐만 아니라 캡슐리어도 동의하는 바입니다.",
+    "ru": "В тех секторах Амаррской Империи, где непослушных детей пугают рассказами о паноптикуме «Союза охотников за кровью», все знают, что удар ужасного копья «Ашимму» несёт судьбу, худшую, чем смерть. Редкий случай: и дети, и капсулёры находятся по этому поводу в полном согласии.",
+    "zh": "在帝国的某些地方，顽皮的孩子们一听到血袭者的惊悚传说就会吓得停止哭泣。众所周知，阿什姆级巡洋舰上骇人的阿什姆之矛会带来比死亡更为恐怖的灾难。小孩子和飞行员之间的共识不多，但这是其中之一。"
+  },
+  "factionID": 500012,
+  "graphicID": 2636,
+  "groupID": 26,
+  "marketGroupID": 1371,
+  "mass": 11010000.0,
+  "masteries": {
+    "0": [
+      64,
+      97,
+      99,
+      165,
+      96,
+      150,
+      89,
+      93,
+      94
+    ],
+    "1": [
+      64,
+      97,
+      99,
+      165,
+      96,
+      150,
+      89,
+      93,
+      94
+    ],
+    "2": [
+      64,
+      97,
+      99,
+      165,
+      96,
+      150,
+      89,
+      93,
+      94
+    ],
+    "3": [
+      64,
+      97,
+      99,
+      165,
+      96,
+      150,
+      89,
+      93,
+      94
+    ],
+    "4": [
+      64,
+      97,
+      99,
+      165,
+      96,
+      117,
+      150,
+      89,
+      93,
+      94
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Ashimmu",
     "en": "Ashimmu",
@@ -9,6 +84,80 @@
     "ko": "아시무",
     "ru": "Ashimmu",
     "zh": "阿什姆级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 137.0,
+  "sofFactionName": "bloodraider",
+  "soundID": 20115,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonus": 100,
+        "bonusText": {
+          "de": "Bonus auf den Schaden von <a href=showinfo:3306>mittelgroßen Energiegeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:3306>Medium Energy Turret</a> damage",
+          "es": "de bonificación al daño de la <a href=showinfo:3306>torreta de energía mediana</a>.",
+          "fr": "de bonus aux dégâts des <a href=showinfo:3306>tourelles à énergie intermédiaires</a>",
+          "ja": "<a href=showinfo:3306>中型エネルギータレット</a>のダメージが増加",
+          "ko": "<a href=showinfo:3306>중형 에너지 터렛</a> 피해량 증가",
+          "ru": "увеличивается урон <a href=showinfo:3306>средних лазерных орудий</a>",
+          "zh": "<a href=showinfo:3306>中型能量炮台</a>伤害加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonusText": {
+          "de": "<a href=showinfo:3423>Nosferatu-Module</a>, die in dieses Schiff eingebaut werden, ziehen dem als Ziel aufgeschaltetem Schiff Energie ab, unabhängig von Ihrem eigenen Energiespeicher-Level",
+          "en": "<a href=showinfo:3423>Energy Nosferatu</a> fitted to this ship will drain targeted ship's capacitor regardless of your own capacitor level",
+          "es": "El <a href=showinfo:3423>nosferatu de energía</a> equipado en esta nave drenará el condensador de la nave objetivo independientemente del nivel de tu propio condensador.",
+          "fr": "Les modules de <a href=showinfo:3423>Nosferatu à énergie</a> montés sur ce vaisseau vont absorber le capaciteur du vaisseau visé quel que soit le niveau de votre capaciteur",
+          "ja": "この艦船に搭載されている<a href=showinfo:3423>エネルギーノスフェラトゥ</a>は、自身のキャパシタレベルに関わらず、ターゲットとなる艦船のキャパシタを吸収する",
+          "ko": "<a href=showinfo:3423>에너지 노스페라투</a> 적 함선 캐패시터 흡수",
+          "ru": "На кораблях этого типа <a href=showinfo:3423>устройства паразитной подзарядки накопителя</a> извлекают энергию из накопителя корабля-цели независимо от уровня заряда накопителя корабля-получателя энергии",
+          "zh": "这艘舰船的<a href=showinfo:3423>掠能器</a>可以无视自身剩余电容量而对目标舰船的电容无限吸取"
+        },
+        "importance": 2
+      }
+    ],
+    "types": {
+      "3333": [
+        {
+          "bonus": 20,
+          "bonusText": {
+            "de": "Bonus auf die Reichweite von <a href=showinfo:526>Stasisnetzen</a>",
+            "en": "bonus to <a href=showinfo:526>Stasis Webifier</a> range",
+            "es": "de bonificación al alcance de la <a href=showinfo:526>red ralentizadora</a>.",
+            "fr": "bonus à la portée du<a href=showinfo:526>générateur de stase</a>",
+            "ja": "<a href=showinfo:526>ステイシスウェビファイア</a>の範囲が拡大",
+            "ko": "<a href=showinfo:526>스테이시스 웹 생성기</a> 사거리 증가",
+            "ru": "увеличивается оптимальная дальность действия <a href=showinfo:526>стазис-индукторов</a>",
+            "zh": "<a href=\"showinfo:526\">停滞缠绕光束</a>射程加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ],
+      "3335": [
+        {
+          "bonus": 15,
+          "bonusText": {
+            "de": "Bonus auf die Transfermenge von <a href=showinfo:3423>Nosferatu-</a> und <a href=showinfo:3423>Energieneutralisierer</a>-Modulen",
+            "en": "bonus to <a href=showinfo:3423>Energy Nosferatu</a> and <a href=showinfo:3423>Energy Neutralizer</a> drain amount",
+            "es": "de bonificación a la cantidad drenada por el <a href=showinfo:3423>nosferatu de energía</a> y el <a href=showinfo:3423>neutralizador energético</a>.",
+            "fr": "de bonus à la quantité d'énergie récupérée par le <a href=showinfo:3423>Nosferatu à énergie</a> et le <a href=showinfo:3423>neutraliseur d'énergie</a>",
+            "ja": "<a href=showinfo:3423>エネルギーノスフェラトゥ</a>および<a href=showinfo:3423>エネルギーニュートライザー</a>の消費量が改善",
+            "ko": "<a href=showinfo:3423>에너지 노스페라투</a> 및 <a href=showinfo:3423>에너지 뉴트럴라이저</a> 흡수량 증가",
+            "ru": "увеличивается пропускная способность <a href=showinfo:3423>устройств паразитной подзарядки накопителя</a> и <a href=showinfo:3423>дистанционных нейтрализаторов заряда</a>",
+            "zh": "<a href=showinfo:3423>掠能器</a>和<a href=showinfo:3423>能量中和器</a>吸取量加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 118000.0
 }

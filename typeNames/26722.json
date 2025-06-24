@@ -1,5 +1,18 @@
 {
-  "typeID": 26722,
+  "capacity": 20000000.0,
+  "description": {
+    "de": "Mobile Hangar- und Ausrüstungsstruktur. Hier finden Schiffen Unterschlupf und werden mit den Modulen aus ihren Laderäumen bestückt, ohne irgendwo landen zu müssen.",
+    "en": "Mobile hangar and fitting structure. Used for ship storage and in-space fitting of modules contained in a ship's cargo bay.",
+    "es": "Estructura móvil de equipamiento y hangar. Se usa para guardar la nave y equipar módulos de la bodega de una nave en el espacio.",
+    "fr": "Hangar et atelier mobile. Utilisé pour le stockage de vaisseaux et le montage en vol de modules se trouvant dans la baie de chargement.",
+    "ja": "移動式のハンガー兼装備用ストラクチャ。船の保管や、船のカーゴベイに保管されているモジュールの宇宙空間での装備作業に使用される。",
+    "ko": "이동식 격납고와 피팅 시설이 갖추어져 있습니다. 함선 격납이 가능하며 테더링을 통해 함선 화물실에 보관된 모듈을 장착할 수 있습니다.",
+    "ru": "Передвижное сооружение, снабженное ангаром и отсеками службы оснащения. Используется для хранения кораблей и установки модулей, находящихся в грузовом отсеке корабля.",
+    "zh": "移动机库以及装配建筑。用于存放舰船以及在太空中装配那些来自舰船货柜的装备。"
+  },
+  "graphicID": 2595,
+  "groupID": 319,
+  "mass": 1000000.0,
   "name": {
     "de": "Starbase Ship-Maintenance Array",
     "en": "Starbase Ship-Maintenance Array",
@@ -10,5 +23,9 @@
     "ru": "Starbase Ship-Maintenance Array",
     "zh": "母星舰船维护阵列"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 550.0,
+  "sofFactionName": "genericmetal",
   "volume": 8000.0
 }

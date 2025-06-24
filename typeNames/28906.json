@@ -1,5 +1,18 @@
 {
-  "typeID": 28906,
+  "capacity": 2500.0,
+  "description": {
+    "de": "Solche Sicherheitseinrichtungen gibt es im ganzen All, und normalerweise dienen sie als Hochsicherheitsgefängnisse. Diese hier scheint jedoch noch erheblich aufgerüstet worden zu sein. Es gibt mehrere Risse in der Hülle, aber es sieht eher so aus, als seien nicht von außen, sondern von etwas im Inneren verursacht worden. Da stellt sich die Frage, welche Monstrositäten man wohl dort drin gefangen hält?",
+    "en": "Containment facilities like this exist throughout known space, usually serving as high security prisons. This one, however, appears to have been heavily reinforced.\r\n\r\nThere are multiple breaches in the hull, but they appear to originate from within the structure rather than without. Which begs the question; what kinds of monstrosities were being held inside?",
+    "es": "Por todo el espacio conocido existen instalaciones de contención, que normalmente sirven como prisiones de alta seguridad. Por algún motivo, esta está muy reforzada.\n\nHay varias brechas en el casco, pero parecen haberse originado desde el interior de la estructura. ¿Qué monstruosidades habría dentro?",
+    "fr": "Installations de confinement situées un peu partout dans l'espace connu et servant généralement de prisons de haute sécurité. Celle-ci semble avoir été particulièrement renforcée.\n\nLa coque présente de nombreuses brèches mais qui semblent avoir été faites à partir de l'intérieur de la structure et non de l'extérieur. Quelles monstruosités cet endroit peut-il bien abriter ?",
+    "ja": "これに似た収容施設は既知宇宙全域に存在し、その多くががっちりと警備を固めた牢獄として使われているが、この施設は特に強化されているようである。船体には複数の亀裂があるが、どうやら外部からではなく、内部から生じたもののようである。一体どんな怪物が閉じ込められていたのだろうか。",
+    "ko": "수감시설은 뉴에덴에서 널리 찾아볼 수 있으며 주로 높은 보안 등급을 지닌 교도소로 사용됩니다. 하지만 이 시설은 그중에서도 유독 더 엄중하게 경계되고 있습니다. <br><br>구조물에 인위적으로 부서진 틈이 여럿 보이며 이는 모두 외부가 아닌 내부로부터의 파괴된 흔적으로 보여집니다. 내부에 가두어져 있었던 것이 무엇인지는 알 수 없습니다.",
+    "ru": "Эти защищенные сооружения можно найти в любом уголке галактики; обычно используются в качестве тюрем строгого режима. По какой-то причине этот модуль был снабжен дополнительной защитой.\nВ его корпусе имеются многочисленные пробоины, но, похоже, они были проделаны изнутри, а не снаружи. Естественным образом напрашивается вопрос: каких же монстров там содержали?",
+    "zh": "这类的封锁设施在整个已知宇宙中到处都有，通常都是用作高安全性的监狱。不过这一座似乎已经过高度强化。它的外壳上有多个裂口，但这些裂口似乎是从建筑内部产生的，而不是外部。这使人不禁要问，里面究竟关押着怎样的怪物？"
+  },
+  "graphicID": 20297,
+  "groupID": 1207,
+  "mass": 10000.0,
   "name": {
     "de": "Metadrones - MH-A-1 - N",
     "en": "Metadrones - MH-A-1 - N",
@@ -10,5 +23,9 @@
     "ru": "Metadrones - MH-A-1 - N",
     "zh": "衍生无人机 - MH-A-1 - N"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 300.0,
+  "sofFactionName": "genericbase",
   "volume": 25000.0
 }

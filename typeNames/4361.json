@@ -1,5 +1,19 @@
 {
-  "typeID": 4361,
+  "basePrice": 400000000.0,
+  "capacity": 1000000.0,
+  "description": {
+    "de": "Diese Struktur existiert nicht.",
+    "en": "This structure does not exist.",
+    "es": "Esta estructura no existe.",
+    "fr": "Cette structure n'existe pas.",
+    "ja": "この建造物は存在しない。",
+    "ko": "구조물이 존재하지 않습니다.",
+    "ru": "Такого сооружения не существует.",
+    "zh": "此建筑不存在。"
+  },
+  "graphicID": 2599,
+  "groupID": 365,
+  "mass": 200000000.0,
   "name": {
     "de": "QA Fuel Control Tower",
     "en": "QA Fuel Control Tower",
@@ -10,5 +24,10 @@
     "ru": "QA Fuel Control Tower",
     "zh": "QA测试燃料控制塔"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 3275.0,
+  "sofFactionName": "caldaribase",
   "volume": 1.0
 }

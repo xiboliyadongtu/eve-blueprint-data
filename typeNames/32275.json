@@ -1,5 +1,16 @@
 {
-  "typeID": 32275,
+  "description": {
+    "de": "Diese schmuckvolle Struktur dient als Ort für religiöse Riten.",
+    "en": "This decorated structure serves as a place for religious practice.",
+    "es": "Esta estructura ornamentada se utiliza como lugar de culto.",
+    "fr": "Cette structure richement décorée sert de lieu de culte.",
+    "ja": "宗教儀式が執り行われる装飾された建造物。",
+    "ko": "이 장식된 구조물은 종교적 의식을 행하기 위한 장소입니다.",
+    "ru": "В этом богато украшенном сооружении отправляются религиозные обряды.",
+    "zh": "这个装饰过的建筑物是一个宗教场所。"
+  },
+  "graphicID": 2404,
+  "groupID": 226,
   "name": {
     "de": "Fortified Amarr Chapel",
     "en": "Fortified Amarr Chapel",
@@ -10,5 +21,9 @@
     "ru": "Fortified Amarr Chapel",
     "zh": "强化的艾玛礼拜堂"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 800.0,
+  "sofFactionName": "amarrbase"
 }

@@ -1,5 +1,72 @@
 {
-  "typeID": 11985,
+  "basePrice": 159900000.0,
+  "capacity": 485.0,
+  "description": {
+    "de": "Entsprechend der Raumschiffbautradition der Caldari, die sich im Laufe der Zeit bezahlt gemacht hat, bietet die BASILISK Computertechnologie der Spitzenklasse, die speziell für den Betrieb von Shield Transport Array-Modulen ausgelegt ist - dafür allerdings verzichtet sie auf die Strukturverstärkung, die man sonst in Schiffen dieser Klasse vorfindet. Lai Dai hat immer einen ausgewogenen Ansatz für die an Bord eingebauten Systeme angestrebt, was zu einer Reihe von vielseitigen Schiffen geführt, aber nur sehr wenig zu taktischer Spezialisierung beigetragen hat. Mit der Basilisk war es das Ziel von Lai Dai, die Entwicklung von Verteidigungssysstemen an den Rand des Machbaren voranzutreiben und gleichzeitig starke Unterstützungsfähigkeiten zu bieten.",
+    "en": "Following in the time-honored Caldari spaceship design tradition, the Basilisk sports top-of-the-line on-board computer systems specially designed to facilitate shield transporting arrays, while sacrificing some of the structural strength commonly found in vessels of its class.\r\n\r\nLai Dai have always favored a balanced approach to their mix of on-board systems, leading to a line-up of versatile ships but providing very little in terms of tactical specialization. With the Basilisk, their aim was to continue pushing forward the development of cutting-edge defense optimization systems while providing powerful support capability.",
+    "es": "Siguiendo la distinguida tradición del diseño de naves caldaris, la Basilisk posee sistemas computacionales a bordo de última generación especialmente diseñados para facilitar el transporte de escudos, aunque sacrifica parte de la fuerza estructural que suele encontrarse en este tipo de naves.\r\n\r\nLai Dai siempre ha preferido un enfoque equilibrado en su mezcla de sistemas de a bordo, dando lugar a un conjunto de naves versátiles, pero escasas en términos de especialización táctica. Con la Basilisk, su objetivo era continuar desarrollando sistemas de optimización defensiva de primera, así como proporcionar una poderosa capacidad de apoyo.",
+    "fr": "Conformément à la plus pure tradition des vaisseaux caldari, le Basilisk est à la pointe des systèmes informatiques embarqués, spécialement conçus pour faciliter les modules de transport de boucliers, même s'il sacrifie certains atouts structurels dont sont couramment dotés les vaisseaux de cette classe. Lai Dai a toujours privilégié une certaine homogénéité dans ses systèmes embarqués. Ses vaisseaux sont polyvalents, mais offrent peu d'options en termes de spécialisation tactique. Avec le Basilisk, son but est de poursuivre son développement des systèmes avancés d'optimisation des défenses tout en apportant une capacité de soutien puissante.",
+    "ja": "カルダリ艦船設計の伝統にのっとり、バシリスクもシールドトランスポーティングアレイを効率化する特殊設計の高品質船内コンピュータシステムを誇る。ただし、構造強度が同型級の船と比べると若干犠牲にされている。\r\n\r\nライダイは常に、バランスのとれた艦内システム構成に力を入れているため、多目的艦のラインナップが充実している一方で、特定の戦術に特化した艦は非常に少ない。バシリスクでは最先端の防衛最適化システムを更に進化させつつ、強力なサポート能力を持たせることが目標とされた。",
+    "ko": "전통적인 칼다리 함선 설계 방식에 따라 바실리스크는 효과적인 실드 전송 시설을 위한 최신예 컴퓨터 시스템을 함선에 탑재했습니다. 그런 반면, 선체의 강도는 동급 함선에 비해 낮은 편입니다.\r\n\r\n라이다이는 함선 설계 시 균형을 중요시하는 회사로 범용성은 뛰어나지만 전술적으로 특화된 부분이 없다는 점에서 부족한 면모를 드러냅니다. 바실리스크급의 경우 최첨단 방어 시스템의 최적화 및 강력한 지원 능력을 실현하는 데 중점이 맞춰져 있었습니다.",
+    "ru": "По калдарской традиции кораблестроения Basilisk может похвастаться сверхсовременной бортовой вычислительной системой, специально предназначенной для работы с матрицами передачи щитов. Для достижения такого эффекта, правда, пришлось пожертвовать ресурсом прочности судна, что, впрочем, типично для кораблей такого типа. Корпорация «Лай Дай» всегда славилась взвешенным подходом к проектированию бортовых систем, и ей удалось создать линейку универсальных кораблей, лишённых, однако, сколько-нибудь чёткого тактического профиля. Работая над Basilisk, проектировщики стремились усовершенствовать свои передовые системы оптимизации защиты, при этом не забывая и о средствах боевой поддержки.",
+    "zh": "皇冠蜥级沿袭加达里太空飞船设计的悠久传统，装载了专用于驱动护盾传输阵列的顶级舰载计算机系统，但与同级别的舰船相比，它的结构强度有所降低。莱戴集团一直喜欢从平衡的角度来搭配他们的船载系统，因此他们拥有一系列多用途的舰船，却少有针对特定战术的产品。对于皇冠蜥级来说，其制造目的是在推进尖端防御优化系统开发的同时，提供强大的支援能力。"
+  },
+  "factionID": 500001,
+  "graphicID": 11865,
+  "groupID": 832,
+  "marketGroupID": 439,
+  "mass": 13130000.0,
+  "masteries": {
+    "0": [
+      96,
+      97,
+      139,
+      84,
+      85,
+      87,
+      94
+    ],
+    "1": [
+      96,
+      97,
+      139,
+      84,
+      85,
+      87,
+      94
+    ],
+    "2": [
+      96,
+      97,
+      139,
+      84,
+      85,
+      87,
+      94
+    ],
+    "3": [
+      96,
+      97,
+      139,
+      142,
+      84,
+      85,
+      87,
+      94
+    ],
+    "4": [
+      96,
+      97,
+      139,
+      142,
+      84,
+      85,
+      118,
+      87,
+      94
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Basilisk",
     "en": "Basilisk",
@@ -10,5 +77,143 @@
     "ru": "Basilisk",
     "zh": "皇冠蜥级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 174.0,
+  "sofFactionName": "laidai",
+  "soundID": 20069,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Reduktion des CPU-Bedarfs von <a href=showinfo:3422>Schildfernboostern</a>",
+          "en": "reduction in <a href=showinfo:3422>Remote Shield Booster</a> CPU requirement",
+          "es": "de reducción de los requisitos de CPU del <a href=showinfo:3422>potenciador de escudo remoto</a>.",
+          "fr": "de réduction au CPU requis par les <a href=showinfo:3422>boosters de bouclier à distance</a>",
+          "ja": "<a href=showinfo:3422>リモートシールドブースター</a>のCPU使用量が軽減",
+          "ko": "<a href=showinfo:3422>원격 실드 부스터</a> CPU 사용량 감소",
+          "ru": "сокращается потребность <a href=showinfo:3422>установок дистанционной накачки щитов</a> в мощностях ЦПУ",
+          "zh": "<a href=\"showinfo:3422\">远程护盾回充增量器</a>CPU需求降低"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Reduktion des Stromnetz-Bedarfs von <a href=showinfo:3423>Energiespeicher-Ferntransmittern</a>",
+          "en": "reduction in <a href=showinfo:3423>Remote Capacitor Transmitter</a> powergrid requirement",
+          "es": "de reducción de los requisitos del sistema de potencia del <a href=showinfo:3423>transmisor de condensador remoto</a>.",
+          "fr": "de réduction au réseau d'alimentation requis par les <a href=showinfo:3423>transmetteurs de capaciteur à distance</a>",
+          "ja": "<a href=showinfo:3423>リモートキャパシタトランスミッター</a>のパワーグリッド使用量が軽減",
+          "ko": "<a href=showinfo:3423>원격 캐패시터 전송기</a> 파워그리드 요구치 감소",
+          "ru": "сокращается потребность <a href=showinfo:3423>установок дистанционного энергоснабжения</a> в мощности реактора",
+          "zh": "<a href=\"showinfo:3423\">远程电容传输装置</a>能量栅格需求降低"
+        },
+        "importance": 2,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3334": [
+        {
+          "bonus": 150.0,
+          "bonusText": {
+            "de": "Bonus auf die Reichweite von <a href=showinfo:3423>Energiespeicher-Ferntransmittern</a>",
+            "en": "bonus to <a href=showinfo:3423>Remote Capacitor Transmitter</a> range",
+            "es": "de bonificación al alcance del <a href=showinfo:3423>transmisor de condensador remoto</a>.",
+            "fr": "de bonus à la portée du <a href=showinfo:3423>transmetteur de capaciteur à distance</a>",
+            "ja": "<a href=showinfo:3423>リモートキャパシタトランスミッター</a>の範囲が拡大",
+            "ko": "<a href=showinfo:3423>원격 캐패시터 전송기</a> 사거리 증가",
+            "ru": "увеличивается дальность действия <a href=showinfo:3423>установок дистанционного энергоснабжения</a>",
+            "zh": "<a href=showinfo:3423>远程电容传输装置</a>距离加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 20.0,
+          "bonusText": {
+            "de": "Bonus auf die Transfermenge von <a href=showinfo:3439>Versorgungsdrohnen</a>",
+            "en": "bonus to <a href=showinfo:3439>Logistic Drone</a> transfer amount",
+            "es": "de bonificación a la cantidad de transferencia de los <a href=showinfo:3439>drones logísticos</a>.",
+            "fr": "de bonus à la quantité de transfert du <a href=showinfo:3439>drone logistique</a>",
+            "ja": "<a href=showinfo:3439>支援型ドローン</a>の転送量が向上",
+            "ko": "<a href=showinfo:3439>로지스틱스 드론</a> 수리량 증가",
+            "ru": "повышается производительность <a href=showinfo:3439>ремонтных дронов</a>",
+            "zh": "<a href=showinfo:3439>后勤无人机</a>传输量加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 60.0,
+          "bonusText": {
+            "de": "Bonus auf die optimale Reichweite und den Präzisionsabfall von <a href=showinfo:3422>Schildfernboostern</a>",
+            "en": "bonus to <a href=showinfo:3422>Remote Shield Booster</a> optimal range and falloff",
+            "es": "de bonificación a los alcances óptimo y efectivo del <a href=showinfo:3422>potenciador de escudo remoto</a>.",
+            "fr": "de bonus à la portée optimale et à la déperdition du<a href=showinfo:3422>booster de bouclier à distance</a>",
+            "ja": "<a href=showinfo:3422>リモートシールドブースター</a>の最適射程距離および精度低下範囲が改善",
+            "ko": "<a href=showinfo:3422>원격 실드 부스터</a> 최적사거리 및 유효사거리 증가",
+            "ru": "увеличивается оптимальная и добавочная дальность действия <a href=showinfo:3422>установок дистанционной накачки щитов</a>",
+            "zh": "<a href=showinfo:3422>远程护盾回充增量器</a>最佳射程和失准范围加成"
+          },
+          "importance": 3,
+          "unitID": 105
+        }
+      ],
+      "12096": [
+        {
+          "bonus": 15.0,
+          "bonusText": {
+            "de": "Reduktion der Aktivierungskosten von <a href=showinfo:3423>Energiespeicher-Ferntransmittern</a>",
+            "en": "reduction in <a href=showinfo:3423>Remote Capacitor Transmitter</a> activation cost",
+            "es": "de reducción del coste de activación del <a href=showinfo:3423>transmisor de condensador remoto</a>.",
+            "fr": "de réduction du coût d'activation des <a href=showinfo:3423>transmetteurs de capaciteur à distance</a>",
+            "ja": "<a href=showinfo:3423>リモートキャパシタトランスミッター</a>の起動コストが軽減",
+            "ko": "<a href=showinfo:3423>원격 캐패시터 전송기</a> 활성화 비용 감소",
+            "ru": "сокращается потребление энергии <a href=showinfo:3423>установками дистанционного энергоснабжения</a>",
+            "zh": "<a href=\"showinfo:3423\">远程电容传输装置</a>启动消耗减少"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 15.0,
+          "bonusText": {
+            "de": "Reduktion der Aktivierungskosten von <a href=showinfo:3422>Schildfernboostern</a>",
+            "en": "reduction in <a href=showinfo:3422>Remote Shield Booster</a> activation cost",
+            "es": "de reducción del coste de activación del <a href=showinfo:3422>potenciador de escudo remoto</a>.",
+            "fr": "de réduction du coût d'activation des <a href=showinfo:3422>boosters de bouclier à distance</a>",
+            "ja": "<a href=showinfo:3422>リモートシールドブースター</a>の起動コストが軽減",
+            "ko": "<a href=showinfo:3422>원격 실드 부스터</a> 활성화 비용 감소",
+            "ru": "сокращается потребление энергии <a href=showinfo:3422>установками дистанционной накачки щитов</a>",
+            "zh": "<a href=\"showinfo:3422\">远程护盾回充增量器</a>启动消耗减少"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die HP der <a href=showinfo:3425>Schilderweiterung</a>",
+            "en": "bonus to <a href=showinfo:3425>Shield Extender</a> hitpoints",
+            "es": "de bonificación a los puntos de vida del <a href=showinfo:3425>extensor de escudo</a>.",
+            "fr": "de bonus aux points de vie de l'<a href=showinfo:3425>extenseur de bouclier</a>",
+            "ja": "<a href=showinfo:3425>シールドエクステンダー</a>HPが増加",
+            "ko": "<a href=showinfo:3425>실드 확장장치</a> 실드량 증가",
+            "ru": "бонус к прочности <a href=showinfo:3425>расширителя щитов</a>",
+            "zh": "<a href=showinfo:3425>护盾扩展装置</a>护盾值加成"
+          },
+          "importance": 3,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 620,
   "volume": 107000.0
 }

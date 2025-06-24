@@ -1,5 +1,17 @@
 {
-  "typeID": 353363,
+  "basePrice": 149000.0,
+  "description": {
+    "de": "Ein Skill, um Drop-Uplinks einsetzen zu können.\n\nSchaltet den Zugriff auf Standard-Drop-Uplinks ab Stufe 1, erweiterte Drop-Uplinks ab Stufe 3 und Drop-Uplink-Prototypen ab Stufe 5 frei.",
+    "en": "Skill at drop uplink deployment.\r\n\r\nUnlocks access to standard drop uplinks at lvl.1; advanced at lvl.3; prototype at lvl.5.",
+    "es": "Habilidad de despliegue de enlaces de salto.\n\nDesbloquea el acceso a enlaces de salto estándar en el nivel 1, avanzados en el nivel 3 y prototipos en el nivel 5.",
+    "fr": "Compétence permettant de déployer des portails.\n\nDéverrouille l'utilisation des portails. Standard au niv.1 ; avancé au niv.3 ; prototype au niv.5",
+    "it": "Abilità nel posizionamento dei portali di schieramento.\n\nSblocca l'accesso ai portali di schieramento standard al liv. 1; a quelli avanzati al liv. 3; a quelli prototipo al liv. 5",
+    "ja": "地上戦アップリンク展開についてのスキル。\n\nレベル1で標準型、レベル3で高性能、レベル5でプロトタイプの地上戦アップリンクが利用可能になる。",
+    "ko": "이동식 업링크 전개를 위한 스킬입니다. <br><br>이동식 업링크가 잠금 해제됩니다. (레벨 1 - 일반, 레벨 3 - 상급, 레벨 5 - 프로토타입)",
+    "ru": "Навык развертывания десантных маяков.\n\nПозволяет использовать стандартные десантные маяки на уровне 1; усовершенствованные на уровне 3; прототипные на уровне 5.",
+    "zh": "部署上行链路的技能。1级解锁标准上行链路；3级解锁高级上行链路；5级解锁原型上行链路。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Drop-Uplink-Einsatz",
     "en": "Drop Uplink Deployment",
@@ -11,5 +23,7 @@
     "ru": "Развертывание десантного маяка",
     "zh": "上行链路部署"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

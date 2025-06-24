@@ -1,5 +1,19 @@
 {
-  "typeID": 30169,
+  "description": {
+    "de": "Dieses Subsystem ist veraltet und wurde durch neuere Technologie ersetzt.\n\n\n\nDieses Subsystem besteht aus unzähligen Nanomaschinen, die den Energiefluss eines Schiffsreaktorkerns verbessern, und bietet einem Piloten somit die Möglichkeit, das Energieversorgungsnetz seines Schiffes zu verbessern. Obwohl die Imperien bereits vor Jahrhunderten Upgrades für das Energieversorgungsnetz erfanden, stellt die Anpassung alter Designs an den neuen Tech-III-Standard einen relativ neuen Durchbruch dar.\n\n\n\nSubsystem-Skillbonus: \n\n5 % Bonus auf die Energieleistung je Skillstufe",
+    "en": "This subsystem is obsolete and has been replaced by newer technology\r\n\r\nComprised of countless nanomachines that enhance the energy flow from a ship's reactor core, this engineering subsystem offers a pilot the option of increasing the power grid of their vessel. Although the empires mastered energy grid upgrades many centuries ago, the adaptation of old designs to the new Tech III paradigm has been a more recent breakthrough.\r\n\r\nSubsystem Skill Bonus: \r\n5% bonus to power output per level.",
+    "es": "Este subsistema está obsoleto y ha sido sustituido por tecnología nueva.\n\nEste subsistema de ingeniería, compuesto de incontables nanomáquinas que mejoran el flujo energético del núcleo del reactor, ofrece la opción de aumentar el sistema de potencia de la nave. Aunque los imperios dominaron las mejoras del sistema de energía hace muchos siglos, la adaptación de los antiguos diseños al nuevo paradigma de T3 ha supuesto un avance más reciente.\n\nBonificación de habilidad del subsistema:\n\n5 % de bonificación a la potencia de salida por nivel.",
+    "fr": "Ce sous-système est obsolète et a été remplacé par une technologie plus récente. Composé d'un nombre incalculable de nanomachines améliorant le flux d'énergie issu du cœur du réacteur d'un vaisseau, ce sous-système d'ingénierie permet au pilote d'augmenter le réseau d'alimentation de son vaisseau. Si les empires sont parvenus à maîtriser les mises à jour du réseau d'alimentation il y a plusieurs siècles de cela, l'adaptation des anciens modèles aux nouveaux vaisseaux Tech III est encore toute récente. Bonus de compétence du sous-système : augmente de 5 % par niveau le réseau d'alimentation.",
+    "ja": "このサブシステムは旧式化したため、新型技術に差し替えられた\n\n\n\nこのサブシステムは艦船の炉心からエネルギーを効率よく流入させる無数のナノマシンで構成されており、パイロットは必要に応じて艦船のパワーグリッドを増幅させることができるようになる。帝国がエネルギー回路のアップグレードに成功したのはもう数世紀も前のことだが、旧式の設計を昨今のT3技術に統合する革新的な技術を利用できるようになったのは比較的最近のことである。\n\n\n\nサブシステムのスキルボーナス：\n\nレベル上昇ごとにパワー出力が5%上昇。",
+    "ko": "이 서브시스템은 노후되어 최신식 기술로 교체되었습니다.<br><br>나노기기로 구성된 엔지니어링 서브시스템으로 반응로의 에너지 흐름을 개선하여 함선의 파워그리드 용량을 증가시킵니다. 제국의 이미 수세기 전부터 이러한 파워그리드 업그레이드를 개발했으나 테크 III 패러다임에 맞춘 변형은 비교적 최근에 일어난 진보입니다. <br><br>서브시스템 스킬 보너스: <br><br>매 레벨마다 파워그리드 용량 5% 증가",
+    "ru": "Эта подсистема устарела и заменена на продукт новых технологий\n\n\n\nЭта инженерная подсистема, состоящая из бесчисленных наномашин, повышающих эффективность передачи энергии из реактора корабля, позволяет пилоту повысить мощность реактора. Сверхдержавы Нового Эдема уже много веков используют модули оптимизации энергосети, но применение старых идей в парадигме третьей техкатегории позволило достичь прорыва в этой области.\n\n\n\nЗа каждую степень освоения навыка соответствующей подсистемы:<br> \n\nна 5% повышается мощность реактора корабля",
+    "zh": "这个子系统太过老旧，已经被新科技取代。\n\n\n\n由于这个工程子系统中包含的无数纳米机器人能增加舰船反应核心输出的能量，因此舰船的能量栅格便能得到增强。尽管帝国在几个世纪之前就已经完全掌握了能量栅格升级技术，但是将远古的科技应用到新生的三级科技舰船上却还只是最近的突破。\n\n\n\n每等级子系统技能加成： \n\n能量输出增加5%。"
+  },
+  "graphicID": 3636,
+  "groupID": 955,
+  "iconID": 3636,
+  "mass": 1200000.0,
+  "metaGroupID": 14,
   "name": {
     "de": "OLD Legion Engineering - Power Core Multiplier",
     "en": "OLD Legion Engineering - Power Core Multiplier",
@@ -10,5 +24,10 @@
     "ru": "OLD Legion Engineering - Power Core Multiplier",
     "zh": "旧圣卒工程 - 能源核心倍增器"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 500.0,
+  "sofFactionName": "amarrbase",
   "volume": 40.0
 }

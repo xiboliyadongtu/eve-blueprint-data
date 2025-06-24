@@ -1,5 +1,19 @@
 {
-  "typeID": 16025,
+  "basePrice": 500.0,
+  "description": {
+    "de": "Eine außerordentlich seltene, leichte Angriffsrakete, die von Kaalakiota hergestellt wird. Es gibt nur einen sehr geringen Nachschub für diesen Raketentyp - von dem man sagt, es sei eine von den Jove gestohlene Technologie.",
+    "en": "An ultra rare type of Light assault missile, manufactured by Kaalkiota.  A very limited supply of these missiles exists, which are rumored to use stolen Jovian technology.",
+    "es": "Un misil de asalto ligero muy poco común fabricado por Kaalkiota. Se distribuyó una pequeñísima cantidad de estos misiles, de los que se rumorea que usan tecnología joviana robada.",
+    "fr": "Un type de missile d'assaut léger très rare, fabriqué par Kaalakiota.  Le stock existant pour ce type de missile, dont la technologie a soi-disant été dérobée aux Jove, est très limité.",
+    "ja": "カールキオタ製の非常に珍しいライトアサルトミサイル。供給量は大変に少なく、ジョビから盗まれた技術が使われていると噂される。",
+    "ko": "칼라키오타 코퍼레이션이 제작한 라이트 어썰트 미사일입니다. 제한된 숫자만 생산되는 무기로 개발 단계에서 조브 기술이 투입되었다는 소문이 존재합니다.",
+    "ru": "Это крайне редкая разновидность легкой штурмовой ракеты производства Kaalkiota. Поставки таких ракет ограничены. По слухам, при их производстве применяются украденные у Jove технологии.",
+    "zh": "卡拉吉塔集团研制的一种超罕见的轻型攻击导弹。据说这种导弹采用了被窃的朱庇特技术，供应量非常有限。"
+  },
+  "graphicID": 20064,
+  "groupID": 384,
+  "iconID": 190,
+  "mass": 700.0,
   "name": {
     "de": "Decapitator Light Missile",
     "en": "Decapitator Light Missile",
@@ -10,5 +24,8 @@
     "ru": "Decapitator Light Missile",
     "zh": "刽子手轻型导弹"
   },
+  "portionSize": 100,
+  "published": false,
+  "radius": 300.0,
   "volume": 0.015
 }

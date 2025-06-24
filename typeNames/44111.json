@@ -1,5 +1,19 @@
 {
-  "typeID": 44111,
+  "description": {
+    "de": "Zerstreut den Schaden von Energiewaffen auf effiziente Art und Weise, wodurch die Waffe häufiger abgefeuert werden kann.\n\n\n\nNachteil: Bei der Verwendung mehrerer Module des selben oder ähnlichen Typs, welche das selbe Attribut des Schiffes beeinflussen, wird deren Wirksamkeit eingeschränkt.",
+    "en": "Dissipates energy weapon damage efficiently, thus allowing them to be fired more rapidly. \r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",
+    "es": "Disipa el daño de las armas de energía de forma eficiente, lo que les permite una cadencia de tiro más rápida. \n\n\n\nPenalización: Por usar más de un tipo de módulo o módulos similares que afecten al mismo atributo de la nave.",
+    "fr": "Dissipe efficacement les dégâts des armes à énergie au profit d'une cadence de tir plus élevée. Pénalité : l'utilisation de plusieurs modules de même type ou de modules analogues modifiant un même attribut du vaisseau est soumise à une pénalité.",
+    "ja": "エネルギー兵器の発熱を効率良く拡散させることで、より高速に連射できるようにする。 \r\n\nペナルティ: 同じタイプのモジュール、または同じ属性に関係するモジュールを複数取り付けると、ペナルティが発生する。",
+    "ko": "반동으로 인한 충격을 효과적으로 분산시켜 에너지 무기의 연사속도를 향상합니다. <br><br>페널티: 동일한 속성의 모듈 여러 개를 장착할 경우 페널티가 부여됩니다.",
+    "ru": "Эффективно отводит избыточное тепло, что позволяет повысить скорострельность лазерных орудий. \n\n\n\nВнимание! Установка на борт корабля двух и более модулей, влияющих на одну и ту же характеристику корабля, приведёт к снижению эффективности их действия в отношении данной характеристики.",
+    "zh": "能更有效地散去能量武器的积聚热量，从而加快了它们的发射速度。 \n\n\n\n惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。"
+  },
+  "groupID": 205,
+  "iconID": 26453,
+  "marketGroupID": 647,
+  "mass": 1.0,
+  "metaGroupID": 3,
   "name": {
     "de": "Tahron's Custom Heat Sink",
     "en": "Tahron's Custom Heat Sink",
@@ -10,5 +24,8 @@
     "ru": "Tahron's Custom Heat Sink",
     "zh": "塔隆的定制散热槽"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 2363,
   "volume": 5.0
 }

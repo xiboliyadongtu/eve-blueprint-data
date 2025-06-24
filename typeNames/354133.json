@@ -1,5 +1,17 @@
 {
-  "typeID": 354133,
+  "basePrice": 9000.0,
+  "description": {
+    "de": "Dieses Modul lädt im aktivierten Zustand sofort einen Teil der Schild-HP des Fahrzeugs wieder auf.",
+    "en": "Once activated, this module instantly recharges a portion of the vehicle's shield HP.",
+    "es": "Una vez activado, este módulo recarga al instante una parte de los PV del escudo del vehículo.",
+    "fr": "Une fois activé, ce module recharge instantanément une partie des HP des boucliers du véhicule.",
+    "it": "Una volta attivato, questo modulo ricarica istantaneamente una parte dei PS dello scudo del veicolo.",
+    "ja": "一度起動すると、このモジュールは車両のシールドHPの一部を即座にリチャージする。",
+    "ko": "모듈 활성화 시 차량의 실드가 일정 비율 회복됩니다.",
+    "ru": "Будучи активированным, этот модуль мгновенно восстанавливает часть ХП щита транспортного средства.",
+    "zh": "启用后，该装备会立即为载具回充部分护盾值。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Einfacher schwerer Schildbooster",
     "en": "Basic Heavy Shield Booster",
@@ -11,5 +23,7 @@
     "ru": "Модуль накачки тяжелого щита, для ополчения",
     "zh": "基础重型护盾回充增量器"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

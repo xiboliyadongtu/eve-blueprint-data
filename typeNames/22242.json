@@ -1,5 +1,18 @@
 {
-  "typeID": 22242,
+  "basePrice": 75000000.0,
+  "description": {
+    "de": "Skill zur Fertigung von Capital-Schiffen.",
+    "en": "Skill required for the manufacturing of capital ships.",
+    "es": "Habilidad necesaria para fabricar naves capitales estándar.",
+    "fr": "Compétence requise pour la production de vaisseaux capitaux.",
+    "ja": "主力艦の製造に必要なスキル。",
+    "ko": "캐피탈 함선을 제조하는 데 필요한 스킬입니다.",
+    "ru": "Навык, необходимый для производства кораблей большого тоннажа.",
+    "zh": "制造旗舰级舰船所需的技能。"
+  },
+  "groupID": 268,
+  "iconID": 33,
+  "marketGroupID": 369,
   "name": {
     "de": "Capital Ship Construction",
     "en": "Capital Ship Construction",
@@ -10,5 +23,7 @@
     "ru": "Производство КБТ",
     "zh": "旗舰级船只建造研究"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 17629,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieses Industrieschiff der Tayra-Klasse wird zur Zeit gewartet.",
+    "en": "This Tayra-class industrial is currently undergoing maintenance.",
+    "es": "Esta nave industrial de clase Tayra está en mantenimiento.",
+    "fr": "Ce vaisseau industriel de classe Tayra est en cours de maintenance.",
+    "ja": "整備中のタイラ級輸送艦。",
+    "ko": "정비 중인 타이라급 인더스트리얼입니다.",
+    "ru": "Грузовой корабль типа «Тайра», стоящий на ремонте.",
+    "zh": "这艘狐鼬级工业舰正在进行维护。"
+  },
+  "graphicID": 52,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Stationary Tayra",
     "en": "Stationary Tayra",
@@ -10,5 +23,10 @@
     "ru": "Stationary Tayra",
     "zh": "停靠着的狐鼬级"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 313.0,
+  "sofFactionName": "caldaribase",
   "volume": 100000000.0
 }

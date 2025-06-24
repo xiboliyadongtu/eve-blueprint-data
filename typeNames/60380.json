@@ -1,5 +1,18 @@
 {
-  "typeID": 60380,
+  "basePrice": 1250000.0,
+  "description": {
+    "de": "Spezialisierung auf die Aufbereitung von komplexen Erzen. Ermöglicht es einer sachkundigen Person, Aufbereitungsanlagen mit wesentlich höherer Effizienz zu bedienen. 2 % Bonus auf den Aufbereitungsertrag für die folgenden komplexen Erztypen je Skillstufe: Arkonor, Bistot, Spodumain, Eifyrium, Ducinium, Hezorime und Ueganite",
+    "en": "Specialization in Complex Ore reprocessing. Allows a skilled individual to utilize reprocessing facilities at considerably greater efficiency.\r\n\r\n2% bonus to reprocessing yield per skill level for the following Complex Ore types:\r\nArkonor\r\nBistot\r\nSpodumain\r\nEifyrium\r\nDucinium\r\nHezorime\r\nUeganite",
+    "es": "Especialización en reprocesamiento de menas complejas. Permite a un individuo hábil utilizar instalaciones de reprocesamiento de forma considerablemente más eficiente.\r\n\r\n2 % de bonificación al rendimiento del reprocesamiento por nivel de habilidad de los siguientes tipos de menas complejas:\r\nArkonor\r\nBistotina\r\nEspodumain\r\nEifyrium\r\nDucinium\r\nHezorima\r\nUeganita",
+    "fr": "Spécialisation dans le retraitement des minerais complexes. Cette compétence permet d'améliorer considérablement l'efficacité des installations de retraitement. Bonus de 2 % sur le rendement du retraitement par niveau de compétence pour les types de minerai complexes suivants : arkonor, bistot, spodumain, eifyrium, ducinium, hezorime, ueganite",
+    "ja": "複合鉱石の再処理に特化している。このスキルがあれば、再処理施設を利用する際の生産性をいちじるしく上げることができる。\r\n\r\n以下の種類の複合鉱石について、スキルレベル上昇ごとに、再処理収率が2%増加：\r\nアーコナー\r\nビストット\r\nスポデュメイン\r\nエイフィリウム\r\nドゥシニウム\r\nヘゾライム\r\nユイグナイト",
+    "ko": "복합 광물 정제에 특화되었습니다. 정제시설의 효율성이 크게 증가합니다.\r\n\r\n스킬 레벨 당 복합 광물 정제 산출량 2% 증가:\r\n아르카노르\r\n비스토트\r\n스포듀마인\r\n에이피륨\r\n두시늄\r\n헤조라임\r\n유가나이트",
+    "ru": "Специализация в переработке сложной руды. Позволяет тому, кто владеет необходимым навыком, использовать цеха переработки с гораздо большей эффективностью. +2% к эффективности переработки за каждую степень освоения навыка при работе со следующими сложными рудами: арконор, бистот, сподумейн, эйфирий, дачиний, гезорим, уэганит.",
+    "zh": "提炼死亡空间矿石的专业技能。可以大大提高技能熟练者使用提炼设备时的效率。每升一级，下列死亡空间矿石的提炼产出提高2%：艾克诺岩、双多特石、灰岩、艾弗石、杜希石、赫佐利姆、尤加石"
+  },
+  "groupID": 1218,
+  "iconID": 33,
+  "marketGroupID": 1323,
   "name": {
     "de": "Complex Ore Processing",
     "en": "Complex Ore Processing",
@@ -10,5 +23,7 @@
     "ru": "Complex Ore Processing",
     "zh": "死亡空间矿石处理技术"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

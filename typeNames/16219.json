@@ -1,5 +1,18 @@
 {
-  "typeID": 16219,
+  "capacity": 8850.0,
+  "description": {
+    "de": "Mobile Lagereinrichtung",
+    "en": "Mobile Storage",
+    "es": "Almacén móvil",
+    "fr": "Stockage mobile.",
+    "ja": "移動型保管庫",
+    "ko": "이동식 저장고",
+    "ru": "Передвижное хранилище",
+    "zh": "移动贮藏库"
+  },
+  "graphicID": 2301,
+  "groupID": 364,
+  "mass": 100000000.0,
   "name": {
     "de": "Small Storage Array",
     "en": "Small Storage Array",
@@ -10,5 +23,9 @@
     "ru": "Small Storage Array",
     "zh": "小型仓库阵列"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 911.0,
+  "sofFactionName": "genericmetal",
   "volume": 1150.0
 }

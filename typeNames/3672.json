@@ -1,5 +1,16 @@
 {
-  "typeID": 3672,
+  "description": {
+    "de": "Die Griffin wird von der caldarischen Navy häufig als Kampfunterstützungsschiff in Kampfstaffeln verwendet. Dabei wird ihre eindrucksvolle elektronische Ausrüstung dazu verwendet, die Funktionsfähigkeit des Zielschiffes herabzusetzen und es so zu einer leichten Beute für die Kampfschiffe zu machen.",
+    "en": "The Griffin is much used by the Caldari Navy as a support vessel in combat squadrons, using its impressive array of electronic gadgetry to disrupt the operation of target ships, making them easy prey for traditional combat vessels.",
+    "es": "La Griffin es muy utilizada por la Armada Caldari como nave de apoyo en los escuadrones de combate. Además, posee una impresionante variedad de dispositivos electrónicos para perturbar el funcionamiento de las naves objetivo y convertirlas en presa fácil para las naves de combate tradicionales.",
+    "fr": "Le Griffin est très apprécié de la Caldari Navy qui l'utilise comme vaisseau de soutien dans les escadrons de combat. Son large éventail de systèmes électroniques embarqués permet de perturber le fonctionnement des vaisseaux cibles, offrant ainsi le champ libre aux vaisseaux d'attaque conventionnels.",
+    "ja": "グリフィンは戦闘分隊の支援艦としてカルダリ海軍で活躍している。その強力な電子戦装備でターゲット艦船の行動を妨害し、通常の戦闘機がたやすく餌食にできるようにする。",
+    "ko": "칼다리 해군의 지원선으로 주로 사용되는 그리핀은 뛰어난 전자전 장비를 바탕으로 적의 기동을 방해하는 역할을 합니다. 그리핀에 의해 움직임이 묶인 적 함선은 전투형 함선의 먹잇감으로 전락합니다.",
+    "ru": "Griffin часто используется Флотом Caldari в качестве корабля сопровождения в боевых эскадрах. Благодаря впечатляющему электронному оснащению, эти суда способны создавать серьёзные помехи для нормального функционирования кораблей противника, делая их лёгкой добычей для обычных боевых кораблей.",
+    "zh": "狮鹫级常被加达里海军用作战斗中队的支援舰船，它出色的电子设备阵列能干扰目标舰船的运作，使得它们成为常规战斗舰船炮下待宰的羔羊。"
+  },
+  "graphicID": 40,
+  "groupID": 226,
   "name": {
     "de": "Caldari Griffin Frigate",
     "en": "Caldari Griffin Frigate",
@@ -10,5 +21,9 @@
     "ru": "Caldari Griffin Frigate",
     "zh": "加达里狮鹫级护卫舰"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 41.0,
+  "sofFactionName": "caldaribase"
 }

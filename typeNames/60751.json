@@ -1,5 +1,19 @@
 {
-  "typeID": 60751,
+  "basePrice": 500000.0,
+  "description": {
+    "de": "Hierbei handelt es sich um Sicherungskopien verschiedener AEGIES-Personaldateien, die nicht besonders hoch verschlüsselt sind. Gesetzeslose und Kriminelle können korrekte Personaldaten vielseitig einsetzen. Für jene, die daran interessiert sind, Identitäten zu fälschen oder Druck auf ausgewähltes Personal auszuüben, können unter Umständen selbst die kleinsten Details überaus bedeutungsvoll sein. Es hat eine Standardverschlüsselung, aber Piratenorganisationen verwenden nur zu gerne Ressourcen für die Extraktion von Daten mit vielseitigem Nutzen. Diese Sicherungskopien werden auf dem Schwarzmarkt wahrscheinlich einen guten Preis erzielen.",
+    "en": "These are backups of various AEGIS personnel files and are not particularly heavily encrypted. Outlaws and criminals can put accurate personnel data to many uses. Even the small details are potentially highly relevant to those who are interested in spoofing identities or simply putting pressure on select personnel. Standard encryption is being used but pirate organizations will be happy to devote resources to extracting data that has many uses. These backups will likely fetch a decent price on the black market.",
+    "es": "Esto son copias de seguridad de varios archivos de personal de AEGIS y no tienen una encriptación potente. Forajidos y criminales usan datos de personal precisos para muchas cosas. Hasta el detalle más pequeño puede ser relevante para quienes están interesados en suplantar identidades o simplemente presionar al personal seleccionado. Aquí se ha usado una encriptación estándar, pero las organizaciones piratas se alegrarán de dedicar recursos a extraer datos que tengan muchos usos. Es probable que estas copias de seguridad alcancen un buen precio en el mercado negro.",
+    "fr": "Il s'agit de sauvegardes de divers fichiers du personnel d'AEGIS. Ces fichiers ne bénéficient pas d'un cryptage particulièrement important. Les hors-la-loi et les criminels peuvent utiliser des données du personnel précises à diverses fins. Chaque détail, même le plus anodin, est potentiellement utile à ceux qui souhaitent usurper des identités ou simplement faire pression sur certains membres du personnel. Le cryptage standard est appliqué, mais les organisations pirates se feront une joie de consacrer des ressources à l'extraction de données utiles. Ces sauvegardes se vendront probablement à un bon prix sur le marché noir.",
+    "ja": "イージスの様々な人事ファイルのバックアップで、暗号化のレベルはそこまで高くない。アウトローや犯罪者なら、正確な人員データを多くの方法で役立てることができる。他者へのなりすましや単純に特定の相手に圧力をかけることに関心がある人物にとっては、その一部であっても高い価値を持つ可能性がある。平均レベルの暗号が使われているものの、多くの使い道があるデータを抽出するためなら、海賊組織は喜んでリソースを投入すると思われる。つまり、このバックアップはブラックマーケットにおいてそれなりの額で売れるだろう。",
+    "ko": "AEGIS 인시기록을 담은 백업 파일로 비교적 보안이 허술합니다. 범죄 집단은 이와 같은 인적 정보를 다양한 방식으로 활용하고 있으며, 위장 신분을 만들거나 특정한 인물을 압박하기 위해 주로 사용됩니다. 일반적인 수준의 암호화 기술이 걸려있어 해적들이 눈에 불을 켜고 해킹을 시도할 것입니다. 암시장에 정보를 판매할 경우 상당한 수익을 얻을 수 있습니다.",
+    "ru": "В этих резервных файлах, содержащих данные о персонале ЭГИДА, используется достаточно простой метод шифрования. Личные дела всегда пользуются спросом в криминальном мире. Даже незначительные детали могут пригодиться тем, кто подделывает личные данные или хочет оказать давление на определённых работников. Здесь используется стандартное шифрование, но пиратские организации с радостью выделят ресурсы на извлечение данных с таким широким спектром применения. Эти резервные файлы можно довольно выгодно продать на чёрном рынке.",
+    "zh": "这些是统合部紧急干预和安全局各种人事资料的备份，并没有使用特别的加密手段。不法分子有多种手段来利用人事资料数据。即使是细枝末节的信息也可能会引起那些善于伪装他人身份的人的兴趣，或可以用来勒索某些人员。它使用了常规加密手段，海盗组织会很乐意花资源获取其中的数据。这些备份数据能在黑市上卖个好价钱。"
+  },
+  "groupID": 314,
+  "iconID": 10065,
+  "marketGroupID": 2801,
+  "mass": 1.0,
   "name": {
     "de": "AEGIS Personnel File Backups",
     "en": "AEGIS Personnel File Backups",
@@ -10,5 +24,8 @@
     "ru": "AEGIS Personnel File Backups",
     "zh": "统合部紧急干预和安全局人事档案备份"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.1
 }

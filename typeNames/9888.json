@@ -1,5 +1,16 @@
 {
-  "typeID": 9888,
+  "description": {
+    "de": "Ruinen einer Station der Gallente.",
+    "en": "Ruins of a Gallentean station.",
+    "es": "Ruinas de una estación gallente.",
+    "fr": "Ruines d'une station gallente.",
+    "ja": "遺跡となったガレンテのステーション。",
+    "ko": "갈란테 구조물 폐허입니다.",
+    "ru": "Руины станции Gallente.",
+    "zh": "一座盖伦特空间站废墟。"
+  },
+  "graphicID": 3784,
+  "groupID": 226,
   "name": {
     "de": "Gallente Biodome Station Ruins",
     "en": "Gallente Biodome Station Ruins",
@@ -10,5 +21,8 @@
     "ru": "Gallente Biodome Station Ruins",
     "zh": "盖伦特生态空间站废墟"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 7005.0,
+  "sofFactionName": "gallentebase"
 }

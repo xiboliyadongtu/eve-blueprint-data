@@ -1,5 +1,19 @@
 {
-  "typeID": 75934,
+  "capacity": 5000.0,
+  "description": {
+    "de": "Dieser Föderations-Schiffswerfer-Signalfeuer-Konstrukteur baut ein Signalfeuer, das nach seiner Fertigstellung als Ziel für das Interstellare Föderations-Schiffswerfer-Netzwerk dienen kann. Der Interstellare Föderations-Schiffswerfer stellt eine Verbindung zu bis zu drei verfügbaren Signalfeuern an bevorzugt strategisch wichtigen Standorten her, wenn mehr als die maximale Anzahl von Signalfeuern verfügbar ist. Kapselpiloten, die die benötigten Baumaterialien beisteuern möchten, können mit dem Schiffswerfer-Signalfeuer-Konstrukteur interagieren. Beiträge zum Bau des Signalfeuers bringen Loyalitätspunkte bei der Federal Defense Union ein.",
+    "en": "This Federation Shipcaster Beacon Constructor is building a beacon that will be able to function as a destination for the Federation Interstellar Shipcaster network once completed. The Federation Interstellar Shipcaster will link to up to three available beacons, prioritizing those in strategically important locations if there are more than the maximum number of beacons available.\r\n\r\nThe Shipcaster Beacon Constructor can be interacted with by capsuleers wishing to contribute the necessary construction materials. Contributions to the construction of the beacon will earn loyalty points with the Federal Defense Union.",
+    "es": "Este constructor de balizas de lanzadores interestelares de la Federación puede funcionar como destino para la red de lanzadores interestelares de la Federación una vez completado. El lanzador interestelar de la Federación se vinculará con hasta tres balizas disponibles, dando prioridad a aquellas en ubicaciones estratégicamente importantes si hay más balizas disponibles que la cantidad máxima.\r\n\r\nLos capsulistas que deseen contribuir con los materiales de construcción necesarios pueden interactuar con el constructor de balizas de lanzadores interestelares. Las contribuciones a la construcción de la baliza otorgarán puntos de lealtad con la Unión de Defensa Federal.",
+    "fr": "Ce constructeur de balise de lance-vaisseaux de la Fédération construit une balise qui pourra fonctionner comme destination pour le réseau de lance-vaisseaux de la Fédération une fois achevée. Le lance-vaisseaux interstellaire de la Fédération reliera jusqu'à trois balises disponibles, donnant priorité à celles se situant dans des emplacements stratégiques si le nombre de balises disponibles est supérieur à son maximum. Les capsuliers souhaitant contribuer en apportant les matériaux de construction nécessaires peuvent interagir avec le constructeur de balise de lance-vaisseaux. Les contributions à la construction de la balise feront gagner des points de loyauté avec l'Union de défense fédérale.",
+    "ja": "この連邦艦艇キャスタービーコン・コンストラクターは、完成すれば連邦惑星間艦艇キャスターネットワークの目的地として機能するビーコンを建設している。連邦惑星間艦艇キャスターは最大3か所の有効なビーコンにリンク可能で、最大数を超える数のビーコンが有効な場合は戦略的に重要な地点が優先される。\r\n\r\n艦艇キャスタービーコン・コンストラクターは、必要な建設資材を提供する意思があるカプセラが使用することができる。ビーコンの建設に貢献すると、連邦防衛同盟のロイヤルティポイントが手に入る。",
+    "ko": "연방 함선전송기 비컨 제조기가 연방 성간 함선전송망의 목적지로 활용될 비컨을 건설하고 있습니다. 연방 성간 함선전송기는 최대 3개의 비컨과 연계할 수 있습니다. 연결이 필요한 지점이 3개 이상일 경우 연방 성간 함선전송기는 전략적으로 중요한 지점의 비컨과 우선적으로 연계합니다.<br><br>캡슐리어는 함선전송기 비컨 제조기에 필요한 자원을 기부할 수 있습니다. 비컨 건설에 기여하면 연방 유니언 군단의 로열티 포인트가 보상으로 지급됩니다.",
+    "ru": "Этот конструктор маяка галлентского кораблепускателя возводит маяк, который станет одним из пунктов назначения транспортной сети галлентского кораблепускателя. Галлентский межзвёздный кораблепускатель способен подключаться сразу к трём доступным маякам. Если количество доступных маяков превышает максимум, предпочтение отдаётся маякам, находящимся в стратегически важных областях. Капсулёры, желающие внести свой вклад в строительство, могут поместить в конструктор маяка кораблепускателя необходимые материалы. За вклад в строительство маяка пилоты получат наградные баллы от Федерального Союза Обороны.",
+    "zh": "这个联邦舰船弹射台信标建造器正在建造一个信标，建成后可以作为联邦星际舰船弹射台网络的目的地。联邦星际舰船弹射台最多可以连接三个可用的信标，如果可用信标数量超过最大数量，则将优先考虑重要战略位置的信标。希望提供必要建造材料的克隆飞行员可以与舰船弹射台信标建造器进行互动。在联邦防务联合会中，对信标建造做出贡献将获得忠诚点。"
+  },
+  "factionID": 500004,
+  "graphicID": 25928,
+  "groupID": 4548,
+  "mass": 100000.0,
   "name": {
     "de": "Federation Shipcaster Beacon Constructor",
     "en": "Federation Shipcaster Beacon Constructor",
@@ -10,5 +24,10 @@
     "ru": "Federation Shipcaster Beacon Constructor",
     "zh": "联邦舰船弹射台信标建造器"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 6907.0,
+  "sofFactionName": "gallentenavy_upw_trig",
+  "soundID": 20157,
   "volume": 100000000.0
 }

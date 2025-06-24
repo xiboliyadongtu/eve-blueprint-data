@@ -1,5 +1,18 @@
 {
-  "typeID": 22035,
+  "description": {
+    "de": "Ein Standard-Leichensack. Er ist gefüllt.",
+    "en": "A standard issue body bag. It is occupied.",
+    "es": "Una bolsa para cadáveres estándar. Está ocupada.",
+    "fr": "Sac mortuaire standard. Il est occupé.",
+    "ja": "標準型の死体運搬用の袋。中には死体が入っている。",
+    "ko": "사람이 들어갈 수 있는 크기의 자루입니다. 이미 누군가가 들어가 있습니다.",
+    "ru": "Стандартный мешок для перевозки тел. Заполнен.",
+    "zh": "一个标准的装尸袋，它已经被使用。"
+  },
+  "graphicID": 20373,
+  "groupID": 526,
+  "iconID": 398,
+  "mass": 80.0,
   "name": {
     "de": "Body Bag",
     "en": "Body Bag",
@@ -10,5 +23,8 @@
     "ru": "Body Bag",
     "zh": "尸袋"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "medium",
   "volume": 1.0
 }

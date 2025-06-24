@@ -1,5 +1,17 @@
 {
-  "typeID": 23907,
+  "description": {
+    "de": "Diese Sicherheitszutrittskarte ist eine von zweien, die benötigt werden, um an dieser Wachstation vorbei zu kommen.",
+    "en": "This security passcard is one of two needed to pass this sentry station.",
+    "es": "Este pase de seguridad es uno de los dos necesarios para acceder a esta estación centinela.",
+    "fr": "Ce passe d'accès de sécurité est un des deux passes nécessaires pour accéder à cette station sentinelle.",
+    "ja": "このセントリーステーションを通過するのに必要な2枚のセキュリティパスの一つ。",
+    "ko": "센트리 정거장을 통과하기 위해 필요한 두 개의 보안카드 중 한 장입니다.",
+    "ru": "Это секретный пропуск; один из двух, необходимых для входа в сторожевую станцию.",
+    "zh": "要通过该岗哨空间站需要两张安全通行卡，这是其中之一。"
+  },
+  "groupID": 474,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Shiny Sentry Key",
     "en": "Shiny Sentry Key",
@@ -10,5 +22,7 @@
     "ru": "Shiny Sentry Key",
     "zh": "光滑的哨站钥匙"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

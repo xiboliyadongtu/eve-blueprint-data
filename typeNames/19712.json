@@ -1,5 +1,18 @@
 {
-  "typeID": 19712,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Auf einer Menschenfarm werden Menschen gezüchtet.",
+    "en": "The human farm is for farming humans.",
+    "es": "Las granjas de humanos sirven para cultivar humanos.",
+    "fr": "Ferme destinée à élever des humains.",
+    "ja": "人間を飼育する人間農場。",
+    "ko": "인간 목장에서는 인간을 사육합니다.",
+    "ru": "Ферма людей используется для разведения людей.",
+    "zh": "这座人类农场是用来养人的。"
+  },
+  "graphicID": 2707,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "HumanFarm",
     "en": "HumanFarm",
@@ -10,5 +23,10 @@
     "ru": "HumanFarm",
     "zh": "人类农场"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 600.0,
+  "sofFactionName": "bloodraider",
+  "soundID": 20195,
   "volume": 100000000.0
 }

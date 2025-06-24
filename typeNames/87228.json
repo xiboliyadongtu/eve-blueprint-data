@@ -1,5 +1,18 @@
 {
-  "typeID": 87228,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieses Shield Array kann, wenn es mit anderen Arrays koordiniert wird, einen selektiven Schwerkraftschild erzeugen. Dieser Schwerkraftschild dient als unüberwindbare Barriere für unerwünschte Energiewellen oder Materie.",
+    "en": "This shield array, when coordinated with others like it, is capable of generating a selective gravity shield. This gravity shield acts as an impassable barrier to any unwanted energy waves or matter.",
+    "es": "Este sistema de escudo, cuando se coordina con otros similares, es capaz de generar un escudo gravitacional selectivo. Este escudo gravitacional actúa como una barrera infranqueable para cualquier onda de energía o materia no deseada.",
+    "fr": "Ce module de bouclier, lorsqu'il est coordonné avec d'autres, est capable de générer un bouclier de gravité sélective. Ce bouclier gravitationnel fait office de barrière infranchissable à toute onde ou matière énergétique indésirable.",
+    "ja": "同種の設備と連動させることで選択的な重力場を発生させることができるシールドアレイ。発生させた重力シールドは、不要なエネルギー波や物質を通さないバリアとして機能する。",
+    "ko": "다른 실드 장치와 연계해 특정 위치에 중력 실드를 생성할 수 있습니다. 중력 실드는 외부에서 유입되는 모든 에너지 파동 및 물질을 차단하는 장막이 됩니다.",
+    "ru": "Этот комплекс генерации щита при взаимодействии с другими такими же комплексами способен создавать гравитационный щит избирательного действия. Такой гравитационный щит выступает непроницаемым барьером для любых нежелательных энергетических волн и материи.",
+    "zh": "当与其他类似的护盾阵列协同工作时，该护盾阵列能够生成一个具备选择性的重力护盾。这个重力护盾可以充当屏障，阻挡任何不需要的能量波或物质进入。"
+  },
+  "graphicID": 28020,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Ultra-Shield Array",
     "en": "Ultra-Shield Array",
@@ -10,5 +23,9 @@
     "ru": "Ultra-Shield Array",
     "zh": "特强护盾阵列"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 241.0,
+  "sofFactionName": "drifter",
   "volume": 27500.0
 }

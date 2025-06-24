@@ -1,5 +1,18 @@
 {
-  "typeID": 26895,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese Brutstation produziert Minmatar-Kinder, die bereitwillig ihren Platz als Diener für die Amarr einnehmen. Wenn sie die Pubertät erreichen, werden die Jungen fortgeschicktund in die Unterklasse der Gesellschaft der Amarr integriert. Die Mädchen andererseits bleiben zurück. Ihr Platz ist hier, ausgestreckt auf kalten Metalltischen, schweigend und verkrampft. Diese Einrichtung verschleißt ihre Brut, aber das ist in Ordnung, denn für ständigen Nachschub wird gesorgt; immer wieder wird ein Transporter ankommen, der Männer mit kalten Augen und klammen Händen bringt - bereit und willig, bei der Produktion zu helfen.",
+    "en": "This breeding facility produces Minmatar children ready to assume their place as servants to the Amarr. Once they reach puberty, the boys are sent away to take their place amongst the lower classes in Amarr society.\r\n\r\nThe girls, on the other hand, are left behind. Their place is here, stretched out on cold metal tables, silent and tense. The facility wears out its brood, but that's all right; more are created all the time.\r\n\r\nAnd every now and then, a caravan will arrive, carrying men with cold eyes and clammy hands, ready and willing to help with the production.",
+    "es": "Este criadero produce niños minmatarianos listos para asumir su lugar como sirvientes de Amarr. Una vez alcanzan la pubertad, se envía a estos niños a ocupar su lugar entre las clases más bajas de la sociedad amarriana.\n\nLas chicas, en cambio, se quedan atrás. Su lugar está aquí, tendidas sobre frías mesas de metal, silenciosas y tensas. La instalación desgasta a su prole, pero no pasa nada, se crean más todo el tiempo.\n\nY, de vez en cuando, llegará una caravana con hombres de ojos fríos y manos sudorosas listos y dispuestos a ayudar con la producción.",
+    "fr": "Ce centre d'élevage produit des enfants minmatar destinés à servir les Amarr. Lorsqu'ils arrivent à la puberté, les garçons partent vivre parmi les classes les plus défavorisées de la société amarr.\n\nLes filles, quant à elles, restent là, allongées sur les tables de métal dans un silence et une atmosphère de mort. Les pertes du centre sont lourdes mais ça n'a aucune importance : d'autres éléments sont créés sans cesse.\n\nDe temps à autres, une caravane arrive et des hommes aux yeux froids et aux mains moites se portent volontaires pour aider à la production.",
+    "ja": "いつでもアマーの奴隷として奉仕できるミンマターの子供を出荷する繁殖施設。思春期まで売れ残った少年はアマーの下層階級へと追っ払われるが、少女は施設に残される。少女たちは冷たい鉄のテーブルに寝かされて、ひっそりと体をこわばらせている。施設がヒナを使い切ったとしても、新しいヒナがどんどん生まれるのだから問題はない。時折、キャラバンがやってくる。繁殖作業に協力することをいとわない、目も手も冷め切った男たちを乗せて。",
+    "ko": "사육시설에서는 아마르 제국의 종으로 살아가기 위한 민마타 아이들이 양성됩니다. 사춘기가 오면 남자 아이들은 최하층 계급으로서 아마르 사회에 진출하게 됩니다. <br><br>반면의 여자 아이들은 그러한 기회 조차 없습니다. 차가운 테이블 위에서 손발이 묶인 채 정적 속에서 기다리는 것이 그녀들의 운명입니다. 시간이 지나면서 인구수도 줄어들지만 줄어드는 만큼 다시 새롭게 양성됩니다. <br><br>이따금씩 수송선 몇 대가 사육 시설에 정차하며 차가운 눈빛을 지닌 남성들이 내립니다.",
+    "ru": "На этом заводе по разведению рождаются дети Minmatar, которые станут слугами Amarr. После достижения половой зрелости юношей отправляют в низшие классы общества Amarr.\n\nДевушек, напротив, оставляют. Их место здесь, на холодных металлических столах, в тишине. Продукция этого завода быстро изнашивается, но это не страшно; она постоянно обновляется. \n\nИ караваны, прибывающие регулярно, несут мужчин с холодными глазами и липкими руками, жаждущими помочь в производстве.",
+    "zh": "这个繁殖设施专门培育米玛塔尔婴儿，使他们成为可供艾玛人使唤的奴仆。一旦到了少年时期，男孩就会被送到艾玛的下层社会去从事相应的工作。而女孩却都留在这里。她们的工作场所就在这，四肢张开躺在冰冷的金属桌面上，沉默而紧张。这座繁殖设施的繁殖原料都用完了，不过没关系；更多原料一直在源源不断地生产着。这里时不时就会来一支船队，装载着目光冷漠、双手焦躁不安的男人，他们非常愿意协助这里的繁殖活动。"
+  },
+  "graphicID": 2520,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Amarrian Breeding Facility",
     "en": "Amarrian Breeding Facility",
@@ -10,5 +23,9 @@
     "ru": "Amarrian Breeding Facility",
     "zh": "艾玛繁殖设施"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 300.0,
+  "sofFactionName": "genericprison",
   "volume": 100000000.0
 }

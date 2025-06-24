@@ -1,5 +1,17 @@
 {
-  "typeID": 3372,
+  "basePrice": 2000000.0,
+  "description": {
+    "de": "Fertigkeit zur Führung der Aufklärungsabteilung einer Corporation.",
+    "en": "Skill at directing a corporation's espionage division.",
+    "es": "Habilidad en la dirección de la división de espionaje de una corporación.",
+    "fr": "Compétence liée à la direction du service d'espionnage d'une corporation.",
+    "ja": "コーポレーションの諜報部門を指揮するスキル。",
+    "ko": "코퍼레이션의 첩자 부대를 지휘하기 위한 스킬입니다.",
+    "ru": "Навык управления разведывательным отделом корпорации.",
+    "zh": "指挥军团谍报部门的技能。"
+  },
+  "groupID": 266,
+  "iconID": 33,
   "name": {
     "de": "Intelligence Analyst",
     "en": "Intelligence Analyst",
@@ -10,5 +22,7 @@
     "ru": "Анализ разведданных",
     "zh": "情报分析学"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

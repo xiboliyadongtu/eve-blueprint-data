@@ -1,5 +1,19 @@
 {
-  "typeID": 31240,
+  "description": {
+    "de": "Diese Schiffsmodifikation wurde entworfen, um die Effizienz der Datenmodule eines Schiffes zu vergrößern.",
+    "en": "This ship modification is designed to increase the efficiency of a ship's data modules.",
+    "es": "Esta modificación de nave está diseñada para aumentar la eficiencia de los módulos de datos de la nave.",
+    "fr": "Cette modification de vaisseau est conçue pour améliorer l'efficacité des modules de données du vaisseau.",
+    "ja": "データアナライザーモジュールの効率が向上する。",
+    "ko": "리그 장착 시 데이터 모듈의 효율성이 증가합니다.",
+    "ru": "Эта модификация корабля усиливает эффективность действия модулей, предназначенных для извлечения информации.",
+    "zh": "这个飞船改装件用于增加舰船数据分析装备的效率。"
+  },
+  "groupID": 1233,
+  "iconID": 3199,
+  "marketGroupID": 1787,
+  "mass": 200.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Medium Memetic Algorithm Bank I",
     "en": "Medium Memetic Algorithm Bank I",
@@ -10,5 +24,8 @@
     "ru": "Medium Memetic Algorithm Bank I",
     "zh": "中型弥集进化演算法数据库 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 100.0,
   "volume": 10.0
 }

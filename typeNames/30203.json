@@ -1,5 +1,18 @@
 {
-  "typeID": 30203,
+  "capacity": 120.0,
+  "description": {
+    "de": "Das Design dieser Sleeper-Drohne ist identisch mit dem der frühsten Sleeper-Raumschiffe, weshalb anzunehmen ist, dass sie in derselben Phase konstruiert wurde. Gegen ein so stattliches Alter spricht allerdings der unberührte Zustand der Panzerung dieser Drohne. Zumindest müsste sie erst kürzlich aktiviert worden sein, sollte ihr Alter tatsächlich dem ihres Designs entsprechen.",
+    "en": "The design of this Sleeper drone echoes what is believed to be the very earliest Sleeper Starships, suggesting it was perhaps constructed during that period too. Contrasting with its possible age is the unspoiled condition of its armor, suggesting that if it is indeed as ancient as its designers, it has only very recently been put into service.",
+    "es": "El diseño de este dron sleeper recuerda a lo que se cree que fueron las primeras naves estelares sleepers, por lo que puede que se construyera al mismo tiempo. Lo que contrasta con su posible edad es el estado impoluto de su blindaje, que sugiere que, si es tan antiguo como su diseño, no hace mucho que se ha puesto en servicio.",
+    "fr": "La conception de ce drone sleeper renvoie à ce que l'on pense être les tout premiers vaisseaux spatiaux sleeper, laissant penser qu'il a peut-être aussi été construit pendant cette période. Toutefois, son état impeccable contraste avec son âge éventuel, et l'on peut imaginer que s'il est aussi ancien que ses homologues, il n'a peut-être été mis en service que très récemment.",
+    "ja": "このスリーパーのドローンの設計は、スリーパーのごく初期の艦船らしきものと似ており、おそらくその頃に製造されていたと考えられる。アーマーが無傷なことから、設計者と同様に昔に作られたものだが、実際はごく最近使用されたものだと考えられる。",
+    "ko": "이 슬리퍼 드론의 설계형식은 가장 초기 형태의 슬리퍼 우주 함선들로부터 비롯되었으며 제조 시기 또한 같은 세대에 건조된 것으로 전문가들은 추측하고 있습니다. 하지만 상처가 거의 없는 외부 장갑이 이를 반증하고 있어 추측만큼이나 오래된 고대 기체라면 최근에서야 활성화된 것으로 유추할 수 밖에 없습니다.",
+    "ru": "Исходя из внешнего вида этого дрона, ученые предполагают, что он дрон был сконструирован в тот же период, что и самые первые звездные корабли Sleeper. В противоположность тому, что его предполагаемый возраст является неизменным состоянием его доспехов, предполагая, что если он действительно настолько древний, как его дизайнеры, он стал использоваться довольно недавно.",
+    "zh": "从设计上看，这个冬眠者无人机很像最早期的冬眠者星舰。这表明它可能是在那个时期制造的。尽管已经年代久远，但是它的装甲看上去确实非常完好。如果它确实是在它的设计者那个时代制造的，那也肯定是最近才被投入使用的。"
+  },
+  "graphicID": 3536,
+  "groupID": 984,
+  "mass": 10900000.0,
   "name": {
     "de": "Awakened Defender",
     "en": "Awakened Defender",
@@ -10,5 +23,11 @@
     "ru": "Awakened Defender",
     "zh": "苏醒的防卫者"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 64,
+  "radius": 150.0,
+  "sofFactionName": "sleeperbase",
+  "soundID": 12,
   "volume": 109000.0
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 78800,
+  "description": {
+    "de": "Dieser Kontrollknoten des Corporation-Außenpostens registriert die Anwesenheit von Schiffen innerhalb von 30 km. Die Aufrechterhaltung der Kontrolle über diesen Punkt ermöglicht die Einnahme oder Verteidigung des Außenpostens.",
+    "en": "This corporate outpost control hub registers the presence of ships within 30km. Maintaining control of this point will capture or defend the outpost.",
+    "es": "Este centro de control de puesto avanzado corporativo registra la presencia de naves en un radio de 30 kilómetros. Al mantener el control de este punto, capturarás o defenderás el puesto avanzado.",
+    "fr": "Ce poste de commandement d'avant-poste de corporation enregistre la présence de vaisseaux dans un rayon de 30 km. Maintenir le contrôle de ce point permettra de capturer ou de défendre l'avant-poste.",
+    "ja": "このコーポレーションのアウトポストコントロールハブは、周囲30km以内に存在する艦船の存在を検知しており、このポイントの支配権を維持することで、アウトポストを占領、あるいは防衛することができます。",
+    "ko": "30km 이내로 접근한 모든 함선을 포착하는 코퍼레이션 전초기지 제어 허브입니다. 해당 허브를 확보하면 전초기지의 제어권을 획득할 수 있습니다.",
+    "ru": "Этот центр управления форпостом корпорации засекает суда в радиусе 30 км. Те, кто удерживает эту точку, смогут захватить или защитить сам форпост.",
+    "zh": "这座军团哨站控制中心会登记半径范围30km内出现的舰船。若能一直控制此据点，就能占领或保卫这座哨站。"
+  },
+  "graphicID": 26394,
+  "groupID": 922,
+  "mass": 1000000.0,
   "name": {
     "de": "30km Small Corporate Capture Point",
     "en": "30km Small Corporate Capture Point",
@@ -10,5 +22,9 @@
     "ru": "30km Small Corporate Capture Point",
     "zh": "30km内小型军团占领点"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 1500.0,
+  "sofFactionName": "orebase",
   "volume": 1.0
 }

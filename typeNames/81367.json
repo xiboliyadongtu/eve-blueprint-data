@@ -1,5 +1,18 @@
 {
-  "typeID": 81367,
+  "basePrice": 200000000.0,
+  "description": {
+    "de": "Fortgeschrittener Skill in der Ausführung mehrerer gleichzeitiger Sequenzierungsaufträge. Erhöht die maximale Anzahl gleichzeitiger Sequenzierungsaufträge je Skillstufe um 2.",
+    "en": "Advanced skill in running multiple concurrent sequencing jobs.\r\n\r\nIncreases maximum concurrent sequencing jobs by 2 per skill level.",
+    "es": "Habilidad avanzada para ejecutar múltiples trabajos de secuenciación simultáneos.\r\n\r\nAumenta el máximo de trabajos de secuenciación simultáneos a 2 por nivel de habilidad.",
+    "fr": "Compétence avancée pour exécuter plusieurs tâches de séquençage simultanées. Augmente le nombre maximal de tâches de séquençage simultanées de 2 par niveau de compétence.",
+    "ja": "複数のシーケンシングジョブの同時実行に関する上級スキル。\r\n\r\n同時に実行できるシーケンシングジョブの最大数が、スキルレベルが1上がるごとに2個増える。",
+    "ko": "SKIN 각인을 위한 상급 스킬로 동시 각인을 가능하게 합니다.<br><br>스킬 레벨 당 2개씩 추가로 각인 작업을 진행할 수 있습니다.",
+    "ru": "Улучшенный навык одновременного запуска нескольких проектов по генерации последовательности. Увеличивает максимальное количество проектов на 2 за каждую степень освоения.",
+    "zh": "高级技能，可并行处理多个排序任务。每升一级，并行排序项目上限增加2。"
+  },
+  "groupID": 4734,
+  "iconID": 33,
+  "marketGroupID": 3656,
   "name": {
     "de": "Multi-thread Sequencing",
     "en": "Multi-thread Sequencing",
@@ -10,5 +23,7 @@
     "ru": "Многопоточная генерация",
     "zh": "多线程排序"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

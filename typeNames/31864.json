@@ -1,5 +1,21 @@
 {
-  "typeID": 31864,
+  "basePrice": 2000.0,
+  "description": {
+    "de": "Leichte Aufklärungsdrohne",
+    "en": "Light Scout Drone",
+    "es": "Dron de reconocimiento ligero",
+    "fr": "Drone de reconnaissance léger.",
+    "ja": "ライトスカウトドローン",
+    "ko": "라이트 스카우트 드론",
+    "ru": "Легкий разведывательный дрон",
+    "zh": "轻型侦查无人机"
+  },
+  "graphicID": 2947,
+  "groupID": 100,
+  "iconID": 1084,
+  "marketGroupID": 837,
+  "mass": 3000.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Imperial Navy Acolyte",
     "en": "Imperial Navy Acolyte",
@@ -10,5 +26,11 @@
     "ru": "Imperial Navy Acolyte",
     "zh": "帝国海军侍僧"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 15.0,
+  "sofFactionName": "amarrnavy",
+  "variationParentTypeID": 2203,
   "volume": 5.0
 }

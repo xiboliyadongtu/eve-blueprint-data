@@ -1,5 +1,69 @@
 {
-  "typeID": 615,
+  "capacity": 115.0,
+  "description": {
+    "de": "Die Immolator ist ein kleines Schiff, das von der höheren (d.h. unversklavten) Befehlsebene von Sansha's Nation jenen Piloten als Einstieg zur Verfügung gestellt wird, denen Ruhm und Ehre der Nation noch unbekannt sind. Sie ist darauf spezialisiert, kleinere Ziele mit Energiestrahlen abzuschießen.",
+    "en": "The Immolator is a small ship, designed by the upper (read: unslaved) echelon of Sansha's Nation to serve as a good entry for those pilots new to the glory of Nation. It excels in picking off smaller targets and hitting them hard with energy beams.",
+    "es": "La Immolator es una nave pequeña, diseñada por la esfera superior —en otras palabras, la no esclavizada— de Sansha como entrada para los nuevos pilotos en la gloria de la Nación. Destaca contra objetivos más pequeños, a los que fulmina con sus rayos de energía.",
+    "fr": "L'Immolator est un petit vaisseau, conçu par l'échelon supérieur (lire : affranchi) de la Sansha's Nation pour servir de premier vaisseau aux pilotes découvrant la gloire de la Nation. Il excelle dans l'art d'éliminer les petites cibles grâce à ses rayons à énergie.",
+    "ja": "イモレイターは小型艦で、サンシャ国の上層（要するに、奴隷化されていない）階級により、栄光あるサンシャ国の流儀に不慣れなパイロット向けの入門機として設計された。自分より小さな標的をエネルギービームで焼くことに優れている。",
+    "ko": "이몰레이터는 산샤 네이션 고위층이 설계한 소형 함선입니다. 갓 입단한 파일럿들 사이에서 입문용 함선으로 인기가 높습니다. 주 무장은 에너지 빔으로 소형 함선을 대상으로 강력한 위력을 발휘합니다.",
+    "ru": "Учебные корабли типа «Иммолятор» относятся к разряду кораблей малого тоннажа. Этот проект был разработан в верхних (то есть, непорабощенных) эшелонах «Нации Санши», чтобы обеспечить учебными кораблями пилотов, только начинающих свой путь в сиянии славы Санши. Он идеально приспособлен для уничтожения малых целей огнём лазерных орудий.",
+    "zh": "献祭者级是萨沙的上等阶层（没有被奴役的人）设计的一艘小型飞船，对那些新近加入萨沙的飞行员来讲，这是一艘不错的入门舰船。它尤其擅长寻找小型目标，然后用激光炮狠狠地打击对方。"
+  },
+  "factionID": 500019,
+  "graphicID": 341,
+  "groupID": 237,
+  "marketGroupID": 2702,
+  "mass": 1148000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      150,
+      50,
+      85,
+      93,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      150,
+      50,
+      85,
+      93,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      150,
+      50,
+      85,
+      93,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      150,
+      50,
+      85,
+      93,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      150,
+      50,
+      85,
+      118,
+      93,
+      94
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Immolator",
     "en": "Immolator",
@@ -9,6 +73,76 @@
     "ko": "이몰레이터",
     "ru": "Immolator",
     "zh": "献祭者级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 32,
+  "radius": 36.0,
+  "sofFactionName": "sanshabase",
+  "soundID": 20078,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonus": 100,
+        "bonusText": {
+          "de": "Bonus auf den Schaden von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:3303>Small Energy Turret</a> damage",
+          "es": "de bonificación al daño de la <a href=showinfo:3303>torreta de energía pequeña</a>.",
+          "fr": "de bonus aux dégâts des <a href=showinfo:3303>petites tourelles à énergie</a>",
+          "ja": "<a href=showinfo:3303>小型エネルギータレット</a>のダメージが増加",
+          "ko": "<a href=showinfo:3303>소형 에너지 터렛</a> 피해량 증가",
+          "ru": "увеличивается урон <a href=showinfo:3303>малых лазерных орудий</a>",
+          "zh": "<a href=\"showinfo:3303\">小型能量炮台</a>伤害加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 22.5,
+        "bonusText": {
+          "de": "Bonus auf die Nachführungsgeschwindigkeit von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:3303>Small Energy Turret</a> tracking speed",
+          "es": "de bonificación a la velocidad de rastreo de la <a href=showinfo:3303>torreta de energía pequeña</a>.",
+          "fr": "de bonus à la vitesse de poursuite des <a href=showinfo:3303>petites tourelles à énergie</a>",
+          "ja": "<a href=showinfo:3303>小型エネルギータレット</a>の追跡速度が上昇",
+          "ko": "<a href=showinfo:3303>소형 에너지 터렛</a> 트래킹 속도 증가",
+          "ru": "повышается скорость наводки на цель <a href=showinfo:3303>малых лазерных орудий</a>",
+          "zh": "<a href=\"showinfo:3303\">小型能量炮台</a>跟踪速度加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 30,
+        "bonusText": {
+          "de": "Bonus auf die optimale Reichweite von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:3303>Small Energy Turret</a> optimal range",
+          "es": "de bonificación al alcance óptimo de la <a href=showinfo:3303>torreta de energía pequeña</a>.",
+          "fr": "de bonus à la portée optimale des <a href=showinfo:3303>petites tourelles à énergie</a>",
+          "ja": "<a href=showinfo:3303>小型エネルギータレット</a>の最適射程距離が拡大",
+          "ko": "<a href=showinfo:3303>소형 에너지 터렛</a> 최적사거리 증가",
+          "ru": "увеличивается оптимальная дальность ведения огня из <a href=showinfo:3303>малых лазерных орудий</a>",
+          "zh": "<a href=\"showinfo:3303\">小型能量炮台</a>最佳射程加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonus": 22.5,
+        "bonusText": {
+          "de": "Bonus auf die Leistung von <a href=showinfo:3416>Schildboostern</a>",
+          "en": "bonus to <a href=showinfo:3416>Shield Booster</a> amount",
+          "es": "de bonificación a la eficiencia de los <a href=showinfo:3416>potenciadores de escudo</a>.",
+          "fr": "de bonus au montant des <a href=showinfo:3416>boosters de bouclier</a>",
+          "ja": "<a href=showinfo:3416>シールドブースター</a>のブースト量が増加",
+          "ko": "<a href=showinfo:3416>실드 부스터</a> 회복량 증가",
+          "ru": "повышается производительность <a href=showinfo:3416>установок накачки щитов</a>",
+          "zh": "<a href=\"showinfo:3416\">护盾回充增量器</a>回充量加成"
+        },
+        "importance": 4,
+        "unitID": 105
+      }
+    ]
   },
   "volume": 17400.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 12303,
+  "basePrice": 100.0,
+  "description": {
+    "de": "Teile von Energiewaffen, die darauf warten, zu voll funktionsfähigen Ausrüstungsteilen zusammengebaut zu werden.",
+    "en": "Energy weapon parts waiting to be assembled into fully functional equipment.",
+    "es": "Piezas de armas de energía que esperan ser ensambladas en un equipo completamente funcional.",
+    "fr": "Composants d'armes à énergie nécessitant d'être assemblés pour être totalement fonctionnels.",
+    "ja": "エネルギー兵器のパーツ。実際に使用するには組み立てが必要。",
+    "ko": "온전한 장비로 조립되기만을 기다리고 있는 에너지 무기 부품입니다.",
+    "ru": "Части энергетического оружия, готовые к сборке.",
+    "zh": "能源武器零件，将被装配成完整的装备。"
+  },
+  "groupID": 314,
+  "iconID": 2039,
+  "mass": 1.0,
   "name": {
     "de": "Unassembled Energy Weapons",
     "en": "Unassembled Energy Weapons",
@@ -10,5 +23,7 @@
     "ru": "Unassembled Energy Weapons",
     "zh": "未装配的能量武器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 5.0
 }

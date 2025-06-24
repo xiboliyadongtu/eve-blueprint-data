@@ -1,5 +1,19 @@
 {
-  "typeID": 27971,
+  "basePrice": 1000000000.0,
+  "capacity": 7500000.0,
+  "description": {
+    "de": "Ein mittleres Upgrade für das Herstellungspotential von Minmatar-Außenposten. Verringert die Herstellungszeit für alle Module um 40%.",
+    "en": "An intermediate upgrade to Minmatar Outpost manufacturing capabilities. Increases the manufacturing time reduction on all Modules to 40%.",
+    "es": "Mejora intermedia de las capacidades de fabricación en puestos avanzados minmatarianos. Genera una reducción del 40 % del tiempo de fabricación de todos los módulos.",
+    "fr": "Amélioration intermédiaire permettant d'augmenter les capacités de production d'un avant-poste minmatar. Réduit jusqu'à 40 % le temps de production de tous les modules.",
+    "ja": "ミンマターアウトポストの製造力を高めるやや高度なアップグレード。モジュールの製造時間が40%短縮される。",
+    "ko": "민마타 전초기지의 제조 기능을 개선하기 위한 중급 업그레이드입니다. 모듈 제조 시간 40% 감소",
+    "ru": "Промежуточный модуль расширения производственных мощностей станции Minmatar. Уменьшает время производства всех модулей на 40%.",
+    "zh": "针对米玛塔尔哨站生产能力的中级升级方案。所有装备生产时间减少40%。"
+  },
+  "graphicID": 3305,
+  "groupID": 836,
+  "iconID": 3305,
   "name": {
     "de": "Minmatar Outpost Factory Platform",
     "en": "Minmatar Outpost Factory Platform",
@@ -10,5 +24,10 @@
     "ru": "Minmatar Outpost Factory Platform",
     "zh": "米玛塔尔空间站车间平台"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 1000.0,
+  "sofFactionName": "minmatarbase",
   "volume": 750000.0
 }

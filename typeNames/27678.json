@@ -1,5 +1,19 @@
 {
-  "typeID": 27678,
+  "basePrice": 51000000.0,
+  "description": {
+    "de": "Sendet ein elektronisches Schockfeld, das auf das angesetzte Ziel zentriert ist, und unverzüglich die Zielaufschaltung aller Schiffe in Reichweite stört.\n\n\n\nHinweis: Nur Supercarrier können mit Modulen dieses Typs ausgestattet werden. Es kann nur ein Modul dieses Typs je Supercarrier gleichzeitig eingebaut sein.",
+    "en": "Emits an area-of-effect electronic burst, centered on the designated target, which has a chance to momentarily disrupt the target locks of any ship within range.\r\n\r\nNote: Only Supercarriers can fit modules of this type. Only one module of this type can be fit per Supercarrier.",
+    "es": "Emite un estallido electrónico de radio de acción centrado en el objetivo designado que tiene la posibilidad de interrumpir momentáneamente la fijación de objetivos de cualquier nave al alcance.\n\nAviso: La única nave que puede equiparse con este tipo de módulo es el superportanaves, que solo puede tener uno de estos módulos instalados cada vez.",
+    "fr": "Émet une salve électronique à effet de zone, centrée sur la cible désignée, susceptible de perturber momentanément le verrouillage de cible de tous les vaisseaux à portée.\n\n\n\nRemarque : réservé aux super porte-vaisseaux. Un seul module de ce type peut être équipé à la fois par super porte-vaisseaux.",
+    "ja": "指定位置を中心とした範囲攻撃電子バーストを放射し、一定の確率で効果範囲内にいる艦船のロックオン機能を一時的に妨害することができる。注： このタイプのモジュールは大型艦載機母艦にのみ装備可能。このタイプのモジュールは大型艦載機母艦につき一つだけ装備可能。",
+    "ko": "지정된 타겟을 중심으로 광범위 전자 버스트를 방출하여 범위 내 함선들의 타겟팅 시스템을 잠시 동안 교란합니다. <br><br>참고: 슈퍼캐리어급 함선에만 장착이 가능합니다. 동일한 종류의 모델은 한 개만 장착할 수 있습니다.",
+    "ru": "Испускает электронную вспышку с центром на захваченной цели. Вспышка воздействует на все корабли в зоне ее действия и заставляет их сбросить цели.\n\n\n\nПримечание: этот модуль можно устанавливать только на суперКАРы (Supercarrier). На корабль может быть установлен только один модуль этого типа.",
+    "zh": "可发出具有范围效果的电子脉冲，以目标舰船为中心，有一定几率干扰有效范围内所有舰船的目标锁定。\n\n\n\n注：只有超级航母可以装配这类装备。且一艘超级航母只能装配一个这类装备。"
+  },
+  "groupID": 842,
+  "iconID": 21604,
+  "marketGroupID": 2249,
+  "mass": 1000.0,
   "name": {
     "de": "ECM Jammer Burst Projector",
     "en": "ECM Jammer Burst Projector",
@@ -10,5 +24,7 @@
     "ru": "ECM Jammer Burst Projector",
     "zh": "ECM干扰脉冲波投射器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 8000.0
 }

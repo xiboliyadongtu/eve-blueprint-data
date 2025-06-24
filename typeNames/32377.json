@@ -1,5 +1,18 @@
 {
-  "typeID": 32377,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Eine Struktur, die dazu dient, Daten weiterzuleiten, zu verstärken oder zu verschlüsseln. Sie scheint mit voller Leistung zu laufen.",
+    "en": "A structure tasked with relaying, boosting, and encrypting data. It seems to be operating at full capacity.",
+    "es": "Una estructura cuyo cometido es transmitir, potenciar y encriptar datos. Parece funcionar a pleno rendimiento.",
+    "fr": "Une structure chargée de relayer, d'accélérer et de crypter les données. Elle semble fonctionner à plein régime.",
+    "ja": "中継、ブースト、データ暗号化の作業を担っている。容量をフルに使っているようだ。",
+    "ko": "데이터에 대한 증폭, 중계, 그리고 암호화 작업을 진행하는 구조물로 현재 100% 가동된 상태입니다.",
+    "ru": "Сооружение, предназначенное для шифрования, усиления и передачи принятых сигналов. Похоже, что оно работает в полную силу.",
+    "zh": "这个建筑是用来对加密数据的传输进行中继和放大的。看上去它正处于满负荷运转状态。"
+  },
+  "graphicID": 2505,
+  "groupID": 306,
+  "mass": 100000.0,
   "name": {
     "de": "Venal Regional Comms Tower",
     "en": "Venal Regional Comms Tower",
@@ -10,5 +23,9 @@
     "ru": "Venal Regional Comms Tower",
     "zh": "维纳尔星域通讯塔"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 2636.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

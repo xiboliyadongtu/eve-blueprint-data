@@ -1,5 +1,18 @@
 {
-  "typeID": 18021,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Verbindungen innerhalb von Komplexen in Raumverwerfungen dienen sowohl zum Personentransport als auch zur Strukturverstärkung. In dieser Funktion verhindern sie, dass größere Bauelemente auseinander driften.",
+    "en": "Walls inside deadspace complexes both serve as personal transportation lanes between structures, as well as reinforcement tubes to make sure larger structures don't drift away from each other.",
+    "es": "Los muros de los complejos del espacio muerto sirven de ruta de transporte personal de una estructura a otra, así como de tubos de refuerzo para que las estructuras más grandes no se alejen entre sí.",
+    "fr": "Murs situés à l'intérieur des complexes Deadspace et servant à la fois de voies de transport de personnel entre les structures, mais également de renforts pour s'assurer que les grandes structures ne s'éloignent pas les unes des autres.",
+    "ja": "デッドスペースコンプレックスの入り組んだ構造物の間に張り巡らされた壁。個人用の輸送レーンとして利用される。また、大型の構造物が漂流して離ればなれになるのを防ぐ役割も果たしている。",
+    "ko": "데드스페이스 컴플렉스 외벽은 구조물 간의 연결 통로인 동시에 내부 구조물이 우주로 표류하지 않도록 방지하는 역할을 합니다.",
+    "ru": "Стены комплексов дэдспейса служат как средством сообщения между отдельными сооружениями, так и частью скрепляющей их вместе конструкции.",
+    "zh": "死亡空间复合体内的障壁不仅起到了私人运输通道的作用，而且还是建筑间的加固管道，确保较大的建筑不会彼此漂离。"
+  },
+  "graphicID": 2592,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Inactive Drone Sentry",
     "en": "Inactive Drone Sentry",
@@ -10,5 +23,9 @@
     "ru": "Inactive Drone Sentry",
     "zh": "未启动的无人机岗哨炮"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 222.0,
+  "sofFactionName": "roguebase",
   "volume": 100000000.0
 }

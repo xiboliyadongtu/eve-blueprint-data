@@ -1,5 +1,18 @@
 {
-  "typeID": 13323,
+  "capacity": 40.0,
+  "description": {
+    "de": "Dies ist eine unbemannte Drohne. Sie scheint von einem KI-System gesteuert zu werden. Vorsicht ist geboten, wenn Sie sich einem derartigen Fluggerät nähern.\r\n\r\nBedrohungsstufe: Mäßig",
+    "en": "This is an unmanned drone.  It appears to be controlled by an artificial intelligence system.  Caution is advised when approaching such vessels.  Threat level: Moderate",
+    "es": "Este dron no tripulado parece controlado por un sistema de inteligencia artificial. Se recomienda precaución al acercarse a estas naves. Nivel de amenaza: moderado.",
+    "fr": "Il s'agit d'un drone automatique.  Il semble contrôlé par un système d'intelligence artificielle.  Il est préférable de rester sur ses gardes lorsque vous approchez ces vaisseaux.  Niveau de menace : moyen",
+    "ja": "無人ドローン。人工知能システムで操縦されているらしく、接近時は用心しなくてはならない。危険度:普通",
+    "ko": "무인 드론입니다. 인공지능 시스템으로 통제되고 있습니다. 접근 시 주의가 요구됩니다. 위험도: 보통",
+    "ru": "Это беспилотный дрон. Похоже на то, что он контролируется системой искусственного интеллекта. Необходимо соблюдать осторожность при приближении к кораблям подобного рода.  Уровень опасности: Умеренный",
+    "zh": "这是一艘无人驾驶的无人机。它似乎由一种人工智能系统控制。建议在接近此类飞船时小心提防。威胁等级：中等"
+  },
+  "graphicID": 1124,
+  "groupID": 287,
+  "mass": 100000.0,
   "name": {
     "de": "Rogue Drone",
     "en": "Rogue Drone",
@@ -10,5 +23,9 @@
     "ru": "Rogue Drone",
     "zh": "自由无人机"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 45.0,
+  "sofFactionName": "minmatarbase",
   "volume": 60.0
 }

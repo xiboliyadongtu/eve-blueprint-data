@@ -1,5 +1,16 @@
 {
-  "typeID": 3671,
+  "description": {
+    "de": "Die Condor ist schnell und wendig. Sie hat einen sehr begrenzten Frachtraum und ist nicht besonders gut für Handel oder Bergbau geeignet. Sie wird am besten als Angriffsfregatte in Hit-And-Run-Einsätzen verwendet.",
+    "en": "The Condor is fast and agile. It has limited cargo space so it's not very suitable for trading or mining. It is best used as an assault vessel in a hit-and-run type of operations.",
+    "es": "La Condor es rápida y ágil. Tiene un espacio de carga limitado, así que no es muy apta para el comercio o la minería. Resulta más útil como nave de asalto en operaciones relámpago.",
+    "fr": "Le Condor est rapide et maniable. Sa soute étant réduite, il ne convient pas à qui voudrait faire du commerce ou de l'extraction minière. Il est préférable de l'utiliser comme vaisseau d'attaque ou lors de raids éclair.",
+    "ja": "コンドールは高速で敏捷だ。カーゴスペースが小さいため、交易や採掘には向かない。奇襲作戦の強襲型艦船として理想的である。",
+    "ko": "콘도르는 뛰어난 기동력을 보유한 함선입니다. 제한된 적재 공간으로 인해 무역 및 채굴에는 적합하지 않지만, 어썰트 함선의 특성을 지니고 있으며 유격전에서 탁월한 성능을 자랑합니다.",
+    "ru": "Condor быстр и маневренен. Из-за ограниченного объема грузового отсека он не слишком подходит для торговли или добычи. Этот фрегат наиболее эффективен в роли ударного корабля для молниеносных налётов.",
+    "zh": "秃鹫级轻巧敏捷，速度很快。它的货舱空间有限，所以不适合贸易或者开采矿石。它的最佳用途是执行闪电式的突击任务。"
+  },
+  "graphicID": 39,
+  "groupID": 226,
   "name": {
     "de": "Caldari Condor Frigate",
     "en": "Caldari Condor Frigate",
@@ -10,5 +21,9 @@
     "ru": "Caldari Condor Frigate",
     "zh": "加达里秃鹫级护卫舰"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 33.0,
+  "sofFactionName": "caldaribase"
 }

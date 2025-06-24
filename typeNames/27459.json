@@ -1,5 +1,21 @@
 {
-  "typeID": 27459,
+  "basePrice": 15000.0,
+  "description": {
+    "de": "Ein Marschflugkörper der Mordu mit EMP-Sprengkopf und automatisiertem Lenksystem.",
+    "en": "A Mordu cruise missile with an EMP warhead and automatic guidance system.",
+    "es": "Misil de crucero de Mordu con ojiva EMP y sistema de guiado automático.",
+    "fr": "Missile de croisière mordu équipé d'une ogive IEM et d'un système de guidage automatique.",
+    "ja": "EMP弾頭と自動誘導システムを装備したモードゥ式クルーズミサイル。",
+    "ko": "유도시스템과 EMP 탄두가 탑재된 모르두 크루즈 미사일입니다.",
+    "ru": "Дальнобойная ракета легиона Морду с ЭМ-боеголовкой и автоматической системой наводки.",
+    "zh": "一种莫德团巡航导弹，带有EMP弹头和自动导引系统。"
+  },
+  "graphicID": 20041,
+  "groupID": 396,
+  "iconID": 1344,
+  "marketGroupID": 1192,
+  "mass": 1250.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Legion Mjolnir Auto-Targeting Cruise Missile",
     "en": "Legion Mjolnir Auto-Targeting Cruise Missile",
@@ -10,5 +26,9 @@
     "ru": "Legion Mjolnir Auto-Targeting Cruise Missile",
     "zh": "圣卒级雷神自动锁定巡航导弹"
   },
+  "portionSize": 100,
+  "published": true,
+  "radius": 300.0,
+  "variationParentTypeID": 1828,
   "volume": 0.05
 }

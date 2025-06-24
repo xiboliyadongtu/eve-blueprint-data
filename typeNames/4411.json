@@ -1,5 +1,18 @@
 {
-  "typeID": 4411,
+  "basePrice": 600000.0,
+  "description": {
+    "de": "Verbessert den aktiven Maskierungsmodus von Signaturradius-Suppressoren, wodurch eine effizientere Maskierung erreicht wird, die über längere Zeit aufrechterhalten werden kann. Erhöht die Dauer des aktiven Modus von Signaturradius-Suppressoren um 5 % pro Stufe.",
+    "en": "Improves the active masking mode of Signature Radius Suppressors, resulting in more efficient masking that can be maintained for longer periods of time.\r\n\r\nIncreases duration time of Signature Radius Suppressor active mode by 5% per level.",
+    "es": "Mejora el modo de ocultación activo de los supresores de radio de la señal, lo que provoca una ocultación más eficiente que se mantiene durante más tiempo.\n\n\n\nAumenta la duración del modo activo del supresor de radio de la señal un 5 % por nivel.",
+    "fr": "Améliore le mode de masquage actif des suppresseurs de rayon de signature, ce qui se traduit par un masquage plus efficace pouvant être maintenu pendant des durées plus importantes. Augmente la durée du mode actif du suppresseur de rayon de signature de 5 % par niveau.",
+    "ja": "シグネチャ半径サプレッサーのアクティブマスキングモードを改善し、より効率的なマスキングと、長時間の維持が可能となった。\n\n\n\nレベルごとにシグネチャ半径サプレッサーのアクティブモードの持続時間が5%延長する。",
+    "ko": "시그니처 반경 억제기를 개선하여 차폐 모드의 지속시간을 증가시킵니다.<br><br>매 레벨마다 시그니처 반경 억제기의 지속시간이 5% 증가합니다.",
+    "ru": "Улучшает работу подавителей сигнатуры в активном маскировочном режиме, позволяя более эффективно применять маскировку в течение более долгих промежутков времени. Увеличивает время работы подавителей сигнатуры в активном режиме на 5% для каждого уровня.",
+    "zh": "提高信号半径抑制装置的主动效果，使其效率更高，作用时间更长。\n\n\n\n每升一级，信号半径抑制装置的主动模式持续时间提高5%。"
+  },
+  "groupID": 272,
+  "iconID": 33,
+  "marketGroupID": 367,
   "name": {
     "de": "Signature Masking",
     "en": "Signature Masking",
@@ -10,5 +23,7 @@
     "ru": "Signature Masking",
     "zh": "信号抑制"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

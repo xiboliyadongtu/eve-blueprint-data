@@ -1,5 +1,19 @@
 {
-  "typeID": 1436,
+  "description": {
+    "de": "Schaltet bei Aktivierung jedes feindliche Schiff innerhalb der Erfassungsreichweite als Ziel auf. Gewährt einen Bonus von +3 auf die maximalen Ziele des Schiffes, wenn das Modul online ist.",
+    "en": "Targets any hostile ship within range on activation. Grants a +3 bonus to ship's max targets when online.",
+    "es": "Fija una nave hostil cercana al activarse. Otorga un +3 de bonificación al número máximo de objetivos de la nave.",
+    "fr": "Une fois connecté, ce système cible tout vaisseau ennemi à portée. Une fois en ligne, il augmente de 3 le nombre de cibles maximales d'un vaisseau.",
+    "ja": "起動されているときは、範囲内の敵艦全てに自動的にターゲットを合わせる。起動されているときは、船の最大ターゲット数が3つ増加。",
+    "ko": "모듈 활성화 시 사거리 내의 적 함선을 자동으로 타겟팅합니다. 온라인 상태에서 최대 타겟 수 +3",
+    "ru": "При включении модуля: осуществляет автоматическое сопровождение целей, ведущих огонь по кораблю-носителю модуля (в пределах технических возможностей бортовой электроники). При подаче на модуль питания: обеспечивает сопровождение трёх дополнительных целей (сверх максимального количества целей, одновременно сопровождаемых бортовой электроникой).",
+    "zh": "启用后可锁定作用范围内的任意敌对舰船。使用时舰船最大锁定目标增加3个。"
+  },
+  "groupID": 96,
+  "iconID": 26721,
+  "marketGroupID": 670,
+  "mass": 40.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Auto Targeting System II",
     "en": "Auto Targeting System II",
@@ -10,5 +24,8 @@
     "ru": "Auto Targeting System II",
     "zh": "自动锁定系统 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 1182,
   "volume": 5.0
 }

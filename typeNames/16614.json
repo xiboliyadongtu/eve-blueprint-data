@@ -1,5 +1,17 @@
 {
-  "typeID": 16614,
+  "description": {
+    "de": "Diese Mitteilung ist mit dem persönlichen Siegel des Gouverneurs versehen.",
+    "en": "This message is sealed with the personal emblem of the Governor himself.",
+    "es": "Este mensaje está sellado con el emblema personal del mismísimo gobernador.",
+    "fr": "Ce message est scellé avec l'emblème personnel du Gouverneur.",
+    "ja": "総督みずからのエンブレムで封をしてあるメッセージ。",
+    "ko": "총독 개인 문양으로 봉인되어 있는 메시지입니다.",
+    "ru": "Это сообщение опечатано личной печаткой губернатора.",
+    "zh": "这封信被统治者的个人徽章蜡封起来了。"
+  },
+  "groupID": 314,
+  "iconID": 1192,
+  "mass": 1.0,
   "name": {
     "de": "Message from the Governor",
     "en": "Message from the Governor",
@@ -10,5 +22,7 @@
     "ru": "Message from the Governor",
     "zh": "统治者口谕"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

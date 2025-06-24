@@ -1,5 +1,17 @@
 {
-  "typeID": 29299,
+  "description": {
+    "de": "Dieses Signalfeuer markiert eine größere militärische Position. Das Eingangstor ist wahrscheinlich konfiguriert, um alle Schiffe, die nicht der Capital Klasse angehören, passieren zu lassen.",
+    "en": "This beacon marks a major military location. The entry gate is likely configured to admit all non-capital vessels.",
+    "es": "Esta baliza marca una importante sede militar. Es probable que el portal de entrada esté configurado para admitir cualquier nave no capital.",
+    "fr": "Cette balise indique un emplacement militaire majeur. Le portail d'entrée est probablement configuré pour accepter tous les vaisseaux non capitaux.",
+    "ja": "重要な軍事ポイントを識別するビーコン。エントリーゲートは、母艦以外の全ての艦船を受け入れるように設定されている。",
+    "ko": "대규모 군사 훈련지의 위치를 표시하고 있습니다. 캐피탈급 함선은 입장할 수 없습니다.",
+    "ru": "Данный маяк отмечает местоположение важного военного объекта. Доступ через врата разрешен всем кораблям, кроме кораблей большого тоннажа.",
+    "zh": "这个信标标记着一个重要的军事设施。入口通道似乎被设定为允许所有非旗舰级的舰船进入。"
+  },
+  "graphicID": 1211,
+  "groupID": 310,
+  "mass": 1.0,
   "name": {
     "de": "Core Military Beacon",
     "en": "Core Military Beacon",
@@ -10,5 +22,9 @@
     "ru": "Core Military Beacon",
     "zh": "科尔军用信标"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 30000.0,
+  "sofFactionName": "genericbase",
   "volume": 1.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 81366,
+  "basePrice": 40000000.0,
+  "description": {
+    "de": "Grundlegender Skill in der Ausführung mehrerer gleichzeitiger Sequenzierungsaufträge. Erhöht die maximale Anzahl gleichzeitiger Sequenzierungsaufträge auf 2 bei Skillstufe 1 und erhöht dann das Maximum um zusätzliche 2 je Skillstufe.",
+    "en": "Basic skill in running multiple concurrent sequencing jobs.\r\n\r\nIncreases maximum concurrent sequencing jobs to 2 at skill level 1, and then increases the maximum by an additional 2 per skill level.",
+    "es": "Habilidad básica para ejecutar múltiples trabajos de secuenciación simultáneos.\r\n\r\nAumenta el máximo de trabajos de secuenciación simultáneos a 2 en el nivel de habilidad 1 y luego aumenta el máximo en 2 adicionales por nivel de habilidad.",
+    "fr": "Compétence de base pour exécuter plusieurs tâches de séquençage simultanées. Augmente le nombre maximal de tâches de séquençage simultanées à 2 au niveau de compétence 1, puis augmente ce maximum de 2 pour chaque niveau de compétence supplémentaire.",
+    "ja": "複数のシーケンシングジョブの同時実行に関する基本スキル。\r\n\r\n同時に実行できるシーケンシングジョブの最大数がレベル1で2個に増え、スキルレベルが1上がるごとにさらに2個増える。",
+    "ko": "SKIN 각인을 위한 기본 스킬로 동시 각인을 가능하게 합니다.<br><br>스킬 습득 시 2개의 각인 작업을 동시에 진행할 수 있습니다. 스킬 레벨 당 2개씩 추가로 작업이 가능합니다.",
+    "ru": "Базовый навык одновременного запуска нескольких проектов по генерации последовательности. Увеличивает максимальное количество проектов до 2 за 1-ю степень освоения навыка, а затем даёт ещё 2 за каждую степень.",
+    "zh": "初级技能，可并行处理多个排序任务。技能达到1级时，并行排序项目上限增加2，之后每一级将额外增加2。"
+  },
+  "groupID": 4734,
+  "iconID": 33,
+  "marketGroupID": 3656,
   "name": {
     "de": "Parallel Sequencing",
     "en": "Parallel Sequencing",
@@ -10,5 +23,7 @@
     "ru": "Параллельная генерация",
     "zh": "并行排序"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 16857,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Obwohl sie preiswert errichtet wurde, kann diese Raffinerie die meisten Erze mit der gleichen Effizienz verarbeiten wie stationsbasierte Raffinerieplattformen.",
+    "en": "Though built cheaply, this refinery is able to process most ores at the same level of efficiency found on any station-based refinery platform.",
+    "es": "Aunque se construyó con poco presupuesto, esta refinería es capaz de procesar la mayoría de las menas con el mismo nivel de eficiencia de cualquier plataforma de refinería de una estación.",
+    "fr": "Bien que construite à peu de frais, cette raffinerie est capable de traiter la plupart des minerais bruts avec la même efficacité que n'importe quelle plateforme de raffinage en station.",
+    "ja": "安価な割には、ほとんどの鉱石をステーション系精錬プラットフォーム並の品質で処理できる精錬所。",
+    "ko": "본 정제소 건설에는 저예산이 투입됐지만, 타 정거장에 설치된 정제소의 성능에는 뒤떨어지지 않습니다.",
+    "ru": "Несмотря на свою дешевизну, эти фабрики могут перерабатывать большинство руд с той же эффективностью, что и любой станционный завод.",
+    "zh": "虽然造价很便宜，但是这座精炼厂处理大部分矿石的效率与任何基于空间站的精炼平台一样。"
+  },
+  "graphicID": 1709,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Minmatar Deadspace Refining Outpost",
     "en": "Minmatar Deadspace Refining Outpost",
@@ -10,5 +23,10 @@
     "ru": "Minmatar Deadspace Refining Outpost",
     "zh": "米玛塔尔死亡空间精炼站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 330.0,
+  "sofFactionName": "minmatarbase",
   "volume": 100000000.0
 }

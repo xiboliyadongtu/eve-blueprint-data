@@ -1,5 +1,18 @@
 {
-  "typeID": 10655,
+  "capacity": 250.0,
+  "description": {
+    "de": "Dies ist ein Sicherheitsschiff von Mordus Legion. Es patrouilliert in diesem Sektor und wird auf jeden Kampf reagieren, den es entdeckt. Falls nötig, kann dieses Schiff Verstärkung aus den nahegelegenen Sektoren rufen. \r\n\r\nBedrohungsstufe: Tödlich",
+    "en": "This is a security vessel of the Mordu's Legion. It is patrolling this sector and will respond to any combat it detects. It can call in reinforcements from nearby sectors if the need arises. Threat level: Deadly",
+    "es": "Nave de seguridad de la Legión de Mordu que patrulla por este sector y responderá a cualquier combate que detecte. Puede pedir refuerzos de los sectores cercanos si es necesario. Nivel de amenaza: letal.",
+    "fr": "Ceci est un vaisseau de sécurité de la Mordu's Legion. Il est en patrouille dans ce secteur et interviendra dans tout combat qu'il pourra détecter. Au besoin, il peut appeler des renforts des secteurs voisins. Niveau de menace : mortel",
+    "ja": "モードゥ部隊のセキュリティ艦。管轄区域をパトロールし、戦闘行為を探知すると現場へ急行する。緊急時には近隣区域からの援軍を要請することも可能。危険度:致命的",
+    "ko": "모르두 군단의 경비함입니다. 지역을 순찰 중이며 교전 발견 시 즉각 개입합니다. 유사시 근처 지역에서 증원군을 요청합니다. 위험도: 치명적",
+    "ru": "Это корабль сил безопасности Легиона Mordu. Он патрулирует этот сектор и открывает ответный огонь по недружественным объектам. В случае необходимости может вызвать подкрепление из ближайших секторов. Уровень опасности: смертельный",
+    "zh": "这是一艘莫德团的安全船只。它在这个地区中巡逻，会对侦测到的任何战斗做出响应。如果形势需要，它会呼叫邻近区域的增援部队。威胁等级：致命的"
+  },
+  "graphicID": 1894,
+  "groupID": 288,
+  "mass": 10100000.0,
   "name": {
     "de": "Mordu's Legion",
     "en": "Mordu's Legion",
@@ -10,5 +23,11 @@
     "ru": "Mordu's Legion",
     "zh": "莫德团 军士"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 199.86,
+  "sofFactionName": "ishukone",
+  "soundID": 30,
   "volume": 101000.0
 }

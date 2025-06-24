@@ -1,5 +1,18 @@
 {
-  "typeID": 34508,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dies sieht wie eine Lagereinheit unbekannten Ursprungs aus. Genaue Analysen könnten weitere Details enthüllen.",
+    "en": "This look like a storage device of unknown origin. Detailed analysis might reveal more.",
+    "es": "Parece un dispositivo de almacenamiento de origen desconocido. Puede que un análisis detallado revele más.",
+    "fr": "Cette structure ressemble à un ancien dispositif de stockage de données d'origine inconnue. Une analyse détaillée pourrait vous en apprendre plus.",
+    "ja": "起源不明の貯蔵装置のようだ。詳しく分析すれば、より細かなことが分かるかもしれない。",
+    "ko": "근원이 불분명한 데이터 보관소입니다. 정밀 분석을 통해 추가 정보를 습득할 수 있습니다.",
+    "ru": "Это похоже на древнее устройство хранения данных неизвестного происхождения. Детальный анализ может больше помочь.",
+    "zh": "这看上去像一个来源不明的储藏装置。对其进行详细分析可能有助于进一步了解。"
+  },
+  "graphicID": 1684,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Barbican Delta Access Unit",
     "en": "Barbican Delta Access Unit",
@@ -10,5 +23,10 @@
     "ru": "Barbican Delta Access Unit",
     "zh": "碉堡德尔塔接入单元"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 64,
+  "radius": 320.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

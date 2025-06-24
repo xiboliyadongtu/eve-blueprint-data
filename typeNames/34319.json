@@ -1,5 +1,17 @@
 {
-  "typeID": 34319,
+  "description": {
+    "de": "33,3% Bonus auf alle Panzerungsresistenzen\n33,3% Reduktion des Signaturradius des Schiffs",
+    "en": "33.3% bonus to all armor resistances\r\n33.3% reduction in ship signature radius",
+    "es": "33,3 % de bonificación a todas las resistencias de blindaje.\n\n33,3 % de reducción del radio de la señal de la nave.",
+    "fr": "33 % de bonus à toutes les résistances de blindage\nréduit de 33,3% le rayon de signature du vaisseau.",
+    "ja": "全てのアーマーレジスタンスが33.3%増加\n艦船のシグネチャ半径が33.3%縮小",
+    "ko": "장갑 저항력 33.3% 증가<br>함선 시그니처 반경 33.3% 감소",
+    "ru": "на 33,3% повышается сопротивляемость брони корабля всем видам воздействия\nна 33,3% уменьшается размер сигнатуры корабля",
+    "zh": "装甲抗性提高33.3%\n船只信号半径降低33.3%"
+  },
+  "groupID": 1306,
+  "iconID": 1042,
+  "mass": 100.0,
   "name": {
     "de": "Confessor-Verteidigungsmodus",
     "en": "Confessor Defense Mode",
@@ -10,5 +22,9 @@
     "ru": "Confessor Defense Mode",
     "zh": "忏悔者级防御模式"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 50.0,
   "volume": 5.0
 }

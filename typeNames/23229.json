@@ -1,5 +1,16 @@
 {
-  "typeID": 23229,
+  "description": {
+    "de": "Eine Kreuzung - ein Blind Date.",
+    "en": "A junction. Blind date.",
+    "es": "Un cruce. Una cita a ciegas.",
+    "fr": "Une jonction. Restez sur vos gardes.",
+    "ja": "ジャンクション。素敵な出会いがあるかも。",
+    "ko": "교차지입니다. 인연은 외나무 다리에서 만난다.",
+    "ru": "Соединение. Неожиданная развилка.",
+    "zh": "汇合处。初次约会。"
+  },
+  "graphicID": 2498,
+  "groupID": 226,
   "name": {
     "de": "Fortified Serpentis Junction",
     "en": "Fortified Serpentis Junction",
@@ -10,5 +21,9 @@
     "ru": "Fortified Serpentis Junction",
     "zh": "强化的天蛇集团节点"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 330.0,
+  "sofFactionName": "serpentis"
 }

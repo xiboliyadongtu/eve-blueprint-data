@@ -1,5 +1,16 @@
 {
-  "typeID": 14477,
+  "description": {
+    "de": "Diese Anzeigetafel scheint bei einem schon lange vergessenen Gefecht zerstört worden zu sein.",
+    "en": "This billboard seems to have been destroyed in some long forgotten skirmish.",
+    "es": "Este cartel parece haber sido destruido en alguna escaramuza olvidada.",
+    "fr": "Ce panneau d'affichage semble avoir été détruit au cours d'une escarmouche dont plus personne ne se souvient.",
+    "ja": "広告掲示板。かなり昔の紛争中に破壊されてしまっている。",
+    "ko": "오래전 벌어졌던 스커미시 교전으로 인해 파괴된 전광판입니다.",
+    "ru": "Эта доска объявлений была уничтожена в каком-то далеком сражении.",
+    "zh": "这块标牌似乎在一场早已忘却的冲突中被毁了。"
+  },
+  "graphicID": 2369,
+  "groupID": 226,
   "name": {
     "de": "Ruined Neon Sign",
     "en": "Ruined Neon Sign",
@@ -10,5 +21,8 @@
     "ru": "Ruined Neon Sign",
     "zh": "霓虹灯废墟"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 650.0,
+  "sofFactionName": "smuggler"
 }

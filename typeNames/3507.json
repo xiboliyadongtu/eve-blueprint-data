@@ -1,5 +1,17 @@
 {
-  "typeID": 3507,
+  "description": {
+    "de": "Dieses kleine Gerät wird zum Übertragen von spezifischen Informationen und Befehlen bezüglich Flottenbewegungen und taktischer Standortwechsel benutzt. Aufgrund der kritischen Natur dieser Übertragungen, haben die Streitkräfte von Sansha's Nation mehrschichtige Verschlüsselungen zur Benutzung entwickelt. Damit sich ein TRT über Streitkräfte vor Ort hinwegsetzen kann, muss er zunächst auf die korrekte Frequenz eingestellt und anschließend von einem Kontroll-Nexus zu einem Relais physisch verschoben werden.",
+    "en": "This small device is used to transmit specific information and commands relating to fleet movements and tactical relocations. Due to the critical nature of such transmissions, Sansha forces have developed layered security measures for their use. In order for a TRT to override local forces, the transmitter must first be set to the correct frequencies and then physically relocated from a control nexus to a relay.",
+    "es": "Este pequeño dispositivo se usa para transmitir información y órdenes específicas relacionadas con los movimientos de la flota y las reubicaciones tácticas. Debido a la naturaleza crítica de estas transmisiones, las fuerzas sanshas han desarrollado medidas de seguridad para su uso. Para que una TRT anule las fuerzas locales, primero debe configurarse el transmisor a las frecuencias correctas y luego reubicarlo físicamente desde un nexo de control a un repetidor.",
+    "fr": "Ce petit dispositif est utilisé pour transmettre des informations spécifiques et des commandes liées aux mouvements de la flotte et aux re-déploiements tactiques. En raison de la nature critique de ces transmissions, les forces sansha ont mis au point des mesures de sécurité spéciales pour les utiliser. Pour qu'un transmetteur de réponse tactique parvienne à outrepasser les forces locales, l'appareil doit tout d'abord être défini sur les bonnes fréquences, puis physiquement redéployé d'une liaison de contrôle à un relais.",
+    "ja": "フリートの移動や戦略的な配置変えに関する情報やコマンドを転送するのに使用される小さなデバイス。サンシャ軍は、通信の機密性を保つために幾層ものセキュリティ対策を開発している。TRTを使用して現地部隊を無効にするには、まず正しい周波数を設定し、次に中継の制御関係から物理的に再配置する必要がある。",
+    "ko": "함대 경로 및 전술 배치에 관한 명령을 전송하는데 사용되는 소형 장치입니다. 정보 유출을 염두에 둔 산샤는 해당 장치에 특수 보안 대책을 실시하였습니다. 전술 송신기를 사용하기 위해서 올바른 주파수를 설정해야만 하며 그 이후 관제 넥서스에서 통신소로 직접 전송을 실시해야 합니다.",
+    "ru": "Это малогабаритное устройство используется для управления перемещением флотов и их тактическим развертыванием путем передачи соответствующих команд и сопутствующей информации. Ввиду чрезвычайной важности передач такого рода безопасность этих устройств обеспечивается многоуровневой системой защиты. Для управления флотами Sansha передатчик нужно не только настроить на строго определенную частоту, но и подключить непосредственно к антенному комплексу; для этого его придется вынести из помещения координационного центра.",
+    "zh": "这个小型设备用来传递与舰队行动和战术移位相关的具体信息与指令。鉴于此类信息的重要性，萨沙设计了多层安全防范措施。为了让战术应答机能够防止信息劫持，它必须先被调到一个正确的频率，然后从控制中枢转移到一个中继器里。"
+  },
+  "groupID": 526,
+  "iconID": 1362,
+  "mass": 5000.0,
   "name": {
     "de": "Tactical Response Transmitter",
     "en": "Tactical Response Transmitter",
@@ -10,5 +22,7 @@
     "ru": "Tactical Response Transmitter",
     "zh": "战术应答机"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 7500.0
 }

@@ -1,5 +1,75 @@
 {
-  "typeID": 629,
+  "basePrice": 8000000.0,
+  "capacity": 450.0,
+  "description": {
+    "de": "Die Rupture ist ziemlich langsam für ein Minmatar-Schiff und muss deshalb an anderer Stelle die Muskeln spielen lassen. Sie besitzt massive Feuerkraft und verteidigt Raumstationen sowie andere stationäre Objekte der Republik Minmatar. In Angriffsformationen behauptet sie sich gleichermaßen.",
+    "en": "The Rupture is slow for a Minmatar ship, but it more than makes up for it in power. The Rupture has superior firepower and is used by the Minmatar Republic both to defend space stations and other stationary objects and as part of massive attack formations.",
+    "es": "Para ser minmatariana, la Rupture es una nave lenta, pero esa carencia la compensa con creces con su potencia. La Rupture tiene una potencia de fuego superior y sirve a la República Minmatar para defender estaciones espaciales y objetos estacionarios dentro de enormes formaciones de ataque.",
+    "fr": "Le Rupture est relativement lent pour un vaisseau minmatar, mais il compense largement ce handicap par sa puissance. Doté d'une importante puissance de feu, le Rupture est utilisé par la République minmatar pour défendre les stations spatiales et d'autres objets stationnaires. Il fait également partie des grandes formations d'attaque.",
+    "ja": "ラプチャーは、ミンマターの船としては低速だが、それを補うだけの攻撃力を持つ。その優れた火力のため、ミンマター共和国では宇宙ステーションをはじめとする固定施設の防衛や、大規模襲撃艦隊の火力艦として採用される。",
+    "ko": "럽쳐는 민마타 함선치고 느리지만 이를 보상하고도 남을 막강한 화력을 가졌습니다. 우주 정거장을 방어하거나 공세적 함대 편성 시에 주로 활용됩니다.",
+    "ru": "Крейсер типа «Рапчер» — относительно медленный, но достаточно крепкий и мощный корабль в рядах матарской космической техники. «Рапчер» обладает убойной огневой мощью и используется Республикой Минматар как для обороны космических станций и других неподвижных объектов, так и в составе больших ударных групп.",
+    "zh": "断崖级巡洋舰比一般的米玛塔尔飞船要慢，但用其火力弥补了这一弱点。由于断崖级拥有极其强大的火力，米玛塔尔共和国用这种飞船来保护空间站等固定设施，并将其编入大规模攻击编队。"
+  },
+  "factionID": 500002,
+  "graphicID": 302,
+  "groupID": 26,
+  "marketGroupID": 73,
+  "mass": 12200000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      164,
+      72,
+      141,
+      150,
+      89,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      164,
+      72,
+      141,
+      150,
+      89,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      164,
+      72,
+      141,
+      150,
+      89,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      164,
+      72,
+      141,
+      150,
+      89,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      164,
+      72,
+      141,
+      117,
+      150,
+      89,
+      94
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Rupture",
     "en": "Rupture",
@@ -9,6 +79,50 @@
     "ko": "럽쳐",
     "ru": "Rupture",
     "zh": "断崖级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 88.0,
+  "sofFactionName": "minmatarbase",
+  "soundID": 20077,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [],
+    "types": {
+      "3333": [
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3305>mittleren Projektilgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3305>Medium Projectile Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3305>torreta de proyectiles mediana</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:3305>tourelles à projectiles intermédiaires</a>",
+            "ja": "<a href=showinfo:3305>中型プロジェクタイルタレット</a>のダメージにボーナス",
+            "ko": "<a href=showinfo:3305>중형 발사체 터렛</a> 피해량 증가",
+            "ru": "бонус к урону <a href=showinfo:3305>средних баллистических орудий</a>",
+            "zh": "<a href=showinfo:3305>中型射弹炮台</a>伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Nachführungsgeschwindigkeit von <a href=showinfo:3305>mittleren Projektilgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3305>Medium Projectile Turret</a> tracking speed",
+            "es": "de bonificación a la velocidad de rastreo de la <a href=showinfo:3305>torreta de proyectiles mediana</a>.",
+            "fr": "de bonus à la vitesse de poursuite de la <a href=showinfo:3305>tourelle à projectiles intermédiaires</a>",
+            "ja": "<a href=showinfo:3305>中型プロジェクタイルタレット</a>の追跡速度にボーナス",
+            "ko": "<a href=showinfo:3305>중형 발사체 터렛</a> 트래킹 속도 증가",
+            "ru": "бонус к скорости наведения <a href=showinfo:3305>средних баллистических орудий</a>",
+            "zh": "<a href=showinfo:3305>中型射弹炮台</a>跟踪速度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 96000.0
 }

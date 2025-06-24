@@ -1,5 +1,18 @@
 {
-  "typeID": 3455,
+  "basePrice": 45000.0,
+  "description": {
+    "de": "Skill zur effektiven Verwaltung des Warpantriebs. 10% Reduktion des Energiespeicherbedarfs bei Warpeinleitung je Skillstufe.",
+    "en": "Skill at managing warp drive efficiency. 10% reduction in capacitor need of initiating warp per skill level.",
+    "es": "Habilidad para gestionar la eficiencia de los motores de warp. 10 % de reducción a la necesidad del condensador de iniciar un warp por nivel de habilidad.",
+    "fr": "Compétence liée à la gestion de l'efficacité du propulseur de warp. réduit de 10% par niveau les besoins énergétiques du capaciteur pour effectuer un warp.",
+    "ja": "ワープドライブの効率を管理するスキル。スキルレベルごとにワープ開始に必要なキャパシタが10％減少する。",
+    "ko": "워프 드라이브의 효율성을 향상시키기 위한 스킬입니다. 매 레벨마다 워프 드라이브의 캐패시터 사용량 10% 감소",
+    "ru": "Навык эффективного использования варп-двигателя. За каждую степень освоения навыка: на 10% снижается расход энергии накопителя на запуск варп-двигателя.",
+    "zh": "管理跳跃引擎效率的技能。每升一级，启动跃迁的电容需求降低10%。"
+  },
+  "groupID": 275,
+  "iconID": 33,
+  "marketGroupID": 374,
   "name": {
     "de": "Warp Drive Operation",
     "en": "Warp Drive Operation",
@@ -10,5 +23,7 @@
     "ru": "Варп-двигатели",
     "zh": "跃迁引擎操控基础"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

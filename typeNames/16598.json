@@ -1,5 +1,18 @@
 {
-  "typeID": 16598,
+  "basePrice": 3500000.0,
+  "description": {
+    "de": "Fertigkeit zum Verkauf von Gegenständen aus der Entfernung. Jede Stufe vergrößert die Reichweite vom Verkäufer zum Artikel, der verkauft wird.\r\n\r\nStufe 1 ermöglicht den Verkauf von Gegenständen innerhalb desselben Sonnensystems, Stufe 2 erweitert die Reichweite zu Systemen innerhalb von 5 Sprüngen, und jede weitere Stufe verdoppelt die Reichweite. Stufe 5 erlaubt den Verkauf von Gegenständen innerhalb der gegenwärtigen Region.",
+    "en": "Skill at selling items remotely. Each level increases the range from the seller to the item being sold. Level 1 allows for the sale of items within the same solar system, Level 2 extends that range to systems within 5 jumps, and each subsequent level then doubles it. Level 5 allows for sale of items located anywhere within current region.",
+    "es": "Habilidad en la venta de artículos de forma remota. Cada nivel aumenta la distancia desde el vendedor hasta el objeto que se vende. El nivel 1 permite la venta dentro del mismo sistema solar; el nivel 2 amplía el alcance a los sistemas situados en un radio de 5 saltos, y cada nivel posterior lo dobla. El nivel 5 permite la venta de objetos situados en cualquier lugar de la región actual.",
+    "fr": "Compétence liée à la vente des objets à distance. Chaque niveau augmente la distance maximale possible entre le vendeur et l'objet vendu. Le niveau 1 permet de vendre des objets à l'intérieur d'un même système solaire. Le niveau 2 permet de vendre des objets dans les systèmes situés dans un rayon de 5 sauts, et cette limite est multipliée par deux à chaque niveau suivant. Le niveau 5 permet de vendre des objets n'importe où dans la région actuelle.",
+    "ja": "遠隔からアイテムを売るためのスキル。レベルが上がるごとに、売主とアイテムとの距離が伸びる。レベル 1 では同じソーラーシステム内、レベル 2 では 5 ジャンプで移動できるソーラーシステム内にあるアイテムを売ることができ、以降はレベルが上がるたびにこの距離が倍になる。レベル 5 では、現在のリージョン内にあるアイテムであればどれでも遠隔から売ることができるようになる。",
+    "ko": "원격 판매를 위한 스킬입니다. 매 레벨마다 원격 판매 가능한 거리가 증가합니다. 레벨 1일 경우 동일한 항성계 내에서, 레벨 2일 경우 점프 5회 이내의 항성계 내에서 원격 판매가 가능합니다. 이후 원격 판매 가능 거리는 매 레벨마다 두 배로 증가합니다. 레벨 5는 동일한 지역 내의 어느 곳에서나 아이템 판매가 가능합니다.",
+    "ru": "Навык удаленной продажи. Каждая степень позволяет увеличить расстояние от продавца до продаваемой единицы товара. Первая степень позволяет продавать товары в пределах той же планетной системы. Вторая степень увеличивает дальность охвата до 5 переходов через гиперворота, и при переходе на каждый последующий уровень это расстояние удваивается. Уровень 5 позволяет продавать товары в любой точке данного сектора.",
+    "zh": "远程出售物品的技能。每升一级，都会增加卖家和欲售物品间的允许距离。等级1允许卖家出售在同一恒星系内的物品，等级2扩大到5个跳跃内的星系，随后每个等级加倍。等级5时可以出售位于当前星域内任何地方的物品。"
+  },
+  "groupID": 274,
+  "iconID": 33,
+  "marketGroupID": 378,
   "name": {
     "de": "Marketing",
     "en": "Marketing",
@@ -10,5 +23,7 @@
     "ru": "Маркетинг",
     "zh": "市场学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

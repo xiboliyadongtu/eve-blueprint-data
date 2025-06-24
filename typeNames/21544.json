@@ -1,5 +1,17 @@
 {
-  "typeID": 21544,
+  "description": {
+    "de": "Eine kleine Wanze, die an Schiffen angebracht werden kann, um Übertragungen abzufangen und an Dritte weiterzuleiten. Diese hier ist defekt und kann nichts mehr weiterleiten. Allerdings kann sie immer noch Daten speichern.",
+    "en": "A small bug device that can be planted on ships to intercept transmissions and relay them to a third person. This one is broken and can't relay anything, though it can still store data.",
+    "es": "Un pequeño dispositivo de escucha que se puede colocar en naves para interceptar transmisiones y transmitirlas a terceros. Está roto y no puede transmitir nada, aunque puede almacenar datos.",
+    "fr": "Micro espion pouvant être implanté sur les vaisseaux afin d'intercepter les transmissions et les transmettre à un tiers. Celui-ci est cassé et ne peut plus rien transmettre, mais il peut encore contenir des données.",
+    "ja": "船に仕掛けてその船の通信を傍受し、別の船へ転送できる小型盗聴器。故障しているため通信データの転送はできないが、データ格納は可能。",
+    "ko": "함선에 부착시켜 통신을 도청한 뒤 제3자에게 기록을 전달하는 도청장치입니다. 고장이 나 도청 내용을 전달할 수는 없지만, 저장은 할 수 있습니다.",
+    "ru": "Маленький жучок, который устанавливается на корабль для перехвата трансмиссий и передачи их третьему лицу. Этот, похоже, сломан. Он уже ничего не может передать, но еще способен хранить информацию.",
+    "zh": "一个小的窃听装置，可以安置在飞船上进行窃听，并且把信息转播给第三方。不过这个已经损坏，不能发送任何信息，但它依然可以存储数据。"
+  },
+  "groupID": 526,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Broken Bug Device",
     "en": "Broken Bug Device",
@@ -10,5 +22,7 @@
     "ru": "Broken Bug Device",
     "zh": "损坏的监听器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

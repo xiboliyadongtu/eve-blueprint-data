@@ -1,5 +1,21 @@
 {
-  "typeID": 24494,
+  "basePrice": 126160.0,
+  "description": {
+    "de": "Ein ungelenkter Plasma-Sprengkopf für den Einsatz aus schweren Angriffslenkwaffen-Werfern. Schwere Angriffslenkwaffen können auf Kosten der effektiven Reichweite in schnellerer Abfolge als Schwere Lenkwaffen abgefeuert werden. \n\n\n\nEine modifizierte Version der Inferno Heavy Assault Missile. Kann höhere Geschwindigkeiten als die Inferno Heavy Assault Missile auf Kosten der Größe des Sprengkopfs erreichen.",
+    "en": "A plasma warhead designed for use with heavy assault launchers. Heavy assault missiles can be fired at a greater rate than heavy missiles, at the expense of effective range. \r\n\r\nA modified version of the Inferno Heavy Assault Missile. It can reach higher velocity than the Inferno Heavy Assault Missile at the expense of warhead size.",
+    "es": "Ojiva de plasma diseñada para usarse con lanzamisiles de asalto pesados. La frecuencia de disparo de los misiles de asalto pesados es mayor que con los misiles pesados normales en perjuicio del alcance efectivo.\n\nVersión modificada del misil de asalto pesado Inferno. Puede alcanzar más velocidad que el misil de asalto pesado Inferno a costa del tamaño de su ojiva.",
+    "fr": "Missile à ogive plasma conçu pour être installé sur des lanceurs d'assaut lourds. Les missiles d'assaut lourds peuvent être tirés à une cadence supérieure à celle des missiles lourds, mais leur portée est réduite. \n\nVersion modifiée du missile d'assaut lourd Inferno. Il peut atteindre une vitesse plus élevée que le missile d'assaut lourd Inferno, aux dépens toutefois de la taille de l'ogive.",
+    "ja": "プラズマ弾頭を搭載したミサイル。ヘビーアサルトランチャー用。ヘビーアサルトミサイルはヘビーミサイルより連射性に優れるが、その代わり有効射程が短い。\n\n\nインフェルノヘビーアサルトミサイルの改良版。従来型より速度が向上したが、そのぶん弾頭が小さめになっている。",
+    "ko": "헤비 어썰트 미사일 런처에 탑재되는 플라즈마 탄두입니다. 헤비 어썰트 미사일은 헤비 미사일에 비해 발사 속도가 빠르지만 최적사거리가 상대적으로 짧습니다. <br><br>개량된 인페르노 헤비 어썰트 미사일입니다. 기존의 인페르노 헤비 어썰트 미사일에 비해 탄두 크기가 작아진 대신 최대 비행속도가 증가했습니다.",
+    "ru": "Неуправляемая плазменная боеголовка, разработанная для использования с тяжелыми штурмовыми пусковыми установками. Пусковой цикл у тяжелых штурмовых ракет короче, чем у обычных тяжелых ракет, но при этом они имеют меньшую дальность полета. Модифицированная версия тяжелой штурмовой ракеты Inferno. Способна развивать более высокую скорость, чем тяжелая штурмовая ракета Inferno, но отличается уменьшенным размером заряда.",
+    "zh": "重型攻击导弹发射器使用的等离子弹头。重型攻击导弹比重型导弹射速更快，但这是以牺牲有效射程作为代价的。这是炼狱重型攻击导弹的一种改良版本，它相比炼狱重型攻击导弹而言飞行速度更快，但代价是弹头尺寸变小。"
+  },
+  "graphicID": 20052,
+  "groupID": 654,
+  "iconID": 3235,
+  "marketGroupID": 972,
+  "mass": 625.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Inferno Javelin Heavy Assault Missile",
     "en": "Inferno Javelin Heavy Assault Missile",
@@ -10,5 +26,9 @@
     "ru": "Inferno Javelin Heavy Assault Missile",
     "zh": "炼狱标枪重型攻击导弹"
   },
+  "portionSize": 5000,
+  "published": true,
+  "radius": 300.0,
+  "variationParentTypeID": 20308,
   "volume": 0.015
 }

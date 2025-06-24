@@ -1,5 +1,19 @@
 {
-  "typeID": 34473,
+  "basePrice": 38000000.0,
+  "capacity": 450.0,
+  "description": {
+    "de": "Dies ist eine besondere Drake-Variante, die von einer mysteriösen Fraktion New Edens entwickelt wurde.",
+    "en": "This is a special Drake variant developed by a mysterious faction of New Eden.",
+    "es": "Esta es una variante especial de la Drake desarrollada por una facción misteriosa de Nuevo Edén.",
+    "fr": "Cette variante inédite du Drake a été développée par une mystérieuse faction de New Eden.",
+    "ja": "ニューエデンの謎の組織が、ドレイクの亜種として特別に開発したもの。",
+    "ko": "정체불명의 단체가 설계한 개조형 드레이크입니다.",
+    "ru": "Организация, создавшая эту модель «Дрейка», остаётся неизвестной.",
+    "zh": "这是由新伊甸一个神秘势力研发的幼龙级特别版。"
+  },
+  "graphicID": 20995,
+  "groupID": 419,
+  "mass": 14810000.0,
   "name": {
     "de": "幼龙级YC117年特别版",
     "en": "幼龙级YC117年特别版",
@@ -9,6 +23,63 @@
     "ko": "幼龙级YC117年特别版",
     "ru": "幼龙级YC117年特别版",
     "zh": "幼龙级YC117年特别版"
+  },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 263.0,
+  "sofFactionName": "serenity",
+  "sofMaterialSetID": 50,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Es können <a href=showinfo:3348>Taktische Netzwerkmodule</a> eingebaut werden",
+          "en": "Can fit <a href=showinfo:3348>Warfare Link</a> modules",
+          "es": "Es posible equipar módulos de <a href=showinfo:3348>enlace de guerra</a>.",
+          "fr": "Peut utiliser des modules de <a href=showinfo:3348>interface tactique</a>",
+          "ja": "<a href=showinfo:3348>艦隊支援システム</a>モジュールを装備できる",
+          "ko": "<a href=showinfo:3348>전장 링크</a> 모듈 장착 가능",
+          "ru": "Корабли этого типа могут оснащаться <a href=showinfo:3348>системами управления боем</a>",
+          "zh": "可以装配<a href=showinfo:3348>作战网络</a>装备"
+        },
+        "importance": 1
+      }
+    ],
+    "types": {
+      "33096": [
+        {
+          "bonus": 4,
+          "bonusText": {
+            "de": "Bonus auf alle Schildresistenzen",
+            "en": "bonus to all shield resistances",
+            "es": "de bonificación a todas las resistencias de escudo.",
+            "fr": "bonus à toutes les résistances de bouclier",
+            "ja": "全てのシールドレジスタンスが増加",
+            "ko": "모든 실드 저항력 증가",
+            "ru": "повышается сопротивляемость щитов корабля всем видам воздействия",
+            "zh": "护盾抗性加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf den Kinetikschaden von <a href=showinfo:3324>schweren Lenkwaffen</a> und <a href=showinfo:25719>schweren Angriffslenkwaffen</a>",
+            "en": "bonus to kinetic <a href=showinfo:3324>Heavy Missile</a> and <a href=showinfo:25719>Heavy Assault Missile</a> damage",
+            "es": "de bonificación al daño cinético de los <a href=showinfo:3324>misiles pesados</a> y <a href=showinfo:25719>misiles de asalto pesados</a>.",
+            "fr": "de bonus aux dégâts cinétiques des <a href=showinfo:3324>missiles lourds</a> et des <a href=showinfo:25719>missiles d'assaut lourds</a>",
+            "ja": "キネティック<a href=showinfo:3324>ヘビーミサイル</a>および<a href=showinfo:25719>ヘビーアサルトミサイル</a>のダメージが増加",
+            "ko": "<a href=showinfo:3324>헤비 미사일</a> 및 <a href=showinfo:25719>헤비 어썰트 미사일</a>의 키네틱 피해량 증가",
+            "ru": "увеличивается урон кинетических БЧ <a href=showinfo:3324>тяжёлых ракет</a> и <a href=showinfo:25719>тяжёлых штурмовых ракет</a>",
+            "zh": "<a href=showinfo:3324>重型导弹</a>和<a href=showinfo:25719>重型攻击导弹</a>动能伤害加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 252000.0
 }

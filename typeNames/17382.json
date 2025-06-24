@@ -1,5 +1,18 @@
 {
-  "typeID": 17382,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese Struktur wurde ursprünglich vom Staat Caldari gebaut und sollte eigentlich als Teil einer Überschusslieferung an Mordu's Legion übergehen. Der Konvoi wurde allerdings von einer Gurista-Einheit abgefangen. Dieses Ereignis ging als \"Pure Blind Bonanza\" in die Geschichte ein. Abgesehen von der anderen Farbgebung und einer zusätzlichen Schicht Panzerplatten sieht dieser Außenposten genauso aus wie sein Caldari Gegenstück.",
+    "en": "This structure was originally built by the Caldari State and was intended to go to Mordu's Legion as part of a surplus shipment, but the convoy was intercepted by a Gurista strike force in what has become famously known as the \"Pure Blind Bonanza.\"  Aside from a different coat of paint and an added layer of armor plating, this outpost looks just like its Caldari counterpart.",
+    "es": "Esta estructura fue construida originalmente por el Estado Caldari y estaba destinada a ir a la Legión de Mordu como parte de un envío de excedentes, pero el convoy fue interceptado por una fuerza de ataque de los Guristas en un incidente que saltaría a la fama como «La bonanza de Pure Blind». Aparte de una capa de pintura distinta y una capa extra de blindaje, este puesto avanzado es igual que su homólogo caldari.",
+    "fr": "Cette structure, conçue à l'origine par l'État caldari, devait être livrée à la Mordu's Legion comme surplus, mais le convoi fut intercepté par une force de frappe guristas dans ce que l'on appelle désormais le « casse de Pure Blind ».  Si l'on ne tient pas compte de la couche de peinture et du revêtement de blindage qui ont été ajoutés, cet avant-poste ressemble en tout point à son équivalent caldari.",
+    "ja": "カルダリ連合の手で作られた建造物で、他の積荷と併せてモードゥ部隊に払い下げられる予定だったが、後に「ピュアブラインドボナンザ」として知られる事件で護衛船が襲われ、ガリスタスの攻撃部隊に横取りされた。塗装の違いと厚みを増したアーマープレートを除けば、カルダリのそれとよく似たアウトポスト。",
+    "ko": "본래 칼다리 연합이 건설한 구조물로 모르두 군단에게 보내지는 수송품이었으나 구리스타스 타격대가 이를 중간에서 가로챘습니다. 다른 색상이라는 점과 추가 장갑 플레이팅이 장착되었다는 점을 제외하면 칼다리 전술기지와 유사한 외형을 가졌습니다.",
+    "ru": "Изначально это сооружение построило государство Caldari State. Его должны были передать Легиону Mordu в рамках соглашения о поставках оборудования, однако перевозивший его конвой был перехвачен ударным отрядом Gurista в ходе рейда, позже получившего название «удача в Pure Blind». Помимо отличающегося цвета и дополнительного слоя брони, эта застава ничем не отличается от сооружений, возводимых Государством.",
+    "zh": "这栋建筑最初由加达里合众国建造，原本是要作为补充货物运去莫德团的，但其护航队在如今被称为“黑渊星域富矿带”的地方遭古斯塔斯攻击队拦截。除了喷漆颜色不同和添加了一层装甲附甲之外，这个哨站几乎和加达里原型毫无区别。"
+  },
+  "graphicID": 2362,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Guristas Deadspace Tactical Outpost",
     "en": "Guristas Deadspace Tactical Outpost",
@@ -10,5 +23,9 @@
     "ru": "Guristas Deadspace Tactical Outpost",
     "zh": "古斯塔斯死亡空间战术哨站"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 250.0,
+  "sofFactionName": "guristas",
   "volume": 100000000.0
 }

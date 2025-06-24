@@ -1,5 +1,70 @@
 {
-  "typeID": 32788,
+  "basePrice": 400000.0,
+  "capacity": 150.0,
+  "description": {
+    "de": "Die Cambion ist dem Exekutor Tibus Heth des Staats der Caldari zu verdanken, der darauf bestand, dass moderne Kriegswaffen die vorangegangenen standardisierten Versionen stets an Leistung übertreffen müssen. Angeblich war dieses Vorgehen von wechselndem Erfolg gekrönt und immense wissenschaftliche Fortschritte wurden auf Kosten gewaltiger Missgeschicke gemacht. Es lässt sich jedoch nicht bestreiten, dass die Cambion einer der größten Erfolge war und wohl in keinem anderen politischen Umfeld möglich gewesen wäre. \n\nDie Cambion ist durch und durch für den Kampf gemacht. Ähnlich wie die Merlin - eine vielseitige Kampffregatte - ist die Cambion darauf spezialisiert, in die Schlacht zu stürmen, alles, was ihren Weg kreuzt, zu überhitzen, mit aller Kraft zuzuschlagen und Sekunden bevor sie selbst draufgeht, das Weite zu suchen.",
+    "en": "The Cambion is the result of Caldari State Executor Tibus Heth's insistence that modern weapons of war be able to continually outperform previous standardized versions. While that effort is rumored to have been hit-and-miss (resulting in great scientific advances at the cost of a stunning array of misfortunes), it is absolutely undeniable that the Cambion has been one of its great successes, a feat that likely could not have been achieved in a different political milieu. \r\n\r\nThe Cambion is an out-and-out brawler. Taking note from the Merlin – a versatile combat frigate in its own right – this ship is intended to rush in, overheat everything it runs, hit hard with everything it has and get out moments before death can find it.",
+    "es": "La Cambion es fruto de la insistencia del ejecutivo del Estado Caldari, Tibus Heth, porque las armas modernas de guerra superen siempre a las versiones estandarizadas anteriores. Aunque se rumorea que ha sido obra del azar (con grandes avances científicos a costa de una impresionante secuencia de desgracias), es totalmente innegable que la Cambion ha sido uno de sus mayores éxitos, una hazaña que probablemente no habría sido posible en una coyuntura política distinta.\n\nLa Cambion es una nave de ataque de proa a popa. Inspirada en la Merlin (una fragata de combate versátil por derecho propio), esta nave está pensada para irrumpir, poner a punto todo su arsenal, atacar con todo lo que tiene y escapar justo a tiempo para esquivar la muerte.",
+    "fr": "Le Cambion est le résultat de l'insistance de Tibus Heth, exécuteur de l'État caldari, pour que les armes de guerre modernes soient constamment plus performantes que leurs versions standard précédentes. Si les efforts fournis ont été assez aléatoires (à l'origine de grandes avancées scientifiques mais au prix de grands malheurs), il est absolument indéniable que le Cambion fasse partie des réussites majeures, une prouesse qui n'aurait pas pu être envisageable dans un autre milieu politique. \n\nLe Cambion est un vaisseau de combat très complet. S'inspirant du Merlin, frégate de combat polyvalente de son état, ce vaisseau a pour mission d'attaquer vite et fort, et de repartir aussi vite qu'il est arrivé.",
+    "ja": "カンビオンはカルダリ連合の執行役員、ティバス・ヘスの要求でつくられた現代的な戦機で、以前の標準型での機能を遥かに上回る。その性能については、成功するときもあれば失敗するときもあるという噂はあるが（施設を犠牲にした結果、大いなる科学の進歩が誕生した）、カンビオンが大きな成功事例のひとつであり、異なる政治環境の中では完成しえなかった功績であることに疑いはない。 \n\nカンビオンは純然たる戦闘艦である。マーリン（汎用性の高い戦闘用フリゲート）の特徴を見習い、戦場に突っ込み、あらゆる兵装をオーバーヒートさせて手当たりしだいに撃ちまくり、破壊される直前に瞬時に逃げ出せるように設計されている。",
+    "ko": "무기는 지속적으로 발전되어야 한다는 칼다리 연합 집행자, 티부스 헤스의 사상에 따라 제작이 이루어졌습니다. 예측하기 힘든 개발 방향(뜻밖의 불행이 과학적 진보를 가져오는 경우가 빈번함)이었으나 캄비온의 경우 놀라우리만치 성공적인 설계가 완성되었습니다. <br><br>캄비온은 근접 교전에 특화된 함선으로 멀린과 상당히 유사한 교전 방식을 갖고 있습니다. 적을 향해 돌진한 뒤 장비를 과부화 시키면서 맹공을 퍼붓습니다. 그러고는 위기의 순간이 찾아오기 전에 전장을 유유히 빠져나옵니다.",
+    "ru": "Ударный корабль класса «Кэмбион» является результатом убеждённости Тибуса Хета, генерального директора Государства Калдари, в том, что современное вооружение должно стабильно демонстрировать более высокие результаты, чем предыдущие стандартизированные модели. Несмотря на то, что слухи призывают не считать результаты этой политики однозначно успешными (потрясающие научные прорывы чередуются в Государстве с грандиозными катастрофами), никто не станет отрицать, что «Кэмбион» стал одним из наиболее заметных её плодов, и что в иной политической атмосфере получить его было бы практически невозможно. \n\n«Кэмбион» — по-настоящему бескомпромиссный боец. Он немало унаследовал от «Мерлина», весьма достойного боевого фрегата универсального назначения; «Кэмбион» создан для того, чтобы ворваться в самую гущу схватки, выжать максимум из всего, что на нём установлено, ударить изо всех сил и скрыться, лишь чудом не превратившись в огненный шар.",
+    "zh": "加达里执政官提波斯·赫特多年来一直坚持认为现代武器一定要能够不断进化革新，而魔裔级就是他这一理念的产物。尽管人们谣传执政官的努力只不过是在碰运气罢了（它带来了巨大的科技进步，但代价是一系列令人震惊的灾难性事件），但是没有人可以否认魔裔级是一项伟大的创造——只有在这样的政治环境下才能有这样成功的壮举。 \n\n魔裔级是一个不折不扣的战斗能手，与小鹰级（一艘快速战斗护卫舰）类似，它的设计理念就是迅速加入战斗，超载所有装备，扫平一切可见目标，最后在敌人清醒过来之前从战场上消失。"
+  },
+  "factionID": 500001,
+  "graphicID": 20136,
+  "groupID": 324,
+  "marketGroupID": 1623,
+  "mass": 997000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      150,
+      75,
+      139,
+      85,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      150,
+      75,
+      139,
+      85,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      150,
+      75,
+      139,
+      85,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      150,
+      75,
+      139,
+      85,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      150,
+      75,
+      139,
+      85,
+      118,
+      94
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Cambion",
     "en": "Cambion",
@@ -9,6 +74,96 @@
     "ko": "캄비온",
     "ru": "Cambion",
     "zh": "魔裔级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 39.0,
+  "sofFactionName": "tournament-x",
+  "soundID": 20070,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Kann <a href=showinfo:47254>Angriffsschadensregulierer</a> ausrüsten",
+          "en": "Can fit <a href=showinfo:47254>Assault Damage Controls</a>",
+          "es": "Es posible equipar <a href=showinfo:47254>controles de daños por asalto</a>.",
+          "fr": "Peut être équipé des <a href=showinfo:47254>contrôles des dégâts d'assaut</a>",
+          "ja": "<a href=showinfo:47254>アサルトダメージ制御</a>を装備可能",
+          "ko": "<a href=showinfo:47254>어썰트 데미지 컨트롤</a> 장착가능",
+          "ru": "Позволяет установить <a href=showinfo:47254>ударные модули боевой живучести</a>",
+          "zh": "可以装配<a href=showinfo:47254>突击损伤控制</a>装备"
+        },
+        "importance": 3
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Reduktion des Hitzeschadens an Modulen",
+          "en": "reduction in module heat damage amount taken",
+          "es": "de reducción de la cantidad de daño por calor del módulo.",
+          "fr": "de réduction aux dégâts de chaleur subis par un module",
+          "ja": "モジュールが受けるヒートダメージ量が軽減",
+          "ko": "모듈이 받는 열 피해 감소",
+          "ru": "уменьшается объём температурных повреждений модулей, получаемых ими при перегрузке",
+          "zh": "减少装备遭受的超载损伤"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 115.0,
+        "bonusText": {
+          "de": "Bonus auf den Kinetikschaden von <a href=showinfo:3321>leichten Lenkwaffen</a> und <a href=showinfo:3320>Raketen</a>",
+          "en": "bonus to kinetic <a href=showinfo:3321>Light Missile</a> and <a href=showinfo:3320>Rocket</a> damage",
+          "es": "de bonificación al daño cinético de los <a href=showinfo:3321>misiles ligeros</a> y los <a href=showinfo:3320>cohetes</a>.",
+          "fr": "de bonus aux dégâts cinétiques des <a href=showinfo:3321>missiles légers</a> et des <a href=showinfo:3320>roquettes</a>",
+          "ja": "<a href=showinfo:3321>ライトミサイル</a>と<a href=showinfo:3320>ロケット</a>のキネティックダメージが増加",
+          "ko": "키네틱 <a href=showinfo:3321>라이트 미사일</a>과 <a href=showinfo:3320>로켓</a> 피해량 증가",
+          "ru": "увеличивается урон кинетических БЧ <a href=showinfo:3321>лёгких ракет</a> и <a href=showinfo:3320>лёгких штурмовых ракет</a>",
+          "zh": "<a href=\"showinfo:3321\">轻型导弹</a>和<a href=\"showinfo:3320\">火箭</a>动能伤害加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3330": [
+        {
+          "bonus": 4.0,
+          "bonusText": {
+            "de": "Bonus auf alle Schildresistenzen",
+            "en": "bonus to all shield resistances",
+            "es": "de bonificación a todas las resistencias de escudo.",
+            "fr": "de bonus à toutes les résistances de bouclier",
+            "ja": "全てのシールドレジスタンスが増加",
+            "ko": "모든 실드 저항력 증가",
+            "ru": "повышается сопротивляемость щитов корабля всем видам воздействия",
+            "zh": "护盾抗性加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ],
+      "12095": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf die Feuerrate von <a href=showinfo:3321>Leichten Lenkwaffenwerfern</a> und <a href=showinfo:3320>Raketenwerfern</a>",
+            "en": "bonus to <a href=showinfo:3321>Light Missile</a> and <a href=showinfo:3320>Rocket</a> Launcher rate of fire",
+            "es": "de bonificación a la cadencia de tiro de los <a href=showinfo:3321>lanzamisiles ligeros</a> y los <a href=showinfo:3320>lanzacohetes</a>.",
+            "fr": "de bonus à la cadence de tir des <a href=showinfo:3321>lance-missiles légers</a> et des <a href=showinfo:3320>lance-roquettes</a>",
+            "ja": "<a href=showinfo:3321>ライトミサイル</a>と<a href=showinfo:3320>ロケット</a>ランチャーの発射間隔が短縮",
+            "ko": "<a href=showinfo:3321>라이트 미사일</a> 및 <a href=showinfo:3320>로켓</a> 런처 연사속도 증가",
+            "ru": "увеличивается скорострельность ПУ <a href=showinfo:3321>лёгких ракет</a> и <a href=showinfo:3320>лёгких штурмовых ракет</a>",
+            "zh": "<a href=\"showinfo:3320\">火箭</a>和<a href=\"showinfo:3321\">轻型导弹</a>发射器射速加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 16500.0
 }

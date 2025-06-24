@@ -1,5 +1,17 @@
 {
-  "typeID": 77199,
+  "description": {
+    "de": "Ein imperiales Konstrukt zur Übertragung eines Virus, das Schwachstellen in anderen Systemen findet und ausnutzt, um möglichst zerstörerische Fehlfunktionen zu verursachen.",
+    "en": "An Imperial construct designed to transmit a virus that finds and exploits vulnerabilities in other devices, forcing them to malfunction as destructively as possible.",
+    "es": "Una construcción imperial diseñada para transmitir un virus que encuentra y explota vulnerabilidades en otros dispositivos y los obliga a funcionar mal de la manera más destructiva posible.",
+    "fr": "Une construction de l'Empire destinée à transmettre un virus qui identifie et exploite les vulnérabilités des autres appareils pour entraîner les dysfonctionnements les plus destructifs possibles.",
+    "ja": "ウィルスを発信する用途で使用される帝国の建造物。ウィルスは他の装置における弱点を利用し、可能な限り破壊的な故障を強制的に発生させる。",
+    "ko": "다른 장치에 바이러스를 전송하도록 설계된 제국 구조물입니다. 전송된 바이러스는 취약점을 공격해 심각한 오작동을 일으킵니다.",
+    "ru": "Это амаррское сооружение предназначено для передачи вируса, который ищет уязвимости, а затем делает всё возможное, чтобы нанести максимальный вред поражённому объекту.",
+    "zh": "一种帝国设备，旨在传播病毒能发现和利用其他设备漏洞的病毒，以尽可能迫使这些设备发生破坏性故障。"
+  },
+  "graphicID": 2593,
+  "groupID": 4576,
+  "mass": 100000.0,
   "name": {
     "de": "Sacred Exploiter",
     "en": "Sacred Exploiter",
@@ -10,5 +22,9 @@
     "ru": "Sacred Exploiter",
     "zh": "神圣剥削者"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 3346.0,
+  "sofFactionName": "amarrbase",
   "volume": 100000000.0
 }

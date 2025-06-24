@@ -1,5 +1,19 @@
 {
-  "typeID": 22782,
+  "basePrice": 1732868.0,
+  "capacity": 15.0,
+  "description": {
+    "de": "Dieser Feldprojektor, der für Schiffe der Unterbrecher-Klasse gebaut wurde, entwickelt ein Warpstörfeld, das in der Lage ist, hindurchfliegende Schiffe aus dem Warp zu reißen.\n\n\n\nNur ein Modul pro Schiff.",
+    "en": "Built for use with interdictor-class vessels, this launcher produces a warp disruption sphere capable of pulling passing vessels out of warp.\r\n\r\nLimited to one per ship.",
+    "es": "Este lanzador, construido para usarse con naves interdictoras, produce una esfera de disrupción de warp capaz de sacar del warp a las naves que pasan.\n\nLimitado a uno por nave.",
+    "fr": "Conçu pour équiper les vaisseaux de classe interdicteur, ce lanceur génère une sphère perturbatrice de warp capable de stopper les vaisseaux en cours de warp à proximité.\n\nUn par vaisseau uniquement.",
+    "ja": "ワープ妨害型駆逐艦用のランチャーで、ワープ妨害領域を発生し、そこを通過する船をワープ空間から引きずり出すことができる。\n\n船1隻につき1基しか搭載できない。",
+    "ko": "인터딕터급 함선용으로 개발된 런처로 워프 디스럽션 필드를 전개하여 함선의 워프를 차단합니다. <br><br>한 함선에 한 개만 장착할 수 있습니다.",
+    "ru": "Эта пусковая установка предназначена для использования на заградителях и снаряжается одноразовыми зондами-генераторами варп-помех. После запуска зонды вносят помехи в работу варп-двигателей и прерывают движение кораблей в варп-режиме, «затягивая» их.\n\nНа корабль можно установить лишь одну пусковую установку зондов-генераторов варп-помех.",
+    "zh": "这种发射器专为拦截舰级飞船设计，可以生成一种球状跃迁扰断场，能迫使通行船只脱离跃迁状态。\n\n每艘船只能装配一个。"
+  },
+  "groupID": 589,
+  "iconID": 2990,
+  "marketGroupID": 1937,
   "name": {
     "de": "Interdiction Sphere Launcher I",
     "en": "Interdiction Sphere Launcher I",
@@ -10,5 +24,7 @@
     "ru": "Interdiction Sphere Launcher I",
     "zh": "拦截泡发射器 I"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 50.0
 }

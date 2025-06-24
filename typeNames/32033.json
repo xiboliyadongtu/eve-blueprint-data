@@ -1,5 +1,19 @@
 {
-  "typeID": 32033,
+  "description": {
+    "de": "Diese Schiffsmodifikation wurde entwickelt, um die HP von Schilden, Panzerung und Struktur der Drohnen eines Schiffes zu erhöhen. Dies geschieht auf Kosten der CPU-Kapazität des Schiffes.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26255>Drohnenmodifikation</a> reduziert werden.",
+    "en": "This ship modification is designed to increase a ship's drone shield, armor and structure hit points at the expense of the ship's CPU capacity.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26255>Drones Rigging</a> skill.",
+    "es": "Esta modificación de nave está diseñada para aumentar los puntos de vida de estructura, el blindaje y el escudo de los drones a costa de la capacidad de la CPU.\n\nSe pueden reducir las desventajas de equipar este complemento desarrollando la habilidad <a href=showinfo:26255>Complementos de drones</a>.",
+    "fr": "Cette modification de vaisseau est conçue pour augmenter le bouclier, le blindage et les points de dommage de la structure des drones d'un vaisseau, au détriment de la capacité CPU du vaisseau.\n\n\n\nLes inconvénients du montage de cette plateforme pourraient être réduits en entraînant la compétence <a href=showinfo:26255>Optimisation de drones</a>.",
+    "ja": "この改造を行うと、艦船のCPU能力と引き換えに艦船のドローンシールド、アーマー、およびストラクチャのヒットポイントが向上する。このリグを装備することで発生するペナルティは、<a href=showinfo:26255>ドローン・リギング</a>スキルをトレーニングすることで低減できる。",
+    "ko": "리그 장착 시 드론의 실드, 장갑, 선체 내구도가 증가하는 반면 함선의 CPU 용량은 감소합니다. <br><br>리그 부작용은 <a href=showinfo:26255>드론 리그</a> 스킬 습득 시 감소합니다.",
+    "ru": "Эта модификация увеличивает запас прочности силовых полей, брони и корпуса дронов за счёт доступной мощности ЦПУ корабля.\n\n\n\nНегативный эффект от установки этого тюнинг-модуля можно снизить, освоив навык <a href=showinfo:26255>Drones Rigging</a>, дающий пилоту глубокое понимание принципов работы систем управления дронами.",
+    "zh": "这个飞船改装件通过牺牲舰船的CPU值来增大无人机的护盾、装甲和结构值。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26255>无人机改装技术</a>技能降低影响。"
+  },
+  "groupID": 778,
+  "iconID": 3200,
+  "marketGroupID": 1213,
+  "mass": 200.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Small Drone Durability Enhancer I",
     "en": "Small Drone Durability Enhancer I",
@@ -10,5 +24,8 @@
     "ru": "Small Drone Durability Enhancer I",
     "zh": "小型无人机耐用性增强装置 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 100.0,
   "volume": 5.0
 }

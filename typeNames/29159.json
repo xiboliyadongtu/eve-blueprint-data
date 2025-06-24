@@ -1,5 +1,16 @@
 {
-  "typeID": 29159,
+  "description": {
+    "de": "Dies war wohl einst ein Schlachtschiff, wenn auch der Zahn der Zeit inzwischen heftig daran genagt hat. Man erkennt nicht mehr, wie es einmal ausgesehen hat.",
+    "en": "This used to be a battleship of some description, although time has clearly not been kind to it - its original form is now completely unidentifiable.",
+    "es": "Antes fue un acorazado de algún tipo, pero el tiempo le ha pasado gran factura. Ahora es totalmente imposible identificar su forma original.",
+    "fr": "Autrefois un cuirassé quelconque, mais qui a clairement subi les ravages du temps. Sa forme initiale est complètement méconnaissable.",
+    "ja": "戦艦の一種だったようだが、もうずいぶんと時を経ているのだろう。もはや原形をとどめていない。",
+    "ko": "세월의 풍파를 고스란히 맞은 배틀쉽급 함선으로 현재는 형체조차 알아보기 어렵습니다.",
+    "ru": "Когда-то это был линкор, но время его не пощадило: теперь невозможно даже определить его первоначальный облик.",
+    "zh": "这以前是威风凛凛的战列舰，很显然岁月没有对它很客气——它原有的外观现在已经完全无法辨认了。"
+  },
+  "graphicID": 3115,
+  "groupID": 226,
   "name": {
     "de": "Wrecked Battleship",
     "en": "Wrecked Battleship",
@@ -10,5 +21,9 @@
     "ru": "Wrecked Battleship",
     "zh": "损毁的战列舰"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 170.0,
+  "sofFactionName": "genericbase"
 }

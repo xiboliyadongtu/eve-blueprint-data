@@ -1,5 +1,19 @@
 {
-  "typeID": 82583,
+  "basePrice": 50000000.0,
+  "description": {
+    "de": "Diese Anlage ortet zusätzliche Erzressourcen in einem System und priorisiert dabei Asteroidengürtel, die reich an<a href=showinfo:38>Nocxium</a> sind. Diese Variante wird kleinere Asteroidengürtel erheblich schneller entdecken, geeignet für kleinere Miner-Gruppen.",
+    "en": "This array locates additional ore resources in a system, prioritizing <a href=showinfo:38>nocxium</a>-rich asteroids belts.\r\n\r\nThis variant will discover smaller asteroid belts at a significantly faster rate, suitable for smaller groups of miners.",
+    "es": "Este sistema localiza recursos de menas adicionales en un sistema y da prioridad a los cinturones de asteroides ricos en <a href=showinfo:38>nocxium</a>.\r\n\r\nEsta variante descubre cinturones de asteroides más pequeños a un ritmo significativamente más rápido, lo que resulta adecuado para grupos más pequeños de mineros.",
+    "fr": "Ce module localise des ressources de minerai supplémentaires dans un système, en accordant la priorité aux ceintures d'astéroïdes riches en <a href=showinfo:38>noxcium</a>. Cette variante découvrira des ceintures d'astéroïdes plus petites bien plus rapidement, elle convient donc mieux aux groupes de mineurs plus restreints.",
+    "ja": "システム内に存在する鉱石資源を追加で発見できる施設。<a href=showinfo:38>ノキシウム</a>が豊富なアステロイドベルトに特化している。\r\n\r\nこのタイプは小規模なアステロイドベルトを非常に早いペースで発見でき、小規模な採掘グループに適している。",
+    "ko": "성계에 매장된 자원을 탐지하기 위한 시설로, <a href=showinfo:38>녹시움</a>이 풍부한 소행성 지대를 우선적으로 탐지합니다.<br><br>소형 소행성 지대를 탐지하지만 탐지 속도가 빠르기 때문에 소규모 채굴 함대가 사용하기 좋습니다.",
+    "ru": "Это устройство позволяет обнаружить в системе новые запасы руды. Приоритет отдаётся поясам астероидов, богатых <a href=showinfo:38>ноксием</a>. Данная модель значительно быстрее находит малые пояса астероидов, поэтому больше подходит для небольших групп бурильщиков.",
+    "zh": "这个阵列可以找到星系上的其他矿石资源，并根据<a href=showinfo:38>超新星诺克石</a>储量对小行星带进行排列。此衍生版阵列将以更快的速度发现新的小型小行星带，适合小型矿工团队。"
+  },
+  "groupID": 4768,
+  "iconID": 26747,
+  "marketGroupID": 1283,
+  "mass": 1000.0,
   "name": {
     "de": "Nocxium Prospecting Array 1",
     "en": "Nocxium Prospecting Array 1",
@@ -10,5 +24,7 @@
     "ru": "Nocxium Prospecting Array 1",
     "zh": "超新星诺克石勘探阵列1"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 5000.0
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 5643,
+  "description": {
+    "de": "Verbessert die HP der Struktur, während die Wendigkeit und Frachtraumkapazität reduziert werden.",
+    "en": "Increases structural hit points while reducing agility and cargo capacity.",
+    "es": "Aumenta los puntos de vida estructurales, y reduce la agilidad y la capacidad de carga.",
+    "fr": "Augmente le nombre de PV structurels au détriment de la maniabilité et de la capacité de la soute.",
+    "ja": "ストラクチャのHPが向上するが、機動性とカーゴ容量が低下する。",
+    "ko": "선체 내구도가 증가하는 반면 기동성 및 화물 적재량은 감소합니다.",
+    "ru": "Увеличивает запас прочности корпуса корабля; при этом инертность конструкции корабля увеличивается, а вместимость грузового отсека — уменьшается.",
+    "zh": "增加结构值，但会降低灵活性和货舱容量。"
+  },
+  "groupID": 78,
+  "iconID": 76,
+  "mass": 200.0,
   "name": {
     "de": "Local Hull Conversion Reinforced Bulkheads I",
     "en": "Local Hull Conversion Reinforced Bulkheads I",
@@ -10,5 +22,9 @@
     "ru": "Local Hull Conversion Reinforced Bulkheads I",
     "zh": "局部结构转换强化舱隔壁 I"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 100.0,
   "volume": 5.0
 }

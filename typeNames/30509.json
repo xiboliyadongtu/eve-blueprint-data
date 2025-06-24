@@ -1,5 +1,18 @@
 {
-  "typeID": 30509,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Das Herz dieser Talocan-Station ist die Polestar, die den zentralen Knotenpunkt des Komplexes bildet und das Überleben der Talocan sicherte. Obwohl sie beschädigt und somit unbrauchbar ist, weist die Außenhülle der Polestar viele Antriebsdüsen und kleine Generatoren auf. Daher muss sie einst eine eigenständige Struktur gewesen sein, die keine Ressourcen von außerhalb beanspruchte. Rußpartikel um die Antriebsdüsen herum lassen darauf schließen, dass ein Wandervolk diese Polestar häufig zur Lebenserhaltung einsetzte. Angesichts ihres Zustands wird sie nun aber wohl nirgendwo mehr hinfliegen.",
+    "en": "The central piece of this Talocan station is the Polestar, the nerve center of the complex and the heart of Talocan survival. Though dilapidated and unusable, the Polestar's outer hull is breached in many parts. Its propulsion jets and mini-generators are destroyed and decaying. From the burn marks around the propulsion thrusters, this Polestar has been jettisoned many times as a necessary structure for a migrant culture, but in this condition the Polestar's current location will remain its last.",
+    "es": "La parte central de esta estación talocana es la Estrella Polar, el centro neurálgico del complejo y el corazón de la supervivencia de los talocanos. Aunque el casco exterior de la Estrella Polar está destartalado y es inutilizable, tiene aberturas en muchas partes. Sus chorros de propulsión y minigeneradores están destruidos y en descomposición. Como indican las marcas de quemaduras alrededor de los propulsores, han destartalado la Estrella Polar en numerosas ocasiones como estructura necesaria para una cultura migrante, pero, en estas condiciones, la ubicación actual de la Estrella Polar será la última.",
+    "fr": "La pièce centrale de cette station talocan est le Pôle céleste, centre névralgique du complexe et noyau dur de la survie des Talocan. Même délabrée et inutilisable, la coque extérieure du Pôle céleste est fissurée à de nombreux endroits. Ses jets de propulsion et ses mini-générateurs sont complètement détruits. D'après les marques de brûlure autour des propulseurs, ce Pôle céleste a dû être maintes fois considéré comme une structure nécessaire pour une culture migrante. Dans cet état, il ne fait aucun doute que ce Pôle céleste finira ses jours ici.",
+    "ja": "このタロカンステーションの中心部にはポールスターがある。これはコンプレックスの神経網の中心であり、タロカンが生きていく上で最も重要な役割を果たしていた。放置されて現在では機能しないが、ポールスターの外殻船体は多くのパーツから構成されている。その推進用ジェットや小型発電機は破壊され、崩れ落ちようとしている。推進システム周辺に残る焼け焦げた痕跡から、このポールスターが移住文化の中での必要性から何度も宇宙空間に打ち出されたことが分かる。しかしこの状態では、ここがこのポールスターにとって最後の場所となったようだ。",
+    "ko": "탈로칸 정거장 중심부에 자리잡고 있는 폴스타는 시설의 중추이며 심장같은 존재입니다. 허물어져 가는 폴스타의 외곽에는 여기저기 균열이 생겨있어 사용이 불가능한 상태입니다. 제트 추진기와 소형 발전기는 파괴되었으며 부식하고 있습니다. 추진기 주변의 그을음을 통해 폴스타가 여러 번 발사되었을 것으로 추측할 수 있습니다. 과거 탈로칸의 이주문화에 있어 중요한 역할을 하는 구조물이었을테지만 폴스타의 현재 상태를 보건대 더이상의 이동은 불가능할 것으로 생각됩니다.",
+    "ru": "Центральным звеном станции Talocan является Polestar — настоящий нервный центр всего комплекса и главный способ выживания Talocan. Внешний корпус Polestar во многих местах пробит — его состояние явно делает его непригодным к дальнейшей эксплуатации. Его реактивные двигатели и минигенераторы разбиты; их остатки постепенно разрушает космическая пыль. Судя по обгоревшим следам вокруг сопел реактивных двигателей, этот Polestar неоднократно перемещался, выполняя необходимые для кочевого общества функции, но в таком состоянии текущее местоположение Polestar останется неизменным навсегда.",
+    "zh": "这座塔洛迦空间站的中心就是这座极地之星，是整个建筑群的神经中枢和心脏所在。它已经残破不堪不能再发挥作用，外壳也发生了多出破裂。推进器和迷你发电站已经完全被摧毁。从推进喷嘴周围的灼烧痕迹可以看出，这座极地之星已经被抛弃过好几次，这种做法在一个经常迁徙的民族中很常见。但就现在的情况来说，这颗极地之星将会永远留在这里了。"
+  },
+  "graphicID": 3561,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Disrupted Talocan Polestar",
     "en": "Disrupted Talocan Polestar",
@@ -10,5 +23,9 @@
     "ru": "Disrupted Talocan Polestar",
     "zh": "裂断的塔洛迦极地之星"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 8818.0,
+  "sofFactionName": "talocanbase",
   "volume": 100000000.0
 }

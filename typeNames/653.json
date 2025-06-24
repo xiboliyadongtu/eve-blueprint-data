@@ -1,5 +1,54 @@
 {
-  "typeID": 653,
+  "basePrice": 1400000.0,
+  "capacity": 2900.0,
+  "description": {
+    "de": "Die Wreathe ist ein alter Transporter der Republik Minmatar und eines der ältesten Designs, die sich noch im Einsatz befinden. Das Design der Wreathe wurde sehr einfach gehalten, was einerseits der Grund für ihre Langlebigkeit ist, sie andererseits jedoch stark in ihrer Einsatzfähigkeit einschränkt.",
+    "en": "The Wreathe is an old hauler of the Minmatar Republic and one of the oldest ship designs still in use. The design of the Wreathe is very plain, which is the main reason for its longevity, but it also makes the ship incapable of handling anything but the most mundane tasks.",
+    "es": "La Wreathe es una antigua nave de mercancías de la República Minmatar y uno de los diseños de nave más antiguos que aún se utilizan. Tiene un diseño muy sencillo, lo que explica su longevidad, pero también hace que la nave sea incapaz de manejar nada más que las tareas más mundanas.",
+    "fr": "Le Wreathe est un ancien cargo de la République minmatar et un des plus vieux modèles de vaisseaux encore en service. La simplicité de sa conception explique sa longévité, mais le cantonne également aux tâches les plus simples.",
+    "ja": "ウレスはミンマター共和国の旧式ハウラーで、現在使用されている最古の宇宙船の1つだ。設計は極めて簡素で、それが長寿の理由ともなっているが、日常業務以外に耐えるだけの能力はない。",
+    "ko": "레이쓰는 민마타 공화국에서 가장 오래된 운반선 중 하나입니다. 단순한 설계 덕분인지 오래동안 현역으로 활동했으나, 복잡한 움직임이 요구되는 작업에는 사실상 사용이 배제되고 있습니다.",
+    "ru": "Перевозчик «Риф» — одна из самых старых моделей, до сих пор находящихся на службе минматарского флота. Конструкция «Рифа» очень проста, что является основной причиной его долговечности, но это также означает, что корабль способен выполнять только самые простые задачи.",
+    "zh": "环绕级是米玛塔尔共和国的一种旧式运载舰，也是仍在服役的最老的飞船之一。环绕级的设计非常简单，这是它长期服役的主要原因，不过这也使得这种飞船只适用于一些最普通的任务。"
+  },
+  "factionID": 500002,
+  "graphicID": 310,
+  "groupID": 28,
+  "marketGroupID": 82,
+  "mass": 10000000.0,
+  "masteries": {
+    "0": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "1": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "2": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "3": [
+      96,
+      118,
+      117,
+      94
+    ],
+    "4": [
+      96,
+      118,
+      117,
+      94
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Wreathe",
     "en": "Wreathe",
@@ -9,6 +58,81 @@
     "ko": "레이쓰",
     "ru": "Wreathe",
     "zh": "环绕级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 205.0,
+  "sofFactionName": "minmatarbase",
+  "soundID": 20078,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 30.0,
+        "bonusText": {
+          "de": "Bonus auf die Warpgeschwindigkeit und Warpbeschleunigung",
+          "en": "bonus to warp speed and warp acceleration",
+          "es": "de bonificación a la velocidad y la aceleración de warp.",
+          "fr": "de bonus à la vitesse de warp et à l'accélération de warp",
+          "ja": "ワープ速度とワープ加速度が上昇",
+          "ko": "워프 속도 및 워프 가속도 증가",
+          "ru": "бонус к разгону и скорости хода (в варп-режиме)",
+          "zh": "跃迁速度和跃迁加速加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 90.0,
+        "bonusText": {
+          "de": "Reduktion der effektiv zurückgelegten Distanz für die Sprungerschöpfung",
+          "en": "reduction to effective distance traveled for jump fatigue",
+          "es": "de reducción de la distancia efectiva hasta sufrir fatiga de salto.",
+          "fr": "de réduction de la distance effectuée pour l'épuisement de saut",
+          "ja": "ジャンプによる疲弊が飛行距離に及ぼす影響を低減",
+          "ko": "이동 거리에 따른 점프 피로도 감소",
+          "ru": "медленнее накапливается усталость от гиперпереходов",
+          "zh": "减少跳跃距离对产生跳跃疲劳的影响"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3341": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf die Frachtraumkapazität des Schiffs",
+            "en": "bonus to ship cargo capacity",
+            "es": "de bonificación a la capacidad de carga de la nave.",
+            "fr": "de bonus à la capacité de la soute du vaisseau",
+            "ja": "艦船のカーゴ容量が増加",
+            "ko": "화물 적재량 증가",
+            "ru": "увеличивается вместимость грузового отсека корабля",
+            "zh": "舰船货柜舱容量加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf den Trägheitsmodifikator des Schiffs",
+            "en": "bonus to ship inertia modifier",
+            "es": "de bonificación al modificador de inercia de la nave.",
+            "fr": "de bonus au modificateur d'inertie du vaisseau",
+            "ja": "艦船の慣性修正乗数が増加",
+            "ko": "관성 계수 증가",
+            "ru": "уменьшается инертность конструкции корабля",
+            "zh": "舰船惯性调整系数加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 225000.0
 }

@@ -1,5 +1,16 @@
 {
-  "typeID": 22391,
+  "description": {
+    "de": "Eine Retribution, die von einem Agenten geflogen wird.",
+    "en": "A Retribution piloted by an agent.",
+    "es": "Retribution pilotada por un agente.",
+    "fr": "Un Retribution piloté par un agent.",
+    "ja": "エージェントを乗せたレトリビューション。",
+    "ko": "에이전트가 조종하는 레트리뷰션입니다.",
+    "ru": "Корабль класса Retribution, управляемый агентом.",
+    "zh": "由代理人驾驶的审判者级飞船。"
+  },
+  "graphicID": 1920,
+  "groupID": 517,
   "name": {
     "de": "Taspar Zolankor's Retribution",
     "en": "Taspar Zolankor's Retribution",
@@ -10,5 +21,9 @@
     "ru": "Taspar Zolankor's Retribution",
     "zh": "塔斯帕·佐兰克尔的审判者飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 40.0,
+  "sofFactionName": "carthum"
 }

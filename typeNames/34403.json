@@ -1,5 +1,18 @@
 {
-  "typeID": 34403,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Die Sonnenstrahlen-Beobachtungseinheit überwacht die nahe Sonnenstrahlen-Struktur. Wenn Sie sich in ihren Hauptrechner hacken, erhalten Sie die Daten, die zum Korrigieren der fehlerhaft ausgerichteten Sonnenstrahlen-Anpassungseinheit benötigt werden in Form einer Kristallscheibe.",
+    "en": "The Solray Observational Unit monitors the nearby Solray structure. Hacking into its mainframe gives the data needed to correct the alignment error of the Solray alignment units, in the form of a crystal discs.",
+    "es": "La unidad de observación de Solray vigila la estructura de Solray cercana. Hackear su unidad central proporciona los datos necesarios para corregir el error de alineación de las unidades de Solray en forma de discos de cristal.",
+    "fr": "L'unité d'observation de rayons de soleil surveille la structure de rayons de soleil avoisinante. Lorsqu'elle est piratée, elle fournit les données nécessaires pour corriger l'erreur d'alignement des unités d'alignement des rayons de soleil sous forme de disques de cristal.",
+    "ja": "ソルレー観測ユニットは、近隣のソルレーストラクチャを監視する。メインフレームをハッキングすると、ソルレー調整ユニットの調整エラーを修正するために必要なデータを、クリスタルディスク形式で得られる。",
+    "ko": "솔레이 구조물에 대한 전반적인 모니터링을 담당합니다. 메인프레임 해킹 시 정렬 장치의 오류를 해결하기 위해 필요한 데이터가 제공됩니다.",
+    "ru": "Блок контроля за направлением излучения следит за функционированием близлежащего блока направления излучения. Взлом его электронной начинки даст данные, необходимые для исправления ошибки в направлении излучения звезды, записав их на кристаллический диск.",
+    "zh": "恒星射线观测单元对附近的恒星射线建筑进行监测。破译它的主机会获得修正恒星射线校准单元的校准错误所需要的水晶盘。"
+  },
+  "graphicID": 3518,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Solray Observational Unit",
     "en": "Solray Observational Unit",
@@ -10,5 +23,10 @@
     "ru": "Solray Observational Unit",
     "zh": "恒星射线观测单元"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 4738.0,
+  "sofFactionName": "sleeperbase",
   "volume": 27500.0
 }

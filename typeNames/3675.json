@@ -1,5 +1,16 @@
 {
-  "typeID": 3675,
+  "description": {
+    "de": "Die Kestrel ist eine schwere Raketenfregatte mit einem ziemlich großen Frachtraum und einer der besten Sensorenplattformen überhaupt. Interessanterweise wird sie sowohl von der caldarischen Navy als auch von verschiedenen wohlhabenden Firmen als Frachter eingesetzt. Sie ist eines der wenigen wehrhaften Handelsschiffe, was sie ideal für Soloflüge in gefährlichen Gebieten macht. Die Kestrel wurde so konstruiert, dass sie bis zu vier Raketenwerfer einbauen kann; eine Bestückung mit Geschütztürmen oder Bergbaulasern ist jedoch nicht vorgesehen.",
+    "en": "The Kestrel is a heavy missile boat with a fairly large cargo space and one of the most sophisticated sensor arrays around. Interestingly enough, it has been used by both the Caldari Navy and several wealthy trade corporations as a cargo-hauling vessel. It is one of few trading vessels with good punching power, making it ideal for solo trade-runs in dangerous areas. The Kestrel was designed so that it could take up to four missile launchers but instead it can not be equipped with turret weapons nor mining lasers.",
+    "es": "La Kestrel es una nave de misiles pesados con gran espacio de carga y una de las redes de sensores más sofisticadas que existen. Curiosamente, tanto la Armada Caldari como varias corporaciones comerciales adineradas la han usado como nave de mercancías. Es una de las pocas naves comerciales con buen poder de ataque, lo que la convierte en una opción ideal para comerciar en solitario en zonas peligrosas. Puede llevar hasta cuatro lanzamisiles, pero eso hace que no se le puedan equipar torretas ni láseres mineros.",
+    "fr": "Le Kestrel est un vaisseau à lance-missiles lourds doté d'une soute relativement importante et d'un des modules de détection les plus sophistiqués qui soient. Il est à noter qu'il est utilisé à la fois comme vaisseau de transport par la Caldari Navy et par plusieurs corporations commerciales majeures. C'est l'un des rares vaisseaux de commerce équipé d'un armement digne de ce nom. Il est recommandé pour des missions solo dans des secteurs dangereux. Le Kestrel a été conçu pour embarquer jusqu'à 4 lance-missiles, mais il ne peut pas être équipé de tourelles ou de lasers d'extraction.",
+    "ja": "比較的大型のカーゴスペースと超高性能センサーアレイを備えたヘビーミサイル艇。興味深いことに、カルダリ海軍と数社の大手トレードコーポレーションのどちらも、この船を貨物輸送に用いている。優れた攻撃力を持つ数少ないトレード船の一つであり、危険エリアでの単独航行に適している。ケストレルは4つのミサイルランチャーを装備可能だが、タレット兵器も採掘レーザーも装備することはできない。",
+    "ko": "헤비 미사일 런처를 탑재한 케스트렐은 정교한 센서 장비와 넉넉한 적재 공간을 자랑하는 함선입니다. 칼다리 해군을 포함한 몇몇 무역회사에서는 케스트렐을 운송선으로 활용해왔습니다. 강력한 화력을 보유한 몇 안되는 운송선이며 위험 지역에서 단독 임무를 수행하는데 최적화되어 있습니다. 케스트렐은 최대 4개의 미사일 런처를 장착할 수 있도록 설계되었고 그로 인해 다른 터렛이나 채굴 레이저를 장착하지는 못합니다.",
+    "ru": "Kestrel — тяжелый ракетный корабль со вместительным грузовым отсеком, обладающий одной из самых совершенных сенсорных систем. Примечательно, что как Флот Caldari, так и ряд состоятельных торговых корпораций используют его в качестве грузового корабля. Это один из немногих торговых кораблей, обладающих мощным наступательным вооружением, благодаря чему он идеально подходит для авантюрных рейсов в опасных районах. Kestrel проектировался таким образом, чтобы использовать вплоть до четырёх пусковых установок. Однако при этом он не обладает креплениями для установки турелей или экстракторов.",
+    "zh": "茶隼级护卫舰是一艘重型导弹船，拥有一个相当大的货舱，其感应器阵列是当今最精密的感应器阵列之一。有趣的是，它被加达里海军和一些富有的贸易集团当作货物运输船使用。它是少有的火力强大的贸易船只之一，非常适合在危险地区独自进行贸易运输。茶隼级被设计为可装配四个导弹发射器，因此，它无法装备炮台武器或者采矿激光器。"
+  },
+  "graphicID": 313,
+  "groupID": 226,
   "name": {
     "de": "Caldari Kestrel Frigate",
     "en": "Caldari Kestrel Frigate",
@@ -10,5 +21,9 @@
     "ru": "Caldari Kestrel Frigate",
     "zh": "加达里茶隼级护卫舰"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 46.0,
+  "sofFactionName": "caldaribase"
 }

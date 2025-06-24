@@ -1,5 +1,18 @@
 {
-  "typeID": 40737,
+  "description": {
+    "de": "Bringt den Navigationscomputer des Zielschiffs zum erliegen, wodurch dieses am Warpen gehindert wird.",
+    "en": "Disrupts the target ship's navigation computer which prevents it from warping.",
+    "es": "Inhibe el ordenador de navegación de la nave objetivo, lo cual le impide warpear.",
+    "fr": "Perturbe l'ordinateur de navigation du vaisseau cible pour l'empêcher de warper.",
+    "ja": "ターゲットとなる艦船のナビゲーションコンピューターを妨害し、ワープできなくする。",
+    "ko": "대상의 항법 시스템을 교란하여 워프를 차단합니다.",
+    "ru": "Вносит помехи в работу навигационного компьютера корабля-цели, делая невозможным переход в варп-режим.",
+    "zh": "干扰目标舰船的导航计算机从而阻止其进行跃迁。"
+  },
+  "groupID": 52,
+  "iconID": 111,
+  "marketGroupID": 1935,
+  "metaGroupID": 4,
   "name": {
     "de": "Domination Heavy Warp Disruptor",
     "en": "Domination Heavy Warp Disruptor",
@@ -10,5 +23,8 @@
     "ru": "Domination Heavy Warp Disruptor",
     "zh": "主天使重型跃迁扰断器"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 40730,
   "volume": 100.0
 }

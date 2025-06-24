@@ -1,5 +1,16 @@
 {
-  "typeID": 20666,
+  "description": {
+    "de": "Eine Bustard, die von einem Agenten geflogen wird.",
+    "en": "A Bustard piloted by an agent.",
+    "es": "Bustard pilotada por un agente.",
+    "fr": "Un Bustard piloté par un agent.",
+    "ja": "エージェントを乗せたバスタード。",
+    "ko": "에이전트가 조종하는 버스타드입니다.",
+    "ru": "Корабль класса Bustard, управляемый агентом.",
+    "zh": "代理人驾驶的大鸨级飞船。"
+  },
+  "graphicID": 52,
+  "groupID": 517,
   "name": {
     "de": "Gojivi's Bustard",
     "en": "Gojivi's Bustard",
@@ -10,5 +21,9 @@
     "ru": "Gojivi's Bustard",
     "zh": "高吉维的大鸨级飞船"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 313.45,
+  "sofFactionName": "caldaribase"
 }

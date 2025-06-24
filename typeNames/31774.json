@@ -1,5 +1,19 @@
 {
-  "typeID": 31774,
+  "description": {
+    "de": "Diese Schiffsmodifikation wurde dazu entwickelt, den Energiespeicherbedarf aller Schild-Upgrade-Module, die Skills für die Schildbedienung benötigen, zu verringern. Dies geschieht auf Kosten eines erhöhten Signaturradius.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden.",
+    "en": "This ship modification is designed to reduce the capacitor need of modules which require shield operation skills at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
+    "es": "Esta modificación de nave está diseñada para reducir la necesidad del condensador de módulos que requieren habilidades de operar escudos a costa de aumentar el radio de la señal.\n\nSe pueden reducir las desventajas de equipar este complemento desarrollando la habilidad <a href=showinfo:26261>Complementos de escudo</a>.",
+    "fr": "Cette modification de vaisseau est conçue pour réduire les besoins énergétiques du capaciteur requis par les modules nécessitant la compétence Gestion de bouclier, au détriment du rayon de signature étendu.\n\n\n\nLes inconvénients du montage de cette plateforme pourraient être réduits en entraînant la compétence <a href=showinfo:26261>Optimisation de bouclier</a>.",
+    "ja": "この改造を行うと、シグネチャ半径が拡大するのと引き換えに、シールド操作スキルを必要とするモジュールのキャパシタ消費量が減少する。このリグを装備することで発生するペナルティは、<a href=showinfo:26261>シールド・リギング</a>スキルをトレーニングすることで低減できる。",
+    "ko": "리그 장착 시 실드 스킬을 요구하는 모듈의 캐패시터 사용량이 감소하는 반면 함선의 시그니처 반경은 증가합니다. <br><br>리그 부작용은 <a href=showinfo:26261>실드 리그</a> 스킬 습득 시 감소합니다.",
+    "ru": "Эта модификация уменьшает потребление энергии накопителя модулями, для использования которых необходимо наличие навыка управления  аппаратурой силовых полей (Shield Operation) за счёт увеличения радиуса сигнатуры корабля.\n\n\n\nНегативный эффект от установки этого тюнинг-модуля можно снизить, освоив навык <a href=showinfo:26261>Shield Rigging</a>, дающий пилоту глубокое понимание принципов работы систем силовых полей корабля.",
+    "zh": "这个改装件的设计旨在减少需要护盾操作技能的装备的电容需求，但代价是信号半径增加。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。"
+  },
+  "groupID": 774,
+  "iconID": 3193,
+  "marketGroupID": 1732,
+  "mass": 200.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Capital Core Defense Capacitor Safeguard II",
     "en": "Capital Core Defense Capacitor Safeguard II",
@@ -10,5 +24,9 @@
     "ru": "Capital Core Defense Capacitor Safeguard II",
     "zh": "旗舰级核心防御电容器安全管理装置 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 100.0,
+  "variationParentTypeID": 31768,
   "volume": 40.0
 }

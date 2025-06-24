@@ -1,5 +1,21 @@
 {
-  "typeID": 27495,
+  "basePrice": 3000.0,
+  "description": {
+    "de": "Ein schwere Lenkwaffe der Mordu mit Plasma-Sprengkopf und automatisiertem Lenksystem.",
+    "en": "A Mordu heavy missile with a plasma warhead and automatic guidance system.",
+    "es": "Misil pesado de Mordu con ojiva de plasma y sistema de guiado automático.",
+    "fr": "Missile lourd mordu équipé d'une ogive plasma et d'un système de guidage automatique.",
+    "ja": "プラズマ弾頭と自動誘導システムを搭載したモードゥ式ヘビーミサイル。",
+    "ko": "유도시스템과 플라즈마 탄두가 탑재된 모르두 헤비 미사일입니다.",
+    "ru": "Тяжёлая ракета легиона Морду с плазменной боеголовкой и автоматической системой наводки.",
+    "zh": "一种莫德团重型导弹，带有等离子弹头和自动导引系统。"
+  },
+  "graphicID": 20048,
+  "groupID": 395,
+  "iconID": 1337,
+  "marketGroupID": 1192,
+  "mass": 1000.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Legion Inferno Auto-Targeting Heavy Missile",
     "en": "Legion Inferno Auto-Targeting Heavy Missile",
@@ -10,5 +26,9 @@
     "ru": "Legion Inferno Auto-Targeting Heavy Missile",
     "zh": "圣卒级炼狱自动锁定重型导弹"
   },
+  "portionSize": 100,
+  "published": true,
+  "radius": 300.0,
+  "variationParentTypeID": 1824,
   "volume": 0.03
 }

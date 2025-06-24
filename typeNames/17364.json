@@ -1,5 +1,21 @@
 {
-  "typeID": 17364,
+  "basePrice": 145000.0,
+  "capacity": 390.0,
+  "description": {
+    "de": "Dieser mittelgroße Audit Log Container ist mit einem kennwortgeschützten Sicherheitsschloss ausgestattet.",
+    "en": "This medium audit log container is fitted with a password-protected security lock.",
+    "es": "Este contenedor de registro de auditoría mediano está equipado con un cierre de seguridad protegido por contraseña.",
+    "fr": "Le conteneur à journaux d'audit intermédiaire est équipé d'un verrou de sécurité protégé par mot de passe.",
+    "ja": "中型の会計監査ログ用コンテナ。パスワード式ロック機能付き。",
+    "ko": "암호화된 보안 장치가 탑재된 중형 컨테이너입니다.",
+    "ru": "Доступ к этому контейнеру средних размеров защищен паролем. Все операции, проводимые с его содержимым, регистрируются в журнале.",
+    "zh": "这个中型审计安全密码集装箱安装了密码保护安全锁装置。"
+  },
+  "graphicID": 1172,
+  "groupID": 448,
+  "iconID": 1172,
+  "marketGroupID": 1652,
+  "mass": 100000.0,
   "name": {
     "de": "Medium Audit Log Secure Container",
     "en": "Medium Audit Log Secure Container",
@@ -10,5 +26,9 @@
     "ru": "Medium Audit Log Secure Container",
     "zh": "中型审计安全密码集装箱"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 20.0,
+  "sofFactionName": "genericmetal",
   "volume": 325.0
 }

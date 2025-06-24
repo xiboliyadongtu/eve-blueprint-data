@@ -1,5 +1,18 @@
 {
-  "typeID": 16848,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Einsame, riesige Reste einer völlig verbrauchten Stationsbatterie. Früher einmal ein unverzichtbarer Bestandteil des Komplexes dient sie heute nur noch dazu uns daran zu erinnern, dass das einzig Ewige im Weltraum der Tod ist.",
+    "en": "Forlorn hulk of a depleted station battery. Once a vital part of the complex, it now only serves to remind us that in space the only thing eternal is death.",
+    "es": "Casco olvidado de una batería de estación agotada. Antaño parte vital del complejo, ahora solo sirve para recordarnos que en el espacio lo único eterno es la muerte.",
+    "fr": "La carcasse oubliée d'une batterie de station épuisée. Jadis un élément vital du complexe, son unique fonction aujourd'hui est de nous rappeler que seule la mort est éternelle dans l'espace.",
+    "ja": "劣化したステーションバッテリーの残骸。かつては複合施設に不可欠なものだったが、今となっては、宇宙では死のみが永遠であるという事実を再認識させるだけの存在。",
+    "ko": "방전된 정거장 전력장치가 버려져있습니다. 한때 이 전력장치가 시설 운영에 중요한 한 부분이었던 것을 떠올려보면 이 광활한 우주에서 영원한 것은 죽음밖에 없다는 점이 다시 한번 와닿습니다.",
+    "ru": "Выброшенный корпус израсходованной батареи станции. Когда-то он был важнейшей частью комплекса, а теперь может служить лишь воспоминанием о том, что смерть — единственное, что вечно в космосе.",
+    "zh": "这是个被遗弃的能源耗尽的空间站炮塔，它曾经是这个复合体重要部分。而现在，这堆冰冷的金属静静地漂浮着，提醒人们死亡才是宇宙中唯一永恒不变的事物。"
+  },
+  "graphicID": 1691,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Empty Station Battery",
     "en": "Empty Station Battery",
@@ -10,5 +23,9 @@
     "ru": "Empty Station Battery",
     "zh": "遗弃的空间站炮塔"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 3103.0,
+  "sofFactionName": "genericmetal",
   "volume": 100000000.0
 }

@@ -1,5 +1,19 @@
 {
-  "typeID": 57475,
+  "basePrice": 10000000.0,
+  "description": {
+    "de": "Die Schiffsdesigns der Caldari verwenden primär gravimetrische Sensoren, um die lokale Raumumgebung abzubilden. Der gravimetrische FTL-Interlink-Kommunikator wird dazu verwendet, hochfrequente, hochauflösende Caldari-Sensordaten direkt in die Überlichtgeschwindigkeitskommunikationskanäle der Caldari Navy-Flotten einzubinden.",
+    "en": "Caldari ship designs use gravimetric-based sensors as their primary means of building a picture of the local space environment. The Gravimetric-FTL Interlink Communicator is used to tie high-frequency, high-resolution Caldari sensor data directly into the FTL communications channels used by Caldari Navy fleets.",
+    "es": "Las naves de diseño caldari usan los sensores gravimétricos como método principal para reconocer el entorno espacial local. El comunicador de interconexión supralumínica gravimétrica sirve para vincular los datos de alta frecuencia y gran resolución del sensor caldari a los canales de comunicaciones supralumínicos que utilizan los escuadrones de la Armada Caldari.",
+    "fr": "Les modèles de vaisseaux caldari emploient des détecteurs gravimétriques comme principal moyen d’établir une représentation de l’environnement spatial local. Le communicateur hyperliaison gravimétrique-PRL sert à relier les données à haute fréquence et haute résolution des détecteurs caldari directement aux canaux de communications PRL utilisés par les flottes de la Caldari Navy.",
+    "ja": "カルダリ船は、現在の宙域の環境を把握する主な手段として重力測定型センサーを使用している。カルダリ製センサーの高周波かつ高解像度なデータをカルダリ海軍フリートのFTL通信チャンネルに直接接続するために、重力測定-FTLインターリンクコミュニケーターが使用されている。",
+    "ko": "칼다리 함선은 중력장 기반 센서를 통해 주변 환경을 탐지합니다. 중력장-FTL 접속 통신기는 칼다리 해군이 운용하는 FTL 통신 채널에 고주파수- 고해상도 센서 데이터를 연동합니다.",
+    "ru": "В конструкциях калдарских кораблей используются гравиметрические сенсоры. Их основное назначение — снабдить пилота необходимой информацией о космической среде. Гравиметрический сверхсветовой коммуникатор передаёт данные высокочастотных датчиков непосредственно по сверхсветовым каналам калдарских флотов.",
+    "zh": "加达里舰船使用引力式感应器来探测太空环境。引力超光速链接通信器能将高频高分辨率的加达里感应器数据直接链接到合众国海军舰队使用的超光速通信频道中。"
+  },
+  "groupID": 913,
+  "iconID": 24616,
+  "marketGroupID": 1885,
+  "mass": 0.1,
   "name": {
     "de": "Gravimetric-FTL Interlink Communicator",
     "en": "Gravimetric-FTL Interlink Communicator",
@@ -10,5 +24,7 @@
     "ru": "Gravimetric-FTL Interlink Communicator",
     "zh": "引力超光速链接通信器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 100.0
 }

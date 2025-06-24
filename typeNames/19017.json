@@ -1,5 +1,19 @@
 {
-  "typeID": 19017,
+  "description": {
+    "de": "Dieses Modul verwendet Nano-Reparaturbots, um Schäden an der Panzerung des Schiffes zu beheben.",
+    "en": "This module uses nano-assemblers to repair damage done to the armor of the ship.",
+    "es": "Este módulo utiliza nanoensambladores para reparar el daño infligido al blindaje de la nave.",
+    "fr": "Module utilisant des nano-assembleurs pour réparer les dégâts infligés au blindage du vaisseau.",
+    "ja": "ナノアセンブラーを使用して、アーマーの損傷を修復する。",
+    "ko": "나노 어셈블러를 사용하여 함선의 손상된 장갑을 수리하는 모듈입니다.",
+    "ru": "Этот модуль используется для ремонта повреждений брони при помощи наносборщиков.",
+    "zh": "该装备使用纳米级装配器来修复对舰船装甲造成的损伤。"
+  },
+  "groupID": 62,
+  "iconID": 80,
+  "marketGroupID": 1050,
+  "mass": 500.0,
+  "metaGroupID": 6,
   "name": {
     "de": "Corpum C-Type Medium Armor Repairer",
     "en": "Corpum C-Type Medium Armor Repairer",
@@ -10,5 +24,8 @@
     "ru": "Corpum C-Type Medium Armor Repairer",
     "zh": "科波姆中型装甲维修器 C型"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 3528,
   "volume": 10.0
 }

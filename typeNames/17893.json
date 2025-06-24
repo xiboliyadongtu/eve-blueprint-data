@@ -1,5 +1,19 @@
 {
-  "typeID": 17893,
+  "basePrice": 10000.0,
+  "description": {
+    "de": "Eine kleine Scheibe aus einem Halbleitermaterial, die als Grundlage für einen integrierten Schaltkreis dient. High-Tech Datenchips haben eine höhere Kapazität als ihre Low-Tech Gegenstücke.",
+    "en": "A small wafer of semiconductor material that forms the base for an integrated circuit. High-Tech Data Chips have more capacity than their lower tech counter-parts.",
+    "es": "Pequeña porción del material semiconductor que forma la base de un circuito integrado. Los chips de datos de alta tecnología ofrecen más capacidad que sus homólogos de baja tecnología.",
+    "fr": "Petite galette de matériau semi-conducteur qui forme la base d'un circuit intégré. Les puces de données High-Tech ont plus de capacité que leurs homologues de rang inférieur.",
+    "ja": "集積回路の基板となる、小型の半導体ウエハー。通常のデータチップよりも容量が大きい。",
+    "ko": "집적회로를 만드는 데 사용되는 반도체용 규소 웨이퍼입니다. 첨단 데이터 칩은 큰 용량을 특징으로 합니다.",
+    "ru": "Небольшая пластина полупроводникового материала формирует основу интегральной схемы. Высокотехнологичные чипы имеют большую емкость, чем их простые собратья.",
+    "zh": "一小块由半导体组成的晶片，是集成电路的基板。高科技数据芯片比较低科技的版本容量更大。"
+  },
+  "groupID": 314,
+  "iconID": 2038,
+  "marketGroupID": 20,
+  "mass": 1.0,
   "name": {
     "de": "High-Tech Data Chip",
     "en": "High-Tech Data Chip",
@@ -10,5 +24,8 @@
     "ru": "High-Tech Data Chip",
     "zh": "高科技数据芯片"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

@@ -1,5 +1,19 @@
 {
-  "typeID": 60410,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Das ist der Kontrollknoten für die sicheren Transfertore, der die Transfer-Ziele je nach Sicherheitsprogramm der sicheren Transferanlage von AEGIS verändert. AEGIS sichere Transferanlagen werden von Transferbarkassen, die fähiges Personal, Werkzeuge und zugehörige Fracht geladen haben, als Wegpunkte und Versandlogistikzentren verwendet. Verschiedenste Gegenstände kommen durch diese Anlagen – von Personaldatensicherungen bis hin zu Capital-Schmiedewerkzeugen. Das sichere Transfertorsystem wird als Teil des Transferplanungs- und Sicherheitssystems genutzt, das in dieser sicheren Transferanlage von AEGIS verwendet wird. Je nach Sicherheitsprogramm können Transfertore ein Versandlogistikzentrum oder einen Patrouillensammelpunkt ansteuern. Es könnte möglich sein, diesen Kontrollknoten zu hacken und Informationen bezüglich des nächsten geplanten Transfers zu einem Versandlogistikzentrum zu erhalten.",
+    "en": "This is the control hub for the secure transfer gates, switching transfer destinations according to the security schedule of the AEGIS Secure Transfer Facility.\r\n\r\nAEGIS Secure Transfer Facilities are used as waystations and shipping logistics centers for transfer barges carrying skilled personnel, tools and associated cargo. Items as diverse as personnel data backups and capital forging tools pass through these facilities.\r\n\r\nThe secure transfer gate system is used as part of the transfer scheduling and security regime in operation at this AEGIS Secure Transfer Facility. Depending on the security schedule transfer gates may lead to a Shipping Logistics Center or a Patrol Staging Zone.\r\n\r\nIt may be possible to hack this control hub and gain information revealing the next scheduled transfer to a Shipping Logistics Center.",
+    "es": "Este es el centro de control de los portales de transferencias seguras, donde se cambian las destinaciones de las transferencias según la planificación de seguridad del Centro de Transferencias Seguras de AEGIS.\n\nEl Centro de Transferencias Seguras de AEGIS se usa como estación de paso y centro logístico para el envío de gabarras con personal cualificado, herramientas y cargas relacionadas. Por estas instalaciones circula todo tipo de mercancías, desde copias de seguridad de datos de personal, hasta herramientas de forja de naves capitales.\n\nEl sistema de portales de transferencias seguras está sujeto al régimen de planificación y seguridad de envíos vigente en este centro de AEGIS. Dependiendo del plan de seguridad, los portales pueden conducir a un centro logístico de envíos o una zona de operaciones de patrulla.\n\nEs posible hackear este centro de control y obtener información que revele la siguiente transferencia programada a un centro logístico de envíos.",
+    "fr": "Il s'agit du poste de commandement des portails de transfert sécurisé, qui change les destinations de transfert en fonction du programme de sécurité du site de transfert sécurisé d'AEGIS. Les sites de transfert sécurisé d'AEGIS sont utilisés comme station-relais et centre logistique de transport pour les barges de transfert transportant du personnel qualifié, des outils et des cargaisons associées. Des objets aussi divers et variés que les sauvegardes de données du personnel et les outils de forgeage capitaux transitent par ces sites. Le système de portail de transfert sécurisé est utilisé dans le cadre du programme de transfert et du régime de sécurité en vigueur dans le site de transfert sécurisé d'AEGIS en question. Selon le programme de sécurité, les portails de transfert peuvent mener à un centre logistique de transport ou à une zone de rassemblement de patrouille. Il est envisageable de pirater ce poste de commandement pour obtenir des informations dévoilant le prochain transfert prévu vers un centre logistique de transport.",
+    "ja": "これはセキュア転送ゲートのコントロールハブで、イージス重警備輸送施設の安全保障スケジュールに従って転送先を切り替える役割を持っている。\n\n\n\nイージス重警備輸送施設は、熟練した人員やツール、関連する積荷を運ぶ輸送船のための中継ステーション兼輸送物流センターとして使われている。人事データのバックアップや主力艦の建造用ツールなど様々な物資がこの施設を経由して運ばれている。\n\n\n\nセキュア転送ゲートシステムは、このイージス重警備輸送施設におけるオペレーションのスケジュール管理と安全保障制度の一部として運用されている。安全保障スケジュールに応じ、転送ゲートは輸送物流センターかパトロール部隊集結ゾーンのどちらかに繋がっている。\n\n\n\nこのコントロールハブをハッキングし、次に行われる予定の輸送物流センターへの転送に関する情報を得ることができるかもしれない。",
+    "ko": "게이트 관제소로 AEGIS 운반시설의 일정에 따라 목적지를 변경할 수 있습니다.<br><br>AEGIS 운반시설은 각종 장비, 인력, 그리고 화물을 운반하는 우주선을 위한 중간 기착지 및 물류센터로 활용됩니다. 인사기록 백업파일부터 캐피탈 제작 장비까지 다양한 물건이 해당 시설을 거쳐 운반됩니다.<br><br>게이트 시스템은 AEGIS 운반시설의 안보 정책 및 운송 일정을 책임지고 있습니다. 운송 일정에 따라 게이트 시스템은 화물을 운송물류센터 또는 정찰 집결지로 보냅니다.<br><br>관제소를 성공적으로 해킹할 경우 운송물류센터로 향하는 다음 일정을 확보할 수 있습니다.",
+    "ru": "Это центр управления воротами, переключающий транзитные направления в соответствии с графиком перевозок защищённого трансферного центра ЭГИДА. Защищённые трансферные центры используются в качестве перевалочных пунктов и логистических центров для барж, перевозящих персонал, оборудование и грузы. Через них проходят самые разнообразные предметы, такие как резервные копии личных дел персонала и оборудование кузнечных цехов для изготовления КБТ. Система управления воротами связана с графиком перевозок и режимом безопасности, установленном в этом защищённом трансферном центре ЭГИДА. В зависимости от графика эти ворота могут вести к центру транспортной логистики или в патрулируемую погрузочно-разгрузочную зону. Этот центр управления можно взломать, чтобы получить доступ к информации о следующей запланированной перевозке в центр транспортной логистики.",
+    "zh": "这座建筑是安全传输轨道的控制中心，负责根据统合部紧急干预和安全局安全传输设施的时刻表来切换传输目的地。\n\n\n\n统合部紧急干预和安全局安全传输设施是一座航运中心驿站，数不清的驳船载着技工、用具和货物穿梭来往。小到个人数据备份，大到旗舰建造工具，都是通过这些设施来流动的。\n\n\n\n安全传输轨道系统承担着统合部紧急干预和安全局安全传输设施的调度和安全职能。根据时刻表不同，传输轨道可能通向航运物流中心或巡逻队集结地。\n\n\n\n如果成功破译这座控制中心，则可以获得何时传输至航运物流中心的信息。"
+  },
+  "graphicID": 20297,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "AEGIS Gate Control Hub",
     "en": "AEGIS Gate Control Hub",
@@ -10,5 +24,9 @@
     "ru": "AEGIS Gate Control Hub",
     "zh": "统合部紧急干预和安全局轨道控制中心"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

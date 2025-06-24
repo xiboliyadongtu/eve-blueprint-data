@@ -1,5 +1,18 @@
 {
-  "typeID": 11445,
+  "basePrice": 15000000.0,
+  "description": {
+    "de": "Fertigkeit und Kenntnis des Minmatar-Raumschiffbaus und dessen Anwendung in der Entwicklung fortschrittlicher Technologie. Verwendbar in der Erforschung von Minmatar-Schiffen jeder Größenordnung. Ermöglicht die Erforschung des Minmatar-Raumschiffsbaus mit Hilfe eines Forschungsagenten. Voraussetzung für alle Forschungs- und Fertigungsaufträge mit entsprechenden Blaupausen. 1% Reduktion der Fertigungszeit je Skillstufe für alle Gegenstände, die den Skill \"Minmatar Starship Engineering\" erfordern.",
+    "en": "Skill and knowledge of Minmatar Starship Engineering and its use in the development of advanced technology. \r\n\r\nUsed in the research of Minmatar Ships of all Sizes.\r\n\r\nAllows Minmatar Starship Engineering research to be performed with the help of a research agent. \r\n\r\nNeeded for all research and manufacturing operations on related blueprints. 1% reduction in manufacturing time for all items requiring Minmatar Starship Engineering per level.",
+    "es": "Habilidad y conocimientos de ingeniería naval minmatariana y su uso en el desarrollo de tecnología avanzada.\n\nSe usa en la investigación de naves minmatarianas de todos los tamaños.\n\nPermite hacer investigaciones sobre la ingeniería naval minmatariana con la ayuda de un agente de investigación.\n\nSe necesita para todas las operaciones de investigación y fabricación en planos relacionados. Reduce un 1 % el tiempo de fabricación de todos los objetos que requieran ingeniería naval minmatariana por nivel.",
+    "fr": "Compétence et connaissances liées à l'ingénierie des vaisseaux d'élite minmatar et à son utilisation pour le développement de technologies avancées. Cette compétence sert à la recherche sur les vaisseaux minmatar de toutes tailles. Elle permet de lancer des recherches sur l'ingénierie des vaisseaux d'élite minmatar avec l'aide d'un agent de recherche. Nécessaire pour toutes les opérations de recherche et de fabrication sur les plans de construction connexes. réduit de 1 % le temps de production par niveau pour tous les éléments nécessitant l'ingénierie d'astronefs minmatar.",
+    "ja": "ミンマター宇宙船工学と、それを先端技術の開発に利用するスキルおよび知識。\n\n全てのサイズのミンマター船に関する研究で使用。\n\nリサーチエージェントの助けを借りてミンマター宇宙船工学の研究を行うことができる。関連するブループリントを用いる全ての研究および製造作業に必要。\n\nレベル上昇ごとにミンマター宇宙船工学を必要とするすべてのアイテムの製造時間が1%削減。",
+    "ko": "민마타 함선 엔지니어링에 관련된 지식과 기술을 습득합니다. <br><br>민마타 함선에 관한 연구를 수행할 수 있습니다. <br><br>연구 에이전트의 도움을 받아 민마타 함선 엔지니어링에 관한 연구를 시행할 수 있습니다. 관련된 블루프린트가 사용되는 모든 연구 및 제조 과정에 필요한 스킬입니다. <br><br>매 레벨마다 민마타 함선 엔지니어링 스킬을 요구하는 모든 항목의 제조 시간 1% 감소",
+    "ru": "Знания в области конструирования кораблей производства Республики Минматар и навыки их применения для создания передовых технологий. \n\n\n\nОбласть применения этого навыка ограничена научно-исследовательскими работами по проектам матарских кораблей любого тоннажа.\n\n\n\nПозволяет проводить научно-исследовательские работы в области конструирования матарских кораблей с помощью агента научно-исследовательского отдела. \n\n\n\nИспользуется для исследовательских и производственных операций по соответствующим чертежам. Приводит к экономии времени на прогон производства всех предметов, для производства которых необходим этот навык (на 1% за каждую степень освоения навыка).",
+    "zh": "理解米玛塔尔星舰工程学及其在高科技开发中应用的技能。 \n\n用于各种型号米玛塔尔舰船的研究。\n\n可以在研究代理人的帮助下进行米玛塔尔星舰工程学研究。 \n\n这是相关蓝图研究和制造的必需技能。每升一级，所有需要米玛塔尔星舰工程学技能的物品的生产时间减少1%。"
+  },
+  "groupID": 270,
+  "iconID": 33,
+  "marketGroupID": 375,
   "name": {
     "de": "Minmatar Starship Engineering",
     "en": "Minmatar Starship Engineering",
@@ -10,5 +23,8 @@
     "ru": "Технологические основы минматарского кораблестроения",
     "zh": "米玛塔尔星舰工程学"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

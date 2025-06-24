@@ -1,5 +1,21 @@
 {
-  "typeID": 27471,
+  "basePrice": 40000.0,
+  "description": {
+    "de": "Ein Mordu-Marschflugkörper mit einem Plasma-Sprengkopf und automatischem Leitsystem.",
+    "en": "A Mordu cruise missile with a plasma warhead and automatic guidance system.",
+    "es": "Misil de crucero de Mordu con ojiva de plasma y un sistema de guiado automático.",
+    "fr": "Missile de croisière mordu équipé d'une ogive plasma et d'un système de guidage automatique.",
+    "ja": "プラズマ弾頭と自動誘導システムを搭載したモードゥ式クルーズミサイル。",
+    "ko": "유도시스템과 플라즈마 탄두가 탑재된 모르두 크루즈 미사일입니다.",
+    "ru": "Дальнобойная ракета легиона Морду с плазменной боеголовкой и автоматической системой наводки.",
+    "zh": "一种莫德团巡航导弹，带有等离子弹头和自动导引系统。"
+  },
+  "graphicID": 20040,
+  "groupID": 396,
+  "iconID": 1342,
+  "marketGroupID": 1192,
+  "mass": 1250.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Legion Inferno Auto-Targeting Cruise Missile",
     "en": "Legion Inferno Auto-Targeting Cruise Missile",
@@ -10,5 +26,9 @@
     "ru": "Legion Inferno Auto-Targeting Cruise Missile",
     "zh": "圣卒级炼狱自动锁定巡航导弹"
   },
+  "portionSize": 100,
+  "published": true,
+  "radius": 300.0,
+  "variationParentTypeID": 1832,
   "volume": 0.05
 }

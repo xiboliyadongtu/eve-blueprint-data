@@ -1,5 +1,18 @@
 {
-  "typeID": 3454,
+  "basePrice": 500000.0,
+  "description": {
+    "de": "Fertigkeit zur Verwendung von Mikrowarpantrieben. 5% Reduktion des Energiespeicherverbrauchs von Mikrowarpantrieben je Skillstufe.",
+    "en": "Skill at using Microwarpdrives. 5% reduction in Microwarpdrive capacitor usage per skill level.",
+    "es": "Habilidad en el uso de los motores de microwarp. 5 % de reducción al uso del condensador de motor de microwarp por nivel de habilidad.",
+    "fr": "Compétence liée à l'utilisation des propulseurs de microwarp. Réduit de 5 % par niveau de compétence l'utilisation du capaciteur du propulseur de microwarp.",
+    "ja": "マイクロワープドライブを扱うスキル。スキルレベル毎にマイクロワープドライブのキャパシタ消費量が5%減少。",
+    "ko": "마이크로 워프 드라이브 운용을 위한 스킬입니다. 매 레벨마다 마이크로 워프 드라이브 캐패시터 사용량 5% 감소",
+    "ru": "Навык использования микроварп-ускорителей. За каждую степень освоения навыка: на 5% снижается расход энергии накопителя при работе микроварп-ускорителей.",
+    "zh": "操作微型跃迁推进器的技能。每升一级，微型跃迁推进器的电容消耗降低5%。"
+  },
+  "groupID": 275,
+  "iconID": 33,
+  "marketGroupID": 374,
   "name": {
     "de": "High Speed Maneuvering",
     "en": "High Speed Maneuvering",
@@ -10,5 +23,7 @@
     "ru": "Энергоснабжение микроварп-ускорителей",
     "zh": "高速机动理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

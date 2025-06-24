@@ -1,5 +1,17 @@
 {
-  "typeID": 3445,
+  "basePrice": 70000.0,
+  "description": {
+    "de": "Skill zur Fälschung von Ladungsverzeichnissen und Tarnung von Schmuggelware. -10 % Chance je Skillstufe, beim Verkauf von Schmuggelware erwischt zu werden (Basischance: 90 %).",
+    "en": "Skill at forging cargo manifests and disguising contraband cargo. From a base of 90%, each level of skill reduces chance of contraband detection by 10%.",
+    "es": "Habilidad de falsificar manifiestos de carga y disimular carga de contrabando. Partiendo de una base del 90 %, cada nivel de habilidad reduce un 10 % la probabilidad de que te escaneen mientras transportas contrabando.",
+    "fr": "Compétence liée à la contrefaçon de manifestes de cargaison et au camouflage d'une cargaison de contrebande. À partir d'une base de 90 %, chaque niveau de compétence diminue les probabilités de détection de la contrebande de 10 %.",
+    "ja": "積荷目録を偽造して密輸カーゴを偽装するスキル。密輸が発覚する可能性がスキルレベル上昇ごとに基本値の 90% から 10% ずつ少なくなる。",
+    "ko": "위장용 화물 제작 및 밀수품 은닉을 위한 스킬입니다. 매 레벨마다 밀수품 운반 시 발각될 확률 10% 감소 (기본 90%)",
+    "ru": "Навык подделки грузовых накладных и маскировки контрабандного груза. С каждым уровнем этого навыка вероятность обнаружения контрабанды уменьшается на 10%, начиная с базового уровня в 90%.",
+    "zh": "伪造货单和掩饰违禁品的技能。每升一级，运输违禁品被查获几率降低10%。初始几率为90%。"
+  },
+  "groupID": 274,
+  "iconID": 33,
   "name": {
     "de": "Black Market Trading",
     "en": "Black Market Trading",
@@ -10,5 +22,7 @@
     "ru": "Торговля на чёрном рынке",
     "zh": "黑市交易技巧"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

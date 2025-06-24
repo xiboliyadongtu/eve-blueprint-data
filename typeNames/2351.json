@@ -1,5 +1,18 @@
 {
-  "typeID": 2351,
+  "basePrice": 1.0,
+  "description": {
+    "de": "Diese winzigen Würfel bilden die Bausteine von vielen einfachen Strukturen, von einfachen Wänden und Türen, bis hin zu ganzen Häusern oder sogar industriellen Büroflächen. Immer, wenn eine ausreichende Zahl von Smartfab-Einheiten zusammengesetzt und mit den gleichen Anweisungen programmiert wurde, werden diese automatisch eine entsprechende Kombination wählen, um einen Block dieses Objekts zu formen und werden dann in ihrer neuen Form verharren. Mit ausreichend detaillierten Blueprints gibt es theoretisch keine Begrenzung für die Komplexität der Objekte oder der Strukturen, die von diesen cleveren Geräten erstellt werden können.",
+    "en": "These tiny cubes form the building blocks of many simple structures, from basic walls and doors to entire homes and even industrial office spaces. Whenever a sufficient number of smartfab units are placed together and have been programmed with the same instructions, they will automatically combine to form some portion of that object and then become inert in their new form. With adequately detailed blueprints, there is theoretically no limit to the complexity of object or structure these clever devices can create.",
+    "es": "Estos diminutos cubos forman los bloques de construcción de muchas estructuras simples, desde paredes y puertas básicas hasta casas enteras e incluso espacios de oficinas industriales. Siempre que se coloquen juntas una cantidad suficiente de unidades Smartfab y se hayan programado con las mismas instrucciones, se combinarán automáticamente para formar una parte de ese objeto y luego se volverán inertes en su nueva forma. Con planos lo suficientemente detallados, en teoría no hay límite para la complejidad del objeto o la estructura que estos ingeniosos dispositivos pueden crear.",
+    "fr": "Ces minuscules cubes forment les blocs de construction de nombreuses structures simples, des murs et des portes basiques aux maisons entières, en passant par les bureaux industriels. Dès lors que suffisamment d'unités Smartfab sont positionnées ensemble et programmées avec les mêmes instructions, elles s'associeront automatiquement pour former une partie de l'objet en question, avant de conserver leur nouvelle forme. Avec des plans de construction détaillés, ces dispositifs intelligents pourront construire toutes sortes de structures, sans aucune limite de complexité.",
+    "ja": "基本的な壁やドアから、家全体、工場のオフィス空間まで、多くのシンプルな建造物の構成要素を形成する小型キューブ。同じ手順でプログラムして大量に組み合わせると、自動的に結合してオブジェクトの一部を形成し、新しい形態で不活性化する。詳細なブループリントがあれば、理論上、どんなに複雑なものでも、この高機能な装置で作れないものはない。",
+    "ko": "구조물 건설에 사용되는 작은 큐브입니다. 외벽, 문에서부터 집, 사무실까지도 건설합니다. 같은 작동 명령이 입력된 스마트 소재 큐브를 충분히 쌓아 올리면 스스로 합쳐져 입력된 형태를 구성한 뒤 비활성화됩니다. 세밀하게 설계된 블루프린트를 사용한다면 그 어떤 복잡한 형태든 이 똑똑한 장치가 만들어내지 못할 물건이나 구조물은 없을 것입니다.",
+    "ru": "Эти крошечные кубики являются основными компонентами для строительства многих базовых зданий — от отдельных стен и дверей до целых жилых комплексов и промышленных сооружений. Их очень просто использовать — достаточно взять необходимое количество таких кубиков и задать им соответствующую программу; образовав часть необходимого объекта, они застынут в этом состоянии навсегда. Теоретически, при наличии достаточно подробных чертежей, с их помощью можно создавать структуры и объекты практически неограниченной сложности.",
+    "zh": "这些小方块是很多简单结构建筑的组成单元，它们可以用于建造基本的护墙、门等等，也可以用于修建整座住宅，甚至是一片工业办公区。当把足够的灵巧单元建筑模块放在一起后，再对它们输入同样的程序指令，它们就能够自动地组合在一起构成所要建造的建筑的不同部分，然后再自动固化。只要配合详细的蓝图，它们几乎可以构成任何复杂的结构。"
+  },
+  "groupID": 1040,
+  "iconID": 10044,
+  "marketGroupID": 1336,
   "name": {
     "de": "Smartfab Units",
     "en": "Smartfab Units",
@@ -10,5 +23,7 @@
     "ru": "Smartfab Units",
     "zh": "灵巧单元建筑模块"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 3.0
 }

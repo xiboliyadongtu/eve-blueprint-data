@@ -1,5 +1,17 @@
 {
-  "typeID": 364919,
+  "basePrice": 149000.0,
+  "description": {
+    "de": "Skill zur Verwendung von Reparaturwerkzeugen.\n\nSchaltet den Zugriff auf Standardreparaturwerkzeuge ab Stufe 1, erweiterte Reparaturwerkzeuge ab Stufe 3 und Reparaturwerkzeugprototypen ab Stufe 5 frei.",
+    "en": "Skill at using repair tools.\r\n\r\nUnlocks access to standard repair tools at lvl.1; advanced at lvl.3; prototype at lvl.5.",
+    "es": "Habilidad de manejo de herramientas de reparación.\n\nDesbloquea el acceso a herramientas de reparación estándar en el nivel 1, avanzadas en el nivel 3 y prototipos en el nivel 5.",
+    "fr": "Compétence permettant d'utiliser les outils de réparation.\n\nDéverrouille l'utilisation des outils de réparation. Standard au niv.1 ; avancé au niv.3 ; prototype au niv.5.",
+    "it": "Abilità nell'utilizzo degli strumenti di riparazione.\n\nSblocca l'accesso agli strumenti di riparazione standard al liv. 1; a quello avanzato al liv. 3; a quello prototipo al liv. 5.",
+    "ja": "リペアツールを扱うスキル。\n\nレベル1で標準型、レベル3で高性能、レベル5でプロトタイプのリペアツールが利用可能になる。",
+    "ko": "수리장비 운용을 위한 스킬입니다. <br><br>수리장비가 잠금 해제됩니다. (레벨 1 - 일반, 레벨 3 - 상급, 레벨 5 - 프로토타입)",
+    "ru": "Навык использования ремонтных инструментов.\n\nПозволяет пользоваться стандартными ремонтными инструментами на уровне 1; усовершенствованными на уровне 3; прототипами на уровне 5.",
+    "zh": "使用修复工具的技能。1级解锁标准修复工具；3级解锁高级修复工具；5级解锁原型修复工具。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Bedienung: Reparaturwerkzeug",
     "en": "Repair Tool Operation",
@@ -11,5 +23,6 @@
     "ru": "Применение ремонтного инструмента",
     "zh": "修复工具操作"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

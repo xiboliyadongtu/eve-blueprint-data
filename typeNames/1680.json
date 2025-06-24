@@ -1,5 +1,15 @@
 {
-  "typeID": 1680,
+  "description": {
+    "de": "+5% auf die Skilltrainingszeit für Skills mit dem Primärattribut Ausstrahlung.",
+    "en": "+5% skill training time for skills with charisma as the primary attribute.",
+    "es": "+5 % al tiempo de desarrollo de habilidades con el carisma como atributo principal.",
+    "fr": "Augmente de 5 % le temps de formation des compétences ayant le charisme pour attribut principal.",
+    "ja": "第一特性としてカリスマを必要とする全てのスキルのトレーニング時間+5%。",
+    "ko": "카리스마가 주요 능력치로 요구되는 스킬 훈련 시간 5% 감소",
+    "ru": "+5% ко времени изучения умений, опирающихся на харизму как на первичную характеристику.",
+    "zh": "以魅力为主要属性的技能训练时间增加5%。"
+  },
+  "groupID": 199,
   "name": {
     "de": "Navy Captain Bonus",
     "en": "Navy Captain Bonus",
@@ -10,5 +20,6 @@
     "ru": "Navy Captain Bonus",
     "zh": "海军统帅加成"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

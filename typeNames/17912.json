@@ -1,5 +1,20 @@
 {
-  "typeID": 17912,
+  "capacity": 10.0,
+  "description": {
+    "de": "Der modulierte Strip Miner II verwendet einen Großteil der Modulkristalltechnologie des modulierten Deep-Core-Bergbaulasers II. Allerdings fehlt ihm die Fähigkeit seines Bruders zum Abbau von Erz im tiefen Inneren von Asteroiden. \n\nKann nur von Bergbaubarkassen und Ausgrabungsschiffen genutzt werden.\n\nVerwendet Bergbaukristalle. \n\nEs kann kein Mercoxit-Bergbaukristall eingebaut werden.",
+    "en": "The Modulated Strip Miner II uses many of the same crystal frequency modulation technologies as the Modulated Deep Core Miner II, except it lacks the deep core mining capacity of its smaller sibling. \r\n\r\nCan only be fit to Mining Barges and Exhumers.\r\n\r\nUses mining crystals. \r\n\r\nCannot fit a mercoxit mining crystal.",
+    "es": "El extractor minero modulado II utiliza muchas de las mismas tecnologías moduladoras de frecuencia de cristales que el minero de núcleo profundo modulado II, salvo que carece de la capacidad de minería de núcleo profundo de su hermano menor.\n\nSolo se puede equipar en gabarras mineras y exhumadores.\n\nUtiliza cristales de minería.\n\nNo puede equiparse con un cristal de minería de mercoxita.",
+    "fr": "Si le laser d'extraction intensive modulé II emprunte au laser d'extraction modulé de grande profondeur II maintes technologies consacrées aux cristaux à modulation de fréquence, la capacité d'extraction profonde lui fait en revanche cruellement défaut. \n\nRéservé aux barges d'extraction minière et aux exhumers.\n\nUtilise des cristaux d'extraction. \n\nCristal d'extraction de mercoxit incompatible.",
+    "ja": "改造されたストリップマイナーIIは、その弟分のディープコア採掘能力を除き、改造されたディープコアマイナーと同じクリスタルフリーケンシー変調技術が多数使用されている。採掘艦と特化型採掘艦にのみ装着することができる。採掘クリスタルを使用する。メロコキサイト採掘クリスタルを装着することはできません。",
+    "ko": "보정된 딥코어 채굴기 II와 유사한 크리스탈 기술이 적용되었지만 전반적인 출력이 보다 약한 편에 속합니다. <br><br>채광선 및 익스허머에만 장착할 수 있습니다. <br><br>채광용 크리스탈을 사용합니다. <br><br>메르코시트 채광용 크리스탈은 장착할 수 없습니다.",
+    "ru": "В основу конструкции модулируемого бурового лазера валовой выемки положена технология частотного модулирования с помощью кристаллов, позаимствованная у модулируемых лазеров глубокого бурения — к сожалению, без сопутствующей ей возможности вести добычу меркоцита. \n\nМожет быть установлен только на буровые корабли и тяжёлые буровые корабли.\n\nИспользует кристаллы настройки экстрактора. \n\nНе может использовать кристалл настройки экстрактора на меркоцит (Mercoxit Mining Crystal).",
+    "zh": "调制型露天采矿器II拥有大量与调制型深层地核露天采矿器II一样的晶体调频技术，只是缺乏深层地核采矿能力。 \n\n只能装配在采矿驳船和采掘者舰船上。.\n\n此设备使用采矿晶体， \n\n但不能装配基腹断岩采集晶体。"
+  },
+  "graphicID": 11145,
+  "groupID": 483,
+  "iconID": 2527,
+  "marketGroupID": 1040,
+  "metaGroupID": 2,
   "name": {
     "de": "Modulated Strip Miner II",
     "en": "Modulated Strip Miner II",
@@ -10,5 +25,10 @@
     "ru": "Modulated Strip Miner II",
     "zh": "调制型露天采矿器 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 25.0,
+  "sofFactionName": "prospecting",
+  "variationParentTypeID": 17482,
   "volume": 5.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 16627,
+  "capacity": 120.0,
+  "description": {
+    "de": "Eine Fregatte der örtlichen Miliz. Bedrohungsstufe: Sehr hoch",
+    "en": "A local militia frigate.  Threat level: Very high",
+    "es": "Fragata de la milicia local. Nivel de amenaza: muy alto.",
+    "fr": "Une frégate de la milice locale.  Niveau de menace : très élevé",
+    "ja": "地方義勇軍のフリゲート艦。危険度:非常に高い",
+    "ko": "지역 밀리샤 프리깃입니다. 위험도: 매우 높음",
+    "ru": "Фрегат местного ополчения. Уровень опасности: очень высокий",
+    "zh": "一艘当地民兵护卫舰。威胁等级：非常高"
+  },
+  "graphicID": 339,
+  "groupID": 818,
+  "mass": 1200000.0,
   "name": {
     "de": "Militia Protector",
     "en": "Militia Protector",
@@ -10,5 +23,10 @@
     "ru": "Militia Protector",
     "zh": "民兵护卫者"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 43.6,
+  "sofFactionName": "angelbase",
   "volume": 16450.0
 }

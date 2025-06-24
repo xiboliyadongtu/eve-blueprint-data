@@ -1,5 +1,20 @@
 {
-  "typeID": 31872,
+  "basePrice": 3000.0,
+  "description": {
+    "de": "Leichte Aufklärungsdrohne",
+    "en": "Light Scout Drone",
+    "es": "Dron de reconocimiento ligero",
+    "fr": "Drone de reconnaissance léger.",
+    "ja": "ライトスカウトドローン",
+    "ko": "라이트 스카우트 드론",
+    "ru": "Легкий разведывательный дрон",
+    "zh": "轻型侦查无人机"
+  },
+  "graphicID": 2822,
+  "groupID": 100,
+  "marketGroupID": 837,
+  "mass": 3500.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Caldari Navy Hornet",
     "en": "Caldari Navy Hornet",
@@ -10,5 +25,11 @@
     "ru": "Caldari Navy Hornet",
     "zh": "加达里海军大黄蜂"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 15.0,
+  "sofFactionName": "caldarinavy",
+  "variationParentTypeID": 2464,
   "volume": 5.0
 }

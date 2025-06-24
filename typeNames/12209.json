@@ -1,5 +1,18 @@
 {
-  "typeID": 12209,
+  "basePrice": 10000000.0,
+  "description": {
+    "de": "Spezialistentraining in der Handhabung fortschrittlicher, schwerer Selbstladekanonen. 2% Bonus je Skillstufe auf die Schadenswirkung großer Waffentürme, die den Skill \"Large Autocannon Specialization\" voraussetzen.",
+    "en": "Specialist training in the operation of advanced large autocannons. 2% Bonus per skill level to the damage of large turrets requiring Large Autocannon Specialization.",
+    "es": "Entrenamiento especializado en el manejo de cañones automáticos grandes avanzados. 2 % de bonificación por nivel de habilidad al daño de las torretas grandes que requieren especialización en cañones automáticos grandes.",
+    "fr": "Formation de spécialiste dans l'utilisation des canons automatiques lourds avancés. Augmente de 2 % par niveau de compétence les dégâts des grandes tourelles nécessitant la spécialisation en canons automatiques lourds.",
+    "ja": "高性能大型オートキャノンを操作する専門スキル。スキルレベル上昇ごとに大型オートキャノンスペシャリゼーションを必要とする大型タレットダメージが2%増加する。",
+    "ko": "상급 대형 기관포 운용을 위한 스킬입니다. 매 레벨마다 대형 기관포 특화가 요구되는 대형 터렛의 피해량 2% 증가",
+    "ru": "Спецкурс по эксплуатации усовершенствованных больших автопушек. За каждую степень освоения навыка: на 2% повышается урон усовершенствованных больших автопушек.",
+    "zh": "操作高级大型自动加农炮的专业训练。每升一级，需要大型自动加农炮专业研究技能的大型炮台的伤害提高2%。"
+  },
+  "groupID": 255,
+  "iconID": 33,
+  "marketGroupID": 364,
   "name": {
     "de": "Large Autocannon Specialization",
     "en": "Large Autocannon Specialization",
@@ -10,5 +23,7 @@
     "ru": "Спецкурс: большие автопушки",
     "zh": "大型自动加农炮专业研究"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

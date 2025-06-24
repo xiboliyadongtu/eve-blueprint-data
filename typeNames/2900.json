@@ -1,5 +1,18 @@
 {
-  "typeID": 2900,
+  "basePrice": 1.0,
+  "description": {
+    "de": "Dieser Datenkern eines Raumschiffes enthält ein detailliertes Protokoll über alle Aktivitäten des Schiffes.",
+    "en": "This starship data core contains a detailed log of all the vessel's activities.",
+    "es": "Este núcleo de datos de nave estelar contiene un registro detallado de todas las actividades de la nave.",
+    "fr": "Cette banque de données de vaisseau spatial contient un journal détaillé de toutes les activités du vaisseau.",
+    "ja": "艦船の行動全てが詳細に記録されている船のデータコア。",
+    "ko": "데이터코어에 자세한 항해 기록이 담겨있습니다.",
+    "ru": "Этот корабельный инфоблок содержит подробную информацию о всех маневрах корабля.",
+    "zh": "该飞船数据核心详细记录了飞船的所有运行状况。"
+  },
+  "groupID": 314,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Recovered Data Core",
     "en": "Recovered Data Core",
@@ -10,5 +23,7 @@
     "ru": "Recovered Data Core",
     "zh": "打捞回来的数据核心"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

@@ -1,5 +1,19 @@
 {
-  "typeID": 12554,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Dieser Nachschubcontainer treibt bestimmt schon lange durch das All. Vielleicht nutzen ihn Militärs oder eine Piratenorganisation als Warenlager.",
+    "en": "This supply storage has apparently been left here drifting in space. Perhaps some military or pirate organization still uses it for storing goods.",
+    "es": "Al parecer, este almacén de suministros ha quedado a la deriva en el espacio. Tal vez alguna organización militar o pirata todavía lo utiliza para guardar mercancías.",
+    "fr": "Ce dépôt de marchandises a semble-t-il été abandonné ici. Une organisation pirate ou militaire s'en sert peut-être toujours pour conserver des marchandises.",
+    "ja": "放置されたまま宇宙を漂っている資材庫。どこかの軍隊か海賊組織が倉庫としてまだ使っているのかもしれない。",
+    "ko": "우주에서 표류 중인 보급 저장고입니다. 어딘가의 해군 또는 해적 팩션에서 여전히 물품 저장고로 이용하고 있는 것 같습니다.",
+    "ru": "Этот склад припасов был, по всей видимости, оставлен дрейфовать в космосе. Возможно, какая-либо военная либо пиратская организация всё ещё использует его для хранения товаров.",
+    "zh": "这个补给储藏库显然已被遗弃，飘荡在太空中。或许某个军队或海盗组织仍在用它储备物资。"
+  },
+  "graphicID": 1176,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Munition Storage",
     "en": "Munition Storage",
@@ -10,5 +24,9 @@
     "ru": "Munition Storage",
     "zh": "军需舱库"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericmetal",
   "volume": 1200.0
 }

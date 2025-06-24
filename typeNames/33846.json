@@ -1,5 +1,19 @@
 {
-  "typeID": 33846,
+  "description": {
+    "de": "Der Drohnen-Schadensverstärker projiziert eine Multi-Node-Quantenverschränkung auf das Drohnen- oder Jäger-Kommunikationsnetz des Schiffs, die eine Prozessorüberbrückung erzeugt und genauere Echtzeitprojektionen der Flugbahnen ermöglicht.\n\n\n\nNachteil: Bei der Verwendung mehrerer Module des selben oder ähnlichen Typs, welche das selbe Attribut des Schiffes beeinflussen, wird deren Wirksamkeit eingeschränkt.",
+    "en": "The Drone Damage Amplifier projects a multi-node quantum entanglement onto the ship's drone or fighter communications net, creating a bridged processor link that allows for better real-time trajectory projections.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",
+    "es": "El amplificador de daño de drones proyecta un entrelazamiento cuántico multinodo en la red de comunicaciones de drones o cazas de la nave, lo que crea un enlace de procesador puente que permite proyectar mejor la trayectoria a tiempo real.\n\nPenalización: Por usar más de un tipo de módulo o módulos similares que afecten al mismo atributo de la nave.",
+    "fr": "L'amplificateur de dégâts des micronefs projette une intrication quantique à nœuds multiples sur le réseau de communication des drones et des chasseurs du vaisseau. Le pont de liaison quantique permet au processeur du vaisseau de calculer les trajectoires optimales des drones en temps réel.\n\n\n\nPénalité : utiliser plus d'un module de ce type ou plusieurs modules modifiant un même attribut du vaisseau fera l'objet d'une pénalité.",
+    "ja": "ドローンダメージ強化装置はドローンあるいは戦闘機の通信網にマルチノードの量子もつれを発生させることで、プロセッサ網を創出する。これにより、リアルタイムの軌道予測がより正確になる。ペナルティ： 同じタイプのモジュール、または同じ属性に関係するモジュールを複数取り付けると、ペナルティが発生する。",
+    "ko": "드론 데미지 증폭기는 드론 또는 파이터 통신망에 다중노드 양자배열을 방출하여 실시간 탄도 계산이 가능한 프로세서 링크를 구성합니다. <br><br>페널티: 동일한 속성의 모듈 여러 개를 장착할 경우 페널티가 부여됩니다.",
+    "ru": "Усилитель поражающего действия бортового оружия дронов создаёт многофокусное сетевое соединение поверх сети коммуникаций между дронами (или истребителями) и кораблем, превращая её в виртуальный процессор, обеспечивающий практически мгновенную обработку данных и предиктивный анализ траекторий.\n\n\n\nВнимание! Установка на борт корабля двух и более модулей, влияющих на одну и ту же характеристику корабля, приведёт к снижению эффективности их действия в отношении данной характеристики.",
+    "zh": "无人机伤害增效装置通过在舰船的无人机或铁骑舰载机通信网络中加入多节点的量子缠绕技术桥接了一个处理器，使得实时的轨迹投射效果比以往更好了。\n\n\n\n惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。"
+  },
+  "groupID": 645,
+  "iconID": 10934,
+  "marketGroupID": 938,
+  "mass": 1.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Dread Guristas Drone Damage Amplifier",
     "en": "Dread Guristas Drone Damage Amplifier",
@@ -10,5 +24,8 @@
     "ru": "Dread Guristas Drone Damage Amplifier",
     "zh": "恐惧古斯塔斯无人机伤害增效装置"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 4393,
   "volume": 5.0
 }

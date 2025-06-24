@@ -1,5 +1,18 @@
 {
-  "typeID": 77179,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Eine Opferstätte der Blood Raider, in der Reinblütige in Sani-Sabik-Ritualen zu Ehren ihres Roten Gottes vorbereitet und ausgeblutet werden.",
+    "en": "A Blood Raider Hall of Sacrifice, where the pure-blooded are prepared and drained in Sani Sabik rituals dedicated to their Red God.",
+    "es": "Una sala del sacrificio de los Saqueadores Sanguinarios, donde se prepara y drena a los de sangre pura en rituales Sani Sabik dedicados a su Dios Rojo.",
+    "fr": "Un hall sacrificiel blood raider, où ceux au sang pur sont préparés et drainés selon les rituels Sani Sabik dédiés à leur dieu rouge.",
+    "ja": "ブラッドレイダーの生贄の殿堂。純粋なる血を持つ者たちの準備を整えてサニサビクの儀式で血を抜き、赤き神に捧げるために使われている。",
+    "ko": "블러드 레이더 희생의 전당입니다. 이곳에서 붉은 신에게 바치는 사니 사비크 의식이 진행됩니다. 순수한 피를 쏟아내 제물로 바칩니다.",
+    "ru": "Дом жертвоприношений «Охотников за кровью», где чистокровных готовят к кровавым ритуалам Сани Сабика и приносят в жертву Алому Богу.",
+    "zh": "血袭者的牺牲殿堂，纯血者在此做好准备，并接受萨萨比克仪式，将鲜血献给他们的红神。"
+  },
+  "graphicID": 2401,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Hall of Sacrifice",
     "en": "Hall of Sacrifice",
@@ -10,5 +23,9 @@
     "ru": "Hall of Sacrifice",
     "zh": "牺牲殿堂"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 2787.0,
+  "sofFactionName": "bloodraider",
   "volume": 100000000.0
 }

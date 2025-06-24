@@ -1,5 +1,18 @@
 {
-  "typeID": 28155,
+  "description": {
+    "de": "Sofern betriebsbereit, erlaubt es der Ausrüstungsdienst in dieser Station angedockten Kapselpiloten die Module in ihren Schiffen anzupassen und zu ändern.",
+    "en": "When operational, the Fitting Service allows capsuleers to customize and change the modules attached to their ships while docked in this station.",
+    "es": "Cuando funciona, el servicio de equipamiento permite a los capsulistas personalizar y cambiar los módulos agregados a sus naves mientras están acopladas en esta estación.",
+    "fr": "Une fois opérationnel, le service de montage permet aux capsuliers amarrés à la station de personnaliser et remplacer les modules de leurs vaisseaux.",
+    "ja": "装備サービスが稼働中のステーションでは、カプセラはドッキングさせた艦船のモジュールを変更したりカスタマイズしたりすることができる。",
+    "ko": "피팅 서비스를 통해 함선의 모듈을 장착하거나 변경할 수 있습니다.",
+    "ru": "Действующая служба оснащения кораблей позволяет капсулёрам в доке станции менять оснастку корабля (установленные на него модули).",
+    "zh": "启用后，玩家停靠在空间站中时可以使用装配服务来改变舰船上装配的装备。"
+  },
+  "graphicID": 10026,
+  "groupID": 874,
+  "iconID": 21431,
+  "mass": 1.0,
   "name": {
     "de": "Fitting Service",
     "en": "Fitting Service",
@@ -10,5 +23,9 @@
     "ru": "Fitting Service",
     "zh": "装配服务"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 5000.0,
   "volume": 1.0
 }

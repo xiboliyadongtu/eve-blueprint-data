@@ -1,5 +1,16 @@
 {
-  "typeID": 16103,
+  "description": {
+    "de": "Eine kugelförmige Barriere, die ein Objekt umschließt.",
+    "en": "A spherical barrier, centered around some object.",
+    "es": "Barrera esférica centrada en un objeto.",
+    "fr": "Une barrière sphérique, centrée autour d'un objet.",
+    "ja": "何かの物体を中心として球状に広がるバリアー。",
+    "ko": "정체불명의 물건을 지키고 있는 원형 배리어입니다.",
+    "ru": "Сферический барьер, окружающий объект.",
+    "zh": "以某些物体为中心的球状防御罩。"
+  },
+  "graphicID": 2393,
+  "groupID": 411,
   "name": {
     "de": "Force Field",
     "en": "Force Field",
@@ -10,5 +21,6 @@
     "ru": "Force Field",
     "zh": "力场"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

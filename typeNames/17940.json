@@ -1,5 +1,18 @@
 {
-  "typeID": 17940,
+  "basePrice": 750000.0,
+  "description": {
+    "de": "Skill zur Bedienung von ORE-Bergbaubarkassen.",
+    "en": "Skill at operating ORE Mining Barges.",
+    "es": "Habilidad en el manejo de gabarras mineras de ORE.",
+    "fr": "Compétence liée à l'utilisation des barges d'extraction minière ORE.",
+    "ja": "ORE採掘艦の操縦スキル。",
+    "ko": "ORE 채광선 운용을 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на буровых кораблях производства Окраинной рудной экспедиции.",
+    "zh": "操作外空联合矿业采矿驳船的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Mining Barge",
     "en": "Mining Barge",
@@ -10,5 +23,7 @@
     "ru": "Буровые корабли",
     "zh": "采矿驳船操作"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

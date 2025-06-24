@@ -1,5 +1,17 @@
 {
-  "typeID": 24762,
+  "description": {
+    "de": "Diese Sicherheitszutrittskarte wird von der Minmatar Flotte hergestellt und ermöglicht dem Inhaber ein bestimmtes Beschleunigungstor zu einem anderen Sektor freizuschalten. Das Beschleunigungstor bleibt eine kurze Zeit aktiviert und die Karte wird entwertet, nachdem die Kartendaten in den Aktivierungsmechanismus des Tores eingelesen worden sind.",
+    "en": "This security passcard is manufactured by the Minmatar Fleet and allows the user to unlock a specific acceleration gate to another sector. The gate will remain open for a short period of time and the keycard will be rendered useless after uploading the card's data to the gate's activation device.",
+    "es": "Este pase de seguridad está fabricado por la Flota Minmatariana y permite abrir un portal de aceleración concreto hacia otro sector. El portal permanecerá abierto durante un breve periodo de tiempo, y la tarjeta de acceso dejará de ser útil tras cargar los datos en el dispositivo de activación del portal.",
+    "fr": "Ce passe d'accès de sécurité est fabriqué par la flotte minmatar et permet de déverrouiller un portail d'accélération spécifique vers un autre secteur. Ce portail restera ouvert quelques instants et la clé magnétique sera inutilisable une fois les informations de la carte envoyées vers le dispositif d'activation du portail.",
+    "ja": "ミンマター艦隊製造のセキュリティパス。特定のアクセラレーションゲートを開き、別のセクターへ移動できる。ゲートが開くのは短時間で、起動デバイスにデータをアップロードした後、キーカードを再度使用することはできない。",
+    "ko": "민마타 함대가 제작한 출입키입니다. 사용 시 다른 구역으로 향하는 액셀레이션 게이트를 활성화할 수 있습니다. 데이터 입력 시 짧은 시간 동안 게이트가 활성화되며 이후 출입키는 자동 파기됩니다.",
+    "ru": "Этот пропуск выпущен Флотом Minmatar и позволяет пользователю открывать специальные врата ускорения, ведущие к другому сектору. После загрузки данных в устройство активации ключ приходит в негодность, а врата на короткое время остаются открытыми.",
+    "zh": "这张安全通行卡由米玛塔尔舰队制造，使用者可打开通往另一个区域的加速轨道。轨道会打开一小段时间，钥匙卡片在将卡中数据上传到轨道激活设备以后，就会失去效用。"
+  },
+  "groupID": 474,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Logut's Keycard",
     "en": "Logut's Keycard",
@@ -10,5 +22,7 @@
     "ru": "Logut's Keycard",
     "zh": "卢戈的卡片"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

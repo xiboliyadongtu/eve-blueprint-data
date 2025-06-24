@@ -1,5 +1,18 @@
 {
-  "typeID": 30516,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Diese Datenbank ist offensichtlich einem schweren Anschlag zum Opfer gefallen, funktioniert aber trotzdem noch. Mit Ihrem Datenanalysator könnten Sie ihr noch Informationen abluchsen.",
+    "en": "This databank has clearly been the site of a serious impact, but it remains online. You may be able to extract something with your Data Analyzer.",
+    "es": "Este banco de datos claramente ha sufrido un fuerte impacto, pero continúa en línea. Es posible que puedas extraer algo con un analizador de datos.",
+    "fr": "Cette banque de données a été sérieusement touchée, mais reste néanmoins connectée. Votre analyseur de données vous permettra peut-être d'en extraire quelque chose.",
+    "ja": "このデータバンクは大きな衝撃の痕跡がはっきりと残っているが、今でもオンラインのままだ。データアナライザーを使えば、何か引き出せるかもしれない。",
+    "ko": "해당 데이터뱅크는 큰 피해를 입었지만 놀랍게도 아직 온라인 상태를 유지 중입니다. 데이터 분석기를 통해 정보를 수집할 수 있습니다.",
+    "ru": "Абсолютно ясно, что этот банк данных подвергся серьезному воздействию, однако он остается включенным. Возможно, с помощью анализатора данных вам удастся что-нибудь из него вытянуть.",
+    "zh": "这个冬眠者数据库设备一定是遭受了严重的冲击，但它还处于工作状态。你可以尝试使用你的数据分析仪找出其中有用的信息。"
+  },
+  "graphicID": 3705,
+  "groupID": 1207,
+  "mass": 10000.0,
   "name": {
     "de": "Malfunctioning Sleeper Databank",
     "en": "Malfunctioning Sleeper Databank",
@@ -10,5 +23,9 @@
     "ru": "Malfunctioning Sleeper Databank",
     "zh": "失效的冬眠者数据库"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 858.0,
+  "sofFactionName": "debris",
   "volume": 27500.0
 }

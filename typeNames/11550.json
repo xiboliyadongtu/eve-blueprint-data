@@ -1,5 +1,18 @@
 {
-  "typeID": 11550,
+  "description": {
+    "de": "Eine Reaktorkomponente, welche primär in Caldari-Schiffen eingesetzt wird, aber auch Teil vielzähliger anderer Technologien ist.",
+    "en": "Power Core component used primarily in Caldari ships. A component in various other technology as well.",
+    "es": "Componente del núcleo de potencia usado principalmente en naves caldaris. También es un componente de otras tecnologías.",
+    "fr": "Composant de réacteur principal utilisé principalement pour les vaisseaux caldari. Ce composant est également utilisé dans diverses autres technologies.",
+    "ja": "主にカルダリ船に用いられるパワーコア部品。他にも幅広い機械装置に使われている。",
+    "ko": "칼다리 함선에 주로 사용되는 파워코어 부품입니다. 다양한 기술 분야에서 활용되는 부품입니다.",
+    "ru": "Компонент энергосети, используемый преимущественно на кораблях Caldari. Применяется и в других различных технологиях.",
+    "zh": "主要由加达里舰船使用的能源核心构件。这个部件也存在于别的各种科技类型中。"
+  },
+  "groupID": 334,
+  "iconID": 2193,
+  "marketGroupID": 803,
+  "mass": 1.0,
   "name": {
     "de": "Graviton Reactor Unit",
     "en": "Graviton Reactor Unit",
@@ -10,5 +23,8 @@
     "ru": "Graviton Reactor Unit",
     "zh": "引力子反应器机组"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
   "volume": 1.0
 }

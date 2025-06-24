@@ -1,5 +1,17 @@
 {
-  "typeID": 21637,
+  "description": {
+    "de": "Ein Dekoder, mit dem man die Informationen auf einem verschlüsselten Datenchip freischalten kann.",
+    "en": "A decoder to unlock information stored on an encoded data chip.",
+    "es": "Este descodificador desbloquea información almacenada en un chip de datos encriptados.",
+    "fr": "Décodeur servant à accéder aux informations contenues dans une puce de données codées.",
+    "ja": "データチップに格納された暗号を解読するデコーダ。",
+    "ko": "암호화된 데이터 칩에서 정보를 빼내기 위한 해독기입니다.",
+    "ru": "Дешифратор для извлечения информации, хранящейся в закодированном чипе данных.",
+    "zh": "一个解码器，用于解密存储在加密数据芯片中的信息。"
+  },
+  "groupID": 526,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Data Chip Decoder",
     "en": "Data Chip Decoder",
@@ -10,5 +22,7 @@
     "ru": "Data Chip Decoder",
     "zh": "资料芯片破译器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

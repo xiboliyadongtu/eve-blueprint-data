@@ -1,5 +1,19 @@
 {
-  "typeID": 17798,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Dieser verstärkte Container ist mit einem Empfangsmechanismus versehen, um Daten von nahegelegenen Sensorenplattformen zu empfangen. Der Frachter, mit dem der Container transportiert wurde, scheint irgendein katastrophales Ende gefunden zu haben.",
+    "en": "This reinforced container is outfitted with a capturing mechanism to pick up data from nearby sensor arrays. The cargo ship carrying this to its destination seems to have met some kind of disasterous end.",
+    "es": "Este contenedor reforzado está equipado con un mecanismo de captura para recoger datos de redes de sensores cercanas. El carguero que lo transportaba a su destino parece haber tenido un funesto final.",
+    "fr": "Ce conteneur renforcé est équipé d'un mécanisme permettant de récupérer les données des modules de détection alentours. Le vaisseau cargo qui devait porter ce chargement à destination semble avoir rencontré de gros problèmes.",
+    "ja": "付近のセンサーアレイからデータを捕捉する機能を搭載した強化コンテナ。このコンテナを輸送していた貨物船は悲惨な末路をたどったようである。",
+    "ko": "근처 센서 시설의 데이터를 수집할 수 있는 강화 컨테이너입니다. 컨테이너를 운반하던 함선은 형체가 잘 구분되지 않을 정도로 손상되어 있습니다.",
+    "ru": "Укрепленный контейнер оборудован улавливающим механизмом, чтобы собирать информацию с ближайших сенсорных устройств. Похоже, что грузовой корабль, перевозящий его, встретил печальный конец.",
+    "zh": "这个经加强的集装箱配备了一种捕获装置，可以获取来自附近感应器阵列的数据。运送这个集装箱的飞船似乎已遭不幸。"
+  },
+  "graphicID": 1176,
+  "groupID": 496,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Dented Cask",
     "en": "Dented Cask",
@@ -10,5 +24,10 @@
     "ru": "Dented Cask",
     "zh": "被挤压变形的货柜桶"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericmetal",
+  "soundID": 31,
   "volume": 1200.0
 }

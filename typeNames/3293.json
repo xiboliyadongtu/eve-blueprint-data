@@ -1,5 +1,21 @@
 {
-  "typeID": 3293,
+  "basePrice": 12000.0,
+  "capacity": 390.0,
+  "description": {
+    "de": "Ein Standard-Frachtbehälter, der für gewöhnliche Güter verwendet wird.",
+    "en": "A standard cargo container, used for common freight.",
+    "es": "Contenedor de carga estándar usado para cargamentos comunes.",
+    "fr": "Ce conteneur de fret standard est utilisé pour les chargements classiques.",
+    "ja": "一般の貨物輸送に用いる標準タイプのカーゴコンテナ。",
+    "ko": "평범한 화물 컨테이너입니다.",
+    "ru": "Стандартный контейнер для перевозки грузов.",
+    "zh": "标准货柜集装箱，用于运输普通货物。"
+  },
+  "graphicID": 1175,
+  "groupID": 12,
+  "iconID": 1175,
+  "marketGroupID": 1657,
+  "mass": 100000.0,
   "name": {
     "de": "Medium Standard Container",
     "en": "Medium Standard Container",
@@ -10,5 +26,9 @@
     "ru": "Medium Standard Container",
     "zh": "中型标准货柜"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 20.0,
+  "sofFactionName": "genericmetal",
   "volume": 325.0
 }

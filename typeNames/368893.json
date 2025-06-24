@@ -1,5 +1,17 @@
 {
-  "typeID": 368893,
+  "basePrice": 7000.0,
+  "description": {
+    "de": "Verringert die Schildladeverzögerung des Fahrzeugs.",
+    "en": "Reduces the length of the delay before the vehicle shield recharge begins.",
+    "es": "Reduce la duración de la demora antes de que el escudo del vehículo empiece a recargarse.",
+    "fr": "Réduit la période d'attente avant que la recharge du bouclier du véhicule ne commence.",
+    "it": "Riduce il ritardo prima che inizi la ricarica dello scudo del veicolo.",
+    "ja": "車両シールドリチャージの開始までの時間を短縮する。",
+    "ko": "실드 충전 활성화 시 딜레이가 감소합니다.",
+    "ru": "Снижает продолжительность задержки перед началом подзарядки щита транспортного средства.",
+    "zh": "缩短载具开始进行护盾回充前的延迟时间。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Einfacher Schildregulator",
     "en": "Basic Shield Regulator",
@@ -11,5 +23,7 @@
     "ru": "Базовый регулятор щита",
     "zh": "基础型护盾调节器"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1
 }

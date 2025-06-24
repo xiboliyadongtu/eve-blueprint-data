@@ -1,5 +1,18 @@
 {
-  "typeID": 48119,
+  "capacity": 4000.0,
+  "description": {
+    "de": "Dieses Schiff dient dem Warentransport für den Großen Preis der Föderation.",
+    "en": "This ship is being used to transport goods to and from the Federation Grand Prix.",
+    "es": "Esta nave se utiliza para transportar mercancías hacia y desde el Gran Premio de la Federación.",
+    "fr": "Ce vaisseau est utilisé pour l'échange de marchandises avec le Grand Prix de la Fédération.",
+    "ja": "この艦船は、連邦グランプリの物資輸送に使用されている。",
+    "ko": "연방 그랑프리에 관련된 제품을 실어 나르는 함선입니다.",
+    "ru": "Этот корабль используется для перевозки грузов до места проведения Гран-при федерации и обратно.",
+    "zh": "这艘船用来为联邦大奖赛运输货物。"
+  },
+  "graphicID": 328,
+  "groupID": 1895,
+  "mass": 110500000.0,
   "name": {
     "de": "Offizieller Großer Preis der Föderation Transportschiff",
     "en": "Official Federation Grand Prix Transport Ship",
@@ -10,5 +23,10 @@
     "ru": "Официальный транспортный корабль Гран-при федерации",
     "zh": "官方联邦大奖赛运输舰"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 553.0,
+  "sofFactionName": "gallentebase",
   "volume": 1105000.0
 }

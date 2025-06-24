@@ -1,5 +1,75 @@
 {
-  "typeID": 17732,
+  "basePrice": 219800000.0,
+  "capacity": 815.0,
+  "description": {
+    "de": "Die Flottenversion der Tempest wurde ursprünglich bei Core Complexion Inc. unter Lizenz hergestellt, wo man das existierende Modell mit der mittlerweile berühmten Verstärkung der Defensivfähigkeiten verbessern wollte. Der Entwickler, ein gewisser Enoksur Steidentet, machte seine Arbeit so gut, dass die Flotte prompt alle Rechte am Design für einen unbekannten Milliardenbetrag zurückkaufte, was die kleine Entwicklungs- und Produktionsfirma auf einen Schlag zu einem der wichtigsten Unternehmen machte.",
+    "en": "The Fleet Tempest originally came into being as a variant licensed by the Fleet to Core Complexion Inc., who intended to improve on the existing design with their now-famous emphasis on strong defensive capability. The designer, one Enoksur Steidentet, performed so well in this task that the Fleet promptly bought all rights to the design back from him for undisclosed billions, catapulting his small production and design corp into the major leagues.",
+    "es": "La Tempest modelo de la Flota nació originariamente como variante con licencia de la Flota a Core Complexion Inc., que tenía la intención de mejorar el diseño existente con su énfasis, ahora famoso, en una fuerte capacidad defensiva. El diseñador, un tal Enoksur Steidentet, realizó tan bien dicho cometido que la Flota le compró todos los derechos por no se sabe cuántos miles de millones, lo que catapultó su pequeña corporación a las grandes ligas.",
+    "fr": "L'exploitation de licence du Tempest fut accordée à Core Complexion Inc., dans l'espoir de créer une édition innovante aux capacités défensives améliorées, conformément à l'expertise de la corporation. Ainsi naquit le Tempest Republic Fleet. Son concepteur, Enoksur Steidentet, élabora un tel chef-d'œuvre que la Flotte eut tôt fait de lui racheter tous les brevets à prix d'or, si bien que la petite société de conception et de production fut immédiatement propulsée dans la cour des grands.",
+    "ja": "フリートテンペストの誕生は、海軍が防衛能力の強化を求めてコアコンプレクションに改良型の開発を委託したことから始まった。設計者のエノックサー・ステイデンテットはテンペストを素晴らしい戦艦に仕立てあげ、フリートは即座に全ての権利を莫大な金額で買い取った。これにより彼の小さな製作デザイン会社は一気に一流の仲間入りをすることになる。",
+    "ko": "템페스트 함대 에디션은 뛰어난 방어력으로 유명한 코어 컴플렉션에서 더욱 개선하여 내놓은 템페스트 기종의 라이센스를 민마타 함대에서 구입하여 양산한 함선입니다. 함선의 설계자인 에녹수르 스타이든텟은 자신에게 주어진 과제를 기대 이상으로 수행하였고 이에 민마타 함대는 수 십억의 금액을 주고 함선에 대한 라이센스를 비롯한 모든 권한을 구입하였습니다. 이 수주를 통해 코어컴플렉션은 순식간에 대형 군산복합체로 성장할 수 있었습니다.",
+    "ru": "Линкоры типа «Темпест-флотский» появились на свет в результате усилий корпорации «Кор Комплекшн» по модернизации оригинального проекта. Купив у флота Республики лицензию на выпуск этих линейных кораблей, корпорация занялась усовершенствованием их систем защиты; Эноксур Стейдентет, разработчик проекта, так преуспел в выполнении этого задания, что флот Республики немедленно выкупил у него все права на этот проект, заплатив ему неназываемую, но огромную сумму. В результате его небольшая промышленно-конструкторская корпорация вошла в высшую лигу.",
+    "zh": "狂暴级舰队型最初是由共和舰队授权核心局面公司生产的改进型号。该公司擅长防御系统的建造，他们计划改进原有的设计，加强飞船的防御能力。设计师恩洛苏尔·斯坦登特在这个任务上表现得是如此出色，以至于舰队毫不犹豫地花费巨资买下了所有的设计。这使他的设计生产公司一步登天，迅速踏入了主流行列。"
+  },
+  "factionID": 500002,
+  "graphicID": 2642,
+  "groupID": 27,
+  "marketGroupID": 1379,
+  "mass": 103300000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      165,
+      73,
+      138,
+      141,
+      150,
+      89
+    ],
+    "1": [
+      96,
+      99,
+      165,
+      73,
+      138,
+      141,
+      150,
+      89
+    ],
+    "2": [
+      96,
+      99,
+      165,
+      73,
+      138,
+      141,
+      150,
+      89
+    ],
+    "3": [
+      96,
+      99,
+      165,
+      73,
+      138,
+      141,
+      150,
+      89
+    ],
+    "4": [
+      96,
+      99,
+      165,
+      73,
+      138,
+      141,
+      117,
+      150,
+      89
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Tempest Fleet Issue",
     "en": "Tempest Fleet Issue",
@@ -10,5 +80,96 @@
     "ru": "Tempest Fleet Issue",
     "zh": "狂暴级舰队型"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 250.0,
+  "sofFactionName": "minmatarnavy",
+  "soundID": 20076,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 5.0,
+        "bonusText": {
+          "de": "zusätzlicher Bonus auf HP der <a href=showinfo:3394>Verstärkten Schottwand</a>",
+          "en": "additional bonus to <a href=showinfo:3394>Reinforced Bulkhead</a> hitpoints",
+          "es": "de bonificación adicional a los puntos de vida del <a href=showinfo:3394>mamparo reforzado</a>.",
+          "fr": "de bonus supplémentaire aux points de vie de la <a href=showinfo:3394>cloison renforcée</a>",
+          "ja": "<a href=showinfo:3394>強化隔壁</a>HPがさらに増加",
+          "ko": "<a href=showinfo:3394>강화 격벽</a> 내구도 증가",
+          "ru": "дополнительный бонус к прочности <a href=showinfo:3394>укреплённой переборки</a>",
+          "zh": "<a href=showinfo:3394>强化舱隔壁</a>结构值加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der <a href=showinfo:3394>Panzerplatte</a>",
+          "en": "bonus to <a href=showinfo:3394>Armor Plate</a> hitpoints",
+          "es": "de bonificación a los puntos de vida de las <a href=showinfo:3394>placas de blindaje</a>.",
+          "fr": "de bonus aux points de vie du <a href=showinfo:3394>revêtement de blindage</a>",
+          "ja": "<a href=showinfo:3394>アーマープレート</a>HPが増加",
+          "ko": "<a href=showinfo:3394>장갑 플레이트</a> 내구도 증가",
+          "ru": "бонус к прочности <a href=showinfo:3394>бронеплиты</a>",
+          "zh": "<a href=showinfo:3394>装甲附甲板</a>装甲值加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 100.0,
+        "bonusText": {
+          "de": "Bonus auf die HP der <a href=showinfo:3425>Schilderweiterung</a>",
+          "en": "bonus to <a href=showinfo:3425>Shield Extender</a> hitpoints",
+          "es": "de bonificación a los puntos de vida del <a href=showinfo:3425>extensor de escudo</a>.",
+          "fr": "de bonus aux points de vie de l'<a href=showinfo:3425>extenseur de bouclier</a>",
+          "ja": "<a href=showinfo:3425>シールドエクステンダー</a>HPが増加",
+          "ko": "<a href=showinfo:3425>실드 확장장치</a> 실드량 증가",
+          "ru": "бонус к прочности <a href=showinfo:3425>расширителя щитов</a>",
+          "zh": "<a href=showinfo:3425>护盾扩展装置</a>护盾值加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3337": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3308>großen Projektilgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3308>Large Projectile Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3308>torreta de proyectiles grande</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:3308>grandes tourelles à projectiles</a>",
+            "ja": "<a href=showinfo:3308>大型プロジェクタイルタレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3308>대형 발사체 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон боеприпасов <a href=showinfo:3308>больших баллистических орудий</a>",
+            "zh": "<a href=\"showinfo:3308\">大型射弹炮台</a>伤害加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Feuerrate von <a href=showinfo:3308>großen Projektilgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3308>Large Projectile Turret</a> rate of fire",
+            "es": "de bonificación a la cadencia de tiro de la <a href=showinfo:3308>torreta de proyectiles grande</a>.",
+            "fr": "de bonus à la cadence de tir des <a href=showinfo:3308>grandes tourelles à projectiles</a>",
+            "ja": "<a href=showinfo:3308>大型プロジェクタイルタレット</a>の発射間隔が短縮",
+            "ko": "<a href=showinfo:3308>대형 발사체 터렛</a> 연사속도 증가",
+            "ru": "повышается скорострельность <a href=showinfo:3308>больших баллистических орудий</a>",
+            "zh": "<a href=\"showinfo:3308\">大型射弹炮台</a>射速加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 639,
   "volume": 470000.0
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 57837,
+  "description": {
+    "de": "Diese kleine autonome Wartungsdrohne hilft bei der Instandhaltung des ungewöhnlichen Villore-Sprungtors im Sonnensystem Old Man Star. In unregelmäßigen Abständen tauchen die Drohnen aus ihren Lagerhangars auf, um kleinere Reparaturen und Stabilitätsanpassungen am Sprungtor vorzunehmen. Obwohl sie im Laufe der Jahre durch Standard-Weiterentwicklungen von CreoDron erweitert wurden, gehen Gerüchte um, dass die Kernfunktionalität der Drohnen noch immer auf einem Teil des ursprünglichen Codes beruht, der von Ceul Darieux selbst geschrieben wurde.",
+    "en": "This small autonomous maintenance drone aids in the upkeep of the unorthodox Villore stargate within the Old Man Star system. They emerge from their storage bays at irregular intervals to perform minor repairs and stability adjustments to the stargate.\r\n\r\nAlthough they have been augmented by standard CreoDron advancements over the years, rumors suggest that the core functionality of these drones still relies upon some of the original code written by Ceul Darieux himself.",
+    "es": "Este pequeño y autónomo dron de mantenimiento ayuda a mantener el poco ortodoxo portal estelar de Villore, en el sistema Old Man Star. Sale de su muelle de almacenamiento a intervalos irregulares para realizar pequeñas reparaciones y ajustes de estabilidad al portal estelar.\n\nAunque con los años han sido mejorados por los avances estándar de CreoDron, corre el rumor de que la funcionalidad principal de estos drones se basa todavía en parte del código original creado por el mismísimo Ceul Darieux.",
+    "fr": "Ce petit drone de maintenance autonome aide à l’entretien du portail stellaire hors-norme de Villore, dans le système d’Old Man Star. Ils émergent de leurs baies de stockage à intervalles irréguliers pour effectuer des réparations mineures et ajustements de stabilité sur le portail stellaire. Bien qu’ils aient été modernisés pour être mis aux normes des progrès technologiques de CreoDron au fil des années, selon les rumeurs, les fonctions de base de ces drones dépendraient encore en partie du code d’origine écrit par Ceul Darieux lui-même.",
+    "ja": "この小型の自律型メンテナンスドローンは、オールドマンスターシステム内にある型破りなビロアスターゲートの維持を手伝っている。ドローンはストレージベイから不定期に現われ、スターゲートに対して小規模な修理と安定性の調整を行う。\n\n\n\nドローンは長年にわたりクレオドロンの通常の技術的進歩による機能拡張を受けているが、その中核機能は未だにセウル・ダリュー本人が書いたオリジナルのコードによって動いていると言われている。",
+    "ko": "올드맨 스타 항성계의 빌로어 스타게이트를 관리하는 자율형 드론입니다. 때때로 격납고에서 나와 스타게이트를 수리하거나 안전성을 유지하기 위한 작업을 실시합니다.<br><br>해당 드론은 지난 몇 년 사이 크레오드론에 의해 개조되었으나, 소문에 따르면 여전히 세올 다리오의 기초 설계를 사용 중인 것으로 알려져 있습니다.",
+    "ru": "Этот маленький автономный обслуживающий дрон помогает поддерживать в надлежащем состоянии необычные Виллорские звёздные врата в системе Звезда Старца. Время от времени они появляются из отсека для дронов, чтобы провести небольшой ремонт и стабилизацию звёздных врат. И хотя за последние годы их оснастили стандартными модификациями корпорации «КреоДрон», ходят слухи, что код, написанный самим Сёлем Дарьё, по-прежнему остаётся неизменным.",
+    "zh": "这个小型自主维修无人机负责协助维护老人星星系中废弃的维洛勒星门。它们不定时地从机库出发，对星门进行小幅维修和稳定性调整。\n\n\n\n尽管多年来这些无人机一直以西顿工业标准升级程序来进行强化，但仍有流言称它们的核心功能依托于达列克斯自己写的源代码。"
+  },
+  "factionID": 500004,
+  "graphicID": 20129,
+  "groupID": 288,
   "name": {
     "de": "CreoDron Autonomous Maintenance Bot",
     "en": "CreoDron Autonomous Maintenance Bot",
@@ -10,5 +22,8 @@
     "ru": "CreoDron Autonomous Maintenance Bot",
     "zh": "西顿工业自动维护机器人"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 5.0,
+  "sofFactionName": "orebase"
 }

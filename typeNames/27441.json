@@ -1,5 +1,21 @@
 {
-  "typeID": 27441,
+  "basePrice": 2500.0,
+  "description": {
+    "de": "Die Scourge Heavy Missile ist ein altes Relikt aus dem Caldari Gallente Krieg und aufgrund ihres geringen Preises und ihrer Vielseitigkeit immer noch weit verbreitet.",
+    "en": "The Scourge heavy missile is an old relic from the Caldari-Gallente War that is still in widespread use because of its low price and versatility.",
+    "es": "El misil pesado Scourge es una antigua reliquia de la guerra Caldari-Gallente que sigue en uso por su bajo precio y versatilidad.",
+    "fr": "Le missile lourd Scourge est une relique de la guerre Caldari-Gallente encore très appréciée en raison de son faible coût et de sa polyvalence.",
+    "ja": "スコージヘビーミサイルはカルダリ-ガレンテ戦争の古い名残だが、その価格と万能性から、いまだに広く使用されている。",
+    "ko": "스커지 헤비 미사일은 칼다리-갈란테 전쟁의 유산으로 낮은 가격과 높은 범용성 덕분에 오늘날까지도 광범위하게 사용되고 있습니다.",
+    "ru": "Тяжелая ракета Scourge — реликт времен войны между Калдари и Галленте, которая все еще широко используется благодаря своей низкой цене и универсальности.",
+    "zh": "鞭挞重型导弹是遗留自加达里-盖伦特大战时期的老式导弹，不过由于其价格便宜且泛用性强，目前仍被广泛使用。"
+  },
+  "graphicID": 20051,
+  "groupID": 385,
+  "iconID": 189,
+  "marketGroupID": 1002,
+  "mass": 1000.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Caldari Navy Scourge Heavy Missile",
     "en": "Caldari Navy Scourge Heavy Missile",
@@ -10,5 +26,9 @@
     "ru": "Caldari Navy Scourge Heavy Missile",
     "zh": "加达里海军鞭挞重型导弹"
   },
+  "portionSize": 100,
+  "published": true,
+  "radius": 300.0,
+  "variationParentTypeID": 209,
   "volume": 0.03
 }

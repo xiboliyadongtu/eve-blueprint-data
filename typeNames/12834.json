@@ -1,5 +1,17 @@
 {
-  "typeID": 12834,
+  "basePrice": 200000.0,
+  "description": {
+    "de": "Skill zur Verstauung und zum Transport von Massengütern. 5 % Bonus pro Stufe auf die Frachtraumkapazität des Schiffs",
+    "en": "Skill at the stowage and transportation of bulk goods. 5% Bonus per level to Ship Cargo Capacity",
+    "es": "Habilidad en la estiba y el transporte de mercancías a granel. 5 % de bonificación por nivel a la capacidad de carga de la nave.",
+    "fr": "Compétence liée à l’arrimage et au transport des marchandises en gros. Augmente de 5 % par niveau la capacité de la soute.",
+    "ja": "大きな物資の積み込み、輸送スキル。レベル上昇ごとに船のカーゴ容量が5%増加。",
+    "ko": "대량의 화물을 적재하여 운송하기 위한 스킬입니다. 매 레벨마다 함선 화물 적재량 5% 증가",
+    "ru": "Навык хранения и транспортировки массивных грузов За каждую степень освоения навыка: на 5% увеличивается вместимость грузового отсека корабля",
+    "zh": "装载和运输大件物品的技能。每升一级，飞船货舱容量增加5%"
+  },
+  "groupID": 274,
+  "iconID": 33,
   "name": {
     "de": "General Freight",
     "en": "General Freight",
@@ -10,5 +22,7 @@
     "ru": "Грузоперевозка",
     "zh": "通用运输学"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

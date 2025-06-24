@@ -1,5 +1,17 @@
 {
-  "typeID": 30385,
+  "description": {
+    "de": "Diese Datenschnittstelle ermöglicht die Integration antiker Technologie in Systeme der Gallente.\n\nWir für Nachkonstruktionsaufträge benutzt.",
+    "en": "This data interface allows the integration of ancient technology with Gallente systems.\r\n\r\nUsed for Reverse Engineering jobs.",
+    "es": "Esta interfaz de datos permite la integración de tecnología antigua en sistemas gallentes.\n\nSe usa para trabajos de ingeniería inversa.",
+    "fr": "Cette interface de données permet l'intégration d'anciennes technologies dans les systèmes gallente.\n\nUtilisée pour les travaux de rétro-ingénierie.",
+    "ja": "古代文明のテクノロジーをガレンテのシステムに組み込むデータインターフェイス。リバースエンジニアリングのジョブに使用する。",
+    "ko": "고대 기술과 갈란테 시스템을 통합하기 위해 사용되는 데이터 인터페이스입니다. <br><br>역설계에 사용됩니다.",
+    "ru": "Эти интерфейсы данных позволяют осуществлять интеграцию древних и галлентских технологий. Используются в проектах инженерного ретроанализа.",
+    "zh": "这种数据接口能整合古代科技设备与盖伦特系统。\n\n可以用于逆向工程项目。"
+  },
+  "groupID": 979,
+  "iconID": 3186,
+  "mass": 1.0,
   "name": {
     "de": "Gallente Subsystems Data Interface",
     "en": "Gallente Subsystems Data Interface",
@@ -10,5 +22,8 @@
     "ru": "Gallente Subsystems Data Interface",
     "zh": "盖伦特子系统数据接口"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
   "volume": 1.0
 }

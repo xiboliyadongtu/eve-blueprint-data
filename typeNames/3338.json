@@ -1,5 +1,18 @@
 {
-  "typeID": 3338,
+  "basePrice": 7500000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Caldari-Schlachtschiffen.",
+    "en": "Skill at operating Caldari battleships.",
+    "es": "Habilidad en el manejo de acorazado caldaris.",
+    "fr": "Compétence liée au pilotage des cuirassés caldari.",
+    "ja": "カルダリ戦艦を操作するスキル。",
+    "ko": "칼다리 배틀쉽을 운용하기 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на линкорах производства Государства Калдари.",
+    "zh": "操作加达里战列舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Caldari Battleship",
     "en": "Caldari Battleship",
@@ -10,5 +23,8 @@
     "ru": "Калдарские линкоры",
     "zh": "加达里战列舰操作"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
   "volume": 0.01
 }

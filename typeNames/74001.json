@@ -1,5 +1,19 @@
 {
-  "typeID": 74001,
+  "basePrice": 100000.0,
+  "description": {
+    "de": "Militärische Navigationstelemetriedaten werden routinemäßig von den Flotten in den Kriegsgebieten gesammelt und über die Operationszentren der Imperien an die Flotten verteilt. Die Daten werden oft zusammengetragen und mit anderen Informationen zusammengefasst, um Berichte für höhere Kommandobehörden zu erstellen. Diese Art von Daten ist vielleicht nicht die entscheidendste, kann aber vor allem nach einiger Zeit von hohem Wert für die Analyse von militärischen Verkehrsbewegungen im Kriegsgebiet sein. Nach ihrer Legitimation werden diese telemetrischen Daten in der Regel von den Flotten und Milizkräften der Imperien problemlos gekauft.",
+    "en": "Military navigation telemetry is routinely collected from and distributed to fleets in the warzones from the operations centers of the empires. The data is often collated and combined with other information to provide reports to higher command authorities.\r\n\r\nWhile not necessarily the most critical intelligence, particular after some time has elapsed, this kind of data can be of great value for analyzing military traffic movements across the warzone. Once authenticated this telemetry will generally be purchased, no questions asked, by the navies and militia forces of the empires.",
+    "es": "La telemetría de navegación militar se obtiene de forma rutinaria y se distribuye entre flotas en las zonas de guerra de los centros de operaciones de los imperios. Los datos suelen estar recogidos y combinados con otra información para proporcionar informes a las autoridades de más alto mando.\n\nAunque no es necesariamente la inteligencia más crítica, en concreto, después de algún tiempo, este tipo de datos puede ser de gran valor para analizar los movimientos de tráfico militares de toda la zona de guerra. Una vez que esta telemetría se haya autentificado, las armadas y las fuerzas militares de los imperios generalmente la adquirirán sin necesidad de explicaciones.",
+    "fr": "Military navigation telemetry is routinely collected from and distributed to fleets in the warzones from the operations centers of the empires. The data is often collated and combined with other information to provide reports to higher command authorities.\n\nWhile not necessarily the most critical intelligence, particular after some time has elapsed, this kind of data can be of great value for analyzing military traffic movements across the warzone. Once authenticated this telemetry will generally be purchased, no questions asked, by the navies and militia forces of the empires.",
+    "ja": "軍用航行技術テレメトリのデータは定期的に収集され、主要大国のオペレーションセンターを通じて戦域内のフリートへと共有される。これらのデータが他の情報と照合、統合され、上級士官たちに届くレポートとなることも多い。\n\n最重要情報というわけではないが、特にある程度の時間の推移を記録したものについては、戦域内での戦力の移動状況を分析する上で非常に大きな価値を持つデータとなり得る。本物であることが証明されれば、大抵の場合、主要大国の海軍や義勇軍は委細構わずテレメトリデータを購入してくれるだろう。",
+    "ko": "군용 운항 텔레미터는 전쟁 영역에 배치된 각 국가의 함대가 주기적으로 수집하는 데이터입니다. 수집된 데이터는 각 국가의 작전본부로 전송되며 작전본부에서는 이 데이터를 다시 현장으로 배포합니다. 또한 각종 정보와 함께 종합되어 상급 지휘관에게도 보고됩니다.<br><br>최고 등급의 기밀로 취급되지는 않으며 수집 이후 시간이 지나면 더더욱 그 가치가 떨어지지만, 그럼에도 불구하고 전시에는 전쟁 영역에서 적군의 이동 경로를 상세하게 알 수 있는 자료가 됩니다. 거짓 정보가 아닌 것으로 판명된 군용 운항 텔레미터는 주로 각국의 해군이나 밀리샤에서 가격조차 묻지 않고 구매합니다.",
+    "ru": "Сбор военных данных по навигации и телеметрии — одна из стандартных задач. Из оперативных центров держав эти данные отправляются во флоты, находящиеся в зонах боевых действий. Полученные данные сопоставляют с другой информацией и дополняют новыми деталями, а затем формируют отчёт для вышестоящего командования. Нельзя сказать, что эти сведения имеют большое значение для разведки. Тем более со временем они устаревают. Но такие данные крайне важны для анализа перемещений военных кораблей в зоне боевых действий. После проверки подлинности сведения обычно приобретают космические флоты или ополченские формирования держав.",
+    "zh": "军用导航遥测数据由各大帝国的运营中心收集并发送给战区内的己方舰队。这些数据会与其他信息整合后提交给高级指挥机构。\n\n\n\n它可能不是最关键的情报，尤其是具有一定的时效性，但它对于分析战区中的军事部署动向有着很高的价值。数据一经授权后，各大帝国的海军和国民卫队都会不惜代价地想要获得它。"
+  },
+  "groupID": 314,
+  "iconID": 2853,
+  "marketGroupID": 20,
+  "mass": 0.01,
   "name": {
     "de": "Military Navigation Telemetry",
     "en": "Military Navigation Telemetry",
@@ -10,5 +24,7 @@
     "ru": "Military Navigation Telemetry",
     "zh": "军用导航遥测数据"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

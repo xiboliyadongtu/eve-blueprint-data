@@ -1,5 +1,16 @@
 {
-  "typeID": 29562,
+  "description": {
+    "de": "Eine Batterie.",
+    "en": "A battery.",
+    "es": "Una batería.",
+    "fr": "Batterie.",
+    "ja": "バッテリー。",
+    "ko": "포탑입니다.",
+    "ru": "Батарея.",
+    "zh": "炮台"
+  },
+  "graphicID": 2444,
+  "groupID": 226,
   "name": {
     "de": "Fortified Blood Raider Battery",
     "en": "Fortified Blood Raider Battery",
@@ -10,5 +21,9 @@
     "ru": "Fortified Blood Raider Battery",
     "zh": "强化的血袭者炮塔"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 200.0,
+  "sofFactionName": "bloodraider"
 }

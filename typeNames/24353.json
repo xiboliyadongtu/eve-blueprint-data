@@ -1,5 +1,17 @@
 {
-  "typeID": 24353,
+  "description": {
+    "de": "Dieser Zugangsschlüssel ermöglicht Zugang zur Yan Jung Relic Site selbst. Er eignet sich nur für den einmaligen Durchgang.",
+    "en": "This passkey allows entry to the Yan Jung relic site itself. It is only good for one go though.",
+    "es": "Este pase de seguridad permite acceder a la mismísima zona de reliquias de Yan Jung. Solo se puede usar una vez.",
+    "fr": "Cette carte d'accès permet de pénétrer sur le site de reliques de Yan Jung. Elle est à usage unique.",
+    "ja": "ヤンユング遺跡に入るためのマスターキー。一度しか使用できない。",
+    "ko": "해당 출입키를 사용하면 얀 정 유적 사이트로 진입할 수 있습니다. 출입키는 일회용입니다.",
+    "ru": "Этот ключ позволяет пройти в древний комплекс Yan Jung. Пройти может только один человек.",
+    "zh": "该钥匙可以通往殷郡遗迹，但只能使用一次。"
+  },
+  "groupID": 474,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Gargoyle Passkey",
     "en": "Gargoyle Passkey",
@@ -10,5 +22,7 @@
     "ru": "Gargoyle Passkey",
     "zh": "兽纹钥匙"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

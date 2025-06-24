@@ -1,5 +1,22 @@
 {
-  "typeID": 2873,
+  "basePrice": 35400.0,
+  "capacity": 0.5,
+  "description": {
+    "de": "Diese mehrläufige Maschinenkanone ist für Hit-and-Run-Kriegsführung gedacht. Sie muss mit einer der folgenden Projektil-Munitionssorten (regulär oder fortschrittlich) geladen werden: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, Barrage oder Hail.",
+    "en": "This multi-barrel autocannon is designed for skirmish warfare. \r\n\r\nMust be loaded with any of the following regular and advanced projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, Titanium Sabot, Barrage, Hail.",
+    "es": "Este cañón automático de varios cañones está diseñado para la guerra de escaramuzas.\n\nDebe cargarse con cualquiera de los siguientes tipos de munición de proyectiles normales o avanzados: plomo carbonado, uranio empobrecido, EMP, fusión, nuclear, plasma fásico, protón, perforante de titanio, Barrage y Hail.",
+    "fr": "Ce canon automatique doté de plusieurs tubes est conçu pour la guérilla. \n\nRequiert les types de munitions de projectile normales et perfectionnées suivants : plomb trempé, uranium appauvri, IEM, fusion, nucléaire, plasma à phase, proton, sabot de titane, barrage, grêle.",
+    "ja": "この連装式オートキャノンは高機動戦闘向けの設計になっている。 装填可能な標準または高性能プロジェクタイル弾のタイプ : 炭化鉛弾、劣化ウラン弾、電磁パルス弾、フュージョン弾、核弾頭弾、フェーズプラズマ弾、光子弾、チタン製サボット弾、バラージ弾、ヘイル弾。",
+    "ko": "스커미시 교전을 위한 다중배럴 기관포입니다. <br><br>사용 및 장착 가능한 발사체: 탄화납, 열화 우라늄, EMP, 융합, 원자력, 위상 플라즈마, 양성자, 티타늄 사봇, 버라지, 헤일.",
+    "ru": "Многоствольная автоматическая пушка, разработанная для боев мелких подразделений.\n\nДля стрельбы из пушки используются стандартные и усовершенствованные снаряды следующих типов: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, Titanium Sabot, Barrage, Hail.",
+    "zh": "这种多管自动加农炮专为小型冲突而设计。\r\n\r\n必须装填以下类型的常规和高级射弹弹药：碳铅弹、硬钼弹、电磁脉冲弹、聚变弹、核芯弹、定相离子弹、质子弹、钛合金萨博弹、“雷暴”、“冰雹”。"
+  },
+  "graphicID": 11303,
+  "groupID": 55,
+  "iconID": 387,
+  "marketGroupID": 574,
+  "mass": 500.0,
+  "metaGroupID": 2,
   "name": {
     "de": "125mm Gatling AutoCannon II",
     "en": "125mm Gatling AutoCannon II",
@@ -10,5 +27,10 @@
     "ru": "125mm Gatling AutoCannon II",
     "zh": "125mm加特林自动加农炮 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 2000.0,
+  "sofFactionName": "brutor",
+  "variationParentTypeID": 484,
   "volume": 5.0
 }

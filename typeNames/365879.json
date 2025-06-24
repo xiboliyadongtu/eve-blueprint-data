@@ -1,5 +1,17 @@
 {
-  "typeID": 365879,
+  "basePrice": 72000.0,
+  "description": {
+    "de": "Grundlegende Kenntnisse über die Bedienung von kleinen Geschützen.\n\nSchaltet die Fähigkeit zur Verwendung von kleinen Blaster-, Railgun- und Raketenwerfergeschützen frei. 2% Abzug auf den PG/CPU-Verbrauch von kleinen Geschützen pro Skillstufe.",
+    "en": "Basic understanding of small turret operation.\r\n\r\nUnlocks the ability to use small blaster, railgun and missile launcher turrets. 2% reduction to PG/CPU usage of small turrets per level.",
+    "es": "Conocimiento básico de manejo de torretas pequeñas.\n\nDesbloquea la capacidad de usar torretas pequeñas de cañones bláster, cañones gauss y lanzamisiles. -2% al coste de RA/CPU de las torretas pequeñas por nivel.",
+    "fr": "Notions de base en utilisation de petite tourelle.\n\nDéverrouille l'utilisation des petites tourelles de blaster, canon à rails et lance-missiles. 2 % de réduction d'utilisation de PG/CPU des petites tourelles par niveau.",
+    "it": "Comprensione base dell'utilizzo delle torrette piccole.\n\nSblocca l'abilità nell'utilizzo di torrette cannone blaster piccole, torrette cannone a rotaia e torrette missilistiche. 2% di riduzione all'utilizzo di PG/CPU delle torrette piccole per livello.",
+    "ja": "小型タレットオペレーションに関する基本的な知識。小型ブラスター、レールガンおよびミサイルランチャータレットが使用可能になる。レベル上昇ごとに小型タレットのPG/CPU使用量が2%減少する。",
+    "ko": "소형 터렛 운용에 대한 기본적인 이해를 습득합니다. <br><br>소형 블라스터, 레일건, 그리고 미사일 터렛을 운용할 수 있습니다. <br><br>매 레벨마다 소형 터렛의 PG/CPU 요구치 2% 감소",
+    "ru": "Понимание основ оперирования малыми турелями.\n\nОткрывает доступ к малому бластеру, рейлганным и ракетным турелям. На 2% снижает потребление малыми турелями ресурсов ЭС/ЦПУ на каждый уровень.",
+    "zh": "操作小型炮台基本知识。解锁使用小型疾速炮、磁轨炮和导弹发射炮台的能力。每升一级，小型炮台的PG/CPU使用率降低2%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Small Turret Operation",
     "en": "Small Turret Operation",
@@ -11,5 +23,7 @@
     "ru": "Small Turret Operation",
     "zh": "小型炮台操作"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

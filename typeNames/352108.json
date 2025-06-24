@@ -1,5 +1,17 @@
 {
-  "typeID": 352108,
+  "basePrice": 5000.0,
+  "description": {
+    "de": "Hohe Werte für PG und CPU setzen",
+    "en": "Set PG and CPU to high values",
+    "es": "Establece los sistemas de potencia y la CPU en valores altos.",
+    "fr": "Définit le PG et le CPU sur des valeurs élevées",
+    "it": "Imposta valori elevati per PG e CPU",
+    "ja": "PGとCPUを高めに設定",
+    "ko": "파워그리드 및 CPU 출력을 향상합니다.",
+    "ru": "Установка высоких значений энергосети и ЦПУ",
+    "zh": "设定较高的PG和CPU数值"
+  },
+  "groupID": 351121,
   "name": {
     "de": "[DEV] Hohes Fahrzeug PG/CPU",
     "en": "[DEV] High Vehicle PG/CPU",
@@ -11,5 +23,7 @@
     "ru": "[DEV] Высокие значения ЭС/ЦПУ транспортного средства",
     "zh": "[DEV]高级载具PG/CPU"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

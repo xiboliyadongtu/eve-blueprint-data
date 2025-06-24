@@ -1,5 +1,21 @@
 {
-  "typeID": 5217,
+  "capacity": 1.0,
+  "description": {
+    "de": "Dieser leichte Impulslaser verwendet zwei separate Laser-Fokussierungssysteme, um die Abkühlungsphase zwischen den Schüssen zu verkürzen; eine gute Nahkampfwaffe. Er muss mit einem der folgenden Frequenzkristalle bestückt werden: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",
+    "en": "This light pulse energy weapon uses two separate maser focusing systems to reduce the cool down period between shots. Good skirmish weapon. \r\n\r\nRequires frequency crystal ammo types: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",
+    "es": "Esta arma de energía de pulsos ligera usa dos sistemas de enfoque máser independientes para reducir el periodo de enfriamiento entre los disparos. Buena para escaramuzas.\n\nRequiere tipos de munición de cristales de frecuencia: gamma, infrarrojos, microondas, multifrecuencia, radio, estándar, ultravioleta, rayos X.",
+    "fr": "Cette arme légère à impulsions à énergie utilise deux systèmes maser séparés pour réduire le temps de refroidissement entre les tirs. Bonne arme de guérilla. \n\nRequiert les cristaux de fréquence suivants en guise de munitions : gamma, infrarouge, micro-onde, multifréquence, radio, standard, ultraviolet, rayon X.",
+    "ja": "ライトパルスエネルギー兵器。独立した 2 基のメーザー集束システムを交互に使用して、連射の間の冷却時間を短縮している。高機動向けの兵器。\r\n\n装填可能なフリーケンシークリスタルのタイプ : ガンマ、赤外線、マイクロ波、多周波、放射線、標準、紫外線、エックス線。",
+    "ko": "분리된 두 개의 메이저 집속시스템을 사용함으로써 발사 간 냉각 시간이 감소하였습니다. 스커미시 교전에 특화된 무기입니다. <br><br>사용 가능한 프리퀀시 크리스탈: 감마선, 적외선, 마이크로파, 멀티프리퀀시, 라디오파, 스탠다드, 자외선, 엑스선.",
+    "ru": "Этот легкий импульсный лазер оснащён двумя раздельными системами фокусировки лазерного излучения, позволяющими сократить перерывы на охлаждение и повышающими скорострельность. Рекомендуется для использования в стычках. \n\nСледует заряжать частотными кристаллами: Gamma, Infrared, Microwave, Multifrequency, Radio, Standard, Ultraviolet, Xray.",
+    "zh": "这种轻型脉冲能量武器配有两个独立的微波激射聚焦装置，以缩短两次开火之间的冷却周期。良好的小规模战斗武器 使用的频率晶体弹药类型：伽玛、红外线、微波、多频、射频、标准、紫外线和X射线。"
+  },
+  "graphicID": 11117,
+  "groupID": 53,
+  "iconID": 350,
+  "marketGroupID": 570,
+  "mass": 500.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Dual Afocal Pulse Maser I",
     "en": "Dual Afocal Pulse Maser I",
@@ -10,5 +26,10 @@
     "ru": "Dual Afocal Pulse Maser I",
     "zh": "双联无焦点脉冲微波激射器 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "sofFactionName": "amarrbase",
+  "variationParentTypeID": 451,
   "volume": 5.0
 }

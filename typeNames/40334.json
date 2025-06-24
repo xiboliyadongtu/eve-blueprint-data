@@ -1,5 +1,19 @@
 {
-  "typeID": 40334,
+  "basePrice": 4000.0,
+  "description": {
+    "de": "Dieses Skript kann in ein Leitstörmodul geladen werden, um die Lenkwaffen-Störeffektreichweite des Moduls auf Kosten seiner Präzision zu erhöhen.",
+    "en": "This script can be loaded into a guidance disruptor module to increase the module's missile range disruption effects at the expense of its missile precision disruption effects.",
+    "es": "Este script puede cargarse en un módulo disruptor de guiado para aumentar el efecto de perturbación de alcance de misil del módulo a costa del efecto de perturbación de la precisión.",
+    "fr": "Ce script peut être chargé sur un module de guidage de poursuite afin d'augmenter ses effets de perturbation de portée des missiles, aux dépens des effets de la perturbation de leur précision.",
+    "ja": "ガイダンス妨害モジュールにこのスクリプトを適用すると、モジュールのミサイル射程距離妨害効果が向上する代わりに、ミサイル精度妨害効果が減少する。",
+    "ko": "유도 디스럽터 모듈에 장착 가능하며, 장착 시 미사일 사거리 저하 효과가 증가하는 반면 미사일 유도 방해 효과가 감소합니다.",
+    "ru": "Эта прошивка может быть загружена в станции создания помех наведению ракет; она усиливает влияние помехопостановщика на дальность полёта ракет, но при этом приходится жертвовать влиянием помех на эффективность подрыва БЧ ракет.",
+    "zh": "该脚本可用在制导干扰器装备上以增加装备的导弹射程干扰效果，不过这样做会降低其导弹精准度干扰效果。"
+  },
+  "groupID": 1569,
+  "iconID": 21441,
+  "marketGroupID": 1094,
+  "mass": 1.0,
   "name": {
     "de": "Missile Range Disruption Script",
     "en": "Missile Range Disruption Script",
@@ -10,5 +24,7 @@
     "ru": "Missile Range Disruption Script",
     "zh": "导弹射程干扰脚本"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

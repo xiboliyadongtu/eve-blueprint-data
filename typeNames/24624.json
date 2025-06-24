@@ -1,5 +1,18 @@
 {
-  "typeID": 24624,
+  "basePrice": 20000000.0,
+  "description": {
+    "de": "Weiteres Training bei der Verwaltung mehrerer Labore. Durchführung eines weiteren Laborauftrags je Skillstufe",
+    "en": "Further training in the operation of multiple laboratories. Ability to run 1 additional research job per skill level.",
+    "es": "Permite entrenarte aún más en el funcionamiento simultáneo de varios laboratorios. Capacidad para realizar un trabajo de investigación adicional por nivel de habilidad.",
+    "fr": "Formation plus avancée de l'exploitation de plusieurs laboratoires. Aptitude à lancer 1 mission de recherche supplémentaire par niveau de compétence.",
+    "ja": "複数の研究所を稼働させる上級スキル。スキルレベル上昇ごとに実行可能な研究ジョブ数が1つ増加。",
+    "ko": "다수의 연구실 운용을 위한 상급 스킬입니다. 매 레벨마다 연구 슬롯 +1",
+    "ru": "Дальнейшее развитие навыка управления несколькими лабораториями. Освоение навыка позволяет пилоту увеличить количество единовременно проводимых научно-исследовательских работ (на 1 за каждую степень освоения навыка).",
+    "zh": "操作多个实验室的高级技能。每升一级，可同时多运行一个研究项目。"
+  },
+  "groupID": 270,
+  "iconID": 33,
+  "marketGroupID": 375,
   "name": {
     "de": "Advanced Laboratory Operation",
     "en": "Advanced Laboratory Operation",
@@ -10,5 +23,7 @@
     "ru": "Спецкурс лабораторных исследований",
     "zh": "高级实验室运作理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

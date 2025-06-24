@@ -1,5 +1,18 @@
 {
-  "typeID": 18004,
+  "capacity": 80.0,
+  "description": {
+    "de": "Der Manager der Nachschubstation patrouilliert unermüdlich in diesem Gebiet.",
+    "en": "The Supply Station Manager perpetually patrols the area.",
+    "es": "El gerente de estación de suministros siempre patrulla la zona.",
+    "fr": "Le responsable de la station d'approvisionnement patrouille régulièrement dans la zone.",
+    "ja": "供給ステーションマネージャーは、永久に管轄地域を巡回する。",
+    "ko": "보급소 관리자가 끊임없이 지역을 순찰하고 있습니다.",
+    "ru": "Менеджер станции по поставкам постоянно патрулирует область.",
+    "zh": "一直在这个地区巡逻的补给空间站管理员。"
+  },
+  "graphicID": 1827,
+  "groupID": 819,
+  "mass": 1612000.0,
   "name": {
     "de": "Supply Station Manager",
     "en": "Supply Station Manager",
@@ -10,5 +23,11 @@
     "ru": "Supply Station Manager",
     "zh": "补给站管理员"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 50.0,
+  "sofFactionName": "guristas",
+  "soundID": 31,
   "volume": 16120.0
 }

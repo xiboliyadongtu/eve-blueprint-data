@@ -1,5 +1,18 @@
 {
-  "typeID": 16859,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieser Außenposten ist mit behelfsmäßigen Sensoranlagen und gebrauchter Ausrüstung zur Datenanalyse bestückt und sieht wie ein nutzloser Schrotthaufen aus, wenn man es nicht besser weiß. Und die Matari wollen, dass sie genau das denken.",
+    "en": "Outfitted with makeshift sensor arrays and second-hand tactical data analysis equipment, these outposts will, to anyone not in the know, look like useless scrapyards.  Which is exactly what the Matari would have you think.",
+    "es": "Estos puestos avanzados, dotados de redes de sensores provisionales y aparatos de segunda mano para el análisis de datos tácticos, parecerán desguaces inútiles para cualquiera que no esté al corriente. Justo lo que los mataris quieren hacer creer.",
+    "fr": "Équipés de modules de détection de fortune et d'équipements d'analyse de données tactiques d'occasion, ces avant-postes peuvent passer pour de véritables décharges pour les personnes non averties.  C'est exactement ce que les Matari veulent que vous pensiez.",
+    "ja": "間に合わせのセンサーアレイと中古の戦略データ分析装置が取りつけられているアウトポスト。実情を知らなければ、無用な廃材置き場のように見える。実のところ、そう思わせることがマタールの狙いである。",
+    "ko": "언뜻보면 열악한 작전통제 장비와 센서 시설이 임시방편으로 세워져 있는 것처럼 보여 허술한 고철 처리장처럼 보입니다. 바로 마타리가 노리고 있는 바입니다.",
+    "ru": "Оборудованные самодельными сенсорными матрицами и бывшим в употреблении оборудованием тактического анализа данных, эти станции могут показаться несведущим бесполезными свалками. Minmatar хотят, чтобы вы думали именно так.",
+    "zh": "这类哨站配备了临时感应器阵列和二手战术数据分析设备，对于不晓内情的人来说，它们看上去就像一堆一无是处的垃圾。玛塔利正希望别人有这样的想法。"
+  },
+  "graphicID": 1711,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Minmatar Deadspace Tactical Outpost",
     "en": "Minmatar Deadspace Tactical Outpost",
@@ -10,5 +23,10 @@
     "ru": "Minmatar Deadspace Tactical Outpost",
     "zh": "米玛塔尔死亡空间战术哨站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 330.0,
+  "sofFactionName": "angelbase",
   "volume": 100000000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 24608,
+  "description": {
+    "de": "Dieser Schneeball ist größer als Ihr Kopf. Seine Form lässt verdächtigerweise darauf schließen, dass er mit Leichtigkeit in einen Schneeballwerfer passen würde.",
+    "en": "This snowball is bigger than your head.  Its shape looks suspiciously like it could fit into a snowball launcher with great ease.",
+    "es": "Esta bola de nieve es más grande que tu cabeza. Tiene un aspecto sospechoso, como si pudiera encajar en un lanzador de bolas de nieve con mucha facilidad.",
+    "fr": "Cette boule de neige est plus grosse que votre tête.  Sa forme semble faite pour s'adapter parfaitement au lance-boules de neige.",
+    "ja": "この雪の玉は人の頭より大きい。スノーボールランチャーに簡単に収まるのかどうか、大変に疑わしい。",
+    "ko": "당신의 머리보다 더 큰 눈 뭉치입니다. 눈뭉치 런처에 매우 잘 들어갈 것 같은 크기입니다.",
+    "ru": "Это снежок размером с арбуз! По его форме похоже, что он легко поместится в пусковую установку снежков.",
+    "zh": "这个雪球比你的头还要大，它的外观不得不让人猜想是不是可以把它放进一个雪球发射器里面。"
+  },
+  "graphicID": 20064,
+  "groupID": 500,
+  "iconID": 2943,
+  "mass": 100.0,
   "name": {
     "de": "SnowballNewEffect",
     "en": "SnowballNewEffect",
@@ -10,5 +23,8 @@
     "ru": "SnowballNewEffect",
     "zh": "新版雪球"
   },
+  "portionSize": 100,
+  "published": false,
+  "radius": 5.0,
   "volume": 1.0
 }

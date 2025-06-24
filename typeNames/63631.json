@@ -1,5 +1,18 @@
 {
-  "typeID": 63631,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Dieser Wachturm wird eine Stasisnetzbatterie auf jedes Ziel anwenden, das er als Bedrohung einstuft.",
+    "en": "This sentry tower will use a stasis webifier battery against any target it considers to be a threat.",
+    "es": "Esta torre centinela usará una batería de red ralentizadora contra cualquier objetivo que considere una amenaza.",
+    "fr": "Cette tour de surveillance utilise une batterie de générateurs de stase contre toute cible considérée comme une menace.",
+    "ja": "敵と見なしたターゲットにステイシスウェビファイヤーバッテリーを使用して攻撃するセントリータワー。",
+    "ko": "위협으로 간주되는 대상을 향해 스테이시스 웹 생성기를 사용합니다.",
+    "ru": "Эта сторожевая башня использует систему стазис-индукторов против любой подозрительной цели.",
+    "zh": "这座岗哨塔会对任何存在威胁的目标使用停滞缠绕光束。"
+  },
+  "graphicID": 2473,
+  "groupID": 383,
+  "mass": 1000.0,
   "name": {
     "de": "Hunt Stasis Webifier Tower",
     "en": "Hunt Stasis Webifier Tower",
@@ -10,5 +23,9 @@
     "ru": "Hunt Stasis Webifier Tower",
     "zh": "猎捕停滞缠绕光束塔"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 974.0,
+  "sofFactionName": "guristas",
   "volume": 1000.0
 }

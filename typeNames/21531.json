@@ -1,5 +1,17 @@
 {
-  "typeID": 21531,
+  "description": {
+    "de": "Der Prototyp eines Scanners. Er kann leicht in eine Scannerhalterung eingepasst werden, um eine vollständige und detaillierte Übersicht des Überwachungsgebietes zu erhalten.",
+    "en": "A prototype scanner that can be easily linked into a scanner array to get a full and detailed coverage of the area under surveillance.",
+    "es": "Un prototipo de escáner que se puede enlazar fácilmente a una red de escáneres para conseguir una cobertura completa y detallada de la zona vigilada.",
+    "fr": "Prototype de scanner facile à intégrer à un module de scanners dans le but d'obtenir une couverture complète et détaillée de la zone sous surveillance.",
+    "ja": "スキャナー施設に簡単にリンクして、調査エリア全体を綿密にカバーすることができる、プロトタイプのスキャナー。",
+    "ko": "프로토타입 스캐너로 비교적 간편하게 스캐너 체계에 접촉할 수 있습니다. 감시가 이루어지는 구역에 대하여 상세한 정보를 획득할 수 있습니다.",
+    "ru": "Прототип сканнера, который легко соединяется с другими для полного и детального контроля охраняемой территории.",
+    "zh": "一个扫描器原型，可以很容易地连接到扫描器阵列以监控某个地区的全部细节。"
+  },
+  "groupID": 526,
+  "iconID": 1364,
+  "mass": 2500.0,
   "name": {
     "de": "Barbed Wire Scanner",
     "en": "Barbed Wire Scanner",
@@ -10,5 +22,7 @@
     "ru": "Barbed Wire Scanner",
     "zh": "绞丝网式扫描器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 2.0
 }

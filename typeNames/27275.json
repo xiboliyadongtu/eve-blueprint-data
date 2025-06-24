@@ -1,5 +1,18 @@
 {
-  "typeID": 27275,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Die Überreste eines im Kampf zerstörten Transportschiffs.",
+    "en": "The remnants of a transport ship lost in battle.",
+    "es": "Restos de una nave de transporte caída en combate.",
+    "fr": "Restes d'un vaisseau de transport détruit lors d'une bataille.",
+    "ja": "戦いに敗れた特化型輸送艦の残骸。",
+    "ko": "전투 중 파괴된 수송선 잔해입니다.",
+    "ru": "Останки транспортного корабля, уничтоженного в бою.",
+    "zh": "这是一艘在战斗中毁灭的运输舰的残骸。"
+  },
+  "graphicID": 3115,
+  "groupID": 186,
+  "mass": 10000.0,
   "name": {
     "de": "Civilian Transport Ship Wreck",
     "en": "Civilian Transport Ship Wreck",
@@ -10,5 +23,9 @@
     "ru": "Civilian Transport Ship Wreck",
     "zh": "民用运输舰残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

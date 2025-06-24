@@ -1,5 +1,70 @@
 {
-  "typeID": 29340,
+  "basePrice": 25600000.0,
+  "capacity": 460.0,
+  "description": {
+    "de": "Die Schiffe der Caldari waren noch nie für ihre Geschwindigkeit bekannt. Mit diesem Wissen machten sich die Ingenieure der Caldari Navy an die Entwicklung der Osprey Navy Issue. Sie wurde zum schnellsten Kreuzer überhaupt und eignet sich bestens als Lenkwaffenschiff. Navy-Soldaten und andere Staatstreue können sich der Flexibilität der Osprey sicher sein und bestehen mit ihr jeden Ernstfall souveräner denn je.",
+    "en": "Caldari ships have never been renowned for their speed. With this in mind, Caldari Navy engineers set about designing the Osprey Navy Issue. The fastest Caldari cruiser in existence and a formidable missile boat, this vessel gives Navy personnel and State loyalists alike greater opportunities to conduct true skirmish warfare than ever before.",
+    "es": "Las naves caldaris nunca han destacado por su velocidad. Con ello en mente, los ingenieros de la Armada Caldari diseñaron la Osprey modelo de la Armada. Esta nave, el crucero caldari más rápido que jamás haya existido y un portamisiles formidable, brinda al personal de la Armada y a los fieles defensores del Estado más oportunidades de éxito en sus intentos de guerra de escaramuza que nunca antes.",
+    "fr": "Les vaisseaux caldari n'ont jamais été réputés pour leur vitesse. C'est dans cette optique que les ingénieurs de la Caldari Navy se sont attaqués à la conception de l'Osprey Navy. Le croiseur caldari le plus rapide à avoir vu le jour et formidable lanceur de missiles, ce vaisseau donne plus que jamais aux personnels de la Navy et aux loyalistes de l'État la possibilité de mener de vraies opérations de guérilla.",
+    "ja": "従来のカルダリ船は、速度面では決して評価が高いといえなかった。この状況を考慮したカルダリ海軍の技術者たちが設計したのがオスプレイ海軍仕様である。現在までで最速のカルダリ巡洋艦であり強力なミサイル艇でもあるこの艦により、海軍の者たちも連合の愛国者たちも、今までにない本格的な小戦闘を展開できるようになった。",
+    "ko": "칼다리 함선은 속도 면에서 항상 아쉬운 모습을 보여왔습니다. 이러한 단점을 극복하기 위한 노력으로 칼다리 해군은 오스프리 해군 에디션을 개발하였습니다. 오스프리 해군 에디션은 칼다리 크루저 가운데 최고의 속도와 화력을 자랑하며, 칼다리 파일럿들의 스커미시 능력을 크게 향상시켜 줍니다.",
+    "ru": "Калдарские корабли никогда не выделялись особенно высокой скоростью. Инженеры флота Государства Калдари помнили об этом при разработке «Оспри-флотского». Являясь быстрейшим из существующих калдарских крейсеров и неся мощное ракетное вооружение, этот корабль дарит флоту и верноподанным Государства Калдари крайне широкие возможности для проведения молниеносных атак.",
+    "zh": "众所周知，加达里的舰船从来没有能在速度上体现出任何优势。针对这个问题，加达里海军工程师们设计出了鱼鹰级海军型战舰。它是加达里舰队中速度最快的巡洋舰，同时还具备了相当强大的导弹打击能力。它的出现使加达里海军和爱国分子在局部冲突中会有更大的胜算。"
+  },
+  "factionID": 500001,
+  "graphicID": 1784,
+  "groupID": 26,
+  "marketGroupID": 1370,
+  "mass": 11780000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      150,
+      139,
+      76,
+      85,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      150,
+      139,
+      76,
+      85,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      150,
+      139,
+      76,
+      85,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      150,
+      139,
+      76,
+      85,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      150,
+      139,
+      76,
+      85,
+      118,
+      94
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Osprey Navy Issue",
     "en": "Osprey Navy Issue",
@@ -10,5 +75,65 @@
     "ru": "Osprey Navy Issue",
     "zh": "鱼鹰级海军型"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 174.0,
+  "sofFactionName": "caldarinavy",
+  "soundID": 20070,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [],
+    "types": {
+      "3334": [
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf die Maximalgeschwindigkeit von <a href=showinfo:3324>schweren Angriffslenkwaffen</a> und <a href=showinfo:25719>schweren Lenkwaffen</a>",
+            "en": "bonus to <a href=showinfo:3324>Heavy Missile</a> and <a href=showinfo:25719>Heavy Assault Missile</a> max velocity",
+            "es": "de bonificación a la velocidad máxima de los <a href=showinfo:3324>misiles pesados</a> y los <a href=showinfo:25719>misiles de asalto pesados</a>.",
+            "fr": "de bonus à la vitesse maximale des <a href=showinfo:3324>missiles lourds</a> et des <a href=showinfo:25719>missiles d'assaut lourds</a>",
+            "ja": "<a href=showinfo:3324>ヘビーミサイル</a>と<a href=showinfo:25719>ヘビーアサルトミサイル</a>の最高速度上昇",
+            "ko": "<a href=showinfo:3324>헤비 미사일</a> 및 <a href=showinfo:25719>헤비 어썰트 미사일</a> 최대 속도 증가",
+            "ru": "бонус к макс. скорости <a href=showinfo:3324>тяжёлых ракет</a> и <a href=showinfo:25719>тяжёлых штурмовых ракет</a>",
+            "zh": "<a href=showinfo:3324>重型导弹</a>和<a href=showinfo:25719>重型攻击导弹</a>最大速度加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 20.0,
+          "bonusText": {
+            "de": "Bonus auf den EM, Explosions- und Thermalschaden von <a href=showinfo:3321>leichten Lenkwaffen</a>, <a href=showinfo:3324>schweren Lenkwaffen</a> und <a href=showinfo:25719>schweren Angriffslenkwaffen</a>",
+            "en": "bonus to EM, explosive, thermal <a href=showinfo:3321>Light Missile</a>, <a href=showinfo:3324>Heavy Missile</a> and <a href=showinfo:25719>Heavy Assault Missile</a> damage",
+            "es": "de bonificación al daño electromagnético, explosivo y térmico de los <a href=showinfo:3321>misiles ligeros</a>, los <a href=showinfo:3324>misiles pesados</a> y los <a href=showinfo:25719>misiles de asalto pesados</a>.",
+            "fr": "de bonus aux dégâts EM, explosifs et thermiques des <a href=showinfo:3321>missiles légers</a>, <a href=showinfo:3324>missiles lourds</a> et <a href=showinfo:25719>missiles d'assaut lourds</a>",
+            "ja": "<a href=showinfo:3321>ライトミサイル</a>・<a href=showinfo:3324>ヘビーミサイル</a>・<a href=showinfo:25719>ヘビーアサルトミサイル</a>のEM・エクスプローシブ・サーマルダメージが増加",
+            "ko": "<a href=showinfo:3321>라이트 미사일</a>, <a href=showinfo:3324>헤비 미사일</a> 및 <a href=showinfo:25719>헤비 어썰트 미사일</a>의 EM, 폭발, 열 피해량 증가",
+            "ru": "увеличивается урон электромагнитных, фугасных и термических БЧ <a href=showinfo:3321>лёгких ракет</a>, <a href=showinfo:3324>тяжёлых ракет</a> и <a href=showinfo:25719>тяжёлых штурмовых ракет</a>",
+            "zh": "<a href=\"showinfo:3321\">轻型导弹</a>，<a href=\"showinfo:3324\">重型导弹</a>与<a href=\"showinfo:25719\">重型攻击导弹</a>电磁、爆炸和热能伤害加成"
+          },
+          "importance": 3,
+          "unitID": 105
+        },
+        {
+          "bonus": 25.0,
+          "bonusText": {
+            "de": "Bonus auf den Kinetikschaden von <a href=showinfo:3321>leichten Lenkwaffen</a>, <a href=showinfo:3324>schweren Lenkwaffen</a> und <a href=showinfo:25719>schweren Angriffslenkwaffen</a>",
+            "en": "bonus to kinetic <a href=showinfo:3321>Light Missile</a>, <a href=showinfo:3324>Heavy Missile</a> and <a href=showinfo:25719>Heavy Assault Missile</a> damage",
+            "es": "de bonificación al daño cinético de los <a href=showinfo:3321>misiles ligeros</a>, los <a href=showinfo:3324>misiles pesados</a> y los <a href=showinfo:25719>misiles de asalto pesados</a>.",
+            "fr": "de bonus aux dégâts cinétiques des <a href=showinfo:3321>missiles légers</a>, <a href=showinfo:3324>missiles lourds</a> et <a href=showinfo:25719>missiles d'assaut lourds</a>",
+            "ja": "<a href=showinfo:3321>ライトミサイル</a>・<a href=showinfo:3324>ヘビーミサイル</a>・<a href=showinfo:25719>ヘビーアサルトミサイル</a>のキネティックダメージが増加",
+            "ko": "<a href=showinfo:3321>라이트 미사일</a>, <a href=showinfo:3324>헤비 미사일</a> 및 <a href=showinfo:25719>헤비 어썰트 미사일</a>의 키네틱 피해량 증가",
+            "ru": "увеличивается урон кинетических БЧ <a href=showinfo:3321>лёгких ракет</a>, <a href=showinfo:3324>тяжёлых ракет</a> и <a href=showinfo:25719>тяжёлых штурмовых ракет</a>",
+            "zh": "<a href=\"showinfo:3321\">轻型导弹</a>、<a href=\"showinfo:3324\">重型导弹</a>和<a href=\"showinfo:25719\">重型攻击导弹</a>动能伤害加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 620,
   "volume": 107000.0
 }

@@ -1,5 +1,19 @@
 {
-  "typeID": 28318,
+  "basePrice": 12500000.0,
+  "capacity": 1.0,
+  "description": {
+    "de": "Eine Einrichtung, die kürzlich befreiten Sklaven hilft, sich von ihrer Vitoc-Abhängigkeit zu befreien und ihren freien Willen wiederzuerlangen.",
+    "en": "A facility which helps free recently freed slaves of their vitoc dependency and helps them regain their free will.",
+    "es": "Centro que ayuda a los esclavos recién liberados a desintoxicarse de su dependencia del Vitoc para que recuperen el libre albedrío.",
+    "fr": "Centre de désintoxication permettant de sevrer les esclaves récemment libérés de leur dépendance au Vitoc, afin qu'ils puissent retrouver leur volonté.",
+    "ja": "最近まで奴隷であった者がビトック中毒を治療し、自由意志を取り戻す手助けをする施設。",
+    "ko": "이 시설은 최근 해방된 노예들에게 바이톡 의존증 치료를 지원하면서 자유의지를 되찾도록 도와주고 있습니다.",
+    "ru": "Помещение, где бывшие рабы излечиваются от зависимости от Vitoc и восстанавливают свободу воли.",
+    "zh": "帮助最近获释的劳工摆脱对崴砣柯的依赖，使他们重获精神自由。"
+  },
+  "graphicID": 2377,
+  "groupID": 438,
+  "mass": 100000000.0,
   "name": {
     "de": "Trauma Treatment Facility",
     "en": "Trauma Treatment Facility",
@@ -10,5 +24,9 @@
     "ru": "Trauma Treatment Facility",
     "zh": "精神创伤诊疗设施"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 937.0,
+  "sofFactionName": "genericmetal",
   "volume": 4000.0
 }

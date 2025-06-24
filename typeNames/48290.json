@@ -1,5 +1,16 @@
 {
-  "typeID": 48290,
+  "description": {
+    "de": "Die Station, die sich früher hier befand, wurde von Goonswarm errichtet. YC111 wurde sie von der Atlas Alliance erobert, als diese versuchte, die Goons vollständig aus dem östlichen Raum zu verdrängen. Zum Zeitpunkt seiner Stilllegung war der Außenposten unter die Kontrolle von Fraternity gefallen. Die Allianz schaffte es, das System zu erobern, obwohl ihre erste Invasion von der zuvor herrschenden Solar Fleet zurückgeschlagen worden war.",
+    "en": "Built by Goonswarm, the station that once stood here was conquered by Atlas Alliance in YC111 as part of an attempt to push the Goons completely out of eastern space. When it was decommissioned the outpost had fallen under the control of Fraternity. The alliance managed to conquer the system despite being initially forced back by the previous owners Solar Fleet.",
+    "es": "Construida por Goonswarm, la estación que se erigía aquí fue conquistada por la alianza Atlas en el 111 CY como parte de un intento de expulsar a Goonswarm del espacio oriental. Cuando se desmanteló, el puesto avanzado había caído bajo el control de la Fraternidad. La alianza logró conquistar el sistema, si bien al principio se vio obligada a retroceder ante la Solar Fleet de los propietarios anteriores.",
+    "fr": "Construit par les Goonswarm, la station qui se tenait là autrefois a été conquise par l'Atlas Alliance en CY 111 dans le cadre d'une tentative pour repousser complètement les Goons hors de l'espace oriental. Quand il fut mis hors service, l'avant-poste était sous le contrôle de Fraternity. L'alliance a réussi à conquérir le système après avoir initialement été repoussée par les propriétaires précédents, la Solar Fleet.",
+    "ja": "かつてここに存在したこのステーションは、Goonswarmが建設し、YC111年に東部宙域からGoonを排除すべく行動していたAtlas Allianceによって制圧された。のちにFraternityの手に渡り、解体された。Fraternityはシステムの元の所有者であったSolar Fleetに押し返されたが、最終的には再度奪還に成功している。",
+    "ko": "Goonswarm 얼라이언스가 건설한 정거장이지만, Atlas 얼라이언스가 YC 111년 동쪽 우주에 대한 군사적 우위를 확고히 하기 위해 강탈하였습니다. 하지만 정거장이 철거될 무렵에는 Fraternity 얼라이언스가 점유한 상태였으며, 이들은 정거장의 전 주인이었던 Solar Fleet의 갖은 방해에도 불구하고 항성계를 끝끝내 점령하였습니다.",
+    "ru": "Некогда располагавшаяся здесь станция, построенная альянсом Goonswarm, в 111 году от ю. с. была захвачена альянсом Atlas Alliance, который пытался полностью вытеснить Goonswarm из восточной части космоса. Когда форпост был выведен из эксплуатации, контроль над ним принял альянс Fraternity. Ему удалось захватить систему даже несмотря на то, что поначалу его оттеснили предыдущие хозяева — альянс Solar Fleet.",
+    "zh": "这个纪念碑由昇威财团在其于YC120年大规模转化哨站和可争夺空间站之时设立。它是对曾屹立于这个星系，在克隆飞行员历史上留下过浓墨重彩一笔的空间站建筑的纪念。"
+  },
+  "graphicID": 3822,
+  "groupID": 1998,
   "name": {
     "de": "0-G8NO Station Monument",
     "en": "0-G8NO Station Monument",
@@ -10,5 +21,9 @@
     "ru": "0-G8NO Station Monument",
     "zh": "0-G8NO空间站纪念碑"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 1500.0,
+  "sofFactionName": "genericbase",
+  "soundID": 34
 }

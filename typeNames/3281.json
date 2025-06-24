@@ -1,5 +1,18 @@
 {
-  "typeID": 3281,
+  "basePrice": 200000.0,
+  "description": {
+    "de": "Ein Neuralinterface-Upgrade, das die Fertigkeiten des Piloten beim Verbinden von Sensoren erhöht.\n\n\n\n4% Reduktion des Energiespeicherverbrauchs von Modulen, die die Fertigkeit zum Verbinden von Sensoren erfordern",
+    "en": "A neural interface upgrade that boosts the pilot's skill at sensor linking.\r\n\r\n4% reduction in capacitor need of modules requiring the Sensor Linking skill.",
+    "es": "Mejora de interfaz neuronal que potencia la habilidad del piloto en enlace de sensores.\n\n4 % de reducción a la necesidad del condensador de módulos que requieren la habilidad de enlace de sensores.",
+    "fr": "Amélioration de l'interface neurale portant sur la compétence du pilote liée à l'optimisation de détecteurs.\n\nRéduit de 4 % les besoins énergétiques du capaciteur des modules nécessitant la compétence liée à l'optimisation de détecteurs.",
+    "ja": "神経系インターフェイスのアップグレード。パイロットのセンサーリンクスキルを高める。\n\nセンサーリンクスキルを必要とするモジュールのキャパシタ消費が4%節減。",
+    "ko": "센서 연결 스킬을 향상하는 신경 인터페이스 업그레이드입니다. <br><br>센서 연결 스킬을 요구하는 모든 모듈의 캐패시터 사용량 4% 감소",
+    "ru": "Модуль расширения нейроинтерфейса, улучшающий навыки пилота в области ретрансляции сенсорных систем.\n\n\n\nСокращение потребления энергии накопителя модулями, для использования которых требуется навык Sensor Linking, на 4%.",
+    "zh": "一款神经接口升级芯片，可以增强飞行员对远程感应设备的操作技能。对于需要感应器链研究这一技能的装备，电容需求量降低4%。"
+  },
+  "groupID": 740,
+  "iconID": 2224,
+  "marketGroupID": 1513,
   "name": {
     "de": "Zainou 'Gypsy' Sensor Linking SL-904",
     "en": "Zainou 'Gypsy' Sensor Linking SL-904",
@@ -10,5 +23,7 @@
     "ru": "Zainou 'Gypsy' Sensor Linking SL-904",
     "zh": "载诺 吉普赛 感应器链 SL-904"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

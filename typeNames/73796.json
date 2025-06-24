@@ -1,5 +1,70 @@
 {
-  "typeID": 73796,
+  "basePrice": 800000.0,
+  "capacity": 450.0,
+  "description": {
+    "de": "Obwohl sie dafür bekannt ist, sich allein auf ihre Drohnen zu verlassen, nutzt die Federation Navy eine Reihe von mächtigen „Kanonenboot“-Designs in allen Formen des Krieges, und der wohlverdiente Ruf der Catalyst als wirksame Fregattenabwehrplattform führte zu einem Verbesserungsprogramm der Navy Issue. Die überarbeitete Catalyst wurde mit verbesserter Panzerungstechnologie und hocheffizienten Waffensystemen verstärkt. Angesichts der verbesserten Wendigkeit und Geschwindigkeit dieser hartgesottenen Waffenplattform haben die Gallente ihre neue Navy Issue auf eine verbesserte Zielerfassung und Reichweite ausgerichtet.",
+    "en": "Despite its reputation for over-reliance on drones, the Federation Navy makes use of a number of powerful \"gunboat\" designs at every scale of combat and the Catalyst's well-earned reputation as a potent anti-frigate platform led to a Navy Issue upgrade program. The Navy's updated Catalyst has been enhanced with improved armor technology and highly-efficient weapon systems. To accompany the improved agility and speed of this tough gun platform, the Gallente oriented their new Navy Issue variant towards increased target acquisition at range.",
+    "es": "A pesar de su reputación por la sobredependencia de los drones, la Armada de la Federación emplea un número de potentes diseños de «cañoneras» en todas las escalas del combate, y la bien merecida reputación de la Catalyst como una potente plataforma antifragatas llevó a un programa de mejora modelo de la Armada. La Catalyst actualizada de la Armada se ha mejorado con tecnología de blindaje mejorado y sistemas de armas muy eficientes. Para acompañar la agilidad y la velocidad de esta resistente plataforma de armas, los gallentes orientaron su nueva variante modelo de la Armada hacia un aumento en la adquisición de objetivos a distancia.",
+    "fr": "Despite its reputation for over-reliance on drones, the Federation Navy makes use of a number of powerful \"gunboat\" designs at every scale of combat and the Catalyst's well-earned reputation as a potent anti-frigate platform led to a Navy Issue upgrade program. The Navy's updated Catalyst has been enhanced with improved armor technology and highly-efficient weapon systems. To accompany the improved agility and speed of this tough gun platform, the Gallente oriented their new Navy Issue variant towards increased target acquisition at range.",
+    "ja": "ドローン偏重主義の評判とは裏腹に、連邦海軍はあらゆる規模の戦闘において多数の強力な『ガンボート』系艦船を運用しており、カタリストに海軍仕様へのアップグレードプログラムの対象となった背景には、同艦が強力な対フリゲートプラットフォームとしての評価を築いていたことががある。連邦海軍がカタリストに行った近代化改装の効果は、改良型のアーマー技術や高効率な兵器システムによってさらに高められている。ガレンテは強靭な火砲プラットフォームであるこの新たな海軍仕様の派生艦に優れた機動性と速度を持たせただけでなく、遠距離のターゲットを捕捉する能力も向上させている。",
+    "ko": "연방 해군은 드론에 의존하는 경향이 크지만 강력한 '포격함' 또한 다양한 양상의 전투에서 운용하고 있습니다. 카탈리스트는 대프리깃 함선으로 그 명성이 이미 드높았고, 덕분에 해군 에디션 업그레이드 계획의 대상으로 선정되었습니다. 개량 끝에 카탈리스트는 최첨단 장갑 기술로 무장하고 막강한 무기 시스템을 탑재한 카탈리스트 해군 에디션으로 다시 태어났습니다. 향상된 기동성과 운항 속도를 활용하기 위해 먼 거리에서 적 함선을 타겟팅하는 속도도 개선되었습니다.",
+    "ru": "Несмотря на то что на вооружении флота Федерации в основном состоят корабли, оснащённые дронами, в каждом сражении также принимают участие пилоты на мощных боевых судах. Одним из таких судов является Catalyst — искусный охотник на фрегаты, — флотскую версию которого выпустили совсем недавно. Обновлённый Catalyst оснащён укреплённой бронёй и высокоэффективными орудиями. В отличие от классического варианта, Catalyst Navy Issue может похвастаться большей манёвренностью и скоростью, а также высокой дальностью захвата цели.",
+    "zh": "虽然一直被诟病过度依赖无人机，联邦海军其实还是在各种规模的战斗中使用过许多火力刚猛的“炮船”的。促进级作为声名远播的反护卫舰平台，终于迎来了海军型升级版本。升级后的促进级拥有了强化的装甲技术和高效的武器系统。在升级了促进级海军型的灵活性和速度的同时，联邦海军还提高了它的远距目标获取能力。"
+  },
+  "factionID": 500004,
+  "graphicID": 25608,
+  "groupID": 420,
+  "marketGroupID": 3481,
+  "mass": 1550000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      140,
+      67,
+      150,
+      89,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      140,
+      67,
+      150,
+      89,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      140,
+      67,
+      150,
+      89,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      140,
+      67,
+      150,
+      89,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      140,
+      67,
+      117,
+      150,
+      89,
+      94
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Catalyst Navy Issue",
     "en": "Catalyst Navy Issue",
@@ -10,5 +75,81 @@
     "ru": "Catalyst Navy Issue",
     "zh": "促进级海军型"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 143.0,
+  "sofFactionName": "gallentenavy",
+  "soundID": 20074,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Bonus auf die optimale Reichweite und den Präzisionsabfall von <a href=showinfo:3301>kleinen Hybridgeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:3301>Small Hybrid Turret</a> optimal range and falloff",
+          "es": "de bonificación a los alcances óptimo y efectivo de la <a href=showinfo:3301>torreta híbrida pequeña</a>.",
+          "fr": "bonus to <a href=showinfo:3301>Small Hybrid Turret</a> optimal range and falloff",
+          "ja": "<a href=showinfo:3301>小型ハイブリッドタレット</a>の最適射程距離と精度低下にボーナス",
+          "ko": "<a href=showinfo:3301>소형 하이브리드 터렛</a> 최적사거리 및 유효사거리 증가",
+          "ru": "бонус к оптимальной и остаточной дальности <a href=showinfo:3301>малых гибридных орудий</a>",
+          "zh": "<a href=showinfo:3301>小型混合炮台</a>最佳射程和失准范围加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "33093": [
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Reparaturmenge von <a href=showinfo:3393>Panzerungsreparatursystemen</a>",
+            "en": "bonus to <a href=showinfo:3393>Armor Repairer</a> amount",
+            "es": "de bonificación a la eficiencia de los <a href=showinfo:3393>reparadores de blindaje</a>.",
+            "fr": "bonus to <a href=showinfo:3393>Armor Repairer</a> amount",
+            "ja": "<a href=showinfo:3393>アーマーリペアラ</a>の回復量増加",
+            "ko": "<a href=showinfo:3393>장갑수리 장치</a> 수리량 증가",
+            "ru": "бонус к эффективности <a href=showinfo:3393>установки ремонта брони</a>",
+            "zh": "<a href=showinfo:3393>装甲维修器</a>维修量加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3301>kleinen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3301>Small Hybrid Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3301>torreta híbrida pequeña</a>.",
+            "fr": "bonus to <a href=showinfo:3301>Small Hybrid Turret</a> damage",
+            "ja": "<a href=showinfo:3301>小型ハイブリッドタレット</a>のダメージにボーナス",
+            "ko": "<a href=showinfo:3301>소형 하이브리드 터렛</a> 피해량 증가",
+            "ru": "бонус к урону <a href=showinfo:3301>малых гибридных орудий</a>",
+            "zh": "<a href=showinfo:3301>小型混合炮台</a>伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 15.0,
+          "bonusText": {
+            "de": "Reduktion des Masseabzugs von Panzerplatten",
+            "en": "reduction to Armor Plate mass penalty",
+            "es": "de reducción de la penalización de masa de la placa de blindaje",
+            "fr": "reduction to Armor Plate mass penalty",
+            "ja": "アーマープレートの質量ペナルティが減少",
+            "ko": "장갑 플레이트 질량 페널티 감소",
+            "ru": "снижение штрафа за массу для бронеплит",
+            "zh": "附甲板质量惩罚降低"
+          },
+          "importance": 3,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 16240,
   "volume": 55000.0
 }

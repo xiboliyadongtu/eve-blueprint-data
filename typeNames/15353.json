@@ -1,5 +1,19 @@
 {
-  "typeID": 15353,
+  "basePrice": 100.0,
+  "description": {
+    "de": "Dieser versiegelte Container enthält eine Unmenge an Werkzeugen für jede Art wissenschaftlicher Forschung.",
+    "en": "This sealed container contains a heap of tools used in all sorts of scientific research.",
+    "es": "Este contenedor sellado contiene un montón de herramientas usadas en todo tipo de investigaciones científicas.",
+    "fr": "Ce conteneur scellé renferme tout un tas d'objets utilisés dans différents domaines de recherche scientifique.",
+    "ja": "様々な科学調査に使用するツールが大量に入った密封コンテナ。",
+    "ko": "과학 연구에 사용되는 다양한 장비들이 가득 든 밀폐 컨테이너입니다.",
+    "ru": "Этот запечатанный контейнер содержит набор инструментов, используемых в разных сферах научных исследований.",
+    "zh": "这种带锁的箱子包含了一堆各种科学研究用的工具。"
+  },
+  "groupID": 314,
+  "iconID": 2039,
+  "marketGroupID": 20,
+  "mass": 1.0,
   "name": {
     "de": "Research Tools",
     "en": "Research Tools",
@@ -10,5 +24,7 @@
     "ru": "Research Tools",
     "zh": "研究工具"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

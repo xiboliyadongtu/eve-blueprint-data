@@ -1,5 +1,18 @@
 {
-  "typeID": 30279,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Großflächige Fenster und Teleskoptürme starren hinaus in die Dunkelheit des Alls. Das Glas dieser Kuppel ist zersplittert, das Dach teilweise zusammengebrochen - doch die leeren Augen der Talocan-Beobachtungskuppel glotzen scheinbar unentwegt, obwohl das Leben darin längst erloschen ist.",
+    "en": "Large windows and telescoping turrets peer out into the surrounding darkness. The windows of this dome are cracked and the roof partially collapsed, but the empty eyes of the Talocan observation dome always appears to be staring, despite the absence of its original occupants.",
+    "es": "Las grandes ventanas y las torretas telescópicas miran hacia la oscuridad que las rodea. Las ventanas están agrietadas y el techo está parcialmente hundido, pero los ojos vacíos de la cúpula de observación de Talocan siempre parecen estar mirando, pese a que sus ocupantes originales ya no lo habitan.",
+    "fr": "De grandes fenêtres et des tourelles télescopiques donnent sur l'obscurité environnante. Les fenêtres de ce dôme sont fendues et le toit est partiellement effondré, mais les yeux vides du dôme d'observation talocan semblent toujours à l'affût, et ce malgré l'absence de ses occupants.",
+    "ja": "巨大な窓とテレスコープタレットが周囲の暗闇を覗いた。このドームの窓は割れ、屋根の一部も壊れているが、タロカン観測ドームは常に観察し続けている。当初の持ち主が消えた今でも。",
+    "ko": "거대한 창문과 망원경 전망대가 주변의 어둠을 바라보고 있습니다. 유리는 이미 다 깨져있고 천장은 무너져있지만 탈로칸 관측 돔은 주인의 부재와 상관없이 언제나 우주를 응시하는 듯 합니다.",
+    "ru": "Большие окна и телескопические турели обращены в окружающую тьму. Окна этого купола разбиты, крыша частично обрушилась, однако остается ощущение, что пустые глазницы наблюдательного купола Talocan постоянно следят за вами, несмотря на отсутствие его обитателей.",
+    "zh": "望远镜从它巨大的透明圆顶望向宇宙黑暗的深处。圆顶上的窗户有一部分已经龟裂坍塌，但塔洛迦观测圆顶怎么样看上去都非常的显眼，只是现在已经是人去楼空。"
+  },
+  "graphicID": 3523,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Collapsed Talocan Observation Dome",
     "en": "Collapsed Talocan Observation Dome",
@@ -10,5 +23,9 @@
     "ru": "Collapsed Talocan Observation Dome",
     "zh": "坍塌的塔洛迦观测圆顶"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 600.0,
+  "sofFactionName": "talocanbase",
   "volume": 100000000.0
 }

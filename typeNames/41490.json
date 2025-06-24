@@ -1,5 +1,20 @@
 {
-  "typeID": 41490,
+  "basePrice": 50000.0,
+  "description": {
+    "de": "Sorgt für eine schnelle Energieeinspritzung in den Energiespeicher. Gut für brenzlige Situationen!",
+    "en": "Provides a quick injection of power into your capacitor. Good for tight situations!",
+    "es": "Proporciona una rápida inyección de energía en el condensador. ¡Genial para situaciones peliagudas!",
+    "fr": "Injecte un flux d'énergie auxiliaire dans le capaciteur. Un module providentiel dans les situations délicates !",
+    "ja": "キャパシタへエネルギーを即座に投入することが可能。緊急時の使用に最適。",
+    "ko": "캐패시터에 추가 전력을 주입합니다. 위기상황에서 주입하십시오!",
+    "ru": "Обеспечивает быстрый «впрыск» энергии в накопитель. Очень полезен в трудную минуту!",
+    "zh": "给你的电容器快速地注入能量。在紧急情况下很有用！"
+  },
+  "groupID": 87,
+  "iconID": 1033,
+  "marketGroupID": 139,
+  "mass": 80.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Navy Cap Booster 3200",
     "en": "Navy Cap Booster 3200",
@@ -10,5 +25,8 @@
     "ru": "Navy Cap Booster 3200",
     "zh": "海军电容注电器装料 3200"
   },
+  "portionSize": 10,
+  "published": true,
+  "variationParentTypeID": 41489,
   "volume": 96.0
 }

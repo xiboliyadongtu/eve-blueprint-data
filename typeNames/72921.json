@@ -1,5 +1,18 @@
 {
-  "typeID": 72921,
+  "capacity": 10000000.0,
+  "description": {
+    "de": "Diese Raffinerieanlage wurde vom Staat der Caldari errichtet, um das von loyalen Kapselpiloten angelieferte dichte Polykras zu verarbeiten und daraus Rohmaterial für den Bau des nahegelegenen Sprungtors zu erzeugen. Kapselpiloten, die dichtes Polykras in dieser Anlage deponieren, erhalten spezielle Loyalitätsmarken, die für ISK verkauft oder gegen exklusive Blaupausenkopien für frühzeitigen Zugang zur neuen Heron Navy Issue und Ferox Navy Issue eingetauscht werden können.",
+    "en": "This refinery structure has been constructed by the Caldari State to process Dense Polycrase deposited by loyal capsuleers and produce raw materials that can contribute to the construction of the nearby stargate.\r\n\r\nCapsuleers who deposit stacks of Dense Polycrase into this structure will receive special loyalty tokens that can be sold for ISK or traded for exclusive early access to blueprint copies for the new Heron Navy Issue and Ferox Navy Issue ships.",
+    "es": "El Estado Caldari ha construido esta estructura de refinería para procesar policrasa densa depositada por leales capsulistas y producir materias primas que pueden contribuir a la construcción del portal estelar cercano.\n\nLos capsulistas que depositen pilas de policrasa densa en esta estructura recibirán fichas de lealtad especiales que se pueden vender por ISK o intercambiar por un acceso anticipado exclusivo a copias de planos de las nuevas naves Heron modelo de la Armada y Ferox modelo de la Armada.",
+    "fr": "Cette structure de raffinerie a été construite par l'État caldari pour traiter le polycrase dense déposé par ses loyaux capsuliers et le transformer en matières brutes pouvant contribuer à la construction du portail stellaire avoisinant. Des jetons de loyauté spéciaux seront remis aux capsuliers qui pourvoiront cette structure en polycrase dense. Ils pourront être échangés contre des ISK ou contre des copies de plans de construction exclusifs en accès anticipé pour les nouveaux vaisseaux Heron Navy Issue et Ferox Navy Issue.",
+    "ja": "この精錬所ストラクチャはカルダリ連合によって建設されたもので、忠誠心あるカプセラによって預けられた高密度ポリクレースを処理し、付近のスターゲート建設のための原料を製造することを目的としている。\n\nこのストラクチャに大量の高密度ポリクレースを預けたカプセラは、売却してISKを手に入れたり、この方法でのみ先行入手できる、新型艦のヘロン海軍仕様やフェロックス海軍仕様の設計図コピーとの交換に使える特別なロイヤルティトークンを与えられる。",
+    "ko": "칼다리 연합이 응축 폴리크레이스를 처리하려 건설한 정제소입니다. 캡슐리어가 저장한 응축 폴리크레이스를 정제해 스타게이트 건설에 필요한 자원을 생산합니다.<br><br>해당 시설에 응축 폴리크레이스를 저장한 캡슐리어는 특별 로열티 토큰을 받을 수 있습니다. 로열티 토큰은 거래소에서 ISK와 교환하거나 사전 판매되는 헤론 및 페록스 해군 에디션 함선의 블루프린트 복제본을 구매할 수 있습니다.",
+    "ru": "Государство Калдари построило этот комплекс для переработки плотного поликраза, который привозят капсулёры, и производства сырья, необходимого для возведения ближайших звёздных врат. Пилоты, поставляющие комплексу плотный поликраз, получат особые наградные жетоны, которые можно продать за ISK или обменять на эксклюзивные копии чертежей новых кораблей — Heron Navy Issue и Ferox Navy Issue, — находящиеся в раннем доступе.",
+    "zh": "这座精炼建筑由加达里合众国建造，用于处理克隆飞行员上交的厚质复稀金矿，并将所得的原材料用在附近的星门建造项目上。\n\n\n\n在这座建筑中上交厚质复稀金矿的克隆飞行员将获得特别的忠诚点凭证，可以出售换取星币，也可以用来兑换苍鹭级海军型和猛鲑级海军型的蓝图拷贝。"
+  },
+  "graphicID": 2299,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Erzraffinerie des Staats",
     "en": "State Ore Refinery",
@@ -10,5 +23,11 @@
     "ru": "Калдарский перерабатывающий комплекс",
     "zh": "合众国矿石精炼厂"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 500.0,
+  "sofFactionName": "genericmetal",
+  "soundID": 20197,
   "volume": 100000000.0
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 364682,
+  "basePrice": 203000.0,
+  "description": {
+    "de": "Skill in der Munitionsverwaltung.\n\n+5% auf die maximale Munitionskapazität pro Skillstufe.",
+    "en": "Skill at ammunition management.\n\n+5% maximum ammunition capacity per level.",
+    "es": "Habilidad de gestión de munición.\n\n+5 % a la capacidad máxima de munición por nivel.",
+    "fr": "Compétence de gestion des munitions.\n\n+5 % de capacité maximale de munitions par niveau.",
+    "it": "Abilità nella gestione delle munizioni.\n\n+5% alla massima capacità di munizioni per livello.",
+    "ja": "弾薬を管理するスキル。\n\nレベル上昇ごとに、装弾数が5%増加する。",
+    "ko": "탄약 관리 스킬입니다.<br><br>매 레벨마다 장탄수 5% 증가",
+    "ru": "Навык обращения с боеприпасами.\n\n+5% к максимальному количеству боеприпасов на каждый уровень.",
+    "zh": "管理弹药的技能。每升一级，最大弹药容量增加5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Munitionskapazität: Scharfschützengewehr",
     "en": "Sniper Rifle Ammo Capacity",
@@ -11,5 +23,6 @@
     "ru": "Количество боеприпасов снайперской винтовки",
     "zh": "狙击步枪弹药容量"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

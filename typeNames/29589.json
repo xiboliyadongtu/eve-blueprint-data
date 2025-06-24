@@ -1,5 +1,16 @@
 {
-  "typeID": 29589,
+  "description": {
+    "de": "Eine Batterie.",
+    "en": "A battery.",
+    "es": "Una batería.",
+    "fr": "Batterie.",
+    "ja": "バッテリー。",
+    "ko": "포탑입니다.",
+    "ru": "Батарея.",
+    "zh": "炮台"
+  },
+  "graphicID": 2587,
+  "groupID": 226,
   "name": {
     "de": "Fortified Drone Battery",
     "en": "Fortified Drone Battery",
@@ -10,5 +21,9 @@
     "ru": "Fortified Drone Battery",
     "zh": "强化的无人机炮塔"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 180.0,
+  "sofFactionName": "roguebase"
 }

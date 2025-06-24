@@ -1,5 +1,17 @@
 {
-  "typeID": 26966,
+  "description": {
+    "de": "Diese Schiffsmodifikation wurde entworfen, um die Schildkapazität zu erhöhen, auf Kosten eines erhöhten Signaturradius.\r\n\r\nHinweis: Funktioniert nicht bei Capital-Modulen.",
+    "en": "This ship modification is designed to increase shield capacity at the expense of increased signature radius.\r\n\r\nNote: Does not work on capital sized modules",
+    "es": "Esta modificación de nave está diseñada para aumentar la capacidad de los escudos a costa de aumentar el radio de la señal.\n\nAviso: No funciona en módulos para naves de tamaño capital.",
+    "fr": "Cette modification de vaisseau est conçue pour augmenter la capacité du bouclier, au détriment du rayon de signature étendu.\n\nRemarque : ne fonctionne pas sur des modules de taille capitale.",
+    "ja": "この艦船調整用パーツは、シールド容量を向上させるが、シグネチャ半径も拡張する。\n\n注:主力艦級モジュールには無効。",
+    "ko": "리그 장착 시 실드량이 증가하는 반면 함선의 시그니처 반경도 증가합니다. <br><br>참고: 캐피탈급 모듈에는 효과가 적용되지 않습니다.",
+    "ru": "Эта модификация увеличивает число хитов силового щита за счет увеличения радиуса сигнатуры корабля.\n\nПримечание: не действует на модули КБТ-класса (Capital-sized)",
+    "zh": "这个飞船改装件通过增大信号半径来增加飞船护盾的容量。\r\n\r\n注：这个改装件不能用于旗舰级装备"
+  },
+  "groupID": 774,
+  "iconID": 3193,
+  "mass": 200.0,
   "name": {
     "de": "Shield Transporter Rig II",
     "en": "Shield Transporter Rig II",
@@ -10,5 +22,8 @@
     "ru": "Shield Transporter Rig II",
     "zh": "护盾传输设备改装件 II"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 100.0,
   "volume": 5.0
 }

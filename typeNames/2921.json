@@ -1,5 +1,22 @@
 {
-  "typeID": 2921,
+  "basePrice": 436976.0,
+  "capacity": 0.5,
+  "description": {
+    "de": "Eine schlagkräftige Langstreckenkanone, die zu den am meisten Schaden verursachenden Projektilwaffen gehört, die man in Kreuzer einbauen kann. Sie muss mit einer der folgenden Projektil-Munitionssorten (regulär oder fortschrittlich) geladen werden: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, Titanium Sabot, Quake, Tremor.",
+    "en": "A powerful long-range cannon. One of the most damaging weapons mountable on a cruiser. \r\n\r\nMust be loaded with any of the following regular and advanced projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, Titanium Sabot, Quake, Tremor.",
+    "es": "Un potente cañón de largo alcance. Una de las armas más dañinas que pueden montarse en un crucero.\n\nDebe cargarse con cualquiera de los siguientes tipos de munición de proyectiles normales o avanzados: plomo carbonado, uranio empobrecido, EMP, fusión, nuclear, plasma fásico, protón, perforante de titanio, Quake y Tremor.",
+    "fr": "Canon puissant à longue portée. Une des armes les plus dévastatrices pouvant équiper un croiseur. \n\nRequiert les types de munitions de projectile normales et perfectionnées suivants : plomb trempé, uranium appauvri, IEM, fusion, nucléaire, plasma à phase, proton, sabot de titane, quake, tremor.",
+    "ja": "強烈な威力を持つ長距離射程キャノン。巡洋艦に搭載可能な兵器としては、最強レベルの破壊力を持つ。\n\n装填可能な標準型または高性能プロジェクタイル弾のタイプ : 炭化鉛弾、劣化ウラン弾、EMP弾、フュージョン弾、ニュークリア弾、フェーズプラズマ弾、プロトン弾、チタン製サボット弾、クェーク弾、トレマー弾。",
+    "ko": "장거리 교전 시 강력한 위력을 발휘하는 함포입니다. 크루저에 탑재 가능한 무기 중 손에 꼽히는 파괴력을 자랑합니다. <br><br>사용 및 장착 가능한 발사체: 탄화납, 열화 우라늄, EMP, 융합, 원자력, 위상 플라즈마, 양성자, 티타늄 사봇, 퀘이크, 트래머.",
+    "ru": "Мощное и дальнобойное артиллерийское орудие. Одно из самых мощных орудий, предназначенных для установки на крейсеры.\n\nДля стрельбы из орудия используются стандартные и усовершенствованные снаряды следующих типов: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, Titanium Sabot, Quake, Tremor.",
+    "zh": "威力强大的远程加农炮。巡洋舰所能装备的破坏力最大的武器之一。\r\n\r\n必须装填以下类型的常规和高级射弹弹药：碳铅弹、硬钼弹、电磁脉冲弹、聚变弹、核芯弹、定相离子弹、质子弹、钛合金萨博弹、“地震”、“战栗”。"
+  },
+  "graphicID": 11281,
+  "groupID": 55,
+  "iconID": 384,
+  "marketGroupID": 578,
+  "mass": 125.0,
+  "metaGroupID": 2,
   "name": {
     "de": "650mm Artillery Cannon II",
     "en": "650mm Artillery Cannon II",
@@ -10,5 +27,10 @@
     "ru": "650mm Artillery Cannon II",
     "zh": "650mm加农炮 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 200.0,
+  "sofFactionName": "brutor",
+  "variationParentTypeID": 492,
   "volume": 10.0
 }

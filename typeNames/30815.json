@@ -1,5 +1,18 @@
 {
-  "typeID": 30815,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Ein schutzloses Lagergebäude, das Food-Relief-Arbeiter beherbergt. Im Innern der Station befinden sich massenhaft Vorräte und Lebensmittel sowie Arbeitskräfte und einige Freiwillige.",
+    "en": "A defenseless storage facility housing Food Relief workers. Inside the station are loads of supplies and food, as well as personnel workers and a few volunteers.",
+    "es": "Almacén indefenso que aloja a trabajadores de Food Relief. Dentro de la estación hay muchas provisiones y alimentos, además de miembros del personal y algunos voluntarios.",
+    "fr": "Un site de stockage sans défense abritant des ouvriers de Food Relief. À l'intérieur de la station se trouvent du matériel et de la nourriture, ainsi que des ouvriers et des bénévoles.",
+    "ja": "フードリリーフの作業員を収容している、防御力のない保管施設。ステーションの中には山のような救援物資と食料があり、職員やボランティアがいる。",
+    "ko": "긴급식량구호기구 관계자들이 상주하는 무방비의 저장시설입니다. 보급물자와 식량이 가득하며 직원들과 소수의 봉사 인력이 내부에 있습니다.",
+    "ru": "Беззащитное складское помещение, дающее приют работникам Food Relief. Внутри станции находится огромное количество запасов и продовольствия, а также персонал и несколько добровольцев.",
+    "zh": "这个居住有粮食救济会人员的储藏设置完全没有任何防备能力。里面有大量的补给和事物，当然还有一些工人和志愿者。"
+  },
+  "graphicID": 2515,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Habitation Module - Personnel Quarters",
     "en": "Habitation Module - Personnel Quarters",
@@ -10,5 +23,9 @@
     "ru": "Habitation Module - Personnel Quarters",
     "zh": "居住舱 - 人员舱室"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 379.0,
+  "sofFactionName": "genericliving",
   "volume": 27500.0
 }

@@ -1,5 +1,16 @@
 {
-  "typeID": 10122,
+  "description": {
+    "de": "Eine Plattform, die für den Abschuss von Raketen ähnlich der Sentry-Guns entwickelt wurde.",
+    "en": "A platform designed to launch missiles similar to sentry guns.",
+    "es": "Plataforma diseñada para lanzar misiles, similar a las torretas centinelas.",
+    "fr": "Une plateforme semblable aux canons de sentinelle conçus pour lancer des missiles.",
+    "ja": "セントリーガンと類似した方法でミサイルを発射できるプラットフォーム。",
+    "ko": "센트리 포탑과 유사한 미사일 발사 플랫폼입니다.",
+    "ru": "Платформа, разработанная для запуска ракет подобно сторожевым орудиям.",
+    "zh": "用于发射导弹的平台，类似岗哨炮。"
+  },
+  "graphicID": 1683,
+  "groupID": 226,
   "name": {
     "de": "Multi-purpose Pad",
     "en": "Multi-purpose Pad",
@@ -10,5 +21,9 @@
     "ru": "Multi-purpose Pad",
     "zh": "多功能平台"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 60.0,
+  "sofFactionName": "genericbase"
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 23859,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Das Gebäude dient als Kommadozentrale dieser amarrianischen Region. Normalerweise wird es von mehreren Militäreinheiten bewacht. Dieses Bollwerk ist so entworfen, dass es als Militärbasis im Krieg und Regierungsgebäude in Friedenszeiten genutzt werden kann.",
+    "en": "This building functions as the command and control center for the local region within the Amarr Empire. Usually guarded by several military units. This stronghold is designed to function as a military base during times of war aswell as a government office during peace times.",
+    "es": "Este edificio funciona como centro de mando y control de la región local dentro del Imperio Amarr. Suele estar protegido por varias unidades militares. Este bastión está diseñado para servir como base militar durante tiempos de guerra y como oficina gubernamental durante tiempos de paz.",
+    "fr": "Ce bâtiment sert de centre de commandement et de contrôle pour la région au sein de l'Empire amarr. Il est généralement gardé par plusieurs unités militaires. Ce bastion est destiné à être une base militaire en temps de guerre et le siège du gouvernement en temps de paix.",
+    "ja": "アマー帝国内の地方指揮統制センターとして機能するビルディング。複数の軍事部隊によって警護されている。平時には政府オフィスとして、戦時には軍事基地として機能するよう設計されている。",
+    "ko": "아마르 제국의 지역 본부이자 관제센터로 군사적 보호를 받고 있습니다. 전쟁 상황에서는 군사 기지의 역할을, 평시에는 정부 시설로 취급됩니다.",
+    "ru": "Данное здание служит командным и диспетчерским центром этого региона Империи Amarr. Обычно охраняются несколькими военными отрядами. Эта твердыня спроектирована для функционирования как военная база в военное время, а также как правительственное учреждение в мирное время.",
+    "zh": "这个建筑的用途是艾玛帝国内星域的当地指挥和控制中心。通常由几个军事单位负责防卫。这个要塞在战争期间起到军事基地的作用，而在和平时期则用作政府办公楼。"
+  },
+  "graphicID": 2400,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Amarr Administration Complex",
     "en": "Amarr Administration Complex",
@@ -10,5 +23,10 @@
     "ru": "Amarr Administration Complex",
     "zh": "艾玛行政站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 2787.0,
+  "sofFactionName": "amarrbase",
   "volume": 100000000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 34398,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Diese Einheit fängt Infrarotstrahlen der Sonne auf, verstärkt diese und leitet sie anderenorts weiter, je nachdem, wie die Einheit ausgerichtet ist. Benötigt eventuell eine Infrarotstrahlen-Anpassungsscheibe, um korrekt ausgerichtet zu werden.",
+    "en": "This unit catches infrared rays from the sun, amplifies them and redirects elsewhere based on how the unit is aligned. It may require an Infrared Ray Modulate Disc to align correctly.",
+    "es": "Esta unidad captura, amplifica y redirige rayos infrarrojos del sol a otro lugar en función de cómo esté alineada. Podría requerir un disco modulador de rayos infrarrojos para su correcta alineación.",
+    "fr": "Cette unité capture les rayons infrarouges du soleil, les amplifie et les redirige ailleurs selon la manière dont l'unité est alignée. Elle peut avoir besoin d'un disque de modulation de rayons infrarouges pour être alignée correctement.",
+    "ja": "このユニットは、調整内容に基づいて、太陽から赤外線をとらえ、増幅させた後にあらゆる方向へ向けて放出することができる。適切に調整するには赤外線変調ディスクが必要となる場合がある。",
+    "ko": "태양으로부터 적외선을 흡수한 뒤 증폭하여 다른 곳으로 전송합니다. 전송 방향을 올바르게 설정하기 위해서는 적외선 모듈 디스크가 요구됩니다.",
+    "ru": "Блок улавливает инфракрасное излучение звезды, усиливает его и перенаправляет в соответствии с положением блока. Корректная наводка может потребовать вставки диска модуляции инфракрасного излучения.",
+    "zh": "这个装置收集恒星的红外线，对其进行放大并指向到这个装置朝向的地方。你可能需要一个红外线调节盘来正确地校准它。"
+  },
+  "graphicID": 1725,
+  "groupID": 952,
+  "mass": 10000.0,
   "name": {
     "de": "Solray Infrared Alignment Unit",
     "en": "Solray Infrared Alignment Unit",
@@ -10,5 +23,10 @@
     "ru": "Solray Infrared Alignment Unit",
     "zh": "恒星红外线校准单元"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 120.0,
+  "sofFactionName": "genericpleasure",
   "volume": 27500.0
 }

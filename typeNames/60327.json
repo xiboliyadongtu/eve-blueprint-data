@@ -1,5 +1,18 @@
 {
-  "typeID": 60327,
+  "capacity": 150.0,
+  "description": {
+    "de": "Diese Fregatte der Pacifier-Klasse bietet den AEGIS-Sicherheitskräften, die von EDENCOMs AEGIS-Abteilung betriebene Anlagen bewachen, schwache Screening-Fähigkeiten. Es wäre unklug, die Aufmerksamkeit dieser schnellen Angriffsfregatte auf sich zu ziehen. Diese Variante ist mit Stasisnetzen ausgestattet.",
+    "en": "This Pacifier-class frigate provides a light screening capability to the AEGIS Security forces guarding facilities operated by the AEGIS division of EDENCOM. It would be unwise to draw the attention of this rapid attack frigate. This variant is equipped with stasis webifiers.",
+    "es": "Esta fragata de clase Pacifier proporciona una capacidad de escaneo ligera a las fuerzas de seguridad de AEGIS que protegen las instalaciones operadas por su división, EDENCOM. Más vale no llamar la atención de esta fragata de ataque rápido. Esta variante está equipada con redes ralentizadoras.",
+    "fr": "Cette frégate de classe Pacifier offre une capacité de protection légère aux forces de sécurité d'AEGIS gardant les installations exploitées par la division AEGIS d'EDENCOM. Il serait imprudent d'attirer l'attention de cette frégate d'attaque rapide. Cette variante est équipée de générateurs de stase.",
+    "ja": "このパシファイヤー級フリゲートは、EDENCOMのイージス部門によって運営されている施設を守るイージス警備部隊への通報能力を持つ。この俊敏な攻撃フリゲートの注意を引くのは賢明とは言えないだろう。なお、本タイプはステイシスウェビファイヤーを装備している。",
+    "ko": "AEGIS가 운용하는 퍼시파이어급 프리깃으로 AEGIS 소유의 시설을 방어하기 위해 배치되었습니다. 접근 시 각별한 주의가 요구됩니다. 해당 기체는 스테이시스 웹 생성기를 장착하고 있습니다.",
+    "ru": "Этот фрегат класса «Пасифаер» создаёт световой заслон для сил безопасности ЭГИДА, охраняющих объекты одноимённого подразделения ЭДЕНКОМа. От этого стремительного атакующего судна лучше держаться подальше. Эта модификация оснащена стазис-индукторами.",
+    "zh": "这艘安抚者级护卫舰为守护设施的统合部紧急干预和安全局安保部舰队提供外围侦察支持。引起这艘快速而迅猛的护卫舰的注意可是件危险的事。这种衍生型装配了停滞缠绕光束。"
+  },
+  "graphicID": 21490,
+  "groupID": 1803,
+  "mass": 1400000.0,
   "name": {
     "de": "AEGIS Security Hobelar",
     "en": "AEGIS Security Hobelar",
@@ -10,5 +23,10 @@
     "ru": "AEGIS Security Hobelar",
     "zh": "统合部紧急干预和安全局安保部 轻骑兵"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 38.0,
+  "sofFactionName": "concordcivilian",
+  "soundID": 20070,
   "volume": 20000.0
 }

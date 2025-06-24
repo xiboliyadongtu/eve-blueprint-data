@@ -1,5 +1,18 @@
 {
-  "typeID": 11207,
+  "basePrice": 1000000.0,
+  "description": {
+    "de": "Reduziert den Stromnetzbedarf von Waffentürmen und Raketenwerfern um 2% je Skillstufe.",
+    "en": "Reduces the powergrid needs of weapon turrets and launchers by 2% per skill level.",
+    "es": "Reduce las necesidades del sistema de potencia de las armas de torreta y de los lanzadores un 2 % por nivel de habilidad.",
+    "fr": "Réduit de 2 % par niveau de compétence les besoins en réseau d'alimentation des tourelles et des lanceurs.",
+    "ja": "スキルレベル上昇ごとにタレット兵器とランチャーのパワーグリッド消費が2%減少する。",
+    "ko": "매 레벨마다 터렛과 런처의 파워그리드 요구치 2% 감소",
+    "ru": "Освоив этот навык, пилот сможет снизить нагрузку на реактор при монтаже орудийных и пусковых установок (на 2% за каждую степень освоения навыка).",
+    "zh": "每升一级，炮台和发射器的能量栅格需求减少2%。"
+  },
+  "groupID": 1216,
+  "iconID": 33,
+  "marketGroupID": 368,
   "name": {
     "de": "Advanced Weapon Upgrades",
     "en": "Advanced Weapon Upgrades",
@@ -10,5 +23,8 @@
     "ru": "Спецкурс оптимизации вооружения",
     "zh": "高级武器升级研究"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

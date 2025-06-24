@@ -1,5 +1,17 @@
 {
-  "typeID": 353461,
+  "basePrice": 149000.0,
+  "description": {
+    "de": "Skill zur Benutzung von Sturmgewehren.\n\n5% Abzug auf den Rückstoß von Sturmgewehren pro Skillstufe.",
+    "en": "Skill at handling assault rifles.\n\n5% reduction to assault rifle kick per level.",
+    "es": "Habilidad de manejo de fusiles de asalto.\n\n-5% al retroceso de los fusiles de asalto por nivel.",
+    "fr": "Compétence permettant de manipuler les fusils d'assaut.\n\n5 % de réduction du recul du fusil d'assaut par niveau.",
+    "it": "Abilità nel maneggiare fucili d'assalto.\n\n5% di riduzione al rinculo del fucile d'assalto per livello.",
+    "ja": "アサルトライフルを扱うスキル。\n\nレベル上昇ごとに、アサルトライフルの反動が5%軽減する。",
+    "ko": "돌격 소총 운용을 위한 스킬입니다. <br><br>매 레벨마다 돌격소총 반동 5% 감소",
+    "ru": "Навык обращения со штурмовыми винтовками.\n\n5% снижение отдачи штурмовых винтовок на каждый уровень.",
+    "zh": "使用突击步枪的技能。每升一级，突击步枪的后坐力降低5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Bedienung: Sturmgewehr",
     "en": "Assault Rifle Operation",
@@ -11,5 +23,7 @@
     "ru": "Обращение со штурмовыми винтовками",
     "zh": "突击步枪操作"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

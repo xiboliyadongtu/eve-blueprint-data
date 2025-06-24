@@ -1,5 +1,16 @@
 {
-  "typeID": 15419,
+  "description": {
+    "de": "Reduziert die Höchstgeschwindigkeit eines Schiffes mittels Mikro-Energieströmen, die auf wirksame Weise das Ziel zeitweilig umschließen und es dadurch verlangsamen.",
+    "en": "Reduces the maximum speed of a ship by employing micro energy streams which effectively entangle the target temporarily, thereby slowing it down.",
+    "es": "Reduce la velocidad máxima de una nave usando canales de microenergía que se entrelazan temporalmente con ella y la ralentizan.",
+    "fr": "Réduit la vitesse maximale d'un vaisseau à l'aide de flux de micro-énergie, qui s'emparent temporairement de la cible pour la ralentir.",
+    "ja": "標的とした艦船の最高速度を低下させる。ターゲットにマイクロエネルギービームを照射することにより、艦船のシステムを一時的に混乱させ、速度を落とさせる。",
+    "ko": "마이크로 에너지 파동을 발사함으로써 대상 함선의 움직임을 방해하고 최대 속도를 감소시킵니다.",
+    "ru": "Уменьшает максимальную скорость корабля, используя энергетические потоки, временно захватывающие корабль в стазис-поле и замедляющие его движение.",
+    "zh": "通过使用微能流来降低对方舰船的最大速度，该装备可以有效地暂时束缚目标，降低其速度。"
+  },
+  "groupID": 65,
+  "iconID": 1284,
   "name": {
     "de": "Naiyon's Modified Stasis Webifier",
     "en": "Naiyon's Modified Stasis Webifier",
@@ -10,5 +21,8 @@
     "ru": "Naiyon's Modified Stasis Webifier",
     "zh": "奈杨氏改良型停滞缠绕光束"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 500.0,
   "volume": 5.0
 }

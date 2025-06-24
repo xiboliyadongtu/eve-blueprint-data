@@ -1,5 +1,16 @@
 {
-  "typeID": 30256,
+  "description": {
+    "de": "Interface-Schaltkreise kommen stets bei der Entwicklung von Schiffs-Untersystemen zum Einsatz.",
+    "en": "Interface Circuits are common building blocks of starship subsystems.",
+    "es": "Los circuitos de la interfaz son bloques de construcción comunes de los subsistemas de la nave.",
+    "fr": "Les circuits d'interface sont des blocs de construction courant dans les sous-systèmes de vaisseau spatial.",
+    "ja": "インターフェイス回路は、宇宙船のサブシステムに普通に見られる主要部品。",
+    "ko": "함선 서브시스템의 보편적인 구성요소입니다.",
+    "ru": "Интегральные системы — обычные материалы для производства подсистем звездного корабля.",
+    "zh": "接口电路是常见的星舰子系统建造模块。"
+  },
+  "groupID": 967,
+  "iconID": 3265,
   "name": {
     "de": "Generic Hull Salvage 4",
     "en": "Generic Hull Salvage 4",
@@ -10,5 +21,7 @@
     "ru": "Generic Hull Salvage 4",
     "zh": "通用船体打捞物 4"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

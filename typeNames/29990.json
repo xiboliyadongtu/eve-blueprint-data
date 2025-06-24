@@ -1,5 +1,109 @@
 {
-  "typeID": 29990,
+  "basePrice": 300000000.0,
+  "capacity": 420.0,
+  "description": {
+    "de": "Die gewaltigen Berge von Matar offenbaren vielen Minmatar Wunder, die dem Rest New Edens verschlossen bleiben: Verborgene Schluchten, wundersame Kreaturen und vergessene Bräuche. So ist es nicht weiter verwunderlich, dass der Krusual-Stamm Anspruch auf dieses Gebirge erhebt und es über Jahrhunderte hinweg zum Zentrum seiner Macht aufgebaut hat.\n\n\n\nUnter den Stammesältesten der Krusual machen Erzählungen vom Ruhm vergangener Helden und rätselhafte Prophezeiungen die Runde. An besonders düsteren Tagen bar jeder Hoffnung spricht man hinter vorgehaltener Hand mitunter in ehrfürchtiger Aufregung von <i>Loki</i>. Die alte Sprache bezeichnet mit <i>Loki</i> den Kern der Weltanschauung der Krusual. Es gibt keine wirklich treffende Übersetzung, und selbst unter den Ältesten ist die Bedeutung von <i>Loki</i> nicht einheitlich. Sie reicht von \"verborgenes Wunder\" und \"geheimer Übergang\" hin zu \"veränderliche Maske\" oder \"unsichtbarer Dolch\". Eine gemeinsame Assoziation mit <i>Loki</i> besitzen indes alle Geschichten der Ältesten: \"Hoffnung\".",
+    "en": "For many Minmatar, the high mountains of Matar hold wonders unknown to the rest of New Eden: hidden glens, beautiful creatures, buried customs. Not surprisingly, the Krusual tribe lay claim to these mountains, their home for generations and base to their machinations.\r\n\r\nKrusual elders whisper ancient tales among their huddled tribes, describing the glory of heroes past and enigmatic prophecies of old. On the darkest day, at the most hopeless moments, an elder may speak of <i>Loki</i>, in reverent tones and excited hushes. In the ancient tongue, the <i>Loki</i> are the crux of Krusual thought. There is no direct translation for this word; in fact, <i>Loki</i> translates differently among the elders. It can mean “hidden wonder” or “secret passage”, “changing mask” or “unseen dagger”. Regardless of its context, <i>Loki</i> has one meaning common to all its tales across all the elders: “hope”.",
+    "es": "Para muchos minmatarianos, las grandes montañas de Matar albergan maravillas desconocidas al resto de Nuevo Edén: valles ocultos, hermosas criaturas, costumbres enterradas. Como era de esperar, la tribu Krusual reivindican estas montañas, su hogar durante generaciones y base de sus maquinaciones.\n\nLos ilustres krusuals susurran historias antiguas en sus tribus que describen la gloria de héroes pasados y enigmáticas profecías de antaño. En el día más oscuro, en los momentos más desesperados, un ilustre puede hablar de <i>Loki</i> en tono reverente y con emoción. En la lengua antigua, <i>Loki</i> es el eje del pensamiento de los krusuals. Esta palabra no tiene una traducción directa; de hecho, cada ilustre traduce <i>Loki</i> de forma distinta. Puede significar «maravilla oculta» o «pasadizo secreto», «máscara cambiante» o «daga invisible». Sea cual sea el contexto, <i>Loki</i> tiene un significado común en todas las historias de los ilustres: «esperanza».",
+    "fr": "Pour beaucoup de Minmatar, les hautes montagnes de Matar renferment des merveilles inconnues du reste de New Eden : des vallées cachées, des créatures magnifiques, des trésors enfouis... Il n'est donc pas étonnant de savoir que la tribu krusual revendique ces montagnes comme étant leur terre natale depuis des générations et la base de leurs machinations. Les anciens des Krusual racontent de vieilles légendes à leurs tribus, décrivant la gloire de leurs ancêtres héroïques et autres prophéties énigmatiques. Dans les jours les plus sombres et désespérés, les anciens invoquent parfois le nom de <i>Loki</i> en murmures fervents et révérencieux. Dans la langue ancienne, les <i>Loki</i> incarnent l'essence même de la pensée krusual. Il n'existe pas de traduction officielle pour ce mot ; en réalité, les anciens attribuent diverses interprétations au <i>Loki</i>. Sa signification varie de « merveille cachée » à « passage secret », en passant par « masque versatile » ou encore « dague invisible ». Selon le contexte, <i>Loki</i> partage cependant une signification commune à toutes les légendes et à tous les anciens : « l'espoir ».",
+    "ja": "多くのミンマター人にとって、マタールの高い山々はニューエデンの未知なるもの、深い渓谷や美しい生物、忘れられた伝統を抱く場所である。当然のことだが、クルースアル族はこれらの山々の所有権を主張し、彼ら一族の故郷であり、悲願の基礎となるものとしている。\r\n\nクルースアルの長老たちは、己の部族の間で古代の物語を、去りし日の英雄の栄光と昔の不可解な予言を囁く。最も暗い日に、最も絶望的な瞬間に、長老は、尊敬と興奮した沈黙の中で、<i>ロキ</i>について話すことがある。古代の言葉では、<i>ロキ</i>はクルースアル思考の核心である。この言葉の直訳はなく、実際には、<i>ロキ</i>の翻訳は長老によって違う。その意味するところは、『隠された不思議』または『秘密の道』、『変化の仮面』さもなければ『見えざる短剣』であったりする。文脈に関係なく、<i>ロキ</i>は、すべての長老が語る物語に共通する一つの意味を持っている。それは「希望」である。",
+    "ko": "민마타인들에게 마타 산맥은 숨겨진 협곡, 아름다운 생명체들, 그리고 오랜 관습들이 유지되고 있는 경이로운 장소입니다. 크루설 부족이 마타 산맥에 대한 소유권을 주장한 것은 어쩌면 당연한 일입니다. 이 부족은 대대로 산맥에서 살아왔으며 이곳에서 대부분의 역사가 시작되었습니다. <br><br>크루설의 장로들은 옹기종기 모여 앉은 어린 부족원들에게 고대의 이야기를 들려주곤 합니다. 영웅들의 이야기, 수수께끼같은 예언, 아이들은 눈을 빛내며 그들의 말에 귀를 기울입니다. 가장 어두운 날, 가장 절망적인 순간을 마주할 때면 장로들은 <i>로키</i>에 대해 이야기를 합니다. 경건한 목소리로 이야기가 진행되면 듣는 사람들 사이에서는 흥분이 깃든 침묵이 유지됩니다. 고대의 단어인 <i>로키</i>는 크루설 사상의 핵심을 담고 있습니다. 이 단어를 대체할 수 있는 마땅한 용어는 없습니다. 장로들 사이에서도 <i>로키</i>는 다양하게 해석되고 있습니다. \"숨겨진 경이\", \"비밀의 통로\", \"변화하는 가면\", \"보이지 않는 단검\" 등 각자 나름의 표현으로 다양하게 묘사됩니다. 그럼에도 불구하고 <i>로키</i>를 해석함에 있어서 단 한가지의 공통점이 있다면 이 단어에 \"희망\"의 의미가 깃들어 있다는 것입니다.",
+    "ru": "Для многих матарцев высокие горы Матар хранят чудеса, неизвестные остальной части Нового Эдема: скрытые долины, прекрасные животные, забытые обычаи. Неудивительно, что племя крузуалов утверждает права на эти горы, бывшие домом для многих их поколений и местом рождения их планов.\n\n\n\nСтарейшины племени крузуалов несут своим подопечным легенды, передающиеся из шёпота в шёпот. Легенды о славных героях прошлого и таинственных древних пророчествах. В самый черный день, в часы безнадёжного мрака, старейшина может с благоговением .и восторгом упомянуть о <i>локи</i>. <i>Локи</i> на древнем наречии является квинтэссенцией духа племени крузуалов. Прямого перевода этого слова не существует; кроме того, разные старейшины переводят слово <i>локи</i> по-разному. Оно может означать «скрытое чудо» или «тайный проход», «меняющаяся маска» или «невидимый кинжал». Независимо от контекста, <i>локи</i> обладает одним общим для всех историй и всех старейшин значением: оно означает — «надежда».",
+    "zh": "很多米玛塔尔人知道，在玛塔尔星的高山中隐藏着鲜为人知的奇迹：隐秘的峡谷，珍奇的生命，遗忘的风俗。难怪克鲁夏部族会要占据这些山脉做世代的家园，在这里他们策划着自己的大事。\n\n\n\n克鲁夏的长者常常在簇拥的族人前述说那些远古的奇谈，演绎故世英雄的荣耀，传承古代预言的高深。在最黑暗的日子，在最绝望的时刻，那长者定会呼唤<i>洛基</i>的名字，声音中带着谦卑和肃穆，确然掩盖不住那激动的心情。在古语中， <i>洛基</i>是克鲁夏思想的核心。这个词没有直接的翻译，<i>洛基</i>在长老群体中各有不同的称呼。它可解释为“避世的奇迹”或者“隐秘的通途”，“幻化的假象”或者“看不见的匕首”。无论出现在什么地方，<i>洛基</i>总是有一个永恒不变的象征寓意：“希望”。"
+  },
+  "factionID": 500002,
+  "graphicID": 20218,
+  "groupID": 963,
+  "iconID": 3764,
+  "marketGroupID": 1142,
+  "mass": 13800000.0,
+  "masteries": {
+    "0": [
+      96,
+      97,
+      99,
+      164,
+      72,
+      108,
+      76,
+      141,
+      104,
+      85,
+      150,
+      87,
+      89,
+      94
+    ],
+    "1": [
+      96,
+      97,
+      99,
+      164,
+      72,
+      108,
+      76,
+      141,
+      104,
+      85,
+      150,
+      87,
+      89,
+      94
+    ],
+    "2": [
+      96,
+      97,
+      99,
+      164,
+      72,
+      108,
+      76,
+      141,
+      104,
+      85,
+      150,
+      87,
+      89,
+      94
+    ],
+    "3": [
+      96,
+      97,
+      99,
+      164,
+      72,
+      108,
+      76,
+      141,
+      104,
+      85,
+      150,
+      87,
+      89,
+      94
+    ],
+    "4": [
+      96,
+      97,
+      99,
+      164,
+      72,
+      108,
+      76,
+      141,
+      109,
+      104,
+      85,
+      150,
+      87,
+      152,
+      153,
+      154,
+      89,
+      94
+    ]
+  },
+  "metaGroupID": 14,
   "name": {
     "de": "Loki",
     "en": "Loki",
@@ -9,6 +113,139 @@
     "ko": "로키",
     "ru": "Loki",
     "zh": "洛基级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 190.0,
+  "sofFactionName": "minmatarbase",
+  "soundID": 20076,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Modifikationen können unbeschadet von diesem Schiff entfernt werden.",
+          "en": "Rigs may be removed from this ship without being destroyed",
+          "es": "Es posible quitar los complementos de esta nave sin destruirlos.",
+          "fr": "Les modifications de ce vaisseau peuvent être retirées sans être détruites",
+          "ja": "艦船を破壊せずにリグを取り外せることがある",
+          "ko": "리그를 파괴하지 않고 해제 가능",
+          "ru": "Из кораблей этого типа модификаторы извлекаются без разрушения",
+          "zh": "改装件从舰船上移除不会销毁"
+        },
+        "importance": 2
+      },
+      {
+        "bonus": 99.0,
+        "bonusText": {
+          "de": "Reduktion des CPU-Bedarfs von Scansondenwerfern",
+          "en": "reduction in Scan Probe Launcher CPU requirements",
+          "es": "de reducción de los requisitos de CPU del lanzasondas de escaneo.",
+          "fr": "de réduction de la charge CPU requise pour les lanceurs de sondes de balayage",
+          "ja": "スキャンプローブランチャーのCPU使用率を軽減",
+          "ko": "스캔 프로브 런처 CPU 사용량 감소",
+          "ru": "сокращается потребность пусковых установок разведзондов в мощностях ЦПУ",
+          "zh": "扫描探针发射器CPU需求降低"
+        },
+        "importance": 1,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "30545": [
+        {
+          "bonusText": {
+            "de": "Bonus auf die Effektivität aller  <a href=showinfo:30545>Minmatar-Defensivsysteme</a>",
+            "en": "bonus to all <a href=showinfo:30545>Minmatar Defensive Systems</a> effectiveness",
+            "es": "de bonificación a la efectividad de todos los <a href=showinfo:30545>sistemas defensivos minmatarianos</a>.",
+            "fr": "bonus à l'efficacité de tous les <a href=showinfo:30545>systèmes défensifs minmatar</a>",
+            "ja": "全ての<a href=showinfo:30545>ミンマター防御システム</a>の効果が増加",
+            "ko": "<a href=showinfo:30545>민마타 방어용 시스템</a> 효과 증가",
+            "ru": "повышается эффективность действия <a href=showinfo:30545>минматарских оборонительных подсистем</a>",
+            "zh": "<a href=\"showinfo:30545\">米玛塔尔防御子系统</a>效果加成"
+          },
+          "importance": 1
+        }
+      ],
+      "30547": [
+        {
+          "bonusText": {
+            "de": "Bonus auf die Effektivität aller <a href=showinfo:30547>Minmatar-Kernsysteme</a>",
+            "en": "bonus to all <a href=showinfo:30547>Minmatar Core Systems</a> effectiveness",
+            "es": "de bonificación a la efectividad de todos los <a href=showinfo:30547>sistemas centrales minmatarianos</a>.",
+            "fr": "de bonus à l'efficacité de tous les <a href=showinfo:30547>systèmes principaux minmatar</a>",
+            "ja": "全ての<a href=showinfo:30547>ミンマターコアシステム</a>の効果が増大",
+            "ko": "<a href=showinfo:30547>민마타 코어 시스템</a> 효과 증가",
+            "ru": "повышается эффективность действия <a href=showinfo:30547>минматарских центральных подсистем</a>",
+            "zh": "<a href=showinfo:30547>米玛塔尔核心子系统</a>效果加成"
+          },
+          "importance": 1
+        }
+      ],
+      "30551": [
+        {
+          "bonusText": {
+            "de": "Bonus auf die Effektivität aller  <a href=showinfo:30551>Minmatar-Offensivsysteme</a>",
+            "en": "bonus to all <a href=showinfo:30551>Minmatar Offensive Systems</a> effectiveness",
+            "es": "de bonificación a la efectividad de todos los <a href=showinfo:30551>sistemas ofensivos minmatarianos</a>.",
+            "fr": "bonus à l'efficacité de tous les <a href=showinfo:30551>systèmes offensifs minmatar</a>",
+            "ja": "全ての<a href=showinfo:30551>ミンマター攻撃システム</a>の効果が増加",
+            "ko": "<a href=showinfo:30551>민마타 공격용 시스템</a> 효과 증가",
+            "ru": "повышается эффективность действия <a href=showinfo:30551>минматарских наступательных подсистем</a>",
+            "zh": "<a href=\"showinfo:30551\">米玛塔尔攻击子系统</a>效果加成"
+          },
+          "importance": 1
+        }
+      ],
+      "30554": [
+        {
+          "bonusText": {
+            "de": "Bonus auf die Effektivität aller <a href=showinfo:30554>Minmatar-Schiffsantriebe</a>",
+            "en": "bonus to all <a href=showinfo:30554>Minmatar Propulsion Systems</a> effectiveness",
+            "es": "de bonificación a la efectividad de todos los <a href=showinfo:30554>sistemas de propulsión minmatarianos</a>.",
+            "fr": "bonus à l'efficacité de tous les <a href=showinfo:30554>systèmes de propulsion minmatar</a>",
+            "ja": "全ての<a href=showinfo:30554>ミンマター推進力システム</a>の効果が増加",
+            "ko": "<a href=showinfo:30554>민마타 추진기 시스템</a> 효과 증가",
+            "ru": "повышается эффективность действия <a href=showinfo:30554>минматарских двигательных подсистем</a>",
+            "zh": "<a href=\"showinfo:30554\">米玛塔尔推进子系统</a>效果加成"
+          },
+          "importance": 1
+        }
+      ],
+      "30653": [
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Verringerung des Modulschadens durch Überhitzung",
+            "en": "reduction in module damage from overheating",
+            "es": "de reducción del daño del módulo por sobrecalentamiento.",
+            "fr": "de réduction de la détérioration du module suite à la surchauffe",
+            "ja": "オーバーヒート時のモジュールダメージを軽減",
+            "ko": "과부하로 인한 모듈 손상 감소",
+            "ru": "уменьшается объём повреждений модулей, получаемых ими при перегрузке",
+            "zh": "装备过载损伤降低"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10.0,
+          "bonusText": {
+            "de": "Bonus auf Reparaturgeschwindigkeit von Nanobot-Reparaturpaste",
+            "en": "bonus to nanite repair paste repair speed",
+            "es": "de bonificación a la velocidad de reconstrucción del fluido reparador de nanobots.",
+            "fr": "bonus à la vitesse de réparation des nanites de réparation",
+            "ja": "ナノマシンリペアペイストの速度が上昇",
+            "ko": "나나이트 용액 수리 속도 증가",
+            "ru": "повышается скорость ремонта модулей ремонтной нанопастой",
+            "zh": "纳米体修复粘合剂维修速度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 80000.0
 }

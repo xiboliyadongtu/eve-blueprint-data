@@ -1,5 +1,18 @@
 {
-  "typeID": 28246,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Gefängnis",
+    "en": "Prison",
+    "es": "Prisión",
+    "fr": "Prison.",
+    "ja": "刑務所",
+    "ko": "교도소",
+    "ru": "Тюрьма",
+    "zh": "监狱"
+  },
+  "graphicID": 2520,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Prison_event",
     "en": "Prison_event",
@@ -10,5 +23,9 @@
     "ru": "Prison_event",
     "zh": "监狱_事件"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 380.0,
+  "sofFactionName": "genericprison",
   "volume": 100000000.0
 }

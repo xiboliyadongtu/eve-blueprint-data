@@ -1,5 +1,69 @@
 {
-  "typeID": 33083,
+  "capacity": 135.0,
+  "description": {
+    "de": "Die Violator ist eines der kleinsten Schiffe der Serpentis. Ihr Design wurde ohne große Umstände von den Gallente gestohlen, wobei die Funktionsweise ihres Innenlebens den Anforderungen an die Piratenexistenz der Serpentis angepasst wurde. Sie verfügt nicht nur über eine ausgezeichnete hybride Schadenswirkung, sondern kann ihre Gegner auch mit Stasisnetzen aufhalten und immobilisieren, bevor sie zu weiteren Schlägen ausholt.",
+    "en": "The Violator is one of the smallest of the Serpentis vessels. Its design was unceremoniously stolen from the Gallente, though its inner workings have been adapted to fit the piratical lifestyle of the Serpentis: In addition to its excellent hybrid damage, it is capable of webbing its opponents and holding them down for a further beating.",
+    "es": "La Violator es una de las naves más pequeñas de Serpentis. Su diseño se robó sin más a los gallentes, aunque su funcionamiento interno se ha adaptado para adecuarse al estilo de vida pirata de los Serpentis. Además de su excelente daño híbrido, puede usar redes ralentizadoras sobre sus oponentes y mantenerlos a raya para que sufran más daño.",
+    "fr": "Le Violator est l'un des plus petits vaisseaux serpentis. Sa conception a été volée aux Gallente, mais son fonctionnement interne a été largement adapté pour répondre aux exigences de la piraterie pratiquée par les Serpentis. Outre ses excellents dégâts hybrides, il est capable d'emprisonner ses adversaires dans une stase et de les y garder pour continuer son travail de démolition.",
+    "ja": "バイオレイターはサーペンティス艦としては最小級だ。その設計は当然のようにガレンテからの盗用だが、内部機構はサーペンティス海賊流にかなり改造されている。 ハイブリッド砲のダメージ強化に加え、ウェブで敵艦を足止めして追撃を加えやすいようにしてある。",
+    "ko": "바이얼레이터는 서펜티스가 운용하는 함선 중 가장 규모가 작은 편에 속합니다. 기초 설계는 갈란테 연방의 방식을 가져왔으나 다양한 개조를 통해 해적단에 걸맞는 설계를 갖추게 되었습니다. 우수한 하이브리드 피해량과 더불어 스테이시스 웹 생성기가 탑재되어 적의 움직임을 제한하는데 탁월한 능력을 지니고 있습니다.",
+    "ru": "Учебный корабль типа «Виолятор» относится к разряду малотоннажных кораблей корпорации «Серпентис». Дизайн этого корабля был без зазрения совести украден у галлентских конструкторов, однако все внутренние системы корабля были существенно модифицированы под привычный «змеям» стиль боя: его пилот ловит противника в стазис-поле, после чего расстреливает обездвиженных врагов из потрясающе мощных гибридных орудий.",
+    "zh": "违逆者级是天蛇舰船中体型最小的一种。天蛇集团从盖伦特偷来了违逆者级的设计理念，不过也对它的内部设计做了些改良，以便更好地适应天蛇海盗的生存方式：在继承了盖伦特出众的混合炮打击能力之余，违逆者级还善于使用停滞缠绕光束让敌人动弹不得，随后再尽情蹂躏。"
+  },
+  "factionID": 500020,
+  "graphicID": 1816,
+  "groupID": 237,
+  "marketGroupID": 2702,
+  "mass": 1148000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      140,
+      67,
+      150,
+      89,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      140,
+      67,
+      150,
+      89,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      140,
+      67,
+      150,
+      89,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      140,
+      67,
+      150,
+      89,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      140,
+      67,
+      117,
+      150,
+      89,
+      94
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Violator",
     "en": "Violator",
@@ -9,6 +73,76 @@
     "ko": "바이얼레이터",
     "ru": "Violator",
     "zh": "违逆者级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 32,
+  "radius": 40.0,
+  "sofFactionName": "serpentis",
+  "soundID": 20074,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonus": 75,
+        "bonusText": {
+          "de": "Bonus auf den Schaden von <a href=showinfo:3301>kleinen Hybridgeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:3301>Small Hybrid Turret</a> damage",
+          "es": "de bonificación al daño de la <a href=showinfo:3301>torreta híbrida pequeña</a>.",
+          "fr": "de bonus aux dégâts des <a href=showinfo:3301>petites tourelles hybrides</a>",
+          "ja": "<a href=showinfo:3301>小型ハイブリッドタレット</a>のダメージが増加",
+          "ko": "<a href=showinfo:3301>소형 하이브리드 터렛</a> 피해량 증가",
+          "ru": "увеличивается урон боеприпасов <a href=showinfo:3301>малых гибридных орудий</a>",
+          "zh": "<a href=\"showinfo:3301\">小型混合炮台</a>伤害加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 22.5,
+        "bonusText": {
+          "de": "Bonus auf die Nachführungsgeschwindigkeit von <a href=showinfo:3301>kleinen Hybridgeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:3301>Small Hybrid Turret</a> tracking speed",
+          "es": "de bonificación a la velocidad de rastreo de la <a href=showinfo:3301>torreta híbrida pequeña</a>.",
+          "fr": "de bonus à la vitesse de poursuite des <a href=showinfo:3301>petites tourelles hybrides</a>",
+          "ja": "<a href=showinfo:3301>小型ハイブリッドタレット</a>の追跡速度が上昇",
+          "ko": "<a href=showinfo:3301>소형 하이브리드 터렛</a> 트래킹 속도 증가",
+          "ru": "повышается скорость наводки на цель <a href=showinfo:3301>малых гибридных орудий</a>",
+          "zh": "<a href=\"showinfo:3301\">小型混合炮台</a>跟踪速度加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      },
+      {
+        "bonus": 30,
+        "bonusText": {
+          "de": "Bonus auf den Präzisionsabfall von <a href=showinfo:3301>kleinen Hybridgeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:3301>Small Hybrid Turret</a> falloff",
+          "es": "de bonificación al alcance efectivo de la <a href=showinfo:3301>torreta híbrida pequeña</a>.",
+          "fr": "de bonus de distance de perte des <a href=showinfo:3301>petites tourelles hybrides</a>",
+          "ja": "<a href=showinfo:3301>小型ハイブリッドタレット</a>の精度低下範囲が拡大",
+          "ko": "<a href=showinfo:3301>소형 하이브리드 터렛</a> 유효사거리 증가",
+          "ru": "увеличивается добавочная дальность ведения огня из <a href=showinfo:3301>малых гибридных орудий</a>",
+          "zh": "<a href=\"showinfo:3301\">小型混合炮台</a>失准范围加成"
+        },
+        "importance": 3,
+        "unitID": 105
+      },
+      {
+        "bonus": 30,
+        "bonusText": {
+          "de": "Bonus auf den maximalen Geschwindigkeitsfaktor von <a href=showinfo:526>Stasisnetzen</a>",
+          "en": "bonus to <a href=showinfo:526>Stasis Webifier</a> max velocity factor",
+          "es": "de bonificación al factor de velocidad máxima de la <a href=showinfo:526>red ralentizadora</a>.",
+          "fr": "de bonus au facteur de vitesse maximale des <a href=showinfo:526>générateurs de stase</a>",
+          "ja": "<a href=showinfo:526>ステイシスウェビファイア</a>の最高速度が上昇",
+          "ko": "<a href=showinfo:526>스테이시스 웹 생성기</a> 최대 속도 계수 증가",
+          "ru": "повышается эффективность действия <a href=showinfo:526>стазис-индукторов</a>",
+          "zh": "<a href=\"showinfo:526\">停滞缠绕光束</a>最大速度影响系数加成"
+        },
+        "importance": 4,
+        "unitID": 105
+      }
+    ]
   },
   "volume": 24500.0
 }

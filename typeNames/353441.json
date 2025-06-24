@@ -1,5 +1,17 @@
 {
-  "typeID": 353441,
+  "basePrice": 378000.0,
+  "description": {
+    "de": "Skill in der Ressourcenhandhabung von schweren Waffen.\n-5 % auf die CPU-Last von schweren Waffen pro Skillstufe.",
+    "en": "Skill at heavy weapon resource management.\r\n5% reduction to heavy weapon CPU usage per level.",
+    "es": "Habilidad de gestión de recursos de armas pesadas.\n-5% al coste de CPU de armas pesadas por nivel.",
+    "fr": "Compétence de gestion des ressources des armes lourdes.\n5 % de réduction d'utilisation de CPU des armes lourdes par niveau.",
+    "it": "Abilità nella gestione delle risorse con armi pesanti.\n5% di riduzione all'uso della CPU delle armi pesanti per livello.",
+    "ja": "重火器のリソース消費を管理する上級スキル。\nレベル上昇ごとに、重火器のCPU消費量が5%減少する。",
+    "ko": "중량 무기 자원 관리를 위한 스킬입니다. <br><br>매 레벨마다 중량 무기의 CPU 사용량 5% 감소",
+    "ru": "Навык обращения с боеприпасом для тяжелого оружия.\n5% сокращение потребления ресурсов ЦПУ всеми видами тяжелого оружия на каждый уровень.",
+    "zh": "管理重型武器资源的技能。每升一级，重型武器的CPU使用率降低5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Upgrade für schwere Waffen",
     "en": "Heavy Weapon Upgrade",
@@ -11,5 +23,7 @@
     "ru": "Пакеты модернизации тяжелого оружия",
     "zh": "重型武器升级件"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

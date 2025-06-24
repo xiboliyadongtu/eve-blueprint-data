@@ -1,5 +1,19 @@
 {
-  "typeID": 23,
+  "capacity": 55000.0,
+  "description": {
+    "de": "Dieser Frachtcontainer ist schwach konstruiert und kann die Härten des Alls für nicht länger als eine Stunde überleben.",
+    "en": "This cargo container is flimsily constructed and may not survive the rigors of space for more than an hour or so.",
+    "es": "Este contenedor de carga es bastante malo y puede que no sobreviva a los rigores del espacio más allá de una hora.",
+    "fr": "Ce conteneur de fret est peu solide et ne peut résister à l'espace intersidéral plus d'une heure environ.",
+    "ja": "貧弱な構造のコンテナ。宇宙空間の厳しい環境には耐えられないだろう。",
+    "ko": "조잡하게 건설되어 우주의 혹독한 환경에서 한시간 이상 버틸 것 같지 않습니다.",
+    "ru": "Этот грузовой контейнер довольно хрупкий и вряд ли продержится в космосе больше часа.",
+    "zh": "这种货柜集装箱构造十分脆弱，在严酷的太空环境下大概只能坚持一小时左右。"
+  },
+  "graphicID": 1176,
+  "groupID": 12,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Cargo Container",
     "en": "Cargo Container",
@@ -10,5 +24,9 @@
     "ru": "Cargo Container",
     "zh": "集装箱货柜"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericmetal",
   "volume": 55000.0
 }

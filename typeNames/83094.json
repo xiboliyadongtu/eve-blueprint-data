@@ -1,5 +1,18 @@
 {
-  "typeID": 83094,
+  "basePrice": 250000000.0,
+  "description": {
+    "de": "Skill zur Generierung von Sprungportalen zu entfernten Sonnensystemen. 100 % Steigerung der maximalen Anzahl an Schiffen, die mit einem Capital-Schiff-Gruppensprung je Skillstufe bewegt werden können. ",
+    "en": "Skill for the generation of jump portals to distant solar systems. \r\n\r\n100% increase to the maximum number of ships that can be moved with a capital ship conduit jump per level. ",
+    "es": "Habilidad para la generación de portales de salto a sistemas solares lejanos. \r\n\r\nAumenta un 100 % el número máximo de naves que se pueden mover con un salto conductivo de nave capital por nivel. ",
+    "fr": "Compétence pour la génération de portails de saut vers des systèmes solaires éloignés. Augmentation de 100 % du nombre maximal de vaisseaux pouvant être déplacés par un saut de groupe de vaisseau capital par niveau. ",
+    "ja": "遠く離れたシステムへのジャンプポータルを作り出すスキル。 \r\n\r\n1レベルにつき、主力艦のコンジットジャンプで移動できる艦船の最大数を100%増加させる。 ",
+    "ko": "장거리 점프 포탈 생성을 위한 스킬입니다.<br><br>레벨당 점프 필드를 통해 이동시킬 수 있는 캐피탈 함선 100% 증가 ",
+    "ru": "Этот навык позволяет создавать гиперпорталы в отдалённые звёздные системы. С каждой степенью освоения навыка максимум судов, которые КБТ может взять с собой, повышается на 100%. ",
+    "zh": "生成通往遥远星系的跳跃通道的技能。每升一级，可随旗舰导管跳跃一起移动的舰船数量上限增加100%。 "
+  },
+  "groupID": 275,
+  "iconID": 33,
+  "marketGroupID": 374,
   "name": {
     "de": "Capital Jump Portal Generation",
     "en": "Capital Jump Portal Generation",
@@ -10,5 +23,8 @@
     "ru": "Capital Jump Portal Generation",
     "zh": "旗舰跳跃通道发生学"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

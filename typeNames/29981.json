@@ -1,5 +1,20 @@
 {
-  "typeID": 29981,
+  "capacity": 280.0,
+  "description": {
+    "de": "Dieses Subsystem ist veraltet und wurde durch neuere Technologie ersetzt.\n\n\n\nObwohl dieses Subsystem dieselben Nano-Panzerungsreparaturbots verwendet wie die standardmäßige Imperiumstechnologie, wurden verschiedene Optimierungen durchgeführt. Durch den umfassenden Einsatz von kürzlich entdeckten Sleeper-Entwürfen ermöglicht der Einsatz von auf Fullerene basierender Technologie die Kombination von weit kleineren und belastbareren Komponenten.  \n\n\n\nSubsystem-Skillbonus: \n\n7,5% Bonus auf die HP der Panzerung je Skillstufe",
+    "en": "This subsystem is obsolete and has been replaced by newer technology\r\n\r\nAlthough this subsystem uses the same armor nano-assemblers as standard empire technology, various optimizations have been made. Taking full advantage of recently discovered Sleeper designs, the use of fullerene-based technology has allowed for the combination of far smaller and more resilient components.  \r\n\r\nSubsystem Skill Bonus: \r\n7.5% bonus to armor hitpoints per level.",
+    "es": "Este subsistema está obsoleto y ha sido sustituido por tecnología nueva.\n\nAunque este subsistema utiliza los nanoensambladores de blindaje de la tecnología estándar del Imperio, se han realizado varias optimizaciones. Aprovechando las ventajas de los diseños sleepers recientemente descubiertos, el uso de la tecnología basada en fullereno ha permitido la combinación de componentes de blindaje mucho más pequeños y resistentes.\n\nBonificación de habilidad del subsistema:\n\n7,5 % de bonificación a los puntos de vida de blindaje por nivel.",
+    "fr": "Ce sous-système est obsolète et a été remplacé par une technologie plus récente. Bien que ce sous-système utilise les mêmes nano-assembleurs de blindage que la technologie standard de l'Empire, différentes améliorations y ont depuis été apportées. Tirant pleinement profit des modèles sleeper récemment découverts, l'utilisation de la technologie à base de fullerène a permis l'association de composants bien plus petits et plus résistants. Bonus de compétence du sous-système : augmente de 7,5 % par niveau les PV du blindage.",
+    "ja": "このサブシステムは旧式化したため、新型技術に差し替えられた\n\n\n\nこのサブシステムには、帝国の標準的な技術と同じアーマーナノアセンブラーが使用されているが、あらゆる最適化処理が施されている。最近発見されたスリーパーの設計を最大限に活用し、フラーレンを活用した技術を駆使することで、遥かに小さく、より弾性のある部品を作ることが可能になった。\n\n\n\nサブシステムのスキルボーナス：\n\nレベル上昇ごとにアーマーのヒットポイントが7.5%増加。",
+    "ko": "이 서브시스템은 노후되어 최신식 기술로 교체되었습니다.<br><br>아마르식 나노 어셈블러를 활용한 서브시스템으로 다양한 개조가 이루어졌습니다. 슬리퍼 설계를 토대로 개발된 퓰러렌 기술을 활용하였으며 첨단 부품에 대한 소형화 및 내구성 향상을 이룩했습니다. <br><br>서브시스템 스킬 보너스: <br><br>매 레벨마다 장갑 내구도 7.5% 증가",
+    "ru": "Эта подсистема устарела и заменена на продукт новых технологий\n\n\n\nНесмотря на то, что в этой подсистеме используются те же наносборщики брони, что и в стандартных имперских системах, она была существенно оптимизирована. Применение фуллеренных технологий, основанных на недавно обнаруженных конструкциях Спящих, позволило использовать комбинацию меньших и более прочных компонентов.  \n\n\n\nЗа каждую степень освоения навыка соответствующей подсистемы:<br> \n\nна 7,5% повышается запас прочности брони корабля",
+    "zh": "这个子系统太过老旧，已经被新科技取代。\n\n\n\n尽管这个子系统采用了帝国标准技术的纳米装配机器人，但却做了多处优化和提升。它利用了新近发现的冬眠者技术，而富勒烯技术的推广使得小型化高强度的组件能够自由进行组合。  \n\n\n\n每等级子系统技能加成： \n\n装甲值提高7.5%"
+  },
+  "graphicID": 3658,
+  "groupID": 955,
+  "iconID": 3631,
+  "mass": 1400000.0,
+  "metaGroupID": 14,
   "name": {
     "de": "OLD Proteus Defensive - Augmented Plating",
     "en": "OLD Proteus Defensive - Augmented Plating",
@@ -10,5 +25,10 @@
     "ru": "Proteus Defensive - Augmented Plating",
     "zh": "旧海神防御 - 增强无人机装甲板"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "sofFactionName": "gallentebase",
+  "variationParentTypeID": 29979,
   "volume": 40.0
 }

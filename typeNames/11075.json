@@ -1,5 +1,17 @@
 {
-  "typeID": 11075,
+  "basePrice": 300000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Jovian-Transportern.",
+    "en": "Skill at operating Jovian hauler ships.",
+    "es": "Habilidad en el manejo de naves de mercancías jovianas.",
+    "fr": "Compétence liée à l'utilisation de cargos jove.",
+    "ja": "ジョビのハウラーを操作するためのスキル。",
+    "ko": "조브 운반선을 운반하기 위한 스킬입니다.",
+    "ru": "Навык управления джовианскими перевозчиками.",
+    "zh": "操作朱庇特运载舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
   "name": {
     "de": "Jove Hauler",
     "en": "Jove Hauler",
@@ -10,5 +22,8 @@
     "ru": "Jove Hauler",
     "zh": "朱庇特运载舰"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 16,
   "volume": 0.01
 }

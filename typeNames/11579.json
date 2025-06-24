@@ -1,5 +1,18 @@
 {
-  "typeID": 11579,
+  "basePrice": 5000000.0,
+  "description": {
+    "de": "Skill zur Benutzung von Tarnvorrichtungen. 10% Reduktion der Zielerfassungsverzögerung nach Beenden des Tarnvorgangs je Skillstufe.",
+    "en": "Skill at using Cloaking devices. 10% reduction in targeting delay after uncloaking per skill level.",
+    "es": "Habilidad en el uso de dispositivos de camuflaje. 10 % de reducción de la demora en la adquisición de objetivos tras abandonar el camuflaje por nivel de habilidad.",
+    "fr": "Compétence liée à l'utilisation des dispositifs de camouflage. Diminue de 10 % par niveau de compétence le délai de ciblage après la désactivation.",
+    "ja": "遮蔽装置を使うスキル。スキルレベル上昇ごとに遮蔽解除後のターゲット捕捉遅延を 10% 短縮する。",
+    "ko": "클로킹 장치 운용을 위한 스킬입니다. 매 레벨마다 클로킹 해제 시 타겟팅 지연 시간 10% 감소",
+    "ru": "Освоение этого навыка необходимо для использования систем маскировки. За каждую степень освоения навыка на 10% сокращается задержка включения системы обнаружения и сопровождения целей при выходе из режима маскировки.",
+    "zh": "使用隐形装置的技能。每升一级，隐形解除后的目标锁定延迟减少10%。"
+  },
+  "groupID": 272,
+  "iconID": 33,
+  "marketGroupID": 367,
   "name": {
     "de": "Cloaking",
     "en": "Cloaking",
@@ -10,5 +23,7 @@
     "ru": "Системы маскировки",
     "zh": "隐形理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

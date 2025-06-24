@@ -1,5 +1,18 @@
 {
-  "typeID": 12485,
+  "basePrice": 10000000.0,
+  "description": {
+    "de": "Spezialisierung auf die Bedienung fortschrittlicher Minmatar-Drohnen. 2% Bonus je Skillstufe auf die Schadenswirkung von leichten, mittelgroßen und schweren Drohnen sowie Wächterdrohnen, die den Skill \"Minmatar Drone Specialization\"voraussetzen.",
+    "en": "Specialization in the operation of advanced Minmatar drones. 2% bonus per skill level to the damage of light, medium, heavy and sentry drones requiring Minmatar Drone Specialization.",
+    "es": "Especialización en el manejo de drones minmatarianos avanzados. 2 % de bonificación por nivel de habilidad al daño de los drones centinela ligeros, medianos y pesados que requieren especialización en drones minmatarianos.",
+    "fr": "Spécialisation en matière d'utilisation des drones avancés minmatar. Augmente de 2 % par niveau de compétence les dégâts des drones légers, intermédiaires et lourds nécessitant la spécialisation en drones minmatar.",
+    "ja": "高性能ミンマタードローンを操作する専門スキル。ミンマタードローンスペシャリゼーションを必要とするライト、ミディアム、ヘビー、セントリードローンのダメージが、スキルレベル上昇ごとに2%増加する。",
+    "ko": "상급 민마타 드론 운영을 위한 스킬입니다. 매 레벨마다 민마타 드론 특화가 요구되는 라이트, 미디움, 헤비, 그리고 센트리 드론의 피해량 2% 증가",
+    "ru": "Спецкурс по эксплуатации усовершенствованных минматарских дронов. За каждую степень освоения навыка: на 2% повышается урон усовершенствованных минматарских дронов (лёгких, средних, тяжёлых и стационарных), для эксплуатации которых требуется этот навык.",
+    "zh": "操纵高级米玛塔尔无人机的技能。每升一级，需要米玛塔尔无人机专业研究技能的轻型、中型、重型和岗哨无人机伤害提高2%。"
+  },
+  "groupID": 273,
+  "iconID": 33,
+  "marketGroupID": 366,
   "name": {
     "de": "Minmatar Drone Specialization",
     "en": "Minmatar Drone Specialization",
@@ -10,5 +23,7 @@
     "ru": "Спецкурс: минматарские дроны",
     "zh": "米玛塔尔无人机专业研究"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

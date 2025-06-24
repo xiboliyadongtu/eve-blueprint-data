@@ -1,5 +1,18 @@
 {
-  "typeID": 77695,
+  "capacity": 235.0,
+  "description": {
+    "de": "Ein schwerer Deimos-Angriffskreuzer mit Sensordämpfern, um die Flotte der Propagandisten zu verwirren. Ein erster Scan lässt darauf schließen, dass es keinen Versuch gegeben hat, die Identifikation des Schiffes zu verschlüsseln, was darauf hindeutet, dass das legendäre Aufklärungsnetzwerk der FIO ihnen gestattet hat, dieses Schiff ohne Modifizierung auf Staatsterritorium zu transportieren.",
+    "en": "A Deimos heavy assault cruiser fitted with sensor dampeners to obfuscate the propagandist fleet.\r\n\r\nA preliminary scan indicates that no attempt has been made to encrypt the ship’s identification, implying that FIOs legendary intelligence network allowed them to transport this ship into State territory unmodified.",
+    "es": "Un crucero de asalto pesado Deimos equipado con atenuadores de sensor para confundir a la flota propagandista.    Un escaneo preliminar indica que no se ha intentado cifrar la identificación de la nave, lo que implica que la legendaria red de inteligencia de la OIF les permitió transportar esta nave a territorio del Estado sin modificaciones.",
+    "fr": "Un croiseur d'assaut lourd Deimos équipé d'atténuateurs de détection pour brouiller les pistes de la flotte de propagande. Un balayage préliminaire indique qu'il n'y a eu aucune tentative de chiffrer l'identification du vaisseau, ce qui implique que le réseau de renseignements légendaire du BFR a autorisé son transport sur le territoire de l'État sans qu'il ne subisse de modifications.",
+    "ja": "プロパガンダ要員のフリートを視界不良に陥らせる、センサーダンプナーを装備したデイモス級強襲型巡洋艦。    事前スキャンによるとこの艦船は一切素性を隠そうとしておらず、伝説的な情報ネットワークであるFIOが、艦を連合の領域にそのまま持ち込むことを許可していることが伺える。",
+    "ko": "센서 댐프너를 장착해 선전 함대를 교란하는 데이모스 헤비 어썰트 크루저입니다.<br><br>사전 스캔을 실시한 결과 함선의 식별 정보가 전혀 암호화되지 않은 것으로 밝혀졌습니다. FIO가 지닌 고도의 정보망 덕에 식별 정보의 변동 없이 연합 영역에 진입할 수 있었던 것으로 추정됩니다.",
+    "ru": "Этот тяжёлый ударный крейсер типа Deimos оснащён модулями подавления сенсоров, которые позволяют скрыть местоположение флота пропагандистов. Предварительное сканирование показало, что никто даже не пытался скрыть принадлежность этого корабля. Вероятно, Федеральной разведслужбе удалось доставить это судно в пространство Калдари в неизменённом виде благодаря своей легендарной разведывательной сети.",
+    "zh": "一艘戴默斯级重型突击巡洋舰，装配有感应抑阻器，可用于干扰宣传舰队。初步扫描显示，该舰船的身份未经加密，这表明FIO的传奇情报网络允许他们将这艘舰船原封不动地运输至合众国境内。"
+  },
+  "graphicID": 11859,
+  "groupID": 4571,
+  "mass": 13000000.0,
   "name": {
     "de": "Diverter Deimos",
     "en": "Diverter Deimos",
@@ -10,5 +23,11 @@
     "ru": "Diverter Deimos",
     "zh": "疏导者戴默斯级"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 134.0,
+  "sofFactionName": "duvolle",
+  "soundID": 20074,
   "volume": 118000.0
 }

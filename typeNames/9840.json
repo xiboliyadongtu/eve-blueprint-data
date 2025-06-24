@@ -1,5 +1,18 @@
 {
-  "typeID": 9840,
+  "basePrice": 313.0,
+  "description": {
+    "de": "Ein elektronisches Gerät, das eine Trägerwelle erzeugt und diese mit einem Nutzsignal verstärkt. Es moduliert Gesprächsdaten oder andere Informationen und sendet das Endsignal über eine Antenne oder andere Form von Umwandler aus.",
+    "en": "This electronic device generates and amplifies a carrier wave, modulates it with a meaningful signal derived from speech or other sources, and radiates the resulting signal from an antenna or some other form of transducer.",
+    "es": "Este dispositivo electrónico genera y amplifica una onda electromagnética, la modula con una señal significativa derivada del habla u otras fuentes e irradia la señal resultante desde una antena u otro tipo de transductor.",
+    "fr": "Dispositif électronique qui génère et amplifie une onde porteuse, la module avec un signal significatif venant de la parole ou d'autres sources et émet le signal obtenu via une antenne ou un autre transmetteur.",
+    "ja": "この電子装置は、搬送波を発生、増幅し、会話やその他の発生源からの意味を成す信号で変調し、アンテナや他の形式の変換器から発信する。",
+    "ko": "반송파를 생성 및 증폭시키는 전자 장치로 대상의 목소리를 특정 신호로 조정한 뒤 안테나 또는 다른 형태의 변환기를 통해 전송합니다.",
+    "ru": "Это электронное устройство, которое на основании значимого сигнала, полученного из речи или иного источника, производит и усиливает несущую волну, а затем излучает полученный сигнал через антенну или другой вид преобразователя.",
+    "zh": "一种电子设备，可产生并放大载波，通过从语音或其他来源生成的有意义信号对这种载波进行调制，并通过天线将生成的信号发射出去。"
+  },
+  "groupID": 1034,
+  "iconID": 1364,
+  "marketGroupID": 1335,
   "name": {
     "de": "Transmitter",
     "en": "Transmitter",
@@ -10,5 +23,7 @@
     "ru": "Transmitter",
     "zh": "传信器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.75
 }

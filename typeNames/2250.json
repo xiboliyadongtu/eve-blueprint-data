@@ -1,5 +1,17 @@
 {
-  "typeID": 2250,
+  "description": {
+    "de": "Dieser Scanner erfasst die Gehirnwellen einer jeden lebenden Person an Bord dieses Schiffs.",
+    "en": "This scanner will track the brainwaves of any living creatures within a ship.",
+    "es": "Este escáner rastreará las ondas cerebrales de cualquier criatura viva en una nave.",
+    "fr": "Ce scanner détecte les ondes cérébrales des créatures vivantes à l'intérieur d'un vaisseau.",
+    "ja": "船内の全ての生物の脳波を追跡するスキャナー。",
+    "ko": "생명체의 뇌파를 탐지하는 스캐너입니다.",
+    "ru": "Этот сканер позволяет обнаружить электроэнцефалограмму любого живого существа на борту.",
+    "zh": "该扫描器能跟踪船内任何一个生物的脑电波。"
+  },
+  "groupID": 314,
+  "iconID": 2037,
+  "mass": 1.0,
   "name": {
     "de": "Neurowave Pattern Scanner",
     "en": "Neurowave Pattern Scanner",
@@ -10,5 +22,7 @@
     "ru": "Neurowave Pattern Scanner",
     "zh": "脑电波规律扫描器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

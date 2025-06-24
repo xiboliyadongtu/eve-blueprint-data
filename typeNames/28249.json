@@ -1,5 +1,16 @@
 {
-  "typeID": 28249,
+  "description": {
+    "de": "Das Andocken an dieser Station ist Kapselpiloten solange verboten, bis dem System von CONCORD Entwarnung gegeben wurde.",
+    "en": "Docking has been prohibited for capsuleers into this station until the system has been given the all clear by CONCORD.",
+    "es": "Se ha prohibido que los capsulistas se acoplen a esta estación hasta que el sistema haya recibido el visto bueno de CONCORD.",
+    "fr": "L'amarrage à cette station est interdit aux capsuliers tant que le système n'a pas été autorisé par CONCORD.",
+    "ja": "このステーションへのカプセラーの入港は、CONCORDの許可がなければ認められない。",
+    "ko": "CONCORD에서 항성계에 내린 경보를 해제 하지 않는 이상 정거장 도킹이 불가능합니다.",
+    "ru": "Стыковка с этой станцией запрещена для капсулеров, пока не будет получено подтверждение от менеджера.",
+    "zh": "除非系统收到统合部发出的准入指令，任何飞行员不得在该空间站停靠。"
+  },
+  "graphicID": 2306,
+  "groupID": 319,
   "name": {
     "de": "Gallente Station_event",
     "en": "Gallente Station_event",
@@ -10,5 +21,9 @@
     "ru": "Gallente Station_event",
     "zh": "盖伦特空间站_事件"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 6768.0,
+  "sofFactionName": "gallentebase"
 }

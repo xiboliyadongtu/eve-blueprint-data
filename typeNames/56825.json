@@ -1,5 +1,17 @@
 {
-  "typeID": 56825,
+  "description": {
+    "de": "Dieses Signalfeuer ist mit einer Power Flash-Batterie ausgerüstet und sendet Signale durch das gesamte Sonnensystem.",
+    "en": "Fitted with a power flash-battery, this beacon sends out signals throughout the entire solar system.",
+    "es": "Esta baliza, equipada con una batería de potencia, envía señales por todo el sistema solar.",
+    "fr": "Équipée d'une batterie d'alimentation, cette balise envoie des signaux dans tout le système solaire.",
+    "ja": "パワーフラッシュバッテリーが組み込まれたビーコン。ソーラーシステム全域に信号を送信できる。",
+    "ko": "태양열 발전기가 장착된 비컨으로 항성계 곳곳으로 신호를 전송합니다.",
+    "ru": "Этот маяк оснащён мощной накопительной батареей и посылает сигналы по всей звёздной системе.",
+    "zh": "这个信标装配有强力闪光电池，能把信号传送到整个恒星系中。"
+  },
+  "graphicID": 1211,
+  "groupID": 310,
+  "mass": 1.0,
   "name": {
     "de": "4-4 Expansion Parade (Quafe) Beacon",
     "en": "4-4 Expansion Parade (Quafe) Beacon",
@@ -10,5 +22,8 @@
     "ru": "4-4 Expansion Parade (Quafe) Beacon",
     "zh": "海四扩建游行 (酷菲集团) - 信标"
   },
+  "portionSize": 1,
+  "published": false,
+  "sofFactionName": "genericbase",
   "volume": 1.0
 }

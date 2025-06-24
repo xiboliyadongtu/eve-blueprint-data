@@ -1,5 +1,17 @@
 {
-  "typeID": 4264,
+  "description": {
+    "de": "Gibt einen Bonus auf die Panzerungsresistenzen aller Flottenmitglieder.\n\nTaktische Netzwerke sind geeignete Kommandosysteme für die Flottenführung, vorgesehen zum Einsatz auf Schlachtkreuzern und Schiffen der gehobenen Kommandoklasse. \n\nObwohl man normalerweise nur eines dieser Module gleichzeitig verwenden kann, gibt es bestimmte weiterentwickelte Einheiten, die den Gebrauch mehrerer Linkmodule parallel erlauben.\n\n\n\nHinweise: Der Flottenbonus wirkt nur, wenn Sie als Flotten-Booster ausgewählt wurden. Es ist nicht möglich, dieses Modul in einem Sternenbasis-Kraftfeld zu aktivieren.",
+    "en": "Grants a bonus to the fleet's armor resistances.\r\n\r\nWarfare links are dedicated fleet command systems designed for use on battlecruisers and advanced command class ships.\r\n\r\nWhile only one of these units can normally be operated at any given time, certain advanced units allow the use of multiple systems.\r\n\r\nNotes: The Fleet bonus only works if you are the assigned fleet booster. This module cannot activate inside a starbase forcefield.",
+    "es": "Otorga una bonificación a las resistencias de blindaje de la flota.\n\n\n\nLos enlaces de guerra son sistemas de mando de la flota diseñados para usarse en cruceros de combate y naves de mando con tecnología avanzada.\n\n\n\nAunque solo una de estas unidades se puede manejar en cualquier momento, ciertas unidades avanzadas permiten el uso de sistemas múltiples.\n\n\n\nAviso: La bonificación de la flota solo se aplica cuando te nombran potenciador de flota. Este módulo no se puede activar dentro de un campo de fuerza de base estelar.",
+    "fr": "Augmente la résistance des blindages de la flotte.\n\nLes interfaces tactiques sont des systèmes de commande de flotte, conçus pour être utilisés sur des croiseurs de bataille et des vaisseaux de classe de commandement avancé.\n\nMême si, en temps normal, on ne peut utiliser qu'une de ces unités, certaines unités avancées permettent d'utiliser plusieurs systèmes.\n\nRemarques : ce bonus de flotte fonctionne uniquement si vous êtes {[character]player.gender -> \"assigné\", \"assignée\"} comme booster de flotte. Ce module ne peut pas être activé à l'intérieur du champ de force d'une base stellaire.",
+    "ja": "フリートに属する艦船のアーマーレジスタンスを強化する。艦隊支援システムは、フリート指揮を補佐するシステムで、巡洋戦艦や高性能指揮型艦船に搭載できる。通常は1基を常時稼働させておくのが限界だが、専用の補助ユニットと組み合わせれば、複数タイプを同時稼働させることも可能である。\n\n\n\n注：フリートボーナスは、フリートブースターに任命されている場合にのみ有効。このモジュールはスターベースのフォースフィールド内では起動できない。",
+    "ko": "함대에 장갑 저항력 보너스가 부여됩니다. <br><br>전장 링크는 함대 지휘 시스템 전용 모듈로, 배틀크루저 및 상급 커맨드쉽에 장착하기 위해 제작된 장비입니다. <br><br>일반적으로 한 개의 모듈만이 가동 가능하지만 특정 고급 모듈들은 여러 개를 동시에 가동할 수 있습니다. <br><br>참고: 함대 보너스는 함대 부스터로 지정되어야만 사용할 수 있습니다. 이 모듈은 스타베이스 포스필드 내에서 활성화할 수 없습니다.",
+    "ru": "Повышает сопротивляемость брони кораблей флота всем видам ущерба.\n\n\n\n\n\n\n\nМодули координации боевых действий разработаны специально для систем управления флотом, используются на линейных крейсерах и специализированных кораблях управления.\n\nОбычно на борту корабля допускается установка лишь одного такого модуля, однако корабли некоторых проектов способны одновременно держать включенными несколько подобных систем. \n\n\n\nПримечания: действие этого модификатора распространяется на флот только в том случае, если вы назначены начштаба флота. Данный модуль нельзя активировать в пределах силового поля звездной базы.",
+    "zh": "增强舰队的装甲抗性。\n\n作战网络是专业的舰队指令系统，专为战列巡洋舰和高级指挥舰船而设计。\n\n通常在同一时间只允许一个此类设备运作，不过某些高级单位允许多系统并行。\n\n注意：只有当你被指定为舰队加成官时，舰队加成才有效。这个装备不能在母星力场内使用。"
+  },
+  "groupID": 316,
+  "iconID": 2858,
+  "metaGroupID": 2,
   "name": {
     "de": "Armored Warfare Link - Passive Defense II",
     "en": "Armored Warfare Link - Passive Defense II",
@@ -10,5 +22,8 @@
     "ru": "Armored Warfare Link - Passive Defense II",
     "zh": "装甲作战网络—被动防护 II"
   },
+  "portionSize": 1,
+  "published": false,
+  "variationParentTypeID": 20409,
   "volume": 60.0
 }

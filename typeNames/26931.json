@@ -1,5 +1,19 @@
 {
-  "typeID": 26931,
+  "description": {
+    "de": "Diese Schiffsmodifikation wurde entworfen, um die CPU eines Schiffes zu verbessern.\n\nNachteil: -10% Bonus auf die Wiederaufladerate der Schilde",
+    "en": "This ship modification is designed to increase a ship's CPU.\r\n\r\nPenalty: - 10% Shield Recharge Rate Bonus.",
+    "es": "Esta modificación de nave está diseñada para aumentar la CPU.\n\nPenalización: -10 % de bonificación de velocidad de carga del escudo.",
+    "fr": "Cette modification de vaisseau est conçue pour améliorer le CPU d'un vaisseau.\n\n\n\nPénalité : -10 % au bonus de vitesse de recharge de bouclier",
+    "ja": "この船体改造は、艦船のCPU値を増加するように設計された。\n\nペナルティ：シールド再充電率ボーナスが10%減少",
+    "ko": "리그 장착 시 함선의 CPU가 증가합니다. <br><br>페널티: 실드 회복률 10% 감소",
+    "ru": "Вследствие установки этого тюнинг-модуля повышается мощность ЦПУ корабля.\n\nПобочный эффект: на 10% уменьшается скорость восстановления запаса прочности силового поля.",
+    "zh": "这个飞船改装件用于增加舰船的CPU。\n\n惩罚：- 10%护盾回充速率加成。"
+  },
+  "groupID": 781,
+  "iconID": 3199,
+  "marketGroupID": 1222,
+  "mass": 200.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Small Processor Overclocking Unit II",
     "en": "Small Processor Overclocking Unit II",
@@ -10,5 +24,9 @@
     "ru": "Small Processor Overclocking Unit II",
     "zh": "小型处理器超频组件 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 100.0,
+  "variationParentTypeID": 26929,
   "volume": 5.0
 }

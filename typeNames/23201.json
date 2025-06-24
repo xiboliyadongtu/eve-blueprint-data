@@ -1,5 +1,18 @@
 {
-  "typeID": 23201,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieses treibende Stück Schrott sieht aus, als könnte es für die richtige Person wertvoll sein. Eine genaue Analyse brächte wohl Licht ins Dunkel.",
+    "en": "This floating piece of debris looks like it might be of some value to the right person. Detailed analysis might reveal more.",
+    "es": "Estos escombros flotantes podrían tener algún valor para la persona adecuada. Puede que un análisis detallado revele más.",
+    "fr": "Ces débris flottants dans l'espace ne sont pas totalement dénués d'intérêt pour certaines personnes et peuvent même s'avérer très utiles. Une analyse détaillée pourrait vous en apprendre plus.",
+    "ja": "見る人によっては価値がありそうな、宇宙に浮かぶ何かの残骸。詳しく分析すれば何か分かるかもしれない。",
+    "ko": "누군가에게는 가치가 있을지도 모릅니다. 정밀 분석을 통해 추가 정보를 습득할 수 있습니다.",
+    "ru": "Этот дрейфующий обломок металла, похоже, для кого-то может оказаться ценным. Детальный анализ может больше помочь.",
+    "zh": "这块飘浮的残片也许会对懂行的人有些价值。详尽的分析可能会揭示更多信息。"
+  },
+  "graphicID": 1696,
+  "groupID": 1207,
+  "mass": 10000.0,
   "name": {
     "de": "Takmahl Debris Part",
     "en": "Takmahl Debris Part",
@@ -10,5 +23,9 @@
     "ru": "Takmahl Debris Part",
     "zh": "塔克玛残骸部件"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 320.0,
+  "sofFactionName": "debris",
   "volume": 27500.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 2543,
+  "basePrice": 900000.0,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Um den Transport produzierter Waren aus dem unteren Orbit der Knotenstruktur auf den höheren Orbit des Spaceports und der über den Gasriesen-Planeten gelegenen Handelszentren zu ermöglichen, wurde eine alte, aber zuverlässige Technik wieder aufgegriffen. Der Mangel an fester Oberfläche erfordert einen sehr geringen Rückstoß beim Startsystem. Diese Situation verbietet die Verwendung von Feststoffraketen. Der Hohmann-Mass-Driver verwendet stattdessen eine Reihe von getakteten Elektromagneten, die einen minimalen Rückstoß produzieren. Im Wesentlichen handelt es sich dabei um eine enorme Fracht-Railgun. Das Gerät treibt einen Eisenkanister zu einem wartenden Verzögerungsgefäß an Bord einer Hoch-Orbit-Anlage.",
+    "en": "In order to transport produced commodities from the lower orbit position of the node structure to the higher orbit of spaceports and trade hubs above gas giant planets, an old but reliable technology was revisited. The lack of a solid surface requires a very low recoil launch system, a situation that prohibits the use of solid fuel rockets, but the Hohmann Mass Driver uses a series of triggered electromagnets instead, producing minimal waste force. Essentially an enormous cargo railgun, the device propels a ferrous canister to a waiting deceleration receptacle aboard a high-orbit facility.",
+    "es": "A fin de transportar productos elaborados desde la estructura nodal, ubicada en una órbita inferior, hasta los puertos espaciales y los centros mercantiles de las órbitas superiores de los gigantes gaseosos, se optó por revisar una antigua pero fiable tecnología. La ausencia de una superficie sólida requería un sistema de lanzamiento con muy poco retroceso, por lo que los cohetes de combustible sólidos quedaron descartados. En su lugar, el impulsor de masa Hohmann utiliza una serie de electroimanes accionados que producen una fuerza residual mínima. Este dispositivo, que básicamente es un enorme cañón electromagnético de carga, impulsa los contenedores de hierro hasta los receptáculos de desaceleración en espera de las instalaciones en la órbita superior.",
+    "fr": "Afin de transporter les marchandises produites de la position orbitale basse de la structure vers l'orbite plus élevée des spatioports et des nœuds commerciaux situés au-dessus des planètes gazeuses, une ancienne technologie fiable fut revisitée. Le manque de surface solide nécessite un système de lancement à très faible recul, empêchant ainsi l'utilisation de la propulsion à propergol solide. L'accélérateur de masse Hohmann a cependant trouvé la parade en utilisant une série d'électroaimants, réduisant ainsi le surplus de force. Le dispositif, qui n'est autre qu'un énorme canon à rail de cargo, propulse une boîte en fer vers un réceptacle de décélération en attente à bord d'une installation en orbite haute.",
+    "ja": "低位軌道にあるノード建造物から、上位軌道のスペースポートやガス惑星の上空の貿易ハブに製品を輸送するためには、古くても信頼性の高いテクノロジーが再検討された。固体の地表が弱い場合、極めて低反動の発射システムが必要であり、固形燃料ロケットの使用は不可能になる。ホフマンマスドライバーは、一連の電磁石の磁化を代わりに使用することで、発射以外に使われる力を最小限に抑えている。この装置は本質的には巨大なカーゴレールガンであり、上位軌道の施設で待機している減速容器に向けて鉄製の容器を発射する。",
+    "ko": "가스 행성에서 생산되는 물품을 고궤도 지점에 위치한 우주 정거장 또는 무역허브로 운반하기 위해 다소 오래되었지만 입증된 방법을 사용합니다. 지표면이 존재하지 않는 가스 행성의 특성상, 발사 시 반동을 매우 낮은 수준으로 유지해야 하며 그러한 이유로 인해 고체 연료 로켓의 사용이 불가능합니다. 이러한 문제에 대한 대안으로 호만 매스 드라이버가 채택되었으며 다량의 전자석을 통해 발사 시 발생하는 에너지 손실을 최소화합니다. 사실상 거대한 화물용 레일건이나 다름 없으며 철제 컨테이너를 탑재하여 고궤도 지점에 위치한 감속 장치를 향해 발사합니다.",
+    "ru": "Для того чтобы перенаправлять произведенные на газовых планетах товары с низкой орбиты, на которой обычно находится планетарный узел, на высокую орбиту, где располагаются космодромы и торговые центры, конструкторы обратились к старой, но хорошо испытанной технологии. Поскольку на газовых планетах нет твердой поверхности, для запуска стандартных ракет потребовалась бы очень низко расположенная система запуска, в которой невозможно использовать ракеты на твердом топливе. Однако в разгонном двигателе Хохманна применяется серия инициируемых электромагнитов, при которой почти не тратится впустую движущая сила. По сути, это огромный грузовой рейлган, позволяющий запускать цистерны, изготовленные из сплавов с железом, к принимающему комплексу, расположенному в точке торможения на высокой орбите.",
+    "zh": "为了能将加工出来的产品从气体行星低轨道上的节点设施运送到高轨道上的太空港和贸易枢纽，人们采用了一种古老但可靠的技术。由于表面并非固态，这里的发射平台系统需要有非常小的后坐力。这样一来，固体燃料火箭就无法使用，人们转而利用使用一系列触发电磁机构的霍曼质量推动器，它在发射过程中所做的无用功最小。实际上它就是一只巨大的用于发射货柜舱的磁轨炮，它能将专用货柜舱运送到高轨道设施上的预定接收站里。"
+  },
+  "graphicID": 4563,
+  "groupID": 1030,
   "name": {
     "de": "Gas Launchpad",
     "en": "Gas Launchpad",
@@ -10,5 +23,6 @@
     "ru": "Gas Launchpad",
     "zh": "气体行星发射平台"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": true
 }

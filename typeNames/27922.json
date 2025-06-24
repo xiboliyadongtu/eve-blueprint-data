@@ -1,5 +1,20 @@
 {
-  "typeID": 27922,
+  "basePrice": 2500.0,
+  "description": {
+    "de": "Feuert nach der Detonation zufällig elektronische Wellen ab, welche die Zielaufschaltung von Schiffen in Reichweite temporär stören können.",
+    "en": "Emits random electronic bursts which have a chance of momentarily disrupting target locks on ships within range.",
+    "es": "Emite ráfagas electrónicas aleatorias que tienen la posibilidad de interrumpir momentáneamente la fijación de objetivos de las naves que estén en el radio de alcance.",
+    "fr": "Émet des explosions électroniques aléatoires pouvant perturber momentanément le verrouillage de cible des vaisseaux à portée.",
+    "ja": "無指向性電磁放射を生じ、一定確率で、範囲内の艦船のターゲットロックを一時的に解除する。",
+    "ko": "광역 전자 버스트를 무작위로 방출하여 범위 내 함선들의 타겟팅 시스템을 일시적으로 교란할 수 있습니다.",
+    "ru": "Испускает электронные импульсы через случайные интервалы времени, способные временно нарушить нормальную работу систем целеуказания на кораблях, находящихся в пределах радиуса действия.",
+    "zh": "会发出随机的电子脉冲波，有一定几率会对作用范围内飞船的锁定系统造成干扰。"
+  },
+  "graphicID": 20038,
+  "groupID": 863,
+  "iconID": 3283,
+  "marketGroupID": 1015,
+  "mass": 1000.0,
   "name": {
     "de": "Lockbreaker Bomb",
     "en": "Lockbreaker Bomb",
@@ -10,5 +25,8 @@
     "ru": "Lockbreaker Bomb",
     "zh": "锁断者炸弹"
   },
+  "portionSize": 20,
+  "published": true,
+  "radius": 300.0,
   "volume": 75.0
 }

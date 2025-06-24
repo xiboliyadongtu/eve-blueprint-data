@@ -1,5 +1,18 @@
 {
-  "typeID": 23606,
+  "basePrice": 150000.0,
+  "description": {
+    "de": "Erhöht die Waffenreichweite von Drohnen und Jägern.\n\n\n\n5% Bonus auf die optimale Reichweite von Drohnen je Skillstufe.\n\n5% Bonus auf die optimale Reichweite von Jägern je Skillstufe.",
+    "en": "Increases the weapon range of drones and fighters.\r\n\r\n5% bonus to drone optimal range per level.\r\n5% bonus to fighter optimal range per level.",
+    "es": "Aumenta el alcance de las armas de los drones y los cazas.\n\n5 % de bonificación al alcance óptimo de los drones por nivel.\n\n5 % de bonificación al alcance óptimo de los cazas por nivel.",
+    "fr": "Augmente la portée des armes des drones et des chasseurs.\n\n\n\nAugmente de 5 % par niveau la portée optimale des drones.\n\nAugmente de 5 % par niveau la portée optimale des chasseurs.",
+    "ja": "ドローンや戦闘機の射程距離を増加させる。レベル上昇ごとにドローンの最適射程距離が5%上昇。レベル上昇ごとに戦闘機の最適射程距離が5%増加。",
+    "ko": "드론과 파이터의 최적사거리가 증가합니다. <br><br>매 레벨마다 드론 최적사거리 5% 증가 <br>매 레벨마다 파이터 최적사거리 5% 증가",
+    "ru": "Увеличивает оптимальную дальность действия орудий дронов и истребителей.\n\n\n\nЗа каждую степень освоения навыка: на 5% увеличивается оптимальная дальность действия орудий дронов.\n\nЗа каждую степень освоения навыка: на 5% увеличивается оптимальная дальность действия орудий истребителей.",
+    "zh": "增加无人机和铁骑舰载机的武器攻击范围。\n\n\n\n每升一级，无人机和铁骑舰载机最佳射程增加5%。"
+  },
+  "groupID": 273,
+  "iconID": 33,
+  "marketGroupID": 366,
   "name": {
     "de": "Drone Sharpshooting",
     "en": "Drone Sharpshooting",
@@ -10,5 +23,7 @@
     "ru": "Повышение дальности боя дронами",
     "zh": "无人机精准射击"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

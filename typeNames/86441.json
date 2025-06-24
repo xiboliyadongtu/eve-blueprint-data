@@ -1,5 +1,18 @@
 {
-  "typeID": 86441,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Die Überreste dieser Sleeper-Enklave sind eine deutliche Erinnerung an die Härte des Weltraumes.",
+    "en": "The remnants of this Sleeper Enclave are a stark reminder of the harshness of space.",
+    "es": "Los restos de este enclave sleeper son un crudo recordatorio de que el espacio no perdona.",
+    "fr": "Les vestiges de cette enclave sleeper sont un rappel frappant de la dangerosité de l'espace.",
+    "ja": "スリーパー居留地の残骸は宇宙の過酷な環境を冷たく物語っている。",
+    "ko": "슬리퍼 엔클레이브의 잔해를 통해 우주의 가혹함을 다시 한번 느낍니다.",
+    "ru": "Останки этого анклава Спящих — прямое доказательство беспощадности космоса.",
+    "zh": "这些冬眠者包体的残余碎片倾诉着宇宙的残酷无情。"
+  },
+  "graphicID": 21134,
+  "groupID": 1975,
+  "mass": 100000.0,
   "name": {
     "de": "Enclave Debris (DO NOT TRANSLATE)",
     "en": "Enclave Debris (DO NOT TRANSLATE)",
@@ -10,5 +23,10 @@
     "ru": "Enclave Debris (DO NOT TRANSLATE)",
     "zh": "Enclave Debris (DO NOT TRANSLATE)"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 1000.0,
+  "sofFactionName": "sleeperbase",
   "volume": 100000000.0
 }

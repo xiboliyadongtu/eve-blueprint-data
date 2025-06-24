@@ -1,5 +1,18 @@
 {
-  "typeID": 24609,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieses Sprungtor wurde gemäß den Vorgaben der Gallente Föderation gebaut. Ohne den passenden Autorisierungscode kann man es nicht in Betrieb setzen.",
+    "en": "This stargate has been manufactured according to Federation design.  It is not usable without the proper authorization code.",
+    "es": "Este portal estelar se ha fabricado según el diseño de la Federación. No se puede usar sin el código de autorización pertinente.",
+    "fr": "Ce portail stellaire a été construit selon le style de la Fédération.  Vous ne pouvez pas l'emprunter sans les codes d'autorisation appropriés.",
+    "ja": "連邦の規格に基づいて作られたスターゲート。しかるべき承認コードがなければ利用できない。",
+    "ko": "해당 스타게이트는 갈란테 연방 양식에 맞춰 건설되었습니다. 인증 코드가 없을 경우 활성화되지 않습니다.",
+    "ru": "Эти звездные врата были изготовлены по проекту Федерации. Они не работают без подходящего кода авторизации.",
+    "zh": "这座星门是根据联邦的设计建造而成。必须拥有正确的授权代码才能使用。"
+  },
+  "graphicID": 1259,
+  "groupID": 226,
+  "mass": 1e+35,
   "name": {
     "de": "Gallente-Sprungtor",
     "en": "Gallente Stargate",
@@ -10,5 +23,10 @@
     "ru": "Gallente Stargate",
     "zh": "盖伦特星门"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 4706.0,
+  "sofFactionName": "gallentebase",
   "volume": 100000000.0
 }

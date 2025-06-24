@@ -1,5 +1,17 @@
 {
-  "typeID": 36465,
+  "description": {
+    "de": "Dieses Signalfeuer markiert den Standort eines enttarnten Struktur-Kommandoknotens.",
+    "en": "This beacon marks the location of a decloaked Structure Command Node.",
+    "es": "Esta baliza marca la ubicación de un nodo de mando de estructuras descamuflado.",
+    "fr": "Cette balise marque l'emplacement d'un nœud de commande de structure dont le camouflage est désactivé.",
+    "ja": "このビーコンは、遮蔽解除されたストラクチャのコマンドノードがある位置を示す。",
+    "ko": "클로킹이 해제된 구조물 통제 노드의 위치를 표시한 비컨입니다.",
+    "ru": "Этот сигнальный бакен обозначает местонахождение запасного командного пункта, вышедшего из режима маскировки.",
+    "zh": "这个信标揭示了某个解除隐形的建筑指挥节点的位置。"
+  },
+  "graphicID": 1211,
+  "groupID": 310,
+  "mass": 1.0,
   "name": {
     "de": "Command Node Beacon",
     "en": "Command Node Beacon",
@@ -10,5 +22,8 @@
     "ru": "Command Node Beacon",
     "zh": "指挥节点信标"
   },
+  "portionSize": 1,
+  "published": false,
+  "sofFactionName": "genericbase",
   "volume": 1.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 16853,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Eine massive, ringförmige Struktur aus einer verstärkten Tritaniumlegierung.",
+    "en": "A massive circular construction, made of a reinforced tritanium alloy.",
+    "es": "Enorme construcción circular hecha de una aleación de tritanio reforzado.",
+    "fr": "Une énorme construction de forme circulaire, faite d'un alliage de tritanium renforcé.",
+    "ja": "強化チタニウム合金で作られた、見事な円形建築物。",
+    "ko": "강화 트리타늄 합금으로 구성된 거대한 원형 구조물입니다.",
+    "ru": "Большая круглая конструкция из укрепленного сплава титана.",
+    "zh": "一座以强化三钛合金为建筑原料的大型环状建筑。"
+  },
+  "graphicID": 1695,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Circle Construct",
     "en": "Circle Construct",
@@ -10,5 +23,9 @@
     "ru": "Circle Construct",
     "zh": "环形建筑"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 890.0,
+  "sofFactionName": "genericbase",
   "volume": 100000000.0
 }

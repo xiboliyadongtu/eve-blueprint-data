@@ -1,5 +1,18 @@
 {
-  "typeID": 77301,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Ein von Serpentis eingerichtetes Rauschgiftlabor, in dem illegale Substanzen aus den Wolken an diesem Ort gesammelt und verarbeitet werden.",
+    "en": "A Narcotics Lab set up by Serpentis to harvest and process illegal substances from the clouds at this location.",
+    "es": "Un laboratorio de narcóticos creado por Serpentis para recoger y procesar sustancias ilegales de las nubes de esta ubicación.",
+    "fr": "Un laboratoire de narcotiques installé par les Serpentis pour récolter et transformer des substances illégales des nuages sur place.",
+    "ja": "この宙域にある雲から違法な物質を採取、処理するためにサーペンティスが建てた麻薬研究所。",
+    "ko": "서펜티스에서 세운 마약 공장입니다. 주변 가스 성운에서 금지 물질을 추출해 가공합니다.",
+    "ru": "Нарколаборатория корпорации «Серпентис», которая создавалась для сбора и переработки запрещённых веществ из окружающих облаков.",
+    "zh": "由天蛇建立的毒品实验室，用于从这个位置的云中采集和处理违禁物质。"
+  },
+  "graphicID": 25308,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Narcotics Lab",
     "en": "Narcotics Lab",
@@ -10,5 +23,10 @@
     "ru": "Narcotics Lab",
     "zh": "毒品实验室"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 2787.0,
+  "sofFactionName": "serpentis",
+  "soundID": 20203,
   "volume": 100000000.0
 }

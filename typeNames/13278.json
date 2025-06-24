@@ -1,5 +1,18 @@
 {
-  "typeID": 13278,
+  "basePrice": 250000.0,
+  "description": {
+    "de": "Kenntnisse in der Identifizierung und Analyse antiker Artefakte. Erforderlicher Skill für die Verwendung von Reliktanalysatoren.\n\nZusätzlich +10 Virenkohärenz pro Level",
+    "en": "Proficiency at identifying and analyzing ancient artifacts. Required skill for the use of Relic Analyzer modules.\r\n\r\nGives +10 Virus Coherence per level.",
+    "es": "Aptitudes para identificar y analizar artefactos antiguos. Habilidad necesaria para el uso de módulos analizadores de reliquias.\n\n\n\nOtorga +10 de coherencia del virus por nivel.",
+    "fr": "Compétence permettant d'identifier et d'analyser les objets antiques. Elle est nécessaire pour l'utilisation des modules d'analyseur de reliques.\n\nAugmente de 10 la Résistance virale par niveau.",
+    "ja": "古代の遺物を鑑定し、分析するスキル。遺物アナライザーモジュールの使用に必要。ウイルスコヒーレンスがレベル上昇ごとに10ポイント上昇。",
+    "ko": "고대 유물의 발견 및 분석에 관련된 스킬입니다. 유물 분석 모듈을 사용하려면 해당 스킬이 필요합니다. <br><br>매 레벨마다 바이러스 결합도+10",
+    "ru": "Умение проводить идентификацию и исследование древних артефактов. Навык, необходимый для использования комплексов для поиска артефактов.\n\n\n\nЗа каждую степень освоения навыка: на 10 единиц повышается степень целостности вирусов, запускаемых посредством комплексов для поиска артефактов.",
+    "zh": "精通古代器物鉴别和分析的技能。这是使用遗迹分析装备的必需技能。\n\n每升一级，病毒的同步率+10。"
+  },
+  "groupID": 1217,
+  "iconID": 33,
+  "marketGroupID": 1110,
   "name": {
     "de": "Archaeology",
     "en": "Archaeology",
@@ -10,5 +23,7 @@
     "ru": "Археология",
     "zh": "考古学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

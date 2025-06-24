@@ -1,5 +1,16 @@
 {
-  "typeID": 28251,
+  "description": {
+    "de": "Das Andocken an dieser Station ist ohne ausdrückliche Genehmigung verboten.",
+    "en": "Docking has been prohibited into this station without proper authorization.",
+    "es": "Está prohibido acoplarse a esta estación sin la correspondiente autorización.",
+    "fr": "Une autorisation est requise pour s'amarrer dans cette station.",
+    "ja": "このステーションへの入港は、適切な承認がなければ認められない。",
+    "ko": "허가되지 않은 함선은 정거장에 도킹할 수 없습니다.",
+    "ru": "Стыковка с этой станцией без надлежащих на то полномочий запрещена.",
+    "zh": "如果没有获得正式授权，不准在此空间站停靠。"
+  },
+  "graphicID": 1138,
+  "groupID": 319,
   "name": {
     "de": "Minmatar Station_event",
     "en": "Minmatar Station_event",
@@ -10,5 +21,9 @@
     "ru": "Minmatar Station_event",
     "zh": "米玛塔尔空间站_事件"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 5244.0,
+  "sofFactionName": "minmatarbase"
 }

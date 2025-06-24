@@ -1,5 +1,17 @@
 {
-  "typeID": 29310,
+  "description": {
+    "de": "Dieses Objekt registriert die Präsenz von Schiffen innerhalb von 20km.",
+    "en": "This object registers the presence of ships within 20km",
+    "es": "Este objeto registra la presencia de naves a menos de 20 km.",
+    "fr": "Cet objet enregistre la présence de vaisseaux dans un rayon de 20 km.",
+    "ja": "20Km以内に存在する艦船が登録されるオブジェクト。",
+    "ko": "이 구조물은 20km 내에 함선을 감지합니다.",
+    "ru": "Этот объект определяет присутствие кораблей в радиусе 20 км",
+    "zh": "这个装置记录距离其20千米范围内出现的船只。"
+  },
+  "graphicID": 1703,
+  "groupID": 922,
+  "mass": 1000000.0,
   "name": {
     "de": "20km Amarr Capture Point",
     "en": "20km Amarr Capture Point",
@@ -10,5 +22,9 @@
     "ru": "20km Amarr Capture Point",
     "zh": "20km艾玛争夺点"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 231.0,
+  "sofFactionName": "amarrbase",
   "volume": 1.0
 }

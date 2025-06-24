@@ -1,5 +1,18 @@
 {
-  "typeID": 16010,
+  "capacity": 120.0,
+  "description": {
+    "de": "Dies ist ein Unterstützungsschiff von Söldnern, das normalerweise als Unterstützung größerer und schlagkräftigerer Schiffe dient. Hüten Sie sich vor der tödlichen Warpunterbrecher-Fähigkeit dieser Schiffe.\r\n\r\nBedrohungsstufe: Sehr hoch",
+    "en": "This is a mercenary support fighter, which usually acts as backup for larger and more powerful ships.  Beware of its deadly warp scrambling ability. Threat level: Very high",
+    "es": "Caza de apoyo mercenario que generalmente actúa como refuerzo de naves más grandes y potentes. No se debe desdeñar la capacidad letal de su distorsionador de warp. Nivel de amenaza: muy alto.",
+    "fr": "Il s'agit d'un chasseur de soutien mercenaire. Il œuvre généralement en renfort pour des vaisseaux plus grands et plus puissants.  Méfiez-vous de ses modules de brouillage de warp très efficaces. Niveau de menace : très élevé",
+    "ja": "傭兵支援艦載戦闘機。より巨大で強力な船の後方支援として活躍する。極めて危険なワープスクランブル能力を持つ。危険度:非常に高い",
+    "ko": "용병 서포트 파이터는 대형 함선에 대한 각종 지원 활동을 담당합니다. 강력한 워프 스크램블러를 보유하고 있습니다. 위험도: 매우 높음",
+    "ru": "Это корабль поддержки наемников. Как правило, используется в качестве вспомогательного корабля, сопровождая более крупные и мощные корабли. Берегитесь его смертельной возможности глушения квантовых двигателей. Уровень опасности: очень высокий",
+    "zh": "这是一艘雇佣兵支援战舰，经常为大型及更高火力的飞船提供支援。小心它致命的跃迁干扰能力。威胁等级：非常高"
+  },
+  "graphicID": 338,
+  "groupID": 818,
+  "mass": 1645000.0,
   "name": {
     "de": "Mercenary Wingman",
     "en": "Mercenary Wingman",
@@ -10,5 +23,10 @@
     "ru": "Mercenary Wingman",
     "zh": "雇佣兵 僚机"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 50.0,
+  "sofFactionName": "angelbase",
   "volume": 16450.0
 }

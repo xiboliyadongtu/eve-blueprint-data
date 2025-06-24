@@ -1,5 +1,68 @@
 {
-  "typeID": 23919,
+  "basePrice": 49279400000.0,
+  "capacity": 1650.0,
+  "description": {
+    "de": "Schiffe wie die Aeon gibt es im Imperium bereits seit langer Zeit. Sie blieben eine der Hauptstützen der Amarr zur Raumerschließung, während, auf einen Neubeginn jenseits des verfluchten Horizonts hoffend, ganze Städte von Siedlern aus ihren heruntergekommenen Heimstätten herbeiströmen, um ihr Heil auf jungen Planeten zu finden. Die Aeon stellt das größte Schiff ihrer Art in der Geschichte des Imperiums dar. Sie ist in der Lage, als mobile Zitadelle zu fungieren und darüber hinaus mächtige Geschwader von Jagdbombern in die Schlacht zu entsenden.",
+    "en": "Ships like the Aeon have been with the Empire for a long time. They have remained a mainstay of Amarr expansion as, hopeful for a new beginning beyond the blasted horizon, whole cities of settlers sojourn from their time-worn homesteads to try their luck on infant worlds. The Aeon represents the largest ship of its kind in the history of the Empire, capable of functioning as a mobile citadel in addition to fielding powerful wings of fighter bombers.",
+    "es": "El Imperio lleva mucho tiempo sirviéndose de naves como la Aeon, uno de los principales pilares de la expansión amarriana a medida que ciudades enteras de colonos abandonaban sus hogares deteriorados con el tiempo para probar suerte en mundos jóvenes, con la esperanza de encontrar un nuevo comienzo. La Aeon es la nave más grande de su categoría de toda la historia del Imperio y sirve tanto como ciudadela móvil como para el despliegue de potentes alas de cazabombarderos.",
+    "fr": "Les vaisseaux comme l'Aeon font partie de l'Empire depuis longtemps. Ils sont les piliers du développement amarr depuis que, dans l'espoir d'une vie meilleure, des villes entières de colons ont quitté leurs fermes rongées par le temps, en quête de fortune vers des mondes nouveaux. L'Aeon est le seul vaisseau de cette nature et de cette taille de toute l'histoire de l'Empire. Il fait office de citadelle mobile, mais approvisionne également l'Empire en chasseurs-bombardiers puissants.",
+    "ja": "イーオンなどの艦船は帝国で永らく使用されてきたものだ。この船は、痩せ衰えた祖国の土地から未開拓の土地に望みをかけ、荒廃した地平の向こうに新たな生活の始まりを夢見て乗り込んだアマーの開拓者たちの勢力拡大を永らく支えているものであった。イーオンは強力な戦闘爆撃機を艦載可能であることに加え、可動式の城塞としての機能も持ち合わせた帝国の歴史の中でも類を見ない大きさを持つ艦船である。",
+    "ko": "이온은 아마르 제국의 역사와 함께해온 오래된 함선입니다. 아마르 제국의 영토 확장 시절부터 애용되어 왔으며 황폐한 고향을 떠나 다른 행성에서 새로운 시작을 갈망하는 도시주민들의 꿈을 이루어주는 존재였습니다. 제국 역사상 최대 규모를 자랑하는 함선으로 이동식 시타델의 역할을 수행할 수 있음은 물론, 전투폭격기까지 자체적으로 수용할 수 있는 배틀쉽입니다.",
+    "ru": "Корабли, подобные «Эонам», амаррским кораблям автономного развёртывания (КАРам) сверхбольшого тоннажа, строятся в Империи издавна. Именно они обеспечили успех экспансии амаррского народа, когда в поисках новой жизни поселенцы целыми городами покидали родные дома, надеясь найти счастье в новых мирах. «Эон» — самый крупный корабль своего класса в истории Империи; это настоящая передвижная крепость, несущая на борту целые эскадрильи истребителей-бомардировщиков.",
+    "zh": "万古级航母的历史和帝国开拓史一样悠长。当整个城市的人举家迁徙，从古老的家园移民到新生的土地上，开始崭新生活之时，它们就是支撑领土扩张的中坚力量。万古级是帝国历史上同类舰船中最庞大的，可用来充当移动堡垒，其装备极度强悍。"
+  },
+  "factionID": 500003,
+  "graphicID": 2911,
+  "groupID": 659,
+  "marketGroupID": 818,
+  "mass": 1780000000.0,
+  "masteries": {
+    "0": [
+      96,
+      146,
+      145,
+      82,
+      90,
+      95
+    ],
+    "1": [
+      96,
+      146,
+      145,
+      82,
+      90,
+      95
+    ],
+    "2": [
+      96,
+      146,
+      145,
+      82,
+      90,
+      95
+    ],
+    "3": [
+      96,
+      146,
+      145,
+      82,
+      90,
+      95
+    ],
+    "4": [
+      96,
+      146,
+      109,
+      145,
+      82,
+      117,
+      152,
+      153,
+      90,
+      154,
+      95
+    ]
+  },
   "name": {
     "de": "Aeon",
     "en": "Aeon",
@@ -9,6 +72,251 @@
     "ko": "에이온",
     "ru": "Aeon",
     "zh": "万古级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 4674.0,
+  "sofFactionName": "amarrbase",
+  "soundID": 20062,
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Es können <a href=showinfo:41411>Vernetzte Sensoranlagen</a> eingebaut werden",
+          "en": "Can fit <a href=showinfo:41411>Networked Sensor Array</a>",
+          "es": "Es posible equipar una <a href=showinfo:41411>red de sensores conectados</a>.",
+          "fr": "Peut être équipé d'un <a href=showinfo:41411>réseau matriciel de détection</a>",
+          "ja": "<a href=showinfo:41411>ネットワーク式センサー施設</a>を装備可能",
+          "ko": "<a href=showinfo:41411>네트워크 센서 장비</a> 장착 가능",
+          "ru": "Корабли этого типа могут оснащаться <a href=showinfo:41411>сверхмощными активными усилителями систем захвата целей (Networked Sensor Array)</a>",
+          "zh": "可装配<a href=showinfo:41411>联网感应器阵列</a>"
+        },
+        "importance": 1
+      },
+      {
+        "bonusText": {
+          "de": "Es können <a href=showinfo:27911>Pulsprojektoren</a> eingebaut werden",
+          "en": "Can fit <a href=showinfo:27911>Burst Projectors</a>",
+          "es": "Es posible equipar <a href=showinfo:27911>proyectores de estallido</a>.",
+          "fr": "Peut être équipé de <a href=showinfo:27911>projecteurs à salves</a>",
+          "ja": "<a href=showinfo:27911>バーストプロジェクター</a>を装備可能",
+          "ko": "<a href=showinfo:27911>버스트 프로젝터</a> 장착 가능",
+          "ru": "Корабли этого типа могут оснащаться <a href=showinfo:27911>проекторами объёмных помех</a>",
+          "zh": "可装配<a href=showinfo:27911>脉冲波投射器</a>"
+        },
+        "importance": 2
+      },
+      {
+        "bonusText": {
+          "de": "Kann zwei <a href=showinfo:3348>Kommandostrahl</a>-Module verwenden",
+          "en": "Can use two <a href=showinfo:3348>Command Burst</a> modules",
+          "es": "Es posible equipar dos módulos de <a href=showinfo:3348>estallido de mando</a>.",
+          "fr": "Peut utiliser deux <a href=showinfo:3348>salves de commandement</a>.",
+          "ja": "<a href=showinfo:3348>コマンドバースト</a>モジュールは2個使用可能です",
+          "ko": "두개의 <a href=showinfo:3348>커맨드 버스트</a> 모듈 사용 가능",
+          "ru": "Корабли этого типа могут включать до двух <a href=showinfo:3348>импульсных оптимизаторов</a>",
+          "zh": "可以装配两个<a href=showinfo:3348>指挥脉冲波</a>装备"
+        },
+        "importance": 3
+      },
+      {
+        "bonus": 200.0,
+        "bonusText": {
+          "de": "Bonus auf die Reichweite des Wirkungsbereichs von <a href=showinfo:3348>Kommandostrahlen</a>",
+          "en": "bonus to <a href=showinfo:3348>Command Burst</a> area of effect range",
+          "es": "de bonificación al alcance del radio de acción del <a href=showinfo:3348>estallido de mando</a>.",
+          "fr": "de bonus à la portée de l'effet de zone des <a href=showinfo:3348>salves de commandement</a>.",
+          "ja": "<a href=showinfo:3348>コマンドバースト</a>効果範囲にボーナス",
+          "ko": "<a href=showinfo:3348>커맨드 버스트</a> 효과 반경 증가",
+          "ru": "увеличивается радиус импульсов, генерируемых <a href=showinfo:3348>импульсными оптимизаторами</a>",
+          "zh": "<a href=showinfo:3348>指挥脉冲波</a>效果范围加成"
+        },
+        "importance": 4,
+        "unitID": 105
+      },
+      {
+        "bonusText": {
+          "de": "Kann <a href=showinfo:40572>leichte</a> und <a href=showinfo:32339>schwere</a> <a href=showinfo:23069>Jäger</a> starten",
+          "en": "Can launch <a href=showinfo:40572>Light</a> and <a href=showinfo:32339>Heavy</a> <a href=showinfo:23069>Fighters</a>",
+          "es": "Puede lanzar <a href=showinfo:23069>cazas</a> <a href=showinfo:40572>ligeros</a> y <a href=showinfo:32339>pesados</a>.",
+          "fr": "Peut lancer des <a href=showinfo:23069>chasseurs</a> <a href=showinfo:40572>légers</a> et <a href=showinfo:32339>lourds</a>",
+          "ja": "<a href=showinfo:40572>軽</a>・<a href=showinfo:32339>重</a><a href=showinfo:23069>戦闘機</a>が発艦可能",
+          "ko": "<a href=showinfo:23069>파이터</a> (<a href=showinfo:40572>라이트 파이터</a> 및 <a href=showinfo:32339>헤비 파이터</a>) 사출 가능",
+          "ru": "Подходит для запуска <a href=showinfo:40572>лёгких</a> и <a href=showinfo:32339>тяжёлых</a> <a href=showinfo:23069>истребителей</a>",
+          "zh": "可释放<a href=showinfo:40572>轻型</a>和<a href=showinfo:32339>重型</a> <a href=showinfo:23069>铁骑舰载机</a>"
+        },
+        "importance": 5
+      },
+      {
+        "bonusText": {
+          "de": "Kann Ziele auf größere Entfernungen erfassen",
+          "en": "Can lock at extended ranges",
+          "es": "Puede fijar objetivos a mayores distancias.",
+          "fr": "Peut verrouiller des cibles à plus grande distance",
+          "ja": "長距離からロックオン可能",
+          "ko": "타겟 거리 증가",
+          "ru": "Повышена дальность захвата целей",
+          "zh": "可在更大范围内锁定"
+        },
+        "importance": 6
+      },
+      {
+        "bonus": 400.0,
+        "bonusText": {
+          "de": "Bonus auf Panzerplatten und Schilderweiterungen",
+          "en": "bonus to Armor Plates and Shield Extenders",
+          "es": "de bonificación a las placas de blindaje y los extensores de escudo.",
+          "fr": "de bonus aux revêtements de blindage et aux extenseurs de bouclier",
+          "ja": "アーマープレートとシールド拡張器にボーナス",
+          "ko": "장갑 플레이트 및 실드 확장장치 성능 향상",
+          "ru": "увеличивается запас прочности, обеспечиваемый бронеплитами и дополнительными источниками щитов",
+          "zh": "装甲附甲板和护盾扩展装置加成"
+        },
+        "importance": 7,
+        "unitID": 105
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Bonus auf den Widerstand gegen Sensorferndämpfer",
+          "en": "bonus to Remote Sensor Dampener resistance",
+          "es": "de bonificación a la resistencia de atenuador de sensor remoto.",
+          "fr": "de bonus de résistance aux atténuateurs de détection à distance",
+          "ja": "リモートセンサーダンプナーのレジスタンスが増加",
+          "ko": "원격 센서 댐프너 저항력 증가",
+          "ru": "увеличивается сопротивление подавлению захвата целей",
+          "zh": "远程感应抑阻器抗性加成"
+        },
+        "importance": 8,
+        "unitID": 105
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Bonus auf den Widerstand gegen Stasis-Effekte",
+          "en": "bonus to Stasis effect resistance",
+          "es": "de bonificación a la resistencia al efecto ralentizador.",
+          "fr": "de bonus de résistance aux effets de stase",
+          "ja": "ステイシス効果レジスタンスが増加",
+          "ko": "스테이시스 웹 저항력 증가",
+          "ru": "увеличивается сопротивление воздействию стазиса",
+          "zh": "停滞效果抗性加成"
+        },
+        "importance": 9,
+        "unitID": 105
+      },
+      {
+        "bonus": 50.0,
+        "bonusText": {
+          "de": "Erhöhung der Fernunterstützungsimpedanz auf Elektronik",
+          "en": "increase to Remote Electronic Assistance impedance",
+          "es": "de aumento de la impedancia de asistencia electrónica remota.",
+          "fr": "d'amplification de l'impédance du soutien électronique à distance",
+          "ja": "リモート電子アシスタンスインピーダンスが増加",
+          "ko": "원격 전자 지원 임피던스 증가",
+          "ru": "увеличивается коэффициент ослабления получаемой дистанционной радиоэлектронной поддержки",
+          "zh": "增加到远程电子辅助阻抗"
+        },
+        "importance": 10,
+        "unitID": 105
+      },
+      {
+        "bonus": 5.0,
+        "bonusText": {
+          "de": "Abzug auf die Dauer von <a href=showinfo:34593>Entosis-Netzwerken</a>",
+          "en": "penalty to <a href=showinfo:34593>Entosis Link</a> duration",
+          "es": "de penalización a la duración del <a href=showinfo:34593>enlace de entosis</a>.",
+          "fr": "d'allongement du temps de cycle des <a href=showinfo:34593>interfaces Entosis</a>",
+          "ja": "<a href=showinfo:34593>エントーシスリンク</a>持続時間にペナルティ",
+          "ko": "<a href=showinfo:34593>엔토시스 링크</a> 지속시간 감소",
+          "ru": "увеличивается длительность рабочего цикла <a href=showinfo:34593>энтоз-передатчиков</a>",
+          "zh": "<a href=showinfo:34593>侵噬链接</a>运转周期惩罚"
+        },
+        "importance": 11,
+        "unitID": 104
+      }
+    ],
+    "types": {
+      "24311": [
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:23069>Jägern</a>",
+            "en": "bonus to <a href=showinfo:23069>Fighter</a> damage",
+            "es": "de bonificación al daño de los <a href=showinfo:23069>cazas</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:23069>chasseurs</a>",
+            "ja": "<a href=showinfo:23069>戦闘機</a>ダメージが増加",
+            "ko": "<a href=showinfo:23069>파이터</a> 피해량 증가",
+            "ru": "увеличивается урон бортового оружия <a href=showinfo:23069>истребителей</a>",
+            "zh": "<a href=showinfo:23069>铁骑舰载机</a>伤害加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 4.0,
+          "bonusText": {
+            "de": "Bonus auf alle Panzerungsresistenzen",
+            "en": "bonus to all armor resistances",
+            "es": "de bonificación a todas las resistencias de blindaje.",
+            "fr": "de bonus à toutes les résistances de blindage",
+            "ja": "全てのアーマーレジスタンスが増加",
+            "ko": "모든 장갑 저항력 증가",
+            "ru": "повышается сопротивляемость брони корабля всем видам воздействия",
+            "zh": "装甲抗性加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Bonus auf die Warpkernstärke des Schiffs",
+            "en": "bonus to ship warp core strength",
+            "es": "de bonificación a la intensidad del núcleo de warp de la nave.",
+            "fr": "de bonus à la puissance du réacteur de warp",
+            "ja": "艦船のワープコアを強化",
+            "ko": "워프 코어 출력 증가",
+            "ru": "повышается степень помехозащищённости варп-двигателя корабля",
+            "zh": "舰船跃迁核心强度加成"
+          },
+          "importance": 3,
+          "unitID": 139
+        },
+        {
+          "bonus": 5.0,
+          "bonusText": {
+            "de": "Reduktion der Zykluszeit von <a href=showinfo:40699>Waffenstörung-Pulsprojektoren</a>",
+            "en": "reduction in <a href=showinfo:40699>Weapon Disruption Burst Projector</a> cycle time",
+            "es": "de reducción del tiempo de ciclo del <a href=showinfo:40699>proyector de estallido de disrupción de armas</a>",
+            "fr": "de réduction du temps de cycle des <a href=showinfo:3319>projecteurs à salves de perturbation d'armement</a>",
+            "ja": "<a href=showinfo:40699>兵器妨害バーストプロジェクター</a>のサイクル時間が減少",
+            "ko": "<a href=showinfo:40699>무기 교란 버스트 프로젝터</a> 사이클 시간 감소",
+            "ru": "сокращается продолжительность рабочего цикла <a href=showinfo:40699>проекторов объёмных помех наводке вооружения</a>",
+            "zh": "<a href=showinfo:40699>武器干扰脉冲波投射器</a>运转周期缩短"
+          },
+          "importance": 4,
+          "unitID": 105
+        },
+        {
+          "bonus": 2.0,
+          "bonusText": {
+            "de": "Bonus auf Stärke und Dauer von <a href=showinfo:20494>Panzerungkommando</a>- und <a href=showinfo:20495>Informationkommando</a>strahlen",
+            "en": "bonus to <a href=showinfo:20494>Armored Command</a> and <a href=showinfo:20495>Information Command</a> burst strength and duration",
+            "es": "de bonificación a la intensidad y la duración del estallido de <a href=showinfo:20494>mando de blindaje</a> y de <a href=showinfo:20495>mando de información</a>.",
+            "fr": "de bonus à la puissance et à la durée des salves de <a href=showinfo:20494>commandement blindé</a> et de <a href=showinfo:20495>commandement électronique</a>.",
+            "ja": "<a href=showinfo:20494>アーマードコマンドバースト</a>と<a href=showinfo:20495>情報戦コマンドバースト</a>の強度と持続時間が上昇",
+            "ko": "<a href=showinfo:20494>장갑 버스트</a> 및 <a href=showinfo:20495>정보전 버스트</a> 효과 강화 및 지속시간 증가",
+            "ru": "повышается эффективность и длительность действия импульсов, генерируемых <a href=showinfo:20494>импульсными оптимизаторами брони</a> и <a href=showinfo:20495>импульсными оптимизаторами РЭБ</a>",
+            "zh": "<a href=showinfo:20494>装甲指挥</a>和<a href=showinfo:20495>信息战指挥</a>脉冲波强度和持续时间加成"
+          },
+          "importance": 5,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 62000000.0
 }

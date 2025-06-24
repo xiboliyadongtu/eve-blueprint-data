@@ -1,5 +1,17 @@
 {
-  "typeID": 3501,
+  "description": {
+    "de": "Das \"Mechanized Torso-Actuated Chassis (MTAC)\" wird im ganzen New Eden-Cluster für alle Arten industrieller oder militärischer Arbeit genutzt. Die Roboterarme können in zahllosen Varianten konfiguriert werden: Von Hydraulikanwendungen zum Heben schwerer Gewichte, bis hin zu waffenmontierten Schlachtfeldapplikationen.",
+    "en": "The Mechanized Torso-Actuated Chassis (MTAC) is used throughout the New Eden cluster for all types of industrial and military work. The robotic arms can be configured in countless ways, from hydraulics for heavy lifting to enormous weapon-mounted battlefield applications.",
+    "es": "El chasis de torso mecanizado (CTM) se usa en todo el cúmulo de Nuevo Edén para todo tipo de trabajos industriales y militares. Los brazos robóticos se pueden configurar de innumerables formas, desde sistemas hidráulicos para levantar objetos pesados hasta enormes aplicaciones con armas montadas para el campo de batalla.",
+    "fr": "Le châssis à bras mécaniques (CBM) est utilisé dans toute la galaxie de New Eden pour tous types de travaux industriels et militaires. Les bras robotiques peuvent être configurés de nombreuses manières, pour équiper de gigantesques armes ou encore soulever de gros volumes.",
+    "ja": "機械化胴部作動シャーシ（MTAC）は、ニューエデン一帯であらゆる種類の工業および軍事業務向けに使用されている。ロボット式アームは、重量物を持ち上げるための液圧式から巨大武器を搭載した戦場向け用途まで、無数の方法で設定が可能。",
+    "ko": "몸통이 강화된 기계화 섀시(MTAC)는 뉴에덴 전역의 산업 및 군사 사업에 사용됩니다. 로봇팔의 설정은 무거운 하중을 들어 올리기 위한 유압식부터 거대한 무기 탑재를 위한 전장 특화까지 상황에 맞게 다양하게 변경할 수 있습니다.",
+    "ru": "Механизированные экзоскелеты, или MTAC, используются по всей галактике для решения самых разнообразных промышленных и военных задач. Роботизированные «руки» механизма могут нести бесчисленное количество приспособлений ― от гидравлических усилителей для подъема тяжестей до сложных оружейных систем для использования на поле боя.",
+    "zh": "MTAC是一种可植入人体的机械臂，它在宇宙中广泛用于各种工业及军事作业。这种机械臂具有数不胜数的配置方式，可以胜任从重物挪移到武器支撑的各方面应用。"
+  },
+  "groupID": 314,
+  "iconID": 10151,
+  "mass": 7500.0,
   "name": {
     "de": "CONCORD MTAC",
     "en": "CONCORD MTAC",
@@ -10,5 +22,7 @@
     "ru": "CONCORD MTAC",
     "zh": "统合部MTAC"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 7500.0
 }

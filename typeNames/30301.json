@@ -1,5 +1,18 @@
 {
-  "typeID": 30301,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Der Sleeper Multiplex Forwarder wurde als mächtiger Router angelegt, über den mehrere Sleeper-Einrichtungen elektronische Daten austauschen konnten. Die nahezu unverwüstlichen Metalllegierungen verhehlen nicht, dass die überaus dicken Datenkabel Unmengen an Informationen übertragen können.",
+    "en": "The Sleeper Multiplex Forwarder was built as a massive router for transferring electronic data between various Sleeper facilities. Although enclosed in super-resilient metal alloys, the size of the data cables suggests that it is capable of transmitting extraordinary amounts of information.",
+    "es": "El reexpedidor múltiple sleeper se construyó como un enorme router para transferir datos electrónicos entre varias instalaciones sleepers. Aunque está encapsulado en aleaciones de metal superresistentes, el tamaño de los cables de datos sugiere que es capaz de transmitir cantidades extraordinarias de información.",
+    "fr": "Le vaisseau transitaire sleeper a été conçu à l'image d'un gigantesque routeur permettant le transfert des données électroniques entre les différentes installations des Sleeper. Bien que ses câbles de données soient contenus dans des alliages en métal ultra-résistants, leur taille laisse supposer qu'il est bien capable de transmettre des quantités phénoménales d'informations.",
+    "ja": "スリーパー多重転送器は、あらゆるスリーパー施設間でのデータ転送を行う巨大ルーターとして作られた。高耐久性の合金に包まれているが、データケーブルのサイズから膨大な量の情報転送が可能と推測される。",
+    "ko": "슬리퍼 멀티플렉스 운송선은 슬리퍼 시설들 사이에서 전자 데이터를 전송하고자 제작된 거대한 라우터입니다. 저항력이 높은 합금으로 둘러싸여 있지만 데이터 케이블이 매우 굵어 방대한 양의 정보를 전송할 수 있을 것으로 추정됩니다.",
+    "ru": "Механизм продвижения данных Sleeper Multiplex был построен как большой маршрутизатор для передачи электронных данных между различными установками Sleeper. Несмотря на то, что они заключены в оболочку из чрезвычайно гибких сплавов металлов, размеры кабелей для передачи данных позволяют предположить, что они могут передавать огромное количество информации.",
+    "zh": "冬眠者多元转发站是一座巨大的交换机房，负责传递来自不同冬眠者设施的电子数据。尽管主体被保护在超高强度的合金外壳下，但可以从数据电缆的尺寸看出它所具有的强大信息处理能力。"
+  },
+  "graphicID": 3521,
+  "groupID": 226,
+  "mass": 100000.0,
   "name": {
     "de": "Sleeper Multiplex Forwarder",
     "en": "Sleeper Multiplex Forwarder",
@@ -10,5 +23,10 @@
     "ru": "Sleeper Multiplex Forwarder",
     "zh": "冬眠者多元转发站"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 2759.0,
+  "sofFactionName": "sleeperbase",
+  "soundID": 20186,
   "volume": 100000000.0
 }

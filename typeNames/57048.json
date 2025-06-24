@@ -1,5 +1,17 @@
 {
-  "typeID": 57048,
+  "description": {
+    "de": "Diese stark umgewandelte Orca wurde von der Outer Ring Excavations Corporation als mobile Aufbereitungsanlage für unbeständiges Eiserz eingerichtet. Dieser Prozessor nimmt frisches unbeständiges Eiserz im Tausch gegen ein weißes ORE-Bergungspaket entgegen. Im Tausch gegen nützliche Eiserze werden verschiedene Bergungsgegenstände angeboten, die von ORE durch Kampfeinsätze erlangt oder durch Filtern von weiterverarbeitetem Eis erhalten wurden.",
+    "en": "This heavily-converted Orca has been set up as a mobile volatile ice ore processing facility by the Outer Ring Excavations corporation.\r\n\r\nThis processor takes Fresh Volatile Ice ore in exchange for an ORE White Salvage Package.\r\n\r\nVarious salvage items obtained by ORE through combat operations or filtered out of processed ice are offered in trade for useful ice ores.",
+    "es": "La corporación Outer Ring Excavations ha convertido esta Orca profundamente transformada en una instalación móvil para el procesamiento de menas de hielo volátil.\r\n\r\nEste procesador acepta menas de hielo volátil fresco a cambio de un paquete de recuperación blanco de ORE.\r\n\r\nA cambio de útiles menas de hielo, se ofrecen varios artículos que ORE ha recuperado en acciones bélicas o que ha filtrado a partir de hielo procesado.",
+    "fr": "Cet Orca a été intégralement converti en installation de traitement mobile pour le minerai de glace volatile par la corporation Outer Ring Excavations. Ce processeur prend du minerai de glace volatile fraîche en échange d'un pack de récupération ORE blanc. Divers objets de récupération obtenus par l'ORE lors d'opérations de combat ou filtrés à partir de glace traitée sont proposés en échange de minerais de glace utiles.",
+    "ja": "このオルカは、アウターリング発掘調査コーポレーションの移動式揮発性アイス鉱石処理施設として設置されている。\r\n\r\nこのプロセッサーは、OREホワイトサルベージパッケージと引き換えに新鮮な揮発性アイス鉱石を採取する。\r\n\r\n戦闘行動や、加工処理したアイスをろ過して入手した様々なサルベージアイテムは、有用なアイス鉱石との取引に使用される。",
+    "ko": "아우터링 채굴조합이 이동식 정제 시설로 개조한 오르카로, 아이스 처리 작업에 사용되고 있습니다.<br><br>선명한 불안정한 아이스를 투입하면 ORE 화이트 샐비지 패키지를 획득할 수 있습니다.<br><br>아이스 교환 시 ORE가 작전 중 수집한 각종 아이템 및 정제 과정에서 남은 재료를 입수할 수 있습니다.",
+    "ru": "Этот модифицированный вариант корабля Orca, созданный корпорацией «Окраинная рудная экспедиция», по сути, является мобильным заводом по переработке нестабильной ледяной руды. За качественную ледяную руду ОРЭ предлагает различные находки, полученные в ходе боевых действий или же извлечённые из переработанного льда.",
+    "zh": "这艘大幅改装过的逆戟鲸级被外空联合矿业集团用作一个可移动的不稳定冰矿石处理设施。可以在这里用新生的不稳定冰矿石交换联合矿业白色打捞箱。联合矿业将自己在战斗或提炼矿石的过程中获得的各种打捞物品用来交换冰矿石。"
+  },
+  "graphicID": 3466,
+  "groupID": 494,
+  "mass": 150000000.0,
   "name": {
     "de": "ORE Fresh Volatile Ice Processor",
     "en": "ORE Fresh Volatile Ice Processor",
@@ -10,5 +22,10 @@
     "ru": "ORE Fresh Volatile Ice Processor",
     "zh": "联合矿业新生的不稳定冰矿提炼中心"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 550.0,
+  "sofFactionName": "orebase",
+  "soundID": 20221,
   "volume": 10250000.0
 }

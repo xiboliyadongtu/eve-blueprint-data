@@ -1,5 +1,18 @@
 {
-  "typeID": 3300,
+  "basePrice": 30000.0,
+  "description": {
+    "de": "Grundkenntniss zur Bedienung von Geschütztürmen.\r\n\r\n2% Bonus auf die Feuergeschwindigkeit von Geschütztürmen je Skillstufe.",
+    "en": "Basic turret operation skill. 2% Bonus to weapon turrets' rate of fire per skill level.",
+    "es": "Habilidad de operación de torreta básica. 2 % de bonificación a la cadencia de tiro de las torretas por nivel de habilidad.",
+    "fr": "Compétence d'utilisation des tourelles de base. Augmente de 2 % par niveau de compétence la cadence de tir des tourelles.",
+    "ja": "タレット操作の基本的スキル。スキルレベル上昇ごとにタレット兵器の発射間隔に 2% のボーナス。",
+    "ko": "기초적인 터렛 운용을 위한 스킬입니다. 매 레벨마다 터렛 연사속도 2% 증가",
+    "ru": "Базовый навык ведения орудийного огня. За каждую степень освоения навыка: на 2% повышается скорострельность всех типов орудий.",
+    "zh": "炮台的基本操作技能。每升一级，武器炮台的发射速率提升2%。"
+  },
+  "groupID": 255,
+  "iconID": 33,
+  "marketGroupID": 364,
   "name": {
     "de": "Gunnery",
     "en": "Gunnery",
@@ -10,5 +23,7 @@
     "ru": "Ведение орудийного огня",
     "zh": "射击学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

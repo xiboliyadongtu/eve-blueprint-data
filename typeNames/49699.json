@@ -1,5 +1,17 @@
 {
-  "typeID": 49699,
+  "description": {
+    "de": "Diese automatisierte Anlage ist darauf ausgerichtet, die Ressourcen von Eiszwergen in verwendbare chemische Bestandteile aufzutrennen.",
+    "en": "This automated facility is geared towards separating resources collected  from the Ice Dwarf's environs into usable chemical fractions.",
+    "es": "Este centro automatizado fue ideado para separar los recursos recolectados en planetas enanos helados para obtener elementos químicos utilizables.",
+    "fr": "Cette installation automatisée est destinée à séparer les ressources récoltées aux alentours des naines blanches, afin de fournir des éléments chimiques exploitables.",
+    "ja": "この自動化された施設は、アイスドワーフの周辺から収集した資源を、使用可能な化学分画に分離することを目的としている。",
+    "ko": "얼음 왜행성 환경으로부터 채집한 자원을 사용 가능한 화학물질로 정제합니다.",
+    "ru": "Этот автоматизированный объект используется для разделения ресурсов, добываемых на ледяных карликах с целью получения пригодных для использования химических соединений.",
+    "zh": "这个自动化设施是用来分离  从冰矮星环境中采集的资源并使其成为可以使用的化学物质的。"
+  },
+  "graphicID": 22302,
+  "groupID": 226,
+  "mass": 1000000.0,
   "name": {
     "de": "Automated Frostline Condensate Separation Rig",
     "en": "Automated Frostline Condensate Separation Rig",
@@ -10,5 +22,10 @@
     "ru": "Automated Frostline Condensate Separation Rig",
     "zh": "自动化霜线冷凝物分离平台"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 30000.0,
+  "sofFactionName": "genericbase",
+  "soundID": 20869,
   "volume": 100000000000.0
 }

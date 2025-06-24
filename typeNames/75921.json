@@ -1,5 +1,17 @@
 {
-  "typeID": 75921,
+  "description": {
+    "de": "Dieses Signalfeuer markiert eine mittelgroße militärische Position. Das Eingangstor ist so konfiguriert, dass es Tech I, Tech II und alle Fraktionsschiffe der Kreuzergröße oder kleiner sowie Tech I, Tech II, Tech III und alle Fraktionsschiffe der Zerstörergröße oder kleiner einlässt. Die in diesem Beschleunigungstor installierten Sicherheitsfunktionen verhindern die Aktivierung durch alle mit Warpkern-Stabilisatormodulen ausgestatteten Schiffe.",
+    "en": "This beacon marks a medium military location. The entry gate is configured to admit Tech I, Tech II and all faction ships of Cruiser size or smaller, as well as Tech I, Tech II, Tech III and all faction ships of Destroyer size or smaller.\r\n\r\nThe security features installed in this acceleration gate will prevent activation by any ship that is fitted with warp core stabilizer modules.",
+    "es": "Esta baliza marca una sede militar mediana. El portal de entrada está configurado para admitir naves T1, T2 y todas las naves faccionarias de tamaño crucero o más pequeño, así como naves T1, T2, T3 y todas las naves faccionarias de tamaño destructor o más pequeño.\n\nLas funciones de seguridad instaladas en este portal de aceleración impiden que lo active ninguna nave con módulos estabilizadores del núcleo de warp.",
+    "fr": "Cette balise indique un emplacement militaire intermédiaire. Le portail d'entrée est configuré pour accepter les vaisseaux Tech I, Tech II et tous les vaisseaux de faction dont la taille est inférieure ou égale à celle d'un croiseur, ainsi que les vaisseaux Tech I, Tech II et Tech III et tous les vaisseaux de faction dont la taille est inférieure ou égale à celle d'un destroyer. Les fonctions de sécurité installées sur ce portail d'accélération empêchent tout vaisseau équipé de modules stabilisateurs de réacteur de warp de l'activer.",
+    "ja": "中型の軍事ポイントを示すビーコン。エントリーゲートは、T1、T2、そして勢力専用艦に該当する全ての巡洋艦以下のサイズの艦船、加えてT1、T2、T3、そして勢力専用艦に該当する全ての駆逐艦以下のサイズの艦船が通過できる設定になっている。\n\nこの加速ゲートに設置されたセキュリティ機能は、ワープコア制御モジュールを装備した艦船が起動するのを防ぐ。",
+    "ko": "중규모 군사 훈련장의 위치를 표시하는 비컨입니다. 테크 I, II 크루저 이하, 테크 I, II, III 및 모든 팩션 디스트로이어 이하 함급의 함선만 입장할 수 있습니다.<br><br>보안 규정에 따라 워프 코어 스태빌라이저 모듈을 탑재한 함선은 입장이 불가능합니다.",
+    "ru": "Этот маяк обозначает среднюю зону боевых действий. Конфигурация ворот рассчитана на суда не крупнее крейсера, включая корабли 1-го и 2-го техноуровней, а также корабли всех держав и организаций. Кроме того, ворота подходят для судов не крупнее эсминца, включая корабли 1-го, 2-го и 3-го техноуровней, а также корабли всех держав и организаций. Система безопасности не позволяет активировать эти разгонные ворота кораблям, оснащённым модулями стабилизации варп-ядра.",
+    "zh": "这个信标标记中型的军事设施。入口通道设定为可通行一级科技、二级科技和所有船型小于或等于巡洋舰以下的势力舰船，以及一级科技、二级科技、三级科技和所有船型小于或等于驱逐舰的势力舰船。安装在这个加速轨道中的安全设备会阻止由任何装配跃迁稳定器装备的舰船激活。"
+  },
+  "graphicID": 1211,
+  "groupID": 310,
+  "mass": 1.0,
   "name": {
     "de": "Medium Advanced Military Beacon",
     "en": "Medium Advanced Military Beacon",
@@ -10,5 +22,9 @@
     "ru": "Medium Advanced Military Beacon",
     "zh": "中型高级军事信标"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 30000.0,
+  "sofFactionName": "genericbase",
   "volume": 1.0
 }

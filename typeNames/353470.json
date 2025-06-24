@@ -1,5 +1,17 @@
 {
-  "typeID": 353470,
+  "basePrice": 567000.0,
+  "description": {
+    "de": "Skill zur Benutzung von Massebeschleunigern.\n\n3% auf die Schadenswirkung von Massebeschleunigern pro Skillstufe.",
+    "en": "Skill at handling mass drivers.\r\n\r\n+3% mass driver damage against armor per level.",
+    "es": "Habilidad de manejo de aceleradores de masa.\n\n+3% al daño de los aceleradores de masa por nivel.",
+    "fr": "Compétence permettant de manipuler les canons à masse.\n\n+3 % de dommages du canon à masse par niveau.",
+    "it": "Abilità nel maneggiare mass driver.\n\n+3% ai danni inflitti dal mass driver per livello.",
+    "ja": "マスドライバーを扱うスキル。\n\nレベル上昇ごとに、マスドライバーがアーマーに与えるダメージが3%増加する。",
+    "ko": "매스 드라이버 운용을 위한 스킬입니다.<br><br>매 레벨마다 장갑 대상 매스 드라이버 피해량 3% 증가",
+    "ru": "Навык обращения с ручными гранатометами.\n\n+3% к урону, наносимому ручным гранатометом, на каждый уровень.",
+    "zh": "操作质量加速器的技能。每升一级，质量加速器对装甲造成的伤害提高3%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Fertigkeit: Massebeschleuniger",
     "en": "Mass Driver Proficiency",
@@ -11,5 +23,7 @@
     "ru": "Эксперт по ручным гранатометам",
     "zh": "质量加速器熟练度"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

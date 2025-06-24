@@ -1,5 +1,19 @@
 {
-  "typeID": 88710,
+  "basePrice": 1340852.0,
+  "description": {
+    "de": "Der Mikrosprungantrieb ist ein Modul, das erst hochfährt und das Schiff anschließend 100km weit in die Richtung springen lässt, in die es ausgerichtet ist. Dort angekommen behält das Schiff seine Richtung und Geschwindigkeit bei. Warpunterbrecher können verwendet werden, um das Modul zu unterbrechen. Die Hochfahrdauer wird durch den Skill <a href=showinfo:4385>Bedienung Mikrosprungantrieb</a> reduziert. Der Mikrosprungantrieb wurde von der Duvolle Laboratories Advanced Manifold Theory Unit entwickelt. Der Antrieb wurde vom kürzlich verstorbenen Avagher Xarasier konzipiert. Dieses Genie steht hinter mehreren bahnbrechenden Erfindungen seiner Zeit.",
+    "en": "The Micro Jump Drive is a module that spools up, then jumps the ship forward 100km in the direction it is facing. Upon arrival, the ship maintains its direction and velocity. Warp scramblers can be used to disrupt the module. Spool up time is reduced by the skill <a href=showinfo:4385>Micro Jump Drive Operation</a>.\r\n\r\nThe Micro Jump Drive was developed by Duvolle Laboratories Advanced Manifold Theory Unit. The drive was conceived by the late Avagher Xarasier, the genius behind several ground-breaking innovations of that era.",
+    "es": "El motor de microsalto es un módulo que, una vez cargado, hace que la nave avance 100 km en la dirección a la que se dirige. Al llegar, la nave mantiene su dirección y velocidad. Se pueden utilizar distorsionadores de warp para interrumpir el módulo. El tiempo de carga se reduce con la habilidad <a href=showinfo:4385>Manejo del motor de microsalto</a>.\r\n\r\nEl motor de microsalto lo desarrolló la Unidad Teorética del Colector Avanzado de Duvolle Laboratories a partir del trabajo del difunto Avagher Xarasier, el genio detrás de varias innovaciones pioneras de la época.",
+    "fr": "Le micropropulseur interstellaire est un module qui tourne, avant de propulser le vaisseau 100 km plus loin. À l'arrivée, le vaisseau conserve sa direction et sa vitesse initiales. Des inhibiteurs de warp peuvent être utilisés pour perturber ce module. Le temps de réactivation est réduit par la compétence <a href=showinfo:4385>Gestion du propulseur de microsaut</a>. Le micropropulseur interstellaire a été mis au point par l'unité de théorie avancée des laboratoires Duvolle. Le propulseur en lui-même est l'œuvre de feu Avagher Xarasier, le génie déjà à l'origine de plusieurs innovations révolutionnaires de l'époque.",
+    "ja": "マイクロジャンプドライブは起動に一定時間を要するが、艦を瞬時に進行方向へ100kmジャンプさせる。到着時には艦の進行方向と速度はジャンプ前のまま維持される。ワープスクランブラーを使うとこのモジュールを妨害できる。起動までの時間は<a href=showinfo:4385>マイクロジャンプドライブオペレーション</a>スキルで短縮できる。\r\n\r\nマイクロジャンプドライブはデゥボレラボラトリーズの高度多様体理論ユニットが開発した。基礎理論は故アバガー・ザラシアが考案したものだ。画期的なイノベーションを生み出した、あの時代の天才技師である。",
+    "ko": "마이크로 점프 드라이브는 예열 후 함선이 정렬된 방향으로 100km를 순간이동 시켜주는 모듈입니다. 목표 지점에 도착한 후에도 함선은 기존의 속도와 방향을 유지합니다. 워프 스크램블러로 이 모듈의 사용을 방해할 수 있습니다. 예열 시간은 <a href=showinfo:4385>마이크로 점프 드라이브 운용</a> 스킬 습득 시 감소합니다.\r\n\r\n마이크로 점프 드라이브는 듀볼레 연구소 내 다기관 응용과학 부서가 개발하였으며, 여러 획기적 기술을 개발했던 천재로 알려진 아바게어 자라시어가 말년에 구상한 내용을 바탕으로 설계되었습니다.",
+    "ru": "Этот маневровый гипердвигатель с небольшой задержкой переносит ваш корабль на 100 км вперёд. Направление задаётся положением судна. После прыжка корабль сохраняет заданные курс и скорость. Действие такого модуля могут прервать варп-глушители. Задержка сокращается при освоении новых степеней навыка <a href=showinfo:4385>«Эксплуатация маневровых гипердвигателей»</a>. Этот маневровый гипердвигатель спроектирован учёными из отделения передовой теории многообразий «Лабораторий Дюволь». Его изобрёл покойный Авагер Ксаразьер — гениальный учёный, в своё время совершивший множество прорывных открытий.",
+    "zh": "微型跳跃引擎是一种能够提升发动机推力，使舰船瞬间跳跃到正前方100km处的装备。跳跃后，舰船的朝向和原始速度不变。这种装备可被跃迁扰频器干扰。学习<a href=showinfo:4385>微型跳跃引擎操作</a>技能可以减少舰船跳跃前的准备时间。微型跳跃引擎由度沃勒实验室下属的高级管道理论部门研发，其最初的构想来源于阿瓦格·扎拉希，他是一位天才科学家，曾主导了该领域的数个革命性创新成就。"
+  },
+  "groupID": 1189,
+  "iconID": 20971,
+  "marketGroupID": 1650,
+  "metaGroupID": 3,
   "name": {
     "de": "Xarasier Large Micro Jump Drive",
     "en": "Xarasier Large Micro Jump Drive",
@@ -10,5 +24,8 @@
     "ru": "Xarasier Large Micro Jump Drive",
     "zh": "扎拉希大型微型跳跃引擎"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 4383,
   "volume": 10.0
 }

@@ -1,5 +1,19 @@
 {
-  "typeID": 27673,
+  "basePrice": 20000000.0,
+  "description": {
+    "de": "Stationärer Anziehungsgenerator zum schnellen Standortwechsel von sprungfähigen Schiffen.",
+    "en": "Stationary Cynosural Generator, for rapid relocation of jump-capable vessels.",
+    "es": "Generador cinosural estacionario para la reubicación rápida de naves con capacidad de salto.",
+    "fr": "Module de génération cynosurale stationnaire permettant un transfert rapide des vaisseaux capables d'effectuer des sauts.",
+    "ja": "固定式のサイノシュラルジェネレーター。ジャンプ可能な船をすばやく移動させる。",
+    "ko": "점프 가능 함선들이 신속하게 이동하기 위한 고정형 사이노슈럴 생성기입니다.",
+    "ru": "Стационарный генератор путеводного поля для быстрого перемещения кораблей, оснащенных гипердвигателями.",
+    "zh": "固定的诱导力场发生器，用于帮助可跳跃船只快速转移。"
+  },
+  "graphicID": 2613,
+  "groupID": 838,
+  "marketGroupID": 1013,
+  "mass": 100000000.0,
   "name": {
     "de": "Cynosural Generator Array",
     "en": "Cynosural Generator Array",
@@ -10,5 +24,9 @@
     "ru": "Cynosural Generator Array",
     "zh": "诱导力场发生阵列"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 629.0,
+  "sofFactionName": "genericbase",
   "volume": 4000.0
 }

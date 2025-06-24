@@ -1,5 +1,19 @@
 {
-  "typeID": 28884,
+  "basePrice": 30000000.0,
+  "capacity": 40000.0,
+  "description": {
+    "de": "Eine größere Version des Standardsilos, das zum Verstauen von oder für die Versorgung mit Ressourcen verwendet wird.",
+    "en": "A larger version of the standard silo used to store or provide resources.",
+    "es": "Una versión más grande del depósito estándar usado para almacenar o proporcionar recursos.",
+    "fr": "Version plus grande du silo standard utilisé pour stocker ou fournir des ressources.",
+    "ja": "資源の保管や提供に使用される標準的な貯蔵庫の大型版。",
+    "ko": "자원 저장에 사용되는 대형 사일로입니다.",
+    "ru": "Более крупная версия обычного склада для хранения ресурсов.",
+    "zh": "这种储藏库比用来贮藏和提供资源的标准储藏库大一号。"
+  },
+  "graphicID": 2598,
+  "groupID": 404,
+  "mass": 100000000.0,
   "name": {
     "de": "Expanded Silo",
     "en": "Expanded Silo",
@@ -10,5 +24,9 @@
     "ru": "Expanded Silo",
     "zh": "扩充型储藏库"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 907.0,
+  "sofFactionName": "genericmetal",
   "volume": 8000.0
 }

@@ -1,5 +1,20 @@
 {
-  "typeID": 80425,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Die Überreste eines EDENCOM-Erkundungsschiffs, das ausgesandt wurde, um neu entstandene Leitungen zwischen der Raumverwerfung des Abgrunds und New Eden zu erforschen. In den Trümmern kann es wertvolle Technologie geben, die möglicherweise noch geborgen werden kann.",
+    "en": "The remnants of an EDENCOM surveyor ship, dispatched to explore newly formed conduits linking Abyssal Deadspace and New Eden. \r\n\r\nWithin the debris, there lies the potential for valuable technology that may still be retrieved.",
+    "es": "Los restos de una nave topógrafa de EDENCOM enviada para explorar conductos recién formados que vinculan Nuevo Edén con el espacio muerto abisal. \r\n\r\nLos escombros tal vez contengan valiosa tecnología que aún podría recuperarse.",
+    "fr": "Les débris d'un vaisseau d'arpentage EDENCOM, envoyé pour explorer les conduits récemment formés reliant l'abîme Deadspace et New Eden. Parmi les décombres, il y a une chance de trouver des technologies précieuses qui pourraient encore en être extraites.",
+    "ja": "新たに形成された、アビサルデッドスペースとニューエデンを繋ぐ導管を探索するために派遣されていたEDENCOMの調査船の残骸。 \r\n\r\n破壊されてはいるが、残骸から貴重なハイテク装置を回収できる可能性がある。",
+    "ko": "EDENCOM 측량선 잔해입니다. 해당 함선은 어비설 데드스페이스와 뉴에덴을 연결하는 전송기를 조사하기 위해 투입되었습니다.<br><br>잔해 속에 각종 첨단 기술이 잠들어 있습니다.",
+    "ru": "Обломки исследовательского судна ЭДЕНКОМа, отправленного на поиски недавно появившихся каналов, которые связывают Новый Эдем с Мёртвой Бездной. Возможно, из этой груды металла получится извлечь ценные технологии.",
+    "zh": "伊甸联合防御阵线调查舰船的残骸，该舰船在执行“探索连接深渊空间和新伊甸的新生导管”任务中遭遇意外。或许还能从这些碎片中回收前沿科技。"
+  },
+  "graphicID": 3117,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "EDENCOM Surveyor Debris",
     "en": "EDENCOM Surveyor Debris",
@@ -10,5 +25,9 @@
     "ru": "EDENCOM Surveyor Debris",
     "zh": "伊甸联合防御阵线调查舰船碎片"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 70.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

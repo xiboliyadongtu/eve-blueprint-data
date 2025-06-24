@@ -1,5 +1,18 @@
 {
-  "typeID": 81063,
+  "description": {
+    "de": "Schiffsantriebs-Komponente, die hauptsächlich in Upwell-Schiffen verwendet wird.",
+    "en": "Propulsion Component used primarily in Upwell ships.",
+    "es": "Componente de propulsión usado principalmente en naves de Upwell.",
+    "fr": "Composant de propulsion utilisé principalement dans les vaisseaux Upwell.",
+    "ja": "主にアップウェル艦に用いられる推進系部品。",
+    "ko": "업웰 함선에 주로 사용되는 추진 장치입니다.",
+    "ru": "Деталь двигателя, которую обычно устанавливают на корабли «Апвелл».",
+    "zh": "主要由昇威舰船使用的推进器构件。"
+  },
+  "groupID": 334,
+  "iconID": 2180,
+  "marketGroupID": 3594,
+  "mass": 1.0,
   "name": {
     "de": "Fission Thruster",
     "en": "Fission Thruster",
@@ -10,5 +23,8 @@
     "ru": "Fission Thruster",
     "zh": "裂变推进器"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 1.0
 }

@@ -1,5 +1,20 @@
 {
-  "typeID": 47140,
+  "basePrice": 20047340.0,
+  "description": {
+    "de": "<b>Typ:</b> Strukturbasierter Leichter Jäger <b>Funktion:</b> Angriff <b>Beschreibung:</b> Die Einherji ist ein Mehrzweckangriffsschiff. Diese Standup-Variante der Einherji ist leistungsstärker als die trägerschiffbasierten Varianten, profitiert jedoch nicht von Kapselpiloten-Skills und kann nur von Upwell-Strukturen gestartet werden. <b>Maschinenkanone</b>: Dieses Waffensystem verursacht beträchtlichen Schaden. Allerdings mindert der kurze Lauf die Genauigkeit bei kleinen, sich schnell bewegenden Zielen. <b>Mikrowarpantrieb</b>: Verleiht einen beträchtlichen Geschwindigkeitsschub auf Kosten eines höheren Signaturradius. Der Mikrowarpantrieb hat eine lange Abkühlzeit zwischen den Einsätzen. <b>Schwere Raketensalve</b>: Eine vereinfachte Version der schweren Lenkwaffen, die von Raumschiffen gestartet werden, mit deutlich kürzerer Reichweite.",
+    "en": "<b>Type:</b> Structure-based Light Fighter\r\n<b>Role:</b> Attack\r\n<b>Description:</b> The Einherji is a general purpose attack craft. This Standup variant of the Einherji is more powerful than the carrier-based variants but does not benefit from capsuleer skills and may only be launched from Upwell structures.\r\n\r\n<b>Autocannon</b>: This weapon-system does significant damage. However the short barrel length hurts its accuracy against small, fast moving targets.\r\n<b>Microwarpdrive</b>: Giving a significant speed boost at the cost of higher signature radius. The Microwarpdrive has a long cool-down cycle between uses.\r\n<b>Heavy Rocket Salvo</b>: A simplified, significantly shorter ranged version of starship launched Heavy Missiles.",
+    "es": "<b>Tipo:</b> caza ligero con base en estructuras.\n<b>Función:</b> ataque.\n<b>Descripción:</b> la Einherji es una nave de ataque de ámbito genérico. Esta variante Standup de la Einherji es más poderosa que las otras, basadas en portanaves; pero no se beneficia de las habilidades de los capsulistas y solo puede ser lanzada desde estructuras de Upwell.\n\n<b>Cañón automático</b>: este sistema armamentístico inflige un daño considerable. Sin embargo, la corta longitud del cañón reduce su precisión contra objetivos pequeños y rápidos.\n<b>Motor de microwarp</b>: otorga un aumento considerable de velocidad a costa de un radio de señal superior. Tiene un ciclo de recarga largo entre un uso y otro.\n<b>Andanada de cohetes pesados</b>: una versión simplificada y con un alcance significativamente menor de los misiles pesados para naves.",
+    "fr": "<b>Type :</b> Chasseur de structure léger <b>Rôle :</b> Attaque <b>Description :</b> L'Einherji est un vaisseau d'attaque ordinaire. La variante Standup de l'Einherji est plus puissante que les variantes porte-vaisseaux. Cependant, elle ne bénéficie pas des compétences des capsuliers et ne peut être lancée qu'à partir des structures Upwell. <b>Canon automatique</b> : Ce système d'armement provoque des dégâts considérables. Cependant, le canon court affecte sa précision contre les cibles mobiles rapides. <b>Propulseur de microwarp</b> : Augmente la vitesse de manière considérable, au prix d'un rayon de signature plus élevé. Le propulseur de microwarp a un cycle de refroidissement prolongé entre deux utilisations. <b>Salve de roquettes lourdes</b> : Une version simplifiée et à portée réduite des missiles lourds lancés depuis les vaisseaux spatiaux.",
+    "ja": "<b>タイプ：</b> ストラクチャベース軽戦闘機\r\n<b>用途：</b> 攻撃\r\n<b>説明：</b> エインヘリエは汎用攻撃機である。このスタンドアップ型のエインヘリエは、空母ベースのバリエーションよりも強力だが、カプセラスキルの恩恵を受けられず、アップウェルストラクチャからしか発進できない。\r\n\r\n<b>オートキャノン：</b> 大ダメージを与える兵器システム。しかし銃身が短いため、小回りの利く高速移動のターゲットに対しては精度が落ちてしまう。\r\n<b>マイクロワープドライブ：</b> シグネチャ半径が大きくなる代わりに、速度が大幅に上昇する。マイクロワープドライブのクールダウンサイクルは長い。\r\n<b>ヘビーロケット一斉射撃：</b>射程が大幅に短くなった簡易版の艦船発射型ヘビーミサイル。",
+    "ko": "<b>분류:</b> 스탠드업 라이트 파이터<br><b>임무:</b> 전투<br><b>설명:</b> 에인헤리는 범용 파이터입니다. 스탠드업 에인헤리는 캐리어 함재기보다 성능은 뛰어나지만 스킬 혜택을 받을 수 없으며 업웰 구조물에서만 사출이 가능합니다.<br><br><b>기관포</b>: 상당한 화력을 자랑하는 무기 체계입니다. 그러나 짧은 포신 탓에 작고 빠른 대상을 상대로는 정확도가 감소합니다.<br><b>마이크로 워프 드라이브</b>: 속도가 크게 향상되지만 시그니처 반경이 증가합니다. 긴 재사용 대기시간을 갖고 있습니다.<br><b>헤비 로켓 살보</b>: 함선 전용 헤비 미사일을 간소화시킨 단거리 미사일입니다.",
+    "ru": "<b>Тип:</b> лёгкий истребитель на базе сооружений <b>Роль:</b> атака <b>Описание:</b> «Айнхирджи» — штурмовой корабль общего назначения. Разновидность «Айнхирджи» на базе «Стационар» мощнее стандартных вариантов на базе КАРов, однако этот корабль не получает преимуществ от навыков капсулёров, а запускать его можно только с сооружений консорциума «Апвелл». <b>Автопушка</b>: эта орудийная система наносит значительный урон. Однако недостаточно большая длина стволов отрицательно сказывается на точности, заметно снижая эффективность этого оружия против небольших подвижных целей. <b>Микроварп-ускоритель</b>: ощутимо ускоряет корабль за счёт увеличения радиуса сигнатуры. После использования микроварп-ускорителю каждый раз требуется длительное охлаждение. <b>Залп тяжёлых ракет</b>: упрощённая и куда менее дальнобойная версия бортовых тяжёлых ракет.",
+    "zh": "<b>类型：</b>建筑用轻型铁骑舰载机\n\n<b>作用：</b>攻击\n\n<b>描述：</b>因赫吉是适用于一般用途的攻击型机种。这种屹立专用的因赫吉舰载机比其用于航母的孪生兄弟更加强大，但是不能受到飞行员的技能加成，而且只能从昇威建筑中发射。\n\n\n\n<b>自动加农炮</b>：这种武器系统能造成巨大伤害。但是由于炮管短小，在攻击小而快的目标时精度不佳。\n\n<b>微型跃迁推进器</b>：通过牺牲信号半径来大幅度提升速度。装备运转后的冷却时间较长。\n\n<b>重型火箭齐射</b>：星舰用重型导弹的一种射程大幅缩短的简化版本。"
+  },
+  "graphicID": 2973,
+  "groupID": 4777,
+  "marketGroupID": 2411,
+  "mass": 1000.0,
+  "metaGroupID": 54,
   "name": {
     "de": "Standup Einherji I",
     "en": "Standup Einherji I",
@@ -10,5 +25,10 @@
     "ru": "Standup Einherji I",
     "zh": "屹立因赫吉 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 2,
+  "radius": 35.0,
+  "sofFactionName": "minmatarbase",
   "volume": 2000.0
 }

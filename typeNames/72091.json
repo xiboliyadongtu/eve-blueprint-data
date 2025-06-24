@@ -1,5 +1,16 @@
 {
-  "typeID": 72091,
+  "description": {
+    "de": "Die Federation Navy wurde mit dem Ausbau der Sicherheit in den Gallente-Kerngebieten beauftragt und hat zu diesem Zweck Sicherheitscheckpoints und Kommandoanlagen an strategischen Positionen in der gesamten Föderation etabliert. Sicherheitscheckpoints dienen der Verkehrsüberwachung und der frühzeitigen Erkennung von Bedrohungen und ermöglichen zudem eine gewisse Reaktionsfähigkeit. Sicherheitskommandoanlagen gewährleisten dieselben Funktionen und sind darüber hinaus in der Lage, im Falle einer Invasion oder einer anderen Notlage als militärische Kommandozentrale zu operieren. Diese Sicherheitsstation der Federation Navy ist der zentrale Kontrollpunkt des Netzwerks aus Verteidigungseinrichtungen, Docks und Überwachungsvorrichtungen, das diesen Sicherheitsbereich bildet.",
+    "en": "The Federation Navy has been charged to further enhance the security of Gallente core territories and to that end has established security checkpoints and command installations at strategic positions across the Federation. Security checkpoints allow for monitoring of traffic and early detection of threats, while providing some response capability. Security command installations provide these functions while being capable of operating as a military command center in the event of an invasion or other emergency.\r\n\r\nThis Federation Navy Security Station is the central control point of the network of defenses, docks, and monitoring devices that makes up this security site.",
+    "es": "La Armada de la Federación tiene la misión de mejorar aún más la seguridad de los territorios centrales gallentes y, para ello, ha establecido puntos de control de seguridad e instalaciones de mando en posiciones estratégicas por toda la Federación. Los puntos de control de seguridad permiten controlar el tráfico y la detección inicial de amenazas, además de proporcionar cierta capacidad de respuesta. Las instalaciones de mando de seguridad proporcionan estas funciones y son capaces de operar como centro de mando militar en caso de invasión u otra emergencia.\n\nEsta estación de seguridad de la Armada de la Federación es el punto de control central de la red de defensas, muelles y dispositivos de control que hacen que esta zona de seguridad funcione.",
+    "fr": "La Federation Navy a pour ordre de renforcer la sécurité des principaux territoires de Gallente. Elle a donc mis en place des postes de contrôle de sécurité ainsi que des structures de commandement à plusieurs endroits stratégiques de la Fédération. Les postes de contrôle de sécurité permettent de surveiller la circulation afin de repérer toute menace potentielle en amont pour prendre les mesures nécessaires et y faire face. Les structures de commandement permettent non seulement d'assurer ces fonctions, mais de servir également de centre de commandement militaire en cas d'invasion ou d'urgence. Cette station de sécurité de la Federation Navy constitue le poste de contrôle central du réseau de défenses, de docks et de dispositifs de surveillance qui composent ce site de sécurité.",
+    "ja": "連邦海軍はガレンテの主要宙域の警備の厳重化を命じられており、その目的達成のため、連邦内の要衝にセキュリティチェックポイントと司令施設を設置している。セキュリティチェックポイントは往来の監視と脅威の早期発見を行えるだけでなく、ある程度の対応能力も備えている。セキュリティ司令施設はそういった機能に加え、軍事侵攻などの緊急事態が発生した際は軍事司令センターとしての役目を果たすことができる。\n\n連邦海軍セキュリティステーションは、このセキュリティサイトを構成する防衛設備、ドック、そして監視装置のネットワークを制御する中枢施設である。",
+    "ko": "연방 해군은 갈란테의 주요 영역의 안보를 강화하기 위해 많은 투자를 했습니다. 그 결과 연방의 전략적 요충지에 보안 체크포인트와 지휘소를 설립했습니다. 보안 체크포인트는 주요 통행자를 감시하고 위협을 조기에 발견하는 역할을 하며 위급 상황에 대응할 수 있는 군사력을 보유합니다. 지휘소 역시 비슷한 기능을 하며 적의 침략 및 기타 비상 상황에 군사 지휘소 역할을 맡습니다.<br><br>이 연방 해군 보안 정거장은 연방 방어 네트워크의 중앙 통제 시설로 설계되었으며 도킹 시설과 감시 시설을 갖췄습니다.",
+    "ru": "Флот Федерации получил распоряжение усилить охрану ключевых галлентских территорий. В результате на всех стратегических позициях появились контрольно-пропускные пункты и объекты службы безопасности. Контрольно-пропускные пункты позволяют следить за трафиком и своевременно обнаруживать угрозы. Кроме того, они обладают умеренным потенциалом реагирования. Объекты службы безопасности выполняют все вышеперечисленные функции, а в чрезвычайных ситуациях, к примеру в случае вторжения, могут действовать как военные командные центры. Этот охранный пост флота Федерации осуществляет контроль за всей сетью обороны, доков и устройств наблюдения в конкретной области.",
+    "zh": "联邦海军被要求进一步加强对盖伦特核心领地的安全保卫，因此他们在联邦的战略要地设立了安全检查站和指挥中心。安全检查站可以管制交通，提早发现可能的威胁，并具有一定的应对能力。安全指挥中心除了能提供上述的职能以外，还能在敌军入侵或其他紧急事件发生时用作军事指挥所。\n\n\n\n这座联邦海军安全空间站是这里的防御网络、船坞和监控设备的控制中枢。"
+  },
+  "graphicID": 2307,
+  "groupID": 226,
   "name": {
     "de": "Federation Navy Security Station",
     "en": "Federation Navy Security Station",
@@ -10,5 +21,9 @@
     "ru": "Federation Navy Security Station",
     "zh": "联邦海军安全空间站"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 5959.0,
+  "sofFactionName": "gallentebase"
 }

@@ -1,5 +1,16 @@
 {
-  "typeID": 59508,
+  "description": {
+    "de": "Diese Struktur bietet Sitze und Aussichtplattformen für große Mengen von Minmatar sowie anderen, die die Befreiungsspiele aus der Nähe betrachten möchten. Während sich das Angebot an Speisen und Getränken weitestgehend auf Thukker-Bierstände und Vherokior-Grillstellen beschränkt, ist die Struktur gut gegen alle geschützt, die die Abläufe stören wollen.",
+    "en": "This structure provides seating and viewing platforms for large numbers of those Minmatar, and others, who wish to view the Liberation Games up close. While drink and food is largely limited to the offerings of Thukker ale stands and Vherokior barbecue pits, the structure is well protected against any who might wish to disrupt proceedings.",
+    "es": "Esta estructura proporciona asientos y plataformas de observación para un gran número de minmatarianos y otros espectadores que deseen ver de cerca los Juegos de Liberación. Si bien la bebida y la comida se limita en gran medida a las ofertas de los puestos de cerveza de los thukkers y las parrillas de los vherokiors, la estructura está bien protegida contra cualquiera que desee interrumpir el proceso.",
+    "fr": "Cette structure fournit des sièges et des tribunes pour un grand nombre de Minmatar et de curieux désireux d'assister de près aux Jeux de la libération. Si la boisson et la nourriture se limitent essentiellement aux étals de bière thukker et aux barbecues vherokior, la structure est parfaitement protégée contre ceux qui voudraient jouer les trouble-fêtes.",
+    "ja": "このストラクチャは、解放の日記念ゲームを間近で観たい大勢のミンマター人や、その他の者たちを収容する観戦席プラットフォームである。飲食の提供はサッカーのエールスタンドとヴェロキュオールのバーベキューピットにほぼ限定されているが、ゲームを邪魔しようとする者に対するストラクチャの警備は厳重である。",
+    "ko": "독립절 대회를 위해 제작된 대규모 관람석입니다. 터커와 베로키오르 부족이 에일과 바비큐를 판매하고 있으며, 외부 위협에 대비하여 견고한 방어 체계가 설치되어 있습니다.",
+    "ru": "Это просторное сооружение с сидячими местами и смотровыми площадками предназначено для всех, кто желает насладиться Играми свободного Минматара с близкого расстояния. Хотя выбор еды и напитков здесь невелик — в распоряжении посетителей имеются лишь киоски с таккерским элем да верокиорские грили, — сооружение отлично защищено.",
+    "zh": "这座建筑为大量想要近距离观看独立日竞赛的米玛塔尔人和其他民众提供了座位和观景台。建筑的安保条件良好，以防有人意图干扰比赛，食物和饮料的供应也仅限于图克尔麦酒和维洛奇亚烤肉。"
+  },
+  "graphicID": 2521,
+  "groupID": 226,
   "name": {
     "de": "Fortified Minmatar Grandstand",
     "en": "Fortified Minmatar Grandstand",
@@ -10,5 +21,9 @@
     "ru": "Fortified Minmatar Grandstand",
     "zh": "强化的米玛塔尔哨站"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 300.0,
+  "sofFactionName": "genericroadhouse"
 }

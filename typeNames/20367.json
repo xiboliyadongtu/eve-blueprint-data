@@ -1,5 +1,16 @@
 {
-  "typeID": 20367,
+  "description": {
+    "de": "Dieser Signaturverzerrer wurde modifiziert, um den Frachtraum eines Schiffes zu maskieren. So wird die Entdeckung von Schmuggelware erschwert.",
+    "en": "This singnature scrambler has been modified to mask the cargo hold of the ship making it harder to detect contraband.",
+    "es": "Este distorsionador de señales se ha modificado para ocultar la bodega de la nave con el objetivo de dificultar la detección del contrabando.",
+    "fr": "Ce brouilleur de signature a été modifié dans le but de masquer la soute de chargement du vaisseau et de dissimuler ainsi la marchandise de contrebande.",
+    "ja": "改造されたシグネチャスクランブラーで、カーゴホールドの内部を探知信号から覆い隠す。密輸品を探知されにくくなる。",
+    "ko": "탐지 방해 장치로 화물실에 보관된 밀수품을 은폐하기 위한 용도로 사용됩니다.",
+    "ru": "Этот скрэмблер сигнатуры, модифицированный для маскировки грузового трюма корабля, затрудняет обнаружение контрабанды.",
+    "zh": "这个信号扰乱器经过改进后，可对舰船的货柜舱进行掩饰，使违禁品难以被侦测出来。"
+  },
+  "groupID": 341,
+  "iconID": 2971,
   "name": {
     "de": "Smugglers Mask I",
     "en": "Smugglers Mask I",
@@ -10,5 +21,8 @@
     "ru": "Smugglers Mask I",
     "zh": "走私船的伪装系统 I"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 500.0,
   "volume": 10.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 33478,
+  "capacity": 5000.0,
+  "description": {
+    "de": "Die Absaugeinheit verwendet fortschrittliche Morphtechnologien, um sich als Teil der POS zu tarnen. Auf diese Weise kann sie das Fließband der POS anzapfen, ohne von den Verteidigungsanlagen bemerkt zu werden.",
+    "en": "The Siphon Unit uses an advanced morphing technology to mask itself as being part of the POS. This allows it to infiltrate the production line of the POS and escape the attention of its defenses.",
+    "es": "La unidad sifónica utiliza una tecnología de mutación avanzada para camuflarse como parte de la estructura de jugadores. Así se infiltra en la cadena de producción sin captar la atención de las defensas.",
+    "fr": "Le siphon utilise une technologie avancée de camouflage pour se fondre dans la structure appartenant au joueur. Cela lui permet ainsi d'infiltrer la ligne de production de la structure et d'échapper à ses défenses.",
+    "ja": "サイフォンユニットは高度な偽装テクノロジーを使って自分を標的POSの一施設に見せかける。そうしてPOSのセキュリティシステムに気づかれることなく生産ラインに割り込むのである。",
+    "ko": "<br><br>해당 사이펀 장치는 첨단 모핑 기술이 적용되어 POS의 일부로 보이도록 위장이 가능하기 때문에 이목을 끌지 않고 POS의 생산라인에 침투한 뒤 빠져나갈 수 있습니다.",
+    "ru": "После сброса за борт корабля отводной блок применяет усовершенствованную имитационную технологию, мгновенно «встраиваясь» в систему блоков ПОСа. Благодаря этому системы автоматической защиты орбитальной станции игнорируют присутствие отводного блока и не препятствуют его врезке в производственную цепочку.",
+    "zh": "这个虹吸装置使用了一种先进的变形技术，将自己伪装成玩家建筑的一部分。这样它就可以渗透进入建筑的生产线而不被防御系统察觉了。"
+  },
+  "graphicID": 20397,
+  "groupID": 1247,
+  "mass": 10000.0,
   "name": {
     "de": "Medium Mobile Siphon Unit",
     "en": "Medium Mobile Siphon Unit",
@@ -10,5 +23,9 @@
     "ru": "Medium Mobile Siphon Unit",
     "zh": "中型移动式虹吸装置"
   },
+  "portionSize": 1,
+  "published": false,
+  "sofFactionName": "genericbase",
+  "soundID": 20131,
   "volume": 100.0
 }

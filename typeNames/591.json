@@ -1,5 +1,69 @@
 {
-  "typeID": 591,
+  "basePrice": 400000.0,
+  "capacity": 130.0,
+  "description": {
+    "de": "Die Tormentor ist bereits seit vielen Jahrzehnten im Einsatz. Die meiste Zeit diente sie als Bergbauschiff, da sie aufgrund ihrer Größe auf dem Schlachtfeld wenig ausrichten konnte. Wie die meisten Schiffe der Amarr war es allerdings aufgrund seiner starken Verteidigung schon immer ein harter Gegner. Durch die neuesten Fortschritte beim Energiespeicherverbrauch und der Schadenswirkung von Geschütztürmen haben seine Laser nun aufgehört sich in totes Erz zu graben und konzentrieren sich stattdessen auf das Bohren von Löchern durch die Schiffsrümpfe glückloser Schiffe im Kampf.",
+    "en": "The Tormentor has been in service for many decades. For most of that time it saw service as a mining ship, its size barring it from making any kind of impact on the battlefield. As with most Amarr ships, however, its strong defenses always made it a tough opponent to crack, and with recent advances in turret capacitor use and damage output, its lasers have now stopped digging into dead ore and are instead focused on boring through the hulls of hapless vessels in combat.",
+    "es": "La Tormentor lleva en servicio muchas décadas. Casi siempre ha funcionado como nave minera porque, dado su tamaño, su impacto en el campo de batalla era escaso. Sin embargo, como ocurre con la mayoría de las naves amarrianas, sus fuertes defensas siempre la han convertido en un oponente duro de pelar y, gracias a los recientes avances en el uso de condensadores de las torretas y la capacidad para infligir daño, ahora los láseres han dejado de perforar menas muertas para centrarse en los cascos de naves desafortunadas en combate.",
+    "fr": "Le Tormentor est en service depuis de nombreuses décennies. Pendant la plus grande partie de cette période, il a servi de vaisseau d'extraction minière, sa taille l'empêchant d'avoir un impact quelconque sur le champ de bataille. Mais comme pour la plupart des vaisseaux amarr, ses solides défenses en ont toujours fait un adversaire difficile à vaincre, et grâce aux récentes améliorations en termes de consommation énergétique des tourelles et de puissance de feu, ses lasers ont cessé de faire des trous dans les astéroïdes pour percer la coque des vaisseaux malchanceux au combat.",
+    "ja": "トーメンターは何十年にもわたり活動を続けてきた。もっぱら採掘艦として利用されてきたし、サイズ的にも戦場で目立つような艦船ではない。しかしアマー艦の例にもれず高い防御性能のおかげで、戦闘でもなかなかのしぶとさを発揮してきた。最近の仕様変更でタレットのキャパシタ消費やダメージ出力面が改善されたこともあり、レーザーの標的は物言わぬ鉱石から敵艦の船体に変わった。",
+    "ko": "수십년의 역사를 지닌 유서 깊은 함선으로 소형 함급이라는 한계 탓에 전투용 함선이 아닌 채굴선으로 주로 운용되었습니다. 아마르 함선답게 방어가 뛰어난 함선으로 최근 터렛 성능이 개선되면서 소행성 대신 적 함선을 대상으로 레이저를 발사하기 시작했습니다.",
+    "ru": "Фрегаты типа «Торментор» в строю уже многие десятилетия. До последнего времени они использовались лишь в качестве буровых кораблей: их размер считался совершенно недостаточным для применения на поле боя. Вместе с тем, как и большинство кораблей Амаррской Империи, они всегда были крепким орешком благодаря эффективным защитным системам. Недавние усовершенствования, приведшие к снижению потребления энергии накопителя лазерными орудиями «торменторов», а также к увеличению наносимого ими ущерба, привели к тому, что отныне лазеры «торменторов» прожигают не безжизненную руду, а броню неудачливых врагов.",
+    "zh": "巨神兵级已经服役了几十年，主要是作为采矿船。其体型尚够不上战斗护卫舰的标准，但和大多数艾玛舰船一样，它的强大防御使它成为难以击溃的对手。再加上它近来在电容消耗和火力输出方面的进步，它的激光器已不再徜徉于不会说话的矿石之间，而是闪烁在战场之上，在那些倒霉的飞船船体上钻下一个个孔洞。"
+  },
+  "factionID": 500003,
+  "graphicID": 56,
+  "groupID": 25,
+  "marketGroupID": 72,
+  "mass": 1080000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      50,
+      117,
+      150,
+      89,
+      93,
+      94
+    ]
+  },
   "name": {
     "de": "Tormentor",
     "en": "Tormentor",
@@ -9,6 +73,48 @@
     "ko": "토멘터",
     "ru": "Tormentor",
     "zh": "巨神兵级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 26.0,
+  "sofFactionName": "amarrbase",
+  "soundID": 20063,
+  "traits": {
+    "types": {
+      "3331": [
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Reduktion der Aktivierungskosten von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a>",
+            "en": "reduction in <a href=showinfo:3303>Small Energy Turret</a> activation cost",
+            "es": "de reducción del coste de activación de la <a href=showinfo:3303>torreta de energía pequeña</a>.",
+            "fr": "de réduction du coût d'activation des <a href=showinfo:3303>petites tourelles à énergie</a>",
+            "ja": "<a href=showinfo:3303>小型エネルギータレット</a>の起動コストが軽減",
+            "ko": "<a href=showinfo:3303>소형 에너지 터렛</a> 활성화 비용 감소",
+            "ru": "сокращается расход энергии при ведении огня из <a href=showinfo:3303>малых лазерных орудий</a>",
+            "zh": "<a href=\"showinfo:3303\">小型能量炮台</a>启动消耗减少"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3303>Small Energy Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3303>torreta de energía pequeña</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:3303>petites tourelles à énergie</a>",
+            "ja": "<a href=showinfo:3303>小型エネルギータレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3303>소형 에너지 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон <a href=showinfo:3303>малых лазерных орудий</a>",
+            "zh": "<a href=\"showinfo:3303\">小型能量炮台</a>伤害加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 24398.0
 }

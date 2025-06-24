@@ -1,5 +1,17 @@
 {
-  "typeID": 22152,
+  "description": {
+    "de": "Erzeugt gefälschte ID-Karten für diejenigen, die eine Entdeckung durch CONCORD vermeiden wollen.",
+    "en": "Generates fake ID's for those who wish to avoid detection by CONCORD.",
+    "es": "Genera identificaciones falsas para quienes no deseen ser detectados por CONCORD.",
+    "fr": "Génère une fausse carte d'identité pour toute personne souhaitant échapper à CONCORD.",
+    "ja": "CONCORDの目をかいくぐる偽造IDを作成する装置。",
+    "ko": "CONCORD의 단속을 피하기 위한 위조 신분증을 제작합니다.",
+    "ru": "Генерирует поддельный идентификатор для тех, кто хочет остаться незамеченным для CONCORD.",
+    "zh": "为那些想要逃避统合部身份检查的人士生成假ID。"
+  },
+  "groupID": 526,
+  "iconID": 1362,
+  "mass": 2500.0,
   "name": {
     "de": "ID Card Generator",
     "en": "ID Card Generator",
@@ -10,5 +22,7 @@
     "ru": "ID Card Generator",
     "zh": "ID卡生成器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 2.0
 }

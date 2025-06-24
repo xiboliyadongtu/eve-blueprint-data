@@ -1,5 +1,16 @@
 {
-  "typeID": 29574,
+  "description": {
+    "de": "Ein Zaun.",
+    "en": "A fence.",
+    "es": "Una valla.",
+    "fr": "Clôture.",
+    "ja": "フェンス。",
+    "ko": "울타리입니다.",
+    "ru": "Ограда.",
+    "zh": "防护栏"
+  },
+  "graphicID": 2455,
+  "groupID": 226,
   "name": {
     "de": "Fortified Caldari Fence",
     "en": "Fortified Caldari Fence",
@@ -10,5 +21,9 @@
     "ru": "Fortified Caldari Fence",
     "zh": "强化的加达里防护栏"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 320.0,
+  "sofFactionName": "caldaribase"
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 16024,
+  "capacity": 235.0,
+  "description": {
+    "de": "Ein Staffelführer befehligt einen kleinen Schiffsverband im Gefecht. Man findet sie nur sehr selten ohne einige Begleitschiffe. Bedrohungsstufe: Tödlich",
+    "en": "A Squad Leader controls a small unit of ships during battle.  Seldom are they found without a few escorts with them. Threat level: Deadly",
+    "es": "Los líderes de escuadrón controlan una pequeña unidad de naves durante la batalla. Rara vez aparecerán sin escolta. Nivel de amenaza: letal.",
+    "fr": "Un chef d'escadron commande un petit groupe de vaisseaux pendant le combat. On les rencontre rarement sans escorte. Niveau de menace : létal",
+    "ja": "スクアッドリーダーは、戦闘時に小型船団を指揮する。ほとんどの場合、数隻の護衛艦を従えている。危険度：致命的",
+    "ko": "전장에서 편대장은 소규모 부대를 직접 지휘합니다. 편대장이 호위대 없이 이동하는 상황은 극히 드물다고 볼 수 있습니다. 위험도: 치명적",
+    "ru": "Командующие эскадрильей управляют небольшими флотами. Они редко путешествуют без сопровождения. Уровень угрозы: смертельный",
+    "zh": "小队长在战斗中指挥一小支飞船编队。  通常其周围都会有一些护航舰船。威胁等级：极度危险的"
+  },
+  "graphicID": 20616,
+  "groupID": 699,
+  "mass": 1650000.0,
   "name": {
     "de": "Mordus Squad Leader",
     "en": "Mordus Squad Leader",
@@ -10,5 +23,10 @@
     "ru": "Mordus Squad Leader",
     "zh": "莫德团 小队长"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 44.0,
+  "sofFactionName": "mordubase",
   "volume": 16500.0
 }

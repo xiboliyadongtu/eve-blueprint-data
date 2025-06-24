@@ -1,5 +1,18 @@
 {
-  "typeID": 48743,
+  "capacity": 600.0,
+  "description": {
+    "de": "Der Overmind des Raubschwarms wurde anscheinend deaktiviert oder unterminiert, vielleicht mittels spezieller Gegenmaßnahmen oder Abwehrsoftware. Vielleicht kann diese Raubdrohne gehackt werden, um somit ihre internen Frachträume zu entriegeln. Dies birgt das Risiko, dass ein Alarmsignal an andere Overminds des Schwarms gesendet wird oder der Mechanismus deaktiviert wird, der dieses Drohnenschiff lahmgelegt hat.",
+    "en": "This Rogue Swarm Overmind appears to have been disabled or subverted, perhaps by means of some variety of intrusion countermeasures software. It might be possible to hack into this disabled rogue drone and release the locks on its internal holds. This does entail a risk of triggering an alert signal to other Swarm Overminds, or perhaps disrupting whatever has disabled this drone vessel.",
+    "es": "Este Overmind enjambrado rebelde parece haber sido desactivado o subvertido, quizás por medio de alguna variedad de software de contramedidas de intrusión. Podría ser posible hackear este dron rebelde inutilizado y abrir las bodegas internas, lo cual implica el riesgo de activar una señal de alerta para otros Overminds enjambrados, o tal vez interrumpir lo que sea que lo haya desactivado.",
+    "fr": "Ce suresprit d'essaim renégat semble être désactivé ou saboté. Cette opération a dû être réalisée à l'aide d'un logiciel de contre-mesure contre les intrusions. Il doit bien être possible de pirater le drone renégat et déverrouiller les verrous de son contenu interne. Cela comporte un risque : il se peut qu'une alerte soit envoyée aux autres suresprits d'essaim, ou qu'il y ait une interférence avec ce qui a désactivé ce vaisseau drone.",
+    "ja": "このローグスウォーム・オーバーマインドは無効化されているか、妨害されているように見える。恐らく何らかの侵入対策ソフトウェアによって。この無効化されたローグ・ドローンに侵入し、内部のロックを解除することが可能かもしれない。その場合、他のスウォーム・オーバーマインドへの警告信号を発動させたり、このドローン船を無効にしたものを混乱させたりする危険性がある。",
+    "ko": "침입 대응 소프트웨어로 인해 로그 드론 오버마인드가 비활성화 또는 무력화된 것으로 추측됩니다. 비활성화된 오버마인드를 해킹할 경우 내부 저장고의 잠금장치를 해제할 수 있습니다. 하지만 이러한 시도로 인해 오버마인드에게 경고 신호가 전송되거나, 로그 드론이 재차 활성화될 가능성이 있습니다.",
+    "ru": "Этот сверхразум роя был отключён или каким-то иным способом выведен из строя, возможно, при помощи программного обеспечения для предотвращения вторжений. Вероятно, этот отключённый дрон можно взломать и вскрыть замки, защищающие его внутренние системы. Однако помните, что может сработать аварийная сигнализация, которая привлечёт остальные сверхразумы роя, а также можно случайно реактивировать беспилотное судно, восстановив все его боевые функции.",
+    "zh": "这个自由蜂巢主宰似乎已丧失能力或已被破坏，可能是由某种侵入的反制软件导致的。可以尝试入侵这个失效的自由无人机并且解锁其内部的舱室。这并不会有引发向其他蜂巢主宰发出警告信号的风险，可能也不会打扰到使这个无人机舰船失效的......无论什么东西。"
+  },
+  "graphicID": 1718,
+  "groupID": 306,
+  "mass": 105000000.0,
   "name": {
     "de": "Disabled Swarm Overmind",
     "en": "Disabled Swarm Overmind",
@@ -10,5 +23,9 @@
     "ru": "Disabled Swarm Overmind",
     "zh": "失去功能的蜂巢主宰"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 250.0,
+  "sofFactionName": "gallenteinfested",
   "volume": 1010000.0
 }

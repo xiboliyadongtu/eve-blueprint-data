@@ -1,5 +1,18 @@
 {
-  "typeID": 77553,
+  "capacity": 235.0,
+  "description": {
+    "de": "Ein Talos-Schlachtkreuzer in Flottenkommandoposition mit dem Auftrag, sicherzustellen, dass die Verbreitung der Wahrheit aus Sicht der Gallente durch nichts aufgehalten wird. Ein erster Scan lässt darauf schließen, dass es keinen Versuch gegeben hat, die Identifikation des Schiffes zu verschlüsseln, was darauf hindeutet, dass das legendäre Aufklärungsnetzwerk der FIO ihnen gestattet hat, dieses Schiff ohne Modifizierung auf Staatsterritorium zu transportieren.",
+    "en": "A Talos Battlecruiser in fleet command position on a mission to ensure that nothing stops the broadcasting of the truth as the Gallente see it.\r\n\r\nA preliminary scan indicates that no attempt has been made to encrypt the ship’s identification, implying that FIOs legendary intelligence network allowed them to transport this ship into State territory unmodified.",
+    "es": "Un crucero de combate Talos en posición de mando de la flota en una misión para garantizar que nada impida la difusión de la verdad tal y como la ven los gallentes.    Un escaneo preliminar indica que no se ha intentado cifrar la identificación de la nave, lo que implica que la legendaria red de inteligencia de la OIF les permitió transportar esta nave a territorio del Estado sin modificaciones.",
+    "fr": "Un croiseur cuirassé Talos en position de commandement de flotte, il est en mission pour s'assurer que rien n'arrête la diffusion de la vérité telle que les gallente la voient. Un balayage préliminaire indique qu'il n'y a eu aucune tentative de chiffrer l'identification du vaisseau, ce qui implique que le réseau de renseignements légendaire du BFR a autorisé son transport sur le territoire de l'État sans qu'il ne subisse de modifications.",
+    "ja": "万難を排してガレンテにとっての真実を放送するというミッションを遂行するフリートコマンドの役割を持つタロス級巡洋戦艦。    事前スキャンによるとこの艦船は一切素性を隠そうとしておらず、伝説的な情報ネットワークであるFIOが、艦を連合の領域にそのまま持ち込むことを許可していることが伺える。",
+    "ko": "함대를 지휘하는 탈로스 배틀크루저입니다. 갈란테가 믿는 진실을 전파하는 임무의 모든 책임을 맡고 있습니다.<br><br>사전 스캔을 실시한 결과 함선의 식별 정보가 전혀 암호화되지 않은 것으로 밝혀졌습니다. FIO가 지닌 고도의 정보망 덕에 식별 정보의 변동 없이 연합 영역에 진입할 수 있었던 것으로 추정됩니다.",
+    "ru": "На борту этого линейного крейсера Talos находится командир флота, который следит за тем, чтобы ничто не мешало нести в мир галлентские истины. Предварительное сканирование показало, что никто даже не пытался скрыть принадлежность этого корабля. Вероятно, Федеральной разведслужбе удалось доставить это судно в пространство Калдари в неизменённом виде благодаря своей легендарной разведывательной сети.",
+    "zh": "一艘塔洛斯级战列巡洋舰，在执行任务期间负责指挥舰队，以确保没有任何事物能够阻止盖伦特广播所目击到的真相。初步扫描显示，该舰船的身份未经加密，这表明FIO的传奇情报网络允许他们将这艘舰船原封不动地运输至合众国境内。"
+  },
+  "graphicID": 11777,
+  "groupID": 4573,
+  "mass": 15300000.0,
   "name": {
     "de": "Veritas Talos",
     "en": "Veritas Talos",
@@ -10,5 +23,11 @@
     "ru": "Veritas Talos",
     "zh": "真理塔洛斯级"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 173.0,
+  "sofFactionName": "gallentebase",
+  "soundID": 20074,
   "volume": 1100000.0
 }

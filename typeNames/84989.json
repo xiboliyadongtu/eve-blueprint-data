@@ -1,5 +1,19 @@
 {
-  "typeID": 84989,
+  "description": {
+    "de": "Zieht Energie aus dem Zielschiff und fügt sie Ihrem eigenen Energiespeicher hinzu. Hinweis: Ein Nosferatu-Modul leert den Energiespeicher des Zielschiffs nicht über den Stand Ihres eigenen Energiespeichers hinaus.",
+    "en": "Drains energy from the target ship and adds it to your own.\r\n\r\nNote: A Nosferatu module will not drain your target's capacitor below your own capacitor level.",
+    "es": "Drena la energía de la nave objetivo y la añade a la tuya.\r\n\r\nNota: El módulo Nosferatu no drenará el condensador del objetivo por debajo del nivel del tuyo propio.",
+    "fr": "Draine l'énergie du vaisseau cible pour alimenter le capaciteur de l'assaillant. Remarque : Un module Nosferatu ne drainera pas le capaciteur de votre cible en dessous du niveau de votre propre capaciteur.",
+    "ja": "ターゲット指定した艦船からキャパシタを吸収して自艦のものとする。\r\n\r\n注：ノスフェラトゥモジュールは、ターゲットのキャパシタ残量が自艦のキャパシタ残量を下回る場合、キャパシタ吸収を行わない。",
+    "ko": "대상 함선의 캐패시터 에너지를 흡수해 캐패시터를 충전합니다.<br><br>참고: 노스페라투 모듈은 대상 함선의 캐패시터가 자신의 함선보다 적으면 캐패시터를 흡수하지 않습니다.",
+    "ru": "Такое устройство откачивает энергию из выбранного корабля и передаёт её на ваш. Примечание: модуль паразитной подзарядки не может опустошить запас накопителя цели ниже уровня вашего собственного накопителя.",
+    "zh": "吸取对方舰船的能量为自己所用。注：所有能量吸噬装备都不会将目标的电容器电量值抽取到比你当前电量值更低的水平。"
+  },
+  "groupID": 68,
+  "iconID": 1029,
+  "marketGroupID": 692,
+  "mass": 1000.0,
+  "metaGroupID": 5,
   "name": {
     "de": "Makra's Modified Small Energy Nosferatu",
     "en": "Makra's Modified Small Energy Nosferatu",
@@ -10,5 +24,8 @@
     "ru": "Makra's Modified Small Energy Nosferatu",
     "zh": "马卡拉改良小型掠能器"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 530,
   "volume": 5.0
 }

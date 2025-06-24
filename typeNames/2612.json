@@ -1,5 +1,16 @@
 {
-  "typeID": 2612,
+  "description": {
+    "de": "Die Oberfläche dieses Asteroiden ist übersät mit gähnenden Löchern, die den Blick auf einen Hohlraum im Inneren freigeben. Das ist entweder das Werk von Bergleuten oder dem Flug durch Zeit und Raum geschuldeter Verschleiß.",
+    "en": "This massive asteroid's surface is covered in gaping holes, giving way to an internal chamber. The work of miners or the winds of space and time.",
+    "es": "Esta enorme superficie de asteroides está cubierta por grandes agujeros que dan a una cámara interna. Obra de los mineros o de los vientos del espacio y el tiempo.",
+    "fr": "La surface de cet immense astéroïde est parsemée de trous béants menant à des grottes. Il s'agit de l'œuvre de mineurs ou de l'action conjuguée des vents spatiaux et du temps.",
+    "ja": "巨大なアステロイド。表面を覆う無数の穴は、内部の空洞へと続いている。これらの穴は、鉱山労働者によって掘られたものもあれば、自然風化によってできたものもある。",
+    "ko": "이 거대한 소행성의 표면을 덮고 있는 크게 뚫려진 구멍들은 내부의 공간으로 이어집니다. 이 공간들은 광부들 또는 시공간적인 풍파에 의해 생긴 것입니다.",
+    "ru": "Поверхность массивного астероида изпещерена дырами, открывающими взору его внутреннюю часть. Результат работы шахтёров, космических ветров и времени.",
+    "zh": "这颗巨星小行星的表面布满了洞，直通内部空腔。这是矿工或时空变迁的杰作。"
+  },
+  "graphicID": 1146,
+  "groupID": 226,
   "name": {
     "de": "Hollow Asteroid",
     "en": "Hollow Asteroid",
@@ -10,5 +21,8 @@
     "ru": "Hollow Asteroid",
     "zh": "中空的小行星"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 4805.0,
+  "sofFactionName": "genericbase"
 }

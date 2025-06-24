@@ -1,5 +1,17 @@
 {
-  "typeID": 70932,
+  "description": {
+    "de": "Diese Datenfragmente wurden aus einem sicheren EDENCOM-Puffer extrahiert, in dem Daten gespeichert werden, bevor sie über Flüssigrouternetzwerke an externe Standorte übertragen werden. Die Daten sind unvollständig und teilweise beschädigt, aber mit dem <b>richtigen</b> Ansatz sollte es möglich sein, den Datenstrom zu dekodieren und ein kohärentes Bild aus den intakten Daten zusammenzusetzen. Es kann nicht schaden, es zu versuchen und zu schauen, ob es <b>Klick</b> macht.",
+    "en": "This fragmentary data has been extracted from an EDENCOM Secure Buffer used to hold data before being relayed to a remote location via fluid router networks. \r\n\r\nAlthough partial and somewhat corrupted, with the <b>right</b> approach it should be possible to decode the data stream and assemble something coherent from the intact data. It wouldn't hurt to give it a try and see if something <b>clicks</b>.",
+    "es": "Estos datos parciales se han extraído de un búfer seguro de EDENCOM usado para almacenar datos antes de que se transmitan a una ubicación remota mediante redes de router fluido.\n\nAunque está fragmentada y parcialmente corrupta, con el enfoque <b>adecuado</b> debería de ser posible descifrar la transmisión y sacar algo en claro de los datos intactos. No estaría de más intentarlo y ver si <b>funciona</b>.",
+    "fr": "Ce fragment de données a été extrait d'un tampon sécurisé d'EDENCOM utilisé pour contenir des données avant de les retransmettre à longue distance grâce aux réseaux de routeurs de fluide. Même s'il n'est que partiel et en partie corrompu, avec la <b>bonne</b> approche, il devrait être possible de décoder le flux de données pour produire un assemblage cohérent à partir des données intactes. Ça ne coûte rien d'essayer et de voir si cela donne <b>quelque chose d'intéressant</b>.",
+    "ja": "フルイドルーター・ネットワーク経由で遠隔地点へデータを伝送する際のデータの保存先として使われる、EDENCOM機密バッファから抽出された断片的データ。 \n\nデータの一部はやや破損しているが、<b>正しい</b>方法で対処すれば、残存データを解読してデータストリームを復号化して読み取り可能なデータとして再構築できるかもしれない。何か<b>役に立つ</b>ものが見つかるか試してみて損はないだろう。",
+    "ko": "유체 라우터 네트워크를 통해 먼 거리로 전송하기 전에 EDENCOM 보안 버퍼에 임시로 보관되어 있던 데이터를 추출한 것입니다.<br><br>일부 손상되어 불완전하지만, <b>적절한</b> 방법만 동원한다면 남은 정보를 해석하여 데이터 스트림에 접근할 수 있을지도 모릅니다. 손해 볼 건 없으니 해석을 시도해보는 것이 좋겠습니다.",
+    "ru": "Эти фрагменты данных были извлечены из защищённого буфера обмена ЭДЕНКОМа, в которые они поступают для передачи в отдалённые системы по квантовой сети. Несмотря на утраты и повреждения, после расшифровки вам удастся получить из них некоторую полезную информацию. Попробуйте использовать для этого <b>правую кнопку мыши</b>.",
+    "zh": "这些数据片断是从伊甸联合防御阵线安全缓冲器中提取出来的，安全缓冲器是在数据通过流体路由网络传输到远方之前临时存储数据的设备。 \n\n\n\n尽管数据不完整而且已部分损坏，但使用<b>合适</b>的方式可以解码数据流并拼凑出一些完整的数据。值得一试，也许会有什么<b>发现</b>呢。"
+  },
+  "groupID": 314,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "EDENCOM Secure Buffer Data",
     "en": "EDENCOM Secure Buffer Data",
@@ -10,5 +22,7 @@
     "ru": "EDENCOM Secure Buffer Data",
     "zh": "伊甸联合防御阵线安全缓冲区数据"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.1
 }

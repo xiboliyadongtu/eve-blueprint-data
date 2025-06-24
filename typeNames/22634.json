@@ -1,5 +1,20 @@
 {
-  "typeID": 22634,
+  "basePrice": 12500000.0,
+  "capacity": 1.0,
+  "description": {
+    "de": "Diese Struktur wurde automatisch von CONCORD deaktiviert, um Platz für neue Technologien zu schaffen.",
+    "en": "This structure has been automatically disabled by CONCORD to make way for newer replacement technology.",
+    "es": "CONCORD ha desactivado esta estructura de forma automática para abrir camino a la nueva tecnología de sustitución.",
+    "fr": "Cette structure a été automatiquement désactivée par CONCORD afin d'être remplacée par une technologie plus récente.",
+    "ja": "本ストラクチャは新たな代替技術への更新のため、CONCORDによって自動的に無力化されている。",
+    "ko": "CONCORD에 의해 비활성화된 구조물입니다.",
+    "ru": "Это сооружение было автоматически отключено КОНКОРДом для продвижения более совершенных технологий.",
+    "zh": "这个建筑已由统合部自动关闭，以应用新的替代技术。"
+  },
+  "graphicID": 2377,
+  "groupID": 438,
+  "marketGroupID": 490,
+  "mass": 100000000.0,
   "name": {
     "de": "Medium Biochemical Reactor Array",
     "en": "Medium Biochemical Reactor Array",
@@ -10,5 +25,9 @@
     "ru": "Medium Biochemical Reactor Array",
     "zh": "中型生化反应堆阵列"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 937.0,
+  "sofFactionName": "genericmetal",
   "volume": 4000.0
 }

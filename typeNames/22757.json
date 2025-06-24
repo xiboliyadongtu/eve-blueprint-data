@@ -1,5 +1,18 @@
 {
-  "typeID": 22757,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieses Ausrüstungsstück sendet Wellen eines eingebauten Rundumsenders aus. Es hat ein kleines Schildmodul und scheint scheinbar auch einen Überzug aus dünnen Panzerplatten.",
+    "en": "This piece of equipment emanates waves from its built-in broadcasting beacon. It is fitted with a small shield module and appears to be coated with a thin layer of armored plates.",
+    "es": "Este equipo emite ondas desde su baliza de transmisión integrada. Dispone de un pequeño módulo de escudo y parece estar cubierto por una fina capa de placas de blindaje.",
+    "fr": "Cet équipement diffuse des ondes à l'aide de sa balise de transmission intégrée. Il est équipé d'un petit module de bouclier et semble posséder une fine couche de revêtement de blindage.",
+    "ja": "内蔵された放送ビーコンから電波を放出する小型装置。小型シールドモジュールが装備してあり、また薄手のアーマープレートで補強してあるように見える。",
+    "ko": "기본 탑재된 송수신 비컨으로부터 파동을 발생시키는 장비입니다. 소형 실드 모듈이 장착돼있고 겉면 전체가 장갑 플레이트로 덮여 있습니다.",
+    "ru": "Этот маяк подает сигналы при помощи встроенного в него оборудования. Он снабжен слабым силовым щитом и, судя по всему, покрыт тонким слоем брони.",
+    "zh": "这种装置通过内置的广播信标发射波。它配备有小型护盾装备，似乎还装备了轻薄型装甲附甲。"
+  },
+  "graphicID": 1217,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Scanner Post",
     "en": "Scanner Post",
@@ -10,5 +23,10 @@
     "ru": "Scanner Post",
     "zh": "扫描站"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 70.0,
+  "sofFactionName": "genericbase",
+  "soundID": 31,
   "volume": 100000000.0
 }

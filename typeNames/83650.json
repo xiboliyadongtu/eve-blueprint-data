@@ -1,5 +1,18 @@
 {
-  "typeID": 83650,
+  "capacity": 135.0,
+  "description": {
+    "de": "Eine Drohne, die als Teil des automatisierten Postverteilungsdienstes der Föderation der Gallente fungiert.",
+    "en": "A drone operating as a part of the Gallente Federation's automated postal distribution sorting service.",
+    "es": "Dron que opera como parte del servicio automatizado de clasificación de distribución postal de la Federación Gallente.",
+    "fr": "Un drone opérant au sein du service de tri automatisé de distribution postale de la Fédération gallente.",
+    "ja": "ガレンテ連邦の郵送物自動仕分けサービスで運用されているドローン。",
+    "ko": "갈란테 연방의 자동화 우편 분류 및 배송 업무에 사용되는 드론입니다.",
+    "ru": "Дрон, осуществляющий сортировку отправлений в автоматизированной почтовой службе Галлентской Федерации.",
+    "zh": "这架无人机是盖伦特联邦自动化邮政配送分拣服务的重要一员。"
+  },
+  "graphicID": 27493,
+  "groupID": 4771,
+  "mass": 1190000.0,
   "name": {
     "de": "Federal Depositor",
     "en": "Federal Depositor",
@@ -10,5 +23,11 @@
     "ru": "Federal Depositor",
     "zh": "联邦存款人"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 34.0,
+  "sofFactionName": "gallentebase",
+  "soundID": 11,
   "volume": 28100.0
 }

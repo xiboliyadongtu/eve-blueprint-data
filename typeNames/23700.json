@@ -1,5 +1,17 @@
 {
-  "typeID": 23700,
+  "description": {
+    "de": "Aders Nachricht ist in diesem Datenchip aufgezeichnet.",
+    "en": "Ader's message has been recorded inside this data chip.",
+    "es": "El mensaje de Ader se ha registrado dentro de este chip de datos.",
+    "fr": "Cette puce de données contient l'enregistrement du message d'Ader.",
+    "ja": "アデラーのメッセージが録音されたデータチップ。",
+    "ko": "아더르의 메시지가 기록된 데이터 칩입니다.",
+    "ru": "В этих данных хранится запись сообщения Ader.",
+    "zh": "阿得的信息已经刻录在此数据芯片内。"
+  },
+  "groupID": 526,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Ader's Message",
     "en": "Ader's Message",
@@ -10,5 +22,7 @@
     "ru": "Ader's Message",
     "zh": "阿得的留言"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

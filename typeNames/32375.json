@@ -1,5 +1,17 @@
 {
-  "typeID": 32375,
+  "description": {
+    "de": "Dieser elektronische Zugangsschlüssel wird im Rahmen eines Trainingsprogramms für Kapselpiloten von Schulungsagenten zur Verfügung gestellt. Er wird verwendet, um ein Beschleunigungstor innerhalb des Gas-Trainingsgebiets zu entriegeln, das Container mit \"Entdeckungsurkunden\" enthält. Diese dienen als Beweis dafür, dass der Kapselpilot in der Lage war, ein bestimmtes Gebiet zu entdecken. Der elektronische Zugangsschlüssel kann nur die in <b>Gas</b>-Gebieten existierenden Beschleunigungstore entriegeln.",
+    "en": "This electronic passkey is provided by tutorial agents as part of a capsuleer training programming. It is used to unlock an acceleration gate inside the Gas site training area, where the “Proof of Discovery” documents can be found stored inside containers. The “Proof of Discovery” documents serve as physical evidence that the capsuleer was able to discover a particular type of site. \r\n\r\nThis passkey is used to unlock Acceleration gates found inside <b>Gas</b> sites only.",
+    "es": "Los agentes del tutorial proporcionan esta llave electrónica como parte del programa de entrenamiento de capsulistas. Desbloquea un portal de aceleración dentro de la zona de gas de entrenamiento, donde se encuentra la «prueba de descubrimiento» almacenada en contenedores. Estos documentos sirven como evidencia física de que el capsulista ha sido capaz de encontrar un tipo de zona en particular.\n\nEsta llave se utiliza para desbloquear los portales de aceleración que se encuentran dentro de las zonas de <b>gas</b>.",
+    "fr": "Cette carte d'accès électronique fournie par des agents de formation fait partie du programme de formation de capsulier. Elle permet d'ouvrir un portail d'accélération à l'intérieur de la zone de formation du site de collecte de gaz, où les documents composant le « Certificat de découverte » sont stockés dans des conteneurs. Ces documents sont la preuve physique que le capsulier a bien été capable de découvrir ce type de site spécifique. \n\nCette carte d'accès permet d'ouvrir les portails d'accélération découverts à l'intérieur des sites de collecte de <b>gaz</b> uniquement.",
+    "ja": "この電子パスキーはカプセラトレーニングプログラムで使用するためにチュートリアルエージェントから受け取ったものだ。ガスサイトトレーニングエリア内のアクセラレーションゲートのロックを解除するために使う。その先にあるコンテナに『発見の証拠』という書類が入っている。『発見の証拠』はそのカプセラが指定された種類のサイトを見つけてきたという証拠になる。<b>ガス</b>サイト内のアクセラレーションゲートのロックを解除する専用パスキー。",
+    "ko": "캡슐리어 훈련 프로그램의 과정에서 튜토리얼 에이전트에게 받은 전자 출입키입니다. 가스 사이트 훈련 사이트 내부의 액셀레이션 게이트를 잠금 해제하는데 사용됩니다. 액셀레이션 게이트를 타고 들어가면 \"탐사 증명서\"가 들어있는 컨테이너를 발견할 수 있습니다. \"탐사 증명서\"는 캡슐리어가 특정 사이트를 발견했다는 증거물입니다. <br><br><b>가스</b>사이트 내부의 액셀레이션 게이트에만 사용 가능한 출입키입니다.",
+    "ru": "Это электронная отмычка, которую вам вручил агент учебной миссии  как часть учебной программы. Он нужен, чтобы отпереть врата ускорения внутри учебного газового участка и забрать документ Proof of Discovery, находящийся в контейнере. Proof of Discovery служит вещественным доказательством того, что капсулер-курсант успешно нашел этот тип участка. \n\n\n\nЭтот ключ нужен, чтобы отпереть врата ускорения внутри учебного <b>газового</b> участка. Ни на что другое он не годится.",
+    "zh": "这个电子通行证是由教程代理人提供用于克隆飞行员训练课程所使用的。它可以用于开启气云地点训练场中的加速轨道，以此来找到存放“目标证据”的货柜。目标证据是用来证明飞行员已经找到特定类型的训练目标的实物证据。这个通行证只能用于开启<b>气云地点</b>训练场里的加速轨道。"
+  },
+  "groupID": 314,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Gas Passkey",
     "en": "Gas Passkey",
@@ -10,5 +22,7 @@
     "ru": "Gas Passkey",
     "zh": "气云通行密钥"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

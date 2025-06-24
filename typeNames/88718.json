@@ -1,5 +1,20 @@
 {
-  "typeID": 88718,
+  "capacity": 1.28,
+  "description": {
+    "de": "Dieses Modul verwendet Nano-Reparaturbots, um Schäden an der Panzerung des Schiffes zu beheben. Optional kann das Modul Nanobot-Reparaturpaste verwenden, um die Effektivität von Reparaturen zu erhöhen. Wenn Sie das Modul deaktivieren, während keine Nanobot-Reparaturpaste geladen ist, wird Nanobot-Reparaturpaste aus dem Laderaum nachgeladen, sofern welche vorhanden ist. Hinweis: Kann Nanobot-Reparaturpaste als Treibstoff verwenden. Die Nachladezeit beträgt 60 Sekunden. Kann nur in Schiffe der Capital-Klasse eingebaut werden.",
+    "en": "This module uses nano-assemblers to repair damage done to the armor of the ship. The module can optionally use Nanite Repair Paste to increase repair effectiveness. Deactivating the module while it has no Nanite Repair Paste loaded starts reloading, if there is Nanite Repair Paste available in cargo hold. \r\n\r\nNote: Can use Nanite Repair Paste as fuel. Reloading time is 60 seconds. May only be fitted to capital class ships.",
+    "es": "Este módulo utiliza nanoensambladores para reparar el daño infligido al blindaje de la nave. El módulo puede usar el fluido reparador de nanobots para aumentar la efectividad de reparación. Al desactivar el módulo cuando no tiene fluido reparador de nanobots cargado, este se recarga si hay fluido disponible en la bodega. \r\n\r\nAviso: Puede usar fluido reparador de nanobots como combustible. El tiempo de recarga es de 60 segundos. Solo se puede equipar en naves capitales.",
+    "fr": "Module utilisant des nano-assembleurs pour réparer les dégâts infligés au blindage du vaisseau. Le module peut également utiliser des nanites de réparation pour améliorer l'efficacité des réparations. Si les nanites de réparation ne sont pas chargées, la désactivation du module nécessitera un rechargement, si des nanites de réparation sont bien disponibles dans la soute. Remarque : Peut utiliser des nanites de réparation en guise de carburant. Le temps de recharge est de 60 secondes. Ne convient qu'aux vaisseaux de classe capitale.",
+    "ja": "このモジュールはナノアセンブラーを使って艦船の装甲の損傷を修復する。オプションとして、ナノマシンリペアペイストを使うとリペア効率を高めることができる。ナノマシンリペアペイストが装填されていない状態で非アクティブにすると、カーゴホールドに使えるナノマシンリペアペイストがあれば、自動的にリロードを開始する。 \r\n\r\n注：燃料としてナノマシンリペアペイストを使用できる。リロード時間は60秒。主力艦級艦船にのみ搭載可能。",
+    "ko": "나노 어셈블러를 사용하여 함선의 손상된 장갑을 수리하는 모듈입니다. 나나이트 용액을 주입하여 수리 효율성을 향상할 수 있습니다. 나나이트 용액이 주입되지 않은 상태에서 모듈을 비활성화하게 될 경우 화물실에 적재되어 있는 용액이 자동으로 주입됩니다.\r\n\r\n참고: 나나이트 용액을 주입할 수 있습니다. 재장전 시간은 60초입니다. 캐피탈급 함선에만 장착이 가능합니다.",
+    "ru": "Этот модуль использует наносборщики для устранения урона, нанесённого броне корабля. Он также может дополнительно использовать ремонтную нанопасту для повышения своей эффективности. Деактивация модуля в тот момент, когда в нём нет ремонтной нанопасты, запустит перезарядку, но только в том случае, если в грузовом отсеке есть ремонтная нанопаста. Примечание: может использовать ремонтную нанопасту в качестве топлива. Время перезарядки — 60 секунд. Можно установить только на корабли большого тоннажа.",
+    "zh": "该装备使用纳米级装配器来修复对舰船装甲造成的损伤。该装备可以选用纳米体修复粘合剂来增强其效果。如果货柜舱里有纳米体修复粘合剂，那么该装备停转之后，它将自动装填那些粘合剂。注：可将纳米体修复粘合剂用作燃料。重新装填时间为60秒。只能用于旗舰级舰船。"
+  },
+  "groupID": 1199,
+  "iconID": 80,
+  "marketGroupID": 1052,
+  "mass": 500.0,
+  "metaGroupID": 3,
   "name": {
     "de": "Xarasier Capital Ancillary Armor Repairer",
     "en": "Xarasier Capital Ancillary Armor Repairer",
@@ -10,5 +25,8 @@
     "ru": "Xarasier Capital Ancillary Armor Repairer",
     "zh": "扎拉希旗舰级辅助装甲维修器"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 41503,
   "volume": 4000.0
 }

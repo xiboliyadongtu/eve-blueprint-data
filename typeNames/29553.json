@@ -1,5 +1,16 @@
 {
-  "typeID": 29553,
+  "description": {
+    "de": "Eine Batterie.",
+    "en": "A battery.",
+    "es": "Una batería.",
+    "fr": "Batterie.",
+    "ja": "バッテリー。",
+    "ko": "포탑입니다.",
+    "ru": "Батарея.",
+    "zh": "炮台"
+  },
+  "graphicID": 2435,
+  "groupID": 226,
   "name": {
     "de": "Fortified Angel Battery",
     "en": "Fortified Angel Battery",
@@ -10,5 +21,9 @@
     "ru": "Fortified Angel Battery",
     "zh": "强化的天使集团炮塔"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 244.0,
+  "sofFactionName": "angelbase"
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 29171,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese Struktur bildet einen Teil des ersten Kommandonetzwerkes in diesem System, über welches die gesamten militärischen Operationen der Republik Minmatar koordiniert werden.",
+    "en": "This structure forms part of the primary command net for this system, co-ordinating all Minmatar Republic military operations.",
+    "es": "Esta estructura forma parte de la red de mando principal de este sistema, que coordina todas las operaciones militares de la República Minmatar.",
+    "fr": "Cette structure fait partie du principal réseau de commandement de ce système, et coordonne toutes les opérations militaires de la République minmatar.",
+    "ja": "このシステムの主要なコマンドネットワークの一部を担う建造物。全ミンマター共和国の軍事作戦を調整する。",
+    "ko": "근처 항성계의 모든 민마타 공화국 군사 작전을 지휘하는 지휘소입니다.",
+    "ru": "Это сооружение является частью основной сети управления в этой системе и предназначено для координации всех военных операций Республики Minmatar.",
+    "zh": "这个设施组成了这个星系主要指挥系统的一部分，负责指挥及协调所有米玛塔尔的军事行动。"
+  },
+  "graphicID": 2600,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Minmatar Tactical Command Post",
     "en": "Minmatar Tactical Command Post",
@@ -10,5 +23,10 @@
     "ru": "Minmatar Tactical Command Post",
     "zh": "米玛塔尔战术指挥站"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 3346.0,
+  "sofFactionName": "minmatarbase",
   "volume": 100000000.0
 }

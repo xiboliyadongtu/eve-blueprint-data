@@ -1,5 +1,17 @@
 {
-  "typeID": 34570,
+  "description": {
+    "de": "Bonus von 33,3 % auf die Nachführgeschwindigkeit kleiner Projektilgeschütztürme\n\nBonus von 33,3 % auf den Schaden kleiner Projektilgeschütztürme\n\nBonus von 100 % auf Sensorstärke und Zielerfassungsreichweite\n\nBonus von 66,6 % auf Widerstände gegenüber Sensordämpfern und Waffenstörern",
+    "en": "33.3% bonus to Small Projectile Turret tracking speed\r\n33.3% bonus to Small Projectile Turret damage\r\n100% bonus to sensor strength and targeting range\r\n66.6% bonus to Sensor Dampener and Weapon Disruptor resistances",
+    "es": "33,3 % de bonificación a la velocidad de rastreo de la torreta de proyectiles pequeña.\n\n33.3 % de bonificación al daño de la torreta de proyectiles pequeña.\n\n100 % de bonificación a la intensidad del sensor y la distancia-objetivo.\n\n66.6 % de bonificación a las resistencias de los atenuadores de sensor y los disruptores de armas.",
+    "fr": "Augmente de 33,3 % la vitesse de poursuite des petites tourelles à projectiles.\n\nAugmente de 33,3 % les dégâts des petites tourelles à projectiles.\n\nAugmente de 100 % la puissance de détection et la portée de ciblage.\n\nAugmente de 66,6 % la résistance contre les atténuateurs de détection et les perturbateurs d'armement.",
+    "ja": "小型プロジェクタイルタレットのトラッキング速度が33.3%増加\n小型プロジェクタイルタレットのダメージが33.3%増加\nセンサー強度とターゲット範囲が100%増加\nセンサーダンプナーと兵器妨害器への耐性が66.6%増加",
+    "ko": "<br>소형 발사체 터렛 트래킹 속도 33.3% 증가 소형 발사체 터렛 피해량 33.3% 증가<br>센서 강도 및 타겟팅 거리 100% 증가<br>센서 댐프너 및 무기 디스럽터 저항력 66.6% 증가",
+    "ru": "на 33,3% повышается скорость наводки на цель малых баллистических орудий\n\nна 33,3% увеличивается урон малых баллистических орудий\n\nна 100% увеличивается дальность захвата целей, а также эффективность штатных сенсорных систем\n\nна 66,6% повышается сопротивляемость действию вражеских модулей подавления захвата целей и постановщиков помех системам наводки",
+    "zh": "小型射弹炮台跟踪速度提高33.3%\n\n小型射弹炮台伤害提高33.3%\n\n感应强度和锁定距离提高100%\n\n对感应抑阻器和武器扰断器的抗性提高66.6%"
+  },
+  "groupID": 1306,
+  "iconID": 1042,
+  "mass": 100.0,
   "name": {
     "de": "Svipul-Scharfschützenmodus",
     "en": "Svipul Sharpshooter Mode",
@@ -10,5 +22,9 @@
     "ru": "Svipul Sharpshooter Mode",
     "zh": "斯威普级狙击模式"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 50.0,
   "volume": 5.0
 }

@@ -1,5 +1,20 @@
 {
-  "typeID": 41475,
+  "basePrice": 13359116.0,
+  "description": {
+    "de": "Dieses Modul verwendet Nano-Reparaturbots, um Schäden an der Hülle des Zielschiffes zu beheben.\n\n\n\nHinweis: Kann nur in Schiffe der Capital-Klasse eingebaut werden.",
+    "en": "This module uses nano-assemblers to repair damage done to the hull of the Target ship.\r\n\r\nNote: May only be fitted to capital class ships.",
+    "es": "Este módulo utiliza nanoensambladores para reparar el daño infligido al casco de la nave.\n\nAviso: Solo se puede equipar en naves capitales.",
+    "fr": "Ce module exploite des nano-assembleurs chargés de réparer tous dégâts infligés au blindage du vaisseau cible.\n\n\n\nRemarque : réservé aux vaisseaux de classe capital.",
+    "ja": "このモジュールはナノ修復器を用いて、目標の艦の船体が受けたダメージを回復する。注： 母艦級の艦船にのみ装着可能。",
+    "ko": "나노 어셈블러를 사용하여 대상 함선의 선체를 수리하는 모듈입니다. <br><br>참고: 캐피탈급 함선에만 장착이 가능합니다.",
+    "ru": "С помощью наносборщиков дистанционно ремонтирует корпус корабля-цели.\n\n\n\nВнимание! Этим модулем могут оснащаться исключительно корабли большого тоннажа.",
+    "zh": "该装备使用纳米级装配器来修复对目标舰船结构造成的损伤。\n\n\n\n注：只能用于旗舰级舰船。"
+  },
+  "groupID": 585,
+  "iconID": 21428,
+  "marketGroupID": 1063,
+  "mass": 20.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Capital Remote Hull Repairer II",
     "en": "Capital Remote Hull Repairer II",
@@ -10,5 +25,9 @@
     "ru": "Capital Remote Hull Repairer II",
     "zh": "旗舰级远程结构维修器 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "variationParentTypeID": 27934,
   "volume": 4000.0
 }

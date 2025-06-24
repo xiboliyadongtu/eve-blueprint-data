@@ -1,5 +1,18 @@
 {
-  "typeID": 15345,
+  "capacity": 140.0,
+  "description": {
+    "de": "Ein Staffelführer befehligt einen kleinen Schiffsverband im Gefecht. Man findet sie nur sehr selten ohne einige Begleitschiffe. Bedrohungsstufe: Tödlich",
+    "en": "A Squad Leader controls a small unit of ships during battle.  Seldom are they found without a few escorts. Threat level: Deadly",
+    "es": "Los líderes de escuadrón controlan una pequeña unidad de naves durante la batalla. Rara vez aparecerán sin escolta. Nivel de amenaza: letal.",
+    "fr": "Un chef d'escadron commande un petit groupe de vaisseaux pendant le combat. On les rencontre rarement sans escorte. Niveau de menace : létal",
+    "ja": "スクアッドリーダーは、戦闘時に小型船団を指揮する。ほとんどの場合、数隻の護衛艦を従えている。危険度：致命的",
+    "ko": "전장에서 편대장은 소규모 부대를 직접 지휘합니다. 편대장이 호위대 없이 이동하는 상황은 극히 드물다고 볼 수 있습니다. 위험도: 치명적",
+    "ru": "Командующие эскадрильей управляют небольшими флотами. Они редко появляются на поле боя без сопровождения. Уровень угрозы: смертельный",
+    "zh": "小队长在战斗中指挥一小支飞船编队。  通常其周围都会有一些护航舰船。威胁等级：极度危险的"
+  },
+  "graphicID": 1807,
+  "groupID": 677,
+  "mass": 1250000.0,
   "name": {
     "de": "Federation Navy Squad Leader",
     "en": "Federation Navy Squad Leader",
@@ -10,5 +23,10 @@
     "ru": "Federation Navy Squad Leader",
     "zh": "联邦海军 小队长"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 36.16,
+  "sofFactionName": "gallentenavy",
   "volume": 26500.0
 }

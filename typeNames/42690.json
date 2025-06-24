@@ -1,5 +1,18 @@
 {
-  "typeID": 42690,
+  "description": {
+    "de": "Es scheint, als würde diese Struktur den Warpantrieb Ihres Schiffes stören. Es ist nicht möglich, zu warpen, solange diese Struktur aktiv bleibt.",
+    "en": "It appears that this structure is disabling your warp drive on your vessel.\n\nWarping is impossible while this structure is active.",
+    "es": "Parece que esta estructura está inutilizando el motor de warp de tu nave.\n\nEs imposible warpear mientras la estructura esté activa.",
+    "fr": "Cette structure a enrayé le propulseur de warp de votre vaisseau. Vous ne pouvez pas warper tant que cette structure est active.",
+    "ja": "このストラクチャは、船のワープドライブを無効にしているようです。\n\nこのストラクチャがアクティブな間はワープは不可能です。",
+    "ko": "이 구조물에서 함선의 워프 드라이브가 작동하는 것을 방해하고 있는 듯합니다. <br><br>구조물이 활성화되어있는 동안 워프가 불가능합니다.",
+    "ru": "Похоже, это сооружение глушит варп-двигатель вашего корабля. Уход в варп-режим невозможен, пока сооружение действует.",
+    "zh": "这个建筑好像扰断了你舰船的跃迁引擎。\n\n建筑启动后，舰船无法跃迁。"
+  },
+  "factionID": 500021,
+  "graphicID": 3533,
+  "groupID": 319,
+  "mass": 1000.0,
   "name": {
     "de": "Warp Disruption Generator",
     "en": "Warp Disruption Generator",
@@ -10,5 +23,10 @@
     "ru": "Warp Disruption Generator",
     "zh": "跃迁扰断力场发生器"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 64,
+  "radius": 350.0,
+  "sofFactionName": "sleeperbase",
   "volume": 1000.0
 }

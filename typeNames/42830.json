@@ -1,5 +1,19 @@
 {
-  "typeID": 42830,
+  "basePrice": 1000.0,
+  "description": {
+    "de": "Dieses kompakte Bündel aktiver Naniten kann in ein <a href=showinfo:42528>Bergbauvorarbeiterstrahlen</a>-Modul geladen und an verbündete Schiffe verteilt werden, um die Reichweite ihrer Bergbaulaser, Eisschürfer und Vermessungsscannern stark zu erhöhen und größere Erträge über eine gewisse Zeitspanne zu ermöglichen. Dieser Effekt reduziert zusätzlich die Anforderungen für den Energiespeicher des Bergbaulausers, um für die schnellere Zykluszeit zu kompensieren.",
+    "en": "This compact bundle of active nanites can be loaded into a <a href=showinfo:42528>Mining Foreman Burst</a> module and dispersed across allied ships to greatly enhance the speed of their mining modules, allowing increased yield over time. This effect also reduces the capacitor requirements of the mining laser to compensate for the faster cycle times.",
+    "es": "Este lote compacto de nanobots activos puede cargarse en un módulo de <a href=showinfo:42528>estallido de capataz minero</a> y dispersarse por naves aliadas para aumentar considerablemente la velocidad de sus módulos de minería, lo que permite mejorar la producción con el tiempo. Este efecto también reduce los requisitos del condensador del láser minero para compensar la mayor rapidez de los ciclos.",
+    "fr": "Cette masse dense de nanites actives, chargée dans les <a href=showinfo:42528>salves de contremaîtrise minière</a>, est propulsée vers les vaisseaux alliés pour améliorer la rapidité de leurs modules d'extraction et optimiser le rendement. Cet effet réduit également la consommation énergétique des lasers d'extraction minière pour compenser les cycles d'extraction plus rapides.",
+    "ja": "この活性ナノマシンの小さな塊を<a href=showinfo:42528>採掘支援バースト</a>に装填して味方艦へ拡散すれば、採掘モジュールの起動サイクルを短縮し、時間あたりの採掘量を増加させることができる。さらに、サイクル時間の向上に合わせ、採掘レーザーのキャパシタ要件が低下します。",
+    "ko": "<a href=showinfo:42528>채광 버스트</a> 모듈에 장착 가능한 나나이트 차지입니다. 동맹함선의 채굴 모듈 속도를 증가시켜 더 많은 산출이 가능하게 합니다. 채굴 레이저의 캐패시터 사용량이 감소합니다.",
+    "ru": "Этот компактный пакет активных нанитов может быть заряжен в <a href=showinfo:42528>импульсную систему координации добычи сырья (Mining Foreman Burst)</a> и с её помощью распределён по союзным кораблям, обеспечивая существенное повышение скорости работы буровых модулей и, тем самым, повышенную выработку руды. Кроме того, этот эффект сокращает потребление энергии буровым лазером (за каждый цикл), что компенсирует повышенную скорость его работы.",
+    "zh": "这种紧凑的纳米机器人集群可以装载到<a href=showinfo:42528>开采先锋脉冲波</a>装备中，并散布到友方舰船全身，极大地提高其采矿装备的运转速度，从而提高产量。这个效果还能降低采矿激光器的电容需求，以补偿加快的运转周期。"
+  },
+  "groupID": 1771,
+  "iconID": 21698,
+  "marketGroupID": 2300,
+  "mass": 0.01,
   "name": {
     "de": "Mining Laser Optimization Charge",
     "en": "Mining Laser Optimization Charge",
@@ -10,5 +24,7 @@
     "ru": "Mining Laser Optimization Charge",
     "zh": "采矿激光器优化弹药"
   },
+  "portionSize": 500,
+  "published": true,
   "volume": 0.01
 }

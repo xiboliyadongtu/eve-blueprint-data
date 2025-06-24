@@ -1,5 +1,18 @@
 {
-  "typeID": 30366,
+  "capacity": 235.0,
+  "description": {
+    "de": "Diese Runner Drones wurden ursprünglich von Serpentis-Wissenschaftlern konstruiert und in Gebieten nahe des gallentischen Raums als übermittelnde Kundschafter eingesetzt. Mit der Zeit wurden sie von Kundschaftern der Federation Navy entdeckt, was dazu führte, dass diese mittels Nachkonstruktion ihre eigenen Versionen entwickelten. Seitdem sind diese und andere ähnliche Drohnen in verschiedenen Trainingsprogrammen im Einsatz - beispielsweise, um Piloten mit fortschrittlichen Kampftechniken auf dem Schlachtfeld vertraut zu machen.",
+    "en": "These Runner drones were first engineered by Serpentis scientists, who originally used them as forward scouts in systems bordering Gallentean space. Over time, Federation Navy scouts discovered their presence and soon enough, reverse-engineered their own variants. Since then, these and other similar drones have seen use in various training programs, most usually focused on familiarizing a pilot with advanced combat techniques on the battlefield.",
+    "es": "Estos drones traficantes fueron diseñados por científicos Serpentis, quienes los utilizaron originalmente como exploradores de avanzada en sistemas fronterizos del espacio gallente. Con el tiempo, los exploradores de la Armada de la Federación descubrieron su presencia y no tardaron en rediseñarlos para crear sus propias variantes. Desde entonces, estos y otros drones similares han sido utilizados en varios programas de entrenamiento, que suelen centrarse en familiarizar a un piloto con técnicas de combate avanzadas en el campo de batalla.",
+    "fr": "Ces drones Runner ont initialement été conçus par des scientifiques serpentis, qui les utilisaient à l'époque comme éclaireurs dans les systèmes bordant l'espace gallente. Au fil du temps, les éclaireurs de la Federation Navy ont découvert leur présence et, assez rapidement, ont procédé à une ingénierie inverse de leurs propres variantes. Depuis lors, ces drones et des drones similaires ont été aperçus dans divers programmes de formation, souvent dans le but d'initier un pilote aux techniques de combat avancées sur le champ de bataille.",
+    "ja": "サーペンティスの科学者によって作られたランナードローンは、当初はガレンテ宙域と接する星系への前衛偵察機として使われていた。やがてその存在に気づいた連邦海軍はリバースエンジニアリングを行い、改良機を作り出したのだった。以来、この種のドローンは様々な訓練プログラムで利用されており、主にパイロットが戦場での高度な戦闘技術に慣れるために役立っている。",
+    "ko": "러너 드론은 처음에 서펜티스 과학자들이 개발을 했으며 원래는 갈란테 국경 감시용으로 사용됐습니다. 하지만 시간이 지남에 따라 연방 해군 정찰기에 발각됐으며 머지않아 연방 고유의 정찰기로 개조됐습니다. 이후 많은 훈련 프로그램에서 이러한 류의 드론이 투입되어 첨단 파이터술 훈련에 활용되었습니다.",
+    "ru": "Эти дроны класса Runner были первоначально разработаны учеными Serpentis, использовавшими их в роли передовых разведчиков в пограничных с пространством Gallente системах. Со временем разведчки Federation Navy обнаружили их присутствие, достаточно оперативно провели инженерный анализ и разработали собственные варианты. С тех пор эти и другие аналогичные дроны используются в различных тренировочных программах с целью ознакомления пилотов с передовыми методами ведения боя.",
+    "zh": "跑跑无人机最早是由天蛇科学家研制，原用于在盖伦特边界空域地区进行前线侦查任务。一段时间过后，联邦海军侦查部队发现了他们的存在并很快通过逆向工程开发了他们自己的同型版本。自那以后，这些无人机及它们的其他各型号经常被用于各种训练任务，特别是用于训练新手飞行员快速地熟悉高级战斗技术。"
+  },
+  "graphicID": 1079,
+  "groupID": 286,
+  "mass": 3500.0,
   "name": {
     "de": "Runner Drone",
     "en": "Runner Drone",
@@ -10,5 +23,9 @@
     "ru": "Runner Drone",
     "zh": "跑跑无人机"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 35.0,
+  "sofFactionName": "caldaribase",
   "volume": 250.0
 }

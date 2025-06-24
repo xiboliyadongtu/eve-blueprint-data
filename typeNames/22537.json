@@ -1,5 +1,17 @@
 {
-  "typeID": 22537,
+  "description": {
+    "de": "Vergrößert die Kapazität des Frachtraums.",
+    "en": "Increases cargo hold capacity.",
+    "es": "Aumenta la capacidad de la bodega.",
+    "fr": "Augmente la capacité de la soute de chargement.",
+    "ja": "カーゴホールド容量が増加する。",
+    "ko": "화물 적재량이 증가합니다.",
+    "ru": "Увеличивает вместимость грузового трюма.",
+    "zh": "增加货柜舱容量。"
+  },
+  "groupID": 78,
+  "iconID": 92,
+  "mass": 50.0,
   "name": {
     "de": "Ore compression thingie",
     "en": "Ore compression thingie",
@@ -10,5 +22,8 @@
     "ru": "Ore compression thingie",
     "zh": "矿石压缩装置"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 10.0,
   "volume": 5.0
 }

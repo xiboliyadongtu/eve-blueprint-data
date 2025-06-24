@@ -1,5 +1,19 @@
 {
-  "typeID": 83635,
+  "basePrice": 100.0,
+  "capacity": 650.0,
+  "description": {
+    "de": "Ein Werfer, der dem Ruhm eines Amarr-Turniers und der göttlichen Bedeutung des sportlichen Wettkampfs gewidmet ist.",
+    "en": "A launcher dedicated to celebrating the glory of an Amarrian tournament, and the divine significance of sporting competition.",
+    "es": "Lanzador dedicado a celebrar la gloria de un torneo amarriano y el significado divino de la competición deportiva.",
+    "fr": "Un lanceur dédié à célébrer la gloire d'un tournoi amarr et la signification divine de la compétition sportive.",
+    "ja": "アマーで開催されるトーナメントと、スポーツ大会の神聖なる意義を称えるための専用ランチャー。",
+    "ko": "아마르 토너먼트를 기념하여 제작된 런처입니다. 스포츠 정신과 공정한 경쟁을 상징합니다.",
+    "ru": "Модуль для запуска фейерверков в честь амаррского турнира и божественного величия спортивных соревнований.",
+    "zh": "这款发射器专为颂扬艾玛锦标赛的辉煌荣耀和体育竞技精神而打造。"
+  },
+  "graphicID": 2413,
+  "groupID": 4576,
+  "mass": 12720000.0,
   "name": {
     "de": "Tournament Firework Launcher",
     "en": "Tournament Firework Launcher",
@@ -10,5 +24,8 @@
     "ru": "Tournament Firework Launcher",
     "zh": "锦标赛焰火发射器"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 476.0,
+  "sofFactionName": "amarrbase"
 }

@@ -1,5 +1,16 @@
 {
-  "typeID": 77292,
+  "description": {
+    "de": "Die Hauptstruktur und das Herzstück eines Klans der Minmatar. In diesem Gemeinschaftsraum kommt der Klan zusammen, hält Versammlungen ab, arbeitet, spielt, teilt Geschichten und erzieht die Kinder.",
+    "en": "The primary structure and heart of a Minmatar clan holding. It is a common space where the clan comes together to hold clan assemblies, work, play, share their history, and educate their children.",
+    "es": "La estructura principal y el corazón de una propiedad de clan minmatariana. Es un espacio común donde el clan se reúne para celebrar asambleas de clan, trabajar, jugar, compartir sus historias y educar a sus hijos.",
+    "fr": "La structure principale et le cœur d'une installation de clan minmatar. C'est un espace commun où les membres du clan se rejoignent et organisent des assemblées, travaillent, jouent, partagent leur histoire et éduquent leurs enfants.",
+    "ja": "ミンマター氏族の所有領域における中心となる主要なストラクチャ。一族で集まり、話し合い、働き、遊び、歴史を共有し、子供たちに教育を与えるための共有スペースとして使われる。",
+    "ko": "민마타 부족 거점의 주요 구조물이자 심장부입니다. 이 곳은 부족들이 모여 집회를 열고, 업무를 처리하고, 놀이를 즐기고, 역사를 공유하고, 아이를 교육시킵니다.",
+    "ru": "Это сооружение — сердце владений минматарского клана. Здесь члены клана собираются для совместной работы и отдыха, а также обсуждают своё историческое прошлое и обучают детей.",
+    "zh": "米玛塔尔氏族基地的主要建筑和核心。这里是氏族聚集的公共空间，具备举行氏族集会、工作、娱乐、分享氏族历史以及教育后代的功能。"
+  },
+  "graphicID": 26051,
+  "groupID": 4576,
   "name": {
     "de": "Clan Commons",
     "en": "Clan Commons",
@@ -10,5 +21,8 @@
     "ru": "Clan Commons",
     "zh": "氏族公地"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 5000.0,
+  "sofFactionName": "minmatarbase"
 }

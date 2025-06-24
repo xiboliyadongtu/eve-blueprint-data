@@ -1,5 +1,16 @@
 {
-  "typeID": 10241,
+  "description": {
+    "de": "Außenposten einer Minmatar Raffinerie.",
+    "en": "A Minmatar refinery outpost.",
+    "es": "Puesto avanzado de refinería minmatariano.",
+    "fr": "Il s'agit d'un avant-poste de raffinage minmatar.",
+    "ja": "ミンマターの精錬アウトポスト",
+    "ko": "민마타 정제소입니다.",
+    "ru": "Перерабатывающая станция Minmatar.",
+    "zh": "一座米玛塔尔精炼站。"
+  },
+  "graphicID": 1709,
+  "groupID": 226,
   "name": {
     "de": "Minmatar Refining Outpost",
     "en": "Minmatar Refining Outpost",
@@ -10,5 +21,9 @@
     "ru": "Minmatar Refining Outpost",
     "zh": "米玛塔尔精炼站"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 280.0,
+  "sofFactionName": "minmatarbase"
 }

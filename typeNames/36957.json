@@ -1,5 +1,19 @@
 {
-  "typeID": 36957,
+  "basePrice": 22500000.0,
+  "description": {
+    "de": "Materialien, die für den Bau von Warp- oder Ingenieurs-Einrichtungen in einer Weltraumstruktur benötigt werden.",
+    "en": "Materials needed for the construction of warp or engineering related facilities in a space structure.",
+    "es": "Materiales necesarios para construir instalaciones de warp o ingeniería en una estructura espacial.",
+    "fr": "Matériaux destinés à la construction d'installations de warp ou d'ingénierie pour structure.",
+    "ja": "宙域のストラクチャ内にワープあるいはエンジニアリング関連施設を建設するのに必要な材料。",
+    "ko": "워프 및 엔지니어링 기반 시설을 건설하는데 사용되는 재료입니다.",
+    "ru": "Компоненты, необходимые для создания инженерных и варп-исследовательских центров на развёртываемых сооружениях.",
+    "zh": "建造太空建筑中跃迁和工程相关设施所需的组件。"
+  },
+  "groupID": 536,
+  "iconID": 21533,
+  "marketGroupID": 1865,
+  "mass": 10000.0,
   "name": {
     "de": "Structure Acceleration Coils",
     "en": "Structure Acceleration Coils",
@@ -10,5 +24,7 @@
     "ru": "Structure Acceleration Coils",
     "zh": "建筑加速线圈"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 3000.0
 }

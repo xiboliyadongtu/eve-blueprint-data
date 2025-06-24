@@ -1,5 +1,16 @@
 {
-  "typeID": 367770,
+  "description": {
+    "de": "Ein Decodierungsschlüssel wird häufig verwendet, damit verschlüsselte Tresore und Systeme von ihren rechtmäßigen Besitzern verschlossen bzw. aufgeschlossen werden können. Gehackte Schlüssel können jedoch von jedem verwendet werden und sind bei skrupellosen Söldnern heiß begehrt.",
+    "en": "A decryptor key is commonly used to lock and gain access to encrypted strongboxes and systems, by their rightful owners. Hacked keys, however, can be used by anyone, and are highly sought after by unscrupulous mercenaries.",
+    "es": "Las llaves de desencriptación se usan para abrir y cerrar cajas fuertes o sistemas encriptados por sus dueños. Las llaves de pirateo, por el contrario, las puede usar cualquiera y son muchos los mercenarios sin escrúpulos que ansían hacerse con una.",
+    "fr": "Les clés de cryptage sont communément utilisées par les propriétaires légitimes de coffres-forts cryptés pour les verrouiller et les ouvrir. Les clés piratées peuvent quant à elles être utilisées par tous, et sont particulièrement recherchées dans le monde des mercenaires sans scrupules.",
+    "it": "Una chiave crittografica viene usata comunemente per chiudere e aprire forzieri e sistemi criptati dai legittimi proprietari. Tuttavia, le chiavi hackerate possono essere usate da chiunque e sono molto richieste da mercenari senza scrupoli.",
+    "ja": "ディクリプタキーは、通常暗号化された金庫やシステムをロックするために使用され、正当な権利を有する所有者にアクセスを与えるために使用されます。しかし、ハッキングされたキーは誰でも使用可能であり、悪い傭兵によって求められています。",
+    "ko": "해독키는 소유자들이 자신의 금고 및 시스템을 잠그거나 해제하기 위한 목적으로 사용합니다. 하지만 해킹키는 아무나 사용할 수 있어 용병들이 눈에 불을 켜고 찾아다니는 물건입니다.",
+    "ru": "Ключ-дешифратор обычно используется для закрытия или открытия зашифрованных сейфов и систем их полноправными владельцами. Взломанными ключами может воспользоваться кто угодно, вот почему они пользуются повышенным спросом у неразборчивых в средствах наемников.",
+    "zh": "解密密钥只有合法拥有者才能使用，通常用于锁定和打开加密的保险柜与系统。但破译后的密钥人人都能使用，也因此成为非法雇佣兵追寻的对象。"
+  },
+  "groupID": 367776,
   "name": {
     "de": "Gehackter Decodierungsschlüssel",
     "en": "Hacked Decryptor Key",
@@ -11,5 +22,7 @@
     "ru": "Взломанный ключ-дешифратор",
     "zh": "被破译的解码器密钥"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4
 }

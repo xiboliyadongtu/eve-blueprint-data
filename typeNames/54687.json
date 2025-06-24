@@ -1,5 +1,18 @@
 {
-  "typeID": 54687,
+  "capacity": 27500.0,
+  "description": {
+    "de": "Die schwelenden Überreste eines zerstörten Ingenieurskomplexes der Azbel-Klasse.",
+    "en": "The smoldering remains of an Azbel class engineering complex.",
+    "es": "Los restos humeantes de un complejo de ingeniería de clase Azbel.",
+    "fr": "Les restes calcinés d'un complexe d'ingénierie de classe Azbel.",
+    "ja": "アズゼル級エンジニアリング複合施設のくすぶる残骸。",
+    "ko": "아즈벨급 엔지니어링 시설의 타고 남은 잔해입니다.",
+    "ru": "Тлеющие обломки инженерного комплекса «Азбель».",
+    "zh": "这片燃烧的废墟曾是一座阿兹贝尔级工程复合体。"
+  },
+  "graphicID": 21417,
+  "groupID": 226,
+  "mass": 10000.0,
   "name": {
     "de": "Upwell Research Complex Wreck",
     "en": "Upwell Research Complex Wreck",
@@ -10,5 +23,10 @@
     "ru": "Upwell Research Complex Wreck",
     "zh": "昇威研究复合体残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 10000.0,
+  "sofFactionName": "upwell-indy",
+  "soundID": 20236,
   "volume": 27500.0
 }

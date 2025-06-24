@@ -1,5 +1,19 @@
 {
-  "typeID": 25561,
+  "description": {
+    "de": "Vergrößert die Einsatzfähigkeit herkömmlicher ECM-Zielstörsender, indem es sie stärker macht und ihre Reichweite erhöht. Funktioniert nur mit herkömmlichen ECM-Modulen, nicht mit ECM-Burst-Modulen. Nachteil: Beim Einsatz mehrerer Module des gleichen öder ähnlichen Typs, welche die gleichen Attribute des Schiffs beeinflussen, wird deren Wirksamkeit eingeschränkt.",
+    "en": "Magnifies the operational ability of regular ECM target jammers, making them stronger and giving them greater reach. Works only with regular ECMs, not ECM Bursts.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",
+    "es": "Aumenta la capacidad operativa de los perturbadores ECM de objetivo, lo cual los refuerza y amplía su alcance. Solo funciona con contramedidas electrónicas normales, no con ráfagas ECM.\n\nPenalización: Por usar más de un tipo de módulo o módulos similares que afecten al mismo atributo de la nave.",
+    "fr": "Amplifie les capacités des brouilleurs de cible CME classiques, les rendant ainsi plus puissants et plus rapides. Fonctionne uniquement avec des CME classiques (ne fonctionne pas avec des salves CME). Pénalité : utiliser plus d'un module de ce type ou plusieurs modules liés à un même attribut du vaisseau fera l'objet d'une pénalité.",
+    "ja": "標準型ECMターゲットジャマーの機能を向上させ、より強力になると同時に有効範囲が拡大する。標準型ECMにのみ装備可能で、ECMバーストに装備しても効果はない。\n\nペナルティ： 同じタイプのモジュールを装備済みの場合、モジュールの効果が低下する。",
+    "ko": "일반 ECM 타켓 재머의 ECM 강도와 사거리가 증가합니다. ECM 버스트를 제외한 일반 ECM에만 적용됩니다. <br><br>페널티: 동일한 속성의 모듈 여러 개를 장착할 경우 페널티가 부여됩니다.",
+    "ru": "Повышает выходную мощность генераторов помех системам сопровождения целей (что косвенно приводит к увеличению их рабочей дистанции). Эффективен лишь в отношении обычных (не импульсных) генераторов таких помех. Внимание! Установка на борт корабля двух и более модулей, влияющих на одну и ту же характеристику корабля, приведёт к снижению эффективности их действия в отношении данной характеристики.",
+    "zh": "增强常规ECM目标干扰器的运行效能，使之效果更强，作用距离更远。只适用于常规ECM类装备，不适用于ECM脉冲波类装备。\n\n惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。"
+  },
+  "groupID": 514,
+  "iconID": 1046,
+  "marketGroupID": 967,
+  "mass": 1.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Signal Distortion Amplifier I",
     "en": "Signal Distortion Amplifier I",
@@ -10,5 +24,7 @@
     "ru": "Signal Distortion Amplifier I",
     "zh": "信号畸变放大器 I"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 5.0
 }

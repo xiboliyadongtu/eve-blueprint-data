@@ -1,5 +1,16 @@
 {
-  "typeID": 34304,
+  "description": {
+    "de": "Dieses Lagerdeopt ist komplett zerstört, nichts von Wert verbleibt. Es ist schwer zu sagen, ob das Debot von Explosionen in der Nähe zerstört wurde oder durch brutale Plünderung. Wahrscheinlich ein bisschen von beidem.",
+    "en": "This storage depot has been completely wrecked, with nothing of value remaining. It is hard to tell whether the depot was destroyed by nearby explosions or through savage scavenging. Probably a bit of both.",
+    "es": "Este depósito de almacenamiento ha sido completamente destruido y no queda nada de valor. Es difícil saber si la causa fueron las explosiones cercanas o el saqueo indiscriminado. Probablemente ambos.",
+    "fr": "Ce dépôt de stockage a été complètement détruit, et il ne reste rien de valeur à l'intérieur. Il est difficile de dire si le dépôt a été détruit par les explosions environnantes ou à la suite d'un pillage sauvage. Probablement un peu des deux.",
+    "ja": "完全に破壊されており、価値のあるものは何も残っていない。近くで爆発が起きたのか、野蛮な残骸漁りの結果なのか、破壊された理由は定かではない。その両方という可能性もある。",
+    "ko": "저장고는 완전히 파괴되어 가치가 있는 물건은 전혀 남아있지 않습니다. 저장고가 파괴된 원인이 근처 폭발 때문인지, 아니면 약탈자들 때문인지는 알 수 없습니다. 두 가지 모두가 원인일 가능성도 있습니다.",
+    "ru": "Этот склад полностью уничтожен, в нём не осталось ничего ценного. Трудно сказать, пострадал ли он от слишком близких взрывов или от слишком интенсивной работы «мусорщиков». Вероятно, имело место и то, и другое.",
+    "zh": "这个储藏库被彻底打捞过了，没有值钱的东西剩下了。很难说清楚这个仓库是由于附近的爆炸损毁的还是被凶残扫荡过了，也许两者皆有。"
+  },
+  "graphicID": 2301,
+  "groupID": 226,
   "name": {
     "de": "Wrecked Storage Depot",
     "en": "Wrecked Storage Depot",
@@ -10,5 +21,9 @@
     "ru": "Wrecked Storage Depot",
     "zh": "损坏的储藏库"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 600.0,
+  "sofFactionName": "genericmetal"
 }

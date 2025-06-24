@@ -1,5 +1,19 @@
 {
-  "typeID": 57477,
+  "basePrice": 10000000.0,
+  "description": {
+    "de": "Die Schiffsdesigns der Minmatar verwenden primär ladarbasierte Sensoren, um die lokale Raumumgebung abzubilden. Der Ladar-FTL-Interlink-Kommunikator wird dazu verwendet, hochfrequente, hochauflösende Minmatar-Sensordaten direkt in die Überlichtgeschwindigkeitskommunikationskanäle der Republic Fleet-Staffeln einzubinden.",
+    "en": "Minmatar ship designs use ladar-based sensors as their primary means of building a picture of the local space environment. The Ladar-FTL Interlink Communicator is used to tie high-frequency, high-resolution Minmatar sensor data directly into the FTL communications channels used by Republic Fleet squadrons.",
+    "es": "Las naves de diseño minmatariano usan los sensores lidar como método principal para reconocer el entorno espacial local. El comunicador de interconexión lidar-supralumínico sirve para vincular los datos de alta frecuencia y gran resolución del sensor minmatariano a los canales de comunicaciones supralumínicos que utilizan los escuadrones de la Flota de la República.",
+    "fr": "Les modèles de vaisseaux minmatar emploient des détecteurs ladar comme principal moyen d’établir une représentation de l’environnement spatial local. Le communicateur hyperliaison ladar-PRL sert à relier les données à haute fréquence et haute résolution des détecteurs minmatar directement aux canaux de communications PRL utilisés par les escadrons de la Flotte de la République.",
+    "ja": "ミンマター船は、現在の宙域の環境を把握する主な手段として光学式センサーを使用している。ミンマター製センサーの高周波かつ高解像度なデータを共和国海軍フリートの分隊が使用しているFTL通信チャンネルに直接接続するため、光学-FTLインターリンクコミュニケーターが使用されている。",
+    "ko": "민마타 함선은 라이다 기반 센서를 통해 주변 환경을 탐지합니다. 라이다-FTL 접속 통신기는 공화국 함대가 운용하는 FTL 통신 채널에 고주파수- 고해상도 센서 데이터를 연동합니다.",
+    "ru": "В конструкциях минматарских кораблей используются ладарные сенсоры. Их основное назначение — снабдить пилота необходимой информацией о космической среде. Ладарный сверхсветовой коммуникатор передаёт данные высокочастотных минматарских датчиков непосредственно по сверхсветовым каналам республиканского флота.",
+    "zh": "米玛塔尔舰船一直以来都主要使用光雷达式感应器来探测太空环境。光雷达超光速链接通信器能将高频高分辨率的米玛塔尔感应器数据直接链接到共和国舰队使用的超光速通信频道中。"
+  },
+  "groupID": 913,
+  "iconID": 24620,
+  "marketGroupID": 1887,
+  "mass": 0.1,
   "name": {
     "de": "Ladar-FTL Interlink Communicator",
     "en": "Ladar-FTL Interlink Communicator",
@@ -10,5 +24,7 @@
     "ru": "Ladar-FTL Interlink Communicator",
     "zh": "光雷达超光速链接通信器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 100.0
 }

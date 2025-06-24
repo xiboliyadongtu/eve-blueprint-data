@@ -1,5 +1,18 @@
 {
-  "typeID": 49664,
+  "capacity": 25000.0,
+  "description": {
+    "de": "Das Wrack einer Triglavia-Förderungsanlage. Dieses Wrack enthält wahrscheinlich einige Materialien des Abgrunds, die von seinen Systemen extrahiert oder verwendet wurden.",
+    "en": "The wreckage of a Triglavian extraction installation. This wreckage probably contains some Abyssal materials that were being extracted or used by its systems.",
+    "es": "Restos de una instalación de extracción triglaviana. Probablemente aún queden materiales abisales que se estuvieran extrayendo o usaran sus sistemas.",
+    "fr": "L'épave d'une installation d'extraction triglavian. Cette épave contient probablement des matériaux abyssaux qui étaient extraits ou utilisés par ses systèmes.",
+    "ja": "トリグラビアンの抽出施設の残骸。この残骸には、おそらくそのシステムで抽出または使用されていたアビサルの物質が含まれている。",
+    "ko": "트리글라비안 추출시설의 잔해물입니다. 이 잔해물에는 어비스 항성계의 물질이 있을 가능성이 농후합니다.",
+    "ru": "Обломки триглавского добывающего комплекса. Вероятно, внутри содержатся материалы бездны, добытые или использованные его системами.",
+    "zh": "一座三神裔开采设施的残骸。这处残骸中可能仍有之前它开采或使用的某些深渊材料存在。"
+  },
+  "graphicID": 22306,
+  "groupID": 186,
+  "mass": 10000.0,
   "name": {
     "de": "Extraction SubNode Wreck",
     "en": "Extraction SubNode Wreck",
@@ -10,5 +23,9 @@
     "ru": "Extraction SubNode Wreck",
     "zh": "开采子节点残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 250.0,
+  "sofFactionName": "triglavianbase",
   "volume": 25000.0
 }

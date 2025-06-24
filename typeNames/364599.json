@@ -1,5 +1,17 @@
 {
-  "typeID": 364599,
+  "basePrice": 787000.0,
+  "description": {
+    "de": "Skill in der Bedienung von Minmatar-Späherdropsuits. Schaltet den Zugriff auf Minmatar-Späherdropsuits frei. Standard ab Stufe 1, erweitert ab Stufe 3 und Prototypen ab Stufe 5. Späherdropsuitbonus: +15% Bonus auf die PG/CPU-Kosten des Tarnungsfelds pro Skillstufe. Minmatar-Späherdropsuitbonus: +5% Bonus auf die Hackgeschwindigkeit und die Schadenswirkung von Nova-Messern pro Skillstufe.",
+    "en": "Skill at operating Minmatar Scout dropsuits.\r\n\r\nUnlocks access to Minmatar Scout dropsuits. Standard at lvl.1; advanced at lvl.3; prototype at lvl.5.\r\n\r\nScout Suit Bonus: +15% bonus to PG/CPU cost of cloak field per level.\r\nMinmatar Scout Bonus: +5% bonus to hacking speed and nova knife damage per level.",
+    "es": "Habilidad de manejo de trajes de salto de explorador Minmatar. Desbloquea el acceso a los trajes de salto de explorador Minmatar: Estándar en el nivel 1, avanzados en el nivel 3 y prototipos en el nivel 5. Bonificación de traje de explorador: +15% al coste de RA/CPU del campo de visibilidad por nivel. Bonificación de traje de explorador Minmatar: +5% a la velocidad de pirateo y al daño de los cuchillos Nova por nivel.",
+    "fr": "Compétence permettant d'utiliser les combinaisons Éclaireur Minmatar. Déverrouille l'accès aux combinaisons Éclaireur Minmatar. Standard au niv.1 ; avancé au niv.3 ; prototype au niv.5. Bonus combinaison Éclaireur : +15 % de réduction d'utilisation de PG/CPU du champ de camouflage par niveau. Bonus Éclaireur Minmatar : +5 % de bonus de vitesse de piratage et de dommages du couteau Nova par niveau.",
+    "it": "Abilità nell'utilizzo delle armature da ricognitore Minmatar. Sblocca l'accesso alle armature da ricognitore Minmatar. Standard al liv. 1; avanzate al liv. 3; prototipo al liv. 5. Bonus armatura da ricognitore: +15% bonus all'utilizzo della rete energetica/CPU del campo di copertura per livello. Bonus ricognitore Minmatar: +5% di bonus alla velocità di hackeraggio e ai danni inflitti dal coltello Nova per livello.",
+    "ja": "ミンマタースカウト降下スーツを扱うためのスキル。ミンマタースカウト降下スーツが使用できるようになる。レベル1で標準型、レベル3で高性能、レベル5でプロトタイプ。スカウトスーツボーナス: レベル上昇ごとに、クロークフィールドのPG/CPU消費量が15%増加する。ミンマタースカウトボーナス。レベル上昇ごとに、ハッキング速度およびノヴァナイフの与えるダメージが5%増加する。",
+    "ko": "민마타 정찰 강하슈트 운용을 위한 스킬입니다. <br><br>민마타 정찰 강하슈트를 잠금 해제합니다. 레벨 1 - 일반, 레벨 3 - 상급, 레벨 5 - 프로토타입 <br><br>정찰 슈트 보너스:<br><br>매 레벨마다 클로킹 필드 PG/CPU 사용량 15% 감소 <br><br>민마타 정찰 슈트 보너스:<br><br>매 레벨마다 해킹 속도 및 노바 나이프 피해량 5% 증가",
+    "ru": "Навык обращения с разведывательными скафандрами Минматар. Позволяет использовать разведывательные скафандры Минматар. Стандартные - на уровне 1; усовершенствованные - на уровне 3; прототипы - на уровне 5. Бонус разведывательного скафандра: 15% снижение расходов ресурсов ЭС/ЦПУ на маскирующее поле на каждый уровень. Бонус разведывательных скафандров Минматар: +5% к скорости взлома и урону, наносимому ножами Нова на каждый уровень.",
+    "zh": "操作米玛塔尔侦察兵作战服的技能。解锁米玛塔尔侦察兵作战服。1级解锁标准版；3级解锁高级版；5级解锁原型版。侦察兵套装加成：每升一级，隐形力场的PG/CPU消耗增加15%。米玛塔尔侦察兵加成：每升一级，破译速度和新星刀伤害各提升5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Minmatar-Späherdropsuits",
     "en": "Minmatar Scout Dropsuits",
@@ -11,5 +23,6 @@
     "ru": "Разведывательные скафандры Минматар",
     "zh": "米玛塔尔侦察兵作战服"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

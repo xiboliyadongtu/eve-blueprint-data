@@ -1,5 +1,18 @@
 {
-  "typeID": 3418,
+  "basePrice": 200000.0,
+  "description": {
+    "de": "Verbesserte Fertigkeit, den Energiespeicher zu regulieren.\r\n\r\nBonus: 5% je Skillstufe auf die Kapazität des Energiespeichers des Schiffs.",
+    "en": "Skill at regulating your ship's overall energy capacity. 5% bonus to capacitor capacity per skill level.",
+    "es": "Habilidad para regular la capacidad energética general de la nave. 5 % de bonificación a la capacidad del condensador por nivel de habilidad.",
+    "fr": "Compétence liée au contrôle de la capacité énergétique globale de votre vaisseau. Augmente de 5 % par niveau de compétence la charge de capaciteur.",
+    "ja": "船の総エネルギー能力を調整するスキル。スキルレベル上昇ごとにキャパシタ容量に 5% のボーナス。",
+    "ko": "함선의 캐패시터 성능 향상을 위한 스킬입니다. 매 레벨마다 캐패시터 용량 5% 증가",
+    "ru": "Умение перераспределять общий запас энергии корабля. За каждую степень освоения навыка: на 5% повышается ёмкость накопителя энергии корабля.",
+    "zh": "管理飞船整体电容量的技能。每升一级，电容器电容量增加5%。"
+  },
+  "groupID": 1216,
+  "iconID": 33,
+  "marketGroupID": 368,
   "name": {
     "de": "Capacitor Management",
     "en": "Capacitor Management",
@@ -10,5 +23,7 @@
     "ru": "Управление накопителем",
     "zh": "电容管理学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

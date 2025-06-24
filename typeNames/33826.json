@@ -1,5 +1,19 @@
 {
-  "typeID": 33826,
+  "capacity": 1.0,
+  "description": {
+    "de": "Verbessert die optimale Reichweite und Nachführung aller Drohnen.\n\nVerbessert die optimale Reichweite, die Präzisionsreduktion, den Explosionsradius und Explosionsgeschwindigkeit aller Jägerwaffen.\n\n\n\nNachteil: Bei der Verwendung mehrerer Module des selben oder ähnlichen Typs, welche das selbe Attribut des Schiffes beeinflussen, wird deren Wirksamkeit eingeschränkt.",
+    "en": "Improves the optimal range and tracking of all drones.\r\nImproves the optimal range, falloff range, explosion radius and explosion velocity of all fighter weapons.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",
+    "es": "Mejora el alcance óptimo y el rastreo de todos los drones.\n\nMejora el alcance óptimo, el alcance efectivo, el radio de explosión y la velocidad de explosión de todas las armas del caza.\n\n\n\nPenalización: Por usar más de un tipo de módulo o módulos similares que afecten al mismo atributo de la nave.",
+    "fr": "Améliore la portée optimale et la poursuite de tous les drones.\n\nAccroît la portée optimale, la portée de déperdition, le rayon d'explosion et la vitesse d'explosion de toutes les armes des chasseurs.\n\n\n\nPénalité : utiliser plus d'un module de ce type ou plusieurs modules modifiant un même attribut du vaisseau fera l'objet d'une pénalité.",
+    "ja": "すべてのドローンの最適射程距離、追跡能力が向上する。すべての戦闘機兵器の最適射程距離、精度低下範囲、爆発半径、爆発速度を向上させる。ペナルティ： 同じタイプのモジュール、または同じ属性に関係するモジュールを複数取り付けると、ペナルティが発生する。",
+    "ko": "드론의 최적사거리와 트래킹 성능이 개선됩니다. <br><br>파이터의 폭발반경, 폭발속도, 최적사거리, 그리고 유효사거리가 향상됩니다. <br><br>페널티: 동일한 속성의 모듈 여러 개를 장착할 경우 페널티가 부여됩니다.",
+    "ru": "Повышает оптимальную дальность и скорость наводки бортового оружия всех дронов.\n\nПовышает дальность действия бортового оружия всех истребителей, а также радиус и скорость распространения взрывной волны при подрыве запускаемых ими ракет.\n\n\n\nВнимание! Установка на борт корабля двух и более модулей, влияющих на одну и ту же характеристику корабля, приведёт к снижению эффективности их действия в отношении данной характеристики.",
+    "zh": "提升所有无人机的最佳射程和跟踪速度。\n\n提升所有铁骑舰载机武器的最佳射程、失准范围、爆炸半径和爆炸速度。\n\n\n\n惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。"
+  },
+  "groupID": 646,
+  "iconID": 1640,
+  "marketGroupID": 938,
+  "metaGroupID": 4,
   "name": {
     "de": "Sentient Omnidirectional Tracking Link",
     "en": "Sentient Omnidirectional Tracking Link",
@@ -10,5 +24,9 @@
     "ru": "Sentient Omnidirectional Tracking Link",
     "zh": "缚魂全方位索敌连接"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 100.0,
+  "variationParentTypeID": 23533,
   "volume": 5.0
 }

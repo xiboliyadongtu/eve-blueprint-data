@@ -1,5 +1,18 @@
 {
-  "typeID": 3325,
+  "basePrice": 500000.0,
+  "description": {
+    "de": "Fertigkeit, Torpedos handhaben und abfeuern zu können. 5 % Bonus auf die Schadenswirkung von Torpedos je Skillstufe.",
+    "en": "Skill at the handling and firing of torpedoes. 5% bonus to torpedo damage per skill level.",
+    "es": "Habilidad para manejar y disparar torpedos. 5 % de bonificación al daño de los torpedos por nivel de habilidad.",
+    "fr": "Compétence liée à l'utilisation et au tir de torpilles. Augmente de 5 % par niveau de compétence les dégâts causés par les torpilles.",
+    "ja": "トルピードの操作、発射スキル。スキルレベル上昇ごとにトルピードのダメージが5%増加。",
+    "ko": "토피도를 운용하기 위한 스킬입니다. 매 레벨마다 토피도 피해량 5% 증가",
+    "ru": "Навык эксплуатации торпед. За каждую степень освоения навыка: на 5% повышается урон торпед.",
+    "zh": "操作和发射鱼雷的技能。每升一级，鱼雷伤害提高5%。"
+  },
+  "groupID": 256,
+  "iconID": 33,
+  "marketGroupID": 373,
   "name": {
     "de": "Torpedoes",
     "en": "Torpedoes",
@@ -10,5 +23,7 @@
     "ru": "Торпеды",
     "zh": "鱼雷概论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 23555,
+  "description": {
+    "de": "Ein Schiffslog, das noch 'behandelt' werden muss, damit es einer Prüfung durch den Zoll standhält.",
+    "en": "Ships logs that need to be 'doctored' to pass custom inspection.",
+    "es": "Registros de naves que se deben «maquillar» para pasar la inspección de aduanas.",
+    "fr": "Les journaux de bord doivent être « falsifiés » pour passer le contrôle des douanes.",
+    "ja": "航行記録。この船は修理しないと税関での検査に合格できないようだ。",
+    "ko": "세관검사를 통과하려면 항해 일지를 살짝 '수정'할 필요가 있어 보입니다.",
+    "ru": "Корабельные журналы, которые необходимо «подлечить» перед инспекцией на таможне.",
+    "zh": "需要经“造假”以混过海关检查的航行日志。"
+  },
+  "groupID": 526,
+  "iconID": 1192,
+  "mass": 1.0,
   "name": {
     "de": "Ship logs",
     "en": "Ship logs",
@@ -10,5 +22,7 @@
     "ru": "Ship logs",
     "zh": "航行日志"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

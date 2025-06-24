@@ -1,5 +1,18 @@
 {
-  "typeID": 2010,
+  "capacity": 100.0,
+  "description": {
+    "de": "Terroristen-Anführer.",
+    "en": "Terrorist Leader.",
+    "es": "Líder terrorista.",
+    "fr": "Chef terroriste.",
+    "ja": "テロリストのリーダー。",
+    "ko": "테러리스트 지도자입니다.",
+    "ru": "Terrorist Leader.",
+    "zh": "恐怖份子头领"
+  },
+  "graphicID": 1890,
+  "groupID": 286,
+  "mass": 2112000.0,
   "name": {
     "de": "Rebel Leader",
     "en": "Rebel Leader",
@@ -10,5 +23,10 @@
     "ru": "Rebel Leader",
     "zh": "叛军头领"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 38.4,
+  "sofFactionName": "minmatarnavy",
   "volume": 21120.0
 }

@@ -1,5 +1,20 @@
 {
-  "typeID": 45627,
+  "description": {
+    "de": "Dieses Subsystem nutzt dieselben grundlegenden Mechanismen wie der Signalverzerrungsverstärker. Wenn sie auf einem Tech III-Schiff montiert sind, harmonieren die auf Fullerenen basierenden Komponenten mit allen montierten ECM-Modulen. Wenn sie mit Sleeper-basierten Verbesserungen zur Erhöhung der Hitzetoleranz des Schiffes kombiniert werden, erhält man ein Schiff, das über längere Zeiträume gezielt und wirkungsvoll unterbrechen kann.",
+    "en": "This subsystem operates using the same fundamental mechanics as the signal distortion amplifier. When installed into a Tech III vessel, the fullerene-based components resonate with any ECM modules fitted. When combined with sleeper-derived enhancements to ship heat tolerances the result is a ship capable of extended periods of powerful targeted disruption.",
+    "es": "Este subsistema opera usando las mismas mecánicas fundamentales que el amplificador de distorsión de señales. Cuando se instalan en una nave T3, los componentes a base de fullereno se combinan con cualquier módulo de ECM equipado. Cuando se combina con mejoras derivadas de los sleepers para la tolerancia al calor de la nave, el resultado es una nave capaz de resistir períodos prolongados de fuerte disrupción fijada.",
+    "fr": "Ce sous-système fonctionne à l'aide des mêmes mécanismes fondamentaux que l'amplificateur de distorsion du signal. Lorsqu'ils sont installés sur un vaisseau Tech III, les composants à base de fullerène font écho aux modules CME équipés. Lorsqu'on les combine avec des améliorations dérivées de sleeper en matière de tolérance de chaleur d'un vaisseau, on obtient un vaisseau capable de perturber sa cible pendant de longues périodes.",
+    "ja": "シグナル歪曲率増幅器と同じ基本構造で動作するサブシステム。T3艦船に搭載された場合、フラーレンをベースにした部品は、搭載されているECMモジュールと共振する。スリーパー由来の船体熱耐性強化と組み合わせることで、ターゲットを絞った強力な破壊を長時間に渡って行うことが可能となる。",
+    "ko": "근본적으로 신호 왜곡 증폭기와 같은 메커니즘이 적용된 서브시스템입니다. 테크 III 함선에 장착될 경우, 퓰러렌기반 물질이 함선에 탑재된 EMC 모듈과 공명합니다. 슬리퍼 기반의 내열성 업그레이드와 합쳐지게 될 경우 지정 대상에 대한 장시간 교란을 실시할 수 있게 됩니다.",
+    "ru": "Работу этой подсистемы обеспечивают те же принципы, которые используются при создании усилителей искажения сигналов. После установки на корабль третьей техкатегории компоненты на базе фуллеренов вступают в резонанс с модулями глушения захвата целей, увеличивая их эффективность. В сочетании с разработанными на основе технологий Спящих решениями, повышающими отвод тепла, корабль с этой подсистемой может поддерживать повышенную мощность «глушения» кораблей противника течение сравнительно долгого времени.",
+    "zh": "这个子系统的运作原理与信号畸变放大器的工作原理相近似。当它被安装到一个三级科技舰船上的时候，所搭载的富勒烯技术组件就能同所装配的任何ECM设备进行协调。当与出自冬眠者的强化舰船耐热性能的组件相结合，结果是诞生出能够长时间对锁定目标进行扰断而且扰断效果强大的舰船。"
+  },
+  "graphicID": 21754,
+  "groupID": 958,
+  "iconID": 3636,
+  "marketGroupID": 1123,
+  "mass": 1200000.0,
+  "metaGroupID": 14,
   "name": {
     "de": "Tengu Core - Obfuscation Manifold",
     "en": "Tengu Core - Obfuscation Manifold",
@@ -10,5 +25,90 @@
     "ru": "Tengu Core - Obfuscation Manifold",
     "zh": "金鹏核心 - 干扰管"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "sofFactionName": "caldaribase",
+  "traits": {
+    "miscBonuses": [],
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "<b><u>Zusätzliche Basiswerte</b></u>",
+          "en": "<b><u>Additional Base Stats</b></u>",
+          "es": "<b><u>Estadísticas básicas adicionales</b></u>",
+          "fr": "<b><u>Stats de base supplémentaires</b></u>",
+          "ja": "<b><u>追加ベース統計</b></u>",
+          "ko": "<b><u>추가 기본 능력치</b></u>",
+          "ru": "<b><u>Кроме того:</b></u>",
+          "zh": "<b><u>附加基础数值</b></u>"
+        },
+        "importance": 1
+      },
+      {
+        "bonusText": {
+          "de": "+3 Mid Slots, +1 Low Slot",
+          "en": "+3 Mid Slots, +1 Low Slot",
+          "es": "+ 3 ranuras intermedias, +1 ranura inferior",
+          "fr": "+3 Emplacements intermédiaires, +1 Emplacement inférieur",
+          "ja": "ミッドスロット+3、ロースロット+1",
+          "ko": "미드 슬롯 +3, 로우 슬롯 +1",
+          "ru": "+3 разъёма средней мощности, +1 разъём малой мощности",
+          "zh": "中槽+3，低槽+1"
+        },
+        "importance": 2
+      }
+    ],
+    "types": {
+      "30548": [
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Verringerung des Modulschadens durch Überhitzung",
+            "en": "reduction in module damage from overheating",
+            "es": "de reducción del daño del módulo por sobrecalentamiento.",
+            "fr": "de réduction de la détérioration du module suite à la surchauffe",
+            "ja": "オーバーヒート時のモジュールダメージを軽減",
+            "ko": "과부하로 인한 모듈 손상 감소",
+            "ru": "уменьшается объём повреждений модулей, получаемых ими при перегрузке",
+            "zh": "装备过载损伤降低"
+          },
+          "importance": 3,
+          "unitID": 105
+        },
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf die Stärke und optimale Reichweite von <a href=showinfo:3427>ECM-Zielstörsender-Modulen</a>",
+            "en": "bonus to <a href=showinfo:3427>ECM Target Jammer</a> strength and optimal range",
+            "es": "de bonificación a la intensidad y el alcance óptimo del <a href=showinfo:3427>perturbador ECM de objetivo</a>.",
+            "fr": "de bonus à la puissance et à la portée optimale du <a href=showinfo:3427>brouilleur de cible CME</a>",
+            "ja": "<a href=showinfo:3427>ECMターゲットジャマー</a>の強度と最適射程距離が上昇",
+            "ko": "<a href=showinfo:3427>ECM 타겟 재머</a> 강도 및 최적사거리 증가",
+            "ru": "увеличивается выходная мощность и оптимальная дальность действия <a href=showinfo:3427>модулей глушения захвата целей</a>",
+            "zh": "<a href=showinfo:3427>ECM目标干扰器</a>强度和最佳射程加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 15,
+          "bonusText": {
+            "de": "Bonus auf den Nutzen der Überhitzung von <a href=showinfo:3427>ECM-Zielstörsender-</a>Modulen",
+            "en": "bonus to the benefits of overheating <a href=showinfo:3427>ECM Target Jammer</a> modules",
+            "es": "de bonificación a los beneficios de sobrecalentar los módulos de <a href=showinfo:3427>perturbador ECM de objetivo</a>.",
+            "fr": "de bonus aux avantages de la surchauffe sur les modules du <a href=showinfo:3427>brouilleur de cible CME</a>",
+            "ja": "オーバーヒートした<a href=showinfo:3427>ECMターゲットジャマー</a>モジュールの恩恵にボーナス",
+            "ko": "<a href=showinfo:3427>ECM 타겟 재머</a> 모듈 과부하에 따른 혜택 증가",
+            "ru": "усиливается влияние перегрузки на параметры <a href=showinfo:3427>модулей глушения захвата целей</a>",
+            "zh": "<a href=showinfo:3427>ECM目标干扰器</a>过载效果加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 45626,
   "volume": 40.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 81068,
+  "description": {
+    "de": "Energiekernkomponente, die hauptsächlich in Upwell-Schiffen eingesetzt wird.",
+    "en": "Power Core component used primarily in Upwell ships.",
+    "es": "Componente de núcleo de potencia usado principalmente en naves de Upwell.",
+    "fr": "Composant de réacteur principal utilisé principalement pour les vaisseaux Upwell.",
+    "ja": "主にアップウェル艦に用いられるパワーコア部品。",
+    "ko": "업웰 함선에 주로 사용되는 파워코어입니다.",
+    "ru": "Деталь ядра питания, которую обычно устанавливают на корабли «Апвелл».",
+    "zh": "主要由昇威舰船使用的能源核心构件"
+  },
+  "groupID": 334,
+  "iconID": 2196,
+  "marketGroupID": 3594,
+  "mass": 1.0,
   "name": {
     "de": "Fission Reactor Unit",
     "en": "Fission Reactor Unit",
@@ -10,5 +23,8 @@
     "ru": "Fission Reactor Unit",
     "zh": "裂变反应堆处理器"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 1.0
 }

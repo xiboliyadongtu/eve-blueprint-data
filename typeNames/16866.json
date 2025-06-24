@@ -1,5 +1,18 @@
 {
-  "typeID": 16866,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese Blase wurde um eine Subraumionenkonvergenz gelegt. Ihr Hauptzweck ist es, die aus der Konvergenz austretende Energie solange zurückzuhalten, bis es eine Methode zu deren Nutzbarmachung gibt.",
+    "en": "This bubble was built around a subspace ionization convergence.  Its main purpose is to contain the energy emanating from the convergence until a way can be found to properly harness it.",
+    "es": "Esta burbuja se construyó en torno a una convergencia de ionización subespacial. Su objetivo principal es contener la energía que emana de la convergencia hasta que se encuentre la forma de aprovecharla.",
+    "fr": "Cette bulle a été construite autour d'une convergence d'ionisation subspatiale.  Son but principal est de retenir l'énergie qui provient de la convergence jusqu'à ce qu'un bon moyen de la maîtriser soit découvert.",
+    "ja": "部分空間イオン化集合点を中心に建てられたドーム。動力化の手法が確立されるまで、集合点の放射するエネルギーを閉じ込めておく施設。",
+    "ko": "이온화 집합점을 둘러싼 구조물로 에너지를 활용할 수 있는 방법이 발견될 때까지 집합점에서 방출되는 에너지를 봉쇄합니다.",
+    "ru": "Эта сфера был построен вокруг места ионной конвергенции подпространства. Ее основное назначение — сдерживать излучаемую энергию внутри себя до тех пор, пока не будет изобретен способ овладеть ею.",
+    "zh": "这个力场围绕着一个亚空间电离聚合点。它的主要作用是在人们找到驾驭这种能量的方法前，先抑制从这个聚合点中发出的能量。"
+  },
+  "graphicID": 1685,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Magnetic Retainment Field",
     "en": "Magnetic Retainment Field",
@@ -10,5 +23,10 @@
     "ru": "Magnetic Retainment Field",
     "zh": "磁力维持力场"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 447.0,
+  "sofFactionName": "genericbase",
+  "soundID": 20176,
   "volume": 100000000.0
 }

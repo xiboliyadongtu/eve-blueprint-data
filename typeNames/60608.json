@@ -1,5 +1,17 @@
 {
-  "typeID": 60608,
+  "description": {
+    "de": "Die Sensoren zeigen an, dass diese energetische Leitung jedes Schiff, dass sie passiert, in den Normalraum zurücktransportiert.",
+    "en": "Sensor readings indicate this energetic conduit opening will return any ship that passes through it to normal space.",
+    "es": "Las lecturas del sensor indican que la apertura del conducto energético devolverá al espacio normal cualquier nave que la atraviese.",
+    "fr": "Les lectures du détecteur indiquent que l'ouverture de ce conduit énergétique renverra tout vaisseau le franchissant vers l'espace normal.",
+    "ja": "センサーの値によると、このエネルギー導管の入り口を使えばどんな艦船も通常宙域に帰還することができる。",
+    "ko": "함급과 관계없이 균열을 통과할 경우 일반 우주로 돌아갈 수 있습니다.",
+    "ru": "Согласно показаниям сенсоров, этот энергетический канал вернёт любой проходящий через него корабль в нормальное пространство.",
+    "zh": "感应器读数显示这个能量涌动的导管会将任何通过的舰船传送到普通星系中去。"
+  },
+  "graphicID": 25139,
+  "groupID": 366,
+  "mass": 100000000.0,
   "name": {
     "de": "Normal Space Return Conduit",
     "en": "Normal Space Return Conduit",
@@ -10,5 +22,7 @@
     "ru": "Normal Space Return Conduit",
     "zh": "已知空间返回通道"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 1000.0
 }

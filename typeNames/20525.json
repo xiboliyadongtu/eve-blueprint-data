@@ -1,5 +1,18 @@
 {
-  "typeID": 20525,
+  "basePrice": 150000000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Amarr-Dreadnoughts.",
+    "en": "Skill at operating Amarr dreadnoughts.",
+    "es": "Habilidad en el manejo de superacorazados amarrianos.",
+    "fr": "Compétence permettant de manœuvrer des dreadnoughts amarr.",
+    "ja": "アマー攻城艦を操作するスキル。",
+    "ko": "아마르 드레드노트 운용을 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на дредноутах производства Амаррской Империи.",
+    "zh": "操作艾玛无畏舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Amarr Dreadnought",
     "en": "Amarr Dreadnought",
@@ -10,5 +23,7 @@
     "ru": "Амаррские дредноуты",
     "zh": "艾玛无畏舰操作"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

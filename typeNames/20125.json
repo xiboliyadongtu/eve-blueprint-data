@@ -1,5 +1,72 @@
 {
-  "typeID": 20125,
+  "basePrice": 145900000.0,
+  "capacity": 345.0,
+  "description": {
+    "de": "Die Kampfaufklärer wurden mit dem Ziel gebaut, das Neueste auf dem Gebiet der elektronischen Kriegsführung zu repräsentieren und haben Einrichtungen an Bord, die die Effektivität elektronischer Gegenmaßnahmen jeglicher Art optimieren. Sie vollführen eine Aufgabe, die ihren Schwesterschiffen, den schweren Angriffskreuzern, ziemlich nahe kommt, und sind erste Wahl, wenn es darum geht, elektronische Gegenmaßnahmen unwirksam zu machen. In kleineren Gefechten sind sie verheerende Gegner, denn sie verfügen neben der elektronischen Überlegenheit auch über eine hervorragende Verteidigung.",
+    "en": "Built to represent the last word in electronic warfare, combat recon ships have onboard facilities designed to maximize the effectiveness of electronic countermeasure modules of all kinds. Filling a role next to their class counterpart, the heavy assault cruiser, combat recon ships are the state of the art when it comes to anti-support support. They are also devastating adversaries in smaller skirmishes, possessing strong defensive capabilities in addition to their electronic superiority.",
+    "es": "Las naves de reconocimiento de guerra, construidas con la tecnología más puntera de la guerra electrónica, poseen instalaciones de a bordo diseñadas para maximizar la efectividad de todos los tipos de módulos de contramedidas electrónicas. Su función se complementa con la de su homólogo de clase, el crucero de asalto pesado, y cuentan con lo más avanzado en medidas contra naves de apoyo. Por otro lado, gracias a sus potentes capacidades defensivas y su superioridad electrónica, son magníficos adversarios en escaramuzas pequeñas.",
+    "fr": "Conçus pour être le nec plus ultra en termes de guerre électronique, les vaisseaux de reconnaissance et combat disposent de systèmes embarqués afin de maximiser l'efficacité de tous les modules de contre-mesures électroniques. Venant en renfort du croiseur d'assaut lourd, leur homologue de même classe, les vaisseaux de reconnaissance et combat représentent le fin du fin en termes de vaisseaux de soutien anti-soutien. Ce sont également des adversaires redoutables lors des guérillas car, outre leur supériorité sur le plan électronique, ils disposent d'importantes capacités défensives.",
+    "ja": "戦闘偵察艦は、究極の電子戦兵器として造られており、あらゆる種類の対電子攻撃モジュールが最大の効果を発揮できるように船内設備が設計されている。強襲型巡洋艦と同クラスだが担う役割は別で、現代最高水準の技術を駆使して妨害支援を行う。電子戦に長けているだけでなく防御力も高いため、小規模の戦闘では手強い敵である。",
+    "ko": "컴뱃 리콘 크루저는 압도적인 전자전 성능을 보유한 함선으로 ECM 전용모듈이 탑재되어 전자전 능력을 한계치로 이끌어낼 수 있습니다. 어썰트 크루저와 유사한 면이 많은 컴뱃 리콘 크루저는 전장에 진입하는 적의 지원함을 방해하기 위해 최적화되었습니다. 소규모 스커미시 교전에서 특히 강력한 모습을 보이며 뛰어난 방어시스템과 전자전 성능을 지녔습니다.",
+    "ru": "Боевые дозорные крейсеры создавались как передовые корабли для электронной борьбы. Они оснащены бортовыми системами, обеспечивающими максимальную эффективность всех модулей электронного противодействия. Такие суда предназначены для совместной работы со своими «братьями» — тяжёлыми ударными крейсерами — и безупречно справляются со своей ролью, эффективно нейтрализуя вражеские средства поддержки.",
+    "zh": "战斗侦察舰是电子战的最新产物，其舰载系统能让各类电子对抗设备发挥最大效力。战斗侦察舰代表了反支援的最尖端，是对同级别的重型突击巡洋舰的最佳补充。鉴于其强大的防御能力和电子优势，它们还是较小规模冲突中的毁灭性力量。"
+  },
+  "factionID": 500003,
+  "graphicID": 1854,
+  "groupID": 906,
+  "marketGroupID": 827,
+  "mass": 11810000.0,
+  "masteries": {
+    "0": [
+      96,
+      97,
+      165,
+      102,
+      89,
+      93,
+      94
+    ],
+    "1": [
+      96,
+      97,
+      165,
+      102,
+      89,
+      93,
+      94
+    ],
+    "2": [
+      96,
+      97,
+      165,
+      102,
+      89,
+      93,
+      94
+    ],
+    "3": [
+      96,
+      97,
+      165,
+      102,
+      142,
+      89,
+      93,
+      94
+    ],
+    "4": [
+      96,
+      97,
+      165,
+      102,
+      142,
+      117,
+      89,
+      93,
+      94
+    ]
+  },
+  "metaGroupID": 2,
   "name": {
     "de": "Curse",
     "en": "Curse",
@@ -10,5 +77,110 @@
     "ru": "Curse",
     "zh": "诅咒级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 176.0,
+  "sofFactionName": "khanidinnovation",
+  "soundID": 20063,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonusText": {
+          "de": "Kann nicht von Richtungsscannern erfasst werden",
+          "en": "Cannot be detected by directional scanners",
+          "es": "No detectable con escáneres direccionales.",
+          "fr": "Indétectable par les scanners directionnels",
+          "ja": "指向性スキャナーでは検知できません",
+          "ko": "전방위 스캐너 탐지 불가",
+          "ru": "Корабли этого типа не обнаруживаются пеленгаторами",
+          "zh": "不能被定向扫描器探测到"
+        },
+        "importance": 1
+      }
+    ],
+    "types": {
+      "3335": [
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Effektivität von <a href=showinfo:3434>Waffenstörern</a>",
+            "en": "bonus to <a href=showinfo:3434>Weapon Disruptor</a> effectiveness",
+            "es": "de bonificación a la efectividad del <a href=showinfo:3434>disruptor de armas</a>.",
+            "fr": "de bonus à l'efficacité du <a href=showinfo:3434>perturbateur d'armement</a>",
+            "ja": "<a href=showinfo:3434>兵器妨害器</a>の有効性が向上",
+            "ko": "<a href=showinfo:3434>무기 디스럽터</a> 효과 증가",
+            "ru": "повышается эффективность действия <a href=showinfo:3434>постановщиков помех системам наводки</a>",
+            "zh": "<a href=showinfo:3434>武器扰断器</a>效果加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Bonus auf die HP und den Schaden von <a href=showinfo:3436>Drohnen</a>",
+            "en": "bonus to <a href=showinfo:3436>Drone</a> hitpoints and damage",
+            "es": "de bonificación a los puntos de vida y el daño de los <a href=showinfo:3436>drones</a>.",
+            "fr": "de bonus aux dégâts et aux PV des <a href=showinfo:3436>drones</a>",
+            "ja": "<a href=showinfo:3436>ドローン</a>のヒットポイントとダメージが増加",
+            "ko": "<a href=showinfo:3436>드론</a> 내구도 및 피해량 증가",
+            "ru": "увеличивается урон бортового оружия <a href=showinfo:3436>дронов</a>; увеличивается запас их прочности",
+            "zh": "<a href=\"showinfo:3436\">无人机</a>伤害和HP加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ],
+      "22761": [
+        {
+          "bonus": 40,
+          "bonusText": {
+            "de": "Bonus auf die optimale Reichweite von <a href=showinfo:3423>Nosferatu-</a> und <a href=showinfo:3423>Energieneutralisierer</a>-Modulen",
+            "en": "bonus to <a href=showinfo:3423>Energy Nosferatu</a> and <a href=showinfo:3423>Energy Neutralizer</a> optimal range",
+            "es": "de bonificación al alcance óptimo del <a href=showinfo:3423>nosferatu de energía</a> y el <a href=showinfo:3423>neutralizador energético</a>.",
+            "fr": "de bonus à la portée optimale du <a href=showinfo:3423>nosferatu à énergie</a> et du <a href=showinfo:3423>neutraliseur d'énergie</a>",
+            "ja": "<a href=showinfo:3423>エネルギーノスフェラトゥ</a>および<a href=showinfo:3423>エネルギーニュートライザー</a>の最適射程距離が拡大",
+            "ko": "<a href=showinfo:3423>에너지 노스페라투</a> 및 <a href=showinfo:3423>에너지 뉴트럴라이저</a> 최적사거리 증가",
+            "ru": "увеличивается оптимальная дальность действия <a href=showinfo:3423>дистанционных нейтрализаторов заряда</a> и <a href=showinfo:3423>устройств паразитной подзарядки накопителя</a>",
+            "zh": "<a href=showinfo:3423>掠能器</a>和<a href=showinfo:3423>能量中和器</a>最佳射程加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 20,
+          "bonusText": {
+            "de": "Bonus auf die Präzisionsabfallreichweite von <a href=showinfo:3423>Nosferatu-</a> und <a href=showinfo:3423>Energieneutralisierer</a>-Modulen",
+            "en": "bonus to <a href=showinfo:3423>Energy Nosferatu</a> and <a href=showinfo:3423>Energy Neutralizer</a> falloff range",
+            "es": "de bonificación al alcance efectivo del <a href=showinfo:3423>nosferatu de energía</a> y el <a href=showinfo:3423>neutralizador energético</a>.",
+            "fr": "de bonus à la perte du <a href=showinfo:3423>nosferatu à énergie</a> et du <a href=showinfo:3423>neutraliseur d'énergie</a>",
+            "ja": "<a href=showinfo:3423>エネルギーノスフェラトゥ</a>および<a href=showinfo:3423>エネルギーニュートライザー</a>の精度低下範囲が改善",
+            "ko": "<a href=showinfo:3423>에너지 노스페라투</a> 및 <a href=showinfo:3423>에너지 뉴트럴라이저</a> 유효사거리 증가",
+            "ru": "увеличивается добавочная дальность действия <a href=showinfo:3423>дистанционных нейтрализаторов заряда</a> и <a href=showinfo:3423>устройств паразитной подзарядки накопителя</a>",
+            "zh": "<a href=showinfo:3423>掠能器</a>和<a href=showinfo:3423>能量中和器</a>失准范围加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        },
+        {
+          "bonus": 20,
+          "bonusText": {
+            "de": "Bonus auf die Transfermenge von <a href=showinfo:3423>Nosferatu-</a> und <a href=showinfo:3423>Energieneutralisierer</a>-Modulen",
+            "en": "bonus to <a href=showinfo:3423>Energy Nosferatu</a> and <a href=showinfo:3423>Energy Neutralizer</a> drain amount",
+            "es": "de bonificación a la cantidad drenada por el <a href=showinfo:3423>nosferatu de energía</a> y el <a href=showinfo:3423>neutralizador energético</a>.",
+            "fr": "de bonus à la quantité d'énergie récupérée par le <a href=showinfo:3423>Nosferatu à énergie</a> et le <a href=showinfo:3423>neutraliseur d'énergie</a>",
+            "ja": "<a href=showinfo:3423>エネルギーノスフェラトゥ</a>および<a href=showinfo:3423>エネルギーニュートライザー</a>の消費量が改善",
+            "ko": "<a href=showinfo:3423>에너지 노스페라투</a> 및 <a href=showinfo:3423>에너지 뉴트럴라이저</a> 흡수량 증가",
+            "ru": "увеличивается пропускная способность <a href=showinfo:3423>устройств паразитной подзарядки накопителя</a> и <a href=showinfo:3423>дистанционных нейтрализаторов заряда</a>",
+            "zh": "<a href=showinfo:3423>掠能器</a>和<a href=showinfo:3423>能量中和器</a>吸取量加成"
+          },
+          "importance": 3,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 628,
   "volume": 120000.0
 }

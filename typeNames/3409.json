@@ -1,5 +1,18 @@
 {
-  "typeID": 3409,
+  "basePrice": 500000.0,
+  "description": {
+    "de": "Fortgeschrittene Kenntnisse über die Zusammensetzung von Mineralien.\r\n\r\n5% Bonus je Skillevel auf die Geschwindigkeit mit der die Materialeffizienz erforscht werden kann.",
+    "en": "Advanced knowledge of mineral composition. 5% Bonus to material efficiency research speed per skill level.",
+    "es": "Conocimientos avanzados sobre la composición de los minerales. 5 % de bonificación a la velocidad de investigación de la eficiencia de materiales por nivel de habilidad.",
+    "fr": "Connaissance avancée de la composition d'un minéral. Augmente de 5 % par niveau de compétence la vitesse de recherche d'efficacité matérielle.",
+    "ja": "無機物合成に関する上級知識。スキルレベル上昇ごとに資源利用効率研究速度が5%上昇。",
+    "ko": "미네랄 구성에 대한 상급 지식입니다. 매 레벨마다 자원효율성 연구 속도 5% 증가",
+    "ru": "Углубленное понимание минералогического состава различных материалов. За каждую степень освоения навыка: на 5% повышается скорость работ по проектам повышения материалоэффективности производства.",
+    "zh": "理解矿物构成的高级技能。每升一级，材料效率研究的速度提升5%。"
+  },
+  "groupID": 270,
+  "iconID": 33,
+  "marketGroupID": 375,
   "name": {
     "de": "Metallurgy",
     "en": "Metallurgy",
@@ -10,5 +23,7 @@
     "ru": "Металлургия",
     "zh": "冶金学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

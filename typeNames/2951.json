@@ -1,5 +1,17 @@
 {
-  "typeID": 2951,
+  "description": {
+    "de": "Die internen Komponenten der kleineren Minmatar-Schiffe sind größtenteils aus Nanofasergewebe hergestellt. Das ist kostengünstig, massearm und verfügt über niedrigere Wärmeleitungsgrenzwerte als die meisten massiven Industrieverkleidungen. Leider sind diese leichten Strukturen durch die Hochgeschwindigkeitsmanöver der Fregatten- und Abfangjäger-Piloten stressanfällig und benötigen Trägheitkompensationssysteme sowie regelmäßige Routineinspektionen.",
+    "en": "The internal components of smaller Minmatar ships are constructed largely of nanofiber mesh which is low-cost, low-mass, and has a lower heat-conduction threshold than most solid industrial sheeting. Unfortunately, the lightweight structures are also susceptible to stress from the high-velocity maneuvers performed by frigate and interceptor pilots, and require added inertial compensation systems and routine inspections.",
+    "es": "Los componentes internos de las naves minmatarianas más pequeñas están construidos en gran parte con malla de nanofibra de bajo coste, de masa baja y con un umbral de conducción de calor inferior al de la mayoría de las láminas industriales sólidas. Por desgracia, las estructuras ligeras también son susceptibles al estrés de las maniobras de alta velocidad que realizan los pilotos de fragatas e interceptores, así que requieren sistemas adicionales de compensación inercial e inspecciones de rutina.",
+    "fr": "Les composants internes des petits vaisseaux minmatar sont généralement fabriqués à partir de mailles en nano-fibres, moins chères et moins lourdes, et présentant une conduction thermique plus faible que la plupart des revêtements industriels. Malheureusement, les structures légères sont susceptibles de souffrir des manœuvres à grande vitesse effectuées par les pilotes des frégates et des intercepteurs, et nécessitent par conséquent davantage de systèmes de compensation d'inertie et d'inspections de routine.",
+    "ja": "ミンマターの小型船の内部部品の多くは、低コスト、低質量のナノファイバーメッシュで構成されており、他の多くの産業用板金よりも熱伝導しきい値が低い。残念なことに、この軽量構造は、フリゲートや要撃型フリゲートでの高速移動による圧力の影響を受けやすく、慣性補正システムと定期検査を別途必要とする。",
+    "ko": "민마타 소형 함선에 들어가는 부품들은 대부분 저비용에 저중량이고 열전도 한계점이 낮은 나노섬유로 구성되어있습니다. 무게가 가볍기 때문에 프리깃이나 인터셉터 파일럿의 고속비행에 무리가 쉽게 가기 때문에 추가적 관성 보정 시스템 장착과 주기적 정밀 검사가 필요합니다.",
+    "ru": "Основным материалом при изготовлении инерционных модулей, используемых на небольших кораблях Minmatar, является сетка из нановолокна, дешевая, легкая и с более низким порогом теплопроводности, чем у большинства твердотельных промышленных материалов. К сожалению, эти легкие конструкции часто подвергаются большим нагрузкам при выполнении сложных маневров пилотами фрегатов и перехватчиков — лучше всего они служат при наличии систем инерционной компенсации на борту и хороших механиков на базе.",
+    "zh": "小型米玛塔尔舰船的内部组件大都由纳米纤维组成。这种纤维造价低、质量小，与大多数坚实的工业级面板比起来，导热阈值低。不过，这种轻量级结构并不能很好地应对护卫舰与截击舰在高速运动中所产生的巨大惯性作用力，它们因此需要配备惯性弥补系统并定期接受检查。"
+  },
+  "groupID": 314,
+  "iconID": 3196,
+  "mass": 100.0,
   "name": {
     "de": "Large Crate of Improved Inertial Compensation Systems",
     "en": "Large Crate of Improved Inertial Compensation Systems",
@@ -10,5 +22,7 @@
     "ru": "Large Crate of Improved Inertial Compensation Systems",
     "zh": "一大箱改进型惯性弥补系统"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 100.0
 }

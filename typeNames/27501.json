@@ -1,5 +1,21 @@
 {
-  "typeID": 27501,
+  "basePrice": 2000.0,
+  "description": {
+    "de": "Ein schwere Lenkwaffe der Mordu mit nuklearem Sprengkopf und automatisiertem Lenksystem.",
+    "en": "A Mordu heavy missile with a nuclear warhead and automatic guidance system.",
+    "es": "Misil pesado de Mordu con una ojiva nuclear y un sistema de guiado automático.",
+    "fr": "Missile lourd mordu équipé d'une ogive nucléaire et d'un système de guidage automatique.",
+    "ja": "核弾頭と自動誘導システムを搭載したモードゥ式ヘビーミサイル。",
+    "ko": "유도시스템과 핵탄두가 탑재된 모르두 헤비 미사일입니다.",
+    "ru": "Тяжёлая ракета легиона Морду с ядерной боеголовкой и автоматической системой наводки.",
+    "zh": "一种莫德团重型导弹，带有核弹头和自动导引系统。"
+  },
+  "graphicID": 20050,
+  "groupID": 395,
+  "iconID": 1338,
+  "marketGroupID": 1192,
+  "mass": 1000.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Legion Nova Auto-Targeting Heavy Missile",
     "en": "Legion Nova Auto-Targeting Heavy Missile",
@@ -10,5 +26,10 @@
     "ru": "Legion Nova Auto-Targeting Heavy Missile",
     "zh": "圣卒级新星自动锁定重型导弹"
   },
+  "portionSize": 100,
+  "published": true,
+  "raceID": 2,
+  "radius": 300.0,
+  "variationParentTypeID": 1822,
   "volume": 0.03
 }

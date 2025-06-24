@@ -1,5 +1,18 @@
 {
-  "typeID": 3310,
+  "basePrice": 60000.0,
+  "description": {
+    "de": "Fertigkeit zum schnellen Entladen von Geschütztürmen.\n\n\n\n4 % Bonus auf die Feuerrate von Geschütztürmen je Skillstufe.",
+    "en": "Skill at the rapid discharge of weapon turrets. 4% bonus per skill level to weapon turret rate of fire.",
+    "es": "Habilidad de descarga rápida de torretas de armas. 4 % de bonificación por nivel de habilidad a la cadencia de tiro de las torretas de armas.",
+    "fr": "Compétence liée à l'utilisation des tourelles à une cadence élevée. Augmente de 4 % par niveau de compétence la cadence de tir des tourelles.",
+    "ja": "タレット兵器の発射速度を速めるスキル。スキルレベル上昇ごとにタレット兵器の発射間隔が4%短縮。",
+    "ko": "터렛의 발사 속도를 증가시키는 스킬입니다. 매 레벨마다 터렛 연사속도 4% 증가",
+    "ru": "Навык ведения скорострельного орудийного огня. За каждую степень освоения навыка: на 4% повышается скорострельность всех типов орудий.",
+    "zh": "增加炮台射击速度的技能。每升一级，武器炮台发射速率提高4%。"
+  },
+  "groupID": 255,
+  "iconID": 33,
+  "marketGroupID": 364,
   "name": {
     "de": "Rapid Firing",
     "en": "Rapid Firing",
@@ -10,5 +23,7 @@
     "ru": "Повышение скорострельности орудий",
     "zh": "高速射击理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

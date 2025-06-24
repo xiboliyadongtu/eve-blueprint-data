@@ -1,5 +1,18 @@
 {
-  "typeID": 32190,
+  "capacity": 120.0,
+  "description": {
+    "de": "Der Älteste der Hüttensiedlung und der Vertreter seiner Gruppe.",
+    "en": "The Elder of the shanty town colony, and the representative of this group.",
+    "es": "El Ilustre de la colonia chabolista, representante de este grupo.",
+    "fr": "Les Anciens de cette colonie bidonville, et les représentants de l'ensemble du groupe.",
+    "ja": "貧しいコロニーのエルダーであり、このグループの代表者。",
+    "ko": "엘더는 빈민 콜로니를 대표합니다.",
+    "ru": "Старейшина колонии хибар и представитель этой группы.",
+    "zh": "贫民区殖民地的长者，也是这个群体的代表。"
+  },
+  "graphicID": 1885,
+  "groupID": 705,
+  "mass": 10900000.0,
   "name": {
     "de": "The Elder",
     "en": "The Elder",
@@ -10,5 +23,10 @@
     "ru": "The Elder",
     "zh": "长者"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 2,
+  "radius": 150.0,
+  "sofFactionName": "minmatarnavy",
   "volume": 109000.0
 }

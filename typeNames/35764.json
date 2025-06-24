@@ -1,5 +1,18 @@
 {
-  "typeID": 35764,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese mysteriöse Struktur scheint eine Variante eines Signalstörers zu beherbergen. Ihre äußeren Verteidigungssysteme scheinen jedoch offline zu sein, wodurch die Installation anfällig für feindliche Aktionen wird.",
+    "en": "This enigmatic structure appears to house a variation of a signal disruptor. Although its outer defense system appears offline, rendering the installation susceptible to any hostile actions.",
+    "es": "Esta enigmática estructura parece albergar la variación de un disruptor de señales. Sin embargo, su sistema de defensa exterior parece estar desconectado, lo que hace que la instalación sea susceptible a cualquier maniobra hostil.",
+    "fr": "Cette structure énigmatique semble contenir un type de perturbateur de signal. Son système de défense externe apparaît hors ligne, ce qui rend l'installation sensible à toute action hostile.",
+    "ja": "この謎のストラクチャは信号妨害器の類を格納しているようだ。ただし外部の防衛システムはオフラインになっており、基地が攻撃を受けやすい状態になっている。",
+    "ko": "각종 신호 교란기가 설치된 구조물입니다. 방어체계가 오프라인 상태이기 때문에 외부 공격에 매우 취약한 상태입니다.",
+    "ru": "В этом загадочном сооружении, предположительно, находится некий вариант помехопостановщика. Внешние системы защиты выглядят отключенными: сооружение уязвимо для любых враждебных действий.",
+    "zh": "这个神秘的建筑里似乎有一种信号干扰装置。尽管它的外围防御系统都已失效，但它对任何敌对行为仍十分敏感。"
+  },
+  "graphicID": 3567,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Unstable Signal Disruptor",
     "en": "Unstable Signal Disruptor",
@@ -10,5 +23,11 @@
     "ru": "Нестабильный помехопостановщик",
     "zh": "不稳定的信号干扰器"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 64,
+  "radius": 7684.0,
+  "sofFactionName": "sleeperbase",
+  "soundID": 20187,
   "volume": 100000000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 30524,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dies war wohl einst ein wichtiges Motorenteil, allerdings können Sie ihm nun ohne die Hilfe eines Analysators nichts mehr entlocken.",
+    "en": "This might once have been an important piece of an engine, but now you're not getting anything out of it without the help of an analyzer.",
+    "es": "En su día igual fue el componente importante de algún motor, pero ahora no vas a sacar nada útil de él sin la ayuda de un analizador.",
+    "fr": "Autrefois, il s'agissait peut-être d'une pièce importante d'un moteur, mais vous ne pourrez rien en tirer sans l'aide d'un analyseur.",
+    "ja": "これは、エンジンの重要な部品だった可能性がある。しかし、アナライザーがなければ何も知ることができない。",
+    "ko": "한때 엔진의 주요 부품이었지만 현재는 분석기의 도움 없이는 작동이 불가능한 수준입니다.",
+    "ru": "Это когда-то могло быть важной частью двигателя, однако сейчас вы не сможете получить из него ничего без помощи анализатора.",
+    "zh": "这可能以前是一个引擎上的重要部件，但要是没有分析仪的那也拿它没办法。"
+  },
+  "graphicID": 3705,
+  "groupID": 1207,
+  "mass": 10000.0,
   "name": {
     "de": "Abandoned Sleeper Artifact",
     "en": "Abandoned Sleeper Artifact",
@@ -10,5 +23,9 @@
     "ru": "Abandoned Sleeper Artifact",
     "zh": "废弃的冬眠者人造物件"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 314.0,
+  "sofFactionName": "debris",
   "volume": 27500.0
 }

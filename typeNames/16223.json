@@ -1,5 +1,17 @@
 {
-  "typeID": 16223,
+  "description": {
+    "de": "Unterstützt in gewisser Weise den Schild des Kontrollturms.",
+    "en": "Aids control tower shield in some way.",
+    "es": "Ayuda en cierto modo al escudo de la torre de control.",
+    "fr": "Aide la tour de contrôle à renforcer ses boucliers.",
+    "ja": "コントロールタワーシールドのサポート。",
+    "ko": "관제타워의 실드에 어떻게 해서든 도움을 줍니다.",
+    "ru": "Снабжает дополнительной мощностью силовой щит башни управления базой.",
+    "zh": "以某种方式对控制塔护盾提供支援。"
+  },
+  "graphicID": 2380,
+  "groupID": 418,
+  "mass": 200000000.0,
   "name": {
     "de": "Shield Generation Array",
     "en": "Shield Generation Array",
@@ -10,5 +22,9 @@
     "ru": "Shield Generation Array",
     "zh": "护盾发生器阵列"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 1263.0,
+  "sofFactionName": "genericmetal",
   "volume": 1.0
 }

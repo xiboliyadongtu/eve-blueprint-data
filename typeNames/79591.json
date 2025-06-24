@@ -1,5 +1,19 @@
 {
-  "typeID": 79591,
+  "capacity": 50.0,
+  "description": {
+    "de": "<a href=showinfo:30//500014>ORE</a> erkannte die dringende Notwendigkeit eines Schiffes, das in unsicheren Gebieten schnell operieren kann. Sie wurde für alle Kapselpiloten entwickelt, die dem angesehenen Gewerbe des Bergbaus nachgehen möchten, egal wie unerfahren sie im Umgang mit den Gefahren von New Eden sind. Die Venture hat erstaunliche Fähigkeiten, schnell zu den gesuchten Erzen und Gasen zu bohren, sie mit der für den Bergbau im feindlichen Weltraum notwendigen Geschwindigkeit abzubauen und relativ unversehrt zu entkommen.",
+    "en": "Recognizing the dire need for a ship capable of fast operation in unsafe territories, <a href=showinfo:30//500014>ORE</a> created the Venture. It was conceived as a vessel primed and ready for any capsuleer, no matter how new to the dangers of New Eden they might be, who wishes to engage in the respectable trade of mining.\r\n\r\nThe Venture has amazing abilities to quickly drill through to the ores and gases it's after, harvesting them at the speed necessary for mining in hostile space, and getting out relatively unscathed.",
+    "es": "<a href=showinfo:30//500014>ORE</a> creó la Venture porque necesitaba una nave capaz de actuar con rapidez en zonas peligrosas. Fue concebida como una nave preparada para cualquier capsulista que desee dedicarse al respetable oficio de la minería, independientemente de su experiencia con los peligros de Nuevo Edén.\r\n\r\nLa Venture es increíble para perforar rápidamente las menas y los gases que busca, recogerlos a la velocidad necesaria para dedicarse a la minería en lugares hostiles y salir relativamente ilesa.",
+    "fr": "Reconnaissant le besoin urgent d'un vaisseau capable d'opérer rapidement dans des territoires non sécurisés, <a href=showinfo:30//500014>ORE</a> a conçu le Venture. Il a été pensé comme un vaisseau prêt et adapté pour tout capsulier, quel que soit son niveau de connaissance des dangers de New Eden, désireux de s'engager dans la profession respectable de l'extraction minière. Le Venture possède des capacités étonnantes pour extraire rapidement les minerais et les gaz qu'il recherche, les récoltant à la vitesse nécessaire pour l'extraction minière dans l'espace hostile, et parvient à s'échapper relativement indemne.",
+    "ja": "安全でない宙域で手早く作業を済ませられる採掘艦を求める切実な声に応え、<a href=showinfo:30//500014>ORE</a>が開発したのがベンチャーだ。カプセラなら経験を問わず操縦できる艦船で、危険に満ちたニューエデンに踏み込んで日が浅くても、トレードや採掘用の採掘艦としてすぐ使える。\r\n\r\nベンチャーは驚くべき高速掘削能力をもち、危険な宙域で鉱石やガスを手早く採掘し、敵に沈められる前に脱出できるだけの高速作業を実現してくれます。",
+    "ko": "위험 지역에서의 빠른 임무 수행 능력을 보유한 함선이 시급하게 필요해진 <a href=showinfo:30//500014>ORE</a>는 벤처를 개발하였습니다. 캡슐리어라면 누구나 쉽게 조종이 가능한 함선으로, 뉴에덴에 산재한 각종 위험에 대한 지식이 없더라도 비교적 편하게 광업에 진출할 수 있도록 설계가 되었습니다.<br><br>벤처는 가스 및 광물 추출 능력이 탁월하며, 채굴 속도가 빨라 적대적인 지역에서도 신속한 작업 후 큰 피해 없이 탈출이 가능합니다.",
+    "ru": "В ответ на растущую потребность в кораблях, пригодных для проведения краткосрочных буровых операций на неспокойных территориях, <a href=showinfo:30//500014>ОРЭ</a> создала новый фрегат «Венчур». Он задумывался как корабль, которым сможет управлять любой капсулёр, желающий приобщиться к буровому ремеслу, независимо от его лётного стажа. «Венчур» способен быстро и эффективно бурить породы и собирать ценные газы, что позволяет ему не задерживаться в опасных районах и вовремя ускользать от врагов.",
+    "zh": "<a href=showinfo:30//500014>联合矿业</a>意识到市面上紧缺一种能够在危险地区快速作业的舰船，于是他们创造了冲锋者级。每一位克隆飞行员，无论资历深浅能力高低，只要有志于从事矿业贸易，都可以驾驶这艘船进行作业。冲锋者级的能力十分出色，能够快速钻探矿石和气体，并以极快的速度进行采集，即使在危险的敌对地区也能迅速撤离。"
+  },
+  "factionID": 500014,
+  "graphicID": 20198,
+  "groupID": 4673,
+  "mass": 1200000.0,
   "name": {
     "de": "ORE Venture",
     "en": "ORE Venture",
@@ -10,5 +24,9 @@
     "ru": "ORE Venture",
     "zh": "联合矿业冲锋者级"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 41.0,
+  "sofFactionName": "orebase",
   "volume": 5000.0
 }

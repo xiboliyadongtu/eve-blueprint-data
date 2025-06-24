@@ -1,5 +1,17 @@
 {
-  "typeID": 364597,
+  "basePrice": 787000.0,
+  "description": {
+    "de": "Skill in der Bedienung von Caldari-Späherdropsuits. Schaltet den Zugriff auf Caldari-Späherdropsuits frei. Standard ab Stufe 1, erweitert ab Stufe 3 und Prototypen ab Stufe 5. Späherdropsuitbonus: +15% Bonus auf die PG/CPU-Kosten des Tarnungsfelds pro Skillstufe. Caldari-Späherdropsuitbonus: +10% Bonus auf den Scanradius und 3% auf das Scanprofil des Dropsuits pro Skillstufe.",
+    "en": "Skill at operating Caldari Scout dropsuits.\n\nUnlocks access to Caldari Scout dropsuits. Standard at lvl.1; advanced at lvl.3; prototype at lvl.5.\n\nScout Suit Bonus: +15% bonus to PG/CPU cost of cloak field per level.\nCaldari Scout Bonus: +10% bonus to dropsuit scan radius, 3% to scan profile per level.",
+    "es": "Habilidad de manejo de trajes de salto de explorador Caldari. Desbloquea el acceso a los trajes de salto de explorador Caldari: Estándar en el nivel 1, avanzados en el nivel 3 y prototipos en el nivel 5. Bonificación de traje de explorador: +15% al coste de RA/CPU del campo de visibilidad por nivel. Bonificación de traje de explorador Caldari: +10% al radio del escáner del traje de salto, +3% al perfil de emisiones por nivel.",
+    "fr": "Compétence permettant d'utiliser les combinaisons Éclaireur Caldari. Déverrouille l'accès aux combinaisons Éclaireur Caldari. Standard au niv.1 ; avancé au niv.3 ; prototype au niv.5. Bonus combinaison Éclaireur : +15 % de réduction d'utilisation de PG/CPU du champ de camouflage par niveau. Bonus Éclaireur Caldari : +10 % de bonus au rayon de balayage de la combinaison, 3 % de profil de balayage par niveau.",
+    "it": "Abilità nell'utilizzo delle armature da ricognitore Caldari. Sblocca l'accesso alle armature da ricognitore Caldari. Standard al liv. 1; avanzate al liv. 3; prototipo al liv. 5. Bonus armatura da ricognitore: +15% bonus all'utilizzo della rete energetica/CPU del campo di copertura per livello. Bonus ricognitore Caldari: +10% di bonus al raggio di scansione dell'armatura, 3% al profilo di scansione per livello.",
+    "ja": "カルダリスカウト降下スーツを扱うためのスキル。カルダリスカウト降下スーツが使用できるようになる。レベル1で標準型、レベル3で高性能、レベル5でプロトタイプ。スカウトスーツボーナス: レベル上昇ごとに、クロークフィールドのPG/CPU消費量が15%増加する。カルダリスカウトボーナス：レベル上昇ごとに、降下スーツスキャン半径が１０％、スキャンプロファイルが３％増加する。",
+    "ko": "정찰 강하슈트를 운용하기 위한 스킬입니다. <br><br>칼다리 정찰 강하슈트를 잠금 해제합니다. 레벨 1 - 일반, 레벨 3 - 상급, 레벨 5 - 프로토타입 <br><br>정찰 슈트 보너스:<br><br>매 레벨마다 클로킹 필드 PG/CPU 사용량 15% 감소 <br><br>칼다리 정찰 슈트 보너스:<br><br>매 레벨마다 강하슈트 탐지 반경 10% 증가, 시그니처 반경 3% 증가",
+    "ru": "Навык обращения с разведывательными скафандрами Калдари. Позволяет использовать разведывательные скафандры Калдари. Стандартные - на уровне 1; усовершенствованные - на уровне 3; прототипы - на уровне 5. Бонус разведывательного скафандра: 15% снижение расходов ресурсов ЭС/ЦПУ на маскирующее поле на каждый уровень. Бонус к разведывательному скафандру Калдари : +10% к радиусу сканирования скафандра , 3% к профилю сканирования на каждый уровень.",
+    "zh": "Skill at operating Caldari Scout dropsuits.\n\nUnlocks access to Caldari Scout dropsuits. Standard at lvl.1; advanced at lvl.3; prototype at lvl.5.\n\nScout Suit Bonus: +15% bonus to PG/CPU cost of cloak field per level.\nCaldari Scout Bonus: +3% bonus to dropsuit scan radius, 5% to scan precision per level."
+  },
+  "groupID": 351648,
   "name": {
     "de": "Caldari-Späherdropsuits",
     "en": "Caldari Scout Dropsuits",
@@ -11,5 +23,6 @@
     "ru": "Разведывательные скафандры Калдари",
     "zh": "加达里侦察兵作战服"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 76438,
+  "description": {
+    "de": "Die Überreste eines zerstörten Imperialen Schiffswerfer-Signalfeuers.",
+    "en": "The remains of a destroyed Imperial Shipcaster Beacon.",
+    "es": "Los restos de una baliza de lanzador interestelar del Imperio destruida.",
+    "fr": "Les vestiges d'une balise de lance-vaisseaux impériale détruite.",
+    "ja": "破壊された帝国艦艇キャスタービーコンの残骸。",
+    "ko": "파괴된 제국 함선전송기 비컨의 잔해입니다.",
+    "ru": "Обломки уничтоженного маяка амаррского кораблепускателя.",
+    "zh": "已摧毁的帝国舰船弹射台信标残骸。"
+  },
+  "graphicID": 25933,
+  "groupID": 186,
+  "mass": 10000.0,
   "name": {
     "de": "Imperial Shipcaster Beacon Wreck",
     "en": "Imperial Shipcaster Beacon Wreck",
@@ -10,5 +22,9 @@
     "ru": "Imperial Shipcaster Beacon Wreck",
     "zh": "帝国舰船弹射台信标残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "amarrnavy_upw_trig",
   "volume": 27500.0
 }

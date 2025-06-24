@@ -1,5 +1,18 @@
 {
-  "typeID": 34301,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Diese Einheit kann aus der Ferne die Steuerung einer nahen Druckanlage überbrücken. Vielleicht kann es benutzt werden, um für kurze Zeit den Fluss überhitzten Plasmas aus der schwer beschädigten Station einzudämmen, wobei Sie vermuten, dass ein Fehlschlag ins Gegenteil ausarten könnte.",
+    "en": "This unit can remotely override the controls of the nearby pressure station. Perhaps it can be used to temporarily decrease the flow of overheated plasma from the badly damaged station, though you surmise a failure could result in something backfiring.",
+    "es": "Esta unidad puede anular a distancia los controles de la estación de presión cercana. Es posible que se pueda usar para reducir temporalmente el flujo de plasma sobrecalentado de la estación dañada, aunque supones que un fallo podría causar un efecto indeseado.",
+    "fr": "Cette unité peut remplacer à distance les commandes de la station de pression la plus proche. Vous pouvez probablement l'utiliser pour faire diminuer le flux de plasma surchauffé de la station endommagée. Mais vous pourriez vous en recevoir plein la tête si vous échouez.",
+    "ja": "離れた位置から近くの圧力ステーションのコントロールを無効にすることができるユニット。これにより、大きく損傷したステーションから出る過熱プラズマの流量を一時的に減少させられるかもしれない。ただし、失敗すればそれが裏目に出てしまう可能性もある。",
+    "ko": "주변 기압 관측소의 시스템을 원격으로 제어할 수 있는 시설입니다. 심하게 손상된 정거장의 플라즈마 과열 속도를 잠시라도 낮추는 용도로 쓰일 수 있지만 실패한다면 역효과를 초래할 수 있습니다.",
+    "ru": "Этот объект способен дистанционно управлять находящейся неподалёку станцией давления. Возможно, с его помощью удастся ослабить поток перегретой плазмы; впрочем, ошибка может привести к определённой «отдаче».",
+    "zh": "这个元件能远程控制周围的加压站。它也许可以用来暂时减弱严重毁坏的空间站传来的过热的等离子流，不过操作失败也可能造成严重后果。"
+  },
+  "graphicID": 1680,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Remote Pressure Control Unit",
     "en": "Remote Pressure Control Unit",
@@ -10,5 +23,11 @@
     "ru": "Remote Pressure Control Unit",
     "zh": "远程压力控制元件"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 205.0,
+  "sofFactionName": "genericbase",
+  "soundID": 20177,
   "volume": 27500.0
 }

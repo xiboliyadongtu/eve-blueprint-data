@@ -1,5 +1,17 @@
 {
-  "typeID": 353472,
+  "basePrice": 567000.0,
+  "description": {
+    "de": "Skill zur Benutzung von Schwarmwerfern.\n\n+3% auf den Schaden von Schwarmwerferraketen pro Skillstufe.",
+    "en": "Skill at handling swarm launchers.\r\n\r\n+3% swarm launcher missile damage against armor per level.",
+    "es": "Habilidad de manejo de lanzacohetes múltiples.\n\n+3% al daño de los lanzacohetes múltiples por nivel.",
+    "fr": "Compétence permettant de manipuler les lance-projectiles.\n\n+3 % de dommages des missiles du lance-projectiles multiples par niveau.",
+    "it": "Abilità nel maneggiare il lancia-sciame.\n\n+3% ai danni inflitti dal lancia-sciame per livello.",
+    "ja": "スウォームランチャーを扱うスキル。\n\nレベル上昇ごとに、スウォームランチャーミサイルがアーマーに与えるダメージが3%増加する。",
+    "ko": "스웜 런처 조작을 위한 스킬입니다.<br><br>매 레벨마다 장갑에 가해지는 피해량 3% 증가",
+    "ru": "Навык обращения со сварм-ракетометами.\n\n+3% к урону, наносимому ракетами сварм-ракетомета, на каждый уровень.",
+    "zh": "使用蜂群发射器的技能。每升一级，蜂群发射器对装甲造成的伤害提高3%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Fertigkeit: Schwarmwerfer",
     "en": "Swarm Launcher Proficiency",
@@ -11,5 +23,7 @@
     "ru": "Эксперт по сварм-ракетометам",
     "zh": "集束发射器熟练度"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

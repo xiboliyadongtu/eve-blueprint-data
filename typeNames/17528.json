@@ -1,5 +1,19 @@
 {
-  "typeID": 17528,
+  "description": {
+    "de": "Verbessert die Energiespeicherladerate auf Kosten der Schildverstärkung.",
+    "en": "Increases capacitor recharge rate at the expense of shield boosting.",
+    "es": "Aumenta el índice de carga del condensador en detrimento de la potenciación del escudo.",
+    "fr": "Améliore la vitesse de recharge du capaciteur au détriment du booster de bouclier.",
+    "ja": "シールド効果を下げることにより、キャパシタ充電速度を高める。",
+    "ko": "캐패시터 충전속도가 증가하는 반면 실드 부스트의 효율이 감소합니다.",
+    "ru": "Увеличивает скорость подзарядки конденсатора за счет уменьшения эффективности систем накачки щита.",
+    "zh": "牺牲护盾回充能力来提高电容充电速率。"
+  },
+  "groupID": 767,
+  "iconID": 26455,
+  "marketGroupID": 667,
+  "mass": 20.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Imperial Navy Capacitor Power Relay",
     "en": "Imperial Navy Capacitor Power Relay",
@@ -10,5 +24,9 @@
     "ru": "Imperial Navy Capacitor Power Relay",
     "zh": "帝国海军电容能源继电器"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 500.0,
+  "variationParentTypeID": 1445,
   "volume": 5.0
 }

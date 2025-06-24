@@ -1,5 +1,18 @@
 {
-  "typeID": 28144,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Dieser Wachturm wird den Energiespeicherkern jedes Zieles stören, das er als Bedrohung einstuft.",
+    "en": "This sentry tower will disrupt the capacitor core of any target it considers to be a threat.",
+    "es": "Esta torre centinela inhibirá el núcleo del condensador de cualquier objetivo que considere una amenaza.",
+    "fr": "Cette tour de surveillance perturbe le capaciteur principal de toute cible considérée comme une menace.",
+    "ja": "敵と見なしたターゲットのキャパシタコアを無力化するセントリータワー。",
+    "ko": "센트리 타워는 위협으로 간주되는 대상의 캐패시터 코어를 무력화시킵니다.",
+    "ru": "Эта автоматическая боевая станция предназначена для нейтрализации заряда конденсатора кораблей, опознанных ею как вражеские.",
+    "zh": "这座岗哨塔将对其视为威胁的目标进行电容核心干扰。"
+  },
+  "graphicID": 2434,
+  "groupID": 383,
+  "mass": 1000.0,
   "name": {
     "de": "Angel Energy Neutralizer Sentry II",
     "en": "Angel Energy Neutralizer Sentry II",
@@ -10,5 +23,9 @@
     "ru": "Angel Energy Neutralizer Sentry II",
     "zh": "天使能量中和器炮塔 II"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 1415.0,
+  "sofFactionName": "angelbase",
   "volume": 1000.0
 }

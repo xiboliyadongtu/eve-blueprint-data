@@ -1,5 +1,21 @@
 {
-  "typeID": 41328,
+  "basePrice": 80000.0,
+  "description": {
+    "de": "Die Spitzmunition wurde dafür entworfen, um enormen Schaden an Zielen auf extrem weite Entfernungen zu verursachen. Sie besteht aus hochdichten Plutonium-Sabot, das auf einer kleinen Raketeneinheit montiert ist und die eine erhebliche Erhöhung der Einschlagsgeschwindigkeit liefert. Allerdings ist die Ladung in der Nahdistanz so gut wie nutzlos.\n\n80% höhere optimale Reichweite.\n75% niedrigere Nachführgeschwindigkeit.\n\nHinweis: Diese Munition kann nur von Capital-Railguns der Technologiestufe II und Fraktionsvarianten benutzt werden.",
+    "en": "The spike munition package is designed to deliver huge damage to targets at extreme distances. It consists of a superdense plutonium sabot mounted on a small rocket unit that provides a substantial boost to the sabots impact velocity. However the charge is next to useless at close range.\n\n80% increased optimal range.\n75% reduced tracking speed.\n\nNote: This ammunition can only be used by capital tech level II and faction Railguns.",
+    "es": "El paquete de munición Spike está diseñado para causar grandes daños a los objetivos desde distancias extremas. Consiste en un perforante de plutonio superdenso montado en una pequeña unidad de cohete que proporciona un impulso sustancial a la velocidad de impacto. Sin embargo, la carga es prácticamente inútil a poca distancia.\n\nAlcance óptimo aumentado un 80 %.\nVelocidad de rastreo reducida un 75 %.\n\nAviso: Esta munición solo es compatible con cañones electromagnéticos de nivel capital T2 y de facciones.",
+    "fr": "Le pack de munitions pieux est conçu pour causer d'énormes dégâts à des distances extrêmes. Ce sabot de plutonium très dense est monté sur une petite roquette qui accroît sensiblement la vitesse d'impact du sabot. Le pieux est néanmoins une munition médiocre à courte portée.\n\nAugmente de 80% la portée optimale.\nRéduit de 75% la vitesse de poursuite.\n\nRemarque : ces munitions sont réservées aux canons à rail capitaux de tech II et faction.",
+    "ja": "スパイク弾パッケージは、超遠距離のターゲットに対して高い攻撃力を発揮するように設計されている。小型のロケットユニットに超高密度プルトニウムサボット弾が搭載されており、このロケットによってサボット弾の命中時速度は極めて高いものとなっている。ただし、近距離ではほとんど役に立たない。\n\n最適射程距離が80%延長。\nトラッキング速度が75%減少。\n\n注意: この弾はキャピタルT2、キャピタルファクションレールガン専用である。",
+    "ko": "초장거리 교전 시 대형 함선 대상으로 막대한 피해를 입히는 탄약입니다. 고농도 플루토늄 사봇을 소형 로켓추진기에 탑재함으로써 타격 시 사봇이 추가 가속도를 획득합니다. 하지만 근거리 교전 시 위력이 급격히 감소합니다. <br><br>최적사거리 80% 증가 <br>트래킹 속도 75% 감소 <br><br>참고: 캐피탈 테크 II 및 팩션 레일건에만 사용할 수 있습니다.",
+    "ru": "Боекомплект типа «Спайк» разработан для нанесения значительного урона целям на огромных расстояниях. Он состоит из сверхплотного плутониевого сердечника и небольшого ракетного носителя, значительно увеличивающего скорость снаряда у цели. К сожалению, этот заряд практически бесполезен при стрельбе на короткой дистанции.\n\nНа 80% повышается оптимальная дальность ведения огня.\nНа 75% снижается скорость наводки орудий.\n\nВнимание! Данные боеприпасы используются только в рельсотронах КБТ-класса второй техкатегории, а также пиратских или армейских модификаций.",
+    "zh": "“钉刺”型弹药套件可对超远距离目标造成巨大破坏。它是一种装载在小型火箭上的超浓缩锰萨博弹，小型火箭为其提供强大的撞击速度。然而这种弹药在近距离基本没用。\n\n最佳射程增加80%。\n跟踪速度降低75%。\n\n注：只能用于旗舰级二级科技或势力磁轨炮。"
+  },
+  "graphicID": 1313,
+  "groupID": 373,
+  "iconID": 2847,
+  "marketGroupID": 2255,
+  "mass": 0.5,
+  "metaGroupID": 2,
   "name": {
     "de": "Spike XL",
     "en": "Spike XL",
@@ -10,5 +26,9 @@
     "ru": "Spike XL",
     "zh": "钉刺 XL"
   },
+  "portionSize": 100,
+  "published": true,
+  "radius": 10.0,
+  "variationParentTypeID": 17656,
   "volume": 0.125
 }

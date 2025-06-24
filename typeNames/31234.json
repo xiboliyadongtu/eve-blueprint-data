@@ -1,5 +1,19 @@
 {
-  "typeID": 31234,
+  "description": {
+    "de": "Diese Schiffsmodifikation wurde entworfen, um den CPU-Bedarf von Modulen zu senken, die den Skill Electronics Upgrades erfordern.",
+    "en": "This ship modification is designed to reduce the CPU need of modules which require the electronics upgrades skill.",
+    "es": "Esta modificación de nave está diseñada para reducir la necesidad de CPU de los módulos que requieren la habilidad de mejora de los sistemas electrónicos.",
+    "fr": "Cette modification de vaisseau est conçue pour réduire les contraintes de CPU des modules nécessitant la compétence Améliorations électroniques.",
+    "ja": "エレクトロニクス強化スキルを必要とするモジュールのCPU使用量を低減する。",
+    "ko": "리그 장착 시 전자기기 업그레이드 스킬을 요구하는 모듈의 CPU 요구치가 감소합니다.",
+    "ru": "Эта модификация снижает объем вычислительных ресурсов процессора, необходимый для установки всех модулей, требующих навык Electronics Upgrades.",
+    "zh": "这个飞船改装件用于减少需要“电子升级研究”技能装备的CPU需求。"
+  },
+  "groupID": 781,
+  "iconID": 3199,
+  "marketGroupID": 1223,
+  "mass": 200.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Medium Liquid Cooled Electronics II",
     "en": "Medium Liquid Cooled Electronics II",
@@ -10,5 +24,9 @@
     "ru": "Medium Liquid Cooled Electronics II",
     "zh": "中型水冷电子设备 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 100.0,
+  "variationParentTypeID": 31228,
   "volume": 10.0
 }

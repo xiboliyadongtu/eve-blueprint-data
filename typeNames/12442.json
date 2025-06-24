@@ -1,5 +1,18 @@
 {
-  "typeID": 12442,
+  "basePrice": 250000.0,
+  "description": {
+    "de": "Fertigkeit, die die Auslöseschaltungen des Lenkwaffenwerfers verstärkt und die Zündanlagen von Lenkwaffen verbessert. 10 % Bonus auf die Maximalgeschwindigkeit aller Lenkwaffen je Skillstufe.",
+    "en": "Skill at boosting missile bay trigger circuits and enhancing guided missiles' ignition systems. 10% bonus to all missiles' maximum velocity per level.",
+    "es": "Habilidad para potenciar los circuitos de activación de plataformas de misiles y mejorar los sistemas de ignición de misiles guiados. 10 % de bonificación a la velocidad máxima de todos los misiles por nivel.",
+    "fr": "Compétence liée à l'amélioration des circuits d'activation des missiles et des systèmes d'allumage des missiles guidés. Augmente de 10 % par niveau la vitesse maximale de tous les missiles.",
+    "ja": "ミサイルベイのトリガー回路のブーストおよびガイド付きミサイルのイグニションシステムの強化に関するスキル。レベル上昇ごとに全てのミサイルの最高速度が10%上昇。",
+    "ko": "트리거 회로 및 유도 미사일의 점화 장치를 개선하기 위한 스킬입니다. 매 레벨마다 미사일 최대 속도 10% 증가",
+    "ru": "Навык, позволяющий улучшать спусковой механизм ракетных кассет и системы зажигания управляемых ракет. За каждую степень освоения навыка: на 10% увеличивается крейсерская скорость всех ракет.",
+    "zh": "增强导弹舱触发电路和导弹点火系统的技能。每升一级，所有导弹的最大速度提高10%。"
+  },
+  "groupID": 256,
+  "iconID": 33,
+  "marketGroupID": 373,
   "name": {
     "de": "Missile Projection",
     "en": "Missile Projection",
@@ -10,5 +23,7 @@
     "ru": "Улучшения двигателей ракет",
     "zh": "导弹动力学"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

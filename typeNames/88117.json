@@ -1,5 +1,16 @@
 {
-  "typeID": 88117,
+  "description": {
+    "de": "Diese beschädigten Maschinenteile gehörten vielleicht einmal zu einem Kraftwerk oder einer Relaisstation.",
+    "en": "This damaged hunk of machinery could once have been a part of a powerplant or relay station.",
+    "es": "Esta sección de maquinaria dañada podría haber formado parte de una central eléctrica o una estación de relés.",
+    "fr": "Cette immense carcasse endommagée a pu faire partie d'une centrale ou d'une station de relais.",
+    "ja": "損傷した機械装置の残骸。パワープラントまたは中継基地で使用されていたものだろう。",
+    "ko": "전력시설 또는 중계소의 부속품이었을 것으로 추정되는 손상된 구동장치입니다.",
+    "ru": "Вероятно, эта повреждённая деталь оборудования когда-то была частью электрической или ретрансляционной станции.",
+    "zh": "这个损坏的设备残片原本可能属于一个发电站或者中继站。"
+  },
+  "graphicID": 1697,
+  "groupID": 1975,
   "name": {
     "de": "Debris - Broken Engine",
     "en": "Debris - Broken Engine",
@@ -10,5 +21,8 @@
     "ru": "Debris - Broken Engine",
     "zh": "残骸 - 毁坏的引擎"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 418.0,
+  "sofFactionName": "debris"
 }

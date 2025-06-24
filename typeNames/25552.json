@@ -1,5 +1,18 @@
 {
-  "typeID": 25552,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Ein Schlachtschiff der BHAALGORN-Klasse, das den Blood Raiders gehört. Nur Personen mit der richtigen Sicherheitkodierung können hoffen, Pilot dieses Schiffes zu werden.",
+    "en": "Bhaalgorn battleship. Owned by the Blood Raider Covenant. Only those with the correct security codes can hope to pilot this ship.",
+    "es": "Acorazado Bhaalgorn. Propiedad del Pacto de los Saqueadores Sanguinarios. Solo aquellos que posean los códigos de seguridad correctos pueden albergar la esperanza de pilotar esta nave.",
+    "fr": "Cuirassé Bhaalgorn appartenant à la cabale blood raider. Seuls ceux disposant des codes de sécurité peuvent espérer piloter ce vaisseau.",
+    "ja": "ブラッドレイダーコベナントの所有するバールゴーン級戦艦。正しい暗証番号を持つ者だけが操縦できる。",
+    "ko": "블러드 레이더 커버넌트 소유의 바알고른 배틀쉽입니다. 적합한 보안 코드를 가지고 있는 자만이 이 함선을 조종할 수 있습니다.",
+    "ru": "Линкор Bhaalgorn. Принадлежит Blood Raider Covenant. Пилотировать этот корабль могут лишь обладатели кодов безопасности.",
+    "zh": "血袭者同盟所拥有的巴戈龙级战列舰，只有拥有正确安全码的人才能驾驶它。"
+  },
+  "graphicID": 2122,
+  "groupID": 319,
+  "mass": 100000.0,
   "name": {
     "de": "Blood Raider-Bhaalgorn",
     "en": "Blood Raider Bhaalgorn",
@@ -10,5 +23,10 @@
     "ru": "Blood Raider Bhaalgorn",
     "zh": "血袭者巴戈龙级"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 462.0,
+  "sofFactionName": "bloodraider",
   "volume": 100000000.0
 }

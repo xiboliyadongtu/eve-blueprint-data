@@ -1,5 +1,16 @@
 {
-  "typeID": 57762,
+  "description": {
+    "de": "Dieser EDENCOM-Energiegenerator ist online und versorgt sämtliche, in der Nähe befindliche Infrastrukturen mit Energie.",
+    "en": "This EDENCOM power generator facility is online, and provides power to any nearby online infrastructure.",
+    "es": "Este generador de energía de EDENCOM está conectado y proporciona energía a las infraestructuras conectadas cercanas.",
+    "fr": "Ce site de générateurs de puissance EDENCOM est en ligne, et il fournit de l'énergie aux autres infrastructures en ligne à proximité.",
+    "ja": "このEDENCOMパワージェネレーター設備はオンラインになっており、付近に存在するあらゆるインフラに電力を供給しています。",
+    "ko": "EDENCOM 발전기로 주변 시설에 전력을 공급합니다.",
+    "ru": "Это — генератор ЭДЕНКОМа. Сейчас он активно обеспечивает энергией все подключённые к нему объекты, расположенные поблизости.",
+    "zh": "这座伊甸联合防御阵线能量发生器正在运转，为附近已启用的设施提供能源。"
+  },
+  "graphicID": 25097,
+  "groupID": 226,
   "name": {
     "de": "EDENCOM power generator",
     "en": "EDENCOM power generator",
@@ -10,5 +21,8 @@
     "ru": "Генератор ЭДЕНКОМа",
     "zh": "伊甸联合防御阵线能量发生器"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 600.0,
+  "sofFactionName": "upwell-edencom"
 }

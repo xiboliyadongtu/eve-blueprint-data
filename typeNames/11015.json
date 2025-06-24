@@ -1,5 +1,16 @@
 {
-  "typeID": 11015,
+  "description": {
+    "de": "Dies ist ein Testskill, der niemals im Spiel auftauchen sollte",
+    "en": "This is a test skill and should never appear in the live game",
+    "es": "Esta habilidad es de prueba y no debería aparecer en el juego.",
+    "fr": "This is a test skill and should never appear in the live game",
+    "ja": "これはテストスキルでありゲーム本編には登場しない。",
+    "ko": "테스트 스킬입니다.",
+    "ru": "Это тестовый навык, который не появится в реальной игре.",
+    "zh": "这是一个测试技能，不会出现在游戏中。"
+  },
+  "groupID": 274,
+  "iconID": 33,
   "name": {
     "de": "Test",
     "en": "Test",
@@ -10,5 +21,7 @@
     "ru": "Тест",
     "zh": "测试"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

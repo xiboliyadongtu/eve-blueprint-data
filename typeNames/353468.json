@@ -1,5 +1,17 @@
 {
-  "typeID": 353468,
+  "basePrice": 567000.0,
+  "description": {
+    "de": "Skill zur Benutzung von schweren Maschinengewehren.\n\n+3% auf die Schadenswirkung von schweren Maschinengewehren pro Skillstufe.",
+    "en": "Skill at handling heavy machine guns.\r\n\r\n+3% heavy machine gun damage against armor per level.",
+    "es": "Habilidad de manejo de ametralladoras pesadas.\n\n+3% al daño de las ametralladoras pesadas por nivel.",
+    "fr": "Compétence permettant de manipuler les mitrailleuses lourdes.\n\n+3 % de dommages de la mitrailleuse lourde par niveau.",
+    "it": "Abilità nel maneggiare mitragliatrici pesanti.\n\n+3% ai danni inflitti dalle mitragliatrici pesanti per livello.",
+    "ja": "ヘビーマシンガンを扱うスキル。\n\nレベル上昇ごとに、ヘビーマシンガンがアーマーに与えるダメージが3%増加する。",
+    "ko": "중기관총 운용을 위한 스킬입니다.<br><br>매 레벨마다 장갑에 가해지는 중기관총 피해량 3% 증가.",
+    "ru": "Навык обращения с тяжелыми пулеметами.\n\n+3% к урону, наносимому тяжелыми пулеметами, на каждый уровень.",
+    "zh": "使用重机枪的技能。每升一级，重机枪对装甲造成的伤害提高3%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Fertigkeit: Schweres Maschinengewehr",
     "en": "Heavy Machine Gun Proficiency",
@@ -11,5 +23,7 @@
     "ru": "Эксперт по обращению с тяжелыми пулеметами",
     "zh": "重机枪熟练度"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

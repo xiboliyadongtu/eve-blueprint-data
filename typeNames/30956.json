@@ -1,5 +1,18 @@
 {
-  "typeID": 30956,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Diese unbedeutende Verteidigungsanlage lässt darauf schließen, dass hier vor nicht allzu langer Zeit schwere Kämpfe stattgefunden haben. Riesige Löcher in der äußeren Panzerung wurden noch nicht wieder repariert, und die Anzeichen von großer Hitze, die aus dem Inneren der Anlage zu kommen scheint, weisen auf noch nicht gelöschte Feuer hin, denen der Sauerstoff inzwischen knapp wird.",
+    "en": "This minor defense facility reveals that heavy fighting took place here not long ago. Giant holes in the outer armor have still not been properly repaired, and heat signatures coming from inside the compound show that some fires within have not even been extinguished; only contained, as they slowly burn themselves out of oxygen.",
+    "es": "Es evidente que se produjo en gran enfrentamiento en esta pequeña instalación de defensa no hace mucho. Los agujeros gigantes en el blindaje exterior aún no se han reparado por completo y las señales térmicas procedentes del interior del complejo apuntan a que algunos fuegos aún no se han extinguido, solo contenido, ya que se van apagando solos a medida que se quedan sin oxígeno.",
+    "fr": "Cette petite installation de défense laisse supposer qu'un intense combat a eu lieu ici récemment. Les gigantesques trous dans son blindage extérieur n'ont pas encore été réparés, et les émissions thermiques émanant de l'intérieur du complexe indiquent que certains incendies n'ont pas été éteints, mais seulement maîtrisés, lorsque l'oxygène commençait à se faire rare.",
+    "ja": "この小さな防衛施設では、そう遠くない昔に激しい戦闘があったようだ。外部アーマーの巨大な穴はまだ完全に修復されておらず、施設から伝わる熱から、内部の火がまだ消えていないことが分かる。",
+    "ko": "격렬한 전투가 발생한 것으로 추정되는 소규모 기지입니다. 외벽에는 거대한 구멍이 산발적으로 뚫려 있으며 건물 내부에서는 화재가 발생한 듯 열 반응이 감지됩니다. 적극적인 진화 작업은 이루어지지 않고 있는 것으로 보입니다.",
+    "ru": "Это малое оборонительное сооружение свидетельствует о том, что недавно здесь отгремела горячая схватка. Гигантские дыры во внешней броне до сих пор как следует не отремонтированы, а тепловой анализ строений показывает, что некоторые из пожаров внутри даже не потушены, а только локализованы и постепенно затухают без кислорода.",
+    "zh": "看上去不久前在这座小型防御设施附近发生了一场激烈的战斗。外壳上巨大的窟窿还没有得到完全的修缮，热源信号显示据点内仍然还有多出火灾没有被扑灭，就让它们这样慢慢燃烧直到耗尽氧气。"
+  },
+  "graphicID": 2372,
+  "groupID": 306,
+  "mass": 100000.0,
   "name": {
     "de": "Hyasyoda Security Compound",
     "en": "Hyasyoda Security Compound",
@@ -10,5 +23,9 @@
     "ru": "Hyasyoda Security Compound",
     "zh": "三岛集团安全据点"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 1045.0,
+  "sofFactionName": "genericmetal",
   "volume": 27500.0
 }

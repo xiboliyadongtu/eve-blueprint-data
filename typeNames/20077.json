@@ -1,5 +1,19 @@
 {
-  "typeID": 20077,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Von den vielen Nachschubgütern, die die Kriegsmaschinerie von Sansha's Nation antreiben, sind diejenigen, die in dieser Raumverwerfungstasche gelagert werden, besonders gut bewacht.",
+    "en": "Of the various supplies to fuel Sansha's Nation's warfare that are stored in this deadspace pocket, this one is the most securely guarded.",
+    "es": "De los diversos suministros para alimentar la guerra de la Nación Sansha que se almacenan en esta burbuja del espacio muerto, este es el más custodiado.",
+    "fr": "Parmi les différentes zones d'approvisionnement en carburant des armées de la Sansha's Nation situées dans la poche Deadspace, celle-ci est la mieux gardée.",
+    "ja": "当デッドスペースポケットに保管されているサンシャ国の戦争を支える多彩な物資の中でも、とりわけ警備が厳重。",
+    "ko": "데드스페이스 포켓 내에 위치한 산샤 네이션 보급고로 엄중한 경비가 이루어지고 있습니다.",
+    "ru": "Из всевозможных военных запасов топлива Sansha's Nation, которые хранятся в полости дэдспейс, это одно из наиболее тщательно охранямых.",
+    "zh": "在这个死亡空间层内储存着萨沙共和国进行战争所需的各种补给，这个补给储藏库是其中守卫最严密的一处。"
+  },
+  "graphicID": 1176,
+  "groupID": 496,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Main Supply Storage",
     "en": "Main Supply Storage",
@@ -10,5 +24,10 @@
     "ru": "Main Supply Storage",
     "zh": "大型补给舱"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericmetal",
+  "soundID": 20902,
   "volume": 1200.0
 }

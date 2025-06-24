@@ -1,5 +1,18 @@
 {
-  "typeID": 24356,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Ein sehr altes Objekt, dessen Funktion wohl einmal die Bewachung dieses Raums war. Es ist im Moment nicht aktiv, vielleicht hatte es eine Fehlfunktion.",
+    "en": "A very old object that seems to once have acted as a guardian of this space. It is not active at the moment and perhaps it has malfunctioned.",
+    "es": "Objeto muy antiguo que parece haber actuado en su día como guardián de este espacio. No está activo ahora mismo y puede que no funcione bien.",
+    "fr": "Très vieil objet qui semble avoir fait office de gardien de cet espace. Il n'est pas actif pour l'instant ; il est peut-être en panne.",
+    "ja": "かつては宇宙の守護者だったと思われる骨董品。現在ではその神通力は失われており、故障しているらしい。",
+    "ko": "주변 구역의 수호자 역할을 해왔던 것으로 보이는 아주 오래된 구조물입니다. 현재 비활성화되어 작동되지 않습니다.",
+    "ru": "Очень странный объект, который, вероятно, когда-то охранял это место. Он выключен и, кажется, неисправен.",
+    "zh": "非常古老的物体，似乎曾是这个空间的守卫者。它此时处于非活跃状态，可能是出了故障。"
+  },
+  "graphicID": 1217,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Yan Jung Gargoyle",
     "en": "Yan Jung Gargoyle",
@@ -10,5 +23,10 @@
     "ru": "Yan Jung Gargoyle",
     "zh": "殷郡石像鬼"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 70.0,
+  "sofFactionName": "genericbase",
+  "soundID": 31,
   "volume": 100000000.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 20526,
+  "basePrice": 80000000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Caldari-Frachtern.",
+    "en": "Skill at operating Caldari freighters.",
+    "es": "Habilidad en el manejo de cargueros caldaris.",
+    "fr": "Compétence permettant de manœuvrer des transports de fret caldari.",
+    "ja": "カルダリ超大型輸送艦を操作するスキル。",
+    "ko": "칼다리 프레이터를 운용하기 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на фрейтерах производства Государства Калдари.",
+    "zh": "操作加达里货舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Caldari Freighter",
     "en": "Caldari Freighter",
@@ -10,5 +23,7 @@
     "ru": "Калдарские фрейтеры",
     "zh": "加达里货舰操作"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

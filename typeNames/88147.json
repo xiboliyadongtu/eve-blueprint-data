@@ -1,5 +1,20 @@
 {
-  "typeID": 88147,
+  "basePrice": 9870.0,
+  "capacity": 1.0,
+  "description": {
+    "de": "Erhöht die Scanleistung von Scansonden und verringert ihre Scanzeit und Scanabweichung. Es kann max. ein Scan Acquisition Array-Modul eingebaut werden.",
+    "en": "Increases the scan strength when scanning with scan probes and reduces the scan time and scan deviation of scan probes.\r\n\r\nOnly one Scan Acquisition Array module can be fitted at max.",
+    "es": "Aumenta la intensidad del escaneo cuando se usan sondas de escaneo y reduce el tiempo y la desviación del escaneo de las sondas.\r\n\r\nSolo se puede equipar un módulo de batería de adquisición de escaneo como máximo.",
+    "fr": "Augmente la puissance de balayage lors de l'utilisation des sondes de balayage et réduit leur temps de balayage et leur déviation de balayage. Seul un module d'acquisition de scanner peut être équipé.",
+    "ja": "スキャンプローブを使ってスキャンを行う際のスキャン強度を増加させる。またプローブのスキャン時間とスキャン誤差を減少させる。\r\n\r\n搭載できるスキャン捕捉アレイモジュールは1台のみ。",
+    "ko": "스캔 프로브의 스캔 강도가 증가하며 스캔 소요 시간 및 스캔 오차가 감소합니다.\r\n\r\n정밀 스캔 장치 모듈은 한 개만 장착할 수 있습니다.",
+    "ru": "Улучшает чувствительность разведзондов, ускоряет сканирование разведзондами и уменьшает отклонение при сканировании разведзондами. Можно установить только один комплекс сбора данных сканирования.",
+    "zh": "增强使用扫描探针时的扫描强度、缩短扫描探针的扫描时间并减少扫描偏差。最多只能装配一个扫描精准阵列。"
+  },
+  "groupID": 1238,
+  "iconID": 26823,
+  "marketGroupID": 1709,
+  "metaGroupID": 4,
   "name": {
     "de": "Triplot Scan Acqusition Array",
     "en": "Triplot Scan Acquisition Array",
@@ -10,5 +25,8 @@
     "ru": "Triplot Scan Acqusition Array",
     "zh": "三神裔扫描精准阵列"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 33176,
   "volume": 5.0
 }

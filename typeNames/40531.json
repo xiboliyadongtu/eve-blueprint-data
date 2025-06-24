@@ -1,5 +1,16 @@
 {
-  "typeID": 40531,
+  "description": {
+    "de": "Ein Sisters of EVE Stratios-Kreuzer.",
+    "en": "A Sisters of EVE Stratios cruiser.",
+    "es": "Crucero Stratios de Sisters of EVE.",
+    "fr": "Un croiseur Stratios Sisters of EVE.",
+    "ja": "シスターズオブイブの巡洋艦。",
+    "ko": "시스터 오브 이브 스트라티오스 크루저입니다.",
+    "ru": "Крейсер сестёр-служительниц «Евы» типа «Стратиос».",
+    "zh": "一艘姐妹会斯特修斯级巡洋舰。"
+  },
+  "graphicID": 20385,
+  "groupID": 226,
   "name": {
     "de": "Sisters of EVE Stratios",
     "en": "Sisters of EVE Stratios",
@@ -10,5 +21,9 @@
     "ru": "Sisters of EVE Stratios",
     "zh": "姐妹会斯特修斯级"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 300.0,
+  "sofFactionName": "soebase"
 }

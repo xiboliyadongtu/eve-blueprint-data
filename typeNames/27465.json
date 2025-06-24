@@ -1,5 +1,21 @@
 {
-  "typeID": 27465,
+  "basePrice": 12500.0,
+  "description": {
+    "de": "Ein Mordu-Marschflugkörper mit einem Graviton-Sprengkopf und automatischem Leitsystem.",
+    "en": "A Mordu cruise missile with a graviton warhead and automatic guidance system.",
+    "es": "Misil de crucero de Mordu con una ojiva de gravitones y un sistema de guiado automático.",
+    "fr": "Missile de croisière mordu équipé d'une ogive à graviton et d'un système de guidage automatique.",
+    "ja": "重力子弾頭と自動誘導システムを搭載したモードゥ式クルーズミサイル。",
+    "ko": "유도시스템과 중력자 탄두가 탑재된 모르두 크루즈 미사일입니다.",
+    "ru": "Дальнобойная ракета Легиона Морду с гравитонной боеголовкой и автоматической системой наводки.",
+    "zh": "一种莫德团巡航导弹，带有引力子弹头和自动导引系统。"
+  },
+  "graphicID": 20043,
+  "groupID": 396,
+  "iconID": 1341,
+  "marketGroupID": 1192,
+  "mass": 1250.0,
+  "metaGroupID": 4,
   "name": {
     "de": "Legion Scourge Auto-Targeting Cruise Missile",
     "en": "Legion Scourge Auto-Targeting Cruise Missile",
@@ -10,5 +26,10 @@
     "ru": "Legion Scourge Auto-Targeting Cruise Missile",
     "zh": "圣卒级祸患自动锁定巡航导弹"
   },
+  "portionSize": 100,
+  "published": true,
+  "raceID": 1,
+  "radius": 300.0,
+  "variationParentTypeID": 1826,
   "volume": 0.05
 }

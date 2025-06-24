@@ -1,5 +1,18 @@
 {
-  "typeID": 26279,
+  "capacity": 235.0,
+  "description": {
+    "de": "Das ist der Verwalter, der von Sansha mit dem Betrieb dieser Einrichtung betraut worden ist. Es ist anzunehmen, dass er einen Schlüssel besitzt, um das Verwaltungsareal zu betreten, denn dort befinden sich seine Büroräume.",
+    "en": "This is the administrator appointed by Sansha to run this facility. It is likely he as a key to enter the administration area, as his offices are located there.",
+    "es": "Este es el administrador nombrado por los sanshas para dirigir esta instalación. Es probable que tenga una llave para entrar en la zona de administración, ya que sus oficinas están allí.",
+    "fr": "Administrateur nommé par Sansha pour gérer l'endroit. Il est probable qu'il dispose d'une clé pour accéder à la zone administrative, puisque c'est là que se trouve son bureau.",
+    "ja": "この施設の管理運営のため、サンシャが指名した管理人。彼のオフィスが管理区域にあるため、彼ならばそこへ立ち入るための鍵を持っているだろう。",
+    "ko": "산샤 네이션에 의해 임명된 시설 관리자로 관리 구역으로 향하는 출입키를 지니고 있을 확률이 높습니다.",
+    "ru": "Это администратор, которого Sansha назначили управлять этой базой. Скорее всего, у него есть ключ от зоны управления, поскольку там находится его кабинет.",
+    "zh": "这是萨沙高层指派来运营这座设施的行政官，他应该拥有进入他办公室所在的政府区域的要是。"
+  },
+  "graphicID": 2295,
+  "groupID": 534,
+  "mass": 10010000.0,
   "name": {
     "de": "Sansha Administrator",
     "en": "Sansha Administrator",
@@ -10,5 +23,10 @@
     "ru": "Sansha Administrator",
     "zh": "萨沙部长"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 350.0,
+  "sofFactionName": "sanshabase",
   "volume": 100100.0
 }

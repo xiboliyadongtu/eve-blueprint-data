@@ -1,5 +1,16 @@
 {
-  "typeID": 1602,
+  "description": {
+    "de": "Maximaler Betrag für Nachfrage/Gebot auf dem Markt um 25% erhöht.",
+    "en": "+25% max ask/bid value on market.",
+    "es": "+25 % al valor máximo de oferta y puja en el mercado.",
+    "fr": "Augmente de 25 % la valeur maximale d'offre/demande sur le marché.",
+    "ja": "マーケットで売値/買値の最高額+25%。",
+    "ko": "거래 시 상하한가 25% 증가",
+    "ru": "25%-ное увеличение максимальной величины спроса/ставки на рынке.",
+    "zh": "市场上的最高询价/出价价格增加25%。"
+  },
+  "groupID": 190,
+  "iconID": 0,
   "name": {
     "de": "Ni-Kunni Bonus",
     "en": "Ni-Kunni Bonus",
@@ -10,5 +21,6 @@
     "ru": "Ni-Kunni Bonus",
     "zh": "尼库恩纳血统加成"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 21617,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieses verbarrikadierte Warenlager ist das Versteck von Uchi Pakkori, seines Zeichens Mitarbeiter von Caldari Funds Unlimited.",
+    "en": "This barricaded warehouse is the hiding place of Uchi Pakkori, employee of Caldari Funds Unlimited.",
+    "es": "Este almacén con barricada es el escondite de Uchi Pakkori, empleado de Caldari Funds Unlimited.",
+    "fr": "Cet entrepôt fortifié est la planque d'Uchi Pakkori, employé par Caldari Funds Unlimited.",
+    "ja": "カルダリファンドアンリミテッドの従業員、ウチパッコリの隠れ家として使われいてる、塞がれた倉庫。",
+    "ko": "칼다리 금융지주 직원인 우치 파코리의 은신처입니다.",
+    "ru": "Этот забаррикадированнный склад - место укрытия Uchi Pakkori, сотрудника Caldari Funds Unlimited.",
+    "zh": "这个设有路障的仓库是加达里无限基金集团的雇员乌兹·帕克里的藏身处。"
+  },
+  "graphicID": 2520,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Barricaded Warehouse",
     "en": "Barricaded Warehouse",
@@ -10,5 +23,10 @@
     "ru": "Barricaded Warehouse",
     "zh": "隐蔽的库房"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 416.0,
+  "sofFactionName": "genericprison",
+  "soundID": 31,
   "volume": 100000000.0
 }

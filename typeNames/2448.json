@@ -1,5 +1,17 @@
 {
-  "typeID": 2448,
+  "basePrice": 45000.0,
+  "description": {
+    "de": "Diese Anlage besteht aus seismisch isolierten Plattformen und schweren, verbundenen Förderbändern, die in tiefe Tunnels führen. Extremophile Drohnen sind dafür gebaut sowohl in korrosiven, unmäßigen Atmosphären als auch in Hoch- oder Tiefdruck-Atmosphären zu funktionieren. Sie bewegen sich auf einer konstanten Strecke die Bänder entlang, an denen sie Reparaturen ausführen und Trümmer wegräumen. Ein Stab von Bergbauexperten und Technikern besetzt das Hauptgebäude für den Fall, dass die automatisierten Systeme scheitern.",
+    "en": "This facility consists of seismic insulated platforms and heavy, jointed conveyor belts leading into deep tunnels. Extremophile drones, built to function in even corrosive, intemperate, and high- or low-pressure atmospheres, run a constant circuit along the belts, performing repairs and clearing away rubble. A staff of mining experts and technicians occupy the main building in case any of the automated systems fail.",
+    "es": "Esta instalación consiste en plataformas con aislamiento sísmico y pesadas cintas transportadoras articuladas que conducen a túneles profundos. Los drones extremófilos, construidos para funcionar incluso en atmósferas corrosivas, intempestivas y de alta o baja presión, recorren un circuito constante a lo largo de las cintas, realizando reparaciones y retirando escombros. Una plantilla de expertos y técnicos mineros ocupa el edificio principal por si falla alguno de los sistemas automatizados.",
+    "fr": "Ce complexe comporte des plateformes protégées contre les séismes, et de lourdes ceintures porteuses reliées ensemble et conduisant jusqu'aux tunnels. Les drones extrêmophiles, conçus pour fonctionner dans une atmosphère corrosive, rigoureuse, à faible ou à forte pression, fonctionnent sur un circuit constant le long des ceintures, effectuant des réparations et débarrassant les décombres. Le personnel, composé d'experts en extraction minière et de techniciens, occupe le bâtiment principal, dans le cas où l'un des systèmes automatisés tombe en panne.",
+    "ja": "耐震プラットフォームと、深いトンネルにつながる重い接続コンベアベルトから構成される。腐食性、極度の温度、高／低気圧といった環境でも機能するように作られた極限性ドローンが、ベルトに沿って一定周期で修復とがれき撤去を行っている。自動システムに障害が発生すると、採掘の専門家と技術者達がメインビルディングに集結する。",
+    "ko": "내진 설계가 갖춰진 시설로 깊숙한 터널 안쪽에는 다수의 컨베이어벨트가 설치되어 있습니다. 부식에 강하고 저기압 및 고기압 등의 극한 환경에서도 작동하도록 설계된 드론들이 컨베이어벨트를 오르내리며 시설에 대한 전반적인 수리 및 보수 작업을 진행합니다. 자동화 시스템이 작동을 정지할 때를 대비하여 주요 시설에는 기술팀과 채굴 전문가들이 상시 대기하고 있습니다.",
+    "ru": "Этот комплекс состоит из платформ, снабженных противосейсмическими устройствами, и массивных сочлененных конвейеров, уходящих вглубь туннелей. Вдоль конвейеров постоянно снуют экстремофильные дроны, сконструированные для работы в суровых условиях: коррозийных, с экстремальными температурами и давлением. Они осуществляют текущий ремонт и очищают конвейер от шлаков. В основном здании располагается команда специалистов по горнорудным разработкам и техников, на случай, если какая-либо из автоматизированных систем даст сбой.",
+    "zh": "这座设施由具有抗震能力的平台组成，其配备的重型连接式传送带一直伸向隧道的深处。嗜极生物无人机专门用于在具有腐蚀性，变化剧烈且高低压力大气中工作，在传送带上来回巡视，进行维修和清理碎石的工作。一批采矿专家和技术人员坚守在主建筑中，在自动化系统失效的时候可以进行手动操作。"
+  },
+  "graphicID": 4551,
+  "groupID": 1026,
   "name": {
     "de": "Lava Felsic Magma Extractor",
     "en": "Lava Felsic Magma Extractor",
@@ -10,5 +22,6 @@
     "ru": "Lava Felsic Magma Extractor",
     "zh": "熔岩行星长英质岩浆采集器"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": true
 }

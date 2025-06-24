@@ -1,5 +1,19 @@
 {
-  "typeID": 3651,
+  "description": {
+    "de": "Gewöhnliche Low-Tech-Bergbaulaser, die für die Verwendung mit Kapselpiloten-Technologie angepasst wurden. Eignet sich gut zum Abbauen gewöhnlicher Erze, hat jedoch große Schwierigkeiten mit hochwertigeren Erzen. Ohne entsprechende Skills und den Einsatz spezialisierter Schiffe und Module kann dieser Bergbaulaser kein Erz aus dunklen Ochre-, Spodumain-, Crokite-, Bistot-, Arkonor-Asteroiden oder gewöhnlichen, ungewöhnlichen, seltenen oder außergewöhnlichen Mondasteroiden abbauen.",
+    "en": "Common, low technology mining laser adapted for use with capsuleer technology. Works well for extracting common ore, but has great difficulty with higher end ores.\r\n\r\nWithout suitable skills and the use of specialized ships and modules, this mining laser will not be able to extract ore from Dark Ochre, Spodumain, Crokite, Bistot, or Arkonor asteroids, or any Common, Uncommon, Rare or Exceptional moon asteroids.",
+    "es": "Láser minero de tecnología común de bajo nivel adaptado para usarse con tecnología capsulista. Funciona bien para extraer menas comunes, pero no sirve de mucho con menas de alta gama.\n\nSin las habilidades adecuadas ni naves y módulos especializados, este láser minero no podrá extraer menas de asteroides de ocre oscuro, espodumain, crokitio, bistotina o arkonor, así como tampoco de ningún asteroide lunar común, inusual, poco común o excepcional.",
+    "fr": "Laser d'extraction courant et de technologie rudimentaire adapté à la technologie de capsuliers. Il est recommandé pour l'extraction des minerais communs, mais son efficacité est limitée pour les minerais plus hauts de gamme. Sans les compétences appropriées et l'utilisation de vaisseaux et de modules spécialisés, ce laser d'extraction ne sera pas en mesure d'extraire le minerai des astéroïdes Dark Ochre, Spodumain, Crokite, Bistot ou Arkonor, ou de tout astéroïde lunaire commun, peu commun, rare ou exceptionnel.",
+    "ja": "一般的に流通する技術レベルの低い採掘レーザーをカプセラ技術に適合させたもの。よくある鉱物の採掘には適しているが、より高度な鉱物の採掘になると苦戦する。\r\n\n適切なスキルと専用の艦船およびモジュールがなければ、この採掘レーザーでダークオークル、スポデュメイン、クロカイト、ビストット、アーコナーのアステロイド、およびコモン、アンコモン、レア、エクセプショナルに該当する衛星アステロイドから鉱物を採掘することはできない。",
+    "ko": "하급 채굴 레이저를 바탕으로 제작된 민수용 채굴기입니다. 일반적인 광석은 문제 없이 채굴할 수 있으나 등급이 올라갈수록 효율이 감소합니다. <br><br>채굴 스킬 또는 특수한 함선 및 모듈 없이는 다크 오커, 스포듀마인, 크로카이트, 비스토트, 아르카노르, 그리고 위성 소행성을 채굴할 수 없습니다.",
+    "ru": "Обычный низкотехнологичный буровой лазер, адаптированный для использования с техникой капсулёров. Справляется с извлечением обычной руды, но едва ли подойдёт для добычи руды более высокого класса. Без подходящих навыков и специализированных кораблей, оснащённых нужными модулями, этот буровой лазер не сможет добывать руду из тёмной охры, сподумейна, крокита, бистота, а также арконоровых астероидов или любых других обычных, необычных, редких или исключительных астероидов.",
+    "zh": "与克隆飞行员科技搭配使用的低科技含量的普通采矿激光器。适合开采普通矿石，但面对高端矿石非常吃力。\n\n\n\n如果没有训练相关技能并使用专门的舰船和装备，这种采矿激光器不能从黑赭石、灰岩、克洛基石、双多特石、艾克诺岩小行星或任何普通、罕见、稀有和非凡卫星小行星中提取矿石。"
+  },
+  "graphicID": 11146,
+  "groupID": 54,
+  "iconID": 1061,
+  "marketGroupID": 1039,
+  "metaGroupID": 1,
   "name": {
     "de": "Civilian Miner",
     "en": "Civilian Miner",
@@ -10,5 +24,9 @@
     "ru": "Civilian Miner",
     "zh": "民用采矿器"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 25.0,
+  "sofFactionName": "orebase",
   "volume": 5.0
 }

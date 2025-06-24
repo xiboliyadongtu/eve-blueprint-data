@@ -1,5 +1,18 @@
 {
-  "typeID": 30000,
+  "basePrice": 100000.0,
+  "description": {
+    "de": "Tech III Komponente zur Herstellung fortschrittlicher Hüllen und Subsysteme.",
+    "en": "Tech III Component used in the manufacture of advanced hulls and subsystems.",
+    "es": "Componente T3 que se usa en la fabricación de cascos y subsistemas avanzados.",
+    "fr": "Composant Tech III utilisé dans la production de coques et de sous-systèmes avancés.",
+    "ja": "高性能船体とサブシステムの製造に使用する T3部品。",
+    "ko": "상급 선체 및 서브시스템 제조에 사용되는 테크 III 부품입니다.",
+    "ru": "Компонент категории Tech III, использующийся в производстве усовершенствованных корпусов и подсистем.",
+    "zh": "用于生产高级船体和子系统的三级科技构件。"
+  },
+  "groupID": 967,
+  "iconID": 1186,
+  "mass": 1.0,
   "name": {
     "de": "defunct item 8",
     "en": "defunct item 8",
@@ -10,5 +23,7 @@
     "ru": "defunct item 8",
     "zh": "无用物品 8"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 5.0
 }

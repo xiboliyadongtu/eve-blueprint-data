@@ -1,5 +1,19 @@
 {
-  "typeID": 43658,
+  "basePrice": 500000000.0,
+  "description": {
+    "de": "Dieses, auf der tiefgehenden Erforschung natürlicher Wurmlochphänomene basierende Modul verwendet das gewaltige Radar-Sensorarray einer Avatar, um den Raum zu krümmen und die Eigenschaften von Schiffen in der Umgebung zu beeinflussen.\n\nDie Effekte dieses Phänomens betreffen sowohl verbündete als auch gegnerische Schiffe und verändern das gesamte Schlachtfeld auf subtile aber umfassende Arten und Weisen. Geschickte Flottenkommandeure können diese Effekte ausnutzen, um sich selbst bei ansonsten verschwindend geringen Chancen noch den Sieg zu sichern.\n\n\n\n<b>Beeinflusste Schiffe erhalten:</b>\n\n+30 % auf die Wiederaufladerate des Energiespeichers\n\n+10 % auf Kinetikresistenzen\n\n-15 % auf EM-Resistenzen\n\n-10 % Geschwindigkeit",
+    "en": "Adapted from advanced research into natural wormhole phenomena, this module wields an Avatar's massive Radar sensor array to bend local space and affect the properties of all nearby vessels.\r\nThe effects of this phenomenon impact both friendly and hostile ships, altering the entire battlefield in subtle but significant ways. Clever fleet commanders can take advantage of these effects to ensure victory, even against insurmountable odds.\r\n\r\n<b>Affected ships receive:</b>\r\n+30% capacitor recharge rate\r\n+10% kinetic resistances\r\n-15% EM resistances\r\n-10% velocity",
+    "es": "Este módulo adaptado a partir de investigaciones avanzadas de los fenómenos naturales de los agujeros de gusano usa la red de sensores de radar de la Avatar para curvar el espacio local y modificar las propiedades de todas las naves cercanas.\n\nLos efectos de este fenómeno afectan tanto a las naves aliadas como a las hostiles y alteran todo el campo de batalla de forma significativa pero sutil. Los comandantes de flotas más astutos podrán aprovechar estos efectos para asegurarse la victoria, incluso frente a adversidades insuperables.\n\n<b>Las naves afectadas reciben:</b>\n\n+30 % de índice de carga del condensador.\n\n+10 % de resistencia cinética.\n\n-15 % de resistencias electromagnéticas.\n\n-10 % de velocidad.",
+    "fr": "Dérivé des recherches approfondies sur le phénomène naturel des trous de ver, ce module exploite la puissance d'un processeur de détection radar de classe Avatar pour distordre l'espace local et modifier les propriétés de tous les vaisseaux environnants.\n\nLes effets de ce phénomène impactent indifféremment les vaisseaux alliés et hostiles, influant subtilement sur l'équilibre des forces engagées sur le champ de bataille. La manipulation éclairée de ces effets peut assurer la victoire d'une flotte, jusqu'à déjouer parfois des conjonctures inextricables.\n\n\n\n<b>Les vaisseaux affectés reçoivent :</b>\n\n+30 % à la vitesse de recharge du capaciteur\n\n+10 % aux résistances cinétiques\n\n-15 % aux résistances EM\n\n-10 % à la vitesse",
+    "ja": "このモジュールは天然のワームホール現象に関する最先端の研究を応用し、アバター級艦船の巨大なレーダーセンサー施設を使用して周囲の空間を屈曲させ、近接するすべての艦船の性質を変化させます。この現象は敵・味方にかかわらずすべての艦船に影響し、目に見えないながらも戦場一帯を大幅に変化させます。有能なフリート指揮官はこの効果を味方につけ、もはや勝ち目はないと思われる局面をもひっくり返し、勝利を確実なものにすることができます。<b>範囲内の艦船への効果：</b>キャパシタリチャージ速度が30%増加。キネティック耐性が10%増加。EM耐性が15%減少。速度が10%減少。",
+    "ko": "자연적인 웜홀 현상을 연구하여 개발한 모듈입니다. 아바타의 레이더 센서의 폭발적인 힘을 방출하여 인근 지역을 왜곡함으로써 근방의 모든 함선의 성질을 변화시킵니다. <br><br>이 현상으로 인한 효과는 아군과 적군 구분 없이 모든 함선에 적용되며, 이 사소한 변화를 통해 전장의 중대한 변화를 이끌어내는 것이 가능합니다. 영리한 함대장들은 이 효과를 이용하여 극복할 수 없을 것 같은 전력 차이를 보이는 상황에서도 승리를 거머쥐곤 합니다.<br><br><b>영향받은 함선들은 다음과 같은 효과를 받습니다:</b> <br><br>캐패시터 충전 속도 30% 증가,<br>키네틱 저항력 10% 증가,<br>EM 저항력 15% 감소,<br>비행 속도 10% 감소",
+    "ru": "Данный модуль, созданный в результате исследований естественных феноменов w-пространства, перенаправляет энергию гигантского сенсорного массива «Аватара» и искажает метрику пространства, что определённым образом влияет на характеристики кораблей, находящихся поблизости.\n\nИскажение действует как на дружественные, так и на враждебные корабли, существенно меняя расстановку сил на поле боя. Сообразительные командиры могут воспользоваться ситуацией и перевернуть ход сражения даже в непреодолимых условиях.\n\n\n\n<b>Для всех подверженных кораблей:</b>\n\nна 30% повышается скорость перезарядки накопителя\n\nна 10% повышается сопротивляемость кинетическому урону (всех эшелонов защиты)\n\nна 15% снижается сопротивляемость ЭМ-урону (всех эшелонов защиты)\n\nна 10% снижается максимальная скорость кораблей",
+    "zh": "这件装备源自对自然虫洞天象的高级研究，它使用了神使级的巨大雷达感应阵列来使本地空间扭曲，并对周围的所有舰船产生影响。\n\n这种天象效果对友方和敌方舰船都会造成影响，会给整体战场形势带来巨大改变。即使局势处于被动，机智的舰队指挥官也能利用这种影响来获取胜利。\n\n\n\n<b>受到影响的舰船将有如下变化：</b>\n\n电容回充速率提高30%\n\n动能抗性提高10%\n\n电磁抗性降低15%\n\n舰船速度降低10%"
+  },
+  "groupID": 1815,
+  "iconID": 21683,
+  "marketGroupID": 2267,
+  "mass": 1000.0,
   "name": {
     "de": "Amarr Phenomena Generator",
     "en": "Amarr Phenomena Generator",
@@ -10,5 +24,8 @@
     "ru": "Amarr Phenomena Generator",
     "zh": "艾玛现象发生器"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 8000.0
 }

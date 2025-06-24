@@ -1,5 +1,17 @@
 {
-  "typeID": 11680,
+  "description": {
+    "de": "Dieses Signalfeuer weist alles ab, was ihm zu nahe kommt.",
+    "en": "This beacon repels any object that comes near it.",
+    "es": "Baliza que repele cualquier objeto que se le acerque.",
+    "fr": "Cette balise repousse tout objet en approche.",
+    "ja": "近づくもの全てを撃退するビーコン。",
+    "ko": "이 비컨은 함선의 접근을 저지하고 있습니다.",
+    "ru": "Этот маяк отталкивает любой объект, который к нему приближается.",
+    "zh": "这个信标会自动排斥任何靠近它的物体。"
+  },
+  "graphicID": 1211,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Forcefield Array",
     "en": "Forcefield Array",
@@ -10,5 +22,9 @@
     "ru": "Forcefield Array",
     "zh": "力场阵列"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 20000.0,
+  "sofFactionName": "genericbase",
   "volume": 100.0
 }

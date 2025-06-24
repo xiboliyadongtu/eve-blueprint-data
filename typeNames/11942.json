@@ -1,5 +1,70 @@
 {
-  "typeID": 11942,
+  "basePrice": 600000.0,
+  "capacity": 250.0,
+  "description": {
+    "de": "Dieses schmucke, luxuriöse Schiff ist eine Klasse für sich. Die Magnate-Fregatte war über zehn Jahre lang das Lieblingsprojekt einer kleinen Elitegruppe kaiserlicher Schiffsingenieure. Während jahrelanger und kostspieliger Forschung hat der Entwicklungsprozess verschiedene Phasen durchlaufen, von denen jede neue Standards im Bereich des Fregattendesigns gesetzt hat. Die Silver Magnate, die bei der Amarr-Meisterschaft in den Jahren 105YC und YC118 als Preis gestellt wurde, ist eins der beeindruckendsten Stücke in der Reihe dieser Meisterwerke.",
+    "en": "This decoratively designed ship is a luxury in its own class. The Magnate frigate has been the pet project of a small, elite group of royal ship engineers for a decade. Over the long years of expensive research, the design process has gone through several stages, and each stage has set a new standard in frigate design. The Silver Magnate, offered as a reward in the Amarr Championships in YC105 and YC118, is one of the most impressive iterations in this line of masterworks.",
+    "es": "Esta nave de ornamental diseño es un lujo dentro de su categoría. La fragata Magnate ha sido el proyecto personal durante toda una década de un pequeño grupo de ingenieros de élite. Tras largos años de costosa investigación, el proceso de diseño ha pasado por varias fases y cada una ha establecido un nuevo estándar en el diseño de fragatas. La Silver Magnate, ofrecida como retribución en el Campeonato Amarriano del 105 CY y el 118 CY, es una de las iteraciones más impresionantes de esta línea de obras maestras.",
+    "fr": "Ce vaisseau aux lignes fastueuses revendique un design unique à sa classe. La frégate Magnate est le fruit de l'investissement d'une décennie d'un petit groupe d'ingénieurs d'élite affectés à la Marine royale. Au cours de ces longues années de recherche, les différentes phases de développement du vaisseau ont chacune établi de nouvelles normes de performance dans la conception de frégate. Le Silver Magnate, offert en récompense lors des championnats amarr en CY 105 et en CY 118, est une sublime icône de cette gamme d'orfèvre.",
+    "ja": "美しい装飾とともに設計されたこの艦船はまさに豪華なつくりになっている。マグニートフリゲートは、国家の艦船エンジニアが十年もの間計画を練ってきたプロジェクトにより誕生した。長年にわたって高額の研究費が費やされる中、設計プロセスはいくつかのフェーズを経たてきたが、どのフェーズもフリゲート設計の新基準を打ち立てることとなった。YC105年およびYC118年にアマーチャンピオンシップの賞品として提供されたシルバーマグニートは、この名機揃いのシリーズ中でもひと際注目を集める存在である。",
+    "ko": "마그네이트급 프리깃 중 가장 화려하게 장식된 모델입니다. 해당 함선은 지난 십수 년 동안 소규모 제국 엔지니어들이 취미 삼아 연구하던 프로젝트의 결과물입니다. 수십 년의 고예산 연구 기간 동안 함선 설계가 지속적으로 변경되었으며 매번 프리깃 디자인의 새로운 기준을 갱신했습니다. 실버 마그네이트는 YC 105와 YC 118 아마르 챔피언쉽의 보상으로 제공되었으며 소규모 제국 엔지니어들이 걸작으로 치부하는 작품입니다.",
+    "ru": "Этот фрегат демонстративно декоративного дизайна — предмет особой роскоши даже в своём классе, среди прочих декоративных кораблей. В течение более десятка лет проект «Магнат» был всего лишь личной инициативой маленькой группы лучших королевских инженеров. С годами дорогостоящих исследований дизайн корабля прошел через несколько этапов, и каждый этап всё выше задирал планку дизайна фрегатов. «Серебряный Магнат», выдававшийся в качестве приза в амаррских Состязаниях 105 и 118 годов юлайской эры — один из последних представителей этой цепочки шедевров.",
+    "zh": "这艘船设计非常精美，如同一件奢侈品。是一小群精英皇家工程师孕育十年才得出的成果。在多年代价高昂的研究中，设计过程经历了多个阶段，每一阶段都树立了更高的护卫舰设计标准。这一型号是该系列中最令人印象深刻的“白银限量版”，是YC105年和YC118年艾玛冠军杯的奖品。"
+  },
+  "factionID": 500003,
+  "graphicID": 2241,
+  "groupID": 25,
+  "marketGroupID": 1619,
+  "mass": 1500000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      50,
+      150,
+      89,
+      93,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      50,
+      117,
+      150,
+      89,
+      93,
+      94
+    ]
+  },
+  "metaGroupID": 4,
   "name": {
     "de": "Silver Magnate",
     "en": "Silver Magnate",
@@ -10,5 +75,81 @@
     "ru": "Silver Magnate",
     "zh": "白银富豪级"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 30.0,
+  "sofFactionName": "tournament-i",
+  "sofMaterialSetID": 38,
+  "soundID": 20063,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonus": 50,
+        "bonusText": {
+          "de": "Bonus auf die optimale Reichweite von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a>",
+          "en": "bonus to <a href=showinfo:3303>Small Energy Turret</a> optimal range",
+          "es": "de bonificación al alcance óptimo de la <a href=showinfo:3303>torreta de energía pequeña</a>.",
+          "fr": "de bonus à la portée optimale des <a href=showinfo:3303>petites tourelles à énergie</a>",
+          "ja": "<a href=showinfo:3303>小型エネルギータレット</a>の最適射程距離が拡大",
+          "ko": "<a href=showinfo:3303>소형 에너지 터렛</a> 최적사거리 증가",
+          "ru": "увеличивается оптимальная дальность ведения огня из <a href=showinfo:3303>малых лазерных орудий</a>",
+          "zh": "<a href=showinfo:3303>小型能量炮台</a>最佳射程加成"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 20,
+        "bonusText": {
+          "de": "Bonus auf alle Panzerungsresistenzen",
+          "en": "bonus to all Armor Resistances",
+          "es": "de bonificación a todas las resistencias de blindaje.",
+          "fr": "de bonus à toutes les résistances de blindage",
+          "ja": "全てのアーマーレジスタンスが増加",
+          "ko": "모든 장갑 저항력 증가",
+          "ru": "повышается сопротивляемость брони корабля всем видам воздействия",
+          "zh": "装甲抗性加成"
+        },
+        "importance": 2,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "3331": [
+        {
+          "bonus": 10,
+          "bonusText": {
+            "de": "Reduktion der Aktivierungskosten von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a>",
+            "en": "reduction in <a href=showinfo:3303>Small Energy Turret</a> activation cost",
+            "es": "de reducción del coste de activación de la <a href=showinfo:3303>torreta de energía pequeña</a>.",
+            "fr": "de réduction du coût d'activation des <a href=showinfo:3303>petites tourelles à énergie</a>",
+            "ja": "<a href=showinfo:3303>小型エネルギータレット</a>の起動コストが軽減",
+            "ko": "<a href=showinfo:3303>소형 에너지 터렛</a> 활성화 비용 감소",
+            "ru": "сокращается расход энергии при ведении огня из <a href=showinfo:3303>малых лазерных орудий</a>",
+            "zh": "<a href=\"showinfo:3303\">小型能量炮台</a>启动消耗减少"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 20,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3303>kleinen Energiegeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3303>Small Energy Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3303>torreta de energía pequeña</a>.",
+            "fr": "de bonus aux dégâts des <a href=showinfo:3303>petites tourelles à énergie</a>",
+            "ja": "<a href=showinfo:3303>小型エネルギータレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3303>소형 에너지 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон <a href=showinfo:3303>малых лазерных орудий</a>",
+            "zh": "<a href=\"showinfo:3303\">小型能量炮台</a>伤害加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
+  },
+  "variationParentTypeID": 29248,
   "volume": 22100.0
 }

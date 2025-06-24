@@ -1,5 +1,18 @@
 {
-  "typeID": 59585,
+  "capacity": 300.0,
+  "description": {
+    "de": "Dieser Kreuzer der <i>Enforcer</i>-Klasse wurde als zentrales Angriffsschiff für die Sicherheitskräfte entworfen, welche den SCC-Sicherheitsschlüsselspeicher bewachen. Es wäre unklug, die Aufmerksamkeit dieses tödlichen Angriffskreuzers auf sich zu ziehen.",
+    "en": "This <i>Enforcer</i>-class cruiser is designed to be the core strike craft of the security forces guarding the SCC Secure Key Storage. It would be unwise to draw the attention of this deadly assault cruiser.",
+    "es": "Este crucero de clase <i>Enforcer</i> se concibió como nave de ataque principal de las fuerzas de seguridad que protegen las instalaciones de almacenamiento seguro de claves de la CCS. Más vale no llamar la atención de este mortífero crucero de asalto.",
+    "fr": "Ce croiseur de classe <i>Enforcer</i> est conçu pour être le fer de lance des forces gardant les sites de stockage de clés sécurisées de la CCS. Il ne serait pas sage d'attirer l'attention de ce croiseur d'assaut meurtrier.",
+    "ja": "この<i>エンフォーサー</i>級巡洋艦は、SCCセキュアキー保管庫を守っている警備部隊の主要攻撃艦となるよう設計されている。この危険な強襲型巡洋艦の注意を引くのは賢明とは言えないだろう。",
+    "ko": "<i>인포서</i>급 크루저로 SCC 보안키를 지키기 위해 배치되었습니다. 접근 시 각별한 주의가 요구됩니다.",
+    "ru": "Этот крейсер класса <i>«Энфорсер»</i> — главное штурмовое судно службы безопасности КпБТ, оберегающей защищённое хранилище ключа. От этого смертоносного ударного крейсера лучше держаться подальше.",
+    "zh": "这艘<i>执法者级</i>巡洋舰是守卫着商业安全委员会安全密钥储藏设施的核心战力。引起这艘凶猛战舰的注意可是件危险的事。"
+  },
+  "graphicID": 21489,
+  "groupID": 1813,
+  "mass": 12500000.0,
   "name": {
     "de": "SCC Security Striker",
     "en": "SCC Security Striker",
@@ -10,5 +23,11 @@
     "ru": "SCC Security Striker",
     "zh": "商业安全委员会打击者"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 200.0,
+  "sofFactionName": "concordcivilian",
+  "soundID": 20078,
   "volume": 116000.0
 }

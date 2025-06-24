@@ -1,5 +1,22 @@
 {
-  "typeID": 14471,
+  "basePrice": 200000.0,
+  "capacity": 5.0,
+  "description": {
+    "de": "Vereinigt die Schadenswirkung zweier 425mm-Mittelstrecken-Maschinenkanonen. Sie muss mit einer der folgenden Projektil-Munitionssorten geladen werden: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton oder Titanium Sabot.",
+    "en": "Combines the damage output of two 425mm intermediate-range autocannons.  \r\n\r\nMust be loaded with any of the following projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, or Titanium Sabot.",
+    "es": "Combina el daño infligido de dos cañones automáticos de 425 mm de alcance medio.\n\nDebe cargarse con cualquiera de los siguientes tipos de munición de proyectiles: plomo carbonado, uranio empobrecido, EMP, fusión, nuclear, plasma fásico, protón o perforante de titanio.",
+    "fr": "Combine les dégâts de deux canons automatiques de 425 mm à portée intermédiaire.  \n\nVous devez y charger les types de munition de projectile suivants : plomb trempé, uranium appauvri, IEM, fusion, nucléaire, plasma à phase, proton ou sabot de titane.",
+    "ja": "425 mm 中距離オートキャノン 2 門が一度にダメージを与える。\r\n\n装填可能なプロジェクタイル弾のタイプ : 炭化鉛弾、劣化ウラン弾、EMP弾、フュージョン弾、ニュークリア弾、フェーズプラズマ弾、プロトン弾、チタン製サボット弾。",
+    "ko": "425mm 중거리 기관포 두 대를 합쳤습니다. <br><br>사용 및 장착 가능한 발사체: 탄화납, 열화 우라늄, EMP, 융합, 원자력, 위상 플라즈마, 양성자, 티타늄 철갑탄.",
+    "ru": "Наносит такой же урон, как две 425-миллиметровые автопушки средней дальности.\n\nДля стрельбы из пушки используются снаряды следующих типов: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton или Titanium Sabot.",
+    "zh": "它是两门425mm中程加农炮的破坏力之合体。\r\n\r\n必须装填以下类型的弹药：碳铅弹、硬钼弹、电磁脉冲弹、聚变弹、核芯弹、定相离子弹、质子弹和钛合金萨博弹。"
+  },
+  "graphicID": 21673,
+  "groupID": 55,
+  "iconID": 381,
+  "marketGroupID": 576,
+  "mass": 200.0,
+  "metaGroupID": 5,
   "name": {
     "de": "Gotan's Modified Dual 425mm AutoCannon",
     "en": "Gotan's Modified Dual 425mm AutoCannon",
@@ -10,5 +27,10 @@
     "ru": "Gotan's Modified Dual 425mm AutoCannon",
     "zh": "戈丹氏改良型双联425mm自动加农炮"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 200.0,
+  "sofFactionName": "minmatarofficer",
+  "variationParentTypeID": 494,
   "volume": 20.0
 }

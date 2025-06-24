@@ -1,5 +1,67 @@
 {
-  "typeID": 33669,
+  "capacity": 165.0,
+  "description": {
+    "de": "Die Incursus wird bei Militäroperationen der Gallente sowohl für Vorstöße als auch defensiv eingesetzt. Durch ihre Geschwindigkeit eignet sie sich hervorragend für Scharmützel und mit ihrer Widerstandskraft hat sie auf dem Schlachtfeld eine größere Ausdauer als ihre Gegner. Schiffe der Incursus-Klasse bewegen sich in Gruppen und können zusammen schnell und effektiv viel größere Schiffe überwältigen. Seit einigen Jahren hat die Incursus immer häufiger ihren Weg in die Hände von Piraten gefunden, die ihr aggressives Aussehen lieben.",
+    "en": "The Incursus may be found both spearheading and bulwarking Gallente military operations. Its speed makes it excellent for skirmishing duties, while its resilience helps it outlast its opponents on the battlefield. Incursus-class ships move together in groups and can quickly and effectively gang up on ships many times their size and overwhelm them. In recent years the Incursus has increasingly found its way into the hands of pirates, who love its aggressive appearance.",
+    "es": "La Incursus puede ocupar posiciones tanto ofensivas como defensivas dentro de las estrategias militares gallentes. Su velocidad la hace excelente para operaciones de escaramuza y, gracias a su resistencia, puede aguantar más tiempo que sus oponentes en el escenario de la batalla. Las naves de la clase Incursus se mueven juntas y, en grupos, son perfectamente capaces de atacar y someter a naves mucho mayores con gran eficacia y rapidez. Entre los piratas, el uso de la Incursus ha aumentado en los últimos años, pues no pueden resistirse a su feroz aspecto.",
+    "fr": "On trouve l'Incursus aussi bien en première ligne qu'en soutien dans les opérations militaires gallente. Sa vitesse en fait un excellent vaisseau pour les escarmouches, tandis que sa résistance lui permet de tenir plus longtemps que ses adversaires sur le champ de bataille. Les vaisseaux de classe Incursus se déplacent en groupe et peuvent se liguer rapidement et efficacement contre des vaisseaux bien plus gros et remporter le combat. Ces dernières années, l’Incursus est devenu de plus en plus prisé par les pirates qui adorent son apparence agressive.",
+    "ja": "ガレンテの艦隊が突撃するときも、防衛線を敷くときも、その中にインカーサスの艦影を見ることができる。その速度は小規模の戦闘で威力を発揮し、回復力の早さから、敵よりも長く戦うことができる。インカーサス級の艦船でグループを形成すれば、数倍の大きさの艦船に素早く効果的な集団戦を仕掛け、圧倒することができる。近年、その攻撃的な外観を好む海賊によって使用される例が増えている。",
+    "ko": "인커서스는 군사 작전 시 공수 양면으로 활약이 가능한 갈란테 함선입니다. 빠른 기동력을 통해 스커미시 교전에서 우세를 점할 수 있으며, 뛰어난 저항력을 바탕으로 전장에서의 높은 전투 유지력을 자랑합니다. 일반적으로 편대로 운용되며 신속하고 효율적인 작전 수행 능력을 통해 자신보다 큰 대형 함급을 공략합니다. 공격적인 외관 덕분에 해적들에게 인기가 높습니다.",
+    "ru": "Корабли типа «Инкёрсус» одинаково уместны в составе как ударных сил, так и флотов поддержки при проведении Галлентской Федерацией военных операций. Отличные ходовые характеристики фрегатов позволяют использовать их для нанесения коротких, беспокоящих ударов по силам противника; благодаря хорошей защищённости «инкёрсусов» вероятность их выживания на поле боя считается достаточно высокой. Наиболее эффективный способ боевого применения «инкёрсусов» — в составе звеньев, охотящихся на более крупные корабли. В последнее время фрегатами этого типа всё охотнее пользуются пираты, которым пришёлся по душе агрессивный внешний вид «инкёрсусов».",
+    "zh": "在盖伦特的军事行动中，因卡萨斯级护卫舰通常充当先锋的角色。它的速度使得它很适合小规模战斗，而它的恢复能力使得它能够在战场上坚持到最后。因卡萨斯级飞船如果成群结队行动，即使体积数倍于它的对手也难以抵挡它们一拥而上的攻击。近几年来，由于其富有攻击性的外观，因卡萨斯在海盗们中越来越流行。"
+  },
+  "factionID": 500004,
+  "graphicID": 20459,
+  "groupID": 25,
+  "mass": 1028000.0,
+  "masteries": {
+    "0": [
+      96,
+      99,
+      140,
+      67,
+      150,
+      89,
+      94
+    ],
+    "1": [
+      96,
+      99,
+      140,
+      67,
+      150,
+      89,
+      94
+    ],
+    "2": [
+      96,
+      99,
+      140,
+      67,
+      150,
+      89,
+      94
+    ],
+    "3": [
+      96,
+      99,
+      140,
+      67,
+      150,
+      89,
+      94
+    ],
+    "4": [
+      96,
+      99,
+      140,
+      67,
+      117,
+      150,
+      89,
+      94
+    ]
+  },
   "name": {
     "de": "Incursus Inner Zone Shipping Edition",
     "en": "Incursus Inner Zone Shipping Edition",
@@ -9,6 +71,48 @@
     "ko": "인커서스 이너존 운송 에디션",
     "ru": "Zone Shipping Edition",
     "zh": "因卡萨斯级短途物流版"
+  },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 8,
+  "radius": 41.0,
+  "sofFactionName": "innerzone",
+  "soundID": 20074,
+  "traits": {
+    "types": {
+      "3328": [
+        {
+          "bonus": 7.5,
+          "bonusText": {
+            "de": "Bonus auf die Leistung von <a href=showinfo:3393>Panzerungsreparatursystemen</a>",
+            "en": "bonus to <a href=showinfo:3393>Armor Repairer</a> amount",
+            "es": "de bonificación a la eficiencia de los <a href=showinfo:3393>reparadores de blindaje</a>.",
+            "fr": "bonus à la capacité du <a href=showinfo:3393>réparateur de blindage</a>",
+            "ja": "<a href=showinfo:3393>アーマーリペアラ</a>のリペア量が増加",
+            "ko": "<a href=showinfo:3393>장갑수리 장치</a> 수리량 증가",
+            "ru": "повышается производительность <a href=showinfo:3393>установок ремонта брони</a>",
+            "zh": "<a href=\"showinfo:3393\">装甲维修器</a>维修量加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf den Schaden von <a href=showinfo:3301>kleinen Hybridgeschütztürmen</a>",
+            "en": "bonus to <a href=showinfo:3301>Small Hybrid Turret</a> damage",
+            "es": "de bonificación al daño de la <a href=showinfo:3301>torreta híbrida pequeña</a>.",
+            "fr": "bonus aux dégâts de la <a href=showinfo:3301>petite tourelle hybride</a>",
+            "ja": "<a href=showinfo:3301>小型ハイブリッドタレット</a>のダメージが増加",
+            "ko": "<a href=showinfo:3301>소형 하이브리드 터렛</a> 피해량 증가",
+            "ru": "увеличивается урон боеприпасов <a href=showinfo:3301>малых гибридных орудий</a>",
+            "zh": "<a href=\"showinfo:3301\">小型混合炮台</a>伤害加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 29500.0
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 16281,
+  "basePrice": 400000.0,
+  "description": {
+    "de": "Fertigkeit, Eis abbauen zu können.\r\n\r\nBonus: 5% auf die Ablaufzeit von Ice Harvestern je Skillstufe.",
+    "en": "Skill at harvesting ice. 5% reduction per skill level to the cycle time of ice harvesters.",
+    "es": "Habilidad de recolección de hielo. Reducción del 5 % por nivel de habilidad en el tiempo de ciclo de las cosechadoras de hielo.",
+    "fr": "Compétence liée à la récolte de glace. Réduit de 5 % par niveau de compétence le temps de cycle des collecteurs de glace.",
+    "ja": "アイス採掘のスキル。スキルレベル上昇ごとにアイス採掘機のサイクル時間が5%短縮。",
+    "ko": "아이스 채굴을 위한 스킬입니다. 매 레벨마다 아이스 채굴기의 채굴 주기 5% 감소",
+    "ru": "Навык добычи льда. За каждую степень освоения навыка: на 5% сокращается продолжительность рабочего цикла установок для бурения льда.",
+    "zh": "开采冰矿的技能。每升一级，冰矿采集器的循环周期缩短5%。"
+  },
+  "groupID": 1218,
+  "iconID": 33,
+  "marketGroupID": 1323,
   "name": {
     "de": "Ice Harvesting",
     "en": "Ice Harvesting",
@@ -10,5 +23,7 @@
     "ru": "Добыча льда",
     "zh": "冰矿采集理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

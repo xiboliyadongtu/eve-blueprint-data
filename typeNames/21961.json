@@ -1,5 +1,19 @@
 {
-  "typeID": 21961,
+  "basePrice": 84375000.0,
+  "description": {
+    "de": "Mechanische Bauteile, die für den Bau einer Andockbucht eines Außenpostens erforderlich sind.",
+    "en": "Mechanical components required for the construction of an outpost docking bay.",
+    "es": "Componentes mecánicos necesarios para la construcción de una plataforma de acoplamiento en un puesto avanzado.",
+    "fr": "Composants mécaniques nécessaires à la construction d'une baie d'amarrage sur un avant-poste spatial.",
+    "ja": "アウトポストに設置するドッキングベイの建設に必要な機械部品。",
+    "ko": "전초기지 도킹 베이 건설을 위해 필요한 기계 부품들입니다.",
+    "ru": "Механические компоненты, необходимые для сооружения доков станции.",
+    "zh": "建造空间站船坞所需的机械部件。"
+  },
+  "groupID": 536,
+  "iconID": 2882,
+  "marketGroupID": 1865,
+  "mass": 10000.0,
   "name": {
     "de": "Structure Docking Bay",
     "en": "Structure Docking Bay",
@@ -10,5 +24,7 @@
     "ru": "Structure Docking Bay",
     "zh": "建筑停泊港"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 3000.0
 }

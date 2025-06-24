@@ -1,5 +1,18 @@
 {
-  "typeID": 47025,
+  "basePrice": 1.0,
+  "description": {
+    "de": "Dieser sichergestellte Datenstrom ist unvollständig, scheint aber Teil eines Navigationsfernmessungsdatensatzes zu sein. Vielleicht kann man mit einer Portion Scharfsinn etwas damit anfangen. ...#=!!!EF///S0.1//0.3//0.2//0.4//0.4//0.6//R0.7//0.7//0.5//0.6//0.6//0.8//0.9//R0.7//0.7//0.8//R0.5//0.6//0.9//1.0//R0.9//0.6//0.7//R0.7//0.7//0.7//D0.7///D-RE!!!=#...",
+    "en": "This recovered data stream is incomplete but appears to be part of a navigation telemetry dataset. Perhaps something can be made of it with a bit of ingenuity.\r\n\r\n...#=!!!EF///S0.1//0.3//0.2//0.4//0.4//0.6//R0.7//0.7//0.5//0.6//0.6//0.8//0.9//R0.7//0.7//0.8//R0.5//0.6//0.9//1.0//R0.9//0.6//0.7//R0.7//0.7//0.7//D0.7///D-RE!!!=#...",
+    "es": "Este flujo de datos recuperado está incompleto, pero parece formar parte de un conjunto de datos de telemetría de navegación. Quizá se pueda sacar algo de él con un poco de ingenio.\n\n\n\n...#=!!!EF///S0.1//0.3//0.2//0.4//0.4//0.6//R0.7//0.7//0.5//0.6//0.6//0.8//0.9//R0.7//0.7//0.8//R0.5//0.6//0.9//1.0//R0.9//0.6//0.7//R0.7//0.7//0.7//D0.7///D-RE!!!=#...",
+    "fr": "Ce flux de données récupérées est incomplet mais semble appartenir à un ensemble de données télémétriques de navigation. Avec un peu d'ingéniosité, on pourrait en faire quelque chose. ...#=!!!EF///S0.1//0,3//0,2//0,4//0,4//0,6//R0.7//0,7//0,5//0,6//0,6//0,8//0,9//R0.7//0,7//0,8//R0.5//0,6//0,9//1,0//R0.9//0,6//0,7//R0.7//0,7//0,7//D0.7///D-RE!!!=#...",
+    "ja": "この復元されたデータストリームは不完全だが、ナビゲーション・テレメトリデータセットの一部のようだ。おそらく、少しの工夫で何かができるのではないだろうか。\r\n\n...#=!!!EF///S0.1//0.3//0.2//0.4//0.4//0.6//R0.7//0.7//0.5//0.6//0.6//0.8//0.9//R0.7//0.7//0.8//R0.5//0.6//0.9//1.0//R0.9//0.6//0.7//R0.7//0.7//0.7//D0.7///D-RE!!!=#...",
+    "ko": "일부 복구된 데이터 스트림으로 미루어 보아 운항 텔레미터의 일부로 추측됩니다. 배열을 통해 무언가를 알아낼 수 있을지도 모릅니다.<br><br>...#=!!!EF///S0.1//0.3//0.2//0.4//0.4//0.6//R0.7//0.7//0.5//0.6//0.6//0.8//0.9//R0.7//0.7//0.8//R0.5//0.6//0.9//1.0//R0.9//0.6//0.7//R0.7//0.7//0.7//D0.7///D-RE!!!=#...",
+    "ru": "Этот неполный поток восстановленных данных, судя по всему, является фрагментом навигационной телеметрии. Возможно, если применить находчивость и смекалку, удастся понять, что они означают. ...#=!!!EF///S0.1//0.3//0.2//0.4//0.4//0.6//R0.7//0.7//0.5//0.6//0.6//0.8//0.9//R0.7//0.7//0.8//R0.5//0.6//0.9//1.0//R0.9//0.6//0.7//R0.7//0.7//0.7//D0.7///D-RE!!!=#...",
+    "zh": "这份复原出的数据流残缺不全，看上去是一份导航遥测数据的一部分。如果脑洞大开的话说不定还能用它来做点什么事情。\n\n\n\n...#=!!!EF///S0.1//0.3//0.2//0.4//0.4//0.6//R0.7//0.7//0.5//0.6//0.6//0.8//0.9//R0.7//0.7//0.8//R0.5//0.6//0.9//1.0//R0.9//0.6//0.7//R0.7//0.7//0.7//D0.7///D-RE!!!=#..."
+  },
+  "groupID": 314,
+  "iconID": 2853,
+  "mass": 1.0,
   "name": {
     "de": "Recovered Navigation Telemetry",
     "en": "Recovered Navigation Telemetry",
@@ -10,5 +23,7 @@
     "ru": "Recovered Navigation Telemetry",
     "zh": "复原的导航遥测数据"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.1
 }

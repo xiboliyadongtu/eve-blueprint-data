@@ -1,5 +1,18 @@
 {
-  "typeID": 3442,
+  "basePrice": 750000.0,
+  "description": {
+    "de": "Verbessert den Schaden und Bergbauertrag von Drohnen und Jägern unter Ihrer Kontrolle.\n\n\n\n10% Bonus auf die Schadenswirkung und die Mineralausbeute von Drohnen je Skillstufe.\n\n10% Bonus auf die Schadenswirkung von Jägern je Skillstufe.",
+    "en": "Improves damage and mining yield for drones and fighters under your control.\r\n\r\n10% bonus to drone damage and drone mining yield per level.\r\n10% bonus to fighter damage per level.",
+    "es": "Mejora el daño y el rendimiento minero de drones y cazas bajo tu control.\n\n10 % de bonificación al daño y al rendimiento minero de los drones por nivel.\n\n10 % de bonificación al daño de los cazas por nivel.",
+    "fr": "Augmente les dégâts et le rendement minier des drones et des chasseurs du pilote. Augmente de 10 % par niveau les dégâts des drones et le rendement des drones d’extraction. Augmente de 10 % par niveau les dégâts des chasseurs.",
+    "ja": "管制下にある戦闘機およびドローンのダメージと採掘量を増加させる。\n\n\n\nレベル上昇ごとにドローンのダメージと採掘量が10％上昇。\n\nレベル上昇ごとに戦闘機のダメージが10% 上昇。",
+    "ko": "드론 및 파이터의 피해량과 채굴량이 증가합니다. <br><br>매 레벨마다 드론 피해량 및 채굴량 10% 증가 <br>매 레벨마다 파이터 피해량 10% 증가",
+    "ru": "Повышает урон дронов и истребителей под вашим управлением, а также эффективность добычи ими руды.\n\n\n\nЗа каждую степень освоения навыка: на 10% увеличивается объём выработки руды дронами и урон бортового оружия дронов и истребителей.",
+    "zh": "提高你控制的无人机和铁骑舰载机的伤害和采矿量。\n\n\n\n每升一级，无人机的伤害和采矿量各提升10%。\n\n铁骑舰载机伤害提高10%。"
+  },
+  "groupID": 273,
+  "iconID": 33,
+  "marketGroupID": 366,
   "name": {
     "de": "Drone Interfacing",
     "en": "Drone Interfacing",
@@ -10,5 +23,7 @@
     "ru": "Улучшения орудий дронов",
     "zh": "无人机控制理论"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

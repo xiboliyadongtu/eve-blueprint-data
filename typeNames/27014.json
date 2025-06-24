@@ -1,5 +1,17 @@
 {
-  "typeID": 27014,
+  "basePrice": 33264.0,
+  "description": {
+    "de": "Ein Hacking-System zur Überbrückung elektronischer Sicherheitssysteme.\n\n\n\nDa es sich um ein Zivilmodul handelt, ist es nur für simple Systeme geeignet und sollte nicht zu professionellen Zwecken verwendet werden.",
+    "en": "A Hacking system used to override electronic security systems. \r\n\r\nAs this is a Civilian module, it will only work on the most basic system locks and should not be used in professional circumstances.",
+    "es": "Un sistema de hackeo empleado para anular sistemas de seguridad electrónica.\n\nComo se trata de un módulo civil, solo funciona en los bloqueos de sistema más básicos y no debe utilizarse en circunstancias profesionales.",
+    "fr": "Ce système de piratage est utilisé pour outrepasser les systèmes de sécurité électroniques. \n\n\n\nSimple module civil, il ne permet de contrecarrer que les systèmes de verrouillage les plus rudimentaires et ne doit en aucun cas être destiné à un usage professionnel.",
+    "ja": "ハッキングシステム。電子セキュリティシステムを解除することができる。 \r\n\n民間人用のモジュールなので、最も基本的な電子ロックにしか使用できない。専門的な技術が必要とされる場面には持ち出さないほうがいいだろう。",
+    "ko": "전자 보안 시스템을 무력화시키는 데 쓰이는 해킹 시스템입니다. <br><br>민수용 모듈이기 때문에 가장 기본적인 시스템에만 사용할 수 있으며 전문적인 시스템에서는 사용 불가능합니다.",
+    "ru": "Устройство для взлома электронных систем защиты. \n\n\n\nБудучи модулем гражданского образца, этот комплекс работает только в самых простых защитных системах, и не должен применяться в случаях, требующих внимания профессионалов.",
+    "zh": "用于绕过电子安保系统的黑客系统。 \n\n\n\n这是一个民用装备，只能用于最基础的系统中，无法在专业的环境下使用。"
+  },
+  "groupID": 538,
+  "iconID": 2856,
   "name": {
     "de": "Civilian Data Analyzer",
     "en": "Civilian Data Analyzer",
@@ -10,5 +22,8 @@
     "ru": "Civilian Data Analyzer",
     "zh": "民用数据分析仪"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 500.0,
   "volume": 5.0
 }

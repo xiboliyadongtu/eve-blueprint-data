@@ -1,5 +1,18 @@
 {
-  "typeID": 34449,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dies ist der zentrale Bereich des Archiv-Großhirns, der Einheit, die das Archivgebiet überwacht. Sie hat Schaden genommen und eine havarierte Membran lässt kritische Flüssigkeit durchsickern, die sie benötigt, um ordnungsgemäß zu funktionieren. Um sie erneut zum Laufen zu bringen, muss sie Ausgleich in ihrem Flüssigkeitensystem erlangen. Sobald sie wieder funktionstüchtig ist, kann sie die Archivarbeitermaschinen in diesem Gebiet steuern.",
+    "en": "This is the central part of the Archive Cerebrum, the unit supervising the archives area. It has received damage, a fractured membrane leaking vital fluid for it to function properly. To make it functional again, it needs to reach equilibrium in its fluid system. Once functional, it can direct the Archive worker machines stationed around the area.",
+    "es": "Esta es la parte central del cerebro del archivo, la unidad que supervisa la zona de los archivos. Ha sufrido daños y una membrana fracturada filtra el fluido vital necesario para su correcto funcionamiento. Para repararla, hay que restablecer el equilibrio en su sistema de fluidos. Después, podrá volver a controlar los archivadores robóticos estacionados por la zona.",
+    "fr": "C'est la partie centrale du Cerebrum des archives, l'unité qui supervise le secteur des archives. Elle a reçu pas mal de dégâts, une membrane fracturée laisse couler un fluide vital à son bon fonctionnement. Son système de fluides doit être équilibré pour qu'elle puisse fonctionner à nouveau. Une fois qu'elle est fonctionnelle, elle peut rediriger les ordinateurs des archives qui stationnent autour de la zone.",
+    "ja": "アーカイブセレブラムの中枢。アーカイブエリアを管理するユニットである。損傷による影響で膜が破れており、正常に機能するために必要な液体が流出してしまっている。再度機能させるには、液体システムを平衡状態にする必要がある。機能すれば、エリア周辺に配備されているアーカイブワーカーマシンに指示を与えることができるようになる。",
+    "ko": "아카이브 세레브럼의 중앙시설로 아카이브 전체를 관리합니다. 손상으로 인해 생긴 외벽의 균열에서 액체가 새어나오고 있습니다. 이 액체는 가동에 필수적인 요소이기 때문에 장치를 재가동 시키기 위해서는 유체 시스템의 균형을 되찾아야합니다. 시설을 가동 시키면 주변의 아카이브 작업 기계들을 조종할 수 있습니다.",
+    "ru": "Центральная часть Мозгового Архива, блок, контролирующий район-архив. Он повреждён, через порванную диафрагму истекает необходимая для его функционирования жидкость. Чтобы заставить его работать, следует вновь привести в равновесие систему питания После ремонта он сможет управлять размещёнными здесь машинами-работниками Архива.",
+    "zh": "这是档案端脑的中心部分，是监控档案馆区域的元件。由于受到伤害，它的薄膜断裂导致体液流出，因而不能正常工作了。要使它恢复功能，必须使它的流体系统恢复平衡。一旦恢复功能，它就能管理配置在周围区域的档案管理机器。"
+  },
+  "graphicID": 3518,
+  "groupID": 952,
+  "mass": 10000.0,
   "name": {
     "de": "Central Archive Cerebrum",
     "en": "Central Archive Cerebrum",
@@ -10,5 +23,10 @@
     "ru": "Central Archive Cerebrum",
     "zh": "中心档案端脑"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 4738.0,
+  "sofFactionName": "sleeperbase",
   "volume": 27500.0
 }

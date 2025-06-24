@@ -1,5 +1,18 @@
 {
-  "typeID": 11279,
+  "description": {
+    "de": "Steigert die maximale Stärke der Panzerung.\n\n\n\nNachteil: Die Masse Ihres Schiffes nimmt zu, es ist nicht mehr so wendig und schwieriger zu steuern. Außerdem sind Geschwindigkeitsmodule wie Nachbrenner oder Mikrowarpantriebe weniger wirkungsvoll.",
+    "en": "Increases the maximum strength of the Armor.\r\n\r\nPenalty: Adds to your ship's mass, making it less agile and maneuverable in addition to decreasing the factor of thrust gained from speed modules like Afterburners and MicroWarpdrives.",
+    "es": "Aumenta la resistencia máxima del blindaje.\n\n\n\nPenalización: Añade peso a tu nave, lo que hace que sea menos ágil y manejable, además de reducir el impulso obtenido de módulos de velocidad como posquemadores y motores de microwarp.",
+    "fr": "Renforce la solidité maximale du blindage.\n\n\n\nPénalité : augmente la masse du vaisseau, au détriment de l'agilité de la coque et de la force de poussée exercée par les modules de propulsion tels que la post-combustion et les propulseurs de microwarp.",
+    "ja": "アーマーの最高強度を上昇させる。\n\n\n\nペナルティ： 艦船の重量が増すため機動性・操作性が損なわれることに加え、アフターバーナーやマイクロワープドライブといったスピード系モジュールから得られる推進力も減少する。",
+    "ko": "장갑 내구도가 증가합니다. <br><br>페널티: 함선 무게 증가로 인해 속도 및 선회력이 감소합니다. 애프터버너 또는 마이크로 워프드라이브로 얻는 추진력 또한 감소합니다.",
+    "ru": "Увеличивает максимальный запас прочности брони.\n\n\n\nНедостатки: увеличивает вес корабля, уменьшая его скорость и маневренность, уменьшает удельную тягу форсажных ускорителей и микроварп-ускорителей.",
+    "zh": "增加装甲的最大强度。\n\n\n\n惩罚：增加舰船质量，使其灵活性和机动能力降低，减少诸如加力燃烧器和微型跃迁推进器等速度装备的推力加成效果。"
+  },
+  "groupID": 329,
+  "iconID": 79,
+  "marketGroupID": 1676,
+  "metaGroupID": 1,
   "name": {
     "de": "1600mm Steel Plates I",
     "en": "1600mm Steel Plates I",
@@ -10,5 +23,8 @@
     "ru": "1600mm Steel Plates I",
     "zh": "1600mm钢附甲板 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 20.0
 }

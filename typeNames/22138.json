@@ -1,5 +1,18 @@
 {
-  "typeID": 22138,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Dieses rattenverseuchte Gefängnis wird von Maru Personal sorgfältig bewacht.",
+    "en": "This rat-infested prison is being closely guarded by Maru personnel.",
+    "es": "Esta prisión infestada de ratas está fuertemente vigilada por el personal de Maru.",
+    "fr": "Cette prison infestée de rats est gardée par des rebelles maru armés jusqu'aux dents.",
+    "ja": "マル社が厳重に警備するネズミのはびこる刑務所。",
+    "ko": "쥐가 득실대는 감옥으로 마루 저항군이 경비를 서고 있습니다.",
+    "ru": "Эта кишащая крысами тюрьма охраняется людьми Maru.",
+    "zh": "这个老鼠猖獗的监狱由马鲁人员严密守卫。"
+  },
+  "graphicID": 2520,
+  "groupID": 306,
+  "mass": 100000.0,
   "name": {
     "de": "Minmatar Prison_Mission",
     "en": "Minmatar Prison_Mission",
@@ -10,5 +23,9 @@
     "ru": "Minmatar Prison_Mission",
     "zh": "米玛塔尔监狱_任务"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 416.0,
+  "sofFactionName": "genericprison",
   "volume": 100000000.0
 }

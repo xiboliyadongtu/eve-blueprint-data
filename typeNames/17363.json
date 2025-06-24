@@ -1,5 +1,21 @@
 {
-  "typeID": 17363,
+  "basePrice": 50000.0,
+  "capacity": 120.0,
+  "description": {
+    "de": "Dieser kleine Audit Log Container ist mit einem kennwortgeschützten Sicherheitsschloss ausgestattet.",
+    "en": "This small audit log container is fitted with a password-protected security lock.",
+    "es": "Este contenedor de registro de auditoría pequeño está equipado con un cierre de seguridad protegido por contraseña.",
+    "fr": "Le petit conteneur à journaux d'audit est équipé d'un verrou de sécurité protégé par mot de passe.",
+    "ja": "小型の会計監査ログ用コンテナ。パスワード式ロック機能付き。",
+    "ko": "암호화된 보안 장치가 탑재된 소형 컨테이너입니다.",
+    "ru": "Доступ к этому контейнеру небольшого размера защищен паролем. Все операции, проводимые с его содержимым, регистрируются в журнале.",
+    "zh": "这个小型审计安全密码集装箱安装了密码保护安全锁装置。"
+  },
+  "graphicID": 1173,
+  "groupID": 448,
+  "iconID": 1173,
+  "marketGroupID": 1652,
+  "mass": 10000.0,
   "name": {
     "de": "Small Audit Log Secure Container",
     "en": "Small Audit Log Secure Container",
@@ -10,5 +26,9 @@
     "ru": "Small Audit Log Secure Container",
     "zh": "小型审计安全密码集装箱"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 10.0,
+  "sofFactionName": "genericmetal",
   "volume": 100.0
 }

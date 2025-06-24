@@ -1,5 +1,19 @@
 {
-  "typeID": 57029,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dieser Strategieknoten ist ein Schlüsselelement im Kommando von Sansha’s Nation und dient zur Kontrolle von entlegenen Operationen. Die Richtung der Operationen von Wightstorm-Flotten in unbeständigen Eisstürmen hängt von in ganz New Eden verstreuten synchronisierten und verschlüsselten Anweisungen von Knoten wie diesem ab. Die Wightstorm-Flotte wurde aus den gewaltigen Reserven von Sansha’s Nation zusammengestellt, um die Chance zu nutzen, die sich durch das Auftauchen von metaliminalen unbeständigen Eisstürmen in ganz New Eden bietet.",
+    "en": "This strategic node is a key element in Sansha's Nation command and control of far-flung operations. The direction of Wightstorm Fleet's operations in volatile ice storms depends on synchronized and encrypted instructions disseminated across New Eden from nodes like this.\r\n\r\nThe Wightstorm Fleet has been drawn from the vast reserves of Sansha's Nation to take advantage of the opportunity presented by the appearance of metaliminal volatile ice storms across New Eden.",
+    "es": "Este nodo estratégico es un elemento clave en el mando y control de las operaciones lejanas de la Nación Sansha. La dirección de las operaciones de la flota Wightstorm en las tormentas de hielo volátil se efectúa mediante instrucciones sincronizadas y cifradas, difundidas por todo Nuevo Edén desde nodos como este.\n\nLa flota Wightstorm ha sido extraída de las vastas reservas de la Nación Sansha para sacarle provecho a la aparición de tormentas de hielo volátil metaliminales en todo Nuevo Edén.",
+    "fr": "Ce nœud stratégique est un élément clé du commandement et du contrôle de la Sansha's Nation sur ses opérations lointaines. La direction des opérations de la Wightstorm Fleet dans les tempêtes de glace volatile dépend d'instructions synchronisées et cryptées disséminées à travers tout New Eden depuis des nœuds comme celui-ci. La Wightstorm Fleet a été mobilisée parmi la vaste réserve de la Sansha's Nation pour profiter de l'opportunité que présente l'apparition de tempêtes de glace volatile métaliminales à travers New Eden.",
+    "ja": "このストラテジックノードは、サンシャ国が遠隔地での作戦の指揮、統制を行なう上で重要なものである。揮発性アイスストームの中でのワイトストーム艦隊の活動は、こうしたノードからニューエデン全体に向けて発信された同期化暗号によって決定される。\n\n\n\nワイトストーム艦隊は、ニューエデン全域で発生しているメタリミナルの揮発性アイスストームに対応するため、サンシャ国の膨大な所属艦から選抜されたものである。",
+    "ko": "산샤 네이션이 장거리 작전을 수행하기 위해 운영하는 전술 노드입니다. 와이트스톰 함대는 뉴에덴 각지에 설치된 전술 노드를 통해 암호화된 작전 명령을 하달받고 불안정한 얼음 폭풍 내에서 각종 임무를 수행합니다.<br><br>와이트스톰 함대는 산샤 네이션의 예비 전력에서 징집된 부대로 뉴에덴 전역에 생성된 메타경계성 얼음 폭풍에서 자원을 확보하는 임무를 담당하고 있습니다.",
+    "ru": "Этот стратегический узел — ключевой элемент в системе управления удалёнными операциями «Нации Санши». Направление деятельности флота «Призрачный шторм» в нестабильных ледяных бурях зависит от синхронизации и распределения зашифрованных указаний, которые рассылаются с узлов, подобных этому. Когда по всему Новому Эдему начали свирепствовать нестабильные металиминальные ледяные бури, «Нация Санши» мобилизовала из своих резервов немалое количество судов и создала флот «Призрачный шторм» с целью присвоить себе богатства, которые можно найти в таких очагах.",
+    "zh": "这座战略节点是萨沙共和国指挥和控制远征行动的关键因素。风暴之灵舰队在不稳定冰风暴中的行动依赖于全宇宙中的这种节点进行同步与加密指引。\n\n\n\n风暴之灵舰队受萨沙共和国派遣，意图在肆虐新伊甸的不稳定冰风暴中寻找机遇。"
+  },
+  "graphicID": 20298,
+  "groupID": 1207,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Strategic Node (Wightstorm Fleet)",
     "en": "Strategic Node (Wightstorm Fleet)",
@@ -10,5 +24,10 @@
     "ru": "Strategic Node (Wightstorm Fleet)",
     "zh": "战略节点 (风暴之灵舰队)"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 300.0,
+  "sofFactionName": "genericbase",
+  "soundID": 20182,
   "volume": 27500.0
 }

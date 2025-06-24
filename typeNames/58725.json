@@ -1,5 +1,19 @@
 {
-  "typeID": 58725,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Diese Einrichtung ist der Schlüssel zu den teuflischen Plänen des EoM, denn sie ist entscheidend für die Aufrechterhaltung des illegalen Zugangs zu den Anziehungsnetzwerken und der Umgehungstechnologie für die Anziehungsstörung der Kernimperien. Wenn diese Anlage zur Manipulation des Anziehungsnetzwerks erfolgreich gehackt wird, können alle verbundenen Anziehungssignalfeuer durch Einschleusen von Viren gestört werden. Diese Einrichtung zu hacken und zu stören ist ein primäres Ziel für loyale Kapselpiloten.",
+    "en": "This facility is key to the EoM's diabolical plans as it is critical to maintaining their illicit access to core empire cyno networks and cyno-jamming bypass technology. If the Cyno Network Spoofing Facility is successfully hacked it will be possible to disrupt any connected cynosural beacons by planting information warfare viruses in its key systems. This facility is a priority target for hacking and disrupting by loyal capsuleers.",
+    "es": "Instalación clave en los planes diabólicos de EoM, pues es necesaria para mantener el acceso ilícito a las cinorredes centrales del imperio y la tecnología que permite eludir la cinoinhibición. Al hackear el centro de suplantación de cinorredes de EoM, es posible inhibir cualquier baliza cinosural conectada implantando virus de guerra de información en sus sistemas principales. Esta instalación es un objetivo prioritario que los capsulistas leales deben hackear e inutilizar.",
+    "fr": "Cette installation est un élément clé des plans diaboliques d’EoM, et est vitale pour lui permettre de conserver son accès illicite aux réseaux cynosuraux des principaux empires, ainsi qu’à leur technologie de contournement du brouillage cynosural. Si l’installation de falsification du réseau cynosural est piratée, il sera possible de perturber toute balise cynosurale connectée en introduisant des virus de guerre informatique dans ses systèmes clés. Cette installation constitue une cible prioritaire pour les opérations de piratage et de perturbation par des fidèles capsuliers.",
+    "ja": "この設備は、主要国家のサイノネットワークとサイノジャミングのバイパス技術に違法アクセスできる状況を維持するために不可欠で、EoMの非道な計画のカギとなっている。サイノネットワーク・スプーフィング設備のハッキングに成功すれば、基幹システムに情報戦用ウイルスを植え付けることで、接続されている全てのサイノシュラルビーコンを無効化することができる。忠誠心の強いカプセラにとって、この設備はハッキングや無効化の優先ターゲットとなっている。",
+    "ko": "EoM의 계획에 핵심이 되는 시설로 4대 제국의 사이노 네트워크와 우회 기술을 무력화하는 데 사용됩니다. 해킹을 통해 중앙 시스템에 바이러스를 침투시킬 경우 사이노슈럴 비컨을 교란할 수 있습니다. 캡슐리어는 교란시설을 최우선적으로 공략할 것을 권장합니다.",
+    "ru": "Этот объект играет ключевую роль в коварном плане «Равновесия человечества». Именно он обеспечивает противозаконный доступ к сети приводных маяков великих держав и технологии обхода помех приводному маяку. Тот, кто взломает центр имитации объекта приводной сети, сможет нарушить работу связанных с ним приводных маяков, заразив его систему вирусами. Взлом и вывод из строя этого объекта — приоритетная задача для преданных своему делу капсулёров.",
+    "zh": "这座设施是EoM邪恶计划的关键部分，因为它可以让EoM成员非法连接到帝国诱导网络。如果成功破译了诱导网络伪装设施，就可以通过对核心系统植入信息战病毒来干扰任何连接到此处的诱导信标。对忠诚的克隆飞行员来说，这座设施是需要优先处理的目标。"
+  },
+  "graphicID": 20298,
+  "groupID": 1207,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "EoM Cyno Network Spoofing Facility",
     "en": "EoM Cyno Network Spoofing Facility",
@@ -10,5 +24,10 @@
     "ru": "EoM Cyno Network Spoofing Facility",
     "zh": "EoM诱导网络伪装设施"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 300.0,
+  "sofFactionName": "genericbase",
+  "soundID": 20182,
   "volume": 27500.0
 }

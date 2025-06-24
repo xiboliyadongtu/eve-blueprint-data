@@ -1,5 +1,18 @@
 {
-  "typeID": 52311,
+  "description": {
+    "de": "Eine Komponente im Energieerzeugungssystem, die beim Design von Triglavia-Schiffen und anderen darauf aufbauenden Schiffen Anwendung findet. Möglicherweise nützlich als Komponente zahlreicher anderer Technologien. Diese Technologie erzeugt Energie, indem sie die Strahlung einer Singularität, die einen kritischen Teil des Triglavia-Energiesystems darstellt, in brauchbare Energie umwandelt.",
+    "en": "A power generation system component used in Triglavian ship designs and others adapted from such designs. Potentially useful as a component in various other technologies.\r\n\r\nThis power generation technology works by converting into usable energy the radiation produced by the singularity that is the critical feature of Triglavian power systems.",
+    "es": "Componente del sistema de generación de energía utilizado por las naves triglavianas y otras adaptaciones de esos diseños. Potencialmente útil como componente en distintas tecnologías.\n\n\n\nEsta tecnología de generación de energía convierte en energía utilizable la radiación producida por la singularidad, que es la función crítica de los sistemas de alimentación triglavianos.",
+    "fr": "Un composant de système de génération de puissance utilisé dans la conception des vaisseaux triglavian et d'autres composants adaptés à partir de cette conception. Potentiellement utile comme composant pour diverses autres technologies. Cette technologie de génération de puissance fonctionne en convertissant les radiations produites par la singularité en énergie exploitable, ce qui est la fonctionnalité essentielle des systèmes de puissance triglavian.",
+    "ja": "トリグラビアンの船舶設計や、その派生形で使われていた動力システムの1部品。ひょっとすると、その以外の広い分野でも部品として役に立つかもしれない。\r\n\nこの動力生成技術は、トリグラビアン動力システムの中核を担う特異点によって生成される放射能を使用可能なエネルギーに変換している。",
+    "ko": "트리글라비안 기술이 적용된 함선 및 장치에서 흔히 사용되는 전력 발전 시스템으로 다른 분야 또는 목적에 맞게 재설계할 수 있어 유용하게 사용됩니다. <br><br>트리글라비안의 전력 발전 기술은 특이점에서 발생하는 방사능으로부터 전력을 추출 및 변환하는 방식에 차별점을 두고 있습니다.",
+    "ru": "Компонент системы энергопроизводства, используемый в кораблях Триглава и других кораблях, созданных по их мотивам. Потенциальный компонент для различных других технологий. Эта технология энергопроизводства работает путём преобразования в полезную энергию излучения, производимого сингулярностью, лежащей в основе энергосистем Триглава.",
+    "zh": "三神裔舰船以及其他采用采用相似设计的舰船所使用的能量产生系统的组件。可能也可用于其他科技种类中。\n\n\n\n这种能量产生技术可以将奇点产生的辐射转化成能量，这也是三神裔能量系统的核心技术。"
+  },
+  "groupID": 334,
+  "iconID": 24140,
+  "marketGroupID": 2658,
+  "mass": 1.0,
   "name": {
     "de": "Singularity Radiation Convertor",
     "en": "Singularity Radiation Convertor",
@@ -10,5 +23,8 @@
     "ru": "Singularity Radiation Convertor",
     "zh": "奇点辐射转化器"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 135,
   "volume": 1.0
 }

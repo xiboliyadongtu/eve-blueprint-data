@@ -1,5 +1,18 @@
 {
-  "typeID": 14707,
+  "description": {
+    "de": "Gibt Energie zur schnellen Erhöhung der Schutzschildstärke ab.",
+    "en": "Expends energy to provide a quick boost in shield strength.",
+    "es": "Gasta energía para potenciar rápidamente la fuerza del escudo.",
+    "fr": "Augmente l'énergie de manière à renforcer brièvement la résistance du bouclier.",
+    "ja": "エネルギーを消費し、シールドの強度を即座に高める",
+    "ko": "에너지를 소모하여 일정 시간 동안 실드를 강화합니다.",
+    "ru": "Использует энергию конденсатора, чтобы быстро восстановить заряд щитов.",
+    "zh": "消耗能量以快速提高护盾强度。"
+  },
+  "groupID": 40,
+  "iconID": 84,
+  "marketGroupID": 612,
+  "metaGroupID": 5,
   "name": {
     "de": "Estamel's Modified X-Large Shield Booster",
     "en": "Estamel's Modified X-Large Shield Booster",
@@ -10,5 +23,10 @@
     "ru": "Estamel's Modified X-Large Shield Booster",
     "zh": "埃斯塔梅尔氏改良型超大型护盾回充增量器"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 1,
+  "radius": 500.0,
+  "variationParentTypeID": 10840,
   "volume": 50.0
 }

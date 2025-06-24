@@ -1,5 +1,18 @@
 {
-  "typeID": 29637,
+  "basePrice": 55000000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Industrie-Kommandoschiffen.",
+    "en": "Skill at operating industrial command ships.",
+    "es": "Habilidad en el manejo de naves de mando industriales.",
+    "fr": "Compétence liée au pilotage des vaisseaux de commandement industriel.",
+    "ja": "指揮型輸送艦を操作するスキル。",
+    "ko": "인더스트리얼 커맨드쉽 운용을 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на",
+    "zh": "操作工业指挥舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Industrial Command Ships",
     "en": "Industrial Command Ships",
@@ -10,5 +23,8 @@
     "ru": "Флагманы буровых флотилий",
     "zh": "工业指挥舰操作"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
   "volume": 0.01
 }

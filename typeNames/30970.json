@@ -1,5 +1,18 @@
 {
-  "typeID": 30970,
+  "capacity": 785000.0,
+  "description": {
+    "de": "Die vielen Truppen der imperialen Navy nutzen regelmäßig Frachter, um massenhaft vielfältige militärische Güter und Personen zu transportieren.",
+    "en": "The large navy forces of the Empires regularly use freighters to transport a wide variety of military items and personnel en masse.",
+    "es": "Las grandes fuerzas de las armadas imperiales usan cargueros para transportar una amplia variedad de artículos militares y personal en masa.",
+    "fr": "Les forces navales des empires utilisent régulièrement des transports de fret pour transporter en masse du personnel ou du matériel militaire.",
+    "ja": "各国の大規模な海軍艦隊は、貨物用超大型輸送艦を使って定期的に様々な軍需品と人員をまとめて輸送している。",
+    "ko": "각 국가의 대규모 함대는 병력 수송 및 보급품 운반을 위한 목적으로 화물선을 운용합니다.",
+    "ru": "Большие военно-морские силы Империи регулярно используют грузовые корабли для перевоза большого разнообразия военных приборов и персонал массово.",
+    "zh": "帝国的大型海军部队通常都会使用大批货舰来运输各种军事物资和人员。"
+  },
+  "graphicID": 2740,
+  "groupID": 875,
+  "mass": 1200000000.0,
   "name": {
     "de": "State Transport Freighter",
     "en": "State Transport Freighter",
@@ -10,5 +23,10 @@
     "ru": "State Transport Freighter",
     "zh": "合众国运输货舰"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 1,
+  "radius": 800.0,
+  "sofFactionName": "caldaribase",
   "volume": 16250000.0
 }

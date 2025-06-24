@@ -1,5 +1,17 @@
 {
-  "typeID": 2683,
+  "description": {
+    "de": "Ein elektronisches Gerät, das in Zielvorrichtungen und Nachführcomputern verwendet wird.",
+    "en": "An electrical device used in targeting systems and tracking computers.",
+    "es": "Este dispositivo eléctrico se usa en sistemas de adquisición de objetivos y ordenadores de rastreo.",
+    "fr": "Dispositif électrique utilisé dans les systèmes de ciblage et les ordinateurs de suivi.",
+    "ja": "ターゲティングシステムやトラッキングコンピューターに使用される電子デバイス。",
+    "ko": "타겟팅 및 유도 시스템에 사용되는 전자장치입니다.",
+    "ru": "Электронное устройство, используемое в системах прицела и компьютерах слежения.",
+    "zh": "用于锁定系统和跟踪计算机的电气设备。"
+  },
+  "groupID": 314,
+  "iconID": 1361,
+  "mass": 1000000.0,
   "name": {
     "de": "Large Crates of Guidance Systems",
     "en": "Large Crates of Guidance Systems",
@@ -10,5 +22,7 @@
     "ru": "Large Crates of Guidance Systems",
     "zh": "大箱的制导系统"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1000.0
 }

@@ -1,5 +1,49 @@
 {
-  "typeID": 20183,
+  "basePrice": 1815000000.0,
+  "capacity": 435000.0,
+  "description": {
+    "de": "Obwohl sie typischerweise wieder einmal die Letzten im Rennen um einen funktionierenden Prototyp neuer Technologie waren, haben die Ingenieure des Imperiums keine Anstrengung gescheut, der Welt die Providence zu präsentieren. Obwohl man sagt, das große Gewinnpotenzial auf dem Markt der Kapselpiloten habe die Entscheidung des sturen Imperiums vorangetrieben, ins Frachtergeschäft einzusteigen, ist die entstandene Idee alles andere als eine zusammengeschusterte Blechbüchse. Die Providence ist einer der widerstandsfähigsten Frachter, die es gibt.",
+    "en": "Even though characteristically last in the race to create a working prototype of new technology, the Empire's engineers spared no effort in bringing the Providence into the world. While the massive potential for profit from the capsuleer market is said to have been what eventually made the stolid Empire decide to involve themselves in the freighter business, their brainchild is by no means the runt of the litter; the Providence is one of the sturdiest freighters out there.",
+    "es": "A pesar de que los ingenieros del Imperio suelen ser los más rezagados en la carrera tecnológica, no han escatimado esfuerzos a la hora de diseñar la Providence. Aunque, según se rumorea, fue la posibilidad de obtener grandes beneficios en el mercado capsulista lo que convenció al estólido Imperio de incursionar en el sector de los cargueros, su creación no tiene nada que envidiar a otros modelos: la Providence es uno de los cargueros más robustos del espacio.",
+    "fr": "Bien qu'ils furent la dernière race à se lancer dans la construction d'un prototype fonctionnel de nouvelle technologie, les ingénieurs de l'Empire réussirent un véritable tour de force en produisant le Providence. Même si les membres de l'Empire, sous des dehors flegmatiques, furent manifestement attirés par les énormes profits que présentait le marché des capsuliers, le cargo qu'ils mirent sur pied est loin d'être une invention du dernier de la classe : le Providence est incontestablement l'un des cargos les plus robustes de l'espace.",
+    "ja": "新技術のプロトタイプ開発という面では最後手に回ってしまったが、帝国の技術者たちはプロビデンスの完成に向け、努力を惜しみなく注いだ。カプセラ市場から得られる利益に非常に大きな可能性を見出していたがために、帝国はやがて輸送船ビジネスに傾倒することになったと言われているが、彼らの発明はとても大きな存在感を放っていた。プロビデンスは存在する中で最も頑丈な超大型輸送艦であった。",
+    "ko": "신기술을 적용한 프로토타입 경쟁에서 상당히 뒤쳐졌음에도 제국의 엔지니어들은 프로비던스를 완성도 높은 제품으로 만들기 위해 노력을 아끼지 않았습니다. 비록 아마르가 프레이터 산업에 뛰어든 결정적인 계기는 캡슐리어 시장에서 얻을 수 있는 기대 수익이었지만 그들은 품질 좋은 함선을 제작하기 위해 상당한 공을 들였고 프로비던스는 전 우주에서 가장 튼튼한 함선이 되었습니다.",
+    "ru": "Амаррская Империя стала последней из сверхдержав, создавшей рабочий прототип по новой технологии, однако инженеры империи тщательно продумали проект фрейтера типа «Провиденс». Говорят, что медлительная империя решила принять участие в постройке транспортов только из-за возможной огромной прибыли, но на качество плода конструкторской работы это никак не повлияло: «провиденсы» — одни из самых прочных фрейтеров галактики.",
+    "zh": "尽管在使用新技术创造可用原型机的竞赛中，帝国一如既往地成为迟到参与者，但他们的工程师还是不遗余力地将普罗维登斯级推向了世界。虽说飞行员市场的巨大利润潜力是使迟钝的帝国最终决定着手开发货舰的原因，但他们的成品绝对不是敷衍了事的产品：普罗维登斯级是当今最坚固的货舰之一。"
+  },
+  "factionID": 500003,
+  "graphicID": 2738,
+  "groupID": 513,
+  "marketGroupID": 767,
+  "mass": 900000000.0,
+  "masteries": {
+    "0": [
+      117,
+      118,
+      151
+    ],
+    "1": [
+      117,
+      118,
+      151
+    ],
+    "2": [
+      117,
+      118,
+      151
+    ],
+    "3": [
+      117,
+      118,
+      151
+    ],
+    "4": [
+      117,
+      118,
+      151
+    ]
+  },
+  "metaGroupID": 1,
   "name": {
     "de": "Providence",
     "en": "Providence",
@@ -9,6 +53,80 @@
     "ko": "프로비던스",
     "ru": "Providence",
     "zh": "普罗维登斯级"
+  },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
+  "radius": 900.0,
+  "sofFactionName": "amarrbase",
+  "soundID": 20062,
+  "traits": {
+    "roleBonuses": [
+      {
+        "bonus": 100,
+        "bonusText": {
+          "de": "Reduktion des CPU-Bedarfs für <a href=showinfo:1333>Verstärkte Schotten</a>",
+          "en": "reduction in <a href=showinfo:1333>Reinforced Bulkhead</a> CPU requirements",
+          "es": "de reducción de los requisitos de CPU del <a href=showinfo:1333>mamparo reforzado</a>.",
+          "fr": "réduction de la charge CPU requise pour les <a href=showinfo:1333>cloisons renforcées</a>",
+          "ja": "<a href=showinfo:1333>強化隔壁</a>のCPU要件が減少",
+          "ko": "<a href=showinfo:1333>강화 격벽</a> CPU 사용량 감소",
+          "ru": "сокращается потребность <a href=showinfo:1333>усиленных переборок</a> в мощностях ЦПУ",
+          "zh": "<a href=\"showinfo:1333\">加强型舱隔壁</a>的CPU需求降低"
+        },
+        "importance": 1,
+        "unitID": 105
+      },
+      {
+        "bonus": 90,
+        "bonusText": {
+          "de": "Reduktion der effektiv zurückgelegten Distanz für die Sprungerschöpfung",
+          "en": "reduction to effective distance traveled for jump fatigue",
+          "es": "de reducción de la distancia efectiva hasta sufrir fatiga de salto.",
+          "fr": "de réduction de la distance effectuée pour l'épuisement de saut",
+          "ja": "ジャンプによる疲弊が飛行距離に及ぼす影響を低減",
+          "ko": "이동 거리에 따른 점프 피로도 감소",
+          "ru": "медленнее накапливается усталость от гиперпереходов",
+          "zh": "减少跳跃距离对产生跳跃疲劳的影响"
+        },
+        "importance": 2,
+        "unitID": 105
+      }
+    ],
+    "types": {
+      "20524": [
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die Frachtraumkapazität des Schiffs",
+            "en": "bonus to ship cargo capacity",
+            "es": "de bonificación a la capacidad de carga de la nave.",
+            "fr": "de bonus à la capacité de la soute du vaisseau",
+            "ja": "艦船のカーゴ容量が増加",
+            "ko": "화물 적재량 증가",
+            "ru": "увеличивается вместимость грузового отсека корабля",
+            "zh": "舰船货柜舱容量加成"
+          },
+          "importance": 1,
+          "unitID": 105
+        },
+        {
+          "bonus": 5,
+          "bonusText": {
+            "de": "Bonus auf die Maximalgeschwindigkeit des Schiffs",
+            "en": "bonus to ship max velocity",
+            "es": "de bonificación a la velocidad máxima de la nave.",
+            "fr": "de bonus à la vitesse maximale du vaisseau",
+            "ja": "艦船の最高速度が上昇",
+            "ko": "최대 속도 증가",
+            "ru": "увеличивается скорость полного хода корабля",
+            "zh": "舰船最大速度加成"
+          },
+          "importance": 2,
+          "unitID": 105
+        }
+      ]
+    }
   },
   "volume": 18500000.0
 }

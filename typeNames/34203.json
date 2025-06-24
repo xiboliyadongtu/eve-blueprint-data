@@ -1,5 +1,18 @@
 {
-  "typeID": 34203,
+  "description": {
+    "de": "Intelligente Forschungstechnik, welche die Möglichkeit bietet, die Blaupausenmaterialien von Erfindungaufträgen aufzubereiten. Während die Anzahl der Durchläufe deutlich erhöht wird, wird die Wahrscheinlichkeit von Erfindungen gegenteilig beeinflusst. <br><br>Wahrscheinlichkeitsmultiplikator: -40%<br>Max.-Durchlauf-Modifikator: +9<br>Materialeffizienz-Modifikator: -2<br>Zeiteffizienz-Modifikator: +2",
+    "en": "Clever research technique that allows for refolding of blueprint materials in invention jobs. While the number of runs is greatly increased the probability of invention is adversely affected. <br><br>Probability Multiplier: -40% <br>Max. Run Modifier: +9 <br>Material Efficiency Modifier: -2 <br>Time Efficiency Modifier: +2",
+    "es": "Ingeniosa técnica de investigación que permite redoblar materiales de planos en los trabajos de invención. Aunque el número de iteraciones aumenta considerablemente, la probabilidad de invención se ve afectada negativamente. <br><br>Multiplicador de probabilidad: -40 %.<br>Modificador de ejecución máxima: +9.<br>Modificador de eficiencia de materiales: -2.<br>Modificador de eficiencia temporal: +2.",
+    "fr": "Technique de recherche intelligente permettant de recycler le matériel nécessaire aux plans de construction des travaux d'invention. Le nombre de cycles est inversement proportionnel aux probabilités d'invention. <br><br>Multiplicateur de probabilité : -40% <br>Modificateur de cycles max. : +9 <br>Modificateur de productivité matérielle : -2 <br>Modificateur de gain de temps : +2",
+    "ja": "発明ジョブでブループリントが求める資源のリフォールディングを可能にする研究技法。できたブループリントの生産可能回数が大幅に増加するが、発明の成功率は下がる。<br><br>確率乗数： -40% <br>最大回数乗数：+9 <br>生産効率乗数：+2 <br>時間効率乗数：+2",
+    "ko": "인벤션 작업의 블루프린트 자원을 리폴드하는 장치입니다. 인벤션 실행횟수가 증가하는 반면 인벤션 성공 확률이 감소합니다. <br><br>확률 증감: -40% <br>최대 실행 횟수 증감: +9 <br>자원효율성 증감: -2 <br>시간효율성 증감: +2",
+    "ru": "Оригинальная методика проведения исследований, позволяющая оптимизировать процесс создания проектной документации и значительно увеличить количество производимой с ее помощью продукции; к сожалению, использование этой методики уменьшает общую вероятность успеха проекта. <br><br>Вероятность успеха проекта: -40% <br>Число прогонов проекта: +9 <br>Экономия материалов при производстве: -2 <br>Экономия времени производства: +2",
+    "zh": "一种聪明的研究技术，允许对发明项目的蓝图材料进行折叠使用。虽然这样能极大增加流程数，但发明的成功率却会降低。<br><br>机率调节值：-40%<br> 最大流程调节值：+9<br>材料效率调节值：-2<br>时间效率调节值：+2"
+  },
+  "groupID": 1304,
+  "iconID": 2885,
+  "marketGroupID": 1873,
+  "mass": 1.0,
   "name": {
     "de": "Augmentation Decryptor",
     "en": "Augmentation Decryptor",
@@ -10,5 +23,8 @@
     "ru": "Augmentation Decryptor",
     "zh": "放大装置解码器"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.1
 }

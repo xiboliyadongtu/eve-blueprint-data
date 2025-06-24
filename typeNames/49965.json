@@ -1,5 +1,17 @@
 {
-  "typeID": 49965,
+  "description": {
+    "de": "Diese automatisierte Anlage ist darauf ausgerichtet, die Winde um diesen Eiszwerg zu nützlichen Ressourcen zu verdichten.",
+    "en": "This automated facility is geared towards condensing the wispy vapors surrounding this Ice Dwarf into useful resources.",
+    "es": "Este centro automatizado fue ideado para condensar los tenues vapores que rodean a este enano helado para crear recursos útiles.",
+    "fr": "Cette installation automatisée est destinée à condenser les volutes de vapeur entourant la naine blanche.",
+    "ja": "この自動設備は、アイスドワーフ周辺のうっすらとしたガスを濃縮し、有用な資源に変えることを目的としている。",
+    "ko": "얼음 왜행성에서 발견되는 수증기를 유용한 자원으로 변환합니다.",
+    "ru": "Этот автоматизированный промышленный объект предназначен для сжатия дымчатых паров, окружающих ледяного карлика, и получения пригодных для использования ресурсов.",
+    "zh": "这个自动化设施是用来将覆盖冰矮星的蒸汽云凝缩成有用的资源的。"
+  },
+  "graphicID": 22302,
+  "groupID": 226,
+  "mass": 1000000.0,
   "name": {
     "de": "Automated Frostline Vapor Condensation Rig",
     "en": "Automated Frostline Vapor Condensation Rig",
@@ -10,5 +22,11 @@
     "ru": "Automated Frostline Vapor Condensation Rig",
     "zh": "自动化霜线蒸汽冷凝平台"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 128,
+  "radius": 30000.0,
+  "sofFactionName": "genericbase",
+  "soundID": 20869,
   "volume": 100000000000.0
 }

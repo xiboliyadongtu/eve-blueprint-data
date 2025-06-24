@@ -1,5 +1,17 @@
 {
-  "typeID": 353465,
+  "basePrice": 149000.0,
+  "description": {
+    "de": "Skill zur Benutzung von Lasergewehren.\n\n5% Bonus auf die Cooldown-Geschwindigkeit von Lasergewehren pro Skillstufe.",
+    "en": "Skill at handling laser rifles.\n\n5% bonus to laser rifle cooldown speed per level.",
+    "es": "Habilidad de manejo de fusiles láser.\n\n+5% a la velocidad de refrigeración de los fusiles láser por nivel.",
+    "fr": "Compétence permettant de manipuler les fusils laser.\n\n+5 % de bonus à la vitesse de refroidissement du fusil laser par niveau.",
+    "it": "Abilità nel maneggiare fucili laser.\n\n5% di bonus alla velocità di raffreddamento del fucile laser per livello.",
+    "ja": "レーザーライフルを扱うスキル。\n\nレベル上昇ごとに、レーザーライフルのクールダウン速度が5%上昇する。",
+    "ko": "레이저 라이플 운용을 위한 스킬입니다. <br><br>매 레벨마다 레이저 라이플 대기시간 5% 감소",
+    "ru": "Навык обращения с лазерными винтовками.\n\n5% бонус к скорости остывания лазерных винтовок на каждый уровень.",
+    "zh": "使用激光步枪的技能。每升一级，激光步枪冷却速度提高5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Bedienung: Lasergewehr",
     "en": "Laser Rifle Operation",
@@ -11,5 +23,7 @@
     "ru": "Обращение с лазерными винтовками",
     "zh": "激光步枪操作"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

@@ -1,5 +1,20 @@
 {
-  "typeID": 16149,
+  "basePrice": 59676.0,
+  "capacity": 0.5,
+  "description": {
+    "de": "Eine schlagkräftige Langstrecken-Artilleriekanone, die zu den am meisten Schaden verursachenden Projektilwaffen gehört, die man in Kreuzer einbauen kann. Sie muss mit einer der folgenden Projektil-Munitionssorten geladen werden: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton oder Titanium Sabot.",
+    "en": "A powerful long-range artillery. One of the most damaging weapons mountable on a cruiser. \r\n\r\nMust be loaded with any of the following projectile ammo types: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton, or Titanium Sabot.",
+    "es": "Una potente artillería de largo alcance. Una de las armas más dañinas que pueden montarse en un crucero. \n\nDebe cargarse con cualquiera de los siguientes tipos de munición de proyectiles: de plomo carbonado, uranio empobrecido, EMP, fusión, nuclear, plasma fásico, protón o perforante de titanio.",
+    "fr": "Une puissante artillerie longue portée. Une des armes les plus dévastatrices pouvant équiper un croiseur. \n\nVous devez y charger les types de munition de projectile suivants : plomb trempé, uranium appauvri, IEM, fusion, nucléaire, plasma à phase, proton ou sabot de titane.",
+    "ja": "強力な長距離射程アーティレリ。巡洋艦に搭載可能な兵器としては、最強レベルの破壊力を持つ。\r\n\n装填可能なプロジェクタイル弾のタイプ : 炭化鉛弾、劣化ウラン弾、EMP弾、フュージョン弾、ニュークリア弾、フェーズプラズマ弾、プロトン弾、チタン製サボット弾。",
+    "ko": "장거리 교전 시 강력한 위력을 발휘하는 함포입니다. 크루저에 탑재 가능한 무기 중 손에 꼽히는 파괴력을 자랑합니다. <br><br>사용 및 장착 가능한 발사체: 탄화납, 열화 우라늄, EMP, 융합, 원자력, 위상 플라즈마, 양성자, 티타늄 철갑탄.",
+    "ru": "Мощное и дальнобойное артиллерийское орудие. Одно из самых мощных орудий, предназначенных для установки на крейсеры.\n\nДля стрельбы из орудия используются снаряды следующих типов: Carbonized Lead, Depleted Uranium, EMP, Fusion, Nuclear, Phased Plasma, Proton или Titanium Sabot.",
+    "zh": "威力强大的远程炮。巡洋舰所能装备的破坏力最大的武器之一。\r\n\r\n必须装填以下类型的弹药：碳铅弹、硬钼弹、电磁脉冲弹、聚变弹、核芯弹、定相离子弹、质子弹和钛合金萨博弹。"
+  },
+  "graphicID": 11150,
+  "groupID": 55,
+  "iconID": 384,
+  "mass": 125.0,
   "name": {
     "de": "CONCORD 650mm Artillery",
     "en": "CONCORD 650mm Artillery",
@@ -10,5 +25,9 @@
     "ru": "CONCORD 650mm Artillery",
     "zh": "统合部650mm火炮"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 200.0,
+  "sofFactionName": "minmatarbase",
   "volume": 10.0
 }

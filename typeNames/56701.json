@@ -1,5 +1,20 @@
 {
-  "typeID": 56701,
+  "capacity": 27000.0,
+  "description": {
+    "de": "Diese mobile Traktorstrahl-Einheit wurde von Ingenieuren der Blood Raiders modifiziert, um anstelle von Wracks gefrorene Leichen einzusammeln. 125 km effektive Reichweite. 10 Sekunden Aktivierungszeit. Kann nicht im Umkreis von 5 km um eine andere mobile Traktorstrahl-Einheit, 50 km um ein Sprungtor, eine Station oder eine Upwell-Struktur und 40 km um eine Sternenbasis aufgestellt werden. Zerfällt automatisch, wenn es innerhalb von 24 Stunden nicht genutzt wurde.",
+    "en": "This mobile tractor unit has been modified by Blood Raider engineers to collect frozen corpses instead of wrecks.\r\n\r\n125km effective range.\r\n10 second activation time.\r\n\r\nMay not be deployed within 5km of another Mobile Tractor Unit, within 50km of Stargates, Stations or Upwell Structures, or within 40km of a Starbase.\r\nAutomatically decays if abandoned for 24 hours.",
+    "es": "Los ingenieros de los Saqueadores Sanguinarios han modificado esta unidad tractora móvil para recoger cadáveres congelados, en lugar de escombros.\n\nAlcance efectivo: 125 km.\n\nTiempo de activación: 10 segundos.\n\nNo se puede desplegar a menos de 5 km de otra unidad tractora móvil, a menos de 50 km de portales estelares, estaciones o estructuras de Upwell y tampoco a menos de 40 km de una base estelar.\n\nSe deteriora automáticamente si se abandona durante 24 horas.",
+    "fr": "Cette unité de tractage mobile a été modifiée par les ingénieurs blood raider pour collecter des cadavres gelés au lieu d'épaves. Portée effective : 125 km. Délai d'activation : 10 secondes. Cette unité ne peut pas être déployée à moins de 5 km d'une autre unité de tractage mobile, à moins de 50 km d'un portail stellaire, d'une station ou d'une structure Upwell, ou à moins de 40 km d'une base stellaire. Elle se désintègre automatiquement si elle est abandonnée pendant 24 heures.",
+    "ja": "この移動式トラクターユニットはブラッドレイダーのエンジニアによって改造され残骸の代わりに凍った死体を収集するようになっている。\n\n\n\n有効範囲：125km\n\n起動までの所要時間：10秒\n\n\n\n他の移動式トラクターユニットから5km以内、スターゲート、ステーションおよびアップウェルストラクチャから50km以内、スターベースから40km以内には設置できない。\n\n24時間アクセスがないと自動的に崩壊する。",
+    "ko": "블러드 레이더가 개조한 이동식 트랙터 장치로 잔해가 아닌 얼어붙은 사체를 수거하기 위해 사용됩니다.<br><br>최적사거리 125km. <br>작동 대기시간 10초. <br><br>다른 이동식 트랙터 장치와는 5km, 스타게이트, 정거장, 업웰 구조물과는 50km, 그리고 스타베이스와는 40km 이상 떨어진 지점에 설치해야 합니다. <br>24 시간 이상 방치 시 자동으로 폐기됩니다.",
+    "ru": "Этот автономный блок сбора трофеев был модифицирован инженерами из «Охотников за кровью» и теперь собирает не обломки, а замороженные трупы. Эффективная дальность — 125 км. Время активации — 10 секунд. Нельзя размещать в пределах 5 км от другого автономного блока сбора трофеев, в пределах 50 км от звёздных врат, станций или сооружений «Апвелл», а также в пределах 40 км от звёздных баз. Саморазрушается в случае 24-часового простоя.",
+    "zh": "这种移动式牵引装置经过血袭者工程师的改装，专门收集冰冻尸体，而非残骸。\n\n\n\n有效距离125km。\n\n启动时间10秒。\n\n\n\n不能锚定在下列地点：另一个移动式牵引装置5km范围内、星门或空间站以及昇威建筑50km范围内、母星基地40km范围内。\n\n被遗弃24小时后自动销毁。"
+  },
+  "graphicID": 24889,
+  "groupID": 1250,
+  "marketGroupID": 2760,
+  "mass": 10000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Mobile Sanguine Harvester",
     "en": "Mobile Sanguine Harvester",
@@ -10,5 +25,9 @@
     "ru": "Mobile Sanguine Harvester",
     "zh": "移动式生物质收割者"
   },
+  "portionSize": 1,
+  "published": true,
+  "radius": 100.0,
+  "sofFactionName": "bloodraider",
   "volume": 100.0
 }

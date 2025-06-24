@@ -1,5 +1,21 @@
 {
-  "typeID": 12818,
+  "basePrice": 320000.0,
+  "description": {
+    "de": "Der Scorch ist ein vom Carthum Conglomerate entwickelter UV-Kristall. Aufgrund der Verwendung einer Mikrozielerfassung mit künstlicher Intelligenz hat er eine gute Reichweite, aber eine schlechte Schadenswirkung und Nachführung und ist daher kaum von Nutzen gegen schwer gepanzerte Ziele. Die feinen kristallinen Strukturen, die zur Herstellung dieses fortschrittlichen Kristalls verwendet werden, werden bei der Verwendung verschlissen, was dazu führt, dass sie schließlich zerbrechen. 40 % höhere optimale Reichweite. 25 % geringere Nachführungsgeschwindigkeit. Hinweis: Diese Munition kann nur von mittelgroßen Technologiestufe II- und Fraktionsimpulslasern verwendet werden.",
+    "en": "The Scorch is a UV crystal designed by Carthum Conglomerate. Utilizing AI microtrackers, it gives a good boost to range but has fairly low damage potential and low tracking and is of limited use against heavily armored targets. The delicate crystalline structures used in the manufacture of this advanced crystal degrade with use, eventually causing it to shatter.\r\n\r\n40% increased optimal range.\r\n25% reduced tracking speed.\r\n\r\nNote: This ammunition can only be used by medium tech level II and faction Pulse Lasers.",
+    "es": "Scorch es un cristal UV diseñado por Carthum Conglomerate. Utiliza microrrastreadores de IA para ampliar el alcance, pero su capacidad de daño y de rastreo es bastante baja, por lo que no se recomienda contra objetivos fuertemente blindados. Las delicadas estructuras cristalinas utilizadas en la fabricación de este avanzado cristal se degradan con el uso hasta acabar quebrándose.\n\nAlcance óptimo aumentado un 40 %.\n\n25 % de reducción a la velocidad de rastreo.\n\nAviso: Esta munición solo es compatible con láseres de pulsos T2 y faccionarios para naves medianas.",
+    "fr": "La Brûlure est un cristal à ultraviolet conçu par Carthum Conglomerate. Grâce à ses micropisteurs, il augmente la portée, mais occasionne peu de dégâts, limite la poursuite et se montre relativement inutile contre les cibles disposant d'un épais blindage. Les délicates structures cristallines utilisées dans la production de ce cristal avancé se dégradent à cause de l'usure, avant de finir par voler en éclats. Portée optimale augmentée de 40 %. Vitesse de poursuite réduite de 25 %. Remarque : ces munitions ne peuvent s'utiliser qu'avec les lasers à impulsions intermédiaires de faction et de niveau technologique II.",
+    "ja": "「スコーチ」はカーサム複合企業製UVクリスタルである。AIマイクロトラッカーを利用して射程の拡大を実現。一方で破壊力は低く追尾能力も低いため、重アーマーのターゲットに対する効果は低い。この高性能クリスタルは、構成部品である結晶の構造がもろいため、使用するうちに徐々に劣化し、最後には砕けてしまう。\n\n\n\n最適射程距離を40％延長。\n\nトラッキング速度が25%減少。\n\n\n\n注：この弾薬は中型T2および各勢力のパルスレーザー専用である。",
+    "ko": "스코치는 카슘 복합산업이 설계한 자외선 크리스탈입니다. 인공지능형 마이크로트래커의 탑재로 사거리가 증가합니다. 그러나 전반적인 피해량 및 트래킹 속도가 감소하고 중무장 장갑을 대상으로 효과가 감소합니다. 최첨단 크리스탈 생산에 사용되는 분자구조는 정교하지만 부서지기 쉬워 반복 사용 시 붕괴합니다. <br><br>최적사거리 40% 증가 <br>트래킹 속도 25% 감소 <br><br>참고: 중형 테크 II 또는 팩션 펄스 레이저에만 장착할 수 있습니다.",
+    "ru": "«Зной» — УФ-кристалл, разработанный Картумским конгломератом. Использование микросистем отслеживания на базе ИИ значительно увеличивает дальность, но при этом кристалл обладает достаточно низкими боевым потенциалом и скоростью наведения и имеет ограниченные возможности использования против целей, покрытых тяжёлой бронёй. Чувствительные кристаллические структуры, использованные при изготовлении этого улучшенного кристалла, со временем изнашиваются, и в конце концов он разрушается. Оптимальная дальность увеличена на 40%. Скорость наведения снижена на 25%. Примечание: эти боеприпасы могут использовать только корабли среднего тоннажа второго техноуровня и государственные импульсные лазеры.",
+    "zh": "“灼烧”是天主凝聚会设计的一种紫外线晶体。由于使用了人工智能微型跟踪系统，它的射程得到了极大的提升，但杀伤力较小，跟踪速度也较慢，对付重装甲目标的能力有限。这种高级晶体中所用到的结晶结构会在使用的过程中降解，最终会导致晶体碎裂。\n\n\n\n最佳射程提升40%。\n\n跟踪速度降低25%。\n\n\n\n注：只能用于二级科技和势力中型脉冲激光器。"
+  },
+  "graphicID": 1141,
+  "groupID": 375,
+  "iconID": 1141,
+  "marketGroupID": 870,
+  "mass": 1.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Scorch M",
     "en": "Scorch M",
@@ -10,5 +26,9 @@
     "ru": "Scorch M",
     "zh": "灼烧 M"
   },
+  "portionSize": 4,
+  "published": true,
+  "raceID": 4,
+  "variationParentTypeID": 251,
   "volume": 1.0
 }

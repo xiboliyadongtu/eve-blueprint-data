@@ -1,5 +1,18 @@
 {
-  "typeID": 47401,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Das scheint ein Bunker der Seeker zu sein. Sie nutzen ihn womöglich zur Versorgung oder als Umschlagplatz für gesammelte Gegenstände. Seine Zerstörung würde den Operationen der Seeker hier schaden und sicherlich ihre Aufmerksamkeit erregen.",
+    "en": "This appears to be a bunker used by Seekers, perhaps for resupply or as a drop-off point for items they are gathering.\r\n\r\nSeeker operations may be disrupted by its destruction, which would be likely to attract the attention of any in the vicinity.",
+    "es": "Parece un búnker de los seekers, quizá lo usen para reabastecerse o como punto de entrega de los objetos que están reuniendo.\n\nLas operaciones de los seekers pueden verse interrumpidas por su destrucción, lo cual probablemente llame la atención de cualquiera que se encuentre en las inmediaciones.",
+    "fr": "Cela semble être un bunker utilisé par les Seekers, soit pour se réapprovisionner, soit comme point de livraison pour les objets qu'ils collectent. Les opérations des Seekers seront déstabilisées s'il est détruit, mais cela pourrait attirer l'attention des Seekers se trouvant à proximité.",
+    "ja": "これはシーカーが使っているバンカーのようだ。おそらく物資の補給ポイントか、あるいは連中が集めている物資の引き渡し場所だろう。\r\n\n破壊すればシーカーの作戦を妨害できるかもしれないが、周囲の注意を引きつけてしまう可能性が高い。",
+    "ko": "보급 및 물품 집하 장소로 사용되고 있는 시커 벙커입니다. <br><br>벙커 파괴 시 시커 활동을 일시적으로 중지시킬 수 있습니다. 그럴 경우 주변 세력의 주목을 받게 됩니다.",
+    "ru": "Судя по всему, это бункер Искателей, который они используют для пополнения припасов или в качестве временного хранилища. Уничтожение этого бункера, скорее всего, создаст помехи для деятельности Искателей и привлечёт внимание тех из них, кто сейчас находится поблизости.",
+    "zh": "看上去是探寻者使用的一座碉堡，可能是用来补给，或是当做战利品存放点。\n\n\n\n摧毁它可能会中止探寻者的活动，不过这样也可能引起附近他人的注意。"
+  },
+  "graphicID": 2583,
+  "groupID": 319,
+  "mass": 1000.0,
   "name": {
     "de": "Seeker Bunker",
     "en": "Seeker Bunker",
@@ -10,5 +23,9 @@
     "ru": "Seeker Bunker",
     "zh": "探寻者碉堡"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 300.0,
+  "sofFactionName": "roguebase",
   "volume": 1000.0
 }

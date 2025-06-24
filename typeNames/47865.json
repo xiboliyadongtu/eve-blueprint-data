@@ -1,5 +1,16 @@
 {
-  "typeID": 47865,
+  "description": {
+    "de": "Eine Raumverwerfung des Abgrunds, die von gewaltigen elektrischen Stürmen verwüstet wird. Schiffe in dieser Umgebung erhalten Abzüge auf ihre EM-Resistenz und einen Energiespeicher-Wiederaufladebonus.",
+    "en": "An Abyssal Deadspace environment wracked by massive electrical storms.\r\n\r\nShips in this environment receive a penalty to EM resistance and a bonus to capacitor recharge.",
+    "es": "Un entorno del espacio muerto abisal asolado por enormes tormentas eléctricas.\n\nLas naves en este entorno reciben una penalización a la resistencia electromagnética y una bonificación a la carga del condensador.",
+    "fr": "Un abîme Deadspace ravagé par des tempêtes électriques massives. Les vaisseaux se trouvant dans cet environnement reçoivent une pénalité à la résistance EM et un bonus à la recharge du capaciteur.",
+    "ja": "大規模な電気嵐により荒廃したアビサルデッドスペース環境。\n\n\n\nこの環境にいる艦船は、EM抵抗にペナルティ、キャパシタリチャージにボーナスを受ける。",
+    "ko": "거대한 전기폭풍이 휘몰아치는 어비설 데드스페이스입니다. <br><br>해당 환경에 놓인 함선은 EM 저항력이 감소하는 반면 캐패시터 충전속도가 증가합니다.",
+    "ru": "Область Мёртвой бездны, разрываемая мощнейшими электрическими бурями. Корабли в таких условиях получают бонус к перезарядке накопителя и штраф к сопротивляемости электромагнитному урону.",
+    "zh": "深渊空间环境中遍布大型电子风暴。\n\n\n\n舰船在这种环境中的电磁抗性有所降低，但电容回充速率有所提高。"
+  },
+  "groupID": 1983,
+  "iconID": 21903,
   "name": {
     "de": "Electrical Storm",
     "en": "Electrical Storm",
@@ -10,5 +21,6 @@
     "ru": "Electrical Storm",
     "zh": "电子风暴"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false
 }

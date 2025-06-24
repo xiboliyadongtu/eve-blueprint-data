@@ -1,5 +1,17 @@
 {
-  "typeID": 24289,
+  "description": {
+    "de": "Ein Bauteil für Methros weiter entwickelte Dekodiermaschine.",
+    "en": "A component for Methros Enhanced Decoding Device.",
+    "es": "Componente para el dispositivo descodificador mejorado de Methros.",
+    "fr": "Composant du dispositif de décodage avancé de Methros.",
+    "ja": "メソロス強化デコーディングデバイスの部品。",
+    "ko": "메쓰로스 강화 해독 장치의 부품입니다.",
+    "ru": "Компонент Methros Enhanced Decoding Device.",
+    "zh": "梅多尔斯矩阵编码模块的组成零件之一。"
+  },
+  "groupID": 526,
+  "iconID": 1362,
+  "mass": 2500.0,
   "name": {
     "de": "Encoding Matrix Component",
     "en": "Encoding Matrix Component",
@@ -10,5 +22,7 @@
     "ru": "Encoding Matrix Component",
     "zh": "矩阵编码模块"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 2.0
 }

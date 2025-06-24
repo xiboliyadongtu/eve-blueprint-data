@@ -1,5 +1,19 @@
 {
-  "typeID": 30497,
+  "basePrice": 20.0,
+  "description": {
+    "de": "Diese mechanische Hardware ist mittlerweile offensichtlich obsolet geworden und bereit, recycelt zu werden. Das aus dem Recycling dieser Schrottteile gewonnene Material wird von Wartungsabteilungen zur Herstellung von Stahlplatten verwendet, um abgenutzte Platten in der Stationshülle auszutauschen. Zwar können diese Schrottteile den Bedarf meist nicht decken, doch die meisten Stationsleiter betrachten dies als eine kostengünstigere Wartungsmethode im Vergleich dazu, kostspielige Bergbauexpeditionen zur Gewinnung von Erz auszusenden.\n\n\n\nDiese Ware wird nicht mehr oder weniger von Skills zur Verarbeitung von Metallschrott beeinflusst als jeder andere recycelbare Gegenstand.",
+    "en": "This mechanical hardware has obviously outlived its use, and is now ready to be recycled. Many station maintenance departments use the material gained from recycling these scraps to manufacture steel plates which replace worn out existing plates in the station hull. Most station managers consider this a cost-effective approach, rather than to send out a costly mining expedition for the ore, although these scraps rarely are enough to satisfy demand.\r\n\r\nThis commodity is not affected by the scrap metal processing skill any more than any other recyclable item.",
+    "es": "Este hardware mecánico ha superado su vida útil y está listo para ser reciclado. Muchos departamentos de mantenimiento de las estaciones usan el material obtenido de su reciclaje para fabricar placas de acero que sustituyen a las existentes en el casco de la estación. La mayoría de los gerentes de estación ven esto como una vía más rentable que enviar una costosa expedición minera para extraer la mena, si bien estos restos no suelen bastar para cubrir la demanda.\n\nLa habilidad para procesar chatarra afecta a este recurso igual que a otro elemento reciclable.",
+    "fr": "Ce matériel mécanique a de toute évidence dépassé sa date de péremption et il est maintenant prêt à être recyclé. De nombreux services de maintenance utilisent les matériaux obtenus en recyclant cette ferraille pour fabriquer des plaques d'acier, destinées à remplacer les vieilles plaques érodées fixées sur la coque de la station. Toutefois, ces fragments suffisent rarement à satisfaire la demande, car la plupart des gérants de station sont friands de ce mode opératoire peu coûteux qui les affranchit de dispendieuses expéditions d'extraction minière à leurs risques et périls. À l'instar des autres objets recyclables, cette marchandise n'est pas affectée par la compétence de traitement de la ferraille.",
+    "ja": "寿命を全うし、リサイクルする以外使い道のなくなったハードウェア。多くのステーションのメンテナンス部門はこの種のスクラップをリサイクルしてスティールプレートを製造しており、ステーション本体のプレートが劣化したときの交換用としている。わざわざ採掘部隊を派遣して鉱石を確保するよりも大幅にコストを削減できるが、スクラップの供給が需要に追いつかないのが現状である。\r\n\nなお、このアイテムがスクラップメタル処理スキルから受ける影響は他のリサイクルアイテムと変わらない。",
+    "ko": "수명을 다한 기계 하드웨어로 재활용될 일만 남았습니다. 많은 정거장에서 고철을 재활용하여 강철 판을 만들어서 닳거나 손상된 정거장 외피를 교체합니다 매번 보수 할 때마다 사용할 수 있을 만큼 고철이 충분히 공급되는 것은 아니지만, 대부분의 정거장 관리자들은 비용을 들여 채굴 원정대를 보내기보다는 비용 효율성이 높은 재활용 금속을 사용하는 것을 선호합니다. <br><br>다른 아이템들보다 고철 정제 스킬로 더 많은 산출량을 얻는 것은 아닙니다.",
+    "ru": "Это механическое оборудование уже устарело и готово к переплавке. На многих станциях из переработанного старого оборудования производят стальные плиты для замены поврежденных плит корпуса. Такой подход считается более экономичным, чем отправка дорогостоящих экспедиций за рудой, хотя переработанных материалов всегда не хватает.\n\n\n\nНавык обработки металлических отходов не влияет на это точно так же, как и на другие перерабатываемые продукты.",
+    "zh": "这块机械硬件已经超出了它的使用寿命，可以被回收了。很多空间站的维护部门通过回收这些没用的金属来重新制成新的金属板用于空间站的外壳维护。大多数空间站的管理层都认为这是一种节约成本的有效方法，而尽量不在这些上面花费功夫去开采和提炼。尽管如此，这些金属垃圾还是很难满足需求。\n\n\n\n与其他可回收物品不一样的是，该物品的回收产量不受“碎铁处理技术”影响。"
+  },
+  "groupID": 526,
+  "iconID": 2529,
+  "marketGroupID": 20,
+  "mass": 10000.0,
   "name": {
     "de": "Reinforced Metal Scraps",
     "en": "Reinforced Metal Scraps",
@@ -10,5 +24,7 @@
     "ru": "Reinforced Metal Scraps",
     "zh": "强化金属碎片"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.01
 }

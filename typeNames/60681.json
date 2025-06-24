@@ -1,5 +1,17 @@
 {
-  "typeID": 60681,
+  "description": {
+    "de": "Dieser Pass kann nicht länger verwendet werden.",
+    "en": "This keypass is no longer operable.",
+    "es": "Este pase ya no funciona.",
+    "fr": "Ce passe ne fonctionne plus.",
+    "ja": "このキーパスは失効しています。",
+    "ko": "해당 출입키는 더 이상 사용할 수 없습니다.",
+    "ru": "Этот ключ больше не действует.",
+    "zh": "这个钥匙卡已失效。"
+  },
+  "groupID": 474,
+  "iconID": 2038,
+  "mass": 1.0,
   "name": {
     "de": "Expired Tetrimon Base Shortcut Keypass",
     "en": "Expired Tetrimon Base Shortcut Keypass",
@@ -10,5 +22,7 @@
     "ru": "Expired Tetrimon Base Shortcut Keypass",
     "zh": "过期的特里蒙基地捷径钥匙卡"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.1
 }

@@ -1,5 +1,18 @@
 {
-  "typeID": 21708,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Das sieht aus wie ein uralter Datenspeicher unbekannter Herkunft. Eine detaillierte Analyse könnte näheren Aufschluss geben.",
+    "en": "This look like a ancient data storage device of unknown origin. Detailed analysis might reveal more",
+    "es": "Parece un dispositivo de almacenamiento de datos antiguos de origen desconocido. Puede que un análisis detallado revele más.",
+    "fr": "Cela ressemble à un ancien dispositif de stockage des données d'origine inconnue. Une analyse détaillée pourrait vous en apprendre plus.",
+    "ja": "出所不明の時代がかったデータ保管デバイス。詳しく分析すれば何か分かるかもしれない。",
+    "ko": "근원이 불분명한 고대 데이터 저장장치입니다. 정밀 분석을 통해 추가 정보를 습득할 수 있습니다.",
+    "ru": "Это похоже на древнее устройство хранения данных неизвестного происхождения. Детальный анализ может больше помочь.",
+    "zh": "这看似一个起源不明的古代数据存储设备。详尽的分析可能会揭示更多信息。"
+  },
+  "graphicID": 1684,
+  "groupID": 1207,
+  "mass": 10000.0,
   "name": {
     "de": "Sleeper Data Log",
     "en": "Sleeper Data Log",
@@ -10,5 +23,9 @@
     "ru": "Sleeper Data Log",
     "zh": "冬眠者数据记录"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 320.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

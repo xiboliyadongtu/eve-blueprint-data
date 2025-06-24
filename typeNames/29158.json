@@ -1,5 +1,16 @@
 {
-  "typeID": 29158,
+  "description": {
+    "de": "Man muss kein Versicherungsinspektor sein, um zu wissen, dass man dieses Schiff abschreiben kann. Die riesigen Löcher in der Struktur lassen daran keinen Zweifel.",
+    "en": "One doesn't need to be an insurance inspector to know that this ship is a write-off. The huge holes in the superstructure are a dead giveaway.",
+    "es": "Uno no necesita ser perito del seguro para saber que esta nave es un siniestro total. Los enormes agujeros de la superestructura no tienen reparación.",
+    "fr": "Pas besoin d'avoir fait de longues études pour savoir que ce vaisseau est bon pour la casse. Les énormes cavités dans sa superstructure ont eu raison de lui.",
+    "ja": "この船に価値がないことは、専門家でなくてもすぐに分かる。ストラクチャに巨大な穴が空いているのが何よりの証拠だ。",
+    "ko": "굳이 보험조사관이 아니더라도 함선의 상태가 심각하다는 것을 알 수 있습니다. 선체에 뚫려있는 구멍이 너무나도 적나라하게 드러나 있습니다.",
+    "ru": "Чтобы убедиться в том, что этот корабль можно списать, не нужно обращаться в страховую компанию. Огромные дыры в обшивке свидетельствуют о том, что корабль превращен в металлолом.",
+    "zh": "不需要保险调查员，任何人都可以看出这艘船已经完全废掉了。上层建筑上巨大的弹孔就像是包裹着死亡的礼物。"
+  },
+  "graphicID": 3097,
+  "groupID": 226,
   "name": {
     "de": "Schwer beschädigte Archon",
     "en": "Wrecked Archon",
@@ -10,5 +21,9 @@
     "ru": "Wrecked Archon",
     "zh": "执政官级残骸"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 1650.0,
+  "sofFactionName": "amarrbase"
 }

@@ -1,5 +1,17 @@
 {
-  "typeID": 76924,
+  "description": {
+    "de": "Die Überreste eines zerstörten Republik-Schiffswerfer-Signalfeuers.",
+    "en": "The remains of a destroyed Republic Shipcaster Beacon.",
+    "es": "Los restos de una baliza de lanzador interestelar de la República destruida.",
+    "fr": "Les vestiges d'une balise de lance-vaisseaux de la République détruite.",
+    "ja": "破壊された共和国艦艇キャスタービーコンの残骸。",
+    "ko": "파괴된 공화국 함선전송기 비컨의 잔해입니다.",
+    "ru": "Обломки уничтоженного маяка минматарского кораблепускателя.",
+    "zh": "已摧毁的共和国舰船弹射台信标残骸。"
+  },
+  "graphicID": 25936,
+  "groupID": 186,
+  "mass": 10000.0,
   "name": {
     "de": "Republic Shipcaster Beacon Wreck",
     "en": "Republic Shipcaster Beacon Wreck",
@@ -10,5 +22,9 @@
     "ru": "Republic Shipcaster Beacon Wreck",
     "zh": "共和国舰船弹射台信标残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "minmatarnavy_upw_trig",
   "volume": 27500.0
 }

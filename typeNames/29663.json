@@ -1,5 +1,18 @@
 {
-  "typeID": 29663,
+  "basePrice": 512.0,
+  "description": {
+    "de": "Ferrofluide sind extrem paramagnetische Flüssigkeiten, welche winzige Partikel magnetischer Massen enthalten, die in Flüssigkeit zusammengehalten werden. Dies ist die Primärkomponente bei der Erstellung von Ferrogels.",
+    "en": "Ferrofluids are superparamagnetic fluids containing tiny particles of magnetic solids suspended in liquid. The primary component in the creation of ferrogels.",
+    "es": "Los ferrofluidos son fluidos superparamagnéticos que contienen pequeñas partículas de sólidos magnéticos suspendidos en líquido. Es el componente principal para la creación de los ferrogeles.",
+    "fr": "Les ferrofluides sont des fluides super-paramagnétiques contenant des petites particules de solides magnétiques suspendus dans le liquide. Composants de base dans la création des ferrogels.",
+    "ja": "磁性体の微粒子を液体の中に封じ込めた、超常磁性流体。フェロージェル生成の主原料。",
+    "ko": "페로플루이드는 자기성 고체 미소입자가 함유된 초상자성 액체입니다. 페로겔 제작에 사용되는 주요 성분입니다.",
+    "ru": "Ferrofluid — парамагнитные жидкости, представляющие собой взвесь мелких частиц магнитных материалов в жидкости. Это основной компонент, использующийся при создании феррогелей.",
+    "zh": "铁磁流体是一种超顺磁性流体，它包含了漂浮在液体中的微小磁性固体粒子。它是创造钢化凝胶的首要成分。"
+  },
+  "groupID": 428,
+  "iconID": 2664,
+  "marketGroupID": 500,
   "name": {
     "de": "Unrefined Ferrofluid",
     "en": "Unrefined Ferrofluid",
@@ -10,5 +23,7 @@
     "ru": "Unrefined Ferrofluid",
     "zh": "粗糙的铁磁流体"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 1.0
 }

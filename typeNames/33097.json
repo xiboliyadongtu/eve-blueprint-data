@@ -1,5 +1,18 @@
 {
-  "typeID": 33097,
+  "basePrice": 2500000.0,
+  "description": {
+    "de": "Skill zur Bedienung von Gallente-Schlachtkreuzern.",
+    "en": "Skill at operating Gallente battlecruisers.",
+    "es": "Habilidad en el manejo de cruceros de combate gallentes.",
+    "fr": "Compétence liée au pilotage des croiseurs de bataille gallente. Formation impossible sur les comptes d'évaluation.",
+    "ja": "ガレンテ巡洋戦艦を操作するスキル。",
+    "ko": "갈란테 배틀크루저를 운용하기 위한 스킬입니다.",
+    "ru": "Освоив этот навык, пилот получит допуск к выполнению полётов на линейных крейсерах производства Галлентской Федерации.",
+    "zh": "操作盖伦特战列巡洋舰的技能。"
+  },
+  "groupID": 257,
+  "iconID": 33,
+  "marketGroupID": 377,
   "name": {
     "de": "Gallente Battlecruiser",
     "en": "Gallente Battlecruiser",
@@ -10,5 +23,8 @@
     "ru": "Галлентские линейные крейсеры",
     "zh": "盖伦特战列巡洋舰操作"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
   "volume": 0.01
 }

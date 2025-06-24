@@ -1,5 +1,17 @@
 {
-  "typeID": 365401,
+  "basePrice": 149000.0,
+  "description": {
+    "de": "Skill zur Benutzung von Maschinenpistolen.\n\n5% Abzug auf den Rückstoß von Magsec-Maschinenpistolen pro Skillstufe.",
+    "en": "Skill at handling submachine guns.\r\n\r\n5% reduction to magsec SMG kick per level.",
+    "es": "Habilidad de manejo de subfusiles.\n\n-5% al retroceso de los subfusiles Magsec por nivel.",
+    "fr": "Compétence permettant de manipuler les pistolets-mitrailleurs.\n\n5 % de réduction du recul du pistolet-mitrailleur Magsec par niveau.",
+    "it": "Abilità nel maneggiare fucili mitragliatori.\n\n5% di riduzione al rinculo del fucile mitragliatore Magsec per livello.",
+    "ja": "サブマシンガンを扱うスキル。\n\nレベル上昇ごとに、マグセクSMGの反動が5%軽減する。",
+    "ko": "기관단총 운용을 위한 스킬입니다. <br><br>매 레벨마다 Magsec 기관단총 반동 5% 감소",
+    "ru": "Навык обращения с пистолетами-пулеметами.\n\n5% снижение силы отдачи пистолетов-пулеметов 'Magsec' на каждый уровень.",
+    "zh": "使用冲锋枪的技能。每升一级，磁秒冲锋枪的后坐力降低5%。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Bedienung: Magsec-Maschinenpistole",
     "en": "Magsec SMG Operation",
@@ -11,5 +23,7 @@
     "ru": "Применение пистолета-пулемета 'Magsec'",
     "zh": "磁秒冲锋枪操作"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

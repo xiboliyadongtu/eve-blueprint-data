@@ -1,5 +1,19 @@
 {
-  "typeID": 57562,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Dies ist ein doppelt verknüpftes Torsteuersystem, das zur selben Zeit wie sein Gegenstück aktiviert werden muss, um ein Sicherheitstor aufzuschließen. Doppelt verknüpfte Torsteuerungen sind normalerweise so konfiguriert, dass sie zeitgleich innerhalb einer kurzen Zeitspanne von Sekunden aktiviert werden müssen.",
+    "en": "This is a Twin-Linked Gate Control system that must be activated at the same time as its paired twin in order to unlock a security gate. Twin-Linked Gate Controls are usually configured to be activated simultaneously within a short time period measured in seconds.",
+    "es": "Sistema de control de portales gemelos que debe activarse al mismo tiempo que su contraparte para abrir un portal de seguridad. Los controles de portales gemelos suelen estar configurados para activarse simultáneamente en un periodo corto de tiempo, de tan solo unos segundos.",
+    "fr": "Il s'agit d'un système de contrôle de portail à liaison jumelée, qui doit être activé en même temps que son jumeau pour déverrouiller le portail de sécurité. Les systèmes de contrôle de portail à liaison jumelée sont généralement configurés pour être activés simultanément en un court laps de temps, de l'ordre de quelques secondes.",
+    "ja": "このデュアルリンクゲートコントロールシステムでは、セキュリティゲートのロックを解除するため、ペアになっている2つのシステムをほぼ同時に起動する必要がある。同時起動については、デュアルリンクゲートコントロールは通常、秒単位の僅かなずれであれば許容範囲となるよう設定されている。",
+    "ko": "보안 게이트를 해제하기 위해서는 이중 접속 게이트를 동시에 사용해야 합니다. 게이트 시스템을 몇 초 간격으로 활성화하면 잠금 상태가 해제됩니다.",
+    "ru": "Это система управления сдвоенными воротами, которые нужно открывать одновременно. Оба элемента управления воротами обычно настраивают таким образом, чтобы их нужно было активировать практически синхронно, в промежутке, равном нескольким секундам.",
+    "zh": "这个二联轨道控制系统必须在同一时间被激活才能解锁安全轨道。它通常可以被同时启用，间隔时间以秒计算。"
+  },
+  "graphicID": 20297,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Twin-Linked Gate Control",
     "en": "Twin-Linked Gate Control",
@@ -10,5 +24,9 @@
     "ru": "Twin-Linked Gate Control",
     "zh": "二联轨道控制"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

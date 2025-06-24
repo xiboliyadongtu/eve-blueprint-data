@@ -1,5 +1,18 @@
 {
-  "typeID": 2901,
+  "capacity": 2700.0,
+  "description": {
+    "de": "Die Überbleibsel eines kürzlich vermissten Wissenschaftsschiffs.",
+    "en": "The remnants of a science ship lost recently.",
+    "es": "Los restos de una nave científica que se perdió hace poco.",
+    "fr": "Restes d'un vaisseau scientifique détruit récemment.",
+    "ja": "最近使われなくなった科学艦船の残骸。",
+    "ko": "과학선의 잔해로 비교적 최근에 파괴된 것으로 보입니다.",
+    "ru": "Останки недавно погибшего научно-исследовательского корабля.",
+    "zh": "这是一艘最近失踪的科考船的残骸。"
+  },
+  "graphicID": 3115,
+  "groupID": 306,
+  "mass": 10000.0,
   "name": {
     "de": "Science Vessel Wreck",
     "en": "Science Vessel Wreck",
@@ -10,5 +23,9 @@
     "ru": "Science Vessel Wreck",
     "zh": "科考船残骸"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericbase",
   "volume": 27500.0
 }

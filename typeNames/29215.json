@@ -1,5 +1,18 @@
 {
-  "typeID": 29215,
+  "capacity": 1200.0,
+  "description": {
+    "de": "Dieses fremdartige Schiff unterscheidet sich von allem anderen, was Sie oder der Zielcomputer Ihres Schiffes je zuvor gesehen haben. Man könnte meinen, es sei eine Art Raubdrohne, aber die Scanner Ihres Schiffes zeigen deutlich an, dass es Lebenzeichen an Board gibt.",
+    "en": "This strange ship is quite unlike anything you or your ship's targeting computer has seen before. You might take it for some kind of rogue drone, save that your ship's scanners clearly indicate life signs aboard it.",
+    "es": "Esta extraña nave no se parece a nada que tu ordenador de adquisición de objetivos o tú hayáis visto antes. Podrías haberlo tomado por algún tipo de dron rebelde, pero los escáneres de tu nave indican claramente que hay vida a bordo.",
+    "fr": "Cet étrange vaisseau ne ressemble à rien de ce que vous ou l'ordinateur de ciblage de votre vaisseau avez pu voir auparavant. On pourrait penser qu'il s'agit d'une sorte de drone renégat, si les scanners de votre vaisseau ne détectaient pas clairement des signes de vie à l'intérieur.",
+    "ja": "この奇妙な船は、人間にとってもターゲティングコンピューターにとっても今までに目にしたことのない種類だろう。生命体が乗船していることをスキャナーが明瞭に示していなければ、ローグドローンの一種だと思ってしまうだろう。",
+    "ko": "난생 처음 보는 함선으로 타겟팅 컴퓨터 조차 갈피를 못 잡고 있습니다. 로그 드론과 사뭇 유사해 보이지만 함선 내부에서 생명체 반응이 감지되는 것으로 보아 드론은 아닌 듯합니다.",
+    "ru": "Этот странный корабль не похож ни на один из кораблей, ранее засекавшихся компьютером системы целеуказания. Он похож на восставшего дрона, но сканеры четко указывают на признаки жизни на его борту.",
+    "zh": "这艘奇怪的船时你从来没有见过的，你的舰载目标锁定装置也没有办法识别。你可能以为它是某种自由无人机，但是你飞船上的扫描仪清晰的探测到的生命迹象。"
+  },
+  "graphicID": 1226,
+  "groupID": 804,
+  "mass": 100000.0,
   "name": {
     "de": "Unidentified Spacecraft",
     "en": "Unidentified Spacecraft",
@@ -10,5 +23,10 @@
     "ru": "Unidentified Spacecraft",
     "zh": "不明飞行器"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 45.0,
+  "sofFactionName": "roguebase",
+  "soundID": 11,
   "volume": 60.0
 }

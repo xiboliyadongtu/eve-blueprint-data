@@ -1,5 +1,19 @@
 {
-  "typeID": 27991,
+  "basePrice": 2000000000.0,
+  "capacity": 7500000.0,
+  "description": {
+    "de": "Ein fortschrittliches Upgrade für das Forschungspotential von Amarr-Außenposten. Reduziert die Kosten von Materialeffizienz-, Zeiteffizienz- und Kopieraufträgen um zusätzliche 10% (summiert sich mit allen anderen Verbesserungen des selben Typs) und reduziert die Forschungszeit bei allen Zeiteffizienzforschungen um 60%.",
+    "en": "An advanced upgrade to Amarr Outpost research capabilities. Gives an additional 10% cost reduction to Material Efficiency, Time Efficiency, Copy jobs (stacks with all other improvements of the same type) and increases the research time reduction on all PE research to 60%.",
+    "es": "Mejora avanzada de las capacidades de investigación en puestos avanzados amarrianos. Genera una reducción adicional del 10 % del coste de los trabajos de copia, eficiencia de materiales y eficiencia temporal (acumulable con todas las demás mejoras del mismo tipo) y aumenta hasta el 60 % la reducción del tiempo de todas las investigaciones de ET.",
+    "fr": "Amélioration avancée permettant d'augmenter les capacités de recherche d'un avant-poste amarr. Réduit de 10 % supplémentaires les coûts liés à la productivité matérielle, l'efficience de temps, la copie de tous les travaux (s'accumule avec toutes les autres améliorations de même type) et réduit à 60% le temps de recherche de toutes les recherches en EP.",
+    "ja": "アマーアウトポストの研究能力をさらに高める高度なアップグレード。生産効率、時間効率、コピージョブのコストをさらに10%削減し（すでに削減されている場合も追加で利用可能）、すべてのPEの研究時間を60%短縮する。",
+    "ko": "아마르 전초기지 연구능력을 개선하기 위한 상급 업그레이드입니다. 자원효율성 연구, 시간효율성 연구, 복제 작업에 소요되는 비용이 10% 감소(동일한 효과와 중첩 가능)하며 모든 생산효율성 연구에 소요되는 시간이 60% 감소합니다.",
+    "ru": "Усовершенствованный модуль расширения научно-исследовательских возможностей амаррского форпоста. Ещё на 10% снижает стоимость проектов по копированию чертежей, модернизации, повышению скорости производства и материалоэффективности производства (эффект кумулятивен с прочими того же типа); кроме того, экономия времени, расходуемого на проекты по повышению скорости производства — 60%.",
+    "zh": "针对艾玛哨站研究能力的高级升级方案。材料效率研究、时间效率研究和拷贝项目费用额外降低10%（可与同类效果叠加），所有生产效率研究时间减少60%。"
+  },
+  "graphicID": 3304,
+  "groupID": 836,
+  "iconID": 3304,
   "name": {
     "de": "Amarr Advanced Outpost Laboratory Platform",
     "en": "Amarr Advanced Outpost Laboratory Platform",
@@ -10,5 +24,10 @@
     "ru": "Amarr Advanced Outpost Laboratory Platform",
     "zh": "艾玛高级空间站实验室平台"
   },
+  "portionSize": 1,
+  "published": false,
+  "raceID": 4,
+  "radius": 1000.0,
+  "sofFactionName": "amarrbase",
   "volume": 750000.0
 }

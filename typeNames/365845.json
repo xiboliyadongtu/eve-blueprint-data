@@ -1,5 +1,17 @@
 {
-  "typeID": 365845,
+  "basePrice": 149000.0,
+  "description": {
+    "de": "Skill zur Bedienung von kleinen Railgun-Geschützen.\n\nSchaltet den Zugriff auf kleine Standard-Railguns ab Skillstufe 1, erweiterte kleine Railguns ab Skillstufe 3 und kleine Railgun-Prototypen ab Skillstufe 5 frei.",
+    "en": "Skill at operating small railgun turrets.\r\n\r\nUnlocks access to standard small railguns at lvl.1; advanced at lvl.3; prototype at lvl.5.",
+    "es": "Habilidad de manejo de torretas de cañones gauss pequeñas.\n\nDesbloquea el acceso a torretas de cañones gauss pequeñas estándar en el nivel 1, avanzados en el nivel 3 y prototipos en el nivel 5.",
+    "fr": "Compétence permettant d'utiliser les tourelles de petit canon à rails.\n\nDéverrouille l'utilisation des petits canons à rails. Standard au niv.1 ; avancé au niv.3 ; prototype au niv.5.",
+    "it": "Abilità nell'utilizzo delle torrette cannone a rotaia piccole.\n\nSblocca l'accesso ai cannoni a rotaia standard piccoli al liv. 1; a quelle avanzate al liv. 3; a quelle prototipo al liv. 5.",
+    "ja": "小型レールガンを操作するためのスキル。レベル1で標準型、レベル3で高性能、レベル5でプロトタイプの小型レールガンが利用可能になる。",
+    "ko": "소형 레일건 터렛 운용을 위한 스킬입니다. <br><br>소형 레일건이 잠금 해제됩니다. (레벨 1 - 일반, 레벨 3 - 상급, 레벨 5 - 프로토타입)",
+    "ru": "Навык работы с малыми рейлганными пусковыми установками.\n\nПозволяет пользоваться стандартными малыми бластерами на уровне 1; усовершенствованными на уровне 3; прототипами на уровне 5.",
+    "zh": "操作小型磁轨炮炮台的技能。1级解锁标准小型磁轨炮；3级解锁高级小型磁轨炮；5级解锁原型小型磁轨炮。"
+  },
+  "groupID": 351648,
   "name": {
     "de": "Bedienung: Kleine Railgun",
     "en": "Small Railgun Operation",
@@ -11,5 +23,7 @@
     "ru": "Обращение с малыми рейлганными установками",
     "zh": "小型磁轨炮操作"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

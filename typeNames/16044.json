@@ -1,5 +1,19 @@
 {
-  "typeID": 16044,
+  "basePrice": 100.0,
+  "description": {
+    "de": "Diese kleinen Container sind mit einem kennwortgeschützten Sicheheitsschloss ausgestattet.",
+    "en": "These small containers are fitted with a password-protected security lock.",
+    "es": "Estos contenedores pequeños están equipados con un cierre de seguridad protegido por contraseña.",
+    "fr": "Ces petits conteneurs sont équipés d'un verrou de sécurité protégé par mot de passe.",
+    "ja": "パスワード式ロック機能付きの小型コンテナ。",
+    "ko": "암호화된 보안 장치가 장착되어 있는 소형 컨테이너입니다.",
+    "ru": "Эти небольшие контейнеры защищены замком с паролем.",
+    "zh": "这些小型集装箱配备了密码保护安全锁。"
+  },
+  "graphicID": 2090,
+  "groupID": 314,
+  "iconID": 1171,
+  "mass": 100.0,
   "name": {
     "de": "Small Sealed Cargo Containers",
     "en": "Small Sealed Cargo Containers",
@@ -10,5 +24,8 @@
     "ru": "Small Sealed Cargo Containers",
     "zh": "小型密封的货柜"
   },
+  "portionSize": 1,
+  "published": true,
+  "sofFactionName": "genericmetal",
   "volume": 10.0
 }

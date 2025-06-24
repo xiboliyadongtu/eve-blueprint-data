@@ -1,5 +1,16 @@
 {
-  "typeID": 42858,
+  "description": {
+    "de": "Ein zerstörtes Ninazu-Truppenunterstützerschiff.",
+    "en": "A wrecked Ninazu Force Auxiliary vessel.",
+    "es": "Escombros de una nave auxiliar de clase Ninazu.",
+    "fr": "Épave de vaisseau des forces auxiliaires de classe Ninazu.",
+    "ja": "破壊されたニナズ級支援型主力艦。",
+    "ko": "난파된 니나주 포스 악실리아입니다.",
+    "ru": "Обломки вспомогательного КБТ типа «Ниназу».",
+    "zh": "一艘尼纳苏级战力辅助舰的残骸。"
+  },
+  "graphicID": 21303,
+  "groupID": 226,
   "name": {
     "de": "Gallente Force Auxiliary Wreck",
     "en": "Gallente Force Auxiliary Wreck",
@@ -10,5 +21,8 @@
     "ru": "Gallente Force Auxiliary Wreck",
     "zh": "盖伦特战力辅助舰残骸"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 1000.0,
+  "sofFactionName": "gallentebase"
 }

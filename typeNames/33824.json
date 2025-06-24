@@ -1,5 +1,19 @@
 {
-  "typeID": 33824,
+  "description": {
+    "de": "Verbessert die Reichweite und Nachführungsgeschwindigkeit von allen Drohnen.    \n\nVerbessert die Reichweite, den Explosionsradius und die Explosiongeschwindigkeit aller Jägerwaffen.\n\n\n\nNachteil: Bei der Verwendung mehrerer Module des selben oder ähnlichen Typs, welche das selbe Attribut des Schiffes beeinflussen, wird deren Wirksamkeit eingeschränkt.",
+    "en": "Enhances the range and improves the tracking speed of all drones.    \r\nEnhances the range, explosion radius and explosion velocity of all fighter weapons.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",
+    "es": "Mejora el alcance y la velocidad de rastreo de todos los drones.    \n\nMejora el alcance, el radio de explosión y la velocidad de explosión de todas las armas del caza.\n\n\n\nPenalización: Por usar más de un tipo de módulo o módulos similares que afecten al mismo atributo de la nave.",
+    "fr": "Accroît la portée et la vitesse de poursuite de tous les drones.    \n\nAccroît la portée, le rayon d'explosion et la vitesse d'explosion de toutes les armes des chasseurs.\n\n\n\nPénalité : utiliser plus d'un module de ce type ou plusieurs modules modifiant un même attribut du vaisseau fera l'objet d'une pénalité.",
+    "ja": "すべてのドローンの追跡速度、効果範囲が向上する。すべての戦闘機兵器の射程距離、爆発半径、爆発速度を向上させる。ペナルティ： 同じタイプのモジュール、または同じ属性に関係するモジュールを複数取り付けると、ペナルティが発生する。",
+    "ko": "모든 드론의 사거리와 트래킹 속도가 증가합니다. <br><br>파이터의 폭발반경, 폭발속도, 그리고 사거리가 향상됩니다. <br><br>페널티: 동일한 속성의 모듈 여러 개를 장착할 경우 페널티가 부여됩니다.",
+    "ru": "Повышает оптимальную дальность и скорость наводки бортового оружия всех дронов.    \n\nПовышает дальность действия бортового оружия всех истребителей, а также радиус и скорость распространения взрывной волны при подрыве запускаемых ими ракет.\n\n\n\nВнимание! Установка на борт корабля двух и более модулей, влияющих на одну и ту же характеристику корабля, приведёт к снижению эффективности их действия в отношении данной характеристики.",
+    "zh": "增加所有无人机的射程和跟踪速度。    \n\n提升所有铁骑舰载机武器的射程、爆炸半径和爆炸速度。\n\n\n\n惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。"
+  },
+  "groupID": 1292,
+  "iconID": 1640,
+  "marketGroupID": 938,
+  "mass": 20.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Omnidirectional Tracking Enhancer II",
     "en": "Omnidirectional Tracking Enhancer II",
@@ -10,5 +24,8 @@
     "ru": "Omnidirectional Tracking Enhancer II",
     "zh": "全方位索敌增强器 II"
   },
+  "portionSize": 1,
+  "published": true,
+  "variationParentTypeID": 33822,
   "volume": 5.0
 }

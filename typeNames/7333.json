@@ -1,5 +1,22 @@
 {
-  "typeID": 7333,
+  "basePrice": 10000.0,
+  "capacity": 2.0,
+  "description": {
+    "de": "Diese kreuzer-typische Waffe ist eine doppelläufige Version der 150mm Railgun für Fregatten. Railguns verwenden Magnetschienen, um solide Materiebrocken mit Überschallgeschwindigkeit zu verschießen. Die Präzisionsreichweite von Railguns ist sehr gut, aber aufgrund technischer Einschränkungen kann keine bordeigene Zielsuche benutzt werden. Das führt zu einem drastischen Abfall der Genauigkeit bei extremen Entfernungen. \n\nBenötigt Hybridmunition: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",
+    "en": "This cruiser-sized weapon is a double-barreled version of the frigate class 150mm railgun. Railguns use magnetic rails to fire solid chunks of matter at hypersonic speed. The accurate range of railguns is very good, but due to technical limitations it cannot use onboard guidance. This results in a fairly rapid drop in accuracy at extreme ranges. \r\n\r\nRequires hybrid charge types: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",
+    "es": "Esta arma del tamaño de un crucero es una versión de dos cañones del cañón electromagnético de 150 mm de clase fragata. Los cañones electromagnéticos usan carriles imantados para disparar fragmentos sólidos de materia a velocidad hipersónica. Buena precisión de alcance. Pero, debido a sus limitaciones técnicas, no puede usar el sistema de guiado de a bordo; por lo que, en distancias extremas, su precisión se reduce drásticamente.\n\nRequiere tipos de carga híbrida: antimateria, iridio, hierro, plomo, plutonio, torio, tungsteno, uranio.",
+    "fr": "Cette arme adaptée à la taille des croiseurs est une version à deux canons du canon à rail 150 mm de classe frégate. Les canons à rail font appel à des rails magnétiques pour envoyer de gros morceaux de matières à une vitesse hypersonique. La portée des canons à rail est très précise, mais des limites techniques empêchent l'utilisation de systèmes de guidage embarqués. Cela se traduit par une diminution notable de la précision à très longue portée. \n\nRequiert les types de charges hybrides suivants : antimatière, iridium, fer, plomb, plutonium, thorium, tungstène, uranium.",
+    "ja": "この巡洋艦用兵器は、フリゲート用の150mmレールガンを2連装式にしたもの。レールガンは電磁誘導レールを使って固体弾を超音速で発射する兵器である。レールガンの命中精度は非常に高いが、技術上の制約で、弾に誘導装置を搭載できない。そのため超長距離射程では命中精度が急激に低下する。\r\n\n装填できるハイブリッド弾のタイプ:アンチマター弾、イリジウム弾、アイアン弾、鉛弾、プルトニウム弾、トリウム弾、タングステン弾、ウラン弾。",
+    "ko": "크루저급에 장착이 가능한 함포로 프리깃급 150mm 레일건을 이중 배럴로 설계하여 개량하였습니다. 레일건은 전자기력을 이용하여 초음속 고체 탄자를 발사합니다. 최적사거리는 길지만 기술적인 한계로 인해 함내 유도 시스템의 사용이 불가능합니다. 이로 인해 장거리 사격일수록 명중률이 급속도로 하락합니다. <br><br>사용 가능한 하이브리드탄: 반물질탄, 이리듐탄, 강철탄, 납탄, 플루토늄탄, 토륨탄, 텅스텐탄, 우라늄탄.",
+    "ru": "Это орудие для крейсеров представляет собой сдвоенный рейлган фрегатного класса калибра 150 мм. Рейлганы используют магнитные направляющие для разгона зарядов до сверхзвуковых скоростей. Рейлганы имеют отличную прицельную дальность, однако из-за технических ограничений они не могут использовать бортовые системы наведения. В связи с этим меткость стрельбы на предельных дистанциях сильно страдает. \n\n\n\nДля стрельбы из рейлгана используются гибридные заряды следующих типов: Antimatter, Iridium, Iron, Lead, Plutonium, Thorium, Tungsten, Uranium.",
+    "zh": "这个巡洋舰级别的武器是护卫舰级150mm磁轨炮的双管版本。使用电磁轨道将实心的弹丸以超高音速发射出去。磁轨炮的精确射程很长，但由于技术限制，不能进行舰载制导。这导致了在极限射程附近命中率会骤减。使用的混合弹药类型：反物质弹药、铱质弹药、铁质弹药、铅质弹药、锰质弹药、钍质弹药、钨质弹药、钼质弹药。"
+  },
+  "graphicID": 11135,
+  "groupID": 74,
+  "iconID": 370,
+  "marketGroupID": 565,
+  "mass": 1000.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Dual 150mm Compressed Coil Gun I",
     "en": "Dual 150mm Compressed Coil Gun I",
@@ -10,5 +27,11 @@
     "ru": "Dual 150mm Compressed Coil Gun I",
     "zh": "双联150mm压缩型线圈炮 I"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 8,
+  "radius": 100.0,
+  "sofFactionName": "caldaribase",
+  "variationParentTypeID": 567,
   "volume": 10.0
 }

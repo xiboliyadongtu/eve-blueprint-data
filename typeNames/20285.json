@@ -1,5 +1,18 @@
 {
-  "typeID": 20285,
+  "capacity": 10000.0,
+  "description": {
+    "de": "Diese gigantischen Bauten können selbst heftigen Angriffen trotzen und etwa 8,5 Millionen Kubikmeter Material aufnehmen.",
+    "en": "Built to withstand assault, these behemoths can each hold roughly 8.5 million m3 worth of materials.",
+    "es": "Estos mastodontes, construidos para soportar cualquier asalto, pueden almacenar aproximadamente 8,5 millones de m³ de materiales.",
+    "fr": "Conçus pour résister aux assauts, ces béhémoths peuvent contenir chacun quelque 8,5 millions de m³ de matériel.",
+    "ja": "砲撃にも耐える構造のモンスター級貯蔵庫で、容積はおよそ850万m3もある。",
+    "ko": "맹공격을 견뎌내도록 설계된 이 거대한 함선은 약 8,500,000m³에 다다르는 적재량을 탑재할 수 있습니다.",
+    "ru": "Эти чудовищные сооружения, предназначенные служить защищёнными складами, вмещают примерно 8,5 миллионов кубометров материалов.",
+    "zh": "这些庞然大物天生就有很高的攻击承受力，每个能装载大约850万立方米的材料。"
+  },
+  "graphicID": 2007,
+  "groupID": 494,
+  "mass": 100000.0,
   "name": {
     "de": "Storage Silo",
     "en": "Storage Silo",
@@ -10,5 +23,10 @@
     "ru": "Storage Silo",
     "zh": "储藏库"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 1226.0,
+  "sofFactionName": "genericbase",
+  "soundID": 31,
   "volume": 100000000.0
 }

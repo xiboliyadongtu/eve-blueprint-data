@@ -1,5 +1,16 @@
 {
-  "typeID": 81950,
+  "description": {
+    "de": "In dieser Struktur wird ein fortgeschrittenes Forschungs- und Entwicklungsprojekt des Upwell Consortiums durchgeführt, das mit der Prototyp-Struktur verbunden ist, die in der Nähe gebaut wird. Upwell hat die Unterstützung von Kapselpiloten angefordert, um Raubdrohnen-Komponenten zu sammeln und sie bei diesem Projekt zu unterstützen. Als Gegenleistung bieten sie Kapselpiloten, die diese Raubdrohnen-Komponenten beisteuern, Belohnungskisten mit Loyalitätsmarken und die Chance, Blaupausen für die fortgeschrittene Traktorstrahltechnologie des Upwell Consortiums zu erhalten.",
+    "en": "This structure is home to an advanced Upwell Consortium research and development project connected to the prototype structure being constructed nearby.\r\nUpwell has requested capsuleer assistance in collecting rogue drone components to aid them in this project. They are offering reward crates containing loyalty tokens and a chance to receive blueprints for advanced Upwell Consortium tractor beam technology to capsuleers who contribute these rogue drone components.",
+    "es": "En esta estructura tiene lugar un proyecto avanzado de investigación y desarrollo del Consorcio Upwell relacionado con la estructura prototipo que se está construyendo cerca.\r\nUpwell ha solicitado la ayuda de los capsulistas para obtener componentes de drones rebeldes para este proyecto. Los capsulistas que presten su apoyo podrán conseguir cajas de retribución que contienen fichas de lealtad y la oportunidad de recibir planos de la tecnología avanzada de rayos tractores del Consorcio Upwell.",
+    "fr": "Cette structure abrite un projet de recherche et de développement avancé de l'Upwell Consortium, en lien avec la structure prototype en construction à proximité. Upwell a sollicité l'assistance des capsuliers pour collecter des composants de drones renégats afin de les aider dans ce projet. Pour récompenser les capsuliers qui apportent ces composants de drones renégats, ils proposent des caisses contenant des jetons de loyauté et une chance d'obtenir des plans pour la technologie avancée de rayon de tractage de l'Upwell Consortium.",
+    "ja": "このストラクチャはアップウェル・コンソーシアムの高度な研究開発プロジェクトの拠点で、付近で建設中のプロトタイプストラクチャと関連がある。\r\nアップウェルはカプセラに対し、ローグドローンのパーツを集めて本プロジェクトを支援するよう求めている。ローグドローンのパーツを渡したカプセラはロイヤルティトークンが入った報酬箱を受け取れるほか、アップウェル・コンソーシアムの高度なトラクタービーム技術の設計図を入手できる可能性がある。",
+    "ko": "업웰 컨소시엄이 최근 건설하고 있는 프로토타입 구조물과 관련된 최첨단 연구 및 개발 프로젝트의 중심 역할을 하는 구조물입니다.<BR>업웰은 프로젝트 진행을 위해 캡슐리어에게 로그 드론 부품 수집을 의뢰했습니다. 로그 드론 부품을 수집해 업웰에 납품하면 보상 상자를 제공합니다. 보상 상자에는 로열티 토큰이 들어 있으며 업웰 컨소시엄의 최첨단 트랙터 빔 기술이 집약된 블루프린트도 얻을 수 있습니다.",
+    "ru": "На этом объекте учёные из «Апвелл» занимаются научно-исследовательским проектом, который напрямую связан с сооружением-прототипом, строящимся неподалёку. Одна из задач проекта — сбор компонентов восставших дронов, и руководство консорциума привлекает к этой работе капсулёров. В качестве благодарности выдаются специальные контейнеры с наградными жетонами. Кроме того, все причастные имеют шанс получить чертежи передовой технологии гравизахвата консорциума «Апвелл».",
+    "zh": "该建筑是昇威财团一项高级研发项目的所在地，该项目与附近正在建造的原型建筑相关联。昇威财团已请求克隆飞行员协助他们收集自由无人机组件，以帮助他们完成项目。他们将为克隆飞行员提供含有忠诚点凭证的奖励箱，贡献这些自由无人机组件的克隆飞行员还有机会获得一张运用昇威财团高级牵引光束技术的蓝图。"
+  },
+  "graphicID": 21405,
+  "groupID": 226,
   "name": {
     "de": "Upwell Applied Gravitation Research Center",
     "en": "Upwell Applied Gravitation Research Center",
@@ -10,5 +21,9 @@
     "ru": "Upwell Applied Gravitation Research Center",
     "zh": "昇威应用引力研究中心"
   },
-  "volume": null
+  "portionSize": 1,
+  "published": false,
+  "radius": 85000.0,
+  "sofFactionName": "upwell-indy",
+  "soundID": 20243
 }

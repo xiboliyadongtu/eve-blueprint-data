@@ -1,5 +1,17 @@
 {
-  "typeID": 356804,
+  "basePrice": 520.0,
+  "description": {
+    "de": "Erhöht die Schadenswirkung aller sekundären Handfeuerwaffen.\n\nHINWEIS: Für dieses Modul gelten Stapelabzüge; nach dem ersten Modul nimmt die Wirksamkeit jedes weiteren ab, sofern es dieselben Attribute beeinflusst.",
+    "en": "Increases damage output of all sidearm handheld weapons.\r\n\r\nNOTE: Stacking penalties apply to this module; the effectiveness of each additional module (after the first) that alters the same attributes will be reduced.",
+    "es": "Aumenta el daño infligido por todas las armas portátiles cortas.\n\nAVISO: Se aplican penalizaciones por acumulación a este módulo. Se reduce la efectividad de cada módulo adicional (después del primero) que altere los mismos atributos.",
+    "fr": "Augmente les dommages de toutes les armes de poing secondaires.\n\nREMARQUE : Des pénalités d'accumulation s'appliquent à ce module ; au-delà du premier module, l'efficacité de chaque module supplémentaire qui modifie les mêmes attributs sera réduite.",
+    "it": "Aumenta la dannosità di tutte le armi secondarie portatili.\n\nNOTA: a questo modulo si applicano le penalità da accumulo; l'efficacia di ogni modulo aggiuntivo (dopo il primo) che modifica gli stessi attributi viene ridotta.",
+    "ja": "あらゆるサイドアーム携行兵器の与えるダメージを増やす。\n\n注：このモジュールはスタッキングペナルティの対象となり、同一のモジュールを複数取り付けると、一つ追加するごとにモジュールの効果が低下する。",
+    "ko": "보조 무기의 피해량이 증가합니다. <br><br>참고: 중첩 페널티가 적용되는 모듈입니다. 동일한 효과를 지닌 모듈을 한 개 이상 장착할 경우 추가 모듈의 효율성이 감소합니다.",
+    "ru": "Увеличивает урон, наносимый всеми видами личного ручного оружия.\n\nПРИМЕЧАНИЕ: Для этого модуля действует система нарастающих штрафов; эффективность воздействия каждого последующего модуля (после первого), которая изменяет одинаковые характеристики, снижается.",
+    "zh": "增加所有副手持武器的伤害输出。注：此装备有堆叠惩罚，额外加装相同属性的装备的效果会降低。"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Miliz: Blueprint für Sekundärwaffen-Schadensmodifikator",
     "en": "Militia Sidearm Damage Modifier Blueprint",
@@ -11,5 +23,7 @@
     "ru": "Чертеж модификатора урона для личного оружия, для ополчения",
     "zh": "国民卫队副武器伤害量调整器蓝图"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

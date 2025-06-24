@@ -1,5 +1,18 @@
 {
-  "typeID": 21668,
+  "basePrice": 15000000.0,
+  "description": {
+    "de": "Skill zur Bedienung und dem Abschuss von XL-Torpedos. 5% Bonus auf die Schadenswirkung von XL-Torpedos je Skillstufe.",
+    "en": "Skill at the handling and firing of XL torpedoes. 5% bonus to XL torpedo damage per skill level.",
+    "es": "Habilidad para manejar y disparar torpedos XL. 5 % de bonificación al daño de los torpedos XL por nivel de habilidad.",
+    "fr": "Compétence liée à la balistique et au maniement des torpilles XL. Augmente de 5 % par niveau les dégâts des torpilles XL.",
+    "ja": "XLトルピードの操作、発射スキル。スキルレベル上昇ごとにXLトルピードのダメージが5%増加。",
+    "ko": "XL 토피도를 운용하기 위한 스킬입니다. 매 레벨마다 XL 토피도 피해량 5% 증가",
+    "ru": "Навык эксплуатации сверхбольших торпед. За каждую степень освоения навыка: на 5% повышается урон БЧ сверхбольших торпед.",
+    "zh": "操作和发射超大型鱼雷的技能。每升一级，超大型鱼雷伤害提高5%。"
+  },
+  "groupID": 256,
+  "iconID": 33,
+  "marketGroupID": 373,
   "name": {
     "de": "XL Torpedoes",
     "en": "XL Torpedoes",
@@ -10,5 +23,8 @@
     "ru": "Сверхбольшие торпеды",
     "zh": "超大型鱼雷"
   },
+  "portionSize": 1,
+  "published": true,
+  "raceID": 4,
   "volume": 0.01
 }

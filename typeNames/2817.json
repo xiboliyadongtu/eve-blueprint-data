@@ -1,5 +1,21 @@
 {
-  "typeID": 2817,
+  "basePrice": 62340.0,
+  "description": {
+    "de": "Eine kleine Lenkwaffe mit EMP-Sprengkopf.\n\n\n\nDiese modifizierte Version der Mjolnir Rocket ist durchschlagskräftiger, allerdings auch schwerer und langsamer. Daher ist sie sehr effektiv gegen größere Ziele, jedoch deutlich weniger wirkungsvoll bei kleineren und agileren Zielen.",
+    "en": "A small rocket with an EMP warhead.\r\n\r\nThis modified version of the Mjolnir rocket packs a considerably stronger punch, but as a result is heavier and slower. This makes it very effective against larger targets, but markedly less effective against smaller and more agile targets.",
+    "es": "Cohete pequeño con una ojiva EMP.\n\nEsta versión modificada del cohete Mjolnir asesta un golpe considerablemente más fuerte, pero es más pesado y lento. Por eso es muy eficaz contra objetivos grandes y no tanto contra otros más pequeños y ágiles.",
+    "fr": "Petite roquette dotée d'une ogive IEM.\n\nCette version modifiée de la roquette Mjolnir est beaucoup plus puissante, mais en contrepartie plus lourde et plus lente. Cela lui permet d'être plus efficace contre des cibles plus imposantes, mais beaucoup moins contre des cibles plus petites et plus maniables.",
+    "ja": "EMP弾頭を装備した小型ロケット。\n\nミョルニールロケットの改良版。威力が大幅に増したが、その代償として鈍重になった。そのため、大型の標的には非常に強いが、小型で敏捷な標的に対する威力は明らかに劣る。",
+    "ko": "EMP 탄두를 탑재한 소형 로켓입니다. <br><br>기존 묠니르 로켓에 비해 화력은 강력하지만 무게 증가로 인해 비행속도가 감소했습니다. 이러한 이유로 대형 목표물을 상대로 매우 효과적이지만 작고 빠른 함선을 대상으로는 눈에 띄게 효과가 감소합니다.",
+    "ru": "Маленькая неуправляемая ракета с электромагнитной боеголовкой.\n\n\n\nЭта модификация неуправляемой ракеты Mjolnir отличается низкой скоростью и большим весом, но ее поражающая способность значительно выше. В высшей степени эффективна против крупных целей, и менее эффективна — против небольших.",
+    "zh": "一种装备了电子脉冲弹头的小型火箭弹。这是雷神火箭弹的一种改良版本，这个型号在设计上显得很慢而且笨重，但是却相较拥有更强大的威力。它对于大型的目标非常有效，对小型目标的效果则不是很理想。"
+  },
+  "graphicID": 20058,
+  "groupID": 648,
+  "iconID": 1352,
+  "marketGroupID": 930,
+  "mass": 100.0,
+  "metaGroupID": 2,
   "name": {
     "de": "Mjolnir Rage Rocket",
     "en": "Mjolnir Rage Rocket",
@@ -10,5 +26,9 @@
     "ru": "Mjolnir Rage Rocket",
     "zh": "雷神狂乱火箭"
   },
+  "portionSize": 5000,
+  "published": true,
+  "radius": 300.0,
+  "variationParentTypeID": 2512,
   "volume": 0.005
 }

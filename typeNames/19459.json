@@ -1,5 +1,17 @@
 {
-  "typeID": 19459,
+  "description": {
+    "de": "Emulatoren sind eigenständige Expertensysteme, die dazu verwendet werden, die Funktionen eines bestimmten Kernsystems komplett zu modifizieren. Diese Systeme sind ziemlich groß, aber da sie eigenständig sind, verbinden sie sich mit dem Schiff durch einen bestimmten Interfaceknoten, ohne dabei die Energie- oder Computersysteme des Schiffes zu beeinflussen.",
+    "en": "Servitor are Self contained Expert Systems used to radicaly alter the functionlity of a specific core system. These Systems are quite large but being self contained they connect to the ship though a Dedicated interface node without any disruption to the ships power and computer systems.",
+    "es": "Servitor are Self contained Expert Systems used to radicaly alter the functionlity of a specific core system. These Systems are quite large but being self contained they connect to the ship though a Dedicated interface node without any disruption to the ships power and computer systems.",
+    "fr": "Les serviteurs sont des systèmes experts intégrés utilisés pour altérer de manière radicale la fonctionnalité d'un système principal spécifique. Ces systèmes sont assez volumineux, mais étant donné qu'ils sont dépourvus de conteneurs externes, ils peuvent être reliés au vaisseau par un nœud d'interface dédié sans interruption de l'alimentation des vaisseaux et des systèmes informatiques.",
+    "ja": "サービターは、特定のコアシステムの機能を完全に代行可能な自律型エキスパートシステム。システムは巨大になるが、自律型であるため船のパワー、コンピュータシステムをわずらわせることなく、専用のインターフェイスノードを通じて船と接続可能。",
+    "ko": "자립적인 전문화 시스템으로 특정한 코어 시스템의 기능을 근본적으로 바꾸는데 사용됩니다. 상당한 부피를 지녔으나 자립 시스템이라는 특성 덕분에 전력 체계 및 함선 시스템에 영향을 받지 않은 채 함선 인터페이스에 접속이 가능합니다.",
+    "ru": "Servitor — это автономные экспертные системы, радикально изменяющие функциональность определенной системы. Эти системы довольно большие, но в силу своей автономности они могут подключаться к кораблю посредством выделенного интерфейса без какого-либо нарушения работы силовых и компьютерных систем корабля.",
+    "zh": "核心系统调节器是一个自给自足的专家系统，用于从根本上改变核心系统功能。这种系统十分庞大，但由于自成体系，它通过一个专用接口节点连接到飞船上，不影响飞船的动力和电脑系统。"
+  },
+  "groupID": 498,
+  "iconID": 2188,
+  "mass": 1.0,
   "name": {
     "de": "'Phase' Servitor",
     "en": "'Phase' Servitor",
@@ -10,5 +22,7 @@
     "ru": "'Phase' Servitor",
     "zh": "相位核心系统调节器"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 5.0
 }

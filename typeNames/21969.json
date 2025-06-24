@@ -1,5 +1,19 @@
 {
-  "typeID": 21969,
+  "basePrice": 72500000.0,
+  "description": {
+    "de": "Ein computergestütztes Interface, das es Leuten ermöglicht mit Waren und Dienstleistungen Tauschhandel zu betreiben. Der Außenposten agiert hierbei als zentralisierter Broker und Datenbank.",
+    "en": "A computerized interface allowing people to barter goods and services with the outpost acting as centralized broker and data bank.",
+    "es": "Interfaz informatizada que permite el intercambio de bienes y servicios con el puesto avanzado como intermediario centralizado y banco de datos.",
+    "fr": "Interface informatisée permettant de troquer des biens et des services au niveau d'un avant-poste faisant office de bureau de courtage central et de banque de données.",
+    "ja": "アウトポストを中央管理型ブローカーやデータバンクとして利用し、物資やサービスのやりとりを可能にするコンピュータインターフェイス。",
+    "ko": "전초기지를 중개소 및 데이터뱅크로 활용하여 사람들 간에 물자와 서비스 교환이 가능하도록 만든 컴퓨터화된 인터페이스입니다.",
+    "ru": "Компьютеризированный интерфейс, позволяющий людям обмениваться товарами и услугами. В роли центрального посредника, а также базы данных выступает сама станция.",
+    "zh": "一个计算机化界面，相当于一个中央经纪人和数据库，允许人们与空间站交换货物和服务。"
+  },
+  "groupID": 536,
+  "iconID": 2873,
+  "marketGroupID": 1865,
+  "mass": 10000.0,
   "name": {
     "de": "Structure Mission Network",
     "en": "Structure Mission Network",
@@ -10,5 +24,7 @@
     "ru": "Structure Mission Network",
     "zh": "建筑任务网络"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 3000.0
 }

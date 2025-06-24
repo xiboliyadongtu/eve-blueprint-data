@@ -1,5 +1,19 @@
 {
-  "typeID": 42836,
+  "basePrice": 1000.0,
+  "description": {
+    "de": "Dieses kompakte Bündel aktiver Nanobots kann in ein <a href=showinfo:42527>Informationskommandostrahlen</a>-Modul geladen und an verbündete Schiffe verteilt werden, um die Reichweite und Stärke ihrer Sensordämpfer, Waffenstörer, Zielmarkierung und gezielten ECM-Module zu verbessern.",
+    "en": "This compact bundle of active nanites can be loaded into an <a href=showinfo:42527>Information Command Burst</a> module and dispersed across allied ships to enhance the range and strength of their sensor dampener, weapon disruptor, target painter, and targeted ECM modules.",
+    "es": "Este lote compacto de nanobots activos puede cargarse en un módulo de <a href=showinfo:42527>estallido de mando de información</a> y dispersarse por naves aliadas para potenciar el alcance y la intensidad de los atenuadores de sensor, disruptores de armas, reveladores de objetivo y los módulos de ECM objetivo.",
+    "fr": "Ce pack compact de nanites actives peut être intégré à un module de <a href=showinfo:42527>salve de commandement électronique</a> et réparti entre les vaisseaux alliés afin d'augmenter la portée et la puissance de leurs atténuateurs de détection, perturbateurs d'armes, marqueurs de cibles et modules CME visés.",
+    "ja": "活性化したナノマシンを圧縮化したパッケージを<a href=showinfo:42527>情報コマンドバースト</a>モジュールに装填することで、ナノマシンを友軍の艦船に散布し、センサーダンプナー、武器ディスラプター、ターゲットペインター、標的指定型ECMモジュールの射程と強度を強化できる。",
+    "ko": "<a href=showinfo:42527>정보전 버스트</a> 모듈에 장착 가능한 나나이트 차지입니다. 동맹함선의 센서 댐프너, 무기 디스럽터, 타겟 페인터, 그리고 ECM 모듈 사거리와 능력을 향상합니다.",
+    "ru": "Этот компактный пакет активных нанитов может быть заряжен в модуль <a href=showinfo:42527>Information Command Burst</a> и с его помощью распределён по союзным кораблям, обеспечивая повышение эффективности и дальности действия их средств РЭБ.",
+    "zh": "这种紧凑的纳米机器人集群可以装载到<a href=showinfo:42527>信息战指挥脉冲波</a>装备中，并散布到友方舰船全身，提高其感应抑阻器、武器扰断器、目标标记装置和锁定ECM装备的范围和强度。"
+  },
+  "groupID": 1773,
+  "iconID": 21692,
+  "marketGroupID": 2299,
+  "mass": 0.01,
   "name": {
     "de": "Electronic Superiority Charge",
     "en": "Electronic Superiority Charge",
@@ -10,5 +24,7 @@
     "ru": "Electronic Superiority Charge",
     "zh": "电子优势弹药"
   },
+  "portionSize": 500,
+  "published": true,
   "volume": 0.01
 }

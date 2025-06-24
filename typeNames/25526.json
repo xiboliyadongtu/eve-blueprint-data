@@ -1,5 +1,19 @@
 {
-  "typeID": 25526,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Der verschlossene Behälter treibt lautlos durchs Weltall und wartet geduldig darauf, von einem gierigen Plünderer geöffnet zu werden.",
+    "en": "The enclosed storage bin drifts quietly in space, waiting patiently to be pried open by a hungry looter.",
+    "es": "Silo encapsulado que flota sin rumbo y en silencio por el espacio, a la espera de ser abierto por algún ávido saqueador.",
+    "fr": "Lieu d'entreposage fermé dérivant doucement dans l'espace et attendant patiemment d'être pillé.",
+    "ja": "銀河を静かに漂流する密閉された保管容器は、空腹の略奪者にこじ開けられるのを待っている。",
+    "ko": "우주를 조용히 떠다니는 밀폐된 저장고입니다. 누군가 와서 내용물을 꺼내 가주길 기다리고 있습니다.",
+    "ru": "Закрытый контейнер мирно дрейфует в пространстве, терпеливо ожидая вскрытия ненасытным мародером.",
+    "zh": "这个封闭的储藏舱静静地飘浮在太空中，耐心地等着饥渴的寻宝者将它开启。"
+  },
+  "graphicID": 1176,
+  "groupID": 306,
+  "iconID": 16,
+  "mass": 10000.0,
   "name": {
     "de": "Hidden Treasure Chest",
     "en": "Hidden Treasure Chest",
@@ -10,5 +24,9 @@
     "ru": "Hidden Treasure Chest",
     "zh": "藏宝柜"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 14.0,
+  "sofFactionName": "genericmetal",
   "volume": 1200.0
 }

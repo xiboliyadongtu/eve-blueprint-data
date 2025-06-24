@@ -1,5 +1,19 @@
 {
-  "typeID": 2210,
+  "basePrice": 30000.0,
+  "description": {
+    "de": "Eine ultraschwere Rakete mit Durchschlagskopf. Langsam und dumm, aber ihr bloßes Schadenspotential ist einfach überwältigend.",
+    "en": "An ultra-heavy piercing missile. Slow and dumb but its sheer damage potential is simply staggering.",
+    "es": "Misil perforante ultrapesado. Es lento y carece de autoguiado, pero su potencial de daño real resulta impresionante.",
+    "fr": "Missile perforant ultra-lourd. Lent et rudimentaire, mais son potentiel destructeur est tout simplement impressionnant.",
+    "ja": "超重量級ピアシングミサイル。速度は遅く精度も低いが、驚異的な破壊力を誇る。",
+    "ko": "대형 관통 미사일입니다. 느린 비행 속도를 지니고 있으나 타격 시 적에게 치명적인 피해를 입힙니다.",
+    "ru": "Сверхтяжелая бронебойная ракета. Она медленная и неповоротливая, но ее ударная мощь поражает воображение.",
+    "zh": "超重型穿甲导弹。虽然慢而笨重，但是破坏力着实惊人。"
+  },
+  "graphicID": 20016,
+  "groupID": 89,
+  "iconID": 1346,
+  "mass": 1500.0,
   "name": {
     "de": "Banshee Torpedo",
     "en": "Banshee Torpedo",
@@ -10,5 +24,8 @@
     "ru": "Banshee Torpedo",
     "zh": "女妖鱼雷"
   },
+  "portionSize": 100,
+  "published": false,
+  "radius": 300.0,
   "volume": 0.05
 }

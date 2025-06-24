@@ -1,5 +1,17 @@
 {
-  "typeID": 353907,
+  "basePrice": 24000.0,
+  "description": {
+    "de": "Repariert die Panzerung der Zieleinheit.\nModulart: Aktiv\nReparaturrate: 150HP/1s\nCooldown: 0\nPG-Kosten: 0\nCPU-Kosten: 0",
+    "en": "Repairs armor of targeted entity.\r\nModule Type: Active\r\nRepaire Rate: 150AP/1s\r\nCooldown Time: 0\r\nPG Cost: 0\r\nCPU Cost: 0",
+    "es": "Repara el blindaje de la entidad a la que se aplica.\nTipo de módulo: Activo\nÍndice de reparación: 150 AP/ 1s\nTiempo de recarga: 0\nCoste de RA: 0\nCoste de CPU: 0",
+    "fr": "Répare le blindage de la cible.\nType de module : Actif\nVitesse de réparation : 150 AP/s\nTemps de refroidissement : 0\nCoût PG : 0\nCoût CPU : 0",
+    "it": "Ripara la corazza dell'entità verso cui viene puntato.\nTipo modulo: Attivo\nVelocità riparazione: 150 AP/1s\nTempo raffreddamento: 0\nCosto PG: 0\nCosto CPU: 0",
+    "ja": "ターゲットしたアーマーをリペアする。\nモジュール種別: アクティブ\nリペア率: 150AP/1s\nクールダウン時間: 0\nPG占有量: 0\nCPU消費量: 0",
+    "ko": "아군 대상의 장갑을 수리합니다. <br><br>모듈 종류: <br><br>실수리 속도: 150방어막/1초 <br><br>재사용 대기시간: 0 <br><br>파워그리드 사용량: 0 <br><br>CPU 사용량: 0",
+    "ru": "Производит починку брони целевого объекта.\nТип модуля: активный\nСкорость ремонта: 150 ХП/с\nВремя остывания: 0 с\nПотребление энергии: 0\nПотребление ЦПУ: 0",
+    "zh": "修复目标实体的装甲。装备类型：主动修复速率：150AP/秒 冷却时间：0 PG消耗：0 CPU消耗：0"
+  },
+  "groupID": 351121,
   "name": {
     "de": "Logistik-LAV (leichtes Logistik-Angriffsfahrzeug): Fern-Massenreparaturaggregat (S)",
     "en": "Logistics LAV Mass Remote Repairer (S)",
@@ -11,5 +23,7 @@
     "ru": "Ремонтный модуль ЛДБ для массового дистанционного ремонта (S)",
     "zh": "后勤LAV大型远程修复器（小型）"
   },
+  "portionSize": 1,
+  "published": false,
   "volume": 0.01
 }

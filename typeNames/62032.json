@@ -1,5 +1,20 @@
 {
-  "typeID": 62032,
+  "basePrice": 150.0,
+  "description": {
+    "de": "Dieses Gerät ist eindeutig eine praktische Umsetzung der so genannten „Zeitkristall“-Materie, in der Teilchen in einem speziellen Quantensystem mit periodischer Struktur in Raum und Zeit angeordnet sind. Die besonderen Eigenschaften von Zeitkristallen sind nützlich für die Konstruktion von Geräten, die Raum- und Zeitkoordinaten korrekt anpeilen können und gleichzeitig der Entropie und zeitlichen Verzerrungen widerstehen, die von lokalen Verformungen der Raum-Zeit verursacht werden. Dieser Zeitkristall-Oszillator ist offenbar eine Komponente, die sicherstellt, dass Raum-Zeit-Daten synchronisiert werden.",
+    "en": "This device is clearly a practical application of the so-called \"time crystal\" type of matter where particles are arranged in a special class of quantum system with periodic structure across both space and time.\r\n\r\nThe special properties of time crystals are useful for constructing devices that can accurately fix space and time co-ordinates while resisting entropy and temporal distortions caused by local spacetime deformation. This time crystal oscillator appears to be a component used to assure synchronization of spatiotemporal data.",
+    "es": "Este dispositivo es una aplicación práctica de la materia llamada «cristal de tiempo», cuyas partículas están organizadas en una clase especial de sistema cuántico con una estructura periódica espaciotemporal.\n\n\n\nLas propiedades especiales de los cristales de tiempo son útiles para construir dispositivos que fijen coordenadas de espacio y tiempo y resistan a las distorsiones temporales y entrópicas causadas por la deformación local del espacio-tiempo. Este oscilador de cristal de tiempo parece un componente utilizado para garantizar la sincronización de datos espaciotemporales.",
+    "fr": "Cet appareil est clairement une application pratique du type de matière appelé « cristal temporel » dans lequel les particules sont arrangées selon un système quantique d'une classe spéciale, doté de structures périodiques englobant à la fois l'espace et le temps. Les propriétés spéciales des cristaux temporels sont utiles pour construire des appareils capables de corriger précisément les coordonnées spatiotemporelles tout en résistant à l'entropie et aux distorsions temporelles causées par des déformations locales de l'espace-temps. Cet oscillateur de cristal temporel semble être un composant utilisé pour assurer la synchronisation des données spatiotemporelles.",
+    "ja": "このデバイスが、いわゆる『タイムクリスタル』タイプの物質を実用化していることは明らかである。このような物質は、空間と時間の両方を横断する周期構造を備えた特別な量子力学的システム内に粒子が配列されている。\n\n\n\nタイムクリスタルの特性は、時空座標を正確に固定しつつ、局地的な時空の変形によって引き起こされるエントロピーと時間の歪みに耐えることができるデバイスを作成する上で役に立つ。このタイムクリスタル製オシレーターは、時空間データの同期を確実に行うために使われる部品らしい。",
+    "ko": "'시공간 결정'을 활용한 장치로, 특수 양자 시스템을 주기적 구조에 따라 나열하였습니다. 시공간 결정을 통해 엔트로피 및 시공간 왜곡 현상을 방지할 수 있으며, 시공간 상의 좌표를 고정시킬 수 있습니다. 해당 장치는 시공간 데이터를 동기화하는 데 사용됩니다.",
+    "ru": "В этом устройстве явно нашёл практическое применение тип материи так называемого «темпорального кристалла», в котором частицы образуют особый класс квантовой системы с периодической структурой в пространстве и времени. Особые свойства темпоральных кристаллов позволяют создавать устройства, которые могут точно фиксировать пространственные и временные координаты, сопротивляясь энтропийным и временным искажениям, вызванным локальной деформацией пространства-времени. Этот осциллятор темпорального кристалла используется для обеспечения синхронизации пространственно-временных данных.",
+    "zh": "这个装置很明显是一种所谓的“时间晶体”之类的物质的实际应用产物，粒子通过一种特殊的周期性结构量子系统来跨越时空。\n\n\n\n时间晶体的特殊属性可以用来准确地定位时空坐标，不受时空畸变产生的熵能扭曲的影响。这个时间晶体振荡器似乎是用来保持时空数据同步的工具。"
+  },
+  "groupID": 4165,
+  "iconID": 2234,
+  "marketGroupID": 2013,
+  "mass": 1.0,
+  "metaGroupID": 1,
   "name": {
     "de": "Time Crystal Oscillator",
     "en": "Time Crystal Oscillator",
@@ -10,5 +25,7 @@
     "ru": "Time Crystal Oscillator",
     "zh": "时间水晶振荡器"
   },
+  "portionSize": 1,
+  "published": true,
   "volume": 0.005
 }

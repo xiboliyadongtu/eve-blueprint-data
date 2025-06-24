@@ -1,5 +1,18 @@
 {
-  "typeID": 18026,
+  "capacity": 1000.0,
+  "description": {
+    "de": "Raubdrohnen-Wächterkanone.",
+    "en": "Rogue Drone sentry gun.",
+    "es": "Torreta centinela dron rebelde.",
+    "fr": "Canon sentinelle drone renégat.",
+    "ja": "ローグドローンのセントリーガン。",
+    "ko": "로그 드론 센트리 포탑입니다.",
+    "ru": "Стационарное орудие восставших дронов.",
+    "zh": "自由无人机岗哨炮。"
+  },
+  "graphicID": 2592,
+  "groupID": 383,
+  "mass": 1000.0,
   "name": {
     "de": "Tower Sentry Drone III",
     "en": "Tower Sentry Drone III",
@@ -10,5 +23,9 @@
     "ru": "Tower Sentry Drone III",
     "zh": "无人机塔台岗哨 III"
   },
+  "portionSize": 1,
+  "published": false,
+  "radius": 220.0,
+  "sofFactionName": "roguebase",
   "volume": 1000.0
 }
