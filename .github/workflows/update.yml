@@ -1,32 +1,35 @@
-name: 🔁 Auto Update EVE SDE
+name: 🛠️ Auto Update EVE SDE
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * 2'  # 每周二 UTC 00:00 执行
+    - cron: '0 4 * * *' # 每天日本时间13:00（UTC+9）
+  workflow_dispatch: # 支持手动触发
 
 jobs:
-  build:
+  update-sde:
     runs-on: ubuntu-latest
+
     steps:
-    - name: 📥 Checkout repository
-      uses: actions/checkout@v3
+      - name: ⬇️ Checkout repo
+        uses: actions/checkout@v3
 
-    - name: 🐍 Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.10'
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
 
-    - name: 📦 Install dependencies
-      run: pip install pyyaml
+      - name: 📦 Install dependencies
+        run: pip install pyyaml
 
-    - name: 🛠️ Run update script
-      run: python .github/scripts/update_sde.py
+      - name: 🚀 Run update_sde.py
+        run: python .github/scripts/update_sde.py
 
-    - name: 📤 Commit and push changes
-      run: |
-        git config --global user.name 'github-actions[bot]'
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add .
-        git commit -m "🔁 Auto update SDE data"
-        git push
+      - name: 📤 Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add .
+          git commit -m "🔄 Auto-update SDE data" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
