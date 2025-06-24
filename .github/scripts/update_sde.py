@@ -5,7 +5,7 @@ import yaml
 import json
 
 # ✅ 下载 EVE 官方 SDE ZIP 包
-SDE_URL = "https://web.ccpgamescdn.com/aws/evesde/latest/sde.zip"
+SDE_URL = "https://eve-static-data-export.s3-eu-west-1.amazonaws.com/tranquility/sde.zip"
 ZIP_PATH = "sde.zip"
 EXTRACT_PATH = "sde"
 
