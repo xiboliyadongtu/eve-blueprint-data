@@ -6,7 +6,8 @@ import shutil
 from urllib.request import urlretrieve
 from git import Repo
 
-SDE_URL = "https://eve-static-data-export.s3-eu-west-1.amazonaws.com/tranquility/sde.zip"
+# ✅ 修复：使用官方最新 master 分支 ZIP
+SDE_URL = "https://github.com/ccpgames/eve-static-data-export/archive/refs/heads/master.zip"
 ZIP_PATH = "sde.zip"
 EXTRACT_PATH = "sde"
 BLUEPRINT_OUT = "blueprints"
@@ -20,10 +21,11 @@ print("📦 Extracting SDE zip...")
 with zipfile.ZipFile(ZIP_PATH, 'r') as zip_ref:
     zip_ref.extractall(EXTRACT_PATH)
 
-with open(f"{EXTRACT_PATH}/fsd/blueprints.yaml", "r", encoding="utf-8") as f:
+# ✅ 修复：增加目录层级 eve-static-data-export-master
+with open(f"{EXTRACT_PATH}/eve-static-data-export-master/fsd/blueprints.yaml", "r", encoding="utf-8") as f:
     blueprints_data = yaml.safe_load(f)
 
-with open(f"{EXTRACT_PATH}/fsd/types.yaml", "r", encoding="utf-8") as f:
+with open(f"{EXTRACT_PATH}/eve-static-data-export-master/fsd/types.yaml", "r", encoding="utf-8") as f:
     types_data = yaml.safe_load(f)
 
 shutil.rmtree(BLUEPRINT_OUT, ignore_errors=True)
