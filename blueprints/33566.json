@@ -1,0 +1,52 @@
+{
+  "activities": {
+    "copying": {
+      "time": 4800
+    },
+    "manufacturing": {
+      "materials": [
+        {
+          "quantity": 41,
+          "typeID": 33539
+        },
+        {
+          "quantity": 412,
+          "typeID": 2346
+        },
+        {
+          "quantity": 110,
+          "typeID": 11399
+        },
+        {
+          "quantity": 366,
+          "typeID": 2348
+        },
+        {
+          "quantity": 392,
+          "typeID": 2367
+        }
+      ],
+      "products": [
+        {
+          "quantity": 1,
+          "typeID": 33565
+        }
+      ],
+      "skills": [
+        {
+          "level": 4,
+          "typeID": 3380
+        }
+      ],
+      "time": 6000
+    },
+    "research_material": {
+      "time": 2100
+    },
+    "research_time": {
+      "time": 2100
+    }
+  },
+  "blueprintTypeID": 33566,
+  "maxProductionLimit": 30
+}

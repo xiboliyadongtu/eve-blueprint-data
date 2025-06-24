@@ -1,0 +1,122 @@
+{
+  "activities": {
+    "copying": {
+      "materials": [
+        {
+          "quantity": 1,
+          "typeID": 11466
+        },
+        {
+          "quantity": 3,
+          "typeID": 3812
+        }
+      ],
+      "skills": [
+        {
+          "level": 1,
+          "typeID": 11452
+        },
+        {
+          "level": 1,
+          "typeID": 11453
+        }
+      ],
+      "time": 12000
+    },
+    "manufacturing": {
+      "materials": [
+        {
+          "quantity": 1,
+          "typeID": 11481
+        },
+        {
+          "quantity": 1,
+          "typeID": 25619
+        },
+        {
+          "quantity": 1,
+          "typeID": 25617
+        },
+        {
+          "quantity": 1,
+          "typeID": 25615
+        }
+      ],
+      "products": [
+        {
+          "quantity": 1,
+          "typeID": 32053
+        }
+      ],
+      "skills": [
+        {
+          "level": 5,
+          "typeID": 3380
+        },
+        {
+          "level": 1,
+          "typeID": 11452
+        },
+        {
+          "level": 1,
+          "typeID": 11453
+        },
+        {
+          "level": 1,
+          "typeID": 26255
+        }
+      ],
+      "time": 15000
+    },
+    "research_material": {
+      "materials": [
+        {
+          "quantity": 1,
+          "typeID": 11466
+        },
+        {
+          "quantity": 2,
+          "typeID": 9836
+        },
+        {
+          "quantity": 2,
+          "typeID": 3814
+        }
+      ],
+      "skills": [
+        {
+          "level": 5,
+          "typeID": 3409
+        },
+        {
+          "level": 1,
+          "typeID": 11452
+        },
+        {
+          "level": 1,
+          "typeID": 11453
+        },
+        {
+          "level": 1,
+          "typeID": 26255
+        }
+      ],
+      "time": 5250
+    },
+    "research_time": {
+      "skills": [
+        {
+          "level": 5,
+          "typeID": 3403
+        },
+        {
+          "level": 1,
+          "typeID": 26255
+        }
+      ],
+      "time": 5250
+    }
+  },
+  "blueprintTypeID": 32054,
+  "maxProductionLimit": 1
+}

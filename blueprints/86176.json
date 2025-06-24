@@ -1,0 +1,51 @@
+{
+  "activities": {
+    "manufacturing": {
+      "materials": [
+        {
+          "quantity": 50,
+          "typeID": 40
+        },
+        {
+          "quantity": 150,
+          "typeID": 39
+        },
+        {
+          "quantity": 200,
+          "typeID": 38
+        },
+        {
+          "quantity": 250,
+          "typeID": 37
+        },
+        {
+          "quantity": 2000,
+          "typeID": 36
+        },
+        {
+          "quantity": 3000,
+          "typeID": 35
+        },
+        {
+          "quantity": 5000,
+          "typeID": 34
+        }
+      ],
+      "products": [
+        {
+          "quantity": 20,
+          "typeID": 85088
+        }
+      ],
+      "skills": [
+        {
+          "level": 1,
+          "typeID": 3380
+        }
+      ],
+      "time": 300
+    }
+  },
+  "blueprintTypeID": 86176,
+  "maxProductionLimit": 10
+}

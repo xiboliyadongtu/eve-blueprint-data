@@ -1,0 +1,83 @@
+{
+  "activities": {
+    "copying": {
+      "time": 480
+    },
+    "invention": {
+      "materials": [
+        {
+          "quantity": 1,
+          "typeID": 20418
+        },
+        {
+          "quantity": 1,
+          "typeID": 20420
+        }
+      ],
+      "products": [
+        {
+          "probability": 0.34,
+          "quantity": 10,
+          "typeID": 24489
+        },
+        {
+          "probability": 0.34,
+          "quantity": 10,
+          "typeID": 24616
+        }
+      ],
+      "skills": [
+        {
+          "level": 1,
+          "typeID": 11453
+        },
+        {
+          "level": 1,
+          "typeID": 11449
+        },
+        {
+          "level": 1,
+          "typeID": 21790
+        }
+      ],
+      "time": 45600
+    },
+    "manufacturing": {
+      "materials": [
+        {
+          "quantity": 351,
+          "typeID": 34
+        },
+        {
+          "quantity": 119,
+          "typeID": 35
+        },
+        {
+          "quantity": 1,
+          "typeID": 38
+        }
+      ],
+      "products": [
+        {
+          "quantity": 100,
+          "typeID": 21867
+        }
+      ],
+      "skills": [
+        {
+          "level": 1,
+          "typeID": 3380
+        }
+      ],
+      "time": 600
+    },
+    "research_material": {
+      "time": 210
+    },
+    "research_time": {
+      "time": 210
+    }
+  },
+  "blueprintTypeID": 21868,
+  "maxProductionLimit": 300
+}
