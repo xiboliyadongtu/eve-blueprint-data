@@ -26,11 +26,12 @@ jobs:
       - name: 🚀 Run update_sde.py
         run: python .github/scripts/update_sde.py
 
-      - name: 🛠️ Pull latest changes from remote
+      - name: 🛠️ Pull latest changes from remote and rebase
         run: |
           git fetch origin
           git checkout main
-          git pull origin main --rebase
+          git reset --hard origin/main  # 确保本地代码与远程同步
+          git pull origin main --rebase  # 拉取远程更新并合并
 
       - name: 📤 Commit and push changes
         run: |
