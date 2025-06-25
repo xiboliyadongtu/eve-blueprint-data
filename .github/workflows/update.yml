@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: ⬇️ Checkout repo
         uses: actions/checkout@v3
+        with:
+          lfs: true  # 确保拉取 LFS 文件
 
       - name: 🐍 Setup Python
         uses: actions/setup-python@v4
