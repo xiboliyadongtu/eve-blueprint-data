@@ -62,3 +62,16 @@ for typeID, item in types_data.items():
     count_type += 1
 
 print(f"✅ 已导出 {count_type} 个物品文件至 {TYPENAME_OUTPUT_DIR}/")
+
+# 生成产物 ID -> 蓝图 ID 映射表
+product_to_blueprint = {}
+for bp_id, bp_data in blueprints.items():
+    try:
+        products = bp_data["activities"]["manufacturing"]["products"]
+        for p in products:
+            product_to_blueprint[str(p["typeID"])] = int(bp_id)
+    except KeyError:
+        continue
+
+with open("product_to_blueprint.json", "w", encoding="utf-8") as f:
+    json.dump(product_to_blueprint, f, indent=2, ensure_ascii=False)
