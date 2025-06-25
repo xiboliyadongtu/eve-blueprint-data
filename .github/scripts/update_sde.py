@@ -78,3 +78,18 @@ with open("product_to_blueprint.json", "w", encoding="utf-8") as f:
     json.dump(product_to_blueprint, f, indent=2, ensure_ascii=False)
 
 print(f"✅ 已导出 {len(product_to_blueprint)} 条产物→蓝图映射。")
+
+# ✅ 生成 typeNames/index.json
+print("🧩 生成 typeNames/index.json ...")
+index_data = []
+
+for typeID, item in types_data.items():
+    index_data.append({
+        "id": int(typeID),
+        "name": item.get("name", {})
+    })
+
+with open(os.path.join(TYPENAME_OUTPUT_DIR, "index.json"), "w", encoding="utf-8") as f:
+    json.dump(index_data, f, ensure_ascii=False, indent=2)
+
+print(f"✅ 已生成 {len(index_data)} 条 typeNames 索引")
