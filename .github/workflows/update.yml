@@ -2,7 +2,7 @@ name: 🛠️ Auto Update EVE SDE (safe mode)
 
 on:
   schedule:
-    - cron: '0 4 * * *'  # 每天日本时间13:00（UTC+9）
+    - cron: '0 4 1 * *'  # 表示每月的 1 号 13:00（UTC+9）运行
   workflow_dispatch:
 
 jobs:
