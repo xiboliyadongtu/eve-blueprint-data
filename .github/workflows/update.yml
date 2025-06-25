@@ -35,6 +35,7 @@ jobs:
           git pull origin main --rebase || echo "🔁 Rebase skipped"
 
           git add .
+          git status  # 📌 确认文件是否被添加
           if git diff --cached --quiet; then
             echo "🟡 No changes to commit."
           else
