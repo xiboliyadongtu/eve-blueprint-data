@@ -27,30 +27,19 @@ jobs:
       - name: 🚀 Run update_sde.py
         run: python .github/scripts/update_sde.py
 
-      - name: 🔄 Pull latest changes from remote
+      - name: 📤 Commit and push (with safe check)
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git branch --set-upstream-to=origin/main main
-          git pull --rebase || echo "🔁 Rebase skipped"
+          git pull origin main --rebase || echo "🔁 Rebase skipped"
 
-      - name: 🔍 Check for changes
-        id: git-check
-        run: |
-          git add -N .
+          git add .
           if git diff --cached --quiet; then
-            echo "no_changes=true" >> $GITHUB_ENV
             echo "🟡 No changes to commit."
           else
-            echo "no_changes=false" >> $GITHUB_ENV
-            echo "🟢 Detected file changes."
+            git commit -m "🔄 Auto-update SDE data"
+            git push origin main || echo "⚠️ Push failed, will retry in next run."
           fi
-
-      - name: 📤 Commit and push (only if changed)
-        if: env.no_changes == 'false'
-        run: |
-          git add .
-          git commit -m "🔄 Auto-update SDE data"
-          git push origin main || echo "⚠️ Push failed, will retry in next run."
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
