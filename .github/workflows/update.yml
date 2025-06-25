@@ -24,6 +24,12 @@ jobs:
       - name: 🚀 Run update_sde.py
         run: python .github/scripts/update_sde.py
 
+      - name: 🛠️ Pull latest changes from remote
+        run: |
+          git fetch origin
+          git checkout main
+          git pull origin main --rebase
+
       - name: 📤 Commit and push changes
         run: |
           git config user.name "github-actions"
