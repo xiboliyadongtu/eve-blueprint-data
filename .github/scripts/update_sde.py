@@ -66,7 +66,7 @@ print(f"✅ 已导出 {count_type} 个物品文件至 {TYPENAME_OUTPUT_DIR}/")
 # ✅ 生成产物 ID → 蓝图 ID 映射表
 print("🔧 生成 product_to_blueprint.json ...")
 product_to_blueprint = {}
-for bp_id, bp_data in blueprints_data.items():  # ✅ 修正这里
+for bp_id, bp_data in blueprints_data.items():
     try:
         products = bp_data["activities"]["manufacturing"]["products"]
         for p in products:
