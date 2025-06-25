@@ -34,8 +34,8 @@ jobs:
           git branch --set-upstream-to=origin/main main
           git pull origin main --rebase || echo "🔁 Rebase skipped"
 
-          git add .
-          git status  # 📌 确认文件是否被添加
+          git add .  # 使用 git add . 来添加所有新文件
+          git status  # 查看文件状态，确保新文件被添加
           if git diff --cached --quiet; then
             echo "🟡 No changes to commit."
           else
