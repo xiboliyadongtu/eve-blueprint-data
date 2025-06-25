@@ -7,7 +7,7 @@ from urllib.request import urlretrieve
 # ✅ 下载链接和路径设置
 SDE_URL = "https://eve-static-data-export.s3-eu-west-1.amazonaws.com/tranquility/fsd.zip"  # 仅下载 fsd 文件夹
 ZIP_PATH = "fsd.zip"
-EXTRACT_PATH = "fsd"  # 解压后只处理 fsd 文件夹
+EXTRACT_PATH = "fsd"
 BLUEPRINT_OUTPUT_DIR = "blueprints"
 TYPENAME_OUTPUT_DIR = "typeNames"
 
@@ -63,9 +63,10 @@ for typeID, item in types_data.items():
 
 print(f"✅ 已导出 {count_type} 个物品文件至 {TYPENAME_OUTPUT_DIR}/")
 
-# 生成产物 ID -> 蓝图 ID 映射表
+# ✅ 生成产物 ID → 蓝图 ID 映射表
+print("🔧 生成产物蓝图索引...")
 product_to_blueprint = {}
-for bp_id, bp_data in blueprints.items():
+for bp_id, bp_data in blueprints_data.items():  # ✅ 修复变量名
     try:
         products = bp_data["activities"]["manufacturing"]["products"]
         for p in products:
@@ -75,3 +76,5 @@ for bp_id, bp_data in blueprints.items():
 
 with open("product_to_blueprint.json", "w", encoding="utf-8") as f:
     json.dump(product_to_blueprint, f, indent=2, ensure_ascii=False)
+
+print(f"✅ 已导出 {len(product_to_blueprint)} 个蓝图映射项至 product_to_blueprint.json")
