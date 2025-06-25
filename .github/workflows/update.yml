@@ -10,11 +10,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: ⬇️ Checkout repo with full history
+      - name: ⬇️ Checkout full repo with LFS
         uses: actions/checkout@v3
         with:
           lfs: true
-          fetch-depth: 0  # 🔥 关键：拉取完整 Git 历史
+          fetch-depth: 0  # 🟢 拉取完整历史，避免无法 rebase/push
 
       - name: 🐍 Setup Python
         uses: actions/setup-python@v4
@@ -27,13 +27,12 @@ jobs:
       - name: 🚀 Run update_sde.py
         run: python .github/scripts/update_sde.py
 
-      - name: 🛠️ Commit and force push changes
+      - name: 📤 Commit and force push changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git pull origin main --rebase || echo "Nothing to rebase"
           git add .
           git commit -m "🔄 Auto-update SDE data" || echo "No changes to commit"
+          # 设置远程 URL 使用 PAT（替代 GITHUB_TOKEN）
+          git remote set-url origin https://x-access-token:${{ secrets.PUSH_TOKEN }}@github.com/${{ github.repository }}
           git push origin main --force
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
