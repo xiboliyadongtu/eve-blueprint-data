@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           lfs: true
-          fetch-depth: 0
+          fetch-depth: 0  # 保证可以 rebase 和追踪远程分支
 
       - name: 🐍 Setup Python
         uses: actions/setup-python@v4
@@ -27,11 +27,12 @@ jobs:
       - name: 🚀 Run update_sde.py
         run: python .github/scripts/update_sde.py
 
-      - name: 🔄 Pull latest changes
+      - name: 🔄 Pull latest changes from remote
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git pull origin main --rebase || echo "🔁 Rebase skipped"
+          git branch --set-upstream-to=origin/main main
+          git pull --rebase || echo "🔁 Rebase skipped"
 
       - name: 🔍 Check for changes
         id: git-check
