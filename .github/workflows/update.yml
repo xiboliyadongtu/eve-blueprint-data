@@ -2,18 +2,19 @@ name: 🛠️ Auto Update EVE SDE
 
 on:
   schedule:
-    - cron: '0 4 * * *' # 每天日本时间13:00（UTC+9）
-  workflow_dispatch: # 支持手动触发
+    - cron: '0 4 * * *'  # 每天日本时间13:00（UTC+9）
+  workflow_dispatch:
 
 jobs:
   update-sde:
     runs-on: ubuntu-latest
 
     steps:
-      - name: ⬇️ Checkout repo
+      - name: ⬇️ Checkout repo with full history
         uses: actions/checkout@v3
         with:
-          lfs: true  # 确保拉取 LFS 文件
+          lfs: true
+          fetch-depth: 0  # 🔥 关键：拉取完整 Git 历史
 
       - name: 🐍 Setup Python
         uses: actions/setup-python@v4
@@ -26,19 +27,13 @@ jobs:
       - name: 🚀 Run update_sde.py
         run: python .github/scripts/update_sde.py
 
-      - name: 🛠️ Pull latest changes from remote and rebase
-        run: |
-          git fetch origin
-          git checkout main
-          git reset --hard origin/main  # 确保本地代码与远程同步
-          git pull origin main --rebase  # 拉取远程更新并合并
-
-      - name: 📤 Commit and push changes
+      - name: 🛠️ Commit and force push changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
+          git pull origin main --rebase || echo "Nothing to rebase"
           git add .
           git commit -m "🔄 Auto-update SDE data" || echo "No changes to commit"
-          git push
+          git push origin main --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
