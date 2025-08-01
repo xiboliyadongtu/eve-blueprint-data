@@ -4290,13 +4290,13 @@
   fittableNonSingleton: false
   iconID: 0
   name:
-    de: Ballistisches Kontrollsystem
-    en: Ballistic Control system
+    de: Ballistikkontrollsystem
+    en: Ballistic Control System
     es: Sistema de control balístico
     fr: Système de contrôle balistique
     ja: 弾道制御装置
     ko: 탄도 제어시스템
-    ru: Баллистические вычислители
+    ru: Система управления баллистикой
     zh: 弹道控制系统
   published: true
   useBasePrice: false
@@ -25471,6 +25471,15 @@
     zh: 泰拉石
   published: true
   useBasePrice: false
+4900:
+  anchorable: false
+  anchored: false
+  categoryID: 17
+  fittableNonSingleton: false
+  name:
+    en: Stability Telemetry
+  published: true
+  useBasePrice: true
 350858:
   anchorable: false
   anchored: false

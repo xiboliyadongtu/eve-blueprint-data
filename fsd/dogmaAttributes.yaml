@@ -18449,7 +18449,7 @@
   description: ''
   displayNameID:
     de: Kann eingebaut werden in
-    en: Can be fitted to
+    en: Can only be fitted to
     es: Se puede equipar en
     fr: Peut être équipé sur
     ja: 装着可能対象
@@ -18533,7 +18533,7 @@
   description: ''
   displayNameID:
     de: Kann eingebaut werden in
-    en: Can be fitted to
+    en: Can only be fitted to
     es: Se puede equipar en
     fr: Peut être équipé sur
     ja: 装着可能対象
@@ -42961,3 +42961,25 @@
     ru: Бонус комплекта имплантов «Клин»
     zh: 分裂植入体系列加成
   unitID: 105
+5804:
+  attributeID: 5804
+  dataType: 2
+  defaultValue: 0.0
+  description: to keep track of what is the current damage multiplier bonus for a
+    weapon
+  displayWhenZero: false
+  highIsGood: true
+  name: damageMultiplierBonusCurrent
+  published: false
+  stackable: false
+5818:
+  attributeID: 5818
+  dataType: 2
+  defaultValue: 0.0
+  description: to keep track of when is the damage multiplier bonus reaches its max
+    value. This value is in blue time
+  displayWhenZero: false
+  highIsGood: false
+  name: damageMultiplierBonusMaxTimestamp
+  published: false
+  stackable: false
